@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 174233
+revid: 176124
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Dormant Splinter, Razor Cutlass, 3 Umbrite in The Cold Forge |
 | description | Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone. |

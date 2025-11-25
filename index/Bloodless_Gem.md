@@ -1,9 +1,9 @@
 ---
 title: Bloodless Gem
-revid: 175703
+revid: 176182
 source: https://deepwoken.fandom.com/wiki/Bloodless_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Mantras, Deep Gems]
+categories: [Treasures, Mantras, Deep Gems]
 ---
 
 # Bloodless Gem

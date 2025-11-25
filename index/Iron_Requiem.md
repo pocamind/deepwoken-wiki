@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 173950
+revid: 176128
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Multiple Criticals, Light Weapons, The Ignition Union]
@@ -23,7 +23,7 @@ categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, 
 | weight | 1 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Saramaed Hollow, Finnegan The Lost (Very Rare) |
 | description | Reverse-engineered from stolen Summer Company weapons shipments, in recent times Ironsingers have found a lucrative profession in the creation of weaponry and equipment. Being the birthplace of the art's revival, the Ignition Union have funneled this wealth into the production of weapons imbued with active Ironsing components. |

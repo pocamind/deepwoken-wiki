@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 169892
+revid: 176150
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | weight | 6 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crypt of the Unbroken (Chest), Scion of Ethiron (Chest), Ministry Ambushes (Chest), Diluvian Mechanism (wave 30-50), Second Layer (Floor 1 Chests), Weird Trader |
 | description | In her dying breaths, Sudaruska the Unbroken infused her very being into this weapon, cutting through hundreds of ancient Ministry as the last front to keep Minityrsa safe. Now that her mortal shell is no more, she has become Gran Sudaruska. |

@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 169595
+revid: 176153
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Light Weapons, "Weapons with Multi-Hit Criticals"]
@@ -17,7 +17,7 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 20% |
-| special effect | Proccing Shadowcast Talents on critical hits.Has synergies with the Deepscorn Casque and Darkened Bastion armor. |
+| special effect | Procs Shadowcast Talents on critical hits.Has synergies with the Deepscorn Casque and Darkened Bastion armor. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -25,7 +25,7 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Weird Trader, The Understrand |
 | description | This rapier's blade was not forged in the traditional sense; rather, it was grown from the darkest scoria of the abyss, taking shape as a twisting, malevolent shadow. Tales speak of a noble warrior from Celtor who, after discovering ancient ministry passages, was consumed by a twisted curiosity and nurtured this vile blade. As the dark ritual progressed, the warrior's soul was pulled deeper into darkness, their essence decaying and their mind unraveling into madness. Ultimately succumbing to the depths, thus stirs the Deepspindle. |
@@ -36,7 +36,7 @@ The **Deepspindle** is a Legendary [Rapier](Weapons.md#rapiers); a malevolent ma
 
 The Deepspindle can be acquired as a guaranteed drop from a Ministry Cache Agent, or by chance from a random related event:
 
-1.  Obtain [Shadow Travel](Talents.md) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
+1.  Obtain [Shadow Travel](Talents.md#shadow-travel) or [Shadow's Flight](<Shadow's_Flight.md>) by crafting two [Void Feathers](Dark_Feather.md#void-feather) and an [Umbral Obsidian](Umbral_Obsidian.md) together.
 2.  Find an [Understrand](The_Understrand.md) entrance. The entrance can spawn as a part of [Silhuett's](Silhuett.md) event, or as a random spawn in the following area, signified by their purple glow and the hex circle:
     -   [Outpost Antumbra](Outpost_Antumbra.md)
     -   [Minityrsa](Minityrsa.md)

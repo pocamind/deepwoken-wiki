@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 175478
+revid: 176163
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, The Ignition Union]
@@ -37,7 +37,7 @@ This Outfit has 1500 durability, grants 15% Physical Armor, 5% Elemental Armor, 
 
 ## Trivia
 
--   Like all other Origin-exclusive Outfits, Union Initiate is lost upon crafting/equipping another Outfit.
+-   Because this Outfit is immediately equipped upon spawning with the [Ignition Delver](Ignition_Delver.md) Origin, without you _learning_ the schematic, if you craft any other Outfit, this Outfit will be lost permanently.
 -   The Union Initiate is near identical to the [Ignition Union Uniform](Ignition_Union_Uniform.md). Having **SLIGHTLY** darker pants.
 -   When it first released, it was automatically learned for all players and was droppable from chests in [Saramaed Hollow](Saramaed_Hollow.md) and [Scyphozia](First_Layer.md). This was later fixed in a shadow update.
     -   All characters who had crafted this Outfit prior to it being fixed kept it.

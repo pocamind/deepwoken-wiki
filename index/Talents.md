@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 175687
+revid: 176193
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2668,7 +2668,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
     -   Enemies have damage reduced by 30% when Metal Jailed.
     -   When restrained, victim will have 6 second rod and pull immunity, upon jailer expire immunity will be set to 1s.
-    -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc
+    -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc.
+    -   Doesn't scale from Ironsing investment, static duration.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Conductor
 

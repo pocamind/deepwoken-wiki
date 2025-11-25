@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 175316
+revid: 176160
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -43,3 +43,7 @@ This Outfit has 3500 durability and grants +30% Physical resistance, +35% Elemen
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 41.5% Shadowcast, 41.5% Ironsing, 41.5% Bloodrend, and 35% Elemental.
 
 The [Lethal Dose](Talents.md#lethal-dose) Talent doubles the duration of the Poison status effect from your [Hidden Blade](Authority_Ensign.md#hidden-blade).
+
+## Trivia
+
+-   Because this Outfit is immediately equipped upon joining the Inquisition Division without you _learning_ the schematic, if you craft any other Outfit, this Outfit will be lost permanently.

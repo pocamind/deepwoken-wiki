@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 168123
+revid: 176152
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | The Doom of Caeranthil (World Event) |
 | description | Fashioned from the remnants of Caeranthil’s Doom, the blade undulates like a living thing, lurching and clawing at your foes from afar. The Submergence of the Southern Luminant was not solely perpetrated by the Horror that plunged Celtor into the Depths below, but by countless other smaller tragedies drowned out by the vastness of calamity. Of these, the leviathan known as the Doom of Caeranthil, is named for the land it too dragged below. In many respects, knowledge of Caeranthil only persists within the lens of nightmares that consumed it. The culture, the food, the laughter, the in-jokes, the petty disputes, the fashions they styled themselves after… How can we experience these things if there’s no one left to remember them? |

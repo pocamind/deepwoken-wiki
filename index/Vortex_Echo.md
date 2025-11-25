@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 172771
+revid: 176127
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons]
@@ -23,8 +23,8 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 | selling price | 100 |
 | weight | 4 |
 | bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
+| droppable | No |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Weathered Timepiece + Temporal Crux + Kyrsan Schematic in a Crafting Table |
 | description | A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow just a bit older. |
@@ -53,9 +53,9 @@ Buster Call
 ## Trivia
 
 -   Vortex Echo utilizes [Legion Katas](Legion_Kata.md) M1 animations regardless of your chosen Fist Style.
-    -   This paired with [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) critical not working on Vortex Echo makes [Fang and Coil](Fang_and_Coil.md) a very bad Fist Style for this weapon.
+-   This paired with [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) critical not working on Vortex Echo makes [Fang and Coil](Fang_and_Coil.md) a very bad Fist Style for this weapon.
 -   [Deepscorn Casque](Deepscorn_Casque.md) does not lower the wither gain upon crit usage.
--   Vortex Echo's critical allegedly fully reset cooldowns regardless of how long they were before the weapon was made publicly available.
+-   Vortex Echo's critical allegedly used to fully reset cooldowns regardless of how long they were, before the weapon was made publicly available.
 -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds (outside of [Chime of Conflict](Chime_of_Conflict.md)).
 -   Also works on Hive Fountains.
 -   When not in use, the Vortex Echo is holstered on the character's left hip.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 174912
+revid: 176145
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -26,7 +26,7 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | description | "" |
 

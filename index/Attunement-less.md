@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 176114
+revid: 176120
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -907,12 +907,12 @@ Enemy's Attack
 **Effect:** _User creates a white pattern on the floor while deflecting attacks they take during the duration._
 
 -   **Deflects** an attack back to the attacker.
-    -   Because this is deflect, anything related to dealing damage and hit from mantras, such as [deep gems](Deep_Gems.md), will not work.
--   Has a 30 second cooldown.
+-   Prediction cannot proc anything that procs "on hit" such as [Deep Gems](Deep_Gems.md).
 -   Upgrading this Mantra extends the 'prediction' frames (iframes).
--   Can be upgraded with the **All Knowing** Talent, removing the range limit Prediction normally has.
--   Can be upgraded with the **Successive Prediction** Talent, which allows you to predict multihits, as it grants a brief window of auto prediction.
--   Can be upgraded with the **Twelve Steps Ahead** Talent, halving Prediction's cooldown on successful Prediction (minimum 2s) and doubling Prediction's cooldown if you whiff it (maximum 30s). Going 30s without using Prediction will reset this effect.
+-   Can be upgraded with the [All Knowing](Talents.md#all-knowing) Talent, removing the range limit Prediction normally has.
+-   Can be upgraded with the [Successive Prediction](Talents.md#successive-prediction) Talent, which allows you to predict multihits, as it grants a brief window of auto prediction.
+-   Can be upgraded with the [Twelve Steps Ahead](Talents.md#twelve-steps-ahead) Talent, halving Prediction's cooldown on successful Prediction (minimum 2s) and doubling Prediction's cooldown if you whiff it (maximum 30s). Going 30s without using Prediction will reset this effect.
+    -   The maximum Prediction cooldown from this Talent scales on your Intelligence investment.
 
  |
 | 

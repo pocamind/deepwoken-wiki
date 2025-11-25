@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 173614
+revid: 176146
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Multiple Criticals, Light Weapons]
@@ -24,7 +24,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Layer 2, The Diluvian Mechanism, Derelict Highchurch chests (from Ministry Bloodrenders) |
 | description | A reminder that all songs must come to an end. |

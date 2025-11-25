@@ -1,6 +1,6 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 175520
+revid: 176188
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -41,7 +41,7 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 This Outfit has 2000 durability and grants +25% Physical Armor, +25% Elemental Armor, +20% Ether Regen, and +50% [Stealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
 
-The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation allows you to teleport to your opponent when using M1s for a short duration. This has a cooldown of 100 seconds.
+The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation allows you to teleport to your opponent in radius of 25~ studs when using M1s for 20 seconds. This has a cooldown of 100 seconds.
 
 ## Trivia/Notes
 

@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 169607
+revid: 176135
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -16,6 +16,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | scaling | FIR: 4, MED: 3 |
 | range | 7 |
 | swing speed | 0.93x |
+| special effect | Every second and fourth M1 will apply burn or proc eruptions on hit |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |
@@ -23,7 +24,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | The Diluvian Mechanism, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest (very rare), Saramaed Hollow, Scion of Ethiron, Hell Mode |
 | description | The sources of inspiration and insight utilized by Rosen on his journeys becomes clearer in some of his one-off pieces. Capable of unleashing a torrent of scorching flames at will, the Hellflame is no exception. There was a time when Rosen never left his workshop, fevered as he was by a fell drive to draw out the knowledge he had gained in its entirety, like a sinner in a confessional. |
@@ -32,9 +33,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 
 **Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing ether, it can propel fire from out of the barrel in spectacular display or sometimes a spiral way. This weapon scales off Medium and Flamecharm.
 
-Every 2nd and 4th M1 will apply [Burn](Status_Effects.md#burn) or proc [Lava Serpent](Talents.md#lava-serpent) (depending on which path you take)
-
-This weapon can be obtained from [The Diluvian Mechanism](The_Diluvian_Mechanism.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Saramaed Hollow](Saramaed_Hollow.md), and [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
+Every 2nd and 4th M1 will apply [Burn](Status_Effects.md#burn) or proc [Eruptions](Talents.md#lava-serpent) (depending on which path you take)
 
 ## Critical
 

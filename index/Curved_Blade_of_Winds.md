@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 174273
+revid: 176154
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Criticals with M1 tag, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals"]
@@ -26,7 +26,7 @@ categories: [Weapons, Swords, Criticals with M1 tag, "Attunement-based Weapons",
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Chests from:, First Layer, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Sold in Traan Zakshun's black market for 4 |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |

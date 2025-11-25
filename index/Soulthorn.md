@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 169608
+revid: 176134
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -26,7 +26,7 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Moon's Eyrie, Voidsea (chests), Semblance, Dread Serpent, Sold in Traan Zakshun's black market for 4 |
 | description | Swirling within, the core of this blade is said to have been siphoned from the Moonseye by a Celestial traveler on their voyage across the skies. Its edge transmits a cutting anguish upon its foe, carving spiritual wounds. Its previous wielder, once known as the Moonlight Prince, is said to have been driven to madness by the voices trapped within. Holding it, you can hear it whispering speaking directly into your mind. The voices within lament their twisted fate; stolen away from their heavenly vault to ultimately meet the same fate as the Drowned. |

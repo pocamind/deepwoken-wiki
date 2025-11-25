@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 169914
+revid: 176130
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", The Hive, Multiple Criticals, Heavy Weapons]
@@ -25,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weap
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Chests From:, Starswept Valley, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Golem Constructs, Fishing, Weird Trader |
 | description | A pair of blades once used by a High Curator of the Hive. Said to be crafted by the 2nd Greatlord as a Gift to the 3rd, though due to their pacifism it collected dust until acquired by Ysley. Burns brightly with the Fire of Life. Attacks with its dagger offhand scale with LHT. |

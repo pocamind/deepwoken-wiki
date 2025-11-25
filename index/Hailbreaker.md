@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 169889
+revid: 176143
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Multiple Criticals, Heavy Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | weight | 7.5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Coldheart Fortinbras |
 | description | With the development of the Railblade, the Union had gained an edge over the Divers in their disputes over delving sites. In defiance of this, the mechanists of the Citadel changed their approach to equipment production and worked closely with Authority Weaponsmiths to design a cold-hearted blade capable of piercing through monster hide and freezing their innards solid. The end result was a weapon that not only excelled in missions, but also a in skirmishes against the more territorial squads of Union expeditioners. Sometimes spite works as the greatest motivator of change. |

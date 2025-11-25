@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 173517
+revid: 176132
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Weapons with Unique Animations, Multiple Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -25,7 +25,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based W
 | weight | 7.5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Goesh and Draud |
 | description | Twin spears hewn from a single massive shard of umbral obsidian by twin Shadowcasters. Twins are thought to have a unique compatibility with Vows, their souls' murmurs being compliments of one another. Through identical Vows taken by twins, a form of entanglement and pairing can be granted to objects. The wielder of one of these objects can always sense the whereabouts of its counterpart. These spears are no exception with their entanglement allowing its wielder to utilize techniques of both spears in harmony. |
@@ -36,7 +36,7 @@ Weal and Woe are a pair of Legendary [Shadowcast](Shadowcast.md) spears.
 
 ## Obtainment
 
-To obtain Weal and Woe, you need to craft one [Umbral Candle](Candle.md); you can craft Candles with one [Beeswax](Beeswax.md) and one [Fiber](Fiber.md), then combine the Candle with one [Umbrite](Ores.md) or [Umbral Obsidian](Umbral_Obsidian.md) to make an Umbral Candle.
+To obtain Weal and Woe, you need to craft one [Umbral Candle](Candle.md); you can craft Candles with one [Beeswax](Beeswax.md) and one [Fiber](Fiber.md), then combine the Candle with one [Umbrite](Ores.md#umbrite) or [Umbral Obsidian](Umbral_Obsidian.md) to make an Umbral Candle.
 
 After you obtain the Umbral Candle, enter [Lost Celtor](Lost_Celtor.md). Inside a building in the bottom right quarter, there will be a ritual circle riddled with other objects of ritualistic importance. Upon placing an Umbral Candle on the ritual circle and lighting it with a Flint or alternative, two twin NPCs, [Goesh and Draud](Goesh_and_Draud.md), will spawn nearby, each wielding one of the two spears. Defeat both of them to obtain the weapon.
 
@@ -54,4 +54,4 @@ For the running critical, the user casts a barrage of strikes with their spears,
 
 For the aerial critical, the user jumps into the air and strike down the opponent with three Shadowcast-infused slashes.
 
-**All three criticals have a 10 second cooldown.**
+All three criticals have a **10 second** cooldown.

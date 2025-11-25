@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 168118
+revid: 176155
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Criticals with M1 tag, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -17,7 +17,7 @@ categories: [Weapons, Greatswords, Criticals with M1 tag, "Attunement-based Weap
 | range | 9 |
 | swing speed | 0.85x |
 | endlag | 0.1s |
-| special effect | Some Shadowcast Passives will be applied on hit. |
+| special effect | Some Shadowcast passives and effects will be applied on weapon hits |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -25,7 +25,7 @@ categories: [Weapons, Greatswords, Criticals with M1 tag, "Attunement-based Weap
 | weight | 8.5 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | First Layer, The Diluvian Mechanism, Fishing, Maestro Evengarde Rest, Heart of Enmity, Ministry Agent, The Ferryman, Sea Events, Weird Trader, Lodestar, Sold in Traan Zakshun's black market for 4 |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |

@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 173711
+revid: 176116
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -237,7 +237,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20">[Bite your tongue]</td>
 </tr>
 <tr>
-  <td colspan="20"><i>*He smiles, satisfaction playing on his face.*</i> You have much to learn. Educate yourself on what it is we do here.</td>
+  <td colspan="20"><i>*He smiles, satisfaction playing on his face.*</i></td>
 </tr>
 <tr>
   <td colspan="20">End</td>

@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 173716
+revid: 176158
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -41,8 +41,7 @@ Champion's Dagger uses the default Dagger critical, a series of 3 quick slashes.
 
 ## Trivia
 
--   Relatively rare, usually it's more worth going straight for the [Krulian Knife](Krulian_Knife.md).
+-   This item is relatively rare, and is often not worth searching for when the alternatives are much more accessible.
 -   Meeting the requirement of LHT, the damage is (18.9)
 -   At max LHT, the damage is (23.2)
--   If you have 100 attribute points invested into LHT, you will achieve a total damage of 26.6
 -   The model of the Champion's Dagger is identical to the [Champion's Sword](<Champion's_Sword.md>) but smaller.

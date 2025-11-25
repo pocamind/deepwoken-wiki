@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 163695
+revid: 176172
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -20,15 +20,15 @@ Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and alway
 
 Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
-| Name/Danger | Description |
-| --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
 **Assault**  
 (★☆☆)
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
- |
+ |  |
 | 
 
 **Critical**  
@@ -36,7 +36,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | User unleashes a quick flurry of slashes.
 
- |
+ |  |
 | 
 
 **Shadow Roar**  
@@ -44,7 +44,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | User leans and emits a giant cloud of shadow. It deals constant damage and ether drain per second to anyone who stands in it.
 
- |
+ |  |
 | 
 
 **Summon Necro-skippers**  
@@ -52,7 +52,7 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | Summons a total of three [Blue](Necroskipper.md) or [Redskippers](Necroskipper.md) before becoming invulnerable and remaining idle until all the Mudskippers are killed.
 
- |
+ |  |
 | 
 
 **Shadow Seekers**  
@@ -60,7 +60,15 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  | The user snaps their fingers, and sends 3 orbs that slowly chase nearby enemies until the duration has expired or the orb has made contact with the target.
 
- |
+ |  |
+| 
+
+**Shadow Chains**  
+(★ ☆ ☆)
+
+ | The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. These chains slow you and drain your Ether.
+
+ |  |
 
 ### Boons
 
