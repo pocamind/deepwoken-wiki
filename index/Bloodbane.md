@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 175674
+revid: 176110
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, War Weapons, Heavy Weapons, Weapons with Talents]
@@ -27,7 +27,7 @@ categories: [Weapons, Greatswords, War Weapons, Heavy Weapons, Weapons with Tale
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Elder Primadon |
 | description | An heirloom of the Canor Borderwatchers, this bloodsoaked zweihander has been passed down by its leaders for generations. At times, you swear you can feel a heartbeat resounding from within. |

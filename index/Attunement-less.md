@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 173659
+revid: 176114
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -907,6 +907,7 @@ Enemy's Attack
 **Effect:** _User creates a white pattern on the floor while deflecting attacks they take during the duration._
 
 -   **Deflects** an attack back to the attacker.
+    -   Because this is deflect, anything related to dealing damage and hit from mantras, such as [deep gems](Deep_Gems.md), will not work.
 -   Has a 30 second cooldown.
 -   Upgrading this Mantra extends the 'prediction' frames (iframes).
 -   Can be upgraded with the **All Knowing** Talent, removing the range limit Prediction normally has.

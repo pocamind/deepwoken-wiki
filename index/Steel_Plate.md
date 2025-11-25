@@ -1,6 +1,6 @@
 ---
 title: Steel Plate
-revid: 175451
+revid: 176079
 source: https://deepwoken.fandom.com/wiki/Steel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -45,4 +45,4 @@ The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md
 ## Trivia
 
 -   Despite being in the game since the game's launch, this outfit remained unobtainable for a large portion of Deepwoken's lifespan.
--   This outfit, though dyed, is currently used by the [Golden Warrior](Golden_Warrior.md), [Rat Fighter](Rat_Fighter.md), and Golden Bouncer NPCs. It is also used by [Vigil Captain](Vigil_Captain.md) and [Vigil Swordsman](Vigil_Swordsman.md) NPCs.
+-   This outfit, though dyed, is currently used by the [Golden Warrior](Golden_Warrior.md), [Rat Fighter](Rat_Fighter.md), and [Golden Rat Bouncer](Golden_Rat_Bouncer.md) NPCs. It is also used by [Vigil Captain](Vigil_Captain.md) and [Vigil Swordsman](Vigil_Swordsman.md) NPCs.

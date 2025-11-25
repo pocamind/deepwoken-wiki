@@ -1,6 +1,6 @@
 ---
 title: Lotus
-revid: 45875
+revid: 176063
 source: https://deepwoken.fandom.com/wiki/Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Ingredients#Lotuses](Ingredients.md#lotuses)
+-   [Primordial Lotuses](Primordial_Lotuses.md)

@@ -1,6 +1,6 @@
 ---
 title: Ingredients
-revid: 174218
+revid: 176062
 source: https://deepwoken.fandom.com/wiki/Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items, Mechanics]
@@ -208,13 +208,13 @@ While Treasures are not "Ingredients" in the literally defined sense, some Deep 
 -   [Umbral Obsidian](Umbral_Obsidian.md) - [Shadowcast](Shadowcast.md)
 -   [Heartstar](Heartstar.md) - [Bloodrend](Bloodrend.md)
 
-### Lotuses
+### Primordial Lotuses
 
 “ A primordial Lotus, capable of producing the rawest form of power itself. ”
 
-― Lotus Flavour Text Description
+― Primordial Lotuses Description
 
-Lotuses are unique ingredients that are used to make attribute flasks, which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Gear](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within [Voidzones](Voidzones.md), with each [Voidzone](Voidzones.md) growing one or two specific lotuses. Alternatively, they can be found at [The Hidden Grove](The_Hidden_Grove.md) which spawns 5 random lotuses after using a canteen charge at the fountain.
+Lotuses are unique ingredients that are used to make [Attribute Flasks](Attribute_Flasks.md), which are created by combining two of a lotus at a crafting station. Attribute flasks can be drunk to immediately gain one [Attribute Point](Attributes.md). Like training using [Training Gear](Training_Gear.md), this uses an investment point, though no training is required. They are usually found within [Voidzones](Voidzones.md), with each growing one or two specific lotuses.
 
 Lotuses can also be used to obtain the [Saltchemist Oath](Oath%253A_Saltchemist.md).
 

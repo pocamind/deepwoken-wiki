@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 166396
+revid: 176077
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -87,7 +87,7 @@ A Golden Warrior executes the player after knocking them.
 ## Trivia
 
 -   It will drop a "Gold Plate" upon being killed, which, 5 of can be turned in to the Golden Rat Bouncer for mid-tier Erisia loot.
--   It is the less durable counterpart of the Golden Bouncer.
+-   It is the less durable counterpart of the [Golden Rat Bouncer](Golden_Rat_Bouncer.md).
 -   This is a [random encounter](Random_Encounters.md), not to be mistaken with the [Rat Fighters](Rat_Fighter.md) in the [Rat's Den](<Rat's_Den.md>) at [Burning Stone Gardens](Burning_Stone_Gardens.md).
 -   The Souwlrought Axe can only be obtained by the player having the [Crazy Slots](Crazy_Slots.md) Resonance.
--   The Golden Bouncer outside of the [Rat's Den](<Rat's_Den.md>) says he'll offer you something if you bring him 5 Gold Plates, being a small chest containing high-tier loot for Burning Stone Gardens.
+-   The [Golden Rat Bouncer](Golden_Rat_Bouncer.md) outside of the [Rat's Den](<Rat's_Den.md>) says he'll offer you something if you bring him 5 Gold Plates, being a small chest containing high-tier loot for Burning Stone Gardens.

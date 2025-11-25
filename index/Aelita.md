@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 174696
+revid: 176092
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant]
@@ -22,7 +22,7 @@ categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in t
 
 Aelita is a unique event NPC that spawns when you walk near a rock in the center of the [Valley of Heroes](The_Valley_of_Heroes.md) during a non-Winter season. She will force you to perform three tasks. If you fail to obey her commands, she will teleport you above a random place, usually high enough to knock you. This can be especially dangerous as enemies can spawn near you, giving them an opportunity to kill you. She possesses the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md), allowing her to cast illusions and create false versions of herself.
 
-Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if \[the player\] comes back during the winter." This is a trap, as 4 meteorites carrying [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn in her place during Winter.
+Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if \[the player\] comes back during the winter." This is a trap, as 5 meteorites carrying [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn in her place during Winter.
 
 She is the twin sister of [Tillian](Tillian.md).
 
@@ -96,7 +96,6 @@ She is the twin sister of [Tillian](Tillian.md).
 -   [Silentheart](Oath%253A_Silentheart.md)'s can beat the game by using a move from one of their talents in place of a mantra.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair) Aelita's hair ID: 6536255505
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
--   Her outfit was the outdated version of [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md), but has received a rework due to the misconduct of the original's creator.
 -   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
 -   If killed by her during the [Carnival of Hearts](Carnival_of_Hearts.md), she will use the “A Fearsome Enemy” tag.
 -   When she puts you in danger during the [Carnival of Hearts](Carnival_of_Hearts.md), her tag is .aelita4693.

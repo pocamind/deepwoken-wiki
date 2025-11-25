@@ -1,6 +1,6 @@
 ---
 title: Saintsworn Obelisks
-revid: 174868
+revid: 176085
 source: https://deepwoken.fandom.com/wiki/Saintsworn_Obelisks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -14,7 +14,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the East
 
 ## Description
 
-The five Saintsworn Obelisks are NPCs that are required to be located and interacted with to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). These obelisks are based in five elements: [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md), [Thundercall](Thundercall.md), [Flamecharm](Flamecharm.md), and [Shadowcast](Shadowcast.md), each inhabited by the soul of the element's [Hero](Hero_Blades.md).
+The five Saintsworn Obelisks are NPCs that are required to be located and interacted with to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). These obelisks are based in five elements: [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), and [Shadowcast](Shadowcast.md), each inhabited by the soul of the element's [Hero](Hero_Blades.md).
 
 ## Location
 
@@ -39,3 +39,7 @@ See the [Saintsworn page](Oath%253A_Saintsworn.md#obtainment) for guides on how 
 **Frostdraw Obelisk**: "Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else." - Faust
 
 **Thundercall Obelisk**: "Thundercall, huh? You want that power? That zing that comes with it? But remember thundercall isn't something you can control easily, not even if you try really hard." - Tessa
+
+## Trivia
+
+-   There are symbols marked on all 4 sides on the base of each obelisk. Curiously, one of these symbols is the emblem of [The Central Authority](The_Central_Authority.md).

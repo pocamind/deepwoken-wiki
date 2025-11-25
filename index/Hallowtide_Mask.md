@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask
-revid: 175681
+revid: 176081
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -68,16 +68,17 @@ A Hallowtide mask can be crafted by bringing a [Paperette](Hallowtide_Mask_Ingre
 
 #### Unique
 
+-   "...And to all - a good fright!" ([Brasidas Spellhardt](Brasidas_Spellhardt.md))
 -   "A valiant effort... but no." ([Warden Jericho](Warden_Jericho.md))
 -   "Hah, I've seen worse." ([High Inquisitor Merey](High_Inquisitor_Merey.md))
--   "Hahah, good one! Hey, Interceptor, check this out!" ([Sentinel Augustus](Sentinel_Augustus.md))
 -   "...Happy Hallowtide." (Warden Jericho)
+-   "Hahah, good one! Hey, Interceptor, check this out!" ([Sentinel Augustus](Sentinel_Augustus.md))
 -   "Hey, nice mask, bub! Where'd you get one?" (Sentinel Augustus)
 -   "Ho ho! That's the spirit! Now do that unto someone else." ([Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md))
 -   "Hoy, Well done, such joy! Now, show the world what thou canst do!" (Galpin Spellhardt, Musicologist Extraordinaire)
 -   "HUTTAH- Oh, it's just you! Be careful, I almost knocked you out there!" ([Chud Steel](Chud_Steel.md))
 -   "I may be old, but I'm still brave, young one." ([Polis](Polis.md))
--   "Joyous Hallows to all!" ([Brasidas Spellhardt](Brasidas_Spellhardt.md))
+-   "Joyous Hallows to all!" (Brasidas Spellhardt)
 -   "Nothing compared to what I've seen." ([Akira](Akira.md))
 -   "Nothing meant to imitate flesh and bone will ever scare me. Meat is my domain." ([The Meat Lord](The_Meat_Lord.md))
 -   "Oh, you like to take different forms too?" ([The Ferryman](The_Ferryman.md))

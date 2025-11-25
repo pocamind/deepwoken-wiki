@@ -1,6 +1,6 @@
 ---
 title: Coffee
-revid: 176016
+revid: 176042
 source: https://deepwoken.fandom.com/wiki/Coffee
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive]
@@ -12,7 +12,8 @@ notices:
 
 | Coffee | |
 |---|---|
-| stack | x?? |
+| weight | None |
+| stack | x11 |
 | type | Food |
 | food type | Generic |
 | stomach | 2% |

@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 175671
+revid: 176111
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Talents]
@@ -27,7 +27,7 @@ categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Tal
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | War Mode |
 | description | Warmonger hate. Warmonger destroy. Warmonger kill. |

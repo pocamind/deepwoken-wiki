@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 173992
+revid: 176115
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -40,7 +40,7 @@ Standard blindfolds are the most difficult to obtain, however they are all still
 <tr>
   <td>Blindfold</td>
   <td>No innate Pips</td>
-  <td><a href="Erisia.md">Erisia</a>, <a href="Random_Encounters.md">Sea Event brown chests</a></td>
+  <td><a href="Erisia.md">Erisia</a>, <a href="First_Layer.md">First Layer</a>, <a href="Random_Encounters.md">Sea Event brown chests</a></td>
 </tr>
 <tr>
   <td>Black Blindfold</td>

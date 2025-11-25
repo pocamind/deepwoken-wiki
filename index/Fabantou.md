@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 172575
+revid: 176112
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -106,7 +106,10 @@ The Three Cheers Menu
   <td><i>*Fabantou offers you a languid tilt of the head and an apologetic leer. You're far too responsible for this.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>I'd like to ask you something, tavernkeep.</td>
+</tr>
+<tr>
+  <td>[See previous instance]</td>
 </tr>
 </tbody>
 </table>

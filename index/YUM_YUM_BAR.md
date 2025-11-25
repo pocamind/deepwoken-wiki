@@ -1,6 +1,6 @@
 ---
 title: YUM YUM BAR
-revid: 175666
+revid: 176039
 source: https://deepwoken.fandom.com/wiki/YUM_YUM_BAR
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Food]
@@ -13,7 +13,7 @@ notices:
 | YUM YUM BAR | |
 |---|---|
 | weight | 1 |
-| stack | x?? |
+| stack | x17 |
 | type | Food |
 | food type | Meat/Plant/Yum |
 | stomach | 50% |
