@@ -1,6 +1,6 @@
 ---
 title: Dust
-revid: 167987
+revid: 177008
 source: https://deepwoken.fandom.com/wiki/Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Divers, NPCs located in the First Layer]

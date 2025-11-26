@@ -1,6 +1,6 @@
 ---
 title: Diver Apprentice Robes
-revid: 175526
+revid: 177000
 source: https://deepwoken.fandom.com/wiki/Diver_Apprentice_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Divers]

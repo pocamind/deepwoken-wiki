@@ -1,6 +1,6 @@
 ---
 title: Blessed Gem
-revid: 176183
+revid: 176943
 source: https://deepwoken.fandom.com/wiki/Blessed_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]

@@ -1,6 +1,6 @@
 ---
 title: Den Master
-revid: 171767
+revid: 176997
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]

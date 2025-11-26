@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 173686
+revid: 177025
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Felinor
 
-Template:Races-Main
+| Felinor | |
+|---|---|
+| obtained_by | 7.5% Roll Chance |
+| appearance | Cat Ears, Pale-Grey / Black / Beige / Light Skin, Golden / Grey / Red/ Green Eyes, Pale-Grey / Black / White / Beige Hair |
+| traits | Nightchild, +3 Agility, +2 Charisma |
 
 _Akin to their feline features, the Felinor are carefree and whimsical.  
 Seen to be thieves and outlaws, but merely seek a life of freedom._

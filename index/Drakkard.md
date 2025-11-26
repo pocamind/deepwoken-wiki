@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 173680
+revid: 177005
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Exclusive Aspects, Aspects, Developer Spec]
@@ -10,7 +10,11 @@ notices:
 
 # Drakkard
 
-Template:Races-Main
+| Drakkard | |
+|---|---|
+| obtained_by | Paying Mod Points |
+| appearance | Ember:, Eye Color #ff9500, Hair Color #331111, Horn Color #986d00, Sclera Color #c7b36b, Skin Color #7f3f3f, Laguna:, Eye Color #06ffa0, Hair Color #234c3e, Horn Color #00987a, Sclera Color #72c7b9, Skin Color #4f7b7f, Slate:, Eye Color #ffffff, Hair Color #333333, Horn Color #8b9894, Sclera Color #c7c7c7, Skin Color #6b6b6b, Sprout:, Eye Color #b7ff1d, Hair Color #363e29, Horn Color #799823, Sclera Color #a9c768, Skin Color #5b664e, Vale:, Eye Color #ff4eff, Hair Color #39293e, Horn Color #845a84, Sclera Color #9d90c7, Skin Color #7c477b, Hallowtide:, Eye Color #ffae3d, Hair Color #000000, Horn Color #988556, Sclera Color #b9b9b9, Skin Color #3b3632, Removed Default Variant:, Default Hair: 20372960, Eye Color #ffbf00, Hair Color #761d1a, Sclera Color #f0eade, Skin Color #a57e57 |
+| traits | Teachings of the Edenkite, +3 Agility, +2 Fortitude |
 
 _Hailing from the Northern Luminant, these worshippers of the Edenkite are auspicious mediators of conflict. Awarded to Moderators for their help._
 

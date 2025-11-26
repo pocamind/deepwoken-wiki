@@ -1,6 +1,6 @@
 ---
 title: Capra
-revid: 173679
+revid: 176956
 source: https://deepwoken.fandom.com/wiki/Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Capra
 
-Template:Races-Main
+| Capra | |
+|---|---|
+| obtained_by | 2% Roll Chance |
+| appearance | Green, Blue or Reddish Skin., Yellow or Red goat eyes., Light yellow or grey sclera., Medium jungle green hair. |
+| traits | Mark of Jurik, Mark of Ku, or Mark of Nemit., +3 Intelligence, +2 Willpower |
 
 _Keepers of old knowledge,  
 they wander the lands offering their experience to those in need of it._

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines
-revid: 164597
+revid: 176984
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]

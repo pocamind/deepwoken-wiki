@@ -1,6 +1,6 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 167747
+revid: 177032
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]

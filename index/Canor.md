@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 163354
+revid: 176955
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,13 @@ categories: [Pages with broken file links, Aspects]
 
 # Canor
 
-Template:Races-Main _With canine features, the Canor are fiercely loyal.  
+| Canor | |
+|---|---|
+| obtained_by | 13% Roll Chance |
+| appearance | Lighter Pale Brown / Darker Pale Brown / Pale Brown / Dark Green / Darker Pale Brown / Dark Black Skin, Dark Brown / Red / Sandy Blonde / Black / Orange / Black Hair, River Blue / Red / Golden / Yellow / Yellow / Red Eye Color, Fur floof around the ears and back of the head |
+| traits | Loyalty, +3 Strength, +2 Charisma |
+
+_With canine features, the Canor are fiercely loyal.  
 Often found as guards and personal servants in the retinue of powerful people._
 
 Chance of obtaining aspect: **13%**

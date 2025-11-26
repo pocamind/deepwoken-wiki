@@ -1,6 +1,6 @@
 ---
 title: Cloth
-revid: 167574
+revid: 176971
 source: https://deepwoken.fandom.com/wiki/Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]

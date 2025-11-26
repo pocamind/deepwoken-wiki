@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 173523
+revid: 177040
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Ganymede
 
-Template:Races-Main
+| Ganymede | |
+|---|---|
+| obtained_by | 2% Roll Chance |
+| appearance | Navy/Gray/Green/Brown/Purple Skin, Cyan/White/Green/Yellow/Purple Eyes, White/Purple Hair |
+| traits | Deepfolk, +3 Willpower, +2 Intelligence |
 
 _Peculiar folk who are often known for their wisdom and intelligence.  
 Though quite rare, Ganymede science still leads Man forward._

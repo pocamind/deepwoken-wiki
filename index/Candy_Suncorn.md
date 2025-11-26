@@ -1,6 +1,6 @@
 ---
 title: Candy Suncorn
-revid: 175622
+revid: 176954
 source: https://deepwoken.fandom.com/wiki/Candy_Suncorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Food]

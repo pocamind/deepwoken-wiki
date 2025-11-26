@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 173676
+revid: 176963
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Celtor
 
-Template:Races-Main
+| Celtor | |
+|---|---|
+| obtained_by | 15% Roll Chance |
+| appearance | Pale-Dark Brown Green Skin, Green Eyes, Green or Black Hair |
+| traits | Seaborne, +3 Charisma, +2 Intelligence |
 
 _Silver-tongued traders whose  
 pride often gets the better of them.  

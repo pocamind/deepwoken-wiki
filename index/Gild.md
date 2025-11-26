@@ -1,6 +1,6 @@
 ---
 title: Gild
-revid: 168329
+revid: 177042
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer]

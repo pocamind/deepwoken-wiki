@@ -1,6 +1,6 @@
 ---
 title: Fiber
-revid: 167571
+revid: 177029
 source: https://deepwoken.fandom.com/wiki/Fiber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]

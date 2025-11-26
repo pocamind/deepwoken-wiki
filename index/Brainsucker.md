@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 173152
+revid: 176950
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,6 @@ categories: [Monsters]
 
 ― Bestiary Entry
 
-  
 Template:Creature Infobox V3_Also referred to as Bat._
 
 ## Description
@@ -49,10 +48,9 @@ Being some of the oldest creatures discovered, their common name comes from the 
 
 ## Finisher
 
-| Name | Media | Description |
-| --- | --- | --- |
-| Shredder | 
- | Scratches opponent's stomach open with its talons, killing them. |
+| Name | Description |
+| --- | --- |
+| Shredder | Scratches opponent's stomach open with its talons, killing them. |
 
 ## Tips
 

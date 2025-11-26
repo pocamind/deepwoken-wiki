@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 176249
+revid: 176976
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Criticals with M1 tag, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals"]

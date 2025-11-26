@@ -1,6 +1,6 @@
 ---
 title: "Frank F'alzone"
-revid: 167744
+revid: 177037
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]

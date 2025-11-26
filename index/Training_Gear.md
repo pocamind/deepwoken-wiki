@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 171286
+revid: 177056
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -217,7 +217,7 @@ A held hearthgem
 -   Both Luminants
     -   [Voidheart](Voidheart.md): In between the [Blacksmith](Blacksmith.md) and [Mystic](Mystic.md).
     -   [Guild Base](Guild_Bases.md): One in each of the following rooms: Song Room, Training Hall, and Library.
-    -   [The Floating Keep](The_Floating_Keep.md): 2 total - **This is only possible during the [Hollowtide Event](Hallowtide.md)**.
+    -   [The Floating Keep](The_Floating_Keep.md): 2 total - **This is only possible during the [Hallowtide](Hallowtide.md) Event**.
         1.  One inside the Castle, on the first floor, in the room with the [Blacksmith](Blacksmith.md).
         2.  The second one is next to [Glaive Spellhardt](Glaive_Spellhardt.md) on the second floor.
 

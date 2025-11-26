@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 173896
+revid: 176989
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -130,8 +130,6 @@ If the player has not invested any Attribute or Trait points, this dialogue will
 ## Navigation
 
 Variants: [Shrine of Temptation](Shrine_of_Temptation.md)
-
-  
 
 ## Gallery
 

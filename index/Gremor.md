@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 170636
+revid: 177050
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Gremor
 
-Template:Races-Main
+| Gremor | |
+|---|---|
+| obtained_by | 11% Roll Chance |
+| appearance | Green, Brown, Blue, Dark-Brown or Reddish-Brown Skin, Purple, Red, Blue and Orange eyes, Green or Brown, Blue and Black Hair, Horns |
+| traits | Navae's Guidance, +2 Strength, +3 Fortitude |
 
 "_Deer-horned pariahs who lived a  
 peaceful life as nomads before the tides came.  

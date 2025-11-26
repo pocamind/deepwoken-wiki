@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 176650
+revid: 177036
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]

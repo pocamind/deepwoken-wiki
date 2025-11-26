@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 173708
+revid: 177014
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Etrean
 
-Template:Races-Main
+| Etrean | |
+|---|---|
+| obtained_by | 15% Roll Chance |
+| appearance | Pale Skin, Slit Eyes, White, Light Blue, or Black Hair |
+| traits | Molt, Poison Resistance, +3 Intelligence, +2 Agility |
 
 _Defined by their snake-like features and cunning.  
 Isolationists who tend to their own interests._

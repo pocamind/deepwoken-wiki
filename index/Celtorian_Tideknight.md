@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 175226
+revid: 176964
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Lost Celtor]
