@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Plate
-revid: 169355
+revid: 176419
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]

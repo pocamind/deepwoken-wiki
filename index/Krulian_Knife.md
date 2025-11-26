@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 175680
+revid: 176795
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Multiple Criticals, Light Weapons, Weapons with Talents]
@@ -50,7 +50,7 @@ The user raises the knife into the sky, causing pink lightning to strike the wea
 
 While under the Krulian Charge effect, using basic attacks applies a purple [Shock](Status_Effects.md#shock) effect, and you gain a speed boost for the full duration of this effect. Additionally, this replaces your critical with a Thundercall rush-down attack, similar to [Lightning Assault](Thundercall.md#lightning-assault). This attack has 30 base damage with **5 Thundercall** scaling, increasing by 0.15 per point in Thundercall.
 
-Using your critical attack while Krulian Charge is on cooldown will use the default Dagger critical. Unlike the normal default dagger critical, this critical is able to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) abilities.
+Using your critical attack while Krulian Charge is on cooldown will use the default Dagger critical. Unlike the normal default dagger critical, This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 Krulian Charge has a 17 second cooldown (7 second downtime). The Lightning Assault critical has a 5 second cooldown. The default dagger critical has a 3 second cooldown.
 

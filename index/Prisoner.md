@@ -1,6 +1,6 @@
 ---
 title: Prisoner
-revid: 171004
+revid: 176741
 source: https://deepwoken.fandom.com/wiki/Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies]
@@ -10,7 +10,12 @@ notices:
 
 # Prisoner
 
-Template:EnemyInfobox1.0
+| Prisoner | |
+|---|---|
+| health | ? |
+| drops | ? |
+| weapon | Legion Kata |
+| moves | Assault, Master's Flourish, Tacet Dropkick, Strong Left, Rapid Slashes, Table Flip, Rapid Punches |
 
 ## Description
 

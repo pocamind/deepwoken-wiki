@@ -1,6 +1,6 @@
 ---
 title: Lodestar
-revid: 174373
+revid: 176734
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies with Oaths]
 
 # Lodestar
 
-Template:EnemyInfobox1.0
+| Lodestar | |
+|---|---|
+| health | 12000 |
+| drops | Medium sized chest (see loot table), Navaen War Chief , Guiding Star |
+| weapon | Guiding Star |
+| moves | Assault, Critical, Warden's Blades, Ice Daggers, Crystal Impale, Sightless Beam, Wind Forge |
 
 ## Description
 

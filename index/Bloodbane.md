@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 176110
+revid: 176801
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, War Weapons, Heavy Weapons, Weapons with Talents]
@@ -38,7 +38,7 @@ Variants: [Zweihander](Zweihander.md)
 
 The **Bloodbane** is a Heavy Greatsword, an enhanced variant of the [Zweihander](Zweihander.md) with higher requirements. This weapon bears a red appearance, has blood particles emanating from it, and has a red swing trail, drastically differing its appearance from the base Zweihander.
 
-Dying in the Overworld/[The Depths](The_Depths.md) with this weapon equipped or in your inventory causes it to **deteriorate into being a regular Zweihander**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) will not deteriorate the Bloodbane, although Agamatsu has stated this will be shadow changed one day. Bloodbane **cannot** be enchanted and its unique talent is disabled in chime.
+Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Bloodbane, though its unique Talent is disabled there. Bloodbane **cannot** be enchanted.
 
 ## Talent: Bloodthirsty
 
@@ -49,8 +49,6 @@ Equipping the Bloodbane grants its unique [weapon Talent](Talents.md#weapon-tale
 On M1, restore 4% of your maximum health per target hit. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 
 On critical, apply a Damage over Time status effect that deals 8 damage per tick 5 times for a maximum of 40 damage. If you are knocked during the lifespan of this effect, or hit by the critical while being knocked, you will be autogripped. This effect can be applied through dodge; parrying this attack is the only way to avoid this. This effect can only proc once per crit.
-
-This Talent does not work while in the [Chime of Conflict](Chime_of_Conflict.md).
 
 ## Critical
 

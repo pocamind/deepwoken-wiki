@@ -1,6 +1,6 @@
 ---
 title: Pendant of Order
-revid: 175384
+revid: 176523
 source: https://deepwoken.fandom.com/wiki/Pendant_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Necklaces]

@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 175101
+revid: 176650
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -8,11 +8,16 @@ categories: [Enemies, NPCs]
 
 # Forgotten Villager
 
+| Forgotten Villager | |
+|---|---|
+| health | - |
+| drops | None |
+| weapon | Fists |
+| moves | Assault, Critical |
+
 “ He claims to be an ally but his loyalty still lies with the Lord of this land... ”
 
 ― Forgotten Villager
-
-Template:EnemyInfobox1.0
 
 ## Description
 

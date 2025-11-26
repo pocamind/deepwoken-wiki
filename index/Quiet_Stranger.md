@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 174490
+revid: 176723
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
@@ -8,11 +8,15 @@ categories: [NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, E
 
 # Quiet Stranger
 
+| Quiet Stranger | |
+|---|---|
+| health | ? |
+| weapon | Krulian Knife |
+| moves | Assault, Critical, Judgement, Tacet Drop Kick |
+
 “ It seems I have been spotted by a local.. ”
 
 ― Stranger
-
-Template:EnemyInfobox1.0
 
 ## Description
 

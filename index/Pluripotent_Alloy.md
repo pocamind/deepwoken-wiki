@@ -1,6 +1,6 @@
 ---
 title: Pluripotent Alloy
-revid: 175948
+revid: 176749
 source: https://deepwoken.fandom.com/wiki/Pluripotent_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics]

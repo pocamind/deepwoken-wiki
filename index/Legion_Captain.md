@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 174423
+revid: 176641
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The H
 
 # Legion Captain
 
-Template:EnemyInfobox1.0
+| Legion Captain | |
+|---|---|
+| health | 1500 |
+| drops | A Chest containing High Tier Loot, Evanspear Greataxe |
+| weapon | Champion's Sword, Ritual Spear, Fists (Legion Kata), Imperial Staff |
+| moves | Gale Lunge, Heavenly Wind, Astral Wind, Strong Left, Rapid Punches |
 
 ## Description
 

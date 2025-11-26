@@ -1,6 +1,6 @@
 ---
 title: Songseeker Galebreather
-revid: 169496
+revid: 176683
 source: https://deepwoken.fandom.com/wiki/Songseeker_Galebreather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -8,7 +8,14 @@ categories: [Enemies, Songseekers]
 
 # Songseeker Galebreather
 
-Template:EnemyInfobox1.0**Songseeker Galebreathers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+| Songseeker Galebreather | |
+|---|---|
+| health | 1000 |
+| drops | Gale Stone, Royal Guard (Green) |
+| weapon | Fists |
+| moves | Assault, Critical, Gale Lunge, Heavenly Wind, Air Force |
+
+**Songseeker Galebreathers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description
 

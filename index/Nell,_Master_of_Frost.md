@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 166599
+revid: 176702
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant]
@@ -8,7 +8,12 @@ categories: [Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs
 
 # Nell, Master of Frost
 
-Template:EnemyInfobox1.0
+| Nell, Master of Frost | |
+|---|---|
+| health | 2100 |
+| drops | None |
+| weapon | Gran Sudaruska |
+| moves | Dread Breath, Ice Blade, Rising Frost, Ice Lance, Ice Dagger, Ice Fissure, Ice Cubes, Ice Smash, Ice Eruption, Iceberg, Warden's Blades |
 
 ## Description
 

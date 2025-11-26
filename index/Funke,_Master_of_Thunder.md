@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 174938
+revid: 176704
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -8,7 +8,13 @@ categories: [Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs
 
 # Funke, Master of Thunder
 
-Template:EnemyInfobox1.0
+| Funke, Master of Thunder | |
+|---|---|
+| health | 2100 |
+| drops | None |
+| weapon | Stormseye |
+| moves | Assault, Critical, Jolt Grab (Magnet Spark), Thunder Kick, Strong Left |
+| affiliation | The Divers, The Summer Company |
 
 ## Description
 

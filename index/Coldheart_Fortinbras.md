@@ -1,6 +1,6 @@
 ---
 title: Coldheart Fortinbras
-revid: 174574
+revid: 176731
 source: https://deepwoken.fandom.com/wiki/Coldheart_Fortinbras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments]
@@ -8,7 +8,12 @@ categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Ench
 
 # Coldheart Fortinbras
 
-Template:EnemyInfobox1.0
+| Coldheart Fortinbras | |
+|---|---|
+| health | ??? |
+| drops | Hailbreaker |
+| weapon | Hailbreaker |
+| moves | Assault, Critical, Warden's Blades, Blood Stakes, Rising Frost, Ice Flock |
 
 ## Description
 

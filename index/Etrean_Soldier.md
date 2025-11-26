@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 167344
+revid: 176656
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Etrea Enemies]
 
 # Etrean Soldier
 
-Template:EnemyInfobox1.0
+| Etrean Soldier | |
+|---|---|
+| health | 300 |
+| drops | Etrean Guard |
+| weapon | Battleaxe |
+| moves | Assault, Critical, Wind Gun, Gale Lunge |
 
 ## Description
 

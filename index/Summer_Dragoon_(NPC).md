@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon (NPC)
-revid: 167439
+revid: 176714
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Summer Company, Summer Company Enemies]
@@ -8,7 +8,14 @@ categories: [Enemies, Ambush Enemies, The Summer Company, Summer Company Enemies
 
 # Summer Dragoon (NPC)
 
-_This page is for the Enemy. For the Outfit, see [Summer Dragoon](Summer_Dragoon.md). For the light pistol weapon, see [Dragoon](Dragoon.md)._ Template:EnemyInfobox1.0
+| Summer Dragoon (NPC) | |
+|---|---|
+| health | ??? |
+| drops | ??? |
+| weapon | Rosen's Peacemaker |
+| moves | ??? |
+
+_This page is for the Enemy. For the Outfit, see [Summer Dragoon](Summer_Dragoon.md). For the light pistol weapon, see [Dragoon](Dragoon.md)._
 
 ## Description
 

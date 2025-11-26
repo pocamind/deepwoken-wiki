@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 176077
+revid: 176645
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -8,7 +8,12 @@ categories: [NPCs, Enemies]
 
 # Golden Warrior
 
-Template:EnemyInfobox1.0
+| Golden Warrior | |
+|---|---|
+| health | 1000 |
+| drops | Gold Plate |
+| weapon | Soulwrought Axe |
+| moves | Assault, Critical, Gale Lunge, Heavenly Wind, Astral Wind |
 
 ## Description
 

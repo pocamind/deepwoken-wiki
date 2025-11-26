@@ -1,6 +1,6 @@
 ---
 title: "Freestyler's Band"
-revid: 165987
+revid: 176433
 source: https://deepwoken.fandom.com/wiki/Freestyler's_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

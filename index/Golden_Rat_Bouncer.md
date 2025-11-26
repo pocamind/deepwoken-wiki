@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 176080
+revid: 176696
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies]
 
 # Golden Rat Bouncer
 
-Template:EnemyInfobox1.0
+| Golden Rat Bouncer | |
+|---|---|
+| health | 10,000 |
+| drops | Gale Stone |
+| weapon | Soulwrought Axe |
+| moves | Assault, Critical, Gale Lunge, Heavenly Wind, Champion's Whirlthrow |
 
 ## Description
 

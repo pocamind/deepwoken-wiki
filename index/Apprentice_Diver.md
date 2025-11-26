@@ -1,6 +1,6 @@
 ---
 title: Apprentice Diver
-revid: 162836
+revid: 176662
 source: https://deepwoken.fandom.com/wiki/Apprentice_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Divers, Diver Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Divers, Diver Enemies]
 
 # Apprentice Diver
 
-Template:EnemyInfobox1.0
+| Apprentice Diver | |
+|---|---|
+| health | 200 |
+| drops | None |
+| weapon | Razor Cutlass, Iron Birch, Silver Dagger |
+| moves | Assault, Critical, Jolt Grab, Gale Lunge |
 
 ## Description
 

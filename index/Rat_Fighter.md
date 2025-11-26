@@ -1,6 +1,6 @@
 ---
 title: Rat Fighter
-revid: 176076
+revid: 176717
 source: https://deepwoken.fandom.com/wiki/Rat_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies]
@@ -8,7 +8,12 @@ categories: [NPCs, Enemies]
 
 # Rat Fighter
 
-Template:EnemyInfobox1.0
+| Rat Fighter | |
+|---|---|
+| health | 1000 |
+| drops | Gold Plate |
+| weapon | Soulwrought Axe |
+| moves | Assault, Critical, Gale Lunge, Heavenly Wind, Astral Wind |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 167522
+revid: 176682
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, T
 
 # Subtle Knife of Eylis
 
-Template:EnemyInfobox1.0
+| Subtle Knife of Eylis | |
+|---|---|
+| health | 700 |
+| drops | None |
+| weapon | Whaling Knife |
+| moves | Assault, Critical, Time-Slowing Orb |
 
 ## Description
 

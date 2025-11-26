@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad Leader
-revid: 168210
+revid: 176654
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Children of Navae, Children of Navae Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Children of Navae, Children of Navae Enemies]
 
 # Eastern Nomad Leader
 
-Template:EnemyInfobox1.0
+| Eastern Nomad Leader | |
+|---|---|
+| health | 500 |
+| drops | Frigid Prism, Gremorian Longspear, Novice Brace |
+| weapon | Gremorian Longspear, Fist (Way of Navae) |
+| moves | Assault, Critical, Ice Daggers, Ice Blade, Ice Chain, Rising Frost |
 
 ## Description
 

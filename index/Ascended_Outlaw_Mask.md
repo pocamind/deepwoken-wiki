@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Mask
-revid: 160264
+revid: 176339
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Craftable]

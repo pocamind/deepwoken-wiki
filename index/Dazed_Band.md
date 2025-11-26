@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 165985
+revid: 176397
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

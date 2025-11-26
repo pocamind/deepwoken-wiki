@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 176193
+revid: 176793
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1356,6 +1356,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 25 Agility, 40 Flamecharm, Warding Radiance
 
 -   Hell's Partisan \[Common Talent, Flamecharm Exclusive\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
+    -   Deals 5 Flamecharm damage.
+    -   This is parryable, but is not blockable nor dodgeable due to hitstun.
     -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) OR Warding Radiance
 
 ### Flamecharmer
@@ -4084,7 +4086,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 60% more chip.
 
 -   Expeditious Combo: [Iron Birch](Iron_Birch.md) - Landing an uppercut will grant a buff to your [Onslaught](Attunement-less.md#onslaught) for 15 seconds, using Onslaught during this time will massively increase the speed of it.
-    -   Grants the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect on uppercut. This status effect will be consumed if you cast Onslaught, massively increasing the speed of this attack.
+    -   Grants the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect on uppercut. This status effect will be consumed if you cast Onslaught, increasing the speed of this attack by 30%.
     -   Has a sound effect on proc. The duration of your Expeditious Combo is displayed on the bottom left of the screen on the cooldown indicator.
     -   This effect has no cooldown, but as the Expeditious Combo status effect is consumed on proc, you will need to land another uppercut to proc it again.
     -   "Uppercut" or "uptilt" Mantras do not grant the Expeditious Combo status effect; you need to land a basic attack uppercut to proc this.
@@ -4121,6 +4123,16 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
     -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
 
+-   Sacrificial Boon: [Ritual Sacrifice](Ritual_Sacrifice.md) - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae.
+    -   Grants a Talent tool that consumes 5 on use to grant the user a random buff within a set pool.
+    -   This Talent has no cooldown, allowing you to overlap the buffs.
+    -   The potential buffs are:
+        -   25% damage buff
+        -   Damage reduction
+        -   Health regeneration
+        -   Saturation regeneration (blood, stomach, and thirst)
+        -   Speed boost
+
 -   Swift Strike: [Big Brother](Big_Brother.md) - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents.
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
     -   The teleport has a range limit.
@@ -4150,7 +4162,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Angels will still aggro onto you while you have this Talent.
 
 -   Bane: [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>) - Activate to make your light attacks teleport to the closest enemy nearby. \[100s CD\]
-    -   Grants a Talent tool that on use allows you to teleport to your opponent when you M1 for a short duration.
+    -   Grants a Talent tool that on use allows you to teleport to your opponent when you M1 for 20 seconds.
+    -   The teleportation has a range limit of 25 studs.
+    -   Bane additionally grants a speed boost for its full duration.
 
 -   Battle-Hardened: [Shock Corps Light](Shock_Corps_Light.md) - Reduce how much damage you take from mantra guardbreaks by 20%.
 
@@ -4229,7 +4243,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
 
 -   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
-    -   Negates fall damage up until it reaches a cap for damage negated. Then, Featherfall will go on a 2 minute cooldown.
+    -   Negates up to 255 fall damage before going on a 2 minute cooldown.
+    -   The fall damage negated, before this goes on cooldown, does not reset and saves between servers.
 
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
 
@@ -4426,7 +4441,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Storm Strikes from this Talent deal 0.125 \* (Thundercall + Galebreathe investment) Thundercall damage, capping at 25 damage with 100 points invested in both Attunements.
 
 -   Volt Reflex: [Authority Voltspark Mask](Authority_Voltspark_Mask.md) - Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges.
-    -   Increases the dodge window and cooldown of your dodges based on your [Thundercall](Thundercall.md) investment.
+    -   Increases the dodge window based on your [Thundercall](Thundercall.md) investment.
+    -   Increases your dodge cooldown for both dodge types to 2.4 seconds regardless of your Thundercall investment.
 
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.

@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 175931
+revid: 176624
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Enemies]
@@ -8,7 +8,12 @@ categories: [NPCs, NPCs located in the Etrean Luminant, Enemies]
 
 # Hobo
 
-Template:EnemyInfobox1.0
+| Hobo | |
+|---|---|
+| health | 450 |
+| drops | Four Chests, Dying Embers |
+| weapon | None |
+| moves | Fire Eruption, Flame Assault, Flame Repulsion, Flaming Scourge, Rising Flame |
 
 ## Description
 

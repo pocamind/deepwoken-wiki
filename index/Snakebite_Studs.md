@@ -1,6 +1,6 @@
 ---
 title: Snakebite Studs
-revid: 175445
+revid: 176573
 source: https://deepwoken.fandom.com/wiki/Snakebite_Studs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]

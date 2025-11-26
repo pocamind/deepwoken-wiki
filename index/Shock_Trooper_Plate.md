@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Plate
-revid: 173927
+revid: 176562
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]

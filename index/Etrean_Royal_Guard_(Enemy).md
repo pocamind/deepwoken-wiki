@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 169015
+revid: 176629
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Etrea Enemies]
@@ -8,8 +8,14 @@ categories: [Enemies, Enemies that can wield Enchantments, Etrea Enemies]
 
 # Etrean Royal Guard (Enemy)
 
+| Etrean Royal Guard | |
+|---|---|
+| health | 800 |
+| drops | Gale Stone, Katana (Rare) |
+| weapon | Katana |
+| moves | Assault, Critical |
+
 _Not to be confused with the [Etrean Royal Guard NPC](<Etrean_Royal_Guard_(NPC).md>) or the [Royal Etrean Guard](Royal_Etrean_Guard.md) outfit._  
-Template:EnemyInfobox1.0
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: The Fisherman
-revid: 166586
+revid: 176728
 source: https://deepwoken.fandom.com/wiki/The_Fisherman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Enchantments, Enemies with Oaths]
@@ -8,7 +8,12 @@ categories: [Enemies, The Depths, Random Encounters, Enemies that can wield Ench
 
 # The Fisherman
 
-Template:EnemyInfobox1.0
+| The Fisherman | |
+|---|---|
+| health | 12,000 |
+| drops | Grand Fisher Helm, Grand Fisher Plate |
+| weapon | Enchanted Halberd |
+| moves | Assault, Critical, Lightning Stream, Lightning Strike, Thunder Kick, Restrain, Rupture, Emotion Wave |
 
 ## Description
 

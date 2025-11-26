@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 163731
+revid: 176692
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Ene
 
 # Journeyman Diver Guard
 
-Template:EnemyInfobox1.0
+| Journeyman Diver Guard | |
+|---|---|
+| health | 1150 |
+| drops | Dying Embers, Gale Stone, Spark Gland, Mantra Modifiers |
+| weapon | Acheron's Warspear, Crescent Cleaver, Markor's Inheritor, Tanto |
+| moves | Assault, Critical, Jolt Grab, Gale Lunge, Lightning Stream, Ice Daggers, Fire Blade, Encircle, Spark Swap |
 
 ## Description
 

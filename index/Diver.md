@@ -1,6 +1,6 @@
 ---
 title: Diver
-revid: 163710
+revid: 176681
 source: https://deepwoken.fandom.com/wiki/Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -8,7 +8,11 @@ categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Ene
 
 # Diver
 
-Template:EnemyInfobox1.0
+| Diver | |
+|---|---|
+| health | 500 |
+| weapon | Iron Birch, Razor Cutlass, Silver Dagger |
+| moves | Assault, Critical, Jolt Grab, Gale Lunge |
 
 ## Description
 

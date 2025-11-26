@@ -1,6 +1,6 @@
 ---
 title: Mindless Servant
-revid: 167643
+revid: 176627
 source: https://deepwoken.fandom.com/wiki/Mindless_Servant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies]
 
 # Mindless Servant
 
-Template:EnemyInfobox1.0
+| Mindless Servant | |
+|---|---|
+| health | 300 |
+| drops | Mantra Modifiers |
+| weapon | None |
+| moves | Scratch |
 
 ## Description
 

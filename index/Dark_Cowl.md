@@ -1,6 +1,6 @@
 ---
 title: Dark Cowl
-revid: 169048
+revid: 176391
 source: https://deepwoken.fandom.com/wiki/Dark_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]

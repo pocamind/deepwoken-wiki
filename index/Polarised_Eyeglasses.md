@@ -1,6 +1,6 @@
 ---
 title: Polarised Eyeglasses
-revid: 152552
+revid: 176527
 source: https://deepwoken.fandom.com/wiki/Polarised_Eyeglasses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses]

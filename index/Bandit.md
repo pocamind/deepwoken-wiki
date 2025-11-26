@@ -1,6 +1,6 @@
 ---
 title: Bandit
-revid: 163519
+revid: 176631
 source: https://deepwoken.fandom.com/wiki/Bandit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bandits, Ambush Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Bandits, Ambush Enemies]
 
 # Bandit
 
-Template:EnemyInfobox1.0
+| Bandit | |
+|---|---|
+| health | 85 |
+| drops | Lesser Mantra Modifiers |
+| weapon | Starter Weapons, Battleaxe, Sword, Messer, Mace, Stiletto |
+| moves | Assault, Critical |
 
 ## Description
 

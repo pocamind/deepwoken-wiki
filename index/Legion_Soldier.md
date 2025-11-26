@@ -1,6 +1,6 @@
 ---
 title: Legion Soldier
-revid: 163678
+revid: 176661
 source: https://deepwoken.fandom.com/wiki/Legion_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Hundred Legions, The Hundred Legions Enemies]
 
 # Legion Soldier
 
-Template:EnemyInfobox1.0
+| Legion Soldier | |
+|---|---|
+| health | 300 |
+| drops | Gale Stone, Ritual Spear |
+| weapon | Champion's Sword, Ritual Spear, Khan Shield |
+| moves | Assault, Critical, Gale Lunge, Wind Blade |
 
 ## Description
 

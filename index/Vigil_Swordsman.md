@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 172694
+revid: 176640
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies, Ambush Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Etrea Enemies, Ambush Enemies]
 
 # Vigil Swordsman
 
-Template:EnemyInfobox1.0
+| Vigil Swordsman | |
+|---|---|
+| health | 1000 |
+| drops | Gale Stone |
+| weapon | Vigil Longsword |
+| moves | Assault, Critical, Gale Lunge, Wind Blade |
 
 ## Description
 

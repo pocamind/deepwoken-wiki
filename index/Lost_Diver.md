@@ -1,6 +1,6 @@
 ---
 title: Lost Diver
-revid: 171214
+revid: 176698
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Divers]
@@ -8,11 +8,16 @@ categories: [Enemies, The Divers]
 
 # Lost Diver
 
+| Lost Diver | |
+|---|---|
+| health | 1,000 |
+| drops | Markor's Inheritor |
+| weapon | Markor's Inheritor |
+| moves | Assault, Critical, Gale Lunge, Prominence Draw |
+
 “ The Drowned shall never know peace. ”
 
 ― Lost Diver
-
-Template:EnemyInfobox1.0
 
 ## Description
 

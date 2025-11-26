@@ -1,6 +1,6 @@
 ---
 title: "Warlock's Mantle"
-revid: 175492
+revid: 176606
 source: https://deepwoken.fandom.com/wiki/Warlock's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, World Event]

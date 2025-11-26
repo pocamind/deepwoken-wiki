@@ -1,6 +1,6 @@
 ---
 title: Songseeker Thundercaller
-revid: 163780
+revid: 176638
 source: https://deepwoken.fandom.com/wiki/Songseeker_Thundercaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -8,7 +8,14 @@ categories: [Enemies, Songseekers]
 
 # Songseeker Thundercaller
 
-Template:EnemyInfobox1.0 **Songseeker Thundercallers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+| Songseeker Thundercaller | |
+|---|---|
+| health | 900 |
+| drops | Spark Gland, Green Royal Guard (Mask) |
+| weapon | Fists |
+| moves | Assault, Critical, Jolt Grab, Lightning Impact, Storm Blades, Lightning Assault, Lightning Stream |
+
+**Songseeker Thundercallers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description
 

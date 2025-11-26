@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 175391
+revid: 176532
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Hallowtide]

@@ -1,6 +1,6 @@
 ---
 title: Hive Scout
-revid: 164403
+revid: 176697
 source: https://deepwoken.fandom.com/wiki/Hive_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -8,9 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemie
 
 # Hive Scout
 
-Template:EnemyInfobox1.0
-
-  
+| Hive Scout | |
+|---|---|
+| health | 400 |
+| drops | None |
+| weapon | Iron Birch, Razor Cutlass, Ritual Spear |
+| moves | Assault, Critical, Fire Blade, Revenge, Flame Assault |
 
 ## Description
 

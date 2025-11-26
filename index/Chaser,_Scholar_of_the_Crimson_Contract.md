@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 174146
+revid: 176687
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Bosses, The Divers, The Ministry, Black Divers]
@@ -8,11 +8,17 @@ categories: [Enemies, Bosses, The Divers, The Ministry, Black Divers]
 
 # Chaser, Scholar of the Crimson Contract
 
+| Chaser, Scholar of the Crimson Contract | |
+|---|---|
+| health | 25k (+2.5k per extra player) |
+| drops | Large Layer 2 chest (see Loot Table), Strange Tome Volume #2, Ardour manifestation, Pluripotent Alloy, Flareblood Kamas, Bloodforged Crown, Weathered Timepiece, Bloodfouler |
+| weapon | None |
+| moves | Triple Blood Appendage, Powerful Blood Appendage, Burning Blood Explosion, Triple Blood Wave, Stalactite Fall, Transfusion, Sanguine Repulsion, Last Resort |
+| challenges | -- Chaser, Scholar of the Crimson Contract --, Deep Diver Thrombosis - Slay 10.Reward: +5% DMG; +2.5% RES |
+
 “ Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the [City.](Second_Layer/New_Kyrsa.md) ”
 
 ― Chaser
-
-Template:EnemyInfobox1.0
 
 ## Description
 

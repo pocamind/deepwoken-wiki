@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 174150
+revid: 176724
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame]
@@ -8,11 +8,16 @@ categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer,
 
 # Aska
 
+| Aska | |
+|---|---|
+| health | 18,000 |
+| drops | Pleeksty's InfernoSimmerbloom Diadem (not guaranteed) |
+| weapon | Pleeksty's Inferno |
+| moves | Assault, Critical, Flame Grab, Flame Sentinel, Flaming Scourge, Ash Slam, Relentless Flames, Flare Volley |
+
 “ KINDLE ANEW AND RETURN TO THE FLAME ”
 
 ― Aska
-
-Template:EnemyInfobox1.0
 
 ## Description
 

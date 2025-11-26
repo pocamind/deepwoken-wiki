@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Fighter
-revid: 163114
+revid: 176644
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Fighter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, Ignition Union Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, The Ignition Union, I
 
 # Ignition Union Fighter
 
-Template:EnemyInfobox1.0
+| Ignition Union Fighter | |
+|---|---|
+| health | 1000 |
+| drops | None |
+| weapon | Falchion, Darksteel Greatsword |
+| moves | Assault, Critical, Needle Barrage, Firing Line, Oxidizing Rush |
 
 ## Description
 

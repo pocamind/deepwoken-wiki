@@ -1,6 +1,6 @@
 ---
 title: Crescent Earrings
-revid: 173982
+revid: 176505
 source: https://deepwoken.fandom.com/wiki/Crescent_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]

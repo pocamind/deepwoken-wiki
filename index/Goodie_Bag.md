@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 176119
+revid: 176758
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Relics, Items, Hallowtide]

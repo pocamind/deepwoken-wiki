@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 164136
+revid: 176663
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Summer Company, Summer Company Enemies]
 
 # Summer Manager
 
-Template:EnemyInfobox1.0
+| Summer Manager | |
+|---|---|
+| health | 1000 |
+| drops | None |
+| weapon | Flintlock |
+| moves | Assault, Critical, Taunt, Exhaustion Strike |
 
 ## Description
 

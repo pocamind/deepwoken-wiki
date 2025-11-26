@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 164099
+revid: 176787
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]

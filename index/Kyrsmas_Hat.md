@@ -1,6 +1,6 @@
 ---
 title: Kyrsmas Hat
-revid: 175334
+revid: 176478
 source: https://deepwoken.fandom.com/wiki/Kyrsmas_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats, Event Item]

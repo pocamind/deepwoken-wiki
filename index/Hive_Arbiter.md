@@ -1,6 +1,6 @@
 ---
 title: Hive Arbiter
-revid: 162853
+revid: 176700
 source: https://deepwoken.fandom.com/wiki/Hive_Arbiter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemie
 
 # Hive Arbiter
 
-Template:EnemyInfobox1.0
+| Hive Arbiter | |
+|---|---|
+| health | 1200 |
+| drops | (work in progress) |
+| weapon | Katana |
+| moves | Assault, Critical, Fire Blade, Flame Assault, Flashdraw Strike, Master's Flourish |
 
 ## Description
 

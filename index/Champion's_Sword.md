@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 173693
+revid: 176779
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -28,14 +28,12 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer |
+| obtainment | First Layer, Legion Soldier |
 | description | A blade heralded by those who have braved the challenges of 'The Golden Rat'. Befitting of a champion, its metal shines as bright as the spirit of the Golden Rat itself. |
 
 ## Description
 
-The Champion's sword is a mid-game Sword obtained from [Starswept Valley](The_Starswept_Valley.md) chests, [Depths](The_Depths.md) chests and the Golden Rat.
-
-Can be easily obtained from Layer 2 Floor 1, not worth farming in the [Starswept Valley](The_Starswept_Valley.md).
+The Champion's sword is a mid-game Sword.
 
 ## Critical
 

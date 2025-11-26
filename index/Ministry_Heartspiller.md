@@ -1,6 +1,6 @@
 ---
 title: Ministry Heartspiller
-revid: 173941
+revid: 176735
 source: https://deepwoken.fandom.com/wiki/Ministry_Heartspiller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Ministry, Ministry Enemies]
 
 # Ministry Heartspiller
 
-Template:EnemyInfobox1.0
+| Ministry Heartspiller | |
+|---|---|
+| health | 10000 |
+| drops | Red Death |
+| weapon | Red Death |
+| moves | Assault, Critical, Rising Shadow, Crucifixion, Veinbreaker |
 
 ## Description
 

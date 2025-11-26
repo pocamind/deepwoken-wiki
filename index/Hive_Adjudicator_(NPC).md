@@ -1,6 +1,6 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 176189
+revid: 176664
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemie
 
 # Hive Adjudicator (NPC)
 
-Template:EnemyInfobox1.0
+| Hive Adjudicator | |
+|---|---|
+| health | 1200 |
+| drops | (work in progress) |
+| weapon | Katana, Iron Birch |
+| moves | Assault, Critical, Fire Blade, Flame Assault, Flaming Scourge, Lightning Stream, Ice Daggers |
 
 ## Description
 

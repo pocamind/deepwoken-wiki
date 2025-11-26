@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 169270
+revid: 176379
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]

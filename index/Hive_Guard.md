@@ -1,6 +1,6 @@
 ---
 title: Hive Guard
-revid: 163779
+revid: 176649
 source: https://deepwoken.fandom.com/wiki/Hive_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemie
 
 # Hive Guard
 
-Template:EnemyInfobox1.0
+| Hive Guard | |
+|---|---|
+| health | 1000 |
+| drops | None |
+| weapon | Ritual Spear |
+| moves | Assault, Critical, Fire Blade, Flame Assault, Flame Blind |
 
 ## Description
 

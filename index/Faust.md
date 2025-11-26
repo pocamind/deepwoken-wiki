@@ -1,8 +1,11 @@
 ---
 title: Faust
-revid: 176241
+revid: 176323
 source: https://deepwoken.fandom.com/wiki/Faust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress without reason, InProgressPages]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Faust

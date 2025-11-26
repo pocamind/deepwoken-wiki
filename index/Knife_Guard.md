@@ -1,6 +1,6 @@
 ---
 title: Knife Guard
-revid: 163111
+revid: 176711
 source: https://deepwoken.fandom.com/wiki/Knife_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -10,7 +10,11 @@ notices:
 
 # Knife Guard
 
-Template:EnemyInfobox1.0
+| Knife Guard | |
+|---|---|
+| health | N/A |
+| weapon | Whaling Knife |
+| moves | Assault, Critical |
 
 ## Description
 

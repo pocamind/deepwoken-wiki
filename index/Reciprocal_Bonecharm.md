@@ -1,6 +1,6 @@
 ---
 title: Reciprocal Bonecharm
-revid: 175725
+revid: 176760
 source: https://deepwoken.fandom.com/wiki/Reciprocal_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Effigies]

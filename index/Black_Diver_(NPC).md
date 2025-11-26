@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 173668
+revid: 176691
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -8,7 +8,14 @@ categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, T
 
 # Black Diver (NPC)
 
-_This is the Black Diver NPC. To see the Master [Outfit](Outfits.md) under the same name, check [Black Diver](Black_Diver.md)._Template:EnemyInfobox1.0
+| Black Diver (NPC) | |
+|---|---|
+| health | 10000 |
+| drops | None |
+| weapon | Forgotten Gladius, Markor's Inheritor, Pale Morning |
+| moves | Assault, Critical, Gale Lunge, Jolt Grab |
+
+_This is the Black Diver NPC. To see the Master [Outfit](Outfits.md) under the same name, check [Black Diver](Black_Diver.md)._
 
 ## Description
 

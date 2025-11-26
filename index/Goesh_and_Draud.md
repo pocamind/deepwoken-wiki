@@ -1,6 +1,6 @@
 ---
 title: Goesh and Draud
-revid: 163725
+revid: 176736
 source: https://deepwoken.fandom.com/wiki/Goesh_and_Draud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies]
 
 # Goesh and Draud
 
-Template:EnemyInfobox1.0
+| Goesh and Draud | |
+|---|---|
+| health | ??? |
+| drops | Weal and Woe |
+| weapon | Weal and Woe |
+| moves | Assault, Shadow Gun, Shadow Assault, Eclipse Kick, Encircle |
 
 ## Description
 

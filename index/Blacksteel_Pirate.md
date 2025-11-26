@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate
-revid: 163706
+revid: 176706
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies]
 
 # Blacksteel Pirate
 
-Template:EnemyInfobox1.0
+| Blacksteel Pirate | |
+|---|---|
+| health | 420 |
+| drops | Blacksteel Helm, Blacksteel Pauldrons, Darksteel Greatsword |
+| weapon | Darksteel Greatsword, Battleaxe, Sword, Messer, Mace |
+| moves | Strong Left, Rapid Punches, Shadow Assault, Pressure Blast, Exhaustion Strike |
 
 ## Description
 

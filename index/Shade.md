@@ -1,6 +1,6 @@
 ---
 title: Shade
-revid: 163754
+revid: 176733
 source: https://deepwoken.fandom.com/wiki/Shade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,11 @@ categories: [Enemies]
 
 # Shade
 
-Template:EnemyInfobox1.0
+| Shade | |
+|---|---|
+| health | ??? |
+| weapon | Shattered Katana |
+| moves | Assault, Critical, Time-Slowing Orb, Wind Forge, Twister Kicks, Wind Blade |
 
 ## Description
 

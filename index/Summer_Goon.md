@@ -1,6 +1,6 @@
 ---
 title: Summer Goon
-revid: 163756
+revid: 176694
 source: https://deepwoken.fandom.com/wiki/Summer_Goon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Summer Company, Summer Company Enemies]
 
 # Summer Goon
 
-Template:EnemyInfobox1.0
+| Summer Goon | |
+|---|---|
+| health | 1200 |
+| drops | None |
+| weapon | Flintlock |
+| moves | Assault, Critical |
 
 ## Description
 

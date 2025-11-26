@@ -1,6 +1,6 @@
 ---
 title: Pathfinder (NPC)
-revid: 163746
+revid: 176710
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,14 @@ categories: [Enemies]
 
 # Pathfinder (NPC)
 
-_Not to be confused with [Pathfinder](Glossary.md#pathfinders), a label given to those who explore and scavenge Lumen, notably without having taken an Oath._ Template:EnemyInfobox1.0
+| Pathfinder | |
+|---|---|
+| health | 350 (speculation) |
+| drops | N/A |
+| weapon | Battleaxe |
+| moves | Ice Eruption |
+
+_Not to be confused with [Pathfinder](Glossary.md#pathfinders), a label given to those who explore and scavenge Lumen, notably without having taken an Oath._
 
 ## Description
 

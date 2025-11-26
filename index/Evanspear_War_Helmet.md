@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Helmet
-revid: 169052
+revid: 176418
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]

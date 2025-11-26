@@ -1,6 +1,6 @@
 ---
 title: Authority Lieutenant
-revid: 167353
+revid: 176693
 source: https://deepwoken.fandom.com/wiki/Authority_Lieutenant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -8,7 +8,12 @@ categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that ca
 
 # Authority Lieutenant
 
-Template:EnemyInfobox1.0
+| Authority Lieutenant | |
+|---|---|
+| health | 1000 |
+| drops | Frigid Prism |
+| weapon | Cavalry Saber, Adretian Axe, Mace |
+| moves | Assault, Critical, Fire Blade, Strong Left |
 
 ## Description
 

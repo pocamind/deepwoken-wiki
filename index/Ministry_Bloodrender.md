@@ -1,6 +1,6 @@
 ---
 title: Ministry Bloodrender
-revid: 173949
+revid: 176730
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ministry Enemies, The Ministry, Enemies that can wield Enchantments]
@@ -8,7 +8,12 @@ categories: [Enemies, Ministry Enemies, The Ministry, Enemies that can wield Enc
 
 # Ministry Bloodrender
 
-Template:EnemyInfobox1.0
+| Ministry Bloodrender | |
+|---|---|
+| health | ~1800 |
+| drops | Heartstar |
+| weapon | Krulian Knife |
+| moves | Assault, Critical, Crucifixion, Scarlet Cyclon, Razor Blitz |
 
 ## Description
 

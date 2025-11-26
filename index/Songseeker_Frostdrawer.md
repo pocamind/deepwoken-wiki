@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 163120
+revid: 176635
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -8,7 +8,14 @@ categories: [Enemies, Songseekers]
 
 # Songseeker Frostdrawer
 
-Template:EnemyInfobox1.0 **Songseeker Frostdrawers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+| Songseeker Frostdrawer | |
+|---|---|
+| health | 1000 |
+| drops | Frigid Prism, Blue Royal Guard |
+| weapon | FIsts |
+| moves | Assault, Critical, Ice Spikes, Ice Daggers, Ice Blade, Ice Eruption, Ice Smash |
+
+**Songseeker Frostdrawers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description
 

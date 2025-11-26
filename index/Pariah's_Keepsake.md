@@ -1,6 +1,6 @@
 ---
 title: "Pariah's Keepsake"
-revid: 173957
+revid: 176516
 source: https://deepwoken.fandom.com/wiki/Pariah's_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]

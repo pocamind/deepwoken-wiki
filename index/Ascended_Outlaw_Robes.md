@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 172879
+revid: 176340
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]

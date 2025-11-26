@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 168815
+revid: 176705
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -8,7 +8,12 @@ categories: [Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies,
 
 # Nostor, Master of Shadow
 
-Template:EnemyInfobox1.0
+| Nostor, Master of Shadow | |
+|---|---|
+| health | 2100 |
+| drops | None |
+| weapon | Crypt Blade |
+| moves | Assault, Critical, Shadow Assault, Rapid Punches |
 
 ## Description
 

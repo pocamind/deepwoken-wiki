@@ -1,6 +1,6 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 174022
+revid: 176686
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Starkindred Church]
@@ -8,11 +8,15 @@ categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Star
 
 # Iblis, The Fallen Angel
 
+| Iblis, The Fallen Angel | |
+|---|---|
+| health | 3500 |
+| drops | N/A |
+| moves | Fire Blade, Flaming Scourge, Flame Ballista, Sinister Halo, Ascension, Celestial Assault |
+
 “ THE PATH YOU CHOOSE TO FOLLOW IS WROUGHT WITH LIES. DECEIT. YOU ARE THE TRUE FOOLS, PLAYING AS GOD. ”
 
 ― Iblis
-
-Template:EnemyInfobox1.0
 
 ## Description
 

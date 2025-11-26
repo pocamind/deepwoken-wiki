@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 171080
+revid: 176685
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -8,11 +8,16 @@ categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
 
 # Zana
 
+| Zana | |
+|---|---|
+| health | 500 |
+| drops | Frigid Prism |
+| weapon | Shattered Katana |
+| moves | Assault, Critical |
+
 “ Never forget the signature pose, my brethren. ”
 
 ― Zana
-
-Template:EnemyInfobox1.0
 
 ## Description
 

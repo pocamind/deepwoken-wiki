@@ -1,6 +1,6 @@
 ---
 title: Dermal Stud
-revid: 175247
+revid: 176406
 source: https://deepwoken.fandom.com/wiki/Dermal_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]

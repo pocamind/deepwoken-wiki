@@ -1,6 +1,6 @@
 ---
 title: Charged Ring
-revid: 175229
+revid: 176384
 source: https://deepwoken.fandom.com/wiki/Charged_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

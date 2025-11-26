@@ -1,6 +1,6 @@
 ---
 title: Perennial Sundown
-revid: 171075
+revid: 176763
 source: https://deepwoken.fandom.com/wiki/Perennial_Sundown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Relics, Items]

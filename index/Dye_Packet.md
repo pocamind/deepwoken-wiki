@@ -1,6 +1,6 @@
 ---
 title: Dye Packet
-revid: 175409
+revid: 176759
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]

@@ -1,6 +1,6 @@
 ---
 title: Brilliant Boots
-revid: 175213
+revid: 176370
 source: https://deepwoken.fandom.com/wiki/Brilliant_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]

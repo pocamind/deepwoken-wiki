@@ -1,6 +1,6 @@
 ---
 title: Bandit Leader
-revid: 175702
+revid: 176632
 source: https://deepwoken.fandom.com/wiki/Bandit_Leader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Enemies that can wield Enchantments, Bandits, Ambush Enemi
 
 # Bandit Leader
 
-Template:EnemyInfobox1.0
+| Bandit Leader | |
+|---|---|
+| health | 220 |
+| drops | Lesser Mantra Modifiers |
+| weapon | Battleaxe, Messer, Mace, Gilded Knife |
+| moves | Assault, Critical |
 
 ## Description
 

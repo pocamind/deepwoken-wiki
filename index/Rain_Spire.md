@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 175418
+revid: 176752
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Spires]

@@ -1,6 +1,6 @@
 ---
 title: Ministry Captain
-revid: 164865
+revid: 176695
 source: https://deepwoken.fandom.com/wiki/Ministry_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Ministry, Ministry Enemies]
 
 # Ministry Captain
 
-Template:EnemyInfobox1.0
+| Ministry Captain | |
+|---|---|
+| health | 1000 |
+| drops | ??? |
+| weapon | Krulian Knife |
+| moves | Assault, Critical, Shadow Assault, Shadow Road, Dark Blade, Clutching Shadow, Shadow Eruption, Encircle |
 
 ## Description
 

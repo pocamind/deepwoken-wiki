@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 167350
+revid: 176653
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Central Authority Enemies]
 
 # Authority Soldier
 
-Template:EnemyInfobox1.0
+| Authority Soldier | |
+|---|---|
+| health | 200 |
+| drops | Authority Helm, Dying Embers |
+| weapon | Adretian Axe, Officer Saber |
+| moves | Assault, Critical, Flame Grab, Fire Blade, Burning Servants |
 
 ## Description
 

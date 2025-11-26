@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 163119
+revid: 176637
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -8,7 +8,14 @@ categories: [Enemies, Songseekers]
 
 # Songseeker Flamecharmer
 
-Template:EnemyInfobox1.0 **Songseeker Flamecharmers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+| Songseeker Flamecharmer | |
+|---|---|
+| health | 900 |
+| drops | Dying Embers, Red Royal Guard (Mask) |
+| weapon | Fists |
+| moves | Assault, Critical, Fire Blade, Flame Repulsion, Fire Palm, Fire Eruption, Flame Ballista |
+
+**Songseeker Flamecharmers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description
 

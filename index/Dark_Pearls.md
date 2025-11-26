@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 175964
+revid: 176395
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics]

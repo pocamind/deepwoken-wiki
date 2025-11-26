@@ -1,6 +1,6 @@
 ---
 title: Knife of Eylis
-revid: 163739
+revid: 176648
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -8,7 +8,11 @@ categories: [Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
 
 # Knife of Eylis
 
-Template:EnemyInfobox1.0
+| Knife of Eylis | |
+|---|---|
+| health | 200 |
+| weapon | Whaling Knife |
+| moves | Assault, Critical, Strong Leftt, Rapid Slashes, Revenge |
 
 ## Description
 

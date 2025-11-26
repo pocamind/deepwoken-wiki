@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 172684
+revid: 176716
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,14 @@ categories: [Enemies]
 
 # Ghost
 
-_This page is about the mob named Ghost. If you're looking for a Talent of the same name, check the [Talents](https://deepwoken.fandom.com/wiki/Talents#Butterfly) page._ Template:EnemyInfobox1.0
+| Ghost | |
+|---|---|
+| health | 1000 |
+| drops | N/A |
+| weapon | Broadsword (Unobtainable) |
+| moves | Assault, Critical |
+
+_This page is about the mob named Ghost. If you're looking for a Talent of the same name, check the [Talents](https://deepwoken.fandom.com/wiki/Talents#Butterfly) page._
 
 ## Description
 

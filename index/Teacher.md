@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 170573
+revid: 176643
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -8,7 +8,12 @@ categories: [Enemies, NPCs]
 
 # Teacher
 
-Template:EnemyInfobox1.0
+| Teacher | |
+|---|---|
+| health | 350 (speculation) |
+| drops | N/A |
+| weapon | Fists (Way of Navae) |
+| moves | Ice Eruption |
 
 ## Description
 

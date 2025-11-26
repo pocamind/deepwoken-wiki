@@ -1,6 +1,6 @@
 ---
 title: Blade Temple Guard
-revid: 167324
+revid: 176647
 source: https://deepwoken.fandom.com/wiki/Blade_Temple_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Guards, Etrea Enemies]
@@ -8,7 +8,11 @@ categories: [Enemies, Guards, Etrea Enemies]
 
 # Blade Temple Guard
 
-Template:EnemyInfobox1.0
+| Blade Temple Guard | |
+|---|---|
+| health | 300 |
+| weapon | Katana |
+| moves | Assault, Critical, Gale Lunge, Wind Blade |
 
 ## Description
 

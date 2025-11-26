@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 163690
+revid: 176703
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
@@ -8,7 +8,12 @@ categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Lum
 
 # Amashi, Master of Flame
 
-Template:EnemyInfobox1.0
+| Amashi, Master of Flame | |
+|---|---|
+| health | 2100 |
+| drops | None |
+| weapon | Hero Blade of Flame |
+| moves | Assault, Critical, Fire Blade, Flame Repulsion, Flame Assault |
 
 ## Description
 

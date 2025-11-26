@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 175228
+revid: 176383
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes, Craftable]

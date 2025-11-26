@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 174684
+revid: 176699
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -8,13 +8,18 @@ categories: [Enemies, NPCs, Bosses, Etrea]
 
 # Maestro Evengarde Rest
 
+| Maestro Evengarde Rest | |
+|---|---|
+| health | 15,000 |
+| drops | Large chest, Purple Cloud (Guaranteed on the first kill with Medium), Pale Briar (Guaranteed on first kill with Heavy), Cerulean Thread (Guaranteed on first kill with Light), Windrunner Robes, Wyrmtooth, Curved Blade of Winds, Crypt Blade, Imperial Staff, Drops Smith's Alloy, Sinner's Ash and Armorer's Needle, Misc. (See Lootpool) |
+| weapon | Shattered Katana |
+| challenges | -- Maestro Evengarde Rest --, Sparring Buddy - Slay 10.Reward: +5% DMG; +2.5% RES |
+
 Variants: [Evengarde Rest (NPC)](Evengarde_Rest.md)
 
 “ …Your movements lack discipline. ”
 
 ― Maestro Evengarde Rest
-
-Template:EnemyInfobox1.0
 
 ## Description
 

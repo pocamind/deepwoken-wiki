@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 176187
+revid: 176726
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, NPCs, Enemies]
@@ -8,7 +8,11 @@ categories: [Random Encounters, NPCs, Enemies]
 
 # Grudge
 
-Template:EnemyInfobox1.0
+| Grudge | |
+|---|---|
+| health | 5000 |
+| drops | Wraithclaw |
+| weapon | Wraithclaw |
 
 ## Description
 

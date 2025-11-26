@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 175411
+revid: 176765
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -12,10 +12,13 @@ categories: [Relics]
 |---|---|
 | type | Utility |
 | rarity | Relic |
+| selling price | 400 |
 | bankable | Yes, for 1 |
 | droppable | Yes, but not on death |
-| pass down | No |
+| enchantable | Yes |
+| pass down | Yes |
 | obtainment | Crafting, Carnival of Hearts, Sold in Traan Zakshun's black market for 5 , Goodie Bag |
+| description | A splendid needle of Gilded ironsing, capable of even more precise adjustments to the characteristics of equipment. |
 
 ## Description
 

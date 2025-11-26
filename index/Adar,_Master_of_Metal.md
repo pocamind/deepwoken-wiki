@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 174737
+revid: 176708
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -8,7 +8,13 @@ categories: [Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs locate
 
 # Adar, Master of Metal
 
-Template:EnemyInfobox1.0
+| Adar, Master of Metal | |
+|---|---|
+| health | 2100 |
+| drops | None |
+| weapon | Darksteel Greatsword |
+| moves | Assault, Critical, Metal Eruption, Caltrops, Firing Line, Oxidizing Rush, Metal Armament, Metal Gatling, Iron Slam, Iron Hug, Rocket Lance, Metal Ball, Needle Barrage, Onslaught, Mecha Gatling |
+| affiliation | The Ignition Union |
 
 ## Description
 

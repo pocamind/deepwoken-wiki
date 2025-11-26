@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 175288
+revid: 176448
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment, Head]

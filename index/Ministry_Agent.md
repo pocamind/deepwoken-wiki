@@ -1,6 +1,6 @@
 ---
 title: Ministry Agent
-revid: 174992
+revid: 176725
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Ministry, Ministry Enemies]
@@ -8,7 +8,11 @@ categories: [NPCs, Enemies, The Ministry, Ministry Enemies]
 
 # Ministry Agent
 
-Template:EnemyInfobox1.0
+| Ministry Agent | |
+|---|---|
+| health | 14,000 |
+| drops | If entered via Silhuett, Deepspindle, Darkened Bastion, Deepscorn CasqueOtherwise:, No Direct Drops |
+| weapon | Deepspindle |
 
 ## Description
 

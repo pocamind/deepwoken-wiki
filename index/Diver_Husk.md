@@ -1,6 +1,6 @@
 ---
 title: Diver Husk
-revid: 162457
+revid: 176684
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2]
@@ -8,7 +8,12 @@ categories: [Monsters, Layer 2]
 
 # Diver Husk
 
-Template:EnemyInfobox1.0
+| Diver Husk | |
+|---|---|
+| health | 20005000 (Corrupted) |
+| drops | None |
+| weapon | Crucible Rapier, Zweihander, Katana, Halberd |
+| moves | Critical, Strong Left |
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Guard
-revid: 163115
+revid: 176660
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ignition Union, Ignition Union Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Ignition Union, Ignition Union Enemies]
 
 # Ignition Union Guard
 
-Template:EnemyInfobox1.0
+| Ignition Union Guard | |
+|---|---|
+| health | 1000 |
+| drops | None |
+| weapon | Falchion, Alloyed Darksteel Greatsword |
+| moves | Assault, Critical, Metal Eruption, Firing Line, Rocket Lance, Chain pull, Metal Ball |
 
 ## Description
 

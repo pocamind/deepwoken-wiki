@@ -1,6 +1,6 @@
 ---
 title: Authority Commander (Enemy)
-revid: 167352
+revid: 176628
 source: https://deepwoken.fandom.com/wiki/Authority_Commander_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that can wield Enchantments]
@@ -8,7 +8,12 @@ categories: [Enemies, Central Authority Enemies, Ambush Enemies, Enemies that ca
 
 # Authority Commander (Enemy)
 
-Template:EnemyInfobox1.0
+| Authority Commander | |
+|---|---|
+| health | 5000 |
+| drops | Parka (Black), Shipping Schedule, Frigid Prism |
+| weapon | Adretian Axe, Cavalry Saber |
+| moves | Flame Repulsion, Fire Blade, Flame Assault, Strong Left |
 
 ## Description
 

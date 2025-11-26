@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Ring"
-revid: 153681
+revid: 176427
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

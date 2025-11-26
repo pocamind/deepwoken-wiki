@@ -1,6 +1,6 @@
 ---
 title: Woodland Boots
-revid: 175506
+revid: 176620
 source: https://deepwoken.fandom.com/wiki/Woodland_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]

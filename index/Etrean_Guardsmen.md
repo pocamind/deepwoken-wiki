@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardsmen
-revid: 167347
+revid: 176630
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardsmen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies, Guards]
@@ -8,7 +8,12 @@ categories: [Enemies, Etrea Enemies, Guards]
 
 # Etrean Guardsmen
 
-Template:EnemyInfobox1.0
+| Etrean Guardsmen | |
+|---|---|
+| health | 300 |
+| drops | Gale Stone |
+| weapon | Battleaxe, Ritual Spear, Mace |
+| moves | Assault, Critical, Gale Lunge |
 
 ## Description
 

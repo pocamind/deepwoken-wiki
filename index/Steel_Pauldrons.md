@@ -1,6 +1,6 @@
 ---
 title: Steel Pauldrons
-revid: 175450
+revid: 176580
 source: https://deepwoken.fandom.com/wiki/Steel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]

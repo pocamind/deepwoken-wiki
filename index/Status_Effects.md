@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 175717
+revid: 176794
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -420,7 +420,7 @@ Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_W
 
 ### Expeditious Combo
 
-While wielding the [Iron Birch](Iron_Birch.md), any uppercut you land will grant the Expeditious Combo status effect for 15 seconds. If you cast [Onslaught](Attunement-less.md#onslaught) during the duration of this effect, the speed of your attack will be massively increased, and your Expeditious Combo status effect will be consumed. This effect has no visual indicator, instead having a unique sound effect on uppercut. The duration of this effect can be viewed on your cooldown indicator.
+While wielding the [Iron Birch](Iron_Birch.md), any uppercut you land will grant the Expeditious Combo status effect for 15 seconds. If you cast [Onslaught](Attunement-less.md#onslaught) during the duration of this effect, the speed of your attack will be increased by 30%, and your Expeditious Combo status effect will be consumed. This effect has no visual indicator, instead having a unique sound effect on uppercut. The duration of this effect can be viewed on your cooldown indicator.
 
 ### Swift Strike
 
@@ -437,6 +437,16 @@ Upon landing an M1 with the [Warmonger](Warmonger.md), gain a variety of stat bo
 ### Bloodletting
 
 Upon being hit by the critical of the [Bloodbane](Bloodbane.md), gain a damage over time status effect. This effect can be applied even if you dodge the attack, and will deal 6 damage per tick. If you get knocked during the duration of this status, you will be autogripped and you'll instantly die. This effect has no visual indicator.
+
+### Blessing
+
+Gain a random Blessing upon using the [Ritual Sacrifice](Ritual_Sacrifice.md)'s Talent tool. This Talent costs 5 Knowledge to activate and has no cooldown. The list of blessings are as follows:
+
+-   +25% damage
+-   Damage reduction
+-   Health regeneration
+-   Satiation restoration (restores Blood, Food, and Thirst)
+-   [Speed boost](#speed-boost)
 
 ## Outfit & Equipment Applied
 
@@ -499,7 +509,7 @@ Gain a [speed boost](#speed-boost), health regeneration, and damage reduction fo
 
 ### Bane
 
-Upon using an M1, teleport to any opponent within range. This effect is applied through using the Bane Talent Tool from the [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>). The Bane status effect lasts 20 seconds and additionally grants a [speed boost](#speed-boost) for that same duration. Signified by blue particle effects and smoke pouring out of your character.
+Upon using an M1, teleport to any opponent within a 25 stud radius. This effect is applied through using the Bane Talent Tool from the [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>). The Bane status effect lasts 20 seconds and additionally grants a [speed boost](#speed-boost) for that same duration. Signified by blue particle effects and smoke pouring out of your character.
 
 ## Resonance Applied
 

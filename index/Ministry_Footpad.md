@@ -1,6 +1,6 @@
 ---
 title: Ministry Footpad
-revid: 163740
+revid: 176720
 source: https://deepwoken.fandom.com/wiki/Ministry_Footpad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, The Ministry, Ministry Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Ambush Enemies, The Ministry, Ministry Enemies]
 
 # Ministry Footpad
 
-Template:EnemyInfobox1.0
+| Ministry Footpad | |
+|---|---|
+| health | 400(?) |
+| drops | Lesser Mantra Modifiers(?):, Cloudstone, Crystal Lens, Aeon Logstone, Drift Shard, Amnesic DriftwoodUmbral Obsidian(?) |
+| weapon | Krulian Knife |
+| moves | Assault, Critical, Shadow Assault, Void Lance, Eclipse Kick, Encircle, Shade Devour |
 
 ## Description
 
@@ -20,15 +25,15 @@ A Ministry Footpad's appearance is identical to that of a Ministry Scout. It con
 
 A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcast](Shadowcast.md) attunement:
 
-| Name/Danger | Description |
-| --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
 **Assault**  
 (★☆☆)
 
  | Performs 3 basic attacks before sending the opponent away with a flourish.
 
- |
+ |  |
 | 
 
 **Critical**  
@@ -36,7 +41,7 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 
  | User unleashes a quick flurry of slashes.
 
- |
+ |  |
 | 
 
 **Shade Devour**  
@@ -44,7 +49,7 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 
  | Gorge on your own health to push away opponents and grant a damage bonus to melee attacks.
 
- |
+ |  |
 | 
 
 **Shadow Assault**  
@@ -52,7 +57,7 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 
  | Windup before turning invisible and dashing forward, dealing very minor damage to anyone in front of caster and stealing Ether.
 
- |
+ |  |
 | 
 
 **Encircle**  
@@ -60,7 +65,7 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 
  | Conjure shadows around your enemy before warping to them after a delay.
 
- |
+ |  |
 | 
 
 **Eclipse Kick**  
@@ -68,7 +73,7 @@ A Ministry footpad's arsenal consists of a [Krulian Knife](Krulian_Knife.md) and
 
  | A slow axe kick that ragdolls and flings nearby opponents on contact.
 
- |
+ |  |
 
 ### Boons
 

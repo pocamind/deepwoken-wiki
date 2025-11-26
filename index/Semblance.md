@@ -1,6 +1,6 @@
 ---
 title: Semblance
-revid: 167563
+revid: 176732
 source: https://deepwoken.fandom.com/wiki/Semblance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -8,7 +8,11 @@ categories: [Enemies]
 
 # Semblance
 
-Template:EnemyInfobox1.0
+| Semblance | |
+|---|---|
+| health | 1000 |
+| weapon | Fractine, Soulthorn, Nocturne, Shattered Katana |
+| moves | Assault, Critical, Time-Slowing Orb, Wind Forge, Twister Kicks, Wind Blade |
 
 ## Description
 

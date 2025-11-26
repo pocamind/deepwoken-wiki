@@ -1,6 +1,6 @@
 ---
 title: Ministry Scout
-revid: 163696
+revid: 176634
 source: https://deepwoken.fandom.com/wiki/Ministry_Scout
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, The Ministry, Ministry Enemies]
 
 # Ministry Scout
 
-Template:EnemyInfobox1.0
+| Ministry Scout | |
+|---|---|
+| health | 400 |
+| drops | Lesser Mantra Modifiers:, Cloudstone, Crystal Lens, Aeon Logstone, Drift Shard, Amnesic DriftwoodUmbral Obsidian |
+| weapon | Krulian Knife |
+| moves | Assault, Critical, Shadow Assault, Dark Blade |
 
 ## Description
 

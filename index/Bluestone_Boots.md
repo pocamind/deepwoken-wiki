@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 175923
+revid: 176366
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]

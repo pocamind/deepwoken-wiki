@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 163693
+revid: 176713
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry
 
 # Ministry Enforcer
 
-Template:EnemyInfobox1.0
+| Ministry Enforcer | |
+|---|---|
+| health | ??? |
+| drops | None |
+| weapon | Way of Navae |
+| moves | Assault, Critical, Shadow Assault, Judgement, Eclipse kick, Encircle, Shade Devour |
 
 ## Description
 

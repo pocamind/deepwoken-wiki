@@ -1,6 +1,6 @@
 ---
 title: Serena
-revid: 174223
+revid: 176690
 source: https://deepwoken.fandom.com/wiki/Serena
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, Enemies, NPCs located in the Eastern Luminant, Quests]
@@ -10,7 +10,12 @@ notices:
 
 # Serena
 
-Template:EnemyInfobox1.0
+| Serena | |
+|---|---|
+| health | 2000 |
+| drops | N/A |
+| weapon | Shotel |
+| moves | Assault, Critical, Ice Eruption, Glacial Shower, Ice Smash |
 
 ## Description
 

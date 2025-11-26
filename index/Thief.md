@@ -1,6 +1,6 @@
 ---
 title: Thief
-revid: 170159
+revid: 176633
 source: https://deepwoken.fandom.com/wiki/Thief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Bandits]
@@ -8,9 +8,14 @@ categories: [Enemies, Enemies that can wield Enchantments, Bandits]
 
 # Thief
 
-**Thieves** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
+| Thief | |
+|---|---|
+| health | 100 |
+| drops | Lesser Mantra Modifiers |
+| weapon | Silver Dagger |
+| moves | Assault, Critical |
 
-Template:EnemyInfobox1.0
+**Thieves** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description
 

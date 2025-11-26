@@ -1,6 +1,6 @@
 ---
 title: Eastern Nomad
-revid: 167886
+revid: 176652
 source: https://deepwoken.fandom.com/wiki/Eastern_Nomad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Children of Navae, Children of Navae Enemies]
@@ -8,9 +8,21 @@ categories: [Enemies, Enemies that can wield Enchantments, The Children of Navae
 
 # Eastern Nomad
 
-**Warrior:**
+| Eastern Nomad | |
+|---|---|
+| health | 200 |
+| drops | Frigid Prism, Gremorian Longspear, Rebel's Bandana |
+| weapon | Gremorian Longspear, Way of Navae |
+| moves | Assault, Critical, Ice Daggers, Rising Frost, Ice Smash, Ice Lance, Ice Blade |
 
-Template:EnemyInfobox1.0
+| Nomad Home Guard | |
+|---|---|
+| health | 800 |
+| drops | Frigid Prism, Gremorian Longspear, Rebel's Bandana |
+| weapon | Gremorian Longspear |
+| moves | Assault, Critical, Ice Eruption, Ice Daggers, Ice Chain |
+
+**Warrior:**
 
 ## Description
 
@@ -56,8 +68,6 @@ An Eastern Tribe Nomad executes it's opponent after knocking them:
 ## Trivia
 
 **Home Guard:**
-
-Template:EnemyInfobox1.0
 
 ## Description
 

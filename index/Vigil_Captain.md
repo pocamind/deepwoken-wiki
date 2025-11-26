@@ -1,6 +1,6 @@
 ---
 title: Vigil Captain
-revid: 167330
+revid: 176722
 source: https://deepwoken.fandom.com/wiki/Vigil_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies, Enemies that can wield Enchantments]
@@ -8,7 +8,12 @@ categories: [Enemies, Etrea Enemies, Enemies that can wield Enchantments]
 
 # Vigil Captain
 
-Template:EnemyInfobox1.0
+| Vigil Captain | |
+|---|---|
+| health | 1200 |
+| drops | Gale Stone |
+| weapon | Vigil Longsword |
+| moves | Assault, Critical, Gale Lunge, Wind Blade |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 165755
+revid: 176775
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -72,7 +72,7 @@ _Send a cascading eruption towards your foes, forcing them to react._
 
  | 
 
-Physical
+Typeless
 
  | 
 
@@ -82,6 +82,10 @@ Physical
 | 
 
 **Effect:** _The caster stomps into the ground and sends out a eruption that can automatically targets the nearest opponent, knocking them upward. This mantra is based on the [Nautilodaunt's](Nautilodaunt.md) '**Grand Stomp'** attack._
+
+-   Deals 38.25 damage and 15 posture damage
+-   Has a windup of 0.9 seconds
+-   This Mantra has two hits. The first one scans for if it touches the player and the second deals the damage. Because there is a slight delay, if your opponent is running from you, Abyssal Ridge may miss
 
  |
 | 

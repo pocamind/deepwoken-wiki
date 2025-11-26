@@ -1,6 +1,6 @@
 ---
 title: Bounty Hunter (NPC)
-revid: 163708
+revid: 176715
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, Ambush Enemies]
 
 # Bounty Hunter (NPC)
 
-Template:EnemyInfobox1.0
+| Bounty Hunter (NPC) | |
+|---|---|
+| health | ??? |
+| drops | Canorian Axe |
+| weapon | Trident Spear, Canorian Axe, Falchion |
+| moves | Assault, Critical, Strong Left, Gaze |
 
 ## Description
 

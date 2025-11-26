@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 166336
+revid: 176701
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
@@ -8,7 +8,12 @@ categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Lumi
 
 # Friid, Master of Gale
 
-Template:EnemyInfobox1.0
+| Friid, Master of Gale | |
+|---|---|
+| health | 2100 |
+| drops | None |
+| weapon | Curved Blade of Winds |
+| moves | Assault, Critical, Rising Wind, Strong Left |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Death's-Head Necktie"
-revid: 175527
+revid: 176398
 source: https://deepwoken.fandom.com/wiki/Death's-Head_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Ties, Hallowtide, Event Item]

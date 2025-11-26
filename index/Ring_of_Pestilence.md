@@ -1,6 +1,6 @@
 ---
 title: Ring of Pestilence
-revid: 165995
+revid: 176545
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

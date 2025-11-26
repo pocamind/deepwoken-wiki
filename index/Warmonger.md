@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 176111
+revid: 176804
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Talents]
@@ -36,9 +36,9 @@ Variants: [Steel Maul](Steel_Maul.md)
 
 ## Description
 
-The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul](Steel_Maul.md) with higher requirements. This weapon bears a brown appearance with a stone texture, distinguishing it from base Steel Maul.
+The **Warmonger** is a Heavy Greathammer, an enhanced variant of the [Steel Maul](Steel_Maul.md) with higher requirements. This weapon bears a brown appearance with a stone texture and a red swing trail, distinguishing it from base Steel Maul.
 
-Dying in the Overworld/[The Depths](The_Depths.md) with this weapon equipped or in your inventory causes it to **deteriorate into being a regular Steel Maul**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) will not deteriorate the Warmonger, though its unique Talent is disabled in Chime. Warmonger **cannot** be enchanted.
+Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Warmonger, though its unique Talent is disabled there. Warmonger **cannot** be enchanted.
 
 ## Talent: Pugnacious
 

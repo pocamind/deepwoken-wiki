@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 174649
+revid: 176658
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Guards, The Depths, Lost Celtor, Lost Celtor Enemies]
@@ -8,7 +8,12 @@ categories: [Enemies, NPCs, Guards, The Depths, Lost Celtor, Lost Celtor Enemies
 
 # Celtorian Guard
 
-Template:EnemyInfobox1.0
+| Celtorian Guard | |
+|---|---|
+| health | 800 |
+| drops | None |
+| weapon | Messer, Trident Spear |
+| moves | Assault, Critical, Gaze, Prominence Draw |
 
 ## Description
 

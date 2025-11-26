@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 167356
+revid: 176636
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies]
@@ -8,7 +8,14 @@ categories: [Enemies, Central Authority Enemies]
 
 # Authority Peacekeeper
 
-_"Authority Guard" redirects here. If you were looking for a different page, view the [disambiguation](<Authority_Guard_(disambiguation).md>)._ Template:EnemyInfobox1.0
+| Authority Peacekeeper | |
+|---|---|
+| health | 1200 |
+| drops | Authority Helm |
+| weapon | Rifle Spear, Cavalry Saber, Adretian Axe |
+| moves | Assault, Critical, Fire Blade, Relentless Flames, Flame Grab |
+
+_"Authority Guard" redirects here. If you were looking for a different page, view the [disambiguation](<Authority_Guard_(disambiguation).md>)._
 
 ## Description
 

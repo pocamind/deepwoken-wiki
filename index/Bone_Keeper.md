@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 171175
+revid: 176657
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -8,11 +8,15 @@ categories: [Monsters, Layer 2, Floor 1, The Depths]
 
 # Bone Keeper
 
+| Bone Keeper | |
+|---|---|
+| health | 950024000 (Corrupted) |
+| drops | Giant Femur |
+| moves | Triple Slash, Leap, Crushing Grab, Charge, Bone Spikes, Femur Throw |
+
 “ It's not somewhere one would want to stay for long. In my few ventures in there, I've always heard loud stomping... behind me, almost? I didn't want to stay to find out what was making those noises. ”
 
 ― Sarkale talking about the [Firfire Caverns](Firfire_Caverns.md)
-
-Template:EnemyInfobox1.0
 
 ## Description
 

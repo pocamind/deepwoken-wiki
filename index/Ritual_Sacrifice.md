@@ -1,0 +1,58 @@
+---
+title: Ritual Sacrifice
+revid: 176805
+source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, War Weapons, Weapons with Talents]
+---
+
+# Ritual Sacrifice
+
+| Ritual Sacrifice | |
+|---|---|
+| type | Spear |
+| requirements | 35 MED |
+| damage | 19 |
+| scaling | MED: 5 |
+| range | 9 |
+| swing speed | 0.9x |
+| penetration | 25% |
+| special effect | Sacrificial Boon - Consume 5 to grant a random buff |
+| m.equip | Yes |
+| m.extract | Yes |
+| m.crit | Iron Spear |
+| m.compatible | Spears |
+| stances | 2 Handed, 1 Handed |
+| selling price | 100 |
+| weight | 5 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | Hell Mode |
+| description | Is sacrifice not the most potent of all rituals? |
+
+Variants: [Ritual Spear](Ritual_Spear.md)
+
+## Description
+
+The **Ritual Sacrifice** is a Medium spear, and enhanced version of the [Ritual Spear](Ritual_Spear.md). This weapon bears a blue appearance with a light blue shimmer emanating from the spear's tip and a blue swing trail, distinguishing it from base Ritual Spar.
+
+Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Ritual Sacrifice, though its unique Talent is disabled there. Ritual Sacrifice **cannot** be enchanted.
+
+## Talent: Sacrificial Boon
+
+Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Sacrificial Boon** grants a random buff upon using the Talent tool at the cost of 5 Knowledge. This Talent has no cooldown.
+
+## Critical
+
+Ritual Sacrifice uses the default Spear critical, a horizontal swing followed by a forward thrust. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. Both hits deal **5** posture damage.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+
+## Trivia
+
+-   Meeting the requirement of MED, the damage is (21.5)
+-   At max MED, the damage is (26.1)

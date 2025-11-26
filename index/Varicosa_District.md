@@ -1,6 +1,6 @@
 ---
 title: Varicosa District
-revid: 172776
+revid: 176301
 source: https://deepwoken.fandom.com/wiki/Varicosa_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -20,5 +20,4 @@ The Varicosa District is a section of The City of the Drowned distinguished by b
 
 ## Trivia
 
--   Varicosa is a species of [sea slug](https://en.wikipedia.org/wiki/Phyllidia_varicosa).
 -   Due to the [Varicosan Finery](Varicosan_Finery.md) Outfit and the location flavour text, it can be assumed that this was the home to the upper class of Celtor.

@@ -1,6 +1,6 @@
 ---
 title: Party Hat
-revid: 152569
+revid: 176518
 source: https://deepwoken.fandom.com/wiki/Party_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Event Item]

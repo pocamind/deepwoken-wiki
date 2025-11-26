@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 167316
+revid: 176680
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea Enemies]
@@ -10,7 +10,12 @@ notices:
 
 # Blade Instructor
 
-Template:EnemyInfobox1.0
+| Blade Instructor | |
+|---|---|
+| health | 300 |
+| drops | None |
+| weapon | Battleaxe, Sword, Mace, Iron Spear |
+| moves | Assault, Critical |
 
 ## Description
 

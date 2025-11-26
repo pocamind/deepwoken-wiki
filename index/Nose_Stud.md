@@ -1,6 +1,6 @@
 ---
 title: Nose Stud
-revid: 175369
+revid: 176510
 source: https://deepwoken.fandom.com/wiki/Nose_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]

@@ -1,6 +1,6 @@
 ---
 title: Hivelord Mask
-revid: 162272
+revid: 176458
 source: https://deepwoken.fandom.com/wiki/Hivelord_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]

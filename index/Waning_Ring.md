@@ -1,6 +1,6 @@
 ---
 title: Waning Ring
-revid: 152447
+revid: 176603
 source: https://deepwoken.fandom.com/wiki/Waning_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

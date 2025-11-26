@@ -1,6 +1,6 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 176278
+revid: 176718
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Starkindred Church]
@@ -8,7 +8,12 @@ categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Star
 
 # Astaroth, Sinner of Wind
 
-Template:EnemyInfobox1.0
+| Astaroth, Sinner of Wind | |
+|---|---|
+| health | 2100 |
+| drops | N/A |
+| weapon | True Seraph Spear |
+| moves | Gale Lunge, Rising Wind, Heavenly Wind, Sinister Halo, Ascension, Celestial Assault |
 
 ## Description
 

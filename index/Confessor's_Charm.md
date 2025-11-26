@@ -1,6 +1,6 @@
 ---
 title: "Confessor's Charm"
-revid: 175233
+revid: 176387
 source: https://deepwoken.fandom.com/wiki/Confessor's_Charm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]

@@ -1,6 +1,6 @@
 ---
 title: Purifying Ring
-revid: 152296
+revid: 176533
 source: https://deepwoken.fandom.com/wiki/Purifying_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

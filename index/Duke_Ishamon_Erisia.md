@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 175058
+revid: 176625
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -8,11 +8,18 @@ categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia fam
 
 # Duke Ishamon Erisia
 
+| Duke Ishamon Erisia | |
+|---|---|
+| health | 15000 per player5000-10000 (Shield) per player |
+| drops | Chest (see loot table), Duke's Coat Fiber, Kanabo, Ardour Manifestation, Pluripotent Alloy, Stoneheart, Smith's Alloy, Armorer's Needle, Curved Blade of Winds, Sinner's Ash, Idol of Yun'Shul, Whistling Periapt, Gale Stone |
+| weapon | Iron Cestus (Legion Kata & Way of Navae) |
+| moves | Assault, Critical, Counter, Feint, Binding Tempest, Gale Stomp, Cyclone Bomb, Strong Left, Summon Mindless Servants |
+| affiliation | Lost Celtor |
+| challenges | -- Duke Ishamon Erisia --, Memories of Home - Slay 10.Reward: +5% DMG; +2.5% RES |
+
 “ The ruins of that city will never cage me. And with what's at stake... I can't stop now. ”
 
 ― Duke Ishamon Erisia
-
-Template:EnemyInfobox1.0
 
 ## Description
 

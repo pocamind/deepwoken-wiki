@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 172658
+revid: 176729
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
@@ -8,7 +8,11 @@ categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
 
 # Finnegan The Lost
 
-Template:EnemyInfobox1.0
+| Finnegan The Lost | |
+|---|---|
+| health | ~10,000 |
+| drops | BoltcrusherIron Requiem (Very Rare) |
+| weapon | Boltcrusher |
 
 ## Description
 

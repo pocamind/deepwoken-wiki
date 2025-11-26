@@ -1,6 +1,6 @@
 ---
 title: Tideknight
-revid: 152957
+revid: 176721
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Celtor Enemies]
@@ -8,7 +8,14 @@ categories: [Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Cel
 
 # Tideknight
 
-_Not to be confused with the master outfit, [Celtorian Tideknight](Celtorian_Tideknight.md)_ Template:EnemyInfobox1.0
+| Tideknight | |
+|---|---|
+| health | Varies (Based on Original Mob) |
+| drops | None |
+| weapon | Flame Hero Blades, Crypt Blade, Curved Blade of Winds, Gran Sudaruska, Markor's Inheritor, Forgotten Gladius, Darksteel Greatsword, Pale Morning |
+| moves | Dependent on Oath, weapon, and Mantras |
+
+_Not to be confused with the master outfit, [Celtorian Tideknight](Celtorian_Tideknight.md)_
 
 ## Description
 

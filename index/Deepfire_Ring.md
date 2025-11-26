@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 168572
+revid: 176399
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

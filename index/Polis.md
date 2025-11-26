@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 175062
+revid: 176655
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Etrea Enemies, Quests, NPCs located in the Etrean Luminant]
@@ -8,11 +8,17 @@ categories: [NPCs, Enemies, Etrea Enemies, Quests, NPCs located in the Etrean Lu
 
 # Polis
 
+| Polis | |
+|---|---|
+| health | 5000 |
+| drops | Anklets of Alsin |
+| weapon | Darksteel Greatsword |
+| moves | Assault, Critical , Gale Lunge , Rising Wind , Strong Left , Rapid Punches |
+| affiliation | The JusticarEtrea |
+
 “ May Alsin have mercy on me. ”
 
 ― Polis
-
-Template:EnemyInfobox1.0
 
 ## Description
 

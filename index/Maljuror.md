@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 174444
+revid: 176743
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church]
@@ -8,7 +8,12 @@ categories: [Enemies, Random Encounters, The Starkindred Church]
 
 # Maljuror
 
-Template:EnemyInfobox1.0
+| Maljuror | |
+|---|---|
+| health | ~2000 |
+| drops | Sparks, Kindred Edict |
+| weapon | Kindred Edict |
+| moves | Assault, Critical, Fire Blade, Flaming Scourge, Hollow Embrace |
 
 ## Description
 

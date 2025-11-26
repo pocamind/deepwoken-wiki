@@ -1,6 +1,6 @@
 ---
 title: Master Thief Earrings
-revid: 164739
+revid: 176488
 source: https://deepwoken.fandom.com/wiki/Master_Thief_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
