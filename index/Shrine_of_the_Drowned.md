@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 170771
+revid: 176884
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics, Death]
@@ -8,13 +8,13 @@ categories: [NPCs, Mechanics, Death]
 
 # Shrine of the Drowned
 
+**Not to be confused with [Deep Shrines](Deep_Shrines.md) and [Shrines](Fountain_Gates.md) (aka Fountain Gates).**
+
 Template:NPC name
 
 “ You know why it stands here-it offers an alternative. It beckons you to offer a part of who you are to the cold voice - a voice that’s always been at the back of your mind. ”
 
 ― Shrine of the Drowned when requirements are met for Drowned Favour
-
-  
 
 ## Description
 

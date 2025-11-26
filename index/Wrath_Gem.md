@@ -1,6 +1,6 @@
 ---
 title: Wrath Gem
-revid: 176174
+revid: 176910
 source: https://deepwoken.fandom.com/wiki/Wrath_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]

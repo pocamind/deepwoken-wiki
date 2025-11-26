@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 173684
+revid: 176893
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Adret
 
-Template:Races-Main
+| Adret | |
+|---|---|
+| obtained_by | 15% Roll Chance |
+| appearance | Cyan to dark blue humanoids with orange eyes and yellow/red/black tattoos on their faces. |
+| traits | Maudet, +3 Charisma, +2 Willpower |
 
 _Tattooed when they come of age, their tattoo represents the path of life they seek.  
 Well-regarded as bureaucrats and keepers of coin._

@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 163787
+revid: 176825
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -43,10 +43,9 @@ Home to the Rotten Lot, a vessel carrying crew members of countless origins hopi
 
 ## Trivia
 
--   Despite [Mr. Quarter's](Mr._Quarters,_Halfmaster.md) status, _halfmaster_ doesn't exist, instead he would realistically be the _quartermaster_, being responsible for steering and signals.
 -   You can drop barrels into the water.
 -   The Etrea versus Knives of Eylis event can spawn here, although it's likely unintentional.[\[1\]](#cite-note-1)
--   The ship bears a great resemblance to the [Beloved Zofia](Beloved_Zofia.md), found in the [Voidsea](Voidsea.md), where [The Dreadstar](The_Dreadstar.md) resides.
+-   The ship bears a great resemblance to the [Beloved Zofia](Beloved_Zofia.md), found in the [Voidsea](Voidsea.md), where [The Dreadstar](The_Dreadstar.md) resides. The resemblance is likely coincidental and they are simply a similar make of boat.
 
 ## References
 

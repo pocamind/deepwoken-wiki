@@ -1,6 +1,6 @@
 ---
 title: "Warden's Armor Piece"
-revid: 160645
+revid: 176919
 source: https://deepwoken.fandom.com/wiki/Warden's_Armor_Piece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 168096
+revid: 176867
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -36,7 +36,7 @@ Blindseer glyphs at Temple of the Forgotten Flame
 
 Once inside the temple, proceed through a passage on the left.
 
--   Inside that room, an engraved message can be found. Interact with this text while blind (either from the flaw or from a [blindfold](Blindfold.md))
+-   Inside the room, interact with the [Blindseer Glyph](<%253F%253F%253F_(Blindseer_Glyphs).md>) while blind (either from the flaw or from a [Blindfold](Blindfold.md))
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/F7yoFW0rlME)._
 

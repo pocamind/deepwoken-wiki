@@ -1,6 +1,6 @@
 ---
 title: Antiques Smuggler
-revid: 163499
+revid: 176899
 source: https://deepwoken.fandom.com/wiki/Antiques_Smuggler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant]

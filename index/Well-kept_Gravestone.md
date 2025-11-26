@@ -1,6 +1,6 @@
 ---
 title: "Well-kept Gravestone"
-revid: 166748
+revid: 176916
 source: https://deepwoken.fandom.com/wiki/Well-kept_Gravestone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]

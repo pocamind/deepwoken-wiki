@@ -1,6 +1,6 @@
 ---
 title: Auroran
-revid: 174561
+revid: 176906
 source: https://deepwoken.fandom.com/wiki/Auroran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Article stubs, Developer Spec]
@@ -10,7 +10,11 @@ notices:
 
 # Auroran
 
-Template:Races-Main
+| Auroran | |
+|---|---|
+| obtained_by | Unobtainable |
+| appearance | Eye Color #ffffff, Hair Color #ffffff, Skin Color #ffffff |
+| traits | Navae's Guidance |
 
 ## Description
 

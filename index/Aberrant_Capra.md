@@ -1,6 +1,6 @@
 ---
 title: Aberrant Capra
-revid: 174560
+revid: 176894
 source: https://deepwoken.fandom.com/wiki/Aberrant_Capra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
@@ -10,7 +10,11 @@ notices:
 
 # Aberrant Capra
 
-Template:Races-Main
+| Aberrant Capra | |
+|---|---|
+| obtained_by | Unobtainable |
+| appearance | Dark brown curved horns, Face spikes, Blue hair, Pale blue skin color, Sudo:, Eye Color #ffffff, Eye Color OLD #00e2db, Hair Color #323851, Sclera Color #454154, Skin Color #757476, Skull Color #3b3837 |
+| traits | Mark of Jurik, +2 Intelligence, +2 Willpower |
 
 "???"
 

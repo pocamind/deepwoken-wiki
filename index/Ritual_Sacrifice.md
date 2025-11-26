@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 176805
+revid: 176830
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, War Weapons, Weapons with Talents]
@@ -36,7 +36,7 @@ Variants: [Ritual Spear](Ritual_Spear.md)
 
 ## Description
 
-The **Ritual Sacrifice** is a Medium spear, and enhanced version of the [Ritual Spear](Ritual_Spear.md). This weapon bears a blue appearance with a light blue shimmer emanating from the spear's tip and a blue swing trail, distinguishing it from base Ritual Spar.
+The **Ritual Sacrifice** is a Medium Spear, an enhanced version of the [Ritual Spear](Ritual_Spear.md). This weapon bears a blue appearance with a light blue shimmer emanating from the spear's tip and a blue swing trail, distinguishing it from base Ritual Spear.
 
 Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Ritual Sacrifice, though its unique Talent is disabled there. Ritual Sacrifice **cannot** be enchanted.
 
@@ -44,7 +44,7 @@ Dying with this weapon equipped or in your inventory causes it to **deteriorate 
 
 Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sacrificial Boon** grants a random buff upon using the Talent tool at the cost of 5 Knowledge. This Talent has no cooldown.
+**Sacrificial Boon** grants a random buff upon using the Talent tool at the cost of 5. This Talent has no cooldown.
 
 ## Critical
 

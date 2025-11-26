@@ -1,9 +1,9 @@
 ---
 title: Ores
-revid: 175683
+revid: 176822
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Harvestables, Consumable with Termite]
+categories: [Items, Harvestables]
 ---
 
 # Ores

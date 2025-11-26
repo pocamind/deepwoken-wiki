@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 169216
+revid: 176896
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]

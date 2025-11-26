@@ -1,6 +1,6 @@
 ---
 title: Baragan
-revid: 175117
+revid: 176930
 source: https://deepwoken.fandom.com/wiki/Baragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]

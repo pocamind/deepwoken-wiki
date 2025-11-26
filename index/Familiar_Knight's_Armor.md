@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 175518
+revid: 176806
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -41,7 +41,7 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 This Outfit has 3500 durability and grants +30% Physical Armor, 40% Elemental Armor, and 10% Ether Regen. Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by ~30% while equipped.
 
-Using the [Hyperbody](Talents.md#hyperbody) Talent tool applies a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff it with. This has a 2 minute cooldown. The speed buff is considered a speed boost for Talent effects.
+Using the [Hyperbody](Talents.md#hyperbody) Talent tool applies a buff to yourself and nearby allies that increases movement speed, defense, and regeneration. This effect becomes weaker the more allies are affected. This has a 2 minute cooldown. The speed buff is considered a speed boost for Talent effects.
 
 ## Trivia/Notes
 

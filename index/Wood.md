@@ -1,6 +1,6 @@
 ---
 title: Wood
-revid: 167570
+revid: 176911
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]

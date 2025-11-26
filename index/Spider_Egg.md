@@ -1,9 +1,9 @@
 ---
 title: Spider Egg
-revid: 175685
+revid: 176821
 source: https://deepwoken.fandom.com/wiki/Spider_Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Alchemy, Consumable with Termite]
+categories: [Items, Alchemy]
 ---
 
 # Spider Egg

@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 176386
+revid: 176880
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses, The Divers]
@@ -13,7 +13,7 @@ categories: [Equipment, Face, Glasses, The Divers]
 | type | Face |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | Power 3 |
 | weight | 0.5 |
 | innate stats | +5 Health, -1 Posture, +1 Rare Pip |
 | innate talent | N/A |
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Glasses, The Divers]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Saramaed Hollow, Duke Ishamon Erisia, Primadon, Titan of the East, Interluminary Parasol, First Layer, Second Layer, Chime of Conflict, Lodestar, Heart of Enmity, Maestro Evengarde Rest, The Doom of Caeranthil, Dread Serpent, The Depth Fragment, Voidwalker Bounties, Chaser, Scholar of the Crimson Contract, Voidsea Events |
-| description | Designed for the scholars of the citadel, these frames are sought after and traded across all major luminant settlements, renowned for their simple yet striking style. They are not your prescription... |
+| description | Designed for the scholars of the Citadel, these frames are renowned for their simple yet striking style, and are traded and sought after across all Luminants. Unfortunately, they are not your prescription... |
 
 ## Description
 

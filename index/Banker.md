@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 167545
+revid: 176929
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -18,7 +18,7 @@ Bankers are NPCs that a player can utilize to store items across slots. You can 
 They can be found in:
 
 -   [Isle of Vigils](Isle_of_Vigils.md) (right next to the antiquarian)
--   [Etris](Etris.md) ( across from the lance quest)
+-   [Etris](Etris.md) (across from the lance quest)
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Summer Isle](Summer_Isle.md)
 -   [Miner's Landing](<Miner's_Landing.md>)
@@ -40,7 +40,7 @@ The following item types are sorted as follows:
 -   [Treasures](Treasures.md), [Relics](Relics.md)
 -   [Ingredients](Ingredients.md)
 -   [Mantra Modifiers](Mantra_Modifiers.md)
--   [Schematics](Outfits.md), [Enchant Stones](Enchant_Stone.md), [Enchant Greases](Enchant_Grease.md), [Food](Food.md)
+-   [Outfit Schematics](Outfits.md), [Enchant Stones](Enchant_Stone.md), [Enchant Greases](Enchant_Grease.md), [Food](Food.md)
 
 [Enchanted](Enchantments.md) items are prioritized first in their respective category.
 
@@ -70,17 +70,18 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 #### Unstorable Items:
 
--   [Kyrsan Medallions (Itemized)](Kyrsan_Medallions.md)
+-   Unique [Outfit Schematics](Outfits.md)
+-   [Kyrsan Medallions](Kyrsan_Medallions.md) (Itemized)
 -   [Ardour Manifestation](Ardour_Manifestation.md)
--   [Void Feather(s)](Dark_Feather.md) (Craft it into 3 [Dark Feathers](Dark_Feather.md) then bank it instead)
+-   [Void Feathers](Dark_Feather.md#void-feather) (Craft it into 3 [Dark Feathers](Dark_Feather.md) then bank it instead)
 -   [Deepshore Fossil](Deepshore_Fossil.md)
 -   Tools (Repair Hammer, Glider, Etc.)
 -   Campfires (Store wood instead)
 -   [Hallowtide Mask](Hallowtide_Mask.md)
--   [Attunement potions](Attunement_Potions.md) / [Lotuses](Ingredients.md)
+-   [Attunement Potions](Attunement_Potions.md) / [Lotuses](Primordial_Lotuses.md)
 -   [Poser's Ring](<Poser's_Ring.md>)
--   Manor Key
--   [Orlandeau's Pity Emerald](<Orlandeau's_Emerald.md>)
+-   [Manor Key](Manor_Key.md)
+-   [Orlandeau's Emerald](<Orlandeau's_Emerald.md>)
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)
 -   [Mantle of Enmity](Mantle_of_Enmity.md)
 

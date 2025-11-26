@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 172633
+revid: 176869
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]

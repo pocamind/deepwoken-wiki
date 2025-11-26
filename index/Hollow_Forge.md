@@ -1,6 +1,6 @@
 ---
 title: Hollow Forge
-revid: 174347
+revid: 176834
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -59,6 +59,31 @@ The Hollow Forge has the following recipes
 </tr>
 <tr>
   <td colspan="4">[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Not enough materials:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td>
+</tr>
+<tr>
+  <td colspan="2">[Forge] 3 Pluripotent Alloy → 1 Smith's Alloy</td>
+  <td colspan="2">[Forge] 9x Pluripotent Alloy → 1 Armorer's Needle</td>
+  <td colspan="2">[Forge] 3 Smith's Alloy → 1 Armorer's Needle</td>
+  <td colspan="2">[Forge] 1 Armorer's Needle → 3 Smith's Alloy</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*You don't seem to have enough of the required materials.*</i></td>
+</tr>
+<tr>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

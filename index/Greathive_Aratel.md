@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 165636
+revid: 176855
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -22,7 +22,7 @@ Life in all its variety hums around you. The immensity of what has been accompli
 
 Greathive Aratel is a city built in a giant tree on the sea. Inside this tree is a large settlement, the Greathive itself.
 
-To enter Greathive Aratel, you must have washed your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) (requires you to be at least power 10 to wash your face) on any character or slot, and have visited the eastern luminant at least once on your current character. Once you meet these requirements, you will be able to use the Greathive Fountains found in [The Lordsgrove](The_Lordsgrove.md), in [The Hidden Village](The_Hidden_Village.md), behind The King's Palace in [Etris](Etris.md), and behind a tree near [Spelltrainer Friid](Friid,_Master_of_Gale.md) at the [Isle of Vigils](Isle_of_Vigils.md).
+To enter Greathive Aratel, you must have washed your face at the [Lightkeeper Temple](Lightkeeper_Temple.md) (requires you to be at least power 10 to wash your face) on any character or slot, and have visited the eastern luminant at least once on your current character. Once you meet these requirements, you will be able to use the Greathive Fountains found in [The Lordsgrove](The_Lordsgrove.md), in [The Hidden Village](The_Hidden_Village.md), behind The King's Palace in [Etris](Etris.md), and behind a tree near [Friid](Friid,_Master_of_Gale.md) at the [Isle of Vigils](Isle_of_Vigils.md).
 
 Alternatively, you can [sail](Ships_&_Sailing.md) to Greathive Aratel, but actually getting to the top requires mobility mantras, clever usage of [gliders](Gliders.md), lots of parkour and jumping on the heads of players. If you washed your face at the Lightkeeper Temple and have already invoked the Greathive fountain found in The Lordsgrove, you can sail to the shipyard of the Greathive Aratel and use the fountain in there in order to get teleported up to the entrance floor of Greathive Aratel.
 
@@ -68,7 +68,7 @@ Fountain in the Hidden Village
 
 #### Library
 
--   Players can buy basic [Training Gears](Training_Gear.md)
+-   [Gear Cabinet](Training_Gear.md) to buy training equipment.
 -   There is a [Mantra Table](Mantra_Lectern.md) near the entrance.
 -   The [Mystic](Mystic.md) is here, going left past the training gears will take you there.
 
@@ -164,14 +164,6 @@ Players can crank the telescope clockwise or counterclockwise to position it to 
     -   A white flower, located near the [Blacksmith](Blacksmith.md), facing in front of it.
     -   A blue flower, hanging at the side of a tree root across the room from the Blacksmith.
 -   Completing this quest gives a handful of EXP and access to upgrade [Physical Mantras](Attunement-less.md).
-
-### Soul Flower Locations
-
-Hive Test Tube
-
-## Gallery
-
-Aratel Rising
 
 ## Trivia
 

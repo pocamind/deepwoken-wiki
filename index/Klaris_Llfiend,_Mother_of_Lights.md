@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 175890
+revid: 176824
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
@@ -98,15 +98,13 @@ Radiant Teachings
   <td colspan="2">Light Hook? What's that?</td>
   <td>So, why send me down?</td>
   <td colspan="3">So where does that leave me?</td>
-  <td colspan="3">You talk about the Depths like it's a living creature.</td>
-  <td colspan="3">You wouldn't happen to know a Lightkeeper from the Etrean Luminant, would you?</td>
+  <td colspan="6">You talk about the Depths like it's a living creature.</td>
 </tr>
 <tr>
   <td colspan="2">The <a href="Glossary.md#light-hook">Light Hook</a> is a special technique of the <a href="Glossary.md#radiant-tones">Radiant Tones</a>. It will allow me to pull you back up from below should you suffer fatal injuries while it's active. Beware, as it will only last a maximum of 20 minutes once you enter the Layer. Less if you've used it recently. If you suffer fatal wounds after that time runs out... I'm afraid you'll have to take fate into your own hands, as no <a href="Glossary.md#light-hook">Light Hook</a> will save you then.</td>
   <td>By the looks of it, you're the best bet around here for someone who might actually live to tell the tale, and explain what happened down there. The Apprentices on the <a href="Glossary.md#scyphozia-the-first-layer">First Layer</a> are simply not experienced enough, as made evident by our recent losses... I have hope for you. If you're willing, the '<a href="Glossary.md#light-hook">Light Hook</a>' is ready.</td>
   <td colspan="3">[See first instance]</td>
-  <td colspan="3">The landscape here... It <i>reacts</i>. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us, as if we were fuel. Or worse, a waste product.</td>
-  <td colspan="3">[See Unlockable Dialogues --&gt; Others]</td>
+  <td colspan="6">The landscape here... It <i>reacts</i>. Evidently not through some specific will or agenda, but as if we were interacting on a microscopic level with the processes of some slumbering creature. Just as we take tiny particles of air into our own lungs, this thing seems to be processing us, as if we were fuel. Or worse, a waste product.</td>
 </tr>
 <tr>
   <td colspan="2">I'm ready.</td>

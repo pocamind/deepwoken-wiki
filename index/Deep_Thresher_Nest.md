@@ -1,9 +1,9 @@
 ---
 title: Deep Thresher Nest
-revid: 174869
+revid: 176835
 source: https://deepwoken.fandom.com/wiki/Deep_Thresher_Nest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Locations, Voidzones]
 ---
 
 # Deep Thresher Nest

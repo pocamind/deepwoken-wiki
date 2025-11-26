@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 176696
+revid: 176831
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -68,6 +68,31 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
  | User grabs their target before spinning them in 360 degrees and then tossing them.
 
  |
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td colspan="2">Ah hello! Welcome to the Golden Rat! You can head in whenever, just make sure you're looking for a brawl haha!</td>
+</tr>
+<tr>
+  <td>Player has a <a href="Gold_Plate.md">Gold Plate</a></td>
+</tr>
+<tr>
+  <td>What do I do with all these gold plates?</td>
+</tr>
+<tr>
+  <td>Oh I'll take them! Gotta make something useful out of the losers downstairs. I'll pay you once you can get at least 5 for me.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
 
 ## Trivia
 
