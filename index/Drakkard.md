@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 177005
+revid: 177124
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Exclusive Aspects, Aspects, Developer Spec]

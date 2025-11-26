@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 177050
+revid: 177109
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -105,6 +105,8 @@ The deer folk of the land are among the few that still consider themselves free 
 -   When wearing a helmet/hat, it won't hide the horns.
 -   One of the only obtainable 2 aspects in the game that have the Fortitude Stat Bonus, with the other being [Vesperian](Vesperian.md).
 -   Combining the Reduced Hunger loss with Carnivore, you almost will never be below Half Hunger. (Unless you are trying to)
--   [Gran Sudaruska](Gran_Sudaruska.md) could potentially be a Gremor
-    
-    nuttoons's comment on sudaruska's race
+-   [Gran Sudaruska](Gran_Sudaruska.md) could potentially be a Gremor.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

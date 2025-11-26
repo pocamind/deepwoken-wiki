@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 174888
+revid: 177070
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -227,7 +227,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Opponents are pulled towards you on hit.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Elastic can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Gluttony enchanted weapon from a chest.</p>Elastic <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
+  <p>Elastic can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Elastic enchanted weapon from a chest.</p>Elastic <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
   <ul>
     <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
     <li><a href="War_Mode.md">War Mode</a></li>

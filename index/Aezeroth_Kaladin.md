@@ -1,6 +1,6 @@
 ---
 title: Aezeroth Kaladin
-revid: 171636
+revid: 177163
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Floor of the Second Layer]

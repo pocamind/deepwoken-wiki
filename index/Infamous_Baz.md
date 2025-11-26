@@ -1,6 +1,6 @@
 ---
 title: Infamous Baz
-revid: 176853
+revid: 177097
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Cut Content, NPCs, NPCs located in the Etrean Luminant]

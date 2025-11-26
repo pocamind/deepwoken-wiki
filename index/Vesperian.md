@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 163365
+revid: 177166
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Vesperian
 
-Template:Races-Main
+| Vesperian | |
+|---|---|
+| obtained_by | 6% Roll Chance |
+| appearance | Brown, Green or Murky Green Skin, White mask with different colored markings, Skin colored hair, Monster:, Design Color #7f0000, Eye Color #820000, Hair Color #191919, Mask Color #1e1919, Sclera Color #1d1503, Skin Color #191919 |
+| traits | Chitin, +3 Fortitude, +2 Willpower |
 
 _Never seen without their mask.  
 Poorly understood, but begrudgingly appreciated due to their natural Talents._

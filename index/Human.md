@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 151173
+revid: 177087
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects]
@@ -8,9 +8,12 @@ categories: [Aspects]
 
 # Human
 
-> _Mysterious figures who suddenly appeared back into the world of Deepwoken._
+| Pure Human | |
+|---|---|
+| appearance | Varying Hair Color, Eye color, and Skin tone. |
+| traits | I'm only human after all (None) |
 
-Template:Races-Main
+> _Mysterious figures who suddenly appeared back into the world of Deepwoken._
 
 ## Description
 

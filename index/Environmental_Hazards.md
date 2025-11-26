@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 163443
+revid: 177118
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,11 +40,6 @@ categories: [Mechanics]
   <td>Sandstorm</td>
   <td><a href="The_Starswept_Valley.md">Starswept Valley</a></td>
   <td>Obstructs vision. All uncovered lit campfires will be snuffed out after a slight while.</td>
-</tr>
-<tr>
-  <td>Thunder Storm</td>
-  <td>The Aratel &amp; Etrean Sea (Only while on a boat during a Rainstorm)</td>
-  <td>Heavy rain along with frequent thunderstrikes falling from the sky. These can damage and fling players, likely to knock you off your boat.</td>
 </tr>
 <tr>
   <td>Day and Night Cycle</td>

@@ -1,6 +1,6 @@
 ---
 title: Crawling Necktie
-revid: 176974
+revid: 177111
 source: https://deepwoken.fandom.com/wiki/Crawling_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Ties, Hallowtide, Event Item]
@@ -23,7 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Hallowtide, Goodie Bag |
+| obtainment | Goodie Bag |
 | description | "It's showtime!" |
 
 ## Description

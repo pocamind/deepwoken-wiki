@@ -1,9 +1,9 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 176959
+revid: 177161
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Weapons, Developer Spec]
+categories: [Exclusive, Weapons]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -32,11 +32,11 @@ notices:
 | obtainment | Exclusive Weapons |
 | description | A modification upon Gunsmith Rosen's designs produced by Gunsmith Hierka, the former protégé of Rosen. It's said that Hierka hid his orgins as a member of the Authority's Bureau of Research in order to steal the Summer Company's secrets. |
 
-_This page is for the Developer Spec version of the Moonseye Scalpel. For the publicly released (and later cut) version, see [Moonseye Scalpel](Moonseye_Scalpel.md)._
+_This page is for the Exclusive version of the Moonseye Scalpel. For the publicly released (and later cut) version, see [Moonseye Scalpel](Moonseye_Scalpel.md)._
 
 ## Description
 
-A stat changed [Rifle Spear](Rifle_Spear.md) made specifically and only for [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md).
+A stat changed [Rifle Spear](Rifle_Spear.md) made specifically and only for Doctor Carrion, the person [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) is based off of.
 
 ## Critical
 

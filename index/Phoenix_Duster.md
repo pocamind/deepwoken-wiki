@@ -1,6 +1,6 @@
 ---
 title: Phoenix Duster
-revid: 176526
+revid: 177139
 source: https://deepwoken.fandom.com/wiki/Phoenix_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Arms, Dusters, Developer Spec]

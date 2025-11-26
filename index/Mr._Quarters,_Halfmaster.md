@@ -1,6 +1,6 @@
 ---
 title: "Mr. Quarters, Halfmaster"
-revid: 176862
+revid: 177105
 source: https://deepwoken.fandom.com/wiki/Mr._Quarters%2C_Halfmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
@@ -14,6 +14,10 @@ categories: [Adret NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
 | aspect | Adret |
 | location | The Scoundrel's Bounty |
 | affiliation | Orlandeau's Crew |
+
+“ But ole me? First Halfmaster of the Quarters family. A pioneer, says I! ”
+
+― Mr. Quarters, Halfmaster
 
 ## Description
 

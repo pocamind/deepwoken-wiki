@@ -1,6 +1,6 @@
 ---
 title: Soulshot
-revid: 168408
+revid: 177141
 source: https://deepwoken.fandom.com/wiki/Soulshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Pistols, Weapons with Unique Criticals, Developer Spec]

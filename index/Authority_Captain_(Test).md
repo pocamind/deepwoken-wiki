@@ -1,6 +1,6 @@
 ---
 title: Authority Captain (Test)
-revid: 174977
+revid: 177155
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, The Central Authority, Central Authority Enemies, Enemies]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Authority Captains** were present on [Isle of the Crows](Isle_of_the_Crows.md) after killing all the [Authority Enemies](<Authority_Enemy_(Test).md>). They utilised the [Thundercall](Thundercall.md) [Attunement](Attunements.md) and an [Officer Saber](Officer_Saber.md). Authority Captains spawned in with their [aspect](Aspects.md) and hair random.[\[1\]](#cite-note-direct-1)
+**Authority Captains** were present on [Isle of the Crows](Isle_of_the_Crows.md) after killing all the [Authority Enemies](<Authority_Enemy_(Test).md>). They utilised the [Thundercall](Thundercall.md) [Attunement](Attunements.md) and an [Officer Saber](Officer_Saber.md). Authority Captains spawned in as [Adret](Adret.md) with their hair random.[\[1\]](#cite-note-direct-1)
 
 ## Moveset
 
@@ -42,7 +42,7 @@ Assault
 **Jolt Grab**  
 (★☆☆)
 
- | The Authority Captain dashes forwards with the his left hand charged with lightning; if a target is hit, he slams them into the ground before sending out a small AoE around the himself.
+ | The Authority Captain dashes forwards with their left hand charged with lightning; if a target is hit, they slam the target into the ground before sending out a small AoE around the himself.
 
  |  |
 | 
@@ -50,7 +50,7 @@ Assault
 **Emotion Wave**  
 (★★★)
 
- | The Authority Captain conjures a bolt of lightning into the ground from the his right hand, causing volleys of lightning strikes to spread out.
+ | The Authority Captain conjures a bolt of lightning into the ground from their right hand, causing volleys of lightning strikes to spread out.
 
  |  |
 | 

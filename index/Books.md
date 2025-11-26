@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 174289
+revid: 177063
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -22,8 +22,8 @@ Some books are obtained in specific areas only, and cannot be found outside of i
 -   Operation 'Puppet Master' Report: [Fort Merit](Fort_Merit.md).
 -   Ossuary Maintenance: [Greathive Aratel](Greathive_Aratel.md).
 -   Our Fortress (Of Smoke And Steel): [Summer Isle](Summer_Isle.md).
--   The Song of Fathoms / Oscillation: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md).
--   Strange Missives: [Greathive Aratel](Greathive_Aratel.md).
+-   The Song of Fathoms / Oscillation: [Castle Light](Castle_Light.md), [Fort Merit](Fort_Merit.md), [Lightkeeper Temple](Lightkeeper_Temple.md).
+-   Strange Missives: [Greathive Aratel](Greathive_Aratel.md), [Lightkeeper Temple](Lightkeeper_Temple.md).
 
 Some books are part of specific quests or are physically in the world, and thus cannot be obtained multiple times on a character. Such books include:
 

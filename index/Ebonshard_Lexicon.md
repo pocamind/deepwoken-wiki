@@ -1,6 +1,6 @@
 ---
 title: Ebonshard Lexicon
-revid: 177010
+revid: 177125
 source: https://deepwoken.fandom.com/wiki/Ebonshard_Lexicon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greathammers, Weapons with Unique Criticals, Developer Spec]

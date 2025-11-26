@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 174988
+revid: 177082
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]

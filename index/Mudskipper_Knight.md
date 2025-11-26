@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 171240
+revid: 177117
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,7 +12,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 “ No dreams when we're already dead, friend... ”
 
-― "???"
+― ??? (Coral Clump)
 
 Template:Creature Infobox V3
 

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 175750
+revid: 177099
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -351,7 +351,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Old Stranger](Old_Stranger
 -   An extension of the Song brought about by swearing a Vow to oneself.
 -   By expanding upon the Song and incorporating a self-sworn Vow in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [Barber](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Samael](Samael.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vow](#vows)
+Dialogue: [??? (Blindseer Glyphs)](<%253F%253F%253F_(Blindseer_Glyphs).md>), [Barber](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Samael](Samael.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vow](#vows)
 
 ### Radiant Tones
 

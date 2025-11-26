@@ -1,6 +1,6 @@
 ---
 title: MICROWAVETM
-revid: 176492
+revid: 177133
 source: https://deepwoken.fandom.com/wiki/MICROWAVETM
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Equipment, Head, Helmets, Developer Spec]

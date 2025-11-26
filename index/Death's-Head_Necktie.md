@@ -1,6 +1,6 @@
 ---
 title: "Death's-Head Necktie"
-revid: 176982
+revid: 177110
 source: https://deepwoken.fandom.com/wiki/Death's-Head_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Ties, Hallowtide, Event Item]
@@ -23,7 +23,7 @@ notices:
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Hallowtide, Goodie Bag |
+| obtainment | Goodie Bag |
 | description | "You may think this world is a dream come true... but you're wrong." |
 
 ## Description

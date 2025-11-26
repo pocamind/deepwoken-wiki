@@ -1,6 +1,6 @@
 ---
 title: Worldpainter Brush
-revid: 167949
+revid: 177149
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]

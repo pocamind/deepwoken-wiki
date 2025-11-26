@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 176688
+revid: 177095
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -10,14 +10,7 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 | Immortal Guardian | |
 |---|---|
-| health | 1200 |
-| drops | Immortal Helm, Mantra Modifiers, Umbral Obsidian, Umbrite |
-| weapon | Soulwrought Axe, Soulwrought Greatsword |
-| moves | Assault, Critical |
-
-| Immortal Guardian | |
-|---|---|
-| health | 2000 |
+| health | 12002000 (Nightmare) |
 | drops | Immortal Helm, Mantra Modifiers, Umbral Obsidian, Umbrite |
 | weapon | Soulwrought Axe, Soulwrought Greatsword |
 | moves | Assault, Critical |
@@ -25,8 +18,6 @@ categories: [Enemies, Enemies that can wield Enchantments]
 “ INFERIOR. ”
 
 ― Immortal Guardian
-
-**Normal:**
 
 ## Description
 
@@ -36,15 +27,9 @@ They are people enhanced through experiments by [The Ministry](The_Ministry.md),
 
 Immortal Guardians seem to wear what resembles some sort of futuristic armor, similar to the original [Arcwarder Armor](Oath%253A_Arcwarder.md), with a unique symbol located in their chest, concealing their [aspect](Aspects.md) and gender. Under unknown conditions, the glowing white parts on their armor will glow red instead, turning them into the more powerful Nightmare variant.
 
-**Nightmare:**
+### Nightmare
 
-## Description
-
-Nightmare Immortal Guardians can be found in [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). They spawn in groups in the upper floor's halls or sometimes in the lower floors, replacing the normal Immortal Guardians.
-
-They are people enhanced through experiments by [The Ministry](The_Ministry.md), their helmets binding to their mind and controlling them.
-
-Immortal Guardians seem to wear what resembles [Arcwarder](Oath%253A_Arcwarder.md) armor, with a unique symbol located in their chest. Unlike the normal variant, the symbol and every glowing part turns red, raising their healthpool considerably while also seemingly increasing their tendency to parry attacks and wield [Enchanted](Enchantments.md) weapons.
+Nightmare Immortal Guardians spawn in groups in the upper floor's halls or sometimes in the lower floors, replacing the normal Immortal Guardians. Compared to the normal variant, their healthpool is raised considerably, and they have an increased tendency to parry attacks and wield [Enchanted](Enchantments.md) weapons.
 
 ## Moves
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 175495
+revid: 177108
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Pages that use a deprecated format of the math tags]
@@ -15,22 +15,30 @@ _Need help editing? Go to [this page](Weapons/Editing.md)._
 _Tools constructed with the intent to harm others, polished to be efficient killing devices._
 
   
-  
-Weapons can be bought from shops or obtained from [chests](Chests_&_Sacks.md). Training your Weapon stat requires you to hit/parry with your weapon.
+Weapons are the main tools used for attacking enemies in _Deepwoken_. They can be bought from shops or obtained from [chests](Chests_&_Sacks.md). There are 3 main categories of weapons: **Light, Medium, and Heavy Weapons**. Each of these types correspond to an [Attribute](Attributes.md#weapon-attributes) that can be [trained](Training_Gear.md) while you have a weapon of that type equipped. Training your Weapon stat requires you to land a hit or parry with your weapon.
 
-When obtaining a weapon, it comes up to 3 stars on it, which adds either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star. It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be. Weapons can also come with an enchant or a curse. Certain weapons can also scale off of a player's Attunement (Hero Blades, for example), or just another attribute altogether (Light's Final Toll scaling off of Willpower, for example).
+A weapon's damage will scale based on your investment of certain [Attributes](Attributes.md). Weapons often scale off of the same attributes required to wield them, mainly being the 3 weapon attributes, but may scale off of any attribute, such as the [Light's Final Toll](<Light's_Final_Toll.md>) scaling with Willpower, or even [Attunement](Attunements.md) attributes, such as the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>) scaling with solely Galebreathe. Weapons may scale off of multiple attributes at once, as is the case with the [Gran Sudaruska](Gran_Sudaruska.md) scaling off of both Frostdraw and Heavy Weapon.
 
-All weapons within the game have chances of being found with or without different enchantments or qualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
+When obtaining a weapon, it can come with up to 3 stars on it, which add either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star.
+
+| Type | ★ | ★★ | ★★★ |
+| --- | --- | --- | --- |
+| Damage | +2% | +4% | +6% |
+| Weight (Posture damage) | +4% | +8% | +12% |
+| Penetration | +5% | +10% | +14% |
+
+It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be.
+
+Weapons can be [Enchanted](Enchantments.md), granting a special effect that increases its effectiveness. Enchanted weapons can be found from chests, or an enchant can be applied to a weapon by using an [Enchant Stone](Enchant_Stone.md). Enchanted weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
+
+All weapons within the game have the chance of being found with or without different Enchantments or qualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
 
 -   [Smith's Alloy](<Smith's_Alloy.md>), a relic that adds a star to your currently equipped weapon or extracts a motif. If you already have max stars (3), the bonus will be rerolled (Ex: 3 Star PEN - > 3 Star Weight).
 -   [Laplace](Laplace.md), who will enchant your current weapon (whether it already has an enchantment or not) in exchange for 3 random enchantments (Works with both weapons and equipment even if they are soul bounded).
 -   [Enchant Stones](Enchant_Stone.md), items that can be found in Layer 2, Maestro, Heart of Enmity, and Astral Knights guaranteeing a specific enchant.
 -   [Deepshore Fossil](Deepshore_Fossil.md), an item enchanting your current weapon with any enchant of your choice aside from the Astral and Curse of Ysley's Ember enchants.
 
-[Enchanted](Enchantments.md) weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
-
-Total Amount of Weapons Available in the Game  
-All Weapons
+**All Weapons**  
 
 <table><caption><div>Weapons</div></caption>
 <tbody>
@@ -4325,7 +4333,7 @@ All Weapons
 </tbody>
 </table>
 
-Light Weapons
+**Light Weapons**
 
 <table><caption>Light Weapons</caption>
 <tbody>
@@ -6245,7 +6253,7 @@ Pistols
 
 Template:AllFlintlockWeapons
 
-Medium Weapons
+**Medium Weapons**
 
 <table><caption>Medium Weapons</caption>
 <tbody>
@@ -9255,7 +9263,7 @@ Bows
 </tbody>
 </table>
 
-Heavy Weapons
+**Heavy Weapons**
 
 <table><caption>Heavy Weapons</caption>
 <tbody>
@@ -11517,7 +11525,7 @@ Greatcannons
 </tbody>
 </table>
 
-Others
+**Others**
 
 Hybrid
 
@@ -12396,7 +12404,7 @@ Soulwrought [Crazy Slots](Crazy_Slots.md)
 </tbody>
 </table>
 
-Offhand
+**Offhand**
 
 <table><caption><a href="Shields.md"><div>Shields</div></a></caption>
 <tbody>
@@ -12689,7 +12697,7 @@ Offhand Pistols
 
 Template:AllFlintlockWeapons
 
-Exclusive
+**Exclusive**
 
 | Name | Requirements | Base Damage | Scaling | Armor Penetration | Chip Damage | Posture Damage | Range | Swing Speed | Endlag | Scaled Damage |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

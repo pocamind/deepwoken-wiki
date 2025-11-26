@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 157688
+revid: 177140
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
@@ -10,7 +10,11 @@ notices:
 
 # Primal Vesperian
 
-Template:Races-Main
+| Primal Vesperian | |
+|---|---|
+| obtained_by | Unobtainble |
+| appearance | Dark mask with white markings and with horns, White and dark hairs, Dark skin color, Nutt:, Design Color #3b1111, Eye Color #ffffff, Hair Color #f3f3fa, Mask Color #ebe3db, Sclera Color #1d1503, Skin Color #26292b, Haske:, Design Color #3b1111, Eye Color #ffffff, Hair Color #706460, Mask Color #ebe3db, Sclera Color #1d1503, Skin Color #4d3e3e |
+| traits | Chitin (Natural Armor), +2 Fortitude, +2 Willpower |
 
 "Ancient Vesperians lost to time."
 
