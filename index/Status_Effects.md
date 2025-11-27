@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 177248
+revid: 177300
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -442,9 +442,9 @@ Upon being hit by the critical of the [Bloodbane](Bloodbane.md), gain a damage o
 
 Gain a random Blessing upon using the [Ritual Sacrifice](Ritual_Sacrifice.md)'s Talent tool. This Talent costs 5 Knowledge to activate and has a 0.5 second cooldown. The list of blessings are as follows:
 
--   20% damage buff
--   Hyperarmor
--   Instantly heal 30 health
+-   20% damage buff. This is also applied to Mantras
+-   [Hyperarmor](#hyperarmor) for 10 seconds. Casting any Mantra will remove this hyperarmor
+-   Instantly heal 50 health
 -   Thirst restoration
 -   Stomach restoration
 -   [Speed boost](#speed-boost) for 10 seconds

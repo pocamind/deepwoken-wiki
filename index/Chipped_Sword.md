@@ -1,6 +1,6 @@
 ---
 title: Chipped Sword
-revid: 172826
+revid: 177289
 source: https://deepwoken.fandom.com/wiki/Chipped_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests, NPCs, NPCs located in the Etrean Luminant]
@@ -27,10 +27,10 @@ The Chipped Sword is a [Quest](Quests.md) item(NPC) found at the [Isle of Vigils
   <td><i>*A chipped sword. There seems to be some blood on it.*</i></td>
 </tr>
 <tr>
-  <td>Inspect</td>
+  <td>[Inspect]</td>
 </tr>
 <tr>
-  <td><i>*Engraved in the base of the sword's blade is the name 'ILJI'.*</i></td>
+  <td><i>*Engraved in the base of the sword's blade is the name 'ILJI'. Maybe its owner is looking for it?*</i></td>
 </tr>
 <tr>
   <td>End</td>

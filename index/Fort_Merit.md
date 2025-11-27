@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 177282
+revid: 177301
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -68,8 +68,6 @@ A small prison containing enemies of the Authority.
 -   [Brutus](Brutus.md), a soldier from [The Hundred Legions](The_Hundred_Legions.md) that can unbound [Fortitude](Attributes.md#ftd) and unlock [Oath: Blightsurger](Oath%253A_Blightsurger.md).
 -   [Vice Warden Morredh](Vice_Warden_Morredh.md) and [Authority Commanders](<Authority_Commander_(Enemy).md>) can be found in the office.
 -   [Private Kernel](Private_Kernel.md), son of [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) who briefs the Merit Detainment Core.
--   Potential to find [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) and [Navaen Nomad](Navaen_Hostage.md) hostages. (May be bugged currently.)
-    -   The [Etrean Guardmaster](Etrean_Guardmaster.md) can be found off the shores on a Dinghy.
 
 ### Prison (Large)
 

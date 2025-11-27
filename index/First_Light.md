@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 177030
+revid: 177305
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -36,9 +36,9 @@ The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare direct drop f
 
 ## Critical
 
-The user plunges the greatsword into the ground, similar to Flame Eruption, causing everyone near the user to be burned briefly. This is followed up with flaming swords raining from the sky, similar to the Crimson Megalodaunt's Bombastic Roar. **Both** parts of this critical scale solely on your **Flamecharm investment**.
+The user plunges the greatsword into the ground, similar to Flame Eruption, causing everyone near the user to be burned briefly. This is followed up with flaming swords raining from the sky, similar to the [Crimson Megalodaunt](Crimson_Megalodaunt.md)'s Pyroclastic Roar. **Both** parts of this critical scale solely on your **[Flamecharm](Flamecharm.md) investment**.
 
-The plunge deals 25 Flamecharm damage with 5 Flamecharm scaling (gains 0.125 damage per point in Flamecharm), 5 posture damage, and **applies burn**. The critical will end early if this attack is parried.  
+The plunge deals 25 [Flamecharm](Flamecharm.md) damage with 5 Flamecharm scaling (gains 0.125 damage per point in Flamecharm), 5 posture damage, and **applies burn**. The critical will end early if this attack is parried.  
 The swords from the sword rain deal 14 Flamecharm damage with 5 Flamecharm scaling (gains 0.07 damage per point in Flamecharm) and 3.5 posture damage. The swords **do not apply burn** and **cannot proc any enchant or "on critical" Talent effect** (like [Manipulator](Talents.md#toxic-personality)). The swords are also 360 blockable.
 
 This critical is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers. The critical has a cooldown of **25 seconds**.
@@ -47,7 +47,7 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
 
 -   Similarly to The Crimson Megalodaunt, the First Light's critical attack is a reference to Gilgamesh's Gates of Babylon from the Fate series.
 -   Deals 37 M1 damage at 75 HVY, and 40.8 M1 damage at 100 HVY.
--   The critical First Light uses was previously a flame mantra referred to as "The Potato" in Deepwoken Direct.
+-   The critical First Light uses was previously a flame mantra, called "Potato". It was shown in the Deepwoken Direct.[\[1\]](#cite-note-potat-1)
 -   Compared to other greatswords, this one looks more modern as the design resembles a more modern-designed blade and handle with designs and patterns of edges and gold crafted into it, rather than a basic flat blade with some carvings scratched into it, like the [Darksteel Greatsword](Darksteel_Greatsword.md).
     -   The hilt and blade resemble the Medieval European sword design, meant to resemble a crucifix. This suggest a more modern but also Western origin.
 -   One of the few greatswords that have no endlag on M1s (some others being the [Kyrsieger](Kyrsieger.md), [Enforcer's Blade](<Enforcer's_Blade.md>), and [Railblade](Railblade.md) just to name a few).
@@ -65,3 +65,7 @@ This critical is mostly used as a distraction or pressure as opposed to dealing 
 -   With [Warmaster's Medallion](<Warmaster's_Medallion.md>)'s Talent, _Actions Speak Louder_, the critical cooldown is reduced to 20 seconds.
     -   If you add the [Critical Engine](Talents.md#critical-engine) Talent with [Blessed Gem](Blessed_Gem.md) to your [Warmaster's Medallion](<Warmaster's_Medallion.md>), you can bring the First Light critical down to 10 seconds, as the Blessed Gem effect that halves your cooldown is applied **after** Warmaster's Medallion.
 -   The model of the flaming swords are identical to the one of the [Worshipper Longsword](Worshipper_Longsword.md).
+
+## References
+
+1.  [↑](#cite-ref-potat-1-0) [Deepwoken Direct](https://www.youtube.com/watch?v=EEaEzDO04aU&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=7)

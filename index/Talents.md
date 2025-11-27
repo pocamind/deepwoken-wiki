@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 177273
+revid: 177299
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4133,11 +4133,11 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Sacrificial Boon: [Ritual Sacrifice](Ritual_Sacrifice.md) - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae.
     -   Grants a Talent tool that consumes 5 on use to grant the user a random buff within a set pool.
-    -   This Talent has a mere 0.5s cooldown, allowing you to overlap the buffs.
+    -   This Talent has a 0.5 second cooldown, and you can overlap the buffs.
     -   The potential buffs are:
-        -   20% damage buff
-        -   Hyperarmor
-        -   Instantly heal 30 health
+        -   20% damage buff. This is also applied to Mantras
+        -   Hyperarmor for 10 seconds
+        -   Instantly heal 50 health
         -   Thirst restoration
         -   Stomach restoration
         -   Speed boost for 10 seconds

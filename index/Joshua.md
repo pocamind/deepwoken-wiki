@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 171878
+revid: 177290
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -36,7 +36,7 @@ Joshua is an NPC that provides a small amount of XP when spoken to. He is locate
   <td>Good day to you, [Age]. Was there something you needed?</td>
 </tr>
 <tr>
-  <td>What do you think of The Authority?</td>
+  <td>What do you think of the Authority?</td>
 </tr>
 <tr>
   <td>The <a href="Glossary.md#the-central-authority">Authority</a>? Hmm. I'm not too politically minded myself, but the people here certainly don't take kindly to them. If you ask me, they should keep to themselves and leave us be. I don't see what all the fuss is about.</td>
@@ -82,7 +82,10 @@ Joshua is an NPC that provides a small amount of XP when spoken to. He is locate
   <td>Karliah seems a lot happier lately, thanks to you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>What do you think of the Authority?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>

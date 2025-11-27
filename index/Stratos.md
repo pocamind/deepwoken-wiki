@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 175125
+revid: 177291
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -52,7 +52,7 @@ Food Delivery quest
   <td colspan="6">Ah, thank you, here is something for your troubles.</td>
 </tr>
 <tr>
-  <td colspan="6">End (Given 25 Notes)</td>
+  <td colspan="6">End, player gains 25 and Etrea Reputation</td>
 </tr>
 </tbody>
 </table>

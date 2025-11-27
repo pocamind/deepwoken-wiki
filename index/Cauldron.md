@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 173975
+revid: 177297
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -10,7 +10,7 @@ categories: [Utilities]
 
 | Cauldron | |
 |---|---|
-| usage | Used to create potions. |
+| usage | Used to brew potions. |
 
 “ The art of potion crafting itself takes patience, hehe. ”
 

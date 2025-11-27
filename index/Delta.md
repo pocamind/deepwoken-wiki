@@ -1,6 +1,6 @@
 ---
 title: Delta
-revid: 173954
+revid: 177288
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
@@ -53,13 +53,13 @@ You are required to speak with him to obtain and progress the [Arcwarder](Oath%2
   <td colspan="6">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Hm? Sorry traveller, you aren't quite who I am looking for. I'll be...</td>
+  <td colspan="6">Hm? Sorry traveller, you aren't quite who I am looking for. I'll be on watch here for a while though, so if something goes wrong, let me know.</td>
 </tr>
 <tr>
   <td colspan="6">Alpha sent me.</td>
 </tr>
 <tr>
-  <td colspan="6">Alpha? Odd... It's not often he sends an outsider to me. In that case... I believe <i>this</i> is what he wanted...</td>
+  <td colspan="6">Alpha? Odd... It's not often he sends an outsider to me. In that case... I believe <i>this</i> is what he wanted you to have - our Union's treasured Arc Suit. It'll surely assist you while delving through this place. But.. hm. Let me check something.</td>
 </tr>
 <tr>
   <td colspan="6">Alright.</td>
@@ -70,7 +70,7 @@ You are required to speak with him to obtain and progress the [Arcwarder](Oath%2
 </tr>
 <tr>
   <td colspan="3">Look at that! Seems like it fits you just fine. Why not go put it to practice? Hm... Although, it doesn't seem quite <i>attuned</i> to you yet. Nothing you can't figure out, I'm sure.</td>
-  <td colspan="3">Hm. Sorry pal, even with Alpha's advocacy it doesn't seem like I can do much for you. You already got some sort of Vow, or somethin' like that. He doesn't tell me much.</td>
+  <td colspan="3">Hm. Sorry pal, even with Alpha's advocacy it doesn't seem like I can do much for you. You already got some sort of <a href="Glossary.md#vows">Vow</a>, or somethin' like that. He doesn't tell me much.</td>
 </tr>
 <tr>
   <td colspan="3">End, player obtains <a href="Oath%253A_Arcwarder.md">Arcwarder</a></td>

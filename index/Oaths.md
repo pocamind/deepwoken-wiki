@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 177283
+revid: 177303
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -128,6 +128,11 @@ _WEP = Any weapon stat (HVY, MED, LHT)_
 
 (50 CHA)
 
+### Upcoming Oaths
+
+-   Warmaster
+-   Chef
+
 ## Oath Skipping
 
 If you've progressed a certain Oath once before to max, you are able to skip the progression next time you obtain said Oath, this feature applies across slots. Simply talk to the relevant NPC of the Oath (for Blindseer and Linkstrider, the wall glyphs and linkstrider machine respectively), and use 10 Knowledge, instantly granting you all abilities of the Oath. Note: that you still need to get the requirements of the Oath you wish to skip. If you are a Chainwarden, Bladeharper, Blightsurger, or Soulbreaker, you cannot skip the Oath progression with knowledge yet (will be added in the future).
@@ -213,10 +218,10 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 
 ## Warmaster
 
--   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, as said by Ragoozer.
--   One notorious user of this Oath is Warden Jericho (Also confirmed by Ragoozer), as seen in his journal and by the dialogue of the [Windrunner](Windrunner.md).
--   Similar to Blindseer being the counter-Oath to Visionshaper, there is a high chance of this Oath having the same relationship the Contractor Oath due to the fact that the Windrunner explains that the two Oaths are inherently against each other, and in the [Journal of Jericho](Tomb_of_the_Nameless_Warrior.md) explaining that the Warden is trying to stop the Contractors, being Zi'eer (Lord regent) and his puppets (Contractor Players).
--   It is known that the source of power of the Oath is something called "The Circle of Honor", it is not known if its related to the Authority or not, but they are confirmed to be the source and creators of the Warmaster Oath.
+-   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, as stated by Ragoozer.
+-   One notorious user of this Oath is [Warden Jericho](Warden_Jericho.md). This was confirmed by Ragoozer, but can additionally be seen ingame in the [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), the dialogue of the [Windrunner](Windrunner.md), and the, very likely, Oath-given cosmetic Jericho has on his head that shares an appearance with the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
+-   Similar to Blindseer being the counter-Oath to Visionshaper, there is a high chance of this Oath having the same relationship the Contractor Oath due to the fact that the Windrunner explains that the two Oaths are inherently against each other. And in the [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), it is explained that the Warden is trying to stop the Contractors, being [Zi'eer](The_Lord_Regent.md) (Lord Regent) and his puppets (Contractor players).
+-   The source of power of the Oath is something called "The Circle of Honor", it is not known if its related to the Central Authority or not, but they are confirmed to be the source and creators of the Warmaster Oath.
     
 
 **Time Magic:**

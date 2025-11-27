@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 176145
+revid: 177312
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -115,7 +115,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
     -   Which hero is summoned and their effect is dependent on the current Saint Stance.
     -   Each passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
         -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the **[The Floor is Lava](Talents.md#the-floor-is-lava)** Talent.
-        -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon uppercutting, block-breaking an enemy with a mantra, or taking damage while casting a mantra (can be from any source), summon the Hero of Gale to shoot a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also suffocating and knocking them away.
+        -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon using Blade of Saints, a Hero of Gale shoots out a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also knocking them away.
         -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
         -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing [Chill](Status_Effects.md#chill) or applying [Crystals](Status_Effects.md#crystal).
         -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly decreasing the windup.
@@ -182,7 +182,6 @@ Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accorda
 
 -   **Blade of Saints: Flamecharm Saint Stance**
     -   Rise into the air, and slam down your Saintsblade to apply burn and knockdown to anyone hit.
-    -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to leap further.
 
 -   **Blade of Saints: Galebreathe Saint Stance**
     -   You propel yourself forwards with the winds, uppercutting anyone in your wake.
@@ -193,7 +192,6 @@ Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accorda
 
 -   **Blade of Saints: Frostdraw Saint Stance**
     -   Use your Saintsblade to shoot out 3 crescent-shaped ice projectiles, followed up by a lunge which applies heavy knockback.
-    -   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) to reduce the windup.
 
 -   **Blade of Saints: Thundercall Saint Stance**
     -   Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.

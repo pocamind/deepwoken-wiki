@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 175941
+revid: 177313
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -389,6 +389,7 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
+    <li><b>For 1 </b>: <a href="Kindred_Edict.md">Kindred Edict</a></li>
     <li><b>For 3 </b>: <a href="Hero's_Blade_of_Frost.md">Hero's Blade of Frost</a>, <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a>, <a href="Wraithclaw.md">Wraithclaw</a></li>
     <li><b>For 4 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="Curved_Blade_of_Winds.md">Curved Blade of Winds</a>, <a href="Hero's_Blade_of_Flame.md">Hero's Blade of Flame</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a>, <a href="Stormseye.md">Stormseye</a></li>
     <li><b>For 8 </b>: <a href="First_Light.md">First Light</a></li>
