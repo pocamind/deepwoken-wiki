@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardmaster
-revid: 177272
+revid: 177419
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea]
@@ -16,7 +16,7 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea]
 
 ## Description
 
-Etrean Guardsmaster is an [Etrean](Etrean.md) NPC, the player can rescue an [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) to them for EXP and a small chest. After providing two prisoners, the boat will go on an 8 minute cooldown.
+Etrean Guardsmaster is an [Etrean](Etrean.md) NPC. The player is able to break off their handcuffs if they have been sent to execution by an Authority NPC or an [Authority Ensign](Authority_Ensign.md).
 
 ## Location
 
@@ -27,24 +27,18 @@ Etrean Guardsmaster is located around [Port Merit](Port_Merit.md), on a [Dinghy]
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
   <td>Player is <a href="Handcuffs.md">handcuffed</a></td>
   <td>Player is not <a href="Handcuffs.md">handcuffed</a></td>
-  <td>Player rescues a hostage</td>
-  <td>Player rescues too many hostages at once</td>
 </tr>
 <tr>
   <td>You did a good job making it out of there in one piece. Let me fix those cuffs for you.</td>
   <td>Go save our people... They're most likely in the cells at the bottom of the fort...</td>
-  <td>Great work! Here, take one of these chests.</td>
-  <td>I'm afraid we can only fit so many on this boat... You'll have to come back later, please keep them safe until then. <i>*[X] minutes remain.*</i></td>
 </tr>
 <tr>
   <td>End, Player's handcuffs are removed</td>
-  <td>End</td>
-  <td>End, player receives a small chest and XP</td>
   <td>End</td>
 </tr>
 </tbody>

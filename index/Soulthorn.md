@@ -1,9 +1,9 @@
 ---
 title: Soulthorn
-revid: 176134
+revid: 177391
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
+categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
 ---
 
 # Soulthorn

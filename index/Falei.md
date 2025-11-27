@@ -1,6 +1,6 @@
 ---
 title: Falei
-revid: 167998
+revid: 177426
 source: https://deepwoken.fandom.com/wiki/Falei
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
@@ -14,6 +14,10 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second 
 | aspect | Ganymede |
 | location | Sanctuary Gatehouse |
 | affiliation | The Divers |
+
+“ That man... Chaser. Him and the others, toward the Spire... ”
+
+― Falei
 
 ## Description
 

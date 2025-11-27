@@ -1,6 +1,6 @@
 ---
 title: The Heavens
-revid: 174375
+revid: 177393
 source: https://deepwoken.fandom.com/wiki/The_Heavens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Lore, The Heavens, Locations]
@@ -20,7 +20,7 @@ Waters of the Heavens are called the [Nightsea](Nightsea.md). They are inky blac
 
 ## Celestial Cities
 
-[Constellia](Constellia.md): One of the largest Celestial Cities. Fell 77 years after the Heavensfall as a result of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s [Scion](Scion_of_Ethiron.md) awakening. Before it's fall it served as the Guiding Star to the [Surface](Glossary.md#surface) folk.[\[3\]](#cite-note-kaide-3)
+[Constellia](Constellia.md): One of the largest Celestial Cities. Fell 77 years after the Heavensfall as a result of [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) sending the [Kyrsgarde](Kyrsgarde.md) to ravage it. Before it's fall it served as the Guiding Star to the [Surface](Glossary.md#surface) folk.[\[3\]](#cite-note-kaide-3)
 
 ## Notable Figures
 
@@ -28,7 +28,7 @@ Waters of the Heavens are called the [Nightsea](Nightsea.md). They are inky blac
 
 [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md): The last king of [Constellia](Constellia.md). After losing the battle against the [Kyrsans](Kyrsgarde.md), the city of [Constellia](Constellia.md) fell and he was captured and taken to [New Kyrsa](Second_Layer/New_Kyrsa.md).[\[3\]](#cite-note-kaide-3)
 
-Zhatarn, the Moonlight Prince: A [celestial](Celestial.md), driven mad by his attempt to draw power from [the Moonseye](Moonseye.md). He was exiled and doomed to roam the [Voidsea](Voidsea.md) forever. He wielded the [Soulthorn](Soulthorn.md).[\[5\]](#cite-note-kaidesoulthorn-5)
+[Zhatarn](Zhatarn.md): A [celestial](Celestial.md), driven mad by his attempt to draw power from [the Moonseye](Moonseye.md). He was exiled and doomed to roam the [Voidsea](Voidsea.md) forever. He wielded the [Soulthorn](Soulthorn.md).[\[5\]](#cite-note-kaidesoulthorn-5)
 
 ## References
 

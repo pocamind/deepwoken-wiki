@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 177310
+revid: 177414
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Layer 1, The Depths]
@@ -92,9 +92,8 @@ Template:Creature Infobox V3
 -   Similar to Mudskippers, the Hollow Angels' AI will dictate them to keep out of your effective range. They will constantly back up but will still keep you within the range of their spears.
 -   All Angels have **incredibly high** posture resistance, meaning you will have to consistently trade parries with them to get an attack on them without [Mantras](Mantras.md) or [Talents](Talents.md) that will bypass this.
 -   Hollow Angels will not despawn for a prolonged period of time, meaning that players should not assume they are safe by escaping via climbing.
--   Fire Blade and Rapid Punches can easily kill Hollow Angels since these Mantras stun the enemy, leaving the Hollow Angels vulnerable to regular attacks.
 -   Hollow Angels previously used to attack any other monsters in the Depths, but this was silently removed in a shadow update.
 -   They resemble the Malebranche demons from the _Castlevania_ animated series episode, _The Harvest_.
 -   They are internally referred to as ".angel\_lesser(ID)". The ID counts how many have spawned.
 -   They appear to wear a Yellow-dyed [Celtorian Tideknight](Celtorian_Tideknight.md) outfit.
--   An Hollow Angel Mask will not fool them they will still attack you even if you wear one of the mask.
+-   Attempting to avoid attacks by wearing a Hollow Angel Mask will not work.

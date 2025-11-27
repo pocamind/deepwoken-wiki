@@ -1,9 +1,9 @@
 ---
 title: Hailbreaker
-revid: 176143
+revid: 177355
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Multiple Criticals, Heavy Weapons]
+categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
 ---
 
 # Hailbreaker
@@ -59,4 +59,3 @@ At the end of each critical, ice explosions will happen around the user, dealing
 ## Trivia
 
 -   Its model as of 11/16/2024 does not change if you have [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical however do change color.
--   In lore, this weapon was mass-produced by [The Divers](The_Divers.md) and [The Authority](The_Central_Authority.md) to rival [The Union's](The_Ignition_Union.md) [Railblade](Railblade.md).

@@ -1,9 +1,9 @@
 ---
 title: Weal and Woe
-revid: 176132
+revid: 177395
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Weapons with Unique Animations, Multiple Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
+categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Weapons with Unique Animations, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
 ---
 
 # Weal and Woe
@@ -33,8 +33,6 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based W
 ## Description
 
 Weal and Woe are a pair of Legendary [Shadowcast](Shadowcast.md) spears.
-
-## Obtainment
 
 To obtain Weal and Woe, you need to craft one [Umbral Candle](Candle.md); you can craft Candles with one [Beeswax](Beeswax.md) and one [Fiber](Fiber.md), then combine the Candle with one [Umbrite](Ores.md#umbrite) or [Umbral Obsidian](Umbral_Obsidian.md) to make an Umbral Candle.
 

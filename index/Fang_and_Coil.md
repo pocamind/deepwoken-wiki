@@ -1,9 +1,9 @@
 ---
 title: Fang and Coil
-revid: 174383
+revid: 177351
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Fists, Fighting Styles, Multiple Criticals, Light Weapons]
+categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
 ---
 
 # Fang and Coil
@@ -49,9 +49,4 @@ For its **Running Critical**, the user performs a front-flip followed by a dazin
 ## Trivia
 
 -   Added on the 2025-01-18 Weekly update.
--   When released initially, its obtainment was bugged due to the NPC not spawning properly. This was amended in a hotfix 8 hours after the patch.[\[1\]](#cite-note-1)
 -   [Light's Final Toll](<Light's_Final_Toll.md>)'s critical attacks do not change with this fighting style equipped.
-
-## References
-
-1.  [↑](#cite-ref-1) File:Nuttoons Bugged Obtainment FaC.png

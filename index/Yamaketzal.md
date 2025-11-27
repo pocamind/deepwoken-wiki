@@ -1,9 +1,11 @@
 ---
 title: Yamaketzal
-revid: 174720
+revid: 177436
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
+categories: [Capra NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Yamaketzal
@@ -12,23 +14,23 @@ categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Voiced Char
 |---|---|
 | name | Yamaketzal |
 | aspect | Capra |
-| location | Songseeker Wilds |
+| location | Songseeker Temple |
 
 ## Description
 
-Yamaketzal is an NPC found outside the temple on **[Songseeker Wilds](Songseeker_Wilds.md).** He appears to be drunk, as he is swaying around and talking in an odd manner.
+Yamaketzal is a [Capra](Capra.md) NPC found right outside of [Songseeker Temple](Songseeker_Temple.md) in [Songseeker Wilds](Songseeker_Wilds.md). He appears to be drunk, as he is swaying around and talking in an odd manner.
 
-Talking to him will give you the Talent card "[Chime of Conflict](Chime_of_Conflict.md)". Afterwards, it will now automatically given on all slots when they start out. Additionally, he can give you echo Talents that you unlocked in another slot but you don't own in your current slot.
+Talking to Yamaketzal above [Power](Power.md) 5 will unlock the [Echo Talent](Echoes.md#echo-talentsitems), [Chime of Conflict](Chime_of_Conflict.md). The Chime of Conflict allows the player to fight in instanced PVP arenas against other players. Additionally, he can help player claim Echo Talents that they've unlocked in another slot, but don't own on their current slot.
 
-talking to him will tell you your win to loss ratio in the PvP Arena on the first set of dialogue, then a random piece of dialogue on the second set. This second set of dialogue can range from ominous messages to mentioning notable people, including [the Ferryman](The_Ferryman.md), [the Duke of Erisia](Duke_Ishamon_Erisia.md), the [Lord Regent](The_Lord_Regent.md), Wardens and Gunsmith Rosen. He also speaks of a Driver, riding horses.
+Speaking to Yamaketzal after claiming the Chime of Conflict will tell the player their W:L ratio in the arena. His second set of dialogue can range from ominous messages to mentioning notable people, including [The Ferryman](The_Ferryman.md), [The Duke](Duke_Ishamon_Erisia.md), [The Lord Regent](The_Lord_Regent.md), Wardens, and Gunsmith Rosen. He also speaks of a Driver, riding horses.
 
-Furthermore, if the player character has the "[Tarnished](Boons_and_Flaws.md#flaws)" flaw, Yamaketzal can remove it from the player for the price of 1000 [notes](Notes.md), making it possible to reroll their [Resonance](Resonance.md) again.
+Furthermore, if the player character has the [Tarnished](Boons_and_Flaws.md#flaws) Flaw, Yamaketzal can remove it from the player for the price of 1000, making it possible to reroll their [Resonance](Resonance.md) again.
 
-These two behaviors implies that, combined with his general knowledge of the world (if muddled by his drunkenness), despite his disheveled appearance, Yamaketzal is significantly powerful and knowledgable.
+Despite his disheveled appearance, the combination of these two behaviors and his broad, if drunkenly muddled, knowledge of the world indicates that Yamaketzal is both powerful and knowledgeable.
 
 ## Dialogue
 
-**Initial:**
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -77,7 +79,7 @@ These two behaviors implies that, combined with his general knowledge of the wor
 </tbody>
 </table>
 
-**1\. "Who are you?":**
+**"Who are you?":**
 
 <table>
 <tbody>
@@ -124,30 +126,7 @@ These two behaviors implies that, combined with his general knowledge of the wor
 </tbody>
 </table>
 
-**2\. After Fighting In Chime of Conflict:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="6">"Hrmm... &lt;number of battles won&gt; tourneys won out of &lt;total number of battles&gt; fought..."</td>
-  <td colspan="6"></td>
-</tr>
-<tr>
-  <td colspan="6">"A cryin' shame..."</td>
-  <td colspan="6">(When W:L ratio is lower than 50%)</td>
-</tr>
-<tr>
-  <td colspan="6">"Respectable... at the very least."</td>
-  <td colspan="6">(When W:L ratio is between 50% and 80%)</td>
-</tr>
-<tr>
-  <td colspan="6">"Not bad... Not bad at all."</td>
-  <td colspan="6">(When W:L ratio is above 80%)</td>
-</tr>
-</tbody>
-</table>
-
-**3\. Dialogue - Tarnished:**
+**Chime of Conflict:**
 
 <table>
 <tbody>
@@ -155,29 +134,70 @@ These two behaviors implies that, combined with his general knowledge of the wor
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">No place for a warrior like yourself havin' such a sorry excuse for an instrument... No place... Can fix that fer yer...</td>
+  <td colspan="6">Hrmm... [Total Chime Matches Won] tourneys won out of [Total Chime Matches Fought] fought...</td>
 </tr>
 <tr>
-  <td colspan="12">You can do that for me?</td>
+  <td colspan="2">(When W:L ratio is lower than 50%)</td>
+  <td colspan="2">(When W:L ratio is between 50% and 80%)</td>
+  <td colspan="2">(When W:L ratio is above 80%)</td>
 </tr>
 <tr>
-  <td colspan="12">Aye... That I can... Fer a small fee of jus' 1,000 Notes...</td>
+  <td colspan="2">A cryin' shame...</td>
+  <td colspan="2">Respectable... at the very least.</td>
+  <td colspan="2">Not bad... Not bad at all.</td>
 </tr>
 <tr>
-  <td colspan="11">Alright, here you go.</td>
+  <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Tarnished Resonance:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">No place for a warrior like yourself havin' such a sorry excuse for an instrument... No place... Can fix that fer yer...</td>
+</tr>
+<tr>
+  <td colspan="2">You can do that for me?</td>
+</tr>
+<tr>
+  <td colspan="2">Aye, that I can... Fer a small fee of jus' 1,000 Notes...</td>
+</tr>
+<tr>
+  <td>Alright, here you go.</td>
   <td>Nope.</td>
 </tr>
 <tr>
-  <td colspan="11">Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... <i>*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.*</i></td>
+  <td>Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... <i>*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.*</i></td>
   <td>End</td>
 </tr>
 <tr>
-  <td colspan="11">End</td>
+  <td>End, players Resonance is untarnished</td>
+</tr>
+</tbody>
+</table>
+
+**Claim Echo Talents:**
+
+<table>
+<tbody>
+<tr>
+  <td></td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   According to [Destroyman III](Destroyman_III.md), his favorite drink is grape juice. This is likely in reference to Roblox not allowing references to alcohol, while he was presented as a drunkard. This could also be a reference to the community port of Roblox for Linux also called grapejuice.
--   Yamaketzal's hair can be found here: [https://www.roblox.com/catalog/6036264253/Curtain-Bangs-in-Black](https://www.roblox.com/catalog/6036264253/Curtain-Bangs-in-Black)
+-   According to [Destroyman III](Destroyman_III.md), Yamaketzal's favorite drink is grape juice.[\[1\]](#cite-note-1)
+    -   This is likely in reference to Roblox not allowing references to alcohol, while Yamaketzal is presented as a drunkard. This could also be a reference to the community port of Roblox for Linux also called "grapejuice."
+-   Yamaketzal's hair can be found here: [https://www.roblox.com/catalog/6036264253/Curtain-Bangs-in-Black](https://www.roblox.com/catalog/6036264253/Curtain-Bangs-in-Black).
+
+## References
+
+1.  [↑](#cite-ref-1)

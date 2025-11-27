@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 177330
+revid: 177454
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -62,9 +62,9 @@ _Saintsworn **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---o
 
 #### Frostdraw
 
--   For the Frostdraw obelisk, you need to climb to the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**, break open the destructible bookshelf upstairs, and talk to Faust.**
+-   For the Frostdraw obelisk, you need to climb to the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**, break open the destructible bookshelf upstairs, parkour to the end of the area and talk to Faust.**
 
-The ice on the floor will deal damage.
+The ice on the floor will **kill you instantly** if you fall into it.
 
 #### Shadowcast
 

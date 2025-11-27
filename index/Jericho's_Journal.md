@@ -1,6 +1,6 @@
 ---
 title: "Jericho's Journal"
-revid: 173174
+revid: 177421
 source: https://deepwoken.fandom.com/wiki/Jericho's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -10,7 +10,7 @@ categories: [Books]
 
 ## Description
 
-_**Jericho's Journal**_ is a [Book](Books.md).
+_**Jericho's Journal**_ is a [Book](Books.md) found in [Fort Merit](Fort_Merit.md).
 
 ## Text
 

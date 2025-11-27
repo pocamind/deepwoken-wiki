@@ -1,9 +1,9 @@
 ---
 title: Red Death
-revid: 177261
+revid: 177373
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, Multiple Criticals, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals"]
+categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
 ---
 
 # Red Death
@@ -49,10 +49,10 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 
 ## Trivia
 
--   The weapon's original design was based on a fence post. [\[1\]](#cite-note-1)
--   The name is based on the 'Red Death' from the 'Destiny' franchise. [\[2\]](#cite-note-2)
+-   The weapon's original design was based on a fence post.[\[1\]](#cite-note-1)
+-   The name is based on the 'Red Death' from the 'Destiny' franchise.[\[2\]](#cite-note-2)
     -   Both weapons have no correlation besides their name and being themed around blood.
--   The emblem of [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) is set below the crossguard of the spear.
+-   The emblem of [The Ministry](The_Ministry.md) is set below the crossguard of the spear.
 -   Two weeks after the Red Death was released, it was given a visual rework alongside its running critical.
 
 ## References

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 171224
+revid: 177457
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -43,8 +43,8 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 
 ## Moveset
 
-| Name | Description |
-| --- | --- |
+| Name | Description | GIF |
+| --- | --- | --- |
 | 
 **Scratch**  
 (★☆☆)
@@ -54,6 +54,8 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 -   Used by most Mudskipper variants.
 -   Has relatively high hitstun.
 -   If you whiff a parry against this attack, let the next attack hit you instead of retaliating, as you'll just get hit again.
+
+ | 
 
  |
 | 
@@ -68,7 +70,7 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 -   Has relatively high hitstun.
 -   If you whiff a parry against this attack, let the next one hit you instead of retaliating, as you'll just get hit again.
 
- |
+ |  |
 | 
 
 **Air Force**  
@@ -79,7 +81,7 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 -   Enhanced Mudskipper and Mineskipper (Bloated) exclusive.
 -   Identical to the [Mantra](Galebreathe.md#air-force) by the same name.
 
- |
+ |  |
 
 ### Passives
 

@@ -1,6 +1,6 @@
 ---
 title: The Pioneers
-revid: 176207
+revid: 177411
 source: https://deepwoken.fandom.com/wiki/The_Pioneers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Citadel of Markor, The Divers, Dissolved organizations]
@@ -23,7 +23,7 @@ All of the Pioneer Divers' names were carved in the tremendously-sized monoliths
 
 ## Notable Members
 
-**[Deukalion Akarad](Deukalion_Akarad.md):** The first leader of the Black Divers, who was also assigned to lead the first expedition into [the Depths](The_Depths.md). He was also known to Diver recruits as "father Diver", indicating he was seen as a paternal figure in the organization. Perished among the Pioneer Divers in the first ever expedition into [the Depths](The_Depths.md) in 59 CE.
+**[Deukalion Akarad](Deukalion_Akarad.md):** The first leader of the [Black Divers](Black_Divers_division.md), who was also assigned to lead the first expedition into [the Depths](The_Depths.md). He was also known to Diver recruits as "father Diver", indicating he was seen as a paternal figure in the organization. Perished among the Pioneer Divers in the first ever expedition into [the Depths](The_Depths.md) in 59 CE.
 
 ## Trivia
 

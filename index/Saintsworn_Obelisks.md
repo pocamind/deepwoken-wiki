@@ -1,6 +1,6 @@
 ---
 title: Saintsworn Obelisks
-revid: 177096
+revid: 177470
 source: https://deepwoken.fandom.com/wiki/Saintsworn_Obelisks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -14,7 +14,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the East
 
 ## Description
 
-The five Saintsworn Obelisks are NPCs that are required to be located and interacted with to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). These obelisks are based in five elements: [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), and [Shadowcast](Shadowcast.md), each inhabited by the soul of the element's [Hero](Hero_Blades.md).
+The five Saintsworn Obelisks are NPCs that are required to be located and interacted with to obtain the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). These obelisks are based in five elements: [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), and [Shadowcast](Shadowcast.md), each inhabited by the soul of [the element's Hero](The_Five_Heroes.md).
 
 Obelisks can only be interacted with if you have atleast 15 of their respective element.
 
@@ -26,7 +26,7 @@ Each Obelisk is located in a unique, secluded area within another landmark. Thes
 -   The Galebreathe Obelisk is located in the [Burning Stone Gardens](Burning_Stone_Gardens.md), near [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>).
 -   The Thundercall Obelisk is located on the [Boatman's Watch](<Boatman's_Watch.md>), found within a cave on the northern side of it.
 -   The Flamecharm Obelisk is located in [Saramaed Summit](Saramaed_Summit.md), found within a crack in the wall accessible through parkour atop the summit's heights.
--   The Shadowcast Obelisk is located on the [Moon's Eyrie](<Moon's_Eyrie.md>), atop a path leading to a high-up, dangerous area above its pillars and found in a crack in the wall on the side of one of the pillars.
+-   The Shadowcast Obelisk is located on the [Moon's Eyrie](<Moon's_Eyrie.md>), atop a path leading to a high-up, dangerous area above its pillars and found in a crack in the wall at the end of the path.
 
 See the [Saintsworn page](Oath%253A_Saintsworn.md#obtainment) for guides on how to reach all Obelisks.
 
@@ -44,4 +44,4 @@ See the [Saintsworn page](Oath%253A_Saintsworn.md#obtainment) for guides on how 
 
 ## Trivia
 
--   There are symbols marked on all 4 sides on the base of each obelisk. Curiously, two of these symbols are the emblem of [The Central Authority](The_Central_Authority.md).
+-   There are symbols marked on all 4 sides of the base of each obelisk. Curiously, two of these symbols match the emblem of [The Central Authority](The_Central_Authority.md).
