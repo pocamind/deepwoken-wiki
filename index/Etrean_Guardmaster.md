@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardmaster
-revid: 173921
+revid: 177272
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea]
@@ -10,14 +10,13 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea]
 
 | Etrean Guardsmaster | |
 |---|---|
-| name | Etrean Guardsmaster |
 | aspect | Etrean |
 | location | Fort Merit |
 | affiliation | Etrea |
 
 ## Description
 
-Etrean Guardsmaster is an [Etrean](Etrean.md) NPC, the player can rescue [Etrean\_Guardsman\_Hostage](Etrean_Guardsman_Hostage.md) to them for EXP and a small chest. After providing two prisoners, the boat will go on an 8 minute cooldown.
+Etrean Guardsmaster is an [Etrean](Etrean.md) NPC, the player can rescue an [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) to them for EXP and a small chest. After providing two prisoners, the boat will go on an 8 minute cooldown.
 
 ## Location
 

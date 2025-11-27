@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 172240
+revid: 177255
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -57,9 +57,15 @@ Certain Monsters have unique visual effects when attuned.
 
 ## Humanoid Monsters
 
-**Exclusive to the [Etrean Luminant](Luminants.md) & [Scyphozia](First_Layer.md) (Layer 1)**
+**Exclusive to the [Etrean Luminant](Luminants.md) & [Scyphozia](First_Layer.md)**
 
 **Exclusive to [Trial of One](Trial_of_One.md) and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
+
+**Exclusive to [Etrean Luminant](Luminants.md), [Scyphozia](First_Layer.md), and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
+
+**Exclusive to [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md), [Scyphozia](First_Layer.md), and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
+
+**Exclusive to [Eastern Luminant](Luminants.md)**
 
 **Exclusive to [The Eternal Gale](Second_Layer.md)**
 
@@ -89,7 +95,7 @@ Certain Monsters have unique visual effects when attuned.
 
 **Meteor Isle:**
 
-**Monkey's Paw:**
+**The Monkey's Paw:**
 
 **Voidsea:**
 
@@ -107,30 +113,35 @@ Certain Monsters have unique visual effects when attuned.
 
 **Dungeons**
 
-**Trial of One:**
+**The Diluvian Mechanism:**
 
-**Duke's Manor:**
+**Duke Erisia's Laboratory / Manor:**
 
 **Saramaed Hollow:**
 
-**Diluvian Mechanism:**
+**Trial of One:**
 
 **The Vat:**
 
 ## Monster Hunting Advice
 
-While most of the ways to fight a Monster are specific to what kind it is, there are generally a few good rules that apply to most, if not all monsters.
+While most of the ways to fight a Monster are specific to their attacks and it is, there are generally a few good rules that apply to most, if not all monsters.
 
--   **If an attack has a red aura/effect to it and a sharp sound effect, the attack _CANNOT be_ parried normally and must be dodged.** These attacks are generally slower than regular attacks (with the exception of some attacks such as Sand Knight kick), giving you more time to dodge. The only way to parry them is using [Hunters Brace](<Hunter's_Brace.md>) (not reccomended as they are only found at Summer Isle or rarely in merchant ships, and it disappears if you die, leave the server, or enter a new luminant/the depths), the [Grand Fisher Plate](Grand_Fisher_Plate.md), the [Ignition Deepdelver](Ignition_Deepdelver.md) Outfit, or [Ignition Gauntlets](Ignition_Gauntlets.md).
--   **Take extreme caution if you decide to run from a monster, especially at low health.** Many Monsters have tools specifically designed to catch runners, such as the [Megalodaunt](Megalodaunt.md)'s long-range coral spear, which slows you down when hit. If you absolutely have to run, be smart about it. Abuse buildings or terrain and other obstacles to your advantage or defend against such long ranged attacks. Additionally, many Monsters are MUCH more intimidating compared to their actual attacks. Even if they LOOK scary, many Monsters have much lower stats than their infamy/appearance would suggest, for example: Owl only has 1.5x the health of a Thresher.
--   **Practice makes perfect.** Try and fight Monsters in situations where you have little to no risk of dying, such as the Megalodaunt cave ([https://www.youtube.com/watch?v=WZD9Akn0gjM](https://www.youtube.com/watch?v=WZD9Akn0gjM)). Being unprepared is worse than fighting the Monsters themselves. _The absolute **worst** thing to do possible is to jump into a fight with a Monster you've never fought, or even worse, never even seen before._ While **many** Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.** For example: Despite Blizzard Knights looking somewhat spindly and near identical to their (much weaker) Sand counterparts, they have the most health of any non-boss Monster.
--   **Monsters are affected by most things a player would be affected by**, including:
+-   If an attack has a red, blue, or purple indicator and a sharp sound effect, the attack **CANNOT** be parried normally and must be dodged (or blocked for blue).
+    -   These attacks are generally slower than regular attacks (with the exception of some attacks such as Sand Knight kick), giving the player more time to dodge. There are only a few ways to parry these attacks: Equipping a [Hunter's Brace](<Hunter's_Brace.md>), [Grand Fisher Plate](Grand_Fisher_Plate.md), [Ignition Gauntlets](Ignition_Gauntlets.md), or wearing the [Ignition Deepdelver](Ignition_Deepdelver.md) [Outfit](Outfits.md).
+-   Take extreme caution if attempting to flee from a monster, especially at low health.
+    -   Most Monsters have abilities specifically designed to catch players running away, such as the [Megalodaunt](Megalodaunt.md)'s long-range Coral Spear, which slows the player down when hit. If running is the player's last option, the player must be smart about it. The player should abuse buildings, terrain, and other obstacles to their advantage or defend against such long ranged attacks.
+-   Practice makes perfect.
+    -   The player should try and fight Monsters in situations where they have little to no risk of dying, such as Megalodaunt's in [The Viper's Jaw](<The_Viper's_Jaw.md>).[\[1\]](#cite-note-1) Being unprepared is worse than fighting the Monsters themselves. The absolute **worst** thing for the player to do is to jump into a fight with a Monster they’ve never fought, or even worse, never even seen before. While many Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.**
+        -   For Example: Despite [Blizzard Knight](Stone_Knight.md#blizzard-knight) looking somewhat spindly and identical to their much weaker [Stone Knight](Stone_Knight.md) counterpart, they actually boast one of the highest amount of hit points out of any Non-Boss Monster. On the other hand, [Deep Owls](Deep_Owl.md) may look ginormous and intimidating, but only have roughly 30% more health compared to a [Thresher](Thresher.md), a weaker mob.
+-   Monsters are affected by most things a player would be affected by including:
     -   Potions
     -   Status/Elemental Effects
     -   Flinging
-    -   Grabbing Mantras/Crits (e.g. [Legion Kata](Legion_Kata.md) crit or Jolt Grab)
--   **Most monsters can be staggered.** While humanoid NPCs can be posture broken, most monsters can be Staggered (on rare occasion, some can both be Staggered and posture broken). Depending on your ability to deal ARMOR DAMAGE, hitting a monster drains their armor bar (Ironsing works to drain their armor, Metal enchant increases damage to armor, but due to the draining effect you could say it also drains their armor.). When armor bar is empty, the monster will be stunned for around 4 seconds, unable to do anything. This is represented by the red spark that appear on them, a noticeable sound effect and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themself, but once they wake up from stun their armor is fully regenerated.
--   **All monsters have 25% physical armor and in some cases up to 50%. However humanoids dont have any armor and tanky by their hp. (Info from Arch\_Mage)**
+    -   Grabbing Mantras/Crits (e.g. [Legion Kata](Legion_Kata.md) Crit or [Jolt Grab](Thundercall.md#jolt-grab))
+-   Most monsters can be staggered.
+    -   While humanoid NPCs can be Posture Broken, most Monsters can be Staggered (on rare occasion, some can both be Staggered and Posture Broken). Depending on the player's ability to deal **ARMOR DAMAGE**, hitting a monster drains their armor bar (Ironsing works to drain their armor, Metal enchant increases damage to armor, but due to the draining effect you could say it also drains their armor). When the armor bar is empty, the monster will be stunned for around 4 seconds, unable to do anything. This is represented by the red spark that appears on them, a noticeable sound effect, and them becoming motionless. During this time, they lose all their resistances and cannot attack or defend themselves, but once they wake up from stun their armor is fully regenerated.
+-   All monsters have 25% physical armor and in some cases up to 50%. However humanoids don’t have any armor and are tanky by their hp.[\[2\]](#cite-note-2)
 
 ## PvE Scaling
 
@@ -161,3 +172,8 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 -   Some variants of some creatures are limited to The Depths, and others are only in The Overworld. (e.g. Thunder [Nautilodaunts](Nautilodaunt.md) spawn only in [the Depths](The_Depths.md))
 -   Prior to an update that reworked the telegraphing of attacks, most unparryable (red flash) attacks of monsters were accompanied by a red flash and the [Perilous attack sound](https://www.youtube.com/watch?v=5YzN2bPgjB0) from _Sekiro: Shadows Die Twice_.
 -   There's a rare easter egg with an unknown chance that a [Metal Gear solid alert sound](https://streamable.com/ul7sv3) will play when a monster notices a player.
+
+## References
+
+1.  [↑](#cite-ref-1) ([https://www.youtube.com/watch?v=WZD9Akn0gjM](https://www.youtube.com/watch?v=WZD9Akn0gjM))
+2.  [↑](#cite-ref-2)

@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 174754
+revid: 177210
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -20,7 +20,7 @@ The Crypt of the Unbroken is a building in the highest part of [Minityrsa](Minit
 
 -   On the 1st floor, there is a massive, library-like room with an Alpha Megalodaunt and four [Immortal Guardians](Immortal_Guardian.md) in it.
 -   On the 2nd floor, the [Shrine of Temptation](Deep_Shrines.md) can be found. For 5 knowledge, you may exchange one of your mantras for a hand of whispers.
-    -   An opening in the wall will lead to the Frostdraw obelisk for [Saintsworn](Oath%253A_Saintsworn.md#obtainment) obtainment.
+    -   An opening in the wall will lead to the [Glacial Remnant](Glacial_Remnant.md) with the [Frostdraw Obelisk](Frostdraw_Obelisk.md) inside, required for the [Saintsworn](Oath%253A_Saintsworn.md#obtainment) obtainment.
 -   The [Gran Sudaruska](Gran_Sudaruska.md) can be found in the chests dropped by the [Immortal Guardians](Immortal_Guardian.md) on the 1st floor. This is a very grindy way to obtain the weapon, but it is safer compared to [Layer 2](Second_Layer.md) which most people are scared of. This is also why people can be found here so often.
     -   Farming [Immortal Guardians](Immortal_Guardian.md) is also the only way to get the [Immortal Helm](Immortal_Helm.md), which is one of the reasons why people choose to go here.
 

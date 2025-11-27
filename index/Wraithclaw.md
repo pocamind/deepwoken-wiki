@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 176131
+revid: 177257
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Multiple Criticals, Fists, Light Weapons]
@@ -63,7 +63,7 @@ For the **aerial** critical, the user quickly whirls in front of them, dealing 2
 
 Both criticals share the cooldown of **10 seconds**.
 
-Both criticals are able to proc M1-exclusive [Talents](Talents.md). This includes [Navaen War Chief](Navaen_War_Chief.md) and [Fists of Fortitude](Talents.md#navaen-nomad).
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
 
 ## Trivia
 

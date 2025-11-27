@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 170774
+revid: 177284
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
@@ -25,9 +25,11 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 
 ## Dialogue
 
+**Base Dialogue:**
+
 **First Encounter:**
 
-**High friend Etrea reputation:**
+**High Friend Etrea Reputation:**
 
 <table>
 <tbody>
@@ -35,7 +37,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
   <td colspan="20">Begin</td>
 </tr>
 <tr>
-  <td colspan="20">Well, if it isn't [Name]! It sure puts an Etrean's heart at ease seeing you around.</td>
+  <td colspan="20">Well, if it isn't [Full Name]! It sure puts an Etrean's heart at ease seeing you around.</td>
 </tr>
 <tr>
   <td colspan="20">I'm sorry, have we met?</td>
@@ -55,7 +57,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 </tr>
 <tr>
   <td colspan="10">Ah, er, anyways. Friend-to-friend, do you think I could count on you to check something out for me?</td>
-  <td colspan="10"><i>*Kennith's eyes twinkle with ever-increasing reverence,*</i> You've made my week, [First name]. Do you think I could count on you to check something around here for me? Friend-to-friend.</td>
+  <td colspan="10"><i>*Kennith's eyes twinkle with ever-increasing reverence,*</i> You've made my week, [First Name]. Do you think I could count on you to check something around here for me? Friend-to-friend.</td>
 </tr>
 <tr>
   <td colspan="20">Check something?</td>
@@ -79,7 +81,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
   <td colspan="20">I'll look into it.</td>
 </tr>
 <tr>
-  <td colspan="20">Dear old friend! I knew I could count on you. You might find some leads by talking to other townsfolk. I'll keep checking around myself, let me know if you happen upon anything.</td>
+  <td colspan="20">Dear old friend! I knew I could count on you. You might find some leads by talking to the other townsfolk. I'll keep checking around myself, let me know if you happen upon anything.</td>
 </tr>
 <tr>
   <td colspan="20">End</td>
@@ -121,8 +123,6 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 
 **Subsequent Encounters:**
 
-**Quest in progress:**
-
 <table>
 <tbody>
 <tr>
@@ -135,7 +135,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
   <td colspan="20">Not yet.</td>
 </tr>
 <tr>
-  <td colspan="20">Alright just let me know if you happen to stumble upon anything.</td>
+  <td colspan="20">Alright just let me know if you happen upon anything.</td>
 </tr>
 <tr>
   <td colspan="20">End</td>
@@ -144,8 +144,6 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 </table>
 
 **Unlockable dialogue:**
-
-**Kyrsan Wilds, Completed his questline:**
 
 **First Encounter:**
 
@@ -168,7 +166,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
   <td colspan="10">Snooping around a tyrant's affairs. Didn't you see it coming?</td>
 </tr>
 <tr>
-  <td colspan="10">No, friend. I probably should have seen it coming. It all feels so obvious now, like a veil's been lifted</td>
+  <td colspan="10">No, friend. I probably should have seen it coming. It all feels so obvious now, like a veil's been lifted.</td>
   <td colspan="10">Pah! A tyrant? The regent is... Wait. Huh. I guess you're right. Feels like some kinda veil's lifted, now that you've pointed that out..</td>
 </tr>
 <tr>
@@ -246,31 +244,22 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
   <td colspan="20">The last thing I remember... One of the Regent's guards clad in black threw a bag over my head. Everything beyond that is a thousand needles. A thousand lacerations. Then black. All black. Now here.</td>
 </tr>
 <tr>
-  <td colspan="10">I'm sorry.</td>
-  <td colspan="10">Snooping around a tyrant's affairs. Didn't you see it coming?</td>
+  <td colspan="20">I'm sorry.</td>
 </tr>
 <tr>
-  <td colspan="10">No, friend. I probably should have seen it coming. It all feels so obvious now, like a veil's been lifted</td>
-  <td colspan="10">Pah! A tyrant? The regent is... Wait. Huh. I guess you're right. Feels like some kinda veil's lifted, now that you've pointed that out..</td>
+  <td colspan="20">No, friend. I probably should have seen it coming. It all feels so obvious now, like a veil's been lifted</td>
 </tr>
 <tr>
-  <td colspan="5">You're closer than you think. There's a mental veil placed over Etris.</td>
-  <td colspan="5">How long have you been down here?</td>
-  <td colspan="5">You're closer than you think. There's a mental veil placed over Etris.</td>
-  <td colspan="5">How long have you been down here?</td>
+  <td colspan="20">You're closer than you think. There's a mental veil placed over Etris.</td>
 </tr>
 <tr>
-  <td colspan="5">Huh. No kidding. Guess it wasn't my own stupidity, after all.</td>
-  <td colspan="5">Hm? I only just stirred, so I'm not sure. Can't have been that long though, right?</td>
-  <td colspan="5">[See first instance]</td>
-  <td colspan="5">[See first instance]</td>
+  <td colspan="20">Huh. No kidding. Guess it wasn't my own stupidity, after all.</td>
 </tr>
 <tr>
-  <td colspan="5">How long have you been down here?</td>
-  <td colspan="5">End</td>
+  <td colspan="20">How long have you been down here?</td>
 </tr>
 <tr>
-  <td colspan="5">[See first instance]</td>
+  <td colspan="20">[See first instance]</td>
 </tr>
 </tbody>
 </table>

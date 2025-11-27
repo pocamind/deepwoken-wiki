@@ -1,9 +1,11 @@
 ---
 title: The Dreadstar
-revid: 166331
+revid: 177208
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, NPCs, Oath Trainer]
+categories: [Pages requiring a cleanup, Pages with broken file links, NPCs, Oath Trainer]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # The Dreadstar

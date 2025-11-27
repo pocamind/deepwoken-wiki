@@ -1,6 +1,6 @@
 ---
 title: Union Initiate
-revid: 176163
+revid: 177181
 source: https://deepwoken.fandom.com/wiki/Union_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, The Ignition Union]

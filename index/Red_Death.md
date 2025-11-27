@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 176136
+revid: 177261
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, Multiple Criticals, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals"]
@@ -45,7 +45,7 @@ For the running critical, the user rapidly thrusts the spear while slowly moving
 
 Both criticals have a cooldown of **8 seconds**
 
-Both of this weapon's criticals are able to proc M1-exclusive [Talents](Talents.md).
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
 
 ## Trivia
 

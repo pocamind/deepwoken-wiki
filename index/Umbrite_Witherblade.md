@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 176124
+revid: 177182
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics]
@@ -30,8 +30,6 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique
 | description | Once a derelict frame, now restored by your offerings, pulsing quicker and quicker... Its fibers twist and crack, reaching out to consume the cutlass, its shape warping into a rough mirage of the weapon. Infused with minerals it once knew, channeling the warped umbrite through its slick inky veins. Each strike drains the very soul of your foes, leaving them withered and undone. |
 
 _This might have not been the page you were looking for, if you were looking for the [Dormant Splinter](Dormant_Splinter.md)'s other craftables, view the [Fondant Splitter](Fondant_Splitter.md) or [Sanguine Transfuser](Sanguine_Transfuser.md)._
-
-  
 
 ## Description
 

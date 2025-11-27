@@ -1,6 +1,6 @@
 ---
 title: Sand Knight
-revid: 120802
+revid: 177236
 source: https://deepwoken.fandom.com/wiki/Sand_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Stone Knight](Stone_Knight.md)
+-   [Stone Knight#Sand Knight](Stone_Knight.md#sand-knight)

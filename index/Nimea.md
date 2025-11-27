@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 170152
+revid: 177218
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs]
@@ -22,7 +22,7 @@ categories: [Etrean NPCs, NPCs]
 
 Nimea is an [Etrean](Etrean.md) NPC who provides insight into the [Lightkeepers](Lightkeepers.md), offering background on the situation in the Hidden Village, the condition of its civilians, and possible explanations for their fate. She also discusses her personal connection with Viqh, the Lightkeeper of the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md).
 
-Nimea is a File Etrean dressed in the [Hive Tactician Armor](Hive_Tactician_Armor.md) outfit. Based on her visible wrinkles, she appears to be in Stage 2 of [Aging](Age.md), likely placing her between 50 and 59 years old.
+Nimea is a File Etrean wearing the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) [Outfit](Outfits.md) and [Leather Boots](Leather_Boots.md). Based on her visible wrinkles, she appears to be in Stage 2 of [Aging](Age.md), likely placing her between 50 and 59 years old.
 
 ## Location
 
@@ -158,7 +158,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">1. What is this place?</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*She eyes you for a moment, then sighs.*</i> You've done good for me, so I'll share a little. Those with the Gift... are somewhat ironically incapable of using the Song. Almost everyone has a little potential for it, right?</td>
+  <td colspan="6"><i>*She eyes you for a moment, then sighs.*</i> You've done good for me, so I'll share a little. Those with the Gift... are somewhat ironically incapable of using the <a href="Glossary.md#the-song">Song</a>. Almost everyone has a little potential for it, right?</td>
   <td colspan="6">[See first instance.]</td>
 </tr>
 <tr>
@@ -166,25 +166,25 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="6">No. Not Viqh. Poor thing couldn't muster a single word of it. As a child, I simply thought she hadn't got the knack for it yet. We must've sat there for hours - just reciting the same Mantras over and over again. <i>*She smiles, reminiscing. Seems like a pleasant memory for her.*</i></td>
+  <td colspan="6">No. Not Viqh. Poor thing couldn't muster a single word of it. As a child, I simply thought she hadn't got the knack for it yet. We must've sat there for hours - just reciting the same <a href="Glossary.md#mantra">Mantras</a> over and over again. <i>*She smiles, reminiscing. Seems like a pleasant memory for her.*</i></td>
 </tr>
 <tr>
   <td colspan="6">And then...</td>
 </tr>
 <tr>
-  <td colspan="6">And then they took her. We were out in the boonies, so when an Authority ship suddenly appeared at our shore there wasn't much we could really do about it. So many soldiers - all filtering out of that hideous ironclad of theirs.</td>
+  <td colspan="6">And then they took her. We were out in the boonies, so when an <a href="Glossary.md#the-central-authority">Authority</a> ship suddenly appeared at our shore there wasn't much we could really do about it. So many soldiers - all filtering out of that hideous ironclad of theirs.</td>
 </tr>
 <tr>
   <td colspan="6">Was there no chance of hiding her?</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*She shakes her head.*</i> Only reason she was out in the sticks like me is because her parents realised keeping her in Etris would be bad news. The Authority are monsters, the lot of them. But what do you even <i>call</i> something that monsters fear?</td>
+  <td colspan="6"><i>*She shakes her head.*</i> Only reason she was out in the sticks like me is because her parents realised keeping her in Etris would be bad news. The <a href="Glossary.md#the-central-authority">Authority</a> are monsters, the lot of them. But what do you even <i>call</i> something that monsters fear?</td>
 </tr>
 <tr>
   <td colspan="6">I'm sorry. About all of this.</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*She eyes you once again, measuring your sincerity. Her face cracks into a smile.*</i> I know you are. But what is one to do? I can only hope that love can reach where the Song never could.</td>
+  <td colspan="6"><i>*She eyes you once again, measuring your sincerity. Her face cracks into a smile.*</i> I know you are. But what is one to do? I can only hope that love can reach where the <a href="Glossary.md#the-song">Song</a> never could.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

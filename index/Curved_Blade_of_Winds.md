@@ -1,9 +1,9 @@
 ---
 title: Curved Blade of Winds
-revid: 176976
+revid: 177268
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Criticals with M1 tag, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals"]
+categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Multiple Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals"]
 ---
 
 # Curved Blade of Winds
@@ -63,7 +63,7 @@ The user propels in a whirlwind of air, gravitating towards their cursor. Applie
 
 The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
 
-Both criticals are able to proc M1-exclusive [Talents](Talents.md).
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
 
 ## Trivia
 
@@ -73,7 +73,7 @@ Both criticals are able to proc M1-exclusive [Talents](Talents.md).
 -   The original updated Curved Blade of Winds contained an absurd 120k vertices. Following the March 27th, 2023 update, this was reduced to a mere 7k vertices.
 -   The Curved Blade of Winds has features two sets of lines written in runes that run alongside the blade's markings.
 -   As the weapon is a dual wield, you are unable to utilize a Shield or Off-Hand gun.
-    -   You however can have a shield on your back in both stances, allowing you to utilize the [Turtle Shell](Talents.md#shieldmaster) Talent.
+    -   You however can have a shield on your back in both stances, allowing you to utilize the [Turtle Shell](Talents.md#turtle-shell) Talent.
 -   The original model was a Wardens Blade with wind particles put onto the blade.
 -   When one-handing this weapon, you have two blades, meaning the two-hand stance only has one.
     -   This often leads people to mistake the single sword stance as the faster stance.

@@ -1,9 +1,9 @@
 ---
 title: Crypt Blade
-revid: 176155
+revid: 177267
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Criticals with M1 tag, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Crypt Blade
@@ -52,7 +52,7 @@ The user plunges the blade into the ground and releases an AoE circle surroundin
 
 The critical has a cooldown of **10 seconds**.
 
-This critical is able to proc M1-exclusive [Talents](Talents.md).
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
 
 ## Trivia
 

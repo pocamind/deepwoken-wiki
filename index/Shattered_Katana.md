@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 172688
+revid: 177260
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Multiple Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -41,7 +41,7 @@ While one handed it uses the default [Katana](Katana.md) crit, but gains a uniqu
 
 The critical has a cooldown of **6 seconds**.
 
-Both of this weapon's criticals are able to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) abilities.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

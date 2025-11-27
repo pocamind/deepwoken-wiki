@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 174910
+revid: 177174
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -35,7 +35,7 @@ The side effect of their practices is the Authority are far more fragile than on
 
 ## Gameplay
 
--   Everyone aside from Adrets start out with lower reputation with The Authority. This starting reputation is only slightly lower than neutral, meaning that helping the Authority once or twice in Erisia is enough to set your reputation to neutral.
+-   Every race aside from Adrets start out with lower reputation with The Authority. This starting reputation is only slightly lower than neutral, meaning that helping the Authority once or twice in Erisia is enough to set your reputation to neutral.
 -   The Authority's base of operations in the Eastern Luminant is [Fort Merit](Fort_Merit.md).
 -   Randomly encountered in the [Starswept Valley](The_Starswept_Valley.md) and [Erisia](Erisia.md).
 

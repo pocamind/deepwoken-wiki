@@ -1,6 +1,6 @@
 ---
 title: Trenti
-revid: 168987
+revid: 177185
 source: https://deepwoken.fandom.com/wiki/Trenti
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant]

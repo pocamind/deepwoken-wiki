@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 174695
+revid: 177228
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Mementos, Character]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # Vow of Iron
+
+_Not to be confused with [Ironwoken](Echoes.md#upgrades-unlocks-and-modifiers), an Echo Modifier._
 
 “ Wield the memories of the fallen.  
 The path ahead is not a forgiving one. ”

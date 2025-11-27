@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 170584
+revid: 177259
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -45,7 +45,7 @@ The critical has a cooldown of **6 seconds**, even after the follow-up critical 
 
 Notably, this attack is shared with the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

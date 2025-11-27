@@ -1,6 +1,6 @@
 ---
 title: Blizzard Knight
-revid: 123975
+revid: 177235
 source: https://deepwoken.fandom.com/wiki/Blizzard_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Stone Knight](Stone_Knight.md)
+-   [Stone Knight#Blizzard Knight](Stone_Knight.md#blizzard-knight)

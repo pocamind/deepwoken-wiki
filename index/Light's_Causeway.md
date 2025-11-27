@@ -1,9 +1,9 @@
 ---
 title: "Light's Causeway"
-revid: 171571
+revid: 177176
 source: https://deepwoken.fandom.com/wiki/Light's_Causeway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, The Divers, Layer 1, Lawless Territory]
+categories: [Pages with broken file links, The Divers, Layer 1, Lawless Territory, Locations in the First Layer]
 ---
 
 # Light's Causeway

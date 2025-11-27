@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 175678
+revid: 177263
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -54,7 +54,7 @@ The aerial critical does 0.45x \* 2 scaled damage, alongside having innate [Blee
 
 Both criticals apply 5 [Wither](Status_Effects.md#wither) on hit if your [Starkindred](Oath%253A_Starkindred.md) wings are out. Both criticals have a cooldown of **5 seconds** if whiffed.
 
-This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

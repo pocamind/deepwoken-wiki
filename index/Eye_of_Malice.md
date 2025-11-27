@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 176152
+revid: 177266
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -44,7 +44,7 @@ Feinting during this critical will cancel momentum and allow you to more easily 
 
 The critical has a cooldown of **6 seconds**.
 
-This critical is able to proc M1-exclusive [Talents](Talents.md).
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
 
 ## Trivia
 

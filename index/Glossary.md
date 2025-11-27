@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 177099
+revid: 177232
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -594,7 +594,7 @@ Dialogue: [Samael](Samael.md) | Books: | Glossary Entries: [Lightkeep](#lightkee
 
 ### The Lullaby Isles
 
--   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range.
+-   The Chrysid homeland, a fruitful archipelago surround by treacherous mountain range. It's said that only a few can come out, and only that same few are allowed back in.
 -   Home to the Moonlit Faith, a devout religion that revere the passage of souls to the [Moonseye](#the-moonseye).
 
 Dialogue: [Hiri](Hiri.md), [Marro](Marro.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>) | Glossary Entries: [The Acolyte / Thalassis](#the-acolyte--thalassis), [The Central Luminant](#the-central-luminant), [The Counsell](#the-counsell), [The Lady Confessor](#the-lady-confessor) [The Moonlit Dialect](#the-moonlit-dialect)

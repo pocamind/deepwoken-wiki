@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 177065
+revid: 177247
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, War Weapons, Weapons with Talents]
@@ -44,7 +44,14 @@ Dying with this weapon equipped or in your inventory causes it to **deteriorate 
 
 Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Sacrificial Boon** grants a random buff upon using the Talent tool at the cost of 5. This Talent has no cooldown.
+**Sacrificial Boon** grants a random buff upon using the Talent tool at the cost of 5. This Talent has a 0.5 second cooldown. The buffs are as follows:
+
+-   20% damage buff
+-   Hyperarmor
+-   Instantly heal 30 health
+-   Thirst restoration
+-   Stomach restoration
+-   Speed boost for 10 seconds
 
 ## Critical
 

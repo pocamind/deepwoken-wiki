@@ -1,22 +1,21 @@
 ---
 title: ??? (Frozen Man)
-revid: 143840
+revid: 177203
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Frozen_Man)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, Layer 2]
+categories: [Khan NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # ??? (Frozen Man)
 
 | ??? (Frozen Man) | |
 |---|---|
-| name | "???" |
 | aspect | Khan |
 | location | Ethironal Shrine Sanctuary |
 
 ## Description
 
-"???" is an NPC half in the ground [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) who appears to be frozen. He is a Khan who is wearing an unknown outfit.
+??? is a [Khan](Khan.md) NPC. He is found frozen overlooking [Firfire](Firfire.md) near the Union Hook at the [Third Diver Journal](Diver_Journal,_III.md).
 
 ## Dialogue
 
@@ -36,4 +35,4 @@ categories: [Khan NPCs, NPCs, Layer 2]
 
 ## Trivia
 
--   This NPC currently seems to serve no purpose.
+-   This NPC wears an unknown [Outfit](Outfits.md).

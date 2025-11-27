@@ -1,12 +1,18 @@
 ---
 title: Erisia
-revid: 174205
+revid: 177212
 source: https://deepwoken.fandom.com/wiki/Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant]
 ---
 
 # Erisia
+
+LocationL Erisia LocationR
+
+A land lost to time, now made a battleground for warriors who know not why they fight.
+
+  
 
 ## Description
 

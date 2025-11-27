@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 174433
+revid: 177283
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -127,11 +127,6 @@ _WEP = Any weapon stat (HVY, MED, LHT)_
 [Visionshaper](Oath%253A_Visionshaper.md)
 
 (50 CHA)
-
-### Upcoming Oaths
-
--   Warmaster
--   Chef
 
 ## Oath Skipping
 

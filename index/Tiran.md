@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 174558
+revid: 177190
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Tiran
 
-Template:Races-Main
+| Tiran | |
+|---|---|
+| obtained_by | 2% Roll Chance |
+| appearance | Blue/Red/Black/Blond Hair, Brown/Pale/Dark blue Skin, Red/Orange/Yellow Eyes, Feathers on head |
+| traits | Feathered Glider, +3 Agility, +2 Willpower |
 
 _Solitary folk seldom seen below the clouds.  
 Sharp and independent, though strongly protective of those who earn their respect._

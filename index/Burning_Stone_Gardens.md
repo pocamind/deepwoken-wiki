@@ -1,6 +1,6 @@
 ---
 title: Burning Stone Gardens
-revid: 166523
+revid: 177215
 source: https://deepwoken.fandom.com/wiki/Burning_Stone_Gardens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant]
@@ -23,10 +23,6 @@ File:Stone gardens 1.png
 Burning Stone Gardens is a secluded sanctuary up high on Erisia. The trees can emit a luminescence that others don't.
 
 Burning Stone Gardens will precipitate Poison Rain, and the water found here will be poisonous as well.
-
-## Points of Interest
-
--   [Rat's Den](<Rat's_Den.md>)
 
 ## Maps
 

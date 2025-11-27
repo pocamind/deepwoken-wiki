@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 169927
+revid: 177262
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Multiple Criticals, Greatswords, The Ignition Union, Heavy Weapons]
@@ -42,7 +42,7 @@ For the **airborne** critical, the user hovers and raises their weapon overhead 
 
 The flames emitted by both Critical Attacks will proc Burn and any applicable Flamecharm Talents, including different paths & Talents such as Azure Flames. The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
 
-Both of this weapon's criticals are able to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) abilities.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

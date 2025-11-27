@@ -1,9 +1,9 @@
 ---
 title: Worldpainter Brush
-revid: 177149
+revid: 177168
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Weapons, Developer Spec]
+categories: [Exclusive, Weapons]
 notices:
   - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
 ---
@@ -34,7 +34,7 @@ notices:
 
 ## Description
 
-The **Worldpainter Brush** is a custom weapon handed out to winners of major art contests. There are currently only **four** winners of the Paintbrush weapon,
+The **Worldpainter Brush** is a custom weapon handed out to winners of major art contests. There are currently only **four** winners of the Paintbrush weapon.
 
 ## Critical
 
