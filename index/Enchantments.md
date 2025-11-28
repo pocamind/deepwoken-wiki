@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 177070
+revid: 177527
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons]
@@ -93,22 +93,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Once enough stacks have been applied, for 5s your weapon attacks will ignite your foes.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Blazing can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Blazing enchanted weapon from a chest.</p>Blazing <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Blazing can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Blazing enchanted weapon from a chest.</p>Blazing<p></p></div></td>
   <td><div>Weapon is charred brown and covered in orange flames. The enchantment and resulting flames will be blue if you have Azure Flames or black if you have Twisted Puppets.</div></td>
 </tr>
 <tr>
@@ -141,22 +126,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Chill for foes. Applies Bottom Freeze once enough stacks have been applied.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Chilling can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Chilling enchanted weapon in a chest.</p>Chilling <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Chilling can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Chilling enchanted weapon in a chest.</p>Chilling<p></p></div></td>
   <td><div>Weapon turns completely light blue and is covered in a light blue mist, If you have Glass Path: Crystallization, the enchant will turn red.</div></td>
 </tr>
 <tr>
@@ -170,22 +140,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Weapon damage is increased by 7%, but becomes damage over time lasting for 2.5s.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Deferred can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Deferred enchanted weapon from a chest.</p>Deferred <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Deferred can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Deferred enchanted weapon from a chest.</p>Deferred<p></p></div></td>
   <td><div>Weapon turns completely black and is covered in a red and yellow haze.</div></td>
 </tr>
 <tr>
@@ -199,22 +154,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Once enough stacks have been applied, an explosion is detonated.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Detonation can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Detonation enchanted weapon in a chest.</p>Detonation <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Detonation can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Detonation enchanted weapon in a chest.</p>Detonation<p></p></div></td>
   <td><div>Weapon turns orange, depending on material. Metal and Blade parts become a glowing orange that gives off particles.</div></td>
 </tr>
 <tr>
@@ -227,22 +167,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Opponents are pulled towards you on hit.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Elastic can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Elastic enchanted weapon from a chest.</p>Elastic <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Elastic can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Elastic enchanted weapon from a chest.</p>Elastic<p></p></div></td>
   <td><div>Weapon is covered in a pink haze.</div></td>
 </tr>
 <tr>
@@ -256,22 +181,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Steals Water and Stomach from those you hit.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Gluttony can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Gluttony enchanted weapon from a chest.</p>Gluttony <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Gluttony can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Gluttony enchanted weapon from a chest.</p>Gluttony<p></p></div></td>
   <td><div>Weapon covered in an orange/brown mist, like Stench.</div></td>
 </tr>
 <tr>
@@ -285,22 +195,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Once enough stacks have been applied, Grim is applied for 6s, increasing all incoming damage by 25% and incoming posture damage by 50%.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Grim can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Grim enchanted weapon from a chest.</p>Grim <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Grim can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Grim enchanted weapon from a chest.</p>Grim<p></p></div></td>
   <td><div>Weapon turns completely black and is covered in a black and light red aura.</div></td>
 </tr>
 <tr>
@@ -337,22 +232,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>When above 75% HP, gain 4% damage for every 5% HP above 75%. When below 25% HP, gain 4% damage for every 5% HP below 25% HP. You can reflect negative status effects with light attacks or criticals to your opponent while in these health ranges.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Heroism can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Heroism enchanted weapon from a chest.</p>Heroism <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Heroism can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Heroism enchanted weapon from a chest.</p>Heroism<p></p></div></td>
   <td><div>Weapon turns completely yellow and is covered in a yellow glow.</div></td>
 </tr>
 <tr>
@@ -371,22 +251,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Steal Armor durability on hit.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Metal can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Metal enchanted weapon from a chest.</p>Metal <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Metal can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Metal enchanted weapon from a chest.</p>Metal<p></p></div></td>
   <td><div>Weapon takes on a metallic texture.</div></td>
 </tr>
 <tr>
@@ -403,22 +268,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Your critical attack is replaced with Nemesis. Basic attacks now mark your enemies allowing you to critical attack to teleport to them.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Nemesis is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Nemesis <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Nemesis is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Nemesis<p></p></div></td>
   <td><div>The weapon's metallic parts take on a rose color and emit rose-colored eye particles.</div></td>
 </tr>
 <tr>
@@ -450,22 +300,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>You gain some chip damage on m1 and crit.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Obfuscation can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining an Obfuscation enchanted weapon from a chest.</p>Obfuscation <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Obfuscation can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining an Obfuscation enchanted weapon from a chest.</p>Obfuscation<p></p></div></td>
   <td><div>The weapon turns gains a white outline and is enveloped in a white mist.</div></td>
 </tr>
 <tr>
@@ -495,22 +330,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Parrying attacks damages your foes.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Providence's Thorns can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or obtaining a Providence's Thorns enchanted weapon from a chest.</p>Providence's Thorns <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Providence's Thorns can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or obtaining a Providence's Thorns enchanted weapon from a chest.</p>Providence's Thorns<p></p></div></td>
   <td><div>Metal parts glow in a bright white and give off a slight particle effect of the same color.</div></td>
 </tr>
 <tr>
@@ -525,22 +345,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Weapon gains +5% PEN. Applies Cauterize on hit for 15s, as well as draining their Water. Cauterized foes take more PEN the more stacks are applied.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Sear can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or obtaining a Sear enchanted weapon from a chest.</p>Sear <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Sear can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or obtaining a Sear enchanted weapon from a chest.</p>Sear<p></p></div></td>
   <td><div>Weapon glows yellow and gives off yellow particles.</div></td>
 </tr>
 <tr>
@@ -554,22 +359,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Applies a Solar Mark on critical attack or flourish. Solar Marks last 8s and reduce Tempo gain and Ether regeneration. Your Vent drains the Tempo of those you've marked.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Solar is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Solar <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Solar is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Solar<p></p></div></td>
   <td><div>Weapon turns orange with bright orange particles orbiting it.</div></td>
 </tr>
 <tr>
@@ -585,23 +375,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Deal increased posture damage on your light attacks. Increases chip damage and damage on block break.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Stone can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Stone enchanted weapon from a chest.</p>Stone <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
+  <p>Stone can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Stone enchanted weapon from a chest.</p>
+  <p>Stone</p>
   <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:</li>
     <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 5 .<p></p></li>
-  </ul></div></div></td>
+  </ul></div></td>
   <td><div>Weapon turns brown and gains a stone texture.</div></td>
 </tr>
 <tr>
@@ -617,22 +395,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Shock your foes on hit every 5s. Rain will upgrade this shock into a lightning bolt called down from above.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Storm can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Storm enchanted weapon from a chest.</p>Storm <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Storm can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Storm enchanted weapon from a chest.</p>Storm<p></p></div></td>
   <td><div>Weapon takes on a purple hue, with the blade being more noticeable. Covered in swirly purple and thunder effects.</div></td>
 </tr>
 <tr>
@@ -646,22 +409,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Your attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Stormbreaker is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Stormbreaker <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Stormbreaker is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Stormbreaker<p></p></div></td>
   <td><div>Weapon glows a vibrant blue and is covered with the storm enchant effects with umbral blue bolts come off of the weapon.</div></td>
 </tr>
 <tr>
@@ -675,22 +423,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>On critical attacks and flourishes, produce homing bubble projectiles. 20s CD.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Tears of the Edenkite is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Tears of the Edenkite <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Tears of the Edenkite is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Tears of the Edenkite<p></p></div></td>
   <td><div>Weapon is covered in a sky blue and black aura as well as the player emits bubbles.</div></td>
 </tr>
 <tr>
@@ -703,22 +436,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>On hit, the Umbral Knight will strike your foes for 20% of your weapon's damage after a 0.25s delay. 5s CD.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Umbral Knight can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining an Umbral Knight enchanted weapon from a chest.</p>Umbral Knight <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Umbral Knight can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining an Umbral Knight enchanted weapon from a chest.</p>Umbral Knight<p></p></div></td>
   <td><div>Weapon is covered in a black &amp; light red aura, just like Grim. Weapon's metal parts glow arctic blue.<br>
   When sheathed, the particles are completely invisible.</div></td>
 </tr>
@@ -732,23 +450,11 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Your weapon attacks drain health from your foes and replenish your blood.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Vampirism can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Vampirism enchanted weapon from a chest.</p>Vampirism <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
+  <p>Vampirism can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Vampirism enchanted weapon from a chest.</p>
+  <p>Vampirism</p>
   <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:</li>
     <li>Sold in <a href="Traan_Zakshun.md">Traan Zakshun's</a> black market for 5 .<p></p></li>
-  </ul></div></div></td>
+  </ul></div></td>
   <td><div>Weapon glows pink and gives off a slight blood splatter particle effect.</div></td>
 </tr>
 <tr>
@@ -762,22 +468,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>On hit, deal 85% of your weapon's damage in an AoE. This AoE cannot hit allies or the enemy originally hit. Reduces your damage against allies by 50%.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Wild can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Wild enchanted weapon from a chest.</p>Wild <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Wild can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Wild enchanted weapon from a chest.</p>Wild<p></p></div></td>
   <td><div>Weapon is covered in a white mist.</div></td>
 </tr>
 <tr>
@@ -847,22 +538,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Deal +10% weapon damage and drain the blood of your foes, but suffer blood loss if your weapon attacks miss.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Curse of the Bloodthirsty can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a/an Curse of the Bloodthirsty enchanted weapon from a chest.</p>Curse of the Bloodthirsty <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Curse of the Bloodthirsty can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a/an Curse of the Bloodthirsty enchanted weapon from a chest.</p>Curse of the Bloodthirsty<p></p></div></td>
   <td><div>Weapon is completely red, surrounded by a red aura.</div></td>
 </tr>
 <tr>
@@ -882,22 +558,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Grants passive regen and damages the sanity of your foes, but succumb to the insanity much faster, lose twice as much blood, and never be more than a step away from death. The amount of healing scales with your weapon stat invested.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Curse of the No Life King can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Curse of the No Life King enchanted weapon from a chest.</p>Curse of the No Life King <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Curse of the No Life King can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Curse of the No Life King enchanted weapon from a chest.</p>Curse of the No Life King<p></p></div></td>
   <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
   When sheathed, the flame spikes are invisible. (Currently bugged as of 6/26/25)</div></td>
 </tr>
@@ -911,22 +572,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>When you block attacks, you knock your attacker backwards. You receive +30% chip damage.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Curse of Repulsion is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Curse of Repulsion <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Curse of Repulsion is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Curse of Repulsion<p></p></div></td>
   <td><div>Weapon is colored blue and has Vent-like electricity particles.</div></td>
 </tr>
 <tr>
@@ -942,22 +588,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Your critical attack is replaced with Unbidden Counter, restoring posture and stunning your attacker. Your attacks drain Ether on hit.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Curse of the Unbidden is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Curse of the Unbidden <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Curse of the Unbidden is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Curse of the Unbidden<p></p></div></td>
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
 </tr>
 <tr>
@@ -1014,22 +645,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><i>Has a chance to inflict a curse that deals percentage damage, but who it falls upon is often down to luck.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
-  <p>Curse of Yun'Shul can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Curse of Yun'Shul enchanted weapon from a chest.</p>Curse of Yun'Shul <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
-  <ul>
-    <li>Exchanging 5 to <a href="Klaris_Llfiend,_Mother_of_Lights.md">Klaris</a> (grants a random non-exclusive Enchant Stone)</li>
-    <li><a href="War_Mode.md">War Mode</a></li>
-    <li><a href="Hell_Mode.md">Hell Mode</a></li>
-    <li><a href="Scion_of_Ethiron.md">Scion of Ethiron</a></li>
-    <li><a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a></li>
-    <li><a href="Dread_Serpent.md">Dread Serpent</a></li>
-    <li><a href="Heart_of_Enmity.md">Heart of Enmity</a></li>
-    <li><a href="Chaser,_Scholar_of_the_Crimson_Contract.md">Chaser, Scholar of the Crimson Contract</a></li>
-    <li><a href="Saramaed_Hollow.md">Saramaed Hollow</a></li>
-    <li><a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="The_Diluvian_Mechanism.md">Diluvian Mechanism</a></li>
-    <li><a href="Galewax.md">Galewax</a> Room in the <a href="Second_Layer.md">Second Layer</a></li>
-    <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
-  </ul></div></div></td>
+  <p>Curse of Yun'Shul can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Curse of Yun'Shul enchanted weapon from a chest.</p>Curse of Yun'Shul<p></p></div></td>
   <td><div>Weapon is completely black and slightly transparent.</div></td>
 </tr>
 </tbody>
@@ -1147,15 +763,7 @@ _Pulls your attacker towards you._
 
 Adhesive can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining an Adhesive enchanted equipment from a chest.
 
-Adhesive [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Adhesive
 
  | 
 
@@ -1186,15 +794,7 @@ _Incoming hits may Charm your attacker for 10s._
 
 Allure can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining an Allure enchanted equipment from a chest.
 
-Allure [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Allure
 
  | 
 
@@ -1220,15 +820,7 @@ _Incoming hits may bounce your attacker away._
 
 Bounce can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining a Bounce enchanted equipment from a chest.
 
-Bounce [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Bounce
 
  | 
 
@@ -1257,15 +849,7 @@ _Incoming hits may proc Displacement, granting a speed boost and clearing all st
 
 Displacement can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining a Displacement enchanted equipment from a chest.
 
-Displacement [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Displacement
 
  | 
 
@@ -1298,15 +882,7 @@ _Bolster the stats of your equipment, adding an additional +10 Health, +10 Ether
 
 Drowned can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining a Drowned enchanted equipment from a chest.
 
-Drowned [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Drowned
 
  | 
 
@@ -1340,15 +916,7 @@ _Incoming hits may proc Entangled Defence, reducing youor speed in exchange for 
 
 Entanglement can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining an Entanglement enchanted equipment from a chest.
 
-Entanglement [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Entanglement
 
  | 
 
@@ -1378,15 +946,7 @@ _Incoming hits may proc a speed boost and deal reduced damage. Both the speed bo
 
 Ferocity can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining a Ferocity enchanted equipment from a chest.
 
-Ferocity [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Ferocity
 
  | 
 
@@ -1420,15 +980,7 @@ _Incoming hits may grant you a random boon of Recovery, Healing, or Agility. 5s 
 
 Multiplicity can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining a Multiplicity enchanted equipment from a chest.
 
-Multiplicity [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Multiplicity
 
  | 
 
@@ -1493,15 +1045,7 @@ _Incoming hits may produce a Stench Cloud, gradually draining 3% of their maximu
 
 Stench can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining a Stench enchanted equipment from a chest.
 
-Stench [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Stench
 
  | 
 
@@ -1530,15 +1074,7 @@ _Incoming damage is converted into damage over time and applied for 2.5s._
 
 Viscosity can be obtained from its [Enchant Grease](Enchant_Grease.md) or by obtaining a Viscosity enchanted equipment from a chest.
 
-Viscosity [Enchant Grease](Enchant_Grease.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Grease)
--   Exchanging 5 to [Laplace](Laplace.md) (grants a random non-exclusive Enchant Grease)
--   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [War Mode](War_Mode.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
+Viscosity
 
  | 
 

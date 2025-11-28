@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 176703
+revid: 177514
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]

@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 176750
+revid: 177537
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Layer 2]
@@ -17,7 +17,7 @@ categories: [Items, Relics, Layer 2]
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Purchasing from Klaris Llfiend for 5 , Deepshore Fossil, Saramaed Hollow, The Diluvian Mechanism, Second Layer, Maestro Evengarde Rest, Chaser, Heart of Enmity, Scion of Ethiron, War Mode, Hell Mode, Meteor Isle |
+| obtainment | Purchasing from Klaris Llfiend for 5 , Deepshore Fossil, Saramaed Hollow, The Diluvian Mechanism, Second Layer, Maestro Evengarde Rest, Chaser, Heart of Enmity, Scion of Ethiron, War Mode, Hell Mode |
 | description | A shard of enchantment, it can apply its given Enchant to your currently equipped weapon |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Black Divers division
-revid: 177491
+revid: 177533
 source: https://deepwoken.fandom.com/wiki/Black_Divers_division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, The Divers]
@@ -20,13 +20,13 @@ notices:
 
 **The Black Diver Division** are the highest rank of [the Divers](The_Divers.md). Formed in 57 CE, within [The Citadel of Markor](The_Citadel_of_Markor.md) as [the Citadel Divers](The_Divers.md)' seniority.[\[1\]](#cite-note-fathoms-1)
 
-While [the Citadel](The_Citadel_of_Markor.md) was actively recruiting, Black Diver agents would be sent on surface missions around the [Central Luminant](Luminants.md#central-luminant), with the goal of potentially finding a cave system that would physically connect to [the Depths](The_Depths.md).
+While [the Citadel](The_Citadel_of_Markor.md) was actively recruiting, Black Diver agents would be sent on surface missions around the [Central Luminant](Luminants.md#central-luminant), with the goal of potentially finding a cave system that would physically connect to [the Depths](The_Depths.md).[\[1\]](#cite-note-fathoms-1)
 
 In 1363 CE [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), a Black Diver, betrayed [the Divers](The_Divers.md), he sided with [the Ministry](The_Ministry.md) and killed all divers, participating in the expedition to the [Second Layer](Second_Layer.md).
 
 ## Members
 
-**[Deukalion Akarad](Deukalion_Akarad.md)**: A member of [the Divers](The_Divers.md), active shortly after its founding. Akarad was the first leader of the Black Divers and was known to Diver recruits as "father Diver". Akarad was among those who perished during the first Depths expedition of [the Divers](The_Divers.md), though his notes were able to reach [the Surface](Surface.md).
+**[Deukalion Akarad](Deukalion_Akarad.md)**: A member of [the Divers](The_Divers.md), active shortly after its founding. Akarad was the first leader of the Black Divers and was known to Diver recruits as "father Diver". Akarad was among those who perished during the first Depths expedition of [the Divers](The_Divers.md), though his notes were able to reach [the Surface](Surface.md).[\[1\]](#cite-note-fathoms-1)
 
 **[Akira](Akira.md):** An [Etrean](Etrean.md) with the rank of Black Diver. He has been a part of the organization for almost 10 years now. He wields a katana and possess a [Resonance](Resonance.md) in the form of a bell, granting him the ability to explode the heads of his foes. This bell is corrupted, with every use taking from his lifespan. The time taken, if it even drains in time, rather than from a pool of his lifeforce, scales on the strength of those it is used on, allowing him to use it on lots of weak enemies with little consequences. He can be found in [the Depths](The_Depths.md) by a tree and a ruined building, reading his book. He will be interrupted by a group of Ignition Union workers, whom he disposes of with relative ease using his Resonance. The player can talk to him and, with the right dialogue options, be allowed to join [The Divers](The_Divers.md) [Guild](Guilds.md) and unlock the [Deepbound](Deepbound.md) [Origin](Origins.md) if they can reach him at [Castle Light](Castle_Light.md).
 
@@ -40,7 +40,7 @@ In 1363 CE [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), a Black Diver, 
 
 ## References
 
-1.  [↑](#cite-ref-fathoms-1-0) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
+1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
 2.  [↑](#cite-ref-2) [Diver Journal, I](Diver_Journal,_I.md)
 3.  [↑](#cite-ref-3) [Diver Journal, II](Diver_Journal,_II.md)
 4.  [↑](#cite-ref-4) [Diver Journal, III](Diver_Journal,_III.md)

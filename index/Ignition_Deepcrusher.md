@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 177089
+revid: 177508
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -43,9 +43,11 @@ The weapon also changes colors when the player owns the [Gilded Path: Scrapsinge
 
 ## Critical
 
-The user stabs their weapon into the floor, causing a metal eruption of spikes to surround the player. Both the plunge and spike eruption deal damage and apply hitstun. If the plunge is parried, no autoparry frames will be given for the spike eruption, and the eruption will not be cancelled.
+The user plunges the Deepcrusher into the ground, causing an eruption of metal spikes surrounding the player in a hexagonal formation. Both the plunge and spike eruption deal damage and apply hitstun. If the plunge is parried, no autoparry frames will be given for the spike eruption, and the eruption will not be cancelled.
 
 The first hit has a base damage of 20 with 5 Ironsing scaling, dealing pure Ironsing damage. Additionally, it has a windup of 0.55s. The second hit has a base damage of 25 with 5 Ironsing scaling, dealing pure Slash damage. Additionally it has a windup of 0.4s. Both hits have innate [Bleed](Status_Effects.md#bleed) regardless of your weapon stance.
+
+The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 

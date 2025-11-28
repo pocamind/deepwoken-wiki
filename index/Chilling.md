@@ -1,12 +1,38 @@
 ---
 title: Chilling
-revid: 137449
+revid: 177551
 source: https://deepwoken.fandom.com/wiki/Chilling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Weapon Enchantments]
 ---
 
 # Chilling
 
-Redirect to:
+| Chilling | |
+|---|---|
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Finding a Chilling enchanted weapon in a chest, LaplaceEnchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
+| description | Chill for foes. Applies Bottom Freeze once enough stacks have been applied. |
 
--   [Enchantments#Chilling](Enchantments.md#chilling)
+## Description
+
+Chilling is a damage dealing enchantment that applies chill and Bottom Freeze to your opponent.
+
+This enchantment changes your weapon's color to a light blue and with a light blue mist. Chilling's colors change depending on your [Frostdraw](Frostdraw.md) color, turning pink if you have [Glass Path: Crystallization](Talents.md#glass-path-crystallization).
+
+## Effect
+
+After landing enough M1s, Chilling applies [chill](Status_Effects.md#chill) and Bottom Freeze to your opponent. If you have Crystallization Path, this enchantment will apply 1 Crystal when you reach its hit count instead.
+
+Additionally, your M1s gain a secondary damage instance that deals 4% of your weapon's **scaled** damage as Frostdraw damage.
+
+The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons.
+
+### Notes
+
+-   Chilling's secondary damage instance cannot be buffed.
+-   Chilling's effects can be procced on weapon criticals if they have the M1 tag.
+-   Because Chilling's secondary damage instance deals Frostdraw damage, you can use this enchantment to trick [Everchanging Aegis](Talents.md#everchanging-aegis) to change its resistance to Frostdraw resistance.

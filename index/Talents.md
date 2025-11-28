@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 177502
+revid: 177523
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1444,6 +1444,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The lightning strikes deal 5 typeless damage without applying Surge stacks. They have a 1.08x PvE scaling, dealing 5.4 PvE damage.
     -   The lightning strikes have a cooldown of 4 seconds.
     -   The double Crystal application buff does not stack with successive Fulgurite Formation procs.
+    -   The lightning strikes proc Grounding Bolt.
     -   Prerequisites: Glass Path: Crystallization, Surge Path: Unstable Capacitor, 50 Frostdraw, 50 Thundercall
 
 ### Frostthorn
@@ -2151,6 +2152,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Lichtenberg
 
 -   Scorched Peak \[Common Talent, Dual Attunement\] - Blockbreaking an enemy on fire or with a fire mantra causes them to be struck by lightning.
+    -   "On fire" means currently [burning](Status_Effects.md#burn).
+    -   Deals 10 Thundercall damage.
+    -   Procs Grounding Bolt.
     -   Prerequisites: 50 Thundercall, 25 Flamecharm
 
 ### Limitbreaker
@@ -2591,6 +2595,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Raging Bull
 
 -   _Bulldozer_ \[Rare Talent\] - Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
+    -   This has a 50% chance to break destructible objects when you flourish people into them.
     -   Prerequisite: 25 Strength
     -   Mutual Exclusives: Dazing Finisher
 
@@ -4404,6 +4409,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
     -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
     -   Stormcall Shock deals 15 Gale and Thunder damage, applies Shock for 1 second or 1 Surge Rod, and winded for 2 seconds upon casting any Mantra.
+    -   These storm strikes proc Grounding Bolt.
 
 -   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your mantras with [might gem](Might_Gem.md) now slow down your opponents, scaling with how many combat tags you currently have.
 
@@ -4499,6 +4505,7 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   The Storm Strikes deal 40 Thundercall damage with no investment scaling.
     -   Shock Trooper Specialist has no cooldown, proccing on almost every hit in PvE due to the PvE damage multipliers. However, this only has 1.08x PvE scaling.
     -   Additionally, this turns your [Electro Carve](Thundercall.md#electro-carve), [Grand Javelin](Thundercall.md#grand-javelin), and [Thunder Kick](Thundercall.md#thunder-kick) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will gain a 15% damage buff to their base damage (not a damage modifier) as well.
+    -   The storm strikes proc Grounding Bolt.
     -   Set: [Specialist Helmet](Specialist_Helmet.md), [Specialist Plate](Specialist_Plate.md), [Specialist Boots](Specialist_Boots.md)
 
 ## Blacklisted Talents
