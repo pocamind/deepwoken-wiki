@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Sorcerer
-revid: 175381
+revid: 177671
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]

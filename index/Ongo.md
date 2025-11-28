@@ -1,6 +1,6 @@
 ---
 title: Ongo
-revid: 175583
+revid: 177667
 source: https://deepwoken.fandom.com/wiki/Ongo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Harvestables, Food Ingredients]

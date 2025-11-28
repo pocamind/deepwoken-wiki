@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 175089
+revid: 177627
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]

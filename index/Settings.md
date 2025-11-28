@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 172069
+revid: 177703
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

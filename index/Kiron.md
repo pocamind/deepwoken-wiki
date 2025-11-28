@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 174735
+revid: 177633
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Kiron
 
-Template:Races-Main
+| Kiron | |
+|---|---|
+| obtained_by | 4% Roll Chance |
+| appearance | Orange, dark tan, cream, tan, white, off-white, or red skin color, Orange, purple, yellow, dark orange, lavender, off-white, pink, or red eye color, Light brown, grey, pink, light purple, off-white, coral pink, or black hair color, Large bat-like ears, Facial markings |
+| traits | Echolocator, +3 Agility, +2 Intelligence |
 
 "_Once isolated in the subterranean caverns that straddle the boundary, the bat-like Kirons are perceptive and shrewd spelunkers..._"
 

@@ -1,6 +1,6 @@
 ---
 title: Pete
-revid: 167748
+revid: 177673
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]

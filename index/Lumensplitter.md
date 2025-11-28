@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 173440
+revid: 177643
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons, "Weapons with Multi-Hit Criticals"]

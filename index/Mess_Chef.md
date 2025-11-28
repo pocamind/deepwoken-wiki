@@ -1,6 +1,6 @@
 ---
 title: Mess Chef
-revid: 166746
+revid: 177650
 source: https://deepwoken.fandom.com/wiki/Mess_Chef
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Guild Base, Vendors]

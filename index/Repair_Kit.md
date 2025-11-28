@@ -1,6 +1,6 @@
 ---
 title: Repair Kit
-revid: 166156
+revid: 177690
 source: https://deepwoken.fandom.com/wiki/Repair_Kit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]

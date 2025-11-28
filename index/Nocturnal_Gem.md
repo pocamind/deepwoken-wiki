@@ -1,6 +1,6 @@
 ---
 title: Nocturnal Gem
-revid: 176178
+revid: 177664
 source: https://deepwoken.fandom.com/wiki/Nocturnal_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Treasures, Mantras, Deep Gems, Event Item, Hallowtide, Relics]

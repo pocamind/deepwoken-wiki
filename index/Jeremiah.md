@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 177504
+revid: 177620
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]

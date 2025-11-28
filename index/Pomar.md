@@ -1,6 +1,6 @@
 ---
 title: Pomar
-revid: 175575
+revid: 177678
 source: https://deepwoken.fandom.com/wiki/Pomar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Harvestables, Food Ingredients]

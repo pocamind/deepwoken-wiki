@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 176663
+revid: 177716
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]

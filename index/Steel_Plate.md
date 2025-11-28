@@ -1,6 +1,6 @@
 ---
 title: Steel Plate
-revid: 176079
+revid: 177708
 source: https://deepwoken.fandom.com/wiki/Steel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]

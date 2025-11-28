@@ -1,6 +1,6 @@
 ---
 title: Saffron
-revid: 166350
+revid: 177693
 source: https://deepwoken.fandom.com/wiki/Saffron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs]

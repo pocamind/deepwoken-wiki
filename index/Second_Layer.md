@@ -1,6 +1,6 @@
 ---
 title: Second Layer
-revid: 159542
+revid: 177699
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Map, The Depths, Layer 2]
@@ -11,8 +11,6 @@ categories: [Locations, Map, The Depths, Layer 2]
 LocationL The Eternal Gale LocationR
 
 The harsh winds seem to seep beneath your skin.
-
-  
 
   
 

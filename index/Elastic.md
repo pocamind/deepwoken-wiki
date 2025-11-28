@@ -1,6 +1,6 @@
 ---
 title: Elastic
-revid: 177564
+revid: 177591
 source: https://deepwoken.fandom.com/wiki/Elastic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

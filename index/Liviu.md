@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 174307
+revid: 177642
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Hive]

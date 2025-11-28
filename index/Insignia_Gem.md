@@ -1,6 +1,6 @@
 ---
 title: Insignia Gem
-revid: 176180
+revid: 177619
 source: https://deepwoken.fandom.com/wiki/Insignia_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]

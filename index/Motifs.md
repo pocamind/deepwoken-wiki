@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 164934
+revid: 177659
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]

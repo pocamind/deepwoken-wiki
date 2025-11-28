@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 163359
+revid: 177630
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -8,7 +8,11 @@ categories: [Pages with broken file links, Aspects]
 
 # Khan
 
-Template:Races-Main
+| Khan | |
+|---|---|
+| obtained_by | 7.5% Roll Chance |
+| appearance | Pale Skin, Golden/White/Black Hair and Facial Hair, Silver/Golden Crown with Different Designs, Red/Blue/Yellow/Purple Eyes |
+| traits | Versatile , +3 Strength, +2 Agility, Increased reputation with The Hundred Legions |
 
 _Brimming with pride yet attentive to the finer details. Known as steadfast warriors and mercenaries the world over._
 

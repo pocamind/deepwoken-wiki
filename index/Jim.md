@@ -1,6 +1,6 @@
 ---
 title: Jim
-revid: 171770
+revid: 177622
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]

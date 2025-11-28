@@ -1,6 +1,6 @@
 ---
 title: Songwright
-revid: 176877
+revid: 177707
 source: https://deepwoken.fandom.com/wiki/Songwright
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, NPCs located in the Guild Base, Attunement Trainers]

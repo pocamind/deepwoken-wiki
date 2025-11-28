@@ -1,6 +1,6 @@
 ---
 title: Adretian Empire
-revid: 174379
+revid: 177744
 source: https://deepwoken.fandom.com/wiki/Adretian_Empire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -9,5 +9,10 @@ notices:
 ---
 
 # Adretian Empire
+
+| Adretian Empire | |
+|---|---|
+| leader | King |
+| territory | Central Luminant |
 
 
