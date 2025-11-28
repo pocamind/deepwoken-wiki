@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 173651
+revid: 177479
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Map, Dungeons]
@@ -25,6 +25,14 @@ Below the first floor lies the [Sleeping City](New_Kyrsa.md), more detail can be
 Unlike other dungeons, the Second Layer has multiple different methods to access it, while more in-depth on the [Second Layer](../Second_Layer.md) page, it can be accessed via either jumping into a void while above 50% Health (75% in Player Combat), by taking the Ignition Union’s deepdriller from the Chariot’s Spire, dying in depths to a player with the contractor Oath while having an Oath or by talking to [Klaris Llfiend, Mother of Lights](../Klaris_Llfiend,_Mother_of_Lights.md) while above Power 15.
 
 Going into the dungeon via Klaris will provide a safe-guard in the form of a [Light-hook](../Light_Hook.md), which will safely eject you back into Layer 1 if you die within the duration of the lighthook.
+
+## Points of Interest
+
+-   [Pilgrim's Respite](<../Pilgrim's_Respite.md>)
+-   [The Frontier Furnace](../The_Frontier_Furnace.md)
+-   [Firfire](../Firfire.md)
+-   [Firfire Caverns](../Firfire_Caverns.md)
+-   [Cathedral of Ethiron](../Cathedral_of_Ethiron.md)
 
 ## Objectives
 
@@ -59,7 +67,7 @@ To do this repeat the same steps as the Main method up to 3
 
 Upon exiting the outskirts and entering the shrine, the first thing noticed will be the thick fog around the player. While this can be negated [later](../Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md), it proves **no threat** aside from inhibiting the players vision within the shrine. There is no fog after exiting the Firfire cavern and approaching the Cathedral.
 
--   The fog may be **heavily reduced** by obtaining the **Ethiron's Gaze** Talent from the main questline.
+-   The fog can be **heavily reduced** by obtaining the **Ethiron's Gaze** Talent from the main questline.
 
 ### Parasites
 
@@ -69,7 +77,7 @@ The Parasites function as a **passive time limit** for the player, accumulating 
 
 Though, these are reducible via the following means.
 
--   [Flame Wisp](../Flamecharm.md#flame-wisp): +1 minute(needs further testing.)
+-   [Flame Wisp](../Flamecharm.md#flame-wisp): +1 minute (needs further testing.)
 -   [Winter Corps Parka](../Winter_Corps_Parka.md): +1.5 minutes.
 -   [Survivalist](../Boons_and_Flaws.md#survivalist) Boon: +1.5 minutes.
 -   [Wormwarder Lantern](../Wormwarder_Lantern.md): Negates parasites, movement speed penalty.
@@ -80,25 +88,13 @@ Otherwise, in order to remove your parasites, you must interact with an [Ignitio
 
 However, it is important to be warned of **parasite pools**, which **heavily accelerate** parasite gain by **5x**.
 
-[Insanity](../Insanity.md) also influences parasite gain, so if you go into a parasite pool with Heretic's Sutra used, you better get out quickly.
+[Insanity](../Insanity.md) also influences parasite gain, so if you go into a parasite pool after having used [Heretic's Sutra](../Talents.md#heretics-sutra), you better get out quickly.
 
 ### Wind
 
-Upon exiting the shrine, the player is greeted by a strong gust of wind attempting to push them off, and in order to not get knocked off, the player must move towards the wind. If the player does not fight against the wind, they will instead be thrown off with an un-cancellable ragdoll and a great knockback, either knocking them into the snow filled floor of the shrine, or directly into a void.
+Upon exiting the shrine, the player is greeted by a strong gust of wind attempting to push them off, and in order to not get knocked off, the player must move towards the wind. If the player does not fight against the wind, they will instead be thrown off with an un-cancellable ragdoll and a great knockback, either knocking them into the snow filled floor of the shrine, or directly into a void. **It's important to note: you do not have to be facing the wind to combat it, but you can if you wanna play it safe.**
 
--   It may be negated via wearing the [Delver Boots](../Delver_Boots.md) or having the Brickwall talent.
-
-## Enemies
-
-**Enemies**
-
-## Points of Interest
-
--   [Pilgrim's Respite](<../Pilgrim's_Respite.md>)
--   [The Frontier Furnace](../The_Frontier_Furnace.md)
--   [Firfire](../Firfire.md)
--   [Firfire Caverns](../Firfire_Caverns.md)
--   [Cathedral of Ethiron](../Cathedral_of_Ethiron.md)
+-   It may be negated via wearing the [Delver Boots](../Delver_Boots.md) or having the [Brick Wall](../Talents.md#brick-wall) talent.
 
 ## Leaving the Second Layer
 
@@ -124,7 +120,7 @@ There are three different methods to escape the second layer, however all of whi
 -   Instead of going down into [New Kyrsa, The Sleeping City](New_Kyrsa.md), take the giant lighthook out.
 -   You **keep** all the loot gained.
 
-## Recommended Talents & Equipments
+## Recommended Talents & Equipment
 
 Do note that this list is assuming that it is your **first few** delves within the Eternal Gale, as you get more experienced you may find yourself needing these Talents less.
 

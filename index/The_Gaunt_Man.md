@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 174520
+revid: 177505
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, NPCs, Vendors]
@@ -15,7 +15,7 @@ categories: [Krulian NPCs, NPCs, Vendors]
 
 ## Description
 
-The Gaunt Man is a tall and pale Krulian NPC that resides in [The Depths](The_Depths.md) that gives access to some endgame content and items.
+The Gaunt Man is a slender and pale Krulian NPC that resides in [The Depths](The_Depths.md) that gives access to some endgame content and items.
 
 The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that contains 3 dangerous mobs the player will be tasked with fighting; [Fury Nautilodaunt](Fury_Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), and [Parliament](Parliament.md). Upon completing this experiment, the Gaunt Man will grant you access to his shop, containing exclusive enchants and even an exclusive Deep Gem.
 

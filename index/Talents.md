@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 177331
+revid: 177502
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -468,7 +468,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   The Equipment "[Providence Coat](Providence_Coat.md)" has this Talent.
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   The user's movement speed while blocking is less reduced, allowing faster movement.
+    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - When you're knocked down, you get back up again more quickly. (+5 Sanity)

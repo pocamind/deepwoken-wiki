@@ -1,6 +1,6 @@
 ---
 title: "Destroyman III, Bon Vivant Adventurer"
-revid: 176999
+revid: 177506
 source: https://deepwoken.fandom.com/wiki/Destroyman_III%2C_Bon_Vivant_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant]
@@ -16,7 +16,7 @@ categories: [NPCs, NPCs located in the Eastern Luminant]
 
 ## Description
 
-Destroyman III, Bon Vivant Adventurer is "mischievous wayward" traveler based of off [Destroyman III](Destroyman_III.md).
+Destroyman III, Bon Vivant Adventurer is a "mischievous wayward traveller" based of off [Destroyman III](Destroyman_III.md).
 
 ## Location
 

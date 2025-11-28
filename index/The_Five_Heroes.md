@@ -1,9 +1,9 @@
 ---
 title: The Five Heroes
-revid: 177211
+revid: 177482
 source: https://deepwoken.fandom.com/wiki/The_Five_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Lore, The Five Heroes, Dissolved organizations, Oath Trainer]
+categories: [Stub pages without reason, StubPages, Lore, The Five Heroes, Dissolved organizations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -31,7 +31,7 @@ At some point of their lives, they all bound their souls to their [Hero Blades](
 
 **[Trinity Galenwarde, The Hero of Wind](Trinity_Galenwarde.md):** A [Tiran](Tiran.md), who wielded [Galebreathe](Galebreathe.md) and the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>). Her soul is sealed in the **[Galebreathe Obelisk](Galebreathe_Obelisk.md)**, located in the [Burning Stone Gardens](Burning_Stone_Gardens.md).[\[1\]](#cite-note-obelisks-1)
 
-**[Tessa, The Hero of Lightning](Tessa.md):** An [Adret](Adret.md), who wielded [Thundercall](Thundercall.md) and the [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). Her soul is sealed in the **[Thundercall Obelisk](Thundercall_Obelisk.md)**, located on the [Boatman's Watch](<Boatman's_Watch.md>).[\[1\]](#cite-note-obelisks-1) At some point of her life, she fell in battle and was forever immortalized in her obelisk.[\[2\]](#cite-note-tweet-2)
+**[Tessa, The Hero of Lightning](Tessa.md):** An [Adret](Adret.md), who wielded [Thundercall](Thundercall.md) and the [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). Her soul is sealed in the **[Thundercall Obelisk](Thundercall_Obelisk.md)**, located on the [Boatman's Watch](<Boatman's_Watch.md>).[\[1\]](#cite-note-obelisks-1) At some point of her life, she fell in battle and was forever immortalized in her [obelisk](Thundercall_Obelisk.md).[\[2\]](#cite-note-tweet-2)
 
 ## References
 
