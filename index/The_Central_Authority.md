@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 177743
+revid: 177748
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -14,6 +14,7 @@ categories: [Factions, The Central Authority]
 | subunits | Bureau of Research |
 | territory | Central Luminant, Fort Merit, Port Merit, Merit's Reach |
 | goals | Conquest of all Luminants, Destruction of the Ministry and its agents. |
+| founded | 65 BCE |
 
 “ Three cheers for the cause! ”
 

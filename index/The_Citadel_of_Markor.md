@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 175167
+revid: 177754
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -12,10 +12,11 @@ notices:
 
 | The Citadel of Markor | |
 |---|---|
-| leader | The High Convocation |
+| leader | The High Convocation[1] |
 | subunits | The Citadel Divers[1], The Pioneers (formerly)[1], Black Divers division[1], Memorial Masons[1] |
 | territory | Markor[2] |
 | goals | Learning about the Lumen and the Depths., Overcoming the Depths and stopping the Voidsea from consuming all of the Surface. |
+| founded | 1 CE[1] |
 
 ## Description
 
@@ -45,7 +46,7 @@ In 108 CE, a fire broke out in the Citadel's archives, destroying some of their 
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [1.3](#cite-ref-fathoms-1-3) [1.4](#cite-ref-fathoms-1-4) [1.5](#cite-ref-fathoms-1-5) [1.6](#cite-ref-fathoms-1-6) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
+1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [1.3](#cite-ref-fathoms-1-3) [1.4](#cite-ref-fathoms-1-4) [1.5](#cite-ref-fathoms-1-5) [1.6](#cite-ref-fathoms-1-6) [1.7](#cite-ref-fathoms-1-7) [1.8](#cite-ref-fathoms-1-8) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
 2.  [↑](#cite-ref-2) [Karliah](Karliah.md)
 3.  ↑ [3.0](#cite-ref-glossresurge-3-0) [3.1](#cite-ref-glossresurge-3-1) [Glossary](Glossary.md): [The Resurgence](Glossary.md#the-resurgence)
 4.  ↑ [4.0](#cite-ref-glosscitadel-4-0) [4.1](#cite-ref-glosscitadel-4-1) [Glossary](Glossary.md): [The Citadel of Markor](Glossary.md#the-citadel-of-markor)

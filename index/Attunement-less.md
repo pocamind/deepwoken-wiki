@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 176120
+revid: 177763
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1944,6 +1944,7 @@ Slash (1st Hit), Blunt (Kicks)
 -   Ragdolls and flings opponent away.
 -   Contrary to what's shown in the gif, the wind-up before the first hit does **not** have hyperarmor.
 -   The great axe, Iron Birch, has a talent named expeditious combo regarding this mantra where it will come out faster after an uppercut.
+-   Does proc Soaring Storm
 
  |
 | 

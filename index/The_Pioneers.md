@@ -1,6 +1,6 @@
 ---
 title: The Pioneers
-revid: 177411
+revid: 177746
 source: https://deepwoken.fandom.com/wiki/The_Pioneers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Citadel of Markor, The Divers, Dissolved organizations]
@@ -12,6 +12,7 @@ categories: [The Citadel of Markor, The Divers, Dissolved organizations]
 |---|---|
 | leader | Deukalion Akarad |
 | goals | Learn more about the nature of the Depths and come back to the Citadel of Markor. |
+| dissolved | 59 CE |
 
 ## Description
 

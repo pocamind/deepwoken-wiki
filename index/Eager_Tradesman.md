@@ -1,6 +1,6 @@
 ---
 title: Eager Tradesman
-revid: 177009
+revid: 177771
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Outfits, Starter Outfits]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Outfits, Starter Outfits]
 | durability | 1000 |
 | resistances | +10% Physical Armor, +5% Elemental Armor |
 | talents | Knack |
-| obtainment | Sold from:Traan Zakshun in Lower Erisia for 200 , Chests from:, First Layer, Fishing, Moon's Eyrie, Primadon, Sea Events |
+| obtainment | Sold from:Traan Zakshun in Lower Erisia for 200 , Chests from:, First Layer, Fishing, Moon's Eyrie, Primadon, Sea Events, Erisia |
 | selling_price | 10 |
 | weight | 1 |
 

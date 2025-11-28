@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 176929
+revid: 177773
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -70,7 +70,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 #### Unstorable Items:
 
--   Unique [Outfit Schematics](Outfits.md)
+-   Unique [Outfit Schematics](Outfits.md) (except for [Heretic's Memento](<Heretic's_Memento.md>))
 -   [Kyrsan Medallions](Kyrsan_Medallions.md) (Itemized)
 -   [Ardour Manifestation](Ardour_Manifestation.md)
 -   [Void Feathers](Dark_Feather.md#void-feather) (Craft it into 3 [Dark Feathers](Dark_Feather.md) then bank it instead)

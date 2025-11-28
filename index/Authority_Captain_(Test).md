@@ -1,9 +1,9 @@
 ---
 title: Authority Captain (Test)
-revid: 177155
+revid: 177769
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, The Central Authority, Central Authority Enemies, Enemies]
+categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, Central Authority Enemies, Enemies]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
   - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
