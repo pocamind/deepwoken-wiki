@@ -1,6 +1,6 @@
 ---
 title: Marram Grass
-revid: 171630
+revid: 178020
 source: https://deepwoken.fandom.com/wiki/Marram_Grass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables, Ingredients, Alchemy]

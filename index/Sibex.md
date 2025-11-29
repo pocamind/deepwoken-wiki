@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 175825
+revid: 178023
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -29,7 +29,7 @@ Sibex now resides on a cliff in [the Starswept Valley](The_Starswept_Valley.md) 
 -   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
 -   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
--   **Inspired [Regalia](Regalia.md):** "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."
+-   ~**Inspired [Regalia](Regalia.md):** "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."~ (Requires further testing.)
 -   **Resonance Obtained:** "Well look at you, my friend! You're practically beaming with the Song!"
 -   **Arena, Bosses and Depths**: "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
 

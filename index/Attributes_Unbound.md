@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 171854
+revid: 178026
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -47,23 +47,27 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 1.  Reach 75 Intelligence.
 2.  Enter [The Garden Reservoir](The_Garden_Reservoir.md) and obtain a [Soul Hearthgem](Soul_Hearthgem.md). They are located in the middle of the Garden Reservoir in a ruined building near a golem turret.
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brazier with the Soul Hearthgem in the following sequence: Left, Back, Front, Right.
-4.  Take the nearby Zipline and keep going straight to find a hole in a ruin.
+4.  Then go to the cave next to the bandit camp back in lower and take the top path to the left
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps.
-6.  Go back to [The Birdcage](The_Birdcage.md) and eat 1 Bluecap. If the requirements are met, you will black out and wake up, obtaining Intelligence Unbound
+6.  Lastly, eat a bluecap IN THE SAME SERVER AS YOU LIT THE BRAZIERS
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=9ggkapSThhk)._
 
-For an updated visual guide after the 10/18/202
+Note: the Req for the quest is just to light the braziers in the right order then eat a bluecap you don't have to eat the bluecap at birdcage althought that is
+
+what the visual guide shows only because he needed to light the braziers
 
 ### Willpower Unbound
 
 1.  Reach 75 Willpower.
-2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md).
+2.  Find [Akira](Akira.md) in [The Depths](The_Depths.md). (spawns near a certain edge of the map and is not random)
 3.  Take his dialogue option "Wait, I'm not with them." then meet him at [Castle Light](Castle_Light.md).
 4.  If you aren't [Deepbound](Deepbound.md), make sure that you entered The Depths through a Whirlpool to enter [Castle Light](Castle_Light.md) and that you do not have the [Vacant](Boons_and_Flaws.md#flaws) Flaw.
 5.  Talk to Akira; you will get Willpower Unbounded as soon as you begin speaking with him. You do not have to join [The Divers](The_Divers.md) to unbound Willpower.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=VOE_UOd9ivs)._
+
+Note: this is also how you get the deepbound origin
 
 ### Charisma Unbound
 

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 174229
+revid: 178037
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -70,12 +70,12 @@ While not required, things listed below can prove to make your experience much e
 -   _**[Force Your Way](Ignition_Deepdelver.md):**_ In Diluvian Mechanism, opponents such as Rogue Constructs, Megalodaunts, Stone Knights, and Crustaceous Rex will appear with attacks that cannot be parried. However, with the Force Your Way talent (gained from the Ignition Deepdelver armor), you can parry all moves--including those that could not be previously parried--at the cost of some armor durability.
 -   _**[Tidekeeper](Celtorian_Tideknight.md):**_ If you lose 25% of your HP in 3 seconds while having the Celtorian Tideknight armor, you can avoid being knocked for 10 seconds and you gain a 15% damage and 20% defense buff. This will allow you to rush through mobs without (that much) worry.
 -   _**[Ardour Scream](Murmur%253A_Ardour.md):**_ It's an essential talent when dealing as much damage as possible. Ardour Scream will cause all victims to take 25% more damage and lose 50% of their total posture, leaving them vulnerable to guard breaks.
--   _**[Evanspear Hand Axe](Evanspear_Greataxe.md):**_ Evanspear Hand Axe is one of the best PVE weapon in the game with it dealing 25 base damage + 7.8 bleed.
--   _**[Enforcer's Axe/Hammer](<Enforcer's_Axe.md>):**_ Like Evanspear Hand Axe, Enforcer's Axe/Hammer is also one of the best weapons for Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
--   [_**Pale Briar**_](Pale_Briar.md): Out of all the weapons The Pale Briar is the best choice for Diluvian, the critical being an AoE attack can deal with crowds of mobs, easily out damage Enforcer Axe and Evanspear Hand Axe.
+-   _**[Evanspear Greataxe](Evanspear_Greataxe.md):**_ Evanspear Greataxe is one of the best PVE weapon in the game with it dealing 24 base damage + 3.6 bleed.
+-   _**[Enforcer's Axe/Hammer](<Enforcer's_Axe.md>):**_ Like Evanspear Greataxe, Enforcer's Axe/Hammer is also one of the best weapons for Diluvian Mechanism, as the critical does multiple hits and does a lot of damage, the Hammer also does blunt damage, which kills the Sand/Blizzard Knights faster.
+-   [_**Pale Briar**_](Pale_Briar.md): Out of all the weapons The Pale Briar is the best choice for Diluvian, the critical being an AoE attack can deal with crowds of mobs, easily out damage Enforcer Axe and Evanspear Greataxe.
 -   [_**Wild Enchant**_](Enchantments.md): The Wild enchant gives the weapon deal 85% of your scaled damage in an AoE when you hit an enemy, best paired with The Pale Briar. The reason as to why this is recommended is that you essentially gain 85% more damage per extra enemy you're hitting, and in some places like the Diluvian Mechanism, where dozens of mobs can be grouped together, Wild with a Pale Briar critical will just do heavy damage. (185% if hitting 2 at same time, 270% if hitting 3 at same time, etc.)
 -   **_[Astral Enchant](Enchantments.md):_** The Astral enchant gives the player's weapon 20% more damage in all PVE situations. Its new critical effect summons a projectile that does 100 AoE damage in PVE.
--   _**[Providence's Thorns](Enchantments.md)**_: You'll be parrying a lot of enemies whilst inside of Diluvian Mechanism, so having a heavy weapon such as the Evanspear Hand Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds. Recommended for mage builds with no weapon investment.
+-   _**[Providence's Thorns](Enchantments.md)**_: You'll be parrying a lot of enemies whilst inside of Diluvian Mechanism, so having a heavy weapon such as the Evanspear Greataxe Axe enchanted with Providence Thorns will come in handy if you grow desperate to kill enemies at faster speeds. Recommended for mage builds with no weapon investment.
 -   _**Teammates:**_ Strength in numbers. If you can, always bring along a friend or two to help you. Having teammates allows you to kill enemies faster, heal and support each other, and progress together.
 
 ## Loot
