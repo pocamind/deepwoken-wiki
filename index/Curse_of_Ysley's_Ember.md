@@ -1,12 +1,44 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 156556
+revid: 177973
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 ---
 
 # Curse of Ysley's Ember
 
-Redirect to:
+| Curse of Ysley's Ember | |
+|---|---|
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Starswept Valley, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 8 , Hive Construct (direct drop), Rogue Construct (direct drop), Hive Artifacts |
+| description | Once enough stacks have been applied, the Fire of Life geminates. The explosion deals a random amount of damage and grants temporary health to the affected targets. |
 
--   [Enchantments#Curses](Enchantments.md#curses)
+## Description
+
+Curse of Ysley's Ember is an RNG-based curse enchantment that applies burn on proc.
+
+This enchantment changes your weapon's color to a glowing green and surrounds it with glowing green electricity.
+
+## Effect
+
+After landing enough hits, Curse of Ysley's Ember causes an explosion and applies a green [burn](Status_Effects.md#burn) effect.
+
+The explosion deals a random amount of damage, between 0 and 33. This deals typeless damage, ignoring armor resistances.
+
+The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons.
+
+### Curse
+
+On proc, your opponent is given a random amount of [Temporary Health](Status_Effects.md#temporary-health), between 0 and 50. Temporary Health given is always whole numbers.
+
+Unlike all other sources of Temporary Health, the Temporary Health given from this Enchantment cannot be nullified through anti-heal.
+
+### Notes
+
+-   Mechanically, the burn is completely identical to base burn, with the only difference being its color.
+-   Critical attacks only grant 1 stack maximum, regardless of how many hits they have, similar to [Detonation](Detonation.md).
+-   This enchantment is very good for PvE, as the explosion has 7.65x PvE scaling and the Temporary Health does not have PvE scaling.

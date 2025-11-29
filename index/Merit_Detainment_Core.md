@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 177649
+revid: 177985
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -191,3 +191,4 @@ When deactivating any of the systems with the corresponding keys, the messages f
 -   After disabling the security system, taunt (spit) is replaced with a cannon whistle used by the Authority guards. This allows the player to utilize the artillery to shoot cannonballs at their cursors.
 -   After defeating [Titus](Titus_Fulminus_Destellus.md), a special crafting bench can be accessed to create exclusive items such as the [Specialist Plate](Specialist_Plate.md) and [Reinforced War Helmet](Reinforced_War_Helmet.md).
 -   You can search the bookshelves in the 2nd room after breaking the bars. A great way to grind lore and song books.
+-   Fishing in dungeon gives you normal eastern loot.

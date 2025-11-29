@@ -1,9 +1,9 @@
 ---
 title: Enchantments
-revid: 177527
+revid: 177979
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics, Weapons]
+categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
 ---
 
 # Enchantments
@@ -1245,7 +1245,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **February 18, 2022** - You can't have more than one of a specific enchant equipped at a time. - Limited to have 3 enchanted equipment.
 -   **March 27, 2022** - Enchant rates have been buffed by 3x. - Enchanted equipment is soulbound when you equip it. - Enchants could no longer drop on death.
 -   **April 11, 2022** - Enchant rates have been buffed by an unknown amount.
--   **June 27, 2022** - Enchanted equipment could be now smelted at **[Jarvis](Summer_Isle.md)**.
+-   **June 27, 2022** - Enchanted equipment could be now smelted at [Jarvis](Jarvis.md).
 -   **September 12, 2022** - In celebration of Deepwoken obtaining the Best New Game award in the Roblox Innovation Awards, enchant rate have been increased by 2x temporarily (made permanent on **October 3, 2022**)
 -   **September 13, 2022** - Enchanted weapons and equipment are now at least 1 star by default. Armors and weapons obtained before this date will remain starless if not equipped or re-equipped.
 -   **September 19, 2022** - Weapons can be enchanted with a random enchant by giving 3 equipment enchants to [Laplace](Laplace.md).
@@ -1254,17 +1254,16 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **January 16, 2023** - These enemies and humanoid monsters had a chance to spawn wielding enchanted weaponry.
 -   **February 13, 2023** - [Light's Final Toll](<Light's_Final_Toll.md>) can no longer be enchanted.
 -   **August 25, 2023** - These enemies and humanoid monsters can now spawn with enchants again.
--   **September 29, 2023** - Astral is made publicly available.
--   **November 3, 2023** - [Hallowtide](Hallowtide.md) Enchant: Harrowing is made publicly available.
--   **November 10, 2023** - Harrowing is made available from the [Hallowtide '23 Medal](Seasonal_Medals.md) for 10 Knowledge.
+-   **September 29, 2023** - [Astral](Astral.md) is made publicly available.
+-   **November 3, 2023** - [Hallowtide](Hallowtide.md) Enchant: [Harrowing](Harrowing.md) is made publicly available.
 -   **April 5, 2024** - [Railblades](Railblade.md) are no longer considered Legendary Weapons, thus they can be enchanted.
--   **July 12, 2024** - The weapon enchant Curse of Repulsion was added.
+-   **July 12, 2024** - The weapon enchant [Curse of Repulsion](Curse_of_Repulsion.md) was added.
 -   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
--   **February 1, 2025** - The weapon enchant Curse of Rhaemen's Ember is added.
--   **July 7, 2025** - The weapon enchants Curse of Void, Parasol's Blight and Nightbringer were added, the equipment enchantment Rain was also added.
--   **July 15, 2025** - The weapon enchant Void was renamed to Curse of Void.
--   **July 25, 2025** - The weapon enchants Windswept, Curse of the Authoritative and Bluster were added
--   **August 4, 2025** - Curse of Rhaemen's Ember was renamed to Curse of Ysley's Ember
+-   **February 1, 2025** - The weapon enchant [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) is added.
+-   **July 7, 2025** - The weapon enchants [Void](Curse_of_Void.md), [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](Environmental_Hazards.md) was also added.
+-   **July 15, 2025** - The weapon enchant [Void](Curse_of_Void.md) was renamed to [Curse of Void](Curse_of_Void.md).
+-   **July 25, 2025** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
+-   **August 4, 2025** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
 
 ## Tips/Trivia
 

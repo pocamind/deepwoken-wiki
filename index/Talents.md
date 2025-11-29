@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 177791
+revid: 177949
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -652,7 +652,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Increases blood bar damage by +35% (additive).
     -   Grants a 30% active speed boost. This counts for Talents such as Speed Demon and Cheap Shot.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
-    -   If you have the Enhanced Flow Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health).
+    -   If you have the Enhanced Flow Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
     -   Having Rush Hour active doubles the duration of the Torture Mastery status effect.
     -   Prerequisite: 50 Bloodrend
 
@@ -2823,8 +2823,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Sanguine Wager
 
 -   Enhanced Flow \[Common Talent, Bloodrend Exclusive\] - Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
-    -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health).
-    -   This cannot give more than 50 Temporary Health in one instance.
+    -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage.
+        -   This cannot give more than 50 Temporary Health in one instance.
+    -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy), Rush Hour
 

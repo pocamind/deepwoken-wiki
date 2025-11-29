@@ -1,9 +1,9 @@
 ---
 title: Grim
-revid: 177868
+revid: 177905
 source: https://deepwoken.fandom.com/wiki/Grim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enchantments, Weapon Enchantments]
+categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
 ---
 
 # Grim

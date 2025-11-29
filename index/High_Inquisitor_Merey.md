@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 177812
+revid: 177981
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -84,7 +84,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>I'd like some time to think about it, High Inquisitor.</td>
 </tr>
 <tr>
-  <td><i>*You salute the High Inquisitor. She offers a solem, graceful salute in return.*</i> Very well, Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Inquisitor of The Central Authority. You shall now serve under my supervision. May you be the faithful eyes and ears of the Authority, may you act as it's rentless, haunting shadow, and may you slice apart with measured blade the chains that seek to bind us. You may report back to me at your discretion.</td>
+  <td><i>*You salute the High Inquisitor. She offers a solemn, graceful salute in return.*</i> Very well, Lance Corporal. By the powers vested in me, in the name of our Sovereign of Eras, Drallis Ehr, I name you an Inquisitor of The Central Authority. You shall now serve under my supervision. May you be the faithful eyes and ears of the Authority, may you act as it's restless, haunting shadow, and may you slice apart with measured blade the chains that seek to bind us. You may report back to me at your discretion.</td>
   <td><i>*The High Inquisitor's eyes, sharp and curious, pierce you like needles from beneath her visor.*</i> Very well, Lance Corporal. Know that it is both a privilege and a recognition of your achievements to receive the offer. If you change your mind... I'll be waiting here.</td>
 </tr>
 <tr>
@@ -287,6 +287,34 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </tbody>
 </table>
 
+**Unlockable Dialogue:**
+
+This dialogue is unlocked after speaking with [Milgram](Milgram.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*You salute the High Inquisitor. She returns a rigid salute herself.*</i> Welcome back, [Rank] [Last Name]. I hope your work is keeping up to our standards. Remember - restraint and conscientiousness are the most important values an Inquisitor can have. Now... Do you have something on your mind?</td>
+</tr>
+<tr>
+  <td colspan="2">I met a dark-eyed Adretian with a scar earlier... Were they an Inquisitor?</td>
+</tr>
+<tr>
+  <td colspan="2"><i>*The High Inquisitor sighs.*</i> Sounds like you ran into Milgram. Indeed, they're a Handler of our division. Milgram's one of our finest, although they can be quite the individualist. Were they giving you a hard time, Inquisitor? Pay it no heed. In this division, our work is a competition - even if some of the more competitive Inquisitors might enjoy putting down lower ranks, and schmoozing up to peers with good prospects.</td>
+</tr>
+<tr>
+  <td>Could you tell me more about the Inquisition?</td>
+  <td>I see. That is all for now, ma'am, thank you.</td>
+</tr>
+<tr>
+  <td colspan="2">[See previous instance]</td>
+</tr>
+</tbody>
+</table>
+
 **Handler:**
 
 **First Encounter:**
@@ -350,7 +378,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td colspan="12">*The High Inquisitor's typically inscrutable demeanour betrays a tinge of disappointment.*Is that so,[Last Name]?Most curious.Let me guess...He requests to participate in the next interrogation of General Titus Fulminus Destellus. Did i guess correctly?</td>
 </tr>
 <tr>
-  <td colspan="12">...Uncanily so,ma'am. How did you know?</td>
+  <td colspan="12">...Uncannily so, ma'am. How did you know?</td>
 </tr>
 <tr>
   <td colspan="12">*The High Inquisitor demonstratively brushes off her shoulder. *All in a day's work, [Last name]. Gathering intel is what an Inquisitor does. *She laughs. Just for a split second, it's like she's another person entirely, before she returns to her stern self. * Of course, I jest. You are not the first Inquisitor he's sent my way with this request.</td>
@@ -364,11 +392,11 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <tr>
   <td colspan="4">What were the circumstances of his capture?</td>
   <td colspan="4">I assume he was interogated - what did that yield</td>
-  <td colspan="4">He seems valuable - have the Hundered Legions asked for his return?</td>
+  <td colspan="4">He seems valuable - have the Hundred Legions asked for his return?</td>
 </tr>
 <tr>
   <td colspan="4">*The High Inquisitor thinks for a moment. * He was captured by a detachment led by Sentinel Augustus in Aratel. They were en route to a separate mission when they encountered General Destellus, with a small detachment of Legion Shock Troopers. The man is known for emerging victorious even against overwhelming odds. yet he was captured in a stray skirmish by a relatively small number of our own soldiers. What next?</td>
-  <td colspan="4">*Disapointment flashes across Merey's face as she frowns. *Not much, unfortunately. He's rather physically and mentally resilient. Conditions were further complicated by the subject's natural resistance to our traditional methods of a electrical shocks to the cerebrum - something to do with the martial techniques he has mastered. In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshhold makes it difficult to apply most other methods.</td>
+  <td colspan="4">*Disappointment flashes across Merey's face as she frowns. *Not much, unfortunately. He's rather physically and mentally resilient. Conditions were further complicated by the subject's natural resistance to our traditional methods of a electrical shocks to the cerebrum - something to do with the martial techniques he has mastered. In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods.</td>
   <td colspan="4">*The High Inquisitor thumbs her chin contemplatively. *They have not. The Legions inquired on whether Destellus is alive and in our custody, but did not attempt to negotiate a prisoner exchange. Although, recent events suggest they may be engaging in acts of subterfuge concerning the prisoner. A recent commotion in the Detainment Core was linked to Legion espionage. The circumstances are still under investigation.</td>
 </tr>
 <tr>
@@ -391,35 +419,6 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 </tr>
 <tr>
   <td>May I ask you something, ma'am?</td>
-</tr>
-<tr>
-  <td>[See first instance]</td>
-</tr>
-</tbody>
-</table>
-
-**Unlockable Dialogue:**
-
-This dialogue can be given regardless of rank.
-
-**After speaking with Milgram:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>[High Inquisitor Merey gives the initial dialogue based on your Rank]</td>
-</tr>
-<tr>
-  <td>I met a dark-eyed Adretian with a scar earlier... Were they an Inquisitor?</td>
-</tr>
-<tr>
-  <td><i>*The High Inquisitor sighs.*</i> Sounds like you ran into Milgram. Indeed, they're a Handler of our division. Milgram's one of our finest, although they can be quite the individualist. Were they giving you a hard time, [Rank]? Pay it no heed. In this division, our work is a competition - even if some of the more competitive Inquisitors might enjoy putting down lower ranks, and schmoozing up to peers with good prospects.</td>
-</tr>
-<tr>
-  <td>[Player is prompted with dialogue options based on their Rank]</td>
 </tr>
 <tr>
   <td>[See first instance]</td>

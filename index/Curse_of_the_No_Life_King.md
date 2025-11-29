@@ -1,12 +1,51 @@
 ---
 title: Curse of the No Life King
-revid: 151622
+revid: 177945
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 ---
 
 # Curse of the No Life King
 
-Redirect to:
+| Curse of the No Life King | |
+|---|---|
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Finding a Curse of the No Life King enchanted weapon in a chest, LaplaceEnchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
+| description | Grants passive regen and damages the sanity of your foes, but succumb to the insanity much faster, lose twice as much blood, and never be more than a step away from death. The amount of healing scales with your weapon stat invested. |
 
--   [Enchantments#Curse of the No Life King](Enchantments.md#curse-of-the-no-life-king)
+## Description
+
+Curse of the No Life King is a buffing curse enchantment that grants the user passive health regeneration and sanity drain on hit.
+
+This enchantment changes your weapon's color to black and emits red and black spikes out of your weapon along with a red and black aura.
+
+## Effect
+
+Curse of the No Life King grants passive regeneration to your character, scaling on your weapon investment. This passive regeneration will scale down with the more maximum health you have.
+
+Additionally, your basic attacks reduces your opponent's sanity by 2% with every hit.
+
+### Curse
+
+Your health bar is permanently stained while this enchantment is equipped. This means if you die at any point while a Curse of the No Life King weapon is equipped, you will be sent to [The Depths](The_Depths.md).
+
+You take 2x blood damage from all damage sources while in the Overworld.
+
+If you reach 0% sanity in the Overworld while having a Curse of the No Life King weapon equipped, your head will explode and you will instantly die. While in the [First Layer](First_Layer.md), you lose 2 sanity per second if your weapon is unsheathed. This stacks with the passive sanity loss from the Depths, totaling to 122 sanity loss per minute.
+
+The following effects have reduced effectiveness or are entirely disabled while this enchantment is equipped:
+
+-   Healing [potions](Alchemy.md) heal you for less.
+-   The [Viscosity](Viscosity.md) Enchantment and [Conditioned Runner](Talents.md#conditioned-runner) Talent are disabled.
+-   [Alloyblood](Talents.md#alloyblood) and [Cauterized Wounds](Talents.md#cauterized-wounds) are less effective.
+
+### Notes
+
+-   The passive regen buff caps at 100 weapon investment.
+-   This enchantment does not work in the [Chime of Conflict](Chime_of_Conflict.md).
+-   If you unequip your weapon, the life that this enchantment stole will come back, assuming it's the reason why your healthbar was stained in the first place.
+-   Blood **drain** effects are entirely unaffected by Curse of the No Life King's double blood damage curse. This means this curse does not affect the blood loss [Resonance Downside](Resonance.md#corrupted-resonances) nor casting or being hit by [Bloodrend](Bloodrend.md) Mantras.

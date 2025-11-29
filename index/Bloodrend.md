@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 173675
+revid: 177951
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -863,9 +863,9 @@ These are Talents found in "_Sanguine Wager_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Enhanced Flow  
-(90 Bloodrend, 90 Weapon, Rush Hour) | Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour. |  |
+(90 Bloodrend, 90 Weapon, Rush Hour) | Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour. | Reduces your Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick. Grants 30% of your weapon's scaled damage as Temporary Health. This cannot exceed 50 Temporary Health in one hit. This procs on NPCs despite what the description states. |
 |  | Torture Mastery  
-(100 Bloodrend, 100 Weapon) | Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on. |  |
+(100 Bloodrend, 100 Weapon) | Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on. | Chip damage dealt to healing received is 1:1. |
 
 **Scarlet Donor:**
 

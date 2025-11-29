@@ -1,6 +1,6 @@
 ---
 title: No Life King
-revid: 158228
+revid: 177938
 source: https://deepwoken.fandom.com/wiki/No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Enchantments#Curses](Enchantments.md#curses)
+-   [Curse of the No Life King](Curse_of_the_No_Life_King.md)
