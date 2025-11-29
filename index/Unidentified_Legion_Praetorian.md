@@ -1,19 +1,17 @@
 ---
 title: Unidentified Legion Praetorian
-revid: 177779
+revid: 178094
 source: https://deepwoken.fandom.com/wiki/Unidentified_Legion_Praetorian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Articles with conjectural titles, Stub pages without reason, StubPages, The Hundred Legions]
+categories: [Articles with conjectural titles]
 notices:
   - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Unidentified Legion Praetorian
 
 | Unidentified Legion Praetorian | |
 |---|---|
-| aspect | Khan (presumably) |
 | affiliation | The Hundred Legions[1] |
 
 ## Description

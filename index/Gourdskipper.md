@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 171231
+revid: 178081
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters, Hallowtide]
@@ -31,7 +31,7 @@ Gourdskippers, also known as Pumpskippers, are a unique enemy exclusive to the T
 
 ## Passives
 
--   Curse of the Gourdskipper: Being damaged by a Gourdskipper will turn you into a gourdskipper, allowing you to infect others and gain [Joy](Joy.md), you will also die in 3 hits to Pumpkin Pitch.
+-   Curse of the Gourdskipper: Being damaged by a Gourdskipper will turn you into a ourdskipper, allowing you to infect others and gain [Joy](Joy.md), you will also die in 3 hits to Pumpkin Pitch.
 
 ## Finisher
 
@@ -48,3 +48,4 @@ Similar to the [Instructor](Blade_Instructor.md), this only happens if you are k
 
 -   Gourdskippers likely use the same code as Rotskippers as they lose their limbs when parried.
 -   Farming them is a very efficient method to max out your Mudskipper bestiary entry, if you haven't already.
+-   The first Gourdskippers that spawn in the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>) will take 3 shots from [Pumpkin Pitch](Pumpkin_Pitch.md) to die.
