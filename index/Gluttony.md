@@ -1,6 +1,6 @@
 ---
 title: Gluttony
-revid: 177589
+revid: 177867
 source: https://deepwoken.fandom.com/wiki/Gluttony
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,7 +19,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Gluttony is a debuffing enchantment that steals your opponent's saturation on hit.
+Gluttony is a sustain enchantment that steals your opponent's saturation on hit.
 
 This enchantment covers your weapon in a brownish-orange mist.
 
@@ -32,3 +32,4 @@ On weapon hit Gluttony steals stomach and water from your opponent and gives it 
 -   Gluttony's sustenance steal formula is as follows: 0.15 \* weapon scaled damage + 2.
 -   Gluttony's sustenance steal is **not** affected by the [Glutton](Boons_and_Flaws.md#glutton) Flaw nor damage modifiers.
 -   Gluttony's sustenance steal will be lessened if your opponent has damage resistances.
+-   The [Chef's Toque](<Chef's_Toque.md>) Talent, _Umami_ also has a saturation steal effect. This stacks additively with Gluttony.

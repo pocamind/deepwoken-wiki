@@ -1,6 +1,6 @@
 ---
 title: Bluster
-revid: 177603
+revid: 177892
 source: https://deepwoken.fandom.com/wiki/Bluster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Bluster Enchant Stone:, Titus Fulminus Destellus |
+| obtainment | Bluster Enchant Stone:, Titus Fulminus Destellus, Sold in Traan Zakshun's black market for 5 |
 | description | After landing a few stacks of Bluster, start a countdown to an explosion that scales off your m1 damage. Land attacks during this countdown to make it explode faster. This explosion scales with your weapon investment. |
 
 ## Description

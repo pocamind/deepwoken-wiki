@@ -1,9 +1,9 @@
 ---
 title: Enchant Grease
-revid: 177539
+revid: 177803
 source: https://deepwoken.fandom.com/wiki/Enchant_Grease
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Relics, Layer 2]
+categories: [Items, Relics, Enchantments, Equipment Enchantments]
 ---
 
 # Enchant Grease

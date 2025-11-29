@@ -1,6 +1,6 @@
 ---
 title: Valiant Valley
-revid: 176008
+revid: 177889
 source: https://deepwoken.fandom.com/wiki/Valiant_Valley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, Locations in Battle Royale]

@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 177773
+revid: 177790
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -70,7 +70,13 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 #### Unstorable Items:
 
--   Unique [Outfit Schematics](Outfits.md) (except for [Heretic's Memento](<Heretic's_Memento.md>))
+-   Certain Unique [Outfit Schematics](Outfits.md):
+    -   [Arachnid's Weave](<Arachnid's_Weave.md>)
+    -   [Authority Commander](Authority_Commander.md)
+    -   [Cala-Mariner](Cala-Mariner.md)
+    -   [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>)
+    -   [Titanslayer's Adornment](<Titanslayer's_Adornment.md>)
+    -   [Titus's Raiment](<Titus's_Raiment.md>)
 -   [Kyrsan Medallions](Kyrsan_Medallions.md) (Itemized)
 -   [Ardour Manifestation](Ardour_Manifestation.md)
 -   [Void Feathers](Dark_Feather.md#void-feather) (Craft it into 3 [Dark Feathers](Dark_Feather.md) then bank it instead)

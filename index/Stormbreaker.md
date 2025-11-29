@@ -1,12 +1,42 @@
 ---
 title: Stormbreaker
-revid: 137471
+revid: 177886
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 ---
 
 # Stormbreaker
 
-Redirect to:
+| Stormbreaker | |
+|---|---|
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
+| description | Your attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above. |
 
--   [Enchantments#Stormbreaker](Enchantments.md#stormbreaker)
+## Description
+
+Stormbreaker is a damage dealing enchantment that applies [Shock](Status_Effects.md#shock) to your opponent and replaces your critical attack.
+
+This enchantment changes your weapon's color to a vibrant glowing blue with a light purple mist and umbral bolts coming off of the weapon.
+
+## Effect
+
+On weapon hit, Stormbreaker adds a secondary damage instance to your attacks, dealing 16.5% of your weapon's damage, before modifiers as [Thundercall](Thundercall.md) damage. This has a 5 second cooldown.
+
+If it is raining, then a lightning strike will hit your opponent, dealing 33% of your weapon's damage instead, before modifiers as [Thundercall](Thundercall.md) damage in an AoE. This has a 5 second cooldown.
+
+Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](Status_Effects.md#surge-rod) on proc.
+
+Stormbreaker additionally replaces your critical attack with a cursor-aimed weapon throw that ragdolls and strikes your opponent with lightning on hit. You cannot attack or move until your weapon has returned to you.
+
+Stormbreaker's critical deals 25 flat Thundercall damage on throw and 18.75 flat Thundercall damage on return. This can hit the same target twice. Stormbreaker's critical deals 1 posture damage if blocked.
+
+### Notes
+
+-   Stormbreaker's secondary damage instance cannot be buffed.
+-   Because Stormbreaker's secondary damage instance and critical deal Thundercall damage, you can use this enchantment to trick [Everchanging Aegis](Talents.md#everchanging-aegis) to change its resistance to Thundercall resistance.
+-   Stormbreaker's base effect is essentially a better version of [Storm](Storm.md)'s, as it does not get double resisted.

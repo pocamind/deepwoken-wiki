@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 176955
+revid: 177800
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -125,10 +125,6 @@ Canor has optional face markings that vary in appearance on each variant. These 
 **Steppe:**
 
 **Hallowtide:**
-
-  
-
-  
 
 ## Trivia
 

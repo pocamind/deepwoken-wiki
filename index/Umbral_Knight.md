@@ -1,12 +1,32 @@
 ---
 title: Umbral Knight
-revid: 137473
+revid: 177885
 source: https://deepwoken.fandom.com/wiki/Umbral_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Weapon Enchantments]
 ---
 
 # Umbral Knight
 
-Redirect to:
+| Umbral Knight | |
+|---|---|
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | Finding a Umbral Knight enchanted weapon in a chest, LaplaceEnchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
+| description | On hit, the Umbral Knight will strike your foes for 20% of your weapon's damage after a 0.25s delay. 5s CD. |
 
--   [Enchantments#Umbral Knight](Enchantments.md#umbral-knight)
+## Description
+
+Umbral Knight is a damage dealing enchantment that strikes your opponent after a delay.
+
+This enchantment changes the color of your weapon's metal parts to an artic blue and covers the weapon with a red and black mist.
+
+## Effect
+
+On weapon hit, Umbral Knight causes a red slash after a 0.25 second delay, dealing 20% of your weapon's scaled damage. This has a 5 second cooldown.
+
+### Notes
+
+-   Umbral Knight can be blocked, parried, and dodged.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 177523
+revid: 177791
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2430,12 +2430,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Needle
 
 -   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - \[Rapier\] Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
+    -   Running attack with rapiers deal 35% more posture damage.
+    -   After landing a Critical, the next rapier running attack has +2 stud range.
     -   Prerequisites: Using Rapier, 30 Light Weapon
 
 -   Frenzied Dance \[Common Talent, Rapier Exclusive\] - \[Rapier\] When your posture is about to collapse, you deal greater chip and posture damage.
+    -   When your posture is above 70%, deal 33% more posture damage and 20% chip damage.
     -   Prerequisites: Using Rapier, 50 Light Weapon
 
 -   Pressure Skewer \[Common Talent, Rapier Exclusive\] - \[Rapier\] Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.
+    -   Increase blood bar damage by 50%.
     -   While active, also grants +25% chip damage.
     -   Also applies to criticals with the M1 tag.
     -   Prerequisites: Using Rapier, 40 Light Weapon

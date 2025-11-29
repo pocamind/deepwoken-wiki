@@ -1,11 +1,11 @@
 ---
 title: Black Divers division
-revid: 177533
+revid: 177796
 source: https://deepwoken.fandom.com/wiki/Black_Divers_division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, The Divers]
+categories: [SpoilerPages, The Divers, Black Divers]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
 
 # Black Divers division

@@ -1,9 +1,9 @@
 ---
 title: "Oath: Saintsworn"
-revid: 177454
+revid: 177793
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
+categories: [Weapons, Pages with broken file links, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
 ---
 
 # Oath: Saintsworn
@@ -32,17 +32,17 @@ categories: [Weapons, Pages with broken file links, Oaths, Weapons with Unique C
 
 ## Description
 
-**[Oath](Oaths.md): Saintsworn** is one of the 17 obtainable Oaths in _Deepwoken_, being centered around the usage of multiple attunements, and Hero's Blades. It allows you to harness the power of the souls of the Five Heroes and wield their abilities in combat with their souls watching over your strife.
+**[Oath](Oaths.md): Saintsworn** is one of the 17 obtainable [Oaths](Oaths.md) in _Deepwoken_, being centered around the usage of multiple attunements, and Hero's Blades. It allows you to harness the power of the souls of [the Five Heroes](The_Five_Heroes.md) and wield their abilities in combat with their souls watching over your strife.
 
 “ Once, I stood with the Five, a hero among them. But loyalty? It's a fragile thing. Betrayal? It's as inevitable as the night. ”
 
 ― Urek Felhand, Saint of Shadow
 
-The Five Heroes were considered to be the Saints of their respective [attunements](Attunements.md) back in times of old. Wishing to carry on their legacy after they met their fate, they would make a Vow to infuse their souls into swords after their demise, turning into [Hero Blades](Hero_Blades.md). The player, upon swearing the Oath, vows to carry on their legacy with the Heroes themselves watching over them.
+[The Five Heroes](The_Five_Heroes.md) were considered to be the Saints of their respective [attunements](Attunements.md) back in times of old. Wishing to carry on their legacy after they met their fate, they would make a Vow to infuse their souls into swords after their demise, turning into [Hero Blades](Hero_Blades.md). The player, upon swearing the Oath, vows to carry on their legacy with [the Heroes](The_Five_Heroes.md) themselves watching over them.
 
 ### Obtainment
 
-Saintsworn obtainment requires 15 investment points in the following attunements: Flamecharm, Galebreathe, Shadowcast, Frostdraw, and Thundercall.
+Saintsworn obtainment requires 15 investment points in the following attunements: [Flamecharm](Flamecharm.md), [Galebreathe](Galebreathe.md), [Shadowcast](Shadowcast.md), [Frostdraw](Frostdraw.md), and [Thundercall](Thundercall.md).
 
 After acquiring the needed stats, you then need to resonate (interact with) every [obelisk](Saintsworn_Obelisks.md). Left or middle click the gifs to enlarge them. The obelisks can be interacted with in any order, the most time effective method as of now, if starting from [Greathive Aratel](Greathive_Aratel.md), appears to be Flamecharm -> Thundercall -> Shadowcast -> (Reset) -> Galebreathe -> Frostdraw, however this can do with refinement if starting from the [Etrean Luminant](Luminants.md).
 
@@ -50,25 +50,25 @@ _Saintsworn **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---o
 
 #### Thundercall
 
--   For the Thundercall obelisk, you need to sail over to the [Boatman's Watch](<Boatman's_Watch.md>), **and go behind it into a cave** **and talk to Tessa.**
+-   For the **[Thundercall Obelisk](Thundercall_Obelisk.md)**, you need to sail over to the [Boatman's Watch](<Boatman's_Watch.md>), **and go behind it into a cave** **and talk to** **[Tessa](Tessa.md).**
 
 #### Galebreathe
 
--   For the Galebreathe obelisk, you need to tread carefully towards [The Garden Reservoir](The_Garden_Reservoir.md), **at Upper Erisia in the Acid Pool Area, and talk to Trinity Galenwarde.**
+-   For the **[Galebreathe Obelisk](Galebreathe_Obelisk.md)** you need to traverse through the [Burning Stone Gardens](Burning_Stone_Gardens.md) in [Upper Erisia](Upper_Erisia.md), and talk to **[Trinity Galenwarde](Trinity_Galenwarde.md):.**
 
 #### Flamecharm
 
--   For the Flamecharm obelisk, you need to go to [Miner's Landing](<Miner's_Landing.md>), specifically [Saramaed Summit](Saramaed_Summit.md)**, and talk to Jace.**
+-   For the **[Flamecharm Obelisk](Flamecharm_Obelisk.md)**, you need to go to [Miner's Landing](<Miner's_Landing.md>), specifically [Saramaed Summit](Saramaed_Summit.md), and talk to **[Jace](Jace.md).**
 
 #### Frostdraw
 
--   For the Frostdraw obelisk, you need to climb to the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md)**, break open the destructible bookshelf upstairs, parkour to the end of the area and talk to Faust.**
+-   For the **[Frostdraw Obelisk](Frostdraw_Obelisk.md)**, you need to climb to the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), break open the destructible bookshelf upstairs, enter the [Glacial Remnant](Glacial_Remnant.md), parkour to the end of it and talk to **[Faust](Faust.md):**.
 
-The ice on the floor will **kill you instantly** if you fall into it.
+The ice on the floor will **kill you instantly and send you to [the Depths](The_Depths.md)** if you fall into it.
 
 #### Shadowcast
 
--   For the final obelisk, Shadowcast, you need to sail to the [Moon's Eyrie](<Moon's_Eyrie.md>)**, and talk to Urek Felhand.**
+-   At last, for the **[Shadowcast Obelisk](Shadowcast_Obelisk.md)**, you need to sail to the [Moon's Eyrie](<Moon's_Eyrie.md>), and talk to **[Urek Felhand](Urek_Felhand.md)**.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/v-BLz4_jidU)._
 

@@ -1,6 +1,6 @@
 ---
 title: Providence Thorns
-revid: 148012
+revid: 177823
 source: https://deepwoken.fandom.com/wiki/Providence_Thorns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Enchantments#Providence's Thorns](Enchantments.md#providences-thorns)
+-   [Providence's Thorns](<Providence's_Thorns.md>)

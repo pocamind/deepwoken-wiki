@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 177082
+revid: 177812
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -323,7 +323,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. Is there something you'd like to talk about?</td>
 </tr>
 <tr>
-  <td>May I ask you something, ma'am?</td>
+  <td>I</td>
 </tr>
 <tr>
   <td>End</td>
@@ -391,6 +391,35 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 </tr>
 <tr>
   <td>May I ask you something, ma'am?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue can be given regardless of rank.
+
+**After speaking with Milgram:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>[High Inquisitor Merey gives the initial dialogue based on your Rank]</td>
+</tr>
+<tr>
+  <td>I met a dark-eyed Adretian with a scar earlier... Were they an Inquisitor?</td>
+</tr>
+<tr>
+  <td><i>*The High Inquisitor sighs.*</i> Sounds like you ran into Milgram. Indeed, they're a Handler of our division. Milgram's one of our finest, although they can be quite the individualist. Were they giving you a hard time, [Rank]? Pay it no heed. In this division, our work is a competition - even if some of the more competitive Inquisitors might enjoy putting down lower ranks, and schmoozing up to peers with good prospects.</td>
+</tr>
+<tr>
+  <td>[Player is prompted with dialogue options based on their Rank]</td>
 </tr>
 <tr>
   <td>[See first instance]</td>

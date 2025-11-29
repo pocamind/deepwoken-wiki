@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 177774
+revid: 177816
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -41,7 +41,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  | Titus firmly swings his fists at his opponent with hyperarmor.
 
 -   These moves are typically slow and can often lead to the player missing a parry.
--   While have the effect of Commander's Rage and throughout the entire second phase, his attacks sort of become unparryable (this is not precisely tested and is based on perception).
+-   Because he has the effect of Commander's Rage and throughout the entire second phase, his attacks sort of become unparryable (this is not precisely tested and is based on perception).
 
  |  |
 | 

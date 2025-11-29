@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 177313
+revid: 177817
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -24,7 +24,7 @@ Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons
 
 Traan Zakshun's shop runs on an hourly rotation. Every hour, they sell two to four items chosen at random from a list. They can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
-Once every 20 hours, from 21:00 to 22:00 Traan Zakshun will appear hosting a [Black Market Cache](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are only sold for [Crowns](Crowns.md) and only one item total can be purchased per black market visit.
+Once every 20 hours Traan Zakshun will appear hosting a [Black Market Cache](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are only sold for [Crowns](Crowns.md) and only one item total can be purchased per black market visit.
 
 ## Location
 
@@ -282,7 +282,7 @@ Sold Items
 
 ## Black Market
 
-Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from his black market stock. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour. Prices appear to fluctuate depending on the day. The [Gilded Needle](Gilded_Needle.md) for example has been seen at both ten [Crowns](Crowns.md) and five [Crowns](Crowns.md). Listed prices are what appears most frequently.
+Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from his black market stock. For reference to calculate when the black market is available, every five days, the black market will be available at both 00:00 UTC and at 20:00 UTC on the same day. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour. Prices appear to fluctuate depending on the day. The [Gilded Needle](Gilded_Needle.md) for example has been seen at both ten [Crowns](Crowns.md) and five [Crowns](Crowns.md). Listed prices are what appears most frequently.
 
 ### Shop UI
 

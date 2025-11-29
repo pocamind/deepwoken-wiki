@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 177184
+revid: 177810
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -48,7 +48,7 @@ It also grants the [Not A Scratch](Talents.md#human-architecture) talent, causin
 
 List of buffs being:
 
--   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for a short duration. \[Woah, neat trick! Do it again!\]
+-   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for around three seconds. \[Woah, neat trick! Do it again!\]
 -   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx. \[On your toes, dummy!\]
 -   30% Posture restoration. Indicated by a metal clanging sound effect. \[Hit 'em while they're open!\]
 -   A free reroll, granting you an additional buff or affliction. \[Again! Again!\]
@@ -69,3 +69,4 @@ List of afflictions being:
 -   TheBlack cross effect, procs the [Talent](Talents.md) Charged return granting 10% increased DMG while under its effect.
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/133529830559342/Tricksters-Habit-Shirt) / [Pants](https://www.roblox.com/catalog/107170519707009/Tricksters-Habit-Pants)
+-   Occasionally, the text and buff may not line up. It is unknown if this is a bug or intentional case.

@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 177621
+revid: 177809
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -48,7 +48,7 @@ It also grants the [Not A Scratch](Talents.md#human-architecture) talent, causin
 
 List of buffs being:
 
--   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for a short duration. \[Hey, where’d you go?!\]
+-   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for around three seconds. \[Hey, where’d you go?!\]
 -   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx. \[Don't worry - It's on the house!\]
 -   30% Posture restoration. Indicated by a metal clanging sound effect. \[Quick, they're weak!\]
 -   A free reroll, granting you an additional buff or affliction. \[Bravo, bravo!\]
@@ -68,3 +68,4 @@ List of afflictions being:
 -   This Outfit shares identical stats with [Trickster's Habit](<Trickster's_Habit.md>), the outfit worn by [Tillian](Tillian.md).
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16178494443/Jesters-Garb-Shirt) / [Pants](https://www.roblox.com/catalog/16178500106/Jesters-Garb-Pants)
+-   Occasionally, the text and buff may not line up. It is unknown if this is a bug or intentional case.
