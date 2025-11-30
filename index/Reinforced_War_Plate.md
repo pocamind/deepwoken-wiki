@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 176542
+revid: 178258
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
 | set talent | Lasting Trauma |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | Made light to protect only the essentials, Evanspear Centurions put all their strength into a single blow, believing the best defense is a brutal offense. |

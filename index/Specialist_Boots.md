@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 176574
+revid: 178254
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | set talent | Shock Trooper Specialist |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting in the Merit Detainment Core |
 | description | The only thing that surpasses a Shock Trooper's Brutality is their speed. |

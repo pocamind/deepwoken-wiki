@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 176340
+revid: 178252
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
 | set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | In the Hundred Legion's territory, stealing is considered worse than murder. To kill is to live by a code and fight with honor; but a thief has no place among soldiers. |

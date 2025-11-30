@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 178167
+revid: 178243
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4160,8 +4160,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   The teleport has a range limit.
     -   20 second cooldown.
 
--   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 10 seconds.
-    -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their passive posture recovery by ?% for 10 seconds.
+-   Vital Wound: [Acheron's Warspear](<Acheron's_Warspear.md>) - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds.
+    -   Uppercutting your opponent applies the [Vital Wound](Status_Effects.md#vital-wound) status effect, reducing their passive posture recovery by 40% for 30 seconds.
+    -   This has no cooldown, but cannot be reapplied to the same target once active.
 
 ## Equipment Talents
 

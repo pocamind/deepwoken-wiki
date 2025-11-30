@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 176576
+revid: 178255
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
 | set talent | Shock Trooper Specialist |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting in the Merit Detainment Core |
 | description | Armorers of the Hundred Legion dedicated their lives to these plates. The techniques used to attune them between Thunder and Gale demand complete expertise. |

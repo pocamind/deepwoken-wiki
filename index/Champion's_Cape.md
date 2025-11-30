@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 176383
+revid: 178250
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes, Craftable]
@@ -19,7 +19,7 @@ categories: [Equipment, Arms, Capes, Craftable]
 | innate talent | No Interruptions |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting in the Merit Detainment Core |
 | description | Time to write your own legends. |

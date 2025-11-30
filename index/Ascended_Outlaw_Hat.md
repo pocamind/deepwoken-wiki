@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 176338
+revid: 178251
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
 | set talent | Offensive Recovery |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | Common Garb among western peons; this hat is perfect for beating the heat or disguising one's identity. |

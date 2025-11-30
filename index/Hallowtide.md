@@ -1,6 +1,6 @@
 ---
 title: Hallowtide
-revid: 177054
+revid: 178266
 source: https://deepwoken.fandom.com/wiki/Hallowtide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Events, Hallowtide]
@@ -27,7 +27,7 @@ It has subsequently returned on the follow dates:
 
 -   October 27th, 2023, ending on November 10th.
 -   October 31st, 2024, ending on November 16th.
--   October 31st, 2025, ending on ???.
+-   October 31st, 2025, ending on November 29th.
 
 ### Hallowtide 2022
 
@@ -124,4 +124,5 @@ The Hallowtide update added a special new variant for each aspect in the game. T
 
 -   The Floating Keep is the only place in game where the player can actually see NPC [Lightborns](Lightborn.md) (Aside from [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) in [New Kyrsa.](Second_Layer/New_Kyrsa.md)).
 -   The Teleportation effect used when being transported to The Floating Keep is similar to the one used when using a [Greathive Fountain](Greathive_Aratel.md), though it is purple instead of pale yellow.
--   Oddly, the Third Hallowtide (2024) occurred outside of the weekly update schedule, instead returning on a Thursday on Halloween Day (31st of October).
+-   Oddly, the third Hallowtide (2024) occurred outside of the weekly update schedule, instead returning on a Thursday on Halloween Day (31st of October).
+-   The end of the fourth Hallowtide (2025) marked the longest Hallowtide in _Deepwoken_ history, lasting 4 weeks and 1 day (29 full days), double the usual Hallowtide period.

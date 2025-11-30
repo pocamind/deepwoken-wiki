@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 176378
+revid: 178260
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Legs, Boots, Equipment, Craftable]
@@ -19,7 +19,7 @@ categories: [Legs, Boots, Equipment, Craftable]
 | innate talent | Cosmic Connection |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Astral Enchant Stone, 2 Star Boots, in The Cold Forge |
 | description | Using the finest boots in the land and the power of the heavens, you've managed to make something out of this world. |

@@ -1,6 +1,6 @@
 ---
 title: Specialist Helmet
-revid: 176575
+revid: 178256
 source: https://deepwoken.fandom.com/wiki/Specialist_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | set talent | Shock Trooper Specialist |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | The Legion boast of honor in battle, but the victims of a Shock Trooper would tell a different story. |

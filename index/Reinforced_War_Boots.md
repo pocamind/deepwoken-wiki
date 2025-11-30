@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 176540
+revid: 178257
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
 | set talent | Lasting Trauma |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | Built to bite into the ground when fighting, these boots can turn a heavy swing into an unforgiving smash. |

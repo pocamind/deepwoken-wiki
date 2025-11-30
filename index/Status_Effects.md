@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 177300
+revid: 178245
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -416,7 +416,7 @@ After parrying any guardbreak attack with the [Crucible Rapier](Crucible_Rapier.
 
 ### Vital Wound
 
-Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_Warspear.md>), your passive posture recovery will be massively reduced for the next 10 seconds.
+Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_Warspear.md>), your passive posture recovery will be reduced by 40% for the next 30 seconds. This cannot be reapplied to the same target once active.
 
 ### Expeditious Combo
 

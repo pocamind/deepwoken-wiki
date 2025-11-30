@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 176366
+revid: 178248
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
@@ -21,7 +21,7 @@ categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 | set talent | Etherguard |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting |
 | description | ... |

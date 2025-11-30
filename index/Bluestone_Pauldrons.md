@@ -1,6 +1,6 @@
 ---
 title: Bluestone Pauldrons
-revid: 176367
+revid: 178249
 source: https://deepwoken.fandom.com/wiki/Bluestone_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons]
 | set talent | Etherguard |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting |
 | description | ... |

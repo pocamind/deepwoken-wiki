@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 176541
+revid: 178259
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
 | set talent | Lasting Trauma |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting at the Merit Detainment Core |
 | description | Hell hath no fury like an Evanspear. |

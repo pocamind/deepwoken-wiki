@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 169888
+revid: 178246
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -53,6 +53,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   Despite being a pseudo fist-type weapon, it does not proc/activate Talents related to fists.
 -   Its critical attack is based on the martial art "Iaido."
     -   This involves quickly drawing and sheathing the sword in order to attack or defend.
--   Currently bugged when enchanted with [Stormbreaker](Stormbreaker.md); upon using a critical attack, the user will appear to throw nothing but deal damage regardless.
 -   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average damage, attack speed and slightly below average range as what you would expect from a medium weapon.
 -   It can only be used one-handed.
+-   Visionshaper clones wield the weapon unsheathed.
