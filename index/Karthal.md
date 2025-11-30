@@ -1,6 +1,6 @@
 ---
 title: Karthal
-revid: 177628
+revid: 178158
 source: https://deepwoken.fandom.com/wiki/Karthal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, The Divers]
@@ -14,6 +14,10 @@ categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, The Divers]
 | aspect | Celtor |
 | location | First Layer |
 | affiliation | The Divers |
+
+“ If you ring that bell, **all hell will break loose**... No one could survive if that bell were to ring. ”
+
+― Karthal
 
 ## Description
 

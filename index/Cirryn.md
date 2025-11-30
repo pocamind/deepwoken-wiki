@@ -1,6 +1,6 @@
 ---
 title: Cirryn
-revid: 178145
+revid: 178168
 source: https://deepwoken.fandom.com/wiki/Cirryn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Hive, Characters mentioned in books]
@@ -16,7 +16,7 @@ notices:
 | alias | The Starset Blade[1] |
 | aspect | Vesperian[1] |
 | affiliation | The Hive[1] |
-| death | Unknown. (Presumably, fell in battle defending the Hive's artifacts.), Sealed in the lifeless chamber with Remaz.[1] |
+| death | Deceased prior to the events of the game[1] |
 
 ## Description
 

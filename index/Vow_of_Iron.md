@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 177228
+revid: 178205
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Mementos, Character]
@@ -26,3 +26,5 @@ Face greater challenges. Surpass the memories you inherit.
 Any death will send you to the Depths.
 
 Banking and trading are disabled.
+
+A trailer for Vow of Iron was released on November 29th, 2025. View it [here](https://youtu.be/sF8ZLO9dcHY).

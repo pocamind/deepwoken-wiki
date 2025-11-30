@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 174758
+revid: 178188
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -287,6 +287,7 @@ Items and equipment that can be obtained from loot chests.
 -   [The Meat Lord](The_Meat_Lord.md) has a chance to spawn here.
 -   When a player with bad reputation comes near Summer Isle, the big cannon will activate, giving a warning sound. Then, the cannon will shoot after 3–5 seconds.
 -   The location may be a reference to the historic [Somers Isles Company](https://en.wikipedia.org/wiki/Somers_Isles_Company) and Somers Isles which is now more commonly known as [Bermuda](https://en.wikipedia.org/wiki/Bermuda).
+-   Often recognized as the island with the most "drip" (Cosmetic) [Equipment](Equipment.md) in the game.
 
 ## References
 

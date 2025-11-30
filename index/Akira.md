@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 167889
+revid: 178204
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
@@ -204,7 +204,8 @@ There is no level requirement to join [the Divers](The_Divers.md).
 
 -   He uses an unobtainable [Frostdraw](Frostdraw.md) spell. Upon usage he summons a laser across the ground in front of him, creating a line of frost.
 -   His sword is the only instance of a Katana being strapped to the back rather than sheathed. (It is confirmed to be actually floating behind him, rather than being strapped to his back.)
--   Akiras hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
+-   Akira's hair can be found here: [https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair](https://www.roblox.com/catalog/4904074569/White-Transcendent-Hair)
+-   Players have the option to call Akira "snake-eyed bookworm trash" as an insult. This is the only instance in _Deepwoken_ of an individual calling someone else an [ethnic slur](https://en.wikipedia.org/wiki/List_of_ethnic_slurs).
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
 -   Akira's bell is officially called "Top-pop."
 -   Akira's bell flashes purple when he kills the Ignition Union officers.

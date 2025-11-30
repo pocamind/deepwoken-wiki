@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 176625
+revid: 178224
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -27,11 +27,7 @@ categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia fam
 
 Defeating him will also allow [Galebreathe](Galebreathe.md) users to unlock the [Pillars of Erisia](Galebreathe.md#pillars-of-erisia) Mantra in a Whisper hand, which is a modified version of his Gale Stomp.
 
-He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a [Slate Aristocrat Coat](Aristocrat_Coat.md) over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Erisia is a martial arts user and is specialized in the [Legion Kata](Legion_Kata.md) style. Alongside his martial attacks, he wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
-
-While Duke Erisia is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Enchantments.md) 10+ Weight Weapon such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) combined with a [Heavy Hands Ring](Equipment.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can obliterate his posture and guardbreak him with every M1.
-
-After completing his "Memories of Home" challenge in the [Bestiary](Bestiary.md), extra information is revealed about him: "The Duke is known to have witnessed the Submergence of Celtor, an event that may well have set him down the path he chose."
+He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its submergence and part of a lineage that ruled the island of [Erisia](Erisia.md). In appearance, Duke Erisia is a Marten [Celtor](Celtor.md). He wears a Slate Aristocrat Coat over the [Eager Tradesman](Eager_Tradesman.md) starter outfit with [Eyeglasses](Eyeglasses.md). He also has a green [Resonance](Resonance.md) by his side that allows him to create and control [Rock Golems](Rock_Golem.md), although it is never visibly used during the boss fight. Duke Erisia is a martial arts user and is specialized in the [Legion Kata](Legion_Kata.md) style. Alongside his martial attacks, he wields extremely powerful [Galebreathe](Galebreathe.md) [Mantras](Mantras.md).
 
 ## Moveset
 
@@ -221,13 +217,15 @@ Once you have dealt enough damage, his shield will deactivate. While this allows
 
 The appearance of his servants signals that you are close to victory, as you can use them to regenerate to full health. Maintain pressure by keeping him cornered and attacking relentlessly until he is defeated.
 
-For enchanted weapons, **[Vampirism](Enchantments.md)** is the most recommended option, as it allows you to heal off the Duke in the second phase. This is particularly useful if he doesn't summon his servants, which can happen. Alternatively, you can opt for high-damage enchants like **Detonation** or **Astral**, but Vampirism provides a much safer approach.
+For enchanted weapons, **[Vampirism](Vampirism.md)** is the most recommended option, as it allows you to heal off the Duke in the second phase. This is particularly useful if he doesn't summon his servants, which can happen. Alternatively, you can opt for high-damage enchants like **Detonation** or **Astral**, but Vampirism provides a much safer approach.
+
+While Duke Erisia is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Stone.md) 10+ Weight Weapon such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) combined with a [Heavy Hands Ring](Heavy_Hands_Ring.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can obliterate his posture and guardbreak him with every M1.
 
 The fight will automatically begin if you attempt to assassinate him.
 
 Because the **Mindless Servants** can interfere with your attacks, **Mercy Kill** is a highly effective ability against them, as it can instantly eliminate low-health enemies. If you do not have this ability, you can bait the Duke's auto-gripping attacks to quickly deal with them.
 
-In the second phase, the Duke becomes very defensive and blocks frequently. The **[Enforcer Axe](<Enforcer's_Axe.md>)** and **[Hammer](<Enforcer's_Hammer.md>)** are excellent choices for heavy weapons, as they can quickly break through his posture.
+In the second phase, the Duke becomes very defensive and blocks frequently. The **[Enforcer's Axe](<Enforcer's_Axe.md>)** and **[Enforcer's Hammer](<Enforcer's_Hammer.md>)** are excellent choices for heavy weapons, as they can quickly break through his posture.
 
   
 
@@ -430,6 +428,8 @@ Exhaustive Loot Table
 -   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. This doesn't work with Sing.
 -   If you don't kill all the enemies in the first area, Duke Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).
 -   Do NOT count on using Mindless Servants as health packs, due to the fact the Duke will may NOT SUMMON THEM AT ALL in a fight.
+
+After completing his "Memories of Home" challenge in the [Bestiary](Bestiary.md), extra information is revealed about him: "The Duke is known to have witnessed the Submergence of Celtor, an event that may well have set him down the path he chose."
 
 ## Bugs
 

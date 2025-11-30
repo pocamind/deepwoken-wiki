@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 166539
+revid: 178235
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant]
@@ -18,7 +18,7 @@ A peaceful grotto to escape the horrors of a cursed land lost to time.
 
 ## Overview
 
-Pathfinder's Respite is a set of weathered structures that house the statues of the former and current nobles of Erisia. Resting on one of the sides is an NPC named [Alastir](Alastir.md). Completing his dialogue will give you access to bringing him hostages and a [Glider](Gliders.md) schematic.
+Pathfinder's Respite is a set of weathered structures that house the statues of the former and current nobles of Erisia. Resting on one of the sides is an NPC named [Alastir](Alastir.md). Completing his dialogue will give you access to bringing him hostages.
 
 ## Points of Interest
 
@@ -27,13 +27,13 @@ Pathfinder's Respite is a set of weathered structures that house the statues of 
 -   At the very front of the archway is a row of statues, featuring the past and present nobles of Erisia.
     -   The statue of the first noble is destroyed.
     -   The nobles of Erisia are labeled from left to right:
-        -   Duke Irivien Erisia, The Sea's Savant
-        -   Duchess Thera Erisia, The Needle's Eye
-        -   Duke Nir Erisia, The Noble
-        -   Duke Ferasci Erisia, The Songspeller
-        -   Duke Percimon Erisia, The Dramatic
-        -   Duke Iskeban Erisia, The Wind's Guide
-        -   Duke Ishamon Erisia, The Stonelife Lord
+        -   Duke [Irivien Erisia](Irivien_Erisia.md), The Sea's Savant
+        -   Duchess [Thera Erisia](Thera_Erisia.md), The Needle's Eye
+        -   Duke [Nir Erisia](Nir_Erisia.md), The Noble
+        -   Duke [Ferasci Erisia](Ferasci_Erisia.md), The Songspeller
+        -   Duke [Percimion Erisia](Percimion_Erisia.md), The Dramatic
+        -   Duke [Iskeban Erisia](Iskeban_Erisia.md), The Wind's Guide
+        -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), The Stonelife Lord
     -   Duke Ishamon Erisia's statue is seemingly destroyed and only features his eyeglasses.
 
 ### Guild Banner

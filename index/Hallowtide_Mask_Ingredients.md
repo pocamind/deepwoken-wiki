@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 170402
+revid: 178202
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -52,5 +52,5 @@ These items are found within chests of any mob during the event The items have n
 
 ## Trivia
 
--   The Fine Ink jars use the same model as the jars of blood used by [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md).
+-   The Fine Ink jars use the same model as the jars of blood used by [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   On release, Void feathers cost 5 Joy instead of the displayed 15. This was patched as of 11/5/2022.

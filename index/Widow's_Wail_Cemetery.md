@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 178138
+revid: 178166
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide, Dungeons]
@@ -63,12 +63,12 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 </tr>
 <tr>
   <td>6</td>
-  <td>2</td>
+  <td>2-3</td>
   <td><font>✗</font></td>
 </tr>
 <tr>
   <td>7</td>
-  <td>3</td>
+  <td>2-3</td>
   <td><font>◯</font></td>
 </tr>
 <tr>
@@ -109,4 +109,4 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 -   Beating all eight waves gives a total of 40 Joy.
 -   The trial has a cooldown of one minute after completion.
 -   Sometimes wave seven only spawns two [Gourdskippers](Gourdskipper.md), as displayed in the latter half of [this video](https://youtu.be/rBY5oJz7-wM). This is likely a bug.
--   Wave six also can spawn three Gourdskippers, though this is also likely a bug, akin to the previously listed trivia.
+-   Wave six also can spawn two or three Gourdskippers, though this is also likely a bug, akin to the previously listed trivia.

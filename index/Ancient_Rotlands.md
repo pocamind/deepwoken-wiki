@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 172161
+revid: 178236
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]

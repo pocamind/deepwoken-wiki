@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 174392
+revid: 178216
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -92,30 +92,36 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
   <td colspan="9">Begin</td>
 </tr>
 <tr>
+  <td colspan="9"><i>*The Khan is deep in thought, their brow furrowing periodically.*</i></td>
+</tr>
+<tr>
+  <td colspan="9">Hello...?</td>
+</tr>
+<tr>
   <td colspan="3">[Defeated <a href="Titus_Fulminus_Destellus.md">Titus</a>]</td>
   <td colspan="3">[Player has <a href="Imperium_Kata.md">Imperium Kata</a>]</td>
   <td colspan="3">[Legion Intelligence Quest not complete]</td>
 </tr>
 <tr>
-  <td colspan="3">Salvete, friend, good to see you!... Uh... What's with that look? Something bothering you?</td>
-  <td colspan="3"><i>*The Khan is deep in thought, their brow furrowing periodically.*</i></td>
-  <td colspan="3">Hm? Haven't you delivered the letter yet? Gods know how much he's suffering in that cell, get to it</td>
-</tr>
-<tr>
   <td>[Defeated Titus solo]</td>
   <td>[Defeated Titus in a group, with the Legion Intelligence]</td>
   <td>[Defeated Titus in a group, without the Legion Intelligence]</td>
-  <td colspan="3">Hello...?</td>
-  <td colspan="3">End</td>
+  <td colspan="3"><i>*They turn to briefly, yet amicably, acknowledge you.*</i> Ah, salvete once again! Hope you're enjoying your reward, friend? Thanks again for the help, on behalf of the Hundred Legions.</td>
+  <td colspan="3">Hm? Haven't you delivered the letter yet? Gods know how much he's suffering in that cell, get to it</td>
 </tr>
 <tr>
-  <td colspan="2">WIP</td>
+  <td><i>*They smile, clasping their hands together with the tact of a bureaucrat.*</i> Ah, salvete again, friend! I hope that everything went swimmingly, though you are looking a little worse-for-wear. I hope the <a href="Glossary.md#the-central-authority">Authority</a> didn't cause you too much trouble?</td>
+  <td>WIP</td>
+  <td>Salvete, friend, good to see you!... Uh... What's with that look? Something bothering you?</td>
+  <td colspan="6">End</td>
+</tr>
+<tr>
+  <td>Your friend... *attacked* me?</td>
+  <td>WIP</td>
   <td>You sent my friend to deliver a letter, and the guy nearly killed us.</td>
-  <td colspan="3"><i>*They turn to briefly, yet amicably, acknowledge you.*</i> Ah, salvete once again! Hope you're enjoying your reward, friend? Thanks again for the help, on behalf of the Hundred Legions.</td>
 </tr>
 <tr>
   <td colspan="3"><i>*Their brow furrows, before they pinch the bridge of their nose tightly.*</i> Are you telling me... He kicked off? Over a polite message to wait? And here I thought Titus was a man of great strategic patience. Well! Well... This is <i>quite</i> unexpected, I suppose.</td>
-  <td colspan="3">End</td>
 </tr>
 <tr>
   <td colspan="3">You don't seem too bothered by his fate?</td>
@@ -139,7 +145,16 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
   <td colspan="3">How did someone like him end up in the Fort Merit dungeons?</td>
 </tr>
 <tr>
-  <td colspan="3">WIP</td>
+  <td colspan="3">Not for lack of strength, that's for sure! I heard high command had him surrender on purpose. I haven't the foggiest on specifics, mind you. Rumour has it he was meant to gather intel from the inside, then break out - or be broken out. Some say it was meant to be some sort of pincer attack on Merit. Guess the plan's had some delays, though... And, suppose Titus wasn't too keen on waiting any longer. I dunno how the higher-ups will take his disobedience... But they've won either way - Fort Merit's in shambles, at least for now.</td>
+</tr>
+<tr>
+  <td colspan="3">Well... What now?</td>
+</tr>
+<tr>
+  <td colspan="3">As much as I didn't expect any of this to happen, I did promise to repay the favour. Take this, it also plays its part in something greater.</td>
+</tr>
+<tr>
+  <td colspan="3">End, player obtains Imperium Kata Fist style</td>
 </tr>
 </tbody>
 </table>

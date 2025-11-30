@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 175918
+revid: 178215
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -806,7 +806,7 @@ Amara, a Member of The Legion.
 _"Aye, thanks for the help. The Authority better start sending some help before we start declining their firearm contracts." - Scope_
 
 -   **Territory:** _[Summer Isle](Summer_Isle.md)_
--   **Encountered In:** _[Summer Isle](Summer_Isle.md), Miner’s Landing_
+-   **Encountered In:** _[Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>)_
 -   **Attunements:** _N/A_
 -   **Alliances:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
 -   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_
@@ -831,8 +831,6 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
     -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[2\]](#cite-note-arch-2)
 
 A Summer Company Member.
-
-  
 
 ### The Ministry [Ministryiconfaction](The_Ministry.md)
 

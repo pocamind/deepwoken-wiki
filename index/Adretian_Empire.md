@@ -1,6 +1,6 @@
 ---
 title: Adretian Empire
-revid: 177761
+revid: 178210
 source: https://deepwoken.fandom.com/wiki/Adretian_Empire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dissolved organizations]
@@ -16,7 +16,7 @@ categories: [Dissolved organizations]
 
 ## Description
 
-The Adretian Empire was a nation that existed during the Resurgeance. The Empire was eventually plague by a calamity known as [the Godstorm](Godstorm.md), which killed the royal family. The Godstorm was allegedly dispelled by [Drallis Ehr](Drallis_Ehr.md), who took control of the kingdom.[\[1\]](#cite-note-glossehr-1)
+The Adretian Empire was a nation that existed during [the Resurgence](The_Resurgence.md). The Empire was eventually plague by a calamity known as [the Godstorm](Godstorm.md), which killed the royal family. The Godstorm was allegedly dispelled by [Drallis Ehr](Drallis_Ehr.md), who took control of the kingdom.[\[1\]](#cite-note-glossehr-1)
 
 Drallis would go on to convert the Empire and other nations, who had willingly joined their coalition, into [The Central Authority](The_Central_Authority.md) in 65 BCE.[\[1\]](#cite-note-glossehr-1)
 

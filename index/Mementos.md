@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 171849
+revid: 178186
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, In progress without reason, InProgressPages]

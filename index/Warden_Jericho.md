@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 174568
+revid: 178238
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
@@ -304,13 +304,19 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>Sent to execution</td>
+  <td>Being executed</td>
 </tr>
 <tr>
   <td>Hmpf. I'm impressed you've made it this far. Unfortunately for you... This is where your journey ends, interloper..</td>
+  <td>By the authority bestowed upon me by our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I sentence you to death. May you drown in the deep, criminal.</td>
 </tr>
 <tr>
   <td>End, player is jailed and sent to <b>execution</b></td>
+  <td>End, player is <b>executed</b> and sent to <a href="First_Layer.md">Scyphozia</a></td>
 </tr>
 </tbody>
 </table>

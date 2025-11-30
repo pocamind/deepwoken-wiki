@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 178106
+revid: 178167
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2314,7 +2314,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
     -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Shadow Travel, and Static Withdraw (with child Talents).
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Static Withdraw (with child Talents).
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
@@ -2416,6 +2416,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: Moving Fortress, Shield Equipped, 20 Fortitude and 30 Strength.
 
 -   _Fists of Fortitude_ \[Rare Talent\] - \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
+    -   Lasts 10 seconds then goes on cooldown once the buff ends.
     -   Only procs on M1s and criticals with the M1 tag.
         -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
     -   This Talent also **works** with [Jus Karita](Jus_Karita.md), but won't come out on your Talent hands unless you have any **Fist Style** equipped.

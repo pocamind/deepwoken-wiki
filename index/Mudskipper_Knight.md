@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 177117
+revid: 178219
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]

@@ -1,19 +1,25 @@
 ---
 title: Deepdelver Myra
-revid: 174350
+revid: 178242
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, NPCs, NPCs located in the First Layer, Deepdelvers]
+categories: [Tiran NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the First Layer, Deepdelvers]
+notices:
+  - This page is currently being worked on. Unique Face Image Missing
 ---
 
 # Deepdelver Myra
 
 | Deepdelver Myra | |
 |---|---|
-| name | Deepdelver Myra |
+| name | Myra |
 | aspect | Tiran |
 | location | The Chariot's Spire |
 | affiliation | The Ignition Union |
+
+“ I really appreciate the sentiment. Good luck to you, friend. ”
+
+― Myra
 
 ## Description
 
@@ -109,4 +115,4 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
 
 -   Deepdelver Myra has a unique face and pose.
 -   Although somewhat hard to see due to her facial expression, Myra _does_ have pupils in her eyes.
--   Myra's hair can be found here: [https://www.roblox.com/catalog/18911919363/Black-Windy-Wispy-Anime-Hair](https://www.roblox.com/catalog/18911919363/Black-Windy-Wispy-Anime-Hair) Myra's hair ID: 18911919363
+-   Myra's hair can be found here: [https://www.roblox.com/catalog/18911919363/Black-Windy-Wispy-Anime-Hair](https://www.roblox.com/catalog/18911919363/Black-Windy-Wispy-Anime-Hair)

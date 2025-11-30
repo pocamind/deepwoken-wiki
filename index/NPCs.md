@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 172915
+revid: 178176
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -17,7 +17,7 @@ NPCs are the various inhabitants of the Deepwoken world. While some serve functi
 
 | NPC | Faction | Location | Mechanical Purpose | Notes |
 | --- | --- | --- | --- | --- |
-| ??? (Coral Clump) | Unaligned | [Celtor Wastes](Celtor_Wastes.md) | None |  |
+| [??? (Coral Clump)](<%253F%253F%253F_(Coral_Clump).md>) | Unaligned | [Celtor Wastes](Celtor_Wastes.md) | None |  |
 | [??? (FalseMan)](<%253F%253F%253F_(FalseMan).md>) | Unaligned | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | None | Speaks gibberish in special characters, snaps neck upon interaction. |
 | [??? (Frozen Man)](<%253F%253F%253F_(Frozen_Man).md>) | Unaligned | [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md) | None |  |
 | [Acre](Acre.md) | Unaligned | [Starswept Valley](The_Starswept_Valley.md) | Throws player off cliff upon agitating her. | Once thrown off enough times she stops. |
