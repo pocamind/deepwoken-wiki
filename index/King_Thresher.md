@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 177632
+revid: 178102
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,19 @@ categories: [Monsters]
 
 # King Thresher
 
+| King Thresher | |
+|---|---|
+| health | 2900, 7250 (Corrupted) |
+| attacks | Royal Breath, Arm Swipes, Bites, Tail Swipe, Burrow, Body Slam |
+| drops | (Common), King Thresher Spine(Rare), Mantra Modifiers, First Ranger Duster(Rare), Acheron's Warspear, True Seraph's Spear |
+| locations | Starswept Valley, The Depths, The Diluvian Mechanism |
+| challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
+
 “ As Thresher nests become more gregarious and populated, a shift in their behaviour takes place, with the males growing in size and competing with one another. \[...\] This escalates into an undefeated 'King' emerging, standing at a stature far above its kin and leading the pack. Threshers led by a King are emboldened and may be found scouting far beyond their nest in order to expand their territories. ”
 
 ― King Thresher Spine Description'
 
-_Also known as Big/King Croc, Mother Thresher, and many other names_ Template:Creature Info Box v2
+_Also known as Big/King Croc, Mother Thresher, and many other names_
 
 ## Description
 

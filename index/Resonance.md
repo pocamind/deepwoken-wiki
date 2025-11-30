@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 175943
+revid: 178119
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -154,6 +154,8 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 -   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Doom of Caeranthil](The_Doom_of_Caeranthil.md)
 -   [Interluminary Parasol](Interluminary_Parasol.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
  |
 | **Extra/Important information:** |

@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 177391
+revid: 178120
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -59,4 +59,5 @@ All criticals have a cooldown of **5 seconds**.
 -   Strangely, the held item form of the Soulthorn (not the equipped weapon) has collision, preventing the player from easily entering doorways while held.
 -   It appears to be based on real life 'swordbreaker' designs, despite the fact that they were a form of parrying dagger instead of a sword.
 -   The Soulthorn is unable to be dropped.
--   Soulthorn had all of its Penetration (30%) removed in the 10/11/2024 weekly update. This is widely considered by the community to be one of the harshest nerfs to a weapon in Deepwoken's history
+-   Soulthorn had all of its Penetration (30%) removed in the October 11th, 2024 update. This is widely considered by the community to be one of the harshest nerfs to a weapon in Deepwoken's history.
+-   Speaking to [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) with a Soulthorn equipped will unlock a hidden [Glossary](Glossary.md#zhatarn-the-moonlight-prince) entry on [Zhatarn](Zhatarn.md), the Moonlight Prince.

@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 178037
+revid: 178136
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -261,7 +261,7 @@ Based on the power of the user(s), the starting wave will differ;
 
 **\*TIMEBOMB MODIFIER\***
 
- | 2 [Corrupted](Monsters.md#scyphozia) [Bounders](Bounder.md) | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. |
+ | 2 [Corrupted](Monsters.md#scyphozia) [Bounders](Bounder.md) | It's best to target 1 Bounder first before targeting the other. Ideally, you can be near one Bounder's spawn point and force them into the corner, making it harder for them to run away. Standing near/behind the [Deep Shrines/Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) with have neither [Bounder](Bounder.md) "aggro" onto you, allowing for a quick heal or waiting out cooldowns. |
 | 26 | 
 
 2 [Corrupted](Monsters.md#scyphozia) [Stone Knights](Stone_Knight.md)  

@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 173459
+revid: 178138
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide, Dungeons]
@@ -18,7 +18,7 @@ The restless dead stir beneath the ground. Just what manner of trickery is this?
 
 ## Overview
 
-The Widow's Wail Cemetery is a location that players can teleport to with many portals scattered across the East & Etrean luminant. The main focus of this area is the Trial of the Gourdskipper, activated by the stand in the middle.
+The Widow's Wail Cemetery is a dungeon that players can teleport to accessed by [The Floating Keep](The_Floating_Keep.md). The main focus of this area is the Trial of the Gourdskipper, activated by the stand in the middle.
 
 ## Trial of the Gourdskipper
 
@@ -28,8 +28,6 @@ If you get hit by a Gourdskipper during the event, you become infected, and your
 There is a chance you will be bugged when getting hit with Pumpkin Pitch after being infected. This bug takes you out of the infected state and if you go to the next round, you'll be able to use Mantras, Resonance's, Murmurs, and your weapon while the trial is active. You will also be immortal to Gourdskippers but you can be gripped by them. To resolve this, just restart the trial.
 
 When the trial is active, you cannot teleport into the Widow's Wail Cemetery. Note that you do **NOT** need a mask to obtain [Joy](Joy.md) from the Trial of the Gourdskipper.
-
-In previous years you were able to stand on the trees and stack barrels to cheese the trial but as of '25 Hallowtide, this is no longer possible.
 
 <table><caption>Note that the number of Gourdskippers that spawn is per player (i.e. with two players the number of gourdskippers will be doubled, three players tripled, etc.)</caption>
 <tbody>
@@ -89,6 +87,7 @@ In previous years you were able to stand on the trees and stack barrels to chees
 -   [Gems](Treasures.md)
 -   [Mantra Modifiers](Mantra_Modifiers.md)
 -   [Deep Gems](Deep_Gems.md)
+-   [Goodie Bags](Goodie_Bag.md)
 
 ## Points of Interest
 
@@ -103,6 +102,11 @@ In previous years you were able to stand on the trees and stack barrels to chees
 ## Trivia
 
 -   The amount of players in the trial increases the amount of Gourdskippers that spawn. If you're the only player in the trial, only 1-3 spawn making it insanely easy.
+-   In previous years you were able to stand on the trees and stack barrels to cheese the trial but as of '25 Hallowtide, this is no longer possible.
 -   The name, "Widow's Wail", comes from Joffrey Baratheon's Valerian steel sword from Game of Thrones.
 -   Yes, you can hide from the Gourdskippers in Tacet.
 -   With the talent Death From Above, Starkindred wings can still be summoned in an active wave even if mantras are disabled from use. This provides a massive mobility boost with the increased dashes and the attack from the talent itself.
+-   Beating all eight waves gives a total of 40 Joy.
+-   The trial has a cooldown of one minute after completion.
+-   Sometimes wave seven only spawns two [Gourdskippers](Gourdskipper.md), as displayed in the latter half of [this video](https://youtu.be/rBY5oJz7-wM). This is likely a bug.
+-   Wave six also can spawn three Gourdskippers, though this is also likely a bug, akin to the previously listed trivia.

@@ -1,9 +1,9 @@
 ---
 title: Ulysses Disii
-revid: 177410
+revid: 178148
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Black Divers, The Divers]
+categories: [Stub pages without reason, StubPages, Black Divers, The Divers, Characters mentioned in books]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

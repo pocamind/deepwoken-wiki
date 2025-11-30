@@ -1,17 +1,20 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 172733
+revid: 178109
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
+categories: [NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
 ---
 
 # Vyrelda, Master of Blood
 
 | Vyrelda, Master of Blood | |
 |---|---|
-| aspect | Etrean |
-| location | FirfireDerelict Highchurch |
+| health | 2100 |
+| drops | None |
+| weapon | Red Death |
+| moves | Assault, Critical, TBA |
+| affiliation | The Ministry (formerly) |
 
 ## Description
 

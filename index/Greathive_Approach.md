@@ -1,6 +1,6 @@
 ---
 title: Greathive Approach
-revid: 177048
+revid: 178121
 source: https://deepwoken.fandom.com/wiki/Greathive_Approach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant, The Hive, Lawless Territory]

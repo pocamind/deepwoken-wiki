@@ -1,6 +1,6 @@
 ---
 title: "Abaddon, Sinner of Ice"
-revid: 174021
+revid: 178107
 source: https://deepwoken.fandom.com/wiki/Abaddon%2C_Sinner_of_Ice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Quests, The Starkindred Church, Enemies with Oaths]
@@ -8,11 +8,16 @@ categories: [Enemies, Quests, The Starkindred Church, Enemies with Oaths]
 
 # Abaddon, Sinner of Ice
 
-Template:Creature Info Box v2
+| Abaddon, Sinner of Ice | |
+|---|---|
+| health | 2100 |
+| drops | N/A |
+| weapon | True Seraph's Spear |
+| moves | Assault, Critical, Feint, Ice Eruption, Ice Daggers, Sinister Halo, Ascension, Celestial Assault |
 
 ## Description
 
-Abadonn, Sinner of Ice, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Starfield Veldt](Starfield_Veldt.md). He must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression, he uses a [True Seraph Spear](True_Seraph_Spear.md), and is a [Frostdrawer](Frostdraw.md). He uses [Starkindred](Oath%253A_Starkindred.md) mantras alongside his [Frostdraw](Frostdraw.md) ones and quickly become overwhelming for unprepared players attempting to kill him solo.
+Abbadon, Sinner of Ice, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Starfield Veldt](Starfield_Veldt.md). He must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression, he uses a [True Seraph Spear](True_Seraph_Spear.md), and is a [Frostdrawer](Frostdraw.md). He uses [Starkindred](Oath%253A_Starkindred.md) mantras alongside his [Frostdraw](Frostdraw.md) ones and quickly become overwhelming for unprepared players attempting to kill him solo.
 
 ## Moveset
 

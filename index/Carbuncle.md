@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 173530
+revid: 178103
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Layer 2, Floor 1]
@@ -8,11 +8,16 @@ categories: [Pages with broken file links, Monsters, Layer 2, Floor 1]
 
 # Carbuncle
 
+| Carbuncle | |
+|---|---|
+| health | 1400 |
+| attacks | Strong Attack, Successive Attacks |
+| drops | Lesser Mantra ModifiersSparks |
+| locations | Crypt of the Unbroken, Layer 2, Starfield Veldt, Starfield Tundra, Saramaed Hollow |
+
 “ Once the host's body is dead, the parasites start taking control of the husk left behind. It grows additional limbs, contorting into an awful shape, and the face... _ugh._ It's not a pretty sight. Those husks slowly become Carbuncles over time, and the host's body is left a mere puppet... ”
 
 ― Ignition Engineer Sunway
-
-Template:Creature Info Box v2
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 178081
+revid: 178128
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters, Hallowtide]
@@ -48,4 +48,4 @@ Similar to the [Instructor](Blade_Instructor.md), this only happens if you are k
 
 -   Gourdskippers likely use the same code as Rotskippers as they lose their limbs when parried.
 -   Farming them is a very efficient method to max out your Mudskipper bestiary entry, if you haven't already.
--   The first Gourdskippers that spawn in the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>) will take 3 shots from [Pumpkin Pitch](Pumpkin_Pitch.md) to die.
+-   The very first Gourdskippers that appear in the [Gourdskipper Trial](<Widow's_Wail_Cemetery.md>) take three [Pumpkin Pitch](Pumpkin_Pitch.md) shots to kill. This applies **only** to that initial set of spawns, not to all wave one enemies. This can be seen [here.](https://youtu.be/rBY5oJz7-wM)

@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 171673
+revid: 178131
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -26,7 +26,7 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 **Slash**  
 (★☆☆)
 
- | A short rangeSlash using their forearms. It can slash once, twice, four times and also mix in a kick.
+ | A short range slash using their forearms. It can slash once, twice, four times and also mix in a kick.
 
 -   Heavy posture damage.
 -   The only variant that can slash **four times** in quick succession.

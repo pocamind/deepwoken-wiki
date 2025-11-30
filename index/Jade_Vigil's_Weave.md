@@ -1,6 +1,6 @@
 ---
 title: "Jade Vigil's Weave"
-revid: 175323
+revid: 178112
 source: https://deepwoken.fandom.com/wiki/Jade_Vigil's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Etrea]
@@ -15,7 +15,7 @@ categories: [Outfits, Unique Outfits, Etrea]
 | crafting_req | x5 Cloth, x1 Dark Feather, x5 Fiber, x5 Gale Stone, x1 Thresher Spine, x1 Wind Gem |
 | price | 1,000 |
 | stat_req | Power 1510 Agility |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | durability | 2800 |
 | resistances | +25% Blood Armor, +25% Elemental Armor, +30% Physical Armor, +15% Wind Armor |
