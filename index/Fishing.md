@@ -1,6 +1,6 @@
 ---
 title: Fishing
-revid: 175962
+revid: 178321
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
@@ -62,7 +62,7 @@ Everything you can get from fishing has its own chat bubble pop-up, as a reactio
 
 Fishing spots are static places around the map that has a significantly better loot pool for fishing compared to regular waters. Additionally you are able to summon a fishing spot using the relic [Rain Spire](Rain_Spire.md)
 
-There are 11 known fishing locations in game:
+There are 12 known fishing locations in game:
 
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   Behind [Mortus'](Mortus.md) shack
@@ -75,6 +75,7 @@ There are 11 known fishing locations in game:
 -   [The Entropy Catalyst](The_Entropy_Catalyst.md)
 -   The [Beloved Zofia](Beloved_Zofia.md)
 -   [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md)
+-   Open sea area behind [Minityrsa](Minityrsa.md)
 
 **Boatmans Watch:**
 
@@ -135,6 +136,12 @@ This spot is located around the rocks in front of the front of the [Beloved Zofi
 ### New Kyrsa, The Sleeping City
 
 This spot is located in Kaide, The Drowned Light prison(Can be visited through one of the white clouds teleporter tower near Ethiron Chamber).
+
+**Minityrsa:**
+
+### Minityrsa
+
+This spot is located in open sea area behind Minityrsa.
 
 ## Gallery
 

@@ -1,9 +1,9 @@
 ---
 title: Gawain Corbet
-revid: 174463
+revid: 178306
 source: https://deepwoken.fandom.com/wiki/Gawain_Corbet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, The Ignition Union]
+categories: [Characters mentioned in books]
 ---
 
 # Gawain Corbet
@@ -16,7 +16,7 @@ categories: [Lore, The Ignition Union]
 
 ## Description
 
-Gawain Corbet is a member of [The Ignition Union](The_Ignition_Union.md) who created the song "The Hammer's Call" in 1272 CE. Corbet based the lyirccs of the song on an unnamed Adretian folksong.[\[1\]](#cite-note-hammer-1)
+Gawain Corbet is a member of [The Ignition Union](The_Ignition_Union.md) who created the song "The Hammer's Call" in 1272 CE. Corbet based the lyrics of the song on an unnamed [Adretian](Adret.md) folksong.[\[1\]](#cite-note-hammer-1)
 
 ## References
 

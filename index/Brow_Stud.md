@@ -1,6 +1,6 @@
 ---
 title: Brow Stud
-revid: 176373
+revid: 178269
 source: https://deepwoken.fandom.com/wiki/Brow_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's regular shop for 35 Chests from:, Mudskipper Attack, The Ferryman (Winter), Aelita |
+| obtainment | Sold in Traan Zakshun's regular shop for 35 Chests from:, Mudskipper Attack, The Ferryman (Winter), Aelita, First Layer |
 | description | That's metal. |
 
 ## Description

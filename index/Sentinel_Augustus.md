@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 177701
+revid: 178334
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -96,7 +96,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **Command Division:**
 
-**Warrant Officer:**
+**Command Division:**
 
 <table>
 <tbody>
@@ -111,108 +111,6 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 </tr>
 <tr>
   <td>No?.. Is that so?.. Oh... <i>*His expression looks as if you just told him Kyrsmas isn't real. He turns to his aide-de-camp, who looks just as dejected as the Sentinel.*</i> Myself and Interceptor Steel though... <i>*He shakes his head.*</i> Ah, nevermind that. Hey, listen, solider, if you <i>do</i> hear news of action, I ask that you tell the Shock Corps <i>first</i>, alright? We'll <b>hit 'em where it hurts</b>!</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Captain:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Commander:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Seneschal:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin</td>
-</tr>
-<tr>
-  <td>WIP</td>
 </tr>
 <tr>
   <td>End</td>

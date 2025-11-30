@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 176936
+revid: 178285
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects, Mechanics]
@@ -15,8 +15,6 @@ categories: [Interactible Objects, Mechanics]
 | obtainment | Erisia, Open Sea (Etrean Luminant) Starswept Valley (Eastern Luminant) |
 
 _Not to be confused with [Relics](Relics.md)._
-
-  
 
 ## Overview
 

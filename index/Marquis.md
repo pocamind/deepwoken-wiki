@@ -1,11 +1,10 @@
 ---
 title: Marquis
-revid: 173160
+revid: 178316
 source: https://deepwoken.fandom.com/wiki/Marquis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, "Non-canon articles", Manga characters]
+categories: ["Non-canon articles", Manga characters]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
   - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
 ---
 
@@ -16,7 +15,9 @@ notices:
 
 ## Description
 
-Marquis was an inhabitant of [The Duke](<The_Duke_(manga).md>)'s country.
+Marquis was an inhabitant of [The Duke](<The_Duke_(manga).md>)'s country. They helped defend the land and were seen as its "shield".
+
+What became of Marquis when the Duke turned to human experimentation is unknown.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Fountain Gates
-revid: 159687
+revid: 178274
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
@@ -8,7 +8,7 @@ categories: [Pages with broken file links, Locations, Mechanics, Map, Utilities]
 
 # Fountain Gates
 
-**Not to be confused with [Deep Shrines](Deep_Shrines.md) and [Shrine of Courage](Shrine_of_Courage.md)**
+_Not to be confused with [Deep Shrines](Deep_Shrines.md) and [Shrine of Courage](Shrine_of_Courage.md)._
 
 File:GreathiveAratelShrinesNew2.png
 

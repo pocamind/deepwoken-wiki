@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 173153
+revid: 178324
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -400,7 +400,6 @@ Shadow
 -   Deals 2 posture damage per hit (3).
 -   Has a 15 second cooldown.
 -   Has 9.179x PvE scaling (multiply damage dealt by 9.179 to get PvE damage).
--   After casting Shadow Meteors, you need to M1 to call them down.
 -   You cannot cast Mantras while Shadow Meteors is active.
 -   Shares a cooldown with [Shadow Seekers](Shadowcast.md#shadow-seekers).
 

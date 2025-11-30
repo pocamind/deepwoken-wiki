@@ -1,6 +1,6 @@
 ---
 title: "Andros' grandfather"
-revid: 178196
+revid: 178310
 source: https://deepwoken.fandom.com/wiki/Andros'_grandfather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Old Stewards]
@@ -15,7 +15,7 @@ notices:
 | Andros' grandfather | |
 |---|---|
 | affiliation | Old Stewards |
-| family | Bookkeeper Andros (Grandson)[1] |
+| family | Bookkeeper Andros (grandson)[1] |
 
 ## Description
 

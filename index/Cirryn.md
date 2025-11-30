@@ -1,11 +1,9 @@
 ---
 title: Cirryn
-revid: 178168
+revid: 178302
 source: https://deepwoken.fandom.com/wiki/Cirryn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Hive, Characters mentioned in books]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Characters mentioned in books]
 ---
 
 # Cirryn
@@ -20,13 +18,13 @@ notices:
 
 ## Description
 
-**Cirryn, the Starset Blade** was a hero of [the Hive](The_Hive.md). He defended [the Hive](The_Hive.md) and it's [artifacts](Artifacts.md) from [Etrean](Etrea.md) invaders.[\[1\]](#cite-note-lament-1)
+Cirryn, the Starset Blade was a hero of [the Hive](The_Hive.md). He defended the Hive and its [artifacts](Artifacts.md) from [Etrean](Etrea.md) invaders.[\[1\]](#cite-note-lament-1)
 
-[Remaz](Remaz.md), one of [the Hive](The_Hive.md)'s [lifeweavers](Lifeweave.md), mentions that there are a lot of stories about Cirryn and his power.[\[1\]](#cite-note-lament-1)
+[Remaz](Remaz.md), one of the Hive's [lifeweavers](Lifeweave.md), mentions that there are a lot of stories about Cirryn and his power.[\[1\]](#cite-note-lament-1)
 
-During the events of [Lament of Cirryn](Lament_of_Cirryn.md), a group of [lifeweavers](Lifeweave.md), consisting of [Ehkusa](Ehkusa.md), [Ka'al](<Ka'al.md>) and [Remaz](Remaz.md) is entrusted by a hivelord, [Ximac Diri](Ximac_Diri.md), with a mission to revive Cirryn to serve [the Hive](The_Hive.md), using their powers.[\[1\]](#cite-note-lament-1)
+A group of [lifeweavers](Lifeweave.md), consisting of [Ehkusa](Ehkusa.md), [Ka'al](<Ka'al.md>) and Remaz is entrusted by a hivelord, [Ximac Diri](Ximac_Diri.md), with a mission to revive Cirryn to serve the Hive, using their powers.[\[1\]](#cite-note-lament-1)
 
-Their mission ended in partial success, as Cirryn was revived, but turned against them, going berserk and destroying the Greathive's plaza. Eventually, Cirryn was sealed in the lifeless chamber by [Ehkusa](Ehkusa.md) and [Remaz](Remaz.md), with the latter one sacrificing his life in order to lure rogue Cirryn in the chamber.[\[1\]](#cite-note-lament-1)
+Their mission ended in partial success, as Cirryn was revived, but turned against them, going berserk and destroying the Greathive's plaza. Eventually, Cirryn was sealed in the lifeless chamber by Ehkusa and Remaz, with the latter one sacrificing his life in order to lure rogue Cirryn in the chamber.[\[1\]](#cite-note-lament-1)
 
 ## References
 

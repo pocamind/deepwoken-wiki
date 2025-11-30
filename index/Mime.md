@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 172155
+revid: 178331
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -68,7 +68,7 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">WIP</td>
+  <td colspan="12">Pfffffff........ idiot.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>

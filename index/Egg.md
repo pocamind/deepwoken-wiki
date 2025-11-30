@@ -1,6 +1,6 @@
 ---
 title: Egg
-revid: 177011
+revid: 178281
 source: https://deepwoken.fandom.com/wiki/Egg
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Harvestables, Food Ingredients]
@@ -21,7 +21,7 @@ categories: [Food, Harvestables, Food Ingredients]
 | pass down | No |
 | desc | A raw egg. |
 
-Not to be confused with [Thresher Eggs](Thresher_Egg.md), a separate item.
+_Not to be confused with [Thresher Eggs](Thresher_Egg.md), a separate item._
 
 ## Description
 

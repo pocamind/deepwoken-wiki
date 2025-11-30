@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 177715
+revid: 178287
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Summer Company]
@@ -24,7 +24,7 @@ categories: [Outfits, Master Outfits, The Summer Company]
 | selling_price | 10 |
 | weight | 1 |
 
-Not to be confused with [Summer Dragoon (NPC)](<Summer_Dragoon_(NPC).md>).
+_Not to be confused with [Summer Dragoon (NPC)](<Summer_Dragoon_(NPC).md>) or [Dragoon](Dragoon.md)._
 
 **Summer Dragoon** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 

@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 173887
+revid: 178282
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -12,7 +12,7 @@ categories: [The Depths, Layer 1]
 |---|---|
 | location | The Depths (Scyphozia) |
 
-**Not to be confused with [Deep Shrines](Deep_Shrines.md) and [Shrines](Fountain_Gates.md) (aka Fountain Gates).**
+_Not to be confused with [Deep Shrines](Deep_Shrines.md) or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
 
 ## Description
 

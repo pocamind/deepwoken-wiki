@@ -1,9 +1,9 @@
 ---
 title: Rickard Ashet
-revid: 174284
+revid: 178307
 source: https://deepwoken.fandom.com/wiki/Rickard_Ashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Naval personnel of The Central Authority]
+categories: [Naval personnel of The Central Authority, Characters mentioned in books]
 ---
 
 # Rickard Ashet

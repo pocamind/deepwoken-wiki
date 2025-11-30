@@ -1,6 +1,6 @@
 ---
 title: Pathfinder
-revid: 171858
+revid: 178273
 source: https://deepwoken.fandom.com/wiki/Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Mementos, Character]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # Pathfinder
+
+_This page is for the Pathfinder gamemode. For the "Pathfinder" term in lore, see [Glossary#Pathfinders](Glossary.md#pathfinders) and [Lore#The Pathfinders](Lore.md#the-pathfinders). For the Pathfinder NPC, see [Pathfinder (NPC)](<Pathfinder_(NPC).md>)._
 
 “ Follow your own path.  
 The ink is not yet dry. Your fate is what you make it. ”

@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 172057
+revid: 178314
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gunsmiths]
@@ -25,7 +25,7 @@ categories: [Gunsmiths]
 
 He created the Summer Company when he found old pre-Canticlysm firearms and reverse-engineered them. This explains why guns are so underpowered, because he did not perfect the original design and failed to fully reverse-engineer it.
 
-[Gunsmith Hierka](Gunsmith_Hierka.md) is Rosen's former protégé who deceived Rosen and hid his ranking as a member of [The Central Authority](The_Central_Authority.md)'s [Bureau of Research](Bureau_of_Research.md) in order to steal the Summer Company's Secrets, This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the [The Central Authority](The_Central_Authority.md).
+[Gunsmith Hierka](Gunsmith_Hierka.md) is Rosen's former protégé who deceived Rosen and hid his ranking as a member of [The Central Authority](The_Central_Authority.md)'s [Bureau of Research](Bureau_of_Research.md) in order to steal the Summer Company's Secrets. This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the [The Central Authority](The_Central_Authority.md).
 
 ## Trivia
 
