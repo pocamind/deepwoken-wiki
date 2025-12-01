@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 174755
+revid: 178474
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -14,11 +14,11 @@ LocationL Songseeker Wilds LocationR
   
 
   
-**Songseeker Wilds** is a location in _Deepwoken._ It is a group of islands that can be found in [the Aratel Sea](The_Aratel_Sea.md).
+**Songseeker Wilds** is a Location in _Deepwoken._ It is a group of islands that can be found in [The Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 
-Songseeker Wilds is a set of islands located in the [Aratel Sea](The_Aratel_Sea.md). It is home to [Ancient Rotlands](Ancient_Rotlands.md), provides a passage to [Minityrsa](Minityrsa.md), and is north of [Summer Isle](Summer_Isle.md).
+Songseeker Wilds is a set of islands located in [The Aratel Sea](The_Aratel_Sea.md). It is home to [Ancient Rotlands](Ancient_Rotlands.md), provides a passage to [Minityrsa](Minityrsa.md), and is north of [Summer Isle](Summer_Isle.md).
 
 It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by [boats](Ships_&_Sailing.md).
 
@@ -27,34 +27,34 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 ### Small Island
 
 -   A mineshaft containing several nodes of [Rock](Ores.md#rock), [Coal](Ores.md#coal), [Iron](Ores.md#iron) and [Gold](Ores.md#gold).
--   There are a lot of trees bearing fruits, ranging from Redd, Plumfruit, Ongos and Pomar.
+-   There are a lot of trees bearing fruits, ranging from [Redd](Redd.md), [Plumfruit](Plumfruit.md), [Ongo](Ongo.md), and [Pomar](Pomar.md).
 -   A small campsite on top of a hill.
--   A small tower with a quest NPC named Ezra who tells you to clear out Songseekers at [the Derelict Highchurch](Derelict_Highchurch.md).
+-   A small tower with a quest NPC named Ezra who tells you to clear out Songseekers at [Derelict Highchurch](Derelict_Highchurch.md).
 
 ### Large Island
 
-Mineskipper mineshaft location
+Mineskipper Mineshaft Location
 
 Shrine of Order path
 
--   There are a lot of trees bearing [fruits](Food.md), ranging from [Redd](Redd.md), Plumfruit and Pomar.
+-   There are a lot of trees bearing [Fruits](Ingredients.md#fruits), ranging from Redd, Plumfruit, and Pomar.
 -   A mineshaft that is sealed off by debris, using terrain destroying mantras like Strong Left can open it up, containing several nodes of Rock, Coal, Iron and Gold.
     -   There are also [Mineskippers](Mudskipper.md#mineskipper) within the mineshaft.
     -   Going up the mineshaft will also lead to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
     -   Along with that, you will find some nodes of [Astruline](Ores.md#astruline).
--   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [voidzone](Voidzones.md) that was once home to a Celestial.
+-   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [Voidzone](Voidzones.md) that was once home to a Celestial.
 -   There are two structures:
     1.  A windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)
     2.  A small hut. (2 chest spawns inside)
 
 #### Obelisk
 
--   A glowing obelisk surrounded by monks.
+-   A glowing obelisk surrounded by Songseekers.
     -   Success in killing all three of these enemies will reward a chest. See loot table below.
 
 #### Ravine Entrance
 
--   An entrance to a staircase that leads to the Songkeeper Temple, guarded by monks.
+-   An entrance to a staircase that leads to the [Songseeker Temple](Songseeker_Temple.md), inside is [Amashi, Master of Flame](Amashi,_Master_of_Flame.md).
     -   Success in killing all three of these enemies will reward a chest. See loot table below.
 
 ## Points of Interest
@@ -111,4 +111,4 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to [Minityrsa](Minityrsa.md)'s lootpool.
 -   Songseeker Wilds appears to be a rainforest area, judging by the sounds of birds chirping, the large variety of fruit, and thick woods.
 -   There are many gankers in Songseeker. Better to farm in [Minityrsa](Minityrsa.md) instead.
-    -   This is mainly because Emel's quest requires you to kill someone here or because of the [Guild Banner](Guild_Banners.md).
+    -   This is mainly because [Emel](Emel.md)'s quest requires you to kill someone here or because of the [Guild Banner](Guild_Banners.md).

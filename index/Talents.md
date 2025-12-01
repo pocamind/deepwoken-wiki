@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 178243
+revid: 178452
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -648,7 +648,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
     -   Drains 4.5 HP per second and 2% Blood per second.
     -   [Deepscorn Casque](Deepscorn_Casque.md) and the Enhanced Flow Talent are the only two effects in the game that can reduce the self damage taken by Rush Hour.
-    -   Grants a 15% damage buff to all sources of DMG. This is affected by the damage multiplier cap.
+    -   Grants a 15% damage buff, affected by the damage modifier cap.
     -   Increases blood bar damage by +35% (additive).
     -   Grants a 30% active speed boost. This counts for Talents such as Speed Demon and Cheap Shot.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.

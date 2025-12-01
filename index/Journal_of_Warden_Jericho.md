@@ -1,6 +1,6 @@
 ---
 title: Journal of Warden Jericho
-revid: 177623
+revid: 178457
 source: https://deepwoken.fandom.com/wiki/Journal_of_Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, NPCs, NPCs located in the Etrean Luminant]
@@ -12,16 +12,21 @@ notices:
 
 | Journal of Warden Jericho | |
 |---|---|
-| name | Journal of Warden Jericho |
 | location | Tomb of the Nameless Warrior |
+
+_Not to be confused with [Jericho's Journal](<Jericho's_Journal.md>)._
+
+“ I fear we may have fallen for his plan, the Authority's Peacekeeping may soon become the sole reason for the largest Submergence since Celtor. ”
+
+― Warden Jericho
 
 ## Description
 
-Journal of [Warden Jericho](Warden_Jericho.md) is an "NPC" that is part of unbounding the player's [Strength](Attributes.md) attribute.
+Journal of Warden Jericho was an interactable book that would [Unbound](Attributes_Unbound.md) the player's strength after "reading."
 
 ## Location
 
-Journal of [Warden Jericho](Warden_Jericho.md) is located in [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md) at the back of [Erisia](Erisia.md)
+Journal of Warden Jericho was located in [Tomb of the Nameless Warrior](Tomb_of_the_Nameless_Warrior.md) at the back of [Erisia](Erisia.md).
 
 ## Dialogue
 

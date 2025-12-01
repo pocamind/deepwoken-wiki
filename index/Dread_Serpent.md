@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 177006
+revid: 178456
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -8,11 +8,14 @@ categories: [Monsters, Bosses, Enemies]
 
 # Dread Serpent
 
+_Commonly referred to by the community as Kaido (Developers prefer that it is referred to as the Dread Serpent)._
+
 “ The devouring of the Drakeheart had not lead to infinite wisdom, but an overwhelming sensation of dread. Countless memories of dark history, strife, tragedy, filled the head of the Steward. In his very place, he began to become a creature most grotesque. And thus, the first Dread Serpent was born, corrupted by the will of a thousand dead eras, a mind drowned with only histories of tragedy. ”
 
 ― Lumen’s Folklore: Volume ‘North’
 
-_Commonly referred to by the community as Kaido (Developers prefer that it is referred to as the Dread Serpent)._ Template:Creature Infobox V3
+  
+Template:Creature Infobox V3
 
 ## Description
 

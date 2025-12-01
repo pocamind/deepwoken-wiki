@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 177205
+revid: 178454
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Enemies]
@@ -29,6 +29,7 @@ Killing them will give you the [Wraithclaw](Wraithclaw.md) along with a low tier
 -   ...
 -   The grudge lingers...
 -   It has not been forgotten...
+-   Pay for your crimes...
     
 
 **On Grip:**

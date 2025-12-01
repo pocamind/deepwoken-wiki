@@ -1,9 +1,9 @@
 ---
 title: Bluster Rift
-revid: 159661
+revid: 178469
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations]
+categories: [Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -51,10 +51,10 @@ Below is a list of potential items that can spawn in Bluster Rift.
 -   [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)
 -   [Authority Helm](Authority_Helm.md)
 -   [Blackleaf Helm](Blackleaf_Helm.md)
--   Gladiator Helm
+-   Gladiator Helmet
 -   [Silver Knight's Helm](<Silver_Knight's_Helm.md>)
 -   [Khan Helmet](Legion_Helmet.md)
--   [Pale Assassin's Hood](<Assassin's_Hood.md>)
+-   Pale Assassin's Hood
 -   [Vigil Hood](Vigil_Hood.md)
 
 #### Face
@@ -66,7 +66,7 @@ Below is a list of potential items that can spawn in Bluster Rift.
 
 -   [Ruby Drop Earrings](Ruby_Drop_Earrings.md)
 -   [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md)
--   [Practitioner's Earrings](<Practicioner's_Earrings.md>)
+-   [Practicioner's Earrings](<Practicioner's_Earrings.md>)
 
 #### Back
 
@@ -74,13 +74,13 @@ Below is a list of potential items that can spawn in Bluster Rift.
 
 #### Arms
 
--   [Pale Assassins Cloak](<Assassin's_Cloak.md>) (Uncommon)
+-   Pale Assassin's Cloak (Uncommon)
 -   [Star Duster](Star_Duster.md) (Rare)
 -   Black Parka
 -   Brown Parka
 -   White Parka
 -   [Royal Pathfinder](Royal_Pathfinder.md)
--   [White Fur Pauldrons](Fur_Pauldrons.md)
+-   White Fur Pauldrons
 -   [Khan Pauldrons](Legion_Pauldrons.md)
 -   [Silver Pauldrons](Silver_Pauldrons.md)
 -   [Woodland Pauldrons](Woodland_Pauldrons.md)
@@ -102,7 +102,7 @@ Below is a list of potential items that can spawn in Bluster Rift.
 -   [Iron Cestus](Iron_Cestus.md) (Common)
 -   [Champion's Sword](<Champion's_Sword.md>) (Uncommon)
 -   [Legion Cestus](Legion_Cestus.md) (Uncommon)
--   [Apprentice's Rapier](Apprentice_Rapier.md) (Uncommon - Rare)
+-   [Apprentice Rapier](Apprentice_Rapier.md) (Uncommon - Rare)
 -   [Iron Birch](Iron_Birch.md) (Rare)
 -   [Master Hawk's Handaxe](<Master_Hawk's_Handaxe.md>) (Rare)
 -   [Pale Morning](Pale_Morning.md) (Rare)
@@ -113,6 +113,8 @@ Below is a list of potential items that can spawn in Bluster Rift.
 -   [Tanto](Tanto.md) (Rare)
 -   [Flamekeeper Cestus](Flamekeeper_Cestus.md) (Very Rare)
 -   [Khan Shield](Legion_Shield.md) (Very Rare)
+
+  
 
 ## Trivia/Notes
 

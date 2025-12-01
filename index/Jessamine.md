@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 174175
+revid: 178455
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -21,7 +21,7 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
 
 ## Description
 
-Jessamine is a [Vesperian](Vesperian.md) NPC. Talking to him will start a quest that allows you to obtain the Talent "Thresher Scales" to regain armor at campfires.
+Jessamine is a [Ganymede](Ganymede.md) NPC. Talking to him will start a quest that allows you to obtain the Talent "Thresher Scales" to regain armor at campfires.
 
 ### Location
 

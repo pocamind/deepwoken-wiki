@@ -1,6 +1,6 @@
 ---
 title: Voidzones
-revid: 160917
+revid: 178437
 source: https://deepwoken.fandom.com/wiki/Voidzones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Voidzones]
@@ -12,7 +12,7 @@ notices:
 
 LocationL Voidzones LocationR
 
-"The Void's influence draws you ever closer to the Depths."
+The Void's influence draws you ever closer to the Depths.
 
   
 

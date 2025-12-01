@@ -1,9 +1,11 @@
 ---
 title: "Diver's Camp"
-revid: 166611
+revid: 178451
 source: https://deepwoken.fandom.com/wiki/Diver's_Camp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Layer]
+categories: [Articles with conjectural titles, Locations, Locations in the First Layer]
+notices:
+  - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---
 
 # Diver's Camp
@@ -21,21 +23,8 @@ The Camp is found straight and to the left of the District of Commerce Ramp Gate
 
 This is an area intended to be used for players who have drowned and cannot reach [Castle Light](Castle_Light.md) because of it.
 
-[Alpha Sharko](Megalodaunt.md) vs [Diver](Diver.md) events are common here, making it a good place to grind.
-
 The location of the Diver's Camp on the map.
 
 ## Contents
 
--   Locker to change [equipment](Equipment.md) and [mantras](Mantras.md)
-
-### NPCs
-
--   [Diver Apprentices](Apprentice_Diver.md)
-
-## Events
-
-Events that spawn in Diver's Camp that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
-
--   [Divers](Diver.md) vs [Mudskippers](Mudskipper.md)
--   [Divers](Diver.md) vs [Megalodaunt](Megalodaunt.md)
+-   [Lockers](Locker.md) to view to access campfire menu.

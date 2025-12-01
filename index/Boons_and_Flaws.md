@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 177682
+revid: 178429
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -33,8 +33,8 @@ These Boons can be chosen at character creation with no requirements for obtainm
   <td><center><b>Autodidact</b><br>
   </center></td>
   <td><center>You get a free attribute to invest at every level.</center></td>
-  <td><center>Gain 3 free points every Power up, consuming an investment each use.</center></td>
-  <td><center>Uses general experience upon use, possibly taking you into exp debt. Cannot be used to bypass the 330 investment point limit. Stacks with the <a href="Adret.md">Adret</a> aspect Talent, Maudet.</center></td>
+  <td><center>Gain 3 free investment points every Power up, consuming an investment each use.</center></td>
+  <td><center>Uses general experience upon use, possibly taking you into exp debt. Cannot be used to bypass the 330 investment point limit. Stacks with the <a href="Adret.md">Adret</a> aspect Talent, Maudet, giving you 6 free points on every Power up.</center></td>
   <td><center>1 Flaw Point</center></td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   </center></td>
   <td><center>You have a much higher max carry load, and can carry much larger quantities of food.</center></td>
   <td><center>Carry load is increased by 50, item stack limits are increased by 25% (rounded), and the maximum quantity of food you can carry is increased by 5.</center></td>
-  <td><center>This affects certain <a href="Relics.md">Relics</a> such as <a href="Dye_Packet.md">Dye Packets</a>. Stacks with the <a href="Talents.md#miscellaneous">Pack Mule</a> Talent, granting you a combined total of +10 to the amount of food you can have on your person, double that of what the base is.</center></td>
+  <td><center>This affects certain <a href="Relics.md">Relics</a> such as <a href="Dye_Packet.md">Dye Packets</a>. Stacks with the <a href="Talents.md#pack-mule">Pack Mule</a> Talent, granting you a combined total of +10 to the amount of food you can have on your person, double that of what the base is.</center></td>
   <td><center>1 Flaw Point</center></td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   </center></td>
   <td><center>Your armor retains more durability when attacked.</center></td>
   <td><center>Reduces the amount of armor durability lost from being hit by 25%.</center></td>
-  <td><center>Stacks with the <a href="Armorer's_Ring.md">Armorer's Ring</a> effect.</center></td>
+  <td><center>Stacks multiplicatively with the <a href="Armorer's_Ring.md">Armorer's Ring</a> effect.</center></td>
   <td><center>1 Flaw Point</center></td>
 </tr>
 <tr>

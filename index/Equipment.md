@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 176841
+revid: 178482
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -2645,6 +2645,9 @@ _+Talent: Angel's Guise_
 Hollow, Sworn |
 |  | [Iron Mask](Iron_Mask.md) | +1 Common Pip | N/A |
 |  | [Moon Brow Rings](Moon_Brow_Rings.md)  
+(**Series**) | _+1 Health_ | Variants:  
+Brow, Dermal, Lip & Septum |
+|  | [Moon Dermal Rings](Moon_Dermal_Rings.md)  
 (**Series**) | _+1 Health_ | Variants:  
 Brow, Dermal, Lip & Septum |
 |  | [Moon Lip Ring](Moon_Lip_Ring.md)  

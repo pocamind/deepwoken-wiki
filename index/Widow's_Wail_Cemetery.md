@@ -1,6 +1,6 @@
 ---
 title: "Widow's Wail Cemetery"
-revid: 178166
+revid: 178484
 source: https://deepwoken.fandom.com/wiki/Widow's_Wail_Cemetery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide, Dungeons]
@@ -103,7 +103,7 @@ When the trial is active, you cannot teleport into the Widow's Wail Cemetery. No
 
 -   The amount of players in the trial increases the amount of Gourdskippers that spawn. If you're the only player in the trial, only 1-3 spawn making it insanely easy.
 -   In previous years you were able to stand on the trees and stack barrels to cheese the trial but as of '25 Hallowtide, this is no longer possible.
--   The name, "Widow's Wail", comes from Joffrey Baratheon's Valerian steel sword from Game of Thrones.
+-   The name, "Widow's Wail", comes from Joffrey Baratheon's Valyrian steel sword from Game of Thrones.
 -   Yes, you can hide from the Gourdskippers in Tacet.
 -   With the talent Death From Above, Starkindred wings can still be summoned in an active wave even if mantras are disabled from use. This provides a massive mobility boost with the increased dashes and the attack from the talent itself.
 -   Beating all eight waves gives a total of 40 Joy.
