@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 178225
+revid: 178388
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -96,6 +96,8 @@ Certain Monsters have unique visual effects when attuned.
 **Meteor Isle:**
 
 **The Monkey's Paw:**
+
+**Moon's Eyrie:**
 
 **Voidsea:**
 

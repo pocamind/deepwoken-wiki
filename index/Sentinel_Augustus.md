@@ -1,6 +1,6 @@
 ---
 title: Sentinel Augustus
-revid: 178334
+revid: 178357
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -96,15 +96,13 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 
 **Command Division:**
 
-**Command Division:**
-
 <table>
 <tbody>
 <tr>
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*Noticing your presence, Sentinel Augustus immediately jumps to attention, as you both exchange stiff salutes. There's a look of excitement on his face.*</i> At ease! Do you bring news from Warden Jericho, Warrant Officer? Are we finally mustering to march on the enemy?..</td>
+  <td><i>*Noticing your presence, Sentinel Augustus immediately jumps to attention, as you both exchange stiff salutes. There's a look of excitement on his face.*</i> At ease! Do you bring news from Warden Jericho, [Rank]? Are we finally mustering to march on the enemy?..</td>
 </tr>
 <tr>
   <td>Uh... No, Sentinel, I'm sorry to say.</td>

@@ -1,9 +1,9 @@
 ---
 title: Beloved Zofia
-revid: 176940
+revid: 178369
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant]
+categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant, Voidzones]
 ---
 
 # Beloved Zofia
@@ -22,7 +22,7 @@ The **Beloved Zofia** is a wrecked ship found in the [Voidsea](Voidsea.md) behin
 
 -   Required to speak to for the obtainment of [Silentheart](Oath%253A_Silentheart.md).
 
-### [Ghosts](Ghost.md)
+### Ghosts
 
 A ghost can appear at the ship's helm. If the player has killed no one, the ghost says, "Remember the dead." However, if the player has killed anyone, the ghost says, "...Did you think we'd forget?" and four weak, short-lived apparitions attack.
 

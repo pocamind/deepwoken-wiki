@@ -1,6 +1,6 @@
 ---
 title: Voidsea
-revid: 164560
+revid: 178413
 source: https://deepwoken.fandom.com/wiki/Voidsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Voidzones]
@@ -23,9 +23,8 @@ Sometimes, when you are sailing through **Voidsea**, you may be teleported to a 
 
 ## Points of Interest
 
--   [Boatman's Watch](<Boatman's_Watch.md>)
--   [Voidheart](Voidheart.md)
 -   [Beloved Zofia](Beloved_Zofia.md)
+-   [Boatman's Watch](<Boatman's_Watch.md>)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 
 ## Trivia

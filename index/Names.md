@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 172054
+revid: 178347
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1860,9 +1860,9 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
     -   The series also supposedly influenced the creation of the [Adret](Adret.md).
 -   The names "Zote", "Ogrim" and "Isma" are a reference to the indie game _[Hollow Knight](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)_ by Team Cherry.
 -   The name "Link" is a reference to - [wait does this one really need explaining?](https://en.wikipedia.org/wiki/The_Legend_of_Zelda)
--   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _Lobotomy Corporation_ and _Library of Ruina_. This is likely not all of them.
+-   The names "Angela," "Binah," "Chesed," "Gebura," "Hokma," "Netzach," "Roland," "Tiphereth," "Xiao", "Zena", "Iori", and "Argalia", are references to the games _[Lobotomy Corporation](https://lobotomycorp.fandom.com/wiki/Home)_ and _Library of Ruina_. This is likely not all of them.
     -   The name "[Angela](https://library-of-ruina.fandom.com/wiki/Angela)" was heavily requested due to the [Etrea](Etrea.md) "Coral" variant heavily resembling her due to its pale skin and light blue hair.
-    -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _Lobotomy Corporation._
+    -   Coincidentally, "Xiao" is also the name of a _[popular character from Genshin Impact](https://genshin-impact.fandom.com/wiki/Xiao)_, with several names originating from Genshin Impact being suggested at the same time as those originating from _Library of Ruina_ and _[Lobotomy Corporation](https://lobotomycorp.fandom.com/wiki/Home)._
     -   "Binah", "Chesed", "Gebura", "Hokma", "Netzach", "Tiphereth" can also be reference to [the tree of life](<https://en.m.wikipedia.org/wiki/Tree_of_life_(Kabbalah)>) which the said characters from _Library of Ruina_ and _Lobotomy Corporation_ are based on. But "Malkuth", "Yesod", and "Hod" are not added as names.
     -   "Roland" and "Argalia" can also be reference to characters from [Orlando Innamorato](https://en.m.wikipedia.org/wiki/Orlando_Innamorato) which the said characters from _Library of Ruina_ are based on.
 -   Additionally, the names "Faust", "Ishmael", "Ahab", "Heathcliff", "Catherine" and "Gregor" are likely references to _Limbus Company_, a game created by the same studio as _Lobotomy Corporation_ and _Library of Ruina. (Yet no Don Quixote.. or at least Quixote...)_

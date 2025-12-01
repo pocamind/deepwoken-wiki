@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 176296
+revid: 178385
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -92,10 +92,9 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   Previously, despite being located inside the [Voidsea](Voidsea.md), the area was not considered as a [Voidzone](Voidzones.md). However, the Voidsea was changed in the 12/14/2024 patch, causing the area to be considered a Voidzone.
+-   Previously, despite being located inside the [Voidsea](Voidsea.md), the area was not considered as a [Voidzone](Voidzones.md). However, the Voidsea was changed in the December 14th, 2024 patch, causing the area to be considered a Voidzone.
 -   Since the island is located within the bounds of the Voidsea, there is a chance that you'll be teleported away from it while trying to reach it.
--   A good place to farm for the [Astral Enchant Stone](Enchantments.md#list-of-enchantments) as [Moon Knights](Moon_Knight.md) have a chance to drop it.
--   For regular players, it is located at x: -4713, z: -13751
+-   A good place to farm for the [Astral](Astral.md) [Enchant Stone](Enchant_Stone.md) as [Moon Knights](Moon_Knight.md) have a chance to drop it.
+-   For regular players, it is located at x: -4713, z: -13751.
 -   [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) gives some insight on where to find this island, as well as some lore about it.
--   If you're stuck inside the room, you can spam the interact hotkey to open the door while dashing and jumping at the same time.
--   After Killing the Moon Knight, the door closes in 4 minutes and the stone pillars glows again
+-   After killing the Moon Knight, the door closes in 4 minutes and the stone pillars glows again.

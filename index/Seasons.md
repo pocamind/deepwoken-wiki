@@ -1,6 +1,6 @@
 ---
 title: Seasons
-revid: 167741
+revid: 178403
 source: https://deepwoken.fandom.com/wiki/Seasons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,13 +10,13 @@ categories: [Mechanics]
 
 ## Description
 
-There are 4 seasons in Deepwoken, each lasting 2 months, meaning a year is 8 months in total. Each month lasts a real life day and transitions at Midnight UTC (7PM EST). For the months, the start of a season ends with '-span', and the end of a season ends with '-fall'.
+Seasons are a core part of _Deepwoken's_ world system. Each season lasts two in-game months, making a full year eight months long. One in-game month corresponds to a single real-life day, with seasons transitioning at Midnight UTC (7 PM EST).
 
-The difference between seasons are the visuals and interactions relating to items that grow in the environment. Such examples are Wheat not growing in the Winter, certain fruits unable to grow from trees, and certain mobs spawning, such as the [Blizzard Knights](Stone_Knight.md) at [Minityrsa](Minityrsa.md) only spawning during the winter (if it is not winter the [Aelita](Aelita.md) event will spawn).
+In the calendar, the first month of a season ends with **"-span"**, while the second ends with **"-fall."** The only exception to this rule is Spring, with its last month ending in **"-watch."**
 
--   If one year passes (8 real life days), your character will get one year older, unless it gets wiped.
-    -   The year will also change, for example 1273 to 1274.
--   All races will gain wrinkles and various other changes as they [age](Age.md).
+Seasonal changes primarily affect environmental visuals and the behavior of flora and fauna. Certain plants can stop growing during specific seasons as well, such as Wheat ceasing growth in Winter, and some fruits can no longer growing.
+
+Seasonal mob changes also occur. For example, [Blizzard Knights](Stone_Knight.md#blizzard-knight) only appear in [The Valley of Heroes](The_Valley_of_Heroes.md) during Winter. When it is not Winter, [Aelita](Aelita.md) will spawn instead.
 
 ## Seasons
 
@@ -64,6 +64,9 @@ Examples of Winter.
 
 ## Notes
 
+-   If a full in-game year passes (8 real-life days), your character ages by one year unless wiped.
+-   The year counter also advances (e.g., 1273 → 1274).
+-   All races visually age over time, gaining wrinkles and other age-related traits.
 -   The [Ferryman](The_Ferryman.md) rewards an additional chest on defeat, with the loot pool of this chest varying depending on the current season. During Spring, Ferryman will give 1 [Knowledge](Knowledge.md) instead.
 -   The Aelita event can spawn in Valley of Heroes if it is not winter. For more information, see [Aelita](Aelita.md).
 -   Aelita will still have a chance of spawning Snow Knights if it only recently turned to Spring in the server.

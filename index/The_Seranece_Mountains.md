@@ -1,6 +1,6 @@
 ---
 title: The Seranece Mountains
-revid: 172088
+revid: 178367
 source: https://deepwoken.fandom.com/wiki/The_Seranece_Mountains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Stub pages without reason, StubPages, Locations]

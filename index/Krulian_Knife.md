@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 177361
+revid: 178346
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -52,11 +52,12 @@ While under the Krulian Charge effect, using basic attacks applies a purple [Sho
 
 Using your critical attack while Krulian Charge is on cooldown will use the default Dagger critical. Unlike the normal default dagger critical, This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
-Krulian Charge has a 17 second cooldown (7 second downtime). The Lightning Assault critical has a 5 second cooldown. The default dagger critical has a 3 second cooldown.
+Krulian Charge has a 17 second cooldown (7 second downtime). The Lightning Assault critical has a 5 second cooldown. The default dagger critical has a 3 second cooldown. None of these can be reduced through any method (explanations can be found below).
 
 ## Trivia
 
 -   The Krulian Charge cooldown is not considered a normal critical cooldown; its duration cannot be decreased via [Critical Engine](Talents.md#intellisense) Blessed Gem or [Warmaster's Medallion](<Warmaster's_Medallion.md>).
+-   There is a minor cooldown that stacks onto of all of the normal crit cooldowns. This cooldown takes priority over all others, meaning [Critical Engine](Talents.md#intellisense) Blessed Gem and [Warmaster's Medallion](<Warmaster's_Medallion.md>) are completely useless to the Krulian Knife as a whole.
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".
 -   Meeting the requirement of LHT, the damage is (19.9)
 -   At max LHT, the damage is (22.3)

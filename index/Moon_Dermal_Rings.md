@@ -1,6 +1,6 @@
 ---
 title: Moon Dermal Rings
-revid: 176501
+revid: 178356
 source: https://deepwoken.fandom.com/wiki/Moon_Dermal_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, First Layer |
+| obtainment | Sold by Traan Zakshun for 35 Chests from:, First Layer |
 | description | FEAR. IRONSINGERS. |
 
 ## Description

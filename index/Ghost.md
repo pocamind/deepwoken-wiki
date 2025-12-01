@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 177041
+revid: 178414
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
