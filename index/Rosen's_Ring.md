@@ -1,9 +1,9 @@
 ---
 title: "Rosen's Ring"
-revid: 176547
+revid: 178630
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings]
+categories: [Equipment, Rings, Scaling Rings, The Summer Company]
 ---
 
 # Rosen's Ring
@@ -25,7 +25,9 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Rosen's Ring** is a ring [Equipment](Equipment.md) that adds 1.2 Intelligence scaling to your [Weapon](Weapons.md) damage.
+**Rosen's Ring** is a ring [Equipment](Equipment.md) that adds 1.2 Intelligence scaling to your weapon.
+
+Having more than one scaling ring equipped at the same time will lessen their effectiveness.
 
 ## Trivia
 

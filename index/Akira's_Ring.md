@@ -1,9 +1,9 @@
 ---
 title: "Akira's Ring"
-revid: 176331
+revid: 178609
 source: https://deepwoken.fandom.com/wiki/Akira's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings, The Divers]
+categories: [Equipment, Rings, The Divers, Scaling Rings]
 ---
 
 # Akira's Ring
@@ -25,7 +25,9 @@ categories: [Equipment, Rings, The Divers]
 
 ## Description
 
-**Akira's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Willpower Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed).
+**Akira's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Willpower Scaling to your Weapon.
+
+Having more than one scaling ring equipped at the same time will lessen their effectiveness.
 
 ## Trivia
 

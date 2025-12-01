@@ -1,6 +1,6 @@
 ---
 title: "Practicioner's Earrings"
-revid: 176529
+revid: 178653
 source: https://deepwoken.fandom.com/wiki/Practicioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,6 +15,7 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
+| innate stats | +2 Rare Pips |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |
@@ -25,4 +26,4 @@ categories: [Equipment, Ears]
 
 ## Description
 
-**Practicioner's Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. Equipping them grants +2 Rare Pips.
+**Practicioner's Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.

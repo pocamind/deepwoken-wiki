@@ -1,9 +1,9 @@
 ---
 title: Mantle of Enmity
-revid: 176487
+revid: 178572
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Relics]
+categories: [Equipment, Torso, Relics, Equipment Relics]
 ---
 
 # Mantle of Enmity

@@ -1,6 +1,6 @@
 ---
 title: The Interrogation Of Ranger Santiago Talo
-revid: 173172
+revid: 178554
 source: https://deepwoken.fandom.com/wiki/The_Interrogation_Of_Ranger_Santiago_Talo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -11,6 +11,12 @@ categories: [Books]
 ## Description
 
 _**The Interrogation Of Ranger Santiago Talo**_ is a [Book](Books.md).
+
+## Characters
+
+-   [Ulysses Disii](Ulysses_Disii.md)
+-   [Santiago Talo](Santiago_Talo.md)
+-   [Memnos Tulad](Memnos_Tulad.md)
 
 ## Text
 

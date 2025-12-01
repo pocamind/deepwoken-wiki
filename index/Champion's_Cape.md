@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 178250
+revid: 178539
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes, Craftable]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Capes, Craftable]
 
 ## Description
 
-Champion's Cape is an animated **unenchantable** [Equipment](Equipment.md) item under the "Arms" category. It is a dark cape with shoulder plates, visually the same as [Titus's Cape](<Titus's_Cape.md>).
+Champion's Cape is an animated, **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category. It is a dark cape with shoulder plates, visually the same as [Titus's Cape](<Titus's_Cape.md>).
 
 The [No Interruptions](Talents.md#no-interruptions) Talent reduces damage taken by ranged attacks while you have at least two combat tags.
 
@@ -39,3 +39,7 @@ The damage reduction works in PvE if you are combat tagged by at least one playe
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Titus's Cape](<Titus's_Cape.md>) + 1 [Champion's Alloy](<Champion's_Alloy.md>).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

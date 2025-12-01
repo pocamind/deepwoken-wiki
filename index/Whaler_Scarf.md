@@ -1,6 +1,6 @@
 ---
 title: Whaler Scarf
-revid: 176614
+revid: 178559
 source: https://deepwoken.fandom.com/wiki/Whaler_Scarf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Scarves]
@@ -26,7 +26,7 @@ categories: [Equipment, Torso, Scarves]
 
 ## Description
 
-The Whaler Scarf is an [Equipment](Equipment.md) item under the "Torso" category. Equipping this grants you 3% elemental Armor and an unknown number of Pips. They are rarely found in [Primadon](Primadon,_Titan_of_the_East.md) Chests(?), [Etrea VS Eylis Sea Event](Knife_of_Eylis.md) chests and [The Knives of Eylis](The_Knives_of_Eylis.md) [faction ambush](Faction_Ambushes.md) events.
+The Whaler Scarf is an [Equipment](Equipment.md) item under the "Torso" category.
 
 ## Trivia
 

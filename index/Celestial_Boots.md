@@ -1,6 +1,6 @@
 ---
 title: Celestial Boots
-revid: 178260
+revid: 178542
 source: https://deepwoken.fandom.com/wiki/Celestial_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Legs, Boots, Equipment, Craftable]
@@ -26,7 +26,7 @@ categories: [Legs, Boots, Equipment, Craftable]
 
 ## Description
 
-The Celestial Boots are an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category. These white plated boots are identical in appearance to the [Star Boots](Star_Boots.md) but lack Star Boots' 5 innate health.
+The Celestial Boots are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category. These white plated boots are identical in appearance to the [Star Boots](Star_Boots.md) but lack Star Boots' 5 innate health.
 
 The [Cosmic Connection](Talents.md#cosmic-connection) Talent increases [Astral](Astral.md)'s damage buff from 20% to 25%. However, it does not increase the falling astral star's damage.
 
@@ -37,3 +37,7 @@ You can obtain the recipe of the Celestial boots from killing [Moon Knights](Moo
 Celestial Boots are obtained by crafting the following items together at [The Cold Forge](The_Cold_Forge.md):
 
 1.  1 [Astral Enchant Stone](Enchant_Stone.md) + 2 [Star Boots](Star_Boots.md)
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

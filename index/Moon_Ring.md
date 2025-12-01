@@ -1,6 +1,6 @@
 ---
 title: Moon Ring
-revid: 176503
+revid: 178635
 source: https://deepwoken.fandom.com/wiki/Moon_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

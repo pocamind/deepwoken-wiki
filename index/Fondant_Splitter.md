@@ -1,9 +1,9 @@
 ---
 title: Fondant Splitter
-revid: 177035
+revid: 178567
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics]
+categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
 ---
 
 # Fondant Splitter

@@ -1,6 +1,6 @@
 ---
 title: Ring of Curses
-revid: 176544
+revid: 178631
 source: https://deepwoken.fandom.com/wiki/Ring_of_Curses
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,4 +25,4 @@ categories: [Equipment, Rings]
 
 ## Description
 
-Ring of Curses runs the random event check more frequently and partially ignores anti-event stacking upon being equipped. The user must be at Power 10 to equip this ring.
+Ring of Curses runs the random event check more frequently and partially ignores anti-event stacking upon being equipped.

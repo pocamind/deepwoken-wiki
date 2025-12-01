@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Boots
-revid: 178257
+revid: 178543
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Reinforced War Helmet](Reinforced_War_Helmet.md)
 
 ## Description
 
-The Evanspear War Plate is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots.
+The Evanspear War Plate is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Evanspear War Set. The Evanspear War Boots are a set of green and yellow plated boots.
 
 The [Repeated Blows](Talents.md#repeated-blows) Talent will reset the cooldown of [Strength](Attunement-less.md#strength) Mantras when you land your weapon's critical if a [Wrath Gem](Wrath_Gem.md) is in effect. Wrath Gems last for 9s with a 10s CD. This Talent has no cooldown.
 
@@ -49,3 +49,7 @@ The [Fearful](Status_Effects.md#fearful) status effect lasts for 18 seconds.
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Evanspear War Boots](Evanspear_War_Boots.md) + 5 [Forge Needles](Forge_Needle.md) + 3 [Wrath Gems](Wrath_Gem.md).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

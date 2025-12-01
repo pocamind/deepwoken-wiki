@@ -1,9 +1,9 @@
 ---
 title: Strange Missives
-revid: 174036
+revid: 178674
 source: https://deepwoken.fandom.com/wiki/Strange_Missives
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Books]
+categories: [Books, The Moonlit Faith]
 ---
 
 # Strange Missives
@@ -42,3 +42,9 @@ Strange Missives
 > We ask for more caution when selecting those to represent the beest of th'armati. - Thalassis, our confessor's Acolyte.
 > 
 > \*The other documents do not pique your interest - more unintelligible jargon and bizarre utterings. Certainly this was not intended for your hands.\*
+
+## Appearances
+
+-   [Thal'assis Linnaes](<Thal'assis_Linnaes.md>)
+-   [Galvika](Galvika.md)
+-   [The Lady Confessor](The_Lady_Confessor.md) (Mentioned only)

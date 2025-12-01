@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Boots
-revid: 178253
+revid: 178546
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
 
 ## Description
 
-The Ascended Outlaw Boots is an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Boots are a pair of green tattered pants that originated from the Western Luminant.
+The Ascended Outlaw Boots is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Boots are a pair of green tattered pants that originated from the Western Luminant.
 
 The [Stronger Under Pressure](Talents.md#stronger-under-pressure) Talent makes your [Might Gems](Might_Gem.md) slow your opponent on hit. The effectiveness of this slow scales on the amount of player combat tags you have.
 
@@ -50,3 +50,7 @@ This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Boots](Western_Outlaw_Boots.md) + 3 [Gilded Needles](Gilded_Needle.md) + 3 [Might Gems](Might_Gem.md).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

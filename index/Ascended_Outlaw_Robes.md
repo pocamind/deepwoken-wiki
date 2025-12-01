@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Robes
-revid: 178252
+revid: 178547
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
 
 ## Description
 
-The Ascended Outlaw Robes is an **unenchantable** [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Robes are green and yellow wristbands that originated from the Western Luminant.
+The Ascended Outlaw Robes is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Robes are green and yellow wristbands that originated from the Western Luminant.
 
 The [Ether Pinpoint](Talents.md#ether-pinpoint) Talent allows your Mantras with the [Might Gem](Might_Gem.md) equipped to fully ignore shield posture bonuses. This is very similar to the [Shield Breaker](Talents.md#shield-breaker) Talent, granted this is not exclusive to Blunt Mantras.
 
@@ -51,3 +51,7 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 
 1.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 3 [Might Gems](Might_Gem.md).
 2.  1 [Western Outlaw Robes](Western_Outlaw_Robes.md) + 1 [Ferryman's Coat Cloth](<Ferryman's_Coat_Cloth.md>) + 1 [Duke's Coat Fiber](<Duke's_Coat_Fiber.md>).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

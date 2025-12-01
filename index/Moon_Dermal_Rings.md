@@ -1,6 +1,6 @@
 ---
 title: Moon Dermal Rings
-revid: 178480
+revid: 178587
 source: https://deepwoken.fandom.com/wiki/Moon_Dermal_Rings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -26,4 +26,4 @@ categories: [Equipment, Face, Piercings]
 
 ## Description
 
-The Moon Dermal Rings are an [Equipment](Equipment.md) item under the "Face" category. When worn, this grants +1 Health.
+The Moon Dermal Rings are an [Equipment](Equipment.md) item under the "Face" category.

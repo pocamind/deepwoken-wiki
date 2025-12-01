@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Hat
-revid: 178251
+revid: 178548
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Hats, Head, Craftable, Equipment with Set Bonuses]
@@ -30,7 +30,7 @@ Ascended Outlaw Set
 
 ## Description
 
-The Ascended Outlaw Hat is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a green Kasa hat that originated in the Western Luminant.
+The Ascended Outlaw Hat is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Hat is a green Kasa hat that originated in the Western Luminant.
 
 The [Mass Effect](Talents.md#mass-effect) Talent increases the strength of your [Might Gems](Might_Gem.md) for every Might Gem you have equipped on your Mantras.
 
@@ -50,3 +50,7 @@ This restores your Posture upon landing a Mantra with a [Might Gem](Might_Gem.md
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Western Outlaw Hat](Western_Outlaw_Hat.md) + 2 [Curse of the Authoritative Enchant Stones](Enchant_Stone.md) + 3 [Might Gems](Might_Gem.md).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

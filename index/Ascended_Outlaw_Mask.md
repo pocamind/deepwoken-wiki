@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Mask
-revid: 176339
+revid: 178581
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Craftable]
@@ -31,9 +31,9 @@ Variants: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md)
 
 ## Description
 
-The Ascended Outlaw Mask is an [Equipment](Equipment.md) item under the "Face" category, and is a part of the Ascended Outlaw Set. The Ascended Outlaw Mask is a green mask with upwards facing triangles, almost mimicking the mouth of a beast. This item originated from the Western Luminant. When worn, this grants +1 Common pip and the [Destructive Yell](Talents.md#equipment-talents).
+The Ascended Outlaw Mask is an [Equipment](Equipment.md) item under the "Face" category, and is a part of the Ascended Outlaw Set. Originating from the Western Luminant, the Ascended Outlaw Mask is a green mask with upwards facing triangles, almost mimicking the mouth of a beast.
 
-The _Destructive Yell_ Talent breaks campfires around the player when they use [Ardour](Murmur%253A_Ardour.md) Scream.
+The [Destructive Yell](Talents.md#destructive-yell) Talent breaks campfires around the player when they use [Ardour](Murmur%253A_Ardour.md) Scream.
 
 ## Obtainment
 

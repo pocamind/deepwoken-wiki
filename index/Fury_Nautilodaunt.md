@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 178460
+revid: 178511
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -125,8 +125,6 @@ However, without a "cheese weapon," such as the aforementioned [Evanspear Greata
 Always keep calm while fighting the Nautilodaunt, and rely on parries before doing a Critical Attack to break their posture and kill it in one or two guardbreaks. **If** you have an incredibly high damage mantra such as Tornado or Caltrops, instead those may be used as it will choose to ignore them in order to vent, which leads to a Posture Break thus allowing you to kill the Nautilodaunt while having only blocked or parried and using one move.
 
 On a final note, you **cannot** sneak attack the Nautilodaunt while it is burrowing at the spawn, as it will consistently dodge the first attack. It's aggro range is pretty large so be cautious if you are entering on it's side of the city, listen out for the digging because it's loud enough for you to be able to hear it from outside the aggro range.
-
-  
 
 ## Trivia
 

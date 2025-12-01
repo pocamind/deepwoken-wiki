@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Ring"
-revid: 176427
+revid: 178637
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,7 +15,7 @@ categories: [Equipment, Rings]
 | selling price | 50 |
 | requirements | LV 6 |
 | weight | 0.1 |
-| innate stats | 1 Legendary Pip |
+| innate stats | +1 Legendary Pip |
 | innate talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

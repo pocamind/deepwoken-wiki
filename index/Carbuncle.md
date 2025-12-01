@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 178103
+revid: 178601
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters, Layer 2, Floor 1]

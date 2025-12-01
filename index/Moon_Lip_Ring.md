@@ -1,6 +1,6 @@
 ---
 title: Moon Lip Ring
-revid: 176502
+revid: 178588
 source: https://deepwoken.fandom.com/wiki/Moon_Lip_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -21,9 +21,9 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's regular shop for 35 Chests from:, Mudskipper Attack, The Ferryman (Winter), Aelita |
+| obtainment | Sold by Traan Zakshun for 35 Chests from:, Mudskipper Attack, The Ferryman (Winter), Aelita |
 | description | FEAR. IRONSINGERS. |
 
 ## Description
 
-The Moon Lip Ring is an [Equipment](Equipment.md) item under the "Face" category. When worn, this grants +1 Health.
+The Moon Lip Ring is an [Equipment](Equipment.md) item under the "Face" category.

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken (manga)
-revid: 169255
+revid: 178666
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(manga)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles"]
@@ -19,6 +19,11 @@ An [adventuring party](Unidentified_adventuring_party.md) are informed by an [ol
 The party arrive at the Northern Temple and confront the Duke, who greets them, asking if they too seek power. The party dismiss any similarities between them and him, prompting the Duke to transform into a giant creature and unleash his army of golems onto the party in a demonstration of his strength. As the two sides do battle, the Duke taunts them over how his golems were created from past adventurers who challenged him and demands their souls, while the party find their attacks against the Duke to be ineffective. The group recognize the Duke has a shield of some kind, before being blasted away by the Duke's attack. The [swordsman](Unidentified_swordsman.md), reeling from the attack, notices bone-like fixtures emerging from the ground, and remembers the old man explaining that the Duke had experimented on himself and turned his bones into conduits for magic. The swordsman removes one of the structures, dispelling the Duke's shield. In response, the Duke readies a fused Mantra, combining fire, ice and lightning. The swordman braces, and manages to parry the attack, which he vocalizes, giving the party the opportunity to go on the offensive, finally defeating the Duke.
 
 As the party recover from the battle, they are confronted by a [knight](Unidentified_knight.md). The knight reveals they had been watching the group but dismisses them as unimpressive before picking them off one by one. The knight stands over their defeated bodies, musing that they appear inexperienced and shouldn't try learning what lies beyond power, disappearing into dust.
+
+## Appearances
+
+-   [The Duke](<The_Duke_(manga).md>)
+-   [Marquis](Marquis.md) (Mentioned only)
 
 ## Trivia
 

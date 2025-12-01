@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 178259
+revid: 178545
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -30,7 +30,7 @@ Reinforced War Set
 
 ## Description
 
-The Reinforced War Helmet is an **unenchantable** [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow corinthian helmet, similar to Roman headgear.
+The Reinforced War Helmet is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow corinthian helmet, similar to Roman headgear.
 
 [Fatal Strike](Talents.md#fatal-strike) empowers your [Strength Mantra](Attunement-less.md) guardbreaks, dealing extra damage and applying a slowing affect. This can only proc if the Mantra has a [Wrath Gem](Wrath_Gem.md) equipped. The talent has a 10 second cooldown.
 
@@ -50,3 +50,7 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 2.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Primadon Pelt](Primadon_Pelt.md) + 2 [Wrath Gems](Wrath_Gem.md).
 3.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 2 [Wrath Gems](Wrath_Gem.md).
 4.  1 [Evanspear War Helmet](Evanspear_War_Helmet.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 2 [Wrath Gems](Wrath_Gem.md).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

@@ -1,6 +1,6 @@
 ---
 title: Bluestone Pauldrons
-revid: 178249
+revid: 178540
 source: https://deepwoken.fandom.com/wiki/Bluestone_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Craftable, Equipment with Set Bonuses, Pauldrons]
@@ -30,7 +30,7 @@ Bluestone Set
 
 ## Description
 
-The Bluestone Pauldrons are an **unenchantable** "arms" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a set of bulky blue and black pauldrons.
+The Bluestone Pauldrons are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) "arms" [Equipment](Equipment.md), and are a part of the Bluestone set. The equipment consists of a set of bulky blue and black pauldrons.
 
 The [Ether Emergency](Talents.md#ether-emergency) Talent grants you a flat amount of health when hit while below 25% health in exchange for not being able to cast Mantras for a short duration. The amount of health restored is 15% of your Maximum Ether. This has a 5 minute cooldown.
 
@@ -47,3 +47,7 @@ Etherguard applies the [Etherguard](Status_Effects.md#etherguard) status effect 
 This item is crafted using the following recipe:
 
 1.  1 [Bluesteel Pauldrons](Bluesteel_Pauldrons.md) + 1 [Warped Blue Gem](Warped_Blue_Gem.md).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

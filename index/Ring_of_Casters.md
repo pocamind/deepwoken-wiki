@@ -1,6 +1,6 @@
 ---
 title: Ring of Casters
-revid: 176543
+revid: 178632
 source: https://deepwoken.fandom.com/wiki/Ring_of_Casters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,4 +25,4 @@ categories: [Equipment, Rings]
 
 ## Description
 
-Ring of Casters grants the user +5% Mantra damage at the cost of reducing your melee damage by 5%. The user must be at [Power](Power.md) 10 to equip this ring.
+Ring of Casters grants the user +5% Mantra damage at the cost of reducing your melee damage by 5%.

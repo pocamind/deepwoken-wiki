@@ -1,6 +1,6 @@
 ---
 title: God in the Machine
-revid: 172924
+revid: 178580
 source: https://deepwoken.fandom.com/wiki/God_in_the_Machine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -59,3 +59,9 @@ God in the Machine
 > There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.”
 > 
 > There was a fire.
+
+## Appearances
+
+-   [Eran](Eran.md)
+-   [Fran](Fran.md)
+-   [Ryrda](Ryrda.md)

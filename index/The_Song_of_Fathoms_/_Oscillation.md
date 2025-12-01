@@ -1,6 +1,6 @@
 ---
 title: The Song of Fathoms / Oscillation
-revid: 173056
+revid: 178617
 source: https://deepwoken.fandom.com/wiki/The_Song_of_Fathoms_/_Oscillation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -90,3 +90,12 @@ The Song of Fathoms / Oscillation
 > Once individual adventurers, as well as other groups and powers, began to make their own forays into the Depths in the coming centuries, the song spread among the ranks of the new Deep-delvers as well. Its catchy, melodically oscillating refrain of V-B|-N|-ZZ-N|-ZZ-N|-B-B| earned it the colloquial name "Oscillation" among non-Divers, and its repeating lead melody solidified the song's status as an iconic classic of modern folklore. For certainly, in our time, if one calls "Hail to the Tide!" at any port or tavern in any Luminant, they are sure to hear the hearty response of "Honoured by the sea!"
 > 
 > My great thanks goes to Convocant Aurelia Imari, one of the key present day member of the High Convocation, for granting me access to the Citadel of Markor's historic archive. I am endlessly appreciative of the honour bestowed upon me to be permitted to write and publish this monograph, containing never before seen historic elements of the Citadel's past. I am also forever grateful for the great hospitality provided to me by the High Convocation, the Citadel Divers, and the Scholars of Markor - my research stay within the Citadel was most enjoyable and informative.
+
+## Appearances
+
+-   [Aurelia Imari](../Aurelia_Imari.md)
+-   Chambermaster Jura
+-   [Deukalion Akarad](../Deukalion_Akarad.md)
+-   [Horus Helsen](../Horus_Helsen.md)
+-   Marcille Samico
+-   Mephisto Massi

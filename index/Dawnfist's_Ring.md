@@ -1,9 +1,9 @@
 ---
 title: "Dawnfist's Ring"
-revid: 176396
+revid: 178642
 source: https://deepwoken.fandom.com/wiki/Dawnfist's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings]
+categories: [Equipment, Rings, Scaling Rings]
 ---
 
 # Dawnfist's Ring
@@ -25,7 +25,9 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Dawnfist's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Strength Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed).
+**Dawnfist's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Strength Scaling to your weapon.
+
+Having more than one scaling ring equipped at the same time will lessen their effectiveness.
 
 ## Trivia
 

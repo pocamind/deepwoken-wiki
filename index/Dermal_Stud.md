@@ -1,6 +1,6 @@
 ---
 title: Dermal Stud
-revid: 176406
+revid: 178594
 source: https://deepwoken.fandom.com/wiki/Dermal_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -21,9 +21,9 @@ categories: [Equipment, Face, Piercings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's regular shop for 35 Chests from:, First Layer, Mudskipper Attack, The Ferryman (Winter), Aelita |
+| obtainment | Sold by Traan Zakshun for 35 Chests from:, First Layer, Mudskipper Attack, The Ferryman (Winter), Aelita |
 | description | That's metal. |
 
 ## Description
 
-The Dermal Stud is an [Equipment](Equipment.md) item under the "Face" category. When worn, this grants +1 Health.
+The Dermal Stud is an [Equipment](Equipment.md) item under the "Face" category.

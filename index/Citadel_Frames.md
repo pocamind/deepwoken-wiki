@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 176880
+revid: 178584
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses, The Divers]
@@ -26,10 +26,10 @@ categories: [Equipment, Face, Glasses, The Divers]
 
 ## Description
 
-**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. These Diver-branded glasses grant the wearer +5 Health and +1 Rare Pip, but reduces their Posture by -1 due to not being their prescription.
+**Citadel Frames** are an [Equipment](Equipment.md) item under the "Face" category. These Diver-branded glasses reduce the wearer's posture due to not being their prescription.
 
 ## Trivia
 
 -   This is one of only two equipment items in general to grant negative stats, the other being [Dark Pearls](Dark_Pearls.md).
 -   The lowest Posture you can have is 16, with Citadel Frames and [Dark Pearls](Dark_Pearls.md).
--   All Citadel Frames variants initially had -2 Posture, but were buffed to have -1 instead in shadow updates. Notably, the default Browline and Round variants had -2 posture for several months before they were buffed.
+-   All Citadel Frames variants initially had -2 Posture, but were buffed to have -1 instead in shadow updates. Notably, the default Browline and Round variants retained their original -2 posture for several months before they were buffed, while the other variants were changed almost immediately after they released.

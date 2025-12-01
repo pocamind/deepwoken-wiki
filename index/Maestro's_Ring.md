@@ -1,9 +1,9 @@
 ---
 title: "Maestro's Ring"
-revid: 176486
+revid: 178636
 source: https://deepwoken.fandom.com/wiki/Maestro's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings, Etrea]
+categories: [Equipment, Rings, Etrea, Scaling Rings]
 ---
 
 # Maestro's Ring
@@ -25,7 +25,9 @@ categories: [Equipment, Rings, Etrea]
 
 ## Description
 
-**Maestro's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Agility Scaling to your [Weapon Damage](https://deepwoken.fandom.com/wiki/Weapons#Calculating_Damage_and_Attack_Speed).
+**Maestro's Ring** is a Ring [Equipment](Equipment.md) piece that adds 1.2 Agility Scaling to your weapon.
+
+Having more than one scaling ring equipped at the same time will lessen their effectiveness.
 
 ## Trivia
 

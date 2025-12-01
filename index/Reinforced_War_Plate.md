@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 178258
+revid: 178544
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Reinforced War Helmet](Reinforced_War_Helmet.md)
 
 ## Description
 
-The Reinforced War Plate is an **unenchantable** that was enchantable for a brief period of time [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Evanspear War Set. The Reinforced War Plate is a green and yellow chest plate with matching bracers and an animated dark green cape.
+The Reinforced War Plate is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) that was enchantable for a brief period of time [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Evanspear War Set. The Reinforced War Plate is a green and yellow chest plate with matching bracers and an animated dark green cape.
 
 The [Crippling Impact](Talents.md#crippling-impact) Talent disables your opponent's [Vent](Combat_Mechanics.md) for a few seconds when landing your critical if they are affected by the [Wrath Gem](Wrath_Gem.md). Crippling Impact's duration scales on your Strength investment, lasting 2 seconds at 0 Strength and gaining 0.015s per 1 Strength investment. Wrath Gems last for 9s with a 10s CD.
 
@@ -51,3 +51,7 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 1.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).
 2.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Wrath Gem](Wrath_Gem.md).
 3.  1 [Evanspear War Plate](Evanspear_War_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Wrath Gems](Wrath_Gem.md).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

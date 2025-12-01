@@ -1,6 +1,6 @@
 ---
 title: "Poser's Ring"
-revid: 176528
+revid: 178633
 source: https://deepwoken.fandom.com/wiki/Poser's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -17,10 +17,10 @@ categories: [Equipment, Rings]
 | weight | 0.1 |
 | innate stats | 1 Rare Pip |
 | innate talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Zana |
 | description | Damage done with a Katana isn't received until the user sheathes their weapon. |
 
@@ -28,15 +28,15 @@ categories: [Equipment, Rings]
 
 The Poser's Ring is an [Equipment](Equipment.md) item under the "Ring" category. It can be obtained by completing [Zana's](Zana.md) quest.
 
-While using a [Katana](Katana.md), [Alloyed Katana](Katana.md#alloyed), or [Shattered Katana](Shattered_Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their Katana. When this happens, all damage dealt by the Katana will be dealt instantly.
+While using a [Katana](Katana.md), [Alloyed Katana](Katana.md), or [Shattered Katana](Shattered_Katana.md), the Poser's Ring makes it so that your Katana's attacks and critical deal 0 damage until the user "Sheathes" their Katana. When this happens, all damage dealt by the Katana will be dealt instantly.
 
 Poser's Ring grants an 8% damage bonus in PvE to your melee attacks.
 
 ## Trivia
 
--   It cannot be dropped nor banked, as it will be soulbounded to your character.
+-   The [Moppet](Moppet.md) and Poser's Ring share stats. Meaning that if you attack with your [Katana](Katana.md), then swap to Moppet and use its critical, it will consume your stored Katana damage and vice versa.
 -   If you swap weapons through using an ability, your stored damage will be saved. Note that the Poser's Ring sheathe will only proc if your current weapon is the Katana, and no other weapons can build up Poser's damage.
-    -   The aforementioned abilities include: [Crazy Slots](Crazy_Slots.md), Silentheart's [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity), Saintsworn's [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), Blightsurge's [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state), and any [Fist style](Fists.md) tool.
+    -   The aforementioned abilities include: [Crazy Slots](Crazy_Slots.md), Silentheart's [Unmatched Dexterity](Oath%253A_Silentheart.md#unmatched-dexterity), Saintsworn's [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), Blightsurger's [Sovereign State](Oath%253A_Blightsurger.md#sovereign-state), and any [Fist style](Fists.md) tool.
 -   The Poser Ring sheathe damage can be nullified if the attacker is damaged while sheathing.
 -   Damage from the Poser's Ring sheathe cannot exceed 70% of a Player's Max Health.
     -   All non-player enemies are not affected by this cap, meaning with enough M1s, you are capable of depleting even boss health bars from 100% to 0% in one sheathe.

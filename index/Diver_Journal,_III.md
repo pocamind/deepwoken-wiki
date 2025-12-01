@@ -1,6 +1,6 @@
 ---
 title: "Diver Journal, III"
-revid: 172795
+revid: 178676
 source: https://deepwoken.fandom.com/wiki/Diver_Journal%2C_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -40,3 +40,8 @@ Diver Journal, III
 > There's something wrong.
 > 
 > There's something-
+
+## Appearances
+
+-   [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>)
+-   [Journeyman Skeli](<Abandoned_Diver_(Journeyman_Skeli).md>) (Mentioned only)

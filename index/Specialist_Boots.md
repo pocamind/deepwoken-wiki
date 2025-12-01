@@ -1,6 +1,6 @@
 ---
 title: Specialist Boots
-revid: 178254
+revid: 178549
 source: https://deepwoken.fandom.com/wiki/Specialist_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Specialist Helmet](Specialist_Helmet.md)
 
 ## Description
 
-The Specialist Boots are an **unenchantable** [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Specialist Set. The Specialist Boots are a pair of black plate leggings.
+The Specialist Boots are an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Specialist Set. The Specialist Boots are a pair of black plate leggings.
 
 The [Flashwind](Talents.md#flashwind) Talent allows you to re-enhance your dashes for 3 seconds with Flashwind dashes after proccing Air Pressure or Overcharge. Flashwind dashes have the same effectiveness as Gale and Thunder dashes.
 
@@ -53,3 +53,7 @@ Damage modifiers and the PvE damage multiplier do not count towards this thresho
 After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within the [Merit Detainment Core](Merit_Detainment_Core.md) will be open to you. This item is only craftable with that bench. The recipes are as follows:
 
 1.  1 [Shock Trooper Boots](Shock_Trooper_Boots.md) + 15 [Smith's Alloys](<Smith's_Alloy.md>) + 3 [Windswept Enchant Stones](Enchant_Stone.md).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

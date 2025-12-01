@@ -1,6 +1,6 @@
 ---
 title: "Diver's Ring"
-revid: 176409
+revid: 178640
 source: https://deepwoken.fandom.com/wiki/Diver's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]
@@ -25,7 +25,7 @@ categories: [Equipment, Rings, The Divers]
 
 ## Description
 
-The Diver's Ring is a Ring [Equipment](Equipment.md) item that provides a +5% damage bonus to any monsters in the Depths **(not overworld),** and would be a good choice for anyone lacking in DvM or wanting to push their PvE build even further, and can be found almost anywhere you would have a PvE build.
+The Diver's Ring is a Ring [Equipment](Equipment.md) item that provides a +5% damage bonus to any monsters in the Depths **(not overworld)**, and would be a good choice for anyone lacking in DvM or wanting to push their PvE build even further, and can be found almost anywhere you would have a PvE build.
 
 ## Trivia
 

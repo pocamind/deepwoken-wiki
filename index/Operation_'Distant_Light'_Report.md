@@ -1,6 +1,6 @@
 ---
 title: "Operation 'Distant Light' Report"
-revid: 172813
+revid: 178616
 source: https://deepwoken.fandom.com/wiki/Operation_'Distant_Light'_Report
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -80,3 +80,10 @@ Operation 'Distant Light' Report
 > Thus concludes the mission report of Operation 'Distant Light'. The crew of CASS 'Shallow Grave' hope that High Command and the venerable Fleet Admiral Thorm Erebet find our assessment satisfactory. Our vessel and crew are ready and willing to serve in further reconnaissance operations in the region, should the naval seniority call upon us for the duty.
 > 
 > Three Cheers, Cpt. Alaric Kesset
+
+## Appearances
+
+-   [Alaric Kesset](Alaric_Kesset.md)
+-   [Grim Adaset](Grim_Adaset.md)
+-   [Rickard Ashet](Rickard_Ashet.md)
+-   [Thorm Erebet](Thorm_Erebet.md)

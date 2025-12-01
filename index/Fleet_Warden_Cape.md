@@ -1,6 +1,6 @@
 ---
 title: Fleet Warden Cape
-revid: 176432
+revid: 178563
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -26,7 +26,7 @@ categories: [Equipment, Torso, Capes]
 
 ## Description
 
-The Fleet Warden Cape is an [Equipment](Equipment.md) item under the "Torso" category. It can be obtained from [Fishing](Fishing.md) and [Summer Isle](Summer_Isle.md) chests. When equipped, you gain +3% Elemental Armor, 1 Rare Pip and 1 Legendary Pip. Requires Power 13 to wear it.
+The Fleet Warden Cape is an [Equipment](Equipment.md) item under the "Torso" category. It can be obtained from [Fishing](Fishing.md) and [Summer Isle](Summer_Isle.md) chests.
 
 ## Trivia
 

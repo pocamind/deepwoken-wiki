@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 176399
+revid: 178644
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -33,7 +33,7 @@ If using Eruption Path: Lava Serpent, the ring will instead reduce the delay for
 ## Notes
 
 -   DPS is an incredibly effective stat for burn, as everyone is prone to remove it before the duration ends naturally, making this ring incredibly useful for Flamecharm players.
-    -   It does however negatively affect [Flame Within](Talents.md#amoran-seeeker) by making it run out faster.
+    -   It does however negatively affect [Flame Within](Talents.md#flame-within) by making it run out faster.
     -   Base burns DPS increases from **8** to **9.6** at 0 Flamecharm, and **12** to **14.4** at 100 Flamecharm.
     -   [Azure Flames](Talents.md#azure-flames) burn DPS increases from **9** to **10.8** at 0 Flamecharm, and **13.5** to **16.25** at 100 Flamecharm.
     -   [Twisted Puppets](Talents.md#wraith-path-twisted-puppets)' puppet burn DPS increases from **1** to **1.2** at 0 Flamecharm, and **1.5** to **1.8** at 100 Flamecharm.

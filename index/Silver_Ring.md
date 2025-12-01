@@ -1,6 +1,6 @@
 ---
 title: Silver Ring
-revid: 176566
+revid: 178648
 source: https://deepwoken.fandom.com/wiki/Silver_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -11,7 +11,7 @@ categories: [Equipment, Rings]
 | Silver Ring | |
 |---|---|
 | type | Ring |
-| rarity | Uncommon (Yellow) |
+| rarity | Uncommon |
 | selling price | 19 |
 | requirements | Lvl 3 |
 | weight | 0.1 |
@@ -23,8 +23,10 @@ categories: [Equipment, Rings]
 | obtainment | Chests from:, Lower Erisia, Layer 2 Floor 1, Layer 1, Duke Erisia, Maestro Evengarde Rest, Chaser, Saramaed Hollow, Miner's Landing, Summer Isle, Scion of Ethiron, Etris Seige, Pure ore turn-ins |
 | description | A simple silver ring. |
 
-**Silver Ring** is an [Equipment](Equipment.md) item in _Deepwoken_.
-
 ## Description
 
-Silver Ring grants the user one Common Pip upon being equipped.
+The **Silver Ring** is a standard ring [Equipment](Equipment.md) item that provides little to no benefits.
+
+## Trivia
+
+-   This, and the [Gold Ring](Gold_Ring.md) are the only two rings in the game that you can equip multiple copies of at once without using bugs or exploits. Though, the use case of this is quite questionable.

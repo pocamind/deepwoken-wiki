@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 178255
+revid: 178550
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Variants: [Specialist Helmet](Specialist_Helmet.md)
 
 ## Description
 
-The Specialist Plate is an **unenchantable** [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Specialist Set. The Specialist Plate is a black and gold coat with a full plate chest piece and fur shoulders.
+The Specialist Plate is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Specialist Set. The Specialist Plate is a black and gold coat with a full plate chest piece and fur shoulders.
 
 The [Stormcall](Talents.md#stormcall) Talent Applies the [Stormcall Shock](Status_Effects.md#stormcall-shock) status effect on opponents when you land a Storm Strike from your other Specialist equipment Talents. Stormcall Shock deals 15 Galebreathe and Thundercall damage and applies [Shock](Status_Effects.md#shock) for 1 second and [Winded](Status_Effects.md#winded) for 2 seconds if your opponent attempts to cast a Mantra.
 
@@ -57,3 +57,7 @@ After defeating [Titus](Titus_Fulminus_Destellus.md), a crafting bench within th
 1.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>) + 3 [Storm Enchant Stones](Enchant_Stone.md).
 2.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>) + 3 [Storm Enchant Stone](Enchant_Stone.md).
 3.  1 [Shock Trooper Plate](Shock_Trooper_Plate.md) + 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) + 1 [Storm Enchant Stone](Enchant_Stone.md).
+
+## Navigation
+
+1.  [↑](#cite-ref-unenchantable-1-0) This equipment item cannot be [enchanted](Enchantments.md) via [Enchant Grease](Enchant_Grease.md), but there is an extremely small chance that it may be enchanted with a non-exclusive Equipment Enchantment upon being crafted.

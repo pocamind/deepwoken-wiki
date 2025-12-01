@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 176587
+revid: 178593
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -28,9 +28,9 @@ categories: [Equipment, Face, Masks]
 
 ## Description
 
-The **Thrall of Enmity** is a Unique [Equipment](Equipment.md) item under the "Face" category. Equipping it grants 1 Rare Pip. It is obtained from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Thrall of Enmity** is a Unique [Equipment](Equipment.md) item under the "Face" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
 
-The mask comes with an innate Talent, _Lose Your Mind_, granting you an incremental damage boost the lower your sanity is. The damage boost starts at 70% sanity (tier 1 insanity) scales nonlinearly until 0% sanity, where it grants a 15% damage buff.
+The [Lose Your Mind](Talents.md#lose-your-mind) Talent grants you an incremental damage boost the lower your sanity is. The damage boost starts at 70% sanity (tier 1 insanity) scales nonlinearly until 0% sanity, where it grants a 15% damage buff.
 
 Additionally the wearer will gain an animated spinning ring on the back of their head. This will still appear even if your vanity is disabled.
 

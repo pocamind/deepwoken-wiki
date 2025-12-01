@@ -1,6 +1,6 @@
 ---
 title: Pendant Earrings
-revid: 176522
+revid: 178654
 source: https://deepwoken.fandom.com/wiki/Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -15,15 +15,16 @@ categories: [Equipment, Ears]
 | selling price | 25 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | description=... |
+| innate stats | +2 Rare Pips |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
+| description | ... |
 
 ## Description
 
-**Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. Equipping them grants +2 Rare Pips.
+**Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
 ## Trivia
 

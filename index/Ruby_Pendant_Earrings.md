@@ -1,6 +1,6 @@
 ---
 title: Ruby Pendant Earrings
-revid: 176553
+revid: 178651
 source: https://deepwoken.fandom.com/wiki/Ruby_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -24,7 +24,7 @@ categories: [Equipment, Ears]
 
 ## Description
 
-**Ruby Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. Equipping them grants +1 Common Pip and +1 Rare Pip.
+**Ruby Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
 ## Trivia
 

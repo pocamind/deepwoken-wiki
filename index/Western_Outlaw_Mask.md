@@ -1,6 +1,6 @@
 ---
 title: Western Outlaw Mask
-revid: 176612
+revid: 178595
 source: https://deepwoken.fandom.com/wiki/Western_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -26,7 +26,7 @@ categories: [Equipment, Face, Masks]
 
 ## Description
 
-The Western Outlaw Mask is an [Equipment](Equipment.md) item under the "Face" category, and is a part of the Western Outlaw Set. The Western Outlaw Mask is a green mask with upwards facing triangles, almost mimicking the mouth of a beast. This item originated from the Western Luminant. When worn, this grants +1 Common pip.
+The Western Outlaw Mask is an [Equipment](Equipment.md) item under the "Face" category, and is a part of the Western Outlaw Set. Originating from the Western Luminant, the Western Outlaw Mask is a green mask with upwards facing triangles, almost mimicking the mouth of a beast.
 
 This item is used to craft the [Ascended Outlaw Mask](Ascended_Outlaw_Mask.md) at the [Merit Detainment Core](Merit_Detainment_Core.md).
 

@@ -1,6 +1,6 @@
 ---
 title: Lament of Cirryn
-revid: 172970
+revid: 178667
 source: https://deepwoken.fandom.com/wiki/Lament_of_Cirryn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -166,3 +166,11 @@ Lament of Cirryn
 > “I'm sorry.”
 > 
 > The chamber door seals shut.
+
+## Appearances
+
+-   [Cirryn](Cirryn.md)
+-   [Ehkusa](Ehkusa.md)
+-   [Ka'al](<Ka'al.md>)
+-   [Remaz](Remaz.md)
+-   [Ryrda](Ryrda.md) (Mentioned only)

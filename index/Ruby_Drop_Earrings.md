@@ -1,6 +1,6 @@
 ---
 title: Ruby Drop Earrings
-revid: 176552
+revid: 178652
 source: https://deepwoken.fandom.com/wiki/Ruby_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -25,7 +25,7 @@ categories: [Equipment, Ears]
 
 ## Description
 
-**Ruby Drop Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. Equipping them grants +1 Common Pip and +1 Rare Pip.
+**Ruby Drop Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
 ## Trivia
 

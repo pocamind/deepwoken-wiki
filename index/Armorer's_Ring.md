@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 176336
+revid: 178650
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,7 +25,7 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Armorer's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user 10% reduction to incoming armor damage, including damage from the [Metal](Metal.md) Enchant. When worn, this grants +1 Uncommon Pip.
+**Armorer's Ring** is a Ring [Equipment](Equipment.md) piece that grants the user 10% reduction to incoming armor damage, including damage from the [Metal](Metal.md) Enchant.
 
 This does not reduce the armor damage from any of [Ironsing's](Ironsing.md) abilities.
 

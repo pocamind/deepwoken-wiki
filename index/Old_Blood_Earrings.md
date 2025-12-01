@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 176513
+revid: 178655
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -26,4 +26,4 @@ categories: [Equipment, Ears]
 
 ## Description
 
-**Old Blood Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category. Equipping them grants +5 Ether and +2 Rare Pips.
+**Old Blood Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.

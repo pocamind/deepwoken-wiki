@@ -1,8 +1,9 @@
 ---
 title: Blizzard Knight
-revid: 177235
+revid: 178535
 source: https://deepwoken.fandom.com/wiki/Blizzard_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Knights]
 ---
 
 # Blizzard Knight
