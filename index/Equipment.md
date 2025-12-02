@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 178719
+revid: 178867
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -29,14 +29,43 @@ All Pips are displayed in order of rarity, which is: Common, Uncommon, Rare, and
 
 Pips are rolled with stat diversity, requiring that at least two different stats are present, meaning equipment purely consisting of one stat are impossible (bugged or old equipment will be rerolled when equipped). This rule is only applied to equipment that has **3** or more pips.
 
-Every equipment item you come across has a chance to be Starred. Stars on an equipment item will grant it an additional amount of set pips, depending on how many Stars the equipment item has:  
-★ = +1 Rare Pips (Head, Arms, and Legs also get +1 HP)  
-★★ = +2 Rare Pips (Head, Arms, and Legs also get +2 HP)  
-★★★ = +2 Rare Pips +1 Legendary Pip (Head, Arms, and Legs also get +3 HP) (Torso, Face, Ears, and Rings cannot be 3 Star)
+Pips can be rerolled with a [Armorer's Needle](<Armorer's_Needle.md>) or [Gilded Needle](Gilded_Needle.md). The Armorer's Needle will change a Pip of choice into a different, random stat (e.g. Health -> Ether), while the Gilded Needle will allow you to choose what the Pip changes to.
 
-These pips can be rerolled by using [Armorer's Needle](<Armorer's_Needle.md>) and [Gilded Needle](Gilded_Needle.md).
+Every equipment item you come across has a chance to have quality stars. Quality stars on an equipment item will grant them additional Pips, with the amount of pips and the pip types given depending on how many quality stars the equipment item has (see below). You can add quality stars to a pre-existing equipment item by using the [Forge Needle](Forge_Needle.md).
 
-Equipment Stars can be upgraded by +1 by using [Forge Needle](Forge_Needle.md).
+Additionally, Head, Legs, and Arms equipment gain +1 Health for every quality star they have. Face, Ears, Torso, and Rings equipment cannot have more than two quality stars.
+
+The following table showcases the net gain of Pips, Health, and sell cost compared to a 0 starred variant of the same equipment. These are not cumulative increases.
+
+<table><caption>Quality Star info</caption>
+<tbody>
+<tr>
+  <th>Gain</th>
+  <th>★</th>
+  <th>★★</th>
+  <th>★★★</th>
+</tr>
+<tr>
+  <td>Pips</td>
+  <td>+1 Rare Pip</td>
+  <td>+2 Rare Pips</td>
+  <td>+2 Rare Pips, +1 Legendary Pip</td>
+</tr>
+<tr>
+  <td>Health<br>
+  <small>(Exclusive to Head, Arms, and Legs Equipment)</small></td>
+  <td>+1 Health</td>
+  <td>+2 Health</td>
+  <td>+3 Health</td>
+</tr>
+<tr>
+  <td>Sell Value</td>
+  <td>+5</td>
+  <td>+20</td>
+  <td>+50</td>
+</tr>
+</tbody>
+</table>
 
 <table><caption>Pips Info</caption>
 <tbody>
@@ -2998,10 +3027,8 @@ _+2% Wind Armor_
 
 -   In previous versions of the game, Equipment could occasionally spawn with one of three different rarity tiers: Ascended, Enlightened, or Celestial. This system was replaced with stars for the sake of consistency with weapon rarity.
 -   If you want to wear a specific equipment piece, but it has awful stats, you can [smelt](Transmogrification.md) something with good stats and apply the piece you want to wear as vanity.
--   The Max number of Stars for Torso, Face, Ears, and Ring Equipment is 2 Stars (★★)
 -   You can't enchant Torso, Face, Ears, and Ring Equipment. However, there's a couple of instances of these items existing due to being obtainable back in Verse One. There has been evidence shown that unobtainable enchanted equipment won't void even when re-equipped, and the enchant still functions as it normally would (Info from October 12, 2023)
 -   Mythical Pips, despite being said to exist by devs, are unused. No equipment piece uses mythical pips.
--   Stars increase the sell price of a Weapon/Equipment. +5 Notes (★) | +20 Notes (★★) | +50 Notes (★★★)
 -   Stat diversity was supposedly enforced on the September 5th, 2022, update, meaning that when 2 or more pip or "buff slots" on a piece of Ring, Ears, Torso, and Face equipment, and 3 or more pips on Head, Arms, and Leg equipment one would be forced to be different. However, this has either been implemented incorrectly, bugged, or a typo was made in the update logs **specifically for the Ring, Ears, Torso, and Face equipment**, because it is very easy to find equipment that violates this rule such as rings with only two pips that are of the same type. The 3+ pip rule on Head, Arms, and Leg equipment have been functioning correctly and will promptly reroll a pip if a piece of equipment violating the rule is equipped.
     -   Due to this, you'll have to take the following theoretical kits with a grain of salt, as this bug could result in higher maximums.
 -   Highest theoretical **stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% Shrouded Capes, 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md))

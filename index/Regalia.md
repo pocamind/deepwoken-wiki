@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 177728
+revid: 178878
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -20,7 +20,9 @@ categories: [Mechanics]
 
 ### Mute
 
-Mute (also known as “Animal King”) has the ability to make monsters unable to see you, meaning they won't attack unless you attack them first. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will not still aggro to the player on sight. (If you wipe at or below [Power](Power.md) 10 you will keep this Regalia)
+Mute (also known as “Animal King”) has the ability to make monsters unable to see you, meaning they won't attack unless you attack them first. This includes [Primadon](Primadon,_Titan_of_the_East.md) and the [Dread Serpent](Dread_Serpent.md). Monsters get an AI similar to to Town Guards when aggroed; they will unaggro the player if you don't attack them for over 15 seconds. Most humanoid enemies will not still aggro to the player on sight.
+
+This Regalia is **kept** upon wiping at or below Power 10.
 
 #### Exceptions
 
@@ -31,15 +33,13 @@ Mute (also known as “Animal King”) has the ability to make monsters unable t
     -   [Stone Knights](Stone_Knight.md)
     -   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
     -   [Rock Golems](Rock_Golem.md)
-    -   [Prime Golems](Golem_Prime.md)
+    -   [Golem Primes](Golem_Prime.md)
     -   [Rogue Constructs](Rogue_Construct.md)
     -   [Enforcers](Enforcer.md)
     -   Ambush [Mechalodaunts](Mechalodaunt.md)
     -   [Bone Keepers](Bone_Keeper.md)
-
 -   Mute does work against some humanoids.
     -   [Hollow Angels](Hollow_Angel.md) (if not summoned by a [Watcher](Watcher.md))
-
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
     -   [King Threshers](King_Thresher.md)
     -   [Deep Owls](Deep_Owl.md)
@@ -68,9 +68,9 @@ Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). Functionall
 
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
-This cannot be obtained if you have the Tarnished Flaw, and requires you to obtain a resonance before you can get it.
+This cannot be obtained if you have the Tarnished Flaw, and requires you to obtain a resonance at least once on your account before you can get it.
 
-This Regalia is not kept upon wiping at any power level.
+This Regalia is **not** kept upon wiping at any power level.
 
 ### Noble[\[3\]](#cite-note-archnamedrop1-3)
 
@@ -78,21 +78,21 @@ A flat increase is applied to your reputation with each faction. Additionally, [
 
 ### Inheritance[\[3\]](#cite-note-archnamedrop1-3)
 
-You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the [Advanced Tools](Echoes.md) echo upgrade.
+You start with 1,000 [Notes](Notes.md) and 50 [Knowledge](Knowledge.md), as well as every item from the Advanced Tools [Echo Unlocks](Echoes.md#upgrades-unlocks-and-modifiers), even if you haven't purchased them.
 
-This Regalia is not kept upon wiping at any power level.
+This Regalia is **not** kept upon wiping at any power level.
 
 ### Ace of Spades[\[3\]](#cite-note-archnamedrop1-3)
 
 You start with 20 [Aces](Aces.md).
 
-This Regalia is kept upon wiping at or below Power 10.
+This Regalia is **kept** upon wiping at or below Power 10.
 
 ### Joker[\[4\]](#cite-note-archnamedrop2-4)
 
 You are granted an additional [Talent](Talents.md) choice in each Talent hand.
 
-This Regalia is not kept upon wiping at or below Power 6.
+This Regalia is **kept** upon wiping at or below Power 6.
 
 ### Hungerless[\[4\]](#cite-note-archnamedrop2-4)
 
@@ -106,7 +106,7 @@ You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood 
 
 The amount of Knowledge gained with the Insightful Regalia is 1.5x the amount without the Regalia, rounding to the nearest number. For example, something that would reward 1 Knowledge will instead reward 2, but if it would reward 2 Knowledge it would give 3 instead.
 
-This does work with [Moonseye Tome](Moonseye_Tome.md). Grants 150 knowledge upon first time use.
+This works with the [Moonseye Tome](Moonseye_Tome.md), granting 150 knowledge upon first time use and 75 Knowledge on all subsequent uses.
 
 ### Oscillator[\[4\]](#cite-note-archnamedrop2-4)
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 177108
+revid: 178869
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Pages that use a deprecated format of the math tags]
@@ -19,17 +19,18 @@ Weapons are the main tools used for attacking enemies in _Deepwoken_. They can b
 
 A weapon's damage will scale based on your investment of certain [Attributes](Attributes.md). Weapons often scale off of the same attributes required to wield them, mainly being the 3 weapon attributes, but may scale off of any attribute, such as the [Light's Final Toll](<Light's_Final_Toll.md>) scaling with Willpower, or even [Attunement](Attunements.md) attributes, such as the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>) scaling with solely Galebreathe. Weapons may scale off of multiple attributes at once, as is the case with the [Gran Sudaruska](Gran_Sudaruska.md) scaling off of both Frostdraw and Heavy Weapon.
 
-When obtaining a weapon, it can come with up to 3 stars on it, which add either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star.
+When obtaining a weapon, it can come with up to 3 quality stars on it, which add either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star.
 
 | Type | ★ | ★★ | ★★★ |
 | --- | --- | --- | --- |
 | Damage | +2% | +4% | +6% |
 | Weight (Posture damage) | +4% | +8% | +12% |
 | Penetration | +5% | +10% | +14% |
+| Sell Price | +5 | +20 | +50 |
 
-It is best to obtain 3 stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be.
+It is best to obtain 3 quality stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be.
 
-Weapons can be [Enchanted](Enchantments.md), granting a special effect that increases its effectiveness. Enchanted weapons can be found from chests, or an enchant can be applied to a weapon by using an [Enchant Stone](Enchant_Stone.md). Enchanted weapons always have at least one star. (Re-equipping your weapon will add a star to it if it does not already have one.)
+Weapons can be [Enchanted](Enchantments.md), granting a special effect that increases its effectiveness. Enchanted weapons can be found from chests, or an enchant can be applied to a weapon by using an [Enchant Stone](Enchant_Stone.md). Enchanted weapons always have at least one quality star. (Re-equipping your weapon will add a star to it if it does not already have one.)
 
 All weapons within the game have the chance of being found with or without different Enchantments or qualities along with them. Even if the characteristics of your current weapon are not to your liking, there are multiple different mechanics in the game that can change the qualities of your weapon.
 
