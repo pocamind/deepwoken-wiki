@@ -1,9 +1,9 @@
 ---
 title: Deepscorn Casque
-revid: 176400
+revid: 178819
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Helmets]
+categories: [Pages with broken file links, Equipment, Head, Helmets]
 ---
 
 # Deepscorn Casque
@@ -34,7 +34,11 @@ This Talent also reduces the self damage/Wither application from the Poison (HP 
 
 ## Trivia
 
--   Its previous description stated, "Because ten billion years' time is so fragile, so ephemeral... It arouses such a bittersweet, almost heartbreaking fondness."
+-   Its previous description stated, "Because ten billion years' time is so fragile, so ephemeral... It arouses such a bittersweet, almost heartbreaking fondness."[\[1\]](#cite-note-1)
     -   This turned out to simply be gibberish placeholder text in a similar vein to "lorem ipsum."
 -   Due to the description it can be assumed that Darksteel is a powerful recurring substance in Deepwoken with other items having it's mention being the [Darksteel Greatsword](Darksteel_Greatsword.md) and the [Darksteel Plate](Darksteel_Plate.md).
 -   The Emblem on the top of the helmet is the banner for The Celtorian (now known as [Lost Celtor](Lost_Celtor.md) ever sinced the city drowned.)
+
+## References
+
+1.  [↑](#cite-ref-1) File:Deepscorn Casque Description.png

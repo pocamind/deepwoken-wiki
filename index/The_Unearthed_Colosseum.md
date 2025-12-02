@@ -1,6 +1,6 @@
 ---
 title: The Unearthed Colosseum
-revid: 178153
+revid: 178817
 source: https://deepwoken.fandom.com/wiki/The_Unearthed_Colosseum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations, Chime of Conflict Arenas]
@@ -17,7 +17,7 @@ Overcome the challenges ahead and you shall be greatly rewarded.
 
   
 
-**The Unearthed Colosseum** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the [Chime of Conflict](Chime_of_Conflict.md).
+**The Unearthed Colosseum** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 2v2 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 

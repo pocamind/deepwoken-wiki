@@ -1,6 +1,6 @@
 ---
 title: ??? (Blindseer Glyphs)
-revid: 176839
+revid: 178796
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Blindseer_Glyphs)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -18,7 +18,7 @@ The Blindseer Glyphs are luminescent messages that are only revealed once the pl
 
 ## Location
 
-The Blindseer Glyphs are located separately throughout Lumen, their locations are:
+The Blindseer Glyphs are located separately throughout the Etrean and Eastern Luminant, their locations are:
 
 -   [Lightkeeper Temple](Lightkeeper_Temple.md), in the large room with the [King Thresher](King_Thresher.md).
 -   [Summer Isle](Summer_Isle.md), at the old shrine behind the [Inn](Inn.md).

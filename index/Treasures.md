@@ -1,6 +1,6 @@
 ---
 title: Treasures
-revid: 175610
+revid: 178859
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures]
@@ -139,6 +139,7 @@ _Hey, there's no blood on this one!_
 ## Trivia
 
 -   The [Gold Plate](Gold_Plate.md) cannot be sold to a [Mantra Collector](Mantra_Collector.md). They are obtained by killing [Rat Fighters](Rat_Fighter.md).
+-   Along with [Gold Rings](Gold_Ring.md), Gold Bars can be melted down into [Gold](Ores.md#gold) at a campfire. Strangely, the [Gold Plate](Gold_Plate.md) cannot melted down into raw Gold.
 -   The Emerald's description is a reference to Chaos Emeralds from the _Sonic_ franchise. While this reference is more likely, Emeralds were used in _Rogue Lineage_ to unlock the Faceless class, which is Chaotic Aligned.
 -   The Diamond's description refers to the term "blood diamond", which is a diamond mined during times of conflict.
     -   Ironically, conflict is usually how one obtains a Diamond in _Deepwoken_, since they only appear in chests.

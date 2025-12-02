@@ -1,6 +1,6 @@
 ---
 title: The Profane Cavern
-revid: 176018
+revid: 178813
 source: https://deepwoken.fandom.com/wiki/The_Profane_Cavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Chime of Conflict Arenas]
@@ -16,7 +16,7 @@ It's said that the lifeforce of those who have been defeated here has seeped int
 
   
 
-**The Profane Cavern** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the [Chime of Conflict](Chime_of_Conflict.md).
+**The Profane Cavern** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 

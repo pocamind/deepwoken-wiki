@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 177135
+revid: 178854
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -34,7 +34,7 @@ notices:
 
 ## Description
 
-Par's Glaive is an abomination of a weapon exclusively used by the developer Par and Lead Moderator astrotrain
+Par's Glaive is an abomination of a weapon exclusively used by the developer Par and former Lead Moderator astrotrain
 
 It posesses the properties of:
 

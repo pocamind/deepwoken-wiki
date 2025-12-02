@@ -1,6 +1,6 @@
 ---
 title: "C'lantaa"
-revid: 174418
+revid: 178780
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]

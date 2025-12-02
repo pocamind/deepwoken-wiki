@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 178452
+revid: 178862
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2860,6 +2860,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Scholar of the Cloud
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
+    -   The ability can be used as long as the player is standing on a boat, even if not in control.
     -   Prerequisites: Sail with your mast pointed towards the wind for an unknown amount of time, 20 Galebreathe
 
 ### Scoundrel
@@ -3974,7 +3975,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
     -   This Talent was previously named "Berserker."
     -   Prerequisites: 35 Fortitude, 30 Strength
-        -   The arms equipment "[Enforcer Plate](Enforcer_Plate.md)" has this Talent.
 
 -   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether.
     -   2s Cooldown.
@@ -4121,6 +4121,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This procs on [Motif](Motifs.md) and [enchant](Enchantments.md)\-granted criticals.
 
 -   Forced Fulfilment: [Metal Greatsword](Metal_Greatsword.md) - Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them.
+    -   Applies a 70% slow for 15 seconds.
+    -   Due to the innate slow resistance players have, in actuality this only reduces their movement speed by 52.5%, unless they are casting a Mantra.
+    -   This Talent has no cooldown, allowing you to apply multiple rods to a singular person.
+        -   If a player has two or more Forced Fulfilment rods, they will not be able to move unless they have a speed boost.
 
 -   Pugnacious: [Warmonger](Warmonger.md) - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.
     -   Gain various stacking buffs scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.

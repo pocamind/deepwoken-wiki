@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 178245
+revid: 178863
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -428,7 +428,7 @@ When landing a backhit with your [Big Brother](Big_Brother.md) basic attack, gai
 
 ### Forced Fulfilment
 
-When landing your critical with the [Metal Greatsword](Metal_Greatsword.md), apply the Forced Fulfilment status effect, lodging a large iron rod into your opponent's leg with a heavy slowing effect.
+When landing your critical with the [Metal Greatsword](Metal_Greatsword.md), apply the Forced Fulfilment status effect for 15 seconds, lodging a large iron rod into your opponent's leg and applying a -52.5% movement speed debuff. You can stack multiple Forced Fulfilment rods on the same target, entirely removing their ability to move unless they have a [speed boost](#speed-boost).
 
 ### Pugnacious
 

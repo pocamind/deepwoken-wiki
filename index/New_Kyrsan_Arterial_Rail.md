@@ -1,6 +1,6 @@
 ---
 title: New Kyrsan Arterial Rail
-revid: 170118
+revid: 178810
 source: https://deepwoken.fandom.com/wiki/New_Kyrsan_Arterial_Rail
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Chime of Conflict Arenas]
@@ -13,7 +13,7 @@ LocationL Kyrsan Railways LocationR
   
   
 
-**Kyrsan Railways** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the [Chime of Conflict](Chime_of_Conflict.md).
+**Kyrsan Railways** is a location in _Deepwoken_. It is one of the unique and randomly selected arenas exclusive to the 1v1 [Chime of Conflict](Chime_of_Conflict.md) gamemode.
 
 ## Description
 
