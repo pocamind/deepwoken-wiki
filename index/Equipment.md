@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 178482
+revid: 178719
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -595,7 +595,7 @@ Torso: [Monastery Beads](Monastery_Beads.md) |
 (**Series**)  
 (**Hallowtide**)  
 (**Legendary**) | N/A | Mushroom, Glowshroom, Metalshroom, Charmshroom, & Zapshroom |
-| File:Party Hat Worn.png | [Party Hat](Party_Hat.md)  
+|  | [Party Hat](Party_Hat.md)  
 (**Limited Time Event**) | N/A | N/A |
 |  | [Phalanx Helmet](Phalanx_Helmet.md)  
 (**Set**) | _+3 Health_

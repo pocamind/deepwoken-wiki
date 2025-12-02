@@ -1,12 +1,16 @@
 ---
 title: Rogue Construct
-revid: 178531
+revid: 178703
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Rogue Construct
+
+Golem Constructs
+
+Variants: [Hive Construct](Hive_Construct.md)
 
 Template:Creature Infobox V3
 

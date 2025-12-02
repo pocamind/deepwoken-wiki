@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 177266
+revid: 178692
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -54,8 +54,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
     -   Medium Scaling = 6 > 8
     -   Range = 10 > 10.5
     -   Swingspeed = 1.00x > 0.95x
--   This sword resembles the 'Spinal Tap' from Terraria.
--   Could also be Astolfo's weird chain sword thing that's name could possibly be Volcano Caligorante. However probably Spinal Tap
 -   This sword was nerfed on January 4th, 2025.
     -   Damage = 21 > 20
     -   Crit damage was reduced

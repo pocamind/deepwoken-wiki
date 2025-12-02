@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 175056
+revid: 178689
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -242,10 +242,8 @@ Wind
 -   Deals 10 posture damage.
 -   Has a windup of 0.65 seconds with a 15 second cooldown.
 -   Highly recommended that you turn off shift-lock on use.
--   Has endlag when whiffed.
 -   Has great vertical mobility, almost acting like a double jump at times.
--   Feinting it leaves the user unable to use certain Mantras like Gale Lunge or recasting Heavenly Wind.
--   Can be used in combination with the [Cap Artist](Talents.md#thief) Talent to ragdoll and fling yourself insanely far, but only in dungeons.
+-   Can be used in combination with the [Cap Artist](Talents.md#thief) Talent to ragdoll and fling yourself insanely far, but only in dungeons, such as layer 2.
 
  |
 | 

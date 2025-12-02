@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 177790
+revid: 178691
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -93,7 +93,7 @@ If you need help figuring out how to put an item in a safe deposit box, or just 
 
 ### Account
 
-Accessing your account will allow you to bank your notes, up to the max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept 1000 notes from someone, with the cap being around 900). The banker will inform you of the notes that you have, and will ask if you want to deposit or withdraw.
+Accessing your account will allow you to bank your notes, up to the max of 100,000. However the transaction of notes between slots depend on your level and trading cap (at level 1 you cannot accept more than 940 notes). The banker will inform you of the notes that you have, and will ask if you want to deposit or withdraw.
 
 ## Artifacts
 

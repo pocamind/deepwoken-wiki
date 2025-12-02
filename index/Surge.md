@@ -1,6 +1,6 @@
 ---
 title: Surge
-revid: 166325
+revid: 178713
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the First Layer, Oath Trainer]
@@ -44,7 +44,7 @@ Surge is located in a room inside of the Widow's Nest in the [First Layer](First
   <td colspan="4">The Hunt?</td>
 </tr>
 <tr>
-  <td colspan="4">The hunt is a game of deception, my friend. <a href="Glossary.md#power">Power</a> is an illusion woven by the charismatic. Those Owls... Have you seen them? They play with the very minds of their prey.</td>
+  <td colspan="4">The hunt is a game of deception, my friend. Power is an illusion woven by the charismatic. Those Owls... Have you seen them? They play with the very minds of their prey.</td>
 </tr>
 <tr>
   <td colspan="4">...</td>
@@ -77,7 +77,7 @@ Surge is located in a room inside of the Widow's Nest in the [First Layer](First
   <td><b>This is only the beginning. This is only the beginning. This is only the beginning. This is only the beginning. This is only the beginning.</b></td>
 </tr>
 <tr>
-  <td>End, Player is teleported</td>
+  <td>End, player is teleported to <a href="A_Conscious_Intersection.md">A Conscious Intersection</a></td>
 </tr>
 </tbody>
 </table>
@@ -124,8 +124,6 @@ This dialogue is unlocked if the player has the [Oath: Visionshaper](Oath%253A_V
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Trivia
 

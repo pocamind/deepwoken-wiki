@@ -1,6 +1,6 @@
 ---
 title: The Justicar
-revid: 175060
+revid: 178696
 source: https://deepwoken.fandom.com/wiki/The_Justicar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Religious groups, The Justicar, Lore]

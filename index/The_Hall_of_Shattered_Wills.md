@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 175557
+revid: 178720
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -18,7 +18,7 @@ What inhuman acts of cruelty were committed here?
 
 Image of The Hall of Shattered Wills.
 
-**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room found somewhere in the [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md) and [The Depths](The_Depths.md).
+**The Hall of Shattered Wills** is a location in _Deepwoken_. It is a unique room accessible only to developers and moderators of the game.
 
 ## Overview
 

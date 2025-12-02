@@ -1,9 +1,9 @@
 ---
 title: Severin Smolkin
-revid: 169082
+revid: 178686
 source: https://deepwoken.fandom.com/wiki/Severin_Smolkin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Gunsmiths]
+categories: [In progress without reason, InProgressPages, Gunsmiths, Characters mentioned in books]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
