@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 178854
+revid: 178917
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Developer Spec]
@@ -21,7 +21,6 @@ notices:
 | endlag | N/A |
 | penetration | ??? |
 | chip damage | ??? |
-| special effect | Swapping the enemy's controls after ? hits |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | ??? |
 | weight | 5 |
@@ -42,12 +41,3 @@ It posesses the properties of:
 2.  Dagger's Swing Speed
 3.  Greataxe's light attacks and critical attack animations
 4.  Being enchantable (most seen with Detonation)
-
-Upon getting hit, the enemy will get a purpleish pink halo on their head which will change their moveset for 8 seconds:
-
--   Forwards (W) to Backward (S)
--   Left (A) to Right (D)
--   Parry (F) to Vent (G)
--   Bell (C) to Critical (R)
--   M1 (Left Click) to M2 (Right Click)
--   Roll (Q) stay unchanged

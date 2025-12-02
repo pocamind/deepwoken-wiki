@@ -1,6 +1,6 @@
 ---
 title: Coffee
-revid: 176042
+revid: 178889
 source: https://deepwoken.fandom.com/wiki/Coffee
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive]
@@ -37,3 +37,7 @@ It is a type of **Generic**.
 ### Effect
 
 When consumed, it replenishes 2% Stomach and 30% Water.
+
+## Trivia
+
+-   The "coffee" is actually blood taken from blood bags.

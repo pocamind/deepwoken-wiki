@@ -1,6 +1,6 @@
 ---
 title: Munet Journal
-revid: 172808
+revid: 178891
 source: https://deepwoken.fandom.com/wiki/Munet_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Book Collections]
@@ -10,7 +10,7 @@ categories: [Book Collections]
 
 ## Description
 
-_**Munet Journal**_ is a [Book](Books.md).
+_**Munet Journal**_ is a [Book Collection](Books.md).
 
 ## Vol. XIV
 

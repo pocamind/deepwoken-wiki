@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 178862
+revid: 178916
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -673,8 +673,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 40 Bloodrend, 40 Galebreathe
 
 -   Cold Blooded \[Common Talent, Dual Attunement\] - Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)
-    -   The amount of blood poison applied is not very high, and it'll be cleared almost immediately after being applied through passive blood poison decay.
-    -   Has a short cooldown for blood poison application.
+    -   Has a 0.5s cooldown.
+    -   Applies 12.5% blood poisoning over the duration of the chill.
+    -   Applies 25% blood poisoning on crystal explosion.
+    -   This Talent does not proc on Crystal explosions caused via guardbreaking the target or Temperature Shock. Instead, all crystal explosions must be procced through applying enough crystals or Golden Age in order for this Talent to proc.
     -   Prerequisite: 40 Bloodrend, 40 Frostdraw
 
 -   Electrolyte \[Common Talent, Dual Attunement\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.

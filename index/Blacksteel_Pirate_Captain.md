@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pirate Captain
-revid: 176742
+revid: 178909
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pirate_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -100,4 +100,4 @@ Their arsenal consists of a [Darkalloy Greatsword](Darksteel_Greatsword.md) and 
 ## Tips
 
 -   It is highly recommended that you take out all of the [Blacksteel Pirates](Blacksteel_Pirate.md) first before attempting to fight the Blacksteel Pirate Captain.
--   It is not required to kill them for the mission to complete so if you are low level or not strong enough, you can simply sneak past them and grab the hostage and run.
+-   As it is not required to kill them for the mission to complete, it may be more advisable to simply assassinate them or distract them using other enemies and then grab the hostage and run.

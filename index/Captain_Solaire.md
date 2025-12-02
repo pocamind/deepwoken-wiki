@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 176737
+revid: 178949
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -283,7 +283,7 @@ Captain Solaire pins their opponent down, before pulverising their skull with th
 
 -   Assassinate them to deal major damage.
 -   Avoid being hit by their M1s or Critical Attacks, as they will do major damage to even the tankiest of builds.
--   Their AI is extremely intelligent, however they cannot parry most mantras, use this to your advantage.
+-   Their AI is extremely intelligent, however they cannot parry most mantras especially multihit mantras like oxidizing rush, use this to your advantage.
 -   Their weapons can be enchanted with 2 separate enchantments.
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 170833
+revid: 178938
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -35,7 +35,7 @@ A small sub-elevator is located within the city section entered through the flat
 
 ### East Entrance: City Bells
 
-There are 2 bells located in the [District of Commerce](District_of_Commerce.md), the district on the East side of [The City of the Drowned](The_City_of_the_Drowned.md), whose entrance has a sloped gate. Once 2 bells are rung, a bell choir will be heard across [Scyphozia](First_Layer.md), possibly signaling the salvation of the souls trapped within. The metal gate located in the [District of Commerce](District_of_Commerce.md) will then open for 10 minutes.
+There are [2 bells](The_City_of_the_Drowned.md#city-bells) located in the [District of Commerce](District_of_Commerce.md), the district on the East side of [The City of the Drowned](The_City_of_the_Drowned.md), whose entrance has a sloped gate. Once [the 2 bells](The_City_of_the_Drowned.md#city-bells) are rung, a bell choir will be heard across [Scyphozia](First_Layer.md), possibly signaling the salvation of the souls trapped within. The metal gate located in the [District of Commerce](District_of_Commerce.md) will then open for 10 minutes.
 
 You can locate the 2 bells by listening a soft humming that gets louder the closer you are to the bell. Once the bell is rung, it will stop making any noises until the large gate closes down again.
 

@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 174778
+revid: 178898
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -173,7 +173,6 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
 -   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel). These are only mentioned during his training and are not shown in-game.
     -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
--   Ragoozer stated Maestro Evengarde Rest rivals [Amorous Pleeksty](Amorus_Pleeksty.md) when activating his "Tempest Eye."
 -   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
 -   His hair id is : [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun).
     -   Evengarde Rest and [Aska](Aska.md) share the same hair id

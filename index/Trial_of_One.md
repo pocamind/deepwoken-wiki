@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 178881
+revid: 178882
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -128,7 +128,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ## Trivia
 
--   Sworn Angels use _[Crazy Slots's](Crazy_Slots.md)_ Divine Spears, which differentiate them from [Hollow Angels](Hollow_Angel.md).
+-   Sworn Angels use _[Crazy Slots's](Crazy_Slots.md)_ Soulwrought Spears, which differentiate them from [Hollow Angels](Hollow_Angel.md).
 -   You can go through the Light gate behind you to return to Minityrsa.
 -   If you go into the Trial of One, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
 -   Beating the Trial as an [Adret](Adret.md) and with [Autodidact](Boons_and_Flaws.md#autodidact) gets you to Power 8, but you're not allowed to invest the last points from killing the [Alpha Megalodaunt](Alpha_Megalodaunt.md). (if you save your free points from each power up until you get out of trial of one, you will be able to get the points from the [Alpha Megalodaunt](Alpha_Megalodaunt.md), allowing you to reach power 9)

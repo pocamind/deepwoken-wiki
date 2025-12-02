@@ -1,6 +1,6 @@
 ---
 title: The Military District
-revid: 177194
+revid: 178923
 source: https://deepwoken.fandom.com/wiki/The_Military_District
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -14,18 +14,7 @@ Template:Location2
 
 ## Overview
 
-The Military District is a small area of [The City of the Drowned](The_City_of_the_Drowned.md) which can be entered via a walkway. There is a main building containing 1 of the 4 city bells used to open the gate to the Depths trial.
-
-## Points of Interest
-
-### City Bell
-
--   Players can ring 1 of 4 city bells around the city to open the Cathedral of Interstice.
-    -   Note that the city bells are not to be confused with [Resonances](Resonance.md).
-
-## Contents
-
--   City Bell
+The Military District is a small area of [The City of the Drowned](The_City_of_the_Drowned.md) which can be entered via a walkway.
 
 ## Maps
 

@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 178455
+revid: 178904
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -13,7 +13,6 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
 | name | Jessamine |
 | aspect | Ganymede |
 | location | Starswept Valley |
-| affiliation | The Hive |
 
 “ Keep your wits about you in this place, lest you want to meet an untimely end. ”
 

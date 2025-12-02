@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 174810
+revid: 178957
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]

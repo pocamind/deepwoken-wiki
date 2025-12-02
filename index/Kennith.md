@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 177284
+revid: 178893
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
@@ -266,7 +266,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 
 ## Trivia
 
--   Having read the [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report) will unlock unique dialogue with Kennith in the Kyrsan Wilds.
+-   Having read the [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) will unlock unique dialogue with Kennith in the Kyrsan Wilds.
     -   Being a [Contractor](Oath%253A_Contractor.md) does not unlock any unique dialogue with him.
 -   The reason he's in the [Second Layer](Second_Layer.md) is because a [satirical video](https://www.youtube.com/watch?v=wd7Qp4SlxTM) was made, showing him bonding with and then entering in a relationship with Ambrosius. Developer Arch\_Mage saw this video, and decided to add Kennith to Layer 2 as a result.[\[1\]](#cite-note-1)
     -   Ironically, the video shows Kennith in [Firfire](Firfire.md), while he was ultimately placed in the Kyrsan Wilds.

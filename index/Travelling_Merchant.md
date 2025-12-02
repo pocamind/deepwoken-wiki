@@ -1,6 +1,6 @@
 ---
 title: Travelling Merchant
-revid: 171499
+revid: 178897
 source: https://deepwoken.fandom.com/wiki/Travelling_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
@@ -20,7 +20,7 @@ categories: [Tiran NPCs, NPCs, Vendors, Random Encounters]
 
 ## Description
 
-The Travelling Merchant is an NPC merchant and [Antiquarian](Antiquarian.md), he will buy your sellables as well as selling various equipment, weapons, and other miscellaneous items. He wears a [Red Traveller's Jacket](<Traveller's_Jacket.md>).
+The Travelling Merchant is an NPC merchant and [Antiquarian](Antiquarian.md). They will buy your sellables as well as selling various equipment, weapons, and other miscellaneous items. They wear a [Red Traveller's Jacket](<Traveller's_Jacket.md>).
 
 ## Location
 
@@ -53,7 +53,7 @@ Sold Items
   <td>
   <ul>
     <li><b><a href="Relics.md"><font>Relics</font></a></b>: <a href="Dye_Packet.md">Dye Packet</a>.</li>
-    <li><b><a href="Books.md"><font>Books</font></a></b>: <a href="Books.md#archivist-journal-megalodaunt">Archivist Journal: 'Megalodaunt'</a>, <a href="Books.md#children-of-the-aftertide-i">Children of the Aftertide I</a>, <a href="Books.md#eggs-in-a-basket">Eggs In A Basket</a>, <a href="Books.md#tale-of-the-storm">Tale of the Storm</a>, <a href="Books.md#the-ferrymans-lullably">The Ferryman's Lullably</a>, <a href="Books.md#the-hammers-call">The Hammer's Call</a>, <a href="Books.md#the-gideshu-march">The Gideshu March</a>.</li>
+    <li><b><a href="Books.md"><font>Books</font></a></b>: <a href="Archivist_Journal%253A_'Megalodaunt'.md">Archivist Journal: 'Megalodaunt'</a>, <a href="Children_of_the_Aftertide.md">Children of the Aftertide I</a>, <a href="Eggs_In_A_Basket.md">Eggs In A Basket</a>, <a href="Tale_of_the_Storm.md">Tale of the Storm</a>, <a href="The_Ferryman's_Lullaby.md">The Ferryman's Lullaby</a>, <a href="The_Hammer's_Call.md">The Hammer's Call</a>, <a href="The_Gideshu_March.md">The Gideshu March</a>.</li>
     <li><b><a href="Food.md"><font>Foods</font></a></b>: <a href="Cake.md">Cake</a>, <a href="Cooked_Fish.md">Cooked Fish</a>, <a href="Cooked_Squid.md">Cooked Squid</a>, <a href="Fish_Omelette.md">Fish Omelette</a>, <a href="Fruit_Salad.md">Fruit Salad</a>, <a href="Noodles.md">Noodles</a>, <a href="Mushroom_Bisque.md">Mushroom Bisque</a>, <a href="Mushroom_Omelette.md">Mushroom Omelette</a>, <a href="Omelette.md">Omelette</a>, <a href="Seafood_Boil.md">Seafood Boil</a>.</li>
     <li><b><font>Tools</font></b>: <a href="Canteen.md">Canteen</a>, <a href="Gliders.md">Glider</a>, <a href="Hunter's_Brace.md">Hunter's Brace</a>, <a href="Lumber_Axe.md">Lumber Axe</a>, <a href="Pickaxe.md">Pickaxe</a>, <a href="Repair_Kit.md">Repair Kit</a>, <a href="Flint.md">Umbral Flint</a>.</li>
   </ul></td>
@@ -76,7 +76,7 @@ Sold Items
 The Travelling Merchant's Ship
 
 -   You can place a [Guild Base](Guild_Bases.md) within The Travelling Merchant's boat.
--   The Travelling Merchant
+-   The Travelling Merchant was originally refered to as Chili.
 -   The Travelling Merchant is similar to the [Mantra Collectors](Mantra_Collector.md) in appearance and mannerisms, except they sell instead of buy.
 -   It is possible for there to not be any Armor.
 -   Despite being a shield, [The Path's Defender](<The_Path's_Defender.md>) is registered as a main weapon when being bought from The Travelling Merchant.[\[1\]](#cite-note-1)

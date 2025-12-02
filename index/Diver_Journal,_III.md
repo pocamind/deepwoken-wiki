@@ -1,9 +1,9 @@
 ---
 title: "Diver Journal, III"
-revid: 178676
+revid: 178902
 source: https://deepwoken.fandom.com/wiki/Diver_Journal%2C_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Books]
+categories: [Books, Diver Journals]
 ---
 
 # Diver Journal, III

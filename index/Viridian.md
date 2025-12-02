@@ -1,6 +1,6 @@
 ---
 title: Viridian
-revid: 176921
+revid: 178907
 source: https://deepwoken.fandom.com/wiki/Viridian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
@@ -20,7 +20,7 @@ categories: [Ganymede NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Lumi
 
 ## Description
 
-Viridian is a [Ganymede](Ganymede.md) NPC, she is one of the discipled the player is required to speak to in order to obtain Oathless.
+Viridian is a [Ganymede](Ganymede.md) NPC. They are one of the discipled the player is required to speak to in order to obtain Oathless.
 
 ## Location
 
@@ -62,8 +62,9 @@ Viridian is located at [Fort Merit](Fort_Merit.md), facing opposite of [Milgram]
 
 ## Trivia
 
--   Her [Ganymede](Ganymede.md) aspect variant is Hyperion.
--   She is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Viridian City_](https://bulbapedia.bulbagarden.net/wiki/Viridian_City).
+-   Their [Ganymede](Ganymede.md) aspect variant is Hyperion.
+-   They are named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Viridian City_](https://bulbapedia.bulbagarden.net/wiki/Viridian_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](Cerulean.md), [Saffron](Saffron.md), and [Celadon](Celadon.md).
 -   Viridian usually means the shade of the color green.
+-   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, Viridian and [Celadon](Celadon.md), saying "Those eyes.. you wish to" and continue.
     -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"

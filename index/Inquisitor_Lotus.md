@@ -1,6 +1,6 @@
 ---
 title: Inquisitor Lotus
-revid: 170758
+revid: 178892
 source: https://deepwoken.fandom.com/wiki/Inquisitor_Lotus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Inquisitors of The Central Authority]
@@ -28,4 +28,4 @@ The individual known as Lotus was an Authority Inquisitor and [Thundercaller](Th
 
 ## References
 
-1.  [↑](#cite-ref-1) [Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report)
+1.  [↑](#cite-ref-1) [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)

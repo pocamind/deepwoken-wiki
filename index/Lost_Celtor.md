@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 172242
+revid: 178948
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Lost Celtor]
@@ -21,7 +21,7 @@ A once great kingdom ruling over the [Southern Luminant](Luminants.md), now redu
 
 They are the only faction which can be found in [The Depths](The_Depths.md) other than [The Divers](The_Divers.md) and [The Ignition Union](The_Ignition_Union.md), both of which they are neutral towards, meaning their relations with almost all other factions are unknown.
 
-Ringing the Celtor Bells gains Positive Reputation with the faction, but there is a limit, capping out at high Friend tier, just before Ally tier.
+Ringing the [Celtor Bells](The_City_of_the_Drowned.md#city-bells) located in the [District of Commerce](District_of_Commerce.md) gives Positive Reputation with the faction, but there is a limit, capping out at high Friend tier, just before Ally tier.
 
 When starting off with Noble Regalia and starting off with a positive rep with Lost Celtor
 
