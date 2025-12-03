@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 177644
+revid: 178999
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Pages with broken file links, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -20,7 +20,7 @@ categories: [Lightborn NPCs, Pages with broken file links, NPCs, NPCs located in
 
 Lysander is a male [Lightborn](Lightborn.md) located at [The Floating Keep](The_Floating_Keep.md).
 
-Lysander asks you to gather the nessecary materials to craft a [Hallowtide Mask](Hallowtide_Mask.md). Once you have all the proper [ingredients](Hallowtide_Mask_Ingredients.md), which can be found in any chests, he will craft a Hallowtide Mask for you. If you want to learn more about the items, visit the [Hallowtide Mask Ingredients](Hallowtide_Mask_Ingredients.md) page.
+Lysander asks you to gather the nessecary materials to craft a [Hallowtide Mask](Hallowtide_Mask.md). Once you have all the proper [ingredients](Hallowtide_Mask_Ingredients.md), which can be found in any chests, he will craft a Hallowtide Mask for you.
 
 Lysander sells you various [Hallowtide](Hallowtide.md)\-exclusive items for [Joy](Joy.md), though they are all usually comestics and or useful tools. Here are all the possible purchasable options from **Lysander Spellhardt**:
 
@@ -271,7 +271,7 @@ When you complete his quest, he will say this.
 -   There used to be an option to buy [Void Feathers](Dark_Feather.md#void-feather) and a random [Deep Gem](Deep_Gems.md), though the latter was replaced with buying a random [Relic](Relics.md).
     -   Buying a random [Relic](Relics.md) used to cost 30 [Joy](Joy.md), and had both Rain and Void spire relics in its lootpool.
 -   [Mantle of Enmity](Mantle_of_Enmity.md), [Fauld of Enmity](Fauld_of_Enmity.md) and [Imperator's Fury](<Imperator's_Fury.md>) used to be obtainable from Lysander Spellhardt.
--   According to [Mikhail](Mikhail_Spellhardt.md), Lysander is as old, if not older, than [Galpin](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), despite one looking much older than the other. Also according to Mikhail, this is because [Lightborns](Lightborn.md)' appearance reflects their feelings, which is why Galpin is so old as he reminisces about their homeland a lot.[\[3\]](#cite-note-3)
+-   According to [Mikhail](Mikhail_Spellhardt.md), Lysander is as old, if not older, than [Galpin](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), despite one looking much older than the other. Also according to Mikhail, this is because a [Lightborn](Lightborn.md)'s appearance reflects their feelings, which is why Galpin is so old as he reminisces about their homeland a lot.[\[3\]](#cite-note-3)
 
 ## References
 

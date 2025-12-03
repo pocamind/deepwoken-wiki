@@ -1,6 +1,6 @@
 ---
 title: The Moonlit Faith
-revid: 174324
+revid: 179041
 source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore, Religious groups, The Moonlit Faith]
@@ -20,7 +20,7 @@ categories: [Lore, Religious groups, The Moonlit Faith]
 
 Devotees of the Moonlit Faith believe that the [Moonseye](Moonseye.md) is the gate to the afterlife, from which their ancestors look down on them from it amd that in order to gain access to afterlife the [Moonseye](Moonseye.md) asks for sacrifices.
 
-With The Lady Confessor's ascension to power, she took the society in her hands and forbid leaving the [Lullaby Isles](Lullaby_Isles.md), unless their leave is sanctioned by the Faith.[\[1\]](#cite-note-marro-1) Anyone, who would dare to come back would most likely be sacrificed and set ablaze in the name of the [Moonseye](Moonseye.md).[\[2\]](#cite-note-pardoner-2)
+With the Lady Confessor's ascension to power, she took the society in her hands and forbid leaving the [Lullaby Isles](Lullaby_Isles.md), unless their leave is sanctioned by the Faith.[\[1\]](#cite-note-marro-1) Anyone, who would dare to come back would most likely be sacrificed and set ablaze in the name of the [Moonseye](Moonseye.md).[\[2\]](#cite-note-pardoner-2)
 
 ## Notable Members
 
@@ -40,6 +40,6 @@ The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a le
 
 1.  [↑](#cite-ref-marro-1-0) [Marro](Marro.md)'s dialogue after talking to [Lake](Lake.md).
 2.  ↑ [2.0](#cite-ref-pardoner-2-0) [2.1](#cite-ref-pardoner-2-1) [O Pardoner of Mine](O_Pardoner_of_Mine.md)
-3.  [↑](#cite-ref-glossary-3-0) [The Lady Confessor glossary entry](Glossary.md#the-lady-confessor)
+3.  [↑](#cite-ref-glossary-3-0) [Glossary](Glossary.md): [The Lady Confessor](Glossary.md#the-lady-confessor)
 4.  ↑ [4.0](#cite-ref-missives-4-0) [4.1](#cite-ref-missives-4-1) [Strange Missives](Strange_Missives.md)
-5.  [↑](#cite-ref-glossary1-5-0) [Thal'assis glossary entry](Glossary.md#the-acolyte--thalassis)
+5.  [↑](#cite-ref-glossary1-5-0) [Glossary](Glossary.md): [The Acolyte / Thalassis](Glossary.md#the-acolyte--thalassis)

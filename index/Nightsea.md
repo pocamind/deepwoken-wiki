@@ -1,6 +1,6 @@
 ---
 title: Nightsea
-revid: 174536
+revid: 179034
 source: https://deepwoken.fandom.com/wiki/Nightsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, The Heavens, Lore]
@@ -24,4 +24,4 @@ When night falls and the [Suncross](Suncross.md) retreats into [the Voidfog](Voi
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-glossary-1-0) [1.1](#cite-ref-glossary-1-1) [1.2](#cite-ref-glossary-1-2) [Glossary entry for the Nightsea.](Glossary.md#the-nightsea)
+1.  ↑ [1.0](#cite-ref-glossary-1-0) [1.1](#cite-ref-glossary-1-1) [1.2](#cite-ref-glossary-1-2) [Glossary](Glossary.md): [The Nightsea](Glossary.md#the-nightsea)

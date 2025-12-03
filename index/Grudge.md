@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 178454
+revid: 178988
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Enemies]
@@ -115,9 +115,4 @@ The Grudge wields a Wraithclaw alongside the Haunted Path: Specter in its attack
 ## References
 
 1.  [↑](#cite-ref-1)
-    
-    Mambles asking if the Grudge NPC has any other requirements
-    
 2.  [↑](#cite-ref-2)
-    
-    Arch confirming that Grudge does not have any other requirements to spawn that aren't uncapped Galebreathe

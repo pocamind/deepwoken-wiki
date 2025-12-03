@@ -1,6 +1,6 @@
 ---
 title: Adretian Empire
-revid: 178210
+revid: 179031
 source: https://deepwoken.fandom.com/wiki/Adretian_Empire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dissolved organizations]
@@ -11,6 +11,7 @@ categories: [Dissolved organizations]
 | Adretian Empire | |
 |---|---|
 | leader | Emperor (formerly)[1], Unidentified Adretian Emperor[1], Drallis Ehr[1] |
+| subunits | Canor Swornfangs[2] |
 | territory | Central Luminant[1] |
 | dissolved | 65 BCE[1] |
 
@@ -23,3 +24,4 @@ Drallis would go on to convert the Empire and other nations, who had willingly j
 ## References
 
 1.  ↑ [1.0](#cite-ref-glossehr-1-0) [1.1](#cite-ref-glossehr-1-1) [1.2](#cite-ref-glossehr-1-2) [1.3](#cite-ref-glossehr-1-3) [1.4](#cite-ref-glossehr-1-4) [1.5](#cite-ref-glossehr-1-5) [1.6](#cite-ref-glossehr-1-6) [Glossary](Glossary.md): [The Sovereign Drallis Ehr](Glossary.md#the-sovereign-drallis-ehr)
+2.  [↑](#cite-ref-2) [Canorian Axe](Canorian_Axe.md) description

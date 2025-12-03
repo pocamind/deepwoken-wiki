@@ -1,6 +1,6 @@
 ---
 title: Alina Spellhardt
-revid: 172893
+revid: 178995
 source: https://deepwoken.fandom.com/wiki/Alina_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -17,7 +17,7 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 
 ## Description
 
-Alina is one of the several [Lightborns](Lightborn.md) scattered across [The Floating Keep](The_Floating_Keep.md).
+Alina is one of the several [Lightborn](Lightborn.md) scattered across [The Floating Keep](The_Floating_Keep.md).
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Old Stewards
-revid: 178181
+revid: 179027
 source: https://deepwoken.fandom.com/wiki/Old_Stewards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Old Stewards]
@@ -10,4 +10,7 @@ notices:
 
 # Old Stewards
 
-Researchers, old faction, seemed out by many factions. Current known and living member is [Adrofalis](Adrofalis.md).
+The Old Stewards are those who record information on the Old World before the Tides.[\[1\]](#cite-note-1) The group has had several, now defunct, precursor organizations, including the Society of Luminance.[\[2\]](#cite-note-2)
+
+1.  [↑](#cite-ref-1) [Bookkeeper Andros](Bookkeeper_Andros.md)
+2.  [↑](#cite-ref-2) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)

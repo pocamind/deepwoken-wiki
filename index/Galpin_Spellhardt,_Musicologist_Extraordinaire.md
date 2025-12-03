@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 177039
+revid: 179006
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -19,11 +19,11 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide
 
 ## Description
 
-Galpin is a male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md), on a walkway on the right side of the castle. From his wrinkles, he seems to be at least 70 years old, due to how [Aging](Age.md) works. He is also wearing the [Icebringer's Vestments outfit](<Icebringer's_Vestments.md>).
+Galpin is a male [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floating_Keep.md), on a walkway on the right side of the castle. He is visibly aged, with wrinkles akin to humans who are 70 years old, due to mourning the loss of his homeland. He is also wearing the [Icebringer's Vestments](<Icebringer's_Vestments.md>) outfit.
 
 Once you have enough [Joy](Joy.md), you can exchange it with him for exclusive 2024 [Hallowtide](Hallowtide.md) rewards related to [instruments](Instruments.md) and [music](Books.md). You can obtain the Spectral Instrument Set from him for 200 Joy, alongside some books and music sheets.
 
-Galpin is a Musicologist who was also a faculty chair at The Empyrean College of Cadence. He collects various pieces of instruments and music sheets for his collection. Due to an arrangement [Lysander Spellhardt](Lysander_Spellhardt.md) made, kids can be allowed candy for Hallowtide as usual, but adults were not allowed any unless they bring Lysander some [Joy](Joy.md), which is the main reason why Galpin asks the player to get him some Joy.
+Galpin is a Musicologist who was also a faculty chair at The Empyrean College of Cadence. He collects various pieces of instruments and music sheets for his collection. Due to an arrangement [Lysander Spellhardt](Lysander_Spellhardt.md) made, kids can be allowed candy for Hallowtide as usual, but adults were not allowed any unless they bring Lysander some [Joy](Joy.md), which is the main reason why Galpin asks the player to get him some Joy in order to satisfy his sweet tooth.
 
 ## Dialogue
 
@@ -209,7 +209,6 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 
 ## Trivia
 
--   He admits to having a **very** sweet tooth, and is also a light sleeper.
 -   The name 'Galpin' is a reference to the real-life musicologist [Francis William Galpin](https://en.wikipedia.org/wiki/Francis_William_Galpin), who was an avid collector of musical instruments.
 -   Shirt - [https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt](https://www.roblox.com/catalog/16826348088/Frostdraw-Shirt)
 -   Pants - [https://www.roblox.com/catalog/16826351147/Frostdraw-Pants](https://www.roblox.com/catalog/16826351147/Frostdraw-Pants)

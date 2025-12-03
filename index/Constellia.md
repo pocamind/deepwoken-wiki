@@ -1,6 +1,6 @@
 ---
 title: Constellia
-revid: 174378
+revid: 179040
 source: https://deepwoken.fandom.com/wiki/Constellia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore, Locations, Celestial Cities, The Heavens]
@@ -28,5 +28,5 @@ After the [Celestials](Celestial.md) fled the city, it was invaded by the [Kyrsa
 
 ## References
 
-1.  [↑](#cite-ref-glossary-1-0) [Glossary](Glossary.md#constellia)
+1.  [↑](#cite-ref-glossary-1-0) [Glossary](Glossary.md): [Constellia](Glossary.md#constellia)
 2.  ↑ [2.0](#cite-ref-kaide-2-0) [2.1](#cite-ref-kaide-2-1) [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)

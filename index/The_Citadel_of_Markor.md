@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 177754
+revid: 179053
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -22,7 +22,7 @@ notices:
 
 **The Citadel of Markor** is possibly the most prominent research organization in Lumen, the Citadel pride themselves as the foremost keepers of knowledge, history, and research into Lumen and the surrounding [Depths](The_Depths.md). The Citadel was founded 500 years into [the Resurgence](The_Resurgence.md)[\[3\]](#cite-note-glossresurge-3) and receives the majority of its funding from [the Central Authority](The_Central_Authority.md), a contribution that [the Authority](The_Central_Authority.md) claims falls in line with their desire for global unity, and for a united front against [the Depths](The_Depths.md).[\[4\]](#cite-note-glosscitadel-4)
 
-Their researches include: History documentation,[\[5\]](#cite-note-studies-5) [Depths](The_Depths.md)\-delving,[\[1\]](#cite-note-fathoms-1) restoration of ancient texts,[\[6\]](#cite-note-vows-6) attunement usage in the everyday life of the Lumensfolk,[\[7\]](#cite-note-attunement-7) different cultures of the Lumen.[\[8\]](#cite-note-north-8)
+Their researches include: History documentation,[\[5\]](#cite-note-studies-5) [Depths](The_Depths.md)\-delving,[\[1\]](#cite-note-fathoms-1) restoration of ancient texts,[\[6\]](#cite-note-vows-6) documentation of attunement usage in the everyday life of the Lumensfolk,[\[7\]](#cite-note-attunement-7) and documentation of different cultures across Lumen.[\[8\]](#cite-note-north-8)
 
 As well as an archive, the Citadel is also an institute of education where people can take courses to improve their skills, such as cosmetic surgery.[\[9\]](#cite-note-cosmetic-9)
 

@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Caller
-revid: 177077
+revid: 179010
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Caller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Hallowtide]
@@ -10,7 +10,6 @@ categories: [NPCs, Hallowtide]
 
 | Hallowtide Caller | |
 |---|---|
-| name | Hallowtide Caller |
 | location | Isle of Vigils, Greathive Aratel |
 
 ## Description

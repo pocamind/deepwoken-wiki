@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 178790
+revid: 179032
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -66,6 +66,8 @@ Certain Monsters have unique visual effects when attuned.
 **Exclusive to [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md), [Scyphozia](First_Layer.md), and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
 
 **Exclusive to [Eastern Luminant](Luminants.md)**
+
+**Exclusive to [The Voidsea](Voidsea.md)**
 
 **Exclusive to [The Eternal Gale](Second_Layer.md)**
 

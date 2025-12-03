@@ -1,8 +1,9 @@
 ---
 title: Surface
-revid: 174543
+revid: 179050
 source: https://deepwoken.fandom.com/wiki/Surface
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Terminology]
 ---
 
 # Surface
@@ -21,8 +22,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-glossary0-1-0) [1.1](#cite-ref-glossary0-1-1) [Glossary entry for the Voidfog](Glossary.md#the-voidfog)
+1.  ↑ [1.0](#cite-ref-glossary0-1-0) [1.1](#cite-ref-glossary0-1-1) [Glossary](Glossary.md): [The Voidfog](Glossary.md#the-voidfog)
 2.  [↑](#cite-ref-glossary-2-0) [Glossary entry for the Luminants](Glossary.md#the-luminants)
 3.  [↑](#cite-ref-ploom-3-0) [Ploom's dialogue after completing his quest/passing the stat check](Ploom.md#dialogue)
 4.  [↑](#cite-ref-citation-needed-4-0) Citation needed
-5.  [↑](#cite-ref-glossary1-5-0) [Glossary entry for the Voidsea](Glossary.md#the-voidsea)
+5.  [↑](#cite-ref-glossary1-5-0) [Glossary](Glossary.md): [The Voidsea](Glossary.md#the-voidsea)

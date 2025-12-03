@@ -1,9 +1,9 @@
 ---
 title: The Heavens
-revid: 177393
+revid: 179048
 source: https://deepwoken.fandom.com/wiki/The_Heavens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Lore, The Heavens, Locations]
+categories: [Stub pages without reason, StubPages, The Heavens, Locations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -32,8 +32,8 @@ Waters of the Heavens are called the [Nightsea](Nightsea.md). They are inky blac
 
 ## References
 
-1.  [↑](#cite-ref-glossary-1-0) [Glossary entry for the Heavens.](Glossary.md#the-heavens)
-2.  [↑](#cite-ref-glossary1-2-0) [Glossary entry for the Nightsea.](Glossary.md#the-nightsea)
+1.  [↑](#cite-ref-glossary-1-0) [Glossary](Glossary.md): [The Heavens](Glossary.md#the-heavens)
+2.  [↑](#cite-ref-glossary1-2-0) [Glossary](Glossary.md): [The Nightsea](Glossary.md#the-nightsea)
 3.  ↑ [3.0](#cite-ref-kaide-3-0) [3.1](#cite-ref-kaide-3-1) [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md)
 4.  [↑](#cite-ref-misha-4-0) [Mikhail Spellhardt](Mikhail_Spellhardt.md)
 5.  [↑](#cite-ref-kaidesoulthorn-5-0) [Kaide's dialogue if the player has the Soulthorn equipped.](Kaide,_the_Drowned_Light.md#dialogue)

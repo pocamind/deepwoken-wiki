@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 166224
+revid: 179019
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -32,7 +32,11 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 
 ## Quotes
 
+### Destroyman III Obtainment
+
 -   Thank you for contracting \[ CORAL FEVER \]! I'm your new personal assistant, Destroyman III. I'll be giving you helpful tips and tricks!
+
+### General Quotes
 
 -   ACHOO! Ah, sorry. Coral Fever? No no, just my spring allergies acting up.
 -   AD BREAK: Corporations have no soul.
@@ -84,9 +88,9 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   So... come here often?
 -   Sometimes I like to stare at the ocean and imagine terrifying eyes rising from the deep beyond. It gives me the best nightmares.
 -   Talking so much is getting me really tired. Maybe you should close the game so I can take a break?
+-   TIP: A felinor can have a little bit of salami. As a treat.
 -   TIP: And then BOOM! I get the bell. New Layer 2 bell! New Layer 2 bell.
 -   TIP: Are you staying hydrated and fed? Fevers spread through healthy hosts. I'm just looking out for both of us.
--   TIP: A felinor can have a little bit of salami. As a treat.
 -   TIP: Be kind to food workers. You've heard of how many kings got poisoned, right?
 -   TIP: Birds aren't real.
 -   TIP: Do not let the radio decide your taste in music. Be your own person and seek what you personally enjoy.
@@ -121,64 +125,73 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   You wouldn't ever eat poison, right? So why would you eat at a restaurant chain?
 -   You, uh.. you doin' good? I'm not asking because I care, I'm asking because I was coded to.
 
-## Destroyman III Removal Quotes
+### Destroyman III Removal Quotes
 
--   I don't feel so good..
--   Erm. Developer?
--   Uh oh...
--   I regret to announce this is the end! I am going now.
 -   Don't forget me.
+-   Erm. Developer?
+-   I don't feel so good..
+-   I regret to announce this is the end! I am going now.
 -   I'll be back.
--   You're so cringe for this.
--   You can see that light in the sky, too, right? Right?
--   See you later, shark cowboy.
--   Your free trial is over.
--   On to the next journey.
--   Journey before destination.
 -   It's lights out for me. Goodnight, Lumen!
+-   Journey before destination.
+-   On to the next journey.
+-   See you later, shark cowboy.
 -   The Depths will not hold me. Just watch.
+-   Uh oh...
+-   You can see that light in the sky, too, right? Right?
+-   Your free trial is over.
+-   You're so cringe for this.
 
-## Death Quotes
+### Death Quotes
 
 -   \*ahem\*
--   Yikes?
--   This is normal for you? Cool.
--   Ok, back to the dog race.
--   Ok, that one was deserved.
--   Erm...
+-   Armor durability is essential during combat - you can talk to a blacksmith to repair yours next time.
 -   Awkward...
+-   Dang... Have you tried locking in?
+-   Did you know the Q button makes you dodge?
+-   Did you know this game has a tutorial? Talk to The Captain in Fragments of Self to activate it.
+-   Dying in the Overworld can be a viable strategy to travel to the Depths faster! Dying in the Depths - not so much!
+-   Eesh, that'll leave a mark...
+-   Erm...
+-   IT'S JUST ONE OF THOSE DAYS.
+-   I'm using tilt controls!
 -   HINT: DIE!!
--   Yeowch.
+-   HINT: There is nothing. Only warm, primordial darkness.
 -   Just a game, right?
 -   Lol
--   You can use two sticks and one fiber to make a fishing rod at a workbench. Fishing's more relaxing than whatever it is you're doing right now.
--   Armor durability is essential during combat - you can talk to a blacksmith to repair yours next time.
 -   Maybe it's time for a new strategy?
--   IT'S JUST ONE OF THOSE DAYS.
--   Uh. Sorry, I guess?
--   You didn't see that one? Uh. Nevermind.
--   Dying in the Overworld can be a viable strategy to travel to the Depths faster! Dying in the Depths - not so much!
+-   Mission failed... I guess. Press A to try again?
 -   Oh, oh! Next time, you should try spinning. That's a good trick!
+-   Ok, back to the dog race.
+-   Ok, that one was deserved.
+-   Snake? Snake- oh sorry, I just saw one near your corpse. Don't worry about it.
+-   So, uh... deal with this often?
+-   This is normal for you? Cool.
+-   Uh. Block parry dodge, much?
+-   Uh. Sorry, I guess?
 -   Wouldn't let that happen to me.
--   I'm using tilt controls!
+-   Yeowch.
+-   Yikes?
+-   You can use two sticks and one fiber to make a fishing rod at a workbench. Fishing's more relaxing than whatever it is you're doing right now.
+-   You didn't see that one? Uh. Nevermind.
 
-## Gripping Quotes
+### Gripping Quotes
 
--   They aren't getting back up, are they?
--   You want some congratulations?
--   They were just minding their own business! Come on!
--   That's not very awesomesauce.
--   Issues, Much?
 -   Could've talked it out. Jeez.
 -   I like to relieve my stress by taking a walk. Try that instead of killing.
+-   Issues, Much?
+-   That's not very awesomesauce.
+-   They aren't getting back up, are they?
+-   They were just minding their own business! Come on!
+-   You want some congratulations?
 
-## Removed Quotes
+### Removed Quotes
 
 -   If you were hoping you could uninstall me, I have bad news.
--   When's that Ethiron theme coming along anyway?
--   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
 -   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret sixth attunement.
 -   HINT: Chanting 'Raguza Haruza Kanuza Atruza Confuza Emduza Paluza Raguza' at the white tree in Etris unlocks a secret seventh attunement.
+-   HINT: Within a day, I will be erased from this game by the government and their agents. Remember me.
+-   When's that Ethiron theme coming along anyway?
 
 ## Trivia
 
@@ -214,6 +227,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   The line "I don't feel so good..." is a direct reference to the same line and larger meme of Spider-Man crumbling into dust in _Avengers: Infinity War_.
 -   The line "You don't have to do anything anymore. Ever. Never ever." is a reference to [the intro](https://www.youtube.com/watch?v=7ZU2elURPPA) of the video game _[Disco Elysium](https://en.wikipedia.org/wiki/Disco_Elysium)_.
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
+-   The line "Journey before destination." is the same as the, now removed, [Jetstriker](Oath%253A_Jetstriker.md) [Mystic](Mystic.md) dialogue.
 -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ No
 -   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
 -   The line "IT'S JUST ONE OF THOSE DAYS." is a reference to the song _[Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)_ by Limp Bizkit.

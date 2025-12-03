@@ -1,6 +1,6 @@
 ---
 title: "Thal'assis Linnaes"
-revid: 174047
+revid: 179046
 source: https://deepwoken.fandom.com/wiki/Thal'assis_Linnaes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Moonlit Faith]
@@ -25,5 +25,5 @@ In the [Strange Missives](Strange_Missives.md) he wrote about one of the academi
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-glossary-1-0) [1.1](#cite-ref-glossary-1-1) [Glossary entry](Glossary.md#the-acolyte--thalassis)
+1.  ↑ [1.0](#cite-ref-glossary-1-0) [1.1](#cite-ref-glossary-1-1) [Glossary](Glossary.md): [The Acolyte / Thalassis](Glossary.md#the-acolyte--thalassis)
 2.  [↑](#cite-ref-missives-2-0) [Strange Missives](Strange_Missives.md)

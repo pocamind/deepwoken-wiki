@@ -1,6 +1,6 @@
 ---
 title: Zhatarn
-revid: 177392
+revid: 179033
 source: https://deepwoken.fandom.com/wiki/Zhatarn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Celestials, The Heavens]
@@ -34,5 +34,5 @@ Many years have passed since then and even many of the [Lightborn](Lightborn.md)
 ## References
 
 1.  ↑ [1.0](#cite-ref-kaide-1-0) [1.1](#cite-ref-kaide-1-1) [1.2](#cite-ref-kaide-1-2) [1.3](#cite-ref-kaide-1-3) [1.4](#cite-ref-kaide-1-4) [Kaide](Kaide,_the_Drowned_Light.md)'s dialogue if the player has the [Soulthorn](Soulthorn.md) equipped.
-2.  ↑ [2.0](#cite-ref-glossary-2-0) [2.1](#cite-ref-glossary-2-1) [Glossary entry for Zhatarn](Glossary.md#zhatarn-the-moonlight-prince)
+2.  ↑ [2.0](#cite-ref-glossary-2-0) [2.1](#cite-ref-glossary-2-1) [Glossary](Glossary.md): [Zhatarn, the Moonlight Prince](Glossary.md#zhatarn-the-moonlight-prince)
 3.  [↑](#cite-ref-soulthorn-3-0) [Soulthorn](Soulthorn.md) description

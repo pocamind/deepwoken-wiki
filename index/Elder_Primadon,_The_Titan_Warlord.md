@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 178951
+revid: 179054
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -239,3 +239,7 @@ Elder Primadon can also initiate a **combo** that always consists of a stomp, a 
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Elder Primadon is the only feature to not appear in private servers. This is because it prevents outside parties ganking for the loot.

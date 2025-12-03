@@ -1,6 +1,6 @@
 ---
 title: Council of the Moonlit Faith
-revid: 174325
+revid: 179047
 source: https://deepwoken.fandom.com/wiki/Council_of_the_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Moonlit Faith, Religious groups, Councils]
@@ -32,7 +32,7 @@ The Acolyte / [Galvika](Galvika.md): One of the previous Acolytes of the [Lullab
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-glossary-1-0) [1.1](#cite-ref-glossary-1-1) [1.2](#cite-ref-glossary-1-2) [1.3](#cite-ref-glossary-1-3) [Glossary entry for The Council](Glossary.md#the-counsell)
+1.  ↑ [1.0](#cite-ref-glossary-1-0) [1.1](#cite-ref-glossary-1-1) [1.2](#cite-ref-glossary-1-2) [1.3](#cite-ref-glossary-1-3) [Glossary](Glossary.md): [The Counsell](Glossary.md#the-counsell)
 2.  ↑ [2.0](#cite-ref-missives-2-0) [2.1](#cite-ref-missives-2-1) [2.2](#cite-ref-missives-2-2) [2.3](#cite-ref-missives-2-3) [Strange Missives](Strange_Missives.md)
-3.  [↑](#cite-ref-glossary1-3-0) [The Lady Confessor glossary entry](Glossary.md#the-lady-confessor)
-4.  [↑](#cite-ref-glossary2-4-0) [Glossary entry for The Acolyte / Thal'assis](Glossary.md#the-acolyte--thalassis)
+3.  [↑](#cite-ref-glossary1-3-0) [Glossary](Glossary.md): [The Lady Confessor](Glossary.md#the-lady-confessor)
+4.  [↑](#cite-ref-glossary2-4-0) [Glossary](Glossary.md): [The Acolyte / Thalassis](Glossary.md#the-acolyte--thalassis)
