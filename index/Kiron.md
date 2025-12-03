@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 177633
+revid: 179081
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -124,4 +124,4 @@ Kirons have optional face markings. The color of these markings is based on your
 -   The surname Alukaatu is a blatant reference to Alucard, though it's not clear if it's [Alucard](https://hellsing.fandom.com/wiki/Alucard) from _Hellsing_ or [Alucard](https://castlevania.fandom.com/wiki/Alucard) from _Castlevania_, as both characters are vampires.
 -   The surname Draatu may be a nod to Dracula.
 -   You can combine the names ‘Nosfa’ and ‘Ratu’ to get a name that sounds similar to ‘Nosferatu’, the original vampire horror movie from 1922.
--   Kirons shouldn't be able to exist canonically, as in Vows by the Sea: Inheritance, it states children can only take genetics from one parent. Kirons are stated to have evolved from living in caves, but evolution would be impossible without genetic variety. Food for thought.
+-   Each variant name is related to or directly named after a Genus of bat.

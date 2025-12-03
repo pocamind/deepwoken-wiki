@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 178916
+revid: 179084
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2226,6 +2226,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 80 Medium Weapon, Rifle Equipped
 
 -   Stock Bash \[Common Talent\] - \[Rifles\] Your running attacks now apply a brief amount of daze.
+    -   Applies daze for one second.
     -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
 
 -   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)

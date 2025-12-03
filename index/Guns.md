@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 163472
+revid: 179088
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -25,7 +25,7 @@ All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even i
 ### General Gun Talents
 
 -   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
-    -   Due to this being combined multiplicatively rather than additively, this is worse than just +10% PEN, especially on [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Stormseye](Stormseye.md) due to their dual damage typings.
+    -   Due to this being combined multiplicatively rather than additively, this is worse than just +10% PEN, especially on [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Stormseye](Stormseye.md) due to their dual damage typings. Additionally, [Rifle Spear](Rifle_Spear.md) will only benefit from this Talent on critical due to it being a slash based weapon.
     -   Armor Piercing has heavy diminishing returns based on how much PEN you have. While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8), or 65% PEN + Armor Piercing is equivalent to having 68.5% PEN against blunt armor (+3.5).
     -   Armor Piercing does not bypass the 50% PEN cap.
@@ -47,8 +47,6 @@ All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even i
         -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
         -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
         -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
-
-  
 
 ## Pistol Moveset
 
@@ -127,12 +125,6 @@ Pistols have their own Talent trees - [Outlaw](Talents.md#outlaw) and [Gunslinge
 
   
 
-The current obtainable pistols in the game are: [Flintlock](Flintlock.md), [Revolver](Repeater.md), [Dragoon](Dragoon.md), [Dawnshot](Dawnshot.md) and its alloyed variant, [Rosen's Roscoe](<Rosen's_Roscoe.md>), [Iron Requiem](Iron_Requiem.md) and the [Soulwrought Gun](Crazy_Slots.md#weapons). (Only obtainable from the Crazy Slots resonance). They are all exclusively Light weapons.
-
-File:Flintlockbullets.png
-
-Pistol user using the guns critical attack
-
 Despite having the highest range of all the weapons, utilizing the range can often be difficult. The hitboxes for guns are much like a pencil in the sense that it's not very wide or tall compared to other weapons meaning most people will easily jump over your shots.
 
 ### Pistol Stats
@@ -151,6 +143,7 @@ Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
     -   Prerequisites: 80 Medium Weapon, Rifle Equipped
 
 -   Stock Bash \[Common Talent\] - \[Rifles\] Your running attacks now apply a brief amount of daze.
+    -   Applies daze for one second.
     -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
 
 -   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
@@ -160,10 +153,6 @@ Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
     -   Prerequisites: 95 Medium Weapon, Rifle Equipped
 
   
-
-The current obtainable rifles in the game are: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), the [Iron Blunderbuss](Iron_Blunderbuss.md), the [Summer Rifle](Summer_Rifle.md), the [Stormseye](Stormseye.md) and the [Rosen's Hellflame](<Rosen's_Hellflame.md>).
-
-Additionally, the [Rifle Spear](Rifle_Spear.md) counts as a rifle for all rifle exclusive Talents and effects.
 
 ### Rifle Stats
 
@@ -300,19 +289,13 @@ Additionally, the [Rifle Spear](Rifle_Spear.md) counts as a rifle for all rifle 
 
 ## Trivia
 
--   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 [Iron](Ores.md#iron) for 20 bullets.
+-   You can buy bullets at the [Etris](Etris.md) weapon store and Summer Isle or craft them using 1 [Iron](Ores.md#iron) for 50 bullets.
     -   You can also modify your bullets with [Bullet Casings](Bullet_Casings.md) by giving certain [Ores](Ores.md) to a [Gunsmith](Gunsmith.md), which can be located in your [Guild Base](Guild_Bases.md) and [The Furnace](The_Furnace.md).
--   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md). (two rifles and one Pistol)
+-   There are three legendary guns in the game [Stormseye](Stormseye.md), [Rosen's Hellflame](<Rosen's_Hellflame.md>) and the [Iron Requiem](Iron_Requiem.md). (Two Rifles and one Pistol.)
 -   The [Rosen's Hellflame](<Rosen's_Hellflame.md>) and [Iron Requiem](Iron_Requiem.md) are the only guns with multiple crits, both being legendary weapons.
 -   One handed guns are the only type of guns where having [iron bullets](Bullet_Casings.md) isn't a direct upgrade.
-    -   Loading in bullets to one handed guns exchange posture dmg for 10% chip and 15% increased damage.
--   As of 2024, March 3th, rifles and dual pistols no longer shoot a bullet on their m1s.
--   The rifle's attack cycle involves using the rifle's stock and muzzle to hit the opponents.
--   Both pistols and rifles in Deepwoken don't have recoil.
--   The [Dawnshot](Dawnshot.md) is the only gun that can be used with [Pluripotent Alloy](Pluripotent_Alloy.md).
+    -   Loading bullets into pistols exchange posture damage for 10% chip and 15% increased damage.
+-   Rifles and dual pistols used to fire ranged projectiles in their M1 combo, but this was removed in the March 3rd, 2024 Update. Today, you can perform something similar to this by using the [Tactical Reload](Talents.md#tactical-reload) and [Parting Gift](Talents.md#parting-gift) Talents respectively.
+-   No gun weapon has recoil in Deepwoken.
+-   The [Dawnshot](Dawnshot.md) is the only gun that can be [alloyed](Pluripotent_Alloy.md).
 -   Reloading you gun during other animations, such as blocking, parrying or movestacking used to be possible. This was later fixed 2025, February 2th update.
--   Running animations for One handed guns is currently bugged. Your arms don't move at all. (Fixed)
-    
-    File:One handed gun animation bug.png
-    
-    One handed gun running animations. (Fixed)

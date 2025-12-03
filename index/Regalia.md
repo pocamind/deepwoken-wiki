@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 178878
+revid: 179077
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,7 +68,7 @@ Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). Functionall
 
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
-This cannot be obtained if you have the Tarnished Flaw, and requires you to obtain a resonance at least once on your account before you can get it.
+This cannot be obtained if you have the Tarnished Flaw, ~and requires you to obtain a resonance at least once on your account before you can get it.~
 
 This Regalia is **not** kept upon wiping at any power level.
 

@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 178532
+revid: 179120
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -16,11 +16,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-Stone Knights (also known as Desert Knights or Sand Knights) are a type of Giant [Monster](Monsters.md) encountered primarily in the [Starswept Valley](The_Starswept_Valley.md), either via being dropped out the sky by a radiant meteor, or simply spawning fighting an [Alpha Megalodaunt](Alpha_Megalodaunt.md), but they can also just randomly spawn in.
+Stone Knights, also known as Desert Knights or Sand Knights, are a type of Giant [Monster](Monsters.md) encountered primarily in [The Starswept Valley](The_Starswept_Valley.md).
 
-Blizzard Knights are a far stronger version of the Stone Knight, spawning in a pack of 6 in the [Valley of Heroes](The_Valley_of_Heroes.md) during Winter, introduced as a trap by [Aelita](Aelita.md) telling you to "come back during the winter for more fun".
+Blizzard Knights are a far stronger version of the Stone Knight, spawning in a pack of 6 in [The Valley of Heroes](The_Valley_of_Heroes.md) during Winter, introduced as a trap by [Aelita](Aelita.md) telling you to "come back during the winter for more fun".
 
-[Moon Knights](Moon_Knight.md) are stronger and contain a few unique moves. [Star Knight](Star_Knight.md) is almost the same, but instead is a [very rare encounter](https://deepwoken.fandom.com/wiki/Random_Encounters#Resonant_Dawn) that guaranteed drops [Astral Enchant Stone](Enchant_Stone.md) and contains a meteorite that immediately grants you [Resonance](Resonance.md).
+[Moon Knights](Moon_Knight.md) are stronger and contain a few unique moves. [Star Knight](Star_Knight.md) is almost the same, but instead is a [very rare encounter](Random_Encounters.md#resonant-dawn) that guaranteed drops an [Astral](Astral.md) [Enchant Stone](Enchant_Stone.md) and contains a meteorite that immediately grants a [Resonance](Resonance.md).
 
 ## Moveset
 

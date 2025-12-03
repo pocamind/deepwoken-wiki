@@ -1,11 +1,12 @@
 ---
 title: The High Convocation
-revid: 174944
+revid: 179079
 source: https://deepwoken.fandom.com/wiki/The_High_Convocation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Citadel of Markor, Councils]
+categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, The Citadel of Markor, Councils]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # The High Convocation
@@ -22,6 +23,10 @@ notices:
 The High Convocation was the host of the first expeditions into [the Depths](The_Depths.md). They theorized on the concept of the dead returning back to life for a long time, before it was confirmed that the souls of the dead were sent to [the Depths](The_Depths.md), from which only the strong could return. [Deukalion Akarad](Deukalion_Akarad.md) was the one to lead the first expedition.[\[1\]](#cite-note-fathoms-1)
 
 They are also responsible for giving out punishments on serious occasions, like insubordination, which could put lives at risk.[\[3\]](#cite-note-interrogation-3)
+
+## Notable Members
+
+[**Aurelia Imari**](Aurelia_Imari.md) - WIP
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 178036
+revid: 179106
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -33,7 +33,7 @@ Nightmare Immortal Guardians spawn in groups in the upper floor's halls or somet
 
 ## Moves
 
-An Immortal Guardian's arsenal consists of a [Soulwrought Greatsword](Crazy_Slots.md) or a [Soulwrought Axe](Crazy_Slots.md).
+An Immortal Guardian's arsenal consists of a [Soulwrought Greatsword](Crazy_Slots.md#weapons) or a [Soulwrought Axe](Crazy_Slots.md#weapons).
 
 | Name/Danger | Description | GIF |
 | --- | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 178324
+revid: 179093
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -558,7 +558,7 @@ Shadow + Slash
 
 -   Has a base damage of 22.5/25.5/28.5/31.5/34.5 per level with 2.75 Shadowcast scaling.
 -   The Multiplying Spark variant has a base damage of 15/17/19/21/23 per level, per hit (3) with 2.75 Shadowcast scaling. This deals 2x the damage of the unmodified variant.
--   Combining the Multiplying and Spring Sparks grants a base damage of 13.5/15.3/17.1/20.7 per level, per horizontal slash (2) before performing a leaping slash that deals the damage of the unmodified variant. All hits have 2.75 Shadowcast scaling. This deals 2.2x the damage of the unmodified variant.
+-   Combining the Multiplying and Spring Sparks makes Shade Bringer perform a leaping slash that deals the damage of the unmodified variant followed up by 2 horizontal slashes with a base damage of 13.5/15.3/17.1/20.7 per level each. All hits have 2.75 Shadowcast scaling. This deals 2.2x the total damage of the unmodified variant.
 -   Deals 13 posture damage per hit (1, 3 with Multiplying Spark).
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
