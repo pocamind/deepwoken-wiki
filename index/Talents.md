@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179144
+revid: 179150
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -55,7 +55,11 @@ There are certain Talents that you receive automatically upon meeting their requ
 
 -   [Echo Talents](Echoes.md#echo-talentsitems)
 -   [Attunement](Attunements.md) obtainment and progression Talents
--   [Oath](#oath) Talents
+-   [Oath](Oaths.md) Talents
+-   **Faction** Talents
+-   [Quest](#talent-quests) Talents
+-   [Innate](#innate) Talents, such as those from your [Aspect](Aspects.md)
+-   [Origin](Origins.md) Talents
 
 Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
 
@@ -1811,7 +1815,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Obtained from [Simmerbloom Diadem](Simmerbloom_Diadem.md)
     -   Requirements for Equipment: [Power](Power.md) 10, 80 Flamecharm
 
-### Innate (Aspect Talents)
+### Innate
 
 -   _Chitin_ \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
     -   Grants 5% damage reduction in the form of Natural Armor.
@@ -2075,12 +2079,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Hoplite \[Common Talent\] - Posture damage is reduced by 15% when wielding a spear and standing still. (+2 Passive Agility)
     -   Was moved to Lancer class, used to be in Legion Shock Trooper.
     -   Prerequisites: 15 Fortitude, Using a spear
-
-### Labubu Phonk
-
--   Matcha Path: Baby Shit Green \[Common Talent, Labubudraw Exclusive\] - Your Labubu abilities no longer proc itallian brainrot and instead proc performative men.
-    -   Turn your labubu green like green baby shit and matcha!
-    -   Prerequisites: Degree in feminist literature
 
 ### Lava Serpent
 

@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 174596
+revid: 179156
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -137,3 +137,7 @@ These colors in dialogue are for convenience. They do not appear in-game.
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+If somehow you get unlucky enought to get the quest to make a potion that restores some life force in the winter without any redds on your inventory, you will be forced to either wait until the next season or trade with a player, because redds do not spawn in the winter

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 179093
+revid: 179157
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -839,7 +839,7 @@ Shadow
 -   Has a 19 second cooldown.
 -   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
 -   The damage buff can be increased with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
--   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration of buff.
+-   It has a base duration of 12 seconds that can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration of buff to a cap of 21 seconds.
 -   [Spine Cutter](Talents.md#vigil-swordsman) cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a bigger shockwave that guardbreaks.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.

@@ -1,9 +1,9 @@
 ---
 title: "Ka'al"
-revid: 178721
+revid: 179158
 source: https://deepwoken.fandom.com/wiki/Ka'al
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, The Hive, Characters mentioned in books]
+categories: [SpoilerPages, The Hive, Characters mentioned in books, Deceased characters]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
