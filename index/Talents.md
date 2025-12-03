@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179084
+revid: 179144
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2075,6 +2075,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Hoplite \[Common Talent\] - Posture damage is reduced by 15% when wielding a spear and standing still. (+2 Passive Agility)
     -   Was moved to Lancer class, used to be in Legion Shock Trooper.
     -   Prerequisites: 15 Fortitude, Using a spear
+
+### Labubu Phonk
+
+-   Matcha Path: Baby Shit Green \[Common Talent, Labubudraw Exclusive\] - Your Labubu abilities no longer proc itallian brainrot and instead proc performative men.
+    -   Turn your labubu green like green baby shit and matcha!
+    -   Prerequisites: Degree in feminist literature
 
 ### Lava Serpent
 

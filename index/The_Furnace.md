@@ -1,6 +1,6 @@
 ---
 title: The Furnace
-revid: 171015
+revid: 179140
 source: https://deepwoken.fandom.com/wiki/The_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Lawless Territory]
@@ -14,7 +14,7 @@ Template:Location2
 
 ## Description
 
-**The Furnace** is the basement of the summer castle. It contains a arena for players to fight each other freely without having to worry about reputation.
+**The Furnace** is the basement of the summer castle. It contains an arena for players to fight each other freely without having to worry about reputation.
 
 ## Points of Interest
 

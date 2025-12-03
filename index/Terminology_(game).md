@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 173690
+revid: 179145
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -735,7 +735,7 @@ _noun_
 -   **FLM**: Flamecharm (instead of **FIR**)
 -   **THN/THD**: Thundercall (instead of **LTN**)
 -   **SHD**: Shadowcast (instead of **SDW**)
--   **Galebreath**: Galebreathe
+-   **Gale:** Galebreathe
 
 ### 1H, 2H
 
