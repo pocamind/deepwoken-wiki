@@ -1,6 +1,6 @@
 ---
 title: "Auto-Repair"
-revid: 179133
+revid: 179207
 source: https://deepwoken.fandom.com/wiki/Auto-Repair
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Equipment Enchantments]

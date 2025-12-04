@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179150
+revid: 179220
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4275,6 +4275,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
 
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
+    -   Adds a +20% damage modifier to your [Strength Mantras](Attunement-less.md#strength-mantras), should they guardbreak while you have a [Wrath Gem](Wrath_Gem.md) equipped onto them.
+    -   Applies a 50% slow for 5.5 seconds on proc.
+    -   10 second cooldown.
 
 -   Featherfall: [Tiran Pendant](Tiran_Pendant.md) - Prevents falls from damaging you. After sufficient damage has been resisted, the pendant will go inactive and require time to recharge.
     -   Negates up to 255 fall damage before going on a 2 minute cooldown.

@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 175132
+revid: 179217
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -94,4 +94,4 @@ Ethiron's Gaze is obtained at Firfire after retrieving the spear in the Firfire 
 
 **Pleeksty's Will:** You gain significantly more Ether from consuming elemental ingredients
 
-Pleetsky's Will is obtained via talking to [Ploom](Ploom.md) in Lance's Food, [Etris](Etris.md). It can be obtained if you have 20 Flamecharm. If you have 50 Charisma or 40 Flamecharm, you can pick those options to instantly get the Talent. If you do not have those, you can trade him 3 [Dying Embers](Dying_Embers.md) in order to get the Talent.
+Pleetsky's Will is obtained via talking to [Ploom](Ploom.md) in Lance's Food, [Etris](Etris.md). It can be obtained if you have 20 Flamecharm. If you have 50 Charisma or 40 Flamecharm, you can pick those options which then fulfils a hidden requirement which allows you to get the Talent upon talking to him again. If you do not have those, you can trade him 3 [Dying Embers](Dying_Embers.md) in order to get the Talent.

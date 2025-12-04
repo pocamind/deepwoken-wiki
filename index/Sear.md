@@ -1,6 +1,6 @@
 ---
 title: Sear
-revid: 177881
+revid: 179187
 source: https://deepwoken.fandom.com/wiki/Sear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -38,3 +38,9 @@ Additionally, your weapon attacks drain your opponent's water meter, with the dr
 -   Sear grants 1 stack of Cauterize per critical hit. This is exceptionally good on certain multihit criticals like [Trident Spear](Trident_Spear.md)'s, as they can max Sear's PEN bonus with one critical attack.
 -   Sear bypasses the 50% PEN cap.
 -   Cauterize's PEN bonus is applied to Mantras as well.
+
+## Trivia
+
+-   Prior to August 2nd, 2022, Sear would steal thirst on hit, similar to [Gluttony](Gluttony.md).
+
+Old Sear

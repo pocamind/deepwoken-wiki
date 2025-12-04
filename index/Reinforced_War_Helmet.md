@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 178545
+revid: 179218
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -32,7 +32,7 @@ Reinforced War Set
 
 The Reinforced War Helmet is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) [Equipment](Equipment.md) item under the "Head" category, and is a part of the Reinforced War Set. The Reinforced War is a green and yellow corinthian helmet, similar to Roman headgear.
 
-[Fatal Strike](Talents.md#fatal-strike) empowers your [Strength Mantra](Attunement-less.md) guardbreaks, dealing extra damage and applying a slowing affect. This can only proc if the Mantra has a [Wrath Gem](Wrath_Gem.md) equipped. The talent has a 10 second cooldown.
+If you have a [Wrath Gem](Wrath_Gem.md) equipped on your [Strength Mantras](Attunement-less.md#strength-mantras), [Fatal Strike](Talents.md#fatal-strike) empowers their guardbreaks, granting them a 20% damage buff and applying a 50% slow for 5.5 seconds. This has a 10 second cooldown.
 
 ## Set Talent
 

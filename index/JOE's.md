@@ -1,6 +1,6 @@
 ---
 title: "JOE's"
-revid: 179124
+revid: 179206
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments]

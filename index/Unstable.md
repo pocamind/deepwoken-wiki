@@ -1,6 +1,6 @@
 ---
 title: Unstable
-revid: 179129
+revid: 179208
 source: https://deepwoken.fandom.com/wiki/Unstable
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments]

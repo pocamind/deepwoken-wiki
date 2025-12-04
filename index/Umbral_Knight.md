@@ -1,6 +1,6 @@
 ---
 title: Umbral Knight
-revid: 177885
+revid: 179184
 source: https://deepwoken.fandom.com/wiki/Umbral_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -30,3 +30,9 @@ On weapon hit, Umbral Knight causes a red slash after a 0.25 second delay, deali
 ### Notes
 
 -   Umbral Knight can be blocked, parried, and dodged.
+
+## Trivia
+
+-   Prior to January 4th, 2022, Umbral Knight was known as "Curse of the Umbral Knight", and on proc a red, shadowy figure would appear behind the enemy and perform a slash.
+
+Old Umbral Knight

@@ -1,6 +1,6 @@
 ---
 title: Life Weave (enchantment)
-revid: 179131
+revid: 179198
 source: https://deepwoken.fandom.com/wiki/Life_Weave_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments]
@@ -10,7 +10,7 @@ notices:
 
 # Life Weave (enchantment)
 
-| Life Weave (enchantment) | |
+| Life Weave | |
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
@@ -21,7 +21,7 @@ notices:
 
 ## Description
 
-Life Weave, not to be confused with the Attunement, is an **unobtainable** with unknown effects. This enchantment is exclusive to the developer yayafino.
+Life Weave, not to be confused with the Attunement, is an **unobtainable** enchantment with unknown effects. This enchantment is exclusive to the developer yayafino.
 
 This enchantment changes adds vibrant multi-colored particle effects firing out of the weapon at a very fast pace.
 
