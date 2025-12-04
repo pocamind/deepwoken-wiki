@@ -1,6 +1,6 @@
 ---
 title: Curse of the Unbidden
-revid: 177960
+revid: 179245
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Unbidden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Attack Enchantments]

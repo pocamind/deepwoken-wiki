@@ -1,6 +1,6 @@
 ---
 title: Stormbreaker
-revid: 177886
+revid: 179273
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]

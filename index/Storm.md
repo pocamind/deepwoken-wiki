@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 177884
+revid: 179272
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -39,3 +39,7 @@ Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](St
     -   For example if you deal 100 damage with your weapon hit, then Storm will deal 16.5 damage. If your opponent has 50% physical resistance, your attack will deal 50 damage, meaning Storm will deal 8.25 damage. If your opponent also has 50% Thundercall resistance, then Storm's damage will be reduced further down to 4.125 damage.
     -   This also applies to general resistance sources. If your opponent has a general resistance, then your weapon damage will be reduced, and Storm will deal damage based on that reduced damage, before being reduced itself.
 -   Storm's effect is essentially a worse version of [Stormbreaker](Stormbreaker.md)'s base effect, as Stormbreaker's effect does not get double resisted.
+
+## Trivia
+
+-   The lightning strike caused from proccing this enchantment while it is raining grants [Thundercall](Thundercall.md) experience.

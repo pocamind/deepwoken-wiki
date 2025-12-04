@@ -1,6 +1,6 @@
 ---
 title: Astral
-revid: 177860
+revid: 179236
 source: https://deepwoken.fandom.com/wiki/Astral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -33,3 +33,7 @@ Additionally, upon parrying three times in quick succession or landing a critica
 
 -   Astral's damage buff bypasses both the soft and hard damage modifier caps.
 -   The [Celestial Boots](Celestial_Boots.md) increases Astral's damage buff from +20% M1 damage to +25%.
+
+## Trivia
+
+-   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.

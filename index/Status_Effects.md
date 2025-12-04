@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 178863
+revid: 179233
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,11 +28,13 @@ This effect happens once your blood bar is below 5%, causing your stomach and th
 
 ### Speed Boost
 
-Speed boosts are one of Deepwoken's core status effects, being responsible for a lot of Talent effects and being very important for the core combat loop, especially in PvP. Speed boosts are simply a movement speed multiplier, with the effectiveness and duration of the speed boost depending on the source. Speed boosts are distinctly different from mobility buffs, as the former allows you to proc certain Talents while the latter does not. Speed boosts do not have a visual indicator, and are applied from a multitude of sources such as: [parrying and dodging attacks](Combat_Mechanics.md), [Wind Gem](Wind_Gem.md), certain [Talents](Talents.md), some [Weapon](Weapons.md) criticals, other Status Effects, etc.
+Speed boosts are one of Deepwoken's core status effects, being responsible for a lot of Talent effects and being very important for the core combat loop, especially in PvP. Speed boosts are simply a movement speed increase, with the effectiveness and duration of the speed boost depending on the source. The way the movement speed increase from speed boosts are applied is not standardized. Some speed boost give you a flat increase to your studs per second, some increase your movement speed by a percentage, and some do both of these. There is little consistency to be found.
+
+Speed boosts are distinctly different from mobility buffs, as the former allows you to proc certain Talents while the latter does not. Speed boosts do not have a visual indicator, and are applied from a multitude of sources such as: [parrying and dodging attacks](Combat_Mechanics.md), [Wind Gem](Wind_Gem.md), certain [Talents](Talents.md), some [Weapon](Weapons.md) criticals, other Status Effects, etc.
 
 ### Mobility Buff
 
-Mobility buffs are very similar to speed boosts, being a movement speed multiplier with the effectiveness and duration depending on the source, though they are distinctly different from speed boosts, as they cannot proc speed boost-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#flame-within), [Lightweight](Talents.md#lightweight), other Status Effects, etc.
+Mobility buffs are very similar to speed boosts, being a movement speed increase, with the effectiveness and duration depending on the source, though they are distinctly different from speed boosts, as they cannot proc speed boost-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#flame-within), [Lightweight](Talents.md#lightweight), other Status Effects, etc.
 
 ### Ragdoll
 

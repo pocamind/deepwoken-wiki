@@ -1,6 +1,6 @@
 ---
 title: Ferocity
-revid: 178001
+revid: 179255
 source: https://deepwoken.fandom.com/wiki/Ferocity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]

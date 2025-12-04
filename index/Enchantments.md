@@ -1,9 +1,9 @@
 ---
 title: Enchantments
-revid: 179204
+revid: 179275
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
+categories: [Mechanics, Weapons, Equipment]
 ---
 
 # Enchantments
@@ -37,7 +37,7 @@ Enchanted items cannot be dropped on death.
 
 -   Equipping an enchanted item for the first time will Soulbound it to you. Soulbounded items cannot be dropped. However, they can still be unequipped, stored in your bank or sold to an antiquarian.
 -   Enchanted items can be passed down at the [Hippocampal Pool](Hippocampal_Pool.md) at a cost of 40 [Echoes](Echoes.md) per item.
--   Items cannot be "un-enchanted", however, another Enchant Stone or Grease can be used on it to replace the enchantment.
+-   Items cannot be "un-enchanted", however, another [Enchant Stone](Enchant_Stone.md), [Enchant Grease](Enchant_Grease.md), or [Laplace](Laplace.md) visit can be used on it to replace the enchantment.
 
 ## Variants
 
@@ -45,8 +45,6 @@ There are two variants that enchantments come in:
 
 -   **Blessing -** They have an effect with little to no downsides.
 -   **Curse -** They have an effect along with a downside with the severity depending on the upside.
-
-_For a showcase of all enchants in action, view [this video.](https://youtu.be/Ydl4gd2lBYQ)_
 
 ## List of Enchantments
 
@@ -118,40 +116,10 @@ Unobtainable/Removed
         Yayafino confirming the "Curse of The No Life King" is a reference from grimgar
         
        .
--   Curse of the No Life King has the most individual changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.
 -   Enchanted equipment used to not be able to be smelted by Jarvis. When attempted, he would respond with: "Huh? What're you doing bringing something like that to me, go take that wicked thing somewhere else."
--   Stormbreaker used to be able to movestack mantras and parry during its critical.
--   Umbral Knight lost its curse in a shadow update on **December 26/27, 2021**.
-    -   Before that, it used to be: "On proc will summon the Umbral Knight behind your target and will copy your M1s." It was mostly untested, but common belief (said by Infernasu) is that if you didn't grip at least one person per day, you would be absorbed into the weapon, this was not true though and has been confirmed by Yayafino to be a big lie._
-        
-        Yayafino confirming the old Umbral Knight curse was never real.
-        
-        
-        
-        
-        
-        _
-    -   When asked if he would consider adding it back, developer Arch\_Mage dismissed the idea as it would cause too much lag,[\[1\]](#cite-note-1) and still holds that sentiment to this day.
 -   Having a shield or parrying dagger equipped along with an enchant will transfer the visual effect of said enchant to the shield/dagger. Do note that it is **purely** cosmetic and does not affect the side weapon's capabilities.
     -   Equipping an enchanted item as a sidearm will have its enchantment be overridden by your main weapon, including the lack of an enchantment itself.
 -   Providence of Storms, an enchant widely believed to be a removed enchant that combined Providence's Thorns and Obfuscation, was proven to be fake by Developer yayafino on January 1, 2023 on [DaboSenpai's stream](https://clips.twitch.tv/ColdHardHawkSaltBae-Wlqrq5amEJHlJIir).
--   Ferocity has negative acceleration on its particles meaning they will follow your movement at 5x speed or higher.
--   Heroism (Formally known as "Blessing of the Hero") Enchant used to do 3x your scaled weapon damage as seen from [infernasus video](https://youtu.be/SOdkNcZATtA?si=ERCaXcVMek6acKTk)
--   Nemesis causes enemies to react to its critical even without a hitbox.
--   Obfuscation is incredibly useful when fighting block-heavy mobs like [Immortal Guardians](Immortal_Guardian.md) or [Enforcers](Enforcer.md).
--   Umbral Knight used to hit yourself when procced on an enemy with hyperarmor, this no longer occurs.
-    -   It was initially believed to be an intentional feature, but not even Arch\_Mage was aware it happened and eventually it was removed.
--   Astral previously required having met a [Wishmaker](Developer_Specs.md#iltria-leafre-spellhardt-retired) to obtain the enchant.
--   If you plan to use Deferred for its damage increase, do note that unless your damage is above or equal to 83, 61, or 50 for heavy medium and light respectfully, it's better to use Detonation.
--   Most, if not all curses emit sound when equipped, with some being louder than others
--   Curse of the Unbidden has weird PvE interactions. Humanoid mob attacks can be countered, while non-humanoid ones can't be. More testing will be done (As of 12/2/24) - Proof : [https://youtu.be/MTHxAKa5cD0](https://youtu.be/MTHxAKa5cD0)
+-   Most, if not all Curse Enchantments emit sound when equipped, with some being louder than others
 -   In Verse 1, it was possible to obtain a fourth enchant on the neck, face, or ring slot.
--   Blazing can NOT be used to ignite campfires that are unlit by m1's.
--   The thunder strike caused by using Storm during the rain trains your [Thundercall](Thundercall.md) by a seemingly noticeable portion.
 -   If you are to somehow have more than three equipment enchants equipped via unobtainable items, one of those enchants will be automatically disabled.
-
-## References
-
-1.  [↑](#cite-ref-1)
-
-File:StoneArchMage.png

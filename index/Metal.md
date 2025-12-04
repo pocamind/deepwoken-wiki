@@ -1,6 +1,6 @@
 ---
 title: Metal
-revid: 177872
+revid: 179260
 source: https://deepwoken.fandom.com/wiki/Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

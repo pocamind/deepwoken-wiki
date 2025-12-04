@@ -1,6 +1,6 @@
 ---
 title: Allure
-revid: 177996
+revid: 179235
 source: https://deepwoken.fandom.com/wiki/Allure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]

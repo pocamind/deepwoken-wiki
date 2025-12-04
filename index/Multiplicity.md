@@ -1,6 +1,6 @@
 ---
 title: Multiplicity
-revid: 178002
+revid: 179261
 source: https://deepwoken.fandom.com/wiki/Multiplicity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]

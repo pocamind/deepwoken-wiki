@@ -1,6 +1,6 @@
 ---
 title: Obfuscation
-revid: 177876
+revid: 179264
 source: https://deepwoken.fandom.com/wiki/Obfuscation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

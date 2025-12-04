@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 177945
+revid: 179244
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -49,3 +49,7 @@ The following effects have reduced effectiveness or are entirely disabled while 
 -   This enchantment does not work in the [Chime of Conflict](Chime_of_Conflict.md).
 -   If you unequip your weapon, the life that this enchantment stole will come back, assuming it's the reason why your healthbar was stained in the first place.
 -   Blood **drain** effects are entirely unaffected by Curse of the No Life King's double blood damage curse. This means this curse does not affect the blood loss [Resonance Downside](Resonance.md#corrupted-resonances) nor casting or being hit by [Bloodrend](Bloodrend.md) Mantras.
+
+## Trivia
+
+-   This enchantment has the most individual balance changes of any thing in Deepwoken, and is made fun of within the community as being the most nerfed thing in the game.

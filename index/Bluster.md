@@ -1,6 +1,6 @@
 ---
 title: Bluster
-revid: 177892
+revid: 179238
 source: https://deepwoken.fandom.com/wiki/Bluster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

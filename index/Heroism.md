@@ -1,6 +1,6 @@
 ---
 title: Heroism
-revid: 177871
+revid: 179258
 source: https://deepwoken.fandom.com/wiki/Heroism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -37,3 +37,7 @@ While your health is within these ranges (≤25%, ≥75%), being under certain n
     -   In PvE, Heroism grants a 1% damage buff for being at 75% or 25% health, and gains +1% for every 5% health you are towards your respective goal. This means you only gain a +5% damage buff when at 100% or 0% health in PvE.
 -   Heroism's status effect transfer works on the following [Status Effects](Status_Effects.md): [Burn](Status_Effects.md#burn), [Chill](Status_Effects.md#chill), [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Shock](Status_Effects.md#shock), [Fear](Status_Effects.md#fear), [Anti-Heal](Status_Effects.md#anti-heal), and [Taunt](Attunement-less.md#taunt).
 -   The status effect transfer applies with you having the ownership of the status effect. This means if you were to transfer [Burn](Status_Effects.md#burn) for example, it'd scale on **your** [Flamecharm](Flamecharm.md) investment and it'd be affected by **your** Flamecharm Talents, not your opponents.
+
+## Trivia
+
+-   Heroism was once known as the "Blessing of the Hero" Enchant, and it used to do 3x your scaled weapon damage on proc as seen from [infernasus video](https://youtu.be/SOdkNcZATtA?si=ERCaXcVMek6acKTk).

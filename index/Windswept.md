@@ -1,6 +1,6 @@
 ---
 title: Windswept
-revid: 177899
+revid: 179281
 source: https://deepwoken.fandom.com/wiki/Windswept
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]

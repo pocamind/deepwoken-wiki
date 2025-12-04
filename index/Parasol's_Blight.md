@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 177877
+revid: 179265
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

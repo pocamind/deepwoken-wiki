@@ -1,6 +1,6 @@
 ---
 title: Chilling
-revid: 177904
+revid: 179240
 source: https://deepwoken.fandom.com/wiki/Chilling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]

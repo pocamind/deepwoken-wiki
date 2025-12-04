@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 174772
+revid: 179306
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -561,7 +561,7 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 
 Cyan
 
- | File:Cyan telegraph.png | Most attacks with this indicator deal high posture damage.
+ |  | Most attacks with this indicator deal high posture damage.
 
   
 Attacks with this indicator cannot be dodged. They must be parried, or with high enough posture, blocked.

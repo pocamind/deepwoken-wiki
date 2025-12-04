@@ -1,6 +1,6 @@
 ---
 title: Solar
-revid: 177882
+revid: 179269
 source: https://deepwoken.fandom.com/wiki/Solar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

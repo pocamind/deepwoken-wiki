@@ -1,6 +1,6 @@
 ---
 title: Umbral Knight
-revid: 179184
+revid: 179277
 source: https://deepwoken.fandom.com/wiki/Umbral_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

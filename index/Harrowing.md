@@ -1,6 +1,6 @@
 ---
 title: Harrowing
-revid: 177906
+revid: 179259
 source: https://deepwoken.fandom.com/wiki/Harrowing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]

@@ -1,6 +1,6 @@
 ---
 title: Tears of the Edenkite
-revid: 177887
+revid: 179276
 source: https://deepwoken.fandom.com/wiki/Tears_of_the_Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

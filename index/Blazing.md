@@ -1,6 +1,6 @@
 ---
 title: Blazing
-revid: 177861
+revid: 179237
 source: https://deepwoken.fandom.com/wiki/Blazing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

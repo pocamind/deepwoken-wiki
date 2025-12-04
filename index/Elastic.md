@@ -1,6 +1,6 @@
 ---
 title: Elastic
-revid: 177907
+revid: 179253
 source: https://deepwoken.fandom.com/wiki/Elastic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]

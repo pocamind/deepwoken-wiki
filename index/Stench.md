@@ -1,6 +1,6 @@
 ---
 title: Stench
-revid: 178009
+revid: 179270
 source: https://deepwoken.fandom.com/wiki/Stench
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]

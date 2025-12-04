@@ -1,6 +1,6 @@
 ---
 title: Nemesis
-revid: 177873
+revid: 179262
 source: https://deepwoken.fandom.com/wiki/Nemesis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]

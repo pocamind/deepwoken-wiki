@@ -1,6 +1,6 @@
 ---
 title: Detonation
-revid: 177865
+revid: 179250
 source: https://deepwoken.fandom.com/wiki/Detonation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

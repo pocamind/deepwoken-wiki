@@ -1,6 +1,6 @@
 ---
 title: Curse of the Bloodthirsty
-revid: 177941
+revid: 179243
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Bloodthirsty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
