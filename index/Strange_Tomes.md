@@ -1,14 +1,20 @@
 ---
 title: Strange Tomes
-revid: 151940
+revid: 179320
 source: https://deepwoken.fandom.com/wiki/Strange_Tomes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Quest Item]
 ---
 
 # Strange Tomes
 
-Template:Food Template V1
+| Strange Tomes | |
+|---|---|
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | An odd book with a nigh impenetrable bolt; perhaps what's in here is best left unread. |
+| obtainment | Outpost Antumbra, The Understrand, via fighting the Ministry Agent, Chaser, Scholar of the Crimson Contract, Sold in Traan Zakshun's black market for 1 |
 
 ## Description
 

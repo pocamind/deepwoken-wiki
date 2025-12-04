@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 178938
+revid: 179331
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -105,4 +105,4 @@ Note that leaving through the main menu or closing roblox while you are inside t
 ## Trivia
 
 -   An old preferred method of entering the Cathedral was climbing [Celtor City's](The_City_of_the_Drowned.md) walls, either through using a [Glider](Gliders.md) from a high vantage point, or by stacking [Barrels](Barrel.md) and climbing the wall that way, and then dropping down to the entrance.
--   The west entrance of the Cathedral, where the elevator is, used to cost [Notes](Notes.md) as a toll for each use.
+-   The west entrance of the Cathedral, where the elevator is, used to cost 25 [Notes](Notes.md) as a toll for each use.

@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 175576
+revid: 179368
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -62,7 +62,7 @@ Potions have a greater effect when brewed by a character with high intelligence.
 
 Unlike the other effects, the duration of a potion is unaffected by any of these modifiers. A potion's duration is always the same for any given combination of ingredients.
 
-## Ingredients
+## Ingredient Effects
 
 There are 58 ingredients that can be added to a potion, though only 23 have a known effect. Most ingredients have one positive and one negative effect, though a small number of ingredients have one or three effects. The following table lists all known effects of all ingredients:
 

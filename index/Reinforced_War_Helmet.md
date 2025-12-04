@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Helmet
-revid: 179218
+revid: 179365
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Craftable, Equipment with Set Bonuses]
@@ -40,7 +40,7 @@ When wearing the full equipment set, you will gain the Set Talent.
 
 Set Talent: [Lasting Trauma](Talents.md#lasting-trauma) - Anytime you land a [Wrath Gem](Wrath_Gem.md), your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
 
-The [Fearful](Status_Effects.md#fearful) status effect lasts for 18 seconds.
+The [Fearful](Status_Effects.md#fearful) status effect lasts 19 seconds.
 
 ## Obtainment
 

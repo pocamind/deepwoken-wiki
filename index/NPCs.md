@@ -1,6 +1,6 @@
 ---
 title: NPCs
-revid: 178176
+revid: 179330
 source: https://deepwoken.fandom.com/wiki/NPCs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, OutdatedPages, NPCs]
@@ -55,7 +55,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 
  |
 | [Arthur](Arthur.md) | [Etrea](Etrea.md) | [The Garden Reservoir](The_Garden_Reservoir.md) | Gives quest to kill a [Megalodaunt](Megalodaunt.md) | Gives the Talents Critical Attack and Engage upon completes and talent hand for 'Bravery' quest. |
-| [Artisan](Artisan.md) | [Guilds](Guilds.md) | [Guild Bases](Guild_Bases.md) | Behaves similarly to [Jarvis](Jarvis.md), instead taking only. | Has an accent, which makes him say "z" instead of "th". |
+| [Artisan](Artisan.md) | [Guilds](Guilds.md) | [Guild Bases](Guild_Bases.md) | Behaves similarly to [Jarvis](Jarvis.md), instead taking only 800. | Has an accent, which makes him say "z" instead of "th". |
 | [Asius](Asius.md) | Unaligned | [Summer Isle](Summer_Isle.md) | Part of the Armor Piercing Quest given by [Trig](Trig.md). | Player can decide to help him out, will be attacked by Trig instead. |
 | [Aska](Aska.md) | Unaligned | [Firfire](Firfire.md) | Drops the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) upon defeat. | Obtaining it requires the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) and at least 80 [Flamecharm](Flamecharm.md). |
 | [Ata](Ata.md) | Unaligned | [Meteor Isle](Meteor_Isle.md) | Sell [Sparks](Mantra_Modifiers.md). | Apparently the player knows her from some where. |
@@ -90,7 +90,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Commander Rayner](Commander_Rayner.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Requested the player's help. Completion of his quest required the player to find the basement on the [Isle of Crows](Cut_Content.md). | Cut out |
 | [Con](%2543on.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md) | Sells different crafting materials. | Con's Pawn! |
 | [Das](Das.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple of the Blade](Temple_of_the_Blade.md) | Lets you spar with the [Blade Instructor](Blade_Instructor.md) |  |
-| [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md), [The Hidden Village](The_Hidden_Village.md), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [The Lordsgrove](The_Lordsgrove.md), [Meteor Isle](Meteor_Isle.md), [Saramaed Summit](Saramaed_Summit.md), [Widow's Hollow](<Widow's_Hollow.md>), [Songseeker Wilds](Songseeker_Wilds.md), [Ancient Rotlands](Ancient_Rotlands.md), [Starfield Veldt](Starfield_Veldt.md), [Trial of One](Trial_of_One.md). | Affect your stats, talents or whisper draws for [Robux](https://roblox.fandom.com/wiki/Robux). |  |
+| [Deep Shrines](Deep_Shrines.md) | Unaligned | [Temple of Hearts](Temple_of_Hearts.md), [The Hidden Village](The_Hidden_Village.md), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [The Lordsgrove](The_Lordsgrove.md), [Meteor Isle](Meteor_Isle.md), [Saramaed Summit](Saramaed_Summit.md), [Widow's Hollow](<Widow's_Hollow.md>), [Songseeker Wilds](Songseeker_Wilds.md), [Ancient Rotlands](Ancient_Rotlands.md), [Starfield Veldt](Starfield_Veldt.md), [Trial of One](Trial_of_One.md). | Affect your stats, talents or whisper draws for [Knowledge](Knowledge.md). |  |
 | [Deepdelver Gamma](Deepdelver_Gamma.md) | [The Ignition Union](The_Ignition_Union.md) | [First Layer](First_Layer.md), [The Chariot's Spire](<The_Chariot's_Spire.md>) | Gives explanation on who Ignition Deepdelvers are. |  |
 | [Deepdelver Myra](Deepdelver_Myra.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | None | Talks about how she is scared to go on an expedition to Layer 2. |
 | [Deepdelver Tau](Deepdelver_Tau.md) | [The Ignition Union](The_Ignition_Union.md) | [Miner's Landing](<Miner's_Landing.md>) | Lets you enter [Saramaed Hollow](Saramaed_Hollow.md). |  |
@@ -99,7 +99,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 | [Deran](Deran.md) | [The Ignition Union](The_Ignition_Union.md) | [The Chariot's Spire](<The_Chariot's_Spire.md>) | Lets the player travel to Layer 2 if they ar an [Ignition Delver](Ignition_Delver.md) and have escaped from Layer 2 using the [Ignition Deepdrill](Second_Layer/The_Ethironal_Shrine.md#the-deepdrill). | Picking this option teleports the player straight to [The Frontier Furnace](The_Frontier_Furnace.md) with the generator already turned on. |
 | [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md) | Unaligned, Destroyman III, Bon Viviant Adventurer does not concern himself with allies. | [The Starswept Valley](The_Starswept_Valley.md) | There to remind all of us of the true power of [Destroyman III](Destroyman_III.md). |  |
 | [Diluvian Mechanism (NPC)](<Diluvian_Mechanism_(NPC).md>) | Unaligned | [The Diluvian Mechanism](The_Diluvian_Mechanism.md) | Starts [The Diluvian Mechanism](The_Diluvian_Mechanism.md) |  |
-| [Diver Quartermaster](Diver_Quartermaster.md) | [The Divers](The_Divers.md) | [The Aratel Sea](The_Aratel_Sea.md) | A random encounter. Spawns a crate at [Fort Merit](Fort_Merit.md) for the player to take it to him. Completing his quest rewards the player with and 1 [Armorer's Needle](<Armorer's_Needle.md>) / 1 [Smith's Alloy](<Smith's_Alloy.md>). |  |
+| [Diver Quartermaster](Diver_Quartermaster.md) | [The Divers](The_Divers.md) | [The Aratel Sea](The_Aratel_Sea.md) | A random encounter. Spawns a crate at [Fort Merit](Fort_Merit.md) for the player to take it to him. Completing his quest rewards the player with 1 and 1 [Armorer's Needle](<Armorer's_Needle.md>) / 1 [Smith's Alloy](<Smith's_Alloy.md>). |  |
 | [Dockson](Dockson.md) | [The Summer Company](The_Summer_Company.md) | [Summer Isle](Summer_Isle.md), behind a counter in the castle | Gun vendor, allows for duels in The Furnace | Passing a Charisma/Intelligence check is required to enter the queue for The Furnace |
 | [Drefa](Drefa.md) | [Etrea](Etrea.md) | [Isle of Vigils](Isle_of_Vigils.md), [Temple Approach](Temple_Approach.md) | Gives lumber axe, lumberjack quest, Treefelling Blow quest | The quest is repeatable |
 | [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) | [The Central Authority](The_Central_Authority.md) | [Fort Merit](Fort_Merit.md) | Gives the player explanation on how to progress the [Authority Ensign](Authority_Ensign.md) [origin](Origins.md) |  |
@@ -153,7 +153,7 @@ Grants [Union Hook](Talents.md#ignition-union) and the [Delver Boots](Delver_Boo
 -   Canonical winner of the Grand Griddy.
 
  |
-| [Innkeep](Innkeep.md) | [Etrea](Etrea.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Hive](The_Hive.md), [The Children of Navae](The_Children_of_Navae.md) | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Miner's Landing](<Miner's_Landing.md>), [Summer Isle](Summer_Isle.md), [Fort Merit](Fort_Merit.md), [Greathive Aratel](Greathive_Aratel.md), [Meteor Isle](Meteor_Isle.md) | Lets the player set their spawn point at the inn for. | 
+| [Innkeep](Innkeep.md) | [Etrea](Etrea.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Hive](The_Hive.md), [The Children of Navae](The_Children_of_Navae.md) | [Etris](Etris.md), [Isle of Vigils](Isle_of_Vigils.md), [Miner's Landing](<Miner's_Landing.md>), [Summer Isle](Summer_Isle.md), [Fort Merit](Fort_Merit.md), [Greathive Aratel](Greathive_Aratel.md), [Meteor Isle](Meteor_Isle.md) | Lets the player set their spawn point at the inn for 5. | 
 
 -   The player can't set their spawn point at the inn of an enemy faction.
 -   The [Meteor Isle](Meteor_Isle.md) [Innkeep](Innkeep.md) won't let the player set their spawn point at their inn, as they're not accepting any new residents at the time.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 175944
+revid: 179319
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -103,7 +103,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
     -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
     -   Can be used with Bloodless to heal more health.
     -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.
-    -   Leech ticks can proc [Hard Read](Talents.md#tactician), [Anxious Guard](Talents.md#marauder) and most blocking related talents.
+    -   Leech ticks can proc [Hard Read](Talents.md#tactician), and most blocking related talents.
     -   Obtained upon killing 4 players with [Oaths](Oaths.md).
 
 ## Trivia

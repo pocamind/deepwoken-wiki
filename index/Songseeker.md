@@ -1,6 +1,6 @@
 ---
 title: Songseeker
-revid: 172439
+revid: 179361
 source: https://deepwoken.fandom.com/wiki/Songseeker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Songseekers, Factions, Religious groups]
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-Songseekers are a religious [group](Factions_&_Groups.md), bound by the goal of wielding [The Song](Glossary.md#the-song) like in the [Old World](Timeline.md). They believe in reincarnation by "returning to The Song", although, it's actually unknown, whether or not that is true.
+Songseekers are a religious [group](Factions_&_Groups.md), bound by the goal of wielding [The Song](Glossary.md#the-song) like in the [Old World](Timeline.md). They believe in reincarnation by "returning to The Song", although, it's actually unknown whether or not that is true.
 
 They seem to have a [mistress](<Tz'araan.md>), which suggests that there's some kind of a hierarchy, but it's yet unknown what her powers and beliefs are.
 

@@ -1,6 +1,6 @@
 ---
 title: Food
-revid: 176926
+revid: 179352
 source: https://deepwoken.fandom.com/wiki/Food
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Mechanics]
@@ -62,9 +62,9 @@ Some foods fill a portion of your Hunger bar with a different color, known as Re
     -   [Wayward Gem](Wayward_Gem.md): Cooldown is decreased from 8s to 3s.
     -   [Wind Gem](Wind_Gem.md): Speed boost duration increased from 10s to 15s.
     -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
--   _"A heavy meat that hardens your skin!"_ The Scale buff grants a pen reduction all around
+-   _"A heavy meat that hardens your skin!"_ The Scale buff grants 15% PEN reduction.
 -   _"An odd meal that soothes your throat!"_ The Throat buff increases your [Taunt](Attunement-less.md#taunt) duration by 8 seconds, your [Command: Fight](Vow_of_Mastery.md) duration by 7.5 seconds, and grants [Sing](Attunement-less.md#sing) a noticeable range increase.
--   _"An invigorating meal that strengthens your muscles!_" The Strength buff grants a posture buff
+-   _"An invigorating meal that strengthens your muscles!_" The Strength buff grants +10% posture damage.
 
 Food and their respective buffs can have their durations buffed by the _[Tavernkeep](Talents.md#tavernkeep)_ category of Talents.
 

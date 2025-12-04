@@ -1,9 +1,9 @@
 ---
 title: The Moonlit Faith
-revid: 179041
+revid: 179340
 source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, Religious groups, The Moonlit Faith]
+categories: [Religious groups, The Moonlit Faith]
 ---
 
 # The Moonlit Faith
@@ -30,7 +30,7 @@ The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a le
 
 [Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md): Council, which resides in the city of Echelon. The highest form of government within the Lullaby Isles, consisting of a handful of the philosophical, theological, and academic members of the Lullaby Isles. Their purpose is to put [The Lady Confessor](The_Lady_Confessor.md)'s decrees into action and ensure the operations within the Echelon and wider archipelago run smoothly.[\[4\]](#cite-note-missives-4)
 
-[Mystics](Mystic.md): Affect the player's [Whisper Draws](Whisper_Draw.md) and [Talent](Talents.md) Hands for.
+[Mystics](Mystic.md): Affect the player's [Whisper Draws](Whisper_Draw.md) and [Talent](Talents.md) Hands for 20.
 
 ## Trivia
 

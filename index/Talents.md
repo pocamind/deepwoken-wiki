@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179220
+revid: 179363
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4513,8 +4513,8 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Set: [Bluestone Pauldrons](Bluestone_Pauldrons.md), [Bluestone Boots](Bluestone_Boots.md)
 
 -   Lasting Trauma: Reinforced War Set - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
-    -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 18 seconds.
-    -   Wrath gems have a 10 second cooldown, making this Talent only have a 1 second downtime.
+    -   This applies the [Fearful](Status_Effects.md#fearful) status effect for 19 seconds.
+    -   Wrath gems have a 10 second cooldown, meaning you can potentially disable your opponent's ability to use their critical indefinitely.
     -   Set: [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), [Reinforced War Boots](Reinforced_War_Boots.md)
 
 -   Offensive Recovery: Ascended Outlaw Set - If all your mantras have [Might Gems](Might_Gem.md) equipped, lose posture any time you hit opponents block with a mantra.

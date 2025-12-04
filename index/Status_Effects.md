@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 179233
+revid: 179369
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -155,9 +155,9 @@ Eating certain [food](Food.md) items can provide the user with useful buffs. The
     -   [Wayward Gem](Wayward_Gem.md): Cooldown is decreased from 8s to 3s.
     -   [Wind Gem](Wind_Gem.md): [Speed boost](#speed-boost) duration increased from 10s to 15s.
     -   [Wrath Gem](Wrath_Gem.md): Critical damage buff per-combat tag increased from 7.5% to 15%.
--   Scale: Effect currently unknown; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).
+-   Scale: Reduces incoming Penetration by 15%; _"A heavy meat that hardens your skin!"_ Applied by consuming the [Heavy Steak](Heavy_Steak.md).
 -   Throat: Increases your [Taunt](Attunement-less.md#taunt) (Mantra)'s duration by 8 seconds, increases your [Sing's](Attunement-less.md#sing) range, and increases your [Vow Command: Fight](#fight) duration by 7.5 seconds; _"An odd meal that soothes your throat!"_ Applied by consuming the [Dread Filet](Dread_Filet.md).
--   Strength: Effect currently unknown; _"An invigorating meal that strengthens your muscles!"_ Applied by consuming the [Primal Cutlet](Primal_Cutlet.md).
+-   Strength: Increases posture damage by 10%; _"An invigorating meal that strengthens your muscles!"_ Applied by consuming the [Primal Cutlet](Primal_Cutlet.md).
 
 ### Potions
 
@@ -473,7 +473,7 @@ Applied from the [Specialist Plate](Specialist_Plate.md) Equipment Talent, whene
 
 ### Fearful
 
-Applied through the Reinforced War Set's Talent _Lasting Trauma_; be unable to use your weapon critical for **18 seconds** after being hit by a [Strength](Attunement-less.md#strength) Mantra that has a [Wrath Gem](Wrath_Gem.md) equipped. Note: you need to be wearing the **full** Reinforced War set for this to proc, this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) all need to be equipped. Indicated by pink shard effects rapidly escaping your character.
+Applied through the Reinforced War Set's Talent [Lasting Trauma](Talents.md#lasting-trauma), this status effect disables the affected player's ability to use their weapon critical for **19 seconds**. This effect is procced by applying the [Wrath](#wrath) status effect while wearing the **full** Reinforced War set; this means the [Helmet](Reinforced_War_Helmet.md), the [Plate](Reinforced_War_Plate.md), and the [Boots](Reinforced_War_Boots.md) need to be equipped. Indicated by pink shard effects rapidly escaping your character.
 
 ### Etherguard
 

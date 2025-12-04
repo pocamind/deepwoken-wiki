@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 178216
+revid: 179373
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -167,3 +167,4 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
     -   [Salve, in a Latin context](https://en.wiktionary.org/wiki/salve#Latin), is used for greetings and farewells.
         -   Salvete is the plural form of this word, which is mostly (and incorrectly) used by Caitus.
     -   [Teneō](https://en.wiktionary.org/wiki/teneo#Latin) has various meanings, but in this context, may be used for "understand".
+-   You don't need to speak to Caitus before defeating Titus in order to get Imperium Kata.

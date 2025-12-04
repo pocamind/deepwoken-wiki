@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 175044
+revid: 179371
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -123,8 +123,8 @@ Note most Oath Mantras do not have scaling, making the formula as simple as Base
 Large and threatening fire-based spells. Excels in crowd control and area denial as many spells have large range.
 
 -   Very good at close range
--   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any Mantra for the removal of burn.
--   Can be further upgraded with Azure Flame for slightly increased burn damage/empowered Eruptions.
+-   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any Mantra for the removal of [burn](https://deepwoken.fandom.com/wiki/Status_Effects#Burn).
+-   Can be further upgraded with the Azure Flame talent for slightly increased burn damage/empowered Eruptions.
 -   Decent mid-range presence
 -   Good pressure
 -   Great at dealing LOTS of damage.
@@ -136,10 +136,10 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 
 -   Lightning has a wide variety of useful spells for PvE and exploring the world.
 -   Typically used mid/long range.
--   Surge path can be obtained at 40 Thundercall. Adding stacks of surge to an enemy which deal somewhat heavy damage with the removal of its stun.
+-   Surge path can be obtained at 40 Thundercall. Adding stacks of surge to an enemy that can [overload](https://deepwoken.fandom.com/wiki/Status_Effects#Overloaded) enemies with the removal of its [stun](https://deepwoken.fandom.com/wiki/Status_Effects#Shock).
 -   Great pressure.
 -   A lot of fight control and escape Mantras.
--   Most Thundercall Mantras work with a Blast Spark.
+-   Most Thundercall Mantras work with [Sparks](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Specific_effects_of_Sparks).
 -   Highest Base Damage, Lowest Scaling.
 
 ### [Frostdraw Mantras](Frostdraw.md)
@@ -147,11 +147,11 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat.
 
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
--   Glass Path: Crystallization can be unlocked at 40 Frostdraw, dealing extra damage with the removal of chill. Comes with a whole new variety of Mantras.
+-   Glass Path: Crystallization can be unlocked at 40 Frostdraw, Adding [crystals](https://deepwoken.fandom.com/wiki/Status_Effects#Crystal) to an enemy with the removal of [chill](https://deepwoken.fandom.com/wiki/Status_Effects#Chill). Unlocks the use of the mantras [Crystal Impale](https://deepwoken.fandom.com/wiki/Frostdraw#Crystal_Impale) and [Crystal Knee](https://deepwoken.fandom.com/wiki/Frostdraw#Crystal_Knee).
 -   Typically used close/mid-range.
--   Has a very good mobility Mantra "Ice Skate"
--   Works with most Spike Modifiers.
--   Has small cooldowns.
+-   Has a very good mobility Mantra "[Ice Skate](https://deepwoken.fandom.com/wiki/Frostdraw#Ice_Skate)"
+-   Works with most [Sparks](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Specific_effects_of_Sparks).
+-   Has short cooldowns.
 
 Also has a hybrid with Shadowcast called ''Permafrost Prison''.
 
@@ -160,11 +160,12 @@ Also has a hybrid with Shadowcast called ''Permafrost Prison''.
 Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions.
 
 -   It has a mix of close-range combo spells and long ranged options, along with multiple movement Talents for moving around the world.
--   Haunted Path: Specter can be unlocked at 40 Galebreathe, dealing extra damage and having more mobility at the cost of being unable to utilize suffocation, comes with the "Specter Bar".
+-   Haunted Path: Specter can be unlocked at 40 Galebreathe, dealing extra damage and having more mobility at the cost of being unable to utilize [suffocation](https://deepwoken.fandom.com/wiki/Status_Effects#Suffocate), comes with the "Specter Bar".
 -   Usually agreed on as the most "versatile" attunement.
 -   Focuses mainly on movement.
 -   Typically used in any range.
--   Applies suffocate, negating Mantras of the opponent. Procs when using Wind Gun, Gale Trap, or can proc on any mantra if you have the Talent "A World Without Song".
+-   Applies [Winded](https://deepwoken.fandom.com/wiki/Status_Effects#Winded), slowing the attack speed of your opponent.
+-   Applies [suffocate](https://deepwoken.fandom.com/wiki/Status_Effects#Suffocate), negating Mantras of the opponent. Procs when using [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreathe#Wind_Gun), [Galetrap](https://deepwoken.fandom.com/wiki/Galebreathe#Galetrap), or can proc on any mantra if you have the [Talent](Talents.md) "A World Without Song".
 
 ### [Shadowcast Mantras](Shadowcast.md)
 
@@ -173,7 +174,7 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Excels in keep the opponent locked down and under pressure.
 -   Has its niche in keeping the Ether bar up and making sure others can't use Ether.
 -   Goes well when paired with other elements.
--   Applies obscured, obscuring the vision of the opponent.
+-   Applies [obscured](https://deepwoken.fandom.com/wiki/Status_Effects#Obscured), If you have the "Sightless Still" talent, obscuring the vision of the opponent.
 -   Typically used mid-range.
 -   Has a hybrid path with [Flamecharm](Flamecharm.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Hybrid_Abilities.md#shadowcast).
 
@@ -182,8 +183,8 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 Ironsing provides the widest ranged Mantras in the game and the best damage output based on your opponent's mistakes and missteps.
 
 -   Offers Mantras that favor the user, benefits both short and long distance.
--   Gilded Path: Scrapsinger can be obtained at 40 Ironsing. Instead of metal rods pulling enemies towards you when pressing the X key, instead it increases the amount of armor damage opponents take.
--   Tunes in well with the Metal [enchantment](Enchantments.md), as the Metal [enchantment](Enchantments.md) gives you benefits depending on how much armor your opponent has.
+-   Gilded Path: Scrapsinger can be obtained at 40 Ironsing. It still allows the ability of [metal rods](https://deepwoken.fandom.com/wiki/Status_Effects#Metal_Rods) pulling enemies towards you when pressing the X key, however it adds talents that can remove [metal rods](https://deepwoken.fandom.com/wiki/Status_Effects#Metal_Rods) in exchange for different buffs/abilities.
+-   Tunes in well with the [Metal enchantment](Metal.md), as the [Metal enchantment](Metal.md) gives you benefits depending on how much armor your opponent has.
 -   Applies metal rods, which can be used in different ways by the user who applied it, enabling different strategies and forms of combat.
 
 ### [Bloodrend Mantras](Bloodrend.md)
@@ -191,9 +192,9 @@ Ironsing provides the widest ranged Mantras in the game and the best damage outp
 Harvest the blood of yourself and your enemies to hinder them and empower your mantras and abilities.
 
 -   Offers a wide variety of mantras that excel in many situations.
--   Can weaken your enemies preventing them from using their abilities at full effectiveness.
+-   Can weaken your enemies with [blood poison](https://deepwoken.fandom.com/wiki/Status_Effects#Blood_Poisoning) preventing them from using their abilities at full effectiveness.
 -   Has many ranged options as well as combo tools.
--   Can drain your opponents blood causing them to die before their health depletes.
+-   Can drain your opponents [blood](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Survival_Basics) causing them to die before their health depletes.
 
 ### [Hybrid Mantras](Hybrid_Abilities.md)
 
@@ -201,17 +202,17 @@ Hybrid mantras are obtained upon reaching the required level in multiple attunem
 
 -   Can provide powerful synergies between attunements allowing use of certain Talents and paths in unique ways.
 -   Versatility due to their ability to inherit the effects of two attunement paths such as Surge and Wraith Path.
--   Typically requires high investment into your attunement attributes.
+-   Typically requires high investment into your [attunement](Attunements.md) attributes.
 
 ### [Physical/Attunement-less Mantras](Attunement-less.md)
 
-There are Mantras that are based off of Core Attributes, rather than your Attunement. This includes Strength, Fortitude, Intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
+There are Mantras that are based off of Core Attributes, rather than your [Attunement](Attunements.md). This includes Strength, Fortitude, Intelligence, Agility, Willpower, Charisma, and Weapon Mastery.
 
 A Mantra's type generally corresponds to its respective stat. Weapon Mantras and Strength Mantras tend to have more offensive capabilities, while Charisma and Fortitude are more defensive and supportive. Intelligence, Agility, and Willpower Mantras are more or less split between the two roles.
 
 ### [Monster Mantras](Monster_Mantras.md)
 
-Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in Floor 2 of Layer 2. After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the Mantra and what is the Mantra is based off of.
+Mantras you get by turning in monster parts to a NPC in Castle Light. To get the NPC to spawn you talk to "Strange Diver" in [New Kyrsa](https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa) After that the NPC will spawn in the library in Castle Light. The monster parts are fairly rare. These are the monster parts, their respective monster, the name of the Mantra and what is the Mantra is based off of.
 
 **MONSTER MANTRAS CANNOT BE TRADED AT THE SHRINE OF TEMPTATION**
 
