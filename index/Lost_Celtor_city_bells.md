@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor city bells
-revid: 179155
+revid: 179179
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor_city_bells
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, The Depths]
@@ -19,7 +19,7 @@ At the moment, there are two bells located in the [District of Commerce](Distric
 ## Trivia
 
 -   The bells make a high-pitched noise which gets louder while approaching one of the bells, making it easier to find them.
--   Earlier there were four of the city bells found in different districts. Later they were removed/replaced to their current positions, however.
+-   Earlier there used to be four of the city bells found in different districts. Later they were removed/replaced to their current positions, however.
 -   Ringing one or both of the city bells can give a little [Lost Celtor reputation](Lost_Celtor.md#reputation).
 -   The color of the bells is golden-yellowish.
 -   A city bell can NOT be rung if:

@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 179156
+revid: 179163
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -24,7 +24,7 @@ Ciea is a female Vesperian that tells the player to make potions with specific e
 
 -   A potion that brings forth a surge of speed _**(Pomars or Alestrian Coral)**_
 -   A potion that causes a person to lose sanity _**(Urchins, Chum, Scallops or Seaweed)**_
--   A potion that restores some life force _**(Redds)**_
+-   A potion that restores some life force _**(Redds or Glumfigs)**_
 -   A potion that harms its victims _**(Browncaps, Bluecaps or Pomars)**_
 -   A potion to regenerate ether _**(Dentifilo, Bluecaps)**_
 
@@ -34,7 +34,7 @@ Her quest is needed to get the [Saltchemist](Oath%253A_Saltchemist.md) Oath.
 
 You can use diluted potions (potions with only 1 copy of an ingredient). This does not appear to have any effect on EXP or Talent yields.
 
-Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harvester](Talents.md#prospector) Talent.
+Every fulfilled request gives EXP. Fulfilling 3 requests gives you the [Harvester](Talents.md#harvester) Talent.
 
 ## Location
 
@@ -137,7 +137,3 @@ These colors in dialogue are for convenience. They do not appear in-game.
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
-If somehow you get unlucky enought to get the quest to make a potion that restores some life force in the winter without any redds on your inventory, you will be forced to either wait until the next season or trade with a player, because redds do not spawn in the winter

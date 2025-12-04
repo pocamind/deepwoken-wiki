@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 178869
+revid: 179175
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics, Pages that use a deprecated format of the math tags]
@@ -25474,7 +25474,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 ## Trivia
 
 -   You can pass down soulbound weapons for 40 [echoes](Echoes.md) each; however the weapon will be automatically soulbound to the next character.
--   Changing stances, contrary to popular belief, does NOT affect swing speed.
+-   Changing stances, contrary to popular belief, does NOT affect swing speed. This most likely stems from Curved blades of the wind changing swing speed when you change stances.
 -   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
 -   The weapon with the highest:
     -   Base Damage: [Metal Greatsword](Metal_Greatsword.md) (45)

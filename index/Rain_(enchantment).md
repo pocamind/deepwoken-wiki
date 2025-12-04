@@ -1,6 +1,6 @@
 ---
 title: Rain (enchantment)
-revid: 178003
+revid: 179174
 source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -25,13 +25,13 @@ This enchantment applies rain droplets to the equipment piece.
 
 ## Effect
 
-Upon taking damage, Rain (enchantment) has a chance to proc. On proc, a moderately-sized rain cloud is created above your head. This has a 45 second cooldown.
+Upon taking damage, Rain (enchantment) has around a 12.5% chance to proc. On proc, a moderately-sized rain cloud is created above your head, lasting 27.5 seconds. This has a 45 second cooldown (effectively 17.5s with uptime efficiency).
 
 The rain this enchantment creates functions identically to normal rain, reducing [Flamecharm](Flamecharm.md) damage by 10%, putting out burn and campfires, and increasing [Thundercall](Thundercall.md) damage by 5%.
 
 If you have the [**Chilling**](Chilling.md) Enchantment on your weapon, if it's [Winter](Seasons.md), or if you're in a location with a low climate like [Minityrsa](Minityrsa.md), create snow instead, increasing the damage of your [Frostdraw](Frostdraw.md).
 
-If you have the [**Stench**](Stench.md) on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Boons_and_Flaws.md#survivalist) Boon.
+If you have the [**Stench**](Stench.md) on another equipment piece, or if you are in [Upper Erisia](Upper_Erisia.md), create an acid rain cloud instead. This will damage yourself and all players in its AoE, however you will become immune to the damage it deals if you have the [Survivalist](Boons_and_Flaws.md#survivalist) Boon. Lasts 15 seconds instead of the standard 27.5 seconds.
 
 ### Notes
 

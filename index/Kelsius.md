@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 175953
+revid: 179160
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
@@ -130,7 +130,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
   <td colspan="2">Everything alright?</td>
 </tr>
 <tr>
-  <td>I... I used to server under them. Not anymore. That much I assure you. But... I would be more than happy to let you peruse the books here, Really, it's the least I can do.</td>
+  <td>I... I used to serve under them. Not anymore. That much I assure you. But... I would be more than happy to let you peruse the books here, Really, it's the least I can do.</td>
 </tr>
 <tr>
   <td colspan="2">So... The books?</td>
@@ -174,7 +174,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 </tr>
 <tr>
   <td></td>
-  <td>Our stated mission was to dismantle guerrilla elements in the the <a href="Glossary.md#the-central-luminant">Central Luminant</a>. Only, those <i>'guerrilla elements' </i>often turned out to be peaceful protests against the <a href="Glossary.md#the-central-authority">Central Authority</a>.</td>
+  <td>Our stated mission was to dismantle guerrilla elements in the <a href="Glossary.md#the-central-luminant">Central Luminant</a>. Only, those <i>'guerrilla elements' </i>often turned out to be peaceful protests against the <a href="Glossary.md#the-central-authority">Central Authority</a>.</td>
 </tr>
 <tr>
   <td></td>
