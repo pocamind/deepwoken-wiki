@@ -1,6 +1,6 @@
 ---
 title: Grim
-revid: 179257
+revid: 179413
 source: https://deepwoken.fandom.com/wiki/Grim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -19,7 +19,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Grim is a damage dealing enchantment that applies chill and Bottom Freeze to your opponent.
+Grim is a damage dealing enchantment that applies the status effect [Grim](Status_Effects.md#grim) to your opponent.
 
 This enchantment changes your weapon's color to black and covers it with a red mist.
 

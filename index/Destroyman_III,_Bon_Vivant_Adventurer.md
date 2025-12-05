@@ -1,6 +1,6 @@
 ---
 title: "Destroyman III, Bon Vivant Adventurer"
-revid: 179038
+revid: 179412
 source: https://deepwoken.fandom.com/wiki/Destroyman_III%2C_Bon_Vivant_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant]
@@ -37,7 +37,7 @@ Destroyman III, Bon Vivant Adventurer is located atop a spike high up in [The St
   <td>No...</td>
 </tr>
 <tr>
-  <td><i>*Then you are kindred spirits. Perhaps on day, together, you shall see the world, and with steadfast comrades like Him at your side, you shall take yourself what is earned. Go forth, friend. Grab <a href="Glossary.md#lumen">Lumen</a> by the short hairs! Take what you can - and give nothing back.*</i></td>
+  <td><i>*Then you are kindred spirits. Perhaps one day, together, you shall see the world, and with steadfast comrades like Him at your side, you shall take yourself what is earned. Go forth, friend. Grab <a href="Glossary.md#lumen">Lumen</a> by the short hairs! Take what you can - and give nothing back.*</i></td>
   <td><i>*Then you have much to learn stranger. Walk the world, and learn its ways.*</i></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 178511
+revid: 179409
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -109,7 +109,7 @@ Finally, it is also observed to be much more durable than a regular Nautilodaunt
 
 While the normal variant of this enemy has the health equivalent to a [Megalodaunt](Megalodaunt.md), making it the weakest of the endgame tier mobs in terms of stats, the Fury Nautilodaunt has an increased health pool by 800 points, making it a bit of a tougher encounter. It has an incredible amount of resistance to a variety of attack types, and it's also unique in the fact that it has a much smarter AI along with the ability to **Block**, **Parry**, and **Dodge**.
 
-While this mob can **not** be merely stat checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to [Mantras](Attunements.md), it can still be posture broken incredibly fast and easily with mantras such as [Tornado](Galebreathe.md) or [Caltrops](Ironsing.md). Take note that with the additional health of this variant comes the passive ability of applying the Electrifying status effect, making it harder to land a hit with the true-stun and removal of hyper-armor.
+While this mob can **not** be merely stat checked, most strategies that work on [The Enforcer](Enforcer.md) will also work on the Nautilodaunt, aside from the fact that he has much higher damage. Even with it's near-immunity to[Mantras](Mantras.md), it can still be posture broken incredibly fast and easily with mantras such as[Tornado](Galebreathe.md#tornado) or [Caltrops](Ironsing.md#caltrops). Take note that with the additional health of this variant comes the passive ability of applying the Electrifying status effect, making it harder to land a hit with the true-stun and removal of hyper-armor.
 
 Keep in mind standard humanoid boss PVE tactics such as stacking attacks, grouping up, and running to heal can still work against this mob, and due to it's incredibly low health at 1800 (which can reach numbers as small as ??? with PvE Scaling,) it will die incredibly fast. It also cannot reliably parry Critical Attacks if a feint is used beforehand, making instant guardbreak crits such as the [Pernach](Pernach.md) and a majority of [Heavy Weapons](Weapons.md) like the [Evanspear Greataxe](Evanspear_Greataxe.md) for example will make this mob into a far easier challenge.
 
