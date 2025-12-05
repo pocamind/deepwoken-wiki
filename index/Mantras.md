@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 179371
+revid: 179377
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -29,9 +29,9 @@ Mantras are divided into various categories based on their general application. 
 -   Mobility Mantra (1) - Mantras used for mobility. Your ability to move is increased with these Mantras, allowing you to move fast, or jump very high.
 -   Wildcard Mantra (1) - A special slot that can be taken up by **any other Mantra type**\- if you have an extra Combat, Support, or Mobility Mantra, it will go here.
 
-There is a sixth category of mantras called Wisp mantras. By default, Wisp mantra go into your Support Slot, but by getting the Talent [Will O' Wisp](Talents.md#sage-of-wisps) (for 25 Element and having any wisp mantra), you can slot Wisp mantras into an unlocked Wisp slot.
+There is a sixth category of Mantras called Wisp mantras. By default, Wisp mantra go into your Support Slot, but by getting the Talent [Will O' Wisp](Talents.md#will-o-wisp) (for 25 Element and having any Wisp Mantra), you can slot Wisp Mantras into an unlocked Wisp slot.
 
-It is possible to have more Mantras than Mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or Mantra tables. Additional Mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting the Talent [Neuroplasticity](Talents.md#genius-intellect) (for 35 Mind) for a Wildcard slot.
+It is possible to have more Mantras than Mantra slots, but you will not be able to equip and use all of them at once. They must be swapped out at campfires or Mantra tables. Additional Mantra slots can be gained by obtaining an [Oath](Oaths.md), or by getting the Talent [Neuroplasticity](Talents.md#neuroplasticity) (for 35 Mind) for a Wildcard slot.
 
 ## Combat Usage
 
@@ -74,12 +74,12 @@ To modify a Mantra, the player needs to go to a Mantra Modification table, typic
     -   The display is only visible to the person modify Mantras.
 -   After picking a Mantra to modify, **all** usable modifiers in the user's inventory will be shown.
     -   Mantra Modifiers include the following-
-        -   Cloud/Stratus stones, increasing size at the cost of speed;
-        -   Lens, increasing range at the cost of size;
-        -   Logstones, increasing duration at the cost of range;
-        -   Shards, increasing speed at the cost of duration;
-        -   Glass/Magnifying stones, increasing AoE at the cost of duration;
-        -   Vibrant Gems, increasing 'intensity';
+        -   [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers), increasing size at the cost of speed;
+        -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers), increasing range at the cost of size;
+        -   [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers), increasing duration at the cost of range;
+        -   [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers), increasing speed at the cost of duration;
+        -   [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers), increasing AoE at the cost of duration;
+        -   [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), increasing 'intensity';
         -   Sparks, providing effects to mantra, typically changing how it behaves:
             -   Ex. Fleeting Sparks with a blast spark changes the mantra to chase down a detonate on foes instead of shocking them from range.
     -   Most Mantra modifiers increase the ether cost of a Mantra. It is possible for a Mantra to consume most of, if not all, of a player's ether upon one use.
@@ -95,9 +95,9 @@ The formula to calculate Mantra damage is as follows: B a s e D a m a g e × ( 1
 Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
 
 -   Example 1: Level 5 [Strong Left](Attunement-less.md#strong-left) with 95 Strength and 2 Songchant:
-    -   60 \* (1 + (1.65/10 \* (95/100) \* (1 + 2 \* 0.05))) = 70.34 damage.
+    -   60 \*(1 + (1.65/10 \*(95/100) \*(1 + 2 \*0.05))) = 70.34 damage.
 -   Example 2: Level 4 [Gale Lunge](Galebreathe.md#gale-lunge) with 60 Galebreathe and no Songchant:
-    -   16.25 \* (1 + (2.75/10 \* (60/100) \* (1 + 0 \* 0.05)) = 18.93 damage.
+    -   16.25 \*(1 + (2.75/10 \*(60/100) \*(1 + 0 \*0.05)) = 18.93 damage.
 
 Nearly all [Attunement-less](Attunement-less.md) Mantras have 1.65 investment scaling, while most [Attuned](Attunements.md) Mantras have 2.75 scaling, although there are outliers to this.
 
@@ -111,10 +111,10 @@ This formula also works for non-Mantra things, such as Galebreathe Apparitions, 
 
 B a s e D a m a g e × ( 1 + ( S c a l i n g 10 × ( I n v e s t m e n t 100 ) × ( 1 + S o n g c h a n t × 0.05 ) ) × ( 1 + 0.02 × S o n g c h a n t ) ) {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.05))\\times (1+0.02\\times Songchant))} {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.05))\\times (1+0.02\\times Songchant))}
 
-Note most Oath Mantras do not have scaling, making the formula as simple as Base damage \* (1 + 0.02 \* Songchant).
+Note most Oath Mantras do not have scaling, making the formula as simple as Base damage \*(1 + 0.02 \*Songchant).
 
 -   Example: [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault) with 80 Strength and 4 Songchant:
-    -   20 \* (1 + (1.65/10 \* (80/100) \* (1 + 4 \* 0.05)) \* (1 + 0.02 \* 4)) = 23.42 damage per hit (2), 46.84 damage total.
+    -   20 \*(1 + (1.65/10 \*(80/100) \*(1 + 4 \*0.05)) \*(1 + 0.02 \*4)) = 23.42 damage per hit (2), 46.84 damage total.
 
 ## Types of Mantras
 
@@ -123,10 +123,10 @@ Note most Oath Mantras do not have scaling, making the formula as simple as Base
 Large and threatening fire-based spells. Excels in crowd control and area denial as many spells have large range.
 
 -   Very good at close range
--   Lava serpent can be unlocked at 40 Flamecharm, dealing ragdoll after any Mantra for the removal of [burn](https://deepwoken.fandom.com/wiki/Status_Effects#Burn).
--   Can be further upgraded with the Azure Flame talent for slightly increased burn damage/empowered Eruptions.
--   Decent mid-range presence
--   Good pressure
+-   Lava serpent can be unlocked at 40 Flamecharm, dealing flat damage and ragdolling instead of applying [burn](Status_Effects.md#burn).
+-   Can be further upgraded with the [Azure Flame](Talents.md#azure-flame) Talent for increased burn damage and larger Eruptions.
+-   Decent mid-range presence.
+-   Good pressure.
 -   Great at dealing LOTS of damage.
 -   Has a hybrid path with [Shadowcast](Shadowcast.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Hybrid_Abilities.md#flamecharm).
 
@@ -136,36 +136,32 @@ Lightning utilizes fast and quickly regenerating spells to take a fight at any d
 
 -   Lightning has a wide variety of useful spells for PvE and exploring the world.
 -   Typically used mid/long range.
--   Surge path can be obtained at 40 Thundercall. Adding stacks of surge to an enemy that can [overload](https://deepwoken.fandom.com/wiki/Status_Effects#Overloaded) enemies with the removal of its [stun](https://deepwoken.fandom.com/wiki/Status_Effects#Shock).
+-   Surge path can be obtained at 40 Thundercall. This replaces your [Shock](Status_Effects.md#shock) with applying [Surge Rods](Status_Effects.md#overloaded), a stacking status effect that causes a surge overload once enough stacks have been applied, dealing Thundercall damage.
 -   Great pressure.
 -   A lot of fight control and escape Mantras.
--   Most Thundercall Mantras work with [Sparks](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Specific_effects_of_Sparks).
--   Highest Base Damage, Lowest Scaling.
+-   Most Thundercall Mantras have spark variants.
 
 ### [Frostdraw Mantras](Frostdraw.md)
 
 Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat.
 
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
--   Glass Path: Crystallization can be unlocked at 40 Frostdraw, Adding [crystals](https://deepwoken.fandom.com/wiki/Status_Effects#Crystal) to an enemy with the removal of [chill](https://deepwoken.fandom.com/wiki/Status_Effects#Chill). Unlocks the use of the mantras [Crystal Impale](https://deepwoken.fandom.com/wiki/Frostdraw#Crystal_Impale) and [Crystal Knee](https://deepwoken.fandom.com/wiki/Frostdraw#Crystal_Knee).
+-   Glass Path: Crystallization can be unlocked at 40 Frostdraw. This replaces your [Chill](Status_Effects.md#chill) with [Crystals](Status_Effects.md#crystals), a stacking status effect that causes a crystal detonation once enough stacks have been applied, dealing Frostdraw damage. Unlocks the use of the [Crystal Impale](Frostdraw.md#crystal-impale) and [Crystal Knee](Frostdraw.md#crystal-knee) Mantras.
 -   Typically used close/mid-range.
--   Has a very good mobility Mantra "[Ice Skate](https://deepwoken.fandom.com/wiki/Frostdraw#Ice_Skate)"
--   Works with most [Sparks](https://deepwoken.fandom.com/wiki/Mantra_Modifiers#Specific_effects_of_Sparks).
+-   Works Frostdraw Mantras have spark variants.
 -   Has short cooldowns.
-
-Also has a hybrid with Shadowcast called ''Permafrost Prison''.
 
 ### [Galebreathe Mantras](Galebreathe.md)
 
 Wind utilizes the best all-rounder kit amongst the elements for movement, defense, and offensive actions.
 
 -   It has a mix of close-range combo spells and long ranged options, along with multiple movement Talents for moving around the world.
--   Haunted Path: Specter can be unlocked at 40 Galebreathe, dealing extra damage and having more mobility at the cost of being unable to utilize [suffocation](https://deepwoken.fandom.com/wiki/Status_Effects#Suffocate), comes with the "Specter Bar".
+-   Haunted Path: Specter can be unlocked at 40 Galebreathe. Specter Path replaces your [Suffocation](Status_Effects.md#suffocate) procs with Apparitions and greater mobility.
 -   Usually agreed on as the most "versatile" attunement.
 -   Focuses mainly on movement.
 -   Typically used in any range.
--   Applies [Winded](https://deepwoken.fandom.com/wiki/Status_Effects#Winded), slowing the attack speed of your opponent.
--   Applies [suffocate](https://deepwoken.fandom.com/wiki/Status_Effects#Suffocate), negating Mantras of the opponent. Procs when using [Wind Gun](https://deepwoken.fandom.com/wiki/Galebreathe#Wind_Gun), [Galetrap](https://deepwoken.fandom.com/wiki/Galebreathe#Galetrap), or can proc on any mantra if you have the [Talent](Talents.md) "A World Without Song".
+-   Applies [Winded](Status_Effects.md#winded), slowing the attack speed of your opponent.
+-   Applies [Suffocation](Status_Effects.md#suffocate), disabling your opponent's ability to cast Mantras. Innately procs by landing the [Wind Gun](Galebreathe.md#wind-gun) and [Galetrap](Galebreathe.md#galetrap) Mantras, though it can be procced through Talents such as [A World Without Song](Talents.md#a-world-without-song).
 
 ### [Shadowcast Mantras](Shadowcast.md)
 
@@ -174,7 +170,8 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 -   Excels in keep the opponent locked down and under pressure.
 -   Has its niche in keeping the Ether bar up and making sure others can't use Ether.
 -   Goes well when paired with other elements.
--   Applies [obscured](https://deepwoken.fandom.com/wiki/Status_Effects#Obscured), If you have the "Sightless Still" talent, obscuring the vision of the opponent.
+-   Drains your opponent's Ether when you land Shadowcast Mantras.
+-   Applies [Obscured](Status_Effects.md#obscured), If you have the "Sightless Still" talent, obscuring the vision of the opponent.
 -   Typically used mid-range.
 -   Has a hybrid path with [Flamecharm](Flamecharm.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Hybrid_Abilities.md#shadowcast).
 
@@ -183,18 +180,18 @@ Uses dark energy to siphon Ether from others into the user's own Ether.
 Ironsing provides the widest ranged Mantras in the game and the best damage output based on your opponent's mistakes and missteps.
 
 -   Offers Mantras that favor the user, benefits both short and long distance.
--   Gilded Path: Scrapsinger can be obtained at 40 Ironsing. It still allows the ability of [metal rods](https://deepwoken.fandom.com/wiki/Status_Effects#Metal_Rods) pulling enemies towards you when pressing the X key, however it adds talents that can remove [metal rods](https://deepwoken.fandom.com/wiki/Status_Effects#Metal_Rods) in exchange for different buffs/abilities.
--   Tunes in well with the [Metal enchantment](Metal.md), as the [Metal enchantment](Metal.md) gives you benefits depending on how much armor your opponent has.
--   Applies metal rods, which can be used in different ways by the user who applied it, enabling different strategies and forms of combat.
+-   Applies metal rods on hit, which can be pulled to pull the target towards you. Several Talents augment the functionality of these rods.
+-   Gilded Path: Scrapsinger can be obtained at 40 Ironsing. This path allows you to consume your rods on flourish, siphoning your opponent's armor and proccing the path's child Talents.
+-   Tunes in well with the [Metal](Metal.md) enchantment, as Metal gives you benefits depending on how much armor your opponent has.
 
 ### [Bloodrend Mantras](Bloodrend.md)
 
 Harvest the blood of yourself and your enemies to hinder them and empower your mantras and abilities.
 
 -   Offers a wide variety of mantras that excel in many situations.
--   Can weaken your enemies with [blood poison](https://deepwoken.fandom.com/wiki/Status_Effects#Blood_Poisoning) preventing them from using their abilities at full effectiveness.
+-   Can weaken your enemies with [Blood Poison](Status_Effects.md#blood-poisoning), applying various debuffs and priming your opponent for your Talents.
 -   Has many ranged options as well as combo tools.
--   Can drain your opponents [blood](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Survival_Basics) causing them to die before their health depletes.
+-   Can drain your opponent's blood, sometimes causing them to die before their health depletes.
 
 ### [Hybrid Mantras](Hybrid_Abilities.md)
 
@@ -276,4 +273,4 @@ Add more if you find them.
 -   Mantras _can_ be leveled beyond the normal limit of 5, but only via developer interaction.
 -   Many places refer to Mantras as the Song or fragments of the Song, i.e Orlandeau during the [Tutorial](Tutorial.md) or the description of the [Songseeker Temple](Songseeker_Temple.md).
     -   According to [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md), Mantras are "A cheap imitation of the power held within the Song that Drowned Gods wield as their birthright", implying that they are an inferior form of the song's true power, which aren't intended for humanity
--   Elemental Intensity once affected the damage of certain Mantras, but no longer does.
+-   Elemental Intensity, a now removed stat, once affected the damage of certain Mantras.

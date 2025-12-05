@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 176358
+revid: 179386
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -50,7 +50,7 @@ Standard blindfolds are the most difficult to obtain, however they are all still
 <tr>
   <td>Crimson Blindfold</td>
   <td>+1 Common</td>
-  <td><a href="Minityrsa.md">Minityrsa</a>, <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="Ancient_Rotlands.md">Ancient Rotlands</a></td>
+  <td><a href="Minityrsa.md">Minityrsa</a>, <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="First_Layer.md">First Layer</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="Ancient_Rotlands.md">Ancient Rotlands</a></td>
 </tr>
 </tbody>
 </table>

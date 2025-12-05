@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179363
+revid: 179379
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4435,6 +4435,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   These storm strikes proc Grounding Bolt.
 
 -   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your mantras with [might gem](Might_Gem.md) now slow down your opponents, scaling with how many combat tags you currently have.
+    -   This applies a 5% slow per combat tag you have. This slow lasts 1 second.
 
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 

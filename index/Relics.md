@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 178605
+revid: 179387
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -472,7 +472,6 @@ This works with all other "on Vent" effects.
  | 
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
--   [Lysander Spellhardt](Lysander_Spellhardt.md)
 
  |
 

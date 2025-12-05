@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 170198
+revid: 179384
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
@@ -57,4 +57,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## References
 
-1.  [↑](#cite-ref-1) "if anything i had soul calibur in mind" Nuttoons on Discord, November 9, 2024.
+1.  [↑](#cite-ref-1)

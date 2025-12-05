@@ -1,6 +1,6 @@
 ---
 title: Khan (NPC)
-revid: 175141
+revid: 179385
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
