@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 179088
+revid: 179451
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -17,10 +17,6 @@ A [Vesperian](Vesperian.md) firing a [Flintlock](Flintlock.md).
 **Guns** are ranged weapons that are designed to fire projectiles if the user has bullets in their inventory which are capable of adding ranged capabilities (1H only) while also providing advantages and disadvantages depending on the [ore the bullets are made of](Bullet_Casings.md). Most pistols can be purchased in the Castle at [Summer Isle](Summer_Isle.md), except for the [Dawnshot](Dawnshot.md) and the [Silversix](Silversix.md), with the latter being an advanced starting weapon that is purchased with echoes when creating a new character. Rifles are found only as drops from enemies. There are several different types of guns in game.
 
 For the editor (and viewer's) sake, 1 hand wielding pistols will be referred to as "1H" for the rest of this article.
-
-Guns have their own Talent tree - [Gunslinger](Talents.md#gunslinger), however there are other gun related Talents like [Outlaw](Talents.md) for pistols.
-
-All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even if you don't have any.
 
 ### General Gun Talents
 
@@ -50,31 +46,35 @@ All guns (except unloaded 1H) have a crit that makes them shoot a bullet, even i
 
 ## Pistol Moveset
 
+### Single Gun
+
+Commonly referred to as one hand gun, wielding a singular main-hand pistol grants access to exclusive animations and Talent abilities. When pressing Y or Z, reload your pistol. Pistols can hold 4 to 6 bullets, depending on the weapon in specific.
+
+On an unloaded pistol, your M1s will deal more posture damage, performing a pistol whip animation. Additionally, your weapon critical will be a default unloaded M1, proccing M1-exclusive Talents instead of those that proc on critical.
+
+When your pistol is loaded, your M1s will gain +10% chip damage, a +15% damage modifier, and a different M1 animation consisting of several shots with your pistol. Additionally, your critical will fire a ranged projectile on use. If you have physical [Bullets](Bullets.md) in your inventory, your M1s will fire projectiles at the cost of 1 bullet on each M1.
+
+The amount of bullets you can load into a pistol is dependent on which weapon you have equipped. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md) and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md), [Iron Requiem](Iron_Requiem.md), and [Silversix](Silversix.md) can hold 6 bullets. Reloading has a sound cue and slows the player greatly, leaving them vulnerable in combat. It takes 0.5 seconds to load each bullet (0.4 If the player has the [Rapid Reload](Talents.md#rapid-reload) Talent an empty gun, and 0.25 if the [Ultrakill](Talents.md#ultrakill) Talent is active). You can end your reload early by pressing M2.
+
 ### Dual-Wielding
 
-You can wield 2 pistols at the same time by equipping two of any pistols in both the main and side weapon slot. when using two guns, your M1's will consist of three or two consecutive shots before flourishing.
+By equipping an offhand pistol while wielding a main-hand pistol, your animations and pistol-exclusive mechanics will be altered. Your M1 combo will now consist of two consecutive blast shots before a flourish. The reload mechanic will be removed, along with all benefits and downsides it may have.
 
-### One-Handed (1H)
+The offhand pistol will entirely inherit all stats and the [Enchantment](Enchantments.md) from your main-hand one. For example, if you have a [Repeater](Repeater.md) in your main hand and a [Silversix](Silversix.md) in your offhand, your Silversix shots will retain the stats of your Repeater.
 
-When using a singular gun you will gain an ammo counter resembling a revolver chamber above your posture bar which is **reloaded by pressing Y or Z.** without bullets, your M1's will do more posture damage and have a wide pistol whip attack (2-hit flourish). When your gun is loaded, attacks will gain 10% chip damage, a 15% damage multiplier and have your M1 cycle will be replaced with a longer ranged, 3-hit flourish that fires the gun. Each attack will consume one bullet.
-
-Note that if your 1H gun is unloaded, pressing your crit button will just do a light attack, meaning there is no crit for 1H unloaded guns.
+Similar to the loaded singular pistol, the dual pistol critical consists of a projectile fired from your weapon.
 
 ### Offhand Gun
 
-Using your gun as a side-weapon will **not** gain you the ammo counter, as it will no longer have the innate ability to fire bullets or reload. Pressing M2 will make you extend your arm and shoot, creating the usual blast you'd see in other guns with no bullet coming out. The [Hip Shooter](Talents.md#gunslinger) Talent can allow it to fire a projectile bullet with a 5s CD as long as your main weapon is a medium or heavy weapon.
+Using your gun as an offhand weapon will remove a lot of the pistol-exclusive mechanics such as reloading. Pressing M2 will make you extend your arm and fire the gun, creating the usual blast you'd see in other guns with no bullet coming out. The [Hip Shooter](Talents.md#hip-shooter) Talent will allow it to fire a projectile bullet with a 5s CD as long as your main weapon is a medium or heavy weapon.
 
-This attack **cannot** be used in your M1 combo like mantras and acts as a standalone hit. The Talent [Quick Draw](Talents.md#gunslinger) from the [Gunslinger](Talents.md#gunslinger) Talent tree will make such possible, although **you need to wait for the full endlag of your M1 and then use M2** otherwise the attack wont happen, which may cost you a hit during an intense fight.
+This attack isn't used in your M1 combo and often has too much windup to be properly used in an M1 combo. The [Quick Draw](Talents.md#quick-draw) Talent will make possible, however, though **you need to wait for the full endlag of your M1 and then use M2**, otherwise the attack wont happen, which may cost you a hit during an intense fight.
 
-The stats of an offhand pistol will change slightly depending on what your equipped main hand weapon is. If your main hand weapon is another pistol, the offhand pistol will completely inherit the damage and scaling stat of the main one. If your main weapon is not another pistol, it will have a 20% reduction to its damage along with inheriting the scaling stat of your main weapon. All other stats on the pistol will be retained.
+The stats of an offhand pistol will change slightly depending on what your equipped main hand weapon is. If your main hand weapon is another pistol, the offhand pistol will completely inherit the stats of the main one. If your main weapon is not another pistol, it will have a 20% reduction to its base damage along with inheriting the scaling stat of your main weapon. All other stats on the pistol will be retained.
 
 For example, an Offhand [Silversix](Silversix.md) on [First Light](First_Light.md) with 80 heavy and 0 proficiency will deal 11.84 damage due to now having 8 base damage and 8 Heavy Weapon scaling.
 
 Offhand pistols completely inherit the [enchant](Enchantments.md) that your main weapon has.
-
-#### Reloading
-
-The amount of bullets you can load into a gun depends on the gun you have equipped. The [Dragoon](Dragoon.md), [Flintlock](Flintlock.md) and [Dawnshot](Dawnshot.md) can hold 4 bullets, and the [Repeater](Repeater.md), [Iron Requiem](Iron_Requiem.md), and [Silversix](Silversix.md) can hold 6 bullets. Reloading slows the player greatly and has a sound cue leaving them vulnerable in combat but can be canceled instantly by pressing M2. It takes 0.5 seconds to load a bullet (0.4 If the player has the [Rapid Reload Talent](Talents.md#outlaw) an empty gun, and 0.25 if the [Ultrakill Talent](Talents.md#outlaw) is active)
 
 ### Talents
 
@@ -129,11 +129,161 @@ Despite having the highest range of all the weapons, utilizing the range can oft
 
 ### Pistol Stats
 
-Template:AllFlintlockWeapons
+<table><caption>Light Weapons</caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Requirements</th>
+  <th>Base Damage</th>
+  <th>Scaling</th>
+  <th>Armor Penetration</th>
+  <th>Chip Damage</th>
+  <th>Posture Damage</th>
+  <th>Range</th>
+  <th>Swing Speed</th>
+  <th>Endlag</th>
+  <th>Scaled Damage</th>
+</tr>
+<tr>
+  <td><b><a href="Silversix.md">Silversix</a></b></td>
+  <td>N/A</td>
+  <td>10</td>
+  <td>LHT: 13</td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>19.8</td>
+</tr>
+<tr>
+  <td><b><a href="Flintlock.md">Flintlock</a></b></td>
+  <td>20 LHT</td>
+  <td>11</td>
+  <td>LHT: 12</td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>20.9</td>
+</tr>
+<tr>
+  <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
+  <div><small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <td>40 LHT</td>
+  <td>14</td>
+  <td>LHT: 12</td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>26.6</td>
+</tr>
+<tr>
+  <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
+  <td>75 MTL<br>
+  40 LHT</td>
+  <td>21</td>
+  <td>MTL: 4<br>
+  LHT: 3</td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>32</td>
+</tr>
+<tr>
+  <td><b><a href="Repeater.md">Repeater</a></b></td>
+  <td>65 LHT</td>
+  <td>14</td>
+  <td>LHT: 15</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.25x</td>
+  <td>-</td>
+  <td>29.8</td>
+</tr>
+<tr>
+  <td><b><a href="Dragoon.md">Dragoon</a></b></td>
+  <td>65 LHT</td>
+  <td>16</td>
+  <td>LHT: 12</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3.5</td>
+  <td>11</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>30.4</td>
+</tr>
+<tr>
+  <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
+  <td>75 LHT</td>
+  <td>16</td>
+  <td>LHT: 11</td>
+  <td>-</td>
+  <td>20%</td>
+  <td>4</td>
+  <td>11</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>29.2</td>
+</tr>
+<tr>
+  <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
+  <div><small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <td>75 LHT</td>
+  <td>16</td>
+  <td>LHT: 12</td>
+  <td>5%</td>
+  <td>10%</td>
+  <td>2.5</td>
+  <td>10.5</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>30.4</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
+  <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
+  <td>16</td>
+  <td>LHT: 16</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.33x</td>
+  <td>-</td>
+  <td>35.2</td>
+</tr>
+<tr>
+  <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
+  <td>40 LHT</td>
+  <td>13</td>
+  <td>LHT: 11</td>
+  <td>5%</td>
+  <td>10%</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>23.7</td>
+</tr>
+</tbody>
+</table>
 
 ## Rifles
 
-Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are limited to the 2 handed stance. They are all exclusively medium weapons.
+Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles are limited to the 2 handed stance, and they are all exclusively medium weapons.
 
 ### Talents
 

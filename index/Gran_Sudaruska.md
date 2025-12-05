@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 177046
+revid: 179485
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 6 |
 | bankable | Yes |

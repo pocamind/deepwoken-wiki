@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 177267
+revid: 179476
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weap
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 8.5 |
 | bankable | Yes |

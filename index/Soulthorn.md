@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 178120
+revid: 179515
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -22,6 +22,7 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
 | selling price | N/A |
 | weight | 5 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 175376
+revid: 179532
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand]
@@ -18,6 +18,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | endlag | 0.1s |
 | special effect | Recover 20% more posture from parries. |
 | offhand | Offhand only |
+| rarity | Uncommon |
 | selling price | 25 |
 | weight | 2 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 174317
+revid: 179463
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae]
@@ -18,6 +18,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Nav
 | swing speed | 1.13x |
 | m.equip | No |
 | m.extract | No |
+| rarity | N/A |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |

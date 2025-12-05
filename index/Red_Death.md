@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 179071
+revid: 179511
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Lege
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 6 |
 | bankable | Yes |

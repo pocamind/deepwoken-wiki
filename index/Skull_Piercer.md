@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 173394
+revid: 179512
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | m.crit | Apprentice Rapier |
 | m.compatible | Rapiers |
 | stances | 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 4 |
 | bankable | Yes |

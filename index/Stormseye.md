@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 177712
+revid: 179517
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 5 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 176243
+revid: 179490
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 5 |
 | bankable | Yes |

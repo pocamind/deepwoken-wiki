@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 177643
+revid: 179503
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -20,6 +20,7 @@ categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons,
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 9 |
 | bankable | Yes |

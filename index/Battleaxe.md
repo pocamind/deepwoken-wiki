@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 164098
+revid: 179539
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | m.crit | Battleaxe |
 | m.compatible | Greataxes |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Common |
 | selling price | 7 |
 | weight | 6 |
 | bankable | Yes |
@@ -42,4 +43,4 @@ Battleaxe uses the default Greataxe critical, an overhead swing. It has a scaled
 
 -   At max HVY, the damage is (27.5)
 -   The Battleaxe is considered to be very weak, as its damage is only slightly higher than the regular starter sword.
-    -   It is prone to being given [Providence's Thorns](Enchantments.md) with [Enchant Stones](Enchant_Stone.md), though, as it has good base damage for Providence's Thorns and has no requirement.
+    -   It is prone to being given [Providence's Thorns](<Providence's_Thorns.md>) with [Enchant Stones](Enchant_Stone.md), though, as it has good base damage for Providence's Thorns and has no requirement.

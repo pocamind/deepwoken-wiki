@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 177298
+revid: 179508
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, War Weapons, Weapons with Talents]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | m.crit | Iron Spear |
 | m.compatible | Spears |
 | stances | 2 Handed, 1 Handed |
+| rarity | War |
 | selling price | 100 |
 | weight | 5 |
 | bankable | Yes |

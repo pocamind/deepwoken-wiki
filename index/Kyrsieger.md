@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 176148
+revid: 179501
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 9 |
 | bankable | Yes |

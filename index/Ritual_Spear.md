@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 176787
+revid: 179531
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | m.crit | Iron Spear |
 | m.compatible | Spears |
 | stances | 2 Handed, 1 Handed |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |

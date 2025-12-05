@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 167557
+revid: 179547
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons,
 | m.crit | Scalesplitter |
 | m.compatible | Twinblades |
 | stances | 2 Handed, 1 Handed |
+| rarity | Uncommon |
 | selling price | 50 |
 | weight | 5 / 6 |
 | bankable | Yes |

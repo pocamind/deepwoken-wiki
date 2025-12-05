@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 177004
+revid: 179477
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowti
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 4 |
 | bankable | Yes |

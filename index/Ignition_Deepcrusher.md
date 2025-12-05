@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 177508
+revid: 179498
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit 
 | special effect | Can switch between 2 weapon types on stance swap, 2 handed: on hit, apply a metal rod and deal blunt damage., 1 handed: gain Bleed damage and deal slash damage. |
 | m.equip | No |
 | m.extract | No |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 8 (Club) / 4 (Sword) |
 | bankable | Yes |

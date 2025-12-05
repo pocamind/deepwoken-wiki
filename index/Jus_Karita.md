@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 178360
+revid: 179467
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons]
 | penetration | 20% |
 | m.equip | No |
 | m.extract | No |
+| rarity | N/A |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 176308
+revid: 179435
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Starkindred Church, Enemies with Oaths]
@@ -8,7 +8,11 @@ categories: [Enemies, The Starkindred Church, Enemies with Oaths]
 
 # Minos, Sinner of Flame
 
-Template:Creature Info Box v2
+| Minos, Sinner of Flame | |
+|---|---|
+| health | 2100 |
+| drops | N/A |
+| moves | Assault, Critical, Feint, Fire Blade (Starkindred variation), Flaming Scourge, Flame Ballista, Sinister Halo, Ascension, Celestial Assault |
 
 ## Description
 

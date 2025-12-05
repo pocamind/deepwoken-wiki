@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 176804
+revid: 179525
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Talents]
@@ -23,6 +23,7 @@ categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Tal
 | m.crit | Pale Morning |
 | m.compatible | Greathammers |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | War |
 | selling price | 100 |
 | weight | 7 |
 | bankable | Yes |

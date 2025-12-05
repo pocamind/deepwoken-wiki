@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 177351
+revid: 179466
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -18,6 +18,7 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multip
 | swing speed | 1.13x |
 | m.equip | No |
 | m.extract | No |
+| rarity | N/A |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 174316
+revid: 179464
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -18,6 +18,7 @@ categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapo
 | swing speed | 1.13x |
 | m.equip | No |
 | m.extract | No |
+| rarity | N/A |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |

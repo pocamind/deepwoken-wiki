@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 177397
+revid: 179523
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-base
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 5 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 179192
+revid: 179460
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -21,6 +21,8 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Unique |
+| selling price | 100 |
 | weight | 8.5 |
 | bankable | Yes |
 | droppable | Yes |

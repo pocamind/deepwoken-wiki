@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 176869
+revid: 179488
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -19,6 +19,7 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | N/A |
 | selling price | N/A |
 | weight | 1 |
 | bankable | Yes |

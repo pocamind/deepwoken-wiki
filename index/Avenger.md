@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 166796
+revid: 179537
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
@@ -23,6 +23,8 @@ categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
 | m.crit | Soulwrought Greatsword |
 | m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Common |
+| selling price | 7 |
 | weight | 8 |
 | bankable | Only if enchanted |
 | droppable | No |

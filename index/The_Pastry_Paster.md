@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 172266
+revid: 179544
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Clubs, Medium Weapons, "Core-Attribute based weapons"]
@@ -19,6 +19,8 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Club
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Common |
+| selling price | 7 |
 | weight | 7 |
 | bankable | Yes |
 | droppable | Yes |

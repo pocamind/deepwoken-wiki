@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 176945
+revid: 179471
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Event Item, "Weapons with Multi-Hit Criticals", Hallowtide, Medium Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 5 |
 | bankable | Yes, but requires 1 Knowledge |

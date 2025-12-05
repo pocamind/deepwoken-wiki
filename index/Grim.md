@@ -1,6 +1,6 @@
 ---
 title: Grim
-revid: 179413
+revid: 179442
 source: https://deepwoken.fandom.com/wiki/Grim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -19,7 +19,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Grim is a damage dealing enchantment that applies the status effect [Grim](Status_Effects.md#grim) to your opponent.
+Grim is a debuffing enchantment that increases your opponent's incoming damage and posture damage.
 
 This enchantment changes your weapon's color to black and covers it with a red mist.
 
@@ -32,3 +32,4 @@ The hit count required to proc this enchantment varies based on your weapon type
 ### Notes
 
 -   Grim's effects can be procced on weapon criticals if they have the M1 tag.
+-   Because Grim applies buffs into incoming attacks rather than increasing damage and posture taken, it **is** affected by the damage and posture damage modifier caps.

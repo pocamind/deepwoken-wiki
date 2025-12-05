@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 177363
+revid: 179500
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -21,6 +21,7 @@ categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Wea
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 6 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 177355
+revid: 179491
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -23,6 +23,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 7.5 |
 | bankable | Yes |

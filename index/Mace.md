@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 164102
+revid: 179538
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -22,6 +22,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | m.crit | Mace |
 | m.compatible | Clubs |
 | stances | 2 Handed, 1 Handed |
+| rarity | Common |
 | selling price | 14 |
 | weight | 6 |
 | bankable | Yes |

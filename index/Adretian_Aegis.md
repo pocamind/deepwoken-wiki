@@ -1,6 +1,6 @@
 ---
 title: Adretian Aegis
-revid: 175184
+revid: 179468
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Shields, Offhand]
@@ -15,6 +15,7 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 | faction | Authority |
 | special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 6.5 |
 | bankable | Yes |
@@ -36,4 +37,4 @@ Adretian Aegis is a blue and gold mid-game shield that bears the emblem of [The 
 
 -   Adretian Aegis cannot be dropped nor banked.
 -   It **can** be [passed down](Hippocampal_Pool.md) however, allowing you to equip it on your next character, provided you meet its requirements.
--   When this item was initially made sellable, the sell price was 100 Notes; the same as the purchase price. This allowed people to use [Snake Oil](Talents.md#silvertongue) to resell the shields at a higher price than they bought it for, generating free Notes out of nothing. The sell price was severely reduced in the following update, which also downgraded its item rarity from Mythical to Uncommon.
+-   When this item was initially made sellable, the sell price was 100 Notes; the same as the purchase price. This allowed people to use [Snake Oil](Talents.md#snake-oil) to resell the shields at a higher price than they bought it for, generating free Notes out of nothing. The sell price was severely reduced in the following update, which also downgraded its item rarity from Mythical to Uncommon.

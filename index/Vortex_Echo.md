@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 178571
+revid: 179521
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
@@ -20,6 +20,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Relic |
 | selling price | 100 |
 | weight | 4 |
 | bankable | Yes |

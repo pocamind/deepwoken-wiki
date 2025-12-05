@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 177762
+revid: 179496
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -21,6 +21,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 6 |
 | bankable | Yes |
@@ -32,7 +33,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 
 ## Description
 
-The Imperial Staff is a Legendary [Spear](Weapons.md) that scales with and requires [Strength](Attributes.md) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
+The Imperial Staff is a Legendary [Spear](Weapons.md) that scales with and requires [Strength](Attributes.md#str) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
 
 Meeting the requirement of MED and STR, the weapon deals 23.8 damage. At max MED and STR, the weapon deals 31.1 damage.
 

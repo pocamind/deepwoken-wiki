@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 166769
+revid: 179533
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | m.crit | Stiletto |
 | m.compatible | Daggers |
 | stances | 1 Handed |
+| rarity | Common |
 | selling price | 7 |
 | weight | 2 |
 | bankable | Yes |
@@ -32,7 +33,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 
 ## Description
 
-The Stiletto is a dagger. It is the starting light weapon (not counting advanced weapons from [echo upgrades](Echoes.md)) The weapon has a base damage of 11.
+The Stiletto is a dagger. It is often the player's entry point into the light weapon class.
 
 ## Critical
 
