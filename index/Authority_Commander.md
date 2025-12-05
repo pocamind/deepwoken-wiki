@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 178114
+revid: 179390
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -45,6 +45,8 @@ The Outfit has 2800 durability, grants 30% Elemental Armor, +30% Physical Armor,
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt, 30% Slash, 37% Flamecharm, and 30% Elemental.
 
 The [Riot Breaker](Talents.md#riot-breaker) Talent makes it so that you receive 15% less posture damage and deal 10% more posture damage when under attack by 3 or more enemies.
+
+When paired with the [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 179377
+revid: 179405
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -148,7 +148,7 @@ Uses ice to freeze enemies and create physical obstructions, allowing the user t
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
 -   Glass Path: Crystallization can be unlocked at 40 Frostdraw. This replaces your [Chill](Status_Effects.md#chill) with [Crystals](Status_Effects.md#crystals), a stacking status effect that causes a crystal detonation once enough stacks have been applied, dealing Frostdraw damage. Unlocks the use of the [Crystal Impale](Frostdraw.md#crystal-impale) and [Crystal Knee](Frostdraw.md#crystal-knee) Mantras.
 -   Typically used close/mid-range.
--   Works Frostdraw Mantras have spark variants.
+-   Most Frostdraw Mantras have spark variants.
 -   Has short cooldowns.
 
 ### [Galebreathe Mantras](Galebreathe.md)

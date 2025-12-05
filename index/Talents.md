@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179379
+revid: 179406
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -775,7 +775,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Enchaining targets and hitting Chained targets with with Restrain will add 1 stack of Perpetual Wrath.
     -   Each stack of Perpetual Wrath increases [Restrain's](Oath%253A_Chainwarden.md) (Mantra) damage by 8, capping out at 4 stacks for +32 damage. At max stacks, Restrain additionally gains a new visual and sound effect.
     -   **All** stacks of Perpetual Wrath will be cleared if the chain is broken.
--   Requirements: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat one humanoid [boss](Bosses.md) or player with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained**.
+-   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat one humanoid [boss](Bosses.md) or player with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
 
 -   Chainlash \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md) Exclusive\] - On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
     -   Your flourish and [Impel](Oath%253A_Chainwarden.md) (Mantra) now apply chained and pull after a short delay. M1ing after the pull will perform a Crushing Kick, dealing high damage.
@@ -783,7 +783,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Chainlash will only work on Chained targets, if a target breaks the chain quick enough, Chainlash will cancel.
     -   Works with Dazing Finisher and Bulldozer.
     -   The kick ragdolls and flings targets in the direction you are looking, but cannot wallbang.
--   Requirements: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat two humanoid [bosses](Bosses.md) or players with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained**.
+-   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat two humanoid [bosses](Bosses.md) or players with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
 
 ### Champion
 
