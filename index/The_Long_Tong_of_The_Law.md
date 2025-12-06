@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 173435
+revid: 179752
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Spears, "Core-Attribute based weapons"]
@@ -23,6 +23,8 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | m.crit | Crescent Cleaver |
 | m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Common |
+| selling price | 7 |
 | weight | 8 |
 | bankable | Yes |
 | droppable | Yes |

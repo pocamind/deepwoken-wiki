@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 173397
+revid: 179685
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -23,6 +23,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | m.crit | Mace |
 | m.compatible | Clubs |
 | stances | 2 Handed, 1 Handed |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |

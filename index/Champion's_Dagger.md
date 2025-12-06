@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 176158
+revid: 179613
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -22,6 +22,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | m.crit | Stiletto |
 | m.compatible | Daggers |
 | stances | 1 Handed |
+| rarity | Rare |
 | selling price | 25 |
 | weight | 4 |
 | bankable | Yes |

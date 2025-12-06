@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 176965
+revid: 179636
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
@@ -23,6 +23,7 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 | m.crit | Stiletto |
 | m.compatible | Daggers |
 | stances | 1 Handed |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 4 |
 | bankable | Yes |

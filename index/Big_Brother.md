@@ -1,9 +1,9 @@
 ---
 title: Big Brother
-revid: 174116
+revid: 179696
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
+categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Weapons with Talents]
 ---
 
 # Big Brother
@@ -21,6 +21,7 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Mythical |
 | selling price | ? |
 | weight | 4 |
 | bankable | No |
@@ -34,13 +35,13 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 
 The Big Brother is a LHT weapon in the Dagger category that can be obtained by maxing out the Inquisitor division under the [Authority Ensign](Authority_Ensign.md) origin.
 
-### Talent: Swift Strike
+## Talent: Swift Strike
 
-When you land an M1 on your opponent's back, your next critical attack will be enhanced. Instead of the default Dagger critical, your next critical will be a teleporting backstab attack, proccing all [assassination](Talents.md#assassin) Talents. 20 second cooldown.
+Equipping the Big Brother grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-On proc, the Swift Strike status effect is granted for an indefinite duration, only being consumed upon critical cast.
+**Swift Strike** procs when you land an M1 on your opponent's back, granting the [Swift Strike](Status_Effects.md#swift-strike) status effect for an indefinite duration. This status effect changes your next critical attack into a teleporting backstab attack that procs all [assassination](Talents.md#assassin) Talents and deals percentage based damage.
 
-This critical deals % damage.
+This has a 20 second cooldown. Using the Swift Strike-enhanced critical consumes the status effect.
 
 ## Critical
 

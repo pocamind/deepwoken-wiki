@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 169210
+revid: 179638
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -24,6 +24,7 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Crit
 | m.crit | Halberd |
 | m.compatible | Greataxes, Spears |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 5 / 6 |
 | bankable | Yes |

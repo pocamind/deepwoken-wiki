@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 167858
+revid: 179703
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | m.equip | Yes |
 | m.extract | Yes |
 | stances | 2 Handed |
+| rarity | Rare |
 | selling price | 25 |
 | weight | 5 |
 | bankable | Yes |

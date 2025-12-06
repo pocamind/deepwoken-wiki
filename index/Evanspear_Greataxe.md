@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 177018
+revid: 179746
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | m.crit | Battleaxe |
 | m.compatible | Greataxes |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Rare |
 | selling price | 25 |
 | weight | 8 |
 | bankable | Yes |

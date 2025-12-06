@@ -1,6 +1,6 @@
 ---
 title: Duskguard Axe
-revid: 179168
+revid: 179644
 source: https://deepwoken.fandom.com/wiki/Duskguard_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -21,6 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Heavy Weapons, Weapons o
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 9 |
 | bankable | Only if enchanted |

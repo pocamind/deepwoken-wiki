@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 168128
+revid: 179739
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Childr
 | m.equip | Yes |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Base, AlloyUncommonLegendary |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |

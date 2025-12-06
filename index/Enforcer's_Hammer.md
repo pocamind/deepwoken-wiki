@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Hammer"
-revid: 169598
+revid: 179683
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, Greathammers, Weapons with Unique C
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 12 |
 | bankable | Yes |

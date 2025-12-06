@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 173158
+revid: 179658
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -23,6 +23,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | m.crit | Pale Morning |
 | m.compatible | Greathammers |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Rare |
 | selling price | N/A |
 | weight | 10 |
 | bankable | Yes |

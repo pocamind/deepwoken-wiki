@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 171133
+revid: 179651
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons]
 | m.extract | Yes |
 | stances | 1 Handed |
 | offhand | Yes |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 1 |
 | bankable | Yes |

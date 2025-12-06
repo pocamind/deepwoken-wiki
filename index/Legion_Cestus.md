@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 174331
+revid: 179607
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Fists, Light Weapons]
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |

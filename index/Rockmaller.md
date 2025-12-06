@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 177375
+revid: 179697
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
@@ -20,6 +20,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 9.5 |
 | bankable | Yes |

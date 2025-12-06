@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 173433
+revid: 179730
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -23,6 +23,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Great
 | m.crit | Crescent Cleaver |
 | m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Base, AlloyRareLegendary |
 | selling price | 25 |
 | weight | 9 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 179159
+revid: 179706
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -19,7 +19,8 @@ categories: [Weapons, Fists, Light Weapons]
 | chip damage | 20% |
 | m.equip | No |
 | m.extract | No |
-| selling price | Unsellable |
+| rarity | Unique |
+| selling price | N/A |
 | weight | 6 |
 | bankable | Yes |
 | droppable | No |

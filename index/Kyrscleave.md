@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 179321
+revid: 179698
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hi
 | m.crit | Crescent Cleaver |
 | m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 9 |
 | bankable | Yes |

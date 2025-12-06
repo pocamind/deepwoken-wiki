@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 167559
+revid: 179733
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
 | m.crit | Scalesplitter |
 | m.compatible | Twinblades |
 | stances | 2 Handed, 1 Handed |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 4 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 171136
+revid: 179648
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Light Weapons, Offhand]
@@ -20,6 +20,7 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 | m.extract | Yes |
 | stances | 1 Handed |
 | offhand | Yes |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 3.5 |
 | bankable | Yes |

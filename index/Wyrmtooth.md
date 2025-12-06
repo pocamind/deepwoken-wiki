@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 177399
+revid: 179580
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals]
@@ -20,6 +20,7 @@ categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapon
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 7 |
 | bankable | Yes |
@@ -32,8 +33,6 @@ categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapon
 ## Description
 
 The **Wyrmtooth** is a sword that drops from bosses and endgame events like the [Dread Serpent](Dread_Serpent.md) or [The Diluvian Mechanism](The_Diluvian_Mechanism.md). It has a base damage of 20 with 25% PEN, requiring 60 MED, 40 HVY and Power 10 to equip. Wyrmtooth is compatible with Medium and Heavy Talents, acting as **both** a Medium Sword and a Heavy Greatsword.
-
-With attribute scaling in mind (excluding [Proficiency](Traits.md#proficiency)), the Wyrmtooth deals 28.1 damage when meeting the requirements and 35.6 damage with 100 MED and HVY.
 
 While its damage is arguably mediocre (considering its requirements), the Wyrmtooth boasts a massive 9 range and an above average weight of 7; it can reliably outrange the majority of light and medium melee weapons and, paired with its decently high swing speed, allows you to maintain pressure on your opponents while remaining relatively safe.
 
@@ -52,7 +51,7 @@ The cooldown for either critical is **10 seconds**.
 
 -   At 6 Proficiency, it deals 31.3 damage meeting the requirements and 41.7 damage with 100 MED and HVY.
 -   Wyrmtooth proccing both Medium and Heavy Talents includes both the Medium and Heavy weapon variants of the [Silentheart](Oath%253A_Silentheart.md) moves, proccing the heavy ones if the medium ones are on cooldown.
--   Before the update that granted Wyrmtooth the ability to proc Talents from both weapon classes, it could only proc medium Talents and [Destructive Recovery](Talents.md#colossus).
+-   Before the update that granted Wyrmtooth the ability to proc Talents from both weapon classes, it could only proc Talents from the [Thunderblade](Talents.md#thunderblade) Talent tree and and [Destructive Recovery](Talents.md#destructive-recovery).
 -   Wyrmtooth benefits from the Heavy weapon hit count for [Enchant](Enchantments.md) effects. For example, Detonation will proc after landing 3 hits instead of 4.
 -   In an update on 13th April, 2024, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame until June 9th, 2025, when the PEN was shadow fixed to 25%.
 -   Akin to the [Railblade](Railblade.md), it can only be wielded with one hand.

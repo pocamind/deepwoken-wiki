@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 173405
+revid: 179558
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | m.crit | Iron Spear |
 | m.compatible | Spears |
 | stances | 2 Handed, 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 5 |
 | bankable | Yes |

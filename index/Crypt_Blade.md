@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 179476
+revid: 179687
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -35,21 +35,18 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weap
 
 The **Crypt Blade** is a Legendary [Greatsword](Weapons.md); a stocky bull-necked hilt giving rise to an ominous blade serving as the crypt and final resting place of a previous generation, hence its name. The weapon itself is wreathed in waning shadow, and is made of a large and long forthright blade that is adorned in sharp symmetry and pallid patterns. The Crypt Blade scales off [Shadowcast](Shadowcast.md) alongside [Heavy Weapons](Attributes.md).
 
-The Crypt Blade comes with 3 passive abilities:
+The Crypt Blade comes with 2 passive abilities:
 
--   **Last Dead's Boon** - M1 attacks now steal ether.
-
--   **Shadow Affinity** - Non-mantra specific shadow Talents also proc on M1 attacks landed by a Crypt Blade. (e.g If the user has Sightless Still, M1 attacks apply [Obscured](Status_Effects.md))
-
--   **Wrathful Blade** - If used with Wraith Path: Twisted Puppets, your blade also procs black flames similarly to the Blazing Enchantment.
+1.  **Last Dead's Boon** - M1 attacks drain 22.5 Ether from the target on hit.
+2.  **Shadow Affinity** - Non-Mantra specific Shadowcast Talents proc on your basic attacks (e.g if the user has [Sightless Still](Talents.md#sightless-still), their basic attacks will apply [Obscured](Status_Effects.md#obscured)). This includes [Twisted Puppets'](Talents.md#wraith-path-twisted-puppets) Shadow burn status effect.
 
 ## Critical
 
-The user plunges the blade into the ground and releases an AoE circle surrounding them, inflicting Shadow and chaining everyone within it.
+The user plunges the blade into the ground and releases an AoE circle surrounding them, inflicting Shadow and chaining everyone within it. This additionally drains 45 Ether from the target on hit, an additional 10 Ether when the chain breaks.
 
--   If hit when chained, the chain will break and the opponent will receive three consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow.
-    -   Blocking and parrying will not cancel out this effect.
--   If the opponent goes beyond the length of the chain, they will be dragged back to the chains original position.
+If you hit a chained target, the chain will break and the opponent will receive three consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow. Blocking and parrying will not cancel out this effect.
+
+If the opponent attempts to go beyond the length of the chain, they will be dragged back to the chain's original position.
 
 The critical has a cooldown of **10 seconds**.
 

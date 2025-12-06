@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 175938
+revid: 179710
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons wit
 | m.equip | Yes |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 5 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 176981
+revid: 179643
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
@@ -23,6 +23,7 @@ categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
 | m.extract | Yes |
 | stances | 1 Handed |
 | offhand | Yes |
+| rarity | Rare |
 | selling price | 25 |
 | weight | 1 / 2.5 |
 | bankable | Yes |

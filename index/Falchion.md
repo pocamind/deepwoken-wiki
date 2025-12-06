@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 179540
+revid: 179722
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -21,7 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Uniqu
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
-| rarity | Uncommon |
+| rarity | Base, AlloyUncommonLegendary |
 | selling price | 10 |
 | weight | 4 / 5 |
 | bankable | Yes |

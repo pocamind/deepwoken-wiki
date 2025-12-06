@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 173953
+revid: 179738
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
 | m.extract | Yes |
 | stances | 1 Handed |
 | offhand | Yes |
+| rarity | Rare |
 | selling price | 50 |
 | weight | 4 |
 | bankable | Yes |

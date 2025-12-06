@@ -1,6 +1,6 @@
 ---
 title: Kyrsblade
-revid: 169546
+revid: 179562
 source: https://deepwoken.fandom.com/wiki/Kyrsblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | m.crit | Sword |
 | m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 6 |
 | bankable | Yes |

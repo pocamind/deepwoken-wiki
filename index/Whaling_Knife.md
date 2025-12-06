@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 168157
+revid: 179734
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | m.crit | Whaling Knife |
 | m.compatible | Daggers |
 | stances | 1 Handed |
+| rarity | Base, AlloyRareLegendary |
 | selling price | 25 / 50 |
 | weight | 4 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 175670
+revid: 179614
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | m.crit | Sword |
 | m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |

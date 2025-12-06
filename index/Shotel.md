@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 168148
+revid: 179726
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons]
@@ -24,6 +24,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | m.crit | Shotel |
 | m.compatible | Swords, Clubs, Twinblades, Spears, Bows |
 | stances | 2 Handed, 1 Handed |
+| rarity | Base, AlloyUncommonLegendary |
 | selling price | 25 |
 | weight | 4 |
 | bankable | Yes |

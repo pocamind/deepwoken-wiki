@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 178677
+revid: 179623
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Weapons with Unique Critica
 | m.crit | Serpent's Edge |
 | m.compatible | Swords, Spears |
 | stances | 2 Handed, 1 Handed |
+| rarity | Rare |
 | selling price | 25 |
 | weight | 6 |
 | bankable | Yes |

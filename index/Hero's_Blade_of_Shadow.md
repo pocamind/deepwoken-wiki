@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 176247
+revid: 179688
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
@@ -34,11 +35,9 @@ Meeting the ELM requirement, the damage is (26.2) for all the Hero Blades. At ma
 
 ## Critical
 
-The user quickly swings forward in a helical motion, manifesting the Hero of Shadow and slicing the opponent, stealing Ether.
+The user quickly swings forward in a helical motion, manifesting the Hero of Shadow and slicing the opponent, stealing Ether and proccing certain Shadowcast Talents.
 
-The critical deals 24 Shadowcast damage with 5 scaling, 10 posture, and has a 0.55s windup.
-
-If the user has Singularity or Sightless Still, the critical will apply additional effects based on the exclusive Talents.
+The critical deals 24 Shadowcast damage with 5 scaling, 10 posture damage, and has a 0.55s windup. This drains 15 Ether and restores 12 Ether to the caster. Additionally, it procs the [Sightless Still](Talents.md#sightless-still) and [Singularity](Talents.md#singularity) Talents on hit.
 
 The critical has a cooldown of **5 seconds**.
 

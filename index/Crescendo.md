@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 175236
+revid: 179565
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with M
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Legendary |
 | selling price | 70 |
 | weight | 6 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 178296
+revid: 179625
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -20,6 +20,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with T
 | m.equip | Yes |
 | m.extract | Yes |
 | stances | 2 Handed |
+| rarity | Rare |
 | selling price | 30 |
 | weight | 4 |
 | bankable | Yes |

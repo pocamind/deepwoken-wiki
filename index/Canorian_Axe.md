@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 179028
+revid: 179731
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -24,6 +24,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | m.crit | Battleaxe |
 | m.compatible | Greataxes |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Base, AlloyUncommonLegendary |
 | selling price | 25 |
 | weight | 6 / 8 |
 | bankable | Yes |

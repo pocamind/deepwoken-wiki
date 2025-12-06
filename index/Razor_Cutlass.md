@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 173418
+revid: 179663
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 | m.crit | Sword |
 | m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
+| rarity | Uncommon |
 | selling price | 25 |
 | weight | 8 |
 | bankable | Yes |

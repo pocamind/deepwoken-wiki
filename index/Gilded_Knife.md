@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 167516
+revid: 179606
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | m.crit | Stiletto |
 | m.compatible | Daggers |
 | stances | 1 Handed |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 4 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 178567
+revid: 179743
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -21,6 +21,8 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Relic |
+| selling price | 100 |
 | weight | 5 |
 | bankable | Yes |
 | droppable | Yes |

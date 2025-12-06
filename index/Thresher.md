@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 178529
+revid: 179617
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

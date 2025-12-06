@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 175654
+revid: 179661
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -23,6 +23,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Mult
 | m.crit | Nemit's Sickle |
 | m.compatible | Daggers |
 | stances | 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 4 |
 | bankable | Yes |

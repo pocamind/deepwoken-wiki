@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 156944
+revid: 179645
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -18,6 +18,7 @@ categories: [Weapons, Fists, Light Weapons]
 | swing speed | 1.11x |
 | m.equip | No |
 | m.extract | No |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 5 |
 | bankable | Yes |

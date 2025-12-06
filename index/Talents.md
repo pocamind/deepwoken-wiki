@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179406
+revid: 179691
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4326,7 +4326,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
 
 -   Inky Pearls: [Dark Pearls](Dark_Pearls.md) - The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether.
-    -   Turns your Vent black and makes it steal 40 Ether on hit.
+    -   Turns your Vent black and makes it drain 47.5 Ether on hit.
+    -   Increases your Vent's Ether cost on successful hit from 22.5 to 47.5.
     -   Your Vent can proc Shadowcast Talents on hit such as Twisted Puppet's Shadowcast flames and Sightless Still.
 
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.

@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 169604
+revid: 179723
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -23,6 +23,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | m.crit | Officer Saber |
 | m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
+| rarity | Base, AlloyUncommonRare |
 | selling price | 14 |
 | weight | 6 |
 | bankable | Yes |

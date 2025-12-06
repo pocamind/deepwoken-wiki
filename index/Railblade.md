@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 177688
+revid: 179711
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, Heavy Weapons, Weapons with multiple Criticals]
@@ -21,6 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Wea
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 8 |
 | bankable | Yes |

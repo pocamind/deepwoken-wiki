@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 175318
+revid: 179678
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
@@ -23,6 +23,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons wi
 | m.crit | Apprentice Rapier |
 | m.compatible | Rapiers |
 | stances | 1 Handed |
+| rarity | Rare |
 | selling price | 14 |
 | weight | 4 |
 | bankable | Yes |

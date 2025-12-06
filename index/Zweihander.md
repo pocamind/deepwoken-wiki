@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 179530
+revid: 179720
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons, Heavy Weapons]
@@ -24,7 +24,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons
 | m.crit | Soulwrought Greatsword |
 | m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| rarity | Uncommon |
+| rarity | Base, AlloyUncommonLegendary |
 | selling price | 14 |
 | weight | 7 |
 | bankable | Yes |

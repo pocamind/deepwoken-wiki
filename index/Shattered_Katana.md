@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 177379
+revid: 179550
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Rare |
 | selling price | 50 |
 | weight | 5 |
 | bankable | Yes |

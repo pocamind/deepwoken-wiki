@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 173414
+revid: 179561
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 5 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 169605
+revid: 179576
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -22,6 +22,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 7 |
 | bankable | Yes |

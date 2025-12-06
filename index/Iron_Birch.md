@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 176672
+revid: 179680
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -22,6 +22,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | m.crit | Battleaxe |
 | m.compatible | Greataxes |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Uncommon |
 | selling price | 50 |
 | weight | 4 |
 | bankable | Yes |

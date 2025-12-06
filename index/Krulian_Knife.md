@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 178346
+revid: 179655
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | m.crit | Krulian Knife |
 | m.compatible | Daggers |
 | stances | 1 Handed |
+| rarity | Legendary |
 | selling price | 100 |
 | weight | 4 |
 | bankable | Yes |

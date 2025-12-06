@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 179157
+revid: 179689
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -115,7 +115,8 @@ Shadow + Slash (Grab), Blunt (Slam)
 
 -   The grab has a base damage of 20/25/30/35/40 per level with 2.75 Shadowcast scaling.
 -   The slam has a base damage of 4/5/6/7/8 per level with 2.75 Shadowcast scaling.
--   Deals 6 posture damage.
+-   The grab drains 9.5/11.5/13/15/16.5 Ether per level with 2.75 Shadowcast scaling. The slam does not drain Ether.
+-   Deals 6 posture damage and does not follow through to the slam if blocked.
 -   Has an 11 second cooldown. If this Mantra is whiffed entirely (it cannot find a target), it will have a 3 second cooldown instead.
 -   Grab has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage), Slam has 59.47x PvE scaling (multiply damage dealt by 59.47 to get PvE damage).
 -   The grab deals Shadow + Slash damage, the slam deals pure Blunt damage.
@@ -156,12 +157,13 @@ Shadow + Slash
 **Effect:** _A dash foward that unsheathes your weapon and cuts three times with a shadow infused slice._
 
 -   Has a base damage of 10/11.5/13/14.5/16 per level, per hit (3, 4 with Tornado Spark) with 2.75 Shadowcast scaling.
+-   Drains 4.85/5.6/6.35/7.1/7.85 Ether per level, per hit (3, 4 with Tornado Spark) with 2.75 Shadowcast scaling.
 -   Deals 9 posture damage.
 -   Has a 12 second cooldown.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
 -   Adding [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) makes Dark Blade faster.
 -   Adding [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) increases the Ether drain.
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks), adding an additional spinning slash at the end of the initial slashes. (Extra 19.14 DMG)
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks), adding an additional spinning slash at the end of the initial slashes. This additional hit has the same damage and Ether drain as all other hits.
 
  |
 | 
@@ -196,12 +198,14 @@ Shadow
 **Effect:** _You fire a melee-ranged shot at your mouse cursor._
 
 -   Has a base damage of 25/28/31/34/37 per level with 2.75 Shadowcast scaling.
--   The Blast Spark variant has a base damage of 11.88/13.86/15.84/17.82/19.8 per level, per hit (3) with 2.75 Shadowcast scaling. Deals 160% of the base variant's damage if all hits land.
+-   Drains 27/30.5/33.5/37/40.5 Ether per level with 2.75 Shadowcast scaling.
 -   Unmodified variant guardbreaks at level 5.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   Adding [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
 -   Adding [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) will increase the height and width of the blast, this will however reduce the damage of the Mantra.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), making your Shadow Gun a barrage that deals more damage. It will, however, also remove the guaranteed guardbreak and double the Ether cost from what's displayed (i.e. a 40 Ether cost Shadow Gun will actually cost 80 of your Ether if a Blast Spark is equipped).
+    -   Has a base damage of 11.88/13.86/15.84/17.82/19.8 per level, per hit (3) with 2.75 Shadowcast scaling. Deals 160% of the base variant's damage if all hits land.
+    -   Drains 4.48/5.06/5.56/6.14/6.72 Ether per level, per hit (3) with 2.75 Shadowcast scaling. Drains 50% of the base variant's Ether if all hits land.
 
  |
 | 
@@ -235,7 +239,8 @@ Shadow
 
 **Effect:** _The user swipes with their right hand before conjuring three portals that launch shadow chains towards the users cursor. These chains slow your opponent and drain their Ether._
 
--   Has a base damage of 10.5/11.48/12.46/13.44/14.42 per level, per hit (3) with 2.75 Shadowcast scaling.
+-   Has a base damage of 10.5/11.48/12.46/13.44/14.42 per level, per hit (3, 4 at level 5) with 2.75 Shadowcast scaling.
+-   Drains 2.12/2.32/2.52/2.72/2.92 Ether per level, per hit (3, 4 at level 5) with 2.75 Shadowcast scaling.
 -   Deals no posture damage.
 -   Has a 15 second cooldown.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
@@ -278,6 +283,7 @@ Shadow
 **Effect:** _The user makes a swipe with their right hand before releasing a large sphere of shadow._
 
 -   Has a base damage of 20/21.5/23/24.5/26 per level with 2.75 Shadowcast scaling.
+-   Drains 4.85 Ether regardless of level, with 2.75 Shadowcast scaling.
 -   Deals 5 posture damage.
 -   Has a windup of 0.45 seconds with a 0.4 second delay before the second hit. Has a 12 second cooldown.
 -   The "second hit" does not deal damage and does not grant parry stun to the user if it is parried.
@@ -317,12 +323,13 @@ Shadow + Slash
 **Effect:** _The user snaps their fingers, and dozens of void orbs float out from their position and slowly chase_ nearby opponents.
 
 -   Has a base damage of 10/11/12/13/14 per level, per hit (5) with 2.75 Shadowcast scaling.
+-   Drains 2.45 Ether per hit, regardless of level, with 2.75 Shadowcast scaling.
 -   Deals 1 posture damage per hit (5).
 -   Has a 14 second cooldown.
 -   Shares a cooldown with Shadow Meteors.
 -   If attacked while casting, the Shadow Seekers will dissipate.
 -   You cannot use any Mantras for a long duration after casting this Mantra. This will end early if all of your Shadow Seekers hit your target.
--   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers. The amount of Seekers gained from modifiers scales on the Mantras level. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
+-   [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) increase the amount of Shadow Seekers, with every +1 size being an additional Seeker. Having more than 11 Shadow Seekers halves the base damage for each Seeker.
 
  |
 | 
@@ -357,6 +364,7 @@ Shadow, Blunt (Slam)
 **Effect:** _User moves their hands outward, creating a black tendril that chases nearby enemies. When connecting with an enemy, they will be lifted into the air and smashed into the ground._
 
 -   The first hit has a base damage of 15/18/21/24/27 per level. The second hit has a base damage of 5 regardless of level. Both hits have 2.75 Shadowcast scaling.
+-   Drains 2.5/3.5/4/4.625/5.25 Ether per level with 2.75 Shadowcast scaling.
 -   Deals 5 posture damage.
 -   Has a 10 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
@@ -397,6 +405,7 @@ Shadow
 **Effect:** _3 meteors fall down towards your cursor. Each meteor falls after the other and each can have a different landing location._
 
 -   Has a base damage of 25/27.5/30/32.5/35 per level, per hit (3) with 2.75 Shadowcast scaling.
+-   Drains 8.5/9.17/9.83/10.5/11.16 Ether per level, per hit (3) with 2.75 Shadowcast scaling.
 -   Deals 2 posture damage per hit (3).
 -   Has a 15 second cooldown.
 -   Has 9.179x PvE scaling (multiply damage dealt by 9.179 to get PvE damage).
@@ -436,6 +445,7 @@ Shadow
 **Effect:** _The user leans forward, locking themselves in place, before emitting a large cloud of shadow in front of them._
 
 -   Has a base damage of 5/6/7/8/9 per level, per hit (8) with 2.75 Shadowcast scaling.
+-   Drains 1.23/1.5/1.73/1.95/2.18 Ether per level, per hit (8) with 2.75 Shadowcast scaling.
 -   Deals 3 posture damage per hit (8).
 -   Has a windup of 0.6 seconds.
 -   Has 9.183x PvE scaling (multiply damage dealt by 9.183 to get PvE damage).
@@ -477,6 +487,7 @@ Shadow
 **Effect:** _The user performs a diagonal shadow-infused slash._
 
 -   Has a base damage of 20/24/28/32/36 per level with 2.75 Shadowcast scaling.
+-   Drains 9.25/11/13/14.5/17 Ether per level with 2.75 Shadowcast scaling.
 -   Deals 9 posture damage.
 -   Has a 15s cooldown.
 -   This attack bears strong resemblance to [Night Axe](Night_Axe.md)'s critical attack.
@@ -503,7 +514,8 @@ _Show your foes your strength._
 
  | 
 
-Shadow, Mul. Spark: Blunt (1st Hit), Shadow
+Shadow  
+Mult. Spark: Blunt (1st Hit), Shadow (2nd Hit)
 
  | 
 
@@ -515,14 +527,16 @@ Shadow, Mul. Spark: Blunt (1st Hit), Shadow
 **Effect:** _The user performs a slow axe kick, causing nearby opponents to be ragdolled and flung back._
 
 -   Has a base damage of 65/77.5/90/102.5/115 per level with 2.75 Shadowcast scaling.
--   The Multiplying Spark variant's kick has a base damage of 5/6/7/8/9 per level. The main Eclipse Kick's damage is reduced however, having a base damage of 52/62/72/82/92 per level. Both hits have 2.75 Shadowcast scaling.
+-   Drains 33.25/38.98/44.7/50.425/56.15 Ether per level with 2.75 Shadowcast scaling.
 -   Has a 1 second windup with hyperarmor and a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   The axe kick does not proc [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does.
 -   The Multiplying Spark initial kick does pure Blunt damage, the main Eclipse Kick attack deals pure Shadowcast damage.
 -   Can also break certain tiles and fell trees.
 -   Eclipse Kick is unaffected by [Insignia Gem](Insignia_Gem.md).
--   If a [Multiplying Spark](Mantra_Modifiers.md#sparks) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage than the unmodified variant.
+-   If a [Multiplying Spark](Mantra_Modifiers.md#sparks) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage and Ether drain than the unmodified variant.
+    -   The first kick has a base damage of 5/6/7/8/9 per level. The second kick has a base damage of 52/62/72/82/92 per level. Both hits have 2.75 Shadowcast scaling.
+    -   The first kick drains 24.94/29.23/33.53/37.82/42.11 Ether per level. The second kick drains 26.58/31.18/35.76/40.34/56.15 Ether per level. Both hits have 2.75 Shadowcast scaling.
 
  |
 | 
@@ -557,16 +571,17 @@ Shadow + Slash
 **Effect:** _User creates a large black sword from their hands, using it to slash the enemy in front of them._
 
 -   Has a base damage of 22.5/25.5/28.5/31.5/34.5 per level with 2.75 Shadowcast scaling.
--   The Multiplying Spark variant has a base damage of 15/17/19/21/23 per level, per hit (3) with 2.75 Shadowcast scaling. This deals 2x the damage of the unmodified variant.
--   Combining the Multiplying and Spring Sparks makes Shade Bringer perform a leaping slash that deals the damage of the unmodified variant followed up by 2 horizontal slashes with a base damage of 13.5/15.3/17.1/20.7 per level each. All hits have 2.75 Shadowcast scaling. This deals 2.2x the total damage of the unmodified variant.
+-   Drains 2.32/2.48/2.52/2.68/2.72 Ether per level, per hit (1, 3 with Multiplying Spark) with 2.75 Shadowcast scaling.
 -   Deals 13 posture damage per hit (1, 3 with Multiplying Spark).
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   Cannot be feinted.
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), making you lunge forward and slam down on the enemy.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
+    -   Has a base damage of 15/17/19/21/23 per level, per hit (3) with 2.75 Shadowcast scaling. This deals 2x the damage of the unmodified variant.
 -   You **can** combine the [Spring](Mantra_Modifiers.md#sparks) and [Multiplying Sparks](Mantra_Modifiers.md#sparks) on this Mantra, performing 2 horizontal slashes into a leaping lunge attack.
--   Can be modified with [Reversal Spark](Mantra_Modifiers.md#reversal-spark), but it's currently unknown what it does.
+    -   Has a base damage of 13.5/15.3/17.1/20.7 pee hit (3), per level with 2.75 Shadowcast scaling. This deals 2.2x the total damage of the unmodified variant.
+-   Can be modified with [Reversal Spark](Mantra_Modifiers.md#sparks), but it's currently unknown what it does.
 
  |
 | 
@@ -678,6 +693,7 @@ Shadow + Slash
 **Effect:** _The user will summon shadows around their target and teleport to them after a short delay._
 
 -   Has a base damage of 10/15/20/25/30 per level with 2.75 Shadowcast scaling.
+-   Drains 0.8/1.2/1.6/2/2.4 Ether per level with 2.75 Shadowcast scaling.
 -   Deals 6 posture damage.
 -   Has a windup of 1 second with a 10 second cooldown.
 -   Attacks initiated during the windup will continue after the teleport, but Mantras cannot be cast during Encircle's windup.
@@ -716,6 +732,7 @@ Shadow
 **Effect:** _Dive into the ground as a shadow while leaving trails of shadows before creating a shadow spike that sends your enemies upwards._
 
 -   Has a base damage of 20/21.5/23/24.5/26 per level with 2.75 Shadowcast scaling.
+-   Drains 5 Ether regardless of level, with 2.75 Shadowcast scaling.
 -   Deals 13 posture damage.
 -   After ~3s (or sooner if player uses left click) you jump out creating a shadow 'Spike' that pierces enemies.
 -   Has 9.178x PvE scaling (multiply damage dealt by 9.178 to get PvE damage).
@@ -760,6 +777,8 @@ Shadow + Slash/Blunt (Bl. Spark)
 
 -   Has a base damage of 8/12/24/36/48 with 2.75 Shadowcast scaling.
 -   The Blast Spark variant has a base damage of 0.52/0.78/1.57/2.35/3.14 per level, per hit (20) with 2.75 Shadowcast scaling.
+-   Drains 1.5/2.28/6/7/9.33 Ether per level with 2.75 Shadowcast scaling.
+-   The Blast Spark variant drains 1.35/2.05/4.16/6.3/8.4 Ether per level on the initial hit and 2.25/4.16/12/14/18.66 Ether per level on all subsequent hits. This has 2.75 Shadowcast scaling.
 -   Deals 1.5/2.5/4.5/6.5/8.5 posture damage per level.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   Its distance is reduced by 60% when used in water.
@@ -835,12 +854,14 @@ Shadow
 -   Consumes 5% of your maximum health as **typeless** damage on cast.
 -   Has a base damage of 7/8.65/10.3/11.95/13.6 per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
 -   The Blast Spark variant has a base damage of 14/15.65/17.3/18.95/20.6 per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
+-   Drains 3.32/4.16/5/5.84/6.68 Ether per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
+-   The Blast Spark variant drains 6.64/7.48/8.32/9.16/10 Ether per level, per hit (1, 3 if Multiplying Spark) with 2.75 Shadowcast scaling.
 -   Deals 8 posture damage per hit (1, 3 if Multiplying Spark). The Blast Spark variant guardbreaks.
 -   Has a 19 second cooldown.
 -   Has 9.177x PvE scaling (multiply damage dealt by 9.177 to get PvE damage).
 -   The damage buff can be increased with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
 -   It has a base duration of 12 seconds that can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration of buff to a cap of 21 seconds.
--   [Spine Cutter](Talents.md#vigil-swordsman) cannot be used while Shade Devour is active
+-   The [Spine Cutter](Talents.md#spine-cutter) Talent cannot be used while Shade Devour is active
 -   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a bigger shockwave that guardbreaks.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
@@ -1023,6 +1044,7 @@ Puppets turn purple if they've been alive for 15 seconds, signifying that they o
 
 ## Trivia
 
+-   The Ether drain of Mantras is affected by [Songchant](Traits.md#songchant).
 -   In past updates the selection icon for Shadowcast had the same art as [Flamecharm](Flamecharm.md), but was oddly tinted white.
 -   Many factions view the use of Shadowcast as taboo due to the nature of the Attunement.
 -   **Shadow Vortex** is a reference to Planetary Devastation from _Naruto Shippuden_.
@@ -1034,7 +1056,7 @@ Puppets turn purple if they've been alive for 15 seconds, signifying that they o
     -   An interesting example of this would be using a Blast Spark on **Shadow Gun**, giving it a striking resemblance to Duelist Dash from _Rogue Lineage_ (and by extension, Cero Metralleta from _Bleach_).
     -   Base **Shadow Gun**'s animation is identical to the Duelist's M2 from _Rogue Lineage_.
 -   Similarly to every other ritual cast Mantra, **Shade Wisp** gives the player a finger on the hand that casts the Mantra.
--   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart Oath](Oath%253A_Silentheart.md), but only to upgrade Shadowcast Mantras without going to Scyphozia.
+-   Shadowcast is the only Attunement to have two trainers: [Nostor](Nostor,_Master_of_Shadow.md) and [Beatra](Beatra.md). However, Beatra cannot be used to obtain Shadowcast or to progress the [Silentheart](Oath%253A_Silentheart.md) Oath, but only to upgrade Shadowcast Mantras without going to Scyphozia.
 -   Shadowcast appears to be the attunement associated with [the Ministry](The_Ministry.md), although NPCs not associated can be seen using it.
 -   Shadowcast is likely a reference to Re: Zero's [Shadow Magic, or otherwise Yin Magic](https://rezero.fandom.com/wiki/Magic#). This is seen as Shadow Magic is said to have very similar properties, instilling fear, stopping movement, etc.
 -   Shadowcast and [Bloodrend](Bloodrend.md) are the only attunements to not have their own respective paths.

@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 175679
+revid: 179674
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -24,6 +24,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | m.crit | Battleaxe |
 | m.compatible | Greataxes |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Rare |
 | selling price | 75 |
 | weight | 10 |
 | bankable | Yes |

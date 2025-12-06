@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 176205
+revid: 179735
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
@@ -21,7 +21,8 @@ categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, L
 | m.equip | Yes |
 | m.extract | No |
 | stances | 1 Handed |
-| selling price | 14 / ?? |
+| rarity | Base, AlloyUncommonLegendary |
+| selling price | 14 |
 | weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
@@ -32,13 +33,13 @@ categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, L
 
 ### Description
 
-The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. it is noticeably slower than most of the other daggers, with a swing speed of 1.13. For comparison, the [Krulian Knife](Krulian_Knife.md) has a swing speed of 1.25x. To make up for its lack of speed, it outranges most other daggers in the game. This weapon can also be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md).
+The Tanto is a high tier dagger type weapon with a requirement of 50 LHT. It is noticeably slower than most of the other daggers, but to make up for its lack of speed, it outranges most other daggers in the game. This weapon can also be upgraded with a [Pluripotent Alloy](Pluripotent_Alloy.md), turning it into an endgame variant.
 
 ## Critical
 
 A short windup before jumping in the air and slashing forwards in a cartwheel-like motion.
 
-Deal 1.25x + .375x bleed = 1.625x
+This attack has a scaled damage multiplier of 1.25x and has innate [Bleed](Status_Effects.md#bleed).
 
 ### Damage
 

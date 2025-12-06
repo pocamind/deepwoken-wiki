@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 179535
+revid: 179719
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -25,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | m.crit | Pale Morning |
 | m.compatible | Greathammers |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| rarity | Common |
+| rarity | Base, AlloyCommonLegendary |
 | selling price | 7 |
 | weight | 7 |
 | bankable | Yes |

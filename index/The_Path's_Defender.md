@@ -1,6 +1,6 @@
 ---
 title: "The Path's Defender"
-revid: 177193
+revid: 179673
 source: https://deepwoken.fandom.com/wiki/The_Path's_Defender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Shields]
@@ -14,6 +14,7 @@ categories: [Weapons, Offhand, Shields]
 | requirements | 75 FTD |
 | special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
+| rarity | Rare |
 | selling price | 25 |
 | weight | 10 |
 | bankable | Yes |

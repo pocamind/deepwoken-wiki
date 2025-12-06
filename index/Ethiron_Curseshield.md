@@ -1,6 +1,6 @@
 ---
 title: Ethiron Curseshield
-revid: 175258
+revid: 179704
 source: https://deepwoken.fandom.com/wiki/Ethiron_Curseshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -14,6 +14,7 @@ categories: [Weapons, Shields, Offhand]
 | requirements | 50 FTD |
 | special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 7 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 175335
+revid: 179692
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand]
@@ -18,6 +18,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | endlag | 0.1s |
 | special effect | Recover 30% more posture from parries. |
 | offhand | Offhand only |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 3 |
 | bankable | Yes |

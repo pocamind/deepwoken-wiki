@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 178692
+revid: 179578
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -22,6 +22,8 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
+| selling price | 100 |
 | weight | 4 |
 | bankable | Yes |
 | droppable | Yes |

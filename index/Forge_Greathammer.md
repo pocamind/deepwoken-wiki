@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 169894
+revid: 179742
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -18,6 +18,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons 
 | endlag | 0.1s / N/A |
 | m.equip | No |
 | m.extract | No |
+| rarity | Base, AlloyUncommonLegendary |
 | selling price | 14 |
 | weight | 9 / 9.5 |
 | bankable | Yes |

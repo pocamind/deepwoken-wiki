@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 175668
+revid: 179649
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents]
@@ -22,6 +22,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | m.crit | Stiletto |
 | m.compatible | Daggers |
 | stances | 1 Handed |
+| rarity | Common |
 | selling price | 7 |
 | weight | 2 |
 | bankable | Yes |

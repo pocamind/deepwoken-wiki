@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 177342
+revid: 179575
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Light Weapons, Weapons with multiple Criticals]
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 4 |
 | bankable | Yes |

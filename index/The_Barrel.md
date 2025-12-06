@@ -1,9 +1,9 @@
 ---
 title: The Barrel
-revid: 172186
+revid: 179624
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons]
+categories: [Pages using duplicate arguments in template calls, Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons]
 ---
 
 # The Barrel

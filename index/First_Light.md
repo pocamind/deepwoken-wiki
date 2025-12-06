@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 178177
+revid: 179712
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -21,6 +21,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with U
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Mythical |
 | selling price | 100 |
 | weight | 9 |
 | bankable | Yes |
@@ -39,7 +40,7 @@ The First Light is a [Heavy Weapon](Weapons.md) obtained as a rare direct drop f
 The user plunges the greatsword into the ground, similar to Flame Eruption, causing everyone near the user to be burned briefly. This is followed up with flaming swords raining from the sky, similar to the [Crimson Megalodaunt](Crimson_Megalodaunt.md)'s Pyroclastic Roar. **Both** parts of this critical scale solely on your **[Flamecharm](Flamecharm.md) investment**.
 
 The plunge deals 25 [Flamecharm](Flamecharm.md) damage with 5 Flamecharm scaling (gains 0.125 damage per point in Flamecharm), 5 posture damage, and **applies burn**. The critical will end early if this attack is parried.  
-The swords from the sword rain deal 14 Flamecharm damage with 5 Flamecharm scaling (gains 0.07 damage per point in Flamecharm) and 3.5 posture damage. The swords **do not apply burn** and **cannot proc any enchant or "on critical" Talent effect** (like [Manipulator](Talents.md#toxic-personality)). The swords are also 360 blockable.
+The swords from the sword rain deal 14 Flamecharm damage with 5 Flamecharm scaling (gains 0.07 damage per point in Flamecharm) and 3.5 posture damage. The swords **do not apply burn** and **cannot proc any enchant or "on critical" Talent effect** (like [Manipulator](Talents.md#manipulator)). The swords are also 360 blockable.
 
 This critical is mostly used as a distraction or pressure as opposed to dealing actual damage due to the randomness of the swords and the large area it covers. The critical has a cooldown of **25 seconds**.
 

@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 173594
+revid: 179753
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | m.equip | Yes |
 | m.extract | Yes |
 | stances | 2 Handed |
+| rarity | Uncommon |
 | selling price | 14 |
 | weight | 4 |
 | bankable | Yes |

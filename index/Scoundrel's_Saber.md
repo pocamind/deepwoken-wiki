@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 175428
+revid: 179684
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 5.5 |
 | bankable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 164363
+revid: 179755
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -67,6 +67,8 @@ As for its appearance, **nothing** is added to your outfit, making it impossible
 
 There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent category that require Oathless to be obtained. These Talents focus on the usage of every [Attunement's](Attunements.md) Wisp Mantra. **These Talents are not given by the Oathless Oath directly, but instead require the Oath as a prerequisite.**
 
+Despite keeping these talents after oathbreaking, **they do not function without the oathless oath**.
+
 -   **Chorus of Souls** - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
     -   Grants heightened health regeneration while all Wisps are active.
     -   Prerequisites: Oathless, 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
@@ -81,6 +83,8 @@ There are two talents in the [Sage of Wisps](Talents.md#sage-of-wisps) Talent ca
 ### Combat Mantras
 
 After obtaining the [Chorus of Souls](Talents.md#sage-of-wisps) Talent and obtaining a [Resonance](Resonance.md), you will be able to speak to [Sibex](Sibex.md) to unlock the **Soul Beam** Mantra. **This Mantra is not given by the Oathless Oath directly, but instead requires the Oath as a prerequisite.** It is then obtained from a [Whisper Draw](Whisper_Draw.md).
+
+Upon soulbreaking **Soul Beam is removed from your character without granting a compensating whisper roll.**
 
 | 
 **Name**
