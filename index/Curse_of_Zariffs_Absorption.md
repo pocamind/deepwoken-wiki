@@ -1,6 +1,6 @@
 ---
 title: Curse of Zariffs Absorption
-revid: 179209
+revid: 179795
 source: https://deepwoken.fandom.com/wiki/Curse_of_Zariffs_Absorption
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -32,7 +32,3 @@ Confirmed by yayafino, Curse of Zariffs Absorption allowed you to temporarily st
 ### Curse
 
 The Curse effect of this Enchantment is unknown.
-
-### Notes
-
--   This enchantment was confirmed to be cut content by developer yayafino.

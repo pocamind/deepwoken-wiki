@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 179199
+revid: 179799
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -27,7 +27,7 @@ This enchantment changes your weapon's color to a golden hue with golden particl
 
 ## Effect
 
-Curse of Captain Greene increases your weapon's **base** damage based on how many Notes you have, granting a 0.001% damage increase for every [Note](Notes.md) you have, capping at +15% damage at 15,000.
+Curse of Captain Greene increases your weapon's **base** damage by 0.001% for every [Note](Notes.md) you have. This caps at +15% base damage at 15,000.
 
 Additionally, upon dealing damage to a player with your weapon, steal 50 from them.
 

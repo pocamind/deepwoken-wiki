@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179691
+revid: 179788
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3270,6 +3270,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Specter
 
 -   Haunted Path: Specter \[Common Talent, Galebreathe Exclusive\] - Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.
+    -   Any Talent that **requires** you to have suffocated an enemy beforehand to activate, such as [Silencer's Song](#silencers-song), will be unable to, making them not worth taking.
+    -   Any Talent or Mantra that **applies** suffocation will have the status effect replaced with a Haunted Phantom.
     -   Prerequisites: Haunted Gale, 50 Galebreathe
 
 -   Apparitions \[Common Talent, Galebreathe Exclusive\] - Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.

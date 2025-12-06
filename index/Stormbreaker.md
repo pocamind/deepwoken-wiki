@@ -1,6 +1,6 @@
 ---
 title: Stormbreaker
-revid: 179273
+revid: 179791
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -38,5 +38,5 @@ Stormbreaker's critical deals 25 flat Thundercall damage on throw and 18.75 flat
 ### Notes
 
 -   Stormbreaker's secondary damage instance cannot be buffed.
--   Because Stormbreaker's secondary damage instance and critical deal Thundercall damage, you can use this enchantment to trick [Everchanging Aegis](Talents.md#everchanging-aegis) to change its resistance to Thundercall resistance.
+-   Because Stormbreaker's secondary damage instance and critical deal Thundercall damage, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Thundercall resistance, allowing the first hit of your non-Thundercall attuned Mantras to deal 10% more damage against players using this Talent.
 -   Stormbreaker's base effect is essentially a better version of [Storm](Storm.md)'s, as it does not get double resisted.

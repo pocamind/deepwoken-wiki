@@ -1,6 +1,6 @@
 ---
 title: "JOE's"
-revid: 179206
+revid: 179801
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments]
@@ -29,6 +29,6 @@ The visual change for your weapon is unknown, as nobody has this enchantment, th
 
 JOE's's effects are entirely unknown, though based on its description, it might be a PvE-based enchantment.
 
-### Notes
+## Trivia
 
--   No non-developer player has ever obtained this enchantment, as every event that occurred with this as the reward ended with nobody winning.
+-   No non-developer player has ever obtained this enchantment, as every event that occurred with this as the reward have ended with no winners. This is largely why this enchantment's effects are undocumented.

@@ -1,6 +1,6 @@
 ---
 title: Gluttony
-revid: 179256
+revid: 179805
 source: https://deepwoken.fandom.com/wiki/Gluttony
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -27,9 +27,9 @@ This enchantment covers your weapon in a brownish-orange mist.
 
 On weapon hit Gluttony steals stomach and water from your opponent and gives it to yourself. The amount of water and stomach stolen scales on your weapon's scaled damage.
 
+Gluttony's sustenance steal is **not** affected by the [Glutton](Boons_and_Flaws.md#glutton) Flaw nor damage modifiers, but it **is** affected by damage resistances. With that being said, Gluttony's sustenance steal has the following formula: 0.15 × S c a l e d D a m a g e × ( 1 − R e s i s t a n c e s 100 ) + 2 {\\displaystyle 0.15\\times ScaledDamage\\times (1-{\\frac {Resistances}{100}})+2} {\\displaystyle 0.15\\times ScaledDamage\\times (1-{\\frac {Resistances}{100}})+2}.
+
 ### Notes
 
--   Gluttony's sustenance steal formula is as follows: 0.15 \* weapon scaled damage + 2.
--   Gluttony's sustenance steal is **not** affected by the [Glutton](Boons_and_Flaws.md#glutton) Flaw nor damage modifiers.
--   Gluttony's sustenance steal will be lessened if your opponent has damage resistances.
+-   For example a 50 scaled damage weapon against 30% resistance would look like this: 0.15 \* 50 \* (1 - 30/100) + 2 = 7.25 stomach and water stolen per hit.
 -   The [Chef's Toque](<Chef's_Toque.md>) Talent, _Umami_ also has a saturation steal effect. This stacks additively with Gluttony.

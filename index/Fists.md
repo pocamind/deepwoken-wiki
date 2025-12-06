@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 179462
+revid: 179785
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -30,7 +30,7 @@ categories: [Weapons, Fists, Light Weapons]
 
 Fists are a unique type of [Light Weapon](Weapons.md) in _Deepwoken_.
 
-There are 5 different fist styles and 3 of them share the ability to be switched between at any time, even mid-combat, those being Fang & Coil, Legion Kata, and Way of Navae.
+There are 5 different fist styles and 4 of them share the ability to be switched between at any time, even mid-combat, those being Fang & Coil, Legion Kata, Imperium Kata, and Way of Navae.
 
 ## Terminology
 

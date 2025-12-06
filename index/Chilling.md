@@ -1,6 +1,6 @@
 ---
 title: Chilling
-revid: 179240
+revid: 179792
 source: https://deepwoken.fandom.com/wiki/Chilling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -35,4 +35,4 @@ The hit count required to proc this enchantment varies based on your weapon type
 
 -   Chilling's secondary damage instance cannot be buffed.
 -   Chilling's effects can be procced on weapon criticals if they have the M1 tag.
--   Because Chilling's secondary damage instance deals Frostdraw damage, you can use this enchantment to trick [Everchanging Aegis](Talents.md#everchanging-aegis) to change its resistance to Frostdraw resistance.
+-   Because Chilling's secondary damage instance deals Frostdraw damage, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Frostdraw resistance, allowing the first hit of your non-Frostdraw attuned Mantras to deal 10% more damage against players using this Talent.

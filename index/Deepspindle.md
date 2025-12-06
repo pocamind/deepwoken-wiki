@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 179479
+revid: 179807
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -53,7 +53,7 @@ Utilizing the Deepspindle with [Darkened Bastion](Darkened_Bastion.md) Outfit eq
 
 The Deepspindle has two different critical attacks.
 
-For the **standing** critical, the user thrusts the weapon forward with both hands, dealing high posture and marking the target with a [purple telegraph](Combat_Mechanics.md#purple) before erupting in several dark blasts, dealing Shadow damage. The blasts cannot be parried after the initial hit however, you can vent out of it. The standing critical deals 1x scaled damage on the thrust, followed by the blasts dealing 0.2x \* 7 scaled damage, totaling to 2.4x scaled damage.
+For the **standing** critical, the user thrusts the weapon forward with both hands, dealing high posture damage and marking the target with a [purple telegraph](Combat_Mechanics.md#purple) before erupting in several dark blasts, dealing Shadow damage. The blasts cannot be parried after the initial hit however, you can vent out of it. The standing critical deals 1x scaled damage on the thrust, followed by the blasts dealing 0.2x \* 7 scaled damage, totaling to 2.4x scaled damage.
 
 For the **running** critical, the user stabs the weapon into themselves, dealing self-damage and creating dark bullets. The projectiles will teleport to the target and grant the user the [Dark Rift](Talents.md#dark-rift) state after landing, which has a 20 second cooldown. The self-damage is removed if you have the [Deepscorn Casque](Deepscorn_Casque.md) headgear equipped. Each bullet deals 1x scaled damage, totaling to 2x scaled damage.
 

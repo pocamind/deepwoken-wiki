@@ -1,6 +1,6 @@
 ---
 title: Tainted Sorrow
-revid: 179205
+revid: 179803
 source: https://deepwoken.fandom.com/wiki/Tainted_Sorrow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -35,5 +35,8 @@ Upon landing three M1s in quick succession, your weapon will gain new unique pro
 
 ### Notes
 
--   Many copies of this enchant still exist, as it was formerly obtainable.
 -   More information on this enchantment can be found [here](https://www.youtube.com/watch?v=9elIPs-rTi0).
+
+## Trivia
+
+-   Though few in number, some copies of this enchant still exist, as it was formerly obtainable.

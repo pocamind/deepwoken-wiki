@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 178204
+revid: 179784
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
@@ -41,63 +41,63 @@ You meet him a second time after completing the event and accepting the challeng
 
 This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens their lives if they don't leave and creates a line of ice with a unique mantra. The leader of the Union research platoon claims that "This one's sanity must've already crumbled," and seems unfazed before approaching him and walking past the line, which causes Akira to say, "So be it," and uses his Corrupted Top-Pop to cause their heads to explode.
 
-After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 100 required to pass it.) Once you talk to him, he asks if you're another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
+After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 75 required to pass it.) Once you talk to him, he asks if you're another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
 
 **Initial Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Another one..? You've got to be kidding me.</td>
+  <td colspan="4">Another one..? You've got to be kidding me.</td>
 </tr>
 <tr>
-  <td colspan="6">Wait, I'm not with them.</td>
-  <td colspan="6">Don't mess with the Ignition Union, snake-eyed bookworm trash.</td>
+  <td colspan="2">Wait, I'm not with them.</td>
+  <td colspan="2">Don't mess with the Ignition Union, snake-eyed bookworm trash. [Charisma]</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*The menacing-looking man scans you up and down skeptically for a moment.*</i> Well, either way it seems you know your place.</td>
-  <td colspan="3"><b>Requirements met (100 Charisma)</b></td>
-  <td colspan="3"><b>Requirements not met</b></td>
+  <td colspan="2"><i>*The menacing-looking man scans you up and down skeptically for a moment.*</i> Well, either way it seems you know your place.</td>
+  <td>[Requirements met (75 Charisma)]</td>
+  <td>[Requirements not met]</td>
 </tr>
 <tr>
-  <td colspan="6">What are you doing down here?</td>
-  <td colspan="3"><i>*The man blinks twice, apparently stunned by your words.*</i></td>
-  <td colspan="3">So be it...</td>
+  <td colspan="2">What are you doing down here?</td>
+  <td><i>*The man blinks twice, apparently stunned by your words.*</i></td>
+  <td>So be it...</td>
 </tr>
 <tr>
-  <td colspan="6">A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.</td>
-  <td colspan="3">Akira returns to Castle Light (End)</td>
-  <td colspan="3">Player is wiped (End)</td>
+  <td colspan="2">A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.</td>
+  <td>End, Akira returns to Castle Light</td>
+  <td>End, the player's head pops <b>instantly killing and wiping them</b></td>
 </tr>
 <tr>
-  <td colspan="6">Research platoon?</td>
+  <td colspan="2">Research platoon?</td>
 </tr>
 <tr>
-  <td colspan="3">Is there something surprising about that or are you just uneducated..? We're currently in the Depths, we Divers blow boatloads of Authority funding on expeditions down here.</td>
+  <td colspan="2">Is there something surprising about that or are you just uneducated..? We're currently in the Depths, we Divers blow boatloads of Authority funding on expeditions down here.</td>
 </tr>
 <tr>
-  <td colspan="6">I just thought the Divers didn't kill people as you did.</td>
+  <td colspan="2">I just thought the Divers didn't kill people as you did.</td>
 </tr>
 <tr>
-  <td colspan="3">Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the Depths for all I care. My judgment is absolute.</td>
+  <td colspan="2">Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the Depths for all I care. My judgment is absolute.</td>
 </tr>
 <tr>
-  <td colspan="6">Who are you?</td>
+  <td colspan="2">Who are you?</td>
 </tr>
 <tr>
-  <td colspan="3">If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank <i>Black Diver</i>, in charge of research site pre-clearing and new recruit field training.</td>
+  <td colspan="2">If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank <i>Black Diver</i>, in charge of research site pre-clearing and new recruit field training.</td>
 </tr>
 <tr>
-  <td colspan="6">I want to join the Divers.</td>
+  <td colspan="2">I want to join the Divers.</td>
 </tr>
 <tr>
-  <td colspan="3">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to Castle Light in one piece and we'll see about your recruitment there.</td>
+  <td colspan="2">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to Castle Light in one piece and we'll see about your recruitment there.</td>
 </tr>
 <tr>
-  <td colspan="3">Akira returns to Castle Light (End)</td>
+  <td colspan="2">End, Akira returns to Castle Light</td>
 </tr>
 </tbody>
 </table>
@@ -107,19 +107,19 @@ After this you are able to talk to Akira, in which he has two different conversa
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Please don't disturb my reading.</td>
+  <td>Please don't disturb my reading.</td>
 </tr>
 <tr>
-  <td colspan="12">Does this kind of thing happen often or something?</td>
+  <td>Does this kind of thing happen often or something?</td>
 </tr>
 <tr>
-  <td colspan="12">More than you know.. more than you know.</td>
+  <td>More than you know.. more than you know.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -129,67 +129,67 @@ After this you are able to talk to Akira, in which he has two different conversa
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Do you have some sort of reason for being here? This is territory of the Divers.</td>
+  <td>Do you have some sort of reason for being here? This is territory of the Divers.</td>
 </tr>
 <tr>
-  <td colspan="12">We met before, I want to join the Divers.</td>
+  <td>We met before, I want to join the Divers.</td>
 </tr>
 <tr>
-  <td colspan="12">Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.</td>
+  <td>Oh, right.. You're serious, huh? I don't know what part of a diver's work you're interested in, but if you're resourceful enough to get through the life field protecting this place, you're smart enough to know that you're walking to your grave, surely.</td>
 </tr>
 <tr>
-  <td colspan="12">To my grave?</td>
+  <td>To my grave?</td>
 </tr>
 <tr>
-  <td colspan="12">That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.</td>
+  <td>That's right. I've been a diver close to ten years now. Every year, I meet hundreds of new ambitious recruits anxious to begin their research and so on, and by the end of the year only one or two will remain.</td>
 </tr>
 <tr>
-  <td colspan="12">Only one or two?</td>
+  <td>Only one or two?</td>
 </tr>
 <tr>
-  <td colspan="12">Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though.</td>
+  <td>Only one or two. If you seriously want to join an organization with a 98% annual casualty rate, then by all means, you're welcome to. I can't promise you that it'll go well for you, though.</td>
 </tr>
 <tr>
-  <td colspan="12">I want to join.</td>
+  <td>I want to join.</td>
 </tr>
 <tr>
-  <td colspan="12">Don't say I didn't warn you.</td>
+  <td>Don't say I didn't warn you.</td>
 </tr>
 <tr>
-  <td colspan="12"><b>(Prompt appears to join the Divers guild)</b></td>
+  <td><b>(Prompt appears to join the Divers guild)</b></td>
 </tr>
 <tr>
-  <td colspan="12">Sounds fun.</td>
+  <td>Sounds fun.</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*Akira blinks twice, apparently stunned, before smirking whilst replying,*</i> That may be the spirit needed to join the 2%.</td>
+  <td><i>*Akira blinks twice, apparently stunned, before smirking whilst replying,*</i> That may be the spirit needed to join the 2%.</td>
 </tr>
 <tr>
-  <td colspan="12">Hanging around here isn't going to make any progress for us. Get out there and get to work.</td>
+  <td>Hanging around here isn't going to make any progress for us. Get out there and get to work.</td>
 </tr>
 <tr>
-  <td colspan="12">What exactly should I be doing?</td>
+  <td>What exactly should I be doing?</td>
 </tr>
 <tr>
-  <td colspan="12">You should be out there scouring this layer for artifacts, items imbued with affinity to the Depths, that sort of thing.</td>
+  <td>You should be out there scouring this layer for artifacts, items imbued with affinity to the Depths, that sort of thing.</td>
 </tr>
 <tr>
-  <td colspan="12">Then why are you waiting here?</td>
+  <td>Then why are you waiting here?</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*You feel murderous intent wash over you as the man glares in your direction*</i> Come again? I didn't quite hear you.</td>
+  <td><i>*You feel murderous intent wash over you as the man glares in your direction*</i> Come again? I didn't quite hear you.</td>
 </tr>
 <tr>
-  <td colspan="12">Nothing.</td>
+  <td>Nothing.</td>
 </tr>
 <tr>
-  <td colspan="12">As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.</td>
+  <td>As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Harrowing
-revid: 179259
+revid: 179806
 source: https://deepwoken.fandom.com/wiki/Harrowing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -29,5 +29,5 @@ On M1, Harrowing inflicts the [Harrowing](Status_Effects.md#harrowing) status ef
 
 ### Notes
 
--   Landing another M1 while Harrowing is active will refresh the debuff.
+-   Landing another M1 while Harrowing is active will refresh the debuff's duration.
 -   Harrowing's effects can be procced on weapon criticals if they have the M1 tag.
