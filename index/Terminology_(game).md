@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 179182
+revid: 179851
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -31,7 +31,7 @@ _noun_
 
 1.  A shortened version of "[Chime of Conflict](Chime_of_Conflict.md)".
 
-### Comp
+### Comp/Compy
 
 _adjective_
 
@@ -151,13 +151,13 @@ _noun_
 
 1.  A combo that, when the first hit or a certain hit lands, subsequent hits can **not** be avoided by any means, leading to guaranteed (or **true**) damage.
 
-#### Bossraid
+### Bossraid
 
 _verb, adjective_
 
 1.  To fight a group of players by yourself, usually at least 3.
     1.  Ex. "I'm bossraiding them, they're trash
-2.  An adjective that describes a build used for bossraiding.
+2.  An adjective that describes a build designed for bossraiding.
 
 ### Counter
 
@@ -193,6 +193,13 @@ _verb_
 
 1.  Killing lower powered players in the Depths.
     1.  Ex "Lets depths gank these power 3's"
+
+### Depths Wager
+
+_verb, noun_
+
+1.  To challenge a player to 1v1 in The Depths, where the loser [wipes](#wipe).
+    1.  Ex. "You're trash, depths wager me" (a common phrase said after losing a fight in PvP)
 
 ### Execute
 

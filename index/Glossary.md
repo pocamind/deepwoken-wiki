@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 177287
+revid: 179834
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -47,11 +47,11 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Celestial](Celestial.md), 
 
 -   [Kaide](#kaide-the-drowned-light) described them as the 'sole architects of \[his people's\] suffering', and seemed to scoff at the notion of them being Gods.
 
-[Kaide](Kaide,_the_Drowned_Light.md)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 -   [Kaide](#kaide-the-drowned-light) referred to the [Lightborn](#lightborn) as the children of Man and Celestial, a hybrid between the two species.
 
-[Kaide](Kaide,_the_Drowned_Light.md)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 ### Deepwoken
 
@@ -104,11 +104,11 @@ Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | B
 
 -   The Ferryman referred to them as 'the closest bridge between the Gods below and your kind'.
 
-[The Ferryman](The_Ferryman.md)
+Dialogue: [The Ferryman](The_Ferryman.md)
 
 -   The Gaunt Man used the analogy 'if you are a stalk of wheat, then I am a loaf of bread', which likely has some relevance to the nature of Krulians. Probably.
 
-[The Gaunt Man](The_Gaunt_Man.md)
+Dialogue: [The Gaunt Man](The_Gaunt_Man.md)
 
 ### Kyrsan / Kyrsgarde
 
@@ -119,7 +119,7 @@ Dialogue: [??? (Scion Caller)](<%253F%253F%253F_(Scion_Caller).md>), [Cap'n Orla
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the Second Layer are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan).
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
 
-[Kaide](Kaide,_the_Drowned_Light.md)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 -   Following their enthrallment under [Ethiron](#ethiron-the-maelstroms-eye), the Kyrsans launched an assault on [Constellia](#constellia-the-guiding-star) and reduced it to ruins.
 
@@ -131,7 +131,7 @@ Dialogue: [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Galpin Spellhardt](Gal
 
 -   Kaide said that his kind were a hybrid of Man and [Celestial](#the-celestials).
 
-[Kaide](Kaide,_the_Drowned_Light.md)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 ### Yun'Shul, Keeper of Hearts
 
@@ -152,7 +152,7 @@ Dialogue: | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vo
 
 -   Some of the Celtor Guard seem to have persisted since the Submergence.
 
-[Celtorian Guard](Celtorian_Guard.md)
+Dialogue: [Celtorian Guard](Celtorian_Guard.md)
 
 ## Factions
 
@@ -223,7 +223,7 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) | Books: | Glossary Entries: [Kyr
 -   As his city was razed, Kaide was captured and taken to [New Kyrsa](#the-city-of-new-kyrsa)
 -   Kaide now waits out the end of eternity.
 
-[Kaide](Kaide,_the_Drowned_Light.md)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 ### The King of Etrea
 
@@ -234,7 +234,7 @@ Dialogue: [Teacher](Teacher.md) | Books: [Stars Above, and the Blade between](St
 
 -   King Rolen Vashtir I reigned through the early 6th century CE.
 
-[Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md)
+Book: [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md)
 
 ### Ku, the Mother
 
@@ -254,7 +254,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Boo
 
 -   Andros said they hadn't seen any accounts of Mur outside of the [Etrean Luminant](#the-etrean-luminant).
 
-[Bookkeeper Andros](Bookkeeper_Andros.md)
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md)
 
 ### Nemit, the First Beast
 
@@ -301,7 +301,7 @@ Dialogue: | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritan
 
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a Hereditary Vow.
 
-[Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
+Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
 ### Light Hook
 
@@ -324,11 +324,11 @@ Interacting with a Lightkeep entry after activating the [Lightkeeper's Medallion
 
 -   Nimea mentioned that Lightkeepers are incapable of using the [Song](#the-song).
 
-[Nimea](Nimea.md)
+Dialogue: [Nimea](Nimea.md)
 
 -   The [Radiant Tones](#radiant-tones) utilised by adherents of the Dawnwalker [Oath](#oaths) are based on research into [Lightkeeping](#lightkeep), though are incapable of Illuminating the Void.
 
-[Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
 
 ### Mantra
 
@@ -361,7 +361,7 @@ Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Glossary Entr
 
 -   Klaris said she worked with Viqh, a [Lightkeeper](#lightkeep) from the [Etrean Luminant](#the-etrean-luminant).
 
-[Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
 
 -   The Radiant Tones are said to be a Verse of the [Song](#the-song) that can reproduce Light.
 -   According to research conducted by the [Divers](#the-divers), they believe that [Lightkeepers](#lightkeep) use it latently for their abilities.
@@ -391,7 +391,7 @@ Dialogue: [Delta](Delta.md), [Eiris](Eiris.md), [Samael](Samael.md), [Sordino](S
 
 -   Steward Bridges posited on his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
-[Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
+Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
 ## Objects of Interest
 
@@ -405,7 +405,7 @@ Dialogue: [Hiri](Hiri.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Lake]
 
 -   The Moonseye is believed the project the same Light as [Lightkeepers](#lightkeep).
 
-[Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
+Dialogue: [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
 
 -   A [Celestial](#the-celestials) known as [Zhatarn](#zhatarn-the-moonlight-prince) is said to have stolen from the Moonseye and been driven mad by it.
 
@@ -413,7 +413,7 @@ Glossary Entries: [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
 -   The [Starkindred](#the-starkindred-faith) believe that the Moonseye is a gateway to their promised land, and that the souls of [Celestials](#the-celestials) make their way to it to make preparations for the promised day.
 
-[Samael](Samael.md)
+Dialogue: [Samael](Samael.md)
 
 ### The Suncross
 
@@ -427,7 +427,7 @@ Dialogue: [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: | Glossary E
 
 -   Some [Starkindred](#the-starkindred-faith) believe the Suncross to be a [The Celestials](#the-celestials), though others disagree. To all of the faith, however, it is sacred.
 
-[Samael](Samael.md)
+Dialogue: [Samael](Samael.md)
 
 ## Time Periods
 
@@ -470,7 +470,7 @@ Dialogue: | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritan
 -   Steward Bridges posited in his work '[Vows](#vows) by the Sea: Inheritance' that the Aspects of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 -   Bridges suggested that the traits of the Aspects could be the result of early worship of animals or of the land.
 
-[Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
+Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
 ### The Drowning
 
@@ -522,7 +522,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md) | Books: [Children of the Aftert
 -   The City Guard speak of a deal, presumably a [Vow,](#vows) that they struck in order to keep the City safe.
 -   The guards are prevented from dispatching the monstrosities that stalk the city by the deal they struck.
 
-[Celtorian Guard](Celtorian_Guard.md)
+Dialogue: [Celtorian Guard](Celtorian_Guard.md)
 
 ### Constellia, the Guiding Star
 
@@ -624,7 +624,7 @@ Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), [Mendacia](Menda
 
 -   Some refer to New Kyrsa as 'Ethiron's Bedchamber'.
 
-[Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
+Dialogue: [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 
 ### The Nightsea
 
@@ -653,7 +653,7 @@ Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md), [Kaide](Kaide,_the_Drowned_Li
 -   According to [Kaide](#kaide-the-drowned-light), the ruins within the Second Layer are neither of [Celestial](#the-celestials) or Human make, having been constructed by the [Kyrsans](#kyrsan).
 -   [Kaide](#kaide-the-drowned-light) suggested that the Second Layer may once have been the Kyrsan world before it was consumed by the [Depths](#the-depths).
 
-[Kaide](Kaide,_the_Drowned_Light.md)
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
 -   The Second Layer is home to the legendary city of New Kyrsa.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179788
+revid: 179826
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -103,6 +103,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Against All Odds \[Common Talent, Willpower Exclusive\] - For each combat tag you have on your character, increase your damage by 1% (max of 7%).
     -   Works in PvE combat.
+        -   Each mob gives one mark, so you can get up to 7% in PvE.
     -   Prerequisite: 65 Willpower
 
 -   Emergency Reserves \[Common Talent, Willpower Exclusive\] - When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).

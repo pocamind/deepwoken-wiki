@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 177062
+revid: 179837
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -886,7 +886,7 @@ Fire
 -   Shares similar traits to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   Significantly reduces in height as the player gets lower on health, similarly to the [Strong Leap](Attunement-less.md#strong-leap) Mantra.
 -   The Mantra will not deal damage if used in water.
--   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway).
+-   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway) and [Strong Leap](Attunement-less.md#strong-leap).
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), delivering an explosive front flip instead of a vertical leap.
     -   This variant negates fall damage for a small duration. It can also be used in midair but expect fall damage upon use.
     -   This variant gets replaced with it's base variant when used in water.

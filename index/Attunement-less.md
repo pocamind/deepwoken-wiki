@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 177763
+revid: 179838
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -300,7 +300,7 @@ N/A
 -   Drops carried players/NPCs when used.
 -   Fall damage is taken if the user gets high enough.
 -   It doesn't seem to scale depending on level, not granting anymore height from a Level 1 Strong Leap to a Level 5 Strong Leap
--   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway).
+-   Shares a cooldown with [Neural Pathway](Attunement-less.md#neural-pathway) and [Flame Leap](Flamecharm.md#flame-leap).
 
  |
 | 

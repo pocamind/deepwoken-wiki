@@ -1,6 +1,6 @@
 ---
 title: Drallis Ehr
-revid: 178209
+revid: 179866
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heads of government and state, Personnel of The Central Authority]
@@ -11,7 +11,7 @@ categories: [Heads of government and state, Personnel of The Central Authority]
 | Drallis Ehr | |
 |---|---|
 | name | Drallis Ehr |
-| alias | Grand Sovereign, Sovereign, Sovereign of Ages, Sovereign of Eras[1], Overseer of Epochs, Lumen's Savior |
+| alias | Grand Sovereign, Sovereign, Sovereign of Ages, Sovereign of Eras[1], Overseer of Epochs[2], Lumen's Savior |
 | aspect | Adret |
 
 ## Description
@@ -21,3 +21,4 @@ Drallis Ehr is the head of state of [The Central Authority](The_Central_Authorit
 Drallis Ehr became a hero in the [Adretian Empire](Adretian_Empire.md) after stopping the catastrophe known as [the Godstorm](Godstorm.md) that had brought the nation to its knees. With the Adretian Emperor and his soldiers having fallen to the Godstorm, Drallis Ehr took over and led the coalition that would become [The Central Authority](The_Central_Authority.md).
 
 1.  [↑](#cite-ref-1) [Warden Jericho](Warden_Jericho.md)
+2.  [↑](#cite-ref-2) [Maps](Maps.md)

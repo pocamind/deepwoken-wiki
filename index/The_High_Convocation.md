@@ -1,12 +1,11 @@
 ---
 title: The High Convocation
-revid: 179817
+revid: 179825
 source: https://deepwoken.fandom.com/wiki/The_High_Convocation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, The Citadel of Markor, Councils]
+categories: [Stub pages without reason, StubPages, The Citadel of Markor, Councils]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
-  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # The High Convocation
