@@ -1,6 +1,6 @@
 ---
 title: The High Convocation
-revid: 179079
+revid: 179817
 source: https://deepwoken.fandom.com/wiki/The_High_Convocation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, The Citadel of Markor, Councils]
@@ -18,7 +18,7 @@ notices:
 
 ## Description
 
-**The High Convocation** is the council of [the Citadel of Markor](The_Citadel_of_Markor.md) which consists of retired senior staff drawn from the Citadel's various divisions. Members of the council are known as Convocants.[\[1\]](#cite-note-fathoms-1)[\[2\]](#cite-note-glossary-2)
+**The High Convocation** is the council of [the Citadel of Markor](The_Citadel_of_Markor.md) which consists of retired senior staff drawn from [the Citadel](The_Citadel_of_Markor.md)'s various divisions. Members of the council are known as Convocants.[\[1\]](#cite-note-fathoms-1)[\[2\]](#cite-note-glossary-2)
 
 The High Convocation was the host of the first expeditions into [the Depths](The_Depths.md). They theorized on the concept of the dead returning back to life for a long time, before it was confirmed that the souls of the dead were sent to [the Depths](The_Depths.md), from which only the strong could return. [Deukalion Akarad](Deukalion_Akarad.md) was the one to lead the first expedition.[\[1\]](#cite-note-fathoms-1)
 
@@ -26,10 +26,10 @@ They are also responsible for giving out punishments on serious occasions, like 
 
 ## Notable Members
 
-[**Aurelia Imari**](Aurelia_Imari.md) - WIP
+[**Aurelia Imari**](Aurelia_Imari.md) - The Convocant who granted access to [the Citadel](The_Citadel_of_Markor.md)'s archives to [Vincent Zeneke](Vincent_Zeneke.md).[\[1\]](#cite-note-fathoms-1)
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
+1.  ↑ [1.0](#cite-ref-fathoms-1-0) [1.1](#cite-ref-fathoms-1-1) [1.2](#cite-ref-fathoms-1-2) [1.3](#cite-ref-fathoms-1-3) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
 2.  ↑ [2.0](#cite-ref-glossary-2-0) [2.1](#cite-ref-glossary-2-1) [Glossary entry for The High Convocation](Glossary.md#the-high-convocation)
 3.  [↑](#cite-ref-interrogation-3-0) [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)

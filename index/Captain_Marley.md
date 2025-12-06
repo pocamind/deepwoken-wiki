@@ -1,6 +1,6 @@
 ---
 title: Captain Marley
-revid: 176740
+revid: 179820
 source: https://deepwoken.fandom.com/wiki/Captain_Marley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies]
@@ -10,7 +10,7 @@ categories: [Enemies, Central Authority Enemies]
 
 | Captain Marley | |
 |---|---|
-| health | ? |
+| health | 7000 |
 | drops | Master Key, Release Key, Override Key, Armorer's Needle |
 | weapon | Central Dirk |
 | moves | Assault, Critical, Ice Daggers, Ice Cubes, Ice Lance, Crystal Impale |

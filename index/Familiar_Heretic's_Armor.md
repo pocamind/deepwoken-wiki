@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 177022
+revid: 179815
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -30,7 +30,7 @@ categories: [Outfits, Unique Outfits, Hallowtide, Event Items]
 
 ### _Requirements_
 
-This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Nightbringer Enchant Stone](Enchant_Stone.md) to craft.
+This Outfit costs 5,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Nightbringer](Nightbringer.md) [Enchant Stone](Enchant_Stone.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 

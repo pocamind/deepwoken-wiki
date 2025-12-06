@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 178949
+revid: 179823
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -12,7 +12,7 @@ notices:
 
 | Captain Solaire | |
 |---|---|
-| health | Way too much |
+| health | 7000 |
 | drops | Armorer's Needle, Override Key, Master Key, Release Key |
 | weapon | Warden's Ceremonial Sword |
 | moves | Assault, Critical Attack, Cannon Call, Lightning Assault, Lightning Stream, Rising Thunder, Fleeting Sparks |
@@ -22,14 +22,14 @@ notices:
 | health | ? |
 | drops | Armorer's Needle, Override Key, Master Key, Release Key |
 | weapon | Alloyed Adretian Axe |
-| moves | Assault, Critical Attack, TBA |
+| moves | Assault, Critical Attack, Ash Slam, Flame Blind, Flame Grab, Flame Scourge, Fire Blade, Rising Flame |
 
 | Captain Solaire | |
 |---|---|
 | health | ? |
 | drops | Armorer's Needle, Override Key, Master Key, Release Key |
 | weapon | Sovereign's Punishment |
-| moves | Assault, Critical Attack, TBA |
+| moves | Assault, Critical Attack, Lightning Beam, Lightning Clones, Grand Javelin, Lightning Stream, Electro Carve, Lightning Blade, storm blades, Emotion Wave |
 
 ## Description
 
