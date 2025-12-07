@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 179730
+revid: 179950
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -10,6 +10,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Great
 
 | Crescent Cleaver | |
 |---|---|
+| alloyed name | Alloyed Crescent Cleaver |
 | type | Greatsword |
 | requirements | 45 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 22 + 3.3 BLD |

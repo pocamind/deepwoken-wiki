@@ -1,6 +1,6 @@
 ---
 title: "Providence's Thorns"
-revid: 179266
+revid: 179948
 source: https://deepwoken.fandom.com/wiki/Providence's_Thorns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -25,9 +25,9 @@ This enchantment changes the color of your weapon's metallic parts to a glowing 
 
 ## Effect
 
-In PvP: after parrying three attacks within a 7 second window, Providence's Thorns strikes your opponent after a short delay, dealing 4% of your opponent's maximum health as damage.
+**PvP**: After parrying three attacks within a 7 second window, Providence's Thorns strikes your opponent after a short delay, dealing 4% of your opponent's maximum health as damage.
 
-In PvE: after parrying an attack, Providence's Thorns strikes your opponent after a short delay, dealing damage scaling on your level and the damage of the attack you parried. This deals 35% of the parried attack's damage \* your current level, capping at 500 damage per proc.
+**PvE**: After parrying an attack, Providence's Thorns strikes your opponent after a short delay, dealing damage scaling on your level and the damage of the attack you parried. This deals 35% of the parried attack's damage \* your current level, capping at 500 damage per proc.
 
 ### Notes
 

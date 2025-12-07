@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179934
+revid: 179949
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -982,7 +982,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Crystalline Gold
 
--   Golden Age \[Common Talent, Dual Attunement\] - Your Iron Pull now detonates Crystals and overloads Surges.
+-   Golden Age \[Common Talent, Triple Attunement\] - Your Iron Pull now detonates Crystals and overloads Surges.
     -   Crystals don't always detonate on pull.
     -   Prerequisites: Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor
 

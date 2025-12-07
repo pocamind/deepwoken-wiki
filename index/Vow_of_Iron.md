@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 178433
+revid: 179947
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Paths, Character]
@@ -18,6 +18,10 @@ The path ahead is not a forgiving one. ”
 ― Memento description
 
 ## Description
+
+Vow of Iron is a gamemode in Deepwoken, allowing you to experience a harder gameplay set in an older timeline in Lumen. In comparison to Pathfinder, which is the original and normal gamemode, Vow of Iron limits you with a lot of aspects reminiscent to the [Echo](Echoes.md) Modifiers. Additionally, you experience new enemy and boss types exclusive to the gamemode.
+
+## In-Game Explanation
 
 Each Memento plays differently and has its own pool of Talents and Mantras to purchase.
 
