@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179826
+revid: 179883
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4321,7 +4321,15 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Hyperbody: [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) - Apply a buff to your allies around you that increases your speed, defense, and regeneration. This effect becomes weaker the more allies you buff with it. \[2 min CD\]
     -   Grants a Talent tool that applies buffs to yourself and allies.
-    -   The speed buff is counted as a speed boost, allowing you to proc Talents like Speed Demon.
+    -   Hyperbody lasts 30 seconds, but the duration is reduced by 3 seconds per person affected, including yourself.
+    -   Hyperbody has a 2 minute cooldown.
+    -   Increases your movement speed by 7.5 studs/s. This speed boost will halve in effectiveness for each ally buffed.
+        -   For example, at one ally you'll only gain +3.75 studs/s movement speed, at two allies this'll be reduced further to +1.875 studs per second, and so on.
+        -   This counts as a speed boost for Talent effects.
+    -   Increases your passive health regeneration by 2.37x. Every ally buffed will reduce the health regeneration bonus by 10%.
+    -   Grants a 35.5% damage reduction buff. This is **increased** by 20% multiplicatively for every ally buffed.
+        -   For example at one ally, this will grant +42.6% damage reduction, at two allies this will grant 51.12% damage reduction, and so on.
+    -   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.
 
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
     -   This is additive to Blue Gem's innate effect, lowering the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers by 35% instead of 25%.

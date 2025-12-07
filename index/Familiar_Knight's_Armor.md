@@ -1,6 +1,6 @@
 ---
 title: "Familiar Knight's Armor"
-revid: 177023
+revid: 179887
 source: https://deepwoken.fandom.com/wiki/Familiar_Knight's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -39,9 +39,16 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 3500 durability and grants +30% Physical Armor, 40% Elemental Armor, and 10% Ether Regen. Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by ~30% while equipped.
+This Outfit has 3500 durability and grants +30% Physical Armor, 40% Elemental Armor, and 10% Ether Regen. Additionally, it provides the [Hyperbody](Talents.md#hyperbody) Talent, but will passively reduce your movement speed by 30% while equipped.
 
-Using the [Hyperbody](Talents.md#hyperbody) Talent tool applies a buff to yourself and nearby allies that increases movement speed, defense, and regeneration. This effect becomes weaker the more allies are affected. This has a 2 minute cooldown. The speed buff is considered a speed boost for Talent effects.
+Using the [Hyperbody](Talents.md#hyperbody) Talent tool applies a buff to yourself and nearby allies that increases movement speed, defense, and regeneration. This effect becomes weaker the more allies are affected. Hyperbody lasts 30 seconds, but the duration is reduced by 3 seconds per person affected, including yourself. Hyperbody has a 2 minute cooldown.
+
+-   Increases your movement speed by 7.5 studs/s. This counts as a speed boost for Talent effects. This speed boost will halve in effectiveness per ally buffed.
+    -   For example, at one ally you'll only gain +3.75 studs/s movement speed, at two allies this'll be reduced further to +1.875 studs per second, and so on.
+-   Increases your passive health regeneration by 2.37x. Every ally buffed will reduce the health regeneration bonus by 10%.
+-   Grants a 35.5% damage reduction buff. This is **increased** by 20% multiplicatively for every ally buffed.
+    -   For example at one ally, this will grant +42.6% damage reduction, at two allies this will grant 51.12% damage reduction, and so on.
+-   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.
 
 ## Trivia/Notes
 

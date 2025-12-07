@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 179815
+revid: 179889
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide, Event Items]
@@ -38,7 +38,7 @@ This Outfit's schematic is not droppable, but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 4000 durability and grants +35% Physical Armor, +35% Elemental Armor, +5% Fire Armor, and +5% Shadow Armor. Additionally, it provides the [Soul Rip](Talents.md#soul-rip) Talent, but will passively reduce your movement speed by ~40% while equipped.
+This Outfit has 4000 durability and grants +35% Physical Armor, +35% Elemental Armor, +5% Fire Armor, and +5% Shadow Armor. Additionally, it provides the [Soul Rip](Talents.md#soul-rip) Talent, but will passively reduce your movement speed by 30% while equipped.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 35% Physical, 38.25% Flamecharm, 38.25% Shadowcast, and 35% Elemental.
 

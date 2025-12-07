@@ -1,11 +1,34 @@
 ---
 title: Soulwrought Greatsword
-revid: 163255
+revid: 179907
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Redirect pages containing data, Weapons]
+notices:
+  - "This page, despite being a redirect, is necessary and useful for data referencing purposes. Please do not delete the contents of this page. It *is* in use."
 ---
 
 # Soulwrought Greatsword
+
+| Soulwrought Greatsword | |
+|---|---|
+| type | Greatsword |
+| requirements | Crazy Slots |
+| damage | 28 |
+| scaling | HVY: 12 |
+| range | 9.2 |
+| swing speed | 0.84x |
+| endlag | 0.25s |
+| m.equip | No |
+| m.extract | No |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | N/A |
+| weight | 8.5 |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| description | A weapon brought out from your soul. |
 
 Redirect to:
 

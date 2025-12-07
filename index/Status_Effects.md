@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 179487
+revid: 179884
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -508,7 +508,7 @@ When the [Soul Rip](#soul-rip) status effect ends, your leg will break. This rem
 
 ### Hyperbody
 
-Gain a [speed boost](#speed-boost), health regeneration, and damage reduction for 25 seconds. This effect is applied to yourself and your allies through using the Hyperbody Talent tool from the [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>). The potency of these bonuses will be lessened if you buff multiple people, with the effectiveness inversely scaling on the amount of players that have been buffed. Signified by your character producing a bright yellow light from their chest, with a wide cylindrical beam of light coming from your character on proc.
+Signified by your character producing a bright yellow light from your chest, gain a [speed boost](#speed-boost), health regeneration, and damage reduction for 27 seconds. This effect is applied to yourself and your allies through using the Hyperbody Talent tool from the [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>). The potency and duration of these bonuses will be lessened if you buff multiple people, with the effectiveness inversely scaling on the amount of players that have been buffed. For information about the specifics on this status effect, please check the [Familiar Knight's Armor](<Familiar_Knight's_Armor.md>) page.
 
 ### Bane
 
