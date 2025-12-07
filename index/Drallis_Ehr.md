@@ -1,6 +1,6 @@
 ---
 title: Drallis Ehr
-revid: 179878
+revid: 179911
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heads of government and state, Personnel of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Heads of government and state, Personnel of The Central Authority]
 | name | Drallis Ehr |
 | alias | Grand Sovereign, Sovereign, Sovereign of Ages, Sovereign of Eras[1], Overseer of Epochs[2], Lumen's Savior |
 | aspect | Adret |
-| affiliation | The Central Authority |
+| affiliation | Adretian Empire (formerly), The Central Authority |
 
 ## Description
 

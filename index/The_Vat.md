@@ -1,6 +1,6 @@
 ---
 title: The Vat
-revid: 171020
+revid: 179910
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, The Depths]
@@ -28,14 +28,14 @@ The Vat is an arena in which [The Gaunt Man](The_Gaunt_Man.md) subjects players 
 
 Upon completing all three trials, you'll be reunited with [The Gaunt Man](The_Gaunt_Man.md). He will have many dialogue options but most notability his shop which contains:
 
--   [Curse of Void Enchant Stone](Enchantments.md#curses)
+-   [Curse of Void](Curse_of_Void.md) [Enchant Stone](Enchant_Stone.md)
     -   25 [Void Spires](Void_Spire.md), 10 Crowns
--   [Rain Enchant Grease](Enchantments.md#equipment)
+-   [Rain](Environmental_Hazards.md) [Enchant Grease](Enchant_Grease.md)
     -   25 [Rain Spires](Rain_Spire.md), 10 Crowns
--   [Parasol's Blight Enchant Stone](Enchantments.md#blessings)
-    -   Parasol Part
+-   [Parasol's Blight](<Parasol's_Blight.md>) [Enchant Stone](Enchant_Stone.md)
+    -   [Parasol Part](Parasol_Part.md)
 -   [Aegis Gem](Mantra_Modifiers.md#deep-gems)
-    -   Doom of Caeranthil's Scale
+    -   [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
 
 ## Trivia
 

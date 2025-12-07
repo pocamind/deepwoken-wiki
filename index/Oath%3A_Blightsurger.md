@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 179461
+revid: 179913
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -15,7 +15,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 | Sovereign Bangle | |
 |---|---|
-| type | Fists Oath Weapon |
+| type | Fist |
 | requirements | Oath: Blightsurger |
 | damage | 30 |
 | range | 6 |
@@ -23,6 +23,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | penetration | 5% |
 | m.equip | No |
 | m.extract | No |
+| stances | 1 Handed |
 | rarity | N/A |
 | weight | 8 |
 | bankable | Yes |

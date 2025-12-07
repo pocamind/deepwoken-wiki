@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 175667
+revid: 179918
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -430,7 +430,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
     -   Psia was the Willpower trainer, located at Etris, and was only seen for a few days after Deepwoken's release before being quietly removed in a shadow-update.
 -   **Sparring Instructor -** Sparring with the instructor used to cost 20 notes. You could also spar with another player by talking to the Instructor NPC.
--   **Stormcaller -** An NPC in earlier versions of the game would appear in Upper Erisia that mentions Stormcall. It was described as 'old lore' that was meant to be removed.
+-   **Corvis-** An NPC in earlier versions of the game that was in a tent by [The Hidden Village](The_Hidden_Village.md) who mentions Stormcall. He was described as 'old lore' that was meant to be removed.
 -   **Universal Uniques -** Special items available in limited numbers across the entire game. Gripping owners of these items would grant them to the killer and losing them would readd them to the lootpool to be reobtained. This was cut due to limitations of the Roblox Engine.
 -   **Broodlord's Muddtoss -** A move, used by [Mudskipper Broodlord](Mudskipper_Broodlord.md), was removed on update of 18.05.2025.
 -   **Obtained the [Deepshore Fossil](Deepshore_Fossil.md) Triumph -** On the August 25th, 2025 update, the [Echo](Echoes.md) triumph requiring the player to obtain the Deepshore Fossil was removed in place for the 'Cleared a World Event' triumph.

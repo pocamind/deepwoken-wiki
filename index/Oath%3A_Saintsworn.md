@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 178871
+revid: 179912
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -15,7 +15,7 @@ categories: [Weapons, Pages with broken file links, The Five Heroes, Oaths, Weap
 
 | Saintsblade | |
 |---|---|
-| type | Sword Oath Weapon |
+| type | Sword |
 | requirements | Oath: Saintsworn |
 | damage | 28 |
 | range | 8.5 |
@@ -23,6 +23,7 @@ categories: [Weapons, Pages with broken file links, The Five Heroes, Oaths, Weap
 | penetration | 10% |
 | m.equip | No |
 | m.extract | No |
+| stances | 2 Handed, 1 Handed |
 | rarity | N/A |
 | weight | 7 |
 | bankable | Yes |

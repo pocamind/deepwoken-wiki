@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 179902
+revid: 179909
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -141,13 +141,13 @@ Finally the most important piece of advice, stay calm, as you would with any and
 
 ## Trivia
 
--   The statue in the center of the Blade Within will be the weapon you had equipped when you were teleported.
+-   The statue in the center of the [Blade Within](The_Blade_Within.md) will be the weapon you had equipped when you were teleported.
 -   The Oath bracelets were formerly called "Snakerings" (as viewed from the [Dye Packet](Dye_Packet.md) UI), which was later changed to "Bladeharper Serpents," then changed again to "Bladeharper Cosmetic".
 -   Its obtainment method is inspired by the way in which Ichigo Kurosaki, the protagonist of BLEACH, obtained his "Bankai" ability.
 -   This Oath may be related to [Isshin](<Isshin's_Ring.md>): both are elegant blade-wielding combatants with a snake motif.
 -   The slashing effects closely resemble the "Cleave" and "Dismantle" abilities of Ryomen Sukuna from _Jujutsu Kaisen_.
 -   Originally, Decimate could not be used on Fist weapons of any kind. This was theorized to be due to Melonbeard's disliking to the Fist weapon class, which he is very open about.
     -   When asked about this, Melonbeard said "No Sukuna build"
-    -   As a carryover from this, you still cannot enter the Blade Within while wielding a fist weapon. With that being said, the Oath and all of its abilities function like normal with this weapon type.
+    -   As a carryover from this, you still cannot enter the [Blade Within](The_Blade_Within.md) while wielding a fist weapon. With that being said, the Oath and all of its abilities function like normal with this weapon type.
 -   Strangely, the mirror self can use [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
 -   The mirror self's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
