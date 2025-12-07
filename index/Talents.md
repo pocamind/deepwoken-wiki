@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179883
+revid: 179934
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2674,22 +2674,20 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
     -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
-    -   Scaling: 4 + Ironsing\*0.02
+    -   Has a base damage of 4 physical damage per rod, with 5 Ironsing scaling.
         -   Deals 5.5 physical damage per rod at 75 Ironsing.
-    -   Affected by most DMG modifiers.
-    -   Innately has 0% PEN, making PHYS armor good defense option against Impaler.
-    -   Best PvE Rending Needle path due to its damage output.
-    -   Has 6.5x PVE scale (5.5 DMG PVP to 35.60 PVE DMG)
+    -   Affected by most damage modifiers.
+    -   Innately has 0% PEN.
+    -   Has 6.5x PvE multiplier.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Conductor, Rending Needle: Jailer
 
 -   _Rending Needle: Jailer_ \[Rare Talent, Ironsing Exclusive\] - If an enemy has 5 or more rods, your Ironsing Pull will restrain them instead of pulling them.
     -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
-    -   Once restrained, makes the target unable to react in any way. (Venting is enabled)
-    -   Enemies have damage reduced by 30% when Metal Jailed.
-    -   When restrained, victim will have 6 second rod and pull immunity, upon jailer expire immunity will be set to 1s.
-    -   Will restrain for 1.08s with 5 rod proc and 1.6s if 10 rod proc.
-    -   Doesn't scale from Ironsing investment, static duration.
+    -   When affected by Jailer, the victim will be unable to do anything except [Vent](Combat_Mechanics.md#tempo).
+    -   The victim is given 30% damage reduction when Jailed.
+    -   When Jailed, the victim will have a 6 second rod and pull immunity. When Jailer expires, their rod pull immunity will be automatically reduced down to 1 second.
+    -   Jailer's duration scales on the amount of rods applied, having a 1.08s duration at 5 rods, and gaining 0.104 seconds per rod after 5. This caps at a 1.6s duration with 10 rods.
     -   Prerequisites: Master Ironsinger, 75 Ironsing
     -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Conductor
 

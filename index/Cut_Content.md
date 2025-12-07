@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 179918
+revid: 179935
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -48,7 +48,7 @@ This page is about content that has either been removed or changed drastically i
 ## Oaths
 
 -   **([Previous](Oath%253A_Silentheart/Old_Silentheart.md)) Silentheart** - Reworked due to being unhealthy for the game's balance and boring to both use and fight against. Though the [Oath](Oath%253A_Silentheart.md) is still in the game, it was reworked, removing certain aspects of the previous version.
-    -   The active passive **Mani Katti** was removed on 13.09.2024, which was then brought back, reworked and renamed into **Silent Cascade** on 19.08.2025.
+    -   The active passive **Mani Katti** was removed on the 13th of September in 2024, which was then brought back, reworked and renamed into **Silent Cascade** on 19th of August in 2025.
     -   This was reworked on the 13th of August in 2024.
 -   **([Previous](Oath%253A_Visionshaper/Old_Visionshaper.md)) Visionshaper** - Reworked. Though the [Oath](Oath%253A_Visionshaper.md) is still in in the game, it was reworked, removing certain aspects of the previous version.
     -   The Oath mantra **Illusory Realm** was removed alongside this rework.
@@ -78,7 +78,7 @@ This page is about content that has either been removed or changed drastically i
 ## Monsters
 
 -   **[Crab](Crab.md)** - Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
-    -   They were however brought back within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as another weak mob. They are yet to be seen elsewhere.
+    -   However, they were brought back within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as another weak mob. They are yet to be seen elsewhere.
 -   **[Isopods](Horseshoe_Crab.md) -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
 -   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the June 9th, 2025 update due to lore reasons, in which they had no real reason to exist. Their enemy spawns were replaced with [Nightmare Threshers](Nightmare_Thresher.md).
 
@@ -102,7 +102,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Aerial Shot \[Common Priority Talent\] -** \[Guns\] When using a Light Attack while airborne propel yourself forward and fire a shot downwards. (+1 Health)
     -   In the December 23rd, 2022 update, all Aerial Talents were removed and instead became a part of base combat.
 
--   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those bellow. (+2 Passive Agility, +1 Health)
+-   **Aerial Spin \[Common Priority Talent\] -** \[Daggers/Rapiers\] When using a Light Attack while airborne propel yourself forward and do a spin slash hitting those below. (+2 Passive Agility, +1 Health)
     -   In the December 23rd, 2022 update, all Aerial Talents were removed and instead became a part of base combat.
 
 -   **Aerial Stab \[Common Priority Talent\] -** \[Swords/Spears\] When using a light attack while airborne propel yourself forward and do a stab downwards. (+1 Posture, +3 Carry Load, +1 Health)
@@ -147,7 +147,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Command: Locate \[Common Talent, Charisma\] -** Locate one of your vow members (+4 Ether, +3 Health)
     -   In the December 6th, 2022 update, Command: Locate became a base Vow of Mastery command.
 
--   **Command: Return \[Rare Talent, Charisma\] -**Command your servant to obey your vow and return to your side.
+-   **Command: Return \[Rare Talent, Charisma\] -** Command your servant to obey your vow and return to your side.
     -   In the August 30th, 2024 update, Command: Return became a base Vow of Mastery command.
 
 -   **Command: Sacrifice \[Rare Talent, Charisma\] -** Sacrifice the health of a servant in order to restore your own.
@@ -205,7 +205,8 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 13th, 2022 update, Familiar Sight was merged into Tough Love.
 
 -   **Finesse \[Common Talent, Agility\] -** You pull your weapon out silently. (+3 Passive Agility, +5 Health)
-    -   In the February 6th, 2023 update, Finesse was merged into Now You see Me.
+    -   In the February 6th, 2023 update, Finesse was merged into Now You See Me.
+    -   In the January 13th, 2024 update, Now You See Me was merged into Lowstride.
 
 -   **Firmly Planted \[Common Talent, Fortitude, Willpower\] -** All slow debuffs towards you are reduced by 30%
     -   In the June 21th, 2024 update, Firmly Planted was made innate.
@@ -252,6 +253,8 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Heartbreaker \[Common Talent, Light\] -** \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
     -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
+    -   In the October 6th, 2023 update, Lethal Precision was changed into the quest talent Mercy Kill.
+    -   In the October 4th, 2025 update, Mercy Kill was made innate behaviour for all players.
 
 -   **Heavy Lifting \[Common Talent\] -** You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
     -   In the October 17th, 2022 update, Heavy Lifting was removed from the game.
@@ -268,7 +271,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the September 2nd, 2024 update, Last Laugh was merged into Flame Within.
 
 -   **Legendary Echoes -** Receive a random Legendary Talent.
-    -   With Verse 2 update most Legendary Talents have turned into Advanced Talents, while other - decreased in rarity to Rare.
+    -   With Verse 2 update most Legendary Talents have turned into Advanced Talents, while other Legendary Talents decreased in rarity to Rare.
 
 -   **Lethal Force \[Common Talent, Medium\] -** \[Medium Weapons\] When you attack an enemy much weaker than you, you kill them instantly.
     -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
@@ -277,7 +280,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the October 6th, 2023 update, Lethal Precision was changed into the quest Talent Mercy Kill.
 
 -   **Lootskipper \[Rare Talent\] -** Mobs have a much higher chance to drop their rarest loot when slain.
-    -   In the July 14th, 2025 update, Lootskipper was removed. To make up for its removal, drop rates on the rarer mob drops have been greatly increased.
+    -   In the July 14th, 2025 update, Lootskipper was removed. To make up for its removal, the drop rates on rarer mob drops were greatly increased.
 
 -   **Lord Commander \[Rare Talent, Fortitude\] -** Everyone you buff with Reinforce heals you by 1% (+5 Health)
     -   In the August 15th, 2023 update, Lord Commander was merged into Grand Support.
@@ -323,7 +326,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Return To The Dark Ages \[Rare Talent\]** - Your mantra damage is cut by 15%, but your incoming mantra damage is cut by 15% too. (+5 Health)
     -   In the August 19th, 2025 update, Return to the Dark Ages was removed from the game.
 
--   **Reverse Gale Kick \[Common Talent, Galebreathe\] -** Pressing \[F\] after hitting an opponent with Wind Rising will cause your followup kick to impale them to the ground. (+1 Passive Agility)
+-   **Reverse Gale Kick \[Common Talent, Galebreathe\] -** Pressing \[F\] after hitting an opponent with Rising Wind will cause your followup kick to impale them to the ground. (+1 Passive Agility)
     -   Dazes after kicking them down allowing for more combos.
     -   In the December 1st, 2023 update, Reverse Gale Kick was made base behavior for Rising Wind.
 
@@ -346,7 +349,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the January 26th, 2024 update, Skull Crusher was made base behavior for Champion's Whirlthrow.
 
 -   **Stormcaller Slash \[Common Talent, Thundercall\] -** Call forth the fury of storms by pressing F at the end of your move.
-    -   After using Lightning Blade, press F within a second afterwards delivers extra attacks.
+    -   After casting Lightning Blade, pressing F within a second would deliver extra slashes at the end of the mantra.
     -   In the January 19th, 2024 update, Stormcaller Slash was made base behavior for Lightning Blade.
 
 -   **Subsistence \[Rare talent, Intelligence\] -** As a skilled apothecarian, you are more accustomed to potions and gain graeter benefits from ingesting potions that affect your regeneration. (+3 Health)
@@ -363,7 +366,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the August 4th, 2025 update, The Sound from Below was removed due to being irrelevant.
 
 -   **The Thinker \[Common Talent\] -** Standing still for 15 seconds causes you to rapidly regenerate ether. (+5 Ether, +10 Reservoir)
-    -   Was removed with Verse 2 update.
+    -   Was removed with the release of the Verse 2 update.
 
 -   **Third Interrogation \[Common Talent, Thundercall\] -** Electrified attacks do 50% less damage to you.
     -   In the October 6th, 2023 update, Third Interrogation was merged into Second Interrogation.
@@ -417,7 +420,7 @@ This page is about content that has either been removed or changed drastically i
 -   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
 -   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.
 -   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.
--   **Lore Guilds -** There used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis was later added as well. Known inaccessible Lore guilds include The Hive.
+-   **Lore Guilds -** There used to be more guilds akin to The Divers in game, however, they eventually all got removed with the exception of The Divers. The Knives of Eylis and Central Authority were later added as well. Known inaccessible Lore guilds include The Hive.
 -   **Original Guild Housing -** A cut feature that allowed guilds to have bases on set plots on islands.
     -   Added in the 12/23/22 Verse 2 Update, however with a much more fluid system, being able to make a door for your Guild Base anywhere at any time to enter it, instead of being only on specific islands.
 -   **Officer's Note -** An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.

@@ -1,9 +1,9 @@
 ---
 title: Weapons
-revid: 179456
+revid: 179930
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Character, Mechanics, Pages that use a deprecated format of the math tags]
+categories: [Weapons, Character, Mechanics]
 ---
 
 # Weapons
@@ -25751,13 +25751,13 @@ Key:
 
 The formula to calculate the damage with damage multipliers taken into account is:
 
-M u l t i p l i e d D a m a g e \= S c a l e d D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) {\\displaystyle MultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})} {\\displaystyle MultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})}
+M u l t i p l i e d D a m a g e \= S c a l e d D a m a g e × ( 1 + D a m a g e M o d i f i e r s 100 ) {\\displaystyle MultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers}{100}})} {\\displaystyle MultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers}{100}})}
 
 ### Bleed
 
-The formula to calculate the damage of a weapon including bleed is
+The formula to calculate the damage of a weapon including bleed is:
 
-B l e e d D a m a g e \= S c a l e d D a m a g e × 1.15 {\\displaystyle BleedDamage=ScaledDamage\\times 1.15} {\\displaystyle BleedDamage=ScaledDamage\\times 1.15} **or** B l e e d M u l t i p l i e d D a m a g e \= S c a l e d D a m a g e × ( 1 + D a m a g e M o d i f i e r s % 100 ) + ( S c a l e d D a m a g e × 0.15 ) {\\displaystyle BleedMultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(ScaledDamage\\times 0.15)} {\\displaystyle BleedMultipliedDamage=ScaledDamage\\times (1+{\\frac {DamageModifiers\\%}{100}})+(ScaledDamage\\times 0.15)}
+B l e e d D a m a g e \= S c a l e d D a m a g e × 1.15 {\\displaystyle BleedDamage=ScaledDamage\\times 1.15} {\\displaystyle BleedDamage=ScaledDamage\\times 1.15}
 
 ### Miscellaneous
 
