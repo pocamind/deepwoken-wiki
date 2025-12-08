@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 179035
+revid: 180121
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, NPCs, Vendors]
@@ -204,7 +204,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 </tr>
 <tr>
   <td colspan="3">Purchases <a href="Curse_of_Void.md"><font><u>Curse of Void</u></font></a> Enchant Stone</td>
-  <td colspan="3">Purchases <a href="Environmental_Hazards.md"><font><u>Rain</u></font></a> Enchant Grease</td>
+  <td colspan="3">Purchases <a href="Rain_(enchantment).md"><font><u>Rain</u></font></a> Enchant Grease</td>
   <td colspan="3">Purchases <a href="Parasol's_Blight.md"><font><u>Parasol's Blight</u></font></a> Enchant Stone</td>
   <td colspan="3">Purchases <a href="Aegis_Gem.md"><font><u>Aegis Gem</u></font></a></td>
   <td colspan="3">[Enter Dungeon]</td>
@@ -229,7 +229,7 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 
 ## Trivia
 
--   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](Environmental_Hazards.md) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
+-   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](<Rain_(enchantment).md>) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
     -   This also applies to the [Nightbringer](Nightbringer.md) Enchant, even though he doesn't sell you this item.
 -   If you've beaten [The Ferryman](The_Ferryman.md) during Spring and have asked what he is, a new dialogue option for The Gaunt Man will appear after his experiment, in which he confirms that he's a [Krulian](Krulian.md).
     -   This may mean that Krulians are made up of more than just souls, as in a previous dialogue line, he uses an analogy to compare the player as a single stalk of wheat, but himself to bread. This can be inferred to meaning the stalk wheat = a singular soul, but as bread is made up of more than just wheat, Krulians may be made up of more than just souls. Though, given both how bread is made in gameplay and the Gaunt Man's lack of knowledge, he may well really just mean that he's multiple people.

@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 176752
+revid: 180129
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Spires]
@@ -28,13 +28,17 @@ The **Rain Spire** is a reusable [Relic](Relics.md) similar in design to the [Vo
 
 -   Rain Spire can summon different [Environmental Hazards](Environmental_Hazards.md) depending on the area.
     -   [Upper Erisia](Upper_Erisia.md): Acid Rain
-    -   [Minityrsa](Minityrsa.md) & [Winter](Seasons.md): Hail
+    -   [Minityrsa](Minityrsa.md) & [Winter](Seasons.md#winter): Hail
     -   [Aratel Island](Aratel_Island.md): Sandstorm
--   Rain Spire can be useful to [Thundercall](Thundercall.md) players because of [Stratoshock](Talents.md#thundercaller), A Talent that buffs your lightning damage by 5% if it's raining.
--   Rain Spire can be used to buff the [Storm Enchant](Enchantments.md), which makes it summon a bolt of lightning on proc, therefore increasing it's damage by 17.5%.
+-   The rain spire has a multitude of synergies due to environmental effects;
+    -   The [Storm](Storm.md) and [Stormbreaker](Stormbreaker.md) enchantments deal increased damage during [rain](Environmental_Hazards.md). These deal 33% of your weapon's scaled damage on proc when it's raining as opposed to the base 16.5%.
+    -   All sources of [Thundercall](Thundercall.md) damage gain a 5% damage buff when it is [raining](Environmental_Hazards.md). The [Stratoshock](Talents.md#stratoshock) Talent increases this by another 5%.
+    -   [Flamecharm](Flamecharm.md) deals 10% less damage and burn extinguishes during [rain](Environmental_Hazards.md), potentially debuffing your opponent. Though, these downsides can be negated if they have the [Undying Flame](Talents.md#undying-flame) Talent.
+    -   All sources of [Frostdraw](Frostdraw.md) damage gains a 10% damage buff if it is [snowing](Environmental_Hazards.md).
 -   Rain Spire can, for whatever reason be used in [Chime of Conflict](Chime_of_Conflict.md).
 -   Rain Spire is the first ever Relic to release in Deepwoken. It came in the same update that released the [Ironsing](Ironsing.md) Attunement on May 22, 2023.
 -   Rain Spire is one of the two [Relics](Relics.md) that has infinite uses, with the other one being the [Void Spire](Void_Spire.md).
 -   Similarly to the Void Spire, when trying to place it during its cooldown, dialogue appears saying "The Spire has not yet reformed."
 -   You can't place a Rain Spire on ice sheets or boats.
 -   Rain Spires can summon multiple Fishing Spots when used near water, which will last for the Rain Spire's duration.
+-   After completing [the Vat](The_Vat.md), you can trade 25 Rain Spires and 10 to [The Gaunt Man](The_Gaunt_Man.md) to receive the [Rain](<Rain_(enchantment).md>) enchantment.

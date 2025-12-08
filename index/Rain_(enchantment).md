@@ -1,6 +1,6 @@
 ---
 title: Rain (enchantment)
-revid: 179267
+revid: 180116
 source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -14,18 +14,18 @@ categories: [Enchantments, Equipment Enchantments]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Rain (enchantment) Enchant Grease:, Trading 25 Rain Spires and 10 to The Gaunt Man |
+| obtainment | Rain Enchant Grease:, Trading 25 Rain Spires and 10 to The Gaunt Man |
 | description | Incoming hits may summon rain clouds above you. |
 
 ## Description
 
-Rain (enchantment) is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive equipment enchantment that creates a moderate sized rain cloud on proc.
+Rain is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive equipment enchantment that creates a moderate sized rain cloud on proc.
 
 This enchantment applies rain droplets to the equipment piece.
 
 ## Effect
 
-Upon taking damage, Rain (enchantment) has around a 12.5% chance to proc. On proc, a moderately-sized rain cloud is created above your head, lasting 27.5 seconds. This has a 45 second cooldown (effectively 17.5s with uptime efficiency).
+Upon taking damage, Rain has around a 12.5% chance to proc. On proc, a moderate-sized rain cloud is created above your head, lasting 27.5 seconds. This has a 45 second cooldown (effectively 17.5s with uptime efficiency).
 
 The rain this enchantment creates functions identically to normal rain, reducing [Flamecharm](Flamecharm.md) damage by 10%, putting out burn and campfires, and increasing [Thundercall](Thundercall.md) damage by 5%.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 179912
+revid: 180158
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -80,7 +80,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Progression
 
-To progress Saintsworn, you need to complete 3 [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)). The first completion will grant Ether Proselyte, Hero's Assist. The second completion will grant Saint's Synergy, Saint's Overload, and Saint's Negation
+To progress Saintsworn, you need to complete 2 [World Events](World_Events.md) ([The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)). The first completion will grant Ether Proselyte, Hero's Assist. The second completion will grant Saint's Synergy, Saint's Overload, and Saint's Negation
 
 Alternatively you can use 10 to skip the progression if you've fully progressed this Oath before, by speaking to any Obelisk after obtaining Saintsworn. Warning: this has no confirmation dialogue, entering dialogue will instantly consume your Knowledge. Additionally, this can be still performed even if your Oath is fully progressed, potentially wasting your Knowledge for no benefit.
 

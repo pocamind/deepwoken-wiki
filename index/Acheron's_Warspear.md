@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 180029
+revid: 180113
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
@@ -60,5 +60,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   Basically a downgraded [Kyrsglaive](Kyrsglaive.md), though still a very good weapon if your build can't meet Kyrsglaive's requirements.
 -   This weapon is in the same “family” of spears, with the others being [Serrated Warspear](Serrated_Warspear.md) and True Seraph's Spear.
 -   There is a [Legion Captain](Legion_Captain.md) named Acheron, who can recommend you to [Amara](Amara.md). The spear likely belonged to them.
-
-Curse of Ysley's Ember on Acheron's Warspear

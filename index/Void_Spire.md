@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 176753
+revid: 180133
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Spires]
@@ -26,16 +26,16 @@ The **Void Spire** is a reusable [Relic](Relics.md) similar in design to the [Ra
 
 ## Trivia
 
--   Anyone that is within the field of the Void Spire will have their screen turned 95% Noir (Black & White)
+-   Anyone that is within the field of the Void Spire will have their screen turned 95% Noir (Black & White).
     -   The Noir Screen of Void Spire can still linger around after the Spire disappears. It lingers for 7 minutes before disappearing for good. This is most likely a bug.
 -   Void Spire can be placed in [Chime of Conflict](Chime_of_Conflict.md), but it won't function against the opponent.
 -   Void Spire is one of the two [Relics](Relics.md) that has infinite uses. The other one being [Rain Spire](Rain_Spire.md).
--   The theme that plays in the Void Spire is the same one that plays in the [Fragments of Self](Fragments_of_Self.md), that being The End. by Naktigonis
+-   The theme that plays in the Void Spire is the same one that plays in the [Fragments of Self](Fragments_of_Self.md), that being _The End._ by Naktigonis.
 -   Similarly to the Void Spire, when trying to place it during its cooldown, dialogue appears saying "The Spire has not yet reformed."
--   Void Spire isn't placeable in Towns. When attempting to do so, Dialogue appears saying "You cannot conjure this Spire here."
--   The Void Spire can't be used by players below Power 15.
+-   Void Spire isn't placeable in Towns. When attempting to do so, dialogue appears saying "You cannot conjure this Spire here."
 -   The Void Spire can send people who were knocked before it was placed to The Depths.
--   You can't place Void Spire in [The Interstice](The_Interstice.md).
--   When put in [Voidsea](Voidsea.md) it inverts the normal colors
--   In it's original design, the Void Spire allowed you to chase players killed withing its radius into the depth, forcing them into a long combat tag and being highlighted for the pursuers to be found. This was cut before the addition of the Void Spire to the game however.
--   Void Spire can be placed in [The Depths,](The_Depths.md) although it has no use
+-   You can't place Void Spire in [the Interstice](The_Interstice.md).
+-   When put in [Voidsea](Voidsea.md), it inverts the normal colors.
+-   In it's original design, the Void Spire allowed you to chase players killed within its radius into the Depths, forcing them into a long combat tag and being highlighted for the pursuers to be found. This was cut before the addition of the Void Spire to the game however.
+-   Void Spire can be placed in [the Depths](The_Depths.md), although it has no use.
+-   After completing [the Vat](The_Vat.md), you can trade 25 Void Spires and 10 to [The Gaunt Man](The_Gaunt_Man.md) to receive the [Curse of Void](Curse_of_Void.md) enchantment.

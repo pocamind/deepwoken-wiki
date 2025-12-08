@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 178277
+revid: 180148
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -90,6 +90,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   **True Vantage** - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
     -   This turns your Vents Red which is purely cosmetic.
         -   If you have used Dyes, instead turns your vents to your tattoo colour.
+        -   This does not affect [Brute Strength](https://deepwoken.fandom.com/wiki/Talents#Brute_Strength)
 
 -   **Unmatched Dexterity** - Press X to Quick Swap between weapons within your toolbar.
     -   Swaps your current weapon with a random one on your hotbar.
@@ -144,10 +145,12 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Light - 60/66 Oath damage (30/30 + 30/36)
     -   Medium - 45/60 Oath damage
     -   Heavy - 60 Oath damage, lower windup in Flow State
+        -   All Rising Star variants(aside heavy) give user brief momentum(view in gifs below).
 
 -   **Vengeful Pursuit** - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
     -   Damage changes based on weapon type.
     -   8 second cooldown.
+    -   This move is considered as a Critical Attack for Talents and Enchant procs.
 
 -   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.
     -   This is bound to your feint key, not to M2.
@@ -170,6 +173,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.
 -   You will be able to pass [Aelita](Aelita.md)'s game by using any of your Silentheart abilities.
+    -   Funnily enough, before an unknown update, Silenthearts were unable to do so.
 -   Killing the seven attunement trainers will give you bad rep for whichever faction that they are located in, except for [Nostor](Nostor,_Master_of_Shadow.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), and [Amashi](Amashi,_Master_of_Flame.md) (Ex. Killing [Friid](Friid,_Master_of_Gale.md) in the [Isle of Vigils](Isle_of_Vigils.md) will grant you bad rep with [Etrea](Etrea.md).)
     -   Due to this, you should keep some notes handy to pay off your rep so [Voidwalkers](Voidwalker.md) and faction ambushes won't come after you.
 -   [Vyrelda](Vyrelda,_Master_of_Blood.md) will still appear in the Derelict Highchurch regardless of if you've achieved bloodrend on the account so long as you have the oath

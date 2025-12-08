@@ -1,6 +1,6 @@
 ---
 title: The Vat
-revid: 179910
+revid: 180120
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, The Depths]
@@ -30,11 +30,11 @@ Upon completing all three trials, you'll be reunited with [The Gaunt Man](The_Ga
 
 -   [Curse of Void](Curse_of_Void.md) [Enchant Stone](Enchant_Stone.md)
     -   25 [Void Spires](Void_Spire.md), 10 Crowns
--   [Rain](Environmental_Hazards.md) [Enchant Grease](Enchant_Grease.md)
+-   [Rain](<Rain_(enchantment).md>) [Enchant Grease](Enchant_Grease.md)
     -   25 [Rain Spires](Rain_Spire.md), 10 Crowns
 -   [Parasol's Blight](<Parasol's_Blight.md>) [Enchant Stone](Enchant_Stone.md)
     -   [Parasol Part](Parasol_Part.md)
--   [Aegis Gem](Mantra_Modifiers.md#deep-gems)
+-   [Aegis Gem](Aegis_Gem.md)
     -   [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
 
 ## Trivia
