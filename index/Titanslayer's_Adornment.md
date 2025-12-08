@@ -1,6 +1,6 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 178111
+revid: 180090
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits]
@@ -44,5 +44,5 @@ The [Primal Rage](Talents.md#primal-rage) is given as a Talent tool. When used, 
 ## Trivia
 
 -   This outfit is by far the most expensive outfit to craft, costing more than even the [Cala-Mariner](Cala-Mariner.md).
-    -   On top of the 5 [Sinner's Ash](<Sinner's_Ash.md>) required to craft the Outfit, the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) boss will only spawn after sacrificing 3 Sinner's Ash, totaling to an astronomical 8 Sinners Ash!
+    -   On top of the 5 [Sinner's Ash](<Sinner's_Ash.md>) required to craft the Outfit, the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) boss will only spawn after sacrificing 3 Sinner's Ash, totaling to a staggering 8 Sinners Ash.
 -   Agamatsu, a deepwoken developer, stated Titanslayer's Adornment's rarity is similar to that of [Whistling Periapt's](Whistling_Periapt.md). It is highly recommended that you farm [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) over regular [Primadon](Primadon,_Titan_of_the_East.md) for the better rates.

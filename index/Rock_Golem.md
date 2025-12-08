@@ -1,6 +1,6 @@
 ---
 title: Rock Golem
-revid: 179608
+revid: 180107
 source: https://deepwoken.fandom.com/wiki/Rock_Golem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -121,4 +121,5 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 -   You are able to interact with some of these golems, though nothing happens upon pressing the E key.
 -   These are known to attack you regardless if you have the Mute Regalia or not, likely due to their nature as inorganic constructs, rather than animals.
 -   Rock Golems will always win their fights against Megladounts, due to having more health and do more damage and attacks.
+-   There are giant Golem statues placed along [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), suggesting that there could have been much stronger golems.
 -   One of the several mobs that gives one Knowledge upon killing them for the first time.

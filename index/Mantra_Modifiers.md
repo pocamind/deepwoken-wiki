@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 175593
+revid: 180106
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Materials]
@@ -627,6 +627,7 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
  | 
 
 -   This modifier causes the clones in the "Lightning Clones" mantra to explode on death.
+    -   This effect can be paired with the effects of a **Multiplying Spark** to spawn 2 Lightning Clones, as well as make them explode on death.
 
  |
 | 
@@ -989,7 +990,8 @@ Could give insanity on to the target if attack hits. Looks identical to falsefla
 
  | 
 
--   This modifier causes the "Lightning Clones" mantra to conjure an additional clone, making it 2 clones conjured for everytime the mantra is casted.
+-   This modifier causes the "Lightning Clones" mantra to conjure an additional clone, making it 2 clones conjured for every time the mantra is casted.
+    -   This effect can be paired with the effects of a **Blast Spark** to make them explode on death, as well as spawn 2 Lightning Clones.
 
  |
 | 
