@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 179614
+revid: 180019
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -16,7 +16,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | scaling | MED: 4 |
 | range | 8 |
 | swing speed | 1.03x |
-| special effect | Belief - Your Medium Weapon Mantras gain a secondary damage instance that directly scales on your Willpower investment. |
+| special effect | Belief - Your medium weapon mantras now deal extra damage based on how much Willpower you have. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |

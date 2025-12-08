@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 179525
+revid: 180026
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Talents]
@@ -17,7 +17,7 @@ categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Tal
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| special effect | Pugnacious - On basic attack, gain various buffs, with the effectiveness of these buffs scaling on the amount of combat tags you have. These effects are greatly improved whenever you grip a player. |
+| special effect | Pugnacious - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Pale Morning |

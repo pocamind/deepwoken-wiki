@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 179719
+revid: 180018
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -19,7 +19,7 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | swing speed | 0.8x / 0.85x |
 | endlag | 0.1s |
 | penetration | 10% |
-| special effect | Bulwark Breaker - Increase the AoE of your Pressure Blast. The final hit of this Mantra deals 8 more posture damage. |
+| special effect | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Pale Morning |
@@ -33,13 +33,12 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Sold at Etris Weaponry for 100 , Lower Erisia (Chests), Chime of Conflict, Brainsucker, Isle of Vigils (Chests)Alloyed:, Alloying a Steel Maul |
-| description | A sturdy maul perfect for knocking walls and people down alike. |
 
 ## Description
 
 The Steel Maul is a standard Heavy Greathammer that acts as the entry point to the Greathammer weapon class. The Steel Maul has two upgraded variants, the Alloyed Steel Maul and the [Warmonger](Warmonger.md).
 
-The [Alloyed](Pluripotent_Alloy.md) variant of the Steel Maul boasts increased stats and a higher requirement, allowing for lategame viability. The alloyed version of the Steel Maul also has a demascus steel-type texture to indicate its change.
+The [Alloyed](Pluripotent_Alloy.md) variant of the Steel Maul boasts increased stats and a higher requirement, allowing for lategame viability. The alloyed version of the Steel Maul also has a damascus steel-type texture to indicate its change.
 
 ## Talent: Bulwark Breaker
 

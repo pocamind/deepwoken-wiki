@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 179508
+revid: 180031
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, War Weapons, Weapons with Talents]
@@ -17,7 +17,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25% |
-| special effect | Sacrificial Boon - Consume 5 to grant a random buff |
+| special effect | Sacrificial Boon - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |

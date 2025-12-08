@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 179662
+revid: 180030
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -17,7 +17,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | range | 8 |
 | swing speed | 1.1x |
 | penetration | 20% |
-| special effect | Punishing Riposte - After parrying any guardbreak, your critical attack gains the ability to guardbreak for the next 15 seconds. |
+| special effect | Punishing Riposte - When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Apprentice Rapier |

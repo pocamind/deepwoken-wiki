@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 179749
+revid: 180024
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
@@ -19,7 +19,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Wea
 | swing speed | 0.93x |
 | penetration | 15% |
 | chip damage | 15% |
-| special effect | Finishing Slay - Consume all Chain of Perfection stacks on critical to increase your damage output. |
+| special effect | Finishing Slay - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |

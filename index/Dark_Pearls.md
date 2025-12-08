@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 179974
+revid: 180012
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics, Equipment Relics]
@@ -16,7 +16,7 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 | requirements | 40 Shadowcast, PWR 15 |
 | weight | 0.1 |
 | innate stats | +2 Health, -2 Posture |
-| innate talent | Inky Pearls |
+| innate talent | Inky Pearls - The ether you eject is coated with inky shadow. Your vent now steals a small amount of ether. |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -32,7 +32,7 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 
 ## Trivia
 
--   Dark Pearls stacks with [Imperator's Fury](<Imperator's_Fury.md>) and all other "on Vent" effects, though it doesn't make Imperator's Fury Vent black.
+-   Dark Pearls stacks with [Imperator's Fury](<Imperator's_Fury.md>) and all other "on Vent" effects, though it doesn't make Imperator's Fury Vent black.v
 -   Dark Pearls is the first Relic **Ears** equipment, as all Relic equipment prior to Dark Pearls have been Torso equipment.
 -   Though exclusive to the Shadowcast attunement, these earrings are frequently sought after due to being only one of two earrings, the other being [Moonlit Earrings](Crescent_Earrings.md), that offer Health, and the only earrings that have a Talent.
 -   These are one of two items that grant negative stats, the other being [Citadel Frames](Citadel_Frames.md).

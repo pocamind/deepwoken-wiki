@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 179680
+revid: 180023
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -16,7 +16,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | scaling | HVY: 6 |
 | range | 8 |
 | swing speed | 0.85x |
-| special effect | Expeditions Combo - Your Onslaught will be faster after landing an uppercut. |
+| special effect | Expeditions Combo - Landing an uppercut will grant a buff to your Onslaught for 15 seconds, using Onslaught during this time will massively increase the speed of it. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |

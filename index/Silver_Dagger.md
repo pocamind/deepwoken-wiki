@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 179649
+revid: 180017
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents]
@@ -16,7 +16,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | scaling | LHT: 6 |
 | range | 6 |
 | swing speed | 1.25x |
-| special effect | Assassin's Strike - Your Rapid Slashes deals double damage. |
+| special effect | Assassin's Strike - Your Rapid Slashes now deals twice the amount of damage. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Stiletto |

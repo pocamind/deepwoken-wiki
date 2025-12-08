@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179967
+revid: 180082
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3317,7 +3317,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Ichor Imbuement \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.
     -   Doubles the damage of your Starkindred Mantras if they are casted without your wings out.
     -   This Talent is extremely situational, as your wings will be equipped upon casting a Starkindred Mantra or using Death From Above, regardless of it hits or not, and there is no way to deactivate your wings once they are out.
-    -   Prerequisites: [Oath: Starkindred](Oath%253A_Starkindred.md), kill all three sinners ([Abaddon](Abaddon,_Sinner_of_Ice.md), [Minos](Minos,_Sinner_of_Flame.md), and [Astaroth](Astaroth,_Sinner_of_Wind.md)) OR give [Samael](Samael.md) 10, instantly skipping Starkindred's progression (this can only be done if you've fully progressed the Oath at least once).
+    -   Prerequisites: [Oath: Starkindred](Oath%253A_Starkindred.md), kill two sinners (any combination of [Abaddon](Abaddon,_Sinner_of_Ice.md), [Minos](Minos,_Sinner_of_Flame.md), and [Astaroth](Astaroth,_Sinner_of_Wind.md)) OR give [Samael](Samael.md) 10, instantly skipping Starkindred's progression (this can only be done if you've fully progressed the Oath at least once).
 
 ### Static Weaver
 
@@ -4095,7 +4095,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
     -   Adds a new sound effect to Prominence Draw.
 
--   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recovery health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
+-   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
     -   Restores 4% of the user's maximum health upon landing M1 attacks.
         -   This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   This bleed damage is not like normal bleed damage, as it deals 6 damage per tick regardless of the initial hit's damage, and it ticks 5 times over 5 seconds instead of 3 ticks immediately. Additionally, this bleed has no cooldown and procs on [Motif](Motifs.md)\-applied criticals.

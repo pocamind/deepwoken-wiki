@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 179674
+revid: 180021
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -18,7 +18,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | swing speed | 0.8x |
 | penetration | 5% |
 | chip damage | 25% |
-| special effect | Battle Frenzy - Reduces the posture damage of Mantras based on the amount of combat tags you have. |
+| special effect | Battle Frenzy - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |

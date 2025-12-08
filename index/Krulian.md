@@ -1,6 +1,6 @@
 ---
 title: Krulian
-revid: 174522
+revid: 180088
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sentient species]
@@ -34,3 +34,8 @@ Krulians were described as "amalgamations of souls" by ragoozer. It is unclear h
 
 -   It is not possible to become a Krulian. Krulians are born, not created.
 -   A majority of Krulian lore comes from the devs, and barely any is disclosed from [The Ferryman](The_Ferryman.md), though a decent amount can be inferred from [The Gaunt Man's](The_Gaunt_Man.md) dialogue.
+-   Krulians took inspiration from [Kandra](https://coppermind.net/wiki/Kandra)[\[1\]](#cite-note-1), a species being able to reshape their bodies and well-practiced at imitation.
+
+## References
+
+1.  [↑](#cite-ref-1)

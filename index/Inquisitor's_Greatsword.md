@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 179667
+revid: 180028
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
@@ -18,7 +18,7 @@ categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapon
 | range | 9 |
 | swing speed | 0.84x |
 | endlag | 0.1s |
-| special effect | Sovereign's Counter - Increases the effectiveness of all non-Oath counter attacks. Punishment gains an additional buff when wearing the Authority Commander Outfit. |
+| special effect | Sovereign's Counter - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
