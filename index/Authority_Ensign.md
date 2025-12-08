@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 178297
+revid: 179958
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Central Authority, Character, Origins]
@@ -71,7 +71,7 @@ Even if you aren't in a squad, other players may be assigned to the same mission
 ### List of Missions
 
 1.  **Armanent Sabotage** - _Destroy the legion stockpiles, bait patrols away at \[Location\]._
-    -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them three times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
+    -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them two times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
     -   Potential Locations:
         -   [Starswept Valley](The_Starswept_Valley.md) - near [Sordino](Sordino.md) and the [Union Hook](Union_Hooks.md) that leads up to the Widow Cave; 44 minute time limit
         -   [Starswept Valley](The_Starswept_Valley.md) - right before the [Lifevent](Lifevents.md) that leads towards the Widow cave; 38 minute 30 second time limit

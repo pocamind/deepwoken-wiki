@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 179949
+revid: 179967
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1789,9 +1789,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _**Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown.
     -   Healing scales on your Flamecharm investment; heals 25% health at 0 Flamecharm and scales up to 50% health at 75 Flamecharm, gaining 0.33% healing per point in Flamecharm.
-    -   If burn was procced by the Flame Within Talent while knocked, the healing is halved.
-        -   If you get knocked while already on fire from Flame Within and do not get interrupted, you get the full 50% heal.
-    -   Prerequisites: All Immolator Talents
+    -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
+    -   Prerequisites: Immolation, Agitating Spark
 
 ### Inferno
 

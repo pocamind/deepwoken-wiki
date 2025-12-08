@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 179387
+revid: 179957
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -621,9 +621,6 @@ Relics hinted at by NPCs, Developers, Books, and other sources that cannot be ob
 | 
 
  | **Coral Throne** - A Relic found in the First Layer by [The Ministry](The_Ministry.md). Has the ability to increase the power of any creature that sits on it tremendously. It is currently in the possession of [The Lord Regent](The_Lord_Regent.md) and is the reason he is able to cast a mental veil around the entirety of Etris. |
-| 
-
- | **The Queensblade** - A sword used by [The Ministry](The_Ministry.md) to assassinate the true King of Etrea; its exact effect is unknown, and it is only stated that "without it, the king would surely return." Likely some form of artifact keeping the King from returning to the Luminants. |
 | 
 
  | **Lifeweave Artifacts** - Used by [The Hive](The_Hive.md), [Etrea](Etrea.md) wants to steal them for their own purpose. Mentioned in the [book](Books.md) Lament of Cirryn, these artifacts were at one point sought after by Etrea, and they are currently continuing their efforts to steal them in [The Starswept Valley](The_Starswept_Valley.md). The conflict can be seen in the Hive vs. Etrea event. |

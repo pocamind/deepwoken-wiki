@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 179475
+revid: 179973
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -32,8 +32,6 @@ categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons",
 | obtainment | Chests from:, First Layer, Scion of Ethiron, Duke Erisia, Maestro Evengarde Rest, Fishing, Heart of Enmity, The Diluvian Mechanism, Island Events, Weird Trader, Sold in Traan Zakshun's black market for 4 |
 | description | A prized blade supposedly forged during the Canticlysm by the first Galebreathers. |
 
-The Curved Blade of Winds is a weapon in _Deepwoken_.
-
 ## Description
 
 The **Curved Blade of Winds** is a Legendary medium [Sword](Weapons.md) that can cut through both air and guards with breeze. The blade curves like the start of a spiral, and within its blade is Galebreathe energy showing in swirling eddies and dotted swirls. It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
@@ -56,11 +54,11 @@ With 100 MED and 100 WND, it will deal ~30.6 damage.
 
 ## Critical
 
-### Two Handed Critical
+### One Handed Critical
 
 The user propels in a whirlwind of air, gravitating towards their cursor. Applies **Suffocate** if collided with.
 
-### One Handed Critical
+### Two Handed Critical
 
 The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
 

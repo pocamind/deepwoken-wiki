@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 179884
+revid: 179968
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -103,7 +103,7 @@ While under the effects of Void, you have anti-heal and perishing will send you 
 
 ### Fear
 
-Take 25% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by [Ardour Scream](Talents.md#ardour-scream). Signified by pink/purple particles on your character.
+Take 12.5% more damage and 1.5x posture damage while also disabling [Murmur: Tacet](Murmur%253A_Tacet.md). Applied through a [Megalodaunt's](Megalodaunt.md) roar, [Primadon's](Primadon,_Titan_of_the_East.md) Phase 2 transformation and by [Ardour Scream](Talents.md#ardour-scream). Signified by pink/purple particles on your character.
 
 ### Blinded
 

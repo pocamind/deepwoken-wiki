@@ -1,6 +1,6 @@
 ---
 title: Beloved Zofia
-revid: 178369
+revid: 179964
 source: https://deepwoken.fandom.com/wiki/Beloved_Zofia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant, Voidzones]
@@ -35,4 +35,4 @@ The Beloved Zofia can be found by hugging the Minityrsa wall and making a left t
 ## Trivia
 
 -   While the _Beloved Zofia_ is not the ship in the tutorial, they share similar - if not the exact same model. The Beloved Zofia is just a slanted version of the [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). This is likely just due to them both being the same make of ship.
--   The ship is named after the [Beloved Zofia](https://fireemblem.fandom.com/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._
+-   The ship is named after the [Beloved Zofia](https://fireemblemwiki.org/wiki/Beloved_Zofia), the signature weapon of Celica in _Fire Emblem Echoes: Shadows of Valentia._

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 179921
+revid: 179955
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -509,7 +509,7 @@ Dialogue: [Alpha](Alpha.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Rap
 -   The closest [Diver](#the-divers) expedition base to [Drowned Celtor](#the-drowned-city-of-celtor).
 -   Klaris Llfiend presides over the base and supervises expeditions into the [Second Layer](#the-eternal-gale-the-second-layer).
 
-Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: | Glossary Entries: [Lighthook](#lighthook)
+Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthook](#lighthook)
 
 ### The Central Luminant
 

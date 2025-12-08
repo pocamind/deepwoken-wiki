@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 172166
+revid: 179969
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -19,7 +19,7 @@ categories: [Oaths, The Starkindred Church]
 
 ## Description
 
-**[Oath](Oaths.md): Starkindred** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both Combat and Agility, unlike Oaths like [Dawnwalker](Oath%253A_Dawnwalker.md) and [Jetstriker](Oath%253A_Jetstriker.md), which almost entirely focus on one.
+**[Oath](Oaths.md): Starkindred** is one of the 17 obtainable Oaths in _Deepwoken_. It allows one to take advantage of the anomalies that appears on one's body after drinking the blood of a [Celestial](Celestial.md). It is a balanced Oath, having good options for both combat and mobility.
 
 “ The viscous fluid singes your mouth. As it sinks into you, you feel it slowly begin to course out into your veins, pulses of agony washing over you with every heartbeat. Clutching onto the words Samael left you is all that keeps you afloat above the dark void of unconsciousness. And as your mind empties of all other thoughts, the agony finally begins to subside... ”
 
@@ -49,7 +49,7 @@ To progress the Oath and obtain its mantras, you must kill the 3 Sinners spread 
 -   **[Minos, Sinner of Flame](Minos,_Sinner_of_Flame.md)** right next to the inn/guildhall at [Summer Isle](Summer_Isle.md).
 -   **[Astaroth, Sinner of Wind](Astaroth,_Sinner_of_Wind.md)**, at [Songseeker Wilds](Songseeker_Wilds.md), at the twin derelict bastions.
 
-You will get a Mantra for each kill, and a chest containing [Songseeker](Songseeker_Wilds.md) loot.
+You will get a Mantra for each kill, and a chest containing [Songseeker Wilds](Songseeker_Wilds.md) loot.
 
 The order of Mantras goes as follows: Ascension, Sinister Halo, Celestial Assault.
 
