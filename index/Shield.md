@@ -1,6 +1,6 @@
 ---
 title: Shield
-revid: 149720
+revid: 180252
 source: https://deepwoken.fandom.com/wiki/Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Weapons#Offhand](Weapons.md#offhand)
+-   Category:Shields

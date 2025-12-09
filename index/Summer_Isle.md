@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 178188
+revid: 180312
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -202,7 +202,7 @@ Events that spawn in Summer Isle. For more info, see [Random Encounters](Random_
 
 #### Nomads [Navaeiconfaction](The_Children_of_Navae.md) V.S. The Ministry [Ministryiconfaction](The_Ministry.md)
 
--   One [Eastern Tribal Leader](Eastern_Nomad_Leader.md) and one [Eastern Tribe Nomad](Eastern_Nomad.md) fighting off two [Ministry Scouts](Ministry_Scout.md).
+-   One [Eastern Nomad Leader](Eastern_Nomad_Leader.md) and one [Eastern Nomad](Eastern_Nomad.md) fighting off two [Ministry Scouts](Ministry_Scout.md).
 -   You will be rewarded with a decent amount of XP and a chest, which side wins doesn't matter. Although Ministry Scouts do give more XP upon killing.
 
 ## Loot Table & Purchasable Items

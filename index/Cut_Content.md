@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 179935
+revid: 180280
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -279,6 +279,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Lethal Precision \[Common Talent, Light\] -** When you attack an enemy much weaker than you, you kill them instantly.
     -   In the October 6th, 2023 update, Lethal Precision was changed into the quest Talent Mercy Kill.
 
+-   **Lodestar \[Oath Talent\] -** Parrying mantras now silences your enemy temporarily, disabling their ability to cast further mantras.
+    -   In the September 13th, 2024 update, Lodestar was removed with the Silentheart "Unparalleled Vengeance" rework.
+
 -   **Lootskipper \[Rare Talent\] -** Mobs have a much higher chance to drop their rarest loot when slain.
     -   In the July 14th, 2025 update, Lootskipper was removed. To make up for its removal, the drop rates on rarer mob drops were greatly increased.
 
@@ -287,6 +290,10 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Maestro's Blade \[Common Talent, Galebreathe\] -** Inhaling a spell will cause the wind to be applied to your M1's.
     -   In the August 30th, 2024 update, Maestro's Blade was merged into Inhale.
+
+-   **Mani Katti \[Oath Talent\] -** Your uppercut transforms into a teleport slash attack when you have Dread stacks, before going on a short cooldown.
+    -   In the September 13th, 2024 update, Mani Katti was removed with the Silentheart "Unparalleled Vengeance" rework.
+-   This was later reinvented into [Silent Cascade](Talents.md#silent-cascade), which instead now requires physical attacks rather than Dread stacks.
 
 -   **Mark of the Lone Warrior \[Common Talent\] -** Your ability to overcome true adversity manifests. You progress much more quickly.
     -   In the December 23rd, 2022 update, Mark of the Lone Warrior was removed.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180167
+revid: 180311
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2433,7 +2433,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
-    -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to [Eastern Camp Master](Cheral.md) at [Etrean Wilds](Etrean_Wilds.md) or [Eastern Tribal Leader](Eastern_Nomad_Leader.md) at [Summer Isle](Summer_Isle.md).
+    -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to the [Eastern Camp Master](Cheral.md) or [Eastern Nomad Leader](Eastern_Nomad_Leader.md).
 
 ### Needle
 

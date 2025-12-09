@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 179358
+revid: 180298
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -133,7 +133,7 @@ Exclusive to [Minityrsa](Minityrsa.md), this is a unique humanoid enemy that is 
 Groups of NPCs from different factions will spawn in Eastern Luminant and attack each other. Helping a side will usually reward you with their respective reputation.
 
 -   [Summer Company Guards](Summer_Company_Guard.md) [Summericonfaction](The_Summer_Company.md) vs [Ignition Union Fighters](Ignition_Union_Fighter.md) ([Summer Isle](Summer_Isle.md)/[Miner's Landing](<Miner's_Landing.md>)/[Saramaed Summit](Saramaed_Summit.md))
--   [Eastern Tribe Nomad](Eastern_Nomad.md) + [Eastern Tribal Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](The_Children_of_Navae.md) vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
+-   [Eastern Nomad](Eastern_Nomad.md) + [Eastern Nomad Leader](Eastern_Nomad_Leader.md) [Navaeiconfaction](The_Children_of_Navae.md) vs [Ministry Scouts](Ministry_Scout.md) [Ministryiconfaction](The_Ministry.md) ([Summer Isle](Summer_Isle.md))
 -   [Vigil Swordsmen](Vigil_Swordsman.md) [Etreaiconfaction](Etrea.md) vs [Hive Scouts](Hive_Scout.md) [Hiveiconfaction](The_Hive.md) ([Starswept Valley](The_Starswept_Valley.md))
 -   [Legion Captain](Legion_Captain.md) vs [Authority Lieutenant](Authority_Lieutenant.md) [Authorityiconfaction](The_Central_Authority.md) ([Starswept Valley](The_Starswept_Valley.md))
 -   [Hive Construct](Hive_Construct.md) [Hiveiconfaction](The_Hive.md) vs [Authority Captain](Authority_Captain.md) [Authorityiconfaction](The_Central_Authority.md) ([Starswept Valley](The_Starswept_Valley.md))

@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 172914
+revid: 180297
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -30,7 +30,7 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 | --- | --- | --- |
 | Hero | 300 | 
 -   [The Central Authority](The_Central_Authority.md): Unlocks the [Authority Ensign](Authority_Ensign.md) [origin](Origins.md).
--   [The Children of Navae](The_Children_of_Navae.md): Speaking to the [Eastern Tribal Leader](Eastern_Nomad_Leader.md) unlocks the [Way of Navae](Way_of_Navae.md) [fist](Fists.md) fighting style.
+-   [The Children of Navae](The_Children_of_Navae.md): Speaking to the [Eastern Nomad Leader](Eastern_Nomad_Leader.md) or [Eastern Camp Master](Cheral.md) unlocks the [Way of Navae](Way_of_Navae.md) fighting style.
 
  |
 | Ally | 150 to 299 | NPCs now will greet you with your first name |

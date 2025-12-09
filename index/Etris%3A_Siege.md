@@ -1,6 +1,6 @@
 ---
 title: "Etris: Siege"
-revid: 167934
+revid: 180319
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Etrea, World Event]
@@ -49,15 +49,15 @@ Up to nine NPCs are in this event.
 
 ## Trivia
 
-**NPC's will have special dialogue during this event, such as:**
+**NPCs will have special dialogue during this event, such as:**
 
--   ''Get to the town center, Hurry!''
--   ''The town is burning! It's burning! Help!''
--   ''We need all the help we can get! Get to the town and clear out the Authority! Please!''
+-   _Get to the town center, Hurry!_
+-   _The town is burning! It's burning! Help!_
+-   _We need all the help we can get! Get to the town and clear out the Authority! Please!_
 
 **Authority Guards will also have special dialogue nearing the end of the event, such as:**
 
--   ''ONE FINAL PUSH! TO THE CENTER, ROUT THEM!''
+-   _ONE FINAL PUSH! TO THE CENTER, ROUT THEM!_
 
 One of the only places that will never burn in the Etris Raid Event is [Lord Regents](The_Lord_Regent.md) Palace.
 

@@ -1,6 +1,6 @@
 ---
 title: Navaen Hostage
-revid: 177665
+revid: 180301
 source: https://deepwoken.fandom.com/wiki/Navaen_Hostage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, The Children of Navae]
@@ -25,7 +25,7 @@ They are found in a prisoner pose, kneeled down on both knees and having their a
 
 Navaen Hostages can be picked up by pressing V. Dropping them will cause them to be knocked for a bit before returning to their original stance. Unlike any normal NPC, you can carry the hostage anywhere and everywhere, and will not despawn unless you travel to a new Luminant.
 
-Bringing a Navaen Hostage to the [Eastern Tribal Leader](Eastern_Nomad_Leader.md), [Beiruul](Beiruul.md), or the [Eastern Camp Master](Cheral.md) will give you the [Way of Navae](Way_of_Navae.md) fighting style prompting a dialogue that will be shown below. This will also allow you to choose the style in [Character Creation](Character_Creation.md) on subsequent characters.
+Bringing a Navaen Hostage to the [Eastern Nomad Leader](Eastern_Nomad_Leader.md), [Beiruul](Beiruul.md), or the [Eastern Camp Master](Cheral.md) will give you the [Way of Navae](Way_of_Navae.md) fighting style prompting a dialogue that will be shown below. This will also allow you to choose the style in [Character Creation](Character_Creation.md) on subsequent characters.
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 ---
 title: Celtorian Tideknight
-revid: 176964
+revid: 180283
 source: https://deepwoken.fandom.com/wiki/Celtorian_Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, Lost Celtor]
@@ -17,7 +17,7 @@ categories: [Outfits, Master Outfits, Lost Celtor]
 | stat_req | Power 15 |
 | bankable | Yes |
 | droppable | Yes |
-| durability | 2800 Durability |
+| durability | 2800 |
 | resistances | +30% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +10% Shadow Armor, +5% Ice Armor |
 | talents | Tidekeeper |
 | obtainment | The Diluvian Mechanism, Sold in Traan Zakshun's black market for 75 |

@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper
-revid: 176636
+revid: 180284
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies]
@@ -80,11 +80,12 @@ Their arsenal is composed of a [Rifle Spear](Rifle_Spear.md), [Cavalry Saber](Ca
 
 ### Talents
 
--   Flaming Flourish - Set enemies on fire when you flourish or uppercut them.
+-   [All-Consuming Flame](Talents.md#all-consuming-flame) - Your flames will incinerate unconscious Targets much faster.
+-   [Corpse Explosion](Talents.md#corpse-explosion) - Bodies that you burn to death immediately explode dealing massive damage.
+-   [Flaming Flourish](Talents.md#flaming-flourish) - Set enemies on fire when you flourish or uppercut them.
+-   [Hell's Partisan](Talents.md#hells-partisan) - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.
 -   Speed Demon - Your attacks now inflict bleed while you have a speed boost.
 -   The Final Act - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
--   All-Consuming Flame - Your flames will incinerate unconscious Targets much faster.
--   Corpse Explosion - Bodies that you burn to death immediately explode dealing massive damage.
 
 ## Finisher
 

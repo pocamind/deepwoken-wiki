@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 179463
+revid: 180313
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae]
@@ -24,12 +24,12 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Nav
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Step 1: Find a Navaen Nomad., Step 2: Turn it in to Eastern Camp Master, Eastern Tribal Leader, or Beiruul.OR, Step 1: Have high positive reputation with The Children of Navae., Step 2: Speak to a Eastern Tribal Leader. |
+| obtainment | Step 1: Find a Navaen Nomad., Step 2: Turn it in to Eastern Camp Master, Eastern Nomad Leader, or Beiruul.OR, Step 1: Have high positive reputation with The Children of Navae., Step 2: Speak to a Eastern Nomad Leader. |
 | description | Adopt the fighting stance of the Way of Navae. |
 
 ## Description
 
-Way of Navae is a martial arts-based fighting style obtained by rescuing a Nomad from [Erisia](Erisia.md) or [Fort Merit](Fort_Merit.md), or by speaking to an [Eastern Tribal Leader](Eastern_Nomad_Leader.md) while having high positive reputation with the Children of Navae.
+Way of Navae is a martial arts-based fighting style obtained by rescuing a Nomad from [Erisia](Erisia.md) or [Fort Merit](Fort_Merit.md), or by speaking to an [Eastern Nomad Leader](Eastern_Nomad_Leader.md) while having high positive reputation with the Children of Navae.
 
 While Way of Navae has the same damage as other traditional fist styles, the critical possesses more range and is able to instantly guard break if the opponent fails to parry it. While the windup for the critical is longer, this is a great mix up when using your normal M1's which is what usually leads to guard breaks.
 
@@ -48,7 +48,7 @@ To obtain it, you must find a [Navaen Hostage](Navaen_Hostage.md). They are most
 -   [Eastern Camp Master](Cheral.md) at [Etrean Wilds](Etrean_Wilds.md)
 -   [Beiruul](Beiruul.md) at [Meteor Isle](Meteor_Isle.md)
 
-It may also be obtained by speaking to an [Eastern Tribal Leader](Eastern_Nomad_Leader.md) with high positive reputation with [The Children of Navae](The_Children_of_Navae.md), granting you the Fist Style without having to find and rescue a [Navaen Hostage](Navaen_Hostage.md).
+It may also be obtained by speaking to an [Eastern Nomad Leader](Eastern_Nomad_Leader.md) with high positive reputation with [The Children of Navae](The_Children_of_Navae.md), granting you the Fist Style without having to find and rescue a [Navaen Hostage](Navaen_Hostage.md).
 
 Completing either of these methods will grant you the Way of Navae Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 

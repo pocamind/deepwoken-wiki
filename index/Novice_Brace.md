@@ -1,6 +1,6 @@
 ---
 title: Novice Brace
-revid: 176512
+revid: 180303
 source: https://deepwoken.fandom.com/wiki/Novice_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Braces]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Braces]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Found from:, Blacksteel Pirate, Erisia, Eastern Tribal Leader, Heart of Enmity, Lodestar, Hell Mode, Maestro Evengarde Rest, Duke Ishamon Erisia, Dread Serpent |
+| obtainment | Found from:, Blacksteel Pirate, Erisia, Eastern Nomad Leader, Heart of Enmity, Lodestar, Hell Mode, Maestro Evengarde Rest, Duke Ishamon Erisia, Dread Serpent |
 | description | ... |
 
 ## Description
