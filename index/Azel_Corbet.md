@@ -1,6 +1,6 @@
 ---
 title: Azel Corbet
-revid: 180155
+revid: 180349
 source: https://deepwoken.fandom.com/wiki/Azel_Corbet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Divers, Characters mentioned in books, Deceased characters]
@@ -14,7 +14,7 @@ categories: [The Divers, Characters mentioned in books, Deceased characters]
 | alias | Apprentice Azel[1] |
 | aspect | Adret[2] |
 | affiliation | Eaten by bounders (presumably)[1] |
-| deathdate | 1363 CE |
+| deathdate | 1272 CE[3] |
 
 ## Description
 
@@ -24,10 +24,11 @@ An aspiring diver apprentice, who met his demise during the Divers' expedition t
 
 ## Trivia
 
--   He is not the same person as the [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>), as the latter one met his fate from the hands of the parasites, whilst Azel was eaten by the [bounders](Bounder.md).[\[1\]](#cite-note-journal-1)[\[3\]](#cite-note-journal-iii-3)
+-   He is not the same person as the [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>), as the latter one met his fate from the hands of the parasites, whilst Azel was eaten by the [bounders](Bounder.md).[\[1\]](#cite-note-journal-1)[\[4\]](#cite-note-journal-iii-4)
 
 ## References
 
 1.  ↑ [1.0](#cite-ref-journal-1-0) [1.1](#cite-ref-journal-1-1) [1.2](#cite-ref-journal-1-2) [1.3](#cite-ref-journal-1-3) [1.4](#cite-ref-journal-1-4) [1.5](#cite-ref-journal-1-5) [Diver Journal, I](Diver_Journal,_I.md)
 2.  [↑](#cite-ref-2) [Adret surname](Adret.md)
-3.  [↑](#cite-ref-journal-iii-3-0) [Diver Journal, III](Diver_Journal,_III.md)
+3.  [↑](#cite-ref-3) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.
+4.  [↑](#cite-ref-journal-iii-4-0) [Diver Journal, III](Diver_Journal,_III.md)

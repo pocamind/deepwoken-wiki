@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180311
+revid: 180331
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1201,10 +1201,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Empath
 
--   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD.
-    -   The Taunt damage buff is also applied to the attack that guard broke.
-    -   Applies Taunt for 6 seconds.
+-   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
+    -   Despite what the description states, this applies Taunt for 6 seconds.
     -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
+    -   The Taunt damage buff is also applied to the attack that guard broke.
     -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.

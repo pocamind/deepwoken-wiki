@@ -1,6 +1,6 @@
 ---
 title: Canor Swornfangs
-revid: 179977
+revid: 180348
 source: https://deepwoken.fandom.com/wiki/Canor_Swornfangs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Dissolved organizations, Adretian Empire]
@@ -17,8 +17,8 @@ notices:
 
 ## Description
 
-**Canor Swornfangs** were the loyal protectors of the [Adretian Empire](Adretian_Empire.md). They were the wielders of the [Canorian Axes](Canorian_Axe.md).[\[1\]](#cite-note-axe-1)
+**Canor Swornfangs** were the loyal protectors of the [Adretian Empire](Adretian_Empire.md) during its early days. They were the wielders of the axes which would later go on to inspire the designs of the [Canorian Axes](Canorian_Axe.md).[\[1\]](#cite-note-axe-1)
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-axe-1-0) [1.1](#cite-ref-axe-1-1) [1.2](#cite-ref-axe-1-2) [Canorian Axe item description](Canorian_Axe.md)
+1.  ↑ [1.0](#cite-ref-axe-1-0) [1.1](#cite-ref-axe-1-1) [1.2](#cite-ref-axe-1-2) [Canorian Axe](Canorian_Axe.md) description

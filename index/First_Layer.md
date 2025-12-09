@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 178789
+revid: 180341
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1, Map]
@@ -15,22 +15,38 @@ The **First Layer** of [The Depths](The_Depths.md), also known as **Scyphozia,**
 ## Points of Interest
 
 -   [The City of the Drowned](The_City_of_the_Drowned.md)
+    -   Important NPCs:
+        -   [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md)
     -   [Varicosa District](Varicosa_District.md)
     -   [The Military District](The_Military_District.md)
     -   [District of Commerce](District_of_Commerce.md)
     -   [Cathedral of the Interstice](Cathedral_of_the_Interstice.md)
+        -   Important NPCs:
+            -   [Shrine of Courage](Shrine_of_Courage.md)
 
 -   [Temple of Hearts](Temple_of_Hearts.md)
+    -   Important NPCs:
+        -   All [Deep Shrines](Deep_Shrines.md)
+        -   [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)
 
 -   [Castle Light](Castle_Light.md)
     -   [Light's Causeway](<Light's_Causeway.md>)
+    -   Important NPCs:
+        -   Various town-NPCs [Banker](Banker.md), [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md), [Mystic](Mystic.md), etc. accessible only to [Deepbounds](Deepbound.md)
+        -   [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md)
 
 -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
-    -   Ignition Union Deepdriller
+    -   Important NPCs:
+        -   Various town-NPCs [Banker](Banker.md), [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md), [Mystic](Mystic.md), etc. accessible only to [Ignition Delvers](Ignition_Delver.md)
+        -   [Hollow Forge](Hollow_Forge.md), accessible only to [Ignition Delvers](Ignition_Delver.md)
+
 -   [Marauder's Entrance](<Marauder's_Entrance.md>)
+    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
 -   [Celtor Wastes](Celtor_Wastes.md)
     -   [The Cold Forge](The_Cold_Forge.md)
+    -   Important NPCs:
+        -   [The Gaunt Man](The_Gaunt_Man.md)
 
 ## Escaping First Layer
 
@@ -50,17 +66,27 @@ The main and preferred method to escape is by the [Depths Trial](Cathedral_of_th
 
 **This method can only be done once per character**. The alternative method is limited to players with a [Resonance](Resonance.md) and an eligible [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) or an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>). Talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place.**" This method skips the trial altogether, but will only work in the **First Layer**. You can also achieve this with the use of an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**", which does not require a [Resonance](Resonance.md) nor a [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) from [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>).
 
+Wishing to escape the Depths can only be done once per method, per character. For example, if you've already escaped the Depths by using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), then you will only be able to wish your way out again if you speak to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) itself, and once both options have been exhausted, you will need to escape through the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md).
+
+## The Void
+
+The void is an ever-present hazard in the First Layer, being large sections of the map that have been cut away to reveal an endless pit. Falling into the Void will mean **instant death**, and your character **wiping**, unless your current health is above the 'Void Threshold'. The Void Threshold is a percentage of your maximum health, showcased as a corroded section on your healthbar. As long as your current health is above this threshold, then jumping into the Void will send you to the [Second Layer](Second_Layer.md) instead of wiping you. The Void Threshold is affected by many variables:
+
+1.  If you are not in combat, are in PvE combat, or are in PvP combat while being **below** Power 16, your Void Threshold will be 50% of your maximum health
+2.  If you are in PvP combat while being Power 16 or higher, your Void Threshold will be increased, scaling on your level. This caps at a maximum of 75% of your maximum health at Power 20.
+3.  Your Void Threshold will be reduced by 5% for every player Combat Tag you have, capping at a minimum threshold of 40% of your maximum health.
+
 ## Farming in First Layer
 
 Scyphozia, being a naturally hostile location, is intentionally difficult to survive in, from perpetual monster spawnage to the fast and easy to forget sanity loss. However, the benefits of EXP Gain and loot drops can far outweigh the dangers for players who are willing to risk wiping in seconds. Listed below are some things you may want to consider before heading down. These things will aid in your sustained survival in one of the most treacherous areas in Deepwoken.
 
 ### Talents & Equipment
 
--   _**Carnivore**_, the Talent that makes up part of the **Apex Predator** Talent tree, is important if you plan to stay in The Depths in the long term. It removes the ability to consume plants (mutual exclusive with Vegetarian flaw), but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. With most food in the Depths being poisonous, the steady supply of blue Jellyfish is more than enough to keep you satiated. Requires **5 Willpower** and **5 Strength**.
--   _**Conquer Your Fears**_, a Talent that makes up part of the **Mental Fortress** Talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** Talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
--   _**Underdog**_ allows more damage to larger foes. Good for fighting Sharkos, Lionfish and Crabs. Requires **40 Willpower.**
--   _**[Blindseer Oath](Oath%253A_Blindseer.md)**_, an Oath obtainable through **40 Willpower** and all 3 **Mental Fortress** cards, will allow passive survival in Layer One for over an hour due to the base sanity stat.
--   **Damage vs Monsters (DvM) and Monster Armor,** a mechanic that can progressively increase the strength of your attacks against and your resistance to monsters. This is increased by killing multiples of the same monster, and is player-data wide, but only applies to the monster you killed. It might not be as useful for killing King Gigameds or Crustaceous Rexes, as they do not spawn on the surface, but killing plenty of Megalodaunts, Mudskippers and Lionfish in the (relative) safety of the Overworld can save your life in the Depths.
+-   _**[Carnivore](Talents.md#carnivore)**_, the Talent that makes up part of the **Apex Predator** Talent tree, is important if you plan to stay in The Depths in the long term. It removes the ability to consume plants (mutual exclusive with [Vegetarian](Boons_and_Flaws.md#vegetarian) flaw), but in exchange, gripping Players, NPCs, **AND** monsters will replenish your HP, Hunger, and Thirst meters. With most food in the Depths being poisonous, the steady supply of blue Jellyfish is more than enough to keep you satiated. Requires **5 Willpower** and **5 Strength**.
+-   _**[Conquer Your Fears](Talents.md#conquer-your-fears)**_, a Talent that makes up part of the **Mental Fortress** Talent tree, is a good way to combat the slow drain of Sanity that being within purgatory imposes. Though all Talents in the **Mental Fortress** Talent tree are beneficial inside The Depths, **Conquer Your Fears** is a surefire guarantee as, like **Carnivore**, it replenishes your Sanity upon killing monsters of the Deep. Requires **10 Willpower**.
+-   _**[Underdog](Talents.md#underdog)**_ allows more damage to larger foes and opponents with higher health than you. Almost every Depths mob, especially since the second part of this Talent will almost always be active in PvE. Requires **40 Willpower.**
+-   _**[Megalodaunt Coat](Megalodaunt_Coat.md)**_ and _**[Pathfinder Elite](Pathfinder_Elite.md)**_, these are the only two equipment items with the Damage Vs. Monsters stat, increasing your damage dealt to all [Monsters](Monsters.md).
+-   _**[Diver's Ring](<Diver's_Ring.md>)**_, this ring increases your damage dealt to Monsters in the Depths by 5%.
 
 ### Tips and Tricks
 
@@ -76,7 +102,7 @@ Information to keep in mind.
 -   The inability to create campfires means that healing methods are limited. Besides killing monsters, especially jellyfish, commonly nicknamed "Health Packs" (unless you engaged combat with a player), and Graceful Flame (with the Talent Undying Flame), you might want to consider bringing _**healing potions**_.
 -   _**Heartening Salves**_ are also a great idea to bring because of their special ability to get rid of insanity. They are a part of **[Alchemy](Alchemy.md)** and cost three Bluecaps to make the maximum effective version of the potion.
 -   _**Warrior's Respite**_ is an extremely useful Talent in The Depths, allowing you to heal without special abilities. Another good card is _**Conditioned Runner**_, which allows you to heal while running.
--   **[Mute](Regalia.md#mute)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils. Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, any group of mobs can aid your escape. Keep in mind that hitting a monster even once **will** make them attack you.
+-   **[Mute](Regalia.md)** will be your best friend if you desire to farm in the Depths. However, due to being a [Regalia](Regalia.md), your character can only be born with it under certain conditions that are still unknown. The reason why Animal King will be very helpful in the Depths is because most, if not, **all** monsters in the Depths will be Neutral to you on sight. This will make farming mobs a lot easier, as they will also lose aggro to you if you do not attack them after 15 seconds, similar to guards in Etris or Isle of Vigils. Thanks to this, The Depths may be your best friend when you are in a pinch such as if you are attacked by a group of high levels, any group of mobs can aid your escape. Keep in mind that hitting a monster even once **will** make them attack you.
 -   If you have the Deepbound origin, remember to regularly visit [Castle Light](Castle_Light.md), as it will rapidly restore your sanity.
 -   Seaweed is currently the only natural source of food for vegetarians in the Depths, although it will drain a sliver of your thirst.
 
@@ -103,11 +129,9 @@ Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
 -   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
 
-## Loot Table
+## **Scyphozia** Loot Table
 
-Below is a list of potential items that can spawn within chests in Scyphozia. Scyphozia is the one of the best places in the game for high end loot, and corrupted monsters give better loot than normal monsters.
-
-**Keep in mind that this list is still incomplete.**
+_The first layer of the depths, where most souls go to die, holding more reliable high-end loot then most other places._
 
 <table>
 <tbody>
@@ -115,28 +139,29 @@ Below is a list of potential items that can spawn within chests in Scyphozia. Sc
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
   <td>
   <ul>
-    <li><b>Master</b>: <a href="Authority_Commander.md">Authority Commander</a>, <a href="Black_Diver.md">Black Diver</a>, <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
-    <li><b>Expert</b>: <a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a></li>
-    <li><b>Adept</b>: <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Carefree_Garments.md">Carefree Garments</a></li>
     <li><b>Starter</b>: <a href="Eager_Tradesman.md">Eager Tradesman</a></li>
+    <li><b>Adept</b>: <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Carefree_Garments.md">Carefree Garments</a></li>
+    <li><b>Expert</b>: <a href="Grand_Pathfinder_Cloak.md">Grand Pathfinder Cloak</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a></li>
+    <li><b>Master</b>: <a href="Authority_Commander.md">Authority Commander</a>, <a href="Black_Diver.md">Black Diver</a>, <a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>All <a href="Deep_Gems.md">Deep Gems</a></li>
+    <li><a href="Items.md">Items</a>: All non-exclusive <a href="Deep_Gems.md">Deep Gems</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a>.</li>
-    <li><b>Alloyed Weapons</b>: <a href="Darksteel_Greatsword.md#alloyed">Darkalloy Greatsword</a>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a></li>
+    <li><b>Alloyed Weapons</b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
+    <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Flamekeeper_Cestus.md">Flamekeeper Cestus</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></li>
-    <li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a></li>
+    <li><b>Medium Weapons</b>: <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Iron_Twinblade.md">Iron Twinblade</a>, <a href="Scalesplitter.md">Scalesplitter</a></li>
     <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Enforcer's_Blade.md">Enforcer's Blade</a>, <a href="Iron_Birch.md">Iron Birch</a>, <a href="Pale_Morning.md">Pale Morning</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Parrying_Dagger.md">Parrying Dagger</a></li>
@@ -146,17 +171,17 @@ Below is a list of potential items that can spawn within chests in Scyphozia. Sc
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><b><a href="Equipment.md#head"><font>Head Equipments</font></a></b>: <a href="Assassin's_Hood.md">Assassin's Hood</a> <b>(Series)</b></li>
-    <li><b><a href="Equipment.md#arms"><font>Arms Equipment</font></a></b>:
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Assassin's_Hood.md">Assassin's Hood</a> (Pale)</li>
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
-    <li><b>Legendary Arms</b>: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a>.</li>
-    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Pale Assassin's Cloak</a></li>
+    <li><b>Legendary Arms</b>: <a href="Moonseye_Gauntlets.md"><font>Moonseye Gauntlets</font></a>, <a href="Providence_Coat.md"><font>Providence Coat</font></a></li>
+    <li><b>Generic Arms</b>: <a href="Assassin's_Cloak.md">Assassin's Cloak</a> (Pale)</li>
   </ol></li>
-    <li><b><a href="Equipment.md#legs"><font>Leg Equipments</font></a></b>: <a href="Enforcer_Boots.md">Enforcer Boots</a>, <a href="Star_Boots.md">Star Boots</a></li>
-    <li><b><a href="Equipment.md#torso"><font>Torso Equipments</font></a></b>: <a href="Pathfinder's_Backpack.md">Pathfinder's Backpack</a></li>
-    <li><b><a href="Equipment.md#face"><font>Face Equipments</font></a></b>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a></li>
-    <li><b><a href="Equipment.md#ears"><font>Ear Equipments</font></a></b>: N/A</li>
-    <li><b><a href="Equipment.md#rings"><font>Rings</font></a></b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Enforcer_Boots.md">Enforcer Boots</a>, <a href="Star_Boots.md">Star Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Pathfinder's_Backpack.md">Pathfinder's Backpack</a></li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Demon_Mask.md">Demon Mask</a>, <a href="Hivelord_Mask.md">Hivelord Mask</a></li>
+    <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: N/A</li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a></li>
   </ul></td>
 </tr>
 </tbody>
@@ -177,15 +202,15 @@ Below is a list of potential items that can spawn within chests in Scyphozia. Sc
 -   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Deepbound.md) origin.
 -   If you find yourself in the Depths with very little health, there are some options for you. These options include using the _Warrior's Respite_ Talent, killing a low-level mob (i.e a Jellyfish or a Mudskipper) for healthpack, or a friend that can place a Graceful Flame for you.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
--   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strength-mantras), [Flame Leap](Flamecharm.md), or [Adrenaline Surge](Attunement-less.md#agility-mantras) will be helpful in fleeing any unwanted fights and navigate the treacherous terrain.
+-   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strong-leap), [Flame Leap](Flamecharm.md#flame-leap), or [Adrenaline Surge](Attunement-less.md#adrenaline-surge) will be helpful in fleeing any unwanted fights and navigate the treacherous terrain.
 -   **AVOID** fighting a [Megalodaunt](Megalodaunt.md) near pitfalls - getting kicked by a Megalodaunt will likely fling you off the edge, which may lead you to an unexpected wipe, or Layer 2 visit. If you do happen to fight one near a pitfall/cliff, and there is no chance of regaining flat ground with no risks of pitfalls, face your character towards the edge of the cliff. The Megalodaunt will **always** attack facing the characters front side.
 -   **AVOID** the [Nautilodaunt](Nautilodaunt.md) if you're unexperienced with it. The Nautilodaunt will make loud grumbling noises when in it's idle spawn state. Once spotted, it is extremely difficult to escape. Unlike any normal monster, they can spot you at unfairly long distances, even when you're not even in their line of sight. They're very tough but also highly intelligent in close combat, being able to skillfully parry, block and vent attacks and criticals which leaves you having a good chance of being wiped by them. If you are caught by a Nautilodaunt, try scaling the tallest building you can find in the city, and then log after your combat tag disappears. Because if you didn't know already, they will **never** stop chasing you.
--   Avoid any monsters you have little to no experience with, especially [Deep](Deep_Owl.md) [Owls](Deep_Owl.md), [King](King_Thresher.md) [Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk (Except for the Nautilodaunts since they spawn in the Depths, but [the Diluvian Mechanism](The_Diluvian_Mechanism.md) is a very unorthodox but available way to train).
+-   Avoid any monsters you have little to no experience with, especially [Deep Owls](Deep_Owl.md), [King Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk (Except for the Nautilodaunts since they spawn in the Depths, but [the Diluvian Mechanism](The_Diluvian_Mechanism.md) is a very unorthodox but available way to train).
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe if not careful.
 -   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with Graceful Flame. Thresher Scales does not work with the Diver lockers.
--   If within the vicinity of [Castle](Castle_Light.md) [Light](Castle_Light.md), it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and tanky, shifting the monster's aggro towards them, effectively protecting you.
--   If you plan on using [Flame Ballista](Flamecharm.md) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target. Do know where the monster will spawn.
+-   If within the vicinity of [Castle Light](Castle_Light.md), it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and tanky, shifting the monster's aggro towards them, effectively protecting you.
+-   If you plan on using [Flame Ballista](Flamecharm.md#flame-ballista) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target. Do know where the monster will spawn.
 -   If [Finnegan The Lost](Finnegan_The_Lost.md) or [The Fisherman](The_Fisherman.md) randomly spawn upon you, and you are not powerful enough to defeat them, run. It is not worth risking it against an enemy that has too much HP for you to properly deal with, and they dont have a good arsenal of player-catching mantras with them - just try not to get stuck with the Fisherman's chains, or get caught by Finnegan's Metal Ball.
 -   Stay aware of your surroundings. With the recent job updates, the presence of more players increases the likelihood of monster spawns, which could make your situation worse if you're fighting a monster or players. While it is good having players in a server which could potentially help you in sticky situations, its not always a guarantee that they are friendly or they are there within your vicinity.
 -   If you are unfamiliar with monsters and the Depths in general, always try bringing another experienced and competent friend with you, as it will make learning the harrowing tribulations of the Depths slightly more easing for you.
@@ -203,7 +228,7 @@ Below is a list of potential items that can spawn within chests in Scyphozia. Sc
 -   The instruments in the combat theme heard in this location are reminiscent of "[void](https://www.youtube.com/watch?v=yXX9gO56EXw)," a theme within the Terraria Calamity Mod that is heard within the 4th layer of the similarly dangerous Abyss biome.
 -   If you are facing against a player/mob in The Depths while you have your back facing the void, it is essentially guaranteed that you will most likely be launched into the void if you are not careful. Many players, **experienced** or **not**, have fallen victim or **will** fall victim to the void at **least** once in their gameplay.
 -   According to the "Munet Journal, XIV", it canonically takes 2 weeks for a being to escape the depths.
--   The Depths Collapse Event can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha](Alpha_Megalodaunt.md) [Megalodaunt](Alpha_Megalodaunt.md), a [King](King_Thresher.md) [Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [Hell Mode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
+-   The Depths Collapse Event can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha Megalodaunt](Alpha_Megalodaunt.md), a [King Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [Hell Mode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
 -   If you go into the Depths Trial arena solo, but your Difficulty Score is low enough for your trial to be Nothing, then the Voice of Enmity and Voice of Odium have special dialogue, and the Voice of Authority doesn't talk.
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the Depths.
     -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods.

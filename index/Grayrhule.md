@@ -1,6 +1,6 @@
 ---
 title: Grayrhule
-revid: 178853
+revid: 180358
 source: https://deepwoken.fandom.com/wiki/Grayrhule
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Ministry, Deceased characters]
@@ -12,13 +12,13 @@ notices:
 
 | Grayrhule | |
 |---|---|
-| name | Grayhule[1] |
+| name | Grayrhule[1] |
 | affiliation | The Ministry[1] |
 | death | Succumbed to his shadows during a forbidden Ministry Ritual[1] |
 
 ## Description
 
-Grayhule was an agent of [the Ministry](The_Ministry.md) and the previous owner of the [Deepscorn Casque](Deepscorn_Casque.md). During a forbidden Ministry Ritual he succumbed to his shadows and presumably died.[\[1\]](#cite-note-casque-1)
+Grayhule was an agent of [the Ministry](The_Ministry.md) and the previous owner of the [Deepscorn Casque](Deepscorn_Casque.md), which induced a state akin to death that calmed the wearer. During a forbidden Ministry Ritual, he succumbed to his shadows and presumably died.[\[1\]](#cite-note-casque-1)
 
 ## References
 

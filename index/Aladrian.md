@@ -1,6 +1,6 @@
 ---
 title: Aladrian
-revid: 178240
+revid: 180365
 source: https://deepwoken.fandom.com/wiki/Aladrian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages]
@@ -13,7 +13,10 @@ notices:
 
 | Aladrian | |
 |---|---|
-| affiliation | The Central Authority |
-| family | Warden Jericho (son) |
+| name | Aladrian[1] |
+| affiliation | The Central Authority[1] |
+| family | Warden Jericho (son)[1] |
 
+## References
 
+1.  ↑ [1.0](#cite-ref-jerich-1-0) [1.1](#cite-ref-jerich-1-1) [1.2](#cite-ref-jerich-1-2) [Warden Jericho](Warden_Jericho.md)

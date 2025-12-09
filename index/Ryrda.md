@@ -1,6 +1,6 @@
 ---
 title: Ryrda
-revid: 179013
+revid: 180356
 source: https://deepwoken.fandom.com/wiki/Ryrda
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, The Hive, Deceased characters, Characters mentioned in books]
@@ -29,7 +29,7 @@ He died shortly after reaching his goal, as he was burnt to death by [Fran](Fran
 
 ## Trivia
 
--   The ritual used by Ryrda to obtain [Nightblood](Attunement_Potions.md) might be the same ritual used by Grayhule, instead placing himself as the sacrifice.
+-   The ritual used by Ryrda to obtain [Nightblood](Attunement_Potions.md) might be the same ritual used by [Grayrhule](Grayrhule.md), instead placing himself as the sacrifice.
 
 ## References
 

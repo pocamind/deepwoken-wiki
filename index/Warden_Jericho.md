@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 178238
+revid: 180361
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
@@ -21,15 +21,13 @@ categories: [Adret NPCs, Military personnel of The Central Authority, NPCs locat
 
 ## Description
 
-Warden Jericho is an [Adret](Adret.md) NPC. He is a high-ranking [Authority](The_Central_Authority.md) official.
+Warden Jericho is an [Adret](Adret.md) NPC. He is a high-ranking official within [The Central Authority](The_Central_Authority.md) as the head of its Eastern garrison.
 
 He appears as an aged Adretian man with red eyes and markings, with a faded scar on his right eye. His hair is a dark blue color, and is combed back precisely to reach the back of his neck, with his bangs asymmetrically leaning towards the right. To the right of his head is a glowing white "crown" in the shape of three four-pronged stars connected with each other, likely as a result of being a [Warmaster](Oaths.md).
 
-Much like the rest of him, his personality is still a mystery. Unlike most members of The Authority, he appears to actually pity the [Etreans](Etrea.md), knowing that [The Lord Regent](The_Lord_Regent.md) is dragging them into this 'war they cannot understand' and sees their Lord Regent as a 'thing' rather than a person.
+Much like the rest of him, his personality is still a mystery. Unlike most members of the Authority, he appears to actually pity the [Etreans](Etrea.md), knowing that [The Lord Regent](The_Lord_Regent.md) is dragging them into this 'war they cannot understand' and sees their Lord Regent as a 'thing' rather than a person.
 
 He dons a Red Royal Duelist and is clad over a [Authority Captain Uniform](Authority_Captain_Uniform.md). A gold-colored [Warmaster's Medallion](<Warmaster's_Medallion.md>) sits on his neck and a pair of [Vanguard Boots](Vanguard_Boots.md) on his feet. He holsters a bell on his hip, signifying his strength to obtain a [Resonance](Resonance.md). On his other hip, he wields the [Rite of Authority](Rite_of_Authority.md).
-
-  
 
 ## Location
 
@@ -324,3 +322,4 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 ## Trivia
 
 -   The [Oath](Oaths.md) wielded by Warden Jericho, Warmaster, is unreleased.
+-   When being executed, Warden Jericho's textbox doesn't use his title, and instead refers to him as just "Jericho".
