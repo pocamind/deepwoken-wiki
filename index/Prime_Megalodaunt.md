@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 178131
+revid: 180178
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -126,6 +126,7 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 ### **Passives**
 
 -   **Apex Predator** - The Prime Megalodaunt can use many of its attacks back to back with little endlag or delay. Additionally, they can feint their attacks and all of its attacks have very little endlag. Playing passive is highly recommended.
+-   **Thick Hide** - Prime Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Finisher
 

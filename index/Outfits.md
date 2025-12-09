@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 175373
+revid: 180184
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -24,7 +24,7 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
         -   **Note:** Against mantras with double typing (IE: Wind + Slash), the highest resistance is used to reduce its damage.
 -   **Ether Regen:** Increase Ether regeneration.
 -   **Sanity:** Gives bonus sanity to the Wearer.
-    -   Currently only the [Black Diver](Black_Diver.md) Outfit and the [Darkened Bastion](Darkened_Bastion.md) Outfit has this stat.
+    -   Currently only the [Black Diver](Black_Diver.md), [Cala-Mariner](Cala-Mariner.md), and the [Darkened Bastion](Darkened_Bastion.md) Outfits have this stat.
 -   **Stealth:** Reduce the distance and peripheral vision cone at which NPCs and Monsters can spot the player.
     -   To see Outfits that grant Stealth, look over at the [Stealth](Stealth.md) page.
 -   **Carry Load:** Allows the user to carry more items.

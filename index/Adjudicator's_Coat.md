@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 176328
+revid: 180196
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Starswept Valley, Authority Ambush |
+| obtainment | Chests from:, Hostage Turn-Ins, Authority Ambush |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 179572
+revid: 180176
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -143,3 +143,7 @@ File:B957ae3baf7b1f5753d02fa790f1049b (online-video-cutter.com) (1).gif
 | Name | Description |
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+
+## Passives
+
+-   **Thick Hide** - Crimson Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).

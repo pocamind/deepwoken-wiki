@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 178887
+revid: 180179
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -114,6 +114,10 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 | Name | Description |
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+
+## Passives
+
+-   **Thick Hide** - Exotic Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Tips
 

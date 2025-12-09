@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 179596
+revid: 180177
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -132,6 +132,10 @@ A Mechalodaunt, finally back under control, can also ambush players who have Hun
  | 
 
  |
+
+## Passives
+
+-   **Fireproof** - Mechalodaunts automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 179601
+revid: 180181
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -65,6 +65,10 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
  | The Nightmare Thresher bites you before leaping backwards and charging at you.
 
  |
+
+## Passives
+
+-   **Thick Hide** - Nightmare Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Tips
 

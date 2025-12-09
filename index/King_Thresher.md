@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 179555
+revid: 180173
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -94,6 +94,7 @@ A King Thresher is required to be killed at the Starswept Valley to complete [Je
 
 -   **Serrated Claws** \- King Threshers have 100% PEN and inflict Bleed on hit.
 -   **Thresher Scales** - King Threshers have 40% physical attack resistance.
+-   **Thick Hide** - King Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Tips
 

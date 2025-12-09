@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 179568
+revid: 180175
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -131,3 +131,7 @@ Despite all of the above, they behave like regular Megalodaunts.
 | Name | Description |
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+
+## Passives
+
+-   **Thick Hide** - Alpha Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).

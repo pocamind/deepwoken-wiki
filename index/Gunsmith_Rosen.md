@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 178314
+revid: 180191
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gunsmiths]
@@ -29,6 +29,7 @@ He created the Summer Company when he found old pre-Canticlysm firearms and reve
 
 ## Trivia
 
+-   Concept art has depicted him as a [Canor](Canor.md) as well as a Vesperian.
 -   Rosen's personal creation the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) is the only gun that is entirely made by him.
 -   While the [Flintlock](Flintlock.md) was designed by Rosen he only made the first Prototype, it now is mass produced by various gunsmiths.
 -   The [Iron Blunderbuss](Iron_Blunderbuss.md) may be one Rosen's design but was not created by his hands.

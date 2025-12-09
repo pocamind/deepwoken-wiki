@@ -1,6 +1,6 @@
 ---
 title: Drallis Ehr
-revid: 179911
+revid: 180168
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heads of government and state, Personnel of The Central Authority]
@@ -11,7 +11,7 @@ categories: [Heads of government and state, Personnel of The Central Authority]
 | Drallis Ehr | |
 |---|---|
 | name | Drallis Ehr |
-| alias | Grand Sovereign, Sovereign, Sovereign of Ages, Sovereign of Eras[1], Overseer of Epochs[2], Lumen's Savior |
+| alias | Grand Sovereign, Sovereign, Sovereign of Ages[1], Sovereign of Eras[2], Overseer of Epochs[3], Lumen's Savior[1] |
 | aspect | Adret |
 | affiliation | Adretian Empire (formerly), The Central Authority |
 
@@ -23,5 +23,6 @@ Drallis Ehr became a hero in the [Adretian Empire](Adretian_Empire.md) after sto
 
 ## References
 
-1.  [↑](#cite-ref-1) [Warden Jericho](Warden_Jericho.md)
-2.  [↑](#cite-ref-2) [Maps](Maps.md)
+1.  ↑ [1.0](#cite-ref-helm-1-0) [1.1](#cite-ref-helm-1-1) [Authority Helm](Authority_Helm.md)
+2.  [↑](#cite-ref-2) [Warden Jericho](Warden_Jericho.md)
+3.  [↑](#cite-ref-3) [Maps](Maps.md)

@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 179957
+revid: 180170
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -294,6 +294,7 @@ On use, the user will gain 3 to 5 [Hallowtide](Hallowtide.md)\-related items or 
 
 -   Found in any chest (more common from [World Bosses](Bosses.md#world-bosses))
 -   Sold by [Traan Zakshun](Traan_Zakshun.md)
+-   Dropped by [Nautilodaunt](Nautilodaunt.md)
 
  |
 

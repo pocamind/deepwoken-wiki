@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 179582
+revid: 180180
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -84,8 +84,8 @@ This monster also spawns in [The Depths](The_Depths.md) in a location near one o
 
 -   **Unwavering Neurotoxins** - The poison inflicted by the Widow's bite will deal **percent-based damage**, no matter how much health or resistances the target has. It will also insta-execute the player if the player reaches 0% health when afflicted.
     -   This is especially dangerous in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) where the Widow's bite simply ignores the resistances given by abilities such as [Sacred Field](Sacred_Field.md) or [Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle). As a result, it is recommended to target the Widows first when they spawn in during a wave.
-
 -   **Monster Resistance** - Physical attacks deal ??? less damage to the Deep Widow.
+-   **Fireproof** - Deep Widows automatically extinguish [burn](Status_Effects.md#burn).
 
 ### Finisher
 

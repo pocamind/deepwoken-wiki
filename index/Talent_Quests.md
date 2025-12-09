@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 179217
+revid: 180163
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -95,3 +95,9 @@ Ethiron's Gaze is obtained at Firfire after retrieving the spear in the Firfire 
 **Pleeksty's Will:** You gain significantly more Ether from consuming elemental ingredients
 
 Pleetsky's Will is obtained via talking to [Ploom](Ploom.md) in Lance's Food, [Etris](Etris.md). It can be obtained if you have 20 Flamecharm. If you have 50 Charisma or 40 Flamecharm, you can pick those options which then fulfils a hidden requirement which allows you to get the Talent upon talking to him again. If you do not have those, you can trade him 3 [Dying Embers](Dying_Embers.md) in order to get the Talent.
+
+### Windwaker
+
+**Windwaker:** Call upon a gust of wind to propel your boat even faster.
+
+Windwaker is obtained via talking to [Stratos](Stratos.md) in the [Temple of the Blade](Temple_of_the_Blade.md). Doing his quest requires 20 points invested in [Galebreathe](Galebreathe.md), also needing to have "Friend" reputation with [Etrea](Etrea.md) (75). After reaching the requirements, return to Stratos and you will receive the "Windwaker" Talent. Similarly to "[Produce Spark](Talents.md#flamecharmer)", "[Flame Within](Talents.md#amoran-seeker)" and "[Discovery of Fire](Talents.md#thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown (~55 sec).
