@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 172230
+revid: 180395
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -146,36 +146,51 @@ These weapons are unique to the **Crazy Slots** [Resonance](Resonance.md). Notab
 
 Upon reactivating your Resonance while your Crazy Slots weapon is active, perform a special attack. The special attack varies depending on your currently equipped Soulwrought weapon. Using this ends your resonance early, returning you back to your original weapon.
 
+The special abilities deal physical damage and do not have any scaling.
+
 ### Soulwrought Dagger
 
-Rush forward with flurry of Soulwrought slashes. These slashes deal [**Bleed**](Status_Effects.md#bleed) damage. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
+Rush forward with flurry of Soulwrought slashes. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
+
+-   Deals 22.5 damage on the initial slash followed by 2.7 damage over a flurry of slashes.
+-   Despite the bleed effects, it does not apply [Bleed](Status_Effects.md#bleed).
 
 ### Soulwrought Gun
 
-Flip upside down and rapidly shoot your target five to six times, finishing with a ranged shot that propels you backwards.
+Flip upside down and rapidly shoot your target six times, finishing with a ranged shot that propels you backwards.
+
+-   Deals 15 damage per shot.
 
 ### Soulwrought Longsword
 
-Strike forward with your elbow, following up with three Soulwrought slashes, the final slash ragdolling. The initial strike is unparryable. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+Strike forward with your elbow, followed by a red telegraph leading into three Soulwrought slashes, the final slash ragdolling. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+
+-   Deals 37.5 damage per hit.
 
 ### Soulwrought Spear
 
-Jump up and fire three Soulwrought beams. Also used by [Sworn Angels](Sworn_Angel.md). Deals **typeless** damage.
+Jump up and fire three Soulwrought spears. Also used by [Sworn Angels](Sworn_Angel.md), shooting up to a total of five spears.
+
+-   Deals 42 **typeless damage** per hit.
 
 ### Soulwrought Greataxe
 
 Jump into the air and plummet towards your cursor.
 
+-   Deals 75 damage.
+-   Can sometimes deal no damage.
+
 ### Soulwrought Greatsword
 
-Gain a speed boost before leaping into the air and crashing down at your cursor.
+Gain a speed boost before leaping into the air and crashing down at your cursor
+
+-   Deals 37.5 damage.
 
   
 
 ## Trivia/Notes
 
--   The Soulwrought weapons carry over the weapon quality bonus (stars) and [enchant](Enchantments.md) from your main weapon.
-    -   They can carry over legendary weapon unique effects as well such as [Pleeksty's Inferno's](<Pleeksty's_Inferno.md>) burn on M1 if you have the [Simmerbloom Diadem](Simmerbloom_Diadem.md) equipped, [Stormseye's](Stormseye.md) aerial attack effect, [Imperator's Edge's](<Imperator's_Edge.md>) Enlightenment stacks, etc.
+-   The Soulwrought weapons carry over the Quality Bonus (stars), [Enchant](Enchantments.md), and if any, Special Effect or Talent from your main weapon.
 -   Soulwrought weapons **cannot** use [Motifs](Motifs.md)
 -   The exceptionally high base damage for each weapon makes them especially powerful in PvE; it is a tried-and-true choice for M1 builds.
 -   The designs of the Soulwrought weapons were inspired by weapons from other media:

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 178275
+revid: 180379
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -158,8 +158,10 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 -   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Visionshaper had the Mystic line "I speak to the Owls."
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Saintsworn](Oath%253A_Saintsworn.md).[\[1\]](#cite-note-1)
     -   Dexerius was thought to have taken inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series, but this was proven false.
--   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones.
-    -   If you had a slot that had Visionshaper pre-removal of Illusory Realm, your Illusory Realm would be replaced with the [Disguise](Attunement-less.md#disguise) Mantra.
+
+-   On 20th of September 2024, Visionshaper received a rework that removed Illusory Realm for Mirror Illusion, and changed the behavior of Shaper Clones. If you had a slot that had Visionshaper pre-removal of Illusory Realm, your Illusory Realm would be replaced with the [Disguise](Attunement-less.md#disguise) Mantra.
+
+-   Illusory Counter was able to reverse grabs such as flame grab, allowing you to use your opponent's mantra against them. It is unknown if this is still possible, as the latest [video](https://www.youtube.com/watch?v=-T4n2mERIMU) of it is from Verse 1.
 
 ## References
 

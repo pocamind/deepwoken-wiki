@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 179375
+revid: 180387
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -305,14 +305,15 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 ### The Dreadstar
 
 -   Located in the [Beloved Zofia](Beloved_Zofia.md).
--   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colors are inverted, but there is no indication of it being related to the Drowned God
--   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards Mantras (but not the Song as a whole).
+-   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colours are inverted, but there is no indication of it being related to the Drowned God.
+-   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards Misuse of the Song (but not the Song as a whole).
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making Mantras in you suppressed.
--   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a murmur and resonance due to the fact that it doesn't completely cut off your connection to The Song.
+-   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a Murmur and Resonance due to the fact that it doesn't completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against Mantras and to the seven Attunement trainers (not counting the Attunement-less trainer)
-    -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of Mantras by attunement users or by other means, but this is just a speculation.
--   Apparently when you complete the Dreadstar revenge on the attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful.
+-   Has a deep hatred against Misuse of the Song and to the seven Attunement trainers (not counting the Attunement-less trainer)
+    -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of Misuse of the Song by Attunement users or by other means, but this is just a speculation.
+-   Apparently when you complete the Dreadstar revenge on the Attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful.
+-   "Misuse of the Song" refers to anything that abuses the song, most prominently, Mantras.
 
 ### Kaide, the Drowned Light
 

@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 179837
+revid: 180374
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -422,7 +422,7 @@ Fire
 
 -   Has a base damage of 26/27.5/29/30.5/32 with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage.
--   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second coolodwn.
+-   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
 -   Inflicts Burn.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase size, every +1 in size makes it 10% bigger.

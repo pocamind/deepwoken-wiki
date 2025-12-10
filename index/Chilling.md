@@ -1,6 +1,6 @@
 ---
 title: Chilling
-revid: 180085
+revid: 180393
 source: https://deepwoken.fandom.com/wiki/Chilling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -15,7 +15,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Finding a Chilling enchanted weapon in a chest, LaplaceEnchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
-| description | Chill for foes. Applies Bottom Freeze once enough stacks have been applied. |
+| description | Chill your foes. Applies Bottom Freeze once enough stacks have been applied. |
 
 ## Description
 
@@ -25,9 +25,9 @@ This enchantment changes your weapon's color to a light blue with a light blue m
 
 ## Effect
 
-After landing enough M1s, Chilling applies [chill](Status_Effects.md#chill) and Bottom Freeze to your opponent. If you have Crystallization Path, this enchantment will apply 1 Crystal when you reach its hit count instead.
+Chilling applies [Chill](Status_Effects.md#chill) on every M1. After landing enough M1s, it procs [Bottom Freeze](Status_Effects.md#bottom-freeze). If you have Crystallization Path, this enchantment applies 1 [Crystal](Status_Effects.md#crystal) on every M1 instead of [Chill](Status_Effects.md#chill), while still proccing [Bottom Freeze](Status_Effects.md#bottom-freeze) upon reaching its hit count.
 
-Additionally, your M1s gain a secondary damage instance that deals 4% of your weapon's **scaled** damage as Frostdraw damage. Upon reaching Chilling's hit count, this secondary damage instance will be increased to 10% of your weapon's scaled damage instead.
+Additionally, your M1s gain a secondary damage instance that deals 4% of your weapon's scaled damage as Frostdraw damage. Upon reaching Chilling's hit count, this secondary damage instance is increased to 10% of your weapon's scaled damage.
 
 The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons.
 
