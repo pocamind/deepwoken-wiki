@@ -1,9 +1,9 @@
 ---
 title: Ritual Sacrifice
-revid: 180031
+revid: 180458
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, War Weapons, Weapons with Talents]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Items, Named Weapons, Weapons with Talents]
 ---
 
 # Ritual Sacrifice

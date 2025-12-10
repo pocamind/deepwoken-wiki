@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 179506
+revid: 180470
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 
 ## Description
 
-The Moppet is a [Light Weapon](Weapons.md) in the dagger category, appearing as an old doll with a crudely-stitched frown alongside a large sewing needle on the offhand.
+The Moppet is a [Light Weapon](Weapons.md) in the Dagger category, appearing as an old doll with a crudely-stitched frown alongside a large sewing needle on the offhand.
 
 The Moppet's basic attacks will deal no damage, rather storing the damage dealt towards the target hit. The Moppet will also gain increased PEN per stored M1 with no cap, eventually reaching 100%. On hit, the Moppet will take the appearance of the opponent, copying their hair and [Aspect](Aspects.md) features, such as a [Gremor](Gremor.md)'s horns or a [Vesperian](Vesperian.md)'s mask.
 

@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 170772
+revid: 180443
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Death, The Depths]
@@ -34,7 +34,7 @@ Located to the left-hand side, beyond a small parkour section. Interacting with 
 
 ### Shrine of the Drowned
 
-Located before Self, a statue that allows you to pay 1000 to return to the Surface. This can only be used once per character and requires at least [Power](Power.md) 2.
+Located before Self, a statue that allows you to pay 1000 [Robux](https://roblox.fandom.com/wiki/Robux) to return to the Surface. This can only be used once per character and requires at least [Power](Power.md) 2.
 
 ### Self
 

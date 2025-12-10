@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 179930
+revid: 180466
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -13069,7 +13069,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
     -   **1H** and **2H**: A term used specifically for the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon's two states being the Club (2H) and Sword (1H) that it becomes when stance swapping. These forms differ in stats. This is (currently) exclusive to the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon.
     -   **GS**, **Dagger**, and **Both**: Terms used for [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), as the dagger M1s have light scaling instead of heavy. Both have Flamecharm scaling however. This is (currently) exclusive to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) weapon.
 -   **Alloyed Weapon/Alloyed Stats:** Weapons stats from the [Alloyed](Pluripotent_Alloy.md) version. Stats which remain white are the same as the non-alloyed version.
--   **War Weapon/War Stats:** Similar to Alloyed weapons, these weapons are enhanced variants of a weapon, having unique traits and differing stats from their base variants. Stats which remain white are the same as the non-war version.
+-   **Named Items:** Similar to Alloyed weapons, these weapons are enhanced variants of a weapon, having unique traits and differing stats from their base variants. Stats which remain white are the same as the non-war version.
 -   [**Bleed:**](Status_Effects.md#bleed) 5% of the weapon's scaled damage proccing 3 times over a 0.3 second period, causing a total of 15% more damage in 0.9 seconds. Bleed causes extra blood loss as well. The "**Scaled Damage**" shown with [bleed](Status_Effects.md#bleed) weapons is including the bleed damage. Multiply the final damage by 0.87 to find damage excluding bleed. Bleed damage is not affected by damage multipliers (excludes base modifiers and PVE scaling).
 -   **Hallowtide:** Weapons only obtainable during the [Hallowtide event](Hallowtide.md), which occurs yearly to celebrate Halloween, or with [Hallowtide Medals](Seasonal_Medals.md) at [Blacksmiths](Blacksmith.md) outside of the event. These weapons cannot be dropped but can be passed down normally through the [Hippocampal Pool](Hippocampal_Pool.md) located in the [Fragments of Self](Fragments_of_Self.md).
 -   **Legendary:** Special weapons which can't be enchanted and are automatically soulbounded upon equipping them. These weapons cannot be passed down and or transferred without the use of 40 [Echoes](Echoes.md) (or through the [Bank](Item_Bank.md) for the cost of 1 [Knowledge](Knowledge.md) if soulbound).
@@ -25799,3 +25799,5 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 -   [Flareblood Kamas](Flareblood_Kamas.md) is the only weapon to scale on a stat it does not require.
 -   [First Light](First_Light.md) and [Krulian Knife](Krulian_Knife.md) are the only weapons to have pure elemental scaling on their criticals. Despite this, neither of these weapons require any attunement investment to be used.
 -   The [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...
+-   Internally, the rarity War weapons use is known as "Named".
+    -   This reinforces the idea that War weapons as a whole may be a reference to Named Weapons from _Dark and Darker_, weapons that bear the same appearance and stats as a certain regular weapon but come with a special ability, very similarly to War weapons.

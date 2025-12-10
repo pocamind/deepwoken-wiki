@@ -1,9 +1,9 @@
 ---
 title: Warmonger
-revid: 180026
+revid: 180467
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greathammers, War Weapons, Heavy Weapons, Weapons with Talents]
+categories: [Weapons, Greathammers, Named Weapons, Named Items, Heavy Weapons, Weapons with Talents]
 ---
 
 # Warmonger
@@ -53,7 +53,7 @@ The elemental and physical damage resistance is multiplicative to other resistan
 
 The speed boost has no cap and is applied **per M1**. For example, if you land 5 m1s and are combat tagged by 5 people, you will gain +250% speed. Each speed boost stack lasts 5 seconds and does not refresh upon acquiring another. Additionally, being hit by an m1 will also proc this bonus.
 
-These effects are greatly improved whenever you grip a player.
+You gain a further damage buff upon gripping a player.
 
 ## Critical
 
