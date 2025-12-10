@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 180106
+revid: 180432
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Materials]
@@ -166,8 +166,8 @@ Drift Shard
 
  | 
 
--   \-1 Duration
 -   +2 Speed
+-   \-1 Duration
 -   +10 Ether Cost
 
  | 

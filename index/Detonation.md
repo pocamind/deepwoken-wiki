@@ -1,6 +1,6 @@
 ---
 title: Detonation
-revid: 179250
+revid: 180433
 source: https://deepwoken.fandom.com/wiki/Detonation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -34,3 +34,4 @@ The hit count required to proc this enchantment varies based on your weapon type
 -   Detonation's explosion can **autogrip** opponents.
 -   Weapon criticals can only apply 1 stack of detonation maximum, regardless of how many hits they have.
 -   Detonation's damage cannot be buffed.
+-   You cannot gain stacks from hitting knocked players.

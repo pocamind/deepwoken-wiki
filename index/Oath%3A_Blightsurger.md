@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 180194
+revid: 180431
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -99,7 +99,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 ### Talents
 
--   **Sovereign State** - Landing physical, lightning, and wind hits builds your Blight Meter. At full gauge, enter a Blight State that replaced your weapon with the Sovereign Bangle and empowers Blightsurge abilities.
+-   **Sovereign State** - Landing physical, lightning, and wind hits builds your Blight Meter. At full gauge, enter a Blight State that replaces your weapon with the Sovereign Bangle and empowers Blightsurge abilities.
     -   Sovereign State does not automatically activate at 100% Blight Meter
     -   The Blight Meter gain has no cooldown, and never decays. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   There is a 10 second cooldown on activating Sovereign State, started once it ends.
