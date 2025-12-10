@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180331
+revid: 180408
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2959,7 +2959,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 60 Bloodrend, 20 Fortitude
 
 -   _Panacea_ \[Rare Talent\] - Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying for 7 seconds.
-    -   Prerequisite: 60 Bloodrend
+    -   Prerequisite: 65 Bloodrend
 
 -   Tainted Ground \[Common Talent\] - Enemies who stand in blood pools will not decay blood poison.
     -   Prerequisite: 30 Bloodrend

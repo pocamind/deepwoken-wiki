@@ -1,9 +1,9 @@
 ---
 title: Warden Jericho
-revid: 180361
+revid: 180403
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Military personnel of The Central Authority, NPCs located in the Eastern Luminant]
+categories: [Adret NPCs, Wardens of The Central Authority, NPCs located in the Eastern Luminant]
 ---
 
 # Warden Jericho

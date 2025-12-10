@@ -1,30 +1,36 @@
 ---
 title: Guilds
-revid: 143986
+revid: 180428
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Guilds, Mechanics]
+categories: [In progress without reason, InProgressPages, Guilds, Mechanics]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Guilds
 
-The Guildhouse in [Etris](Etris.md)
+| Guilds | |
+|---|---|
+| goals | Up to the player or leader's choice |
 
 ## Description
 
 Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. Guilds are an influential part of Deepwoken and a lot of [Talents](Talents.md) and [Mantras](Mantras.md) can be enhanced or require a guild member in order to operate. (i.e. [**Rally**](Attunement-less.md#rally) )
 
-Once you are **Power 5**, a guild can be founded by talking to the Guild Clerk in the Guild House at either [Etris](Etris.md), west of the compass tree (big white tree) in the center, at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md). Talking to the Guild Clerk will prompt you with a window that allows you to name your Guild, set its primary color and make an emblem.
+Once you are **Power 5**, a guild can be founded by talking to the Guild Clerk in the Guild House at either [Etris](Etris.md), west of the compass tree (big white tree) in the center, at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
 
 Guilds also have a score system with 2 main categories - PVE and PVP. For PVE, you gain guild score for killing certain bosses and enemies. For PVP, you gain guild score by killing other players that aren't in your guild. (PvP score gain is doubled on weekends) You also lose PVP score if you die to a player. Your overall score adds up the amount of score in both categories. (All guild members, officers, lieutenants, and the owner can gain and lose guild score for your guild.)
 
-## Emblem Customization
+## Creation and Customization
 
-On changing and creating an emblem, you'll be given a screen with four controls. Two of them change the icon you will have on the emblem, with the other two being color customizers, one for the background and the other for the emblem itself.
+Upon meeting the requirements, talking to the [Guild Clerk](Guild_Clerk.md) will open a window that allows you to name your Guild. Guild names require 1 to 26 characters maximum.
 
-The guild color you chose becomes the color of your sails, and the emblem you make will be on the flag of the ship. The guild emblem will also be showcased on [Guild Banners](Guild_Banners.md).
+When creating an emblem, you'll be given a window divided into two sections. One side contains a list of icons that can be chosen. A total of **95 icons** can be chosen from. The other shows a color picker for the Guild's background and emblem. Both emblems cannot have their color changed separately.
 
-This emblem will be shown next to the guild name on the playerlist, on your sails, and on your [Guild Banners](Guild_Banners.md). The colour used will become your sail colour, and your guild banner colour.
+The guild emblem that is submitted will be showcased on your ship's sails, your [Chime of Dwelling](Chime_of_Dwelling.md) door, and any [Guild Banners](Guild_Banners.md) you capture.
+
+Guilds can be renamed for 100 [Robux](https://roblox.fandom.com/wiki/Robux), and has week long cooldown.
 
 ## Members
 
@@ -57,5 +63,3 @@ Members of a guild including its leader will stay in their guild after death and
 -   There are two guilds that players can join by talking to an NPC: [The Divers](The_Divers.md), this guild is joinable by talking to [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md), travelling to [Castle Light](Castle_Light.md) and asking him to join; all your current and future characters obtain the Deepbounds [origin](Origins.md) (YOU DO NOT NEED TO ACCEPT THE INVITE FOR THE ORIGIN), and the [Knives of Eylis](The_Knives_of_Eylis.md) guild which you can join by talking to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) and asking to join the Knives of Eylis as a guild.
 -   If a Guild Leader leaves the guild, an Officer or higher can take their place as the Guild Leader. If there are no Officers or higher ranks in the Guild, anyone in the Guild can take ownership. You **must** go to the guild NPC to claim leadership once the guild leader has left; it's not given to anyone randomly.
 -   Guild bases can be summoned by using [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md) near a wall. However not all surfaces can be used to create a door, the criteria requires that the space must be big enough. Additionally, the guild base cannot be placed in Voidzones, territory of factions that you are considered enemies with, if enemies are nearby, if the wall isn't made from the right material, and it also cannot be placed on slopes.
-    
-    Guild Info (When clicked on)

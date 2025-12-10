@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 177951
+revid: 180409
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -899,7 +899,7 @@ These are Talents found in "_Septicemia_" Category.
 |  | Juicy Snack  
 (60 Bloodrend, 20 Fortitude) | Eliminating enemies returns their amount of blood poison as health to you. | N/A |
 |  | Panacea  
-(60 Bloodrend) | Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly. | N/A |
+(65 Bloodrend) | Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying briefly. | N/A |
 |  | Tainted Ground  
 (30 Bloodrend) | Enemies who stand in blood pools will not decay blood poison. | N/A |
 |  | Vasculitis  

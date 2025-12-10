@@ -1,16 +1,16 @@
 ---
 title: Aelita
-revid: 180399
+revid: 180412
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pages with reference errors, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant]
+categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Aelita
 
 | Aelita | |
 |---|---|
-| name | Aelita Arlekino[1] |
+| name | Aelita |
 | aspect | Felinor |
 | location | Carnival of Hearts, Valley of Heroes (During Spring, Summer and Autumn) |
 
@@ -24,7 +24,7 @@ Aelita is a unique event NPC that spawns when you walk near a rock in the center
 
 Aelita spawns one chest when you obey her commands. After completion, she says that the player "can have a lot more fun if \[the player\] comes back during the winter." This is a trap, as 5 meteorites carrying [Blizzard Knights](Stone_Knight.md#blizzard-knight) will spawn in her place during Winter.
 
-She is the twin sister of [Tillian](Tillian.md).
+She is the twin sister of [Tillian](Tillian.md). The two go by the name of the Siblings Arlekino.
 
 ## Event
 
@@ -85,7 +85,7 @@ She is the twin sister of [Tillian](Tillian.md).
 
 -   When talking to Aelita, the song [Catwhisker](Deepwoken_OST.md#catwhisker) by Naktigonis starts playing
 -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when Arch\_Mage announced that Krulians do not take [Oaths](Oaths.md), as well as the theory overall lacking any real evidence for it.\[citation needed\]
--   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.Cite error: Invalid `<ref>` tag; refs with no name must have content
+-   Aelita is stated to be "Probably Bi" by Arch\_Mage, the owner of Deepwoken.[\[1\]](#cite-note-1)
 -   Aelita is a [Visionshaper](Oath%253A_Visionshaper.md), she doesn't have the Oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.
     
@@ -103,4 +103,4 @@ She is the twin sister of [Tillian](Tillian.md).
 
 ## References
 
-1.  [↑](#cite-ref-1) File:Aelitaarlekino.png
+1.  [↑](#cite-ref-1)
