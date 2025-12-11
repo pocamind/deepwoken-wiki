@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 180457
+revid: 180572
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Named Items, Named Weapons, Heavy Weapons, Weapons with Talents]
@@ -23,7 +23,7 @@ categories: [Weapons, Greatswords, Named Items, Named Weapons, Heavy Weapons, We
 | m.crit | Soulwrought Greatsword |
 | m.compatible | Greatswords |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
-| rarity | War |
+| rarity | Named |
 | selling price | 100 |
 | weight | 7 |
 | bankable | Yes |

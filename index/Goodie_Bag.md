@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 180562
+revid: 180578
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Relics, Items, Hallowtide]
@@ -76,4 +76,4 @@ The Goodie Bag is a consumable [Relic](Relics.md) that on use will grant the use
 
 -   Attempting to open a Goodie Bag while in the [Fragments of Self](Fragments_of_Self.md) will prompt the message, "Yo. it's me, the little pumpkin on the goodie bag. Why open me here man? Not cool man, not cool."
 -   Due to an oversight, this item remained obtainable for a week after the 2025 Hallowtide event ended.
-    -   When paired with that year's Hallowtide lasting significantly longer than all other years, the Goodie Bag was obtainable for a staggering seven weeks in total during 2025.
+    -   In total, the Goodie Bag was obtainable for a staggering seven weeks during 2025.

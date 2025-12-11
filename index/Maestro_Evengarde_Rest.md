@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 180188
+revid: 180565
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -176,7 +176,7 @@ Maestro Evengarde Rest's arsenal consists of a [Shattered Katana](Shattered_Kata
 -   Brick Wall - Maestro Evengarde Rest is immune to ragdoll and knockdowns.
 -   Silencer's Blade - Maestro Evengarde Rest's basic attacks grant him a speed boost and extend active suffocation effects.
 -   A World Without Song - Maestro Evengarde Rest's gale mantras apply Suffocation.
--   Risky Moves - Whenever Maestro Evengarde Rest dodges an attack, he'll automatically dodge the next one.
+-   Risky Moves - Whenever Maestro Evengarde Rest dodges an attack, he'll automatically dodge the next attack.
 -   Ghost - Whenever Maestro Evengarde Rest dodges an attack, he turns invisible.
 -   Chronostasis - Maestro Evengarde Rest's basic attacks puts the victim's Resonance on cooldown for four seconds.
 -   Pressure Break - If Maestro Evengarde Rest guardbreaks you, you'll get ragdolled and tossed back.

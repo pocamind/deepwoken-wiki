@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 177063
+revid: 180576
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -34,9 +34,11 @@ Some books are part of specific quests or are physically in the world, and thus 
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md).
 -   Jericho's Journal: [Fort Merit](Fort_Merit.md).
 
+Uniquely, the [Fading Book](Fading_Book.md) is obtained when a different book is removed from the game, being the placeholder item counterpart for books.
+
 ## Books
 
-Currently there are 33 books and book collections:
+Currently there are 34 books and book collections:
 
 -   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>)
 -   [Capran Aphorisms](Capran_Aphorisms.md)
@@ -49,6 +51,7 @@ Currently there are 33 books and book collections:
 -   [Diver Journal, II](Diver_Journal,_II.md)
 -   [Diver Journal, III](Diver_Journal,_III.md)
 -   [Eggs In A Basket](Eggs_In_A_Basket.md)
+-   [Fading Book](Fading_Book.md)
 -   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>)
 -   [The Gideshu March](The_Gideshu_March.md)
 -   [God in the Machine](God_in_the_Machine.md)
