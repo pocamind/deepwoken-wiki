@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 180466
+revid: 180560
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -25799,5 +25799,4 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 -   [Flareblood Kamas](Flareblood_Kamas.md) is the only weapon to scale on a stat it does not require.
 -   [First Light](First_Light.md) and [Krulian Knife](Krulian_Knife.md) are the only weapons to have pure elemental scaling on their criticals. Despite this, neither of these weapons require any attunement investment to be used.
 -   The [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...
--   Internally, the rarity War weapons use is known as "Named".
-    -   This reinforces the idea that War weapons as a whole may be a reference to Named Weapons from _Dark and Darker_, weapons that bear the same appearance and stats as a certain regular weapon but come with a special ability, very similarly to War weapons.
+-   Named Weapons are heavily inspired by Artifacts from _Dark and Darker_, weapons that bear the same appearance and stats as a certain regular weapon but come with a special ability, very similarly to Named weapons.

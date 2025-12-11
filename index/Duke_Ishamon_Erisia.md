@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 179588
+revid: 180558
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -258,7 +258,7 @@ Exhaustive Loot Table
 <tbody>
 <tr>
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
-  <td><a href="Black_Diver.md">Black Diver</a>, <a href="Navaen_War_Chief.md">Navaen War Chief</a></td>
+  <td><a href="Navaen_War_Chief.md">Navaen War Chief</a></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>

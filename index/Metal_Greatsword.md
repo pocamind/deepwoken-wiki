@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 179505
+revid: 180556
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents]
@@ -49,3 +49,5 @@ Metal Greatsword uses the default Greatsword critical, an overhead swing. It has
 ## Trivia
 
 -   Metal Greatsword carries over the star quality and [enchantment](Enchantments.md) of your main weapon.
+
+-   The Metal Greatsword has the highest base damage of any in game weapon.

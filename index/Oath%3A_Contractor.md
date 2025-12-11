@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 179830
+revid: 180557
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -82,6 +82,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target.
     -   Can be vented out of, and can also be parried as soon as you hear the 'snap' sound.
     -   Deals 59.93 (6.38+53.55) Oath DMG, 7 posture if blocked.
+    -   Goes on a short cooldown if feinted.
 -   Obtained after gripping 3 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 
 -   **Lord's Slice** - The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions.
@@ -96,6 +97,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   Can be vented out of.
     -   Countering a non-grabbable humanoid mob will deal damage.
     -   Whip hit deals 20 oath DMG
+    -   The counters stun has a range limit. (this will still negate the damage of the attack)
 -   Obtained after gripping 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 
 ## Trivia

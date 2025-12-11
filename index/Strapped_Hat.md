@@ -1,6 +1,6 @@
 ---
 title: Strapped Hat
-revid: 176581
+revid: 180564
 source: https://deepwoken.fandom.com/wiki/Strapped_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -30,6 +30,6 @@ The Strapped Hat is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 
--   The description used to read "Western Luminant" instead of "Central."
-    -   It's unclear whether this was a typo or if the concept of the Western Luminant change with time.
+-   The description of this item used to read "Western Luminant" instead of "Central."
+    -   It is unclear whether this was a typo or if the concept of the Western Luminant changed with time.
 -   The talent provided, Exterminator, is now effectively useless, as it was merged into the Apothecary talent in a weekly update on [December 1, 2023](Version_History/2026.md).

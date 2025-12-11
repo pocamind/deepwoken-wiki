@@ -1,6 +1,6 @@
 ---
 title: Curse of the Unbidden
-revid: 179245
+revid: 180554
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Unbidden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Attack Enchantments]
@@ -33,7 +33,7 @@ This critical attack has an 8 second cooldown, reduced to 6 seconds if you succe
 
 ### Curse
 
-Unbidden's critical does not deal damage costs Ether.
+Unbidden's critical does not deal damage and costs Ether.
 
 ### Notes
 

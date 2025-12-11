@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 180428
+revid: 180553
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Mechanics]
@@ -12,31 +12,37 @@ notices:
 
 | Guilds | |
 |---|---|
-| goals | Up to the player or leader's choice |
+| goals | Up to leader's choice |
 
 ## Description
 
-Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. Guilds are an influential part of Deepwoken and a lot of [Talents](Talents.md) and [Mantras](Mantras.md) can be enhanced or require a guild member in order to operate. (i.e. [**Rally**](Attunement-less.md#rally) )
+Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. Guilds are an influential part of Deepwoken and a lot of [Talents](Talents.md) and [Mantras](Mantras.md) can be enhanced or require a guild member in order to operate.
 
-Once you are **Power 5**, a guild can be founded by talking to the Guild Clerk in the Guild House at either [Etris](Etris.md), west of the compass tree (big white tree) in the center, at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
-
-Guilds also have a score system with 2 main categories - PVE and PVP. For PVE, you gain guild score for killing certain bosses and enemies. For PVP, you gain guild score by killing other players that aren't in your guild. (PvP score gain is doubled on weekends) You also lose PVP score if you die to a player. Your overall score adds up the amount of score in both categories. (All guild members, officers, lieutenants, and the owner can gain and lose guild score for your guild.)
+Once you are **Power 5**, a guild can be founded by talking to the [Guild Clerk](Guild_Clerk.md) in the Guild House at either [Etris](Etris.md), at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
 
 ## Creation and Customization
 
-Upon meeting the requirements, talking to the [Guild Clerk](Guild_Clerk.md) will open a window that allows you to name your Guild. Guild names require 1 to 26 characters maximum.
+Upon meeting the requirements, talking to the Guild Clerk will open a window that allows you to start the Guild-making process. Guild names require 1 to 26 characters maximum.
 
-When creating an emblem, you'll be given a window divided into two sections. One side contains a list of icons that can be chosen. A total of **95 icons** can be chosen from. The other shows a color picker for the Guild's background and emblem. Both emblems cannot have their color changed separately.
+When creating an emblem, you'll be given a window divided into two sections. One side contains a list of icons that can be chosen. The other shows a color picker for the Guild's background and emblem. Both emblems cannot have their color changed separately.
 
-The guild emblem that is submitted will be showcased on your ship's sails, your [Chime of Dwelling](Chime_of_Dwelling.md) door, and any [Guild Banners](Guild_Banners.md) you capture.
+A total of **89 icons** can be chosen, as seen below:
 
-Guilds can be renamed for 100 [Robux](https://roblox.fandom.com/wiki/Robux), and has week long cooldown.
+After submitting an emblem, the guild will be successfully created and the leader will automatically gain the [Chime of Dwelling](Chime_of_Dwelling.md) and Guild Officer tool. Additionally, the guild emblem will be visible on the following
 
-## Members
+-   On top of the player's name
+-   The playerlist
+-   [Ship](Ships_&_Sailing.md) sails and flag
+-   Captured [Guild Banners](Guild_Banners.md)
+-   Chime of Dwelling
+
+Guilds can edited to change their emblem or be renamed for 100 [Robux](https://roblox.fandom.com/wiki/Robux), the latter having a week long cooldown.
+
+## Members and Rankings
 
 Once you've founded your guild, you are given the Guild Officer tool. This tool allows you to invite, promote or exile a member from your guild. If your guild leader has been terminated from Roblox, permanently banned from Deepwoken or has left the guild, you can reclaim leadership at a Guild Hall. As your guild begins to grow and expand, you will need to recruit more members. You can give these new members different ranks, as seen below.
 
-Within a guild there are four ranks;
+The guild ranks are listed below:
 
 | **Rank** | **Chime of Dwelling?** | **Invite/Kick?** | **Promote?** | **Modify Guild Base?** |
 | --- | --- | --- | --- | --- |
@@ -46,6 +52,26 @@ Within a guild there are four ranks;
 | **Guild Member** | **No (must use dwelling charms)** | **No** | **No** | **No** |
 
 Members of a guild including its leader will stay in their guild after death and/or wiping. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk. You can have as many members in a guild as you want.
+
+## Guild Score
+
+Guilds have a score system with 2 main categories, PvE and PvP. The player must be [Power](Power.md) 18 in order to earn Guild Score. PvE Score can be gained by defeating [Bosses](Bosses.md), while PvP Score can be gained by killing players.
+
+When reaching a certain amount of overall Guild Score, your guild's rank will be displayed on the playerlist. Upon reaching the top 100, your guild will be displayed on Guild Leaderboards. Guild Score resets at the start of every month.
+
+During [Doubled Rates Weekends](Doubled_Rates_Weekends.md), earned guild score will be doubled.
+
+## Faction Guilds
+
+In certain [Origins](Origins.md) that pertain to its [Faction](Factions_&_Groups.md), the player can choose to join their respective guild by talking to its NPCs:
+
+-   [The Knives of Eylis](The_Knives_of_Eylis.md)
+    -   Joined by talking to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) while having the [Voidwalker](Voidwalker.md) origin.
+-   [The Divers](The_Divers.md)
+    -   Joined by talking to [Akira](Akira.md) in [Castle Light](Castle_Light.md).
+-   The Central Authority, which is joined by default, acting as an overlay to the player's current guild.
+
+In addition to being inside a Faction guild, they cannot obtain any guild score. As of now, Faction guilds are cannot be joined by talking to their NPCs, and are capable of obtaining guild score.
 
 ## Benefits
 
@@ -60,6 +86,5 @@ Members of a guild including its leader will stay in their guild after death and
 ## Trivia
 
 -   Guilds can be seen like [Houses](https://rogue-lineage.fandom.com/wiki/Houses) from _Rogue Lineage_, another game by _Monad Studios_.
--   There are two guilds that players can join by talking to an NPC: [The Divers](The_Divers.md), this guild is joinable by talking to [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md), travelling to [Castle Light](Castle_Light.md) and asking him to join; all your current and future characters obtain the Deepbounds [origin](Origins.md) (YOU DO NOT NEED TO ACCEPT THE INVITE FOR THE ORIGIN), and the [Knives of Eylis](The_Knives_of_Eylis.md) guild which you can join by talking to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md) and asking to join the Knives of Eylis as a guild.
 -   If a Guild Leader leaves the guild, an Officer or higher can take their place as the Guild Leader. If there are no Officers or higher ranks in the Guild, anyone in the Guild can take ownership. You **must** go to the guild NPC to claim leadership once the guild leader has left; it's not given to anyone randomly.
 -   Guild bases can be summoned by using [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md) near a wall. However not all surfaces can be used to create a door, the criteria requires that the space must be big enough. Additionally, the guild base cannot be placed in Voidzones, territory of factions that you are considered enemies with, if enemies are nearby, if the wall isn't made from the right material, and it also cannot be placed on slopes.

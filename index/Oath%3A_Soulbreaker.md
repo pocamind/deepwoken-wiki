@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 174435
+revid: 180559
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -152,6 +152,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
     -   Projectile goes really far (~150 studs) and can hit multiple people at once.
     -   Upon hit, pushes the enemy in the direction of a projectile.
     -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
+    -   This projectile can sometimes phase through opponents if used up close.
 
 -   **Rhythm Advance** - Channel your Rhythm and track down your opponent.
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
@@ -165,6 +166,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
     -   Similarly to [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick), the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them.
     -   Deals 19 physical damage.
     -   Could prove useful in catching players.
+    -   Despite going invisible you do not gain iframes during this move.
 
 ## Version History
 

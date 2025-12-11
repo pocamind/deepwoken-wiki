@@ -1,6 +1,6 @@
 ---
 title: Chilling
-revid: 180474
+revid: 180563
 source: https://deepwoken.fandom.com/wiki/Chilling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -25,7 +25,7 @@ This enchantment changes your weapon's color to a light blue with a light blue m
 
 ## Effect
 
-After landing enough M1s, Chilling applies [chill](Status_Effects.md#chill) and [Bottom Freeze](Status_Effects.md#bottom-freeze) to your opponent. If you have Crystallization Path, this enchantment will apply 1 Crystal when you reach its hit count instead.
+After landing enough M1s, Chilling applies [chill](Status_Effects.md#chill) and [Bottom Freeze](Status_Effects.md#bottom-freeze) to your opponent. If you have Crystallization Path, this enchantment will apply 1 Crystal when you reach its hit count instead. Once this happens, Chilling will go on a 15 second cooldown, preventing stack gain without disabling the damage Chilling does.
 
 Additionally, your M1s gain a secondary damage instance that deals 4% of your weapon's scaled damage as Frostdraw damage. Upon reaching Chilling's hit count, this secondary damage instance is increased to 10% of your weapon's scaled damage.
 
