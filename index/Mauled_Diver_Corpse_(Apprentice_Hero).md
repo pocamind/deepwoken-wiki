@@ -1,9 +1,9 @@
 ---
 title: Mauled Diver Corpse (Apprentice Hero)
-revid: 180386
+revid: 180540
 source: https://deepwoken.fandom.com/wiki/Mauled_Diver_Corpse_(Apprentice_Hero)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Divers, Deceased characters, Characters mentioned in books]
+categories: [Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
 ---
 
 # Mauled Diver Corpse (Apprentice Hero)
@@ -17,7 +17,7 @@ categories: [The Divers, Deceased characters, Characters mentioned in books]
 
 ## Description
 
-[Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>) was a [Diver](The_Divers.md) participating in an expedition to the [Second Layer](Second_Layer.md), led by a [Black Diver](Black_Divers_division.md) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).[\[1\]](#cite-note-journal-iii-1)
+[Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>) was a [Diver](The_Divers.md) participating in the third expedition to the [Second Layer](Second_Layer.md), sent by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to retrieve the [Black Diver](Black_Divers_division.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and the original team.[\[1\]](#cite-note-journal-iii-1)
 
 In [his Journal](Diver_Journal,_III.md) he wrote about his last experiences with [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) cutting off any food supply for his expedition team and forbidding them from entering [territory](The_Frontier_Furnace.md) of [the Ignition Union](The_Ignition_Union.md).[\[1\]](#cite-note-journal-iii-1)
 

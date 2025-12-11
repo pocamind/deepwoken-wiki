@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 179955
+revid: 180531
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -719,7 +719,7 @@ Dialogue: [Chud Steel](Chud_Steel.md) | Books: | Glossary Entries: [The Celestia
 -   An expeditionary organisation stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of Apprentice Divers is staggeringly low.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Abandoned Diver](<Abandoned_Diver_(Journeyman_Skeli).md>), [Akira](Akira.md), [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### The Moonlit Dialect
 

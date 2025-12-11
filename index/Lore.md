@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 180387
+revid: 180499
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -33,19 +33,19 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 
 _The Lord Regent, sitting atop his throne of coral._
 
--   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual with enhanced versions of the powers of his [Contractors](Oath%253A_Contractor.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [the Ministry](The_Ministry.md).
+-   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual with enhanced versions of the powers of his [Contractors](Oath%253A_Contractor.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [The Ministry](The_Ministry.md).
 -   Nobody in [Etris](Etris.md) is sure of where he originates, but they accept him for his formidable power, and his actions _appear_ to be in the best interests of Etris.
 -   Lord Regent is the Fourth Prophet out of nine Ministry Prophets; a ranking system based on strength.[\[1\]](#cite-note-rag-1)
 -   When speaking with the Bookworm about Etris' previous rulers, we learn all of their histories were recorded in books stored within the city's official history office, though the office was destroyed before the events of the game, when the current Lord Regent rose to power. It is believed that Zi'eer wanted to hide or seal Etris' history.
 -   Many locals believe that Lord Regent is stricken with some illness because he never leaves his palace even while remaining the ruler of Etrea.
 -   His strength and power come directly from [the Depths](The_Depths.md), almost equivalent to the [Krulians](Krulian.md), though at the cost of movement.
     -   The Lord Regent is not a Krulian.
-    -   In the book "[Operation 'Puppet Master' Report](Books.md#operation-puppet-master-report)_,_" we learn that after shattering an Etrean guard's mental veil, an [Authority](The_Central_Authority.md) inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
-    -   Lord Regent's power is increased incredibly by sitting on his throne. He can go from barely defeating [Akira](Akira.md) to easily defeating Akira with "low difficulty." It also allows him to surpass [the Ferryman](The_Ferryman.md) when at full strength.[\[1\]](#cite-note-rag-1)
+    -   In the book "[Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)_,_" we learn that after shattering an Etrean guard's mental veil, an [The Authority](The_Central_Authority.md) inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
+    -   Lord Regent's power is increased incredibly by sitting on his throne. He can go from barely defeating [Akira](Akira.md) to easily defeating Akira with "low difficulty." It also allows him to surpass [The Ferryman](The_Ferryman.md) when at full strength.[\[1\]](#cite-note-rag-1)
     -   The Lord Regent's age is somewhere in his 40s, given that he has Tier 1 Wrinkles, but this may not indicate his actual age, as he is likely immortal.
 -   Based on [Jericho's](Warden_Jericho.md) journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
 -   The Lord Regent's power is unique and is likely not associated with any attunement. Some of this power can be gained from the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
-    -   Though it is not [Shadowcast](Shadowcast.md),[\[2\]](#cite-note-arch-2) it is similar in appearance to it, and in "[God in the Machine](Books.md#god-in-the-machine)," after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgment attack.
+    -   Though it is not [Shadowcast](Shadowcast.md),[\[2\]](#cite-note-arch-2) it is similar in appearance to it, and in "[God in the Machine](God_in_the_Machine.md)," after an individual named Ryrda obtained Shadowcast, he witnessed a vision of himself dying via the Regent's signature Judgment attack.
 -   The Lord Regent is very secretive about where he obtained power and will exterminate anyone who attempts to uncover it. When Kennith had doubts about Lord Regent's actions, he was executed, and his mangled corpse was hung on a wall after he tried acquiring information about Lord Regent from the locals of the city. The Lord Regent even uses you as a pawn to fetch out an artifact by the name of "[the Forge of Sin](Relics.md#lore-relics)."
     -   If you enter the throne room without having permission from the Lord Regent, he pulls you into the air using threads with his contractor Oath before instantly killing you, regardless of level. He will also do this after completing the Duke Erisia questline, but not if you are trying to obtain the Contractor Oath.
 -   He appears to hold a particular disdain towards [Canor](Canor.md) people. Schnitzel notes that the "new leader is very strange," suggesting that previous rulers of Etrea allowed the entry of Canor merchants into Etris and that the current Lord Regent does the opposite for reasons unknown.
@@ -56,23 +56,23 @@ _The Lord Regent, sitting atop his throne of coral._
 
 ### Sovereign Drallis Ehr, Overseer of Epochs
 
--   Grand Sovereign of [the Central Authority](The_Central_Authority.md).[\[1\]](#cite-note-rag-1)
+-   Grand Sovereign of [The Central Authority](The_Central_Authority.md).[\[1\]](#cite-note-rag-1)
 -   Often called "Lumen's Savior."
 -   Presumably an [Adret](Adret.md), given the biases of the Authority.
 -   Gained this position after withstanding something known as the Godstorm.[\[1\]](#cite-note-rag-1)
 -   The description of the Authority's helmet mentions that no one has seen the Sovereign's true face.
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
     -   When asked, developer ragoozer simply stated that it is up to the interpretation of the reader.
--   Even more powerful than the [Lord Regent](The_Lord_Regent.md).[\[1\]](#cite-note-rag-1)
+-   Even more powerful than [The Lord Regent](The_Lord_Regent.md).[\[1\]](#cite-note-rag-1)
 -   A theory stated to be "close to the actual lore" says that Drallis Ehr is controlled by the [Celestials](Celestial.md) with the objective to unite all Lumen under one banner, so that they may fight off the Drowned Gods like the Celestials did in the past.[\[1\]](#cite-note-rag-1)
 -   Both the [Etrean Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=EtreanLuminant.png) and [Eastern Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=DWmapEast.png) maps were commissioned under his name.
 
 ### The First Prophet
 
 -   The strongest [Ministry](The_Ministry.md) Prophet.[\[1\]](#cite-note-rag-1)
--   Surpasses all the world leaders, including the [Lord Regent](The_Lord_Regent.md) and Drallis Ehr.[\[1\]](#cite-note-rag-1)
+-   Surpasses all the world leaders, including [The Lord Regent](The_Lord_Regent.md) and [Drallis Ehr](Drallis_Ehr.md).[\[1\]](#cite-note-rag-1)
 -   On par with even the strongest/higher [Krulians](Krulian.md).[\[1\]](#cite-note-rag-1)
--   A Deepwoken, along with [Pleeksty](Amorus_Pleeksty.md).[\[1\]](#cite-note-rag-1)
+-   A Deepwoken, along with [Amorus Pleeksty](Amorus_Pleeksty.md).[\[1\]](#cite-note-rag-1)
 -   It is said that the First Prophet created the Ministry since the Tides came, suggesting he is as old as Pleeksty or even more.[\[1\]](#cite-note-rag-1)
 -   It is speculated that he lost his humanity.[\[1\]](#cite-note-rag-1)
 -   It is said that if the First Prophet and Pleeksty were to fight, the First Prophet would win in a difficult battle.[\[1\]](#cite-note-rag-1)
@@ -87,13 +87,13 @@ _The Lord Regent, sitting atop his throne of coral._
 
 ### Rolen Vashtir I, The King of Etrea
 
--   The previous ruler of the Kingdom of [Etrea](Etrea.md), before his rule was taken by the [Lord Regent](The_Lord_Regent.md) after the King was sealed.
+-   The previous ruler of the Kingdom of [Etrea](Etrea.md), before his rule was taken by [The Lord Regent](The_Lord_Regent.md) after the King was sealed.
 -   Not much is known about the King of Etrea, but [Theadre](Theadre.md) speaks of him.
     -   Theadre acts hostile to you, saying that the King of Etrea will _"...Cast aside the aspirations fabricated by your kind."_, though he refers to you as "kin" if you are Etrean. It is unclear if Theadre speaks true for the King- if so, what approach will The King of Etrea take?
     -   Theadre also calls the King a "god amongst men" and mentions that he "commanded the murmurs greater than any other" with his Murmur being able to "cut the seas themselves".
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
     -   The [teacher](Teacher.md) charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
--   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oaths.md), [Soulbreaker](Oath%253A_Soulbreaker.md) (citation needed).
+-   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oaths.md), [Soulbreaker](Oath%253A_Soulbreaker.md).
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wielded the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
 -   The King disappeared after sailing on a voyage through the Voidsea_,_ Which the book _Stars Above, and the Blade Between_ sheds some light on, assuming that it's an autobiographical work.
@@ -115,7 +115,7 @@ The Duke
 
   
 
--   The [Duke](Duke_Ishamon_Erisia.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the ["The Lord Regent" Quest](Etris.md#the-lord-regents-quest).
+-   [The Duke](Duke_Ishamon_Erisia.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the ["The Lord Regent" Quest](Etris.md#the-lord-regents-quest).
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes says: "Vermin! You seek to let Celtor repeat?"
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
@@ -123,7 +123,7 @@ The Duke
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone. These Golems were sustained by his own power, and it was observed that he could only upkeep a handful at a time to guard his estate in Celtor before he acquired the Forge of Sin.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.
--   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
+-   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [Resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
 -   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.[\[2\]](#cite-note-arch-2)
@@ -163,7 +163,7 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.[\[1\]](#cite-note-rag-1)
 -   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
--   'Would beat Akira up and down the eastern lum.'[\[1\]](#cite-note-rag-1)
+-   "Would beat Akira up and down the eastern lum."[\[1\]](#cite-note-rag-1)
 -   Is far stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
 -   His aspect is Tiran, however due to undergoing constant revisions during development his aspect was up for dispute. The three known aspects he was theorised to be were: [Ganymede](Ganymede.md), [Vesperian](Vesperian.md) or [Tiran](Tiran.md).[\[1\]](#cite-note-rag-1)[\[2\]](#cite-note-arch-2) With the release of the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) however, his aspect was revealed to be Tiran.
 -   Was a very prestigious Black Diver, having the respect of most of [the Divers](The_Divers.md), however his actual relation to the Divers is unknown.
@@ -173,9 +173,9 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   Apparently, he also writes books, with the only known one being "Flame and the failure of man", which [Ploom](Ploom.md) was reading.
 -   Has maintained his sanity despite living in the Third Layer for so long.[\[1\]](#cite-note-rag-1)
     -   A 'chill guy.'[\[1\]](#cite-note-rag-1)
--   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is Venn Kaelhand, the original user of the First Light.[\[5\]](#cite-note-firstlight-5)
+-   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is [Venn Kaelhand](Venn_Kaelhand.md), the original user of the First Light.[\[5\]](#cite-note-firstlight-5)
 -   Since he brought Flamecharm to the world, it is believed he was alive since the Old World, where all the Attunements except Shadowcast were discovered.
--   He is referenced in many mantras and items, [Flame Within](Flamecharm.md#talents) is an example.
+-   He is referenced in many mantras and items, [Flame Within](Talents.md#flame-within) is an example.
 
 ### Chaser, Scholar of the Crimson Contract
 
@@ -245,17 +245,17 @@ _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend]
 -   Black Diver of the Canor aspect.[\[2\]](#cite-note-arch-2) The creator of light hooks.
 -   Former student of [Viqh](Viqh.md), Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people along Nimea to have known Viqh.
--   In charge of expeditions into [the Second Layer](Second_Layer.md).
+-   In charge of expeditions into the [Second Layer](Second_Layer.md).
 -   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[5\]](#cite-note-firstlight-5)
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.[\[1\]](#cite-note-rag-1)
--   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned [Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) over a disagreement, with [Orlandeau](<Cap'n_Orlandeau.md>) noting that she would continue to hound him across the world if he escaped.
+-   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) over a disagreement, with [Orlandeau](<Cap'n_Orlandeau.md>) noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
 
 ### The Meat Lord
 
 _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
--   A wandering chef and salesman that dons the old [Authority Captain Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
+-   A wandering chef and salesman that dons the old [Authority Commander Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
 -   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
@@ -291,14 +291,14 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 **Lore Sources:** _Rifle Spear (Description), Flintlock (Description), Yamaketzal (Mentioned), Summer Company Guards (Good Rep Dialogue)_
 
--   Gunsmith Rosen is a man who sparked the innovation of Firearms, and their reintroduction to the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
+-   [Gunsmith Rosen](Gunsmith_Rosen.md) is a man who sparked the innovation of Firearms, and their reintroduction to the world of Deepwoken. He once had a protégé by the name of Gunsmith Hierka.
     -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
 -   It is theorized that Gunsmith Rosen was either the founding father or the creator of [The Summer Company](The_Summer_Company.md) which is a faction that consists of Gunsmiths and anything related to guns.
     -   Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company. However, he was able to signoff on the creation of the [Stormseye](Stormseye.md).[\[7\]](#cite-note-stormseye-7)
 -   He is a [Vesperian](Vesperian.md).[\[2\]](#cite-note-arch-2)
--   His former prodigy, Gunsmith Hierka, used the Summer Company's secrets in order to create the Rifle Spear for the [Authority](The_Central_Authority.md).
+-   His former prodigy, [Gunsmith Hierka](Gunsmith_Hierka.md), used the Summer Company's secrets in order to create the Rifle Spear for [The Authority](The_Central_Authority.md).
     -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do whatever they please to them, most likely to ensure they can keep their contract.[\[2\]](#cite-note-arch-2)
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
 
@@ -357,8 +357,6 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 -   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in the East, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.[\[2\]](#cite-note-arch-2)
 -   Knows about the existence of the Ministry calling them "Godseekers" and "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
-
-File:Yun'Shul.png
 
 Yun'shul's Shrine
 
@@ -991,7 +989,7 @@ An Authority Captain
     -   It is likely that Karliah obtained the Citadel Trials in the Markor Citadel, located in the Central Luminant.
     -   It's possible that as a Deepbound you are in Scyphozia to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle Light, in the 1st layer.
 -   The Divers can travel between the boundaries of the Luminants and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition Union has a drill to get to the Second Layer, using it like a elevator.[\[2\]](#cite-note-arch-2)
--   Black Divers consist of a variety of individuals, from those who have created or provided a special service, such as Doctor Carrion for his development of Monster Mantras, or for their sheer power, like Chaser, Klaris, and Akira. Black Divers named in [A Deathscribe's Journal](Books.md#a-deathscribes-journal) are:
+-   Black Divers consist of a variety of individuals, from those who have created or provided a special service, such as Doctor Carrion for his development of Monster Mantras, or for their sheer power, like Chaser, Klaris, and Akira. Black Divers named in [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>) are:
     -   Desdemona Dusselden (Deceased)
     -   Aspen Hira (Deceased)
     -   Black Diver Selim (Deceased)

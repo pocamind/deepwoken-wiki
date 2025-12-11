@@ -1,9 +1,9 @@
 ---
 title: Azel Corbet
-revid: 180382
+revid: 180538
 source: https://deepwoken.fandom.com/wiki/Azel_Corbet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Divers, Characters mentioned in books, Deceased characters]
+categories: [Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
 ---
 
 # Azel Corbet
