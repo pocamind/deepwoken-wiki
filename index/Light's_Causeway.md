@@ -1,16 +1,14 @@
 ---
 title: "Light's Causeway"
-revid: 177176
+revid: 180496
 source: https://deepwoken.fandom.com/wiki/Light's_Causeway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, The Divers, Layer 1, Lawless Territory, Locations in the First Layer]
+categories: [The Divers, Layer 1, Lawless Territory, Locations in the First Layer]
 ---
 
 # Light's Causeway
 
 Template:Location2
-
-File:Causeway.png
 
 Light's Causeway is a location in Deepwoken. It is a sub-location of [Castle Light](Castle_Light.md).
 

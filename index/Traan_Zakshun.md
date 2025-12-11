@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 180004
+revid: 180487
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -337,6 +337,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Some guy literally walked through a mirror and handed me these, it was the strangest thing..._
 -   _Thanks for looking, you know... You could actually buy it._
 -   _The Legendary Boot?.. Pff, good joke pal, I don't sell trash._
+-   _The Moonseye is real beautiful, huh. I never really gave it much thought before... Then again I haven't been here too long._
 -   _This isn't overpriced, it's MY SHOP!_
 -   _This one's actually worth more than two times my price... I promise!_
 -   _Try not to draw attention when you walk out of here alright?_

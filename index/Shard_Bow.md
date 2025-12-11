@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 180383
+revid: 180473
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -48,8 +48,8 @@ When obtained, Shard Bow will spend its points on the following stats:
 -   White Burn has a DPS of 9.6 at 0 Flamecharm, and a DPS of 14.4 at 100 Flamecharm.
     -   With [Azure Flames](Talents.md#azure-flames), you can bring this up to 10.8 to 16.25 DPS depending on your Flamecharm investment.
     -   [Deepfire Ring](Deepfire_Ring.md) does not affect White burn.
--   Both variants of Shard Bow do true damage.
--   Shard Bow is **NOT** affected by damage multipliers.
+-   Shard Bow cannot be buffed through damage modifiers.
+-   Both variants of Shard Bow do typeless damage, bypassing **armor** resistances. Shard Bow does **not** deal true damage.
 -   Reference to _The Stormlight Archive'_s Grandbows.
 -   The self burn Corrupt Resonance downside is exclusive to Shard Bow.
     -   Self burn was an obtainable downside for all other Resonances, but it was reworked into the Wither downside that we know today. As Shard Bow's downside was unique to itself anyways, it kept the White Flames.

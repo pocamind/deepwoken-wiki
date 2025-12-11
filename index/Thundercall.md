@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 175000
+revid: 180479
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -254,6 +254,7 @@ Lightning + Slash
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the AoE. However, this will reduced the Mantra's damage.
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to conjure up a shocking AoE around the user.
 -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks) to deploy a sticky projectile to a target that activates the shock after around 3 seconds.
+-   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
  |
 | 
@@ -468,7 +469,8 @@ Lightning + Blunt
 -   Press your block button immediately after the initial kick to follow it up with a second less potent kick that teleports you to the target.
     -   This requires the user to actually land the mantra, meaning it will not activate if being parried, blocked or dodged.
     -   The second kick deals 35% of the initial kick's damage.
-    -   Doesn't work if the initial kick guardbroke the target
+    -   Doesn't work if the initial kick guardbroke the target.
+-   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
  |
 | 
@@ -548,6 +550,7 @@ Lightning
 -   Ragdolls and flings target(s).
 -   Can be given an effect with the "**Grand Skewer**" Talent; which carries the target(s) hit along with projectile if the user presses the block while casting.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to throw 3 smaller javelins that travel forward and adjacent respectively. This equally splits the damage and posture damage for each javelin into thirds.
+-   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a green color.
 
  |
 | 

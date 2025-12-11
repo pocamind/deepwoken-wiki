@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 179557
+revid: 180480
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -70,6 +70,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 -   This attack grants high autoparry frames.
 -   This is typically used after Kick if it lands.
 -   This attack hurts a lot if not properly defended/avoided
+-   The Servants of Enmity cannot use this attack.
 
  | 
 

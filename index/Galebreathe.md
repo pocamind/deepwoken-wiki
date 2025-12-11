@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 178689
+revid: 180478
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -243,7 +243,7 @@ Wind
 -   Has a windup of 0.65 seconds with a 15 second cooldown.
 -   Highly recommended that you turn off shift-lock on use.
 -   Has great vertical mobility, almost acting like a double jump at times.
--   Can be used in combination with the [Cap Artist](Talents.md#thief) Talent to ragdoll and fling yourself insanely far, but only in dungeons, such as layer 2.
+-   Can be used in combination with the [Cap Artist](Talents.md#cap-artist) Talent to ragdoll and fling yourself insanely far, but only in dungeons, such as layer 2.
 
  |
 | 
@@ -283,6 +283,7 @@ Wind + Slash
 -   Can be used as mobility to push the user forward.
 -   Has a relatively large hitbox.
 -   Shares a cooldown with [Ice Lance](Frostdraw.md#ice-lance).
+-   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
 | 
@@ -558,6 +559,7 @@ Wind + Blunt (Grab), Wind (Throw)
 -   The second hit (The throw) ragdolls the opponent and the ragdoll is cancellable.
 -   Procs **Breathing Impact** if thrown at a wall.
 -   Applies knockback.
+-   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
 | 
@@ -721,6 +723,7 @@ Wind + Slash
 -   Has a windup of 0.45 seconds with a 0.0375 second delay between each hit. Has a 15 second cooldown.
 -   At level 3+, the last hit of Astral Wind sends the opponent upwards.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to decrease the speed of the slashes but increase the AoE of the slashes slightly.
+-   The **base damage** of this Mantra is increased by 15% if you are wearing the full Specialist Set. Additionally, it will become a yellow color.
 
  |
 | 
