@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180612
+revid: 180629
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1392,8 +1392,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 20 Flamecharm
 
 -   Unyielding Inferno \[Common Talent, Flamecharm Exclusive\] - Your flames burn just as strong even in the fiercest of storms.
-    -   Negates the damage decrease Flamecharm and Puppets receive from rain.
-    -   Prevents fire from going out in rain.
+    -   Negates the innate 10% damage debuff Flamecharm Mantras, [First Light](First_Light.md)'s critical, and Twisted Puppets' Puppets receive during the [rain](Environmental_Hazards.md).
+    -   Prevents your burn from going out in rain.
     -   Prerequisite: 35 Flamecharm
 
 ### Flashfreeze
