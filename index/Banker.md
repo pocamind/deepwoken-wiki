@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 178691
+revid: 180624
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -17,7 +17,7 @@ Bankers are NPCs that a player can utilize to store items across slots. You can 
 
 They can be found in:
 
--   [Isle of Vigils](Isle_of_Vigils.md) (right next to the antiquarian)
+-   [Isle of Vigils](Isle_of_Vigils.md) (near the entrance to the temple on the shipwright side)
 -   [Etris](Etris.md) (across from the lance quest)
 -   [Greathive Aratel](Greathive_Aratel.md)
 -   [Summer Isle](Summer_Isle.md)

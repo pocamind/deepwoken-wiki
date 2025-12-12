@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 178127
+revid: 180626
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -106,7 +106,7 @@ Nostor executes their opponent after knocking them:
   <td colspan="12">Yes, what would you have me do?</td>
 </tr>
 <tr>
-  <td colspan="12">Bring me 5 Umbral Obsidians, Then we can continue</td>
+  <td colspan="12">Bring me 5 Umbral Obsidians, Then we can continue.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
