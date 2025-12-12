@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 180192
+revid: 180613
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons"]
@@ -119,7 +119,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Hero's Assist: _Jace_**: In the **Flamecharm** Saint Stance, upon flourishing an enemy, summon the Hero of Flame to set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the **[The Floor is Lava](Talents.md#the-floor-is-lava)** Talent.
         -   **Hero's Assist: _Trinity Galenwarde_**: In the **Galebreathe** Saint Stance, upon using Blade of Saints, a Hero of Gale shoots out a miniscule version of the Galebreathe mantra _[Tornado](Galebreathe.md#tornado)_ at the enemy, while also knocking them away.
         -   **Hero's Assist: _Urek Felhand_**: In the **Shadowcast** Saint Stance, upon parrying an attack, summon the Hero of Shadow to do minor damage in an AoE, proccing the talent _Sightless Still_ on anyone hit.
-        -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy, proccing [Chill](Status_Effects.md#chill) or applying [Crystals](Status_Effects.md#crystal).
+        -   **Hero's Assist: _Faust_**: In the **Frostdraw** Saint Stance, upon landing a Frostdraw Mantra, any attuned Mantra while in the Frostdraw Saint Stance, or the Frostdraw-specific Blade of Saints version, summon the Hero of Frost to shoot a barrage of ice projectiles at the enemy.
         -   **Hero's Assist: _Tessa_**: In the **Thundercall** Saint Stance, upon casting a mantra for the first time, summon the Hero of Thunder to bolster your attack, greatly decreasing the windup.
 -   Obtainment: Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md)
 
@@ -130,7 +130,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **[Dancing Steps](Talents.md#dancing-steps)** & **[Graceful Steps](Talents.md#graceful-steps)**: Your attuned mantras will gain a lunge during their windup, closing distance.
             -   **[Hungry Flames](Talents.md#hungry-flames)**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether. However, this talent will no longer proc when using Flamecharm mantras outside of the **Flamecharm** Saint Stance.
-            -   **[Immolation](Talents.md#immolation)**: Your attuned Mantras will cost 70% less Ether if you're burning. (CURRENTLY BUGGED)
+            -   **[Immolation](Talents.md#immolation)**: Your attuned Mantras will cost 70% less Ether if you're burning.
             -   **[Scorched Peak](Talents.md#scorched-peak)**: Guard breaking your opponent with any attuned Mantra will cause them to be struck by lightning. This can also be caused if you guard break them while they are burning, but that is not exclusive to this Saint Stance.
             -   **[The Final Act](Talents.md#the-final-act)**: Landing an attuned Mantra after a flourish will cause an explosion.
             -   **[Warding Radiance](Talents.md#warding-radiance)**: Your attuned Mantras will build up halo stacks.

@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 180553
+revid: 180623
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Mechanics]
@@ -16,19 +16,25 @@ notices:
 
 ## Description
 
-Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. Guilds are an influential part of Deepwoken and a lot of [Talents](Talents.md) and [Mantras](Mantras.md) can be enhanced or require a guild member in order to operate.
+Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. They are an influential part in _Deepwoken_ and a lot of [Talents](Talents.md) and [Mantras](Mantras.md) can be enhanced or require a guild member in order to operate.
 
-Once you are **Power 5**, a guild can be founded by talking to the [Guild Clerk](Guild_Clerk.md) in the Guild House at either [Etris](Etris.md), at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
+Once the player is [Power](Power.md) 5, a guild can be founded by talking to the [Guild Clerk](Guild_Clerk.md) in the Guild House at either [Etris](Etris.md), at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
 
 ## Creation and Customization
 
-Upon meeting the requirements, talking to the Guild Clerk will open a window that allows you to start the Guild-making process. Guild names require 1 to 26 characters maximum.
+Upon meeting the requirements, talking to the Guild Clerk will open a window that allows the player to start the Guild-making process.
 
-When creating an emblem, you'll be given a window divided into two sections. One side contains a list of icons that can be chosen. The other shows a color picker for the Guild's background and emblem. Both emblems cannot have their color changed separately.
+### Naming
+
+A guild requires 1-26 characters maximum, and cannot reuse already existing names. Special characters (e.g. !, $, #, @, &) cannot be used as well. **Inappropriate names will be taken as a bannable offense and will depend on its severity.**
+
+### Guild Emblem
+
+When creating an emblem, a window will open up, dividing into two sections. One side contains a list of icons that can be chosen. The other shows a color picker for the Guild's background and emblem. Both emblems cannot have their color changed separately.
 
 A total of **89 icons** can be chosen, as seen below:
 
-After submitting an emblem, the guild will be successfully created and the leader will automatically gain the [Chime of Dwelling](Chime_of_Dwelling.md) and Guild Officer tool. Additionally, the guild emblem will be visible on the following
+After submitting an emblem, the guild will be successfully created and the leader will automatically gain the [Chime of Dwelling](Chime_of_Dwelling.md) and Guild Officer tool. Additionally, the guild emblem will be visible on the following:
 
 -   On top of the player's name
 -   The playerlist
@@ -36,26 +42,66 @@ After submitting an emblem, the guild will be successfully created and the leade
 -   Captured [Guild Banners](Guild_Banners.md)
 -   Chime of Dwelling
 
-Guilds can edited to change their emblem or be renamed for 100 [Robux](https://roblox.fandom.com/wiki/Robux), the latter having a week long cooldown.
+### Editing
+
+Guilds can edited to change their emblem or be renamed for 100 [Robux](https://roblox.fandom.com/wiki/Robux), the latter having a week long cooldown. Guilds that are recently created will also face the same effect.
+
+When choosing to leave a guild and joining a new one, there is a 1 minute cooldown when switching between guilds.
 
 ## Members and Rankings
 
-Once you've founded your guild, you are given the Guild Officer tool. This tool allows you to invite, promote or exile a member from your guild. If your guild leader has been terminated from Roblox, permanently banned from Deepwoken or has left the guild, you can reclaim leadership at a Guild Hall. As your guild begins to grow and expand, you will need to recruit more members. You can give these new members different ranks, as seen below.
+Within a guild, the player can choose to recruit members using the Guild Officer tool. It is also used to promote and exile guild members, depending on their rank. If a guild's leader is terminated from Roblox, permanently banned from Deepwoken or has left the guild, leadership will be given to the first person who speaks to a Guild Clerk.
 
 The guild ranks are listed below:
 
 | **Rank** | **Chime of Dwelling?** | **Invite/Kick?** | **Promote?** | **Modify Guild Base?** |
 | --- | --- | --- | --- | --- |
-| **Guild Leader ♕** | **Yes** | **Yes (+remote kicking)** | **Yes** | **Yes** |
-| **Guild Lieutenant ︽** | **Yes** | **Yes (only kick members)** | **Yes (up to Officer)** | **No** |
-| **Guild Officer ⛨** | **Yes** | **Yes (only kick members)** | **No** | **No** |
-| **Guild Member** | **No (must use dwelling charms)** | **No** | **No** | **No** |
+| **Guild Leader ♕** | Yes | Yes (+ remote kicking) | Yes | Yes |
+| **Guild Lieutenant ︽** | Yes | Yes (only kick members) | Yes (up to Officer) | No |
+| **Guild Officer ⛨** | Yes | Yes (only kick members) | No | No |
+| **Guild Member** | No (must use [Dwelling Charm](Dwelling_Charm.md)) | No | No | No |
 
 Members of a guild including its leader will stay in their guild after death and/or wiping. Currently you can either get exiled by someone with the Guild Officer tool, or leave by talking to the Guild Clerk. You can have as many members in a guild as you want.
+
+## Chime of Dwelling and Guild Bases
+
+### Chime of Dwelling
+
+Main article: [Chime of Dwelling](Chime_of_Dwelling.md)
+
+### Guild Bases
+
+Main article: [Guild Bases](Guild_Bases.md)
 
 ## Guild Score
 
 Guilds have a score system with 2 main categories, PvE and PvP. The player must be [Power](Power.md) 18 in order to earn Guild Score. PvE Score can be gained by defeating [Bosses](Bosses.md), while PvP Score can be gained by killing players.
+
+The following ways to obtain guild score and the amount earned is listed below:
+
+| **Score Type** | **Score Earned** | **Score Lost** | **Source** |
+| --- | --- | --- | --- |
+| **PvE** | 
+-   3
+-   4 (Titus)
+-   5 (Parasol, Doom of Caeranthil, Scion of Ethiron, Chaser)
+-   10 (Heart of Enmity)
+
+ | N/A | 
+
+-   [Bosses](Bosses.md)
+
+ |
+| **PvP** | 
+
+-   15
+
+ | \-5 | 
+
+-   Killing players
+-   [War Mode](War_Mode.md)
+
+ |
 
 When reaching a certain amount of overall Guild Score, your guild's rank will be displayed on the playerlist. Upon reaching the top 100, your guild will be displayed on Guild Leaderboards. Guild Score resets at the start of every month.
 
@@ -73,7 +119,7 @@ In certain [Origins](Origins.md) that pertain to its [Faction](Factions_&_Groups
 
 In addition to being inside a Faction guild, they cannot obtain any guild score. As of now, Faction guilds are cannot be joined by talking to their NPCs, and are capable of obtaining guild score.
 
-## Benefits
+## Effects
 
 -   Being in the same guild as someone with a spawned boat will allow you to spawn on their boat upon dying or resetting your character. You also spawn in the [Guild Base](Guild_Bases.md) if you have the Quarters room.
 -   Nemesis, Radiant Kick, Taunt and Ankle Cutter all don't work on guildmates. This helps prevent some friendly fire during guild wars.

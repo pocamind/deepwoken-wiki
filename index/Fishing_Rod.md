@@ -1,6 +1,6 @@
 ---
 title: Fishing Rod
-revid: 177031
+revid: 180619
 source: https://deepwoken.fandom.com/wiki/Fishing_Rod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools, Craftable]
@@ -15,7 +15,7 @@ categories: [Items, Tools, Craftable]
 | droppable | No |
 | pass down | No |
 | desc | Cast out to sea to catch fish. |
-| obtainment | Bought for 30 or 35 depending on the vendor., Crafting with two (2) Sticks and one (1) Fiber at a Crafting Station. |
+| obtainment | Bought for 30 or 35 depending on the vendor., Crafted with two (2) Sticks and one (1) Fiber at a Crafting Station. |
 
 The **Fishing Rod** is a tool used to cast lines into most bodies of water for fish, treasure, and even monsters.
 
@@ -24,19 +24,21 @@ The **Fishing Rod** is a tool used to cast lines into most bodies of water for f
 The Fishing Rod can be obtained in a few ways:
 
 -   Bought for 30 or 35 depending on the vendor.
--   Crafting with two (2) [Sticks](Stick.md) and one (1) [Fiber](Fiber.md).
+-   Crafted with two (2) [Sticks](Stick.md) and one (1) [Fiber](Fiber.md).
 
 ## Uses
 
 The Fishing Rod can be used for the following:
 
--   [Fishing](Fishing.md) up Fish.
+-   [Fishing](Fishing.md) up fish and trash.
 -   Fishing up Treasure [Chests](Chests_&_Sacks.md#chests).
 -   Fishing up [Mudskippers](Mudskipper.md) and [Lionfishes](Lionfish.md).
 
 ## Locations
 
 The Fishing Rod can be sold from the following locations:
+
+**Etrean Luminant:**
 
 **Etris:**
 
@@ -60,3 +62,9 @@ The Fishing Rod in a [Guild Base](Guild_Bases.md) is located in the fishing room
 
 -   Costs 35.
 -   The Guild Base can be accessed from both the Etrean and Eastern [Luminants](Luminants.md) by using a [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md).
+
+**Eastern Luminant:**
+
+The Fishing Rod at [Port Merit](Port_Merit.md) is located in a small building near the docks.
+
+-   Costs 30.

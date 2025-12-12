@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 147450
+revid: 180622
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -29,9 +29,7 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 ### Etrean Luminant
 
 -   At the far-right side of [Etris Docks](Etris.md).
-    -   To specify, the right of someone going to the docks, not from the docks (away from the gate.)
--   At the left-hand side of the Sea Highway gate next to the entrance of [Lower Erisia](Lower_Erisia.md).
-    -   To specify, the left of someone going OUT of Erisia towards the King statues.
+    -   To specify, the right of someone going to the docks, not from the docks (away from the gate.
         
         Whirlpool Location #2
         
@@ -51,10 +49,6 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 **Etris Docks:**
 
 At the far-right side of [Etris Docks](Etris.md) (The right of someone going to the docks, not from the docks).
-
-**Lower Erisia Gateway:**
-
-At the left-hand side of the Sea Highway gate next to the entrance of [Lower Erisia](Lower_Erisia.md).
 
 **Minityrsa:**
 
