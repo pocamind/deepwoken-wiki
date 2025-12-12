@@ -1,9 +1,9 @@
 ---
 title: Nightbringer
-revid: 179263
+revid: 180599
 source: https://deepwoken.fandom.com/wiki/Nightbringer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enchantments, Weapon Enchantments]
+categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 ---
 
 # Nightbringer

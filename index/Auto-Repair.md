@@ -1,6 +1,6 @@
 ---
 title: "Auto-Repair"
-revid: 179798
+revid: 180580
 source: https://deepwoken.fandom.com/wiki/Auto-Repair
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Equipment Enchantments]
@@ -27,7 +27,7 @@ This enchantment applies vertical white particle effects to the equipment piece.
 
 ## Effect
 
-Auto-Repair's effects are unknown, though the name implies that it may have passively restored your armor value.
+Auto-Repair's effects are unknown, though the name implies that it may have passively restored your armor value over time.
 
 ## Trivia
 

@@ -1,9 +1,9 @@
 ---
 title: Curse of Void
-revid: 179246
+revid: 180600
 source: https://deepwoken.fandom.com/wiki/Curse_of_Void
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
+categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
 ---
 
 # Curse of Void

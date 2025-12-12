@@ -1,9 +1,9 @@
 ---
 title: "Parasol's Blight"
-revid: 179796
+revid: 180598
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enchantments, Weapon Enchantments]
+categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 ---
 
 # Parasol's Blight
@@ -34,5 +34,5 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 -   **If you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character, this enchantment will not work and your weapon's damage will be voided.**
 -   The monsters summoned count as 'summons' for the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>), healing you when they deal damage.
 -   The monsters summoned will not attack you, even if you've attacked them first.
--   There is no cooldown on the monsters spawning, and you _can_ proc this Talent multiple times at once.
--   The players do not need to killed through manually gripping them, nor do they need to be killed by you specifically for this enchant to proc.
+-   There is no cooldown on the monsters spawning. You can proc this effect multiple times at once.
+-   The players do not need to be killed through manually gripping them, nor do they need to be killed by you specifically for this enchant to proc.

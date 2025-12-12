@@ -1,9 +1,9 @@
 ---
 title: Bloodbane
-revid: 180572
+revid: 180609
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Named Items, Named Weapons, Heavy Weapons, Weapons with Talents]
+categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Talents]
 ---
 
 # Bloodbane

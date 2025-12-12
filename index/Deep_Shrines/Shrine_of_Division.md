@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Division
-revid: 176988
+revid: 180583
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -20,7 +20,7 @@ categories: [NPCs, Mechanics]
 
 ## Description
 
-Located in [The Lordsgrove](../The_Lordsgrove.md) in the absurd large tunnel system with Astruline, down the hole near the Lordsgrove entrance.
+Located in [The Lordsgrove](../The_Lordsgrove.md) in the absurdly large tunnel system with Astruline, down the hole near the Lordsgrove entrance.
 
 ## Effects/Details
 

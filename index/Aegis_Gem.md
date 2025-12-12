@@ -1,9 +1,9 @@
 ---
 title: Aegis Gem
-revid: 176895
+revid: 180601
 source: https://deepwoken.fandom.com/wiki/Aegis_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Treasures, Mantras, Deep Gems]
+categories: [Treasures, Mantras, Deep Gems, The Vat Exclusive]
 ---
 
 # Aegis Gem

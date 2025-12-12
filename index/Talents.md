@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180408
+revid: 180612
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1519,10 +1519,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 40 Galebreathe
 
 -   Breathing Impact \[Galebreathe Exclusive\] - When knocked into objects by wind mantras enemies take additional blunt damage based off of how hard they are hit.
-    -   The following Galebreathe Mantras have knockback and can benefit from this Talent: Air Force, Champion's Whirlwind, Tornado Kick, Gale Punch, Rising Wind, Wind Gun
+    -   The following Galebreathe Mantras have knockback and can benefit from this Talent: [Air Force](Galebreathe.md#air-force), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), [Tornado Kick](Galebreathe.md#tornado-kick), [Gale Punch](Galebreathe.md#gale-punch), [Rising Wind](Galebreathe.md#rising-wind), and [Wind Gun](Galebreathe.md#wind-gun).
+    -   The increased damage dealt is based on the attack's initial damage and your opponent's acceleration.
+    -   Due to the increased damage being based on acceleration, it is **heavily** affected by server performance and ping.
     -   Prerequisite: 30 Galebreathe
 
--   Inhale \[Galebreathe Exclusive\] - [Feinting a](Combat_Mechanics.md#combat-basics) [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra.
+-   Inhale \[Galebreathe Exclusive\] - [Feinting](Combat_Mechanics.md#combat-basics) a [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra.
     -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.
     -   Inhaling grants a speed boost for 3 seconds.
     -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut and Possession.

@@ -1,6 +1,6 @@
 ---
 title: Azel Corbet
-revid: 180538
+revid: 180582
 source: https://deepwoken.fandom.com/wiki/Azel_Corbet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
@@ -13,7 +13,8 @@ categories: [Members of Diver expeditions to the Second Layer, Deceased characte
 | name | Azel Corbet[1] |
 | alias | Apprentice Azel[1] |
 | aspect | Adret[2] |
-| affiliation | Eaten by bounders (presumably)[1] |
+| affiliation | The Divers[1] |
+| death | Mauled by bounders[1] |
 | deathdate | 1272 CE[3] |
 
 ## Description
@@ -24,6 +25,6 @@ An aspiring diver apprentice, who met his demise during the Divers' expedition t
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-journal-1-0) [1.1](#cite-ref-journal-1-1) [1.2](#cite-ref-journal-1-2) [1.3](#cite-ref-journal-1-3) [1.4](#cite-ref-journal-1-4) [Diver Journal, I](Diver_Journal,_I.md)
+1.  ↑ [1.0](#cite-ref-journal-1-0) [1.1](#cite-ref-journal-1-1) [1.2](#cite-ref-journal-1-2) [1.3](#cite-ref-journal-1-3) [1.4](#cite-ref-journal-1-4) [1.5](#cite-ref-journal-1-5) [Diver Journal, I](Diver_Journal,_I.md)
 2.  [↑](#cite-ref-2) [Adret surname](Adret.md)
 3.  [↑](#cite-ref-3) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.
