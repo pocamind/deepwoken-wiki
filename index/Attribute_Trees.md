@@ -1,6 +1,6 @@
 ---
 title: Attribute Trees
-revid: 171327
+revid: 180713
 source: https://deepwoken.fandom.com/wiki/Attribute_Trees
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages]
@@ -59,7 +59,7 @@ Pulled from [Talents](Talents.md) for immediate reference.
 | File:TalentCardImage2.png | Concussive Force  
 Duelist  
 4-DU1-2 | 15STR  
-[Blackleaf Helm](Blackleaf_Helm.md), Gladiator Helmet | Enemies you knocked remain downed longer than usual. (+9 Carry Load) |
+[Blackleaf Helm](Blackleaf_Helm.md), [Gladiator Helm](Gladiator_Helm.md) | Enemies you knocked remain downed longer than usual. (+9 Carry Load) |
 | File:TalentCardImage2.png | Champion's Regalia  
 Champion  
 4-CH2-1 | 25STR | Flourishing an opponent grants you 1.5x posture damage for 10 seconds. (+1 Carry Load) |

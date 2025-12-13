@@ -1,6 +1,6 @@
 ---
 title: Formless Shard
-revid: 179534
+revid: 180819
 source: https://deepwoken.fandom.com/wiki/Formless_Shard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, Light Weapons]
@@ -46,4 +46,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   Formless Shard copies the enchant and star values of what weapon it was previously.
     -   You can get some use out of this by trading it in to [Laplace](Laplace.md).
 -   The only purpose this weapon serves is for the player to still have an equipped weapon after destroying their previous weapon to obtain a Motif.
--   Formless Shard is the weakest weapon in Deepwoken with a close second being [Dormant Splinter](Dormant_Splinter.md).
+-   Formless Shard is the second weakest weapon in Deepwoken, only being beat out by the [Handcuffs](Handcuffs.md). [Dormant Splinter](Dormant_Splinter.md) is a "strong" contender for this title as well.

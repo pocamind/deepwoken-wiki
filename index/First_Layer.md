@@ -1,9 +1,9 @@
 ---
 title: First Layer
-revid: 180341
+revid: 180761
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Layer, The Depths, Layer 1, Map]
+categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
 ---
 
 # First Layer

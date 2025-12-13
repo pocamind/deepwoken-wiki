@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180669
+revid: 180719
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1147,7 +1147,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Concussive Force \[Common Talent\] - Enemies you knocked remain downed longer than usual. (+9 Carry Load)
     -   Enemies remain knocked for 15 seconds instead of 10.
     -   Prerequisite: 15 Strength
-    -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "Gladiator Helmet" have this Talent.
+    -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "[Gladiator Helm](Gladiator_Helm.md)" have this Talent.
 
 -   Precise Swing \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
@@ -1205,6 +1205,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Despite what the description states, this applies Taunt for 6 seconds.
     -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
     -   The Taunt damage buff is also applied to the attack that guard broke.
+    -   This Talent will still function as normal if you no longer have the Taunt Mantra.
     -   Prerequisites: 85 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
 
 -   Give and Take \[Common Talent, Charisma\] - Deal less damage to comrades and receive less damage from comrades.

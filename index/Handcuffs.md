@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 180659
+revid: 180826
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -44,3 +44,4 @@ You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the
 -   While handcuffed, if you get knocked by any player (including yourself through self damage), you will be teleported back into the prison.
 -   You gain a perpetual PvE combat tag while the handcuffs are equipped.
 -   Despite your hands being bound, you can still pilot [Boats](Ships_&_Sailing.md) and use their cannons.
+-   Due to its all around unbearably low stats, this is the weakest weapon in the game.

@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 179575
+revid: 180773
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Light Weapons, Weapons with multiple Criticals]
@@ -15,7 +15,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | damage | 14.5 |
 | scaling | LHT: 7.5 |
 | range | 6 |
-| swing speed | 1.20x |
+| swing speed | 1.2x |
 | penetration | 25% |
 | m.equip | No |
 | m.extract | No |

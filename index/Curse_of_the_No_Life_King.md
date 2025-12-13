@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 179244
+revid: 180737
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -35,7 +35,7 @@ Your health bar is permanently stained while this enchantment is equipped. This 
 
 You take 2x blood damage from all damage sources while in the Overworld.
 
-If you reach 0% sanity in the Overworld while having a Curse of the No Life King weapon equipped, your head will explode and you will instantly die. While in the [First Layer](First_Layer.md), you lose 2 sanity per second if your weapon is unsheathed. This stacks with the passive sanity loss from the Depths, totaling to 122 sanity loss per minute.
+If you reach 0 Sanity while having a Curse of the No Life King weapon equipped, your head will explode and you will instantly die. While in the [First Layer](First_Layer.md), you lose 2 sanity per second if your weapon is unsheathed. This stacks with the passive sanity loss from the Depths, totaling to 122 sanity loss per minute.
 
 The following effects have reduced effectiveness or are entirely disabled while this enchantment is equipped:
 

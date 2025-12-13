@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 180487
+revid: 180684
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -162,13 +162,13 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _C'mon, everybody and their grandma wants to buy something like this._
 -   _Colour makes us hungry - everything's connected!_
 -   _DON'T drop it..._
--   _Hard sell eh?.. What if it was purple?_
--   _Hey come on now, it's not that expensive.._
+-   _Hard sell, eh?.. What if it was purple?_
+-   _Hey now come on, it's not that expensive..._
 -   _Hey, you break it - you buy it._
 -   _I dropped a boulder on the guy I stole this from._
--   _I threw the guy I stole this from into the megalodaunt nest not too far from here, easiest clean-up ever._
+-   _I threw the guy I stole this from into the Megalodaunt nest not too far from here. Easiest clean-up ever._
 -   _I stole these from local bandits, by the way._
--   _Isn't it weird how there's like next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
+-   _Isn't it weird how there's like, next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
 -   _Look at all those shiny colours!_
@@ -176,7 +176,7 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _Lovely weather for buying something exactly like this, eh?_
 -   _No change - no problem! I'll keep the difference as a tip!_
 -   _Now see, I would buy this. From myself._
--   _Oh haha, that's not dust that's uhm... an expensive finish, probably a fashion thing._
+-   _Oh, haha, that's not dust, that's, uhm... an expensive finish, probably a fashion thing._
 -   _Oof, man. Are you sure you can afford this heat?_
 -   _People keep asking for these to be purple? I don't get it._
 -   _Regahl rega regi.. You pronounce it reg-ah-lee-ah right?_
@@ -193,14 +193,14 @@ His item descriptions will change randomly each time he hits his hourly rotation
 -   _This is a real steal, probably._
 -   _This one really stood out when I was looting the guy who had it._
 -   _This one's so valuable it's been sitting around for years!_
--   _This usually isn't the case but I almost drowned getting this haha._
+-   _This usually isn't the case, but I almost drowned getting this, haha._
 -   _This will surely have you saying: 'shut up and take my money'!_
 -   _Traan Zakshun has wares if you have coin-- erm, I mean... notes. Yes._
 -   _Truly a divine thingymabob._
 -   _Used to know a guy who made these, you know... What happened to him? Oh, he's fine. He just doesn't make these anymore._
 -   _Use my special offer! You can get TWO items, for the price of one-plus-one item! Isn't that a steal?_
 -   _What's that? Do I have a reegahl... reeg... regi... Reh-gah-lee~ yah? You're talkin' crazy, pal._
--   _Yes this is my real name... legally._
+-   _Yes, this is my real name... legally._
 -   _You got any Ongo slices? I could really go for a snack..._
 -   _You know, I'm told that Drallis Ehr guy \*really\* likes this one... If that makes you any more interested?_
 
@@ -303,7 +303,7 @@ The black market rotation always has 4 items in stock.
 
 His item descriptions will change randomly each time he sells goods from his Black Market Cache:
 
--   _A strange blue turnip salesman once told me deep forests akin to Upper Erisia bring in good coin. Gotta say, he's right._
+-   _A strange blue turnip salesman once told me that deep forests, like the ones in Upper Erisia, bring in good coin. Gotta say, he's right._
 -   _Buy it you break it. Wait a sec..._
 -   _Careful. This one's got a history.. I think._
 -   _Did you know if you give me the crowns, I'll actually GIVE you the item, it's a crazy deal right?_
@@ -329,7 +329,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Next time, if you come wearing a full clown outfit, I might give you a discount... Pff!_
 -   _Never again will I make the mistake of using one of these._
 -   _No questions, no returns._
--   _Not sure if I really want to let this one go... if that makes you want it more?_
+-   _Not sure if I really want to let this one go... If that makes you want it more?_
 -   _Oh this one's verrry special - I can only let you buy one._
 -   _Oh, this one might be cursed. Like, actually._
 -   _Ohh yeah, this has gotta be one a kind, just look at the uhh... look at it!_
@@ -340,7 +340,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _The Moonseye is real beautiful, huh. I never really gave it much thought before... Then again I haven't been here too long._
 -   _This isn't overpriced, it's MY SHOP!_
 -   _This one's actually worth more than two times my price... I promise!_
--   _Try not to draw attention when you walk out of here alright?_
+-   _Try not to draw attention when you walk out of here, alright?_
 -   _Ugh, I don't even like WANT to sell this... Unless.. I dunno~ you gave me the crowns for it?_
 -   _Until earlier I genuinely forgot I even had this, does that make you want it more?_
 -   _Wait. I think the sticker price is wrong... um.. whatever, crowns are crowns right?_
@@ -350,7 +350,7 @@ His item descriptions will change randomly each time he sells goods from his Bla
 -   _Whispers say this was lost to time... ooOOOooo !!_
 -   _You buy it - you break it. Wait a sec..._
 -   _You got cash for a crown? I'm running low on change here... If not, it's fine._
--   _You want it? It's yours my friend! So long as you have enough crowns._
+-   _You want it? It's yours, my friend! As long as you have enough crowns._
 -   _You want my hat instead? I actually made it out of dried kelp, I'm saving it for later. Not for sale._
 -   _You wouldn't believe how hard these were to find._
 
@@ -421,9 +421,9 @@ Sold Items
     -   Traan's name was originally "Trahne Zakshun", however it was changed in the June 30th, 2025 update, as too many people were pronouncing it as "train saction" and not "transaction".
 -   Traan Zakshun's hair is green.
 -   Traan's shop dialogues contain references to other media:
-    -   "_A strange blue turnip salesman once told me deep forests akin to Upper Erisia bring in good coin. Gotta say, he's right._" is a reference to the turnip salesman from _Rogue Lineage_.
+    -   "_A strange blue turnip salesman once told me that deep forests, like the ones in Upper Erisia, bring in good coin. Gotta say, he's right._" is a reference to the turnip salesman from _Rogue Lineage_.
     -   "_...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._" is a reference to a running joke in _Terraria_ that involves several merchant NPCs referencing the Angel Statue item.
-    -   "_You want it? It's yours my friend! So long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
+    -   "_You want it? It's yours, my friend! As long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
 -   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in their regular shop rotation[\[1\]](#cite-note-0-1). This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting their hands dirty themselves.
 
 ## References

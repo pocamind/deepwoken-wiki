@@ -1,6 +1,6 @@
 ---
 title: Frigid Prism
-revid: 180295
+revid: 180742
 source: https://deepwoken.fandom.com/wiki/Frigid_Prism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -30,4 +30,4 @@ Frigid Prisms drop from NPCs that uses the [Frostdraw](Frostdraw.md) attunement,
 
 ## Trivia/Notes
 
--   An easy way to obtain them as a fresh spawn is to backstab the [Eastern Tribe Nomad](Eastern_Nomad.md) on the cliff, collect the prism, and then rejoin and repeat.
+-   An easy way to obtain them as a fresh spawn is to backstab the [Eastern Nomad](Eastern_Nomad.md) on the cliff, collect the prism, and then rejoin and repeat.

@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 179735
+revid: 180743
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
@@ -57,4 +57,4 @@ This attack has a scaled damage multiplier of 1.25x and has innate [Bleed](Statu
 
 -   This is currently the only dagger in the game that does not have any endlag.
 -   This weapon is often treated as a pseudo-medium weapon due to it's slower swing speed and higher damage in comparison to other daggers
--   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 28.4 alloyed (29.3)
+-   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 28.4/29.3.

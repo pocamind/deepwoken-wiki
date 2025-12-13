@@ -1,9 +1,9 @@
 ---
 title: Etrean Wilds
-revid: 165151
+revid: 180754
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Map, Locations in the Etrean Luminant, Etrea]
+categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant, Etrea]
 ---
 
 # Etrean Wilds
@@ -16,7 +16,7 @@ The sounds of the forest comfort your sea-weary soul, if briefly.
 
 File:Etrean wilds spring.jpg
 
-**Etrean Wilds** is a location in _Deepwoken_. It is a sub-location of [Etris](Etris.md) found in the [Etrean Sea](The_Etrean_Sea.md).
+**Etrean Wilds** is a location in _Deepwoken_. It is a sub-location of [Etris](Etris.md) found in [The Etrean Sea](The_Etrean_Sea.md).
 
 ## Overview
 
@@ -32,7 +32,7 @@ Between the Etris Docks and Etris, there is a small forest, being the Etrean Wil
     -   This is the location of the first part of the [Zana](Zana.md) [quest](<Poser's_Ring.md>)
     -   File:Navea Camp.jpg
 -   Ruined House
-    -   A small ruined house found below Etris that has importance with [The Librarian](Isle_of_Vigils.md#the-librarian-quest) quest.
+    -   A small ruined house found below Etris that has importance with the [Kelsius](Kelsius.md) Book quest.
     
 
 ## Maps

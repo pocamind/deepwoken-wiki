@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 176941
+revid: 180698
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -138,6 +138,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <td>Nefarious Cnidarian/II/III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Gigamed.md">Gigameds</a> or <a href="King_Gigamed.md">King Gigameds</a></li>
+    <li>Gigameds spawned by a King Gigamed do not count towards the Bestiary completion.</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -388,5 +389,4 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 
 -   As of June 23rd, 2025, 7 out of the 29 current entries are missing a picture/don't have one at all.
     -   These include the following: Sworn Angel, Terrapod, Crustaceous Rex, Duke Ishamon Erisia, Scion of Ethiron, Maestro Evengarde Rest, and The Ferryman.
--   Several monsters don't have or don't contribute to a Bestiary entry, these include: [Crab](Crab.md), [Mudskipper Knight](Mudskipper_Knight.md), [Rogue Construct](Rogue_Construct.md), [Hive Construct](Hive_Construct.md)\*, [Carbuncle](Carbuncle.md), and [Diver Husk](Diver_Husk.md).
--   [Gigameds](Gigamed.md) spawned by a [King Gigamed](King_Gigamed.md) do not count towards the Gigamed Bestiary completion.
+-   Several monsters don't have or don't contribute to a Bestiary entry, these include: [Crab](Crab.md), [Mudskipper Knight](Mudskipper_Knight.md), [Rogue Construct](Rogue_Construct.md), [Hive Construct](Hive_Construct.md), [Carbuncle](Carbuncle.md), and [Diver Husk](Diver_Husk.md).

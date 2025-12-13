@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 180294
+revid: 180845
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -20,7 +20,7 @@ categories: [Weapons, Fists, Light Weapons]
 | m.equip | No |
 | m.extract | No |
 | rarity | N/A |
-| weight | 9 |
+| weight | 3 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

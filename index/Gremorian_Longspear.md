@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 179739
+revid: 180755
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons]
@@ -29,12 +29,12 @@ categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Childr
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Navae Nomads in Etris, Erisia chests, Summer Isle chests, Chime of Conflict, Lodestar, Dread SerpentAlloyed:, Alloying a Gremorian Longspear |
+| obtainment | Eastern Nomads in Etris, Erisia chests, Summer Isle chests, Chime of Conflict, Lodestar, Dread SerpentAlloyed:, Alloying a Gremorian Longspear |
 | description | Beyond the safety of walls, these long spears are used by the Children of Navae to defend themselves out in the wilderness. |
 
 ## Description
 
-The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [Navae Nomads](Eastern_Nomad.md) in [Etris](Etris.md), with a random chance of it being dropped, or from any chests.
+The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [Eastern Nomads](Eastern_Nomad.md) in [Etris](Etris.md), with a random chance of it being dropped, or from any chests.
 
 ## Critical
 
@@ -46,7 +46,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   You can farm the [Nomads](Eastern_Nomad.md) in Etris for the spear, although this comes at the cost of your reputation with them.
+-   You can farm the [Eastern Nomads](Eastern_Nomad.md) in Etris for the spear, although this comes at the cost of your reputation with them.
     -   Killing the ones at Summer Isle will not cost you rep, but you will have a harder battle due to the [Ministry Scouts](Ministry_Scout.md) and the fact they are already in combat.
 -   Could be a direct reference to the Deep Knight class from Rogue Lineage.
 -   Critical attack reels players in and stuns them even if they block it.

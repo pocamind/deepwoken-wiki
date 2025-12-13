@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 176775
+revid: 180781
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -85,7 +85,8 @@ Typeless
 
 -   Deals 38.25 damage and 15 posture damage
 -   Has a windup of 0.9 seconds
--   This Mantra has two hits. The first one scans for if it touches the player and the second deals the damage. Because there is a slight delay, if your opponent is running from you, Abyssal Ridge may miss
+-   This Mantra has two hits. The first one scans for if it touches the opponent and the second deals the damage.
+-   The wave tracks and follows the opponent. Because there is a slight delay, if your opponent is running from you, Abyssal Ridge may miss.
 
  |
 | 

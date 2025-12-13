@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 178867
+revid: 180710
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -478,7 +478,7 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 +1 Uncommon Pip
 
  | N/A |
-| File:Gladiator Helmet.png | Gladiator Helmet
+|  | [Gladiator Helm](Gladiator_Helm.md)
 
 (**Set**)
 
@@ -490,7 +490,7 @@ _+Talent: Concussive Force_
 **Requires Power 8, Fortitude 15**
 
  | Set: Gladiator  
-Head: Gladiator Helmet  
+Head: [Gladiator Helm](Gladiator_Helm.md)  
 Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
 |  | [Goldleaf Helm](Goldleaf_Helm.md)
 
@@ -1278,7 +1278,7 @@ _+1 Posture_
 +1 Rare Pip
 
  | Set: Gladiator  
-Head: Gladiator Helmet  
+Head: [Gladiator Helm](Gladiator_Helm.md)  
 Arms: [Gladiator Pauldrons](Gladiator_Pauldrons.md) |
 | File:Glassdancer Wraps1.png | [Glassdancer Wraps](Glassdancer_Wraps.md) | _+2 Health_  
 _+3 Posture_
@@ -3033,7 +3033,7 @@ _+2% Wind Armor_
     -   Due to this, you'll have to take the following theoretical kits with a grain of salt, as this bug could result in higher maximums.
 -   Highest theoretical **stealth** kit in game is 30% stealth. (10% [Dark Owl Chapeau](Dark_Owl_Chapeau.md), 6% [Mercenary's Garb](<Mercenary's_Garb.md>)/[Ministry Cloak](Ministry_Cloak.md)/[Dark Owl Cloak](Dark_Owl_Cloak.md), 5% Shrouded Capes, 6% Duelist's Mask, 3% [Master Thief Earrings](Master_Thief_Earrings.md))
 -   Highest theoretical **ETH** kit in game is 415 ETH. (4x 30 ETH [Moon](Moon_Ring.md) and [Waning Rings](Waning_Ring.md), 68 ETH (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>) or equivalent, 44 ETH [Fauld of Enmity](Fauld_of_Enmity.md), 64 ETH [Tillian's Beret](<Tillian's_Beret.md>), 54 ETH [Star Boots](Star_Boots.md) or equivalent, 30 ETH [Hivelord Mask](Hivelord_Mask.md), 35 ETH [Old Blood Earrings](Old_Blood_Earrings.md))
--   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/Gladiator Helmet/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
+-   Highest theoretical **Posture** kit is 21.5 Posture. (4x 3 Posture Legendary Rings, 2 Posture [Khan Helmet](Legion_Helmet.md)/[Gladiator Helm](Gladiator_Helm.md)/[Western Outlaw Hat](Western_Outlaw_Hat.md), 1 Posture [Threadwork Kilt](Threadwork_Kilt.md), 3 Posture [Glassdancer Wraps](Glassdancer_Wraps.md)/[Moonseye Gauntlets](Moonseye_Gauntlets.md)/[Western Outlaw Robes](Western_Outlaw_Robes.md), 3.5 Posture [Wartreads of Enmity](Wartreads_of_Enmity.md) with max Anchor pips)
     -   Conversely, the lowest **Posture** you can have on any character is 16, with [Citadel Frames](Citadel_Frames.md) and [Dark Pearls](Dark_Pearls.md).
 -   Highest theoretical **HP** kit in game is 170 HP. (2x 9 HP [Moon](Moon_Ring.md) and 2x 9 HP [Waning Rings](Waning_Ring.md), 47 HP (Drowned) [Diver's Light Plate](<Diver's_Light_Plate.md>)/[Bastions of Enmity](Bastions_of_Enmity.md), 18 [Fauld of Enmity](Fauld_of_Enmity.md), 30 HP [Silver Knight's Helm](<Silver_Knight's_Helm.md>) or equivalent, 32 HP [Star Boots](Star_Boots.md) or equivalent, 2 HP [Moonlit Earrings](Crescent_Earrings.md)/[Dark Pearls](Dark_Pearls.md), 5 HP [Citadel Frames](Citadel_Frames.md))
     -   Having multiple pieces of equipment with drowned **does not increase your stats further.**

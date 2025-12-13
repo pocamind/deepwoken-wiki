@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 172677
+revid: 180740
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1346,7 +1346,7 @@ These Talents are found in the _Ice Age_ category.
 -   The [Chilling](Chilling.md) Enchantment still applies 1 second Chill in PvP per hit until it applies Bottom Freeze and then goes on cooldown until you can reapply the status.
 -   Frostdraw has the second-most Mantras with 3 stars on them, second to Ironsing.
 -   Frostdraw has the most Mantras out of all attunements in the game.
--   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Tribe Nomads](Eastern_Nomad.md) are easy to backstab and kill.
+-   This is by far the easiest attunement to obtain, mainly because everything you need is in Etris, and the [Eastern Nomads](Eastern_Nomad.md) are easy to backstab and kill.
 -   Frostdraw isn't the manipulation of water particles, instead, you are decreasing the temperature around you to create ice.
 -   Prior to the January 12th, 2024 update, Glass Path: Crystallization didn't recolor your Frostdraw and the Crystals themselves were also blue.
 -   Anything that would Freeze while using Glass Path: Crystallization would cause the crystals in your opponent to explode.
@@ -1365,7 +1365,7 @@ These Talents are found in the _Ice Age_ category.
 -   The **Ice Eruption** Mantra is a reference to the [Eight Cold Hells](https://nioh2.wiki.fextralife.com/Eight+Cold+Hells) ninja skill in _Nioh 2_.
 -   The **Ice Smash** Mantra is a reference to one of Cirno's spell cards in _Touhou 12.3_.
 -   Frostdraw Mantras afflict a brief Agility penalty when targets are hit and can create physical objects that allow players to collide with.
--   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Tribe Nomads](Eastern_Nomad.md) on [Etris](Etris.md), [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in the [Second Layer](Second_Layer.md).
+-   Frostdrawers can refer to Frostdraw attunement users such as [Eastern Nomads](Eastern_Nomad.md) on [Etris](Etris.md), [Songseeker Frostdrawers](Songseeker_Frostdrawer.md) in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md), Authority Captains in [Starswept Valley](The_Starswept_Valley.md) and the Kyrsgarde in the [Second Layer](Second_Layer.md).
 -   The **Ice Chains** Mantra was reworked into a new ability on the 8th of February 2022.
 -   The now-removed "Frozone" Talent was a reference to [Frozone](https://the-incredibles.fandom.com/wiki/Frozon) from _[The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles)_.
 -   The **Iceberg** Mantra is a reference to [Mei's Cyro-Freeze ability](https://overwatch.fandom.com/wiki/Overwatch_1) in _[Overwatch](https://en.wikipedia.org/wiki/Overwatch)_.

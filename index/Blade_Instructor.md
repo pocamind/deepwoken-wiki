@@ -1,6 +1,6 @@
 ---
 title: Blade Instructor
-revid: 176680
+revid: 180717
 source: https://deepwoken.fandom.com/wiki/Blade_Instructor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Etrea Enemies]
@@ -21,7 +21,7 @@ notices:
 
 The Instructor was an NPC that can only spawned in via sparring. To spawn him, the player had to talk to [Das](Das.md), only then would an Instructor spawn.
 
-Instructors wore a Gladiator Helmet and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [aspect](Aspects.md) varying.
+Instructors wore a [Gladiator Helm](Gladiator_Helm.md) and a [Cloak of Winds](Cloak_of_Winds.md) outfit with their [aspect](Aspects.md) varying.
 
 With the introduction of [Training Mode](Training_Mode.md), they were rendered obsolete and removed.
 

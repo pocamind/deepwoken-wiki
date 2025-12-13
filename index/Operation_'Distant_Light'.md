@@ -1,6 +1,6 @@
 ---
 title: "Operation 'Distant Light'"
-revid: 166487
+revid: 180702
 source: https://deepwoken.fandom.com/wiki/Operation_'Distant_Light'
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -29,4 +29,4 @@ notices:
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-opdlr-1-0) [1.01](#cite-ref-opdlr-1-1) [1.02](#cite-ref-opdlr-1-2) [1.03](#cite-ref-opdlr-1-3) [1.04](#cite-ref-opdlr-1-4) [1.05](#cite-ref-opdlr-1-5) [1.06](#cite-ref-opdlr-1-6) [1.07](#cite-ref-opdlr-1-7) [1.08](#cite-ref-opdlr-1-8) [1.09](#cite-ref-opdlr-1-9) [1.10](#cite-ref-opdlr-1-10) [1.11](#cite-ref-opdlr-1-11) [1.12](#cite-ref-opdlr-1-12) [1.13](#cite-ref-opdlr-1-13) [1.14](#cite-ref-opdlr-1-14) [Operation 'Distant Light' Report](Books.md#operation-distant-light-report)
+1.  ↑ [1.00](#cite-ref-opdlr-1-0) [1.01](#cite-ref-opdlr-1-1) [1.02](#cite-ref-opdlr-1-2) [1.03](#cite-ref-opdlr-1-3) [1.04](#cite-ref-opdlr-1-4) [1.05](#cite-ref-opdlr-1-5) [1.06](#cite-ref-opdlr-1-6) [1.07](#cite-ref-opdlr-1-7) [1.08](#cite-ref-opdlr-1-8) [1.09](#cite-ref-opdlr-1-9) [1.10](#cite-ref-opdlr-1-10) [1.11](#cite-ref-opdlr-1-11) [1.12](#cite-ref-opdlr-1-12) [1.13](#cite-ref-opdlr-1-13) [1.14](#cite-ref-opdlr-1-14) [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>)

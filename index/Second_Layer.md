@@ -1,9 +1,9 @@
 ---
 title: Second Layer
-revid: 177699
+revid: 180756
 source: https://deepwoken.fandom.com/wiki/Second_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Map, The Depths, Layer 2]
+categories: [Locations, The Depths, Layer 2]
 ---
 
 # Second Layer
