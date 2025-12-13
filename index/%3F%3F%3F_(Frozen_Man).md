@@ -1,6 +1,6 @@
 ---
 title: ??? (Frozen Man)
-revid: 177203
+revid: 180666
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Frozen_Man)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
@@ -15,7 +15,7 @@ categories: [Khan NPCs, NPCs, NPCs located in the First Floor of the Second Laye
 
 ## Description
 
-??? is a [Khan](Khan.md) NPC. He is found frozen overlooking [Firfire](Firfire.md) near the Union Hook at the [Third Diver Journal](Diver_Journal,_III.md).
+??? is a [Khan](Khan.md) NPC. It can be found overlooking [Firfire](Firfire.md) near the Union Hook at the body of [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>).
 
 ## Dialogue
 

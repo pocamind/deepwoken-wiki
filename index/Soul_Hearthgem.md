@@ -1,9 +1,9 @@
 ---
 title: Soul Hearthgem
-revid: 180325
+revid: 180663
 source: https://deepwoken.fandom.com/wiki/Soul_Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Quest Item]
+categories: [Items, Quest Item]
 ---
 
 # Soul Hearthgem
@@ -18,11 +18,13 @@ categories: [Pages with broken file links, Items, Quest Item]
 
 ## Description
 
-A quest item used for unbounding [Intelligence](Attributes.md#int). It is used at [The Birdcage](The_Birdcage.md) to light the altars in a specific pattern. It can be found at the [The Garden Reservoir](The_Garden_Reservoir.md) in a ruined building near the galebreathe obelisk
+A quest item used for unbounding [Intelligence](Attributes.md#int), it is mainly used to light the altars at [The Birdcage](The_Birdcage.md).
 
-File:Location of soul hearthgem.png
+  
 
-They are inside this building beside the Galebreathe Obelisk
+## Location
+
+Soul Hearthgems can be found at the [The Garden Reservoir](The_Garden_Reservoir.md) in a ruined building near the [Galebreathe Obelisk](Galebreathe_Obelisk.md).
 
 ## Dialogue
 

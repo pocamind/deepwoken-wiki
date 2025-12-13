@@ -1,6 +1,6 @@
 ---
 title: The Three Cheers
-revid: 180591
+revid: 180662
 source: https://deepwoken.fandom.com/wiki/The_Three_Cheers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]

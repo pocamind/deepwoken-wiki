@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180629
+revid: 180653
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1349,7 +1349,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Flame Warden
 
 -   Cauterized Wounds \[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility)
-    -   Effectiveness of this Talent reduced with No Life King enchant.
+    -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
     -   Stacks with Alloyblood.
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
 
