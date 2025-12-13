@@ -1,6 +1,6 @@
 ---
 title: Alchemy
-revid: 179368
+revid: 180646
 source: https://deepwoken.fandom.com/wiki/Alchemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Consumables, Alchemy]
@@ -502,75 +502,76 @@ The best potions for a timed effect (like Grueling or Hastening) either use thre
 
 When brewing potions for an instant effect (like Rejuvenation or Soothing), potions should use three of the strongest ingredient and two of the second strongest ingredient. Sometimes this isn't possible, so the last two ingredients should be used to add a second useful effect.
 
--   **Instant Health** (Rejuvenating) - 3 Glumfig + 2 Redd
+-   **Instant Health** - 3 Glumfig + 2 Redd
     -   Redds and Glumfigs have an instant health effect, and they're not very strong, though Glumfigs are more potent. The last two ingredients can be Redds for more instant health or Beeswax / Goblettos to restore additional health over time.
     -   Not very useful compared to Health Regeneration potions, which heal about up to 4x as much.
 
--   **Instant Damage** (Disgusting) - 3 Bluecap + 2 Browncap
+-   **Instant Damage** - 3 Bluecap + 2 Browncap
     -   Keep in mind, instant damage potions deal 75% less damage if you don't directly land them.
 
--   **Instant Ether** (Soothing) - 3 Bluecaps + 2 Dentifilos
+-   **Instant Ether** - 3 Bluecaps + 2 Dentifilos
     -   Almost a full Ether restore - deals damage on application.
 
--   **Instant Ether Drain** (Appalling) - 3 Bamboo Bundle + 2 Marram Grass
+-   **Instant Ether Drain** - 3 Bamboo Bundle + 2 Marram Grass
     -   Instantly drains a very large amount of Ether.
 
--   **Damage Buff Potion** (Strengthening) - 3 Plumfruit + 2 Browncaps
+-   **Damage Buff Potion** - 3 Plumfruit + 2 Browncaps
     -   Buffs your damage.
 
--   **Damage Debuff Potion** (Dulling) - 3 Glumfig + 2 Crustacean Meat
+-   **Damage Debuff Potion** - 3 Glumfig + 2 Crustacean Meat
     -   Alternatively, you can use Spider Eggs instead of Crustacean Meat for a longer duration potion, although this will come at the cost of effectiveness and won't be that much longer than the initial potion.
 
--   **Greater Posture Damage Potion** (Staggering) - 3 Ongos + 2 Spider Eggs
+-   **Greater Posture Damage Potion** - 3 Ongos + 2 Spider Eggs
     -   This also lowers your posture defense.
     -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Alestrian Coral + 2 Redds + Antithetic salts. While less potent than the former, this avoids lowering your posture defense. Alternatively, you can use the original potion with Biotic Salts to mitigate the downside.
 
--   **Weaker Posture Damage Potion** (Weakening) - 3 Alestrian Coral + 2 Spider Eggs
+-   **Weaker Posture Damage Potion** - 3 Alestrian Coral + 2 Spider Eggs
     -   Decreases your posture damage.
 
--   **Posture Defense** (Steadfast) - 3 Marram Grass/Bamboo + 2 Spider Eggs
+-   **Posture Defense** - 3 Marram Grass/Bamboo + 2 Spider Eggs
     -   Alternatively for [Saltchemists](Oath%253A_Saltchemist.md), 3 Glumfigs + 2 Redds + Antithetic Salts. Also deals damage on hit.
     -   Grants resistance to incoming posture damage, effectively increasing your maximum posture.
 
--   **Weakened Posture** (Buckling) - 3 Glumfigs + 2 Spider Eggs
+-   **Weakened Posture** - 3 Glumfigs + 2 Spider Eggs
     -   Grants a buff to incoming posture damage, effectively decreasing your maximum posture.
--   **Speed Potion** (Hastening) - 3 Alestrian Coral + 2 Pomar
+
+-   **Speed Potion** - 3 Alestrian Coral + 2 Pomar
     -   Increases your speed.
 
--   **Slowing Potion** (Slowing) - 3 Sap + 2 Spider Eggs
+-   **Slowing Potion** - 3 Sap + 2 Spider Eggs
     -   You can swap out the Spider Eggs for any other slowing ingredient to have a more potent slowing effect, but with much lower duration.
     -   This will grant your opponent Ether regeneration unless you use [Biotic Salts](Oath%253A_Saltchemist.md#biotic-salts).
     -   Keep in mind that players innately have resistances to slows unless casting a Mantra, so this may not be that effective.
 
--   **Health Regeneration** (Invigorating) - 3 Beeswax or Goblettos + 2 Spider Egg
+-   **Health Regeneration** - 3 Beeswax or Goblettos + 2 Spider Egg
     -   Heals the most of any potion over 30 seconds - can be enough to fully heal a character with low max HP.
     -   If you have the Potion Quaffer Talent, A better recipe for this would be 3 Goblettos and 2 Beeswax.
 
--   **Poison** (Grueling) - 3 Plumfruit + 2 Spider Egg
+-   **Damage over Time** - 3 Plumfruit + 2 Spider Egg
     -   Less pathetic than instant damage, but still pretty bad.
     -   You can substitute the Spider Eggs for Bluecaps to gain additional instant damage.
 
--   **Ether Restoration** (Focusing) - 3 Wheat + 2 Spider Eggs
+-   **Ether Restoration** - 3 Wheat + 2 Spider Eggs
     -   The Focusing effect on wheat is exceptionally strong, and only one or two is needed to allow you to continuously spam mantras on cooldown. However, wheat also has a powerful Dulling effect, which reduces mantra damage. Plumfruit (or Browncaps) are added to reduce this effect.
 
--   **Ether Drain** (Icky) - 3 Calabash + 2 Spider Eggs
+-   **Ether Drain** - 3 Calabash + 2 Spider Eggs
     -   Rapidly drains ether for a decent amount of time. Can very quickly drain the target's entire ether bar while preventing them from gaining it back.
     -   Swapping out 1 Calabash for an additional Spider Egg applies a less potent ether drain effect, but over a much longer duration of time. This is often preferred over the former potion, especially for [Shadowcast](Shadowcast.md) users.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Wheat/Sap + 2 Redds + Antithetic Salts, applying a much more potent effect with a lessened duration. Biotic Salts are also highly recommended for Ether Drain potions, as the downside will be nullified entirely for yourself and your allies.
 
--   **Sanity** (Heartening) - 3 Bluecaps + 2 Spider Eggs
+-   **Sanity Regeneration** - 3 Bluecaps + 2 Spider Eggs
     -   Also deals a small amount of damage and instantly restores Ether.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), an easier way to make this potion is 3 Urchins + 2 Seaweed/Scallops with an Antithetic salt.
 
--   **Insanity** (Mind-breaker) - 3 of any Sanity loss ingredient + 2 Spider Egg
+-   **Sanity Drain** - 3 of any Sanity loss ingredient + 2 Spider Egg
     -   With the Apothecary Talent, only one potion is needed to make most players reach the first tier of insanity. Especially effective in [The Depths](The_Depths.md), where players don't regenerate sanity and are often slightly insane already.
     -   Alternatively, you could add 2 more of any different Sanity loss ingredient, but duration might prove more effective.
     -   Alternatively, for [Saltchemists](Oath%253A_Saltchemist.md), 3 Bluecaps + 2 Redds + Antithetic Salts, applying a much more potent sanity loss over time effect. This will also deal a small amount of damage on contact.
 
--   **Blood Restoration** (Revitalizing) - 3 Hemobloom
+-   **Blood Restoration** - 3 Hemobloom
     -   The secondary ingredient can be anything you want, as no other ingredient will improve upon the blood restoration effects.
 
--   **Blood Drain** (Debilitating) \[Saltchemist Exclusive\] - 3 Hemobloom + 2 Glumfig + Antithetic Salts
+-   **Blood Drain** \[Saltchemist Exclusive\] - 3 Hemobloom + 2 Glumfig + Antithetic Salts
     -   Due to this potion effect in general being [Saltchemist](Oath%253A_Saltchemist.md) Exclusive, the ingredients used reflect this.
     -   Biotic and Aromatic Salts are highly recommended for this potion, as they can drain a very significant amount of your opponent's blood without causing any issues for yourself.
     -   Damage ingredients (Glumfigs) were used here due to blood loss also being tied to damage dealt. These of course, can be changed if you wish to have a different additional effect.

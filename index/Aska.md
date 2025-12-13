@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 178105
+revid: 180644
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame]
@@ -172,7 +172,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
     -   A workaround is to make sure to have a mantra with a wayward gem on it.
--   DO NOT attempt to run away. Leaving the boss chamber to heal will cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely though [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
+-   DO NOT attempt to run away. Leaving the boss chamber to heal will cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
 
 ## Trivia
 
@@ -185,9 +185,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 -   Aska can only be fought _**ONCE**_ per character. Entering his room after having defeated him before will not respawn him.
 -   He has anti-blockbreak Talent similarly to the [Duke Erisia](Duke_Ishamon_Erisia.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   He mistakes you for [Amorus Pleeksty](Amorus_Pleeksty.md), whom he sees as his lord, meaning he is most likely either a disciple or a member of the [Covenant of Flame](The_Covenant_of_Flame.md).
--   Aska's Outfit:
-    -   [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR)
-    -   [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
+-   Aska's Outfit: [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR) / [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
     -   Hair ID: 6101425666 _(same as [Maestro Evengarde Rest's](Evengarde_Rest.md))_
     -   Aska's Outfit is dyed orange in-game
 -   Aska has Talents such as Impervious Slumber, Phoenix Flames, etc.
