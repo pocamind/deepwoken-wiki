@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 180478
+revid: 180668
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -37,7 +37,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   At 30 Galebreathe, players will receive the _Expert Galebreather_ Talent. This allows players to obtain 2-star Galebreathe Mantras.
 -   Finally, at 50 Galebreathe, players will receive the _Master Galebreather_ Talent. This allows players to obtain 3-star Galebreathe Mantras.
 
-Galebreathe Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers.md) [Friid](Friid,_Master_of_Gale.md).
+Galebreathe Mantras are upgraded at the [Attunement Trainers](Attunement_Trainers.md) and [Friid](Friid,_Master_of_Gale.md).
 
 -   To upgrade a Galebreathe Mantra from level 1 to level 2 costs 100 and requires 20 Galebreathe investment.
 -   To upgrade a Galebreathe Mantra from level 2 to level 3 costs 200 and requires 40 Galebreathe investment.

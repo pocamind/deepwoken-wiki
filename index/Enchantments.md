@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 180657
+revid: 180671
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -136,8 +136,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <a href="Chilling.md"><font>Chilling</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.<br>
-  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a> for 2 seconds (base Frostdraw) OR one crystal (Crystallization Path). 14 second cooldown.</p>
+  <p>M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#everchanging-aegis">Everchanging Aegis</a>.<br>
+  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a> for 2 seconds (base Frostdraw) OR one crystal (Crystallization Path). This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 14 second cooldown.</p>
   <p><b>Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b></p>Chilling stacks can also be applied from critical attacks if they have the M1 tag.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Chill for foes. Applies Bottom Freeze once enough stacks have been applied.</i></p>
@@ -253,7 +253,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>On hit, steal hunger and thirst from the target based on damage dealt.<br>
-  The formula is as follows: 0.15 * weapon scaled damage + 2.</p>Gluttony's sustenance steal is NOT AFFECTED by <a href="Gluttony.md">Gluttony</a> Flaw or damage modifiers, but it IS affected by damage resistances.<p></p>
+  The formula is as follows: 0.15 * weapon scaled damage + 2.</p>Gluttony's sustenance steal is NOT AFFECTED by <a href="Boons_and_Flaws.md#glutton">Glutton</a> Flaw or damage modifiers, but it IS affected by damage resistances.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Steals Water and Stomach from those you hit.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -310,7 +310,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <a href="Harrowing.md"><font>Harrowing</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a> on M1, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, which hides how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages.</p>
+  <p>Inflicts <a href="Status_Effects.md#harrowing">Harrowing</a> on M1, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, hiding how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages.</p>
   <p>This effect lasts for 12 seconds and is refreshed upon landing another hit.</p>Harrowing also procs on criticals with the M1 tag.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Obscures your opponent's health, posture, and armor bars.</i></p>

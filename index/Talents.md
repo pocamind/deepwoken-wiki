@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180653
+revid: 180669
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -215,7 +215,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Was merged with the "The Old Wind" Talent.
 
 -   Aeronade \[Common Talent, Galebreathe Exclusive\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 )
-    -   [Galetrap](Galebreathe.md#galetrap) normally waits for contact with a target to begin its tornado, [Galetrap](Galebreathe.md#galetrap) now detonates on once the trap stops moving.
+    -   [Galetrap](Galebreathe.md#galetrap) normally waits for contact with a target to begin its tornado, [Galetrap](Galebreathe.md#galetrap) now detonates once the trap stops moving.
     -   Prerequisite: [Galetrap](Galebreathe.md#galetrap) (Mantra)
 
 -   Gale Trap \[Common Talent, Galebreathe Exclusive\] - Knocking a player tags them with a wind trap, cause anyone to pick up that body to get sent flying. However, if you pick up the body you gain the speed boost for 20 seconds.

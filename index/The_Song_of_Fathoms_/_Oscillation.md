@@ -1,6 +1,6 @@
 ---
 title: The Song of Fathoms / Oscillation
-revid: 178617
+revid: 180682
 source: https://deepwoken.fandom.com/wiki/The_Song_of_Fathoms_/_Oscillation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -93,6 +93,7 @@ The Song of Fathoms / Oscillation
 
 ## Appearances
 
+-   [Vincent Zeneke](../Vincent_Zeneke.md)
 -   [Aurelia Imari](../Aurelia_Imari.md)
 -   Chambermaster Jura
 -   [Deukalion Akarad](../Deukalion_Akarad.md)
