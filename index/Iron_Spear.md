@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 179536
+revid: 180888
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
@@ -10,14 +10,17 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 
 | Iron Spear | |
 |---|---|
-| type | Medium Spear |
-| requirements | 0 MED |
+| type | Spear |
+| requirements | N/A |
 | damage | 17 |
 | scaling | MED: 2.5 |
 | range | 9 |
 | swing speed | 0.9x |
 | m.equip | Yes |
 | m.extract | Yes |
+| m.crit | Iron Spear |
+| m.compatible | Spears |
+| stances | 2 Handed, 1 Handed |
 | rarity | Common |
 | selling price | 7 |
 | weight | 5 |
@@ -26,7 +29,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Chime of Conflict |
-| description | A spear perfect for poking at a safe distance |
+| description | A spear perfect for poking at a safe distance. |
 
 ## Description
 

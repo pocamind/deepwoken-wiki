@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 179497
+revid: 180895
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Spears, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -13,7 +13,7 @@ categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapo
 | type | Spear |
 | requirements | 80 MED, 80 STR, 80 FTD |
 | damage | 20 |
-| scaling | MED: 2, FTD: 4, STR: 3 |
+| scaling | MED: 2, STR: 3, FTD: 4 |
 | range | 11 |
 | swing speed | 0.93 |
 | penetration | 20% |

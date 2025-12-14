@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 179498
+revid: 180870
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -28,6 +28,7 @@ categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit 
 | enchantable | No |
 | pass down | Yes |
 | obtainment | First Layer, Second Layer, Scion of Ethiron, Saramaed Hollow, The Diluvian Mechanism, Weird Trader |
+| description | ... |
 
 ## Description
 

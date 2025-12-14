@@ -1,6 +1,6 @@
 ---
 title: Specialist Plate
-revid: 178550
+revid: 180999
 source: https://deepwoken.fandom.com/wiki/Specialist_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -15,7 +15,7 @@ categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
 | selling price | N/A |
 | requirements | PWR 20, 30 WND, 30 LTN |
 | weight | 2 |
-| innate stats | +5 Health, +2 Rare Pips |
+| innate stats | +5 Health, +1 Rare Pip |
 | innate talent | Stormcall |
 | set | Specialist Helmet, Specialist Plate, Specialist Boots |
 | set talent | Shock Trooper Specialist |

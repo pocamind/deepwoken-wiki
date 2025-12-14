@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180719
+revid: 180983
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4098,11 +4098,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
     -   Adds a new sound effect to Prominence Draw.
 
--   Bloodthirsty: [Bloodbane](Bloodbane.md) - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
+-   Blood Drinker: [Bloodbane](Bloodbane.md) - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds.
     -   Restores 4% of the user's maximum health upon landing M1 attacks.
         -   This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   This bleed damage is not like normal bleed damage, as it deals 6 damage per tick regardless of the initial hit's damage, and it ticks 5 times over 5 seconds instead of 3 ticks immediately. Additionally, this bleed has no cooldown and procs on [Motif](Motifs.md)\-applied criticals.
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
+    -   This Talent was formerly called "Bloodthirsty".
 
 -   Bulwark Breaker: [Steel Maul](Steel_Maul.md) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
     -   The final hit of your Pressure Blast gains 8 posture damage, going from 12 to 20 posture damage.

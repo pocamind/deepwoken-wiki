@@ -1,9 +1,9 @@
 ---
 title: Mercille
-revid: 168024
+revid: 180917
 source: https://deepwoken.fandom.com/wiki/Mercille
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, Quests, The Summer Company, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
 ---
 
 # Mercille

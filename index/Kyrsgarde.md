@@ -1,9 +1,9 @@
 ---
 title: Kyrsgarde
-revid: 177636
+revid: 180980
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Sentient species]
+categories: [Sapient species]
 ---
 
 # Kyrsgarde

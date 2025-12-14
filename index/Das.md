@@ -1,9 +1,9 @@
 ---
 title: Das
-revid: 176980
+revid: 180975
 source: https://deepwoken.fandom.com/wiki/Das
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Das
@@ -19,7 +19,7 @@ categories: [NPCs, Etrea, NPCs located in the Etrean Luminant]
 
 Das is a [Vesperian](Vesperian.md) NPC who wears a [Vigil Initiate](Vigil_Initiate.md) outfit.
 
-Interacting with him sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) and initiates [Training Mode](Training_Mode.md). He is the Etrean counterpart of the [Instructor](Regarde.md) at [Greathive Aratel](Greathive_Aratel.md).
+Interacting with him sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) and initiates [Training Mode](Training_Mode.md). He is the Etrean Luminant counterpart of [Regarde](Regarde.md), the instructor at [Greathive Aratel](Greathive_Aratel.md).
 
 ## Location
 

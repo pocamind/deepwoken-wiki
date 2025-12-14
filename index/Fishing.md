@@ -1,9 +1,9 @@
 ---
 title: Fishing
-revid: 178321
+revid: 180978
 source: https://deepwoken.fandom.com/wiki/Fishing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pages with broken file links, Fishing, Mechanics]
+categories: [In progress with reason, InProgressPages, Fishing, Mechanics]
 notices:
   - This page is being worked on. The Bait section is outdated/require more information.
 ---
@@ -14,7 +14,7 @@ notices:
 
 ## How to Fish
 
-To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for 30 at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for 35 from a fishing pond room in a Guild Base.
+To fish, first craft or purchase a Fishing Rod. To craft a Fishing Rod, you must combine two Sticks and one Fiber at a [Crafting Station](Crafting_Station.md). You can purchase a Fishing Rod for 30 at the [Etris Docks](Etris_Docks.md) and the house at the base of the tall island between the [Isle of Vigils](Isle_of_Vigils.md) and [Etrea](Etrea.md), or for 35 from a fishing pond room in a [Guild Base](Guild_Bases.md).
 
 The next step to fishing is to cast your line into either the sea or a fishing pond. After a while, you will get a bite, and your character will begin leaning in a certain direction. You must hold the key that is displayed on your screen. This will reel in the fish. You are also given a time limit, failing to reel in the fish in the correct time will result in you losing the fish. You can tell when the fish is almost caught/escaped when the circle is almost completely closed. you will catch the fish when the fish icon reaches the border.
 
@@ -38,7 +38,7 @@ Many varieties of fish can be obtained from fishing, as well as some loot. **Fis
 -   [Seaweed](Seaweed_Bundle.md)
 -   1 [Mudskipper](Mudskipper.md) (Will spawn a Mudskipper)
 -   1 [Lionfish](Lionfish.md) (Will spawn a Lionfish)
--   Old Boots (Leather Boots)
+-   Old Boots ([Leather Boots](Leather_Boots.md))
 -   Chests (Uncommon, not "very rare" you can probably fish up 1-5 chests in a 10-20 to minute time period if you are very good. Not all loot can be obtained from fishing (There are some exceptions). Example of Chests that can be fished up: Aratel Chests, Bandit Chests, Mudskipper Chests, Etris Siege Chests, **Depths** Chests, And Primadon Chests.)
 -   Golden/Enchanted Fish
 
@@ -155,8 +155,6 @@ This spot is located in open sea area behind Minityrsa.
 
 There are currently three Talents related to fishing, each automatically obtained after reaching certain milestones.
 
-File:Fishing Talents.png
-
 | Name | Description | Requirements | Image |
 | --- | --- | --- | --- |
 | Fisher's Lure | Fish are drawn to your line more quickly. | 50 Bites |  |
@@ -172,9 +170,9 @@ A lot of raw food can be used as bait, obviously I didn't have them all while te
 
 Below is a list of bait that can be used. Don't see a valid bait? Feel free to test and add data!
 
-**DISCLAIMER: LACK OF DATA. EFFECTS WILL VARY.**
+**DISCLAIMER: This section lacks proper documentation and the effects of bait are not well known.**
 
--   No Bait: Baseline for fishing. Results from **100 NoBait**: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lionfish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult)
+-   No Bait: Baseline for fishing. Results from **100** catches with **No Bait**: 25 Sea bass, 5 Squid, 21 Red Snapper, 11 Tuna, 5 Lionfish, 4 Sword Fish, 2 Golden Sea bass, 1 Golden Red Snapper, 13 Chest and 13 Fails (which are mostly Lionfish, Chest or Sword Fish since those are the most difficult)
 -   Plumfruit: May take a longer time to fish up a fish. Regardless fish also seem to be harder to catch. Results from **~18 Plumfruits**: 6 sea bass, 1 puffer fish, 2 squid, 2 urchins, 1 red snapper (Though a lot of misses).
 -   Pomar: Slow bait, good for catching urchins.
 -   Gobletto: Getting bites was quite fast. Results from **7 Goblettos**: 2 Misses, 1 Squid, 1 Red Snapper, 1 Sea Bass, 2 Urchins
@@ -185,7 +183,7 @@ Below is a list of bait that can be used. Don't see a valid bait? Feel free to t
 -   Browncap: Average bite times. Results from **10 Browncaps**: 2 Seaweed Bundles, 3 Red Snappers, 2 Sea Bass, 1 Squid, 1 Miss, 1 Urchin
 -   Chum: Intended bait. Results from 100 Chum gave: 20 Sea bass, 10 Squid, 17 Red Snapper, 11 Tuna, 11 Lionfish, 17 Chest and 14 Fails. (All fishing Talents used)
 -   Calabash: Not Properly Documented.
--   Fish Meat:Slow bait speed. Can be used for tunas.
+-   Fish Meat: Slow bait speed. Can be used for tunas.
 -   Redd: Slightly lower than average bites. Results from **?? Redd**: 2 miss, 2 sea bass, 1 squid, 1 red snapper.
 -   Pufferfish: Not Properly Documented. (Possibly better chance of catching Mudskippers?)
 -   Sap: Not Properly Documented.
@@ -233,13 +231,13 @@ Lucky Spot
 
 -   The general format and delivery of the lines that your character speaks is a possible reference to the _Animal Crossing_ series.
 -   Some spots won't let you fish.
--   There is no height limit, you can fish from the top of cliff faces.(altough you have a range limit on the line of the rod)
+-   There is no height limit, you can fish from the top of cliff faces.(although you have a range limit on the line of the rod)
 -   Some locations are better for fishing than others, for example the Vigils Docks.
--   Fish meat can be used as bait or as food, though I would recommend cooking it if you are intending to eat it. Cooked Fish Meat is a pretty solid food item, giving you 15 Stomach Fill and 5 Water Fill. Good for Carnivores that need food.
+-   Fish meat can be used as bait or as food. Cooked Fish Meat is a solid food item, giving you 15 Stomach Fill and 5 Water Fill. Making it a good choice for [Carnivores](Talents.md#apex-predator) that need food.
 -   It's always good to have a fishing rod on you. If you're ever in a pinch, you can fish for food and items that can be useful on your journey.
 -   With the patch 2.1.5 02/17/2025 you no longer have to press click in order to fish.
 -   The harder the difficulty of the "Catch" (Aka. The fishing minigame, which the difficulty of is measured in Reel Speed, Direction Change Speed, and Fishing Time Limit.) the higher rarity of the item you may receive upon completing the fishing minigame.
--   You can get **Enchants**, **Deep Gems**, and **Legendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
+-   You can get **[Enchants](Enchantments.md)**, **[Deep Gems](Deep_Gems.md)**, and **Legendary/Mythic Equipment** from fishing chests, but it is **VERY** rare. Specific locations seem to have higher chances of getting these.
 -   Fishing will level your Strength, Fortitude, Intelligence, Willpower and Charisma by default.
 -   Fishing used to contain every single item inside of it's lootpool as long as it was in **any chest pool**, this lead to infamous incidents such as the **Verse 1 Enchant Shard incident**. After this happened, a quick patch was rolled out to allow blacklists to items and chest pools, such as the blacklisting of Enchant Stone chests.
     -   Ever since this patch was rolled out, fishing activity declined.

@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 180755
+revid: 180889
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons]
@@ -16,7 +16,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Childr
 | damage | 18 / 20 |
 | scaling | MED: 4 / MED: 6.5 |
 | range | 9 |
-| swing speed | 0.9x / 1.0x |
+| swing speed | 0.9x / 1x |
 | penetration | 10% |
 | special effect | This weapon features a pull-in critical, where the user launches their spear and reels in the hit target. |
 | m.equip | Yes |

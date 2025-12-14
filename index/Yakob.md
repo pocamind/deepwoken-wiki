@@ -1,9 +1,9 @@
 ---
 title: Yakob
-revid: 172593
+revid: 180939
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant]
+categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Yakob

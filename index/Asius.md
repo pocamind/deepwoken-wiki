@@ -1,9 +1,9 @@
 ---
 title: Asius
-revid: 161751
+revid: 180973
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, NPCs located in the Eastern Luminant]
+categories: [Adret NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Asius

@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 174340
+revid: 180986
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Echoes, Character, Mechanics, Creation]
@@ -18,7 +18,7 @@ categories: [Echoes, Character, Mechanics, Creation]
 
 **Echoes** can be spent on **Upgrades** and **Unlocks;** permanent buffs that transfer with each Character Wipe. While in the character creation menu, the **Echo Shop** tab can be used to spend **Echoes** on **Upgrades** and **Unlocks**. In addition, **Modifiers** can be enabled in the **Echo Modifier** menu.
 
--   **Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 13 Modifiers available, providing a total cumulative 3.2x modifier to **Echo** gain.
+-   **Modifiers** are increases to difficulty that increase the amount of **Echoes** gained from wiping. Multiple **Modifiers** can be enabled at once. There are currently 13 Modifiers available, providing a total cumulative 3.1x modifier to **Echo** gain.
 -   **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 -   **Echo Unlocks** are account-wide, so purchasing an unlock on one slot will often affect the rest. Unlocks that pertain to new slots (like Starter Weapons or Tools) will not impact pre-existing slots however.
 
@@ -34,7 +34,7 @@ Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in
 
 -   A Rank gives 1 character slot for free.
 -   S Rank is achievable by doing all Echoes tasks (listed below).
--   A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Vow of Thorns and Glass Bones.
+-   A unique W Rank is achievable by obtaining S Rank while having enabled every Echoes Modifier, excluding Glass Bones.
 
 **What rank your character will receive depends on amount of Echoes you collect, without taking multipliers from Echo Modifiers into consideration.**
 
@@ -43,7 +43,7 @@ Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in
 | --- | --- | --- |
 | 
 
- | W | 140 (441 w/ all Echoes Modifiers except Vow of Thorns and Glass Bones) |
+ | W | 140 (441 w/ all Echoes Modifiers except Glass Bones) |
 | 
 
  | S | 140 (Must do all Echoes tasks) |
@@ -408,11 +408,6 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
   <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><b>Ironwoken</b></td>
-  <td>You cannot receive notes or items from other players.</td>
-  <td><b>+10%</b></td>
-</tr>
-<tr>
   <td><b>One Bit</b></td>
   <td>You don't know how to swim.</td>
   <td><b>+20%</b></td>
@@ -421,11 +416,6 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
   <td><b>Destined</b></td>
   <td>You don't get to choose what you get when your Power increase, Fate picks for you.</td>
   <td><b>+20%</b></td>
-</tr>
-<tr>
-  <td><b>Vow of Thorns</b></td>
-  <td>Boost the rate of your progression. However, you are faced with harder <a href="Cathedral_of_the_Interstice.md">trials</a> and every death will send you to the <a href="First_Layer.md">depths</a>.</td>
-  <td><b>+5%</b></td>
 </tr>
 <tr>
   <td><b>Glass Bones</b></td>
@@ -476,14 +466,13 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 ## Notes
 
 -   Buying most Echo Upgrades and some of the Unlocks will apply their effects to previously created slots. Any of the Starter/Starting: Weapon, Tools, Equipment, Knowledge, and Notes will **not** be applied to pre-existing slots however.
--   Visually, combining all Echo Modifiers grants 3.2x Echoes, but, dividing 441/3.2 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of Echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true. Even with Vow of Thorns AND Dealbreaker, it will still do this for unknown reasons.
+-   Visually, combining all Echo Modifiers grants 3.1x Echoes, but, dividing 441/3.1 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of Echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true.
 -   The actual effects of "Resonance Rarity" boosts the chance to receive Corrupted and Legendary Resonances by 0.2x per upgrade, with your chance doubling at the max upgrade.
 -   There are a few sources of damage that bypass Glass Bones' effects, allowing you to take the damage without being knocked. These are:
     -   The [Boulder](Training_Gear.md#attribute-training-gears) training gear
     -   [Starvation](Status_Effects.md#parchedstarved)
 -   Loose Change does not make you lose Notes when you take damage from any source like the description implies, instead only attacks from humanoids reduce your Notes, though it can be inconsistent at times.
 -   Any Mantra hand not granted from leveling, and any Talent/Mantra hand granted from [Deep Shrines](Deep_Shrines.md) do not get autopicked with Destined so you can abuse this to look for cards with more comfort.
--   Ironwoken can actually be bypassed by dropping an item on a slot and then picking up that item on the Ironwoken slot. Both slots have to be on the same account.[\[1\]](#cite-note-1) This can also be done by storing items in your bank from another slot and grabbing it on the Ironwoken slot.
 -   Unlike all the other bosses in the game, defeating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), [Heart of Enmity](Heart_of_Enmity.md) and [Parliament](Parliament.md) do not reward Echoes.
     -   This technically makes them the only true "optional" bosses in the game, as they are not required for W Rank.
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
@@ -498,10 +487,5 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 ## Trivia
 
 -   On March 16th, 2025, [Chad09999 or Midq](https://www.youtube.com/watch?v=fcB0KECJA6A%7C) became the first player to achieve W rank with the _Glass Bones_ modifier.
--   The term "ironwoken" is reminiscent of the "ironman" mode in RuneScape, preventing trading among other restrictions.
-    -   Also notably, a Rogue Lineage challenge video called [Iron Lineage](https://www.youtube.com/watch?v=bPMsmKhs-i4) created by [ReEvolu](https://www.youtube.com/@ReEvolu) is credited with starting the solo-progression trend within Rogue Lineage (Deepwoken's predecessor). The developers have confirmed that this Echo and the "Maverick" boon are both references to ReEvolu's Iron Lineage series, as ReEvolu convinced them to add both as a tester.
+-   On December 13th, 2025, with the addition of the [Vow of Iron](Vow_of_Iron.md), the **Ironwoken** and **Vow of Thorns** Echo Modifiers were removed form the game.
 -   The [Leather Gloves](Leather_Gloves.md) and [Leather Boots](Leather_Boots.md) you get with the "Starter Equipment" unlock can sometimes be enchanted.
-
-## References
-
-1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=S9ASMo7t9Fc](https://www.youtube.com/watch?v=S9ASMo7t9Fc)

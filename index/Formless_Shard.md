@@ -1,6 +1,6 @@
 ---
 title: Formless Shard
-revid: 180819
+revid: 180865
 source: https://deepwoken.fandom.com/wiki/Formless_Shard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, Light Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Dagg
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Extracting a weapon's Motif using a Smith's Alloy |
-| description | Once a thing, Now just a shrapnel. |
+| description | Once a thing. Now just a shrapnel. |
 
 ## Description
 

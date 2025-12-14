@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 180710
+revid: 181000
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -734,7 +734,6 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 (**Series**)  
 (**Set**) | _+8 Health_
 
-+1 Rare Pip  
 _+Talent: Volt Draft_  
 _+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**
@@ -1667,7 +1666,7 @@ Face: [Smith's Goggles](<Smith's_Goggles.md>) |
 (**Set**)  
 (**Animated**) | _+5 Health_
 
-+2 Rare Pips  
++1 Rare Pip  
 _+Talent: Stormcall_  
 _+Set Talent: Shock Trooper Specialist_  
 **Requires Power 20, Galebreathe 30, Thundercall 30**

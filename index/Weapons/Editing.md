@@ -1,6 +1,6 @@
 ---
 title: Weapons/Editing
-revid: 179454
+revid: 180906
 source: https://deepwoken.fandom.com/wiki/Weapons/Editing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -49,7 +49,7 @@ Bloodrend: [AllBloodrendWeapons2](https://deepwoken.fandom.com/wiki/Template:All
 Offhands: [AllOffhandWeapons](https://deepwoken.fandom.com/wiki/Template:AllOffhandWeapons)  
 Shields: [AllShieldWeapons](https://deepwoken.fandom.com/wiki/Template:AllShieldWeapons)  
 Parrying Daggers: [AllParryingDaggersWeapons](https://deepwoken.fandom.com/wiki/Template:AllParryingDaggersWeapons)  
-Pistols: [AllPistolWeapons](https://deepwoken.fandom.com/wiki/Template:AllPistolWeapons)
+Pistols: [AllPistolOffhandWeapons](https://deepwoken.fandom.com/wiki/Template:AllPistolOffhandWeapons)
 
 ## Hybrid Weapons
 

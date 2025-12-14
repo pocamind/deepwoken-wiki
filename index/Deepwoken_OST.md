@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 177895
+revid: 180894
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -32,36 +32,29 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| 1 | [To Sleep, Dreaming (Contour 1)](https://soundcloud.com/naktigonis/to-sleep-dreaming) | 1:40 | Title Screen
-Celestial Telescope viewing Constellia Using [Moonseye Tome](Moonseye_Tome.md)
-
- | File:Mainmenu contour1.ogg |
-| 2 | [To Sleep, Dreaming (Contour 2)](https://soundcloud.com/naktigonis/to-sleep-dreaming-2) | 1:40 | Can play as title screen music while health bar is stained | File:To Sleep, Dreaming (Contour 2).mp3 |
-| 3 | [To Sleep, Dreaming (Contour 3)](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) | 1:41 | Can play as title screen music in the depths | File:To Sleep, Dreaming (Contour 3).mp3 |
-| 4 | [To Sleep, Dreaming (Contour 4)](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) | 1:45 | Plays when past a certain level and having escaped the Depths and skips to 0:24 when you obtain your [Resonance](Resonance.md) | File:To Sleep, Dreaming (Contour 4).mp3 |
-| 5 | [Nascence](https://soundcloud.com/naktigonis/nascence) | 2:59 | Character Creation | File:Nascence.mp3 |
+| 1 | [To Sleep, Dreaming (Contour 1)](https://soundcloud.com/naktigonis/to-sleep-dreaming) | 1:40 | [Celestial Telescope](Greathive_Aratel.md#observatory-2) viewing [Constellia](Constellia.md), Title Screen, and using a [Moonseye Tome](Moonseye_Tome.md) | File:Mainmenu contour1.ogg |
+| 2 | [To Sleep, Dreaming (Contour 2)](https://soundcloud.com/naktigonis/to-sleep-dreaming-2) | 1:40 | Title Screen loading into a Luminant or The Depths | File:To Sleep, Dreaming (Contour 2).mp3 |
+| 3 | [To Sleep, Dreaming (Contour 3)](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) | 1:41 | Title Screen loading into a Luminant or The Depths | File:To Sleep, Dreaming (Contour 3).mp3 |
+| 4 | [To Sleep, Dreaming (Contour 4)](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) | 1:45 | Title Screen when Power 20 | File:To Sleep, Dreaming (Contour 4).mp3 |
+| 5 | [Nascence](https://soundcloud.com/naktigonis/nascence) | 2:59 | [Character Creation](Character_Creation.md) | File:Nascence.mp3 |
 | 6 | [Solivagant](https://soundcloud.com/naktigonis/solivagant) | 2:20 | [Etrean Wilds](Etrean_Wilds.md) | File:Solivagant.mp3 |
-| 7 | [Peregrine](https://soundcloud.com/naktigonis/peregrine) | 2:09 | [Isle of Vigils](Isle_of_Vigils.md), [Miner's Landing](<Miner's_Landing.md>) | File:Isle of Vigils - Deepwoken OST.mp3 |
+| 7 | [Peregrine](https://soundcloud.com/naktigonis/peregrine) | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) and [Miner's Landing](<Miner's_Landing.md>) | File:Isle of Vigils - Deepwoken OST.mp3 |
 | 8 | [In Shade, Hollow](https://soundcloud.com/naktigonis/in-shade-hollow) | 2:08 | [The Garden Reservoir](The_Garden_Reservoir.md) | File:The Garden Reservoir - Deepwoken OST.mp3 |
 | 9 | [Dancing Steps Of War](https://soundcloud.com/naktigonis/dancing-steps-of-war) | 2:09 | [Temple of the Blade](Temple_of_the_Blade.md) | File:Temple Of Blades - Deepwoken OST.mp3 |
 | 10 | [To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine) | 2:26 | Default Combat Music | File:To Fight, Sanguine.mp3 |
-| 11 | [To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant) | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [Aratel](The_Aratel_Sea.md) & [Etrean Sea](The_Etrean_Sea.md) | File:Aratel Sea - Deepwoken OST.mp3 |
+| 11 | [To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant) | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [The Aratel Sea](The_Aratel_Sea.md), and [The Etrean Sea](The_Etrean_Sea.md) | File:Aratel Sea - Deepwoken OST.mp3 |
 | 12 | [The Trappings Of A Lord](https://soundcloud.com/naktigonis/the-trappings-of-a-lord) | 2:30 | [Erisia](Erisia.md) | File:Erisia - Deepwoken OST.mp3 |
-| 13 | [Of Labours, Veiled](https://soundcloud.com/naktigonis/of-labours-veiled) | 2:20 | [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Voidheart](Voidheart.md) & [The Entropy Catalyst](The_Entropy_Catalyst.md) | File:Lord Erisia's Manor - Deepwoken OST.mp3 |
-| 14 | [The Sun, Gleaming](https://soundcloud.com/naktigonis/the-sun-gleaming) | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md), [Fort merit](Fort_Merit.md) & [The Lordsgrove](The_Lordsgrove.md) | File:Songseeker Wilds - Deepwoken OST.mp3 |
+| 13 | [Of Labours, Veiled](https://soundcloud.com/naktigonis/of-labours-veiled) | 2:20 | [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [The Entropy Catalyst](The_Entropy_Catalyst.md), and [Voidheart](Voidheart.md) | File:Lord Erisia's Manor - Deepwoken OST.mp3 |
+| 14 | [The Sun, Gleaming](https://soundcloud.com/naktigonis/the-sun-gleaming) | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md) and [The Lordsgrove](The_Lordsgrove.md) | File:Songseeker Wilds - Deepwoken OST.mp3 |
 | 15 | [Thrill Of The Hunt](https://soundcloud.com/naktigonis/thrill-of-the-hunt) | 2:08 | [Songseeker Wilds](Songseeker_Wilds.md) (Combat) | File:Songseeker Wilds (Combat) - Deepwoken OST.mp3 |
 | 16 | [Of Smoke And Steel](https://soundcloud.com/naktigonis/of-smoke-and-steel) | 2:16 | [Summer Isle](Summer_Isle.md) | File:Summer Isle - Deepwoken OST.mp3 |
 | 17 | [One For All, All For Gun](https://soundcloud.com/naktigonis/one-for-all-all-for-gun) | 2:17 | [Summer Isle](Summer_Isle.md) (Combat) | File:Summer Isle (Combat) - Deepwoken OST.mp3 |
 | 18 | [A Waltz Of Snow And Knights](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights) | 3:12 | [Minityrsa](Minityrsa.md) | File:Minityrsa - Deepwoken OST.mp3 |
-| 19 | [Cry 'Havoc!'](https://soundcloud.com/naktigonis/cry-havoc) | 2:10 | [Erisia](Erisia.md) & [Minityrsa](Minityrsa.md) (Combat) | File:Erisia (Combat) - Deepwoken OST.mp3 |
+| 19 | [Cry 'Havoc!'](https://soundcloud.com/naktigonis/cry-havoc) | 2:10 | [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md) (Combat) | File:Erisia (Combat) - Deepwoken OST.mp3 |
 | 20 | [In Starstruck Sands](https://soundcloud.com/naktigonis/in-starstruck-sands) | 2:38 | [Starswept Valley](The_Starswept_Valley.md) | File:Starswept Valley - Deepwoken OST.mp3 |
 | 21 | [Pyres of Glass](https://soundcloud.com/naktigonis/pyres-of-glass) | 2:32 | [Starswept Valley](The_Starswept_Valley.md) (Combat) | File:Starswept Valley (Combat) - Deepwoken OST.mp3 |
 | 22 | [Of Chitin, Kith And Kin](https://soundcloud.com/naktigonis/of-chitin-kith-and-kin) | 2:25 | [Greathive Aratel](Greathive_Aratel.md) | File:Greathive Aratel - Deepwoken OST.mp3 |
-| 23 | [A Symphony Of Strife](https://soundcloud.com/naktigonis/a-symphony-of-strife) | 2:21 | [Greathive Aratel](Greathive_Aratel.md) (Combat)
-
-[Primadon's Hunting Grounds](<The_Monkey's_Paw.md>)
-
- | File:Greathive Aratel (Combat) - Deepwoken OST.mp3 |
+| 23 | [A Symphony Of Strife](https://soundcloud.com/naktigonis/a-symphony-of-strife) | 2:21 | [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<The_Monkey's_Paw.md>) | File:Greathive Aratel (Combat) - Deepwoken OST.mp3 |
 | 24 | [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray) | 2:30 | [Voidsea](Voidsea.md) | File:Voidsea - Deepwoken OST.mp3 |
 | 25 | [A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder) | 2:08 | [The Ferryman](The_Ferryman.md) (Phase 1) | File:A Sarabande Of Thunder.mp3 |
 | 26 | [Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can) | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) | File:Dance, If You Can!.mp3 |
@@ -71,10 +64,10 @@ Celestial Telescope viewing Constellia Using [Moonseye Tome](Moonseye_Tome.md)
 | 30 | [Lacrimosa Dies Illa](https://soundcloud.com/naktigonis/lacrimosa-dies-illa) | 2:08 | [The Depths](The_Depths.md) (Combat) | File:DepthsCombatLoop.ogg |
 | 31 | [Ascension (Interlude)](https://soundcloud.com/naktigonis/ascension-interlude) | 0:16 | [The Depths](The_Depths.md) (Trial Completion) | File:Audio-ascension22.ogg |
 | 32 | [The End.](https://soundcloud.com/naktigonis/the-end) | 3:12 | [Fragments of Self](Fragments_of_Self.md) | File:The End..mp3 |
-| 33 | [On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants) | 5:24 | N/A (Celebrating Deepwoken's launch) | File:On The Shoulders Of Giants.mp3 |
+| 33 | [On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants) | 5:24 | N/A (Celebrating Deepwoken's public release) | File:On The Shoulders Of Giants.mp3 |
 | 34 | [A Memory of Tides](https://soundcloud.com/naktigonis/a-memory-of-tides) | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) | File:A Memory Of Tides.mp3 |
-| 35 | [Masters of the House](https://soundcloud.com/naktigonis/masters-of-the-house) | 2:06 | N/A (Cut track originally intended for use in [Corvus Manor](Corvus_Manor.md)) | File:Masters of the House.mp3 |
-| 36 | [The Gideshu March](https://soundcloud.com/naktigonis/the-gideshu-march) | 1:57 | N/A (a short edit of the track can be heard at the end of the [Tutorial](Tutorial.md) in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>).) | File:The Gideshu March.mp3 |
+| 35 | [Masters of the House](https://soundcloud.com/naktigonis/masters-of-the-house) | 2:06 | N/A (Cut track intended to be used in [Corvus Manor](Corvus_Manor.md)) | File:Masters of the House.mp3 |
+| 36 | [The Gideshu March](https://soundcloud.com/naktigonis/the-gideshu-march) | 1:57 | N/A (A short segment of the song can be heard at the of the the [Tutorial](Tutorial.md) in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>).) | File:The Gideshu March.mp3 |
 
 ### Deepwoken: Original Soundtrack (Vol. II)
 
@@ -84,47 +77,39 @@ Celestial Telescope viewing Constellia Using [Moonseye Tome](Moonseye_Tome.md)
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) | File:Catwhisker.mp3 |
 | 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Duke Erisia](Duke_Ishamon_Erisia.md) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
 | 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris: Siege](Cinders_of_Etris.md) | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
-| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [Ethironal Shrine Sanctuary](Second_Layer.md) | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
-| 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | [Tutorial](Tutorial.md) | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
+| 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
+| 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) (Tutorial) | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
 | 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) | File:Naktigonis - A Light In The Sky (Deepwoken OST).mp3 |
-| 8 | [INSOMNIA](https://soundcloud.com/naktigonis/insomnia) | 3:31 | [Layer 2 Combat](Second_Layer.md) | File:INSOMNIA.mp3 |
-| 9 | [The Storm That Speaks](https://soundcloud.com/naktigonis/the-storm-that-speaks) | 3:02 | [Layer 2](Second_Layer.md) | File:The Storm That Speaks.mp3 |
+| 8 | [INSOMNIA](https://soundcloud.com/naktigonis/insomnia) | 3:31 | [Second Layer](Second_Layer.md) (Combat) | File:INSOMNIA.mp3 |
+| 9 | [The Storm That Speaks](https://soundcloud.com/naktigonis/the-storm-that-speaks) | 3:02 | [Second Layer](Second_Layer.md) | File:The Storm That Speaks.mp3 |
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) | File:Whisperwind.mp3 |
-| 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
-| 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) Gamemode | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
-| 13 | [A Darkness Beneath](https://soundcloud.com/naktigonis/a-darkness-beneath) | 3:07 | [The Floating Keep](The_Floating_Keep.md) (Combat)
-[Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat)
-
- | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
+| 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
+| 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
+| 13 | [A Darkness Beneath](https://soundcloud.com/naktigonis/a-darkness-beneath) | 3:07 | [The Floating Keep](The_Floating_Keep.md) (Combat) and [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat) | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
 | 14 | [A Memory Of Tides (Band Version)](https://soundcloud.com/naktigonis/a-memory-of-tides-band-version) | 2:24 | [Instruments](Instruments.md) | File:A Memory Of Tides (Band Version).mp3 |
 | 15 | [The Song Of Fathoms (Band Version)](https://soundcloud.com/naktigonis/the-song-of-fathoms-band-version) | 2:50 | [Instruments](Instruments.md) | File:The Song Of Fathoms (Band Version).mp3 |
 | 16 | [The Gideshu March (Band Version)](https://soundcloud.com/naktigonis/naktigonis-the-gideshu-march-band-version) | 2:43 | [Instruments](Instruments.md) | File:The Gideshu March (Band Version).mp3 |
 | 17 | [Carol of Resonances](https://soundcloud.com/naktigonis/carol-of-resonances) | 2:43 | [Instruments](Instruments.md) | File:Carol of Resonances.mp3 |
-| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [The Blade Within](The_Blade_Within.md) | File:TheWindsinger'sDance.mp3 |
+| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and [The Blade Within](The_Blade_Within.md) | File:TheWindsinger'sDance.mp3 |
 | 19 | [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) | 4:32 | [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) | File:A God, Manufactured.mp3 |
 | 20 | [Call of the Deep](https://soundcloud.com/naktigonis/call-of-the-deep) | 0:30 | Theme for [Deepwoken's 2024 Roblox Trailer](https://www.youtube.com/watch?v=kkERJc-Qe4o) | File:Call Of The Deep (Deepwoken Trailer).mp3 |
 | 21 | [Blackdamp Ballad](https://soundcloud.com/naktigonis/blackdamp-ballad) | 5:32 | [Saramaed Hollow](Saramaed_Hollow.md) (Group) | File:Blackdamp Ballad.mp3 |
 | 22 | [Blackdamp Ballad (Lonesome Version)](https://soundcloud.com/naktigonis/blackdamp-ballad-lonesome-version) | 5:32 | [Saramaed Hollow](Saramaed_Hollow.md) (Solo) | File:Blackdamp Ballad.mp3 |
 | 23 | [A Light In The Sky (Band Version)](https://soundcloud.com/naktigonis/a-light-in-the-sky-band-version) | 3:05 | [Instruments](Instruments.md) | File:A Light In The Sky (Band Version).mp3 |
 | 24 | [Joyous Hallows To All!](https://soundcloud.com/naktigonis/joyous-hallows-to-all) | 3:07 | Theme for [Hallowtide](Hallowtide.md) 2024 [Title Screen](Loading_Screen.md) | File:A Light In The Sky (Band Version).mp3 |
-| 25 | [Bigtop Breakbeat](https://soundcloud.com/naktigonis/bigtop-breakbeat) | 3:21 | [Carnival of Hearts](Carnival_of_Hearts.md) Intermission | File:Bigtop Breakbeat.mp3 |
-| 26 | [A Carousel Of Hearts](https://soundcloud.com/naktigonis/a-carousel-of-hearts) | 2:59 | [Carnival of Hearts](Carnival_of_Hearts.md) Minigame | File:A Carousel Of Hearts.mp3 |
+| 25 | [Bigtop Breakbeat](https://soundcloud.com/naktigonis/bigtop-breakbeat) | 3:21 | [Carnival of Hearts](Carnival_of_Hearts.md) (Intermission) | File:Bigtop Breakbeat.mp3 |
+| 26 | [A Carousel Of Hearts](https://soundcloud.com/naktigonis/a-carousel-of-hearts) | 2:59 | [Carnival of Hearts](Carnival_of_Hearts.md) (Minigame) | File:A Carousel Of Hearts.mp3 |
 | 27 | [ELEISON](https://soundcloud.com/naktigonis/eleison) | 6:00 | [Scion of Ethiron](Scion_of_Ethiron.md) | File:ELEISON.mp3 |
-| 28 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa Escape Sequence](Second_Layer/New_Kyrsa.md) | File:11 59.mp3 |
+| 28 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) (Escape sequence) | File:11 59.mp3 |
 | 29 | [The Better Part Of Valour](https://soundcloud.com/naktigonis/the-better-part-of-valour) | 3:33 | [Merit Detainment Core](Merit_Detainment_Core.md) | File:The Better Part Of Valour.mp3 |
 | 30 | [Chainbreaker](https://soundcloud.com/naktigonis/chainbreaker) | 2:21 | [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) | File:Chainbreaker.mp3 |
-| 31 | [Wardens Of The Valiant Dead](https://soundcloud.com/naktigonis/wardens-of-the-valiant-dead) | 4:52 | [Fort Merit](Fort_Merit.md)
-
-[Port Merit](Port_Merit.md)
-
- | File:Wardens Of The Valiant Dead.mp3 |
-| TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser's Death](Chaser,_Scholar_of_the_Crimson_Contract.md) | TBA |
+| 31 | [Wardens Of The Valiant Dead](https://soundcloud.com/naktigonis/wardens-of-the-valiant-dead) | 4:52 | [Fort Merit](Fort_Merit.md), [Port Merit](Port_Merit.md) | File:Wardens Of The Valiant Dead.mp3 |
+| TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Death sequence) | TBA |
 | TBA | Bread And Roses[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
-| TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing Combat](<Miner's_Landing.md>) | TBA |
+| TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) (Combat) | TBA |
 | TBA | The Hammer's Call[\[2\]](#cite-note-naktimessage-2) | TBA | TBA | TBA |
-| TBA | _Katabasis_[\[2\]](#cite-note-naktimessage-2) | TBA | [New Kyrsa Combat](Second_Layer/New_Kyrsa.md) | TBA |
+| TBA | _Katabasis_[\[2\]](#cite-note-naktimessage-2) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) (Combat) | TBA |
 | TBA | The Prince Peripatetic[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
-
 [The Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md)
 
  | TBA |
@@ -162,7 +147,7 @@ Boss Theme
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
 | N/A | [Ash For The Altar](https://soundcloud.com/naktigonis/ash-for-the-altar) | 0:56 | Flamecharm Showcase Theme | File:Ash For The Altar (Flamecharm Showcase Theme).mp3 |
-| N/A | [To Sleep, Layer 2 Bell](https://www.youtube.com/watch?v=OccD-F1UNvE) | 1:45 | Main Menu Theme for 2023 April Fools | File:To Sleep, Layer 2 Bell.mp3 |
+| N/A | [To Sleep, Layer 2 Bell](https://www.youtube.com/watch?v=OccD-F1UNvE) | 1:45 | Theme for [April Fools 2023](Destroyman_III.md) [Title Screen](Loading_Screen.md) | File:To Sleep, Layer 2 Bell.mp3 |
 
 ## References
 

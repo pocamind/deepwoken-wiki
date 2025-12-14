@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 180531
+revid: 180920
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -597,7 +597,7 @@ Dialogue: [Alpha](Alpha.md), [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Cel
 -   At the edges of the [Luminants](#the-luminants), Lighthouses serve as the only reliable means of travelling between [Luminants](#the-luminants).
 -   Lighthouses require the talents of a [Lightkeeper](#lightkeep) to operate. In essence, Lighthouses are a lens through which a [Lightkeeper](#lightkeep) can focus their Light. By illuminating the void between [Luminants](#the-luminants), a thin stretch of navigable ocean is brought back into existence and can be traversed by ships.
 
-Dialogue: [Samael](Samael.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#the-voidsea)
+Dialogue: [Nimea](Nimea.md), [Samael](Samael.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#the-voidsea)
 
 ### The Lullaby Isles
 

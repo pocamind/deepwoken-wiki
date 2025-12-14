@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 179529
+revid: 180868
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | Sword | |
 |---|---|
 | type | Sword |
-| requirements | 0 MED |
+| requirements | None |
 | damage | 18 |
 | scaling | MED: 2.5 |
 | range | 8 |

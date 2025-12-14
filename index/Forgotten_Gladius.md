@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 180027
+revid: 180873
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -23,6 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | m.crit | Sword |
 | m.compatible | Swords, Clubs, Twinblades, Spears, Staves, Bows |
 | stances | 2 Handed, 1 Handed |
+| rarity | Rare |
 | selling price | 25 |
 | weight | 5 |
 | bankable | Yes |

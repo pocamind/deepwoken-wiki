@@ -1,9 +1,9 @@
 ---
 title: Fox
-revid: 174238
+revid: 181005
 source: https://deepwoken.fandom.com/wiki/Fox
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-sentient species"]
+categories: ["Non-sapient species"]
 ---
 
 # Fox

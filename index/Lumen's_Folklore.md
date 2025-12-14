@@ -1,9 +1,9 @@
 ---
 title: "Lumen's Folklore"
-revid: 180694
+revid: 181009
 source: https://deepwoken.fandom.com/wiki/Lumen's_Folklore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Books, Book Collections]
+categories: [Book Collections]
 ---
 
 # Lumen's Folklore

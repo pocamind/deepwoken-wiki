@@ -1,9 +1,9 @@
 ---
 title: Rabbit
-revid: 174124
+revid: 181002
 source: https://deepwoken.fandom.com/wiki/Rabbit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-sentient species"]
+categories: ["Non-sapient species"]
 ---
 
 # Rabbit

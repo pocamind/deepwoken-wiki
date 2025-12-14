@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 180609
+revid: 180982
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Talents]
@@ -17,7 +17,7 @@ categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Ta
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| special effect | Bloodthirsty - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds. |
+| special effect | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -41,11 +41,11 @@ The **Bloodbane** is a Heavy Greatsword, an enhanced variant of the [Zweihander]
 
 Dying with this weapon equipped or in your inventory causes it to **deteriorate into its regular, non-Named, variant**. Dying in the [Chime of Conflict](Chime_of_Conflict.md) however, will not deteriorate the Bloodbane, though its unique Talent is disabled there. Bloodbane **cannot** be enchanted.
 
-## Talent: Bloodthirsty
+## Talent: Blood Drinker
 
 Equipping the Bloodbane grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Bloodthirsty** provides benefits to your weapon's basic attacks.
+**Blood Drinker** provides benefits to your weapon's basic attacks.
 
 On M1, restore 4% of your maximum health per target hit. This also procs on [Silentheart](Oath%253A_Silentheart.md) abilities.
 

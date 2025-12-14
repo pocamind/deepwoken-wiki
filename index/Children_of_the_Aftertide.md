@@ -1,9 +1,9 @@
 ---
 title: Children of the Aftertide
-revid: 180696
+revid: 181008
 source: https://deepwoken.fandom.com/wiki/Children_of_the_Aftertide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Books, Book Collections]
+categories: [Book Collections]
 ---
 
 # Children of the Aftertide

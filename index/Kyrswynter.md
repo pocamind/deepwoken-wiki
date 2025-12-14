@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 180585
+revid: 180892
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -28,7 +28,7 @@ categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Wea
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Layer 2 floor 2, after defeating the scion of Ethiron. |
+| obtainment | Frosviernr Joraelnaero after defeating the Scion of Ethiron |
 | description | Forged in an age lost to history and salvaged from the Eternal Gale, this relic hails from a forgotten era. As the last whispered remnant of its kind, it comes from a time before the people of New Kyrsa fell under the command of the Drowned God Ethiron. The spear is extremely cold to the touch, with an unsettling chill that clings to your skin, leaving a lingering numbness. It embodies the delicate and refined artistry of the Kyrsgarde, showcasing their elegance and sophistication prior to their corruption. Though the Kyrsgarde still wield spears of frost, the craftsmanship of their modern weaponry pales in comparison, having become crude and uninspired under Ethiron's thrall. |
 
 ## Description

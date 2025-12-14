@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 180623
+revid: 180981
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Guilds, Mechanics]
@@ -18,7 +18,7 @@ notices:
 
 Guilds are associations created by players, allowing people to represent themselves as a group as well as take advantage of mantra-based buffs. They are an influential part in _Deepwoken_ and a lot of [Talents](Talents.md) and [Mantras](Mantras.md) can be enhanced or require a guild member in order to operate.
 
-Once the player is [Power](Power.md) 5, a guild can be founded by talking to the [Guild Clerk](Guild_Clerk.md) in the Guild House at either [Etris](Etris.md), at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
+Once the player is [Power](Power.md) 5, a guild can be founded by talking to the Guild Clerk in the Guild House at either [Etris](Etris.md), at [Summer Isle](Summer_Isle.md) in the Inn, or at [Fort Merit](Fort_Merit.md).
 
 ## Creation and Customization
 
@@ -40,7 +40,7 @@ After submitting an emblem, the guild will be successfully created and the leade
 -   The playerlist
 -   [Ship](Ships_&_Sailing.md) sails and flag
 -   Captured [Guild Banners](Guild_Banners.md)
--   Chime of Dwelling
+-   Guild bases
 
 ### Editing
 

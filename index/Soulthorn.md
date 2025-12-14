@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 179515
+revid: 180876
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -16,7 +16,6 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | scaling | MED: 7, INT: 3.5 |
 | range | 8 |
 | swing speed | 1.02x |
-| penetration | 0% |
 | chip damage | 30% |
 | special effect | Every M1 applies a soul stack to the target, capping at 3 stacks. |
 | m.equip | No |
@@ -35,8 +34,6 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 ## Description
 
 The Soulthorn is a Legendary Weapon that can be obtained from the chest dropped by the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance. It can also be obtained rarely from any sea event in the [Voidsea](Voidsea.md) and directly dropped from the [Semblance](Semblance.md) mob.
-
-The maximum damage able to be achieved is 40.2 if the user has 103 Intelligence, 100 Medium, and 6 Proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.
 
 ## Critical
 
@@ -62,3 +59,4 @@ All criticals have a cooldown of **5 seconds**.
 -   The Soulthorn is unable to be dropped.
 -   Soulthorn had all of its Penetration (30%) removed in the October 11th, 2024 update. This is widely considered by the community to be one of the harshest nerfs to a weapon in Deepwoken's history.
 -   Speaking to [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) with a Soulthorn equipped will unlock a hidden [Glossary](Glossary.md#zhatarn-the-moonlight-prince) entry on [Zhatarn](Zhatarn.md), the Moonlight Prince.
+-   The maximum damage able to be achieved is 40.2 if the user has 103 Intelligence, 100 Medium, and 6 Proficiency while equipping the Rosen's Ring and using the 3 star damage modifier.

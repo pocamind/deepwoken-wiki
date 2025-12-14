@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 179812
+revid: 180869
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -16,7 +16,6 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | scaling | MED: 6.5 |
 | range | 8 |
 | swing speed | 1.02x |
-| penetration | N/A |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |

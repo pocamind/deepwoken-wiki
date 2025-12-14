@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 179331
+revid: 180997
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -62,8 +62,7 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 
 -   The **[Deepbound](Deepbound.md)** [Origin](Origins.md) has an innate 50 Difficulty Score, so they must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of [Power](Power.md). Deepbounds are still affected by other modifiers, and normal difficulty calculations returns after they have achieved at least 50 Difficulty Score.
 -   The **Deep Champion** [Echo Modifier](Echoes.md) will always enable every enemy to be [Corrupted](Monsters.md#scyphozia), regardless of Difficulty Score or Power.
--   The **Vow Of Thorns** [Echo Modifier](Echoes.md) adds 30 Difficulty Score to the Trial.
--   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score to the Trial. This is similar to **Vow of Thorns**, though it can only be activated once. Additionally, once the player completes the harder Trial, they will be rewarded with 15 [Attribute](Attributes.md) points.
+-   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score to the Trial. Additionally, once the player completes the harder Trial, they will be rewarded with 15 Free training points.
 
 | Difficulty Score | Estimated [Power](Power.md)  
 (It may be worse)\* | Enemy(ies) |

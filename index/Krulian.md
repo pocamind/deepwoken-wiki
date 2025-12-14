@@ -1,9 +1,9 @@
 ---
 title: Krulian
-revid: 180088
+revid: 180995
 source: https://deepwoken.fandom.com/wiki/Krulian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Sentient species]
+categories: [Sapient species]
 ---
 
 # Krulian

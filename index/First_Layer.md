@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 180761
+revid: 180990
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -10,7 +10,7 @@ categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
 
 ## Overview
 
-The **First Layer** of [The Depths](The_Depths.md), also known as **Scyphozia,** is the first of nine layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md#upgrades-unlocks-and-modifiers) or Vow of Thorns modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
+The **First Layer** of [The Depths](The_Depths.md), also known as **Scyphozia,** is the first of nine layers of The Depths, embodied with the long-lost sunken civilization of Celtor. Players are sent here after [dying](Death.md) while having a stained health bar, being sucked in by a Whirlpool, dying with the [Hollow](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier, or dying in a [Voidzone](Voidzones.md) / the [Voidsea](Voidsea.md).
 
 ## Points of Interest
 
