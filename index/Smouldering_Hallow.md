@@ -1,6 +1,6 @@
 ---
 title: Smouldering Hallow
-revid: 179514
+revid: 181392
 source: https://deepwoken.fandom.com/wiki/Smouldering_Hallow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Event Item, Hallowtide, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique C
 | requirements | 75 HVY, 30 STR |
 | damage | 27 |
 | scaling | HVY: 8.6 |
+| posture damage | 9 |
 | range | 7.5 |
 | swing speed | 0.81x |
 | endlag | 0.1s |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique C
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes, but requires 1 Knowledge |
 | droppable | No |
 | enchantable | Yes |

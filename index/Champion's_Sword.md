@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 180869
+revid: 181183
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | requirements | 40 MED |
 | damage | 19 |
 | scaling | MED: 6.5 |
+| posture damage | 4 |
 | range | 8 |
 | swing speed | 1.02x |
 | m.equip | Yes |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
 | selling price | ? |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

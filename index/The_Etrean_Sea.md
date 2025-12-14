@@ -1,6 +1,6 @@
 ---
 title: The Etrean Sea
-revid: 172024
+revid: 181415
 source: https://deepwoken.fandom.com/wiki/The_Etrean_Sea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant]

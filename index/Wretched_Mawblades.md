@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 179522
+revid: 181343
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | requirements | 75 HVY |
 | damage | 27 |
 | scaling | HVY: 8 |
+| posture damage | 8 |
 | range | 8 |
 | swing speed | 0.84x |
 | endlag | 0.1s |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | stances | 1 Handed (Dual wield) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

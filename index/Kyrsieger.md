@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 179501
+revid: 181282
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | requirements | 50 HVY, 15 CHA |
 | damage | 24 |
 | scaling | HVY: 7, CHA: 2 |
+| posture damage | 9 |
 | range | 9 |
 | swing speed | 0.83x |
 | penetration | 15% |
@@ -23,7 +24,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

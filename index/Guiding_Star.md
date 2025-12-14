@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 179469
+revid: 181313
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", The Children of Navae, Bows]
@@ -14,6 +14,7 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 | requirements | 75 MED, 25 MND |
 | damage | 14 |
 | scaling | MED: 10, MND: 3 |
+| posture damage | 5 |
 | range | 12 |
 | swing speed | 1x |
 | special effect | Basic and critical attacks will cost Ether. |
@@ -22,7 +23,7 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 | stances | 2 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

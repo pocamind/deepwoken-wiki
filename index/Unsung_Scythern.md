@@ -1,6 +1,6 @@
 ---
 title: Unsung Scythern
-revid: 177148
+revid: 181277
 source: https://deepwoken.fandom.com/wiki/Unsung_Scythern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greataxes, Developer Spec]
@@ -16,13 +16,14 @@ notices:
 | requirements | 75 HVY, LVL 10 |
 | damage | 26 |
 | scaling | HVY: 9 |
+| posture damage | 8 |
 | range | 8 |
 | swing speed | 0.6x |
 | penetration | 10% |
 | special effect | Special Critical |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | N/A |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

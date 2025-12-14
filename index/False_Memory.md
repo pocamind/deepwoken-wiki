@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 179676
+revid: 181234
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | requirements | N/A |
 | damage | 18 |
 | scaling | MED: 2.5 |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 1x |
 | m.equip | Yes |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Common |
 | selling price | N/A |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

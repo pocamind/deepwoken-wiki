@@ -1,6 +1,6 @@
 ---
 title: Derelict Highchurch
-revid: 172164
+revid: 181425
 source: https://deepwoken.fandom.com/wiki/Derelict_Highchurch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Starkindred Church]

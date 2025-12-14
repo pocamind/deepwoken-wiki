@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 179743
+revid: 181351
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -14,6 +14,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | requirements | 65 MED, LVL 10 |
 | damage | 15 |
 | scaling | MED: 8 |
+| posture damage | 5 |
 | range | 6 |
 | swing speed | 1x |
 | penetration | 5% |
@@ -23,7 +24,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | stances | 2 Handed, 1 Handed |
 | rarity | Relic |
 | selling price | 100 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

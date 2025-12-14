@@ -1,6 +1,6 @@
 ---
 title: Seon
-revid: 181098
+revid: 181580
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs]
@@ -65,3 +65,7 @@ Seon is an [Etrean](Etrean.md) NPC. He plans to take down [The Lord Regent](The_
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Seon is a name of Korean origin. It can be both a surname and forename.

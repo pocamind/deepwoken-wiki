@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 179636
+revid: 181229
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
@@ -15,6 +15,7 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 | faction | Authority |
 | damage | 15 |
 | scaling | LHT: 7 |
+| posture damage | 4 |
 | range | 6.5 |
 | swing speed | 1.23x |
 | penetration | 5% |
@@ -25,7 +26,7 @@ categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals"
 | stances | 1 Handed |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

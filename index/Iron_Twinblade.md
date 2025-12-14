@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 179733
+revid: 181341
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
 | requirements | 15 MED |
 | damage | 15 |
 | scaling | MED: 4 |
+| posture damage | 4 |
 | range | 7 |
 | swing speed | 1x |
 | chip damage | 30% |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

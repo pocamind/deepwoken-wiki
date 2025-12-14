@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 179539
+revid: 181197
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | requirements | 0 HVY |
 | damage | 20 |
 | scaling | HVY: 5 |
+| posture damage | 6 |
 | range | 8 |
 | swing speed | 0.83x |
 | m.equip | Yes |
@@ -23,7 +24,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Common |
 | selling price | 7 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

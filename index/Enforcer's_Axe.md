@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 179860
+revid: 181189
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | requirements | 75 HVY, LVL 6 |
 | damage | 26 |
 | scaling | HVY: 9 |
+| posture damage | 8 |
 | range | 8.5 |
 | swing speed | 0.76x |
 | penetration | 10% |
@@ -22,7 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

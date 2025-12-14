@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 181033
+revid: 181387
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
 | requirements | 40 LHT |
 | damage | 10 |
 | scaling | LHT: 12 |
+| posture damage | 4.5 |
 | range | 5.8 |
 | swing speed | 1.24x |
 | m.equip | No |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
 | offhand | No |
 | rarity | Common |
 | selling price | N/A |
-| weight | 4.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | No |
 | enchantable | Yes |

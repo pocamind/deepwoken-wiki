@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 179480
+revid: 181344
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Cri
 | requirements | 75 MED |
 | damage | 19 + 2.6 BLD |
 | scaling | MED: 5 |
+| posture damage | 7.5 |
 | range | 8 |
 | swing speed | 1.01x |
 | penetration | 20% |
@@ -22,7 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Cri
 | stances | 2 Handed, 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 7.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

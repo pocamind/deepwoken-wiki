@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 178474
+revid: 181407
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -107,7 +107,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 ## Trivia
 
 -   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md#the-sun-gleaming) by Naktigonis
--   The combat music for this area is [Thrill of the Hunt](Deepwoken_OST.md#thrill-of-the-hunt) by Naktigonis
+-   The combat music for this area is Thrill of the Hunt by Naktigonis
 -   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to [Minityrsa](Minityrsa.md)'s lootpool.
 -   Songseeker Wilds appears to be a rainforest area, judging by the sounds of birds chirping, the large variety of fruit, and thick woods.
 -   There are many gankers in Songseeker. Better to farm in [Minityrsa](Minityrsa.md) instead.

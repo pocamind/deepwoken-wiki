@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 179541
+revid: 181214
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | requirements | 20 LHT |
 | damage | 13 |
 | scaling | LHT: 6.5 |
+| posture damage | 4 |
 | range | 8 |
 | swing speed | 1.06x |
 | m.equip | Yes |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 1 Handed |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

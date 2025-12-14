@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 179752
+revid: 181330
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Spears, "Core-Attribute based weapons"]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | requirements | 70 HVY, 30 MND |
 | damage | 20 + 3 BLD |
 | scaling | HVY: 7.5, MND: 2.5 |
+| posture damage | 8 |
 | range | 10 |
 | swing speed | 0.82x |
 | chip damage | 40% |
@@ -25,7 +26,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Common |
 | selling price | 7 |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

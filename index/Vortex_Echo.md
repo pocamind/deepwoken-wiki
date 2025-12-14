@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 179521
+revid: 181360
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
@@ -14,6 +14,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 | requirements | 65 LHT, 65 CHA + Trained Fists |
 | damage | 13.5 |
 | scaling | LHT: 8 CHA: 3.5 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.12x |
 | special effect | Crit lowers all cooldowns by 30 seconds |
@@ -22,7 +23,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 | stances | 1 Handed |
 | rarity | Relic |
 | selling price | 100 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | No |
 | enchantable | No |

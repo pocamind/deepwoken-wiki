@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 179647
+revid: 181253
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Echoes]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | requirements | N/A |
 | damage | 12 |
 | scaling | LHT: 7 |
+| posture damage | 4 |
 | range | 8 |
 | swing speed | 1.08x |
 | penetration | 5% |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 1 Handed |
 | rarity | Common |
 | selling price | 7 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Only if enchanted |
 | droppable | No |
 | enchantable | Yes |

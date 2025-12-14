@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 179646
+revid: 181255
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
@@ -14,6 +14,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
 | requirements | 0 LHT |
 | damage | 10 |
 | scaling | LHT: 13 |
+| posture damage | 1 |
 | range | 10 |
 | swing speed | 1.17x |
 | m.equip | Yes |
@@ -22,7 +23,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
 | offhand | Yes |
 | rarity | Common |
 | selling price | 7 |
-| weight | 1 |
+| weight | 2 |
 | bankable | Only if enchanted |
 | droppable | No |
 | enchantable | Yes |

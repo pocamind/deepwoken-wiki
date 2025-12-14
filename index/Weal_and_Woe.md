@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 179524
+revid: 181376
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Weapons with Unique Animations, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based W
 | requirements | 80 MED, 65 SDW |
 | damage | 17.5 |
 | scaling | 5 MED, 6.5 SDW |
+| posture damage | 7.5 |
 | range | 9 |
 | swing speed | 0.92x |
 | penetration | 15% |
@@ -23,7 +24,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based W
 | stances | 1 Handed (Dual wield) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 7.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

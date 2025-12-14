@@ -1,6 +1,6 @@
 ---
 title: The Floating Keep
-revid: 172174
+revid: 181419
 source: https://deepwoken.fandom.com/wiki/The_Floating_Keep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Locations, Hallowtide]
@@ -105,7 +105,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 ## Trivia
 
--   The music for this area is [A Light In The Sky](Deepwoken_OST.md#a-light-in-the-sky) by Naktigonis
+-   The music for this area is [A Light In The Sky](A_Light_In_The_Sky.md) by Naktigonis
 -   The combat music for this area is [A Darkness Beneath](Deepwoken_OST.md#a-darkness-beneath) by Naktigonis
 -   Initially, there was a bug where the Void Feather cost 5 Joy instead of the required 15. This was patched quickly.
 -   The Familiar Priest, Heretic and Knight helmet are direct references to their counterparts from _Rogue Lineage_, being the Church Knight Helmet, Dark Sigil Helmet and Sigil Helmet respectively.

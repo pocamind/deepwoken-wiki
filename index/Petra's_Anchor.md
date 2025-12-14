@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 180567
+revid: 181206
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | requirements | 75 HVY, 10 STR, LVL 10 |
 | damage | 26 |
 | scaling | HVY: 8 |
+| posture damage | 9 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
@@ -23,7 +24,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

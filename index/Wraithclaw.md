@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 179523
+revid: 181319
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-base
 | requirements | 40 LHT, 75 WND |
 | damage | 16 |
 | scaling | LHT: 4, WND: 5.5 |
+| posture damage | 5 |
 | range | 6.5 |
 | swing speed | 1.1x |
 | penetration | 10% |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-base
 | stances | 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

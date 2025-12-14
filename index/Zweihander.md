@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 179720
+revid: 181200
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons, Heavy Weapons]
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons
 | requirements | 20 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 22 / 23 |
 | scaling | HVY: 7 / HVY: 10 |
+| posture damage | 7 |
 | range | 9 |
 | swing speed | 0.8x / 0.83x |
 | endlag | 0.1s |
@@ -26,7 +27,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Base, AlloyUncommonLegendary |
 | selling price | 14 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

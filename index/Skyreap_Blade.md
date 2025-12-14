@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 179513
+revid: 181240
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | requirements | 75 HVY |
 | damage | 23 |
 | scaling | HVY: 7 |
+| posture damage | 7.5 |
 | range | 8.5 |
 | swing speed | 0.91x |
 | penetration | 25% |
@@ -22,7 +23,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 7.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 179581
+revid: 181245
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | requirements | 100 HVY, 60 STR |
 | damage | 28 |
 | scaling | HVY: 10 |
+| posture damage | 9 |
 | range | 10 |
 | swing speed | 0.62x |
 | endlag | 0.15s |
@@ -25,7 +26,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

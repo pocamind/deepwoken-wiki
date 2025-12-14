@@ -1,6 +1,6 @@
 ---
 title: Moon Blades
-revid: 173426
+revid: 181264
 source: https://deepwoken.fandom.com/wiki/Moon_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, "Core-Attribute based weapons", Daggers]
@@ -16,6 +16,7 @@ notices:
 | requirements | 60 LHT, 30 INT |
 | damage | 13 + 1.95 BLD |
 | scaling | LHT: 8, INT: 2 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.25x |
 | endlag | 0.05s |
@@ -23,7 +24,7 @@ notices:
 | special effect | On hit, take away small amounts of blood from your opponent. |
 | stances | 1 Handed |
 | selling price | 100 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

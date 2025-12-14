@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 179807
+revid: 181316
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 | requirements | 50 LHT, 75 SDW |
 | damage | 14 |
 | scaling | LHT: 4, SDW: 9 |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 1.09x |
 | penetration | 20% |
@@ -23,7 +24,7 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 | stances | 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

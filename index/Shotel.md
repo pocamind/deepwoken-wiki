@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 179726
+revid: 181177
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | requirements | 45 MED / 75 MED |
 | damage | 22 |
 | scaling | MED: 5 / MED: 6 |
+| posture damage | 4 |
 | range | 8 |
 | swing speed | 0.97x |
 | penetration | 10% |
@@ -26,7 +27,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyUncommonLegendary |
 | selling price | 25 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

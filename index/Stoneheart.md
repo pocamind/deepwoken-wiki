@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 179526
+revid: 181273
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | requirements | 80 HVY, 20 STR |
 | damage | 24 |
 | scaling | HVY: 10 |
+| posture damage | 12 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | endlag | 0.1x |
@@ -25,7 +26,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 12 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

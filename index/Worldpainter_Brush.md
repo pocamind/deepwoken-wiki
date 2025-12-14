@@ -1,6 +1,6 @@
 ---
 title: Worldpainter Brush
-revid: 177168
+revid: 181317
 source: https://deepwoken.fandom.com/wiki/Worldpainter_Brush
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons]
@@ -16,6 +16,7 @@ notices:
 | requirements | None |
 | damage | 23 |
 | scaling | HVY: 7 |
+| posture damage | 7 |
 | range | 8.5 |
 | swing speed | 0.91x |
 | endlag | N/A |
@@ -24,7 +25,7 @@ notices:
 | special effect | Applies 'blinding' effect on hit. |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | N/A |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

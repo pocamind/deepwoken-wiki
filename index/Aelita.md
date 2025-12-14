@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 180412
+revid: 181409
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]

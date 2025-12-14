@@ -1,6 +1,6 @@
 ---
 title: DeepcrusherSword
-revid: 167861
+revid: 181265
 source: https://deepwoken.fandom.com/wiki/DeepcrusherSword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons, Greathammers]
@@ -16,13 +16,14 @@ notices:
 | requirements | 55 HVY, 10 STR |
 | damage | 24 |
 | scaling | 8 |
+| posture damage | 9 |
 | range | 9 |
 | swing speed | 0.6x (Legacy System) |
 | endlag | 0.1s |
 | penetration | 0% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | 14 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

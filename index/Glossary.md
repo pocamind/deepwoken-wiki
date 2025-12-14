@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 180920
+revid: 181722
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -253,7 +253,7 @@ Dialogue: [Ezra](Ezra.md) | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glo
 -   A Goddess worshipped by many in the [Etrean Luminant](#the-etrean-luminant).
 -   Many believe that Mur was responsible for bringing the knowledge of [Murmurs](#soul-murmur) to the Kingdom of Etrea.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [High Monk Junsui](High_Monk_Junsui.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
 
 -   As with many Gods, the contemporary understanding is that Mur may have been a [Celestial](#the-celestials).
 
@@ -272,7 +272,7 @@ Dialogue: | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glossary Entries:
 
 ### Amorus Pleeksty
 
--   Known as the Pioneer of [Flamecharming](#flamecharm), Pleeksty developed the art of controlling flames through the [Song](#the-song) into an artform. Since then, [Flamecharm](#flamecharm) has become on of the primary attunements in use.
+-   Known as the Pioneer of [Flamecharming](#flamecharm), Pleeksty developed the art of controlling flames through the [Song](#the-song) into an artform. Since then, [Flamecharm](#flamecharm) has become one of the primary attunements in use.
 -   Pleeksty is said to have descended into the [Third Layer](#the-vents-the-third-layer) and consumed a flower of [Korilfiend](#korilfiend-the-infernos-provenance), becoming a [Deepwoken](#deepwoken).
 
 Dialogue: [Aska](Aska.md), [Laplace](Laplace.md) if the player has a [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) equipped, [Ploom](Ploom.md) | Books: | Glossary Entries: [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Korilfiend, the Inferno's Provenance](#korilfiend-the-infernos-provenance)
@@ -621,7 +621,7 @@ Dialogue: [Armourer Kev](Armourer_Kev.md), [Chud Steel](Chud_Steel.md), [Destroy
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants; the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Neero](Neero.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md), [Raen](Raen.md), [Sev](Sev.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [O Pardoner of Mine](O_Pardoner_of_Mine.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Kressa](Kressa.md), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Neero](Neero.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md), [Raen](Raen.md), [Sev](Sev.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [O Pardoner of Mine](O_Pardoner_of_Mine.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The City of New Kyrsa
 
@@ -703,7 +703,7 @@ Dialogue: | Books: [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
 -   The Voidsea is only reliably traversed through the use of a [Lighthouse](#lighthouse).
 
-Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [Driftlands](#driftlands), [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Surface](#the-surface), [The Tides](#the-tides)
+Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [Driftlands](#driftlands), [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Surface](#the-surface), [The Tides](#the-tides)
 
 ### The Western Luminant
 

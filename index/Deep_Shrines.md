@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines
-revid: 176984
+revid: 181558
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [NPCs, Mechanics, Features absent in Vow of Iron]
 ---
 
 # Deep Shrines

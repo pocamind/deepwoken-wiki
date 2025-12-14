@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 179746
+revid: 181232
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | requirements | 70 HVY |
 | damage | 24 + 3.6 BLD |
 | scaling | HVY: 9.5 |
+| posture damage | 8 |
 | range | 8.5 |
 | swing speed | 0.73x |
 | m.equip | Yes |
@@ -23,7 +24,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 169614
+revid: 181405
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]

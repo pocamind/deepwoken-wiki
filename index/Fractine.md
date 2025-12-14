@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 179483
+revid: 181348
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 | requirements | LVL 10; 40 INT; 80 HVY |
 | damage | 22 (Greatsword), 14.5 + (2.175 BLD) (Shattered) |
 | scaling | 7 HVY, 4 INT |
+| posture damage | 6 |
 | range | 9 (Greatsword), 7 (Shattered) |
 | swing speed | 0.81x |
 | penetration | 25% |
@@ -24,7 +25,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

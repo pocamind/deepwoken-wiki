@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 179491
+revid: 181346
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | requirements | 65 HVY, 55 ICE, 10 PWR |
 | damage | 22 |
 | scaling | HVY: 7, ICE: 4 |
+| posture damage | 7.5 |
 | range | 8.5 |
 | swing speed | 0.85x |
 | endlag | 0.1s |
@@ -25,7 +26,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 7.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

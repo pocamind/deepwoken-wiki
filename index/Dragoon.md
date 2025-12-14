@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 179648
+revid: 181203
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Light Weapons, Offhand]
@@ -14,6 +14,7 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 | requirements | 65 LHT |
 | damage | 16 |
 | scaling | LHT: 12 |
+| posture damage | 3.5 |
 | range | 11 |
 | swing speed | 1.17x |
 | m.equip | Yes |
@@ -22,7 +23,7 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 | offhand | Yes |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 3.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 179527
+revid: 181242
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -16,6 +16,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords
 | faction | Authority |
 | damage | 24 |
 | scaling | HVY: 7 / HVY: 8 |
+| posture damage | 8 |
 | range | 8.5 |
 | swing speed | 0.85x |
 | endlag | 0.1s / N/A |
@@ -26,7 +27,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

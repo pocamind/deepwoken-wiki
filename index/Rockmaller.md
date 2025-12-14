@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 179697
+revid: 181342
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | requirements | 55 HVY, 10 STR |
 | damage | 25 |
 | scaling | HVY: 7.5 |
+| posture damage | 9.5 |
 | range | 8 |
 | swing speed | 0.82x |
 | endlag | 0.1s |
@@ -22,7 +23,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 9.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

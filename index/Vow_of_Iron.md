@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 181110
+revid: 181582
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Paths, Character]
@@ -10,23 +10,28 @@ notices:
 
 # Vow of Iron
 
+{{InProgress}
+
 “ Wield the memories of the fallen.  
 The path ahead is not a forgiving one. ”
 
-― Memento description
+― Path description
 
 ## Description
 
-Vow of Iron is a gamemode in Deepwoken, allowing you to experience a harder gameplay set in an older timeline in Lumen. In comparison to Pathfinder, which is the original and normal gamemode, Vow of Iron limits you with a lot of aspects reminiscent to the [Echo](Echoes.md) Modifiers. Additionally, you experience new enemy and boss types exclusive to the gamemode.
+Vow of Iron is one of two Path (gamemode) available in Deepwoken, the other being Pathfinder.
 
-## In-Game Explanation
+In Vow of Iron, you relieve the events of Zi'eer rise to power in 1233 CE throught Mementos, the memories of the fallen that you, The Inheritor, wield in an attempt to understand what became of the world during these times.
 
-Each Memento plays differently and has its own pool of Talents and Mantras to purchase.
+Vow of Iron is, in essence, a hard mode of Deepwoken. Featuring new enemies, bosses, restricted and tweaked progression, and a new map, showcasing the Eastern Luminant as it was 48 years before the arrival of the Pathfinder.
 
-Face greater challenges. Surpass the memories you inherit.
+## Differences from Pathfinder
 
-Any death will send you to the Depths.
+Vow of Iron feature many differences from Pathfinder, aimed at providing a new, more complicated and punishing experience to the player.
 
-Banking and trading are disabled.
-
-A trailer for Vow of Iron was released on November 29th, 2025. View it [here](https://youtu.be/sF8ZLO9dcHY).
+-   **Mementos and progression**
+    -   In Vow of Iron, players do not progress their own build. They choose one of the Mementos available, embodying the memories of the fallen.
+        -   These Mementos can have unique restrictions applied to them (such as being unable to use certain weapon type), can have flaws and have a set stat distribution, which is gained as you Power Up.
+        -   Vow of Iron feature a separate Aspect slot used exclusively for it. You may choose to use the Aspect of your Pathfinder path, but cannot use the Vow of Iron Aspect for Pathfinder. Their are also unique Aspects available in Vow of Iron. All Aspects receive a new ability.
+    -   To progress, Power Ups must be purchased from the Reclaimer of the Recollection in The Cerebral Spire. You must also purchase talents directly from him. Your available talents depends on your Power and the Memento you are using.
+    -   At certain Powers, you are required to defeat a certain boss to be allowed to purchase more levels from the Reclaimer.

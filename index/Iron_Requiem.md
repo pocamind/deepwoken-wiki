@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 180201
+revid: 181347
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, The Ignition Union, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, 
 | requirements | 40 LHT, 75 MTL |
 | damage | 21 |
 | scaling | 3 LHT, 4 MTL |
+| posture damage | 1 |
 | range | 10 |
 | swing speed | 1.17x |
 | m.equip | No |
@@ -22,7 +23,7 @@ categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, 
 | offhand | No |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 1 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

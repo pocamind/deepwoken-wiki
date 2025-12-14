@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 179637
+revid: 181311
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | requirements | 30 MED |
 | damage | 16 + 2.4 BLD |
 | scaling | MED: 5 |
+| posture damage | 6 |
 | range | 7.5 |
 | swing speed | 0.98x |
 | penetration | 10% |
@@ -25,7 +26,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

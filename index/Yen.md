@@ -1,9 +1,9 @@
 ---
 title: Yen
-revid: 181111
+revid: 181456
 source: https://deepwoken.fandom.com/wiki/Yen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
@@ -55,7 +55,7 @@ Yen is a [Etrean](Etrean.md) NPC. They accept a bribe for the [Etrean Royalists]
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End|}</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>
@@ -75,3 +75,7 @@ Yen is a [Etrean](Etrean.md) NPC. They accept a bribe for the [Etrean Royalists]
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Yen is a Vietnamese word that means peaceful or calm.

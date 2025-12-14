@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 179537
+revid: 181256
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
 | requirements | N/A |
 | damage | 21 |
 | scaling | HVY: 6.5 |
+| posture damage | 8 |
 | range | 8.5 |
 | swing speed | 0.83x |
 | endlag | 0.1s |
@@ -25,7 +26,7 @@ categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Common |
 | selling price | 7 |
-| weight | 8 |
+| weight | 2 |
 | bankable | Only if enchanted |
 | droppable | No |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 179658
+revid: 181192
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | requirements | 75 HVY, 10 STR 10 LVL |
 | damage | 24 |
 | scaling | HVY: 9 |
+| posture damage | 10 |
 | range | 9 |
 | swing speed | 0.83x |
 | endlag | 0.1s |
@@ -25,7 +26,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Rare |
 | selling price | N/A |
-| weight | 10 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

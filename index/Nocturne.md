@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 179579
+revid: 181325
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapo
 | requirements | 90 MED, LVL 10 |
 | damage | 19.8 |
 | scaling | MED: 8 |
+| posture damage | 5 |
 | range | 7.5 |
 | swing speed | 1.02x |
 | penetration | 30% |
@@ -22,7 +23,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapo
 | stances | 1 Handed (Dual wield) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

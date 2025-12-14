@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 179927
+revid: 181353
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | requirements | 100 HVY, 20 STR, LVL 10 |
 | damage | 27 |
 | scaling | HVY: 11 |
+| posture damage | 10 |
 | range | 10 |
 | swing speed | 0.7x |
 | endlag | 0.1s |
@@ -23,7 +24,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Unique |
 | selling price | ? |
-| weight | 10 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Keyblade
-revid: 177137
+revid: 181328
 source: https://deepwoken.fandom.com/wiki/Keyblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons]
@@ -16,6 +16,7 @@ notices:
 | requirements | (Unknown) |
 | damage | ??? |
 | scaling | ??? |
+| posture damage | ??? |
 | range | ??? |
 | swing speed | ??? |
 | endlag | ??? |
@@ -23,7 +24,7 @@ notices:
 | chip damage | ??? |
 | special effect | Hero Blade of Wind Critical |
 | selling price | ??? |
-| weight | ??? |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

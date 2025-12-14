@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 179518
+revid: 181391
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique
 | requirements | 60 MED, 40 CHA |
 | damage | 20 |
 | scaling | MED: 5.5, CHA: 1 |
+| posture damage | 7 |
 | range | 8.5 |
 | swing speed | 1x |
 | m.equip | No |
@@ -21,7 +22,7 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique
 | stances | 2 Handed, 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes, but requires 1 Knowledge |
 | droppable | No |
 | enchantable | Yes |

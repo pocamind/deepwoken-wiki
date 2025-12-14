@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Dagger
-revid: 179901
+revid: 181441
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -16,13 +16,14 @@ notices:
 | requirements | Crazy Slots |
 | damage | 19 |
 | scaling | LHT: 9 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.3x |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
 | rarity | N/A |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

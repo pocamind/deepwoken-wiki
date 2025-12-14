@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 179710
+revid: 181378
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons wit
 | requirements | 75 LHT |
 | damage | 16.5 |
 | scaling | LHT: 8.5 |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 1.05x |
 | penetration | 15% |
@@ -22,7 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons wit
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

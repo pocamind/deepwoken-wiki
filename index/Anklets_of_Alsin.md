@@ -1,6 +1,6 @@
 ---
 title: Anklets of Alsin
-revid: 179656
+revid: 181274
 source: https://deepwoken.fandom.com/wiki/Anklets_of_Alsin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Fists, Light Weapons]
 | requirements | 25 LHT [REQUIRES A KICK STYLE] |
 | damage | 13.5 |
 | scaling | LHT: 9 |
+| posture damage | 3 |
 | range | 6.5 |
 | swing speed | 1.14x |
 | penetration | 15% |
@@ -22,7 +23,7 @@ categories: [Weapons, Fists, Light Weapons]
 | m.extract | No |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 3 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

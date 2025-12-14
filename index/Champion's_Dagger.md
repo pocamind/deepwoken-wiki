@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 179613
+revid: 181219
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | requirements | 50 LHT |
 | damage | 14.5 |
 | scaling | LHT: 8 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.25x |
 | chip damage | 10% |
@@ -24,7 +25,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | stances | 1 Handed |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

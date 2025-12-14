@@ -1,6 +1,6 @@
 ---
 title: Sword (weapon)
-revid: 180868
+revid: 181173
 source: https://deepwoken.fandom.com/wiki/Sword_(weapon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | requirements | None |
 | damage | 18 |
 | scaling | MED: 2.5 |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 1x |
 | m.equip | Yes |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Common |
 | selling price | 10 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

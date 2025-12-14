@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 179560
+revid: 181327
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | requirements | 75 HVY |
 | damage | 22 |
 | scaling | HVY: 7 |
+| posture damage | 7 |
 | range | 8 |
 | swing speed | 0.94x |
 | penetration | 10% |
@@ -22,7 +23,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

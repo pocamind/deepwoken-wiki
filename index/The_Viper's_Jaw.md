@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 166564
+revid: 181414
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant]

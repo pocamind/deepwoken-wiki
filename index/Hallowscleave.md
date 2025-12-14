@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 179492
+revid: 181241
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Med
 | requirements | 75 MED |
 | damage | 19 |
 | scaling | MED: 7 |
+| posture damage | 6 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 25% |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Med
 | stances | 2 Handed, 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

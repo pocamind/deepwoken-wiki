@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 179665
+revid: 181195
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -16,6 +16,7 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Grea
 | faction | Authority |
 | damage | 24 |
 | scaling | HVY: 7 / HVY: 8 |
+| posture damage | 5 / 7 |
 | range | 8 |
 | swing speed | 0.85x / 0.87x |
 | penetration | 10% |
@@ -27,7 +28,7 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Grea
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 5 / 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

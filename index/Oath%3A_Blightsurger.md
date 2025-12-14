@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 180431
+revid: 181379
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -18,6 +18,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | type | Fist |
 | requirements | Oath: Blightsurger |
 | damage | 30 |
+| posture damage | 8 |
 | range | 6 |
 | swing speed | 0.98x |
 | penetration | 5% |
@@ -25,7 +26,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | m.extract | No |
 | stances | 1 Handed |
 | rarity | N/A |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

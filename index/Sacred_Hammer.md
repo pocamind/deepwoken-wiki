@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 179702
+revid: 181208
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | requirements | 65 MED |
 | damage | 19.5 |
 | scaling | MED: 7 |
+| posture damage | 5 |
 | range | 7 |
 | swing speed | 0.97x |
 | penetration | 10% |
@@ -25,7 +26,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
 | selling price | 50 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

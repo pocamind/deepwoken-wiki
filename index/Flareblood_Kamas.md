@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 179486
+revid: 181260
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weap
 | requirements | 60 LHT, 30 INT |
 | damage | 14 + 2.1 BLD |
 | scaling | LHT: 6, INT: 1.5, BLD: 3 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 30% |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weap
 | stances | 1 Handed (Dual wield) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

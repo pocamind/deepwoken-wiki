@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 180795
+revid: 181374
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -14,6 +14,7 @@ categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons,
 | requirements | 100 HVY 40 STR |
 | damage | 24 + 3.6 BLD |
 | scaling | HVY: 9 |
+| posture damage | 9 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
@@ -22,7 +23,7 @@ categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons,
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

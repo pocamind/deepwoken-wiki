@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 179626
+revid: 181288
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
@@ -15,6 +15,7 @@ categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Centr
 | faction | Authority |
 | damage | 26 |
 | scaling | HVY: 9 |
+| posture damage | 13 |
 | range | 9 |
 | swing speed | 0.73x |
 | penetration | 20% |
@@ -26,7 +27,7 @@ categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Centr
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 13 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

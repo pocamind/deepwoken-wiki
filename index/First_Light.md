@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 180282
+revid: 181212
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with U
 | requirements | 75 HVY |
 | damage | 23 |
 | scaling | HVY: 8 |
+| posture damage | 9 |
 | range | 8.5 |
 | swing speed | 0.82x |
 | penetration | 15% |
@@ -23,7 +24,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with U
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

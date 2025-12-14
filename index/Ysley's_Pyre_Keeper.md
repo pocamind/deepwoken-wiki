@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 179520
+revid: 181286
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", Heavy Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weap
 | requirements | HVY: 25, FIR: 75, LHT: 10 |
 | damage | 21 |
 | scaling | HVY: 5, FIR: 4 (Greatsword), LHT: 5, FIR: 4 (Dagger) |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 0.93x |
 | penetration | 15% |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weap
 | stances | 1 Handed |
 | rarity | Mythical |
 | selling price | 105 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

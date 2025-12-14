@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 179559
+revid: 181222
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | requirements | 75 HVY |
 | damage | 25 |
 | scaling | HVY: 9 |
+| posture damage | 10 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | penetration | 25% |
@@ -23,7 +24,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 25 |
-| weight | 10 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

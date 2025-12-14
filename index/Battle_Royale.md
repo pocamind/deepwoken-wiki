@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 171317
+revid: 181429
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Game Modes]

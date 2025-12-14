@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 169798
+revid: 181570
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -33,14 +33,14 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
     -   [Whaler Initiate](Whaler_Initiate.md) grants 25% Stealth.
     -   Some Outfits have the [Lowstride](Talents.md#lowstride) Talent:
-        -   [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), and [Steel Plate](Steel_Plate.md).
+        -   [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), and [Steel Plate](Steel_Plate.md)
 -   Wearing the following Equipment:
-    -   Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md) (10%), [Bloodfeather Cowl](Bloodfeather_Cowl.md) (6%), [Assassin's Hood](<Assassin's_Hood.md>) (all variants) (5%), [Monastery Cowl](Monastery_Cowl.md) (5%), [Dark Cowl](Dark_Cowl.md) (4%), Hood (4% for Black Hood, 2% from Brown Hood).
-    -   Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md) (6%), [Mercenary's Garb](<Mercenary's_Garb.md>) (6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md) (6%), [Sandrunner Wraps](Sandrunner_Wraps.md) (4%), [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants) (3%).
+    -   Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md) (10%), [Bloodfeather Cowl](Bloodfeather_Cowl.md) (6%), [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) (6%), [Assassin's Hood](<Assassin's_Hood.md>) (all variants) (5%), [Monastery Cowl](Monastery_Cowl.md) (5%), [Dark Cowl](Dark_Cowl.md) (4%), Black Hood (4%), Brown Hood (2%)
+    -   Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md) (6%), [Mercenary's Garb](<Mercenary's_Garb.md>) (6%), [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>) (6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md) (6%), [Sandrunner Wraps](Sandrunner_Wraps.md) (4%), [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants) (3%)
     -   Legs: N/A
-    -   Torso: Shrouded Capes (all variants) (5%), [Dark Owl Cape](Dark_Owl_Cape.md) (2%).
-    -   Face: Duelist's Mask (6%).
-    -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md) (3%).
+    -   Torso: Shrouded Capes (all variants) (5%), [Dark Owl Cape](Dark_Owl_Cape.md) (2%)
+    -   Face: Duelist's Mask (6%), Corrupted Duelist's Mask (6%)
+    -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md) (3%), [Assassin's Earrings](<Assassin's_Earrings.md>) (3%)
     -   Rings: N/A
     -   Some Equipment items have the [Lowstride](Talents.md#lowstride) Talent:
         -   [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)

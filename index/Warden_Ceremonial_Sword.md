@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 179682
+revid: 181209
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | faction | Authority |
 | damage | 17 |
 | scaling | MED: 7 |
+| posture damage | 4 |
 | range | 7.5 |
 | swing speed | 1.06x |
 | m.equip | Yes |
@@ -24,7 +25,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

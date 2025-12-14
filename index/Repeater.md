@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 179732
+revid: 181180
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
 | requirements | 65 LHT |
 | damage | 14 |
 | scaling | LHT: 15 |
+| posture damage | 3 |
 | range | 12 |
 | swing speed | 1.25x |
 | m.equip | Yes |
@@ -22,7 +23,7 @@ categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
 | offhand | Yes |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 3 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

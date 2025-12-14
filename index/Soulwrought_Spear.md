@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Spear
-revid: 179905
+revid: 181444
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -16,13 +16,14 @@ notices:
 | requirements | Crazy Slots |
 | damage | 22.5 |
 | scaling | MED: 9 |
+| posture damage | 5 |
 | range | 10 |
 | swing speed | 0.93x |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | rarity | N/A |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

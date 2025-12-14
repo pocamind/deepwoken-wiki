@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 179512
+revid: 181239
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | requirements | 75 LHT |
 | damage | 14 + 2.1 BLD |
 | scaling | LHT: 8 |
+| posture damage | 4 |
 | range | 8.5 |
 | swing speed | 1.08x |
 | penetration | 10% |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

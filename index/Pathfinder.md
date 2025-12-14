@@ -1,6 +1,6 @@
 ---
 title: Pathfinder
-revid: 178439
+revid: 181129
 source: https://deepwoken.fandom.com/wiki/Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Paths, Character]
@@ -15,7 +15,7 @@ _This page is for the Pathfinder gamemode. For the "Pathfinder" term in lore, se
 “ Follow your own path.  
 The ink is not yet dry. Your fate is what you make it. ”
 
-― Memento description
+― Path description
 
 ## Description
 

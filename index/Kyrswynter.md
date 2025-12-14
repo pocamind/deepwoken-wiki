@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 180892
+revid: 181318
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Wea
 | requirements | 50 MED, 75 ICE |
 | damage | 16 + 2.4 BLD |
 | scaling | MED: 5, ICE: 3 |
+| posture damage | 6 |
 | range | 9 |
 | swing speed | 0.97x |
 | penetration | 20% |
@@ -23,7 +24,7 @@ categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Wea
 | stances | 2 Handed, 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

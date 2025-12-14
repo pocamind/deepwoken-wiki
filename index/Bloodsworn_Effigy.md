@@ -1,6 +1,6 @@
 ---
 title: Bloodsworn Effigy
-revid: 157587
+revid: 181266
 source: https://deepwoken.fandom.com/wiki/Bloodsworn_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -16,13 +16,14 @@ notices:
 | requirements | TBA |
 | damage | TBA |
 | scaling | TBA |
+| posture damage | TBA |
 | range | TBA |
 | swing speed | TBA |
 | penetration | TBA |
 | special effect | TBA |
 | stances | 2 Handed, 1 Handed |
 | selling price | TBA |
-| weight | TBA |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Soulshot
-revid: 177141
+revid: 181370
 source: https://deepwoken.fandom.com/wiki/Soulshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Pistols, Weapons with Unique Criticals, Developer Spec]
@@ -16,6 +16,7 @@ notices:
 | requirements | 150 LHT |
 | damage | 30 |
 | scaling | LHT: 12 |
+| posture damage | 7 |
 | range | 12.5 |
 | swing speed | 1.3x |
 | endlag | N/A |
@@ -25,7 +26,7 @@ notices:
 | stances | 1 Handed |
 | offhand | Yes |
 | selling price | N/A |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Spectral Grasp
-revid: 180764
+revid: 181345
 source: https://deepwoken.fandom.com/wiki/Spectral_Grasp
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Daggers, Hallowtide, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Cri
 | requirements | 75 LHT |
 | damage | 16 |
 | scaling | LHT: 7 |
+| posture damage | 4 |
 | range | 6.5 |
 | swing speed | 1.2x |
 | penetration | 15% |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Event Item, Weapons with Unique Cri
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

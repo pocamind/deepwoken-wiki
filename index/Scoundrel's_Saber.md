@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 179684
+revid: 181380
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 | requirements | 55 MED |
 | damage | 22 |
 | scaling | MED: 4.8 |
+| posture damage | 5.5 |
 | range | 8 |
 | swing speed | 1x |
 | special effect | Critical gains 10% more damage if landed on the opponent's back. |
@@ -22,7 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 | stances | 2 Handed, 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 5.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

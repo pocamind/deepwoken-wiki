@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 180187
+revid: 181340
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons,
 | requirements | 40 MED / 65 MED |
 | damage | 17.5 / 20 |
 | scaling | MED: 5 / MED: 6 |
+| posture damage | 5 / 6 |
 | range | 8 |
 | swing speed | 0.9x / 1.0x |
 | penetration | 10% / 15% |
@@ -25,7 +26,7 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons,
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyUncommonLegendary |
 | selling price | 50 |
-| weight | 5 / 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

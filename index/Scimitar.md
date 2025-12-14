@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 179604
+revid: 181198
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | requirements | 20 MED |
 | damage | 15 |
 | scaling | MED: 3 |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 1.09x |
 | m.equip | Yes |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Common |
 | selling price | 14 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

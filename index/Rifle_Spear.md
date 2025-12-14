@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 179657
+revid: 181210
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rif
 | faction | Authority |
 | damage | 21 |
 | scaling | MED: 7 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25% |
@@ -23,7 +24,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rif
 | m.extract | No |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

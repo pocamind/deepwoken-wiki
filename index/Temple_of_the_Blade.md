@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 166591
+revid: 181417
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]

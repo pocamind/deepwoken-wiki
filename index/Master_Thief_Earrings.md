@@ -1,6 +1,6 @@
 ---
 title: Master Thief Earrings
-revid: 178656
+revid: 181572
 source: https://deepwoken.fandom.com/wiki/Master_Thief_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -30,4 +30,4 @@ categories: [Equipment, Ears]
 
 ## Trivia
 
--   These earrings belong to [Chrollo Lucilfer](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer?so=search) from the anime Hunter x Hunter.
+-   These earrings are a reference to [Chrollo Lucilfer's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer?so=search) earrings from the anime _Hunter x Hunter_.

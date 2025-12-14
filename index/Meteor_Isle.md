@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 179981
+revid: 181427
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Children of Navae]
@@ -42,7 +42,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 ## Trivia
 
 -   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md#the-sun-gleaming) by Naktigonis.
--   The combat music for this area is [Thrill of the Hunt](Deepwoken_OST.md#thrill-of-the-hunt) by Naktigonis.
+-   The combat music for this area is Thrill of the Hunt by Naktigonis.
 -   This island was previously cut from the game before initial release, but was since added back in the Verse 2 update.
     -   It is well known for featuring prominently in the first ever [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70).
         -   This is referenced by Exter, who notes how familiar the area where the direct took place is.

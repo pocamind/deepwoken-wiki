@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 179706
+revid: 181368
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Fists, Light Weapons]
 | requirements | 75 LHT 10 FTD & Fist Style |
 | damage | 15 |
 | scaling | 9.5 LHT |
+| posture damage | 6 |
 | range | 6 |
 | swing speed | 1.11x |
 | chip damage | 20% |
@@ -21,7 +22,7 @@ categories: [Weapons, Fists, Light Weapons]
 | m.extract | No |
 | rarity | Unique |
 | selling price | N/A |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | No |
 | enchantable | Yes |

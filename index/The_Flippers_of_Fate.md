@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 179745
+revid: 181331
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Dagg
 | requirements | 70 LHT; 30 MND |
 | damage | 13 |
 | scaling | LHT: 8, MND: 5 |
+| posture damage | 3.5 |
 | range | 6.5 |
 | swing speed | 1.26x |
 | penetration | 15% |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Dagg
 | stances | 1 Handed (Dual wield) |
 | rarity | Common |
 | selling price | ? |
-| weight | 3.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

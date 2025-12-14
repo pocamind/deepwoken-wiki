@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 179728
+revid: 181211
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | requirements | 40 LHT |
 | damage | 11 |
 | scaling | LHT: 10 |
+| posture damage | 5 |
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 5% |
@@ -22,7 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | stances | 1 Handed |
 | rarity | Rare |
 | selling price | 50 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 179606
+revid: 181220
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | requirements | 25 LHT |
 | damage | 13 |
 | scaling | LHT: 8 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.23x |
 | m.equip | Yes |
@@ -23,7 +24,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | stances | 1 Handed |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

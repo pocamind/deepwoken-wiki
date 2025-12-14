@@ -1,6 +1,6 @@
 ---
 title: Bloodless Gem
-revid: 176944
+revid: 181298
 source: https://deepwoken.fandom.com/wiki/Bloodless_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -39,6 +39,7 @@ This has a healing cap of 15 health. Reaching this cap will put Bloodless Gem on
     -   The heal cap with the Brain [Food Buff](Status_Effects.md#food-buff) will be hit once you reach 66.7 scaled damage.
 -   The healing is based on scaled damage dealt **before** Bloodless Gem's reduced damage comes into effect.
 -   When Bloodless Gem is on cooldown, your Mantra's damage will return to normal as well as the healing being disabled.
+-   The Bloodless Gem effect can be enhanced with the Bloodcurdle Equipment Set, granting [Temporary Health](Status_Effects.md#temporary-health) when you proc the Gem.
 
 ## Crafting
 

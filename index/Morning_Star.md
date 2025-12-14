@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 179685
+revid: 181310
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | requirements | 50 MED |
 | damage | 16 + 2.4 BLD |
 | scaling | MED: 6 |
+| posture damage | 5 |
 | range | 7.5 |
 | swing speed | 0.98x |
 | penetration | 20% |
@@ -25,7 +26,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

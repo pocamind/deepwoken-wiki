@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 179698
+revid: 181251
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hi
 | requirements | 75 HVY |
 | damage | 23 + 3.45 BLD |
 | scaling | HVY: 9 |
+| posture damage | 9 |
 | range | 9 |
 | swing speed | 0.81x |
 | endlag | 0.1s |
@@ -25,7 +26,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hi
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

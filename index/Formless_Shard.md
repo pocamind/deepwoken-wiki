@@ -1,6 +1,6 @@
 ---
 title: Formless Shard
-revid: 180865
+revid: 181371
 source: https://deepwoken.fandom.com/wiki/Formless_Shard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Dagg
 | requirements | N/A |
 | damage | 5 |
 | scaling | N/A |
+| posture damage | 2 |
 | range | 8 |
 | swing speed | 1x |
 | m.equip | No |

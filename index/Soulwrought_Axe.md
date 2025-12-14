@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Axe
-revid: 179906
+revid: 181440
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -16,6 +16,7 @@ notices:
 | requirements | Crazy Slots |
 | damage | 26 |
 | scaling | HVY: 13 |
+| posture damage | 8 |
 | range | 10 |
 | swing speed | 0.8x |
 | endlag | 0.15s |
@@ -23,7 +24,7 @@ notices:
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | N/A |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

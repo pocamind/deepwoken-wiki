@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 179602
+revid: 181250
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | requirements | 75 LHT |
 | damage | 13 |
 | scaling | LHT: 8.5 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 30% |
@@ -25,7 +26,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 55 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

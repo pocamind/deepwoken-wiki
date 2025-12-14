@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 180773
+revid: 181280
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Light Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | requirements | 85 LHT, LVL 10 |
 | damage | 14.5 |
 | scaling | LHT: 7.5 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.2x |
 | penetration | 25% |
@@ -22,7 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | stances | 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

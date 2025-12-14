@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 180736
+revid: 181228
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -15,6 +15,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | requirements | 40 / 75 LHT |
 | damage | 15 |
 | scaling | LHT: 5 / 8 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 15% |
@@ -25,7 +26,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | stances | 1 Handed |
 | rarity | Base, AlloyRareLegendary |
 | selling price | 25 / 50 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

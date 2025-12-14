@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 179738
+revid: 181359
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
 | requirements | 75 LHT |
 | damage | 16 |
 | scaling | LHT: 11 |
+| posture damage | 4 |
 | range | 11 |
 | swing speed | 1.2x |
 | chip damage | 20% |
@@ -23,7 +24,7 @@ categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
 | offhand | Yes |
 | rarity | Rare |
 | selling price | 50 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

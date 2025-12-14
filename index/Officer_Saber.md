@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 179723
+revid: 181221
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | requirements | 30 MED / 75 MED |
 | damage | 22 / 23 |
 | scaling | MED: 4.5 / MED: 4.8 |
+| posture damage | 6 |
 | range | 8 |
 | swing speed | 1x |
 | chip damage | 10% |
@@ -25,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyUncommonRare |
 | selling price | 14 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 179663
+revid: 181182
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 | requirements | 60 MED |
 | damage | 18 + 2.6 BLD |
 | scaling | MED: 8 |
+| posture damage | 8 |
 | range | 8 |
 | swing speed | 0.94x |
 | penetration | 25% |
@@ -25,7 +26,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 | stances | 2 Handed, 1 Handed |
 | rarity | Uncommon |
 | selling price | 25 |
-| weight | 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

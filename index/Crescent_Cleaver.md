@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 179950
+revid: 181225
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Great
 | requirements | 45 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 22 + 3.3 BLD |
 | scaling | HVY: 8 / HVY: 10 |
+| posture damage | 9 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
@@ -26,7 +27,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Great
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Base, AlloyRareLegendary |
 | selling price | 25 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

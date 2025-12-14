@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 179668
+revid: 181254
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Echoes]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | requirements | N/A |
 | damage | 16.5 |
 | scaling | MED: 3 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 10% |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 2 Handed, 1 Handed |
 | rarity | Common |
 | selling price | 7 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Only if enchanted |
 | droppable | No |
 | enchantable | Yes |

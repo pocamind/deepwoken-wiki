@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 179580
+revid: 181284
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapon
 | requirements | 60 MED, LVL 10, 40 HVY |
 | damage | 20 |
 | scaling | MED: 6.2, HVY: 4.2 |
+| posture damage | 7 |
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 25% |
@@ -22,7 +23,7 @@ categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapon
 | stances | 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

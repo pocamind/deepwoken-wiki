@@ -1,6 +1,6 @@
 ---
 title: Kyrstear
-revid: 179692
+revid: 181249
 source: https://deepwoken.fandom.com/wiki/Kyrstear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand]
@@ -13,6 +13,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | type | Offhand Weapon |
 | requirements | 40 AGL |
 | damage | 0 |
+| posture damage | 3 |
 | range | 6.5 |
 | swing speed | 1x |
 | endlag | 0.1s |
@@ -20,7 +21,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | offhand | Offhand only |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 3 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

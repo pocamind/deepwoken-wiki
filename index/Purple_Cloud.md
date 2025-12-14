@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 179577
+revid: 181278
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | requirements | 85 MED, Power 10 |
 | damage | 16.5 |
 | scaling | MED: 9 |
+| posture damage | 5 |
 | range | 6.5 |
 | swing speed | 1.06x |
 | penetration | 15% |
@@ -22,7 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | stances | 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

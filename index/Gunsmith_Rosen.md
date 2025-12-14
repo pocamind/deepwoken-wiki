@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 180191
+revid: 181691
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gunsmiths]
@@ -21,11 +21,13 @@ categories: [Gunsmiths]
 
 ## Description
 
-**Gunsmith Rosen** is the current leader of the arms company known as [The Summer Company](The_Summer_Company.md). He is responsible for reintroducing [guns](Guns.md) across the Luminants. Gunsmith Rosen or Rosen does not have a confirmed or known last name and Gunsmith is purely a title given to him, His aspect is also [Vesperian](Vesperian.md). Its unknown if Rosen resides within [Summer Isle](Summer_Isle.md) but it is assumed so due to him signing off the creation of the [Stormseye](Stormseye.md).
+Gunsmith Rosen is the current leader of the arms company known as [The Summer Company](The_Summer_Company.md). He is responsible for reintroducing [guns](Guns.md) across the Luminants. His aspect is also [Vesperian](Vesperian.md). Its unknown if Rosen resides within [Summer Isle](Summer_Isle.md) but it is assumed so due to him signing off the creation of the [Stormseye](Stormseye.md).
 
 He created the Summer Company when he found old pre-Canticlysm firearms and reverse-engineered them. This explains why guns are so underpowered, because he did not perfect the original design and failed to fully reverse-engineer it.
 
-[Gunsmith Hierka](Gunsmith_Hierka.md) is Rosen's former protégé who deceived Rosen and hid his ranking as a member of [The Central Authority](The_Central_Authority.md)'s [Bureau of Research](Bureau_of_Research.md) in order to steal the Summer Company's Secrets. This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the [The Central Authority](The_Central_Authority.md).
+[Gunsmith Hierka](Gunsmith_Hierka.md) was Rosen's former protégé who deceived Rosen and hid his ranking as a member of [The Central Authority](The_Central_Authority.md)'s [Bureau of Research](Bureau_of_Research.md) in order to steal the Summer Company's Secrets. This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the the Central Authority.
+
+While Rosen is known for his mechanical expertise, he has shown himself to still be skilled in designs that revolve around the manipulation of ether.[\[2\]](#cite-note-2)
 
 ## Trivia
 
@@ -39,3 +41,4 @@ He created the Summer Company when he found old pre-Canticlysm firearms and reve
 ## References
 
 1.  [↑](#cite-ref-1)
+2.  [↑](#cite-ref-2) [Winter Rifle](Winter_Rifle.md) description

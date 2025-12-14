@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 179638
+revid: 181227
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -16,6 +16,7 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Crit
 | faction | Authority |
 | damage | 22 / 24 |
 | scaling | HVY: 7 / HVY: 8 |
+| posture damage | 5 / 6 |
 | range | 9 |
 | swing speed | 0.8x |
 | penetration | 15% |
@@ -26,7 +27,7 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Crit
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 5 / 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

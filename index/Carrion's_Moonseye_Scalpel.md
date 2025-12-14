@@ -1,6 +1,6 @@
 ---
 title: "Carrion's Moonseye Scalpel"
-revid: 177161
+revid: 181276
 source: https://deepwoken.fandom.com/wiki/Carrion's_Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons]
@@ -16,6 +16,7 @@ notices:
 | requirements | 80 MED |
 | damage | 18.5 |
 | scaling | INT: 13 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.72x |
 | endlag | N/A |
@@ -24,7 +25,7 @@ notices:
 | special effect | N/A |
 | stances | 2 Handed, 1 Handed |
 | selling price | 14 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

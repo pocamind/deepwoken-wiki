@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 179552
+revid: 181231
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons wit
 | requirements | 80 MED |
 | damage | 18.5 |
 | scaling | MED: 7 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.96x |
 | penetration | 20% |
@@ -23,7 +24,7 @@ categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons wit
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

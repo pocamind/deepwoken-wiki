@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 180470
+revid: 181393
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 | requirements | 75 LHT |
 | damage | 14 |
 | scaling | LHT: 8.5 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.25x |
 | special effect | On M1, the puppet will take the appearance of the opponent.M1s deal no damage, instead the damage is stored until you use your critical. |
@@ -22,7 +23,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

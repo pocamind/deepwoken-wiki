@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 179679
+revid: 181287
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | requirements | 75 MED |
 | damage | 19 + 2.75 BLD |
 | scaling | MED: 6 |
+| posture damage | 7 |
 | range | 8 |
 | swing speed | 0.98x |
 | penetration | 30% |
@@ -25,7 +26,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

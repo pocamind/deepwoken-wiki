@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 179729
+revid: 181185
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | requirements | 40 MED / 75 MED |
 | damage | 20 |
 | scaling | MED: 6 / MED: 7.5 |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 20% |
@@ -23,7 +24,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyUncommonLegendary |
 | selling price | 14 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: The Rock
-revid: 180488
+revid: 181369
 source: https://deepwoken.fandom.com/wiki/The_Rock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greathammers, Weapons with Unique Criticals, Developer Spec]
@@ -16,11 +16,12 @@ notices:
 | requirements | 200 HVY |
 | damage | 102 |
 | scaling | HVY: 12 |
+| posture damage | 30 |
 | range | 8 |
 | swing speed | 0.25x |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | N/A |
-| weight | 30 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

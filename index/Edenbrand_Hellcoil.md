@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 180417
+revid: 181382
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons, "Weapons with Multi-Hit Criticals"]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heav
 | requirements | 75 HVY, 30 STR |
 | damage | 27 |
 | scaling | 8.3 HVY |
+| posture damage | 10 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
@@ -24,7 +25,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heav
 | stances | 2 Handed |
 | rarity | Unique |
 | selling price | 100 |
-| weight | 10 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

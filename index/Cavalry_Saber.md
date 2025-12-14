@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 179744
+revid: 181226
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -16,6 +16,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | faction | Authority |
 | damage | 21 / 22.5 |
 | scaling | MED: 5 / MED: 5.5 |
+| posture damage | 5 / 6 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 10% |
@@ -26,7 +27,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyUncommonRare |
 | selling price | 14 |
-| weight | 5 / 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 179863
+revid: 181698
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -222,6 +222,7 @@ Exhaustive Loot Table
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a><b>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>.</b></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a><b>:</b>
   <ol>
+    <li><b>Relic Ring</b>: <a href="Ring_of_the_Primal_King.md">Ring of the Primal King</a></li>
     <li><b>Legendary Rings</b>: <a href="Armorer's_Ring.md"><font>Armorer's Ring</font></a>, <a href="Charged_Ring.md"><font>Charged Ring</font></a>, <a href="Deepfire_Ring.md"><font>Deepfire Ring</font></a>, <a href="Finisher's_Ring.md"><font>Finisher's Ring</font></a>, <a href="Moon_Ring.md"><font>Moon Ring</font></a>, <a href="Dawnfist's_Ring.md"><font>Dawnfist's Ring</font></a> .</li>
     <li><b>Generic Rings</b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Ring_of_Casters.md">Ring of Casters</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Konga's_Clutch_Ring.md">Konga's Clutch Ring</a>.</li>
   </ol></li>

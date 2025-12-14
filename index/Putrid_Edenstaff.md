@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 179873
+revid: 181269
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "Weapons with Multi-Hit Criticals", Hallowtide, Heavy Weapons, Weapons with Unique Animations]
@@ -14,6 +14,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "
 | requirements | 75 HVY |
 | damage | 25 |
 | scaling | HVY: 8.5 |
+| posture damage | 9 |
 | range | 9 |
 | swing speed | 0.81x |
 | endlag | 0.1s |
@@ -23,7 +24,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

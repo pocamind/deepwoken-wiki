@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 179753
+revid: 181263
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | requirements | 40 MED |
 | damage | 17 |
 | scaling | MED: 6 |
+| posture damage | 4 |
 | range | 8 |
 | swing speed | 1x |
 | m.equip | Yes |
@@ -21,7 +22,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | stances | 2 Handed |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 179693
+revid: 181216
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons 
 | requirements | 75 HVY, 30 STR |
 | damage | 25 |
 | scaling | HVY: 8.3 |
+| posture damage | 10 |
 | range | 9 |
 | swing speed | 0.85x |
 | endlag | 0.1s |
@@ -24,7 +25,7 @@ categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons 
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Rare |
 | selling price | 25 |
-| weight | 10 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

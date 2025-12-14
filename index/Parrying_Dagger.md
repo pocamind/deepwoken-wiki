@@ -1,6 +1,6 @@
 ---
 title: Parrying Dagger
-revid: 179874
+revid: 181175
 source: https://deepwoken.fandom.com/wiki/Parrying_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Parrying Daggers, Offhand]
@@ -13,6 +13,7 @@ categories: [Weapons, Parrying Daggers, Offhand]
 | type | Offhand Weapon |
 | requirements | 10 AGI |
 | damage | 0 |
+| posture damage | 2 |
 | range | 6.5 |
 | swing speed | 1x |
 | endlag | 0.1s |

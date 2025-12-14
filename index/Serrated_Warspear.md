@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 179558
+revid: 181223
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | requirements | 65 MED |
 | damage | 18 + 2.7 BLD |
 | scaling | MED: 6.5 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 20% |
@@ -25,7 +26,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 2 Handed, 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

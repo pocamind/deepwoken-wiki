@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 180870
+revid: 181261
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit 
 | requirements | 40 MED, 75 MTL |
 | damage | 18 + 2.7 BLD (1H), 20 (2H) |
 | scaling | MED: 3, MTL: 4 |
+| posture damage | 8 (Club) / 4 (Sword) |
 | range | 8 |
 | swing speed | 1x (Club) / 1.05x (Sword) |
 | penetration | 10% (Club) / 20% (Sword) |
@@ -22,7 +23,7 @@ categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit 
 | m.extract | No |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 8 (Club) / 4 (Sword) |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

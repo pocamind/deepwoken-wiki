@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 179545
+revid: 181193
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | requirements | 25 MED / 75 MED |
 | damage | 18 / 20 |
 | scaling | MED: 6 / MED: 7 |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 10% |
@@ -24,7 +25,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | stances | 2 Handed, 1 Handed |
 | rarity | Uncommon |
 | selling price | 14 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

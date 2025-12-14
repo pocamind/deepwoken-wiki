@@ -1,6 +1,6 @@
 ---
 title: Moonseye Scalpel
-revid: 177160
+revid: 181267
 source: https://deepwoken.fandom.com/wiki/Moonseye_Scalpel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Weapons]
@@ -16,6 +16,7 @@ notices:
 | requirements | 80 MED |
 | damage | 21 |
 | scaling | 7 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.68x |
 | endlag | N/A |
@@ -23,7 +24,7 @@ notices:
 | special effect | N/A |
 | stances | 2 Handed, 1 Handed |
 | selling price | 25 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

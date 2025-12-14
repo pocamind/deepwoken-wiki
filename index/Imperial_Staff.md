@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 180891
+revid: 181281
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -14,6 +14,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | requirements | 40 STR; 40 MED |
 | damage | 19.5 |
 | scaling | MED: 5, STR: 3.5 |
+| posture damage | 6 |
 | range | 8 |
 | swing speed | 1x |
 | penetration | 10% |
@@ -22,7 +23,7 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 | stances | 1 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

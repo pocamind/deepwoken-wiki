@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 179727
+revid: 181196
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Spear
 | requirements | 50 MED / 85 MED |
 | damage | 19 |
 | scaling | MED: 6 / MED: 7 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.9x / 0.92x |
 | penetration | 25% |
@@ -25,7 +26,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Spear
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyUncommonLegendary |
 | selling price | 25 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

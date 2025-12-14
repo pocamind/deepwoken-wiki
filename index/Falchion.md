@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 179722
+revid: 181178
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -15,6 +15,7 @@ categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Uniqu
 | requirements | 20 / 75 MED |
 | damage | 16 |
 | scaling | MED: 6 / MED: 7 |
+| posture damage | 4 / 5 |
 | range | 7.5 |
 | swing speed | 1.06x |
 | penetration | 20% |
@@ -23,7 +24,7 @@ categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Uniqu
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyUncommonLegendary |
 | selling price | 10 |
-| weight | 4 / 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

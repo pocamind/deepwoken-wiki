@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 179731
+revid: 181224
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -15,6 +15,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | requirements | 35 HVY / 75 HVY |
 | damage | 24 |
 | scaling | HVY: 7 / HVY: 9 |
+| posture damage | 6 / 8 |
 | range | 8 |
 | swing speed | 0.83x |
 | penetration | 20% |
@@ -26,7 +27,7 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Base, AlloyUncommonLegendary |
 | selling price | 25 |
-| weight | 6 / 8 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

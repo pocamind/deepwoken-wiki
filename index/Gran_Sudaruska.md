@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 179485
+revid: 181247
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -14,6 +14,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | requirements | 75 ICE, 40 HVY, LVL 10 |
 | damage | 24 |
 | scaling | ICE: 6, HVY: 4 |
+| posture damage | 6 |
 | range | 8.5 |
 | swing speed | 0.83x |
 | penetration | 5% |
@@ -23,7 +24,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | stances | 2 Handed |
 | rarity | Mythical |
 | selling price | 100 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
