@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 180280
+revid: 181015
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -44,6 +44,8 @@ This page is about content that has either been removed or changed drastically i
     -   Was removed on the December 23rd, 2022 Verse 2 Update.
 -   **Perfect Casting -** Clicking M1 immediately after your Mantra cast will Perfect Cast it. The only use of this feature is to interact with some abilities.
     -   Was removed on the August 11th, 2025 update as it didn't actually require any additional skill, it was basically just a knowledge gap. All mechanics/abilities that relied on Perfect Casts were reworked or made default behavior.
+-   **Vow of Thorns + Ironwoken Echo Modifiers -** Vow of Thorns boosted the rate of progression. However, players were faced with harder [trials](Cathedral_of_the_Interstice.md) and every death will would send them to the [depths](First_Layer.md). Ironwoken would stop players from receiving notes or items from other players.
+    -   Both Echo Modifiers were removed on the December 15th, 2025 update as their effects and mechanics are represented within [Vow of Iron](Vow_of_Iron.md).
 
 ## Oaths
 
@@ -194,7 +196,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Ether Kit \[Common Talent\] -** It's extra ether, do you need anything else? (+20 Ether)
     -   In the January 19th, 2024 update, Ether Kit was made innate, increasing the base ether of all players by 20.
 
--   **(Old) Exoskeleton \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
+-   **Exoskeleton (Old) \[Generic Talent, Legendary Talent\] -** It will always take 20 hits to knock you down.
     -   Every hit would deal 5% of your maximum HP regardless of how much damage it would deal otherwise.
     -   In the February 14th, 2022 update, Exoskeleton was changed to its current form, granting Natural Armor.
 
@@ -267,6 +269,9 @@ This page is about content that has either been removed or changed drastically i
 -   **In Twain \[Common Talent, Heavy\] -** \[Heavy Weapons\] When you attack an enemy much weaker than you, you kill them instantly. (+2 Health)
     -   In the January 3rd, 2023 update, In Twain and Lethal Force were merged into Lethal Precision.
 
+-   **Jumpstart \[Common Talent, Thundercall\] -** Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier.
+    -   In the December 13th, 2025 update, Jumpstart was removed and replaced with Amplified Reflexes.
+
 -   **Last Laugh \[Common Talent, Flamecharm\] -** Gain the ability to incinerate yourself when down with Flame Within. If Phoenix Flames procs, you will only be restored up to 25% of your HP instead of the full 50%.
     -   In the September 2nd, 2024 update, Last Laugh was merged into Flame Within.
 
@@ -329,6 +334,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Quick Recovery \[Common Talent, Agility\] -** You move faster after doing a wall jump. (+1 Passive Agility)
     -   In the December 13th, 2022 update, Quick Recovery was merged into Kick Off.
+
+-   **Raging Static \[Common Talent, Thundercall\] -** Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased up to 20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
+    -   In the December 13th, 2025 update, Raging Static was removed and replaced with Amplified Rage.
 
 -   **Return To The Dark Ages \[Rare Talent\]** - Your mantra damage is cut by 15%, but your incoming mantra damage is cut by 15% too. (+5 Health)
     -   In the August 19th, 2025 update, Return to the Dark Ages was removed from the game.

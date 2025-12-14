@@ -1,6 +1,6 @@
 ---
 title: Firfire Caverns
-revid: 167840
+revid: 181037
 source: https://deepwoken.fandom.com/wiki/Firfire_Caverns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Floor of the Second Layer]
@@ -44,3 +44,5 @@ Brief hallucinations of Bounder faces occasionally appear for a split second in 
 ## Trivia
 
 -   The Spear of Nakti is a reference to the game's main composer, Naktigonis.
+-   For a guide on how to **exit** the caverns, click [here](https://youtu.be/z0jUO6LiA_8?si=UYXQXzbiiK5HpjZr&t=263) at the timestamp 4:23
+-   For a guid on how to **enter** the caverns, click [here](https://youtu.be/5xs6rLvl878?si=ksD8mklCBHIzdDql&t=578) at the timestamp 9:38

@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 179689
+revid: 181026
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -613,8 +613,7 @@ Blunt
  |
 | 
 
-**Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._  
-**NOTE:** This Mantra has been "**vaulted**"; as of June 23rd, 2025 and until further notice, **Shadow Vortex is no longer obtainable.**
+**Effect:** _The user casts a vortex in the direction they are facing, creating an area that will pull up and keep the rocks above its center, later doing the same with the enemy too._
 
 -   Has a base damage of 2/3.6/5.2/6.8/8.4 with 2.75 Shadowcast scaling.
 -   Automatically guardbreaks.

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 174123
+revid: 181035
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -74,7 +74,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
 -   **Arc Module: Enhance** - When your Arc suit is active, your Arc mantras deal increased damage.
     -   Increases Arc Wave's base damage by 25%.
     -   Increases Arc Beam's base damage by 50%.
-    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your your more conventional modifiers by giving them a higher base damage to work off of.
+    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your damage multipliers.
 
 -   **Arc Module: Guard** - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
     -   While in Arc Suit, blocking prevents [Spine Cutter](Talents.md#spine-cutter) from proccing and grants 360 block to all attacks.

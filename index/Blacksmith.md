@@ -1,18 +1,16 @@
 ---
 title: Blacksmith
-revid: 175989
+revid: 181024
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Vendors, NPCs]
-notices:
-  - This page is currently being worked on. Missing all Dialogue
+categories: [Vendors, NPCs]
 ---
 
 # Blacksmith
 
 | Blacksmith | |
 |---|---|
-| name | Etris: Caragan, Isle of Vigils: Baragan, Summer Isle: Blacksmith, Greathive Aratel: Blacksmith, Fort Merit: Blacksmith, Miner's Landing: Rudral, Meteor Isle:, Castle Light:, Voidheart:, Guild Bases: Blacksmith, The Floating Keep: Blacksmith |
+| name | Etris: Caragan, Isle of Vigils: Baragan, Miner's Landing: Rudral, The Floating Keep: Louie Spellhardt |
 | aspect | Etrean, Vesperian, Chrysid, Capra, Gremor, Lightborn, Celtor |
 | location | Etris, Isle of Vigils, Summer Isle, Greathive Aratel, Fort Merit, Miner's Landing, Meteor Isle, Castle Light, The Floating Keep, Voidheart, Guild Bases |
 

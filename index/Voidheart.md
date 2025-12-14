@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 167494
+revid: 181027
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Lawless Territory, The Knives of Eylis]
@@ -56,7 +56,7 @@ A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace
 
 -   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   **Voidheart** is rougly 35k studs away from [Etris](Etris.md). Its coordinates are at -20000, 20000, -20000, putting it far away in the Southwest of the play area and high up in the air.
-    -   The Roblox engine tends to struggle rendering things when too far away from 0, 0, 0. This can be seen by zooming in very close to the player and watching their polygons becoming distorted.
+    -   The Roblox engine tends to struggle rendering things when too far away from the world origin of 0, 0, 0 due to floating point inaccuracies. This can be seen by zooming in very close to the player and watching their polygons becoming distorted.
 -   Originally, The **Voidheart** was a leftover area marker far away into the Void Sea. It had nothing.
 -   Punchee has stated that **Voidheart** was MelonBeard's (LimeBeard) island where you could play chess at. (Source: [https://youtu.be/4KLGPkyCff0?t=102](https://youtu.be/4KLGPkyCff0?t=102))
     -   This has been partially confirmed, as there is now a chess board there.
@@ -64,4 +64,4 @@ A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace
 -   It is very common to get attacked in the Voidheart, even though it is seen as dishonorable to do so.
     -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, causing a memory leak/server crash that resulted in them getting removed.
 
--   There used to be an area past the little shopping district Voidheart has, however it has since been removed.
+-   There used to be an area past the little shopping district Voidheart has that contained the [Dusklit Garden](Dusklit_Garden.md), however it has since been removed.

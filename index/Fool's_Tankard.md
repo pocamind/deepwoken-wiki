@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 179652
+revid: 181033
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -17,13 +17,16 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
 | range | 5.8 |
 | swing speed | 1.24x |
 | m.equip | No |
-| m.extract | No |
+| m.extract | Yes |
+| m.crit | Clubs |
+| m.compatible | Yes |
 | stances | 1 Handed |
+| offhand | No |
 | rarity | Common |
 | selling price | N/A |
 | weight | 4.5 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fabantou at The Three Cheers for 50 |

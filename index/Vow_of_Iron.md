@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 179947
+revid: 181029
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Paths, Character]
