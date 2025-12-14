@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 180608
+revid: 181088
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Weapons with Talents]
@@ -11,13 +11,15 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Ritual Sacrifice | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | 35 MED |
 | damage | 19 |
 | scaling | MED: 5 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.9x |
 | penetration | 25% |
-| special effect | Sacrificial Boon - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae. |
+| talent | Sacrificial Boon - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |
@@ -25,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 2 Handed, 1 Handed |
 | rarity | Named |
 | selling price | 100 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

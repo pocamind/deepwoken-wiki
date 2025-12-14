@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 180983
+revid: 181105
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1795,6 +1795,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
     -   Prerequisites: Immolation, Agitating Spark
 
+-   _**Ascended Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Once per fight, when an attack would down you immediately revive with 30% HP.
+    -   Prerequisites: Immolation, Agitating Spark, Phoenix Flames
+
 ### Inferno
 
 -   Corpse Explosion \[Common Talent\] - Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
@@ -2030,6 +2033,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
     -   Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps. Additionally, Stratos Step consumes Ether per step.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
+
+### Jumpstarter
+
+-   Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
+    -   Deals self damage if used without being carried.
+    -   Prerequisites: 25 Thundercall
+
+-   Amplified Reflexes \[Common Talent, Thundercall exclusive\] - Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.
+    -   Previously known as Jumpstart.
+    -   Prerequisites: 35 Thundercall, Electrify
+    -   Mutual Exclusive: Amplified Rage
+
+-   Amplified Rage \[Common Talent, Thundercall exclusive\] - Amped now grants you an additional +10% weapon damage.
+    -   Prerequisites: 35 Thundercall, Electrify
+    -   Mutual Exclusive: Amplified Reflexes
 
 ### Justicar
 
@@ -2324,7 +2342,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
     -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
-    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Static Withdraw (with child Talents).
+    -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Electrify.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
@@ -2920,30 +2938,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   5% DMG bonus currently bugged. (Since Summer 2023)
     -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[4\]](#cite-note-4)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
-
-### Self-Shocker
-
--   Jumpstart \[Common Talent, Thundercall exclusive\] - Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier.
-    -   Deals 15% of your maximum health as Thundercall self damage on cast.
-        -   This can be resisted with Thundercall armor and by other sources of damage reduction.
-        -   If you have the _Already Dead_ Talent from [Deepscorn Casque](Deepscorn_Casque.md), the self damage on cast is reduced by ~20%.
-        -   If you have the _Storm Mastery_ Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self Shock/stun from casting Static Withdraw is **removed entirely**.
-        -   If you pair [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) with the [Deepscorn Casque](Deepscorn_Casque.md), you will heal 10 flat health when you cast Static Withdraw instead.
-    -   The damage buff and Shock/Surge application on hit **only applies to weapon attacks**, despite the description stating "physical damage" in general.
-    -   15 second duration with a 2 minute cooldown. Has a downtime of 1 minute 45 seconds, as the cooldown starts when the buff is activated.
-    -   Applies Shock/1 Surge Rod with hitstun to yourself on use. This can be used to interrupt any attacks you're currently using that can't normally be feinted (e.g. weapon criticals).
-    -   Prerequisites: 35 Thundercall, Static Withdraw
-
--   Raging Static \[Common Talent, Thundercall exclusive\] - Your Jumpstart no longer gives you movement buffs, but your Jumpstart physical damage is increased up to +20%. The self damage to activate it is lowered. Your cooldown on Jumpstart is also lowered.
-    -   Deals 5% of your maximum health as Thundercall self damage on cast.
-        -   This can be resisted with Thundercall armor and by other sources of damage reduction.
-        -   If you have the _Already Dead_ Talent from [Deepscorn Casque](Deepscorn_Casque.md), the self damage on cast is reduced by ~20%.
-        -   If you have the _Storm Mastery_ Talent from [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), the self damage and self Shock/stun from casting Static Withdraw is **removed entirely**.
-        -   If you pair [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) with the [Deepscorn Casque](Deepscorn_Casque.md), you will heal 10 flat health when you cast Static Withdraw instead.
-    -   The damage buff and Shock/Surge application on hit **only applies to weapon attacks**, despite the description stating "physical damage" in general.
-    -   15 second duration with a 1 minute cooldown. Has a downtime of 45 seconds, as the cooldown starts when the buff is activated.
-    -   Applies Shock/1 Surge Rod with hitstun to yourself on use. This can be used to interrupt any attacks you're currently using that can't normally be feinted (e.g. weapon criticals).
-    -   Prerequisites: 35 Thundercall, Jumpstart
 
 ### Septicemia
 
@@ -3620,10 +3614,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Static Flash Clone \[Common Talent, Thundercall Exclusive\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration.
     -   Prerequisites: [Lightning Clones](Thundercall.md#lightning-clones) (Mantra), 30 Agility, 35 Thundercall
 
--   Static Withdraw \[Common Talent, Thundercall Exclusive\] - If you get knocked for the first time, if someone tries to carry you, you can discharge and damage them, goes on cooldown after use. Bodies of knocked enemies will be charged with electricity which will stun people who attempt to carry them.
-    -   Very tight activation window + delayed activation. If you successfully hit the shock the moment someone tries to carry you, you immediately get back up and trigger the related Talents.
-    -   Prerequisite: 25 Thundercall
-
 -   Stratoshock \[Common Talent, Thundercall Exclusive\] - Your lightning deals an additional +5% damage when in the rain.
     -   Thundercall damage innately gains a 5% damage buff during rain, with Stratoshock increasing this to +10% damage.
     -   Prerequisite: 35 Thundercall
@@ -4019,6 +4009,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).
     -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
+
+### Unique
+
+-   Precision Hunter - Your Basic Attack posture damage is increased by 15%.
+    -   Prerequisites: 15 Strength, 25 Heavy Weapons
 
 ## Other
 

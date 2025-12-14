@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 176701
+revid: 181044
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
@@ -165,6 +165,22 @@ Friid executes her opponent after knocking them:
 <tr>
   <td colspan="6">End</td>
   <td colspan="6">End</td>
+</tr>
+</tbody>
+</table>
+
+**Silentheart:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin</td>
+</tr>
+<tr>
+  <td colspan="12">Your Ether... Just what have you done?</td>
+</tr>
+<tr>
+  <td colspan="12">End</td>
 </tr>
 </tbody>
 </table>

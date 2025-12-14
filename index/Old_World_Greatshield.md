@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 179641
+revid: 181063
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -12,11 +12,12 @@ categories: [Weapons, Shields, Offhand]
 |---|---|
 | type | Shield |
 | requirements | 30 FTD |
-| special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
+| max posture | 5 |
+| special effect | Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Common |
 | selling price | 7 |
-| weight | 5 Posture |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

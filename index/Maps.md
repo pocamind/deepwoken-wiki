@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 172449
+revid: 181083
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing, Locations, Map]
@@ -10,7 +10,7 @@ categories: [Sailing, Locations, Map]
 
 ## Ingame Maps
 
-Deepwoken has ingame maps that you will permanently receive for free across all slots once talking to a Shipwright for the first time. These point out your current location, the location of allies, and most landmarks in the current map, as well as NPCs like Antiquarians or Smiths in your area. The map also shows cardinal directions.
+Deepwoken has ingame maps that you will automatically receive for free across all slots. These point out your current location, the location of allies, and most landmarks in the current map, as well as NPCs like Antiquarians or Smiths in your area. The map also shows cardinal directions.
 
 Landmarks are unblurred or unhidden as you visit them per-slot, and some (e.g. [Beloved Zofia](Beloved_Zofia.md), [Boatman's Watch](<Boatman's_Watch.md>), [Moons Eyrie](<Moon's_Eyrie.md>)) are in the [Voidsea](Voidsea.md) and thus not mapped at all.
 

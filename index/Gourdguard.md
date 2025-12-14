@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 179484
+revid: 181061
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
@@ -12,11 +12,12 @@ categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
 |---|---|
 | type | Shield |
 | requirements | 50 FTD |
-| special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
+| max posture | 7 |
+| special effect | Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

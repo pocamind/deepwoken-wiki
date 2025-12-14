@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 180021
+revid: 181084
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -11,14 +11,16 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | Master Hawk's Handaxe | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 75 HVY |
 | damage | 24 |
 | scaling | 10 |
+| posture damage | 10 |
 | range | 8.5 |
 | swing speed | 0.8x |
 | penetration | 5% |
 | chip damage | 25% |
-| special effect | Battle Frenzy - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character. |
+| talent | Battle Frenzy - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |
@@ -26,7 +28,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Rare |
 | selling price | 75 |
-| weight | 10 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

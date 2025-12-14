@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 180607
+revid: 181082
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Weapons with Talents]
@@ -11,13 +11,15 @@ categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Weapons with T
 | Warmonger | |
 |---|---|
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | 60 HVY, 30 STR |
 | damage | 22 |
 | scaling | HVY: 7 |
+| posture damage | 7 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| special effect | Pugnacious - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player. |
+| talent | Pugnacious - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Pale Morning |
@@ -25,7 +27,7 @@ categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Weapons with T
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Named |
 | selling price | 100 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

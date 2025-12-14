@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 180018
+revid: 181090
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -12,14 +12,16 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 |---|---|
 | alloyed name | Alloyed Steel Maul |
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | Base: 20 HVY, 10 STR, Alloyed: 75 HVY, 10 STR |
 | damage | 22 / 24 |
 | scaling | HVY: 7 / 8 |
+| posture damage | 7 |
 | range | 9 |
 | swing speed | 0.8x / 0.85x |
 | endlag | 0.1s |
 | penetration | 10% |
-| special effect | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage. |
+| talent | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Pale Morning |
@@ -27,7 +29,7 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Base, AlloyCommonLegendary |
 | selling price | 7 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

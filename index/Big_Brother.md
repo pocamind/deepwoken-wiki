@@ -1,6 +1,6 @@
 ---
 title: Big Brother
-revid: 180033
+revid: 181070
 source: https://deepwoken.fandom.com/wiki/Big_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Weapons with Talents]
@@ -11,19 +11,21 @@ categories: [Weapons, Daggers, Light Weapons, Weapons of The Central Authority, 
 | Big Brother | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 80 LHT |
 | damage | 15 |
 | scaling | LHT: 8 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.2x |
 | penetration | 15% |
-| special effect | Swift Strike - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents. |
+| talent | Swift Strike - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
 | rarity | Mythical |
 | selling price | ? |
-| weight | 4 |
+| weight | 2 |
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |

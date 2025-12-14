@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 180113
+revid: 181069
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
@@ -11,13 +11,15 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Acheron's Warspear | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | 40 MED |
 | damage | 18 + 2.7 BLD |
 | scaling | MED: 6 |
+| posture damage | 5 |
 | range | 9 |
 | swing speed | 0.93x |
 | penetration | 15% |
-| special effect | Vital Wound - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds. |
+| talent | Vital Wound - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |
@@ -25,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
 | selling price | ? |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

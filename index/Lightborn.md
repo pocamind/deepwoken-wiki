@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 177132
+revid: 181042
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -12,7 +12,7 @@ notices:
 
 | Lightborn | |
 |---|---|
-| obtained_by | Granted by a Developer |
+| obtained_by | Granted by a Developer / Random Chance Upon Creating Character |
 | appearance | White / Gold Halo(s), Fair-Skinned, Cross Pupils, White / Gold Hair, Default Variant:, Eye Color #0ad7ff, Hair Color #efefef, Sclera Color #ffffff, Skin Color #c7ac78Lightborn Variants (Color References), Gilgamesh Variant:, Eye Color #ff0004, Hair Color #efb838, Sclera Color #ffffff, Skin Color #c7ac78, Horror Variant:, Eye Color #d30000, Hair Color #ffffff, Sclera Color #ffffff, Skin Color #d6d3cb, Leafre Variant:, Eye Color #c61cf4, Hair Color #efefef, Sclera Color #ffffff, Skin Color #e5dfc6, Lewyn Variant:, Eye Color #88f498, Hair Color #83eeb3, Sclera Color #ffffff, Skin Color #c7ac78, Moros Variant:, Eye Color #ffffff, Hair Color #2f3035, Sclera Color #3b3b3b, Skin Color #bbb3b2, MrToons Variant:, Eye Color #ffffff, Hair Color #ffffff, Sclera Color #ffffff, Skin Color #c7ac78 |
 | traits | No Talent, +2 Strength, +2 Fortitude, +2 Agility, +2 Intelligence, +2 Willpower, +2 Charisma |
 
@@ -107,5 +107,6 @@ With the addition of the Echo Unlock: Multifaceted, Lightborn essentially gain 1
 -   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
 -   The runes inscribed on the halo roughly translate to:
     -   “Be the mysterious light the few who were chosen.”
+-   As of 14/12/2025, it is possible to obtain Lightborn when starting the vow of iron mode. It may have just been super rare on both modes, however I obtained it in VOI specifically, as shown in the image above.
 
 1.  [↑](#cite-ref-1) There is another surname, Moros, it is however only held by one rogue Lightborn.

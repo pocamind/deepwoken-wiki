@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 180030
+revid: 181073
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -11,13 +11,15 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Crucible Rapier | |
 |---|---|
 | type | Rapier |
+| damage type | Slash |
 | requirements | 75 LHT |
 | damage | 15 |
 | scaling | LHT: 8 |
+| posture damage | 5 |
 | range | 8 |
 | swing speed | 1.1x |
 | penetration | 20% |
-| special effect | Punishing Riposte - When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent. |
+| talent | Punishing Riposte - When parrying a guardbreak, enhance your critical for the next 4 seconds. If you land your crit on your opponent's block while it is enhanced, immediately guardbreak your opponent. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Apprentice Rapier |
@@ -25,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

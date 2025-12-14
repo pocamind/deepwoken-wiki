@@ -1,6 +1,6 @@
 ---
 title: Curse of Repulsion
-revid: 179241
+revid: 181038
 source: https://deepwoken.fandom.com/wiki/Curse_of_Repulsion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -19,7 +19,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of Repulsion is a buffing curse enchantment that drains your opponent's blood on hit.
+Curse of Repulsion is a buffing curse enchantment that pushes away your opponent on blocks.
 
 This enchantment changes your weapon's color to a glowing blue and gives it a Vent-like electricity particles.
 

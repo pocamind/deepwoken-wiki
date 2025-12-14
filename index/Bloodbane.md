@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 180982
+revid: 181071
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Talents]
@@ -11,13 +11,15 @@ categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Ta
 | Bloodbane | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 60 HVY, 30 STR |
 | damage | 20 |
 | scaling | HVY: 5 |
+| posture damage | 7 |
 | range | 9 |
 | swing speed | 0.8x |
 | endlag | 0.1s |
-| special effect | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds. |
+| talent | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -25,7 +27,7 @@ categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Ta
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Named |
 | selling price | 100 |
-| weight | 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

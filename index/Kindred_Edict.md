@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 180020
+revid: 181079
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -11,19 +11,22 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | Kindred Edict | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 50 MED, 30 BDY |
 | damage | 17 |
 | scaling | MED: 5, BDY: 4.5 |
+| posture damage | 4.5 |
 | range | 7.5 |
 | swing speed | 1.05x |
 | penetration | 10% |
-| special effect | Blitz - Increase how quick you release your Prominence Draw., Critical cooldown is cleared on hit and can be used multiple times., Applies Wither on critical if your Starkindred wings are out. |
+| talent | Blitz - Increase how quick you release your Prominence Draw. |
+| special effect | Critical cooldown is cleared on hit and can be used multiple times.Applies Wither on critical if your Starkindred wings are out. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | rarity | Rare |
 | selling price | 50 |
-| weight | 4.5 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

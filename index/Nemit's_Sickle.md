@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 180016
+revid: 181087
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -11,13 +11,15 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Mult
 | Nemit's Sickle | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 60 LHT |
 | damage | 11 |
 | scaling | LHT: 13 |
+| posture damage | 4 |
 | range | 6 |
 | swing speed | 1.25x |
 | penetration | 30% |
-| special effect | Curved Edge - Your light weapon mantras now gain 60% more chip. |
+| talent | Curved Edge - Your light weapon mantras now gain 60% more chip. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Nemit's Sickle |
@@ -25,7 +27,7 @@ categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Mult
 | stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
-| weight | 4 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

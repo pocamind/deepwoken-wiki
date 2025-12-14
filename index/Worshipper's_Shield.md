@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 179635
+revid: 181060
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -12,11 +12,12 @@ categories: [Weapons, Shields, Offhand]
 |---|---|
 | type | Shield |
 | requirements | 40 FTD |
-| special effect | Grants a flat amount of additional Posture based on the shield's weight stat. Posture recovery from parrying is reduced by 40%. |
+| max posture | 6 |
+| special effect | Posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Uncommon |
 | selling price | 45 |
-| weight | 6 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

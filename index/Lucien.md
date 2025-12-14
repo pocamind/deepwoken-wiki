@@ -1,6 +1,6 @@
 ---
 title: Lucien
-revid: 165856
+revid: 181072
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -16,7 +16,7 @@ categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 
 ## Description
 
-**Lucien** is an NPC located in the [Songseeker Wilds](Songseeker_Wilds.md) who grants the recipe to crafting [Iron Bombs](Iron_Bomb.md) through the [Quest](Talent_Quests.md) **Mineskipper Mayhem**.
+**Lucien** is an NPC located in the [Songseeker Wilds](Songseeker_Wilds.md) who grants the recipe to crafting [Iron Bombs](Iron_Bomb.md) through the [Quest](Talent_Quests.md) **Mineskipper Mayhem**. His hat is a heirloom from [Meemaw](Meemaw.md), who also survived Mineskippers with the same hat.
 
 ## Dialogue
 

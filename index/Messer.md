@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 180024
+revid: 181085
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
@@ -12,14 +12,16 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Wea
 |---|---|
 | alloyed name | Alloyed Messer |
 | type | Sword |
+| damage type | Slash |
 | requirements | 10 / 75 MED |
 | damage | 20 / 21 |
 | scaling | MED: 5 / MED: 6 |
+| posture damage | 6 / 7 |
 | range | 7.5 |
 | swing speed | 0.93x |
 | penetration | 15% |
 | chip damage | 15% |
-| special effect | Finishing Slay - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well. |
+| talent | Finishing Slay - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |
@@ -27,7 +29,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Wea
 | stances | 2 Handed, 1 Handed |
 | rarity | Base, AlloyCommonLegendary |
 | selling price | 7 |
-| weight | 6 / 7 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 180028
+revid: 181075
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
@@ -11,14 +11,16 @@ categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapon
 | Inquisitor's Greatsword | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 40 HVY, OR Authority Ensign |
 | faction | Authority |
 | damage | 23.5 |
 | scaling | HVY: 8.3 |
+| posture damage | 9 |
 | range | 9 |
 | swing speed | 0.84x |
 | endlag | 0.1s |
-| special effect | Sovereign's Counter - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent. |
+| talent | Sovereign's Counter - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -26,7 +28,7 @@ categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapon
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Rare |
 | selling price | 50 |
-| weight | 9 |
+| weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
