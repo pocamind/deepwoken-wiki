@@ -1,9 +1,9 @@
 ---
 title: Corrupted Pathfinder Elite
-revid: 181862
+revid: 181990
 source: https://deepwoken.fandom.com/wiki/Corrupted_Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Arms, Coats]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment]
 ---
 
 # Corrupted Pathfinder Elite

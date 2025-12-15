@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 177620
+revid: 181970
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]
@@ -132,3 +132,5 @@ Potential Rewards
 ## Trivia
 
 -   Jeremiah is able to give the player all of the Attribute rings besides the [Rosen's Ring](Equipment.md#rings).
+
+● In Vow Of Iron Jeremiah will give the player a memento for giving him every deep gem. (discovered by nyirisnotafrog)

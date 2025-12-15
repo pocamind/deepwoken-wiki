@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 181227
+revid: 182009
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -12,13 +12,15 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Crit
 |---|---|
 | alloyed name | Alloyed Halberd |
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 25 HVY / 75 HVY, OR Authority Ensign |
 | faction | Authority |
 | damage | 22 / 24 |
 | scaling | HVY: 7 / HVY: 8 |
 | posture damage | 5 / 6 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.8x |
+| attack duration | 0.8s |
 | penetration | 15% |
 | m.equip | Yes |
 | m.extract | Yes |

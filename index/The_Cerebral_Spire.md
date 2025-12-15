@@ -1,11 +1,11 @@
 ---
 title: The Cerebral Spire
-revid: 181713
+revid: 182090
 source: https://deepwoken.fandom.com/wiki/The_Cerebral_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
@@ -21,8 +21,14 @@ Your surroundings fold in on themselves, their absence forming the pillar that b
 
   
 
-The Cerebral Spire is a location in Deepwoken, exclusive to the Vow of Iron, serving as a safe-zone for players, where they cannot get damaged nor deal damage. In this zone there are 2 useful NPCs: Reclaimer of The Recollection and Azurath
+The Cerebral Spire is a Location in _Deepwoken_. It is exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
-While Azurath serves only as a chest-openner and an antiquarian, Reclaimer allows the players to progress through Vow of Iron for a fee of notes, Reclaimer can Power up the player five times, after so, players will hit a cap, to break through this barrier the player must defeat Shogun. (idk which one, TBA?)
+## Description
 
-On the other hand, Reclaimer also sells talents and mantras for a lower price.
+The Cerebral Spire serves as the main hub for players to power up and obtain abilities. Players are unable to take and deal damage while in this location.
+
+## Contents
+
+-   [Boundary](Boundary.md): Rifts allowing the player to teleport to and from the Cerebral Spire across the Luminant.
+-   [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md): A [Gremor](Gremor.md) who grants [Power](Power.md), [Talents](Talents.md), [Mantras](Mantras.md), as well as a guide to the power-up and progress.
+-   [Azurath](Azurath.md): A [Drakkard](Drakkard.md) who acts as the [Chest Master](Chest_Master.md).

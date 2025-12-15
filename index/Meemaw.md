@@ -1,12 +1,11 @@
 ---
 title: Meemaw
-revid: 181489
+revid: 182040
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Quests]
+categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Meemaw
@@ -86,14 +85,15 @@ Meemaw is a [Felinor](Felinor.md) NPC. She is the grandma of [Lucien](Lucien.md)
 </tr>
 <tr>
   <td>I took care of the mineskippers.</td>
-  <td>WIP</td>
+  <td>My apologies, ma'am. I am yet to purge the mineskippers.</td>
 </tr>
 <tr>
   <td><i>*She hoots and hollers with excitement.*</i> HAWWWWWW! Shucks, stranger, ain't you just sweet as molasses! Now, I'm a woman of my word, aren't I? So, here. My <i>best and finest</i> recipe: Iron Bombs! All it takes is two pieces of iron, and a piece of coal. Light the fuse, throw it at someone you don't like, and BOOM! That kinda cookin' will blow anyone away. Literally!</td>
-  <td>WIP</td>
+  <td>Shucks buster, young'un! Don't tarry now, y'hear? I've got somethin' special cooking for ya for all the trouble. Trust me, it'll be worth it!</td>
 </tr>
 <tr>
   <td>End, <a href="Iron_Bomb.md">Iron Bomb</a> recipe learned</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 181409
+revid: 181940
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -27,6 +27,8 @@ Aelita spawns one chest when you obey her commands. After completion, she says t
 She is the twin sister of [Tillian](Tillian.md). The two go by the name of the Siblings Arlekino.
 
 ## Event
+
+**NOTE:** If you are Vow Of Iron this event will always spawn Blizzard Knights!
 
 1.  _"Hey! It's cold up here, don't you agree? All the more reason to warm ourselves up with a game." ... "The game has two rules first being my words are absolute and lastly, ABSOLUTELY NO KILLING." ... "People come up here all the time... I wonder why they're always so disappointed to see me, everyone loves games, right? ... Anyway, I'm Aelita. Let's begin, shall we? "_
 2.  _"Use some of that magic you guys love.", or "Cast a mantra! Any mantra!"_

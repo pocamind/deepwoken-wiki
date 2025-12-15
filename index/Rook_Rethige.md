@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 177691
+revid: 182106
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Voidheart, The Knives of Eylis, Vendors]
@@ -183,3 +183,4 @@ This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) 
 
 -   He seemingly gives lore about his character, which is based on a tester.
 -   With the Two Faced [Regalia](Regalia.md) you can only buy either [Call of the Deep](Deepbound.md#call-of-the-deep) or the [Union Pager](Ignition_Delver.md), so choose wisely.
+-   He posses a [Ganymede](Ganymede.md) suname despite his aspect being a [Felinor](Felinor.md).

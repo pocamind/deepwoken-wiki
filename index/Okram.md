@@ -1,11 +1,11 @@
 ---
 title: Okram
-revid: 181588
+revid: 182060
 source: https://deepwoken.fandom.com/wiki/Okram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Okram

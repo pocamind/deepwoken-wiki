@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 181189
+revid: 182026
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | Enforcer's Axe | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 75 HVY, LVL 6 |
 | damage | 26 |
 | scaling | HVY: 9 |
 | posture damage | 8 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.76x |
+| attack duration | 0.9s |
 | penetration | 10% |
 | m.equip | No |
 | m.extract | No |

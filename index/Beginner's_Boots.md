@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 181876
+revid: 181949
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses,
 | rarity | Rare |
 | selling price | 25 |
 | weight | 1 |
-| innate stats | +1 Rare Pip |
+| innate stats | +5 Health, +1 Rare Pip |
 | innate talent | Safety First |
 | set | Beginner's Brace, Beginner's Boots |
 | set talent | Training Wheels |

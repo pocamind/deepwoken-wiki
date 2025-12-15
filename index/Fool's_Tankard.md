@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 181387
+revid: 181941
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -19,8 +19,8 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
 | swing speed | 1.24x |
 | m.equip | No |
 | m.extract | Yes |
-| m.crit | Clubs |
-| m.compatible | Yes |
+| m.crit | Mace |
+| m.compatible | Clubs |
 | stances | 1 Handed |
 | offhand | No |
 | rarity | Common |

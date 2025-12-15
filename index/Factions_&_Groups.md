@@ -1,6 +1,6 @@
 ---
 title: "Factions & Groups"
-revid: 174032
+revid: 182146
 source: https://deepwoken.fandom.com/wiki/Factions_%26_Groups
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -23,6 +23,7 @@ The primary and reputable factions in _Deepwoken_ include:
 | Faction | Description |
 | --- | --- |
 | [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) | Known as the Kingdom of Etrea, it occupies one half of the Eastern Luminant with the Isle of Vigils. It is temporarily ruled by [the Lord Regent](The_Lord_Regent.md). |
+| [Etrean Royalists](Etrean_Royalists.md) | Serving under the Kingdom of Etrea before they suffered under consisting of four great clans. These clans are known as Ganba, Mofisu, Kobura, and Anako. They only appear in the [Vow of Iron](Vow_of_Iron.md) Gamemode. |
 | [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) | A predominant military and political force run by Sovereign [Drallis Ehr.](Drallis_Ehr.md) The Authority is focused on uniting all of Lumen together in order to stand against [the Depths](The_Depths.md). In the Eastern Luminant, they are at war with Etrea and the Hundred Legions. |
 | [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md) | A division of the Markor Citadel that conducts expeditions into the Depths to study its nature and gather materials. |
 | [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md) | Operating on four Greathives of Lumen, they seek to rise above the Tides through their use of Lifeweave. |
@@ -39,6 +40,8 @@ Other factions that are not classified as primary and reputable but hold some pr
 | Faction | Description |
 | --- | --- |
 | [Songseeker](Songseeker.md) | Song worshippers, who wish to learn the ways of the [Old World](Timeline.md)'s Mantracasters. |
+| [The Golden Rats](The_Golden_Rats.md) | Warriors who don themselves in gold. |
+| The Chest Masters | Primarily Felinor, they are aficionados of lockpicking, capable of opening [Chests](Chests_&_Sacks.md) with precision. They keep their methods a secret, however. |
 | [The Covenant of Flame](The_Covenant_of_Flame.md) | A group of people worshipping [Amorus Pleeksty](Amorus_Pleeksty.md) as the pioneer of [Flamecharm](Flamecharm.md) and a [Deepwoken](Deepwoken.md). |
 | [The Citadel of Markor](The_Citadel_of_Markor.md) | The most prominent research organization in all of Lumen, occupying the Central Luminant alongside The Authority. |
 | [The Starkindred Church](The_Starkindred_Church.md) | A predominant power in the [Western Luminant](Luminants.md#western-luminant). They are zealous worshippers of the [Celestials](Celestial.md), using their Holy Ichor to prevent it from falling into the wrong hands. |

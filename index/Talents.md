@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 181819
+revid: 182125
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -80,7 +80,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't take up Talent slots.
 
 -   Innate
-    -   Talents obtained from your [Aspect](Aspects.md) or [Origin](Origins.md). These Talents do not take up Talent slots.
+    -   Talents obtained from your [Aspect](Aspects.md). These Talents do not take up Talent slots.
+
+-   Origin /
+    -   Talents obtained from your [Origin](Origins.md) or through the [Echoes](Echoes.md) mechanic. These Talents do not take up Talent slots.
 
 -   Faction
     -   Talents obtained from a specific faction. These Talents may be given as a reward from having high reputation or completing a specific milestone or task for a [faction](Reputation.md).
@@ -533,7 +536,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Berserker
 
--   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succumb to the burning rage within, nullifying your own armor in exchange for nullifying the armor of your foes on your Basic Attacks. Grants your Criticals +10% PEN while active.
+-   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succomb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
+    -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again. If you don't meet this Talent's requirements, you will not be able to deactivate it manually.
     -   When activated:
@@ -829,7 +833,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Charm Caster
 
--   Charismatic Cast \[Common Talent, Charisma\] - Landing mantras on enemies charms them reducing damage done to you, additionally any charmed allies will get up twice as fast after getting knocked out.
+-   Charismatic Cast \[Common Talent, Charisma\] - Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
     -   This charm lasts 10s (5s against Disbelief Talent).
     -   Targets _you've_ Charmed will deal 10% less damage to you.
     -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have Chaotic Charm if you wish to get use out of Charismatic Cast during ganks and other team fights.
@@ -1324,7 +1328,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Fang and Coil
 
--   Fang and Coil \[Common Talent\] - Adopt the path of the serpent.
+-   _Fang and Coil_ \[Common Talent\] - Adopt the path of the serpent.
     -   Allows you to use the [Fang and Coil](Fang_and_Coil.md) [fist style](Fists.md).
     -   Prerequisites: 20 Light Weapon, Friend [Etris](Etris.md) Reputation, defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and speak to [Vesque](Vesque.md).
 
@@ -1497,11 +1501,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Gale Kata
 
--   Imperium Kata \[Common Talent\] - Wield an advanced form of the Legion's martial arts.
+-   _Imperium Kata_ \[Common Talent\] - Wield an advanced form of the Legion's martial arts.
     -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md).
     -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)
 
--   Legion Kata \[Common Talent\] - Gain the ability to use the Legion's martial arts.
+-   _Legion Kata_ \[Common Talent\] - Gain the ability to use the Legion's martial arts.
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
     -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Rec in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE REC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
 
@@ -2061,7 +2065,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Justicar
 
--   Jus Karita \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+-   _Jus Karita_ \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Jus Karita](Jus_Karita.md) [fist style](Fists.md).
     -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 
@@ -2462,7 +2466,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Mutual Exclusive: Orbital Ice
         -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 
--   Way of Navae \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+-   _Way of Navae_ \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
     -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to the [Eastern Camp Master](Cheral.md) or [Eastern Nomad Leader](Eastern_Nomad_Leader.md).
 
@@ -4155,6 +4159,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This Talent has no cooldown, allowing you to apply multiple rods to a singular person.
         -   If a player has two or more Forced Fulfilment rods, they will not be able to move unless they have a speed boost.
 
+-   Fortify: [Frost Gauntlets](Frost_Gauntlets.md) - Slow down your movement in exchange for fortifying your defenses.
+
+-   Monster Slayer: [Darksteel Cleaver](Darksteel_Cleaver.md) - Deal 25% more damage to giant enemies.
+
+-   Night Night: [Night Star](Night_Star.md) - Uppercut attacks blind opponents for 15 seconds.
+
 -   Pugnacious: [Warmonger](Warmonger.md) - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.
     -   Gain various stacking buffs scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.
     -   On basic attack, gain +10% to the following stats: damage, posture damage, elemental damage resistance, physical damage resistance, chip damage, and speed boost per combat tag you have.
@@ -4166,16 +4176,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 15 seconds, making your critical guaranteed guardbreak if it hits block.
     -   The Punishing Riposte status effect lasts 15 seconds, though the Talent's description was never updated.
 
+-   Reverse Necrosis: [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Landing any mantra will now heal you based on how slow your opponent is.
+
 -   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown.
     -   Reduces the cooldown of Tactical Reload by 45 seconds; from 90 seconds to 45.
-
--   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
-    -   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.
-        -   If you are wearing the [Authority Commander](Authority_Commander.md) Outfit, the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
-    -   [Prediction](Attunement-less.md#prediction)'s active frames are increased slightly.
-    -   [Curse of the Unbidden](Curse_of_the_Unbidden.md) has its posture restoration increased by **10%**, restoring 40% of your posture instead of the usual 30%.
-    -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
-    -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
 
 -   Sacrificial Boon: [Ritual Sacrifice](Ritual_Sacrifice.md) - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae.
     -   Grants a Talent tool that consumes 5 on use to grant the user a random buff within a set pool.
@@ -4187,6 +4191,21 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Thirst restoration
         -   Stomach restoration
         -   Speed boost for 10 seconds
+
+-   Sadistic Split: Deathsplitter - Guardbreaking your opponent now heals you. The amount of this heal is based on how much insanity your character currently has.
+
+-   Shatter: [Icepick](Icepick.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs for 5 frost damage per debuff.
+    -   Landing a critical attack removes all speed debuffs your opponent has, dealing 5 Frostdraw damage per debuff.
+
+-   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
+    -   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.
+        -   If you are wearing the [Authority Commander](Authority_Commander.md) Outfit, the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
+    -   [Prediction](Attunement-less.md#prediction)'s active frames are increased slightly.
+    -   [Curse of the Unbidden](Curse_of_the_Unbidden.md) has its posture restoration increased by **10%**, restoring 40% of your posture instead of the usual 30%.
+    -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
+    -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
+
+-   Subzero: [Winter Rifle](Winter_Rifle.md) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
 
 -   Swift Strike: [Big Brother](Big_Brother.md) - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents.
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
@@ -4621,6 +4640,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Increases your dodge cooldown for both dodge types to 2.4 seconds regardless of your Thundercall investment.
 
 -   Way of the Wind: [Gale Master's Earrings](<Gale_Master's_Earrings.md>) - Being in the air for more than 0.5 seconds increases the speed of your mantra casts. This effect only lasts while you're in the air.
+
+-   Weather Resistant: [Extra Thick Overcoat](Extra_Thick_Overcoat.md) - Take 30% less damage when under less than ideal weather conditions.
 
 -   Withering Soul: [Darkened Bastion](Darkened_Bastion.md) - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.

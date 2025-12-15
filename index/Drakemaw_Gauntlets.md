@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 181270
+revid: 182033
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowti
 | Drakemaw Gauntlets | |
 |---|---|
 | type | Fist |
+| damage type | Slash |
 | requirements | 75 LHT |
 | damage | 15 + 2.3 BLD |
 | scaling | LHT: 8 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.1x |
+| attack duration | 0.5s |
 | penetration | 10% |
 | chip damage | 10% |
 | m.equip | No |

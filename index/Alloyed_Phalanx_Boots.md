@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Boots
-revid: 181902
+revid: 181946
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
@@ -16,7 +16,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | requirements | PWR 8 |
 | weight | 1 |
 | innate stats | +2 Rare Pips, +1 Legendary Pip |
-| innate talent | N/A |
+| innate talent | Alloyed Soles |
 | set | Alloyed Phalanx Plate, Alloyed Phalanx Boots |
 | set talent | N/A |
 | bankable | Yes |
@@ -34,4 +34,4 @@ This content is not accessible outside of this gamemode.
 
 Alloyed Phalanx Boots are an [Equipment](Equipment.md) item under the "**Legs**" category.
 
-The [Heavy Soles](Talents.md#heavy-soles) Talent reduces the duration of knockdown applied to you.
+The [Alloyed Soles](Talents.md#alloyed-soles) Talent reduces the duration of knockdown applied to you.

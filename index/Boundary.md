@@ -1,94 +1,98 @@
 ---
 title: Boundary
-revid: 181845
+revid: 182074
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Vow of Iron Exclusive, Mechanics]
 ---
 
 # Boundary
 
-Boundary is a ways for telport on the vow of iron
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
-List of what i found :
+## Description
 
-Meteor isle
+Boundaries are the way for the player to teleport in and out of [the Cerebral Spire](The_Cerebral_Spire.md) in [Vow of Iron](Vow_of_Iron.md). The player must enter the boundary to unlock it in [the Cerebral Spire](The_Cerebral_Spire.md).
 
-Meteor Isle Boundary
+3 Boundaries are unlocked from the start: [Meteor Isle](Meteor_Isle.md), [Aratel](Aratel_Island.md) wilderness and [Merit's Keep](Fort_Merit.md).
 
-Meteor isle map
+## List of boundaries
 
-Hidden Cave Boundary
+| Boundary | Png | Map Location |
+| --- | --- | --- |
+| Meteor Isle | 
+ | 
 
-Hidden Cave
+ |
+| Hidden Cave | 
 
-Hidden Cave map
+ | 
 
-Hive Cave Boundary
+ |
+| Merit's Keep | 
 
-Hive Cave
+ | 
 
-Hive Cave map
+ |
+| Aratel Temple | 
 
-Prison Tower Boundary
+ | 
 
-Prison Tower
+ |
+| Aratel Wilderness | 
 
-Prison Tower map
+ | 
 
-Aratel Temple Boundary
+ |
+| Hidden Authority Camp | 
 
-Aratel Temple
+ | 
 
-Aratel Temple map
+ |
+| Summer Abandoned Building | 
 
-Aratel Wilderness Boundary
+ | 
 
-Aratel Wilderness
+ |
+| Log | 
 
-Aratel Wilderness map
+ | 
 
-Hidden Authority Camp Boundary
+ |
+| Hive Statue | 
 
-Hidden Authority Camp
+ | 
 
-Hidden Authority Camp map
+ |
+| Miner Cave | 
 
-Summer Abandoned Building Boundary
+ | 
 
-Summer Abandonned Building
+ |
+| Legion ship | 
 
-Summer Abandoned Building map
+ | 
 
-log Boundary
+ |
+| Scarlet Citadel | 
 
-Log
+ | 
 
-Log map
+ |
+| The Indigo Estate | 
 
-Hive Statue Boundary
+ | 
 
-Miner Cave Boundary
+ |
+| Temple of Mur | 
 
-Trial Boundary
+ | 
 
-Legion Ship Boundary
+ |
+| Trial | 
 
-Hive Statue
+ | 
 
-Hive statue map
-
-I know its far form perfect but i just wanted to help if people looking for boundary
-
-Trial Boundary map
-
-Trial Boundary
-
-Legion Ship
-
-legion ship map
-
-  
-
-Miner Cave Map
-
-Miner Cave
+ |

@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 181330
+revid: 182004
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Spears, "Core-Attribute based weapons"]
@@ -13,10 +13,11 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | type | Greatsword |
 | requirements | 70 HVY, 30 MND |
 | damage | 20 + 3 BLD |
-| scaling | HVY: 7.5, MND: 2.5 |
+| scaling | HVY: 7, MND: 3 |
 | posture damage | 8 |
-| range | 10 |
+| range | 10 Sweep |
 | swing speed | 0.82x |
+| attack duration | 0.8s |
 | chip damage | 40% |
 | special effect | Has Spear animations |
 | m.equip | Yes |
@@ -52,4 +53,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   A part of the chef weapon set, along with [The Pastry Paster](The_Pastry_Paster.md) and [The Flippers of Fate](The_Flippers_of_Fate.md).
 -   The description reads _"Where's the crabbo SAUUUCE?"_ which is in reference to [a quote](https://www.youtube.com/watch?v=zOXDcGq7Ohg) from celebrity chef [Gordon Ramsay](https://en.wikipedia.org/wiki/Gordon_Ramsay) during an episode of American reality competition cooking show, _[Hell's Kitchen](<https://en.wikipedia.org/wiki/Hell%27s_Kitchen_(American_TV_series)>)_.
--   If you have 100 HVY and 103 MND (103 CHA, INT, or WLL) and 6 Proficiency you will achieve a total damage of 41 + [6.15 BLD](Status_Effects.md#bleed).
+-   If you have 100 HVY and 103 MND (103 CHA, INT, or WLL) and 6 Proficiency you will achieve a total damage of 41 + [6.16 BLD](Status_Effects.md#bleed).

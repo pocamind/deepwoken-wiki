@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 180606
+revid: 182014
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -13,6 +13,8 @@ Template:Creature Infobox V3
 ## Description
 
 **Parliament** is a Boss summoned via [The Vat](The_Vat.md), which is a dungeon accessible by [The Gaunt Man](The_Gaunt_Man.md). It heavily resembles the head of [The Nestmind](The_Nestmind.md), as its a [Deep Owl](Deep_Owl.md) with multiple heads.
+
+This Boss is also encountered as a potential trial when playing with the [Vow of Iron](Vow_of_Iron.md).
 
 ## Attacks
 

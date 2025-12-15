@@ -1,9 +1,9 @@
 ---
 title: Seon
-revid: 181788
+revid: 182037
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Seon is an [Etrean](Etrean.md) NPC. He plans to take down [The Lord Regent](The_Lord_Regent.md). Speaking to him for the first time will grant the player neutral [Reputation](Reputation.md) with the [Etrean Royalists](Etrean_Royalists.md)
+Seon is an [Etrean](Etrean.md) NPC. He plans to take down [The Lord Regent](The_Lord_Regent.md). Speaking to him for the first time will grant the player neutral [Reputation](Reputation.md) with the [Etrean Royalists](Etrean_Royalists.md).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 181934
+revid: 182003
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
@@ -17,3 +17,7 @@ This content is not accessible outside of this gamemode.
 Variants: [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
 Template:Creature Infobox V3
+
+## Tips
+
+It's possible to easily defeat Titus by luring him to a whirlpool. Titus will dash forward, likely into the whirlpool's range, and thus be sucked in, instantly killing him.

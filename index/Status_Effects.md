@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 179968
+revid: 182108
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -592,7 +592,7 @@ Gain +5% damage when your health is below 25%. This effect is applied through th
 
 Gain a 20% defense boost to all sources. Applied after knocking someone with the Talent [Brassneck](Talents.md#brassneck). Signified by a yellow hue surrounding your character upon being hit.
 
-### Berserking Rage
+### Berserk State
 
 At the cost of draining all of your armor, your M1s bypass your opponent's armor, additionally your Critical attacks gain +10% PEN. Deactivating the tool will replenish your armor and Natural Armor back to their previous values. Applied with the Talent [Berserk](Talents.md#berserk). Signified by your hair and eyes turning red and you gaining a red eye trail.
 

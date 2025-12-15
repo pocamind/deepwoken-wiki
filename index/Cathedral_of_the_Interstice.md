@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 181822
+revid: 182144
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -73,7 +73,7 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 </tr>
 <tr>
   <td>1-5</td>
-  <td><a href="Parliament.md">Parliament</a> (Heavily reduced hp), <a href="Bone_Keeper.md">Bone Keeper</a>, <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, or Lightning <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
+  <td><a href="Bone_Keeper.md">Bone Keeper</a>, or Lightning <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
 </tr>
 <tr>
   <td>6-10</td>

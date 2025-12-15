@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 181856
+revid: 182145
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Pages with broken file links]
@@ -10,27 +10,29 @@ notices:
 
 # Mementos
 
+Template:VowOfIronEX
+
 ## Mementos
 
 Mementos are an exclusive feature to the Vow of Iron. Mementos are sorta built-in builds in Vow of Iron, since they force you into a certain path (for example, Saint Jay forces you into Frostdraw), the player unlocks 5 mementos for free, which are being: Berserker, Flame Worshipper, Rogue Assasin, Saint Jay and Sightless. Other Mementos can be unlocked through various challenges within Vow of Iron.
 
 Each Memento has their own set memory missions.
 
+Mementos can equip any weapon in their category regardless of stats, but can only equip weapons of their categories.
+
 ## Berserker
 
-_"When confronted with a problem, their fist move was to get angry. Their second move was to hit it until it stopped being a problem"_
+_"When confronted with a problem, their first move was to get angry. Their second move was to hit it until it stopped being a problem"_
 
 **Final attributes**:
 
-30 BLD
-
-100 MED, 100 LHT, 100 HVY
-
-25 CHA, 75 STR, 50 FTD, 50 WLL
+-   30 BLD
+-   100 MED, 100 LHT, 100 HVY
+-   25 CHA, 75 STR, 50 FTD, 50 WLL
 
 **Final traits**:
 
-4 Vitality; 8 Proficency
+-   4 Vitality; 8 Proficency
 
 **Weapons allowed**: Greatsword, Fist, Greatcannon, Greathammer, Greataxe, Sword, Club Spear
 
@@ -48,15 +50,13 @@ _"Following in the steps of Pleeksty, they swore themselves to the flame within.
 
 **Final attributes**:
 
-100 flm
-
-80 med
-
-35 agl, 40 ftd, 70 wl, 70 int
+-   100 flm
+-   80 med
+-   35 agl, 40 ftd, 70 wl, 70 int
 
 **Final traits**:
 
-5 Songchant, 4 Proficiency
+-   5 Songchant, 4 Proficiency
 
 **Weapons allowed**: Shield, Sword, Club
 
@@ -70,15 +70,13 @@ _"Hallowed disciple of Faust, the Hero of frost; sworn foe of the traitorous Ure
 
 **Final attributes**:
 
-100 ICE
-
-75 HVY
-
-25 AGL, 80 FTD, 10 WLL, 40 STR
+-   100 ICE
+-   75 HVY
+-   25 AGL, 80 FTD, 10 WLL, 40 STR
 
 **Final traits**:
 
-7 Vitality; 1 Dexterity, 7 Songchant, 4 Erudition, 2 Proficiency
+-   7 Vitality; -1 Dexterity, 7 Songchant, 4 Erudition, 2 Proficiency
 
 **Resonance:** Preservation
 
@@ -88,17 +86,17 @@ _"Hallowed disciple of Faust, the Hero of frost; sworn foe of the traitorous Ure
 
 Unlocked by **default**.
 
+**Unique Talent(s):** (PWR0: X) Hitting a Frozen Opponent will lightly heal you.  
+
 ## Sightless
 
 _"Clinging to their clouded reality, they rejected the teachings of blindseers."_
 
 **Final attributes**:
 
-110 LHT
-
-40 AGL; 20 FTD ; 100 WLL ; 100 INT
-
-Murmur: Rhythm
+-   110 LHT
+-   40 AGL; 20 FTD ; 100 WLL ; 100 INT
+-   Murmur: Rhythm
 
 **Flaws**: Blind
 
@@ -110,13 +108,12 @@ Unlocked by **default**.
 
 **Final attributes**:
 
-125 LHT
-
-150 AGL; 30 WLL ; 25 INT ; 25 CHA
+-   125 LHT
+-   150 AGL; 30 WLL ; 25 INT ; 25 CHA
 
 **Final traits**:
 
-6 Dexterity ; 1 Vitality ; 8 Proficiency
+-   6 Dexterity ; 1 Vitality ; 8 Proficiency
 
 Unlocked by **default**.
 
@@ -126,17 +123,16 @@ Unlocked by **default**.
 
 **Final Attributes:**
 
-120 LHT
-
-5 AGL; 80 FTD ; 50 WLL ; 120 STR
+-   120 LHT
+-   5 AGL; 80 FTD ; 50 WLL ; 120 STR
 
 **Final traits**:
 
-7 Vitality ; 1 Dexterity ; 2 Songchant ; 2 Erudition ; 8 Proficiency
+-   7 Vitality ; 1 Dexterity ; 2 Songchant ; 2 Erudition ; 8 Proficiency
 
 **Resonance:** Wind-Up
 
-Unlocked by **killing Primadon, Titan of the East**
+Unlocked by **killing Primadon, Titan of the East solo**
 
 ## Theros Disciple
 
@@ -144,16 +140,36 @@ Unlocked by **killing Primadon, Titan of the East**
 
 **Final Attributes:**
 
-70 MED; 100 LHT
-
-45 AGL; 30 FTD; 100 STR
+-   70 MED; 100 LHT
+-   45 AGL; 30 FTD; 100 STR
 
 **Final traits:**
 
-7 Dexterity; 5 songchant; 1 vitality; 5 proficiency
+-   7 Dexterity; 5 songchant; 1 vitality; 5 proficiency
 
 **Weapons allowed:** Fist
 
 **Starting weapons:** Sovereign Bangle; Imperial staff; Imperator's Edge
 
 **Obtained from getting General Titus Juventius to 75%**
+
+## Drifter
+
+"The world moves. They move faster. no one saw the moment they decided it was over."
+
+**Final Attributes:**
+
+-   150 MED
+-   150 AGL; 20 FTD; 50 WILL; 100 STR; 25 CHA
+
+**Final Traits:**
+
+-   1 Vitality; 6 Dexterity; 7 Songchant; 3 Erudition; 8 Proficiency
+
+**Armor locked**
+
+**Weapons allowed:** Sword
+
+**Started Weapon:** Purple Cloud
+
+**Unlocked by:** Defeating any true King while sustaining no damage

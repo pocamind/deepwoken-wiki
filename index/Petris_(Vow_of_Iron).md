@@ -1,6 +1,6 @@
 ---
 title: Petris (Vow of Iron)
-revid: 181131
+revid: 182056
 source: https://deepwoken.fandom.com/wiki/Petris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs]
@@ -15,7 +15,7 @@ notices:
 |---|---|
 | name | Petris |
 | aspect | Etrean |
-| location | ? |
+| location | Boatman's Watch |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -24,6 +24,10 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Petris is a [Etrean](Etrean.md) NPC. He is an adventurer who explains the ritual on how to summon [The Ferryman](The_Ferryman.md).
+
+## Location
+
+Petris is located at the front of [Boatman's Watch](<Boatman's_Watch.md>).
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Ferenc
-revid: 181117
+revid: 182052
 source: https://deepwoken.fandom.com/wiki/Ferenc
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
@@ -15,7 +15,7 @@ notices:
 |---|---|
 | name | Ferenc |
 | aspect | Etrean |
-| location | ? |
+| location | Isle of Vigils |
 | affiliation | Etrean Royalists |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

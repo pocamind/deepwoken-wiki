@@ -1,6 +1,6 @@
 ---
 title: Yen
-revid: 181456
+revid: 182048
 source: https://deepwoken.fandom.com/wiki/Yen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
@@ -36,7 +36,7 @@ Yen is a [Etrean](Etrean.md) NPC. They accept a bribe for the [Etrean Royalists]
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The guard looks you up and down.*</i> Consider yourself lucky, stranger - you've got no business with me. But if you ever find yourself in a spot of trouble with the Royalists, the Old Guard... We may have something to talk about.</td>
 </tr>
 <tr>
   <td>End</td>
