@@ -1,9 +1,9 @@
 ---
 title: Blessed Nomad Pendant
-revid: 181493
+revid: 181885
 source: https://deepwoken.fandom.com/wiki/Blessed_Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces]
+categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
 ---
 
 # Blessed Nomad Pendant
@@ -23,6 +23,10 @@ categories: [Equipment, Torso, Necklaces]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

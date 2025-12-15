@@ -1,9 +1,9 @@
 ---
 title: "Trunk's Clutch Ring"
-revid: 181524
+revid: 181886
 source: https://deepwoken.fandom.com/wiki/Trunk's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings, Relics, Equipment Relics]
+categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 ---
 
 # Trunk's Clutch Ring
@@ -22,6 +22,10 @@ categories: [Equipment, Rings, Relics, Equipment Relics]
 | pass down | Yes |
 | obtainment | TBA |
 | description | Gain 75% more damage when at 20% health or lower. |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

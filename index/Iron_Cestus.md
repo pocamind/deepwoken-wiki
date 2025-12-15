@@ -1,6 +1,6 @@
 ---
 title: Iron Cestus
-revid: 181217
+revid: 181923
 source: https://deepwoken.fandom.com/wiki/Iron_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Fists, Light Weapons]
 | Iron Cestus | |
 |---|---|
 | type | Light Weapon |
-| requirements | Fist Style |
+| requirements | N/A |
 | damage | 13.5 |
 | scaling | LHT: 7.5 |
 | posture damage | 5 |

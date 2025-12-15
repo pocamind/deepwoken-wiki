@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 181536
+revid: 181934
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]

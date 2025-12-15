@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 181389
+revid: 181926
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -41,7 +41,7 @@ You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the
 ## Trivia
 
 -   The Handcuffs share the weapon quality bonus and [enchantment](Enchantments.md) of your normal weapon.
--   The critical of the Handcuffs is based on your [fist styles](Fists.md). If you do not have a fist style, it will default to [Way of Navae](Way_of_Navae.md).
+-   The critical of the Handcuffs is based on your [fist styles](Fists.md).
 -   While handcuffed, if you get knocked by any player (including yourself through self damage), you will be teleported back into the prison.
 -   You gain a perpetual PvE combat tag while the handcuffs are equipped.
 -   Despite your hands being bound, you can still pilot [Boats](Ships_&_Sailing.md) and use their cannons.

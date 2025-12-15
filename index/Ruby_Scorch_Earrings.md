@@ -1,9 +1,9 @@
 ---
 title: Ruby Scorch Earrings
-revid: 181705
+revid: 181906
 source: https://deepwoken.fandom.com/wiki/Ruby_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Ears]
+categories: [Vow of Iron Exclusive, Equipment, Ears]
 ---
 
 # Ruby Scorch Earrings
@@ -23,6 +23,10 @@ categories: [Equipment, Ears]
 | pass down | Yes |
 | obtainment | TBA |
 | description | Wearing these makes you feel a fire in your heart with every swing. |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

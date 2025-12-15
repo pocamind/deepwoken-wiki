@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 181242
+revid: 181924
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -41,7 +41,7 @@ Markor's Inheritor is a [Heavy Greatsword](Weapons.md) that requires 30 HVY and 
 
 ## Critical
 
-Markor's Inheritor will inherit the critical attack of your last used [Fist Style](Fists.md), allowing for a large amount of build diversity. If you have no fist style, it will default to Way of Navae.
+Markor's Inheritor will inherit the critical attack of your last used [Fist Style](Fists.md), allowing for a large amount of build diversity.
 
 Stats wise, these criticals are the same as their base fist variants, however they will have 12 base damage instead of utilizing your weapon's stats; these criticals will deal **very** low damage.
 

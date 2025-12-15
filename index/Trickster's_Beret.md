@@ -1,9 +1,9 @@
 ---
 title: "Trickster's Beret"
-revid: 181711
+revid: 181863
 source: https://deepwoken.fandom.com/wiki/Trickster's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Hats]
+categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
 ---
 
 # Trickster's Beret
@@ -23,6 +23,10 @@ categories: [Equipment, Head, Hats]
 | pass down | Yes |
 | obtainment | TBA |
 | description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,11 +1,9 @@
 ---
 title: Heliodar
-revid: 177128
+revid: 181794
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
-notices:
-  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
 ---
 
 # Heliodar
@@ -16,9 +14,13 @@ notices:
 | appearance | Orange skin with orange eyes, red hair and a orange glowing pendant., Default Variant:, Eye Color #ffffff, Hair Color #7c0000, Sclera Color #ffaa7f, Skin Color #bf6233, Tattoo Color #ffda6b, Eclipse Variant:, Description: For what if the Ash were to never return to flames?, Eye Color #ffee00, Hair Color #000000, Sclera Color #ffaa7f, Skin Color #bf8a64, Tattoo Color #000000, Variant ID 2, Scarlet Mark Variant:, Description: Rise from the ashes and be born again., Eye Color #ffffff, Hair Color #7c0000, Sclera Color #ffaa7f, Skin Color #bf6233, Tattoo Color #550000, Variant ID 2 |
 | traits | Heliodar Wings |
 
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+While for regular players this aspect is only for Vow of Iron, this aspect may be accessed outside of Vow of Iron only by Content Creators or other exclusive members.
+
 Rise from the ashes and be born again.
 
-Chance of obtaining aspect: **0%**
+Chance of obtaining aspect: **N/A** / **1%** (Vow of Iron)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Monastery Cowl
-revid: 176499
+revid: 181746
 source: https://deepwoken.fandom.com/wiki/Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Cowls]
@@ -35,4 +35,3 @@ The [Blade Dancer](Talents.md#blade-dancer) Talent removes your roll cooldown up
 ## Trivia
 
 -   The Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.
--   Using a [Bomb](Iron_Bomb.md) build with this **may** get you banned. Refer to Rule 2.2 (It's about graphic content) (this needs confirmation)

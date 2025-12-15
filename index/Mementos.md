@@ -1,11 +1,10 @@
 ---
 title: Mementos
-revid: 181576
+revid: 181856
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, In progress without reason, InProgressPages, Pages with broken file links]
+categories: [In progress without reason, InProgressPages, Pages with broken file links]
 notices:
-  - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
@@ -35,7 +34,9 @@ _"When confronted with a problem, their fist move was to get angry. Their second
 
 **Weapons allowed**: Greatsword, Fist, Greatcannon, Greathammer, Greataxe, Sword, Club Spear
 
-**Starting weapons**: iron cestus, mace, battleaxe, steel maul, zweihander
+**Starting weapons**:Iron Cestus, Mace, Battleaxe, Steel Maul, Zweihander
+
+Unlocked by **default**.
 
 File:BerserkerMemento.png
 
@@ -59,7 +60,9 @@ _"Following in the steps of Pleeksty, they swore themselves to the flame within.
 
 **Weapons allowed**: Shield, Sword, Club
 
-**Starting weapons**: worshiper
+**Starting weapons**: Worshipper
+
+Unlocked by **default**.
 
 ## Saint Jay
 
@@ -67,27 +70,27 @@ _"Hallowed disciple of Faust, the Hero of frost; sworn foe of the traitorous Ure
 
 **Final attributes**:
 
-100 ice
+100 ICE
 
-75 hvy
+75 HVY
 
-25 agl, 80 ftd, 10 wll, 40 str
+25 AGL, 80 FTD, 10 WLL, 40 STR
 
 **Final traits**:
 
-7 vitality; I dexterity, 7 songchant, 4 erudition, 2 proficiency
+7 Vitality; 1 Dexterity, 7 Songchant, 4 Erudition, 2 Proficiency
 
-**Resonance:**
-
-Preservation
+**Resonance:** Preservation
 
 **Weapons allowed**: Shield, Sword, Club
 
-**Starting weapons**: great maul, saint jay's, hero blade of frost
+**Starting weapons**: Great Maul, Saint Jay's Hammer, Hero's Blade of Frost
+
+Unlocked by **default**.
 
 ## Sightless
 
-"Clinging to their clouded reality, they rejected the teachings of blindseers."
+_"Clinging to their clouded reality, they rejected the teachings of blindseers."_
 
 **Final attributes**:
 
@@ -95,7 +98,11 @@ Preservation
 
 40 AGL; 20 FTD ; 100 WLL ; 100 INT
 
-**Flaws**: Blind ♿
+Murmur: Rhythm
+
+**Flaws**: Blind
+
+Unlocked by **default**.
 
 ## Rogue Assassin
 
@@ -111,6 +118,8 @@ Preservation
 
 6 Dexterity ; 1 Vitality ; 8 Proficiency
 
+Unlocked by **default**.
+
 ## Breaker
 
 "Skilled in fist-based conflict negotiations."
@@ -125,6 +134,26 @@ Preservation
 
 7 Vitality ; 1 Dexterity ; 2 Songchant ; 2 Erudition ; 8 Proficiency
 
-**Resonance:**
+**Resonance:** Wind-Up
 
-Wind-Up
+Unlocked by **killing Primadon, Titan of the East**
+
+## Theros Disciple
+
+"A disciples of Theros, the first Blightsurger - they carried his spark, trading purity for power."
+
+**Final Attributes:**
+
+70 MED; 100 LHT
+
+45 AGL; 30 FTD; 100 STR
+
+**Final traits:**
+
+7 Dexterity; 5 songchant; 1 vitality; 5 proficiency
+
+**Weapons allowed:** Fist
+
+**Starting weapons:** Sovereign Bangle; Imperial staff; Imperator's Edge
+
+**Obtained from getting General Titus Juventius to 75%**

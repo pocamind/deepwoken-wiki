@@ -1,24 +1,26 @@
 ---
 title: Lightborn
-revid: 181042
+revid: 181790
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
-notices:
-  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
 ---
 
 # Lightborn
 
 | Lightborn | |
 |---|---|
-| obtained_by | Granted by a Developer / Random Chance Upon Creating Character |
+| obtained_by | Granted by a Developer / 1% (Vow of Iron) |
 | appearance | White / Gold Halo(s), Fair-Skinned, Cross Pupils, White / Gold Hair, Default Variant:, Eye Color #0ad7ff, Hair Color #efefef, Sclera Color #ffffff, Skin Color #c7ac78Lightborn Variants (Color References), Gilgamesh Variant:, Eye Color #ff0004, Hair Color #efb838, Sclera Color #ffffff, Skin Color #c7ac78, Horror Variant:, Eye Color #d30000, Hair Color #ffffff, Sclera Color #ffffff, Skin Color #d6d3cb, Leafre Variant:, Eye Color #c61cf4, Hair Color #efefef, Sclera Color #ffffff, Skin Color #e5dfc6, Lewyn Variant:, Eye Color #88f498, Hair Color #83eeb3, Sclera Color #ffffff, Skin Color #c7ac78, Moros Variant:, Eye Color #ffffff, Hair Color #2f3035, Sclera Color #3b3b3b, Skin Color #bbb3b2, MrToons Variant:, Eye Color #ffffff, Hair Color #ffffff, Sclera Color #ffffff, Skin Color #c7ac78 |
 | traits | No Talent, +2 Strength, +2 Fortitude, +2 Agility, +2 Intelligence, +2 Willpower, +2 Charisma |
 
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+While for regular players this aspect is only for Vow of Iron, this aspect may be accessed outside of Vow of Iron only by Content Creators or other exclusive members.
+
 _The stars call you back..._
 
-Chance of obtaining aspect: **N/A**
+Chance of obtaining aspect: **N/A** / **1%** Vow of Iron
 
 ## Description
 

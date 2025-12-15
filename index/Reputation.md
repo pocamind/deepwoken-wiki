@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 181039
+revid: 181809
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -55,7 +55,7 @@ The player can track reputation shifts via status messages, which are as follows
 -   "Your actions anger \[Faction Name\]...": The player lost reputation
 -   "\[Faction Name\] has/have declared you their enemy!": The player's reputation dropped below 0, making them an enemy of the faction.
 -   "The perceived threat you pose against \[Faction Name\] has been reduced...": The player gained reputation through methods only available while being an enemy, such as dying to the specific faction or paying a bribe.
--   "\[Faction Name\] no longer sees you as worth fighting...": The player's reputation reached/went above 0 after being an enemy.
+-   "\[Faction Name\] no longer sees you as worth fighting...": The player's reputation reached/went above 0 after being an enemy. (Appears to only pop up after dying to said faction, making their reputation reach/surpass 0)
 
 The player can gain reputation with a faction by:
 

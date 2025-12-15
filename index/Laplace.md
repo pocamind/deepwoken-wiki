@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 177638
+revid: 181832
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Vendors, The Hive]
@@ -19,7 +19,7 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Vendors,
 
 Laplace is a Ganymede who wears the [Hive Drone](Hive_Drone.md) outfit with a [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>).
 
-Handing in three [Enchantments](Enchantments.md) will apply a random one on your currently equipped weapon. Additionally, for each Enchant you give to Laplace, the total amount is tallied
+Handing in three [Enchantments](Enchantments.md) will apply a random one on your currently equipped weapon. Additionally, for each Enchant you give to Laplace, the total amount is tallied.
 
 Requirements and Restrictions:
 

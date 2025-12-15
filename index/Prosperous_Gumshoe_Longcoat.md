@@ -1,9 +1,9 @@
 ---
 title: Prosperous Gumshoe Longcoat
-revid: 181724
+revid: 181908
 source: https://deepwoken.fandom.com/wiki/Prosperous_Gumshoe_Longcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Coats]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Coats]
 ---
 
 # Prosperous Gumshoe Longcoat
@@ -23,6 +23,10 @@ categories: [Equipment, Arms, Coats]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

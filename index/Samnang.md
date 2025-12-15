@@ -1,6 +1,6 @@
 ---
 title: Samnang
-revid: 181455
+revid: 181742
 source: https://deepwoken.fandom.com/wiki/Samnang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Quests, Clan Mofisu]
@@ -26,6 +26,10 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Samnang is a [Etrean](Etrean.md) NPC. His brother [Sophon](Sophon.md), is a sworn warrior for [Clan Mofisu](Clan_Mofisu.md).
+
+## Location
+
+Samnang is located against a rock ledge at [The Lordsgrove](The_Lordsgrove.md).
 
 ## Dialogue
 
@@ -79,7 +83,13 @@ Samnang is a [Etrean](Etrean.md) NPC. His brother [Sophon](Sophon.md), is a swor
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>You're back!.. But... My brother is not with you... Did you find out anything at all?..</td>
+</tr>
+<tr>
+  <td>I haven't been able to find him.</td>
+</tr>
+<tr>
+  <td>No?.. Please, I pray, keep looking for him... I will remain here, just in case he returns...</td>
 </tr>
 <tr>
   <td>End</td>

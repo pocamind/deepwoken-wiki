@@ -1,9 +1,9 @@
 ---
 title: "Depths Wanderer's Boots"
-revid: 181608
+revid: 181901
 source: https://deepwoken.fandom.com/wiki/Depths_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Legs, Boots]
+categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 ---
 
 # Depths Wanderer's Boots
@@ -23,6 +23,10 @@ categories: [Equipment, Legs, Boots]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

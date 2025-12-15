@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 179963
+revid: 181814
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -30,4 +30,6 @@ categories: [Equipment, Arms, Plates]
 
 The Enforcer Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Enforcer Set.
 
-The [Brassneck](Talents.md#brassneck) Talent grants 20% damage resistance for 15 seconds after knocking an enemy.
+## Trivia
+
+-   The Berserker Talent no longer functions due to it being renamed. As such, this equipment piece was left without its innate Talent.

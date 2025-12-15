@@ -1,0 +1,32 @@
+---
+title: Transfusion Ring
+revid: 181868
+source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Vow of Iron Exclusive, Equipment, Rings]
+---
+
+# Transfusion Ring
+
+| Transfusion Ring | |
+|---|---|
+| type | Ring |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | N/A |
+| weight | 0.1 |
+| innate stats | +20 Health, +1 Uncommon Pip |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
+| pass down | Yes |
+| obtainment | TBA |
+| description | Gain extra vitality at the cost of your ability to heal (receive 50% less healing). |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+**Purifying Ring** is a Ring [Equipment](Equipment.md) piece that increases your Health by 20 at the cost of halving all incoming healing.

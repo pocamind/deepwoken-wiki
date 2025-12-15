@@ -1,9 +1,9 @@
 ---
 title: Reinforced Authority Plate
-revid: 181534
+revid: 181858
 source: https://deepwoken.fandom.com/wiki/Reinforced_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
 ---
 
 # Reinforced Authority Plate
@@ -23,6 +23,10 @@ categories: [Equipment, Arms, Plates]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

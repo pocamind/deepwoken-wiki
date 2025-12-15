@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 181215
+revid: 181921
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Fists, Light Weapons]
 | Legion Cestus | |
 |---|---|
 | type | Fist |
-| requirements | 30 LHT + Fist Style |
+| requirements | 30 LHT |
 | damage | 15 |
 | scaling | LHT: 9 |
 | posture damage | 5 |

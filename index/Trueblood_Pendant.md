@@ -1,9 +1,9 @@
 ---
 title: Trueblood Pendant
-revid: 181690
+revid: 181897
 source: https://deepwoken.fandom.com/wiki/Trueblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Torso, Necklaces, Equipment with Set Bonuses]
+categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses]
 ---
 
 # Trueblood Pendant
@@ -25,6 +25,10 @@ categories: [Equipment, Torso, Necklaces, Equipment with Set Bonuses]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Trueblood Set
 

@@ -1,9 +1,9 @@
 ---
 title: Vapordrop Earrings
-revid: 181519
+revid: 181884
 source: https://deepwoken.fandom.com/wiki/Vapordrop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Ears]
+categories: [Vow of Iron Exclusive, Equipment, Ears]
 ---
 
 # Vapordrop Earrings
@@ -23,6 +23,10 @@ categories: [Equipment, Ears]
 | pass down | Yes |
 | obtainment | Nautilodaunt Officiate |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Bloodcurdle Mask
-revid: 181545
+revid: 181875
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Masks]
+categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
 ---
 
 # Bloodcurdle Mask
@@ -25,6 +25,10 @@ categories: [Equipment, Face, Masks]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Bloodcurdle Set
 

@@ -1,9 +1,9 @@
 ---
 title: Bloodcurdle Cowl
-revid: 181355
+revid: 181874
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Equipment with Set Bonuses, Hoods]
+categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses, Hoods]
 ---
 
 # Bloodcurdle Cowl
@@ -23,6 +23,10 @@ categories: [Equipment, Head, Equipment with Set Bonuses, Hoods]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Bloodcurdle Set
 

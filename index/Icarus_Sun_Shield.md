@@ -1,9 +1,9 @@
 ---
 title: Icarus Sun Shield
-revid: 181532
+revid: 181891
 source: https://deepwoken.fandom.com/wiki/Icarus_Sun_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Shields, The Hundred Legions, Offhand]
+categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offhand]
 ---
 
 # Icarus Sun Shield
@@ -24,6 +24,10 @@ categories: [Weapons, Shields, The Hundred Legions, Offhand]
 | pass down | Yes |
 | obtainment | General Titus Juventius |
 | description | The shields of Legion shieldbearers are often decorated with the visages of famous warriors they admire. |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

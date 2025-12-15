@@ -1,9 +1,9 @@
 ---
 title: Oni Mask
-revid: 181459
+revid: 181880
 source: https://deepwoken.fandom.com/wiki/Oni_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Masks]
+categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
 ---
 
 # Oni Mask
@@ -23,6 +23,10 @@ categories: [Equipment, Face, Masks]
 | pass down | Yes |
 | obtainment | TBA |
 | description | The demonic visage fills you with a mix of dread and glee. |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

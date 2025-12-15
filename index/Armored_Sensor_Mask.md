@@ -1,9 +1,9 @@
 ---
 title: Armored Sensor Mask
-revid: 181579
+revid: 181900
 source: https://deepwoken.fandom.com/wiki/Armored_Sensor_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Face, Masks]
+categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
 ---
 
 # Armored Sensor Mask
@@ -23,6 +23,10 @@ categories: [Equipment, Face, Masks]
 | pass down | Yes |
 | obtainment | TBA |
 | description | Despite its humble appearance this mask represents the current pinnacle of Markorian technology. |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 181717
+revid: 181845
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -71,6 +71,8 @@ Miner Cave Boundary
 
 Trial Boundary
 
+Legion Ship Boundary
+
 Hive Statue
 
 Hive statue map
@@ -80,6 +82,10 @@ I know its far form perfect but i just wanted to help if people looking for boun
 Trial Boundary map
 
 Trial Boundary
+
+Legion Ship
+
+legion ship map
 
   
 

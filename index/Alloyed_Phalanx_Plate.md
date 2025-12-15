@@ -1,9 +1,9 @@
 ---
 title: Alloyed Phalanx Plate
-revid: 181655
+revid: 181903
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Plates]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
 ---
 
 # Alloyed Phalanx Plate
@@ -25,6 +25,10 @@ categories: [Equipment, Arms, Plates]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

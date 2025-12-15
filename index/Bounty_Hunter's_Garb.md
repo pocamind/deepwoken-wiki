@@ -1,9 +1,9 @@
 ---
 title: "Bounty Hunter's Garb"
-revid: 181522
+revid: 181888
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Arms, Garbs]
+categories: [Vow of Iron Exclusive, Equipment, Arms, Garbs]
 ---
 
 # Bounty Hunter's Garb
@@ -23,6 +23,10 @@ categories: [Equipment, Arms, Garbs]
 | pass down | Yes |
 | obtainment | TBA |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
