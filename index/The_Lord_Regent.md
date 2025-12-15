@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 179324
+revid: 182186
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -396,6 +396,9 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 
 ## Trivia
 
+-   Zi'eer is voiced by Demstormz, also known as redpetal.
+    -   This would be his third Deepwoken character that he would voice, also recording lines for The Ferryman and Chaser's laugh.
+    -   Demstormz notes that he was brought on to record the lines only a few hours before the release of Vow of Iron. Regardless, the Deepwoken development team made effort to synchronize his voicelines to his attacks so that the voiceover would feel more natural.
 -   His throne produces steam.
 -   Talking directly to the Lord Regent while standing on the coral throne (so that he glows white, like all other npcs while talking to them) will result in you being executed by his Judgement.
     -   This occurs even while the player has the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).

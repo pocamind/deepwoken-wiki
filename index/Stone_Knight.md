@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 181047
+revid: 182211
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -12,13 +12,16 @@ categories: [Monsters, Knights]
 
 ― Celestial Telescope
 
+  
 Template:Creature Infobox V3
 
 ## Description
 
-Stone Knights, also known as Desert Knights or Sand Knights, are a type of Giant [Monster](Monsters.md) encountered primarily in [The Starswept Valley](The_Starswept_Valley.md).
+Stone Knights, also known as Desert Knights, Sand Knights, or Moss Knights, are a type of Giant [Monster](Monsters.md) encountered primarily in [The Starswept Valley](The_Starswept_Valley.md).
 
 Blizzard Knights are a far stronger version of the Stone Knight, spawning in a pack of 6 in [The Valley of Heroes](The_Valley_of_Heroes.md) during Winter, introduced as a trap by [Aelita](Aelita.md) telling you to "come back during the winter for more fun".
+
+Moss Knights are similar to Desert Knights, spawning in singles in [Bluster Rift](Bluster_Rift.md). This monster only spawns in [Vow of Iron](Vow_of_Iron.md).
 
 [Moon Knights](Moon_Knight.md) are stronger and contain a few unique moves. [Star Knight](Star_Knight.md) is almost the same, but instead is a [very rare encounter](Random_Encounters.md#resonant-dawn) that guaranteed drops an [Astral](Astral.md) [Enchant Stone](Enchant_Stone.md) and contains a meteorite that immediately grants a [Resonance](Resonance.md).
 
@@ -101,3 +104,4 @@ A Stone Knight executes the player:
 -   Blizzard Knights will under no circumstance fight a [Rogue Construct](Rogue_Construct.md), instead choosing to team up on you.
 -   The animations and model of the Stone Knight were overhauled on the January 11th, 2025 Update.
 -   Note: They are extremely likely to animation bug with attacks just being outright hidden at times.
+-   Certain Moss Knights are guaranteed to spawn within some locations of the Starswept and will guard their position, teleporting back if out of bounds.

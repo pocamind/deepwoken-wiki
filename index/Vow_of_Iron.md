@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 182130
+revid: 182175
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Paths, Character]
@@ -44,6 +44,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   Defeating enemies yield an item.
     -   ALL chests cannot be opened. They must be carried and brought to certain NPCs to be opened, yielding loot and large amount of notes, necessary to progress.
         -   Interacting with a chest will have you carry it in a sack on your shoulder. You can carry multiple chests at once, however, getting ragdolled will have you drop the sack.
+-   The depths have also changed, you can see the VOI depths here
 
 <table><caption>Teleporters (in order from left to right)</caption>
 <tbody>

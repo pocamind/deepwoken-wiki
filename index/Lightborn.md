@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 181790
+revid: 182191
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclu
 
 | Lightborn | |
 |---|---|
-| obtained_by | Granted by a Developer / 1% (Vow of Iron) |
+| obtained_by | Granted by a Developer / 1% Roll Chance (Vow of Iron) |
 | appearance | White / Gold Halo(s), Fair-Skinned, Cross Pupils, White / Gold Hair, Default Variant:, Eye Color #0ad7ff, Hair Color #efefef, Sclera Color #ffffff, Skin Color #c7ac78Lightborn Variants (Color References), Gilgamesh Variant:, Eye Color #ff0004, Hair Color #efb838, Sclera Color #ffffff, Skin Color #c7ac78, Horror Variant:, Eye Color #d30000, Hair Color #ffffff, Sclera Color #ffffff, Skin Color #d6d3cb, Leafre Variant:, Eye Color #c61cf4, Hair Color #efefef, Sclera Color #ffffff, Skin Color #e5dfc6, Lewyn Variant:, Eye Color #88f498, Hair Color #83eeb3, Sclera Color #ffffff, Skin Color #c7ac78, Moros Variant:, Eye Color #ffffff, Hair Color #2f3035, Sclera Color #3b3b3b, Skin Color #bbb3b2, MrToons Variant:, Eye Color #ffffff, Hair Color #ffffff, Sclera Color #ffffff, Skin Color #c7ac78 |
 | traits | No Talent, +2 Strength, +2 Fortitude, +2 Agility, +2 Intelligence, +2 Willpower, +2 Charisma |
 

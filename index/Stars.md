@@ -1,6 +1,6 @@
 ---
 title: Stars
-revid: 174997
+revid: 182195
 source: https://deepwoken.fandom.com/wiki/Stars
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lore, The Heavens]
@@ -16,9 +16,9 @@ There are 2 major stars, which orbit Lumen and stand out from all the others: [M
 
 ## List of named stars
 
-[Moonseye](Moonseye.md): Deepwoken's equialent of the moon. The Moonseye is a commonly used symbol in Deepwoken that represents the moon, but also life, death, and rebirth.[\[2\]](#cite-note-gauntlets-2)[\[3\]](#cite-note-glossary-moonseye-3) Unlike the moon in the real world - the Moonseye emits it's own light.[\[4\]](#cite-note-soothsayer-4) It is a very prominent figure in [the Moonlit Faith](The_Moonlit_Faith.md).[\[5\]](#cite-note-lake-5)[\[6\]](#cite-note-liviu-6)
+[Moonseye](Moonseye.md): Deepwoken's equivalent of the moon. The Moonseye is a commonly used symbol in Deepwoken that represents the moon, but also life, death, and rebirth.[\[2\]](#cite-note-gauntlets-2)[\[3\]](#cite-note-glossary-moonseye-3) Unlike the moon in the real world - the Moonseye emits it's own light.[\[4\]](#cite-note-soothsayer-4) It is a very prominent figure in [the Moonlit Faith](The_Moonlit_Faith.md).[\[5\]](#cite-note-lake-5)[\[6\]](#cite-note-liviu-6)
 
-[Suncross](Suncross.md): Deepwoken's equialent of the sun. The Suncross is an infrequently-used symbol in Deepwoken - particularly when compared to its counterpart, the [Moonseye](Moonseye.md). While the Suncross generally represents light, warmth and comfort - the star has been morphed to embody the [Celestials](Celestial.md).[\[4\]](#cite-note-soothsayer-4) It is a very prominent figure in [the Starkindred Faith](The_Starkindred_Church.md).[\[7\]](#cite-note-samael-7)
+[Suncross](Suncross.md): Deepwoken's equivalent of the sun. The Suncross is an infrequently-used symbol in Deepwoken - particularly when compared to its counterpart, the [Moonseye](Moonseye.md). While the Suncross generally represents light, warmth and comfort - the star has been morphed to embody the [Celestials](Celestial.md).[\[4\]](#cite-note-soothsayer-4) It is a very prominent figure in [the Starkindred Faith](The_Starkindred_Church.md).[\[7\]](#cite-note-samael-7)
 
 ## References
 

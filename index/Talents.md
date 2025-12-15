@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 182125
+revid: 182209
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2101,7 +2101,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Blade's Edge \[Common Talent\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
--   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% PEN for 3 seconds.
+-   Defensive Sweep \[Common Talent\] \[Spears\] - Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
     -   Prerequisites: 50 Medium Weapon, Using a spear
 
 -   Driving Impact \[Common Talent\] \[Spears\] - The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.

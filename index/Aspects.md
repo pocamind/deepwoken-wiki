@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 180442
+revid: 182165
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects, Character, Mechanics, Creation]
@@ -30,7 +30,11 @@ If you had a hairstyle modified when creating your character or from the Barber 
 
 These aspects are obtainable by any player via rerolling.
 
-The percent chance of rolling a aspect changes per roll- given that you CANNOT roll the same aspect twice. The percentages listed below show what the chances would be upon initially purchasing the game:
+The percent chance of rolling a aspect changes per roll- given that you CANNOT roll the same aspect twice. The percentages listed below show what the chances would be upon initially purchasing the game.
+
+### Pathfinder
+
+The following table lists the rates that Aspects can be rolled in Pathfinder.
 
 | **Aspect** | **Percentage** | **Aspect** | **Percentage** |
 | --- | --- | --- | --- |
@@ -44,7 +48,25 @@ The percent chance of rolling a aspect changes per roll- given that you CANNOT r
 
   
 
-## Exclusive Aspects
+### Vow of Iron
+
+The following table lists the rates that Aspects can be rolled in [Vow of Iron](Vow_of_Iron.md). Of these Aspects, [Drakkard](Drakkard.md), [Heliodar](Heliodar.md), [Lightborn](Lightborn.md), and [Levit](Levit.md) are \*only\* obtainable in this gamemode. Those that have them in Pathfinder servers have been given them by developers.
+
+| **Aspect** | **Percentage** | **Aspect** | **Percentage** |
+| --- | --- | --- | --- |
+| **[Adret](Adret.md)** | 14.17% | **[Celtor](Celtor.md)** | 14.17% |
+| **[Etrean](Etrean.md)** | 14.17% | **[Canor](Canor.md)** | 14.17% |
+| **[Khan](Khan.md)** | 7.27% | **[Tiran](Tiran.md)** | 6.3% |
+| **[Ganymede](Ganymede.md)** | 6.3% | **[Kiron](Kiron.md)** | 6.3% |
+| **[Capra](Capra.md)** | 6.3% | **[Gremor](Gremor.md)** | 4.72% |
+| **[Felinor](Felinor.md)** | 3.15% | **[Vesperian](Vesperian.md)** | 2.36% |
+| **[Chrysid](Chrysid.md)** | 1.57% | **[Lightborn](Lightborn.md)** | 0.79% |
+| **[Heliodar](Heliodar.md)** | 0.79% | **[Drakkard](Drakkard.md)** | 0.79% |
+| **[Levit](Levit.md)** | 0.79% |
+
+  
+
+## Exclusive Aspect Variants
 
 These aspects are **UNOBTAINABLE** via ordinary means. They instead serve as gifts to certain members of the community, given by the developers of _Deepwoken_.
 

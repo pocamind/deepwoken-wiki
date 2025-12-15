@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 182123
+revid: 182179
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -55,14 +55,14 @@ The Shogun Captain is required to be killed in order to power up past Power 5. I
 
 **Blue Highlighted slash**
 
- | When **Shogun Captain** highlights blue, it will have a long windup, afterwards it will do one hefty slash to the player. You have to crouch to avoid this attack.
+ | When **Shogun Captain** highlights blue, it will have a long windup, afterwards it will do one hefty slash to the player.
 
  |  |
 | 
 
 **White Highlighted Stomp**
 
- | When **Shogun Captain** highlights white, it will do a stomp. You have to jump in order to avoid this attack. It will always follow up with 2 regular slashes, and then end with another white highlighed move you need to jump over.
+ | When **Shogun Captain** highlights white, it will do a stomp. You have to jump in order to avoid this attack. It will always follow up with 2 regular slashes which you need to parry, and then end with another white highlighed move you need to jump over.
 
  |  |
 
@@ -76,7 +76,7 @@ Its attacks are in a random order, so it's best to keep an eye on which move he 
 
 The sixth letter of the alphabet is F. By pressing it, you initiate something called a parry. Use this to your advantage when fighting as **Shogun's** attacks do a hefty amount of damage.
 
-He parry ranged attacks, so no cheese for today
+You can use range attacks while **Shogun** attacks this won't be parried by him.
 
 ## Trivia
 

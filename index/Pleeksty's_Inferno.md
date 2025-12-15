@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 181314
+revid: 182214
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals]
@@ -29,7 +29,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weap
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Aska |
+| obtainment | Pathfinder: Aska Vow of Iron: Saramaed Summit |
 | description | In the Tiran homelands, weapons are often fashioned using knapped volcanic glass like obsidian. Though brittle, the prismatic blades embedded in the sides are sharper than any blade of metalwork. Following the ascent of Amorus Pleeksty and his Pioneering of Flamecharm, many Tirans worked floral patterns into their Macuahuitls in reverence of the Deepwoken. Of these Macuahuitls, this particular specimen was a gift to Pleeksty himself, imbued with the eruptive and scorching heat of magma, and fit only to be wielded by those who truly walk in his footsteps. |
 
 ## Description
@@ -41,6 +41,8 @@ It is not able to be banked and is not droppable, being permanently bound to the
 Pleeksty's Inferno will apply burn on hit if you are wearing the [Simmerbloom Diadem](Simmerbloom_Diadem.md).
 
 ## Obtainment
+
+### Pathfinder (Normal mode)
 
 The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
@@ -55,6 +57,10 @@ The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) 
 6.  Fight [Aska](Aska.md) and defeat him. If you do not meet the requirements, you will be killed immediately through burning and wipe.
 
 Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
+
+### Vow of Iron (Hardcore mode)
+
+Pleeksty's Inferno can be found stuck in a rock at Saramaed Summit; recommended to grab it if you're using the [Flame Worshipper](Mementos.md#flame-worshipper) Memento, since the Memento's final attributes are min-maxed to be perfect with the weapon
 
 ## Critical
 
