@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 181936
+revid: 182270
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -29,7 +29,7 @@ categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | If you go into the back corner behind the ministry base at Trial of One and hug the wall, you can go under Trial of One, and this is just sitting there |
 | description | One of Rosen's lesser-known prototypes, this rifle uses a manner of mysticism unbecoming of the mechanical genius. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

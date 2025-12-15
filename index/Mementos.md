@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 182234
+revid: 182345
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Vow of Iron Exclusive, Pages with broken file links]
@@ -190,7 +190,9 @@ Rogue Assassin starting Outfit ([Inquisition Light](Inquisition_Light.md))
 
 -   7 Vitality ; 1 Dexterity ; 2 Songchant ; 2 Erudition ; 8 Proficiency
 
-**Weapons allowed:** Any (?)
+**Weapons allowed:** Fists
+
+**Your Outfit is locked for this Memento**
 
 **Resonance:** Wind-Up
 
@@ -273,7 +275,7 @@ _**"Defeat any true King while sustaining no damage"**_
 
 **Unlocked by:** Defeating any progression boss whilst sustaining no damage
 
--   **Progression bosses include**: [Shogun Captain](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), The Rat King and others (Not sure who else is a progression boss, haven't beaten shogun yet, sorry)
+-   **Progression bosses include**: [Shogun Captain](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), The Rat King and [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 ## Strange Merchant
 
@@ -303,7 +305,7 @@ Strange Merchant Memento (Currently does not have an engraving)
 
 **Starting weapon:** Vortex Echo
 
-**Unlocked by:** Spending 15k - 100k at the various mystery boxes
+**Unlocked by:** Spending a total of 31,500 notes at the various mystery boxes in one prog.
 
 -   **The locations of the mystery boxes that have been found so far are:**
     -   Behind the Songseeker church
@@ -343,11 +345,9 @@ Flashing Thunder Memento
 
 **Weapons allowed:** Any
 
-**Starting weapon:** Katana (?) (Those who have this Memento, feel free to insert the starting weapon/s)
+**Starting weapon:** Shattered Katana
 
 **Unlocked by:** Soloing The Rat King as a Sightless.
-
-  
 
 ## Iron Vessel
 
@@ -369,6 +369,6 @@ Iron Vessel Memento (Currently does not have an engraving)
 
 **Weapons allowed:** Sword, Club, Dagger
 
-**Starting weapon:** Unknown (Those who have this Memento, feel free to insert the starting weapon/s)
+**Starting weapon:** Ferractine
 
 **Unlocked by:** Defeating the [Shogun Captain](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)

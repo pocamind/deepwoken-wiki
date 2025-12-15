@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 181262
+revid: 182318
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]
@@ -11,11 +11,12 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | Stormseye | |
 |---|---|
 | type | Rifle |
+| damage type | Slash |
 | requirements | 40 MED, 75 LTN |
 | damage | 18.5 |
 | scaling | MED: 3, LTN: 6 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
 | special effect | On flourish, fire a shockwave that stuns and pushes opponents back. 10s CD.Applies Thundercall Talents. Aerial attacks will teleport you to the enemy. |
 | m.equip | No |

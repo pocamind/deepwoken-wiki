@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 176893
+revid: 182269
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -25,6 +25,10 @@ Adret are a common [aspect](Aspects.md) that have blue skin with orange eyes and
 
 ## Traits
 
+**Pathfinder:**
+
+  
+
 <table>
 <tbody>
 <tr>
@@ -44,6 +48,28 @@ Adret are a common [aspect](Aspects.md) that have blue skin with orange eyes and
   <ul>
     <li>+3 Charisma</li>
     <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+**Iron Vow:**
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Largent</b>
+  <ul>
+    <li><i>"Your diplomatic skills extend into your ability to barter. Gain 100 extra notes when turning in a sack."</i>
+  <ul>
+    <li>The description is outdated. When turning in a sack of chests, gain 300 extra notes.
+  <ul>
+    <li>[I'd like someone to test if its 300 per chest, or per sack.]</li>
+  </ul></li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>

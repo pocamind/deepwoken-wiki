@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 182108
+revid: 182308
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,6 +26,10 @@ This effect happens when you are low on thirst/stomach. When this occurs, your v
 
 This effect happens once your blood bar is below 5%, causing your stomach and thirst meters to rapidly drain in order to sustain yourself. Your health will also rapidly deteriorate. If you have enough food and thirst, you can stabilize yourself, but if not you will eventually die from starvation/dehydration. If you are swimming while below 50% health in this state, you will instantly be knocked and will drown. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
 
+### Unconcious
+
+Applied once you reach 0 health. Unless specified by an ability, being Unconscious prevents all actions. Unconscious characters can be executed or [Carried](#carried). Unconscious lasts 10 seconds, but it can be reduced by having the [Perseverance](Talents.md#perseverance) and [Defiance](Talents.md#defiance) Talents.
+
 ### Speed Boost
 
 Speed boosts are one of Deepwoken's core status effects, being responsible for a lot of Talent effects and being very important for the core combat loop, especially in PvP. Speed boosts are simply a movement speed increase, with the effectiveness and duration of the speed boost depending on the source. The way the movement speed increase from speed boosts are applied is not standardized. Some speed boost give you a flat increase to your studs per second, some increase your movement speed by a percentage, and some do both of these. There is little consistency to be found.
@@ -38,7 +42,7 @@ Mobility buffs are very similar to speed boosts, being a movement speed increase
 
 ### Ragdoll
 
-While ragdolled, you gain slight damage reduction at the cost of losing control of your character entirely, though this status effect can be ended early by pressing Feint (M2). Ragdoll is applied through various sources and is signified by your character going limp.
+While ragdolled, you gain slight damage reduction at the cost of your character going limp and being able to perform most actions. This status effect can be ended early, in most cases, by pressing Feint (M2), though some sources of ragdoll cannot be ended early. Ragdoll is applied through various sources and is signified by your character going limp.
 
 ### Knockdown
 
@@ -189,7 +193,7 @@ These status effects are applied by some or all [Mantras](Mantras.md) of a certa
 
 ### Winded
 
-This effect can be applied by being hit with [Galebreathe](Galebreathe.md) Mantras or [Galeforce](Monsters.md#attuned-monsters) monsters, it reduces your attack speed for its duration. Signified by green (white if the user has Specter Path) spirals on your character.
+Winded reduces your swing speed by 10%. This effect can be applied by being hit with [Galebreathe](Galebreathe.md) Mantras or [Galeforce](Monsters.md#attuned-monsters) monsters. Signified by green (white if the user has Specter Path) spirals on your character.
 
 ### Suffocate
 
@@ -530,7 +534,7 @@ Gain 90% damage reduction at the cost of being ragdolled and not being able to m
 
 These status effects are applied as the effect of certain [Talents](Talents.md).
 
-### Charm
+### Charmed
 
 Deal 10% less damage to the player who Charmed you, signified by hearts floating around the character's head. Charm duration is based on the source of the Charm, ranging from 2 seconds to 20 depending on what procced it. Having the [Disbelief](Talents.md#disbelief) Talent halves Charm's duration. Charm can gain many additional effects through a variety of Talents that augment your Charm status such as [Tough Love](Talents.md#tough-love), [Cult of Personality](Talents.md#cult-of-personality), [Target Focus](Talents.md#target-focus), and [Sharing is Caring](Talents.md#sharing-is-caring).
 

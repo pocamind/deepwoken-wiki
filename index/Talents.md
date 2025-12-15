@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 182209
+revid: 182347
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -480,9 +480,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
     -   Prerequisite: 5 Fortitude
 
--   Perseverance \[Common Talent, Fortitude\] - When you're knocked down, you get back up again more quickly. (+5 Sanity)
-    -   Reduces time knocked by 25% with no cooldown.
-        -   Can stack with other Talents to reduce knock time even further. (Ex. Defiance)
+-   Perseverance \[Common Talent, Fortitude\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdolled) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
+    -   This can stack with other Talents to reduce knock time even further. (Ex. Defiance)
     -   Prerequisites: 30 Fortitude, 30 Willpower
         -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
 
@@ -545,6 +544,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
         -   Padded Armor, Steel Scales, and Lightweight are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
         -   You benefit from Exposed Durability's 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
+    -   The color of the eye glow is [dyable](Dye_Packet.md).
     -   Prerequisite: 80 Strength
 
 ### Bladeharper
@@ -857,7 +857,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   If you do not meet Lasting Charisma's investment requirement, the additional Charm duration will be reduced, losing 0.166s for every point of Charisma you have under 55, capping at a minimum of 15.83 seconds of Charm with 30 Charisma.
     -   Prerequisites: 55 Charisma, Charismatic Cast
 
--   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies charmed by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you charms them briefly.
+-   Tough Love \[Common Talent, Charisma\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charmed](Status_Effects.md#charm) briefly.
     -   Charms for 2 seconds with a 1 second cooldown.
     -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
     -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
@@ -1700,7 +1700,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Human Architecture
 
--   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely unconscious. (+5 Health, +2 posture)
+-   _**Brick Wall**_ \[Advanced Talent\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious.](Status_Effects.md#unconscious) (+5 Health, +2 posture)
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
         -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
         -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
@@ -1709,7 +1709,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   If you do not have 100 Fortitude and Willpower, instead, reduce Knockdown duration.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
--   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when knocked. 60s CD.
+-   _Mythic Stability_ \[Rare Talent\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious.](Status_Effects.md#unconscious) 60s CD.
     -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.
     -   Prerequisites: 85 Fortitude
 
@@ -2284,7 +2284,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Meditative Trance
 
--   _Impervious Slumber_ \[Rare Talent\] - Getting hit while knocked no longer resets your time knocked.
+-   _Impervious Slumber_ \[Rare Talent\] - Getting hit while [Unconscious](Status_Effects.md#unconscious) no longer resets your time [Unconscious.](Status_Effects.md#unconscious)
     -   Prerequisite: 35 Fortitude
 
 ### Mental Fortress
@@ -3283,7 +3283,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Any Talent or Mantra that **applies** suffocation will have the status effect replaced with a Haunted Phantom.
     -   Prerequisites: Haunted Gale, 50 Galebreathe
 
--   Apparitions \[Common Talent, Galebreathe Exclusive\] - Your Haunted Phantoms become Apparitions that apply Winded on hit. Apparitions cannot be parried if you are in Phantom Step.
+-   Apparitions \[Common Talent, Galebreathe Exclusive\] - Your Haunted Phantoms become Apparitions that apply [Winded](Status_Effects.md#winded) on hit. Apparitions cannot be parried if you are in [Phantom Step](Status_Effects.md#phantom-step).
     -   Apparitions can be parried in "Phantom step" (Possibly a bug)
     -   Prerequisites: Haunted Path: Specter, 50 Galebreathe
 
@@ -4406,7 +4406,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   You cannot use Air Counter or [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
     -   Heartwing Beat has a 6 second cooldown.
 
--   Helion Shift: [Oni Mask](Oni_Mask.md) - The more insane you are the more iframes you gain on your dodge.
+-   Hellion Shift: [Oni Mask](Oni_Mask.md) - The more insane you are the more iframes you gain on your dodge.
 
 -   Heretic's Sacrifice [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) - A chat that heavily sacrifices your sanity to regain a bit of health.
     -   Grants a Talent tool that drains a significant amount of sanity to heal 20 raw health.
@@ -4524,6 +4524,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a Talent tool that can only be used while under 50% health.
     -   Grants a 25% damage buff for the duration of the buff.
     -   The health highlight on hit effect is very similar to [Soulbreaker's](Oath%253A_Soulbreaker.md) Heart Reverb Talent.
+
+-   Pyreborne: [Emberseal Pendant](Emberseal_Pendant.md) - Your Flamecharm mantras have all stats amplified
 
 -   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.
 

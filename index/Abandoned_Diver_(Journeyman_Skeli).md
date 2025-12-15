@@ -1,6 +1,6 @@
 ---
 title: Abandoned Diver (Journeyman Skeli)
-revid: 180642
+revid: 182268
 source: https://deepwoken.fandom.com/wiki/Abandoned_Diver_(Journeyman_Skeli)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the First Floor of the Second Layer, Members of Diver expeditions to the Second Layer, Deceased characters]
@@ -28,7 +28,7 @@ Skeli suspected that foul play was involved, and partially blamed Klaris for the
 
 At one point, Skeli spoke with [Apprentice Hero](<Mauled_Diver_Corpse_(Apprentice_Hero).md>) and told them about [the Frontier Furnace](The_Frontier_Furnace.md)'s location.[\[3\]](#cite-note-journal-iii-3)
 
-Eventually, Skeli died and their lifeless corpse was left to freeze in the wastes. The abandoned Diver corpse, still carrying Skeli's journal, can be found by the player. They able to pocket the [Diver Journal, II](Diver_Journal,_II.md) left behind by the corpse and turn it in to Klaris Llfiend for the [Deepshore Fossil](Deepshore_Fossil.md).
+Eventually, Skeli died and their lifeless corpse was left to freeze in the wastes. The abandoned Diver corpse, still carrying Skeli's journal, was later found by the Pathfinder. They able to pocket the [Diver Journal, II](Diver_Journal,_II.md) left behind by the corpse and turn it in to Klaris Llfiend for the [Deepshore Fossil](Deepshore_Fossil.md).
 
 ## Dialogue
 

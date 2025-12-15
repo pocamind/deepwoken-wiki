@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 177014
+revid: 182264
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -24,6 +24,10 @@ Chance of obtaining aspect: **15%**
 Etreans are described as snake-like people, who commonly have pale skin, and slit eyes. They are the most common [aspect](Aspects.md), and can be found most commonly at [Etris](Etris.md). Etreans get an Agility and Intelligence bonus upon selection, as well as some resistance to negative and poison effects, at the cost of shorter positive effects. Etreans are commonly depicted as being Xenophobic and intolerant of the ways of other aspects and areas.
 
 ## Traits
+
+**Pathfinder:**
+
+  
 
 <table>
 <tbody>
@@ -49,7 +53,24 @@ Etreans are described as snake-like people, who commonly have pale skin, and sli
 </tbody>
 </table>
 
+**Iron Vow:**
+
   
+
+<table>
+<tbody>
+<tr>
+  <td><figure>File:Molt.png<figcaption></figcaption></figure></td>
+  <td><b>Tailor Made</b>
+  <ul>
+    <li><i>"These were specifically made for your kind. Etris Flasks now heal you 10% more than usual."</i>
+  <ul>
+    <li>Etris flasks now heal 40% HP.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
 
 **Lore:**
 

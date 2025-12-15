@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 182132
+revid: 182246
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
@@ -19,11 +19,11 @@ This content is not accessible outside of this gamemode.
 
 “ Hallowed disciple of Faust, the Hero of frost; sworn foe of the traitorous Urek. A spirit of justice once concealed by ice. ”
 
-―
+― In-game Description
 
 ## Overview
 
-Saint Jay is a playable [memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) game mode, It follows in the path of the hero of frost, faust and is unlocked by default.
+Saint Jay is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode, It follows in the path of a disciple of the Hero of Frost, Faust and is unlocked by default.
 
 ## Attributes
 

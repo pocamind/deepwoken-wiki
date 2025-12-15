@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 181176
+revid: 182342
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -65,6 +65,10 @@ _Main Page: [Fang and Coil](Fang_and_Coil.md)_
 ### Imperium Kata
 
 _Main Page: [Imperium Kata](Imperium_Kata.md)_
+
+### Untrained
+
+_Main Page: [Untrained Fist](Untrained_Fist.md)_
 
 ## Trivia
 

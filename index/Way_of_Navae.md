@@ -1,9 +1,9 @@
 ---
 title: Way of Navae
-revid: 181184
+revid: 182305
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae]
+categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae, Navae Weapons]
 ---
 
 # Way of Navae
@@ -57,3 +57,4 @@ Completing either of these methods will grant you the Way of Navae Talent which 
 
 -   Slide jumping with using the **Way of Navae** critical can make it easier to land.
     -   You'll use your sliding momentum to dash forward.
+-   While the [Blessed Nomad Pendant](Blessed_Nomad_Pendant.md) is equipped, all of your swing sound effects will change and your swingspeed will be increased.

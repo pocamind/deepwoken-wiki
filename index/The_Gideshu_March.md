@@ -1,6 +1,6 @@
 ---
 title: The Gideshu March
-revid: 180815
+revid: 182266
 source: https://deepwoken.fandom.com/wiki/The_Gideshu_March
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -8,7 +8,7 @@ categories: [Books]
 
 # The Gideshu March
 
-_Not to be confused with Gideshu March (OST), which is based on this book._
+_Not to be confused with Gideshu March (OST), which this book is based on._
 
 ## Description
 

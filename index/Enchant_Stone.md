@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 177843
+revid: 182299
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Weapon Enchantments]
@@ -52,6 +52,10 @@ These Enchant Stones can only be obtained through certain methods. These are: As
 -   _**[Harrowing](Harrowing.md)**_ can be purchased from any [Blacksmith](Blacksmith.md) for 10 if you have the 2023 [Hallowtide Medallion](Seasonal_Medals.md), bought from [Glaive Spellhardt](Glaive_Spellhardt.md) during the [Hallowtide](Hallowtide.md) event for 150 Joy, or found in the [Goodie Bag](Goodie_Bag.md).
 -   _**[Nightbringer](Nightbringer.md)**_ drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md).
 -   _**[Parasol's Blight](<Parasol's_Blight.md>)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
+
+### [Vow of Iron](Vow_of_Iron.md) Enchantments
+
+-   _**[Ether Surge](Ether_Surge.md)**_ is exclusive to the Ether Erudite [Memento](Mementos.md).
 
 ## Trivia
 

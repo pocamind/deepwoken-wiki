@@ -1,6 +1,6 @@
 ---
 title: Oni Mask
-revid: 181880
+revid: 182346
 source: https://deepwoken.fandom.com/wiki/Oni_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
@@ -16,7 +16,7 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
 | requirements | None |
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
-| innate talent | Helion Shift |
+| innate talent | Hellion Shift |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |
@@ -32,4 +32,4 @@ This content is not accessible outside of this gamemode.
 
 The Demon Mask is a pitch-black mask [Equipment](Equipment.md) item, reminiscent of a Japanese _oni_. Two horns sprout from the forehead, with another two jutting out from the chin area. The entire mask is fashioned in a growl, the mask baring it's teeth to viewers. A circular hole appears on top of the mask. When worn, the Demon Mask completely covers the wearer's face.
 
-The [Helion Shift](Talents.md#helion-shift) Talent increases your [dodge](Combat_Mechanics.md) iframes, scaling on your current [insanity](Insanity.md).
+The [Hellion Shift](Talents.md#hellion-shift) Talent increases your [dodge](Combat_Mechanics.md) iframes, scaling on your current [insanity](Insanity.md).

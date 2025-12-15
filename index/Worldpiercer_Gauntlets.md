@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 181377
+revid: 182326
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
@@ -11,12 +11,14 @@ categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
 | Worldpiercer Gauntlets | |
 |---|---|
 | type | Fist |
+| damage type | Blunt |
 | requirements | 85 LHT, 30 STR |
 | damage | 16.5 |
-| scaling | LHT: 6 |
+| scaling | LHT: 8 |
 | posture damage | 6 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.08x |
+| attack duration | 0.5s |
 | penetration | 15% |
 | m.equip | No |
 | m.extract | No |

@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 177025
+revid: 182260
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -25,6 +25,10 @@ One of the most distinct aspects in Lumen for their infamous cat ears, Felinor g
 
 ## Traits
 
+**Pathfinder:**
+
+  
+
 <table>
 <tbody>
 <tr>
@@ -44,6 +48,25 @@ One of the most distinct aspects in Lumen for their infamous cat ears, Felinor g
   <ul>
     <li>+3 Agility</li>
     <li>+2 Charisma</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+**Iron Vow:**
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td>File:Nightchild.png</td>
+  <td><b>Innate Agility</b>
+  <ul>
+    <li><i>You hinge on your instincts to keep you alive, even in battle, Slightly increase your dodge frames.</i>
+  <ul>
+    <li>x.xxs extra frames of invincibility when you dodge.</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 181186
+revid: 182317
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons",
 | Curved Blade of Winds | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 40 MED, 75 WND, LVL 10 |
 | damage | 17.5 |
 | scaling | MED: 5, WND: 5 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1.04x (two-handed), 1.02x (one-handed) |
+| attack duration | 0.6s |
 | penetration | 15% |
 | chip damage | 5% |
 | special effect | Aftercut is applied to all attacks. |

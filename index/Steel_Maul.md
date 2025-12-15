@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 181090
+revid: 182320
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -17,8 +17,9 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | damage | 22 / 24 |
 | scaling | HVY: 7 / 8 |
 | posture damage | 7 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.8x / 0.85x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 10% |
 | talent | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage. |
@@ -35,6 +36,7 @@ categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapon
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Sold at Etris Weaponry for 100 , Lower Erisia (Chests), Chime of Conflict, Brainsucker, Isle of Vigils (Chests)Alloyed:, Alloying a Steel Maul |
+| description | A sturdy maul perfect for knocking walls and people down alike. |
 
 ## Description
 

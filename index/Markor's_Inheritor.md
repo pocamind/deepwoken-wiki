@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 181924
+revid: 182343
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -41,11 +41,11 @@ Markor's Inheritor is a [Heavy Greatsword](Weapons.md) that requires 30 HVY and 
 
 ## Critical
 
-Markor's Inheritor will inherit the critical attack of your last used [Fist Style](Fists.md), allowing for a large amount of build diversity.
+Markor's Inheritor will inherit the critical attack of your last used [Fist Style](Fists.md), allowing for a large amount of build diversity. If you do not have a fist style, then [Untrained Fist](Untrained_Fist.md)'s critical will be used.
 
 Stats wise, these criticals are the same as their base fist variants, however they will have 12 base damage instead of utilizing your weapon's stats; these criticals will deal **very** low damage.
 
-[Legion Kata](Legion_Kata.md)'s critical can proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) abilities.
+[Legion Kata](Legion_Kata.md)'s critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) abilities.
 
 ## Trivia
 

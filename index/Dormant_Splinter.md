@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 182067
+revid: 182357
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics, Relic Weapon]

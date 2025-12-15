@@ -1,6 +1,6 @@
 ---
 title: Songseeker
-revid: 179361
+revid: 182257
 source: https://deepwoken.fandom.com/wiki/Songseeker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Songseekers, Factions, Religious groups]
@@ -23,4 +23,4 @@ They seem to have a [mistress](<Tz'araan.md>), which suggests that there's some 
 
 ## Notable Members
 
-[Tzaraan](<Tz'araan.md>): The Songseeker mistress, which encourages freedom of mind, as long as it aligns with her ideals. "But not outside th'box" as mentioned by [Yamaketzal](Yamaketzal.md).
+[Tz'araan](<Tz'araan.md>): The Songseeker mistress, which encourages freedom of mind, as long as it aligns with her ideals. "But not outside th'box" as mentioned by [Yamaketzal](Yamaketzal.md).

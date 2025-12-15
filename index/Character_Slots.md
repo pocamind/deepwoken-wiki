@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 165821
+revid: 182337
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -14,7 +14,7 @@ Character slots function as Deepwoken's save files.
 
 The slot selection menu serves as a list of all of your character slots.
 
--   The maximum number of character slots is 64.
+-   The maximum number of character slots is 100.
 -   The slot selection menu shows various pieces of information about the associated character.
 -   Some information presented in the menu cannot be changed and tied to the slot while other information can be changed and is tied to the character.
 
@@ -43,9 +43,10 @@ The slot selection menu serves as a list of all of your character slots.
 ### Slot Letters
 
 -   The slot letter is the first piece of text presented for each slot.
--   The maximum of 64 character slots corresponds to the slot letters starting from A to Z then AA to AZ then BA to BL.
-    -   Following the 26th character slot, each following slot will have two letters starting with A then a second letter from A to Z.
-    -   Following the 52nd character slot, each following slot will have two letters starting with B then a second letter from A to L.
+-   The maximum of 100 character slots corresponds to the slot letters starting from A to Z then AA to AZ then BA to BL.
+    -   Following the 26th character slot, each following slot will have two letters, starting with A then a second letter from A to Z.
+    -   Following the 52nd character slot, each following slot will have two letters, starting with B then a second letter from A to Z.
+    -   Following the 78th character slot, each following slot will have two letters, starting with C then a second letter from A to V.
 -   The slot letter(s) cannot be changed and is tied to the slot the moment you purchase it.
 -   Two slots cannot have identical letter combinations as the slot letter is a key identifier for each slot.
 

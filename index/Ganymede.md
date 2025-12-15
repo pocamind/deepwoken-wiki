@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 177040
+revid: 182252
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -25,6 +25,10 @@ Ganymedes are a snail-based [aspect](Aspects.md) in Deepwoken that appear with d
 
 ## Traits
 
+**Pathfinder:**
+
+  
+
 <table>
 <tbody>
 <tr>
@@ -44,6 +48,25 @@ Ganymedes are a snail-based [aspect](Aspects.md) in Deepwoken that appear with d
   <ul>
     <li>+3 Willpower</li>
     <li>+2 Intelligence</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+**Iron Vow:**
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td>File:Navae's Guidance.png</td>
+  <td><b>Steady Mind</b>
+  <ul>
+    <li>"<i>Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.</i>"
+  <ul>
+    <li>Unknown effect. Persumably more sanity/less insanity.</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>
