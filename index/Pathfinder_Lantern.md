@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 176520
+revid: 182373
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -33,6 +33,8 @@ The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" ca
 -   (1) [Fiber](Fiber.md)
 
 Dyeing the Lantern dyes the colour of the light given.
+
+The [Breathing Exercise](Talents.md#breathing-exercise) Talent does something.
 
 ## Trivia
 

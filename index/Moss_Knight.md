@@ -1,9 +1,11 @@
 ---
 title: Moss Knight
-revid: 182210
+revid: 182417
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Monsters, Knights]
+categories: [Stub pages without reason, StubPages, Vow of Iron Exclusive, Monsters, Knights]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Moss Knight

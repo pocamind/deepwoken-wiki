@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 182054
+revid: 182371
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
@@ -55,16 +55,8 @@ Assuming all of your Pressure Blast hits hit your opponent's block, they will ta
 
 ## Critical
 
-Saint Jay's Hammer utilizes the [Hailbreaker](Hailbreaker.md) critical attacks.
+Saint Jay's Hammer utilizes the [Hailbreaker](Hailbreaker.md) critical attacks, without the stage gimmick.
 
-**Stage I**: Performs two quick strikes placing ice under the users feet and freezing the opponent in place, this moves the weapon into stage II.
-
-**Stage II**: Performs two heavy strikes placing ice under the users feet and freezing the opponent in place, this moves the weapon to stage III.
-
-**Stage III**: Dashes forward performing a large upward slash placing ice under the users feet and freezing the opponent in place, this moves the weapon back into stage I.
-
-All criticals have a cooldown of 10 seconds.
-
-Pressing M2 during the windup of the critical will perform a feint that resets stages and has a cooldown of 2 seconds. This does not change depending on the stage.
+Performs two quick strikes placing ice under the users feet and freezing the opponent in place.
 
 At the end of each critical, ice explosions will happen around the user, dealing the same damage as each tick of the critical as pure Frostdraw damage. The position of these explosions are random, but they are telegraphed by a blue swirl vfx before they explode.

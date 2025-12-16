@@ -1,6 +1,6 @@
 ---
 title: "Abyss Wanderer's Plate"
-revid: 176327
+revid: 182451
 source: https://deepwoken.fandom.com/wiki/Abyss_Wanderer's_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -11,7 +11,7 @@ categories: [Equipment, Arms, Plates, The Divers]
 | Abyss Wanderer Plate | |
 |---|---|
 | type | Arms |
-| rarity | Mythic |
+| rarity | Mythical |
 | selling price | 100 |
 | requirements | Power 10 |
 | weight | 2 |

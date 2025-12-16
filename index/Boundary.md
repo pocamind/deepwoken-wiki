@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 182288
+revid: 182439
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -71,7 +71,7 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
-| Legion ship | 
+| The Polymarch | 
 
  | 
 

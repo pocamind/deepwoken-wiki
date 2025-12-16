@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 182347
+revid: 182415
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3795,8 +3795,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Unique
 
--   Precision Hunter - Your Basic Attack posture damage is increased by 15%.
-    -   Prerequisites: 15 Strength, 25 Heavy Weapons
+-   Precision Hitter - Your Basic Attack posture damage is increased by 15%.
 
 ### Unstable Capacitor
 
@@ -4192,7 +4191,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Stomach restoration
         -   Speed boost for 10 seconds
 
--   Sadistic Split: Deathsplitter - Guardbreaking your opponent now heals you. The amount of this heal is based on how much insanity your character currently has.
+-   Sadistic Split: [Depthsplitter](Depthsplitter.md) - Guardbreaking your opponent now heals you. The amount of this heal is based on how much insanity your character currently has.
 
 -   Shatter: [Icepick](Icepick.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs for 5 frost damage per debuff.
     -   Landing a critical attack removes all speed debuffs your opponent has, dealing 5 Frostdraw damage per debuff.
@@ -4517,6 +4516,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Piercing Shot: [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>) - Activate to make your next critical attack with any gun have 100% chip and shatter your opponent's armor for a few seconds, making them take increased PEN from all sources.
     -   Grants a Talent tool, that on use, enhances your next critical attack used with any Rifle or Pistol.
     -   Enhanced critical attacks gain 100% chip damage and apply the [Pierced Armor](Status_Effects.md#pierced-armor) status effect to your opponent, increasing incoming PEN for a few seconds.
+
+-   Poisoned Knife: [Rogue Assassin's Hood](<Rogue_Assassin's_Hood.md>) - Your Deepwound's anti heal now lasts 60 seconds on assassination instead of 20.
 
 -   Praise The Sun: Solar Pendant - When standing in sunlight increase your natural health regen and reduce how long antiheal effects last on you.
 

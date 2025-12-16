@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 182359
+revid: 182422
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -14,6 +14,10 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 | damage type | Blunt |
 | requirements | N/A |
 | damage | 15 |
+| scaling | ? |
+| posture damage | ? |
+| range | ? |
+| swing speed | ? |
 | m.equip | No |
 | m.extract | No |
 | rarity | N/A |
@@ -31,7 +35,9 @@ Because Untrained Fist isn't a traditional fist style with a bare hands variant,
 
 ## Critical
 
-User rushes forward and winds up their fist before striking. This attack has a 1.5x scaled damage multiplier and deals 12 posture damage if blocked.
+User rushes forward and winds up their fist before striking with a haymaker punch. The user gains very brief hyperarmor during the punch animation. Pressing M2 during the rush segment of the critical will halt your movement.
+
+This attack has a 1.5x scaled damage multiplier. This deals 12 posture damage if blocked, regardless of your weapon's weight stat.
 
 This critical has a **5 second** cooldown.
 

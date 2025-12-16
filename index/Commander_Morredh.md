@@ -1,6 +1,6 @@
 ---
 title: Commander Morredh
-revid: 182151
+revid: 182454
 source: https://deepwoken.fandom.com/wiki/Commander_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]

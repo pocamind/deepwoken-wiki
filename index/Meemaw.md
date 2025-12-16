@@ -1,6 +1,6 @@
 ---
 title: Meemaw
-revid: 182040
+revid: 182471
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
@@ -13,7 +13,7 @@ notices:
 | Meemaw | |
 |---|---|
 | aspect | Felinor |
-| location | ? |
+| location | Songseeker Wilds |
 | affiliation | ? |
 | family | Lucien (grandson) |
 
@@ -24,6 +24,10 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Meemaw is a [Felinor](Felinor.md) NPC. She is the grandma of [Lucien](Lucien.md) who is present in the [Pathfinder](Pathfinder.md) [Memento](Mementos.md).
+
+## Location
+
+Meemaw is located at [Songseeker Wilds](Songseeker_Wilds.md), standing outside of the mineshaft.
 
 ## Dialogue
 
@@ -106,7 +110,7 @@ Meemaw is a [Felinor](Felinor.md) NPC. She is the grandma of [Lucien](Lucien.md)
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>I won't forget ya, friend! Oh, what a story this'll make one day...</td>
 </tr>
 <tr>
   <td>End</td>

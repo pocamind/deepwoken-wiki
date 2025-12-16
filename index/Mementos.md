@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 182345
+revid: 182429
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Vow of Iron Exclusive, Pages with broken file links]
@@ -217,13 +217,15 @@ Theros Disciple Memento
 
 -   7 Dexterity; 5 Songchant; 1 Vitality; 5 Proficiency
 
-**Weapons allowed:** Fist
+**Weapons allowed:** Fists, Spear
 
 **Starting weapons:** Sovereign Bangle; Imperial staff; Imperator's Edge
 
 **NOTE:** Once you unequip either the Imperial Staff or Imperator's Edge, you **CANNOT** re-equip it
 
 **Unlocked by**: Lowering [General Titus Juventius](General_Titus_Juventius.md) to 90% health
+
+| Can be cheesed by sitting next to a whirlpool while Titus tries to teleport into you, and eventually falling into the whirlpool
 
 ## Ether Erudite
 
@@ -242,9 +244,9 @@ Ether Erudite Memento (Currently does not have an engraving)
 
 -   8 Songchant; 1 Proficiency
 
-**Weapons allowed:** Any
+**Weapons allowed:** Rifles
 
-**Starting Weapon:** Unknown (Those who have this Memento feel free to insert the starting weapon/s)
+**Starting Weapon:** Rosen's Peacemaker
 
 **Unlocked by:** Giving [Jeremiah](Jeremiah.md) every base-game [Deep Gem](Deep_Gems.md)
 
@@ -301,7 +303,7 @@ Strange Merchant Memento (Currently does not have an engraving)
 
 **Your Outfit is locked for this Memento**
 
-**Weapons allowed:** Fist, Greathammer, Greataxe, Sword, Spear, Rapier, Dagger, Greatsword, Greatcannon
+**Weapons allowed:** Any
 
 **Starting weapon:** Vortex Echo
 

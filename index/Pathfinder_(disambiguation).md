@@ -1,6 +1,6 @@
 ---
 title: Pathfinder (disambiguation)
-revid: 182353
+revid: 182370
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(disambiguation)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disambiguations]
@@ -21,5 +21,7 @@ A **Pathfinder** are explorers who make a living navigating unknown lands.
 -   [Pathfinder (NPC)](<Pathfinder_(NPC).md>) - An Enemy NPC that spawns alongside a [Teacher](Teacher.md).
 -   [Pathfinder Elite](Pathfinder_Elite.md) - The Rare Equipment item under the "Arms" category.
     -   [Corrupted Pathfinder Elite](Corrupted_Pathfinder_Elite.md) - The Vow of Iron counterpart to the regular Pathfinder Elite.
+-   [Pathfinder Lantern](Pathfinder_Lantern.md) - The Common Equipment item under the "Torso" category.
 -   [Pathfinder's Respite](<Pathfinder's_Respite.md>) - A location found within [Erisia](Erisia.md).
 -   [Pathfinders](Glossary.md#pathfinders) - The profession.
+-   [Royal Pathfinder](Royal_Pathfinder.md) - The Rare Equipment item under the "Arms" category that gives the [Ready or Not](Talents.md#ready-or-not) Talent.

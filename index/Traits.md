@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 166413
+revid: 182491
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -43,3 +43,7 @@ Each trait can only be increased up to 6 points.
     -   The PEN increase is additive to PEN from other sources.
 -   On [Oath](Oaths.md) and [Monster Mantras](Monster_Mantras.md), instead increase their damage output by 2% per point.
 -   This does NOT affect the scaling on attunement weapons like the hero blades, only Mantras.
+
+### Dexterity
+
+-   Iron Vow Exclusive

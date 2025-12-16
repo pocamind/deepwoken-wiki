@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 181530
+revid: 182499
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the 49th Legion and inventor of [Oath: Blightsurger](Oath%253A_Blightsurger.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.
+**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the 49th Legion and an user of [Oath: Blightsurger](Oath%253A_Blightsurger.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.
 
 A Khan with great stature, he's around twice the height of the player. He has wrinkles on his face and greyed out dreads, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 

@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 182261
+revid: 182375
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -54,7 +54,7 @@ Their attire consists of a [Blacksteel Helm](Blacksteel_Helm.md), [Etrean Siege 
 
 **Red Highlighted double slash**
 
- | When **Shogun Captain** highlights red, it will do 2 spiral slashes
+ | When **Shogun Captain** highlights red, it will do 2 spiral slashes. A roll cancel is necessary to avoid the 2nd slash.
 
  |  |
 | 
@@ -73,18 +73,26 @@ Their attire consists of a [Blacksteel Helm](Blacksteel_Helm.md), [Etrean Siege 
  | When **Shogun Captain** highlights white, it will do a stomp. You have to jump in order to avoid this attack. It will always follow up with 2 regular slashes which you need to parry, and then end with another white highlighed move you need to jump over.
 
  |  |
+| 
 
-**Shogun Captain** can quickly do 1 slash to the player with tons of particles. The attack is parryable
+**4 Slash Combo**
+
+ | **Shogun Captain** swings once, then, he becomes highlighted red for a guardbreaking slash, then, perform 2 slashes. The first swing and 2 slashes can be parried, but the red highlight must be dodged.
+
+ |  |
+| 
+
+**8 Slash Combo**
+
+ | **Shogun Captain** swings twice, then becomes highlighted red for 2 guardbreaking slashes, then becomes highlighted green for 4 slashes in quick succession. The 2 initial swings can be parried, the red highlight must be dodged with a roll cancel and the green highlight must be parried. This move is only used when **Shogun Captain** is below 50% HP.
+
+ |  |
 
 ## Tips
 
-**Shogun Captain** can movestack, often leading to you not being able to react in time to certain attacks.
+**Shogun Captain** has not attack pattern, beside using all hits in a given attack.
 
-Its attacks are in a random order, so it's best to keep an eye on which move he will do next.
-
-The sixth letter of the alphabet is F. By pressing it, you initiate something called a parry. Use this to your advantage when fighting as **Shogun's** attacks do a hefty amount of damage.
-
-You can use range attacks while **Shogun** attacks this won't be parried by him.
+Ranged attacks of any kind will automatically be parried if **Shogun Captain** is not attacking.
 
 ## Trivia
 

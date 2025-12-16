@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 181928
+revid: 182419
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -35,7 +35,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 
 Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md#wll).
 
-Works with _[Way of Navae](Way_of_Navae.md)_, _[Fang and Coil](Fang_and_Coil.md)_, _[Imperium Kata](Imperium_Kata.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Light's Final Toll is not compatible with [Jus Karita](Jus_Karita.md).**_
+Works with _[Untrained Fist](Untrained_Fist.md)_, _[Way of Navae](Way_of_Navae.md)_, _[Fang and Coil](Fang_and_Coil.md)_, _[Imperium Kata](Imperium_Kata.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Light's Final Toll is not compatible with [Jus Karita](Jus_Karita.md).**_
 
 The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
 
@@ -47,7 +47,7 @@ White: Default (#1) | Blue: 1st Leap (#2) | Red: 2nd Leap (#2) | Purple: Final (
 
 Light's Final Toll has 4 different criticals. When a critical is landed, it will advance to the next phase.
 
-For the first critical, the user smacks the opponent with the lantern ([Way of Navae](Way_of_Navae.md) or [Fang and Coil](Fang_and_Coil.md) equipped) or grabs the opponent with the lantern ([Legion Kata](Legion_Kata.md) or [Imperium Kata](Imperium_Kata.md) equipped).
+For the first critical, the user smacks the opponent with the lantern ([Way of Navae](Way_of_Navae.md), [Untrained Fist](Untrained_Fist.md), or [Fang and Coil](Fang_and_Coil.md) equipped) or grabs the opponent with the lantern ([Legion Kata](Legion_Kata.md) or [Imperium Kata](Imperium_Kata.md) equipped).
 
 For the second and third critical, the user jumps into the air and slams the lantern down into the ground. This must be landed twice to advance to the final phase.
 
