@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 181185
+revid: 183008
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -12,12 +12,14 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 |---|---|
 | alloyed name | Alloyed Vigil Longsword |
 | type | Sword |
+| damage type | Slash |
 | requirements | 40 MED / 75 MED |
 | damage | 20 |
 | scaling | MED: 6 / MED: 7.5 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | penetration | 20% |
 | m.equip | No |
 | m.extract | No |

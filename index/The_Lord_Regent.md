@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 182664
+revid: 182914
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Voiced Characters]
@@ -23,11 +23,11 @@ categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in th
 
 Zi'eer, more commonly known as the Lord Regent, or by his title, the Fourth Prophet of [The Ministry](The_Ministry.md),[\[1\]](#cite-note-oc-1) is a mysterious and powerful NPC that resides exclusively inside his palace within [Etris](Etris.md). He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning.
 
-While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true species or aggressive mutations from his meddling with the world's natural order is unknown.
+While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true species or aggressive mutations from his meddling with the world's natural order is unknown.[\[2\]](#cite-note-opr-2)
 
 The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When [Kennith](Kennith.md) had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. When he rose to power, he had the City's Official History Office decommissioned, seemingly to ensure he will be the only history the people of Etris will ever know. He also had a mental veil installed in the people of Etris, giving them each conflicting ideas of where he came from and how long he was in power for.
 
-The throne upon which he sits is an artifact from [The Depths](The_Depths.md), amplifying the power of whoever sits on it. The Lord Regent likely stays on it to maintain the mental veil on the inhabitant of Etris. As stated by Authority Inquisitor Lotus in the book _Operation "Puppet\_Master" Report_, mental veils aren't something new, but are usually limited to a single person, but applying it on an entire town goes beyond the ability of the common man.
+The throne upon which he sits is an artifact from [The Depths](The_Depths.md), amplifying the power of whoever sits on it. The Lord Regent likely stays on it to maintain the mental veil on the inhabitant of Etris. As stated by Authority [Inquisitor Lotus](Inquisitor_Lotus.md) during [Operation 'Puppet Master'](<Operation_'Puppet_Master'.md>), mental veils aren't something new, but are usually limited to a single person, but applying it on an entire town goes beyond the ability of the common man.[\[2\]](#cite-note-opr-2)
 
 He has a particular interest in a powerful object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into [banks](Banker.md) gives a hefty reward and is lorewise sent to the Palace.
 
@@ -433,3 +433,4 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 ## Navigation
 
 1.  ↑ [1.0](#cite-ref-oc-1-0) [1.1](#cite-ref-oc-1-1) [1.2](#cite-ref-oc-1-2) [Oath: Contractor](Oath%253A_Contractor.md)
+2.  ↑ [2.0](#cite-ref-opr-2-0) [2.1](#cite-ref-opr-2-1) [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)

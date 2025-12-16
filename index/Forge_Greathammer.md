@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 181191
+revid: 183001
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -12,12 +12,14 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons 
 |---|---|
 | alloyed name | Alloyed Forge Greathammer |
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | 55 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 24 / 25.5 |
 | scaling | HVY: 8 |
 | posture damage | 9 / 9.5 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.8x / 0.81x |
+| attack duration | 0.9s |
 | endlag | 0.1s / N/A |
 | m.equip | No |
 | m.extract | No |

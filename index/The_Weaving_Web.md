@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 181391
+revid: 183007
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique
 | The Weaving Web | |
 |---|---|
 | type | Spear |
+| damage type | Blunt |
 | requirements | 60 MED, 40 CHA |
 | damage | 20 |
 | scaling | MED: 5.5, CHA: 1 |
 | posture damage | 7 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |

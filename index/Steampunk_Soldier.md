@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 182737
+revid: 182875
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Steampunk Soldier | |
 |---|---|
 | description | Combining frost and flame, they developed a unique steam-powered rifle. |
-| unlock | Defeat Shogun Captain with a Pistol, Rifle, or Greatcannon weapon |
+| unlock | Defeat Shogun Captain, Dravik, the Rat King, or True Heart of Enmity with a Pistol, Rifle, or Greatcannon weapon |
 | allowed weapons | Rifle |
 | starting weapons | Vapormaw Carbine |
 

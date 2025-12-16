@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 182568
+revid: 182910
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Paths, Character]
@@ -47,7 +47,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
         -   Interacting with a chest will have you carry it in a sack on your shoulder. You can carry multiple chests at once, however, getting ragdolled will have you drop the sack.
     -   Some places have loot that can be obtained off the ground, notably, weapons found in specific places, such as [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) in Saramaed Summit.
 -   **Lumen and The Depths**
-    -   As the events of Vow of Iron take place 380 years ago, the world reflect this time period, featuring tweaked, reworked or entirely new locations.
+    -   As the events of Vow of Iron take place 38 years ago, the world reflect this time period, featuring tweaked, reworked or entirely new locations.
     -   The Etrean and Eastern Luminant are combined into a singular map.
     -   The depths have also changed, you can see the VOI depths [here](<The_Depths_(Vow_of_Iron).md>).
 

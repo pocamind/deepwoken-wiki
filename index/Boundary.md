@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 182859
+revid: 182951
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -53,11 +53,21 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
+| Summer Inn ([Summer Isle](Summer_Isle.md)) | 
+
+ | 
+
+ |
 | Summer Abandoned Building
 
 ([Summer Isle](Summer_Isle.md))
 
  | 
+
+ | 
+
+ |
+| Miner's Landing Inn ([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
 
  | 
 
@@ -78,6 +88,16 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  |
 | [The Polymarch](The_Polymarch.md) | 
+
+ | 
+
+ |
+| Songseeker Bell ([Songseeker Temple](Songseeker_Temple.md)) | 
+
+ | 
+
+ |
+| Songseeker Mines ([Songseeker Wilds](Songseeker_Wilds.md)) | 
 
  | 
 
@@ -115,5 +135,17 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 | Paw ([The Monkey's Paw](<The_Monkey's_Paw.md>)) | 
 
  | 
+
+ |
+| Blade Temple ([Isle of Vigils](Isle_of_Vigils.md)) | 
+
+ | 
+
+ |
+| Hive Cave ([The Lordsgrove](The_Lordsgrove.md)) | 
+
+ | 
+
+(The Boundary Portal is located underneath the Lordsgrove)
 
  |

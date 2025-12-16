@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 182735
+revid: 182919
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Drifter | |
 |---|---|
 | description | The world moves. They move faster. no one saw the moment they decided it was over. |
-| unlock | Defeat Shogun Captain, The Rat King, or True Heart of Enmity without taking any damage |
+| unlock | Defeat Shogun of the Prophet's Guard, Dravik, the Rat King, or True Heart of Enmity without taking any damage |
 | allowed weapons | Sword |
 | starting weapons | Purple Cloud |
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 180565
+revid: 182903
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Etrea]
@@ -15,7 +15,7 @@ categories: [Enemies, NPCs, Bosses, Etrea]
 | weapon | Shattered Katana |
 | challenges | -- Maestro Evengarde Rest --, Sparring Buddy - Slay 10.Reward: +5% DMG; +2.5% RES |
 
-Variants: [Evengarde Rest (NPC)](Evengarde_Rest.md)
+Variants: [Evengarde Rest](Evengarde_Rest.md)
 
 “ …Your movements lack discipline. ”
 

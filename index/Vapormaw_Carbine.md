@@ -1,6 +1,6 @@
 ---
 title: Vapormaw Carbine
-revid: 182610
+revid: 182982
 source: https://deepwoken.fandom.com/wiki/Vapormaw_Carbine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, "Attunement-based Weapons", Rifles, Medium Weapons]
@@ -12,15 +12,15 @@ categories: [Vow of Iron Exclusive, Weapons, "Attunement-based Weapons", Rifles,
 |---|---|
 | type | Rifle |
 | damage type | Slash |
-| requirements | TBA |
+| requirements | 30 FIR, 30 ICE, 50 MED |
 | damage | 17 |
 | scaling | MED: 4, ICE: 3, FLM: 3 |
 | posture damage | 4 |
 | range | 8 Sweep |
 | swing speed | 1x |
 | stances | 2 Handed |
-| rarity | TBA |
-| selling price | N/A |
+| rarity | Mythical |
+| selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |

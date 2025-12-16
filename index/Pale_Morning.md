@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 181192
+revid: 183004
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | Pale Morning | |
 |---|---|
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | 75 HVY, 10 STR 10 LVL |
 | damage | 24 |
 | scaling | HVY: 9 |
 | posture damage | 10 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.83x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
 | m.equip | Yes |

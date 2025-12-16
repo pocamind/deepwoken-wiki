@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 166197
+revid: 182976
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -116,3 +116,4 @@ Sev's Boutique
 ## Trivia
 
 -   The phrase "It insists upon itself." is a reference to a scene from the adult animation sitcom _[Family Guy](https://en.wikipedia.org/wiki/Family_Guy)_, wherein the protagonist, Peter Griffin, dismisses _[The Godfather](https://en.wikipedia.org/wiki/The_Godfather)_, a film largely considered one of the greatest movies in history, using this reasoning, much to the outrage of his family. The phrase is intended to come off as pseudo-intellectual and shallow.
+-   Their prices are a complete and utter scam compared to [Vesna's](Vesna.md), who sells their products for notes rather than crowns, with crowns being much harder to obtain.

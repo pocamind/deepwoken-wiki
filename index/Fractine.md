@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 181348
+revid: 183003
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 | Fractine | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | LVL 10; 40 INT; 80 HVY |
 | damage | 22 (Greatsword), 14.5 + (2.175 BLD) (Shattered) |
 | scaling | 7 HVY, 4 INT |
 | posture damage | 6 |
-| range | 9 (Greatsword), 7 (Shattered) |
+| range | 9 (Greatsword), 7 (Shattered) Sweep |
 | swing speed | 0.81x |
+| attack duration | 0.8s |
 | penetration | 25% |
 | chip damage | 20% |
 | special effect | Using your critical attack will change the weapon into it's Shattered State. While in the Shattered State, the Fractine deals bleed damage, swings faster, but has less range and damage. Use the critical again to return it to its original form. |

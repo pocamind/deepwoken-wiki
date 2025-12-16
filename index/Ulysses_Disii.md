@@ -1,6 +1,6 @@
 ---
 title: Ulysses Disii
-revid: 182321
+revid: 183009
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Black Divers, The Divers, Characters mentioned in books]
@@ -21,15 +21,19 @@ categories: [Black Divers, The Divers, Characters mentioned in books]
 
 ## Description
 
-Ulysses Disii was a member of the Divers. Once a Ranger, they eventually attained the rank of [Black Diver](Black_Divers_division.md). In the year 904 CE, Disii, alongside [Memnos Tulad](Memnos_Tulad.md), carried out an interrogation of Ranger [Santiago Talo](Santiago_Talo.md) for insubordination and endangering the Divers under their command.[\[1\]](#cite-note-interrogation-1)
+Ulysses Disii was a member of [the Divers](The_Divers.md). Once a Ranger, they eventually attained the rank of [Black Diver](Black_Divers_division.md). In the year 904 CE, Disii, alongside [Memnos Tulad](Memnos_Tulad.md), carried out an interrogation of Ranger [Santiago Talo](Santiago_Talo.md) for insubordination and endangering the Divers under their command.[\[1\]](#cite-note-interrogation-1)
 
 The Ranger Commander questioned Talo's decision to lead their group away from the route assigned to them and towards [The City of the Drowned](The_City_of_the_Drowned.md), pointing out how the Ranger's group mostly consisted of in-experienced Recruits and how the area around the City was considered too dangerous even for veteran Divers. When Talo defended their actions, describing how the group had heard the sound of voices in danger, Disii reminded them about the [First Layer](First_Layer.md)'s ability to inflict hallucinations on those within it, to which Talo responded that the entire group hearing the noises made them conclude the noises were real.[\[1\]](#cite-note-interrogation-1)
 
 As Talo recounted their actions, Ulysses criticized their various decisions for putting the recruits at risk, while mixing in a series of personal insults, some of which were redacted from the record. When Ranger Santiago described their vanguard's dispatching of a [Thresher](Thresher.md), which they claimed to have carried out without issue, Ulysses pointed to their injuries, to which Santiago assured them that there were no casualties and their own injuries did not impede their progress, causing Ulysses to go on a sarcastic tirade, some of which was, once more, redacted from the record.[\[1\]](#cite-note-interrogation-1)
 
+The Black Diver became more interested as Talo explained how the voices had belonged to nobles who had survived Celtor's drowning, how the inner city seemed unnaturally intact, and how unidentified individuals had been moving inside it. Due to Ranger Talo stating that fellow Ranger Bykof hailed from the city and had identified the deceased as Celtorian nobles, Disii ordered Tulad to place a meeting with Bykof in the Black Diver's schedule, believing his testimony would be of interest to the Diver's top brass.[\[1\]](#cite-note-interrogation-1)
+
+With the interrogation concluded, Ulysses reminded Santiago that they had breached numerous protocols and put the Divers in their care at risk. They asked if the Ranger understood that their actions had put the lives of all involved at risk, as well as risked their position.[\[1\]](#cite-note-interrogation-1)
+
 He seems to be very caring about his subordinates, as he was seemingly angry specifically because [Santiago Talo](Santiago_Talo.md) put others' lives at risk. But even after that, he still tried to recommend the aforementioned Ranger to a lesser punishment. He also seemed to be enthusiastic of setting up a [functioning operation base](Castle_Light.md) in [the Depths](The_Depths.md) and mounting rescue operations in [the City of the Drowned](The_City_of_the_Drowned.md).[\[1\]](#cite-note-interrogation-1)
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-interrogation-1-0) [1.1](#cite-ref-interrogation-1-1) [1.2](#cite-ref-interrogation-1-2) [1.3](#cite-ref-interrogation-1-3) [1.4](#cite-ref-interrogation-1-4) [1.5](#cite-ref-interrogation-1-5) [1.6](#cite-ref-interrogation-1-6) [1.7](#cite-ref-interrogation-1-7) [1.8](#cite-ref-interrogation-1-8) [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
+1.  ↑ [1.00](#cite-ref-interrogation-1-0) [1.01](#cite-ref-interrogation-1-1) [1.02](#cite-ref-interrogation-1-2) [1.03](#cite-ref-interrogation-1-3) [1.04](#cite-ref-interrogation-1-4) [1.05](#cite-ref-interrogation-1-5) [1.06](#cite-ref-interrogation-1-6) [1.07](#cite-ref-interrogation-1-7) [1.08](#cite-ref-interrogation-1-8) [1.09](#cite-ref-interrogation-1-9) [1.10](#cite-ref-interrogation-1-10) [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
 2.  [↑](#cite-ref-surname-2-0) [Vesperian surname](Vesperian.md)

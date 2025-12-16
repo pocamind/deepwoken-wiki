@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 182693
+revid: 182928
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -228,7 +228,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.
     -   Prerequisite: Wind Step, 50 Galebreathe
 
--   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility)
+-   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility)
@@ -1809,8 +1809,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
     -   Prerequisites: Immolation, Agitating Spark
 
--   _**Ascended Phoenix Flames**_ \[Flamecharm Exclusive, Advanced Talent\] - Once per fight, when an attack would down you immediately revive with 30% HP.
-    -   Prerequisites: Immolation, Agitating Spark, Phoenix Flames
+-   Ascended Phoenix Flames \[Vow of Iron Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
+    -   Prerequisites: [Solborn](Solborn.md) Memento
 
 ### Inferno
 

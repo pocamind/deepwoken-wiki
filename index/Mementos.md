@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 182745
+revid: 182905
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Vow of Iron Exclusive]
@@ -20,7 +20,7 @@ Mementos are an exclusive feature to the Vow of Iron. Mementos are built-in buil
 
 Each Memento has their own set memory missions.
 
-Mementos can equip any weapon in their category regardless of stats, but can only equip weapons of their categories. For example, the Saint Jay Memento can only utilise Shields, Greatswords, Greathammers and Greataxes.
+Mementos can equip any weapon in their category regardless of stats, but can only equip weapons of their categories and if their final stats are equal/above the requirement. For example, the Saint Jay Memento can only utilise Shields, Greatswords, Greathammers and Greataxes, but cannot equip weapons such as the Kanabo.
 
 ## List
 

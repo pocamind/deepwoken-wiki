@@ -1,6 +1,6 @@
 ---
 title: Evanspear Greataxe
-revid: 181232
+revid: 183005
 source: https://deepwoken.fandom.com/wiki/Evanspear_Greataxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | Evanspear Greataxe | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 70 HVY |
 | damage | 24 + 3.6 BLD |
 | scaling | HVY: 9.5 |
 | posture damage | 8 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.73x |
+| attack duration | 0.9s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |

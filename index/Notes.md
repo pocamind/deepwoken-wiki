@@ -1,6 +1,6 @@
 ---
 title: Notes
-revid: 177666
+revid: 182913
 source: https://deepwoken.fandom.com/wiki/Notes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Currency]
@@ -27,7 +27,7 @@ Upon clicking your Notes on the bottom right, you can choose to drop any amount 
 
 ### Obtaining
 
-The max amount of Notes you can carry at a time is 15,000.
+The max amount of Notes you can carry at a time is 15,000 in [Pathfinder](Pathfinder.md) and 50,000 in [Vow of Iron](Vow_of_Iron.md).
 
 -   Asking the helper at [Etris](Etris.md) or the [Isle of Vigils](Isle_of_Vigils.md) will give you 25 or 20 respectively. Only one can be interacted with per character.
 -   Selling various things to an [Antiquarian](Antiquarian.md) (weapons, gems, ores, etc.)

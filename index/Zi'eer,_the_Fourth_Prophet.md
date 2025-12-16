@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 182857
+revid: 182921
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -167,8 +167,8 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 ### Passives
 
 -   Contractor Wall - His first phase summons endless waves of black strings in your way, making it only possible to reach him if you hit those walls.
--   Prepared Equalizer - Zi'eer is always ready to slice the player's limbs(arm or leg) rapidly, freezing the player in an Equalizer state if they fail to react to parryable or jumpable moves by him.
--   Prophet's Shield - During his second phase he cannot be damaged, only his shield which acts like [Duke Ishamon Erisia's](Duke_Ishamon_Erisia.md) gale shield.
+-   Prepared Equalizer - Zi'eer is always ready to slice the player's limbs (arm or leg) rapidly, freezing the player in an Equalizer state if they fail to react to parryable or jumpable moves by him.
+-   Prophet's Shield - During his second phase he cannot be damaged, only his shield which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield.
 
 ## Gallery
 

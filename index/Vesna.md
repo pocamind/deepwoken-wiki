@@ -1,6 +1,6 @@
 ---
 title: Vesna
-revid: 181575
+revid: 182971
 source: https://deepwoken.fandom.com/wiki/Vesna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
@@ -30,6 +30,10 @@ Vesna can be given 2,500 Notes to permanently unlock "Manycolored Equipment" let
 Manycolored Equipment **cannot** dye [Oath](Oaths.md) cosmetics, hair, eyes, [Aspect](Aspects.md) features, [Resonance](Resonance.md) bells, or [Outfits](Outfits.md). You will still need to visit a [Barber](Barber.md) to remove dyes.
 
 Their counterpart is [Sev](Sev.md), who instead adapts a very colorful style and a much more eccentric personality.
+
+## Location
+
+Vesna can be found leaning on a rock near the bridge leading to [Greathive Approach](Greathive_Approach.md), in [The Lordsgrove](The_Lordsgrove.md)
 
 ## Shop
 

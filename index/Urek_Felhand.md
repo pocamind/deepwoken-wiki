@@ -1,6 +1,6 @@
 ---
 title: Urek Felhand
-revid: 182727
+revid: 182937
 source: https://deepwoken.fandom.com/wiki/Urek_Felhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes, Lore, Oath Trainer]
