@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 181342
+revid: 182757
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | Rockmaller | |
 |---|---|
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | 55 HVY, 10 STR |
 | damage | 25 |
 | scaling | HVY: 7.5 |
 | posture damage | 9.5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.82x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | m.equip | No |
 | m.extract | No |

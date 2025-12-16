@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 181311
+revid: 182768
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Clubs, Medium Weapons]
 | Toothed Club | |
 |---|---|
 | type | Club |
+| damage type | Blunt |
 | requirements | 30 MED |
 | damage | 16 + 2.4 BLD |
 | scaling | MED: 5 |
 | posture damage | 6 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 0.98x |
+| attack duration | 0.6s |
 | penetration | 10% |
 | chip damage | 5% |
 | m.equip | Yes |

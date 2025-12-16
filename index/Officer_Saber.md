@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 181221
+revid: 182761
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -12,12 +12,14 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 |---|---|
 | alloyed name | Alloyed Officer Saber |
 | type | Sword |
+| damage type | Slash |
 | requirements | 30 MED / 75 MED |
 | damage | 22 / 23 |
 | scaling | MED: 4.5 / MED: 4.8 |
 | posture damage | 6 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | chip damage | 10% |
 | m.equip | Yes |
 | m.extract | Yes |

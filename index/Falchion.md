@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 181178
+revid: 182789
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -12,12 +12,14 @@ categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Uniqu
 |---|---|
 | alloyed name | Alloyed Falchion |
 | type | Sword |
+| damage type | Slash |
 | requirements | 20 / 75 MED |
 | damage | 16 |
 | scaling | MED: 6 / MED: 7 |
 | posture damage | 4 / 5 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 1.06x |
+| attack duration | 0.6s |
 | penetration | 20% |
 | m.equip | No |
 | m.extract | No |

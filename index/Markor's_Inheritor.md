@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 182343
+revid: 182785
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -12,13 +12,15 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords
 |---|---|
 | alloyed name | Alloyed Inheritor |
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 30 HVY, 10 STR / 75 HVY, 10 STR, OR Authority Ensign |
 | faction | Authority |
 | damage | 24 |
 | scaling | HVY: 7 / HVY: 8 |
 | posture damage | 8 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.85x |
+| attack duration | 0.9s |
 | endlag | 0.1s / N/A |
 | penetration | 15% |
 | special effect | Inherits the critical of your last used Fist Style. |

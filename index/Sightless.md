@@ -1,6 +1,6 @@
 ---
 title: Sightless
-revid: 182738
+revid: 182746
 source: https://deepwoken.fandom.com/wiki/Sightless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]

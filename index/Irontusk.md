@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 181254
+revid: 182762
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Echoes]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Irontusk | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | N/A |
 | damage | 16.5 |
 | scaling | MED: 3 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.9x |
+| attack duration | 0.7s |
 | penetration | 10% |
 | m.equip | Yes |
 | m.extract | Yes |

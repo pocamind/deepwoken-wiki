@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 182736
+revid: 182818
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -27,4 +27,4 @@ This content is not accessible outside of this gamemode.
 
 ## Unique Features
 
-Instead of taking any health damage, automatically block a hit and take posture damage instead. Parrying gives back far less posture. Reaching full posture guardbreaks you and causes you to take 3x damage but no GB stun.
+Instead of taking any health damage, automatically block the hit and take posture damage instead. Parrying or Spitting gives back far less posture. Reaching full posture guard breaks you and causes you to receive **significantly increased damage from the attack that caused the guard break. This may pose to be fatal, depending on the attack.**

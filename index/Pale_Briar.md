@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 181279
+revid: 182771
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | Pale Briar | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 85 HVY, Power 10 |
 | damage | 23 |
 | scaling | HVY: 7.5 |
 | posture damage | 7 |
-| range | 10 |
+| range | 10 Sweep |
 | swing speed | 0.81x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 25% |
 | chip damage | 10% |

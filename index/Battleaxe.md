@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 181197
+revid: 182792
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | Battleaxe | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 0 HVY |
 | damage | 20 |
 | scaling | HVY: 5 |
 | posture damage | 6 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.83x |
+| attack duration | 0.8s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |

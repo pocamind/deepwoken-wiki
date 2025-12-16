@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 181205
+revid: 182767
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | Enforcer's Blade | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 80 HVY, 25 STR, LVL 6 |
 | damage | 25 |
 | scaling | HVY: 9 |
 | posture damage | 10 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.79x |
+| attack duration | 0.8s |
 | penetration | 5% |
 | chip damage | 15% |
 | m.equip | No |

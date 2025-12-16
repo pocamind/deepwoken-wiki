@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 181367
+revid: 182783
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multip
 | Fang and Coil | |
 |---|---|
 | type | Light Weapon |
+| damage type | Blunt |
 | requirements | 20 LHT |
 | damage | 12 |
 | scaling | LHT: 7 |
 | posture damage | 3 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.13x |
+| attack duration | 0.5s |
 | m.equip | No |
 | m.extract | No |
 | rarity | N/A |

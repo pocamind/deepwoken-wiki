@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 182191
+revid: 182754
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -32,9 +32,9 @@ Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited th
 <tbody>
 <tr>
   <td>File:Seaborne.png</td>
-  <td><b>None</b>
+  <td><b>Ad Astra</b><p>"Return Home"</p>
   <ul>
-    <li>No innate Aspect Talent is given to Lightborn.</li>
+    <li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li>
   </ul></td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 181174
+revid: 182786
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Iron Spear | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | N/A |
 | damage | 17 |
 | scaling | MED: 2.5 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.9x |
+| attack duration | 0.7s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Iron Spear |

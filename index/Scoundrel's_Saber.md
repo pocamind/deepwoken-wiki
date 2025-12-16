@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 181380
+revid: 182773
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 | Scoundrel's Saber | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 55 MED |
 | damage | 22 |
 | scaling | MED: 4.8 |
 | posture damage | 5.5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | special effect | Critical gains 10% more damage if landed on the opponent's back. |
 | m.equip | No |
 | m.extract | No |

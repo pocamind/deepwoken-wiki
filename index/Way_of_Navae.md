@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 182305
+revid: 182780
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae, Navae Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Nav
 | Way of Navae | |
 |---|---|
 | type | Light Weapon |
+| damage type | Blunt |
 | requirements | 0 LHT |
 | damage | 12 |
 | scaling | LHT: 7 |
 | posture damage | 3 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.13x |
+| attack duration | 0.5s |
 | m.equip | No |
 | m.extract | No |
 | rarity | N/A |

@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 182743
+revid: 182750
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -262,11 +262,11 @@ Power 5 and 450
 
 ### Starter Talents
 
-| Media | Talent | Card Description | Effect |
-| --- | --- | --- | --- |
-|  | Saint Jay  
+| Talent | Card Description | Effect |
+| --- | --- | --- |
+| Saint Jay  
 250 | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
-|  | Preceding Chill  
+| Preceding Chill  
 250 | Enemies hit during the last moments of your ice beam are frozen. | Doesn’t freeze with Crystal path, instead adds another Crystal on final hit. |
 
 ### Power 5 Talents

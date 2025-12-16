@@ -1,6 +1,6 @@
 ---
 title: Scalesplitter
-revid: 181340
+revid: 182776
 source: https://deepwoken.fandom.com/wiki/Scalesplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons, Medium Weapons]
@@ -12,12 +12,14 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Etrea, Alloyed Weapons,
 |---|---|
 | alloyed name | Alloyed Scalesplitter |
 | type | Twinblade |
+| damage type | Slash |
 | requirements | 40 MED / 65 MED |
 | damage | 17.5 / 20 |
 | scaling | MED: 5 / MED: 6 |
 | posture damage | 5 / 6 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.9x / 1.0x |
+| attack duration | 0.7s / 0.6s |
 | penetration | 10% / 15% |
 | m.equip | Yes |
 | m.extract | Yes |

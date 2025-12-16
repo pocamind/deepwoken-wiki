@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 182584
+revid: 182824
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -18,13 +18,15 @@ notices:
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+### Please re-title this page when possible, as the boss in all instances has been renamed to "Shogun of the Prophet's Guard", including in it's Temple of Mur encounter.
+
 **Shogun Captain** is a Boss exclusive to Vow of Iron. It is a humanoid that's larger than the player.
 
 ## Description
 
 The Shogun Captain is required to be killed in order to power up past Power 5. It is located in a dungeon server. In order to access said dungeon, there is a white portal near the [Deep Thresher Nest](Deep_Thresher_Nest.md) or Viridian Sanctuary.
 
-Their attire consists of a [Blacksteel Helm](Blacksteel_Helm.md), [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
+Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a Kabuto, [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
 
 ## Attacks
 
@@ -90,13 +92,19 @@ Their attire consists of a [Blacksteel Helm](Blacksteel_Helm.md), [Etrean Siege 
 
 ## Tips
 
-**Shogun Captain** has not attack pattern, beside using all hits in a given attack.
+**Shogun Captain** has no set attack pattern, beside using all hits in a given attack.
 
 Ranged attacks of any kind will automatically be parried if **Shogun Captain** is not attacking.
+
+His attacks have a deceivingly large hitbox, walking away is unlikely to leave you unscathed.
+
+The **Shogun Captain** has almost no downtime between attacks.
+
+Some of his attacks hit earlier than the animation for some damn reason...
 
 Before attempting him, take a right when entering the temple and go down the stairs. There will be a boundary that you can teleport back to.
 
 ## Trivia
 
--   "Shogun Captain" is a nonsensense, contradictory title. A _shogun_, short for _sei-i taishogun_ meaning "Commander-in-Chief of the Expeditionary Force Against the Barbarians", was the chief military ruler of Japan for a portion of its history. There are no other ranks within the position of _shogun_, and as such, a "Shogun Captain" is akin to a "Secretary of Defense Captain", "General Captain" or "President Captain".
+-   "Shogun Captain" is a nonsense, contradictory title. A _shogun_, short for _sei-i taishogun_ meaning "Commander-in-Chief of the Expeditionary Force Against the Barbarians", was the chief military ruler of Japan for a portion of its history. There are no other ranks within the position of _shogun_, and as such, a "Shogun Captain" is akin to a "Secretary of Defense Captain", "General Captain" or "President Captain".
     -   The [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) represents a more accurate use of the title.

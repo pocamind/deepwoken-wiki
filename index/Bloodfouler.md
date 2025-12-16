@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 181373
+revid: 182769
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 | Bloodfouler | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 50 HVY, LVL 10, 75 BLD |
 | damage | 19 + 2.85 BLD |
 | scaling | HVY: 5, BLD: 4 |
 | posture damage | 8.5 |
-| range | 9.5 |
+| range | 9.5 Sweep |
 | swing speed | 0.86x |
+| attack duration | 0.8s |
 | penetration | 20% |
 | special effect | Restores a percentage of the users blood upon landing m1 |
 | m.equip | No |

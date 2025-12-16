@@ -1,6 +1,6 @@
 ---
 title: Viscosity
-revid: 179279
+revid: 182837
 source: https://deepwoken.fandom.com/wiki/Viscosity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -31,6 +31,7 @@ Viscosity turns all incoming damage into a damage over time effect that lasts 2.
 
 -   Viscosity ticks 10 times, or once every 0.25 seconds. Viscosity deals 10% of the attack's damage every tick.
 -   This enchantment will be disabled if your weapon has the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment and/or you have the [Immortal Helm](Immortal_Helm.md) equipped.
+-   When wearing the [Parasol Planter](Parasol_Planter.md), damage over time from this enchant will not be reduced by Grotesque Resilience
 -   Similar to [Deferred](Deferred.md), Viscosity's damage over time is based on the active damage modifiers and resistances when the attack **landed**.
     -   On one hand, your opponent cannot apply a buff to themselves _after_ landing an attack to buff the DoT. And if you gain a conditional damage reduction while Viscosity is affecting you, the remaining damage over time ticks from the hits landed **prior** to the new resistances being added will ignore them.
     -   On the other hand, if you had a conditional resistance source or your opponent had a buff applied to themselves _when_ they landed an attack, the Viscosity DoT damage for that hit will be calculated as if these effects are still active, even if they aren't.
