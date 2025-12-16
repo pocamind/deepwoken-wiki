@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 181210
+revid: 182581
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -11,13 +11,15 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rif
 | Rifle Spear | |
 |---|---|
 | type | Spear/Rifle |
+| damage type | Slash |
 | requirements | 75 MED, OR Authority Ensign |
 | faction | Authority |
 | damage | 21 |
 | scaling | MED: 7 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.9x |
+| attack duration | 0.7s |
 | penetration | 25% |
 | special effect | Procs all Rifle and Spear exclusive Talents. |
 | m.equip | No |

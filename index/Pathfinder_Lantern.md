@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Lantern
-revid: 182373
+revid: 182658
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso]
@@ -34,7 +34,7 @@ The Pathfinder Lantern is an [Equipment](Equipment.md) item under the "Torso" ca
 
 Dyeing the Lantern dyes the colour of the light given.
 
-The [Breathing Exercise](Talents.md#breathing-exercise) Talent does something.
+The [Breathing Exercise](Talents.md#breathing-exercise) Talent increases passive sanity regen by 50%.
 
 ## Trivia
 

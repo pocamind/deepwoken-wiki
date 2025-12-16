@@ -1,6 +1,6 @@
 ---
 title: Stoneheart
-revid: 181273
+revid: 182576
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 | Stoneheart | |
 |---|---|
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | 80 HVY, 20 STR |
 | damage | 24 |
 | scaling | HVY: 10 |
 | posture damage | 12 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.8x |
+| attack duration | 0.9s |
 | endlag | 0.1x |
 | penetration | 10% |
 | chip damage | 10% |

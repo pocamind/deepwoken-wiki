@@ -1,6 +1,6 @@
 ---
 title: Vesperian
-revid: 177166
+revid: 182570
 source: https://deepwoken.fandom.com/wiki/Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -25,6 +25,10 @@ Vesperians are described as a beetle themed aspect with organically grown masks 
 
 ## Traits
 
+**Pathfinder:**
+
+  
+
 <table>
 <tbody>
 <tr>
@@ -46,6 +50,25 @@ Vesperians are described as a beetle themed aspect with organically grown masks 
   <ul>
     <li>+3 Fortitude</li>
     <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+**Iron Vow:**
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td><figure>File:Chitin.png<figcaption></figcaption></figure></td>
+  <td><b>Hardened Shell</b>
+  <ul>
+    <li><i>"Your Natural Armor grows sturdier, being able to take more hits before breaking."</i>
+  <ul>
+    <li>Increases Chitin durability by x%</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>

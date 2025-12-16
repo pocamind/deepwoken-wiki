@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 182415
+revid: 182693
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -4115,6 +4115,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
 
+-   Blade Threading: [Ferractine](Ferractine.md) - Landing Critical attacks applies metal rod and slow.
+
 -   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) & [Kindred Edict](Kindred_Edict.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
     -   Adds a new sound effect to Prominence Draw.
@@ -4159,6 +4161,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   If a player has two or more Forced Fulfilment rods, they will not be able to move unless they have a speed boost.
 
 -   Fortify: [Frost Gauntlets](Frost_Gauntlets.md) - Slow down your movement in exchange for fortifying your defenses.
+
+-   Hex Bullet: [Duskshot](Duskshot.md) - Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity.
 
 -   Monster Slayer: [Darksteel Cleaver](Darksteel_Cleaver.md) - Deal 25% more damage to giant enemies.
 
@@ -4628,6 +4632,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Unbreakable: [Darksteel Plate](Darksteel_Plate.md) or [Etrean Guard](Etrean_Guard.md) - You have reduced stun duration when block broken.
     -   Reduces the normal stun duration from 1.05 seconds to 0.7 seconds.
+
+-   Vessel's Gamble: [Corrupted Vessel's Boots](<Corrupted_Vessel's_Boots.md>) - When you get guardbroken you take 3 times the damage of the attack.
+    -   Though this Talent is actively detrimental to the user, the Corrupted Vessel's Boots +20 Posture offsets the downside.
 
 -   Vigil's Grace: [Vigil Sentinel](Vigil_Sentinel.md) - Whenever you gain a speed boost, increase your swingspeed by 0.02.
     -   Stacks additively with Action Surge.

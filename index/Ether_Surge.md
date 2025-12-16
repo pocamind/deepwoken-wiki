@@ -1,6 +1,6 @@
 ---
 title: Ether Surge
-revid: 182289
+revid: 182734
 source: https://deepwoken.fandom.com/wiki/Ether_Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enchantments, Weapon Enchantments]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Enchantments, Weapon Enchantments]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Memento: Ether Erudite |
+| obtainment | Ether Erudite Memento |
 | description | Landing enough light attacks gives you infinite ether for some time. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

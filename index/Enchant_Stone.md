@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 182299
+revid: 182733
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Weapon Enchantments]
@@ -55,7 +55,7 @@ These Enchant Stones can only be obtained through certain methods. These are: As
 
 ### [Vow of Iron](Vow_of_Iron.md) Enchantments
 
--   _**[Ether Surge](Ether_Surge.md)**_ is exclusive to the Ether Erudite [Memento](Mementos.md).
+-   _**[Ether Surge](Ether_Surge.md)**_ is exclusive to the [Ether Erudite](Ether_Erudite.md) [Memento](Mementos.md).
 
 ## Trivia
 

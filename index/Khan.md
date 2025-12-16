@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 178847
+revid: 182577
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -24,6 +24,10 @@ Khans are a rare [aspect](Aspects.md) with light skin, and a monkey-like appeara
 
 ## Traits
 
+**Pathfinder:**
+
+  
+
 <table>
 <tbody>
 <tr>
@@ -44,6 +48,28 @@ Khans are a rare [aspect](Aspects.md) with light skin, and a monkey-like appeara
   <ul>
     <li>+3 Strength</li>
     <li>+2 Agility</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+**Iron Vow:**
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td>File:Placeolder.png</td>
+  <td><b>Weapons Training</b>
+  <ul>
+    <li><i>"Training with different weapons taught you how to wield each of them more proficiently. Gain slightly extra weapon scaling on all weapons you use."</i>
+  <ul>
+    <li>Increases weapon scaling by ,5 on all weapons.
+  <ul>
+    <li>(someone check, with all attributes which scale a weapon or just weapon attribute)</li>
+  </ul></li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>

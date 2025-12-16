@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 182111
+revid: 182641
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -15,6 +15,7 @@ notices:
 | name | Unknown |
 | alias | Reclaimer of the Recollection |
 | aspect | Gremor |
+| affiliation | The Circle |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

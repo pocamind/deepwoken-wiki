@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 182247
+revid: 182662
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -30,7 +30,7 @@ The Depths of Vow of Iron differ from Pathfinder, there's more danger there than
 </tr>
 <tr>
   <td>6-10</td>
-  <td>???</td>
+  <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, or previous...</td>
 </tr>
 </tbody>
 </table>

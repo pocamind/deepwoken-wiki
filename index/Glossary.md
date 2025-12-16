@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 182461
+revid: 182631
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -394,7 +394,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can even be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Delta](Delta.md), [Eiris](Eiris.md), [Samael](Samael.md), [Sordino](Sordino.md) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Delta](Delta.md), [Eiris](Eiris.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 -   Steward Bridges posited in his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 

@@ -1,6 +1,6 @@
 ---
 title: Sawbones
-revid: 182066
+revid: 182633
 source: https://deepwoken.fandom.com/wiki/Sawbones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
@@ -12,7 +12,7 @@ notices:
 
 | Sawbones | |
 |---|---|
-| name | Sawbones |
+| name | Unknown |
 | aspect | Canor |
 | location | Fort Merit |
 | affiliation | The Central Authority |

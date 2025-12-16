@@ -1,51 +1,34 @@
 ---
 title: Saint Jay (Memento)
-revid: 182246
+revid: 182743
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Saint Jay (Memento)
 
-| Saint Jay (Memento) | |
+| Saint Jay | |
 |---|---|
+| description | Hallowed disciple of Faust, the Hero of frost; sworn foe of the traitorous Urek. A spirit of justice once concealed by ice. |
+| unlock | Unlocked by default |
+| starting weapons | Great Maul, Saint Jay's Hammer, Hero's Blade of Frost |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-“ Hallowed disciple of Faust, the Hero of frost; sworn foe of the traitorous Urek. A spirit of justice once concealed by ice. ”
-
-― In-game Description
+_If you're looking for the character of the same name, see [Saint Jay (NPC)](<Saint_Jay_(individual).md>)._
 
 ## Overview
 
-Saint Jay is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode, It follows in the path of a disciple of the Hero of Frost, Faust and is unlocked by default.
-
-## Attributes
-
-### Final attributes
-
--   100 ICE
--   75 HVY
--   25 AGL, 80 FTD, 10 WLL, 40 STR
-
-## Traits
-
-### Final traits
-
--   7 Vitality; 1 Dexterity, 7 Songchant, 4 Erudition, 2 Proficiency
-
-## Starting Weapons
-
--   [Great Maul](Great_Maul.md)
--   [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>)
--   [Hero's Blade of Frost](<Hero's_Blade_of_Frost.md>)
+Saint Jay (Memento) is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode, It follows in the path of [Saint Jay](<Saint_Jay_(Memento).md>), a disciple of the Hero of Frost, [Faust](Faust.md) and is unlocked by default.
 
 ## Available Mantras
+
+### Starting Mantras
 
 | 
 **Name**
@@ -101,7 +84,7 @@ Ice
 
  | 
 
-1 Frostdraw
+Power 1 and 250
 
  |
 | 
@@ -112,12 +95,11 @@ Ice
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
--   You can increase the size of this Mantra with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers), but size modifiers increases its cooldown.
--   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   You can increase the size of this Mantra with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers), but size modifiers increases its cooldown.
+-   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Hits multiple times in a row.
 -   Knocks back targets.
--   Can be upgraded with the _Preceding Chill_ Talent, freezing opponents or detonating their crystals if they get hit by the final ticks of your Ice Beam.
--   Shares a cooldown with [Lightning Beam](Thundercall.md#lightning-beam).
+-   Can be upgraded with the Preceding Chill Talent, freezing opponents if they get hit by the final ticks of your Ice Beam.
 
  |
 | 
@@ -144,7 +126,7 @@ Ice
 
  | 
 
-30 Frostdraw
+Power 1 and 250
 
  |
 | 
@@ -156,11 +138,10 @@ Ice
 -   Deals 4/5/6/7/8 posture damage per level.
 -   Has a cooldown of 12 seconds.
 -   The first hit has 9.18x PvE scaling, the second hit has 6.5x PvE scaling (multiply scaled damage dealt by 9.18/6.5x for PvE damage).
--   Inflicts 2 seconds of Chill on the initial hit. This Chill duration can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Inflicts 2 seconds of Chill on the initial hit. This Chill duration can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   You can press block during the windup to cancel the impale.
 -   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
--   Shares a cooldown with [Gale Lunge](Galebreathe.md#gale-lunge).
 
  |
 | 
@@ -190,7 +171,7 @@ Slash
 
  | 
 
-50 Heavy Weapon
+Power 1 and 250
 
  |
 | 
@@ -205,6 +186,78 @@ Slash
 
  |
 
+### Power 5 Mantras
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Rising Frost** (★★☆)
+
+_Conjure a glaive of frost to launch your opponents skywards._
+
+ | 
+
+## Rising Frost (★★☆)
+
+  
+_Conjure a glaive of frost to launch your opponents skywards._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Ice + Slash
+
+ | 
+
+Power 5 and 450
+
+ |
+| 
+
+**Effect:** _Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air._
+
+-   Has a base damage of 10 + 11.5 + 20 / 11 + 12.65 + 22 / 12 + 13.8 + 24 / 13 + 14.95 + 26 / 14 + 16.1 + 28 per level with 2.75 Frostdraw scaling.
+-   Deals 12/15/18/21/24 posture damage per level.
+-   13 second cooldown.
+-   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
+-   Applies Chill for 2 second per hit. This cannot be modified.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size of the AoE.
+
+ |
+
 ## Available Talents
 
 ### Starter Talents
@@ -212,8 +265,19 @@ Slash
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Saint Jay  
-(25 Frostdraw, Frostbite)  
 250 | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
 |  | Preceding Chill  
-(60 Frostdraw, Ice Beam)  
 250 | Enemies hit during the last moments of your ice beam are frozen. | Doesn’t freeze with Crystal path, instead adds another Crystal on final hit. |
+
+### Power 5 Talents
+
+| Talent | Card Description | Effect |
+| --- | --- | --- |
+| Frost Buster  
+100 | Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve. | Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats. |
+| Brutal Momentum  
+100 | Successfully dodging will give you hyperarmour on your next swing. |  |
+| Precision Hitter  
+100 | Your Basic Attack posture damage is increased by 15%. |  |
+| Warrior's Swing  
+100 | \[Heavy Weapons\] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor. |  |

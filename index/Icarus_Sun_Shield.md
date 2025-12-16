@@ -1,9 +1,11 @@
 ---
 title: Icarus Sun Shield
-revid: 181891
+revid: 182589
 source: https://deepwoken.fandom.com/wiki/Icarus_Sun_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Shields, The Hundred Legions, Offhand]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Weapons, Shields, The Hundred Legions, Offhand]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Icarus Sun Shield
@@ -31,4 +33,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-A Khan Shield is a [side weapon](Weapons.md) in the Shield category.
+The Icarus Sun Shield is a [side weapon](Weapons.md) in the Shield category.

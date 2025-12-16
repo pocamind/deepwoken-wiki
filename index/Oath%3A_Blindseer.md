@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 178766
+revid: 182655
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -16,6 +16,9 @@ categories: [Oaths]
 “ The light rearranges into a missive now legible. It details the tenets of an Oath - that we are born with our eyes closed, and we merely choose to open them. ”
 
 ― Glyphs found in the Temple of the Forgotten Flame
+
+  
+_If you're looking for a [Memento](Mementos.md) of a similar name, see [Sightless](Sightless.md)_
 
 ## Description
 

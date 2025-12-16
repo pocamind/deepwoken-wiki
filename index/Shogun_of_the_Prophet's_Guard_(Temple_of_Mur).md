@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 182375
+revid: 182584
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -93,6 +93,8 @@ Their attire consists of a [Blacksteel Helm](Blacksteel_Helm.md), [Etrean Siege 
 **Shogun Captain** has not attack pattern, beside using all hits in a given attack.
 
 Ranged attacks of any kind will automatically be parried if **Shogun Captain** is not attacking.
+
+Before attempting him, take a right when entering the temple and go down the stairs. There will be a boundary that you can teleport back to.
 
 ## Trivia
 

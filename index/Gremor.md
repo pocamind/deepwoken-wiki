@@ -1,6 +1,6 @@
 ---
 title: Gremor
-revid: 177109
+revid: 182565
 source: https://deepwoken.fandom.com/wiki/Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -26,6 +26,10 @@ Gremors are an [aspect](Aspects.md) similar to deer. They appear with greenish, 
 
 ## Traits
 
+**Pathfinder:**
+
+  
+
 <table>
 <tbody>
 <tr>
@@ -47,6 +51,25 @@ Gremors are an [aspect](Aspects.md) similar to deer. They appear with greenish, 
   <ul>
     <li>+3 Fortitude</li>
     <li>+2 Strength</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+**Iron Vow:**
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td><figure><figcaption></figcaption></figure></td>
+  <td><b>Navae's Technique</b>
+  <ul>
+    <li>"<i>A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 40%."</i>
+  <ul>
+    <li>Mantras take 40% less ether.</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>
