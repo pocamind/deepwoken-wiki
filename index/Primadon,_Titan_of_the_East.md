@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 181698
+revid: 183433
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -8,9 +8,11 @@ categories: [Monsters, Bosses]
 
 # Primadon, Titan of the East
 
-Template:Creature Infobox V3
+“ In this time there were rumours of a Primadon who devoured a hoard of treasure... ”
 
-Primadon, the Titan of the East is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>). Not to be confused with [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md).
+― The Reclaimer of the Collection
+
+Template:Creature Infobox V3 Primadon, the Titan of the East is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>). Not to be confused with [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md).
 
 ## Description
 
@@ -57,10 +59,6 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <td><a href="Strange_Claw.md">Strange Claw</a></td>
   <td>5</td>
-</tr>
-<tr>
-  <td><a href="Stardust.md">Stardust</a></td>
-  <td>10</td>
 </tr>
 </tbody>
 </table>

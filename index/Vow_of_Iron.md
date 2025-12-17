@@ -1,9 +1,9 @@
 ---
 title: Vow of Iron
-revid: 183128
+revid: 183303
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Paths, Character]
+categories: [In progress without reason, InProgressPages, Game Modes, Paths, Character]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

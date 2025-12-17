@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 183180
+revid: 183412
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -30,10 +30,10 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 
 ### Starting the Fight with Zi'eer
 
-1.  Uncap Power 15 by defeating the [True Heart of Enmity](True_Heart_of_Enmity.md), which breaks the green barrier that keeps him safe
+1.  Uncap Power 15 by defeating the [True Heart of Enmity](True_Heart_of_Enmity.md), which then spawns you at the castle, attack the statue to break the barrier around the castle.
 2.  Recommended but not mandatory: Reach Power 20.
 3.  Make your way to Etris and fight through the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) until you reach his palace.
-4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin.
+4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing.**_
 
 ## Moves
 
@@ -41,7 +41,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | --- | --- | --- |
 | 
 **Circular Slices**  
-(☆☆☆)
+(★☆☆)
 
  | Zi'eer summons his tendrils around the player, indicated by white circles on the ground.
 
@@ -52,7 +52,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Brushstrokes of Black**  
-(☆☆☆)
+(★★☆)
 
  | Occasionally black strings start to rain and make move towards the player. These Pillars either move from right to left or from Zi'eer's statue to the player.
 
@@ -62,7 +62,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Tendril Uprising**  
-(☆☆☆)
+(★★☆)
 
  | Zi'eer summons his tendrils from the ground, indicated by white circles on the ground that appear 1-3 times.
 
@@ -72,7 +72,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Cascade of Solemn Judgement**  
-(☆☆☆)
+(★★☆)
 
  | Unlike Circular Slices, Zi'eer summons an AOE attack that if the player doesn't manage to react, they get put in Judgement and get sliced rapidly.
 
@@ -84,7 +84,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Touch of Prepared Equalizer**  
-(☆☆☆)
+(★★☆)
 
  | The Player is getting a white indicator and black strings summon on the ground, that proc Prepared Equalizer.
 
@@ -95,7 +95,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Prophet's Divebomb**  
-(☆☆☆)
+(★★☆)
 
  | Zi'eer flies in the air and performs a divebomb from above.
 
@@ -106,7 +106,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Prophet's Dropkick**  
-(☆☆☆)
+(★★☆)
 
  | Zi'eer flies in the air and performs a quick dropkick from above
 
@@ -117,7 +117,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Tacet Dash Kick**  
-(☆☆☆)
+(★★★)
 
  | Zi'eer starts to teleport fast and performs fast dash kicks marked by his red indicator about 2 times. Should the player get his, Zi'eer puts the player in an electrical Judgement state, causing damage over time.
 
@@ -128,7 +128,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Reeled Requiem**  
-(☆☆☆)
+(★★★)
 
  | Zi'eer performs a quick strike, ragdolling the player and pulling him back to Zi'eer, just to get blasted by him in a huge distance.
 
@@ -138,7 +138,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Blinkstrike**  
-(☆☆☆)
+(★★☆)
 
  | Zi'eer starts to spin with his legs and lunges towards the player with to slash them.
 
@@ -149,7 +149,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **Blinkstep**  
-(☆☆☆)
+(★★☆)
 
  | Zi'eer initiates a special dash attack, which can be mixed with String Blast.
 
@@ -159,11 +159,12 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 | 
 
 **The Master Of The House**  
-(☆☆☆)
+(★★★★★)
 
  | Zi'eer summons a singularity of black contractor sorcery in the air, ready to slam it down on the player as it charges slowly up.
 
 -   This move only occurs during his second phase.
+-   If you do not hit him before he charges it up, it will instantly 1 shot.
 
  |  |
 

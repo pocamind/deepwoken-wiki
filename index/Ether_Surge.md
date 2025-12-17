@@ -1,6 +1,6 @@
 ---
 title: Ether Surge
-revid: 182734
+revid: 183401
 source: https://deepwoken.fandom.com/wiki/Ether_Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enchantments, Weapon Enchantments]
@@ -29,4 +29,4 @@ This enchantment's visual changes on your weapon are currently unknown.
 
 ## Effect
 
-After landing enough M1s, Ether Surge gives the user infinite ether for an unknown duration. The hit count to activate this enchantment is also unknown.
+After landing 5 M1s, Ether Surge gives the user infinite ether for 10 seconds. Landing additional hits while this is active will extend the duration.

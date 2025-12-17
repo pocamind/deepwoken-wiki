@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 183182
+revid: 183423
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Wardens of The Central Authority, NPCs located in the Eastern Luminant]
@@ -26,8 +26,6 @@ Warden Jericho is an [Adret](Adret.md) NPC. He is a high-ranking official within
 He appears as an aged Adretian man with red eyes and markings, with a faded scar on his right eye. His hair is a dark blue color, and is combed back precisely to reach the back of his neck, with his bangs asymmetrically leaning towards the right. To the right of his head is a glowing white "crown" in the shape of three four-pronged stars connected with each other, likely as a result of being a [Warmaster](Oaths.md).
 
 Much like the rest of him, his personality is still a mystery. Unlike most members of the Authority, he appears to actually pity the [Etreans](Etrea.md), knowing that [The Lord Regent](The_Lord_Regent.md) is dragging them into this 'war they cannot understand' and sees their Lord Regent as a 'thing' rather than a person.
-
-Despite this, it's heavily implied Jericho is either not as competent as he seems, or that he has been the victim of deliberate acts of subterfuge within the Eastern garrison. During the [Etrean Civil War](Etrean_Civil_War.md), Jericho was in charge of the Eastern garrison and numerous soldiers participated in the bloody conflict. Despite this, Jericho was not made aware of what was going on nor the participation of numerous Contractors. As a result, the Eastern garrison with time completely lost any information regarding the Lord Regent's ascent to power despite actively participating in it. This led to the deaths of numerous Inquisitors trying to find information they ostensibly should have had until [Inquisitor Lotus](Inquisitor_Lotus.md) discovered the truth.
 
 He dons a Red Royal Duelist and is clad over a [Authority Captain Uniform](Authority_Captain_Uniform.md). A gold-colored [Warmaster's Medallion](<Warmaster's_Medallion.md>) sits on his neck and a pair of [Vanguard Boots](Vanguard_Boots.md) on his feet. He holsters a bell on his hip, signifying his strength to obtain a [Resonance](Resonance.md). On his other hip, he wields the [Rite of Authority](Rite_of_Authority.md).
 

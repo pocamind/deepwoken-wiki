@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 180731
+revid: 183354
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -118,7 +118,6 @@ _Upon obtaining this Oath, two snake bracelets will wrap around your arms._
     -   If True Strength is active, this attack will extend to nearby enemies. Once you teleport to a new enemy, hit them with a significantly weakened Decimate and proc a flurry of slashes. The weakened decimate deals 0.1 damage and the slashes deal 12 damage total (3 slashes that deal 4 damage each).
         -   Deals a total of 49.74 Oath & Slash damage in True Strength (18.67 \* 2 base hits + 0.1 teleport + (4 \* 3 slashes)).
     -   Direct hits **autogrip** players if low enough or knocked.
-    -   Able to be used on fist
     -   Obtainment: Obtained after the final Mind Reflection fight along with Reveal and Float Like a Butterfly
 
 Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Bladeharper's attacks deal Oath and Physical damage. This means they will be resisted by your Physical resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Physical resistance.

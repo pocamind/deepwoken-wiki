@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 183234
+revid: 183348
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages]
@@ -49,10 +49,9 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 (★★☆)
 
- | The Heart of Enmity raises his axe into the air and summons 3 [Servants of Enmity](Enforcer.md), which are Soul [Enforcers](Enforcer.md) with bright yellow eyes.
+ | The Heart of Enmity raises his axe into the air and summons 3 [Servants of Enmity](Enforcer.md), which are Soul [Enforcers](Enforcer.md) with bright yellow eyes. During this time, he will not attack the player and instead watch.
 
--   These serve to heal you during the fight via killing them.
--   Each Servant has 8,000 HP, and does not scale per player.
+-   Each Servant will die in a singular hit and gives a **tiny** amount of health when killed.
 -   Posture break moves have the same effect as in bosses.
 -   They don't have the Enforcer Pull or Whirlwind attacks.
 
@@ -129,18 +128,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  |  |
 | 
 
-**Event Horizon**
-
-(★★☆)
-
- | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage.
-
--   During this charge up, Enmity is free to be hit.
-
- |
-| 
-
-**You Are Dead As Hell Bro Don't Make This Bargain Again**
+**Heretics Flight**
 
 (★★★)
 

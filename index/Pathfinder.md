@@ -1,14 +1,18 @@
 ---
 title: Pathfinder
-revid: 182376
+revid: 183308
 source: https://deepwoken.fandom.com/wiki/Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Paths, Character]
+categories: [Pathfinder Exclusive, Game Modes, Paths, Character]
 ---
 
 # Pathfinder
 
-_This page is for the Pathfinder gamemode. For the "Pathfinder" term in lore, see [Pathfinders Glossary](Glossary.md#pathfinders) and [The Pathfinders](Lore.md#the-pathfinders). For the Pathfinder NPC, see [Pathfinder (NPC)](<Pathfinder_(NPC).md>)._
+****Pathfinder** Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+_This page is for the Pathfinder gamemode. For the "Pathfinder" term in lore, see the ["Pathfinders" Glossary entry](Glossary.md#pathfinders) and [The Pathfinders](Lore.md#the-pathfinders). For the Pathfinder NPC, see [Pathfinder (NPC)](<Pathfinder_(NPC).md>)._
 
 “ Follow your own path.  
 The ink is not yet dry. Your fate is what you make it. ”

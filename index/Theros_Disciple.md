@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 182740
+revid: 183307
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]

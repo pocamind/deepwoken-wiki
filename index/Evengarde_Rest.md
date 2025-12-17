@@ -1,9 +1,9 @@
 ---
 title: Evengarde Rest
-revid: 182901
+revid: 183315
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
 ---
 
 # Evengarde Rest
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrea
 | aspect | Etrean |
 | location | Temple of the Blade |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

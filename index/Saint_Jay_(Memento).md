@@ -1,9 +1,9 @@
 ---
 title: Saint Jay (Memento)
-revid: 182935
+revid: 183393
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
+categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -64,6 +64,8 @@ Saint Jay (Memento) is a playable [Memento](Mementos.md) available in the [Vow o
 
 **Ice Beam** (☆☆☆)
 
+**Combat**
+
 _Fire a beam of ice._
 
  | 
@@ -71,6 +73,7 @@ _Fire a beam of ice._
 ## Ice Beam (☆☆☆)
 
   
+**Combat**  
 _Fire a beam of ice._
 
  |
@@ -84,7 +87,7 @@ Ice
 
  | 
 
-Power 1 and 250
+Power 1, 250
 
  |
 | 
@@ -106,6 +109,8 @@ Power 1 and 250
 
 **Ice Lance** (★★☆)
 
+**Combat**
+
 _Form an ice spear and lunges forward._
 
  | 
@@ -113,6 +118,7 @@ _Form an ice spear and lunges forward._
 ## Ice Lance (★★☆)
 
   
+**Combat**  
 _Form an ice spear and lunges forward._
 
  |
@@ -126,7 +132,7 @@ Ice
 
  | 
 
-Power 1 and 250
+Power 1, 250
 
  |
 | 
@@ -171,7 +177,7 @@ Slash
 
  | 
 
-Power 1 and 250
+Power 1, 250
 
  |
 | 
@@ -222,6 +228,8 @@ Power 1 and 250
 
 **Rising Frost** (★★☆)
 
+**Combat**
+
 _Conjure a glaive of frost to launch your opponents skywards._
 
  | 
@@ -229,6 +237,7 @@ _Conjure a glaive of frost to launch your opponents skywards._
 ## Rising Frost (★★☆)
 
   
+**Combat**  
 _Conjure a glaive of frost to launch your opponents skywards._
 
  |
@@ -242,7 +251,7 @@ Ice + Slash
 
  | 
 
-Power 5 and 450
+Power 5, 450
 
  |
 | 
@@ -260,24 +269,25 @@ Power 5 and 450
 
 ## Available Talents
 
-### Starter Talents
+### Starting Talents
 
-| Talent | Card Description | Effect |
-| --- | --- | --- |
-| Saint Jay  
-250 | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
-| Preceding Chill  
-250 | Enemies hit during the last moments of your ice beam are frozen. | Doesn’t freeze with Crystal path, instead adds another Crystal on final hit. |
+-   Saint Jay \[Rare Talent\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased.
+    -   Requirements: Power 1, 250
+
+-   Preceding Chill \[Rare Talent\] - Enemies hit during the last moments of your ice beam are frozen.
+    -   Requirements: Power 1, 250
 
 ### Power 5 Talents
 
-| Talent | Card Description | Effect |
-| --- | --- | --- |
-| Frost Buster  
-100 | Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve. | Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats. |
-| Brutal Momentum  
-100 | Successfully dodging will give you hyperarmour on your next swing. |  |
-| Precision Hitter  
-100 | Your Basic Attack posture damage is increased by 15%. |  |
-| Warrior's Swing  
-100 | \[Heavy Weapons\] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor. |  |
+-   Frost Buster \[Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
+    -   Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats.
+    -   Requirements: Power 5, 100
+
+-   Brutal Momentum \[Common Talent\] - Heavy Weapons Successfully dodging will give you hyperarmour on your next swing.
+    -   Requirements: Power 5, 100
+
+-   Precision Hitter \[Common Talent\] - Your Basic Attack posture damage is increased by 15%.
+    -   Requirements: Power 5, 100
+
+-   Warrior's Swing \[Common Talent\] - Heavy Weapons Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
+    -   Requirements: Power 5, 100

@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 183233
+revid: 183375
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -13,6 +13,8 @@ categories: [Vow of Iron Exclusive]
 | health | ??? |
 | weapon | Crazy Slots |
 | affiliation | The Golden Rats |
+
+_"from now on we"ll be using only our weapons to fight. no more tricks, understand that?"_
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

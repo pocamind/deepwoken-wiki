@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 183209
+revid: 183414
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Mechanics]
@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 
 Boundaries are the way for the player to teleport in and out of [the Cerebral Spire](The_Cerebral_Spire.md) in [Vow of Iron](Vow_of_Iron.md). The player must enter the boundary to unlock it in [The Cerebral Spire](The_Cerebral_Spire.md).
 
-3 Boundaries are unlocked from the start: [Meteor Isle](Meteor_Isle.md), Aratel Wilderness (located at [Bluster Rapids](Bluster_Rift.md), right across from [Meteor Isle](Meteor_Isle.md)) and [Merit's Keep](Fort_Merit.md). _(Taking the teleporters on the second floor of [The Cerebral Spire](The_Cerebral_Spire.md) will remove these locations if you haven't already unlocked them.)_
+3 Boundaries are unlocked from the start: [Meteor Isle](Meteor_Isle.md), Aratel Wilderness (located at [Bluster Rapids](Bluster_Rift.md), right across from [Meteor Isle](Meteor_Isle.md)) and [Merit's Keep](Fort_Merit.md) (inside [Fort Merit](Fort_Merit.md)). _(Taking the teleporters on the second floor of [The Cerebral Spire](The_Cerebral_Spire.md) will remove these locations if you haven't already unlocked them.)_
 
 **Wiping will save all your boundaries unlocked on that slot**, but they won't unlock account-wide like Echo talents.
 
@@ -28,7 +28,7 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
-| Hidden Cave ([The Entropy Catalyst](The_Entropy_Catalyst.md)) | 
+| Aratel Wilderness ([Bluster Rapids](Bluster_Rift.md)) | 
 
  | 
 
@@ -38,17 +38,66 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
+| Miner Cave ([Bluster Rapids](Bluster_Rift.md)) | 
+
+ | 
+
+ |
 | Aratel Temple ([The Starswept Valley](The_Starswept_Valley.md)) | 
 
  | 
 
  |
-| Aratel Wilderness ([Bluster Rapids](Bluster_Rift.md)) | 
+| Legion Camp ([The Starswept Valley](The_Starswept_Valley.md)) | 
+
+ | 
+
+ |
+| [Temple of Mur](Temple_of_Mur.md) | 
+
+ | 
+
+(To reach the boundary, enter the Temple of Mur, turn right, then follow the path down the stairs)
+
+ |
+| Hive Cave ([The Lordsgrove](The_Lordsgrove.md)) | 
+
+ | 
+
+(The boundary is located underneath the Lordsgrove)
+
+ |
+| Hive Statue ([The Aratel Sea](The_Aratel_Sea.md)) | 
+
+ | 
+
+ |
+| Paw ([The Monkey's Paw](<The_Monkey's_Paw.md>)) | 
+
+ | 
+
+ |
+| [The Polymarch](The_Polymarch.md) | 
+
+ | 
+
+ |
+| Miner's Landing Inn ([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
+
+ | 
+
+ |
+| Log ([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
 
  | 
 
  |
 | Hidden Authority Camp | 
+
+ | 
+
+ |
+| Hidden Cave ([The Entropy Catalyst](The_Entropy_Catalyst.md)) | 
 
  | 
 
@@ -67,42 +116,17 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
-| Miner's Landing Inn ([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
-
- | 
-
- |
-| Log ([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
-
- | 
-
- |
-| Hive Statue ([The Aratel Sea](The_Aratel_Sea.md)) | 
-
- | 
-
- |
-| Miner Cave ([Bluster Rapids](Bluster_Rift.md)) | 
-
- | 
-
- |
-| [The Polymarch](The_Polymarch.md) | 
-
- | 
-
- |
 | Songseeker Bell ([Songseeker Temple](Songseeker_Temple.md)) | 
 
  | 
 
  |
-| Songseeker Mines ([Songseeker Wilds](Songseeker_Wilds.md)) | 
+| Songseeker Church ([Derelict Highchurch](Derelict_Highchurch.md)) | 
 
  | 
 
  |
-| Songseeker Church ([Derelict Highchurch](Derelict_Highchurch.md)) | 
+| Songseeker Mines ([Songseeker Wilds](Songseeker_Wilds.md)) | 
 
  | 
 
@@ -117,17 +141,12 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
-| [Temple of Mur](Temple_of_Mur.md) | 
-
- | 
-
- |
 | Trial ([Minityrsa](Minityrsa.md)) | 
 
  | 
 
  |
-| Legion Camp ([The Starswept Valley](The_Starswept_Valley.md)) | 
+| Crypt Log ([Crypt of the Unbroken](Crypt_of_the_Unbroken.md)) | 
 
  | 
 
@@ -137,21 +156,19 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
-| Paw ([The Monkey's Paw](<The_Monkey's_Paw.md>)) | 
-
- | 
-
- |
 | Blade Temple ([Isle of Vigils](Isle_of_Vigils.md)) | 
 
  | 
 
  |
-| Hive Cave ([The Lordsgrove](The_Lordsgrove.md)) | 
+| Fish Hut ([The Etrean Sea](The_Etrean_Sea.md)) | 
 
  | 
 
-(The Boundary Portal is located underneath the Lordsgrove)
+ |
+| Etrea Home ([Etris](Etris.md)) | 
+
+ | 
 
  |
 

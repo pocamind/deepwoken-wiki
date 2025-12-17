@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 183172
+revid: 183426
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -173,13 +173,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
     -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
-        -   Flamecharm: Orange
-        -   Frostdraw: Blue
-        -   Thundercall: Yellow
-        -   Galebreathe: Green
-        -   Shadowcast: Purple
-        -   Ironsing: Grey
-        -   Bloodrend: Red
+        -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
     -   Does not effect Oath, Attunement-less, or Monster mantras.
     -   Prerequisite: 25 Intelligence
 
@@ -819,7 +813,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Wither gain
         -   Ring of Pestillence duration
         -   The potency of potions
-        -   Time knocked (cut by 50% multiplicatively after other modifiers)
+        -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
 
 -   Underdog \[Common Talent\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
     -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
@@ -949,7 +943,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Displays a red particle on the target enemy after proccing.
     -   Prerequisite: 30 Light Weapon
 
--   Decisive Blow \[Common Talent, Light\] - Daggers Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
+-   Decisive Blow \[Common Talent, Light\] - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
     -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect.
     -   Compatible with Switchblade despite not being a Dagger talent.
     -   Prerequisite: Knife's Journey
@@ -1149,6 +1143,50 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   **Target Focus** \[Faction Exclusive\] - Enemies you charm take more damage from your squadmates in your party.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Command Division
 
+### Drifter
+
+-   Blinkstep \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your regular dash is enhanced into a Blinkstep above 90% ether but now has an ether cost.
+    
+    -   Replaces your dash with a longer and faster dash that costs some ether.
+    -   Cannot be used if your Ether is below 90%. Having the True Drifter Talent will remove this requirement, assuming you have stacks of Cutting Pace.
+    -   Prerequisites: [Drifter](Drifter.md) Memento, defeat [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Cutting Pace \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Dodging attacks will now grant 'Cutting Pace' stacks. Mantras and basic attacks consume a stack to shorten wind-up and increase damage, procs after dash.
+    
+    -   Buffed attacks deal 15% more damage, have a slightly shorter windup, and are recolored to a purple.
+    -   Prerequisites: [Drifter](Drifter.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Drift \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You're no longer slow enough to have to rely on parries. Dodge instead.
+    
+    -   Replaces your parry with a fast dodge that can dodge unparryable attacks, at the cost of no parry stun. You still need to be hit by something for the dodge to occur.
+    -   Prerequisite: [Drifter](Drifter.md) Memento
+
+-   Drifting Cloud \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Cutting Pace now unsheathes the full potential of your [Purple Cloud](Purple_Cloud.md).
+    
+    -   Upon proccing Cutting Pace, unsheathe your Purple Cloud.
+    -   This changes Purple Cloud's stats, animations, and damage type to Slash. Additionally Purple Cloud gains a unique swing trail.
+    -   The unsheathed Purple Cloud stays until you leave the game.
+    -   Prerequisites: [Drifter](Drifter.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Faster Blade \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - A successful "Drift" now grants a speed boost
+    
+    -   Procs when "parrying" an attack.
+    -   Prerequisites: [Drifter](Drifter.md) Memento, defeat [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Lackluster Guard \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You aren't used to having to block, resulting in weaker posture.
+    
+    -   Reduces your maximum posture.
+    -   Prerequisite: [Drifter](Drifter.md) Memento
+
+-   True Drifter \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You are a true drifter. Gain double the 'Cutting Pace' stacks and consume stacks to Blinkstep below 90% ether.
+    
+    -   Gain double the stacks whenever you proc Cutting Pace. Additionally, you can now Blinkstep when below 90% Ether by consuming a Cutting Pace stack.
+    -   Prerequisites: [Drifter](Drifter.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Twin Drift \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Hitting an enemy in the back after a roll cancel will bring upon twins who will follow up your assault.
+    
+    -   Similarly to [Spine Cutter](#spine-cutter), performing a basic attack after a roll cancel will perform a second slash, then two light purple clones of yourself will attack the target.
+
 ### Drowned Secret
 
 -   Ethiron's Gaze \[Common Talent\] - Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now.
@@ -1274,6 +1312,40 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Unwavering Focus \[Common Talent\] - When your mantras are parried, receive less posture (scales with intelligence).
     -   Prerequisites: 60 Intelligence, 10 Strength
+
+### Ether Erudite
+
+-   Barrage Mastery \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - For every Ether Erudite stack you have, gain one extra orb whenever you fire your Ether Barrage.
+    
+    -   Prerequisites: [Ether Erudite](Ether_Erudite.md) Memento, defeat [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Ether Amplification \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - For every Ether Erudite Stack you have, increase the size and damage of your [Pressure Blast](Attunement-less.md#pressure-blast).
+    
+    -   Turns Pressure Blast light blue.
+    -   Prerequisites: [Ether Erudite](Ether_Erudite.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Ether Blitz \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - For every Ether Erudite Stack you have, reduce the windup of your enhanced [Master's Flourish](Attunement-less.md#masters-flourish). This consumes your Ether Erudite stacks on use.
+    
+    -   Turns Master's Flourish light blue.
+    -   Prerequisites: [Ether Erudite](Ether_Erudite.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Ether Burst \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landing [Rapid Slashes](Attunement-less.md#rapid-slashes) on your opponent gives them an overflow of Ether, causing them to take bursts of damage based on how many Ether Erudite stacks you had.
+    
+    -   Consumes your Ether Erudite Stacks.
+    -   Turns your Rapid Slashes light blue.
+    -   Prerequisites: [Ether Erudite](Ether_Erudite.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Ether Erudite \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - The more total Ether you have, the more damage you deal. Gain Ether Erudite Stacks to improve your combat abilities. The max amount you can hold is 6.
+    
+    -   Prerequisites: [Ether Erudite](Ether_Erudite.md) Memento
+
+-   Ether Quell \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landing a Critical Attack or Guardbreaking an opponent gives you 1 Ether Erudite Stack.
+    
+    -   Prerequisites: [Ether Erudite](Ether_Erudite.md) Memento, defeat [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Ether Reflux \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Successfully countering an opponent with [Prediction](Attunement-less.md#prediction) gives you 2 Ether Erudite stacks.
+    
+    -   Prerequisites: [Ether Erudite](Ether_Erudite.md) Memento, defeat [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 ### Evil Endeavors
 
@@ -1555,7 +1627,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
     -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
-    -   Prerequisite: 35 Mind (35 Charisma OR 35 Intelligence OR 35 Willpower)[\[2\]](#cite-note-2)
+    -   Prerequisite: 35 Mind (35 Charisma OR 35 Intelligence OR 35 Willpower)
 
 ### Glassdancer
 
@@ -2163,7 +2235,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Leaf in the Wind
 
 -   _Observation_ \[Rare Talent, Agility\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
     -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
 
@@ -2340,11 +2412,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Metal Eater \[Common Talent, Ironsing Exclusive\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
     -   If you can't cast a mantra due to a lack of ether, consume ~30% total armor durability to cast it.
-        -   Always takes 30% armor, doesn't scale with ether to cast, aka 1 or 9999 ether mantra will always take only 30% armor
+        -   Always takes 30% armor, doesn't scale with ether to cast, aka 1 or 9999 ether mantra will always take only 30% armor.
     -   Prerequisite: 50 Ironsing
 
 -   Metal Thief \[Common Talent, Ironsing Exclusive\] - Pulling an opponent absorbs a portion of their current Armor durability.
-    -   Each rod will steal 2% of current enemy's armor durability (If you pull 10 rods out of 1k durability armor, you will get only 200 durability to you, as example 2600 durability armor which is 7%)
+    -   Each rod will steal 2% of your opponent's current armor durability.
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing Exclusive\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
@@ -2355,7 +2427,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 20 times, for a 100% damage boost.[\[3\]](#cite-note-3)
+    -   Can stack up to 20 times, for a 100% damage boost.[\[2\]](#cite-note-2)
         -   This effect is not accounted for in the 75% damage boost cap.
     -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from sources like Flame Within and Jumpstart, but not fall damage.)
     -   Unlock requirement: Defeat any [Bosses](Bosses.md) solo without taking any damage.
@@ -2527,7 +2599,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 50 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
 -   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
-    -   This effect requires your opponent to be within 90 studs of you
+    -   This effect requires your opponent to be within 90 studs of you.
     -   For every point of Intelligence below 80, Prediction's maximum cooldown will be increased by 0.125 seconds, capping at 33.125 seconds with 55 Intelligence.
     -   Prerequisites: 80 Intelligence, [Prediction](Attunement-less.md#prediction) (Mantra)
 
@@ -2960,7 +3032,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
     -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
     -   5% DMG bonus currently bugged. (Since Summer 2023)
-    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[4\]](#cite-note-4)
+    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[3\]](#cite-note-3)
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Septicemia
@@ -3950,10 +4022,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
     -   Prerequisites: [Power](Power.md) 13, Engage
 
--   Critical Attack \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
+-   _Critical Attack_ \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
     -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
--   Engage \[Common Talent\] \[Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
+-   _Engage_ \[Common Talent\] \[Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
     -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
 ### Waterborne
@@ -4017,8 +4089,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This Talent was previously named "Berserker."
     -   Prerequisites: 35 Fortitude, 30 Strength
 
--   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether.
-    -   2s Cooldown.
+-   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether. 2s CD
     -   Grants +20 Ether on proc.
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
@@ -4767,6 +4838,5 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2) File:Neuro.png
-3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
-4.  [↑](#cite-ref-4)
+2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=lHYqvY2Xc5E](https://www.youtube.com/watch?v=lHYqvY2Xc5E)
+3.  [↑](#cite-ref-3)

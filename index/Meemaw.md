@@ -1,6 +1,6 @@
 ---
 title: Meemaw
-revid: 182471
+revid: 183295
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Meemaw is a [Felinor](Felinor.md) NPC. She is the grandma of [Lucien](Lucien.md) who is present in the [Pathfinder](Pathfinder.md) [Memento](Mementos.md).
+Meemaw is a [Felinor](Felinor.md) NPC. She is the grandma of [Lucien](Lucien.md) who is present in [Pathfinder](Pathfinder.md).
 
 ## Location
 

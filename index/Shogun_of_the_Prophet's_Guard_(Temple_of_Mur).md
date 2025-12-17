@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 183264
+revid: 183294
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -27,7 +27,7 @@ The Shogun of the Prophet's Guard is a Boss exclusive to Vow of Iron. It is a hu
 
 The Shogun of the Prophet's Guard is required to be killed in order to power up past Power 5. It is located in a dungeon server. In order to access said dungeon, there is a white portal near the [Deep Thresher Nest](Deep_Thresher_Nest.md) or Viridian Sanctuary.
 
-Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a [Kabuto](<Royal_Guard's_Kabuto.md>), [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
+Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a [Kabuto](<Royal_Guard's_Kabuto.md>), an [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) combined with an [Iron Cestus](Iron_Cestus.md), and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
 
 ## Moveset
 

@@ -1,26 +1,41 @@
 ---
 title: Unsung
-revid: 165497
+revid: 183343
 source: https://deepwoken.fandom.com/wiki/Unsung
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Outfits, Exclusive Outfits]
-notices:
-  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+categories: [Vow of Iron Exclusive, Outfits, Exclusive Outfits]
 ---
 
 # Unsung
 
 | Unsung | |
 |---|---|
-| tier | Unique (Spec/Mod) |
+| tier | Unique |
+| stat_req | Power 1 |
 | bankable | Yes |
-| droppable | Yes |
-| durability | 100 |
-| resistances | +5% Physical Armor |
+| droppable | No |
+| durability | 3000 |
+| resistances | +30% Physical Armor |
+| buffs | +75% Ether Regen |
+| obtainment | Drifter Memento |
 | selling_price | 10 |
 | weight | 1 |
 
-**Unsung** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
+
+**Unsung** is a Unique (Spec/Mod) [Outfit](Outfits.md) in Pathfinder _Deepwoken_. This Outfit can be obtained through the [Drifter](Drifter.md) Memento in [Vow of Iron](Vow_of_Iron.md)
+
+## Statistics
+
+### _Requirements_
+
+This Outfit requires five (5) [Cloth](Cloth.md) to craft.
+
+### _Armor Stats_
+
+This Outfit has 3000 durability and grants +30% Physical resistance and +75% Ether Regen.
 
 ## Trivia
 

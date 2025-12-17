@@ -1,6 +1,6 @@
 ---
 title: Fragments of Else
-revid: 183201
+revid: 183299
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Else
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
@@ -15,7 +15,7 @@ notices:
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-LocationL Fragment of Else LocationR
+LocationL Fragments of Else LocationR
 
 Woven memories split and fray before you. The sharp edge of a paradox has severed you from this story.
 

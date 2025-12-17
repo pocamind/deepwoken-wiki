@@ -1,6 +1,6 @@
 ---
 title: Levit
-revid: 183019
+revid: 183311
 source: https://deepwoken.fandom.com/wiki/Levit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects]
@@ -73,3 +73,4 @@ The color of the ears are based on your skin color, it is unknown if they can be
 ## Trivia
 
 -   The idea of a rabbit aspect predates the release of _Deepwoken_. ragoozer had suggested the idea but Arch\_Mage, due to the sexualization of rabbit-themed humanoids, was vehemently against it, something he has made known even well into _Deepwoken'_s lifespan. Despite this, they were added alongside [Vow of Iron](Vow_of_Iron.md).
+-   One of the Surnames is named after youtuber Mikepike's bunny. He did not state which one though.
