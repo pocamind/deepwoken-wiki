@@ -1,11 +1,9 @@
 ---
 title: "Par's Glaive"
-revid: 181540
+revid: 183139
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Weapons, Developer Spec]
-notices:
-  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+categories: [Vow of Iron Exclusive, Weapons, Greataxes, "Core-Attribute based weapons", Developer Spec]
 ---
 
 # Par's Glaive
@@ -21,21 +19,23 @@ notices:
 | range | 9 Sweep |
 | swing speed | 0.8x |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Common |
 | selling price | ??? |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Developer Only |
+| obtainment | Developer Only (Pathfinder), The Depths (Vow of Iron) |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
-Par's Glaive is an abomination of a weapon exclusively used by the developer Par and former Lead Moderator astrotrain
+The Par's Glaive is a glaive greataxe weapon. In **Pathfinder**, this item is a developer spec weapon that is unobtainable by any means. In **Vow of Iron**, this weapon can be obtained by completing Depths events and turning in the loot bags.
 
-It posesses the properties of:
+## Critical
 
-1.  Heavy Weapon's Damage
-2.  Dagger's Swing Speed
-3.  Greataxe's light attacks and critical attack animations
-4.  Being enchantable (most seen with Detonation)
+Par's Glaive uses the default Greataxe critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.

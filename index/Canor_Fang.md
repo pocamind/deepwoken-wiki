@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 181211
+revid: 183104
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | Canor Fang | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 40 LHT |
 | damage | 11 |
 | scaling | LHT: 10 |
 | posture damage | 5 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.25x |
+| attack duration | 0.5s |
 | penetration | 5% |
 | m.equip | No |
 | m.extract | No |

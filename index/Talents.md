@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 182928
+revid: 183123
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -76,14 +76,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Advanced
     -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have potent, powerful effects on a character. These Talents are often at the end of a Talent tree, requiring various other Talents as prerequisites.
 
--   Oath
-    -   Talents obtained through taking an [Oath](Oaths.md). They relate to the Oath taken and don't take up Talent slots.
+-   Oath / Memento
+    
+    -   Talents obtained through taking an [Oath](Oaths.md) or exclusive Talents obtained from [Mementos](Mementos.md). They relate to the Oath taken and don't take up Talent slots.
+    
 
 -   Innate
     -   Talents obtained from your [Aspect](Aspects.md). These Talents do not take up Talent slots.
 
--   Origin /
-    -   Talents obtained from your [Origin](Origins.md) or through the [Echoes](Echoes.md) mechanic. These Talents do not take up Talent slots.
+-   Origin / Quest
+    -   Talents obtained from your [Origin](Origins.md) or through completing Quests. Echo Talents also fall under this category. These Talents do not take up Talent slots.
 
 -   Faction
     -   Talents obtained from a specific faction. These Talents may be given as a reward from having high reputation or completing a specific milestone or task for a [faction](Reputation.md).
@@ -364,32 +366,35 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Arcwarder**](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
--   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
+-   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] Your dashes become Jet Dashes, allowing you to attack while dashing.
     -   Jet dashes go much further than regular dashes.
     -   Also allows the user to M1 while performing a dash, ending their dash early.
     -   Prerequisite: [Oath: Arcwarder](Oath%253A_Arcwarder.md)
 
--   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When blockbroken with Arc Suit active, eject from the armor.
+-   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] When blockbroken, eject from your suit.
     -   If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
     -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When your [Arc suit](Oath%253A_Arcwarder.md#arc-suit) is active, your Arc mantras deal increased damage.
+-   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] Your Arcwarder Mantras deal increased damage.
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
     -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
     -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your your more conventional modifiers by giving them a higher base damage to work off of.
 
--   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
-    -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), blocking prevents Spine Cutter from proccing and grants 360 block to all attacks.
+-   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] You can block attacks from any direction and cannot be backstabbed.
+    -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you can block attacks that are coming from any direction.
+    -   Talents that proc on backstab (e.g. _Spine Cutter_) cannot proc on you while you're in Arc Suit.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration.
+-   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] Holding Spacebar after double jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
     -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - When your Arc Suit is active, outgoing and incoming enchant effects are nullified.
-    -   Press N to toggle enchants for both yourself and your opponent while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
+-   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] Outgoing and incoming enchant effects are nullified. Can be toggled with N.
+    -   Toggling Null on/off has a 5 second cooldown.
+    -   Has a sound effect on toggle.
+    -   Toggle hotkey can be changed in settings.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 ### Artisan
@@ -742,7 +747,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Does not proc from [Grand Fisher Plate](Grand_Fisher_Plate.md) or [Wormwarder Lantern](Wormwarder_Lantern.md) despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
 
--   Knuckle Guard \[Common Talent\] - Hitting Dazed enemies grants you 10% posture resistance for 15s.
+-   Knuckle Guard \[Common Talent\] - Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
     -   Prerequisities: 55 Fortitude, 25 Strength
 
@@ -827,9 +832,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Chaotic Moon
 
--   _**Blessing of the Moonseye**_ \[Flamecharm Exclusive, Advanced Talent\] - A sudden truth enters your mind. The stars above are aware of our existence. Their inexhaustible hatred for your very being emanates through you.
-    -   Gives a Talent tool that drains your sanity on use. Instantly puts you at T3 insanity as long as you have it.
-    -   Prerequisites: Agitating Spark, Immolation, Phoenix Flames (Glitched?)
+-   **Blessing of the Moonseye** \[[Vow of Iron](Vow_of_Iron.md) exclusive\] - A sudden truth enters your mind. The stars above are aware of our existence. Their inexhaustible hatred for your very being emanates through you.
+    
+    -   Gives a Talent tool that instantly brings you to tier 3 [Insanity](Insanity.md) on use. This insanity is permanent.
 
 ### Charm Caster
 
@@ -893,7 +898,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Use a Greatsword
 
 -   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 10%.
-    -   Active on every heavy weapon.
     -   Prerequisites: 25 Heavy Weapon, 15 Strength
 
 -   _Unstoppable Force_ \[Rare Talent\] - \[Greathammer\] You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load)
@@ -1809,7 +1813,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
     -   Prerequisites: Immolation, Agitating Spark
 
--   Ascended Phoenix Flames \[Vow of Iron Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
+-   **Ascended Phoenix Flames** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
+    
     -   Prerequisites: [Solborn](Solborn.md) Memento
 
 ### Inferno
@@ -1976,6 +1981,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
     -   Obtained at 50 Ironsing
 
+-   **Alloy of the Heavens** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture attack from mobs reduced by 50%
+    
+    -   Reduces posture damage taken from mobs by 50%.
+    -   Prerequisites: [Power](Power.md) 10, 200, [Iron Vessel](Iron_Vessel.md) Memento
+
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing Exclusive\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
     -   While at 100 Ironsing, bleed damage is reduced from 15% scaled damage to 10.5%. Bleed from Speed Demon is reduced from 7.5% scaled damage to 5.25%.
     -   Blood loss reduction is less effective if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchantment.
@@ -2050,16 +2060,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Jumpstarter
 
--   Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
+-   Electrify \[Common Talent, Thundercall Exclusive\] - Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
     -   Deals self damage if used without being carried.
     -   Prerequisites: 25 Thundercall
 
--   Amplified Reflexes \[Common Talent, Thundercall exclusive\] - Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.
+-   Amplified Reflexes \[Common Talent, Thundercall Exclusive\] - Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.
     -   Previously known as Jumpstart.
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Rage
 
--   Amplified Rage \[Common Talent, Thundercall exclusive\] - Amped now grants you an additional +10% weapon damage.
+-   Amplified Rage \[Common Talent, Thundercall Exclusive\] - Amped now grants you an additional +10% weapon damage.
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Reflexes
 
@@ -3795,7 +3805,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Unique
 
--   Precision Hitter - Your Basic Attack posture damage is increased by 15%.
+-   Precision Hitter \[Common Talent\] - Your Basic Attack posture damage is increased by 15%.
 
 ### Unstable Capacitor
 

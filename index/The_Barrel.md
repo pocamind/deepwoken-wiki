@@ -1,6 +1,6 @@
 ---
 title: The Barrel
-revid: 181384
+revid: 183058
 source: https://deepwoken.fandom.com/wiki/The_Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons]
@@ -11,12 +11,14 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatca
 | The Barrel | |
 |---|---|
 | type | Greatcannon |
+| damage type | Blunt |
 | requirements | 75 HVY, 30 STR |
 | damage | 25.5 |
 | scaling | HVY: 8.5 |
 | posture damage | 10.3 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.82x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 15% |

@@ -1,6 +1,6 @@
 ---
 title: Edenbrand Hellcoil
-revid: 181382
+revid: 183059
 source: https://deepwoken.fandom.com/wiki/Edenbrand_Hellcoil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heavy Weapons, Greatcannons, "Weapons with Multi-Hit Criticals"]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Heav
 | Edenbrand Hellcoil | |
 |---|---|
 | type | Greatcannon |
+| damage type | Blunt |
 | requirements | 75 HVY, 30 STR |
 | damage | 27 |
 | scaling | 8.3 HVY |
 | posture damage | 10 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.8x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | chip damage | 20% |
 | special effect | Critical applies White Burn |

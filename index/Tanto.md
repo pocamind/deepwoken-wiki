@@ -1,6 +1,6 @@
 ---
 title: Tanto
-revid: 181218
+revid: 183100
 source: https://deepwoken.fandom.com/wiki/Tanto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, Light Weapons]
@@ -12,12 +12,14 @@ categories: [Weapons, Daggers, Alloyed Weapons, Weapons with Unique Criticals, L
 |---|---|
 | alloyed name | Alloyed Tanto |
 | type | Dagger |
+| damage type | Slash |
 | requirements | 50 / 80 LHT |
 | damage | 15.5 / 16 |
 | scaling | LHT: 8 |
 | posture damage | 3 |
-| range | 6.5 |
+| range | 6.5 Sweep |
 | swing speed | 1.14x / 1.15x |
+| attack duration | 0.5s |
 | penetration | 5% |
 | m.equip | Yes |
 | m.extract | No |

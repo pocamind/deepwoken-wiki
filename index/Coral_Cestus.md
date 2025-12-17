@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 181285
+revid: 183028
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -12,12 +12,14 @@ categories: [Pages with broken file links, Weapons, Weapons with Unique Critical
 |---|---|
 | alloyed name | Broodalloy Cestus |
 | type | Fist |
+| damage type | Blunt |
 | requirements | 50 LHT / 85 LHT |
 | damage | 14 / 15.5 |
 | scaling | LHT: 9.5 / 9 |
 | posture damage | 5 / 5.5 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.10x |
+| attack duration | 0.5s |
 | penetration | 10% / 20% |
 | m.equip | No |
 | m.extract | No |

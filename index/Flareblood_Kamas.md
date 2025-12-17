@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 181260
+revid: 183098
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weap
 | Flareblood Kamas | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 60 LHT, 30 INT |
 | damage | 14 + 2.1 BLD |
 | scaling | LHT: 6, INT: 1.5, BLD: 3 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.25x |
+| attack duration | 0.5s |
 | penetration | 30% |
 | special effect | On hit, take away small amounts of blood from your opponent. |
 | m.equip | No |

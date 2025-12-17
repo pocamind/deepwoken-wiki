@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 181385
+revid: 183107
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Relics, Relic Weapon]
@@ -11,12 +11,14 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | Sanguine Transfuser | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 50 LHT; 75 BLD |
 | damage | 16.5 |
 | scaling | LHT: 6.5, BLD: 4 |
 | posture damage | 4.5 |
-| range | 6.5 |
+| range | 6.5 Sweep |
 | swing speed | 1.22x |
+| attack duration | 0.5s |
 | penetration | 20% |
 | m.equip | No |
 | m.extract | No |

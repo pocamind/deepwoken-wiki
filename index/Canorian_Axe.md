@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 181224
+revid: 183012
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -12,12 +12,14 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 |---|---|
 | alloyed name | Alloyed Canorian Axe |
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 35 HVY / 75 HVY |
 | damage | 24 |
 | scaling | HVY: 7 / HVY: 9 |
 | posture damage | 6 / 8 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.83x |
+| attack duration | 0.8s |
 | penetration | 20% |
 | chip damage | 10% |
 | m.equip | Yes |

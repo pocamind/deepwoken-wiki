@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 181255
+revid: 183039
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
@@ -11,11 +11,12 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
 | Silversix | |
 |---|---|
 | type | Pistol |
+| damage type | Slash |
 | requirements | 0 LHT |
 | damage | 10 |
 | scaling | LHT: 13 |
 | posture damage | 1 |
-| range | 10 |
+| range | 10 Sweep |
 | swing speed | 1.17x |
 | m.equip | Yes |
 | m.extract | Yes |

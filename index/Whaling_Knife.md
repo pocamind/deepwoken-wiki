@@ -1,6 +1,6 @@
 ---
 title: Whaling Knife
-revid: 181228
+revid: 183108
 source: https://deepwoken.fandom.com/wiki/Whaling_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Alloyed Weapons, Light Weapons]
@@ -12,12 +12,14 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 |---|---|
 | alloyed name | Alloyed Whaling Knife |
 | type | Dagger |
+| damage type | Slash |
 | requirements | 40 / 75 LHT |
 | damage | 15 |
 | scaling | LHT: 5 / 8 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.25x |
+| attack duration | 0.5s |
 | penetration | 15% |
 | m.equip | Yes |
 | m.extract | Yes |

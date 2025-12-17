@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 181321
+revid: 183034
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Etrea, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with
 | Kanabo | |
 |---|---|
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | 40 STR, 100 HVY |
 | damage | 25 |
 | scaling | HVY: 6, STR: 3 |
 | posture damage | 9 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.8x |
+| attack duration | 0.9s |
 | endlag | 0.1 |
 | chip damage | 10% |
 | m.equip | Yes |

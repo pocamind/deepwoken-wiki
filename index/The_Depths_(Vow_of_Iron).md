@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 182662
+revid: 183084
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,6 +17,7 @@ The Depths of Vow of Iron differ from Pathfinder, there's more danger there than
 -   There are no jobs on the job boards.
 -   Diluvian mechanism no longer works.
 -   You no longer receive health packs from enemies.
+-   You cannot enter layer 2, as Klaris is blocked off and you will die if you enter the void regardless of hp.
 
 <table><caption>Vow Of Iron Depths Trial (Please update if you find more enemies)</caption>
 <tbody>

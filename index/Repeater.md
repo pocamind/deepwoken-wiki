@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 181180
+revid: 183042
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
@@ -11,11 +11,12 @@ categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
 | Repeater | |
 |---|---|
 | type | Pistol |
+| damage type | Slash |
 | requirements | 65 LHT |
 | damage | 14 |
 | scaling | LHT: 15 |
 | posture damage | 3 |
-| range | 12 |
+| range | 12 Sweep |
 | swing speed | 1.25x |
 | m.equip | Yes |
 | m.extract | Yes |

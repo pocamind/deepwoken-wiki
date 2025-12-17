@@ -1,6 +1,6 @@
 ---
 title: Gilded Knife
-revid: 181220
+revid: 183105
 source: https://deepwoken.fandom.com/wiki/Gilded_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | Gilded Knife | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 25 LHT |
 | damage | 13 |
 | scaling | LHT: 8 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.23x |
+| attack duration | 0.5s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Stiletto |

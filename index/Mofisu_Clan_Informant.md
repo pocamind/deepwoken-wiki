@@ -1,6 +1,6 @@
 ---
 title: Mofisu Clan Informant
-revid: 181302
+revid: 183157
 source: https://deepwoken.fandom.com/wiki/Mofisu_Clan_Informant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Clan Mofisu]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Mofisu Clan Informant is a [Etrean](Etrean.md) NPC. The player is able to speak to him once they defeat the [Shogun Captain](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>). He sends messages for [Clan Mofisu](Clan_Mofisu.md) and speaks of the [Rat King](<Dravik,_the_Rat_King_(NPC).md>) who can penetrate [The Lord Regents](The_Lord_Regent.md) barriers.
+Mofisu Clan Informant is a [Etrean](Etrean.md) NPC. The player is able to speak to him once they defeat the [Shogun Captain](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>). He sends messages for [Clan Mofisu](Clan_Mofisu.md) and speaks of the [Rat King](Dravik,_The_Rat_King.md) who can penetrate [The Lord Regents](The_Lord_Regent.md) barriers.
 
 ## Dialogue
 

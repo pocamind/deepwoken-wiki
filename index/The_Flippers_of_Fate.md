@@ -1,6 +1,6 @@
 ---
 title: The Flippers of Fate
-revid: 181331
+revid: 183097
 source: https://deepwoken.fandom.com/wiki/The_Flippers_of_Fate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Daggers, "Dual-wielded Weapons", "Core-Attribute based weapons", Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Dagg
 | The Flippers of Fate | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 70 LHT; 30 MND |
 | damage | 13 |
 | scaling | LHT: 8, MND: 5 |
 | posture damage | 3.5 |
-| range | 6.5 |
+| range | 6.5 Sweep |
 | swing speed | 1.26x |
+| attack duration | 0.5s |
 | penetration | 15% |
 | m.equip | Yes |
 | m.extract | Yes |

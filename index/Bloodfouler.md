@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 182769
+revid: 183165
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Volu |
+| obtainment | Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Volu, Heart of Enmity |
 | description | A deep crimson odachi, commissioned and forged for a prophet-in-training, then relinquished in later years. Marked by its maker's seal, a sinister vow seeps through its scarlet fibers. Its jagged edge cleaves through foes with unsettling ease, drinking deep of their blood to empower its wielder's divine purpose. When your fingers graze its serrated edge, horrors unlike any you've known flicker through your mind, small glimpses of something vast and unknowable. The visions vanish before you can grasp their meaning, leaving only the question.. are they echoes of the past, or omens of what's to come? |
 
 ## Description
@@ -43,6 +43,7 @@ The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](
 1.  [Volu](Volu.md), who is leaned against the wall in [Outpost Antumbra](Outpost_Antumbra.md)'s basement.
 2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
 3.  As a drop from [The Understrand](The_Understrand.md) after defeating the [Ministry Agent](Ministry_Agent.md).
+4.  As a drop from [Heart of Enmity](Heart_of_Enmity.md) due to the new recent drop updates.
 
 When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
 

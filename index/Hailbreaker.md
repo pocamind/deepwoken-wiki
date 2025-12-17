@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 181346
+revid: 183014
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | Hailbreaker | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 65 HVY, 55 ICE, 10 PWR |
 | damage | 22 |
 | scaling | HVY: 7, ICE: 4 |
 | posture damage | 7.5 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.85x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
 | chip damage | N/A |

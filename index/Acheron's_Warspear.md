@@ -1,9 +1,9 @@
 ---
 title: "Acheron's Warspear"
-revid: 181069
+revid: 183049
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
+categories: [Pages using duplicate arguments in template calls, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
 ---
 
 # Acheron's Warspear
@@ -16,8 +16,9 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | damage | 18 + 2.7 BLD |
 | scaling | MED: 6 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.93x |
+| attack duration | 0.7s |
 | penetration | 15% |
 | talent | Vital Wound - Uppercutting your opponent punctures their lungs, slowing their rate of posture recovery for 30 seconds. |
 | m.equip | Yes |

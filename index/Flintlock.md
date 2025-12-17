@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 181179
+revid: 183040
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons]
@@ -11,11 +11,12 @@ categories: [Weapons, Pistols, Offhand, Light Weapons]
 | Flintlock | |
 |---|---|
 | type | Pistol |
+| damage type | Slash |
 | requirements | 20 LHT |
 | damage | 11 |
 | scaling | LHT: 12 |
 | posture damage | 1 |
-| range | 10 |
+| range | 10 Sweep |
 | swing speed | 1.17x |
 | m.equip | Yes |
 | m.extract | Yes |

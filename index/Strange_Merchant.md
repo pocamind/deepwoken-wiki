@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 182890
+revid: 183142
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Strange Merchant | |
 |---|---|
 | description | A strange being hailing from a time that no longer exists, they hauled a strange relic everywhere. |
-| unlock | Spend a total of 31,500 at the various Mystery Boxes on one character |
+| unlock | Has a low drop chance from various Mystery Boxes. |
 | aspect | Levit |
 | allowed weapons | Any, except Rifle and Pistol |
 | starting weapons | Vortex Echo |
@@ -33,6 +33,6 @@ To obtain the Strange Merchant Memento, you need to spend a significant amount o
 -   **The locations of the mystery boxes that have been found so far are:**
     -   Behind the [Derelict Highchurch](Derelict_Highchurch.md)
     -   2 Near the [Shogun Captain](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
-    -   1 Under the stairs near the Etrean Royalist at the Golden Rat Den.
+    -   1 Under the stairs near the [Etrean Royalists](Etrean_Royalists.md) at the [Rat's Den](<Rat's_Den.md>).
     -   1 On an island to the North (??) of [Meteor Isle](Meteor_Isle.md)
     -   Inside a cell in the fort merit prison tower, about one floor up

@@ -1,9 +1,9 @@
 ---
 title: Forgotten Gladius
-revid: 181074
+revid: 183011
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
+categories: [Pages using duplicate arguments in template calls, Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
 ---
 
 # Forgotten Gladius
@@ -16,8 +16,9 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | damage | 18 |
 | scaling | MED: 7.5 |
 | posture damage | 5 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 1.04x |
+| attack duration | 0.6s |
 | penetration | 13% |
 | talent | Blitz - Increase how quick you release your Prominence Draw. |
 | m.equip | Yes |

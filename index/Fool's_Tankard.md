@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 181941
+revid: 183103
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
 | Fool's Tankard | |
 |---|---|
 | type | Dagger |
+| damage type | Blunt |
 | requirements | 40 LHT |
 | damage | 10 |
 | scaling | LHT: 12 |
 | posture damage | 4.5 |
-| range | 5.8 |
+| range | 5.8 Sweep |
 | swing speed | 1.24x |
+| attack duration | 0.5s |
 | m.equip | No |
 | m.extract | Yes |
 | m.crit | Mace |

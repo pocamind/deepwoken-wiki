@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 160679
+revid: 183069
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -39,7 +39,7 @@ Being tagged by enemies, monsters, bosses, and anything else (PvE) differs from 
 The blue skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. This comes with limitations:
 
 1.  You cannot switch weapons or armor during combat. (Unless you're a [Silentheart](Oath%253A_Silentheart.md), in which you can switch weapons in combat with its ability.)
-2.  If you leave the game or disconnect during this, the game will treat it as death, even sending you to the depths or wiping you if you are already in them. However, if you were over 60% HP, you will not get punished in any way.
+2.  If you leave the game or disconnect during this, the game will treat it as death, even sending you to the depths or wiping you if you are already in them. However, if you were over 60% HP, you will not get punished in any way, this does not apply to [Vow of Iron](Vow_of_Iron.md).
 3.  When tagged by a [Boss](Bosses.md) the skull is orange and shows their HP under it as a bar. Boss combat tags last for 2 minutes and 40 seconds.
 
 ### PvP: Red Skull

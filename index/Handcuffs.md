@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 181926
+revid: 183055
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -11,11 +11,13 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 | Handcuffs | |
 |---|---|
 | type | Fist |
+| damage type | Blunt |
 | requirements | None |
 | damage | 1 |
 | posture damage | 1 |
-| range | 3 |
+| range | 3 Sweep |
 | swing speed | 0.6x |
+| attack duration | 1.1s |
 | special effect | You cannot cast Mantras. This weapon cannot be unequipped, but can be removed by speaking to a Blacksmith. Your M1s ragdoll on hit. |
 | m.equip | No |
 | m.extract | No |

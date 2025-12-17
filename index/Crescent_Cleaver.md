@@ -1,6 +1,6 @@
 ---
 title: Crescent Cleaver
-revid: 181225
+revid: 183013
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -12,12 +12,14 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Great
 |---|---|
 | alloyed name | Alloyed Crescent Cleaver |
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 45 HVY, 10 STR / 75 HVY, 10 STR |
 | damage | 22 + 3.3 BLD |
 | scaling | HVY: 8 / HVY: 10 |
 | posture damage | 9 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.8x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | chip damage | 20% |
 | m.equip | Yes |

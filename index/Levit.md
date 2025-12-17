@@ -1,9 +1,9 @@
 ---
 title: Levit
-revid: 182994
+revid: 183019
 source: https://deepwoken.fandom.com/wiki/Levit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Aspects]
+categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects]
 ---
 
 # Levit
@@ -13,6 +13,10 @@ categories: [Pages with broken file links, Aspects]
 | obtained_by | 1% Roll ChanceStrange Merchant memento |
 | appearance | Pale Skin, Tall ears |
 | traits | Retrograde |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 _Quite literally, the Levit persist in memory alone.  
 An enigmatic folk only found within reclaimed mementos._

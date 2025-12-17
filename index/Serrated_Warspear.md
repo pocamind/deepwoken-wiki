@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 181223
+revid: 183050
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Serrated Warspear | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | 65 MED |
 | damage | 18 + 2.7 BLD |
 | scaling | MED: 6.5 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.93x |
+| attack duration | 0.7s |
 | penetration | 20% |
 | chip damage | 10% |
 | m.equip | Yes |

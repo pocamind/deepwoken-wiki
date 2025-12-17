@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Dagger
-revid: 181441
+revid: 183092
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -13,12 +13,14 @@ notices:
 | Soulwrought Dagger | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | Crazy Slots |
 | damage | 19 |
 | scaling | LHT: 9 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.3x |
+| attack duration | 0.5s |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |

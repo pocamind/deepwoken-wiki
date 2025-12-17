@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 181035
+revid: 183122
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -61,31 +61,33 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
 
 ### Talents
 
--   **Arc Module: Dash** - When Arc Suit is active, your dashes become Jet dashes allowing you to attack while dashing.
+-   **Arc Module: Dash** - \[In Arc Suit\] Your dashes become Jet Dashes, allowing you to attack while dashing.
     -   Jet dashes go much further than regular dashes.
     -   Also allows the user to M1 while performing a dash, ending their dash early.
 -   Obtained with the Oath
 
--   **Arc Module: Eject** - When blockbroken with Arc Suit active, eject from the armor.
+-   **Arc Module: Eject** - \[In Arc Suit\] When blockbroken, eject from your suit.
     -   If your posture would reach 100% while in the Arc Suit, you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
     -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
 -   Obtained after first [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
--   **Arc Module: Enhance** - When your Arc suit is active, your Arc mantras deal increased damage.
+-   **Arc Module: Enhance** - \[In Arc Suit\] Your Arcwarder Mantras deal increased damage.
     -   Increases Arc Wave's base damage by 25%.
     -   Increases Arc Beam's base damage by 50%.
     -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your damage multipliers.
 
--   **Arc Module: Guard** - Blocking with your Arc Suit active negates all backstabs and allows you to block attacks from behind.
+-   **Arc Module: Guard** - \[In Arc Suit\] You can block attacks from any direction and cannot be backstabbed.
     -   While in Arc Suit, blocking prevents [Spine Cutter](Talents.md#spine-cutter) from proccing and grants 360 block to all attacks.
 -   Obtained after second [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) / [Scion of Ethiron](Scion_of_Ethiron.md) kill.
 
--   **Arc Module: Leap** - Holding Spacebar while your Arc Suit is active after jumping propels you up for a short duration.
+-   **Arc Module: Leap** - \[In Arc Suit\] Holding Spacebar after double jumping propels you up for a short duration.
     -   Allows you to double jump.
     -   Has a 10 second cooldown. The cooldown will be increased to 15 seconds if you are in combat.
 
--   **Arc Module: Null** - When your Arc Suit is active, outgoing and incoming enchant effects are nullified.
-    -   Can be toggled by pressing N when Arc Suit is active.
+-   **Arc Module: Null** - \[In Arc Suit\] Outgoing and incoming enchant effects are nullified. Can be toggled with N.
+    -   Toggling Null on/off has a 5 second cooldown.
+    -   Has a sound effect on toggle.
+    -   Toggle hotkey can be changed in settings.
 
 ### Mantras
 

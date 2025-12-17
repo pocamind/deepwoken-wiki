@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 181347
+revid: 183041
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, The Ignition Union, Weapons with multiple Criticals]
@@ -11,11 +11,12 @@ categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, 
 | Iron Requiem | |
 |---|---|
 | type | Pistol |
+| damage type | Slash |
 | requirements | 40 LHT, 75 MTL |
 | damage | 21 |
 | scaling | 3 LHT, 4 MTL |
 | posture damage | 1 |
-| range | 10 |
+| range | 10 Sweep |
 | swing speed | 1.17x |
 | m.equip | No |
 | m.extract | No |

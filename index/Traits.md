@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 182491
+revid: 183076
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -46,4 +46,8 @@ Each trait can only be increased up to 6 points.
 
 ### Dexterity
 
+-   Increase the height of air jumps by (?)
+-   Increase the distance of air jumps by (?)
+-   Increase the speed of slides by (?)
+-   Increase the top sprint speed by (?)
 -   Iron Vow Exclusive

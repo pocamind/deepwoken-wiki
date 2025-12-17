@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 181213
+revid: 183010
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 | Night Axe | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 80 HVY |
 | damage | 23 |
 | scaling | HVY: 8 |
 | posture damage | 10 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.77x |
+| attack duration | 0.9s |
 | penetration | 5% |
 | chip damage | 80% |
 | m.equip | No |

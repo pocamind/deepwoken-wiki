@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 182739
+revid: 183162
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Flashing Thunder | |
 |---|---|
 | description | Lightning always finds its mark. |
-| unlock | Solo Dravik, the Rat King as a Sightless |
+| unlock | Solo Dravik, The Rat King as a Sightless |
 | allowed weapons | Any |
 | starting weapons | Shattered Katana |
 

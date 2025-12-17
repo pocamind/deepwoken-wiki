@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 172467
+revid: 183071
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -213,11 +213,11 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 
 ### [Thundercall](Thundercall.md)
 
--   _Thundercaller_ (Discovery of Fire, Shocking Finish, Static Flash Clone, Static Withdraw, Stratoshock)
+-   _Thundercaller_ (Discovery of Fire, Shocking Finish, Static Flash Clone, Stratoshock)
 -   _Authority Interrogator_ (First Interrogation, Second Interrogation, Authority Intimidation, Resolve Crusher)
+-   _Jumpstarter_ (Electrify, Amplified Rage, Amplified Reflexes)
 -   _Kickstarter_ (Kickstart)
 -   _Rampant Static_ (Jolting Current)
--   _Self-Shocker_ (Jumpstart, Raging Static)
 -   _Shock Therapy_ (Grounding Bolt)
 -   _Static Weaver_ (Static Link, Jumper Cables, Link Conduction, Static Ace, Static Allure)
 -   _Thunderblade_ (Static Blade, Gathering Electricity, Overcharge)

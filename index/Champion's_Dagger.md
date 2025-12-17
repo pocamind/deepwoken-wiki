@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 181219
+revid: 183102
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | Champion's Dagger | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 50 LHT |
 | damage | 14.5 |
 | scaling | LHT: 8 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.25x |
+| attack duration | 0.5s |
 | chip damage | 10% |
 | m.equip | Yes |
 | m.extract | Yes |

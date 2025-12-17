@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 181204
+revid: 183046
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Ritual Spear | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | 35 MED |
 | damage | 19 |
 | scaling | MED: 5 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.9x |
+| attack duration | 0.7s |
 | penetration | 25% |
 | m.equip | Yes |
 | m.extract | Yes |

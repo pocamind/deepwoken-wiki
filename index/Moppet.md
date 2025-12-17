@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 181393
+revid: 183056
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 | Moppet | |
 |---|---|
 | type | Dagger |
+| damage type | Blunt |
 | requirements | 75 LHT |
 | damage | 14 |
 | scaling | LHT: 8.5 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.25x |
+| attack duration | 0.5s |
 | special effect | On M1, the puppet will take the appearance of the opponent.M1s deal no damage, instead the damage is stored until you use your critical. |
 | m.equip | No |
 | m.extract | No |

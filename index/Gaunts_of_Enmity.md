@@ -1,6 +1,6 @@
 ---
 title: Gaunts of Enmity
-revid: 181931
+revid: 183029
 source: https://deepwoken.fandom.com/wiki/Gaunts_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -8,15 +8,17 @@ categories: [Weapons, Fists, Light Weapons]
 
 # Gaunts of Enmity
 
-| Gaunts Of Enmity | |
+| Gaunts of Enmity | |
 |---|---|
 | type | Fist/Cestus |
+| damage type | Blunt |
 | requirements | 75 LHT 10 FTD |
 | damage | 15 |
 | scaling | 9.5 LHT |
 | posture damage | 6 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.11x |
+| attack duration | 0.5s |
 | chip damage | 20% |
 | m.equip | No |
 | m.extract | No |

@@ -1,9 +1,11 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 182921
+revid: 183138
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
+categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
+notices:
+  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
 
 # Zi'eer, the Fourth Prophet
@@ -24,13 +26,14 @@ Template:Creature Infobox V3
 
 Zi'eer, the Fourth Prophet of the Ministry, is the presumed final [boss](Bosses.md) and main antagonist of the Vow of Iron gamemode within the [Etris Palace](Etris_Palace.md). He, along with [The Ministry](The_Ministry.md), invaded Etris and claimed the Throne to become the new King of Etrea.
 
-Should you challenge him, the Inheritor is transported to [The Throne of Lies](The_Throne_of_Lies.md) dungeon, where they are faced with a great challenge. Regardless of outcome, this is the end of their journey through Etrea's past.
+Should you challenge him, the Inheritor is transported to [The Throne of Lies](The_Throne_of_Lies.md) dungeon, where they are faced with a great challenge. Regardless of outcome, this is the end of their journey through Etrea's past and you obtain the [Solborn](Solborn.md) [Memento](Mementos.md). Post-fight you encounter the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing you that Zi'eer is indeed impossible to be bested and there has yet to be a way to defeat him, which opens up multiple outcomes of the fight.
 
 ### Starting the Fight with Zi'eer
 
-1.  Uncap Power 15 by defeating the [True Heart of Enmity](True_Heart_of_Enmity.md).
-2.  Make your way to Etris and fight through the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>).
-3.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin.
+1.  Uncap Power 15 by defeating the [True Heart of Enmity](True_Heart_of_Enmity.md), which breaks the green barrier that keeps him safe
+2.  Recommended but not mandatory: Reach Power 20.
+3.  Make your way to Etris and fight through the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) until you reach his palace.
+4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin.
 
 ## Moves
 

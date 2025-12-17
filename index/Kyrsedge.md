@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 181250
+revid: 183095
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | Kyrsedge | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 75 LHT |
 | damage | 13 |
 | scaling | LHT: 8.5 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.25x |
+| attack duration | 0.5s |
 | penetration | 30% |
 | chip damage | 15% |
 | m.equip | Yes |

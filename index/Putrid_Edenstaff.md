@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 181269
+revid: 183088
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "Weapons with Multi-Hit Criticals", Hallowtide, Heavy Weapons, Weapons with Unique Animations]
@@ -11,12 +11,14 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "
 | Putrid Edenstaff | |
 |---|---|
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | 75 HVY |
 | damage | 25 |
 | scaling | HVY: 8.5 |
 | posture damage | 9 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.81x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
 | m.equip | No |
@@ -30,6 +32,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
+| description | ... |
 
 ## Description
 

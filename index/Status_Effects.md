@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 182308
+revid: 183153
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,9 +26,13 @@ This effect happens when you are low on thirst/stomach. When this occurs, your v
 
 This effect happens once your blood bar is below 5%, causing your stomach and thirst meters to rapidly drain in order to sustain yourself. Your health will also rapidly deteriorate. If you have enough food and thirst, you can stabilize yourself, but if not you will eventually die from starvation/dehydration. If you are swimming while below 50% health in this state, you will instantly be knocked and will drown. To avoid bleeding out, replenish your blood near campfires, and to prepare for it, always keep food and water on you.
 
-### Unconcious
+### Unconscious
 
-Applied once you reach 0 health. Unless specified by an ability, being Unconscious prevents all actions. Unconscious characters can be executed or [Carried](#carried). Unconscious lasts 10 seconds, but it can be reduced by having the [Perseverance](Talents.md#perseverance) and [Defiance](Talents.md#defiance) Talents.
+Commonly referred to as being "knocked", this effect is applied once any humanoid target or player reaches 0 health, and is signified by their body going limp. Unless specified by an ability, being Unconscious prevents all actions. Unconscious characters can be executed or [Carried](#carried). Unconscious Targets take significantly more blood damage from being hit. Unconscious lasts 10 seconds at base, but its duration can be altered through certain Talents like [Perseverance](Talents.md#perseverance), [Defiance](Talents.md#defiance), and [Concussive Force](Talents.md#concussive-force). Unconscious' duration will be reset upon taking damage unless the unconscious party has the [Impervious Slumber](Talents.md#impervious-slumber) Talent.
+
+### Carried
+
+By pressing V near an [Unconscious](#unconscious) player or NPC, you can **carry** them, lifting them over your shoulder and leaving them unable to act. Carried entities will be dropped if the person carrying them takes damage or if the carried entity has been carried for too long.
 
 ### Speed Boost
 

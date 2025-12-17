@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 181921
+revid: 183030
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Fists, Light Weapons]
 | Legion Cestus | |
 |---|---|
 | type | Fist |
+| damage type | Blunt |
 | requirements | 30 LHT |
 | damage | 15 |
 | scaling | LHT: 9 |
 | posture damage | 5 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.11x |
+| attack duration | 0.5s |
 | penetration | 5% |
 | m.equip | No |
 | m.extract | No |

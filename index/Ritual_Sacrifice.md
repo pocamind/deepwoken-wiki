@@ -1,9 +1,9 @@
 ---
 title: Ritual Sacrifice
-revid: 181088
+revid: 183047
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Weapons with Talents]
+categories: [Pages using duplicate arguments in template calls, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Weapons with Talents]
 ---
 
 # Ritual Sacrifice
@@ -16,8 +16,9 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | damage | 19 |
 | scaling | MED: 5 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.9x |
+| attack duration | 0.7s |
 | penetration | 25% |
 | talent | Sacrificial Boon - Sacrifice 5 knowledge to activate Blessing, giving you a random blessing from Navae. |
 | m.equip | Yes |

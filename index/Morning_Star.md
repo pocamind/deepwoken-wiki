@@ -1,6 +1,6 @@
 ---
 title: Morning Star
-revid: 181310
+revid: 183033
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Clubs, Medium Weapons]
 | Morning Star | |
 |---|---|
 | type | Club |
+| damage type | Blunt |
 | requirements | 50 MED |
 | damage | 16 + 2.4 BLD |
 | scaling | MED: 6 |
 | posture damage | 5 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 0.98x |
+| attack duration | 0.6s |
 | penetration | 20% |
 | chip damage | 20% |
 | m.equip | Yes |

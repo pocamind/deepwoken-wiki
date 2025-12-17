@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 181280
+revid: 183093
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Light Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | Cerulean Thread | |
 |---|---|
 | type | Dagger |
+| damage type | Slash |
 | requirements | 85 LHT, LVL 10 |
 | damage | 14.5 |
 | scaling | LHT: 7.5 |
 | posture damage | 4 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1.2x |
+| attack duration | 0.5s |
 | penetration | 25% |
 | m.equip | No |
 | m.extract | No |
