@@ -1,6 +1,6 @@
 ---
 title: Ganymede
-revid: 182252
+revid: 183218
 source: https://deepwoken.fandom.com/wiki/Ganymede
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -65,7 +65,7 @@ Ganymedes are a snail-based [aspect](Aspects.md) in Deepwoken that appear with d
   <ul>
     <li>"<i>Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.</i>"
   <ul>
-    <li>Unknown effect. Persumably more sanity/less insanity.</li>
+    <li>Either the passive flaws timer in the depths takes longer, or the max count before your head explodes is increased. Currently unknown.</li>
   </ul></li>
   </ul></td>
 </tr>

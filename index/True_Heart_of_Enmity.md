@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 183159
+revid: 183234
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages]
@@ -32,10 +32,9 @@ It is the same gargantuan creature wrought of iron and animosity, though what ma
 ### Starting the Fight with True Enmity
 
 1.  Reach & Uncap Power 10 by defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md).
-2.  Interact with Dravik's memory in [The Cerebral Spire](The_Cerebral_Spire.md).
-3.  Recommended but not mandatory: Reach Power 15.
-4.  Make your way to the Depths and enter the elevator, preferably alone.
-5.  The [Voices of the Depths](Voices_of_the_Depths.md) then have a dialog, contemplating what to do with you, and Voice of Enmity incarnates in his physical form, starting the fight.
+2.  Recommended but not mandatory: Reach Power 15.
+3.  Make your way to the Depths and enter the elevator, preferably alone.
+4.  The [Voices of the Depths](Voices_of_the_Depths.md) then have a dialog, contemplating what to do with you, and Voice of Enmity incarnates in his physical form, starting the fight.
 
 ## Moves
 
@@ -56,7 +55,6 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   Each Servant has 8,000 HP, and does not scale per player.
 -   Posture break moves have the same effect as in bosses.
 -   They don't have the Enforcer Pull or Whirlwind attacks.
--   [Carnivore](Talents.md#carnivore) is disabled against the Servants of Enmity.
 
  |  |
 | 
@@ -68,7 +66,6 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  | Heart of Enmity kneels down and grabs a nearby player, tosses them up then bats them with his axe.
 
 -   This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other.
--   It is best advised to try blocking this attack instead of parrying/dodging as he will punish you for both, you need good posture + the [Ardour](Murmur%253A_Ardour.md) Murmur however.
 
  |  |
 | 
@@ -79,7 +76,34 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
  | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.
 
- |  |
+ |
+| 
+
+**Reposition**
+
+(☆☆☆)
+
+ | The Heart of Enmity quickly darts from one side to another, often following up with an attack. |
+| 
+
+**Sadist's Edge**
+
+(★★☆)
+
+ | The Heart of Enmity performs a quick slash.
+
+-   Only uses this attack after using Reposition.
+
+ |
+| 
+
+**Spread, Obsidian Wings**
+
+(★★☆)
+
+ | The Heart of Enmity quickly leaps up with his wings before striking the player with his axe.
+
+ |
 | 
 
 **The Brutalizer**
@@ -112,6 +136,15 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage.
 
 -   During this charge up, Enmity is free to be hit.
+
+ |
+| 
+
+**You Are Dead As Hell Bro Don't Make This Bargain Again**
+
+(★★★)
+
+ | The Heart of Enmity charges towards the player, sending them upwards before taking flight and crashing down at them, dealing major damage.
 
  |  |
 

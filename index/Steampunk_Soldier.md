@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 183163
+revid: 183222
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Steampunk Soldier** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon, being a Pistol, Rifle, or Greatcannon.
+**Steampunk Soldier** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon, being a Pistol, Rifle, or Greatcannon. Yes, it is doable with rifle spear.
 
 ## Available Mantras
 

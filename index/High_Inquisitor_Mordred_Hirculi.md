@@ -1,9 +1,9 @@
 ---
 title: High Inquisitor Mordred Hirculi
-revid: 182064
+revid: 183184
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Mordred_Hirculi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
+categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Inquisitors of The Central Authority]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---

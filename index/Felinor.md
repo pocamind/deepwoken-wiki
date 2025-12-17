@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 182260
+revid: 183228
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -46,8 +46,8 @@ One of the most distinct aspects in Lumen for their infamous cat ears, Felinor g
   <td><center><font>+</font></center></td>
   <td><b>Attribute Boosts</b>
   <ul>
-    <li>+3 Agility</li>
-    <li>+2 Charisma</li>
+    <li>+67 Agility</li>
+    <li>+41 Charisma</li>
   </ul></td>
 </tr>
 </tbody>

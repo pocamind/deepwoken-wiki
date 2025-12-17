@@ -1,6 +1,6 @@
 ---
 title: Ulysses Disii
-revid: 183009
+revid: 183192
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Black Divers, The Divers, Characters mentioned in books]
@@ -29,9 +29,12 @@ As Talo recounted their actions, Ulysses criticized their various decisions for 
 
 The Black Diver became more interested as Talo explained how the voices had belonged to nobles who had survived Celtor's drowning, how the inner city seemed unnaturally intact, and how unidentified individuals had been moving inside it. Due to Ranger Talo stating that fellow Ranger Bykof hailed from the city and had identified the deceased as Celtorian nobles, Disii ordered Tulad to place a meeting with Bykof in the Black Diver's schedule, believing his testimony would be of interest to the Diver's top brass.[\[1\]](#cite-note-interrogation-1)
 
-With the interrogation concluded, Ulysses reminded Santiago that they had breached numerous protocols and put the Divers in their care at risk. They asked if the Ranger understood that their actions had put the lives of all involved at risk, as well as risked their position.[\[1\]](#cite-note-interrogation-1)
+With the interrogation concluded, Ulysses reminded Santiago that they had breached numerous protocols and endangered the Divers in their care. They asked if the Ranger understood that their actions had put the lives of all involved at risk, as well as risked their position, while slipping in a few more personal insults. Though Ulysses dismissed Santiago's attempts to justify their actions, they revealed that the Ranger's information was important and would likely be of interest to High Command and that they were also going to recommend Talo's punishment be sanitation duties for two weeks, but would also put in a referral for them to be put on leave for mental recuperation. The Black Diver then dismissed them.[\[1\]](#cite-note-interrogation-1)
 
-He seems to be very caring about his subordinates, as he was seemingly angry specifically because [Santiago Talo](Santiago_Talo.md) put others' lives at risk. But even after that, he still tried to recommend the aforementioned Ranger to a lesser punishment. He also seemed to be enthusiastic of setting up a [functioning operation base](Castle_Light.md) in [the Depths](The_Depths.md) and mounting rescue operations in [the City of the Drowned](The_City_of_the_Drowned.md).[\[1\]](#cite-note-interrogation-1)
+As Santiago left, they asked Ulysses if the Divers should be mounting rescue operations. Disii noted that the organization was in no position to do so due to high casualty rates and low recruitment, but mused that the potential existence of a forward operating base within the First Layer would likely give the Divers the means to do so. Ulysses pondered the effects recent events would have on the Divers before dismissing Talo.[\[1\]](#cite-note-interrogation-1)
+
+  
+Ulysses' ideas would later manifest when [Castle Light](Castle_Light.md) was erected in the First Layer.
 
 ## References
 

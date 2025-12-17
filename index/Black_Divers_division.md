@@ -1,6 +1,6 @@
 ---
 title: Black Divers division
-revid: 182331
+revid: 183199
 source: https://deepwoken.fandom.com/wiki/Black_Divers_division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, The Divers, Black Divers]
@@ -22,7 +22,7 @@ notices:
 
 While [the Citadel](The_Citadel_of_Markor.md) was actively recruiting, Black Diver agents would be sent on surface missions around the [Central Luminant](Luminants.md#central-luminant), with the goal of potentially finding a cave system that would physically connect to [the Depths](The_Depths.md).[\[1\]](#cite-note-fathoms-1)
 
-In 1272[\[2\]](#cite-note-2) CE [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), a Black Diver, betrayed [the Divers](The_Divers.md), he sided with [the Ministry](The_Ministry.md) and killed all divers, participating in the expedition to the [Second Layer](Second_Layer.md).
+In 1272 CE[\[2\]](#cite-note-2) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), a Black Diver, betrayed [the Divers](The_Divers.md), he sided with [the Ministry](The_Ministry.md) and killed all divers, participating in the expedition to the [Second Layer](Second_Layer.md).
 
 ## Members
 

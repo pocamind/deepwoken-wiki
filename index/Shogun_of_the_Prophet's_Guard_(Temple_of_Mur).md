@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 182980
+revid: 183225
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -34,74 +34,72 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**Double Slash**
+**High Cleave**
 
- | The Shogun of the Prophet's Guard without a windup do 2 slashes to the player, this gives no highlights to **Shogun**
-
- |  |
-| 
-
-**Kick and Slash**
-
- | The Shogun of the Prophet's Guard will do a kick and then slash the player, this gives no highlights to **Shogun**
+ | The Shogun performs a simple upward slash toward the right with their blade. This has no highlight.
 
  |  |
 | 
 
-**Green Highlighted Double Slash**
+**Crush & Rend**
 
- | When the Shogun of the Prophet's Guard highlights green, it will move a bit backward, then it does 2 spiral slashes to the player.
+ | The Shogun kicks forward, obscuring themselves partially with dust, before swinging downward at the player. This attack is distinct from a later attack as it has no highlight.
+
+ |  |
+| 
+
+**Graceful Slicer**
+
+ | The Shogun highlights Green, leaping backwards a fair distance before slashing twice in opposing directions, moving them toward the player.
 
  |
 | 
 
-**Red Highlighted Double Slash**
+**Severing Flourish**
 
- | When the Shogun of the Prophet's Guard highlights red, it will do 2 spiral slashes. A roll cancel is necessary to avoid the 2nd slash.
-
- |  |
-| 
-
-**Blue Highlighted Slash**
-
- | When the Shogun of the Prophet's Guard highlights blue, it will have a long windup, afterwards it will do one hefty slash to the player. You are able to **crouch** in order to avoid this attack.
+ | The Shogun highlights Red, spinning around into two devastating slashes that cannot be parried. The first slash is very delayed, and a roll cancel must be employed to avoid the attack completely.
 
  |  |
 | 
 
-**White Highlighted Stomp**
+**Low Cleave**
 
- | When the Shogun of the Prophet's Guard highlights white, it will do a stomp. You have to jump in order to avoid this attack. It will always follow up with 2 regular slashes which you need to parry, and then end with another white highlighed move you need to jump over.
-
- |  |
-| 
-
-**4 Slash Combo**
-
- | The Shogun of the Prophet's Guard swings once, then, he becomes highlighted red for a guardbreaking slash, then, perform 2 slashes. The first swing and 2 slashes can be parried, but the red highlight must be dodged.
+ | The Shogun performs a simple slash with their blade. Visually distinct from **High Cleave** by the Blue highlight, indicating that you must either crouch or block the attack.
 
  |  |
 | 
 
-**8 Slash Combo**
+**Shogun's Brutality**
 
- | The Shogun of the Prophet's Guard swings twice, then becomes highlighted red for 2 guardbreaking slashes, then becomes highlighted green for 4 slashes in quick succession. The 2 initial swings can be parried, the red highlight must be dodged with a roll cancel and the green highlight must be parried. This move is only used when the Shogun of the Prophet's Guard is below 50% HP.
+ | The Shogun highlights **White**, indicating the attack must be jumped over, performing a brisk stomp. It will follow up with two strikingly fast slashes that may be parried, before spinning around into a **White**\-highlighted leg slash that must be jumped over.
+
+ |  |
+| 
+
+**Serpent-Slaying Sweep**
+
+ | The Shogun crouches low and performs a slash to the left, before following up with a Red-highlighted slash, and then two more extremely brisk spinning slashes that can both be parried. There is an extremely small delay between the third and fourth slash. This attack can be differentiated from **High Cleave** by the Shogun's crouching motion and differing slash direction.
+
+ |  |
+| 
+
+**Mortal Draw: Kiztatziki Dance**
+
+ | The Shogun lets out a distinct roar, indicating a devastating combo. It will perform two rapid slashes without highlights, followed by two devastating slashes with Red highlights, and finally ends with four slower slashes with Green highlights. This attack can only be used once the Shogun is at 50% HP or lower.
 
  |  |
 
 ## Tips
 
-The Shogun of the Prophet's Guard has no set attack pattern, beside using all hits in a given attack.
+Before attempting The Shogun, it is highly recommended to go right (when facing the room with the teleporter from the previous room) and head down the stairs, where you can find a teleporter back to The Cerebral Spire, allowing quick travel to the location.
 
-Ranged attacks of any kind will automatically be parried if the Shogun of the Prophet's Guard is not attacking.
+The Shogun has no set attack pattern, and will chain moves together seemingly at random.
 
-His attacks have a deceivingly large hitbox, walking away is unlikely to leave you unscathed.
+Attempting to kite The Shogun and kill him with ranged attacks will prove tedious; he will parry any attack attempted from a distance unless he is in the middle of an attack animation.
 
-The Shogun of the Prophet's Guard has almost no downtime between attacks.
+His attacks have deceivingly large hitboxes. If you don't know if you will be hit, its best to assume you will, and to act accordingly.
 
-Some of his attacks hit earlier than the animation for some damn reason...
-
-Before attempting him, take a right when entering the temple and go down the stairs. There will be a boundary that you can teleport back to.
+The Shogun of the Prophet's Guard has minimal downtime between attacks, chaining them together at great speeds.
 
 ## Trivia
 

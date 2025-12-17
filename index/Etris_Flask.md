@@ -1,6 +1,6 @@
 ---
 title: Etris Flask
-revid: 182171
+revid: 183186
 source: https://deepwoken.fandom.com/wiki/Etris_Flask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -21,7 +21,7 @@ While you begin with one Etris flask, you are able to obtain more, with each cos
 
 ## Trivia
 
--   Etris Flasks are a reference to Estus Flasks from the Soulslike games.
+-   Etris Flasks are a reference to Estus Flasks from the Darksouls series of games.
 -   Etris Flasks CANNOT bypass wither.
 
 Etris Flask in player's hand.

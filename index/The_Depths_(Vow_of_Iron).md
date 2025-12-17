@@ -1,8 +1,9 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 183084
+revid: 183220
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pages with broken file links]
 ---
 
 # The Depths (Vow of Iron)
@@ -18,6 +19,7 @@ The Depths of Vow of Iron differ from Pathfinder, there's more danger there than
 -   Diluvian mechanism no longer works.
 -   You no longer receive health packs from enemies.
 -   You cannot enter layer 2, as Klaris is blocked off and you will die if you enter the void regardless of hp.
+-   Having low sanity for long enough will grant you an amount of flaws, depending on severity.
 
 <table><caption>Vow Of Iron Depths Trial (Please update if you find more enemies)</caption>
 <tbody>
@@ -35,3 +37,110 @@ The Depths of Vow of Iron differ from Pathfinder, there's more danger there than
 </tr>
 </tbody>
 </table>
+
+## Passive Flaws
+
+Scaling off of your insanity, a countdown will begin on the centre left of your screen. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random flaw from a set list, multiple if you're insane enough, with an edgy comment. Select flaws gained this way are able to be re-applied, harshening the effects. Your character will never kill themselves, however they will shiver and scratch. Once you reach or surpass 100 flaws your head will explode.
+
+The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its corresponding number, unlike the other symbols.
+
+<table>
+<tbody>
+<tr>
+  <td><center><b>Name</b></center></td>
+  <td><center><b>Description</b></center></td>
+  <td><center><b>Effect</b></center></td>
+  <td><center><b>Max stacks</b></center></td>
+</tr>
+<tr>
+  <td><center><b>Etherphobia</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>You have an irrational fear of Ether.</center></td>
+  <td><center>Mantras require more Ether to cast. (10% increase for Glare from stack IV to V. 242 ether.)</center></td>
+  <td><center>Limitless</center></td>
+</tr>
+<tr>
+  <td><center><b>Atrophic</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>The words of the song bite at you, harshening the effects of Mantras against you.</center></td>
+  <td><center>TBA</center></td>
+  <td><center>Limitless</center></td>
+</tr>
+<tr>
+  <td><center><b>Amaurosis</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>The world slips into darkness when you sustain damage.</center></td>
+  <td><center>TBA</center></td>
+  <td><center>I</center></td>
+</tr>
+<tr>
+  <td><center><b>Vertigo</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>The world swirls. You can barely keep your balance.</center></td>
+  <td><center>Randomally trip when running for extended periods of time.</center></td>
+  <td><center>I</center></td>
+</tr>
+<tr>
+  <td><center><b>Dysacusis</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>Nothing sounds the same. Something is wrong about the sounds you hear.</center></td>
+  <td><center>Certain sounds are muffled.</center></td>
+  <td><center>I</center></td>
+</tr>
+<tr>
+  <td><center><b>Cibophobia</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>All food appears rotten and foul to you.</center></td>
+  <td><center>TBA</center></td>
+  <td><center>Limitless</center></td>
+</tr>
+<tr>
+  <td><center><b>Megalophobia</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>You have an irrational fear of large objects.</center></td>
+  <td><center>TBA</center></td>
+  <td><center>III</center></td>
+</tr>
+<tr>
+  <td><center><b>Restless</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>On and on and on. Ever-churning. Ceaseless thoughts keep you from resting.</center></td>
+  <td><center>TBA</center></td>
+  <td><center>I</center></td>
+</tr>
+<tr>
+  <td><center><b>Heavy</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>Your feet sink into the ground. Your legs scream as you try to pull them free.</center></td>
+  <td><center>Jumping is heavily mitigated. You can just jump enough to initiate jumping related actions, but no more.</center></td>
+  <td><center>I</center></td>
+</tr>
+<tr>
+  <td><center><b>Weakening</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>You can't stop the shivering. Your arms now falter under heavy blows.</center></td>
+  <td><center>TBA</center></td>
+  <td><center>III</center></td>
+</tr>
+<tr>
+  <td><center><b>Tarnished</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>What's wrong with me?</center></td>
+  <td><center>TBA</center></td>
+  <td><center>I</center></td>
+</tr>
+<tr>
+  <td><center><b>Manic</b><br>
+  File:Etherphobia1.png</center></td>
+  <td><center>All insanity gained from attacks is heavily amplified.</center></td>
+  <td><center>Persumably same as the base game flaw, though stacking.</center></td>
+  <td><center>II</center></td>
+</tr>
+</tbody>
+</table>
+
+-   \* Note: "Max Stacks" is highest recorded count. Take with a grain of salt. If "limitless", count surpassed 10 with no clear sign of stopping.
+
+## Notes & Trivia
+
+-   At max insanity, the Flaw countdown lasts as little as 3 seconds per number.

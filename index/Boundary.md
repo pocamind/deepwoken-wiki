@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 183115
+revid: 183209
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Mechanics]
@@ -98,6 +98,11 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  |
 | Songseeker Mines ([Songseeker Wilds](Songseeker_Wilds.md)) | 
+
+ | 
+
+ |
+| Songseeker Church ([Derelict Highchurch](Derelict_Highchurch.md)) | 
 
  | 
 

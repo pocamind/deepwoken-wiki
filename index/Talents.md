@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 183123
+revid: 183172
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -366,32 +366,32 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Arcwarder**](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
--   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] Your dashes become Jet Dashes, allowing you to attack while dashing.
+-   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Your dashes become Jet Dashes, allowing you to attack while dashing.
     -   Jet dashes go much further than regular dashes.
     -   Also allows the user to M1 while performing a dash, ending their dash early.
     -   Prerequisite: [Oath: Arcwarder](Oath%253A_Arcwarder.md)
 
--   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] When blockbroken, eject from your suit.
+-   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) When blockbroken, eject from your suit.
     -   If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
     -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] Your Arcwarder Mantras deal increased damage.
+-   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Your Arcwarder Mantras deal increased damage.
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
     -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
     -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your your more conventional modifiers by giving them a higher base damage to work off of.
 
--   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] You can block attacks from any direction and cannot be backstabbed.
+-   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) You can block attacks from any direction and cannot be backstabbed.
     -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you can block attacks that are coming from any direction.
     -   Talents that proc on backstab (e.g. _Spine Cutter_) cannot proc on you while you're in Arc Suit.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] Holding Spacebar after double jumping propels you up for a short duration.
+-   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Holding Spacebar after double jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
     -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - \[In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit)\] Outgoing and incoming enchant effects are nullified. Can be toggled with N.
+-   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Outgoing and incoming enchant effects are nullified. Can be toggled with N.
     -   Toggling Null on/off has a 5 second cooldown.
     -   Has a sound effect on toggle.
     -   Toggle hotkey can be changed in settings.
@@ -716,16 +716,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Bruiser
 
--   Impairing Blow \[Common Talent\] - \[Greataxes\] Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
+-   Impairing Blow \[Common Talent\] - Greataxes Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
     -   Prerequisites: Use a Greataxe, 30 Heavy Weapon
 
--   Brazen Blow \[Common Talent\] - \[Greataxes\] Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. \[20s CD\]
+-   Brazen Blow \[Common Talent\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. \[20s CD\]
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
--   _Heavy Fatigue_ \[Rare Talent\] - \[Greataxes\] Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
+-   _Heavy Fatigue_ \[Rare Talent\] - Greataxes Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
     -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapon
 
--   _Rending Impact_ \[Rare Talent\] - \[Greataxes\] Block breaking an enemy applies knockdown.
+-   _Rending Impact_ \[Rare Talent\] - Greataxes Block breaking an enemy applies knockdown.
     -   Allows for more time for followups after blockbreak.
     -   Visually bugged with base crit, and plays the knockdown animation twice.
     -   Prerequisites: Use a Greataxe, 40 Heavy Weapon
@@ -894,13 +894,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Colossus
 
--   _Destructive Recovery_ \[Rare Talent\] - \[Greatsword\] Enemies recover 20% less Posture when parrying. (+1 Posture, +2 Carry Load)
+-   _Destructive Recovery_ \[Rare Talent\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Use a Greatsword
 
--   Heavy Hitter \[Common Talent\] - \[Heavy Weapons\] Your posture damage is increased by 10%.
+-   Heavy Hitter \[Common Talent\] - Heavy Weapons Your posture damage is increased by 10%.
     -   Prerequisites: 25 Heavy Weapon, 15 Strength
 
--   _Unstoppable Force_ \[Rare Talent\] - \[Greathammer\] You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load)
+-   _Unstoppable Force_ \[Rare Talent\] - Greathammer You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Unwavering Resolve, Use a Greathammer
 
 ### Comrade
@@ -941,20 +941,20 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Critical Specialist
 
--   Finishing Touch \[Common Talent\] - \[Dagger\] Instantly execute enemies finished with the critical attack of your dagger.
+-   Finishing Touch \[Common Talent\] - Daggers Instantly execute enemies finished with the critical attack of your dagger.
     -   Your critical must knock the opponent for this Talent to proc.
     -   Prerequisites: 50 Agility, 40 Light Weapon, Dagger equipped
 
--   _Knife's Journey_ \[Rare Talent, Light\] - \[Daggers\] Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage
+-   _Knife's Journey_ \[Rare Talent, Light\] - Daggers Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage
     -   Displays a red particle on the target enemy after proccing.
     -   Prerequisite: 30 Light Weapon
 
--   Decisive Blow \[Common Talent, Light\] - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
+-   Decisive Blow \[Common Talent, Light\] - Daggers Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
     -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect.
     -   Compatible with Switchblade despite not being a Dagger talent.
     -   Prerequisite: Knife's Journey
 
--   Successive Throw \[Common Talent\] - \[Dagger\] When you successfully flourish an enemy, you throw out a dagger afterwards
+-   Successive Throw \[Common Talent\] - Daggers When you successfully flourish an enemy, you throw out a dagger afterwards
     -   If your cursor isn't on an enemy after flourishing them, it will throw it at the enemy closest to your cursor. If your cursor is on a separate player from who you flourished, the dagger will be thrown at them instead.
     -   Will take 1.5 seconds to throw the dagger after flourishing someone.
     -   If the target is too close to you, the thrown dagger projectile will be invisible; otherwise, the thrown dagger projectile will look similar to Ice Daggers' projectile.
@@ -1590,7 +1590,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Gunslinger
 
--   _Armor Piercing_ \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+-   _Armor Piercing_ \[Rare Talent\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
         -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: (1 - ((1 - Current PEN/100) \* (1 - 0.1))) \* 100 = effective PEN against blunt armor.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
@@ -1642,14 +1642,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Hammer Rage
 
--   Brain Rattler \[Common Talent\] \[Clubs\] - Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.
+-   Brain Rattler \[Common Talent\] - Clubs Guardbreaking an opponent with your Critical rattles their brain in its container, causing increased blood loss and blurring their vision.
     -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
     -   Prerequisites: 50 Medium Weapon, Club equipped
 
--   Dispatch \[Common Talent\] \[Clubs\] - Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack.
+-   Dispatch \[Common Talent\] - Clubs Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack.
     -   Prerequisites: Bear Trap, 55 Medium Weapon, Club equipped
 
--   Hammerfall \[Common Talent\] \[Clubs\] - Aerial attacks do 25% more posture damage when blocked.
+-   Hammerfall \[Common Talent\] - Clubs Aerial attacks do 25% more posture damage when blocked.
     -   Prerequisites: 35 Medium Weapon, Club equipped
 
 ### Heat Column
@@ -2271,15 +2271,15 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Marksman
 
--   _Leg Shot_ \[Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit, and also disables any speed boosts they get for the next 10 seconds.
+-   _Leg Shot_ \[Rare Talent\] - Rifles Landing your critical slows your enemy for a bit, and also disables any speed boosts they get for the next 10 seconds.
     -   Prerequisites: 80 Medium Weapon, Rifle Equipped
 
--   Stock Bash \[Common Talent\] - \[Rifles\] Your running attacks now apply a brief amount of daze.
+-   Stock Bash \[Common Talent\] - Rifles Your running attacks now apply a brief amount of daze.
     -   Applies daze for one second.
     -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
 
--   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
-    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds, with a downtime of 75 seconds.
+-   _Tactical Reload_ \[Rare Talent\] - Rifles Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
+    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullets.md) for 15 seconds, with a downtime of 75 seconds.
     -   You do not need to have physical bullets in your inventory for this to work.
     -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), giving it a downtime of only 30 seconds.
     -   This talent has no effect on [Rifle Spear](Rifle_Spear.md).
@@ -2462,12 +2462,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Navaen Nomad
 
--   Captain Etrea \[Common Talent\] - \[Fists\] Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
+-   Captain Etrea \[Common Talent\] - Fists Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
     -   Works with [Jus Karita](Jus_Karita.md) and [Light's Final Toll](<Light's_Final_Toll.md>) despite not using "fists" as a weapon.
     -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
     -   Prerequisites: Moving Fortress, Shield Equipped, 20 Fortitude and 30 Strength.
 
--   _Fists of Fortitude_ \[Rare Talent\] - \[Fists\] Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
+-   _Fists of Fortitude_ \[Rare Talent\] - Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. 70s CD (+1 Carry Load)
     -   Lasts 10 seconds then goes on cooldown once the buff ends.
     -   Only procs on M1s and criticals with the M1 tag.
         -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
@@ -2482,16 +2482,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Needle
 
--   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - \[Rapier\] Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
+-   Duelist's Lunge \[Common Talent, Rapier Exclusive\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
     -   Running attack with rapiers deal 35% more posture damage.
     -   After landing a Critical, the next rapier running attack has +2 stud range.
     -   Prerequisites: Using Rapier, 30 Light Weapon
 
--   Frenzied Dance \[Common Talent, Rapier Exclusive\] - \[Rapier\] When your posture is about to collapse, you deal greater chip and posture damage.
+-   Frenzied Dance \[Common Talent, Rapier Exclusive\] - Rapier When your posture is about to collapse, you deal greater chip and posture damage.
     -   When your posture is above 70%, deal 33% more posture damage and 20% chip damage.
     -   Prerequisites: Using Rapier, 50 Light Weapon
 
--   Pressure Skewer \[Common Talent, Rapier Exclusive\] - \[Rapier\] Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.
+-   Pressure Skewer \[Common Talent, Rapier Exclusive\] - Rapier Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.
     -   Increase blood bar damage by 50%.
     -   While active, also grants +25% chip damage.
     -   Also applies to criticals with the M1 tag.
@@ -2560,21 +2560,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Outlaw
 
--   Lock n Load \[Common Talent\] - \[1H Guns\] The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
+-   Lock n Load \[Common Talent\] - 1H Guns The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
     -   Prerequisites: 60 Light Weapon, using a Pistol
 
--   Rapid Fire \[Common Talent\] - \[1H Guns\] When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
+-   Rapid Fire \[Common Talent\] - 1H Guns When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
     -   Procs on dodge,block and getting hit.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
--   Rapid Reload \[Common Talent\] - \[1H Guns\] You have 20% faster reload when reloading an empty pistol.
+-   Rapid Reload \[Common Talent\] - 1H Guns You have 20% faster reload when reloading an empty pistol.
     -   it takes 0.4 seconds to reload each bullet of an empty gun instead of 0.5 seconds.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
--   Sleight of Hands \[Common Talent\] - \[1H Guns\] When you flourish an opponent you instantly load a bullet.
+-   Sleight of Hands \[Common Talent\] - 1H Guns When you flourish an opponent you instantly load a bullet.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
--   Ultrakill \[Common Talent\] - \[1H Guns\] When under the effects of Rapid Fire you reload 2X as fast.
+-   Ultrakill \[Common Talent\] - 1H Guns When under the effects of Rapid Fire you reload 2X as fast.
     -   Prerequisites: Rapid Fire, 55 Light Weapon, using a Pistol
 
 ### Politician
@@ -2922,7 +2922,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Fist/Kick style equipped, 25 Agility
 
--   Pocket Sand \[Common Talent\] - \[Fist\] Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
+-   Pocket Sand \[Common Talent\] - Fist Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
     -   The description is missing a period in game too, that's not a wiki error.
     -   Prerequisites: 35 Light Weapon, 20 Strength
@@ -3444,7 +3444,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Applies daze for 1 second.
     -   Prerequisite: 20 Intelligence
 
--   _Punishing Blow_ \[Rare Talent\] - \[Heavy Weapons\] Daze opponents for 1s when you interrupt their Basic Attack with your own.
+-   _Punishing Blow_ \[Rare Talent\] - Heavy Weapons Daze opponents for 1s when you interrupt their Basic Attack with your own.
     -   If you M1 your opponent during their M1 animation, they will be dazed for 1 second.
     -   Also procs if you land a critical with the M1 tag during their M1 animation.
     -   Prerequisite: 20 Heavy Weapon
@@ -3569,7 +3569,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Thunder Brawler
 
--   Discharge \[Common Talent, Thundercall Exclusive\] - \[Light Weapons\] On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load)
+-   Discharge \[Common Talent, Thundercall Exclusive\] - Light Weapons On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load)
     -   Has base DMG of 5 and Thundercall scaling 5 (Formula to calculate scaled DMG: "base damage \* (1 + (scaling / 10) \* (Thundercall Investment / 100))")
     -   Has 6.48x PVE scale (5.35 DMG PVP, 34,78 DMG PVE), affected by chain of perfection.
     -   The effect lasts for 30 seconds.
@@ -3967,7 +3967,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Weapon Master
 
--   Brutal Momentum \[Common Talent\] - \[Heavy Weapons\] Successfully dodging will give you hyperarmour on your next swing.
+-   Brutal Momentum \[Common Talent\] - Heavy Weapons Successfully dodging will give you hyperarmour on your next swing.
     -   Brutal Momentum works on all heavy weapons, including those who could not utilize this Talent previously like [Railblade](Railblade.md) or Greataxes.
     -   Prerequisites: 50 Heavy Weapon, Heavy equipped.
 
@@ -3981,7 +3981,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _**Switchblade**_ \[Advanced Talent\] - You can now utilize Dagger Talents when not wielding a dagger.
     -   Prerequisites: 50 Light Weapon, 50 Medium Weapon/50 Heavy Weapon
 
--   Warrior's Swing \[Common Talent\] - \[Heavy Weapons\] Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
+-   Warrior's Swing \[Common Talent\] - Heavy Weapons Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
     -   Prerequisite: 30 Heavy Weapon
 
 ### Whisper

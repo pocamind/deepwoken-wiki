@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 180990
+revid: 183195
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -50,7 +50,7 @@ The **First Layer** of [The Depths](The_Depths.md), also known as **Scyphozia,**
 
 ## Escaping First Layer
 
-Detailed map of the entire Depths First Layer
+Outdated, detailed map of Scyphozia
 
 There are 2 ways of escaping the First Layer.
 

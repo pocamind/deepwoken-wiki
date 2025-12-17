@@ -1,6 +1,6 @@
 ---
 title: Swordmaster Basher
-revid: 182062
+revid: 183185
 source: https://deepwoken.fandom.com/wiki/Swordmaster_Basher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Military personnel of The Central Authority]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Swordmaster Basher is a [Etrean](Etrean.md) NPC.
+Swordmaster Basher is an [Etrean](Etrean.md) NPC.
 
 ## Location
 

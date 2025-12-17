@@ -1,9 +1,9 @@
 ---
 title: Heliodar
-revid: 182190
+revid: 183193
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
+categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
 ---
 
 # Heliodar
@@ -20,15 +20,19 @@ While for regular players this aspect is only for Vow of Iron, this aspect may b
 
 Rise from the ashes and be born again.
 
-Chance of obtaining aspect: **N/A** / **1%** (Vow of Iron)
+Chance of obtaining aspect: **N/A** / **1%** ([Vow of Iron](Vow_of_Iron.md))
 
 ## Description
 
-"The Phoenix aspect" - An entirely new aspect which resembles the Tiran. Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to [Visionshaper](Oath%253A_Visionshaper.md) eyes. The aspect also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
+"The Phoenix aspect" - An entirely new aspect which resembles the [Tiran](Tiran.md). Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to [Visionshaper](Oath%253A_Visionshaper.md) eyes. The aspect also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
 
 Eclipse (Racial Variant likely) - "For what if the Ash were to never return to flames?"
 
 ## Racial Traits
+
+**Pathfinder:**
+
+  
 
 <table>
 <tbody>
@@ -39,6 +43,7 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
     <li><i>"Wings of Heliodar"</i>
   <ul>
     <li>Gives the user the ability to temporarily fly, sprouting glowing orange wings, though this is temporary and lasts about 15 seconds. This aspect is also not immune to fall damage and can still die from it.<b></b></li>
+    <li>In <a href="Vow_of_Iron.md">Vow of Iron</a>, this can be obtained by defeating the <a href="Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md">Shogun of the Prophet's Guard (Temple of Mur)</a> while using the <a href="Solborn.md">Solborn</a> <a href="Mementos.md">Memento</a>.</li>
   </ul></li>
   </ul></td>
 </tr>
@@ -55,12 +60,31 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 </tbody>
 </table>
 
+**Iron Vow:**
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td>Placeholder</td>
+  <td><b>From The Ashes</b>
+  <ul>
+    <li><i>"Using an Etris Flask when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds. Gain extra healing when below 30% health as well."</i>
+  <ul>
+    <li>Using an <a href="Etris_Flask.md">Etris Flask</a> gives you an x% damage, an x% resistance buff and heals x% extra HP for 30 seconds.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
 ## Miscellaneous
 
 **Lore:**
 
   
-Unknown
+In the Vow of Iron update, were confirmed to be directly related to Tirans, having gained the favor of Rukh and transformed into Heliodar.
 
 **Strengths:**
 
@@ -96,3 +120,4 @@ Unknown
 ## Trivia
 
 -   Aspect created by Dexerius. They are based on his [Phoenix spec](Developer_Specs.md) which allows him to summon a glowing rideable phoenix.
+-   The version of this aspect used in [Vow of Iron](Vow_of_Iron.md) has different eyes when compared to the spec version of the race.

@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 183165
+revid: 183168
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -43,11 +43,10 @@ The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](
 1.  [Volu](Volu.md), who is leaned against the wall in [Outpost Antumbra](Outpost_Antumbra.md)'s basement.
 2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
 3.  As a drop from [The Understrand](The_Understrand.md) after defeating the [Ministry Agent](Ministry_Agent.md).
-4.  As a drop from [Heart of Enmity](Heart_of_Enmity.md) due to the new recent drop updates.
 
 When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
 
-It can also be obtained as a direct drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+It can also be obtained as a direct drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and additionally [Heart of Enmity](Heart_of_Enmity.md) due to the new recent drop updates.
 
 ## Critical
 
@@ -59,6 +58,7 @@ The cooldown for both criticals is **10 seconds**.
 
 ## Trivia
 
+-   Can be found as a drop from [Heart of Enmity](Heart_of_Enmity.md) due to the new recent drop updates.
 -   The sheathe depicts symbols of [The Ministry](The_Ministry.md), alongside an emblem resembling the symbol for [Notes](Notes.md), the [Moonseye](Moonseye.md), and another pattern.
 -   The creator of the Bloodfouler is likely an Etrean due to the Ministry's ties with Etrea, as well as the weapon's shape being derived from Etrean make.
 -   It does not change appearance with Alloyblood.

@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 179616
+revid: 183179
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses, Voiced Characters]
@@ -207,7 +207,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="Books.md#the-ferrymans-lullaby">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Ferryman's_Coat_Cloth.md"><font>Ferryman's Coat Cloth</font></a>, <a href="Books.md#the-ferrymans-lullaby">The Ferryman's Lullaby</a> (Book), All <a href="Deep_Gems.md">Deep Gems</a>, <a href="Umbral_Obsidian.md">Umbral Obsidian</a>, <a href="Treasures.md">Diamond</a> (Extremely Rare)</li>
     <li><a href="Relics.md">Relics</a>: <a href="Ardour_Manifestation.md">Ardour Manifestation</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
   </ul></td>
 </tr>

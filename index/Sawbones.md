@@ -1,11 +1,9 @@
 ---
 title: Sawbones
-revid: 182633
+revid: 183236
 source: https://deepwoken.fandom.com/wiki/Sawbones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Canor NPCs, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
 ---
 
 # Sawbones
@@ -13,6 +11,7 @@ notices:
 | Sawbones | |
 |---|---|
 | name | Unknown |
+| alias | Doc[1], Sawbones |
 | aspect | Canor |
 | location | Fort Merit |
 | affiliation | The Central Authority |
@@ -21,9 +20,17 @@ notices:
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+“ I've worked with that Sawbones for a couple years - I handle all the smaller bumps and scratches that people come to me with. Pray that you'll see me more than him. ”
+
+― Taiga
+
 ## Description
 
-Sawbones is the doctor of [The Central Authority](The_Central_Authority.md). He resides within the medical bay.
+The unnamed sawbones serves as the chief medical office for [The Central Authority](The_Central_Authority.md)'s garrison positioned in the Eastern Luminant.[\[1\]](#cite-note-t-1) In [Vow of Iron](Vow_of_Iron.md), he resides within the medical bay.
+
+In the modern day, the sawbones works alongside [Taiga](Taiga.md), handling medical emergencies while she handles more minor injuries. He has a reputation for amputation.[\[1\]](#cite-note-t-1)
+
+Despite this reputation, [Yakob](Yakob.md) considers a paying a visit to him to be less unpleasant than the thought of marching through [The Starswept Valley](The_Starswept_Valley.md) in full gear.[\[2\]](#cite-note-y-2)
 
 ## Dialogue
 
@@ -40,3 +47,8 @@ Sawbones is the doctor of [The Central Authority](The_Central_Authority.md). He 
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  ↑ [1.0](#cite-ref-t-1-0) [1.1](#cite-ref-t-1-1) [1.2](#cite-ref-t-1-2) [Taiga](Taiga.md)
+2.  [↑](#cite-ref-y-2-0) [Yakob](Yakob.md)
