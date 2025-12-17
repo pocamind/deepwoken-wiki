@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 183193
+revid: 183255
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
@@ -19,6 +19,8 @@ This page describes content that is exclusive to the **Vow of Iron** gamemode.
 While for regular players this aspect is only for Vow of Iron, this aspect may be accessed outside of Vow of Iron only by Content Creators or other exclusive members.
 
 Rise from the ashes and be born again.
+
+Inheritors of Rukh's Blood, the Heliodar were once Tiran, but in bonding with a phoenix earnt the respect of Rukh.
 
 Chance of obtaining aspect: **N/A** / **1%** ([Vow of Iron](Vow_of_Iron.md))
 

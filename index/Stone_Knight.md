@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 182211
+revid: 183265
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -104,4 +104,4 @@ A Stone Knight executes the player:
 -   Blizzard Knights will under no circumstance fight a [Rogue Construct](Rogue_Construct.md), instead choosing to team up on you.
 -   The animations and model of the Stone Knight were overhauled on the January 11th, 2025 Update.
 -   Note: They are extremely likely to animation bug with attacks just being outright hidden at times.
--   Certain Moss Knights are guaranteed to spawn within some locations of the Starswept and will guard their position, teleporting back if out of bounds.
+-   Sand Knights were most likely Moss Knights, gradually turning into a Sand Knight as the desert winds blew.

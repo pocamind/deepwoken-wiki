@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 183220
+revid: 183243
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -20,6 +20,7 @@ The Depths of Vow of Iron differ from Pathfinder, there's more danger there than
 -   You no longer receive health packs from enemies.
 -   You cannot enter layer 2, as Klaris is blocked off and you will die if you enter the void regardless of hp.
 -   Having low sanity for long enough will grant you an amount of flaws, depending on severity.
+-   [Deep gems](Deep_Gems.md) now grows in The Depths
 
 <table><caption>Vow Of Iron Depths Trial (Please update if you find more enemies)</caption>
 <tbody>
@@ -34,6 +35,10 @@ The Depths of Vow of Iron differ from Pathfinder, there's more danger there than
 <tr>
   <td>6-10</td>
   <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, or previous...</td>
+</tr>
+<tr>
+  <td>11-20</td>
+  <td><a href="True_Heart_of_Enmity.md">True Heart of Enmity</a></td>
 </tr>
 </tbody>
 </table>

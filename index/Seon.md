@@ -1,6 +1,6 @@
 ---
 title: Seon
-revid: 182037
+revid: 183247
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation]
@@ -15,7 +15,7 @@ notices:
 |---|---|
 | name | Seon |
 | aspect | Etrean |
-| location | Summer Isle |
+| location | The Etrean Sea |
 | affiliation | Etrean Royalists |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -28,7 +28,7 @@ Seon is an [Etrean](Etrean.md) NPC. He plans to take down [The Lord Regent](The_
 
 ## Location
 
-Seon is located along the shores of [Summer Isle](Summer_Isle.md), near the bottom of a ruined building.
+Seon is located along the shore of the wall dividing the Eastern Luminant, near [The Golden Rat](The_Golden_Rat.md).
 
 ## Dialogue
 

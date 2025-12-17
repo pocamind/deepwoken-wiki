@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 183077
+revid: 183268
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
@@ -17,3 +17,11 @@ This content is not accessible outside of this gamemode.
 Variants: [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
 Template:Creature Infobox V3
+
+## Description
+
+The prime version of Titus found in the Vow Of Iron game mode.
+
+## Tips
+
+Just parry, dodge and block.
