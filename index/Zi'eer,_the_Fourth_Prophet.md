@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 183412
+revid: 183630
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -182,7 +182,7 @@ TBA
 
 -   Zi'eer is voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz).
     -   Additionally, he provides the voice for Chaser and The Ferryman.
--   Fighting this boss, no matter if you manage to defeat him or you end up defeated. Fighting Zi'eer is how you finish VoI. After a white screen. You're teleported back to another version of Fragments of Else but the background is black in this one.
+-   The Fragments of Else seem to be more dimmed and contain less particle effects once you either defeat or lose to Zi'eer than in the original Fragments of Else.
 -   Depending if you died or survived in the fight against the boss, the Reclaimer of the Recollection will say:
     -   If you lost to Zi'eer: He will say your fate and adding other many mementos, ended with Zi'eer, since none of them were able to kill him. But he thinks there's a chance to actually defeat him, undiscovered.
     -   If you win against Zi'eer: He will state that they can't continue further because the memories are lacking. He is impressed at you for finding in how to defeat Zi'eer. After this he tells you about telling this feat to his circle to plan the real defeat of the actual Lord Regent, and encourages you to keep trying new ways to defeat him.

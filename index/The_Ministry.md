@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 177347
+revid: 183684
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Ministry]
@@ -30,6 +30,8 @@ They are responsible for the drowning of [Celtor](Lost_Celtor.md). The city was 
 They enjoy recruiting people to kill others, sometimes to kill specific individuals, sometimes just to kill random people.
 
 They are refered to as originating from the [Western Luminant](Luminants.md#western-luminant).[\[3\]](#cite-note-3)
+
+In [Vow of Iron](Vow_of_Iron.md), the Ministry is makes fewer appearances with their most common, albeit still rare, one being special enemies such as the [Ministry Heartspiller](Ministry_Heartspiller.md) or the Shadow Hunter spawning to ambush players once they complete board jobs. This likely means the Ministry's power in 1233 was much smaller compared to the current one in Pathfinder.
 
 ## Reputation
 

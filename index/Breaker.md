@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 182731
+revid: 183622
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -23,4 +23,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Breaker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento locks your outfit.
+**Breaker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.

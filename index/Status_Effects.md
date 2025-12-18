@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 183422
+revid: 183437
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -728,9 +728,13 @@ Applied from landing basic attacks, blocking attacks, and having your attacks pa
 
 When you reach 5 Static Blade stacks, clear all stacks and gain the Gathering Electricity status effect. This increases your weapon's base damage by 3 for 15 seconds. Applied by the [Gathering Electricity](Talents.md#gathering-electricity) Talent.
 
-### Jumpstart
+### Amplified Rage
 
-Applied by using the [Static Withdraw](Talents.md#static-withdraw) Talent tool with the [Jumpstart](Talents.md#jumpstart) upgrade. Increases your mobility, grants a 10% damage modifier to weapon attacks, and allows you to apply [Shock](#shock) or [Surge Stacks](#overloaded) on your weapon attacks, depending on your chosen Thundercall path. This effect can be enhanced with the [Raging Static](Talents.md#raging-static) Talent, removing the mobility buffs to double the damage modifier's effectiveness to 20% and lessening the self damage on cast. Signified by a yellow/blue thunder conduit over your heart.
+Applied by using the [Electrify](Talents.md#electrify) Talent tool, with the [Amplified Rage](Talents.md#amplified-rage) upgrade. Grants a 20% damage modifier to weapon attacks, and allows you to apply [Shock](#shock) or [Surge Stacks](#overloaded) on your weapon attacks, depending on your chosen Thundercall path. This effect lasts 15 seconds. Signified by a yellow/blue conduit over your heart.
+
+### Amplified Reflexes
+
+Applied by using the [Electrify](Talents.md#electrify) Talent tool, with the [Amplified Reflexes](Talents.md#amplified-reflexes) upgrade. Grants a movement speed increase and increased effectiveness to parkour. This effect lasts 15 seconds. Signified by a yellow/blue thunder conduit over your heart.
 
 ### Obscured
 

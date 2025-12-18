@@ -1,9 +1,9 @@
 ---
 title: The Lord Regent
-revid: 182914
+revid: 183681
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state, Voiced Characters]
+categories: [Pathfinder Exclusive, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
 ---
 
 # The Lord Regent
@@ -14,6 +14,10 @@ categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in th
 | alias | The Lord Regent, The 4th Prophet of The Ministry[1] |
 | location | Etris Palace |
 | affiliation | The Ministry, Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”
 
@@ -429,8 +433,6 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 -   Zi'eer's outfits are the following outfits made by **SirAndrove2**
 -   [https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) - Shirt
 -   [https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider](https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider) - Pants
-
-## Navigation
 
 1.  ↑ [1.0](#cite-ref-oc-1-0) [1.1](#cite-ref-oc-1-1) [1.2](#cite-ref-oc-1-2) [Oath: Contractor](Oath%253A_Contractor.md)
 2.  ↑ [2.0](#cite-ref-opr-2-0) [2.1](#cite-ref-opr-2-1) [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)

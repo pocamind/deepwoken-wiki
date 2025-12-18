@@ -1,14 +1,18 @@
 ---
 title: Scion of Ethiron
-revid: 179610
+revid: 183685
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
+categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
 ---
 
 # Scion of Ethiron
 
 _This is the boss encountered at the end of [Layer 2, Floor 2](Second_Layer/New_Kyrsa.md). For its puppeteer and namesake, see [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>)._
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ The egg hatches soon, little diver. The wails of the screaming child born under the snow will bring it all crashing down. ”
 

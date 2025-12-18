@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 182563
+revid: 183682
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -67,7 +67,7 @@ Celtor are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair a
   <ul>
     <li><i>"The city you once called home is now your only way out of the depths, perhaps you could use this to your advantage. Gain extra leeway when attempting to escape the depths."</i>
   <ul>
-    <li>Maybe the depths trial enemy has less hp? Still gave <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a> at power 1. hnmm</li>
+    <li>Maybe the depths trial enemy has less hp? Still gave <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a> at power 1.</li>
   </ul></li>
   </ul></td>
 </tr>

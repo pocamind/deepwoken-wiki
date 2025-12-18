@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 183414
+revid: 183643
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Mechanics]
@@ -167,6 +167,11 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  |
 | Etrea Home ([Etris](Etris.md)) | 
+
+ | 
+
+ |
+| Estate Boundary ([Etris](Etris.md)) | 
 
  | 
 

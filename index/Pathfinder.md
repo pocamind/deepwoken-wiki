@@ -1,6 +1,6 @@
 ---
 title: Pathfinder
-revid: 183308
+revid: 183620
 source: https://deepwoken.fandom.com/wiki/Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Game Modes, Paths, Character]
@@ -25,6 +25,6 @@ Pathfinder is one of two Paths (gamemodes) available in _Deepwoken_, the other b
 
 In Pathfinder, the player plays as the eponymous Pathfinder, in their journey throught the world of _Deepwoken_. They discover what remains of a broken world torn by war, politics, gods and other beings.
 
-Pathfinder is the intended main gamemode of _Deepwoken_. Progress your character by training your stats, acquire talents and mantras as your Power Up, gear up, explore Lumen and The Depths, discover friend and foes alike and try to make a name for yourself.
+Pathfinder is the intended main gamemode of _Deepwoken_. Progress your character by [training](Training_Gear.md) your [stats](Attributes.md), acquire [Talents](Talents.md) and [Mantras](Mantras.md) as you [Power up](Power.md), gear up, explore Lumen and [The Depths](The_Depths.md), encounter friend and foe alike and try to make a name for yourself.
 
-While Pathfinder has no defined goal or ending per say, [Echoes](Echoes.md) can be considered your main goal.
+While Pathfinder has no defined goal or ending per se, [Echoes](Echoes.md) can be considered your main goal, providing upgrades that persist beyond death and across [character slots](Character_Slots.md).

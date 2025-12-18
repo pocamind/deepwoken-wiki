@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 183393
+revid: 183500
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -14,7 +14,7 @@ notices:
 |---|---|
 | description | Hallowed disciple of Faust, the Hero of frost; sworn foe of the traitorous Urek. A spirit of justice once concealed by ice. |
 | unlock | Unlocked by default |
-| starting weapons | Great Maul, Saint Jay's Hammer, Hero's Blade of Frost |
+| starting items | Great Maul, Saint Jay's Hammer, Hero's Blade of Frost |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Berserker
-revid: 182725
+revid: 183491
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Pages with broken file links, Mementos]
@@ -15,7 +15,7 @@ notices:
 | description | When confronted with a problem, their first move was to get angry. Their second move was to hit it until it stopped being a problem |
 | unlock | Unlocked by default |
 | allowed weapons | Greatsword, Fist, Greatcannon, Greathammer, Greataxe, Sword, Club, Spear |
-| starting weapons | Iron Cestus, Mace, Battleaxe, Steel Maul, Zweihander |
+| starting items | Iron Cestus, Mace, Battleaxe, Steel Maul, Zweihander |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

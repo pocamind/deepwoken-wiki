@@ -1,41 +1,30 @@
 ---
-title: Mortus
-revid: 183567
-source: https://deepwoken.fandom.com/wiki/Mortus
+title: Ishmael
+revid: 183688
+source: https://deepwoken.fandom.com/wiki/Ishmael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, Vendors]
+categories: [Celtor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
+notices:
+  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
-# Mortus
+# Ishmael
 
-| Mortus | |
+| Ishmael | |
 |---|---|
-| name | Mortus |
-| aspect | Capra |
+| name | Ishmael |
+| aspect | Celtor |
 | location | Etrean Sea |
-| family | Mortus' wife (wife) |
 
-“ I can give you the knowhow y'need to catch the **big ones**... Now, some might not even consider 'em _fish_, but I know better I does. ”
-
-― Mortus
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
-Mortus is a [Capra](Capra.md) NPC.
+Ishmael is a [Celtor](Celtor.md) NPC.
 
-He has gray hair and wears the [Corsair Outlaw](Corsair_Outlaw.md) Outfit.
-
-Mortus is capable of crafting [Monster Bait](Monster_Bait.md), and giving out the recipes for it to the player. These monsters are:
-
--   [Megalodaunt](Megalodaunt.md)
--   [Thresher](Thresher.md)
--   [Terrapod](Terrapod.md)
-
-To obtain the recipes for the bait, you must bring two (2) [Megalodaunt Hides](Megalodaunt_Hide.md)/[Thresher Spines](Thresher_Spine.md) or three (3) [Strange Claws](Strange_Claw.md).
-
-## Location
-
-He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Erisia.md).
+  
 
 ## Dialogue
 
@@ -47,7 +36,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*The dishevelled man sniffs at you.* What's this? Need something'?</td>
+  <td colspan="12"><i>*The dishevelled man sniffs at you.*</i> What's this? Need somethin'?</td>
 </tr>
 <tr>
   <td colspan="12">What do you have?</td>
@@ -126,5 +115,6 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
 
 ## Trivia
 
--   The "octopus" that Mortus mentions is most likely a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
+-   The "octopus" that Ishmael mentions is most likely a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
 -   Behind his hut you will find a tiny doorway where you can find a Fishing Spot.
+-   Acts as the [Vow of Iron](Vow_of_Iron.md) equivalent of [Mortus](Mortus.md).

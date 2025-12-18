@@ -1,12 +1,16 @@
 ---
 title: The Maw of Ethiron
-revid: 166714
+revid: 183513
 source: https://deepwoken.fandom.com/wiki/The_Maw_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # The Maw of Ethiron
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Template:Location2
 

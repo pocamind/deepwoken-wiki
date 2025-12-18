@@ -1,9 +1,9 @@
 ---
 title: Maestro Evengarde Rest
-revid: 182903
+revid: 183458
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Bosses, Etrea]
+categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
 ---
 
 # Maestro Evengarde Rest
@@ -16,6 +16,10 @@ categories: [Enemies, NPCs, Bosses, Etrea]
 | challenges | -- Maestro Evengarde Rest --, Sparring Buddy - Slay 10.Reward: +5% DMG; +2.5% RES |
 
 Variants: [Evengarde Rest](Evengarde_Rest.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ …Your movements lack discipline. ”
 

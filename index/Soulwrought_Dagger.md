@@ -1,9 +1,9 @@
 ---
 title: Soulwrought Dagger
-revid: 183092
+revid: 183591
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Redirect pages containing data, Weapons]
+categories: [Redirect pages containing data, Weapons, Light Weapons]
 notices:
   - "This page, despite being a redirect, is necessary and useful for data referencing purposes. Please do not delete the contents of this page. It *is* in use."
 ---

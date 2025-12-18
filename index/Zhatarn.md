@@ -1,6 +1,6 @@
 ---
 title: Zhatarn
-revid: 179033
+revid: 183550
 source: https://deepwoken.fandom.com/wiki/Zhatarn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Celestials, The Heavens]
@@ -29,7 +29,7 @@ Many years have passed since then and even many of the [Lightborn](Lightborn.md)
 
 -   After his exile, [his blade](Soulthorn.md) was found in the [Moonseye](Moonseye.md) by a [Celestial](Celestial.md) traveler.[\[3\]](#cite-note-soulthorn-3)
 -   His status is currently unknown.[\[1\]](#cite-note-kaide-1)
--   Possible playable Vow of Iron memento character as "Prince of the Moon".
+-   The Vow of Iron Memento "Prince of the Moon" is one of their followers, taking in their steps.
 
 ## References
 

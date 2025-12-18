@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 182753
+revid: 183502
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]

@@ -1,9 +1,9 @@
 ---
 title: Training Mode
-revid: 148571
+revid: 183541
 source: https://deepwoken.fandom.com/wiki/Training_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Game Modes]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

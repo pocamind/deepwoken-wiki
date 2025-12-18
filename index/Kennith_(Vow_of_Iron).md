@@ -1,6 +1,6 @@
 ---
 title: Kennith (Vow of Iron)
-revid: 182053
+revid: 183661
 source: https://deepwoken.fandom.com/wiki/Kennith_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs]

@@ -1,14 +1,18 @@
 ---
 title: Vow of Iron
-revid: 183303
+revid: 183686
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Game Modes, Paths, Character]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Game Modes, Paths, Character]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Vow of Iron
+
+****Vow of Iron** Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Wield the memories of the fallen.  
 The path ahead is not a forgiving one. ”
@@ -39,7 +43,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
         -   You unlock a set of talents and mantras to purchase at Power 1, 5, 10, 15 and 20.
 -   **Combat**
     -   Vow of Iron feature no health regeneration whatsoever. Most damage you take is semi permanent, unless you have access to some of the rare sources of healing available.
-        -   You have an Etris Flask available. It can be quickly drank to restore 30% HP. Only usable once, but recharges when returning to the [The Cerebral Spire](The_Cerebral_Spire.md). More charges can be bought across the Luminant. Charges are restored when returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering The Depths or escaping it.
+        -   You have an Etris Flask available. It can be quickly drank to restore 30% HP. Only usable once upon character creation. More charges can be bought across the Luminant. Charges are restored when returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering The Depths or escaping it.
         -   Campfires are still available to restore your health.
         -   Health Pack of any source are greatly reduced or outright removed.
     -   Vow of Iron character have a permanently stained health bar. Any death will send them to The Depths.
@@ -58,6 +62,9 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   Ziplines are heavily dotted around the map, allowing quick traversal.
     -   Gliders have unlimited uses.
     -   The depths have also changed, you can see the VOI depths [here](<The_Depths_(Vow_of_Iron).md>).
+    -   World Events now only include bosses such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md).
+        -   At Times where either Doom of Caeranthil or Interluminary Parasol would appear in Pathfinder, Caeranthil only appears instead.
+        -   At Times where Carnival of Hearts would appear in Pathfinder, Interluminary Parasol only appears instead.
 
 <table><caption>Teleporters (in order from left to right)</caption>
 <tbody>

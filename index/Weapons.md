@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 180913
+revid: 183585
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -25742,7 +25742,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Soulwrought Gun](Crazy_Slots.md#weapons) (16)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
-    -   Range: [Repeater](Repeater.md), [Metal Greatsword](Metal_Greatsword.md), [Soulwrought Gun](Crazy_Slots.md#weapons), [Guiding Star](Guiding_Star.md) (12)
+    -   Range: [Darksteel Cleaver](Darksteel_Cleaver.md) (13)
     -   Swing Speed: [Soulwrought Gun](Crazy_Slots.md#weapons) (1.33x)
     -   Highest DPS: [Soulwrought Greatsword](Crazy_Slots.md#weapons) (110 DPS)
     -   Unique Crits: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)

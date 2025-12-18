@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 183277
+revid: 183474
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
@@ -10,19 +10,19 @@ notices:
 
 # General Titus Juventius
 
+Variants: [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Variants: [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
-
 Template:Creature Infobox V3
 
-## Overview
+## Description
 
-The prime version of Titus found in the Vow Of Iron game mode.
+A younger version of Titus found in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
-## Moves
+## Moveset
 
 | Name | Description | Media |
 | --- | --- | --- |
@@ -108,3 +108,7 @@ The prime version of Titus found in the Vow Of Iron game mode.
  | 
 
  |
+
+## Tips
+
+It's possible to easily defeat Titus by luring him to a whirlpool. Titus will dash forward, likely into the whirlpool's range, and thus be sucked in, instantly killing him. However, this is difficult to pull off due to the limited distance Titus can move from [The Polymarch](The_Polymarch.md).

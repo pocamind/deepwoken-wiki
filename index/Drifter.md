@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 183402
+revid: 183493
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | unlock | Defeat Shogun of the Prophet's Guard, Dravik, The Rat King, or True Heart of Enmity without taking any damage (self damage does not count) |
 | locked armor | Unsung |
 | allowed weapons | Sword |
-| starting weapons | Purple Cloud |
+| starting items | Purple Cloud |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -481,7 +481,6 @@ Power 15, 950
 
 -   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
     -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
-    -   Prerequisite: 70 Willpower
     -   Currently, the only things Defiance cuts in half are:
         -   Flamecharm's burn damage
         -   Frostdraw's chill duration

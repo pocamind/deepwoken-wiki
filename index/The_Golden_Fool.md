@@ -1,6 +1,6 @@
 ---
 title: The Golden Fool
-revid: 181998
+revid: 183656
 source: https://deepwoken.fandom.com/wiki/The_Golden_Fool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -31,7 +31,7 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Lig
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Purchased at the Rat's Den for 100 |
+| obtainment | Purchased from The Beard at The Golden Rat for 100 |
 | description | Warriors bold with straps of gold, that dazzle like the sun! |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -40,7 +40,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Essentially just an empty tankard, the **Golden Fool** is a blunt Dagger Weapon that requires 40 LHT to use.
+Essentially just an empty tankard, **The Golden Fool** is a blunt Dagger Weapon that requires 40 LHT to use.
 
 ## Critical
 

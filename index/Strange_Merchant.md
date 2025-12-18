@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 183142
+revid: 183613
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -16,7 +16,7 @@ notices:
 | unlock | Has a low drop chance from various Mystery Boxes. |
 | aspect | Levit |
 | allowed weapons | Any, except Rifle and Pistol |
-| starting weapons | Vortex Echo |
+| starting items | Vortex Echo |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -36,3 +36,4 @@ To obtain the Strange Merchant Memento, you need to spend a significant amount o
     -   1 Under the stairs near the [Etrean Royalists](Etrean_Royalists.md) at the [Rat's Den](<Rat's_Den.md>).
     -   1 On an island to the North (??) of [Meteor Isle](Meteor_Isle.md)
     -   Inside a cell in the fort merit prison tower, about one floor up
+    -   On top of the song seeker flame temple

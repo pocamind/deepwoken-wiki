@@ -1,9 +1,9 @@
 ---
 title: Mementos
-revid: 183204
+revid: 183631
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Vow of Iron Exclusive]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -27,3 +27,7 @@ Mementos can equip any weapon in their category regardless of stats, but can onl
 ### 
 
 Starter Mementos
+
+### 
+
+Unlockable Mementos

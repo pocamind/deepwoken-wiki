@@ -1,6 +1,6 @@
 ---
 title: Sachan Shisui Kobura
-revid: 182468
+revid: 183557
 source: https://deepwoken.fandom.com/wiki/Sachan_Shisui_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -15,7 +15,8 @@ notices:
 | name | Shisui Kobura |
 | aspect | Etrean |
 | location | The Indigo Citadel |
-| affiliation | Etrean Royalists |
+| affiliation | Clan Kobura, Etrean Royalists (formerly) |
+| family | Clan Kobura |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -23,11 +24,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sachan Shisui Kobura is a [Etrean](Etrean.md) NPC.
+Sachan Shisui Kobura is an [Etrean](Etrean.md) NPC.
 
 ## Location
 
-Sachan Shisui Kobura is located at [The Indigo Citadel](Glossary.md#the-indigo-citadel), inside of the main house.
+Sachan Shisui Kobura is located at [The Indigo Citadel](The_Indigo_Citadel.md), inside of the main house.
 
 ## Dialogue
 

@@ -1,12 +1,16 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 180566
+revid: 183464
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Bosses]
+categories: [Pathfinder Exclusive, Monsters, Bosses]
 ---
 
 # Elder Primadon, The Titan Warlord
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ ROOOOOOOOOOOOOOOARGH ”
 

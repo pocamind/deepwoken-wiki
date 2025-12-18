@@ -1,6 +1,6 @@
 ---
 title: Rogue Assassin
-revid: 183260
+revid: 183499
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, The Central Authority]
@@ -15,7 +15,7 @@ notices:
 | description | With unmatched agility and stealth, they stalked the shadows, waiting for the moment to strike. |
 | unlock | Unlocked by default |
 | allowed weapons | Dagger, Rapier |
-| starting weapons | Big Brother |
+| starting items | Big Brother |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

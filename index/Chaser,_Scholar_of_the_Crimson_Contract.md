@@ -1,9 +1,9 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 182758
+revid: 183508
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Bosses, The Ministry, Black Divers]
+categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers]
 ---
 
 # Chaser, Scholar of the Crimson Contract
@@ -15,6 +15,10 @@ categories: [Enemies, Bosses, The Ministry, Black Divers]
 | weapon | None |
 | moves | Triple Blood Appendage, Powerful Blood Appendage, Burning Blood Explosion, Triple Blood Wave, Stalactite Fall, Transfusion, Sanguine Repulsion, Last Resort |
 | challenges | -- Chaser, Scholar of the Crimson Contract --, Deep Diver Thrombosis - Slay 10.Reward: +5% DMG; +2.5% RES |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the [City.](Second_Layer/New_Kyrsa.md) ”
 

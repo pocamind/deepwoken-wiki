@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 183219
+revid: 183558
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -17,7 +17,7 @@ notices:
 | aspect | Etrean |
 | locked armor | Tempestmaker's Threads |
 | allowed weapons | Any |
-| starting weapons | Iron Cestus |
+| starting items | Iron Cestus |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

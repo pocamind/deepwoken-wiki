@@ -1,12 +1,16 @@
 ---
 title: Heart of Enmity
-revid: 182926
+revid: 183463
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Bosses, Voiced Characters]
+categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
 ---
 
 # Heart of Enmity
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Despicable. You deem yourselves worthy of a challenge? Allow me to educate you on your folly. ”
 

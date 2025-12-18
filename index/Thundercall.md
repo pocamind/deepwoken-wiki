@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 180479
+revid: 183668
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1111,6 +1111,7 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
     -   Linking music theory, the use of overdrive is made to alter the sound of an electrical instrument.
         
 -   The Mantra **Grand Javelin** is similar to the Miracle _**[Lightning Spear](https://darksouls.wiki.fextralife.com/Lightning+Spear)**_ from _[Dark Souls](https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki)_, having a shared sound effect and casting animation.
+-   The Mantra **Lightning Beam** is likely a reference to _[Dragon Ball Z's](https://dragonball.fandom.com/wiki/Main_Page)_ technique _["Masenko" (魔閃光,Masenkō)](https://dragonball.fandom.com/wiki/Masenko)_, which is performed by the user placing both hands above the head with the palms facing the target and one hand in front of the other with the fingers going in opposite directions, similiarly to **Lightning Beam**.
 -   In Deepwoken testing, known as Oldwoken, Thundercall used to be blue instead of yellow. Even with the addition of Surge Path, the original color is still lost to the ages.
     -   Surge is a more purple shade compared to Oldwoken Thundercall, which was a light blue.
 -   Thundercall used to be the most damaging attunement before it was nerfed greatly.

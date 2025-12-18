@@ -1,9 +1,9 @@
 ---
 title: Duke Ishamon Erisia
-revid: 183290
+revid: 183460
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
+categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
 ---
 
 # Duke Ishamon Erisia
@@ -16,6 +16,10 @@ categories: [Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia fam
 | moves | Assault, Critical, Counter, Feint, Binding Tempest, Gale Stomp, Cyclone Bomb, Strong Left, Summon Mindless Servants |
 | affiliation | Lost Celtor |
 | challenges | -- Duke Ishamon Erisia --, Memories of Home - Slay 10.Reward: +5% DMG; +2.5% RES |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ The ruins of that city will never cage me. And with what's at stake... I can't stop now. ”
 

@@ -1,6 +1,6 @@
 ---
 title: Emberseal Pendant
-revid: 182280
+revid: 183628
 source: https://deepwoken.fandom.com/wiki/Emberseal_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
@@ -30,6 +30,6 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Blessed Nomad Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It has striking phoenix motif, and seems to share a model with the base game [Heliodar](Heliodar.md) equipment.
+The Emberseal Pendant is an [Equipment](Equipment.md) item under the "Torso" category. It has striking phoenix motif, and seems to share a model with the base game [Heliodar](Heliodar.md) equipment.
 
 The [Pyreborne](Talents.md#pyreborne) Talent amplifies the stats of all of your [Flamecharm](Flamecharm.md) Mantras.

@@ -1,6 +1,6 @@
 ---
 title: Andrea
-revid: 170826
+revid: 183443
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the First Layer]
@@ -16,7 +16,11 @@ categories: [Adret NPCs, NPCs, NPCs located in the First Layer]
 
 ## Description
 
-Andrea is an [Adretian](Adret.md) woman scared for her life, as she tries to decide between facing The trial or remaining in [Celtor City](The_City_of_the_Drowned.md).
+Andrea is an [Adret](Adret.md) NPC.
+
+Some time prior to 1233 CE,[\[1\]](#cite-note-1) Andrea died on the [Surface](Surface.md) and found herself in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md).
+
+Now the Adretian woman scared for her life, as she tries to decide between facing The trial or remaining in [Celtor City](The_City_of_the_Drowned.md).
 
 ## Location
 
@@ -87,3 +91,7 @@ Andrea is located inside [Cathedral of the Interstice](Cathedral_of_the_Intersti
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE.

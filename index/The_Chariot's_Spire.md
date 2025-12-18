@@ -1,12 +1,16 @@
 ---
 title: "The Chariot's Spire"
-revid: 177196
+revid: 183689
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Layer, Territory of The Ignition Union, Lawless Territory]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Territory of The Ignition Union, Lawless Territory]
 ---
 
 # The Chariot's Spire
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Template:Location2
 

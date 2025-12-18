@@ -1,12 +1,16 @@
 ---
 title: Titus Fulminus Destellus
-revid: 182927
+revid: 183462
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
+categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
 ---
 
 # Titus Fulminus Destellus
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ My conquests in the West resound like thunder. But here in the East is where I earned my name. With storm-like might and lightning, I vanquished innumerable foes in star-swept Aratel. For that, I am named **'Fulminus'**, and **'Destellus'**. ”
 

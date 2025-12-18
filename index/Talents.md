@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 183426
+revid: 183614
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -826,9 +826,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Chaotic Moon
 
--   **Blessing of the Moonseye** \[[Vow of Iron](Vow_of_Iron.md) exclusive\] - A sudden truth enters your mind. The stars above are aware of our existence. Their inexhaustible hatred for your very being emanates through you.
+-   Blessing of the Moonseye \[[Vow of Iron](Vow_of_Iron.md) exclusive\] - A sudden truth enters your mind. The stars above are aware of our existence. Their inexhaustible hatred for your very being emanates through you.
     
     -   Gives a Talent tool that instantly brings you to tier 3 [Insanity](Insanity.md) on use. This insanity is permanent.
+    -   Defeating the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md), and [True Heart of Enmity](True_Heart_of_Enmity.md) while having this Talent will unlock the [Prince of the Moon](Prince_of_the_Moon.md) Memento.
+    -   Obtained by interacting with the Moonseye sigil at the [Moon's Eyrie](<Moon's_Eyrie.md>).
 
 ### Charm Caster
 
@@ -1626,7 +1628,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
-    -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
+    -   Does not apply retroactively to previously modified mantras until you rejoin.
     -   Prerequisite: 35 Mind (35 Charisma OR 35 Intelligence OR 35 Willpower)
 
 ### Glassdancer
@@ -1753,7 +1755,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This does not stack with Saint Jay.
     -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
 
--   Heretic's Sutra \[Common Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
+-   Heretic's Sutra \[Quest Talent\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
     -   Heretic's Sutra has a base windup of 0.4s and a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the windup is reduced by 0.00429 seconds.
         -   Has a windup of 0.186 seconds at 80 Willpower, a maximum windup of 0.293 seconds at 55 Willpower, and a minimum windup of 0.1 seconds at 100 Willpower.
     -   Heretic's Sutra has a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the cooldown is reduced by 0.085s.
@@ -1761,7 +1763,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Gives a burst of insanity to yourself.
         -   Immediately lose 15% sanity on use.
         -   If above 80% sanity, immediately lose sanity down to 65%.
-    -   The effects of Heretic's Sutra will be reduced if you do not meet its willpower requirement.
     -   You start benefitting from Talents that require insanity to use (namely _Lose Your Mind_)
     -   Talents that need you to be losing sanity to proc are passively activated for 15 seconds.
         -   Namely Shared Misery and _Piercing Will_.
@@ -2115,7 +2116,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Decisive Winds \[Unlockable Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
+-   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Jetstream Pursuit \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
@@ -2338,7 +2339,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.
     -   Prerequisite: [Power](Power.md) 13
 
--   Thresher Scales \[Common Talent\] \[Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
+-   Thresher Scales \[Echo Talent, Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
     -   Prerequisite: [Power](Power.md) 10
 
 ### Marksman
@@ -2389,7 +2390,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
         -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
         -   Overcharm's self-charm proc: 8s -> 4s
-        -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
+        -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
         -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
         -   Lasting Charisma (at reqs): 20s -> 10s
     -   Prerequisite: 25 Willpower
@@ -2425,7 +2426,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Metamancer
 
--   Chain of Perfection \[Common Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
+-   Chain of Perfection \[Echo Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
     -   Can stack up to 20 times, for a 100% damage boost.[\[2\]](#cite-note-2)
         -   This effect is not accounted for in the 75% damage boost cap.
@@ -2455,7 +2456,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Lose Your Mind_ \[Rare Talent\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
     -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).
-    -   [Deepbound's](Origins.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
+    -   [Deepbound's](Deepbound.md) Sanity gain from killing mobs in [the Depths](The_Depths.md) is reduced.
     -   Prerequisites: 30 Fortitude, 30 Strength
     -   Can also be obtained from the [Thrall of Enmity](Thrall_of_Enmity.md) face equipment.
     -   The specific specific formula is- f(x) = 15 - 15 \* (x/0.7)^1.2 {0.7≥x≥0} (x= current sanity / maximum sanity)
@@ -2572,12 +2573,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Nimble Blade
 
 -   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   Parrying without this Talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry. (TESTED)
+    -   Parrying without this Talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry.
     -   Increases the speed boost duration from parrying by 3 seconds.
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 20 Intelligence
+
 -   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
     -   Prerequisite: 25 Agility
 
@@ -2660,13 +2662,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Crimes still induce reputation loss however, guards will turn hostile/react to crimes when your reputation becomes negative.
     -   Prerequisite: 85 Charisma
 
+### Prince of the Moon
+
+-   Soul Veil \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - [Soulthorn](Soulthorn.md) now directly siphons the song of your enemies. Accumulating stacks and increasing your power. Perfect plays are encouraged.
+    
+    -   Landing basic attacks with the Soulthorn grants a stacking 7.5% damage buff. This caps at +30% damage.
+    -   If you get hit while having stacks of Soul Veil, your attacker will steal your stacks for themselves. You can steal your stacks back by hitting them.
+    -   Prerequisites: [Prince of the Moon](Prince_of_the_Moon.md) Memento
+
 ### Prospector
 
--   Excavator \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ore when mining, mine ores a lot faster.
+-   Excavator \[Quest Talent\] - Chance to receive two sets of ore when mining, mine ores a lot faster.
     -   Prerequisite: Turn in 5 pure ores at a [Blacksmith](Blacksmith.md).
     -   The [Miner's Hardhat](<Miner's_Hardhat.md>) has this Talent.
 
--   Harvester \[Common Talent\] \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
+-   Harvester \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
 -   Prerequisite: Complete [Ciea](Ciea.md)'s Quest 3 times.
 
 ### Public Figure
@@ -2809,7 +2819,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Saboteur
 
--   Family Recipe \[Unlockable Talent\] - You can now craft bombs at a crafting bench.
+-   Family Recipe \[Quest Talent\] - You can now craft bombs at a crafting bench.
     -   [Iron Bombs](Iron_Bomb.md) are crafted with 2 [Iron](Ores.md#iron) and 1 [Coal](Ores.md#coal) at any crafting bench.
     -   Bombs deal 10 typeless damage with 35 [Intelligence](Attributes.md#int) scaling, having 45 damage with 100 Intelligence.
         -   Because bombs deal typeless damage, they ignore physical and elemental resistances.
@@ -3153,6 +3163,26 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Does not proc "Golden Tongue" Talent.
     -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
     -   Prerequisites: Charismatic Cast, 75 Charisma
+
+### Sightless
+
+-   Focused Perception \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Massively increase the range of your [Rhythm](Murmur%253A_Rhythm.md) if you use it while [Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle) is active.
+    
+    -   The Sightless Memento does not unlock Tranquil Circle at any point, causing this Talent to do nothing.
+    -   Prerequisites: [Sightless](Sightless.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Purge Shot \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landing an [arc beam](Sightless.md#arc-beam) while your opponent has anti heal stacks purges the stacks, with it dealing 5 true damage for every stack they had.
+    
+    -   Landing Arc Beam removes all stacks of anti-heal from your opponent, dealing 5 true damage for every stack they had.
+    -   Prerequisites: [Sightless](Sightless.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Scornful Scowl \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Glare](Attunement-less.md#glare) stuns enemies for much longer.
+    
+    -   Prerequisites: [Sightless](Sightless.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Unmended Eye \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - All mantras you land now apply anti heal.
+    
+    -   Prerequisites: [Sightless](Sightless.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 ### Silencer
 
@@ -4022,10 +4052,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
     -   Prerequisites: [Power](Power.md) 13, Engage
 
--   _Critical Attack_ \[Common Talent\] \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
+-   Critical Attack \[Echo Talent, Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
     -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
--   _Engage_ \[Common Talent\] \[Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
+-   Engage \[Echo Talent, Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
     -   Prerequisite: Arthur quest right outside of the Garden reservoir
 
 ### Waterborne

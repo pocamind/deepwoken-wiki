@@ -1,6 +1,6 @@
 ---
 title: Petris (Vow of Iron)
-revid: 182056
+revid: 183662
 source: https://deepwoken.fandom.com/wiki/Petris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs]

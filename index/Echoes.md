@@ -1,16 +1,22 @@
 ---
 title: Echoes
-revid: 182800
+revid: 183473
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Echoes, Character, Mechanics, Creation]
+categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation]
 ---
 
 # Echoes
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 “ The Legacy of my Lineage ... Shall be continued down to yours, my rogue friend-- to the next and after the other. ”
 
 ― Echo of Inspiration
+
+  
 
 ## Overview
 

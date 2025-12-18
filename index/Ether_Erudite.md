@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 183432
+revid: 183588
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,8 +12,9 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | A scholar of the essence of Ether - their superior intellect once stood unrivalled. |
 | unlock | Give Jeremiah all of the base-game Deep Gems |
+| starting armor | Pathfinder Arch-Sorcerer |
 | allowed weapons | Rifles |
-| starting weapons | Quickfang |
+| starting items | Quickfang, Bloodless Gem, Blue Gem, Wayward Gem, Wind Gem, Ether Surge Enchant Stone |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -499,7 +500,7 @@ Power 10, 700
 
 -   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
-    -   Does not apply retroactively to previously modified mantras. You must reset your mantras with an Amnesic Driftwood and mod the mantra again to benefit from the reduced cost.
+    -   Does not apply retroactively to previously modified mantras until you rejoin.
     -   Requirements: Power 10, 250
 
 -   _**Neural Overload**_ \[Advanced Talent\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
