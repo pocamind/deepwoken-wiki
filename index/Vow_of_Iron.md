@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 183686
+revid: 183706
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Game Modes, Paths, Character]
@@ -56,31 +56,31 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   Some places have loot that can be obtained off the ground, notably, weapons found in specific places, such as [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) in Saramaed Summit.
     -   Schematics can be used as is if you meet the stat requirement, equipping their outfit instantly.
 -   **Lumen and The Depths**
-    -   As the events of Vow of Iron take place 38 years ago, the world reflect this time period, featuring tweaked, reworked or entirely new locations.
-    -   Vow of Iron take place in a separate game instance, separate from Pathfinder. Pathfinder and Vow of Iron characters cannot interact with each other in any capacity.
+    -   As the events of Vow of Iron take place 38 years ago, the world reflects this time period, featuring tweaked, reworked or entirely new locations.
+    -   Vow of Iron takes place in a game instance separate from Pathfinder. Pathfinder and Vow of Iron characters cannot interact with each other in any capacity.
     -   The Etrean and Eastern Luminant are combined into a singular map.
     -   Ziplines are heavily dotted around the map, allowing quick traversal.
     -   Gliders have unlimited uses.
-    -   The depths have also changed, you can see the VOI depths [here](<The_Depths_(Vow_of_Iron).md>).
+    -   The Depths have also changed, you can see the VOI Depths [here](<The_Depths_(Vow_of_Iron).md>).
     -   World Events now only include bosses such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md).
-        -   At Times where either Doom of Caeranthil or Interluminary Parasol would appear in Pathfinder, Caeranthil only appears instead.
-        -   At Times where Carnival of Hearts would appear in Pathfinder, Interluminary Parasol only appears instead.
+        -   At times where either Doom of Caeranthil or Interluminary Parasol would appear in Pathfinder, Caeranthil only appears instead.
+        -   At times where Carnival of Hearts would appear in Pathfinder, Interluminary Parasol only appears instead.
 
 <table><caption>Teleporters (in order from left to right)</caption>
 <tbody>
 <tr>
   <th>Boatman's Watch<p>(The Ferryman)</p></th>
-  <th>Moonseyrie</th>
-  <th>The Monkey's paw</th>
+  <th>Moon's Eyrie</th>
+  <th>The Monkey's Paw<p>(Primadon, Titan of the East)</p></th>
   <th>The Polymarch<p>(General Titus Juventius)</p></th>
-  <th>Autumbra Outpost<p>(Trial of One)</p></th>
+  <th>Outpost Antumbra<p>(Trial of One)</p></th>
 </tr>
 <tr>
-  <td>Ferryman, due to old posture break on parry, causes the 3 time parry on ferry man to bug out, counting as you hitting him.<p>He has significantly less hp, yet autoparry changes make him more of a challenge.</p></td>
+  <td>Ferryman, due to the old posture break on parry, causes the 3 time parry on Ferryman to bug out, counting as you hitting him.<p>He has significantly less HP, yet auto-parry changes make him more of a challenge.</p></td>
   <td></td>
-  <td>Same Primadon as Pathfinder, but with reduced hp<p>Spawns loot bags that must be taken back in order to claim loot</p></td>
-  <td>You must kill all the guards, then Titus<p>will spawn below deck in the ship.</p></td>
-  <td>Same trials as Pathfinder but there are no rests in<p>between fights, no healthpacks, and no auto-parry on the orbs</p></td>
+  <td>Same Primadon as Pathfinder, but with reduced HP.<p>Spawns loot bags that must be taken back in order to claim loot.</p></td>
+  <td>You must kill all the guards, then Titus will spawn below deck in the ship.</td>
+  <td>Same trials as Pathfinder but there are no rests in-between fights, no healthpacks, and no auto-parry on the orbs.</td>
 </tr>
 </tbody>
 </table>

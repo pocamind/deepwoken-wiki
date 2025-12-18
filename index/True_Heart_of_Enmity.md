@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 183680
+revid: 183832
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -26,7 +26,7 @@ Template:Creature Infobox V3
 
 The True Heart of Enmity is a Boss found in the [First Layer](First_Layer.md) of the Depths, located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). It is the same incarnation by the [Voice of Enmity](https://deepwoken.fandom.com/wiki/Voices_of_the_Depths#Voice_of_Enmity) as in the Pathfinder gamemode, with a little bit of extra moveset and difficult fighting experience, yet less health than usual. This boss is not optional, as they are mandatory to uncap Power 15 and break the barrier that keeps [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>) safe.
 
-It is the same gargantuan creature wrought of iron and animosity, though what makes it more distinct is the visual effect on the back of it's head, similar to the [Thrall of Enmity](Thrall_of_Enmity.md), which emits a spinning halo of dark, yellow and white colors and projects light. The boss area in this room is more bright, perhaps due to few amounts of people escaping the depths and beating Enmity's physical form, but as the years (38) went by, his prime may got "laid down" since more people faced this kind of terror and bested it more frequently.
+It is the same gargantuan creature wrought of iron and animosity, though what makes it more distinct is the visual effect on the back of it's head, similar to the [Thrall of Enmity](Thrall_of_Enmity.md), which emits a spinning halo of dark, yellow and white colors and projects light. The boss area in this room is more bright, perhaps due to few amounts of people escaping the depths and beating Enmity's physical form, but as the years (38) went by, his prime may got laid since more people faced this kind of terror and bested it more frequently.
 
 ### Starting the Fight with True Enmity
 
@@ -53,6 +53,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   Each Servant will die in a singular hit and gives a **tiny** amount of health when killed.
 -   Posture break moves have the same effect as in bosses.
 -   They don't have the Enforcer Pull or Whirlwind attacks.
+-   This is one of the best times to drink [Etris Flasks](Etris_Flask.md) due to the high charging time.
 
  |  |
 | 

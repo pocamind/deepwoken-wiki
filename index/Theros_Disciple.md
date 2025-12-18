@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 183505
+revid: 183814
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -14,8 +14,10 @@ notices:
 |---|---|
 | description | A disciples of Theros, the first Blightsurger - they carried his spark, trading purity for power. |
 | unlock | Bring General Titus Juventius down to 90% health |
+| final attributes | 100 Light Weapon, 70 Medium Weapon, 100 Strength, 30 Fortitude, 45 Agility |
+| final traits | 7 Dexterity, 5 Songchant, 5 Proficiency, 1 Vitality |
 | allowed weapons | Fists, Spear |
-| starting items | Sovereign Bangle, Imperial Staff, Imperator's Edge |
+| starting weapons | Sovereign Bangle, Imperial Staff, Imperator's Edge |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

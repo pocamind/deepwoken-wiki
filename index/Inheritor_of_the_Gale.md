@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 183558
+revid: 183812
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -14,10 +14,12 @@ notices:
 |---|---|
 | description | Effortlessly, they controlled the wind - but wind cuts both ways. |
 | unlock | Defeat the Etrean Apostle and Shogun Specialist NPCS |
+| final attributes | 150 Galebreathe, 50 Medium Weapon, 100 Agility, 100 Intelligence |
+| final traits | 6 Songchant, 1 Proficiency, 1 Vitality, 6 Erudition |
 | aspect | Etrean |
 | locked armor | Tempestmaker's Threads |
 | allowed weapons | Any |
-| starting items | Iron Cestus |
+| starting weapons | Iron Cestus |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

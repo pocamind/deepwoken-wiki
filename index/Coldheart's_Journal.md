@@ -1,6 +1,6 @@
 ---
 title: "Coldheart's Journal"
-revid: 174625
+revid: 183751
 source: https://deepwoken.fandom.com/wiki/Coldheart's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -38,7 +38,7 @@ Coldheart's Journal
 > They never understood her. Or me. Or us.  
 > Or my work. No one does. She didn't. And now look where she is.  
 > Turns out, all I had to do was stop asking and start doing.  
-> Give it a bit of time, they'll regret this. They'll realise I'm a hero.  
+> Give it a bit of time, they'll regret this. They'll realize I'm a hero.  
 > They're too busy polishing that boots of that hag. They need a reality check.
 > 
 > * * *
@@ -86,7 +86,7 @@ Coldheart's Journal
 > 
 > How is it that I've learnt so much, but progressed so little?  
 > Word is travelling. Just as the witch did. Those filthy labourers found something.  
-> Ironsing. They found it. I don't know how. Maybe someone dregded something up from here?  
+> Ironsing. They found it. I don't know how. Maybe someone dredged something up from here?  
 > But it won't do. What they found won't do what you're asking for.  
 > You keep asking for it.  
 > No matter how many blades I present you, it's never enough.  
@@ -120,16 +120,16 @@ Coldheart's Journal
 > But I need to be honest.  
 > It can't be done.  
 > I know you looked up to her. Sudaruska.  
-> But what she did she did while she still drew breathe. I have dont what I can, but...  
+> But what she did she did while she still drew breath. I have done what I can, but...  
 > You aren't a weapon, Deirdre. You make weapons.  
 > You can't be her. It's too late for that.  
 > Give up your dream. You're not coming back. I'm sorry.
 > 
 > * * *
 > 
-> i didnt mean it i didnt mean it i didnt mean it oh gods i didnt mean it  
-> i didnt mean to put you in here  
-> i didnt mean to make you like this
+> I didn't mean it I didn't mean it I didn't mean it oh gods I didn't mean it  
+> I didn't mean to put you in here  
+> I didn't mean to make you like this
 > 
 > * * *
 > 

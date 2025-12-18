@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 183279
+revid: 183749
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -132,6 +132,7 @@ _WEP = Any weapon stat (HVY, MED, LHT)_
 
 -   Warmaster
 -   Chef
+-   Voidhunter
 
 ## Oath Skipping
 

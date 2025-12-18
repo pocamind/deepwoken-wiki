@@ -1,6 +1,6 @@
 ---
 title: Chrysid
-revid: 176968
+revid: 183692
 source: https://deepwoken.fandom.com/wiki/Chrysid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -22,15 +22,21 @@ Chance of rolling: **4%**
 
 The Chrysid people are an aspect that resemble moths, bearing their compound eyes and feathery antennae. They are a rare [aspect](Aspects.md) to see, and they carry close ties with the other aspects of Greathive despite their conflicting view on technology. They have a stat bonus of 2 Agility and 3 Charisma, as well as the ability to track attacking foes through terrain by automatically shedding "Mothwing Dust" onto them.
 
+  
+
 ## Traits
+
+**Pathfinder:**
+
+  
 
 <table>
 <tbody>
 <tr>
-  <td>File:Seaborne.png</td>
+  <td><figure>File:Navae's Guidance.png<figcaption></figcaption></figure></td>
   <td><b>Mothwing Dust</b>
   <ul>
-    <li>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
+    <li><i>You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.</i>
   <ul>
     <li>Once per combat instance, the first person to attack you is highlighted red for 30 seconds, outlining them through walls. Useful to find people with long ranged attacks or in dark areas. This will not proc if you instigated the fight.</li>
     <li>The angles at which you can be assassinated or backstabbed are reduced.</li>
@@ -47,6 +53,27 @@ The Chrysid people are an aspect that resemble moths, bearing their compound eye
 </tr>
 </tbody>
 </table>
+
+**Iron Vow:**
+
+  
+
+<table>
+<tbody>
+<tr>
+  <td><figure>File:Chitin.png<figcaption></figcaption></figure></td>
+  <td><b>Mothwing Defense</b>
+  <ul>
+    <li><i>"Further refining how sharp your antennae, you can now immediately recognize a sneak attack and brace yourself for it. Reduce all backhit damage by 50%."</i>
+  <ul>
+    <li>Take 50% less damage from all backhits.</li>
+  </ul></li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+  
 
 **Lore:**
 

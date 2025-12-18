@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 183614
+revid: 183762
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2401,6 +2401,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Reduces an item's price by about 12%.
     -   Obtained by equipping an [Aristocrat Coat](Aristocrat_Coat.md).
 
+-   Deal Maker \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales.
+    
+    -   Increases the sell price of all items by 20 notes.
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, 200
+
+-   Know When To Run \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your magic coffin has a higher chance to draw depths loot, but the price is increased.
+    
+    -   Increases the price of your [Magic Coffin](Strange_Merchant.md) by 50%.
+    -   Adds the entire [Depths](<The_Depths_(Vow_of_Iron).md>) lootpool to the Coffin.
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
 ### Metallurgist
 
 -   Intuitive Repairs \[Common Talent, Ironsing Exclusive\] - Your 'Iron Skin' repairs armor while it's active.
@@ -3285,8 +3296,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   For every point in Charisma below 40, the cooldown will be increased by 0.25 seconds, having a 1 minute 6.25 second cooldown at 15 Charisma.
     -   Prerequisite: 40 Charisma
 
--   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent \[_[sic](https://en.wikipedia.org/wiki/sic)_\] description, I can't stop you.
-    -   Gain 50% more notes from selling items.
+-   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you.
+    -   Gain 40% more notes from selling items.
     -   Prerequisite: 30 Charisma
 
 ### Songmaster
@@ -3469,6 +3480,19 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Storm Link \[Common Talent, Dual Attunement\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
     -   Converts Galebreathe mantra elemental damage to Thundercall elemental damage and adds +10% damage. Does not proc any Talents, status effects, or stun.
     -   Prerequisites: Static Link, 60 Thundercall, 50 Galebreathe
+
+### Strange Merchant
+
+-   Magic Coffin \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.
+    
+    -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20.
+    -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
+    -   There is a 1% chance to get the Enforcer plush, giving you high tier loot. This chance is increased by 1% per level, up to 20% at power 20.
+    -   There is a 5-10% chance to roll a **blank**, doubling the chest of the next box. This can stack.
+    -   After defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md), you gain the Know When to Run Talent. This adds the entire [Depths](<The_Depths_(Vow_of_Iron).md>) lootpool is added to the Coffin, but the Coffin's price is increased by 50%.
+    -   Coffin activation uses your Resonance keybind.
+    -   You can use any weapon or equipment item without meeting their **attribute** requirements.
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento
 
 ### Sturdy Resolve
 
@@ -3746,9 +3770,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Toxic Personality
 
--   Compelling Offer \[Common Talent, Charisma\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\]
+-   Compelling Offer \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\]
+    
     -   Procs when attacking charmed enemies who are below 50% health.
-    -   Prerequisites: 60 Charisma, Charismatic Cast
+    -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, 100
 
 -   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   10 second cooldown.
@@ -3768,14 +3794,15 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Mutual Exclusives: Tough Love
     -   Prerequisites: Charismatic Cast, 60 Charisma
 
--   Sweeten the Deal \[Common Talent, Charisma\] - [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
-    -   Prerequisites: 60 Charisma, Charismatic Cast
+-   Sweeten the Deal \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
+    
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, Power 10, 100
 
--   Taunting Tongue \[Common Talent, Charisma\] - Your [taunt](Attunement-less.md#taunt) now applies [Madness](Status_Effects.md#madness).
-    -   Prerequisites: [Taunt](Attunement-less.md#taunt) (Mantra), Charismatic Cast
+-   Taunting Tongue \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [taunt](Attunement-less.md#taunt) now applies [Madness](Status_Effects.md#madness).
 
--   Voice of the Mad God \[Common Talent, Charisma\] - Any time you apply [charm](Status_Effects.md#charm) it now applies "[Madness](Status_Effects.md#madness)" to enemies directly.
-    -   Prerequisites: 60 Charisma, Charismatic Cast
+-   Voice of the Mad God \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Any time you apply [charm](Status_Effects.md#charm) it now applies "[Madness](Status_Effects.md#madness)" to enemies directly.
+    
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 ### Transitory Vitality
 
@@ -4029,6 +4056,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with Basic Attacks.
     -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents. This bonus does not stack with Tough Love.
     -   Prerequisites: 75 Charisma, [Sing](Attunement-less.md#sing) (Mantra)
+
+### Voidhunter
+
+-   Time Burst \[Oath Talent, Voidhunter Exclusive\] - Your vent now slows down time to individuals hit by it. (+1 Passive Agility)
+    -   Slow humanoid targets that you hit with your vent.
 
 ### Vow of Mastery
 

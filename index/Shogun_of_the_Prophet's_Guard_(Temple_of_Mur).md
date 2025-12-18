@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 183477
+revid: 183825
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -54,7 +54,7 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 
 **Graceful Slicer**
 
-(★★☆)
+(★☆☆)
 
  | The Shogun highlights Green, leaping backwards a fair distance before slashing twice in opposing directions, moving them toward the player.
 
@@ -63,7 +63,7 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 
 **Severing Flourish**
 
-(★★★)
+(★★☆)
 
  | The Shogun highlights Red, spinning around into two devastating slashes that cannot be parried. The first slash is very delayed, and a roll cancel must be employed to avoid the attack completely.
 

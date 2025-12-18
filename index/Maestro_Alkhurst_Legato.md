@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 183551
+revid: 183719
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages]
@@ -16,6 +16,7 @@ notices:
 | name | Alkhurst Legato |
 | alias | Maestro |
 | aspect | Etrean |
+| location | Temple of the Blade |
 | affiliation | Circle of Honour |
 | death | Killed during the Invasion of the Isle of Vigils |
 | deathdate | Between 1233 CE[1] and 1271 CE[2] |

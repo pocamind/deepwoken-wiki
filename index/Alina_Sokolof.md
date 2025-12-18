@@ -1,9 +1,9 @@
 ---
 title: Alina Sokolof
-revid: 182022
+revid: 183710
 source: https://deepwoken.fandom.com/wiki/Alina_Sokolof
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers]
+categories: [Celtor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -16,6 +16,10 @@ notices:
 | aspect | Celtor |
 | location | Castle Light |
 | affiliation | The Divers |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

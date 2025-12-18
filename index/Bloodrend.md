@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 180409
+revid: 183732
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -964,3 +964,4 @@ These are Talents found in "_Quack Doctor_" Category.
 -   **Veinbreaker** is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
 -   **Crucifixion** is a reference to Klaus' "Unbreakable Cross Shield" from _Blood Blockade Battlefront_; confirmed by a tester.
 -   **Vein Tendrils** could be a reference to Spider-Man, from Marvel Comics.
+-   Bloodrend's mantras all used to be red in color by default until the update on 12/13/25, in which the color of some mantras were changed to a shade of purple to comply with Roblox's maturity policies.

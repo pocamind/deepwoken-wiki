@@ -1,6 +1,6 @@
 ---
 title: Outpost Antumbra
-revid: 166537
+revid: 183712
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, The Ministry]
@@ -10,7 +10,7 @@ categories: [Locations, Locations in the Etrean Luminant, The Ministry]
 
 LocationL Outpost Antumbra LocationR
 
-TERRITORY OF Ministry
+TERRITORY OF The Ministry
 
 A mysterious base of operations for the Ministry, lurking within the snowscape.
 

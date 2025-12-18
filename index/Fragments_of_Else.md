@@ -1,6 +1,6 @@
 ---
 title: Fragments of Else
-revid: 183299
+revid: 183733
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Else
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
@@ -21,4 +21,20 @@ Woven memories split and fray before you. The sharp edge of a paradox has severe
 
   
 
-**Fragments of Else** is a location in _Deepwoken_. It is a sub-location in [The Depths](The_Depths.md).
+**Fragments of Else** is a location in _Deepwoken_. It is a sub-location in [The Depths](<The_Depths_(Vow_of_Iron).md>)
+
+of [Vow of Iron](Vow_of_Iron.md).
+
+## Overview
+
+Fragments of Else acts as the counterpart to [Fragments of Self](Fragments_of_Self.md). Players are sent to it whenever they die in [The Depths](<The_Depths_(Vow_of_Iron).md>), choose to wipe their [Vow of Iron](Vow_of_Iron.md) character in the main menu, or selecting Obliteration in Trial of One.
+
+## Contents
+
+### Glimmers of Return
+
+Located before the [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md), a beam of light emanating from the center of the Fragments of Else that allows you to return to the Surface by paying varying amounts of Robux [Robux](https://roblox.fandom.com/wiki/Robux), the amount depending on the [Power](Power.md) level of your character.
+
+### Reclaimer of the Recollection
+
+Located past the Glimmers of Return, the [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md) serves to wipe your character similarly to the Self in [Fragments of Self](Fragments_of_Self.md). See their page for more information.

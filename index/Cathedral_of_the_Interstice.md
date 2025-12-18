@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 183441
+revid: 183763
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -81,11 +81,11 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 </tr>
 <tr>
   <td>11-15</td>
-  <td><a href="True_Heart_of_Enmity.md">True Heart Of Enmity</a> (first time) 2 waves of either a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a> or <a href="Parliament.md">Parliament</a>,</td>
+  <td><a href="True_Heart_of_Enmity.md">True Heart Of Enmity</a> (first time) then 2 waves of a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
 </tr>
 <tr>
   <td>16-20</td>
-  <td>???</td>
+  <td>2 waves of a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
 </tr>
 </tbody>
 </table>

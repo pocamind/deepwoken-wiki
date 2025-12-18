@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 183243
+revid: 183756
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -68,14 +68,14 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
   <td><center><b>Atrophic</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>The words of the song bite at you, harshening the effects of Mantras against you.</center></td>
-  <td><center>TBA</center></td>
+  <td><center>Mantras deal 15% extra damage against you.</center></td>
   <td><center>Limitless</center></td>
 </tr>
 <tr>
   <td><center><b>Amaurosis</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>The world slips into darkness when you sustain damage.</center></td>
-  <td><center>TBA</center></td>
+  <td><center>Your screen darkens whenever damage is dealt to you.</center></td>
   <td><center>I</center></td>
 </tr>
 <tr>
@@ -96,21 +96,21 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
   <td><center><b>Cibophobia</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>All food appears rotten and foul to you.</center></td>
-  <td><center>TBA</center></td>
+  <td><center>Youre unable to consume food.</center></td>
   <td><center>Limitless</center></td>
 </tr>
 <tr>
   <td><center><b>Megalophobia</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>You have an irrational fear of large objects.</center></td>
-  <td><center>TBA</center></td>
+  <td><center>You gain more insanity while near large enemies/objects (I.E Depths coral trees, Megalodaunts)</center></td>
   <td><center>III</center></td>
 </tr>
 <tr>
   <td><center><b>Restless</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>On and on and on. Ever-churning. Ceaseless thoughts keep you from resting.</center></td>
-  <td><center>TBA</center></td>
+  <td><center>Youre unable to rest at campfires. ( Heliodar phenoix is included )</center></td>
   <td><center>I</center></td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
   <td><center><b>Weakening</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>You can't stop the shivering. Your arms now falter under heavy blows.</center></td>
-  <td><center>TBA</center></td>
+  <td><center>Your crit becomes slower, Youre unable to use it at max stacks.</center></td>
   <td><center>III</center></td>
 </tr>
 <tr>
@@ -145,6 +145,7 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
 </table>
 
 -   \* Note: "Max Stacks" is highest recorded count. Take with a grain of salt. If "limitless", count surpassed 10 with no clear sign of stopping.
+-   Note: Atrophic was tested and it seems the max it goes up to is 50% extra damage at 5 stacks.
 
 ## Notes & Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 176160
+revid: 183778
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -10,12 +10,12 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
 
 | Inquisition Light | |
 |---|---|
-| tier | Master |
+| tier | Unique |
 | crafting_req | x5 Cloth, x5 Fiber, x3 Wayward Gem, x3 Void Feather, x5 Vibrant Gem |
 | price | N/A |
 | stat_req | Power Level 15 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | durability | 3200 |
 | resistances | 30% Physical Armor, 35% Elemental Armor, 10% Shadow Armor, 10% Ironsing Armor, 10% Blood Armor |
 | buffs | +15% Ether Regen+50% Stealth |

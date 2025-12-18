@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 183498
+revid: 183813
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -14,8 +14,10 @@ notices:
 |---|---|
 | description | A master of iron - both in blade, and in the song. |
 | unlock | Defeat Shogun Captain |
+| final attributes | 100 Ironsing, 50 Medium Weapon, 100 Fortitude, 10 Agility, 70 Intelligence |
+| final traits | 6 Songchant, 6 Proficiency, 2 Dexterity, 2 Erudition |
 | allowed weapons | Sword, Club, Dagger |
-| starting items | Ferractine |
+| starting weapons | Ferractine |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

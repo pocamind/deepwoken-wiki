@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 183643
+revid: 183747
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Mechanics]
@@ -92,6 +92,11 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
+| Estate ([The Sable Estate](The_Sable_Estate.md)) | 
+
+ | 
+
+ |
 | Hidden Authority Camp | 
 
  | 
@@ -167,11 +172,6 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  |
 | Etrea Home ([Etris](Etris.md)) | 
-
- | 
-
- |
-| Estate Boundary ([Etris](Etris.md)) | 
 
  | 
 

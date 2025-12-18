@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 183616
+revid: 183783
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,6 +12,8 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | Following in the footsteps of Zhatarn, the fallen Celestial prince, they sought power at the cost of madness. |
 | unlock | Defeat Shogun, Dravik, The Rat King, and True Heart of Enmity with the Blessing of the Moonseye Talent. |
+| final attributes | 75 Medium Weapon, 80 Agility, 80 Intelligence, 80 Willpower |
+| final traits | 4 Proficiency, 4 Vitality, 3 Vitality |
 | resonance | Jar of Souls |
 | locked armor | Moonseye |
 | allowed weapons | Sword |

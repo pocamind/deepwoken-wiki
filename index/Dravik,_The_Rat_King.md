@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 183556
+revid: 183828
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 Dravik, the Rat King is an instanced [boss](Bosses.md) fought in the [Vault of the Aureate](Vault_of_the_Aureate.md) which is a boundary located in the [Rat's Den](<Rat's_Den.md>), near eastern most Waterlock in the Etrean Luminant. He is the first King of the Golden Rats and the one enforcing the Golden Rule. This boss is not optional, as he is mandatory to uncap Power 10. The fight unlocks the Flashing Thunder Memento upon defeat while using the [Sightless](Sightless.md) [Memento](Mementos.md). When Dravik is killed, he spawns as a memory in [The Cerebral Spire](The_Cerebral_Spire.md) and upon talking to him, he will tell you to break the barrier to fight [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>). To break it you need to defeat the [True Heart of Enmity](True_Heart_of_Enmity.md) in the depths trial.
 
-He is an elderly Etrean man with pale, weathered skin and a thick white beard. A jagged scar cuts through his left eye. Light serpentine scales can be seen on his cheekbones and eyelids. He wears heavy, dark plated armor with sharp shoulder guards and fine metal designs. A worn, dark cloak or scarf hangs from his shoulders. He uses a custom version of the [Soulwrought Greataxe](Crazy_Slots.md) as his arsenal with a glowing golden crescent blade, suggesting it has been magically enhanced. The handle is dark iron and made for a strong grip.
+He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick white beard. A jagged scar cuts through his left eye. Light serpentine scales can be seen on his cheekbones and eyelids. He wears heavy, dark plated armor with sharp shoulder guards and fine metal designs. A worn, dark cloak or scarf hangs from his shoulders. He uses a custom version of the [Soulwrought Greataxe](Crazy_Slots.md) as his arsenal with a glowing golden crescent blade, suggesting it has been magically enhanced. The handle is dark iron and made for a strong grip.
 
 ### Starting the Fight with Dravik
 
@@ -40,6 +40,17 @@ He is an elderly Etrean man with pale, weathered skin and a thick white beard. A
 | Name | Description | Media |
 | --- | --- | --- |
 | 
+**No More Tricks (Passive)**
+
+ | Upon reaching 60%-40%,
+
+-   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?".
+-   **Dravik will gain immunity to mantras and reflect all mantra damage back to you.**
+-   Dravik will also gain a circle of light around him.
+
+ |  |
+| 
+
 **Golden Swinging**
 
  | Dravik uses his axe to slash his opponent up and down. |  |
@@ -77,7 +88,7 @@ He is an elderly Etrean man with pale, weathered skin and a thick white beard. A
  |  |
 | 
 
-**Kings Blades**
+**Rites of the Rat**
 
  | Dravik summons two golden battleaxes to circle around you and at random, they strike.
 
@@ -86,7 +97,7 @@ He is an elderly Etrean man with pale, weathered skin and a thick white beard. A
  |  |
 | 
 
-**Golden Strikes**
+**Pasmarkinti**
 
  | Dravik teleports to you and does three consecutive slashes
 
@@ -105,3 +116,4 @@ TBA
 ## Trivia
 
 -   Dravik is voiced by ???
+-   The Triangular slash attack is likely a reference to "[Pasmarkinti Charged Blow](https://rogue-lineage.fandom.com/wiki/Pilgrim_Knight)" from Monad Studio's previous game, Rogue Lineage.

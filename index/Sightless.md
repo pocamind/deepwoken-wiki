@@ -1,6 +1,6 @@
 ---
 title: Sightless
-revid: 183624
+revid: 183823
 source: https://deepwoken.fandom.com/wiki/Sightless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -12,9 +12,12 @@ categories: [Vow of Iron Exclusive, Mementos]
 |---|---|
 | description | Clinging to their clouded reality, they rejected the teachings of Blindseers. |
 | unlock | Unlocked by default |
+| starting attributes | 6 Light weapon, 1 Fortitude, 2 Agility, 5 Intelligence, 5 Willpower |
+| final attributes | 110 Light Weapon, 20 Fortitude, 40 Agility, 100 Intelligence, 100 Willpower |
 | starting armor | Stranded |
 | allowed weapons | Any |
-| starting items | Iron Cestus, Pathfinder Lantern |
+| starting weapons | Iron Cestus |
+| starting items | Pathfinder Lantern |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -22,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Sightless** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento starts with [Murmur: Rhythm](Murmur%253A_Rhythm.md), a recolored [Arc Beam](Oath%253A_Arcwarder.md#arc-beam), and the [Blind](Boons_and_Flaws.md#flaws) Flaw.
+**Sightless** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento starts with [Murmur: Rhythm](Murmur%253A_Rhythm.md), a recolored [Arc Beam](Oath%253A_Arcwarder.md#arc-beam), and the [Blinded](Talents.md#blinded) Talent.
 
 Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) with this Memento will unlock the [Flashing Thunder](Flashing_Thunder.md) Memento.
 
@@ -386,11 +389,20 @@ Power 15, 950
 
 ### Starting Talents
 
+-   Blinded: \[Equipment Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
+    -   Makes everything darker and creates fog at long distances.
+    -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
+    -   Requirements: Starter
+
 -   Murmur: Rhythm \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
     -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
     -   **Disabled on players with Not a Scratch.**
+    -   Requirements: Starter
+
+-   _Way of Navae_ \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+    -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
     -   Requirements: Starter
 
 -   Against All Odds \[Common Talent\] - For each combat tag you have on your character, increase your damage by 1% (max of 7%).
