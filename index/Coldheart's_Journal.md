@@ -1,6 +1,6 @@
 ---
 title: "Coldheart's Journal"
-revid: 183751
+revid: 183849
 source: https://deepwoken.fandom.com/wiki/Coldheart's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -38,7 +38,7 @@ Coldheart's Journal
 > They never understood her. Or me. Or us.  
 > Or my work. No one does. She didn't. And now look where she is.  
 > Turns out, all I had to do was stop asking and start doing.  
-> Give it a bit of time, they'll regret this. They'll realize I'm a hero.  
+> Give it a bit of time, they'll regret this. They'll realise I'm a hero.  
 > They're too busy polishing that boots of that hag. They need a reality check.
 > 
 > * * *
@@ -127,9 +127,9 @@ Coldheart's Journal
 > 
 > * * *
 > 
-> I didn't mean it I didn't mean it I didn't mean it oh gods I didn't mean it  
-> I didn't mean to put you in here  
-> I didn't mean to make you like this
+> i didnt mean it i didnt mean it i didnt mean it oh gods i didnt mean it  
+> i didnt mean to put you in here  
+> i didnt mean to make you like this
 > 
 > * * *
 > 

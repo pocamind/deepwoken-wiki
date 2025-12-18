@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 183828
+revid: 183840
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -12,6 +12,7 @@ categories: [Vow of Iron Exclusive]
 |---|---|
 | health | ??? |
 | weapon | Soulwrought Axe |
+| moves | Golden Swinging, Rule of Rushing, Spin Scarse, Gilded Lefts, Rites of the Rats, Parsmarkinti |
 | affiliation | The Golden Rats |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -40,17 +41,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**No More Tricks (Passive)**
-
- | Upon reaching 60%-40%,
-
--   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?".
--   **Dravik will gain immunity to mantras and reflect all mantra damage back to you.**
--   Dravik will also gain a circle of light around him.
-
- |  |
-| 
-
 **Golden Swinging**
 
  | Dravik uses his axe to slash his opponent up and down. |  |
@@ -104,6 +94,17 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This move can be used up to three times in a row
 
  |  |
+
+### Passives
+
+-   No More Tricks - Upon reaching 60%-40%,
+    -   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?"
+    -   **Dravik will gain immunity to mantras and reflect all mantra damage back to you.**
+    -   Dravik will also gain a circle of light around him.
+
+## Loot Table/Rewards
+
+TBA
 
 ## Dialog (Post-fight)
 

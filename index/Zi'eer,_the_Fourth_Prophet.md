@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 183630
+revid: 183835
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -24,9 +24,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-Zi'eer, the Fourth Prophet of the Ministry, is the presumed final [boss](Bosses.md) and main antagonist of the Vow of Iron gamemode within the [Etris Palace](Etris_Palace.md). He, along with [The Ministry](The_Ministry.md), invaded Etris and claimed the Throne to become the new King of Etrea.
+Zi'eer, the Fourth Prophet of the Ministry, is the presumed final [boss](Bosses.md) and main antagonist of the Vow of Iron gamemode. He, along with [The Ministry](The_Ministry.md), invaded Etris and claimed the Throne to become the new King of Etrea.
 
-Should you challenge him, the Inheritor is transported to [The Throne of Lies](The_Throne_of_Lies.md) dungeon, where they are faced with a great challenge. Regardless of outcome, this is the end of their journey through Etrea's past and you obtain the [Solborn](Solborn.md) [Memento](Mementos.md). Post-fight you encounter the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing you that Zi'eer is indeed impossible to be bested and there has yet to be a way to defeat him, which opens up multiple outcomes of the fight.
+If the Inheritor challenges him within the [Etris Palace](Etris_Palace.md), they are transported to [The Throne of Lies](The_Throne_of_Lies.md), where they are faced with a great challenge. Regardless of outcome, this is the end of their journey through Etrea's past. Post-fight, the player encounters the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing them that nobody was truly able to best Zi'eer, but he hopes memories from the mementos might reveal a weakness.
+
+The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer to his second phase regardless if the player won or lost after that point.
 
 ### Starting the Fight with Zi'eer
 
@@ -86,9 +88,10 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 **Touch of Prepared Equalizer**  
 (★★☆)
 
- | The Player is getting a white indicator and black strings summon on the ground, that proc Prepared Equalizer.
+ | Black strings form on the ground below the player.
 
--   You have to jump to avoid this attack
+-   You have to jump to avoid this attack.
+-   Procs Prepared Equalizer.
 -   This move only appears during his first phase.
 
  |  |
@@ -97,7 +100,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 **Prophet's Divebomb**  
 (★★☆)
 
- | Zi'eer flies in the air and performs a divebomb from above.
+ | Zi'eer flies into the air and performs a divebomb from above.
 
 -   This move only occurs during his second phase
 -   This can be a white move, run away from him.
@@ -108,7 +111,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 **Prophet's Dropkick**  
 (★★☆)
 
- | Zi'eer flies in the air and performs a quick dropkick from above
+ | Zi'eer flies into the air and performs a dropkick from above.
 
 -   This move only occurs during his second phase.
 -   This move is marked by his green indicator, parry it.
@@ -119,10 +122,10 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 **Tacet Dash Kick**  
 (★★★)
 
- | Zi'eer starts to teleport fast and performs fast dash kicks marked by his red indicator about 2 times. Should the player get his, Zi'eer puts the player in an electrical Judgement state, causing damage over time.
+ | Zi'eer performs a series of fast, dashing kicks. Should the player get hit, Zi'eer puts them in an electrical Judgement state, causing damage over time.
 
 -   This move only occurs during his second phase.
--   As he is indicated red, dodge those kicks.
+-   This move is marked by a red indicator.
 
  |  |
 | 
@@ -130,7 +133,7 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 **Reeled Requiem**  
 (★★★)
 
- | Zi'eer performs a quick strike, ragdolling the player and pulling him back to Zi'eer, just to get blasted by him in a huge distance.
+ | Zi'eer teleports to the player, attaches a string to them, punches them away, pulls them back in, and delivers a second punch. The second punch has very, very high knockback.
 
 -   This move only occurs during his second phase.
 
@@ -140,10 +143,10 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 **Blinkstrike**  
 (★★☆)
 
- | Zi'eer starts to spin with his legs and lunges towards the player with to slash them.
+ | Zi'eer teleports a short distance away before he spins through the air towards the player, slicing them with his heel.
 
 -   This move only occurs during his second phase.
--   This move is marked by his yellow indicator.
+-   This move is marked by a yellow indicator.
 
  |  |
 | 
@@ -161,18 +164,18 @@ Should you challenge him, the Inheritor is transported to [The Throne of Lies](T
 **The Master Of The House**  
 (★★★★★)
 
- | Zi'eer summons a singularity of black contractor sorcery in the air, ready to slam it down on the player as it charges slowly up.
+ | Zi'eer summons a singularity of black contractor sorcery in the air, charging it up slowly up. Once it is fully charged, he throws it at the player.
 
 -   This move only occurs during his second phase.
--   If you do not hit him before he charges it up, it will instantly 1 shot.
+-   This move will instantly kill you if you do not hit him before he charges it up.
 
  |  |
 
 ### Passives
 
--   Contractor Wall - His first phase summons endless waves of black strings in your way, making it only possible to reach him if you hit those walls.
--   Prepared Equalizer - Zi'eer is always ready to slice the player's limbs (arm or leg) rapidly, freezing the player in an Equalizer state if they fail to react to parryable or jumpable moves by him.
--   Prophet's Shield - During his second phase he cannot be damaged, only his shield which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield.
+-   Contractor Wall - In Zi'eer's first phase, he summons endless waves of strings to block the player. Slicing through these walls is the only possible way to reach him.
+-   Prepared Equalizer - Zi'eer's string will latch on to and slice the player's limbs (arm or leg) rapidly, freezing the player in an Equalizer state if they fail to react to parryable or jumpable moves.
+-   Prophet's Shield - During Zi'eer's second phase, he cannot be damaged. Only his shield, which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield, can.
 
 ## Gallery
 
@@ -182,7 +185,7 @@ TBA
 
 -   Zi'eer is voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz).
     -   Additionally, he provides the voice for Chaser and The Ferryman.
--   The Fragments of Else seem to be more dimmed and contain less particle effects once you either defeat or lose to Zi'eer than in the original Fragments of Else.
--   Depending if you died or survived in the fight against the boss, the Reclaimer of the Recollection will say:
-    -   If you lost to Zi'eer: He will say your fate and adding other many mementos, ended with Zi'eer, since none of them were able to kill him. But he thinks there's a chance to actually defeat him, undiscovered.
-    -   If you win against Zi'eer: He will state that they can't continue further because the memories are lacking. He is impressed at you for finding in how to defeat Zi'eer. After this he tells you about telling this feat to his circle to plan the real defeat of the actual Lord Regent, and encourages you to keep trying new ways to defeat him.
+-   After a player's first encounter with Zi'eer, the Fragments of Else seems to be dimmed and contain less particle effects than normal.
+-   The Reclaimer of the Recollection has different dialogue depending on whether the player lost or won against Zi'eer:
+    -   If the player lost: The Reclaimer will inform the player their memento, and many other, ended with Zi'eer; nobody was capable of killing him. However, The Reclaimer thinks there's still a way to defeat him, undiscovered.
+    -   If the player won: The Reclaimer will state that the player can not continue further, because memories from their memento are lacking. He is impressed by the player for finding a way to defeat Zi'eer. He tells the player that he will inform his inner circle of their feat and will plan the eventual defeat of the real Lord Regent. He encourages the player to keep trying new ways to defeat Zi'eer.

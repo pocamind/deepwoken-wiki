@@ -1,6 +1,6 @@
 ---
 title: "Trunk's Clutch Ring"
-revid: 181886
+revid: 183836
 source: https://deepwoken.fandom.com/wiki/Trunk's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -32,3 +32,7 @@ This content is not accessible outside of this gamemode.
 Trunk's Clutch Ring is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Rings" category.
 
 Trunk's Clutch ring massively increases your damage when your health drops below 20%.
+
+## Trivia
+
+The ring is based off of a player, [Trunks](https://www.youtube.com/@shadowking1916) also known as shadowking1916. He was [Agamatsu](https://www.youtube.com/@Agamatsu)'s duo uring the CC [Lightborn](Lightborn.md) tournament, and succeeded in a 1v2 against [Nogo](https://www.youtube.com/@nogo) and [Floppingman](https://www.youtube.com/@Floppingman).
