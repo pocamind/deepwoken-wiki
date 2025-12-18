@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 183783
+revid: 183915
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -25,7 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Prince of the Moon** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. The [Blessing of the Moon](Talents.md#blessing-of-the-moon) Talent is obtained at [Moon's Eyrie](<Moon's_Eyrie.md>). This Memento permanently gives you Tier 1 Insanity.
+**Prince of the Moon** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento is obtained by defeating all three progression bosses while having the [Blessing of the Moon](Talents.md#blessing-of-the-moon) Talent, which permanently applies tier three [Insanity](Insanity.md). The Blessing of the Moon Talent is obtained at [Moon's Eyrie](<Moon's_Eyrie.md>).
+
+**This Memento permanently gives you Tier 1 Insanity.**
 
 ## Available Mantras
 

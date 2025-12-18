@@ -1,6 +1,6 @@
 ---
 title: Celtor
-revid: 183682
+revid: 183880
 source: https://deepwoken.fandom.com/wiki/Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -39,7 +39,6 @@ Celtor are a common [aspect](Aspects.md) with a pale-ish green skin, grey hair a
     <li>"<i>You have a keen understanding of ships and their maintenance.</i>"
   <ul>
     <li>Owned ships have <b>+10% HP</b>.</li>
-    <li>Ships helmed by Celtor turn <b>20%</b> faster.</li>
     <li><b>20%</b> discount at the shipwright.</li>
   </ul></li>
   </ul></td>

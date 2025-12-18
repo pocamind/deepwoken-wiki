@@ -1,12 +1,16 @@
 ---
 title: Boons and Flaws
-revid: 178429
+revid: 183910
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Character, Creation]
+categories: [Pathfinder Exclusive, Mechanics, Character, Creation]
 ---
 
 # Boons and Flaws
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 **Boons and Flaws** are unique attributes that players must choose when creating their character.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 183762
+revid: 183906
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2404,6 +2404,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Deal Maker \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales.
     
     -   Increases the sell price of all items by 20 notes.
+    -   This is applied **after** Snake Oil.
     -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, 200
 
 -   Know When To Run \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your magic coffin has a higher chance to draw depths loot, but the price is increased.

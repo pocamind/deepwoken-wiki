@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 183840
+revid: 183853
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -10,7 +10,7 @@ categories: [Vow of Iron Exclusive]
 
 | Dravik, The Rat King | |
 |---|---|
-| health | ??? |
+| health | 6000 |
 | weapon | Soulwrought Axe |
 | moves | Golden Swinging, Rule of Rushing, Spin Scarse, Gilded Lefts, Rites of the Rats, Parsmarkinti |
 | affiliation | The Golden Rats |

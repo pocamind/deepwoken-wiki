@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 183842
+revid: 183893
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -118,6 +118,10 @@ Attempting to kite The Shogun and kill him with ranged attacks will prove tediou
 His attacks have deceivingly large hitboxes. If you don't know if you will be hit, its best to assume you will, and to act accordingly.
 
 The Shogun of the Prophet's Guard has minimal downtime between attacks, chaining them together at great speeds.
+
+It is recommended to enter the Temple of Mur boundary to unlock it for future runs as it allows you to very quickly retry the boss if you fail.
+
+**THE SHOGUN CAN USE THEIR ULTIMATE ATTACK MORE THAN ONCE**. **REMEMBER TO LOOK OUT FOR IT AT ALL TIMES ONCE THEY ARE BELOW HALF HEALTH.**
 
 ## Trivia
 

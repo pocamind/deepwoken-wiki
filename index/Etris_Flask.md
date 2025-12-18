@@ -1,11 +1,12 @@
 ---
 title: Etris Flask
-revid: 183186
+revid: 183890
 source: https://deepwoken.fandom.com/wiki/Etris_Flask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [In progress without reason, InProgressPages, Pages requiring a cleanup]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # Etris Flask
@@ -15,13 +16,23 @@ Etris Flask is an item, exclusive to Vow of Iron. Etris Flask is given to every 
 While you begin with one Etris flask, you are able to obtain more, with each costing 250 notes. Some known locations are:
 
 -   The Sable Estate
+    
 -   The Red Lotus Keep
+    
 -   The Viridian Sanctuary Ruins
+    
 -   The Indigo Citadel
+    
+
+  
+
+  
+
+  
 
 ## Trivia
 
--   Etris Flasks are a reference to Estus Flasks from the Darksouls series of games.
+-   Etris Flasks are a reference to Estus Flasks from the Dark Souls series of games.
 -   Etris Flasks CANNOT bypass wither.
 
 Etris Flask in player's hand.

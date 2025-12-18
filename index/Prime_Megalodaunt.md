@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 180605
+revid: 183867
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -137,3 +137,4 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 ## Trivia
 
 -   Featured in Agamatsu's "Depths Games" event.
+-   The 4 slash is Parry/Dodge as VoI release

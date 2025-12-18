@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 180480
+revid: 183916
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -77,7 +77,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
  |
 | 
 
-**Space Pull**  
+**Enforcer Pull**  
 (★☆☆)
 
  | The Enforcer holds its hand out and pulls the nearest person to it, leaving them hanging in the air for a moment.
@@ -106,7 +106,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 
 | Name | Media | Description |
 | --- | --- | --- |
-| **Headsplitter** |  | The Enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the [Greataxes'](Greataxes.md) grip execution. |
+| **Buttsplitter** |  | The Enforcer holds its weapon up with one hand, and smashes it down on any player, killing them, a reference to the [Greataxes'](Greataxes.md) grip execution. |
 
 ## Passives
 
@@ -131,7 +131,7 @@ Do not be deceived by these stats, though. The dangerous part of the Enforcer is
     -   Although more difficult and quite a bit more risky, you can actually m1 while spam parrying to deal more damage to it, and maybe even block break it
 -   Use heavy attacks if possible. There's a chance that The Enforcer will parry or block them, but if it lands, it will deal high damage and will usually posture break it, allowing you to hit it freely for a moment. Be wary on your timing though, as you won't want to be stuck charging a critical while it's Whirlwinding you.
     -   Don't over-commit on counter attacks, the Enforcer has permanent hyper-armor and cannot be stunned or dazed by normal M1s.
-    -   Feinting can force it to react defensively.
+    -   Feinting can force it to react defensively and record you to give video proof of assault to the supreme court erisia led by four sword style maestro.
 
 All in all, keep your nerves hardened, don't be fooled by the intimidating situation and appearance, and most of all, do not be afraid to encounter it. You will eventually have to fight it, at least once, so it's better to fight it on your own terms. Sending yourself to The Depths just to beat The Enforcer for closure, even once, may serve as a huge confidence boost for the future. Trying to fight it in trial of one might not be a bad idea either as it's easier to access early game and less risky if you die as such, just make sure you can reach it first.
 
@@ -157,4 +157,4 @@ _**If you're a freshie reading this page and about to do the Enforcer trial for 
 -   The Enforcer's Blade Variant is physically smaller than The Enforcer's Axe Variant, Meanwhile The Enforcer's Hammer Variant is bigger than The Enforcer's Axe Variant.
 -   If The Enforcer spawns attuned to [Shadowcast](Shadowcast.md), due to its black effects, its animations can be semi-hidden by the particles.
 -   Ironically, The Enforcer is really easy to beat using their own weapon critical. By parrying their attack once then using the Enforcer weapon critical. Using this method repeatedly will kill The Enforcer in a short time without any risk of wiping.
--   Very easy to cheese with any sort of burst of hits, like relentless flames, rapid punches, and the like, as it will usually try to block it which means you get a lot of posture damage in. staying defensive as you hit trade and then hitting one of those moves will usually posture break it/give you an opening to then do damage.
+-   Very easy to cheese with any sort of multi-hit mantra, like [Relentless Flames](Flamecharm.md), [Rapid Punches](Attunement-less.md), [Updraft](Galebreathe.md), etc, as it will usually try to block it which means you get a lot of posture damage in. Staying defensive as you hit trade and then hitting one of those moves will usually posture break it/give you an opening to then do damage.

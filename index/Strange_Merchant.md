@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 183815
+revid: 183908
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -374,6 +374,7 @@ Power 1, 950
 -   Deal Maker \[Memento Talent\] - Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales.
     
     -   Increases the sell price of all items by 20 notes.
+    -   This is applied **after** Snake Oil.
     -   Requirements: Power 1, 200
 
 -   _Observation_ \[Rare Talent\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)

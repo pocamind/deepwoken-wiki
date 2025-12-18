@@ -1,6 +1,6 @@
 ---
 title: Drakkard
-revid: 183728
+revid: 183850
 source: https://deepwoken.fandom.com/wiki/Drakkard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Exclusive Aspects, Aspects]
@@ -52,11 +52,9 @@ An aspect of nomadic dragons from the North.
 </tbody>
 </table>
 
-**:**
+  
 
-# Miscellaneous=
-
-<tabber>
+## Miscellaneous
 
 **Lore:**
 

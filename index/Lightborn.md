@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 183175
+revid: 183892
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -96,7 +96,7 @@ With the addition of the Echo Unlock: Multifaceted, Lightborn essentially gain 1
 -   Although it is considered a developer aspect, its stat boosts are not significantly stronger than those of other aspects.
 -   Developers have stated plans for making Lightborn obtainable in the future, though not through the standard reroll system. Instead, players would need to complete a specific task or requirement to earn the aspect and become a Lightborn. Agamatsu once mentioned during a livestream that Lightborn was already obtainable, though this has yet to be confirmed.
     -   From a lore perspective, obtaining the Lightborn aspect, while extremely difficult, is possible. Lightborn are hybrids of humans and celestials, meaning that creation of one could occur through direct contact with a celestial, though such an event would be incredibly rare.
-    -   As of 12/13/25, with the release of [Vow of Iron](Vow_of_Iron.md), the Lightborn aspect has been made obtainable through rerolls.
+    -   As of 12/13/25, with the release of [Vow of Iron](Vow_of_Iron.md), the Lightborn aspect has been made obtainable through rerolls, which is rather contradictory to what the Developers have said.
 
 ## Trivia
 
@@ -110,6 +110,6 @@ With the addition of the Echo Unlock: Multifaceted, Lightborn essentially gain 1
 -   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
 -   The runes inscribed on the halo roughly translate to:
     -   “Be the mysterious light the few who were chosen.”
--   As of 14/12/2025, it is possible to obtain Lightborn when starting the vow of iron mode. It may have just been super rare on both modes, however I obtained it in VOI specifically, as shown in the image above.
+-   As of 12/13/2025, it is possible to obtain Lightborn when starting the Vow of Iron mode, albeit at a very low chance.
 
 1.  [↑](#cite-ref-1) There is another surname, Moros, it is however only held by one rogue Lightborn.
