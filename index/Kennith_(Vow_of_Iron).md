@@ -1,6 +1,6 @@
 ---
 title: Kennith (Vow of Iron)
-revid: 183661
+revid: 184034
 source: https://deepwoken.fandom.com/wiki/Kennith_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs]
@@ -28,7 +28,7 @@ Kennith is a [Etrean](Etrean.md) NPC. He aspires to be an Etrean Guardsman when 
 
 ## Location
 
-Kennith can be found along the stairs going up to [Etris Palace](Etris_Palace.md).
+Kennith can be found sitting on a mat with his toys at [Etris](Etris.md), near the Frostdraw hut.
 
 ## Dialogue
 

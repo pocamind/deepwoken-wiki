@@ -1,16 +1,18 @@
 ---
 title: God in the Machine
-revid: 178580
+revid: 184096
 source: https://deepwoken.fandom.com/wiki/God_in_the_Machine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Books]
+categories: [Cut Content, Books]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # God in the Machine
 
 ## Description
 
-_**God in the Machine**_ is a [Book](Books.md).
+_**God in the Machine**_ was a [Book](Books.md).
 
 ## Text
 

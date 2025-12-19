@@ -1,12 +1,16 @@
 ---
 title: Castaway
-revid: 167592
+revid: 184027
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Origins]
+categories: [Pathfinder Exclusive, Character, Origins]
 ---
 
 # Castaway
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 > “ Washed ashore in an unfamiliar place, you find hospitality within the Kingdom of Etrea. ”
 > 

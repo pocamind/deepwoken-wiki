@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 181032
+revid: 184095
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,7 +25,7 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 -   **Crafting Slots On/Off** - Displays 3 slots for Crafting above your Backpack.
     -   Drag items and materials into the 3 slots to craft from your inventory without Journal recipes.
 -   **Points of Interest On/Off** - Enables markers in towns for points of interest.
-    -   Displays markers for [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Blacksmith](Blacksmith.md), [Gear Cabinets](Training_Gear.md), [Inn](Inn.md), [Job Boards](Job_Boards.md), [Mystic](Mystic.md), and [Shipwright](Shipwright.md).
+    -   Displays markers for [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Blacksmith](Blacksmith.md), [Gear Cabinets](Training_Gear.md), Guildhall, [Inn](Inn.md), [Job Boards](Job_Boards.md), [Mystic](Mystic.md), and [Shipwright](Shipwright.md).
     -   Displays on [Maps](Maps.md) regardless if setting is on or off.
 -   **3D Icon Behavior Always/Hover/Off** - Sets 3D icon behavior.
     -   Displays items with their 3D models inside of the inventory and hotbar.
@@ -35,11 +35,15 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 -   **Leave Game Prompt On/Off** - Enables the confirmation prompt for returning to Main Menu.
     -   Pressing the Main Menu button will either prompt a yes or no confirm pop-up or instantly leave the game.
 -   **Streamer Mode On/Off** - Makes it harder for players to find your server.
-    -   All info within the top bar such as server name, time, region, and player ID are hidden.
+    -   Server name, server region, and exact time are hidden.
 
-## Audio (1)
+## Audio (5)
 
--   **Music Volume Slider 0-100 - Adjust the volume of ambient & music tracks.**
+-   **Master Volume Slider 0-100 - Adjust the overall volume of the game. _Does not currently apply to every sound, this is being worked on._**
+-   **Music Volume Slider 0-100 - Adjust the volume of ambient music tracks.**
+-   **Sound Effects Volume Slider 0-100 - Adjust the volume of most sound effects.**
+-   **Instruments Volume Slider 0-100 - Adjust the volume of musical instruments heard in the world.**
+-   **Voice Volume Slider 0-100 - Adjust the volume of other players' voices.**
 
 ## Graphics (5)
 
@@ -97,8 +101,6 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 -   Centre Steering Q
 
 * * *
-
--   Open Map M
 
 Ability-exclusive Keybinds
 

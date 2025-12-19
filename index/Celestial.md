@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 180996
+revid: 183937
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sapient species]
@@ -19,9 +19,9 @@ _The stars call you back..._
 
 ## Description
 
-The People of the Stars, so to speak. They are not to be confused with [Lightborns](Lightborn.md), their descendants. The Celestials evacuated to the Luminants from the stars during an event known as the 'Heavensfall' - the reason for their mass descent is currently unknown. The siege of [Constellia](Constellia.md), a city in the heavens known as the Celestials' Last Gift, happened around 77 years after the 'Heavensfall'. Constellia ultimately fell at the hands of invading [Kyrsgarde](Kyrsgarde.md), sent under [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) will.
+The People of the Stars, so to speak. They are not to be confused with [Lightborn](Lightborn.md), their descendants. The Celestials evacuated to the Luminants from the stars during an event known as the '[Heavensfall](Heavensfall.md)' - the reason for their mass descent is currently unknown. The siege of [Constellia](Constellia.md), a city in the heavens known as the Celestials' Last Gift, happened around 77 years after the 'Heavensfall'. Constellia ultimately fell at the hands of invading [Kyrsgarde](Kyrsgarde.md), sent under [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) will.
 
-Known Celestials include [Navae](The_Children_of_Navae.md) and Alsin, who have become religious figures in modern times. The [Starkindred](Oath%253A_Starkindred.md) Church gain their powers from drinking the ichor of Celestials. Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features. This Celestial in particular intentionally resembles the [Suncross](Suncross.md), Deepwoken's sun.
+Known Celestials include [Navae](The_Children_of_Navae.md) and [Alsin](Alsin.md), who have become religious figures in modern times. [The Starkindred Church](The_Starkindred_Church.md) gain their powers from drinking the ichor of Celestials. Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features. This Celestial in particular intentionally resembles the [Suncross](Suncross.md), Deepwoken's sun.
 
 ## Dialogue
 
@@ -44,6 +44,6 @@ This dialogue is from the Celestial located in the [Derelict Highchurch](Derelic
 ## Trivia
 
 -   Celestials are referenced by the Celestial Telescope in [Greathive Aratel](Greathive_Aratel.md#observatory).
--   The crucified celestial may be a reference to Lilith from Evangelion; both are large crucified beings, their blood being collected and used.
--   Additionally a "Celestial Race" was planned, however it never made it out of the testing phase of deepwoken.
+-   Inspiration for the crucified celestial in the [Derelict Highchurch](Derelict_Highchurch.md) was drawn from Lilith from Evangelion; both are large crucified beings, their blood being collected and used.
+-   Additionally a "Celestial Race" was planned, however it never made it out of the testing phase of Deepwoken.
 -   The [Kyrsans](Kyrsgarde.md)' siege of [Constellia](Constellia.md) was not the cause of the Celestials' mass descent - the siege actually occurred long after the Celestials had vacated the city.

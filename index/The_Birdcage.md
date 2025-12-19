@@ -1,12 +1,16 @@
 ---
 title: The Birdcage
-revid: 174358
+revid: 184050
 source: https://deepwoken.fandom.com/wiki/The_Birdcage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Etrean Luminant]
 ---
 
 # The Birdcage
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL The Birdcage LocationR
 

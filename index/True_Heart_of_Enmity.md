@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 183832
+revid: 183987
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -179,7 +179,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a></li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Big_Brother.md">Big Brother</a></li>
     <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Kyrstear.md">Kyrstear</a></li>
@@ -201,7 +201,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:
   <ol>
-    <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a> (White) <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>, <a href="Beginner's_Boots.md">Beginner's Boots</a>, <a href="Alloyed_Phalanx_Boots.md">Alloyed Phalanx Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a></li>
+    <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a> (White) <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>, <a href="Beginner's_Boots.md">Beginner's Boots</a>, <a href="Alloyed_Phalanx_Boots.md">Alloyed Phalanx Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a>, <a href="Celestial_Boots.md">Celestial Boots</a></li>
   </ol></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
   <ol>

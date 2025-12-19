@@ -1,6 +1,6 @@
 ---
 title: Eiris
-revid: 180971
+revid: 184113
 source: https://deepwoken.fandom.com/wiki/Eiris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Random Encounters]
@@ -36,31 +36,28 @@ Eiris is an NPC that you must speak to in order to unlock the [Voidwalker](Voidw
   <td colspan="12">It's... not worth it. Every night, I can't...</td>
 </tr>
 <tr>
-  <td colspan="6">You just attempted to kill innocent people.</td>
   <td colspan="6">What's wrong?</td>
+  <td colspan="6">You just attempted to kill innocent people.</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*He shakes uncontrollably, holding back tears.*</i> I need the money... I need to keep him safe, I... I'm sorry. I'm sorry. I'm sorry. I'm sorry, please... I'm sorry. <i>*He looks up to you, eyes full of despair.*</i> I never wanted this...</td>
   <td colspan="6">This damned contract... I can't keep killing people. I can't stand it. I hate it. I don't want to feel this.. trapped. Every night I wake up in that dream. Every night I see those faces, those cries, I... none of this is worth it.</td>
+  <td colspan="6"><i>*He shakes uncontrollably, holding back tears.*</i> I need the money... I need to keep him safe, I... I'm sorry. I'm sorry. I'm sorry. I'm sorry, please... I'm sorry. <i>*He looks up to you, eyes full of despair.*</i> I never wanted this...</td>
 </tr>
 <tr>
-  <td colspan="6">(WIP)</td>
   <td colspan="6">Contract?</td>
+  <td colspan="6">End</td>
 </tr>
 <tr>
-  <td colspan="6">(WIP)</td>
   <td colspan="6">We're... bound by Eylis, and her Void... It's too much. Too much. I've told you too much...</td>
 </tr>
 <tr>
-  <td colspan="6">(WIP)</td>
   <td colspan="6">You didn't tell me much at all.</td>
 </tr>
 <tr>
-  <td colspan="6">(WIP)</td>
   <td colspan="6">No... simply knowing of her Void is too much. Please, avoid her Knives from now. At all costs. If you're affected by her power, your knowledge of it will give her an opportunity... Please, it's not worth it. Just go. Please...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="6">End</td>
 </tr>
 </tbody>
 </table>

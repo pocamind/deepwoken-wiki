@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 183853
+revid: 183988
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -11,6 +11,7 @@ categories: [Vow of Iron Exclusive]
 | Dravik, The Rat King | |
 |---|---|
 | health | 6000 |
+| drops | 3 Knowledge, 2,500 Notes, Pluripotent Alloy, Ardour Manifestation, Memento Talents |
 | weapon | Soulwrought Axe |
 | moves | Golden Swinging, Rule of Rushing, Spin Scarse, Gilded Lefts, Rites of the Rats, Parsmarkinti |
 | affiliation | The Golden Rats |
@@ -31,7 +32,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 ### Starting the Fight with Dravik
 
-1.  Recommended but not necessary: Uncap Power 5 by defeating the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) at the [Temple of Mur](Temple_of_Mur.md).
+1.  Recommended but not necessary: Uncap Power 5 by defeating the [Shogun of the Prophet's Guard at the Temple of Mur.](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 2.  Make your way to the Waterlocks in the Etrean Luminant and enter a small passage, leading to the Rat's Den.
 3.  Descend down the Rat's Den until you find a Boundary, that teleports you to the boss area.
 4.  Upon loading in and going through his intro, the fight begins.
@@ -101,10 +102,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
     -   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?"
     -   **Dravik will gain immunity to mantras and reflect all mantra damage back to you.**
     -   Dravik will also gain a circle of light around him.
-
-## Loot Table/Rewards
-
-TBA
 
 ## Dialog (Post-fight)
 

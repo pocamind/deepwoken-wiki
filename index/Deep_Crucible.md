@@ -1,12 +1,16 @@
 ---
 title: Deep Crucible
-revid: 160316
+revid: 184054
 source: https://deepwoken.fandom.com/wiki/Deep_Crucible
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics]
+categories: [Pathfinder Exclusive, Mechanics]
 ---
 
 # Deep Crucible
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 The Deep Crucible in the front of the Hidden Village, without an artifact.
 

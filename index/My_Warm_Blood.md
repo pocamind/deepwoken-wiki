@@ -1,16 +1,18 @@
 ---
 title: My Warm Blood
-revid: 174287
+revid: 184119
 source: https://deepwoken.fandom.com/wiki/My_Warm_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Books]
+categories: [Cut Content, Books]
+notices:
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # My Warm Blood
 
 ## Description
 
-_**My Warm Blood**_ is a [Book](Books.md).
+_**My Warm Blood**_ was a [Book](Books.md).
 
 ## Text
 

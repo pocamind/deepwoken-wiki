@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 183732
+revid: 184025
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -590,6 +590,7 @@ Blood
 -   1 Vibrant gem gives 2 extra hits
 -   Has 9.18x PVE scaling
 -   Switches targets when it cannot hit the previous one.
+-   Can be vented out of.
 -   Can be modified with Vibrant Gems to increase amount of hits leading to extra DMG.
 -   Can be modified with a Multiplying Spark, triggering in 2 bursts and stunning the target for a bit longer.
 

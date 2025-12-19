@@ -1,11 +1,11 @@
 ---
 title: Ryrda
-revid: 180356
+revid: 184097
 source: https://deepwoken.fandom.com/wiki/Ryrda
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, The Hive, Deceased characters, Characters mentioned in books]
+categories: [Cut Content, The Hive, Deceased characters, Characters mentioned in books]
 notices:
-  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Ryrda
@@ -25,7 +25,7 @@ After some while he found a way to obtain [Nightblood](Attunement_Potions.md): t
 
 Ryrda was desperate, if not insane in chasing his dreams, even accidentally killing his friend in the process. He never noticed other's feelings and was too focused on himself, to the point where he didn't realize [Eran](Eran.md) died and celebrated his dream coming to life. Despite [Eran](Eran.md) being ill and having a chance of dying after her [Ether](Ether.md) was drained, Ryrda seemingly did nothing to warn her of that possibility, as he saw it as an opportunity to finally reach his goal of becoming a [Shadowcaster](Shadowcast.md).
 
-He died shortly after reaching his goal, as he was burnt to death by [Fran](Fran.md), who was infuriated by the demise of her friend, [Eran](Eran.md). After his death, he is mentioned in the [book](Books.md) [Lament of Cirryn](Lament_of_Cirryn.md) by [Ehkusa](Ehkusa.md), his friend, who keeps a shard of his mask in hopes of meeting him again.
+He died shortly after reaching his goal, as he was burnt to death by [Fran](Fran.md), who was infuriated by the demise of her friend, [Eran](Eran.md). After his death, [Ehkusa](Ehkusa.md), his friend, kept a shard of his mask in hopes of meeting him again.
 
 ## Trivia
 

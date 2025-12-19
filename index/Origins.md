@@ -1,12 +1,16 @@
 ---
 title: Origins
-revid: 166856
+revid: 184026
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Mechanics, Creation, Origins]
+categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins]
 ---
 
 # Origins
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 **Origins** are a feature in _Deepwoken_ that provide the player with certain gear and allegiances on spawn, depending on which Origin is chosen. These can affect how you play the game in different ways, with most Origins having a preferred progression method. You **CANNOT** change your Origin _mid progression_, as Origins can only be chosen from Character Creation; you will need to **WIPE** in order to pick a new Origin.
 

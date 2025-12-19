@@ -1,12 +1,16 @@
 ---
 title: Ignition Delver
-revid: 173923
+revid: 184030
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Origins, The Ignition Union, Character]
+categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character]
 ---
 
 # Ignition Delver
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 > “ Just another day on the job. The riches below ain't gonna extract themselves now, are they? ”
 > 

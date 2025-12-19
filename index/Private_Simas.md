@@ -1,9 +1,9 @@
 ---
 title: Private Simas
-revid: 182076
+revid: 184015
 source: https://deepwoken.fandom.com/wiki/Private_Simas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
+categories: [Adret NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -13,7 +13,7 @@ notices:
 | Private Simas | |
 |---|---|
 | name | Simas |
-| aspect | ? |
+| aspect | Adret |
 | location | The Three Cheers |
 | affiliation | The Central Authority |
 
@@ -23,11 +23,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Private Simas is a NPC.
+Private Simas is an [Adret](Adret.md) NPC. He's probably drunk out of his mind.
 
 ## Location
 
-Private Simas is located inside The Three Cheers, sitting at a table across [Corporal Austin](Corporal_Austin.md).
+Private Simas is located inside The Three Cheers, sitting at a table across from [Corporal Austin](Corporal_Austin.md).
 
 ## Dialogue
 

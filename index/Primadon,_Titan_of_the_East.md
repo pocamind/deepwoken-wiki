@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 183433
+revid: 184020
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -62,6 +62,9 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 </tr>
 </tbody>
 </table>
+
+  
+In the [Vow of Iron](Vow_of_Iron.md) gamemode however, it is not required to summon Primadon through item means, as you can summon him directly through the large bonfire, something like a wake-up call.
 
 ## Attacks
 

@@ -1,6 +1,6 @@
 ---
 title: Etrean Civil War
-revid: 183911
+revid: 184032
 source: https://deepwoken.fandom.com/wiki/Etrean_Civil_War
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -20,7 +20,7 @@ notices:
 | side1 | Etrea[1], The Ministry |
 | side2 | Etrean Royalists[1], Circle of Honour, The Vigils |
 | commanders1 | The Lord Regent[1] |
-| commanders2 | Sachan Zaru Ganba[1], Sachan Shisui Kobura, Maestro Alkhurst Legato |
+| commanders2 | Sachan Zaru Ganba[1], Sachan Shisui Kobura, High Monk Junsui, Maestro Alkhurst Legato |
 
 The **Etrean Civil War** was a civil conflict that took place between the [Ministry](The_Ministry.md)\-backed forces of [Etrea](Etrea.md) and the combined forces of the [Etrean Royalists](Etrean_Royalists.md), [The Vigils](The_Vigils.md), and the [Circle of Honour](Circle_of_Honour.md), who opposed the ascension of [Zi'eer](The_Lord_Regent.md) as Etrea's current ruler.
 

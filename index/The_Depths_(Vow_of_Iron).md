@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 183756
+revid: 184104
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -8,19 +8,20 @@ categories: [Pages with broken file links]
 
 # The Depths (Vow of Iron)
 
-The Depths of Vow of Iron differ from Pathfinder, there's more danger there than Pathfinder depths
+The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.md), having a lot more prevalent danger than [The Depths](The_Depths.md) of Pathfinder.
 
 ## Differences from Pathfinder
 
--   You spawn in the Cathedral of the Interstice.
+-   You spawn in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) and the gates to it are always open.
+-   The Depths Trial is in an instanced [Dungeon](Dungeons.md).
 -   Much harder enemy spawns ([Nautilodaunts](Nautilodaunt.md) everywhere)
 -   No [Deep Shrines](Deep_Shrines.md) or [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
--   There are no jobs on the job boards.
--   Diluvian mechanism no longer works.
+-   There are no Jobs on the [Job Boards](Job_Boards.md).
+-   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) no longer works.
 -   You no longer receive health packs from enemies.
--   You cannot enter layer 2, as Klaris is blocked off and you will die if you enter the void regardless of hp.
--   Having low sanity for long enough will grant you an amount of flaws, depending on severity.
--   [Deep gems](Deep_Gems.md) now grows in The Depths
+-   You cannot enter the [Second Layer](Second_Layer.md), as the room in [Castle Light](Castle_Light.md) that contains [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) is blocked off, and you will die if you enter the void regardless of HP.
+-   Having [low sanity](Insanity.md) and being outside of the Cathedral of the Interstice for long enough will grant you an amount of flaws, depending on severity.
+-   [Deep Gems](Deep_Gems.md) now grow in The Depths
 
 <table><caption>Vow Of Iron Depths Trial (Please update if you find more enemies)</caption>
 <tbody>
@@ -45,7 +46,7 @@ The Depths of Vow of Iron differ from Pathfinder, there's more danger there than
 
 ## Passive Flaws
 
-Scaling off of your insanity, a countdown will begin on the centre left of your screen. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random flaw from a set list, multiple if you're insane enough, with an edgy comment. Select flaws gained this way are able to be re-applied, harshening the effects. Your character will never kill themselves, however they will shiver and scratch. Once you reach or surpass 100 flaws your head will explode.
+Scaling off of your [insanity](Insanity.md), a countdown will begin on the centre left of your screen. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random flaw from a set list, multiple if you're insane enough, with an edgy comment. Select flaws gained this way are able to be re-applied, harshening the effects. Your character will never kill themselves, however they will shiver and scratch. Once you reach or surpass 100 flaws your head will explode.
 
 The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its corresponding number, unlike the other symbols.
 

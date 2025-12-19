@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 179851
+revid: 184120
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -398,7 +398,7 @@ Even if you have both lives, your health bar will be stained in [Voidzones](Void
 
 _verb_
 
-1.  To die in The Depths and spawn in Fragments of Self.
+1.  To die in The Depths and be sent to Fragments of Self. This is when your character is truly dead.
 
 ## Resonance Terms
 
@@ -418,6 +418,13 @@ In lore, resonances are not strictly bells, though these are the only ones we se
 _verb_
 
 1.  To check if one has enough [Resonance Progress](Resonance.md#bell-progress) to unlock a [Resonance](Resonance.md) through dying, most often done either alone with fall damage, in Layer 2 with a Light Hook, or with friends.
+
+#### Bell-pop
+
+_verb_
+
+1.  To unlock one's [Resonance](Resonance.md) during combat in [the Depths](The_Depths.md).
+    1.  Ex. "One of them bell-popped, now he's gonna void."
 
 ### Corrupted/Cursed
 

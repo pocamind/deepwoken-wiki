@@ -1,12 +1,16 @@
 ---
 title: The Garden Reservoir
-revid: 181411
+revid: 184051
 source: https://deepwoken.fandom.com/wiki/The_Garden_Reservoir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Etrean Luminant]
 ---
 
 # The Garden Reservoir
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL The Garden Reservoir LocationR
 

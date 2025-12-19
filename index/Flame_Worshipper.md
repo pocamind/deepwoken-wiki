@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 183810
+revid: 184134
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, The Covenant of Flame]
@@ -21,7 +21,7 @@ notices:
 | locked armor | Flame Worshipper Armor |
 | allowed weapons | Shield, Sword, Club |
 | starting weapons | Worshipper Longsword |
-| starting items | Simmerbloom Diadem |
+| starting items | Simmerbloom Diadem, Campfire Pit |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

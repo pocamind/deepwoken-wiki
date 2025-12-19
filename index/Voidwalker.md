@@ -1,12 +1,16 @@
 ---
 title: Voidwalker
-revid: 180617
+revid: 184029
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Origins, Character, The Knives of Eylis]
+categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
 ---
 
 # Voidwalker
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 > “ The contract is sealed, enlisting you into an otherworldly mercenary group, the Knives of Eylis. Despite the brutal training, it seems Eylis herself has a plan in mind for you. ”
 > 

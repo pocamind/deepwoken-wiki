@@ -1,12 +1,16 @@
 ---
 title: Authority Ensign
-revid: 183312
+revid: 184031
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Central Authority, Character, Origins]
+categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
 ---
 
 # Authority Ensign
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 > “ A bright-eyed recruit deployed to the Eastern Front. Three cheers for the cause! ”
 > 

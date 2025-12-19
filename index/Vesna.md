@@ -1,6 +1,6 @@
 ---
 title: Vesna
-revid: 182971
+revid: 184118
 source: https://deepwoken.fandom.com/wiki/Vesna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
@@ -54,8 +54,6 @@ Vesna's Wares
 
 ## Dialogue
 
-**First Encounter:**
-
 <table>
 <tbody>
 <tr>
@@ -70,7 +68,7 @@ Vesna's Wares
   <td colspan="6">Your fashion sense is...</td>
 </tr>
 <tr>
-  <td colspan="6">Gwoh! A fantastic deal, I'm sure you'll agree! Go forth! Bedazzle! Enjewel!</td>
+  <td colspan="6">very good...... now you can be fancy... elegant gothic, like me......</td>
   <td colspan="6">?..... <i>*Their mask, doused heavily in eye shadow and mascara, glimmers in the light reflected from their conspicuously luminous crown. They hang onto your every word, swaying like a leaf in Ardfall - as though the slightest gust of wind could blow them away.*</i></td>
 </tr>
 <tr>
@@ -86,38 +84,6 @@ Vesna's Wares
 <tr>
   <td colspan="6"></td>
   <td colspan="6">End</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="4">[Player did not bring up Vesna's fashion sense]</td>
-  <td colspan="4">[Player chose "Marvellous. Brilliant. Elegant, like a shadow in the moonlight." in previous dialogue]</td>
-  <td colspan="4">[Player chose "Terrible. Over the top. Like a frumpy lace monster." in previous dialogue]</td>
-</tr>
-<tr>
-  <td colspan="4">[Dialogue is the same as First Encounter]</td>
-  <td colspan="4">WIP</td>
-  <td colspan="4">WIP</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="8">[Purchased Something]</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="8">WIP</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="8">End</td>
 </tr>
 </tbody>
 </table>

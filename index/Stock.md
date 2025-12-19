@@ -1,0 +1,74 @@
+---
+title: Stock
+revid: 184129
+source: https://deepwoken.fandom.com/wiki/Stock
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Ganymede NPCs, Vow of Iron Exclusive, NPCs, Quests]
+---
+
+# Stock
+
+| Stock | |
+|---|---|
+| name | Stock |
+| aspect | Ganymede |
+| location | Summer Isle |
+| affiliation | The Summer Company |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
+
+Stock is a [Ganymede](Ganymede.md) NPC. He is collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, he will reward them with a chest and positive reputation with [The Summer Company](The_Summer_Company.md).
+
+## Location
+
+Stock is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircase leading to his room, which is filled with explosive boxes, while he sits on the pavement.
+
+## Dialogud
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Between the Ignition Union and the Bandits, we won't have any explosive ordinance left...</td>
+</tr>
+<tr>
+  <td>Need some help?</td>
+</tr>
+<tr>
+  <td>Yeah, out in the wilderness nearby bandits and Union members keep taking our supplies. Without this we won't meet quota for the year, bring back any crates you can find.</td>
+</tr>
+<tr>
+  <td>Sounds Good.</td>
+</tr>
+<tr>
+  <td>End</td>
+</tr>
+</tbody>
+</table>
+
+**Explosive Crates:**
+
+<table>
+<tbody>
+<tr>
+  <td>colspan="1" style="color:#32CD32;" |Begin</td>
+</tr>
+<tr>
+  <td>Aye, thanks for the help. The <a href="Glossary.md#the-central-authority">Authority</a> better start sending some help before we start declining their firearm contracts.</td>
+</tr>
+<tr>
+  <td>Need some help?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
+</tr>
+</tbody>
+</table>

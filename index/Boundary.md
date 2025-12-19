@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 183747
+revid: 183995
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Mechanics]
@@ -33,12 +33,17 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
+| Miner Cave ([Bluster Rapids](Bluster_Rift.md)) | 
+
+ | 
+
+ |
 | Merit's Keep ([Fort Merit](Fort_Merit.md)) | 
 
  | 
 
  |
-| Miner Cave ([Bluster Rapids](Bluster_Rift.md)) | 
+| Merit Town ([Port Merit](Port_Merit.md)) | 
 
  | 
 
@@ -77,7 +82,7 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
-| [The Polymarch](The_Polymarch.md) | 
+| Legion Ship ([The Polymarch](The_Polymarch.md)) | 
 
  | 
 
@@ -108,6 +113,11 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  |
 | Summer Inn ([Summer Isle](Summer_Isle.md)) | 
+
+ | 
+
+ |
+| Summer Castle ([Summer Isle](Summer_Isle.md)) | 
 
  | 
 
@@ -174,6 +184,13 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 | Etrea Home ([Etris](Etris.md)) | 
 
  | 
+
+ |
+| Ferryman's Watch ([Boatman's Watch](<Boatman's_Watch.md>)) | 
+
+ | 
+
+(this boundary is close enough for ferryman to aggro if spawned in)
 
  |
 

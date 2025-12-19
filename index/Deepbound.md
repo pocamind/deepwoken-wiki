@@ -1,12 +1,16 @@
 ---
 title: Deepbound
-revid: 180993
+revid: 184028
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [The Divers, Origins, Character]
+categories: [Pathfinder Exclusive, The Divers, Origins, Character]
 ---
 
 # Deepbound
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 > “ Your training is almost complete, though you were raised in these halls, you must now venture out into the Wastes to prove your worth. ”
 > 

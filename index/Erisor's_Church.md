@@ -1,12 +1,16 @@
 ---
 title: "Erisor's Church"
-revid: 166547
+revid: 184049
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Etrean Luminant]
 ---
 
 # Erisor's Church
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Erisor's Church LocationR
 

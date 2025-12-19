@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 182371
+revid: 184103
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapon
 |---|---|
 | type | Greathammer |
 | damage type | Blunt |
-| requirements | TBA |
+| requirements | 10 STR, 20 HVY |
 | damage | 20 |
 | scaling | HVY: 7 |
 | posture damage | 7 |
@@ -23,17 +23,15 @@ categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapon
 | talent | Bulwark Breaker - Increase the size of your Pressure Blast, with the last hit of it dealing increased posture damage.Reverse Necrosis - Landing any mantra will now heal you based on how slow your opponent is. |
 | m.equip | No |
 | m.extract | No |
-| m.crit | Hailbreaker |
-| stances | 1H (40 HVY)/2H |
-| offhand | No |
-| rarity | Unknown |
+| stances | 2 Handed, 1 Handed (≥40 HVY) |
+| rarity | Common |
 | selling price | N/A |
 | weight | 2 |
-| bankable | No |
-| droppable | No |
+| bankable | Yes |
+| droppable | Yes |
 | enchantable | No |
-| pass down | No |
-| obtainment | Saint Jay Memento |
+| pass down | Yes |
+| obtainment | Saint Jay Memento, Found at the Valley of Heroes |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

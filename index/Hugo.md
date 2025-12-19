@@ -1,11 +1,9 @@
 ---
 title: Hugo
-revid: 182071
+revid: 184022
 source: https://deepwoken.fandom.com/wiki/Hugo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 ---
 
 # Hugo
@@ -23,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Hugo is a [Tiran](Tiran.md) NPC, he was the previous owner of [The Three Cheers](The_Three_Cheers.md) before [Fabantou](Fabantou.md). He sell's the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) with no restrictions to the player.
+Hugo is a [Tiran](Tiran.md) NPC, he was the previous owner and innkeep of [The Three Cheers](The_Three_Cheers.md) before [Fabantou](Fabantou.md). He sell's the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) with no restrictions to the player.
 
 ## Location
 
@@ -89,8 +87,8 @@ The Three Cheers Menu
   <td>Purchasing Fool's Tankard</td>
 </tr>
 <tr>
-  <td>WIP</td>
-  <td>WIP</td>
+  <td><i>*The innkeeper pours with an exaggerated flourish, prompting a small cheer. The drink itself doesn't look half-bad - despite the flickers of sediment sinking to the base of the tankard. Bottoms up?..*</i></td>
+  <td><i>*Hugo sets down the hefty tankard with a sly grin, clearly impressed by your choice.*</i></td>
 </tr>
 <tr>
   <td colspan="2">Leave</td>

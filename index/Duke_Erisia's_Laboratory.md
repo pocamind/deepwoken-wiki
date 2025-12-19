@@ -1,14 +1,18 @@
 ---
 title: "Duke Erisia's Laboratory"
-revid: 166524
+revid: 184063
 source: https://deepwoken.fandom.com/wiki/Duke_Erisia's_Laboratory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, Dungeons, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Dungeons, Locations in the Etrean Luminant]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Duke Erisia's Laboratory
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Duke Erisia's Laboratory LocationR
 
