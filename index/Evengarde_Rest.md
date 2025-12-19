@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 183459
+revid: 184315
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 **Evengarde Rest** is the current Maestro of the Vigil Guard and is highly respected by all of them. He resides within [The Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. A master of combat arts, Rest is able to teach players how to overcome the limits of their weapon proficiencies.
 
-Evengarde is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence." If you lack 75 points in your weapon type's attribute, he will not uncap it
+Rest is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence." If you lack 75 points in your weapon type's attribute, he will not uncap it
 
 After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals his devotion to the kingdom and his aspirations of felling [the evil that controls it](The_Ministry.md). However, he expresses dissatisfaction at his inability to deter [The Central Authority](The_Central_Authority.md) should [The Lord Regent](The_Lord_Regent.md) be eliminated, which would almost certainly result in them staging a final assault with everything they have. Seeing the assimilation of cultures into the Authority's war machine as a fate worse than even the one the Ministry has in store for them, he can only watch as his people are puppeteered by forces beyond their knowledge and control to their deaths.
 
@@ -173,14 +173,14 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
 
 ## Trivia
 
--   Kelsius is highly grateful towards Evengarde for taking him in, in spite of his complicated past as a war criminal.
+-   Kelsius is highly grateful towards Rest for taking him in, in spite of his complicated past as a war criminal.
 -   Has two unique light weapons (Astris and Aeris) and a unique heavy weapon (Galadriel). These are only mentioned during his training and are not shown in-game.
     -   Galadriel is likely named after Galadriel from _Lord of the Rings_.
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "Give me a break." "Foolish." "Take that stupid thing off."
--   Evengarde is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
+-   Rest is the only NPC to have heterochromia; the presence of different colored eyes in the same person. However his green eye is unlikely to be genetic, rather a product of his Tempest Eye.
 -   His hair id is : [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun).
     -   Evengarde Rest and [Aska](Aska.md) share the same hair id
 -   The coat Rest is wearing is a black [Deepwoken Cloak](Deepwoken_Cloak.md) with bright white dye to obtain the grey.
-    -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect
--   After starting the teleport to the fight there is another dialog box with Evengarde Rest saying "Let's see how your skills have improved, eh?"
+    -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect.
+-   After starting the teleport to the fight there is another dialogue box with Evengarde Rest saying "Let's see how your skills have improved, eh?"
 -   If you taunt him during your fight by pressing T, he will immediately activate his Tempest Eye and decapitate you, seeing it as disrespectful.

@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 183139
+revid: 184324
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greataxes, "Core-Attribute based weapons", Developer Spec]
@@ -34,7 +34,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Par's Glaive is a glaive greataxe weapon. In **Pathfinder**, this item is a developer spec weapon that is unobtainable by any means. In **Vow of Iron**, this weapon can be obtained by completing Depths events and turning in the loot bags.
+The Par's Glaive is a glaive greataxe weapon. In **Pathfinder**, this item is a developer spec weapon that is unobtainable by any means. In **Vow of Iron**, this weapon can be obtained by completing Depths events and turning in the loot bags or more rarely as a drop from the [Strange Merchant](Strange_Merchant.md) Magic Coffin ability.
 
 ## Critical
 

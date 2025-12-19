@@ -1,6 +1,6 @@
 ---
 title: Etrean Civil War
-revid: 184145
+revid: 184326
 source: https://deepwoken.fandom.com/wiki/Etrean_Civil_War
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -15,7 +15,7 @@ notices:
 | prev | Coup against Ji'ang[1] |
 | begin | 1219 CE[1][2] |
 | place | Eastern Luminant[1] |
-| result | Etrean victory, The Lord Regent's rule over Etrea is consolidated |
+| result | Etrean/Ministry victory, The Lord Regent's rule over Etrea is consolidated, The Vigils are reintigrated into Etrea |
 | battles | Raid on the Temple of Mur[1], Invasion of the Isle of Vigils[3] |
 | side1 | Etrea[1], The Ministry |
 | side2 | Etrean Royalists[1], Clan Mofisu[1], Circle of Honour, The Vigils |

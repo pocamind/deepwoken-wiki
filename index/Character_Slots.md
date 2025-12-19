@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 182337
+revid: 184323
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -22,9 +22,10 @@ The slot selection menu serves as a list of all of your character slots.
 
 -   Character slots can be purchased for 200 robux.
     -   The price of slots can vary for certain regions due to Roblox's currency purchasing rates.
--   A maximum of 2 character slots can be obtained for free.
+-   A maximum of 3 character slots can be obtained for free.
     -   One for obtaining [power 20](Power.md) (max level) on any slot.
     -   One for obtaining [A rank](Echoes.md#overview) when wiping any slot.
+    -   One for defeating [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) in [Vow of Iron](Vow_of_Iron.md).
 
 ## Character Slot UI
 

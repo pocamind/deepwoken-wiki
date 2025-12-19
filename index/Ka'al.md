@@ -1,12 +1,11 @@
 ---
 title: "Ka'al"
-revid: 184203
+revid: 184310
 source: https://deepwoken.fandom.com/wiki/Ka'al
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, SpoilerPages, The Hive, Characters mentioned in books, Deceased characters]
+categories: [Cut Content, The Hive, Characters mentioned in books, Deceased characters]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
-  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
 
 # Ka'al
@@ -16,11 +15,13 @@ notices:
 | name | Ka'al[1] |
 | aspect | Vesperian[1] |
 | affiliation | The Hive[1] |
-| death | Sliced in half by rogue Cirryn[1] |
+| death | Sliced in half by Cirryn[1] |
 
 ## Description
 
-**Ka'al** was one of the side-characters in the [book](Books.md) [Lament of Cirryn](Lament_of_Cirryn.md). He is a [Lifeweave](Lifeweave.md) scholar of [The Hive](The_Hive.md), who was sent out on a mission along with 2 other scholars to revive [Cirryn](Cirryn.md) by a hivelord [Ximac Diri](Ximac_Diri.md).[\[1\]](#cite-note-lament-1)
+**Ka'al** was one of the side-characters in the [book](Books.md) [Lament of Cirryn](Lament_of_Cirryn.md).
+
+He is a [Lifeweave](Lifeweave.md) scholar of [The Hive](The_Hive.md), who was sent out on a mission along with 2 other scholars to revive [Cirryn](Cirryn.md) by a hivelord [Ximac Diri](Ximac_Diri.md).[\[1\]](#cite-note-lament-1)
 
 Ka'al wasn't very talkative, rather always seeming troubled and keeping to himself. Though, his interactions with [Remaz](Remaz.md) hint that they're good friends.[\[1\]](#cite-note-lament-1)
 
