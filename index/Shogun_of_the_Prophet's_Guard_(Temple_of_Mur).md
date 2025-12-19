@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 184160
+revid: 184256
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -108,7 +108,7 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 
 (★★★)
 
- | The Shogun lets out a distinct roar, indicating a devastating combo. It will perform two rapid slashes without highlights, followed by two devastating slashes with Red highlights, and finally ends with four slower slashes with Green highlights. This attack can only be used once the Shogun is at 50% HP or lower.
+ | The Shogun lets out a distinct roar, indicating a devastating combo. It will perform two rapid slashes without highlights, followed by two devastating slashes with Red highlights, and finally ends with four slower slashes with Green highlights. This attack can only be used once the Shogun is at 50% HP, but can still be used while above 50% if the fight is restarted with a memory shard.
 
  |  |
 

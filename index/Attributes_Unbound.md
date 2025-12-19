@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 178026
+revid: 184252
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -12,7 +12,7 @@ categories: [Character, Attributes]
 
 Character attributes will permanently be unbounded if you have previously done the quest on that slot before, allowing you to unbind your attribute after 75 without repeating the quest. This is a permanent unbound in all character slots without each slot requiring to do the quest to unbound.
 
-[Attributes](Attributes.md) are normally allowed to go up to 75. Obtaining these uncapping cards allow the player to go up to 100. Only a handful of Talents require stats past 75, so uncapping is not a necessity for every build. (Note that racial bonuses affect caps, letting you reach 78 and 103 respectively.) Do note that if your Aspect gives a stat bonus in a specific stat, then you will need to reach that new cap in order to gain the unbound card. (eg. you have a cap of 78 agility instead of 75 from Tiran's racial bonus, then in order to get Agility Unbound when talking to the Windrunner you will need to have 78 agility.)
+[Attributes](Attributes.md) are normally allowed to go up to 75. Obtaining these uncapping cards allow the player to go up to 100. Only a handful of Talents require stats past 75, so uncapping is not a necessity for every build. (Note that, unless you have [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers), Aspect bonuses affect caps, letting you reach 78 and 103 respectively.) Do note that, unless you have [Multifaceted](Echoes.md#upgrades-unlocks-and-modifiers), if your Aspect gives a stat bonus in a specific stat, then you will need to reach that new cap in order to gain the unbound card. (eg. you have a cap of 78 agility instead of 75 from Tiran's racial bonus, then in order to get Agility Unbound when talking to the Windrunner you will need to have 78 agility.)
 
 ## Character Attributes Unbound
 
@@ -31,6 +31,7 @@ Character attributes will permanently be unbounded if you have previously done t
 4.  Break the gate at the final cell with basic attacks.
 5.  Talk to [Brutus](Brutus.md), a large Khan sitting alone in the cell.
 6.  Brutus will proceed to beat you down to when you are knocked, granting Fortitude Unbound if the requirements are met.
+7.  _NOTE_: He does not kill you, he just knocks you, even if you do not have the 75 fortitude requirements he will not kill you and will just knock you.
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=fik9IGrqkOg). NOTE: this video is outdated, but can provide information on how to get to the cell._
 

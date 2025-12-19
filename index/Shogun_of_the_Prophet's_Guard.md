@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 184159
+revid: 184254
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies]
@@ -111,3 +111,5 @@ Appears in groups.
 ## Trivia
 
 -   They were named Shogun of the Prophet's Guard before [the variant](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) encountered in the [Temple of Mur](Temple_of_Mur.md) had its name changed to match theirs.
+-   They are the guards who stormed the royal palace with the Lord Regent to steal the throne of Etrea.
+-   They became monstrosities through the power granted by the Lord Regent—no longer human, but something closer to his true form.

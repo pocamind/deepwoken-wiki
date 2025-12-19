@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 184233
+revid: 184237
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -473,11 +473,11 @@ Power 15, 950
 ### Power 5 Talents
 
 -   Blossoming Darkness \[Common Talent\] - The more Ether you drain during Shadow Roar, the bigger it gets.
-    -   Requirements: Power 10, 100
+    -   Requirements: Power 5, 100
 
 -   Energy Siphon \[Common Talent\] - Your singularity now pulls ether from the extra players affected.
     -   Takes about ~15 ether from the affected opponent on proc.
-    -   Requirements: Power 10, 100
+    -   Requirements: Power 5, 100
 
 ### Power 10 Talents
 

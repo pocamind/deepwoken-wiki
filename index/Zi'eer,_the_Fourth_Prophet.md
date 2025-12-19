@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 184024
+revid: 184291
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -175,7 +175,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
 -   Contractor Wall - In Zi'eer's first phase, he summons endless waves of strings to block the player. Slicing through these walls is the only possible way to reach him.
 -   Prepared Equalizer - Zi'eer's string will latch on to and slice the player's limbs (arm or leg) rapidly, freezing the player in an Equalizer state if they fail to react to parryable or jumpable moves.
--   Prophet's Shield - During Zi'eer's second phase, he cannot be damaged. Only his shield, which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield, can.
+-   Prophet's Shield - During Zi'eer's second phase, he cannot be damaged. Only his shield, which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield, can. Zi'eer's shield is disabled when using the **The Master Of The House** attack, allowing for the fight to end.
 
 ## Gallery
 

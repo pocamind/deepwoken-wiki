@@ -1,6 +1,6 @@
 ---
 title: Ministry IOU
-revid: 183405
+revid: 184283
 source: https://deepwoken.fandom.com/wiki/Ministry_IOU
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -22,3 +22,5 @@ categories: [Vow of Iron Exclusive]
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+**Ministry IOU** is a gem-shaped item dropped by the [Ministry Heartspiller](Ministry_Heartspiller.md) NPC in the **Vow of Iron** game mode. The item shares the same description as a [Diamond](Treasures.md) while visually resembling an [Emerald](Treasures.md). Currently, its only known function is to be sold to an [Antiquarian](Antiquarian.md) for 500.

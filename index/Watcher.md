@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 174704
+revid: 184267
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -149,6 +149,7 @@ This dialogue will be activated if you take off your Angel Mask while the Watche
 ## Trivia
 
 -   While killing a Watcher is possible, it takes a very significant amount of time due to their outrageously large health pool, so it isn't recommended. When killed, the Watcher's corpse cannot be interacted with nor executed.
+-   In verse 1, a rare item known as “Watcher Petals” was discovered. Much myth and speculation has spread around this item, due to its rarity and lack of apparent purpose.
 -   Watcher's Gaze has three rings of Greek letters on its visual effect, stating:
     -   Outer-most circle - "Let not my body falter in the transmission of this vow, for I am of spirit, of soul, of conception, I am incarnated,"
     -   Middle circle - "and with full knowledge and understanding of the absolute and inalienable authority over the vow,"

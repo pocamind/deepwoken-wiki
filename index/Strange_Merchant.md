@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 183908
+revid: 184255
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Mystery Box Locations
 
-To obtain the Strange Merchant Memento, you need to spend a significant amount of Notes on mystery boxes.
+To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on mystery boxes.
 
 -   **The locations of the mystery boxes that have been found so far are:**
     -   Behind the [Derelict Highchurch](Derelict_Highchurch.md)
