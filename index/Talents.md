@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 183906
+revid: 184234
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1081,12 +1081,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Death Speaker
 
 -   Blackhole \[Common Talent, Shadowcast Exclusive\] - Your singularity pulls everyone nearby in.
-    -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
     -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
+    -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
 
 -   Energy Siphon \[Common Talent, Shadowcast Exclusive\] - Your singularity now pulls ether from the extra players affected.
-    -   Prerequisites: Singularity, 60 Shadowcast
     -   Takes about ~15 ether from the affected opponent on proc.
+    -   Prerequisites: Singularity, 60 Shadowcast
 
 ### Deepbound Contract
 
@@ -4057,6 +4057,37 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Propagandist \[Common Talent, Charisma Exclusive\] - Your Sing will now stir your allies into a frenzy, causing them to become Overcharmed for 15s, applying Charmed to enemies they hit with Basic Attacks.
     -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents. This bonus does not stack with Tough Love.
     -   Prerequisites: 75 Charisma, [Sing](Attunement-less.md#sing) (Mantra)
+
+### Void Glutton
+
+-   Void Glutton \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Siphon some of your enemies ether when you kill them. This gets added onto your health permanently, however you are now slowed at all times. This slow increases the more health you have siphoned.
+    
+    -   Gives a small amount of maximum health when you kill a player. This health is based on your opponent's maximum Ether. You will also be slowed, with the slow being based on how much maximum health you've siphoned.
+    -   On proc a message at the top of your screen will display: "You siphon some of your victim's ether, netting you x more health."
+    -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento
+
+-   Dark Harvest \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Steal all of the hunger of enemies caught in your [Shadow Vortex](Shadowcast.md#shadow-vortex). Knocking a player also greatly enhances your next Shadow Vortex.
+    
+    -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Erupting Shade \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - The size of your [shadow eruption](Shadowcast.md#shadow-eruption) increases with how much siphoned health you have gained from wiping players.
+    
+    -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Ether Repletion \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Hunger stolen from other players now grants you ether as well.
+    
+    -   Hunger stolen from players through any means will proc this Talent.
+    -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Hearty Ether \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - [Devouring Eye](Shadowcast.md#devouring-eye) steal procs now heal you based on the amount of ether stolen.
+    
+    -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Null Recovery \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Sacrifice 20% of your hunger bar to recover 4% of your health back.
+    
+    -   Grants a Talent tool.
+    -   Heals 2% of your maximum health, not 4%.
+    -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 ### Voidhunter
 

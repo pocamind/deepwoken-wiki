@@ -1,11 +1,11 @@
 ---
 title: Ehkusa
-revid: 178447
+revid: 184201
 source: https://deepwoken.fandom.com/wiki/Ehkusa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, Characters mentioned in books, The Hive]
+categories: [Cut Content, Characters mentioned in books, The Hive]
 notices:
-  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Ehkusa
@@ -13,13 +13,14 @@ notices:
 | Ehkusa | |
 |---|---|
 | name | Ehkusa[1] |
-| alias | The Emerald Scholar[1] |
 | aspect | Vesperian[1] |
 | affiliation | The Hive[1] |
 
 ## Description
 
-**Ehkusa** is the main character of the [book](Books.md) [Lament of Cirryn](Lament_of_Cirryn.md). She is a [Lifeweave](Lifeweave.md) scholar of [The Hive](The_Hive.md), who was sent out on a mission with 2 other scholars to revive [Cirryn](Cirryn.md) by a hivelord [Ximac Diri](Ximac_Diri.md).[\[1\]](#cite-note-lament-1)
+**Ehkusa** was the main character of the [book](Books.md) [Lament of Cirryn](Lament_of_Cirryn.md).
+
+She was a [Lifeweave](Lifeweave.md) scholar of [The Hive](The_Hive.md), who was sent out on a mission with 2 other scholars to revive [Cirryn](Cirryn.md) by a hivelord [Ximac Diri](Ximac_Diri.md).[\[1\]](#cite-note-lament-1)
 
 In the end, the mission ends in partial success, with [Cirryn](Cirryn.md) coming back to life, but going rogue and wreaking havoc in the Greathive.
 
@@ -29,5 +30,5 @@ She also has a deceased friend, [Ryrda](Ryrda.md), a part of who's mask she alwa
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-lament-1-0) [1.1](#cite-ref-lament-1-1) [1.2](#cite-ref-lament-1-2) [1.3](#cite-ref-lament-1-3) [1.4](#cite-ref-lament-1-4) [1.5](#cite-ref-lament-1-5) [1.6](#cite-ref-lament-1-6) [Lament of Cirryn](Lament_of_Cirryn.md)
+1.  ↑ [1.0](#cite-ref-lament-1-0) [1.1](#cite-ref-lament-1-1) [1.2](#cite-ref-lament-1-2) [1.3](#cite-ref-lament-1-3) [1.4](#cite-ref-lament-1-4) [1.5](#cite-ref-lament-1-5) [Lament of Cirryn](Lament_of_Cirryn.md)
 2.  [↑](#cite-ref-2) [God in the Machine](God_in_the_Machine.md)

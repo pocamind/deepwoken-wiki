@@ -1,6 +1,6 @@
 ---
 title: Fragments of Else
-revid: 183733
+revid: 184174
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Else
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
@@ -27,13 +27,13 @@ of [Vow of Iron](Vow_of_Iron.md).
 
 ## Overview
 
-Fragments of Else acts as the counterpart to [Fragments of Self](Fragments_of_Self.md). Players are sent to it whenever they die in [The Depths](<The_Depths_(Vow_of_Iron).md>), choose to wipe their [Vow of Iron](Vow_of_Iron.md) character in the main menu, or selecting Obliteration in Trial of One.
+Fragments of Else acts as the counterpart to [Fragments of Self](Fragments_of_Self.md). Players are sent to it whenever they die in [The Depths](<The_Depths_(Vow_of_Iron).md>), choose to wipe their [Vow of Iron](Vow_of_Iron.md) character in the main menu, or selecting Obliteration in [Trial of One](Trial_of_One.md).
 
 ## Contents
 
 ### Glimmers of Return
 
-Located before the [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md), a beam of light emanating from the center of the Fragments of Else that allows you to return to the Surface by paying varying amounts of Robux [Robux](https://roblox.fandom.com/wiki/Robux), the amount depending on the [Power](Power.md) level of your character.
+Located before the [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md), a beam of light emanating from the center of the Fragments of Else that allows you to return to the Surface by paying varying amounts of Robux [Robux](https://roblox.fandom.com/wiki/Robux), the amount depending on the [Power](Power.md) level of your character; it is 80 [Robux](https://roblox.fandom.com/wiki/Robux) for Power levels 1-5, 400 [Robux](https://roblox.fandom.com/wiki/Robux) for Power levels 6-10, 800 [Robux](https://roblox.fandom.com/wiki/Robux) for Power levels 11-15 and 1000 [Robux](https://roblox.fandom.com/wiki/Robux) for Power levels 16-20.
 
 ### Reclaimer of the Recollection
 

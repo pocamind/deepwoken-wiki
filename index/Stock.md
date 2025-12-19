@@ -1,6 +1,6 @@
 ---
 title: Stock
-revid: 184129
+revid: 184165
 source: https://deepwoken.fandom.com/wiki/Stock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Vow of Iron Exclusive, NPCs, Quests]
@@ -27,7 +27,7 @@ Stock is a [Ganymede](Ganymede.md) NPC. He is collecting explosive boxes found i
 
 Stock is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircase leading to his room, which is filled with explosive boxes, while he sits on the pavement.
 
-## Dialogud
+## Dialogue
 
 **Base Dialogue:**
 
@@ -59,7 +59,7 @@ Stock is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 <table>
 <tbody>
 <tr>
-  <td>colspan="1" style="color:#32CD32;" |Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
   <td>Aye, thanks for the help. The <a href="Glossary.md#the-central-authority">Authority</a> better start sending some help before we start declining their firearm contracts.</td>

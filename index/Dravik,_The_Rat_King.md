@@ -1,9 +1,9 @@
 ---
 title: "Dravik, The Rat King"
-revid: 183988
+revid: 184185
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive]
+categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
 ---
 
 # Dravik, The Rat King
@@ -102,10 +102,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
     -   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?"
     -   **Dravik will gain immunity to mantras and reflect all mantra damage back to you.**
     -   Dravik will also gain a circle of light around him.
-
-## Dialog (Post-fight)
-
-TBA
 
 ## Gallery
 

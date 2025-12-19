@@ -1,6 +1,6 @@
 ---
 title: Badges
-revid: 170028
+revid: 184194
 source: https://deepwoken.fandom.com/wiki/Badges
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Deepwoken]
@@ -50,7 +50,15 @@ _Grants a free Character Slot."_
  | [W Rank](https://www.roblox.com/badges/2148083573/W-Rank) |  | _"Achieve a W Rank Legacy. No shadows can dim your light."_ |
 | 
 
- | [Chain of Perfection](Talent_Quests.md) |  | _"Defeat a formidable foe on your own without taking any damage. Unlocks the Echo Talent "Chain of Perfection"."_ |
+ | [Chain of Perfection](https://www.roblox.com/badges/2641164574925504/Chain-of-Perfection) |  | _"Defeat a formidable foe on your own without taking any damage. Unlocks the Echo Talent "Chain of Perfection."_ |
+| 
+
+ | [Memory Surpassed](https://www.roblox.com/badges/2089071245865412/Memory-Surpassed) |  | _"Defeat the [Lord Regent](<Zi'eer,_the_Fourth_Prophet.md>) in the [Vow of Iron](Vow_of_Iron.md)._
+
+  
+_Grants a free Character Slot."_
+
+ |
 
 ## List of Unobtainable Badges
 
@@ -68,4 +76,4 @@ _Grants a free Character Slot."_
  | [Green Threshers](https://www.roblox.com/badges/633624241279004/Green-Threshers) |  | _"You put your life on the line for the Green Threshers."_ | 16,830 |
 | 
 
- | [Blue Skippers](https://www.roblox.com/badges/460156300001659/Blue-Skippers) |  | _"You put your life on the line for the Blue Skippers."_ | 16,235 |
+ | [Blue Skippers](https://www.roblox.com/badges/460156300001659/Blue-Skippers) |  | _"You put your life on the line for the Blue Skippers._ | 16,235 |

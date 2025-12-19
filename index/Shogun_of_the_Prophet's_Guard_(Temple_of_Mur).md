@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 184014
+revid: 184160
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -12,7 +12,7 @@ notices:
 
 | Shogun of the Prophet's Guard (Temple of Mur) | |
 |---|---|
-| health | ? |
+| health | 4000 |
 | drops | 2 Knowledge, 2,000 Notes, Vibrant Gem, Pluripotent Alloy, Ardour Manifestation, Memento Talents |
 | weapon | Odachi |
 | moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish, Low Cleave, Shogun's Brutality, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance |

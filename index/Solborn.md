@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 183785
+revid: 184186
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Solborn | |
 |---|---|
 | description | Worthy of bonding with a phoenix, their heart kept an unquenchable flame alight. |
-| unlock | Be defeated by Zi'eer, the Fourth Prophet after destroying his throne |
+| unlock | Destroy the throne of Zi'eer, the Fourth Prophet and survive phase 1. |
 | final attributes | 120 Flamecharm, 40 Strength, 30 Fortitude, 40 Agility, 35 Intelligence |
 | final traits | 7 Songchant, 4 Erudition, 3 Dexterity, 2 Proficiency, 2 Vitality |
 | aspect | Heliodar |
@@ -44,3 +44,4 @@ This content is not accessible outside of this gamemode.
 | Talent | Card Description | Effect | Unlock method |
 | --- | --- | --- | --- |
 | Heliodar Wings | Take Flight. | Gives a Talent tool that allows you to fly. This flight will passively drain your Heartfire Gauge/ | Defeat the [Shogun Captain](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) |
+| Ignition Rite | Landing fire attacks with the phoenix summoned regenerates Heartfire |  | Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md) |
