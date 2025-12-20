@@ -1,9 +1,9 @@
 ---
 title: Sachan Shisui Kobura
-revid: 184530
+revid: 184546
 source: https://deepwoken.fandom.com/wiki/Sachan_Shisui_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---

@@ -1,6 +1,6 @@
 ---
 title: The Covenant of Flame
-revid: 173873
+revid: 184578
 source: https://deepwoken.fandom.com/wiki/The_Covenant_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages requiring a cleanup, Factions, The Covenant of Flame]
@@ -13,7 +13,7 @@ notices:
 
 | The Covenant of Flame | |
 |---|---|
-| goals | Worshipping Amorus Pleeksty, Learning the ways of Flamecharm |
+| goals | Worshipping Amorus Pleeksty, Learning the ways of Flamecharm, Fighting the Deep |
 
 ## Description
 

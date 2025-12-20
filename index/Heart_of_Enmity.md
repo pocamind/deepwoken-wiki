@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 183463
+revid: 184595
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -60,7 +60,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  |  |
 | 
 
-**Sadist's Fury**  
+**Sadistic Fury**  
 (★★☆)
 
  | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.

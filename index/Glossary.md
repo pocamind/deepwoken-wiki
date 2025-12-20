@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 184130
+revid: 184582
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -170,7 +170,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md)
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Nimea](Nimea.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Nimea](Nimea.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -253,7 +253,7 @@ Dialogue: [Ezra](Ezra.md) | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glo
 -   A Goddess worshipped by many in the [Etrean Luminant](#the-etrean-luminant).
 -   Many believe that Mur was responsible for bringing the knowledge of [Murmurs](#soul-murmur) to the Kingdom of Etrea.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [High Monk Junsui](High_Monk_Junsui.md), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [High Monk Junsui](High_Monk_Junsui.md), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
 
 -   As with many Gods, the contemporary understanding is that Mur may have been a [Celestial](#the-celestials).
 

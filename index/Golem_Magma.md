@@ -1,32 +1,28 @@
 ---
 title: Golem Magma
-revid: 184483
+revid: 184562
 source: https://deepwoken.fandom.com/wiki/Golem_Magma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Vow of Iron Exclusive, Monsters]
 ---
 
 # Golem Magma
 
 Variants: [Golem](Rock_Golem.md)
 
-“ One by one, the townsfolk went missing. Every time, great big tracks were left in the mud. The kind his stone men leave. ”
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
-― Alastir
-
-  
-_Also referred to as Erisia Golem, Duke's Golems, or simply, Golems._ Template:Creature Infobox V3
+Template:Creature Infobox V3
 
 ## Description
 
-**Rock Golems**, referred to as **Stonelife Golems** in the [Bestiary](Bestiary.md), are large, bulky stone constructs with a distinct glowing white core, and three peculiar stone discs on their "stomach" and "kneecaps." Their bodies look as though they're fragmented, but they remain intact regardless. They are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). After the Duke found the Forge of Sin, the once protectors of the island turned on its inhabitants, now turned into mindless husks who do nothing but attack anything they see.
+**Magma Golems** are a variation of **Stonelife Golems**, they share their appearance with [Rock Golems](Rock_Golem.md) with a few differences: they are a bit darker and their core is yellow, unlike their originators, whose core is white. The original [Stonelife Golems](Rock_Golem.md) are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). Though, the origin of Golem Magmas is currently unknown.
 
-Rock Golems are only found in [Upper Erisia](Upper_Erisia.md), commonly in [Burning Stone Gardens](Burning_Stone_Gardens.md), and they can also be found through the following events:
+There is only one Golem Magma currently found: It has a static spawn in [Saramaed Summit (Vow of Iron)](<Saramaed_Summit_(Vow_of_Iron).md>).
 
--   **Rock Golem** fighting a [Megalodaunt](Megalodaunt.md) ([Upper Erisia](Upper_Erisia.md))
--   **Rock Golem** found at the final wave of the Bandit Invasion ([Erisor's Church](<Erisor's_Church.md>))
-
-In combat Rock Golems are very hardy, having moderately high health and high slash resistance. Despite this, their attacks are relatively predictable and easy to punish, its flashiest attacks are the easiest to exploit, and the remaining ones are very easy to avoid.
+In combat Golem Magmas are very hardy, having moderately high health and high slash resistance. Although, they should not pose much threat to an experienced player.
 
 ## Attacks
 
@@ -108,20 +104,6 @@ In combat Rock Golems are very hardy, having moderately high health and high sla
 | --- | --- | --- |
 | Crushing Stomp |  | A Golem ends its opponent's life by delivering a stomp onto their bodies. This happens in less than a second. This also executes any downed enemies nearby. |
 
-## Tips
-
--   Occasionally a [Megalodaunt](Megalodaunt.md) (or [Terrapod](Terrapod.md)) will spawn near a Golem, causing a fight to break out. It's a good idea to use ranged mantras to sneak in a bit of EXP and when one loses, go in for the kill on the other as it will be weakened from the fight.
--   Do not try to block it's **Spinning** attack, as it will shred your posture quickly. However, parrying said move gives a lot of EXP, making it a sort of risk/reward. The best way to dodge this is to run since he will be slowed when doing this and you can run from him. Additionally, parrying the spinning attack with a weapon enchanted with [Providence Thorns](<Providence's_Thorns.md>) makes it way easier to kill.
--   When parrying its **spinning** attack, sometimes it will force you to start blocking again, to combat this, just start parrying again when you start blocking
--   The uppercut is actually not an instant blockbreak; however, you need a lot of posture to block it.
--   It is possible to block the **Laser** using the pillars created by the [Relic Axe](Relic_Axe.md)'s critical attack
-
 ## Trivia
 
--   [Marcus](Marcus.md) seems to be related to the Golems, although he doesn't attack you on sight, drinks coffee and is infinitely more cool than the other Rock Golems as a result.
--   The **Spinning** attack can destroy the gate in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) and terrain around it, like trees.
--   You are able to interact with some of these golems, though nothing happens upon pressing the E key.
--   These are known to attack you regardless if you have the Mute Regalia or not, likely due to their nature as inorganic constructs, rather than animals.
--   Rock Golems will always win their fights against Megladounts, due to having more health and do more damage and attacks.
--   There are giant Golem statues placed along [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), suggesting that there could have been much stronger golems.
--   One of the several mobs that gives one Knowledge upon killing them for the first time.
+-   Cores of these golems are yellow, but the laser beam itself is white.

@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 184153
+revid: 184607
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
@@ -69,7 +69,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  |  |
 | 
 
-**Sadist's Fury**
+**Sadistic Fury**
 
 (★★☆)
 
@@ -82,10 +82,12 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 (☆☆☆)
 
- | The Heart of Enmity quickly darts from one side to another, often following up with an attack. |
+ | The Heart of Enmity quickly darts from one side to another, often following up with an attack.
+
+ |
 | 
 
-**Sadist's Edge**
+**Sadistic Edge**
 
 (★★☆)
 
@@ -128,11 +130,13 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  |  |
 | 
 
-**Heretics Flight**
+**I Shall Make This Agony Everlasting, Your Arrogance Must Pay The Price Of This Bargain**
 
 (★★★)
 
- | The Heart of Enmity charges towards the player, sending them upwards before taking flight and crashing down at them, dealing major damage.
+ | The Heart of Enmity, filled with contempt, makes an unparryable charge towards the player, sending them upwards before slowly taking flight and crashing down at them, dealing major damage.
+
+-   Only the secondary slam is parryable, not the charge.
 
  |  |
 
@@ -225,3 +229,4 @@ TBA
 ## Trivia
 
 -   The reason as to True Heart of Enmity's health being lower than Heart of Enmity is unknown, but maybe because of the amount of drownings that happened over time has given him a buff to the point where more than one person have to beat him.
+    -   (the health change is more than likely just to make the fight more viable solo and has little to no lore implications)

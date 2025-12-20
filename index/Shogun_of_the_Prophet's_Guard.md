@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 184254
+revid: 184592
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies]
@@ -12,7 +12,7 @@ notices:
 
 | Shogun of the Prophet's Guard | |
 |---|---|
-| health | ? |
+| health | 1000 |
 | drops | 2 Knowledge, 1,000 Notes |
 | weapon | Odachi |
 | moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish, Low Cleave, Shogun's Brutality, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance |

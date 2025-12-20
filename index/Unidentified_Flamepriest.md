@@ -1,6 +1,6 @@
 ---
 title: Unidentified Flamepriest
-revid: 174668
+revid: 184610
 source: https://deepwoken.fandom.com/wiki/Unidentified_Flamepriest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles]
@@ -15,7 +15,7 @@ notices:
 
 ## Description
 
-A Flameperiest of renown forged the [Worshipper Longsword](Worshipper_Longsword.md) in dedication to the forge used to create the blade.[\[1\]](#cite-note-wl-1)
+A Flamepriest of renown forged the [Worshipper Longsword](Worshipper_Longsword.md) in dedication to the forge used to create the blade.[\[1\]](#cite-note-wl-1)
 
 ## Trivia
 

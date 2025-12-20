@@ -1,14 +1,18 @@
 ---
 title: Golem Prime
-revid: 184482
+revid: 184559
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Pathfinder Exclusive, Monsters]
 ---
 
 # Golem Prime
 
 Variants: [Golem](Rock_Golem.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Template:Creature Infobox V3**Also known as Duke Golems or Prime Golems.**
 

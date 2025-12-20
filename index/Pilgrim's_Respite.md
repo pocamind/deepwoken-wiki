@@ -1,6 +1,6 @@
 ---
 title: "Pilgrim's Respite"
-revid: 166719
+revid: 184573
 source: https://deepwoken.fandom.com/wiki/Pilgrim's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Floor of the Second Layer]
@@ -9,8 +9,6 @@ categories: [Locations, Locations in the First Floor of the Second Layer]
 # Pilgrim's Respite
 
 LocationL Pilgrim's Respite LocationR
-
-TERRITORY OF
 
 Before continuing on your journey, rest and gather your mind.
 

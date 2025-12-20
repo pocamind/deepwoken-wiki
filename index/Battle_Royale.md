@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 181429
+revid: 184539
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Game Modes]
@@ -10,93 +10,102 @@ notices:
 
 # Battle Royale
 
-**Battle Royale** is a [weekends only](Doubled_Rates_Weekends.md) gamemode that takes place on Kingmaker's Isle in the Open Sea. Players spawn with nothing but rags, a flimsy glider, and a weak sword, and must jump off the [Floating Keep](The_Floating_Keep.md) to gather loot, Talents, mantras, and more to be the last pair/person standing while obtaining the most points.
+**Battle Royale** is a [weekends only](Doubled_Rates_Weekends.md) gamemode that takes place on [Kingmaker's Isle](<Kingmaker's_Isle.md>) in the [Open Sea](Open_Sea.md). Players spawn with nothing but the bare essentials and must jump off from [The Floating Keep](The_Floating_Keep.md) into [Kingmaker's Isle](<Kingmaker's_Isle.md>) to gather loot, [Talents](Talents.md), [Mantras](Mantras.md) and more to fight their way through the rest to be the last person standing.
 
-There is no rewards or punishments in Battle Royale mode. This mode is only active on weekends.
+There are no rewards or punishments in the Battle Royale mode.
 
 ## Mechanics
 
--   A zone similar to the one seen in [Chime of Conflict](Chime_of_Conflict.md) is present and functions as such.
--   Stats are normallized: everyone get 50 main stat, 100 weapon and 50 attunement.
--   Loot can be found around the map.
--   Every kill rewards a point and the final round gives double points, the group with the most points wins.
--   You steal all of your opponents Talents (Including mantras, and Oaths) upon executing them.
--   Every once in a a while a purple/pink meteor will fall that will grant a bell to you if you interact with them similar to the totems or healing shrines, it takes a while for the action to take in effect **(BE WARNED THAT YOU ARE HIGHLY VULNERABLE WHILE DOING THIS ACTION)**
--   You always start with the callout Talent.
-
-This island serves as the map for Battle Royale.
+-   A shrinking zone similar to the one seen in [Chime of Conflict](Chime_of_Conflict.md) is always present and functions as such, and is referred to as "the storm". It always closes in on a random location.
+-   You cannot bring a character slot, and instead spawn with a fresh character with a randomized [Aspect](Aspects.md), a [Flimsy Glider](Gliders.md), the [Callout](Talents.md#callout) [Talent](Talents.md), a [Sword](<Sword_(weapon).md>), the [Stranded](Stranded.md) [Outfit](Outfits.md), and fixed [Attributes](Attributes.md).
+    -   These Attributes are: 50 on every Core Attribute, 100 on every Weapon Attribute and 50 on every Attunement Attribute.
+-   Loot can be found scattered around the map in set locations, with better loot closer to the edge of the map.
+-   [Talents](Talents.md) and [Mantras](Mantras.md) have to be obtained from Deep Totems.
+-   [Oaths](Oaths.md) are obtained by consuming 3 [Oath Shards](Oath_Shards.md), which will give you a random Oath, with further Oath Shards progressing your given Oath. All Oaths are available except [Saltchemist](Oath%253A_Saltchemist.md), [Silentheart](Oath%253A_Silentheart.md), [Linkstrider](Oath%253A_Linkstrider.md), [Saintsworn](Oath%253A_Saintsworn.md), [Soulbreaker](Oath%253A_Soulbreaker.md), and [Bladeharper](Oath%253A_Bladeharper.md).
+-   You steal all of your opponent's [Talents](Talents.md), [Mantras](Mantras.md) and [Oath](Oaths.md) (if you didn't already have one) upon executing them.
+-   Every once in a while a [Resonant Dawn Meteor](Random_Encounters.md#resonant-dawn) will fall on a random location that will grant a random [Resonance](Resonance.md) to the player that interacts with it, however this takes a while as it locks the user in a lengthy animation in which they cannot act and can be interrupted by other players via damage, making them have to interact with it again if interrupted.
+    -   Battle Royale's Resonant Dawn does not spawn a [Star Knight](Star_Knight.md).
+-   Dying will set you to spectate your killer, letting you switch around who to spectate or to return to the Battle Royale lobby.
+-   The game "ends" once there is only one group standing. _Have no fear, and reach the top._
 
 ## Locations
 
+### [Kingmaker's Isle](<Kingmaker's_Isle.md>)
+
+The very map of Battle Royale. In-between sections there is a small town, with plenty of houses.
+
+-   **Highly abundant loot, making it a hotspot for looters and fighters.**
+
 ### [King's Colosseum](<King's_Colosseum.md>)
 
-The center point of the map, this is the location the zone encloses.
+A large open colosseum at the center point of the map.
 
--   **Little to no loot, High risk, one healing shrine in center**
+-   **Far too little loot and far too much open space, making players near it highly vulnerable.**
 
-### Valiant Valley
+### [Pillar Peak](Pillar_Peak.md)
 
-Contains a small town,
+A giant temple, near King's Colosseum.
 
--   **Abundant loot, Possibly High risk**
+-   **Handful of loot, both inside, on the roof, and on a nearby pillar.**
 
-### Yarix Yard
+### [Hall of Heroes](Hall_of_Heroes.md)
 
-On the edge of the King's Colosseum, looks like a marketplace.
+Another temple opposite of Pillar Peak, with large statues of figures.
 
-**Has at least one healing shrine on the outskirts of the marketplace. Has a fair amount of loot and shrines for its small size.**
+-   **Decent amount of loot all throughout, with the many trees and structures allowing you to sneak by.**
 
-### Open Sea (Coastal areas)
+### [Yarix Yard](Yarix_Yard.md)
+
+On the edge of a cliff near the King's Colosseum and Pillar Peak, a small market is located.
+
+**Has a fair amount of loot for its small size, but it can get drained quickly.**
+
+### [Valiant Valley](Valiant_Valley.md)
+
+A large valley on the outskirts of the map, featuring many [Lifevents](Lifevents.md) and cliffs.
+
+-   **Lacking loot with dead ends and much ground to run on.**
+
+### [Mount Mavros](Mount_Mavros.md)
+
+Higher up within the mountains is Mount Mavros, a small section with a few houses and many cliffs.
+
+-   **Medium amount of loot, with tight spaces for combat.**
+
+### [Open Sea](Open_Sea.md) (Coastal areas)
 
 A small dock rests on the coast, closer to sea level.
 
--   **Pros: Abundant loot, schematics, mantra shrines and Talent shrines. Around two armor chests and two weapons.**
-
--   **Cons: No healing spots, may get swallowed up by storm quickly, in endgame, people may opt for combat in water.**
-
-  
-Please note the island is located in the [Open Sea](Open_Sea.md).
+-   **Abundant loot, but no Healing Orbs and it either tends to get crowded near the end-game or closes you off from the rest.**
 
 ## Loot
 
 ### Chests
 
--   Gray chests contain expert outfits
--   Orange chests contain master outfits
--   Regular chests contain all equipment types (boots, body, earrings, rings, helmets, cowls) and [Oath Shards](Oath_Shards.md), which you can consume 3 of do be granted a random Oath and random Talent/mantra of that Oath (Grants any Oath except [Saltchemist](Oath%253A_Saltchemist.md), [Silentheart](Oath%253A_Silentheart.md), [Linkstrider](Oath%253A_Linkstrider.md), [Saintsworn](Oath%253A_Saintsworn.md), [Soulbreaker](Oath%253A_Soulbreaker.md), and [Bladeharper](Oath%253A_Bladeharper.md))
+-   Gray chests contain [Expert Outfits](Outfits.md#expert), with the Outfit's name above them.
+-   Orange chests contain [Master Outfits](Outfits.md#master), with the Outfit's name above them.
+-   Regular chests contain all [Equipment](Equipment.md) types and [Oath Shards](Oath_Shards.md).
 
-### Deep totems
+### Deep Totems
 
--   Regular totems give [Talents](Talents.md)
--   Purple colored totems give [Mantras](Mantras.md)
--   Red colored totems give [rare Talents](Talents.md)
+Deep Totems are interactable entities that resemble [Deep Shrines](Deep_Shrines.md), albeit much smaller, and are the main way to get [Talents](Talents.md) and [Mantras](Mantras.md). Interacting with them will lock you in a brief animation before giving you its contents.
 
-### Healing orbs
+-   Regular/gray Totems give random Common Talents.
+-   Red colored Totems give random Rare Talents.
+-   Purple colored Totems give random Mantras.
 
-Green orbs emitting gale trap like particles can be found around the map, these will heal about a bar of hp on use.
+### Healing Orbs
+
+Green orbs floating above small pedestals can be found around the map, interacting with these will heal you for 20% of your health after a brief action-locking animation, similarly to Deep Totems.
 
 ### Weapons
 
-Various weapons can be found around the map floating, some of the weapons found include:
-
--   Normal medium weapons
--   Normal light weapons
--   Normal Heavy weapons
--   [All hero blade variants](Hero_Blades.md)
--   All legendary weapons\* besides any released after April 8th 2025 because the devs are STILL lazy fucks
-
--   Participants start with a [base](<Sword_(weapon).md>) [sword](<Sword_(weapon).md>) and a [Flimsy Glider](Gliders.md) which can only be used once after its initial use to drop from the spawn. It also falls faster than a normal glider and will auto deploy if once you go under a certain height threshold.
-    -   Flimsy Gliders auto-deploy when you're about to hit the ground.
--   Only one group can win.
--   Better loot can be found on the edges of the map, making it only accessible early game due to zone.
--   Upon death you are forced to spectate an alive teammate (if possible) or your body
+All of the game's [Weapons](Weapons.md) can be found scattered around the map, interacting with one will give you a confirmation prompt to equip it. The only Weapons that cannot be found are those added after April 8th 2025.
 
 ## Trivia
 
--   The music for this area's loading screen is [Blood And Thunder](Deepwoken_OST.md#blood-and-thunder) by Naktigonis
--   Every location on the map is territory of the [Hundred Legions](The_Hundred_Legions.md). This likely indicates that the Battle Royale takes place in the Western Luminant.
--   Battle Royale is separate from the main game, you cannot choose a slot.
--   You cannot obtain Warrior's Respite from totems.
--   If you spawn with the Tiran aspect in the lobby you still gain the feather glider which retains its infinite uses and falls slower than the flimsy glider.
--   Battle Royale was accessible to youtubers during the Content Creator Royale on July 1, 2023 and it was released to the public on August 25, 2023 for limited-time testing.
+-   The music for this mode's loading screen is [Blood And Thunder](Deepwoken_OST.md#blood-and-thunder) by Naktigonis.
+-   Every location on the map is territory of [The Hundred Legions](The_Hundred_Legions.md). This is because Battle Royale takes place in the [Western Luminant](Luminants.md#western-luminant).
+-   If you spawn with the [Tiran](Tiran.md) [Aspect](Aspects.md) you still gain the Feathered Glider, which retains its infinite uses and falls slower than the Flimsy Glider.
+-   Battle Royale was originally only accessible to Deepwoken YouTubers during the Content Creator Royale on July 1st, 2023 and it was released to the public on August 25th, 2023 for limited-time testing.
 -   According to Agamatsu in his stream "[Official Deepwoken Youtuber Battle Royale](https://www.youtube.com/watch?v=eWXZPkM0Xpo&t=7909s)", the developers were supposedly debating whether or not to make this game mode public due to it potentially "being too much fun" and killing off the main game, thus they decided to restrict the game mode to only weekends.

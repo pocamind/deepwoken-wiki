@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 184466
+revid: 184599
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -625,6 +625,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Your opponent's blood percentage is shown as a red number.
     -   Your opponent's blood poisoning percentage is shown as a pink number.
     -   Prerequisite: 65 Bloodrend
+
+### Bloodrend Master
+
+-   Bloodrend Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Bloodrend to its fullest. (+10 Health)
+    -   Prerequisite: 75 Bloodrend
 
 ### Bloodrender
 
@@ -1461,6 +1466,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This is parryable, but is not blockable nor dodgeable due to hitstun.
     -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) OR Warding Radiance
 
+### Flamecharm Master
+
+-   Flamecharm Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Flamecharm to its fullest. (+10 Health)
+    -   Prerequisite: 75 Flamecharm
+
 ### Flamecharmer
 
 -   Flamecharmer \[Flamecharm Exclusive\] - Grants you the ability to command Fire as a Flamecharmer.
@@ -1518,6 +1528,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Glacial Mobility \[Common Talent, Frostdraw Exclusive\] - Cast while slide-jumping to perform a running attack with your ice sabers.
     -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.
     -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility.
+
+### Frostdraw Master
+
+-   Frostdraw Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Frostdraw to its fullest. (+10 Health)
+    -   Prerequisite: 75 Frostdraw
 
 ### Frostdrawer
 
@@ -1587,6 +1602,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _Legion Kata_ \[Common Talent\] - Gain the ability to use the Legion's martial arts.
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
     -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Rec in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE REC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
+
+### Galebreathe Master
+
+-   Galebreathe Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Galebreathe to its fullest. (+10 Health)
+    -   Prerequisite: 75 Galebreathe
 
 ### Galebreather
 
@@ -2085,6 +2105,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   **Tacet Minimization** \[Faction Exclusive\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, [Murmur: Tacet](Murmur%253A_Tacet.md)
 
+### Ironsing Master
+
+-   Ironsing Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Ironsing to its fullest. (+10 Health)
+    -   Prerequisite: 75 Ironsing
+
 ### Ironsinger
 
 -   Ironsinger \[Common Talent\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
@@ -2101,7 +2126,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Master Ironsinger \[Common Talent\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
     -   Obtained at 50 Ironsing
 
--   **Alloy of the Heavens** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture attack from mobs reduced by 50%
+-   Alloy of the Heavens \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture attack from mobs reduced by 50%
     
     -   Reduces posture damage taken from mobs by 50%.
     -   Prerequisites: [Power](Power.md) 10, 200, [Iron Vessel](Iron_Vessel.md) Memento
@@ -2540,7 +2565,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### [Murmur](Murmur.md)
 
--   _**[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H._
+-   **[Murmur: Ardour](Murmur%253A_Ardour.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
+    -   While active your weapon's swing trail will become purple and your weapon will emit a soft hum sound effect.
+        -   If you have [Soulbreaker](Oath%253A_Soulbreaker.md), your weapon will passively emit purple lightning while its unsheathed.
     -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
     -   Gain a +7.5% damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
     -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
@@ -2548,7 +2575,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Ardour's activation keybind can be configured in settings.
     -   Prerequisite: Kill the [Dread Serpent](Dread_Serpent.md) or [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) OR talk with the [Old Stranger](Old_Stranger.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   **Ardour Scream** \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
+-   Ardour Scream \[Common Talent\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 12.5% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
     -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey.
         -   Ardour's keybind can be configured in settings, changing the key you'll need to hold in order to activate Ardour Scream (default H).
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
@@ -2559,14 +2586,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Can stack with m1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills.
     -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   _**[Murmur: Rhythm](Murmur%253A_Rhythm.md)**_ _\[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched._
+-   **[Murmur: Rhythm](Murmur%253A_Rhythm.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
     -   Rhythm's activation keybind can be configured in settings.
     -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
     -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
     -   **Disabled on players with Not a Scratch.**
     -   Prerequisite: Complete the Quest in the [Second Layer](Second_Layer.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
 
--   _**[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched._
+-   **[Murmur: Tacet](Murmur%253A_Tacet.md)** \[Common Talent, Unlockable Talent\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
     -   Tacet's activation keybind can be configured in settings.
     -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
     -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
@@ -3132,7 +3159,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Shadowcast Master
 
--   _Shadowcast Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Shadowcast to its fullest. (+10 Health)_
+-   Shadowcast Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Shadowcast to its fullest. (+10 Health)
     -   Prerequisite: 75 Shadowcast
 
 ### Shadowcaster
@@ -3376,24 +3403,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
     -   To progress the Oath, make a deal with any with any [deep shrine](Deep_Shrines.md) that costs Knowledge.
 
--   (OATH) Murmur: Ardour \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables one to channel the murmur into raw strength. Press H.
-    -   Has a unique visual compared to base Ardour, your weapon crackling with purple and black lightning.
-    -   Increases outgoing M1 posture damage by 20% and reduces incoming posture damage by 15%. The posture damage buff also applies to criticals with the M1 tag.
-    -   Gain a +10% damage buff to M1s and criticals with the M1 tag. Additionally applies a +15% damage buff to M1s and criticals with the M1 tag that guardbreak.
-    -   Drains Ether while active. Ether drain scales inversely with your level, being entirely negated at power 20.
-    -   Ardour automatically deactivates if you have no Ether. This also happens upon using Ardour Scream.
-    -   Ardour's activation keybind can be configured in settings.
-    -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
-
--   (OATH) Ardour Scream \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Amplify your shout into a scream using Ardour, dominating weaker foes, Victims take 25% more damage and 50% more posture damage for 10s. (Tool in your inventory) (+9 Sanity).
-    -   Activated by utilizing the Ardour Scream tool in your inventory or holding and releasing your Ardour hotkey.
-        -   Ardour's keybind can be configured in settings, changing the key you'll need to hold in order to activate Ardour Scream (default H).
-    -   Takes 100% Ether to be used, therefore deactivating Ardour.
-    -   Instead of debuffing affected players and making them take 25% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
-    -   Doesn't apply insanity.
-    -   Will also combat tag anybody hit.
-    -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
-
 -   Soul Infusion \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
     -   Reduces Ardour Scream's minimum Ether to cast from 100% ether to 40%. It will still drain all of your Ether however.
     -   You automatically use Ardour Scream for free upon finishing an execution.
@@ -3401,16 +3410,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Purple lightning particles are left on knocked players after the secondary effect of this Talent procs.
     -   You perform grips much faster and have a unique grip animation. The grip animation approximately takes 1.8 seconds to complete, which is even faster than using [Reaper](Blood_Scourge.md).
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
-
--   (OATH) Murmur: Tacet \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to suppress their own murmur. Press T while crouched.
-    -   Tacet's activation keybind can be configured in settings.
-    -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
-    -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have. However, it's bugged where if you go above 100% Stealth, the bubble gets larger.
-    -   In PvE you become effectively invisible at almost any range, sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
-    -   Tacet will be **disabled** during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
-    -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using Formless will instantly deactivate Tacet.
-    -   The Oath variant of Tacet cannot be used to obtain [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick).
-    -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
 
 -   Formless \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
     -   Grants a Talent tool that activates Formless on cast. After an animation and a fairly long delay, you will teleport to your cursor's location. Cannot teleport yourself outside of the range of your Tacet bubble.
@@ -3421,26 +3420,12 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Outside of Tacet's innate cooldown, the speed boost for activating it has no cooldown.
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
--   (OATH) Murmur: Rhythm \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
-    -   Rhythm's activation keybind can be configured in settings.
-    -   Pings all nearby Monsters, NPCs, and players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
-    -   **Disabled on players with Not a Scratch.**
-    -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
-
 -   Heart Reverb \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
     -   After activating Rhythm, it won't deactivate unless manually toggled or if you get hit.
     -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. This has an unknown cooldown. This highlight can be seen through walls and can detect players from very far away, even further than your Rhythm range.
     -   When someone would dodge through one of your attacks, their health and posture will be shown in text as a percentage.
     -   Unlike base Rhythm, the visual HP and posture percentages works on players with the Not a Scratch Talent.
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
-
--   (OATH) Spotter \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Marking enemies while in Rhythm will now indicate their health status to your allies.
-    -   Activated by using Callout (pressing Z).
-        -   Callout's keybind can be configured in settings.
-    -   **Disabled on players with Not a Scratch.**
-    -   **Cannot be used without the Callout Talent.**
-    -   Prerequisite: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md)
 
 ### Soverign of Slaughter
 
@@ -3779,6 +3764,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Overcharge \[Common Talent, Thundercall Exclusive\] - Your next dash after activating Static Blade is enhanced by lightning.
     -   Lightning Dashes increase your dash distance travelled by 2.3x and the duration of i-frames from rolling, but will end early if you attack.
     -   Prerequisite: Gathering Electricity
+
+### Thundercall Master
+
+-   Thundercall Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Thundercall to its fullest. (+10 Health)
+    -   Prerequisite: 75 Thundercall
 
 ### Thundercaller
 
@@ -4262,6 +4252,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).
     -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
+
+-   Treefelling Blow \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural. (+4 Carry Load)
+    -   Allows you to gain [Wood](Wood.md) when you destroy trees with [Strong Left](Attunement-less.md#strong-left).
+    -   Prerequisites: Use [Strong Left](Attunement-less.md#strong-left) on a tree and then speak to [Korin](Korin.md) or [Drefa](Drefa.md) to obtain the Treefelling Blow quest. Once you have the quest, destroy 5 more trees with Strong Left and return to the respective quest giver.
 
 ## Other
 

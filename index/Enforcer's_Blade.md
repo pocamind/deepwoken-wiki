@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 182767
+revid: 184591
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -52,6 +52,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   This item used to be significantly rarer than the Enforcer’s Axe, but after Enforcer variants were added it became much more common, equal to the Enforcer’s Axe and Enforcer’s Hammer
 -   The original Enforcer's Blade model was taken from a design off of Pinterest.
+-   The Enforcer's Blade can be dropped enchanted
 
 ## Version History
 
