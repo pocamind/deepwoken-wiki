@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 184255
+revid: 184632
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -32,12 +32,13 @@ This content is not accessible outside of this gamemode.
 To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on mystery boxes.
 
 -   **The locations of the mystery boxes that have been found so far are:**
-    -   Behind the [Derelict Highchurch](Derelict_Highchurch.md)
+    -   Inside the [Derelict Highchurch](Derelict_Highchurch.md), where the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) spawns
     -   2 Near the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
     -   1 Under the stairs near the [Etrean Royalists](Etrean_Royalists.md) at the [Rat's Den](<Rat's_Den.md>).
-    -   1 On an island to the North (??) of [Meteor Isle](Meteor_Isle.md)
+    -   1 On an island to the Northeast of [Meteor Isle](Meteor_Isle.md)
     -   Inside a cell in the fort merit prison tower, about one floor up
     -   On top of the song seeker flame temple
+    -   An island west of [Etris (Vow of Iron)](<Etris_(Vow_of_Iron).md>)
 
 ## Available Mantras
 

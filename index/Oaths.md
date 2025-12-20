@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 183749
+revid: 184649
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -225,13 +225,13 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 -   The source of power of the Oath is something called "The Circle of Honor", it is not known if its related to the Central Authority or not, but they are confirmed to be the source and creators of the Warmaster Oath.
     
 
-**Time Magic:**
+**Voidhunter:**
 
-## Time Magic
+## Voidhunter
 
 Proof of Time Magic's existence and it being an "Oath"
 
--   An 'ability' used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'. Mentioned to be an Oath by Arch\_Mage.
+-   An oath used by the [Knives of Eylis](The_Knives_of_Eylis.md) to 'slow down time'.
 -   It is very likely to be the Oath mentioned by Eylis when you ask her about her Oath as a Voidwalker.
 -   It is not confirmed, but its very probably that this Oath can manipulate time in a very similar way as the Voidsea due to the relation of the Voidwalkers and the Voidsea, meaning, that instead like a "time magic" Oath, it could be more like a "Void Oath" where time manipulation is just one part of the Oath.
     

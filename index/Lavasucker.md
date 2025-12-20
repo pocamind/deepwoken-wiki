@@ -1,6 +1,6 @@
 ---
 title: Lavasucker
-revid: 184574
+revid: 184643
 source: https://deepwoken.fandom.com/wiki/Lavasucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -44,7 +44,3 @@ Template:Creature Infobox V3_Also referred to as Lava Bat or Magma Bat._
 | Name | Description |
 | --- | --- |
 | Shredder | Scratches opponent's stomach open with its talons, killing them. |
-
-## Tips
-
--   Their attacks, particularly Bite, have very strange hitboxes, making parrying them difficult. This, combined with its low damage, makes it more worthwhile to simply mash your basic attack until it dies.

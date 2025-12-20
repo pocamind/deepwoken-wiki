@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 184104
+revid: 184634
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -38,8 +38,12 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
   <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, or previous...</td>
 </tr>
 <tr>
-  <td>11-20</td>
+  <td>After defeating Rat King</td>
   <td><a href="True_Heart_of_Enmity.md">True Heart of Enmity</a></td>
+</tr>
+<tr>
+  <td>11-20</td>
+  <td>Two of the previous enemies</td>
 </tr>
 </tbody>
 </table>

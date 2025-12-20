@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 183808
+revid: 184620
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

@@ -1,6 +1,6 @@
 ---
 title: Starfield Tundra
-revid: 178390
+revid: 184646
 source: https://deepwoken.fandom.com/wiki/Starfield_Tundra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages with broken file links, Locations, Locations in the Etrean Luminant, Voidzones]
@@ -24,7 +24,7 @@ Starfield Tundra is a **Voidzone**, meaning you will be sent to [The Depths](The
 
 ## Star Tree
 
-The **Star Tree** is a large gathering of tree roots dotted with many glowing white stones. It is guarded by swarms of Carbuncles. This is where [Linkstriders](Oath%253A_Linkstrider.md) can collect Stardust to use for teleporting.
+The **Star Tree** is a large gathering of tree roots dotted with many glowing white stones. It is guarded by swarms of Carbuncles. [Stardust](Stardust.md) spawns here, used for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md).
 
 ## Maps
 

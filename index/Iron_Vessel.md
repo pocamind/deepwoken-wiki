@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 183813
+revid: 184626
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Unique Features
 
-Instead of taking any health damage, automatically block the hit and take posture damage instead. Parrying or Spitting gives back far less posture. Reaching full posture guard breaks you and causes you to receive **significantly increased damage from the attack that caused the guard break. This may pose to be fatal, depending on the attack.**
+Instead of taking any health damage, automatically block the hit and take posture damage instead, this posture is affected by armor and defense such as Isshin's Ring. Parrying or Spitting gives back far less posture. Reaching full posture guard breaks you and causes you to receive **significantly increased damage from the attack that caused the guard break. This may pose to be fatal, depending on the attack.** This may even pierce Death Nullifications such as [Memory Shards](Memory_Shard.md). All sources of healing are significantly reduced (e.g [Etris Flasks](Etris_Flask.md))
 
 ## Available Mantras
 

@@ -1,6 +1,6 @@
 ---
 title: Starfield Veldt
-revid: 180477
+revid: 184647
 source: https://deepwoken.fandom.com/wiki/Starfield_Veldt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Voidzones]
@@ -22,7 +22,7 @@ Starfield Veldt is a **Voidzone**, meaning you will be sent to [The Depths](The_
 
 ## Star Tree
 
-The **Star Tree** is a large gathering of tree roots dotted with many glowing white stones. It is heavily guarded by several Stone Knights. This is where [Linkstriders](Oath%253A_Linkstrider.md) can collect [Stardust](Stardust.md) to use for teleporting.
+The **Star Tree** is a large gathering of tree roots dotted with many glowing white stones. It is guarded by swarms of Carbuncles. [Stardust](Stardust.md) spawns here, used for obtaining the [Saltchemist](Oath%253A_Saltchemist.md) [Oath](Oaths.md).
 
 ## Notes & Trivia
 

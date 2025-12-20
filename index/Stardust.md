@@ -1,6 +1,6 @@
 ---
 title: Stardust
-revid: 176937
+revid: 184645
 source: https://deepwoken.fandom.com/wiki/Stardust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -20,19 +20,10 @@ _Not to be confused with the [Star Duster](Star_Duster.md), a piece of equipment
 
 ## Overview
 
-Stardust is a resource used by the [Linkstrider](Oath%253A_Linkstrider.md) [Oath](Oaths.md) to gate to fast travel to certain places on the map when beside a campfire. You unlock places by interacting with special meteors that are scattered around the map. They can be found on the Startrees in the [Starfield Tundra](Starfield_Tundra.md), [Starfield Veldt](Starfield_Veldt.md), and [Starfield Grove](Starfield_Grove.md).
-
-It is also used for the obtainment of the [Saltchemist Oath](Oath%253A_Saltchemist.md) and the first teleport with Linkstrider
+Currently does nothing, only used for the obtainment of the [Saltchemist Oath](Oath%253A_Saltchemist.md). They can be found on the Startrees in the [Starfield Tundra](Starfield_Tundra.md), [Starfield Veldt](Starfield_Veldt.md), and [Starfield Grove](Starfield_Grove.md).
 
 ## Trivia
 
--   Having no stardust, or if you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.."
-    -   Before 05/04/2024, teleporting to locations will require one stardust each time. After the update, you only need a stardust to travel to these location for the first time - thus making the process of completing Linkstrider only require 7 stardusts aside from grips.
--   This item cannot be passed down at the Hippocampal Pool in the Fragments of Self.
--   Current known teleportation locations are...
-    1.  Hygiea (Near [Songseeker Wilds](Songseeker_Wilds.md)).
-    2.  Eunomia (Near the [Lifevent](Lifevents.md) that allows you to glide down to [Starswept Valley](The_Starswept_Valley.md)).
-    3.  Ceres (Overlooking the path to the abandoned cabin below [Etris](Etris.md), on a black rocky outcrop).
-    4.  Europa (On the top part of the rocks overlooking the entrance to [Valley of Heroes](The_Valley_of_Heroes.md), to the right).
-    5.  Pallas (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s gate).
-    6.  Fortuna (Above [Erisor's Church](<Erisor's_Church.md>)).
+-   Previously used by the [Linkstrider](Oath%253A_Linkstrider.md) [Oath](Oaths.md) to fast travel to certain places on the map when beside a campfire, currently not required. (Unknown when changed)
+-   If you're currently holding a stardust will prompt you with "The flame lacks fuel to consume you.." (Can someone check this?)
+-   This item cannot be passed down at the Hippocampal Pool in the Fragments of Self

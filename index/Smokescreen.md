@@ -1,6 +1,6 @@
 ---
 title: Smokescreen
-revid: 170750
+revid: 184640
 source: https://deepwoken.fandom.com/wiki/Smokescreen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -29,7 +29,7 @@ When used, a cloud of smoke appears around the user. This smoke cloud hides the 
 
 Pressing C will activate **Smokescreen**.
 
-**Smokescreen** will near instantly generate an extremely dark cloud of smoke that makes the user invisible while inside, and makes hostile mobs lose aggro on the user. **Smokescreen will NOT cause mobs to lose aggro on the user inside of Depths Trial**.
+**Smokescreen** will near instantly generate an extremely dark cloud of smoke that makes the user invisible while inside, and makes hostile mobs lose aggro on the user. ~**Smokescreen will NOT cause mobs to lose aggro on the user inside of Depths Trial**.~ (Currently Bugged as of 12/20/25 to allow it to de-aggro in depths trial.)
 
 **Note that smokescreen does NOT grant the user invincibility frames.**
 

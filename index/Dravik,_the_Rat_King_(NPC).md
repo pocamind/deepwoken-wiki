@@ -1,6 +1,6 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 184576
+revid: 184621
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs]
@@ -67,7 +67,7 @@ A phantom of the Inheritor's victory - the late Dravik, the Rat King is located 
   <td></td>
 </tr>
 <tr>
-  <td>No need to thank me. You have (accidentally clicked out of it I can't even lie, don't smite me yall).</td>
+  <td>No need to thank me. You have a long road ahead of you. I look forward to seeing your dance with the Regent. Should I be able to, I will offer help wherever I can.</td>
   <td></td>
 </tr>
 </tbody>
