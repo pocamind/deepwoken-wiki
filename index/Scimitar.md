@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 181198
+revid: 184408
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | Scimitar | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 20 MED |
 | damage | 15 |
 | scaling | MED: 3 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1.09x |
+| attack duration | 0.5s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |

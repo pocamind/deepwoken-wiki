@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 184134
+revid: 184349
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, The Covenant of Flame]
@@ -64,3 +64,7 @@ This content is not accessible outside of this gamemode.
 -   True Mirage Clone - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
 
 -   Flames Of The Past - Your flamecharm mantras now call forth firey homing spirits.
+
+## Trivia
+
+-   Taking Simmerbloom off will destroy it making it impossible to keep it and do the trial of one memory

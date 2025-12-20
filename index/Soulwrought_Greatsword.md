@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Greatsword
-revid: 181445
+revid: 184421
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -13,12 +13,14 @@ notices:
 | Soulwrought Greatsword | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | Crazy Slots |
 | damage | 28 |
 | scaling | HVY: 12 |
 | posture damage | 8.5 |
-| range | 9.2 |
+| range | 9.2 Sweep |
 | swing speed | 0.84x |
+| attack duration | 1s |
 | endlag | 0.25s |
 | m.equip | No |
 | m.extract | No |

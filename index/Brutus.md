@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 174924
+revid: 184471
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -27,7 +27,7 @@ He is noticably larger than most other people, including you.
 
 ## Location
 
-Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that can only be accessed by breaking the walls around the bars with a Mantra, or by roll-clipping.
+Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that can only be accessed by breaking the bars of his cell.
 
 ## Dialogue
 

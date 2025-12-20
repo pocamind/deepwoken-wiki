@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 181251
+revid: 184445
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hi
 | Kyrscleave | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 75 HVY |
 | damage | 23 + 3.45 BLD |
 | scaling | HVY: 9 |
 | posture damage | 9 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.81x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | chip damage | 10% |
 | m.equip | Yes |

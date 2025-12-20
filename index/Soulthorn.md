@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 181323
+revid: 184403
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | Soulthorn | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 80 MED, 40 INT, Power 10 |
 | damage | 17 |
 | scaling | MED: 7, INT: 3.5 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1.02x |
+| attack duration | 0.6s |
 | chip damage | 30% |
 | special effect | Every M1 applies a soul stack to the target, capping at 3 stacks. |
 | m.equip | No |

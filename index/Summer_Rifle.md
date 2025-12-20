@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 181263
+revid: 184427
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -11,11 +11,12 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | Summer Rifle | |
 |---|---|
 | type | Rifle |
+| damage type | Slash |
 | requirements | 40 MED |
 | damage | 17 |
 | scaling | MED: 6 |
 | posture damage | 4 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
 | m.equip | Yes |
 | m.extract | Yes |

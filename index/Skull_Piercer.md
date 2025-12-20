@@ -1,6 +1,6 @@
 ---
 title: Skull Piercer
-revid: 181239
+revid: 184433
 source: https://deepwoken.fandom.com/wiki/Skull_Piercer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Event Item, Hallowtide, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Skull Piercer | |
 |---|---|
 | type | Rapier |
+| damage type | Slash |
 | requirements | 75 LHT |
 | damage | 14 + 2.1 BLD |
 | scaling | LHT: 8 |
 | posture damage | 4 |
-| range | 8.5 |
+| range | 8.5 Lunge |
 | swing speed | 1.08x |
+| attack duration | 0.5s |
 | penetration | 10% |
 | m.equip | Yes |
 | m.extract | Yes |

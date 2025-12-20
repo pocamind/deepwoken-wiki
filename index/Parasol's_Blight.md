@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 180598
+revid: 184535
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Parasol's Blight Enchant Stone:, Trading a Parasol Part to The Gaunt Man |
+| obtainment | Parasol's Blight Enchant Stone:, Trading a Parasol Part to The Gaunt Man, True Heart of Enmity |
 | description | Hitting a player infects their body with Parasol's Blight. If a player who is infected is killed, their corpse is turned into one of the Parasol's Minions. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 181226
+revid: 184398
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -12,13 +12,15 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 |---|---|
 | alloyed name | Alloyed Cavalry Saber |
 | type | Sword |
+| damage type | Slash |
 | requirements | 40 MED / 75 MED, OR Authority Ensign |
 | faction | Authority |
 | damage | 21 / 22.5 |
 | scaling | MED: 5 / MED: 5.5 |
 | posture damage | 5 / 6 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | penetration | 10% |
 | m.equip | Yes |
 | m.extract | Yes |

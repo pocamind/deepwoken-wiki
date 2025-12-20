@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 181241
+revid: 184397
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Med
 | Hallowscleave | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 75 MED |
 | damage | 19 |
 | scaling | MED: 7 |
 | posture damage | 6 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | penetration | 25% |
 | m.equip | Yes |
 | m.extract | Yes |

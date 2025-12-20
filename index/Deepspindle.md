@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 181316
+revid: 184437
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, We
 | Deepspindle | |
 |---|---|
 | type | Rapier |
+| damage type | Slash |
 | requirements | 50 LHT, 75 SDW |
 | damage | 14 |
 | scaling | LHT: 4, SDW: 9 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Lunge |
 | swing speed | 1.09x |
+| attack duration | 0.5s |
 | penetration | 20% |
 | special effect | Procs Shadowcast Talents on critical hits.Has synergies with the Deepscorn Casque and Darkened Bastion |
 | m.equip | No |

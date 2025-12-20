@@ -1,9 +1,9 @@
 ---
 title: Kindred Edict
-revid: 181079
+revid: 184410
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
+categories: [Pages using duplicate arguments in template calls, Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
 ---
 
 # Kindred Edict
@@ -16,8 +16,9 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | damage | 17 |
 | scaling | MED: 5, BDY: 4.5 |
 | posture damage | 4.5 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 1.05x |
+| attack duration | 0.6s |
 | penetration | 10% |
 | talent | Blitz - Increase how quick you release your Prominence Draw. |
 | special effect | Critical cooldown is cleared on hit and can be used multiple times.Applies Wither on critical if your Starkindred wings are out. |

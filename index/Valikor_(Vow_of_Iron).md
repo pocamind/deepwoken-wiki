@@ -1,6 +1,6 @@
 ---
 title: Valikor (Vow of Iron)
-revid: 183687
+revid: 184336
 source: https://deepwoken.fandom.com/wiki/Valikor_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -60,10 +60,10 @@ Valikor is located in [The Golden Rat](The_Golden_Rat.md), on the lower levels.
 </tr>
 <tr>
   <td colspan="2">THIS IS HOW WE DO IT!!</td>
-  <td colspan="2">Oh, young'in can't afford it? Go find some bandits or something. Just.. take their belongings, no one will mind. Pawn it off at the Antiquarian. Come back when you're ready for <i>KNOWLEDGE</i>!</td>
+  <td colspan="2">Oh, what's that? You can't afford it? Go find some dough. Fight some of the bandits here or something. Pawn their golden plates off at Antiquarian. Come back when you're ready for <i>KNOWLEDGE</i>!</td>
   <td colspan="8">End</td>
   <td colspan="2">STOP REMINDING ME!</td>
-  <td colspan="2">You're damn right, I <i>am</i> a Golden Rat. And you know how I got to where I am today? <i>not</i> through dishing out handouts! <i>*He laughs in an uproar.*</i> Keep talking that nonsense, and I'll have to start swinging. Come back with money. MONEY, you hear?</td>
+  <td colspan="2">You're damn right, I <b>am</b> a Golden Rat. And you know how I got to where I am today? <b>not</b> through dishing out handouts! <i>*He laughs in an uproar.*</i> Keep talking that nonsense, and I'll have to start swinging. Come back with money. MONEY, you hear?</td>
 </tr>
 <tr>
   <td colspan="2">End, obtain <a href="Talents.md#spell-shout">Spell Shout</a>, -50</td>

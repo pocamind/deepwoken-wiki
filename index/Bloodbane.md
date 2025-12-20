@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 181071
+revid: 184450
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Talents]
@@ -16,8 +16,9 @@ categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Ta
 | damage | 20 |
 | scaling | HVY: 5 |
 | posture damage | 7 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.8x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | talent | Blood Drinker - Recover health on hit. When landing a critical, deal 30 bleed damage over 5 seconds. |
 | m.equip | Yes |

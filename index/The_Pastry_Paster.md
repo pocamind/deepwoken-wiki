@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 181332
+revid: 184504
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Clubs, Medium Weapons, "Core-Attribute based weapons"]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Club
 | The Pastry Paster | |
 |---|---|
 | type | Club |
+| damage type | Blunt |
 | requirements | 70 MED, 30 MND |
 | damage | 18 |
 | scaling | MED: 5, MND: 3 |
 | posture damage | 7 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |

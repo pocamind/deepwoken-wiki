@@ -1,6 +1,6 @@
 ---
 title: Nose Stud
-revid: 178590
+revid: 184341
 source: https://deepwoken.fandom.com/wiki/Nose_Stud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Piercings]
@@ -27,3 +27,5 @@ categories: [Equipment, Face, Piercings]
 ## Description
 
 The Nose Stud is an [Equipment](Equipment.md) item under the "Face" category.
+
+It resembles the nose piercing called "Nostril"

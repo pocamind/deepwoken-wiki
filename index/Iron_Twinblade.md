@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 181341
+revid: 184431
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
 | Iron Twinblade | |
 |---|---|
 | type | Twinblade |
+| damage type | Slash |
 | requirements | 15 MED |
 | damage | 15 |
 | scaling | MED: 4 |
 | posture damage | 4 |
-| range | 7 |
+| range | 7 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | chip damage | 30% |
 | m.equip | Yes |
 | m.extract | Yes |

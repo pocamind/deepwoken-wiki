@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 181256
+revid: 184440
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
 | Avenger | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | N/A |
 | damage | 21 |
 | scaling | HVY: 6.5 |
 | posture damage | 8 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.83x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 0% |
 | m.equip | Yes |

@@ -1,7 +1,7 @@
 ---
-title: The Throne of Lies
-revid: 184380
-source: https://deepwoken.fandom.com/wiki/The_Throne_of_Lies
+title: The Sable Estate
+revid: 184527
+source: https://deepwoken.fandom.com/wiki/The_Sable_Estate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
 notices:
@@ -9,20 +9,14 @@ notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
-# The Throne of Lies
+# The Sable Estate
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-LocationL The Throne of Lies LocationR
+LocationL The Sable Estate LocationR
 
-TERRITORY OF The Ministry
+TERRITORY OF Etrean Royalists
 
-Like a curtain drawing on a stage, the veil retreats. No more lies, no more pretence. Succeed or fail, this is where this story draws to a close.
-
-  
-
-This place where you fight the entity with the powers of a depths monster.
-
-Located in Etris, Etrean Luminant
+Nestled in the safety of mountains, the serene sanctuary of the mighty clan Ganba stands resiliant.

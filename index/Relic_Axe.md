@@ -1,6 +1,6 @@
 ---
 title: Relic Axe
-revid: 181222
+revid: 184376
 source: https://deepwoken.fandom.com/wiki/Relic_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | Relic Axe | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 75 HVY |
 | damage | 25 |
 | scaling | HVY: 9 |
 | posture damage | 10 |
-| range | 8.5 |
+| range | 8.5 Sweep |
 | swing speed | 0.8x |
+| attack duration | 0.8s |
 | penetration | 25% |
 | chip damage | 10% |
 | m.equip | No |

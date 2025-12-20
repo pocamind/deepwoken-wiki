@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 181268
+revid: 184447
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Event Item, "Weapons with Multi-Hit Criticals", Hallowtide, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | Bloodtide Trident | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | 75 MED |
 | damage | 18 + 2.7 BLD |
 | scaling | MED: 6 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.95x |
+| attack duration | 0.7s |
 | penetration | 25% |
 | chip damage | 10% |
 | m.equip | No |

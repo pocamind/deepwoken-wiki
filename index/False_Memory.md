@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 181234
+revid: 184414
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | False Memory | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | N/A |
 | damage | 18 |
 | scaling | MED: 2.5 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |

@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 181201
+revid: 184442
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Clubs, Medium Weapons]
 | Mace | |
 |---|---|
 | type | Club |
+| damage type | Blunt |
 | requirements | 10 MED |
 | damage | 20 |
 | scaling | MED: 5 |
 | posture damage | 6 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 0.93x |
+| attack duration | 0.7s |
 | penetration | 5% |
 | m.equip | Yes |
 | m.extract | Yes |

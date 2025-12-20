@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 181187
+revid: 184404
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | Shattered Katana | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 90 MED |
 | damage | 20 |
 | scaling | MED: 7 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | penetration | 30% |
 | m.equip | No |
 | m.extract | No |

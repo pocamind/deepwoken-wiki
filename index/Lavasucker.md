@@ -1,12 +1,18 @@
 ---
-title: Brainsucker
-revid: 184476
-source: https://deepwoken.fandom.com/wiki/Brainsucker
+title: Lavasucker
+revid: 184478
+source: https://deepwoken.fandom.com/wiki/Lavasucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Vow of Iron Exclusive, Monsters]
 ---
 
-# Brainsucker
+# Lavasucker
+
+Variants: [Brainsucker](Brainsucker.md)
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Cephalorins were some of the first monsters to be noted in historic records, though they were initially described as small bat-like creatures that predated on rodents and poultry. It seems that they've since grown up somewhat, and moved on to larger prey. ”
 

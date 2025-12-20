@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 181351
+revid: 184409
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -11,12 +11,14 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | Fondant Splitter | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 65 MED, LVL 10 |
 | damage | 15 |
 | scaling | MED: 8 |
 | posture damage | 5 |
-| range | 6 |
+| range | 6 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | penetration | 5% |
 | special effect | The critical heals the user. The amount healed can be increased with the Tavernkeep Talents. |
 | m.equip | No |

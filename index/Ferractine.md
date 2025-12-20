@@ -1,6 +1,6 @@
 ---
 title: Ferractine
-revid: 182723
+revid: 184514
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons]
@@ -12,18 +12,19 @@ categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons",
 |---|---|
 | type | Sword |
 | damage type | Slash |
+| requirements | N/A |
 | damage | 22 |
 | scaling | MTL: 7 |
 | posture damage | 6 |
-| range | 8 Swing |
+| range | 8 Sweep |
 | swing speed | 0.97x |
 | attack duration | 0.6s |
 | penetration | 25% |
 | chip damage | 10% |
 | talent | Blade Threading - Landing Critical attacks applies metal rod and slow. |
 | stances | 2 Handed, 1 Handed |
-| rarity | TBA |
-| selling price | TBA |
+| rarity | Mythical |
+| selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
@@ -35,6 +36,8 @@ categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons",
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Variants: [Fractine](Fractine.md)
 
 ## Description
 

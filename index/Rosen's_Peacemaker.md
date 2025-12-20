@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 181091
+revid: 184425
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -11,12 +11,12 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with T
 | Rosen's Peacemaker | |
 |---|---|
 | type | Rifle |
-| damage type | Blunt |
+| damage type | Slash |
 | requirements | 75 MED |
 | damage | 18 |
 | scaling | MED: 8 |
 | posture damage | 4 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
 | talent | Rosen's Technique - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown. |
 | m.equip | Yes |

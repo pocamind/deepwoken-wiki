@@ -1,6 +1,6 @@
 ---
 title: Pernach
-revid: 181287
+revid: 184444
 source: https://deepwoken.fandom.com/wiki/Pernach
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Clubs, Medium Weapons]
 | Pernach | |
 |---|---|
 | type | Club |
+| damage type | Blunt |
 | requirements | 75 MED |
 | damage | 19 + 2.75 BLD |
 | scaling | MED: 6 |
 | posture damage | 7 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.98x |
+| attack duration | 0.6s |
 | penetration | 30% |
 | chip damage | 5% |
 | m.equip | Yes |

@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Axe
-revid: 181440
+revid: 184366
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -13,12 +13,14 @@ notices:
 | Soulwrought Axe | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | Crazy Slots |
 | damage | 26 |
 | scaling | HVY: 13 |
 | posture damage | 8 |
-| range | 10 |
+| range | 10 Sweep |
 | swing speed | 0.8x |
+| attack duration | 1s |
 | endlag | 0.15s |
 | m.equip | No |
 | m.extract | No |

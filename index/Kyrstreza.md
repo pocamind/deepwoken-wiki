@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 181248
+revid: 184422
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | Kyrstreza | |
 |---|---|
 | type | Rapier |
+| damage type | Slash |
 | requirements | 75 LHT |
 | damage | 15 |
 | scaling | LHT: 8.5 |
 | posture damage | 4 |
-| range | 8 |
+| range | 8 Lunge |
 | swing speed | 1.09x |
+| attack duration | 0.5s |
 | penetration | 30% |
 | m.equip | Yes |
 | m.extract | Yes |

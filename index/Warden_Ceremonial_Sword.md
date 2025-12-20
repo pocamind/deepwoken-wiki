@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 181209
+revid: 184411
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -11,13 +11,15 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | Warden Ceremonial Sword | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 50 MED, OR Authority Ensign |
 | faction | Authority |
 | damage | 17 |
 | scaling | MED: 7 |
 | posture damage | 4 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 1.06x |
+| attack duration | 0.6s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Warden Ceremonial Sword |

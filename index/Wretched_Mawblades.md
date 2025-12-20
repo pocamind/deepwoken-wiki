@@ -1,6 +1,6 @@
 ---
 title: Wretched Mawblades
-revid: 181343
+revid: 184454
 source: https://deepwoken.fandom.com/wiki/Wretched_Mawblades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", "Dual-wielded Weapons", Event Item, Hallowtide, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | Wretched Mawblades | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 75 HVY |
 | damage | 27 |
 | scaling | HVY: 8 |
 | posture damage | 8 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.84x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | chip damage | 15% |
 | m.equip | No |

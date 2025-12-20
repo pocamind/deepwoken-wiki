@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 181318
+revid: 184534
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Wea
 | Kyrswynter | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | 50 MED, 75 ICE |
 | damage | 16 + 2.4 BLD |
 | scaling | MED: 5, ICE: 3 |
 | posture damage | 6 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.97x |
+| attack duration | 0.6s |
 | penetration | 20% |
 | special effect | Upon flourishing, unleash a frigid explosion. Procs chilled and ragdolls your opponent. |
 | m.equip | No |

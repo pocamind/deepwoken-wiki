@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 182214
+revid: 184500
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weap
 | Pleeksty's Inferno | |
 |---|---|
 | type | Club |
+| damage type | Slash |
 | requirements | 40 MED, 80 FIR |
 | damage | 22 |
 | scaling | MED: 3, FIR: 4 |
 | posture damage | 8 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.94x |
+| attack duration | 0.7s |
 | penetration | 30% |
 | chip damage | 10% |
 | m.equip | No |

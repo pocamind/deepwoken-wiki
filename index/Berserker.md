@@ -1,6 +1,6 @@
 ---
 title: Berserker
-revid: 183804
+revid: 184346
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -27,8 +27,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Berserker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
-
-## Unique Features
-
-Your Berserker State is now permanent until toggled off. At a later power, deal heavy damage whenever guardbreaking an enemy with Posture.
+**Berserker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento changes your eye color to red.

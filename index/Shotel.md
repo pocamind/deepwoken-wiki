@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 183575
+revid: 184399
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons]
@@ -12,12 +12,14 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 |---|---|
 | alloyed name | Alloyed Shotel |
 | type | Sword |
+| damage type | Slash |
 | requirements | 45 MED / 75 MED |
 | damage | 22 |
 | scaling | MED: 5 / MED: 6 |
 | posture damage | 4 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.97x |
+| attack duration | 0.6s |
 | penetration | 10% |
 | chip damage | 20% / 30% |
 | m.equip | Yes |

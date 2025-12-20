@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 181282
+revid: 184381
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | Kyrsieger | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | 50 HVY, 15 CHA |
 | damage | 24 |
 | scaling | HVY: 7, CHA: 2 |
 | posture damage | 9 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.83x |
+| attack duration | 0.8s |
 | penetration | 15% |
 | chip damage | 10% |
 | m.equip | No |

@@ -1,6 +1,6 @@
 ---
 title: "Champion's Sword"
-revid: 181183
+revid: 184413
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | Champion's Sword | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 40 MED |
 | damage | 19 |
 | scaling | MED: 6.5 |
 | posture damage | 4 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1.02x |
+| attack duration | 0.6s |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Sword |

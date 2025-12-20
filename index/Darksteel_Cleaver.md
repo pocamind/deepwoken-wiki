@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 184098
+revid: 184492
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Talents, Heavy Weapons]
@@ -40,7 +40,7 @@ categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Cr
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-  
+Variants: [Darksteel Greatsword](Darksteel_Greatsword.md)
 
 ## Description
 

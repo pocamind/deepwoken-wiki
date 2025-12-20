@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 182270
+revid: 184515
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -35,6 +35,8 @@ categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Variants: [Summer Rifle](Summer_Rifle.md)
 
 ## Description
 

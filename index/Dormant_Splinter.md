@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 182404
+revid: 184407
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -11,12 +11,14 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium W
 | Dormant Splinter | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 5 MED |
 | damage | 5 |
 | scaling | MED: 7 |
 | posture damage | 4 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.9x |
+| attack duration | 0.7s |
 | penetration | 10% |
 | m.equip | No |
 | m.extract | No |

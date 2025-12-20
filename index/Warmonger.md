@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 181082
+revid: 184495
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Weapons with Talents]
@@ -16,8 +16,9 @@ categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Weapons with T
 | damage | 22 |
 | scaling | HVY: 7 |
 | posture damage | 7 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.8x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | talent | Pugnacious - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player. |
 | m.equip | Yes |

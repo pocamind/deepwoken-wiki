@@ -1,12 +1,16 @@
 ---
 title: "Miner's Landing"
-revid: 181428
+revid: 184467
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
+categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
 ---
 
 # Miner's Landing
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Miner's Landing LocationR
 
@@ -22,7 +26,7 @@ The pride and efforts of the Union have culminated in this research base.
 
 Miner's Landing is an [Ignition Union](The_Ignition_Union.md) island past the [Songseeker Wilds](Songseeker_Wilds.md) Sea Highway. It introduces a great deal of new NPCs, equipment, [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), and the [Mechalodaunt](Mechalodaunt.md).
 
-It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md). It also contains a dungeon, the [Saramaed Hollow](Saramaed_Hollow.md), which is the main way of progression for people with the Ignition Union orgin (who subsequently spawn here as well.)
+It contains a Voidzone, the [Saramaed Summit](Saramaed_Summit.md). It also contains a dungeon, the [Saramaed Hollow](Saramaed_Hollow.md), which is the main way of progression for people with the [Ignition Delver](Ignition_Delver.md) [origin](Origins.md) (who subsequently spawn here as well.)
 
 ## Contents
 

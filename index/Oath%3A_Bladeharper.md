@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 183354
+revid: 184420
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -150,3 +150,4 @@ Finally the most important piece of advice, stay calm, as you would with any and
     -   As a carryover from this, you still cannot enter the [Blade Within](The_Blade_Within.md) while wielding a fist weapon. With that being said, the Oath and all of its abilities function like normal with this weapon type.
 -   Strangely, the mirror self can use [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
 -   The mirror self's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
+-   Bladeharper's icon is off-center.

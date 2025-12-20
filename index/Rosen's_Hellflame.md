@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 181329
+revid: 184426
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -11,11 +11,12 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | Rosen's Hellflame | |
 |---|---|
 | type | Rifle |
+| damage type | Slash |
 | requirements | 75 FIR, 40 MED |
 | damage | 19 |
 | scaling | FIR: 4, MED: 3 |
 | posture damage | 3 |
-| range | 7 |
+| range | 7 Sweep |
 | swing speed | 0.93x |
 | special effect | Every second and fourth M1 will apply burn or proc eruptions on hit |
 | m.equip | No |

@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 182577
+revid: 184343
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -60,16 +60,10 @@ Khans are a rare [aspect](Aspects.md) with light skin, and a monkey-like appeara
 <table>
 <tbody>
 <tr>
-  <td>File:Placeolder.png</td>
+  <td>Placeholder</td>
   <td><b>Weapons Training</b>
   <ul>
-    <li><i>"Training with different weapons taught you how to wield each of them more proficiently. Gain slightly extra weapon scaling on all weapons you use."</i>
-  <ul>
-    <li>Increases weapon scaling by ,5 on all weapons.
-  <ul>
-    <li>(someone check, with all attributes which scale a weapon or just weapon attribute)</li>
-  </ul></li>
-  </ul></li>
+    <li><i>"Training with different weapons taught you how to wield each of them more proficiently. Gain slightly extra weapon scaling on all weapons you use."</i></li>
   </ul></td>
 </tr>
 </tbody>

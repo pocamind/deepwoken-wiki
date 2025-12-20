@@ -1,6 +1,6 @@
 ---
 title: Messer
-revid: 181085
+revid: 184405
 source: https://deepwoken.fandom.com/wiki/Messer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons, Weapons with Talents]
@@ -17,8 +17,9 @@ categories: [Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Wea
 | damage | 20 / 21 |
 | scaling | MED: 5 / MED: 6 |
 | posture damage | 6 / 7 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 0.93x |
+| attack duration | 0.7s |
 | penetration | 15% |
 | chip damage | 15% |
 | talent | Finishing Slay - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well. |

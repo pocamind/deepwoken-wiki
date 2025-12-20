@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 181086
+revid: 184507
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents]
@@ -11,12 +11,14 @@ categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", We
 | Metal Greatsword | |
 |---|---|
 | type | Greatsword |
+| damage type | Slash |
 | requirements | Rending Needle: Augmenter |
 | damage | 45 |
-| scaling | MTL: 1 |
+| scaling | HVY: 1 |
 | posture damage | 8 |
-| range | 12 |
+| range | 12 Sweep |
 | swing speed | 0.8x |
+| attack duration | 1s |
 | endlag | 0.2s |
 | talent | Forced Fulfilment - Landing a critical attack using your Metal Greatsword attaches a heavy rod onto your opponent, heavily slowing them. |
 | special effect | Your Metal Armament damage is increased by 50%. |
@@ -51,5 +53,4 @@ Metal Greatsword uses the default Greatsword critical, an overhead swing. It has
 ## Trivia
 
 -   Metal Greatsword carries over the star quality and [enchantment](Enchantments.md) of your main weapon.
-
 -   The Metal Greatsword has the highest base damage of any in game weapon.

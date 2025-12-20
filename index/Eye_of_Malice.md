@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 181354
+revid: 184393
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | Eye of Malice | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 75 MED |
 | damage | 20 |
 | scaling | 7.7 MED |
 | posture damage | 4 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.95x |
+| attack duration | 0.7s |
 | penetration | 25% |
 | chip damage | 15% |
 | special effect | Applies an orange eye mark on M1s. |

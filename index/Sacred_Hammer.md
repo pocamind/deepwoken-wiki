@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 181208
+revid: 184499
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Clubs, Medium Weapons]
 | Sacred Hammer | |
 |---|---|
 | type | Club |
+| damage type | Blunt |
 | requirements | 65 MED |
 | damage | 19.5 |
 | scaling | MED: 7 |
 | posture damage | 5 |
-| range | 7 |
+| range | 7 Sweep |
 | swing speed | 0.97x |
+| attack duration | 0.6s |
 | penetration | 10% |
 | chip damage | 5% |
 | m.equip | Yes |

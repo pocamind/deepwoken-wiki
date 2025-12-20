@@ -1,12 +1,14 @@
 ---
 title: Golem Prime
-revid: 171181
+revid: 184482
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Golem Prime
+
+Variants: [Golem](Rock_Golem.md)
 
 Template:Creature Infobox V3**Also known as Duke Golems or Prime Golems.**
 

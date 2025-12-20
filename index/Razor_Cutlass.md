@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 181182
+revid: 184406
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients
 | Razor Cutlass | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 60 MED |
 | damage | 18 + 2.6 BLD |
 | scaling | MED: 8 |
 | posture damage | 8 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.94x |
+| attack duration | 0.7s |
 | penetration | 25% |
 | chip damage | 10% |
 | m.equip | Yes |

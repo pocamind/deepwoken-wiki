@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 181216
+revid: 184371
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons 
 | Great Maul | |
 |---|---|
 | type | Greathammer |
+| damage type | Blunt |
 | requirements | 75 HVY, 30 STR |
 | damage | 25 |
 | scaling | HVY: 8.3 |
 | posture damage | 10 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.85x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 10% |

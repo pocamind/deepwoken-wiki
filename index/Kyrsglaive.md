@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 181246
+revid: 184503
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | Kyrsglaive | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | 90 MED |
 | damage | 19 + 2.85 BLD |
 | scaling | MED: 5 |
 | posture damage | 5 |
-| range | 9 |
+| range | 9 Lunge |
 | swing speed | 0.96x |
+| attack duration | 0.6s |
 | penetration | 20% |
 | m.equip | No |
 | m.extract | No |

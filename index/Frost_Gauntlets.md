@@ -1,6 +1,6 @@
 ---
 title: Frost Gauntlets
-revid: 183874
+revid: 184484
 source: https://deepwoken.fandom.com/wiki/Frost_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -38,6 +38,8 @@ categories: [Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with 
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Variants: [Legion Cestus](Legion_Cestus.md)
+
 ## Description
 
 Frost Gauntlets are a pair of cestus, exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
@@ -46,4 +48,4 @@ Frost Gauntlets are a pair of cestus, exclusive to the [Vow of Iron](Vow_of_Iron
 
 Equipping the Frost Gauntlets grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Fortify** applies a slow debuff to yourself in exchange for damage reduction.
+**Fortify** gives a Talent tool that applies a heavy slow debuff to yourself in exchange for high damage reduction.

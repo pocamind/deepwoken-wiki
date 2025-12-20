@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 183032
+revid: 184449
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -160,10 +160,11 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 -   If you are an [Authority Ensign](Authority_Ensign.md), you will not be able to obtain this Oath unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent, due to your reputation capping before you meet the Oath's reputation requirement otherwise.
 -   You cannot skip Blightsurger's Oath progression with Knowledge. Attempting to do so will result in [Brutus](Brutus.md) beating you up, with him stating: "Should've listened. _No shortcuts_." This is because, for some reason, doing so would leave Dexerius unable to give the Oath buffs, somehow, for unknown reasons.[\[1\]](#cite-note-1)
 -   This is Dexerius' fourth Oath. His other works are [Saintsworn](Oath%253A_Saintsworn.md), [Arcwarder](Oath%253A_Arcwarder.md), and [Visionshaper](Oath%253A_Visionshaper.md).
--   This Oath was accidentally released early in Battle Royale, allowing players to play a very barebones version of the Oath.
--   This Oath is used by [Titus](Titus_Fulminus_Destellus.md).
+-   This Oath was accidentally released early in [Battle Royale](Battle_Royale.md), allowing players to play a very bare-bones version of the Oath.
+-   This Oath is used by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 -   Blightsurger's requirements have changed three times since it's addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.
--   The BlightSurger Oath once had a game ruining bug that happened whenever you used Skycrash, you would be launched into oblivion, killing you instantly (similar to [AA-gun deaths](<Terminology_(game).md#aa-gunaa-gunned>)).
+-   Blightsurger once had a game-breaking bug that happened whenever you used Skycrash, you would be launched into oblivion, killing you instantly. (similar to [AA-gun deaths](<Terminology_(game).md#aa-gunaa-gunned>))
+-   Blightsurger is currently the only [Oath](Oaths.md) to not have an unique icon for itself, instead using the generic fist [Talent](Talents.md) Card icon.
 
 ## References
 

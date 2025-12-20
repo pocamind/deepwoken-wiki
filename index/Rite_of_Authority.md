@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 181390
+revid: 184402
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Weapon
 | Rite of Authority | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 40 LTN, 75 MED, PWR 15 |
 | damage | 19.5 |
 | scaling | MED: 7.5 |
 | posture damage | 8 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1.05x |
+| attack duration | 0.6s |
 | penetration | 15% |
 | m.equip | No |
 | m.extract | No |

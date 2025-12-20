@@ -1,6 +1,6 @@
 ---
 title: Weal and Woe
-revid: 181376
+revid: 184533
 source: https://deepwoken.fandom.com/wiki/Weal_and_Woe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based Weapons", Legendary Weapons, "Dual-wielded Weapons", Weapons with Unique Animations, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Spears, Weapons with Unique Criticals, "Attunement-based W
 | Weal and Woe | |
 |---|---|
 | type | Spear |
+| damage type | Slash |
 | requirements | 80 MED, 65 SDW |
 | damage | 17.5 |
 | scaling | 5 MED, 6.5 SDW |
 | posture damage | 7.5 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.92x |
+| attack duration | 0.7s |
 | penetration | 15% |
 | chip damage | 5% |
 | m.equip | No |

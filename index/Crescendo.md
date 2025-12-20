@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 181339
+revid: 184429
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with M
 | Crescendo | |
 |---|---|
 | type | Twinblade |
+| damage type | Slash |
 | requirements | 75 MED |
 | damage | 22 |
 | scaling | MED: 6 |
 | posture damage | 6 |
-| range | 7.5 |
+| range | 7.5 Sweep |
 | swing speed | 0.92x |
+| attack duration | 0.7s |
 | penetration | 5% |
 | m.equip | No |
 | m.extract | No |

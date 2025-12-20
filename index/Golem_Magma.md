@@ -1,12 +1,12 @@
 ---
-title: Rock Golem
-revid: 184481
-source: https://deepwoken.fandom.com/wiki/Rock_Golem
+title: Golem Magma
+revid: 184483
+source: https://deepwoken.fandom.com/wiki/Golem_Magma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
-# Rock Golem
+# Golem Magma
 
 Variants: [Golem](Rock_Golem.md)
 

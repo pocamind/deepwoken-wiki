@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Flame"
-revid: 181333
+revid: 184386
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -11,12 +11,14 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | Hero's Blade of Flame | |
 |---|---|
 | type | Sword |
+| damage type | Slash |
 | requirements | 75 FIR, LVL 11 |
 | damage | 20 |
 | scaling | FIR: 5.5 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 1x |
+| attack duration | 0.6s |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |

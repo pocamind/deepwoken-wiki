@@ -1,6 +1,6 @@
 ---
 title: Rogue Assassin
-revid: 183831
+revid: 184460
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, The Central Authority]
@@ -60,7 +60,7 @@ _Lethal Depressant_ **\-** Assasinating an opponent decreases the damage they de
 
 _Ambush -_ When coming out of tacet, gain 30% damage boost for 5 seconds,
 
-_Double Jump_ - Take the wind step and refine it into your own technique, reducing the cooldown and improving the efficiency. (Not working)
+_Double Jump_ - Take the wind step and refine it into your own technique, reducing the cooldown and improving the efficiency. (Allows you to climb twice)
 
 ### True Heart of Enmity
 

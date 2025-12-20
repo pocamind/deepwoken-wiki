@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 184020
+revid: 184394
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -115,7 +115,7 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
  | Primadon crouches down, winds up its **right** arm, and grab a player in front of it to hurl it into the air.
 
--   Deals 100~ damage.
+-   Deals ~100 damage.
 -   Only used if the player is in front of Primadon and not near his legs.
 -   If you were holding block before getting grabbed and during it's full duration you will not get damaged, this is quite buggy however and might not work.
 
@@ -264,10 +264,6 @@ Equipping armor with **Physical/Blunt damage resistance** is crucial, as it sign
 -   **Weapon Usage**: As cannons deal blunt damage, you can effectively use them to attack Primadon. However, a recent update has given the boss a **??% cannon resistance**.
 -   **Healing Exploit**: A common cheese strategy is to place an **Undying Flames** Graceful Flame nearby to heal back any damage you take during the fight
 
-## Gallery
-
-There are **14** images, be warned
-
 ## Trivia
 
 -   Primadon's second phase significantly increases his attack speed, only allowing one hit in between his attacks.
@@ -276,7 +272,7 @@ There are **14** images, be warned
 -   Primadon's respawn time is around 3 minutes.
     -   This cooldown is account wide for the player who summoned Primadon and any who dealt damage to him.
 -   In the game files, it is called "MonkyWorldBoss." and ".monky"
--   The Providence's Thorn [enchant](Enchantments.md) is a great way to defeat Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
+-   [Providence's Thorns](<Providence's_Thorns.md>) is a great way to defeat Primadon, since parrying deals damage according to your level, allowing you to only parry to kill it.
     -   It takes ~80 parries to kill Primadon without damaging him.
 -   It's known to be a sort of "Giant [Sharko](Megalodaunt.md)" due to their move-sets being very similar except with 40 times more health.
 -   The music that played when fighting it used to be a track from the anime _Attack on Titan_.

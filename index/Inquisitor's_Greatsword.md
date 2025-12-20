@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 181075
+revid: 184448
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapons with Talents]
@@ -17,8 +17,9 @@ categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapon
 | damage | 23.5 |
 | scaling | HVY: 8.3 |
 | posture damage | 9 |
-| range | 9 |
+| range | 9 Sweep |
 | swing speed | 0.84x |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | talent | Sovereign's Counter - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent. |
 | m.equip | Yes |

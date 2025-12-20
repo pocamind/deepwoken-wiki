@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 181378
+revid: 184434
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons wit
 | Needle's Eye | |
 |---|---|
 | type | Rapier |
+| damage type | Slash |
 | requirements | 75 LHT |
 | damage | 16.5 |
 | scaling | LHT: 8.5 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Lunge |
 | swing speed | 1.05x |
+| attack duration | 0.6s |
 | penetration | 15% |
 | m.equip | Yes |
 | m.extract | No |

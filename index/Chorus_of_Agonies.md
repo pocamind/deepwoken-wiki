@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 181353
+revid: 184505
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -11,12 +11,14 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | Chorus of Agonies | |
 |---|---|
 | type | Greataxe |
+| damage type | Slash |
 | requirements | 100 HVY, 20 STR, LVL 10 |
 | damage | 27 |
 | scaling | HVY: 11 |
 | posture damage | 10 |
-| range | 10 |
+| range | 10 Sweep |
 | swing speed | 0.7x |
+| attack duration | 1.1s |
 | endlag | 0.1s |
 | chip damage | 25% |
 | m.equip | No |

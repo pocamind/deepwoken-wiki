@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 181243
+revid: 184423
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -11,11 +11,12 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | Iron Blunderbuss | |
 |---|---|
 | type | Rifle |
+| damage type | Slash |
 | requirements | 75 MED |
 | damage | 20 |
 | scaling | MED: 7 |
 | posture damage | 5 |
-| range | 8 |
+| range | 8 Sweep |
 | swing speed | 0.97x |
 | penetration | 25% |
 | m.equip | Yes |
