@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 183255
+revid: 184676
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
@@ -26,7 +26,7 @@ Chance of obtaining aspect: **N/A** / **1%** ([Vow of Iron](Vow_of_Iron.md))
 
 ## Description
 
-"The Phoenix aspect" - An entirely new aspect which resembles the [Tiran](Tiran.md). Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to [Visionshaper](Oath%253A_Visionshaper.md) eyes. The aspect also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
+"The Phoenix aspect" - An entirely new [aspect](Aspects.md) which resembles the [Tiran](Tiran.md). Note that they have a similar skin, hair, and eye ring color. They have orange eyes that emit a faint orange fire similar to [Visionshaper](Oath%253A_Visionshaper.md) eyes. The aspect also comes with a unique, glowing orange pendant of a phoenix around their neck, and phoenix feather earrings.
 
 Eclipse (Racial Variant likely) - "For what if the Ash were to never return to flames?"
 

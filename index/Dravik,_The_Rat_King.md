@@ -1,9 +1,9 @@
 ---
 title: "Dravik, The Rat King"
-revid: 184611
+revid: 184668
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
+categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
 ---
 
 # Dravik, The Rat King
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-“ From now on we"ll be using only our weapons to fight. No more tricks, understand that? ”
+“ From now on we'll be using only our weapons to fight. No more tricks, understand that? ”
 
 ― Dravik, The Rat King
 
@@ -42,25 +42,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**Golden Swinging**
+**Axe Swings**
 
- | Dravik uses his axe to slash his opponent up and down. |  |
-| 
-
-**Rule of Rushing**
-
- | Dravik clenches the grip on his axe, causing damage, and lunges towards the player with gold effects.
-
--   First, block the clench on his grip and then once he is preparing and lounging towards you, parry.
-
- |  |
-| 
-
-**Spin Scarse**
-
- | Dravik swings his axe up and lets out a moderate scream before he spins to the player to spin around 4 times with glowing axe.
-
--   The interval between his upswing and spin attack is not quick, yet prepare to parry a lot during his spin attack.
+ | Dravik uses his axe to slash his opponent.
 
  |  |
 | 
@@ -70,29 +54,130 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik cancels his attack mid swing to fake out the player. |  |
 | 
 
-**Gilded Lefts**
+**Golden Tornado**
 
- | Dravik winds up his left arm and throws out three strong lefts
+(★★☆)
 
--   Dravik typically uses this attack after a feint
+ | Dravik winds his axe behind him and swings it upwards, letting out a moderate scream before performing four quick spinning slashes.
+
+-   There is a noticeable delay between the first swing and the follow-up spins.
 
  |  |
 | 
 
-**Rites of the Rat**
+**Gilded Rushdown**
 
- | Dravik summons two golden battleaxes to circle around you and at random, they strike.
+(★★★)
 
--   This can be overlapped with draviks other attacks, causing you to be overwhelmed if your not careful.
+  
+
+ | Dravik lets out a sound cue and slowly swings his axe twice, starting from the player's left side upwards, then downwards, after which he rushes the player twice before teleporting behind them with an attack and swinging again.
+
+-   The timing for parrying the rushes depends on Dravik's distance from the player.
+
+ |  |
+| 
+
+**Aureate Flourish**
+
+(★☆☆)
+
+ | Dravik attacks with two spinning slashes, starting from the player's left side, after which he winds up a big overhead slam.
+
+-   The slam can be feinted into Gilded Lefts.
+-   The slam may also be jumped over.
+
+ |  |
+| 
+
+**Gilded Lefts**
+
+(★☆☆)
+
+ | Dravik winds up his left arm and throws out three strong lefts.
+
+-   This move is only performed after feinting **Glistening Crush**.
+-   The visual for this move is deceptively big compared to the hitbox.
+
+ |  |
+| 
+
+**Glowing Slashes**
+
+(★★☆)
+
+ | Dravik winds back his axe then slashes upwards from the player's left side, then downwards. After a brief moment, he performs two quick slashes of light, then one delayed final swing.
+
+-   This move can be feinted into **Rule of Rushing** after any of the slashes.
+-   The windup is similar to the first swing of **Golden Tornado**, but faster
+
+ |  |
+| 
+
+**Rule of Rushing**
+
+(★☆☆)
+
+ | Dravik stomps the ground then rushes towards the player with gold effects.
+
+-   This move is only performed after feinting **Glowing Slashes**.
+-   Dravik may follow this move up with **Glistening Crush**
+
+ |  |
+| 
+
+**Three Swing Cleave**
+
+(★☆☆)
+
+ | Dravik performs three swings at a consistent interval: first from the player's right side, then left side and finishing with an overhead swing.
+
+-   This move is always followed by **Pasmarkinti**.
 
  |  |
 | 
 
 **Pasmarkinti**
 
+(★★☆)
+
  | Dravik teleports to you and does three consecutive slashes
 
--   This move can be used up to three times in a row
+-   This move can be used up to three times in a row.
+-   Dravik can feint the third slash of any of the three attacks into a slower slash.
+
+ |  |
+| 
+
+**Rodent Pounce**
+
+(★☆☆)
+
+ | Dravik leaps backwards, then jumps forward and slices at the player.
+
+-   This move is heavily telegraphed.
+
+ |  |
+| 
+
+**Rites of the Rat**
+
+(★☆☆)
+
+ | Dravik summons two golden battleaxes to circle around you and at random, they strike.
+
+-   This can be overlapped with Dravik's other attacks, causing you to be overwhelmed if not careful.
+
+ |  |
+| 
+
+**King's Might: Glistening Crush**
+
+(★★★)
+
+ | Dravik enters a very long windup animation, after which he smashes the ground with a massive slash that covers half of the arena
+
+-   The swing itself is quite quick, so try to learn the timing of the attack. Do not panic dodge.
 
  |  |
 
