@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 184812
+revid: 184906
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -227,7 +227,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Suffocating Impact \[Common Talent, Galebreathe Exclusive\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
--   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - Enemies who jump while suffocated by you are dazed. (+2 Passive Agility)
+-   _Stifled Jump_ \[Rare Talent, Galebreathe Exclusive\] - [Suffocating](Status_Effects.md#suffocate) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. (+2 Passive Agility)
     -   Similar to the Bear Trap talent, procs Daze when you jump.
     -   The daze effect lasts for 1 second.
     -   Prerequisite: Suffocating Impact
@@ -335,7 +335,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Apex Predator
 
--   _Carnivore_ \[Rare Talent, Generic Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
+-   _Carnivore_ \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
     -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, providing a free talent hand on rejoin/next power.
     -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
@@ -343,14 +343,14 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 5 Strength, 5 Willpower
     -   Mutual Exclusives: [Vegetarian](Boons_and_Flaws.md#vegetarian) (Flaw)
 
--   Grand Feast \[Common Talent, Generic Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
+-   Grand Feast \[Common Talent\] - Regain tempo, ether, blood and health when gaining hunger from killing. (+1 Passive Agility)
     -   Healing is negated in PVP combat.
     -   40% tempo gain, 55% ether gain, 3% blood gain, 5% health gain.
     -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
     -   Works on [Ferryman](The_Ferryman.md)'s lightning clones.
     -   Prerequisite: Carnivore
 
--   Sunken Predator \[Common Talent, Generic Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
+-   Sunken Predator \[Common Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
     -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
     -   Players are only slowed a little bit for less time instead.
     -   Prerequisite: [Power](Power.md) 11
@@ -3701,6 +3701,18 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again. This also slightly slows down the grip attempt.
         -   Does not work in PVE.
     -   Prerequisites: 55 Charisma, all Silvertongue Talents
+
+### Theros Disciple
+
+-   Spark of Theros \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Thundercall is imbued with the spark of Theros, altering its appearance and properties.
+    
+    -   Turns your Thundercall white.
+    -   Prerequisites: [Theros Disciple](Theros_Disciple.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Storm Return \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with [Lightning Cloak](Thundercall.md#lightning-cloak))
+    
+    -   Being under the effects of Amped or Lightning Cloak will proc this effect.
+    -   Prerequisites: [Theros Disciple](Theros_Disciple.md) Memento, 200
 
 ### Thief
 

@@ -1,6 +1,6 @@
 ---
 title: Dimensional Travel
-revid: 167511
+revid: 184986
 source: https://deepwoken.fandom.com/wiki/Dimensional_Travel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -57,7 +57,7 @@ When obtained, Dimensional Travel will spend its Resonance points on the followi
 
 If Dimensional Travel is Drowned, in addition to the extra Resonance points to spend, the _Use in Combat_ stat is given by default, essentially combining both variants of base Dimensional Travel.
 
-## Tips/Trivia
+## Trivia
 
 -   Upon successful exiting The Interstice, you will be unable to interact with chests for 30 seconds.
 -   If used while in combat, Dimensional Travel will have a significantly longer windup that can be interrupted by being hit.

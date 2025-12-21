@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 184881
+revid: 184962
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies]
@@ -25,6 +25,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 The Shoguns of the Prophet's Guard are a group of [bosses](Bosses.md) scattered around the Eastern Luminant, especially the five citadels. They appear more in [Etris](Etris.md), as [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>) contracted them as his defense, hence the name "Prophet's Guard". These bosses are optional, as they don't necessarily uncap your power, but they are mandatory to be killed if you want to fight Zi'eer.
+
+They are the guards who stormed the royal palace with the Lord Regent to steal the throne of Etrea. They became monstrosities through the power granted by the Lord Regent—no longer human, but something closer to his true form.
 
 Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a Kabuto, [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
 
@@ -111,5 +113,4 @@ Appears in groups.
 ## Trivia
 
 -   They were named Shogun of the Prophet's Guard before [the variant](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) encountered in the [Temple of Mur](Temple_of_Mur.md) had its name changed to match theirs.
--   They are the guards who stormed the royal palace with the Lord Regent to steal the throne of Etrea.
--   They became monstrosities through the power granted by the Lord Regent—no longer human, but something closer to his true form.
+-   They can be stunned/posture broken. Once they do so, they taunt with Dravik's voiceline.

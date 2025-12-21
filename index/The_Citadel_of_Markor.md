@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 182512
+revid: 184901
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -26,7 +26,7 @@ Their researches include: History documentation,[\[5\]](#cite-note-studies-5) [D
 
 As well as an archive, the Citadel is also an institute of education where people can take courses to improve their skills, such as cosmetic surgery.[\[9\]](#cite-note-cosmetic-9)
 
-Due to the cultural and historical importance of the Citadel, the global calendar calculates the date based on the time relative to the founding of the Citadel. Years after its founding use "CE" (Citadel Era),[\[4\]](#cite-note-glosscitadel-4) while those after it are designated "BCE".[\[3\]](#cite-note-glossresurge-3)[\[10\]](#cite-note-glossauth-10)
+Due to the cultural and historical importance of the Citadel, the global calendar calculates the date based on the time relative to the founding of the Citadel. Years after its founding use "CE" (Citadel Era),[\[4\]](#cite-note-glosscitadel-4) while those before it are designated "BCE".[\[3\]](#cite-note-glossresurge-3)[\[10\]](#cite-note-glossauth-10)
 
 57 years after its initial founditng, the Citadel established [The Citadel Divers](The_Divers.md) in response to reports of individuals returning from the Depths, theorizing that they could deploy agents to the Depths directly to coordinate research, recon, and offensive action.[\[1\]](#cite-note-fathoms-1)
 

@@ -1,9 +1,9 @@
 ---
 title: Polis
-revid: 180933
+revid: 184966
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies, Vesperian NPCs]
+categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
 ---
 
 # Polis
@@ -265,7 +265,7 @@ Polis executes his opponent after knocking them:
 -   The price of the Gold Ring he gave used to be 25 notes. Now it sells for 14 notes, however the price may vary due to quality stars.
 -   Polis has special dialogue when attempting to scare him with a [Hallowtide Mask](Hallowtide_Mask.md): "I may be old, but I'm still brave, young one."
 -   When having [Jus Karita](Jus_Karita.md) as a starting weapon Polis will say "How strange that our Paths should cross again so soon...", as if you have already met, and does not give you a Gold Ring or any other dialogue.
--   Despite teaching Jus Karita and donning a Justicar Armour, he favours a Greatsword in combat instead. This is because Jus Karita is intended to be a last resort if disarmed, a mechanic that does not exist in.
+-   Despite teaching Jus Karita and donning a Justicar Armour, he favours a Greatsword in combat instead. This is because Jus Karita is intended to be a last resort if disarmed, a mechanic that does not exist in _[Deepwoken](<Deepwoken_(game).md>)_.
     -   Polis does use Jus Karita Mantras though, despite wielding a Greatsword.
 -   His name historically means "Greek city state."
 -   His hair ID is [6101425666](https://www.roblox.com/catalog/6101425666/Dark-Messy-Manbun)

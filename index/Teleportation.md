@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 175922
+revid: 184998
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -88,7 +88,7 @@ If Teleportation is used in combat, it's cooldown is doubled upon usage.
 ## Trivia
 
 -   Upon successful teleport, you will be unable to interact with chests for 30 seconds.
--   You can teleport entities if your teleport ring is placed correctly. This includes large entities such as the [Deep Widow](Deep_Widow.md) or other [monsters](Monsters.md) such as [Deep Owls](Deep_Owl.md) or [Stone Knights](Stone_Knight.md).
+-   You can teleport entities if your teleport ring is placed correctly. This includes large entities such as the [Deep Widow](Deep_Widow.md) or other monsters such as [Deep Owls](Deep_Owl.md) or [Stone Knights](Stone_Knight.md).
 -   In some circumstances, when attempting to teleport, you're met with the message 'something ancient is interfering with your resonance.' This occurs in some instanced dungeons and certain areas of the map, such as Duke Erisia's Manor.
     -   You are still able to use Teleportation as a sort of "compass" to make waypoints and guide you on where to go on repeat runs, such as certain hard to reach medal chests in New Kyrsa, or an optimal Galewax route in the Eternal Gale.
         
@@ -102,5 +102,4 @@ If Teleportation is used in combat, it's cooldown is doubled upon usage.
 -   If you are trapped in somebody else's Gravity Field bell, and that person is standing in your teleportation radius, they will be sent to the destination but you will stay where you are.
 -   Teleportation charges faster if you are relatively close by the location you chose to teleport to.
 -   Teleportation now cancels if hit during the first 0.5s of its windup. If its windup is cancelled, it isn't put on CD
--   When drowned some community often calls it a 'Snap gate' referencing Monad Studio old game from Rogue Lineage
 -   If you have the _[Tarnished](Boons_and_Flaws.md#flaws)_ flaw, you will only be able to teleport if you click on the mark too many times.

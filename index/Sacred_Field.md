@@ -1,6 +1,6 @@
 ---
 title: Sacred Field
-revid: 158710
+revid: 184990
 source: https://deepwoken.fandom.com/wiki/Sacred_Field
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,7 +49,7 @@ When obtained, Sacred Field will spend its points on the following stats:
 -   **Duration:** The more points are spent on this stat, the longer the resonance lasts.
 -   **Color:** A free stat. Changes the color of the field, the color is always random, but always vibrant.
 
-## Trivia/Notes
+## Trivia
 
 -   **Sacred Field's** usage can allow players to focus less on their health and more on damage output.
 -   When in a fight, using this next to a healing station will allow you to out heal damage. This most to only applies to Physical resist fields though.

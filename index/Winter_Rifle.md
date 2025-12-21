@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 184515
+revid: 184928
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -40,7 +40,7 @@ Variants: [Summer Rifle](Summer_Rifle.md)
 
 ## Description
 
-The Winter Rifle is a [Medium Weapon](https://deepwoken.fandom.com/wiki/Weapons#Rifles), part of the rifle category.
+The Winter Rifle is a [Medium Weapon](Weapons.md#rifles), part of the rifle category.
 
 ## Talent: Subzero
 

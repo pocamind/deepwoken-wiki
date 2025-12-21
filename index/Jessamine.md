@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 178904
+revid: 185018
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -20,11 +20,11 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
 
 ## Description
 
-Jessamine is a [Ganymede](Ganymede.md) NPC. Talking to him will start a quest that allows you to obtain the Talent "Thresher Scales" to regain armor at campfires.
+Jessamine is a [Ganymede](Ganymede.md) NPC. Talking to them will start a quest that allows [the Pathfinder](The_Pathfinder.md) to obtain the Talent "Thresher Scales" to regain armor at campfires.
 
 ### Location
 
-Jessamine is located underneath some ruins. He is near the Legion Camp that is just outside of the entrance to the [Widow's Hollow](<Widow's_Hollow.md>).
+Jessamine is located underneath some ruins. They are near the Legion Camp that is just outside of the entrance to the [Widow's Hollow](<Widow's_Hollow.md>).
 
 ## Dialogue
 

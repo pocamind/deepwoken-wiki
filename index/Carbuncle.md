@@ -1,9 +1,9 @@
 ---
 title: Carbuncle
-revid: 179553
+revid: 184964
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters, Layer 2, Floor 1]
+categories: [Monsters, Layer 2, Floor 1]
 ---
 
 # Carbuncle
@@ -72,5 +72,3 @@ Carbuncles only has 2 attacks, listed below:
 ## References
 
 1.  [↑](#cite-ref-1)
-
-File:Arch Confirming the Name.png

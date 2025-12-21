@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 184026
+revid: 185019
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins]
@@ -79,7 +79,7 @@ This content is not accessible outside of this gamemode.
 ## Trivia
 
 -   Both Voidwalker and Deepbound were suggested by user MrTheBest2, who was later made a tester for a period of time.[\[1\]](#cite-note-1)
--   [Cap'n Orlandeau's](<Cap'n_Orlandeau.md>) dialogue in the [Second Layer](Second_Layer.md) changes if you have completed the [Tutorial](Tutorial.md) on your character. It doesn't change that much from the original, but it's a cool secret.
+-   [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)'s dialogue in the [Second Layer](Second_Layer.md) changes if you have completed the [Tutorial](Tutorial.md) on your character. It doesn't change that much from the original, but it's a cool secret.
 -   Despite various faction rivalries, outside of the starting reputations, faction-aligned NPCs won't act any different if you are using an opposing faction's origin.
 
 ## References

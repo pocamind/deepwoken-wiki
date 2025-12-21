@@ -1,6 +1,6 @@
 ---
 title: Chorus Divide
-revid: 174635
+revid: 184970
 source: https://deepwoken.fandom.com/wiki/Chorus_Divide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -14,9 +14,9 @@ categories: [Resonances]
 | appearance | Two big beams that go around the user in a 180°/270° motion |
 | cooldown | 35s |
 
-> “ Using your bell to channel your energy into a high pressure beam ”
-> 
-> ― Chorus Divide description
+“ Using your bell to channel your energy into a high pressure beam ”
+
+― Chorus Divide description
 
 ## Description
 

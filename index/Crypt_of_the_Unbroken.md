@@ -1,6 +1,6 @@
 ---
 title: Crypt of the Unbroken
-revid: 181426
+revid: 185017
 source: https://deepwoken.fandom.com/wiki/Crypt_of_the_Unbroken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Voidzones]
@@ -81,7 +81,7 @@ Blocked crypt of the unbroken
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## Notes & Trivia
+## Trivia
 
 -   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   The majority of images and information are taken from Xaslin's video ([https://youtu.be/NkEiMJmvimU](https://youtu.be/NkEiMJmvimU)).
@@ -91,7 +91,6 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Characters with the Mute [Regalia](Regalia.md) are instead spared and insulted when knocked by [Immortal Guardians](Immortal_Guardian.md), similar to various town guards.
 -   If you are inexperienced with farming this dungeon, you can simply lure the [Immortal Guardians](Immortal_Guardian.md) out of the dungeon to avoid going to The Depths because it is a Voidzone.
 -   Please note that the crypt entrance can be blocked and it cannot be broken to fix this just server hop.
-
 -   Tip: With the assassin Talent (30 Agility or the [Assassin's Hood](<Assassin's_Hood.md>)), you can one shot the Guardians with an assassination, which makes the grind way easier.
     -   If they aggro on you go outside the dungeon and wait for them to de-aggro.
     -   Tacet and/or the Mute Regalia are extremely useful for assassination.

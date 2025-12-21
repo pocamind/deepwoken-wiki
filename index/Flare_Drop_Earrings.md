@@ -1,6 +1,6 @@
 ---
 title: Flare Drop Earrings
-revid: 181887
+revid: 185023
 source: https://deepwoken.fandom.com/wiki/Flare_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | Songseeker Wilds chest (tested) |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

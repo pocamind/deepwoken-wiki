@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 184031
+revid: 184922
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
@@ -427,8 +427,8 @@ Inquisition Division
 
 -   Deals 6% of your opponent's maximum health as damage.
 -   Deals 6 posture damage.
+-   The poison effect acts similarly to an extended hitstun, preventing the usage of all forms of attack, many Tools, jumping, eating food items, sliding, dodging, and certain Talent Tools for 2.5 seconds.
 -   Grants iframes to the caster and the person hit during its animation.
--   The poison does not deal damage.
 -   Can be buffed through damage modifiers despite dealing percentage based damage.
 
  |
@@ -524,7 +524,10 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 
 ## Trivia
 
--   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is likely referencing the description of the [Rifle Spear](Rifle_Spear.md), which mentions [Gunsmith Hierka](Gunsmith_Hierka.md), an Authority spy, who had stole Rosen's work to make the aforementioned weapon.
+-   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped. This is likely due to past Authority treachery[\[1\]](#cite-note-1) and the Authority's refusal to pick a side in the Ignition-Summer conflict causing the Company to view them less favorably, even if they are willing to accept their finances.
 -   Funnily enough, the Shock Corps Division has the most issues regarding its acquirement, as its requirements are unclear to this day.
--   The Hidden Blade mantra has a poison affect that was stated by developer Agamatsu to be very powerful but it isn't known what that effect is.
 -   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location.
+
+## References
+
+1.  [↑](#cite-ref-1) [Rifle Spear](Rifle_Spear.md) description

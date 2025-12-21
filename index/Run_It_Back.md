@@ -1,6 +1,6 @@
 ---
 title: Run It Back
-revid: 163641
+revid: 184992
 source: https://deepwoken.fandom.com/wiki/Run_It_Back
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -14,9 +14,9 @@ categories: [Resonances]
 | appearance | Orange, yellow. or black particles at the area of activation |
 | cooldown | Duration + 15-20(?) seconds |
 
-> “ Set down a marker in space and time, returning to it after a duration. ”
-> 
-> ― Run it Back description
+“ Set down a marker in space and time, returning to it after a duration. ”
+
+― Run it Back description
 
 ## Description
 
@@ -51,7 +51,7 @@ Run it Back has randomized attunements upon obtaining the bell.
 -   The [Thundercall](Thundercall.md) variant will shock players nearby on use.
 -   The [Shadowcast](Shadowcast.md) variant will steal the ether of players nearby on use.
 
-## Trivia/Notes
+## Trivia
 
 -   This is a reference to _[Phoenix](https://valorant.fandom.com/wiki/Phoenix)_ from _Valorant_, whose ultimate is also called "Run it Back".
--   If your health goes to 0% during Run it Back, you will die, run it back WILL NOT save you.
+-   If your health goes to 0% during Run it Back, you will die.

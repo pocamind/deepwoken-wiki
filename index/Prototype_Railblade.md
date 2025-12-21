@@ -1,6 +1,6 @@
 ---
 title: Prototype Railblade
-revid: 181944
+revid: 184941
 source: https://deepwoken.fandom.com/wiki/Prototype_Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, The Ignition Union, Heavy Weapons, Weapons with multiple Criticals]
@@ -47,7 +47,7 @@ For the **airborne** critical, the user hovers and raises their weapon overhead 
 
 The cooldown for either critical is **9 seconds**; they share a Critical cooldown.
 
-These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects. It does **not** proc Flame or Flame-related talents.
 
 ## Obtainment
 

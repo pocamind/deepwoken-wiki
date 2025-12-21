@@ -1,6 +1,6 @@
 ---
 title: August Gideshu
-revid: 184882
+revid: 184895
 source: https://deepwoken.fandom.com/wiki/August_Gideshu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Characters mentioned in books, Naval personnel of The Central Authority]

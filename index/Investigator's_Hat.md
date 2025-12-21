@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 184776
+revid: 185025
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -16,7 +16,7 @@ categories: [Equipment, Head, Hats]
 | requirements | Power 6 |
 | weight | 1 |
 | innate stats | +4 Health, +1 Uncommon Pip, +1 Rare Pips |
-| innate talent | Diplomat |
+| innate talent | Give and Take |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |

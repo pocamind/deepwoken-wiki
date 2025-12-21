@@ -1,6 +1,6 @@
 ---
 title: "Vice-Warden"
-revid: 176738
+revid: 184896
 source: https://deepwoken.fandom.com/wiki/Vice-Warden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies with Oaths, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -137,10 +137,11 @@ The Vice-Warden pins their opponent down and slits their throat with their Curve
 
 -   Assassinate them to deal major damage.
 -   Avoid being hit by their M1s or Critical Attacks, as they will do major damage to even the tankiest of builds.
--   Their AI is extremely intelligent, however they cannot parry most mantras, use this to your advantage.
+-   Their AI is extremely intelligent, however they cannot parry most Mantras, use this to your advantage.
 -   Their weapon can be enchanted with 3 separate enchantments.
 
 ## Trivia
 
 -   Only one of their enchants shows visually, the rest are hidden in the VFX of the Curved Blade of Winds.
 -   Their attack "Windfall" is a Galebreathe Mantra that is exclusive only to the Vice-Warden in the Detainment Core Dungeon.
+-   Their name is a typo, as Vice Warden is not meant to have a hyphen.

@@ -1,6 +1,6 @@
 ---
 title: Smite
-revid: 180688
+revid: 184993
 source: https://deepwoken.fandom.com/wiki/Smite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -49,4 +49,4 @@ When obtained, Smite will spend its points on the following stats:
 ## Trivia
 
 -   Smite can trigger elemental Talents, though it's quite inconsistent and complex.
--   This resonance was added alongside [Smokescreen](Smokescreen.md) & [Preservation](Preservation.md) on the September 15th, 2023 update. All of these bells were inspired by AlwaysAFK.
+-   This Resonance was added alongside [Smokescreen](Smokescreen.md) & [Preservation](Preservation.md) on the September 15th, 2023 update. All of these bells were inspired by AlwaysAFK.

@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 184496
+revid: 184950
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
@@ -55,7 +55,7 @@ Assuming all of your Pressure Blast hits hit your opponent's block, they will ta
 
 ## Critical
 
-Saint Jay's Hammer utilizes the [Hailbreaker](Hailbreaker.md) critical attacks, without the stage gimmick.
+Saint Jay's Hammer utilizes the [Hailbreaker](Hailbreaker.md) critical attacks, without the stage gimmick. Pressing M2 during the windup of the critical will perform a feint. This puts your critical on a 2 second cooldown.
 
 Performs two quick strikes placing ice under the users feet and freezing the opponent in place.
 

@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 179864
+revid: 184987
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -41,10 +41,10 @@ When obtained, Blood Scourge will spend its points on the following stats:
 -   **Range:** The more points are spent on this stat, the further the range of the AOE becomes at the expense of a slower grip duration.
 -   **Healing:** The more points are spent on this stat; the more health given per grip.
 
-## Trivia/Notes
+## Trivia
 
 -   The Blood Scourge Resonance does NOT give you I-frames while doing the animation, you can get cancelled while doing it if other players/NPCs attack you.
 -   Unlike the standing variant, throwable Blood Scourge cannot be cancelled.
 -   Shortly after the mechanic was added, Corrupted Blood Scourge could send people below Power 12 to The Depths. This was quickly patched.
 -   Most likely a reference to Dinakeri's/Wraith Knight's Soul Rip skill from Rogue Lineage, which itself is a reference to the [Dark Hand](https://darksouls.fandom.com/wiki/Dark_Hand) from the _Dark Souls_ franchise.
--   Believe it or not, the sound that plays once using the resonance, originates from a 2012 meme: [https://youtu.be/TS\_VIVVmTTE?t=3](https://youtu.be/TS_VIVVmTTE?t=3)
+-   The sound that plays once using the Resonance originates from a 2012 meme: [https://youtu.be/TS\_VIVVmTTE?t=3](https://youtu.be/TS_VIVVmTTE?t=3)

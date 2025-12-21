@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 180576
+revid: 184894
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -38,7 +38,7 @@ Uniquely, the [Fading Book](Fading_Book.md) is obtained when a different book is
 
 ## Books
 
-Currently there are 34 books and book collections:
+Currently there are 30 books and book collections:
 
 -   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>)
 -   [Capran Aphorisms](Capran_Aphorisms.md)
@@ -54,10 +54,8 @@ Currently there are 34 books and book collections:
 -   [Fading Book](Fading_Book.md)
 -   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>)
 -   [The Gideshu March](The_Gideshu_March.md)
--   [God in the Machine](God_in_the_Machine.md)
 -   [The Hammer's Call](<The_Hammer's_Call.md>)
 -   [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
--   [Lament of Cirryn](Lament_of_Cirryn.md)
 -   [A Light In The Sky](A_Light_In_The_Sky.md)
 -   [Lumen's Folklore](<Lumen's_Folklore.md>)
     -   Lumen's Folklore: Volume 'Attunement'
@@ -65,7 +63,6 @@ Currently there are 34 books and book collections:
 -   [Ministry Field Report](Ministry_Field_Report.md)
 -   [Munet Journal](Munet_Journal.md)
     -   Munet Journal, XIV
--   [My Warm Blood](My_Warm_Blood.md)
 -   [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md)
 -   [O Pardoner of Mine](O_Pardoner_of_Mine.md)
 -   [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>)
@@ -73,18 +70,26 @@ Currently there are 34 books and book collections:
 -   [Ossuary Maintenance](Ossuary_Maintenance.md)
 -   [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
 -   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
--   [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md)
 -   [Strange Missives](Strange_Missives.md)
 -   [Studies on Canticlysm](Studies_on_Canticlysm.md)
     -   Studies on Canticlysm, Vol. IV
 -   [Tale of the Storm](Tale_of_the_Storm.md)
 -   [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
+### Removed books
+
+Currently 4 books were fully removed from the game:
+
+-   [God in the Machine](God_in_the_Machine.md)
+-   [Lament of Cirryn](Lament_of_Cirryn.md)
+-   [My Warm Blood](My_Warm_Blood.md)
+-   [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md)
+
 ## Trivia
 
 -   Children of the Aftertide I, A Deathscribe's Journal, Eggs In A Basket, The Ferryman's Lullaby, The Gideshu March, The Hammer's Call, The Interrogation Of Ranger Santiago Talo, Operation 'Distant Light' Report, Our Fortress (Of Smoke And Steel), The Song of Fathoms/Oscillation and Tale of the Storm were written by game composer Naktigonis.
 -   Debriefing Log on Operator Polaris Enigvidion was written by developer yayafino.
--   God in the Machine, Lament of Cirryn and Stars Above, and the Blade between were written by former developer iltria.
+-   The Diver Journals, God in the Machine, Lament of Cirryn, My Warm Blood and Stars Above, and the Blade between were written by former developer iltria.
 -   Ossuary Maintenance and Strange Missives was written by contributor Hautdesert.
 -   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
     -   In both stories, they are [Vesperians](Vesperian.md).
