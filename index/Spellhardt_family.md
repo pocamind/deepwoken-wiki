@@ -1,6 +1,6 @@
 ---
 title: Spellhardt family
-revid: 173217
+revid: 185029
 source: https://deepwoken.fandom.com/wiki/Spellhardt_family
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Families, Hallowtide]
@@ -17,7 +17,7 @@ categories: [Families, Hallowtide]
 
 ## Description
 
-The Spellhardt family are a noble family of [Lightborns](Lightborn.md), originating from the city of [Constellia](Constellia.md), currently residing in [the Floating Keep](The_Floating_Keep.md).
+The Spellhardt family are a noble family of [Lightborn](Lightborn.md), originating from the city of [Constellia](Constellia.md), currently residing in [the Floating Keep](The_Floating_Keep.md).
 
 Before the fall of [Constellia](Constellia.md), the Keep was very well-manned. Shortly after the aforementioned event, [the Keep](The_Floating_Keep.md) was left solely in the hands of the family, to be managed by themselves.[\[1\]](#cite-note-mikhail-1)[\[1\]](#cite-note-mikhail-1)
 

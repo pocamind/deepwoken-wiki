@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 180871
+revid: 185035
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -82,6 +82,7 @@ Lightning + Metal
 
 -   Has a base damage of 6.08/6.65/7.22/7.79/8.36 per level, per hit (2) with 2.75 Thundercall and Ironsing scaling.
 -   The damage will ramp up the longer the Tether has been on the field, having a maximum base damage of 16/17.5/19/20.5/22 per level, per hit (2) with 2.75 Thundercall and Ironsing scaling.
+-   After being on the field for a certain duration (presumably at max damage), iron tether will become unblockable.
 -   Can apply Electrified.
 -   Compatible with Surge Path and Gilded Path.
 -   Can be modified with [Eternal and Aeon Logstones](Mantra_Modifiers.md) to increase its duration slightly.

@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 184757
+revid: 185032
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the First Layer]
@@ -151,6 +151,7 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
 
 -   \* Note: "Max Stacks" is highest recorded count. Take with a grain of salt. If "limitless", count surpassed 10 with no clear sign of stopping.
 -   Note: Atrophic was tested and it seems the max it goes up to is 50% extra damage at 5 stacks.
+-   Obtaining 45 drowns will corrupt your depths trial.
 
 ## Notes & Trivia
 

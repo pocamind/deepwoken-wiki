@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 183706
+revid: 185040
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Game Modes, Paths, Character]
@@ -79,7 +79,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
   <td>Ferryman, due to the old posture break on parry, causes the 3 time parry on Ferryman to bug out, counting as you hitting him.<p>He has significantly less HP, yet auto-parry changes make him more of a challenge.</p></td>
   <td></td>
   <td>Same Primadon as Pathfinder, but with reduced HP.<p>Spawns loot bags that must be taken back in order to claim loot.</p></td>
-  <td>You must kill all the guards, then Titus will spawn below deck in the ship.</td>
+  <td>To spawn Titus, one must interact with the seal on the main deck of the Polymarch.</td>
   <td>Same trials as Pathfinder but there are no rests in-between fights, no healthpacks, and no auto-parry on the orbs.</td>
 </tr>
 </tbody>

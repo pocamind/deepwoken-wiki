@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 184394
+revid: 185038
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -59,6 +59,10 @@ It can be summoned by making an offering (Most monster drops work, to a varying 
 <tr>
   <td><a href="Strange_Claw.md">Strange Claw</a></td>
   <td>5</td>
+</tr>
+<tr>
+  <td><a href="Stick.md">Stick</a></td>
+  <td>150</td>
 </tr>
 </tbody>
 </table>
@@ -143,7 +147,7 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 **Enrage**  
 (★★☆)
 
- | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the remainder of the fight.
+ | Crouches down and beats its chest while screaming, granting a significant amount of insanity to nearby players, as well as greatly increasing its attack speed for the rest of the fight.
 
 -   Automatically used when dropping below 50% health
 -   Signified by a red mist that surrounds Primadon's body.

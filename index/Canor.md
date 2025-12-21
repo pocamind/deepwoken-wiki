@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 182255
+revid: 185034
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -64,7 +64,7 @@ Canor is an uncommon [aspect](Aspects.md) considered to have the characteristics
   <td><figure><figcaption></figcaption></figure></td>
   <td><b>Lone Wolf -</b> <i>Despite the loyalty of your allies, you recognize that you sometimes need to hunt alone. Deal more damage to targets who are only combat tagged by you.</i>
   <ul>
-    <li>Deal x% more damage so enemies who have only your combat tag.</li>
+    <li>Deal x% more damage to enemies who only have your combat tag.</li>
   </ul></td>
 </tr>
 </tbody>

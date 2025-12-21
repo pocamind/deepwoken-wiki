@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 183892
+revid: 185041
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -92,7 +92,7 @@ With the addition of the Echo Unlock: Multifaceted, Lightborn essentially gain 1
 
 ## Notes
 
--   The Lightborn aspect is currently only obtainable by developers. However, it can also be granted to well-known and well-liked members of the Content Creator community, provided that a developer gives them the aspect.
+-   The Lightborn aspect is currently only obtainable by developers in pathfinder. However, it can also be granted to well-known and well-liked members of the Content Creator community, provided that a developer gives them the aspect.
 -   Although it is considered a developer aspect, its stat boosts are not significantly stronger than those of other aspects.
 -   Developers have stated plans for making Lightborn obtainable in the future, though not through the standard reroll system. Instead, players would need to complete a specific task or requirement to earn the aspect and become a Lightborn. Agamatsu once mentioned during a livestream that Lightborn was already obtainable, though this has yet to be confirmed.
     -   From a lore perspective, obtaining the Lightborn aspect, while extremely difficult, is possible. Lightborn are hybrids of humans and celestials, meaning that creation of one could occur through direct contact with a celestial, though such an event would be incredibly rare.

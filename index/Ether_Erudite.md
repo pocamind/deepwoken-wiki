@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 184620
+revid: 185039
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | final attributes | 50 Light Weapon, 50 Medium Weapon, 50 Heavy Weapon, 10 Strength, 20 Fortitude, 25 Agility, 150 Intelligence, 50 Willpower |
 | final traits | 8 Songchant, 1 Proficiency |
 | starting armor | Pathfinder Arch-Sorcerer |
-| allowed weapons | Rifles |
+| allowed weapons | Any |
 | starting weapons | Quickfang |
 | starting items | Bloodless Gem, Blue Gem, Wayward Gem, Wind Gem, Ether Surge Enchant Stone |
 

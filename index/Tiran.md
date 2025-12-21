@@ -1,6 +1,6 @@
 ---
 title: Tiran
-revid: 177190
+revid: 185031
 source: https://deepwoken.fandom.com/wiki/Tiran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -25,6 +25,8 @@ Tiran is a rare [aspect](Aspects.md) that has a bird motif. They have special ci
 
 ## Traits
 
+**Pathfinder:**
+
 <table>
 <tbody>
 <tr>
@@ -43,6 +45,23 @@ Tiran is a rare [aspect](Aspects.md) that has a bird motif. They have special ci
   <ul>
     <li>+3 Agility</li>
     <li>+2 Willpower</li>
+  </ul></td>
+</tr>
+</tbody>
+</table>
+
+**Vow of Iron:**
+
+<table>
+<tbody>
+<tr>
+  <td><figure>File:Feather glider.png<figcaption></figcaption></figure></td>
+  <td><b>Glide Mastery</b>
+  <ul>
+    <li><i>"Experience using the glider you crafted results in being able to glide faster in the air. You've also trained to quickly pull it out in dire situations, resulting in you no longer taking fall damage"</i>
+  <ul>
+    <li>Your Feathered Glider is now sped up by X% and all fall damage is disabled.</li>
+  </ul></li>
   </ul></td>
 </tr>
 </tbody>
