@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 183995
+revid: 184722
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Mechanics]
@@ -34,6 +34,11 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  |
 | Miner Cave ([Bluster Rapids](Bluster_Rift.md)) | 
+
+ | 
+
+ |
+| Prison Tower ([Fort Merit](Fort_Merit.md)) | 
 
  | 
 

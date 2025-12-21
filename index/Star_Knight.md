@@ -1,14 +1,18 @@
 ---
 title: Star Knight
-revid: 182213
+revid: 184733
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Knights]
+categories: [Pathfinder Exclusive, Monsters, Knights]
 ---
 
 # Star Knight
 
 Variants: [Stone Knight](Stone_Knight.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Template:Creature Infobox V3
 

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 183585
+revid: 184695
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -21162,7 +21162,7 @@ Miscellaneous offhands are tools that do not fit being a shield or a weapon, and
 
 **Weapons:**
 
-Offhand weapons are weapons that can be wielded at the same time along with your mainhand as long as you are one handing it. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. Currently the only offhand weapon type are pistols. Offhand pistols slightly change depending on what your main hand weapon is. If your main weapon is another pistol, the offhand pistol will adopt all stats from the main one. If your main weapon is not another pistol, your offhand pistol will have a -20% damage penalty and will adopt the scaling stat from the main weapon. For example, an offhand pistol wielded on [First Light](First_Light.md) will have -20% damage with 8 Heavy Weapons scaling.
+Offhand weapons are weapons that can be wielded at the same time along with your mainhand as long as you are one handing it. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. Currently the only offhand weapon type are pistols. Offhand pistols slightly change depending on what your main hand weapon is. If your main weapon is another pistol, the offhand pistol will adopt all stats from the main one. If your main weapon is not another pistol, your offhand pistol will have a -20% base damage penalty and will adopt the scaling stat from the main weapon. For example, an offhand pistol wielded on [First Light](First_Light.md) will have -20% base damage with 8 Heavy Weapons scaling.
 
 Template:AllFlintlockWeapons
 

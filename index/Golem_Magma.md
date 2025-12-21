@@ -1,6 +1,6 @@
 ---
 title: Golem Magma
-revid: 184562
+revid: 184728
 source: https://deepwoken.fandom.com/wiki/Golem_Magma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -18,7 +18,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Magma Golems** are a variation of **Stonelife Golems**, they share their appearance with [Rock Golems](Rock_Golem.md) with a few differences: they are a bit darker and their core is yellow, unlike their originators, whose core is white. The original [Stonelife Golems](Rock_Golem.md) are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). Though, the origin of Golem Magmas is currently unknown.
+**Golem Magmas** are a variation of **Stonelife Golems**, they share their appearance with [Rock Golems](Rock_Golem.md) with a few differences: they are a bit darker and their core is yellow, unlike their originators, whose core is white. The original [Stonelife Golems](Rock_Golem.md) are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). Though, the origin of Golem Magmas is currently unknown.
 
 There is only one Golem Magma currently found: It has a static spawn in [Saramaed Summit (Vow of Iron)](<Saramaed_Summit_(Vow_of_Iron).md>).
 

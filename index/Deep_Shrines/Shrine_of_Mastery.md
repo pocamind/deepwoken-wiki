@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 176989
+revid: 184688
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Mastery
@@ -11,6 +11,10 @@ categories: [NPCs, Mechanics]
 | Shrine of Mastery | |
 |---|---|
 | location | Temple of Hearts, Widow's Hollow, Celtor Wastes |
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ CHOOSE THE TRAIT OF YOUR SOUL TO DIMINISH. ”
 

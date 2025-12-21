@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 184291
+revid: 184697
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -42,23 +42,14 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 | Name | Description | Media |
 | --- | --- | --- |
 | 
-**Circular Slices**  
+**Tendril Cage**  
 (★☆☆)
 
  | Zi'eer summons his tendrils around the player, indicated by white circles on the ground.
 
 -   This is a white move, to avoid the attack it's best to stand still by the surrounded circles.
--   This move only appears during his first phase.
-
- |  |
-| 
-
-**Brushstrokes of Black**  
-(★★☆)
-
- | Occasionally black strings start to rain and make move towards the player. These Pillars either move from right to left or from Zi'eer's statue to the player.
-
--   During his second phase, the Pillars rain down from Zi'eer's arm and they move more quickly and only to the player.
+-   If hit, venting can end this attack early.
+-   This move only during his first phase.
 
  |  |
 | 
@@ -68,64 +59,76 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
  | Zi'eer summons his tendrils from the ground, indicated by white circles on the ground that appear 1-3 times.
 
+-   jumping whilst parrying this move will cause Zi'eer to use **Touch of Prepared Equalizer**.
 -   This move only appears during his first phase.
 
  |  |
 | 
 
-**Cascade of Solemn Judgement**  
+**Flash Equalizer**  
+(★★☆)
+
+ | Player flashes white. Black strings form on the ground below the player.
+
+-   You have to jump to avoid this attack.
+-   Parrying whilst avoiding this move will cause Zi'eer to use **Circular Slices**.
+-   This move appears during his first phase.
+
+ |  |
+| 
+
+**Tendril Cascade**  
 (★★☆)
 
  | Unlike Circular Slices, Zi'eer summons an AOE attack that if the player doesn't manage to react, they get put in Judgement and get sliced rapidly.
 
 -   This is a red move, meaning you have to dodge in order to avoid getting attacked by his move
--   Venting stops this move from getting attacked by his Judgement
 -   This move only appears during his first phase.
 
  |  |
 | 
 
-**Touch of Prepared Equalizer**  
+**Brushstrokes of Black**  
 (★★☆)
 
- | Black strings form on the ground below the player.
+ | Occasionally black strings start to rain and make move towards the player. These Pillars either move from side to side or from Zi'eer's throne to the player.
 
--   You have to jump to avoid this attack.
--   Procs Prepared Equalizer.
--   This move only appears during his first phase.
+-   If the **Brushstrokes of Black** are summoned from side to side, Zi'eer will also attack with 2 rows of **Circular Slices**; followed by 3 attacks of either **Circular Slices** or **Touch of Prepared Equalizer**.
+-   During his second phase, the Pillars rain down from Zi'eer's arm to the player, chaining into different attacks. additionally, the pillars move more quickly and only to the player.
 
  |  |
 | 
 
-**Prophet's Divebomb**  
-(★★☆)
-
- | Zi'eer flies into the air and performs a divebomb from above.
-
--   This move only occurs during his second phase
--   This can be a white move, run away from him.
-
- |  |
-| 
-
-**Prophet's Dropkick**  
-(★★☆)
-
- | Zi'eer flies into the air and performs a dropkick from above.
-
--   This move only occurs during his second phase.
--   This move is marked by his green indicator, parry it.
-
- |  |
-| 
-
-**Tacet Dash Kick**  
+**Dash Kick**  
 (★★★)
 
- | Zi'eer performs a series of fast, dashing kicks. Should the player get hit, Zi'eer puts them in an electrical Judgement state, causing damage over time.
+ | Zi'eer performs a two fast, dashing kicks, chaining into into **Prophet's Divebomb**
 
 -   This move only occurs during his second phase.
 -   This move is marked by a red indicator.
+
+ |  |
+| 
+
+**Prophet's Drop Punch**  
+(★★☆)
+
+ | Zi'eer summons **Tendril Cage** before flying into the air and performing a punch from above.
+
+-   This move is marked by his green indicator, parry it.
+-   This move only occurs during his second phase
+
+ |  |
+| 
+
+**Blinking Divebomb**  
+(★★★)
+
+ | Zi'eer initiates a special voiceline. _**"Try and keep up"**_ before flying into the air behind the player.
+
+-   If the player does not look to face Zi'eer in time, he will immediately divebombing the player.
+-   If the player looks to face Zi'eer, he will dash wildly in the air 15 times before divebombing the player.
+-   This move only occurs during his second phase.
 
  |  |
 | 
@@ -140,21 +143,31 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
  |  |
 | 
 
-**Blinkstrike**  
-(★★☆)
+**Enhanced Requiem**  
+(★★★)
 
- | Zi'eer teleports a short distance away before he spins through the air towards the player, slicing them with his heel.
+ | This move is indenticle to **Reeled Requiem** except it is unparryable.
 
 -   This move only occurs during his second phase.
--   This move is marked by a yellow indicator.
 
  |  |
 | 
 
-**Blinkstep**  
+**Blinkstrike**  
 (★★☆)
 
- | Zi'eer initiates a special dash attack, which can be mixed with String Blast.
+ | Zi'eer teleports a short distance away before he spins through the air towards the player, slicing them with his heel. Successfully dodging this attack with cause Zi'eer to follow up with **Flash Equalizer**.
+
+-   This move only occurs during his second phase.
+-   This move is marked by a yellow indicator, slide to avoid this attack and jump immediatly after.
+
+ |  |
+| 
+
+**Lightspeed Strike**  
+(★★☆)
+
+ | Zi'eer initiates a special voiceline. _**"I wonder if you could react to this"**_, followed by an extremely fast punch.
 
 -   This move only occurs during his second phase.
 
@@ -174,7 +187,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 ### Passives
 
 -   Contractor Wall - In Zi'eer's first phase, he summons endless waves of strings to block the player. Slicing through these walls is the only possible way to reach him.
--   Prepared Equalizer - Zi'eer's string will latch on to and slice the player's limbs (arm or leg) rapidly, freezing the player in an Equalizer state if they fail to react to parryable or jumpable moves.
+-   Prepared Equalizer - Zi'eer's string will latch on to and slice the player's limbs rapidly, freezing the player in an Equalizer state and dealing very high damage if they fail to react to certain moves. Venting can end this state early.
 -   Prophet's Shield - During Zi'eer's second phase, he cannot be damaged. Only his shield, which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield, can. Zi'eer's shield is disabled when using the **The Master Of The House** attack, allowing for the fight to end.
 
 ## Gallery
@@ -189,3 +202,6 @@ TBA
 -   The Reclaimer of the Recollection has different dialogue depending on whether the player lost or won against Zi'eer:
     -   If the player lost: The Reclaimer will inform the player their memento, and many other, ended with Zi'eer; nobody was capable of killing him. However, The Reclaimer thinks there's still a way to defeat him, undiscovered.
     -   If the player won: The Reclaimer will state that the player can not continue further, because memories from their memento are lacking. He is impressed by the player for finding a way to defeat Zi'eer. He tells the player that he will inform his inner circle of their feat and will plan the eventual defeat of the real Lord Regent. He encourages the player to keep trying new ways to defeat Zi'eer.
+-   Defeating Zi'eer gives the player a badge, granting a free character slot.
+    -   This badge was not dropped alongside Iron Vow and was instead added on Dec 18, 2025.
+    -   Zi'eer is the first boss to grant the player a badge for winning.

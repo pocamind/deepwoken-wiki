@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 184667
+revid: 184719
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church]
@@ -19,9 +19,9 @@ categories: [Enemies, Random Encounters, The Starkindred Church]
 
 Maljuror is a [random encounter](Random_Encounters.md) in the [Ancient Rotlands](Ancient_Rotlands.md), which drops the [Kindred Edict](Kindred_Edict.md) with a small chance.
 
-They spawn in with their [aspect](Aspects.md), hair and hair color random. They all share the same skin color and face decal, being black, hollow eyes with black tears and an open mouth. Their [outfit](Outfits.md) and [equipment](Equipment.md) is currently unknown.
+They spawn in with their [aspect](Aspects.md), hair and hair color random. They all share the same skin color and face decal, being black, hollow eyes with black tears and an open mouth. Their [Outfit](Outfits.md) and [equipment](Equipment.md) is currently unknown.
 
-They can spawn either handcuffed or as regular enemies. Handcuffed ones cannot be picked up.
+If the player is a [Starkindred](Oath%253A_Starkindred.md), they will spawn bound, similar to a [Navaen Hostage](Navaen_Hostage.md), and will have significantly less HP, making it possible for them to be autogripped by any source of damage.
 
 Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songseeker Wilds](Songseeker_Wilds.md) loot. ([Kindred Edict](Kindred_Edict.md) is a direct drop, which means, it doesn't appear in chests.)
 
@@ -89,4 +89,3 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 
 -   Maljuror's name could perhaps hint to how they became hollow, as another interpretation could be from the prefix 'Mal-' meaning bad or ill, and a juror being someone who takes an oath, combining these gives you 'Bad Oath taker', or simplified to 'Oathbreaker'.
 -   Malijurors became like this because of Ichor's rejection, in result of them "losing faith and falling into sin, punished by divinity within them that twisted them into wretched beasts."
--   Only and only if you are [starkindred](Oath%253A_Starkindred.md) they are guaranteed to spawn binded like a [navaen hostage](Navaen_Hostage.md) and will have significantly less hp meaning they get **auto-gripped instantly** upon receiving any amount of damage. (Discovered by Kay Mudet)

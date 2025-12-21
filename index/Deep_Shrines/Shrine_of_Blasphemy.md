@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 176985
+revid: 184687
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Blasphemy
@@ -11,6 +11,10 @@ categories: [NPCs, Mechanics]
 | Shrine of Blasphemy | |
 |---|---|
 | location | Temple of Hearts, Hidden Village |
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ YOU ARE WEAK. FRAGILE. I WILL SHAPE YOUR SKULL INTO SOMETHING MAGNIFICENT. ”
 

@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor city bells
-revid: 179179
+revid: 184712
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor_city_bells
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, The Depths]
@@ -15,6 +15,10 @@ notices:
 [Lost Celtor](The_City_of_the_Drowned.md) (Also known as [The City of the Drowned](The_City_of_the_Drowned.md)) bells are the bells which can be rung in order to open the gate leading to the [Cathedral of the Insterstice](Cathedral_of_the_Interstice.md), granting access to the [Depths Trial](Cathedral_of_the_Interstice.md#east-entrance-city-bells) and escape from [The Depths](The_Depths.md).
 
 At the moment, there are two bells located in the [District of Commerce](District_of_Commerce.md).
+
+## Bell locations
+
+You can also find these locations on [the Depths (Layer 1; outside) map on the wiki](https://deepwoken.fandom.com/wiki/Maps#The_Depths).
 
 ## Trivia
 

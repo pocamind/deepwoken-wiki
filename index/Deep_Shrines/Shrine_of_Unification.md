@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Unification
-revid: 176994
+revid: 184694
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Unification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Unification
@@ -11,6 +11,10 @@ categories: [NPCs, Mechanics]
 | Shrine of Unification | |
 |---|---|
 | location | Temple of Hearts, Starfield Veldt |
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ YOU WILL YIELD TWO FRAGMENTS AND RECEIVE THE WORDS YOU SEEK. ”
 

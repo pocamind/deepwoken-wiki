@@ -1,14 +1,18 @@
 ---
 title: Deep Shrines
-revid: 181558
+revid: 184685
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics, Features absent in Vow of Iron]
+categories: [Pathfinder Exclusive, NPCs, Mechanics, Features absent in Vow of Iron]
 ---
 
 # Deep Shrines
 
 _Not to be confused with [Shrine of Courage](Shrine_of_Courage.md), [Shrine of the Drowned](Shrine_of_the_Drowned.md), [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

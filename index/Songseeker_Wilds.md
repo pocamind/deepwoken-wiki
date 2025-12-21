@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 181407
+revid: 184715
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -18,7 +18,7 @@ LocationL Songseeker Wilds LocationR
 
 ## Overview
 
-Songseeker Wilds is a set of islands located in [The Aratel Sea](The_Aratel_Sea.md). It is home to [Ancient Rotlands](Ancient_Rotlands.md), provides a passage to [Minityrsa](Minityrsa.md), and is north of [Summer Isle](Summer_Isle.md).
+Songseeker Wilds is a set of islands located in [The Aratel Sea](The_Aratel_Sea.md). It is home to [Ancient Rotlands](Ancient_Rotlands.md), provides a passage to [Minityrsa](Minityrsa.md), and is south-east of [Summer Isle](Summer_Isle.md).
 
 It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by [boats](Ships_&_Sailing.md).
 
@@ -107,7 +107,7 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 ## Trivia
 
 -   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md#the-sun-gleaming) by Naktigonis
--   The combat music for this area is Thrill of the Hunt by Naktigonis
+-   The combat music for this area is [Thrill of the Hunt](https://www.youtube.com/watch?v=jEufEiXyuxU) by Naktigonis
 -   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to [Minityrsa](Minityrsa.md)'s lootpool.
 -   Songseeker Wilds appears to be a rainforest area, judging by the sounds of birds chirping, the large variety of fruit, and thick woods.
 -   There are many gankers in Songseeker. Better to farm in [Minityrsa](Minityrsa.md) instead.

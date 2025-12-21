@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Temptation
-revid: 176993
+revid: 184686
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Temptation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Temptation
@@ -11,6 +11,10 @@ categories: [NPCs, Mechanics]
 | Shrine of Temptation | |
 |---|---|
 | location | Temple of Hearts, Crypt of the Unbroken |
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ CHOOSE THE FRAGMENT OF YOUR HEART TO DISCARD. ”
 

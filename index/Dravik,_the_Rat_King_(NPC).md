@@ -1,9 +1,9 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 184675
+revid: 184678
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs]
+categories: [Etrean NPCs, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

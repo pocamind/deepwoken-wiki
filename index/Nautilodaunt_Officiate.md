@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 184641
+revid: 184730
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Monsters, The Depths]
@@ -12,11 +12,11 @@ notices:
 
 _Often referred to as Enforcer Squibbo_
 
+Variants: [Nautilodaunt](Nautilodaunt.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Variants: [Nautilodaunt](Nautilodaunt.md)
 
 Template:Creature Infobox V3
 

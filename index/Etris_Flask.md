@@ -1,38 +1,61 @@
 ---
 title: Etris Flask
-revid: 183890
+revid: 184723
 source: https://deepwoken.fandom.com/wiki/Etris_Flask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Pages requiring a cleanup]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Items, Tools]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
-  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # Etris Flask
 
-Etris Flask is an item, exclusive to Vow of Iron. Etris Flask is given to every single player, acting as a healing potion, it has unlimited uses, however, needs to be refilled at The Cerebral Spire via entering a portal. On use, the Etris Flask heals 30% of your HP and turns unusable until refilled. During the windup of the flask, you cannot sprint, but may cancel it by unequipping the flask (doing which does not consume a charge). If you try to use the Etris Flask while it's empty, a cartoony-like animation will play, clearly displaying the flask is empty.
+| Etris Flask | |
+|---|---|
+| type | Tool |
+| bankable | No |
+| droppable | No |
+| pass down | No |
+| desc | A rejuvenating concoction based on etheric components. When the Lord Regent came to power, the Royalists fled with the secret of its production, ironically leaving Etris berefit of the flasks. |
+| obtainment | Vow of Iron |
 
-While you begin with one Etris flask, you are able to obtain more, with each costing 250 notes. Some known locations are:
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
--   The Sable Estate
-    
--   The Red Lotus Keep
-    
--   The Viridian Sanctuary Ruins
-    
--   The Indigo Citadel
-    
+## Description
 
-  
+The **Etris Flask** is a small potion obtained on every character made within [Vow of Iron](Vow_of_Iron.md), it can be consumed to heal back 30% of the player's maximum health.
 
-  
+Normally, it has only one use before requiring to be refilled by entering [The Cerebral Spire](The_Cerebral_Spire.md). While the player is consuming the Etris Flask, they are locked in its animations (this can be negated by unequipping the flask, which does not consume a charge). Attempting to use the Etris Flask with no more uses will cause a silly animation of the player attempting to drink any last drops from the flask.
 
-  
+### Upgrades
+
+**Red Lotus Keep:**
+
+The Etris Flask at the [Red Lotus Keep](Red_Lotus_Keep.md) can be found on a stall near the front.
+
+-   Costs 250.
+
+**The Indigo Citadel:**
+
+The Etris Flask at [The Indigo Citadel](The_Indigo_Citadel.md) can be found behind [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md).
+
+-   Costs 250.
+
+**The Sable Estate:**
+
+The Etris Flask at [The Sable Estate](The_Sable_Estate.md) can be found next to the [Chest Master](Chest_Master.md).
+
+-   Costs 250.
+
+**Viridian Sanctuary Ruins:**
+
+The Etris Flask at the [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md) can be found near some barrels and materials.
+
+-   Costs 250.
 
 ## Trivia
 
--   Etris Flasks are a reference to Estus Flasks from the Dark Souls series of games.
--   Etris Flasks CANNOT bypass wither.
-
-Etris Flask in player's hand.
+-   Etris Flasks are a reference to [Estus Flasks](https://darksouls.wiki.fextralife.com/Estus+Flask) from the Dark Souls series.
+-   Etris Flasks cannot bypass [Wither](Status_Effects.md#wither).

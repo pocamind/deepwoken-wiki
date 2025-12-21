@@ -1,6 +1,6 @@
 ---
 title: Lunaris
-revid: 183998
+revid: 184742
 source: https://deepwoken.fandom.com/wiki/Lunaris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]

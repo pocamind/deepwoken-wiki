@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 179221
+revid: 184689
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vendors, NPCs, Mechanics]
+categories: [Pathfinder Exclusive, Vendors, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Chance
@@ -11,6 +11,10 @@ categories: [Vendors, NPCs, Mechanics]
 | Shrine of Chance | |
 |---|---|
 | location | Temple of Hearts, Meteor Isle |
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ PUPPET. WHAT DOES YOUR HEART DESIRE? ”
 

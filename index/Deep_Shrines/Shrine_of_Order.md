@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 176990
+revid: 184690
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Order
@@ -11,6 +11,10 @@ categories: [NPCs, Mechanics]
 | Shrine of Order | |
 |---|---|
 | location | Temple of Hearts, Songseeker Mines |
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ YOU ARE IMBALANCED. LIKE A WALKING CORPSE LISTING TO ITS SIDE. YOUR FRAGMENTS WILL BE LINED IN A ROW. LIKE TIN SOLDIERS. ALL THE SAME. ”
 

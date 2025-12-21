@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 176942
+revid: 184746
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Divers]
@@ -20,7 +20,7 @@ categories: [Outfits, Master Outfits, The Divers]
 | durability | 2600 |
 | resistances | +30% Physical Armor, +30% Elemental Armor, +20% Lightning Armor, +20% Shadow Armor |
 | buffs | +50% Ether Regen+16 Sanity |
-| obtainment | Chests from:, Fishing, The Depths, Duke Erisia, Sea EventsSold by Glaive Spellhardt Nautilodaunts |
+| obtainment | Chests from:, Fishing, The Depths, Duke Erisia, Sea Events, Sold by Glaive Spellhardt, Nautilodaunt, Fury Nautilodaunt |
 | selling_price | 10 |
 | weight | 1 |
 

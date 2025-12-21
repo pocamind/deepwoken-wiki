@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 184634
+revid: 184700
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,7 +23,7 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
 -   Having [low sanity](Insanity.md) and being outside of the Cathedral of the Interstice for long enough will grant you an amount of flaws, depending on severity.
 -   [Deep Gems](Deep_Gems.md) now grow in The Depths
 
-<table><caption>Vow Of Iron Depths Trial (Please update if you find more enemies)</caption>
+<table><caption>Vow of Iron Depths Trial</caption>
 <tbody>
 <tr>
   <th>Power</th>
@@ -31,14 +31,14 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
 </tr>
 <tr>
   <td>1-5</td>
-  <td><a href="Bone_Keeper.md">Bone Keeper</a>, or Lightning <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
+  <td><a href="Bone_Keeper.md">Bone Keeper</a> or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
 </tr>
 <tr>
   <td>6-10</td>
   <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, or previous...</td>
 </tr>
 <tr>
-  <td>After defeating Rat King</td>
+  <td>After defeating <a href="Dravik,_The_Rat_King.md">Dravik, The Rat King</a></td>
   <td><a href="True_Heart_of_Enmity.md">True Heart of Enmity</a></td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
 
 ## Passive Flaws
 
-Scaling off of your [insanity](Insanity.md), a countdown will begin on the centre left of your screen. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random flaw from a set list, multiple if you're insane enough, with an edgy comment. Select flaws gained this way are able to be re-applied, harshening the effects. Your character will never kill themselves, however they will shiver and scratch. Once you reach or surpass 100 flaws your head will explode.
+Scaling off of your [Insanity](Insanity.md), a countdown will begin on the centre left of your screen. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random flaw from a set list, multiple if you're insane enough. Select flaws gained this way are able to be re-applied, harshening the effects. Your character will shiver and scratch more often scaling with the amount of flaws currently afflicted. After reaching 100 flaws your character's head will explode.
 
 The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its corresponding number, unlike the other symbols.
 

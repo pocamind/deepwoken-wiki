@@ -1,9 +1,9 @@
 ---
 title: Knowledge
-revid: 176927
+revid: 184684
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, Currency]
+categories: [Pathfinder Exclusive, Mechanics, Currency]
 ---
 
 # Knowledge
@@ -12,6 +12,10 @@ categories: [Mechanics, Currency]
 |---|---|
 | usage | Engaging in deals with Deep Shrines, Purchasing Clarity(Bell Reroll) from Misérables, Increasing reputation with The Ministry through the Soothsayer, Instantly fully progressing an Oath completed on a previous slot, Banking Relics, Enchanted items, and certain rare Ingredients. |
 | obtainment | Levelling up, Purchasing from Klaris Llfiend, Mother of Lights, Turning in Crowns, Completing quests and achieving milestones, Defeating bosses, Soloing bosses, Soloing waves 35+ in the diluvian mechanism, Defeating certain unique mobs for the first time, Echoes upgrades, Using the Moonseye Tome relic |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ A measure of concepts and ideas that have wormed their way into your mind. Used for rituals and strange bargains, Knowledge can change fates. ”
 

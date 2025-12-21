@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 174361
+revid: 184714
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]

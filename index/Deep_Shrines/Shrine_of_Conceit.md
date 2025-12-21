@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Conceit
-revid: 176987
+revid: 184692
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Conceit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Conceit
@@ -11,6 +11,10 @@ categories: [NPCs, Mechanics]
 | Shrine of Conceit | |
 |---|---|
 | location | Temple of Hearts, Saramaed Summit |
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ DELVE INTO YOUR LONG FORGOTTEN PAST. WHAT POSSIBILITIES HAVE YOU SHED? ”
 

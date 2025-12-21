@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 184668
+revid: 184749
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -145,6 +145,19 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   This move can be used up to three times in a row.
 -   Dravik can feint the third slash of any of the three attacks into a slower slash.
+-   For whatever reason, this move seems to have the highest chance of a voiceline playing.
+
+ |  |
+| 
+
+**Sparkle Blitz**
+
+(★★☆)
+
+ | Dravik teleports behind the player and performs a quick slash
+
+-   This move is rarely ever used, mostly when the player is at a distance.
+-   It is near impossible to react to this move
 
  |  |
 | 

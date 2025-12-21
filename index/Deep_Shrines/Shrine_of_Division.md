@@ -1,9 +1,9 @@
 ---
 title: Deep Shrines/Shrine of Division
-revid: 180583
+revid: 184693
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Pathfinder Exclusive, NPCs, Mechanics]
 ---
 
 # Deep Shrines/Shrine of Division
@@ -11,6 +11,10 @@ categories: [NPCs, Mechanics]
 | Shrine of Division | |
 |---|---|
 | location | Temple of Hearts, The Lordsgrove |
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ ANY FURTHER - BEYOND ATOM. BEYOND QUARK. BEYOND MATTER. BEYOND HUMAN UNDERSTANDING. ”
 

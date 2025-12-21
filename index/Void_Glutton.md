@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 184237
+revid: 184681
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | Void Glutton | |
 |---|---|
 | description | Feasting upon the very souls of their victims, their shadow grew. |
-| unlock | Wipe 20 players in The Depths, then die after completing the first phase of Zi'eer, the Fourth Prophet's boss fight |
+| unlock | Wipe 25 players in The Depths, then complete Zi'eer, the Fourth Prophet's boss fight |
 | final attributes | 100 Shadowcast, 50 Light Weapon, 100 Fortitude, 25 Intelligence, 40 Willpower, 15 Charisma |
 | final traits | 8 Vitality, 3 Songchant, 0 Dexterity |
 | starting armor | Stranded |

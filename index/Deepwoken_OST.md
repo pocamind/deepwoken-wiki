@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 180894
+revid: 184745
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -118,6 +118,8 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
 | TBA | ? | TBA | [Vow of Iron](Vow_of_Iron.md) | TBA |
 | TBA | ? | TBA | [Heart of Enmity](Heart_of_Enmity.md) | TBA |
+| TBA | ? | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) | TBA |
+| TBA | ? | TBA | [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | TBA |
 
 ### Additional Songs
 
