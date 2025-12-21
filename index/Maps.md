@@ -1,6 +1,6 @@
 ---
 title: Maps
-revid: 183227
+revid: 184888
 source: https://deepwoken.fandom.com/wiki/Maps
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sailing, Locations, Map]
@@ -190,7 +190,7 @@ All Interactive maps can be found here.
 
 _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepwoken.net/) for _Deepwoken_ locations, many thanks to _hlelo\_wolrd_ and _zoebasil_.
 
-## Trivia/Notes
+## Trivia
 
 -   As of 27.03.2025 There's a green screen location on the map, located behind a wall without collision.
     
@@ -199,8 +199,8 @@ _**OUTDATED:**_ An _**offsite**_ gallery of interactive [maps](https://map.deepw
 -   In the update of 25.07.2025, the map was reworked and is now clearer in-game.
 -   in the same update the depths map was bugged
 -   The current interactive map is outdated.
--   Future Luminants have been mentioned ingame via lore [books](Books.md), but due to the sheer size of these Luminants it will take a long time for an update containing these Luminants to come.
 -   The player marker will accurately track the players movement and position within the world from [Dimensional Travel](Dimensional_Travel.md), but will not track their ally markers properly if they're within the dimension.
 -   In-game maps have a small line of text in the bottom left corner about authorities or surveyors that created the maps.
     -   Etrean and Eastern Luminants: _Comissioned under the Authority of Sovereign Drallis Ehr, Overseer of Epochs._
     -   Lost Celtor: _Surveyed under the supervision of the Citadel by the Divers of Castle Light, 1464 CE. Do not trust this map or any information contained within._
+        -   This description is actually inaccurate, as 1464 has yet to happen. This is further evidence of the Depths' ability to warp reality and perception.

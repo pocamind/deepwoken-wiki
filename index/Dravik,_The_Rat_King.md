@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 184749
+revid: 184845
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -33,9 +33,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 ### Starting the Fight with Dravik
 
 1.  Recommended but not necessary: Uncap Power 5 by defeating the [Shogun of the Prophet's Guard at the Temple of Mur.](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
-2.  Make your way to the Waterlocks in the Etrean Luminant and enter a small passage, leading to the Rat's Den.
-3.  Descend down the Rat's Den until you find a Boundary, that teleports you to the boss area.
-4.  Upon loading in and going through his intro, the fight begins.
+2.  Make your way to the Waterlocks in-between the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md) and enter a small passage, leading to the Rat's Den.
+3.  Descend down into [The Golden Rat](The_Golden_Rat.md), hugging the right wall until you find a large boundary in the floor that teleports you to the boss arena.
+4.  Recommended but not necessary: keep hugging the right wall until you encounter a boundary in a doorway. This unlocks the Golden Rat boundary, letting you teleport back whenever you need to retry the fight.
+5.  Upon loading in and going through his intro, the fight begins.
 
 ## Moveset
 
@@ -196,7 +197,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 ### Passives
 
--   No More Tricks - Upon reaching 60%-40%,
+-   **No More Tricks** - Upon reaching **60% HP** _(won't activate if he is downed)_,
     -   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?"
     -   **Dravik will gain immunity to mantras and criticals, reflecting all damage done by these back to you. This includes enchant effects, such as Storm.**
     -   Dravik will also gain a circle of light around him.
@@ -207,6 +208,6 @@ TBA
 
 ## Trivia
 
--   Dravik is voiced by ???
+-   Dravik is voiced by "a random guy off Fiverr \[for $50\]" (VA is not named, but [mentioned in an Agamatsu stream](https://www.youtube.com/live/C9qd2A_NSk4?si=9menDzZFdYRic4rP&t=643))
 -   The Triangular slash attack is likely a reference to "[Pasmarkinti Charged Blow](https://rogue-lineage.fandom.com/wiki/Pilgrim_Knight)" from Monad Studio's previous game, Rogue Lineage.
 -   The current soundtrack that plays during the fight is "Shallow Breath" by Naktigonis, which was originally an ost meant for the Conquest gamemode.

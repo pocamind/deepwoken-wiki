@@ -1,6 +1,6 @@
 ---
 title: Authority Captain (Test)
-revid: 180579
+revid: 184759
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, Central Authority Enemies, Enemies]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Authority Captains** were present on [Isle of the Crows](Isle_of_the_Crows.md) after killing all the [Authority Enemies](<Authority_Enemy_(Test).md>). They utilised the [Thundercall](Thundercall.md) [Attunement](Attunements.md) and an [Officer Saber](Officer_Saber.md). Authority Captains spawned in as [Adret](Adret.md) with their hair random.[\[1\]](#cite-note-direct-1)
+**Authority Captains** were present on [Isle of the Crows](Isle_of_the_Crows.md) after killing all the [Authority Enemies](<Authority_Enemy_(Test).md>). They utilized the [Thundercall](Thundercall.md) [Attunement](Attunements.md) and an [Officer Saber](Officer_Saber.md). Authority Captains spawned as [Adret](Adret.md) with an unknown [outfit](Outfits.md), unidentified pauldrons and their hair random.[\[1\]](#cite-note-direct-1)
 
 ## Moveset
 

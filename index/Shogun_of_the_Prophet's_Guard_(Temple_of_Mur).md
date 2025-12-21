@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 184707
+revid: 184829
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -30,7 +30,7 @@ The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), form
 
 Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>), an [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) combined with an [Iron Cestus](Iron_Cestus.md), and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
 
-### Starting the Fight with Shogun
+### Starting the Fight
 
 1.  Recommended but not mandatory: Reach Power 5
 2.  Make your way to the [Deep Thresher Nest](Deep_Thresher_Nest.md), below the trenches close to where the [Deep Widow](Deep_Widow.md) is and instead of going towards the Widow, go the other direction and enter the [Boundary](Boundary.md).

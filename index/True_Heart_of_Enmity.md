@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 184607
+revid: 184814
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
@@ -30,7 +30,7 @@ It is the same gargantuan creature wrought of iron and animosity, though what ma
 
 ### Starting the Fight with True Enmity
 
-1.  Reach & Uncap Power 10 by defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md).
+1.  Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md) (can be done at any power).
 2.  Recommended but not mandatory: Reach Power 15.
 3.  Make your way to the Depths and enter the elevator, preferably alone.
 4.  The [Voices of the Depths](Voices_of_the_Depths.md) then have a dialog, contemplating what to do with you, and Voice of Enmity incarnates in his physical form, starting the fight.

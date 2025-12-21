@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 184697
+revid: 184865
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -32,9 +32,9 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
 ### Starting the Fight with Zi'eer
 
-1.  Uncap Power 15 by defeating the [True Heart of Enmity](True_Heart_of_Enmity.md), which then spawns you at the castle, attack the statue to break the barrier around the castle.
+1.  Defeat the [True Heart of Enmity](True_Heart_of_Enmity.md) (can be done at any power), which then spawns you at the palace. Attack the statue to break the barrier around the palace.
 2.  Recommended but not mandatory: Reach Power 20.
-3.  Make your way to Etris and fight through the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) until you reach his palace.
+3.  If you left the server where you destroyed the barrier, you will need to return to [Etris](<Etris_(Vow_of_Iron).md>) and kill the [Shogun](<Shogun_of_the_Prophet's_Guard.md>) on the bridge in-between the inn and the palace _(currently bugged, so if you want to fight him don't leave the server after breaking the barrier)_.
 4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing.**_
 
 ## Moves
@@ -93,7 +93,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
  | Occasionally black strings start to rain and make move towards the player. These Pillars either move from side to side or from Zi'eer's throne to the player.
 
--   If the **Brushstrokes of Black** are summoned from side to side, Zi'eer will also attack with 2 rows of **Circular Slices**; followed by 3 attacks of either **Circular Slices** or **Touch of Prepared Equalizer**.
+-   If the **Brushstrokes of Black** are summoned from side to side, Zi'eer will also attack with 2 rows of **Tendril Uprising**; followed by 3 attacks of either **Tendril Uprising** or **Flash Equalizer**.
 -   During his second phase, the Pillars rain down from Zi'eer's arm to the player, chaining into different attacks. additionally, the pillars move more quickly and only to the player.
 
  |  |
@@ -102,7 +102,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 **Dash Kick**  
 (★★★)
 
- | Zi'eer performs a two fast, dashing kicks, chaining into into **Prophet's Divebomb**
+ | Zi'eer performs a two fast, dashing kicks, chaining into into **Prophet's Drop Punch**
 
 -   This move only occurs during his second phase.
 -   This move is marked by a red indicator.

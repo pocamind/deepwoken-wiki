@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 183423
+revid: 184875
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Wardens of The Central Authority, NPCs located in the Eastern Luminant]
@@ -322,4 +322,4 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 ## Trivia
 
 -   The [Oath](Oaths.md) wielded by Warden Jericho, Warmaster, is unreleased.
--   When being executed, Warden Jericho's textbox doesn't use his title, and instead refers to him as just "Jericho".
+-   When he executes the Pathfinder by lowering their cage into the sea, Warden Jericho's textbox doesn't use his title, and instead refers to him as just "Jericho".

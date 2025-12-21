@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 176924
+revid: 184789
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, Etrea]
@@ -19,11 +19,11 @@ categories: [Outfits, Adept Outfits, Etrea]
 | durability | 1200 |
 | resistances | +20% Physical Armor, +10% Blunt Armor |
 | talents | Paired Soul |
-| obtainment | Isle of Vigils inside the Mantra shop, Erisia/General Sea Event Loot |
+| obtainment | Isle of Vigils inside the Mantra shop, Erisia/General Sea Event Loot, Vow of Iron, near the Temple of the Blade Blacksmith. |
 | selling_price | 10 |
 | weight | 1 |
 
-**Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+**Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Deepwoken_
 
 ## Statistics
 

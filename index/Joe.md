@@ -1,6 +1,6 @@
 ---
 title: Joe
-revid: 184086
+revid: 184798
 source: https://deepwoken.fandom.com/wiki/Joe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -16,6 +16,8 @@ notices:
 | aspect | Canor |
 | location | Temple of the Blade |
 | affiliation | Etrea |
+
+Variants: [Jim](Jim.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -34,7 +36,7 @@ Joe is a [Canor](Canor.md) NPC. Completing his dialogue starts the "Joe's Embers
 
 ### Rewards
 
-Upon retrieving Joe his Dying embers, he gives the player a [Curiosity](Quests.md) [Talent](Talents.md) hand and a random tier two [Mantra Modifier](Mantra_Modifiers.md).
+Upon retrieving Joe his Dying embers, he hands the player a random tier two [Mantra Modifier](Mantra_Modifiers.md).
 
 ## Location
 

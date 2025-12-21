@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 181026
+revid: 184883
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -580,7 +580,7 @@ Shadow + Slash
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
     -   Has a base damage of 15/17/19/21/23 per level, per hit (3) with 2.75 Shadowcast scaling. This deals 2x the damage of the unmodified variant.
 -   You **can** combine the [Spring](Mantra_Modifiers.md#sparks) and [Multiplying Sparks](Mantra_Modifiers.md#sparks) on this Mantra, performing 2 horizontal slashes into a leaping lunge attack.
-    -   Has a base damage of 13.5/15.3/17.1/20.7 pee hit (3), per level with 2.75 Shadowcast scaling. This deals 2.2x the total damage of the unmodified variant.
+    -   Has a base damage of 13.5/15.3/17.1/20.7 per hit (3), per level with 2.75 Shadowcast scaling. This deals 2.2x the total damage of the unmodified variant.
 -   Can be modified with [Reversal Spark](Mantra_Modifiers.md#sparks), but it's currently unknown what it does.
 
  |

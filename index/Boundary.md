@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 184722
+revid: 184810
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Mechanics]
@@ -22,7 +22,7 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
 ## List of Boundaries
 
-| Boundary | Png | Map Location |
+| Boundary | Image | Map Location |
 | --- | --- | --- |
 | [Meteor Isle](Meteor_Isle.md) | 
  | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 184599
+revid: 184812
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -543,7 +543,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
         -   Padded Armor, Steel Scales, and Lightweight are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
         -   You benefit from Exposed Durability's 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
-    -   The color of the eye glow is [dyable](Dye_Packet.md).
+    -   The color of the eyes and hair is [dyable](Dye_Packet.md).
     -   Prerequisite: 80 Strength
 
 ### Bladeharper

@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 180698
+revid: 184811
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -41,7 +41,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Bone_Keeper.md">Bonekeeper</a></td>
-  <td>Bonekeeper Slayer I/II/III
+  <td>Bonekeeper Slayer I, Bonekeeper Slayer II, Bonekeeper Slayer III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Bone_Keeper.md">Bonekeepers</a></li>
   </ul></td>
@@ -52,7 +52,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Bounder.md">Bounder</a></td>
-  <td>Bounder Slayer I/II/III
+  <td>Bounder Slayer I, Bounder Slayer II, Bounder Slayer III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Bounder.md">Bounders</a></li>
   </ul></td>
@@ -102,9 +102,9 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Deep_Owl.md">Deep Owl</a></td>
-  <td>Curious Killers/II/III
+  <td>Curious Killers, Radial Perspective, Peace Of Mind, Mouse
   <ul>
-    <li>Slay 10, 25, and 100 <a href="Deep_Owl.md">Deep Owls</a> or <a href="Parliament.md">Parliaments</a></li>
+    <li>Slay 10, 25, and 100 <a href="Deep_Owl.md">Deep Owls</a> or <a href="Parliament.md">Prime Owls</a></li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -113,7 +113,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Deep_Widow.md">Deep Widow</a></td>
-  <td>Deep Widow Slayer I/II/III
+  <td>Deep Widow Slayer I, Deep Widow Slayer II, Deep Widow Slayer III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Deep_Widow.md">Deep Widows</a></li>
   </ul></td>
@@ -124,7 +124,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Enforcer.md">Enforcer</a></td>
-  <td>Detestable Detainer/II/III
+  <td>Detestable Detainer, Baleful Bailiff, Onerous Oppressor
   <ul>
     <li>Slay 10, 25, and 100 <a href="Enforcer.md">Enforcers</a> or <a href="Enforcer.md">Servants of Enmity</a></li>
   </ul></td>
@@ -135,7 +135,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Gigamed.md">Gigamed</a></td>
-  <td>Nefarious Cnidarian/II/III
+  <td>Nefarious Cnidarian, In For A Shock, Jellyfish Jam
   <ul>
     <li>Slay 10, 25, and 100 <a href="Gigamed.md">Gigameds</a> or <a href="King_Gigamed.md">King Gigameds</a></li>
     <li>Gigameds spawned by a King Gigamed do not count towards the Bestiary completion.</li>
@@ -147,7 +147,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Kyrsgarde.md">Kyrsgarde</a></td>
-  <td>Guardians of Kyrsa/II/III
+  <td>Guardians of Kyrsa, Mortal Coil, Eternal Rest
   <ul>
     <li>Slay 10, 25, and 100 Kyrsgarde of any <a href="Kyrsgarde_(disambiguation).md">variant</a></li>
   </ul></td>
@@ -158,7 +158,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Lionfish.md">Lionfish</a></td>
-  <td>Lionfish Slayer I/II/III
+  <td>Lionfish Slayer I, Lionfish Slayer II, Lionfish Slayer III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Lionfish.md">Lionfish</a> or <a href="Glacial_Lionfish.md">Glacial Lionfish</a></li>
   </ul></td>
@@ -219,7 +219,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Nautilodaunt.md">Nautilodaunt</a></td>
-  <td>Nautilodaunt Slayer I/II/III
+  <td>Nautilodaunt Slayer I, Nautilodaunt Slayer II, Nautilodaunt Slayer III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Nautilodaunt.md">Nautilodaunts</a> or <a href="Fury_Nautilodaunt.md">Fury Nautilodaunts</a></li>
   </ul></td>
@@ -230,7 +230,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Stone_Knight.md">Stone Knight</a></td>
-  <td>Granite Gallantry/II/III
+  <td>Granite Gallantry, Sword In The Stone, We Will Rock You
   <ul>
     <li>Slay 10, 25, and 100 Stone Knights of any variant (<a href="Stone_Knight.md">Stone Knight</a>, <a href="Stone_Knight.md#blizzard-knight">Blizzard Knight</a>, <a href="Star_Knight.md">Star Knight</a>, <a href="Moon_Knight.md">Moon Knight</a>)</li>
   </ul></td>
@@ -252,7 +252,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Sworn_Angel.md">Sworn Angel</a></td>
-  <td>Sworn Angel Slayer I/II/III
+  <td>Sworn Angel Slayer I, Sworn Angel Slayer II, Sworn Angel Slayer III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Sworn_Angel.md">Sworn Angels</a> or <a href="Hollow_Angel.md">Hollow Angels</a></li>
   </ul></td>
@@ -263,7 +263,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Terrapod.md">Terrapod</a></td>
-  <td>Terrapod Slayer I/II/III
+  <td>Terrapod Slayer I, Terrapod Slayer II, Terrapod Slayer III
   <ul>
     <li>Slay 10, 25, and 100 <a href="Terrapod.md">Terrapods</a> or <a href="Terrapod.md#crimson">Crimson Terrapods</a></li>
   </ul></td>
@@ -274,7 +274,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
 </tr>
 <tr>
   <td><a href="Thresher.md">Thresher</a></td>
-  <td>Reptilian Rumble/II/III
+  <td>Reptilian Rumble, One Maw Time, Thresher Trouble
   <ul>
     <li>Slay 10, 25, and 100 Threshers of any variant (<a href="Thresher.md">Thresher</a>, <a href="King_Thresher.md">King Thresher</a>, <a href="Thresher.md">Void Thresher</a>, <a href="Nightmare_Thresher.md">Nightmare Thresher</a>)</li>
   </ul></td>

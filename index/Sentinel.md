@@ -1,6 +1,6 @@
 ---
 title: Sentinel
-revid: 177700
+revid: 184808
 source: https://deepwoken.fandom.com/wiki/Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]

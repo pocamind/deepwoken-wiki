@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 183983
+revid: 184806
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -65,11 +65,15 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 -   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score to the Trial. Additionally, once the player completes the harder Trial, they will be rewarded with 15 Free training points.
 -   **NOTE:** [Vow Of Iron](Vow_of_Iron.md) completely overhauls this system and gives a random enemy from a list and an extra enemy is added for each player in the trial.
 
-<table><caption>Vow Of Iron Depths Trial (Please update if you find more enemies)</caption>
+<table><caption><b>Vow Of Iron Depths Trial</b> <i>(Please update if you find more enemies)</i></caption>
 <tbody>
 <tr>
   <th>Power</th>
   <th>Enemies</th>
+</tr>
+<tr>
+  <td>Any power after defeating <a href="Dravik,_The_Rat_King.md">Dravik, The Rat King</a></td>
+  <td><a href="True_Heart_of_Enmity.md">True Heart of Enmity</a></td>
 </tr>
 <tr>
   <td>1-5</td>
@@ -80,11 +84,7 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
   <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
 </tr>
 <tr>
-  <td>11-15</td>
-  <td><a href="True_Heart_of_Enmity.md">True Heart Of Enmity</a> (first time) then 2 waves of a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
-</tr>
-<tr>
-  <td>16-20</td>
+  <td>11-20</td>
   <td>2 waves of a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
 </tr>
 </tbody>

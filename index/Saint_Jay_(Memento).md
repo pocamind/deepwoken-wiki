@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 183888
+revid: 184850
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -297,3 +297,7 @@ Power 5, 450
 
 -   Warrior's Swing \[Common Talent\] - Heavy Weapons Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
     -   Requirements: Power 5, 100
+
+## Boss Unlocks
+
+Golden rat: Cryonis

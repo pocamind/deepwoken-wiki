@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 184740
+revid: 184785
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Voiced Characters]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Reclaimer of the Recollection is a [Gremor](Gremor.md) NPC found in both [The Cerebral Spire](The_Cerebral_Spire.md) and [Fragments of Else](Fragments_of_Else.md). They serve as the guide in the Cerebral Spire and a counterpart to [Self](Self.md) in the Fragments of Else. They tell [the Inheritor](The_Inheritor.md) about their objectives and basics of the [Vow of Iron](Vow_of_Iron.md), whilst in the Fragments of Else he wipes the Inheritor's character, not being able to bring them back to life.
+The Reclaimer of the Recollection is a [Gremor](Gremor.md) NPC found in both [The Cerebral Spire](The_Cerebral_Spire.md) and [Fragments of Else](Fragments_of_Else.md). They serve as the guide to [the Inheritor](The_Inheritor.md) in the Cerebral Spire and a counterpart to [Self](Self.md) in the Fragments of Else. The Reclaimer is the only way the player is able to increase their power and gain further abilities regarding their [Mementos](Mementos.md).
 
 They're an Aspen [Gremor](Gremor.md) in stage 2 of aging (50-59 years old). He wears the [Light's Final Toll](<Light's_Final_Toll.md>) beads on his arm, a [Canticlysm Pendant](Canticlysm_Pendant.md), and an [Adventurer Coat](Adventurer_Coat.md) of some kind. Additionally, he wears a pair of [geta](<https://en.wikipedia.org/wiki/Geta_(footwear)>).
 
@@ -246,7 +246,7 @@ Recollection
   <td>Tell me about the memory of the trial.</td>
 </tr>
 <tr>
-  <td>Deep below Minityrsa lays a shrine used to test the mettle of would-be-heroes. Though, it would appear that it may have been somewhat worn down in our time. A great challenge awaits in memory. The events of this memory will have already transpired once you surpass <b>Power 6</b>, so if you seek this memory you must find it before then.</td>
+  <td>Deep below Minityrsa lays a shrine used to test the mettle of would-be-heroes. Though, it would appear that it may have been somewhat worn down in our time. A great challenge awaits in memory. The events of this memory will have already transpired once you surpass <b>Power 9</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -317,7 +317,7 @@ Recollection
   <td>How am I to proceed?</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>As best as you can, you must live out the memories of the one who created your Memento. Recall the Rat King's cunning trick, Inheritor. To shatter the emerald barrier from without, you must shatter it from within. Seek the next core memory within a trial of the Interstice.</td>
 </tr>
 <tr>
   <td>End</td>
@@ -340,7 +340,13 @@ Recollection
   <td>How am I to proceed?</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>Once ready, you must face Zi'eer. This is where the creator of your Memento met their end, and hopefully where you'll surpass them.</td>
+</tr>
+<tr>
+  <td>What happens if I defeat Zi'eer?</td>
+</tr>
+<tr>
+  <td>We will have what we sent you in here for - another piece of the puzzle, and another step closer to defeating the Lord Regent in our time. That is our ultimate goal - to learn how to defeat the Calamity. Do note, however, that regardless of the outcome, facing the Lord Regent is the end of these memories. <b>To be clear, if there is anything you'd like to do here before then, you won't be able to do it after facing the Lord Regent.</b></td>
 </tr>
 <tr>
   <td>End</td>

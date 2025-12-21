@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 184582
+revid: 184774
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -103,7 +103,7 @@ Dialogue: [Ploom](Ploom.md) | Books: | Glossary Entries: [Amorus Pleeksty](#amor
 
 -   Enigmatic beings thought to be envoys of the [Drowned Gods](#the-drowned-gods).
 
-Dialogue: [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
+Dialogue: [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md), [The Ferryman](The_Ferryman.md), [The Gaunt Man](The_Gaunt_Man.md) | Books: | Glossary Entries:
 
 -   The Ferryman referred to them as 'the closest bridge between the Gods below and your kind'.
 
@@ -253,7 +253,7 @@ Dialogue: [Ezra](Ezra.md) | Books: [Capran Aphorisms](Capran_Aphorisms.md) | Glo
 -   A Goddess worshipped by many in the [Etrean Luminant](#the-etrean-luminant).
 -   Many believe that Mur was responsible for bringing the knowledge of [Murmurs](#soul-murmur) to the Kingdom of Etrea.
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [High Monk Junsui](High_Monk_Junsui.md), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
+Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [High Monk Junsui](High_Monk_Junsui.md), [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Theadre](Theadre.md) | Books: | Glossary Entries:
 
 -   As with many Gods, the contemporary understanding is that Mur may have been a [Celestial](#the-celestials).
 

@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 184226
+revid: 184773
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
@@ -19,13 +19,15 @@ categories: [Canor NPCs, Vendors, NPCs, NPCs located in the First Layer, Oath Tr
 
 ― Klaris after handing in all Diver Journals
 
+## Description
+
 Klaris Llfiend, Mother of Lights, is a [Black Diver](The_Divers.md) found at the end of [Castle Light](Castle_Light.md). She is in charge of the expeditions to and from [The Eternal Gale](Second_Layer.md).
 
 She is a young Canor who has long golden hair that end onto her shoulders. Two bangs rest on both sides of her face, reaching down to her upper chest. Her pupils glow white and have a "web" shape to it, and has vibrant yellow facial markings resembling lightning patterns. Above her head floating orb that resembles the [Moonseye](Moonseye.md), as a result of being the inventor of the Radiant Magic and the Tones/ She wears the standard [Black Diver](Black_Diver.md).
 
-Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
+Of the Divers, she is considered one of the strongest, surpassing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)[\[1\]](#cite-note-1) and being on par with [Akira](Akira.md) to the point that he cannot instantly kill her with his [Resonance](Resonance.md), as well as being able to become intangible.
 
-She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers. She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her and how she reacts to players under Power 15 talking to her.
+She is rather rude at times, frequently insulting those she views as weak, and is generally disliked by her fellow Divers.[\[2\]](#cite-note-2) She also appears rather arrogant, as she banished [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) for disagreeing with her and how she reacts to players under Power 15 talking to her.[\[3\]](#cite-note-3)
 
 ## Shop
 
@@ -489,18 +491,21 @@ Radiant Teachings
 ## Trivia
 
 -   Her name, Klaris Llfiend, has a resemblance to the Drowned God of Layer 3's name: Korilfiend.
--   Despite her appearance, she's actually a Canor without eyeliner.[\[1\]](#cite-note-1)
+-   Despite her appearance, she's actually a Canor without eyeliner.[\[4\]](#cite-note-4)
 -   Klaris Colors: #F0E2B6 Skin | #F0E2B6 Hair
     -   The colour of her skin is identical to that of her hair.
     -   Klaris' Hair id's are  
         `8465862459   7337593886`
 -   Klaris' Eyes and Facial Marking have a slight glow within them.
--   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[2\]](#cite-note-2)
+-   Despite her more supportive role and her abilities coming in the form of magic rather than martial arts, Klaris is still rather muscular.[\[5\]](#cite-note-5)
 -   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.
     -   The old version of the dialogue can be viewed [here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D).
-    -   Attempting to enhance your skills as a [Dawnwalker](Oath%253A_Dawnwalker.md) while fully progressed will prompt the message, "Your mastery can go no further."
+-   Attempting to enhance your skills as a [Dawnwalker](Oath%253A_Dawnwalker.md) while fully progressed will prompt the message, "Your mastery can go no further."
 
 ## References
 
-1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)
+1.  [↑](#cite-ref-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+2.  [↑](#cite-ref-2) [Mark Adaset](Mark_Adaset.md)
+3.  [↑](#cite-ref-3) [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
+4.  [↑](#cite-ref-4)
+5.  [↑](#cite-ref-5)

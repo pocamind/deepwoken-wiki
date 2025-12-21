@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 183460
+revid: 184877
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Mem
 |---|---|
 | health | 15000 per player5000-10000 (Shield) per player |
 | drops | Chest (see loot table), Duke's Coat Fiber, Kanabo, Ardour Manifestation, Pluripotent Alloy, Stoneheart, Smith's Alloy, Armorer's Needle, Curved Blade of Winds, Sinner's Ash, Idol of Yun'Shul, Whistling Periapt, Gale Stone |
-| weapon | Iron Cestus (Legion Kata & Way of Navae) |
+| weapon | Iron Cestus (Untrained Fist) |
 | moves | Assault, Critical, Counter, Feint, Binding Tempest, Gale Stomp, Cyclone Bomb, Strong Left, Summon Mindless Servants |
 | affiliation | Lost Celtor |
 | challenges | -- Duke Ishamon Erisia --, Memories of Home - Slay 10.Reward: +5% DMG; +2.5% RES |
@@ -35,7 +35,7 @@ He is a noble who resided in the City of [Celtor](Lost_Celtor.md) before its sub
 
 ## Moveset
 
-Duke Ishamon Erisia's arsenal consists of [Way of Navae](Way_of_Navae.md) light attacks and a [Legion Kata](Legion_Kata.md) Critical with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
+Duke Ishamon Erisia's arsenal consists of [Untrained Fist](Untrained_Fist.md) with an [Iron Cestus](Iron_Cestus.md) and [Galebreathe](Galebreathe.md).
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ol8I8E__J_c)._
 
@@ -65,7 +65,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 **Critical**  
 (★★☆)
 
- | Attempts to grab his victim before slamming them into the ground head-first.
+ | The Duke rushes forwards and unleashes a haymaker punch.
 
 -   Duke Erisia will **only** use this after using Strong Left.
 
@@ -77,7 +77,6 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
  | Duke Erisia pulls his fist back before it hits you, only to hit you again with his other hand.
 
--   Essentially an average Legion Kata feint.
 -   Duke Erisia will **only** feint his "Assault".
 
  |
@@ -417,6 +416,7 @@ Exhaustive Loot Table
     -   Specifically, Binding Tempest correlates to Air Grasp, Strong Left correlates to Ground Accelerate, Wind Gun correlates to Air Quake, Counter correlates to Redirect, Gale Stomp correlates to Ground Quake, and Cyclone Bomb correlates to Plasma.
     -   They also both laugh manically following a successful counter.
         -   Cyclone Bomb also bears a striking resemblance to Goku's Spirit bomb from the Dragon Ball franchise.
+-   The Duke used to use [Way of Navae](Way_of_Navae.md) for his M1s with [Legion Kata](Legion_Kata.md)'s critical attack. He was changed to use [Untrained Fist](Untrained_Fist.md) with the addition of the style.
 -   Duke Erisia will always laugh when his counter is activated, even if the attack is from a mob such as a prime golem.
 -   Before the [Stoneheart](Stoneheart.md)'s description referred to him as Ishamon, his first name remained unknown, leading to it becoming a meme in the community.
     -   Upon being asked, Arch\_Mage said his name was "Duke Fancypants."
@@ -427,7 +427,6 @@ Exhaustive Loot Table
 -   In [a video about seals](https://x.com/Hautdesert/status/1722430043526181058), Duke Erisia states he is a Virgo.
 -   In a video from Naktigonis [celebrating the millionth viewing of Sin-Smelted Scoriae](https://youtu.be/DCCjnfrZBCc) on YouTube, it is revealed that Duke Erisia is a member of the band "The Seal Unleashed" as the vocalist.
     -   Duke Erisia confirms that The Seal Unleashed does, in fact, perform Sin-Smelted Scoriae every single time someone challenges him to a fight.
--   Although he is clearly capable of using both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) respectively, he only ever uses the Way of Navae light attacks and Legion Kata critical attack.
 -   He is able to drown; if you manage to glitch both yourself and Duke Erisia into the water under his arena with Skeleton Key (or otherwise) and knock him there, he will drown and die. This does still count as a kill for you/your guild, but you cannot get to his loot afterwards.
 -   If [Taunt](Attunement-less.md#taunt) is utilized before the player talks with Duke Erisia, all his dialogue will be skipped & the fight will start immediately. It is unknown if this is intentional or not. This doesn't work with Sing.
 -   If you don't kill all the enemies in the first area, Duke Erisia and his servants won't spawn in the arena (possible to see via spark swapping with either a golem prime or brainsucker located in the second area).

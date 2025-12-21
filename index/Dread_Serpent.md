@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 179583
+revid: 184872
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -143,6 +143,5 @@ Exhaustive Loot Table
 -   It would take roughly 300-400 cannonball shots to kill a Dread Serpent. At Power 20 the amount is reduced to roughly 15-30 cannonball shots depending on PvE damage.
 -   This is the preferred boss to fight if you are trying to obtain the [Echo Talent: Chain of Perfection](Talent_Quests.md), as he can mostly be cheesed by staying behind his back. However, be careful because when the Dread Serpent comes out of the water it might hit you so be sure to dodge.
 -   It has infinite-aggro, meaning if it gets flung away, it will still endlessly target you and attempt to reach you, even in [Dimensional Travel](Dimensional_Travel.md).
--   The only boss to not have a unique combat theme.
 -   Formerly summonable via Dimensional Travel anywhere due to leaving the Interstice putting you in a brief state of being considered in the Voidsea. The Dread Serpent would spawn wherever you returned to the overworld at.
 -   The new Dread Serpent model was accidentally spawned during the Verse 3 Deepwoken Direct, closely resembling the art in it's Bestiary.
