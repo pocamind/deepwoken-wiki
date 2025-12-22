@@ -1,9 +1,11 @@
 ---
 title: Joy
-revid: 178201
+revid: 185459
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Hallowtide, Mechanics, Currency]
+categories: [Pathfinder Exclusive, Event Only Content, Hallowtide, Mechanics, Currency]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
 
 # Joy
@@ -12,6 +14,10 @@ categories: [Hallowtide, Mechanics, Currency]
 |---|---|
 | usage | Obtainment of Hallowtide exclusive items |
 | obtainment | Scaring people with the Hallowtide Mask, Doing the Trial of the Gourdskipper |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Joy is used as a currency in the [Hallowtide](Hallowtide.md) event, and can be traded for Hallowtide exclusive items. You can check how much Joy you have by either talking to [Lysander Spellhardt](Lysander_Spellhardt.md), [Glaive Spellhardt](Glaive_Spellhardt.md) or [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), though this requires that you have made a [Hallowtide Mask](Hallowtide_Mask.md) first.
 

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 185006
+revid: 185418
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -331,7 +331,7 @@ Exhaustive Loot Table
 <tr>
   <td colspan="6">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.<br>
   </td>
-  <td colspan="6"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you indolent worm. With it, I turn useless fools like you into something of use... You don't know what I do for mankind.</td>
+  <td colspan="6"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you indolent worm. With it, I turn useless fools like you into something of use... You don't know what I do for all mankind.</td>
   <td colspan="6">Let's skip the pleasantries, you know why I'm here.</td>
 </tr>
 <tr>

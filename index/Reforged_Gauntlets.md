@@ -1,6 +1,6 @@
 ---
 title: Reforged Gauntlets
-revid: 185409
+revid: 185477
 source: https://deepwoken.fandom.com/wiki/Reforged_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, The Ignition Union]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, The Ignition Union]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Mudskippers Layer 1 |
+| obtainment | EnemiesChests |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

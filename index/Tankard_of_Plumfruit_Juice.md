@@ -1,11 +1,9 @@
 ---
 title: Tankard of Plumfruit Juice
-revid: 183863
+revid: 185455
 source: https://deepwoken.fandom.com/wiki/Tankard_of_Plumfruit_Juice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Food]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Vow of Iron Exclusive, Food]
 ---
 
 # Tankard of Plumfruit Juice

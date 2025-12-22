@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 185373
+revid: 185480
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -67,14 +67,14 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  | 
 
-(To reach the boundary, enter the Temple of Mur, turn right, then follow the path down the stairs)
+(To reach the boundary, enter the Temple of Mur, turn right, then follow the path down the stairs.)
 
  |
 | Hive Cave ([The Lordsgrove](The_Lordsgrove.md)) | 
 
  | 
 
-(The boundary is located underneath the Lordsgrove)
+(The boundary is located underneath the Lordsgrove.)
 
  |
 | Hive Statue ([The Aratel Sea](The_Aratel_Sea.md)) | 
@@ -195,6 +195,6 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  | 
 
-(this boundary is close enough for ferryman to aggro if spawned in)
+(Start at the side of the island with the boat spawner and Petris. Head straight towards Ferryman, turn right, then go into the ruined tower.)
 
  |

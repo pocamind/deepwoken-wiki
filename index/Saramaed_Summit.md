@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit
-revid: 185120
+revid: 185472
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Voidzones, The Ignition Union, Locations in the Eastern Luminant]

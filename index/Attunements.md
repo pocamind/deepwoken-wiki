@@ -1,6 +1,6 @@
 ---
 title: Attunements
-revid: 172927
+revid: 185492
 source: https://deepwoken.fandom.com/wiki/Attunements
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mantras, Mechanics, Attunement]
@@ -53,23 +53,27 @@ Attunements unlocked on spawn. These attunements can all be unlocked as starting
 
 [Attunement-less](Attunement-less.md)
 
-[Attunement-less](Attunement-less.md)
+[Attunement-less](Attunement-less.md)[Attunement-less](Attunement-less.md)
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md)
+[Flamecharm](Flamecharm.md)[Flamecharm](Flamecharm.md)  
+(FIR)
 
 [Frostdraw](Frostdraw.md)
 
-[Frostdraw](Frostdraw.md)
+[Frostdraw](Frostdraw.md)[Frostdraw](Frostdraw.md)  
+(ICE)
 
 [Thundercall](Thundercall.md)
 
-[Thundercall](Thundercall.md)
+[Thundercall](Thundercall.md)[Thundercall](Thundercall.md)  
+(LTN)
 
 [Galebreathe](Galebreathe.md)
 
-[Galebreathe](Galebreathe.md)
+[Galebreathe](Galebreathe.md)[Galebreathe](Galebreathe.md)  
+(WND)
 
   
   
@@ -80,15 +84,18 @@ Attunements requiring the completion of a quest to obtain and cannot be chosen f
 
 [Shadowcast](Shadowcast.md)
 
-[Shadowcast](Shadowcast.md)
+[Shadowcast](Shadowcast.md)[Shadowcast](Shadowcast.md)  
+(SDW)
 
 [Ironsing](Ironsing.md)
 
-[Ironsing](Ironsing.md)
+[Ironsing](Ironsing.md)[Ironsing](Ironsing.md)  
+(MTL)
 
 [Bloodrend](Bloodrend.md)
 
-[Bloodrend](Bloodrend.md)
+[Bloodrend](Bloodrend.md)[Bloodrend](Bloodrend.md)  
+(BLD)
 
   
 
@@ -102,7 +109,7 @@ Note: All of the icons above are undoubtedly official representations of their b
 
 [Attunement](Attunements.md)
 
-[Attunement](Attunements.md)
+[Attunement](Attunements.md)Random
 
   
 
@@ -110,23 +117,23 @@ Note: All of the icons above are undoubtedly official representations of their b
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md)
+[Flamecharm](Flamecharm.md)[Eruption Path: Lava Serpent](Flamecharm.md#eruption-path-lava-serpent)
 
 [Frostdraw](Frostdraw.md)
 
-[Frostdraw](Frostdraw.md)
+[Frostdraw](Frostdraw.md)[Glass Path: Crystallization](Frostdraw.md#glass-path-crystallization)
 
 [Thundercall](Thundercall.md)
 
-[Thundercall](Thundercall.md)
+[Thundercall](Thundercall.md)[Surge Path: Unstable Capacitor](Thundercall.md#surge-path-unstable-capacitor)
 
 [Galebreathe](Galebreathe.md)
 
-[Galebreathe](Galebreathe.md)
+[Galebreathe](Galebreathe.md)[Haunted Path: Specter](Galebreathe.md#haunted-path-specter)
 
 [Ironsing](Ironsing.md)
 
-[Ironsing](Ironsing.md)
+[Ironsing](Ironsing.md)[Gilded Path: Scrapsinger](Ironsing.md#gilded-path-scrapsinger)
 
   
 
@@ -134,7 +141,7 @@ Note: All of the icons above are undoubtedly official representations of their b
 
 [Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)
 
-[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)
+[Flamecharm#Twisted Puppets](Flamecharm.md#twisted-puppets)[Wraith Path: Twisted Puppets](Flamecharm.md#wraith-path-twisted-puppets)
 
   
 
@@ -144,7 +151,7 @@ Note: All of the icons above are undoubtedly official representations of their b
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md)
+[Flamecharm](Flamecharm.md)[Azure Flames](Flamecharm.md#flamecharmer)
 
   
 
@@ -152,7 +159,7 @@ Note: All of the icons above are undoubtedly official representations of their b
 
 [Flamecharm#Vaporborne](Flamecharm.md#vaporborne)
 
-[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)
+[Flamecharm#Vaporborne](Flamecharm.md#vaporborne)[Vaporborne](Flamecharm.md#vaporborne)
 
   
 

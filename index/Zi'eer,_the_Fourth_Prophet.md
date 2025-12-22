@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 185133
+revid: 185460
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -24,17 +24,17 @@ Template:Creature Infobox V3
 
 ## Description
 
-Zi'eer, the Fourth Prophet of the Ministry, is the presumed final [boss](Bosses.md) and main antagonist of the Vow of Iron gamemode. He, along with [The Ministry](The_Ministry.md), invaded Etris and claimed the Throne to become the new regent of Etrea.
+Zi'eer, the Fourth Prophet of the Ministry, is the final [boss](Bosses.md) and main antagonist of the [Vow of Iron](Vow_of_Iron.md) gamemode. He, along with [The Ministry](The_Ministry.md), invaded Etris and claimed the Throne to become the new regent of Etrea.
 
 If the Inheritor challenges him within the [Etris Palace](Etris_Palace.md), they are transported to [The Throne of Lies](The_Throne_of_Lies.md), where they are faced with a great challenge. Regardless of outcome, this is the end of their journey through Etrea's past. Post-fight, the Inheritor encounters the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing them that nobody was truly able to best Zi'eer, but he hopes memories from the mementos might reveal a weakness.
 
-The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer to his second phase regardless if the Inheritor won or lost after that point. Additionally "[Memory Surpassed](https://www.roblox.com/badges/2089071245865412/Memory-Surpassed)", a roblox badge, is obtained which gives a free character slot.
+The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer to his second phase regardless if the Inheritor won. Once you defeat him, you obtain the "[Memory Surpassed](https://www.roblox.com/badges/2089071245865412/Memory-Surpassed)" badge, which gives a free character slot.
 
 ### Starting the Fight with Zi'eer
 
 1.  Defeat the [True Heart of Enmity](True_Heart_of_Enmity.md) (can be done at any power), which then spawns you at the palace. Attack the statue to break the barrier around the palace.
 2.  Recommended but not mandatory: Reach Power 20.
-3.  If you left the server where you destroyed the barrier, you will need to return to [Etris](<Etris_(Vow_of_Iron).md>) and kill the [Shogun](<Shogun_of_the_Prophet's_Guard.md>) on the bridge in-between the inn and the palace _(currently bugged, so if you want to fight him don't leave the server after breaking the barrier)_.
+3.  If you left the server where you destroyed the barrier, you will need to return to [Etris](<Etris_(Vow_of_Iron).md>) and kill one of the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) around the island.
 4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing. If you're below power 10 when you get teleported, you will get kicked with the message "Nice try man".**_
 
 ## Moves

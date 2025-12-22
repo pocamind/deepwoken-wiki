@@ -1,6 +1,6 @@
 ---
 title: Azure Duelist Ring
-revid: 185347
+revid: 185413
 source: https://deepwoken.fandom.com/wiki/Azure_Duelist_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -29,4 +29,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Azure Duelist Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that increases the user's Mantras if they cast them in quick succession of parrying an attack.
+**Azure Duelist Ring** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that increases the user's Mantra damage by 20% if they cast them in quick succession of parrying an attack.

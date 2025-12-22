@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 184387
+revid: 185434
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Hero Blades]
@@ -12,8 +12,8 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 |---|---|
 | type | Sword |
 | damage type | Slash |
-| requirements | 75 ELM, LVL 11 |
-| damage | 20 |
+| requirements | 100 ELM, LVL 11 |
+| damage | 19 |
 | scaling | 5.5 ELM |
 | posture damage | 5 |
 | range | 8 Sweep |
@@ -40,8 +40,7 @@ Although they purely scale off of the player's element, Hero Blades deal physica
 
 ## Trivia
 
--   Meeting the ELM requirement, the damage is (26.2) for all of the Hero Blades.
--   At max ELM, the damage is (28.3) for all of the Hero Blades.
+-   At reqs, the damage is (26.8) for all the Hero Blades.
 -   [Alastir](Alastir.md) refuses to talk about his hero blade, possibly suggesting that they have some sort of dark history.
 -   There are visible markings on the Hero Blade, which seem to be Elder Futhark runes; these runes don't seem to form any specific meaning.
     -   These runes translate to "jfeondkthz", from the tip of the sword to the guard.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 185406
+revid: 185449
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3088,6 +3088,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Windwaker \[Common Talent\] - Call upon a gust of wind to propel your boat even faster.
     -   The ability can be used as long as the player is standing on a boat, even if not in control.
+    -   Сannot be used in combat.
     -   Prerequisites: 20 Galebreathe, [Stratos](Stratos.md)' quest.
 
 ### Scoundrel

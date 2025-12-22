@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Lightning"
-revid: 184385
+revid: 185437
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Lightning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]
@@ -12,8 +12,8 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 |---|---|
 | type | Sword |
 | damage type | Slash |
-| requirements | 75 LTN, LVL 11 |
-| damage | 20 |
+| requirements | 100 LTN, LVL 11 |
+| damage | 19 |
 | scaling | LTN: 5.5 |
 | posture damage | 5 |
 | range | 8 Sweep |
@@ -34,8 +34,6 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 The Hero's Blade of Lightning is an elemental weapon and the [Thundercall](Thundercall.md) variation of the [Hero Blades](Hero_Blades.md).
 
-Meeting the ELM requirement, the damage is (26.2) for all the Hero Blades. At max ELM. the damage is (28.3) for all the Hero Blades.
-
 ## Critical
 
 The user slams the ground alongside the Hero of Thunder, summoning a line of thunder in front of themselves, ragdolling them.
@@ -51,6 +49,7 @@ The critical has a cooldown of **10 seconds**.
 -   The Hero of Thunder is an [Adret](Adret.md) named [Tessa](Tessa.md). Identified by their facial markings.
     -   Tessa tells the player that Thundercall isn't easily controllable as it appears to be, as said in their [Saintsworn Obelisk](Saintsworn_Obelisks.md).
     -   The Hero of Thunder was revealed in a Twitter post that teased the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).[\[1\]](#cite-note-1)
+-   At reqs, the damage is (26.8) for all the Hero Blades.
 
 ## References
 

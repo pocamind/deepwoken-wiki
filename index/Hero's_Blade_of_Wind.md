@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Wind"
-revid: 184383
+revid: 185439
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -12,8 +12,8 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 |---|---|
 | type | Sword |
 | damage type | Slash |
-| requirements | 75 WND, LVL 11 |
-| damage | 20 |
+| requirements | 100 WND, LVL 11 |
+| damage | 19 |
 | scaling | WND: 5.5 |
 | posture damage | 5 |
 | range | 8 Sweep |
@@ -34,8 +34,6 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 The Hero Blade of Wind is an elemental weapon and the [Galebreathe](Galebreathe.md) variation of the [Hero Blades](Hero_Blades.md).
 
-Meeting the ELE requirement, the damage is (26.2) for all the Hero Blades. At max ELE, the damage is (28.3) for all the Hero Blades.
-
 ## Critical
 
 The user thrusts the Hero Blade forward, breathing out the Hero of Wind and unleashing an eruption of wind that ragdolls the opponent.
@@ -49,3 +47,4 @@ The critical has a cooldoown of **10 seconds**.
 -   The Hero of Wind is a [Tiran](Tiran.md) named [Trinity Galenwarde](Trinity_Galenwarde.md). Identified by the feathers on its head.
     -   Trinity Galenwarde tells the player to decide to let the wind carry them, or defy the wind itself, elaborated on their respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
     -   The Hero of Wind was named Sven Corbet and appeared in a video prior to the public release of Deepwoken.
+-   At reqs, the damage is (26.8) for all the Hero Blades.

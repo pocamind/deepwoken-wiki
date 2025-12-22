@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 184384
+revid: 185438
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -12,8 +12,8 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 |---|---|
 | type | Sword |
 | damage type | Slash |
-| requirements | 75 SDW, LVL 11 |
-| damage | 20 |
+| requirements | 100 SDW, LVL 11 |
+| damage | 19 |
 | scaling | SDW: 5.5 |
 | posture damage | 5 |
 | range | 8 Sweep |
@@ -34,8 +34,6 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 
 The Hero Blade of Shadow is an elemental weapon and the [Shadowcast](Shadowcast.md) variation of the [Hero Blades](Hero_Blades.md).
 
-Meeting the ELM requirement, the damage is (26.2) for all the Hero Blades. At max ELM, the damage is (28.3) for all the Hero Blades.
-
 ## Critical
 
 The user quickly swings forward in a helical motion, manifesting the Hero of Shadow and slicing the opponent, stealing Ether and proccing certain Shadowcast Talents.
@@ -49,3 +47,4 @@ The critical has a cooldown of **5 seconds**.
 -   Hero's Blade of Shadow used to steal ether on running attacks. This seemed to be unintentional as this feature was removed from the game.
 -   The Hero of Shadow is a [Felinor](Felinor.md) named [Urek Felhand](Urek_Felhand.md). Identified by their ears.
     -   Felhand used to stand with the Heroes before their inevitable betrayal, elaborated on in their respective [Saintsworn Obelisk](Saintsworn_Obelisks.md).
+-   At reqs, the damage is (26.8) for all the Hero Blades.
