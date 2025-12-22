@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 184937
+revid: 185133
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -13,8 +13,8 @@ notices:
 Variants: [The Lord Regent](The_Lord_Regent.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ \*Zi'eer chuckles.\* So it seems honour comes to reclaim its lost child. You fools simply misunderstand - I have found a power far greater than your impotent little Vow. ”
 
@@ -35,7 +35,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 1.  Defeat the [True Heart of Enmity](True_Heart_of_Enmity.md) (can be done at any power), which then spawns you at the palace. Attack the statue to break the barrier around the palace.
 2.  Recommended but not mandatory: Reach Power 20.
 3.  If you left the server where you destroyed the barrier, you will need to return to [Etris](<Etris_(Vow_of_Iron).md>) and kill the [Shogun](<Shogun_of_the_Prophet's_Guard.md>) on the bridge in-between the inn and the palace _(currently bugged, so if you want to fight him don't leave the server after breaking the barrier)_.
-4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing.**_
+4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing. If you're below power 10 when you get teleported, you will get kicked with the message "Nice try man".**_
 
 ## Moves
 

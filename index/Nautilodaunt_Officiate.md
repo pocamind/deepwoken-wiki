@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 184730
+revid: 185083
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Monsters, The Depths]
@@ -72,6 +72,7 @@ Template:Creature Infobox V3
 
 -   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
 -   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
+-   Dodging to the side makes avoiding this attack more consistant, as each gyser has its own hitbox.
 
  |
 | 
@@ -107,4 +108,4 @@ Template:Creature Infobox V3
 
 -   **Fury-Fists of Thunder!** - All of the Nautilodaunt Officiate's attacks apply [Shock](Status_Effects.md#shock), stunning you and interrupting your attacks, even through hyperarmor.
     -   This passive makes the Nautilodaunt Officiate _significantly_ more dangerous than its default counterpart, as you cannot hyperarmor your way through it's attacks.
--   The Great Wall - Nautilodaunt Officiate has _A LOT_ more posture than it's two counterparts.
+-   The Great Wall - Nautilodaunt Officiate has signifigantly more posture than it's counterparts.

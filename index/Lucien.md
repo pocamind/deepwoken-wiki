@@ -1,9 +1,9 @@
 ---
 title: Lucien
-revid: 181473
+revid: 185109
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
+categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Lucien
@@ -14,6 +14,10 @@ categories: [Felinor NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 | aspect | Felinor |
 | location | Songseeker Wilds |
 | family | Meemaw (grandmother) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 

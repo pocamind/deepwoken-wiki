@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 184412
+revid: 185049
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -41,7 +41,7 @@ This weapon has 1 passive by default:
 
 **Ferrofluid Structure** - Changing the stance of this weapon completely changes the playstyle:
 
--   While used with 2 hands, this weapon is a Club dealing blunt damage and applying a [Metal Rod](Status_Effects.md#metal-rods) on each M1. It also gains higher weight compared to the sword variant.
+-   While used with 2 hands, this weapon is a club dealing blunt damage and applying a [Metal Rod](Status_Effects.md#metal-rods) on each M1. It also gains higher weight compared to the sword variant.
 -   While used with 1 hand, this weapon is a sword, dealing slash damage. Additionally, it gains innate [Bleed](Status_Effects.md#bleed) damage, increasing its unmodified damage by 15%. It also gains a slight swing speed and PEN increase compared to the club variant.
 
 The weapon also changes colors when the player owns the [Gilded Path: Scrapsinger](Talents.md#gilded-path-scrapsinger) Talent, turning golden yellow. This effect applies to criticals as well.

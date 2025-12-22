@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 185010
+revid: 185154
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1907,7 +1907,8 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The names "Teshin", "Incarnon", and "Lotus" are references to [Warframe](https://www.warframe.com).
 -   The name "Ohma" might be a reference to Ohma Tokita from Kengan Asura.
 -   The name "Arthas" is a reference to [Arthas Menethil](https://wowpedia.fandom.com/wiki/Arthas_Menethil) from [Warcraft 3](https://wowpedia.fandom.com/wiki/Warcraft_III:_The_Frozen_Throne).
--   The names "Jinshi" and "Maomao" are in reference to the protagonists of
+-   The names "Jinshi" and "Maomao" are in reference to the protagonists of The Apothecary Diaries.
+-   The name "Atreus" could be a reference to the son of Kratos in God of War.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Depths Supercharger
-revid: 181864
+revid: 185051
 source: https://deepwoken.fandom.com/wiki/Depths_Supercharger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | The Ferryman |
 | description | Limits you to 2 mantras but greatly empowers them and boosts your Ether and Tempo. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

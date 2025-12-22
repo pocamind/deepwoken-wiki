@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 184906
+revid: 185101
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1442,21 +1442,31 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 60 Flamecharm, [Power](Power.md) 13
     -   Mutual Exclusive: Eruption Path: Lava Serpent
 
+### Flame Inheritor
+
+-   Flames of the Past \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your flamecharm mantras now call forth firey homing spirits.
+    
+    -   Your Flamecharm Mantras now spawn Twisted Puppets' Puppets.
+    -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
 ### Flame Warden
 
 -   Cauterized Wounds \[Common Talent, Flamecharm Exclusive\] - Blood loss from all sources is lowered. (+1 Passive Agility)
+    -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](Bloodrend.md) Mantras, blood loss [Potions](Alchemy.md), the blood loss [Corrupt Resonance](Resonance.md) downside) are entirely unaffected by this Talent.
     -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
     -   Stacks with Alloyblood.
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
+
+-   Pleeksty's Wrath \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - After dealing 500 damage with Flame Mantras, call forth a hail of firey swords. (+4 Sanity)
+    
+    -   Spawns swords from the sky, similarly to [First Light](First_Light.md)'s critical attack.
+    -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
 -   _Warding Radiance_ \[Rare Talent, Flamecharm Exclusive\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
     -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
     -   This can be easily procced by landing a multi-hit fire mantra.
     -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.
     -   Prerequisites: 20 Agility, 30 Flamecharm
-
--   Pleeksty's Wrath \[Common Talent, Flamecharm Exclusive\] - After dealing 500 damage with Flame Mantras, call forth a hail of firey swords. (+4 Sanity)
-    -   Prerequisites: 35 Flamecharm, Warding Radiance
 
 -   Flamewalker \[Common Talent, Flamecharm Exclusive\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
     -   Prerequisites: 25 Agility, 40 Flamecharm, Warding Radiance
@@ -1887,6 +1897,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Immolator
 
+-   **Ascended Phoenix Flames** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
+    
+    -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) OR [Solborn](Solborn.md) Memento
+
 -   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
         -   This visual effect will still happen when hitting a non-burning target with a burn-applying attack, granting Emperor Flame stacks without spreading burn.
@@ -1907,10 +1921,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
     -   Prerequisites: Immolation, Agitating Spark
 
--   **Ascended Phoenix Flames** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
-    
-    -   Prerequisites: [Solborn](Solborn.md) Memento
-
 ### Inferno
 
 -   Corpse Explosion \[Common Talent\] - Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
@@ -1923,10 +1933,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Does not proc with flames produced by the user with Flame Within or Agitating Spark.
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
-
--   Pleeksty's Will \[Common Talent\] - You gain significantly more ether from consuming elemental ingredients.
-    -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
-    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
 
 -   Simmerbloom \[Common Talent\] - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
@@ -3621,9 +3627,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Tamed Flame
 
 -   Controlled Combustion \[Common Talent, Flamecharm Exclusive\] - Your Agitating Spark no longer spreads to your allies.
+    -   Your Agitating Spark no longer spreads to yourself too.
+    -   In some places, this Talent doesn't work well, spreading to your allies if they are too close to the target.
     -   Prerequisites: Agitating Spark, 40 Charisma
-    -   Note: Your Agitating Spark no longer spreads to yourself too. In some places, such as Duke's Dungeon, this Talent doesn’t work well, spreading to your allies if they are too close to the target.
-    -   Hitting a target with some flame mantras will briefly emit a visual effect in yourself and produce a sound of putting out flame. (These are purely visual effects, therefore, not necessary to dodge)
 
 ### Tavernkeep
 
@@ -3673,6 +3679,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Has a 20s Cooldown
     -   With eruption path, it will proc eruption.
     -   Prerequisite: 65 Flamecharm
+
+-   _True Mirage Clone_ \[Rare Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
+    
+    -   Has a 20s Cooldown
+    -   Prerequisite: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 ### The Knives of Eylis
 
@@ -4253,6 +4264,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
     -   Stacks with the [Boon](Boons_and_Flaws.md#packmule) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
     -   Prerequisite: 5 Fortitude
+
+-   Pleeksty's Inheritance \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You inherit the teachings of Amorus Pleeksty, augmenting your flamecharm mantras.
+    
+    -   Makes your Flamecharm Mantras extremely loud.
+    -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento
+
+-   Pleeksty's Will \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
+    -   Consuming [Gale Stones](Gale_Stone.md), [Heartstars](Heartstar.md), [Dying Embers](Dying_Embers.md), [Spark Glands](Spark_Gland.md), and [Frigid Prisms](Frigid_Prism.md) gives significantly more Ether.
+    -   Consuming elemental ingredients has a 20 second cooldown.
+    -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
+    -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
 
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
     -   Prerequisite: [Power](Power.md) 1

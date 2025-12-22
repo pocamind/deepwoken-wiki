@@ -1,9 +1,9 @@
 ---
 title: Berserker
-revid: 184346
+revid: 185085
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Pages with broken file links, Mementos]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -28,3 +28,13 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 **Berserker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento changes your eye color to red.
+
+  
+
+File:Power10TalentsBerserker.png
+
+Power 10 Talents
+
+File:Power15TalentsBerserker.png
+
+Power 15 Talents

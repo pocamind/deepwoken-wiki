@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 184913
+revid: 185070
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Theros Disciple** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+**Theros Disciple** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento centers itself around the [Blightsurger](Oath%253A_Blightsurger.md) Oath.
+
+NOTE: If you unequip your [Imperator's Edge](<Imperator's_Edge.md>), you will **not** be able to re-equip it.
 
 ## Available Mantras
 

@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 184968
+revid: 185152
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -47,7 +47,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
  | Dravik uses his axe to slash his opponent.
 
- |  |
+ | 
+
+ |
 | 
 
 **Feint**
@@ -63,7 +65,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   There is a noticeable delay between the first swing and the follow-up spins.
 
- |  |
+ | 
+
+ |
 | 
 
 **Gilded Rushdown**
@@ -76,7 +80,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   The timing for parrying the rushes depends on Dravik's distance from the player.
 
- |  |
+ | 
+
+ |
 | 
 
 **Aureate Flourish**
@@ -88,7 +94,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   The slam can be feinted into Gilded Lefts.
 -   The slam may also be jumped over.
 
- |  |
+ | 
+
+ |
 | 
 
 **Gilded Lefts**
@@ -97,10 +105,12 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
  | Dravik winds up his left arm and throws out three strong lefts.
 
--   This move is only performed after feinting **Glistening Crush**.
+-   This move is only performed after feinting **Aureate Flourish.**
 -   The visual for this move is deceptively big compared to the hitbox.
 
- |  |
+ | 
+
+ |
 | 
 
 **Glowing Slashes**
@@ -112,7 +122,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This move can be feinted into **Rule of Rushing** after any of the slashes.
 -   The windup is similar to the first swing of **Golden Tornado**, but faster
 
- |  |
+ | 
+
+ |
 | 
 
 **Rule of Rushing**
@@ -124,7 +136,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This move is only performed after feinting **Glowing Slashes**.
 -   Dravik may follow this move up with **Glistening Crush**
 
- |  |
+ | 
+
+ |
 | 
 
 **Three Swing Cleave**
@@ -135,7 +149,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   This move is always followed by **Pasmarkinti**.
 
- |  |
+ | 
+
+ |
 | 
 
 **Pasmarkinti**
@@ -148,7 +164,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   Dravik can feint the third slash of any of the three attacks into a slower slash.
 -   For whatever reason, this move seems to have the highest chance of a voiceline playing.
 
- |  |
+ | 
+
+ |
 | 
 
 **Sparkle Blitz**
@@ -171,7 +189,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   This move is heavily telegraphed.
 
- |  |
+ | 
+
+ |
 | 
 
 **Rites of the Rat**
@@ -193,7 +213,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   The swing itself is quite quick, so try to learn the timing of the attack. Do not panic dodge.
 
- |  |
+ | 
+
+ |
 
 ### Passives
 

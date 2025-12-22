@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 185027
+revid: 185089
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -106,7 +106,7 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
 ## Passives
 
--   **Monster Resistance** - Physical attacks deal ??? less damage to Deep Owls.
+-   **Monster Resistance** - Physical attacks deal ~50% less damage to Deep Owls.
 
 ## Dialogue
 

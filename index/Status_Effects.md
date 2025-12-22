@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 183897
+revid: 185148
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -664,6 +664,10 @@ Gain a [speed boost](#speed-boost), and an unstoppable urge to run. You're unabl
 
 Takes a percentage of your maximum Ether and grants it to your Vow Master. Applied the [Vow of Mastery](Vow_of_Mastery.md) Command: Leech. Signified by a blue ball of ether leaving your body to go to your master.
 
+### Soul Veil
+
+Applied through the [Prince of the Moon](Prince_of_the_Moon.md) Memento's [Soul Veil](Talents.md#soul-veil) Talent, gain a stacking 7.5% damage buff when you land attacks with the [Soulthorn](Soulthorn.md). This damage buff caps at +30% damage. If you take damage while having the Soul Veil status effect, your opponent will steal the buff until you hit them back. This buff is applied to the attack that gains the buff, allowing your opponents to nuke you if you get hit. Signified by your character being enveloped in a celestial white and black aura.
+
 ## Attunement-Exclusive Talents
 
 These status effects are applied as the effect of certain [Talents](Talents.md) which require investment into an [Attunement](Attunements.md) to obtain.
@@ -690,7 +694,7 @@ After [feinting](Combat_Mechanics.md#feinting) a Galebreathe Mantra with the Inh
 
 #### Maestro's Blade
 
-After using Inhale, gain the Maestro's Blade status effect. During the duration of this status effect, your melee attacks will benefit from [After Cut](Talents.md#after-cut) and [Possession](Talents.md#possession). The duration of Maestro's Blade is based off the Ether cost of the Inhaled Mantra, being (Mantra Ether cost/5) seconds; [Blue Gem](Blue_Gem.md) and [Warped Blue Gem](Warped_Blue_Gem.md) are not taken into account for Maestro's Blade duration. Maestro's Blade is signified by wind particles coming off of your right hand.
+After using Inhale, gain the Maestro's Blade status effect. During the duration of this status effect, your melee attacks will benefit from [After Cut](Talents.md#after-cut) and [Possession](Talents.md#possession). The duration of Maestro's Blade is based off the Ether cost of the Inhaled Mantra, being (Mantra Ether cost/5) seconds; [Blue Gem](Blue_Gem.md) and [Warped Blue Gem](Warped_Blue_Gem.md) are not taken into account for Maestro's Blade duration. Maestro's Blade is signified by your weapon briefly turning green with wind effects.
 
 ### Orbital Ice
 
@@ -814,7 +818,7 @@ Buffs the sanity and health regeneration of people near you. Also slightly buffs
 
 ### Mark of Nemit
 
-Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by red particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
+Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by yellow particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
 
 ### Mark of Ku
 

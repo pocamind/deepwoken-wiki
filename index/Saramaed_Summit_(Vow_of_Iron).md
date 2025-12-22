@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit (Vow of Iron)
-revid: 184564
+revid: 185121
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with VOI reason, InProgressPages, Vow of Iron Exclusive]
@@ -13,5 +13,5 @@ notices:
 Variants: [Saramaed Summit](Saramaed_Summit.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.

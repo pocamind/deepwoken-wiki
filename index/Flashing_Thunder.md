@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 183985
+revid: 185130
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Flashing Thunder | |
 |---|---|
 | description | Lightning always finds its mark. |
-| unlock | Solo Dravik, The Rat King as a Sightless |
+| unlock | Defeat Dravik, The Rat King as a Sightless |
 | final attributes | 100 Thundercall, 100 Medium Weapon, 50 Fortitude, 100 Agility, 50 Intelligence, 45 Willpower |
 | final traits | 4 Songchant, 4 Proficiency, 3 Vitality, 4 Erudition |
 | allowed weapons | Any |

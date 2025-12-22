@@ -1,9 +1,9 @@
 ---
 title: Hallowed Monastery Cowl
-revid: 181747
+revid: 185081
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Cowls]
+categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
 ---
 
 # Hallowed Monastery Cowl
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Cowls]
 | type | Head |
 | rarity | Legendary |
 | selling price | 25 |
-| requirements | PWR 6 |
+| requirements | None |
 | weight | 1 |
 | innate stats | 5% Stealth, 2 Rare Pips |
 | innate talent | Blade Dancer, Footwork Mastery |
@@ -23,8 +23,12 @@ categories: [Equipment, Head, Cowls]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | The Depths (Vow of Iron) |
 | description | ... |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
