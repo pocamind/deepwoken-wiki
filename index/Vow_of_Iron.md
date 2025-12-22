@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 185153
+revid: 185316
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -29,9 +29,9 @@ Vow of Iron is, in essence, a hard mode of _Deepwoken_. Featuring new enemies, b
 
 Vow of Iron feature many differences from Pathfinder, aimed at providing a new, more complicated and punishing experience to the player.
 
-### General Mechanics
+### General
 
--   Any Weapon or Schematic can be equipped as long as your Memento's **final** attributes meet their requirements.
+-   Any Weapon or Schematic can be equipped as long as your Memento's **final** attributes meet their requirements, rather than your current attributes needing to meet their requirements.
     -   Some Mementos only allow certain weapon classes or lock your outfit to the one you spawn with however.
     -   For example you can equip the [Darksteel Cleaver](Darksteel_Cleaver.md), a 100 Heavy Weapon requirement weapon, on [Berserker](Berserker.md) at Power 1, because Berserker has 100 Heavy Weapon in its final attributes.
 -   You effectively have infinite Mantra slots, with the only limiting factor being how many Mantras your Memento gives you.
@@ -43,6 +43,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   There are also unique Aspects available in Vow of Iron, and all Aspects receive an additional new [innate Talent](Talents.md#innate).
     -   Purchasing a Aspect Reroll [Robux](https://roblox.fandom.com/wiki/Robux) on either gamemode will give you an **Aspect Reroll Token** for the opposite gamemode. This allows you to reroll your Aspect for free.
 -   A lot of Pathfinder NPCs are absent, with Vow of Iron counterparts.
+-   Legendary Weapons can be [Enchanted](Enchantments.md).
 
 ### Mementos and Progression
 
@@ -78,13 +79,13 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   There are static items around the map that can be picked up. For example, the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) can be found at [Saramaed Summit](Saramaed_Summit.md).
 -   Black loot boxes can spawn around the map, where you spend Notes to obtain a random item.
 
-### Static Spawn Items
+#### Static Spawn Items
 
--   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>): [Saramaed Summit](Saramaed_Summit.md)
 -   [Frost Gauntlets](Frost_Gauntlets.md): by the back room of [The Indigo Citadel](The_Indigo_Citadel.md)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): around the exit/entrance of the Miners Cave [Boundary](Boundary.md)
--   [Kanabo](Kanabo.md): by the back room of [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md)
 -   [Iron Requiem](Iron_Requiem.md): above the blacksmith in [Summer Isle](Summer_Isle.md)
+-   [Kanabo](Kanabo.md): by the back room of [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md)
+-   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>): [Saramaed Summit](Saramaed_Summit.md)
+-   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): around the exit/entrance of the Miners Cave [Boundary](Boundary.md)
 
 ### Lumen and The Depths
 

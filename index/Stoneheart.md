@@ -1,9 +1,9 @@
 ---
 title: Stoneheart
-revid: 184067
+revid: 185199
 source: https://deepwoken.fandom.com/wiki/Stoneheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
+categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
 ---
 
 # Stoneheart
@@ -35,10 +35,6 @@ categories: [Pathfinder Exclusive, Weapons, Greathammers, Weapons with Unique Cr
 | pass down | Yes |
 | obtainment | Duke Erisia, Physical DropRoughly 10-15% drop rate |
 | description | A hammer pieced together from the remains of one of Duke Ishamon Erisia's Golems. Conjured by the Duke's Resonance, they once patrolled his estate in Celtor before its fall. From the reports of spies hired by rival nobles in the city, he was only able to support a limited number of golems - his acquisition of the Forge of Sin seems to have extended his capacity by other, more sinister means. |
-
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
 
 ## Description
 

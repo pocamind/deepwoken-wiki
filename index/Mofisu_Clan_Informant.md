@@ -1,6 +1,6 @@
 ---
 title: Mofisu Clan Informant
-revid: 184106
+revid: 185194
 source: https://deepwoken.fandom.com/wiki/Mofisu_Clan_Informant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Clan Mofisu]
@@ -47,7 +47,7 @@ Mofisu Clan Informant is a [Etrean](Etrean.md) NPC. The player is able to speak 
   <td colspan="2">Is there nothing we can do?</td>
 </tr>
 <tr>
-  <td colspan="2">WIP</td>
+  <td colspan="2">My kindred, Clan Mofisu, as well as the other great Etrean noble families that resist the Regent, have gathered at the Golden Rat. Rumors have spread that the 'Rat King' is in possession of a technique capable of piercing the barrier. Unfortunately, that is all we know for now...</td>
 </tr>
 <tr>
   <td colspan="2">Where can I find the Golden Rat?</td>
@@ -61,7 +61,7 @@ Mofisu Clan Informant is a [Etrean](Etrean.md) NPC. The player is able to speak 
 </tr>
 <tr>
   <td>Hear my advice, before you go... The 'Rat King' was formerly one of the Blade Temple's most exceptional instructors, before his fallout with Maestro Alkhurst Legato regarding the temple's standards... Approach the man with extreme caution.</td>
-  <td>Simply leave me to rest, for now... Merciful <a href="Glossary.md#mur-of-light">Mur</a> will watch over my fate, whatever comes.</td>
+  <td>Simply leave me to rest, for now... Merciful <a href="Glossary.md#mur-of-light">Mur</a> will watch over my fate, whatever comes...</td>
 </tr>
 <tr>
   <td colspan="2">End</td>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 185101
+revid: 185200
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2051,6 +2051,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Teachings of the Edenkite_ \[[Drakkard](Drakkard.md), [Pathfinder](Pathfinder.md) Exclusive\] - Find your centre.
     -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.
+
+-   _Scales of The Edenkite_ \[[Drakkard](Drakkard.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In order to resolve conflict in Lumen, you need to be able to handle any situation thrown at you. Activate your Scales to reduce all damage taken by 80% and de-aggro enemies briefly. \[3 minute CD\]
+    
+    -   Gives a Talent Tool.
+    -   The buff lasts 5 seconds.
+    -   The deaggro effect does not work.
+    -   The Talent tool's description states that it grants 90% damage reduction with a 5 minute cooldown, but this is **false**.
 
 -   _Versatile_ \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
     -   This does not work on [Power](Power.md) requirements.
@@ -4148,11 +4155,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Grants a Talent tool.
     -   Heals 2% of your maximum health, not 4%.
     -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
-
-### Voidhunter
-
--   Time Burst \[Oath Talent, Voidhunter Exclusive\] - Your vent now slows down time to individuals hit by it. (+1 Passive Agility)
-    -   Slow humanoid targets that you hit with your vent.
 
 ### Vow of Mastery
 

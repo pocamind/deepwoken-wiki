@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 184632
+revid: 185198
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -489,11 +489,6 @@ Power 1, 950
     -   Requirements: Power 15, 200
 
 ## Boss Unlocks
-
-### Shogun of the Prophet's Guard
-
--   Time Burst \[Oath Talent\] - Your vent now slows down time to individuals hit by it. (+1 Passive Agility)
-    -   Slow humanoid targets that you hit with your vent.
 
 ### Dravik, The Rat King
 

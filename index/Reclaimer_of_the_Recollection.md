@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 184785
+revid: 185220
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Voiced Characters]
@@ -57,26 +57,28 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="4">Begin</td>
 </tr>
 <tr>
-  <td colspan="3">Well met, Inheritor. Is there something I can assist with?<br>
+  <td colspan="4">Well met, Inheritor. Is there something I can assist with?<br>
   [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td>How am I to proceed?</td>
   <td>Are there any other tasks?</td>
   <td>Remind me what our objective is?</td>
+  <td>[Player purchases Power Recall]</td>
 </tr>
 <tr>
   <td>[See "Proceeding" section]</td>
   <td>[See "Extra Tasks" section]</td>
   <td>Our objective is to accomplish what the donors of these Mementos could not. We must find a way to defeat Zi'eer. The answer may well lie within the memories that you are diving into, Inheritor, so you must live them out. There is some lee-way to how far you can steer off course, but there will be key points that will render the story unable to progress until you relive them.</td>
+  <td>Very well, I will assist in gathering more of this memory.</td>
 </tr>
 <tr>
   <td></td>
   <td></td>
-  <td>End</td>
+  <td colspan="2">End</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Sightless
-revid: 183823
+revid: 185161
 source: https://deepwoken.fandom.com/wiki/Sightless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -581,6 +581,8 @@ Power 15, 950
 -   Focused Perception \[Memento Talent\] - Massively increase the range of your Rhythm if you use it while [Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle) is active.
     
     -   The Sightless Memento does not unlock Tranquil Circle at any point, causing this Talent to do nothing.
+
+-   [Flashing Thunder](Flashing_Thunder.md) Memento
 
 ### True Heart of Enmity
 

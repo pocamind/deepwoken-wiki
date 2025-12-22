@@ -1,6 +1,6 @@
 ---
 title: Pathfinder
-revid: 185065
+revid: 185308
 source: https://deepwoken.fandom.com/wiki/Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Game Modes, Paths, Character]

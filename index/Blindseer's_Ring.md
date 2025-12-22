@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 181866
+revid: 185221
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | Sitting on top of the Eastern Interstitial Lighthouse |
 | description | Increase all healing you recieve by 33%. Reduce all damage you deal by 15%. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

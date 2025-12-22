@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 181412
+revid: 185313
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -81,7 +81,6 @@ This page is about content that has either been removed or changed drastically i
 
 -   **[Crab](Crab.md)** - Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
     -   However, they were brought back within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as another weak mob. They are yet to be seen elsewhere.
--   **[Isopods](Horseshoe_Crab.md) -** Small, weak creatures that could attach to your face and start sucking the blood out of the player. They still exist, but exclusively in a short sequence during the [Charisma Unbound](Attributes_Unbound.md#charisma-unbound) quest where they kill [Karliah](Karliah.md).
 -   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the June 9th, 2025 update due to lore reasons, in which they had no real reason to exist. Their enemy spawns were replaced with [Nightmare Threshers](Nightmare_Thresher.md).
 
 **Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
@@ -369,6 +368,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Subsistence \[Rare talent, Intelligence\] -** As a skilled apothecarian, you are more accustomed to potions and gain graeter benefits from ingesting potions that affect your regeneration. (+3 Health)
     -   In the December 1st, 2023 update, Subsistence was merged into Potion Quaffer.
+
+-   **Tempest Blade \[Common Talent, Galebreathe\] -** Cast Wind Blade while sliding to unleash a quick whirlwind attack.
+    -   In the December 21st, 2025 update, Tempest Blade was made innate behavior for Wind Blade.
 
 -   **The Cold Forge \[Common Talent, Frostdraw\] -** You forge more shurikens when casting on ice. (+5 Elemental Intensity)
     -   In the May 15th, 2023 update, Cold Forge became base behavior for Ice Forge.

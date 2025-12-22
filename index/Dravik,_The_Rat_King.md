@@ -1,9 +1,9 @@
 ---
 title: "Dravik, The Rat King"
-revid: 185152
+revid: 185318
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
+categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
 ---
 
 # Dravik, The Rat King
@@ -54,7 +54,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 **Feint**
 
- | Dravik cancels his attack mid swing to fake out the player. |  |
+ | Dravik cancels his attack mid swing to fake out the player.
+
+ |  |
 | 
 
 **Golden Tornado**
@@ -173,10 +175,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★★☆)
 
- | Dravik teleports behind the player and performs a quick slash
+ | Dravik teleports behind the player and performs two quick slashes
 
--   This move is rarely ever used, mostly when the player is at a distance.
--   It is near impossible to react to this move
+-   This move is rarely ever used, mostly when the player is at a distance and facing away from Dravik.
+-   It is near impossible to react to this move.
 
  |  |
 | 
@@ -201,6 +203,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik summons two golden battleaxes to circle around you and at random, they strike.
 
 -   This can be overlapped with Dravik's other attacks, causing you to be overwhelmed if not careful.
+-   During his second phase, Dravik summons two sets of axes.
 
  |  |
 | 
@@ -221,8 +224,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   **No More Tricks** - Upon reaching **60% HP** _(won't activate if he is downed)_,
     -   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?"
-    -   **Dravik will gain immunity to mantras and criticals, reflecting all damage done by these back to you. This includes enchant effects, such as Storm.**
     -   Dravik will also gain a circle of light around him.
+    -   **Dravik will gain immunity to mantras and criticals, reflecting all damage done by these back to you. This includes enchant effects, such as Storm.**
+        -   **His critical immunity does not apply to all criticals**
 
 ## Gallery
 
@@ -232,7 +236,7 @@ TBA
 
 -   Dravik is voiced by "a random guy off Fiverr \[for $50\]".[\[1\]](#cite-note-1)
 -   The Triangular slash attack is likely a reference to "[Pasmarkinti Charged Blow](https://rogue-lineage.fandom.com/wiki/Pilgrim_Knight)" from Monad Studio's previous game, _Rogue Lineage_.
--   The current soundtrack that plays during the fight is "Shallow Breath" by Naktigonis, which was originally an ost meant for the Conquest gamemode.
+-   The current soundtrack that plays during the fight is "Shallow Breath" by Naktigonis, which was originally an ost meant for the [Conquest gamemode](Conquest.md).
 
 ## Navigation
 

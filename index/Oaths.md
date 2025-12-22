@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 184649
+revid: 185203
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -132,7 +132,7 @@ _WEP = Any weapon stat (HVY, MED, LHT)_
 
 -   Warmaster
 -   Chef
--   Voidhunter
+-   Voidhunter[\[1\]](#cite-note-1)
 
 ## Oath Skipping
 
@@ -261,3 +261,7 @@ Proof of Time Magic's existence and it being an "Oath"
     -   For Soulbreaker, this is probably due to it being added after the Oath skip update.
     -   For Bladeharper, its progression is _supposed_ to be skippable, though it currently isn't due to an oversight.
     -   And finally for Blightsurger, its prog not being skippable is entirely intentional, even going as far as [Brutus](Brutus.md) having unique dialogue if you attempt to skip the Oath's progression.
+
+## References
+
+1.  [↑](#cite-ref-1)

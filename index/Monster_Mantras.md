@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 183370
+revid: 185160
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -262,7 +262,7 @@ Slash
 
 **Effect:** _The user grows a [Terrapod](Terrapod.md) claw from their left arm and begins to spin forward after a short windup._
 
--   Deals ~6 damage per hit with bleed damage and a total of 6 hits, totallying to 36+10 bleed damage.
+-   Deals ~6 damage per hit with bleed damage and a total of 6 hits, totalling to 36+10 bleed damage.
 -   Deals heavy posture damage. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
 -   Cancels if parried.
 -   Can be modified with Aeon and Eternal Logstones to increase the number of times it hits
@@ -336,7 +336,7 @@ Blunt
 -   Shares a cooldown with [Shade Step](Shadowcast.md#shade-step) and [Sanguine Dive](Bloodrend.md#sanguine-dive).
 -   Functions similar to [Sanguine Dive](Bloodrend.md#sanguine-dive). After ~3 seconds, or if you are near someone, you will be forced to un-burrow out of the ground.
 -   Unlike [Sanguine Dive](Bloodrend.md#sanguine-dive) or [Shade Step](Shadowcast.md#shade-step) this mantra can not be ended early by pressing M1.
--   Deals 39 damage with 2 songchant, probablly has a base unmodified damage of 35
+-   Deals 39 damage with 2 songchant, probably has a base unmodified damage of 35
 
  |
 

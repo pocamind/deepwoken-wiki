@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 185148
+revid: 185304
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -408,6 +408,10 @@ These status effects are applied exclusively through certain [Weapon](Weapons.md
 
 Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to use their followup attack to their critical, or users of the [Soulthorn](Soulthorn.md) to use their 2nd and 3rd stage criticals on you depending on the amount of Moonseye Mark stacks applied.
 
+### Fractine Shard
+
+Allows your opponent to use the Fractine in its shattered state. Signified by the Fractine's shard being lodged into you.
+
 ### Enlightened
 
 Cast your [Imperator's Edge](<Imperator's_Edge.md>) neutral critical twice with extended [Hyperarmor](#hyperarmor) and gain Hyperarmor for the running critical. This status effect is applied by landing hits with the tip of the Imperator's Edge and is signified by a yellow halo above the character's head.
@@ -664,9 +668,13 @@ Gain a [speed boost](#speed-boost), and an unstoppable urge to run. You're unabl
 
 Takes a percentage of your maximum Ether and grants it to your Vow Master. Applied the [Vow of Mastery](Vow_of_Mastery.md) Command: Leech. Signified by a blue ball of ether leaving your body to go to your master.
 
+### Dragon Scales
+
+Applied through the [Drakkard](Drakkard.md) Talent, [Scales of the Edenkite](Talents.md#scales-of-the-edenkite), gain 80% damage reduction for 5 seconds. Additionally, all enemies will be deaggrod briefly (this is currently bugged and does not work). Signified by your character being enveloped in a white aura with white orbs floating around their head.
+
 ### Soul Veil
 
-Applied through the [Prince of the Moon](Prince_of_the_Moon.md) Memento's [Soul Veil](Talents.md#soul-veil) Talent, gain a stacking 7.5% damage buff when you land attacks with the [Soulthorn](Soulthorn.md). This damage buff caps at +30% damage. If you take damage while having the Soul Veil status effect, your opponent will steal the buff until you hit them back. This buff is applied to the attack that gains the buff, allowing your opponents to nuke you if you get hit. Signified by your character being enveloped in a celestial white and black aura.
+Applied through the [Prince of the Moon](Prince_of_the_Moon.md) Memento's [Soul Veil](Talents.md#soul-veil) Talent, gain a stacking 7.5% damage buff when you land attacks with the [Soulthorn](Soulthorn.md). This damage buff caps at +30% damage. If you take damage while having the Soul Veil status effect, your opponent will steal the buff until you hit them back. This buff is applied to the attack that gains the buff, allowing your opponents to nuke you if you get hit. Signified by your character being shimmering with a celestial white and black aura.
 
 ## Attunement-Exclusive Talents
 
@@ -726,7 +734,7 @@ A link tethering you to your opponent. Applied by uppercutting or flourishing an
 
 ### Static Blade
 
-Applied from landing basic attacks, blocking attacks, and having your attacks parried with the [Static Blade](Talents.md#static-blade) Talent. Gain an electric charge on your weapon, granting you a ramping speed boost. This effect has no visual indicator.
+Applied from landing basic attacks, blocking attacks, and having your attacks parried with the [Static Blade](Talents.md#static-blade) Talent. Signified by an electric charge on your weapon, granting you a ramping speed boost.
 
 #### Gathering Electricity
 
@@ -746,7 +754,7 @@ Screen turns slightly black around the edges and have your vision obscured. Gain
 
 ### Ironclad Defenses
 
-Gain 60% damage reduction for 2 seconds after dodging an attack. This damage reduction will be lost upon taking a hit. This effect is applied by the [Ironsinger's Instinct](Talents.md#ironsingers-instinct) Talent. 18 second cooldown.
+Gain 60% damage reduction for 2 seconds after dodging an attack. This damage reduction will be lost upon taking a hit. This effect is applied by the [Ironsinger's Instinct](Talents.md#ironsingers-instinct) Talent. 18 second cooldown. Indicated by a grey highlight on your character.
 
 ### Augmented
 

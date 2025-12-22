@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 184492
+revid: 185170
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Talents, Heavy Weapons]
@@ -22,7 +22,6 @@ categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Cr
 | endlag | 0.3s |
 | chip damage | 10% |
 | talent | Monster Slayer - Deal 25% more damage to giant enemies. |
-| special effect | Full true-hyperarmor crit that applies knockback. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -36,11 +35,11 @@ categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Cr
 | obtainment | TBA |
 | description | When faced with insurmountable odds, sometimes all you need is a Big Sword. |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
-
 Variants: [Darksteel Greatsword](Darksteel_Greatsword.md)
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

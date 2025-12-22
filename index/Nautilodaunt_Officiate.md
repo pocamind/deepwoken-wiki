@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 185083
+revid: 185213
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Monsters, The Depths]

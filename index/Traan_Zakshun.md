@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 182602
+revid: 185315
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -153,9 +153,9 @@ Traan's Salvaged Stock
 
   
 
-Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sells 3 to 4 items each visit.
+Depending on the rotation, they can sell 1 to 4 items at once. Typically, they sell 3 to 4 items each visit.
 
-His item descriptions will change randomly each time he hits his hourly rotation:
+Traan's item descriptions will change randomly each time they hit their hourly rotation:
 
 -   _A rare find indeed._
 -   _An item most regal!_
@@ -282,7 +282,7 @@ Sold Items
 
 ## Black Market
 
-Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from his black market stock. For reference to calculate when the black market is available, every five days, the black market will be available at both 00:00 UTC and at 20:00 UTC on the same day. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour. Prices appear to fluctuate depending on the day. The [Gilded Needle](Gilded_Needle.md) for example has been seen at both ten [Crowns](Crowns.md) and five [Crowns](Crowns.md). Listed prices are what appears most frequently.
+Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from their black market stock. For reference to calculate when the black market is available, every five days, the black market will be available at both 00:00 UTC and at 20:00 UTC on the same day. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour. Prices appear to fluctuate depending on the day. The [Gilded Needle](Gilded_Needle.md) for example has been seen at both ten [Crowns](Crowns.md) and five [Crowns](Crowns.md). Listed prices are what appears most frequently.
 
 ### Shop UI
 
@@ -301,7 +301,7 @@ Traan's Black Market Cache
 
 The black market rotation always has 4 items in stock.
 
-His item descriptions will change randomly each time he sells goods from his Black Market Cache:
+Traan's item descriptions will change randomly each time they sell goods from their Black Market Cache:
 
 -   _A strange blue turnip salesman once told me that deep forests, like the ones in Upper Erisia, bring in good coin. Gotta say, he's right._
 -   _Buy it you break it. Wait a sec..._

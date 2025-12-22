@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 182494
+revid: 185317
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
