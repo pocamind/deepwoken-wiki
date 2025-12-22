@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 183071
+revid: 185407
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, NPCs, Talents]
@@ -197,7 +197,6 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 
 -   _Aeromancer_ (Gale Trap, Aeronade, Vacuum Punch, Suffocating Impact) **(Note; Cannot give Aerogliding, Stifled Jump)**
 -   _Galeforce_ (After Cut, Breathing Impact, Inhale)
--   _Gale Duelist_ (Tempest Wind)
 -   _Legion Shock Trooper_ (Cyclone Blade, Air Pressure, Pressure Break, Windstep)
 -   _Maestro's Technique_ (Silencer's Song)
 -   _Silencer_ (A World Without Song) **(Note; Cannot give Silencer's Blade, which is needed for this Mystic dialogue to unlock)**

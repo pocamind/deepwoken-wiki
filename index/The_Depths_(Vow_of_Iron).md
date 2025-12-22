@@ -1,12 +1,18 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 185047
+revid: 185402
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the First Layer]
+categories: [Vow of Iron Exclusive, Pages with broken file links, Locations, Locations in the First Layer]
 ---
 
 # The Depths (Vow of Iron)
+
+Variants: [The Depths](The_Depths.md)
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.md), having a lot more prevalent danger than [The Depths](The_Depths.md) of Pathfinder.
 
@@ -136,7 +142,7 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
   <td><center><b>Tarnished</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>What's wrong with me?</center></td>
-  <td><center>TBA</center></td>
+  <td><center>Works as the tarnished flaw you get from rerolling your bell at Yun'Shul.</center></td>
   <td><center>I</center></td>
 </tr>
 <tr>
@@ -152,7 +158,9 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
 -   \* Note: "Max Stacks" is highest recorded count. Take with a grain of salt. If "limitless", count surpassed 10 with no clear sign of stopping.
 -   Note: Atrophic was tested and it seems the max it goes up to is 50% extra damage at 5 stacks.
 -   Obtaining 45 drowns will give your trial a chance to be corrupted.
+-   The cap on limitless is 100.
 
 ## Notes & Trivia
 
 -   At max insanity, the Flaw countdown lasts as little as 3 seconds per number.
+-   Past 15, the counter for flaws does not use roman numerals.

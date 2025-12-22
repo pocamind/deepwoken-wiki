@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 183278
+revid: 185382
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects, Character, Mechanics, Creation]
@@ -50,7 +50,7 @@ The following table lists the rates that Aspects can be rolled in Pathfinder.
 
 ### Vow of Iron
 
-The following table lists the rates that Aspects can be rolled in [Vow of Iron](Vow_of_Iron.md). Of these Aspects, [Drakkard](Drakkard.md), [Heliodar](Heliodar.md), [Lightborn](Lightborn.md), and [Levit](Levit.md) are \*only\* obtainable in this gamemode. Those that have them in Pathfinder servers have been given them by developers.
+The following table lists the rates that Aspects can be rolled in [Vow of Iron](Vow_of_Iron.md). Of these Aspects, [Drakkard](Drakkard.md), [Heliodar](Heliodar.md), [Lightborn](Lightborn.md), and [Levit](Levit.md) are only normally rollable in the [Vow of Iron](Vow_of_Iron.md) gamemode. Those that have them in Pathfinder servers have been given them by developers.
 
 | **Aspect** | **Percentage** | **Aspect** | **Percentage** |
 | --- | --- | --- | --- |

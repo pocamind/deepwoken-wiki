@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 185313
+revid: 185405
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -369,8 +369,8 @@ This page is about content that has either been removed or changed drastically i
 -   **Subsistence \[Rare talent, Intelligence\] -** As a skilled apothecarian, you are more accustomed to potions and gain graeter benefits from ingesting potions that affect your regeneration. (+3 Health)
     -   In the December 1st, 2023 update, Subsistence was merged into Potion Quaffer.
 
--   **Tempest Blade \[Common Talent, Galebreathe\] -** Cast Wind Blade while sliding to unleash a quick whirlwind attack.
-    -   In the December 21st, 2025 update, Tempest Blade was made innate behavior for Wind Blade.
+-   **Tempest Wind \[Common Talent, Galebreathe\] -** Cast Wind Blade while sliding to unleash a quick whirlwind attack.
+    -   In the December 21st, 2025 update, Tempest Wind was made innate behavior for Wind Blade.
 
 -   **The Cold Forge \[Common Talent, Frostdraw\] -** You forge more shurikens when casting on ice. (+5 Elemental Intensity)
     -   In the May 15th, 2023 update, Cold Forge became base behavior for Ice Forge.

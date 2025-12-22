@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 183280
+revid: 185404
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -203,7 +203,7 @@ Wind
 -   Both variants have a windup of 0.5 seconds.
 -   Projectile lasts about 3-5 seconds
 -   Modifying with a [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) will increase projectile's speed significantly.
--   Can be improved with the "**Tempest Wind**" Talent, making it a [Rising Flame](Flamecharm.md#rising-flame)\-like attack that deals much more damage.
+-   Casting Wind Blade while sliding will perform the "**Tempest Wind**" variant of the Mantra. This version deals increased damage at the cost of range.
     -   This variant can be increased further with the [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) Talent, increasing the damage of your Tempest Wind-Wind Blade by 20% and granting a 20% damage buff while midair after proccing it.
 
  |
@@ -954,15 +954,6 @@ These Talents are found in the _Aeromancer_ category.
 |  | Vacuum Punch  
 (20 Galebreathe, Gale Punch) | Your Gale Punch pulls enemies in before you hit them. | N/A |
 
-**Gale Duelist:**
-
-These Talents are found in the _Gale Duelist_ category.
-
-| Media | Talent | Card Description | Effects |
-| --- | --- | --- | --- |
-|  | Tempest Wind  
-(20 Galebreathe, Wind Blade) | Cast Wind Blade while sliding to unleash a quick whirlwind attack. | Sends user and opponent into the air. Has much higher base damage than base Wind Blade. |
-
 **Galeforce:**
 
 These Talents are found in the _Galeforce_ category.
@@ -1075,7 +1066,7 @@ Gale Wisp will extend the duration of Haunted by 3 seconds.
 -   The _"Gale Leap"_ Talent requires cliffs of certain height. Strangely, the Talent will not proc if used too close to the edge, requiring the user to jump earlier than expected.
 -   The \[Q\] key activates Gale Dash.
 -   For some bizarre reason, Heavenly Wind has been referred to as Heavenly Strike multiple times in the update logs.
--   Jumping before activating the _"Tempest Wind"_ Talent will propel the user forward by a few studs while releasing a sound cue.
+-   Jumping before activating the _"Tempest Wind"_ variant of **Wind Blade** will propel the user forward by a few studs while releasing a sound cue.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
     -   Cast the mantra then press M1 and M2 together to Inhale, you know you're doing it right when you hear an inhale sound.
 -   Galebreathe can apply 2 status effects: _"Winded"_ & _"Suffocate"_.
@@ -1087,7 +1078,7 @@ Gale Wisp will extend the duration of Haunted by 3 seconds.
 -   The "_Gale Leap_" Talent can prove volatile unless managed with care. You may potentially rocket off a slope or cliff unfavorably which makes your practice with quick reactions and mobility very important.
 -   The majority of Galebreathe mantras have potentially high range, allowing you to pose an imminent threat to players without often being within their effective range.
 -   The wind phantom visual from the "_Haunted Gale_" Talent appears to wield a [Whaling Knife](Whaling_Knife.md) with a thick green outline around it.[\[2\]](#cite-note-2)
--   "_Tempest Wind_" can be deceptively useful by slide jumping and immediately M1 which will keep it active long enough for you to cast it after the M1.
+-   The "_Tempest Wind_" Variant of **Wind Blade** can be deceptively useful by slide jumping and immediately M1 which will keep it active long enough for you to cast it after the M1.
     -   Alternatively, you could cast it early to feint the M1 but due to its low windup, it's very difficult to parry or punish unless it's used by itself. However, letting the aerial M1 hit before casting it is very powerful because it leaves no room for a counterattack after blocking or rolling the M1, but this is negated by parries.
 -   Pairing this attunement along the [Jetstriker Oath](Oath%253A_Jetstriker.md) can ultimately make it one of the best mobility builds, given Galebreathe's wide variety of mobility moves and [Jetstriker's](Oath%253A_Jetstriker.md) mobility-based kit. The _Wind Step_ and _Aerogliding_ Talents, along with all of the [Jetstriker](Oath%253A_Jetstriker.md) Talents makes it nearly impossible to catch if you plan on running from an unwinnable fight. Can sometimes even be used to escape [Monsters](Monsters.md) such as the [Megalodaunt](Megalodaunt.md). One great weapon paring with this attunement is the [Curved Blade of Winds](Curved_Blade_of_Winds.md), this legendary weapon has 2 forms that compliment both styles of Galebreathe.
 -   Galebreathe is good for pressuring an opponent thanks to its high mobility.

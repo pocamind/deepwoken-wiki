@@ -1,0 +1,45 @@
+---
+title: Blackalloy Helm
+revid: 185362
+source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses]
+---
+
+# Blackalloy Helm
+
+| Blackalloy Helm | |
+|---|---|
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
+| requirements | FTD 10 |
+| weight | 1 |
+| innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
+| innate talent | Sloped Plate |
+| set | Blackalloy Helm, Blackalloy Pauldrons |
+| set talent | Captain's Call |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | Yes |
+| pass down | Yes |
+| obtainment | The Depths |
+| description | An imposing helmet made from blackened steel. |
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Blackalloy Set
+
+## Description
+
+The Blacksteel Helm is an [Equipment](Equipment.md) item under the "Head" category.
+
+The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage you take from attacks that guard break you by a flat 10.
+
+## Set Bonus
+
+When wearing the full equipment set, you will gain the Set Talent.
+
+Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirates](Blacksteel_Pirate.md) to aid you in battle \[5 minute CD\].

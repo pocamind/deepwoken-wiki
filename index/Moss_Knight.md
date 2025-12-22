@@ -1,6 +1,6 @@
 ---
 title: Moss Knight
-revid: 184732
+revid: 185390
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 185200
+revid: 185406
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -1595,14 +1595,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Only procs off mantras.
     -   Prerequisite: 60 Frostdraw.
 
-### Gale Duelist
-
--   Tempest Wind \[Galebreathe Exclusive\] - Cast Wind Blade while sliding to unleash a quick whirlwind attack.
-    -   Will also proc after a slide jump.
-    -   Has 45 base damage with 2.75 Galebreathe scaling at level 5, meaning it will deal very high damage.
-    -   If you have the Tempest Evolution Talent from [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), the damage and hitbox of Tempest Wind increases. On top of this, you now gain a 20% damage boost while airborne for a short duration after proccing Tempest Wind.
-    -   Prerequisites: [Wind Blade](Galebreathe.md#wind-blade) (Mantra), 20 Galebreathe.
-
 ### Gale Kata
 
 -   _Imperium Kata_ \[Common Talent\] - Wield an advanced form of the Legion's martial arts.
@@ -2497,6 +2489,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Increases the price of your [Magic Coffin](Strange_Merchant.md) by 50%.
     -   Adds the entire [Depths](<The_Depths_(Vow_of_Iron).md>) lootpool to the Coffin.
     -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Stack the Deck \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Charmed enemies will grant you even more damage multipliers on your Taunt counter.
+    
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 ### Metallurgist
 
@@ -3844,6 +3840,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
     -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, 100
 
+-   Jackpot \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Charmed enemies now have a chance to be hit critically, multiplying the damage.
+    
+    -   There is a ?% chance that your hits against a Charmed target will be a critical hit, dealing significantly more damage.
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, Power 20, 100
+
 -   Manipulator \[Common Talent, Charisma Exclusive\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
     -   10 second cooldown.
     -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
@@ -4509,6 +4510,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Benefactor: [Varicosan Finery](Varicosan_Finery.md) - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
 
+-   Blend In: [Enforcer Helm](Enforcer_Helm.md) - You resemble one of the Enforcers, become unnoticeable by regular depths mobs.
+    
+    -   Most monsters in [The Depths](<The_Depths_(Vow_of_Iron).md>) will be neutral you while you have this equipment on.
+
 -   Blinded: [Blindfold](Blindfold.md) & Variants - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
     -   Makes everything darker and creates fog at long distances
     -   Even though the [Blindseer](Oath%253A_Blindseer.md) Oath grants full vision even with a Blindfold, the Talent still works.
@@ -4611,6 +4616,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Ether Adeptness: [Caster Earrings](Caster_Earrings.md) - Your mantras now have 40% extra chip.
 
+-   Ether Efficiency: [Caster Fur Boots](Caster_Fur_Boots.md) - All mantras you cast now have a reduced cost of 30 ether.
+    
+    -   Applies a flat -30 Ether cost to any Mantra you cast.
+
 -   Ether Emergency: [Bluestone Pauldrons](Bluestone_Pauldrons.md) - When you get hit below 25% health, exhaust all of your ether to gain a flat health boost (healing scales of total max ether). You are briefly unable to cast Mantras. 5m CD
     -   Instantly restores 15% of your maximum Ether as flat health at the cost of all of your Ether and the inability to cast Mantras for a short duration.
 
@@ -4618,6 +4627,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Acts similarly to Shield Breaker, though this does not require the Mantra to deal blunt damage.
 
 -   Ether Tension: [Expert Practitioner's Earrings](<Expert_Practitioner's_Earrings.md>) - Deal 20 true damage whenever you guardbreak an opponent with a mantra.
+
+-   Experienced Healer: [Cultist Cowl](Cultist_Cowl.md) - Everytime you heal yourself, gain 5 extra health on top of that \[10 second CD\].
 
 -   Fatal Strike: [Reinforced War Helmet](Reinforced_War_Helmet.md) - Landing a guard break with a strength mantra that has a [Wrath Gem](Wrath_Gem.md) on it devastates your opponent, dealing extra damage and slowing them down.
     -   Adds a +20% damage modifier to your [Strength Mantras](Attunement-less.md#strength-mantras), should they guardbreak while you have a [Wrath Gem](Wrath_Gem.md) equipped onto them.
@@ -4644,6 +4655,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.
     -   While similar to Lightning/Gale dashes, this is its own thing and ignores their cooldowns.
 
+-   Flask Amplifier: [Potion Master's Hat](<Potion_Master's_Hat.md>) - Heal an extra 15% from flasks.
+    
+    -   Increases the healing gained from [Etris Flasks](Etris_Flask.md) by 15%.
+
 -   Fleetfoot: [Carefree Garments](Carefree_Garments.md) - Gain an initial speed boost when slide jumping.
 
 -   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.
@@ -4664,6 +4679,13 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Reduces Bleed damage by 25%
     -   Does not work on all Damage over Time effects.
         -   Does **not** work on: Poison (hp drain) [Corrupt Resonance](Resonance.md#corrupted-resonances) Downside, [Deep Widow](Deep_Widow.md) Poison, [Bladeharper's](Oath%253A_Bladeharper.md) Reveal, [Viscosity](Viscosity.md), or Rush Hour from Bloodrend.
+
+-   Gunslinger's Fury: [Bounty Hunter's Boots](<Bounty_Hunter's_Boots.md>) - When having a side gun equipped with a gun or rifle, use a critical in the air to shoot a barrage of bullets towards your opponent.
+
+-   Haste: [Trackstar Boots](Trackstar_Boots.md) - Gain a permanent +3 speed buff at all times.
+    
+    -   Increases your movement speed by +3 studs per second.
+    -   This does **not** count as a speed boost for Talent procs.
 
 -   Heartwing Beat: [Mantle of Enmity](Mantle_of_Enmity.md) - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
     -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
@@ -4718,6 +4740,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed in increased.
 
+-   Laminated Armor: [Blackalloy Pauldrons](Blackalloy_Pauldrons.md) - Reduces all incoming damage by 3 (applied after damage multipliers.
+    
+    -   Note: This is applied after damage multipliers, but not damage resistances. It is **not** possible to reach full damage negation using this Talent.
+
 -   Legendary: [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.
 
 -   Lethal Dose: [Inquisition Light](Inquisition_Light.md) - The poison from your [hidden blade](Authority_Ensign.md#hidden-blade) lasts twice as long.
@@ -4747,8 +4773,14 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Increases the posture damage bonus Might Gems innately grant, scaling on the amount of Might Gems you have equipped in your arsenal.
     -   Grants your Might Gems an additional 2.25% posture damage multiplier per Mantra with a Might Gem equipped. This caps at +39.25% posture damage dealt on a Might Gem-equipped Mantra, assuming you have [Saintsworn](Oath%253A_Saintsworn.md), Neuroplasticity, and Will o' Wisp with all 13 of your equipped Mantras using a Might Gem.
 
+-   Merc Blade: [Mercenary's Hood](<Mercenary's_Hood.md>) - For every 10% stealth you have, deal 1 extra damage on all sources of damage.
+
 -   Merchant's Accord: [Merchant Robes](Merchant_Robes.md) - Merchants and Antiquarians will do business with you no matter how poor your reputation is.
     -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Deepbound.md) or [Ignition Delver](Ignition_Delver.md).
+
+-   Mindspark: [Flame Demon Horns](Flame_Demon_Horns.md) - The damage of your flames scale with how insane you are.
+    
+    -   Your burn damage is increased based on how low your [Sanity](Insanity.md) is.
 
 -   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) & [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)
     -   Grants a random buff or affliction whenever you spit.
@@ -4767,6 +4799,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Navae's Connection: [Blessed Nomad Pendant](Blessed_Nomad_Pendant.md) - All Navaen related combat weapons are empowered.
 
+-   Natural Healing: [Lifeweaver's Hat](<Lifeweaver's_Hat.md>) - Every time you eat plants, heal 2% of your health.
+    
+    -   Heal 2% of your maximum health whenever you eat a plant-based [Food](Food.md) item.
+
 -   No Interruptions: [Champion's Cape](<Champion's_Cape.md>) - When combat tagged by 2 or more players, render any ranged attack a lot less effective.
     -   This grants +25% damage reduction against attacks from opponents who are at least 15 studs away from you. This damage reduction is increased by 1% per additional stud of distance.
     -   Grants [true hyperarmor](Status_Effects.md#true-hyperarmor) against attacks from opponents who are at least 15 studs away from you.
@@ -4776,6 +4812,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Overwhelming Might: [Titus's Raiment](<Titus's_Raiment.md>) - [Strong Left](Attunement-less.md#strong-left) now guard breaks at level 5.
     -   1 minute cooldown.
+
+-   Pace: [Trackstar Pauldrons](Trackstar_Pauldrons.md) - Hitting opponents apply a speed boost. The faster you are the less damage you take.
+    
+    -   Grants damage reduction based on the collective potency on all speed boosts you have.
+    -   Landing attacks grants a speed boost.
 
 -   Paired Soul: [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md) & [Royal Etrean Guard](Royal_Etrean_Guard.md) - Wielding a katana with this outfit grants extra damage.
     -   Increases _[Katana](Katana.md)_ damage by 25%.
@@ -4843,7 +4884,11 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     
     -   Increases **all** sources of posture recovery by 35%.
 
+-   Sky Aid: [Sky Warrior Helm](Sky_Warrior_Helm.md) - Take 80% less damage while in the air.
+
 -   Slick: [Konga's Parka](<Konga's_Parka.md>) - Coat of the infamous fhief Emiya Konga. Improves the user's sliding abilities. THis effect stacks with [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>).
+
+-   Sloped Plate: [Blackalloy Helm](Blackalloy_Helm.md) - Reduces the amount of damage you take when guardbroken by 10.
 
 -   Smoldering Touch: [Ruby Scorch Earrings](Ruby_Scorch_Earrings.md) - Guardbreaking your opponent sets them on fire.
 
@@ -4880,6 +4925,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a 20% damage bonus to your Tempest Wind [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
 
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
+
+-   Tempo Sap: [Prophet's Operative Cloak](<Prophet's_Operative_Cloak.md>) - Activate to make your dagger's light attacks steal tempo per hit for 20 seconds. \[1 minute CD\] \[Dagger\]
+
+-   Tenacity: [Hardened Barrel Helm](Hardened_Barrel_Helm.md) - Greatly shorten the amount of time you are guardbroken for.
 
 -   Test: [Etrean Rogue](Etrean_Rogue.md) - Does nothing at all.
 
@@ -4959,6 +5008,11 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     
     -   Set: [Bloodcurdle Cowl](Bloodcurdle_Cowl.md), [Bloodcurdle Mask](Bloodcurdle_Mask.md)
 
+-   Captain's Call: Blackalloy Set - Call up two [Blacksteel Pirates](Blacksteel_Pirate.md) to aid you in battle \[5 minute CD\].
+    
+    -   On use, this summons two allied [Blacksteel Pirates](Blacksteel_Pirate.md) to assist you.
+    -   Set: [Blackalloy Helm](Blackalloy_Helm.md), [Blackalloy Pauldrons](Blackalloy_Pauldrons.md)
+
 -   Critical Heal: Trueblood Set - Every time you heal, you have a 5% chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
     
     -   Set: [Trueblood Pendant](Trueblood_Pendant.md), [Trueblood Earrings](Trueblood_Earrings.md)
@@ -4970,6 +5024,10 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   Etherguard: Blustone Set - Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistance to mantras based on how much ether they cost to cast.
     -   When landing a Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, gain the [Etherguard](Status_Effects.md#etherguard) status effect, granting you resistance to all Mantras. The amount of damage resisted is based on the Mantra's Ether cost.
     -   Set: [Bluestone Pauldrons](Bluestone_Pauldrons.md), [Bluestone Boots](Bluestone_Boots.md)
+
+-   Explosive Rounds: Bounty Hunter Set - Every bullet that lands now detonates on your opponent.
+    
+    -   Set: [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Bounty Hunter's Boots](<Bounty_Hunter's_Boots.md>)
 
 -   Hunting Trap: Veteran Ranger Set - Place down a trap that upon being stepped on will render your opponent unable to move for a bit. \[60 second CD\]
     
@@ -4988,6 +5046,15 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   If **all** of your Mantras have a [Might Gem](Might_Gem.md) equipped, hitting your opponent's block with Mantras will restore your posture.
     -   This functions somewhat similarly to Arcwarder Mantras while in Arc suit.
     -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
+
+-   Overdrive: Caster Fur Set - Go beyond your limits. All mantras you cast deal twice as much damage for 10 seconds \[3 minute CD\].
+    
+    -   Grants a Talent tool that doubles the damage of your Mantras for 10 seconds.
+    -   Set: [Caster Fur Pauldrons](Caster_Fur_Pauldrons.md), [Caster Fur Boots](Caster_Fur_Boots.md)
+
+-   Rush: :Category:Equipment with Set Bonuses - Massively reduce your dodge cooldown.
+    
+    -   Set: [Trackstar Pauldrons](Trackstar_Pauldrons.md), [Trackstar Boots](Trackstar_Boots.md)
 
 -   Shock Trooper Specialist: Specialist Set - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
     -   To proc Shock Trooper Specialist, you must meet the a damage threshold of 300 damage dealt with Thunder and Gale Mantras. Each point in Galebreathe or Thundercall reduces this threshold by 1, capping at 100 damage dealt for a Storm Strike with 100 Gale and Thunder.

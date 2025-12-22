@@ -1,6 +1,6 @@
 ---
 title: "Veteran Ranger's Boots"
-revid: 181861
+revid: 185355
 source: https://deepwoken.fandom.com/wiki/Veteran_Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
@@ -27,8 +27,12 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Veteran Ranger Set
+
+Variants: [Veteran Ranger's Brace](<Veteran_Ranger's_Brace.md>)
 
 ## Description
 

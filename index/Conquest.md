@@ -1,6 +1,6 @@
 ---
 title: Conquest
-revid: 171319
+revid: 185336
 source: https://deepwoken.fandom.com/wiki/Conquest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Game Modes]
@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-Conquest is an upcoming game mode in which multiple teams take battle against each other in return for end-game exclusive content, as well as a casual mode that you enter with a fresh character like Battle Royale, which boasts no rewards.
+Conquest was an upcoming game mode in which multiple teams take battle against each other in return for end-game exclusive content, as well as a casual mode that you enter with a fresh character like Battle Royale, which boasts no rewards.
 
 The Confirmed Conquest Rewards are:
 

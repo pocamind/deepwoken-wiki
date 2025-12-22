@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 185198
+revid: 185367
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -484,11 +484,19 @@ Power 1, 950
 
 ### Power 20 Talents
 
+-   Jackpot \[Common Talent\] - Charmed enemies now have a chance to be hit critically, multiplying the damage.
+    -   There is a ?% chance that your hits against a Charmed target will be a critical hit, dealing significantly more damage.
+    -   Requirements: Power 20, 100
+
 -   Luminous Flash \[Oath Talent\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
     -   During Absolute Radiance, your M1 attacks have a chance to proc Luminous Flash, increasing their damage by 75% (the damage modifier hardcap). In PvP combat, this is lowered to 50% instead (the damage modifier hardcap).
-    -   Requirements: Power 15, 200
+    -   Requirements: Power 20, 200
 
 ## Boss Unlocks
+
+### Shogun of the Prophet's Guard
+
+-   Stack the Deck \[Memento Talent\] - Charmed enemies will grant you even more damage multipliers on your Taunt counter.
 
 ### Dravik, The Rat King
 

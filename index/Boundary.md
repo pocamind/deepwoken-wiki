@@ -1,9 +1,9 @@
 ---
 title: Boundary
-revid: 184810
+revid: 185373
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Pages with broken file links, Mechanics]
+categories: [Vow of Iron Exclusive, Mechanics]
 ---
 
 # Boundary
@@ -198,7 +198,3 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 (this boundary is close enough for ferryman to aggro if spawned in)
 
  |
-
-## Annotated map of Boundaries (most up-to-date 16.12.2025)
-
-File:BoundaryMapLatest.png

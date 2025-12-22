@@ -1,12 +1,16 @@
 ---
 title: The Depths
-revid: 180987
+revid: 185335
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, The Depths]
+categories: [Pathfinder Exclusive, Locations, The Depths]
 ---
 
 # The Depths
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 LocationL The Depths LocationR
 

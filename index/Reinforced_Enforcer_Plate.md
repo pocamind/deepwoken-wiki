@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Plate
-revid: 181857
+revid: 185354
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
@@ -27,8 +27,8 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 Reinforced Enforcer Set
 

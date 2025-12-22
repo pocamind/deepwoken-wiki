@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 185175
+revid: 185330
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -354,6 +354,7 @@ Power 10, 700
 -   Has 17.2x PVE scaling (multiply damage dealt by 17.2 for PvE damage).
 -   Inflicts Burn.
 -   Can be cancelled midway by feinting.
+-   The Pleeksty's Inheritance talent makes this mantra significantly faster.
 
  |
 | 
@@ -468,6 +469,8 @@ Power 15, 950
 
 **Effect:** _User propels themselves forwards and grabs their foes, immolating them. If this lands, the user gains a damage buff._
 
+-   the damage buff granted by this mantra does not have a time limit and applies to all sources of damage, including each tick of burn. (the exact damage buff is not known)
+
  |
 
 ## Available Talents
@@ -476,7 +479,9 @@ Power 15, 950
 
 -   Pleeksty's Inheritance \[Memento Talent\] - You inherit the teachings of Amorus Pleeksty, augmenting your flamecharm mantras.
     
-    -   Makes your Flamecharm Mantras extremely loud.
+    -   Fire Blade now blockbreaks regardless of mantra level.
+    -   Burning servants now inflicts knockback on its hits.
+    -   Relentless flames gains 6 extra slashes and becomes much faster.
     -   Requirements: Starter
 
 -   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
@@ -617,11 +622,11 @@ Power 15, 950
 
 ### Shogun of the Prophet's Guard
 
--   **Ascended Phoenix Flames** \[Memento Talent\] - Once per fight, when an attack would down you immediately revive with 30% HP.
+-   Ascended Phoenix Flames \[Memento Talent\] - Once per fight, when an attack would down you immediately revive with 30% HP.
 
 ### Dravik, The Rat King
 
--   Pleeksty's Wrath \[Common Talent\] - After dealing 500 damage with Flame Mantras, call forth a hail of firey swords. (+4 Sanity)
+-   Pleeksty's Wrath \[Memento Talent\] - After dealing 500 damage with Flame Mantras, call forth a hail of firey swords. (+4 Sanity)
     
     -   Spawns flaming swords that fall from the sky, similarly to [First Light](First_Light.md)'s critical attack.
 
