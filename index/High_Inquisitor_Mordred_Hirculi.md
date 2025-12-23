@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Mordred Hirculi
-revid: 185579
+revid: 185869
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Mordred_Hirculi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Inquisitors of The Central Authority]
@@ -43,7 +43,7 @@ High Inquisitor Mordred Hirculi is located inside the war room of the fortress a
   <td><i>*The aged Vesperian is wearing an elaborate visor over his chitin mask. Despite this, it appears he can see you perfectly well. He gives you a meaningful nod. As he speaks, his voice is raspy, almost like a hiss.*</i> Recall in Iron, friend. The Warden's not around at the moment, I'm afraid... But he should be back in time. Good luck on the mission.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

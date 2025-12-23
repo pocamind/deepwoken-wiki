@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 185116
+revid: 185862
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -22,7 +22,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Evengarde Rest is the current Maestro of the Vigils, having succeeded [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) and is highly respected by all of them. He resides within the [Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents you from introducing yourself to him until you save a Vigil swordsman named Isaac. A master of combat arts, Rest is able to teach players how to overcome the limits of their weapon proficiencies.
+Evengarde Rest is the current Maestro of the Vigils, having succeeded [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) and is highly respected by all of them. He resides within the [Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents people from introducing themselves to him until they get permission. [The Pathfinder](The_Pathfinder.md) can speak to rest if they save a Vigil swordsman named [Isaac](Vigil_Isaac.md). A master of combat arts, Rest is able to teach them how to overcome the limits of their weapon proficiencies.
 
 Rest is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence." If you lack 75 points in your weapon type's attribute, he will not uncap it
 

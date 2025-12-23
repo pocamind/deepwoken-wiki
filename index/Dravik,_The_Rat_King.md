@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 185531
+revid: 185839
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -33,7 +33,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 ### Starting the Fight with Dravik
 
 1.  Recommended but not necessary: Defeat the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) at the [Temple of Mur](Temple_of_Mur.md) to uncap your power past 5, and obtain your [Memento](Mementos.md)\-specific talents.
-2.  Make your way to the Waterlocks in-between the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md) and enter a small passage, leading to the Rat's Den.
+2.  Make your way to the Waterlocks in-between the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md) and enter a small passage, leading to [The Golden Rat](The_Golden_Rat.md).
 3.  Descend down into [The Golden Rat](The_Golden_Rat.md), hugging the right wall until you find a large boundary in the floor that teleports you to the boss arena.
 4.  Recommended but not necessary: Keep hugging the right wall until you encounter a boundary in a doorway. This unlocks the Golden Rat boundary, letting you teleport back whenever you need to retry the fight.
 5.  Upon loading in and going through his intro, the fight begins.

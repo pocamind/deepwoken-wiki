@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 183122
+revid: 185782
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -120,7 +120,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
 -   **Arc Suit** - Conjure and equip your Arcwarder suit.
     -   Encases the user in durable armor for 20 seconds.
     -   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers)/[Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to a maximum duration of 1 minute. This however also scales up its cooldown.
-    -   Can be modified with up to 3 [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to increase damage reduction up to 15%.
+    -   Can be modified with up to 3 [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to increase damage reduction up to 10%.
     -   Has i-Frames on the second half of its windup.
     -   [Orbital Ice](Talents.md#orbital-ice) is less effective when used alongside the Arc Suit.
     -   Comes in Umbral, Black, Gold, Dark Gray, and Light Gray. The Arc Suit and the light emitted from it may also be [dyed](Dye_Packet.md) to any color of your liking.

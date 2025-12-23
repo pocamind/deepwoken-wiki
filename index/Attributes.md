@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 172482
+revid: 185847
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -156,13 +156,13 @@ An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP",
 
 Attunement Attributes dictate the potential power and intensity of your current attunement, and can unlock special elemental Talents based on what attunement you may be using. Below are the respective training methods for each current attunement in the game.
 
--   Flamecharm → _use the **[Hearthgem](Training_Gear.md#attunement-training-gears)**_
--   Galebreathe → _use the **[Gale Kata](Training_Gear.md#attunement-training-gears)**_
--   Thundercall → _use the **[Self-Conducting Loop](Training_Gear.md#attunement-training-gears)**_
--   Frostdraw → _use the **[Hemafrost](Training_Gear.md#attunement-training-gears)**_
--   Shadowcast → _use the **[Pure Heart](Training_Gear.md#attunement-training-gears)**_
--   Ironsing → _use the **[Ferrofluid](Training_Gear.md#attunement-training-gears)**_
--   Bloodrend → _use the **[Tourniquet](Training_Gear.md#attunement-training-gears)**_
+-   [Flamecharm](Flamecharm.md) → _use the **[Hearthgem](Training_Gear.md#attunement-training-gears)**_
+-   [Galebreathe](Galebreathe.md) → _use the **[Gale Kata](Training_Gear.md#attunement-training-gears)**_
+-   [Thundercall](Thundercall.md) → _use the **[Self-Conducting Loop](Training_Gear.md#attunement-training-gears)**_
+-   [Frostdraw](Frostdraw.md) → _use the **[Hemafrost](Training_Gear.md#attunement-training-gears)**_
+-   [Shadowcast](Shadowcast.md) → _use the **[Pure Heart](Training_Gear.md#attunement-training-gears)**_
+-   [Ironsing](Ironsing.md) → _use the **[Ferrofluid](Training_Gear.md#attunement-training-gears)**_
+-   [Bloodrend](Bloodrend.md) → _use the **[Tourniquet](Training_Gear.md#attunement-training-gears)**_
 -   Additionally, you can gain EXP on attunements by doing events/random encounters (needs confirming)
 -   All of the attunements are:
     -   [_**Unbounded**_](Attributes_Unbound.md) _**by killing any humanoid [boss](Bosses.md) while having 75 points invested into the attunement. (have to deal most of the damage)**_
@@ -170,49 +170,49 @@ Attunement Attributes dictate the potential power and intensity of your current 
 An umbrella term that includes all attunement stats is Element, abbreviated as "ELM", as seen in the Talents tab at a [Campfire](Campfire_Pit.md).  
 _**NOTE:** The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't._
 
-### Flamecharm (FIR)
+### [Flamecharm (FIR)](Flamecharm.md)
 
 -   Increases damage scaling of Flamecharm mantras.[\[4\]](#cite-note-4)
     -   Unlocks [Flamecharm Talents](Flamecharm.md#talents).
     -   Increases intensity of flames. (deals more damage)
 -   Gain Flamecharm EXP by dealing damage to enemies using Flamecharm mantras, using [Hearthgem](Training_Gear.md#attunement-training-gears) or eating [Dying Embers](Dying_Embers.md).
 
-### Frostdraw (ICE)
+### [Frostdraw (ICE)](Frostdraw.md)
 
 -   Increases damage scaling of Frostdraw mantras.
     -   Unlocks [Frostdraw Talents](Frostdraw.md#talents).
     -   Increases slow and freeze times of abilities.
 -   Gain Frostdraw EXP by dealing damage to enemies using Frostdraw mantras, using [Hemafrost](Training_Gear.md#attunement-training-gears) or eating [Frigid Prisms](Frigid_Prism.md).
 
-### Thundercall (LTN)
+### [Thundercall (LTN)](Thundercall.md)
 
 -   Increases damage scaling of Thundercall mantras.[\[5\]](#cite-note-5)
     -   Unlocks [Thundercall Talents](Thundercall.md#talents).
     -   Lengthens the stun caused by attacks.
 -   Gain Thundercall EXP by dealing damage to enemies using Thundercall mantras, using [Self-Conducting Loop](Training_Gear.md#attunement-training-gears) or eating [Spark Glands](Spark_Gland.md).
 
-### Galebreathe (WND)
+### [Galebreathe (WND)](Galebreathe.md)
 
 -   Increases damage scaling of Galebreathe mantras.
     -   Unlocks [Galebreathe Talents](Galebreathe.md#talents).
     -   _Currently unknown if Gale benefits from any sort of status effect amplification, as the only status effect it can apply is Suffocate._
 -   Gain Galebreathe EXP by dealing damage to enemies using Galebreathe mantras, using [Gale Kata](Training_Gear.md#attunement-training-gears) or eating [Gale Stones](Gale_Stone.md).
 
-### Shadowcast (SDW)
+### [Shadowcast (SDW)](Shadowcast.md)
 
 -   Increases damage scaling of [Shadowcast](Shadowcast.md) mantras and the amount of ether you steal from enemies.
     -   Unlocks [Shadowcast Talents](Shadowcast.md#talents).
     -   Increases duration of blindness afflicting abilities.
 -   Gain Shadowcast EXP by dealing damage to enemies Shadowcast mantras, using [Pure Heart](Training_Gear.md#attunement-training-gears) or eating [Umbral Obsidian](Umbral_Obsidian.md).
 
-### Ironsing (MTL)
+### [Ironsing (MTL)](Ironsing.md)
 
 -   Increases damage scaling of [Ironsing](Ironsing.md) mantras.
     -   Unlocks [Ironsing Talents](Ironsing.md#talents).
     -   No currently known side effects.
 -   Gain Ironsing EXP by dealing damage to enemies with Ironsing mantras or using [Ferrofluid](Training_Gear.md#attunement-training-gears).
 
-### Bloodrend (BLD)
+### [Bloodrend (BLD)](Bloodrend.md)
 
 -   Increases damage scaling of [Bloodrend](Bloodrend.md) mantras.
     -   Unlocks [Bloodrend Talents](Bloodrend.md#talents).

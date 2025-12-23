@@ -1,9 +1,9 @@
 ---
 title: "Familiar Demon's Armor"
-revid: 177021
+revid: 185788
 source: https://deepwoken.fandom.com/wiki/Familiar_Demon's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, Hallowtide, Event Items]
+categories: [Outfits, Unique Outfits, Hallowtide]
 ---
 
 # Familiar Demon's Armor

@@ -1,6 +1,6 @@
 ---
 title: Flare Drop Earrings
-revid: 185023
+revid: 185770
 source: https://deepwoken.fandom.com/wiki/Flare_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -21,8 +21,8 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Songseeker Wilds chest (tested) |
-| description | ... |
+| obtainment | Songseeker Wilds chest, direct drop from Megalodaunt |
+| description | Worn by practitioners of the Flare Drop fighting style. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

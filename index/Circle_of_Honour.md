@@ -1,6 +1,6 @@
 ---
 title: Circle of Honour
-revid: 185673
+revid: 185758
 source: https://deepwoken.fandom.com/wiki/Circle_of_Honour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Circle of Honour]
@@ -43,4 +43,4 @@ All of the deceased [Mementos](Mementos.md) were said to be capable of defeating
 
 ## Trivia
 
--   The Circle of Honour has been known to be part of _Deepwoken_ long before the release of [Vow of Iron](Vow_of_Iron.md), with mentions going as far back as _Verse 1_, from sources such as Discord lore drops for the [Warmaster Oath](Oaths.md#warmaster), the [Windrunner](Windrunner.md), the former [Journal of Warden Jericho](Journal_of_Warden_Jericho.md) and the current [Jericho's Journal](<Jericho's_Journal.md>), though its role in the story wasn't as emphasized as it is today thanks to Vow of Iron.
+-   The Circle of Honour has been known to be part of _Deepwoken_ long before the release of [Vow of Iron](Vow_of_Iron.md), with mentions going as far back as _Verse 1_, from sources such as Discord lore drops for the [Warmaster Oath](Oaths.md#warmaster), the [Windrunner](Windrunner.md), the former [Journal of Warden Jericho](Journal_of_Warden_Jericho.md) and the current [Jericho's Journal](<Jericho's_Journal.md>), though its role in the story wasn't as emphasized as it is today thanks to Vow of Iron. At the time, they were largely believed to be part of the Central Authority, but it has since been clarified they are distinct groups.

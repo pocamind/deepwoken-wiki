@@ -1,6 +1,6 @@
 ---
 title: Meemaw
-revid: 185186
+revid: 185867
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
@@ -67,7 +67,7 @@ Meemaw is located at [Songseeker Wilds](Songseeker_Wilds.md), standing outside o
   <td><i>*She lets out a determined war-cry.*</i> Hawwww! Get in there, young'un! Come back to me when they're all dead and buried! I'll have somethin' cookin' for ya by then!</td>
 </tr>
 <tr>
-  <td>End, quest begins</td>
+  <td>[End Dialogue], quest begins</td>
 </tr>
 </tbody>
 </table>
@@ -95,8 +95,8 @@ Meemaw is located at [Songseeker Wilds](Songseeker_Wilds.md), standing outside o
   <td>Shucks buster, young'un! Don't tarry now, y'hear? I've got somethin' special cooking for ya for all the trouble. Trust me, it'll be worth it!</td>
 </tr>
 <tr>
-  <td>End, <a href="Iron_Bomb.md">Iron Bomb</a> recipe learned</td>
-  <td>End</td>
+  <td>[End Dialogue], <a href="Iron_Bomb.md">Iron Bomb</a> recipe learned</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -112,7 +112,7 @@ Meemaw is located at [Songseeker Wilds](Songseeker_Wilds.md), standing outside o
   <td>I won't forget ya, friend! Oh, what a story this'll make one day...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

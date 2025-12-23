@@ -1,6 +1,6 @@
 ---
 title: Rabanastre
-revid: 173890
+revid: 185866
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
@@ -40,13 +40,13 @@ Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer
 </tr>
 <tr>
   <td colspan="6">Mandatory? What? I'm not doing it.</td>
-  <td colspan="6">End Dialogue.</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">KEHEHEHE!</td>
 </tr>
 <tr>
-  <td colspan="6">End Dialogue, you get punched off.</td>
+  <td colspan="6">[End Dialogue], you get punched off</td>
 </tr>
 </tbody>
 </table>
@@ -74,7 +74,7 @@ Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer
   <td colspan="12">Bless! Bless upon your heroic soul, oh brave hero of mine! Ohhh how I'll worship and follow you forever out of gratitude... kehehe.</td>
 </tr>
 <tr>
-  <td colspan="12">End Dialogue.</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +90,7 @@ Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer
   <td colspan="12">KEHEHEHE!</td>
 </tr>
 <tr>
-  <td colspan="12">End Dialogue.</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

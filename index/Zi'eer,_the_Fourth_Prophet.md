@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 185460
+revid: 185755
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -205,3 +205,8 @@ TBA
 -   Defeating Zi'eer gives the player a badge, granting a free character slot.
     -   This badge was not dropped alongside Iron Vow and was instead added on Dec 18, 2025.
     -   Zi'eer is the first boss to grant players a badge for winning.
+-   The boss fight was designed by developer par.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

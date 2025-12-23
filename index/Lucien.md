@@ -1,6 +1,6 @@
 ---
 title: Lucien
-revid: 185109
+revid: 185868
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -62,7 +62,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
   <td colspan="12">YEAH! Go on in there, come back to me when they're <i>PURGED</i>. My meemaw's got somethin' for 'ya.</td>
 </tr>
 <tr>
-  <td colspan="12">End, quest begins</td>
+  <td colspan="12">[End Dialogue], quest begins</td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
   <td colspan="12">Oh. My. You've really done it! Aw, I can't wait to get home and tell pa about this one! Now, like I promised.. here's my meemaw's <i>best</i> recipe: Iron Bombs. All it takes is two pieces of iron, and a piece of coal for a night of fun. Just like ol' meemaw used to make..</td>
 </tr>
 <tr>
-  <td colspan="12">End (Talent obtained)</td>
+  <td colspan="12">[End Dialogue], Talent obtained</td>
 </tr>
 </tbody>
 </table>
@@ -100,7 +100,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
   <td colspan="12">I won't forget you, partner. I can't wait to tell pa all about this!</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

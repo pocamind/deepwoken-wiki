@@ -1,9 +1,11 @@
 ---
 title: Deepwoken
-revid: 185654
+revid: 185752
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Lore]
+categories: [Pages with broken file links, Pages requiring a cleanup, Lore]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # Deepwoken

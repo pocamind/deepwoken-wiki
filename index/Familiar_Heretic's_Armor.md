@@ -1,9 +1,9 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 179889
+revid: 185784
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits, Hallowtide, Event Items]
+categories: [Outfits, Unique Outfits, Hallowtide]
 ---
 
 # Familiar Heretic's Armor

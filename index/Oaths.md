@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 185203
+revid: 185865
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -32,101 +32,101 @@ _WEP = Any weapon stat (HVY, MED, LHT)_
 
 [Oathless](Oath%253A_Oathless.md)
 
-(No Stat Requirement)
+No Stat Requirement
 
 [Arcwarderfinal](Oath%253A_Arcwarder.md)
 
 [Arcwarder](Oath%253A_Arcwarder.md)
 
-(20 FIR + 20 LTN + 20 FTD)
+20 FIR + 20 LTN + 20 FTD
 
 [Bladeharperfinal](Oath%253A_Bladeharper.md)
 
 [Bladeharper](Oath%253A_Bladeharper.md)
 
-(75 MED or comb. 90 WEP + 25 STR or AGL)
+(75 MED or comb. 90 WEP) + (25 STR or AGL)
 
 [Blightsurger](Oath%253A_Blightsurger.md)
 
-(comb. 80 STR or FTD or AGL + 40 WND or LTN)
+(comb. 80 STR, FTD, AGL) + (40 WND or LTN)
 
 [Blindseerfinal](Oath%253A_Blindseer.md)
 
 [Blindseer](Oath%253A_Blindseer.md)
 
-(40 WLL)
+40 WLL
 
 [Chainwardenfinal](Oath%253A_Chainwarden.md)
 
 [Chainwarden](Oath%253A_Chainwarden.md)
 
-(comb. 40 STR or FTD or WLL)
+comb. 40 STR, FTD, WLL
 
 [Contractorfinal](Oath%253A_Contractor.md)
 
 [Contractor](Oath%253A_Contractor.md)
 
-(No Stat Requirement)
+No Stat Requirement
 
 [Dawnwalkerfinal](Oath%253A_Dawnwalker.md)
 
 [Dawnwalker](Oath%253A_Dawnwalker.md)
 
-(LVL 15)
+LVL 15
 
 [Fadetrimmerfinal](Oath%253A_Fadetrimmer.md)
 
 [Fadetrimmer](Oath%253A_Fadetrimmer.md)
 
-(LVL 12)
+LVL 12
 
 [Jetstrikerfinal](Oath%253A_Jetstriker.md)
 
 [Jetstriker](Oath%253A_Jetstriker.md)
 
-(50 AGL)
+50 AGL
 
 [Linkstriderfinal](Oath%253A_Linkstrider.md)
 
 [Linkstrider](Oath%253A_Linkstrider.md)
 
-(No Stat Requirement)
+No Stat Requirement
 
 [Saintswornfinal](Oath%253A_Saintsworn.md)
 
 [Saintsworn](Oath%253A_Saintsworn.md)
 
-(15 FIR + 15 ICE + 15 LTN + 15 WND + 15 SDW)
+15 FIR + 15 ICE + 15 LTN + 15 WND + 15 SDW
 
 [Saltchemistfinal](Oath%253A_Saltchemist.md)
 
 [Saltchemist](Oath%253A_Saltchemist.md)
 
-(75 INT)
+75 INT
 
 [Silentheartfinal](Oath%253A_Silentheart.md)
 
 [Silentheart](Oath%253A_Silentheart.md)
 
-(comb. 75 WEP + 25 STR + 25 AGL or CHA)
+(comb. 75 WEP) + (25 STR) + (25 AGL or CHA)
 
 [Soulbreakerfinal](Oath%253A_Soulbreaker.md)
 
 [Soulbreaker](Oath%253A_Soulbreaker.md)
 
-(comb. 50 WLL or CHA)
+comb. 50 WLL, CHA
 
 [Starkindredfinal](Oath%253A_Starkindred.md)
 
 [Starkindred](Oath%253A_Starkindred.md)
 
-(40 STR)
+40 STR
 
 [Visionshaperfinal](Oath%253A_Visionshaper.md)
 
 [Visionshaper](Oath%253A_Visionshaper.md)
 
-(50 CHA)
+50 CHA
 
 ### Upcoming Oaths
 
@@ -158,7 +158,7 @@ Upon breaking an Oath, unique effects will occur:
 -   [Contractor](Oath%253A_Contractor.md): [Zi'eer](The_Lord_Regent.md) - "Don't bother showing your face again. I had little faith in you to begin with"
     -   You instantly become maximum negative reputation (villain) with [Etrea](Etrea.md) and [The Ministry](The_Ministry.md).
     -   Will get instantly gripped if by chance you stumble into the courtroom of the Lord Regent, meaning it **cannot** be reobtained if broken.
-    -   You are regranted access to Castle Light.
+    -   You are regranted access to [Castle Light](Castle_Light.md).
 
 -   [Chainwarden](Oath%253A_Chainwarden.md): [Vice Warden Morredh](Vice_Warden_Morredh.md) - "Another deserter? You're pathetic."
     -   Chainwarden **cannot** be reobtained after breaking it, as the Vice Warden will insult you upon interaction

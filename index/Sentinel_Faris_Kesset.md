@@ -1,6 +1,6 @@
 ---
 title: Sentinel Faris Kesset
-revid: 183515
+revid: 185870
 source: https://deepwoken.fandom.com/wiki/Sentinel_Faris_Kesset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority, Deceased characters]
@@ -47,7 +47,7 @@ Sentinel Faris Kesset is located on a balcony at the large castle in [Fort Merit
   <td><i>*The tall and muscular Tiran woman pays you little heed.*</i> Hey! This place is off-limits to outsiders. If you wanna linger around here, you better have permission from Warden Jericho! Though, I guess if you slipped past the High Inquisitor at the door there... I guess you already do.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
