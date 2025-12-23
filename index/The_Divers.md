@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 177798
+revid: 185616
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Divers, The Citadel of Markor]
@@ -34,7 +34,7 @@ The official motto of The Divers is "To The Deepest Fathoms."[\[2\]](#cite-note-
 
 The Divers are a faction that the player can interact with. They are seen in [The Depths](The_Depths.md). They have a camp setup within the Celtor Wastes and a forward operation base, [Castle Light](Castle_Light.md).
 
-[Apprentice Divers](Apprentice_Diver.md) can spawn in pairs fighting either a [King Thresher](King_Thresher.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), or [Lionfish](Lionfish.md). Their low HP of 150 and their low damage means they will very commonly lose to said monsters.
+[Apprentice Divers](Apprentice_Diver.md) can spawn in pairs fighting either a [King Thresher](King_Thresher.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), or [Lionfish](Lionfish.md). Their low HP of 150 and their low damage means they will very commonly lose to said [Monsters](Monsters.md).
 
 The player can join The Divers as a [Guild](Guilds.md). Finding [Akira](Akira.md) in the [Celtor Wastes](Celtor_Wastes.md), staying alive while talking to him, and returning to him at [Castle Light](Castle_Light.md) lets the player join them.
 
@@ -62,7 +62,7 @@ You can also complete the [Layer 2](Second_Layer.md) Floor 1 dungeon to get a de
 
 **[Funke, Master of Thunder](Funke,_Master_of_Thunder.md) and [Nell, Master of Frost](Nell,_Master_of_Frost.md):** Funke and Nell wear Black Diver uniforms. Nell can be found at [Etris](Etris.md) and Funke at [Summer Isle](Summer_Isle.md). Not a lot is known about these two and the reason behind being stationed on the surface, as there is no dialogue or a way to ask them about it.
 
-[**Gudrin**](Reputation.md): Removes hostilities with the Divers. Also gives [Deepbound](Deepbound.md) players the [Glider](Gliders.md) Schematic.
+[**Gudrin**](Reputation.md): Removes hostilities with the Divers.
 
 **[Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) (Dr. Diver):** Carrion (also referred to as “Dr Diver”) is a Ganymede Black Diver who is very skilled in terms of alchemy and science, being able to give people the abilities of certain [monsters](Monsters.md) at the cost of the corresponding creature’s organs. Despite being a Black Diver, he is also the leader of The Apothecary, a group based on the creation and research of potions and some other scientific topics. This branch was later excommunicated from the Divers due to the actions of an undisclosed individual. He is not a combatant, rather a scientist. His objective is to create the Moonseye Vigor and be able to "transcend" everyone by drinking this potion. Carrion already drank a prototype of the Moonseye Vigor, which drove him to insanity, along with giving him green eyes. He is currently residing in Castle Light but can also be seen in [the Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md), probably researching to create a new Moonseye Vigor. Apparently, he doesn't care much for the events of [The Second Layer](Second_Layer.md), instead choosing to prioritize his research of the Vigor rather than preventing the awakening of a drowned god that could destroy Lumen. This characteristic, alongside Klaris’ dialogue about him, tells us that Carrion prioritizes his research above everything else, giving little to no care about any major events in the game that doesn't assist his studies.
 

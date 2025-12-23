@@ -1,6 +1,6 @@
 ---
 title: The Three Cheers
-revid: 180662
+revid: 185688
 source: https://deepwoken.fandom.com/wiki/The_Three_Cheers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -25,3 +25,7 @@ Run by [Fabantou](Fabantou.md), The Three Cheers is a bustling tavern for the [C
 -   [Fabantou](Fabantou.md)
 -   [Taiga](Taiga.md)
 -   [Yakob](Yakob.md)
+
+## Trivia
+
+The "Cool S" can be found drawn on tables, alongside other drawings.

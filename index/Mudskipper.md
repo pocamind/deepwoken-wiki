@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 180523
+revid: 185700
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -87,6 +87,12 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 
 -   **Bloating** - Bloated Mudskippers will violently explode **after being gripped**, dealing **AoE Autogrip** damage around their body.
 -   **Reanimated** - Miniskippers will instantly die upon being knocked **without rewarding a health pack**.
+
+## Finisher
+
+| Name | Description |
+| --- | --- |
+| Execute | Pins down opponent before slicing their throat with their claws. |
 
 ## Tips
 

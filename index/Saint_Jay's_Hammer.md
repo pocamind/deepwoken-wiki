@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 185169
+revid: 185646
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
@@ -41,7 +41,7 @@ Variants: [Steel Maul](Steel_Maul.md)
 
 ## Description
 
-The Steel Maul is a [Vow of Iron](Vow_of_Iron.md) exclusive greathammer weapon.
+The Steel Maul is a [Vow of Iron](Vow_of_Iron.md) exclusive greathammer weapon. This weapon, once wielded by [Saint Jay](<Saint_Jay_(individual).md>), features a multi-stage critical attack that changes the weapon's appearance. In the third and final stage, the Saint Jay's hammer will be encased in ice.
 
 ## Talents
 
@@ -55,8 +55,14 @@ Assuming all of your Pressure Blast hits hit your opponent's block, they will ta
 
 ## Critical
 
-Saint Jay's Hammer utilizes the [Hailbreaker](Hailbreaker.md) critical attacks, without the stage gimmick. Pressing M2 during the windup of the critical will perform a feint. This puts your critical on a 2 second cooldown.
+**Stage I**: Performs two quick slashes placing ice under the users feet and freezing the opponent in place, this moves the weapon into stage II, removing the carbon substance coating the blade.
 
-Performs two quick strikes placing ice under the users feet and freezing the opponent in place.
+**Stage II**: Performs two heavy slashes placing ice under the users feet and freezing the opponent in place, this moves the weapon to stage III, coating it in ice.
+
+**Stage III**: Dashes forward performing a large upward slash placing ice under the users feet and freezing the opponent in place, this moves the weapon back into stage I, breaking the ice and coating the weapon in a carbon substance.
+
+All criticals have a cooldown of 10 seconds.
+
+Pressing M2 during the windup of the critical will perform a feint that resets stages and has a cooldown of 2 seconds. This does not change depending on the stage.
 
 At the end of each critical, ice explosions will happen around the user, dealing the same damage as each tick of the critical as pure Frostdraw damage. The position of these explosions are random, but they are telegraphed by a blue swirl vfx before they explode.

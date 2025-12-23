@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 185480
+revid: 185577
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]

@@ -1,6 +1,6 @@
 ---
 title: Santen
-revid: 172578
+revid: 185675
 source: https://deepwoken.fandom.com/wiki/Santen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -28,7 +28,7 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 
 **Authority Ensign:**
 
-**No division:**
+**No Division:**
 
 <table>
 <tbody>
@@ -50,7 +50,7 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </tbody>
 </table>
 
-**Inquisiton division:**
+**Inquisition Division:**
 
 <table>
 <tbody>
@@ -66,7 +66,7 @@ Santen is located inside of a building at the edges of [Fort Merit](Fort_Merit.m
 </tbody>
 </table>
 
-**Command / Shock Corps division:**
+**Command / Shock Corps Division:**
 
 <table>
 <tbody>

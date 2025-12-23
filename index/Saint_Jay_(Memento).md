@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 185333
+revid: 185574
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -297,6 +297,19 @@ Power 5, 450
 
 -   Warrior's Swing \[Common Talent\] - Heavy Weapons Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
     -   Requirements: Power 5, 100
+
+### Power 10 Talents
+
+-   Cold Front \[Common Talent\] - Your Vent is imbued with glacial frost.
+    -   Requirements: Power 10, 100
+
+-   Frostride \[Momento Talent\] -Your footsteps echo the legend of Saint Jay, freezing the sea beneath.
+    -   Requirements: Power 10, 250
+
+-   Frostbite \[Common Talent\] - Enemies can no longer heal when under the effect of your chill
+    -   Requirements: Power 10, 100
+-   Frozen Anchor \[Common Talent\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
+    -   Requirements: Power 10, 100
 
 ## Boss Unlocks
 

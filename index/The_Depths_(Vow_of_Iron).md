@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 185402
+revid: 185694
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Locations, Locations in the First Layer]
@@ -19,15 +19,14 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
 ## Differences from Pathfinder
 
 -   You spawn in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) and the gates to it are always open.
--   The Depths Trial is in an instanced [Dungeon](Dungeons.md).
--   Much harder enemy spawns ([Nautilodaunts](Nautilodaunt.md) everywhere)
+-   Much harder and frequent enemy spawns.
 -   No [Deep Shrines](Deep_Shrines.md) or [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 -   There are no Jobs on the [Job Boards](Job_Boards.md).
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) no longer works.
 -   You no longer receive health packs from enemies.
 -   You cannot enter the [Second Layer](Second_Layer.md), as the room in [Castle Light](Castle_Light.md) that contains [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) is blocked off, and you will die if you enter the void regardless of HP.
 -   Having [low sanity](Insanity.md) and being outside of the Cathedral of the Interstice for long enough will grant you an amount of flaws, depending on severity.
--   [Deep Gems](Deep_Gems.md) now grow in The Depths
+-   [Deep Gems](Deep_Gems.md) now grow in The Depths.
 
 <table><caption>Vow of Iron Depths Trial</caption>
 <tbody>

@@ -1,6 +1,6 @@
 ---
 title: Azure Duelist Ring
-revid: 185413
+revid: 185690
 source: https://deepwoken.fandom.com/wiki/Azure_Duelist_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Depths |
+| obtainment | The Depths, Sea Events |
 | description | Mantras cast immediately after you parry an attack do 20% more damage. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

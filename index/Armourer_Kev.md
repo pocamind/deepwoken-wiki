@@ -1,6 +1,6 @@
 ---
 title: Armourer Kev
-revid: 176903
+revid: 185682
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -27,7 +27,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 
 **Authority Ensign:**
 
-**No division:**
+**No Division:**
 
 <table>
 <tbody>

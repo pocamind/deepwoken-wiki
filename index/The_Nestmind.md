@@ -1,6 +1,6 @@
 ---
 title: The Nestmind
-revid: 169481
+revid: 185615
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Oath Trainer, NPCs located in the First Layer]
@@ -47,7 +47,7 @@ The origin of The Nestmind is unknown, but it is most likely the source of the D
 </tr>
 <tr>
   <td colspan="2">[See first instance]</td>
-  <td colspan="2">Things aren't always what they seem, little mouse... In time, you may pretend to be one of us, use abilities inherent to my kind... And you may do with these as you please, but are you prepared to pay the toll?</td>
+  <td colspan="2"><b>Things aren't always what they seem, little mouse... In time, you may pretend to be one of us, use abilities inherent to my kind... And you may do with these as you please, but are you prepared to pay the toll?</b></td>
 </tr>
 <tr>
   <td colspan="2"></td>

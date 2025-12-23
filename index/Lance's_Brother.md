@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 176827
+revid: 185610
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -10,7 +10,7 @@ categories: [Etrean NPCs, NPCs, Vendors, Quests, Etrea, NPCs located in the Etre
 
 | Lance's Brother | |
 |---|---|
-| name | Leshi (presumably; forename unknown) |
+| name | @#$%& Leshi [1] |
 | aspect | Etrean |
 | location | Isle of Vigils |
 | affiliation | Etrea |
@@ -153,3 +153,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 -   After asking his name, your character forgets, and his name is then randomized from a preset group of names, which end in "(?)".
 -   Lance's Brother wears [Merchant Robes](Merchant_Robes.md).
 -   Lance Leshi denies having a brother.
+
+## References
+
+1.  [↑](#cite-ref-1) [Stratos](Stratos.md)

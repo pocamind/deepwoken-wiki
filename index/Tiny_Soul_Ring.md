@@ -1,6 +1,6 @@
 ---
 title: Tiny Soul Ring
-revid: 185345
+revid: 185677
 source: https://deepwoken.fandom.com/wiki/Tiny_Soul_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | The Depths |
+| obtainment | The DepthsSea Events |
 | description | You can no longer block, but your parrys deal 2x posture return damage and your parry cooldown is shorter. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 177241
+revid: 185680
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -28,7 +28,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 **Authority Ensign:**
 
-**No division:**
+**No Division:**
 
 **Private / Corporal:**
 
@@ -349,6 +349,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 ## Trivia
 
 -   His full name is a play on the words corn kernel.[\[3\]](#cite-note-3)
+-   His Bad Authority Reputation dialogue is a reference to the similar line spoken by the Soldier from _Team Fortress 2_.
 
 ## References
 

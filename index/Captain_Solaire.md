@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 179823
+revid: 185704
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -99,10 +99,6 @@ This variant of Solaire wields a [Warden Ceremonial Sword](Warden_Ceremonial_Swo
 
  |
 
-## Finisher
-
-Captain Solaire pins their opponent down, before slicing their throat with their [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
-
 **Alloyed Adretian Axe:**
 
 This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed) and wears an [Authority Helm](Authority_Helm.md) alongside a [Ruby Authority Commander Coat](Authority_Commander_Coat.md) and [Scarlet Fleet Warden Cape](Fleet_Warden_Cape.md). They also wear the [Authority Captain Uniform](Authority_Captain_Uniform.md). This one uses standard [Flamecharm](Flamecharm.md). They are an [Adret](Adret.md).
@@ -176,10 +172,6 @@ This variant of Solaire wields an [Alloyed Adretian Axe](Adretian_Axe.md#alloyed
  | Solaire spins and releases a fury of flames that sends both the user and opponent vertically into the air.
 
  |
-
-## Finisher
-
-Captain Solaire pins their opponent down, before crushing their skull with their [Alloyed Adretian Axe](Adretian_Axe.md)
 
 **Sovereign's Punishment:**
 
@@ -277,13 +269,20 @@ This variant also has [Murmur: Ardour](Murmur%253A_Ardour.md).
 
 ## Finisher
 
-Captain Solaire pins their opponent down, before pulverising their skull with their [Sovereign's Punishment](<Sovereign's_Punishment.md>).
+Captain Solaire executes their opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| Execute | \[[Warden Ceremonial Sword](Warden_Ceremonial_Sword.md)\] Pins down opponent before slicing their throat with their blade.
+\[[Alloyed Adretian Axe](Adretian_Axe.md) & [Sovereign's Punishment](<Sovereign's_Punishment.md>)\] Pins down opponent before crushing their skull with their weapon.
+
+ |
 
 ## Tips
 
 -   Assassinate them to deal major damage.
 -   Avoid being hit by their M1s or Critical Attacks, as they will do major damage to even the tankiest of builds.
--   Their AI is extremely intelligent, however they cannot parry most mantras especially multihit mantras like oxidizing rush, use this to your advantage.
+-   Their AI is extremely intelligent, however they cannot parry most [Mantras](Mantras.md), especially multi-hit Mantras, use this to your advantage.
 -   Their weapons can be enchanted with 2 separate enchantments.
 
 ## Trivia

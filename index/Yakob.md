@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 180939
+revid: 185693
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -31,7 +31,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 
 **Authority Ensign:**
 
-**No division:**
+**No Division:**
 
 **Private / Corporal:**
 

@@ -1,6 +1,6 @@
 ---
 title: Circle of Honour
-revid: 184314
+revid: 185673
 source: https://deepwoken.fandom.com/wiki/Circle_of_Honour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Circle of Honour]
@@ -40,3 +40,7 @@ All of the deceased [Mementos](Mementos.md) were said to be capable of defeating
 [High Monk Junsui](High_Monk_Junsui.md) - The High Monk of the [Temple of Mur](Temple_of_Mur.md). Reveals information on the [Etrean Royalists](Etrean_Royalists.md), their leaders and the [Etrean Civil War](Etrean_Civil_War.md). He seems to know a lot about [the Lord Regent](The_Lord_Regent.md)'s power.
 
 [Warden Jericho](Warden_Jericho.md) - The current Warden of the [Eastern Luminant](Luminants.md) and the first known surviving member of the Circle of Honour. He wields the [Warmaster Oath](Oaths.md) holds a high-ranking position in [the Central Authority](The_Central_Authority.md) and is torn between being a member of the Circle and an officer of [the Central Authority](The_Central_Authority.md).
+
+## Trivia
+
+-   The Circle of Honour has been known to be part of _Deepwoken_ long before the release of [Vow of Iron](Vow_of_Iron.md), with mentions going as far back as _Verse 1_, from sources such as Discord lore drops for the [Warmaster Oath](Oaths.md#warmaster), the [Windrunner](Windrunner.md), the former [Journal of Warden Jericho](Journal_of_Warden_Jericho.md) and the current [Jericho's Journal](<Jericho's_Journal.md>), though its role in the story wasn't as emphasized as it is today thanks to Vow of Iron.

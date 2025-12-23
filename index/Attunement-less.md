@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 185150
+revid: 185568
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1107,7 +1107,7 @@ N/A
 **Effect:** _User summons an invisible AoE projectile upon activation, briefly stunning anyone hit by it._
 
 -   Deals 1 damage on proc with no posture damage.
--   Has a wind-up of 0.49s.
+-   Has a wind-up of 0.72s.
 -   May still combat tag opponents who are not facing you.
 -   This move causes humanoid NPCs to block less.
 -   Parry window is at the end of the first flash.

@@ -1,6 +1,6 @@
 ---
 title: Authority Officer
-revid: 176639
+revid: 185701
 source: https://deepwoken.fandom.com/wiki/Authority_Officer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -94,12 +94,12 @@ Their arsenal consists of a [Cavalry Saber](Cavalry_Saber.md), [Adretian Axe](Ad
 
 ## Finisher
 
-An Authority officer executes its opponent after knocking them:
+An Authority Officer executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
 | Execute | \[[Cavalry Saber](Cavalry_Saber.md)\] Pins down opponent before slicing their throat with blade.
-\[[Mace](Mace.md)\] Pins down opponent before firmly bashing their face with mace. \[[Adretian Axe](Adretian_Axe.md)Pins down the opponent before splitting their skull with the weapon.
+\[[Mace](Mace.md)\] Pins down opponent before firmly bashing their face with mace. \[[Adretian Axe](Adretian_Axe.md)\] Pins down the opponent before splitting their skull with the weapon.
 
  |
 

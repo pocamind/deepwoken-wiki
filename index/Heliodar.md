@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 185542
+revid: 185692
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
@@ -30,7 +30,7 @@ Chance of obtaining aspect: **N/A** / **1%** ([Vow of Iron](Vow_of_Iron.md))
 
 Eclipse (Racial Variant likely) - "For what if the Ash were to never return to flames?"
 
-## Racial Traits
+## Aspect Traits
 
 **Pathfinder:**
 
@@ -62,7 +62,7 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 </tbody>
 </table>
 
-**Iron Vow:**
+**Vow of Iron:**
 
   
 

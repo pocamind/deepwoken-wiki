@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 185549
+revid: 185563
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -3447,7 +3447,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Dancer's Beat \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Vent](Combat_Mechanics.md#tempo) is replaced with Dancer's Beat. You increase the speed, damage, and stun of your next Basic Attack. However, should your attack fail to land, you'll be stunned and your [Tempo](Combat_Mechanics.md#tempo) will be greatly reduced.
     
     -   Your Vent can no longer be used defensively and does not cost tempo to use. Additionally, the Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
-    -   Using your Vent will put you in a stance for a brief moment. The next M1 you land will deal higher damage, more stun, and have a higher swing speed.
+    -   Using your Vent will put you in a stance for a brief moment. Your next M1 will deal higher damage, more stun, and have a higher swing speed.
     -   If you are hit before you use your next attack, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose Tempo and will be stunned briefly.
     -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento
 
@@ -3456,6 +3456,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   When you land an attack from the tip of your weapon, an icon of a pair of hands clapping will appear, signifying that you've activated the buff.
     -   When you land an attack from half or less than half of your weapon's range, an icon of a thumbs down will appear, signifying that you were debuffed.
     -   Also procs on weapon criticals.
+    -   Because of how monster hitboxes work, you will almost always benefit from the positive effect of this Talent while fighting non-humanoids, regardless of how close to them are are.
     -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento
 
 -   Dancer's Impale \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)

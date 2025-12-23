@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 173904
+revid: 185676
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -35,7 +35,7 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 
 **Authority Ensign:**
 
-**No division:**
+**No Division:**
 
 <table>
 <tbody>
@@ -51,7 +51,7 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 </tbody>
 </table>
 
-**Any division:**
+**Any Division:**
 
 **First Encounter:**
 

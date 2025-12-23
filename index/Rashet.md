@@ -1,6 +1,6 @@
 ---
 title: Rashet
-revid: 175714
+revid: 185678
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
@@ -81,7 +81,7 @@ Rashet is located by a pillar at [Merit's Reach](<Merit's_Reach.md>) from across
   <td colspan="6"></td>
 </tr>
 <tr>
-  <td>I'll see what I can do. Pleasure doing business. If the <a href="Authority_Peacekeeper.md">Peacekeepers</a> start hounding you again, you know who to talk to.</td>
+  <td>I'll see what I can do. Pleasure doing business. If the Peacekeepers start hounding you again, you know who to talk to.</td>
   <td>It's not cheap to mess these bureaucrats around,y'know [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]. How's about you come back when you have a bit of capital?</td>
   <td colspan="5"></td>
   <td colspan="5"></td>

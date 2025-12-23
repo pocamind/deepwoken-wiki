@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 184695
+revid: 185633
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -25729,29 +25729,25 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 ## Trivia
 
 -   You can pass down soulbound weapons for 40 [echoes](Echoes.md) each; however the weapon will be automatically soulbound to the next character.
--   Changing stances, contrary to popular belief, does NOT affect swing speed. The [Curved Blade of Winds](Curved_Blade_of_Winds.md) is the only weapon with differing swing speed depending on stance.
--   [Hero Blades](Hero_Blades.md), despite requiring attunement stat points and not weapon stat points, scale with **Proficiency** as opposed to **Songchant**.
+-   Changing stances, contrary to popular belief, does NOT affect swing speed. The [Curved Blade of Winds](Curved_Blade_of_Winds.md) and [Ignition Deepcrusher](Ignition_Deepcrusher.md) are the only weapons with differing swing speed depending on stance.
 -   The weapon with the highest:
-    -   Base Damage: [Metal Greatsword](Metal_Greatsword.md) (45)
-    -   Requirement: [Hivelord's Hubris](<Hivelord's_Hubris.md>), [Kanabo](Kanabo.md), [Chorus of Agonies](Chorus_of_Agonies.md), [Lumensplitter](Lumensplitter.md) (100 HVY)
-    -   Dual Requirement: [Metal Greatsword](Metal_Greatsword.md) (90 Weapon, 90 Ironsing) due to it requiring the [Rending Needle: Augmenter](Talents.md#rending-needle) Talent
-    -   Triple Requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
-    -   Quadruple Requirement: [Red Death](Red_Death.md) (30 MED, 35 BLD, 45 SDW, 25 MND)
-    -   Highest Attribute Cost: [Imperator's Edge](<Imperator's_Edge.md>) (240 Attribute Points)
+    -   Base damage: [Metal Greatsword](Metal_Greatsword.md) (45)
+    -   Singular attribute requirement: [Hero Blades](Hero_Blades.md) (all of them) (100 respective Attunement)
+    -   Multiple attribute requirement: [Imperator's Edge](<Imperator's_Edge.md>) (80 STR, 80 FTD, 80 MED)
+    -   Amount of individual attribute requirements: [Red Death](Red_Death.md) (4)
     -   Penetration: [Shattered Katana](Shattered_Katana.md), [Nemit's Sickle](<Nemit's_Sickle.md>), [Kyrsedge](Kyrsedge.md), [Kyrstreza](Kyrstreza.md), [Flareblood Kamas](Flareblood_Kamas.md), [Pernach](Pernach.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
     -   Scaling: [Soulwrought Gun](Crazy_Slots.md#weapons) (16)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Darksteel Cleaver](Darksteel_Cleaver.md) (13)
-    -   Swing Speed: [Soulwrought Gun](Crazy_Slots.md#weapons) (1.33x)
-    -   Highest DPS: [Soulwrought Greatsword](Crazy_Slots.md#weapons) (110 DPS)
-    -   Unique Crits: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
+    -   Swing speed: [Soulwrought Gun](Crazy_Slots.md#weapons) (1.33x)
+    -   Amount of unique criticals: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) (5)
 -   Both of the Rifle Basic Attacks have the same range.
--   The Aranea was the first item to have an unobtainable stat prerequisite before being turned into the [Guiding Star](Guiding_Star.md).
 -   Rifles are the only weapon type that have four basic m1s before a flourish.
 -   Twinblades lack a flourish when two handed, making them the only weapon class to lack a flourish... sometimes.
 -   [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) is the only weapon to scale on alternating weapon stats.
--   [Flareblood Kamas](Flareblood_Kamas.md) is the only weapon to scale on a stat it does not require.
--   [First Light](First_Light.md) and [Krulian Knife](Krulian_Knife.md) are the only weapons to have pure elemental scaling on their criticals. Despite this, neither of these weapons require any attunement investment to be used.
+-   [Flareblood Kamas](Flareblood_Kamas.md) and [The Death Knell](The_Death_Knell.md) are the only weapons to scale on an attribute they do not require.
+-   [First Light](First_Light.md) and [Krulian Knife](Krulian_Knife.md) are the only weapons to have pure elemental damage and elemental scaling on their criticals, despite not requiring any Attunement investment.
 -   The [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...
+    -   The above weapons are also the only weapons in the game that do not naturally benefit from [Proficiency](Traits.md#proficiency)'s weapon scaling increase buff. Scaling Rings will still benefit from your Proficiency even on these weapons, however.
 -   Named Weapons are heavily inspired by Artifacts from _Dark and Darker_, weapons that bear the same appearance and stats as a certain regular weapon but come with a special ability, very similarly to Named weapons.

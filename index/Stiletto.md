@@ -1,9 +1,9 @@
 ---
 title: Stiletto
-revid: 183106
+revid: 185710
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
 ---
 
 # Stiletto

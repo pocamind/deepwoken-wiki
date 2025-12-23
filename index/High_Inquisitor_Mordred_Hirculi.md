@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Mordred Hirculi
-revid: 185461
+revid: 185579
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Mordred_Hirculi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Inquisitors of The Central Authority]
@@ -13,6 +13,7 @@ notices:
 | High Inquisitor Mordred Hirculi | |
 |---|---|
 | name | Mordred Hirculi |
+| alias | High Inquisitor |
 | aspect | Vesperian |
 | location | Fort Merit |
 | affiliation | The Central Authority |

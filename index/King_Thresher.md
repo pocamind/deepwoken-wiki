@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 180173
+revid: 185657
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -20,17 +20,13 @@ categories: [Monsters]
 
 ― King Thresher Spine Description'
 
-_Also known as Big/King Croc, Mother Thresher, and many other names_
-
 ## Description
 
-The King Thresher is a larger and usually older male Thresher that is found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). Sometimes, it can be found with another Thresher.
+The King Thresher (also colloquially known as Big/King Croc, Mother/Mama Thresher, etc) is a larger and usually older male [Thresher](Thresher.md) that is found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). Sometimes, it can be found with another Thresher.
 
-King Threshers, as its name suggests are similar to an Alpha Megalodaunt in terms of social hierarchy; a dominant Thresher leading their own pack. They are a result of male Threshers competing with each other in populated nests, where behavioral shifts sink in. Their growth is derived from an organ in their necks which can be significantly ended if a competing Thresher's teeth is lodged into an opposing Thresher, thus leading into a Thresher emerging as a king. These Threshers have distinct features from their lesser counterparts, such as its large size, purple body, and a unique ability to breathe purple flames.
+King Threshers, as its name suggests are similar to an [Alpha Megalodaunt](Alpha_Megalodaunt.md) in terms of social hierarchy; a dominant Thresher leading their own pack. They are a result of male Threshers competing with each other in populated nests, where behavioral shifts sink in. Their growth is derived from an organ in their necks which can be significantly ended if a competing Thresher's teeth is lodged into an opposing Thresher, thus leading into a Thresher emerging as a king. These Threshers have distinct features from their lesser counterparts, such as its large size, purple body, and a unique ability to breathe purple flames.
 
-A King Thresher is required to be killed at the Starswept Valley to complete [Jessamine's quest](Jessamine.md), granting the Thresher Scales [Echo Talent](Echoes.md), which repairs the player's armor while resting at a campfire. This quest can be completed/recompleted to get a hand of cards if you already have the Talent.
-
-  
+A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s [Quest](Quests.md), granting the Thresher Scales [Echo Talent](Echoes.md), which repairs the player's Armor while resting at a campfire. This quest can be completed/recompleted to get a hand of cards if you already have the Talent.
 
 ## Attacks
 
@@ -56,7 +52,7 @@ A King Thresher is required to be killed at the Starswept Valley to complete [Je
 **Tail Swipe**  
 (★★☆)
 
- | The King Thresher brings his tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
+ | The King Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
 
  |  |
 | 
@@ -72,7 +68,9 @@ A King Thresher is required to be killed at the Starswept Valley to complete [Je
 **Royal Breath**  
 (★★★)
 
- | The King Thresher breathes purple flames in a 180° arc in front of it. Has a sound cue of the King Thresher roaring; dodge when you hear this. Must be dodged.
+ | The King Thresher turns its head to the side before rapidly turning the other direction and breathing out purple flames. Starts with a sound cue and the sound of the King Thresher roaring.
+
+-   Despite being unparriable and unblockable, it does not actually block-break you, instead merely bypassing your parry and block.
 
  |  |
 | 
@@ -80,7 +78,9 @@ A King Thresher is required to be killed at the Starswept Valley to complete [Je
 **Body Slam**  
 (★★☆)
 
- | The King Thresher stands on its hind legs and waits a couple seconds before slamming their body into the ground to deal damage.
+ | The King Thresher highlights **White** and stands on its hind legs for a moment before slamming its body into the ground.
+
+-   As it highlights **White**, this means you can avoid being hit entirely by jumping before it slams down.
 
  |  |
 
@@ -98,17 +98,19 @@ A King Thresher is required to be killed at the Starswept Valley to complete [Je
 
 ## Tips
 
--   The **Burrow** attack works differently from a normal Thresher's. Unlike it's smaller variant, the timing is much more strict or perhaps a better way to put it is that the AI is less "lazy". It is difficult to explain, so it is best to experience it for yourself to understand.
--   If you are hit by the **tail swipe**, use your right-mouse button to un-ragdoll. It is recommended that you do this as it will allow you to react if it decides to you use **Royal Breath** afterwards (which happens often).
--   This mob is one of the most dangerous mobs to encounter **corrupted** in the depths, second to only the [Mudskipper Broodlord](Mudskipper_Broodlord.md). This is a monster you'd want to avoid fighting in The Depths. You should only fight it if you are Power 20 with good gear and weapons, in a large group, and/or experienced. A corrupted King Thresher can deal up to a bar or more of health depending on the move. The 100% PEN + the high health pool means this thing can make quick work of you. However, the reward is remarkable as it will drop a duke size chest. This may mean you have a higher chance of finding [Deep Gems](Deep_Gems.md) or [Enchantments](Enchantments.md). Regardless, it is still strongly recommended if you see one to just leave it alone.
--   DO NOT fight this monster on slopes as it will keep moving back it forth, thus making it more difficult to avoid/parry it's attacks. If possible try to fight it in a somewhat (not too) open and flat area. If it is on a slope, lure it to flat ground.
--   Be aware your environment, have an escape route planned as it might save your life. If you are in The Depths, be wary for other monsters.
--   A safe way to practice fighting a King Thresher would be to head to the Lightkeeper temple located on the far right side of [Starswept Valley](The_Starswept_Valley.md). Once you enter, on your right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway if your low, but do be warned as there are other threshers in the area.
+-   Its attacks behave very similarly if not identical to the attacks of its smaller counterpart, the [Thresher](Thresher.md), meaning knowledge learned from it can be re-applied to the King Thresher, except for its exclusive attacks, that being **Royal Breath** and **Body Slam**.
+    -   Though, the **Burrow** attack works somewhat differently from a Thresher's. The timing is much more strict due to the King Thresher being quicker to react to getting in its larger range, as well as having a larger rising hitbox, meaning you will have to pay more attention.
+-   The **Royal Breath** attack has a very small window before it actually damages you, though its damage is relatively low. Be wary for this attack if you wish to avoid taking damage.
+-   If you get hit by its **Tail Swipe** attack, press M2 to quickly get back up. It is recommended that you do this as it will allow you to defend yourself if it decides to use **Royal Breath** afterwards, which happens often.
+-   It is one of the most dangerous [Monsters](Monsters.md) to encounter **Corrupted** in [The Depths](The_Depths.md), second to only the [Mudskipper Broodlord](Mudskipper_Broodlord.md). This is due to its already high damage and health being amplified further due to being Corrupted, as well as its chasing ability being even more prominent due to the nature of Monsters in The Depths.
+-   Avoid fighting it on sloped ground as it will keep moving back and forth, thus making it more difficult to avoid/parry it's attacks. If possible try to bring it towards flatter ground.
+-   This is one of the Monsters that benefits the most from being in a horde alongside other Monsters as well as being in a chase regardless of the situation, due to its fast movement speed, its attacks having a large reach and from being able to shut down your movement, either from hitstun or from ragdolling.
+    -   If you are not confident enough in your fighting ability against the King Thresher, then be aware of your surroundings and have an escape route planned as it might save your life. If you are in The Depths, be wary for other monsters.
+    -   A safe way to practice fighting a King Thresher would be to head to the [Lightkeeper Temple](Lightkeeper_Temple.md) located on the far right side of the [Starswept Valley](The_Starswept_Valley.md). Once you enter, on the right you will see a King Thresher in a room full of books. This method will allow you to escape through the small doorway whenever you get low on health, but do be wary as there are other [Threshers](Thresher.md) in the area.
 
   
 
 ## Trivia
 
--   Royal breath doesn’t block break, instead being a block and parry bypass.
--   Royal breath, despite the visuals, is not flame and has never been flame.
--   For some reason, body slam is undodgeable, so the only way to avoid it is by blocking or moving out of the way.
+-   Despite having flame visuals, **Royal Breath** is not flame and has never been flame.
+-   The **King Thresher**, alongside the [Thresher](Thresher.md) and the [Deep Owl](Deep_Owl.md) were one of the 3 [Pathfinder](Pathfinder.md) gamemode [Monsters](Monsters.md) that received the new Highlight telegraphs and mechanics from the [Vow of Iron](Vow_of_Iron.md) gamemode in the December 13th, 2025 "Ironsworn" update.

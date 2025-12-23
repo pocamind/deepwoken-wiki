@@ -1,6 +1,6 @@
 ---
 title: Shard Bow
-revid: 184982
+revid: 185653
 source: https://deepwoken.fandom.com/wiki/Shard_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -25,7 +25,7 @@ categories: [Resonances]
 
 **Pressing C will activate the "Shard Bow" Resonance. User summons a shimmering-white bow and kicks off of the floor, firing explosive arrow(s) at the cursor from midair.**
 
-If Shard Bow is corrupted, your Shard Bow will deal an additional 5 posture damage and apply White Flames to your opponent. The White Flames are like base Burn, but they tick 25% faster than base burn (3 ticks per second compared to 2.4) at the cost of having slightly lower base damage per tick (3.21 compared to 3.33). White Flames benefits from all of your Flamecharm Talents that augment the Burn status effect. Additionally, the Corrupt variant of this Resonance appears to make you jump further back and higher up.
+If Shard Bow is corrupted, your Shard Bow will deal an additional 5 posture damage, apply White Flames to your opponent, and gain 1.5 [Flamecharm](Flamecharm.md) scaling. The White Flames are like base Burn, but they tick 25% faster than base burn (3 ticks per second compared to 2.4) at the cost of having slightly lower base damage per tick (3.21 compared to 3.33). White Flames benefits from all of your Flamecharm Talents that augment the Burn status effect. Additionally, the Corrupt variant of this Resonance appears to make you jump further back and higher up.
 
 Corrupt Shard Bow will always have the self burn downside, applying white burn to the caster on use.
 

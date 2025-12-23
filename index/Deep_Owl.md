@@ -1,9 +1,9 @@
 ---
 title: Deep Owl
-revid: 185089
+revid: 185658
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Monsters]
 ---
 
 # Deep Owl
@@ -16,25 +16,20 @@ Template:Creature Infobox V3
 
 ## Description
 
-The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [monster](Monsters.md) found in [Upper Erisia](Upper_Erisia.md), [The Lordsgrove](The_Lordsgrove.md) and [The Depths](The_Depths.md). Owls can also be found in [Pathfinder's Respite](<Pathfinder's_Respite.md>), [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md), and [Viper's Jaw](<The_Viper's_Jaw.md>) in Lower Erisia. Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
+The **Deep Owl** (also referred to simply as "Owl") is a relatively uncommon [Monster](Monsters.md) found in [Lower Erisia](Lower_Erisia.md), [The Viper's Jaw](<The_Viper's_Jaw.md>), [Pathfinder's Respite](<Pathfinder's_Respite.md>), [The Garden Reservoir](The_Garden_Reservoir.md), [Upper Erisia](Upper_Erisia.md), [Burning Stone Gardens](Burning_Stone_Gardens.md), [The Lordsgrove](The_Lordsgrove.md), and [The Depths](The_Depths.md). Deep Owls are related to the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) and illusion magic.
 
-Deep Owls will only spawn in the Etrean Luminant while the moon is out. This restriction does not apply to The Depths, nor the Deep Owl in [The Lordsgrove](The_Lordsgrove.md).
+Deep Owls will only spawn in the Etrean Luminant while the moon is out. This restriction does not apply to The Depths, nor the static Deep Owl spawn in [The Lordsgrove](The_Lordsgrove.md).
 
 “ Yes, we Owls... Or I suppose, that's just how we appear to your limited perceptive abilities... An insidious predator that feasts on the meek... ”
 
 ― The Nestmind
 
-All Owls are part of a hivemind named [The Nestmind](The_Nestmind.md). Talking to it gives us unique insight on what these otherworldly predators are. It is said by The Nestmind that Visionshapers in a point of their life tries to become an owl, meaning that maybe some but not all owls that appear in Deepwoken are old [Visionshapers](Oath%253A_Visionshaper.md) who have become an owl through unknown means.
+  
+Deep Owls hail down on Lumen from an inconceivable dimension that contains their collective hivemind known as [The Nestmind](The_Nestmind.md), where they are usually unable to communicate with the outside world. This is changed by the [Oath](Oaths.md) made between [Visionshapers](Oath%253A_Visionshaper.md) and The Nestmind. Deep Owls manifest themselves in our world with the ability of a Visionshaper's mind having the ability to turn illusions into reality.
 
-Deep Owl's hail down on Lumen from an inconceivable dimension where they aren't usually able to communicate with the outside world. This is altered by the Oath made between Visionshapers and The Nestmind. Deep Owls manifest themselves in our world with the ability of a Visionshaper's mind having the ability to turn illusions into reality.
+When appearing in [Upper Erisia](Upper_Erisia.md) or [The Depths](The_Depths.md), its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. During the dialogue, it is non-hostile and will not attack the player, remaining in this state until the player begins attacking or turns their back to the Deep Owl while in its detection range. Therefore, it's a good time to log out if unprepared for the battle.
 
-When appearing in [Upper Erisia](Upper_Erisia.md) or [The Depths](The_Depths.md), its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. During the dialogue, it is non-hostile and will not trigger a combat state. Therefore, it's a good time to log out if unprepared for the battle.
-
-Once the dialogue ends, the owl will not attack unless hit first or if the player turns their back. However, Owls will also attack if it has already been spawned and you enter its detection range. If the player maintains eye contact with the owl and walks backward, it will not attack and will eventually give up once out of detection range.
-
-The corrupted Deep Owls that spawn in The Depths follow the aforementioned behaviour, but have significantly higher health and attack values than their uncorrupted variants on the Etrean Luminant.
-
-Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the moves are unlocked with Void feathers.
+Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) requires a [Dark Feather](Dark_Feather.md#dark-feather), but it is progressed with [Void Feathers](Dark_Feather.md#void-feather).
 
 ## Attacks
 
@@ -44,10 +39,10 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 **Talon Swipe**  
 (★☆☆)
 
- | Three slow, consecutive swipes.
+ | The Deep Owl swipes with one of its arms, the windup depending on which arm is used.
 
--   The Owl can use this multiple times back-to-back.
--   Swipes that come from the left side of your screen come more quickly, while swings that come from the right side of your screen are delayed somewhat.
+-   It can use this attack multiple times back-to-back, and is usually used during the downtime between other attacks.
+-   Swipes from its right arm come more quickly, while swings from its left arm are delayed somewhat.
 
  |  |
 | 
@@ -55,33 +50,22 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 **Owl Dash**  
 (★☆☆)
 
- | Kneels on the ground for a moment before performing a spinning assault in the target's direction.
+ | The Deep Owl highlights Blue and kneels on the ground for a moment before performing a spinning assault in the target's direction.
 
--   Deals Shadowcast damage.
+-   Despite that it highlights Blue, this attack can still be parried, blocked, or dodged like normal, it just means it now has an additional way to be avoided: by crouching.
+-   Can end early without hitting you if it "collides" with something due to its large size.
+-   Deals Shadow damage.
 
  |  |
-| 
-
-**Feather Teleport**  
-(★☆☆)
-
- | Turns into a burst of feathers, emerging at the target it is pursuing after a bit.
-
--   Typically used after Talon Swipe.
--   After using Feather Teleport, the Owl will typically use Flock of Feathers or Overhead Grab.
-
- | 
-
- |
 | 
 
 **Overhead Grab**  
 (★★★)
 
- | Jumps into the air while turning into a burst of feathers, then grabs the player from above before flying upward.
+ | Jumps into the air while turning into a burst of feathers, then descends back down to grab the player before flying upwards.
 
--   This is telegraphed by a small cloud of feathers suddenly appearing around you.
--   It is recommended to look up to time your dodge, as the Owl will appear above you.
+-   This is telegraphed by an audio cue and a small cloud of feathers suddenly appearing around you.
+-   It is recommended to look up to time your dodge, as the Deep Owl's descent is deceptively slow.
 
  |  |
 | 
@@ -91,9 +75,9 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
  | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.
 
--   Overhead Grab/Owl Dash is typically used after this.
+-   Overhead Grab and Owl Dash are typically used after this.
 -   Deals Shadowcast damage.
--   Does not grant autoparry frames, each feather must be parried individually.
+-   Does not grant auto-parry frames, each feather must be parried individually.
 
  |  |
 
@@ -101,8 +85,7 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
 | Name | Media | Description |
 | --- | --- | --- |
-| Claw Crush | 
- | The Owl swiftly crushes the knocked player's torso with it's talons. |
+| Claw Crush |  | The Owl swiftly crushes the knocked player's torso with it's talons. |
 
 ## Passives
 
@@ -110,7 +93,7 @@ Unlocking the [Visionshaper Oath](Oaths.md) requires Dark feathers, but the move
 
 ## Dialogue
 
-Note: The player can only speak to a Deep Owl if they are the one to spawn in it or have [Mute](Regalia.md#mute).
+Note: The player can only speak to a Deep Owl if they are the one to spawn it or have the [Mute Regalia](Regalia.md#mute).
 
 **First Encounter:**
 
@@ -152,7 +135,7 @@ Note: The player can only speak to a Deep Owl if they are the one to spawn in it
 </tbody>
 </table>
 
-## Strategy
+## Tips
 
 One strategy an unprepared player should consider when encountering the Owl is the **Fight** or **Flight** response.
 
@@ -184,16 +167,15 @@ The Owls' special attacks are affected by shadow armour.
 ## Trivia
 
 -   Deep Owls were originally intended to be exclusive to the [Second Layer](Second_Layer.md).[\[1\]](#cite-note-1)
--   There is a low chance that a non-corrupted Deep Owl will drop Void Feather, which makes it possible to grind Void Feathers for [Visionshaper](Oath%253A_Visionshaper.md) safely at the [The Lordsgrove](The_Lordsgrove.md) via the static spawn there.
--   Dark and Void feathers are required to craft over half of the Expert and Master tier [Outfits](Outfits.md).
+-   There is a low chance that a non-corrupted Deep Owl will drop a Void Feather, which makes it possible to grind Void Feathers for [Visionshaper](Oath%253A_Visionshaper.md) safely at the [The Lordsgrove](The_Lordsgrove.md) via the static spawn there.
+-   Dark and Void Feathers are required to craft over half of the Expert and Master tier [Outfits](Outfits.md).
 -   If you are unfortunate enough, one of these can spawn directly on top of you, trap you in dialogue and become hostile while speaking to you.
--   Due to the fact that the Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 15).
--   Don't try to hide in buildings, Deep Owl can use "Feather Teleport" to enter the building even with its large size.
--   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they deal an unholy amount of damage if you can't fight them properly.
--   Occasionally when hit by the Deep Owls overhead grab, it will bug out and be flung/teleported out of its aggression distance, though this doesn't happen often.
--   When interacting with a Deep Owl after it's initial dialouge while it hasn't turned hostile, or with the Mute Regalia, the player will receive the text: "\*The creature tilts its head curiously.\*"[\[2\]](#cite-note-2)
+-   Due to the fact that the Deep Owl has 1.8k health, it is possible to stat check it if you are at a high enough [Power](Power.md) due to PvE scaling, but it is recommended to still exercise some form of caution while fighting it, as with all boss-type enemies (Stat Check Level: 15).
+-   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they can quickly deal large amounts of damage if not defended against properly.
+-   Occasionally when hit by the Deep Owl's **Overhead Grab**, it will bug out and be flung/teleported out of its detection range, though this doesn't happen too often.
+-   For a very long time after release until its eventual shadow-patch, there was a typo in one of its dialogue response lines that said "Ah. Carry on then, little mouse. I'm sure you have places to be be." Notice the difference at the very end.
+-   The **Deep Owl**, alongside the [Thresher](Thresher.md) and the [King Thresher](King_Thresher.md) were one of the 3 [Pathfinder](Pathfinder.md) gamemode [Monsters](Monsters.md) that received the new Highlight telegraphs and mechanics from the [Vow of Iron](Vow_of_Iron.md) gamemode in the December 13th, 2025 "Ironsworn" update.
 
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2) File:MenacingOwl.png

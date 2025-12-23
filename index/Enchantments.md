@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 180671
+revid: 185576
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -578,13 +578,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <a href="Stone.md"><font>Stone</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
-  <p></p>
-  <p>Grants increased posture damage to M1s. Your M1 guard breaks deal additional damage.<br>
-  <small>Stone doesn't give extra chip damage despite what the In-game Description states.</small></p>
-  <p>Stone's posture calculation is 3.5 * (weapon investment/100), capping at 3.5 additional posture with 100 weapon investment. This is additive to your weapon's base posture.<br>
-  Stone's additional damage on guard break is 25% of your weapon's weight stat (with Stone's posture damage included) before modifiers added to your guard break. Because this is effectively an increase to your weapon's scaled damage on guard break, damage modifiers will be based off the posture break damage with Stone included.</p><small>The additional guard break damage would look like this: scenario: 100 heavy investment Sovereign's Punishment = 13 innate Weight + 3.5 from Stone. (13 + 3.5) * 0.25 = 4.55 additional guard break damage on M1s.</small><p></p>
+  <p>Adds true damage to your weapon attacks that guardbreak.</p>
   <p><strong>In-game Description:</strong></p>
-  <p><i>Deal increased posture damage on your light attacks. Increases chip damage and damage on block break.</i></p>
+  <p><i>Do extra true damage whenever you guardbreak an opponent with a light attack or critical.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
   <p>Stone can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Stone enchanted weapon from a chest.</p>Stone <a href="Enchant_Stone.md">Enchant Stone</a>:<div>

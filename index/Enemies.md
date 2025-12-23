@@ -1,6 +1,6 @@
 ---
 title: Enemies
-revid: 180293
+revid: 185715
 source: https://deepwoken.fandom.com/wiki/Enemies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Mechanics]
@@ -98,3 +98,4 @@ These are the NPCS that factions will send after you if you have low enough repu
 
 -   All enemies are affected by their racial passives, though this doesn't really affect how they fight at all.
     -   In contrast, they do not gain any passives from their [Outfits](Outfits.md) or [Equipment](Equipment.md).
+-   Certain enemies are set to wear coat-like cosmetic Equipment, but are never able to load in the arms of said Equipment, leaving them sleeveless. This can be seen with enemies such as the [Cloaked Assassin](Cloaked_Assassin.md) or the [Captain Solaire](Captain_Solaire.md).

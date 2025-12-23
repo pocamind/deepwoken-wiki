@@ -1,6 +1,6 @@
 ---
 title: Hector
-revid: 177078
+revid: 185689
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Naval personnel of The Central Authority, Military personnel of The Central Authority]
@@ -84,4 +84,4 @@ Hector is located in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
 ## Trivia
 
--   Despite claiming to be part of the navy, his status as a prison guard suggests he was either transferred to the terrestrial army, or the Central Authority's military is incredibly homogonized.
+-   Despite claiming to be part of the navy, his status as a prison guard suggests he was either transferred to the terrestrial army, or the Central Authority's military is incredibly homogenized.

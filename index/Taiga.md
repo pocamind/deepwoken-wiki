@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 172583
+revid: 185685
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -17,7 +17,7 @@ categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Military pe
 
 ## Description
 
-Taiga is a [Capra](Capra.md) NPC. She works with the Eastern garrison's sawbones.
+Taiga is a [Capra](Capra.md) NPC. She works alongside [Sawbones](Sawbones.md).
 
 ## Location
 
@@ -27,7 +27,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
 
 **Authority Ensign:**
 
-**No division:**
+**No Division:**
 
 <table>
 <tbody>
