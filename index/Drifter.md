@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 184622
+revid: 185550
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 ## Unique Features
 
-Gain a dodge instead of a parry, coming out later than a parry but gaining the ability to parry **Unparriable** indicators. At power 10, gain the ability to have a swift teleporting dash at the cost of ether and the ability to unsheathe your **Purple Cloud**.
+Gain a dodge instead of a parry, coming out later than a parry but gaining the ability to parry **Unparriable** indicators. At power 10, gain the ability to have a swift teleporting dash at the cost of ether and after killing [Dravik, The Rat King](Dravik,_The_Rat_King.md) the ability to unsheathe your **Purple Cloud**.
 
   
 

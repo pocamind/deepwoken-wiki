@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 179319
+revid: 185513
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -89,7 +89,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 #### Support Mantras
 
 -   **Symbiotic Sustain** - Activate when linked to an ally to sacrifice your own health to them.
-    -   If linked to an ally (signified by blue cord), sacrifice 7% of your HP to be turned into wither to restore 15% of the target's HP.
+    -   If linked to an ally (signified by blue cord), sacrifice 7% (5% if equipped with [Deepscorn Casque](Deepscorn_Casque.md)) of your HP to be turned into wither to restore 15% of the target's HP.
     -   It has a 17.5 second cooldown.
     -   Does **not** work with any deep gem besides Blue.
     -   Obtained upon killing 3 players with [Oaths](Oaths.md).

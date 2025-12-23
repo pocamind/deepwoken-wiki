@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 185466
+revid: 185531
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -180,7 +180,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This move is rarely ever used, mostly when the player is at a distance and facing away from Dravik.
 -   It is near impossible to react to this move.
 
- |  |
+ | 
+
+ |
 | 
 
 **Rodent Pounce**
@@ -205,7 +207,9 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This can be overlapped with Dravik's other attacks, causing you to be overwhelmed if not careful.
 -   During his second phase, Dravik summons two sets of axes.
 
- |  |
+ | 
+
+ |
 | 
 
 **King's Might: Glistening Crush**

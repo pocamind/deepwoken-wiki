@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 185367
+revid: 185543
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -32,13 +32,15 @@ This content is not accessible outside of this gamemode.
 To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on mystery boxes.
 
 -   **The locations of the mystery boxes that have been found so far are:**
-    -   Inside the [Derelict Highchurch](Derelict_Highchurch.md), where the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) spawns
-    -   2 Near the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
-    -   1 Under the stairs near the [Etrean Royalists](Etrean_Royalists.md) at the [Rat's Den](<Rat's_Den.md>).
-    -   1 On an island to the Northeast of [Meteor Isle](Meteor_Isle.md)
-    -   Inside a cell in the fort merit prison tower, about one floor up
-    -   On top of the song seeker flame temple
-    -   An island west of [Etris (Vow of Iron)](<Etris_(Vow_of_Iron).md>)
+    -   One inside of the [Derelict Highchurch](Derelict_Highchurch.md), where the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) spawns
+    -   Two near the [Temple of Mur](Temple_of_Mur.md)
+    -   One underneath the stairs near the Group of Etrean Nobles inside of [The Golden Rat](The_Golden_Rat.md)
+    -   One inside of [The Entropy Catalyst](The_Entropy_Catalyst.md)
+    -   One an island to the northeast of [Meteor Isle](Meteor_Isle.md)
+
+-   -   One inside of a cell in the Fort Merit prison tower
+    -   One on top of the [Songseeker Temple](Songseeker_Temple.md)
+    -   One on an island west of [Etris](<Etris_(Vow_of_Iron).md>)
 
 ## Available Mantras
 
@@ -367,10 +369,25 @@ Power 1, 950
     -   Madness prevents non-boss enemies from dealing damage or hitstunning you.
     -   Requirements: Power 1, 100
 
+-   Cornered Fool \[Common Talent\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
+    -   Despite what the description states, this applies Taunt for 6 seconds.
+    -   The Taunt damage buff is also applied to the attack that guard broke.
+    -   Requirements: Power 1, 100
+
 -   Ether Blade \[Common Talent\] - You gain Ether when you parry Mantras.
     -   Requirements: Power 1, 100
 
 -   Off Your Game \[Common Talent\] - You now slow Taunted enemies when you hit them.
+    -   Requirements: Power 1, 100
+
+-   Tough Love \[Common Talent\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charmed](Status_Effects.md#charm) briefly.
+    -   Charms for 2 seconds with a 1 second cooldown.
+    -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
+    -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
+    -   Procs its charm through block, parry, and dodge.
+    -   This damage buff is only applied if **your** Charm is applied to the target. Due to how Charm works, it is highly recommended that you have a high Charm duration from Lasting Charisma if you wish for this Talent to function in large-scale ganks.
+    -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.
+    -   Requirements: Power 1, 100
 
 -   Deal Maker \[Memento Talent\] - Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales.
     
@@ -385,22 +402,6 @@ Power 1, 950
 -   _**Dazing Finisher**_ \[Advanced Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
     -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
     -   Requirements: Power 1, 350
-
-### Power 5 Talents
-
--   Cornered Fool \[Common Talent\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
-    -   Despite what the description states, this applies Taunt for 6 seconds.
-    -   The Taunt damage buff is also applied to the attack that guard broke.
-    -   Requirements: Power 10, 100
-
--   Tough Love \[Common Talent\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charmed](Status_Effects.md#charm) briefly.
-    -   Charms for 2 seconds with a 1 second cooldown.
-    -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
-    -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
-    -   Procs its charm through block, parry, and dodge.
-    -   This damage buff is only applied if **your** Charm is applied to the target. Due to how Charm works, it is highly recommended that you have a high Charm duration from Lasting Charisma if you wish for this Talent to function in large-scale ganks.
-    -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.
-    -   Requirements: Power 1, 100
 
 ### Power 10 Talents
 

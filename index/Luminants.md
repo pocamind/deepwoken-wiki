@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 161131
+revid: 185545
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -22,9 +22,11 @@ Off the coast of Markor is the Lullaby Isles, an area with a dense mountain rang
 
 ## Western Luminant
 
-Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West. The Covenant of Flame alongside Flamecharm originated in this Luminant due to it being the birthplace of Amorus Pleeksty.
+Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West.
 
-This is where the [Battle Royale](Battle_Royale.md) gamemode takes place.
+[The Covenant of Flame](The_Covenant_of_Flame.md) and modern [Flame-charm](Flamecharm.md) originated from this Luminant due to it being the birth-place of [Amorus Pleeksty](Amorus_Pleeksty.md) and where he descended to the Third Layer. This has lead to the Tirans in the luminant etching floral patterns into their weaponry as a tribute to the pioneer[\[1\]](#cite-note-1)
+
+This is where the [Battle Royale](Battle_Royale.md) game-mode takes place.
 
 ## Southern Luminant
 
@@ -33,3 +35,5 @@ The Southern Luminant, what used to be a Luminant brimmed with temperate forest 
 ## Northern Luminant
 
 The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris. It is home to the Elder Edenkite, and the [Drakkard](Drakkard.md). The description of the [Winter Corps](Winter_Corps_Boots.md) armor mentions a species of thorny plant named "Drakethistle" existing in this Luminant, possibly making it out to be a frozen landscape with vegetation somehow spread throughout it.
+
+1.  [↑](#cite-ref-1) [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)

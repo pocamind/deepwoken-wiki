@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 185449
+revid: 185549
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -107,8 +107,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Absolute Focus
 
 -   Against All Odds \[Common Talent, Willpower Exclusive\] - For each combat tag you have on your character, increase your damage by 1% (max of 7%).
-    -   Works in PvE combat.
-        -   Each mob gives one mark, so you can get up to 7% in PvE.
+    -   Works in PvE combat, with each mob counting as an individual combat tag.
     -   Prerequisite: 65 Willpower
 
 -   Emergency Reserves \[Common Talent, Willpower Exclusive\] - When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).
@@ -134,7 +133,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Steady Footing \[Common Talent, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
     -   Reduces knockback to the user by 20%. (stacks with "Knockback Resistance" equipment pip)
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
-    -   Removes ice's bonus slide distance, and **does not** affect the lowered friction when moving on ice.
+    -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
         -   This is a considerable downside to Frostdraw users, as there is no upside to this effect, it is **not recommended**.
     -   Prerequisites: 10 Agility, 10 Strength
 
@@ -2535,6 +2534,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Electrify.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
     -   Lowers the Wither application from the Wither Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~2%.
+    -   Lower the Wither application from [Symbiotic Sustain](Oath%253A_Linkstrider.md) to 5%
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
 
 -   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
@@ -3442,6 +3442,50 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Chime of Conflict \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
     -   Prerequisites: Speak to [Yamaketzal](Yamaketzal.md), [Power](Power.md) 5
 
+### Spear Dancer
+
+-   Dancer's Beat \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Vent](Combat_Mechanics.md#tempo) is replaced with Dancer's Beat. You increase the speed, damage, and stun of your next Basic Attack. However, should your attack fail to land, you'll be stunned and your [Tempo](Combat_Mechanics.md#tempo) will be greatly reduced.
+    
+    -   Your Vent can no longer be used defensively and does not cost tempo to use. Additionally, the Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
+    -   Using your Vent will put you in a stance for a brief moment. The next M1 you land will deal higher damage, more stun, and have a higher swing speed.
+    -   If you are hit before you use your next attack, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose Tempo and will be stunned briefly.
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento
+
+-   Dancer's Geas \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.
+    
+    -   When you land an attack from the tip of your weapon, an icon of a pair of hands clapping will appear, signifying that you've activated the buff.
+    -   When you land an attack from half or less than half of your weapon's range, an icon of a thumbs down will appear, signifying that you were debuffed.
+    -   Also procs on weapon criticals.
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento
+
+-   Dancer's Impale \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
+    
+    -   Essentially, this is Lancer's Impale without being weapon type locked.
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, 200
+
+-   Dancer's Sting \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Striking with the tip of your weapon applies +25% PEN and +25% Chip Damage.
+    
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Ga Buidhe \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Backstabs now count as the tip of your weapon.
+    
+    -   Attacking your opponent's back now procs all Talents and effects that would normally proc when attacking with the tip of your weapon.
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Ga Dearg \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Striking a bleeding enemy with the tip of your weapon extends the bleed.
+    
+    -   Hitting a bleeding enemy with the tip of your weapon will reapply the bleed.
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, 200
+
+-   Kick the Beat \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Dancer's Beat now works with Critical Attacks.
+    
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 15, 200
+
+-   Two Left Feet \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
+    
+    -   Essentially, this is Defensive Sweep without being weapon type locked.
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 10, 200
+
 ### Specter
 
 -   Haunted Path: Specter \[Common Talent, Galebreathe Exclusive\] - Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.
@@ -4085,7 +4129,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
     -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
-    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
+    -   Speed Demon's bleed deals 2.5% of your weapon's damage every 0.3s, three times. This totals to +7.5% damage over a 0.9 second period.
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
 

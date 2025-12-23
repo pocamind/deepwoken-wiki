@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 172462
+revid: 185494
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -32,27 +32,31 @@ To obtain the [Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md), and [Irons
 
 [Attunement-less](Attunement-less.md)
 
-[Attunement-less](Attunement-less.md) 
+[Attunement-less](Attunement-less.md)Attunement-less
 
 [Attunement](Attunements.md)
 
-[Attunement](Attunements.md) 
+[Attunement](Attunements.md)Random
 
 [Flamecharm](Flamecharm.md)
 
-[Flamecharm](Flamecharm.md) 
+[Flamecharm](Flamecharm.md)Flamecharm  
+(FLM)
 
 [Frostdraw](Frostdraw.md)
 
-[Frostdraw](Frostdraw.md) 
+[Frostdraw](Frostdraw.md)Frostdraw  
+(ICE)
 
 [Thundercall](Thundercall.md)
 
-[Thundercall](Thundercall.md) 
+[Thundercall](Thundercall.md)Thundercall  
+(LTN)
 
 [Galebreathe](Galebreathe.md)
 
-[Galebreathe](Galebreathe.md) 
+[Galebreathe](Galebreathe.md)Galebreathe  
+(WND)
 
   
 
@@ -62,15 +66,18 @@ Attunements requiring the completion of a quest to obtain and cannot be cheesed 
 
 [Shadowcast](Shadowcast.md)
 
-[Shadowcast](Shadowcast.md) 
+[Shadowcast](Shadowcast.md)Shadowcast  
+(SDW)
 
 [Ironsing](Ironsing.md)
 
-[Ironsing](Ironsing.md) 
+[Ironsing](Ironsing.md)Ironsing  
+(MTL)
 
 [Bloodrend](Bloodrend.md)
 
-[Bloodrend](Bloodrend.md) 
+[Bloodrend](Bloodrend.md)Bloodrend  
+(BLD)
 
   
 
@@ -90,15 +97,15 @@ _(The [Weapon Manual](Weapon_Manual.md) does not teach you new weapon classes, b
 
 [Sword](<Sword_(weapon).md>)
 
-[Sword](<Sword_(weapon).md>) 
+[Sword](<Sword_(weapon).md>)Sword
 
 [Battleaxe](Battleaxe.md)
 
-[Battleaxe](Battleaxe.md) 
+[Battleaxe](Battleaxe.md)Battleaxe
 
 [Stiletto](Stiletto.md)
 
-[Stiletto](Stiletto.md) 
+[Stiletto](Stiletto.md)Stiletto
 
   
 
@@ -108,41 +115,41 @@ _\[More information about [weapons and combat styles](Weapons.md) can be found o
 
 [Quickfang](Quickfang.md)
 
-[Quickfang](Quickfang.md) 
+[Quickfang](Quickfang.md)Quickfang
 
 [Irontusk](Irontusk.md)
 
-[Irontusk](Irontusk.md) 
+[Irontusk](Irontusk.md)Irontusk
 
 [Silversix](Silversix.md)
 
-[Silversix](Silversix.md) 
+[Silversix](Silversix.md)Silversix
 
 [Avenger](Avenger.md)
 
-[Avenger](Avenger.md) 
+[Avenger](Avenger.md)Avenger
 
   
 
 [Way of Navae](Way_of_Navae.md)
 
-[Way of Navae](Way_of_Navae.md) 
+[Way of Navae](Way_of_Navae.md)Way Of Navae
 
 [Jus Karita](Jus_Karita.md)
 
-[Jus Karita](Jus_Karita.md) 
+[Jus Karita](Jus_Karita.md)Jus Karita
 
 [Legion Kata](Legion_Kata.md)
 
-[Legion Kata](Legion_Kata.md) 
+[Legion Kata](Legion_Kata.md)Legion Kata
 
 [Imperium Kata](Imperium_Kata.md)
 
-[Imperium Kata](Imperium_Kata.md) 
+[Imperium Kata](Imperium_Kata.md)Imperium Kata
 
 [Fang and Coil](Fang_and_Coil.md)
 
-[Fang and Coil](Fang_and_Coil.md) 
+[Fang and Coil](Fang_and_Coil.md)Fang and Coil
 
   
 
@@ -163,41 +170,41 @@ When first creating a character, the player can choose only out of two spawn loc
 
 [Castaway](Castaway.md)
 
-[Castaway](Castaway.md)
+[Castaway](Castaway.md)Etris
 
 [Castaway](Castaway.md)
 
-[Castaway](Castaway.md)
+[Castaway](Castaway.md)Isle of Vigils
 
 ### Unlockable Origins
 
 [Lone Warrior](Lone_Warrior.md)
 
-[Lone Warrior](Lone_Warrior.md)
+[Lone Warrior](Lone_Warrior.md)Trial of One
 
 [Deepbound](Deepbound.md)
 
-[Deepbound](Deepbound.md)
+[Deepbound](Deepbound.md)Castle Light
 
 [Deepbound](Deepbound.md)
 
-[Deepbound](Deepbound.md)
+[Deepbound](Deepbound.md)The Diluvian Mechanism
 
 [Voidwalker](Voidwalker.md)
 
-[Voidwalker](Voidwalker.md)
+[Voidwalker](Voidwalker.md)Voidheart
 
 [Ignition Delver](Ignition_Delver.md)
 
-[Ignition Delver](Ignition_Delver.md)
+[Ignition Delver](Ignition_Delver.md)Miner's Landing
 
 [Ignition Delver](Ignition_Delver.md)
 
-[Ignition Delver](Ignition_Delver.md)
+[Ignition Delver](Ignition_Delver.md)The Chariot's Spire
 
 [Authority Ensign](Authority_Ensign.md)
 
-[Authority Ensign](Authority_Ensign.md)
+[Authority Ensign](Authority_Ensign.md)Port Merit
 
   
 

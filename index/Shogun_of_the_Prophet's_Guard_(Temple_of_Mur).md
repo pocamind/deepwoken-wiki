@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 185476
+revid: 185538
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md) is an instanced boss near the [Deep Thresher Nest](Deep_Thresher_Nest.md) encountered through its location by a boundary. This boss is not optional, as they are mandatory to uncap Power 5, though the order in which you fight this Shogun or [Dravik](Dravik,_The_Rat_King.md) doesn't matter, since both can be accessed at the beginning of your journey.
+The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), formerly known as the Shogun Captain, is an instanced boss near the [Deep Thresher Nest](Deep_Thresher_Nest.md) encountered through its location by a boundary. This boss is not optional, as they are mandatory to uncap Power 5, though the order in which you fight this Shogun or [Dravik](Dravik,_The_Rat_King.md) doesn't matter, since both can be accessed at the beginning of your journey.
+
+### Starting Fight with Shogun
 
 1.  Recommended but not mandatory: Reach Power 5
 2.  Make your way to the [Deep Thresher Nest](Deep_Thresher_Nest.md), below the trenches close to where the [Deep Widow](Deep_Widow.md) is and instead of going towards the Widow, go the other direction and enter the [Boundary](Boundary.md).

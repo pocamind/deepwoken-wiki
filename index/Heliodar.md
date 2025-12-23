@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 184676
+revid: 185542
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
@@ -118,6 +118,7 @@ In the Vow of Iron update, were confirmed to be directly related to Tirans, havi
 -   rJeneration
 -   yayafino
 -   GunChowDa
+-   Infektedskrpion
 
 ## Trivia
 

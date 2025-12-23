@@ -1,6 +1,6 @@
 ---
 title: The City of the Drowned
-revid: 177195
+revid: 185520
 source: https://deepwoken.fandom.com/wiki/The_City_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -60,9 +60,3 @@ The city is patrolled by watchers that summon pairs of [Hollow Angel](Hollow_Ang
 -   If you are unattuned with [Shadowcast](Shadowcast.md), the spelltrainer will give you a quest.
 -   They will ask you for five Umbral Obsidian, obtain them and give it to them.
 -   Doing this will result in a potion that will attune you with Shadowcast.
-
-## Loot Table
-
-Below is a list of loot that can be found in The City of the Drowned.
-
--   [Odd Tentacle](Odd_Tentacle.md)

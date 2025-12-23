@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 184681
+revid: 185533
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -414,7 +414,7 @@ Power 15, 950
         -   Lasting Charisma (at reqs): 20s -> 10s
     -   Requirements: Power 1, 100
 
--   Duelist's Lunge \[Common Taleny\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
+-   Duelist's Lunge \[Common Talent\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
     -   Running attack with rapiers deal 35% more posture damage.
     -   After landing a Critical, the next rapier running attack has +2 stud range.
     -   Requirements: Power 1, 100

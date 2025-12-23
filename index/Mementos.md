@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 185374
+revid: 185514
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, Mechanics]
@@ -16,7 +16,7 @@ This content is not accessible outside of this gamemode.
 
 ## Mementos
 
-Mementos are an exclusive feature to the Vow of Iron. Mementos are built-in builds in Vow of Iron, since they force you into a certain path, for example, Saint Jay forces you into [Frostdraw](Frostdraw.md). The player unlocks 5 mementos for free, which are: Berserker, Flame Worshipper, Rogue Assassin, Saint Jay and Sightless. Other Mementos can be unlocked through various challenges within Vow of Iron.
+Mementos are an exclusive feature to the Vow of Iron. Mementos are built-in builds in Vow of Iron, since they force you into a certain path, for example, Saint Jay forces you into [Frostdraw](Frostdraw.md). The player unlocks 6 mementos for free, which are: Berserker, Flame Worshipper, Rogue Assassin, Saint Jay, Spear Dancer, and Sightless. Other Mementos can be unlocked through various challenges within Vow of Iron.
 
 Each Memento has their own set memory missions.
 

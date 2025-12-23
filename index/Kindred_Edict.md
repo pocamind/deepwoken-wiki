@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 184410
+revid: 185540
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages using duplicate arguments in template calls, Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -14,7 +14,7 @@ categories: [Pages using duplicate arguments in template calls, Weapons, Critica
 | damage type | Slash |
 | requirements | 50 MED, 30 BDY |
 | damage | 17 |
-| scaling | MED: 5, BDY: 4.5 |
+| scaling | MED: 7, BDY: 2.5 |
 | posture damage | 4.5 |
 | range | 7.5 Sweep |
 | swing speed | 1.05x |
