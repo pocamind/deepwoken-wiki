@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 185543
+revid: 185743
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -16,7 +16,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | final traits | 8 Proficiency, 7 Songchant, 6 Dexterity, 6 Erudition, 1 Vitality |
 | aspect | Levit |
 | starting armor | Traveller's Jacket |
-| allowed weapons | Fist, Greathammer, Greataxe, Sword, Spear, Club, Rapier, Dagger, Greatsword, Greatcannon, Essentially any except Pistols, Rifles, Twinblades, and Bows |
+| allowed weapons | Fist, Greathammer, Greataxe, Sword, Spear, Club, Rapier, Dagger, Greatsword, Greatcannon, Essentially any except Pistols, Rifles, Shields, Twinblades, and Bows |
 | starting weapons | Vortex Echo |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

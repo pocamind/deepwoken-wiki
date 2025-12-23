@@ -1,6 +1,6 @@
 ---
 title: Black Diver (NPC)
-revid: 176691
+revid: 185723
 source: https://deepwoken.fandom.com/wiki/Black_Diver_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Divers, Diver Enemies]
@@ -13,21 +13,19 @@ categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, T
 | health | 10000 |
 | drops | None |
 | weapon | Forgotten Gladius, Markor's Inheritor, Pale Morning |
-| moves | Assault, Critical, Gale Lunge, Jolt Grab |
+| moves | Assault, Critical, Gale Lunge, Jolt Grab, Astral Wind, Jolt Grab, Rising Thunder, Ice Smash, Blinding Dawn, Radiant Kick, Radiant Dawn |
 
 _This is the Black Diver NPC. To see the Master [Outfit](Outfits.md) under the same name, check [Black Diver](Black_Diver.md)._
 
 ## Description
 
-Black Divers are town guard reinforcements that can appear within [Castle Light](Castle_Light.md).
+Black Divers are enemies from [The Divers](The_Divers.md) that can spawn either in [Castle Light](Castle_Light.md) at a low chance or in Villain [Reputation](Reputation.md) [Ambush Events](Faction_Ambushes.md).
 
-They are also enemies that appear as part of "Villain" reputation [ambush events](Faction_Ambushes.md) for high level players from [The Divers](The_Divers.md).
-
-If you talk to him in [The Understrand](The_Understrand.md), he will get mad at you and attack you as the only way you can see him there is if you have bad [reputation](Reputation.md) with The Divers.
+Their appearance consists of the [Black Diver](Black_Diver.md) Outfit and a randomized [Aspect](Aspects.md).
 
 ## Moveset
 
-A Black Diver's arsenal consists of the [Dawnwalker](Oath%253A_Dawnwalker.md) Oath and either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement. They fittingly wear the [Black Diver](Black_Diver.md) armor.
+A Black Diver's arsenal consists of either a [Forgotten Gladius](Forgotten_Gladius.md), [Markor's Inheritor](<Markor's_Inheritor.md>) or [Pale Morning](Pale_Morning.md) which can be [Enchanted](Enchantments.md) along with either the [Thundercall](Thundercall.md) or [Galebreathe](Galebreathe.md) attunement and the [Dawnwalker](Oath%253A_Dawnwalker.md) [Oath](Oaths.md).
 
 \* Only used by Ambush variant and Tideknight variant.  
 
@@ -151,15 +149,6 @@ A Black Diver's arsenal consists of the [Dawnwalker](Oath%253A_Dawnwalker.md) Oa
 -   Luminous Flash - After dealing a certain amount of damage while in "Absolute Radiance", the Black Diver gains a chance to empower their strikes with pure light.
 -   Absolute Radiance - Dealing damage with Dawnwalker mantras briefly makes the Black Diver's immune to all elemental effects for a short period.
 
-Dialogues
-
-Upon gripping:
-
-See you on the other side. Hah!
-
-  
-Upon spawning:
-
 ## Finisher
 
 A Black Diver executes its opponent after knocking them:
@@ -176,19 +165,13 @@ A Black Diver executes its opponent after knocking them:
 -   Fight them like any other humanoid NPC with a weapon.
 -   Their wide moveset requires a bit of getting used to. Thankfully, these NPCS aren't very common.
 -   Remember that killing these guys will take some time; they have 10,000 health.
--   Can take on most monsters in the Depths due to their (fittingly) large health pool.
+-   Can take on most [Monsters](Monsters.md) in [The Depths](The_Depths.md) due to their (fittingly) large health pool.
 
 ## Trivia
 
--   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on the **1/16/2023** due to their presence contradicting the established low number and high power level of actual Black Divers.
-    -   They then went unused until the **5/15/2023** update, which brought faction ambushes, which reintroduced them as part of high level ambush.
--   They are one of the few NPCs that use Oaths, with the said NPCs being the [Ignition Union Arcwarder](Ignition_Union_Arcwarder.md), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md) / [Old Knife of Eylis](Old_Knife_of_Eylis.md), [the Starkindred angels](Iblis,_The_Fallen_Angel.md) and the [Ministry Enforcer](Ministry_Enforcer.md).
--   They use both variants of Jolt Grab, those being Magnet Spark and without Magnet Spark.
--   Curiously, The Hundred Legions are hostile towards them. (Tested in a Faction Ambush in The Starswept Valley.)
-
-## Images
-
--   A Black Diver.
-    
-
--   Ditto.
+-   Originally, Black Divers replaced the Divers Guards at Castle Light to improve its safety, they were however replaced with [Journeymen Divers](Journeyman_Diver_Guard.md) on January 16th, 2023 due to their presence contradicting the established low number and high power level of actual Black Divers.
+    -   They then went unused until the May 15th, 2023 update, which brought [Faction Ambushes](Faction_Ambushes.md), which reintroduced them as part of high level ambushes.
+-   If you talk to one in [The Understrand](The_Understrand.md), they will begin attacking you as the only way you can find one there is if you have bad [Reputation](Reputation.md) with The Divers.
+-   They are one of the few enemies that use [Oaths](Oaths.md), with the other enemies being the [Ignition Union Arcwarder](Ignition_Union_Arcwarder.md), [Subtle Knife of Eylis](Subtle_Knife_of_Eylis.md), [Old Knife of Eylis](Old_Knife_of_Eylis.md), [Ministry Enforcer](Ministry_Enforcer.md), and [all](Iblis,_The_Fallen_Angel.md) [four](Abaddon,_Sinner_of_Ice.md) [Starkindred](Minos,_Sinner_of_Flame.md) [enemies](Astaroth,_Sinner_of_Wind.md).
+-   They use both variants of [Jolt Grab](Thundercall.md), that being the Magnet Spark variant and the base version.
+-   Curiously, [The Hundred Legions](The_Hundred_Legions.md) are hostile towards them.

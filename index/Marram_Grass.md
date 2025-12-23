@@ -1,6 +1,6 @@
 ---
 title: Marram Grass
-revid: 178947
+revid: 185751
 source: https://deepwoken.fandom.com/wiki/Marram_Grass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables, Ingredients, Alchemy]
@@ -40,5 +40,3 @@ Marram Grass can be used for the following:
 ## Trivia
 
 -   Marram Grass was added to replace Bamboo growing on shorelines as it made more sense.
--   Duke erisia eats this every morning and he shares it with sharkos if he feels generous
--   Maestro, ferryman, duke and primadon love marram grass and eat it when hungry

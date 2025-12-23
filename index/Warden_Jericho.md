@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 184875
+revid: 185730
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Wardens of The Central Authority, NPCs located in the Eastern Luminant]
@@ -13,6 +13,7 @@ categories: [Adret NPCs, Wardens of The Central Authority, NPCs located in the E
 | name | Jericho |
 | aspect | Adret |
 | location | Fort Merit |
+| affiliation | The Central Authority, Circle of Honour (formerly) |
 | family | Aladrian (father), Octavius (father) |
 
 “ May you become the light that guides the blinded in the dark, may you burn bright as the Authority's undying flame, and may triumphant vanquish you the foes of humankind. ”

@@ -1,9 +1,9 @@
 ---
 title: Saint Jay (Memento)
-revid: 185574
+revid: 185717
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -70,7 +70,7 @@ Saint Jay (Memento) is a playable [Memento](Mementos.md) available in the [Vow o
 
 **Ice Beam** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Fire a beam of ice._
 
@@ -79,7 +79,7 @@ _Fire a beam of ice._
 ## Ice Beam (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Fire a beam of ice._
 
  |
@@ -115,7 +115,7 @@ Power 1, 250
 
 **Ice Lance** (★★☆)
 
-**Combat**
+**Combat Mantra**
 
 _Form an ice spear and lunges forward._
 
@@ -124,7 +124,7 @@ _Form an ice spear and lunges forward._
 ## Ice Lance (★★☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Form an ice spear and lunges forward._
 
  |
@@ -234,7 +234,7 @@ Power 1, 250
 
 **Rising Frost** (★★☆)
 
-**Combat**
+**Combat Mantra**
 
 _Conjure a glaive of frost to launch your opponents skywards._
 
@@ -243,7 +243,7 @@ _Conjure a glaive of frost to launch your opponents skywards._
 ## Rising Frost (★★☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Conjure a glaive of frost to launch your opponents skywards._
 
  |
