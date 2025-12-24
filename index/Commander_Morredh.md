@@ -1,6 +1,6 @@
 ---
 title: Commander Morredh
-revid: 182454
+revid: 185945
 source: https://deepwoken.fandom.com/wiki/Commander_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
@@ -49,7 +49,7 @@ Commander Morredh is located in the dining room near the entrance of the [Fort M
 </tr>
 <tr>
   <td>You have a problem with the Warden?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>[See first instance]</td>

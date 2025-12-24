@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 185655
+revid: 185928
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -61,6 +61,8 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the St
 
  | The Thresher burrows underground to avoid being hit and digs towards the player, jumping out once close enough or after a few seconds and dealing moderate damage.
 
+-   While burrowed, a red circle effect will flash on where they would normally be, serving as an indicator for their location.
+-   When about to jump out of digging, a purple telegraph will flash, use this to time your defense.
 -   When in [The Depths](The_Depths.md), Threshers will remain burrowed indefinitely, only rising out when they have reached their target.
 
  |  |

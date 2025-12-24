@@ -1,9 +1,9 @@
 ---
 title: Nimea
-revid: 177218
+revid: 185888
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs]
+categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Nimea
@@ -68,7 +68,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 </tr>
 <tr>
   <td colspan="6">You seem pretty knowledgeable on these things.</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6"><i>*A wistful expression plays upon her face.*</i> A childhood friend of mine was born with the Gift. The first in the <a href="Glossary.md#the-luminants">Luminant</a> in decades, so they said. <i>*She sighs.*</i> I had only ever wished that we could have both lived a normal life together; that they had never found her Gift.</td>
@@ -88,7 +88,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">[See first instance.]</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -126,7 +126,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6">Oh... Yes, I suppose that's right. They wouldn't squander her Gift... Tell me. Does she... Does she remember me?</td>
 </tr>
 <tr>
-  <td colspan="6">End (Poetry End)</td>
+  <td colspan="6">[End Dialogue] (Poetry Ending)</td>
   <td colspan="3">I'm not sure, sorry.</td>
   <td colspan="3">Well, she's writing poems.</td>
 </tr>
@@ -137,8 +137,8 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="3">End (Too Busy End)</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue] (Too Busy Ending)</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -163,7 +163,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 </tr>
 <tr>
   <td colspan="6">Not Viqh though?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">No. Not Viqh. Poor thing couldn't muster a single word of it. As a child, I simply thought she hadn't got the knack for it yet. We must've sat there for hours - just reciting the same <a href="Glossary.md#mantra">Mantras</a> over and over again. <i>*She smiles, reminiscing. Seems like a pleasant memory for her.*</i></td>
@@ -187,7 +187,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="6"><i>*She eyes you once again, measuring your sincerity. Her face cracks into a smile.*</i> I know you are. But what is one to do? I can only hope that love can reach where the <a href="Glossary.md#the-song">Song</a> never could.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -209,7 +209,7 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
   <td colspan="12">[See first instance.]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

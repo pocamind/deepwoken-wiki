@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 184883
+revid: 186002
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -575,7 +575,7 @@ Shadow + Slash
 -   Deals 13 posture damage per hit (1, 3 with Multiplying Spark).
 -   Has a 12 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
--   Cannot be feinted.
+-   Can be feinted, however you need to feint it very early into the move's windup.
 -   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), making you lunge forward and slam down on the enemy.
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks), making you slash three times instead of once, lowering the damage per hit with an overall damage increase.
     -   Has a base damage of 15/17/19/21/23 per level, per hit (3) with 2.75 Shadowcast scaling. This deals 2x the damage of the unmodified variant.

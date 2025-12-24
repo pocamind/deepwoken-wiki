@@ -1,6 +1,6 @@
 ---
 title: "Erisor's Church"
-revid: 184049
+revid: 185957
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Etrean Luminant]
@@ -56,7 +56,6 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   The description references de-emphasised lore, with it being up in the air whether or not it's still canon.[\[1\]](#cite-note-1)
--   Erisor could be the name of the former ruler of [Etris](Etris.md), and you could have forgotten it because of [The Lord Regent](The_Lord_Regent.md)'s mind veil on [Etris](Etris.md).
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Drallis Ehr
-revid: 180168
+revid: 185995
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heads of government and state, Personnel of The Central Authority]
@@ -21,8 +21,11 @@ Drallis Ehr is the head of state of [The Central Authority](The_Central_Authorit
 
 Drallis Ehr became a hero in the [Adretian Empire](Adretian_Empire.md) after stopping the catastrophe known as [the Godstorm](Godstorm.md) that had brought the nation to its knees. With the Adretian Emperor and his soldiers having fallen to the Godstorm, Drallis Ehr took over and led the coalition that would become [The Central Authority](The_Central_Authority.md).
 
+[Traan Zakshun](Traan_Zakshun.md) is known to claim Drallis Ehr as an endorser of their products.[\[4\]](#cite-note-4)
+
 ## References
 
 1.  ↑ [1.0](#cite-ref-helm-1-0) [1.1](#cite-ref-helm-1-1) [Authority Helm](Authority_Helm.md)
 2.  [↑](#cite-ref-2) [Warden Jericho](Warden_Jericho.md)
 3.  [↑](#cite-ref-3) [Maps](Maps.md)
+4.  [↑](#cite-ref-4) [Traan Zakshun](Traan_Zakshun.md)

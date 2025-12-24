@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 180740
+revid: 185984
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -46,7 +46,7 @@ Along with all other elements, users can see their Mantras becoming stronger wit
 -   Upgrading a Frostdraw Mantra from level 3 to level 4 costs 300 and requires 60 Frostdraw investment.
 -   Upgrading a Frostdraw Mantra from level 4 to level 5 costs 400 and requires 80 Frostdraw investment.
 
-Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes.
+Upgrading your Mantras with the [Songwright](Songwright.md) NPC will cost 50% more Notes. (1500 Notes Total)
 
 [Frostdraw Unbound](Attributes_Unbound.md#attunement-unbound) can be obtained by defeating any humanoid [boss](Bosses.md) (Duke, Chaser, Ferryman, etc), while having 75 points invested into the attunement.
 

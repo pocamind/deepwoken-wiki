@@ -1,6 +1,6 @@
 ---
 title: Sawbones
-revid: 183236
+revid: 185905
 source: https://deepwoken.fandom.com/wiki/Sawbones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
@@ -43,7 +43,7 @@ Despite this reputation, [Yakob](Yakob.md) considers a paying a visit to him to 
   <td><i>*A weary Canor appears to be tending to some paperwork, unamused by your presence. You presume this is the surgeon. His eyes stay fixed on the paperwork.*</i> We don't treat civilians in the fortress without the Warden's explicit approval. If you need something stitched up, try the barber in Port Merit. Good day to you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

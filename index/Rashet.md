@@ -1,6 +1,6 @@
 ---
 title: Rashet
-revid: 185678
+revid: 185950
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
@@ -40,7 +40,7 @@ Rashet is located by a pillar at [Merit's Reach](<Merit's_Reach.md>) from across
   <td colspan="12">Lovely day isn't it? Let me know if your day isn't going so great due to outside forces. I can help.</td>
 </tr>
 <tr>
-  <td><div>End</div></td>
+  <td><div>[End Dialogue]</div></td>
 </tr>
 </tbody>
 </table>
@@ -87,7 +87,7 @@ Rashet is located by a pillar at [Merit's Reach](<Merit's_Reach.md>) from across
   <td colspan="5"></td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="10"></td>
 </tr>
 </tbody>
@@ -104,7 +104,7 @@ Rashet is located by a pillar at [Merit's Reach](<Merit's_Reach.md>) from across
   <td colspan="12">Woah, hey. Don't linger around me for too long. You're gonna make 'em suspicious.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

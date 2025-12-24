@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 185550
+revid: 185941
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -24,13 +24,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Drifter** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses without taking any damage. Fall damage and self-damaging abilities such as Rush Hour and Flame Within do not count towards taking damage.
+**Drifter** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses without taking any damage. Fall damage and self-damaging abilities such as Rush Hour and Flame Within do not count towards taking damage. This Memento changes the user's eyes to a light purple.
 
 ## Unique Features
 
-Gain a dodge instead of a parry, coming out later than a parry but gaining the ability to parry **Unparriable** indicators. At power 10, gain the ability to have a swift teleporting dash at the cost of ether and after killing [Dravik, The Rat King](Dravik,_The_Rat_King.md) the ability to unsheathe your **Purple Cloud**.
-
-  
+Gain a dodge instead of a parry, coming out later than a parry but gaining the ability to parry **Unparriable** indicators. At power 10, gain the ability to have a swift teleporting dash at the cost of ether. After killing [Dravik, The Rat King](Dravik,_The_Rat_King.md) the ability to unsheathe your **Purple Cloud**.
 
 ## Available Mantras
 

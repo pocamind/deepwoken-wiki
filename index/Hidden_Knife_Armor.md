@@ -1,6 +1,6 @@
 ---
 title: Hidden Knife Armor
-revid: 183779
+revid: 185932
 source: https://deepwoken.fandom.com/wiki/Hidden_Knife_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -34,7 +34,7 @@ This content is not accessible outside of this gamemode.
 
 ### _Requirements_
 
-This Outfit costs requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Emerald](Treasures.md) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Emerald](Treasures.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
@@ -43,3 +43,8 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 This Outfit has 2000 durability and grants +25% Physical Armor, +25% Elemental Armor, +20% Ether Regen, and +50% [Stealth](Stealth.md). Additionally, it provides the [Bane](Talents.md#bane) Talent.
 
 The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, grants a speed boost and allows you to teleport to your opponent in radius of 25 studs when using M1s, for 20 seconds. This has a cooldown of 100 seconds.
+
+## Trivia
+
+-   This outfit is a much darker version of [Kaide](Kaide,_the_Drowned_Light.md)'s outfit.
+    -   Roblox Clothing: [Shirt](https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman) / [Pants](https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman)

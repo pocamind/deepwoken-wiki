@@ -1,11 +1,11 @@
 ---
 title: Iron Vessel
-revid: 184626
+revid: 185926
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
+categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is currently being worked on. Missing True Heart of Enmity drop & P20 Shop"
 ---
 
 # Iron Vessel
@@ -14,8 +14,11 @@ notices:
 |---|---|
 | description | A master of iron - both in blade, and in the song. |
 | unlock | Defeat Shogun Captain |
+| starting attributes | 5 Ironsing, 3 Medium Weapon, 5 Fortitude, 1 Agility, 2 Intelligence |
 | final attributes | 100 Ironsing, 50 Medium Weapon, 100 Fortitude, 10 Agility, 70 Intelligence |
+| starting traits | 5 Songchant, 5 Proficiency, 1 Dexterity, 1 Erudition |
 | final traits | 6 Songchant, 6 Proficiency, 2 Dexterity, 2 Erudition |
+| starting armor | Blacksteel Attrire |
 | allowed weapons | Sword, Club, Dagger |
 | starting weapons | Ferractine |
 
@@ -29,7 +32,7 @@ This content is not accessible outside of this gamemode.
 
 ## Unique Features
 
-Instead of taking any health damage, automatically block the hit and take posture damage instead, this posture is affected by armor and defense such as Isshin's Ring. Parrying or Spitting gives back far less posture. Reaching full posture guard breaks you and causes you to receive **significantly increased damage from the attack that caused the guard break. This may pose to be fatal, depending on the attack.** This may even pierce Death Nullifications such as [Memory Shards](Memory_Shard.md). All sources of healing are significantly reduced (e.g [Etris Flasks](Etris_Flask.md))
+Instead of taking any health damage, automatically block the hit and take posture damage instead, this posture is affected by armor and defense such as Isshin's Ring. Parrying or Spitting gives back far less posture. Reaching full posture guard breaks you and causes you to receive **significantly increased damage from the attack that caused the guard break. This may pose to be fatal, depending on the attack.** This may even pierce Death Nullifications such as [Memory Shards](Memory_Shard.md). All sources of healing are significantly reduced (e.g [Etris Flasks](Etris_Flask.md)).
 
 ## Available Mantras
 
@@ -67,9 +70,93 @@ Instead of taking any health damage, automatically block the hit and take postur
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
+**Iron Quills** (★★☆)
+
+**Combat Mantra**
+
+_Conjure metal from within, impaling surrounding entities._
+
+ | 
+
+## Iron Quills (★★☆)
+
+  
+**Combat Mantra**  
+_Conjure metal from within, impaling surrounding entities._
+
+ |
+| 
+
+60 Ether
+
+ | 
+
+Metal + Slash + [Bleed](Status_Effects.md#bleed)
+
+ | 
+
+Starter
+
+ |
+| 
+
+**Effect:** _Send metal spikes piercing through your body, impaling all nearby targets._
+
+-   Has a base damage of 20/22/24/26/28 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 12.5 posture damage.
+-   Has a windup of 0.45 seconds with a 10 second cooldown.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
+-   Casting Iron Quills doesn't break your momentum, allowing you to sprint at full speed during the casting animation.
+-   Despite blood particles appearing from your body on cast, it doesn't deal any self damage.
+
+ |
+| 
+
+**Metal Rampart** (☆☆☆)
+
+_Summon a large metal pillar._
+
+ | 
+
+## Metal Rampart (☆☆☆)
+
+  
+_Summon a large metal pillar._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Metal + Blunt + [Bleed](Status_Effects.md#bleed)
+
+ | 
+
+Starter
+
+ |
+| 
+
+**Effect:** _Form a pillar from below, causing the character to ascend upwards as the pillar forms._
+
+-   Deals damage on placedown with a very small AoE.
+-   Has a base damage of 10/14/18/22/26 with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 8 posture damage.
+-   0.5 second windup before damage is dealt, 1.5 second windup before the pillar is fully created.
+-   The pillar lasts 6 seconds at base with a 15 second cooldown. The duration increases by 1 second per upgrade, reaching a total maximum of 10s.
+-   Has 9.2x PvE scaling (multiply damage dealt by 9.2 for PvE damage).
+-   The height of the pillar will depend on what is above the user.
+-   Can be modified with [Cloudstones/Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to extend its width.
+-   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to extend its duration.
+
+ |
+| 
+
 **Enforcer Pull** (★★☆)
 
-**Support**
+**Support Mantra**
 
 _A powerful gravitational pull._
 
@@ -78,7 +165,7 @@ _A powerful gravitational pull._
 ## Enforcer Pull (★★☆)
 
   
-**Support**  
+**Support Mantra**  
 _A powerful gravitational pull._
 
  |
@@ -108,7 +195,7 @@ Power 1, 250
 
 **Metal Kick** (★☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _A powerful kick laced with metal._
 
@@ -117,7 +204,7 @@ _A powerful kick laced with metal._
 ## Metal Kick (★☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _A powerful kick laced with metal._
 
  |
@@ -184,7 +271,7 @@ Power 1, 250
 
 **Rocket Lance** (★★★)
 
-**Combat**
+**Combat Mantra**
 
 _Create a lance, impale your opponent, and send them flying._
 
@@ -193,7 +280,7 @@ _Create a lance, impale your opponent, and send them flying._
 ## Rocket Lance (★★★)
 
   
-**Combat**  
+**Combat Mantra**  
 _Create a lance, impale your opponent, and send them flying._
 
  |
@@ -258,7 +345,7 @@ Power 5, 450
 
 **Metal Armament** (★★★)
 
-**Combat**
+**Combat Mantra**
 
 _Summon a blade of metal to swing alongside you._
 
@@ -267,7 +354,7 @@ _Summon a blade of metal to swing alongside you._
 ## Metal Armament (★★★)
 
   
-**Combat**  
+**Combat Mantra**  
 _Summon a blade of metal to swing alongside you._
 
  |
@@ -378,7 +465,7 @@ Power 10, 700
 
 **Iron Confinement** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Sharp metal traps._
 
@@ -387,7 +474,7 @@ _Sharp metal traps._
 ## Iron Confinement (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Sharp metal traps._
 
  |
@@ -416,6 +503,29 @@ Power 15, 950
 ## Available Talents
 
 ### Starting Talents
+
+-   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it.
+    -   Requirements: Starter
+
+-   _**Alloyblood**_ \[Advanced Talent\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
+    -   While at 100 Ironsing, bleed damage is reduced from 15% scaled damage to 10.5%. Bleed from Speed Demon is reduced from 7.5% scaled damage to 5.25%.
+    -   Blood loss reduction is less effective if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchantment.
+    -   Alloyblood's effects linearly scale with Ironsing investment up to its requirement, losing 0.3% bleed damage reduction and 0.75% blood loss reduction per point in Ironsing below 100.
+    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
+    -   Requirements: Starter
+
+-   Reforged Alloy \[Weapon Talent\] - Anytime you consume iron rods using Metal Pull or any Rending Needle technique, reduce the cooldown of your next critical based on the amount of rods consumed.
+    
+    -   Requirements: Starter
+
+-   Steelvessel \[Memento Talent\] - Landed attacks deal posture damage but when guard broken take massive damage. Posture gain on parry is reduced.
+    
+    -   Take posture damage instead of health damage. You can be guardbroken by being hit.
+        -   Some things like fall damage will ignore this and deal slight health damage.
+    -   Upon being guardbroken, the damage you take will be massively increased. This can prove fatal and ignore certain lifelines such as [Memory Shards](Memory_Shard.md).
+    -   Posture restoration from parrying attacks is reduced.
+    -   All forms of healing, most notably [Etris Flasks](Etris_Flask.md) are massively reduced.
+    -   Requirements: Starter
 
 -   Battle Tendency \[Common Talent\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
     -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.

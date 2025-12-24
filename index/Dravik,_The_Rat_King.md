@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 185839
+revid: 185910
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -226,10 +226,13 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 ### Passives
 
--   **No More Tricks** - Upon reaching **60% HP** _(won't activate if he is downed)_,
+-   **Golden Rule** - Upon reaching **60% HP** _(won't activate if he is downed)_,
     -   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?"
     -   Dravik will also gain a circle of light around him.
-    -   **Dravik will gain immunity to mantras and criticals, reflecting all damage done by these back to you. This includes enchant effects, such as Storm or Chilling.** _(His critical immunity does not apply to all criticals.)_
+    -   **Dravik gains immunity to a number of things and reflects their damage back to you. These include:**
+        -   **Mantras**
+        -   **Damaging enchant effects (e.g. Storm and Chilling)**
+        -   **Some criticals (currently only Pale Briar confirmed)**
 
 ## Gallery
 

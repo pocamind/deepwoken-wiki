@@ -1,9 +1,9 @@
 ---
 title: Levit
-revid: 184633
+revid: 185976
 source: https://deepwoken.fandom.com/wiki/Levit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects]
+categories: [Vow of Iron Exclusive, Aspects]
 ---
 
 # Levit
@@ -36,14 +36,14 @@ Levits are a rare aspect with traits resembling those of a rabbit. They are excl
 <table>
 <tbody>
 <tr>
-  <td><figure>File:Retrograde.png<figcaption></figcaption></figure></td>
+  <td><figure><figcaption></figcaption></figure></td>
   <td><b>Retrograde</b>
   <ul>
-    <li><i>TBD</i>
+    <li><i>Your existence is... questionable. No one understands where you have come from. Your ability reflects this, activate to start your Retrograde timer. Activating the ability again will reverse your actions, with the cooldown scaling with the time.</i>
   <ul>
-    <li>Set a checkpoint, saving your current health and position, and either once you have used the ability again, or the time limit runs out, you will be sent back to that checkpoint, returning you to the position you were standing at, and the&nbsp;% of health you were at.</li>
+    <li>Set a checkpoint, saving your current health and position. If you cast the ability again or if the 5 second time limit runs out, you will be sent back to that checkpoint, returning you to the position you were standing at, and health, ether, and posture you had when the checkpoint was made.</li>
   </ul></li>
-  </ul></td>
+  </ul><hr></td>
 </tr>
 </tbody>
 </table>
@@ -51,7 +51,7 @@ Levits are a rare aspect with traits resembling those of a rabbit. They are excl
 **Lore:**
 
   
-TBD
+TBA
 
 **Surnames:**
 
@@ -71,9 +71,15 @@ TBD
 
 ### Ears
 
-The color of the ears are based on your skin color, it is unknown if they can be [Dyed](Dye_Packet.md).
+Levit has three ear variants. The color of the ears are based on your skin color. These ears have physics and will move around with your character.
 
-\[add images here\]
+**Jack:**
+
+**Lop:**
+
+**Satin:**
+
+**Silver:**
 
 ## Trivia
 
@@ -82,3 +88,4 @@ The color of the ears are based on your skin color, it is unknown if they can be
     -   Its Aspect Trait and appearance in the [Strange Merchant](Strange_Merchant.md) Memento is related to time, which is commonly shared with the White Rabbit and many interpretations of it.
     -   All roads lead to Rome.
 -   One of the Surnames is named after youtuber Mikepike's bunny. He did not state which one though.
+-   Levit is the only Aspect that does not have a [Hallowtide](Hallowtide.md) variant.

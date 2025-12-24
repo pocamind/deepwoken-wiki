@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 185315
+revid: 185988
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -55,7 +55,7 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
   <td colspan="12">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +77,7 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
   <td colspan="12">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -103,10 +103,10 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
 </tr>
 <tr>
   <td colspan="3">[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
-  <td colspan="9">End</td>
+  <td colspan="9">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -130,10 +130,10 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
 </tr>
 <tr>
   <td colspan="4">[<font>Opens</font> <a href="#black-market-shop-rotation"><u><font>Black Market UI</font></u></a>]</td>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

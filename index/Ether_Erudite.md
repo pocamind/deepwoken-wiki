@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 185039
+revid: 185962
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | Ether Erudite | |
 |---|---|
 | description | A scholar of the essence of Ether - their superior intellect once stood unrivalled. |
-| unlock | Give Jeremiah all of the base-game Deep Gems |
+| unlock | Give Jeremiah all of the base-game Deep Gems (Insignia, Bloodless, Blessed, Wind, Wayward, Blue) |
 | final attributes | 50 Light Weapon, 50 Medium Weapon, 50 Heavy Weapon, 10 Strength, 20 Fortitude, 25 Agility, 150 Intelligence, 50 Willpower |
 | final traits | 8 Songchant, 1 Proficiency |
 | starting armor | Pathfinder Arch-Sorcerer |

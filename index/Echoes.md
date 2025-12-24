@@ -1,9 +1,9 @@
 ---
 title: Echoes
-revid: 183473
+revid: 185882
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation]
+categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
 ---
 
 # Echoes

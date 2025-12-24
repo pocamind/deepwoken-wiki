@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 179160
+revid: 186003
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
@@ -56,14 +56,14 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 <tr>
   <td colspan="3">Sure, I'll get them for you.</td>
   <td colspan="3">On second thought, no thanks.</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">Great! They've been skulking around somewhere on the island. Can't be too far away. I'm expecting great things from you! <i>*He grins and gives you two thumbs up.*</i></td>
   <td colspan="3">That's alright! You can come back to me whenever if you still want those books - and don't mind carrying out an errand for me.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 </tr>
 <tr>
   <td colspan="3">What books do you have to offer?</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">Ah yes, I have information on a variety of skills. It'll cost you about [X] notes.</td>
@@ -104,8 +104,8 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
   <td>I don't think anything in this library would be of any use to you!</td>
 </tr>
 <tr>
-  <td>End, player gains a random attribute point</td>
-  <td colspan="2">End</td>
+  <td>[End Dialogue], player gains a random attribute point</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -145,7 +145,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
   <td>[See previous instance]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -194,7 +194,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -207,6 +207,7 @@ If the quest was done on the account previously, Kelsius will instead ask the pl
 
 ## Trivia
 
--   Despite their record, Kelsius was accepted by the Maestro to work as the vigils librarian.
+-   Despite his record, Kelsius was accepted by the Maestro to work as the vigils librarian.
 -   You are able to completely skip the quest and unlock special dialogue if you have completed the [Castaway](Castaway.md) tutorial on the same character.
 -   Oddly enough, having the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) doesn't unlock new dialogue from him, despite his past as a member of the Shock Corps.
+-   Kelsius' dialogue used to be slightly different, with there being two possible avenues to inquire about their past. One was more direct, while the other was more subtle, and Kelsius would react appropriately.

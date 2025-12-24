@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 185752
+revid: 185977
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Pages requiring a cleanup, Lore]
@@ -25,7 +25,7 @@ There are four known Deepwoken. Owing to their immortality, all are likely well 
 -   [The First Prophet](https://deepwoken.fandom.com/wiki/Lore#The_First_Prophet) of [The Ministry](The_Ministry.md)
     -   The Drowned God from which the First Prophet consumed a piece of is currently unnamed. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2)
 -   The Second Prophet of [The Ministry](The_Ministry.md)
-    -   Consumed a piece of an unknown Drowned God, and gained advanced control over Bloodrend[\[3\]](#cite-note-3)
+    -   Consumed a piece of the [Bloodrend](Bloodrend.md) Drowned God, and gained advanced control over [Bloodrend](Bloodrend.md)[\[3\]](#cite-note-3)
 -   [Drallis Ehr](Drallis_Ehr.md) of [The Central Authority](The_Central_Authority.md)
     -   Details on the drowned god they ate a piece of, and their powers, are unknown[\[4\]](#cite-note-4)
 
@@ -45,9 +45,6 @@ The [Talent](Talents.md) tree, "[Deepwoken](Talents.md#deepwoken)" possibly hint
 1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1)
 2.  [↑](#cite-ref-2) File:Ragoozer comparing Pleeksty and the First Prophet.png
 3.  [↑](#cite-ref-3)
-4.  [↑](#cite-ref-4)
-    
-    File:DRALLIS EHR DEEPWOKEN.png
-    
+4.  [↑](#cite-ref-4) File:DRALLIS EHR DEEPWOKEN.png
 5.  [↑](#cite-ref-5)
 6.  [↑](#cite-ref-6) [Developer Ragoozer](Lore.md#maestro-evengarde-rest)

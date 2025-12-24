@@ -1,6 +1,6 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 185007
+revid: 185879
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
@@ -81,7 +81,7 @@ Interesting enough after Dravik got killed by The Inheritor, his soul, even thou
   <td colspan="12">No need to thank me. You have a long road ahead of you. I look forward to seeing your dance with Regent. Should I be able to, I will offer help wherever I can.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -97,7 +97,7 @@ Interesting enough after Dravik got killed by The Inheritor, his soul, even thou
   <td colspan="12">*The air shimmers before you, but it seems you can longer communicate with Dravik.*</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

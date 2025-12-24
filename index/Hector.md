@@ -1,6 +1,6 @@
 ---
 title: Hector
-revid: 185689
+revid: 185949
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Naval personnel of The Central Authority, Military personnel of The Central Authority]
@@ -77,7 +77,7 @@ Hector is located in the [Merit Detainment Core](Merit_Detainment_Core.md).
   <td><i>*Hector nods.*</i> Yeah? No worries. Good luck with your jailbreak, or whatever it is you're doing here. <i>*With an uncaring smirk and apathetic gaze, he returns to idly polishing his sword, now tiredly humming a tune.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

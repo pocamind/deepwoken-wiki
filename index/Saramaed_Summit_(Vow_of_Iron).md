@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit (Vow of Iron)
-revid: 185860
+revid: 185894
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with VOI reason, InProgressPages, Vow of Iron Exclusive]
@@ -26,9 +26,17 @@ Unlike it's [pathfinder counterpart](Saramaed_Summit.md), the Vow of Iron Sarama
 
 ## Contents
 
-### Lava Shrooms
+### Magma Shrooms
 
-The static spawn for 1 [Golem Magma](Golem_Magma.md) and 2 [Mechalodaunts](Mechalodaunt.md). The Mechalodaunts always win agains the golem as they outnumber and basically stat-check it.
+Located in the southern point of the Saramaed Summit. It is a small hill with dangerous cracks filled with lava and several magma shrooms.
+
+The static spawn for 1 [Golem Magma](Golem_Magma.md) and 2 [Mechalodaunts](Mechalodaunt.md) is located here. The Mechalodaunts always win agains the golem as they outnumber and basically stat-check it.
+
+Is also the location for the [Prototype Railblade](Prototype_Railblade.md), which lies in the southwest corner.
+
+  
+
+Map location
 
 ### Elevator
 

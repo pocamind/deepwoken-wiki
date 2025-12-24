@@ -1,6 +1,6 @@
 ---
 title: Tiny Soul Ring
-revid: 185677
+revid: 185890
 source: https://deepwoken.fandom.com/wiki/Tiny_Soul_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]

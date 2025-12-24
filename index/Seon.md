@@ -1,6 +1,6 @@
 ---
 title: Seon
-revid: 185536
+revid: 185878
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation]
@@ -52,7 +52,7 @@ Seon is located in two different locations
   <td>Hm. Is that so? At first sight I thought you a sellsword... But perhaps you may prove useful to the cause. I will spread the word, but do not assume complacency. We have our eye on you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -68,7 +68,7 @@ Seon is located in two different locations
   <td><i>*The guard looks you up and down.*</i> State your purpose, stranger. Consider yourself lucky stranger -you've got no business with me. But if you ever find yourself in a spot of trouble with the Royalists, the Old Guard... We may have something to talk about.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

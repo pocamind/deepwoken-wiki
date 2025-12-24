@@ -1,6 +1,6 @@
 ---
 title: Khan (NPC)
-revid: 179440
+revid: 186000
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -64,7 +64,7 @@ Khan is an NPC located underneath [Etris](Etris.md) in the [Etrean Wilds](Etrean
   <td colspan="12">Once the player has chosen Obey, a shadowy figure will appear behind them, slashing their neck, once they can see again, the figure and Khan will be gone.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 183006
+revid: 185880
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, Heavy Weapons, The Ignition Union, Weapons with multiple Criticals]
@@ -68,7 +68,7 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Ta
 ## References
 
 1.  [↑](#cite-ref-1) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE.
-2.  [↑](#cite-ref-2) {{Ref/WeaponDescription|Prototype Railblade
+2.  [↑](#cite-ref-2) [Prototype Railblade](Prototype_Railblade.md) description
 3.  ↑ [3.0](#cite-ref-railorigin-3-0) [3.1](#cite-ref-railorigin-3-1)
 4.  [↑](#cite-ref-4)
 5.  [↑](#cite-ref-5)

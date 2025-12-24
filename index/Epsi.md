@@ -1,6 +1,6 @@
 ---
 title: Epsi
-revid: 182006
+revid: 185874
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
@@ -42,7 +42,7 @@ Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ign
   <td colspan="6"><i>*Using the latent energy stored in you from previous contact with a Burner you are able to generate enough heat to burn off the feeder eggs.*</i></td>
 </tr>
 <tr>
-  <td colspan="6">End, Epsi is consumed by parasites</td>
+  <td colspan="6">[End Dialogue], Epsi is consumed by parasites</td>
   <td colspan="6">You need to get back to the base.</td>
 </tr>
 <tr>
@@ -51,7 +51,7 @@ Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ign
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -67,7 +67,7 @@ Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ign
   <td colspan="12">Thanks for saving me out there... I really appreciate it.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ Epsi is a young [Gremor](Gremor.md) boy working for [The Ignition Union](The_Ign
   <td colspan="12">You got that generator working?</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

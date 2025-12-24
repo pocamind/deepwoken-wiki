@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 185304
+revid: 185991
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -51,6 +51,10 @@ While ragdolled, you gain slight damage reduction at the cost of your character 
 ### Knockdown
 
 While affected by knockdowns, you cannot move or cast any abilities. Knockdowns are applied through various sources such as default heavy weapon criticals and certain [Mantras](Mantras.md). This effect is signified by your character being slammed into the ground briefly.
+
+### Respite
+
+If you aren't already at full health, gain the Respite status effect after standing still for 15 seconds. This effect will heal your character, with the healing ramping up the longer you are stationary. Performing any actions or taking damage will end this effect early. Signified by white rings ascending over your character.
 
 ### Burn
 
@@ -410,7 +414,7 @@ Become marked by the Moonseye, allowing users of the [Nocturne](Nocturne.md) to 
 
 ### Fractine Shard
 
-Allows your opponent to use the Fractine in its shattered state. Signified by the Fractine's shard being lodged into you.
+Applied by the final hit of [Fractine](Fractine.md)'s Greatsword critical, this shard is consumed in the Broken variant's critical, dealing extra damage and hitstun. Signified by the Fractine's shard being lodged into you.
 
 ### Enlightened
 
@@ -740,13 +744,11 @@ Applied from landing basic attacks, blocking attacks, and having your attacks pa
 
 When you reach 5 Static Blade stacks, clear all stacks and gain the Gathering Electricity status effect. This increases your weapon's base damage by 3 for 15 seconds. Applied by the [Gathering Electricity](Talents.md#gathering-electricity) Talent.
 
-### Amplified Rage
+### Amped
 
-Applied by using the [Electrify](Talents.md#electrify) Talent tool, with the [Amplified Rage](Talents.md#amplified-rage) upgrade. Grants a 20% damage modifier to weapon attacks, and allows you to apply [Shock](#shock) or [Surge Stacks](#overloaded) on your weapon attacks, depending on your chosen Thundercall path. This effect lasts 15 seconds. Signified by a yellow/blue conduit over your heart.
+Applied by using the [Electrify](Talents.md#electrify) Talent tool. Grants a +10% damage modifier to weapon attacks, and allows you to apply [Shock](#shock) or [Surge Stacks](#overloaded) on your weapon attacks, depending on your chosen Thundercall path. Additionally, all incoming damage will be increased by 10%. This effect lasts 15 seconds. Signified by a colored conduit over your heart.
 
-### Amplified Reflexes
-
-Applied by using the [Electrify](Talents.md#electrify) Talent tool, with the [Amplified Reflexes](Talents.md#amplified-reflexes) upgrade. Grants a movement speed increase and increased effectiveness to parkour. This effect lasts 15 seconds. Signified by a yellow/blue thunder conduit over your heart.
+This effect will be enhanced if you have the [Amplified Rage](Talents.md#amplified-rage) or [Amplified Reflexes](Talents.md#amplified-reflexes) Talents. If you have Amplified Rage, the damage buff will be doubled to +20%. If you have Amplified Reflexes, then you will gain increased movement speed and parkour benefits, at the cost of the self damage taken when casting Amped tripling and the cooldown doubling. These Talents are mutually exclusive with eachother.
 
 ### Obscured
 

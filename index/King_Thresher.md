@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 185657
+revid: 185929
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -18,7 +18,7 @@ categories: [Monsters]
 
 “ As Thresher nests become more gregarious and populated, a shift in their behaviour takes place, with the males growing in size and competing with one another. \[...\] This escalates into an undefeated 'King' emerging, standing at a stature far above its kin and leading the pack. Threshers led by a King are emboldened and may be found scouting far beyond their nest in order to expand their territories. ”
 
-― King Thresher Spine Description'
+― King Thresher Spine Description
 
 ## Description
 
@@ -52,7 +52,9 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 **Tail Swipe**  
 (★★☆)
 
- | The King Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
+ | The King Thresher highlights **White** and brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
+
+-   Despite that it highlights **White**, this attack can still be parried, blocked, or dodged like normal, it just means it now has an additional way to be avoided: by jumping.
 
  |  |
 | 
@@ -62,13 +64,16 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 
  | The King Thresher burrows underground to avoid being hit and digs towards the player, jumping out and dealing moderate damage.
 
+-   While burrowed, a red circle effect will flash on where they would normally be, serving as an indicator for their location.
+-   When about to jump out of digging, a purple telegraph will flash, use this to time your defense.
+
  |  |
 | 
 
 **Royal Breath**  
 (★★★)
 
- | The King Thresher turns its head to the side before rapidly turning the other direction and breathing out purple flames. Starts with a sound cue and the sound of the King Thresher roaring.
+ | The King Thresher flashes with a red telegraph and turns its head to the side before rapidly turning the other direction and breathing out purple flames. Starts with a sound cue and the sound of the King Thresher roaring.
 
 -   Despite being unparriable and unblockable, it does not actually block-break you, instead merely bypassing your parry and block.
 
@@ -78,7 +83,7 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 **Body Slam**  
 (★★☆)
 
- | The King Thresher highlights **White** and stands on its hind legs for a moment before slamming its body into the ground.
+ | The King Thresher highlights **White** and flashes with a blue telegraph and stands on its hind legs for a moment before slamming its body into the ground.
 
 -   As it highlights **White**, this means you can avoid being hit entirely by jumping before it slams down.
 

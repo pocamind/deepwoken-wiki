@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 182350
+revid: 186004
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics, Death, NPCs located in the First Layer]
@@ -35,7 +35,7 @@ The Shrine of the Drowned is an NPC located in the [Fragments of Self](Fragments
   <td>The shrine blends into the rubble, just another discarded thing.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -60,7 +60,7 @@ The Shrine of the Drowned is an NPC located in the [Fragments of Self](Fragments
   <td>[Make Offering] (R$1000)</td>
 </tr>
 <tr>
-  <td>End, player respawns in the Etrean Luminant</td>
+  <td>[End Dialogue], player respawns in the Etrean Luminant</td>
 </tr>
 </tbody>
 </table>

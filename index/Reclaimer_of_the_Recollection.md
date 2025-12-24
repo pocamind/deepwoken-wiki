@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 185757
+revid: 185982
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Voiced Characters]
@@ -61,7 +61,8 @@ Recollection
 </tr>
 <tr>
   <td colspan="4">Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>How am I to proceed?</td>
@@ -73,12 +74,13 @@ Recollection
   <td>[See "Proceeding" section]</td>
   <td>[See "Extra Tasks" section]</td>
   <td>Our objective is to accomplish what the donors of these Mementos could not. We must find a way to defeat Zi'eer. The answer may well lie within the memories that you are diving into, Inheritor, so you must live them out. There is some lee-way to how far you can steer off course, but there will be key points that will render the story unable to progress until you relive them.</td>
-  <td>Very well, I will assist in gathering more of this memory.</td>
+  <td>Very well, I will assist in gathering more of this memory.<br>
+  </td>
 </tr>
 <tr>
   <td></td>
   <td></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -92,7 +94,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>Why can't I increase my power?</td>
@@ -120,7 +123,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>Are there any other tasks?</td>
@@ -135,7 +139,7 @@ Recollection
   <td>I see glimpses of a Legion Commander... Perhaps you are familiar with him? I caution you that he'll be closer to his prime in these days. The events of this memory will have already transpired once you surpass <b>Power 9</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +153,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>Are there any other tasks?</td>
@@ -164,7 +169,7 @@ Recollection
   <td>They seem to have visited the Moon's Eyrie, out in the Void... And had quite a run-in with its guardians. The events of this memory will have already transpired once you surpass <b>Power 5</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -178,7 +183,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>Are there any other tasks?</td>
@@ -193,7 +199,7 @@ Recollection
   <td>If you can believe it, in this time there were rumours of a Primadon who devoured a hoard of treasure... Perhaps this memory will bring proof to the legend? The events of this memory will have already transpired once you surpass <b>Power 8</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -207,7 +213,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>Are there any other tasks?</td>
@@ -222,7 +229,7 @@ Recollection
   <td>They seem to have challenged the Ferryman at Boatman's Watch. Strange, I can only imagine why a member of the Circle thought to seek out a <a href="Glossary.md#krulians">Krulian's</a> aid... The events of this memory will have already transpired once you surpass <b>Power 5</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -236,7 +243,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>Are there any other tasks?</td>
@@ -251,7 +259,7 @@ Recollection
   <td>Deep below Minityrsa lays a shrine used to test the mettle of would-be-heroes. Though, it would appear that it may have been somewhat worn down in our time. A great challenge awaits in memory. The events of this memory will have already transpired once you surpass <b>Power 9</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -267,16 +275,18 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>How am I to proceed?</td>
 </tr>
 <tr>
-  <td>As best you can, you must live out the memories of the one who created your Memento. Many of the Circle made their way to the Monastery of <a href="Glossary.md#mur-of-light">Mur</a>, found at Aratel's peak, not far from the Viridian Sanctuary estate belonging to the Etrean Royalists. I believe a powerful foe may lie in wait there, so be prepared.</td>
+  <td>As best you can, you must live out the memories of the one who created your Memento. Many of the Circle made their way to the Monastery of <a href="Glossary.md#mur-of-light">Mur</a>, found at Aratel's peak, not far from the Viridian Sanctuary estate belonging to the Etrean Royalists. I believe a powerful foe may lie in wait there, so be prepared.<br>
+  </td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -290,7 +300,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>How am I to proceed?</td>
@@ -299,7 +310,7 @@ Recollection
   <td>As best as you can, you must live out the memories of the one who created your Memento. As you witnessed after facing the Shogun's memory, a warrior from the Etrean resistance against Zi'eer mentioned that you should make your way to the Golden Rat. There, allies of our cause once gathered, seeking to learn how to pierce the barrier surrounding Zi'eer's palace from a man who called himself 'the Rat King'.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -313,7 +324,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>How am I to proceed?</td>
@@ -322,7 +334,7 @@ Recollection
   <td>As best as you can, you must live out the memories of the one who created your Memento. Recall the Rat King's cunning trick, Inheritor. To shatter the emerald barrier from without, you must shatter it from within. Seek the next core memory within a trial of the Interstice.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -336,7 +348,8 @@ Recollection
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]<br>
+  </td>
 </tr>
 <tr>
   <td>How am I to proceed?</td>
@@ -351,7 +364,7 @@ Recollection
   <td>We will have what we sent you in here for - another piece of the puzzle, and another step closer to defeating the Lord Regent in our time. That is our ultimate goal - to learn how to defeat the Calamity. Do note, however, that regardless of the outcome, facing the Lord Regent is the end of these memories. <b>To be clear, if there is anything you'd like to do here before then, you won't be able to do it after facing the Lord Regent.</b></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -368,18 +381,21 @@ Recollection
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="2">Inheritor... Your connection to this memory has drifted much too far; too far for me to steer back on course.</td>
+  <td colspan="2">Inheritor... Your connection to this memory has drifted much too far; too far for me to steer back on course.<br>
+  </td>
 </tr>
 <tr>
   <td>I understand.</td>
   <td>Is there nothing you can do?</td>
 </tr>
 <tr>
-  <td>Return to me once you are ready to wake.</td>
-  <td>I'm afraid not. Failing a miracle, this is where this story ends.</td>
+  <td>Return to me once you are ready to wake.<br>
+  </td>
+  <td>I'm afraid not. Failing a miracle, this is where this story ends.<br>
+  </td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>I understand.</td>
 </tr>
 <tr>
@@ -397,13 +413,14 @@ Recollection
   <td>Begin</td>
 </tr>
 <tr>
-  <td>I take it you are ready to leave? This story may be lost, but the memories aren't. We <i>must</i> try again.</td>
+  <td>I take it you are ready to leave? This story may be lost, but the memories aren't. We <i>must</i> try again.<br>
+  </td>
 </tr>
 <tr>
   <td>I understand.</td>
 </tr>
 <tr>
-  <td>End, player is sent to <a href="Character_Creation.md">Character Creation</a></td>
+  <td>[End Dialogue], player is sent to <a href="Character_Creation.md">Character Creation</a></td>
 </tr>
 </tbody>
 </table>
@@ -411,6 +428,8 @@ Recollection
 **Zi'eer:**
 
 **Zi'eer Defeated:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -421,7 +440,7 @@ Recollection
   <td><i>The Reclaimer eyes you with surprise.*</i> Inheritor. We can go no further. There are no memories of what just happened. I did not think it possible, but through your will and perseverance, you have vanquished the Calamity - you have <i>bested</i> Zi'eer.</td>
 </tr>
 <tr>
-  <td colspan="2">What happens now?</td>
+  <td>What happens now?</td>
 </tr>
 <tr>
   <td>We will extract you from the Recollection soon. We will need to discuss with the rest of the Circle how you overcame Zi'eer, and prepare plans for fighting him in the waking world. After you have rested sufficiently, I would advise you to look through the other memories. Perhaps there are other ways we can defeat Zi'eer? We must equip ourselves with all that we can.</td>
@@ -430,7 +449,34 @@ Recollection
   <td>I'm ready to leave.</td>
 </tr>
 <tr>
-  <td>End, player is sent to <a href="Character_Creation.md">Character Creation</a></td>
+  <td>[End Dialogue], player is sent to <a href="Character_Creation.md">Character Creation</a></td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2"><i>The Reclaimer eyes you with surprise.*</i> Inheritor. We can go no further. There are no memories of what just happened. I did not think it possible, but through your will and perseverance, you have vanquished the Calamity - you have <i>bested</i> Zi'eer.</td>
+</tr>
+<tr>
+  <td>If I won, why am I back here?</td>
+  <td>What happens now?</td>
+</tr>
+<tr>
+  <td>Do not be discouraged, Inheritor. The Recollection is woven together through the experience of those who created the Mementos, so with no memory of the Lord Regent's defeat, what that would look like cannot be replicated in this space. There are simply no memories left for you here. You're treading wholly new territory.</td>
+  <td>[See first instance]</td>
+</tr>
+<tr>
+  <td>What happens now?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -455,7 +501,7 @@ Recollection
   <td>I'm ready to leave.</td>
 </tr>
 <tr>
-  <td>End, player is sent to <a href="Character_Creation.md">Character Creation</a></td>
+  <td>[End Dialogue], player is sent to <a href="Character_Creation.md">Character Creation</a></td>
 </tr>
 </tbody>
 </table>

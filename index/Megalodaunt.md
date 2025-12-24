@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 184674
+revid: 186008
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -59,7 +59,7 @@ In addition to be found wandering around various places or loitering around in s
 **Kick**  
 (★★☆)
 
- | The Megalodaunt will flash red before delivering a **Kick** that can rag-doll and send the player flying.
+ | The Megalodaunt will flash with a purple telegraph and a smaller red circle effect on its right leg before delivering a kick that ragdolls and sends the player flying.
 
 -   Causes the player to be Dazed if kicked into a wall.
 -   This ability is very dangerous as it can send you into unwanted situations.

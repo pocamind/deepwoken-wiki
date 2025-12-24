@@ -1,6 +1,6 @@
 ---
 title: Mikhail Spellhardt
-revid: 179001
+revid: 185891
 source: https://deepwoken.fandom.com/wiki/Mikhail_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide, Vendors, NPCs located in The Floating Keep, Members of the Spellhardt family]
@@ -72,7 +72,7 @@ Mikhail is a [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floati
   <td colspan="12">In part, sure. But it's also a way to keep everyone together. Most of the other high <a href="Glossary.md#lightborn">Lightborn</a> families have scattered to the winds. But the Spellhardt endure. Sure, we have our differences, and we have our fights - all families do. But at the end of the day, that's exactly it, isn't it? We're <i>family</i>. <i>*He smirks, wistfully.*</i> And nothing brings the family together like a good holiday tradition.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

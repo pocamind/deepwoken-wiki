@@ -1,6 +1,6 @@
 ---
 title: Taiga
-revid: 185685
+revid: 185904
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -17,7 +17,7 @@ categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Military pe
 
 ## Description
 
-Taiga is a [Capra](Capra.md) NPC. She works alongside [Sawbones](Sawbones.md).
+Taiga is a [Capra](Capra.md) NPC. She works with the Eastern garrison's [sawbones](Sawbones.md).
 
 ## Location
 
@@ -50,7 +50,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td><i>*She flashes you a meaningful, almost threatening look.*</i> Unless you're <i>desperate</i> for one less limb, you don't need to bother him at all.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -68,7 +68,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td><i>The Capra sits alone, fiercely annotating a small pamphlet. You're convinced the quill is going to give way at any moment.</i> Hey, I told you to lay off jostling that leg about. If you tear those stitches again, I'll save you the trouble of having a leg at all. <i>*A sharp smile runs across her face briefly. She's joking... Or at least, you assume she is.</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td><i>*The Capra salutes, stiffly.*</i> [Rank]!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -100,7 +100,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td><i>*Your presence startles the Capra.*</i> A civilian wandered in again?.. I'm really sorry - as much as I'd like to help you with whatever issue you might have, we're not really meant to aid non-military personnel without permission.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -116,7 +116,7 @@ Taiga is located inside [The Three Cheers](The_Three_Cheers.md), standing in the
   <td><i>*The Capra stares at you, agitated and tense.*</i> Y-you have no business in the surgery, we can't treat hostile combatants!.. Guards, help! GUARDS!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 184807
+revid: 185906
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -355,7 +355,9 @@ _On paper, this looks like a lot to memorize, but do not worry. These things wil
 
 ## Telegraphed Attacks
 
-_Some attacks will be accompanied with a colored glyph and a sound cue. These attacks mostly require specific action to avoid and are usually associated with a certain level of threat._
+_Some attacks will be accompanied with an audiovisual cue. These attacks mostly require specific action to avoid and are usually associated with a certain level of threat._
+
+### Colored Glyphs
 
 | 
 Color
@@ -583,6 +585,123 @@ Attacks with this indicator cannot be dodged. They must be parried, or with high
 \*The Circle indicator changes color depending on the attack. The color is based off the [Attunement](Attunements.md) the attack came from; being White if the attack is [Attunement-less](Attunement-less.md) or is unaligned with any Attunement, Red if [Bloodrend](Bloodrend.md), light Orange if [Flamecharm](Flamecharm.md), light Blue if [Frostdraw](Frostdraw.md), Green if [Galebreathe](Galebreathe.md), light Grey if [Ironsing](Ironsing.md), Purple if [Shadowcast](Shadowcast.md), or Yellow if [Thundercall](Thundercall.md).
 
 \*\*Possibly a bug, but Titus's _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
+
+### Outlines / Highlights
+
+| 
+Color
+
+ | 
+
+Image
+
+ | 
+
+Defenses/Info
+
+ |
+| --- | --- | --- |
+| 
+
+Red
+
+ |  | Attacks with this indicator must be dodged. They will guardbreak if blocked.
+
+  
+
+ |
+| All attacks that have this attribute:
+
+**Monster Attacks**
+
+-   [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>): Severing Flourish
+
+**Boss Attacks**
+
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Severing Flourish, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance
+
+ |
+| 
+
+Green
+
+ |  | 
+
+  
+Attacks with this indicator must be parried. They will guardbreak if blocked.
+
+ |
+| All attacks that have this attribute:
+
+**Monster Attacks**
+
+-   [Prime Megalodaunt](Prime_Megalodaunt.md): Quad Slash
+
+**Boss Attacks**
+
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Graceful Slicer, Mortal Draw: Sakura Dance
+
+ |
+| 
+
+Blue
+
+ |  | Attacks with this indicator must be crouched under.
+
+  
+Most attacks with this indicator deal high posture damage.  
+
+ |
+| All attacks that have this attribute:
+
+**Monster Attacks**
+
+-   [Deep Owl](Deep_Owl.md): Owl Dash
+
+**Boss Attacks**
+
+-   [Parliament](Parliament.md): Owl Dash
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Low Cleave
+
+ |
+| 
+
+White
+
+ |  | 
+
+  
+Attacks with this indicator must be jumped over.
+
+ |
+| All attacks that have this attribute:
+
+**Monster Attacks**
+
+-   [Thresher](Thresher.md): Tail Swipe
+-   [King Thresher](King_Thresher.md): Body Slam
+
+**Boss Attacks**
+
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
+
+ |
+| 
+
+Yellow
+
+ |  | Attacks with this indicator must be slid under.
+
+  
+
+ |
+| All attacks that have this attribute:
+
+**Boss Attacks**
+
+-   [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>): Blinkstrike
+
+ |
 
 ## Status Effects
 

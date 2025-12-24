@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 185563
+revid: 185940
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Outfits, Skills, Talents]
@@ -2033,7 +2033,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _Retrograde_ \[[Levit](Levit.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your existence is... questionable. No one understands where you have come from. Your ability reflects this, activate to start your Retrograde timer. Activating the ability again will reverse your actions, with the cooldown scaling with the time.
     
     -   Grants a Talent tool. On use, your current position will be anchored, and you can perform any action. If used again when Retrograde is active, your actions will be done in reverse, returning you to your original location.
-    -   This cannot be used to heal yourself.
+    -   This will heal yourself to the amount of health you had when you initially used the ability.
 
 -   _Seaborne_ \[[Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
     -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
@@ -2210,15 +2210,24 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Jumpstarter
 
 -   Electrify \[Common Talent, Thundercall Exclusive\] - Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
-    -   Deals self damage if used without being carried.
+    -   Grants a Talent tool.
+    -   Electrify has a 1 minute cooldown.
+    -   Amped grants your weapon attacks a 10% damage buff and allows your weapon attacks to apply Shock or Surge Rods on hit.
+    -   While Amped, you take 10% more damage from all sources.
+    -   Currently bugged; you cannot use Electrify unless your weapon is sheathed, and Electrify has no cooldown. The buffs do not stack however.
+    -   Deals Thundercall self damage with hitstun and applies Shock/Surge Rods to yourself on cast, if used without being carried.
+    -   Previously known as Static Withdraw.
     -   Prerequisites: 25 Thundercall
 
 -   Amplified Reflexes \[Common Talent, Thundercall Exclusive\] - Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.
+    -   Increases Electrify's cooldown from 1 minute to 2.
     -   Previously known as Jumpstart.
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Rage
 
 -   Amplified Rage \[Common Talent, Thundercall Exclusive\] - Amped now grants you an additional +10% weapon damage.
+    -   Increases Amped's damage buff from +10% to +20%.
+    -   Previously Known as Raging Static.
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Reflexes
 
@@ -3563,6 +3572,17 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Static Allure \[Common Talent, Thundercall exclusive\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
     -   Prerequisites: Static Link, 50 Thundercall, 15 Intelligence
 
+### Steelvessel
+
+-   Steelvessel \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landed attacks deal posture damage but when guard broken take massive damage. Posture gain on parry is reduced.
+    
+    -   Take posture damage instead of health damage. You can be guardbroken by being hit.
+        -   Some things like fall damage will ignore this and deal slight health damage.
+    -   Upon being guardbroken, the damage you take will be massively increased. This can prove fatal and ignore certain lifelines such as [Memory Shards](Memory_Shard.md).
+    -   Posture restoration from parrying attacks is reduced.
+    -   All forms of healing, most notably [Etris Flasks](Etris_Flask.md) are massively reduced.
+    -   Prerequisites: [Iron Vessel](Iron_Vessel.md) Memento
+
 ### Stormcaller
 
 -   Storm Link \[Common Talent, Dual Attunement\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
@@ -4414,7 +4434,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This effect has no cooldown, allowing your [Master's Flourish](Attunement-less.md#masters-flourish) and [Twincleave](Attunement-less.md#twincleave) to benefit from this effect twice per cast.
     -   This secondary damage instance cannot receive damage modifiers.
 
--   Blade Threading: [Ferractine](Ferractine.md) - Landing Critical attacks applies metal rod and slow.
+-   Blade Threading: [Ferractine](Ferractine.md) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Landing Critical attacks applies metal rod and slow.
 
 -   Blitz: [Forgotten Gladius](Forgotten_Gladius.md) & [Kindred Edict](Kindred_Edict.md) - Increase how quick you release your [Prominence Draw](Attunement-less.md#prominence-draw).
     -   Decreases Prominence Draw's windup by 0.1s (from 0.55s to 0.45s).
@@ -4459,13 +4479,13 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This Talent has no cooldown, allowing you to apply multiple rods to a singular person.
         -   If a player has two or more Forced Fulfilment rods, they will not be able to move unless they have a speed boost.
 
--   Fortify: [Frost Gauntlets](Frost_Gauntlets.md) - Slow down your movement in exchange for fortifying your defenses.
+-   Fortify: [Frost Gauntlets](Frost_Gauntlets.md) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Slow down your movement in exchange for fortifying your defenses.
 
--   Hex Bullet: [Duskshot](Duskshot.md) - Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity.
+-   Hex Bullet: [Duskshot](Duskshot.md) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity.
 
--   Monster Slayer: [Darksteel Cleaver](Darksteel_Cleaver.md) - Deal 25% more damage to giant enemies.
+-   Monster Slayer: [Darksteel Cleaver](Darksteel_Cleaver.md) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Deal 25% more damage to giant enemies.
 
--   Night Night: [Night Star](Night_Star.md) - Uppercut attacks blind opponents for 15 seconds.
+-   Night Night: [Night Star](Night_Star.md) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Uppercut attacks blind opponents for 15 seconds.
 
 -   Pugnacious: [Warmonger](Warmonger.md) - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.
     -   Gain various stacking buffs scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.
@@ -4478,7 +4498,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   After parrying a guard break, gain the [Punishing Riposte](Status_Effects.md#punishing-riposte) status effect for 15 seconds, making your critical guaranteed guardbreak if it hits block.
     -   The Punishing Riposte status effect lasts 15 seconds, though the Talent's description was never updated.
 
--   Reverse Necrosis: [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Landing any mantra will now heal you based on how slow your opponent is.
+-   Reforged Alloy: Unknown ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Anytime you consume iron rods using Metal Pull or any Rending Needle technique, reduce the cooldown of your next critical based on the amount of rods consumed.
+
+-   Reverse Necrosis: [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Landing any mantra will now heal you based on how slow your opponent is.
 
 -   Rosen's Technique: [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown.
     -   Reduces the cooldown of Tactical Reload by 45 seconds; from 90 seconds to 45.
@@ -4494,9 +4516,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Stomach restoration
         -   Speed boost for 10 seconds
 
--   Sadistic Split: [Depthsplitter](Depthsplitter.md) - Guardbreaking your opponent now heals you. The amount of this heal is based on how much insanity your character currently has.
+-   Sadistic Split: [Depthsplitter](Depthsplitter.md) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Guardbreaking your opponent now heals you. The amount of this heal is based on how much insanity your character currently has.
 
--   Shatter: [Icepick](Icepick.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs for 5 frost damage per debuff.
+-   Shatter: [Icepick](Icepick.md) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Landing a critical shatters your opponent, ridding them of their speed debuffs for 5 frost damage per debuff.
     
     -   Landing a critical attack removes all speed debuffs your opponent has, dealing 5 Frostdraw damage per debuff.
 
@@ -4508,7 +4530,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
     -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
 
--   Subzero: [Winter Rifle](Winter_Rifle.md) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
+-   Subzero: [Winter Rifle](Winter_Rifle.md) ([Vow of Iron](Vow_of_Iron.md) Exclusive) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
 
 -   Swift Strike: [Big Brother](Big_Brother.md) - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents.
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.

@@ -1,6 +1,6 @@
 ---
 title: Prototype Railblade
-revid: 184941
+revid: 185985
 source: https://deepwoken.fandom.com/wiki/Prototype_Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, The Ignition Union, Heavy Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with
 | Prototype Railblade | |
 |---|---|
 | type | Greatsword |
-| requirements | 80 HVY, PWR 10 |
+| damage type | Slash |
+| requirements | 80 HVY |
 | damage | 22 |
 | scaling | HVY: 8.3 |
 | posture damage | 8 |
 | range | 8.5 Sweep |
 | swing speed | 0.88x |
+| attack duration | 0.7s |
 | penetration | 25% |
 | m.equip | No |
 | m.extract | No |
@@ -30,6 +32,8 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with
 | pass down | Yes |
 | obtainment | Found at the Saramaed Summit |
 | description | A prototype weapon devised by the Ignition Union in the hopes of improving their odds against the denizens of the Deep. |
+
+Variants: [Railblade](Railblade.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

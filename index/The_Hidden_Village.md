@@ -1,6 +1,6 @@
 ---
 title: The Hidden Village
-revid: 184052
+revid: 185885
 source: https://deepwoken.fandom.com/wiki/The_Hidden_Village
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -18,9 +18,9 @@ A village created far away from the watchful eyes of the Stonelife Lord.
 
   
 
-**The Hidden Village** is a location found in _Deepwoken._ It is a landmark found in the [Towerstruck Lands](Towerstruck_Lands.md).
+**The Hidden Village** is a location found in _Deepwoken_. It is a landmark found in the [Towerstruck Lands](Towerstruck_Lands.md).
 
-## Overview
+## Description
 
 The Hidden Village is a small, abandoned town located in the [Towerstruck Lands](Towerstruck_Lands.md) in [Upper Erisia](Upper_Erisia.md). The main way of entering is through a wooden door that must be broken down with a [Mantra](Mantras.md) or a Heavy Weapon Critical. An alternative path is to climb up the mountains that leads you a tunnel to the village.
 

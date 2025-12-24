@@ -1,6 +1,6 @@
 ---
 title: Vice Warden Morredh
-revid: 180896
+revid: 185946
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
@@ -40,7 +40,7 @@ Being a [Canor](Canor.md) has afforded him more benefits than other non-[Adret](
   <td colspan="12">Hm? I'm busy. Go bother one of the guards.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -56,7 +56,7 @@ Being a [Canor](Canor.md) has afforded him more benefits than other non-[Adret](
   <td colspan="12">Hm? I don't have time for you, lowlife. There are bigger fish to fry.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ Being a [Canor](Canor.md) has afforded him more benefits than other non-[Adret](
   <td colspan="12">That so? He's been capturing our soldiers and selling them off to Etreans as prisoners of war. If you can capture this coward, you'd be doing us a big favour.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ Being a [Canor](Canor.md) has afforded him more benefits than other non-[Adret](
   <td colspan="12">Chain down those that oppose our justice. Should you find someone truly worthy of being ensnared by your chains, the Words will surely find you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

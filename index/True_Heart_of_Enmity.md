@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 185499
+revid: 185911
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
@@ -41,7 +41,7 @@ It is the same gargantuan creature wrought of iron and animosity, though what ma
 
 All moves instantly grip the opponent if they are knocked. Enmity Servants are also capable of executing downed players.
 
-| **Name** | **Description** | **Visual Demo** |
+| **Name** | **Description** | **Media** |
 | --- | --- | --- |
 | 
 **Enmity's Call**
@@ -84,7 +84,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
  | The Heart of Enmity quickly darts from one side to another, often following up with an attack.
 
- |
+ |  |
 | 
 
 **Sadistic Edge**
@@ -95,7 +95,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   Only uses this attack after using Reposition.
 
- |
+ |  |
 | 
 
 **Spread, Obsidian Wings**
@@ -104,7 +104,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
  | The Heart of Enmity quickly leaps up with his wings before striking the player with his axe.
 
- |
+ |  |
 | 
 
 **The Brutalizer**

@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 185418
+revid: 185908
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -39,8 +39,8 @@ Duke Ishamon Erisia's arsenal consists of [Untrained Fist](Untrained_Fist.md) wi
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=ol8I8E__J_c)._
 
-| Name/Danger | Description |
-| --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
 **Strong Left**  
 (★★☆)
@@ -49,7 +49,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Duke Erisia will transition to using Assault and Critical Attack after using Strong Left for a short duration.
 
- |
+ |  |
 | 
 
 **Assault**  
@@ -59,7 +59,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Duke Erisia will always and **only** start using Assault after using Strong Left.
 
- |
+ |  |
 | 
 
 **Critical**  
@@ -69,7 +69,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Duke Erisia will **only** use this after using Strong Left.
 
- |
+ |  |
 | 
 
 **Feint**  
@@ -79,7 +79,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Duke Erisia will **only** feint his "Assault".
 
- |
+ |  |
 | 
 
 **Shields of Erisia**  
@@ -92,7 +92,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Can deflect [Providence's Thorns](<Providence's_Thorns.md>).
 -   Only used once the posture shield is down. (Phase 2).
 
- |
+ |  |
 | 
 
 **Binding Tempest**  
@@ -106,7 +106,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   If evaded for long enough and then you get hit by them, the Duke will not teleport nor deal any damage.
 -   Block breaking duke while he is rising into the air cancels it.
 
- |
+ |  |
 | 
 
 **Aero Spear**  
@@ -116,7 +116,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 
- |
+ |  |
 | 
 
 **Gale Stomp**  
@@ -126,7 +126,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Will daze targets if they hit a wall while ragdolled.
 
- |
+ |  |
 | 
 
 **Cyclone Bomb**  
@@ -138,7 +138,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Covers a large Area of Effect.
 -   More often to happen if Duke takes major damage quickly.
 
- |
+ |  |
 | 
 
 **Mindless Servants**  
@@ -151,7 +151,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   There are ten pods in the room, and thus a maximum of ten Servants that can be summoned in a fight. Generally, he will summon three batches of three before summoning a lone Servant.
 -   Only used once the posture shield is down. (Phase 2)
 
- |
+ |  |
 | 
 
 **Vent**  
@@ -161,7 +161,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   He always vents whenever he gets flourished into a wall.
 
- |
+ |  |
 
 ### Passives
 
