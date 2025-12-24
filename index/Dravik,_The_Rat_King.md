@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 186148
+revid: 186174
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -232,6 +232,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
     -   **Dravik gains immunity to a number of things and reflects their damage back to you. These include:**
         -   **Mantras**
         -   **Damaging enchant effects (e.g. Storm and Chilling)**
+            -   Umbral Knight is not affected by this.
         -   **Some criticals (currently only Pale Briar confirmed)**
 
   

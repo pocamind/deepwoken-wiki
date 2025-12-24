@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 186136
+revid: 186150
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -185,5 +185,4 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
     -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect.
 -   After starting the teleport to the fight there is another dialogue box with Evengarde Rest saying "Let's see how your skills have improved, eh?"
 -   If you taunt him during your fight by pressing T, he will immediately activate his Tempest Eye and decapitate you, seeing it as disrespectful.
--   Maestro is confirmed to be a gymcel, or at least was during the events of Vow of Iron.
 -   Maestro is around 16-23 years old during the events of Vow of iron,and he uses moon ring.

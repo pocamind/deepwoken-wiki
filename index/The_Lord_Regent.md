@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 186138
+revid: 186151
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -430,8 +430,6 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 -   Zi'eer's outfits are the following outfits made by **SirAndrove2**
 -   [https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) - Shirt
 -   [https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider](https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider) - Pants
--   As stated by Ragoozer,he has greasy hair and wears the same outfit for 40 years.
--   As stated by Ragoozer, he's full of himself and hypes himself in the mirror.
 
 ## References
 

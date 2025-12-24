@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 186130
+revid: 186152
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -85,6 +85,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   [Kanabo](Kanabo.md): by the back room of [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md)
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>): [Saramaed Summit](Saramaed_Summit.md)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): around the exit/entrance of the Miners Cave [Boundary](Boundary.md)
+-   [Prototype Railblade](Prototype_Railblade.md): [Saramaed Summit](Saramaed_Summit.md)
 
 ### Lumen and The Depths
 
