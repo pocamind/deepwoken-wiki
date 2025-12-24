@@ -1,9 +1,9 @@
 ---
 title: Drallis Ehr
-revid: 185995
+revid: 186103
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Heads of government and state, Personnel of The Central Authority]
+categories: [Pages with broken file links, Heads of government and state, Personnel of The Central Authority]
 ---
 
 # Drallis Ehr
@@ -23,9 +23,14 @@ Drallis Ehr became a hero in the [Adretian Empire](Adretian_Empire.md) after sto
 
 [Traan Zakshun](Traan_Zakshun.md) is known to claim Drallis Ehr as an endorser of their products.[\[4\]](#cite-note-4)
 
+It has been confirmed by Ragoozer that Drallis Ehr is a [Deepwoken](Deepwoken.md).[\[5\]](#cite-note-5)
+
 ## References
 
 1.  ↑ [1.0](#cite-ref-helm-1-0) [1.1](#cite-ref-helm-1-1) [Authority Helm](Authority_Helm.md)
 2.  [↑](#cite-ref-2) [Warden Jericho](Warden_Jericho.md)
 3.  [↑](#cite-ref-3) [Maps](Maps.md)
 4.  [↑](#cite-ref-4) [Traan Zakshun](Traan_Zakshun.md)
+5.  [↑](#cite-ref-5) Drallis Ehr confirmed to be a deepwoken in the community discord
+    
+    File:Drallisehrdeepwoken.png

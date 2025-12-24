@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 185763
+revid: 186137
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, Voiced Characters]
@@ -355,6 +355,7 @@ Exhaustive Loot Table
 -   Chaser's old laugh used to be the same as the [Duke's](Duke_Ishamon_Erisia.md) but lower pitched and echoed.
 -   According to [Vyrelda](Vyrelda,_Master_of_Blood.md) dialogue, Chaser has his own unique oath variant that created by himself. The oath variant is also perfectly matching with his resonance that can extract the power from effigies of the dead. The stolen bells is the effigies that Chaser used.
 -   Chaser's title, **The Scholar of Crimson Contract** was gained because of his own unique oath variant that he created by himself.
+-   As stated by Ragoozer, Chaser has "mommy issues"...
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Cuirass
-revid: 176415
+revid: 186131
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Cuirass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cuirasses, Etrea]
@@ -35,3 +35,4 @@ The [Battle Tendency](Talents.md#battle-tendency) Talent increases the speed at 
 ## Trivia
 
 -   The Innate Talent tied to this Equipment is a direct reference to [the second part of JoJo's Bizarre Adventure](https://jojowiki.com/Battle_Tendency), sharing the same name. The description of the talent also plays into this, being a reference to how [Hamon](https://jojowiki.com/Ripple) (occasionally referred to as 'Ripple') functions in the series.
+-   It is canonically worn by the [Etrean Royalists](Etrean_Royalists.md) and [Shoguns](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>).

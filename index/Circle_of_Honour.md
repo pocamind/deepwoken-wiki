@@ -1,6 +1,6 @@
 ---
 title: Circle of Honour
-revid: 185758
+revid: 186111
 source: https://deepwoken.fandom.com/wiki/Circle_of_Honour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Circle of Honour]
@@ -25,7 +25,7 @@ notices:
 
 ## Description
 
-The Circle of Honour is an organization whose main goal is to defeat [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) of [the Ministry](The_Ministry.md). They go through [Mementos](Mementos.md): Memories of the fallen Circle of Honour members to kill him in the past and find a way defeat him in the present.
+The Circle of Honour is an organization whose main goal is to defeat [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) of [the Ministry](The_Ministry.md). They go through [Mementos](Mementos.md): Memories of the fallen Circle of Honour members to kill him in the past and find a way to defeat him in the present.
 
 The Circle was allied with the [Etrean Royalists](Etrean_Royalists.md) during the [Etrean Civil War](Etrean_Civil_War.md), due to both sharing the cause of wanting to take down Zi'eer.
 

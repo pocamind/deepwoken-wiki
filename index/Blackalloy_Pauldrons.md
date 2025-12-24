@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 185361
+revid: 186140
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with S
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths |
+| obtainment | The Depths, Minityrsa |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

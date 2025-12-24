@@ -1,6 +1,6 @@
 ---
 title: Ring of a Lost Star
-revid: 185686
+revid: 186106
 source: https://deepwoken.fandom.com/wiki/Ring_of_a_Lost_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Relics]
@@ -38,3 +38,4 @@ The Star Knight takes about 15 seconds to arrive after the ring is used.
 ## Trivia
 
 -   On Vow of Iron's release, this was an equippable ring item, and equipping it would bug your character.
+-   The ring can be activated in overworld, dungeons, or even the depth (Including enmity dungeon).

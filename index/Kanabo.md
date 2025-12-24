@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 183034
+revid: 186108
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Etrea, Heavy Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest, Duke Erisia, War Mode, Etris: Siege, Interluminary Parasol, The Doom of Caeranthil |
+| obtainment | Maestro Evengarde Rest, Duke Erisia, War Mode, Etris: Siege, Interluminary Parasol, The Doom of Caeranthil, Fishing |
 | description | Once a staple weapon in Etrea's Arsenal, renowned for its scale and brute force, it was wielded by the heavy infantry of the King's Guard. These ironclad warriors used kanabos to enforce the King's will and maintain order across the Etrean Luminant. Today, its use has become significantly less common, with Etrea favouring the development of its blades instead. |
 
 ## Description
