@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 183462
+revid: 186073
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -290,7 +290,7 @@ Unique Loot Table
   <td>You lost, sprout?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -316,7 +316,7 @@ Unique Loot Table
   <td><i>*He grits his teeth.*</i> <b>No. It's not time.</b></td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -337,7 +337,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td>I bear a message from The Hundred Legions. / Uhh... I am to inform you that... there's been another delay. [Lie]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -370,7 +370,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td><b><i>THE WEAK MUST FALL FOR THE STRONG TO PROSPER!</i></b></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -383,7 +383,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td>Begin</td>
 </tr>
 <tr>
-  <td>You thought <i>that</i> was the end?</td>
+  <td>You thought <i>that</i> was the [End Dialogue]?</td>
 </tr>
 <tr>
   <td><i>That was mercy.</i></td>
@@ -395,7 +395,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td>LET ME SHOW YOU HOW A WARRIOR <font>EARNS THEIR NAME</font>.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -416,20 +416,20 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td colspan="8">How'd you lose to me then?</td>
 </tr>
 <tr>
-  <td colspan="8">You got <i>lucky</i>. Every dog has its day. But enjoy your breath while it lasts. In the end, <i>everything</i> crumbles... even <b>you</b>.</td>
+  <td colspan="8">You got <i>lucky</i>. Every dog has its day. But enjoy your breath while it lasts. In the [End Dialogue], <i>everything</i> crumbles... even <i><b>you</b></i>.</td>
 </tr>
 <tr>
   <td colspan="4">How did you earn your name?</td>
-  <td colspan="4">I'll get going now.</td>
+  <td colspan="4">I'll get going now. [Leave dungeon]</td>
 </tr>
 <tr>
-  <td colspan="4">My conquests in the West resound like thunder. But here in the East is where I earned my name. With <font>storm-like might</font> and <font>lightning</font>, I vanquished innumerable foes in <font>star-swept Aratel</font>. For that, I am named <b><font>'Fulminus'</font></b>, and <b><font>'Destellus'</font></b>.</td>
+  <td colspan="4">My conquests in the West resound like thunder. But here in the East is where I earned my name. With <font>storm-like might</font> and <font>lightning</font>, I vanquished innumerable foes in <font>star-swept Aratel</font>. For that, I am named '<font><b>Fulminus</b></font>', and '<font><b>Destellus</b></font>'.</td>
   <td colspan="4">Fine. You've earned your leave. Be on your way.</td>
 </tr>
 <tr>
   <td colspan="2">You did this all on your own?</td>
   <td colspan="2">...</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2"><i>*He shakes his head bitterly.*</i> Bah. History only remembers the general, and never the soldier. The 49th Legion followed me with unwavering loyalty, into the maw of fire and slaughter. I was a warrior among their ranks, until I became their commander. With their might and my strategy, we were an unstoppable force.</td>
@@ -438,7 +438,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
 <tr>
   <td>'Were'? What happened to them?</td>
   <td>...</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td><i>*He chuckles, with a tinge of sorrow.*</i> Countless fell with valour over the years. So many brothers and comrades lost... The 49th still lives, but I have not heard from them since I got into this sordid place. Perhaps they await me still. <i>*He scowls, briefly.*</i> Or perhaps another commander guides them in my absence.</td>
@@ -483,14 +483,14 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 <tr>
   <td>What?</td>
   <td colspan="2">...</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>Just deliver the words exactly as I gave them. Brutus will understand. <i>*He snickers.*</i> ...Assuming he doesn't crush your ribs before you finish the sentence.</td>
   <td colspan="2">[See Base Dialogue]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

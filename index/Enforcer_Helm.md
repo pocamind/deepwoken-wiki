@@ -1,6 +1,6 @@
 ---
 title: Enforcer Helm
-revid: 185371
+revid: 186061
 source: https://deepwoken.fandom.com/wiki/Enforcer_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -32,3 +32,5 @@ This content is not accessible outside of this gamemode.
 The **Enforcer Helm** is an [Equipment](Equipment.md) Item found under the "Head" category. This helmet resembles the head of the [Enforcers](Enforcer.md).
 
 The [Blend In](Talents.md#blend-in) Talent makes most Depths Monsters neutral towards you, removing their aggro unless you hit them first.
+
+This item was briefly available in [Pathfinder mode](Pathfinder.md) via [Heart of Enmity](Heart_of_Enmity.md) direct drops

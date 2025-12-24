@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 185929
+revid: 186016
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -24,7 +24,7 @@ categories: [Monsters]
 
 The King Thresher (also colloquially known as Big/King Croc, Mother/Mama Thresher, etc) is a larger and usually older male [Thresher](Thresher.md) that is found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). Sometimes, it can be found with another Thresher.
 
-King Threshers, as its name suggests are similar to an [Alpha Megalodaunt](Alpha_Megalodaunt.md) in terms of social hierarchy; a dominant Thresher leading their own pack. They are a result of male Threshers competing with each other in populated nests, where behavioral shifts sink in. Their growth is derived from an organ in their necks which can be significantly ended if a competing Thresher's teeth is lodged into an opposing Thresher, thus leading into a Thresher emerging as a king. These Threshers have distinct features from their lesser counterparts, such as its large size, purple body, and a unique ability to breathe purple flames.
+King Threshers, as its name suggests are similar to an [Alpha Megalodaunt](Alpha_Megalodaunt.md) in terms of social hierarchy; a dominant Thresher leading their own pack. They are a result of male Threshers competing with each other in populated nests, where behavioral shifts sink in. Their growth is derived from an organ in their necks which can be significantly cut short if a competing Thresher's teeth is lodged into an opposing Thresher, thus leading into a Thresher emerging as a king. These Threshers have distinct features from their lesser counterparts, such as its large size, purple body, and a unique ability to breathe purple flames.[\[1\]](#cite-note-1)
 
 A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s [Quest](Quests.md), granting the Thresher Scales [Echo Talent](Echoes.md), which repairs the player's Armor while resting at a campfire. This quest can be completed/recompleted to get a hand of cards if you already have the Talent.
 
@@ -119,3 +119,7 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 
 -   Despite having flame visuals, **Royal Breath** is not flame and has never been flame.
 -   The **King Thresher**, alongside the [Thresher](Thresher.md) and the [Deep Owl](Deep_Owl.md) were one of the 3 [Pathfinder](Pathfinder.md) gamemode [Monsters](Monsters.md) that received the new Highlight telegraphs and mechanics from the [Vow of Iron](Vow_of_Iron.md) gamemode in the December 13th, 2025 "Ironsworn" update.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [King Thresher Spine](King_Thresher_Spine.md) description

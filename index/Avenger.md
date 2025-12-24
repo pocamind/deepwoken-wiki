@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 184440
+revid: 186043
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
@@ -56,3 +56,5 @@ Avenger uses the default Greatsword critical, an overhead swing. It has a scaled
 ### Enchantments
 
 Astral
+
+Nemesis

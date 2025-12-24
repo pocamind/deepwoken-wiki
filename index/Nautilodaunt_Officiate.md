@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 185213
+revid: 186014
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Monsters, The Depths]
@@ -54,6 +54,8 @@ Template:Creature Infobox V3
 
 -   This is most commonly used to close the distance between targets that are at a higher elevation than it; often being used after Electro Stomp.
 
+This attack has a red highlight indicating that it may only be dodged.
+
  |
 | 
 
@@ -68,7 +70,7 @@ Template:Creature Infobox V3
 **Electro Stomp**  
 (★★★)
 
- | Nautilodaunt Officiate stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line.
+ | Nautilodaunt Officiate stomps the ground, sending rubble hurling towards you and creating small yellow geysers in a straight line.
 
 -   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
 -   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
@@ -77,12 +79,24 @@ Template:Creature Infobox V3
  |
 | 
 
-**Delayed Electro Stomp**  
+**Furious Stomp**  
 (★★★)
 
- | Nautilodaunt Officiate gains a white outline, stops for a few seconds and stomps the ground, sending rubble hurling towards you and creating small geysers in a straight line.
+ | Nautilodaunt Officiate gains a white outline, stops for a few seconds and stomps the ground, sending rubble hurling towards you and creating small red geysers in a straight line.
 
 -   You **CANNOT** dodge this attack, you have to jump over it.
+-   This attack can be avoided by moving to the side of the Nautilodaunt Officiate as it cannot change directions when casting this move.
+
+ |
+| 
+
+**Combo Slam**  
+(★★★)
+
+ | Nautilodaunt Officiate lets out a roar, after which it will punch the player twice, both of which can be parried, before gaining a white outline and slamming the ground with both fists, creating a shockwave that must be jumped over.
+
+-   The two punches before the slam come out relatively fast, but do not do too much damage, most of the damage comes from the following shockwave.
+-   Nautilodaunt Officiate can move while using this move, often causing it to miss the shockwave completly as it keeps walking past you after the punches.
 
  |
 | 

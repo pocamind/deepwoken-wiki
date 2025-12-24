@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 185749
+revid: 186085
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
@@ -16,13 +16,17 @@ Variants: [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+“ You're a strong one, huh? But a good commander knows when to save their strength. See you around, sprout. ”
+
+― General Titus Juventius
+
 Template:Creature Infobox V3
 
 ## Description
 
 General Titus Juventius is a [boss](Bosses.md) fought at [The Polymarch](The_Polymarch.md) within the Eastern Luminant. He is the captain of his ship, commanding the Red Legion members, presumably the 49th Legion, and a user of [Oath: Blightsurger](Oath%253A_Blightsurger.md), yet a bit weaker than known by his older form. This boss is optional, as he is merely a mission based boss that only helps you gain [Notes](Notes.md) to power up. If Titus's HP reaches 90%, he forfeits and you unlock the [Theros Disciple](Theros_Disciple.md) [Memento](Mementos.md), and gives the player the [Icarus Sun Shield](Icarus_Sun_Shield.md) before warping away from the player if gone through his dialog.
 
-A Khan with great stature, he's around twice the height of the player. He has a young face and black dreads, signifying his moderate young age. He wears a unique Legion outfit with his [Titus's Cape](<Titus's_Cape.md>). Unlike his older version, he does not have the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and has not unlocked his [Resonance](Resonance.md) yet, indicating that he still learns how to become stronger, though he should not be underestimated as he's still a tough foe to handle.
+A young, Silverback Khan with great stature, he's around twice the height of the player. His face forms a stern expression with yellow eyes, while donning a gold crown that sits atop his black dreads. He wears a dark blue [Legion Centurion](Legion_Centurion.md) with his [own cape](<Titus's_Cape.md>). Unlike his older version, he does not have the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and has not unlocked his [Resonance](Resonance.md) yet, indicating that he still learns how to become stronger, though he should not be underestimated as he's still a tough foe to handle.
 
 ### Starting the Fight with Titus
 
@@ -121,3 +125,7 @@ A Khan with great stature, he's around twice the height of the player. He has a 
 ## Tips
 
 It's possible to easily defeat Titus by luring him to a whirlpool. Titus will dash forward, likely into the whirlpool's range, and thus be sucked in, instantly killing him. However, this is difficult to pull off due to the limited distance Titus can move from The Polymarch.
+
+## Trivia
+
+-   In the [Vow of Iron](Vow_of_Iron.md) [trailer](https://youtu.be/sF8ZLO9dcHY), Titus was depicted with a unique desert-colored outfit.

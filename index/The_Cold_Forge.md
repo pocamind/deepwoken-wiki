@@ -1,6 +1,6 @@
 ---
 title: The Cold Forge
-revid: 166636
+revid: 186076
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer]

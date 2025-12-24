@@ -1,12 +1,18 @@
 ---
 title: Aces
-revid: 174620
+revid: 186087
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Character, Skills, Talents]
+categories: [Pathfinder Exclusive, Character, Skills, Talents]
 ---
 
 # Aces
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+## Description
 
 **Aces** are tools you can use when selecting [Talents](Talents.md) and [Mantras](Mantras.md) that allow you to manipulate your card hands by Freezing or Burning cards. You spawn with no Aces, Aces can be obtained from multiple sources:
 

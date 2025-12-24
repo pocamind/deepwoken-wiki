@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 181400
+revid: 186018
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Death, The Depths]
@@ -38,70 +38,7 @@ Located before Self, a statue that allows you to pay 1000 [Robux](https://roblox
 
 ### Self
 
-Located past the stone arches, a reflection of yourself that will remove your character. The following is the dialogue present with said reflection:
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">So... This is it for us, huh?</td>
-</tr>
-<tr>
-  <td colspan="12">What do you mean?</td>
-</tr>
-<tr>
-  <td colspan="12">You know what I mean. You're me, after all. This is where we as a person end.</td>
-</tr>
-<tr>
-  <td colspan="12">But I don't want to go.</td>
-</tr>
-<tr>
-  <td colspan="12">*<i>Sigh.</i>* There was so much left for us to do, wasn't there? / *<i>Sigh.</i>* We had a good long life, didn't we? At least there's solace in that.</td>
-</tr>
-<tr>
-  <td colspan="12">Isn't there something we can do?</td>
-</tr>
-<tr>
-  <td colspan="12">*<i>You see your face racked with a pained expression.</i>* No. You know there isn't.</td>
-</tr>
-<tr>
-  <td colspan="12">What is all this?</td>
-</tr>
-<tr>
-  <td colspan="12">This... All of this around us... Is all our mind is able to make sense of right now. It's just holding on to all it can still remember.</td>
-</tr>
-<tr>
-  <td colspan="12">So, is this really the end?</td>
-</tr>
-<tr>
-  <td colspan="12">Yeah, I suppose it is. Come speak to me again when you want to... Well... You know.</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin</td>
-</tr>
-<tr>
-  <td colspan="12">*<i>You see yourself smile weakly.</i>* Don't want to go out without a smile, do we?</td>
-</tr>
-<tr>
-  <td colspan="12">The End</td>
-</tr>
-<tr>
-  <td colspan="12">End</td>
-</tr>
-</tbody>
-</table>
-
-Clicking\[The End\] will wipe your character and show you the character's legacy menu then transfer you to the character creation screen.
+_Main page: [Self](Self.md)_
 
 ### **The Legacy menu**
 

@@ -1,9 +1,9 @@
 ---
 title: Meemaw
-revid: 185867
+revid: 186072
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
+categories: [Felinor NPCs, In progress with VOI reason, InProgressPages, NPCs, Quests]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -16,9 +16,7 @@ notices:
 | location | Songseeker Wilds |
 | family | Lucien (grandson) |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
-For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+Template:ExCounterpart
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 183035
+revid: 186068
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -41,5 +41,6 @@ The **Flamekeeper Cestus** is a Cestus that requires 65 LHT to use. These black 
 
 -   Meeting the requirement of LHT, the damage is (22.7)
 -   At max LHT, the damage is (26.5)
--   The weapon references The Covenant of the Flame.
+-   The weapon references [The Covenant of Flame](The_Covenant_of_Flame.md).
 -   Despite its namesake, The [Flamecharm](Flamecharm.md) Attunement has no effect on, or relevance to this weapon.
+-   On December 23rd 2025, it was remodeled.
