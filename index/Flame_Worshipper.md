@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 185330
+revid: 186524
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]

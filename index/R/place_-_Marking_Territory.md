@@ -1,9 +1,11 @@
 ---
 title: "R/place - Marking Territory"
-revid: 93730
+revid: 186554
 source: https://deepwoken.fandom.com/wiki/R/place_-_Marking_Territory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Community Compositions]
+categories: [Pages requiring a cleanup, Community Compositions]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # R/place - Marking Territory

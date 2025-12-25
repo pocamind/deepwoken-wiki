@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 186029
+revid: 186584
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Pages requiring a cleanup, Lore]
@@ -37,7 +37,6 @@ The [Talent](Talents.md) tree, "[Deepwoken](Talents.md#deepwoken)" possibly hint
 
 -   It is unknown whether or not Deepwoken is an Oath, a state of being, or simply a title; developer Ragoozer has likened it to becoming a [Starkindred](Oath%253A_Starkindred.md)[\[1\]](#cite-note-0-1)—instead of eating a piece of a Drowned God, you eat a piece of a [Celestial](Celestial.md).
 -   Although Deepwokens are incredibly powerful, it is still possible for some to (temporarily) reach their level of power. For instance, [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) is said to be on the same level as [Amorus Pleeksty](Amorus_Pleeksty.md), if he can activate his Tempest Eye[\[5\]](#cite-note-5)
--   The Second prophet of [The Ministry](The_Ministry.md) was once said to be a Deepwoken by Ragoozer, but was shortly retconned after.[\[6\]](#cite-note-6)
 
 ## References
 
@@ -46,4 +45,3 @@ The [Talent](Talents.md) tree, "[Deepwoken](Talents.md#deepwoken)" possibly hint
 3.  [↑](#cite-ref-3) File:DRALLIS EHR DEEPWOKEN.png
 4.  [↑](#cite-ref-4)
 5.  [↑](#cite-ref-5) [Developer Ragoozer](Lore.md#maestro-evengarde-rest)
-6.  [↑](#cite-ref-6) File:Second prophet not deepwoken.png

@@ -1,9 +1,11 @@
 ---
 title: Version History/Uncollapsed
-revid: 172445
+revid: 186606
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken]
+categories: [In progress with reason, InProgressPages, Deepwoken]
+notices:
+  - "This page is currently being worked on. The information in this page is constantly being updated!"
 ---
 
 # Version History/Uncollapsed
@@ -20,9 +22,432 @@ Variants: [Regular](2026.md)
 
 Something is considered a new update if it happens on a different week as the past update.  
 Something is considered a patch if it's added after an update but doesn't contain enough content to be considered one.  
-The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.
+The update highest on the webpage (the one right below the legend) is the most recent game update that has been put into the wiki.  
+Starting from December 21st, 2025, the game version of the latest patch for an update will be listed to the right of the date it was released.
 
   
+
+## **December 21st, 2025 | pv\_DEC\_25\_02:24a**
+
+**Content & Systems**  
+💡 New Starting Memento: Spear Dancer  
+💡 20 New Equipment talents (Iron Vow exclusive _for now_)  
+💡 New "Strange Merchant" Talent: Jackpot (LVL 20)  
+💡 New "Strange Merchant" Talent: Stack the Deck (replaced Time Burst)  
+💡 Added 3 new Levit variants  
+💡 Defeating the Lord Regent in the Vow of Iron for the first time now awards a badge and a free character slot  
+💡 You can now take jobs at the Blade Temple Job Board in Vow of Iron to hunt shoguns in Etris (these give a significant reward + Chest)  
+🔧 Added new textures for Mementos that were missing them  
+🔧 Remodelled Strange Merchant's Coffin  
+🔧 Converted all NPC's to have high fidelity faces (no more pixelated faces)  
+🔧 Mossed up the Moss Knights  
+🔧 Updated the two-handed block and parry animations for a lot of weapons  
+🔧 Added new sound effects to wall jumps  
+  
+**Pathfinder Imports**  
+🔀 As polled, Vow of Iron's movement changes have been ported over to Pathfinder. They're now enabled across the whole game, including special modes like Battle Royale  
+🔀 The Depths Trial has now also been converted into a Dungeon for the Pathfinder gamemode  
+🔧 Kick Off's movement speed boost is now gained by performing a back eject on a wall, done by air dashing into one. Previously, the speed boost was gained by wall jumping over a wall  
+  
+**Merges & Removals**  
+🔀 Tempest Wind is now innate to Wind Blade. If you had Tempest Wind, you'll be refunded a hand of talents  
+  
+**VoI Balancing**  
+⏫ Beating one of the Primary Bosses in Iron Vow now guarantees you a drop from the Depths loot table  
+⏫ Etris Flask no longer unequips your weapon on use  
+⏫ Minimum chest turn-in reward is now 450 notes  
+⏫ Max distance for Prince of the Moon shadow teleport increased greatly  
+⏫ Monsters spawn more frequently in Iron Vow Depths  
+⏫ You can now enchant legendary weapons in Vow of Iron  
+⏫ Job note gain buffed significantly in Iron Vow  
+⏫ Ministry Hunters now drop their unique weapons  
+⏫ Rogue Assassin can now initiate their "Swift Strike" backstab on any weapon  
+⏫ Providence's Thorns now works against PT-resistant enemies in Iron Vow  
+⏫ You now auto-loot items dropped by mobs  
+⏫ Inheritor of the Gale now spawns with Hero's Blade of Wind  
+⏫ Reduced Piercing Shot cooldown from 60 seconds to 30 seconds  
+⚖️ True Heart of Enmity now has a shorter attack downtime period (3s -> 2s)  
+⚖️ True Heart of Enmity's combo chain can now go one attack higher (3 -> 4)  
+⚖️ True Heart of Enmity's unparryable attacks now deal the same posture damage as they would in Pathfinder mode (25 -> 50)  
+⚖️ True Heart of Enmity's Max HP lowered in exchange for his buffs (20000 HP -> 18000 HP)  
+⚖️ Etris Shoguns no longer drop notes  
+⚖️ Mystery boxes no longer randomly teleport, instead each spot counts as its own mystery box. If an individual mystery box "fails" then that specific box will be locked for the rest of the playthrough  
+⏬ Iron Vessel now has a minimum damage it receives when blockbroken  
+🔧 Sanguine Candles can now be lit anywhere, causing a random ministry hunter to spawn  
+  
+**Balancing**  
+⏫ Buffed Taunt Counter Stacks  
+⏫ Swift Strike hitbox made more consistent on enemies below you  
+  
+**Major Optimizations**  
+⚙️ Greatly optimized mobs that aren't hostile to any players nearby. This should make towns and guards generate a lot less server lag, as they won't have to constantly be checking for enemies nearby when there aren't any  
+⚙️ Greatly optimized mobs in general by making better use of multithreading  
+⚙️ Greatly optimized mob pathfinding  
+⚙️ Optimized mob vision checks by not checking for enemies as often when they're already chasing an enemy  
+⚙️ Fixed a regression in performance and optimized spatial hashing  
+⚙️ Etris royalist npc's decreased substantially to save on server performance  
+  
+**Bugfixes**  
+🩹 Fixed Heavy Weapons dealing more PvE damage than intended in Pathfinder  
+🩹 Fixed mobs deaggroing as soon as they lose sight of their enemies. This meant that if a mob spotted you and you quickly ducked into cover they'd forget you existed  
+🩹 Fixed human mobs running really slowly sometimes  
+🩹 Fixed Strange Merchant not ignoring Stat requirements on items  
+🩹 You can no longer use / re-use Retrograde while in an action-locked state to prevent bugs caused by rewinding back to points in time you shouldn't be able to  
+🩹 Fixed Cursed Immortality  
+🩹 Fixed Etris Flask bonus heal effects not working  
+🩹 Fixed Heart of Enmity and other mobs not being able to target players in smokescreen  
+🩹 Fixed Heart of Enmity having the same damage attributes on his attacks as True Heart of Enmity. This meant that the Pathfinder (main game) version of Enmity was dealing less damage than intended, and erroneously applying his curse debuff  
+🩹 Fixed Ring of a Lost Star being deleted / not dropped  
+🩹 Fixed Rush Hour scaling being essentially set to zero instead of being reduced for Berserkers  
+🩹 Fixed a softlock that players could (somehow) achieve where they would starve to death repeatedly in Fragments of Else  
+🩹 Fixed being locked out of your slot if you selected Vow of Iron during Character Creation within the Tutorial and left before finalizing your character  
+🩹 Fixed not being able to bind mouse inputs to certain actions  
+🩹 Fixed the following equipment not showing up in loot pools: Gale Boots, Enforcer Helm, Reforged Gauntlets, Super Simple Pauldrons, Reinforced Enforcer Plate, Reinforced Authority Plate, Prosperous Gumshoe Longcoat  
+🩹 Fixed the following outfits being unbankable/undroppable: Titus's Raiment, Titanslayer's Adornment, Arachnid's Weave, Cala-Mariner, Darkened Bastion  
+🩹 Fixed the following weapons being unbankable/undroppable: Night Axe, Relic Axe, Enforcer Axe, Canorian Axe, Adretian Axe, Alloyed Scalesplitter, Anklets of Alsin, Petra's Anchor, Acheron’s Warspear, Apprentice Rapier, Alloyed Katana, Alloyed Dawnshot, Alloyed Longspear, Alloyed Officer Saber, Alloyed Halberd, Alloyed Adretian Axe  
+🩹 Hopefully fixed some issues with Pathfinder Roll Tokens and Iron Roll Tokens not saving  
+🩹 Fixed Inheritor of the Gale not having some talents  
+🩹 Fixed Heart of Enmity's loot being automatically placed into your backpack upon his defeat, this is only intended for Vow of Iron's True Heart of Enmity  
+🩹 Fixed Wall jumps sometimes failing to work, especially if you stood very close to the wall you were trying to climb up
+
+### _**Patch 2.5.2a**_
+
+**Hotchanges**  
+⚖️ You are now unable to use Windwaker in combat  
+⏬ All heroblades elemental requirement increased from 75 to 100, base damage reduced from 20 to 19  
+⏬ Glare windup increased from 0.49 -> 0.72  
+⏬ Iceberg healing reduced, no longer has a random chance to proc bottom freeze  
+⏬ Mirror Illusion windup increased from 0.4 to 0.5  
+⏬ Pleeksty's Inferno no longer instant guardbreaks and instead does high posture  
+⏬ Throw no longer applies true daze when throwing someone into the wall/ground  
+🩹 Fixed Dexterity being able to be picked in pathfinder with Shrine of Mastery  
+🩹 Fixed Diluvian being broken  
+🩹 Fixed Mystery Boxes being uninteractable  
+🩹 Fixed Shogun Specialist voiding with Heavenly Wind  
+🩹 Fixed True Enmity not loading in  
+🩹 Fixed a few more Vow of Iron talents being obtainable in main game  
+🩹 Fixed being able to light attack while casting Shadow Meteors (not as the meteors fall)  
+🩹 Fixed being able to refight Rat King  
+🩹 Fixed depths elevator by squibbo not coming back down  
+🩹 Fixed summoning a boat with Seafarer's Chime teleporting you to the boat while it was underwater
+
+### _**Patch 2.5.2b**_
+
+**Hotfixes**  
+⚖️ Stone rework: No longer does extra posture damage on m1, instead does extra damage whenever your guardbreak your opponent with m1 or critical  
+🩹 Fixed Obfuscation weapon attacks not dealing chip damage  
+🩹 Fixed not being able to enter the Depths Trial with more than 5 players  
+🩹 Fixed NPCs floating in the air  
+🩹 Fixed Smokescreen marking players as undetectable to mobs forever  
+🩹 Fixed bullets not being shot out at all if you had any in your backpack  
+🩹 Fixed issues with haircuts applied by Fadetrimmers not getting loaded correctly  
+🩹 Fixed Ring of a Lost Star being an equippable ring, which caused players to be unable to load into their slots. The ring is supposed to be a consumable item, and that is the case now  
+🩹 Fixed True Heart of Enmity dropping Vow of Iron loot (again)  
+🩹 Fixed Vow of Iron slots losing saved boundary locations. If you were affected by this, log into the Vow of Iron slots you lost your boundary locations on, and (hopefully) they should be recovered automatically  
+  
+**4th Anniversary Sale**  
+📰 To celebrate 4 Years of Deepwoken, everything is **50% off** until 2026!  
+📰 Pathfinder Drowned Favours have been reset. This means that any Pathfinder builds that you previously used a Drowned Favour on will be able to be revived with a Drowned Favour once again. This does not apply to Vow of Iron.
+
+### _**Patch 2.5.2c**_
+
+**Hotfixes**  
+🩹 Fixed Taunters Tongue, Jackpot, Compelling Offer, Voice of the Mad God and Sweeten the Deal being obtainable in Pathfinder  
+🩹 Fixed Madness permanently making mobs and bosses peaceful  
+🩹 Fixed not being able to wipe your Vow of Iron character if you had a bugged class  
+🩹 Fixed the Reclaimer not notifying you of having unlocked new abilities to purchase after powering up  
+🩹 Fixed not being able to follow other players' Stratos Steps  
+🩹 Fixed all Fist Styles using the default (Way of Navae) critical  
+🔧 Remodelled Flamekeeper Cestus slightly (better with enchants now)  
+🔧 The 'Enforcer Labubu' has been furloughed and replaced...  
+🔧 Reduced the volume on wall bounces and double jumps
+
+### _**Patch 2.5.2d**_
+
+**Hotchanges**  
+💡 Implemented the Iron Vow Contour tracks, composed by none other than Naktigonis!  
+💡 Kyrsmas Hats are now back in Layer Two boss lootpools!  
+💡 An old member of the 'Zakshun' family has appeared in the depths of the recollection  
+🔧 Boundary Spots are now sorted alphabetically when you pick your destination upon leaving the Boundary  
+🔧 Tweaked the boundary teleport sound effect (lowered the gain on the whistle)  
+🔧 Polished Magic Coffin's VFX somewhat  
+🩹 Fixed patches of frozen Ice created by Frostdraw abilities being much smaller than they should be  
+⏬ Reverted the Frost Wisp buff in exchange for the above. While the ice patches were of small size due to the above bug, it was able to entirely freeze up larger parts of the map effortlessly  
+🔧 Reworked the criteria for Frostdraw abilities (e. g. Frost Wisp) freezing up entire parts: Instead of naively checking the ability's 'freeze strength' against the sum of length, width and height of the part, the freeze strength is now checked against the total volume of a part in order for it be frozen up entirely. If the check fails, an Ice patch is created as usual  
+🩹 Fixed Ice patch sizes not always adhering to the material of the part they're on. Some materials increase or decrease (or nullify) the size of the ice patch  
+🩹 Fixed Chaser's Miasma Wave attack always being guaranteed to hit you  
+🩹 Fixed all NPCs, mobs and interactibles in Blue Estate not spawning in / being functional  
+🩹 Smokescreen and Tacet will no longer immediately forcefully de-aggro mobs on use as a temporary patch to being able to cheese any mob with it and keep them permanently peaceful  
+🩹 Fixed starter Fist Styles giving you an unusable, broken Fist weapon when spawning in  
+🩹 Fixed Mystery Boxes not closing after use  
+⚙️ Optimized loading times by only loading in the relevant contour track instead of all 4 when you join a server  
+  
+**Holidays**  
+Merry Kyrsmas! We’re incredibly grateful for all the support and thoughtful feedback following the release of Vow of Iron. From everyone here at Monad, we wish you a happy holiday season! As announced, most of us are on work break during the festivities.
+
+## **December 13th, 2025**
+
+**Verse 3 Chapter 2: "Ironsworn"**  
+💡 New Gamemode: Vow of Iron. Delve into the memories of the Lord Regent's ascent to power and face new challenges in a brutal reimagining of the core gameplay of Deepwoken  
+💡 3 New Bosses, 1 New Boss Variant  
+💡 17 New 'Mementos'  
+💡 50+ New Equipment Talents  
+💡 New Mantras  
+💡 New Talents  
+💡 New Weapons  
+💡 New Equipment  
+💡 New Secrets  
+📰 Character Slot limit increased to 100  
+  
+**Content & Systems**  
+💡 Added 'Untrained Fist' style. Equipping a Cestus without a fist style known now has you use an untrained fist style. As such, you're no longer arbitrarily barred from using a cestus if you haven't learnt a fist style  
+💡 The character select screen has been reworked to present info a lot more coherently, as well as with much better support for dynamic scaling  
+💡 Added formatted conditions to talent cards e.g. \[Heavy Weapons\] gets formatted nicely now  
+💡 Added status effect tooltips to talent cards. Not every status effect is covered yet, more of these will be added over time  
+💡 Greatly improved tooltips for weapons. Now has details on DPS, attack duration, weapon talents, etc.  
+💡 Books now have a word count and a reading time estimate in their tooltip  
+💡 Added a setting for Voice Chat volume  
+💡 Added a setting for shanty/instruments volume  
+💡 Added a setting for sound effects volume. Doesn't apply to every sound effect but will cover more as we integrate things into the new audio system  
+💡 The ingame map is now unlocked by default and has a button next to the encyclopedia  
+💡 You can now dye the color of your Berserk State  
+💡 New Eye Shape: Intense  
+💡 "alright cadets today we're going to ragoozer's air force academy, bash your head into a wall as hard as you can with an air dash to do a wall bounce" (sic)  
+  
+**Static Withdraw/Jumpstart Rework**  
+⚖️ The Static Withdraw/Jumpstart talents have been reworked and renamed. Now, instead of Electrify being useless unless you're being carried around, it grants the lightning imbuement and damage modifiers that Jumpstart formerly did. Raging Static (Amplified Rage) and Jumpstart (Amplified Reflexes) have also now been reworked into two branching Talent paths that are incompatible with each other. Also, the self-damage reduction from Raging Static is now the base amount of self-damage, with Amplified Reflexes instead tripling your self-damage. The balance itself hasn't changed much, but moving around the effects makes Electrify much more useful as a standalone talent.  
+📰 'Static Withdraw' has been renamed to 'Electrify'  
+📰 Static Mastery has been renamed to Circuit Breaker  
+💣 Jumpstart has been replaced with 'Amplified Reflexes'. However, with the talent tree now being split into paths, if you had Jumpstart you'll be refunded a hand of talents  
+💣 Raging Static has been replaced with 'Amplified Rage'. However, with the talent tree now being split into paths, if you had Raging Static you'll be refunded a hand of talents  
+⏬ Electrify can no longer be used while action-locked unless you're being carried  
+  
+**Tweaks**  
+🔧 Added ambient audio ducking for weather. Basically, this means that the area ambience is lowered dynamically when it's raining  
+🔧 Ambient sounds for weapons have all been made much more subtle  
+🔧 Bloodrend has been tweaked to be slightly purple to make sure the game complies with Roblox's maturity policy. More changes to how we depict blood might be necessary in future, as otherwise the game would be made restricted and become unavailable for a third of our players. Que sera, sera  
+🔧 Chime 1v1's now prevent you matching against the same person twice in a row  
+🔧 Flare Volley's projectile is now closer to being aligned with the direction your character is facing at the time of casting  
+🔧 Much more of the game's audio is now muffled when underwater  
+🔧 Preload Animations is now on by default  
+🔧 Renamed Bloodthirsty Weapon Talent to Blood Drinker  
+🔧 Shadows now become more defined at midday and softer in the morning/evening  
+🔧 Toned down the bloom post fx on the game, reducing the amount of overly flashy vfx  
+🔧 Voice chat can now be heard from further distances, and can be heard if your character is in earshot, not just your camera  
+🔧 Weapons no longer play ambient sounds when unequipped  
+🔧 When using the Preload Animations setting, animations for criticals and mantras are now preloaded  
+🔧 Your initial hotbar is now filled out in the same order that your inventory is sorted. This means that instead of loading in with a bunch of nonsense in your hotbar, it should prioritise abilities and otherwise  
+🔀 Vow of Thorns & Ironwoken Echo Modifiers have been removed as their mechanics are now represented by the Vow of Iron gamemode  
+  
+**Balancing**  
+⏫ Ziplines are much faster and much easier to hitch a ride on  
+⏫ Destructive Yell now doubles the range of your Ardour Scream  
+⏫ Reputation bribes now bring you back up to neutral reputation if your base reputation with a faction is below zero  
+⏫ Steel Maul's Bulwark Breaker now makes the hitbox of the attack longer + final hit posture massively increased  
+⚖️ Aerial attacks no longer launch you forwards if your last attack was an aerial  
+⚖️ Assassination talents now work in PvE  
+⚖️ Getting parried during a slide jump will now reset your momentum  
+⚖️ Shadow Vortex unvaulted. If someone is in hitstun or hard frozen by something at the start of Shadow Vortex, and is still in that state 1.5s in, they receive massive damage reduction upon being hit by Shadow Vortex for the duration they're affected  
+⏬ Heart of Enmity's Homerun bat attack now has a much more generous dodge window  
+⏬ Shock Trooper Specialist lightning proc requirement doubled  
+⏬ Skycrash stomp hitbox reduced slightly  
+⏬ Specialist Helmet Rare pip removed  
+⏬ Specialist Plate Rare pip removed  
+  
+**Major Optimizations**  
+⚙️ Static events no longer spawn in chunks that aren't awake. This means that the game isn't wasting performance running static events in regions that aren't currently being played in. A side effect here is that specific static events are also more likely to spawn in a given region based on the proximity of a player to them  
+⚙️ Greatly optimized saving character/account data  
+⚙️ Greatly optimized the handling of passives  
+⚙️ Greatly optimized the saving and loading of items  
+⚙️ Optimized shanties  
+  
+**Bugfixes**  
+🩹 Greatly improved the reliability of inventory saving  
+🩹 Fixed a rare bug where having too many unique items could prevent your inventory from saving properly  
+🩹 Fixed Amp Overdrive not allowing you to vent it if you didn't have the talent itself + the stun not being removed when you vented it  
+🩹 Fixed Arc Module: Enhance not doing anything  
+🩹 Fixed Cyclone Blade applying to Criticals/Mantras  
+🩹 Fixed Elder Primadon not being able to target players in Tacet  
+🩹 Fixed Heart of Enmity's Pull attack ground reticle VFX  
+🩹 Fixed Ress Bell VFX lingering on target  
+🩹 Fixed Shock Trooper Specialist lightning bolt effect going through parry  
+🩹 Fixed Squibbos not parrying  
+🩹 Fixed abilities like Rhythm Advance amplifying your voice chat  
+🩹 Fixed being able to enter Layer 2 while wiped via lag switching  
+🩹 Fixed combat tags applied by bosses within Dungeons having a duration; they're meant to last until either the boss or the player dies  
+🩹 Fixed combat tags applied by players onto bosses lasting infinitely even outside of Dungeons  
+🩹 Fixed dropping notes into invalid locations deleting the notes  
+🩹 Fixed inconsistencies with hotbar slots not saving  
+🩹 Fixed lifevent jump height being capped  
+🩹 Fixed mobs teleporting around in dungeons  
+🩹 Fixed some longstanding issues with the placement for item drops, note drops, lootbag drops, etc.  
+🩹 Fixed the initial slash on Twincleave being invisible  
+🩹 ...Fixed the Summer Isle cannon considering you friendly if you had neutral or higher reputation with The Central Authority instead of The Summer Company. Oops
+
+### _**Patch 2.5.1a**_
+
+**Hotchanges**  
+⏫ At Power 5 and below, Parliament and Prime Megalodaunt no longer spawn in Depths trials  
+⏫ Adret's Largent buffed from 100 to 300  
+⏫ Etrean's Tailor Made buffed from 35% to 40%  
+⏫ Heliodar's passive now gives an extra healing buff below 30% health  
+⏫ Ganymede's Steady Mind buff doubled  
+⏫ Your Etris Flasks now refill upon going to the Depths and upon escaping the Depths  
+⚖️ Prime Megalodaunt damage reduced by around 20-25% (Vow of Iron only)  
+⚖️ Jay's Judgement Gavel reworked: "Breaking a Frozen enemy free with your Critical saps their lifeforce."  
+⏬ Reduced Saint Jay base HP (300 -> 250), base posture (35 -> 30), dexterity (+1 -> -1)  
+  
+**Hotfixes**  
+🩹 Fixed some Vow of Iron talents being obtainable in Pathfinder. If you had any of these talents you'll get refunded a hand of cards  
+🩹 Added more data correction for items that aren't meant to be available in different gamemodes  
+🩹 Fixed passing down items  
+🩹 Fixed not being able to get Oath Mantras present in Memento Shops  
+🩹 Fixed a few glitches that could be abused to start with a Resonance in Pathfinder  
+🩹 Fixed Ascended Phoenix Flames not having a CD  
+🩹 Fixed Events spawning near the Polymarch  
+🩹 Fixed Ratking's cutscene not fading properly when you load in  
+🩹 Fixed Titus  
+🩹 Fixed game announcement TTS replaying  
+🩹 Fixed insanity deaths not combat-tagging you  
+🩹 Fixed obtainment for two classes  
+🔧 Titus will now teleport back to his ship if he wanders too far. Fixed being able to spawn him multiple times  
+⚙️ Optimized item loading further
+
+### _**Patch 2.5.1b**_
+
+**Hotchanges**  
+💡 New Rings added  
+⏫ Max notes in iron vow upped to 50k  
+💡 Bags of notes can now be found around the world in Vow of Iron, giving a direct benefit to exploring  
+⏫ Base Royalist reputation is now neutral  
+⏬ Removed Saint Jay's increased base HP  
+🩹 Fixed a Memento being unobtainable  
+🩹 Fixed inconsistent hitboxes with True Heart of Enmity's Dash Slash attack  
+🩹 Fixed missing VFX for True Heart of Enmity's Intro  
+⚖️ Moves with "Aerial Armor" like uppercuts now can be used to beat out "Crouch only" (Blue Highlight) attacks  
+⏫ Soul Thorn critical now gives you iframes against mobs during its secondary critical attack  
+⏫ All boundaries save post wipe now  
+⏫ Mantras now apply innate posture damage to mobs in Vow of Iron  
+⚖️ Squibbo Enforcer HP lowered
+
+## **November 15th, 2025**
+
+**Hallowtide Extended**  
+📰 Unlike previous years, this year's Hallowtide event will last until Vow of Iron drops. Enjoy!  
+  
+**New Animations**  
+💡 Added a transitional animation when sprint jumping and continuing to sprint after landing  
+💡 Added new animations for resting at campfires  
+  
+**Bleed Weapon Rebalance**  
+⏬ The DoT bleed damage on bleed weapons has been reduced from 30% to 15%. This means that instead of bleed weapons dealing an additional 30% of their scaled damage over time, they now deal an additional 15%. The high default of 30% made these weapons very unintuitive to balance, as despite having lower damage values, these weapons could outperform weapons with higher damage values due to the DoT applied on hit  
+⏫ Flareblood Kamas base damage increased (13 -> 14)  
+⏫ Pernach base damage increased (18.5 -> 19)  
+⏫ Drakemaw Gauntlets LHT scaling increased (7.5 -> 8)  
+⏫ Skull Piercer LHT scaling increased (7.5 -> 8)  
+⏫ Morning Star MED scaling increased (5.5 -> 6)  
+⏫ Toothed Club base damage increased (15.5 -> 16)  
+⏫ Red Death MED scaling increased (2 -> 2.5)  
+⏫ Kyrswynter swing speed increased (0.96x -> 0.97x), now has 5% chip damage  
+⏫ Kyrsglaive base damage increased (18.5 -> 19)  
+⏫ Bloodtide Trident swing speed increased (0.93x -> 0.95x)  
+⏫ Razor Cutlass MED scaling increased (7.5 -> 8)  
+⏫ Death's Reverie now has +5% chip damage  
+⏫ Lumensplitter HVY scaling increased (8.5 -> 9)  
+⏫ Alloyed Crescent Cleaver HVY scaling increased (9.5 -> 10)  
+⏫ Kyrscleave HVY scaling increased (8.5 -> 9)  
+  
+**Balancing**  
+⏫ Slightly buffed mission rewards for members enlisted in a Division within the Authority Origin  
+⏫ Increased the max amount of sovereign state gauge you can have  
+⏫ Lightning no longer deals 10% less damage in Snow  
+⏫ Skycrash now has hyperarmor during the leap  
+⏫ Sovereign Drive windup reduced slightly  
+⏫ Self-damage no longer applies positive damage multipliers  
+⚖️ Parry stun on M1's has been increased by about ~33%  
+⚖️ Having a Mantra parried now kills your momentum  
+⚖️ Amp Overdrive now turns guardbreak stun into a ventable stun after a second of being guardbroken (for both the user and opponent)  
+⚖️ Corrupted Shard Bow now applies sticky burn for 3 seconds as a downside and on successful Corrupted Shard Bow hits  
+⚖️ Isshin's Ring bonus amount reduced from 20% to 15%, and downside reduced from 25% to 20%  
+⚖️ Piercing Blow now properly scales with Strength  
+⚖️ Reduced how much hyperarmor you get from Pillars of Erisia, base damage increased and scaling increased  
+⚖️ You can no longer collide with Ignition Deepcrusher's critical attack  
+⚖️ You can no longer use other mantras while Fleeting Sparks is out, Fleeting Sparks damage increased slightly  
+⚖️ There is now a sound cue for Taunt  
+⏬ Cyclone Blade now only works on light attacks and criticals  
+⏬ Damage potion increase/decrease efficiency nerfed by 50%  
+⏬ Detonation damage reduced (17.5 -> 10)  
+⏬ Gale Dash iframes slightly reduced  
+⏬ Evanspear Greataxe base damage reduced (25 -> 24)  
+⏬ Brute Strength damage reduced (45 -> 35), no longer can be multiplied by damage multipliers, now counted as blunt damage  
+⏬ Judgement now goes on a short cooldown on feint  
+⏬ Ardour Scream damage multiplier halved  
+⏬ Last Resort damage multiplier reduced (10% -> 5%)  
+⏬ Reinforce damage buff reduced (10% -> 5%)  
+⏬ Mantle of Enmity range reduced by 20%  
+⏬ Saltchemist potions can no longer be used while Whistleguard is active or while in Portals  
+⏬ Tacet is now less forgiving with how much you can run inside of it, you were able to have too much mobility while being invisible  
+⏬ Taunt windup doubled  
+⏬ Teleportation's cancellable windup increased from 1 to 3  
+⏬ Tornado now has 360 block  
+🔧 Added variation to the speed that mobs circle you  
+🔧 Tweaked rarity of Parkas and Overcoats, adding them to a few more loot pools  
+  
+**Major Optimizations**  
+⚙️ Greatly optimized mob pathfinding by utilising multithreading. Pathfinding is a big performance impact for the game, so this should be pretty impactful  
+⚙️ Fixed NPC pathfinding being invalidated by blockages in the path that the NPC has already gone past. Less path recalculation means less paths need to be calculated, which should improve performance by a good amount  
+⚙️ Similarly to player characters, human mobs now use the updated character controller, which should hopefully cut down on a lot of lag from unnecessary calculations made by default Roblox character controllers  
+⚙️ Bounty posters and Job posters have been greatly optimized. These were a pretty big impact on memory, so there should be some good gains here  
+⚙️ Greatly optimized checks by mobs returning home or patrolling when they get lost  
+⚙️ Greatly optimized damage multipliers  
+⚙️ Optimized status effect handling  
+⚙️ Optimized Pariah's Keepsake  
+  
+**Bugfixes**  
+🩹 Fixed a longstanding issue with nested drop tables that was resulting in poor drop variety. Should mean that chests have better weighting and less trash  
+🩹 Fixed large projectiles often passing straight through enemies, especially if the projectile is fired nearby. This was particularly noticeable on Crucifixion  
+🩹 Ardour Scream no longer hides other animations  
+🩹 Fixed Against All Odds with low WLL giving way better returns than high WLL  
+🩹 Fixed all Enforcer variants only dropping the Enforcer's Axe instead of their respective Enforcer weapon variant  
+🩹 Fixed anim desync on Crucifixion  
+🩹 Fixed applying AoE modifiers to Crucifixion doing nothing  
+🩹 Fixed Ardour Slicer hitting through parry, converted to use new projectile system  
+🩹 Fixed Battle-Hardened  
+🩹 Fixed being able to use Poser's Ring while Shattered Katana crit is active  
+🩹 Fixed Berserk not granting +10% PEN to criticals  
+🩹 Fixed Berserk not nullifying your own armor when hit by crits  
+🩹 Fixed Berserk vfx playing even when dodged/parried  
+🩹 Fixed Blightpierce PEN ignoring the 50% PEN cap  
+🩹 Fixed Blood Orb Multiplying Spark not reducing the damage of the blood orbs  
+🩹 Fixed Brigand's Bicorn not appearing in loot pools  
+🩹 Fixed Celtor Commander Plate and Celtorian Sabatons not correctly appearing in certain loot pools  
+🩹 Fixed Champion's Dagger not appearing in loot pools  
+🩹 Fixed Champion's Sword not appearing in loot pools  
+🩹 Fixed characters briefly clipping into the ground when spawning in/teleporting  
+🩹 Fixed Cheap Shot PEN ignoring the 50% PEN cap  
+🩹 Fixed Chorus Divide Hyperarmor  
+🩹 Fixed Cult of Personality PEN ignoring the 50% PEN cap  
+🩹 Fixed Flameguard Boots not appearing in loot pools  
+🩹 Fixed Imperial Pauldrons not appearing in loot pools  
+🩹 Fixed Jumpstart M1's getting resisted by Gigamed lightning immunity  
+🩹 Fixed Krulian Knife lightning M1's getting resisted by Gigamed lightning immunity  
+🩹 Fixed not being able to enter The Vat (Gaunt Man's trial)  
+🩹 Fixed Pale Assassin Cloak not appearing in loot pools where it should have  
+🩹 Fixed Pugnacious's damage boost from killing others not working  
+🩹 Fixed Spine Cutter proccing on Moppet Critical  
+🩹 Fixed the player character softlocking when handing in the Shipping Schedule to the Etrean Guardmaster  
+🩹 Fixed the Ten-Gallon Hat not appearing in loot pools  
+🩹 Hopefully fixed not being able to remotely exile players whose accounts have been terminated  
+🩹 Rite of Authority tracks better onto the target  
+  
+_As we're hard at work on getting Vow of Iron out, this week's patch has been focused on fixing longstanding issues with balance, bugs, and server performance._
+
+### _**Patch 2.5.0a**_
+
+**Hotfixes**  
+📰 Hallowtide has drawn to its (somewhat extended) conclusion. Until next year!  
+🩹 Fixed invisible boats  
+🩹 Fixed humanoid mobs levitating, teleporting, running slowly, etc.
 
 ## **November 8th, 2025**
 
@@ -2098,7 +2523,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 ## **June 9th, 2025**
 
 **Content & Systems**  
-• Years of tidal and acidic erosion have dramatically altered the shores of Erisia, opening up new routes of travel and new areas to exploreA strange merchant has carved out a spot in the cliffs of Erisia  
+• Years of tidal and acidic erosion have dramatically altered the shores of Erisia, opening up new routes of travel and new areas to explore A strange merchant has carved out a spot in the cliffs of Erisia  
 • Ziplines have been reworked. If you tap space while near a zipline and facing its direction of travel, you'll now automatically hook on and ride them  
 • Letting go of a zipline at speed now keeps your momentum, letting you launch yourself forward. Your starting speed on ziplines is now also affected by your current velocity, letting you jump-start your zipline ride  
 • Replaced Bamboo on shorelines with a new ingredient: Marram Grass. Marram grass can be processed into fibers in the same way but makes more sense than bamboo growing on beaches  

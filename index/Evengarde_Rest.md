@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 186371
+revid: 186528
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
@@ -23,6 +23,8 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 ## Description
 
 Evengarde Rest is the current Maestro of the Vigils, having succeeded [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) and is highly respected by all of them. He resides within the [Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents people from introducing themselves to him until they get permission. [The Pathfinder](The_Pathfinder.md) can speak to rest if they save a Vigil swordsman named [Isaac](Vigil_Isaac.md). A master of combat arts, Rest is able to teach them how to overcome the limits of their weapon proficiencies.
+
+As a youth during the [Etrean Civil War](Etrean_Civil_War.md), Evengarde was known for being a prodigy and departed for the Western Luminant to train with [The Hundred Legions](The_Hundred_Legions.md).[\[1\]](#cite-note-1)
 
 Rest is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence." If you lack 75 points in your weapon type's attribute, he will not uncap it
 
@@ -185,4 +187,7 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
     -   A white [Deepwoken Cloak](Deepwoken_Cloak.md) may be dyed grey to obtain the same effect.
 -   After starting the teleport to the fight there is another dialogue box with Evengarde Rest saying "Let's see how your skills have improved, eh?"
 -   If you taunt him during your fight by pressing T, he will immediately activate his Tempest Eye and decapitate you, seeing it as disrespectful.
--   Maestro is around 16-23 years old during the events of Vow of iron,and he uses moon ring.
+
+## References
+
+1.  [↑](#cite-ref-1) [Dravik, the Rat King](<Dravik,_the_Rat_King_(NPC).md>)

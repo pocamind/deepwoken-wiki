@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 186434
+revid: 186603
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pages with broken file links, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
@@ -386,7 +386,7 @@ Radiant Teachings
 <tr>
   <td colspan="4">...How is she?</td>
   <td colspan="4">The Moonseye projects Light? Why is that?</td>
-  <td colspan="2">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this Oath with you.</td>
+  <td colspan="2">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this <a href="Glossary.md#oaths">Oath</a> with you.</td>
   <td colspan="2">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
   <td colspan="4">End</td>
 </tr>

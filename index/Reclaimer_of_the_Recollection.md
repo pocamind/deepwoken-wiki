@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 185982
+revid: 186558
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Voiced Characters]
@@ -16,7 +16,7 @@ notices:
 | name | Unknown |
 | alias | Reclaimer of the Recollection |
 | aspect | Gremor |
-| location | The Cerebral Spire, Fragments of Else |
+| location | The Cerebral Spire, Fragments of Else, Cerebral Requiem |
 | affiliation | Circle of Honour |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

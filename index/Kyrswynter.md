@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 184534
+revid: 186550
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -78,7 +78,7 @@ Both criticals share a cooldown of **9 seconds**.
 ### Trivia
 
 -   Previously the running critical used to have an Ice Blue indicator. This was later changed to a standard Red indicator to avoid confusion.
--   As stated in the description of the Kyrswynter, it explains how Old Kyrsan weaponry was far more pristine than New Kyrsan weaponry. [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) may have been the last ever modern Kyrsgarde to every conjure such a weapon, or it was safely passed down from his bloodline.
+-   As stated in the description of the Kyrswynter, it explains how Old Kyrsan weaponry was far more pristine than New Kyrsan weaponry. As implied by his sibling, [Naerotiv](Naerotiv.md), [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) was likely the last Kyrsan to create a weaponry of such intricacy.
 -   The Kyrswynter also used to be enchantable on release through [Laplace](Laplace.md). This was quickly patched 2 days after its release.
     -   Following enchanted weapon rules, Kyrswynter used to already come enchanted from [Frosviernr](Frosviernr_Joraelnaero.md) himself.
 -   The passive ability **Subzero Strike** is a reference to the [Fairfrozen](https://rogue-lineage.fandom.com/wiki/Fairfrozen) from Rogue Lineage, which is another ice-themed spear that possesses an ability of the same name. Their ability effects were also quite similar: The Fairfrozen's Subzero Strike also resulted in ragdolling the target backwards and applying ice, if landed.

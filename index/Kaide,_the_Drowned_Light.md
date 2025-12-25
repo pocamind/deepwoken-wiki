@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 184961
+revid: 186601
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Pages with broken file links, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -85,10 +85,10 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 </tr>
 <tr>
   <td colspan="15"></td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
   <td colspan="3">How did they reach your City? Isn't this place beneath the surface?</td>
   <td colspan="9"></td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="18"></td>
@@ -127,7 +127,7 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 </tr>
 <tr>
   <td colspan="3"></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +156,7 @@ This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped
 </tr>
 <tr>
   <td>Can I ask how long it's been?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td><i>*He sighs.*</i> I'm sure you know by now that time doesn't behave itself down here. But to put it into relative terms, <a href="Glossary.md#constellia-the-guiding-star">Constellia</a> fell some 77 years after the <a href="Glossary.md#the-celestials">Celestials</a> abandoned us. Truth be told, I don't know which calendar you're using or how long I've been down here, so I can't offer you much more than that.</td>
@@ -168,7 +168,7 @@ This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped
   <td>That's great, but I don't know what this '<a href="Glossary.md#the-citadel-of-markor">Citadel</a>' <i>is</i>. What I know of your kind is from <i>what I assume to be</i> a very long time ago. You were a fragmented people scattered across a waterlogged waste. We pitied you and though ourselves fortunate. How ironic.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -207,7 +207,7 @@ This dialogue is unlocked if the player has a [Soulthorn](Soulthorn.md) equipped
   <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -236,7 +236,7 @@ This dialogue is unlocked if the player has the [Oath: Starkindred](Oath%253A_St
   <td>They created you and yet you scorn them?</td>
   <td>I needn't listen to the prattling of a heretic.</td>
   <td>Their art?</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td>It is <i>because</i> they created us that I scorn them. As any child would a parent that leaves them to die to save their own skin.</td>
@@ -244,7 +244,7 @@ This dialogue is unlocked if the player has the [Oath: Starkindred](Oath%253A_St
   <td>You drank of their blood and you don't know why? Where Mankind modifies its surroundings with the <a href="Glossary.md#the-song">Song</a>, the <a href="Glossary.md#the-celestials">Celestials</a> modify themselves. Your drinking of their ichor is no doubt to facilitate a <a href="Glossary.md#vows">Vow</a> that imitates how the <a href="Glossary.md#the-celestials">Celestials</a> accessed it.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -268,7 +268,7 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
   <td>...If only it were that simple. The very fact you can come and go raises too many questions. If I left with you, would every other 'me' be convinced to do the same? My absence from your world already proves the choice I made long ago. Leave me to rest, mortal.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 185565
+revid: 186532
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

@@ -1,6 +1,6 @@
 ---
 title: The Death Knell
-revid: 185645
+revid: 186559
 source: https://deepwoken.fandom.com/wiki/The_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -46,7 +46,7 @@ Works with _[Untrained Fist](Untrained_Fist.md)_, _[Way of Navae](Way_of_Navae.m
 
 ## Critical
 
-The Death Knell has 4 different criticals. When a critical is landed, it will advance to the next phase. All of these criticals will drain the user's health on use, but will restore the user's health if it lands.
+The Death Knell has 4 different criticals. When a critical is landed, it will advance to the next phase. All of these criticals will drain the user's health on use, but will restore the user's health if they land.
 
 For the first critical, the user smacks the opponent with the lantern ([Way of Navae](Way_of_Navae.md), [Untrained Fist](Untrained_Fist.md), or [Fang and Coil](Fang_and_Coil.md) equipped) or grabs the opponent with the lantern ([Legion Kata](Legion_Kata.md) or [Imperium Kata](Imperium_Kata.md) equipped).
 

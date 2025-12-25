@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 177092
+revid: 186581
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Ignition Union]
@@ -18,7 +18,7 @@ categories: [Outfits, Adept Outfits, The Ignition Union]
 | droppable | Yes |
 | durability | 2000 |
 | resistances | +22% Physical Armor, +22% Elemental Armor |
-| obtainment | Sold by:, Nyanna for 80 , Traan Zakshun for 80 , At the Miner's Landing bankChests from:, Erisia/General Sea Event Loot, Primadon, The Depths, Lodestar |
+| obtainment | Sold by:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , At the Miner's Landing bankChests from:, Erisia/General Sea Event Loot, Primadon, The Depths, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

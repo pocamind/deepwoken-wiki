@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 186510
+revid: 186565
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -31,9 +31,27 @@ This content is not accessible outside of this gamemode.
 
 NOTE: If you unequip your [Imperator's Edge](<Imperator's_Edge.md>), you will **not** be able to re-equip it.
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Electrify \[Common Talent\] - Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
+    -   Deals self damage if used without being carried.
+
+-   _Imperium Kata_ \[Common Talent\] - Wield an advanced form of the Legion's martial arts.
+    -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md).
+
+-   [**Oath: Blightsurger**](Oath%253A_Blightsurger.md) \[Oath Talent\] - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
+
+-   Sovereign State \[Oath Talent\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
+    -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
+    -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
+    -   Sovereign State has a 10 second activation cooldown once the duration runs out.
+    -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
+        -   This keybind can be changed in settings.
+    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#weapon)_.
+    -   Skycrash will be automatically used twice in quick succession while in this state.
+    -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
+
+  
 
 | 
 **Name**
@@ -92,7 +110,7 @@ Oath + Blunt
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -106,6 +124,55 @@ Starter
 -   Applies Blightshock on hit.
 
  |
+
+## Deck of Recollection
+
+### Starting Deck
+
+-   Knuckle Guard \[Common Talent\] **100** \- Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
+    -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
+
+-   Blight Pierce \[Oath Talent\] **200** \- Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
+    -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock), canceling hyperarmor.
+    -   Sovereign Bangle, the Blightsurger exclusive weapon, and Blightsurge Mantras gain +?% more PEN.
+    -   This Talent is bugged and currently does not work.
+
+-   Storm Return \[Memento Talent\] **200** \- Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with [Lightning Cloak](Thundercall.md#lightning-cloak))
+    
+    -   Being under the effects of Electrify and Lightning Cloak will proc this effect.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Skycrash** (☆☆☆)
@@ -133,7 +200,7 @@ Blunt + Oath
 
  | 
 
-Power 1, 250
+**250**
 
  |
 | 
@@ -174,7 +241,7 @@ Wind
 
  | 
 
-Power 1, 250
+**250**
 
  |
 | 
@@ -189,7 +256,29 @@ Power 1, 250
 
  |
 
-### Power 5 Mantras
+### Power 5
+
+-   Sunken Predator \[Common Talent\] **100** \- Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
+    -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
+    -   Players are only slowed a little bit for less time instead.
+
+-   _Chronostasis_ \[Rare Talent\] **250** \- Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
+
+-   _Everchanging Aegis_ \[Rare Talent\] **250** \- You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
+    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
+        -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
+    -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
+    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
+        -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
+
+-   _Showstopper_ \[Rare Talent\] **250** \- When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
+
+-   _Speed Demon_ \[Rare Talent\] **250** \- Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
+    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
+    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
+    -   Works with M1s and criticals.
+
+  
 
 | 
 **Name**
@@ -248,7 +337,7 @@ Wind
 
  | 
 
-Power 5, 450
+**450**
 
  |
 | 
@@ -283,7 +372,7 @@ Lightning
 
  | 
 
-Power 5, 450
+**450**
 
  |
 | 
@@ -299,7 +388,21 @@ Power 5, 450
 
  |
 
-### Power 10 Mantras
+### Power 10
+
+-   Critical Attack \[Quest Talent\] **100** \- Landing a hit with your critical restores 30% of your posture. (+1 Posture)
+
+-   Suffocating Impact \[Common Talent\] **100** \- Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
+
+-   Blighted Touch \[Oath Talent\] **200** \- Landing Basic Attacks during Sovereign State now applies Blightshock.
+    -   This allows your Sovereign Bangle to apply Wither on hit.
+
+-   _Cheap Shot_ \[Rare Talent\] **250** \- Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
+    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN.
+    -   Cheap Shot cannot bypass the PEN cap.
+    -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.22% PEN (or 1.072x PEN) at 40 Agility.
+
+  
 
 | 
 **Name**
@@ -358,7 +461,7 @@ Wind + Blunt
 
  | 
 
-Power 10, 700
+**700**
 
  |
 | 
@@ -401,7 +504,7 @@ Wind + Slash
 
  | 
 
-Power 10, 700
+**700**
 
  |
 | 
@@ -415,7 +518,31 @@ Power 10, 700
 
  |
 
-### Power 15 Mantras
+### Power 15
+
+-   Matador \[Common Talent\] **100** \- Deal +20% more damage to human enemies with hyperarmor.
+    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
+
+-   Stratoshock \[Common Talent\] **100** \- Your lightning deals an additional +5% damage when in the rain.
+    -   Thundercall damage innately gains a 5% damage buff during rain, with Stratoshock increasing this to +10% damage.
+
+-   Vacuum Punch \[Common Talent\] **100** \- Your Gale Punch pulls enemies in before you hit them.
+    -   Gale punch mantra will now pull players towards the user during the windup of the mantra. (Cannot be feinted)
+
+-   Windup Battery \[Common Talent\] **100** \- Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
+    -   Applies this bonus to non-Thundercall Mantras.
+
+-   Anchor Shock \[Oath Talent\] **200** \- Your Blightshock prevents targets from using mobility mantras.
+    -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
+    -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.
+
+-   _Static Fakeout_ \[Rare Talent\] **250** \- Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
+
+-   _Stifled Jump_ \[Rare Talent\] **250** \- [Suffocating](Status_Effects.md#suffocate) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. (+2 Passive Agility)
+    -   Similar to the Bear Trap talent, procs Daze when you jump.
+    -   The daze effect lasts for 1 second.
+
+  
 
 | 
 **Name**
@@ -474,7 +601,7 @@ Wind + Slash
 
  | 
 
-Power 15, 950
+**950**
 
  |
 | 
@@ -517,7 +644,7 @@ Oath + Blunt
 
  | 
 
-Power 15, 950
+**950**
 
  |
 | 
@@ -530,7 +657,12 @@ Power 15, 950
 
  |
 
-### Power 20 Mantras
+### Power 20
+
+-   Blightlash \[Oath Talent\] **200** \- Your swing range is enhanced during Sovereign State.
+    -   Increases the range of the Sovereign Bangle from 6 to 7.
+
+  
 
 | 
 **Name**
@@ -589,7 +721,7 @@ N/A
 
  | 
 
-Power 20, 1,250
+**1,250**
 
  |
 | 
@@ -634,7 +766,7 @@ Lightning
 
  | 
 
-Power 20, 1,250
+1,250
 
  |
 | 
@@ -649,129 +781,6 @@ Power 20, 1,250
 -   Can be blocked.
 
  |
-
-## Available Talents
-
-### Starting Talents
-
--   Electrify \[Common Talent\] - Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
-    -   Deals self damage if used without being carried.
-    -   Requirements: Starter
-
--   _Imperium Kata_ \[Common Talent\] - Wield an advanced form of the Legion's martial arts.
-    -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md).
-    -   Requirements: Starter
-
--   [**Oath: Blightsurger**](Oath%253A_Blightsurger.md) \[Oath Talent\] - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
-    -   Requirements: Starter
-
--   Sovereign State \[Oath Talent\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
-    -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
-    -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
-    -   Sovereign State has a 10 second activation cooldown once the duration runs out.
-    -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
-        -   This keybind can be changed in settings.
-    -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#weapon)_.
-    -   Skycrash will be automatically used twice in quick succession while in this state.
-    -   Increases the Wither damage that Sovereign Drive and Warp Kick deal.
-    -   Requirements: Starter
-
--   Knuckle Guard \[Common Talent\] - Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
-    -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
-    -   Requirements: Power 1, 100
-
--   Blight Pierce \[Oath Talent\] - Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
-    -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock), canceling hyperarmor.
-    -   Sovereign Bangle, the Blightsurger exclusive weapon, and Blightsurge Mantras gain +?% more PEN.
-    -   This Talent is bugged and currently does not work.
-    -   Requirements: Power 1, 200
-
--   Storm Return \[Memento Talent\] - Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with [Lightning Cloak](Thundercall.md#lightning-cloak))
-    
-    -   Being under the effects of Electrify and Lightning Cloak will proc this effect.
-    -   Requirements: Power 1, 200
-
-### Power 5 Talents
-
--   Sunken Predator \[Common Talent\] - Enemies you hit in the water or the depths have their speed buffs nullified and are slowed. (+1 Passive Agility)
-    -   Monsters are greatly slowed for a few seconds and can be frozen in place with enough hits.
-    -   Players are only slowed a little bit for less time instead.
-    -   Requirements: Power 5, 100
-
--   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
-    -   Requirements: Power 5, 250
-
--   _Everchanging Aegis_ \[Rare Talent\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
-    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
-        -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
-    -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
-    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
-        -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
-    -   Requirements: Power 5, 250
-
--   _Showstopper_ \[Rare Talent\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
-    -   Requirements: Power 5, 250
-
--   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
-    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
-    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
-    -   Works with M1s and criticals.
-    -   Requirements: Power 5, 250
-
-### Power 10 Talents
-
--   Critical Attack \[Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
-    -   Requirements: Power 10, 100
-
--   Suffocating Impact \[Common Talent\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
-    -   Requirements: Power 10, 100
-
--   Blighted Touch \[Oath Talent\] - Landing Basic Attacks during Sovereign State now applies Blightshock.
-    -   This allows your Sovereign Bangle to apply Wither on hit.
-    -   Requirements: Power 10, 200
-
--   _Cheap Shot_ \[Rare Talent\] - Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
-    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN.
-    -   Cheap Shot cannot bypass the PEN cap.
-    -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.22% PEN (or 1.072x PEN) at 40 Agility.
-    -   Requirements: Power 10, 250
-
-### Power 15 Talents
-
--   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
-    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
-    -   Requirements: Power 15, 100
-
--   Stratoshock \[Common Talent\] - Your lightning deals an additional +5% damage when in the rain.
-    -   Thundercall damage innately gains a 5% damage buff during rain, with Stratoshock increasing this to +10% damage.
-    -   Requirements: Power 15, 100
-
--   Vacuum Punch \[Common Talent\] - Your Gale Punch pulls enemies in before you hit them.
-    -   Gale punch mantra will now pull players towards the user during the windup of the mantra. (Cannot be feinted)
-    -   Requirements: Power 15, 100
-
--   Windup Battery \[Common Talent\] - Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
-    -   Applies this bonus to non-Thundercall Mantras.
-    -   Requirements: Power 10, 100
-
--   Anchor Shock \[Oath Talent\] - Your Blightshock prevents targets from using mobility mantras.
-    -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
-    -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.
-    -   Requirements: Power 15, 200
-
--   _Static Fakeout_ \[Rare Talent\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
-    -   Requirements: Power 15, 250
-
--   _Stifled Jump_ \[Rare Talent\] - [Suffocating](Status_Effects.md#suffocate) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. (+2 Passive Agility)
-    -   Similar to the Bear Trap talent, procs Daze when you jump.
-    -   The daze effect lasts for 1 second.
-    -   Requirements: Power 15, 250
-
-### Power 20 Talents
-
--   Blightlash \[Oath Talent\] - Your swing range is enhanced during Sovereign State.
-    -   Increases the range of the Sovereign Bangle from 6 to 7.
-    -   Requirements: Power 20, 200
 
 ## Boss Unlocks
 

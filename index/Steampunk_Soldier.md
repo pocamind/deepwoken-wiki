@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 186506
+revid: 186539
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Steampunk Soldier** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon; a Pistol, Rifle, or Greatcannon. [Rifle Spear](Rifle_Spear.md) counts as a Rifle.
+**Steampunk Soldier** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon; a Pistol, Rifle, or Greatcannon. [Rifle Spear](Rifle_Spear.md) counts as a Rifle and a spear, meaning many Mementos can equip it.
 
 ## Available Mantras
 
@@ -144,7 +144,7 @@ Starter
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
 -   If used in water, the daggers won't spawn.
 -   Can grant an additional effect with the _Frozen Pin-Cushion_ Talent, which freezes the target or detonates their crystals upon hit.
--   Can be modified with [Crystal](Mantra_Modifiers.md) and [Perfect Lenses](Mantra_Modifiers.md) to increase the range of casting the Mantra.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
 
  |
 | 
@@ -171,7 +171,7 @@ Fire
 
  | 
 
-Power 1 and 250
+Power 1, 250
 
  |
 | 
@@ -215,7 +215,7 @@ Ice
 
  | 
 
-Power 1 and 250
+Power 1, 250
 
  |
 | 
@@ -231,7 +231,6 @@ Power 1 and 250
 -   You can press block during the windup to cancel the impale.
 -   Both the impact and the detonation are parriable.
 -   User gains considerable forward momentum on use.
--   Shares a cooldown with [Gale Lunge](Galebreathe.md#gale-lunge).
 
  |
 
@@ -291,7 +290,7 @@ Ice
 
  | 
 
-Power 5 and 450
+Power 5, 450
 
  |
 | 
@@ -335,16 +334,15 @@ Power 5 and 450
 
 -   Battle Tendency \[Common Talent\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
     -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Cauterized Wounds \[Common Talent\] - Blood loss from all sources is lowered. (+1 Passive Agility)
     -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
-    -   Stacks with Alloyblood.
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Cool Head \[Common Talent\] - If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown
     -   While the effect is active, the user breathes cold air.
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
     -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
@@ -356,20 +354,18 @@ Power 5 and 450
         -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
         -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
         -   Lasting Charisma (at reqs): 20s -> 10s
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
-    -   Requirements: Power 1 and 100
-        -   The head equipment "[Chef's Toque](<Chef's_Toque.md>)" has this Talent.
+    -   Requirements: Power 1, 100
 
 -   Hell's Partisan \[Common Talent\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
     -   Deals 5 Flamecharm damage.
     -   This is parryable, but is not blockable nor dodgeable due to hitstun.
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
-    -   Requirements: Power 1 and 100
-    -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
+    -   Requirements: Power 1, 100
     -   Does not work when eating [Pufferfish](Fishing.md) (gamebreaking).
 
 -   Kick Off \[Common Talent\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
@@ -377,34 +373,32 @@ Power 5 and 450
     -   Increases climb distance by ~15% when off cooldown.
     -   Slide jumping now also slightly increases climb distance.
     -   Has a cooldown of 3 seconds.
-    -   Requirements: Power 1 and 100
-    -   The [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Delver's Duster](<Delver's_Duster.md>), and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>) equipment items have this Talent.
+    -   Requirements: Power 1, 100
 
 -   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
     -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
     -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Moving Fortress \[Common Talent\] - Blocking no longer slows you down as much. (+1 Posture)
     -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Old Habits Die Hard \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
-    -   Stacks with the [Boon](Boons_and_Flaws.md#packmule) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Produce Spark \[Common Talent\] - A simple production of Flame for the use of making Campfires.
     -   Grants a Talent tool that works like an infinite [Flint](Flint.md).
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
     -   This effect is signalled by a yellow halo.
     -   Has a 4 second activation window with a 10 second duration.
     -   This talent will still proc if you hit a knocked enemy.
-    -   Requirements: Power 1 and 100
+    -   Requirements: Power 1, 100
 
 -   Armor Piercing \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
@@ -412,10 +406,9 @@ Power 5 and 450
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
     -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
         -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
-        -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
+        -   For [Rosen's Hellflame](<Rosen's_Hellflame.md>), it will only circumstantially benefit from Armor Piercing, because of its elemental damage.
             -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
-    -   Requirements: Power 1 and 250
-        -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
+    -   Requirements: Power 1, 250
 
 ### Power 5 Talents
 
@@ -426,38 +419,31 @@ Power 5 and 450
     -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
     -   Has a 1 second cooldown.
     -   Can spread to allies. The Controlled Combustion Talent will prevent Agitating Spark spreading burn to yourself and your allies.
-    -   Requirements: Power 5 and 100
+    -   Requirements: Power 5, 100
 
 -   Bottom Freeze \[Common Talent\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Prevents you from rotating your character and moving around overall.
-    -   Requirements: Power 5 and 100
+    -   Requirements: Power 5, 100
 
 -   Flaming Flourish \[Common Talent\] - Set enemies on fire when you flourish or uppercut them.
     -   You also apply burn on enemies by swinging uppercut nearby. Aka doesn't have to be a hit to apply burn.
-    -   Requirements: Power 5 and 100
+    -   Requirements: Power 5, 100
 
--   Immolation \[Flamecharm Exclusive, Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
+-   Immolation \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
     -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
         -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow) or [Metal Eruption](Ironsing.md#metal-eruption)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
-    -   Requirements: Power 5 and 100
+    -   Requirements: Power 5, 100
 
 -   Frozen Pin-Cushion \[Rare Talent\] - Ice Daggers now freeze opponents.
-    -   With crystal path, instantly procs Crystallization upon landing on the target, knocking them backwards and deal more damage.
-    -   Requirements: Power 5 and 250
+    -   Requirements: Power 5, 250
 
 -   True Ether Bullets \[Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
-    -   Requirements: Power 5 and 250
+    -   Requirements: Power 5, 250
         -   Landing 2 shots will make the 3rd shot deal elemental damage.
             -   The 3rd shot apply your attunement's elemental effect:
                 -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
                 -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
-                -   Thundercall: Your bullets apply shock/surge stack (Surge)
-                -   Galebreathe: Your bullets after cut and apply winded briefly
-                -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
-                -   Ironsing: Your bullets apply metal rods
-                -   Bloodrend: Your bullets drain blood
+                -   The other Attunements' effects are not listed here due to being irrelevant to this Memento. See the [Talents page](Talents.md#true-ether-bullets) for this Talent's full effect.
             -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-        -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
-        -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
-        -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
+        -   This Talent does not make guns scale off your attunement attribute, it just converts your Physical Damage to Elemental Damage.

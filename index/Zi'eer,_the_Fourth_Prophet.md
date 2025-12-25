@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 185755
+revid: 186557
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -28,14 +28,14 @@ Zi'eer, the Fourth Prophet of the Ministry, is the final [boss](Bosses.md) and m
 
 If the Inheritor challenges him within the [Etris Palace](Etris_Palace.md), they are transported to [The Throne of Lies](The_Throne_of_Lies.md), where they are faced with a great challenge. Regardless of outcome, this is the end of their journey through Etrea's past. Post-fight, the Inheritor encounters the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing them that nobody was truly able to best Zi'eer, but he hopes memories from the mementos might reveal a weakness.
 
-The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer to his second phase regardless if the Inheritor won. Once you defeat him, you obtain the "[Memory Surpassed](https://www.roblox.com/badges/2089071245865412/Memory-Surpassed)" badge, which gives a free character slot.
+The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer to his second phase, regardless if the Inheritor won. Once you defeat him, you obtain the "[Memory Surpassed](https://www.roblox.com/badges/2089071245865412/Memory-Surpassed)" badge, which gives a free character slot.
 
 ### Starting the Fight with Zi'eer
 
 1.  Defeat the [True Heart of Enmity](True_Heart_of_Enmity.md) (can be done at any power), which then spawns you at the palace. Attack the statue to break the barrier around the palace.
 2.  Recommended but not mandatory: Reach Power 20.
 3.  If you left the server where you destroyed the barrier, you will need to return to [Etris](<Etris_(Vow_of_Iron).md>) and kill one of the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) around the island.
-4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialog, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing. If you're below power 10 when you get teleported, you will get kicked with the message "Nice try man".**_
+4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialogue, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing. If you're below power 10 when you get teleported, you will get kicked with the message "Nice try man".**_
 
 ## Moves
 
@@ -59,7 +59,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
  | Zi'eer summons his tendrils from the ground, indicated by white circles on the ground that appear 1-3 times.
 
--   jumping whilst parrying this move will cause Zi'eer to use **Touch of Prepared Equalizer**.
+-   jumping whilst parrying this move will cause Zi'eer to use **Flash Equalizer**.
 -   This move only appears during his first phase.
 
  |  |
@@ -82,7 +82,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
  | Unlike Circular Slices, Zi'eer summons an AOE attack that if the Inheritor doesn't manage to react, they get put in Judgement and get sliced rapidly.
 
--   This is a red move, meaning you have to dodge in order to avoid getting attacked by his move
+-   This is a red move, meaning you have to dodge in order to avoid getting attacked by his move.
 -   This move only appears during his first phase.
 
  |  |
@@ -102,7 +102,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 **Dash Kick**  
 (★★★)
 
- | Zi'eer performs a two fast, dashing kicks, chaining into into **Prophet's Drop Punch**
+ | Zi'eer performs a two fast, dashing kicks, chaining into into **Prophet's Drop Punch**.
 
 -   This move only occurs during his second phase.
 -   This move is marked by a red indicator.
@@ -136,7 +136,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 **Reeled Requiem**  
 (★★★)
 
- | Zi'eer teleports to the Inheritor, attaches a string to them, punches them away, pulls them back in, and delivers a second punch. The second punch has very, very high knockback.
+ | Zi'eer teleports to the Inheritor and attaches a string to the Inheritor before punching them away and pulling them back in to deliver a second punch. The second punch has very high knockback; sending you across the arena.
 
 -   This move only occurs during his second phase.
 
@@ -146,8 +146,9 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 **Enhanced Requiem**  
 (★★★)
 
- | This move is indenticle to **Reeled Requiem** except it is unparryable.
+ | Zi'eer teleports to the Inheritor indenticle to **Reeled Requiem** except it is unparryable. Getting hit by this attack will put you in a **Prepared Equalizer** state.
 
+-   This move is marked by a red indicator.
 -   This move only occurs during his second phase.
 
  |  |
@@ -169,7 +170,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
  | Zi'eer initiates a special voiceline. _**"I wonder if you could react to this"**_, followed by an extremely fast punch.
 
--   This move only occurs during his second phase.
+-   This move only occurs once during his second phase.
 
  |  |
 | 
@@ -186,9 +187,9 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
 ### Passives
 
--   Contractor Wall - In Zi'eer's first phase, he summons endless waves of strings to block the Inheritor. Slicing through these walls is the only possible way to reach him.
--   Prepared Equalizer - Zi'eer's string will latch on to and slice the Inheritor's limbs rapidly, freezing the Inheritor in an Equalizer state and dealing very high damage if they fail to react to certain moves. Venting can end this state early.
--   Prophet's Shield - During Zi'eer's second phase, he cannot be damaged. Only his shield, which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield, can. Zi'eer's shield is disabled when using the **The Master Of The House** attack, allowing for the fight to end.
+-   **Contractor Wall** - In Zi'eer's first phase, he summons endless waves of strings to block the Inheritor. Slicing through these walls is the only possible way to reach him.
+-   **Prepared Equalizer** - Zi'eer's string will latch on to and slice the Inheritor's limbs rapidly, freezing the Inheritor in an Equalizer state and dealing very high damage if they fail to react to certain moves. Venting can end this state early.
+-   **Prophet's Shield** - During Zi'eer's second phase, he cannot be damaged. Only his shield, which acts like [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md)'s gale shield, can. Zi'eer's shield is disabled when using the **The Master Of The House** attack, allowing for the fight to end.
 
 ## Gallery
 

@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 184512
+revid: 186591
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -67,3 +67,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
 -   Meeting the requirement of SDW and HVY, the weapon deals 35.8 damage.
 -   At max SDW and HVY, the weapon deals 43.5 damage.
 -   Despite being named **Crypt** Blade, it cannot be found at the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md). The "Crypt" is likely metaphorical, representing how it's made from corpses.
+-   The first person to wield a Crypt Blade was the user Flashbacking during closed access.

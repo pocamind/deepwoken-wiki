@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Mantle"
-revid: 181905
+revid: 186576
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Arms, Equipment, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Arms, Equipment, Equipment with Set Bonuses]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Doom of Caeranthil |
+| obtainment | The Doom of CaeranthilVow of Iron:, Sold in Naan Zakshun's black market for 3,000 |
 | description | A finely woven gown imbued with the artistry of master songsmiths from the Northern Luminant. Enchanted by melodies intricately woven into its fabric, this garment bestows supernatural properties, amplifying the wearer's prowess and performance in battle. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

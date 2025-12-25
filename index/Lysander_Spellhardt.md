@@ -1,6 +1,6 @@
 ---
 title: Lysander Spellhardt
-revid: 178999
+revid: 186593
 source: https://deepwoken.fandom.com/wiki/Lysander_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Pages with broken file links, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -277,6 +277,4 @@ When you complete his quest, he will say this.
 
 1.  [↑](#cite-ref-1) [Galpin Spellhardt, Musicologist Extraordinaire](Galpin_Spellhardt,_Musicologist_Extraordinaire.md)
 2.  [↑](#cite-ref-2) [Brasidas Spellhardt](Brasidas_Spellhardt.md)
-3.  [↑](#cite-ref-3)
-    
-    File:New lightborn lore just dropped chat.png
+3.  [↑](#cite-ref-3) File:New lightborn lore just dropped chat.png

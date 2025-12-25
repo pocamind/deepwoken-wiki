@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 186442
+revid: 186568
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -834,7 +834,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Charismatic Cast \[Common Talent, Charisma\] - Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
     -   This charm lasts 10s (5s against Disbelief Talent).
     -   Targets _you've_ Charmed will deal 10% less damage to you.
-    -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have Chaotic Charm if you wish to get use out of Charismatic Cast during ganks and other team fights.
+    -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have Lasting Charisma if you wish to get use out of Charismatic Cast during ganks and other team fights.
     -   Prerequisite: 25 Charisma
 
 -   Chaotic Charm \[Common Talent, Charisma\] - Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
@@ -1625,7 +1625,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
                 -   Bloodrend: Your bullets drain blood
             -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
         -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
-        -   This Talent does not make guns scale off your attunement. It still scales off your Light/Medium Weapon stat but just converts your Physical Damage to Elemental Damage.
+        -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
         -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
 
 -   _**Prime Ether Bullets**_ \[Advanced Talent\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
@@ -2961,12 +2961,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Gilded Path: Scrapsinger, 50 Ironsing
 
 -   _**Reshape and Remold**_ \[Advanced Talent, Ironsing Exclusive\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
-    -   Gives 25% armor **DRAIN** bonus, basically each rod **DRAIN** 2.5% instead of 2%.
-    -   You **STEAL** same amount of armor as if you used a iron pull.
+    -   Increases the armor **drain** effect of your rods by 25%, from 2% drain to 2.5%.
     -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
-    -   Bonus armor drain works **ONLY ON CRIT OR FLOURISH**, not on further hits after that.
-    -   5% DMG bonus currently bugged. (Since Summer 2023)
-    -   After getting this talent, you get additional VFX when proc Scrapsinger. [\[2\]](#cite-note-2)
+    -   5% DMG bonus is currently bugged. (Since Summer 2023)
+    -   Your Scrapsinger proc vfx is changed after obtaining this Talent.
     -   Prerequisites: 70 Ironsing, All Scrapsinger Talents
 
 ### Septicemia
@@ -4768,6 +4766,10 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 ### Steelvessel
 
+-   Alloy Siphon \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Iron Pull siphons armor from your foes, restoring your posture.
+    
+    -   Prerequisites: [Iron Vessel](Iron_Vessel.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
 -   Steelvessel \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landed attacks deal posture damage but when guard broken take massive damage. Posture gain on parry is reduced.
     
     -   Take posture damage instead of health damage. You can be guardbroken by being hit.
@@ -5166,4 +5168,3 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2)

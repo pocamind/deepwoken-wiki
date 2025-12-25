@@ -1,11 +1,9 @@
 ---
 title: Iron Vessel
-revid: 185926
+revid: 186529
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
-notices:
-  - "This page is currently being worked on. Missing True Heart of Enmity drop & P20 Shop"
+categories: [Vow of Iron Exclusive, Mementos]
 ---
 
 # Iron Vessel
@@ -14,11 +12,12 @@ notices:
 |---|---|
 | description | A master of iron - both in blade, and in the song. |
 | unlock | Defeat Shogun Captain |
+| starting health | 160 |
 | starting attributes | 5 Ironsing, 3 Medium Weapon, 5 Fortitude, 1 Agility, 2 Intelligence |
 | final attributes | 100 Ironsing, 50 Medium Weapon, 100 Fortitude, 10 Agility, 70 Intelligence |
 | starting traits | 5 Songchant, 5 Proficiency, 1 Dexterity, 1 Erudition |
 | final traits | 6 Songchant, 6 Proficiency, 2 Dexterity, 2 Erudition |
-| starting armor | Blacksteel Attrire |
+| starting armor | Blacksteel Attire |
 | allowed weapons | Sword, Club, Dagger |
 | starting weapons | Ferractine |
 
@@ -500,6 +499,116 @@ Power 15, 950
 
  |
 
+### Power 20 Mantras
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Iron Slam** (★★★)
+
+_Conjure a giant rod of metal and slam it down._
+
+ | 
+
+## Iron Slam (★★★)
+
+  
+_Conjure a giant rod of metal and slam it down._
+
+ |
+| 
+
+40 Ether
+
+ | 
+
+Metal + Slash + [Bleed](Status_Effects.md#bleed)
+
+ | 
+
+Power 20, 1,200
+
+ |
+| 
+
+**Effect:** _Form a large spiky iron rod before slamming it down forwards._
+
+-   Has a base damage of 35/38.5/42/45.5/49 per level with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 16.5 posture damage at levels 1-4, guard breaks at level 5.
+-   Has a windup of 0.73 seconds with a cooldown of 18 seconds.
+-   Has 9.18X PvE scaling (58.6 DMG + 17.5 [Bleed](Status_Effects.md#bleed) PVP, 537.98 DMG + 161.4 [Bleed](Status_Effects.md#bleed) PVE)
+-   Can be modified with [Cloudstones](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to drastically increase the size of the rod.
+
+ |
+| 
+
+**Oxidizing Rush** (★★☆)
+
+_Conjure metal swords and rush forward with them._
+
+ | 
+
+## Oxidizing Rush (★★☆)
+
+  
+_Conjure metal swords and rush forward with them._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Metal + Slash + [Bleed](Status_Effects.md#bleed)
+
+ | 
+
+Power 20, 1,200
+
+ |
+| 
+
+**Effect:** _Conjure a vortex of blades before rushing forward, dealing moderate damage._
+
+-   Has a base damage of 2/3.25/4.5/5.75/7 damage per level, per hit (10) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
+-   Deals 1 posture damage per hit (10).
+-   Has a windup of 0.5 seconds with a cooldown of 13 seconds.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
+-   Applies Metal Rods on hit.
+-   Sends you 5 studs forward on cast
+
+ |
+
 ## Available Talents
 
 ### Starting Talents
@@ -592,6 +701,16 @@ Power 15, 950
 -   _**Piercing Blow**_ \[Advanced Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
     -   Requirements: Power 15, 350
 
+### Power 20 Talents
+
+-   _**Reshape and Remold**_ \[Advanced Talent\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
+    -   Increases the armor **drain** effect of your rods by 25%, from 2% drain to 2.5%.
+    -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
+    -   5% DMG bonus is currently bugged. (Since Summer 2023)
+    -   Your Scrapsinger proc vfx is changed after obtaining this Talent.
+    -   This Memento does not obtain Scrapsinger at any point, causing this Talent to not function.
+    -   Requirements: Power 20, 350
+
 ## Boss Unlocks
 
 ### Shogun of the Prophet's Guard
@@ -682,3 +801,7 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 -   Direct hits **autogrip** players if low enough or knocked.
 
  |
+
+### True Heart of Enmity
+
+-   Alloy Siphon \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Iron Pull siphons armor from your foes, restoring your posture.

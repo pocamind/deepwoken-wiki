@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 185783
+revid: 186571
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -37,14 +37,26 @@ To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on myster
     -   One underneath the stairs near the Group of Etrean Nobles inside of [The Golden Rat](The_Golden_Rat.md)
     -   One inside of [The Entropy Catalyst](The_Entropy_Catalyst.md)
     -   One an island to the northeast of [Meteor Isle](Meteor_Isle.md)
-
--   -   One inside of a cell in the Fort Merit prison tower
+    -   One inside of a cell in the Fort Merit prison tower
     -   One on top of the [Songseeker Temple](Songseeker_Temple.md)
     -   One on an island west of [Etris](<Etris_(Vow_of_Iron).md>)
+    -   One in Etris Palace, right above Lord Regent
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Magic Coffin \[Memento Talent\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.
+    
+    -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20.
+    -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
+    -   There is a 1% chance to get the Enforcer plush, giving you high tier loot. This chance is increased by 1% per level, up to 20% at power 20.
+    -   There is a 5-10% chance to roll a **blank**, doubling the chest of the next box. This can stack.
+    -   Coffin activation uses your Resonance keybind.
+    -   You can use any weapon or equipment item without meeting their **attribute** requirements.
+
+-   Benefactor: \[Equipment Talent\] - Gain reputation for selling goods to Antiquarians within faction territories.
+    -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
+
+  
 
 | 
 **Name**
@@ -103,7 +115,7 @@ Oath
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -141,7 +153,7 @@ N/A
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -156,6 +168,74 @@ Starter
 -   Can be upgraded with the **Propagandist** Talent, granting your allies [Overcharm](Status_Effects.md#overcharm) for 15 seconds.
 
  |
+
+## Deck of Recollection
+
+### Starting Deck
+
+-   Compelling Offer \[Common Talent\] **100** \- Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\]
+    -   Procs when attacking charmed enemies who are below 50% health.
+    -   Madness prevents non-boss enemies from dealing damage or hitstunning you.
+
+-   Cornered Fool \[Common Talent\] **100** \- Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
+    -   Despite what the description states, this applies Taunt for 6 seconds.
+    -   The Taunt damage buff is also applied to the attack that guard broke.
+
+-   Ether Blade \[Common Talent\] **100** \- You gain Ether when you parry Mantras.
+
+-   Off Your Game \[Common Talent\] **100** \- You now slow Taunted enemies when you hit them.
+
+-   Tough Love \[Common Talent\] **100** \- Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charmed](Status_Effects.md#charm) briefly.
+    -   Charms for 2 seconds with a 1 second cooldown.
+    -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
+    -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
+    -   Procs its charm through block, parry, and dodge.
+    -   This damage buff is only applied if **your** Charm is applied to the target. Due to how Charm works, it is highly recommended that you have a high Charm duration from Lasting Charisma if you wish for this Talent to function in large-scale ganks.
+    -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.
+
+-   Deal Maker \[Memento Talent\] **200** \- Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales.
+    
+    -   Increases the sell price of all items by 20 notes.
+    -   This is applied **after** Snake Oil.
+
+-   _Observation_ \[Rare Talent\] **250** \- Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
+
+-   _**Dazing Finisher**_ \[Advanced Talent\] **350** \- Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
+    -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Taunt** (☆☆☆)
@@ -183,7 +263,7 @@ N/A
 
  | 
 
-Power 1, 250
+**250**
 
  |
 | 
@@ -200,7 +280,41 @@ Power 1, 250
 
  |
 
-### Power 10 Mantras
+### Power 10
+
+-   Chaotic Charm \[Common Talent\] **100** \- Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
+    -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
+    -   The additional damage reduction from Chaotic Charm scales on your Charisma investment, gaining 0.15% damage reduction per point in Charisma.
+        -   This damage reduction is combined multiplicatively with Charm due to them being separate status effects.
+    -   Automatically procs narcissist
+    -   Deals 0.1 typeless damage whenever it procs.
+    -   Can be blocked, preventing damage and Charm proc.
+    -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
+    -   Will apply combat tag against opponents.
+    -   Has 0.25s cooldown.
+    -   Typeless self damage will not proc Chaotic Charm, but something like Flame Within will.
+
+-   Critical Engine \[Common Talent\] **100** \- You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+    -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
+    -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
+    -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
+    -   See info on specific [Deep Gems](Deep_Gems.md) on their individual pages.
+
+-   Dragon's Song \[Common Talent\] **100** \- Using a mantra after an uppercut grants ether. 2s CD
+    -   Grants +20 Ether on proc.
+
+-   Sweeten the Deal \[Common Talent\] **100** \- [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
+
+-   Target Switch \[Common Talent\] **100** \- Parrying an opponent then hitting someone else makes your next mantra free.
+    -   This effect is signalled by a yellow halo.
+    -   Has a 4 second activation window with a 10 second duration.
+    -   This talent will still proc if you hit a knocked enemy.
+
+-   _Encore_ \[Rare Talent\] **250** \- Your sing will stun opponents who are already charmed.
+    -   On proc, apply 0.4s of "full stun". This can interrupt enemy attacks.
+    -   Doesn't affect allies.
+
+  
 
 | 
 **Name**
@@ -259,7 +373,7 @@ Oath
 
  | 
 
-Power 10, 700
+**700**
 
  |
 | 
@@ -275,7 +389,41 @@ Power 10, 700
 
  |
 
-### Power 15 Mantras
+### Power 15
+
+-   Charismatic Cast \[Common Talent\] **100** \- Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
+    -   This charm lasts 10s (5s against Disbelief Talent).
+    -   Targets _you've_ Charmed will deal 10% less damage to you.
+    -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen.
+
+-   Manipulator \[Common Talent\] **100** \- Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
+    -   10 second cooldown.
+    -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
+        -   Will not allow you to proc Manipulator twice as it has a cooldown.
+    -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
+    -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
+        -   For example, a 5 hit multihit critical will only gain the 20% damage bonus from Manipulator on the first hit as it only procs once and then goes on cooldown.
+        -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
+
+-   Narcissist \[Common Talent\] **100** \- Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
+    -   Overcharms yourself for 4 seconds.
+    -   Charms yourself for 8 seconds (halved to 4s if you have Disbelief).
+        -   The self Charm proc reduces self damage taken by 10% and allows you to benefit from Charismatic Cast's secondary effect, which reduces your time knocked by 50%.
+    -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents.
+
+-   Snake Oil \[Common Talent\] **100** \- Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you.
+    -   Gain 40% more notes from selling items.
+
+-   Protagonist Syndrome \[Oath Talent\] **200** \- The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast.
+    -   Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage.
+
+-   _Golden Tongue_ \[Rare Talent\] **250** \- Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)
+    -   Sending a message in chat or using an emote will proc this Talent.
+    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to [Reinforce](Attunement-less.md#reinforce) (does not stack).
+    -   The buff is random for each person affected.
+    -   For every point in Charisma above 40, the cooldown will be decreased by 0.25 seconds, having a 45 second cooldown at 100 Charisma.
+
+  
 
 | 
 **Name**
@@ -334,7 +482,7 @@ Oath
 
  | 
 
-Power 1, 950
+**950**
 
  |
 | 
@@ -346,152 +494,13 @@ Power 1, 950
 
  |
 
-## Available Talents
+### Power 20
 
-### Starting Talents
-
--   Magic Coffin \[Memento Talent\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.
-    
-    -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20.
-    -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
-    -   There is a 1% chance to get the Enforcer plush, giving you high tier loot. This chance is increased by 1% per level, up to 20% at power 20.
-    -   There is a 5-10% chance to roll a **blank**, doubling the chest of the next box. This can stack.
-    -   Coffin activation uses your Resonance keybind.
-    -   You can use any weapon or equipment item without meeting their **attribute** requirements.
-    -   Requirements: Starter
-
--   Benefactor: \[Equipment Talent\] - Gain reputation for selling goods to Antiquarians within faction territories.
-    -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
-    -   Requirements: Starter
-
--   Compelling Offer \[Common Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\]
-    -   Procs when attacking charmed enemies who are below 50% health.
-    -   Madness prevents non-boss enemies from dealing damage or hitstunning you.
-    -   Requirements: Power 1, 100
-
--   Cornered Fool \[Common Talent\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
-    -   Despite what the description states, this applies Taunt for 6 seconds.
-    -   The Taunt damage buff is also applied to the attack that guard broke.
-    -   Requirements: Power 1, 100
-
--   Ether Blade \[Common Talent\] - You gain Ether when you parry Mantras.
-    -   Requirements: Power 1, 100
-
--   Off Your Game \[Common Talent\] - You now slow Taunted enemies when you hit them.
-    -   Requirements: Power 1, 100
-
--   Tough Love \[Common Talent\] - Deal 10% more damage to enemies [Charmed](Status_Effects.md#charm) by you. Mantras deal +5% instead. Being hit by someone the same Aspect or Oath as you applies [Charmed](Status_Effects.md#charm) briefly.
-    -   Charms for 2 seconds with a 1 second cooldown.
-    -   If attacked while on cooldown, the cooldown timer resets and you have to wait another second again to be able to proc Tough Love's Charm.
-    -   The damage increase affects **all** forms of Charm, not exclusively Tough Love's.
-    -   Procs its charm through block, parry, and dodge.
-    -   This damage buff is only applied if **your** Charm is applied to the target. Due to how Charm works, it is highly recommended that you have a high Charm duration from Lasting Charisma if you wish for this Talent to function in large-scale ganks.
-    -   Instead of your charm debuffing affected players and making them take more damage, it actually applies an on-hit buff when attacking someone affected by your charm, granting a damage buff to that attack. This means Tough Love **is** affected by the damage modifier cap.
-    -   Requirements: Power 1, 100
-
--   Deal Maker \[Memento Talent\] - Your rapport with merchants allows you to attach a flat fee of 20 notes to all your sales.
-    
-    -   Increases the sell price of all items by 20 notes.
-    -   This is applied **after** Snake Oil.
-    -   Requirements: Power 1, 200
-
--   _Observation_ \[Rare Talent\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
-    -   Requirements: Power 1, 250
-
--   _**Dazing Finisher**_ \[Advanced Talent\] - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
-    -   Prevents you from knocking back charmed players with flourishes, instead, dazing them.
-    -   Requirements: Power 1, 350
-
-### Power 10 Talents
-
--   Chaotic Charm \[Common Talent\] - Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
-    -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
-    -   The additional damage reduction from Chaotic Charm scales on your Charisma investment, gaining 0.15% damage reduction per point in Charisma.
-        -   This damage reduction is combined multiplicatively with Charm due to them being separate status effects.
-    -   Automatically procs narcissist
-    -   Deals 0.1 typeless damage whenever it procs.
-    -   Can be blocked, preventing damage and Charm proc.
-    -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
-    -   Will apply combat tag against opponents.
-    -   Has 0.25s cooldown.
-    -   Typeless self damage will not proc Chaotic Charm, but something like Flame Within will.
-    -   Requirements: Power 10, 100
-
--   Critical Engine \[Common Talent\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
-    -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
-    -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
-    -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
-    -   See info on specific [Deep Gems](Deep_Gems.md) on their individual pages.
-    -   Requirements: Power 10, 100
-
--   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether. 2s CD
-    -   Grants +20 Ether on proc.
-    -   Requirements: Power 10, 100
-
--   Sweeten the Deal \[Common Talent\] - [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
-    -   Requirements: Power 10, 100
-
--   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
-    -   This effect is signalled by a yellow halo.
-    -   Has a 4 second activation window with a 10 second duration.
-    -   This talent will still proc if you hit a knocked enemy.
-    -   Requirements: Power 10, 100
-
--   _Encore_ \[Rare Talent\] - Your sing will stun opponents who are already charmed.
-    -   On proc, apply 0.4s of "full stun". This can interrupt enemy attacks.
-    -   Doesn't affect allies.
-    -   Requirements: Power 10, 250
-
-### Power 15 Talents
-
--   Charismatic Cast \[Common Talent, Charisma\] - Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
-    -   This charm lasts 10s (5s against Disbelief Talent).
-    -   Targets _you've_ Charmed will deal 10% less damage to you.
-    -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen. It is highly recommended that you have Chaotic Charm if you wish to get use out of Charismatic Cast during ganks and other team fights.
-    -   Requirements: Power 15, 100
-
--   Manipulator \[Common Talent\] - Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
-    -   10 second cooldown.
-    -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
-        -   Will not allow you to proc Manipulator twice as it has a cooldown.
-    -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
-    -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
-        -   For example, a 5 hit multihit critical will only gain the 20% damage bonus from Manipulator on the first hit as it only procs once and then goes on cooldown.
-        -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
-    -   Requirements: Power 15, 100
-
--   Narcissist \[Common Talent\] - Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
-    -   Overcharms yourself for 4 seconds.
-    -   Charms yourself for 8 seconds (halved to 4s if you have Disbelief).
-        -   The self Charm proc reduces self damage taken by 10% and allows you to benefit from Charismatic Cast's secondary effect, which reduces your time knocked by 50%.
-    -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents.
-    -   Requirements: Power 15, 100
-
--   Snake Oil \[Common Talent\] - Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you.
-    -   Gain 40% more notes from selling items.
-    -   Requirements: Power 15, 100
-
--   Protagonist Syndrome \[Oath Talent\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast.
-    -   Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage.
-    -   Requirements: Power 15, 200
-
--   _Golden Tongue_ \[Rare Talent\] - Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)
-    -   Sending a message in chat or using an emote will proc this Talent.
-    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to reinforce (does not stack).
-    -   The buff is random for each person affected.
-    -   For every point in Charisma above 40, the cooldown will be decreased by 0.25 seconds, having a 45 second cooldown at 100 Charisma.
-    -   Requirements: Power 15, 250
-
-### Power 20 Talents
-
--   Jackpot \[Common Talent\] - Charmed enemies now have a chance to be hit critically, multiplying the damage.
+-   Jackpot \[Common Talent\] **100** \- Charmed enemies now have a chance to be hit critically, multiplying the damage.
     -   There is a ?% chance that your hits against a Charmed target will be a critical hit, dealing significantly more damage.
-    -   Requirements: Power 20, 100
 
--   Luminous Flash \[Oath Talent\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
+-   Luminous Flash \[Oath Talent\] **200** \- After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
     -   During Absolute Radiance, your M1 attacks have a chance to proc Luminous Flash, increasing their damage by 75% (the damage modifier hardcap). In PvP combat, this is lowered to 50% instead (the damage modifier hardcap).
-    -   Requirements: Power 20, 200
 
 ## Boss Unlocks
 

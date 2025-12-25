@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 186453
+revid: 186592
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -25,9 +25,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". They wield an [Iron Twinblade](Iron_Twinblade.md) on their back, and they wear the [Carefree Garments](Carefree_Garments.md) outfit. They also wear a hat made out of kelp on their head, which they claim is for later consumption.
+Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on their back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan Zakshun also wears a hat made out of kelp on his head, which he claim is for later consumption.
 
-Traan Zakshun's shop runs on an hourly rotation. Every hour, they sell two to four items chosen at random from a list. They can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
+Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md).
+
+Traan Zakshun's shop runs on an hourly rotation. Every hour, he sell two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
 Once every 20 hours Traan Zakshun will appear hosting a [Black Market Cache](#black-market) for rare items such as [Relics](Relics.md) and Legendary [Weapons](Weapons.md). These items are only sold for [Crowns](Crowns.md) and only one item total can be purchased per black market visit.
 
@@ -158,9 +160,9 @@ Traan's Salvaged Stock
 
   
 
-Depending on the rotation, they can sell 1 to 4 items at once. Typically, they sell 3 to 4 items each visit.
+Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sell 3 to 4 items each visit.
 
-Traan's item descriptions will change randomly each time they hit their hourly rotation:
+Traan's item descriptions will change randomly each time he sell goods from his Salvaged Stock:
 
 -   _A rare find indeed._
 -   _An item most regal!_
@@ -306,7 +308,7 @@ Traan's Black Market Cache
 
 The black market rotation always has 4 items in stock.
 
-Traan's item descriptions will change randomly each time they sell goods from their Black Market Cache:
+Traan's item descriptions will change randomly each time he sell goods from his Black Market Cache:
 
 -   _A strange blue turnip salesman once told me that deep forests, like the ones in Upper Erisia, bring in good coin. Gotta say, he's right._
 -   _Buy it you break it. Wait a sec..._

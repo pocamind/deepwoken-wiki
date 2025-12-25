@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 185941
+revid: 186518
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

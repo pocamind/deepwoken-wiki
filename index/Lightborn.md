@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 185041
+revid: 186590
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -105,6 +105,8 @@ With the addition of the Echo Unlock: Multifaceted, Lightborn essentially gain 1
     2.  Around the Neck
     3.  Around the Arms
 -   The placement of the halo carries specific lore implications, reflecting unique aspects of the Lightborn’s origin and purpose.
+    -   According to Nanoprodigy, the placement of said halo is fluid throughout a Lightborn's lifespan based on their social standing and strength.
+    -   The strongest Lightborn have their halos around their fists, while normal ones have one around their head. Inferiors/servants have their halo placed around their neck.
 -   Lightborn and Capra were the first aspects to receive a cosmetic item in the **UGC Avatar Shop**.
 -   The halo is listed under the **[Deepwoken UGC group](https://www.roblox.com/communities/16769317/Deepwoken-UGC#!/about)**.
 -   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
