@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 185576
+revid: 186352
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -578,7 +578,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <a href="Stone.md"><font>Stone</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
-  <p>Adds true damage to your weapon attacks that guardbreak.</p>
+  <p></p>
+  <p>Adds 0.25 true damage to your weapon attacks that guardbreak for every 1 weapon investment you have.</p>
+  <p><br>
+  </p><a href="Wyrmtooth.md">Wyrmtooth</a> will prioritize its heavy investment over its medium investment.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Do extra true damage whenever you guardbreak an opponent with a light attack or critical.</i></p>
   <p><strong>Obtainment:</strong></p>

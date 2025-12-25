@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 172653
+revid: 186324
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -29,11 +29,11 @@ Shoulder to shoulder, together, tall! ”
 
 **The Ignition Union** is a faction found primarily throughout the [Eastern Luminant](Luminants.md) and [The Depths](The_Depths.md). They are a renowned freelancer company and labor union that specializes in trade, technology, R&D, and Depths exploration.
 
-Their main base of operations is the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
+During the [Etrean Civil War](Etrean_Civil_War.md), the Union attacked the [Etrean Royalists](Etrean_Royalists.md)' forces in order to claim their land for their own. They converted the area into the mountainous [Miner's Landing](<Miner's_Landing.md>), located in the Eastern Luminant. Additionally, they have established two field bases in the Depths: [The Chariot's Spire](<The_Chariot's_Spire.md>) in [Scyphozia](First_Layer.md) and [The Frontier Furnace](The_Frontier_Furnace.md) in the first floor of the [Eternal Gale](Second_Layer.md).
 
 They are responsible for producing weapons such as the [Ignition Deepcrusher](Ignition_Deepcrusher.md) and the [Boltcrusher](Boltcrusher.md) along with the [Railblade](Railblade.md), as well as technologies such as the [Arc Suit](Oath%253A_Arcwarder.md) and [Union Pager](Ignition_Delver.md).
 
-They are one of the three factions contracted by [The Central Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and [The Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out".
+They are one of the three factions contracted by [The Central Authority](The_Central_Authority.md) alongside [The Divers](The_Divers.md) and [The Summer Company](The_Summer_Company.md). The Ignition Union are specifically tasked with going into the Depths and "killing anything that crawls out". However, the Union do not view the employers favorably and would rather not see them attain greater power.[\[1\]](#cite-note-1)
 
 They have instigated and maintains a mutually hostile relationship with the Summer Company; alongside various ideological differences, the Summer Company manufactures valuable gunpowder and explosives that are of use to the Union in their many research projects.
 
@@ -116,3 +116,7 @@ Enemy-Neutral Reputation
 -   Opposed to what their name might suggest, they’re predominantly [Ironsing](Ironsing.md) users.
 -   The Ignition Union has the most Owned Territories out of every Faction at 4, and is tied with [The Divers](The_Divers.md) for the most Passive NPCs at 7.
     -   The Ignition Union have more by technicality, due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [Karliah](Karliah.md) being former members of The Divers rather than active members.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [Alpha](Alpha.md)

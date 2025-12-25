@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 186100
+revid: 186325
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4977,6 +4977,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Gale Boots: [Gale Boots](Gale_Boots.md) - Reduce the amount of fall damage you take by 50%.
 
 -   Gunslinger's Fury: [Bounty Hunter's Boots](<Bounty_Hunter's_Boots.md>) - When having a side gun equipped with a gun or rifle, use a critical in the air to shoot a barrage of bullets towards your opponent.
+    
+    -   If your main weapon is a Pistol or a Rifle, and you have an offhand Pistol equipped, your critical will be replaced with the [Soulwrought Gun](Crazy_Slots.md#weapons)'s special attack if used midair.
 
 -   Haste: [Trackstar Boots](Trackstar_Boots.md) - Gain a permanent +3 speed buff at all times.
     

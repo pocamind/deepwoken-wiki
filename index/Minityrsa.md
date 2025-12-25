@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 185417
+revid: 186310
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, The Ministry, Locations in the Etrean Luminant]

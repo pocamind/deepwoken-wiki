@@ -1,6 +1,6 @@
 ---
 title: Sachan Shisui Kobura
-revid: 184546
+revid: 186323
 source: https://deepwoken.fandom.com/wiki/Sachan_Shisui_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]
@@ -65,7 +65,7 @@ Sachan Shisui Kobura is located at [The Indigo Citadel](The_Indigo_Citadel.md), 
   <td><i>*She narrows her eyes, glaring at you.*</i> I only expect my fair dues when contributing to an alliance. The jealousy of others is not my fault. I recognise that we need allies - <i>powerful</i> allies. When discussing our next step, the others bickered like children over which point to attack. I offered to parley with the <a href="Glossary.md#the-cenral-authority">Central Authority</a> on our behalf instead. The other sachans foolishly took offence to my proposal. The argument that followed finally undid our bond.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>What will you do, then, now that the alliance is no more?</td>
 </tr>
 <tr>

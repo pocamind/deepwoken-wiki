@@ -1,9 +1,11 @@
 ---
 title: Human
-revid: 177087
+revid: 186344
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Aspects]
+categories: ["Non-canon articles", Aspects]
+notices:
+  - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
 ---
 
 # Human
@@ -44,7 +46,7 @@ Only human, after all.
 
 ## Trivia
 
--   The existence of Metallica also means that, in Deepwoken canon, Dave Mustaine also exists and is a human, which more importantly means that the amazing band he started (Megadeth) also exists in Deepwoken.
+-   The existence of Metallica also means that, in Deepwoken (non-)canon, Dave Mustaine also exists and is a human, which more importantly means that the amazing band he started (Megadeth) also exists in (non-)_Deepwoken_.
 -   The songs that Humans in-game are able to perform are:
     -   72 Seasons - Metallica
     -   King Nothing - Metallica

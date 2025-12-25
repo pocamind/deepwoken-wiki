@@ -1,9 +1,9 @@
 ---
 title: Blackalloy Helm
-revid: 185362
+revid: 186361
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set Bonuses]
+categories: [Equipment, Head, Helmets, Equipment with Set Bonuses]
 ---
 
 # Blackalloy Helm
@@ -26,9 +26,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets, Equipment with Set
 | obtainment | The Depths |
 | description | An imposing helmet made from blackened steel. |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
-For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+Template:ModeCounterpart
 
 Blackalloy Set
 

@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 184894
+revid: 186252
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -91,6 +91,7 @@ Currently 4 books were fully removed from the game:
 -   Debriefing Log on Operator Polaris Enigvidion was written by developer yayafino.
 -   The Diver Journals, God in the Machine, Lament of Cirryn, My Warm Blood and Stars Above, and the Blade between were written by former developer iltria.
 -   Ossuary Maintenance and Strange Missives was written by contributor Hautdesert.
+-   Operation 'Puppet Master' Report was written by developer ragoozer.
 -   It is implied that Ryrda from God in the Machine is the same Ryrda in Lament of Cirryn.
     -   In both stories, they are [Vesperians](Vesperian.md).
     -   In Lament of Cirryn, the main character Ekhusa keeps a shard of Ryrda's mask for good luck, and hopes that she will meet him again.

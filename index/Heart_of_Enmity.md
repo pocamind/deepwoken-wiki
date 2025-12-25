@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 184595
+revid: 186295
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -28,7 +28,7 @@ The Heart of Enmity possesses 65% oath damage resistance, 90% elemental resistan
 
 ## Moveset
 
-**!!! Do not attempt to block the Heart of Enmity's moves, even if the wiki says they're blockable.** While some attacks can be blocked with over 50 posture and Ardour, it is not recommended due to the high risk of posture breaking.
+**While some attacks can be blocked with over 50 posture and Ardour, it is not recommended due to the high risk of posture breaking.**
 
 All moves instantly grip the opponent if they are knocked. Enmity Servants are also capable of executing downed players.
 

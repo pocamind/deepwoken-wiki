@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Boots"
-revid: 185389
+revid: 186327
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
@@ -37,7 +37,7 @@ Variants: [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>)
 
 Mercenary Boots are an [Equipment](Equipment.md) item under the "Legs" category.
 
-The [Endurance Runner](Talents.md#endurance-runner) Talent lessens the movement speed penalty from being at low health. The [Gunslinger's Fury](Talents.md#gunslingers-fury) Talent grants a new aerial critical attack if you are wielding a Rifle or Pistol with an offhand Pistol equipped. This critical performs multiple shots with both weapons downwards towards your opponent.
+The [Endurance Runner](Talents.md#endurance-runner) Talent lessens the movement speed penalty from being at low health. The [Gunslinger's Fury](Talents.md#gunslingers-fury) Talent grants a new aerial critical attack if you are wielding a Rifle or Pistol with an offhand Pistol equipped. This critical performs the [Soulwrought Gun](Crazy_Slots.md#weapons) special attack.
 
 ## Set Talent
 

@@ -1,6 +1,6 @@
 ---
 title: Sunway
-revid: 180974
+revid: 186332
 source: https://deepwoken.fandom.com/wiki/Sunway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
@@ -70,7 +70,7 @@ From speaking with Sunway, it is implied that the Ignition Union created the bla
   <td colspan="6">[See "That sounds quite morbid."]</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

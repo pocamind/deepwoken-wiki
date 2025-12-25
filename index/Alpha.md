@@ -1,6 +1,6 @@
 ---
 title: Alpha
-revid: 174719
+revid: 186326
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
@@ -55,7 +55,7 @@ He will also task you to rescue [Epsi](Epsi.md), a young [Gremor](Gremor.md) boy
   <td colspan="3">Just because you don't see the vision doesn't mean it's crazy. If we could harness the power of these winds, maybe we could outrun the <a href="Glossary.md#the-tides">Tides</a> forever on the surface. Mankind could finally come together collectively.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
   <td colspan="6">So, what was that about owing me one?</td>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
   <td colspan="12">Thank you... He came in moments ago. Once again, I owe you a favor, friend. Speak to Delta on the surface and tell him Alpha sent you.</td>
 </tr>
 <tr>
-  <td colspan="12">End, dialogue is unlocked with <a href="Delta.md">Delta</a></td>
+  <td colspan="12">[End Dialogue], dialogue is unlocked with <a href="Delta.md">Delta</a></td>
 </tr>
 </tbody>
 </table>
@@ -102,13 +102,13 @@ These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
 </tr>
 <tr>
   <td colspan="6">Epsi is dead.</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">What? You're... You're kidding me. That kid?... You mean... <i>*He shields his expression, pinching his brow and taking in a ragged breath.*</i> Gods below. I need some space.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

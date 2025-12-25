@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 179591
+revid: 186255
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]

@@ -1,14 +1,12 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 185694
+revid: 186308
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Locations, Locations in the First Layer]
 ---
 
 # The Depths (Vow of Iron)
-
-Variants: [The Depths](The_Depths.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Stone
-revid: 185575
+revid: 186346
 source: https://deepwoken.fandom.com/wiki/Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,10 +19,14 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Stone is a damage dealing enchantment that adds true damage to your weapon attacks that guardbreak.
+Stone is a damage dealing enchantment that adds damage to your weapon attacks that guardbreak.
 
 This enchantment changes your weapon's color to brown and gives it a stone texture.
 
 ## Effect
 
-Stone increases adds true damage to your weapon attack guardbreaks.
+Stone increases adds a flat 0.25 true damage to your guardbreaks for every weapon investment you have, capping at +25 damage with 100 weapon investment.
+
+### Notes
+
+-   [Wyrmtooth](Wyrmtooth.md) will prioritize its heavy investment over its medium investment for the damage scaling.

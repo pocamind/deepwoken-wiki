@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 184357
+revid: 186256
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -10,7 +10,7 @@ categories: [Monsters, Layer 2, Floor 1, The Depths]
 
 | Bone Keeper | |
 |---|---|
-| health | 950024000 (Corrupted) |
+| health | 950023750 (Corrupted) |
 | attacks | Triple Slash, Leap, Crushing Grab, Charge, Bone Spikes, Femur Throw |
 | drops | Giant Femur |
 | locations | The Ethironal Shrine, Cathedral of the Interstice, The Diluvian Mechanism |
