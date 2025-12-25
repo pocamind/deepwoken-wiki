@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 186174
+revid: 186369
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -242,6 +242,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   Dravik is voiced by "a random guy off Fiverr \[for $50\]".[\[1\]](#cite-note-1)
 -   The Triangular slash attack is likely a reference to "[Pasmarkinti Charged Blow](https://rogue-lineage.fandom.com/wiki/Pilgrim_Knight)" from Monad Studio's previous game, _Rogue Lineage_.
 -   The current soundtrack that plays during the fight is "Shallow Breath" by Naktigonis, which was originally an ost meant for the [Conquest gamemode](Conquest.md).
+-   The hair id for Dravik's beard is 97197321204898.
 
 ## Navigation
 

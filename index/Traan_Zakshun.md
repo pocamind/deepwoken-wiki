@@ -1,9 +1,9 @@
 ---
 title: Traan Zakshun
-revid: 185988
+revid: 186411
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Traan Zakshun
@@ -13,6 +13,11 @@ categories: [Canor NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 | name | Traan Zakshun |
 | aspect | Canor |
 | location | Lower Erisia |
+| family | Naan Zakshun (grandmother) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Here's todays lineup. Try not to drool. ”
 

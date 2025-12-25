@@ -1,16 +1,14 @@
 ---
 title: Minityrsa
-revid: 186310
+revid: 186366
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Locations, The Ministry, Locations in the Etrean Luminant]
+categories: [Locations, The Ministry, Locations in the Etrean Luminant]
 ---
 
 # Minityrsa
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
-For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+Template:ModeCounterpart
 
 LocationL Minityrsa LocationR
 

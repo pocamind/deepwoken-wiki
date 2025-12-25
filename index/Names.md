@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 185154
+revid: 186373
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1855,7 +1855,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   The names "Tanith", "[Cadaver](https://skulduggery.fandom.com/wiki/Cadaver_Cain)" and "[Skulduggery](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant)" are in reference to characters from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
     -   Funnily enough, Cadaver and Skulduggery are technically the same person.
 -   The name "Inari" is a reference to Monad Studios previous game _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki)_ where the races _[Vind](https://rogue-lineage.fandom.com/wiki/Vind?so=search)_ and _[Fischeran](https://rogue-lineage.fandom.com/wiki/Fischeran)_ share that name_._
--   Names such as "Adolin," "Hoid", "Kaladin", "Moash", "Szeth", "Renarin", and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
+-   Names such as "Adolin," "Hoid", "Kaladin", "Moash", "Szeth", "Renarin", "Teft", and "Dalinar" are references to the book series "The Stormlight Archive" by Brandon Sanderson.
 -   Names such as "Kelsier", "Vin", "Marsh", and "Wax" are references to the book series _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_, also by Brandon Sanderson.
     -   The series also supposedly influenced the creation of the [Adret](Adret.md).
 -   The names "Zote", "Ogrim" and "Isma" are a reference to the indie game _[Hollow Knight](https://hollowknight.fandom.com/wiki/Hollow_Knight_Wiki)_ by Team Cherry.

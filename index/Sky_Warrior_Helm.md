@@ -1,6 +1,6 @@
 ---
 title: Sky Warrior Helm
-revid: 185381
+revid: 186412
 source: https://deepwoken.fandom.com/wiki/Sky_Warrior_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | Sold in Naan Zakshun's black market for 2,300 |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

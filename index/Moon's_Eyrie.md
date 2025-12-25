@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 178385
+revid: 186364
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -49,10 +49,10 @@ Exhaustive Loot Table
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
-  <ul>
+  <ol>
     <li><a href="Items.md">Items</a>: <a href="Ores.md#astruline">Astruline</a>, <a href="Bloodless_Gem.md">Bloodless Gems</a>, <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gems</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
-  </ul></td>
+    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Rain_Spire.md">Rain Spire</a></li>
+  </ol></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>

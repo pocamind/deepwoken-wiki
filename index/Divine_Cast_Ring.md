@@ -1,6 +1,6 @@
 ---
 title: Divine Cast Ring
-revid: 186118
+revid: 186413
 source: https://deepwoken.fandom.com/wiki/Divine_Cast_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Any chest in Vow of Iron |
+| obtainment | Any chest in Vow of Iron, Sold in Naan Zakshun's black market for 1,000 |
 | description | Your mantras always cost your entire ether bar but do 3x damage. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

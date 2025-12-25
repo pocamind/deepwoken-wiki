@@ -1,6 +1,6 @@
 ---
 title: Kindred Edict
-revid: 185708
+revid: 186415
 source: https://deepwoken.fandom.com/wiki/Kindred_Edict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Weapons with Talents, "Core-Attribute based weapons"]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold in Traan Zakshun's black market for 1 , Maljuror |
+| obtainment | Sold in Traan Zakshun's black market for 1 , Maljuror, Sold in Naan Zakshun's black market for 1,000 |
 | description | A blade forged from pale metal recovered from Celestial crash-sites by Starkindred artisans. Nearly weightless, this type of blade is a staple in the West amongst adherents of the faith. Once one has spilt enough of their own blood in service of the Church, they are bestowed a weapon thrice-bathed in the sacred ichor of a Celestial. |
 
 ## Description

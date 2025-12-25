@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 186325
+revid: 186442
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1823,7 +1823,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
 
--   Simmerbloom \[Common Talent\] - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
+-   Simmerbloom \[Common Talent, Equipment Talent\] - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
         -   Due to this equipment Talent, Pleeksty Inferno users can save a few, otherwise necessary, talents like Flaming Flourish.
     -   Obtained from [Simmerbloom Diadem](Simmerbloom_Diadem.md)
@@ -3759,10 +3759,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Merged with the old Soundness of Mind Talent.
     -   Prerequisites: 40 Willpower, 40 Flamecharm, [Graceful Flame](Flamecharm.md#graceful-flame) (Mantra)
 
-### Unique
-
--   Precision Hitter \[Common Talent\] - Your Basic Attack posture damage is increased by 15%.
-
 ### Unstable Capacitor
 
 -   Surge Path: Unstable Capacitor \[Common Talent, Thundercall Exclusive\] - Your lightning no longer applies Shock, instead apply Surge. At maximum stacks of Surge, your opponents will Overload, sending arcs of lightning in every direction.
@@ -4617,7 +4613,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 ### Innate
 
-Talents granted from your [Aspect](Aspects.md). On top of the these Talents, you will also gain the default [Aspect](#innate) Talents, listed above.
+Talents granted from your [Aspect](Aspects.md). You will additionally gain the [default Aspect Talents](#innate) from your respective Aspect.
 
 -   _Ad Astra_ \[[Lightborn](Lightborn.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Return home.
     
@@ -4836,6 +4832,10 @@ Talents granted from your [Aspect](Aspects.md). On top of the these Talents, you
     
     -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
+### Unique
+
+-   Precision Hitter \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Basic Attack posture damage is increased by 15%.
+
 ### Void Glutton
 
 -   Void Glutton \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Siphon some of your enemies ether when you kill them. This gets added onto your health permanently, however you are now slowed at all times. This slow increases the more health you have siphoned.
@@ -4956,6 +4956,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Applies a flat -30 Ether cost to any Mantra you cast.
 
 -   Ether Tension: [Expert Practitioner's Earrings](<Expert_Practitioner's_Earrings.md>) - Deal 20 true damage whenever you guardbreak an opponent with a mantra.
+
+-   Ether Upgrade: [Caster Fur Pauldrons](Caster_Fur_Pauldrons.md) - All mantras you cast now get one bonus level on top of their current level.
 
 -   Experienced Healer: [Cultist Cowl](Cultist_Cowl.md) - Everytime you heal yourself, gain 5 extra health on top of that \[10 second CD\].
 

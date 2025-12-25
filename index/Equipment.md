@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 181000
+revid: 186397
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -586,7 +586,6 @@ Arms: [Khan Pauldrons](Legion_Pauldrons.md)
 Legs: [Khan Boots](Legion_Boots.md) |
 |  | [Kyrsmas Hat](Kyrsmas_Hat.md)  
 (**Limited Time Event**)  
-(**Unobtainable**)  
 (**Unique**) | _+10 Health_  
 _+1 Posture_
 
