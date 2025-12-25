@@ -1,6 +1,6 @@
 ---
 title: Ascended Outlaw Mask
-revid: 186417
+revid: 186463
 source: https://deepwoken.fandom.com/wiki/Ascended_Outlaw_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks, Craftable]
@@ -22,7 +22,7 @@ categories: [Equipment, Face, Masks, Craftable]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crafting:, Prison Crafting Station + Western Outlaw Mask + 1x Ardour Manifestation + 5x Might Gem, Sold in Naan Zakshun's black market for 1,000 |
+| obtainment | Crafting:, Prison Crafting Station + Western Outlaw Mask + 1x Ardour Manifestation + 5x Might GemVow of Iron:, Sold in Naan Zakshun's black market for 1,000 |
 | description | A mask to perfectly conceal one's entire face when paired with a hat, its also able to conceal one's true strength. |
 
 Ascended Outlaw Set

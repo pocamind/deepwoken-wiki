@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 186439
+revid: 186444
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
@@ -129,8 +129,8 @@ Naan Zakshun is located in the [Celtor Wastes](Celtor_Wastes.md), inside of a ru
 <tr>
   <td>Keep it down Ironsworn... here's tonight's haul.<br>
   <font>[Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
-  <td>WIP</td>
-  <td>WIP</td>
+  <td>Thanks for the purchase Ironsworn. Come back later for my usual wares. In iron we recall...</td>
+  <td>Y'already bought from this market. Gotta be the deep's greediest Ironsworn.</td>
 </tr>
 <tr>
   <td colspan="3">[End Dialogue]</td>
@@ -199,14 +199,17 @@ Naan's Black Market Cache
 
 Naan's item descriptions will change randomly each time they sell goods from their Black Market Cache:
 
+-   _Clean this when you get a minute._
 -   _Dark times yknow, come fully clad as a clown and I'll cut you a deal._
 -   _I actually forgot I had this until my grandson pointed it out to put up for sale, his eye for these things is magnificent, takes after his Nana~ haha._
 -   _I barely know what I'm looking at here._
 -   _I lost my fangs a long time ago..._
 -   _Only look if you wanna buy, Okay?_
+-   _The grandson keeps talking about us doing mystery boxes..._
 -   _This is one of my favourites!_
 -   _Ughh, it kills me to get rid of this, I need the notes more than I need this thing though._
 -   _Wipe it down when you get out of here yeah? Its past wasn't pretty._
+-   _You didn't get this from me. Capiche?_
 -   _You wouldn't believe how hard these were to find._
 -   _You're yapping words at me and it's just static, I don't care- the price is final._
 

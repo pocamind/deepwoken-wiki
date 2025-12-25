@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 185748
+revid: 186507
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Pages with broken file links, Mementos]
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | description | Skilled in fist-based conflict negotiations. |
 | unlock | Deal most damage to Primadon, Titan of the East and kill him |
+| starting health | 200 |
 | starting attributes | 6 Light Weapon, 6 Strength, 4 Fortitude, 1 Agility, 3 Willpower |
 | final attributes | 120 Light Weapon, 120 Strength, 80 Fortitude, 5 Agility, 50 Willpower |
 | starting traits | 3 Vitality, -1 Dexterity, 1 Songchant, 1 Erudition, 5 Proficiency |

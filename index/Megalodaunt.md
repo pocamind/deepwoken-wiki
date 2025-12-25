@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 186008
+revid: 186491
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -39,17 +39,16 @@ In addition to be found wandering around various places or loitering around in s
 
 ## Attacks
 
-| Name/Danger | Description | GIF |
+| Name/Danger | Description | Media |
 | --- | --- | --- |
 | 
 **Slash**  
 (★☆☆)
 
- | A short range **Slash** using their forearms, often used twice in a row or paired with a kick.
+ | A short range swipe using their arms. Can slash once or twice, and if once can be paired with **Kick**.
 
 -   Heavy posture damage. Will commonly block break after two hits.
--   If the Megalodaunt slashes 2 times in a row, it will have a short period where it doesn't attack, letting you hit it 3 times with MED or LHT or 2 times with HVY. This attack chain never occurs twice in a row.
-    -   if the Megalodaunt only slashes once, it will wait the same time as two slashes before attacking again but if it performs a single slash while standing still then it will quickly deliver a kick after.
+-   If the Megalodaunt slashes twice, it will take longer to attack again.
 
  | 
 
@@ -59,14 +58,17 @@ In addition to be found wandering around various places or loitering around in s
 **Kick**  
 (★★☆)
 
- | The Megalodaunt will flash with a purple telegraph and a smaller red circle effect on its right leg before delivering a kick that ragdolls and sends the player flying.
+ | The Megalodaunt will wind up its right leg back with a red circle effect before delivering a kick that ragdolls and sends the player flying.
 
--   Causes the player to be Dazed if kicked into a wall.
--   This ability is very dangerous as it can send you into unwanted situations.
--   This ability is blockable, although you need alot of posture to block it.
--   Commonly avoided by walking or running sideways, as the hitbox has little width.
--   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
--   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
+-   Causes the player to be [Dazed](Status_Effects.md#dazed) if kicked into a wall.
+-   It will take longer to attack again after using this.
+-   Uses **Bite** instead if in water.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  | 
 
@@ -78,8 +80,8 @@ In addition to be found wandering around various places or loitering around in s
 
  | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
--   Easily parryable.
--   There is a shorter ranged AOE version and a longer range, individual target version. Both function the same.
+-   Lasts as long as auto-parry frames, meaning you can simply parry once to parry the whole attack.
+-   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
 
  | 
 
@@ -89,10 +91,11 @@ In addition to be found wandering around various places or loitering around in s
 **Roar**  
 (★☆☆)
 
- | Lets out a **Roar** at nearby targets, initiating combat and inflicting a generous amount of [insanity](Insanity.md) and [fear](Status_Effects.md). Not very dangerous in the _Etrean Luminant_ but especially deadly in _The Depths_, as it can cause a player to succumb to insanity much quicker than expected or during combat.
+ | Lets out a roar at nearby targets, inflicting [Insanity](Insanity.md) and [Fear](Status_Effects.md#fear).
 
--   Blocking negates much of but not all the insanity gain.
--   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
+-   Usually used as the Megalodaunt's first move.
+-   Blocking negates much of but not all the Insanity gain.
+-   Dangerous in [The Depths](The_Depths.md).
 
  | 
 
@@ -102,7 +105,7 @@ In addition to be found wandering around various places or loitering around in s
 **Jump**  
 (☆☆☆)
 
- | If the target is above it, the Megalodaunt will Jump at the direction of it's opponent to close the distance. Often used after Kick.
+ | If the target is above it, the Megalodaunt will jump in the direction of its opponent to close the distance. Often used after **Kick**.
 
  | 
 
@@ -112,11 +115,16 @@ In addition to be found wandering around various places or loitering around in s
 **Bite**  
 (★☆☆)
 
- | The Megalodaunt leans forward and bites down, putting those who are hit in ragdoll. Only used while in water.
+ | The Megalodaunt leans forward and bites down, ragdolling those hit. Only used while in water.
 
  | 
 
  |
+
+### Passives
+
+-   **Thick Hide** - Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
+-   **Monster Resistance** - Has an innate ~25% resistance to physical hits.
 
 ## Finisher
 
@@ -124,19 +132,11 @@ In addition to be found wandering around various places or loitering around in s
 | --- | --- |
 | **Curb Stomp** | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
 
-## Passives
-
--   **Thick Hide** - Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
-
 ## Tips
 
 -   Most likely the first non-humanoid enemy you will encounter as a new player. They may appear menacing but they are easily learnable.
 -   A Megalodaunt can never use any move twice in a row, a swipe/kick combo will not be used back to back, and they will not use a raw kick multiple times in a row, by using this to your advantage you can accurately predict the enemies attacks. Do note that Swipe/Kick does not count as a Kick usage, and is why they are infamously regarded to kick "multiple times in a row."
 -   Their thousand needles (either variant) can be parried by simply tapping F once due to Autoparry frames, and allows you to get as many hits in as a Kick would.
-
-## Passives
-
--   **Monster Resistance:** Has an innate ~25% resistance to physical hits.
 
 ## Trivia
 

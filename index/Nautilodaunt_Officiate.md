@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 186294
+revid: 186466
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Monsters, The Depths]
@@ -120,6 +120,10 @@ This attack has a red highlight indicating that it may only be dodged.
 
 ### Passives
 
--   **Fury-Fists of Thunder!** - All of the Nautilodaunt Officiate's attacks apply [Shock](Status_Effects.md#shock), stunning you and interrupting your attacks, even through hyperarmor.
+-   **Thunderstruck Fury** - All of the Nautilodaunt Officiate's attacks apply [Shock](Status_Effects.md#shock), stunning you and interrupting your attacks, even through hyperarmor.
     -   This passive makes the Nautilodaunt Officiate _significantly_ more dangerous than its default counterpart, as you cannot hyperarmor your way through it's attacks.
--   The Great Wall - Nautilodaunt Officiate has signifigantly more posture than it's counterparts.
+-   Hardened Guard - Nautilodaunt Officiate has significantly more posture than it's counterparts.
+
+## Trivia
+
+-   This [Nautilodaunt](Nautilodaunt.md) variant seemingly breaks the lore associated with the [Enforcers](Enforcer.md), as Enforcers are the souls of those who have failed to beat the Depths Trial, morphed into the Enforcers we know today, and it doesn't seem very plausible that a Nautilodaunt would not only have a soul, but to have fought - and failed to survive - the Depths Trial.

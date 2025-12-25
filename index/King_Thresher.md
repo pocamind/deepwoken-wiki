@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 186301
+revid: 186476
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -52,9 +52,7 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 **Tail Swipe**  
 (★★☆)
 
- | The King Thresher highlights **White** and brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
-
--   Despite that it highlights **White**, this attack can still be parried, blocked, or dodged like normal, it just means it now has an additional way to be avoided: by jumping.
+ | The King Thresher brings its tail back and flicks around to deliver a powerful blow that deals a tremendous amount of posture damage. Deals moderate damage. Attacks following this move come out sooner.
 
  |  |
 | 
@@ -67,15 +65,27 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 -   While burrowed, a red circle effect will flash on where they would normally be, serving as an indicator for their location.
 -   When about to jump out of digging, a purple telegraph will flash, use this to time your defense.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
 | 
 
 **Royal Breath**  
 (★★★)
 
- | The King Thresher flashes with a red telegraph and turns its head to the side before rapidly turning the other direction and breathing out purple flames. Starts with a sound cue and the sound of the King Thresher roaring.
+ | The King Thresher turns its head to the side before rapidly turning the other direction and breathing out purple flames. Starts with a sound cue and the sound of the King Thresher roaring.
 
 -   Despite being unparriable and unblockable, it does not actually block-break you, instead merely bypassing your parry and block.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |  |
 | 
@@ -83,23 +93,27 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 **Body Slam**  
 (★★☆)
 
- | The King Thresher highlights **White** and flashes with a blue telegraph and stands on its hind legs for a moment before slamming its body into the ground.
+ | The King Thresher stands on its hind legs for a moment before slamming its body into the ground.
 
--   As it highlights **White**, this means you can avoid being hit entirely by jumping before it slams down.
+_Uses Telegraph_
+
+[BlockTelegraph](Combat_Mechanics.md#blue)
+
+Block
 
  |  |
+
+### Passives
+
+-   **Serrated Claws** \- King Threshers have 100% PEN and inflict Bleed on hit.
+-   **Thresher Scales** - King Threshers have 40% physical attack resistance.
+-   **Thick Hide** - King Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Finisher
 
 | Name | Description |
 | --- | --- |
 | **Circus Trick** | Flings the victim vertically into the air with its mouth, then catches it to eat them whole. |
-
-## Passives
-
--   **Serrated Claws** \- King Threshers have 100% PEN and inflict Bleed on hit.
--   **Thresher Scales** - King Threshers have 40% physical attack resistance.
--   **Thick Hide** - King Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Tips
 

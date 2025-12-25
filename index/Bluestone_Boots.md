@@ -1,6 +1,6 @@
 ---
 title: Bluestone Boots
-revid: 186424
+revid: 186462
 source: https://deepwoken.fandom.com/wiki/Bluestone_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Craftable, Equipment with Set Bonuses, Boots]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crafting:, Crafting Station + Bluesteel Boots + 1x Warped Blue Gem, Sold in Naan Zakshun's black market for 1,000 |
+| obtainment | Crafting:, Crafting Station + Bluesteel Boots + 1x Warped Blue GemVow of Iron:, Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
 
 Bluestone Set

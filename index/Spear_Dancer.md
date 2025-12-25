@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 185562
+revid: 186505
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | description | Light on their feet. To them, the battlefield was a dance. |
 | unlock | Unlocked by Default |
+| starting health | 180 |
 | starting attributes | 20 Medium Weapon, 10 Strength, 10 Agility, 5 Intelligence, 5 Willpower, 10 Charisma |
 | final attributes | 120 Medium Weapon, 40 Strength, 70 Agility, 25 Intelligence, 25 Willpower, 50 Charisma |
 | starting traits | 1 Proficiency, 1 Dexterity, 1 Erudition |

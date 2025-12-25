@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 177083
+revid: 186457
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Starter Outfits]
 | droppable | Yes |
 | durability | 1000 |
 | resistances | +15% Physical Armor, +10% Elemental Armor |
-| obtainment | Sold from:, Nyanna in Castle Light for 80 , Traan Zakshun in Lower Erisia for 80 Chests from:, First Layer, Fishing, Lodestar, Primadon (extremely rare) |
+| obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop 80 Chests from:, First Layer, Fishing, Lodestar, Primadon (extremely rare)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

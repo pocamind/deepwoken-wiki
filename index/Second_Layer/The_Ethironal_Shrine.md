@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 180757
+revid: 186470
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -132,9 +132,9 @@ It is important to note that **very few** good items drop from standard enemy lo
 
 ## Quests
 
-### Optional Quests
+These optional quests are not essential to the main objective of clearing the second layer.
 
-#### Galewax
+### [Galewax](../Galewax.md)
 
 1.  Within the Eternal Gale, small white objects may be found lying around.
 2.  There are 7 galewaxes in the whole dungeon. They are **lost upon ending the run** or **going into Floor 2**.
@@ -149,7 +149,7 @@ It is important to note that **very few** good items drop from standard enemy lo
 4.  Instead of going down the path, turn to the right of the main path (left when you are coming up), and go down the path.
 5.  Light the Candles with Galewax and you'll be greeted to the Galewax secret.
 
-#### [Deepshore Fossil](../Deepshore_Fossil.md)
+### [Deepshore Fossil](../Deepshore_Fossil.md)
 
 -   **THIS IS A ONE TIME QUEST PER CHARACTER.** You are not required to do all of these in one run, they may be split and done at your own pace.
 
@@ -160,18 +160,18 @@ It is important to note that **very few** good items drop from standard enemy lo
 2.  Gain the two Talents "**Ethirons Gaze**" and "**Union Hook**".
 3.  Do the Galewax Secret.
 4.  Beat [Chaser](../Chaser,_Scholar_of_the_Crimson_Contract.md) atleast once.
-5.  Then, talk to Klaris in order to receive your reward.
+5.  Then, talk to [Klaris](../Klaris_Llfiend,_Mother_of_Lights.md) in order to receive your reward.
 
-#### Heretic's Sutra
+### [Heretic's Sutra](../Quests.md#heretics-sutra)
 
--   **IN ORDER TO GAIN HERETIC'S SUTRA YOU NEED 80+ WILLPOWER.**
+-   **IN ORDER TO GAIN HERETIC'S SUTRA, YOU FIRST NEED 80 WILLPOWER.**
 
-1.  Gain Tier 1 Insanity (Shivering).
+1.  Gain Tier 1 Insanity (Shivering) at any point once.
 2.  Enter the First Floor.
 3.  Find [Kasen](../Kasen.md) near the [Sanctuary Gatehouse](../Sanctuary_Gatehouse.md).
 4.  Talk to him to gain the Talent.
 
-#### [Bloodrend](../Bloodrend.md) Obtainment
+### [Bloodrend](../Bloodrend.md) Obtainment
 
 1.  Get To Firfire as usual.
 2.  Inside an Igloo is the trainer, [Vyrelda](../Vyrelda,_Master_of_Blood.md).
@@ -179,9 +179,9 @@ It is important to note that **very few** good items drop from standard enemy lo
 4.  Kill Three Ministry Bloodrenders, then come back with three Heartstars.
 5.  After obtaining Bloodrend, you may Lighthook out to keep it.
 
-#### [Arcwarder](../Oath%253A_Arcwarder.md) Questline
+### [Arcwarder](../Oath%253A_Arcwarder.md) Questline
 
--   You are required to have **20 [Flamecharm](../Flamecharm.md)**, **20 [Thundercall](../Thundercall.md)**, and **20 [Fortitude](../Attributes.md)** in order to get Arcwarder.
+-   You are required to have **20 [Flamecharm](../Flamecharm.md)**, **20 [Thundercall](../Thundercall.md)**, and **20 [Fortitude](../Attributes.md#ftd)** in order to get Arcwarder.
 
 1.  Do Floor 1 and Activate the Generator.
 2.  Talk to [Alpha](../Alpha.md) twice, and then head to [Firfire Caverns](../Firfire_Caverns.md).
@@ -190,18 +190,18 @@ It is important to note that **very few** good items drop from standard enemy lo
 5.  Talk to Alpha again after rescuing Epsi, then leave the first floor.
 6.  Head to [Miner's Landing](<../Miner's_Landing.md>), then talk to Delta in order to get the Oath.
 
-#### [Aska's Request](<../Pleeksty's_Inferno.md>)
+### [Aska's Request](<../Pleeksty's_Inferno.md>)
 
 -   You must **not** have taken the Lighthook, along with this, you need atleast **75 [Flamecharm](../Flamecharm.md)**, and a **[Resonance](../Resonance.md)**.
 
-1.  Have **one** of the following requirements: Wearing [Flame Worshipper Armor](../Flame_Worshipper_Armor.md), or having the Talent **Pleeksty's Will**, or the Talent **Pleeksty's Faith**.
+1.  Have **one** of the following requirements: Wearing [Flame Worshipper Armor](../Flame_Worshipper_Armor.md), or having the Talent [**Pleeksty's Will**](../Talents.md#inferno), or the Talent [**Pleeksty's Faith**](../Talents.md#inferno).
 2.  Do Floor 1 as normal, until reaching [Firfire](../Firfire.md).
 3.  Head to a cliff behind Firfire, and approach the Orange Particles.
 4.  Jump onto the small ledge, and do light parkour.
 5.  Open or Clip through the orange resonance doors.
 6.  Fight [Aska](../Aska.md) and defeat him, if you fail to meet a requirement, you will instead **die**. Alternatively, if you have **[Destined](../Echoes.md)**, the fight will be skipped.
 
-#### Freeing an Arch-Diver
+### [Freeing an Arch-Diver](../Mendacia.md#quest)
 
 1.  Within the Firfire Caverns, there is a Ghostly diver named [Mendacia](../Mendacia.md).
 2.  After speaking to her, she claims to be trapped within Ethiron's Bedchamber by the Kyrsgardes.

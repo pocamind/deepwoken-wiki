@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 184018
+revid: 186503
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses, Voiced Characters]
@@ -67,6 +67,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Lightning Clones will not disappear unless their attack either lands, gets blocked, parried, or dodged.
 -   He only uses Lightning Clones in phase one, superseded by Grand Volley in phase two.
 -   He grants an attack opportunity whilst summoning his clones, but there is no ending attack opportunity afterward. This attack opportunity duration is shared with Grand Volley.
+-   Unlike melee, ranged Mantras will not trigger his Displacement, allowing for an additional attack opportunity if you have one.
 -   Killing the clones while having the [Grand Feast](Talents.md#apex-predator) Talent will replenish health, Ether and Tempo.
 
  |
@@ -80,6 +81,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Targets the area relative to your player and it's movement, however, if the player is moving, he will only attempt to strike in-front of the player, and as such this move is avoidable by going to the sides or backwards.
 -   Becomes much faster in his second phase.
 -   If The Ferryman is in hitstun while casting this move, the lightning strikes will not deal damage. Attempt to run at him and attack him with consistently hitting moves, such as basic attacks. Certain Heavy Weapons will not be able to stun him often enough to prevent damage.
+-   Grants auto-parry frames during this attack in both phases. Parrying a single instance of a Lightning Strike will automatically parry the following pulses, ONLY if each pulse hits you. If a pulse misses, you will have to parry again to restart the auto-parry frames. If you are in a bad spot or do not want to rush, this can be helpful for avoiding damage.
 -   Due to the attack being faster in the second phase, a much "longer" attack opportunity will be given afterward.
 
  |
@@ -110,6 +112,7 @@ _For a visual guide consider watching [this video](https://youtu.be/HWThb2Qrn-I)
 -   Can be dodged by simply running anywhere but directly at The Ferryman.
 -   Has insanely high posture damage, almost always resulting in an instant guard-break.
 -   In a similar manner to his Lightning Assault attack, the Ferryman will give a (although much briefer) attack opportunity should any of these javelins be parried following _four_ successful parries—this requires this attack to be chained more than once, an intentionally failed Lightning Assault for one to two recent parries, or multiple players parrying at once. Otherwise, gives no attack opportunity.
+-   Similarly to Lightning Clones, Ranged Mantras will not trigger his Displacement, allowing for an attack opportunity.
 -   Can be ragdoll-cancelled.
 
  |
@@ -183,6 +186,8 @@ Phase Two is when the fight ironically is easier than the first phase if you hav
 As with all the other boss-fights within Deepwoken, the Ferryman is more of a knowledge and parry check rather than a stat-check. It is highly recommended to [solo him](https://www.youtube.com/watch?v=QazvPOWwfEs) rather than go in a group due to how his scaling works.
 
 The best way to damage the Ferryman is utilising the attack opportunities from parrying or avoiding his moves. You can NOT flourish him against a wall like [Duke Erisia](Duke_Ishamon_Erisia.md) and must instead wait for Your Turn to attack him.
+
+The Ferryman also has a fair amount of auto-parry frames during his two main methods of attack, Lightning Assault and Lightning Strike. Taking advantage of them will reduce the strain on yourself over attempting to individually parry each attack.
 
 ## Rewards
 

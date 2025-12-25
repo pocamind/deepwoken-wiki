@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 179322
+revid: 186458
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, Outfits of The Central Authority]
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits, Outfits of The Central Authority]
 | durability | 1600 |
 | resistances | +15% Physical Armor, +10% Elemental Armor, +10% Slash Armor , +15% Fire Armor |
 | talents | Lowstride |
-| obtainment | Authority Ensign Origin (automatically crafted), Sold by Nyanna and Traan Zakshun for 80 Chests From:, The Depths, Primadon, Lodestar, Erisia/General Sea Event Loot |
+| obtainment | Authority Ensign Origin (automatically crafted), Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Chests From:, The Depths, Primadon, Lodestar, Erisia/General Sea Event LootVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

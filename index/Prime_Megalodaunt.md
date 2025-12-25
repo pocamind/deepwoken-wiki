@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 184708
+revid: 186501
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -26,12 +26,12 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 **Slash**  
 (★☆☆)
 
- | A short range slash using their forearms. It can slash once, twice, four times and also mix in a kick.
+ | A short range swipe using their arms. Can slash once, twice or four times, and can also mix in **Kick**.
 
 -   Heavy posture damage.
 -   The only variant that can slash **four times** in quick succession.
-    -   In [Vow of Iron](Vow_of_Iron.md), the Prime Megalodaunt will flash with a Green highlight when slashing four times, meaning it can **only** be parried.
--   Primes attack with a much quicker pace and don't leave much time for you to attack back. Do not get greedy for hits as you can get punished easily.
+    -   When doing so, the Prime Megalodaunt will flash with a Green highlight, meaning it can **only** be parried.
+-   Prime Megalodaunts attack with a much quicker pace and don't leave much time for you to attack back. Do not get greedy for hits as you can get punished easily.
 
  | 
 
@@ -41,12 +41,16 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 **Kick**  
 (★★★)
 
- | The Megalodaunt flashes with a red telegraph before delivering a kick that ragdolls and sends the player flying if not dodged.
+ | The Prime Megalodaunt will wind up its right leg back with a red circle effect before delivering a kick that ragdolls and sends the player flying.
 
--   Causes the player to be Dazed if kicked into a wall.
--   This ability is very dangerous as it cannot be blocked and can send you into unwanted situations.
--   This attack visually appears as a bite attack without the red flash if the Megalodaunt is swimming.
--   Creates the longest duration in which the beast doesn't attack, letting you freely hit it more than the other attacks allow.
+-   Causes the player to be [Dazed](Status_Effects.md#dazed) if kicked into a wall.
+-   It will take longer to attack again after using this.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  | 
 
@@ -56,31 +60,10 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 **Thousand Needles**  
 (★☆☆)
 
- | The Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
+ | The Prime Megalodaunt bends over and points its coral tubes towards an opponent, spewing a large and constant spray of coral shards at anyone in front of/around it for a second.
 
--   There is a short-ranged AOE version and a longer-ranged single-target version. Both function the same.
-
- | 
-
- |
-| 
-
-**Tacet Hug**  
-(★☆☆)
-
- | The Prime turns invisible, with a white ring signifying where they are. After a few seconds, it turns visible again, grabs whatever is in front of it, holds it up, and chows down, before throwing it away and ragdolling it.
-
--   **Autogrips**
-
- | 
-
- |
-| 
-
-**Tacet Drop Kick**  
-(★★☆)
-
- | The Prime turns invisible. After a few seconds, it will become visible again, performing a dropkick attack.
+-   Lasts as long as auto-parry frames, meaning you can simply parry once to parry the whole attack.
+-   There is a shorter-ranged AoE version and a longer-ranged single-target version. Both function the same.
 
  | 
 
@@ -90,11 +73,38 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 **Roar**  
 (★☆☆)
 
- | The Megalodaunt lets out a roar at nearby targets, initiating combat and inflicting a generous amount of [Insanity](Insanity.md).
+ | Lets out a roar at nearby targets, inflicting [Insanity](Insanity.md) and [Fear](Status_Effects.md#fear).
 
--   After this, it usually tends to use Thousand Needles or Kick in quick succession.
--   Blocking negates much of but not all the insanity gain.
--   Increases posture damage against all players affected by the roar, similarly to Ardour Scream.
+-   Usually used as the Prime Megalodaunt's first move.
+-   Blocking negates much of but not all the Insanity gain.
+
+ | 
+
+ |
+| 
+
+**Tacet Hug**  
+(★☆☆)
+
+ | The Prime Megalodaunt turns invisible, with a white ring signifying where they are. After a moment, it turns visible again and appears over its target, grabs it, holds it up, and chews it down, before throwing it away and ragdolling it.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
+ | 
+
+ |
+| 
+
+**Tacet Drop Kick**  
+(★★☆)
+
+ | Starts out similarly to **Tacet Hug**, but after it turns visible again, it will throw out its entire body in a drop kick, flinging and ragdolling targets hit.
+
+-   The Prime Megalodaunt is the only variant that can use this attack on its own.
 
  | 
 
@@ -104,11 +114,17 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 **Cero**  
 (★★★)
 
- | The Prime Megalodaunt raises its entire body upwards, opening its jaws to begin charging up a dark orb. Once fully charged, It hunches back down, firing a massive laser beam at its target. If the player is low enough, It will **auto-execute** them. This attack is similar to the [Lionfish](Lionfish.md)'s own Cero attack.
+ | The Prime Megalodaunt raises its entire body upwards, opening its jaws to begin charging up a dark orb. Once fully charged, It hunches back down, firing a massive laser beam at its target. This attack is similar to the [Lionfish](Lionfish.md)'s own Cero attack.
 
 -   This is its most dangerous move, as it requires attention, precise timing, and deals high damage.
--   Can either fire it immediately or delay its use of the laser beam. Watch carefully for what it will try to do.
--   Players executed by the Cero move will be completely vaporized and will not drop a loot bag for others to interact with.
+-   Can either fire it immediately upon hunching or delay the firing of the laser beam. Watch carefully for what it will try to do.
+-   Players executed by the **Cero** move will be completely vaporized and will not drop a loot bag for others to interact with.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 
@@ -118,13 +134,13 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 **Jump**  
 (☆☆☆)
 
- | If the target is above it, the Prime Megalodaunt will jump at the direction of it's opponent to close the distance. Often used after Kick.
+ | If the target is above it, the Prime Megalodaunt will jump in the direction of its opponent to close the distance. Often used after **Kick**.
 
  | 
 
  |
 
-### **Passives**
+### Passives
 
 -   **Apex Predator** - The Prime Megalodaunt can use many of its attacks back to back with little endlag or delay. Additionally, they can feint their attacks and all of its attacks have very little endlag. Playing passive is highly recommended.
 -   **Thick Hide** - Prime Megalodaunts automatically extinguish [burn](Status_Effects.md#burn).
@@ -134,6 +150,10 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 | Name | Description |
 | --- | --- |
 | Curb Stomp | The Megalodaunt ends its opponent's life by delivering a stomp onto their bodies with a gruesome crunch. This happens in less than a second. This attack has an AOE effect which can be parried similar to the [Rock Golem](Rock_Golem.md)'s stomp. |
+
+## Tips
+
+This variant will test your reaction and knowledge skills to the fullest, it is vital to know when to switch from playing aggressive to playing passive, and viceversa.
 
 ## Trivia
 

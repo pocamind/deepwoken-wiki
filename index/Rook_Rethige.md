@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 182106
+revid: 186477
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Voidheart, The Knives of Eylis, Vendors]
@@ -55,13 +55,11 @@ If the player has the [Two Faced Regalia](Regalia.md#two-faced), Rook will sell 
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
-
 **Whaling Knives:**
 
-**First Encounter:**
-
 This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -105,8 +103,6 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
 </table>
 
 **Subsequent Encounters:**
-
-This dialogue is unlocked if the player had asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
 
 <table>
 <tbody>

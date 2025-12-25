@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 185928
+revid: 186475
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -49,9 +49,7 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the St
 **Tail Swipe**  
 (★★☆)
 
- | The Thresher highlights **White** and brings its tail back and flicks around to deliver a powerful blow that deals moderate damage and 20 posture damage. Attacks following this move come out sooner.
-
--   Despite that it highlights **White**, this attack can still be parried, blocked, or dodged like normal, it just means it now has an additional way to be avoided: by jumping.
+ | The Thresher brings its tail back and flicks around to deliver a powerful blow that deals moderate damage and 20 posture damage. Attacks following this move come out sooner.
 
  |  |
 | 
@@ -65,19 +63,25 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the St
 -   When about to jump out of digging, a purple telegraph will flash, use this to time your defense.
 -   When in [The Depths](The_Depths.md), Threshers will remain burrowed indefinitely, only rising out when they have reached their target.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
+
+### Passives
+
+-   **Serrated Claws** - Threshers have 100% PEN and inflict Bleed on hit.
+-   **Thresher Scales** - Threshers have ~50% Physical attack resistance.
+-   **Thick Hide** - Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Finisher
 
 | Name | Description |
 | --- | --- |
 | **Death Rattle** | Picks the victim up in its mouth and violently shakes it around, tearing them to pieces. This is deceptively quick. |
-
-## Passives
-
--   **Serrated Claws** - Threshers have 100% PEN and inflict Bleed on hit.
--   **Thresher Scales** - Threshers have ~50% Physical attack resistance.
--   **Thick Hide** - Threshers automatically extinguish [burn](Status_Effects.md#burn).
 
 ## Tips
 

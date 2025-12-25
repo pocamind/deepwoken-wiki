@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 185658
+revid: 186497
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,7 +29,7 @@ Deep Owls hail down on Lumen from an inconceivable dimension that contains their
 
 When appearing in [Upper Erisia](Upper_Erisia.md) or [The Depths](The_Depths.md), its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. During the dialogue, it is non-hostile and will not attack the player, remaining in this state until the player begins attacking or turns their back to the Deep Owl while in its detection range. Therefore, it's a good time to log out if unprepared for the battle.
 
-Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) requires a [Dark Feather](Dark_Feather.md#dark-feather), but it is progressed with [Void Feathers](Dark_Feather.md#void-feather).
+Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) requires a [Dark Feather](Dark_Feather.md#dark-feather), but is progressed with [Void Feathers](Dark_Feather.md#void-feather).
 
 ## Attacks
 
@@ -50,9 +50,8 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 **Owl Dash**  
 (★☆☆)
 
- | The Deep Owl highlights Blue and kneels on the ground for a moment before performing a spinning assault in the target's direction.
+ | The Deep Owl kneels on the ground for a moment before performing a spinning assault with shadowy waves in the target's direction.
 
--   Despite that it highlights Blue, this attack can still be parried, blocked, or dodged like normal, it just means it now has an additional way to be avoided: by crouching.
 -   Can end early without hitting you if it "collides" with something due to its large size.
 -   Deals Shadow damage.
 
@@ -64,8 +63,14 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 
  | Jumps into the air while turning into a burst of feathers, then descends back down to grab the player before flying upwards.
 
--   This is telegraphed by an audio cue and a small cloud of feathers suddenly appearing around you.
+-   This is telegraphed by a small cloud of feathers suddenly appearing around you.
 -   It is recommended to look up to time your dodge, as the Deep Owl's descent is deceptively slow.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |  |
 | 
@@ -77,19 +82,18 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 
 -   Overhead Grab and Owl Dash are typically used after this.
 -   Deals Shadowcast damage.
--   Does not grant auto-parry frames, each feather must be parried individually.
 
  |  |
+
+### Passives
+
+-   **Monster Resistance** - Physical attacks deal ~50% less damage to Deep Owls.
 
 ## Finisher
 
 | Name | Media | Description |
 | --- | --- | --- |
 | Claw Crush |  | The Owl swiftly crushes the knocked player's torso with it's talons. |
-
-## Passives
-
--   **Monster Resistance** - Physical attacks deal ~50% less damage to Deep Owls.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 176969
+revid: 186459
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Etrea]
@@ -19,7 +19,7 @@ categories: [Outfits, Expert Outfits, Etrea]
 | durability | 1200 |
 | resistances | +20% Physical Armor, +30% Elemental Armor, +25% Shadow Armor |
 | talents | Paired Soul |
-| obtainment | Chests from:, Zana, Fishing, The Depths, Minityrsa, Maestro Evengarde Rest, Songseeker Wilds, LodestarSold by Nyanna and Traan Zakshun |
+| obtainment | Chests from:, Zana, Fishing, The Depths, Minityrsa, Maestro Evengarde Rest, Songseeker Wilds, Lodestar, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

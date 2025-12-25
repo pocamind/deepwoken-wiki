@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 179769
+revid: 186474
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -38,7 +38,7 @@ This Regalia is **kept** upon wiping at or below Power 10.
     -   [Enforcers](Enforcer.md)
     -   Ambush [Mechalodaunts](Mechalodaunt.md)
     -   [Bone Keepers](Bone_Keeper.md)
--   Mute does work against some humanoids.
+-   Mute **does work** against some humanoids.
     -   [Hollow Angels](Hollow_Angel.md) (if not summoned by a [Watcher](Watcher.md))
 -   Mute will still make the following passive, but when provoked they will **not** unaggro after 15 seconds:
     -   [King Threshers](King_Thresher.md)

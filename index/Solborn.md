@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 184186
+revid: 186509
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -14,11 +14,13 @@ notices:
 |---|---|
 | description | Worthy of bonding with a phoenix, their heart kept an unquenchable flame alight. |
 | unlock | Destroy the throne of Zi'eer, the Fourth Prophet and survive phase 1. |
+| starting health | 215 |
 | final attributes | 120 Flamecharm, 40 Strength, 30 Fortitude, 40 Agility, 35 Intelligence |
 | final traits | 7 Songchant, 4 Erudition, 3 Dexterity, 2 Proficiency, 2 Vitality |
 | aspect | Heliodar |
 | locked armor | Cinderborn |
 | allowed weapons | Any |
+| starting items | Solfeather Earrings, Emberseal Pendant |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

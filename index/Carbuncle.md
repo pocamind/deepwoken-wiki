@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 186247
+revid: 186493
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -10,7 +10,7 @@ categories: [Monsters, Layer 2, Floor 1]
 
 | Carbuncle | |
 |---|---|
-| health | 14003500 (Corrupted) |
+| health | 12503125 (Corrupted) |
 | attacks | Strong Attack, Successive Attacks |
 | drops | Lesser Mantra ModifiersSparks |
 | locations | Crypt of the Unbroken, Layer 2, Starfield Veldt, Starfield Tundra, Saramaed Hollow |

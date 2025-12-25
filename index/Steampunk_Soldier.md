@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 184391
+revid: 186506
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | description | Combining frost and flame, they developed a unique steam-powered rifle. |
 | unlock | Defeat Shogun Captain, Dravik, The Rat King, or True Heart of Enmity with a Pistol, Rifle, or Greatcannon weapon (Rifle Spear counts) |
+| starting health | 175 |
 | final attributes | 60 Flamecharm, 60 Frostdraw, 80 Medium Weapon, 25 Strength, 25 Fortitude, 40 Agility, 25 Intelligence, 25 Willpower, 25 Intelligence |
 | final traits | 5 Songchant, 3 Proficiency, 3 Vitality, 2 Dexterity |
 | allowed weapons | Rifle |

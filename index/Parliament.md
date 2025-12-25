@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 184094
+revid: 186498
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -20,7 +20,7 @@ This Boss is also encountered as a potential trial in [Vow of Iron](Vow_of_Iron.
 
 All of its damaging attacks do shadow and physical damage and all apply the shadow debuff.
 
-| Name | Description | Visual Demo |
+| Name | Description | Media |
 | --- | --- | --- |
 | 
 **Talon Swipe**  
@@ -41,6 +41,12 @@ All of its damaging attacks do shadow and physical damage and all apply the shad
 
  | An unparryable swipe from the Parliament's left arm, that looks similar to the normal slash but it is much faster.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
 | 
 
@@ -52,13 +58,25 @@ All of its damaging attacks do shadow and physical damage and all apply the shad
 -   Parliament uses this when they spawn.
 -   Notably, Shade Cloak has Shadow Devour's SFX.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
 | 
 
 Curb Stomp  
 (★★☆)
 
- | The Parliament lifts its leg into a stomp, undodgable.
+ | The Parliament lifts and holds its leg in the air for a moment, before stomping down.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#cyan)
+
+Parry
 
  |  |
 | 
@@ -102,6 +120,12 @@ Overhead Grab
 -   This is telegraphed by a small cloud of feathers suddenly appearing around you.
 -   It is recommended to look up to time your dodge, as the Owl will appear above you.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  | 
 
  |
@@ -114,7 +138,6 @@ Flock of Feathers
 
 -   Overhead Grab/Owl Dash is typically used after this.
 -   Deals Shadowcast damage.
--   Does not grant autoparry frames, each feather must be parried individually.
 
  | 
 

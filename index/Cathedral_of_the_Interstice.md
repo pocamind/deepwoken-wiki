@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 184806
+revid: 186465
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -25,7 +25,7 @@ The **Cathedral of the Interstice** is a sub-location in [The City of the Drowne
 
 There are 2 ways to enter the Cathedral. From the map, there are 2 entrance points: One on the West and one on the East, also called the Elevator and Gate, respectively. There are also other, more unorthodox ways to enter the Cathedral.
 
-### West Entrance: Elevator
+### 1: West Entrance: Elevator
 
 This is the preffered method of escaping the [First Layer](First_Layer.md)
 
@@ -33,8 +33,9 @@ A small sub-elevator is located within the city section entered through the flat
 
 **Warning: Directly in front of this elevator is a set [Nautilodaunt](Nautilodaunt.md) spawn**, a mob that can easily wipe players who are unprepared to fight it. Take caution when nearing the sub-elevator. If it is present, your best chances for survival is to simply leave and find a new server. Although due to the elevator's popularity and long spawn cooldown, it is likely that the Nautilodaunt will not be present.
 
-### East Entrance: City Bells
+### 2: East Entrance: City Bells
 
+_See also: [Lost Celtor city bells](The_City_of_the_Drowned.md#city-bells) for the location of the 2 bells._  
 There are [2 bells](The_City_of_the_Drowned.md#city-bells) located in the [District of Commerce](District_of_Commerce.md), the district on the East side of [The City of the Drowned](The_City_of_the_Drowned.md), whose entrance has a sloped gate. Once [the 2 bells](The_City_of_the_Drowned.md#city-bells) are rung, a bell choir will be heard across [Scyphozia](First_Layer.md), possibly signaling the salvation of the souls trapped within. The metal gate located in the [District of Commerce](District_of_Commerce.md) will then open for 10 minutes.
 
 You can locate the 2 bells by listening a soft humming that gets louder the closer you are to the bell. Once the bell is rung, it will stop making any noises until the large gate closes down again.
@@ -63,7 +64,7 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 -   The **[Deepbound](Deepbound.md)** [Origin](Origins.md) has an innate 50 Difficulty Score, so they must always fight an [Enforcer](Enforcer.md) or [Nautilodaunt](Nautilodaunt.md), regardless of [Power](Power.md). Deepbounds are still affected by other modifiers, and normal difficulty calculations returns after they have achieved at least 50 Difficulty Score.
 -   The **Deep Champion** [Echo Modifier](Echoes.md) will always enable every enemy to be [Corrupted](Monsters.md#scyphozia), regardless of Difficulty Score or Power.
 -   The **[Shrine of Courage](Shrine_of_Courage.md)** adds 50 Difficulty Score to the Trial. Additionally, once the player completes the harder Trial, they will be rewarded with 15 Free training points.
--   **NOTE:** [Vow Of Iron](Vow_of_Iron.md) completely overhauls this system and gives a random enemy from a list and an extra enemy is added for each player in the trial.
+-   **NOTE:** [Vow of Iron](Vow_of_Iron.md) completely overhauls this system and gives a random enemy from a list and an extra enemy is added for each player in the trial.
 
 <table><caption><b>Vow Of Iron Depths Trial</b> <i>(Please update if you find more enemies)</i></caption>
 <tbody>
@@ -108,7 +109,7 @@ The number of Monsters that the player will have to fight will increase with how
 
 ### General Info
 
-Since the trial takes place inside the [First Layer](First_Layer.md), almost all enemies have a chance of being [Corrupted](Monsters.md#scyphozia) when spawned. The exception to this rule is [Nautilodaunts](Nautilodaunt.md), [Fury Nautilodaunts](Fury_Nautilodaunt.md), [Enforcers](Enforcer.md), [Mudskipper Knights](Mudskipper_Knight.md), and [Hollow Angels](Hollow_Angel.md), though if the player has **Deep Champion**, these enemies will be [Corrupted](Monsters.md#scyphozia) regardless. Though, **all** enemies in the Trial have a chance to be **Attuned**. This gives a chance of enemies spawning **BOTH** being [Corrupted](Monsters.md#scyphozia) and **Attuned**.
+Since the trial takes place inside the [First Layer](First_Layer.md), almost all enemies have a chance of being [Corrupted](Monsters.md#scyphozia) when spawned. The exceptions to this rule are [Nautilodaunts](Nautilodaunt.md), [Fury Nautilodaunts](Fury_Nautilodaunt.md), [Enforcers](Enforcer.md), [Mudskipper Knights](Mudskipper_Knight.md), and [Hollow Angels](Hollow_Angel.md), though if the player has **Deep Champion**, these enemies will be [Corrupted](Monsters.md#scyphozia) regardless. Though, **all** enemies in the Trial have a chance to be **Attuned**. This gives a chance of enemies spawning **BOTH** being [Corrupted](Monsters.md#scyphozia) and **Attuned**.
 
 In the case of 2 or more players entering the Trial, the monster spawn will calculated by the highest Difficulty score among the players, and then spawn that many enemies corresponding to the amount of players. For example, if one player with Power 17 and 2 players with Power 10 enters the trial, it will spawn 3 [Enforcers](Enforcer.md). Players with the **Deep Champion** [Echo Modifier](Echoes.md) will also make every enemy [Corrupted](Monsters.md#scyphozia), regardless of whether or not they had the highest Difficulty Score.
 
@@ -122,7 +123,7 @@ Note that leaving through the main menu or closing roblox while you are inside t
 -   Once the Trial starts, you will automatically be put into a [PvE Combat Tag](Combat_Tag.md#pve-and-pvp) for 10 minutes.
     -   If you are atop the chains, you can leave without issue, so long as you have above 60% health. See the [Combat Tag](Combat_Tag.md#pve-and-pvp) page for more specifics.
     -   Although you cannot use main menu to leave the game, you can close the game through Ctrl + L + Enter. This is not recommended as your character lingers for a few seconds before leaving, so make sure you are absolutely safe beforehand.
--   In regards of other players, be wary of everyone.
+-   In regards to other players: be wary of everyone.
     -   Players can wait near or above the elevator leading to the Trial, jumping down to backstab or sneak attack you.
     -   Players who are seemingly harmless may possess modifiers that add to your **Difficulty Score**, causing you to die to a Trial much stronger than your current strength. It is best not to enter the elevator with a random player, unless you are sure that they do not have any modifiers.
     -   There are also cases of players using the [Disguise](Attunement-less.md#disguise) Mantra, or [Murmur: Tacet](Murmur%253A_Tacet.md) to discreetly enter the Trial with another player while possessing modifiers that make the Trial much harder. Note that real [barrels](Barrel.md) will despawn prior to reaching the top, so any barrels that remains is a player using [Disguise](Attunement-less.md#disguise). This can also be counteracted by having the [Blindseer](Oath%253A_Blindseer.md) Oath.

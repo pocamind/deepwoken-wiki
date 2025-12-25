@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 176538
+revid: 186473
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -11,7 +11,7 @@ categories: [Equipment, Legs, Boots]
 | Redsteel Boots | |
 |---|---|
 | type | Legs |
-| rarity | ??? |
+| rarity | Rare |
 | selling price | ? |
 | requirements | PWR 6 |
 | weight | 1 |

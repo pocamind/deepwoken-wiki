@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 183195
+revid: 186448
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -52,7 +52,7 @@ The **First Layer** of [The Depths](The_Depths.md), also known as **Scyphozia,**
 
 Outdated, detailed map of Scyphozia
 
-There are 2 ways of escaping the First Layer.
+There are 2 ways of escaping the First Layer:
 
 -   The first is through the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation), a challenge where the player is faced with a [Monster](Monsters.md) befitting their [Power](Power.md).
 -   The second is through a [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>), only granted once specific conditions are fulfilled.
@@ -60,11 +60,11 @@ There are 2 ways of escaping the First Layer.
 ### Depths Trial
 
 _Main Page: [Cathedral of the Interstice](Cathedral_of_the_Interstice.md), [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation)_  
-The main and preferred method to escape is by the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) through the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) in the center of [The City of the Drowned](The_City_of_the_Drowned.md). You normally enter through one of the 2 gates present on the West and East sides of the city in the middle, and then go up the elevator to fight your trial, which changes difficulty depending on many various factors. See the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) page for more specific information.
+The main and preferred method to escape is by the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) through the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) in the center of [The City of the Drowned](The_City_of_the_Drowned.md). You normally enter through one of the 2 gates present on the West and East sides of the city in the middle, and then go up the elevator to fight your trial. The trial itself changes its difficulty depending on various factors relative to the player. See the [Depths Trial](Cathedral_of_the_Interstice.md#difficulty-calculation) page for more specific information.
 
 ### Wishing to Yun'Shul
 
-**This method can only be done once per character**. The alternative method is limited to players with a [Resonance](Resonance.md) and an eligible [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) or an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>). Talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place.**" This method skips the trial altogether, but will only work in the **First Layer**. You can also achieve this with the use of an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**", which does not require a [Resonance](Resonance.md) nor a [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) from [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>).
+**This method can only be done once per character**. This alternative method is limited to players with a [Resonance](Resonance.md) and an eligible [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) or an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>). Talk to [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and select the wish "**The trials ahead of me fill me with trepidation, I wish to escape this place.**" This method skips the trial altogether, but will only work in the **First Layer**. You can also achieve this with the use of an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) relic by selecting the wish "**Release me from the depths**", which does not require a [Resonance](Resonance.md) nor a [Wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) from [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>).
 
 Wishing to escape the Depths can only be done once per method, per character. For example, if you've already escaped the Depths by using an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>), then you will only be able to wish your way out again if you speak to the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) itself, and once both options have been exhausted, you will need to escape through the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md).
 
