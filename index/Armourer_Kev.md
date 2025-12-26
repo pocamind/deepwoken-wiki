@@ -1,9 +1,9 @@
 ---
 title: Armourer Kev
-revid: 185682
+revid: 186724
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Armourer Kev
@@ -14,6 +14,10 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Military pe
 | aspect | Adret |
 | location | Fort Merit |
 | affiliation | The Central Authority |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

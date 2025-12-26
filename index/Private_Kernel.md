@@ -1,9 +1,9 @@
 ---
 title: Private Kernel
-revid: 177683
+revid: 186730
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Private Kernel
@@ -11,10 +11,15 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Military p
 | Private Kernel | |
 |---|---|
 | name | Cornelius Kernel Jr.[1][2] |
+| alias | Struggling Guard |
 | aspect | Celtor |
 | location | Fort Merit |
 | affiliation | The Central Authority |
 | family | Drill Sergeant Kernel (father)[3] |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

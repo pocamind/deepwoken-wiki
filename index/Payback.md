@@ -1,6 +1,6 @@
 ---
 title: Payback
-revid: 158704
+revid: 186663
 source: https://deepwoken.fandom.com/wiki/Payback
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -35,7 +35,7 @@ Pressing C will activate the **Payback** Resonance.
 If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 50% of damage dealt, with a cap of 20% health per use. Do note that this cap is **per use** and thus, hitting multiple targets will not let you heal more.
 
 -   Posture reflected will be based on how much damage was taken, with low damage dealing low posture while high damage deals high posture.
--   80% of damage will be completely absorbed when the Payback is charging.
+-   80% of damage will be completely absorbed when the Payback is charging. **True Damage (ex: Edenbrand Hellcoil Crit) can bypass this, but will still have the damage reflected back.**
 
 #### _Versions_
 
@@ -48,11 +48,11 @@ If Payback is corrupted, it gains lifesteal from the reflected damage, equal to 
 
 ## Trivia
 
--   Payback (excluding instant and delayed variant) can be either blocked, parried or dodged.
--   The 1st variation can reflect any status effects given to the user during the timeframe i.e. getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect.
+-   Payback (excluding instant variant) can be either blocked, parried or dodged.
+-   Instant and Delayed variant can reflect any status effects given to the user during the timeframe i.e. getting hit by a fire mantra will cause the opponent to be set on fire also/getting hit by an m1 will apply the m1 hitstun to the opponent. Note that you will still be affected by the same status effect.
 -   Similar to other resonance's this one can be cancelled if the user is hit during their initial bell windup.
 -   Version 1 of the spell was named after and functions very similarly to the ability that Meliodas has in the anime "_Seven Deadly Sins_".
 -   This resonance was formerly known as "Full Counter".
--   The best way to counter beam variant payback resonance is by using the mirror variant payback. This usually will reflect the multiplied damage on top of multiplying it, the strategy can be used against jar of souls resonance if possible
+-   The best way to counter beam variant payback resonance is by using the instant/delayed variant payback. This usually will reflect the multiplied damage on top of multiplying it, the strategy can be used against jar of souls resonance if possible
 -   Prediction mantra but better with a higher duration.
 -   Payback beam variant can be used for damage redirection which differs it from other 2 variations due to the other variants being limited to reflect damage to those who attack the user whilst the beam variant can redirect damage to multiple targets if given the amount of enemies to can hit.

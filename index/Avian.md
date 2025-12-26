@@ -1,9 +1,9 @@
 ---
 title: Avian
-revid: 171989
+revid: 186741
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Avian
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 | aspect | Etrean |
 | location | Isle of Vigils |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
@@ -45,11 +49,11 @@ Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle o
 <tr>
   <td colspan="4">Nothing to say, huh? I didn't need your approval anyway.</td>
   <td colspan="4">Yeah, if you bring me a Weapon Manual I might be able to defeat him with the right training.</td>
-  <td colspan="4">Are you serious? EVERYONE knows who he is, after all hes [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] the PRODIGY everyone likes to speak about. Of course, I'm the only one who knows how much of a fraud he is.</td>
+  <td colspan="4">Are you serious? EVERYONE knows who he is, after all hes [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] the <i>PRODIGY</i> everyone likes to speak about. Of course, I'm the only one who knows how much of a fraud he is.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
-  <td colspan="4">End, Quest accepted</td>
+  <td colspan="4">[End Dialogue]</td>
+  <td colspan="4">[End Dialogue], Quest accepted</td>
   <td colspan="2">...</td>
   <td colspan="2">Anything I can do to help?</td>
 </tr>
@@ -61,7 +65,7 @@ Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle o
 </tbody>
 </table>
 
-**Quest End:**
+**Quest \[End Dialogue\]:**
 
 <table>
 <tbody>
@@ -83,10 +87,10 @@ Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle o
 <tr>
   <td colspan="2">Thanks to your help I'll be able to surpass him once and for all, just you watch.</td>
   <td colspan="2">[See "Nope."]</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="2">End, small amount of XP gained, deducts one usage from Weapon Manual</td>
+  <td colspan="2">[End Dialogue], small amount of XP gained, deducts one usage from Weapon Manual</td>
 </tr>
 </tbody>
 </table>
@@ -102,12 +106,11 @@ Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle o
   <td>Thanks to your help I'll be able to surpass him once and for all, just you watch.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   The person Avian speaks about beating, is in fact, [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), considered one of the most powerful mortals in Deepwoken. Needless to say, no matter how much training he puts in, it is unlikely he can actually beat [Maestro](Maestro_Evengarde_Rest.md).
--   This NPC has a whopping 4 spelling mistakes.
+-   This NPC has a whopping three spelling/grammar mistakes.

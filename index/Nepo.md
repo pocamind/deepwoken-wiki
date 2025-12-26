@@ -1,9 +1,9 @@
 ---
 title: Nepo
-revid: 175712
+revid: 186733
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
 ---
 
 # Nepo
@@ -15,17 +15,21 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer
 | location | Summer Isle |
 | affiliation | The Summer Company |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 “ Congrats, now leave me be. ”
 
 ― Nepo
 
 ## Description
 
-Nepo is the NPC who accepts a bribe for [The Summer Company](The_Summer_Company.md); you can pay him up to 1,200 to restore your reputation to neutral.
+Nerin is a [Celtor](Celtor.md) NPC who accepts a bribe for [The Summer Company](The_Summer_Company.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
-Nepo is located leaning by the archway across a series of bridges behind the Summer Isle Castle.
+Nepo is located on the bridge heading towards the [Inn](Inn.md) at [Summer Isle](Summer_Isle.md).
 
 ## Dialogue
 
@@ -37,10 +41,10 @@ Nepo is located leaning by the archway across a series of bridges behind the Sum
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The man barely looks up from hisbook [</i><a href="https://en.wikipedia.org/wiki/sic">sic</a><i>], scowling at you.* I'm on break and your nose seems to be clean, keep it that way.</i></td>
+  <td colspan="12"><i>*The man barely looks up from his book, scowling at you.*</i> I'm on break and your nose seems to be clean, keep it that way.</td>
 </tr>
 <tr>
-  <td><div>End</div></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -50,45 +54,42 @@ Nepo is located leaning by the archway across a series of bridges behind the Sum
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The man barely looks up from hisbook [</i><a href="https://en.wikipedia.org/wiki/sic">sic</a><i>], scowling at you.*</i> I'm on break, what do you want?</td>
+  <td colspan="8"><i>*The man barely looks up from his book, scowling at you.*</i> I'm on break, what do you want?</td>
 </tr>
 <tr>
-  <td colspan="12">I need help.</td>
+  <td colspan="8">I need help.</td>
 </tr>
 <tr>
-  <td colspan="12">Yeah it looks like it... Really made the boss angry. Lucky for you I'm the one that collects on the crime tax around here.</td>
+  <td colspan="8">Yeah it looks like it... Really made the boss angry. Lucky for you I'm the one that collects on the crime tax around here.</td>
 </tr>
 <tr>
-  <td colspan="6">Alright how much?</td>
-  <td colspan="6">Nah, not interested.</td>
+  <td colspan="4">Alright how much?</td>
+  <td colspan="4">Nah, not interested.</td>
 </tr>
 <tr>
-  <td colspan="6"><i>* He flips to a page in his book, as if checking for something</i>* [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] X Notes. No lower.</td>
-  <td colspan="6"><i>* His expression seems to darken more than before, as if that was even possible* [</i><a href="https://en.wikipedia.org/wiki/sic">sic</a><i>] I should put a bullet between your eyes right now, <b>LEAVE.</b></i></td>
+  <td colspan="4"><i>*He flips to a page in his book, as if checking for something*</i> [X] Notes. No lower.</td>
+  <td colspan="4"><i>*His expression seems to darken more than before, as if that was even possible*</i> I should put a bullet between your eyes right now, <b>LEAVE.</b></td>
 </tr>
 <tr>
-  <td colspan="3">Here.</td>
-  <td colspan="3">Nah, not interested.</td>
-  <td colspan="6"></td>
+  <td colspan="2">Here.</td>
+  <td colspan="2">Nah, not interested.</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td>Requirements Met</td>
-  <td colspan="2">Not Enough Notes</td>
-  <td colspan="3">[See first instance.]</td>
-  <td colspan="6"></td>
+  <td>Sufficient Notes</td>
+  <td>Not Enough Notes</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
   <td>Congrats, now leave me be.</td>
-  <td><i>* His expression seems to darken more than before, as if that was even possible* [</i><a href="https://en.wikipedia.org/wiki/sic">sic</a><i>] I should put a bullet between your eyes right now, <b>LEAVE</b> and don't come back till you're not broke..</i></td>
-  <td colspan="5"></td>
-  <td colspan="5"></td>
+  <td><i>*His expression seems to darken more than before, as if that was even possible*</i> I should put a bullet between your eyes right now, <b>LEAVE</b> and don't come back till you're not broke..</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="10"></td>
+  <td>[End Dialogue], reputation with The Summer Company is set to neutral</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -98,13 +99,13 @@ Nepo is located leaning by the archway across a series of bridges behind the Sum
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The man doesn't even look up from his reading*</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
+  <td><i>*The man doesn't even look up from his reading*</i></td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 177033
+revid: 186688
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Covenant of Flame]
@@ -20,7 +20,7 @@ categories: [Outfits, Adept Outfits, The Covenant of Flame]
 | durability | 1000 |
 | resistances | +10% Physical Armor, +5% Elemental Armor, +25% Fire Armor |
 | talents | Intrepid Flame |
-| obtainment | Bought from:, Etris, behind Lance Leshi's food shop, Traan Zakshun for 80 Chests:, Erisia/General Sea Event Loot, Lodestar |
+| obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Erisia/General Sea Event Loot, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
 

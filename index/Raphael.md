@@ -1,9 +1,9 @@
 ---
 title: Raphael
-revid: 172107
+revid: 186695
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, Quests]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Quests]
 ---
 
 # Raphael
@@ -13,6 +13,14 @@ categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, Quests]
 | name | Raphael |
 | aspect | Celtor |
 | location | Varicosa District |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ If you should find yourself returned to the surface please seek out **Morning** and tell them that preparations are almost complete. ”
+
+― Raphael
 
 ## Description
 
@@ -75,7 +83,7 @@ Raphael is located in [The City of the Drowned](The_City_of_the_Drowned.md) insi
   <td colspan="2">If I see Morning I'll let them know.</td>
   <td colspan="2">You expect me to find someone named Morning with no other clues?</td>
   <td colspan="2">If I see Morning I'll let them know.</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="8">[See first instance]</td>
@@ -111,7 +119,7 @@ Raphael is located in [The City of the Drowned](The_City_of_the_Drowned.md) insi
   <td colspan="6"><i>*He narrows his eyes, then smirks.*</i> Connections I'm sure we have in common, friend. Should you need it, I'm sure you'll find that death can be made a stranger to you too.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

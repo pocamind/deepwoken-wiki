@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 185467
+revid: 186655
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -75,7 +75,7 @@ The player can lose reputation with a faction by:
 
 Players can bribe specific NPCs up to ~1200 notes (depending on how much reputation below 0 they have) to set their reputations to 0.
 
-NOTE: Only 7 of the 11 factions have an NPC that offer this service.
+NOTE: Only 8 of the 12 factions have an NPC that offer this service.
 
 | Image | Faction | Name | Location |
 | --- | --- | --- | --- |
@@ -141,6 +141,22 @@ File:Soothsayer.png
 [The Ministry](The_Ministry.md)
 
  | [Soothsayer](Soothsayer.md) | Sitting in a corner on the way to [Starfield Tundra](Starfield_Tundra.md). |
+| 
+
+ | 
+
+[Etrean Royalists](Etrean_Royalists.md)
+
+ | [Ferenc](Ferenc.md)  
+[Kazue](Kazue.md)  
+[Seon](Seon.md)  
+[Yen](Yen.md) | Ferenc: On the shore of a neighboring island near the [Isle of Vigils](Isle_of_Vigils.md)  
+
+Kazue: Near the bridge headed towards [The Sable Estate](The_Sable_Estate.md)  
+Seon: On a shore near Summer Isles and also near [The Golden Rat](The_Golden_Rat.md)  
+Yen: Near the front of the [Songseeker Temple](Songseeker_Temple.md)
+
+ |
 
 ## Factions/Entities
 
@@ -154,6 +170,7 @@ File:Soothsayer.png
 -   [The Hundred Legions](The_Hundred_Legions.md)
 -   [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
 -   [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
+-   [Etrean Royalists](Etrean_Royalists.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
 -   [Lost Celtor](Lost_Celtor.md)
@@ -162,15 +179,15 @@ File:Soothsayer.png
 
 -   [Bandits](Bandit.md)
 -   [Blacksteel Pirates](Blacksteel_Pirate.md)
--   [Golden Rat Fighters](Rat_Fighter.md)
--   [Songseekers](Songseeker_Wilds.md)
--   [Starkindred Church](Samael.md)
+-   [The Golden Rats](The_Golden_Rats.md)
+-   [Songseekers](Songseeker.md)
+-   [The Starkindred Church](The_Starkindred_Church.md)
 
 ## Trivia
 
 -   At one point in time, the Summer Company's reputation dialogue was accidentally linked to your reputation with the Authority.
--   The [Celebrity](Talents.md#public-figure) Talent increases your base reputation with all factions and increases the positive reputation you gain.
--   The [Under The Radar](Talents.md#public-figure) Talent requires factions to have more negative reputation with you to put out bounties on you.
+-   The [Celebrity](Talents.md#celebrity) Talent increases your base reputation with all factions and increases the positive reputation you gain.
+-   The [Under The Radar](Talents.md#under-the-radar) Talent requires factions to have more negative reputation with you to put out bounties on you.
 -   Spitting on a guard causes them and other guards nearby to become aggressive regardless of your reputation. This will give you negative reputation with the faction.
     -   This is negated if you have 51 charisma or more, as they will instead thank you.
 -   Most of downsides to bad reputation can be lessened or weakened by [Charisma](Attributes.md) Talents.

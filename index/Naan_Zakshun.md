@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 186594
+revid: 186745
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Naan Zakshun is an NPC merchant who sells various equipment and weapons labelled as "Naan's Salvaged Stock". She wears an iron tag around her neck that signifies her ties to the [Circle of Honour](Circle_of_Honour.md).
+Naan Zakshun is an NPC merchant who sells various equipment and weapons labelled as "Naan's Salvaged Stock". She wears an Iron Memento around her neck that signifies her ties to the [Circle of Honour](Circle_of_Honour.md), though she mainly uses these ties to better haggle with its members.
 
 Unlike Traan Zakshun, who has the same stock for everyone, her stocks depends on the player's progression. After defeating a memory boss, such as the Shogun of the Prophet's Guard (Temple of Mur), Dravik The Rat King or the True Heart of Enmity, her stock will be "upgraded". Said stock is the same for all players with similar progression.
 
@@ -110,8 +110,8 @@ It is overlooked by the nearby Diver Camp.
 <tr>
   <td>Here's the current garbage. Try not to drool.<br>
   <font>[Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
-  <td>WIP</td>
-  <td>WIP</td>
+  <td>Done and done! Come back some time, I'll always appreciate more money!</td>
+  <td>You're carrying way too much on you Ironsworn.</td>
 </tr>
 <tr>
   <td colspan="3">[End Dialogue]</td>
@@ -160,21 +160,32 @@ Naan's Salvaged Stock
 
 Naan's item descriptions will change randomly each time they hit their hourly rotation:
 
+-   _An item most regal~ haha!_
 -   _Divine, darling._
+-   _Drallis Ehr and I were in the SAME ROOM!!! AND I HAD THIS WITH ME!!!!!!! BUY IT!!!!!!!!!!!!!!_
 -   _Haha, you got me... here's the real price!_
+-   _Hey hey hey no. No, this is a GOOD price._
 -   _I can gift wrap it if you like, Ironsworn._
+-   _I could go for a megurger._
 -   _I DON'T WANT YOUR CHARITY! BUT I DO WANT YOUR MONEY!!!_
+-   _I drew a little Lionfish for my boy on the side there look!~ haha!_
+-   _I know a guy who makes these!_
+-   _I know this is what you're looking for... Ironsworn._
+-   _I would buy this from me._
 -   _Ignore the red on it, it came like that._
+-   _Ironsworn, the circle totally shipped these to me on the down low... I'll cut you a deal yeah?_
+-   _I- what?... No it doesn't come in purple, what the hell are you even talking about?_
 -   _I'll sweeten the deal... What if I made it purple?_
 -   _I'm done playin' around Pathfi-... Ironsworn. BUY SOMETHING ALREADY!_
--   _I- what?... No it doesn't come in purple, what the hell are you even talking about?_
 -   _Look at all those shiiiiiny colours oOOOooOOoOOOO! BUUYY ITTT!!!!!!_
 -   _Lovely weather for buying something exactly like this, eh Ironsworn?_
+-   _Oooohohohohhoooooooooohoooohohohooooooohohooohoohoo!!!!~_
 -   _People keep asking for these to be purple? Do you know why?_
 -   _This one really jumped out to me when I was looting the poor lass that had it haha.._
 -   _Unlike anything you've ever seen ooOOOoOOoOOoooooo only for... whatever the sticker price is!_
 -   _Wowie... You gonna buy it?_
 -   _Yikes, I'm not sure if you can afford the majesty that is this item._
+-   _Y'know, there was a study within Markor about how our minds form Vows, I'm not one of these smart guys but it sounds like if you will something it comes true right? Sooooo I should be able to like VOW to have YOU buy THIS THING then huh? You don't want me to cast my evil VOW on you HUH? BUYYYY ITTTT!!!!!!!!!!!_
 
 ## Shop Rotation
 
@@ -191,9 +202,21 @@ Sold Items
     <li><b>For 80 </b>:
   <ul>
     <li><b>Starter</b>: <a href="Hired_Mercenary.md">Hired Mercenary</a></li>
-    <li><b>Adept</b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a></li>
-    <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a></li>
+    <li><b>Adept</b>: <a href="Authority_Peacekeeper_Armor.md">Authority Peacekeeper Armor</a>, <a href="Carefree_Garments.md">Carefree Garments</a>, <a href="Diver_Apprentice_Robes.md">Diver Apprentice Robes</a>, <a href="Flame_Worshipper_Armor.md">Flame Worshipper Armor</a>, <a href="Ignition_Union_Uniform.md">Ignition Union Uniform</a>, <a href="Keeper.md">Keeper</a></li>
+    <li><b>Expert</b>: <a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Diver_Journeyman_Robes.md">Diver Journeyman Robes</a>, <a href="Hive_Drone.md">Hive Drone</a></li>
   </ul></li>
+    <li><b>For 200 </b>:
+  <ul>
+    <li><b>Expert</b>: <a href="Varicosan_Finery.md">Varicosan Finery</a></li>
+    <li><b>Master</b>: <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
+  </ul></li>
+  </ul></td>
+</tr>
+<tr>
+  <td><b>Miscellaneous</b></td>
+  <td>
+  <ul>
+    <li><b>For 400 </b>: <a href="Dye_Packet.md">Dye Packet</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -239,16 +262,21 @@ Naan's item descriptions will change randomly each time they sell goods from the
 -   _Can't wait to snag a seafood boil from the Meat Lord, gonna swing by The Three Cheers and catch him vending with my grandson after this._
 -   _Clean this when you get a minute._
 -   _Dark times yknow, come fully clad as a clown and I'll cut you a deal._
--   _I actually forgot I had this until my grandson pointed it out to put up for sale, his eye for these things is magnificent, takes after his Nana~ haha._
+-   _Don't ask where I got this._
 -   _Drop it I dare you._
+-   _Got somethin' that might interest ya..._
+-   _I actually forgot I had this until my grandson pointed it out to put up for sale, his eye for these things is magnificent, takes after his Nana~ haha._
 -   _I barely know what I'm looking at here._
 -   _I lost my fangs a long time ago..._
+-   _No questions, no returns.\*_
+-   _Oh, the sticker price is actually a bit cheaper than it's supposed to be, whatever~ call it a flash sale!_
 -   _Only look if you wanna buy, Okay?_
 -   _The grandson keeps talking about us doing mystery boxes..._
 -   _This is one of my favourites!_
 -   _Ughh, it kills me to get rid of this, I need the notes more than I need this thing though._
 -   _Wipe it down when you get out of here yeah? Its past wasn't pretty._
 -   _You didn't get this from me. Capiche?_
+-   _You take this and blast that calamity's head clean off with it alright?_
 -   _You wouldn't believe how hard these were to find._
 -   _You're yapping words at me and it's just static, I don't care- the price is final._
 
@@ -271,7 +299,9 @@ Sold Items
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
+    <li><b>For 4,000 </b>: <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 5,000 </b>: <a href="Red_Snapper.md">Red Snapper</a></li>
+    <li><b>For 8,000 </b>: <a href="Sea_Bass.md">Sea Bass</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -288,11 +318,12 @@ Sold Items
   <ul>
     <li><b>For 1,000 </b>:
   <ul>
-    <li><b>Head</b>: <a href="Rogue_Assassin's_Hood.md">Rogue Assassin's Hood</a><abbr></abbr></li>
+    <li><b>Head</b>: <a href="Bloodcurdle_Cowl.md">Bloodcurdle Cowl</a><abbr></abbr>, <a href="Rogue_Assassin's_Hood.md">Rogue Assassin's Hood</a><abbr></abbr></li>
     <li><b>Arms</b>: <a href="Bluestone_Pauldrons.md">Bluestone Pauldrons</a></li>
     <li><b>Legs</b>: <a href="Bluestone_Boots.md">Bluestone Boots</a></li>
+    <li><b>Torso</b>: <a href="Trueblood_Pendant.md">Trueblood Pendant</a><abbr></abbr></li>
     <li><b>Face</b>: <a href="Ascended_Outlaw_Mask.md">Ascended Outlaw Mask</a></li>
-    <li><b>Rings</b>: <a href="Divine_Cast_Ring.md">Divine Cast Ring</a><abbr></abbr></li>
+    <li><b>Rings</b>: <a href="Azure_Duelist_Ring.md">Azure Duelist Ring</a><abbr></abbr>, <a href="Divine_Cast_Ring.md">Divine Cast Ring</a><abbr></abbr></li>
   </ul></li>
     <li><b>For 2,300 </b>:
   <ul>
@@ -304,6 +335,7 @@ Sold Items
   <ul>
     <li><b>Head</b>: <a href="Flame_Demon_Horns.md">Flame Demon Horns</a><abbr></abbr></li>
     <li><b>Arms</b>: <a href="Konga's_Parka.md">Konga's Parka</a><abbr></abbr>, <a href="Sorcerer's_Mantle.md">Sorcerer's Mantle</a></li>
+    <li><b>Legs</b>: <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a><abbr></abbr>, <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a><abbr></abbr></li>
     <li><b>Ears</b>: <a href="Flare_Drop_Earrings.md">Flare Drop Earrings</a><abbr></abbr></li>
   </ul></li>
     <li><b>For 5,000 </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
@@ -311,3 +343,7 @@ Sold Items
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   As with [her grandson](Traan_Zakshun.md), Naan Zakshun's name is a pun/wordplay: her first name sounds similar to "nan", a slang word for one's grandmother, playing on the fact that she is Traan's grandmother.

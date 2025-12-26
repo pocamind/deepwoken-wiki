@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 180737
+revid: 186669
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -25,7 +25,9 @@ This enchantment changes your weapon's color to black and emits red and black sp
 
 ## Effect
 
-Curse of the No Life King grants passive regeneration to your character, scaling on your weapon investment. This passive regeneration will scale down with the more maximum health you have.
+Curse of the No Life King grants passive regeneration to your character, scaling on your weapon investment. This passive regeneration will scale down with the more maximum health you have, with its formula being:  
+( f n ( M a x H p ) % of ⁡ M a x H p ) ⋅ W e a p o n I n v e s t 100 + B a s e H e a l t h R e g e n {\\displaystyle \\left(f\_{n}\\left(M\_{axHp}\\right)\\%\\operatorname {of} M\_{axHp}\\right)\\cdot {\\frac {W\_{eaponInvest}}{100}}+B\_{aseHealthRegen}} {\\displaystyle \\left(f\_{n}\\left(M\_{axHp}\\right)\\%\\operatorname {of} M\_{axHp}\\right)\\cdot {\\frac {W\_{eaponInvest}}{100}}+B\_{aseHealthRegen}}  
+[Desmos here](https://www.desmos.com/calculator/dhzch05wnv)
 
 Additionally, your basic attacks reduces your opponent's sanity by 2% with every hit.
 
@@ -45,7 +47,7 @@ The following effects have reduced effectiveness or are entirely disabled while 
 
 ### Notes
 
--   The passive regen buff caps at 100 weapon investment.
+-   [Wyrmtooth](Wyrmtooth.md) will prioritize Heavy Weapons investment over Medium Weapons.
 -   This enchantment does not work in the [Chime of Conflict](Chime_of_Conflict.md).
 -   If you unequip your weapon, the life that this enchantment stole will come back, assuming it's the reason why your healthbar was stained in the first place.
 -   Blood **drain** effects are entirely unaffected by Curse of the No Life King's double blood damage curse. This means this curse does not affect the blood loss [Resonance Downside](Resonance.md#corrupted-resonances) nor casting or being hit by [Bloodrend](Bloodrend.md) Mantras.

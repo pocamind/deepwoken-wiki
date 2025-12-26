@@ -1,6 +1,6 @@
 ---
 title: Vapormaw Carbine
-revid: 182982
+revid: 186738
 source: https://deepwoken.fandom.com/wiki/Vapormaw_Carbine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, "Attunement-based Weapons", Rifles, Medium Weapons]

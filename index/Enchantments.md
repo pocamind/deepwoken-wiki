@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 186352
+revid: 186661
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -900,7 +900,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
     <li><a href="Crafting_Recipes.md">Crafting</a> <a href="Crafting_Recipes.md">CraftingEmpty</a>:<p></p></li>
   </ul></div></div></td>
   <td><div>Weapon is completely black. 2-4 black &amp; red flame spikes surround the weapon.<br>
-  When sheathed, the flame spikes are invisible. (Currently bugged as of 6/26/25)</div></td>
+  When sheathed, the flame spikes are invisible.</div></td>
 </tr>
 <tr>
   <td><figure>File:Curse.gif<figcaption></figcaption></figure><center><br>

@@ -1,9 +1,9 @@
 ---
 title: Tolkat
-revid: 173678
+revid: 186758
 source: https://deepwoken.fandom.com/wiki/Tolkat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
 ---
 
 # Tolkat
@@ -13,6 +13,10 @@ categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, Voiced Char
 | name | Tolkat |
 | aspect | Canor |
 | location | Miner's Landing |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ This is what people with muscles do, right? Eat rocks, push boulders... Y'know? ”
 

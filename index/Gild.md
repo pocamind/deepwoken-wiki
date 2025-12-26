@@ -1,9 +1,9 @@
 ---
 title: Gild
-revid: 177042
+revid: 186697
 source: https://deepwoken.fandom.com/wiki/Gild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer]
 ---
 
 # Gild
@@ -12,12 +12,20 @@ categories: [NPCs, NPCs located in the First Layer]
 |---|---|
 | name | Gild |
 | aspect | Celtor |
-| location | Varicosa District, First Layer |
+| location | Varicosa District |
 | affiliation | Lost Celtor |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ We're just smudges on the glass, waiting to be cleaned off. ”
+
+― Gild
 
 ## Description
 
-Gild is an old [Celtor](Celtor.md) NPC, He wears Merchant Robes and has apparently been stuck in the depths ever [since Celtor City sank](https://deepwoken.fandom.com/wiki/Lore?so=search#The_Great_Drowning_of_Celtor).
+Gild is an old [Celtor](Celtor.md) NPC. He wears [Merchant Robes](Merchant_Robes.md) and has apparently been stuck in the depths ever since Celtor sank below the Tides.
 
 ## Location
 

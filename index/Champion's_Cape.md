@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 178539
+revid: 186706
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes, Craftable]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Capes, Craftable]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Crafting in the Merit Detainment Core |
+| obtainment | Crafting in the Merit Detainment CoreVow of Iron:, True Heart of Enmity direct drop |
 | description | Time to write your own legends. |
 
 ## Description

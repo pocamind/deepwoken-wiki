@@ -1,9 +1,9 @@
 ---
 title: Yakob
-revid: 185944
+revid: 186714
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Yakob
@@ -14,6 +14,10 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant, Military pe
 | aspect | Adret |
 | location | The Three Cheers |
 | affiliation | The Central Authority |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Soon as you lot pulled up at the dock, there was an uproar - I swear, I don't think I've ever seen the folks here be this happy. ”
 

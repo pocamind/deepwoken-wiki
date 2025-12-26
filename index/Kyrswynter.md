@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 186550
+revid: 186774
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -42,8 +42,6 @@ The Kyrswynter comes with a single passive ability:
 
 -   **Subzero Strike -** Enemies are blasted away with an explosion on flourish, dealing extra damage and proccing Chill or Crystal stacks. This does 10 base damage. ([Dazing Finisher](Talents.md#dazing-finisher)/[Bulldozer](Talents.md#bulldozer) do not proc)
 
-## Obtainment
-
 The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
 1.  Have **75** Frostdraw and obtain the Talent [Ethiron's Gaze](Talent_Quests.md).
@@ -73,9 +71,7 @@ The criticals can be chained together by M1ing during the windup of the standing
 
 Both criticals share a cooldown of **9 seconds**.
 
-## Gallery
-
-### Trivia
+## Trivia
 
 -   Previously the running critical used to have an Ice Blue indicator. This was later changed to a standard Red indicator to avoid confusion.
 -   As stated in the description of the Kyrswynter, it explains how Old Kyrsan weaponry was far more pristine than New Kyrsan weaponry. As implied by his sibling, [Naerotiv](Naerotiv.md), [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) was likely the last Kyrsan to create a weaponry of such intricacy.

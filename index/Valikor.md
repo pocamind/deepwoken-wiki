@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 168059
+revid: 186609
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]
@@ -53,7 +53,7 @@ Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
   <td colspan="2">Player has 50 Notes</td>
   <td colspan="2">Player does not have 50 Notes</td>
   <td colspan="4">Do you FEAR learning through VOCAL EXERCISE? The only way you're gonna learn this technique is by having it <i>SCREAMED</i> into your <i>SKULL</i>.</td>
-  <td colspan="4"><b>There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine.</b> <i>*He clears his throat, coughing</i><p>briefly.*<i> Ah, where are my manners? You wouldn't stand a chance. Pay up or get LOST, kid.</i></p></td>
+  <td colspan="4">There is no such thing as a bright future for you. You will suffer under my fist, disrespectful swine. <i>*He clears his throat, coughing</i><p>briefly.*<i> Ah, where are my manners? You wouldn't stand a chance. Pay up or get LOST, kid.</i></p></td>
   <td colspan="2">Player meets Charisma requirement</td>
   <td colspan="2">Player does not meet Charisma requirement</td>
 </tr>

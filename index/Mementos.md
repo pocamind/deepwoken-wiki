@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 186046
+revid: 186711
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, Mechanics]
@@ -23,6 +23,8 @@ Each Memento has their own set memory missions.
 Mementos can equip any weapon in their category regardless of stats, but can only equip weapons of their categories and if their final stats are equal/above the requirement. For example, the Saint Jay Memento can only utilise Shields, Greatswords, Greathammers and Greataxes, but cannot equip weapons such as the Kanabo.
 
 Beating The Shogun, Lord Regent, or The Rat King adds completion marks to your Memento on the memento menu.
+
+In the menu, the Mementos are represented by an Iron Memento, a metal tag worn by certain members of the [Circle of Honour](Circle_of_Honour.md).
 
 ## List
 

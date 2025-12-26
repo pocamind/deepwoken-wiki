@@ -1,9 +1,9 @@
 ---
 title: Drill Sergeant Kernel
-revid: 185680
+revid: 186712
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Drill Sergeant Kernel
@@ -15,6 +15,10 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Military p
 | location | Fort Merit |
 | affiliation | The Central Authority |
 | family | Private Kernel (son)[1] |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Trueblood Pendant
-revid: 181897
+revid: 186641
 source: https://deepwoken.fandom.com/wiki/Trueblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | Sold in Naan Zakshuns's black market for 1,000 |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

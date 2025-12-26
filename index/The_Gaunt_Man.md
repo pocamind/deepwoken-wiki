@@ -1,9 +1,9 @@
 ---
 title: The Gaunt Man
-revid: 180121
+revid: 186747
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Krulian NPCs, NPCs, Vendors]
+categories: [Krulian NPCs, Pathfinder Exclusive, NPCs, Vendors]
 ---
 
 # The Gaunt Man
@@ -12,6 +12,12 @@ categories: [Krulian NPCs, NPCs, Vendors]
 |---|---|
 | species | Krulian |
 | location | Celtor Wastes |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+  
 
 ## Description
 

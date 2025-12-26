@@ -1,6 +1,6 @@
 ---
 title: Seroth
-revid: 171785
+revid: 186611
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -37,7 +37,7 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
   <td colspan="16">Begin</td>
 </tr>
 <tr>
-  <td colspan="16"><i>*The man startles almost dropping a small vial of dried blood*</i> Wh- you arent supposed to be here -- ahem! Official Guard business. Nothing you need to trouble yourself with, <a href="Glossary.md#pathfinders">Pathfinder</a>!.</td>
+  <td colspan="16"><i>*The man startles almost dropping a small vial of dried blood*</i> Wh- you arent [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] supposed to be here -- ahem! Official guard business. Nothing you need to trouble yourself with, <a href="Glossary.md#pathfinders">Pathfinder</a>.</td>
 </tr>
 <tr>
   <td colspan="8">Guard business? In here?</td>
@@ -45,16 +45,16 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
 </tr>
 <tr>
   <td colspan="8">Yes. Guard business. Royal Etrean Guard blood... analysis.. Very delicate - you wouldn't understand obviously, just move along.</td>
-  <td colspan="8">Jumpy?! Hah, no, I'm focused. I have an eye for the tiniest splatter, details you couldnt dream of grasping. Now, kindly stop breathing down my neck.</td>
+  <td colspan="8">Jumpy?! Hah, no, I'm focused. I have an eye for the tiniest splatter, details you couldnt [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] dream of grasping. Now, kindly stop breathing down my neck.</td>
 </tr>
 <tr>
-  <td colspan="4">Not until you tell me what youre doing</td>
+  <td colspan="4">Not until you tell me what you're doing</td>
   <td colspan="4">Relax I was just asking</td>
-  <td colspan="4">Not until you tell me what youre doing</td>
+  <td colspan="4">Not until you tell me what you're doing</td>
   <td colspan="4">Alright alright</td>
 </tr>
 <tr>
-  <td colspan="4"><i>*Seroth fumbles glancing at the corpse beside him.*</i> W-what Im doing is beyond your clearance, civilian, tell you what - here... Take this and disappear, hm?</td>
+  <td colspan="4"><i>*He fumbles glancing at the corpse beside him.*</i> W-what Im [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] doing is beyond your clearance, civilian, tell you what - here... Take this and disappear, hm?</td>
   <td colspan="4">Good, then we understand each other. Still, if it keeps you quiet.. Here, take this and be gone.</td>
   <td colspan="4">[See first instance]</td>
   <td colspan="4">[See "Relax I was just asking"]</td>
@@ -67,12 +67,12 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
 </tr>
 <tr>
   <td colspan="2">A worthless lump of scrap from what looks to be his old weapon - nothing of consequence to me. Though, some grubby pawnbroker might toss you coin for it. Take it.</td>
-  <td colspan="2"><i>*Seroth shoves the brittle fragments in your hands, wiping his gloves as though the thing disgusts him.*</i> Pawn it toss it I don't care.. Just leave me to my work.</td>
+  <td colspan="2"><i>*He shoves the brittle fragments in your hands, wiping his gloves as though the thing disgusts him.*</i> Pawn it, toss it, I don't care.. Just leave me to my work.</td>
   <td colspan="4">[See first instance]</td>
 </tr>
 <tr>
   <td colspan="2">Fine hand it over</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">[See first instance]</td>
@@ -91,7 +91,7 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
   <td colspan="12">Still here? Tch... Don't you have better thing to do than bothering a working man?</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -117,7 +117,7 @@ This dialogue is unlocked if the player has the [Sanguine Transfuser](Sanguine_T
   <td colspan="12"><i>*Pinching the bridge of his nose, Seroth releases a deep exhale*</i> I can not believe i handed the one exact-<b>PRECISE</b> thing that i was looking for to a <b>SCHMUCK</b> like you... <i>*He exhales again, this time a little harder.*</i> Man, he's gonna lose it.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -133,7 +133,7 @@ This dialogue is unlocked if the player has the [Sanguine Transfuser](Sanguine_T
   <td colspan="12">Oh, you.. <i>*Seroth scowls.*</i> If I had my katana with me... <i>*Seroth releases his scowl into a lamentful exhale, deflating in front of you.*</i> Who am I kidding, if I knew I could take you I'd have already tried... please just leave me alone.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

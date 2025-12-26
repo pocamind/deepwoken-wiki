@@ -1,6 +1,6 @@
 ---
 title: Bloodcurdle Cowl
-revid: 181874
+revid: 186680
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses, Hoods]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Equipment with Set Bonuses,
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

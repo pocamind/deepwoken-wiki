@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 186568
+revid: 186775
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1498,11 +1498,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Gale Kata
 
--   _Imperium Kata_ \[Common Talent\] - Wield an advanced form of the Legion's martial arts.
+-   _Imperium Kata_ \[Quest Talent\] - Wield an advanced form of the Legion's martial arts.
     -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md).
     -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)
 
--   _Legion Kata_ \[Common Talent\] - Gain the ability to use the Legion's martial arts.
+-   _Legion Kata_ \[Quest Talent\] - Gain the ability to use the Legion's martial arts.
     -   Allows you to use [Legion Kata](Legion_Kata.md), a [fist style](Fists.md).
     -   Prerequisite: Talk with [Amara](Amara.md) while having Captain's Rec in your inventory. **NOTE: IF YOU HAVE CLICKED WHILE HOLDING THE REC OUT, DELETING IT, YOU CAN STILL LEARN LEGION KATA**
 
@@ -2075,7 +2075,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Justicar
 
--   _Jus Karita_ \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+-   _Jus Karita_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Jus Karita](Jus_Karita.md) [fist style](Fists.md).
     -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 
@@ -2480,7 +2480,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Mutual Exclusive: Orbital Ice
         -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Orbital Ice.
 
--   _Way of Navae_ \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+-   _Way of Navae_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
     -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
     -   Prerequisites: Bring a [Navaen Hostage](Navaen_Hostage.md) to the [Eastern Camp Master](Cheral.md) or [Eastern Nomad Leader](Eastern_Nomad_Leader.md).
 
@@ -4502,6 +4502,41 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 ## [Vow of Iron](Vow_of_Iron.md) Exclusive Talents
 
 Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These exclusive Talents will be listed here by category, in alphabetical order. Keep in mind that many of the non-Vow of Iron exclusive Talents are still obtainable in this gamemode, but they will not be listed in this section.
+
+### Breaker
+
+-   Breakthrough \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture damage on light attacks are increased by 10%.
+    
+    -   Increases the posture damage of M1s by 10%.
+    -   Prerequisites: [Breaker](Breaker.md) Memento, Power 5, 200
+
+-   Calamity Punch \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
+    
+    -   Prerequisites: [Breaker](Breaker.md) Memento
+
+-   Dormant Strength \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - At max Calamity Punch stacks increased posture damage & physical damage.
+    
+    -   Increases your [Strong Left](Attunement-less.md#strong-left)'s damage and posture damage if you are at max Calamity Punch stacks.
+    -   Prerequisites: [Breaker](Breaker.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   **Relentless Barrage** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Every swing from [Rapid Punches](Attunement-less.md#rapid-punches) deals more posture than the last. At max punch stacks enables hyperarmor during the barrage.
+    
+    -   Your Rapid Punches posture damage per hit scales on the amount of hits landed/blocked.
+    -   At max Calamity Punch stacks, gain hyperarmor during Rapid Punches.
+    -   Prerequisites: [Breaker](Breaker.md) Memento, Power 15, 200
+
+-   Shattering Left \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Strong Left](Attunement-less.md#strong-left) and [Wind-up](Wind-Up.md) punches will always guard break mobs.
+    
+    -   Turns your Strong Left and Wind-Up enhanced attacks into guaranteed guardbreaks against blocking NPCs.
+    -   Prerequisites: [Breaker](Breaker.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Threefold Impact \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Every stack built with [Strong Left](Attunement-less.md#strong-left) provides a buff. 1st successful attack will reduces cooldown, 2nd ignores armor, and 3rd increases damage & guardbreaks.
+    
+    -   Grants buffs to your Strong Left based on how many Calamity Punch stacks you have.
+        -   With one stack, your Strong Left cooldown will be reduced by ?s.
+        -   With two stacks, your Strong Left will ignore your opponent's armor, on top of the first stack bonus.
+        -   With three stacks, your Strong Left will deal additional damage and guardbeak, on top of the first and second stack bonuses.
+    -   Prerequisites: [Breaker](Breaker.md) Memento, 200
 
 ### Chaotic Moon
 

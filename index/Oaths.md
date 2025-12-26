@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 185865
+revid: 186645
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -220,9 +220,9 @@ Oaths that are mentioned by either NPCs or developers but are not currently in t
 ## Warmaster
 
 -   Not much is known about it, but its confirmed to be an Oath that is going to be added in a future update, as stated by Ragoozer.
--   One notorious user of this Oath is [Warden Jericho](Warden_Jericho.md). This was confirmed by Ragoozer, but can additionally be seen ingame in the [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), the dialogue of the [Windrunner](Windrunner.md), and the, very likely, Oath-given cosmetic Jericho has on his head that shares an appearance with the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
--   Similar to Blindseer being the counter-Oath to Visionshaper, there is a high chance of this Oath having the same relationship the Contractor Oath due to the fact that the Windrunner explains that the two Oaths are inherently against each other. And in the [Journal of Warden Jericho](Journal_of_Warden_Jericho.md), it is explained that the Warden is trying to stop the Contractors, being [Zi'eer](The_Lord_Regent.md) (Lord Regent) and his puppets (Contractor players).
--   The source of power of the Oath is something called "The Circle of Honor", it is not known if its related to the Central Authority or not, but they are confirmed to be the source and creators of the Warmaster Oath.
+-   One notorious user of this Oath is [Warden Jericho](Warden_Jericho.md).
+-   Similar to [Blindseer](Oath%253A_Blindseer.md) being the counter-Oath to [Visionshaper](Oath%253A_Visionshaper.md), there is a high chance of this Oath having the same relationship the [Contractor](Oath%253A_Contractor.md) Oath due to the fact that Warmasters swear an Oath to vanquish [Zi'eer](The_Lord_Regent.md) and the Contractors.
+-   The source of power of the Oath is the [Circle of Honour](Circle_of_Honour.md).
     
 
 **Voidhunter:**

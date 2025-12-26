@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 177684
+revid: 186677
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ministry]
@@ -21,7 +21,7 @@ categories: [Outfits, Master Outfits, The Ministry]
 | resistances | +25% Physical Armor, +25% Elemental Armor, +20% Ice Armor, +20% Fire Armor |
 | buffs | +50% Ether Regen |
 | talents | Crippling Darkness |
-| obtainment | Sold by Nyanna and Traan Zakshun for 200 , Glaive SpellhardtChests from:, The Depths, Diver Journeyman Ambush |
+| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, The Depths, Diver Journeyman AmbushVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 

@@ -1,9 +1,9 @@
 ---
 title: Drallis Ehr
-revid: 186169
+revid: 186672
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Heads of government and state, Personnel of The Central Authority]
+categories: [Heads of government and state, Personnel of The Central Authority]
 ---
 
 # Drallis Ehr
@@ -12,25 +12,22 @@ categories: [Pages with broken file links, Heads of government and state, Person
 |---|---|
 | name | Drallis Ehr |
 | alias | Grand Sovereign, Sovereign, Sovereign of Ages[1], Sovereign of Eras[2], Overseer of Epochs[3], Lumen's Savior[1] |
-| aspect | Adret |
-| affiliation | Adretian Empire (formerly), The Central Authority |
+| aspect | Adret[4] |
+| affiliation | Adretian Empire (formerly)[4], The Central Authority |
 
 ## Description
 
-Drallis Ehr is the head of state of [The Central Authority](The_Central_Authority.md). He is an ageless, immortal and a [deepwoken](Deepwoken.md), his aspect is [Adret](Adret.md), and he is the supreme ruler of [The Central Authority](The_Central_Authority.md) since its inception. He is a man of mystery, even surpassing [The Lord Regent](The_Lord_Regent.md) of [Etrea](Etrea.md) in that department, as none have even seen his face, to the point some question if he truly exists. The [Authority Helm](Authority_Helm.md) was specifically crafted to evoke the image of faceless warriors, thereby mirroring his unseen status.
+Drallis Ehr is the head of state of [The Central Authority](The_Central_Authority.md). He is an ageless and immortal [Adretian](Adret.md) and has been the supreme ruler of [The Central Authority](The_Central_Authority.md) since its inception. He is a man of mystery, even surpassing [The Lord Regent](The_Lord_Regent.md) of [Etrea](Etrea.md) in that department, as none have even seen his face, to the point some question if he truly exists. The [Authority Helm](Authority_Helm.md) was specifically crafted to evoke the image of faceless warriors, thereby mirroring his unseen status.[\[1\]](#cite-note-helm-1)
 
-Drallis Ehr became a hero in the [Adretian Empire](Adretian_Empire.md) after stopping the catastrophe known as [the Godstorm](Godstorm.md) that had brought the nation to its knees. With the Adretian Emperor and his soldiers having fallen to the Godstorm, Drallis Ehr took over and led the coalition that would become [The Central Authority](The_Central_Authority.md).
+Drallis Ehr became a hero in the [Adretian Empire](Adretian_Empire.md) after stopping the catastrophe known as [the Godstorm](Godstorm.md) that had brought the nation to its knees. With the Adretian Emperor and his soldiers having fallen to the Godstorm, Drallis Ehr took over and led the coalition that would become [The Central Authority](The_Central_Authority.md).[\[4\]](#cite-note-glossehr-4)
 
-[Traan Zakshun](Traan_Zakshun.md) is known to claim Drallis Ehr as an endorser of their products.[\[4\]](#cite-note-4)
-
-It has been confirmed by Ragoozer that Drallis Ehr is a [Deepwoken](Deepwoken.md).[\[5\]](#cite-note-5)
+[Traan Zakshun](Traan_Zakshun.md) is known to claim Drallis Ehr as an endorser of his products,[\[5\]](#cite-note-5) something his grandmother, [Naan Zakshun](Naan_Zakshun.md), would also do.[\[6\]](#cite-note-6)
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-helm-1-0) [1.1](#cite-ref-helm-1-1) [Authority Helm](Authority_Helm.md)
+1.  ↑ [1.0](#cite-ref-helm-1-0) [1.1](#cite-ref-helm-1-1) [1.2](#cite-ref-helm-1-2) [Authority Helm](Authority_Helm.md)
 2.  [↑](#cite-ref-2) [Warden Jericho](Warden_Jericho.md)
 3.  [↑](#cite-ref-3) [Maps](Maps.md)
-4.  [↑](#cite-ref-4) [Traan Zakshun](Traan_Zakshun.md)
-5.  [↑](#cite-ref-5) Drallis Ehr confirmed to be a deepwoken in the community discord
-    
-    File:Drallisehrdeepwoken.png
+4.  ↑ [4.0](#cite-ref-glossehr-4-0) [4.1](#cite-ref-glossehr-4-1) [4.2](#cite-ref-glossehr-4-2) [Glossary](Glossary.md): [The Sovereign Drallis Ehr](Glossary.md#the-sovereign-drallis-ehr)
+5.  [↑](#cite-ref-5) [Traan Zakshun](Traan_Zakshun.md)
+6.  [↑](#cite-ref-6) [Naan Zakshun](Naan_Zakshun.md)

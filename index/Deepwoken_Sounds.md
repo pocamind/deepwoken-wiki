@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 171429
+revid: 186687
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -847,7 +847,7 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 -   "The Gideshu March" was never commissioned, rather, Naktigonis made the soundtrack out of his passion for the game.
 -   Naktigonis's voice regularly features in the soundtrack: his voice is featured in the choirs in "Oscillation", "Kyrie", and "The Gideshu March", many of the chants in "And Let Slip The Hounds Of War", most of the scream vocals in "INSOMNIA", and in the singing vocals of "Sin-Smelted Scoriae."
     -   He was recovering from [Covid-19](https://en.wikipedia.org/wiki/COVID-19) when recording the vocals for "Sin-Smelted Scoriae," and is unhappy with how they came out, though he plans to leave it as how it is.
--   "Picking a card" sound is probably from Fallout Shelter.
+-   The "Picking a Talent" sound is from _Stellaris_.[\[1\]](#cite-note-1)
 -   The "Unparryable attack" sound originates from _Sekiro: Shadows Die Twice_.
 -   For earlier tracks in the OST, ambient noises, such as the wildlife from "Solivagant", were not separated from the music, but rather made part of it, due to Roblox's technical limitations.
     -   Naktigonis has stated '​early tracks in the OST tend to be laidback with the melody and let ambience take centre stage; this later changed as the game development progressed and Monad's design philosophy changed. According to him, the OST generally picks up in the second half when area-specific combat themes get introduced.'
@@ -856,8 +856,9 @@ _For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 -   The vocals for "A Light in The Sky" are from a [Kontakt 6 opera singer library](https://www.fluffyaudio.com/shop/simple-opera-singer/), which features the voice of opera singer Ji Min Oh.
 -   In the "Blood and Thunder", a leitmotif can be heard at 2:55, Naktigonis has stated that this is a reference to Johnny I Hardly Knew Ye by The Irish Rovers, and the piece is inspiried by Celtic folk music.
 -   Revenge have it sound effects from the indie RPG game "OMORI" ([Critical Hit | OMORI SFX](https://www.youtube.com/watch?v=bu-8jQaOUW8))
--   The "Megalodaunt Eating" sound effect is the sound of a horse eating a carrot[\[1\]](#cite-note-1)
+-   The "Megalodaunt Eating" sound effect is the sound of a horse eating a carrot[\[2\]](#cite-note-2)
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=-faLxYHaG74](https://www.youtube.com/watch?v=-faLxYHaG74)
+1.  [↑](#cite-ref-1) Sound file used at Stellaris\\sound\\ui\\tradition\_available\_01.wav
+2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=-faLxYHaG74](https://www.youtube.com/watch?v=-faLxYHaG74)

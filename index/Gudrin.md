@@ -1,9 +1,9 @@
 ---
 title: Gudrin
-revid: 177051
+revid: 186713
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in the First Layer, The Divers, The Depths, Reputation]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Reputation]
 ---
 
 # Gudrin
@@ -15,34 +15,36 @@ categories: [Celtor NPCs, Pages with broken file links, NPCs, NPCs located in th
 | location | First Layer |
 | affiliation | The Divers |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 “ There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one! ”
 
 ― Gudrin
 
 ## Description
 
-Gudrin is the NPC who accepts a bribe for [The Divers](The_Divers.md); you can pay her up to 1,200 to restore your reputation to neutral.
+Gudrin is a [Celtor](Celtor.md) NPC who accepts a bribe for [The Divers](The_Divers.md). The player can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
 Gudrin is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [Castle Light](Castle_Light.md).
 
-File:Gudrin map.png
-
 ## Dialogue
 
-**Good & Neutral Reputation:**
+**Neutral Reputation:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one!</td>
+  <td>There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one!</td>
 </tr>
 <tr>
-  <td><div>End</div></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -52,40 +54,42 @@ File:Gudrin map.png
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Hoho, need something? You have quite the Sour expression.</td>
+  <td colspan="8">Hoho, need something? You have quite the Sour expression.</td>
 </tr>
 <tr>
-  <td colspan="12">I need help.</td>
+  <td colspan="8">I need help.</td>
 </tr>
 <tr>
-  <td colspan="12">Word is that you've been acting like quite the beast out there. Now, personally, I think you've just been separating the wheat from the chaff, but I can see about having your actions dismissed as.. err... training.</td>
+  <td colspan="8">Word is that you've been acting like quite the beast out there. Now, personally, I think you've just been separating the wheat from the chaff, but I can see about having your actions dismissed as.. err... training.</td>
 </tr>
 <tr>
-  <td colspan="6">Alright how much?</td>
-  <td colspan="6">Nah, not interested.</td>
+  <td colspan="4">Alright how much?</td>
+  <td colspan="4">Nah, not interested.</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*They tent their fingers, smiling ear to ear.* X .</i></td>
-  <td colspan="6">You've no business sense, y'know that? Sheesh.</td>
+  <td colspan="4"><i>*They tent their fingers, smiling ear to ear.*</i> [X] Notes.</td>
+  <td colspan="4">You've no business sense, y'know that? Sheesh.</td>
 </tr>
 <tr>
-  <td colspan="3">Here.</td>
-  <td colspan="3">Nah, not interested.</td>
+  <td colspan="2">Here.</td>
+  <td colspan="2">Nah, not interested.</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td>Requirements Met</td>
-  <td colspan="2">Not Enough Notes</td>
-  <td colspan="3">[See first instance.]</td>
+  <td>Sufficient Notes</td>
+  <td>Not Enough Notes</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
   <td>Bravo! And what good training you've been for our recruits, eh?</td>
   <td>Nothing to spare? You really didn't even pilfer a single Note from all the divers you killed? Sheesh!</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td>[End Dialogue], reputation with The Divers is set to neutral</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -95,13 +99,13 @@ File:Gudrin map.png
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Gods below, you've really fallen down quite the hole...</td>
+  <td>Gods below, you've really fallen down quite the hole...</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

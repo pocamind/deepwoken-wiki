@@ -1,9 +1,9 @@
 ---
 title: Ciea
-revid: 180114
+revid: 186762
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Ciea
@@ -13,6 +13,10 @@ categories: [Vesperian NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 | name | Ciea |
 | aspect | Vesperian |
 | location | Starswept Valley (Near Widow's Hollow and next to Shrine of Mastery) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ My protege! Care to undergo another lesson? I'll put your intellect to the test! ”
 

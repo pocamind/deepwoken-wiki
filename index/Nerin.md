@@ -1,9 +1,9 @@
 ---
 title: Nerin
-revid: 175709
+revid: 186734
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Reputation]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
 ---
 
 # Nerin
@@ -15,13 +15,17 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Reputation]
 | location | Etris |
 | affiliation | Etrea |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 “ Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer? ”
 
 ― Nerin
 
 ## Description
 
-Nerin is a [Etrean](Etrean.md) NPC who accepts a bribe for [Etrea](Etrea.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
+Nerin is an [Etrean](Etrean.md) NPC who accepts a bribe for [Etrea](Etrea.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
@@ -29,7 +33,7 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
 
 ## Dialogue
 
-**Good & Neutral Reputation:**
+**Neutral Reputation:**
 
 <table>
 <tbody>
@@ -40,7 +44,7 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
   <td><i>*The guard gives you a crooked smile.*</i> Have a nice day, friend. If you ever get into trouble, you know who to look for...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -50,45 +54,42 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, it seems you've made quite a name for yourself around these parts, friend.</td>
+  <td colspan="8">Ah, it seems you've made quite a name for yourself around these parts, friend.</td>
 </tr>
 <tr>
-  <td colspan="12">Yeah?</td>
+  <td colspan="8">Yeah?</td>
 </tr>
 <tr>
-  <td colspan="12">It just so happens I might be able to help you with your, hmm, predicament... A little donation can go a long way,you [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] see.</td>
+  <td colspan="8">It just so happens I might be able to help you with your, hmm, predicament... A little donation can go a long way, you see.</td>
 </tr>
 <tr>
-  <td colspan="6">Alright how much?</td>
-  <td colspan="6">Nah, not interested.</td>
+  <td colspan="4">Alright how much?</td>
+  <td colspan="4">Nah, not interested.</td>
 </tr>
 <tr>
-  <td colspan="6">For the low low price of <b>X Notes</b> I can clear you name. You in?</td>
-  <td colspan="6">Hah! Suit yourself. The offer still stands though.</td>
+  <td colspan="4">For the low low price of <b>[X] Notes</b> I can clear you name. You in?</td>
+  <td colspan="4">Hah! Suit yourself. The offer still stands though.</td>
 </tr>
 <tr>
-  <td colspan="3">Here.</td>
-  <td colspan="3">Nah, not interested.</td>
-  <td colspan="6"></td>
+  <td colspan="2">Here.</td>
+  <td colspan="2">Nah, not interested.</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td>Requirements Met</td>
-  <td colspan="2">Not Enough Notes</td>
-  <td colspan="3">[See first instance.]</td>
-  <td colspan="6"></td>
+  <td>Sufficient Notes</td>
+  <td>Not Enough Notes</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
   <td>Ah, excellent. The townsfolk will be singing your name once again! Or, at least won't be, hmm, putting you on the end of their spear?</td>
   <td>Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer?</td>
-  <td colspan="5"></td>
-  <td colspan="5"></td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="10"></td>
+  <td>[End Dialogue], reputation with Etrea is set to neutral</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -104,7 +105,7 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
   <td><i>*He leans in with a crooked smile.*</i> I might be able to help you if you're able to get some of the heat off of you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
