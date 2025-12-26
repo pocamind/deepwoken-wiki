@@ -1,6 +1,6 @@
 ---
 title: Etrean Civil War
-revid: 186897
+revid: 186934
 source: https://deepwoken.fandom.com/wiki/Etrean_Civil_War
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, SpoilerPages]
@@ -28,9 +28,9 @@ The **Etrean Civil War** was a civil conflict that took place between the [Minis
 
 ## Prelude
 
-During the coup against, Lord Guardian Ji'ang, Zi'eer and his most loyal guards stormed [Etris Palace](Etris_Palace.md) and rained bloodshed within. Ultimately, this led to Ji'ang's and the Etrean resistance's murders—allowing Zi'eer to usurp the throne in the palace.
+During the coup against, Lord Guardian Ji'ang, Zi'eer and his most loyal guards, whom he had transformed into Shoguns, stormed [Etris Palace](Etris_Palace.md) and rained bloodshed within. Ultimately, this led to Ji'ang's and the Etrean resistance's murders—allowing Zi'eer to usurp the throne in the palace.
 
-From there, Zi'eer transformed his guards into the [Shoguns](<Shogun_of_the_Prophet's_Guard.md>)—armored, towering beings twisted beyond their mortal coil and sicced them around the Luminant. He also shielded the palace with an impenetrable barrier to ensure that he could not be taken down.
+From there, he would shield the palace with an impenetrable barrier to ensure that he could not be taken down.
 
 Zi'eer's capabilities led to placing a Mind Veil over the people in [Etris](<Etris_(Vow_of_Iron).md>), erasing memories of the civil war's cause and altering the perception of the [Etrean Royalists](Etrean_Royalists.md)—ancient, well-respected families in its society, now being seen as bandits, or even scheming usurpers.
 

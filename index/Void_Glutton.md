@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 186865
+revid: 186942
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -506,10 +506,9 @@ Blunt
 
 ### Shogun of the Prophet's Guard
 
--   Null Recovery \[Memento Talent\] - Sacrifice 20% of your hunger bar to recover 4% of your health back.
+-   Null Recovery \[Memento Talent\] - Sacrifice 20% of your hunger bar to recover 10% of your health back.
     
     -   Grants a Talent tool.
-    -   Heals 2% of your maximum health, not 4%.
 
 ### Dravik, The Rat King
 
@@ -527,6 +526,6 @@ Blunt
 
 ## Trivia
 
--   Contrary to popular belief, kills in The Eastern Luminant also count towards the obtainment of Void Glutton.
+-   Contrary to popular belief, the kills for this Memento's obtainment do not need to be made in The Depths.
 -   Killing enough people while using Void Glutton will eventually make you move so slowly that the game is borderline unplayable.
--   [Trackstar Boots](Trackstar_Boots.md) are highly recommended if you're planning to use this memento.
+-   [Trackstar Boots](Trackstar_Boots.md) and other flat increases to your studs per second movement speed are highly recommended if you're planning to use this Memento.

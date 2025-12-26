@@ -1,11 +1,9 @@
 ---
 title: Spear Dancer
-revid: 186882
+revid: 186937
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
-notices:
-  - "This page is currently being worked on. Missing Power 20 Shop, True Heart of Enmity drop(s)"
+categories: [Vow of Iron Exclusive, Mementos]
 ---
 
 # Spear Dancer
@@ -40,6 +38,7 @@ This content is not accessible outside of this gamemode.
     -   Using your Vent will put you in a stance for a brief moment. Your next M1 used within 1 second of using Dancer's Beat will deal higher damage, more stun, and have a higher swing speed.
     -   If you are hit before you use your next attack, wait out the 1 second proc window, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose 60 Tempo and will be stunned for 0.5 seconds. During this stun you will not be able to perform any actions, but this stun will not cancel any of your currently active attacks.
     -   The Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
+    -   Dancer's Beat can still be used to escape stun locking attacks like [Judgement](Oath%253A_Contractor.md#judgement) and [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>)'s attacks.
 
 -   Dancer's Geas \[Memento Talent\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.
     
@@ -527,3 +526,7 @@ TBA
 -   Ga Buidhe \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Backstabs now count as the tip of your weapon.
     
     -   Attacking your opponent's back now procs all Talents and effects that would normally proc when attacking with the tip of your weapon.
+
+### True Heart of Enmity
+
+-   Not My Tempo \[Memento Talent\] - Dancer's Beat grants Hyperarmor.

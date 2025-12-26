@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 186883
+revid: 186940
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4506,7 +4506,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 -   Breakthrough \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture damage on light attacks are increased by 10%.
     
     -   Increases the posture damage of M1s by 10%.
-    -   Prerequisites: [Breaker](Breaker.md) Memento, Power 5, 200
+    -   Prerequisites: [Breaker](Breaker.md) Memento, Power 5 shop
 
 -   Calamity Punch \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
     
@@ -4521,7 +4521,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
     
     -   Your Rapid Punches posture damage per hit scales on the amount of hits landed/blocked.
     -   At max Calamity Punch stacks, gain hyperarmor during Rapid Punches.
-    -   Prerequisites: [Breaker](Breaker.md) Memento, Power 15, 200
+    -   Prerequisites: [Breaker](Breaker.md) Memento, Power 15 shop
 
 -   Shattering Left \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Strong Left](Attunement-less.md#strong-left) and [Wind-up](Wind-Up.md) punches will always guard break mobs.
     
@@ -4534,7 +4534,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
         -   With one stack, your Strong Left cooldown will be reduced by ?s.
         -   With two stacks, your Strong Left will ignore your opponent's armor, on top of the first stack bonus.
         -   With three stacks, your Strong Left will deal additional damage and guardbeak, on top of the first and second stack bonuses.
-    -   Prerequisites: [Breaker](Breaker.md) Memento, 200
+    -   Prerequisites: [Breaker](Breaker.md) Memento, starting shop
 
 ### Chaotic Moon
 
@@ -4704,7 +4704,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Alloy of the Heavens \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture attack from mobs reduced by 50%
     
     -   Reduces posture damage taken from mobs by 50%.
-    -   Prerequisites: [Power](Power.md) 10, 200, [Iron Vessel](Iron_Vessel.md) Memento
+    -   Prerequisites: [Iron Vessel](Iron_Vessel.md) Memento, [Power](Power.md) 10 shop
 
 ### Merchant
 
@@ -4712,7 +4712,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Increases the sell price of all items by 20 notes.
     -   This is applied **after** Snake Oil.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, 200
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, starting shop
 
 -   Know When To Run \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your magic coffin has a higher chance to draw depths loot, but the price is increased.
     
@@ -4760,6 +4760,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Using your Vent will put you in a stance for a brief moment. Your next M1 used within 1 second of using Dancer's Beat will deal higher damage, more stun, and have a higher swing speed.
     -   If you are hit before you use your next attack, wait out the 1 second proc window, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose 60 Tempo and will be stunned for 0.5 seconds. During this stun you will not be able to perform any actions, but this stun will not cancel any of your currently active attacks.
     -   The Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
+    -   Dancer's Beat can still be used to escape stun locking attacks like [Judgement](Oath%253A_Contractor.md#judgement) and [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>)'s attacks.
     -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento
 
 -   Dancer's Geas \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.
@@ -4773,7 +4774,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Dancer's Impale \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     
     -   Essentially, this is Lancer's Impale without being weapon type locked.
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, 200
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, starting shop
 
 -   Dancer's Sting \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Striking with the tip of your weapon applies +25% PEN and +25% Chip Damage.
     
@@ -4787,16 +4788,20 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Ga Dearg \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Striking a bleeding enemy with the tip of your weapon extends the bleed.
     
     -   Hitting a bleeding enemy with the tip of your weapon will reapply the bleed.
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, 200
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, starting shop
 
 -   Kick the Beat \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Dancer's Beat now works with Critical Attacks.
     
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 15, 200
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 15 shop
+
+-   Not My Tempo \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Dancer's Beat grants Hyperarmor.
+    
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 -   Two Left Feet \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
     
     -   Essentially, this is Defensive Sweep without being weapon type locked.
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 10, 200
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 10 shop
 
 ### Steelvessel
 
@@ -4830,7 +4835,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Storm Return \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with [Lightning Cloak](Thundercall.md#lightning-cloak))
     
     -   Being under the effects of Amped or Lightning Cloak will proc this effect.
-    -   Prerequisites: [Theros Disciple](Theros_Disciple.md) Memento, 200
+    -   Prerequisites: [Theros Disciple](Theros_Disciple.md) Memento, starting shop
 
 ### Strange Merchant
 
@@ -4851,16 +4856,16 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, 100
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, starting shop
 
 -   Jackpot \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Charmed enemies now have a chance to be hit critically, multiplying the damage.
     
     -   There is a ?% chance that your hits against a Charmed target will be a critical hit, dealing significantly more damage.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, Power 20, 100
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, Power 20 shop
 
 -   Sweeten the Deal \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
     
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, Power 10, 100
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, Power 10 shop
 
 -   Taunting Tongue \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [taunt](Attunement-less.md#taunt) now applies [Madness](Status_Effects.md#madness).
 
@@ -4897,10 +4902,9 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
--   Null Recovery \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Sacrifice 20% of your hunger bar to recover 4% of your health back.
+-   Null Recovery \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Sacrifice 20% of your hunger bar to recover 10% of your health back.
     
     -   Grants a Talent tool.
-    -   Heals 2% of your maximum health, not 4%.
     -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
 
 ### Miscellaneous

@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 186812
+revid: 186944
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -61,7 +61,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 ### Combat
 
 -   Vow of Iron has no passive health regeneration whatsoever. Most damage you take is semi permanent, unless you have access to some of the rare sources of healing available.
-    -   [Etris Flasks](Etris_Flask.md) can be quickly drank to restore 30% HP. However, this is a limited resource that will only be refilled by returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering [The Depths](<The_Depths_(Vow_of_Iron).md>), or by escaping The Depths. Upon creating your character, you will only have 1 [Etris Flask](Etris_Flask.md) charge, but more charges can be bought across the Luminant.
+    -   [Etris Flasks](Etris_Flask.md) can be quickly drank to restore 50% HP. However, this is a limited resource that will only be refilled by returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering [The Depths](<The_Depths_(Vow_of_Iron).md>), or by escaping The Depths. Upon creating your character, you will only have 1 [Etris Flask](Etris_Flask.md) charge, but more charges can be bought across the Luminant.
     -   [Campfires](Campfire_Pit.md) can still be used to restore your health.
     -   Health Packs of any source are greatly reduced or outright removed.
     -   Entering a [Boundary](Boundary.md) will heal you to full however.

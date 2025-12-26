@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 186912
+revid: 186931
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
@@ -268,6 +268,7 @@ Naan's Black Market Cache
 
 Naan's item descriptions will change randomly each time they sell goods from their Black Market Cache:
 
+-   _All sales are final._
 -   _Be careful with this okay Ironsworn?_
 -   _\*But can it afford the priceeee~\* hehe- keen ear Ironsworn._
 -   _Can't wait to snag a seafood boil from the Meat Lord, gonna swing by The Three Cheers and catch him vending with my grandson after this._
@@ -289,6 +290,7 @@ Naan's item descriptions will change randomly each time they sell goods from the
 -   _Only look if you wanna buy, Okay?_
 -   _The grandson keeps talking about us doing mystery boxes..._
 -   _This is one of my favourites!_
+-   _This one's actually worth more than a gorillamillion times my price... I'm deadly serious._
 -   _Ughh, it kills me to get rid of this, I need the notes more than I need this thing though._
 -   _Wipe it down when you get out of here yeah? Its past wasn't pretty._
 -   _You didn't get this from me. Capiche?_
@@ -318,7 +320,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 3,000 </b>: <a href="Urchin.md">Urchin</a></li>
-    <li><b>For 4,000 </b>: <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
+    <li><b>For 4,000 </b>: <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 5,000 </b>: <a href="Red_Snapper.md">Red Snapper</a></li>
     <li><b>For 8,000 </b>: <a href="Sea_Bass.md">Sea Bass</a></li>
   </ul></td>
@@ -328,6 +330,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 1,000 </b>: <a href="Kindred_Edict.md">Kindred Edict</a></li>
+    <li><b>For 3,000 </b>: <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a></li>
     <li><b>For 4,000 </b>: <a href="First_Light.md">First Light</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a></li>
   </ul></td>
 </tr>
@@ -357,7 +360,9 @@ Sold Items
     <li><b>Legs</b>: <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a><abbr></abbr>, <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a><abbr></abbr></li>
     <li><b>Ears</b>: <a href="Flare_Drop_Earrings.md">Flare Drop Earrings</a><abbr></abbr></li>
   </ul></li>
+    <li><b>For 4,000 </b>: <a href="Gale_Boots.md">Gale Boots</a><abbr></abbr></li>
     <li><b>For 5,000 </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
+    <li><b>For 7,000 </b>: <a href="Champion's_Cape.md">Champion's Cape</a></li>
   </ul></td>
 </tr>
 </tbody>

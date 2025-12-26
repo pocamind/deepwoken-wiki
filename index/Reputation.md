@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 186655
+revid: 186935
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -186,6 +186,7 @@ Yen: Near the front of the [Songseeker Temple](Songseeker_Temple.md)
 ## Trivia
 
 -   At one point in time, the Summer Company's reputation dialogue was accidentally linked to your reputation with the Authority.
+    -   Weirdly enough, this has happened multiple times with the Summer Company, as the cannon’s targeting system only targeted enemies of the Central Authority until it was patched late 2025.
 -   The [Celebrity](Talents.md#celebrity) Talent increases your base reputation with all factions and increases the positive reputation you gain.
 -   The [Under The Radar](Talents.md#under-the-radar) Talent requires factions to have more negative reputation with you to put out bounties on you.
 -   Spitting on a guard causes them and other guards nearby to become aggressive regardless of your reputation. This will give you negative reputation with the faction.
