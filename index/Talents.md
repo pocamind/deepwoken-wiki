@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 186940
+revid: 186985
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -233,6 +233,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Vacuum Punch \[Common Talent, Galebreathe Exclusive\] - Your Gale Punch pulls enemies in before you hit them.
     -   Gale punch mantra will now pull players towards the user during the windup of the mantra. (Cannot be feinted)
+    -   Increases the windup of Gale Punch by 0.1s, totalling to 0.65s.
     -   Prerequisites: 20 Galebreathe, [Gale Punch](Galebreathe.md#gale-punch) (Mantra)
 
 ### Alchemist
@@ -1607,6 +1608,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Parting Gift \[Common Talent\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
+    -   Procs even if your flourish is parried or blocked.
     -   The projectile M1s from this Talent can proc True Ether Bullets.
     -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND off hands)
 
@@ -5105,7 +5107,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Sky Aid: [Sky Warrior Helm](Sky_Warrior_Helm.md) - Take 80% less damage while in the air.
 
--   Slick: [Konga's Parka](<Konga's_Parka.md>) - Coat of the infamous fhief Emiya Konga. Improves the user's sliding abilities. THis effect stacks with [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>).
+-   Slick: [Konga's Parka](<Konga's_Parka.md>) - Coat of the infamous fhief Emiya Konga. Improves the user's sliding abilities. This effect stacks with [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>).
 
 -   Sloped Plate: [Blackalloy Helm](Blackalloy_Helm.md) - Reduces the amount of damage you take when guardbroken by 10.
 

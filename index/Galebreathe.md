@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 185404
+revid: 186959
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -961,7 +961,7 @@ These Talents are found in the _Galeforce_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | After Cut  
-(40 Galebreathe) | If an attack is physical and wind, it will apply an after cut that does 10% of the damage you dealt. If the attack was a mantra, it does 5% damage instead. | N/A |
+(40 Galebreathe) | If an attack is physical and wind, it will apply an after cut that does 10% of the damage you dealt. If the attack was a mantra, it does 5% damage instead. | The only Galebreathe mantras that benefit from the 5% damage increase are: Wind Blade, Air Force, Tornado Kick, Tornado, Galetrap, and Wind Gun. |
 |  | Breathing Impact  
 (30 Galebreathe) | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. | N/A |
 |  | Inhale  

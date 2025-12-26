@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 185633
+revid: 186945
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -25737,7 +25737,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Amount of individual attribute requirements: [Red Death](Red_Death.md) (4)
     -   Penetration: [Shattered Katana](Shattered_Katana.md), [Nemit's Sickle](<Nemit's_Sickle.md>), [Kyrsedge](Kyrsedge.md), [Kyrstreza](Kyrstreza.md), [Flareblood Kamas](Flareblood_Kamas.md), [Pernach](Pernach.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
-    -   Scaling: [Soulwrought Gun](Crazy_Slots.md#weapons) (16)
+    -   Scaling: [Par's Glaive](<Par's_Glaive.md>) (30)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Darksteel Cleaver](Darksteel_Cleaver.md) (13)
     -   Swing speed: [Soulwrought Gun](Crazy_Slots.md#weapons) (1.33x)

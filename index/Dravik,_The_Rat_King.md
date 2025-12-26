@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 186820
+revid: 186957
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-“ From now on we'll be using only our weapons to fight. No more tricks, understand that? ”
+“ From this point forward we shall only be using our weapons to fight. No more tricks, understand that? ”
 
 ― Dravik, The Rat King
 
@@ -227,7 +227,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 ### Passives
 
 -   **Golden Rule** - Upon reaching **60% HP** _(won't activate if he is downed)_,
-    -   Dravik will say "From now on we"ll be using only our weapons to fight. No more tricks, understand that?"
+    -   Dravik will say "From this point forward we shall only be using our weapons to fight. No more tricks, understand that?"
     -   Dravik will also gain a circle of light around him.
     -   **Dravik gains immunity to a number of things and reflects their damage back to you. These include:**
         -   **Mantras**

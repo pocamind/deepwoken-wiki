@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 186900
+revid: 186960
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -25,7 +25,7 @@ Deep Owls will only spawn in the Etrean Luminant while the moon is out. This res
 ― The Nestmind
 
   
-Deep Owls hail down on Lumen from an inconceivable dimension that contains their collective hivemind known as [The Nestmind](The_Nestmind.md), where they are usually unable to communicate with the outside world. This is changed by the [Oath](Oaths.md) made between [Visionshapers](Oath%253A_Visionshaper.md) and The Nestmind. Deep Owls manifest themselves in our world with the ability of a Visionshaper's mind having the ability to turn illusions into reality.
+Deep Owls hail down on Lumen from an inconceivable dimension that contains their collective hivemind known as [The Nestmind](The_Nestmind.md), where they are usually unable to interact with the outside world. This is changed by the [Oath](Oaths.md) made between [Visionshapers](Oath%253A_Visionshaper.md) and The Nestmind. Deep Owls manifest themselves in our world with the ability of a Visionshaper's mind having the ability to turn illusions into reality.
 
 When appearing in [Upper Erisia](Upper_Erisia.md) or [The Depths](The_Depths.md), its presence will be signaled by a sparse cloud of black feathers that gently fall down around an area. Upon entering the feathers, the Deep Owl will immediately drop down from the sky and open a dialogue with the player. During the dialogue, it is non-hostile and will not attack the player, remaining in this state until the player begins attacking or turns their back to the Deep Owl while in its detection range. Therefore, it's a good time to log out if unprepared for the battle.
 

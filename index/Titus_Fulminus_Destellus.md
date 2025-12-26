@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 186073
+revid: 186976
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -180,7 +180,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  |
 | 
 
-**Chorus Divide: Shattering Crescendo**  
+**Lightning Must Strike the Eye of the Tempest**  
 (★★☆)
 
  | Titus channels his bell into two high-pressure beams of wind in a 360 degree motion. Those who are hit by the beams will also be knocked further back.
