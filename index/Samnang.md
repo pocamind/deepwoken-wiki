@@ -1,6 +1,6 @@
 ---
 title: Samnang
-revid: 182043
+revid: 186904
 source: https://deepwoken.fandom.com/wiki/Samnang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Quests, Clan Mofisu]
@@ -67,16 +67,17 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
 </tr>
 <tr>
   <td><i>*Sigh.*</i> I suppose I shouldn't have expected you to... These are turbulent times. Stranger, if you hear any word from him, I pray, come back and let me know.</td>
-  <td>WIP</td>
+  <td>No, this cannot be... He gave his life for our clan?.. He shouldn't have gone, I told him, I told him, I... <i>*Samnang seems shattered, their lip quivering. He lingers silently for a moment, grieving, before turning to you with teary eyes.*</i> Forgive me, I... Thank you for helping me. At least I know what happened now... May <a href="Glossary.md#mur-of-light">Mur's</a> light shine your path, stranger.</td>
 </tr>
 <tr>
   <td>I'll keep an eye out.</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>If you end up finding him, I'll be forever grateful to you.</td>
 </tr>
 <tr>
-  <td>End, quest begins</td>
+  <td>[End Dialogue], quest begins</td>
 </tr>
 </tbody>
 </table>
@@ -89,16 +90,23 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
   <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td>You're back!.. But... My brother is not with you... Did you find out anything at all?..</td>
+  <td colspan="2">You're back!.. But... My brother is not with you... Did you find out anything at all?..</td>
 </tr>
 <tr>
+  <td>Scabbard found</td>
+  <td>Scabbard not found</td>
+</tr>
+<tr>
+  <td>I found a scabbard at the Mofisu estate. The Viridian Sanctuary was attacked. I'm afraid your brother is gone...</td>
   <td>I haven't been able to find him.</td>
 </tr>
 <tr>
+  <td>No, this cannot be... He gave his life for our clan?.. He shouldn't have gone, I told him, I told him, I... <i>*Samnang seems shattered, their lip quivering. He lingers silently for a moment, grieving, before turning to you with teary eyes.*</i> Forgive me, I... Thank you for helping me. At least I know what happened now... May <a href="Glossary.md#mur-of-light">Mur's</a> light shine your path, stranger.</td>
   <td>No?.. Please, I pray, keep looking for him... I will remain here, just in case he returns...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue], quest end</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -114,11 +122,11 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Samnang is a Khmer name that means peaceful or calm.
+-   Samnang is a Khmer name that means "peaceful" or "calm".

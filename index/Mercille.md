@@ -1,6 +1,6 @@
 ---
 title: Mercille
-revid: 180917
+revid: 186886
 source: https://deepwoken.fandom.com/wiki/Mercille
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
@@ -35,7 +35,7 @@ Mercille is located in [Bluster Rift](Bluster_Rift.md), standing infrot of a sma
   <td>Begin</td>
 </tr>
 <tr>
-  <td>All sorts of rare material show up here.. if you see any leftover bags of shinies, let me see them!</td>
+  <td>All sorts of rare material show up here... If you see any leftover bags of shinies, let me see them!</td>
 </tr>
 <tr>
   <td>What is your group doing here?</td>

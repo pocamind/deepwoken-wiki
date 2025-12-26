@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 186152
+revid: 186812
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -21,7 +21,7 @@ The path ahead is not a forgiving one. ”
 
 Vow of Iron is one of two Paths (gamemodes) available in _Deepwoken_, the other being [Pathfinder](Pathfinder.md).
 
-In Vow of Iron, you relive the events of [Zi'eer](The_Lord_Regent.md)'s rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, The Inheritor, wield in an attempt to understand what became of the world during these times.
+In Vow of Iron, you relive the events of [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>)'s rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, The Inheritor, wield in an attempt to understand what became of the world during these times.
 
 Vow of Iron is, in essence, a hard mode of _Deepwoken_. Featuring new enemies, bosses, restricted and tweaked progression, and a new map, showcasing Lumen as it was 38 years before the arrival of the Pathfinder.
 
@@ -65,8 +65,8 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   [Campfires](Campfire_Pit.md) can still be used to restore your health.
     -   Health Packs of any source are greatly reduced or outright removed.
     -   Entering a [Boundary](Boundary.md) will heal you to full however.
--   Vow of Iron character have a permanently stained health bar. Any death will send them to The Depths.
--   Vow of Iron character faces a unique Depth Trial that features [Bone Keeper](Bone_Keeper.md), [Parliament](Parliament.md), [Prime Megalodaunt](Prime_Megalodaunt.md) and [Nautilodaunt Officiate](Nautilodaunt_Officiate.md).
+-   Vow of Iron characters have a permanently stained health bar. Any death will send them to The Depths.
+-   Vow of Iron characters face a unique Depth Trial that features [Bone Keeper](Bone_Keeper.md), [Parliament](Parliament.md), [Prime Megalodaunt](Prime_Megalodaunt.md) and [Nautilodaunt Officiate](Nautilodaunt_Officiate.md).
 -   Auto Parry is completely removed, requiring you to manually parry continuous attacks.
 
 ### Loot

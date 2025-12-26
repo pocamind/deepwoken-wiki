@@ -1,6 +1,6 @@
 ---
 title: Sightless
-revid: 186534
+revid: 186830
 source: https://deepwoken.fandom.com/wiki/Sightless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -29,9 +29,22 @@ This content is not accessible outside of this gamemode.
 
 Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) with this Memento will unlock the [Flashing Thunder](Flashing_Thunder.md) Memento.
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Blinded: \[Equipment Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
+    -   Makes everything darker and creates fog at long distances.
+    -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
+
+-   Murmur: Rhythm \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
+    -   Rhythm's activation keybind can be configured in settings.
+    -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
+    -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
+    -   **Disabled on players with Not a Scratch.**
+
+-   _Way of Navae_ \[Quest Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+    -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
+
+  
 
 | 
 **Name**
@@ -90,7 +103,7 @@ Flamecharm + Thundercall
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -110,6 +123,84 @@ Starter
 -   Has a 15x PvE multiplier (multiply damage dealt by 15 to get PvE damage).
 
  |
+
+## Deck of Recollection
+
+### Starting Deck
+
+-   Against All Odds \[Common Talent\] **100** \- For each combat tag you have on your character, increase your damage by 1% (max of 7%).
+    -   Works in PvE combat.
+
+-   Battle Tendency \[Common Talent\] **100** \- You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
+    -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
+
+-   Fast Blade \[Common Talent\] **100** \- Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
+    -   Parrying without this Talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry.
+    -   Increases the speed boost duration from parrying by 3 seconds.
+
+-   Hard Read \[Common Talent\] **100** \- Hitting your opponent during a feint will cause them to be dazed.
+    -   Applies daze for 1 second.
+
+-   Magical Resolve \[Common Talent\] **100** \- Being hit increases [Ether](Ether.md) regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
+
+-   Moving Fortress \[Common Talent\] **100** \- Blocking no longer slows you down as much. (+1 Posture)
+    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
+
+-   Old Habits Die Hard \[Common Talent\] **100** \- Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
+
+-   Speed Emission \[Common Talent\] **100** \- Gain a slight speed boost after landing a vent.
+
+-   Swift Rebound \[Common Talent\] **100** \- Move faster after successfully dodging an attack. (+1 Passive Agility)
+
+-   Unwavering Focus \[Common Talent\] **100** \- When your mantras are parried, receive less posture (scales with intelligence).
+
+-   _All the Dead Gods_ \[Rare Talent\] **250** \- Your Basic Attacks now apply anti-heal for 8s. (+7 Sanity)
+    -   Whenever you land a Basic Attack, the target has most healing forms reduced/disabled for 8 seconds.
+    -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
+    -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
+    -   Does not work on allies.
+    -   Does not affect healthpacks.
+    -   Also procs on criticals with the M1 tag.
+
+-   _Eureka_ \[Rare Talent\] **250** \- Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
+    -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
+    -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
+        -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
+        -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
+    -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Gaze** (☆☆☆)
@@ -137,7 +228,7 @@ N/A
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -154,7 +245,44 @@ Power 1, 250
 
  |
 
-### Power 5 Mantras
+### Power 5
+
+-   Behind You \[Common Talent\] **100** \- Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.
+    -   This deals a separate instance of physical damage, scaling on your weapon's damage and your current Ether%.
+    -   This has no cooldown.
+
+-   Disbelief \[Common Talent\] **100** \- You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
+    -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
+        -   Tough Love: 2s -> 1s
+        -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
+        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
+        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
+        -   Overcharm's self-charm proc: 8s -> 4s
+        -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
+        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   Lasting Charisma (at reqs): 20s -> 10s
+
+-   Keen Recovery \[Common Talent\] **100** \- Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
+    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.
+    -   Does not proc if your basic attack is blocked, parried, or dodged.
+
+-   _Observation_ \[Rare Talent\] **250** \- Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
+
+-   _Evasive Expert_ \[Rare Talent\] **250** \- Your speed boost granted from dodging is increased. (+1 Passive Agility)
+
+-   _Peripheral Vision_ \[Rare Talent\] **250** \- Your glare now ignores if your opponent is facing you. (+5 Sanity)
+
+-   _Safety Dance_ \[Rare Talent\] **250** \- Your base dodge frames are increased by 0.05s. (+1 Passive Agility)
+    -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
+    -   Dodge IFrames increased from 0.3s to 0.35s.
+
+-   _Sin Stacker_ \[Rare Talent\] **250** \- Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.
+    -   By landing additional basic attacks on a target affected by All the Dead Gods' Anti-Heal, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second per Anti-Heal stacks affected the target.
+        -   Starting at 1 Anti-Heal stack lasting 8 seconds, applying another will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
+    -   As Anti-Heal stacks decay, the additional duration they apply to future stacks will be nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third M1 will only last 9 seconds.
+
+  
 
 | 
 **Name**
@@ -213,7 +341,7 @@ N/A
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -230,7 +358,42 @@ Power 5, 450
 
  |
 
-### Power 10 Mantras
+### Power 10
+
+-   Emergency Reserves \[Common Talent\] **100** \- When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).
+    -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
+
+-   Foolish Outburst \[Common Talent\] **100** \- Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
+    -   Steals 40% of the Tempo used.
+
+-   Unswayed \[Common Talent\] **100** \- The effects of Taunt and Encore no longer work on you. (+20 Sanity)
+    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
+    -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
+        -   Sing can still apply Charm/Overcharm to the user.
+
+-   Water off a Duck's Back \[Common Talent\] **100** \- Venting will shift any elemental status effects affecting you onto those hit by your vent.
+    -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
+
+-   All-Seeing Eye \[Oath Talent\] **200** \- The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
+    -   Invisible players are revealed by a Blindseer Eye icon showcasing their current position.
+        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
+    -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
+    -   This works on anyone who is invisible, yourself and monsters included.
+
+-   _Lightspeed Reflexes_ \[Rare Talent\] **250** \- Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+
+-   _Speed Demon_ \[Rare Talent\] **250** \- Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
+    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
+    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
+    -   Works with M1s and criticals.
+
+-   _**Not a Scratch**_ \[Advanced Talent\] **350** \- You don't show any signs of damage. (+2 Posture)
+    -   Your character no longer visually shows any signs of damage no matter how low their HP is. No cuts, no scratches, no low hp anims, no torn clothing, etc.
+    -   Spotter (for your opponent's allies) / [Rhythm](Murmur%253A_Rhythm.md) no longer shows how much health your character has.
+    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being taking damage. This is purely visual.
+        -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.
+
+  
 
 | 
 **Name**
@@ -289,7 +452,7 @@ Oath
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -309,7 +472,23 @@ Power 10, 700
 
  |
 
-### Power 15 Mantras
+### Power 15
+
+-   Successive Prediction \[Common Talent\] **100** \- Predicting an attack will briefly allow you to predict another.
+    -   Allows you to reflect the entirety of multi-hit moves (such as Enforcer's spin attack)
+
+-   Twelve Steps Ahead \[Common Talent\] **100** \- Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
+    -   This effect requires your opponent to be within 90 studs of you.
+
+-   _All Knowing_ \[Rare Talent\] **250** \- Your prediction now ignores the range requirement to reflect attacks.
+
+-   _**All Above, Gods Below**_ \[Advanced Talent\] **350** \- Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you. (+20 Sanity)
+    -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
+        -   Lasts 8 seconds after an All the Dead Gods proc with 100 Willpower 100 Intelligence, which is halved to 4 seconds if you don't meet this Talent's requirements.
+    -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
+    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
+
+  
 
 | 
 **Name**
@@ -368,7 +547,7 @@ Enemy's Attack
 
  | 
 
-Power 15, 950
+950
 
  |
 | 
@@ -384,187 +563,6 @@ Power 15, 950
     -   The maximum Prediction cooldown from this Talent scales on your Intelligence investment.
 
  |
-
-## Available Talents
-
-### Starting Talents
-
--   Blinded: \[Equipment Talent\] - Your vision is obscured by something. Somehow, you feel safer. You remember the warmth of your youth.
-    -   Makes everything darker and creates fog at long distances.
-    -   Grants immunity to the [Flame Blind](Flamecharm.md#flame-blind) and [Gaze](Attunement-less.md#gaze) Mantras.
-    -   Requirements: Starter
-
--   Murmur: Rhythm \[Unlockable Talent\] - An application of your Soul Murmur that enables the user to perceive the subtle murmur emanating from all things. Press G while crouched.
-    -   Rhythm's activation keybind can be configured in settings.
-    -   Pings all nearby Monsters, NPC’s, and Players, through walls while gray-scaling your screen.
-    -   Red = Low Health, Yellow = Moderate Health, Grey = Healthy.
-    -   **Disabled on players with Not a Scratch.**
-    -   Requirements: Starter
-
--   _Way of Navae_ \[Common Talent\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
-    -   Allows you to use the [Way of Navae](Way_of_Navae.md) [fist style](Fists.md).
-    -   Requirements: Starter
-
--   Against All Odds \[Common Talent\] - For each combat tag you have on your character, increase your damage by 1% (max of 7%).
-    -   Works in PvE combat.
-    -   Requirements: Power 1, 100
-
--   Battle Tendency \[Common Talent\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
-    -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
-    -   Requirements: Power 1, 100
-
--   Fast Blade \[Common Talent\] - Extend the speed boost you get from successfully parrying an attack. (+1 Passive Agility)
-    -   Parrying without this Talent gives you a speed boost, but it's barely noticeable and lasts for the duration of the parry.
-    -   Increases the speed boost duration from parrying by 3 seconds.
-    -   Requirements: Power 1, 100
-
--   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed.
-    -   Applies daze for 1 second.
-    -   Requirements: Power 1, 100
-
--   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
-    -   Requirements: Power 1, 100
-
--   Moving Fortress \[Common Talent\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
-    -   Requirements: Power 1, 100
-
--   Old Habits Die Hard \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
-    -   Requirements: Power 1, 100
-
--   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
-    -   Requirements: Power 1, 100
-
--   Swift Rebound \[Common Talent\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
-    -   Requirements: Power 1, 100
-
--   Unwavering Focus \[Common Talent\] - When your mantras are parried, receive less posture (scales with intelligence).
-    -   Requirements: Power 1, 100
-
--   _All the Dead Gods_ \[Rare Talent\] - Your Basic Attacks now apply anti-heal for 8s. (+7 Sanity)
-    -   Whenever you land a Basic Attack, the target has most healing forms reduced/disabled for 8 seconds.
-    -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
-    -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
-    -   Does not work on allies.
-    -   Does not affect healthpacks.
-    -   Also procs on criticals with the M1 tag.
-    -   Requirements: Power 1, 250
-
--   _Eureka_ \[Rare Talent\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
-    -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
-    -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
-        -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
-        -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
-    -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
-    -   Requirements: Power 1, 250
-
-### Power 5 Talents
-
--   Behind You \[Common Talent\] - Landing a basic attack behind your enemy after feinting a mantra will apply an ether slash, dealing extra damage based on how much ether you have left.
-    -   This deals a separate instance of physical damage, scaling on your weapon's damage and your current Ether%.
-    -   This has no cooldown.
-    -   Requirements: Power 5, 100
-
--   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
-    -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
-        -   Tough Love: 2s -> 1s
-        -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
-        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
-        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
-        -   Overcharm's self-charm proc: 8s -> 4s
-        -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
-        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
-        -   Lasting Charisma (at reqs): 20s -> 10s
-    -   Requirements: Power 5, 100
-
--   Keen Recovery \[Common Talent\] - Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
-    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.
-    -   Does not proc if your basic attack is blocked, parried, or dodged.
-    -   Requirements: Power 5, 100
-
--   _Observation_ \[Rare Talent\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
-    -   Requirements: Power 5, 250
-
--   _Evasive Expert_ \[Rare Talent\] - Your speed boost granted from dodging is increased. (+1 Passive Agility)
-    -   Requirements: Power 5, 250
-
--   _Peripheral Vision_ \[Rare Talent\] - Your glare now ignores if your opponent is facing you. (+5 Sanity)
-    -   Requirements: Power 5, 250
-
--   _Safety Dance_ \[Rare Talent\] - Your base dodge frames are increased by 0.05s. (+1 Passive Agility)
-    -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
-    -   Dodge IFrames increased from 0.3s to 0.35s.
-    -   Requirements: Power 5, 250
-
--   _Sin Stacker_ \[Rare Talent\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.
-    -   By landing additional basic attacks on a target affected by All the Dead Gods' Anti-Heal, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second per Anti-Heal stacks affected the target.
-        -   Starting at 1 Anti-Heal stack lasting 8 seconds, applying another will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
-    -   As Anti-Heal stacks decay, the additional duration they apply to future stacks will be nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third M1 will only last 9 seconds.
-    -   Requirements: Power 5, 250
-
-### Power 10 Talents
-
--   Emergency Reserves \[Common Talent\] - When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).
-    -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
-    -   Requirements: Power 10, 100
-
--   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
-    -   Steals 40% of the Tempo used.
-    -   Requirements: Power 10, 100
-
--   Unswayed \[Common Talent\] - The effects of Taunt and Encore no longer work on you. (+20 Sanity)
-    -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
-    -   The [Sing](Attunement-less.md#sing) Mantra can no longer use the Talent "Encore" on the user, nullifying the stun effect.
-        -   Sing can still apply Charm/Overcharm to the user.
-    -   Requirements: Power 10, 100
-
--   Water off a Duck's Back \[Common Talent\] - Venting will shift any elemental status effects affecting you onto those hit by your vent.
-    -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
-    -   Requirements: Power 10, 100
-
--   All-Seeing Eye \[Oath Talent\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
-    -   Invisible players are revealed by a Blindseer Eye icon showcasing their current position.
-        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
-    -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
-    -   This works on anyone who is invisible, yourself and monsters included.
-    -   Requirements: Power 10, 200
-
--   _Lightspeed Reflexes_ \[Rare Talent\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Requirements: Power 10, 250
-
--   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
-    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
-    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
-    -   Works with M1s and criticals.
-    -   Requirements: Power 10, 250
-
--   _**Not a Scratch**_ \[Advanced Talent\] - You don't show any signs of damage. (+2 Posture)
-    -   Your character no longer visually shows any signs of damage no matter how low their HP is. No cuts, no scratches, no low hp anims, no torn clothing, etc.
-    -   Spotter (for your opponent's allies) / [Rhythm](Murmur%253A_Rhythm.md) no longer shows how much health your character has.
-    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being taking damage. This is purely visual.
-        -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.
-    -   Requirements: Power 10, 350
-
-### Power 15 Talents
-
--   Successive Prediction \[Common Talent\] - Predicting an attack will briefly allow you to predict another.
-    -   Allows you to reflect the entirety of multi-hit moves (such as Enforcer's spin attack)
-    -   Requirements: Power 15, 100
-
--   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
-    -   This effect requires your opponent to be within 90 studs of you.
-    -   Requirements: Power 15, 100
-
--   _All Knowing_ \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
-    -   Requirements: Power 15, 250
-
--   _**All Above, Gods Below**_ \[Advanced Talent\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you. (+20 Sanity)
-    -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
-        -   Lasts 8 seconds after an All the Dead Gods proc with 100 Willpower 100 Intelligence, which is halved to 4 seconds if you don't meet this Talent's requirements.
-    -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
-    -   This only procs on non-passive healing. For example (non exhaustive list): something like [Flame Wisp](Flamecharm.md#flame-wisp), spits, or [Bloodless Gem](Bloodless_Gem.md) will proc this effect, but campfires, Conditioned Runner, or [Curse of the No Life King](Curse_of_the_No_Life_King.md) will not.
-    -   Requirements: Power 15, 350
 
 ## Boss Unlocks
 

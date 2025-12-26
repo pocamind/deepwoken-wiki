@@ -1,6 +1,6 @@
 ---
 title: Drifter
-revid: 186658
+revid: 186871
 source: https://deepwoken.fandom.com/wiki/Drifter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -30,9 +30,43 @@ This content is not accessible outside of this gamemode.
 
 Gain a dodge instead of a parry, coming out later than a parry but gaining the ability to parry **Unparriable** indicators. At power 10, gain the ability to have a swift teleporting dash at the cost of ether. After killing [Dravik, The Rat King](Dravik,_The_Rat_King.md) the ability to unsheathe your **Purple Cloud**.
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Drift \[Memento Talent\] - You're no longer slow enough to have to rely on parries. Dodge instead.
+    
+    -   Replaces your parry with a fast dodge that can dodge unparryable attacks, at the cost of no parry stun. You still need to be hit by something for the dodge to occur.
+
+-   Lackluster Guard \[Memento Talent\] - You aren't used to having to block, resulting in weaker posture.
+
+## Deck of Recollection
+
+### Starting Deck
+
+  
+
+-   Precision Hitter \[Common Talent\] **100** \- Your Basic Attack posture damage is increased by 15%.
+
+-   Swift Rebound \[Common Talent\] **100** \- Move faster after successfully dodging an attack. (+1 Passive Agility)
+
+-   Underdog \[Common Talent\] **100** \- You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
+    -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
+    -   Underdog grants a 2.5% damage buff at 20 Willpower, this is increased by 0.0375% damage per Willpower above 20, capping at 4% with 60 Willpower.
+        -   Underdog will grant a 2.875% damage bonus at requirements.
+    -   "Higher HP" refers to current HP.
+    -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)
+
+-   Observation \[Rare Talent\] **250** \- Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames
+
+-   Speed Demon \[Rare Talent\] **250** \- Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
+    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
+    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
+    -   Works with M1s and criticals.
+
+-   Tap Dancer \[Rare Talent\] **250** \- Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
+    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
+
+  
 
 | 
 **Name**
@@ -91,7 +125,7 @@ N/A
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -131,7 +165,7 @@ Slash
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -147,7 +181,40 @@ Power 1, 250
 
  |
 
-### Power 10 Mantras
+### Power 10
+
+-   Disbelief \[Common Talent\] **100** \- You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
+    -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
+        -   Tough Love: 2s -> 1s
+        -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
+        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
+        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
+        -   Overcharm's self-charm proc: 8s -> 4s
+        -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
+        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   Lasting Charisma (at reqs): 20s -> 10s
+
+-   Padded Armor \[Common Talent\] **100** \- While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
+
+-   Precise Swing \[Common Talent\] **100** \- After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
+    -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
+    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
+        -   If your M1 is whiffed or dodged, the status effect will not be consumed.
+    -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
+    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
+
+-   Ready or Not \[Common Talent\] **100** \- The first attack to hit you while out of combat has its damage cut in half.
+
+-   Steady Nerves \[Common Talent\] **100** \- You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
+    -   Restore 2 flat posture on a successful dodge.
+
+-   Steel Scales \[Common Talent\] **100** \- You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)
+
+-   Bloodiron Spirit \[Rare Talent\] **250** \- You regain some Armor upon killing enemies. (+5 Health)
+    -   Any kill gives you 2.5% of your total armor durability.
+    -   Stacks with [Bloodiron Ring](Bloodiron_Ring.md), totaling in 5% armor per kill.
+
+  
 
 | 
 **Name**
@@ -206,7 +273,7 @@ Slash
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -249,7 +316,7 @@ Slash
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -292,7 +359,7 @@ Slash
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -304,7 +371,52 @@ Power 10, 700
 
  |
 
-### Power 15 Mantras
+### Power 15
+
+-   Decisive Blow \[Common Talent\] **100** \- Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
+    -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect.
+    -   Compatible with Switchblade despite not being a Dagger talent.
+
+-   Finishing Touch \[Common Talent\] **100** \- Daggers Instantly execute enemies finished with the critical attack of your dagger.
+    -   Your critical must knock the opponent for this Talent to proc.
+
+-   Matador \[Common Talent\] **100** \- Deal +20% more damage to human enemies with hyperarmor.
+    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
+
+-   _Champion's Regalia_ \[Rare Talent\] **250** \- Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds. (+1 Carry Load)
+    -   Indicated by a gold shaded outline on your character.
+    -   Does not work on non-humanoid NPCs.
+    -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
+
+-   _Cheap Shot_ \[Rare Talent\] **250** \- Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
+    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN.
+    -   Cheap Shot cannot bypass the PEN cap.
+
+-   _Defiance_ \[Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+    -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
+    -   Currently, the only things Defiance cuts in half are:
+        -   Flamecharm's burn damage
+        -   Frostdraw's chill duration
+        -   Galebreathe's winded duration
+        -   Galebreathe's suffocation duration
+        -   Frostdraw's crystal stacks
+        -   Thundercall's surge stacks
+        -   Shadowcast's Sightless Still duration
+        -   Blood Poisoning
+        -   Wither gain
+        -   Ring of Pestillence duration
+        -   The potency of potions
+        -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
+
+-   _Evasive Expert_ \[Rare Talent\] **250** \- Your speed boost granted from dodging is increased. (+1 Passive Agility)
+
+-   _Knife's Journey_ \[Rare Talent\] **250** \- Daggers Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage
+    -   Displays a red particle on the target enemy after proccing.
+
+-   _Perfect Flash_ \[Rare Talent\] **250** \- Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
+    -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
+
+  
 
 | 
 **Name**
@@ -363,7 +475,7 @@ Slash
 
  | 
 
-Power 15, 950
+950
 
  |
 | 
@@ -377,141 +489,6 @@ Power 15, 950
 -   Can change the direction you launch backwards by turning your camera.
 
  |
-
-## Available Talents
-
-### Starter Talents
-
--   Drift \[Memento Talent\] - You're no longer slow enough to have to rely on parries. Dodge instead.
-    
-    -   Replaces your parry with a fast dodge that can dodge unparryable attacks, at the cost of no parry stun. You still need to be hit by something for the dodge to occur.
-    -   Requirements: Starter
-
--   Lackluster Guard \[Memento Talent\] - You aren't used to having to block, resulting in weaker posture.
-    
-    -   Requirements: Starter
-
--   Precision Hitter \[Common Talent\] - Your Basic Attack posture damage is increased by 15%.
-    -   Requirements: Power 1, 100
-
--   Swift Rebound \[Common Talent, Agility\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
-    -   Requirements: Power 1, 100
-
--   Underdog \[Common Talent\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
-    -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
-    -   Underdog grants a 2.5% damage buff at 20 Willpower, this is increased by 0.0375% damage per Willpower above 20, capping at 4% with 60 Willpower.
-        -   Underdog will grant a 2.875% damage bonus at requirements.
-    -   "Higher HP" refers to current HP.
-    -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)
-    -   Requirements: Power 1, 100
-
--   Observation \[Rare Talent, Agility\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames
-    -   Requirements: Power 1, 250
-
--   Speed Demon \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
-    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
-    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
-    -   Works with M1s and criticals.
-    -   Requirements: Power 1, 250
-
--   Tap Dancer \[Rare Talent, Agility\] - Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
-    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
-    -   Requirements: Power 1, 250
-
-### Power 10 Talents
-
--   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
-    -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
-        -   Tough Love: 2s -> 1s
-        -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
-        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
-        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
-        -   Overcharm's self-charm proc: 8s -> 4s
-        -   Charismatic Cast, [Allure](Allure.md): 10s -> 5s
-        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
-        -   Lasting Charisma (at reqs): 20s -> 10s
-    -   Requirements: Power 10, 100
-
--   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
-    -   Requirements: Power 10, 100
-
--   Precise Swing \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
-    -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
-    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
-        -   If your M1 is whiffed or dodged, the status effect will not be consumed.
-    -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
-    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
-    -   Requirements: Power 10, 100
-
--   Ready or Not \[Common Talent\] - The first attack to hit you while out of combat has its damage cut in half.
-    -   Requirements: Power 10, 100
-
--   Steady Nerves \[Common Talent, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
-    -   Restore 2 flat posture on a successful dodge.
-    -   Requirements: Power 10, 100
-
--   Steel Scales \[Common Talent\] - You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)
-    -   Requirements: Power 10, 100
-
--   Bloodiron Spirit \[Rare Talent\] - You regain some Armor upon killing enemies. (+5 Health)
-    -   Any kill gives you 2.5% of your total armor durability.
-    -   Stacks with [Bloodiron Ring](Bloodiron_Ring.md), totaling in 5% armor per kill.
-    -   Requirements: Power 10, 250
-
-### Power 15 Talents
-
--   Decisive Blow \[Common Talent\] - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
-    -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect.
-    -   Compatible with Switchblade despite not being a Dagger talent.
-    -   Requirements: Power 15, 100
-
--   Finishing Touch \[Common Talent\] - Daggers Instantly execute enemies finished with the critical attack of your dagger.
-    -   Your critical must knock the opponent for this Talent to proc.
-    -   Requirements: Power 15, 100
-
--   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
-    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
-    -   Requirements: Power 15, 100
-
--   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds. (+1 Carry Load)
-    -   Indicated by a gold shaded outline on your character.
-    -   Does not work on non-humanoid NPCs.
-    -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
-    -   Requirements: Power 15, 250
-
--   _Cheap Shot_ \[Rare Talent\] - Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
-    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN.
-    -   Cheap Shot cannot bypass the PEN cap.
-    -   Requirements: Power 15, 250
-
--   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
-    -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
-    -   Currently, the only things Defiance cuts in half are:
-        -   Flamecharm's burn damage
-        -   Frostdraw's chill duration
-        -   Galebreathe's winded duration
-        -   Galebreathe's suffocation duration
-        -   Frostdraw's crystal stacks
-        -   Thundercall's surge stacks
-        -   Shadowcast's Sightless Still duration
-        -   Blood Poisoning
-        -   Wither gain
-        -   Ring of Pestillence duration
-        -   The potency of potions
-        -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
-    -   Requirements: Power 15, 250
-
--   _Evasive Expert_ \[Rare Talent\] - Your speed boost granted from dodging is increased. (+1 Passive Agility)
-    -   Requirements: Power 15, 250
-
--   _Knife's Journey_ \[Rare Talent\] - Daggers Cancelling an enemy's Mantra windup with your Basic Attacks now deals 15% more damage
-    -   Displays a red particle on the target enemy after proccing.
-    -   Requirements: Power 15, 250
-
--   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
-    -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
-    -   Requirements: Power 15, 250
 
 ## Boss Unlocks
 

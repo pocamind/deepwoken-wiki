@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 186775
+revid: 186883
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -468,9 +468,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 15 Fortitude, 15 Willpower
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
-    -   After being block broken, reduce the next instance of DMG by 20%.
-        -   Only works on the first instance of DMG, multi-hits are reduced less.
-    -   No cooldown.
+    -   After being block broken, reduce the next instance of damage by 20%. This has no cooldown.
     -   Prerequisite: 25 Fortitude
         -   The Equipment "[Providence Coat](Providence_Coat.md)" has this Talent.
 
@@ -1181,7 +1179,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The head equipments "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this Talent.
     -   Works only with medium weapons.
 
--   _Strong Stern_ \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half (+9 Carry Load)
+-   _Strong Stern_ \[Rare Talent\] - The duration you are dazed from wall bangs is cut in half. (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
     -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
 
@@ -2671,8 +2669,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Rampaging Brute
 
 -   Shield Breaker \[Common Talent\] - Blunt damage now fully ignores the posture bonus from shields. (+4 Carry Load, +1 Posture)
-    -   Prerequisite: 60 Strength
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
+    -   Prerequisite: 60 Strength
 
 -   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
     -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.
@@ -4642,7 +4640,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 -   **Ascended Phoenix Flames** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
     
-    -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) OR [Solborn](Solborn.md) Memento
+    -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) OR [Solborn](Solborn.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 ### Innate
 
@@ -4675,9 +4673,9 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Capra Marks will now buff yourself.
     -   The duration of self-applied Capra Marks scale with how many people you've buffed.
 
--   _Largent_ \[[Adret](Adret.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your diplomatic skills extend into your ability to barter. Gain 100 extra notes per chest when turning in a sack.
+-   _Largent_ \[[Adret](Adret.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your diplomatic skills extend into your ability to barter. Gain 300 extra notes per chest when turning in a sack.
 
--   _Tailor Made_ \[[Etrean](Etrean.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - These were specifically made for your kind. [Etris Flasks](Etris_Flask.md) now heal you 5% more than usual.
+-   _Tailor Made_ \[[Etrean](Etrean.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - These were specifically made for your kind. [Etris Flasks](Etris_Flask.md) now heal you 45% more than usual.
 
 -   _Mothwing Defense_ \[[Chrysid](Chrysid.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Further refining how sharp your antennae, you can now immediately recognize a sneak attack and brace yourself for it. Reduce all backhit damage by 50%.
 
@@ -4758,9 +4756,10 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 -   Dancer's Beat \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Vent](Combat_Mechanics.md#tempo) is replaced with Dancer's Beat. You increase the speed, damage, and stun of your next Basic Attack. However, should your attack fail to land, you'll be stunned and your [Tempo](Combat_Mechanics.md#tempo) will be greatly reduced.
     
-    -   Your Vent can no longer be used defensively and does not cost tempo to use. Additionally, the Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
-    -   Using your Vent will put you in a stance for a brief moment. Your next M1 will deal higher damage, more stun, and have a higher swing speed.
-    -   If you are hit before you use your next attack, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose Tempo and will be stunned briefly.
+    -   Your Vent can no longer be used defensively, but does not cost tempo to use. You need to have at least 20 Tempo to use Dancer's Beat.
+    -   Using your Vent will put you in a stance for a brief moment. Your next M1 used within 1 second of using Dancer's Beat will deal higher damage, more stun, and have a higher swing speed.
+    -   If you are hit before you use your next attack, wait out the 1 second proc window, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose 60 Tempo and will be stunned for 0.5 seconds. During this stun you will not be able to perform any actions, but this stun will not cancel any of your currently active attacks.
+    -   The Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
     -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento
 
 -   Dancer's Geas \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.

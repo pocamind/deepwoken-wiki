@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 183837
+revid: 186827
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -127,16 +127,19 @@ Certain Monsters have unique visual effects when attuned.
 
 **The Vat:**
 
-## Monster Hunting Advice
+## Tips / Monster Hunting Advice
 
-While most of the ways to fight a Monster are specific to their attacks and it is, there are generally a few good rules that apply to most, if not all monsters.
+As most Monsters behave differently from each other, the ways to fight them are unique to themselves. However, there are some general rules of thumb that can be applied to most if not all of them.
 
--   If an attack has a red, blue, or purple indicator and a sharp sound effect, the attack **CANNOT** be parried normally and must be dodged (or blocked for blue).
-    -   These attacks are generally slower than regular attacks (with the exception of some attacks such as Sand Knight kick), giving the player more time to dodge. There are only a few ways to parry these attacks: Equipping a [Hunter's Brace](<Hunter's_Brace.md>), [Grand Fisher Plate](Grand_Fisher_Plate.md), [Ignition Gauntlets](Ignition_Gauntlets.md), or wearing the [Ignition Deepdelver](Ignition_Deepdelver.md) [Outfit](Outfits.md).
--   Take extreme caution if attempting to flee from a monster, especially at low health.
-    -   Most Monsters have abilities specifically designed to catch players running away, such as the [Megalodaunt](Megalodaunt.md)'s long-range Coral Spear, which slows the player down when hit. If running is the player's last option, the player must be smart about it. The player should abuse buildings, terrain, and other obstacles to their advantage or defend against such long ranged attacks.
+-   **Most** Monsters will **never** use the same attack twice in a row.
+    -   For example, this can be observed with Monsters such as the [Megalodaunt](Megalodaunt.md), who - if you can recognize their attacks - will never use the same attack back-to-back, making their behavior almost predictable.
+-   If an attack has a colored glyph indicator or a colored outline over the Monster and a distinct sharp sound effect, the attack **cannot** be completely defended against normally and must be avoided accordingly.
+    -   These attacks are generally slower than regular attacks (with the exception of some attacks such as [Stone Knight](Stone_Knight.md)'s Kick), giving the player more time to react.
+    -   For more information and a comprehensive list on these telegraphed attacks, click [here](Combat_Mechanics.md#telegraphed-attacks).
+-   Take extreme caution if attempting to flee from a Monster, especially at low health.
+    -   Most Monsters have abilities specifically designed to catch players running away, such as the [Megalodaunt](Megalodaunt.md)'s Thousand Needles, which slows you down when hit. If running is your last option, you must be smart about it. You should abuse buildings, terrain, and other obstacles to your advantage or defend against such long ranged attacks.
 -   Practice makes perfect.
-    -   The player should try and fight Monsters in situations where they have little to no risk of dying, such as Megalodaunt's in [The Viper's Jaw](<The_Viper's_Jaw.md>).[\[1\]](#cite-note-1) Being unprepared is worse than fighting the Monsters themselves. The absolute **worst** thing for the player to do is to jump into a fight with a Monster they’ve never fought, or even worse, never even seen before. While many Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.**
+    -   The player should try and fight Monsters in situations where they have little to no risk of dying, such as against the Megalodaunts found in [The Viper's Jaw](<The_Viper's_Jaw.md>).[\[1\]](#cite-note-1) Being unprepared is worse than fighting the Monsters themselves. The absolute **worst** thing for the player to do is to jump into a fight with a Monster they’ve never fought, or even worse, never even seen before. While many Monsters are indeed weaker than they look, **others are the opposite and are deceptively strong.**
         -   For Example: Despite [Blizzard Knight](Stone_Knight.md#blizzard-knight) looking somewhat spindly and identical to their much weaker [Stone Knight](Stone_Knight.md) counterpart, they actually boast one of the highest amount of hit points out of any Non-Boss Monster. On the other hand, [Deep Owls](Deep_Owl.md) may look ginormous and intimidating, but only have roughly 30% more health compared to a [Thresher](Thresher.md), a weaker mob.
 -   Monsters are affected by most things a player would be affected by including:
     -   Potions
@@ -170,12 +173,10 @@ D a m a g e P e r M 1 \= ( 3 ( 20 + 3.33 ) ) × ( 40 × ( 10 100 + 1 ) × 0.089 
 
 ## Trivia
 
--   Most creatures have the means to catch a Player who runs, an example being the [Megalodaunt](Megalodaunt.md)'s ranged attack, or the [Rock golem's](Rock_Golem.md) beam attack.
--   NOT all attacks can be parried; buy a Hunter Brace at Summer Isle to be able to. ([Ignition Deepdelver](Ignition_Deepdelver.md) armor also works for this.)
--   Some creatures will fight each other; multiple can fight at the same time. These can be either intentional through events like the Megalodaunt vs. Rock Golem event in [Upper Erisia](Upper_Erisia.md) or if the monsters just happen to find each other. See this in action [here](https://youtu.be/01uQchtfUvw) and [here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s).
--   Some variants of some creatures are limited to The Depths, and others are only in The Overworld. (e.g. Thunder [Nautilodaunts](Nautilodaunt.md) spawn only in [the Depths](The_Depths.md))
+-   Some Monsters will fight each other; multiple can fight at the same time. These can be either intentional through events like the [Megalodaunt vs. Rock Golem event](Random_Encounters.md) in [Upper Erisia](Upper_Erisia.md) or if the Monsters just happen to find each other. See this in action [here](https://youtu.be/01uQchtfUvw) and [here](https://www.youtube.com/watch?v=Su6IU88g7PM&t=37s).
+-   Some variants of some Monsters are limited to certain Locations, such as the [Fury Nautilodaunt](Fury_Nautilodaunt.md) being found only in The Depths
 -   Prior to an update that reworked the telegraphing of attacks, most unparryable (red flash) attacks of monsters were accompanied by a red flash and the [Perilous attack sound](https://www.youtube.com/watch?v=5YzN2bPgjB0) from _Sekiro: Shadows Die Twice_.
--   There's a rare easter egg with an unknown chance that a [Metal Gear solid alert sound](https://streamable.com/ul7sv3) will play when a monster notices a player.
+-   There's a rare easter egg with an unknown chance that a [Metal Gear solid alert sound](https://streamable.com/ul7sv3) will play when a Monster notices a player.
 
 ## References
 

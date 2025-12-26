@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 186497
+revid: 186900
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -53,7 +53,7 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
  | The Deep Owl kneels on the ground for a moment before performing a spinning assault with shadowy waves in the target's direction.
 
 -   Can end early without hitting you if it "collides" with something due to its large size.
--   Deals Shadow damage.
+-   It will step back and gain distance before using this attack.
 
  |  |
 | 
@@ -68,9 +68,9 @@ Unlocking the [Visionshaper](Oath%253A_Visionshaper.md) [Oath](Oaths.md) require
 
 _Uses Telegraph_
 
-[DodgeTelegraph](Combat_Mechanics.md#red)
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
 
-Dodge
+High posture
 
  |  |
 | 
@@ -78,10 +78,9 @@ Dodge
 **Flock of Feathers**  
 (★★☆)
 
- | Bursts into a puff of feathers that target the closest victim(s), dealing substantial armor and chip damage on block.
+ | Bursts into a puff of feathers that targets the closest target, dealing substantial armor and chip damage on block.
 
--   Overhead Grab and Owl Dash are typically used after this.
--   Deals Shadowcast damage.
+-   **Overhead Grab** and **Owl Dash** are typically used after this.
 
  |  |
 
@@ -91,9 +90,12 @@ Dodge
 
 ## Finisher
 
-| Name | Media | Description |
+| Name | Description | Media |
 | --- | --- | --- |
-| Claw Crush |  | The Owl swiftly crushes the knocked player's torso with it's talons. |
+| 
+Claw Crush
+
+ | The Deep Owl swiftly crushes the knocked player's torso with its talons. |  |
 
 ## Dialogue
 

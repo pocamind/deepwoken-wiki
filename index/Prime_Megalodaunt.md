@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 186501
+revid: 186901
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -12,7 +12,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The Prime Megalodaunt is a powerful [Megalodaunt](Megalodaunt.md) variant, spawning as the second trial in [The Vat](The_Vat.md), as a Power 6+ trial in the [Vow of Iron](Vow_of_Iron.md) Depths Trial (albeit significantly weakened and with slightly tweaked behavior), or through the [Parasol's Blight](<Parasol's_Blight.md>) enchant.
+The Prime Megalodaunt is a powerful [Megalodaunt](Megalodaunt.md) variant, spawning as the second trial in [The Vat](The_Vat.md), as a Power 6+ trial in the [Vow of Iron](Vow_of_Iron.md) Depths Trial (albeit significantly weakened), or through the [Parasol's Blight](<Parasol's_Blight.md>) enchant.
 
 Primes are the strongest variant, with them hitting harder, having a much higher HP pool, and being noticeably faster at attacking compared to its normal counterparts.
 
@@ -105,6 +105,12 @@ High posture
  | Starts out similarly to **Tacet Hug**, but after it turns visible again, it will throw out its entire body in a drop kick, flinging and ragdolling targets hit.
 
 -   The Prime Megalodaunt is the only variant that can use this attack on its own.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  | 
 

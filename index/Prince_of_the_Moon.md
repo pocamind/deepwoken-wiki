@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 186532
+revid: 186856
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -31,9 +31,29 @@ This content is not accessible outside of this gamemode.
 
 **This Memento permanently gives you Tier 1 Insanity.**
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Soul Veil \[Memento Talent\] - Soulthorn now directly siphons the song of your enemies. Accumulating stacks and increasing your power. Perfect plays are encouraged.
+    
+    -   Landing basic attacks with the Soulthorn grants a stacking 7.5% damage buff. This caps at +30% damage.
+    -   If you get hit while having stacks of Soul Veil, your attacker will steal your stacks for themselves. You can steal your stacks back by hitting them.
+
+-   _Dark Rift_ \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+    -   Blocking, parrying, dodging, or sliding will also cancel the effect.
+    -   You cannot use mantras during the effect.
+    -   You hover with a dark outline while dark rift is active.
+    -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
+
+-   _Shadow Travel_ \[Rare Talent\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
+    -   Deals 0.25 self damage damage per stud teleported. This **can** kill you if you don't have enough health to survive the teleport.
+    -   If your teleport distance is less than 300 studs, you will not take self damage.
+    -   Drains 100 Ether on use, with each stud travelled increasing this Ether cost by 0.2.
+    -   The maximum distance you can travel is based on your Ether. Subtract your Ether by 100 and multiply the result by 5 to get the maximum amount of studs you can travel.
+    -   Studs teleported calculations are directly based on your starting position (where you **casted** Shadow Travel) and your end position, meaning that height and length aren't calculated separately.
+    -   The Already Dead Talent from the [Deepscorn Casque](Deepscorn_Casque.md) halves the self damage taken from Shadow Travel.
+    -   Can teleport users to the roof of the depths, and wipe them due to fall damage.
+
+  
 
 | 
 **Name**
@@ -92,7 +112,7 @@ Oath
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -108,7 +128,31 @@ Starter
 
  |
 
-### Power 5 Mantras
+## Deck of Recollection
+
+### Power 5
+
+-   Chain of Perfection \[Quest Talent, Echo Talent\] **100** \- You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
+    -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
+    -   Can stack up to 20 times, for a 100% damage boost.
+    -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from most sources.)
+
+-   Swift Rebound \[Common Talent\] **100** \- Move faster after successfully dodging an attack. (+1 Passive Agility)
+
+-   _Evasive Expert_ \[Rare Talent\] **250** \- Your speed boost granted from dodging is increased. (+1 Passive Agility)
+
+-   _Perfect Flash_ \[Rare Talent, Intelligence\] **250** \- Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
+    -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
+
+-   _Risky Moves_ \[Rare Talent\] **250** \- When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
+    -   User is covered in a blue highlight when the effect is active.
+    -   Visual effect might not line up with duration.
+    -   Attacking will cancel the effect early.
+    -   Takes priority over block, allowing for you to "auto-dodge" while simultaneously blocking.
+    -   20 second cooldown.
+    -   Procs at the same time as Dark Rift.
+
+  
 
 | 
 **Name**
@@ -167,7 +211,7 @@ Shadow
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -184,7 +228,95 @@ Power 5, 450
 
  |
 
-### Power 15 Mantras
+### Power 10
+
+-   _Defiance_ \[Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
+    -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
+    -   Currently, the only things Defiance cuts in half are:
+        -   Flamecharm's burn damage
+        -   Frostdraw's chill duration
+        -   Galebreathe's winded duration
+        -   Galebreathe's suffocation duration
+        -   Frostdraw's crystal stacks
+        -   Thundercall's surge stacks
+        -   Shadowcast's Sightless Still duration
+        -   Blood Poisoning
+        -   Wither gain
+        -   Ring of Pestillence duration
+        -   The potency of potions
+        -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
+
+-   _Everchanging Aegis_ \[Rare Talent\] **250** \- You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
+    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
+        -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
+    -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
+    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
+        -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
+    -   Does not effect Oath, Attunement-less, or Monster mantras.
+
+-   _Eureka_ \[Rare Talent\] **250** \- Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
+    -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
+    -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
+        -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
+        -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
+    -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
+
+-   _Neuroplasticity_ \[Rare Talent\] **250** \- Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%.
+    -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
+    -   Does not apply retroactively to previously modified mantras until you rejoin.
+
+-   _Overflowing Dam_ \[Rare Talent\] **250** \- Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
+    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
+
+-   _Tap Dancer_ \[Rare Talent\] **250** \- Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
+    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
+
+### Power 15
+
+-   Dark God \[Common Talent\] **100** \- If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
+
+-   Dark Hours \[Common Talent\] **100** \- Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+    -   Night cycle is XX:50 to XX:10.
+    -   Always active in the depths.
+
+-   Dark Replenishment \[Common Talent\] **100** \- Knocking out an enemy in combat restores a portion of your ether.
+
+-   Dark Synergy \[Common Talent\] **100** \- Engulf your enemy in shadows when flourishing them.
+    -   Deals 5 Shadowcast damage on proc.
+    -   Does not proc any shadow Talents except Shadow Overflow.
+    -   Does not steal or halt any Ether regen.
+
+-   Fear the Dark \[Common Talent\] **100** \- Enemies will briefly hang in place when they run from you.
+    -   After you land a Shadowcast Mantra, if your opponent attempts to distance themselves from you, they will be locked in place for 1.5 seconds.
+    -   This does not apply hitstun.
+
+-   Overwhelming Drain \[Common Talent\] **100** \- If multiple enemies are hit by your Shadow Eruption, they are dazed.
+
+-   Shadow Overflow \[Common Talent\] **100** \- Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
+    -   Has a 4 second cooldown.
+    -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.
+
+-   Sightless Still \[Common Talent\] **100** \- The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantras.
+
+-   Singularity \[Common Talent\] **100** \- Enemies will briefly hang in place when hit by a shadow move.
+
+-   _Cut to the Chase_ \[Rare Talent\] **250** \- Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. (+5 Passive Agility)
+    -   Air Countering innately deals 10% of your weapon's scaled damage, **Cut to the Chase** increases this amount to 70% of your weapon's scaled damage.
+        -   The damage bonus to your Air Counters will scale down if you have less than 60 Agility.
+    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
+
+-   _Lightspeed Reflexes_ \[Rare Talent\] **250** \- Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+    -   Prerequisites: 20 Agility, 20 Intelligence
+-   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
+
+-   _Speed Demon_ \[Rare Talent\] **250** \- Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
+    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
+    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
+    -   Works with M1s and criticals.
+
+-   _Thresher Claws_ \[Rare Talent\] **250** \- All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.
+
+  
 
 | 
 **Name**
@@ -243,7 +375,7 @@ Shadow, Blunt (Slam)
 
  | 
 
-Power 15, 950
+950
 
  |
 | 
@@ -261,7 +393,23 @@ Power 15, 950
 
  |
 
-### Power 20 Mantras
+### Power 20
+
+-   Chainlash \[Oath Talent\] **200** \- On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.
+    -   On flourish, enchain the opponent.
+    -   "**The Pull**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
+        -   2 seconds true endlag on flourish.
+        -   Prevents targets from moving after flourish.
+        -   Forces targets back to the user on flourish, holding them in place for a duration.
+            -   Game determines user's location 0.4 seconds late, using it airborne can drag targets upwards.
+        -   **Movestack**: Using a mantra at the _very first moment_ after a flourish let's you movestack it.
+    -   "**Crushing Kick**" is activated after pulling targets by M1ing dealing 46 Oath damage and 25 posture.
+        -   0.45s windup, [True Hyperarmor](Status_Effects.md#true-hyperarmor) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
+            -   Has a 360° hitbox, can't be whiffed by turning around, but you can kick targets back to you.
+        -   Using the kick too quickly will have increased endlag, due to the Pull's endlag.
+        -   **Movestack**: Using The Kick at the _very last moment_ provides a small movestack with mantras/attacks.
+
+  
 
 | 
 **Name**
@@ -320,7 +468,7 @@ Oath
 
  | 
 
-Power 20, 1,250
+1,250
 
  |
 | 
@@ -340,182 +488,6 @@ Power 20, 1,250
 -   Has a cooldown of 15 seconds.
 
  |
-
-## Available Talents
-
-### Starting Talents
-
--   Soul Veil \[Memento Talent\] - Soulthorn now directly siphons the song of your enemies. Accumulating stacks and increasing your power. Perfect plays are encouraged.
-    
-    -   Landing basic attacks with the Soulthorn grants a stacking 7.5% damage buff. This caps at +30% damage.
-    -   If you get hit while having stacks of Soul Veil, your attacker will steal your stacks for themselves. You can steal your stacks back by hitting them.
-    -   Requirements: Starter
-
--   _Dark Rift_ \[Rare Talent\] - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
-    -   Blocking, parrying, dodging, or sliding will also cancel the effect.
-    -   You cannot use mantras during the effect.
-    -   You hover with a dark outline while dark rift is active.
-    -   This ability last for 1.8 seconds and goes on a 20 second cooldown when it activates.
-    -   Requirements: Starter
-
--   _Shadow Travel_ \[Rare Talent\] - Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user.
-    -   Deals 0.25 self damage damage per stud teleported. This **can** kill you if you don't have enough health to survive the teleport.
-    -   If your teleport distance is less than 300 studs, you will not take self damage.
-    -   Drains 100 Ether on use, with each stud travelled increasing this Ether cost by 0.2.
-    -   The maximum distance you can travel is based on your Ether. Subtract your Ether by 100 and multiply the result by 5 to get the maximum amount of studs you can travel.
-    -   Studs teleported calculations are directly based on your starting position (where you **casted** Shadow Travel) and your end position, meaning that height and length aren't calculated separately.
-    -   The Already Dead Talent from the [Deepscorn Casque](Deepscorn_Casque.md) halves the self damage taken from Shadow Travel.
-    -   Can teleport users to the roof of the depths, and wipe them due to fall damage.
-    -   Requirements: Starter
-
-### Power 5 Talents
-
--   Chain of Perfection \[Echo Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
-    -   Gain a 5% damage boost against PVE enemies for every hit against at close range.
-    -   Can stack up to 20 times, for a 100% damage boost.
-    -   Lose the entirety of the damage boost after taking damage. (Excludes self damage from most sources.)
-    -   Requirements: Power 5, 100
-
--   Swift Rebound \[Common Talent\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
-    -   Requirements: Power 5, 250
-
--   _Evasive Expert_ \[Rare Talent\] - Your speed boost granted from dodging is increased. (+1 Passive Agility)
-    -   Requirements: Power 5, 250
-
--   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
-    -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
-    -   Requirements: Power 5, 250
-
--   _Risky Moves_ \[Rare Talent\] - When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
-    -   User is covered in a blue highlight when the effect is active.
-    -   Visual effect might not line up with duration.
-    -   Attacking will cancel the effect early.
-    -   Takes priority over block, allowing for you to "auto-dodge" while simultaneously blocking.
-    -   20 second cooldown.
-    -   Procs at the same time as Dark Rift.
-    -   Requirements: Power 5, 250
-
-### Power 10 Talents
-
--   _Defiance_ \[Rare Talent\] - Negative status effects are half as effective when you are below 35% HP.
-    -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
-    -   Currently, the only things Defiance cuts in half are:
-        -   Flamecharm's burn damage
-        -   Frostdraw's chill duration
-        -   Galebreathe's winded duration
-        -   Galebreathe's suffocation duration
-        -   Frostdraw's crystal stacks
-        -   Thundercall's surge stacks
-        -   Shadowcast's Sightless Still duration
-        -   Blood Poisoning
-        -   Wither gain
-        -   Ring of Pestillence duration
-        -   The potency of potions
-        -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
-    -   Requirements: Power 10, 250
-
--   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
-    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
-        -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
-    -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
-    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
-        -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
-    -   Does not effect Oath, Attunement-less, or Monster mantras.
-    -   Requirements: Power 10, 250
-
--   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
-    -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
-    -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
-        -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
-        -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
-    -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
-    -   Requirements: Power 10, 250
-
--   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
-    -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
-    -   Does not apply retroactively to previously modified mantras until you rejoin.
-    -   Requirements: Power 10, 250
-
--   _Overflowing Dam_ \[Rare Talent, Intelligence\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
-    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
-    -   Requirements: Power 10, 250
-
--   _Tap Dancer_ \[Rare Talent, Agility\] - Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
-    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
-    -   Requirements: Power 10, 250
-
-### Power 15 Talents
-
--   Dark God \[Common Talent\] - If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
-    -   Requirements: Power 15, 100
-
--   Dark Hours \[Common Talent\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
-    -   Night cycle is XX:50 to XX:10.
-    -   Always active in the depths.
-    -   Requirements: Power 15, 100
-
--   Dark Replenishment \[Common Talent\] - Knocking out an enemy in combat restores a portion of your ether.
-    -   Requirements: Power 15, 100
-
--   Dark Synergy \[Common Talent\] - Engulf your enemy in shadows when flourishing them.
-    -   Deals 5 Shadowcast damage on proc.
-    -   Does not proc any shadow Talents except Shadow Overflow.
-    -   Does not steal or halt any Ether regen.
-    -   Requirements: Power 15, 100
-
--   Fear the Dark \[Common Talent\] - Enemies will briefly hang in place when they run from you.
-    -   After you land a Shadowcast Mantra, if your opponent attempts to distance themselves from you, they will be locked in place for 1.5 seconds.
-    -   This does not apply hitstun.
-    -   Requirements: Power 15, 100
-
--   Overwhelming Drain \[Common Talent\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
-
--   Shadow Overflow \[Common Talent\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.
-    -   Has a 4 second cooldown.
-    -   Deals 5 Shadowcast damage around you in a small aoe from the target you hit.
-    -   Requirements: Power 15, 100
-
--   Sightless Still \[Common Talent\] - The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow mantras.
-    -   Requirements: Power 15, 100
-
--   Singularity \[Common Talent\] - Enemies will briefly hang in place when hit by a shadow move.
-    -   Requirements: Power 15, 100
-
--   _Cut to the Chase_ \[Rare Talent\] - Air Counter damage scaling is largely increased. Landing an Air Counter now initiates an uppercut. (+5 Passive Agility)
-    -   Air Countering innately deals 10% of your weapon's scaled damage, **Cut to the Chase** increases this amount to 70% of your weapon's scaled damage.
-        -   The damage bonus to your Air Counters will scale down if you have less than 60 Agility.
-    -   Air Counter is initiated when using an Aerial attack after your opponent does any of the following: wall jumps (parkour), uses Wind Step (Galebreathe Talent), or uses a [Lifevent](Lifevents.md) (Starswept jump pad).
-    -   Requirements: Power 15, 250
-
--   _Lightspeed Reflexes_ \[Rare Talent, Agility\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
-    -   Prerequisites: 20 Agility, 20 Intelligence
--   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
-    -   Requirements: Power 15, 250
-
--   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
-    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
-    -   Speed Demon's bleed deals 5% of your weapon's damage every 0.3s, three times. This totals to +15% damage over a 0.9 second period.
-    -   Works with M1s and criticals.
-    -   Requirements: Power 15, 250
-
--   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.
-    -   Requirements: Power 15, 250
-
-### Power 20 Talents
-
--   Chainlash \[Oath Talent\] - On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.
-    -   On flourish, enchain the opponent.
-    -   "**The Pull**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
-        -   2 seconds true endlag on flourish.
-        -   Prevents targets from moving after flourish.
-        -   Forces targets back to the user on flourish, holding them in place for a duration.
-            -   Game determines user's location 0.4 seconds late, using it airborne can drag targets upwards.
-        -   **Movestack**: Using a mantra at the _very first moment_ after a flourish let's you movestack it.
-    -   "**Crushing Kick**" is activated after pulling targets by M1ing dealing 46 Oath damage and 25 posture.
-        -   0.45s windup, [True Hyperarmor](Status_Effects.md#true-hyperarmor) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
-            -   Has a 360° hitbox, can't be whiffed by turning around, but you can kick targets back to you.
-        -   Using the kick too quickly will have increased endlag, due to the Pull's endlag.
-        -   **Movestack**: Using The Kick at the _very last moment_ provides a small movestack with mantras/attacks.
 
 ## Boss Unlocks
 

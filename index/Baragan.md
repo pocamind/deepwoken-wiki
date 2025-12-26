@@ -1,9 +1,9 @@
 ---
 title: Baragan
-revid: 176930
+revid: 186816
 source: https://deepwoken.fandom.com/wiki/Baragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Baragan
@@ -16,11 +16,19 @@ categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 | affiliation | Etrea |
 | family | Caragan (brother), Unnamed grandfather (deceased), Unnamed father (deceased) |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ The Maestros here saw my potential and gave me a chance I'll never regret, not for as long as I live. ”
+
+― Baragan
+
 ## Description
 
 Baragan is an [Etrean](Etrean.md) NPC, he is the [Blacksmith](Blacksmith.md) for the [Isle of Vigils](Isle_of_Vigils.md). His brother, [Caragan](Caragan.md), works at [Etris](Etris.md).
 
-### Location
+## Location
 
 Baragan is located in the [Temple of the Blade](Temple_of_the_Blade.md) at the Isle of Vigils.
 

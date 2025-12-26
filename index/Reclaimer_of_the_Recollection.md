@@ -1,12 +1,11 @@
 ---
 title: Reclaimer of the Recollection
-revid: 186558
+revid: 186928
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Voiced Characters]
+categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Voiced Characters]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Reclaimer of the Recollection
@@ -25,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Reclaimer of the Recollection is a [Gremor](Gremor.md) NPC found in both [The Cerebral Spire](The_Cerebral_Spire.md) and [Fragments of Else](Fragments_of_Else.md). They serve as the guide to [the Inheritor](The_Inheritor.md) in the Cerebral Spire and a counterpart to [Self](Self.md) in the Fragments of Else. The Reclaimer is the only way the player is able to increase their power and gain further abilities regarding their [Mementos](Mementos.md).
+The Reclaimer of the Recollection is a [Gremor](Gremor.md) NPC found in [The Cerebral Spire](The_Cerebral_Spire.md), [Fragments of Else](Fragments_of_Else.md) and [Cerebral Requiem](Cerebral_Requiem.md). They serve as the guide to [the Inheritor](The_Inheritor.md) in the Cerebral Spire and a counterpart to [Self](Self.md) in the Fragments of Else and the Cerebral Requiem. The Reclaimer is the only way the player is able to increase their power and gain further abilities regarding their [Mementos](Mementos.md).
 
 They're an Aspen [Gremor](Gremor.md) in stage 2 of aging (50-59 years old). He wears the [Light's Final Toll](<Light's_Final_Toll.md>) beads on his arm, a [Canticlysm Pendant](Canticlysm_Pendant.md), and an [Adventurer Coat](Adventurer_Coat.md) of some kind. Additionally, he wears a pair of [geta](<https://en.wikipedia.org/wiki/Geta_(footwear)>).
 
@@ -371,8 +370,6 @@ Recollection
 
 **Fragments of Else:**
 
-**Wiping Memento:**
-
 **First Encounter:**
 
 <table>
@@ -425,7 +422,7 @@ Recollection
 </tbody>
 </table>
 
-**Zi'eer:**
+**Cerebral Requiem:**
 
 **Zi'eer Defeated:**
 

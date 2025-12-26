@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 186466
+revid: 186898
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Monsters, The Depths]
@@ -9,8 +9,6 @@ notices:
 ---
 
 # Nautilodaunt Officiate
-
-_Often referred to as Enforcer Squibbo_
 
 Variants: [Nautilodaunt](Nautilodaunt.md)
 
@@ -22,19 +20,24 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Nautilodaunt Officiate** is a variant of [Fury Nautilodaunt](Fury_Nautilodaunt.md) and being mixed with [Enforcer](Enforcer.md), can be found in [The Trial](First_Layer.md) (checked on power 1-5). It has the moveset of the Fury Nautilodaunt and has at least 3 new attacks, one being parryable, other unparryable and the last being a combo with delayed last attack. It is also immune to instant guardbreaks (such as a greataxe critical), but still being able to guardbreak for filling their posture. All of this combined makes it an incredibly challenging foe which can decimate most players in seconds.
+The Nautilodaunt Officiate (also known as Enforcer Squibbo) is a mix of a [Fury Nautilodaunt](Fury_Nautilodaunt.md) and an [Enforcer](Enforcer.md), creating the abominable weapon seen in the Depths Trial of [Vow of Iron](Vow_of_Iron.md).
 
-## Moveset
+They have the body shape and fighting style of a [Nautilodaunt](Nautilodaunt.md) but the shell of an Enforcer, as well as a few new attacks that make it a foe fitting of its position, making quick work of unfortunate souls.
 
-| Name/Danger | Description |
-| --- | --- |
+## Attacks
+
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
 **Punch**  
 (★★☆)
 
- | The Nautilodaunt Officiate attempts to punch their prey with a variety of different punches.
+ | The Nautilodaunt Officiate punches their prey with a variety of different punches.
 
--   These have very long hitstun with very little delay between each hit, **do not** attempt to retaliate or parry immediately after being hit, as you will only be interrupted again. Instead, let the Fury Nautilodaunt hit you two more times before attempting to parry its next punch.
+-   These are similar to a [Nautilodaunt](Nautilodaunt.md)'s Punches, the difference being theyre slightly slower, enough to throw off those accustomed to the regular Nautilodaunt's pace.
+-   Works similarly to a humanoid enemy's Assault, finishing off with **Kick** after enough Punches have been thrown out.
+
+ | 
 
  |
 | 
@@ -42,27 +45,31 @@ Template:Creature Infobox V3
 **Kick**  
 (★★☆)
 
- | Nautilodaunt Officiate's punches would randomly lead into a kick, forcing the opponent backwards. To then close the distance for another attack, sliding towards you to deliver another kick.
+ | The Nautilodaunt Officiate performs a kick, knocking the opponent away.
+
+-   Usually uses another attack to follow-up after, meaning you must stay on guard.
+
+ | 
 
  |
 | 
 
-**Flip-Kick**  
+**Flip Kick**  
 (★★★)
 
- | Nautilodaunt Officiate flips into the air and attempts to strike their prey with a kick.
+ | The Nautilodaunt Officiate initiates a full sprint before flipping into the air and descending down towards their prey with a kick.
 
--   This is most commonly used to close the distance between targets that are at a higher elevation than it; often being used after Electro Stomp.
-
-This attack has a red highlight indicating that it may only be dodged.
+ | 
 
  |
 | 
 
-**Drop-Kick**  
+**High Flip Kick**  
 (★★★)
 
- | Nautilodaunt Officiate initiates a full sprint before committing to a drop kick on its prey, sending them flying.
+ | Starts similarly to **Flip Kick**, but is instead done in place and the Nautilodaunt Officiate jumps much higher, as well as being only dodgeable.
+
+ | 
 
  |
 | 
@@ -70,11 +77,18 @@ This attack has a red highlight indicating that it may only be dodged.
 **Electro Stomp**  
 (★★★)
 
- | Nautilodaunt Officiate stomps the ground, sending rubble hurling towards you and creating small yellow geysers in a straight line.
+ | The Nautilodaunt Officiate stomps the ground, making geysers of rubble and lightning burst from the ground in a straight line, knocking upwards those hit.
 
--   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
--   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
--   Dodging to the side makes avoiding this attack more consistant, as each gyser has its own hitbox.
+-   Rolling to the side makes avoiding this attack more consistent, as each geyser has its own hitbox.
+-   However, effectively avoiding this attack is not guaranteed, as it comes out very fast and deals dangerously high damage.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
+ | 
 
  |
 | 
@@ -82,10 +96,11 @@ This attack has a red highlight indicating that it may only be dodged.
 **Furious Stomp**  
 (★★★)
 
- | Nautilodaunt Officiate gains a white outline, stops for a few seconds and stomps the ground, sending rubble hurling towards you and creating small red geysers in a straight line.
+ | Starts out similarly to **Electro Stomp**, but the animation is much slower, and the geysers are instead colored red.
 
--   You **CANNOT** dodge this attack, you have to jump over it.
--   This attack can be avoided by moving to the side of the Nautilodaunt Officiate as it cannot change directions when casting this move.
+-   This attack can be avoided by rolling to the side as it cannot change directions when using this attack.
+
+ | 
 
  |
 | 
@@ -93,10 +108,13 @@ This attack has a red highlight indicating that it may only be dodged.
 **Combo Slam**  
 (★★★)
 
- | Nautilodaunt Officiate lets out a roar, after which it will punch the player twice, both of which can be parried, before gaining a white outline and slamming the ground with both fists, creating a shockwave that must be jumped over.
+ | The Nautilodaunt Officiate lets out a roar and performs two back-to-back punches, after which it will raise both of its arms up and slam down with them, creating a large white crater on the ground.
 
--   The two punches before the slam come out relatively fast, but do not do too much damage, most of the damage comes from the following shockwave.
--   Nautilodaunt Officiate can move while using this move, often causing it to miss the shockwave completly as it keeps walking past you after the punches.
+-   The two punches before the slam come out relatively fast, but do not do too much damage, most of the damage comes from the following slam.
+-   It can move while using this move, often causing it to miss the slam entirely as it keeps walking past you.
+-   It will gain its **White** highlight on the second punch.
+
+ | 
 
  |
 | 
@@ -104,9 +122,11 @@ This attack has a red highlight indicating that it may only be dodged.
 **Feint**  
 (★★☆)
 
- | The Nautilodaunt Officiate halts their attack mid-way in an attempt to mixup their opponent and create an opening.
+ | The Nautilodaunt Officiate halts their attack mid-way in an attempt to mix-up their opponent and create an opening.
 
--   If the Nautilodaunt Officiate feints and you whiff your parry, **dodge** the next attack instead of attempting to parry it.
+-   It can only **Feint** its **Punch** attack.
+
+ | 
 
  |
 | 
@@ -114,15 +134,19 @@ This attack has a red highlight indicating that it may only be dodged.
 **Vent**  
 (★☆☆)
 
- | If hit by any move that utilizes the Song (such as a Mantra, certain Resonances, or a Vent from the player), the Nautilodaunt Officiate will near-completely negate the damage of said Mantra. This can happen even during other moves.
+ | If hit by an elemental move, the Nautilodaunt Officiate will gain a blue aura and near-completely negate the damage of said attack.
+
+-   This move seems to activate passively.
+
+ | 
 
  |
 
 ### Passives
 
--   **Thunderstruck Fury** - All of the Nautilodaunt Officiate's attacks apply [Shock](Status_Effects.md#shock), stunning you and interrupting your attacks, even through hyperarmor.
-    -   This passive makes the Nautilodaunt Officiate _significantly_ more dangerous than its default counterpart, as you cannot hyperarmor your way through it's attacks.
--   Hardened Guard - Nautilodaunt Officiate has significantly more posture than it's counterparts.
+-   **Thunderstruck Fury** - All of the Nautilodaunt Officiate's attacks apply [Shock](Status_Effects.md#shock), stunning you and interrupting your attacks, even through [Hyperarmor](Status_Effects.md#hyperarmor).
+    -   This passive makes the Nautilodaunt Officiate _significantly_ more dangerous than its default counterpart, as you cannot hyperarmor your way through its attacks.
+-   Hardened Guard - The Nautilodaunt Officiate has significantly more posture than its counterparts.
 
 ## Trivia
 

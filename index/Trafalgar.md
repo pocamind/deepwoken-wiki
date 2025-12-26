@@ -1,9 +1,9 @@
 ---
 title: Trafalgar
-revid: 183696
+revid: 186908
 source: https://deepwoken.fandom.com/wiki/Trafalgar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Pages with broken file links, NPCs, NPCs located in the First Layer, Reputation]
+categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, NPCs located in the First Layer, Reputation]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -27,17 +27,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Trafalgar is a [Felinor](Felinor.md) NPC. For up to a maximum of 1,200, you can bribe him to set your reputation with [The Divers](The_Divers.md) back to neutral.
+Trafalgar is a [Felinor](Felinor.md) NPC who accepts a bribe for [The Divers](The_Divers.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
 Trafalgar is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [Castle Light](Castle_Light.md).
 
-File:Gudrin map.png
-
 ## Dialogue
 
-**Good & Neutral Reputation:**
+**Neutral Reputation:**
 
 <table>
 <tbody>
@@ -48,7 +46,7 @@ File:Gudrin map.png
   <td>There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -58,40 +56,42 @@ File:Gudrin map.png
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Hoho, need something? You have quite the Sour expression.</td>
+  <td colspan="8">Hoho, need something? You have quite the Sour expression.</td>
 </tr>
 <tr>
-  <td colspan="12">I need help.</td>
+  <td colspan="8">I need help.</td>
 </tr>
 <tr>
-  <td colspan="12">Word is that you've been acting like quite the beast out there. Now, personally, I think you've just been separating the wheat from the chaff, but I can see about having your actions dismissed as.. err... training.</td>
+  <td colspan="8">Word is that you've been acting like quite the beast out there. Now, personally, I think you've just been separating the wheat from the chaff, but I can see about having your actions dismissed as.. err... training.</td>
 </tr>
 <tr>
-  <td colspan="6">Alright how much?</td>
-  <td colspan="6">Nah, not interested.</td>
+  <td colspan="4">Alright how much?</td>
+  <td colspan="4">Nah, not interested.</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*They tent their fingers, smiling ear to ear.* X .</i></td>
-  <td colspan="6">You've no business sense, y'know that? Sheesh.</td>
+  <td colspan="4"><i>*They tent their fingers, smiling ear to ear.*</i> [X] Notes.</td>
+  <td colspan="4">You've no business sense, y'know that? Sheesh.</td>
 </tr>
 <tr>
-  <td colspan="3">Here.</td>
-  <td colspan="3">Nah, not interested.</td>
+  <td colspan="2">Here.</td>
+  <td colspan="2">Nah, not interested.</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td>Requirements Met</td>
-  <td colspan="2">Not Enough Notes</td>
-  <td colspan="3">[See first instance]</td>
+  <td>Sufficient Notes</td>
+  <td>Not Enough Notes</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
   <td>Bravo! And what good training you've been for our recruits, eh?</td>
   <td>Nothing to spare? You really didn't even pilfer a single Note from all the divers you killed? Sheesh!</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td>[End Dialogue], reputation with The Divers is set to neutral</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -101,13 +101,13 @@ File:Gudrin map.png
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Gods below, you've really fallen down quite the hole...</td>
+  <td>Gods below, you've really fallen down quite the hole...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

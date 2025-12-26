@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 186699
+revid: 186865
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | Void Glutton | |
 |---|---|
 | description | Feasting upon the very souls of their victims, their shadow grew. |
-| unlock | Wipe 25 players in The Depths, then complete Zi'eer, the Fourth Prophet's boss fight |
+| unlock | Kill 25 players, then destroy the throne of Zi'eer, the Fourth Prophet and survive phase 1 of his boss fight. |
 | starting health | 255 |
 | final attributes | 100 Shadowcast, 50 Light Weapon, 100 Fortitude, 25 Intelligence, 40 Willpower, 15 Charisma |
 | final traits | 8 Vitality, 3 Songchant, 0 Dexterity |
@@ -524,3 +524,9 @@ Blunt
 -   Ether Repletion \[Memento Talent\] - Hunger stolen from other players now grants you ether as well.
     
     -   Hunger stolen from players through any means will proc this Talent.
+
+## Trivia
+
+-   Contrary to popular belief, kills in The Eastern Luminant also count towards the obtainment of Void Glutton.
+-   Killing enough people while using Void Glutton will eventually make you move so slowly that the game is borderline unplayable.
+-   [Trackstar Boots](Trackstar_Boots.md) are highly recommended if you're planning to use this memento.

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 186524
+revid: 186866
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -29,9 +29,31 @@ This content is not accessible outside of this gamemode.
 
 **Flame Worshipper** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You also spawn with the [Simmerbloom Diadem](Simmerbloom_Diadem.md) and can equip the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) which you can find as a static spawn at [Miners Landing](<Miner's_Landing_(Vow_of_Iron).md>).
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Pleeksty's Inheritance \[Memento Talent\] - You inherit the teachings of Amorus Pleeksty, augmenting your flamecharm mantras.
+    
+    -   Fire Blade now blockbreaks regardless of mantra level.
+    -   Burning servants now inflicts knockback on its hits.
+    -   Relentless flames gains 6 extra slashes and becomes much faster.
+
+-   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
+    -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
+    -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
+    -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
+    -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
+    -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
+    -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
+    -   [Grotesque Resilience](Parasol_Planter.md) reduces the damage taken from Flame Within's burn DoT by 25%.
+    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
+
+-   Intrepid Flame \[Equipment Talent\] - Flames wear off twice as fast on you.
+    -   Halves the maximum duration of Burn.
+
+-   Produce Spark \[Common Talent\] - A simple production of Flame for the use of making Campfires.
+    -   Grants a Talent tool that works like an infinite [Flint](Flint.md).
+
+  
 
 | 
 **Name**
@@ -67,6 +89,8 @@ This content is not accessible outside of this gamemode.
 
 **Fire Palm** (★☆☆)
 
+**Combat Mantra**
+
 _Conjure a cone of flames in front of you. Pressing F during windup will release a wider but shorter flame._
 
  | 
@@ -74,6 +98,7 @@ _Conjure a cone of flames in front of you. Pressing F during windup will release
 ## Fire Palm (★☆☆)
 
   
+**Combat Mantra**  
 _Conjure a cone of flames in front of you. Pressing F during windup will release a wider but shorter flame._
 
  |
@@ -87,7 +112,7 @@ Fire
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -104,9 +129,83 @@ Starter
 -   Pressing F during the mantra's windup will release a wider but shorter flame.
 
  |
+
+## Deck of Recollection
+
+### Starting Deck
+
+-   Agitating Spark \[Common Talent\] **100** \- If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
+    -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
+        -   This visual effect will still happen when hitting a non-burning target with a burn-applying attack, granting Emperor Flame stacks without spreading burn.
+    -   Agitating Spark bypasses block and parry.
+    -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
+    -   Has a 1 second cooldown.
+    -   Can spread to allies.
+
+-   Controlled Combustion \[Common Talent\] **100** \- Your Agitating Spark no longer spreads to your allies.
+    -   Your Agitating Spark no longer spreads to yourself too.
+    -   In some places, this Talent doesn't work well, spreading to your allies if they are too close to the target.
+
+-   Corpse Explosion \[Common Talent\] **100** \- Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
+    -   Burn grip unconscious targets, even yourself, in 3.5 seconds instead of 7.
+        -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
+    -   The explosion does not work; you'll burn them to death without an explosion.
+
+-   Hungry Flames \[Common Talent\] **100** \- When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
+
+-   Immolation \[Common Talent\] **100** \- Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
+    -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
+    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage. And all attacks that have the slash (blood particle) vfx on hit will also proc Immolation, applying burn.
+
+-   Magical Resolve \[Common Talent\] **100** \- Being hit increases [Ether](Ether.md) regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
+
+-   Pleeksty's Faith \[Common Talent\] **100** \- When on fire, automatically quench flames at the cost of some ether.
+    -   Does not proc with flames produced by the user with Flame Within or Agitating Spark.
+
+-   Pleeksty's Will \[Quest Talent\] **100** \- You gain significantly more ether from consuming elemental ingredients.
+    -   Consuming [Gale Stones](Gale_Stone.md), [Heartstars](Heartstar.md), [Dying Embers](Dying_Embers.md), [Spark Glands](Spark_Gland.md), and [Frigid Prisms](Frigid_Prism.md) gives significantly more Ether.
+    -   Consuming elemental ingredients has a 20 second cooldown.
+
+-   Swift Rebound \[Common Talent\] **100** \- Move faster after successfully dodging an attack. (+1 Passive Agility)
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Burning Servants** (☆☆☆)
+
+**Combat Mantra**
 
 _Summon a legion of flaming spearmen that lunge inwards._
 
@@ -115,6 +214,7 @@ _Summon a legion of flaming spearmen that lunge inwards._
 ## Burning Servants (☆☆☆)
 
   
+**Combat Mantra**  
 _Summon a legion of flaming spearmen that lunge inwards._
 
  |
@@ -128,7 +228,7 @@ Fire
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -146,7 +246,33 @@ Power 1, 250
 
  |
 
-### Power 5 Mantras
+### Power 5
+
+-   Cauterized Wounds \[Common Talent\] **100** \- Blood loss from all sources is lowered. (+1 Passive Agility)
+    -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](Bloodrend.md) Mantras, blood loss [Potions](Alchemy.md), the blood loss [Corrupt Resonance](Resonance.md) downside) are entirely unaffected by this Talent.
+    -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
+
+-   Flamewalker \[Common Talent\] **100** \- When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
+
+-   Unyielding Inferno \[Common Talent\] **100** \- Your flames burn just as strong even in the fiercest of storms.
+    -   Negates the innate 10% damage debuff Flamecharm Mantras receive during the [rain](Environmental_Hazards.md).
+    -   Prevents your burn from going out in rain.
+
+-   _Evasive Expert_ \[Rare Talent\] **250** \- Your speed boost granted from dodging is increased. (+1 Passive Agility)
+
+-   _Observation_ \[Rare Talent\] **250** \- Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
+
+-   _Safety Dance_ \[Rare Talent\] **250** \- Your base dodge frames are increased by 0.05s. (+1 Passive Agility)
+    -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
+    -   Dodge IFrames increased from 0.3s to 0.35s.
+
+-   _The Final Act_ \[Rare Talent\] **250** \- Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
+    -   Does not have a cooldown.
+    -   Deals 5 Flamecharm damage.
+    -   Will not proc on knocked NPCs/players and mobs.
+
+  
 
 | 
 **Name**
@@ -182,7 +308,7 @@ Power 1, 250
 
 **Fire Blade** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Slicing blades of flame._
 
@@ -191,7 +317,7 @@ _Slicing blades of flame._
 ## Fire Blade (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Slicing blades of flame._
 
  |
@@ -205,7 +331,7 @@ Fire
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -228,7 +354,7 @@ Power 5, 450
 
 **Flame Leap** (★★☆)
 
-**Mobility**
+**Mobility Mantra**
 
 _Leap up leaving behind a burst of flames._
 
@@ -237,7 +363,7 @@ _Leap up leaving behind a burst of flames._
 ## Flame Leap (★★☆)
 
   
-**Mobility**  
+**Mobility Mantra**  
 _Leap up leaving behind a burst of flames._
 
  |
@@ -251,7 +377,7 @@ Fire
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -275,7 +401,21 @@ Power 5, 450
 
  |
 
-### Power 10 Mantras
+### Power 10
+
+-   Explosive Finish \[Common Talent\] **100** \- If an enemy is on fire when you flourish, blast them away with a fire blast.
+    -   Deals 5 Flamecharm damage.
+    -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
+
+-   Flaming Flourish \[Common Talent\] **100** \- Set enemies on fire when you flourish or uppercut them.
+    -   You also apply burn on enemies by swinging uppercut nearby. Aka doesn't have to be a hit to apply burn.
+
+-   _Warding Radiance_ \[Rare Talent\] **250** \- Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
+    -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
+    -   This can be easily procced by landing a multi-hit fire mantra.
+    -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.
+
+  
 
 | 
 **Name**
@@ -311,7 +451,7 @@ Power 5, 450
 
 **Relentless Flames** (★★☆)
 
-**Combat**
+**Combat Mantra**
 
 _Bear down on your foes with repeated fiery slashes._
 
@@ -320,7 +460,7 @@ _Bear down on your foes with repeated fiery slashes._
 ## Relentless Flames (★★☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Bear down on your foes with repeated fiery slashes._
 
  |
@@ -334,7 +474,7 @@ Fire
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -361,7 +501,7 @@ Power 10, 700
 
 **Flame Assault** (★★☆)
 
-**Mobility**
+**Mobility Mantra**
 
 _Dash forward in a spiral of flames._
 
@@ -370,7 +510,7 @@ _Dash forward in a spiral of flames._
 ## Flame Assault (★★☆)
 
   
-**Mobility**  
+**Mobility Mantra**  
 _Dash forward in a spiral of flames._
 
  |
@@ -384,7 +524,7 @@ Fire
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -403,7 +543,25 @@ Power 10, 700
 
  |
 
-### Power 15 Mantras
+### Power 15
+
+-   Azure Flames \[Common Talent\] **100** \- Many of your flames turn blue, signifying their increased intensity.
+    -   Increases burn damage by 12.5%.
+    -   Increases the radius and posture damage of your Eruptions.
+    -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
+
+-   Scorching Decay \[Common Talent\] **100** \- The wither dealt from your Emperor's Flame is massively increased.
+    -   Increases the Wither application from your Emperor Flame from 25 to 75.
+    -   NOTE: This Memento does **not** get the Emperor Flame Talent at any point, meaning the only way to proc this Talent is through using [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s critical attacks.
+
+-   _Denial Repulse_ \[Rare Talent\] **250** \- You now emit a delayed burst of flames after coming close to death.
+    -   When [Flame of Denial](Flamecharm.md#flame-of-denial) activates, release an explosion around you.
+    -   This explosion deals 20 Flamecharm damage with 5 Flamecharm scaling, adding up to 30 Flamecharm damage at 100 Flamecharm.
+    -   This cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
+    -   This has a windup of 0.6 seconds.
+    -   NOTE: This Memento does **not** get the Flame of Denial Mantra at any point, meaning this Talent will do **nothing**.
+
+  
 
 | 
 **Name**
@@ -439,7 +597,7 @@ Power 10, 700
 
 **Hell's Judgement** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _A vicious grasp of flames. Receive a damage buff if you land this attack._
 
@@ -448,7 +606,7 @@ _A vicious grasp of flames. Receive a damage buff if you land this attack._
 ## Hell's Judgement (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _A vicious grasp of flames. Receive a damage buff if you land this attack._
 
  |
@@ -462,161 +620,16 @@ Fire
 
  | 
 
-Power 15, 950
+950
 
  |
 | 
 
 **Effect:** _User propels themselves forwards and grabs their foes, immolating them. If this lands, the user gains a damage buff._
 
--   the damage buff granted by this mantra does not have a time limit and applies to all sources of damage, including each tick of burn. (the exact damage buff is not known)
+-   The damage buff granted by this mantra does not have a time limit and applies to all sources of damage, including each tick of burn.
 
  |
-
-## Available Talents
-
-### Starting Talents
-
--   Pleeksty's Inheritance \[Memento Talent\] - You inherit the teachings of Amorus Pleeksty, augmenting your flamecharm mantras.
-    
-    -   Fire Blade now blockbreaks regardless of mantra level.
-    -   Burning servants now inflicts knockback on its hits.
-    -   Relentless flames gains 6 extra slashes and becomes much faster.
-    -   Requirements: Starter
-
--   Flame Within \[Common Talent\] - An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage.
-    -   Unlike normal burn, Flame Within's burn is not cleared by rolling/sliding. Flame Within will not stop until 30 seconds have passed or until Flame Within is reused.
-    -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
-    -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
-    -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
-    -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
-    -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
-    -   [Grotesque Resilience](Parasol_Planter.md) reduces the damage taken from Flame Within's burn DoT by 25%.
-    -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.
-    -   Requirements: Starter
-
--   Intrepid Flame \[Equipment Talent\] - Flames wear off twice as fast on you.
-    -   Halves the maximum duration of Burn.
-    -   Requirements: Starter
-
--   Produce Spark \[Common Talent\] - A simple production of Flame for the use of making Campfires.
-    -   Grants a Talent tool that works like an infinite [Flint](Flint.md).
-    -   Requirements: Starter
-
--   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
-    -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
-        -   This visual effect will still happen when hitting a non-burning target with a burn-applying attack, granting Emperor Flame stacks without spreading burn.
-    -   Agitating Spark bypasses block and parry.
-    -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
-    -   Has a 1 second cooldown.
-    -   Can spread to allies.
-    -   Requirements: Power 1, 100
-
--   Controlled Combustion \[Common Talent\] - Your Agitating Spark no longer spreads to your allies.
-    -   Your Agitating Spark no longer spreads to yourself too.
-    -   In some places, this Talent doesn't work well, spreading to your allies if they are too close to the target.
-    -   Requirements: Power 1, 100
-
--   Corpse Explosion \[Common Talent\] - Your flames will incinerate unconscious Targets much faster and bodies that you burn to death immediately explode dealing massive damage.
-    -   Burn grip unconscious targets, even yourself, in 3.5 seconds instead of 7.
-        -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
-    -   The explosion does not work; you'll burn them to death without an explosion.
-    -   Requirements: Power 1, 100
-
--   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
-    -   Requirements: Power 1, 100
-
--   Immolation \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
-    -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
-    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
-        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage. And all attacks that have the slash (blood particle) vfx on hit will also proc Immolation, applying burn.
-    -   Requirements: Power 1, 100
-
--   Magical Resolve \[Common Talent\] - Being hit increases [Ether](Ether.md) regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
-    -   Requirements: Power 1, 100
-
--   Pleeksty's Faith \[Common Talent\] - When on fire, automatically quench flames at the cost of some ether.
-    -   Does not proc with flames produced by the user with Flame Within or Agitating Spark.
-    -   Requirements: Power 1, 100
-
--   Pleeksty's Will \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
-    -   Consuming [Gale Stones](Gale_Stone.md), [Heartstars](Heartstar.md), [Dying Embers](Dying_Embers.md), [Spark Glands](Spark_Gland.md), and [Frigid Prisms](Frigid_Prism.md) gives significantly more Ether.
-    -   Consuming elemental ingredients has a 20 second cooldown.
-    -   Requirements: Power 1, 100
-
--   Swift Rebound \[Common Talent\] - Move faster after successfully dodging an attack. (+1 Passive Agility)
-    -   Requirements: Power 1, 100
-
-### Power 5 Talents
-
--   Cauterized Wounds \[Common Talent\] - Blood loss from all sources is lowered. (+1 Passive Agility)
-    -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](Bloodrend.md) Mantras, blood loss [Potions](Alchemy.md), the blood loss [Corrupt Resonance](Resonance.md) downside) are entirely unaffected by this Talent.
-    -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
-    -   Requirements: Power 5, 100
-
--   Flamewalker \[Common Talent\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
-    -   Requirements: Power 5, 100
-
--   Unyielding Inferno \[Common Talent\] - Your flames burn just as strong even in the fiercest of storms.
-    -   Negates the innate 10% damage debuff Flamecharm Mantras receive during the [rain](Environmental_Hazards.md).
-    -   Prevents your burn from going out in rain.
-    -   Requirements: Power 5, 100
-
--   _Evasive Expert_ \[Rare Talent\] - Your speed boost granted from dodging is increased. (+1 Passive Agility)
-    -   Requirements: Power 5, 250
-
--   _Observation_ \[Rare Talent\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
-    -   Requirements: Power 5, 250
-
--   _Safety Dance_ \[Rare Talent\] - Your base dodge frames are increased by 0.05s. (+1 Passive Agility)
-    -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
-    -   Dodge IFrames increased from 0.3s to 0.35s.
-    -   Requirements: Power 5, 250
-
--   _The Final Act_ \[Rare Talent\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
-    -   Does not have a cooldown.
-    -   Deals 5 Flamecharm damage.
-    -   Will not proc on knocked NPCs/players and mobs.
-    -   Requirements: Power 5, 250
-
-### Power 10 Talents
-
--   Explosive Finish \[Common Talent\] - If an enemy is on fire when you flourish, blast them away with a fire blast.
-    -   Deals 5 Flamecharm damage.
-    -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
-    -   Requirements: Power 10, 100
-
--   Flaming Flourish \[Common Talent\] - Set enemies on fire when you flourish or uppercut them.
-    -   You also apply burn on enemies by swinging uppercut nearby. Aka doesn't have to be a hit to apply burn.
-    -   Requirements: Power 10, 100
-
--   _Warding Radiance_ \[Rare Talent\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
-    -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
-    -   This can be easily procced by landing a multi-hit fire mantra.
-    -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.
-    -   Requirements: Power 10, 250
-
-### Power 15 Talents
-
--   Azure Flames \[Common Talent\] - Many of your flames turn blue, signifying their increased intensity.
-    -   Increases burn damage by 12.5%.
-    -   Increases the radius and posture damage of your Eruptions.
-    -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
-    -   Requirements: Power 15, 100
-
--   Scorching Decay \[Common Talent\] - The wither dealt from your Emperor's Flame is massively increased.
-    -   Increases the Wither application from your Emperor Flame from 25 to 75.
-    -   NOTE: This Memento does **not** get the Emperor Flame Talent at any point, meaning the only way to proc this Talent is through using [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s critical attacks.
-    -   Requirements: Power 15, 100
-
--   _Denial Repulse_ \[Rare Talent\] - You now emit a delayed burst of flames after coming close to death.
-    -   When [Flame of Denial](Flamecharm.md#flame-of-denial) activates, release an explosion around you.
-    -   This explosion deals 20 Flamecharm damage with 5 Flamecharm scaling, adding up to 30 Flamecharm damage at 100 Flamecharm.
-    -   This cannot be parried nor dodged, but can be blocked, dealing 5 posture damage.
-    -   This has a windup of 0.6 seconds.
-    -   NOTE: This Memento does **not** get the Flame of Denial Mantra at any point, meaning this Talent will do **nothing**.
-    -   Requirements: Power 15, 100
 
 ## Boss Unlocks
 

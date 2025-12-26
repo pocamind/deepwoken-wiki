@@ -1,35 +1,37 @@
 ---
-title: Nepo
-revid: 186910
-source: https://deepwoken.fandom.com/wiki/Nepo
+title: Valois
+revid: 186911
+source: https://deepwoken.fandom.com/wiki/Valois
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
+categories: [Chrysid NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Summer Company, Reputation]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
-# Nepo
+# Valois
 
-| Nepo | |
+| Valois | |
 |---|---|
-| name | Nepo |
-| aspect | Celtor |
+| name | Valois |
+| aspect | Chrysid |
 | location | Summer Isle |
 | affiliation | The Summer Company |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
 “ Congrats, now leave me be. ”
 
-― Nepo
+― Valois
 
 ## Description
 
-Nepo is a [Celtor](Celtor.md) NPC who accepts a bribe for [The Summer Company](The_Summer_Company.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
+Valois is a [Chrysid](Chrysid.md) NPC who accepts a bribe for [The Summer Company](The_Summer_Company.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
-Nepo is located on the bridge heading towards the [Inn](Inn.md) at [Summer Isle](Summer_Isle.md).
+Valois is located on the bridge heading towards the [Inn](Inn.md) at [Summer Isle](Summer_Isle.md).
 
 ## Dialogue
 

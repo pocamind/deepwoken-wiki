@@ -1,9 +1,9 @@
 ---
 title: Rogue Assassin
-revid: 184460
+revid: 186851
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, The Central Authority]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -31,39 +31,3 @@ This content is not accessible outside of this gamemode.
 **Rogue Assassin** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 Rogue Assasin is a high skill floor Memento, due to there being very few openings to land backstabs for [Swift Strike](Big_Brother.md) procs. In exchange, this Memento can output a significant amount of damage, being capable of one shotting regular mobs and dealing extremely high damage to bosses.
-
-## Deck of Recollection
-
-**Memento Exclusive**
-
-Starter Deck:
-
-_Avaricious Blade_ - Every strike landed lines your pockets.. (Gives you notes for each inflicted instance of damage)
-
-_Rogue Assasin_ - Your assasinations now deal an extra 50 true damage (200 in PVE).
-
-_Weakening Venom_ - Assasinating an opponent decreases the damage they deal by 25% for the next 30 seconds.
-
-### Power 20
-
-_Total Silence - Massively reduce the sound of your footsteps and rolls._
-
-## Boss Unlocks
-
-### Shogun of the Prophet's Guard
-
-_Fatal Backstab_ - Assasinating an enemy deal an extra 5 true damage on your opponent (20 in PVE).
-
-_Lethal Depressant_ **\-** Assasinating an opponent decreases the damage they deal by 25% for the next 30 seconds.
-
-### Dravik, The Rat King
-
-_Ambush -_ When coming out of tacet, gain 30% damage boost for 5 seconds,
-
-_Double Jump_ - Take the wind step and refine it into your own technique, reducing the cooldown and improving the efficiency. (Allows you to climb twice)
-
-### True Heart of Enmity
-
-_True Skulk_ - Massively reduce the sounds of your mantra casts
-
-_Terrifying Paralysis_ - Your Hidden Blade disables opponent's ability to roll for 3 seconds.

@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 186256
+revid: 186885
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -11,7 +11,7 @@ categories: [Monsters, Layer 2, Floor 1, The Depths]
 | Bone Keeper | |
 |---|---|
 | health | 950023750 (Corrupted) |
-| attacks | Triple Slash, Leap, Crushing Grab, Charge, Bone Spikes, Femur Throw |
+| attacks | Spin Thrust, Leap, Crushing Grab, Charge, Bone Spikes, Femur Throw |
 | drops | Giant Femur |
 | locations | The Ethironal Shrine, Cathedral of the Interstice, The Diluvian Mechanism |
 
@@ -21,13 +21,13 @@ categories: [Monsters, Layer 2, Floor 1, The Depths]
 
 ## Description
 
-The Bone Keeper is a monster found in the [Eternal Gale](Second_Layer.md). It can also appear in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) as an encounter in the Trial, potentially [Corrupted](Monsters.md#scyphozia).
+The Bone Keeper is a Monster mainly found in the [Eternal Gale](Second_Layer.md). It can also appear in the [Pathfinder](Pathfinder.md) Depths Trial when you have too many Drowns, potentially [Corrupted](Monsters.md#scyphozia), and in the [Vow of Iron](Vow_of_Iron.md) Depths Trial when Power 5 and below.
 
 Bone Keepers are giant, humanoid creatures, with inhuman proportions, having short legs yet large arms. It has noticeably clawed feet, with bone claws for hands. They sport a red and gold loincloth of sorts on their lower body and lack clothing on their upper half. Their head also appears to be made out of a cylindrical formation of bones.
 
-These monsters are incredibly mobile and hard-hitting enemies. They are certainly a large difficulty step-up from the mobs found in Layer 1, however all of their attacks are well telegraphed and can be avoided with proper experience. They do large damage, so be wary of messing up. _(Especially if the Bonekeeper is corrupted.)_
+It is a highly persistent, mobile and hard-hitting Monster, featuring high health and high punishing damage for those unprepared. They are certainly a large difficulty step-up from the Monsters found in the [First Layer](First_Layer.md). However, all of their attacks are well-telegraphed and can be consistently avoided with proper experience. Even then, be wary of not messing up, especially if the Bone Keeper is Corrupted.
 
-## Moveset
+## Attacks
 
 If you would prefer a visual guide, consider watching _[this video](https://www.youtube.com/watch?v=gMXwczlX4YE)_.
 
@@ -37,9 +37,15 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 **Crushing Grab**  
 (★★★)
 
- | The Bone Keeper will make an indication of an unparriable attack with a noise cue and eye symbol before swinging its right arm sideways. If this attack lands, the player hit will be grabbed and take **devastating damage**.
+ | The Bone Keeper holds its right arm high up before swinging forwards with it, and if it manages to grab a target, it will hold it up before crushing it in its hand, dealing devastating damage.
 
--   The range makes it nothing to worry about though, as simply holding S when you see the red flash is enough to dodge it. **Autogrips.**
+-   This attack seems to lack much range, meaning it can be avoided by simply stepping back before it tries to grab you.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |  |
 | 
@@ -47,17 +53,17 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 **Charge**  
 (★★☆)
 
- | The Bone Keeper will ready for a run before charging forward, dealing considerable damage and very high posture. The Bone Keeper skids to a stop and faces you if this is successfully parried.
-
--   It is not recommended that you block this attack, as it deals just around 42-43 posture.
+ | The Bone Keeper readies up a stance before charging forward, ragdolling and knocking those hit, as well as dealing considerable health damage and posture damage. The Bone Keeper skids to a stop if successfully parried.
 
  |  |
 | 
 
-**Triple Slash**  
+**Spin Thrust**  
 (★☆☆)
 
- | The Bone Keeper will wind up its right arm, then thrust forward with a triple-slash attack with its arm spinning.
+ | The Bone Keeper will wind up its right arm, before thrusting forward with its hand spinning, hitting three times.
+
+-   If this is not parried, it will follow up with **Leap**.
 
  |  |
 | 
@@ -65,13 +71,15 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 **Leap**  
 (★★☆)
 
- | The Bone Keeper will thrust its right arm forward, initiating a triple-hit attack before leaping towards its target, dealing serious damage if all attacks are left unattended.
+ | The Bone Keeper leaps a small distance towards its target, crushing it with its impact, dealing serious damage if not avoided.
 
--   This is a potential followup attack to Triple Slash.
--   The arm can be parried, but the leap **cannot be blocked, parried, or dodged.**
--   It has a small hitbox, so rolling out of the way or towards the Bonekeeper immediately after parrying its arm slash is sufficient.
--   Autogrips.
--   Moving away from the leap is almost always enough to completely dodge the move.
+-   It seems to lack range, especially since it leaps towards you, potentially overshooting, meaning it can be avoided as long as you dont move towards where it is going to land.
+
+_Uses Telegraph_
+
+[BlockTelegraph](Combat_Mechanics.md#blue)
+
+Block
 
  |  |
 | 
@@ -79,9 +87,15 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 **Bone Spikes**  
 (★★☆)
 
- | The Bone Keeper will stomp the ground, emitting a long carpet of spikes in front of it.
+ | The Bone Keeper raises its leg and stomps the ground, emitting a long carpet of rising bones in front of it.
 
--   Jumping just as the Bone Keeper stomps will allow you to jump over the spikes and avoid this attack altogether.
+-   You can jump to avoid the rising bones, but your timing will depend on the distance from you to the Bone Keeper.
+
+_Uses Telegraph_
+
+[BlockTelegraph](Combat_Mechanics.md#blue)
+
+Block
 
  |  |
 | 
@@ -89,14 +103,14 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 **Femur Throw**  
 (★★☆)
 
- | The Bone Keeper will dig into the ground with its right arm before pulling out a femur which it will then throw towards the target at absurd speeds.
+ | The Bone Keeper digs into the ground with its right arm before pulling out a large femur bone, holding it with winding motions before throwing it towards its target at absurd speeds.
 
--   The femur behaves like a projectile, potentially hitting walls and similar objects. It has a small AoE when it hits something.
--   The timing to parry this is difficult, it is suggested that you dodge instead.
+-   The femur itself behaves like a projectile, with a small AoE on impact and being able to collide with the physical world.
+-   The timing for your defense depends on your distance from the Bone Keeper.
 
  |  |
 
-### **Passives**
+### Passives
 
 -   **Monster Resistance** - Physical attacks deal 20% less damage to the Bone Keeper.
 
@@ -106,10 +120,10 @@ There are **16** images, be warned
 
 ## Trivia
 
--   Bone Keepers used to heal at a rate of 20 HP per second (60 HP when Corrupted). This made them extremely tedious to defeat at times, locking out lower DPS builds from fighting them. After being made to fight it with [Jus Karita](Jus_Karita.md) and no equipment, which resulted in 70+ deaths, developer Ragoozer had it removed.[\[1\]](#cite-note-1)
+-   Bone Keepers used to heal at a rate of 20 health per second (60 when Corrupted). This made them extremely tedious to defeat at times, locking out lower DPS builds from fighting them. After being made to fight it with [Jus Karita](Jus_Karita.md) and no equipment, which resulted in 70+ deaths, _Deepwoken_ developer Ragoozer had it removed.[\[1\]](#cite-note-1)
     -   This same update also buffed Jus Karita.
--   Bone Keepers are the precursors of the Kyrsgardes, as mentioned by the [Kyrsglaive](Kyrsglaive.md) description.
--   The Femur Throw and Charge used by the Bone Keeper you encounter at the bridge do not cause knockback. This is the only Bone keeper with this feature as all the other Bone Keepers you encounter have knockback on these moves.
+-   Bone Keepers are the precursors of the [Kyrsgarde](Kyrsgarde.md), as mentioned by the [Kyrsglaive](Kyrsglaive.md) description.
+-   The one found on the bridge before the Generator in [The Eternal Gale](Second_Layer/The_Ethironal_Shrine.md) does not have knockback on its **Charge** and **Femur Throw** moves. This is the only instance of this feature.
 -   They're called "boneboy" in the game files.
 
 ## References

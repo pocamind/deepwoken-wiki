@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 186536
+revid: 186882
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
@@ -32,9 +32,68 @@ This content is not accessible outside of this gamemode.
 
 **Spear Dancer** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento advertises the playstyle of out ranging opponents with your weapon's superior reach.
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Dancer's Beat \[Memento Talent\] - Your [Vent](Combat_Mechanics.md#tempo) is replaced with Dancer's Beat. You increase the speed, damage, and stun of your next Basic Attack. However, should your attack fail to land, you'll be stunned and your [Tempo](Combat_Mechanics.md#tempo) will be greatly reduced.
+    
+    -   Your Vent can no longer be used defensively, but does not cost tempo to use. You need to have at least 20 Tempo to use Dancer's Beat.
+    -   Using your Vent will put you in a stance for a brief moment. Your next M1 used within 1 second of using Dancer's Beat will deal higher damage, more stun, and have a higher swing speed.
+    -   If you are hit before you use your next attack, wait out the 1 second proc window, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose 60 Tempo and will be stunned for 0.5 seconds. During this stun you will not be able to perform any actions, but this stun will not cancel any of your currently active attacks.
+    -   The Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
+
+-   Dancer's Geas \[Memento Talent\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.
+    
+    -   When you land an attack from the tip of your weapon, an icon of a pair of hands clapping will appear, signifying that you've activated the buff.
+    -   When you land an attack from half or less than half of your weapon's range, an icon of a thumbs down will appear, signifying that you were debuffed.
+    -   Also procs on weapon criticals.
+    -   Because of how monster hitboxes work, you will almost always benefit from the positive effect of this Talent while fighting non-humanoids, regardless of how close to them are are.
+
+-   Moving Fortress \[Common Talent\] - Blocking no longer slows you down as much. (+1 Posture)
+    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
+
+-   _Phantom Edge_ \[Rare Talent\] - Your weapon Basic Attacks have +0.25 range.
+
+## Deck of Recollection
+
+### Starting Deck
+
+-   Blade Dancer \[Common Talent\] **100** \- Landing a Basic Attack removes your roll cooldown. (+1 Passive Agility)
+
+-   Emergency Reserves \[Common Talent\] **100** \- When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).
+    -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
+
+-   Matador \[Common Talent\] **100** \- Deal +20% more damage to human enemies with hyperarmor.
+    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
+
+-   Steady Footing \[Common Talent\] **100** \- You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
+    -   Reduces knockback to the user by 20%. (stacks with "Knockback Resistance" equipment pip)
+        -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
+    -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
+
+-   Unnecessary Theatrics \[Common Talent\] **100** \- Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
+    -   Charms for 7 seconds.
+    -   The Charm duration is reduced by 0.066 seconds per point of Charisma under 75, lasting for 5.3 seconds at 50 Charisma.
+    -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
+
+-   Dancer's Impale \[Memento Talent\] **200** \- Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
+    
+    -   Essentially, this is Lancer's Impale without being weapon type locked.
+
+-   Ga Dearg \[Memento Talent\] **200** \- Striking a bleeding enemy with the tip of your weapon extends the bleed.
+    
+    -   Hitting a bleeding enemy with the tip of your weapon will reapply the bleed.
+
+-   _Speed Demon_ \[Rare Talent\] **250** \- Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
+    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
+    -   Speed Demon's bleed deals 2.5% of your weapon's damage every 0.3s, three times. This totals to +7.5% damage over a 0.9 second period.
+    -   Works with M1s and criticals.
+
+-   _Spine Cutter_ \[Rare Talent\] **250** \- Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
+    -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
+    -   The second slash has no PEN.
+    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
+
+  
 
 | 
 **Name**
@@ -93,7 +152,7 @@ N/A
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -134,7 +193,7 @@ Slash
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -151,7 +210,35 @@ Power 1, 250
 
  |
 
-### Power 10 Mantras
+### Power 10
+
+-   Dancing Guard \[Common Talent\] **100** \- Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.
+    -   Dancing Guard's duration will be reduced by 0.086s for every point in Fortitude below its requirements. This caps at 4 seconds with 20 or less Fortitude.
+
+-   Precise Swing \[Common Talent\] **100** \- After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
+    -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
+    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
+        -   If your M1 is whiffed or dodged, the status effect will not be consumed.
+    -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
+    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
+
+-   Speed Emission \[Common Talent\] **100** \- Gain a slight speed boost after landing a vent.
+
+-   Steady Nerves \[Common Talent\] **100** \- You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
+    -   Restore 2 flat posture on a successful dodge.
+
+-   Two Left Feet \[Memento Talent\] **200** \- Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
+    
+    -   Essentially, this is Defensive Sweep without being weapon type locked.
+
+-   _Tap Dancer_ \[Rare Talent\] **250** \- Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
+    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
+
+-   _Wyvern's Claw_ \[Rare Talent\] **250** \- You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
+    -   Activates after not being in contact with a grounded surface for ~0.75 seconds.
+    -   Synergizes very well with uppercuts.
+
+  
 
 | 
 **Name**
@@ -210,7 +297,7 @@ Slash
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -251,7 +338,7 @@ Slash
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -267,7 +354,17 @@ Power 10, 700
 
  |
 
-### Power 15 Mantras
+### Power 15
+
+-   Kick the Beat \[Memento Talent\] **200** \- Dancer's Beat now works with Critical Attacks.
+
+-   _All Knowing_ \[Rare Talent\] **250** \- Your prediction now ignores the range requirement to reflect attacks.
+
+-   _**Million Ton Piercer**_ \[Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
+    -   The additional 5% PEN scales with your Strength, only granting the full +5% PEN at 90 Strength.
+    -   Like Ether Overdrive, this removes the 50% Mantra and Weapon PEN cap.
+
+  
 
 | 
 **Name**
@@ -326,7 +423,7 @@ Enemy's Attack
 
  | 
 
-Power 15, 950
+950
 
  |
 | 
@@ -366,7 +463,7 @@ Oath
 
  | 
 
-Power 15, 950
+950
 
  |
 | 
@@ -408,7 +505,7 @@ TBA
 
  | 
 
-Power 15, 950
+950
 
  |
 | 
@@ -418,126 +515,6 @@ Power 15, 950
 -   The spear arcs its trajectory as it flies.
 
  |
-
-## Available Talents
-
-### Starting Talents
-
--   Dancer's Beat \[Memento Talent\] - Your [Vent](Combat_Mechanics.md#tempo) is replaced with Dancer's Beat. You increase the speed, damage, and stun of your next Basic Attack. However, should your attack fail to land, you'll be stunned and your [Tempo](Combat_Mechanics.md#tempo) will be greatly reduced.
-    
-    -   Your Vent can no longer be used defensively and does not cost tempo to use. Additionally, the Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
-    -   Using your Vent will put you in a stance for a brief moment. Your next M1 will deal higher damage, more stun, and have a higher swing speed.
-    -   If you are hit before you use your next attack, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose Tempo and will be stunned briefly.
-    -   Requirements: Starter
-
--   Dancer's Geas \[Memento Talent\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.
-    
-    -   When you land an attack from the tip of your weapon, an icon of a pair of hands clapping will appear, signifying that you've activated the buff.
-    -   When you land an attack from half or less than half of your weapon's range, an icon of a thumbs down will appear, signifying that you were debuffed.
-    -   Also procs on weapon criticals.
-    -   Because of how monster hitboxes work, you will almost always benefit from the positive effect of this Talent while fighting non-humanoids, regardless of how close to them are are.
-    -   Requirements: Starter
-
--   Moving Fortress \[Common Talent\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
-    -   Requirements: Starter
-
--   _Phantom Edge_ \[Rare Talent\] - Your weapon Basic Attacks have +0.25 range.
-    -   Requirements: Starter
-
--   Blade Dancer \[Common Talent\] - Landing a Basic Attack removes your roll cooldown. (+1 Passive Agility)
-    -   Requirements: Power 1, 100
-
--   Emergency Reserves \[Common Talent\] - When you get hit below 20% health, gain 20% tempo immediately (3 minute CD).
-    -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
-    -   Requirements: Power 1, 100
-
--   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
-    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
-    -   Requirements: Power 1, 100
-
--   Steady Footing \[Common Talent\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
-    -   Reduces knockback to the user by 20%. (stacks with "Knockback Resistance" equipment pip)
-        -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
-    -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
-    -   Requirements: Power 1, 100
-
--   Unnecessary Theatrics \[Common Talent\] - Deliver a one-liner on uppercuts, flourishes and critical attacks that charms your opponents briefly.
-    -   Charms for 7 seconds.
-    -   The Charm duration is reduced by 0.066 seconds per point of Charisma under 75, lasting for 5.3 seconds at 50 Charisma.
-    -   The cooldown indicator says that this Talent has a 10s CD, which is technically incorrect. There is no CD for the Charm application, but there is a 10s CD on the one-liners.
-    -   Requirements: Power 1, 100
-
--   Dancer's Impale \[Memento Talent\] - Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
-    
-    -   Essentially, this is Lancer's Impale without being weapon type locked.
-    -   Requirements: Power 1, 200
-
--   Ga Dearg \[Memento Talent\] - Striking a bleeding enemy with the tip of your weapon extends the bleed.
-    
-    -   Hitting a bleeding enemy with the tip of your weapon will reapply the bleed.
-    -   Requirements: Power 1, 200
-
--   _Speed Demon_ \[Rare Talent\] - Your attacks now inflict a reduced-strength bleed while you have a speed boost. 1s cooldown. (+1 Passive Agility)
-    -   Bleed is not accounted for in the damage modifier cap and bypasses armor.
-    -   Speed Demon's bleed deals 2.5% of your weapon's damage every 0.3s, three times. This totals to +7.5% damage over a 0.9 second period.
-    -   Works with M1s and criticals.
-    -   Requirements: Power 1, 250
-
--   _Spine Cutter_ \[Rare Talent\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
-    -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
-    -   The second slash has no PEN.
-    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
-    -   Requirements: Power 1, 250
-
-### Power 10 Talents
-
--   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.
-    -   Dancing Guard's duration will be reduced by 0.086s for every point in Fortitude below its requirements. This caps at 4 seconds with 20 or less Fortitude.
-    -   Requirements: Power 10, 100
-
--   Precise Swing \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
-    -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
-    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
-        -   If your M1 is whiffed or dodged, the status effect will not be consumed.
-    -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
-    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
-    -   Requirements: Power 10, 100
-
--   Speed Emission \[Common Talent\] - Gain a slight speed boost after landing a vent.
-    -   Requirements: Power 10, 100
-
--   Steady Nerves \[Common Talent\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
-    -   Restore 2 flat posture on a successful dodge.
-    -   Requirements: Power 10, 100
-
--   Two Left Feet \[Memento Talent\] - Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
-    
-    -   Essentially, this is Defensive Sweep without being weapon type locked.
-    -   Requirements: Power 10, 200
-
--   _Tap Dancer_ \[Rare Talent\] - Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
-    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
-    -   Requirements: Power 10, 250
-
--   _Wyvern's Claw_ \[Rare Talent\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
-    -   Activates after not being in contact with a grounded surface for ~0.75 seconds.
-    -   Synergizes very well with uppercuts.
-    -   Requirements: Power 10, 250
-
-### Power 15 Talents
-
--   Kick the Beat \[Memento Talent\] - Dancer's Beat now works with Critical Attacks.
-    
-    -   Requirements: Power 15, 200
-
--   _All Knowing_ \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
-    -   Requirements: Power 15, 250
-
--   _**Million Ton Piercer**_ \[Advanced Talent\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
-    -   The additional 5% PEN scales with your Strength, only granting the full +5% PEN at 90 Strength.
-    -   Like Ether Overdrive, this removes the 50% Mantra and Weapon PEN cap.
-    -   Requirements: Power 15, 350
 
 ## Boss Unlocks
 

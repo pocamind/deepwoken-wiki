@@ -1,9 +1,9 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 186601
+revid: 186800
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, Pages with broken file links, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
+categories: [Lightborn NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
 ---
 
 # Kaide, the Drowned Light
@@ -14,6 +14,10 @@ categories: [Lightborn NPCs, Pages with broken file links, NPCs, NPCs located in
 | aspect | Lightborn |
 | location | New Kyrsa, The Sleeping City |
 | affiliation | Constellia |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
@@ -276,6 +280,7 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
 ## Trivia
 
 -   The "immortals" that Kaide mentions in his dialogue are presumably the [Deepwoken](Deepwoken.md). His hesitation when he mentions this brings up the possibility that the term is a sacred or touchy subject. It also could mean that the Pathfinder and other people in Lumen cannot comprehend the concept of a Deepwoken.
+    -   When he references immortal individuals ruling the world from the shadows, he may be referring to [Drallis Ehr](Drallis_Ehr.md), the ageless ruler of [The Central Authority](The_Central_Authority.md) who is famed for his secrecy.
 -   The relics mentioned by Kaide may be referring to the [Moon's Eyrie](<Moon's_Eyrie.md>) and the [Resonant Dawn](Random_Encounters.md#resonant-dawn) event, which are both found in the [Voidsea](Voidsea.md).
 -   Kaide's old appearance consisted of the [Soren](Soren.md) outfit, deep purple eyes, with the halo of the same color hanging over his wolf cut.
 -   Kaide is one of the only NPCs to have special dialogue depending on the Pathfinder's weapon and Oath.

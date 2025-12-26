@@ -1,6 +1,6 @@
 ---
 title: Urchin
-revid: 167554
+revid: 186842
 source: https://deepwoken.fandom.com/wiki/Urchin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Items, Fish]
@@ -17,6 +17,7 @@ categories: [Ingredients, Harvestables, Alchemy, Items, Fish]
 | droppable | Yes |
 | pass down | No |
 | desc | Careful it's sharp! |
+| obtainment | Scattered throughout Celtor WastesVow of Iron , Sold in Naan Zakshun's black market for 3,000 |
 
 ## Description
 

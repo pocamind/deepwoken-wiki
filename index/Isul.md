@@ -1,22 +1,24 @@
 ---
-title: Zirik
-revid: 186914
-source: https://deepwoken.fandom.com/wiki/Zirik
+title: Isul
+revid: 186915
+source: https://deepwoken.fandom.com/wiki/Isul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Hive, Reputation]
+categories: [Ganymede NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Hive, Reputation]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
-# Zirik
+# Isul
 
-| Zirik | |
+| Isul | |
 |---|---|
-| name | Zirik |
+| name | Ishul |
 | aspect | Ganymede |
 | location | The Lordsgrove |
 | affiliation | The Hive |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
 “ \*They seem to be sweating bullets as you approach.\* WOW! WHAT LOVELY PLANTS THESE ARE! ”
@@ -25,11 +27,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Zirik is a [Ganymede](Ganymede.md) NPC who accepts a bribe for [The Hive](The_Hive.md). The player can pay them up to 1,200 to restore their reputation back to neutral.
+Ishul is a [Ganymede](Ganymede.md) NPC who accepts a bribe for [The Hive](The_Hive.md). The player can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
-Zirik is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
+Ishul is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
 
 ## Dialogue
 

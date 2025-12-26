@@ -1,6 +1,6 @@
 ---
 title: Ether Erudite
-revid: 186522
+revid: 186868
 source: https://deepwoken.fandom.com/wiki/Ether_Erudite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -25,13 +25,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Ether Erudite** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento locks your Outfit. You will spawn with the following items: 1 [Bloodless Gem](Bloodless_Gem.md), 1 [Blue Gem](Blue_Gem.md), 1 [Wayward Gem](Wayward_Gem.md), 1 [Wind Gem](Wind_Gem.md), and an [Ether Surge](Ether_Surge.md) Enchantment stone.
+**Ether Erudite** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You will spawn with the following items: 1 [Bloodless Gem](Bloodless_Gem.md), 1 [Blue Gem](Blue_Gem.md), 1 [Wayward Gem](Wayward_Gem.md), 1 [Wind Gem](Wind_Gem.md), and an [Ether Surge](Ether_Surge.md) Enchantment stone.
 
 All of the [Deep Gems](Deep_Gems.md) have static spawns, or can otherwise be farmed in [the Depths](<The_Depths_(Vow_of_Iron).md>).
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Ether Erudite \[Memento Talent\] - The more total Ether you have, the more damage you deal. Gain Ether Erudite Stacks to improve your combat abilities. The max amount you can hold is 6.
+
+  
 
 | 
 **Name**
@@ -90,7 +92,7 @@ Enemy's Attack
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -106,6 +108,81 @@ Starter
     -   The maximum Prediction cooldown from this Talent scales on your Intelligence investment.
 
  |
+
+## Deck of Recollection
+
+### Starting Deck
+
+-   Engage \[Quest Talent\] **100** \- Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
+
+-   Ether Absorption \[Common Talent\] **100** \- Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
+
+-   Hard Read \[Common Talent\] **100** \- Hitting your opponent during a feint will cause them to be dazed.
+    -   Applies daze for 1 second.
+
+-   Mantra Permanence \[Common Talent\] **100** \- Knocking an enemy with a mantra refunds the cost of the mantra.
+
+-   Master Craftsman \[Common Talent\] **100** \- Your skills alone substitute the need for a Craft Station. (+5 Health)
+    -   When crafting, the user no longer requires a Craft Station in their recipes. (Ex. Glider)
+
+-   Moving Fortress \[Common Talent\] **100** \- Blocking no longer slows you down as much. (+1 Posture)
+    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
+
+-   Ready or Not \[Common Talent\] **100** \- The first attack to hit you while out of combat has its damage cut in half.
+
+-   Savior \[Common Talent\] **100** \- After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
+    -   "Saved" being interrupting a grip attempt.
+    -   The speed boost lasts 15 seconds.
+
+-   Target Switch \[Common Talent\] **100** \- Parrying an opponent then hitting someone else makes your next mantra free.
+    -   This effect is signalled by a yellow halo.
+    -   Has a 4 second activation window with a 10 second duration.
+    -   This talent will still proc if you hit a knocked enemy.
+
+-   The Eleventh Hour \[Common Talent\] **100** \- When below 15% health your mantras require no ether to cast for 11 seconds. (60 Second Cooldown) (+10 Sanity)
+    -   Lasts 30 seconds with a 90 second cooldown, the Talent description was never updated.
+
+-   Underdog \[Common Talent\] **100** \- You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
+    -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
+    -   Underdog grants a 2.5% damage buff at 20 Willpower, this is increased by 0.0375% damage per Willpower above 20, capping at 4% with 60 Willpower.
+    -   "Higher HP" refers to current HP.
+    -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)
+
+-   _Observation_ \[Rare Talent\] **250** \- Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
+    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Ether Barrage** (☆☆☆)
@@ -133,7 +210,7 @@ Blunt
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -175,7 +252,7 @@ Slash
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -192,7 +269,37 @@ Power 1, 250
 
  |
 
-### Power 5 Mantras
+### Power 5
+
+-   Dragon's Song \[Common Talent\] **100** \- Using a mantra after an uppercut grants ether. 2s CD
+    -   Grants +20 Ether on proc.
+
+-   Full Reset \[Common Talent\] **100** \- Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
+
+-   Keen Recovery \[Common Talent\] **100** \- Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
+    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.
+    -   Does not proc if your basic attack is blocked, parried, or dodged.
+
+-   Successive Prediction \[Common Talent\] **100** \- Predicting an attack will briefly allow you to predict another.
+    -   Allows you to reflect the entirety of multi-hit moves (such as Enforcer's spin attack)
+
+-   _Chronostasis_ \[Rare Talent\] **250** \- Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
+
+-   _Everchanging Aegis_ \[Rare Talent\] **250** \- You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
+    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
+        -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
+    -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
+    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
+        -   [Flamecharm](Flamecharm.md): Orange / [Frostdraw](Frostdraw.md): Blue / [Thundercall](Thundercall.md): Yellow / [Galebreathe](Galebreathe.md): Green / [Shadowcast](Shadowcast.md): Purple / [Ironsing](Ironsing.md): Grey / [Bloodrend](Bloodrend.md): Red
+    -   Does not effect Oath damage.
+
+-   _Overflowing Dam_ \[Rare Talent\] **250** \- Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
+    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
+
+-   _Perfect Flash_ \[Rare Talent\] **250** \- Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
+    -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
+
+  
 
 | 
 **Name**
@@ -251,7 +358,7 @@ N/A
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -293,7 +400,7 @@ Slash
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -309,7 +416,33 @@ Power 5, 450
 
  |
 
-### Power 10 Mantras
+### Power 10
+
+-   Foolish Outburst \[Common Talent\] **100** \- Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
+    -   Steals 40% of the Tempo used.
+
+-   Water off a Duck's Back \[Common Talent\] **100** \- Venting will shift any elemental status effects affecting you onto those hit by your vent.
+    -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
+
+-   _All Knowing_ \[Rare Talent\] **250** \- Your prediction now ignores the range requirement to reflect attacks.
+
+-   _Eureka_ \[Rare Talent\] **250** \- Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
+    -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
+    -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
+        -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
+        -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
+    -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
+
+-   _Neuroplasticity_ \[Rare Talent\] **250** \- Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
+    -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
+    -   Does not apply retroactively to previously modified mantras until you rejoin.
+
+-   _**Neural Overload**_ \[Advanced Talent\] **350** \- You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
+    -   The [Mantra Modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
+    -   Removing this talent after modifying mantras will _**not**_ alter their pre-existing modifiers, keeping the benefit.
+    -   This will _**not**_ change the maximum 12 mantra modification hard limit.
+
+  
 
 | 
 **Name**
@@ -368,7 +501,7 @@ Slash
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -384,151 +517,20 @@ Power 10, 700
 
  |
 
-## Available Talents
+### Power 15
 
-### Starting Talents
-
--   Ether Erudite \[Memento Talent\] - The more total Ether you have, the more damage you deal. Gain Ether Erudite Stacks to improve your combat abilities. The max amount you can hold is 6.
-    
-    -   Requirements: Starter
-
--   Engage \[Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
-    -   Requirements: Power 1, 100
-
--   Ether Absorption \[Common Talent\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
-    -   Requirements: Power 1, 100
-
--   Hard Read \[Common Talent\] - Hitting your opponent during a feint will cause them to be dazed.
-    -   Applies daze for 1 second.
-    -   Requirements: Power 1, 100
-
--   Mantra Permanence \[Common Talent\] - Knocking an enemy with a mantra refunds the cost of the mantra.
-    -   Requirements: Power 1, 100
-
--   Master Craftsman \[Common Talent\] - Your skills alone substitute the need for a Craft Station. (+5 Health)
-    -   When crafting, the user no longer requires a Craft Station in their recipes. (Ex. Glider)
-    -   Requirements: Power 1, 100
-
--   Moving Fortress \[Common Talent\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
-    -   Requirements: Power 1, 100
-
--   Ready or Not \[Common Talent\] - The first attack to hit you while out of combat has its damage cut in half.
-    -   Requirements: Power 1, 100
-
--   Savior \[Common Talent\] - After saving a player from being gripped gain a short speed boost for a short duration. (+1 Sanity)
-    -   "Saved" being interrupting a grip attempt.
-    -   The speed boost lasts 15 seconds.
-    -   Requirements: Power 1, 100
-
--   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
-    -   This effect is signalled by a yellow halo.
-    -   Has a 4 second activation window with a 10 second duration.
-    -   This talent will still proc if you hit a knocked enemy.
-    -   Requirements: Power 1, 100
-
--   The Eleventh Hour \[Common Talent\] - When below 15% health your mantras require no ether to cast for 11 seconds. (60 Second Cooldown) (+10 Sanity)
-    -   Lasts 30 seconds with a 90 second cooldown, the Talent description was never updated.
-    -   Requirements: Power 1, 100
-
--   Underdog \[Common Talent\] - You deal 2.5% more damage to those with higher HP than you, scaling up to 4% at 60 WLL. Additionally, you deal +10% more damage to physically larger foes.
-    -   Underdog's damage to enemies with higher HP than you scales with your Willpower investment.
-    -   Underdog grants a 2.5% damage buff at 20 Willpower, this is increased by 0.0375% damage per Willpower above 20, capping at 4% with 60 Willpower.
-        -   Underdog will grant a 2.875% damage bonus at requirements.
-    -   "Higher HP" refers to current HP.
-    -   "Larger foes" refers to non-humanoid NPCs. (Ex. Megalodaunts, Threshers, Deep Owls)
-    -   Requirements: Power 1, 100
-
--   _Observation_ \[Rare Talent\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
-    -   Requirements: Power 1, 250
-
-### Power 5 Talents
-
--   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether. 2s CD
-    -   Grants +20 Ether on proc.
-    -   Requirements: Power 5, 100
-
--   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
-    -   Requirements: Power 5, 100
-
--   Keen Recovery \[Common Talent\] - Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
-    -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.
-    -   Does not proc if your basic attack is blocked, parried, or dodged.
-    -   Requirements: Power 5, 100
-
--   Successive Prediction \[Common Talent\] - Predicting an attack will briefly allow you to predict another.
-    -   Allows you to reflect the entirety of multi-hit moves (such as Enforcer's spin attack)
-    -   Requirements: Power 5, 100
-
--   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
-    -   Requirements: Power 5, 250
-
--   _Everchanging Aegis_ \[Rare Talent\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
-    -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
-        -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
-    -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
-    -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
-        -   [Flamecharm](Flamecharm.md): Orange / [Frostdraw](Frostdraw.md): Blue / [Thundercall](Thundercall.md): Yellow / [Galebreathe](Galebreathe.md): Green / [Shadowcast](Shadowcast.md): Purple / [Ironsing](Ironsing.md): Grey / [Bloodrend](Bloodrend.md): Red
-    -   Does not effect Oath damage.
-    -   Requirements: Power 5, 250
-
--   _Overflowing Dam_ \[Rare Talent\] - Having full Ether for 2 seconds or more grants an aura to your attacks that grant them 10% more damage.
-    -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
-    -   Requirements: Power 5, 250
-
--   _Perfect Flash_ \[Rare Talent\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
-    -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
-    -   Requirements: Power 5, 250
-
-### Power 10 Talents
-
--   Foolish Outburst \[Common Talent\] - Blocking or parrying a vent will absorb the Tempo cost of the vent. A Tactician steadies the course of battle.
-    -   Steals 40% of the Tempo used.
-    -   Requirements: Power 10, 100
-
--   Water off a Duck's Back \[Common Talent\] - Venting will shift any elemental status effects affecting you onto those hit by your vent.
-    -   Transfers [Suffocation](Status_Effects.md#suffocate), [Winded](Status_Effects.md#winded), [Chill](Status_Effects.md#chill), [Shock](Status_Effects.md#shock), [Burn](Status_Effects.md#burn), and [potion](Alchemy.md) effects from yourself to your enemy on vent.
-    -   Requirements: Power 10, 100
-
--   _All Knowing_ \[Rare Talent\] - Your prediction now ignores the range requirement to reflect attacks.
-
--   _Eureka_ \[Rare Talent\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
-    -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
-    -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
-        -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
-        -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
-    -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
-    -   Requirements: Power 10, 250
-
--   _Neuroplasticity_ \[Rare Talent\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
-    -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
-    -   Does not apply retroactively to previously modified mantras until you rejoin.
-    -   Requirements: Power 10, 250
-
--   _**Neural Overload**_ \[Advanced Talent\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
-    -   The [Mantra Modifiers](Mantra_Modifiers.md) limit is increased from 3 -> 4, for copies of modifiers. (ex. max of 3 crystal lens -> max of 4 crystal lens)
-    -   Removing this talent after modifying mantras will _**not**_ alter their pre-existing modifiers, keeping the benefit.
-    -   This will _**not**_ change the maximum 12 mantra modification hard limit.
-    -   Requirements: Power 10, 350
-
-### Power 15 Talents
-
--   Approaching Singularity \[Common Talent\] - You now gain +1% Mantra PEN for every 10 point of Intelligence.
+-   Approaching Singularity \[Common Talent\] **100** \- You now gain +1% Mantra PEN for every 10 point of Intelligence.
     -   Gives 0.1% Mantra PEN per point in Intelligence.
         -   Provides +15% PEN at 150 Intelligence.
-    -   Requirements: Power 15, 100
 
--   Critical Engine \[Common Talent\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+-   Critical Engine \[Common Talent\] **100** \- You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
     -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
     -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
     -   See info on specific [Deep Gems](Deep_Gems.md) on their individual pages.
-    -   Requirements: Power 15, 100
 
--   Twelve Steps Ahead \[Common Talent\] - Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
+-   Twelve Steps Ahead \[Common Talent\] **100** \- Landing Prediction will halve the cooldown to a minimum of 2s. Whiffing will double the cooldown to a maximum of 30s. This effect stacks for up to 30 seconds.
     -   This effect requires your opponent to be within 90 studs of you.
-    -   Requirements: Power 15, 100
 
 ## Boss Unlocks
 

@@ -1,11 +1,11 @@
 ---
 title: Steampunk Soldier
-revid: 186539
+revid: 186803
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
+categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is currently being worked on. Missing Power 10, 15, and 20 Shops + all boss rewards"
 ---
 
 # Steampunk Soldier
@@ -28,9 +28,28 @@ This content is not accessible outside of this gamemode.
 
 **Steampunk Soldier** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon; a Pistol, Rifle, or Greatcannon. [Rifle Spear](Rifle_Spear.md) counts as a Rifle and a spear, meaning many Mementos can equip it.
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   Steampunk Soldier \[Memento Talent\] - Increase the size of your steam which you activate Flashboil. Flashboil's cooldown is also reduced.
+    
+    -   Requirements: Starter
+
+-   Boiling Point \[Common Talent\] - Using a fire mantra near your own steam cloud detonates it.
+    -   Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 damage in an AoE.
+    -   Because this procs when the steam cloud is hit and not the player, even if your opponent parries your Mantra, it will still detonate your steam.
+    -   Has a short delay which can throw players off.
+    -   Generally this Talent is not worth taking, as the steam itself will out damage it, and having a stage hazard can be quite useful.
+    -   The detonation is unparryable, unblockable, and bypasses armor resistances.
+
+-   Flashboil \[Common Talent\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
+    -   Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a _stationary_ steam cloud.
+        -   The burn status effect doesn't count as "Flamecharm damage" for this Talent, meaning if you apply burn via Agitating Spark, Immolation, or some other non-Flamecharm damaging source to a chilled target, nothing will happen.
+    -   Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's.
+    -   Steam clouds are unparryable, unblockable, and bypass armor resistances.
+    -   Steam clouds last 10 seconds and have an internal proc cooldown **per target** of 10 seconds.
+    -   This Talent is incredibly good for PvE in high mob density areas because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
+
+  
 
 | 
 **Name**
@@ -86,7 +105,7 @@ Fire
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -128,7 +147,7 @@ Ice
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -147,6 +166,106 @@ Starter
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
 
  |
+
+## Deck of Recollection
+
+### Starting Deck
+
+-   Battle Tendency \[Common Talent\] **100** \- You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
+    -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
+
+-   Cauterized Wounds \[Common Talent\] **100** \- Blood loss from all sources is lowered. (+1 Passive Agility)
+    -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
+
+-   Cool Head \[Common Talent\] **100** \- If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown
+    -   While the effect is active, the user breathes cold air.
+
+-   Disbelief \[Common Talent\] **100** \- You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
+    -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
+        -   Tough Love: 2s -> 1s
+        -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
+        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
+        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
+        -   Overcharm's self-charm proc: 8s -> 4s
+        -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
+        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
+        -   Lasting Charisma (at reqs): 20s -> 10s
+
+-   Gourmand \[Common Talent\] **100** \- Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
+
+-   Hell's Partisan \[Common Talent\] **100** \- After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
+    -   Deals 5 Flamecharm damage.
+    -   This is parryable, but is not blockable nor dodgeable due to hitstun.
+
+-   Iron Gut \[Common Talent\] **100** \- You have resistance against being poisoned by foods.
+    -   Does not work when eating [Pufferfish](Fishing.md) (gamebreaking).
+
+-   Kick Off \[Common Talent\] **100** \- You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
+    -   Causes _**all**_ falls to be considered "shorter" by 10 studs, also reducing larger falls.
+    -   Increases climb distance by ~15% when off cooldown.
+    -   Slide jumping now also slightly increases climb distance.
+    -   Has a cooldown of 3 seconds.
+
+-   Martyr \[Common Talent\] **100** \- Enemies gain less health and posture when knocking you.
+    -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
+    -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
+
+-   Moving Fortress \[Common Talent\] **100** \- Blocking no longer slows you down as much. (+1 Posture)
+    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
+
+-   Old Habits Die Hard \[Common Talent\] **100** \- Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
+
+-   Pack Mule \[Common Talent\] **100** \- The max quantity for food you can hold is increased by 5. (+1 Carry Load)
+
+-   Produce Spark \[Common Talent\] **100** \- A simple production of Flame for the use of making Campfires.
+    -   Grants a Talent tool that works like an infinite [Flint](Flint.md).
+
+-   Target Switch \[Common Talent\] **100** \- Parrying an opponent then hitting someone else makes your next mantra free.
+    -   This effect is signalled by a yellow halo.
+    -   Has a 4 second activation window with a 10 second duration.
+    -   This talent will still proc if you hit a knocked enemy.
+
+-   Armor Piercing \[Rare Talent\] **250** \- \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+    -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
+        -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: (1 - ((1 - Current PEN/100) \*(1 - 0.1))) \*100 = effective PEN against blunt armor.
+        -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
+    -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
+        -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
+        -   For [Rosen's Hellflame](<Rosen's_Hellflame.md>), it will only circumstantially benefit from Armor Piercing, because of its elemental damage.
+            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Fire Forge** (★☆☆)
@@ -171,7 +290,7 @@ Fire
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -215,7 +334,7 @@ Ice
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -234,7 +353,39 @@ Power 1, 250
 
  |
 
-### Power 5 Mantras
+### Power 5
+
+-   Agitating Spark \[Common Talent\] **100** \- If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
+    -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
+        -   This visual effect will still happen when hitting a non-burning target with a burn-applying attack, granting Emperor Flame stacks without spreading burn.
+    -   Agitating Spark bypasses block and parry.
+    -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
+    -   Has a 1 second cooldown.
+    -   Can spread to allies.
+
+-   Bottom Freeze \[Common Talent\] **100** \- Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
+    -   Prevents you from rotating your character and moving around overall.
+
+-   Flaming Flourish \[Common Talent\] **100** \- Set enemies on fire when you flourish or uppercut them.
+    -   You also apply burn on enemies by swinging uppercut nearby. Aka doesn't have to be a hit to apply burn.
+
+-   Immolation \[Common Talent\] **100** \- Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
+    -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
+    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
+        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow) or [Metal Eruption](Ironsing.md#metal-eruption)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
+
+-   Frozen Pin-Cushion \[Rare Talent\] **250** \- Ice Daggers now freeze opponents.
+
+-   True Ether Bullets \[Rare Talent\] **250** \- Using Ether Bullets applies elemental damage of your highest investment.
+    -   -   Landing 2 shots will make the 3rd shot deal elemental damage.
+            -   The 3rd shot apply your attunement's elemental effect:
+                -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
+                -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
+                -   The other Attunements' effects are not listed here due to being irrelevant to this Memento. See the [Talents page](Talents.md#true-ether-bullets) for this Talent's full effect.
+            -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   This Talent does not make guns scale off your attunement attribute, it just converts your Physical Damage to Elemental Damage.
+
+  
 
 | 
 **Name**
@@ -306,144 +457,3 @@ Power 5, 450
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to cause the Mantra to send out each projectile individually.
 
  |
-
-## Available Talents
-
-### Starter Talents
-
--   Steampunk Soldier \[Memento Talent\] - Increase the size of your steam which you activate Flashboil. Flashboil's cooldown is also reduced.
-    
-    -   Requirements: Starter
-
--   Boiling Point \[Common Talent\] - Using a fire mantra near your own steam cloud detonates it.
-    -   Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 damage in an AoE.
-    -   Because this procs when the steam cloud is hit and not the player, even if your opponent parries your Mantra, it will still detonate your steam.
-    -   Has a short delay which can throw players off.
-    -   Generally this Talent is not worth taking, as the steam itself will out damage it, and having a stage hazard can be quite useful.
-    -   The detonation is unparryable, unblockable, and bypasses armor resistances.
-    -   Requirements: Starter
-
--   Flashboil \[Common Talent\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
-    -   Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a _stationary_ steam cloud.
-        -   The burn status effect doesn't count as "Flamecharm damage" for this Talent, meaning if you apply burn via Agitating Spark, Immolation, or some other non-Flamecharm damaging source to a chilled target, nothing will happen.
-    -   Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's.
-    -   Steam clouds are unparryable, unblockable, and bypass armor resistances.
-    -   Steam clouds last 10 seconds and have an internal proc cooldown **per target** of 10 seconds.
-    -   This Talent is incredibly good for PvE in high mob density areas because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
-    -   Requirements: Starter
-
--   Battle Tendency \[Common Talent\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
-    -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
-    -   Requirements: Power 1, 100
-
--   Cauterized Wounds \[Common Talent\] - Blood loss from all sources is lowered. (+1 Passive Agility)
-    -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
-    -   Requirements: Power 1, 100
-
--   Cool Head \[Common Talent\] - If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown
-    -   While the effect is active, the user breathes cold air.
-    -   Requirements: Power 1, 100
-
--   Disbelief \[Common Talent\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
-    -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
-        -   Tough Love: 2s -> 1s
-        -   Overcharm's Basic Attacks and [Kyrsieger](Kyrsieger.md) critical attack: 5s -> 2.5s
-        -   Unnecessary Theatrics (at reqs): 7s -> 3.5s
-        -   [Dread Whisper](Attunement-less.md#dread-whisper) and [Sing](Attunement-less.md#sing): 7.5s -> 3.25s
-        -   Overcharm's self-charm proc: 8s -> 4s
-        -   Charismatic Cast, [Allure](Enchantments.md#equipment): 10s -> 5s
-        -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
-        -   Lasting Charisma (at reqs): 20s -> 10s
-    -   Requirements: Power 1, 100
-
--   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
-    -   Requirements: Power 1, 100
-
--   Hell's Partisan \[Common Talent\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
-    -   Deals 5 Flamecharm damage.
-    -   This is parryable, but is not blockable nor dodgeable due to hitstun.
-    -   Requirements: Power 1, 100
-
--   Iron Gut \[Common Talent\] - You have resistance against being poisoned by foods.
-    -   Requirements: Power 1, 100
-    -   Does not work when eating [Pufferfish](Fishing.md) (gamebreaking).
-
--   Kick Off \[Common Talent\] - You easily brush off shorter falls, taking no damage. Your first wall jump will always send you higher than normal. Gain a speed boost after wall jumping over a wall. (+6 Passive Agility)
-    -   Causes _**all**_ falls to be considered "shorter" by 10 studs, also reducing larger falls.
-    -   Increases climb distance by ~15% when off cooldown.
-    -   Slide jumping now also slightly increases climb distance.
-    -   Has a cooldown of 3 seconds.
-    -   Requirements: Power 1, 100
-
--   Martyr \[Common Talent\] - Enemies gain less health and posture when knocking you.
-    -   Enemies who knock you restore only half of the posture and health they would normally obtain (50% -> 25%).
-    -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
-    -   Requirements: Power 1, 100
-
--   Moving Fortress \[Common Talent\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
-    -   Requirements: Power 1, 100
-
--   Old Habits Die Hard \[Common Talent\] - Blocking an attack with your lingering block frames after failing a parry will cause the attack to deal 15% less posture damage. (+5 Health)
-    -   Requirements: Power 1, 100
-
--   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
-    -   Requirements: Power 1, 100
-
--   Produce Spark \[Common Talent\] - A simple production of Flame for the use of making Campfires.
-    -   Grants a Talent tool that works like an infinite [Flint](Flint.md).
-    -   Requirements: Power 1, 100
-
--   Target Switch \[Common Talent\] - Parrying an opponent then hitting someone else makes your next mantra free.
-    -   This effect is signalled by a yellow halo.
-    -   Has a 4 second activation window with a 10 second duration.
-    -   This talent will still proc if you hit a knocked enemy.
-    -   Requirements: Power 1, 100
-
--   Armor Piercing \[Rare Talent\] - \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
-    -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
-        -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: (1 - ((1 - Current PEN/100) \*(1 - 0.1))) \*100 = effective PEN against blunt armor.
-        -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
-    -   Specific rifles benefit less from Armor Piercing than others due to their damage typings.
-        -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
-        -   For [Rosen's Hellflame](<Rosen's_Hellflame.md>), it will only circumstantially benefit from Armor Piercing, because of its elemental damage.
-            -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
-    -   Requirements: Power 1, 250
-
-### Power 5 Talents
-
--   Agitating Spark \[Common Talent\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
-    -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
-        -   This visual effect will still happen when hitting a non-burning target with a burn-applying attack, granting Emperor Flame stacks without spreading burn.
-    -   Agitating Spark bypasses block and parry.
-    -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
-    -   Has a 1 second cooldown.
-    -   Can spread to allies. The Controlled Combustion Talent will prevent Agitating Spark spreading burn to yourself and your allies.
-    -   Requirements: Power 5, 100
-
--   Bottom Freeze \[Common Talent\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
-    -   Prevents you from rotating your character and moving around overall.
-    -   Requirements: Power 5, 100
-
--   Flaming Flourish \[Common Talent\] - Set enemies on fire when you flourish or uppercut them.
-    -   You also apply burn on enemies by swinging uppercut nearby. Aka doesn't have to be a hit to apply burn.
-    -   Requirements: Power 5, 100
-
--   Immolation \[Common Talent\] - Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
-    -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.
-    -   "Apply fire damage" applies the burn status effect instead of adding Flamecharm damage. It also applies burn even if you have Eruption Path: Lava Serpent.
-        -   Not all attacks proc this effect, unlike what the Talent description implies. Instead, all instances of Physical damage apply burn, even if the attack doesn't deal pure Physical damage (e.g. [Clutching Shadow](Shadowcast.md#clutching-shadow) or [Metal Eruption](Ironsing.md#metal-eruption)). And all attacks that have the slash (blood particle) vfx on hit like [Ice Daggers](Frostdraw.md#ice-daggers) or [Gale Lunge](Galebreathe.md#gale-lunge) will also proc Immolation, applying burn.
-    -   Requirements: Power 5, 100
-
--   Frozen Pin-Cushion \[Rare Talent\] - Ice Daggers now freeze opponents.
-    -   Requirements: Power 5, 250
-
--   True Ether Bullets \[Rare Talent\] - Using Ether Bullets applies elemental damage of your highest investment.
-    -   Requirements: Power 5, 250
-        -   Landing 2 shots will make the 3rd shot deal elemental damage.
-            -   The 3rd shot apply your attunement's elemental effect:
-                -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
-                -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
-                -   The other Attunements' effects are not listed here due to being irrelevant to this Memento. See the [Talents page](Talents.md#true-ether-bullets) for this Talent's full effect.
-            -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-        -   This Talent does not make guns scale off your attunement attribute, it just converts your Physical Damage to Elemental Damage.

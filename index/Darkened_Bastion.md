@@ -1,9 +1,9 @@
 ---
 title: Darkened Bastion
-revid: 186574
+revid: 186836
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Outfits, Unique Outfits]
+categories: [Outfits, Master Outfits]
 ---
 
 # Darkened Bastion
@@ -11,12 +11,12 @@ categories: [Outfits, Unique Outfits]
 | Darkened Bastion | |
 |---|---|
 | caption | A noble's armor, shattered and reforged into a sleek and dark ensemble. The essence of Shadowcast courses through its fibers like a living entity embedded within the fabric. When you lay your hand upon it, a disquieting sensation washes over you. |
-| tier | Unique |
+| tier | Master |
 | crafting_req | x7 Cloth, x5 Fiber, x5 Umbral Obisidian, x10 Vibrant Gem, 1x Void Feather |
 | price | 1,000 |
 | stat_req | Power 15 |
 | bankable | Yes |
-| droppable | No |
+| droppable | Yes |
 | durability | 2600 |
 | resistances | +30% Physical Armor, +30% Elemental Armor, +20% Shadow Armor |
 | buffs | +50% Ether Regen, +50% Stealth, +16 Sanity |
@@ -25,7 +25,7 @@ categories: [Outfits, Unique Outfits]
 | selling_price | 10 |
 | weight | 1 |
 
-**Darkened Bastion** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
+**Darkened Bastion** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
 ## Statistics
 

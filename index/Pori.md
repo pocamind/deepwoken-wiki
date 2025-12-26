@@ -1,9 +1,9 @@
 ---
 title: Pori
-revid: 168033
+revid: 186819
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Etrea]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea]
 ---
 
 # Pori
@@ -15,9 +15,21 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Etrea]
 | location | Etris |
 | affiliation | Etrea |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ Hey friend! Don't worry I'll get back to work soon. ”
+
+― Pori
+
 ## Description
 
-Pori is a young [Etrean](Etrean.md) NPC in the blacksmith shop in [Etris](Etris.md). He sits outside the shop, selling Cloth and Fiber for 6 and 3 notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 notes apiece.
+Pori is a young [Etrean](Etrean.md) NPC. He sits outside the shop, selling Cloth and Fiber for 6 and 3 notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 notes apiece.
+
+## Location
+
+Pori is located outside of the [Blacksmith](Blacksmith.md) at [Etris](Etris.md).
 
 ## Dialogue
 

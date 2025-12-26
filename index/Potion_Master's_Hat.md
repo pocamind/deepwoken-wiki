@@ -1,6 +1,6 @@
 ---
 title: "Potion Master's Hat"
-revid: 185384
+revid: 186843
 source: https://deepwoken.fandom.com/wiki/Potion_Master's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | Sold in Naan Zakshun's black market for 3,000 |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

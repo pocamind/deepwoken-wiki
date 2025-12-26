@@ -1,33 +1,35 @@
 ---
-title: Mag
-revid: 186920
-source: https://deepwoken.fandom.com/wiki/Mag
+title: Nitron
+revid: 186923
+source: https://deepwoken.fandom.com/wiki/Nitron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Vendors]
+categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Summer Company, Vendors]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
-# Mag
+# Nitron
 
-| Mag | |
+| Nitron | |
 |---|---|
-| name | Mag |
-| aspect | Gremor |
+| name | Nitron |
+| aspect | Vesperian |
 | location | Summer Isle |
 | affiliation | The Summer Company |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
 ## Description
 
-Mag is a Birch [Gremor](Gremor.md) NPC. He can craft [Bullet Casings](Bullet_Casings.md) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
+Nitron is a [Vesperian](Vesperian.md) NPC. They can craft [Bullet Casings](Bullet_Casings.md) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
 
-He wears a Black Hood and the [Summer Company Uniform](Summer_Company_Uniform.md).
+They wear a Black Hood and the [Summer Company Uniform](Summer_Company_Uniform.md).
 
 ## Location
 
-Mag is located in [The Furnace](The_Furnace.md) below the Summer Isle Castle.
+Nitron is located to the side of the [Summer Isle](Summer_Isle.md) castle, near one of the entry ways to [The Furnace](The_Furnace.md).
 
 ## Dialogue
 
@@ -97,8 +99,3 @@ This dialogue can only appear if the player has not made at least 200 Bullet Cas
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   His name is a reference to magazines, a part found on guns.
--   The [Gunsmith](Gunsmith.md) NPC found in the [Guild Base](Guild_Bases.md) is near identical to Mag, with the only exception being their appearance.

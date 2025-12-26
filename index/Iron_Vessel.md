@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 186529
+revid: 186862
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -33,9 +33,27 @@ This content is not accessible outside of this gamemode.
 
 Instead of taking any health damage, automatically block the hit and take posture damage instead, this posture is affected by armor and defense such as Isshin's Ring. Parrying or Spitting gives back far less posture. Reaching full posture guard breaks you and causes you to receive **significantly increased damage from the attack that caused the guard break. This may pose to be fatal, depending on the attack.** This may even pierce Death Nullifications such as [Memory Shards](Memory_Shard.md). All sources of healing are significantly reduced (e.g [Etris Flasks](Etris_Flask.md)).
 
-## Available Mantras
+## Starting Abilities
 
-### Starting Mantras
+-   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it.
+
+-   _**Alloyblood**_ \[Advanced Talent\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
+    -   While at 100 Ironsing, bleed damage is reduced from 15% scaled damage to 10.5%. Bleed from Speed Demon is reduced from 7.5% scaled damage to 5.25%.
+    -   Blood loss reduction is less effective if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchantment.
+    -   Alloyblood's effects linearly scale with Ironsing investment up to its requirement, losing 0.3% bleed damage reduction and 0.75% blood loss reduction per point in Ironsing below 100.
+    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
+
+-   Reforged Alloy \[Weapon Talent\] - Anytime you consume iron rods using Metal Pull or any Rending Needle technique, reduce the cooldown of your next critical based on the amount of rods consumed.
+
+-   Steelvessel \[Memento Talent\] - Landed attacks deal posture damage but when guard broken take massive damage. Posture gain on parry is reduced.
+    
+    -   Take posture damage instead of health damage. You can be guardbroken by being hit.
+        -   Some things like fall damage will ignore this and deal slight health damage.
+    -   Upon being guardbroken, the damage you take will be massively increased. This can prove fatal and ignore certain lifelines such as [Memory Shards](Memory_Shard.md).
+    -   Posture restoration from parrying attacks is reduced.
+    -   All forms of healing, most notably [Etris Flasks](Etris_Flask.md) are massively reduced.
+
+  
 
 | 
 **Name**
@@ -94,7 +112,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -133,7 +151,7 @@ Metal + Blunt + [Bleed](Status_Effects.md#bleed)
 
  | 
 
-Starter
+N/A
 
  |
 | 
@@ -151,6 +169,55 @@ Starter
 -   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to extend its duration.
 
  |
+
+## Deck of Recollection
+
+### Starting Deck
+
+-   Battle Tendency \[Common Talent\] **100** \- You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
+    -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
+
+-   Dancing Guard \[Common Talent\] **100** \- Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.
+
+-   Metal Eater \[Common Talent\] **100** \- When you have no ether, consume Armor durability to cast your Ironsing mantras.
+    -   If you can't cast a mantra due to a lack of ether, consume ~30% total armor durability to cast it.
+        -   Always takes 30% armor, doesn't scale with ether to cast, aka 1 or 9999 ether mantra will always take only 30% armor.
+
+-   Metal Thief \[Common Talent\] **100** \- Pulling an opponent absorbs a portion of their current Armor durability.
+    -   Each rod will steal 2% of your opponent's current armor durability.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Enforcer Pull** (★★☆)
@@ -178,7 +245,7 @@ N/A
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -217,7 +284,7 @@ Metal + Slash
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -234,7 +301,20 @@ Power 1, 250
 
  |
 
-### Power 5 Mantras
+### Power 5
+
+-   **Armored Plating** \[Faction Talent\] **100** \- Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
+    -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
+
+-   Moving Fortress \[Common Talent\] **100** \- Blocking no longer slows you down as much. (+1 Posture)
+    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
+
+-   _Champion's Regalia_ \[Rare Talent\] **100** \- Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds. (+1 Carry Load)
+    -   Indicated by a gold shaded outline on your character.
+    -   Does not work on non-humanoid NPCs.
+    -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
+
+  
 
 | 
 **Name**
@@ -293,7 +373,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -308,7 +388,23 @@ Power 5, 450
 
  |
 
-### Power 10 Mantras
+### Power 10
+
+-   Risky Defense \[Equipment Talent\] **100** \- Decrease how much posture damage you take from physical attacks by 25%, but take 50% more posture damage from mantras.
+    -   Increases incoming posture damage from Mantras by 50%.
+    -   Decreases incoming posture damage from weapon attacks by 25%
+
+-   Unwavering Focus \[Common Talent\] **100** \- When your mantras are parried, receive less posture (scales with intelligence).
+
+-   Unwavering Resolve \[Common Talent\] **100** \- Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
+    -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40.
+    -   Because Iron Vessel has 0 Strength, this will only grant 15.66% posture reduction from being parried.
+
+-   Alloy of the Heavens \[Memento Talent\] **200** \- Posture attack from mobs reduced by 50%
+    
+    -   Reduces posture damage taken from mobs by 50%.
+
+  
 
 | 
 **Name**
@@ -367,7 +463,7 @@ Metal + Slash
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -411,7 +507,7 @@ Slash
 
  | 
 
-Power 10, 700
+700
 
  |
 | 
@@ -428,7 +524,17 @@ Power 10, 700
 
  |
 
-### Power 15 Mantras
+### Power 15
+
+-   Brunt \[Equipment Talent\] **100** \- While 2-handing, you take less posture damage.
+    -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
+
+-   Matador \[Common Talent\] **100** \- Deal +20% more damage to human enemies with hyperarmor.
+    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
+
+-   _**Piercing Blow**_ \[Advanced Talent\] **350** \- Attacks that break an opponent's block ignore their Armor resistances.
+
+  
 
 | 
 **Name**
@@ -487,7 +593,7 @@ Ironsing
 
  | 
 
-Power 15, 950
+950
 
  |
 | 
@@ -499,7 +605,16 @@ Power 15, 950
 
  |
 
-### Power 20 Mantras
+### Power 20
+
+-   _**Reshape and Remold**_ \[Advanced Talent\] **350** \- Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
+    -   Increases the armor **drain** effect of your rods by 25%, from 2% drain to 2.5%.
+    -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
+    -   5% DMG bonus is currently bugged. (Since Summer 2023)
+    -   Your Scrapsinger proc vfx is changed after obtaining this Talent.
+    -   This Memento does not obtain Gilded Path: Scrapsinger at any point, causing this Talent to not function.
+
+  
 
 | 
 **Name**
@@ -555,7 +670,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
-Power 20, 1,200
+1,200
 
  |
 | 
@@ -593,7 +708,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 
  | 
 
-Power 20, 1,200
+1,200
 
  |
 | 
@@ -608,108 +723,6 @@ Power 20, 1,200
 -   Sends you 5 studs forward on cast
 
  |
-
-## Available Talents
-
-### Starting Talents
-
--   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it.
-    -   Requirements: Starter
-
--   _**Alloyblood**_ \[Advanced Talent\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
-    -   While at 100 Ironsing, bleed damage is reduced from 15% scaled damage to 10.5%. Bleed from Speed Demon is reduced from 7.5% scaled damage to 5.25%.
-    -   Blood loss reduction is less effective if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchantment.
-    -   Alloyblood's effects linearly scale with Ironsing investment up to its requirement, losing 0.3% bleed damage reduction and 0.75% blood loss reduction per point in Ironsing below 100.
-    -   Makes your blood a shade of light grey when being attacked by a bleed damage attack.
-    -   Requirements: Starter
-
--   Reforged Alloy \[Weapon Talent\] - Anytime you consume iron rods using Metal Pull or any Rending Needle technique, reduce the cooldown of your next critical based on the amount of rods consumed.
-    
-    -   Requirements: Starter
-
--   Steelvessel \[Memento Talent\] - Landed attacks deal posture damage but when guard broken take massive damage. Posture gain on parry is reduced.
-    
-    -   Take posture damage instead of health damage. You can be guardbroken by being hit.
-        -   Some things like fall damage will ignore this and deal slight health damage.
-    -   Upon being guardbroken, the damage you take will be massively increased. This can prove fatal and ignore certain lifelines such as [Memory Shards](Memory_Shard.md).
-    -   Posture restoration from parrying attacks is reduced.
-    -   All forms of healing, most notably [Etris Flasks](Etris_Flask.md) are massively reduced.
-    -   Requirements: Starter
-
--   Battle Tendency \[Common Talent\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
-    -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
-    -   Requirements: Power 1, 100
-
--   Dancing Guard \[Common Talent\] - Parrying an opponent and then parrying another enemy in quick succession applies slow for 7s.
-    -   Requirements: Power 1, 100
-
--   Metal Eater \[Common Talent\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
-    -   If you can't cast a mantra due to a lack of ether, consume ~30% total armor durability to cast it.
-        -   Always takes 30% armor, doesn't scale with ether to cast, aka 1 or 9999 ether mantra will always take only 30% armor.
-    -   Requirements: Power 1, 100
-
--   Metal Thief \[Common Talent\] - Pulling an opponent absorbs a portion of their current Armor durability.
-    -   Each rod will steal 2% of your opponent's current armor durability.
-    -   Requirements: Power 1, 100
-
-### Power 5 Talents
-
--   **Armored Plating** \[Faction Talent\] - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
-    -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
-    -   Requirements: Power 5, 100
-
--   Moving Fortress \[Common Talent\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
-    -   Requirements: Power 5, 100
-
--   _Champion's Regalia_ \[Rare Talent\] - Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds. (+1 Carry Load)
-    -   Indicated by a gold shaded outline on your character.
-    -   Does not work on non-humanoid NPCs.
-    -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
-    -   Requirements: Power 5, 250
-
-### Power 10 Talents
-
--   Alloy of the Heavens \[Memento Talent\] - Posture attack from mobs reduced by 50%
-    
-    -   Reduces posture damage taken from mobs by 50%.
-    -   Prerequisites: Power 10, 200
-
--   Risky Defense \[Equipment Talent\] - Decrease how much posture damage you take from physical attacks by 25%, but take 50% more posture damage from mantras.
-    -   Increases incoming posture damage from Mantras by 50%.
-    -   Decreases incoming posture damage from weapon attacks by 25%
-    -   Requirements: Power 10, 100
-
--   Unwavering Focus \[Common Talent\] - When your mantras are parried, receive less posture (scales with intelligence).
-    -   Requirements: Power 10, 100
-
--   Unwavering Resolve \[Common Talent\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
-    -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40.
-    -   Because Iron Vessel has 0 Strength, this will only grant 15.66% posture reduction from being parried.
-    -   Requirements: Power 10, 100
-
-### Power 15 Talents
-
--   Brunt \[Equipment Talent\] - While 2-handing, you take less posture damage.
-    -   Reduce posture damage taken by 10% while 2 handing a weapon (unavailable for light weapons).
-    -   Requirements: Power 15, 100
-
--   Matador \[Common Talent\] - Deal +20% more damage to human enemies with hyperarmor.
-    -   Doesn't work on Non-Humanoid [Monsters](Monsters.md).
-    -   Requirements: Power 15, 100
-
--   _**Piercing Blow**_ \[Advanced Talent\] - Attacks that break an opponent's block ignore their Armor resistances.
-    -   Requirements: Power 15, 350
-
-### Power 20 Talents
-
--   _**Reshape and Remold**_ \[Advanced Talent\] - Successful procs of Scrapsinger will increase the amount of armor damage your opponent takes. After hitting 10 stacks, the opponent will take +5% damage until the stacks drop below 10.
-    -   Increases the armor **drain** effect of your rods by 25%, from 2% drain to 2.5%.
-    -   The effectiveness of the increased armor drain scales down if you have less than 70 Ironsing.
-    -   5% DMG bonus is currently bugged. (Since Summer 2023)
-    -   Your Scrapsinger proc vfx is changed after obtaining this Talent.
-    -   This Memento does not obtain Scrapsinger at any point, causing this Talent to not function.
-    -   Requirements: Power 20, 350
 
 ## Boss Unlocks
 

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 186592
+revid: 186903
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -210,6 +210,7 @@ Traan's item descriptions will change randomly each time he sell goods from his 
 -   _Yes, this is my real name... legally._
 -   _You got any Ongo slices? I could really go for a snack..._
 -   _You know, I'm told that Drallis Ehr guy \*really\* likes this one... If that makes you any more interested?_
+-   _Y'know, if you don't like this thing very much, it'll at least make for a lovely decoration!_
 
 ## Shop Rotation
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 176908
+revid: 186844
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
@@ -19,7 +19,7 @@ categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
 | droppable | Yes |
 | durability | 2000 |
 | resistances | +30% Physical Armor, +25% Elemental Armor |
-| obtainment | Authority Ensign Origin, Command Division (automatically crafted), Sold by Traan ZakshunChests from:, Fort Merit, The Depths, Moon's Eyrie |
+| obtainment | Authority Ensign Origin, Command Division (automatically crafted), Sold in Traan Zakshun's regular shop for 200 Chests from:, Fort Merit, The Depths, Moon's EyrieVow of Iron , Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 

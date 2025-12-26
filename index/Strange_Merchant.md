@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 186571
+revid: 186801
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -389,40 +389,6 @@ Oath
 
  |
 
-### Power 15
-
--   Charismatic Cast \[Common Talent\] **100** \- Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
-    -   This charm lasts 10s (5s against Disbelief Talent).
-    -   Targets _you've_ Charmed will deal 10% less damage to you.
-    -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen.
-
--   Manipulator \[Common Talent\] **100** \- Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
-    -   10 second cooldown.
-    -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
-        -   Will not allow you to proc Manipulator twice as it has a cooldown.
-    -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
-    -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
-        -   For example, a 5 hit multihit critical will only gain the 20% damage bonus from Manipulator on the first hit as it only procs once and then goes on cooldown.
-        -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
-
--   Narcissist \[Common Talent\] **100** \- Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
-    -   Overcharms yourself for 4 seconds.
-    -   Charms yourself for 8 seconds (halved to 4s if you have Disbelief).
-        -   The self Charm proc reduces self damage taken by 10% and allows you to benefit from Charismatic Cast's secondary effect, which reduces your time knocked by 50%.
-    -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents.
-
--   Snake Oil \[Common Talent\] **100** \- Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you.
-    -   Gain 40% more notes from selling items.
-
--   Protagonist Syndrome \[Oath Talent\] **200** \- The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast.
-    -   Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage.
-
--   _Golden Tongue_ \[Rare Talent\] **250** \- Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)
-    -   Sending a message in chat or using an emote will proc this Talent.
-    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to [Reinforce](Attunement-less.md#reinforce) (does not stack).
-    -   The buff is random for each person affected.
-    -   For every point in Charisma above 40, the cooldown will be decreased by 0.25 seconds, having a 45 second cooldown at 100 Charisma.
-
   
 
 | 
@@ -493,6 +459,40 @@ Oath
     -   Deals 18 total hits of Oath damage, with 9.333 base damage per hit.
 
  |
+
+### Power 15
+
+-   Charismatic Cast \[Common Talent\] **100** \- Landing a hit with a mantra on an enemy applies [Charmed](Status_Effects.md#charm). Allies recover from being knocked twice as quickly when [Charmed](Status_Effects.md#charm) by you.
+    -   This charm lasts 10s (5s against Disbelief Talent).
+    -   Targets _you've_ Charmed will deal 10% less damage to you.
+    -   When applying Charm to an already Charmed target, if the new Charm's _total duration_ is longer than the current Charm's _remaining duration_, the original Charm will be replaced. If not, nothing will happen.
+
+-   Manipulator \[Common Talent\] **100** \- Deal 20% more critical attack damage to charmed enemies, but the effect is removed on impact.
+    -   10 second cooldown.
+    -   Works insanely well with Unnecessary Theatrics and [Overcharm](Status_Effects.md#overcharm) as they reapply the charm after the charm is removed on the same hit.
+        -   Will not allow you to proc Manipulator twice as it has a cooldown.
+    -   Tough Love and Manipulator proc at the same time, allowing for a 30% damage bonus.
+    -   Manipulator is inherently weaker on multihit criticals, but that doesn't mean it's always bad.
+        -   For example, a 5 hit multihit critical will only gain the 20% damage bonus from Manipulator on the first hit as it only procs once and then goes on cooldown.
+        -   The effectiveness of Manipulator on multihitting criticals depends entirely on the critical itself, with its hit count and scaled damage multipliers being very important factors, as well as whether or not you expect to even land the whole thing. Sometimes front loading the critical proves more effective than having a more consistently applied damage multiplier.
+
+-   Narcissist \[Common Talent\] **100** \- Charming an already Charmed opponent Overcharms you briefly. Guess you really were always that great.
+    -   Overcharms yourself for 4 seconds.
+    -   Charms yourself for 8 seconds (halved to 4s if you have Disbelief).
+        -   The self Charm proc reduces self damage taken by 10% and allows you to benefit from Charismatic Cast's secondary effect, which reduces your time knocked by 50%.
+    -   Landing M1s and criticals while Overcharmed charms your opponent for 5 seconds (halved to 2.5s if they have Disbelief). Additionally, Overcharm grants a 10% damage bonus to melee attacks when hitting charmed opponents.
+
+-   Snake Oil \[Common Talent\] **100** \- Okay, the amount you're charging people for your items is getting downright criminal. But I'm just a Talent description, I can't stop you.
+    -   Gain 40% more notes from selling items.
+
+-   Protagonist Syndrome \[Oath Talent\] **200** \- The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast.
+    -   Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage.
+
+-   _Golden Tongue_ \[Rare Talent\] **250** \- Typing or using a gesture gives a random buff to you and those around you. (60 second cooldown)
+    -   Sending a message in chat or using an emote will proc this Talent.
+    -   Can either restore 30% of max ether or grant 10% damage reduction for 30 seconds, similar to [Reinforce](Attunement-less.md#reinforce) (does not stack).
+    -   The buff is random for each person affected.
+    -   For every point in Charisma above 40, the cooldown will be decreased by 0.25 seconds, having a 45 second cooldown at 100 Charisma.
 
 ### Power 20
 

@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 186533
+revid: 186848
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -32,9 +32,15 @@ _If you're looking for the character of the same name, see [Saint Jay (individua
 
 Saint Jay (Memento) is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode, It follows in the path of [Saint Jay](<Saint_Jay_(individual).md>), a disciple of the Hero of Frost, [Faust](Faust.md) and is unlocked by default.
 
-## Available Mantras
+## Deck of Recollection
 
-### Starting Mantras
+### Starting Deck
+
+-   Saint Jay \[Rare Talent\] **250** \- When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased.
+
+-   Preceding Chill \[Rare Talent\] **250** \- Enemies hit during the last moments of your ice beam are frozen.
+
+  
 
 | 
 **Name**
@@ -93,7 +99,7 @@ Ice
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -138,7 +144,7 @@ Ice
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -183,7 +189,7 @@ Slash
 
  | 
 
-Power 1, 250
+250
 
  |
 | 
@@ -198,7 +204,18 @@ Power 1, 250
 
  |
 
-### Power 5 Mantras
+### Power 5
+
+-   Frost Buster \[Common Talent\] **100** \- Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
+    -   Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats.
+
+-   Brutal Momentum \[Common Talent\] **100** \- Heavy Weapons Successfully dodging will give you hyperarmour on your next swing.
+
+-   Precision Hitter \[Common Talent\] **100** \- Your Basic Attack posture damage is increased by 15%.
+
+-   Warrior's Swing \[Common Talent\] **100** \- Heavy Weapons Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
+
+  
 
 | 
 **Name**
@@ -257,7 +274,7 @@ Ice + Slash
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -273,44 +290,19 @@ Power 5, 450
 
  |
 
-## Available Talents
+### Power 10
 
-### Starting Talents
+-   Cold Front \[Common Talent\] **100** \- Your Vent is imbued with glacial frost.
 
--   Saint Jay \[Rare Talent\] - When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased.
-    -   Requirements: Power 1, 250
+-   Frostride \[Memento Talent\] **200** \- Your footsteps echo the legend of Saint Jay, freezing the sea beneath.
+    -   You can now walk on water by creating ice below your feet. This has no cooldown and does not cost Ether.
 
--   Preceding Chill \[Rare Talent\] - Enemies hit during the last moments of your ice beam are frozen.
-    -   Requirements: Power 1, 250
+-   Frostbite \[Common Talent\] **100** \- Enemies can no longer heal when under the effect of your chill
 
-### Power 5 Talents
-
--   Frost Buster \[Common Talent\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
-    -   Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats.
-    -   Requirements: Power 5, 100
-
--   Brutal Momentum \[Common Talent\] - Heavy Weapons Successfully dodging will give you hyperarmour on your next swing.
-    -   Requirements: Power 5, 100
-
--   Precision Hitter \[Common Talent\] - Your Basic Attack posture damage is increased by 15%.
-    -   Requirements: Power 5, 100
-
--   Warrior's Swing \[Common Talent\] - Heavy Weapons Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
-    -   Requirements: Power 5, 100
-
-### Power 10 Talents
-
--   Cold Front \[Common Talent\] - Your Vent is imbued with glacial frost.
-    -   Requirements: Power 10, 100
-
--   Frostride \[Momento Talent\] -Your footsteps echo the legend of Saint Jay, freezing the sea beneath.
-    -   Requirements: Power 10, 250
-
--   Frostbite \[Common Talent\] - Enemies can no longer heal when under the effect of your chill
-    -   Requirements: Power 10, 100
--   Frozen Anchor \[Common Talent\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
-    -   Requirements: Power 10, 100
+-   Frozen Anchor \[Common Talent\] **100** \- Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
 
 ## Boss Unlocks
+
+### True Heart of Enmity
 
 Golden rat: Cryonis
