@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 187159
+revid: 187190
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
@@ -24,15 +24,15 @@ Template:Creature Infobox V3
 
 ## Description
 
-The True Heart of Enmity is a Boss found in the [First Layer](First_Layer.md) of the Depths, located in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). It is the same incarnation by the [Voice of Enmity](https://deepwoken.fandom.com/wiki/Voices_of_the_Depths#Voice_of_Enmity) as in the Pathfinder gamemode, with a little bit of extra moveset and difficult fighting experience, yet less health than usual. This boss is not optional, as they are mandatory to uncap Power 15 and break the barrier that keeps [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>) safe.
+The True Heart of Enmity is a boss encountered in the [Depths Trial](Cathedral_of_the_Interstice.md#the-trial), after defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md). It is the same incarnation by the [Voice of Enmity](https://deepwoken.fandom.com/wiki/Voices_of_the_Depths#Voice_of_Enmity) as in the Pathfinder gamemode, with a new, more aggressive moveset. This boss is not optional, as they are mandatory to uncap Power 15 and break the barrier that protects [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>).
 
 It is the same gargantuan creature wrought of iron and animosity, though what makes it more distinct is the visual effect on the back of it's head, similar to the [Thrall of Enmity](Thrall_of_Enmity.md), which emits a spinning halo of dark, yellow and white colors and projects light. The boss area in this room is more bright, perhaps due to few amounts of people escaping the depths and beating Enmity's physical form, but as the years (38) went by, his prime may got laid since more people faced this kind of terror and bested it more frequently.
 
 ### Starting the Fight with True Enmity
 
-1.  Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md) (can be done at any power).
+1.  Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md).
 2.  Recommended but not mandatory: Reach Power 15.
-3.  Make your way to the Depths and enter the elevator, preferably alone.
+3.  Make your way to [The Depths](First_Layer.md) and take the elevator to the trial (This boss cannot be fought with multiple players).
 4.  The [Voices of the Depths](Voices_of_the_Depths.md) then have a dialog, contemplating what to do with you, and Voice of Enmity incarnates in his physical form, starting the fight.
 
 ## Moves

@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 186797
+revid: 187185
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -73,20 +73,20 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
   <th>Enemies</th>
 </tr>
 <tr>
-  <td>Any power after defeating <a href="Dravik,_The_Rat_King.md">Dravik, The Rat King</a></td>
-  <td><a href="True_Heart_of_Enmity.md">True Heart of Enmity</a> <i>(Only once, subsequent trials will be normal.)</i></td>
+  <td>Any power after defeating <a href="Dravik,_The_Rat_King.md">Dravik, The Rat King</a><abbr></abbr></td>
+  <td><a href="True_Heart_of_Enmity.md">True Heart of Enmity</a><abbr></abbr> <i>(Only once, subsequent trials will be normal.)</i></td>
 </tr>
 <tr>
   <td>1-5</td>
-  <td><a href="Bone_Keeper.md">Bone Keeper</a> or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
+  <td><a href="Bone_Keeper.md">Bone Keeper</a> or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a><abbr></abbr></td>
 </tr>
 <tr>
   <td>6-10</td>
-  <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
+  <td><a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a><abbr></abbr></td>
 </tr>
 <tr>
   <td>11-20</td>
-  <td>2 waves of a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a></td>
+  <td>2 waves of a <a href="Prime_Megalodaunt.md">Prime Megalodaunt</a>, <a href="Parliament.md">Parliament</a>, <a href="Bone_Keeper.md">Bone Keeper</a>, or <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a><abbr></abbr></td>
 </tr>
 </tbody>
 </table>

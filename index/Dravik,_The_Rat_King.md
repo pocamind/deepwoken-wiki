@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 187116
+revid: 187192
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -26,16 +26,16 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Dravik, the Rat King is an instanced [boss](Bosses.md) fought in the [Vault of the Aureate](Vault_of_the_Aureate.md) which is a boundary located in the [Rat's Den](<Rat's_Den.md>), near eastern most Waterlock in the Etrean Luminant. He is the first King of the Golden Rats and the one enforcing the Golden Rule. This boss is not optional, as he is mandatory to fight the [True Heart of Enmity](True_Heart_of_Enmity.md). The fight unlocks the [Flashing Thunder](Flashing_Thunder.md) [Memento](Mementos.md) upon defeat while using the [Sightless](Sightless.md) [Memento](Mementos.md). When Dravik is killed, he appears as a memory inside the [The Cerebral Spire](The_Cerebral_Spire.md). Upon talking to him, he will tell you to destroy the statue inside [Etris Palace](Etris_Palace.md) to break the barrier protecting [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>). To destroy the statue you need to defeat the [True Heart of Enmity](True_Heart_of_Enmity.md) in the depths trial.
+Dravik, the Rat King is an instanced [boss](Bosses.md) fought in the [Vault of the Aureate](Vault_of_the_Aureate.md) which is a boundary located in the [The Golden Rat](The_Golden_Rat.md), near eastern most Waterlock in the [Etrean Luminant](Luminants.md). He is the first King of the Golden Rats and the one enforcing the Golden Rule. This boss is not optional, as he is mandatory to fight the [True Heart of Enmity](True_Heart_of_Enmity.md). The fight unlocks the [Flashing Thunder](Flashing_Thunder.md) [Memento](Mementos.md) upon defeat while using the [Sightless](Sightless.md) [Memento](Mementos.md). When Dravik is killed, he appears as a memory inside the [The Cerebral Spire](The_Cerebral_Spire.md). Upon talking to him, he will tell you to destroy the statue inside [Etris Palace](Etris_Palace.md) to break the barrier protecting [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>). To destroy the statue you need to defeat the True Heart of Enmity in the [Depths Trial](Cathedral_of_the_Interstice.md#the-trial).
 
 He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick white beard. A jagged scar cuts through his left eye. Light serpentine scales can be seen on his cheekbones and eyelids. He wears heavy, dark plated armor with sharp shoulder guards and fine metal designs. A worn, dark cloak or scarf hangs from his shoulders. He uses a custom version of the [Soulwrought Greataxe](Crazy_Slots.md) as his arsenal with a glowing golden crescent blade, suggesting it has been magically enhanced. The handle is dark iron and made for a strong grip.
 
 ### Starting the Fight with Dravik
 
-1.  Recommended but not necessary: Defeat the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) at the [Temple of Mur](Temple_of_Mur.md) to uncap your power past 5, and obtain your [Memento](Mementos.md)\-specific talents.
-2.  Make your way to the Waterlocks in-between the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md) and enter a small passage, leading to [The Golden Rat](The_Golden_Rat.md).
-3.  Descend down into [The Golden Rat](The_Golden_Rat.md), hugging the right wall until you find a large boundary in the floor that teleports you to the boss arena.
-4.  Recommended but not necessary: Keep hugging the right wall until you encounter a boundary in a doorway. This unlocks the Golden Rat boundary, letting you teleport back whenever you need to retry the fight.
+1.  Recommended but not necessary: Defeat the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) to uncap your power past 5, and obtain your Memento-specific talents and mantras.
+2.  Make your way to the Waterlocks in-between the [Etrean Sea](The_Etrean_Sea.md) and [Aratel Sea](The_Aratel_Sea.md) and enter a small passage, leading to The Golden Rat.
+3.  Descend down into The Golden Rat, and hug the right wall until you find a large boundary in the floor that teleports you to the boss arena.
+4.  Recommended but not necessary: Keep hugging the right wall until you encounter a boundary in a doorway. This unlocks the Golden Rat Den boundary, letting you teleport back whenever you need to retry the fight.
 5.  Upon loading in and going through his intro, the fight begins.
 
 ## Moveset
@@ -233,7 +233,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
         -   **Mantras**
         -   **Damaging enchant effects (e.g. Storm and Chilling)**
             -   Umbral Knight is not affected by this.
-        -   **Some criticals (currently only Pale Briar and Kyrsieger confirmed)**
+        -   **Some criticals (currently only Pale Briar, First LIght and Kyrsieger confirmed)**
 
   
 

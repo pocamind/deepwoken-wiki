@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 186944
+revid: 187182
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -21,7 +21,7 @@ The path ahead is not a forgiving one. ”
 
 Vow of Iron is one of two Paths (gamemodes) available in _Deepwoken_, the other being [Pathfinder](Pathfinder.md).
 
-In Vow of Iron, you relive the events of [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>)'s rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, The Inheritor, wield in an attempt to understand what became of the world during these times.
+In Vow of Iron, you relive the events of [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>) rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, The Inheritor, wield in an attempt to understand what became of the world during these times.
 
 Vow of Iron is, in essence, a hard mode of _Deepwoken_. Featuring new enemies, bosses, restricted and tweaked progression, and a new map, showcasing Lumen as it was 38 years before the arrival of the Pathfinder.
 
@@ -61,10 +61,10 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 ### Combat
 
 -   Vow of Iron has no passive health regeneration whatsoever. Most damage you take is semi permanent, unless you have access to some of the rare sources of healing available.
-    -   [Etris Flasks](Etris_Flask.md) can be quickly drank to restore 50% HP. However, this is a limited resource that will only be refilled by returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering [The Depths](<The_Depths_(Vow_of_Iron).md>), or by escaping The Depths. Upon creating your character, you will only have 1 [Etris Flask](Etris_Flask.md) charge, but more charges can be bought across the Luminant.
+    -   [Etris Flasks](Etris_Flask.md) can be quickly drank to restore 50% HP (60% with [Etrean](Etrean.md)). However, this is a limited resource that will only be refilled by returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering [The Depths](<The_Depths_(Vow_of_Iron).md>), or by escaping The Depths. Upon creating your character, you will only have 1 Etris Flask charge, but more charges can be bought across the Luminant.
     -   [Campfires](Campfire_Pit.md) can still be used to restore your health.
     -   Health Packs of any source are greatly reduced or outright removed.
-    -   Entering a [Boundary](Boundary.md) will heal you to full however.
+    -   Entering a Boundary will heal you to full however.
 -   Vow of Iron characters have a permanently stained health bar. Any death will send them to The Depths.
 -   Vow of Iron characters face a unique Depth Trial that features [Bone Keeper](Bone_Keeper.md), [Parliament](Parliament.md), [Prime Megalodaunt](Prime_Megalodaunt.md) and [Nautilodaunt Officiate](Nautilodaunt_Officiate.md).
 -   Auto Parry is completely removed, requiring you to manually parry continuous attacks.
@@ -97,6 +97,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   World Events now only include bosses such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md).
     -   At times where either Doom of Caeranthil or Interluminary Parasol would appear in Pathfinder, Caeranthil only appears instead.
     -   At times where Carnival of Hearts would appear in Pathfinder, Interluminary Parasol only appears instead.
--   [Boundaries](Boundary.md) can be found in set, static locations. Boundaries act as a fast travel point to enter and leave [the Cerebral Spire](The_Cerebral_Spire.md). The locations of these Boundaries can be found on the [Boundary](Boundary.md) page.
+-   [Boundaries](Boundary.md) can be found in set, static locations. Boundaries act as a fast travel point to enter and leave [The Cerebral Spire](The_Cerebral_Spire.md). The locations of these Boundaries can be found on the [Boundary](Boundary.md) page.
+    
     -   Boundaries save between characters made on that same slot.
     -   Entering a Boundary will heal you to full and will automatically cash in any chests you are carrying.

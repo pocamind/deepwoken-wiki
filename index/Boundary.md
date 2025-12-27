@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 185577
+revid: 187175
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -196,5 +196,12 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
 (Start at the side of the island with the boat spawner and Petris. Head straight towards Ferryman, turn right, then go into the ruined tower.)
+
+ |
+| Moon Boundary ([Moon's Eyrie](<Moon's_Eyrie.md>)) | 
+
+ | 
+
+(You can go to the small land patch below the [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md) and essentially sail straight from there. You also may be able to see a shadow of Moon's Eyrie from said land patch)
 
  |

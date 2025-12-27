@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 186985
+revid: 187191
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3954,9 +3954,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Withered Flame
 
 -   Ash Ember \[Common Talent, Flamecharm Exclusive\] - The more wither your opponent has, the more damage your burn deals.
+    -   At 90 FLM 90 WPN you gain a 0.0175 burn damage increase per 1 point of wither.
+    -   Ash Ember loses 0.00005 damage per point taken out of Flamecharm OR Weapon below 90 FLM and WPN. The damage calculator can be found [here](https://www.desmos.com/calculator/otupsoueo2).
     -   Prerequisites: 90 Flamecharm, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
--   At 90 FLM 90 WPN you gain a 0.0175 burn damage increase per 1 point of wither.
--   Ash Ember loses 0.00005 damage per point taken out of Flamecharm OR Weapon below 90 FLM and WPN. The damage calculator can be found [here](https://www.desmos.com/calculator/otupsoueo2).
 
 -   Scorching Decay \[Common Talent, Flamecharm Exclusive\] - The wither dealt from your Emperor's Flame is massively increased.
     -   Increases the Wither application from your Emperor Flame from 25 to 75.

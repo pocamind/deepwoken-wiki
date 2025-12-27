@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 187145
+revid: 187167
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), formerly known as the Shogun Captain, is an instanced boss near the [Deep Thresher Nest](Deep_Thresher_Nest.md) encountered through its location by a boundary. This boss is not optional, as they are mandatory to uncap Power 5, though the order in which you fight this Shogun or [Dravik](Dravik,_The_Rat_King.md) doesn't matter, since both can be accessed at the beginning of your journey.
+The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), formerly known as the Shogun Captain, is an instanced boss near the [Deep Thresher Nest](Deep_Thresher_Nest.md) encountered through its location by a boundary. This boss is optional to challenge [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>), however each [Memento](Mementos.md)has certain talents and mantras that can only be obtained by defeating this boss. You also won't obtain a completion mark on your Memento tag in the character creation menu.
 
 ### Starting Fight with Shogun
 
