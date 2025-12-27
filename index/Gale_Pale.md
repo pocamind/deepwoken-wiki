@@ -1,9 +1,9 @@
 ---
 title: Gale Pale
-revid: 185706
+revid: 187115
 source: https://deepwoken.fandom.com/wiki/Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons]
+categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons]
 ---
 
 # Gale Pale
@@ -29,6 +29,8 @@ categories: [Vow of Iron Exclusive, Weapons]
 | pass down | Yes |
 | obtainment | Jungle Jim |
 | description | An artisinal reuse of an old faithful greathammer. Coated in silver, this Pale Morning can glide through the winds current like nothing to maul it's opponents. |
+
+Variants: [Pale Morning](Pale_Morning.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

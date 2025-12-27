@@ -1,6 +1,6 @@
 ---
 title: Stone
-revid: 186346
+revid: 186999
 source: https://deepwoken.fandom.com/wiki/Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -25,8 +25,8 @@ This enchantment changes your weapon's color to brown and gives it a stone textu
 
 ## Effect
 
-Stone increases adds a flat 0.25 true damage to your guardbreaks for every weapon investment you have, capping at +25 damage with 100 weapon investment.
+Stone increases adds a flat 0.25 true damage to your guardbreaks for every 1 weapon investment you have, capping at +25 damage with 100 weapon investment.
 
 ### Notes
 
--   [Wyrmtooth](Wyrmtooth.md) will prioritize its heavy investment over its medium investment for the damage scaling.
+-   [Wyrmtooth](Wyrmtooth.md) will prioritize heavy investment over medium investment for the damage scaling.

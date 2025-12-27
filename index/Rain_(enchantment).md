@@ -1,6 +1,6 @@
 ---
 title: Rain (enchantment)
-revid: 180597
+revid: 186998
 source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
@@ -8,7 +8,7 @@ categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
 
 # Rain (enchantment)
 
-| Rain (enchantment) | |
+| Rain | |
 |---|---|
 | bankable | Yes |
 | droppable | Yes |

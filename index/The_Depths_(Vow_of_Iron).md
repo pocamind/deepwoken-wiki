@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 186308
+revid: 187118
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, Locations, Locations in the First Layer]
@@ -90,7 +90,7 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
   <td><center><b>Vertigo</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>The world swirls. You can barely keep your balance.</center></td>
-  <td><center>Randomally trip when running for extended periods of time.</center></td>
+  <td><center>Randomly trip when running for extended periods of time.</center></td>
   <td><center>I</center></td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
   <td><center><b>Cibophobia</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>All food appears rotten and foul to you.</center></td>
-  <td><center>Youre unable to consume food.</center></td>
+  <td><center>You're unable to consume food.</center></td>
   <td><center>Limitless</center></td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its 
   <td><center><b>Restless</b><br>
   File:Etherphobia1.png</center></td>
   <td><center>On and on and on. Ever-churning. Ceaseless thoughts keep you from resting.</center></td>
-  <td><center>Youre unable to rest at campfires. ( Heliodar phenoix is included )</center></td>
+  <td><center>You're unable to rest at campfires. ( Heliodar phenoix is included )</center></td>
   <td><center>I</center></td>
 </tr>
 <tr>

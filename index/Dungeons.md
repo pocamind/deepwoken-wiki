@@ -1,6 +1,6 @@
 ---
 title: Dungeons
-revid: 186056
+revid: 187054
 source: https://deepwoken.fandom.com/wiki/Dungeons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Dungeons, Locations]
@@ -13,6 +13,8 @@ categories: [Pages with broken file links, Mechanics, Dungeons, Locations]
 A Dungeon is an isolated area in Deepwoken, typically for a boss fight or grinding area. Dungeons are unique; they teleport the player to a server (alone, or with a group depending on the dungeon), and isolates said player away from the rest of the game.
 
 The player is allowed to leave the dungeon either after a set goal is reached, if they die, or at any point, depending on the dungeon. Deepwoken labels the area as "Dungeon" in the top right area of your screen.
+
+All players within Dungeons automatically count as allies to each other.
 
 ## List of Dungeons
 

@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 181206
+revid: 187125
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -38,7 +38,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 
 ## Critical
 
-The user briefly winds up before rushing forward, briefly ragdolling the target when hit. If landed, the user can follow up using an M1 to initiate an overhead strike that ragdolls and sends the target flying.
+The user briefly winds up before rushing forward, briefly ragdolling the target when hit. If landed, the user can follow up using an M1 to initiate an overhead strike that ragdolls and sends the target flying. The rush has a **scaled damage multiplier** of **1x**, and the follow up has a **scaled multiplier of 1.2x,** meaning the two are actually not far apart in damage.
 
 The critical has a cooldown of **9 seconds**.
 
