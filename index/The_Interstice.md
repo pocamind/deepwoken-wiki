@@ -1,6 +1,6 @@
 ---
 title: The Interstice
-revid: 166715
+revid: 187150
 source: https://deepwoken.fandom.com/wiki/The_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations]
@@ -23,3 +23,4 @@ Pay attention while travelling through here however, as there are potholes that 
 ## Trivia
 
 -   The center of The Interstice is located at X 50000, Y 150, Z 50000.
+-   The Interstice is a [Voidzone](Voidzones.md) in the Overworld due to its in-game location technically being above the [Voidsea.](Voidsea.md)

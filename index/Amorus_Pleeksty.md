@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 186026
+revid: 187157
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Black Divers]
@@ -12,7 +12,7 @@ categories: [Black Divers]
 |---|---|
 | name | Amorus Pleeksty |
 | aspect | Tiran |
-| affiliation | Himself, The Divers[1] (formerly) |
+| affiliation | The Divers[1] |
 
 “ The Eternal Flame and the Failure of Man. Amorus Pleeksty. I enjoy his work. ”
 
@@ -20,9 +20,9 @@ categories: [Black Divers]
 
 ## Description
 
-**Amorus Pleeksty** is a legendary former Black Diver, known for inventing [Flamecharm](Flamecharm.md) and being one of the three known Deepwoken, the others being the First Prophet of [The Ministry](The_Ministry.md), and [Drallis Ehr](Drallis_Ehr.md) of [The Central Authority](The_Central_Authority.md). This status of being a Deepwoken grants immortality. He is currently in the Third Layer of [The Depths](The_Depths.md), also known as The Vents.
+**Amorus Pleeksty** is a legendary former Black Diver, known for inventing [Flamecharm](Flamecharm.md) and being one of the two known Deepwoken, the other being the First Prophet of [The Ministry](The_Ministry.md). This status of being a Deepwoken grants immortality.
 
-Amorus ate a part of the Drowned God of the Third Layer, [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), in the form of a meteor flower he encountered in the gardens of the layer. This is what gave him his pyrokinetic powers, allowing him to talk to, command, and "charm" fire itself. This resulted in him inventing the modern art of [Flamecharm](Flamecharm.md), turning what was originally a crude magic largely conjured by accident into an actual technique. He is described as extremely powerful, with ragoozer stating that Amorus "would beat [Akira](Akira.md) up and down the eastern lum."
+Amorus ate a part of the Drowned God of the Third Layer, [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), in the form of a meteor flower he encountered in the gardens of the layer. This is what gave him his pyrokinetic powers, allowing him to talk to, command, and "charm" fire itself. This resulted in him inventing the modern art of [Flamecharm](Flamecharm.md), turning what was originally a crude magic largely conjured by accident into an actual technique.
 
 He is one of two known people to go to the Third Layer. He is worshipped by the Covenant of Flame and the Flame Worshippers, although he sees them as more of a fan club. He is also revered by Tirans as a whole, with many carving floral patterns into their weapons to honor him.
 

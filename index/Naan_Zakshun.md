@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 186984
+revid: 187138
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
@@ -297,6 +297,7 @@ Naan's item descriptions will change randomly each time they sell goods from the
 -   _This one's actually worth more than a gorillamillion times my price... I'm deadly serious._
 -   _Ughh, it kills me to get rid of this, I need the notes more than I need this thing though._
 -   _Wipe it down when you get out of here yeah? Its past wasn't pretty._
+-   _You break it, you buy it._
 -   _You didn't get this from me. Capiche?_
 -   _You take this and blast that calamity's head clean off with it alright?_
 -   _You want it? It's yours, my friend! As long as you have enough Notes._
@@ -326,9 +327,10 @@ Sold Items
   <ul>
     <li><b>For 3,000 </b>: <a href="Glumfig.md">Glumfig</a></li>
     <li><b>For 3,000 </b>: <a href="Urchin.md">Urchin</a></li>
-    <li><b>For 4,000 </b>: <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Parasol's_Blight.md">Parasol's Blight</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Sweetgourd.md">Sweetgourd</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
+    <li><b>For 4,000 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Parasol's_Blight.md">Parasol's Blight</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Sweetgourd.md">Sweetgourd</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 5,000 </b>: <a href="Red_Snapper.md">Red Snapper</a></li>
     <li><b>For 8,000 </b>: <a href="Sea_Bass.md">Sea Bass</a></li>
+    <li><b>For 9,000 </b>: <a href="Tuna.md">Tuna</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -337,8 +339,8 @@ Sold Items
   <ul>
     <li><b>For 1,000 </b>: <a href="Kindred_Edict.md">Kindred Edict</a></li>
     <li><b>For 3,000 </b>: <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a>, <a href="Hero's_Blade_of_Wind.md">Hero's Blade of Wind</a></li>
-    <li><b>For 4,000 </b>: <a href="First_Light.md">First Light</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a></li>
-    <li><b>For 4,000 </b>: <a href="Deepspindle.md">Deepspindle</a></li>
+    <li><b>For 4,000 </b>: <a href="Crypt_Blade.md">Crypt Blade</a>, <a href="First_Light.md">First Light</a>, <a href="Imperator's_Edge.md">Imperator's Edge</a>, <a href="Red_Death.md">Red Death</a>, <a href="Soulthorn.md">Soulthorn</a></li>
+    <li><b>For 15,000 </b>: <a href="Deepspindle.md">Deepspindle</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -348,7 +350,7 @@ Sold Items
     <li><b>For 1,000 </b>:
   <ul>
     <li><b>Head</b>: <a href="Bloodcurdle_Cowl.md">Bloodcurdle Cowl</a><abbr></abbr>, <a href="Rogue_Assassin's_Hood.md">Rogue Assassin's Hood</a><abbr></abbr></li>
-    <li><b>Arms</b>: <a href="Bluestone_Pauldrons.md">Bluestone Pauldrons</a></li>
+    <li><b>Arms</b>: <a href="Bluestone_Pauldrons.md">Bluestone Pauldrons</a>, <a href="Trackstar_Pauldrons.md">Trackstar Pauldrons</a><abbr></abbr></li>
     <li><b>Legs</b>: <a href="Ascended_Outlaw_Boots.md">Ascended Outlaw Boots</a>, <a href="Bluestone_Boots.md">Bluestone Boots</a></li>
     <li><b>Torso</b>: <a href="Brilliant_Cape.md">Brilliant Cape</a>, <a href="Trueblood_Pendant.md">Trueblood Pendant</a><abbr></abbr></li>
     <li><b>Face</b>: <a href="Ascended_Outlaw_Mask.md">Ascended Outlaw Mask</a></li>
@@ -362,7 +364,7 @@ Sold Items
   </ul></li>
     <li><b>For 3,000 </b>:
   <ul>
-    <li><b>Head</b>: <a href="Cultist_Cowl.md">Cultist Cowl</a><abbr></abbr>, <a href="Flame_Demon_Horns.md">Flame Demon Horns</a><abbr></abbr>, <a href="Potion_Master's_Hat.md">Potion Master's Hat</a><abbr></abbr></li>
+    <li><b>Head</b>: <a href="Cultist_Cowl.md">Cultist Cowl</a><abbr></abbr>, <a href="Flame_Demon_Horns.md">Flame Demon Horns</a><abbr></abbr>, <a href="Potion_Master's_Hat.md">Potion Master's Hat</a><abbr></abbr>, <a href="Trickster's_Beret.md">Trickster's Beret</a><abbr></abbr></li>
     <li><b>Arms</b>: <a href="Konga's_Parka.md">Konga's Parka</a><abbr></abbr>, <a href="Sorcerer's_Mantle.md">Sorcerer's Mantle</a></li>
     <li><b>Legs</b>: <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a><abbr></abbr>, <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a><abbr></abbr></li>
     <li><b>Ears</b>: <a href="Caster_Earrings.md">Caster Earrings</a><abbr></abbr>, <a href="Flare_Drop_Earrings.md">Flare Drop Earrings</a><abbr></abbr></li>
@@ -372,6 +374,7 @@ Sold Items
     <li><b>For 4,000 </b>: <a href="Gale_Boots.md">Gale Boots</a><abbr></abbr></li>
     <li><b>For 5,000 </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
     <li><b>For 7,000 </b>: <a href="Champion's_Cape.md">Champion's Cape</a></li>
+    <li><b>For 20,000 </b>: <a href="Dark_Pearls.md">Dark Pearls</a></li>
   </ul></td>
 </tr>
 </tbody>
