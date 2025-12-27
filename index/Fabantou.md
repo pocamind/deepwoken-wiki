@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 186743
+revid: 187222
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -150,7 +150,7 @@ The Three Cheers Menu
   <td><i>*The Felinor glares at you, then smiles, in an oddly warm manner*</i> I'm sorry, friend, we only serve military personnel! Maybe consider enlisting, hm?</td>
 </tr>
 <tr>
-  <td>End|</td>
+  <td>End</td>
 </tr>
 </tbody>
 </table>

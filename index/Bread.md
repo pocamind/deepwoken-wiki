@@ -1,6 +1,6 @@
 ---
 title: Bread
-revid: 175616
+revid: 187220
 source: https://deepwoken.fandom.com/wiki/Bread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Food Ingredients]
@@ -42,3 +42,11 @@ When consumed, it replenishes 20% Stomach and 2% Water.
 -   [Crab Pizza](Crab_Pizza.md) - 1 [Crustacean Meat](Crustacean_Meat.md), 1 Bread, 1 [Cheese](Cheese.md).
 -   [Grilled Cheese](Grilled_Cheese.md) - 1 [Cheese](Cheese.md), 1 Bread at a [Campfire](Campfire_Pit.md).
 -   [Kyrsdog](Kyrsdog.md) - 1 Bread, 1 [Frozen Membrane](Frozen_Membrane.md), 1 [Ongo](Ongo.md)
+
+## Trivia
+
+-   There exists a kind of bread known as naan, though it cannot be obtained in the game.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [Naan Zakshun](Naan_Zakshun.md)

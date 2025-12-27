@@ -1,6 +1,6 @@
 ---
 title: Pure Erisore
-revid: 149926
+revid: 187243
 source: https://deepwoken.fandom.com/wiki/Pure_Erisore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Ore#Erisore](Ore%253Fredirect=no.md#erisore)
+-   [Ores](Ores.md)

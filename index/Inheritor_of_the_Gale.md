@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 187132
+revid: 187252
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Inheritor of the Gale | |
 |---|---|
 | description | Effortlessly, they controlled the wind - but wind cuts both ways. |
-| unlock | Defeat the Etrean Apostle and Shogun Specialist NPCS |
+| unlock | Defeat the Etrean Apostle and Shogun Specialist NPCs |
 | starting health | 100 |
 | starting attributes | 8 Galebreathe, 3 Medium Weapon, 5 Agility, 5 Intelligence |
 | final attributes | 150 Galebreathe, 50 Medium Weapon, 100 Agility, 100 Intelligence |
@@ -30,9 +30,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Inheritor of the Gale** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It can be obtained by defeating the Shogun Specialist and Etrean Apostle NPCS, whose jobs can be found together at the Isle of Vigils and the Indigo Citadel job boards. The jobs require Power 15.
+**Inheritor of the Gale** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It can be obtained by defeating the Shogun Specialist and Etrean Apostle NPCs, whose jobs can be found together at the Isle of Vigils and the Indigo Citadel job boards. The jobs require Power 15.
 
-The memento is supposed to spawn with the innate [Whistleguard](Whistling_Periapt.md) talent, however, it currently doesn't work.
+The memento is supposed to spawn with the innate [Whistleguard](Whistling_Periapt.md) talent, however, it currently doesn't work. The memento also has no Power 5, 10 or 15 abilities to buy.
 
 ## Starting Abilities
 
@@ -227,6 +227,96 @@ N/A
     -   Activates after not being in contact with a grounded surface for ~0.75 seconds.
     -   Synergizes very well with uppercuts.
 
+### Power 20
+
+-   Going Nowhere \[Rare Talent\] **250** \- When enemies dodge your attacks, their momentum is killed and they're briefly prevented from sprinting. (+6 Passive Agility)
+-   Risky Moves \[Rare Talent\] **250** \- When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
+    -   User is covered in a blue highlight when the effect is active.
+    -   Visual effect might not line up with duration.
+    -   Attacking will cancel the effect early.
+    -   Takes priority over block, allowing for you to "auto-dodge" while simultaneously blocking.
+    -   20 second cooldown.
+-   Spine Cutter\[Rare Talent\] **250** \- Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
+    -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
+    -   The second slash has no PEN.
+    -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
+-   A World Without Song \[Advanced Talent\] **350** \- Every 3 hits with a Wind Mantra now procs Suffocate.
+    -   Requires 4 hits to proc if you have less than 75 Galebreathe.
+    -   Requires 5 hits to proc if you have less than 40 Galebreathe.
+    -   Suffocation prevents the victim from casting Mantras and deals a small amount of damage over time.
+-   Ghost \[Advanced Talent\] **350** \- Dodging a move will briefly make you invisible, ending early if you attack. (+5 Passive Agility)
+    -   Provides I-frames for the duration of the invisibility.
+    -   The invisibility and I-frame duration is 1.2 seconds if you have 40 or higher Agility.
+    -   Ghost's duration will be reduced by 0.0133 seconds per point in Agility under 40, capping at 0.866 seconds at 15 Agility.
+    -   Will also proc from dodging bleed, occurs when dodging a m1 late in high ping.
+    -   Has a 20 second cooldown.
+    -   You cannot parry attacks during the invisibility.
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Hollow Wraith** (☆☆☆)
+
+_A blast of wind._
+
+ | 
+
+## Hollow Wraith (☆☆☆)
+
+  
+_A blast of wind._
+
+ |
+| 
+
+20 Ether
+
+ | 
+
+(?)
+
+ | 
+
+1200
+
+ |
+| 
+
+**Effect:** _Stomp on the ground to launch yourself upward before crashing down with a strong downdraft._
+
+-   Memento exclusive
+
+ |
+
 ## Boss Unlocks
 
 ### Shogun of the Prophet's Guard
@@ -391,7 +481,7 @@ _A blast of wind._
 
  | 
 
-Wind
+(?)
 
  | 
 
@@ -403,5 +493,92 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 **Effect:** _Shoot out a vortex of wind in front of you._
 
 -   Memento exclusive
+
+ |
+
+### True Heart of Enmity
+
+-   Silencer's Song \[Common Talent\] - Silencer's Blade now procs on your mantras.
+-   Safety Dance \[Rare Talent\] - Your base dodge frames are increased by 0.05s. (+1 Passive Agility)
+    -   You gain more invincibility frames while dodging, granting you longer immunity to damage.
+    -   Dodge IFrames increased from 0.3s to 0.35s.
+-   Cheap Shot \[Rare Talent\] - Your attacks gain 10% PEN multiplicatively when you have an active speed boost. (+6 Passive Agility)
+    -   It multiplies your PEN by 1.1x. IE: if you are at 30% PEN, Cheap Shot will give you an additional 3% PEN.
+    -   Cheap Shot cannot bypass the PEN cap.
+    -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.22% PEN (or 1.072x PEN) at 40 Agility.
+-   Precise Swing \[Common Talent\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
+    -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
+    -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
+        -   If your M1 is whiffed or dodged, the status effect will not be consumed.
+    -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
+    -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
+-   Spinning Swordsman \[Common Talent\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
+-   Tap Dancer \[Rare Talent\] - Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
+    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
+-   Steady Nerves \[Common Talent\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
+    -   Restore 2 flat posture on a successful dodge.
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Windfall** (☆☆☆)
+
+_A devastating crash of wind._
+
+ | 
+
+## Windfall (☆☆☆)
+
+  
+_A devastating crash of wind._
+
+ |
+| 
+
+100 Ether
+
+ | 
+
+(?)
+
+ | 
+
+Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+ |
+| 
+
+**Effect:** _Stomp on the ground to launch yourself upward before crashing down with a strong downdraft._
+
+-   Exclusive to Inheritor of the gale and [Theros Disciple](Theros_Disciple.md)
 
  |

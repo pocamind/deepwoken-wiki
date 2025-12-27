@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 187138
+revid: 187219
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
@@ -32,6 +32,8 @@ This content is not accessible outside of this gamemode.
 Naan Zakshun is an NPC merchant who sells various equipment and weapons labelled as "Naan's Salvaged Stock". She wears an Iron Memento around her neck that signifies her ties to the [Circle of Honour](Circle_of_Honour.md), though she mainly uses these ties to better haggle with its members.
 
 Unlike Traan Zakshun, who has the same stock for everyone, her stocks depends on the player's progression. After defeating a memory boss, such as the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md), and the [True Heart of Enmity](True_Heart_of_Enmity.md), her stock will be "upgraded". Said stock is the same for all players with similar progression.
+
+She's always seen leaning on a [Pernach](Pernach.md).
 
 ## Location
 
@@ -161,6 +163,7 @@ Naan's Salvaged Stock
 Naan's item descriptions will change randomly each time they hit their hourly rotation:
 
 -   _An item most regal~ haha!_
+-   _Buy it!!!_
 -   _Divine, darling._
 -   _Drallis Ehr and I were in the SAME ROOM!!! AND I HAD THIS WITH ME!!!!!!! BUY IT!!!!!!!!!!!!!!_
 -   _Give it a rest already, the prices are fine._
@@ -184,6 +187,7 @@ Naan's item descriptions will change randomly each time they hit their hourly ro
 -   _Look at all those shiiiiiny colours oOOOooOOoOOOO! BUUYY ITTT!!!!!!_
 -   _Look, I don't need you to buy this, you're just gonna be missing out on this deal if you wimp out._
 -   _Lovely weather for buying something exactly like this, eh Ironsworn?_
+-   _No it's not naan like the bread._
 -   _Oh, ignore the bite marks~ my grandson's teething._
 -   _Oooohohohohhoooooooooohoooohohohooooooohohooohoohoo!!!!~_
 -   _People keep asking for these to be purple? Do you know why?_
@@ -193,6 +197,7 @@ Naan's item descriptions will change randomly each time they hit their hourly ro
 -   _Wowie... You gonna buy it?_
 -   _Yikes, I'm not sure if you can afford the majesty that is this item._
 -   _You got any Ongos? My grandson keeps badgering me for them._
+-   _You know any good smiths? I need my Pernarch polished, this thing is actually disgustingly dirty right now and I'm leaning on it all day every day, send help._
 -   _You seen Hotdog anywhere?_
 -   _Y'know, there was a study within Markor about how our minds form Vows, I'm not one of these smart guys but it sounds like if you will something it comes true right? Sooooo I should be able to like VOW to have YOU buy THIS THING then huh? You don't want me to cast my evil VOW on you HUH? BUYYYY ITTTT!!!!!!!!!!!_
 
@@ -283,6 +288,7 @@ Naan's item descriptions will change randomly each time they sell goods from the
 -   _Got somethin' that might interest ya..._
 -   _I actually forgot I had this until my grandson pointed it out to put up for sale, his eye for these things is magnificent, takes after his Nana~ haha._
 -   _I barely know what I'm looking at here._
+-   _I don't have enough time on my hands to waste it haggling... and frankly neither do you~ Ironsworn._
 -   _I fear our time is short, I would just hand this over if I weren't bound by my responsibilities, gotta feed my family- Ironsworn._
 -   _I lost my fangs a long time ago..._
 -   _It's... I don't know. You've got eyes don't you?_
@@ -327,7 +333,7 @@ Sold Items
   <ul>
     <li><b>For 3,000 </b>: <a href="Glumfig.md">Glumfig</a></li>
     <li><b>For 3,000 </b>: <a href="Urchin.md">Urchin</a></li>
-    <li><b>For 4,000 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Parasol's_Blight.md">Parasol's Blight</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Sweetgourd.md">Sweetgourd</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
+    <li><b>For 4,000 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Heroism.md">Heroism</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Parasol's_Blight.md">Parasol's Blight</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Sweetgourd.md">Sweetgourd</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 5,000 </b>: <a href="Red_Snapper.md">Red Snapper</a></li>
     <li><b>For 8,000 </b>: <a href="Sea_Bass.md">Sea Bass</a></li>
     <li><b>For 9,000 </b>: <a href="Tuna.md">Tuna</a></li>
@@ -349,8 +355,8 @@ Sold Items
   <ul>
     <li><b>For 1,000 </b>:
   <ul>
-    <li><b>Head</b>: <a href="Bloodcurdle_Cowl.md">Bloodcurdle Cowl</a><abbr></abbr>, <a href="Rogue_Assassin's_Hood.md">Rogue Assassin's Hood</a><abbr></abbr></li>
-    <li><b>Arms</b>: <a href="Bluestone_Pauldrons.md">Bluestone Pauldrons</a>, <a href="Trackstar_Pauldrons.md">Trackstar Pauldrons</a><abbr></abbr></li>
+    <li><b>Head</b>: <a href="Bloodcurdle_Cowl.md">Bloodcurdle Cowl</a><abbr></abbr>, <a href="Hallowed_Monastery_Cowl.md">Hallowed Monastery Cowl</a><abbr></abbr>, <a href="Rogue_Assassin's_Hood.md">Rogue Assassin's Hood</a><abbr></abbr></li>
+    <li><b>Arms</b>: <a href="Blackalloy_Pauldrons.md">Blackalloy Pauldrons</a><abbr></abbr>, <a href="Bluestone_Pauldrons.md">Bluestone Pauldrons</a>, <a href="Trackstar_Pauldrons.md">Trackstar Pauldrons</a><abbr></abbr></li>
     <li><b>Legs</b>: <a href="Ascended_Outlaw_Boots.md">Ascended Outlaw Boots</a>, <a href="Bluestone_Boots.md">Bluestone Boots</a></li>
     <li><b>Torso</b>: <a href="Brilliant_Cape.md">Brilliant Cape</a>, <a href="Trueblood_Pendant.md">Trueblood Pendant</a><abbr></abbr></li>
     <li><b>Face</b>: <a href="Ascended_Outlaw_Mask.md">Ascended Outlaw Mask</a></li>
@@ -362,17 +368,21 @@ Sold Items
     <li><b>Arms</b>: <a href="Caster_Fur_Pauldrons.md">Caster Fur Pauldrons</a><abbr></abbr>, <a href="Reforged_Gauntlets.md">Reforged Gauntlets</a><abbr></abbr></li>
     <li><b>Legs</b>: <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a><abbr></abbr></li>
   </ul></li>
+    <li><b>For 2,500 </b>: <a href="Ascended_Outlaw_Hat.md">Ascended Outlaw Hat</a></li>
     <li><b>For 3,000 </b>:
   <ul>
     <li><b>Head</b>: <a href="Cultist_Cowl.md">Cultist Cowl</a><abbr></abbr>, <a href="Flame_Demon_Horns.md">Flame Demon Horns</a><abbr></abbr>, <a href="Potion_Master's_Hat.md">Potion Master's Hat</a><abbr></abbr>, <a href="Trickster's_Beret.md">Trickster's Beret</a><abbr></abbr></li>
     <li><b>Arms</b>: <a href="Konga's_Parka.md">Konga's Parka</a><abbr></abbr>, <a href="Sorcerer's_Mantle.md">Sorcerer's Mantle</a></li>
     <li><b>Legs</b>: <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a><abbr></abbr>, <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a><abbr></abbr></li>
     <li><b>Ears</b>: <a href="Caster_Earrings.md">Caster Earrings</a><abbr></abbr>, <a href="Flare_Drop_Earrings.md">Flare Drop Earrings</a><abbr></abbr></li>
-    <li><b>Rings</b>: <a href="Trunk's_Clutch_Ring.md">Trunk's Clutch Ring</a><abbr></abbr></li>
   </ul></li>
     <li><b>For 3,500 </b>: <a href="Trunk's_Clutch_Ring.md">Trunk's Clutch Ring</a><abbr></abbr></li>
     <li><b>For 4,000 </b>: <a href="Gale_Boots.md">Gale Boots</a><abbr></abbr></li>
-    <li><b>For 5,000 </b>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
+    <li><b>For 5,000 </b>:
+  <ul>
+    <li><b>Head</b>: Infused Bloodforge Crown<abbr></abbr></li>
+    <li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>,<a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
+  </ul></li>
     <li><b>For 7,000 </b>: <a href="Champion's_Cape.md">Champion's Cape</a></li>
     <li><b>For 20,000 </b>: <a href="Dark_Pearls.md">Dark Pearls</a></li>
   </ul></td>

@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 187152
+revid: 187206
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -166,8 +166,9 @@ Traan's item descriptions will change randomly each time he sell goods from his 
 
 -   _A rare find indeed._
 -   _An item most regal!_
--   _C'mon, everybody and their grandma wants to buy something like this._
+-   _Check out the drawing on the package - that's a handsome fella, surely that makes you want this on your shelf!_
 -   _Colour makes us hungry - everything's connected!_
+-   _C'mon, everybody and their grandma wants to buy something like this._
 -   _DON'T drop it..._
 -   _Hard sell, eh?.. What if it was purple?_
 -   _Hey now come on, it's not that expensive..._

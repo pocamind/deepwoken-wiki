@@ -1,6 +1,6 @@
 ---
 title: "Guard's Kabuto"
-revid: 176448
+revid: 187195
 source: https://deepwoken.fandom.com/wiki/Guard's_Kabuto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Helmets, Equipment, Head]
@@ -13,7 +13,7 @@ categories: [Helmets, Equipment, Head]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | Power 5 |
 | weight | 1 |
 | innate stats | +8 Health, +1 Rare Pip |
 | innate talent | N/A |

@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 187173
+revid: 187229
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies]
@@ -15,7 +15,7 @@ notices:
 | health | 1000 |
 | drops | 2 Knowledge, 1,000 Notes |
 | weapon | Odachi |
-| moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish, Low Cleave, Shogun's Brutality, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance |
+| moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish |
 | affiliation | Etrea |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -80,7 +80,9 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 
 ## Tips
 
-They have surprisingly long range on their attacks. Fighting multiple at once is not advised.
+They have surprisingly long range on their attacks. Fighting multiple at once is not advised, as their unsynchronized timings can easily and quickly kill you.
+
+  
 
 ## Trivia
 

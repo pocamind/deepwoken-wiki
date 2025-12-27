@@ -1,6 +1,6 @@
 ---
 title: Pure Gold
-revid: 149929
+revid: 187240
 source: https://deepwoken.fandom.com/wiki/Pure_Gold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Ore#Gold](Ore%253Fredirect=no.md#gold)
+-   [Ores](Ores.md)

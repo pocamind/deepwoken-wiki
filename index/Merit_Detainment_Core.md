@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 177985
+revid: 187199
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -179,9 +179,9 @@ When deactivating any of the systems with the corresponding keys, the messages f
   <td>Manual override acknowledged. Laser grid offline.</td>
 </tr>
 <tr>
-  <td>End, prison cells are opened, Titus can be spoken to</td>
-  <td>End, cannon system turns off, player gains artillery whistle</td>
-  <td>End, laser system turns off</td>
+  <td>[End Dialogue], prison cells opened, Titus can be spoken to</td>
+  <td>[End Dialogue], cannon system disabled, player gains ability to artillery whistle</td>
+  <td>[End Dialogue], laser system disabled</td>
 </tr>
 </tbody>
 </table>

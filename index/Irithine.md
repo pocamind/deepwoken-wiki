@@ -1,6 +1,6 @@
 ---
 title: Irithine
-revid: 89890
+revid: 187245
 source: https://deepwoken.fandom.com/wiki/Irithine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Ore#Irithine](Ore%253Fredirect=no.md#irithine)
+-   [Ores](Ores.md)
