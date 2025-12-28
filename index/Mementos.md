@@ -1,6 +1,6 @@
 ---
 title: Mementos
-revid: 187187
+revid: 187348
 source: https://deepwoken.fandom.com/wiki/Mementos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos, Mechanics]
