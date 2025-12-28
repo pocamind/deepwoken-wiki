@@ -1,6 +1,6 @@
 ---
 title: Nerin
-revid: 186734
+revid: 187366
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Nerin is an [Etrean](Etrean.md) NPC who accepts a bribe for [Etrea](Etrea.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
+Nerin is an [Etrean](Etrean.md) NPC who accepts a bribe for [Etrea](Etrea.md). The player can pay him up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
 
 ## Location
 

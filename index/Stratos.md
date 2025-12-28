@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 177291
+revid: 187404
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -31,7 +31,7 @@ After reaching 20 Galebreath and around ~75 reputation with Etrea, return to Str
 
 File:Arch proof.png
 
-## Dialouge
+## Dialogue
 
 Food Delivery quest
 

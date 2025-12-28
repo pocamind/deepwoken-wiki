@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 186604
+revid: 187423
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]

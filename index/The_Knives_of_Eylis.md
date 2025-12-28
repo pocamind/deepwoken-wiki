@@ -1,6 +1,6 @@
 ---
 title: The Knives of Eylis
-revid: 174980
+revid: 187389
 source: https://deepwoken.fandom.com/wiki/The_Knives_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Knives of Eylis]
@@ -50,6 +50,6 @@ You do not need positive reputation to obtain the [Voidwalker](Voidwalker.md) [O
 
 ## Trivia
 
--   They are one of few factions with an [Oath](Oaths.md) tied to them, the others being [The Ministry](The_Ministry.md) ([Contractor](Oath%253A_Contractor.md)), [The Central Authority](The_Central_Authority.md) ([Chainwarden](Oath%253A_Chainwarden.md) and Warmaster), [The Ignition Union](The_Ignition_Union.md) ([Arcwarder](Oath%253A_Arcwarder.md)) and [The Hundred Legions](The_Hundred_Legions.md) ([Blightsurger](Oath%253A_Blightsurger.md)).
+-   They are one of few factions with an [Oath](Oaths.md) tied to them, the others being [The Ministry](The_Ministry.md) ([Contractor](Oath%253A_Contractor.md)), [The Central Authority](The_Central_Authority.md) ([Chainwarden](Oath%253A_Chainwarden.md)), [The Ignition Union](The_Ignition_Union.md) ([Arcwarder](Oath%253A_Arcwarder.md)) and [The Hundred Legions](The_Hundred_Legions.md) ([Blightsurger](Oath%253A_Blightsurger.md)).
 -   The faction's name could be a reference to 'The Knife of Dunwall' from Dishonored; a group of assassins which in both games, are also known as [Whalers](https://dishonored.fandom.com/wiki/Whalers).
 -   You need to help them in 6-5 [events](Random_Encounters.md) to be neutral with them (4-5 if you're an [Adret](Adret.md)).

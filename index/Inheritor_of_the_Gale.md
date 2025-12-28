@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 187260
+revid: 187403
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -30,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Inheritor of the Gale** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It can be obtained by defeating the Shogun Specialist and Etrean Apostle NPCs, whose jobs can be found together at the Isle of Vigils and the Indigo Citadel job boards. The jobs require Power 15.
+**Inheritor of the Gale** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It can be obtained by defeating the [Shogun Specialist](Shogun_Specialist.md) and Etrean Apostle NPCs, whose jobs can be found together at the Isle of Vigils and the Indigo Citadel job boards. The jobs require Power 15.
 
 The memento is supposed to spawn with the innate [Whistleguard](Whistling_Periapt.md) talent, however, it currently doesn't work. The memento also has no Power 5, 10 or 15 abilities to buy.
 
@@ -493,6 +493,7 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
 **Effect:** _Shoot out a vortex of wind in front of you._
 
+-   Inflicts burn
 -   Memento exclusive
 
  |

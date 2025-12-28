@@ -1,6 +1,6 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 176825
+revid: 187414
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Dungeons]
@@ -9,8 +9,6 @@ categories: [Locations, Dungeons]
 # The Scoundrel's Bounty
 
 LocationL The Scoundrel's Bounty LocationR
-
-TERRITORY OF
 
 Home to the Rotten Lot, a vessel carrying crew members of countless origins hoping for a brighter future.
 

@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 168051
+revid: 187415
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -59,7 +59,7 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
 </tr>
 <tr>
   <td colspan="6">It's not much, but i inherited some <i>rare Mantra ingredients</i> from my brother when he passed. If you do this for me, i can give you a few.</td>
-  <td colspan="6"><i>*He knits his brow and gives you a look of consternation. So... Can you help or were you just winding me up?</i></td>
+  <td colspan="6"><i>*He knits his brow and gives you a look of consternation.</i> So... Can you help or were you just winding me up?</td>
 </tr>
 <tr>
   <td colspan="3">I'll do it.</td>

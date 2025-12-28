@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 184252
+revid: 187357
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -50,13 +50,11 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 3.  Reach [The Birdcage](The_Birdcage.md) and light each brazier with the Soul Hearthgem in the following sequence: Left, Back, Front, Right.
 4.  Then go to the cave next to the bandit camp back in lower and take the top path to the left
 5.  Enter the hole and walk into the blue fog, locating blue mushrooms called Bluecaps.
-6.  Lastly, eat a bluecap IN THE SAME SERVER AS YOU LIT THE BRAZIERS
+6.  Lastly, eat a Bluecap, _**in the same server you lit the braziers in.**_
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=9ggkapSThhk)._
 
-Note: the Req for the quest is just to light the braziers in the right order then eat a bluecap you don't have to eat the bluecap at birdcage althought that is
-
-what the visual guide shows only because he needed to light the braziers
+Note: The requirement for the quest is just to light the braziers in the right order then eat a Bluecap, you don't have to eat the Bluecap at The Birdcage the same as the video.
 
 ### Willpower Unbound
 
@@ -68,7 +66,7 @@ what the visual guide shows only because he needed to light the braziers
 
 _For a visual guide consider watching [this video](https://www.youtube.com/watch?v=VOE_UOd9ivs)._
 
-Note: this is also how you get the deepbound origin
+Note: This is also how you get the Deepbound Origin.
 
 ### Charisma Unbound
 
@@ -105,10 +103,11 @@ Alternatively, weapon can also be unbounded by reaching 75 points on the desired
 1.  Reach 75 investment in an [Attunement](Attunements.md).
 2.  Defeat any humanoid [Boss](Bosses.md).
 
+**Important Note:** _**In order to unbound your Attunement, you have to deal majority of the damage.**_
+
 ## Notes
 
 -   The Windrunner is yet another reference to _The [Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_
 -   Brutus dialogue varies depending on your rep with [The Central Authority](The_Central_Authority.md)
 -   Unlike normal attributes such as Fortitude and Willpower, [Attunements](Attunements.md) and Weapon uncaps will not carry over onto new slots upon uncapping them on one.
 -   The Lost Sibling quest is also required to unlock the [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) boss fight.
--   In the order to unbound attunement you have to deal majority of the damage.

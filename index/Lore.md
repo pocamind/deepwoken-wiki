@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 186260
+revid: 187402
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -114,7 +114,7 @@ The Duke
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
 -   The Duke knows The Lord Regent, but it's unknown how much the Duke knows about him. It's most likely that he knows about Zi'eer's intentions since before you execute him he sometimes says: "Vermin! You seek to let Celtor repeat?"
 -   He comments about the prospects of Etris and The Authority itself, as its future is looking grim due to the ruling of The Lord Regent.
--   Despite being kind of insane, committing a genocide, and carrying out numerous unethical experiments on his citizens, Duke seems to have good motives, believing that all he is doing is to save Lumen. Worth noting, but in no way justifies his actions.
+-   Despite being kind of insane, committing a genocide, and carrying out numerous unethical experiments on his citizens, Duke seems to have good motives, believing that all he is doing is to save Lumen.
 -   He wields a light green Resonance Bell on his right belt, allowing him to raise Golems out of stone. These Golems were sustained by his own power, and it was observed that he could only upkeep a handful at a time to guard his estate in Celtor before he acquired the Forge of Sin.
 -   Before Erisia Island sank into the Voidsea, The Duke ordered his Golems to kidnap and even kill his own people. It's unknown what motives drove him to perform such a massacre.
 -   The Duke extracted an Artifact from the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) after Erisia Island went back up to the Etrean Luminant, presumably the Forge of Sin, and brought it back to his Manor.

@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 186976
+revid: 187417
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -61,7 +61,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 | 
 
 **Worldpiercing Deluge**  
-(★☆☆)
+(★★☆)
 
  | Titus winds up with both arms and smashes them into the ground, causing three consecutive shockwaves that send players high into the air.
 
@@ -143,7 +143,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 | 
 
 **Wrathful Stomp**  
-(★★☆)
+(★☆☆)
 
  | Titus slowly winds up before releasing a stomp that sends opponents into the air.
 

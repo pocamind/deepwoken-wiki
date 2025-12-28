@@ -1,6 +1,6 @@
 ---
 title: Character Slots
-revid: 184323
+revid: 187413
 source: https://deepwoken.fandom.com/wiki/Character_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -20,11 +20,11 @@ The slot selection menu serves as a list of all of your character slots.
 
 ## Obtaining Character Slots
 
--   Character slots can be purchased for 200 robux.
+-   Character slots can be purchased for 200 Robux [Robux](https://roblox.fandom.com/wiki/Robux).
     -   The price of slots can vary for certain regions due to Roblox's currency purchasing rates.
--   A maximum of 3 character slots can be obtained for free.
-    -   One for obtaining [power 20](Power.md) (max level) on any slot.
-    -   One for obtaining [A rank](Echoes.md#overview) when wiping any slot.
+-   A maximum of 3 character slots can be obtained for free upon completing certain [Badges](Badges.md). These cannot be repeated for additional slots, even if you remove the Badge from your Roblox inventory.
+    -   One for obtaining [Power](Power.md) 20 (max level) on any character.
+    -   One for obtaining [A rank](Echoes.md#overview) when wiping any character.
     -   One for defeating [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) in [Vow of Iron](Vow_of_Iron.md).
 
 ## Character Slot UI
@@ -32,9 +32,9 @@ The slot selection menu serves as a list of all of your character slots.
 ### Character Preview
 
 -   In the top right corner of the character preview, a symbol corresponding to that character's origin is shown.
--   A preview of your current character on the slot is shown as a small animated model individually for each slot.
--   The model in the character preview may be doing a pose or just simply idling.
--   The character preview shows all cosmetics currently equipped to the character except Oath cosmetics.
+-   A preview of your current character on the slot is shown as a small model individually for each slot.
+-   The background of the character preview will change depending on which Luminant you are in. It will also change if you're in The Depths, a Dungeon, or the Fragments of Self.
+-   The character preview shows most cosmetics currently equipped to the character except Oath cosmetics.
     -   The character preview is of your CURRENT character meaning items with vanity off will not show up on the preview.
 -   Equipment items or outfits added in recent updates have been known to not show up on the character preview.
     -   New schematics may show up as the "[Stranded](Stranded.md)" Outfit.
@@ -44,7 +44,7 @@ The slot selection menu serves as a list of all of your character slots.
 ### Slot Letters
 
 -   The slot letter is the first piece of text presented for each slot.
--   The maximum of 100 character slots corresponds to the slot letters starting from A to Z then AA to AZ then BA to BL.
+-   The maximum of 100 character slots corresponds to the slot letters starting from A to Z then AA to AZ then BA to BZ, and finally CA to CL.
     -   Following the 26th character slot, each following slot will have two letters, starting with A then a second letter from A to Z.
     -   Following the 52nd character slot, each following slot will have two letters, starting with B then a second letter from A to Z.
     -   Following the 78th character slot, each following slot will have two letters, starting with C then a second letter from A to V.
@@ -68,10 +68,10 @@ The slot selection menu serves as a list of all of your character slots.
 -   The Aspect of a slot is presented following your slot level.
 -   The Aspect of a character is randomly selected based on the Aspect rarity on slot purchase though it will show as '???' before entering character creation.
 
-### Oath
+### Oath / Memento
 
--   The slot's current oath is presented following your Aspect
--   On slot purchase the oath category will be blank.
+-   The character's current Oath or Memento in [Vow of Iron](Vow_of_Iron.md) is presented following your Aspect
+-   If the character does not have an Oath or is not an Iron Vow slot, this section will be blank.
 
 ### Location
 

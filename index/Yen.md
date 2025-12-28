@@ -1,6 +1,6 @@
 ---
 title: Yen
-revid: 185863
+revid: 187365
 source: https://deepwoken.fandom.com/wiki/Yen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Yen is a [Etrean](Etrean.md) NPC. They accept a bribe for the [Etrean Royalists](Etrean_Royalists.md). The player can pay them up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
+Yen is an [Etrean](Etrean.md) NPC who accepts a bribe for the [Etrean Royalists](Etrean_Royalists.md). The player can pay them up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
 
 ## Location
 
@@ -43,7 +43,7 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
   <td><i>*The guard looks you up and down.*</i> Consider yourself lucky, stranger - you've got no business with me. But if you ever find yourself in a spot of trouble with the Royalists, the Old Guard... We may have something to talk about.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -75,9 +75,10 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
 <tr>
   <td colspan="2">Here.</td>
   <td colspan="2">I won't partake in this.</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td>Requirements Met</td>
+  <td>Sufficient Notes</td>
   <td>Not Enough Notes</td>
   <td colspan="2">[See first instance]</td>
 </tr>
@@ -86,8 +87,8 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End, perceived threat to <a href="Etrean_Royalists.md">Etrean Royalists</a><abbr></abbr> has been reduced</td>
-  <td>End</td>
+  <td>[End Dialogue], reputation with Etrean Royalists is set to neutral</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +104,7 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

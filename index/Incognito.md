@@ -1,9 +1,9 @@
 ---
 title: Incognito
-revid: 182486
+revid: 187358
 source: https://deepwoken.fandom.com/wiki/Incognito
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Quests, Mantras]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -57,8 +57,8 @@ Incognito is located inside of the mines at [Songseeker Wilds](Songseeker_Wilds.
   <td colspan="6">Heh, nah. A magician never reveals his tricks. Or something like that.</td>
 </tr>
 <tr>
-  <td colspan="6">End, quest starts</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue], quest starts</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -74,7 +74,7 @@ Incognito is located inside of the mines at [Songseeker Wilds](Songseeker_Wilds.
   <td colspan="12">Pfffffff........ idiot.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -91,13 +91,11 @@ Incognito is located inside of the mines at [Songseeker Wilds](Songseeker_Wilds.
 | Crate: 1 Tornado |  |
 | Lantern: 1 Blast |  |
 | Gobletto: 1 Reversal, 1 Tornado |  |
-|   
-Lit Campfire: 1 Blast, 1 Tornado  
- |  |
+| Lit Campfire: 1 Blast, 1 Tornado |  |
 | Skull: 1 Reversal, 1 Blast |  |
 
 ## Trivia
 
 -   The statue you transform into is the white king piece from the chess board at [Voidheart](Voidheart.md).
     -   It is also the statue of the King of Etrea seen in Etris Palace.
--   Using the Campfire disguise while having the Talent _Azure Flames_ will make your campfire have blue flames instead of orange or yellow. This doesn't work with _Wraith Path: Twisted Puppets_.
+-   Using the Campfire disguise while having the Talent [Azure Flames](Talents.md#azure-flames) will make your campfire have blue flames instead of orange or yellow. This doesn't work with [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets).

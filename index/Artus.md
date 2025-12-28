@@ -1,27 +1,29 @@
 ---
-title: Ishan
-revid: 187370
-source: https://deepwoken.fandom.com/wiki/Ishan
+title: Artus
+revid: 187369
+source: https://deepwoken.fandom.com/wiki/Artus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+notices:
+  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
-# Ishan
+# Artus
 
-| Ishan | |
+| Artus | |
 |---|---|
-| name | Ishan |
+| name | Artus |
 | aspect | Etrean |
 | location | Summer Isle |
 | affiliation | The Summer Company |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
 “ It's like they came into existence with the waves themselves... ”
 
-― Ishan
+― Artus
 
 ## Description
 

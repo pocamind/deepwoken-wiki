@@ -1,6 +1,6 @@
 ---
 title: Amethyst Pendant Earrings
-revid: 187320
+revid: 187362
 source: https://deepwoken.fandom.com/wiki/Amethyst_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -36,6 +36,6 @@ categories: [Equipment, Ears]
 -   While known for being purple, amethyst can also be red.
 -   The Ferryman is known for acquiring large shipments of these. At one point, the boat delivering them dropped a large amount of them into the sea, resulting in it becoming a very common drop from [Fishing](Fishing.md).[\[1\]](#cite-note-1)
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1) [Version History: October 3rd, 2022](Version_History/Uncollapsed.md#october-3rd-2022)

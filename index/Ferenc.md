@@ -1,6 +1,6 @@
 ---
 title: Ferenc
-revid: 183730
+revid: 187367
 source: https://deepwoken.fandom.com/wiki/Ferenc
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ferenc is a [Etrean](Etrean.md) NPC. They accept a bribe for the [Etrean Royalists](Etrean_Royalists.md). The player can pay them up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
+Ferenc is an [Etrean](Etrean.md) NPC who accepts a bribe for the [Etrean Royalists](Etrean_Royalists.md). The player can pay them up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
 
 ## Location
 
@@ -53,13 +53,42 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td colspan="8">Begin</td>
 </tr>
 <tr>
+  <td colspan="8"><i>*The guard glances at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
+</tr>
+<tr>
+  <td colspan="8">How?</td>
+</tr>
+<tr>
+  <td colspan="8">Our war chest dwindles, and our struggle demands funding. A suitable contribution to the glory of the Royalist cause may help the clans forget your trespasses.</td>
+</tr>
+<tr>
+  <td colspan="4">What sum would clear my name?</td>
+  <td colspan="4">I won't partake in this.</td>
+</tr>
+<tr>
+  <td colspan="4">For a tribute of <b>[X] Notes</b>, the sachans may consider a pardon to your name, and you may be at peace with the Royalists once again.</td>
+  <td colspan="4">As you wish. If you change your mind, you may return to me. Otherwise... I only pray my kinsmen give you the graces of a <i>swift</i> death.</td>
+</tr>
+<tr>
+  <td colspan="2">Here.</td>
+  <td colspan="2">I won't partake in this.</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td>Sufficient Notes</td>
+  <td>Not Enough Notes</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td><i>*The guard nods.*</i> Very well. With this tribute, the clans may set their grievances with you aside. Swift journeys to you, stranger.</td>
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue], reputation with Etrean Royalists is set to neutral</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +104,7 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

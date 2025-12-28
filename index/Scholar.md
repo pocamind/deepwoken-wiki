@@ -1,6 +1,6 @@
 ---
 title: Scholar
-revid: 177695
+revid: 187393
 source: https://deepwoken.fandom.com/wiki/Scholar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -19,7 +19,7 @@ categories: [Outfits, Starter Outfits]
 | durability | 1000 |
 | resistances | +10% Elemental Armor, +8% Physical Armor |
 | talents | Scholar's Intuition |
-| obtainment | Chests from:, The Depths, Moon's Eyrie, PrimadonSold by Traan Zakshun and Nyanna for 200 |
+| obtainment | Chests from:, Erisia, The Depths, Moon's Eyrie, PrimadonSold by Traan Zakshun and Nyanna for 200 |
 | selling_price | 10 |
 | weight | 1 |
 
