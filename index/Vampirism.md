@@ -1,6 +1,6 @@
 ---
 title: Vampirism
-revid: 179278
+revid: 187323
 source: https://deepwoken.fandom.com/wiki/Vampirism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -30,4 +30,5 @@ On hit, Vampirism grants 20% of your weapon's scaled damage as [Temporary Health
 ### Notes
 
 -   Vampirism's Temporary Health gain is unaffected by PvE scaling.
+-   Despite not being stated in the description vampirism still gives slight blood bar back upon m1.
 -   This enchantment is less effective on certain [Bosses](Bosses.md). These are: [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md), and [Scion of Ethiron](Scion_of_Ethiron.md).

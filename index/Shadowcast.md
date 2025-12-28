@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 186002
+revid: 187324
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -783,6 +783,7 @@ Shadow + Slash/Blunt (Bl. Spark)
 -   Its distance is reduced by 60% when used in water.
 -   [Crystal](Mantra_Modifiers.md#regular-modifiers) [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) increase distance.
 -   [Glass](Mantra_Modifiers.md#regular-modifiers) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) make hitbox larger.
+-   Max AOE seems to be +6
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a barrage of shadows. This variant can only be used if you are at or below 40% of your maximum health.
 
  |

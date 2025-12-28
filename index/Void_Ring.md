@@ -1,6 +1,6 @@
 ---
 title: Void Ring
-revid: 185419
+revid: 187338
 source: https://deepwoken.fandom.com/wiki/Void_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -18,7 +18,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Static spawn on X: 299, Y:285, Z:10734. |
+| obtainment | Static spawn on a small island off Etris |
 | description | Corrupted by the void, it allows the user to resist the harsh effects of the Depths for longer. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -31,7 +31,7 @@ Void Ring allows the wearer to stay in [the Depths](The_Depths.md) for longer be
 
 ## Obtainment
 
-The **Void Ring** can be obtained from its fixed spawn location, which appears atop a small rocky island within the **Voidsea**. The item consistently spawns at the following coordinates: **X: 299, Y:285, Z:10734.**
+The **Void Ring** can be obtained from its fixed spawn location, which appears atop a small rocky island within the **Voidsea,** east of [Etris](Etris.md).
 
 ## Trivia
 

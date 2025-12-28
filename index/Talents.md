@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 187288
+revid: 187328
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2019,6 +2019,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Willpower Unbounded \[Common Talent\] - You have gained the ability to surpass your limits and train your willpower to its fullest.
     -   Prerequisite: 75 Willpower
+
+### Instigator
+
+-   Enrage \[Common Talent, Unlockable talent\] - Whenever you stun an opponent who's taunted with encore, enrage them.
+    -   Unlock requirement: wipe while using the [Strange Merchant](Strange_Merchant.md) memento.
+    -   Prerequisites: Encore
 
 ### Javelin Lord
 

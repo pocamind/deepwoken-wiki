@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 187294
+revid: 187329
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character]
