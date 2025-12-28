@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 187219
+revid: 187290
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
@@ -295,6 +295,7 @@ Naan's item descriptions will change randomly each time they sell goods from the
 -   _Keep your voice down, Ironsworn, they might hear us..._
 -   _No questions, no returns._
 -   _Oh, the sticker price is actually a bit cheaper than it's supposed to be, whatever~ call it a flash sale!_
+-   _Oh, this one's almost certainly cursed. Like, no joke._
 -   _One of the items of all time._
 -   _Only look if you wanna buy, Okay?_
 -   _THAT'S IT. FOR THE LAST TIME. IT DOESN'T COME IN PURPLE!_
@@ -333,7 +334,7 @@ Sold Items
   <ul>
     <li><b>For 3,000 </b>: <a href="Glumfig.md">Glumfig</a></li>
     <li><b>For 3,000 </b>: <a href="Urchin.md">Urchin</a></li>
-    <li><b>For 4,000 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Heroism.md">Heroism</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Parasol's_Blight.md">Parasol's Blight</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Sweetgourd.md">Sweetgourd</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
+    <li><b>For 4,000 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Grim.md">Grim</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Heroism.md">Heroism</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Parasol's_Blight.md">Parasol's Blight</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Sweetgourd.md">Sweetgourd</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
     <li><b>For 5,000 </b>: <a href="Red_Snapper.md">Red Snapper</a></li>
     <li><b>For 8,000 </b>: <a href="Sea_Bass.md">Sea Bass</a></li>
     <li><b>For 9,000 </b>: <a href="Tuna.md">Tuna</a></li>
@@ -360,12 +361,12 @@ Sold Items
     <li><b>Legs</b>: <a href="Ascended_Outlaw_Boots.md">Ascended Outlaw Boots</a>, <a href="Bluestone_Boots.md">Bluestone Boots</a></li>
     <li><b>Torso</b>: <a href="Brilliant_Cape.md">Brilliant Cape</a>, <a href="Trueblood_Pendant.md">Trueblood Pendant</a><abbr></abbr></li>
     <li><b>Face</b>: <a href="Ascended_Outlaw_Mask.md">Ascended Outlaw Mask</a></li>
-    <li><b>Rings</b>: <a href="Azure_Duelist_Ring.md">Azure Duelist Ring</a><abbr></abbr>, <a href="Divine_Cast_Ring.md">Divine Cast Ring</a><abbr></abbr></li>
+    <li><b>Rings</b>: <a href="Azure_Duelist_Ring.md">Azure Duelist Ring</a><abbr></abbr>, <a href="Divine_Cast_Ring.md">Divine Cast Ring</a><abbr></abbr>, <a href="Evengardes_Keepsake.md">Evengardes Keepsake</a><abbr></abbr></li>
   </ul></li>
     <li><b>For 2,300 </b>:
   <ul>
     <li><b>Head</b>: <a href="Hardened_Barrel_Helm.md">Hardened Barrel Helm</a><abbr></abbr>, <a href="Sky_Warrior_Helm.md">Sky Warrior Helm</a><abbr></abbr></li>
-    <li><b>Arms</b>: <a href="Caster_Fur_Pauldrons.md">Caster Fur Pauldrons</a><abbr></abbr>, <a href="Reforged_Gauntlets.md">Reforged Gauntlets</a><abbr></abbr></li>
+    <li><b>Arms</b>: <a href="Caster_Fur_Pauldrons.md">Caster Fur Pauldrons</a><abbr></abbr>, <a href="Prophet's_Operative_Cloak.md">Prophet's Operative Cloak</a><abbr></abbr>, <a href="Reforged_Gauntlets.md">Reforged Gauntlets</a><abbr></abbr></li>
     <li><b>Legs</b>: <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a><abbr></abbr></li>
   </ul></li>
     <li><b>For 2,500 </b>: <a href="Ascended_Outlaw_Hat.md">Ascended Outlaw Hat</a></li>

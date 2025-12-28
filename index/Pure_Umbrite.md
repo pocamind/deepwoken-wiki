@@ -1,6 +1,6 @@
 ---
 title: Pure Umbrite
-revid: 187239
+revid: 187275
 source: https://deepwoken.fandom.com/wiki/Pure_Umbrite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Ores](Ores.md)
+-   [Ores#Umbrite](Ores.md#umbrite)

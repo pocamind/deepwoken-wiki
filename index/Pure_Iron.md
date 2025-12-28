@@ -1,6 +1,6 @@
 ---
 title: Pure Iron
-revid: 187241
+revid: 187269
 source: https://deepwoken.fandom.com/wiki/Pure_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Ores](Ores.md)
+-   [Ores#Iron](Ores.md#iron)

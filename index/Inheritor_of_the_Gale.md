@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 187252
+revid: 187260
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -311,8 +311,9 @@ _A blast of wind._
  |
 | 
 
-**Effect:** _Stomp on the ground to launch yourself upward before crashing down with a strong downdraft._
+**Effect:** _Shoot out a projectile of wind in front of you with 2 wraiths following it._
 
+-   Inflicts burn
 -   Memento exclusive
 
  |

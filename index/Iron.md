@@ -1,6 +1,6 @@
 ---
 title: Iron
-revid: 187249
+revid: 187268
 source: https://deepwoken.fandom.com/wiki/Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Ores](Ores.md)
+-   [Ores#Iron](Ores.md#iron)

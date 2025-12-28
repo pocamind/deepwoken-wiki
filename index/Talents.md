@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 187191
+revid: 187288
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1933,7 +1933,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Applies daze and ragdolls.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, 30 Agility
 
--   **Executioner's Frenzy** \[Faction Exclusive\] - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+-   **Executioner's Frenzy** \[Faction Exclusive\] - Landing a light attack while your opponent's posture is paused reduces their assassination cooldown by 5 seconds.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Fatal Stealth** \[Faction Exclusive\] - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.

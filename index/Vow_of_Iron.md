@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 187182
+revid: 187318
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -68,6 +68,8 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   Vow of Iron characters have a permanently stained health bar. Any death will send them to The Depths.
 -   Vow of Iron characters face a unique Depth Trial that features [Bone Keeper](Bone_Keeper.md), [Parliament](Parliament.md), [Prime Megalodaunt](Prime_Megalodaunt.md) and [Nautilodaunt Officiate](Nautilodaunt_Officiate.md).
 -   Auto Parry is completely removed, requiring you to manually parry continuous attacks.
+-   Monsters are now able to be guardbroken much like players, which deal additional damage, even from just a parry.
+-   Enemies seem to have heavily reduced HP, allowing Power 1s to defeat bosses such as Primadon, or the PvE scaling the player has is always set to as if they were Power 20.
 
 ### Loot
 

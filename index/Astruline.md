@@ -1,6 +1,6 @@
 ---
 title: Astruline
-revid: 187250
+revid: 187266
 source: https://deepwoken.fandom.com/wiki/Astruline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Ores](Ores.md)
+-   [Ores#Astruline](Ores.md#astruline)
