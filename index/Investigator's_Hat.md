@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 185025
+revid: 187453
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -31,3 +31,4 @@ The Investigator's Hat is an [Equipment](Equipment.md) item under the "Head" cat
 ## Trivia
 
 -   Worn by [Kennith](Kennith.md).
+-   Someone ping aga to make this obtainable dawg

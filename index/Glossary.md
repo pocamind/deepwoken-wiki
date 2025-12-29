@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 187423
+revid: 187459
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -355,7 +355,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Old Stranger](Old_Stranger
 
 ### Oaths
 
--   An extension of the [Song](#the-song) brought about by swearing a {\[g|Vows|Vow}} to oneself.
+-   An extension of the [Song](#the-song) brought about by swearing a [Vow](#vows) to oneself.
 -   By expanding upon the [Song](#the-song) and incorporating a self-sworn [Vow](#vows) in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
 Dialogue: [??? (Blindseer Glyphs)](<%253F%253F%253F_(Blindseer_Glyphs).md>), [Barber](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Samael](Samael.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vows](#vows)
@@ -430,7 +430,7 @@ Dialogue: [Samael](Samael.md)
 -   It's orbit is roughly equidistant between the [Surface](#the-surface) and the [Heavens](#the-heavens), though it oscillates on its lateral axis yearly, pitching towards the [Surface](#the-surface) in summer, and the [Heavens](#the-heavens) in winter. As a matter of course, the climate is typically colder and more changeable in Northern [Lumen](#lumen), and a more consistently warm temperature in Southern [Lumen](#lumen).
 -   The [Moonseye](#the-moonseye) can be seen as the Suncross's counterpart.
 
-Dialogue: [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea)
+Dialogue: [Azurath](Azurath.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: | Glossary Entries: [The Moonseye](#the-moonseye), [The Nightsea](#the-nightsea)
 
 -   Some [Starkindred](#the-starkindred-faith) believe the Suncross to be a [Celestial](#the-celestials), though others disagree. To all of the faith, however, it is sacred.
 

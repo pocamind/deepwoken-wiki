@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 187415
+revid: 187451
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -14,6 +14,7 @@ categories: [Vesperian NPCs, NPCs, Quests, The Hive, NPCs located in the Eastern
 | aspect | Vesperian |
 | location | Greathive Aratel |
 | affiliation | The Hive |
+| family | Suri's brother |
 
 ## Description
 

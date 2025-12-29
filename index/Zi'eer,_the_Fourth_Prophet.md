@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 187225
+revid: 187436
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -34,7 +34,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
 1.  Defeat the [True Heart of Enmity](True_Heart_of_Enmity.md) (can be done at any power), which then spawns you at the palace. Attack the statue to break the barrier around the palace.
 2.  Recommended but not mandatory: Reach Power 20.
-3.  If you left the server where you destroyed the barrier, you will need to return to [Etris](<Etris_(Vow_of_Iron).md>) and kill one of the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) around the island.
+3.  If you left the server where you destroyed the barrier, you will need to return to [Etris](<Etris_(Vow_of_Iron).md>) and kill one of the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) around the island. _**(Currently bugged, don't leave the server you break the barrier in or you will be softlocked until you wipe)**_
 4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialogue, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing.**_ _**If you're below power 10 when you get teleported, you will get kicked with the message "Nice try man" and be in the depths upon rejoining.**_
 
 ## Moves

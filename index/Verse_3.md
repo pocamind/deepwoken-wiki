@@ -1,13 +1,11 @@
 ---
 title: Verse 3
-revid: 181031
+revid: 187434
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Pages requiring a cleanup, Upcoming content, Pages with broken file links]
+categories: [In progress without reason, InProgressPages, Upcoming content, Pages with broken file links]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
   - This page is currently being worked on. Some things may be incomplete.
-  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
   - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 
@@ -15,31 +13,55 @@ notices:
 
 File:Verse 3-Roadmap.png
 
+Verse 3 Roadmap
+
 ## Overview
 
-Verse 3 is an upcoming series of updates to Deepwoken, revealed on Sept. 23rd 2025 by Deepwoken's owner, Raguza, on the official Deepwoken Discord's announcements channel.
+Verse 3 is an ongoing series of updates to _Deepwoken_, announced on September 23rd 2025 by Developer Ragoozer.
 
 ## Upcoming Content
 
-The official reveal came with a roadmap of upcoming content, including new [Origins](Origins.md). The items on the roadmap are [the Authority Origin](Authority_Ensign.md), a rework for [Saramaed Hollow](Saramaed_Hollow.md), the addition of a new character type called "Vow of Iron" that will allow the player to play a hardcore version of the game, a new addon for [Aspects](Aspects.md) called "Divergences" that will modify how Aspects work, [Ship](Ships_&_Sailing.md) modifications, new Locations to explore, and finally, Layer 3.
+The official reveal came with a roadmap of upcoming content. The items on the roadmap are (from left to right):
 
-The roadmap included [Hallowtide](Hallowtide.md) 2025 in between the Authority origin and Layer 3's release.
+-   A new [Origin](Origins.md) relating to [The Central Authority](The_Central_Authority.md), which would become known as [Authority Ensign](Authority_Ensign.md)
+-   New [Origins](Origins.md) for other [Factions](Factions_&_Groups.md)
+-   A rework to [Saramaed Hollow](Saramaed_Hollow.md)
+-   The addition of a new character type called "[Vow of Iron](Vow_of_Iron.md)" that will allow the player to play a hardcore version of the game
+-   [Hallowtide](Hallowtide.md) 2025
+-   A new addon for [Aspects](Aspects.md) called "Divergences" that will modify how Aspects work
+-   [Ship](Ships_&_Sailing.md) modifications
+-   New Locations to explore
+-   And finally, Layer 3, the third layer of [The Depths](The_Depths.md).
 
-## Part 1: Duskguard
+## Hallowtide 2025
+
+On October 31st 2025, the seasonal [Hallowtide](Hallowtide.md) event was released.
+
+## Chapter 1: Duskguard
+
+_Deepwoken: Duskguard_ Game icon
+
+On October 5th, 2025, the Verse 3 Chapter 1: Duskguard update released, featuring the [Authority Ensign](Authority_Ensign.md) origin and content surrounding it.
 
 ### Authority Origin
 
-The [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) is obtainable by defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or gaining Hero [Reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md). Opposed to other origins, the Authority origin follows a military rank style progression such as taking missions and joining divisions.
+The [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) was added, obtainable by defeating [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or gaining Hero [Reputation](Reputation.md) with [The Central Authority](The_Central_Authority.md). Unique from other origins, Authority Ensign follows a military rank style progression involving taking missions and joining divisions.
 
-During their progression, players will be locked to the Authority guild, ranking up and choosing a division within the Authority for unique talents and weapons.
+During their progression, players will be locked to the [Authority](The_Central_Authority.md) [guild](Guilds.md), ranking up and choosing a division within the Authority for unique talents and weapons.
 
 ### Map Adjustments
 
-The land has changed in the Eastern Luminant, with new and removed locations, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel Island](Aratel_Island.md). The map has not been updated yet.
+The land has changed in the [Eastern Luminant](Luminants.md), with some locations introduced and some removed, including changes to [Fort Merit](Fort_Merit.md), [Miner's Landing](<Miner's_Landing.md>) and [Aratel Island](Aratel_Island.md).
+
+## Chapter 2: Ironsworn
+
+_Deepwoken: Ironsworn_ Game icon
+
+On December 15th, 2025, [Vow of Iron](Vow_of_Iron.md) was released.
 
 ## Trivia
 
--   Verse 3 will be a series of updates, which is different compared to Verse 2 which was mainly one big update.
+-   Verse 3 is a series of updates, different from [Verse 2](Verse_2.md), which was mainly one big update.
 
 ## References
 

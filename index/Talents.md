@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 187328
+revid: 187441
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1913,7 +1913,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   [Aegis Gem](Aegis_Gem.md) grants you 10% damage reduction for 10 seconds on hit.
     -   [Blessed Gem](Blessed_Gem.md) halves your critical cooldown on hit.
         -   [Warmaster's Medallion](<Warmaster's_Medallion.md>) critical cooldown reduction is applied before this effect, allowing for a 60% (55% in [Chime of Conflict](Chime_of_Conflict.md)) reduction in critical cooldown overall.
-    -   [Bloodless Gem](Bloodless_Gem.md) reduces your critical damage, but gives you healing based on damage dealt.
+    -   [Bloodless Gem](Bloodless_Gem.md) Reduces your critical damage by 20%, but grants healing equal to 30% of the damage dealt.
     -   [Blue Gem](Blue_Gem.md) grants you Ether back on hit. The Ether restoration is 1:1 with scaled damage dealt; it cannot be increased nor decreased through modifiers or resistances. This effect does not have PvE scaling.
     -   [Insignia Gem](Insignia_Gem.md) reduces the windup of your next Mantra cast by 15% on hit.
     -   [Might Gem](Might_Gem.md) increases the posture damage of your critical by 10%.

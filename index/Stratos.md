@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 187404
+revid: 187455
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -17,7 +17,7 @@ categories: [Etrean NPCs, Pages with broken file links, Quests, Etrea, NPCs loca
 
 ## Description
 
-**Stratos** is the second-in-command of the Blade Temple, residing on the [Isle of Vigils](Isle_of_Vigils.md). He is found sitting in front of a small pond at the main entrance of the [Temple of the Blade](Temple_of_the_Blade.md). In order to talk to him, you need to have good reputation with [Etrea](Etrea.md) (around ~75 reputation, in the middle of neutral and ally points), otherwise he refuses to talk to you UNLESS you have his [delivery](<Lance's_Brother.md#crate-delivery-quest>). In which case, he will pay you 25 Notes for the trouble. He says that he will teach you once you feel the "essence of the wind", starting his [quest](#windwaker-quest).
+Stratos is the second-in-command of the Blade Temple, residing on the [Isle of Vigils](Isle_of_Vigils.md). He is found sitting in front of a small pond at the main entrance of the [Temple of the Blade](Temple_of_the_Blade.md). In order to talk to him, you need to have good reputation with [Etrea](Etrea.md) (around ~75 reputation, in the middle of neutral and ally points), otherwise he refuses to talk to you unless you have his [delivery](<Lance's_Brother.md#crate-delivery-quest>). In which case, he will pay you 25 Notes for the trouble. He says that he will teach you once you feel the "essence of the wind", starting his [quest](#windwaker-quest).
 
 ## Windwaker Quest
 

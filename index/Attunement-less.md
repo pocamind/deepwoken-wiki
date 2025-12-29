@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 185568
+revid: 187438
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1112,6 +1112,7 @@ N/A
 -   This move causes humanoid NPCs to block less.
 -   Parry window is at the end of the first flash.
 -   Shares a cooldown with [Sing](Attunement-less.md#sing).
+-   **Cannot proc [Deep Gems](Deep_Gems.md)**
 -   Can be upgraded with the **Peripheral Vision** Talent, allowing Glare to hit enemies without them having to face you.
 
  |

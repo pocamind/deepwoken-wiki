@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 187203
+revid: 187490
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | final attributes | 50 Shadowcast, 100 Light Weapon, 100 Medium Weapon, 100 Heavy Weapon, 10 Fortitude, 75 Intelligence, 100 Charisma |
 | final traits | 8 Proficiency, 7 Songchant, 6 Dexterity, 6 Erudition, 1 Vitality |
 | aspect | Levit |
-| starting armor | Traveller's Jacket |
+| starting armor | Strange Merchant (Outfit) |
 | allowed weapons | Dagger, Fist, Rapier, Sword, Spear, Club, Twinblade, Bow, Greataxe, Greatsword, Greathammer, Greatcannon, Essentially any except Pistols, Rifles, and Shields |
 | starting weapons | Vortex Echo |
 
@@ -26,6 +26,10 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 **Strange Merchant** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento forces your race to be [Levit](Levit.md). This Memento's core ability is the Magic Coffin; a loot box that costs Notes to use.
+
+The memento also starts with [Warlock's Mantle](<Warlock's_Mantle.md>) equipped, however, the item seems to be bugged and shows the wrong stats. It also disappears upon being unequipped or replaced.
+
+Strange Merchant can ignore all requirements (stat and otherwise) on equipment, weapons and outfits.
 
 ## Mystery Box Locations
 
@@ -47,12 +51,11 @@ To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on myster
 
 -   Magic Coffin \[Memento Talent\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.
     
-    -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20.
+    -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20. The price increase mechanic needs further testing.
     -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
-    -   There is a 1% chance to get the Enforcer plush, giving you high tier loot. This chance is increased by 1% per level, up to 20% at power 20.
-    -   There is a 5-10% chance to roll a **blank**, doubling the chest of the next box. This can stack.
+    -   There is a relatively high chance to get Skull(previously known as the Enforcer Labubu)[\[1\]](#cite-note-0-1), which is a blank and gives nothing, instead laughing at you.
     -   Coffin activation uses your Resonance keybind.
-    -   You can use any weapon or equipment item without meeting their **attribute** requirements.
+    -   You can use any weapon or equipment item without meeting their **attribute** requirements. This also applies to outfits.
 
 -   Benefactor: \[Equipment Talent\] - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.
@@ -281,41 +284,28 @@ N/A
 
  |
 
-### Power 10
-
--   Chaotic Charm \[Common Talent\] **100** \- Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
-    -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
-    -   The additional damage reduction from Chaotic Charm scales on your Charisma investment, gaining 0.15% damage reduction per point in Charisma.
-        -   This damage reduction is combined multiplicatively with Charm due to them being separate status effects.
-    -   Automatically procs narcissist
-    -   Deals 0.1 typeless damage whenever it procs.
-    -   Can be blocked, preventing damage and Charm proc.
-    -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
-    -   Will apply combat tag against opponents.
-    -   Has 0.25s cooldown.
-    -   Typeless self damage will not proc Chaotic Charm, but something like Flame Within will.
+### Power 5
 
 -   Critical Engine \[Common Talent\] **100** \- You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
     -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
     -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
     -   See info on specific [Deep Gems](Deep_Gems.md) on their individual pages.
-
 -   Dragon's Song \[Common Talent\] **100** \- Using a mantra after an uppercut grants ether. 2s CD
-    -   Grants +20 Ether on proc.
-
--   Sweeten the Deal \[Common Talent\] **100** \- [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
-
 -   Target Switch \[Common Talent\] **100** \- Parrying an opponent then hitting someone else makes your next mantra free.
     -   This effect is signalled by a yellow halo.
     -   Has a 4 second activation window with a 10 second duration.
     -   This talent will still proc if you hit a knocked enemy.
-
+-   **Absolute Radiance** \[Oath Talent\] **200** \- Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
+    -   All elemental status effects cannot be applied to you during Absolute Radiance.
+-   Sweeten the Deal\[Memento Talent\] **200** \- [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
 -   _Encore_ \[Rare Talent\] **250** \- Your sing will stun opponents who are already charmed.
     -   On proc, apply 0.4s of "full stun". This can interrupt enemy attacks.
     -   Doesn't affect allies.
-
-  
+-   Cornered Fool \[Common Talent\] **100** \- Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
+    -   Despite what the description states, this applies Taunt for 6 seconds.
+    -   The Taunt damage buff is also applied to the attack that guard broke.
+    -   This talent is also present in the Starting Deck shop and disappears upon you purchasing it there.
 
 | 
 **Name**
@@ -366,7 +356,7 @@ _Strike down your foes with your blinding light._
  |
 | 
 
-?
+100
 
  | 
 
@@ -374,7 +364,7 @@ Oath
 
  | 
 
-**700**
+**450**
 
  |
 | 
@@ -389,6 +379,40 @@ Oath
     -   This means that in low-gravity environments such as [Scyphozia](First_Layer.md), this mantra is very inconsistent in combat use.
 
  |
+
+### Power 10
+
+-   Chaotic Charm \[Common Talent\] **100** \- Charm enemies nearby when attacked at low health. Enemies affected by this charm have their damage increased to anyone but you, and deal reduced damage towards you.
+    -   Applies a unique status effect for 15 seconds that is separate to charm as a whole. This status effect is what grants the additional damage reduction and increased damage to people who are not you. This status effect cannot have its duration reduced by Disbelief.
+    -   The additional damage reduction from Chaotic Charm scales on your Charisma investment, gaining 0.15% damage reduction per point in Charisma.
+        -   This damage reduction is combined multiplicatively with Charm due to them being separate status effects.
+    -   Automatically procs narcissist
+    -   Deals 0.1 typeless damage whenever it procs.
+    -   Can be blocked, preventing damage and Charm proc.
+    -   Damage and Charm is applied in a very small AoE around you on top of affecting the person who hit you directly.
+    -   Will apply combat tag against opponents.
+    -   Has 0.25s cooldown.
+    -   Typeless self damage will not proc Chaotic Charm, but something like Flame Within will.
+
+-   Critical Engine \[Common Talent\] **100** \- You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
+    -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
+    -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
+    -   [Mantle of Enmity](Mantle_of_Enmity.md) can proc Critical Engine. If you use a [Blessed Gem](Blessed_Gem.md), your Mantle aerial attack will halve your critical cooldown rather than your Mantle's.
+    -   See info on specific [Deep Gems](Deep_Gems.md) on their individual pages.
+
+-   Dragon's Song \[Common Talent\] **100** \- Using a mantra after an uppercut grants ether. 2s CD
+    -   Grants +20 Ether on proc.
+
+-   Sweeten the Deal \[Common Talent\] **100** \- [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
+
+-   Target Switch \[Common Talent\] **100** \- Parrying an opponent then hitting someone else makes your next mantra free.
+    -   This effect is signalled by a yellow halo.
+    -   Has a 4 second activation window with a 10 second duration.
+    -   This talent will still proc if you hit a knocked enemy.
+
+-   _Encore_ \[Rare Talent\] **250** \- Your sing will stun opponents who are already charmed.
+    -   On proc, apply 0.4s of "full stun". This can interrupt enemy attacks.
+    -   Doesn't affect allies.
 
   
 
@@ -515,7 +539,12 @@ Oath
     
     -   Increases the price of your Magic Coffin by 50%.
     -   Adds the entire Depths lootpool to the coffin.
+    -   Rat King is currently accessible without fighting Shogun first, allowing you to fight him at lower power and get the benefit of the Depths lootpool and the reduced price of the Coffin, due to your low power.
 
 ### True Heart of Enmity
 
 -   Voice of the Mad God \[Common Talent\] - Any time you apply [charm](Status_Effects.md#charm) it now applies "[Madness](Status_Effects.md#madness)" to enemies directly.
+
+## References
+
+1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) December 24th Update Log

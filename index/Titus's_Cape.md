@@ -1,6 +1,6 @@
 ---
 title: "Titus's Cape"
-revid: 176592
+revid: 187426
 source: https://deepwoken.fandom.com/wiki/Titus's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes]
@@ -22,7 +22,7 @@ categories: [Equipment, Arms, Capes]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Titus Fulminus Destellus |
-| description | The fabled cape of Titus Fulminus Destellus. Even for its size, it's heavier than it looks. |
+| description | The fabled cape of Titus Fulminus Destellis. Even for its size, it's heavier than it looks. |
 
 ## Description
 

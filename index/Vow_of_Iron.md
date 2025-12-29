@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 187340
+revid: 187458
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -87,6 +87,8 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>): [Saramaed Summit](Saramaed_Summit.md)
 -   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): around the exit/entrance of the Miners Cave [Boundary](Boundary.md)
 -   [Prototype Railblade](Prototype_Railblade.md): [Saramaed Summit](Saramaed_Summit.md)
+-   [Darksteel Cleaver](Darksteel_Cleaver.md): in depths at the location of [The Chariot's Spire](<The_Chariot's_Spire.md>)
+-   [Void Ring](Void_Ring.md): on the island behind [Etris](Etris.md)
 
 ### Lumen and The Depths
 
