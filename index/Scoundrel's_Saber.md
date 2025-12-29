@@ -1,6 +1,6 @@
 ---
 title: "Scoundrel's Saber"
-revid: 185801
+revid: 187626
 source: https://deepwoken.fandom.com/wiki/Scoundrel's_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons with Unique Criticals]
@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Medium Weapons, Swords, Weapons wit
 
 The Scoundrel's Saber is a Medium Sword weapon sold exclusively by [Traan Zakshun](Traan_Zakshun.md) at a price of 650.
 
-Obtainable in Vow of Iron through (at minimum) the strange merchant's resonance.
+Obtainable in Vow of Iron in depth chests and through the strange merchant's resonance.
 
 ## Critical
 
@@ -52,5 +52,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   This is part of the Saber weapon family, along with the [Officer Saber](Officer_Saber.md) and [Cavalry Saber](Cavalry_Saber.md).
--   The critical has a very inconsistent hitboxes, often causing the critical's increased damage on backhit gimmick to not work at all.
+-   The critical has a very inconsistent hitbox, often causing the critical's increased damage on backhit gimmick to not work at all.
 -   The Scoundrel's Saber had a bug on release, where if you [alloyed](Pluripotent_Alloy.md) it, it would turn into an [Alloyed Officer Saber](Officer_Saber.md#alloyed).
