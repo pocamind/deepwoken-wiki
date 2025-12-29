@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 184307
+revid: 187614
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -188,6 +188,7 @@ February 8th 2025
 
 -   Currently, this is one of three Oaths where you cannot skip progression with Knowledge.
     -   If the knowledge progression skip were to be added it would be potentially more expensive than progressing the Oath normally.
+-   If you proc [Emperor Flame](Talents.md), it changes the outline of your [ardour](Murmur%253A_Ardour.md) from purple to whatever you flame color was (orange, blue, black)
 -   It is recommended to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) or [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) to progress this Oath as they only use 1 Knowledge each time.
 -   Rhythm Advance might be a reference to Killua's "Rhythm Echo" from HXH
 -   If you have at least 40 Charisma, getting the talent '[Celebrity](Talents.md#celebrity)' makes farming reputation for [Etrea](Etrea.md) a bit easier.

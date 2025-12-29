@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 176105
+revid: 187610
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Hive]
@@ -73,7 +73,7 @@ Neutral-Bad Reputation:
 
 [Laplace Diri](Laplace.md): A Ganymede who is a member of the Diri Family, thus being related to Miziri and Ximac Diri, he is capable of changing the enchantment of a weapon by wrapping the three enchants together in Linen (Flax Plant fibers turned to Textile) and using an unspecified technique derived from Miziri Diri.
 
-[Regek](Regek.md): A Vesperian who is the librarian of the Greathive Aratel, through his errand of collecting sap from soulblooms located around the Greathive he will let the player increase the potency of their Attunement-less Mantras, he also explains the about the origins of how the Greathives are created.
+[Regek](Regek.md): A Vesperian who is the librarian of the Greathive Aratel, through their errand of collecting sap from soulblooms located around the Greathive they will let the player increase the potency of their Attunement-less Mantras, they also explain the origins of how the Greathives are created.
 
 [Suri](Suri.md): A Vesperian who tasks the player to bring a flower to the grave of his brother located at the [Isle of Vigils](Isle_of_Vigils.md) through unknown reasons, his quest can be restarted if the [Delicate Flower](Delicate_Flower.md) becomes ruined.
 

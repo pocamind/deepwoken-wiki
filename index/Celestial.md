@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 183937
+revid: 187613
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sapient species]
@@ -21,7 +21,7 @@ _The stars call you back..._
 
 The People of the Stars, so to speak. They are not to be confused with [Lightborn](Lightborn.md), their descendants. The Celestials evacuated to the Luminants from the stars during an event known as the '[Heavensfall](Heavensfall.md)' - the reason for their mass descent is currently unknown. The siege of [Constellia](Constellia.md), a city in the heavens known as the Celestials' Last Gift, happened around 77 years after the 'Heavensfall'. Constellia ultimately fell at the hands of invading [Kyrsgarde](Kyrsgarde.md), sent under [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) will.
 
-Known Celestials include [Navae](The_Children_of_Navae.md) and [Alsin](Alsin.md), who have become religious figures in modern times. [The Starkindred Church](The_Starkindred_Church.md) gain their powers from drinking the ichor of Celestials. Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features. This Celestial in particular intentionally resembles the [Suncross](Suncross.md), Deepwoken's sun.
+Known Celestials include [Navae](The_Children_of_Navae.md) and [Alsin](Alsin.md), who have become religious figures in modern times. [The Goonmasters](The_Starkindred_Church.md) gain their powers from drinking the ichor of Celestials. Their appearances seem to vary wildly, with the crucified Celestial being a large, mannequin-like figure with four arms and no features. This Celestial in particular intentionally resembles the [Suncross](Suncross.md), Deepwoken's sun.
 
 ## Dialogue
 
