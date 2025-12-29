@@ -1,9 +1,9 @@
 ---
 title: Ploom
-revid: 172208
+revid: 187566
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame]
 ---
 
 # Ploom
@@ -13,6 +13,10 @@ categories: [Ganymede NPCs, NPCs, Quests, NPCs located in the Etrean Luminant, T
 | name | Ploom |
 | aspect | Ganymede |
 | location | Etris |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Overview
 

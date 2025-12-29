@@ -1,9 +1,9 @@
 ---
 title: Suyuan
-revid: 177199
+revid: 187574
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Suyuan
@@ -15,6 +15,10 @@ categories: [Etrean NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Lumina
 | location | Temple of the Blade library |
 | affiliation | Etrea |
 | family | Kiriban (father; deceased) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Hey you! Have you seen a ghost? ”
 

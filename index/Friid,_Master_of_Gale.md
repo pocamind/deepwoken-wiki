@@ -1,9 +1,9 @@
 ---
 title: "Friid, Master of Gale"
-revid: 181044
+revid: 187551
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Friid, Master of Gale
@@ -14,6 +14,10 @@ categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Lumi
 | drops | None |
 | weapon | Curved Blade of Winds |
 | moves | Assault, Critical, Rising Wind, Strong Left |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

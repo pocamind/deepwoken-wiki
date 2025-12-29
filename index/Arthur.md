@@ -1,9 +1,9 @@
 ---
 title: Arthur
-revid: 167974
+revid: 187541
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Arthur
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 | aspect | Etrean |
 | location | Burning Stone Gardens |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

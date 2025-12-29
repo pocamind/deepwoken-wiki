@@ -1,9 +1,9 @@
 ---
 title: Chef Odiolavoro
-revid: 175081
+revid: 187544
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Felinor NPCs, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Chef Odiolavoro
@@ -13,6 +13,10 @@ categories: [Felinor NPCs, Pages with broken file links, NPCs, NPCs located in t
 | name | Odiolavoro |
 | aspect | Felinor |
 | location | Etris |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) "chef" that's opened up shop in [Etris](Etris.md) recently and is hoping to one day be able to compete with the [Leshi](Lance.md) [brothers](<Lance's_Brother.md>).
 

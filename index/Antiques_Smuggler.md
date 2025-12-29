@@ -1,9 +1,9 @@
 ---
 title: Antiques Smuggler
-revid: 176899
+revid: 187525
 source: https://deepwoken.fandom.com/wiki/Antiques_Smuggler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Etrean Luminant]
 ---
 
 # Antiques Smuggler
@@ -13,6 +13,10 @@ categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant]
 | name | Antique Smuggler |
 | aspect | Etrean |
 | location | Path's Respite |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

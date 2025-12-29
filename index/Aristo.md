@@ -1,9 +1,9 @@
 ---
 title: Aristo
-revid: 167618
+revid: 187539
 source: https://deepwoken.fandom.com/wiki/Aristo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Aristo
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 | name | Aristo |
 | aspect | Etrean |
 | location | Isle of Vigils |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

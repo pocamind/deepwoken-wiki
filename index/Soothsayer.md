@@ -1,9 +1,9 @@
 ---
 title: Soothsayer
-revid: 171607
+revid: 187573
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry]
+categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry]
 ---
 
 # Soothsayer
@@ -14,6 +14,10 @@ categories: [Celtor NPCs, Reputation, NPCs, NPCs located in the Etrean Luminant,
 | aspect | Celtor |
 | location | Starfield Tundra |
 | affiliation | The Ministry |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Oh! Oh oh. You see it, don't you? Won't you share your Knowledge with me? Please? ”
 

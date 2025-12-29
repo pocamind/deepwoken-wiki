@@ -1,9 +1,9 @@
 ---
 title: Lance
-revid: 175074
+revid: 187559
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Vendors, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Vendors, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Lance
@@ -15,6 +15,10 @@ categories: [Etrean NPCs, NPCs, Vendors, Etrea, NPCs located in the Etrean Lumin
 | location | Etris |
 | affiliation | Etrea |
 | family | Lance's Brother (brother) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ LANCE LESHI. ”
 

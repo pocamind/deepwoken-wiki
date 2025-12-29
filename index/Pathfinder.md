@@ -1,6 +1,6 @@
 ---
 title: Pathfinder
-revid: 185469
+revid: 187599
 source: https://deepwoken.fandom.com/wiki/Pathfinder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Game Modes, Paths, Character]
@@ -29,4 +29,4 @@ Pathfinder is the intended main gamemode of _Deepwoken_. Progress your character
 
 While Pathfinder has no defined goal or ending per se, [Echoes](Echoes.md) can be considered your main goal, providing upgrades that persist beyond death and across [character slots](Character_Slots.md).
 
-Purchasing a Aspect Reroll [Robux](https://roblox.fandom.com/wiki/Robux) on either gamemode will give you an **Aspect Reroll Token** for the opposite gamemode. This allows you to reroll your Aspect for free. Reroll Tokens are account wide and can be cashed in on any slot.
+Purchasing an Aspect Reroll [Robux](https://roblox.fandom.com/wiki/Robux) on either gamemode will give you an **Aspect Reroll Token** for the opposite gamemode. This allows you to reroll your Aspect for free. Reroll Tokens are account wide and can be cashed in on any slot.

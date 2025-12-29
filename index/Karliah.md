@@ -1,9 +1,9 @@
 ---
 title: Karliah
-revid: 177627
+revid: 187554
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Adret NPCs, Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Karliah
@@ -14,6 +14,10 @@ categories: [Adret NPCs, The Divers, NPCs, NPCs located in the Etrean Luminant, 
 | aspect | Adret |
 | location | Etris |
 | affiliation | The Divers |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Oh, sorry, I didn't see you there. I'm Karliah, apprentice Diver extraordinaire! ”
 

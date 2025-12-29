@@ -1,9 +1,9 @@
 ---
 title: Kelsius
-revid: 186003
+revid: 187536
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
 ---
 
 # Kelsius
@@ -14,6 +14,10 @@ categories: [Adret NPCs, NPCs, Quests, Etrea, NPCs located in the Etrean Luminan
 | aspect | Adret |
 | location | Temple of the Blade |
 | affiliation | The Central Authority (formerly), Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

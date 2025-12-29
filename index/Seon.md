@@ -1,9 +1,9 @@
 ---
 title: Seon
-revid: 185878
+revid: 187584
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Seon is an [Etrean](Etrean.md) NPC. He plans to take down [The Lord Regent](The_Lord_Regent.md).
+Seon is an [Etrean](Etrean.md) NPC who accepts a bribe for the [Etrean Royalists](Etrean_Royalists.md). The player can pay them up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
 
 ## Location
 
@@ -35,7 +35,7 @@ Seon is located in two different locations
 
 ## Dialogue
 
-**First Encounter:**
+**Good Reputation:**
 
 <table>
 <tbody>
@@ -43,13 +43,7 @@ Seon is located in two different locations
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The guard looks you up and down.*</i> State your purpose, stranger. Consider yourself lucky that I'm willing to grant you this mercy.</td>
-</tr>
-<tr>
-  <td>I seek the Lord Regent's defeat.</td>
-</tr>
-<tr>
-  <td>Hm. Is that so? At first sight I thought you a sellsword... But perhaps you may prove useful to the cause. I will spread the word, but do not assume complacency. We have our eye on you.</td>
+  <td><i>*The guard looks you up and down.*</i> Consider yourself lucky, stranger - you've got no business with me. But if you ever find yourself in a spot of trouble with the Royalists, the Old Guard... We may have something to talk about.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -57,7 +51,52 @@ Seon is located in two different locations
 </tbody>
 </table>
 
-**Subsequent Encounter:**
+**Bad Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="8">Begin</td>
+</tr>
+<tr>
+  <td colspan="8"><i>*The guard glances at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
+</tr>
+<tr>
+  <td colspan="8">How?</td>
+</tr>
+<tr>
+  <td colspan="8">Our war chest dwindles, and our struggle demands funding. A suitable contribution to the glory of the Royalist cause may help the clans forget your trespasses.</td>
+</tr>
+<tr>
+  <td colspan="4">What sum would clear my name?</td>
+  <td colspan="4">I won't partake in this.</td>
+</tr>
+<tr>
+  <td colspan="4">For a tribute of <b>[X] Notes</b>, the sachans may consider a pardon to your name, and you may be at peace with the Royalists once again.</td>
+  <td colspan="4">As you wish. If you change your mind, you may return to me. Otherwise... I only pray my kinsmen give you the graces of a <i>swift</i> death.</td>
+</tr>
+<tr>
+  <td colspan="2">Here.</td>
+  <td colspan="2">I won't partake in this.</td>
+  <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td>Sufficient Notes</td>
+  <td>Not Enough Notes</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td><i>*The guard nods.*</i> Very well. With this tribute, the clans may set their grievances with you aside. Swift journeys to you, stranger.</td>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>[End Dialogue], reputation with Etrean Royalists is set to neutral</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Villain Reputation:**
 
 <table>
 <tbody>
@@ -65,7 +104,7 @@ Seon is located in two different locations
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*The guard looks you up and down.*</i> State your purpose, stranger. Consider yourself lucky stranger -you've got no business with me. But if you ever find yourself in a spot of trouble with the Royalists, the Old Guard... We may have something to talk about.</td>
+  <td>WIP</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

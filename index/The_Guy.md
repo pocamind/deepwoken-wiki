@@ -1,6 +1,6 @@
 ---
 title: The Guy
-revid: 186761
+revid: 187585
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -130,7 +130,7 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
 -   The Guy is voiced by head moderator HorrorTM.
     -   Arch\_Mage was wondering who to get to voice The Guy, only for moderator fabiosans to send an audition by Horror in the artist-general chat in the official Deepwoken discord. The audition was so well received by the members and Arch\_Mage that it was instantly accepted.
 -   The Guy's Eyeglasses have the exact same model as the Polarized Eyeglasses.
--   The Great Megalodaunt Rising is what he is referring to when he says "The Rumbling of 1291".
+-   [The Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) is what he is referring to when he says "The Rumbling of 1291".
 -   The Guy's hair ID is 4735347390, combined with his Canor sideburns.
 -   Apparently is good friends with Destroyman III. But the way Destroyman III mentions it makes it look like a lie to make the player jealous. After all, who wouldn't be jealous of someone that is friends with The Guy?
 -   After taking his sunglasses, his name changes from "The Guy," who was simply The Guy, to simply "Guy," who is simply, a Guy. Also his voice becomes high-pitched, as if he lost all of his testosterone upon losing his glasses.

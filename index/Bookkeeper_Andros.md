@@ -1,9 +1,9 @@
 ---
 title: Bookkeeper Andros
-revid: 174261
+revid: 187543
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Bookkeeper Andros
@@ -14,6 +14,10 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 | location | Etris |
 | affiliation | Etrea |
 | family | Andros' grandfather |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Overview
 

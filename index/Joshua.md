@@ -1,9 +1,9 @@
 ---
 title: Joshua
-revid: 177290
+revid: 187553
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Joshua
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
 | aspect | Etrean |
 | location | Etris |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Good day to you, youngster. Was there something you needed? ”
 

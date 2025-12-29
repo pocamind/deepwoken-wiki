@@ -1,9 +1,9 @@
 ---
 title: Korin
-revid: 177634
+revid: 187557
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Korin
@@ -14,6 +14,10 @@ categories: [NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
 | aspect | Etrean |
 | location | Etris |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Hey. We need more wood to keep the fires burning, you got any? ”
 

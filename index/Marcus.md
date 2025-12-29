@@ -1,9 +1,9 @@
 ---
 title: Marcus
-revid: 177222
+revid: 187562
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Marcus
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 | name | Marcus |
 | species | Stonespark |
 | location | The Hidden Village |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Sup. ”
 

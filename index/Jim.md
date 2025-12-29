@@ -1,9 +1,9 @@
 ---
 title: Jim
-revid: 180058
+revid: 187534
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Jim
@@ -13,6 +13,10 @@ categories: [Canor NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 | name | Jim |
 | aspect | Canor |
 | location | Etris Docks |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

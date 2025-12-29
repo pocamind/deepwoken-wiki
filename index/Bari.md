@@ -1,9 +1,9 @@
 ---
 title: Bari
-revid: 176931
+revid: 187542
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Bari
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, Vendors, NPCs, NPCs located in the Etrean Luminant]
 | aspect | Etrean |
 | location | Isle of Vigils |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

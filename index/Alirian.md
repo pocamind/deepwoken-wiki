@@ -1,9 +1,9 @@
 ---
 title: Alirian
-revid: 172736
+revid: 187538
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, Oath Trainer, NPCs located in the Etrean Luminant]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the Etrean Luminant]
 ---
 
 # Alirian
@@ -13,6 +13,10 @@ categories: [Celtor NPCs, NPCs, Oath Trainer, NPCs located in the Etrean Luminan
 | name | Alirian |
 | aspect | Celtor |
 | location | Minityrsa |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ My despicable rival... it's a DISPLEASURE to see you again! In a friendly way though. Teehee. ”
 

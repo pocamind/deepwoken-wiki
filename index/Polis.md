@@ -1,9 +1,9 @@
 ---
 title: Polis
-revid: 184966
+revid: 187567
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
+categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
 ---
 
 # Polis
@@ -15,6 +15,10 @@ categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, 
 | weapon | Darksteel Greatsword |
 | moves | Assault, Critical , Gale Lunge , Rising Wind , Strong Left , Rapid Punches |
 | affiliation | The JusticarEtrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ May Alsin have mercy on me. ”
 

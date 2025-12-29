@@ -1,9 +1,9 @@
 ---
 title: "Lance's Brother"
-revid: 185610
+revid: 187548
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Lance's Brother
@@ -15,6 +15,10 @@ categories: [Etrean NPCs, NPCs, Vendors, Quests, Etrea, NPCs located in the Etre
 | location | Isle of Vigils |
 | affiliation | Etrea |
 | family | Lance (brother) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

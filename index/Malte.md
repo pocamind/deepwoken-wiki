@@ -1,9 +1,9 @@
 ---
 title: Malte
-revid: 162711
+revid: 187561
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Malte
@@ -14,9 +14,13 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant]
 | aspect | Etrean |
 | location | Isle of Vigils |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 “ If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? ”
 
-― Malte, upon being spoken to.
+― Malte
 
 ## Description
 

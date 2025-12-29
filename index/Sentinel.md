@@ -1,9 +1,9 @@
 ---
 title: Sentinel
-revid: 184808
+revid: 187570
 source: https://deepwoken.fandom.com/wiki/Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Sentinel
@@ -12,6 +12,10 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 |---|---|
 | aspect | Etrean |
 | location | Etris |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

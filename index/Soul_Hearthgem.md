@@ -1,9 +1,9 @@
 ---
 title: Soul Hearthgem
-revid: 180663
+revid: 187527
 source: https://deepwoken.fandom.com/wiki/Soul_Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Quest Item]
+categories: [Pathfinder Exclusive, Items, Quest Item]
 ---
 
 # Soul Hearthgem
@@ -15,6 +15,10 @@ categories: [Items, Quest Item]
 | droppable | Yes |
 | pass down | No |
 | desc | What could this object be for? A key of some kind? |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

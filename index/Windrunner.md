@@ -1,9 +1,9 @@
 ---
 title: Windrunner
-revid: 166520
+revid: 187580
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Windrunner
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the Etrean Luminant]
 | name | Windrunner |
 | aspect | Celtor |
 | location | Etrean Wilds |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ If you value your life, you will run. I can tell that you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror. ”
 

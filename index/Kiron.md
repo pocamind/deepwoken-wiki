@@ -1,6 +1,6 @@
 ---
 title: Kiron
-revid: 182566
+revid: 187513
 source: https://deepwoken.fandom.com/wiki/Kiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -155,3 +155,4 @@ Kirons have optional face markings. The color of these markings is based on your
 -   The surname Draatu may be a nod to Dracula.
 -   You can combine the names ‘Nosfa’ and ‘Ratu’ to get a name that sounds similar to ‘Nosferatu’, the original vampire horror movie from 1922.
 -   Each variant name is related to or directly named after a Genus of bat.
+-   The surname 'Ventu' could be a reference to the 'Ventrue' clan from _Vampire the Masquerade_.

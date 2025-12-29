@@ -1,9 +1,9 @@
 ---
 title: Alastir
-revid: 187344
+revid: 187526
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Alastir
@@ -13,6 +13,10 @@ categories: [Celtor NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 | name | Alastir |
 | aspect | Celtor |
 | location | Pathfinder's Respite |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Duke Erisia, the man who rules over this doomed rock of an island. From what I gather, he used to be quite reasonable. And then, of course, we drifted. And so too did his mind drift to fell endeavors. ”
 

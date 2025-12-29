@@ -1,9 +1,9 @@
 ---
 title: Theadre
-revid: 177191
+revid: 187575
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Theadre
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Etrean Luminant]
 | aspect | Etrean |
 | location | Etris |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,17 +1,20 @@
 ---
 title: Legendary Boot
-revid: 171838
+revid: 187537
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Legendary Boot
 
 | Legendary Boot | |
 |---|---|
-| name | Legendary Boot |
 | location | Erisia |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Descrition
 

@@ -1,6 +1,6 @@
 ---
 title: Temple of Mur
-revid: 187480
+revid: 187590
 source: https://deepwoken.fandom.com/wiki/Temple_of_Mur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Pages with broken file links]
@@ -21,7 +21,3 @@ LocationL Temple of Mur LocationR
   
 
 File:TempleOfMurEntrance.png
-
-This location houses the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>). When defeated, allows the player to go past level five
-
-Temple of Mur Boundary

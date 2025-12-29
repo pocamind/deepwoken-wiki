@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 187459
+revid: 187515
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -540,6 +540,8 @@ Dialogue: [Kaide](Kaide,_the_Drowned_Light.md), [Mikhail Spellhardt](Mikhail_Spe
 -   Constellia was reduced to rubble 77 years after it was abandoned by its [Celestial](#the-celestials) rulers.
 
 -   Constellia fell to a [Kyrsan](#kyrsan--kyrsgarde) invasion.
+
+Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if the player has a [Kyrsieger](Kyrsieger.md) equipped
 
 ### The Depths
 

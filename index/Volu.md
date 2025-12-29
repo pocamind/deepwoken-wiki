@@ -1,9 +1,9 @@
 ---
 title: Volu
-revid: 173939
+revid: 187579
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, The Ministry]
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Ministry]
 ---
 
 # Volu
@@ -14,6 +14,10 @@ categories: [Capra NPCs, NPCs, NPCs located in the Etrean Luminant, The Ministry
 | aspect | Capra |
 | location | Outpost Antumbra |
 | affiliation | The Ministry |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

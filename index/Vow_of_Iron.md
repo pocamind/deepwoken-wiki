@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 187458
+revid: 187600
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -40,7 +40,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   The Rougelite aspect of progression in this gamemode is obtaining new Mementos.
 -   Vow of Iron features a separate [Aspect](Aspects.md) slot used exclusively for the mode. For the Vow of Iron gamemode only; you can swap between your Pathfinder and Vow of Iron aspect freely in the character creation menu. You cannot use your Vow of Iron Aspect in Pathfinder.
     -   There are also unique Aspects available in Vow of Iron, and all Aspects receive an additional new [innate Talent](Talents.md#innate).
-    -   Purchasing a Aspect Reroll [Robux](https://roblox.fandom.com/wiki/Robux) on either gamemode will give you an **Aspect Reroll Token** for the opposite gamemode. This allows you to reroll your Aspect for free. Reroll Tokens are account wide and can be cashed in on any slot.
+    -   Purchasing an Aspect Reroll [Robux](https://roblox.fandom.com/wiki/Robux) on either gamemode will give you an **Aspect Reroll Token** for the opposite gamemode. This allows you to reroll your Aspect for free. Reroll Tokens are account wide and can be cashed in on any slot.
 -   A lot of Pathfinder NPCs are absent, with Vow of Iron counterparts.
 -   Legendary Weapons can be [Enchanted](Enchantments.md).
 

@@ -1,9 +1,9 @@
 ---
 title: Mauled Diver Corpse (Apprentice Hero)
-revid: 180540
+revid: 187531
 source: https://deepwoken.fandom.com/wiki/Mauled_Diver_Corpse_(Apprentice_Hero)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
+categories: [Pathfinder Exclusive, Members of Diver expeditions to the Second Layer, Deceased characters, Characters mentioned in books]
 ---
 
 # Mauled Diver Corpse (Apprentice Hero)
@@ -14,6 +14,10 @@ categories: [Members of Diver expeditions to the Second Layer, Deceased characte
 | affiliation | The Divers[1] |
 | death | Eaten by the parasites of the Second Layer[1] |
 | deathdate | 1272 CE[2] |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

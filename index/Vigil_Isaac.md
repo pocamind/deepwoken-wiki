@@ -1,9 +1,9 @@
 ---
 title: Vigil Isaac
-revid: 176923
+revid: 187532
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Vigil Isaac
@@ -15,6 +15,10 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 | location | Temple of the Blade, Upper Erisia |
 | affiliation | Etrea |
 | family | Apprentice Kj (brother) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ I'll be heading back soon, 'Walk with the Wind' stranger. ”
 

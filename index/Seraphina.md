@@ -1,9 +1,9 @@
 ---
 title: Seraphina
-revid: 164413
+revid: 187571
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -15,6 +15,10 @@ notices:
 | name | Seraphina |
 | aspect | Capra |
 | location | Etris Docks |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

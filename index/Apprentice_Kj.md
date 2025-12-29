@@ -1,9 +1,9 @@
 ---
 title: Apprentice Kj
-revid: 176900
+revid: 187530
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Etrean NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Quests]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -17,6 +17,10 @@ notices:
 | location | Temple of the Blade |
 | affiliation | Etrea |
 | family | Vigil Isaac (brother) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Thank you stranger, this is a great kindness. ”
 

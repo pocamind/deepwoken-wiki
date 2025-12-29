@@ -1,9 +1,9 @@
 ---
 title: Zana
-revid: 176685
+revid: 187581
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
 ---
 
 # Zana
@@ -14,6 +14,10 @@ categories: [NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
 | drops | Frigid Prism |
 | weapon | Shattered Katana |
 | moves | Assault, Critical |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Never forget the signature pose, my brethren. ”
 

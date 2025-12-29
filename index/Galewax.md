@@ -1,12 +1,23 @@
 ---
 title: Galewax
-revid: 160866
+revid: 187517
 source: https://deepwoken.fandom.com/wiki/Galewax
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Layer 2, Floor 1]
 ---
 
 # Galewax
+
+| Galewax | |
+|---|---|
+| weight | 1 |
+| stack | x9(?) |
+| type | Ingredient |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Ancient wax of the Ethironal Shrine, allowing one to ignite divine candles. |
+| obtainment | Second Layer |
 
 ## Description
 

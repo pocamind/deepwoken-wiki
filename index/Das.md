@@ -1,9 +1,9 @@
 ---
 title: Das
-revid: 180975
+revid: 187546
 source: https://deepwoken.fandom.com/wiki/Das
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Das
@@ -14,6 +14,10 @@ categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant]
 | aspect | Vesperian |
 | location | Isle of Vigils |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

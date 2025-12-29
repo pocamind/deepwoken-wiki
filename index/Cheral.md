@@ -1,9 +1,9 @@
 ---
 title: Cheral
-revid: 167988
+revid: 187549
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, NPCs, NPCs located in the Etrean Luminant, The Children of Navae]
+categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Children of Navae]
 ---
 
 # Cheral
@@ -14,6 +14,12 @@ categories: [Gremor NPCs, NPCs, NPCs located in the Etrean Luminant, The Childre
 | aspect | Gremor |
 | location | Etrean Wilds |
 | affiliation | The Children of Navae |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+  
 
 ## Description
 

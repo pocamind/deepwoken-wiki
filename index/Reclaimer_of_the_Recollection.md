@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 186928
+revid: 187583
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Voiced Characters]
@@ -100,7 +100,8 @@ Recollection
   <td>Why can't I increase my power?</td>
 </tr>
 <tr>
-  <td>A core memory bars the way forward. You must confront it in order to access further memories.</td>
+  <td>A core memory bars the way forward. You must confront it in order to access further memories.<br>
+  </td>
 </tr>
 <tr>
   <td>How am I to proceed?</td>
@@ -306,7 +307,8 @@ Recollection
   <td>How am I to proceed?</td>
 </tr>
 <tr>
-  <td>As best as you can, you must live out the memories of the one who created your Memento. As you witnessed after facing the Shogun's memory, a warrior from the Etrean resistance against Zi'eer mentioned that you should make your way to the Golden Rat. There, allies of our cause once gathered, seeking to learn how to pierce the barrier surrounding Zi'eer's palace from a man who called himself 'the Rat King'.</td>
+  <td>As best as you can, you must live out the memories of the one who created your Memento. As you witnessed after facing the Shogun's memory, a warrior from the Etrean resistance against Zi'eer mentioned that you should make your way to the Golden Rat. There, allies of our cause once gathered, seeking to learn how to pierce the barrier surrounding Zi'eer's palace from a man who called himself 'the Rat King'.<br>
+  </td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

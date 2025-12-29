@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 187441
+revid: 187596
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -5054,7 +5054,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Laminated Armor: [Blackalloy Pauldrons](Blackalloy_Pauldrons.md) - Reduces all incoming damage by 3 (applied after damage multipliers).
     
-    -   Note: This is applied after damage multipliers, but not damage resistances. It is **not** possible to reach full damage negation using this Talent.
+    -   It is possible to reach full damage negation using this Talent.
+    -   If an attack deals less than 3 damage to you, the damage will be reduced into the negatives, allowing you to heal instead.
 
 -   Merc Blade: [Mercenary's Hood](<Mercenary's_Hood.md>) - For every 10% stealth you have, deal 1 extra damage on all sources of damage.
 

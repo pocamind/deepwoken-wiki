@@ -1,9 +1,9 @@
 ---
 title: Seroth
-revid: 186611
+revid: 187572
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Seroth
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 | aspect | Etrean |
 | location | Isle of Vigils |
 | affiliation | Etrea |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

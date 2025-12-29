@@ -1,9 +1,9 @@
 ---
 title: Drefa
-revid: 163703
+revid: 187547
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Drefa
@@ -13,6 +13,10 @@ categories: [Etrean NPCs, NPCs, Quests, NPCs located in the Etrean Luminant]
 | name | Drefa |
 | aspect | Etrean |
 | location | Isle of Vigils, Temple Approach |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

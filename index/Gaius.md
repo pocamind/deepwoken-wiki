@@ -1,9 +1,9 @@
 ---
 title: Gaius
-revid: 177038
+revid: 187523
 source: https://deepwoken.fandom.com/wiki/Gaius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
+categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
 ---
 
 # Gaius
@@ -14,6 +14,14 @@ categories: [Khan NPCs, NPCs, NPCs located in the Etrean Luminant, The Hundred L
 | aspect | Khan |
 | location | The Viper's Jaw |
 | affiliation | The Hundred Legions |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ You're looking at the next ruler of the Legion. ”
+
+― Gaius
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Elykris
-revid: 177012
+revid: 187550
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Elykris
@@ -14,7 +14,11 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
 | aspect | Celtor |
 | location | Minityrsa |
 
-“ Thank you again, traveler. The Ministry must be stopped, lest we fall victim to their power. ”
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ The Ministry must be stopped, lest we fall victim to their power. ”
 
 ― Elykris
 
