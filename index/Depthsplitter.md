@@ -1,6 +1,6 @@
 ---
 title: Depthsplitter
-revid: 185171
+revid: 187786
 source: https://deepwoken.fandom.com/wiki/Depthsplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, Weapons with Talents, Medium Weapons]
@@ -36,11 +36,11 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, 
 | obtainment | TBA |
 | description | An ancient Etrean twinblade, recently rediscovered as a fragment of driftland surfaced, revealing the remnants of a long-lost Etrean platoon that had perished and been claimed by the void ages ago. Now, this weapon, once thought lost to time, has re-emerged into circulation, carrying with it echoes of forgotten battles. |
 
+Variants: [Scalesplitter](Scalesplitter.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Variants: [Scalesplitter](Scalesplitter.md)
 
 ## Description
 

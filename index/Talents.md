@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 187596
+revid: 187836
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -535,7 +535,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succomb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
     -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
     -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
-    -   Berserk can be deactivated after 10 seconds by using the Talent tool again. If you don't meet this Talent's requirements, you will not be able to deactivate it manually.
+    -   Berserk can be deactivated after 10 seconds by using the Talent tool again.
     -   When activated:
         -   Your eyes and hair turn red with your eyes gaining a red trail.
         -   Your armor, including Natural Armor, is immediately removed. These bars will be restored back to their previous values when Berserk ends.
@@ -2060,6 +2060,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Electrify \[Common Talent, Thundercall Exclusive\] - Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape.
     -   Grants a Talent tool.
     -   Electrify has a 1 minute cooldown.
+    -   Deals 5% of your **current** health as Thundercall self damage.
     -   Amped grants your weapon attacks a 10% damage buff and allows your weapon attacks to apply Shock or Surge Rods on hit.
     -   While Amped, you take 10% more damage from all sources.
     -   Currently bugged; you cannot use Electrify unless your weapon is sheathed, and Electrify has no cooldown. The buffs do not stack however.
@@ -2069,6 +2070,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Amplified Reflexes \[Common Talent, Thundercall Exclusive\] - Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown.
     -   Increases Electrify's cooldown from 1 minute to 2.
+    -   Deals 15% of your **current** health as Thundercall self damage.
+    -   Increases walk speed by 50% and grants a 20% buff to climb height. All other forms of parkour and movement are unaffected by Amplified Reflexes.
     -   Previously known as Jumpstart.
     -   Prerequisites: 35 Thundercall, Electrify
     -   Mutual Exclusive: Amplified Rage

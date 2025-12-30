@@ -1,6 +1,6 @@
 ---
 title: Sentinel
-revid: 187689
+revid: 187825
 source: https://deepwoken.fandom.com/wiki/Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -19,7 +19,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sentinel is an NPC located on the edge of [Etris](Etris.md). They appear to be guarding the house where [Khan](<Khan_(NPC).md>) is, only appearing while the "Lost Books" [Quest](Quests.md) is active.
+Sentinel is an [Etrean](Etrean.md) NPC. They appear to be guarding the house where [Khan](<Khan_(NPC).md>) is in. He is of the "Lost Books" quest given by [Kelsius](Kelsius.md).
 
 ## Location
 
@@ -30,19 +30,19 @@ Sentinel is located under [Etris](Etris.md) in a run-down house.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">...</td>
+  <td>...</td>
 </tr>
 <tr>
-  <td colspan="12">Who are you?</td>
+  <td>Who are you?</td>
 </tr>
 <tr>
-  <td colspan="12">Enter.</td>
+  <td>Enter.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue], Sentinel steps to one side for five seconds, letting the player through the door</td>
+  <td>[End Dialogue], Sentinel steps to one side for five seconds, letting the player through the door</td>
 </tr>
 </tbody>
 </table>

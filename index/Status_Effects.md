@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 187741
+revid: 187810
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -748,7 +748,7 @@ When you reach 5 Static Blade stacks, clear all stacks and gain the Gathering El
 
 Applied by using the [Electrify](Talents.md#electrify) Talent tool. Grants a +10% damage modifier to weapon attacks, and allows you to apply [Shock](#shock) or [Surge Stacks](#overloaded) on your weapon attacks, depending on your chosen Thundercall path. Additionally, all incoming damage will be increased by 10%. This effect lasts 15 seconds. Signified by a colored conduit over your heart.
 
-This effect will be enhanced if you have the [Amplified Rage](Talents.md#amplified-rage) or [Amplified Reflexes](Talents.md#amplified-reflexes) Talents. If you have Amplified Rage, the damage buff will be doubled to +20%. If you have Amplified Reflexes, then you will gain increased movement speed and parkour benefits, at the cost of the self damage taken when casting Amped tripling and the cooldown doubling. These Talents are mutually exclusive with eachother.
+This effect will be enhanced if you have the [Amplified Rage](Talents.md#amplified-rage) or [Amplified Reflexes](Talents.md#amplified-reflexes) Talents. If you have Amplified Rage, the damage buff will be doubled to +20%. If you have Amplified Reflexes, then you will gain +50% walk speed and 10% more climb height for the duration of Amped, at the cost of the self damage taken when casting Amped tripling and the cooldown doubling. These Talents are mutually exclusive with eachother.
 
 ### Obscured
 

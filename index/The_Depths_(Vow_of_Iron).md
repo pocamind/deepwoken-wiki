@@ -1,9 +1,9 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 187118
+revid: 187800
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Pages with broken file links, Locations, Locations in the First Layer]
+categories: [Vow of Iron Exclusive, Locations, Locations in the First Layer]
 ---
 
 # The Depths (Vow of Iron)
@@ -22,9 +22,10 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
 -   There are no Jobs on the [Job Boards](Job_Boards.md).
 -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md) no longer works.
 -   You no longer receive health packs from enemies.
--   You cannot enter the [Second Layer](Second_Layer.md), as the room in [Castle Light](Castle_Light.md) that contains [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) is blocked off, and you will die if you enter the void regardless of HP.
--   Having [low sanity](Insanity.md) and being outside of the Cathedral of the Interstice for long enough will grant you an amount of flaws, depending on severity.
--   [Deep Gems](Deep_Gems.md) now grow in The Depths.
+-   You cannot enter the [Second Layer](Second_Layer.md), as the room in [Castle Light](Castle_Light.md) that contains [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) is blocked off.
+-   You will die if you fall into the void regardless of HP.
+-   Having [low sanity](Insanity.md) and being outside of the Cathedral of the Interstice for long enough will apply Afflictions to your character, depending on severity.
+-   [Deep Gems](Deep_Gems.md) have static spawn locations.
 
 <table><caption>Vow of Iron Depths Trial</caption>
 <tbody>
@@ -51,113 +52,111 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
 </tbody>
 </table>
 
-## Passive Flaws
+## Afflictions
 
-Scaling off of your [Insanity](Insanity.md), a countdown will begin on the centre left of your screen. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random flaw from a set list, multiple if you're insane enough. Select flaws gained this way are able to be re-applied, harshening the effects. Your character will shiver and scratch more often scaling with the amount of flaws currently afflicted. After reaching 100 flaws your character's head will explode.
+Scaling off of your [Insanity](Insanity.md), a countdown will begin on the centre left of your screen. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random Affliction from a set list. Multiple Afflictions can trigger at once if your Sanity is low enough. Your character will shiver and scratch more often scaling with the amount of Afflictions you have. After reaching 100 Afflictions your character's head will explode, killing you instantly.
 
-The timer at about 2/6 past 1. This count is unique, as it doesn't resemble its corresponding number, unlike the other symbols.
+Some Afflictions can be applied multiple times, harshening the effects.
 
 <table>
 <tbody>
 <tr>
-  <td><center><b>Name</b></center></td>
-  <td><center><b>Description</b></center></td>
-  <td><center><b>Effect</b></center></td>
-  <td><center><b>Max stacks</b></center></td>
+  <td><b>Name</b></td>
+  <td><b>Description</b></td>
+  <td><b>Effect</b></td>
+  <td><b>Max stacks</b></td>
 </tr>
 <tr>
-  <td><center><b>Etherphobia</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>You have an irrational fear of Ether.</center></td>
-  <td><center>Mantras require more Ether to cast. (10% increase for Glare from stack IV to V. 242 ether.)</center></td>
-  <td><center>Limitless</center></td>
+  <td><b>Etherphobia</b><br>
+  </td>
+  <td>You have an irrational fear of Ether.</td>
+  <td>Mantras require more 10% Ether to cast, per stack.</td>
+  <td>100</td>
 </tr>
 <tr>
-  <td><center><b>Atrophic</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>The words of the song bite at you, harshening the effects of Mantras against you.</center></td>
-  <td><center>Mantras deal 15% extra damage against you.</center></td>
-  <td><center>Limitless</center></td>
+  <td><b>Atrophic</b><br>
+  </td>
+  <td>The words of the song bite at you, harshening the effects of Mantras against you.</td>
+  <td>Applies a 15% damage buff per stack to incoming Mantras. Due to it being affected by the damage modifier cap, this damage buff caps at +50% with 5 stacks or +75% with 7 stacks if your opponent isn't in PvP combat.</td>
+  <td>100</td>
 </tr>
 <tr>
-  <td><center><b>Amaurosis</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>The world slips into darkness when you sustain damage.</center></td>
-  <td><center>Your screen darkens whenever damage is dealt to you.</center></td>
-  <td><center>I</center></td>
+  <td><b>Amaurosis</b><br>
+  </td>
+  <td>The world slips into darkness when you sustain damage.</td>
+  <td>Your screen darkens whenever damage is dealt to you.</td>
+  <td>1</td>
 </tr>
 <tr>
-  <td><center><b>Vertigo</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>The world swirls. You can barely keep your balance.</center></td>
-  <td><center>Randomly trip when running for extended periods of time.</center></td>
-  <td><center>I</center></td>
+  <td><b>Vertigo</b><br>
+  </td>
+  <td>The world swirls. You can barely keep your balance.</td>
+  <td>Randomly trip when running for extended periods of time.</td>
+  <td>2</td>
 </tr>
 <tr>
-  <td><center><b>Dysacusis</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>Nothing sounds the same. Something is wrong about the sounds you hear.</center></td>
-  <td><center>Certain sounds are muffled.</center></td>
-  <td><center>I</center></td>
+  <td><b>Dysacusis</b><br>
+  </td>
+  <td>Nothing sounds the same. Something is wrong about the sounds you hear.</td>
+  <td>Certain sounds are muffled.</td>
+  <td>1</td>
 </tr>
 <tr>
-  <td><center><b>Cibophobia</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>All food appears rotten and foul to you.</center></td>
-  <td><center>You're unable to consume food.</center></td>
-  <td><center>Limitless</center></td>
+  <td><b>Cibophobia</b><br>
+  </td>
+  <td>All food appears rotten and foul to you.</td>
+  <td>You're unable to consume food.</td>
+  <td>100</td>
 </tr>
 <tr>
-  <td><center><b>Megalophobia</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>You have an irrational fear of large objects.</center></td>
-  <td><center>You gain more insanity while near large enemies/objects (I.E Depths coral trees, Megalodaunts)</center></td>
-  <td><center>III</center></td>
+  <td><b>Megalophobia</b><br>
+  </td>
+  <td>You have an irrational fear of large objects.</td>
+  <td>You gain more insanity while near large enemies/objects (i.e. Depths coral trees, or large monsters like <a href="Megalodaunt.md">Megalodaunts</a>).</td>
+  <td>3</td>
 </tr>
 <tr>
-  <td><center><b>Restless</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>On and on and on. Ever-churning. Ceaseless thoughts keep you from resting.</center></td>
-  <td><center>You're unable to rest at campfires. ( Heliodar phenoix is included )</center></td>
-  <td><center>I</center></td>
+  <td><b>Restless</b><br>
+  </td>
+  <td>On and on and on. Ever-churning. Ceaseless thoughts keep you from resting.</td>
+  <td>You're unable to rest at campfires. This includes the <a href="Solborn.md">Solborn</a> Phoenix.</td>
+  <td>1</td>
 </tr>
 <tr>
-  <td><center><b>Heavy</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>Your feet sink into the ground. Your legs scream as you try to pull them free.</center></td>
-  <td><center>Jumping is heavily mitigated. You can just jump enough to initiate jumping related actions, but no more.</center></td>
-  <td><center>I</center></td>
+  <td><b>Heavy</b><br>
+  </td>
+  <td>Your feet sink into the ground. Your legs scream as you try to pull them free.</td>
+  <td>Jumping height heavily mitigated. You can jump just high enough to initiate jumping related actions.</td>
+  <td>1</td>
 </tr>
 <tr>
-  <td><center><b>Weakening</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>You can't stop the shivering. Your arms now falter under heavy blows.</center></td>
-  <td><center>Your crit becomes slower, Youre unable to use it at max stacks.</center></td>
-  <td><center>III</center></td>
+  <td><b>Weakening</b><br>
+  </td>
+  <td>You can't stop the shivering. Your arms now falter under heavy blows.</td>
+  <td>Your weapon criticals become slower. At max stacks, you cannot use your weapon critical.</td>
+  <td>3</td>
 </tr>
 <tr>
-  <td><center><b>Tarnished</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>What's wrong with me?</center></td>
-  <td><center>Works as the tarnished flaw you get from rerolling your bell at Yun'Shul.</center></td>
-  <td><center>I</center></td>
+  <td><b>Tarnished</b><br>
+  </td>
+  <td>What's wrong with me?</td>
+  <td>Works the same as the <a href="Boons_and_Flaws.md#flaws">Tarnished</a> Flaw, increasing your <a href="Resonance.md">Resonance</a>'s windup.</td>
+  <td>1</td>
 </tr>
 <tr>
-  <td><center><b>Manic</b><br>
-  File:Etherphobia1.png</center></td>
-  <td><center>All insanity gained from attacks is heavily amplified.</center></td>
-  <td><center>Persumably same as the base game flaw, though stacking.</center></td>
-  <td><center>II</center></td>
+  <td><b>Manic</b><br>
+  </td>
+  <td>All insanity gained from attacks is heavily amplified.</td>
+  <td>Presumably same as the <a href="Boons_and_Flaws.md#manic">Manic</a> Flaw, though this effect stacks.</td>
+  <td>2</td>
 </tr>
 </tbody>
 </table>
 
--   \* Note: "Max Stacks" is highest recorded count. Take with a grain of salt. If "limitless", count surpassed 10 with no clear sign of stopping.
--   Note: Atrophic was tested and it seems the max it goes up to is 50% extra damage at 5 stacks.
+-   \*Note: "Max Stacks" is highest recorded count. Take this with a grain of salt.
 -   Obtaining 45 drowns will give your trial a chance to be corrupted.
--   The cap on limitless is 100.
 
-## Notes & Trivia
+## Trivia
 
--   At max insanity, the Flaw countdown lasts as little as 3 seconds per number.
--   Past 15, the counter for flaws does not use roman numerals.
+-   At 0% Sanity, the countdown before an Affliction is gained is as little as 3 seconds.
+-   Past 15, the counter for Afflictions changes from Roman Numerals to Arabic Numerals.

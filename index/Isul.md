@@ -1,6 +1,6 @@
 ---
 title: Isul
-revid: 186915
+revid: 187829
 source: https://deepwoken.fandom.com/wiki/Isul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Hive, Reputation]

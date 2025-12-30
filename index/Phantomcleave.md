@@ -1,6 +1,6 @@
 ---
 title: Phantomcleave
-revid: 185998
+revid: 187784
 source: https://deepwoken.fandom.com/wiki/Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -33,6 +33,8 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Swords, Kata
 | pass down | Yes |
 | obtainment | Phantom Hunter |
 | description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
+
+Variants: [Alloyed Katana](Katana.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

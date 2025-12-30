@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 187524
+revid: 187772
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
@@ -21,13 +21,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Atra is a NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion. She stays with her group composed of [Caitus](Caitus.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md). She gives you the 'Legion Scout' [quest](Quests.md), urging you to find [Lars](Lars.md), another scout of the 11th Legion.
+Atra is a [Khan](Khan.md) NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion. She stays with her group composed of [Caitus](Caitus.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md). She gives you the 'Legion Scout' [quest](Quests.md), urging you to find [Lars](Lars.md), another scout of the 11th Legion.
 
 ## Location
 
 Atra is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_Jaw.md>) in a [The Hundred Legions](The_Hundred_Legions.md) hideout with other legion scouts.
 
-## Quest Details
+## Quest
 
 Completing her quest rewards you with EXP, positive [The Hundred Legions](The_Hundred_Legions.md) reputation, and Compassion.
 
@@ -35,7 +35,7 @@ Completing her quest rewards you with EXP, positive [The Hundred Legions](The_Hu
 2.  Lars is located in the bluecap library, where you'll find his dead body in a corner inbetween some bookshelves.
 3.  You'll have to then return to Atra to tell her about your findings, then you will be rewarded.
 
-## Dialogues
+## Dialogue
 
 **First Encounter:**
 
@@ -68,7 +68,7 @@ Completing her quest rewards you with EXP, positive [The Hundred Legions](The_Hu
   <td>It's a long story... Let's just say Lars isn't much of a fighter but, growing up with Gaius and I, he felt obligated to serve on the battlefield. Gaius never lets him hear the end of it.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ Completing her quest rewards you with EXP, positive [The Hundred Legions](The_Hu
   <td>I see... I'll let my comrades know. We'll hold a ceremony in his honor.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -124,7 +124,7 @@ This dialogue is unlocked if the player has spoken to [Gaius](Gaius.md) at least
   <td>Ah. Then you're probably aware he's a bit of a handful. <i>*She sighs.*</i> He has our Legion's best interest at heart though, trust me on that.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,39 +1,37 @@
 ---
-title: Cave Master
-revid: 187777
-source: https://deepwoken.fandom.com/wiki/Cave_Master
+title: Den Master (Vow of Iron)
+revid: 187835
+source: https://deepwoken.fandom.com/wiki/Den_Master_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 ---
 
-# Cave Master
+# Den Master (Vow of Iron)
 
-| Cave Master | |
+| Den Master | |
 |---|---|
-| aspect | Felinor |
-| location | Isle of Vigils |
+| aspect | Canor |
+| location | Etrean Wilds |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Buy, if you dare! ”
+
+― Den Master
 
 ## Description
 
-The Cave Master is a Felinor that sells Tier 1 and 2 [Mantra Modifiers](Mantra_Modifiers.md)
-
--   The Cave Master sells Crystal Lens and Perfect Lenses (Further mantra projectile range), Drift Shards and Rush Shards (Faster mantra projectile speed), Cloudstones and Stratus Stones (Larger mantra size), Aeon Logstones and Eternal Logstones (Extended mantra duration), and Amnesic Driftwood (Removes mantra modifiers).
--   Great for getting Mantra Modifiers without killing mobs for them (Bandits, Megalodaunts, Rock Golems, etc.)
--   Each tier one item (Cloudstones, Aeon Logstones, Drift Shards, Crystal Lenses and Amnesic Driftwood) costs 10 notes per item. Each tier two item (Stratus Stones, Eternal Logstones, Rush Shards, and Perfect Lenses) costs 25 notes per item.
-
-Theres another Cave Master named [Den Master](Den_Master.md) in [Etris](Etris.md) in a slightly hidden sandy cove.
+The Den Master is a [Canor](Canor.md) NPC. He sells basic tier one and two [Mantra Modifiers](Mantra_Modifiers.md).
 
 ## Location
 
-Cave Master is located in [Isle of Vigils](Isle_of_Vigils.md), his cave is located beside the barber and infront of [Well-kept Gravestone](Well-kept_Gravestone.md).
+The Den Master is located in the [Etrean Wilds](Etrean_Wilds.md), in a cave near a shore off the side of [Etris Docks](Etris_Docks.md).
 
 ## Shop
 
-Fruits of the Cave
+The Den Master's Haul
 
 <table>
 <tbody>
@@ -85,11 +83,11 @@ Fruits of the Cave
   <td>Begin</td>
 </tr>
 <tr>
-  <td><i>*Yawn.*</i> What's that? Y'here to buy somethin'? I'm tryin' to keep a low profile, so be quick about it.<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+  <td>A stranger wanders into my Den?.. Buy, if you dare!<br>
+  <font>[Opens</font> <a href="#shop"><u><font>Shop UI]</font></u></a></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

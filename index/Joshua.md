@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 187553
+revid: 187828
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -25,7 +25,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Joshua is an NPC that provides a small amount of XP when spoken to. He is located in Etris, towards [Lance's Restaurant](Etris.md#lances-food) and the General Store. He has the appearance of an old man with wrinkly skin, dark magenta eyes and a white version of the [Duke's](Duke_Ishamon_Erisia.md) hair.
+Joshua is an [Etrean](Etrean.md) NPC. If asked, he will speak about the Central Authority. Joshua has the appearance of an old man with wrinkly skin.
+
+  
+
+## Location
+
+Joshua is located inside of his house at [Etris](Etris.md), it is near the General Store and [Lance's](Lance.md) Restuarant.
 
 ## Dialogue
 
@@ -46,7 +52,7 @@ Joshua is an NPC that provides a small amount of XP when spoken to. He is locate
   <td>The <a href="Glossary.md#the-central-authority">Authority</a>? Hmm. I'm not too politically minded myself, but the people here certainly don't take kindly to them. If you ask me, they should keep to themselves and leave us be. I don't see what all the fuss is about.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -70,7 +76,7 @@ Joshua is an NPC that provides a small amount of XP when spoken to. He is locate
   <td>Oh, Karliah! Of course. She comes and cooks for little old me every now and then. She's truly a blessing</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -96,4 +102,7 @@ Joshua is an NPC that provides a small amount of XP when spoken to. He is locate
 
 ## Trivia
 
--   In the second ending of the Karliah quest, he is nowhere to be seen and his decapitated head is being held by Karliah in her house.
+-   Depending on the players progress in the "Diver Apprentice" quest, Joshua will change:
+    -   If the quest is in progress, he will mention of [Karliah](Karliah.md), a Diver Apprentice who cooks for him.
+    -   In one of the bad endings of the quest, he is nowhere to be seen and his decapitated head is being held by Karliah in her house.
+    -   In the good ending of the quest, he will thank the player for making Karliah seem happier.
