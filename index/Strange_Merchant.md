@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 187506
+revid: 187732
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -30,6 +30,8 @@ This content is not accessible outside of this gamemode.
 The memento also starts with [Warlock's Mantle](<Warlock's_Mantle.md>) equipped, however, the item seems to be bugged and shows the wrong stats. It also disappears upon being unequipped or replaced.
 
 Strange Merchant can ignore all requirements (stat and otherwise) on equipment, weapons and outfits.
+
+Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#instigator) talent on [Pathfinder](Pathfinder.md)
 
 ## Mystery Box Locations
 
@@ -487,7 +489,7 @@ Oath
 
 ### Power 15
 
--   Unfazed \[Common Talent\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
+-   Unfazed \[Common Talent\] **100** \- You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
     -   Contrary to the card's description, effect of insanities are delayed by a full tier.
         -   You now Shiver at Tier 2 insanity instead of Tier 1.
         -   Shiver slows movement, but does not cancel M1/Mantra.

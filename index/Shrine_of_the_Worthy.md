@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Worthy
-revid: 183666
+revid: 187767
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Worthy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]

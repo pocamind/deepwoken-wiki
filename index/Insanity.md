@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 179023
+revid: 187720
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -53,7 +53,7 @@ When losing enough sanity, the player will endure negative effects.
 -   Being hit by a weapon enchanted with [Curse of the No Life King](Enchantments.md), which gives you a 2% sanity decrease.
 -   Equipping a weapon enchanted with [Curse of the No Life King](Enchantments.md), which constantly gives you insanity when unsheathed while in [The Depths](The_Depths.md).
     -   The effects of this can be reduced through increasing Willpower. However, you'll still die if you don't regenerate your sanity.
--   Being in the immediate vicinity of the pulsating brains with eyes and looking at them in [Ancient Rotlands](Ancient_Rotlands.md).
+-   Being in the immediate vicinity of the pulsating brains with eyes and looking at them.
 -   Having the [Wishbound](Developer_Specs.md) flaw during nighttime.
 
 ## Sanity Restoring Effects

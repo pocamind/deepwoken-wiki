@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 187129
+revid: 187703
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -35,6 +35,8 @@ This content is not accessible outside of this gamemode.
 -   Command Phoenix \[Memento Talent\] - Command your Phoenix to scout, and dive into enemies.
     
     -   Gives a Talent tool that allows you to command your Phoenix to attack an enemy.
+    -   Using the tool at low Heartfire will summon a smaller version of the phoenix, which can only be used as a campfire.
+    -   Summoning an adult Phoenix, then commanding it to take air will allow you to select a spot where it should Divebomb on the next usage of the Talent.
 
 -   Solborn \[Memento Talent\] - Harness your Heartfire to command the Phoenix bound to your soul.
     

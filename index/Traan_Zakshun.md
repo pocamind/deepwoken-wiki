@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 187206
+revid: 187743
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on their back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan Zakshun also wears a hat made out of kelp on his head, which he claim is for later consumption.
 
-Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md).
+Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md).[\[1\]](#cite-note-1) He has a love of ongos that dates back to his youth.
 
 Traan Zakshun's shop runs on an hourly rotation. Every hour, he sell two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
@@ -170,6 +170,7 @@ Traan's item descriptions will change randomly each time he sell goods from his 
 -   _Colour makes us hungry - everything's connected!_
 -   _C'mon, everybody and their grandma wants to buy something like this._
 -   _DON'T drop it..._
+-   _Found this one in my nan's home during clearance - all pieces still intact!_
 -   _Hard sell, eh?.. What if it was purple?_
 -   _Hey now come on, it's not that expensive..._
 -   _Hey, you break it - you buy it._
@@ -179,6 +180,8 @@ Traan's item descriptions will change randomly each time he sell goods from his 
 -   _Isn't it weird how there's like, next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
+-   _I'd keep this for myself, since it's so lovely... But I'd love it more if you were to buy it instead!_
+-   _I've seen these for sale for three times the price, but I'm throwing you an aaabsolute curveball with this deal here..._
 -   _Look at all those shiny colours!_
 -   _Looks valuable, you should buy it!_
 -   _Lovely weather for buying something exactly like this, eh?_
@@ -313,6 +316,7 @@ The black market rotation always has 4 items in stock.
 Traan's item descriptions will change randomly each time he sell goods from his Black Market Cache:
 
 -   _A strange blue turnip salesman once told me that deep forests, like the ones in Upper Erisia, bring in good coin. Gotta say, he's right._
+-   _All sales are final. I'm limited liability, yeah?_
 -   _Buy it you break it. Wait a sec..._
 -   _Careful. This one's got a history.. I think._
 -   _Did you know if you give me the crowns, I'll actually GIVE you the item, it's a crazy deal right?_
@@ -320,14 +324,14 @@ Traan's item descriptions will change randomly each time he sell goods from his 
 -   _Don't even ask, man._
 -   _Got somethin' that might interest ya..._
 -   _Have I seen you before? Yeah, wait... you told people my stock sucked... Wait. Actually, that might've been someone else. I \*will\* find them._
--   _I gave one of these away for free yesterday. You missed out._
--   _I uhh, yeah I really shouldn't have these._
 -   _I barely know what I'm looking at here._
+-   _I gave one of these away for free yesterday. You missed out._
 -   _I need to use these crowns to buy some earplugs, for that eardrum-rupturing sea snake..._
--   _I'd wipe this for fingerprints._
--   _It cost me an arm and a limb to get ahold of these. Not mine, of course..._
--   _I've actually found myself in a spot of trouble when I was out and about with these after I got them.._
+-   _I uhh, yeah I really shouldn't have these._
 -   _If anyone asks - you didn't get this from me. Capiche?_
+-   _It cost me an arm and a limb to get ahold of these. Not mine, of course..._
+-   _I'd wipe this for fingerprints._
+-   _I've actually found myself in a spot of trouble when I was out and about with these after I got them.._
 -   _It's Antique! Scratch that, Brand New!_
 -   _It's just good business._
 -   _Just warning ya, you \*might\* be a wanted person in multiple places after buying this. Don't go wavin' that around._
@@ -434,8 +438,9 @@ Sold Items
     -   "_...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._" is a reference to a running joke in _Terraria_ that involves several merchant NPCs referencing the Angel Statue item.
     -   "_You want it? It's yours, my friend! As long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
     -   "_Colour makes us hungry - everything's connected!" is a reference to Redesign your Logo by Lemon Demon._
--   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[1\]](#cite-note-0-1) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting their hands dirty themselves.
+-   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[2\]](#cite-note-0-2) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting their hands dirty themselves.
 
 ## References
 
-1.  [↑](#cite-ref-0-1-0)
+1.  [↑](#cite-ref-1) [Naan Zakshun](Naan_Zakshun.md)
+2.  [↑](#cite-ref-0-2-0)

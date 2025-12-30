@@ -1,6 +1,6 @@
 ---
 title: Circle of Honour
-revid: 186732
+revid: 187755
 source: https://deepwoken.fandom.com/wiki/Circle_of_Honour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Circle of Honour]
@@ -17,9 +17,12 @@ notices:
 | territory | The Cerebral Spire |
 | goals | Defeat Zi'eer. |
 
-“ In Iron we recall. ”
+“ Memory of warriors,  
+In Iron we recall -  
+The triumphs of the glorious,  
+Who heard the solemn call. ”
 
-― Motto of the Circle
+― Full motto of the Circle
 
 ## Description
 

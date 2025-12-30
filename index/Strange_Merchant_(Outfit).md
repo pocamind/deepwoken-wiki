@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant (Outfit)
-revid: 187602
+revid: 187677
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Outfits, Unique Outfits]
@@ -12,7 +12,6 @@ notices:
 
 | Strange Merchant (Outfit) | |
 |---|---|
-| caption | N/A |
 | tier | Unique |
 | stat_req | Power 15 |
 | bankable | Yes |

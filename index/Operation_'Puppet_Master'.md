@@ -1,6 +1,6 @@
 ---
 title: "Operation 'Puppet Master'"
-revid: 178197
+revid: 187722
 source: https://deepwoken.fandom.com/wiki/Operation_'Puppet_Master'
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -24,6 +24,8 @@ notices:
 | ppl2 | Etrean Guards[1], Aster Leshi[1] |
 | casual1 | All forces[1] |
 | casual2 | 1 Etrean Guard[1], Aster Leshi[1] |
+
+_Not to be confused with the [Book](Books.md) "[Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)"._
 
 **Operation 'Puppet Master'** was a Class II espionage opposition class operation carried out by the Inquisitor codenamed [Lotus](Inquisitor_Lotus.md) in the Eastern Luminant. The goal of the operation was to obtain information regarding [Etrea](Etrea.md)'s [Lord Regent](The_Lord_Regent.md).[\[1\]](#cite-note-oppmr-1)
 

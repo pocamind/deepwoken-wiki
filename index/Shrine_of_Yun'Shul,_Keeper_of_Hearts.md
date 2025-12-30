@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 180490
+revid: 187711
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Layer 1, Oath Trainer]
@@ -101,12 +101,12 @@ If you meet all the criteria, you are able to make one of seven wishes:
   <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. MAY YOUR SOUL'S MURMUR BE AS IT ONCE WAS. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
 </tr>
 <tr>
-  <td>End, player instantly escapes The Depths</td>
-  <td>End, a random Flaw is rerolled</td>
-  <td>End, all Vows made are destroyed</td>
-  <td>End, player loses their Oath</td>
-  <td>End, player is given a hand of Resonances</td>
-  <td>End, player loses their Murmur</td>
+  <td>[End Dialogue], player instantly escapes The Depths</td>
+  <td>[End Dialogue], a random Flaw is rerolled</td>
+  <td>[End Dialogue], all Vows made are destroyed</td>
+  <td>[End Dialogue], player loses their Oath</td>
+  <td>[End Dialogue], player is given a hand of Resonances</td>
+  <td>[End Dialogue], player loses their Murmur</td>
 </tr>
 </tbody>
 </table>
@@ -124,7 +124,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
   <td>PITTABLE CHILD, MALNOURISHED OF SOUL, PRE-DIGESTED. CYANIDE-LADEN PIT OF MEALFRUIT TOSSED ASIDE. PROVE YOURSELF AT LEAST AN APPETISER.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -140,7 +140,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
   <td>PLUCK OUT THINE EYES; TEAR OUT THINE THROAT; LAY WASTE TO ALL WHICH IS SACRED; THE MOONSEYE CONVERGES WITH THAT BELOW.</td>
 </tr>
 <tr>
-  <td>End, player is <b>head-popped</b> and <b>instantly wiped</b></td>
+  <td>[End Dialogue], player is <b>head-popped</b> and <b>instantly wiped</b></td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +156,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
   <td><i>*Something begins to gnaw at the connective tissue that joins your conscious experience together. Your body screams for you leave this place.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -182,7 +182,7 @@ This dialogue is unlocked if the player meets the requirements to obtain [Oath: 
   <td><i>*Something awful holds your mind in its grip.*</i> IT DOES NOT KNOW? THOSE THAT BROUGHT RUIN TO THIS PLACE? GODSEEKERS, PROPHETS IN BLACK, OFFERING THIS CITY OF STONE AS IF IT WERE FESTERING MEAT. A PALTRY OFFERING, BUT MORE THAN YOUR KIND USUALLY AMOUNT TO. <i>*The sensation departs you, your mind is quiet once more.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -201,16 +201,16 @@ This dialogue is unlocked if the player meets the requirements to obtain [Oath: 
   <td>For now I am one, but I wish to be three.</td>
 </tr>
 <tr>
-  <td>BUT A MERE FEW BEFORE YOU HAVE REQUESTED SUCH A BOON AND ALL HAVE MET WITH WRETCHED FORTUNE. WILL YOU MAKE THIS WISH KNOWING THIS?</td>
+  <td>BUT A MERE FEW BEFORE YOU HAVE REQUESTED SUCH A BOON, AND ALL HAVE MET WITH WRETCHED FORTUNE. WILL YOU MAKE THIS WISH KNOWING THIS?</td>
 </tr>
 <tr>
   <td>My wish remains the same.</td>
 </tr>
 <tr>
-  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO, AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. <i>*The sensation departs you, your mind is quiet once more.*</i></td>
+  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. AND ONCE YOU DRIFT, KNOW THAT IT WILL BE INTO OUR EMBRACE. <i>*The sensation departs you, your mind is quiet once more.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Sentinel
-revid: 187570
+revid: 187689
 source: https://deepwoken.fandom.com/wiki/Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -42,7 +42,7 @@ Sentinel is located under [Etris](Etris.md) in a run-down house.
   <td colspan="12">Enter.</td>
 </tr>
 <tr>
-  <td colspan="12">End, Sentinel steps to one side for five seconds, letting the player through the door</td>
+  <td colspan="12">[End Dialogue], Sentinel steps to one side for five seconds, letting the player through the door</td>
 </tr>
 </tbody>
 </table>

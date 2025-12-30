@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 187438
+revid: 187724
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -994,7 +994,7 @@ N/A
 
 -   Despawns when the user moves away from the cauldron.
 -   Usable as a portable shelter for campfires.
--   Guardbreaks at level 5.
+-   Guardbreaks at level 2.5
 
  |
 

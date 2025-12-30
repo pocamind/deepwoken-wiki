@@ -1,9 +1,9 @@
 ---
 title: Jeremiah
-revid: 184615
+revid: 187753
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Vendors, NPCs located in the First Layer]
+categories: [Etrean NPCs, NPCs, NPCs located in the First Layer, Vendors]
 ---
 
 # Jeremiah
@@ -71,7 +71,7 @@ Potential Rewards
 </tr>
 <tr>
   <td colspan="2">Gem?</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">Yes, yes, a gem. You <i>definitely</i> have one. They're really not all that useful or anything, but I suppose I could spare you some of my equipment if you are willing to make a deal.</td>
@@ -94,12 +94,12 @@ Potential Rewards
   <td><i>*He twitches angrily.*</i> There's no gem in your hand...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>Whoops, here you go.</td>
 </tr>
 <tr>
   <td></td>
-  <td>[See "Here it is."]</td>
+  <td>[See "<font>Here it is.</font>"]</td>
 </tr>
 </tbody>
 </table>
@@ -121,14 +121,14 @@ Potential Rewards
 </tr>
 <tr>
   <td>Yeah.</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
-  <td>[See "Here it is."]</td>
+  <td>[See "<font>Here it is.</font>"]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Jeremiah is able to give the player all of the Attribute rings besides the [Rosen's Ring](Equipment.md#rings).
+-   Jeremiah is able to give the player all of the Attribute rings besides the [Rosen's Ring](<Rosen's_Ring.md>).

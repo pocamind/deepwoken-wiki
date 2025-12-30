@@ -1,11 +1,12 @@
 ---
 title: The Great Sharko Rumbling
-revid: 174465
+revid: 187760
 source: https://deepwoken.fandom.com/wiki/The_Great_Sharko_Rumbling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-canon articles", Events]
+categories: ["Non-canon articles", Pages requiring a cleanup, Events]
 notices:
   - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # The Great Sharko Rumbling
@@ -16,10 +17,6 @@ notices:
 | date2 | March 12th 2022 9:21PM EST |
 | effects | Treasure chests doubled for three days |
 | type | Bug Compensation |
-
-“ Scariest time of my life ”
-
-― Jova Praadet born Spring 1279
 
 _"Winter 1291 marks that fateful night, when the rumbling of a million Megalodaunts thundered in our ears. They laid waste to our homes... And what little lands we had left to squabble over. But, in the strange and inscrutable ways of the Deep, an age of plenty soon followed. So soon after a fall, our people were once again prospering..."_
 

@@ -1,6 +1,6 @@
 ---
 title: Vault of the Aureate
-revid: 186053
+revid: 187679
 source: https://deepwoken.fandom.com/wiki/Vault_of_the_Aureate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations, Dungeons]
@@ -18,3 +18,9 @@ This content is not accessible outside of this gamemode.
 LocationL Vault of the Aureate LocationR
 
 What's the golden rule?
+
+  
+
+## Trivia
+
+-   "Aureate" means to be made of or have the color of gold.

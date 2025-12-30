@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 186885
+revid: 187721
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -63,7 +63,7 @@ High posture
 
  | The Bone Keeper will wind up its right arm, before thrusting forward with its hand spinning, hitting three times.
 
--   If this is not parried, it will follow up with **Leap**.
+-   It may follow up with **Leap**, even if you parried, with it being more likely if you didn't.
 
  |  |
 | 

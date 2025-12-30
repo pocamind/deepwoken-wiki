@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 186712
+revid: 187670
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -342,7 +342,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
   <td>Begin</td>
 </tr>
 <tr>
-  <td>If the <b>GODS</b> wanted you to <i>LIVE</i>, they would not have created ME!</td>
+  <td>If the <b>GODS</b> wanted you to <i><b>LIVE</b></i>, they would not have created ME!</td>
 </tr>
 <tr>
   <td>End, player is jailed and sent to <b>execution</b></td>

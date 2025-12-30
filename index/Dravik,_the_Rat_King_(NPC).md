@@ -1,6 +1,6 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 186168
+revid: 187696
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
@@ -39,49 +39,50 @@ Interestingly enough, after Dravik got killed by The Inheritor, his soul, even t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*The air shimmers before you, revealing a similar face.*</td>
+  <td><i>*The air shimmers before you, revealing a familiar face.*</i></td>
 </tr>
 <tr>
-  <td colspan="12">Hello?</td>
+  <td>Hello?</td>
 </tr>
 <tr>
-  <td colspan="12">*He smiles softly.* That was the greatest fight I have been gifted, aside from Maestro Alkhurst himself. Should you ever see him... Pass him my regards. I imagine you came to me with questions, though.</td>
+  <td><i>*He smiles softly.*</i> That was the greatest fight I have been gifted, aside from Maestro Alkhurst himself. Should you ever see him... Pass him my regards. I imagine you came to me with questions, though.<br>
+  <font>[Name is revealed]</font></td>
 </tr>
 <tr>
-  <td colspan="12">I need to know how to pass the barrier surrounding the Lord Regent's place.</td>
+  <td>I need to know how to pass the barrier surrounding the Lord Regent's place.</td>
 </tr>
 <tr>
-  <td colspan="12">All of this for Zi'eer, eh? Well, if I'm being honest, he might be a bit out of your league, kid. The only person I know who might be capable of taking on him was a young prodigy from the Blade Temple. He's off training in the West with the Hundred Legions now... I don't really blame him - the Blade Temple is a shadow of it's former self.</td>
+  <td>All of this for Zi'eer, eh? Well, if I'm being honest, he might be a bit out of your league, kid. The only person I know who might be capable of taking on him was a young prodigy from the Blade Temple. He's off training in the West with the Hundred Legions now... I don't really blame him - the Blade Temple is a shadow of it's former self.</td>
 </tr>
 <tr>
-  <td colspan="12">That doesn't matter, how do I pass the barrier?</td>
+  <td>That doesn't matter, how do I pass the barrier?</td>
 </tr>
 <tr>
-  <td colspan="12">*The Rat King sighs.* The barrier is impenetrable from the outside. But it has no special protections once you're inside. If you destroy its source - the statue standing before the Royal Palace - you should be able to bring it down. There is only one method I know of that allows one to appear in any location in the world... But you're not gonna like it.</td>
+  <td><i>*The Rat King sighs.*</i> The barrier is impenetrable from the outside. But it has no special protections once you're inside. If you destroy its source - the statue standing before the Royal Palace - you should be able to bring it down. There is only one method I know of that allows one to appear in any location in the world... But you're not gonna like it.</td>
 </tr>
 <tr>
-  <td colspan="12">What do I have to do?</td>
+  <td>What do I have to do?</td>
 </tr>
 <tr>
-  <td colspan="12">Well, the first part is easy. You have to die.</td>
+  <td>Well, the first part is easy. You have to <i>die</i>.</td>
 </tr>
 <tr>
-  <td colspan="12">You have to be joking.</td>
+  <td>You have to be joking.</td>
 </tr>
 <tr>
-  <td colspan="12">This is no jest. When you die, you will enter the under-realm, where all souls get dragged to after death. Once there, make your way to the city, and find the temple whose tower reaches the light above. There will be voices speaking to you whenever you arrive. Hold the idea of a bargain in your own mind - these voices will be able to hear your thoughts. Should they agree to the terms, you'll be sent topside on the other end of the barrier. But be warned, kid - the voices don't take lightly to people like us asking anything of them.</td>
+  <td>This is no jest. When you die, you will enter the under-realm, where all souls are dragged to after death. Once there, make your way to the city, and find the temple whose tower reaches the light above. There will be voices speaking to you when you arrive. Hold the idea of a bargain in your own mind - these voices will be able to hear your thoughts. Should they agree to the terms, you'll be sent topside on the other end of the barrier. But be warned, kid - the voices don't take lightly to people like us asking anything of them.</td>
 </tr>
 <tr>
-  <td colspan="12">Thanks for the help.</td>
+  <td>Thanks for the help.</td>
 </tr>
 <tr>
-  <td colspan="12">No need to thank me. You have a long road ahead of you. I look forward to seeing your dance with Regent. Should I be able to, I will offer help wherever I can.</td>
+  <td>No need to thank me. You have a long road ahead of you. I look forward to seeing your dance with the Regent. Should I be able to, I will offer help wherever I can.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -91,13 +92,13 @@ Interestingly enough, after Dravik got killed by The Inheritor, his soul, even t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">*The air shimmers before you, but it seems you can longer communicate with Dravik.*</td>
+  <td><i>*The air shimmers before you, but it seems you can no longer communicate with Dravik.*</i></td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

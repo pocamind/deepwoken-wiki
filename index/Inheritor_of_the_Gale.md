@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 187403
+revid: 187727
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -226,6 +226,18 @@ N/A
 -   Wyvern's Claw \[Rare Talent\] **250** \- You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Activates after not being in contact with a grounded surface for ~0.75 seconds.
     -   Synergizes very well with uppercuts.
+
+### Power 5
+
+-   Does not have anything purchasable at Power 5.
+
+### Power 10
+
+-   Does not have anything purchasable at Power 10.
+
+### Power 15
+
+-   Does not have anything purchasable at Power 15.
 
 ### Power 20
 

@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 176751
+revid: 187668
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -44,7 +44,7 @@ When used on a compatible weapon, the Smith's Alloy can be used to destroy your 
 
 ## Trivia
 
--   5 of them can be crafted one 1 [Armorer's Needle](<Armorer's_Needle.md>) by hand.
+-   5 of them can be used to craft one 1 [Armorer's Needle](<Armorer's_Needle.md>).
 -   You can hold up to 25 Smith's Alloys at any given point of time.
 -   Smith's Alloy can be used on [False Memory](False_Memory.md).
 -   Smith's Alloy can be used in [Chime of Conflict](Chime_of_Conflict.md), and it'll save the data as it normally would.

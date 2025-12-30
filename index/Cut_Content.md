@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 185405
+revid: 187740
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -19,7 +19,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Ironfist Island -** An island that only spawned [Megalodaunts](Megalodaunt.md) and was the original location of the [Deep Widow](Deep_Widow.md) and the [Primadon](Primadon,_Titan_of_the_East.md).
 -   **[Corvus Manor](Corvus_Manor.md) -** A Ministry affiliated area that was removed pre-launch. Masters of The House was meant to play here.
 -   **Etrean Waters -** An area that was present in the very beta of Deepwoken. Most likely an early version of the Etrean Sea, as it had a very similar description and was in the same general area, surrounding the island of Etris.
--   **Etrean Woods -** Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md), [Rat's Den](<Rat's_Den.md>) and [Erisor's Church](<Erisor's_Church.md>) could be found here. Footage can be found here, [https://www.youtube.com/watch?v=CcYSL2umv9E&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=28](https://www.youtube.com/watch?v=CcYSL2umv9E&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=28), [https://www.youtube.com/watch?v=4-SgUeP10MQ&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=26](https://www.youtube.com/watch?v=4-SgUeP10MQ&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=26)
+-   **Etrean Woods -** Similarly to the Etrean Waters, this was likely an early version of the [Etrean Wilds](Etrean_Wilds.md). Notably, [Outpost Antumbra](Outpost_Antumbra.md), [Rat's Den](<Rat's_Den.md>) and [Erisor's Church](<Erisor's_Church.md>) could be found here. Footage can be found [here](https://www.youtube.com/watch?v=CcYSL2umv9E&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=28) and [here](https://www.youtube.com/watch?v=4-SgUeP10MQ&list=PLQPka5UlSn4jMYDSxZv9kYGwCoITvDHg0&index=26)
 -   **Erebus -** An island containing Duke Erisia's manor, a huge maze and a large stone skull. Reworked into [the Hidden Village](The_Hidden_Village.md).
     
     Erebus
@@ -271,6 +271,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Jumpstart \[Common Talent, Thundercall\] -** Using Static Withdraw when not being carried applies Jumpstart, increasing your ability to scale walls, your speed and applies shock to all outgoing physical damage and damage taken. Grants a +10% damage multiplier.
     -   In the December 13th, 2025 update, Jumpstart was removed and replaced with Amplified Reflexes.
 
+-   **Lasting Image \[Oath Talent\] -** Your illusions last longer.
+    -   In the November 28th, 2022 update, Lasting Image was removed from the game.
+
 -   **Last Laugh \[Common Talent, Flamecharm\] -** Gain the ability to incinerate yourself when down with Flame Within. If Phoenix Flames procs, you will only be restored up to 25% of your HP instead of the full 50%.
     -   In the September 2nd, 2024 update, Last Laugh was merged into Flame Within.
 
@@ -304,6 +307,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Mercy Kill \[Common Talent\]** - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
     -   In the October 5th, 2025 update, Mercy Kill was made innate.
+
+-   **Mirage from the Deep \[Oath Talent\] -** Pressing R while within your Illusory Realm will consume 15% of your current health and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 Ether)
+    -   In the February 23rd, 2024 update, Mirage from the Deep was removed from the game.
 
 -   **Molten Defence \[Common Talent, Flamecharm\] -** Upon being guard broken, you erupt. 30s cooldown.
     -   In the July 14th, 2025 update, Molten Defence was removed due to rewarding you for playing poorly and punishing your opponents for playing well.
@@ -362,7 +368,10 @@ This page is about content that has either been removed or changed drastically i
 -   **Skull Crusher \[Rare Talent, Galebreathe\] -** Pressing F during Champion's Whirlthrow will throw your opponent straight down.
     -   In the January 26th, 2024 update, Skull Crusher was made base behavior for Champion's Whirlthrow.
 
--   **Stormcaller Slash \[Common Talent, Thundercall\] -** Call forth the fury of storms by pressing F at the end of your move.
+-   **Steel Filter \[Common Talent\] -** \[Greataxes\] Attacking an enemy that has speed boosts increases posture damage against them. (+3 Health)
+    -   In the October 24th, 2022 update, Steel Filter was merged into Impairing Blow.
+
+-   **Stormcaller Slash \[Common Talent\] -** Call forth the fury of storms by pressing F at the end of your move.
     -   After casting Lightning Blade, pressing F within a second would deliver extra slashes at the end of the mantra.
     -   In the January 19th, 2024 update, Stormcaller Slash was made base behavior for Lightning Blade.
 

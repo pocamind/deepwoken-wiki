@@ -1,9 +1,9 @@
 ---
 title: Adrofalis
-revid: 178180
+revid: 187761
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, Oath Trainer, Alchemy, Quests, NPCs located in the Eastern Luminant, Old Stewards]
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, Alchemy, Quests, NPCs located in the Eastern Luminant, Old Stewards]
 ---
 
 # Adrofalis
@@ -13,6 +13,10 @@ categories: [Capra NPCs, NPCs, Oath Trainer, Alchemy, Quests, NPCs located in th
 | aspect | Capra |
 | location | Boatman's Watch |
 | affiliation | Old Stewards |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ This laboratory is fascinating - all Pre-Tidal, of course. It's easily the most sophisticated equipment I've seen outside of the Sunken Archives. If my theories are correct, it might even be possible to reproduce the Root Panecea... ”
 

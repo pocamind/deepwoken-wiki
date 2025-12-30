@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 187583
+revid: 187669
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Voiced Characters]
@@ -67,19 +67,16 @@ Recollection
   <td>How am I to proceed?</td>
   <td>Are there any other tasks?</td>
   <td>Remind me what our objective is?</td>
-  <td>[Player purchases Power Recall]</td>
 </tr>
 <tr>
   <td>[See "Proceeding" section]</td>
   <td>[See "Extra Tasks" section]</td>
   <td>Our objective is to accomplish what the donors of these Mementos could not. We must find a way to defeat Zi'eer. The answer may well lie within the memories that you are diving into, Inheritor, so you must live them out. There is some lee-way to how far you can steer off course, but there will be key points that will render the story unable to progress until you relive them.</td>
-  <td>Very well, I will assist in gathering more of this memory.<br>
-  </td>
 </tr>
 <tr>
   <td></td>
   <td></td>
-  <td colspan="2">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -366,6 +363,28 @@ Recollection
 </tr>
 <tr>
   <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Shop UI:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>[Player purchases Power Recall]</td>
+  <td>[Player reaches level milestone]</td>
+</tr>
+<tr>
+  <td>Very well, I will assist in gathering more of this memory.<br>
+  </td>
+  <td>It seems you have reached a new milestone in your power. Make sure to look over the new mantras and talents you have been granted access to.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

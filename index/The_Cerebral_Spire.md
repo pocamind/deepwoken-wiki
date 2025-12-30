@@ -1,6 +1,6 @@
 ---
 title: The Cerebral Spire
-revid: 183570
+revid: 187664
 source: https://deepwoken.fandom.com/wiki/The_Cerebral_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
@@ -36,3 +36,8 @@ The Cerebral Spire serves as the main hub for [the Inheritor](The_Inheritor.md) 
 ## Trivia
 
 -   While within this area, the Inheritor's hunger will not deplete, but their thirst still will.
+-   Four different contours of the song will play depending on the mementos boss progression:
+    -   Contour 1 - Base Song
+    -   Contour 2 - After defeating [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+    -   Contour 3 - After defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+    -   Contour 4 - After defeating [True Heart of Enmity](True_Heart_of_Enmity.md)

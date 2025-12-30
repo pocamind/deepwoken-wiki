@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 187515
+revid: 187744
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -25,7 +25,7 @@ The Glossary can be accessed anytime by clicking on the Encyclopedia button at t
 -   An entity spoken of by [Lightkeepers](#lightkeep).
 -   The Unspoken [Vow](#vows) of [Lightkeeping](#lightkeep) is tied to Aeod, who may have something to do with its origins.
 
-Dialogue: Interacting with a Lightkeep entry after activating the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) | Books: | Glossary Entries: [Lightkeep](#lightkeep)
+Dialogue: Interacting with a Lightkeep entry after activating the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) Talent | Books: | Glossary Entries: [Lightkeep](#lightkeep)
 
 ### Black Divers
 

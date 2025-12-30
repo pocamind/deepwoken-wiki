@@ -1,6 +1,6 @@
 ---
 title: "Operation 'Distant Light'"
-revid: 180702
+revid: 187758
 source: https://deepwoken.fandom.com/wiki/Operation_'Distant_Light'
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -24,6 +24,8 @@ notices:
 | casual1 | None[1] |
 | casual2 | None[1] |
 | casual3 | All forces[1] |
+
+_Not to be confused with the [Book](Books.md) "[Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>)"._
 
 **Operation 'Distant Light'** was a Class I reconnaissance reconnaissance class operation carried out by the crew of the CASS _Shallow Grave_, captained by Authority Navy Captain [Alaric Kesset](Alaric_Kesset.md), in the Central Luminant. The goal of the operation was to carry out a strategic survey of the [Lullaby Isles](Lullaby_Isles.md) and report the findings to Admiral [Thorm Erebet](Thorm_Erebet.md).[\[1\]](#cite-note-opdlr-1)
 
