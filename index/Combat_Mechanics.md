@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 185906
+revid: 187931
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -586,7 +586,9 @@ Attacks with this indicator cannot be dodged. They must be parried, or with high
 
 \*\*Possibly a bug, but Titus's _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
 
-### Outlines / Highlights
+### Highlighted Attacks
+
+During certain attacks the enemy will flash with a colored outline/highlight. These have separate indications from attack telegraphs.
 
 | 
 Color

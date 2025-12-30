@@ -1,9 +1,9 @@
 ---
 title: Pale Morning
-revid: 187114
+revid: 187877
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons, Greathammers, Heavy Weapons]
+categories: [Weapons, Greathammers, Heavy Weapons]
 ---
 
 # Pale Morning
@@ -35,10 +35,6 @@ categories: [Pathfinder Exclusive, Weapons, Greathammers, Heavy Weapons]
 | pass down | Yes |
 | obtainment | Chests from:, Starswept Valley, Saramaed Hollow, The Depths, Duke Ishamon Erisia, Heart of Enmity, Lodestar, The Diluvian Mechanism, Maestro Evengarde Rest, Dread Serpent, Interluminary Parasol, War Mode, Etris: Siege, Voidwalker Bounties, Chaser, Scholar of the Crimson Contract, Scion of Ethiron |
 | description | A hammer of exceptionally fine make, a replica of a famous hammer wielded by a Canor warlord during the First Century of the New World. |
-
-**[Pathfinder](Pathfinder.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
-For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 

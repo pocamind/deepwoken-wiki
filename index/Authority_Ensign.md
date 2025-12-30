@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 184922
+revid: 187874
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
@@ -468,6 +468,7 @@ Shock Corps Division
 
 -   If you M1 during this Mantra's windup, the axe performs a vertical radial slash, ragdolling and knocking back your opponent.
 -   Applies Shock on hit.
+-   Scales with Thundercall.
 
  |
 

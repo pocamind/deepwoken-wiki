@@ -1,6 +1,6 @@
 ---
 title: Etrean Royalists
-revid: 185697
+revid: 187885
 source: https://deepwoken.fandom.com/wiki/Etrean_Royalists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 187836
+revid: 187932
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -337,7 +337,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   _Carnivore_ \[Rare Talent\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
-    -   Obtaining the "Vegetarian" flaw from shrines such as Shrine of Blasphemy or Order will remove the talent, providing a free talent hand on rejoin/next power.
+    -   Obtaining the "Vegetarian" flaw from Shrine of Blasphemy will remove the talent, providing a free talent hand on rejoin/next power.
     -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
     -   Works on [Ferryman](The_Ferryman.md)'s lightning clones.
     -   Prerequisites: 5 Strength, 5 Willpower
@@ -3559,14 +3559,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Thunderblade
 
--   Static Blade \[Common Talent, Thundercall Exclusive\] - Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times.
+-   Static Blade \[Common Talent, Thundercall Exclusive\] - Medium Weapons Hitting blocks, blocking or parrying hits will now generate an electric charge in your blade, granting a small speed buff. Charges can stack up to 5 times.
     -   Grants stacks when you **get parried**, not when you parry attacks. Also grants stacks when you hit blocks or block attacks.
     -   Each stack lasts for 15 seconds and refresh upon gaining another, including when you're at max stacks. You can be at max stacks indefinitely.
     -   Each stack grants an ~2.35% speed boost, totaling to ~11.75% speed at max stacks. The duration of this speed boost is effectively indefinite, as gaining stacks can be done very easily just by playing the game.
         -   This speed boost can proc speed boost Talents, like Speed Demon or Cheap Shot.
     -   Prerequisites: 40 Thundercall, 20 Medium Weapon
 
--   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
+-   Gathering Electricity \[Common Talent, Thundercall Exclusive\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
     -   Clears all Static Blade stacks on proc.
     -   You can still gain Static Blade stacks while Gathering Electricity is active.
     -   For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.
@@ -4512,6 +4512,30 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These exclusive Talents will be listed here by category, in alphabetical order. Keep in mind that many of the non-Vow of Iron exclusive Talents are still obtainable in this gamemode, but they will not be listed in this section.
 
+### Berserker
+
+-   Residual Fury \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In Berserk State Landing your critical grants +50% PEN on Basic Attacks for 8s.
+    
+    -   Prerequisites: [Berserker](Berserker.md) Memento, Power 10 shop
+
+-   Righteous Rage \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In Berserk State You deal increased damage the lower your health is.
+    
+    -   [Temporary Health](Status_Effects.md#temporary-health) does not count for this effect.
+    -   Prerequisites: [Berserker](Berserker.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Rip and Tear \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Regain health upon defeating an enemy.
+    
+    -   Prerequisites: [Berserker](Berserker.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Ruinous Recovery \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
+    
+    -   Prerequisites: [Berserker](Berserker.md) Memento, starter shop
+
+-   Until It Is Done \[Memento Talent\] - Your [Berserk State](Status_Effects.md#berserk-state) lasts until you willingly end it.
+    
+    -   Your Berserk now has an infinite duration, only turning off when you use the Talent tool again.
+    -   Prerequisites: [Berserker](Berserker.md) Memento
+
 ### Breaker
 
 -   Breakthrough \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture damage on light attacks are increased by 10%.
@@ -4545,7 +4569,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
         -   With one stack, your Strong Left cooldown will be reduced by ?s.
         -   With two stacks, your Strong Left will ignore your opponent's armor, on top of the first stack bonus.
         -   With three stacks, your Strong Left will deal additional damage and guardbeak, on top of the first and second stack bonuses.
-    -   Prerequisites: [Breaker](Breaker.md) Memento, starting shop
+    -   Prerequisites: [Breaker](Breaker.md) Memento, starter shop
 
 ### Chaotic Moon
 
@@ -4647,11 +4671,55 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
     -   Spawns swords from the sky, similarly to [First Light](First_Light.md)'s critical attack.
     -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
+### Flashing Thunder
+
+-   Electrical Accumulation \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - While having 4 or more orbs, automatically gain 4 charges of Static Blade whilst you have 4 orbs.
+    
+    -   Prerequisites: [Flashing Thunder](Flashing_Thunder.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Gathering Storm \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your damage is stored in a lightning orb. Sheathing your weapon will shoot the lightning orbs at the opponent. The orbs will do more damage based on how many orbs are being stored up.
+    
+    -   Weapon damage is stored in lightning orbs above your character's head. Sheathing your weapon will consume all of the orbs and deal the stored damage all at once.
+    -   New orbs will be created once you reach certain thresholds of stored damage. You cannot have more than 8 orbs at once, but your stored damage will still be accumulated past this point.
+    -   This is essentially the [Poser's Ring](<Poser's_Ring.md>) effect but with a visual aspect.
+    -   Prerequisites: [Flashing Thunder](Flashing_Thunder.md) Memento
+
+-   Heir of Lightning \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - At max orbs, [Lightning Cloak](Thundercall.md#lightning-cloak) is enhanced.
+    
+    -   This Memento does not unlock Lightning Cloak at any point, causing this Talent to do nothing.
+    -   Prerequisites: [Flashing Thunder](Flashing_Thunder.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Orb Discharge \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - If an extra orb is available, you can consume it to vent if you don't have enough tempo.
+    
+    -   Prerequisites: [Flashing Thunder](Flashing_Thunder.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+### Heliodar
+
+-   Command Phoenix \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Command your [Phoenix](Solborn.md) to scout, and dive into enemies.
+    
+    -   Gives a Talent tool that allows you to command your Phoenix to attack an enemy.
+    -   Using the tool at low Heartfire will summon a smaller version of the Phoenix, which can only be used as a [campfire](Campfire_Pit.md).
+    -   Summoning an adult Phoenix, then commanding it to take air will allow you to select a spot where it should Divebomb on the next usage of the Talent.
+    -   Prerequisites: [Solborn](Solborn.md) Memento
+
+-   Heliodar Wings \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Take flight \[H\].
+    
+    -   Gives a Talent tool that allows you to fly. This flight will passively drain your Heartfire Gauge. Using the wings with an empty Heartfire Gauge will set you on fire.
+    -   Attempting to use this during the [Rat King](Dravik,_The_Rat_King.md) fight will cause him to use the Sparkle Blitz move.
+    -   While flying, hold Space to ascend, CTRL to descend, and Q to speed up.
+    -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
 ### Immolator
 
 -   **Ascended Phoenix Flames** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
     
     -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) OR [Solborn](Solborn.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+### Inheritor of the Gale
+
+-   Prince of the Wind \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You are the one who the wind bends around. Your galebreathe is enhanced.
+    
+    -   Prerequisites: [Inheritor of the Gale](Inheritor_of_the_Gale.md) Memento
 
 ### Innate
 
@@ -4674,6 +4742,8 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Increases glide speed and grants full fall damage immunity.
 
 -   _Acute Hearing_ \[[Kiron](Kiron.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - After years of using Echolocation, you've trained your ears to sense danger from even further away. You are also able to sense when someone completes a job.
+    
+    -   Plays a sound effect whenever Echolocation procs.
 
 -   _From The Ashes_ \[[Heliodar](Heliodar.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Using an [Etris Flask](Etris_Flask.md) when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds.
 
@@ -4742,6 +4812,53 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Landing basic attacks with the Soulthorn grants a stacking 7.5% damage buff. This caps at +30% damage.
     -   If you get hit while having stacks of Soul Veil, your attacker will steal your stacks for themselves. You can steal your stacks back by hitting them.
     -   Prerequisites: [Prince of the Moon](Prince_of_the_Moon.md) Memento
+
+### Rogue Assassin
+
+-   Ambush \[Memento Talent\] - When coming out of [Tacet](Murmur%253A_Tacet.md), gain a 30% damage boost for 5 seconds.
+    
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Avaricious Blade \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Every strike landed lines your pockets.
+    
+    -   Dealing damage by any means gives 1.
+    -   Backhits give 50 instead.
+    -   These effects also proc on self damage.
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento
+
+-   Double Jump \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Take the Wind Step and refine it into your own technique, reducing the cooldown and improving its efficiency.
+    
+    -   This Talent is currently bugged, likely due to this Memento not having the Wind Step Talent.
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Fatal Backstab \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Weapon backstabs deal an extra 5 true damage on your opponent (20 extra damage if done to PvE).
+    
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Lethal Depressant \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Assassinating an opponent decreases the damage they deal by 25% for the next 30 seconds.
+    
+    -   The description of this Talent is identical to Weakening Venom. It is unclear whether this is intended.
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Rogue Assassin \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your assassinations now deal an extra 50 true damage (200 in PvE).
+    
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento
+
+-   Terrifying Paralysis \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Hidden Blade](Authority_Ensign.md#hidden-blade) disables opponents' ability to roll for 3 seconds.
+    
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Total Silence \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Massively reduce the sound of your footsteps and rolls.
+    
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, Power 20 shop
+
+-   True Skulk \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Massively reduce the sounds of your mantra casts.
+    
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Weakening Venom \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Assassinating an opponent decreases the damage they deal by 25% for the next 30 seconds.
+    
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento
 
 ### Sightless
 
@@ -4814,6 +4931,23 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Essentially, this is Defensive Sweep without being weapon type locked.
     -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 10 shop
 
+### Solborn
+
+-   Ignition Rite \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landing fire attacks with the phoenix summoned regenerates Heartfire.
+    
+    -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+-   Heartfire Renewal \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Regenerate Heartfire whenever you are burning. Upon revival with Phoenix Flames, restore half of your Heartfire gauge.
+    
+    -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Solborn \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Harness your Heartfire to command the Phoenix bound to your soul.
+    
+    -   Spawns a small orange, stationary, Phoenix near you. The size of the Phoenix will increase based on the user's level.
+    -   This Phoenix can be used like a campfire to rest and heal yourself.
+    -   Utilized in many other Solborn Talents.
+    -   Prerequisites: [Solborn](Solborn.md) Memento
+
 ### Steelvessel
 
 -   Alloy Siphon \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Iron Pull siphons armor from your foes, restoring your posture.
@@ -4828,6 +4962,19 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Posture restoration from parrying attacks is reduced.
     -   All forms of healing, most notably [Etris Flasks](Etris_Flask.md) are massively reduced.
     -   Prerequisites: [Iron Vessel](Iron_Vessel.md) Memento
+
+### Strange Merchant
+
+-   Magic Coffin \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.
+    
+    -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20.
+    -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
+    -   There is a 1% chance to grant the Skull, giving you high tier loot. This chance is increased by 1% per level, up to 20% at power 20.
+    -   There is a 5-10% chance to roll a **blank**, doubling the chest of the next box. This can stack.
+    -   After defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md), you gain the Know When to Run Talent. This adds the entire [Depths](<The_Depths_(Vow_of_Iron).md>) lootpool is added to the Coffin, but the Coffin's price is increased by 50%.
+    -   Coffin activation uses your Resonance keybind.
+    -   You can use any weapon or equipment item without meeting their **attribute** requirements.
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento
 
 ### The Emperor's Blade
 
@@ -4847,19 +4994,6 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Being under the effects of Amped or Lightning Cloak will proc this effect.
     -   Prerequisites: [Theros Disciple](Theros_Disciple.md) Memento, starting shop
-
-### Strange Merchant
-
--   Magic Coffin \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - A jack of all trades, all attribute requirements are ignored. Activate your Coffin with C.
-    
-    -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20.
-    -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
-    -   There is a 1% chance to grant the Skull, giving you high tier loot. This chance is increased by 1% per level, up to 20% at power 20.
-    -   There is a 5-10% chance to roll a **blank**, doubling the chest of the next box. This can stack.
-    -   After defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md), you gain the Know When to Run Talent. This adds the entire [Depths](<The_Depths_(Vow_of_Iron).md>) lootpool is added to the Coffin, but the Coffin's price is increased by 50%.
-    -   Coffin activation uses your Resonance keybind.
-    -   You can use any weapon or equipment item without meeting their **attribute** requirements.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento
 
 ### Toxic Personality
 

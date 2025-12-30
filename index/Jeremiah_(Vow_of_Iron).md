@@ -1,6 +1,6 @@
 ---
 title: Jeremiah (Vow of Iron)
-revid: 187754
+revid: 187939
 source: https://deepwoken.fandom.com/wiki/Jeremiah_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer]
@@ -16,9 +16,11 @@ notices:
 | aspect | Etrean |
 | location | The City of the Drowned |
 
+Variants: [Jeremiah](Jeremiah.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ You REALLY smell like empty pockets. ”
 

@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 187192
+revid: 187862
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -178,7 +178,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik teleports behind the player and performs two quick slashes
 
 -   This move is rarely ever used, mostly when the player is at a distance and facing away from Dravik.
--   It is near impossible to react to this move.
+
+-   this move has no sound or visual cue, making it very hard to react to.
 
  | 
 

@@ -1,11 +1,9 @@
 ---
 title: Solborn
-revid: 187703
+revid: 187915
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Vow of Iron Exclusive, Mementos]
 ---
 
 # Solborn
@@ -40,7 +38,7 @@ This content is not accessible outside of this gamemode.
 
 -   Solborn \[Memento Talent\] - Harness your Heartfire to command the Phoenix bound to your soul.
     
-    -   Spawns a small orange, stationary, Phoenix near you.
+    -   Spawns a small orange, stationary, Phoenix near you. The size of the Phoenix will increase based on the user's level.
     -   This Phoenix can be used like a campfire to rest and heal yourself.
     -   Utilized in many other Solborn Talents.
 
@@ -80,6 +78,8 @@ This content is not accessible outside of this gamemode.
 
 **Fire Blade** (☆☆☆)
 
+**Combat Mantra**
+
 _Slicing blades of flame._
 
  | 
@@ -87,6 +87,7 @@ _Slicing blades of flame._
 ## Fire Blade (☆☆☆)
 
   
+**Combat Mantra**  
 _Slicing blades of flame._
 
  |
@@ -123,6 +124,8 @@ N/A
 
 **Fire Gun** (☆☆☆)
 
+**Combat Mantra**
+
 _A bullet of flames shot through each hand._
 
  | 
@@ -130,6 +133,7 @@ _A bullet of flames shot through each hand._
 ## Fire Gun (☆☆☆)
 
   
+**Combat Mantra**  
 _A bullet of flames shot through each hand._
 
  |
@@ -183,6 +187,8 @@ N/A
     -   Negates the innate 10% damage debuff Flamecharm Mantras receive during the [rain](Environmental_Hazards.md).
     -   Prevents your burn from going out in rain.
 
+  
+
 | 
 **Name**
 
@@ -217,6 +223,8 @@ N/A
 
 **Flame Assault** (★★☆)
 
+**Mobility Mantra**
+
 _Dash forward in a spiral of flames._
 
  | 
@@ -224,6 +232,7 @@ _Dash forward in a spiral of flames._
 ## Flame Assault (★★☆)
 
   
+**Mobility Mantra**  
 _Dash forward in a spiral of flames._
 
  |
@@ -313,6 +322,8 @@ Fire
 
 **Flame of Denial** (☆☆☆)
 
+**Support Mantra**
+
 _Undying flame._
 
  | 
@@ -320,6 +331,7 @@ _Undying flame._
 ## Flame of Denial (☆☆☆)
 
   
+**Support Mantra**  
 _Undying flame._
 
  |
@@ -356,6 +368,8 @@ N/A
 
 **Rising Flame** (★★☆)
 
+**Combat Mantra**
+
 _A rising tornado of flames._
 
  | 
@@ -363,6 +377,7 @@ _A rising tornado of flames._
 ## Rising Flame (★★☆)
 
   
+**Combat Mantra**  
 _A rising tornado of flames._
 
  |
@@ -445,6 +460,8 @@ Fire
 
 **Flaming Scourge** (★★★)
 
+**Combat Mantra**
+
 _Lash out with flames._
 
  | 
@@ -452,6 +469,7 @@ _Lash out with flames._
 ## Flaming Scourge (★★★)
 
   
+**Combat Mantra**  
 _Lash out with flames._
 
  |
@@ -502,6 +520,8 @@ Fire
     -   Healing scales on your Flamecharm investment; heals 25% health at 0 Flamecharm and scales up to 50% health at 75 Flamecharm, gaining 0.33% healing per point in Flamecharm.
     -   If you used Flame Within while knocked to proc Phoenix Flames, then the healing received will be halved. Though, if you activated Flame Within prior to being knocked, you'll receive the full healing.
 
+  
+
 | 
 **Name**
 
@@ -536,6 +556,8 @@ Fire
 
 **Flame Repulsion** (☆☆☆)
 
+**Combat Mantra**
+
 _Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back._
 
  | 
@@ -543,6 +565,7 @@ _Charge up an exertion of flames that knocks opponents backwards. If you take da
 ## Flame Repulsion (☆☆☆)
 
   
+**Combat Mantra**  
 _Charge up an exertion of flames that knocks opponents backwards. If you take damage while charging, you repulse it back._
 
  |
@@ -587,12 +610,16 @@ Fire
 -   Explosive Finish \[Common Talent, Flamecharm Exclusive\] **100** \- If an enemy is on fire when you flourish, blast them away with a fire blast.
     -   the equation for this damage is: (weapon damage + 1 blunt damage + 5 flame damage)
     -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
+
 -   Ichor Imbuement \[Oath Talent\] **200** \- Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.
     -   Doubles the damage of your Starkindred Mantras if they are casted without your wings out.
     -   This Talent is extremely situational, as your wings will be equipped upon casting a Starkindred Mantra or using Death From Above, regardless of it hits or not, and there is no way to deactivate your wings once they are out.
+
 -   Graceful Steps \[Rare Talent\] **250** \- Your dancing steps now gives a faster speed boost.
     -   If you lack the ether to cast a Mantra, the speed boost will trigger regardless. Also triggers if the Mantra is feinted.
     -   The speed boost has a very short duration; having a fast swingspeed weapon is recommended to capitalize off this Talent's effect.
+
+  
 
 | 
 **Name**
@@ -628,6 +655,8 @@ Fire
 
 **Sinister Halo** (☆☆☆)
 
+**Combat Mantra**
+
 _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
 
  | 
@@ -635,6 +664,7 @@ _Emit a spinning ring of celestial energy, trapping and shredding any who steps 
 ## Sinister Halo (☆☆☆)
 
   
+**Combat Mantra**  
 _Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake._
 
  |
@@ -644,7 +674,7 @@ _Emit a spinning ring of celestial energy, trapping and shredding any who steps 
 
  | 
 
-(?)
+Oath
 
  | 
 
@@ -668,10 +698,207 @@ _Emit a spinning ring of celestial energy, trapping and shredding any who steps 
     
     -   Gives a Talent tool that allows you to fly. This flight will passively drain your Heartfire Gauge. Using the wings with an empty Heartfire Gauge will set you on fire.
     -   Attempting to use this during the Rat King fight will cause him to use the Sparkle Blitz move.
+    -   While flying, hold Space to ascend, CTRL to descend, and Q to speed up.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Flame Grab** (☆☆☆)
+
+**Combat Mantra**
+
+_Jet forwards with flames and slam anyone you catch in your clutches._
+
+ | 
+
+## Flame Grab (☆☆☆)
+
+  
+**Combat Mantra**  
+_Jet forwards with flames and slam anyone you catch in your clutches._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Fire
+
+ | 
+
+Defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+ |
+| 
+
+**Effect:** User lunges forward for a grab that slams and burns incoming opponents into the ground.
+
+-   Has a base damage of 15/20/25/30/35 per level with 2.75 Flamecharm scaling.
+-   Deals 6 posture damage.
+-   Has a 0.6 second windup with a 10 second cooldown.
+-   Has a large hitbox both horizontally and backwards.
+-   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
+-   Inflicts Burn.
+-   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
+-   Travels for 0.6 seconds.
+-   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
+
+ |
 
 ### Dravik, The Rat King
 
 -   Ignition Rite \[Memento Talent\] - Landing fire attacks with the phoenix summoned regenerates Heartfire.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Ascension** (☆☆☆)
+
+**Combat Mantra**
+
+_Take to the skies for a devastating strike._
+
+ | 
+
+## Ascension (☆☆☆)
+
+  
+**Combat Mantra**  
+_Take to the skies for a devastating strike._
+
+ |
+| 
+
+(?)
+
+ | 
+
+Oath
+
+ | 
+
+Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+ |
+| 
+
+**Effect:** The user rises into the air before swooping in.
+
+-   Deals 37 Oath damage with 1.65 Strength scaling.
+-   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
+-   Applies hard knockdown on hit.
+-   Wayward Gem will not proc on this Mantra.
+-   Can knockdown any enemy ingame.
+
+ |
+| 
+
+**Ash Slam** (★★★)
+
+**Combat Mantra**
+
+_Strike the ground, turning it to ash._
+
+ | 
+
+## Ash Slam (★★★)
+
+  
+**Combat Mantra**  
+_Strike the ground, turning it to ash._
+
+ |
+| 
+
+35 Ether
+
+ | 
+
+Fire + Blunt
+
+ | 
+
+Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+ |
+| 
+
+**Effect:** User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
+
+-   The first hit has a base damage of 10/14/18/22/26 while the second hit has a base damage of 6/8.4/10.8/13.2/15.6 per level with 2.75 Flamecharm scaling.
+-   Has a windup of 0.65 seconds and a cooldown of 15 seconds.
+-   Has a very large circular hitbox that is comparable to venting.
+-   Deals 4 posture damage on the first hit and 2 on the second for a total of 6 posture damage.
+-   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
+-   Inflicts Burn.
+-   User maintains mobility during wind-up.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
+
+ |
 
 ### True Heart of Enmity
 
@@ -713,128 +940,9 @@ _Emit a spinning ring of celestial energy, trapping and shredding any who steps 
 | --- | --- | --- | --- | --- | --- | --- |
 | 
 
-**Flame Grab** (☆☆☆)
-
-_Jet forwards with flames and slam anyone you catch in your clutches._
-
- | 
-
-## Flame Grab (☆☆☆)
-
-  
-_Jet forwards with flames and slam anyone you catch in your clutches._
-
- |
-| 
-
-50 Ether
-
- | 
-
-Fire
-
- | 
-
-Defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
-
- |
-| 
-
-**Effect:** User lunges forward for a grab that slams and burns incoming opponents into the ground.
-
--   Has a base damage of 15/20/25/30/35 per level with 2.75 Flamecharm scaling.
--   Deals 6 posture damage.
--   Has a 0.6 second windup with a 10 second cooldown.
--   Has a large hitbox both horizontally and backwards.
--   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
--   Inflicts Burn.
--   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
--   Travels for 0.6 seconds.
--   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
-
- |
-| 
-
-**Ascension** (☆☆☆)
-
-_Take to the skies for a devastating strike._
-
- | 
-
-## Ascension (☆☆☆)
-
-  
-_Take to the skies for a devastating strike._
-
- |
-| 
-
-(?)
-
- | 
-
-(?)
-
- | 
-
-Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
-
- |
-| 
-
-**Effect:** The user rises into the air before swooping in.
-
--   Deals 37 Oath damage with 1.65 Strength scaling.
--   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
--   Applies hard knockdown on hit.
--   Wayward Gem will not proc on this Mantra.
--   Can knockdown any enemy ingame.
-
- |
-| 
-
-**Ash Slam** (★★★)
-
-_Strike the ground, turning it to ash._
-
- | 
-
-## Ash Slam (★★★)
-
-  
-_Strike the ground, turning it to ash._
-
- |
-| 
-
-35 Ether
-
- | 
-
-Fire + Blunt
-
- | 
-
-Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
-
- |
-| 
-
-**Effect:** User imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the user and creates a bursting explosion each time.
-
--   The first hit has a base damage of 10/14/18/22/26 while the second hit has a base damage of 6/8.4/10.8/13.2/15.6 per level with 2.75 Flamecharm scaling.
--   Has a windup of 0.65 seconds and a cooldown of 15 seconds.
--   Has a very large circular hitbox that is comparable to venting.
--   Deals 4 posture damage on the first hit and 2 on the second for a total of 6 posture damage.
--   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
--   Inflicts Burn.
--   User maintains mobility during wind-up.
--   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to make the hitbox bigger.
-
- |
-| 
-
 **Celestial Assault** (☆☆☆)
+
+**Combat Mantra**
 
 _Use your wings and deliver two critical blows._
 
@@ -843,6 +951,7 @@ _Use your wings and deliver two critical blows._
 ## Celestial Assault (☆☆☆)
 
   
+**Combat Mantra**  
 _Use your wings and deliver two critical blows._
 
  |
@@ -852,7 +961,7 @@ _Use your wings and deliver two critical blows._
 
  | 
 
-(?)
+Oath
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 186848
+revid: 187893
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -300,9 +300,3 @@ Ice + Slash
 -   Frostbite \[Common Talent\] **100** \- Enemies can no longer heal when under the effect of your chill
 
 -   Frozen Anchor \[Common Talent\] **100** \- Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
-
-## Boss Unlocks
-
-### True Heart of Enmity
-
-Golden rat: Cryonis

@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 187190
+revid: 187863
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
@@ -137,6 +137,17 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  | The Heart of Enmity, filled with contempt, makes an unparryable charge towards the player, sending them upwards before slowly taking flight and crashing down at them, dealing major damage.
 
 -   Only the secondary slam is parryable, not the charge.
+
+ |  |
+| 
+
+**Event Horizon**
+
+(★★☆)
+
+ | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage.
+
+-   During this charge up, Enmity is free to be hit.
 
  |  |
 

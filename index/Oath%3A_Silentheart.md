@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 184932
+revid: 187882
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -150,7 +150,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   **Vengeful Pursuit** - Your running M1's that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you
     -   Damage changes based on weapon type.
     -   8 second cooldown.
-    -   This move is considered as an M1 for Talents and Enchant procs, although it procs certain critical talens([Bear Trap](Talents.md#bear-trap) especially).
+    -   This move is considered as an M1 for Talents and Enchant procs, although it procs certain critical Talents (like [Bear Trap](Talents.md#bear-trap)).
 
 -   **Silent Cascade** - Landing any physical attacks on your opponent charges up your Silent Cascade, a devastating barrage that can be unleashed with CTRL + M2.
     -   This is bound to your feint key, not to M2.

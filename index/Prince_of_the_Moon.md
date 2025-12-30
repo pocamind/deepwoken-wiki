@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 186856
+revid: 187867
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | final attributes | 75 Medium Weapon, 80 Agility, 80 Intelligence, 80 Willpower |
 | final traits | 4 Proficiency, 4 Vitality, 3 Vitality |
 | resonance | Jar of Souls |
-| locked armor | Moonseye |
+| starting armor | Moonseye |
 | allowed weapons | Sword |
 | starting weapons | Soulthorn |
 

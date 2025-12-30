@@ -1,11 +1,9 @@
 ---
 title: Berserker
-revid: 187739
+revid: 187913
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Vow of Iron Exclusive, Mementos]
 ---
 
 # Berserker
@@ -32,10 +30,10 @@ This content is not accessible outside of this gamemode.
 
 ## Starting Abilities
 
--   Until It Is Done\[Memento Talent\] - Your [Berserk State](Status_Effects.md#berserk-state) lasts until you willingly end it.
+-   Until It Is Done \[Memento Talent\] - Your [Berserk State](Status_Effects.md#berserk-state) lasts until you willingly end it.
+
 -   Berserk \[Common Talent\] - One with nothing to lose has everything to gain. Succomb to burning rage within and enter [Berserk State](Status_Effects.md#berserk-state).
     -   While in the Berserk State, your M1s will nullify your opponent's armor, bypassing it entirely, and your criticals will gain 10% PEN. However, your own armor bars, including Natural Armor, will be drained fully for the duration of the Berserk State.
-    -   Lasts 20 seconds, halved to 10 seconds if you do not meet the Talent's Strength requirement.
     -   Berserk can be deactivated after 10 seconds by using the Talent tool again. If you don't meet this Talent's requirements, you will not be able to deactivate it manually.
     -   When activated:
         -   Your eyes and hair turn red with your eyes gaining a red trail.
@@ -43,7 +41,6 @@ This content is not accessible outside of this gamemode.
         -   Padded Armor, Steel Scales, and Lightweight are activated. However, your Basic Attacks activate your opponent's Padded Armor and Steel Scales.
         -   You benefit from Exposed Durability's 10% damage buff. However, your opponent will also benefit from Exposed Durability if they have the Talent.
     -   The color of the eyes and hair is [dyable](Dye_Packet.md).
--   Bloodrender \[Common Talent\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
 
 ## Deck of Recollection
 
@@ -51,28 +48,34 @@ This content is not accessible outside of this gamemode.
 
 -   Brassneck \[Common Talent\] **100** \- Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
+
 -   Enhanced Flow \[Common Talent\] **100** \- Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
     -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage.
         -   This cannot give more than 50 Temporary Health in one instance.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
+
 -   Exposed Durability \[Common Talent\] **100** \- Deal 10% more damage to opponents with no armor durability left.
     -   Also affect players with no outfit (Stranded Outfit)
     -   Procs on your Basic Attacks while you have Berserk active.
     -   Also procs on Berserk users.
 -   Perseverance \[Common Talent\] **100** \- Reduces the duration you're [Ragdolled](Status_Effects.md#ragdolled) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
     -   This can stack with other Talents to reduce knock time even further. (Ex. Defiance)
+
 -   Unwavering Resolve \[Common Talent\] **100** \- Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
     -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.
--   Ruinous Recovery\[Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
+
+-   Ruinous Recovery \[Memento Talent\] **200** \- Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
+
 -   Bulldozer \[Rare Talent\] **250** \- Enemies you flourish into a wall have a chance of breaking the wall and are guard broken on impact.
     -   This has a 50% chance to break destructible objects when you flourish people into them.
+
 -   Rush Hour \[Rare Talent\] **250** \- Stab yourself to become stronger, faster, and deal increased blood bar damage.
     -   Gives you the Rush Hour tool. Can be deactivated at any time by using the tool again.
     -   Drains 4.5 HP per second and 2% Blood per second.
     -   Grants a 15% damage buff, affected by the damage modifier cap.
     -   Increases blood bar damage by +35% (additive).
-    -   Grants a 30% active speed boost. This counts for Talents such as Speed Demon and Cheap Shot.
+    -   Grants a 30% active speed boost. This counts for Talent procs.
     -   Recover 5% Blood when dealing damage (0.35s cooldown). Burn damage cannot proc this effect.
     -   If you have the Enhanced Flow Talent, landing basic attacks during Rush Hour will grant [Temporary Health](Status_Effects.md#temporary-health), equal to 30% of your weapon's scaled damage.
 
@@ -324,20 +327,25 @@ N/A
     -   The status effect is represented by blood pouring from the legs.
     -   Makes the opponent unable to jump for 4 seconds.
     -   Upon being applied to an opponent, they gain 6s worth of bear trap immunity.
+
 -   Thresher Scales \[Echo Talent, Quest Talent\] **100** \- You regenerate your armor at campfires. (+5 Health)
--   Residual Fury\[Memento Talent\] **200** \- In Berserk State Landing your critical grants +50% PEN on Basic Attacks for 8s.
+
+-   Residual Fury \[Memento Talent\] **200** \- In Berserk State Landing your critical grants +50% PEN on Basic Attacks for 8s.
+
 -   Exoskeleton \[Rare Talent\] **250** \- You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
-    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude.
-    -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
+    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude.
+    -   Exoskeleton has 443 durability at power 10, scaling up to 600 durability at power 20.
     -   [Vesperian](Vesperian.md)'s Chitin damage reduction stacks multiplicatively with Exoskeleton.
     -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
     -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
     -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
     -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
     -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
+
 -   _**Million Ton Piercer**_ \[Advanced Talent\] **350** \- Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   The additional 5% PEN scales with your Strength, only granting the full +5% PEN at 90 Strength.
-    -   Like Ether Overdrive, this removes the 50% Mantra and Weapon PEN cap.
+    -   This removes the 50% Mantra and Weapon PEN cap.
+
 -   _**Piercing Blow**_ \[Advanced Talent\] **350** \- Attacks that break an opponent's block ignore their Armor resistances.
 
   
@@ -533,8 +541,11 @@ Slash
 
 ### Power 15
 
--   **Vengeful Pursuit** \[Oath Talent\] **200** \- Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
+-   Vengeful Pursuit \[Oath Talent\] **200** \- Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
     -   Base damage and scaling depend on your current weapon's type; Light, Medium, or Heavy.
+    -   8 second cooldown.
+    -   This move is considered as an M1 for Talents and Enchant procs, although it procs certain critical Talents (like [Bear Trap](Talents.md#bear-trap))
+
 -   Defiance \[Rare Talent\] **250** \- Negative status effects are half as effective when you are below 35% HP.
     -   The Effectiveness of Defiance will be lessened if you do not meet its Willpower requirement.
     -   Currently, the only things Defiance cuts in half are:
@@ -675,13 +686,14 @@ Slash (1st Hit), Blunt (Kicks)
 
 ### Shogun of the Prophet's Guard
 
--   Rip and Tear\[Memento Talent\] - Regain health upon defeating an enemy.
+-   Rip and Tear \[Memento Talent\] - Regain health upon defeating an enemy.
 
 ### Dravik, The Rat King
 
 -   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
+
 -   Steel Scales \[Common Talent\] - You take an additional 5% less damage when your armor is broken. (+3% Slash Armor)
 
 ### True Heart of Enmity
 
--   Righteous Rage\[Memento Talent\] - In Berserk State You deal increased damage the lower your health is.
+-   Righteous Rage \[Memento Talent\] - In Berserk State You deal increased damage the lower your health is.

@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 187110
+revid: 187945
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -126,7 +126,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
 | ? | Opulent, Imperial | 2:14 | N/A (Previously, [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) and [Voidheart](Voidheart.md)) | File:Opulent, Imperial.ogg |
-| ? | [Sibex](Sibex.md)'s Gale Wisp Tune (TBA) | 6:16 | [Sibex](Sibex.md), [The Aratel Sea](The_Aratel_Sea.md) | File:Sibex-Gale-Wisp-Tune-1.mp3 |
+| ? | [Sibex](Sibex.md)'s Gale Wisp Tune | 6:16 | [Sibex](Sibex.md), [The Aratel Sea](The_Aratel_Sea.md) | File:Sibex-Gale-Wisp-Tune-1.mp3 |
 
 ## Alternative Soundtracks
 

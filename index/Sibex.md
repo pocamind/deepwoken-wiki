@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 181420
+revid: 187940
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
