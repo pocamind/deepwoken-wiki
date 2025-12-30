@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 187448
+revid: 187957
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1128,7 +1128,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 ### The Circle of Honor
 
 -   **Encountered in:** _Central Luminant(?)_
--   **Attunements:** _Unknown_
+-   **Attunements:** _Any_
 -   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (?)_
 -   **Enemies:** _Contractors, The Ministry [Ministryiconfaction](The_Ministry.md) (?)_
 -   **Lore Sources:** _ragoozer, Warden Jericho Journal, Windrunner._

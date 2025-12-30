@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 187417
+revid: 187951
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -246,6 +246,7 @@ Unique Loot Table
   <td>
   <ul>
     <li><b>Unique Weapons</b>: <a href="Edenbrand_Hellcoil.md"><font>Edenbrand Hellcoil</font></a>, <a href="Worldpiercer_Gauntlets.md"><font>Worldpiercer Gauntlets</font></a>.</li>
+    <li><b>Relic Weapons</b>: <a href="Dormant_Splinter.md">Dormant Splinter</a>.</li>
     <li><b>Legendary Weapons</b>: N/A</li>
     <li><b>Alloyed Weapons</b>: N/A</li>
     <li><b>Generic Weapons</b>:

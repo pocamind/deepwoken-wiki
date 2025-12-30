@@ -1,6 +1,6 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 187696
+revid: 187948
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
@@ -19,8 +19,6 @@ notices:
 | affiliation | Etrea (formerly) |
 | death | Killed by the Inheritor |
 | deathdate | 1233 CE |
-
-Variants: [Dravik](<Dravik,_the_Rat_King_(NPC).md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

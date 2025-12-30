@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 187230
+revid: 187964
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -89,7 +89,7 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 
 (★☆☆)
 
- | The Shogun performs a simple slash with their blade. Visually distinct from **High Cleave** by the Blue highlight, indicating that you must either crouch or block the attack.
+ | The Shogun performs a simple slash with their blade. Visually distinct from **High Cleave** by the Blue highlight, indicating that you must either crouch, uppercut or block the attack.
 
  | 
 

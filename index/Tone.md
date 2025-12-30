@@ -1,35 +1,35 @@
 ---
-title: Bari
-revid: 187965
-source: https://deepwoken.fandom.com/wiki/Bari
+title: Tone
+revid: 187972
+source: https://deepwoken.fandom.com/wiki/Tone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 ---
 
-# Bari
+# Tone
 
-| Bari | |
+| Tone | |
 |---|---|
-| name | Bari |
-| aspect | Etrean |
+| name | Tone |
+| aspect | Tiran |
 | location | Isle of Vigils |
 | affiliation | Etrea |
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
 ## Description
 
-Bari is an [Etrean](Etrean.md) NPC. He sells starter equipment aimed towards new and early game players.
+Tone is a [Tiran](Tiran.md) NPC. He sells starter equipment aimed towards new and early game players.
 
 ## Location
 
-Bari is located at the docks in [Isle of Vigils](Isle_of_Vigils.md) leaning against a wooden pillar infront of the stairs.
+Tone is located at the docks in [Isle of Vigils](Isle_of_Vigils.md) leaning against a wooden pillar in front of the stairs.
 
 ## Shop
 
-Bari's Bare Essentials
+Tone's Tremendous Stock
 
 <table>
 <tbody>

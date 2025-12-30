@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 180622
+revid: 187960
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,12 +28,6 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 
 ### Etrean Luminant
 
--   At the far-right side of [Etris Docks](Etris.md).
-    -   To specify, the right of someone going to the docks, not from the docks (away from the gate.
-        
-        Whirlpool Location #2
-        
--   Going beyond north of [Minityrsa](Minityrsa.md) to the [Voidsea](Voidsea.md) where you can at least see two whirlpools.
 -   At the corner of the Sea Highway near the [Isle of Vigils](Isle_of_Vigils.md).
 
 ### Eastern Luminant
@@ -43,20 +37,6 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 -   Many whirlpools within the vicinity of [Boatman's Watch](<Boatman's_Watch.md>).
 -   Multiple on the way to the [Moon's Eyrie](<Moon's_Eyrie.md>), and at the bottom of the Eyrie.
 -   Far and in between [Greathive Aratel](Greathive_Aratel.md) and the [Fort Merit](Fort_Merit.md) beach.
-
-**Etrean Luminant:**
-
-**Etris Docks:**
-
-At the far-right side of [Etris Docks](Etris.md) (The right of someone going to the docks, not from the docks).
-
-**Minityrsa:**
-
-Going beyond north of [Minityrsa](Minityrsa.md) to the [Voidsea](Voidsea.md) where you can at least see two whirlpools.
-
-**Isle of Vigils:**
-
-At the corner of the Sea Highway near the [Isle of Vigils](Isle_of_Vigils.md).
 
 ## Trivia
 

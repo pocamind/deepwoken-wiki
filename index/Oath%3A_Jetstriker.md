@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 178276
+revid: 187958
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -138,7 +138,6 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
     -   Costs 25 ether each step, cost cannot be reduced, will not activate at 0 ether.
     -   In combat: has a cooldown of 6 seconds. (Bugged, should be 6-11 seconds, cf. 03/08/2025 patch notes)
     -   Outside combat: has a cooldown of 5-10 seconds, scaling linearly by user's remaining HP.
-    -   Stratos Step is bugged at the moment and can only be used if you are swimming
 
 -   **Rush of Ancients** - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
     -   Sprinting at maximum momentum, now buffs your rolls/air dashes, increasing distance by 75%, and briefly turning the user invisible.

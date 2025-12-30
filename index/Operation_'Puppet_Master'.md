@@ -1,6 +1,6 @@
 ---
 title: "Operation 'Puppet Master'"
-revid: 187722
+revid: 187978
 source: https://deepwoken.fandom.com/wiki/Operation_'Puppet_Master'
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
