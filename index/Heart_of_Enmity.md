@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 186295
+revid: 188200
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -186,7 +186,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   Fight the Heart of Enmity in teams of one or two, taking turns to engage the boss. Rest and switch out with teammates as needed to manage the battle effectively.
 -   Be mindful of Enmity's very wide hitbox on most of his axe swings. They have an almost 270° radius from where he is currently facing and can often catch players to his sides off-guard.
 -   Try not to hit allies with your offensive bells or high damage moves.
--   Wearing the [Grand Fisher Plate](Grand_Fisher_Plate.md) or [ignition gauntlets](Ignition_Gauntlets.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is recommended, because it allows you to parry all of his non-parryable attacks.
+-   Wearing the [Grand Fisher Plate](Grand_Fisher_Plate.md) or [Ignition Gauntlets](Ignition_Gauntlets.md) or using the [Ignition Deepdelver](Ignition_Deepdelver.md) outfit is recommended, because it allows you to parry all of his non-parryable attacks.
 
 ###### Support
 

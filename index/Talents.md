@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 187932
+revid: 188223
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2733,6 +2733,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing Exclusive\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
     -   Increases the maximum amount of iron rods you can apply to a single target from 5 to 10.
     -   Has a base damage of 4 physical damage per rod, with 5 Ironsing scaling.
+        -   Formula: 4 + Ironsing investment \* 0.02
         -   Deals 5.5 physical damage per rod at 75 Ironsing.
     -   Affected by most damage modifiers.
     -   Innately has 0% PEN.

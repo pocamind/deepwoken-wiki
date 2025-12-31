@@ -1,13 +1,16 @@
 ---
 title: Deepwoken (game)
-revid: 182344
+revid: 188221
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [In progress without reason, InProgressPages, Deepwoken]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Deepwoken (game)
 
-_Deepwoken_ is an open world, roguelike, soulslike, Action RPG developed and published by Deepwoken Staff (formerly Vows by the Sea), a subdivision of Monad Studios, on the _Roblox_ platform. The game serves as a spiritual antithesis to their previous project, _Rogue Lineage_. Unlike most games on the platform, _Deepwoken_ is not free-to-play and costs 400 [Robux](https://roblox.fandom.com/wiki/Robux) to purchase.
+_Deepwoken_ is an open world, roguelike, soulslike, action RPG developed and published by Deepwoken Staff (formerly Vows by the Sea), a subdivision of Monad Studios, on the _Roblox_ platform. The game serves as a spiritual antithesis to their previous project, _Rogue Lineage_. Unlike most games on the platform, _Deepwoken_ is not free-to-play and costs 400 [Robux](https://roblox.fandom.com/wiki/Robux) to purchase.
 
 The project was first revealed to exist on the 15th of November, 2019. Originally slated to release in autumn, the game released on the 20th of December, 2021. Console support was added on the 3rd of March, 2024.
 
@@ -26,6 +29,20 @@ The game follows the adventures of various individuals in the world of Lumen, ch
 Made in Abyss and Sekiro have been cited as major inspirations for the world's setting.
 
 The usage of the Song contributing to rising Tides and global devastation, but not being countered due to humanity growing reliant on it to progress, has been compared to the effects of using fossil fuels.
+
+## Gallery
+
+### Thumbnails
+
+TBD
+
+### Game Icons
+
+TBD
+
+### Trailers
+
+TBD
 
 ## Version History
 

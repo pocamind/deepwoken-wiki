@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 179405
+revid: 188222
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -90,14 +90,14 @@ To modify a Mantra, the player needs to go to a Mantra Modification table, typic
 
 ## Mantra Damage Calculation
 
-The formula to calculate Mantra damage is as follows: B a s e D a m a g e × ( 1 + ( S c a l i n g 10 × ( I n v e s t m e n t 100 ) × ( 1 + S o n g c h a n t × 0.05 ) ) ) {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.05)))} {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.05)))}
+The formula to calculate Mantra damage is as follows: B a s e D a m a g e × ( 1 + ( S c a l i n g 10 × ( I n v e s t m e n t 100 ) × ( 1 + S o n g c h a n t × 0.065 ) ) ) {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.065)))} {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.065)))}
 
 Base damage often increases per Mantra level. Use the Mantra's base damage at its current level in the equation.
 
 -   Example 1: Level 5 [Strong Left](Attunement-less.md#strong-left) with 95 Strength and 2 Songchant:
-    -   60 \*(1 + (1.65/10 \*(95/100) \*(1 + 2 \*0.05))) = 70.34 damage.
+    -   60 \* (1 + (1.65/10 \* (95/100) \* (1 + 2 \* 0.065))) = 70.63 damage.
 -   Example 2: Level 4 [Gale Lunge](Galebreathe.md#gale-lunge) with 60 Galebreathe and no Songchant:
-    -   16.25 \*(1 + (2.75/10 \*(60/100) \*(1 + 0 \*0.05)) = 18.93 damage.
+    -   16.25 \* (1 + (2.75/10 \* (60/100)) = 18.93 damage.
 
 Nearly all [Attunement-less](Attunement-less.md) Mantras have 1.65 investment scaling, while most [Attuned](Attunements.md) Mantras have 2.75 scaling, although there are outliers to this.
 
@@ -109,12 +109,12 @@ This formula also works for non-Mantra things, such as Galebreathe Apparitions, 
 
 [Oath](Oaths.md) Mantras gain +2% damage per Songchant, changing the formula to the following:
 
-B a s e D a m a g e × ( 1 + ( S c a l i n g 10 × ( I n v e s t m e n t 100 ) × ( 1 + S o n g c h a n t × 0.05 ) ) × ( 1 + 0.02 × S o n g c h a n t ) ) {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.05))\\times (1+0.02\\times Songchant))} {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.05))\\times (1+0.02\\times Songchant))}
+B a s e D a m a g e × ( 1 + ( S c a l i n g 10 × ( I n v e s t m e n t 100 ) × ( 1 + S o n g c h a n t × 0.065 ) ) × ( 1 + 0.02 × S o n g c h a n t ) ) {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.065))\\times (1+0.02\\times Songchant))} {\\displaystyle BaseDamage\\times (1+({\\frac {Scaling}{10}}\\times ({\\frac {Investment}{100}})\\times (1+Songchant\\times 0.065))\\times (1+0.02\\times Songchant))}
 
-Note most Oath Mantras do not have scaling, making the formula as simple as Base damage \*(1 + 0.02 \*Songchant).
+Note most Oath Mantras do not have scaling, making the formula as simple as Base damage \* (1 + 0.02 \* Songchant).
 
 -   Example: [Celestial Assault](Oath%253A_Starkindred.md#celestial-assault) with 80 Strength and 4 Songchant:
-    -   20 \*(1 + (1.65/10 \*(80/100) \*(1 + 4 \*0.05)) \*(1 + 0.02 \*4)) = 23.42 damage per hit (2), 46.84 damage total.
+    -   20 \* (1 + (1.65/10 \* (80/100) \* (1 + 4 \* 0.065)) \* (1 + 0.02 \* 4)) = 25.19 damage per hit (2), 50.39 damage total.
 
 ## Types of Mantras
 

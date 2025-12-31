@@ -1,9 +1,9 @@
 ---
 title: Cirryn
-revid: 184202
+revid: 188195
 source: https://deepwoken.fandom.com/wiki/Cirryn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, Characters mentioned in books]
+categories: [Individuals with He/him pronouns, Cut Content, Characters mentioned in books]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -15,6 +15,7 @@ notices:
 | name | Cirryn[1] |
 | alias | The Starset Blade[1] |
 | aspect | Vesperian[1] |
+| pronouns | He/him |
 | affiliation | The Hive[1] |
 | death | Deceased prior to the events of the game[1] |
 

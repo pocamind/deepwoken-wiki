@@ -1,6 +1,6 @@
 ---
 title: God in the Machine
-revid: 184096
+revid: 188201
 source: https://deepwoken.fandom.com/wiki/God_in_the_Machine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Books]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # God in the Machine
+
+_If you're looking for the creature of the same name, see God in the Machine (Creature)._
 
 ## Description
 
@@ -58,12 +60,41 @@ God in the Machine
 > 
 > The night soon came to an end. The following day, the remains of the forest layed barren. Burnt, rotted trees weakly stand, most collapsed from the blaze. A sea of ash covered the burnt wasteland, a reminder of what once stood there. A Tiran woman could be seen walking away from the sight, with a letter in hand. Upon the parchment, the following words were written: "There was never a fire."
 > 
-> There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.” There was a fire. “There was never a fire.”
-> 
-> There was a fire.
+> There was a fire.  
+> “There was never a fire.”  
+>    There was a fire.  
+>      “There was never a fire.”  
+>       There was a fire.  
+>        “There was never a fire.”  
+>          There was a fire.  
+>           “There was never a fire.”  
+>            There was a fire.  
+>           “There was never a fire.”  
+>          There was a fire.  
+>        “There was never a fire.”  
+>       There was a fire.  
+>      “There was never a fire.”  
+>    There was a fire.  
+>  “There was never a fire.”  
+> There was a fire.  
+> “There was never a fire.”  
+>    There was a fire.  
+>      “There was never a fire.”  
+>       There was a fire.  
+>        “There was never a fire.”  
+>          There was a fire.  
+>           “There was never a fire.”  
+>            There was a fire.  
+>           “There was never a fire.”  
+>          There was a fire.  
+>        “There was never a fire.”  
+>       There was a fire.  
+>      “There was never a fire.”  
+>    There was a fire.
 
 ## Appearances
 
 -   [Eran](Eran.md)
 -   [Fran](Fran.md)
+-   God in the Machine (Creature)
 -   [Ryrda](Ryrda.md)

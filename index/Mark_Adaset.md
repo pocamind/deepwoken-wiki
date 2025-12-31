@@ -1,9 +1,9 @@
 ---
 title: Mark Adaset
-revid: 182020
+revid: 188193
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the First Layer, The Divers]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with He/him pronouns]
 ---
 
 # Mark Adaset
@@ -12,8 +12,13 @@ categories: [Adret NPCs, NPCs, NPCs located in the First Layer, The Divers]
 |---|---|
 | name | Mark Adaset |
 | aspect | Adret |
+| pronouns | He/his |
 | location | Castle Light |
 | affiliation | The Divers |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 
