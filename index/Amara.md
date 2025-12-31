@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 187521
+revid: 188072
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]

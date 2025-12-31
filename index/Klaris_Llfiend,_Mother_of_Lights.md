@@ -1,9 +1,9 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 186603
+revid: 188057
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pages with broken file links, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
+categories: [Canor NPCs, Individuals with She/her pronouns, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
 ---
 
 # Klaris Llfiend, Mother of Lights
@@ -12,6 +12,7 @@ categories: [Canor NPCs, Pages with broken file links, Vendors, NPCs, NPCs locat
 |---|---|
 | name | Klaris Llfiend |
 | aspect | Canor |
+| pronouns | She/her |
 | location | Castle Light |
 | affiliation | The Divers |
 
@@ -501,7 +502,6 @@ Radiant Teachings
 -   Some extra dialogue was removed/revamped when [Enchant Grease](Enchant_Grease.md) was added to the game.
     -   The old version of the dialogue can be viewed [here](https://deepwoken.fandom.com/wiki/Klaris_Llfiend,_Mother_of_Lights?oldid=112179#Shop_UI:~:text=Equipment%20Enchantment%20%5B5%20Medallions%5D).
 -   Attempting to enhance your skills as a [Dawnwalker](Oath%253A_Dawnwalker.md) while fully progressed will prompt the message, "Your mastery can go no further."
--   Klaris is related to [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md), confirmed by Ragoozer.[\[6\]](#cite-note-6)
 
 ## References
 
@@ -510,6 +510,3 @@ Radiant Teachings
 3.  [↑](#cite-ref-3) [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)
 4.  [↑](#cite-ref-4)
 5.  [↑](#cite-ref-5)
-6.  [↑](#cite-ref-6)
-    
-    File:KlarisRelative.png

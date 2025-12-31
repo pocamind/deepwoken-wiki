@@ -1,6 +1,6 @@
 ---
 title: Gaius
-revid: 187523
+revid: 188066
 source: https://deepwoken.fandom.com/wiki/Gaius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]

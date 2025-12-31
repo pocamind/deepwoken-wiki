@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 187914
+revid: 188008
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -630,7 +630,7 @@ _A devastating crash of wind._
 
  | 
 
-(?)
+Wind
 
  | 
 
@@ -641,6 +641,6 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 **Effect:** _Stomp on the ground to launch yourself upward before crashing down with a strong downdraft._
 
--   Exclusive to Inheritor of the gale and [Theros Disciple](Theros_Disciple.md)
+-   Exclusive to Inheritor of the Gale and [Theros Disciple](Theros_Disciple.md)
 
  |

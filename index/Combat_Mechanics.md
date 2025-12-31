@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 187931
+revid: 187992
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -374,11 +374,60 @@ Defenses/Info
 | --- | --- | --- |
 | 
 
+Circle\*
+
+ | File:Circletelegraph.png | This indicator is most prevalent on attacks that can be used by players.  
+
+Not all unblockable attacks have this indicator.  
+The color of this indicator changes depending on the attack used.  
+
+ |
+| All attacks that have this attribute:
+
+**Player Attacks**
+
+-   Default [Greatsword](Greatswords.md) and Club criticals (White)
+-   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
+-   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
+-   [Iron Slam](Ironsing.md#iron-slam) at level 5 (Grey)
+-   [Kanabo](Kanabo.md) running critical (White)
+-   [Duskguard Axe](Duskguard_Axe.md) critical (White)
+-   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
+
+**Monster Attacks**
+
+-   [Stonespark](Stonespark.md): Heavy Punch (White)
+
+**Boss Attacks**
+
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
+
+ |
+| 
+
+Crosshair
+
+ |  | This indicator is most prevalent on attacks that make use of homing projectiles.  
+
+The animation and duration of this indicator changes depending on the time it will take to said projectiles to hit their target.  
+The color of this indicator changes depending on the attack used.  
+
+ |
+| All attacks that have this attribute:
+
+**Player Attacks**
+
+-   [Ice Daggers](Frostdraw.md#ice-daggers) (Light Blue)
+-   [Shadow Seekers](Shadowcast.md#shadow-seekers) (Purple)
+
+ |
+| 
+
 Purple
 
  | File:Purpletelegraph.png | Most attacks with this indicator deal high posture damage.  
 
-Most monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
+Most Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
 
  |
 | All attacks that have this attribute:
@@ -461,42 +510,11 @@ Attacks with this indicator must be dodged. They will either bypass block or gua
  |
 | 
 
-Circle\*
-
- | File:Circletelegraph.png | This indicator is most prevalent on attacks that can be used by players.  
-
-Not all unblockable attacks have this indicator.  
-The color of this indicator changes depending on the attack used.  
-
- |
-| All attacks that have this attribute:
-
-**Player Attacks**
-
--   Default [Greatsword](Greatswords.md) and Club criticals (White)
--   [Fire Blade](Flamecharm.md#fire-blade) at level 5 (Orange)
--   [Ice Smash](Frostdraw.md#ice-smash) at level 5 (Light Blue)
--   [Iron Slam](Ironsing.md#iron-slam) at level 5 (Grey)
--   [Kanabo](Kanabo.md) running critical (White)
--   [Duskguard Axe](Duskguard_Axe.md) critical (White)
--   [Thunder Kick](Thundercall.md#thunder-kick) at level 5 (Yellow)
-
-**Monster Attacks**
-
--   [Stonespark](Stonespark.md): Heavy Punch (White)
-
-**Boss Attacks**
-
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
-
- |
-| 
-
 Blue
 
  | File:Bluetelegraph.png | Most attacks with this indicator deal high posture damage.  
 
-Some monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
+Some Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).  
 
  |
 | All attacks that have this attribute:
@@ -539,28 +557,6 @@ Attacks with this indicator must be parried.
  |
 | 
 
-White
-
- | File:Whitetelegraph.png | You need to physically move out of the hitbox of these attacks to dodge them.
-
-Some of these attacks have unique mechanics regarding how/if they can be avoided. Please check the enemy pages for more info.  
-
- |
-| All attacks that have this attribute:
-
-**Player Attacks**
-
--   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
-
-**Boss Attacks**
-
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
--   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
--   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
-
- |
-| 
-
 Cyan
 
  |  | Most attacks with this indicator deal high posture damage.
@@ -581,8 +577,30 @@ Attacks with this indicator cannot be dodged. They must be parried, or with high
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 
  |
+| 
 
-\*The Circle indicator changes color depending on the attack. The color is based off the [Attunement](Attunements.md) the attack came from; being White if the attack is [Attunement-less](Attunement-less.md) or is unaligned with any Attunement, Red if [Bloodrend](Bloodrend.md), light Orange if [Flamecharm](Flamecharm.md), light Blue if [Frostdraw](Frostdraw.md), Green if [Galebreathe](Galebreathe.md), light Grey if [Ironsing](Ironsing.md), Purple if [Shadowcast](Shadowcast.md), or Yellow if [Thundercall](Thundercall.md).
+White
+
+ | File:Whitetelegraph.png | You need to physically move out of the hitbox of these attacks to dodge them.
+
+Some of these attacks have unique mechanics regarding how/if they can be avoided. Please check the enemy pages for more info.  
+
+ |
+| All attacks that have this attribute:
+
+**Player Attacks**
+
+-   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
+
+**Boss Attacks**
+
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
+-   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
+-   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
+
+ |
+
+\*The Circle indicator changes color depending on the attack. The color is based off the [Attunement](Attunements.md) the attack came from; being White if the attack is [Attunement-less](Attunement-less.md) or is unaligned with any Attunement, Red if [Bloodrend](Bloodrend.md), Light Orange if [Flamecharm](Flamecharm.md), Light Blue if [Frostdraw](Frostdraw.md), Green if [Galebreathe](Galebreathe.md), Light Grey if [Ironsing](Ironsing.md), Purple if [Shadowcast](Shadowcast.md), or Yellow if [Thundercall](Thundercall.md).
 
 \*\*Possibly a bug, but Titus's _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
 

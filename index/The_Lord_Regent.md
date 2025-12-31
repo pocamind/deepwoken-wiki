@@ -1,9 +1,9 @@
 ---
 title: The Lord Regent
-revid: 186368
+revid: 188029
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
+categories: [Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
 ---
 
 # The Lord Regent
@@ -12,6 +12,7 @@ categories: [NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in th
 |---|---|
 | name | Zi'eer[1] |
 | alias | The Lord Regent, The 4th Prophet of The Ministry[1] |
+| pronouns | He/him |
 | location | Etris Palace |
 | affiliation | The Ministry, Etrea |
 

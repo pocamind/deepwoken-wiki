@@ -1,9 +1,9 @@
 ---
 title: Alastir
-revid: 187526
+revid: 188065
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Alastir
@@ -12,6 +12,7 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in th
 |---|---|
 | name | Alastir |
 | aspect | Celtor |
+| pronouns | He/him |
 | location | Pathfinder's Respite |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -123,5 +124,5 @@ The player is tasked with collecting [Forgotten Villagers](Forgotten_Villager.md
 
 ## Trivia
 
--   Alastir was an [Adret](Adret.md) prior to the August 25th 2025 update.
 -   You can turn in [Navaen Hostages](Navaen_Hostage.md) you find for the same effect.
+-   Originally, Alastir was a Royal Pathfinder in service to Duke Erisia who eventually recognized his master's insanity and tried to stop him. This was later retconned into him simply having been a pathfinder who was unfortunate enough to be passing through, due to his claims and associated plot threads contradicting later developments. His aspect was also originally [Adret](Adret.md) rather than Celtor.

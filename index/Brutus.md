@@ -1,9 +1,9 @@
 ---
 title: Brutus
-revid: 186040
+revid: 188073
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
+categories: [Khan NPCs, Individuals with He/him pronouns, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
 ---
 
 # Brutus
@@ -12,6 +12,7 @@ categories: [Khan NPCs, NPCs, The Hundred Legions, NPCs located in the Eastern L
 |---|---|
 | name | Brutus |
 | aspect | Khan |
+| pronouns | He/him |
 | location | Fort Merit |
 | affiliation | The Hundred Legions |
 

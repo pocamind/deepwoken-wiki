@@ -1,9 +1,9 @@
 ---
 title: High Inquisitor Merey
-revid: 186709
+revid: 188026
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
+categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | name | Merey Scarsen |
 | aspect | Canor |
+| pronouns | She/her |
 | location | Fort Merit |
 | affiliation | The Central Authority |
 
@@ -23,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-High Inquisitor Merey is a [Canor](Canor.md) NPC, she is the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md) garrison positioned in the Eastern Luminant, and a [Thundercaller](Thundercall.md).
+High Inquisitor Merey is a [Canor](Canor.md) NPC. She is the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md) garrison positioned in the Eastern Luminant, and a [Thundercaller](Thundercall.md).
 
 She appears aged with small wrinkles around her eyes. She wears a uniquely marked [Blindfold](Blindfold.md), a [Brilliant Cape](Brilliant_Cape.md), a [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md). On her right side, she holsters a bell at her hip, signifying her strength to obtain a [Resonance](Resonance.md). On her left side she wields the [Big Brother](Big_Brother.md) dagger.
 
@@ -499,4 +500,4 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 ## Trivia
 
 -   Due to her rank, Merey does not have floral-themed codenames other Inquisitors have.
--   As a Handler, reading the [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) will unlock a new dialogue (TBA).
+-   As a Handler, reading the [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>) will unlock new dialogue.

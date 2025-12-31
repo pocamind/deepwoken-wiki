@@ -1,9 +1,9 @@
 ---
 title: Surge
-revid: 178713
+revid: 188033
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, NPCs located in the First Layer, Oath Trainer]
+categories: [Canor NPCs, Individuals with He/him pronouns, NPCs, NPCs located in the First Layer, Oath Trainer]
 ---
 
 # Surge
@@ -12,6 +12,7 @@ categories: [Canor NPCs, NPCs, NPCs located in the First Layer, Oath Trainer]
 |---|---|
 | name | Surge |
 | aspect | Canor |
+| pronouns | He/him |
 | location | First Layer |
 
 “ This is only the beginning. ”

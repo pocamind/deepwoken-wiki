@@ -1,6 +1,6 @@
 ---
 title: Corporal Austin
-revid: 185948
+revid: 188023
 source: https://deepwoken.fandom.com/wiki/Corporal_Austin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Corporal Austin is a [Canor](Canor.md) NPC. He's definitely drunk out of his mind.
+Corporal Austin is a [Canor](Canor.md) NPC. They're definitely drunk out of their mind.
 
 ## Location
 

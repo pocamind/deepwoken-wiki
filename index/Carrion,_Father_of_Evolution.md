@@ -1,9 +1,9 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 179770
+revid: 188044
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
 ---
 
 # Carrion, Father of Evolution
@@ -12,6 +12,7 @@ categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
 |---|---|
 | name | Carrion |
 | aspect | Ganymede |
+| pronouns | He/him |
 | location | New Kyrsa, Castle Light |
 | affiliation | The Divers |
 
@@ -19,7 +20,7 @@ categories: [Ganymede NPCs, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
 
 Carrion, the "Father of Evolution," is a Ganymede Black Diver and master alchemist. Initially found in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md), he later resides in the [Castle Light](Castle_Light.md) library (after proving you're unaffiliated with Klaris).
 
-His wild white hair and unique green eyes are side effects of a Moonseye Vigour potion prototype that drove him insane. Leader of the Apothecary, he teaches monster mantras (given the right materials) and can untarnish the player's [Resonance](Resonance.md) for 1. While a Black Diver, he's more of a scientist than fighter, aiming to perfect the Moonseye Vigour to "transcend" everyone, by force if necessary.
+He teaches monster mantras (given the right materials) and can untarnish the player's [Resonance](Resonance.md) for 1.
 
 ## Dialogue
 

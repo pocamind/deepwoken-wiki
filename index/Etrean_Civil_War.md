@@ -1,6 +1,6 @@
 ---
 title: Etrean Civil War
-revid: 186987
+revid: 187980
 source: https://deepwoken.fandom.com/wiki/Etrean_Civil_War
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, SpoilerPages]
@@ -28,13 +28,13 @@ The **Etrean Civil War** was a civil conflict that took place between the [Minis
 
 ## Prelude
 
-During the coup against, Lord Guardian Ji'ang, Zi'eer and his most loyal guards, whom he had transformed into Shoguns, stormed [Etris Palace](Etris_Palace.md) and rained bloodshed within. Ultimately, this led to Ji'ang's and the Etrean resistance's murders—allowing Zi'eer to usurp the throne in the palace.
+During the coup against, [Lord Guardian](Lord_Guardian.md) [Ji'ang](<Ji'ang.md>), Zi'eer and his most loyal guards, whom he had transformed into Shoguns, stormed [Etris Palace](Etris_Palace.md) and rained bloodshed within. Ultimately, this led to Ji'ang's and the Etrean resistance's murders—allowing Zi'eer to usurp the throne in the palace.
 
 From there, he would shield the palace with an impenetrable barrier to ensure that he could not be taken down.
 
 Zi'eer's capabilities led to placing a Mind Veil over the people in [Etris](<Etris_(Vow_of_Iron).md>), erasing memories of the civil war's cause and altering the perception of the [Etrean Royalists](Etrean_Royalists.md)—ancient, well-respected families in its society, now being seen as bandits, or even scheming usurpers.
 
-## Conflict
+## The war
 
 Learning about this illegal seize of power, the Royalists sprung up in rebellion. The Royalists would also be susceptible to attacks by Zi'eer, notably being the destruction of Clan Mofisu's [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md) and the neighboring [Temple of Mur](Temple_of_Mur.md) through his Shoguns in 1233 CE.
 

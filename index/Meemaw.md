@@ -1,9 +1,9 @@
 ---
 title: Meemaw
-revid: 186906
+revid: 188062
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Vow of Iron Exclusive, NPCs, Quests]
+categories: [Felinor NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Quests]
 ---
 
 # Meemaw
@@ -11,6 +11,7 @@ categories: [Felinor NPCs, Vow of Iron Exclusive, NPCs, Quests]
 | Meemaw | |
 |---|---|
 | aspect | Felinor |
+| pronouns | She/her |
 | location | Songseeker Wilds |
 | family | Lucien (grandson) |
 

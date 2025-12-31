@@ -1,9 +1,9 @@
 ---
 title: Andrea
-revid: 186481
+revid: 188060
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the First Layer]
+categories: [Adret NPCs, Individuals with She/her pronouns, NPCs, NPCs located in the First Layer]
 ---
 
 # Andrea
@@ -12,6 +12,7 @@ categories: [Adret NPCs, NPCs, NPCs located in the First Layer]
 |---|---|
 | name | Andrea |
 | aspect | Adret |
+| pronouns | She/her |
 | location | First Layer |
 
 ## Description

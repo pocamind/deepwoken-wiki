@@ -1,9 +1,9 @@
 ---
 title: Ata
-revid: 186025
+revid: 188054
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors]
+categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors]
 ---
 
 # Ata
@@ -12,6 +12,7 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easter
 |---|---|
 | name | Ata |
 | aspect | Celtor |
+| pronouns | She/her |
 | location | Meteor Isle |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

@@ -1,6 +1,6 @@
 ---
 title: The Moonlit Faith
-revid: 179340
+revid: 188000
 source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Religious groups, The Moonlit Faith]
@@ -18,7 +18,7 @@ categories: [Religious groups, The Moonlit Faith]
 
 **The Moonlit Faith** is a religion, members of which worship the [Moonseye](Moonseye.md). The Faith originates from the [Chrysids](Chrysid.md) of the [Lullaby Isles](Lullaby_Isles.md).
 
-Devotees of the Moonlit Faith believe that the [Moonseye](Moonseye.md) is the gate to the afterlife, from which their ancestors look down on them from it amd that in order to gain access to afterlife the [Moonseye](Moonseye.md) asks for sacrifices.
+Devotees of the Moonlit Faith believe that the [Moonseye](Moonseye.md) is the gate to the afterlife, from which their ancestors look down on them from it and that in order to gain access to afterlife the [Moonseye](Moonseye.md) asks for sacrifices.
 
 With the Lady Confessor's ascension to power, she took the society in her hands and forbid leaving the [Lullaby Isles](Lullaby_Isles.md), unless their leave is sanctioned by the Faith.[\[1\]](#cite-note-marro-1) Anyone, who would dare to come back would most likely be sacrificed and set ablaze in the name of the [Moonseye](Moonseye.md).[\[2\]](#cite-note-pardoner-2)
 

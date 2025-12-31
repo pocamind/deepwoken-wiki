@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 187743
+revid: 188038
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -12,8 +12,9 @@ categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in th
 |---|---|
 | name | Traan Zakshun |
 | aspect | Canor |
+| pronouns | He/him[1] |
 | location | Lower Erisia |
-| family | Naan Zakshun (grandmother) |
+| family | Naan Zakshun (grandmother)[1] |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -27,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on their back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan Zakshun also wears a hat made out of kelp on his head, which he claim is for later consumption.
 
-Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md).[\[1\]](#cite-note-1) He has a love of ongos that dates back to his youth.
+Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). He has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
 
 Traan Zakshun's shop runs on an hourly rotation. Every hour, he sell two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
 
@@ -177,6 +178,7 @@ Traan's item descriptions will change randomly each time he sell goods from his 
 -   _I dropped a boulder on the guy I stole this from._
 -   _I threw the guy I stole this from into the Megalodaunt nest not too far from here. Easiest clean-up ever._
 -   _I stole these from local bandits, by the way._
+-   _I would keep this for my own, you know... Buy my shelves are getting rather full._
 -   _Isn't it weird how there's like, next to no fruit in Erisia? I had to plant my own tree near the shoreline... if you care._
 -   _It's had a little wear and tear, but who cares! Hey, that rhymed a little..._
 -   _It's not overpriced, I swear!_
@@ -442,5 +444,5 @@ Sold Items
 
 ## References
 
-1.  [↑](#cite-ref-1) [Naan Zakshun](Naan_Zakshun.md)
+1.  ↑ [1.0](#cite-ref-nan-1-0) [1.1](#cite-ref-nan-1-1) [1.2](#cite-ref-nan-1-2) [Naan Zakshun](Naan_Zakshun.md)
 2.  [↑](#cite-ref-0-2-0)

@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 185474
+revid: 187999
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -40,7 +40,7 @@ The **Coral Cestus** is a Fist Light Weapon that requires 50 LHT to use and drop
 
 ## Critical
 
-The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown. It does 1.3x your M1 damage.
+The user leaps forwards into the air and slams into the ground, creating a large AoE that applies short knockdown. It does 1.3x your M1 damage. The critical may be treated as a mantra, as it disables the Whistleguard status effect and is resisted by Nautilodaunts.
 
 The Broodalloy Cestus critical now has a telegraph alongside a sound effect. On top of that, the critical now **autogrips** anyone who is at low health or is already knocked.
 

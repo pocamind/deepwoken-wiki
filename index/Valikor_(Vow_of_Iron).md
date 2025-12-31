@@ -1,6 +1,6 @@
 ---
 title: Valikor (Vow of Iron)
-revid: 186907
+revid: 187998
 source: https://deepwoken.fandom.com/wiki/Valikor_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -20,7 +20,7 @@ notices:
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-“ You're damn right, I am a Golden Rat. ”
+“ You're damn right, I **am** a Golden Rat. ”
 
 ― Valikor
 
@@ -62,7 +62,7 @@ Valikor is located in [The Golden Rat](The_Golden_Rat.md), on the lower levels.
   <td colspan="2">THIS IS HOW WE DO IT!!</td>
   <td colspan="2">Oh, what's that? You can't afford it? Go find some dough. Fight some of the bandits here or something. Pawn their golden plates off at Antiquarian. Come back when you're ready for <i>KNOWLEDGE</i>!</td>
   <td colspan="8">[End Dialogue]</td>
-  <td colspan="2">STOP REMINDING ME!</td>
+  <td colspan="2">Tsch, fine, fine! You got me! You drive a real hard bargain, you know that? Just don't tell the other guys. If anyone asks, you <i>didn't</i> learn this from me. Got it?</td>
   <td colspan="2">You're damn right, I <b>am</b> a Golden Rat. And you know how I got to where I am today? <b>not</b> through dishing out handouts! <i>*He laughs in an uproar.*</i> Keep talking that nonsense, and I'll have to start swinging. Come back with money. MONEY, you hear?</td>
 </tr>
 <tr>

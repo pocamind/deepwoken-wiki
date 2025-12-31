@@ -1,6 +1,6 @@
 ---
 title: Training Mode
-revid: 183541
+revid: 188045
 source: https://deepwoken.fandom.com/wiki/Training_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Game Modes]
@@ -30,9 +30,7 @@ If the player entered through their slots, they retain their data.
 
 ### The Instructor
 
-The Trainer has 3 types of Trainer Strengths, Novice, Vigil, and Instructor. They can use the available weapon types that the player has. Individual properties can be modified separately, such as being able to move, block, parry, dodge, roll, attack, and use criticals.
-
-They seem to have infinite hp, however after taking enough damage they may remark the players skills, such as "Keep that Up!" and will remark when your hp runs out like "Don't give up yet!"
+The Trainer has 3 types of Trainer Strengths, Novice, Vigil, and Instructor. They can use the available weapon types that the player has. Individual properties can be modified separately, such as being able to move, block, parry, dodge, roll, attack, and use criticals. The trainer has around 1700 health and after taking enough damage they may remark the players skills, such as "Keep that Up!" and will remark when your hp runs out like "Don't give up yet!"
 
 Novice seems only know how to do basic attacks if in range, but is capable of blocking if the **only** modifier turned on is block/parry, with a rare parry every 20 years.
 

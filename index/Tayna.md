@@ -1,9 +1,9 @@
 ---
 title: Tayna
-revid: 186024
+revid: 188056
 source: https://deepwoken.fandom.com/wiki/Tayna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Vow of Iron Exclusive, NPCs, Vendors]
+categories: [Adret NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Vendors]
 ---
 
 # Tayna
@@ -12,6 +12,7 @@ categories: [Adret NPCs, Vow of Iron Exclusive, NPCs, Vendors]
 |---|---|
 | name | Tayna |
 | aspect | Adret |
+| pronouns | She/her |
 | location | Meteor Isle |
 
 Variants: [Ata](Ata.md)

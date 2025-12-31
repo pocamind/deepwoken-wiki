@@ -1,6 +1,6 @@
 ---
 title: Etris Flask
-revid: 184836
+revid: 188070
 source: https://deepwoken.fandom.com/wiki/Etris_Flask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Items, Tools]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Etris Flask** is a small potion obtained on every character made within [Vow of Iron](Vow_of_Iron.md), it can be consumed to heal back 30% of the player's maximum health. In Progression Bosses it will instead heal **50%**. Iron Vessels heal 5%.
+The **Etris Flask** is a small potion obtained on every character made within [Vow of Iron](Vow_of_Iron.md), it can be consumed to heal back 30% of the player's maximum health. In the mandatory progression bosses it will instead heal **50%** ([Iron Vessels](Iron_Vessel.md) heal 5%). Additionally, once a player is killed for the first time during a progression boss, the Etris Flask will automatically go down to one use left, regardless of how many uses it had prior.
 
 Normally, it has only one use before requiring to be refilled by entering [The Cerebral Spire](The_Cerebral_Spire.md). While the player is consuming the Etris Flask, they are locked in its animations (this can be negated by unequipping the flask, which does not consume a charge). Attempting to use the Etris Flask with no more uses will cause a silly animation of the player attempting to drink any last drops from the flask.
 

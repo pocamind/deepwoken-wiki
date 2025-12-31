@@ -1,9 +1,9 @@
 ---
 title: Jeremiah
-revid: 187938
+revid: 188018
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
 ---
 
 # Jeremiah
@@ -12,6 +12,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First 
 |---|---|
 | name | Jeremiah |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | The City of the Drowned |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

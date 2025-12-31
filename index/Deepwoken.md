@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 186584
+revid: 188021
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Pages requiring a cleanup, Lore]
@@ -14,11 +14,11 @@ _Not to be confused with the name of the game, [Deepwoken](<Deepwoken_(game).md>
 
 ## Description
 
-**Deepwoken** is a term used to refer to individuals who have consumed pieces of [Drowned Gods](https://deepwoken.fandom.com/wiki/Lore#Drowned_Gods),[\[1\]](#cite-note-0-1) causing them to "wake" to the secrets of "the deep". When a person ingests a fragment of a Drowned God, they attain immortality and supernatural powers related to the entity from which the fragment comes from. As a consequence of becoming a Deepwoken, the individual undergoes physical changes, though the nature and magnitude of these transformations are unknown.
+**Deepwoken** is a term used to refer to the individuals who have consumed pieces of [Drowned Gods](https://deepwoken.fandom.com/wiki/Lore#Drowned_Gods),[\[1\]](#cite-note-0-1) causing them to "wake" to the secrets of the deep. When a person consumes a fragment of a Drowned God, they attain immortality and supernatural powers related to the entity from which the fragment came from. As a consequence of becoming a Deepwoken the individual undergoes physical changes, though the nature and magnitude of these transformations are unknown.
 
 ### Known Deepwoken
 
-There are three known Deepwoken. Owing to their immortality, all are likely well over a thousand years old.
+There are three known Deepwoken. They are all likely well over a thousand years old.
 
 -   [Amorus Pleeksty](Amorus_Pleeksty.md)
     -   Pleeksty ate a part of [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) in the form of a meteor flower. He received pyrokinetic powers, leading to the invention of the [Flamecharm](Flamecharm.md) Attunement.

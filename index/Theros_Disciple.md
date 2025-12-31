@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 186565
+revid: 188006
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -329,7 +329,7 @@ _A devastating crash of wind._
  |
 | 
 
-TBA
+100
 
  | 
 
