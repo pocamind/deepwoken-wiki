@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Hierka
-revid: 174661
+revid: 188232
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Hierka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gunsmiths, Bureau of Research personnel]
+categories: [Individuals with He/him pronouns, Gunsmiths, Bureau of Research personnel]
 ---
 
 # Gunsmith Hierka
@@ -12,6 +12,7 @@ categories: [Gunsmiths, Bureau of Research personnel]
 |---|---|
 | name | Hierka[1] |
 | alias | Gunsmith[1] |
+| pronouns | He/him[1] |
 | affiliation | The Central Authority[1], Bureau of Research[1], The Summer Company (as a spy)[1] |
 
 ## Description
@@ -20,5 +21,5 @@ The former protégé of [Gunsmith Rosen](Gunsmith_Rosen.md), Hierka was really l
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-rs-1-0) [1.1](#cite-ref-rs-1-1) [1.2](#cite-ref-rs-1-2) [1.3](#cite-ref-rs-1-3) [1.4](#cite-ref-rs-1-4) [1.5](#cite-ref-rs-1-5) [Rifle Spear](Rifle_Spear.md) description
+1.  ↑ [1.0](#cite-ref-rs-1-0) [1.1](#cite-ref-rs-1-1) [1.2](#cite-ref-rs-1-2) [1.3](#cite-ref-rs-1-3) [1.4](#cite-ref-rs-1-4) [1.5](#cite-ref-rs-1-5) [1.6](#cite-ref-rs-1-6) [Rifle Spear](Rifle_Spear.md) description
 2.  [↑](#cite-ref-2) The description of the [Rifle Spear](Rifle_Spear.md) details Hierka's actions and calls him Rosen's _former_ protégé. Weapon descriptions are shown to not be omniscient, suggesting that Hierka's true alliegance became known to the public. The usage of the phrase "it is said" further conveys this.

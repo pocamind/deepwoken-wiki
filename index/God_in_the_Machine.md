@@ -1,6 +1,6 @@
 ---
 title: God in the Machine
-revid: 188201
+revid: 188246
 source: https://deepwoken.fandom.com/wiki/God_in_the_Machine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Books]

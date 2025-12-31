@@ -1,6 +1,6 @@
 ---
 title: Icarus Sun Shield
-revid: 188224
+revid: 188225
 source: https://deepwoken.fandom.com/wiki/Icarus_Sun_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Weapons, Pages with broken file links, Shields, The Hundred Legions, Offhand]
@@ -33,9 +33,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Icarus Sun Shield is a [side weapon](Weapons.md) in the Shield category.
+The Icarus Sun Shield is a [offhand weapon](Weapons.md) in the Shield category. It is identical to the Khan Shield, however the Khan symbol in the middle of the shield has been changed to be glowing a yellow-ish orange colour and the symbol itself is changed (??).
 
-Currently the only obtainment for the Icarus Sun Shield is through defeating [General Titus Juventius](General_Titus_Juventius.md) by lowering his health below 90%, after that the shield will be given to whoever has contributed in doing damage to the boss .The Shield requires 60 Fortitude to equip and it's special effect is that it reduces posture recovery from parrying by 40%, and gives a max posture bonus of 10.8
+Currently the only obtainment for the Icarus Sun Shield is through defeating [General Titus Juventius](General_Titus_Juventius.md) by lowering his health below 90%, after that the shield will be given to whoever has contributed in doing damage to the boss. The Shield requires 60 Fortitude to equip and the special effect is that it reduces posture recovery from parrying by 40%, but in turn, it gives a max posture bonus of 10, much like [The Path's Defender](<The_Path's_Defender.md>).
 
 File:SunShield.png.png
 

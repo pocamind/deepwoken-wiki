@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 186803
+revid: 188247
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
@@ -31,8 +31,6 @@ This content is not accessible outside of this gamemode.
 ## Starting Abilities
 
 -   Steampunk Soldier \[Memento Talent\] - Increase the size of your steam which you activate Flashboil. Flashboil's cooldown is also reduced.
-    
-    -   Requirements: Starter
 
 -   Boiling Point \[Common Talent\] - Using a fire mantra near your own steam cloud detonates it.
     -   Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 damage in an AoE.
@@ -225,7 +223,7 @@ N/A
     -   Has a 4 second activation window with a 10 second duration.
     -   This talent will still proc if you hit a knocked enemy.
 
--   Armor Piercing \[Rare Talent\] **250** \- \[Guns\] Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+-   Armor Piercing \[Rare Talent\] **250** \- Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
         -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: (1 - ((1 - Current PEN/100) \*(1 - 0.1))) \*100 = effective PEN against blunt armor.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
@@ -377,13 +375,13 @@ Ice
 -   Frozen Pin-Cushion \[Rare Talent\] **250** \- Ice Daggers now freeze opponents.
 
 -   True Ether Bullets \[Rare Talent\] **250** \- Using Ether Bullets applies elemental damage of your highest investment.
-    -   -   Landing 2 shots will make the 3rd shot deal elemental damage.
-            -   The 3rd shot apply your attunement's elemental effect:
-                -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
-                -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
-                -   The other Attunements' effects are not listed here due to being irrelevant to this Memento. See the [Talents page](Talents.md#true-ether-bullets) for this Talent's full effect.
-            -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-        -   This Talent does not make guns scale off your attunement attribute, it just converts your Physical Damage to Elemental Damage.
+    -   Landing 2 shots will make the 3rd shot deal elemental damage.
+        -   The 3rd shot apply your attunement's elemental effect:
+            -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
+            -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
+            -   The other Attunements' effects are not listed here due to being irrelevant to this Memento. See the [Talents page](Talents.md#true-ether-bullets) for this Talent's full effect.
+        -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+    -   This Talent does not make guns scale off your attunement attribute, it just converts your Physical Damage to Elemental Damage.
 
   
 
@@ -441,7 +439,7 @@ Ice
 
  | 
 
-Power 5, 450
+450
 
  |
 | 
@@ -457,3 +455,26 @@ Power 5, 450
 -   Can be modified with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to cause the Mantra to send out each projectile individually.
 
  |
+
+### Power 10
+
+-   Explosive Finish \[Common Talent\] **100** \- If an enemy is on fire when you flourish, blast them away with a fire blast.
+    -   the equation for this damage is: (weapon damage + 1 blunt damage + 5 flame damage)
+    -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
+-   Fragile Freeze \[Common Talent\] **100** \- Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.
+    -   Guardbreaking a chilled opponent with a weapon attack will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
+    -   Taking damage by any source (including damage over time effects) will end the freeze early.
+    -   You can spam F to get out of Freeze faster.
+-   Stock Bash \[Common Talent\] **100** \- Rifles Your running attacks now apply a brief amount of daze.
+    -   Applies daze for one second.
+-   Frozen Legs \[Rare Talent\] **250** \- Your slow effect prevents your opponents from rolling.
+    -   Does not work with Crystallization.
+    -   Lasts the first 0.75 seconds after chill/freeze procs.
+    -   Only procs off mantras.
+-   Leg Shot \[Rare Talent\] **250** \- Rifles Landing your critical slows your enemy for a bit, and also disables any speed boosts they get for the next 10 seconds.
+
+## Boss Unlocks
+
+### Shogun of the Prophet's Guard
+
+steam grenade

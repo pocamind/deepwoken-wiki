@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 179760
+revid: 188226
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -154,9 +154,10 @@ Oath
 -   An entire beam deals about 250 total damage (needs more calculations). Unparryable, blockable. Can be dodged by going far enough from caster.
 -   5 minute cooldown.
     -   Adding a [Blessed Gem](Blessed_Gem.md) will greatly reduce cooldown.
+        -   Note: it will proc ONLY if you hit someone with the last tick of the beam.
 -   Has a 2 seconds long wind-up, cancels if the caster gets hitstun. Can only walk during active beam.
-    -   Can be canceled manually by caster.
-    -   Getting hit by a Vent will also cancel it.
+    -   Cannot be canceled manually by caster and unfeintable.
+    -   Getting hit by a Vent will cancel it.
 -   Can turn while shooting beam.
 -   Soul Beam is listed as an "initiate level Physical Mantra" in Mystic dialogue.
 
