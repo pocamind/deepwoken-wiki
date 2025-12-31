@@ -1,9 +1,9 @@
 ---
 title: Elykris
-revid: 187550
+revid: 188123
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
 ---
 
 # Elykris
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 Elykris is a [Celtor](Celtor.md) NPC at [Minityrsa](Minityrsa.md).
 
-He gives the quest "Ministry Secrets" that tasks the player to find a field report located inside of [Outpost Antumbra](Outpost_Antumbra.md), by the ladder to [Trial of One](Trial_of_One.md). The quest rewards the player with 3 Aces and a Curiosity [Talent](Talents.md) hand.
+They give the quest "Ministry Secrets" that tasks [The Pathfinder](The_Pathfinder.md) to find a field report located inside of [Outpost Antumbra](Outpost_Antumbra.md), by the ladder to [Trial of One](Trial_of_One.md). The quest rewards them with 3 Aces and a Curiosity [Talent](Talents.md) hand.
 
 Elykris wears the old version of the [Darksteel Plate](Darksteel_Plate.md) schematic, a Black Parka, a [Black Blindfold](Blindfold.md), and a [Brigand's Bicorn](<Brigand's_Bicorn.md>).
 
@@ -134,6 +134,6 @@ Elykris is located leaning against a tree, on a ledge to the left of a Ministry 
 </tbody>
 </table>
 
-## Notes & Trivia
+## Trivia
 
--   You can turn in the Ministry Field Report to the [Guild Base](Guild_Bases.md) Librarian, locking you out of the quest entirely.
+-   The Ministry Field Report can be given to the [Guild Base](Guild_Bases.md) Librarian, preventing the quest from being completed.

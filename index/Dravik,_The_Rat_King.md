@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 187947
+revid: 188162
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -78,9 +78,10 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
   
 
- | Dravik lets out a sound cue and slowly swings his axe twice, starting from the player's left side upwards, then downwards, after which he rushes the player twice before teleporting behind them with an attack and swinging again.
+ | Dravik lets out a sound cue and slowly swings his axe twice, starting from the player's left side upwards, then downwards, after which he _\[has a large chance to\]_ rushes the player twice before teleporting behind them with an attack and swinging again.
 
 -   The timing for parrying the rushes depends on Dravik's distance from the player.
+-   Dravik will always follow up with **Sparkle Blitz** if he rushes twice, but never once.
 
  | 
 

@@ -1,9 +1,9 @@
 ---
 title: Valikor
-revid: 187577
+revid: 188174
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]
 ---
 
 # Valikor
@@ -12,6 +12,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean
 |---|---|
 | name | Valikor |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | Temple of the Blade library |
 | affiliation | Etrea |
 

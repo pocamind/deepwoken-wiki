@@ -1,6 +1,6 @@
 ---
 title: Vigil Isaac
-revid: 187532
+revid: 188107
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -47,41 +47,64 @@ Vigil Isaac is located initially at [Upper Erisia](Upper_Erisia.md), sitting inj
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Please... A Gale Stone...</td>
+  <td colspan="2">Please... A Gale Stone...</td>
 </tr>
 <tr>
-  <td colspan="12">[Give Gale Stone]</td>
+  <td>Player has a Gale Stone</td>
+  <td>Player does not have a Gale Stone</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The Vigil takes hold of the stone and inhales deeply. The stone seems to disappear and color begins to return to the man's face.*</i> Thank you stranger, I owe you my life.</td>
+  <td>[Give Gale Stone]</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="12">Your brother sent me.</td>
+  <td><i>*The Vigil takes hold of the stone and inhales deeply. The stone seems to disappear and color begins to return to the man's face.*</i> Thank you stranger, I owe you my life.</td>
 </tr>
 <tr>
-  <td colspan="12">That figures... He really needs to quit worrying so much. But I suppose he was right this time. I'm gonna rest up here for a bit then head back, I appreciate your help.</td>
+  <td>Your brother sent me.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>That figures... He really needs to quit worrying so much. But I suppose he was right this time. I'm gonna rest up here for a bit then head back, I appreciate your help.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 **Subsequent Encounters:**
 
+**Upper Erisia:**
+
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">I'll be heading back soon, 'Walk with the Wind' stranger.</td>
+  <td>I'll be heading back soon, 'Walk with the Wind' stranger.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Temple of the Blade:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Thank you for your help, 'Walk with the Wind' stranger.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

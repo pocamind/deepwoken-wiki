@@ -1,9 +1,9 @@
 ---
 title: Korin
-revid: 187557
+revid: 188146
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Korin
@@ -25,23 +25,23 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Korin is an [Etrean](Etrean.md) lumberjack. When interacted with, he requests 6 wood in order to keep the fires lit. In exchange, the player gains 5 notes and increased [Reputation](Reputation.md) with [Etrea](Etrea.md). He also gives the player a free [Lumber Axe](Lumber_Axe.md) if they do not have one.
+Korin is an [Etrean](Etrean.md) lumberjack. When interacted with, they request 6 wood in order to keep the fires lit. In exchange, [the Pathfinder](The_Pathfinder.md) gains 5 Notes and increased [Reputation](Reputation.md) with [Etrea](Etrea.md). They also give the Pathfinder a free [Lumber Axe](Lumber_Axe.md) if they do not have one.
 
 Korin offers the easiest way to increase reputation with Etrea, which allows the player to easily obtain the [Manor key](Manor_Key.md). The Manor Key is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
 
-His counterpart in the [Isle of Vigils](Isle_of_Vigils.md) is [Drefa](Drefa.md).
+Their counterpart in the [Isle of Vigils](Isle_of_Vigils.md) is [Drefa](Drefa.md).
 
 ## Location
 
-Korin is located in [Etris](Etris.md), in front of the [Antiquarian](Antiquarian.md). He is standing outside of his house.
+Korin is located in [Etris](Etris.md), in front of the [Antiquarian](Antiquarian.md). They are standing outside of a house.
 
 ## Quest
 
-Upon talking to him, Korin will give the player a free lumber axe if the player does not already have one. He will then ask the player for 6 wood, which when handed to him, will increase the player's reputation with [Etrea](Etrea.md), alongside giving the player 5 notes. This quest is repeatable.
+Upon talking to them, Korin will give the player a free lumber axe if the player does not already have one. They will then ask the player for 6 wood, which when handed to them, will increase the player's reputation with [Etrea](Etrea.md), alongside giving the player 5 notes. This quest is repeatable.
 
 ### **Selling Wood**
 
-It is recommended to **BUY THE 2 NOTES WOOD FROM THE [ETRIS](Etris.md) [BLACKSMITH](Blacksmith.md)** area rather than the more costly 5 wood from the general store. Alternatively, the player can chop up trees or pick up sticks to craft wood.
+It is recommended to **BUY THE 2 NOTES WOOD FROM THE [ETRIS](Etris.md) [BLACKSMITH](Blacksmith.md)** area rather than the more costly 5 wood from the general store. Alternatively, the player can chop trees or pick up sticks to craft wood.
 
 Wood from the blacksmith's costs only 2 ...
 
@@ -56,8 +56,6 @@ If the player has fell at least 1 tree with the mantra [Strong Left](Attunement-
 As the name implies, this [Talent](Talents.md) allows the player to get wood by punching down a tree with Strong Left. Although trees can be destroyed this way without the Talent, trees will not drop wood unless the player has Treefelling Blow.
 
 ## Dialogue
-
-Korin will not talk to you if you have lower than neutral reputation with [Etris](Etris.md).
 
 **Base Dialogue:**
 
@@ -202,5 +200,5 @@ If the player has lower than Neutral [Reputation](Reputation.md) with [Etris](Et
 
 -   Has a near-identical appearance to [The Ferryman](The_Ferryman.md), the only difference being eye color.
 -   A counterpart of this NPC can be found in the Isle of Vigils, with the same functions called [Drefa](Drefa.md).
--   It is implied in one of his dialogue options that he formerly pursued a profession as a Vigil, but failed to meet the required sword expertise for the job.
+-   It is implied in one of their dialogue options that they formerly pursued a profession as a Vigil, but failed to meet the required sword expertise for the job.
 -   Korin was one of the first NPCs added to Deepwoken closed community testing.

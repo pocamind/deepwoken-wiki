@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 178136
+revid: 188080
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -9,6 +9,8 @@ categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
 # The Diluvian Mechanism
 
 LocationL Diluvian Mechanism LocationR
+
+TERRITORY OF 😨
 
 An inscrutable mechanism looms in the centre of the hall. Many hearts have been consumed to spur its accursed gears into motion.
 

@@ -1,9 +1,9 @@
 ---
 title: Trenti
-revid: 187576
+revid: 188173
 source: https://deepwoken.fandom.com/wiki/Trenti
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Trenti
@@ -12,6 +12,7 @@ categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 |---|---|
 | name | Trenti |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | Etris |
 | affiliation | Etrea |
 
@@ -27,7 +28,7 @@ He has a counterpart in the [Isle of Vigils](Isle_of_Vigils.md) named [Aristo](A
 
 ## Location
 
-Trenti is located in the [Etris inn](Etris.md), leaning againt a wall beside the entrance to it.
+Trenti is located in the [Etris](Etris.md) inn, leaning against a wall beside the entrance to it.
 
 ## Dialogue
 

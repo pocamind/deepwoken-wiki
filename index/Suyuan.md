@@ -1,9 +1,9 @@
 ---
 title: Suyuan
-revid: 187574
+revid: 188111
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Suyuan
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Suyuan is an [Etrean](Etrean.md) NPC, he gives the quest "Ghost Hunting," asking the player to seek out a [Ghost Ship](Beloved_Zofia.md). Upon completion, the player earns XP and a Compassion [Talent](Talents.md) hand.
+Suyuan is an [Etrean](Etrean.md) NPC. They give the quest "Ghost Hunting," asking [the Pathfinder](The_Pathfinder.md) to seek out a [Ghost Ship](Beloved_Zofia.md). Upon completion, the Pathfinder earns XP and a Compassion [Talent](Talents.md) hand.
 
 ## Location
 

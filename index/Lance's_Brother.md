@@ -1,17 +1,18 @@
 ---
 title: "Lance's Brother"
-revid: 187548
+revid: 188115
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Lance's Brother
 
 | Lance's Brother | |
 |---|---|
-| name | @#$%& Leshi [1] |
+| name | @#$%& Leshi[1] |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | Isle of Vigils |
 | affiliation | Etrea |
 | family | Lance (brother) |

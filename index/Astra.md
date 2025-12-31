@@ -1,9 +1,9 @@
 ---
 title: Astra
-revid: 187540
+revid: 188090
 source: https://deepwoken.fandom.com/wiki/Astra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Etrea]
+categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Etrea, Individuals with unspecified pronouns]
 ---
 
 # Astra
@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The armorer is an [Etrean](Etrean.md) NPC. He is the clerk at the weapons shop in [Etris](Etris.md). While weapons can be found and purchased around the shop, he sells them directly. He doesn't sell _all_ of the weapons found around the shop, however.
+The armorer is an [Etrean](Etrean.md) NPC. They are the clerk at the weapons shop in [Etris](Etris.md). While weapons can be found and purchased around the shop, they sell them directly. They do not sell _all_ of the weapons found around the shop, however.
 
 ## Location
 

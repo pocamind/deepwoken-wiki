@@ -1,9 +1,9 @@
 ---
 title: Kelsius
-revid: 187536
+revid: 188169
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
 ---
 
 # Kelsius
@@ -12,6 +12,7 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located
 |---|---|
 | name | Kelsius |
 | aspect | Adret |
+| pronouns | He/him |
 | location | Temple of the Blade |
 | affiliation | The Central Authority (formerly), Etrea |
 
@@ -215,3 +216,4 @@ If the quest was done on the account previously, Kelsius will instead ask the pl
 -   You are able to completely skip the quest and unlock special dialogue if you have completed the [Castaway](Castaway.md) tutorial on the same character.
 -   Oddly enough, having the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md) doesn't unlock new dialogue from him, despite his past as a member of the Shock Corps.
 -   Kelsius' dialogue used to be slightly different, with there being two possible avenues to inquire about their past. One was more direct, while the other was more subtle, and Kelsius would react appropriately.
+-   Kelsius will still suggest the books are on the Isle of Vigils even if the books have not been retrieved previously, and thus are on [Etris](Etris.md) instead.

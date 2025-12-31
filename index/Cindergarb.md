@@ -1,11 +1,9 @@
 ---
 title: Cindergarb
-revid: 187694
+revid: 188092
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Outfits, Unique Outfits]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 ---
 
 # Cindergarb

@@ -1,9 +1,9 @@
 ---
 title: Infamous Baz
-revid: 187555
+revid: 188135
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Cut Content, NPCs, NPCs located in the Etrean Luminant]
+categories: [Felinor NPCs, Cut Content, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
@@ -12,8 +12,9 @@ notices:
 
 | Infamous Baz | |
 |---|---|
-| name | Infamous Baz |
+| name | Baz |
 | aspect | Felinor |
+| pronouns | He/him[1] |
 | location | The King's Garden |
 | affiliation | Etrea |
 
@@ -23,7 +24,7 @@ notices:
 
 ## Description
 
-Infamous Baz was a Felinor NPC spotted in the back corner of [The King's Garden](<The_King's_Garden.md>) in Etris. He was located in a back corner of the garden to the right of the palace.
+Infamous Baz was a Felinor NPC spotted in the back corner of [The King's Garden](<The_King's_Garden.md>) in Etris. They were located in a back corner of the garden to the right of the palace.
 
 ## Location
 
@@ -49,8 +50,8 @@ Infamous Baz was located on a ledge in a corner behind the [Etris Palace](Etris_
 
 -   According to Arch\_Mage, if you kept interacting with him, there is a chance you will get a legendary hidden Felinor-like aspect. Whether or not he was actually being serious was unclear but the chances of the statement being true are highly unlikely. With Baz's removal, it's all but confirmed it was false.
 -   He is named after infamousbaz, a friend of Arch\_Mage.
--   The canonical winner of the "Grand Griddy." [\[1\]](#cite-note-1)
+-   The canonical winner of the "Grand Griddy."[\[1\]](#cite-note-o-1)
 
 ## References
 
-1.  [↑](#cite-ref-1)
+1.  ↑ [1.0](#cite-ref-o-1-0) [1.1](#cite-ref-o-1-1)

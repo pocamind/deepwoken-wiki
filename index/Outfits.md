@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 186838
+revid: 188097
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -57,11 +57,13 @@ _Deepwoken_ currently has 15 Master Outfits that have been discovered.
 
 _Deepwoken_ currently has 18 Unique Outfits that have been discovered.
 
-  
+### [Vow of Iron](Vow_of_Iron.md) Exclusive Outfits
+
+_Deepwoken_ currently has 7 Vow of Iron exclusive Outfits that have been discovered. All of these Outfits are exclusively obtained as the starting armor of specific [Mementos](Mementos.md), and are Unique tier.
 
 ### Spec/Mod
 
-_Deepwoken_ currently has 12 Confirmed spec/mod armor that have been discovered.
+_Deepwoken_ currently has 11 Confirmed spec/mod armor that have been discovered. Outfits that are classified as spec/mod outfits in Pathfinder, but are obtainable in Vow of Iron will not be listed here.
 
 ### Unavailable
 
@@ -148,8 +150,8 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td></td>
   <td><a href="11th_Legion_Plate.md">11th Legion Plate</a></td>
   <td></td>
-  <td><a href="Legion_Centurion.md">Legion Centurion</a></td>
-  <td><a href="Titus's_Raiment.md">Titus's Raiment</a></td>
+  <td><a href="Legion_Centurion.md">Legion Centurion</a>, <a href="Titus's_Raiment.md">Titus's Raiment</a></td>
+  <td></td>
 </tr>
 <tr>
   <td><center><b><a href="The_Knives_of_Eylis.md">The Knives of Eylis</a></b><p><a href="The_Knives_of_Eylis.md">Knives of Eylis</a></p></center></td>
@@ -172,8 +174,8 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td></td>
   <td></td>
   <td></td>
-  <td><a href="Prophet's_Cloak.md">Prophet's Cloak</a></td>
-  <td><a href="Darkened_Bastion.md">Darkened Bastion</a></td>
+  <td><a href="Prophet's_Cloak.md">Prophet's Cloak</a>, <a href="Darkened_Bastion.md">Darkened Bastion</a></td>
+  <td></td>
 </tr>
 </tbody>
 </table>

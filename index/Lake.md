@@ -1,9 +1,9 @@
 ---
 title: Lake
-revid: 187558
+revid: 188137
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Lake
@@ -12,6 +12,7 @@ categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easte
 |---|---|
 | name | Lake |
 | aspect | Chrysid |
+| pronouns | She/her |
 | location | Songseeker Wilds, in a small cave |
 | affiliation | The Moonlit Faith |
 

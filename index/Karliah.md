@@ -1,9 +1,9 @@
 ---
 title: Karliah
-revid: 187554
+revid: 188139
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Karliah
@@ -12,6 +12,7 @@ categories: [Adret NPCs, Pathfinder Exclusive, The Divers, NPCs, NPCs located in
 |---|---|
 | name | Karliah |
 | aspect | Adret |
+| pronouns | She/her |
 | location | Etris |
 | affiliation | The Divers |
 

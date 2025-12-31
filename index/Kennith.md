@@ -1,9 +1,9 @@
 ---
 title: Kennith
-revid: 187556
+revid: 188138
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | name | Kennith |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | Etris, Kyrsan Wilds |
 | affiliation | Etrea |
 

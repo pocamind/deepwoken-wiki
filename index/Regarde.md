@@ -1,9 +1,9 @@
 ---
 title: Regarde
-revid: 158761
+revid: 188127
 source: https://deepwoken.fandom.com/wiki/Regarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant]
+categories: [NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Regarde
@@ -16,7 +16,7 @@ categories: [NPCs, NPCs located in the Eastern Luminant]
 
 ## Description
 
-Regarde is a [Vesperian](Vesperian.md) NPC. Interacting with him sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) and initiates [Training Mode](Training_Mode.md). He is the Eastern counterpart of the [Instructor](Das.md) at the Isle of Vigils. He wears the unobtainable [Hive Adjudicator](Hive_Adjudicator.md) outfit.
+Regarde is a [Vesperian](Vesperian.md) NPC. Interacting with them sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) and initiates [Training Mode](Training_Mode.md). They are the Eastern counterpart of the [Instructor](Das.md) at the Isle of Vigils. They wear the unobtainable [Hive Adjudicator](Hive_Adjudicator.md) outfit.
 
 ## Location
 

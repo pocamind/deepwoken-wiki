@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 184531
+revid: 188101
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greataxes, "Core-Attribute based weapons", Developer Spec]
@@ -27,11 +27,11 @@ categories: [Vow of Iron Exclusive, Weapons, Greataxes, "Core-Attribute based we
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Developer Only (Pathfinder), The Depths (Vow of Iron) |
+| obtainment | Developer Only (Pathfinder), The Depths (Vow of Iron), Strange Merchant Magic Coffin |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+Outside of this gamemode, this weapon is developer exclusive.
 
 ## Description
 

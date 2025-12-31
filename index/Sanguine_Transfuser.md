@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 183107
+revid: 188176
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Relics, Relic Weapon]
@@ -61,3 +61,4 @@ The critical has a cooldown of **19 seconds**.
 -   If the Sanguine Transfuser is brought back to [Seroth](Seroth.md) on the same character that made it and is equipped, he will unlock a unique set of dialogue.
 -   This weapon reuses the animations of the [Spectral Grasp](Spectral_Grasp.md).
 -   This weapon has 29.5 damage at 100 Light Weapons and 100 Bloodrend.
+-   The critical will autogrip you if low enough health.

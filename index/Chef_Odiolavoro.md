@@ -1,9 +1,9 @@
 ---
 title: Chef Odiolavoro
-revid: 187544
+revid: 188117
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Chef Odiolavoro
@@ -12,6 +12,7 @@ categories: [Felinor NPCs, Pathfinder Exclusive, Pages with broken file links, N
 |---|---|
 | name | Odiolavoro |
 | aspect | Felinor |
+| pronouns | He/him |
 | location | Etris |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
