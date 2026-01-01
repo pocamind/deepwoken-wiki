@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 187600
+revid: 188251
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]

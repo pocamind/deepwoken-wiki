@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 187800
+revid: 188270
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, Locations in the First Layer]
@@ -64,7 +64,7 @@ Some Afflictions can be applied multiple times, harshening the effects.
   <td><b>Name</b></td>
   <td><b>Description</b></td>
   <td><b>Effect</b></td>
-  <td><b>Max stacks</b></td>
+  <td><b>Max Stacks*</b></td>
 </tr>
 <tr>
   <td><b>Etherphobia</b><br>
@@ -154,9 +154,9 @@ Some Afflictions can be applied multiple times, harshening the effects.
 </table>
 
 -   \*Note: "Max Stacks" is highest recorded count. Take this with a grain of salt.
--   Obtaining 45 drowns will give your trial a chance to be corrupted.
 
 ## Trivia
 
 -   At 0% Sanity, the countdown before an Affliction is gained is as little as 3 seconds.
 -   Past 15, the counter for Afflictions changes from Roman Numerals to Arabic Numerals.
+-   Obtaining 45 drowns will give your trial a chance to be corrupted.

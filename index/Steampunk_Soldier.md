@@ -1,11 +1,11 @@
 ---
 title: Steampunk Soldier
-revid: 188247
+revid: 188271
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
 notices:
-  - "This page is currently being worked on. Missing Power 10, 15, and 20 Shops + all boss rewards"
+  - This page is currently being worked on. Missing Power 20 Shop
 ---
 
 # Steampunk Soldier
@@ -13,7 +13,7 @@ notices:
 | Steampunk Soldier | |
 |---|---|
 | description | Combining frost and flame, they developed a unique steam-powered rifle. |
-| unlock | Defeat Shogun Captain, Dravik, The Rat King, or True Heart of Enmity with a Pistol, Rifle, or Greatcannon weapon (Rifle Spear counts) |
+| unlock | Defeat Shogun Captain, Dravik, The Rat King, or True Heart of Enmity with a Pistol, Rifle, or Greatcannon weapon, (Rifle Spear counts) |
 | starting health | 175 |
 | final attributes | 60 Flamecharm, 60 Frostdraw, 80 Medium Weapon, 25 Strength, 25 Fortitude, 40 Agility, 25 Intelligence, 25 Willpower, 25 Intelligence |
 | final traits | 5 Songchant, 3 Proficiency, 3 Vitality, 2 Dexterity |
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Steampunk Soldier** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon; a Pistol, Rifle, or Greatcannon. [Rifle Spear](Rifle_Spear.md) counts as a Rifle and a spear, meaning many Mementos can equip it.
+**Steampunk Soldier** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by defeating any of the three main progression bosses with a gun-type weapon; a Pistol, Rifle, or Greatcannon. The [Rifle Spear](Rifle_Spear.md) counts as a Rifle and a spear, meaning many Mementos can equip it and it counts for the obtainment requirement of this Memento.
 
 ## Starting Abilities
 
@@ -473,8 +473,108 @@ Ice
     -   Only procs off mantras.
 -   Leg Shot \[Rare Talent\] **250** \- Rifles Landing your critical slows your enemy for a bit, and also disables any speed boosts they get for the next 10 seconds.
 
+### Power 15
+
+-   Emperor Flame \[Common Talent\] **100** \- Absorb fire produced by you, once you reach 5 stacks your next attack will be an automatic Explosive Finish flourish. This flourish will deal additional damage and proc Wither, reducing your opponent's maximum health temporarily.
+    -   Landing a basic attack while you have the Emperor Flame status effect will proc the flourish, dealing 15 Flamecharm damage, 25 Wither damage, and applying burn to the victim and anyone else nearby. This cannot proc on knocked enemies and does not proc Dazing Finisher.
+    -   The Emperor Flame status effect lasts 10 seconds or until you land a basic attack. Emperor Flame has a 30 second cooldown.
+    -   Hitting enemies with attacks that apply burn will grant Emperor Flame stacks. This will proc regardless of if the target is currently burning or not. There is a 2 second cooldown for stack gain.
+    -   Emperor Flame extinguishes burn applied to yourself through Agitating Spark. If Emperor Flame is on cooldown, your self applied burn will not be extinguished.
+-   Tactical Reload \[Rare Talent\] **250** \- Rifles Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
+    -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullets.md) for 15 seconds, with a downtime of 75 seconds.
+    -   You do not need to have physical bullets in your inventory for this to work.
+    -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), giving it a downtime of only 30 seconds.
+    -   This talent has no effect on [Rifle Spear](Rifle_Spear.md).
+-   The Final Act \[Rare Talent\] **250** \- Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
+    -   Does not have a cooldown.
+    -   Deals 5 Flamecharm damage.
+    -   Will not proc on knocked NPCs/players and mobs.
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Flame Wisp** (★★☆)
+
+_A servant of flames._
+
+ | 
+
+## Flame Wisp (★★☆)
+
+  
+_A servant of flames._
+
+ |
+| 
+
+70 Ether
+
+ | 
+
+N/A
+
+ | 
+
+950
+
+ |
+| 
+
+**Effect:** The caster summons a wisp of magma. Ritual Casted.
+
+-   Flame Wisp reduces the burn damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
+-   Ignites nearby campfire pits if not currently healing you.
+-   Flame Wisp also seems to reduce [parasite](Second_Layer/The_Ethironal_Shrine.md#parasites) growth.
+-   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
+-   Does not work with Eruption Path: Lava Serpent (BUGGED and has been for a while.)
+-   Converts about 25-30 burning damage total. [Logstones](Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
+    -   Logstones will increase the amount of keys in the Ritual Cast.
+
+ |
+
 ## Boss Unlocks
 
 ### Shogun of the Prophet's Guard
 
 steam grenade
+
+### Dravik, The Rat King
+
+-   Mist Mobility \[Memento Talent\] - Anytime you proc Boiling Point, increase the speed at which you reload your Vapormaw Carbine and increase your Critical Attack's fire rate.
+
+### True Heart of Enmity
+
+-   Explosive Ignition \[Memento Talent\] - Your Produce Sparks now can ignite steam, causing a large explosion.
+
+## Trivia
+
+-   Despite the fact Rifle Spear can be used to unlock Steampunk Soldier, the Memento cannot equip the weapon itself.

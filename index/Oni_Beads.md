@@ -1,6 +1,6 @@
 ---
 title: Oni Beads
-revid: 188243
+revid: 188269
 source: https://deepwoken.fandom.com/wiki/Oni_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -32,4 +32,4 @@ The OniBeads are a bloodshed version of the [Monastery Beads](Monastery_Beads.md
 
 ## Trivia
 
--   It's likely this item was released prematurely, due to its name is formatted like a placeholder or internal name; sharing the exact same drop sources as [Monastery Beads](Monastery_Beads.md); and having no stats, talents, or description.
+-   It's likely this item was released prematurely, due to its name being formatted like a placeholder or internal name; sharing the exact same drop sources as [Monastery Beads](Monastery_Beads.md); and having no stats, talents, or description.

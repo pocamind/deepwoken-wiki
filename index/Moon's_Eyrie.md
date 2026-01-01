@@ -1,6 +1,6 @@
 ---
 title: "Moon's Eyrie"
-revid: 186364
+revid: 188250
 source: https://deepwoken.fandom.com/wiki/Moon's_Eyrie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant, Voidzones]
@@ -95,6 +95,7 @@ Exhaustive Loot Table
 -   Previously, despite being located inside the [Voidsea](Voidsea.md), the area was not considered as a [Voidzone](Voidzones.md). However, the Voidsea was changed in the December 14th, 2024 patch, causing the area to be considered a Voidzone.
 -   Since the island is located within the bounds of the Voidsea, there is a chance that you'll be teleported away from it while trying to reach it.
 -   A good place to farm for the [Astral](Astral.md) [Enchant Stone](Enchant_Stone.md) as [Moon Knights](Moon_Knight.md) have a chance to drop it.
--   For regular players, it is located at x: -4713, z: -13751.
+-   For [Pathfinders](Pathfinder.md), it is located at x: -4713, z: -13751.
+-   For [Vow of Iron](Vow_of_Iron.md), it is located at x: -9575, z: -13610
 -   [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) gives some insight on where to find this island, as well as some lore about it.
 -   After killing the Moon Knight, the door closes in 4 minutes and the stone pillars glows again.
