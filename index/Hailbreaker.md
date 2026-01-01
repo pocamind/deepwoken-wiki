@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 183014
+revid: 188416
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -21,7 +21,6 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
-| chip damage | N/A |
 | special effect | Critical changes the stage of the weapon, changing its model and critical. There are three stages in total. |
 | m.equip | No |
 | m.extract | No |

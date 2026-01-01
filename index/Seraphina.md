@@ -1,9 +1,9 @@
 ---
 title: Seraphina
-revid: 187571
+revid: 188427
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -22,9 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Seraphina is a [Capra](Capra.md) NPC, she is a vendor who sells starter equipment aimed towards new and early game players. She functions identically to [Bari](Bari.md).
+Seraphina is a [Capra](Capra.md) NPC. They are a vendor who sells starter equipment aimed towards new and early game players. They function identically to [Bari](Bari.md).
 
-She will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned. Before the Etris Siege, she will have unique dialogue. "the Authority's offensives have completely stopped today, do you think they are planning something?"
+They will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned. Before the Etris Siege, they will have unique dialogue. "the Authority's offensives have completely stopped today, do you think they are planning something?"
 
 She is wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
 

@@ -1,9 +1,9 @@
 ---
 title: Warden Jericho
-revid: 188356
+revid: 188436
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Wardens of The Central Authority, NPCs located in the Eastern Luminant, Circle of Honour members]
+categories: [Adret NPCs, Individuals with He/him pronouns, Wardens of The Central Authority, NPCs located in the Eastern Luminant, Circle of Honour members]
 ---
 
 # Warden Jericho
@@ -12,6 +12,7 @@ categories: [Adret NPCs, Wardens of The Central Authority, NPCs located in the E
 |---|---|
 | name | Jericho |
 | aspect | Adret |
+| pronouns | He/him |
 | location | Fort Merit |
 | affiliation | The Central Authority, Circle of Honour[1] |
 | family | Aladrian (father), Octavius (father) |

@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 184430
+revid: 188413
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons]
@@ -19,7 +19,8 @@ categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Cri
 | range | 8 Sweep |
 | swing speed | 1.01x |
 | attack duration | 0.6s |
-| penetration | 20% |
+| penetration | 15% |
+| chip damage | 5% |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |

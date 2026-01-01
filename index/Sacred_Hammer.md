@@ -1,6 +1,6 @@
 ---
 title: Sacred Hammer
-revid: 186630
+revid: 188409
 source: https://deepwoken.fandom.com/wiki/Sacred_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -19,8 +19,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | range | 7 Sweep |
 | swing speed | 0.97x |
 | attack duration | 0.6s |
-| penetration | 10% |
-| chip damage | 5% |
+| penetration | 15% |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Mace |

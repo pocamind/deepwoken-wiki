@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 186643
+revid: 188407
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -19,6 +19,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | range | 8 Sweep |
 | swing speed | 1x |
 | attack duration | 0.6s |
+| penetration | 10% |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |

@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 185434
+revid: 188408
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Hero Blades]
@@ -19,6 +19,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 | range | 8 Sweep |
 | swing speed | 1x |
 | attack duration | 0.6s |
+| penetration | 10% |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |

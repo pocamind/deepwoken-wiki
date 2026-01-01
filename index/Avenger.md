@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 186043
+revid: 188422
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
@@ -20,7 +20,6 @@ categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
 | swing speed | 0.83x |
 | attack duration | 0.9s |
 | endlag | 0.1s |
-| penetration | 0% |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Soulwrought Greatsword |
@@ -48,8 +47,8 @@ Avenger uses the default Greatsword critical, an overhead swing. It has a scaled
 
 -   At max HVY, the damage is (31.2)
 -   The [Battleaxe](Battleaxe.md) is superior in terms of DPS due to it having no endlag.
--   The Avenger has the lowest penetration in the game, clocking in at 0%. This may be due to a mistype; someone must have forgotten to put 1 before the 0. It's also the only weapon in the game which is 0% pen, while weapons with no pen doesn't have it on the info.
-    -   When hovering over the tooltip to compare the Avenger to other weapons, it showcases the 0% PEN as an upgrade from any weapon that doesn't have a PEN stat.
+-   Unlike all other weapons that have no PEN, the Avenger used to display its PEN stat as "0%" instead of not displaying it at all.
+    -   This had strange side effects, like when hovering over the tooltip to compare the Avenger to other weapons, it would showcase the 0% PEN as an upgrade to weapons without a PEN stat.
 
 ## Gallery
 

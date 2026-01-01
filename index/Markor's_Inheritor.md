@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 186297
+revid: 188417
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -22,7 +22,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords
 | swing speed | 0.85x |
 | attack duration | 0.9s |
 | endlag | 0.1s / N/A |
-| penetration | 15% |
+| penetration | 10% / 15% |
 | special effect | Inherits the critical of your last used Fist Style. |
 | m.equip | No |
 | m.extract | No |

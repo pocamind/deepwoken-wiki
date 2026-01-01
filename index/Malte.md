@@ -1,9 +1,9 @@
 ---
 title: Malte
-revid: 187561
+revid: 188429
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Malte
@@ -12,6 +12,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean
 |---|---|
 | name | Malte |
 | aspect | Etrean |
+| pronouns | They/them |
 | location | Isle of Vigils |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -24,9 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Malte is an [Etrean](Etrean.md) NPC who resides in the library located in the [Temple of the Blade](Temple_of_the_Blade.md), apparently she has no connection with the Deepwoken factions, being just a scholar.
+Malte is an [Etrean](Etrean.md) NPC who resides in the library located in the [Temple of the Blade](Temple_of_the_Blade.md).
 
-You can find her muttering about her research, if you talk to her she will tell you a little about the [Sky Statues](Sky_Statue.md), which later turns out to be a path to the [Bladeharper](Oath%253A_Bladeharper.md) Oath.
+They can be found muttering about their research. Malte is researching the [Sky Statues](Sky_Statue.md), which later turn out to be a path to the [Bladeharper](Oath%253A_Bladeharper.md) Oath.
 
 ## Dialogue
 

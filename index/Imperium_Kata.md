@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 182784
+revid: 188402
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals"
 |---|---|
 | type | Light Weapon |
 | damage type | Blunt |
-| requirements | 0 LHT |
+| requirements | N/A |
 | damage | 12 |
 | scaling | LHT: 7 |
 | posture damage | 3 |

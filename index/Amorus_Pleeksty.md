@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 188369
+revid: 188435
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Black Divers]
@@ -12,8 +12,8 @@ categories: [Individuals with He/him pronouns, Black Divers]
 |---|---|
 | name | Amorus Pleeksty |
 | aspect | Tiran |
-| pronouns | He/him |
-| affiliation | The Divers[1] |
+| pronouns | He/him[1] |
+| affiliation | The Divers[2] |
 
 “ The Eternal Flame and the Failure of Man. Amorus Pleeksty. I enjoy his work. ”
 
@@ -36,4 +36,5 @@ He is one of two known people to go to the Third Layer. He is worshipped by the 
 
 ## References
 
-1.  [↑](#cite-ref-1) [Flame Worshipper Armor](Flame_Worshipper_Armor.md)
+1.  [↑](#cite-ref-1) [Ploom](Ploom.md)
+2.  [↑](#cite-ref-2) [Flame Worshipper Armor](Flame_Worshipper_Armor.md)

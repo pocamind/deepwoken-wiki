@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 181319
+revid: 188400
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -11,12 +11,14 @@ categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-base
 | Wraithclaw | |
 |---|---|
 | type | Fist |
+| damage type | Slash |
 | requirements | 40 LHT, 75 WND |
 | damage | 16 |
 | scaling | LHT: 4, WND: 5.5 |
 | posture damage | 5 |
-| range | 6.5 |
+| range | 6.5 Sweep |
 | swing speed | 1.1x |
+| attack duration | 0.5s |
 | penetration | 10% |
 | chip damage | 25% |
 | special effect | Aftercut is applied to all attacks. |
