@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 188241
+revid: 188309
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -13,7 +13,7 @@ categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
 | health | 6000 |
 | drops | 3 Knowledge, 2,500 Notes, Pluripotent Alloy, Ardour Manifestation, Memento Talents |
 | weapon | Soulwrought Axe |
-| moves | Golden Swinging, Rule of Rushing, Spin Scarse, Gilded Lefts, Rites of the Rats, Parsmarkinti |
+| moves | Axe Swings, Critical, Feint, Golden Tornado, Gilded Rushdown, Aureate Flourish, Gilded Left, Glowing Slashes, Ruler's Rush, Three Swing Cleave, Pasmarkintini, Sparkle Blitz, Rodent Pounce, Rites of the Rat, King's Might: Glistening Crush |
 | affiliation | The Golden Rats |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -45,11 +45,19 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 | 
 **Axe Swings**
 
- | Dravik uses his axe to slash his opponent.
+ | Dravik uses his battleaxe to slash his opponent.
 
  | 
 
  |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Dravik raises his battleaxe before firmly slamming it down into the ground.
+
+ |  |
 | 
 
 **Feint**
@@ -75,8 +83,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **Gilded Rushdown**
 
 (★★★)
-
-  
 
  | Dravik lets out a sound cue and slowly swings his axe twice, starting from the player's left side upwards, then downwards, after which he _\[has a large chance to\]_ rushes the player twice before teleporting behind them with an attack and swinging again.
 
@@ -122,7 +128,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
  | Dravik winds back his axe then slashes upwards from the player's left side, then downwards. After a brief moment, he performs two quick slashes of light, then one delayed final swing.
 
--   This move can be feinted into **Rule of Rushing** after any of the slashes.
+-   This move can be feinted into **Ruler's Rush** after any of the slashes.
 -   The windup is similar to the first swing of **Golden Tornado**, but faster
 
  | 
@@ -130,7 +136,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  |
 | 
 
-**Rule of Rushing**
+**Ruler's Rush**
 
 (★☆☆)
 

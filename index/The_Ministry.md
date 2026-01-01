@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 183697
+revid: 188305
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Factions, The Ministry]
@@ -25,11 +25,11 @@ The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who s
 
 The exact time of their founding is unclear, but by 1272,[\[1\]](#cite-note-1) the original incarnation of the Ministry who had fought to conquer [Minityrsa](Minityrsa.md) were considered ancient.[\[2\]](#cite-note-2)
 
-They are responsible for the drowning of [Celtor](Lost_Celtor.md). The city was drowned as an offering to Yun’Shul, though they did not care for the surprise gift and did not give the Ministry any reward for it.
+They are responsible for the drowning of [Celtor](The_City_of_the_Drowned.md). The city was drowned as an offering to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), though they did not care for the surprise gift and did not give the Ministry any reward for it.[\[3\]](#cite-note-3)
 
 They enjoy recruiting people to kill others, sometimes to kill specific individuals, sometimes just to kill random people.
 
-They are refered to as originating from the [Western Luminant](Luminants.md#western-luminant).[\[3\]](#cite-note-3)
+They are refered to as originating from the [Western Luminant](Luminants.md#western-luminant).[\[4\]](#cite-note-4)
 
 ## Reputation
 
@@ -70,4 +70,5 @@ Reputation with The Ministry is gained much more rapidly than that of most other
 
 1.  [↑](#cite-ref-1) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.
 2.  [↑](#cite-ref-2) [Gran Sudaruska](Gran_Sudaruska.md) description
-3.  [↑](#cite-ref-3) [Cestis](Cestis.md)
+3.  [↑](#cite-ref-3) [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)
+4.  [↑](#cite-ref-4) [Cestis](Cestis.md)

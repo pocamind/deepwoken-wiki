@@ -1,6 +1,6 @@
 ---
 title: Ancient Dagger Remains
-revid: 188268
+revid: 188308
 source: https://deepwoken.fandom.com/wiki/Ancient_Dagger_Remains
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Quest Item, Ingredients]
@@ -27,14 +27,8 @@ categories: [Items, Quest Item, Ingredients]
 
 ### Crafting
 
-**[Sanguine Transfuser](Sanguine_Transfuser.md)** - 1 [Hemobloom](Hemobloom.md), 1 Ancient Dagger Remains, 1 [Dormant Splinter](Dormant_Splinter.md) at [The Cold Forge](The_Cold_Forge.md)
+**[Sanguine Transfuser](Sanguine_Transfuser.md)** - 1 [Hemobloom](Hemobloom.md) + 1 Ancient Dagger Remains + 1 [Dormant Splinter](Dormant_Splinter.md) at [The Cold Forge](The_Cold_Forge.md).
 
-  
+## Location
 
-  
-
-  
-
-  
-
-Seroth's cave location
+To find Seroth and obtain the Ancient Dagger Remains, he can be found in a cave near the docks of the [Isle of Vigils](Isle_of_Vigils.md).

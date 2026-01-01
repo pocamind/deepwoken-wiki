@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 188270
+revid: 188302
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, Locations in the First Layer]
@@ -54,9 +54,11 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
 
 ## Afflictions
 
-Scaling off of your [Insanity](Insanity.md), a countdown will begin on the centre left of your screen. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random Affliction from a set list. Multiple Afflictions can trigger at once if your Sanity is low enough. Your character will shiver and scratch more often scaling with the amount of Afflictions you have. After reaching 100 Afflictions your character's head will explode, killing you instantly.
+Afflictions are **permanent** character debuffs that are procured by spending time in the Depths. These debuffs are often very impactful, and can even be grounds for wiping your character in some cases. Your current Afflictions can be seen on the top right of your Journal.
 
-Some Afflictions can be applied multiple times, harshening the effects.
+Scaling off of your [Insanity](Insanity.md), a countdown will begin on the center left of your screen when you spend time in the Depths. When this timer, starting from an invisible 9, reaches zero, you will be afflicted from a random Affliction. Multiple Afflictions can trigger at once if your Sanity is low enough. Your character will shiver and scratch more often scaling with the amount of Afflictions you have. After reaching 100 Afflictions your character's head will explode, killing you instantly.
+
+The Afflictions countdown does not reset when you escape the Depths. Some Afflictions can be applied multiple times, harshening the effects.
 
 <table>
 <tbody>
@@ -67,32 +69,25 @@ Some Afflictions can be applied multiple times, harshening the effects.
   <td><b>Max Stacks*</b></td>
 </tr>
 <tr>
-  <td><b>Etherphobia</b><br>
+  <td><b>Amaurosis</b><br>
   </td>
-  <td>You have an irrational fear of Ether.</td>
-  <td>Mantras require more 10% Ether to cast, per stack.</td>
-  <td>100</td>
+  <td>The world slips into darkness when you sustain damage.</td>
+  <td>Any time you take damage, you will be blinded. This blind is the same as <a href="Flamecharm.md#flame-blind">Flame Blind</a>'s effect, making your screen entirely white briefly. If you have the photosensitive mode <a href="Settings.md">Setting</a> toggled on, your screen will turn black instead.</td>
+  <td>1</td>
 </tr>
 <tr>
   <td><b>Atrophic</b><br>
   </td>
   <td>The words of the song bite at you, harshening the effects of Mantras against you.</td>
-  <td>Applies a 15% damage buff per stack to incoming Mantras. Due to it being affected by the damage modifier cap, this damage buff caps at +50% with 5 stacks or +75% with 7 stacks if your opponent isn't in PvP combat.</td>
+  <td>Applies a 15% damage buff per stack to incoming elemental damage. Due to it being affected by the damage modifier cap, this damage buff caps at +50% with 5 stacks or +75% with 7 stacks if your opponent isn't in PvP combat.</td>
   <td>100</td>
 </tr>
 <tr>
-  <td><b>Amaurosis</b><br>
+  <td><b>Cibophobia</b><br>
   </td>
-  <td>The world slips into darkness when you sustain damage.</td>
-  <td>Your screen darkens whenever damage is dealt to you.</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td><b>Vertigo</b><br>
-  </td>
-  <td>The world swirls. You can barely keep your balance.</td>
-  <td>Randomly trip when running for extended periods of time.</td>
-  <td>2</td>
+  <td>All food appears rotten and foul to you.</td>
+  <td>You are unable to consume food.</td>
+  <td>100</td>
 </tr>
 <tr>
   <td><b>Dysacusis</b><br>
@@ -102,39 +97,39 @@ Some Afflictions can be applied multiple times, harshening the effects.
   <td>1</td>
 </tr>
 <tr>
-  <td><b>Cibophobia</b><br>
+  <td><b>Etherphobia</b><br>
   </td>
-  <td>All food appears rotten and foul to you.</td>
-  <td>You're unable to consume food.</td>
+  <td>You have an irrational fear of Ether.</td>
+  <td>Mantras require more 10% Ether to cast, per stack.</td>
   <td>100</td>
+</tr>
+<tr>
+  <td><b>Heavy</b><br>
+  </td>
+  <td>Your feet sink into the ground. Your legs scream as you try to pull them free.</td>
+  <td>Jumping height heavily mitigated. You can still perform jump-related inputs such as aerial attacking or air dashing with good timing.</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td><b>Manic</b><br>
+  </td>
+  <td>All insanity gained from attacks is heavily amplified.</td>
+  <td>Take more Sanity damage from all attacks. This is identical to the <a href="Boons_and_Flaws.md#manic">Manic</a> Flaw, though it can be stacked.</td>
+  <td>2</td>
 </tr>
 <tr>
   <td><b>Megalophobia</b><br>
   </td>
   <td>You have an irrational fear of large objects.</td>
-  <td>You gain more insanity while near large enemies/objects (i.e. Depths coral trees, or large monsters like <a href="Megalodaunt.md">Megalodaunts</a>).</td>
+  <td>You deal reduced damage to large enemies (e.g. <a href="Megalodaunt.md">Megalodaunts</a>).</td>
   <td>3</td>
 </tr>
 <tr>
   <td><b>Restless</b><br>
   </td>
   <td>On and on and on. Ever-churning. Ceaseless thoughts keep you from resting.</td>
-  <td>You're unable to rest at campfires. This includes the <a href="Solborn.md">Solborn</a> Phoenix.</td>
+  <td>Halves the healing from <a href="Campfire_Pit.md">Campfires</a>. This includes <a href="Solborn.md">Solborn</a>'s Phoenix.</td>
   <td>1</td>
-</tr>
-<tr>
-  <td><b>Heavy</b><br>
-  </td>
-  <td>Your feet sink into the ground. Your legs scream as you try to pull them free.</td>
-  <td>Jumping height heavily mitigated. You can jump just high enough to initiate jumping related actions.</td>
-  <td>1</td>
-</tr>
-<tr>
-  <td><b>Weakening</b><br>
-  </td>
-  <td>You can't stop the shivering. Your arms now falter under heavy blows.</td>
-  <td>Your weapon criticals become slower. At max stacks, you cannot use your weapon critical.</td>
-  <td>3</td>
 </tr>
 <tr>
   <td><b>Tarnished</b><br>
@@ -144,11 +139,18 @@ Some Afflictions can be applied multiple times, harshening the effects.
   <td>1</td>
 </tr>
 <tr>
-  <td><b>Manic</b><br>
+  <td><b>Vertigo</b><br>
   </td>
-  <td>All insanity gained from attacks is heavily amplified.</td>
-  <td>Presumably same as the <a href="Boons_and_Flaws.md#manic">Manic</a> Flaw, though this effect stacks.</td>
+  <td>The world swirls. You can barely keep your balance.</td>
+  <td>Your character will be ragdolled upon taking any instance of damage.</td>
   <td>2</td>
+</tr>
+<tr>
+  <td><b>Weakening</b><br>
+  </td>
+  <td>You can't stop the shivering. Your arms now falter under heavy blows.</td>
+  <td>Increases all incoming posture damage.</td>
+  <td>3</td>
 </tr>
 </tbody>
 </table>

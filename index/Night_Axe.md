@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 186460
+revid: 188319
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -36,7 +36,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 
 ## Description
 
-The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can be obtained from [Ministry Necromancer](Ministry_Necromancer.md). Its defining trait is having a whopping **80% CHIP DAMAGE**, making blocking almost completely useless against it.
+The Night Axe is a [Heavy Weapon](Weapons.md) in the Greataxe category. It can be obtained from [Ministry Necromancer](Ministry_Necromancer.md). Its defining trait is having 80% chip damage, making blocking almost completely useless against it.
 
 ## Critical
 
@@ -54,4 +54,3 @@ The critical has a cooldown of **3 seconds**.
     -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%.
 -   The Night Axe was given a unique critical on the January 25, 2025 update.
 -   The description mentions a weapon called the Daycleave, as of now its not in the game.
--   For whatever reason, the weapon is not droppable or bankable.

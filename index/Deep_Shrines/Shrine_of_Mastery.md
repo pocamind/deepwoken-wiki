@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 188236
+revid: 188279
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -44,7 +44,7 @@ Shrine of Mastery has two different effects.
 -   You cannot re-arrange stats if you have a Talent that requires a higher investment or equal investment of said stat.
     -   For example: If you went 40 Strength to pick Showstopper and then either used the Shrine of Order to reduce your Strength or kept your Strength at 40, you wouldn't be able to remove points off Strength as long as you have Showstopper.
     -   This applies to the Attunement mastery Talents as well, such as Adept Flamecharmer; Shrine of Mastery will not allow you to go below the 1/20/30/50 Attunement investment milestones.
-    -   Talents that require attribute category investment instead of a specific attribute such as [Mind](../Attributes.md#body-and-mind), [Body](../Attributes.md#body-and-mind), or Weapon as well as the [Attributes Unbound](../Attributes_Unbound.md) Talents are ignored by Shrine of Mastery, allowing you to reinvest freely.
+    -   Talents that require attribute category investment instead of a specific attribute such as [Mind](../Attributes.md#body-and-mind), [Body](../Attributes.md#body-and-mind), Element, or Weapon as well as the [Attributes Unbound](../Attributes_Unbound.md) Talents are ignored by Shrine of Mastery, allowing you to reinvest freely.
 -   Despite popular belief, you can still change your attributes with this after Shrine of Order.
     -   This idea stemmed from the previously mentioned Talent investment exception.
 -   Unlike with Talents, you can re-arrange stats used to acquire almost all [Oaths](../Oaths.md), allowing you to go below your Oath stat requirements while keeping your Oath.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 188223
+revid: 188316
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4574,10 +4574,12 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 ### Chaotic Moon
 
--   Blessing of the Moonseye \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] - A sudden truth enters your mind. The stars above are aware of our existence. Their inexhaustible hatred for your very being emanates through you.
+-   Blessing of the Moonseye \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] - The Moonseye is not one eye, but many. All of them watch you. All of them know of your sins.
     
-    -   Gives a Talent tool that instantly brings you to tier 3 [Insanity](Insanity.md) on use. This insanity is permanent.
+    -   Upon obtaining this Talent, you will lose **all** of your [Sanity](Insanity.md) **permanently**.
     -   Defeating the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md), and [True Heart of Enmity](True_Heart_of_Enmity.md) while having this Talent will unlock the [Prince of the Moon](Prince_of_the_Moon.md) Memento.
+        -   Equipment such as the [Deranged Treasure](Deranged_Treasure.md), [Oni Mask](Oni_Mask.md), and [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) (unexhaustive) can greatly assist you in this task, as they provide Talents and effects that greatly enhance your character at low Sanity, or allow you to perform actions at the cost of a percentage of your Sanity (free at 0 Sanity).
+        -   Additionally, if you time your shivers, using [Levit](Levit.md)'s Retrograde may allow you to shrug off any unavoidable damage you would normally take by shivering and scratching yourself.
     -   Obtained by interacting with the Moonseye sigil at the [Moon's Eyrie](<Moon's_Eyrie.md>).
 
 ### Drifter
@@ -4712,7 +4714,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 ### Immolator
 
--   **Ascended Phoenix Flames** \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
+-   Ascended Phoenix Flames \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Once per fight, when an attack would down you immediately revive with 30% HP.
     
     -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento, defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) OR [Solborn](Solborn.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
