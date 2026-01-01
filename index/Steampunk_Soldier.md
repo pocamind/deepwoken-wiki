@@ -1,11 +1,11 @@
 ---
 title: Steampunk Soldier
-revid: 188271
+revid: 188359
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
 notices:
-  - This page is currently being worked on. Missing Power 20 Shop
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Steampunk Soldier
@@ -560,6 +560,10 @@ N/A
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |
+
+### Power 20
+
+-   Does not have anything purchasable at power 20.
 
 ## Boss Unlocks
 

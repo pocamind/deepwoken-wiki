@@ -1,9 +1,9 @@
 ---
 title: Ulysses Disii
-revid: 183192
+revid: 188368
 source: https://deepwoken.fandom.com/wiki/Ulysses_Disii
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Black Divers, The Divers, Characters mentioned in books]
+categories: [Black Divers, The Divers, Characters mentioned in books, Individuals with unspecified pronouns]
 ---
 
 # Ulysses Disii
@@ -12,7 +12,6 @@ categories: [Black Divers, The Divers, Characters mentioned in books]
 |---|---|
 | name | Ulysses Disii[1] |
 | alias | Ranger Commander[1], Commander[1] |
-| aspect | Vesperian[2] |
 | affiliation | The Divers[1], Black Divers division[1] |
 
 “ How resolute of you. Should we clap? Should the High Convocation throw you a party? Should we invite Drallis Ehr? ”
@@ -39,4 +38,3 @@ Ulysses' ideas would later manifest when [Castle Light](Castle_Light.md) was ere
 ## References
 
 1.  ↑ [1.00](#cite-ref-interrogation-1-0) [1.01](#cite-ref-interrogation-1-1) [1.02](#cite-ref-interrogation-1-2) [1.03](#cite-ref-interrogation-1-3) [1.04](#cite-ref-interrogation-1-4) [1.05](#cite-ref-interrogation-1-5) [1.06](#cite-ref-interrogation-1-6) [1.07](#cite-ref-interrogation-1-7) [1.08](#cite-ref-interrogation-1-8) [1.09](#cite-ref-interrogation-1-9) [1.10](#cite-ref-interrogation-1-10) [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
-2.  [↑](#cite-ref-surname-2-0) [Vesperian surname](Vesperian.md)

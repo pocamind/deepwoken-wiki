@@ -1,9 +1,9 @@
 ---
 title: Amorus Pleeksty
-revid: 187157
+revid: 188369
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Black Divers]
+categories: [Individuals with He/him pronouns, Black Divers]
 ---
 
 # Amorus Pleeksty
@@ -12,6 +12,7 @@ categories: [Black Divers]
 |---|---|
 | name | Amorus Pleeksty |
 | aspect | Tiran |
+| pronouns | He/him |
 | affiliation | The Divers[1] |
 
 “ The Eternal Flame and the Failure of Man. Amorus Pleeksty. I enjoy his work. ”

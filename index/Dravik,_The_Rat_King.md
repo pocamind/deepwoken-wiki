@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 188309
+revid: 188333
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 
 Dravik, the Rat King is an instanced [boss](Bosses.md) fought in the [Vault of the Aureate](Vault_of_the_Aureate.md) which is a boundary located in the [The Golden Rat](The_Golden_Rat.md), near eastern most Waterlock in the [Etrean Luminant](Luminants.md). He is the first King of the Golden Rats and the one enforcing the Golden Rule. This boss is not optional, as he is mandatory to fight the [True Heart of Enmity](True_Heart_of_Enmity.md). The fight unlocks the [Flashing Thunder](Flashing_Thunder.md) [Memento](Mementos.md) upon defeat while using the [Sightless](Sightless.md) [Memento](Mementos.md). When Dravik is killed, he appears as a memory inside the [The Cerebral Spire](The_Cerebral_Spire.md). Upon talking to him, he will tell you to destroy the statue inside [Etris Palace](Etris_Palace.md) to break the barrier protecting [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>). To destroy the statue you need to defeat the True Heart of Enmity in the [Depths Trial](Cathedral_of_the_Interstice.md#the-trial).
 
-He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick white beard. A jagged scar cuts through his left eye. Light serpentine scales can be seen on his cheekbones and eyelids. He wears heavy, dark plated armor with sharp shoulder guards and fine metal designs. A worn, dark cloak or scarf hangs from his shoulders. He uses a custom version of the [Soulwrought Greataxe](Crazy_Slots.md) as his arsenal with a glowing golden crescent blade, suggesting it has been magically enhanced. The handle is dark iron and made for a strong grip.
+He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick white beard. A jagged scar cuts through his left eye. Light serpentine scales can be seen on his cheekbones and eyelids. He wears heavy, dark plated armor with sharp shoulder guards and fine metal designs, resembling what could be a darker version of the [Imperial Pauldrons](Imperial_Pauldrons.md) and [Imperial Boots](Imperial_Boots.md). A worn, dark cloak or scarf hangs from his shoulders, similar in appearance to a [Brilliant Cape](Brilliant_Cape.md) dyed black. He uses a custom version of the [Soulwrought Greataxe](Crazy_Slots.md) as his arsenal with a glowing golden crescent blade, suggesting it has been magically enhanced. The handle is dark iron and made for a strong grip.
 
 ### Starting the Fight with Dravik
 
@@ -39,6 +39,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 5.  Upon loading in and going through his intro, the fight begins.
 
 ## Moveset
+
+**Moves marked with dark orange symbols only have some parts of the move Dodge/Blockable (usually due to high posture damage)**
 
 | Name | Description | Media |
 | --- | --- | --- |
@@ -71,6 +73,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★★☆)
 
+  
+
  | Dravik winds his axe behind him and swings it upwards, letting out a moderate scream before performing four quick spinning slashes.
 
 -   There is a noticeable delay between the first swing and the follow-up spins.
@@ -98,6 +102,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★☆☆)
 
+  
+
  | Dravik attacks with two spinning slashes, starting from the player's left side, after which he winds up a big overhead slam.
 
 -   The slam can be feinted into Gilded Lefts.
@@ -111,6 +117,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **Gilded Lefts**
 
 (★☆☆)
+
+  
 
  | Dravik winds up his left arm and throws out three strong lefts.
 
@@ -126,6 +134,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★★☆)
 
+  
+
  | Dravik winds back his axe then slashes upwards from the player's left side, then downwards. After a brief moment, he performs two quick slashes of light, then one delayed final swing.
 
 -   This move can be feinted into **Ruler's Rush** after any of the slashes.
@@ -139,6 +149,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **Ruler's Rush**
 
 (★☆☆)
+
+  
 
  | Dravik stomps the ground then rushes towards the player with gold effects.
 
@@ -154,6 +166,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★☆☆)
 
+  
+
  | Dravik performs three swings at a consistent interval: first from the player's right side, then left side and finishing with an overhead swing.
 
 -   This move is always followed by **Pasmarkinti**.
@@ -166,6 +180,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **Pasmarkinti**
 
 (★★☆)
+
+  
 
  | Dravik teleports to you and does three consecutive slashes
 
@@ -182,6 +198,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★★☆)
 
+  
+
  | Dravik teleports behind the player and performs two quick slashes
 
 -   This move is rarely ever used, mostly when the player is at a distance and facing away from Dravik.
@@ -197,6 +215,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★☆☆)
 
+  
+
  | Dravik leaps backwards, then jumps forward and slices at the player.
 
 -   This move is heavily telegraphed.
@@ -209,6 +229,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **Rites of the Rat**
 
 (★☆☆)
+
+  
 
  | Dravik summons two golden battleaxes to circle around you and at random, they strike.
 
@@ -223,6 +245,8 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **King's Might: Glistening Crush**
 
 (★★★)
+
+  
 
  | Dravik enters a very long windup animation, after which he smashes the ground with a massive slash that covers half of the arena
 

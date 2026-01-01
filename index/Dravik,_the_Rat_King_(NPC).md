@@ -1,9 +1,9 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 187948
+revid: 188360
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
+categories: [Etrean NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -15,8 +15,9 @@ notices:
 | name | Dravik |
 | alias | The Rat King, Duke of the Battleaxe[1], The Count of Gold[1], Monarch of the Tavern[1], The Golden Rat King[1] |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | The Cerebral Spire |
-| affiliation | Etrea (formerly) |
+| affiliation | Etrea (formerly), The Golden Rats |
 | death | Killed by the Inheritor |
 | deathdate | 1233 CE |
 

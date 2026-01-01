@@ -1,9 +1,9 @@
 ---
 title: Santiago Talo
-revid: 183197
+revid: 188367
 source: https://deepwoken.fandom.com/wiki/Santiago_Talo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Divers, Characters mentioned in books]
+categories: [Stub pages without reason, StubPages, The Divers, Characters mentioned in books, Individuals with unspecified pronouns]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -14,7 +14,6 @@ notices:
 |---|---|
 | name | Santiago Talo[1] |
 | alias | Ranger[1] |
-| aspect | Felinor[2] |
 | affiliation | The Divers[1] |
 
 ## Description
@@ -28,4 +27,3 @@ On Sunsdawn, 9th Bloomfall, 904 CE he was interrogated by a [Black Diver](Black_
 ## References
 
 1.  ↑ [1.0](#cite-ref-interrogation-1-0) [1.1](#cite-ref-interrogation-1-1) [1.2](#cite-ref-interrogation-1-2) [1.3](#cite-ref-interrogation-1-3) [1.4](#cite-ref-interrogation-1-4) [1.5](#cite-ref-interrogation-1-5) [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
-2.  [↑](#cite-ref-surname-2-0) [Felinor surname.](Felinor.md)

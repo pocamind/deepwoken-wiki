@@ -1,9 +1,9 @@
 ---
 title: Nerin
-revid: 187366
+revid: 188337
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
 ---
 
 # Nerin
@@ -12,6 +12,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean
 |---|---|
 | name | Nerin |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | Etris |
 | affiliation | Etrea |
 

@@ -1,9 +1,9 @@
 ---
 title: Cestis
-revid: 174491
+revid: 188338
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Cestis
@@ -12,6 +12,7 @@ categories: [Ganymede NPCs, NPCs, The Ministry, Quests, NPCs located in the East
 |---|---|
 | name | Cestis |
 | aspect | Ganymede |
+| pronouns | He/him |
 | location | Meteor Isle |
 | affiliation | The Ministry |
 
@@ -55,7 +56,7 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
   <td colspan="12">Who are you?</td>
 </tr>
 <tr>
-  <td colspan="12">I'm Cestis. I have a few generous benefactors from the Western Luminant, perhaps you know who I'm speaking of?</td>
+  <td colspan="12">I'm Cestis. I have a few generous benefactors from the <a href="Glossary.md#the-western-luminant">Western Luminant</a>, perhaps you know who I'm speaking of?</td>
 </tr>
 <tr>
   <td colspan="8">Yeah, I do. <b>[10 Charisma]</b></td>

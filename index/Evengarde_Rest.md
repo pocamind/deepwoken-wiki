@@ -1,9 +1,9 @@
 ---
 title: Evengarde Rest
-revid: 186528
+revid: 188346
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
 ---
 
 # Evengarde Rest
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPC
 | name | Evengarde Rest |
 | alias | Maestro |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | Temple of the Blade |
 | affiliation | Etrea |
 

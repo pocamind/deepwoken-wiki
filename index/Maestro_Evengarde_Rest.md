@@ -1,9 +1,9 @@
 ---
 title: Maestro Evengarde Rest
-revid: 186523
+revid: 188348
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
+categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea, Maestros of the Vigils]
 ---
 
 # Maestro Evengarde Rest

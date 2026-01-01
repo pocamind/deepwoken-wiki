@@ -1,8 +1,9 @@
 ---
 title: The Inheritor
-revid: 186723
+revid: 188355
 source: https://deepwoken.fandom.com/wiki/The_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Circle of Honour members]
 ---
 
 # The Inheritor

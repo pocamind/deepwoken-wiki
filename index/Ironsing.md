@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 187620
+revid: 188334
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -304,7 +304,7 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 -   Apply Metal Rods on hit.
 -   You cannot use other abilities or attack while this Mantra is active.
 -   Shares a cooldown with [Metal Turret](Ironsing.md#metal-turret).
--   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), changing the Mantra to fire two cannons at the opponent, dealing higher damage and posture damage per shot but attack less times. This version of the attack does not apply hitstun and has less windup than the base variant.
+-   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), changing the Mantra to fire two cannons at the opponent, dealing higher damage and posture damage per shot but attack less times. This version of the attack has less windup than the base variant.
 
  |
 | 

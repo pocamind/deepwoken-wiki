@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 187929
+revid: 188347
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -376,7 +376,7 @@ Blunt
  |
 | 
 
-**Effect:** _User grabs their opponent with an unparryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
+**Effect:** _User grabs their opponent with a parryable attack, launching them towards their cursor. Thrown targets deal damage upon contacting other enemies in a wide AoE._
 
 -   The first hit has a base damage of 5 with 3 Strength scaling regardless of level.
 -   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.

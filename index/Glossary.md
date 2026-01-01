@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 188155
+revid: 188335
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -712,7 +712,7 @@ Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned
 -   Of a more humid climate than much of [Lumen](#lumen), the Western Luminant is a rich overgrown jungle of pillar-like mountain peaks.
 -   The predominant powers within the Western Luminant are the Hundred Legions and the [Starkindred](#the-starkindred-faith) Faith.
 
-Dialogue: [Chud Steel](Chud_Steel.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Starkindred Faith](#the-starkindred-faith)
+Dialogue: [Cestis](Cestis.md), [Chud Steel](Chud_Steel.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Starkindred Faith](#the-starkindred-faith)
 
 ## Terminology
 

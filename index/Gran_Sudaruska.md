@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 186482
+revid: 188364
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -83,7 +83,7 @@ The critical freezes the opponent on successful hit, with Glass Path: Crystalliz
     -   Some of her lines are very similar (likely as a result of inspiration) to the dialogue of _[Mithrix](https://riskofrain2.fandom.com/wiki/Mithrix)_, the final boss of [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2).
         -   "False strength." is one of Mithrix's quotes.
         -   Other instances—"Become memories, pawn.", "As I thought... Weak.", "Break, fragile pawn."—are all close to what he says.
--   The runes on the blade are Elder Furthark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".
+-   The runes on the blade are Elder Futhark Runes, which reads "FROSTDRAW" and "FIMBULWINTER".
     -   Fimbulwinter is a harsh winter that preludes Ragnarök in Norse mythology.
 -   Bizarrely, Gran Sudaruska used to have a Power requirement of 3, despite it being impossible to meet the stat requirements within Power 3.
 -   Gran Sudaruska could be used one handed even if the One Handed Training Talent was not obtained prior to its removal.
