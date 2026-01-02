@@ -1,23 +1,18 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 186800
+revid: 188662
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
+categories: [Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
 ---
 
 # Kaide, the Drowned Light
 
-| Kaide, the Drowned Light | |
-|---|---|
-| name | Kaide |
-| aspect | Lightborn |
-| location | New Kyrsa, The Sleeping City |
-| affiliation | Constellia |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 
@@ -169,7 +164,7 @@ This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped
   <td>We use Citadel Era.</td>
 </tr>
 <tr>
-  <td>That's great, but I don't know what this '<a href="Glossary.md#the-citadel-of-markor">Citadel</a>' <i>is</i>. What I know of your kind is from <i>what I assume to be</i> a very long time ago. You were a fragmented people scattered across a waterlogged waste. We pitied you and though ourselves fortunate. How ironic.</td>
+  <td>That's great, but I don't know what this '<a href="Glossary.md#the-citadel-of-markor">Citadel</a>' <i>is</i>. What I know of your kind is from <i>what I assume to be</i> a very long time ago. You were a fragmented people scattered across a waterlogged waste. We pitied you and thought ourselves fortunate. How ironic.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

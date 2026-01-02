@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 167502
+revid: 188628
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Divers]
@@ -20,13 +20,15 @@ A hidden operating base for the Divers of the First Layer, where many apprentice
 
 ## Overview
 
+The Castle Light gate
+
 Castle Light is a (relatively) safe area within the [First Layer](First_Layer.md) belonging to [The Divers](The_Divers.md). It is a castle with multiple lanterns floating around, brightening the surrounding area and making it visible from the outside. It's guarded by Journeyman Diver NPCs and stationary light-armed turrets that fire at monsters and hostile players. Additionally, it also has a Life Barrier preventing entry. Entry will only be granted if the player has entered The Depths through a whirlpool and does not have the vacant flaw, or is using the [Deepbound Origin](Origins.md). However, you can still enter if you died in [Trial of One](Trial_of_One.md) with the [Lone Warrior](Lone_Warrior.md) origin. It is also the only place to descend into Layer 2 with friends and with a safety net through the form of the [Light Hook](Second_Layer.md).
 
 It is also the only place the First Layer of the depths in which you can regenerate sanity / not go insane naturally, only if you are deepbound. It also features a stove, which functions as a campfire. It is the only natural campfire in the entirety of the depths. (Which, of course, you have to be Deepbound in order to use it.)
 
 ## Contents
 
-The entrance to the second layer of the depths.
+The entrance to the Second Layer of the Depths
 
 ### Entrance to the second layer
 
@@ -97,10 +99,10 @@ The Armory.
 
 If you are deepbound and within Castle Light's radius, You will passively regain sanity.
 
-## Notes
+## Trivia
 
--   While considered a "safe zone" to some extent, [monsters](Monsters.md) CAN enter the barrier. Journeymen Diver NPC's may kill some monsters, but stronger monsters, such as King threshers or Mudskipper Broodlords, will quickly kill the divers.
--   Occasionally, three black diver npcs can spawn. This happens when there are too many monsters or a player with bad reputation with the Divers enters.
+-   While considered a "safe zone" to some extent, [monsters](Monsters.md) CAN enter the barrier. Journeymen Diver NPCs may kill some monsters, but stronger monsters, such as King Threshers or Mudskipper Broodlords, will quickly kill the Divers.
+-   Occasionally, three Black Diver NPCs can spawn. This happens when there are too many monsters or a player with bad reputation with the Divers enters.
 -   Castle Light has one of the two blacksmiths in the depths, making it very useful if you need to repair your armor after farming.
     -   If killed with a death ID (Text reading **You died to**), you will not be able to enter Castle Light, unless you are Deepbound.
     -   Castle Light can be entered if the player went through a whirlpool or used Call of the Deep.
@@ -113,4 +115,4 @@ If you are deepbound and within Castle Light's radius, You will passively regain
 -   The [Antiquarian](Antiquarian.md) can only be interacted with if you are Deepbound. Any player that is not Deepbound cannot use the Antiquarian, regardless of their reputation with the Divers.
 -   It is possible to enter despite drowning, but requires the assistance of another player.
     -   Do note that if you defeat Chaser after doing this glitch, you will be allowed to pass through the barrier as if you entered the Depths via a whirlpool.
--   Defeating Ethiron spawns you in Castle Light if you entered via the Layer 1 void, but you still will not be allowed to pass through the barrier, forcing you to reset.
+-   Defeating Ethiron spawns you in Castle Light if you entered via the First Layer's void pits, but you still will not be allowed to pass through the barrier, forcing you to reset.

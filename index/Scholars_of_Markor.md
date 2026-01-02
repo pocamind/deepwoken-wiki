@@ -1,6 +1,6 @@
 ---
 title: Scholars of Markor
-revid: 181034
+revid: 188665
 source: https://deepwoken.fandom.com/wiki/Scholars_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Citadel of Markor]
@@ -11,7 +11,7 @@ categories: [The Citadel of Markor]
 | Scholars of Markor | |
 |---|---|
 | leader | The High Convocation[1] |
-| subunits | Scholars' Orchestra of the Scholars of Markor[1] |
+| subunits | Scholars' Orchestra of the Scholars of Markor[1], Blade Scholars of Markor[3] |
 | goals | Researching the Surface and it's history.[1][2] |
 | founded | Early days of the Citadel of Markor[1] |
 
@@ -31,3 +31,4 @@ They are authors of [Lumen's Folklore](<Lumen's_Folklore.md>) as well as publish
 
 1.  ↑ [1.0](#cite-ref-oscillation-1-0) [1.1](#cite-ref-oscillation-1-1) [1.2](#cite-ref-oscillation-1-2) [1.3](#cite-ref-oscillation-1-3) [1.4](#cite-ref-oscillation-1-4) [1.5](#cite-ref-oscillation-1-5) [1.6](#cite-ref-oscillation-1-6) [1.7](#cite-ref-oscillation-1-7) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
 2.  ↑ [2.0](#cite-ref-folklore-2-0) [2.1](#cite-ref-folklore-2-1) [2.2](#cite-ref-folklore-2-2) [Lumen's Folklore](<Lumen's_Folklore.md>)
+3.  [↑](#cite-ref-3) [Markor's Inheritor](<Markor's_Inheritor.md>) description

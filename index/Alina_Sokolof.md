@@ -1,6 +1,6 @@
 ---
 title: Alina Sokolof
-revid: 188194
+revid: 188514
 source: https://deepwoken.fandom.com/wiki/Alina_Sokolof
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers]

@@ -1,9 +1,9 @@
 ---
 title: Aska
-revid: 180644
+revid: 188631
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame]
+categories: [Capra NPCs, NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame, Individuals with unspecified pronouns]
 ---
 
 # Aska
@@ -14,6 +14,7 @@ categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer,
 | drops | Pleeksty's InfernoSimmerbloom Diadem (not guaranteed) |
 | weapon | Pleeksty's Inferno |
 | moves | Assault, Critical, Flame Grab, Flame Sentinel, Flaming Scourge, Ash Slam, Relentless Flames, Flare Volley |
+| aspect | Capra |
 
 “ KINDLE ANEW AND RETURN TO THE FLAME ”
 
@@ -21,15 +22,15 @@ categories: [NPCs, Enemies, NPCs located in the First Floor of the Second Layer,
 
 ## Description
 
-A [Flamecharm](Flamecharm.md)\-wielding "[miniboss](Bosses.md#mini-bosses)" found in [Firfire](Firfire.md), located in a cave behind three orange [Resonance](Resonance.md) doors. These doors are located under the cliff near the [Kyrsgarde](Kyrsgarde.md) that asks you to sit with him.
+A [Flamecharm](Flamecharm.md)\-wielding "[miniboss](Bosses.md#mini-bosses)" found in [Firfire](Firfire.md), located in a cave behind three orange [Resonance](Resonance.md) doors. These doors are located under the cliff near the [Kyrsgarde](Kyrsgarde.md) that asks you to sit with them.
 
-Upon meeting the requirements (stated below), you will initiate a fight with him. Upon winning you'll be rewarded with the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will burn to death and wipe.
+Upon meeting the requirements (stated below), you will initiate a fight with them. Upon winning you'll be rewarded with the [Pleetsky's Inferno](<Pleeksty's_Inferno.md>). However, if you attempt to initiate the fight without fulfilling the requirements, you will burn to death and wipe.
 
 If you do meet the requirements while having the Destined Echo modifier, Aska will still attempt to burn you to death, but you will survive and receive the weapon anyway, skipping the fight.
 
 ## Requirements
 
-To initiate the fight instead of wiping instantly, your character must fulfill some requirements:
+To initiate the fight instead of wiping instantly, your character must fulfil some requirements:
 
 -   75 [Flamecharm](Flamecharm.md)
 -   No Light Hook
@@ -39,7 +40,7 @@ A Resonance is required to get through the doors to Aska, but is not a requireme
 
 ## Moveset
 
-Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as his weapon.
+Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), all of which are accessible to the player, and the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) as their weapon.
 
 | Name/Danger | Description |
 | --- | --- |
@@ -81,7 +82,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 **Flaming Scourge**  
 (★★★)
 
- | Aska gathers flames in his hand and spins it like a whip grabbing the player, before slamming them into the ground.
+ | Aska gathers flames in their hand and spins it like a whip grabbing the player, before slamming them into the ground.
 
 -   This move has a tendency to glitch the player into a wall. Be careful.
 
@@ -91,7 +92,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 **Ash Slam**  
 (★★★)
 
- | Aska imbues his fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.
+ | Aska imbues their fist with flames that explode on impact with the ground. Strikes twice in front of the boss and creates a bursting explosion each time, ragdolling the player.
 
  |
 | 
@@ -165,26 +166,23 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 
 ## Strategy
 
--   Aska is a humanoid opponent. This means he uses basic attacks, a critical, mantras, etc.
+-   Aska is a humanoid opponent. This means they use basic attacks, a critical, Mantras, etc.
 -   All of Aska's moves are ordinary player mantras, and they are all parriable.
--   Aska can automatically parry moves that are guranteed to posture break while blocking.
--   Currently, you can't grip Aska for more than a month due the bug, so to auto grip him, you have to hit his body a lot of times until he dies, (It can take a lot of hits but he will die eventually) or use any move that auto grips.
+-   Aska can automatically parry moves that are guaranteed to posture break while blocking.
 -   Most of Aska's moves have hitboxes large enough to cover the entire cramped room the boss fight takes place in.
 -   Aska can potentially glitch you into the wall which could easily cause your death.
-    -   A workaround is to make sure to have a mantra with a wayward gem on it.
--   DO NOT attempt to run away. Leaving the boss chamber to heal will cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave layer 2 entirely through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
+    -   A workaround is to make sure to have a Mantra with a wayward gem on it.
+-   DO NOT attempt to run away. Leaving the boss chamber to heal will cause Aska to fall off the ledge and despawn, permanently leaving you in danger until you leave the Second Layer entirely through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or the Deepdrill.
 
 ## Trivia
 
--   His aspect is Capra, evidenced by the goat teeth near his mouth. However his variant is unknown, it is likely a unique one given the bones around his mouth are black/gold and his skin is orange.
--   If you do not meet the requirements, you will _**wipe immediately**_. Be certain that you have met the requirements before initiating the fight.
+-   Their Capra variant is unknown, it is likely a unique one given the bones around their mouth are black/gold and their skin is orange.
 -   [Flame Worshipper Armor](Flame_Worshipper_Armor.md) does _not_ need to be equipped to initiate the fight, if you have Pleetsky's Will, which anyone can obtain by talking to [Ploom](Ploom.md).
--   Aska is visibly missing an arm. During the fight with him, he creates a new one out of fire.
+-   Aska is visibly missing an arm. During the fight with them, they create a new one out of fire.
 -   If Aska falls off the map, you can escape through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and still obtain the weapon.
-    -   Aska can land on platforms that are between the void, softlocking you until you either fight [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or use the [Deepdrill](The_Frontier_Furnace.md). He will respawn in the same place unharmed.
--   Aska can only be fought _**ONCE**_ per character. Entering his room after having defeated him before will not respawn him.
--   He has anti-blockbreak Talent similarly to the [Duke Erisia](Duke_Ishamon_Erisia.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
--   He mistakes you for [Amorus Pleeksty](Amorus_Pleeksty.md), whom he sees as his lord, meaning he is most likely either a disciple or a member of the [Covenant of Flame](The_Covenant_of_Flame.md).
+    -   Aska can land on platforms that are between the void, softlocking you until you either fight [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or use the [Deepdrill](The_Frontier_Furnace.md). They will respawn in the same place unharmed.
+-   Aska can only be fought _**ONCE**_ per character. Entering their room after having defeated them before will not respawn them.
+-   They have anti-blockbreak Talent similarly to the [Duke Erisia](Duke_Ishamon_Erisia.md) and [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Aska's Outfit: [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR) / [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)
     -   Hair ID: 6101425666 _(same as [Maestro Evengarde Rest's](Evengarde_Rest.md))_
     -   Aska's Outfit is dyed orange in-game

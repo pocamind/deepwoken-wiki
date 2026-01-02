@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 188362
+revid: 188460
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
@@ -125,8 +125,8 @@ Radiant Teachings
   <td>A <a href="Glossary.md#light-hook">Light Hook</a> is already active. Stand within its circle when you're ready, and you'll be sent in a moment.</td>
 </tr>
 <tr>
-  <td>End, Light Hook is placed</td>
-  <td>End</td>
+  <td>[End Dialogue], Light Hook is placed</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -142,7 +142,7 @@ Radiant Teachings
   <td colspan="12">Ugh, I don't have time to train you Apprentices. <b>SCRAM!</b></td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -193,7 +193,7 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="9">Dialogue continues as normal</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -234,7 +234,7 @@ Radiant Teachings
   <td colspan="3">[See Others]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -266,13 +266,13 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="4">I thought you'd be more surprised.</td>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"><a href="Glossary.md#black-divers">Black Divers</a> are all driven by their ideals. For Akira and I, it's a desire to learn all we can about this place. For Chaser... It's clear he wants the spoils of whatever's down there all for himself. He's already got what he wanted from us, I suppose.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -304,13 +304,13 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="3">Or what?</td>
-  <td colspan="9">End</td>
+  <td colspan="9">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">Or something much more troubling. If someone's story doesn't add up down there... Get away. Get away as quickly as possible. Tug on the <a href="Glossary.md#light-hook">Light Hook</a> if needs be.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -342,13 +342,13 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="3">What can you offer for Medallions?</td>
-  <td colspan="9">End</td>
+  <td colspan="9">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">[<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -382,30 +382,30 @@ Radiant Teachings
   <td colspan="2">Not Enough Knowledge</td>
   <td colspan="2">Seems some of the disturbance has cleared up thanks to your efforts... Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
   <td colspan="2">It doesn't matter who you are - you've done us all a favour. Hitch a ride on the <a href="Glossary.md#light-hook">Light Hook</a> or delve deeper, your choice.</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4">...How is she?</td>
   <td colspan="4">The Moonseye projects Light? Why is that?</td>
   <td colspan="2">Hm. I won't deny that I'm impressed. Maybe it wasn't a mistake to share this <a href="Glossary.md#oaths">Oath</a> with you.</td>
   <td colspan="2">Not everyone can be a prodigy, but I respect your confidence. Keep at it, diver.</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"><i>*Klaris gives you a puzzled expression, seeming momentarily like she might dismiss your question, but conceding.*</i> She is... preoccupied. <a href="Glossary.md#lightkeep">Lightkeepers</a> do not get a great deal of rest, and what time she had spare she often spent writing.</td>
   <td colspan="4"><i>*She sighs.*</i> I'd like to know that for certain myself. As best as I can tell, it's likely something to do with its nature. Many believe that before the <a href="Glossary.md#the-tides">Tides</a>, souls departed for the <a href="Glossary.md#the-moonseye">Moonseye</a> upon the death of their corporeal forms.</td>
-  <td colspan="2">End, Maxed out Dawnwalker</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue], Maxed out Dawnwalker</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4">Writing?</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"><i>*She gives a thin smile.*</i> Poetry, from what I could see. Though none of it is permitted to leave the Lighthouse. I believe there is a great deal she misses of her former life, before her duty. I only hope that my research can alleviate the burden of the <a href="Glossary.md#lightkeep">Lightkeepers</a>. We aren't there yet.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -440,13 +440,13 @@ Radiant Teachings
 </tr>
 <tr>
   <td>Slider from 1 to 100</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>A pleasure. Come my way if you come across any more of these things - they're fascinating.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -478,13 +478,13 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="3">I vow it.</td>
-  <td colspan="9">End</td>
+  <td colspan="9">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">Very well. You shall connect with the Light around us, surrounding all of <a href="Glossary.md#lumen">Lumen</a>.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

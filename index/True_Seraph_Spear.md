@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 184502
+revid: 188650
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Direct Drops (rare):, Corrupted King Thresher, Glacial LionfishOther:, Sold by Traan Zakshun for 750 |
+| obtainment | Direct Drops (rare):, Corrupted King Thresher, Glacial LionfishOther:, Sold in Traan Zakshun's regular shop for 750 |
 | description | ... |
 
 ## Description

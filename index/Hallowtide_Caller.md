@@ -1,9 +1,11 @@
 ---
 title: Hallowtide Caller
-revid: 179010
+revid: 188587
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Caller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Hallowtide]
+categories: [Event Only Content, NPCs, Hallowtide]
+notices:
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
 ---
 
 # Hallowtide Caller
@@ -57,7 +59,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td>Kehehe! Soon, we shall celebrate!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -73,7 +75,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td>He's coming, he's coming! The Floating Keep is arriving, above us! Talk to me once more upon its arrival...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -94,8 +96,8 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
   <td>Oh! You, you! Your heart is beating too fast to travel right now, friend. High blood pressure is very serious. Come back to me when there aren't blades aimed toward you.</td>
 </tr>
 <tr>
-  <td>End, player is transported to the Floating Keep</td>
-  <td>End</td>
+  <td>[End Dialogue], player is transported to the Floating Keep</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

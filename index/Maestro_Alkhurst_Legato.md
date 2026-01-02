@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 188358
+revid: 188490
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Maestros of the Vigils, Circle of Honour members]
@@ -14,7 +14,7 @@ notices:
 | Maestro Alkhurst Legato | |
 |---|---|
 | name | Alkhurst Legato |
-| alias | Maestro |
+| alias | Maestro, The Maestro of Vigils |
 | aspect | Etrean |
 | pronouns | He/him |
 | location | Temple of the Blade |

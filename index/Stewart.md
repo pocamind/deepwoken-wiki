@@ -1,9 +1,9 @@
 ---
 title: Stewart
-revid: 188179
+revid: 188453
 source: https://deepwoken.fandom.com/wiki/Stewart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -20,7 +20,7 @@ Template:NpcInfobox
 
 ## Description
 
-Stewart is a [Ganymede](Ganymede.md) NPC. He talks about [Urchin Stew](Urchin_Stew.md).
+Stewart is a [Ganymede](Ganymede.md) NPC. They talk about [Urchin Stew](Urchin_Stew.md).
 
 ## Dialogue
 

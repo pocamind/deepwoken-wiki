@@ -1,9 +1,9 @@
 ---
 title: Graha
-revid: 188178
+revid: 188456
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
 ---
 
 # Graha
@@ -16,7 +16,7 @@ Template:NpcInfobox
 
 ## Description
 
-Graha is a [Vesperian](Vesperian.md) NPC. He talks about [Urchin Stew](Urchin_Stew.md).
+Graha is a [Vesperian](Vesperian.md) NPC. They talk about [Urchin Stew](Urchin_Stew.md).
 
 ## Location
 
@@ -41,4 +41,4 @@ Graha is located in [Castle Light](Castle_Light.md), on the second floor next to
 ## Trivia
 
 -   Graha's racial variant appears to be Besague.
--   Graha mentions how the stove next to him is the only way to cook anything in the [First Layer](First_Layer.md). However, this is not true as there is also a stove in [The Chariot's Spire](<The_Chariot's_Spire.md>) (Which he may not know about).
+-   Graha mentions how the stove next to them is the only way to cook anything in the [First Layer](First_Layer.md). However, this is not true as there is also a stove in [The Chariot's Spire](<The_Chariot's_Spire.md>), which they may not know about.

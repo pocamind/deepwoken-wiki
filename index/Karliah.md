@@ -1,20 +1,12 @@
 ---
 title: Karliah
-revid: 188339
+revid: 188645
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Karliah
-
-| Karliah | |
-|---|---|
-| name | Karliah |
-| aspect | Adret |
-| pronouns | She/her |
-| location | Etris |
-| affiliation | The Divers |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ Oh, sorry, I didn't see you there. I'm Karliah, apprentice Diver extraordinaire! ”
 
 ― Karliah
+
+Template:NpcInfobox
 
 ## Description
 
@@ -87,7 +81,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
   <td colspan="2">Of course. Adventuring is my specialty.</td>
   <td colspan="2">Sure, for 20 Notes. [Charisma]</td>
   <td colspan="2">On second thought, I'm a little busy right now.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="12"></td>
@@ -98,16 +92,16 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 </tr>
 <tr>
   <td colspan="12"></td>
-  <td colspan="2">End, Karliah spawns at Lower Erisia</td>
+  <td colspan="2">[End Dialogue], Karliah spawns at Lower Erisia</td>
   <td>Deal! I'll meet you by the mines of Erisia whenever you're ready!</td>
   <td>Uh... It's just cave flora - I don't think it'll be so bad as to need <i>hired</i> help...</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="12"></td>
   <td colspan="2"></td>
-  <td>End, the Player gains notes and Karliah spawns at Lower Erisia</td>
-  <td>End</td>
+  <td>[End Dialogue], the Player gains notes and Karliah spawns at Lower Erisia</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -158,7 +152,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
   <td>Thanks to your words, yeah. I don't think I have the nerves to be a <a href="Glossary.md#the-divers">Diver</a>, but I'm working on becoming a Scholar for the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> so that I can still contribute. Not everyone has to be on the front lines to save lives, after all.</td>
 </tr>
 <tr>
-  <td>End, receive XP, Compassion Talent hand, and unbound Charisma</td>
+  <td>[End Dialogue], receive XP, Compassion Talent hand, and unbound Charisma</td>
 </tr>
 </tbody>
 </table>
@@ -180,7 +174,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
   <td><i>*Karliah nods, smiling, and continues her studies.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -201,7 +195,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 </tr>
 <tr>
   <td><i>*You know there isn't a way out of this.*</i></td>
-  <td>End, the Player snaps Karliah's neck, receive XP and Compassion Talent hand</td>
+  <td>[End Dialogue], the Player snaps Karliah's neck, receive XP and Compassion Talent hand</td>
 </tr>
 <tr>
   <td>[Put her down]</td>
@@ -263,14 +257,14 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 </tr>
 <tr>
   <td colspan="8"></td>
-  <td colspan="4">End, the Player escorts Karliah into the Erisian Mines</td>
+  <td colspan="4">[End Dialogue], the Player escorts Karliah into the Erisian Mines</td>
   <td colspan="2"><i>*Karliah smiles gently, though her expression betrays her fear.*</i> I'll hold you to that, ok?</td>
   <td colspan="2"><i>*Karliah's face momentarily reflects inner digust before forming into an awkward smile.*</i> Ah.. er.. ok...</td>
 </tr>
 <tr>
   <td colspan="8"></td>
   <td colspan="2"></td>
-  <td colspan="6">End, the Player escorts Karliah into the Erisian Mines</td>
+  <td colspan="6">[End Dialogue], the Player escorts Karliah into the Erisian Mines</td>
 </tr>
 </tbody>
 </table>
@@ -328,7 +322,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <tr>
   <td colspan="8"></td>
   <td colspan="4">You don't have to be a diver for your life to mean something.</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="8"></td>
@@ -336,7 +330,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 </tr>
 <tr>
   <td colspan="8"></td>
-  <td colspan="4">End, Karliah can be found back at Etris</td>
+  <td colspan="4">[End Dialogue], Karliah can be found back at Etris</td>
 </tr>
 </tbody>
 </table>
@@ -393,8 +387,8 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 </tr>
 <tr>
   <td colspan="8"></td>
-  <td colspan="4">End, Karliah can be found back at Etris</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue], Karliah can be found back at Etris</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -410,7 +404,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
   <td>H-hey... Stay close to me, alright?</td>
 </tr>
 <tr>
-  <td>End, Karliah is killed by Horseshoe Crabs</td>
+  <td>[End Dialogue], Karliah is killed by Horseshoe Crabs</td>
 </tr>
 </tbody>
 </table>

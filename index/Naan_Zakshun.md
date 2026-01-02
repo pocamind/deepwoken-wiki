@@ -1,9 +1,9 @@
 ---
 title: Naan Zakshun
-revid: 187768
+revid: 188638
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs]
+categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Circle of Honour members]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
@@ -189,6 +189,7 @@ Naan's item descriptions will change randomly each time they hit their hourly ro
 -   _Look at all those shiiiiiny colours oOOOooOOoOOOO! BUUYY ITTT!!!!!!_
 -   _Look, I don't need you to buy this, you're just gonna be missing out on this deal if you wimp out._
 -   _Lovely weather for buying something exactly like this, eh Ironsworn?_
+-   _My grandson found this one and he has an amazing eye for value, you could probably flip this in Etris for a quick note._
 -   _Naan Zakshun has wares if you have coin- I mean... notes... yeah._
 -   _No it's not naan like the bread._
 -   _Oh, ignore the bite marks~ my grandson's teething._
@@ -244,7 +245,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 300 </b>: <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
-    <li><b>For 650 </b>: <a href="Falchion.md">Alloyed Falchion</a></li>
+    <li><b>For 650 </b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a></li>
     <li><b>For 1,000 </b>: <a href="Night_Axe.md">Night Axe</a></li>
     <li><b>For 4,500 </b>: <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a></li>
   </ul></td>

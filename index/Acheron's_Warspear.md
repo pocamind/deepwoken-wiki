@@ -1,6 +1,6 @@
 ---
 title: "Acheron's Warspear"
-revid: 185714
+revid: 188649
 source: https://deepwoken.fandom.com/wiki/Acheron's_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons, Weapons with Talents]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Corrupted King Thresher, layer 2 chests, The Diluvian Mechanism |
+| obtainment | Corrupted King Thresher, Layer 2, The Diluvian Mechanism |
 | description | ... |
 
 ## Description

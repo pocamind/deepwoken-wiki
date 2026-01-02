@@ -1,9 +1,9 @@
 ---
 title: "Adar, Master of Metal"
-revid: 188371
+revid: 188609
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies, Individuals with They/them pronouns]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
 ---
 
 # Adar, Master of Metal
@@ -14,6 +14,7 @@ categories: [Individuals with He/him pronouns, Enemies, Attunement Trainers, NPC
 | drops | None |
 | weapon | Darksteel Greatsword |
 | moves | Assault, Critical, Metal Eruption, Caltrops, Firing Line, Oxidizing Rush, Metal Armament, Metal Gatling, Iron Slam, Iron Hug, Rocket Lance, Metal Ball, Needle Barrage, Onslaught, Mecha Gatling |
+| aspect | Etrean |
 | pronouns | He/him |
 | affiliation | The Ignition Union |
 
@@ -353,4 +354,3 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 -   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.
 -   Formerly, Adar could not be killed for [Silentheart](Oath%253A_Silentheart.md) progression and when talking to him while being one would prompt a message of him saying: "Huh? Why are you giving me those looks for?" The 11/10/23 update finally allowed him to be fought and killed.
 -   He does not use the [legendary weapon](Ignition_Deepcrusher.md) of his respective Attunement unlike other trainers, due to him having a [weapon](Darksteel_Greatsword.md) already on his back.
--   His eyes are a whiteish color, this could imply he is blind, but is most likely due to his [Attunement](Attunements.md) being a greyish white color. Alternatively, him being blind could be a reference to the character, Toph Beifong, from Avatar: The last airbender, who uses similar magic of manipulating Iron, and is blind.

@@ -1,9 +1,9 @@
 ---
 title: Deepwoken (manga)
-revid: 178666
+revid: 188446
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(manga)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-canon articles"]
+categories: ["Non-canon articles", Deepwoken]
 notices:
   - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
 ---

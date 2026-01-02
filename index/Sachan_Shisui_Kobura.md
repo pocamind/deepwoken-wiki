@@ -1,6 +1,6 @@
 ---
 title: Sachan Shisui Kobura
-revid: 188030
+revid: 188634
 source: https://deepwoken.fandom.com/wiki/Sachan_Shisui_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sachan Shisui Kobura is an [Etrean](Etrean.md) NPC.
+Sachan Shisui Kobura is an [Etrean](Etrean.md) NPC. In an argument with the three other Sachans in [The Golden Rat](The_Golden_Rat.md), she held that the [Etrean Royalists](Etrean_Royalists.md) needed to seek powerful allies to make the next move, mostly [The Central Authority](The_Central_Authority.md). Shisui is often described as ambitious and selfish.
 
 ## Location
 

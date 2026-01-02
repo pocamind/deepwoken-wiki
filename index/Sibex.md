@@ -1,9 +1,9 @@
 ---
 title: Sibex
-revid: 187940
+revid: 188636
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics]
+categories: [Celtor NPCs, NPCs, Mechanics, Individuals with unspecified pronouns]
 ---
 
 # Sibex
@@ -16,36 +16,11 @@ categories: [NPCs, Mechanics]
 
 ## Description
 
-**Sibex** is a [Celtor](Celtor.md) that dons a grey hood and wears an unconfirmed white armor. A member of the Authority gone missing on duty, he has a Gale Wisp that will circle him, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble circus music.
+**Sibex** is a [Celtor](Celtor.md) that dons a grey hood and wears an unconfirmed white armor. A member of the Authority gone missing on duty, they have a Gale Wisp that will circle them, constantly playing either a chaotic violin tune, whistles, and other various songs that resemble circus music.
 
-Sibex now resides on a cliff in [the Starswept Valley](The_Starswept_Valley.md) south-east of [the Lordsgrove](The_Lordsgrove.md).
+Sibex resides on a cliff in [the Starswept Valley](The_Starswept_Valley.md) south-east of [the Lordsgrove](The_Lordsgrove.md).
 
-## Features
-
-**Sibex** is capable of telling you your current **[Resonance progress](Resonance.md#bell-progress)**, and what gives you the most **Resonance progress**. Once speaking to **Sibex** for the first time, he will prompt you to collect 1 Thresher Spine for him, and in return he will tell you the details of your Resonance obtainment method. Sibex will not take your thresher spine, you just need it to talk to him.
-
-### Resonance Path
-
--   **Bosses:** "Ah... I can hear your Soul drawing back, lining up an arrow to defeat its latest foe. It yearns to defeat the strongest of foes. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
--   **Arena/PVP:** "Ah... I can hear the drumbeats of war within your Soul. It's clear that it thirsts for combat. Though note that this is not the only path available to you, as the Depths is known to draw out the Song within all of us..."
--   **Depths:** "Ah... An inquisitive Soul... Your Soul's curiosity must be quenched. What lies within the Depths? Delving into that realm will surely bear fruit for you..."
--   ~**Inspired [Regalia](Regalia.md):** "Ah, interesting. Your Soul is giving off a consistent frequency. It's kinda like you've tuned an instrument. That's more than can be said for most, but still quite a way off."~ (Requires further testing.)
--   **Resonance Obtained:** "Well look at you, my friend! You're practically beaming with the Song!"
--   **Arena, Bosses and Depths**: "Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?"
-
-### Resonance Progress
-
--   **Little to no progress:** “You must've been born yesterday, your Soul sounds tone-deaf. You aren't close enough yet to being in contact with it.”
--   **Slight progress:** “Hm. Your soul doesn't sound great, but it's at least producing somewhat of a tone, You're getting close to being in tune with it.”
--   **Moderate progress:** “Huh. It seems like you and your Soul are somewhat aligned in tempo, but the frequency it's putting out is kind of a racket...”
--   **Significant progress:** “Ahh… The tone is growing clearer, and with the tempo matched it’s beginning to sound rather intriguing… Could you be one of the few?”
--   **High progress:** “Ahhhh... I can hear your Soul beginning to match the cadence of your heartbeat, your breathing... It's warping to fit you and what you've become. Could you be one of the few?”
--   **Resonance imminent:** “Morphed like clay... The soul and ego become one. Your Soul's **Resonance** is nigh, my friend. What a blessing it is that I was able to hear it just before the crescendo...”
--   **Resonance obtained:** “Well look at you, my friend! You're practically beaming with the Song!”
-
-NOTE: Getting the high progress or Resonance imminent dialogues **could** mean that you are ready to test for a Resonance, however neither of them guarantees a bell, but it is likely available for you if you get either of these dialogues.
-
-### Soul Beam
+Sibex is capable of telling you your current **[Resonance progress](Resonance.md#bell-progress)**, and what gives you the most **Resonance progress**. Once speaking to Sibex for the first time, they will prompt you to collect a Thresher Spine for them, and in return they will tell you the details of your Resonance obtainment method. Sibex will not take your Thresher Spine.
 
 Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra when talked to upon meeting certain requirements:
 
@@ -194,9 +169,9 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
 ## Trivia
 
 -   When talking to Sibex the song [Sibex's Gale Wisp Tune](Deepwoken_OST.md#sibexs-gale-wisp-tune) will play.
--   Sibex mentions Jericho the Warden, likely meaning he is under his orders. He's been described as missing on duty, the Authority appears to have just lost him.
--   He used to wear [Hive Leader's Garment](<Hive_Leader's_Garment.md>); this was changed due to reasons unknown.
+-   Sibex mentions Warden Jericho, likely meaning they are under his orders. They've been described as missing on duty, the Authority appears to have just lost them.
+-   The used to wear [Hive Leader's Garment](<Hive_Leader's_Garment.md>); this was changed.
     -   It may have been because the outfit's design was lifted from [an outfit](References_and_Easter_Eggs.md) in _Genshin Impact_, but this is speculation.
 -   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime "Mushoku Tensei."
--   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue he would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
+-   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue they would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
 -   On the update of August 18th, 2025, [Gale Wisp](Galebreathe.md#gale-wisp) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.

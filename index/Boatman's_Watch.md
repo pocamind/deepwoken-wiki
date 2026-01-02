@@ -1,6 +1,6 @@
 ---
 title: "Boatman's Watch"
-revid: 181403
+revid: 188668
 source: https://deepwoken.fandom.com/wiki/Boatman's_Watch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Voidzones, Dungeons]
@@ -34,7 +34,7 @@ Boatman's Watch is a small island located in the [Voidsea](Voidsea.md). The isla
 
 Once spawned, you will not be able to leave Boatman's Watch until you defeat [The](The_Ferryman.md) [Ferryman](The_Ferryman.md) and leave through the portal, die or combat log.
 
-## Trivia/Notes
+## Trivia
 
 -   The music for this area is [To Shores, Distant](Deepwoken_OST.md#to-shores-distant) by Naktigonis.
 -   Close to the shore, some [fishing spots](Fishing.md) can be found.

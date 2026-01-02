@@ -1,9 +1,9 @@
 ---
 title: Mark Adaset
-revid: 188193
+revid: 188521
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with He/him pronouns]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
 ---
 
 # Mark Adaset
@@ -12,7 +12,7 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First L
 |---|---|
 | name | Mark Adaset |
 | aspect | Adret |
-| pronouns | He/his |
+| pronouns | He/him |
 | location | Castle Light |
 | affiliation | The Divers |
 
@@ -55,7 +55,7 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
   <td colspan="6"><i>*He suddenly stares through you analytically,*</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh, it seems you speak. Forgive my initial rudeness, we get a lot of groaners wandering about looking for some pit to fall into.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="6">Who are you?</td>
 </tr>
 <tr>
@@ -69,9 +69,9 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>Player is power 1-9</td>
-  <td>Player is power 10-(?)</td>
-  <td>Player is power (?)-20</td>
+  <td>Player is Power 1-9</td>
+  <td>Player is Power 10-(?)</td>
+  <td>Player is Power (?)-20</td>
   <td colspan="3">I don't really manage recruitment - you should talk to Akira.</td>
 </tr>
 <tr>
@@ -79,11 +79,11 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
   <td><i>*He looks you over as if calculating your life's worth.*</i> For you, definitely. You look like a complete small-fry.</td>
   <td><i>*He looks you over as if calculating your life's worth.*</i> For most it is, but you might be able to manage. I'd try to get out quick if I were you though.</td>
   <td><i>*He looks you over as if calculating your life's worth.*</i> I think this Layer should be light work for someone like you.</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -110,5 +110,5 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
 ## Trivia
 
 -   Prior to Verse 2, he was located where [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md) is located now, hence the dialogue referencing him being forced out by her.
--   When asking him "Isn't this place dangerous?" he will respond differently depending on the players power.
+-   When asking him "Isn't this place dangerous?" he will respond differently depending on the player's Power.
 -   It isn't recommended to reroll the Deepbound Flaw due to its unobtainability and providing zero downsides to your character.

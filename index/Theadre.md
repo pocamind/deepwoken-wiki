@@ -1,27 +1,22 @@
 ---
 title: Theadre
-revid: 187575
+revid: 188624
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Theadre
-
-| Theadre | |
-|---|---|
-| name | Theadre |
-| aspect | Etrean |
-| location | Etris |
-| affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Theadre is an Etrean NPC. He is very old and talks about the old King of Etrea and gives lore about the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
+Theadre is an [Etrean](Etrean.md) NPC. He is very old and talks about the old King of Etrea and gives information about the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
 
 ## Location
 

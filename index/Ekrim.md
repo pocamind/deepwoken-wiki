@@ -1,9 +1,9 @@
 ---
 title: Ekrim
-revid: 188325
+revid: 188471
 source: https://deepwoken.fandom.com/wiki/Ekrim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Individuals with unspecified pronouns, Characters with status unknown]
+categories: [Stub pages without reason, StubPages, Individuals with unspecified pronouns, Deceased characters]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -15,7 +15,7 @@ notices:
 | name | Ekrim[1] |
 | alias | Third's Eclipse[1] |
 | affiliation | Rouhlx Dyad[1] |
-| death | Met a grim end at the hands of a power they worshipped (presumably) |
+| death | Deceased prior to the events of the game[1] |
 
 ## Description
 
@@ -27,4 +27,4 @@ In the end, Night Axe, along with its counterpart, the Daycleave were said to me
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-night-axe-1-0) [1.1](#cite-ref-night-axe-1-1) [1.2](#cite-ref-night-axe-1-2) [1.3](#cite-ref-night-axe-1-3) [1.4](#cite-ref-night-axe-1-4) [1.5](#cite-ref-night-axe-1-5) [Night Axe](Night_Axe.md) description
+1.  ↑ [1.0](#cite-ref-night-axe-1-0) [1.1](#cite-ref-night-axe-1-1) [1.2](#cite-ref-night-axe-1-2) [1.3](#cite-ref-night-axe-1-3) [1.4](#cite-ref-night-axe-1-4) [1.5](#cite-ref-night-axe-1-5) [1.6](#cite-ref-night-axe-1-6) [Night Axe](Night_Axe.md) description

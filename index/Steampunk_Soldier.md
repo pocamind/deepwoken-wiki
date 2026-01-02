@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 188359
+revid: 188461
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -563,7 +563,7 @@ N/A
 
 ### Power 20
 
--   Does not have anything purchasable at power 20.
+-   Does not have anything purchasable at Power 20.
 
 ## Boss Unlocks
 
