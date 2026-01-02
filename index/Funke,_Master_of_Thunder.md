@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 188820
+revid: 188964
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 Funke is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Thundercall](Thundercall.md) trainer.
 
-In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke (2 if you have already obtained the attunement). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents. They are found at the 2nd floor of the [Summer Isle's](Summer_Isle.md) castle inside the alchemy room.
+In order to obtain Thundercall, you must bring 5 [Spark Glands](Spark_Gland.md) to Funke (2 if you have already obtained the attunement). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents. They are found at the 2nd floor of the [Summer Isle](Summer_Isle.md) castle inside the alchemy room.
 
 ## Moveset
 
@@ -128,7 +128,7 @@ Funke executes his opponent after knocking them:
   <td colspan="12">Bring me <b>[X] Spark Glands</b>. Then we can continue.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -153,7 +153,7 @@ Funke executes his opponent after knocking them:
 </tr>
 <tr>
   <td colspan="6">What is that you're doing?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of their blood fall into the vial. They give it a quick shake and hand it to you.*</i></td>
@@ -162,7 +162,7 @@ Funke executes his opponent after knocking them:
   <td colspan="6">The vial I gave you. You must drink it.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -186,28 +186,27 @@ Funke executes his opponent after knocking them:
   <td colspan="6">The skies remain clear...</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Tips
 
--   Funke is the only trainer to be a percieved "threat" due to his ability to use decent [Thundercall](Thundercall.md) moves.
--   Fight Funke on the balcony next to the room he is in, unless getting Silentheart at max level.
--   **Heavy Users:** M1, feint, critical, repeat. This will stunlock him. This is the Duke effect. On vent, feint the air. He'll try to parry. If he doesn't, hit him anyways. He will either block or parry, and you'll be able to start the combo again
--   **Fist Users:** Fight him like you would an enforcer.
--   His critical should be avoided at all costs.
+-   Funke is the only trainer to be a percieved "threat" due to their ability to use decent [Thundercall](Thundercall.md) moves.
+-   Fight Funke on the balcony next to the room they are in, unless getting Silentheart at max level.
+-   **Heavy Users:** M1, feint, critical, repeat. This will stunlock them. This is the Duke effect. On vent, feint the air. They'll try to parry. If yhey don't, hit them anyways. They will either block or parry, and you'll be able to start the combo again
+-   **Fist Users:** Fight them like you would an enforcer.
+-   Their critical should be avoided at all costs.
 
 ## Trivia
 
--   Both he and [Nell](Nell,_Master_of_Frost.md) wear the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
-    -   If they are indeed Divers, this would make him and Nell the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md), excluding [Coldheart Fortinbras](Coldheart_Fortinbras.md).
+-   Both they and [Nell](Nell,_Master_of_Frost.md) wear the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
+    -   If they are indeed Divers, this would make them and Nell the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md), excluding [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 -   Funke is the German word for "spark".
--   He did not wield the [Stormseye](Stormseye.md), after its addition in the 6/5/2023 update, despite both being at Summer Isle and it being a Thundercall based weapon. This was finally corrected in the 11/10/2023 update, a staggering five months later.[\[2\]](#cite-note-2)
-    -   This is most likely due to the laziness of the Developers, as the Stormseye was added after his Enemy variant was.
-        -   Arch\_Mage stated the reason was rifles not being coded for NPCs, but [this was incorrect](<Summer_Dragoon_(NPC).md>).
+-   They did not wield the [Stormseye](Stormseye.md), after its addition in the 6/5/2023 update, despite both being at Summer Isle and it being a Thundercall based weapon. This was finally corrected in the 11/10/2023 update, a staggering five months later.[\[2\]](#cite-note-2)
+    -   Arch\_Mage stated the reason was rifles not being coded for NPCs, but [this was incorrect](<Summer_Dragoon_(NPC).md>).
 
 ## References
 

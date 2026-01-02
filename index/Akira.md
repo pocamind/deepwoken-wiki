@@ -1,23 +1,22 @@
 ---
 title: Akira
-revid: 184002
+revid: 189027
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
+categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
 ---
 
 # Akira
 
-| Akira | |
-|---|---|
-| name | Akira |
-| aspect | Etrean |
-| location | Celtor Wastes, Castle Light |
-| affiliation | The Divers, Black Divers division |
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Since when was the Depths the territory of some surface-dwelling small fries like lot of you? Pass this line and none of you will see the surface again. ”
 
 ― Akira
+
+Template:NpcInfobox
 
 ## Description
 
@@ -69,8 +68,8 @@ After this you are able to talk to Akira, in which he has two different conversa
 </tr>
 <tr>
   <td colspan="2">A nosy one eh? I'm on duty right now making sure no depths creatures or otherwise unwanted parties wander into this area before the research platoon makes it over.</td>
-  <td>End, Akira returns to Castle Light</td>
-  <td>End, the player's head pops <b>instantly killing and wiping them</b></td>
+  <td>[End Dialogue], Akira departs</td>
+  <td>[End Dialogue], the player's head pops <b>instantly killing and wiping them</b></td>
 </tr>
 <tr>
   <td colspan="2">Research platoon?</td>
@@ -97,7 +96,7 @@ After this you are able to talk to Akira, in which he has two different conversa
   <td colspan="2">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to Castle Light in one piece and we'll see about your recruitment there.</td>
 </tr>
 <tr>
-  <td colspan="2">End, Akira returns to Castle Light</td>
+  <td colspan="2">[End Dialogue], Akira returns to Castle Light</td>
 </tr>
 </tbody>
 </table>
@@ -119,7 +118,7 @@ After this you are able to talk to Akira, in which he has two different conversa
   <td>More than you know.. more than you know.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -189,7 +188,7 @@ After this you are able to talk to Akira, in which he has two different conversa
   <td>As I thought... In any case, most of my field work assignments don't concern this layer. For now, I'm here to handle management and territory defense, that sort of thing.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

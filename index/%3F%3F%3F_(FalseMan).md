@@ -1,6 +1,6 @@
 ---
 title: ??? (FalseMan)
-revid: 188898
+revid: 188963
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -29,7 +29,7 @@ Template:NpcInfobox
   <td colspan="12">;#%#$%^*$##%#</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

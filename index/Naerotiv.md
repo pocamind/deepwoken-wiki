@@ -1,18 +1,12 @@
 ---
 title: Naerotiv
-revid: 188707
+revid: 189024
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, Floor 2, Layer 2, NPCs located in the Second Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Naerotiv
-
-| Naerotiv | |
-|---|---|
-| name | Naerotiv |
-| species | Kyrsan |
-| location | Kyrsan Wilds |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -22,17 +16,19 @@ This content is not accessible outside of this gamemode.
 
 ― Naerotiv
 
+Template:NpcInfobox
+
 ## Description
 
-Naerotiv is a [Kyrsan](Kyrsgarde.md) located to the right of the entrance to [Floor 2](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). He has a brother named [Frosviernr](Frosviernr_Joraelnaero.md) further into the city, who made and gives the player the [Kyrswynter](Kyrswynter.md). He is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
+Naerotiv is a [Kyrsan](Kyrsgarde.md) located to the right of the entrance to the [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md#new-kyrsa-the-sleeping-city-f2). They have a brother named [Frosviernr Joraelnaero](Frosviernr_Joraelnaero.md) further into the city, who made and gives the player the [Kyrswynter](Kyrswynter.md). Interacting with Naerotiv is needed as a step to obtain the aforementioned [Kyrswynter](Kyrswynter.md).
 
-Naerotiv tells you how the [City](Second_Layer/New_Kyrsa.md) came to be today, about how the [Kyrsans](Kyrsgarde.md) once lived, and where they built a shrine over [Ethiron's scion](Scion_of_Ethiron.md) to ensure he remains asleep, which eventually led to the [City](Second_Layer/New_Kyrsa.md) being developed.
+Naerotiv tells you how the [City](Second_Layer/New_Kyrsa.md) came to be today, about how the [Kyrsans](Kyrsgarde.md) once lived, and where they built a shrine over [Ethiron's scion](Scion_of_Ethiron.md) to ensure it remains asleep, which eventually led to the [City](Second_Layer/New_Kyrsa.md) being developed.
 
-He also tells you of how they used a ritual, namely the _**The Ninefold Blessings of Marrow**_, to ensure that [Ethiron's puppet](Scion_of_Ethiron.md) remains asleep. Until The Scholars thought of harnessing the puppet's power, which ultimately led to the [Kyrsan's](Kyrsgarde.md) downfall. With the ritual failing on the last, ninth, step.
+Naerotiv also tells you of how they used a ritual, namely the _**The Ninefold Blessings of Marrow**_, to ensure that [Ethiron's puppet](Scion_of_Ethiron.md) remains asleep. Until The Scholars thought of harnessing the puppet's power, which ultimately led to the [Kyrsan's](Kyrsgarde.md) downfall. With the ritual failing on the last, ninth, step.
 
-Once [Ethiron's puppet](Scion_of_Ethiron.md) was awoken, it released a sound, a Tone of Song, which deafened everyone around the [City](Second_Layer/New_Kyrsa.md). A sound that turned all of the [Kyrsans](Kyrsgarde.md) nearby into puppets, just like him.
+Once [Ethiron's puppet](Scion_of_Ethiron.md) was awoken, it released a sound, a Tone of Song, which deafened everyone around the [City](Second_Layer/New_Kyrsa.md). A sound that turned all of the [Kyrsans](Kyrsgarde.md) nearby into puppets, just like itself.
 
-Naerotiv urges you to set his kind free by completing the ritual and sealing the [Scion of Ethiron](Scion_of_Ethiron.md) away for good. If not, the Gale present in [Layer 2](Second_Layer.md) would seep through and eventually engulf the whole Surface as well.
+Naerotiv urges you to set their kind free by completing the ritual and sealing the [Scion of Ethiron](Scion_of_Ethiron.md) away for good. If not, the Gale present in the [Second Layer](Second_Layer.md) would seep through and eventually engulf the Surface as well.
 
 ## Dialogue
 
@@ -131,7 +127,7 @@ Naerotiv urges you to set his kind free by completing the ritual and sealing the
   <td colspan="4">My brother? He's somewhere deep in the city, I believe. It pains me to witness what's become of everyone. Such sophistication, now spoiled and purged. It's truly lamentable. Even in our simplest arts, before the thrall, my brother could fashion the finest spears of frost, infinitely more elegant than the conjured weaponry of our contemporaries. The spirit of my brother and the spirit of Kyrsa will stand with you should you invoke their blessings.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

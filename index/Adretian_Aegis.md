@@ -1,9 +1,9 @@
 ---
 title: Adretian Aegis
-revid: 181055
+revid: 189009
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Shields, Offhand]
+categories: [Authority Faction Item, Pathfinder Exclusive, Weapons, Shields, Offhand]
 ---
 
 # Adretian Aegis
@@ -25,6 +25,10 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 | pass down | Yes |
 | obtainment | Sold at Fort Merit Armory for 100 (Authority Ensign exclusive) |
 | description | A sturdy shield, traditionally crafted to suit the rank of it's holder. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

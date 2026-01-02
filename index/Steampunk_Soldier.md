@@ -1,11 +1,9 @@
 ---
 title: Steampunk Soldier
-revid: 188461
+revid: 188932
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Vow of Iron Exclusive, Mementos]
 ---
 
 # Steampunk Soldier
@@ -83,6 +81,8 @@ This content is not accessible outside of this gamemode.
 
 **Flame Grab** (☆☆☆)
 
+**Combat Mantra**
+
 _Jet forwards with flames and slam anyone you catch in your clutches._
 
  | 
@@ -90,6 +90,7 @@ _Jet forwards with flames and slam anyone you catch in your clutches._
 ## Flame Grab (☆☆☆)
 
   
+**Combat Mantra**  
 _Jet forwards with flames and slam anyone you catch in your clutches._
 
  |
@@ -116,7 +117,6 @@ N/A
 -   Has a large hitbox both horizontally and backwards.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Inflicts Burn.
--   Shares a cooldown with all of [grab Mantras](List_of_Grab_Mantras.md).
 -   Travels for 0.6 seconds.
 -   [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) increase the duration (distance travelled).
 
@@ -125,6 +125,8 @@ N/A
 
 **Ice Daggers** (★☆☆)
 
+**Combat Mantra**
+
 _Form and toss daggers of ice at your aimed opponent._
 
  | 
@@ -132,6 +134,7 @@ _Form and toss daggers of ice at your aimed opponent._
 ## Ice Daggers (★☆☆)
 
   
+**Combat Mantra**  
 _Form and toss daggers of ice at your aimed opponent._
 
  |
@@ -268,6 +271,8 @@ N/A
 
 **Fire Forge** (★☆☆)
 
+**Combat Mantra**
+
 _Toss a nimble dagger._
 
  | 
@@ -275,6 +280,7 @@ _Toss a nimble dagger._
 ## Fire Forge (★☆☆)
 
   
+**Combat Mantra**  
 _Toss a nimble dagger._
 
  |
@@ -312,6 +318,8 @@ Fire
 
 **Ice Lance** (★★☆)
 
+**Combat Mantra**
+
 _Form an ice spear and lunges forward._
 
  | 
@@ -319,6 +327,7 @@ _Form an ice spear and lunges forward._
 ## Ice Lance (★★☆)
 
   
+**Combat Mantra**  
 _Form an ice spear and lunges forward._
 
  |
@@ -419,6 +428,8 @@ Ice
 
 **Ice Cubes** (★★★)
 
+**Combat Mantra**
+
 _Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cubes._
 
  | 
@@ -426,6 +437,7 @@ _Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cu
 ## Ice Cubes (★★★)
 
   
+**Combat Mantra**  
 _Manifest cubes of Ice to fire at your enemies. Cast the Mantra again to fire cubes._
 
  |
@@ -461,16 +473,19 @@ Ice
 -   Explosive Finish \[Common Talent\] **100** \- If an enemy is on fire when you flourish, blast them away with a fire blast.
     -   the equation for this damage is: (weapon damage + 1 blunt damage + 5 flame damage)
     -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
+
 -   Fragile Freeze \[Common Talent\] **100** \- Your Light Attacks and Critical will now freeze chilled opponents on guardbreak.
     -   Guardbreaking a chilled opponent with a weapon attack will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time.
     -   Taking damage by any source (including damage over time effects) will end the freeze early.
     -   You can spam F to get out of Freeze faster.
+
 -   Stock Bash \[Common Talent\] **100** \- Rifles Your running attacks now apply a brief amount of daze.
     -   Applies daze for one second.
+
 -   Frozen Legs \[Rare Talent\] **250** \- Your slow effect prevents your opponents from rolling.
-    -   Does not work with Crystallization.
     -   Lasts the first 0.75 seconds after chill/freeze procs.
     -   Only procs off mantras.
+
 -   Leg Shot \[Rare Talent\] **250** \- Rifles Landing your critical slows your enemy for a bit, and also disables any speed boosts they get for the next 10 seconds.
 
 ### Power 15
@@ -480,15 +495,19 @@ Ice
     -   The Emperor Flame status effect lasts 10 seconds or until you land a basic attack. Emperor Flame has a 30 second cooldown.
     -   Hitting enemies with attacks that apply burn will grant Emperor Flame stacks. This will proc regardless of if the target is currently burning or not. There is a 2 second cooldown for stack gain.
     -   Emperor Flame extinguishes burn applied to yourself through Agitating Spark. If Emperor Flame is on cooldown, your self applied burn will not be extinguished.
+
 -   Tactical Reload \[Rare Talent\] **250** \- Rifles Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
     -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullets.md) for 15 seconds, with a downtime of 75 seconds.
     -   You do not need to have physical bullets in your inventory for this to work.
     -   Has a 45 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), giving it a downtime of only 30 seconds.
     -   This talent has no effect on [Rifle Spear](Rifle_Spear.md).
+
 -   The Final Act \[Rare Talent\] **250** \- Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
     -   Does not have a cooldown.
     -   Deals 5 Flamecharm damage.
     -   Will not proc on knocked NPCs/players and mobs.
+
+  
 
 | 
 **Name**
@@ -524,6 +543,8 @@ Ice
 
 **Flame Wisp** (★★☆)
 
+**Wisp Mantra**
+
 _A servant of flames._
 
  | 
@@ -531,6 +552,7 @@ _A servant of flames._
 ## Flame Wisp (★★☆)
 
   
+**Wisp Mantra**  
 _A servant of flames._
 
  |
@@ -549,35 +571,99 @@ N/A
  |
 | 
 
-**Effect:** The caster summons a wisp of magma. Ritual Casted.
+**Effect:** _The caster summons a wisp of magma. Ritual Casted._
 
 -   Flame Wisp reduces the burn damage you deal by 20% and turns the damage it reduced into healing. This affects ALL burn tick damage you do, whether it be on yourself or others.
 -   Ignites nearby campfire pits if not currently healing you.
--   Flame Wisp also seems to reduce [parasite](Second_Layer/The_Ethironal_Shrine.md#parasites) growth.
--   With **Wraith Path: Twisted Puppets**, you will heal from burns by Shadow Mantras, but not by Flame Mantras.
--   Does not work with Eruption Path: Lava Serpent (BUGGED and has been for a while.)
 -   Converts about 25-30 burning damage total. [Logstones](Mantra_Modifiers.md#regular-modifiers) increase the amount of burn it can convert.
     -   Logstones will increase the amount of keys in the Ritual Cast.
 
  |
 
-### Power 20
-
--   Does not have anything purchasable at Power 20.
-
 ## Boss Unlocks
 
 ### Shogun of the Prophet's Guard
 
-steam grenade
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Steam Grenade** (☆☆☆)
+
+**Combat Mantra**
+
+_TBA_
+
+ | 
+
+## Steam Grenade (☆☆☆)
+
+  
+**Combat Mantra**  
+_TBA_
+
+ |
+| 
+
+? Ether
+
+ | 
+
+?
+
+ | 
+
+defeat [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>)
+
+ |
+| 
+
+**Effect:** _Fire a grenade of steam out of the underbarrel of your Carbine._
+
+-   Instantly creates a steam cloud on hit.
+
+ |
 
 ### Dravik, The Rat King
 
 -   Mist Mobility \[Memento Talent\] - Anytime you proc Boiling Point, increase the speed at which you reload your Vapormaw Carbine and increase your Critical Attack's fire rate.
+    
+    -   Despite what the description states, this actually procs when you activate Flashboil, and not Boiling Point.
 
 ### True Heart of Enmity
 
 -   Explosive Ignition \[Memento Talent\] - Your Produce Sparks now can ignite steam, causing a large explosion.
+    
+    -   If you use the Produce Spark Talent tool while standing inside of a steam cloud, a very large explosion will be caused after a delay, dealing high damage.
+    -   This will consume the steam cloud on proc.
 
 ## Trivia
 

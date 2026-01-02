@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 184689
+revid: 188951
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vendors, NPCs, Mechanics]
@@ -24,9 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Located behind a breakable wall in the [Meteor Isle](../Meteor_Isle.md) cave (with the crashed meteor).
+Located behind a breakable wall in the [Meteor Isle](../Meteor_Isle.md) cave (with the crashed meteor), this Deep Shrine allows you to exchange Talents you own for other Talents at the cost of Knowledge.
 
-When using this shrine, please make sure to **check if you burned the card you're trying to get** using the [Shrine of Conceit](Shrine_of_Conceit.md) or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 5 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
+When using this shrine, please make sure to **check if you burned the card you're trying to get** using the [Shrine of Conceit](Shrine_of_Conceit.md) or **check if you already happen to have it**. Otherwise, it could result in a mistake worth upwards of 10 Knowledge before you realize it wasn't just bad luck or a missing prerequisite.
 
 ## Effects/Details
 

@@ -1,9 +1,9 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 188889
+revid: 189031
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
+categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
 ---
 
 # Nostor, Master of Shadow
@@ -14,6 +14,7 @@ categories: [Individuals with They/them pronouns, Pathfinder Exclusive, Enemies,
 | drops | None |
 | weapon | Crypt Blade |
 | moves | Assault, Critical, Shadow Assault, Rapid Punches |
+| aspect | Ganymede |
 | pronouns | They/them |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -184,7 +185,7 @@ Nostor executes their opponent after knocking them:
 
 ## Trivia
 
--   Nostor, along with [Regek](Regek.md), are non-binary and use They/them pronouns.[\[1\]](#cite-note-1)
+-   Nostor, along with [Regek](Regek.md), are non-binary.[\[1\]](#cite-note-1)
 
 ## References
 

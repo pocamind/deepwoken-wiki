@@ -1,9 +1,9 @@
 ---
 title: Aeroaseluniris Oricalum Forentus
-revid: 188921
+revid: 188985
 source: https://deepwoken.fandom.com/wiki/Aeroaseluniris_Oricalum_Forentus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Aeroaseluniris Oricalum Forentus
@@ -20,41 +20,43 @@ Template:NpcInfobox
 
 ## Description
 
-Aeroaseluniris Oricalum Forentus, or more simply, Aero, is an NPC that greets you when you first enter the town of [Firfire](Firfire.md) within the first floor of the Second Layer.
+Aeroaseluniris Oricalum Forentus is a [Kyrsan](Kyrsgarde.md) NPC. Aero greets the player when they first enter the town of [Firfire](Firfire.md), giving insight on how to get to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
 ## Dialogue
+
+**Base Dialogue:**
 
 **First Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Aelahi frinwalter... Oh apologies, I forgot your kind does not speak our tongue. Hello fringewalker!</td>
+  <td colspan="2">Aelahi frinwalter... Oh apologies, I forgot your kind does not speak our tongue. Hello fringewalker!</td>
 </tr>
 <tr>
-  <td colspan="12">Uh, what is this place?</td>
+  <td colspan="2">Uh, what is this place?</td>
 </tr>
 <tr>
-  <td colspan="12">This is our home. I am Aeroaseluniris Oricalum Forentus, but you may call me Aero.</td>
+  <td colspan="2">This is our home. I am Aeroaseluniris Oricalum Forentus, but you may call me Aero.</td>
 </tr>
 <tr>
-  <td colspan="6">Nice to meet you Aero, how do I get up to that large tower?</td>
-  <td colspan="6">Nah, I'm gonna call you [Wrong name]</td>
+  <td>Nice to meet you Aero, how do I get up to that large tower?</td>
+  <td>Nah, I'm gonna call you [Wrong Name].</td>
 </tr>
 <tr>
-  <td colspan="6">Oh... That tower you speak of was once our pride.. a Grand temple to <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>. But a fringewalker has made his way inside. If you want to get inside you may want to speak to our leader.</td>
-  <td colspan="6">Leader was right, you fringewalkers really are insufferable.</td>
+  <td>Oh... That tower you speak of was once our pride.. a Grand temple to <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>. But a fringewalker has made his way inside. If you want to get inside you may want to speak to our leader.</td>
+  <td>Leader was right, you fringewalkers really are insufferable.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-  <td colspan="6">Nice to meet you [Wrong name], how do I get up to that large tower?</td>
+  <td>[End Dialogue]</td>
+  <td>Nice to meet you [Wrong Name], how do I get up to that large tower?</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
-  <td colspan="6"><i>See first instance</i></td>
+  <td></td>
+  <td colspan="6">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -64,25 +66,47 @@ Aeroaseluniris Oricalum Forentus, or more simply, Aero, is an NPC that greets yo
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Aelahi frinwalker, I hope you are doing well.<br>
-  (Misnamed him) Aelahi frinwalker, here to annoy me some more?</td>
+  <td>[Player called Aero by the correct name]</td>
+  <td>[Player called Aero by the wrong name]</td>
 </tr>
 <tr>
-  <td colspan="6">How do I get up to that large tower?</td>
+  <td>Aelahi frinwalker, I hope you are doing well.</td>
+  <td>Aelahi frinwalker, here to annoy me some more?</td>
 </tr>
 <tr>
-  <td colspan="6">Oh... That tower you speak of was once our pride.. a Grand temple to <a href="Glossary.md#ethrion-the-maelstroms-eye">Ethiron</a>. But a fringewalker has made his way inside. If you want to get inside you may want to speak to our leader.</td>
+  <td colspan="2">How do I get up to that large tower?</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="2">Oh... That tower you speak of was once our pride.. a Grand temple to <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>. But a fringewalker has made his way inside. If you want to get inside you may want to speak to our leader.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked once the player has obtained the Spear of Nakti and returned it to [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td>Aelahi [Kyrsan Name], we appreciate your efforts.</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Oricalum may derive from Orichalcum, a legendary precious metal described by Plato.
--   The "wrong name" you may call Aero is randomly generated and it is per account. It will change their name accordingly when speaking to them.
+-   The "wrong name" the player can call Aero is randomly generated and is per account. It will change his name accordingly when speaking to him.
+-   Oricalum may derive from Orichalcum, a legendary precious metal described by Plato that is heavily associated with the lost city of Atlantis.

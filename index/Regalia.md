@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 186474
+revid: 188945
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -60,7 +60,7 @@ Grants increased [Resonance progress](Resonance.md#bell-progress) gain from all 
 
 ### Worthy
 
-Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). Functionally, this does nothing to progression, abilities, or anything crucial to the game, but it is just a silly piece of dialogue.
+Grants unique dialogue with the [Legendary Boot](Legendary_Boot.md). Functionally, this does nothing to progression, abilities, or anything crucial to the game, but it is just a silly piece of dialogue.
 
 "The Legendary Boot waits for the day that one worthy will claim it. Someone worthy with smaller feet."
 
@@ -68,7 +68,7 @@ Grants unique dialogue with [The Legendary Boot](Legendary_Boot.md). Functionall
 
 When creating a character, you start with a hand of [Resonance](Resonance.md) draws.
 
-This cannot be obtained if you have the Tarnished Flaw, ~and requires you to obtain a resonance at least once on your account before you can get it.~
+This cannot be obtained if you have the [Tarnished](Boons_and_Flaws.md#flaws) Flaw.
 
 This Regalia is **not** kept upon wiping at any power level.
 
@@ -96,9 +96,9 @@ This Regalia is **kept** upon wiping at or below Power 6.
 
 ### Hungerless[\[4\]](#cite-note-archnamedrop2-4)
 
-You no longer lose hunger or thirst (with the exception being blood regeneration, gluttony enchant, vomit)
+You no longer passively lose hunger or thirst. You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst).
 
-You lose a lot less hunger and thirst while regenerating blood (3 Bars of blood for 5% of Hunger and Thirst)
+Vomiting, the [Gluttony](Gluttony.md) Enchantment, and emergency blood regeneration will still cause you to lose hunger and thirst at a normal rate.
 
 ### Insightful[\[4\]](#cite-note-archnamedrop2-4)
 

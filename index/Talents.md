@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 188736
+revid: 189029
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2557,9 +2557,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division, Oppressive Force
 
--   **Amp Overdrive** \[Faction Exclusive\] - When you guardbreak an opponent, double the time they are stunned for. The same is applied to you.
-    -   Doubles the guardbreak stun duration from 1.05 seconds to 2.1 seconds.
-    -   While guardbreaks normally cannot be vented, the extended stun (starting at 1.05s) can be vented.
+-   **Amp Overdrive** \[Faction Exclusive\] - Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.
+    -   Increases Thundercall damage by ?%.
+    -   The Electrify status effect changes your opponent's damage type to Thundercall and gives you 10% damage reduction to their attacks.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 -   **Martial Brutality** \[Faction Exclusive\] - The less health your opponent has, the more posture damage you deal to them.
@@ -4518,7 +4518,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 -   Residual Fury \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In Berserk State Landing your critical grants +50% PEN on Basic Attacks for 8s.
     
-    -   Prerequisites: [Berserker](Berserker.md) Memento, Power 10 shop
+    -   Prerequisites: [Berserker](Berserker.md) Memento, purchased from the Power 10 shop
 
 -   Righteous Rage \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In Berserk State You deal increased damage the lower your health is.
     
@@ -4531,23 +4531,23 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 -   Ruinous Recovery \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Enemies recover 15% less Posture when parrying. Guardbreaking an enemy by parrying them deals massive damage, and can be done against even the strongest of foes.
     
-    -   Prerequisites: [Berserker](Berserker.md) Memento, starter shop
+    -   Prerequisites: [Berserker](Berserker.md) Memento, purchased from the starter shop
 
 -   Until It Is Done \[Memento Talent\] - Your [Berserk State](Status_Effects.md#berserk-state) lasts until you willingly end it.
     
     -   Your Berserk now has an infinite duration, only turning off when you use the Talent tool again.
-    -   Prerequisites: [Berserker](Berserker.md) Memento
+    -   Prerequisite: [Berserker](Berserker.md) Memento
 
 ### Breaker
 
 -   Breakthrough \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture damage on light attacks are increased by 10%.
     
     -   Increases the posture damage of M1s by 10%.
-    -   Prerequisites: [Breaker](Breaker.md) Memento, Power 5 shop
+    -   Prerequisites: [Breaker](Breaker.md) Memento, purchased from the Power 5 shop
 
 -   Calamity Punch \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Every successful [Strong Left](Attunement-less.md#strong-left) builds up stacks to perform a larger scale punch.
     
-    -   Prerequisites: [Breaker](Breaker.md) Memento
+    -   Prerequisite: [Breaker](Breaker.md) Memento
 
 -   Dormant Strength \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - At max Calamity Punch stacks increased posture damage & physical damage.
     
@@ -4558,7 +4558,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
     
     -   Your Rapid Punches posture damage per hit scales on the amount of hits landed/blocked.
     -   At max Calamity Punch stacks, gain hyperarmor during Rapid Punches.
-    -   Prerequisites: [Breaker](Breaker.md) Memento, Power 15 shop
+    -   Prerequisites: [Breaker](Breaker.md) Memento, purchased from the Power 15 shop
 
 -   Shattering Left \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Strong Left](Attunement-less.md#strong-left) and [Wind-up](Wind-Up.md) punches will always guard break mobs.
     
@@ -4571,7 +4571,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
         -   With one stack, your Strong Left cooldown will be reduced by ?s.
         -   With two stacks, your Strong Left will ignore your opponent's armor, on top of the first stack bonus.
         -   With three stacks, your Strong Left will deal additional damage and guardbeak, on top of the first and second stack bonuses.
-    -   Prerequisites: [Breaker](Breaker.md) Memento, starter shop
+    -   Prerequisites: [Breaker](Breaker.md) Memento, purchased from the starter shop
 
 ### Chaotic Moon
 
@@ -4581,7 +4581,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
     -   Defeating the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md), and [True Heart of Enmity](True_Heart_of_Enmity.md) while having this Talent will unlock the [Prince of the Moon](Prince_of_the_Moon.md) Memento.
         -   Equipment such as the [Deranged Treasure](Deranged_Treasure.md), [Oni Mask](Oni_Mask.md), and [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) (unexhaustive) can greatly assist you in this task, as they provide Talents and effects that greatly enhance your character at low Sanity, or allow you to perform actions at the cost of a percentage of your Sanity (free at 0 Sanity).
         -   Additionally, if you time your shivers, using [Levit](Levit.md)'s Retrograde may allow you to shrug off any unavoidable damage you would normally take by shivering and scratching yourself.
-    -   Obtained by interacting with the Moonseye sigil at the [Moon's Eyrie](<Moon's_Eyrie.md>).
+    -   Prerequisites: Obtained by interacting with the Moonseye sigil at the [Moon's Eyrie](<Moon's_Eyrie.md>).
 
 ### Drifter
 
@@ -4651,7 +4651,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 -   Ether Erudite \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - The more total Ether you have, the more damage you deal. Gain Ether Erudite Stacks to improve your combat abilities. The max amount you can hold is 6.
     
-    -   Prerequisites: [Ether Erudite](Ether_Erudite.md) Memento
+    -   Prerequisite: [Ether Erudite](Ether_Erudite.md) Memento
 
 -   Ether Quell \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Landing a Critical Attack or Guardbreaking an opponent gives you 1 Ether Erudite Stack.
     
@@ -4686,7 +4686,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
     -   Weapon damage is stored in lightning orbs above your character's head. Sheathing your weapon will consume all of the orbs and deal the stored damage all at once.
     -   New orbs will be created once you reach certain thresholds of stored damage. You cannot have more than 8 orbs at once, but your stored damage will still be accumulated past this point.
     -   This is essentially the [Poser's Ring](<Poser's_Ring.md>) effect but with a visual aspect.
-    -   Prerequisites: [Flashing Thunder](Flashing_Thunder.md) Memento
+    -   Prerequisite: [Flashing Thunder](Flashing_Thunder.md) Memento
 
 -   Heir of Lightning \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - At max orbs, [Lightning Cloak](Thundercall.md#lightning-cloak) is enhanced.
     
@@ -4704,7 +4704,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
     -   Gives a Talent tool that allows you to command your Phoenix to attack an enemy.
     -   Using the tool at low Heartfire will summon a smaller version of the Phoenix, which can only be used as a [campfire](Campfire_Pit.md).
     -   Summoning an adult Phoenix, then commanding it to take air will allow you to select a spot where it should Divebomb on the next usage of the Talent.
-    -   Prerequisites: [Solborn](Solborn.md) Memento
+    -   Prerequisite: [Solborn](Solborn.md) Memento
 
 -   Heliodar Wings \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Take flight \[H\].
     
@@ -4723,7 +4723,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 -   Prince of the Wind \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You are the one who the wind bends around. Your galebreathe is enhanced.
     
-    -   Prerequisites: [Inheritor of the Gale](Inheritor_of_the_Gale.md) Memento
+    -   Prerequisite: [Inheritor of the Gale](Inheritor_of_the_Gale.md) Memento
 
 ### Innate
 
@@ -4789,7 +4789,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Alloy of the Heavens \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture attack from mobs reduced by 50%
     
     -   Reduces posture damage taken from mobs by 50%.
-    -   Prerequisites: [Iron Vessel](Iron_Vessel.md) Memento, [Power](Power.md) 10 shop
+    -   Prerequisites: [Iron Vessel](Iron_Vessel.md) Memento, purchased from the Power 10 shop
 
 ### Merchant
 
@@ -4797,7 +4797,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Increases the sell price of all items by 20 notes.
     -   This is applied **after** Snake Oil.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, starting shop
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, purchased from the starter shop
 
 -   Know When To Run \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your magic coffin has a higher chance to draw depths loot, but the price is increased.
     
@@ -4815,7 +4815,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Landing basic attacks with the Soulthorn grants a stacking 7.5% damage buff. This caps at +30% damage.
     -   If you get hit while having stacks of Soul Veil, your attacker will steal your stacks for themselves. You can steal your stacks back by hitting them.
-    -   Prerequisites: [Prince of the Moon](Prince_of_the_Moon.md) Memento
+    -   Prerequisite: [Prince of the Moon](Prince_of_the_Moon.md) Memento
 
 ### Rogue Assassin
 
@@ -4828,7 +4828,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Dealing damage by any means gives 1.
     -   Backhits give 50 instead.
     -   These effects also proc on self damage.
-    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento
+    -   Prerequisite: [Rogue Assassin](Rogue_Assassin.md) Memento
 
 -   Double Jump \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Take the Wind Step and refine it into your own technique, reducing the cooldown and improving its efficiency.
     
@@ -4846,7 +4846,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 -   Rogue Assassin \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your assassinations now deal an extra 50 true damage (200 in PvE).
     
-    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento
+    -   Prerequisite: [Rogue Assassin](Rogue_Assassin.md) Memento
 
 -   Terrifying Paralysis \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [Hidden Blade](Authority_Ensign.md#hidden-blade) disables opponents' ability to roll for 3 seconds.
     
@@ -4854,7 +4854,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 -   Total Silence \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Massively reduce the sound of your footsteps and rolls.
     
-    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, Power 20 shop
+    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, purchased from the Power 20 shop
 
 -   True Skulk \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Massively reduce the sounds of your mantra casts.
     
@@ -4862,7 +4862,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 -   Weakening Venom \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Assassinating an opponent decreases the damage they deal by 25% for the next 30 seconds.
     
-    -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento
+    -   Prerequisite: [Rogue Assassin](Rogue_Assassin.md) Memento
 
 ### Sightless
 
@@ -4893,7 +4893,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   If you are hit before you use your next attack, wait out the 1 second proc window, or if your next attack does not land (including if it was blocked, parried, or dodged), you will lose 60 Tempo and will be stunned for 0.5 seconds. During this stun you will not be able to perform any actions, but this stun will not cancel any of your currently active attacks.
     -   The Dancer's Beat Vent has a 2.5 second cooldown compared to the default 10 seconds.
     -   Dancer's Beat can still be used to escape stun locking attacks like [Judgement](Oath%253A_Contractor.md#judgement) and [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>)'s attacks.
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento
+    -   Prerequisite: [Spear Dancer](Spear_Dancer.md) Memento
 
 -   Dancer's Geas \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.
     
@@ -4901,12 +4901,12 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   When you land an attack from half or less than half of your weapon's range, an icon of a thumbs down will appear, signifying that you were debuffed.
     -   Also procs on weapon criticals.
     -   Because of how monster hitboxes work, you will almost always benefit from the positive effect of this Talent while fighting non-humanoids, regardless of how close to them are are.
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento
+    -   Prerequisite: [Spear Dancer](Spear_Dancer.md) Memento
 
 -   Dancer's Impale \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     
     -   Essentially, this is Lancer's Impale without being weapon type locked.
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, starting shop
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, purchased from the starter shop
 
 -   Dancer's Sting \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Striking with the tip of your weapon applies +25% PEN and +25% Chip Damage.
     
@@ -4920,11 +4920,11 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Ga Dearg \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Striking a bleeding enemy with the tip of your weapon extends the bleed.
     
     -   Hitting a bleeding enemy with the tip of your weapon will reapply the bleed.
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, starting shop
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, purchased from the starter shop
 
 -   Kick the Beat \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Dancer's Beat now works with Critical Attacks.
     
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 15 shop
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, purchased from the Power 15 shop
 
 -   Not My Tempo \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Dancer's Beat grants Hyperarmor.
     
@@ -4933,7 +4933,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Two Left Feet \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
     
     -   Essentially, this is Defensive Sweep without being weapon type locked.
-    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, Power 10 shop
+    -   Prerequisites: [Spear Dancer](Spear_Dancer.md) Memento, purchased from the Power 10 shop
 
 ### Solborn
 
@@ -4950,7 +4950,24 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Spawns a small orange, stationary, Phoenix near you. The size of the Phoenix will increase based on the user's level.
     -   This Phoenix can be used like a campfire to rest and heal yourself.
     -   Utilized in many other Solborn Talents.
-    -   Prerequisites: [Solborn](Solborn.md) Memento
+    -   Prerequisite: [Solborn](Solborn.md) Memento
+
+### Steampunk Soldier
+
+-   Explosive Ignition \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Produce Sparks now can ignite steam, causing a large explosion.
+    
+    -   If you use the Produce Spark Talent tool while standing inside of a steam cloud, a very large explosion will be caused after a delay, dealing high damage.
+    -   This will consume the steam cloud on proc.
+    -   Prerequisites: [Steampunk Soldier](Steampunk_Soldier.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
+
+-   Mist Mobility \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Anytime you proc Boiling Point, increase the speed at which you reload your [Vapormaw Carbine](Vapormaw_Carbine.md) and increase your Critical Attack's fire rate.
+    
+    -   Despite what the description states, this actually procs when you activate Flashboil, and not Boiling Point.
+    -   Prerequisites: [Steampunk Soldier](Steampunk_Soldier.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
+
+-   Steampunk Soldier \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Increase the size of your steam which you activate Flashboil. Flashboil's cooldown is also reduced.
+    
+    -   Prerequisite: [Steampunk Soldier](Steampunk_Soldier.md) Mememnto
 
 ### Steelvessel
 
@@ -4965,7 +4982,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Upon being guardbroken, the damage you take will be massively increased. This can prove fatal and ignore certain lifelines such as [Memory Shards](Memory_Shard.md).
     -   Posture restoration from parrying attacks is reduced.
     -   All forms of healing, most notably [Etris Flasks](Etris_Flask.md) are massively reduced.
-    -   Prerequisites: [Iron Vessel](Iron_Vessel.md) Memento
+    -   Prerequisite: [Iron Vessel](Iron_Vessel.md) Memento
 
 ### Strange Merchant
 
@@ -4978,7 +4995,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   After defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md), you gain the Know When to Run Talent. This adds the entire [Depths](<The_Depths_(Vow_of_Iron).md>) lootpool is added to the Coffin, but the Coffin's price is increased by 50%.
     -   Coffin activation uses your Resonance keybind.
     -   You can use any weapon or equipment item without meeting their **attribute** requirements.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento
+    -   Prerequisite: [Strange Merchant](Strange_Merchant.md) Memento
 
 ### The Emperor's Blade
 
@@ -4997,7 +5014,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Storm Return \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Being under lightning/wind status effect causes your Basic Attacks and Criticals to do 10% more damage. (Amplified with [Lightning Cloak](Thundercall.md#lightning-cloak))
     
     -   Being under the effects of Amped or Lightning Cloak will proc this effect.
-    -   Prerequisites: [Theros Disciple](Theros_Disciple.md) Memento, starting shop
+    -   Prerequisites: [Theros Disciple](Theros_Disciple.md) Memento, purchased from the starter shop
 
 ### Toxic Personality
 
@@ -5005,16 +5022,16 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, starting shop
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, purchased from the starter shop
 
 -   Jackpot \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Charmed enemies now have a chance to be hit critically, multiplying the damage.
     
     -   There is a ?% chance that your hits against a Charmed target will be a critical hit, dealing significantly more damage.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, Power 20 shop
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, purchased from the Power 20 shop
 
 -   Sweeten the Deal \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
     
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, Power 10 shop
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, purchased from the Power 10 shop
 
 -   Taunting Tongue \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your [taunt](Attunement-less.md#taunt) now applies [Madness](Status_Effects.md#madness).
 
@@ -5032,7 +5049,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Gives a small amount of maximum health when you kill a player. This health is based on your opponent's maximum Ether. You will also be slowed, with the slow being based on how much maximum health you've siphoned.
     -   On proc a message at the top of your screen will display: "You siphon some of your victim's ether, netting you x more health."
-    -   Prerequisites: [Void Glutton](Void_Glutton.md) Memento
+    -   Prerequisite: [Void Glutton](Void_Glutton.md) Memento
 
 -   Dark Harvest \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Steal all of the hunger of enemies caught in your [Shadow Vortex](Shadowcast.md#shadow-vortex). Knocking a player also greatly enhances your next Shadow Vortex.
     
@@ -5061,7 +5078,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 -   Pleeksty's Inheritance \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You inherit the teachings of Amorus Pleeksty, augmenting your flamecharm mantras.
     
     -   Makes your Flamecharm Mantras extremely loud.
-    -   Prerequisites: [Flame Worshipper](Flame_Worshipper.md) Memento
+    -   Prerequisite: [Flame Worshipper](Flame_Worshipper.md) Memento
 
 ### Weapon Talents
 

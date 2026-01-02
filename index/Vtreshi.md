@@ -1,6 +1,6 @@
 ---
 title: Vtreshi
-revid: 188922
+revid: 189028
 source: https://deepwoken.fandom.com/wiki/Vtreshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
@@ -38,13 +38,13 @@ An [Etrean](Etrean.md) [apprentice Diver](Apprentice_Diver.md) in the snow below
 </tr>
 <tr>
   <td>What does the Ignition Union have to do with this?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>Those hooks... the saviors hanging from the bridges in this wasteland, from highpoints to heavens above. They're Ignition Union machines that let people ascend.. if they're granted the right tool from the Union. <i>*She looks down, sorrowfully.*</i> But, for us <a href="Glossary.md#the-divers">Divers</a> below... we are left to freeze, with no heavens to guide us.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

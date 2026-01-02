@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 188333
+revid: 188946
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -267,6 +267,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
             -   Umbral Knight is not affected by this.
         -   **Some criticals (currently only Pale Briar, First LIght, and Kyrsieger confirmed)**
         -   **Gran Sudaruska's Passive**
+        -   **Jar of Souls**
 
   
 

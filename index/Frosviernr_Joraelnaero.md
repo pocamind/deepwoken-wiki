@@ -1,18 +1,12 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 188821
+revid: 189018
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Floor 2, Layer 2, Quests]
+categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, Quests, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Frosviernr Joraelnaero
-
-| Frosviernr Joraelnaero | |
-|---|---|
-| name | Frosviernr Jorealnaero |
-| aspect | Kyrsan |
-| location | New Kyrsa |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -22,13 +16,15 @@ This content is not accessible outside of this gamemode.
 
 ― Naerotiv
 
-An NPC found in **[Floor 2](Second_Layer/New_Kyrsa.md)** of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
+Template:NpcInfobox
 
-He is the brother of Kyrsan NPC [Naerotiv](Naerotiv.md).
+Frosviernr is an NPC found in [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
+
+He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 
 ## Dialogue
 
-**Ethiron undefeated:**
+**Scion of Ethiron not yet defeated:**
 
 <table>
 <tbody>
@@ -39,12 +35,12 @@ He is the brother of Kyrsan NPC [Naerotiv](Naerotiv.md).
   <td colspan="12">Await the call... A thousand worlds beneath our feet.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
-**Ethiron defeated:**
+**Scion of Ethiron defeated:**
 
 <table>
 <tbody>
@@ -69,7 +65,7 @@ He is the brother of Kyrsan NPC [Naerotiv](Naerotiv.md).
   <td colspan="6">Ah, a good name... Thank you for bringing me some peace in my final moments, [Your First Name]...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +81,7 @@ He is the brother of Kyrsan NPC [Naerotiv](Naerotiv.md).
   <td colspan="12">You have no need to linger around this fool any longer.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

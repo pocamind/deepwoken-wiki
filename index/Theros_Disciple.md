@@ -1,6 +1,6 @@
 ---
 title: Theros Disciple
-revid: 188006
+revid: 188934
 source: https://deepwoken.fandom.com/wiki/Theros_Disciple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -87,7 +87,7 @@ NOTE: If you unequip your [Imperator's Edge](<Imperator's_Edge.md>), you will **
 
 **Warp Kick** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Perform a kick, then warp to your enemies for a second followup kick._
 
@@ -96,7 +96,7 @@ _Perform a kick, then warp to your enemies for a second followup kick._
 ## Warp Kick (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Perform a kick, then warp to your enemies for a second followup kick._
 
  |
@@ -177,7 +177,7 @@ N/A
 
 **Skycrash** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Dash forward in a blink, knocking down enemies in your path._
 
@@ -186,7 +186,7 @@ _Dash forward in a blink, knocking down enemies in your path._
 ## Skycrash (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Dash forward in a blink, knocking down enemies in your path._
 
  |
@@ -218,7 +218,7 @@ Blunt + Oath
 
 **Tornado Kick** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3 more._
 
@@ -227,7 +227,7 @@ _Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3
 ## Tornado Kick (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Kick a gust of wind forward, if it hits an enemy leap into the air and launch 3 more._
 
  |
@@ -314,7 +314,7 @@ Wind
 
 **Windfall** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _A devastating crash of wind._
 
@@ -323,7 +323,7 @@ _A devastating crash of wind._
 ## Windfall (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _A devastating crash of wind._
 
  |
@@ -349,7 +349,7 @@ Wind
 
 **Emotion Wave** (★★★)
 
-**Combat**
+**Combat Mantra**
 
 _Conjure up surging waves of lightning that travel along the ground._
 
@@ -358,7 +358,7 @@ _Conjure up surging waves of lightning that travel along the ground._
 ## Emotion Wave (★★★)
 
   
-**Combat**  
+**Combat Mantra**  
 _Conjure up surging waves of lightning that travel along the ground._
 
  |
@@ -438,7 +438,7 @@ Lightning
 
 **Rising Wind** (★★☆)
 
-**Combat**
+**Combat Mantra**
 
 _Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_
 
@@ -447,7 +447,7 @@ _Use wind to uppercut and propel yourself into the air. Press F after hitting an
 ## Rising Wind (★★☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Use wind to uppercut and propel yourself into the air. Press F after hitting an opponent to impale them_
 
  |
@@ -481,7 +481,7 @@ Wind + Blunt
 
 **Updraft** (★☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _A lifting torrent of wind._
 
@@ -490,7 +490,7 @@ _A lifting torrent of wind._
 ## Updraft (★☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _A lifting torrent of wind._
 
  |
@@ -578,7 +578,7 @@ Wind + Slash
 
 **Gale Punch** (★☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Form a punch of wind in your fist and release it._
 
@@ -587,7 +587,7 @@ _Form a punch of wind in your fist and release it._
 ## Gale Punch (★☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Form a punch of wind in your fist and release it._
 
  |
@@ -621,7 +621,7 @@ Wind + Slash
 
 **Sovereign Drive** (☆☆☆)
 
-**Combat**
+**Combat Mantra**
 
 _Dash forward in a blink, knocking down enemies in your path._
 
@@ -630,7 +630,7 @@ _Dash forward in a blink, knocking down enemies in your path._
 ## Sovereign Drive (☆☆☆)
 
   
-**Combat**  
+**Combat Mantra**  
 _Dash forward in a blink, knocking down enemies in your path._
 
  |
@@ -698,7 +698,7 @@ Oath + Blunt
 
 **Lightning Cloak** (★★★)
 
-**Mobility**
+**Mobility Mantra**
 
 _A cloak of lightning itself._
 
@@ -707,7 +707,7 @@ _A cloak of lightning itself._
 ## Lightning Cloak (★★★)
 
   
-**Mobility**  
+**Mobility Mantra**  
 _A cloak of lightning itself._
 
  |
@@ -743,7 +743,7 @@ N/A
 
 **Rising Thunder** (★★★)
 
-**Combat**
+**Combat Mantra**
 
 _Rise up with your opponent and crash down as a bolt of lightning._
 
@@ -752,7 +752,7 @@ _Rise up with your opponent and crash down as a bolt of lightning._
 ## Rising Thunder (★★★)
 
   
-**Combat**  
+**Combat Mantra**  
 _Rise up with your opponent and crash down as a bolt of lightning._
 
  |

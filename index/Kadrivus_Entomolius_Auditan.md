@@ -1,26 +1,22 @@
 ---
 title: Kadrivus Entomolius Auditan
-revid: 188727
+revid: 189008
 source: https://deepwoken.fandom.com/wiki/Kadrivus_Entomolius_Auditan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, Quests, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, Quests, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Kadrivus Entomolius Auditan
-
-| Kadrivus Entomolius Auditan | |
-|---|---|
-| name | Kadrivus Entomolius Auditan |
-| species | Kyrsan |
-| location | Second Layer |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of the map. Upon speaking to him, the player can complete his task to obtain [Murmur: Rhythm](Murmur%253A_Rhythm.md).
+Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of the map. Upon speaking to them, the player can complete their task to obtain [Murmur: Rhythm](Murmur%253A_Rhythm.md).
 
 ## Dialogue
 
@@ -49,7 +45,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
   <td colspan="12">Listen to the Harmonium and point out its lowest pitch.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -74,7 +70,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
   <td colspan="12">Impressive, let's see if you can do it again.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +86,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
   <td colspan="12">I must say I'm impressed. As promised, I'll teach you the way of Rhythm. Improving it lies in your hands.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +102,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
   <td colspan="12">The stones. They continue to chant in Harmony.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 187732
+revid: 188949
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 The memento also starts with [Warlock's Mantle](<Warlock's_Mantle.md>) equipped, however, the item seems to be bugged and shows the wrong stats. It also disappears upon being unequipped or replaced.
 
-Strange Merchant can ignore all requirements (stat and otherwise) on equipment, weapons and outfits.
+Strange Merchant can ignore all requirements (stat and otherwise) on equipment, weapons and outfits (with a few exceptions).
 
 Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#instigator) talent on [Pathfinder](Pathfinder.md)
 
@@ -57,7 +57,7 @@ To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on myster
     -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
     -   There is a relatively high chance to get Skull(previously known as the Enforcer Labubu)[\[1\]](#cite-note-0-1), which can either be a blank that gives nothing and laughs at you or gives a rare item.
     -   Coffin activation uses your Resonance keybind.
-    -   You can use any weapon or equipment item without meeting their **attribute** requirements. This also applies to outfits.
+    -   You can use any weapon or equipment item without meeting their **attribute** requirements. This also applies to outfits (with some exceptions).
 
 -   Benefactor: \[Equipment Talent\] - Gain reputation for selling goods to Antiquarians within faction territories.
     -   Grants faction [reputation](Reputation.md) when selling items to their respective Antiquarian.

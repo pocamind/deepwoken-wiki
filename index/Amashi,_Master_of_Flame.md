@@ -1,9 +1,9 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 188801
+revid: 188961
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Amashi, Master of Flame
@@ -14,6 +14,8 @@ categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs loca
 | drops | None |
 | weapon | Hero Blade of Flame |
 | moves | Assault, Critical, Fire Blade, Flame Repulsion, Flame Assault |
+| aspect | Vesperian |
+| pronouns | They/them |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 Amashi is a [Vesperian](Vesperian.md) NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Flamecharm](Flamecharm.md) trainer.
 
-In order to obtain Flamecharm, you must bring 2 [Dying Embers](Dying_Embers.md) to Amashi, though, if you have NEVER unlocked [Flamecharm](Flamecharm.md) before at any point, you would need 5 [Dying Embers](Dying_Embers.md). Alternatively, if you have obtained the Silentheart Oath, you must kill him in order to get one of five Oath Talents. He is found in the [Songseekers Wilds](Songseeker_Wilds.md) inside the [Songseeker Temple](Songseeker_Temple.md).
+In order to obtain Flamecharm, you must bring 2 [Dying Embers](Dying_Embers.md) to Amashi, though, if you have NEVER unlocked [Flamecharm](Flamecharm.md) before at any point, you would need 5 [Dying Embers](Dying_Embers.md). Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of five Oath Talents. They are found in the [Songseeker Wilds](Songseeker_Wilds.md) inside the [Songseeker Temple](Songseeker_Temple.md).
 
 ## Location
 
@@ -254,4 +256,4 @@ Amashi executes his opponent after knocking them:
 
 ## Tips
 
--   When fighting him, you may either choose to parry trade and fight normally, or do a strategy, similar to [Duke Erisia](Duke_Ishamon_Erisia.md), where you pin him against the wall and spam your critical.
+-   When fighting them, you may either choose to parry trade and fight normally, or do a strategy, similar to [Duke Erisia](Duke_Ishamon_Erisia.md), where you pin them against the wall and spam your critical.

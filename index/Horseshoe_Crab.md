@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 187371
+revid: 188955
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -36,3 +36,4 @@ Horseshoe Crabs are small, brown creatures with a long tail. They have a hard sh
 
 -   Can spawn [Attuned](Monsters.md).
 -   Formerly could only be spawned by developers.
+-   Based of real [Horseshoe Crab](https://en.wikipedia.org/wiki/Horseshoe_crab) from real life.

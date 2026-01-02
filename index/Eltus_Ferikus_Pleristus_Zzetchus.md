@@ -1,18 +1,12 @@
 ---
 title: Eltus Ferikus Pleristus Zzetchus
-revid: 188714
+revid: 188974
 source: https://deepwoken.fandom.com/wiki/Eltus_Ferikus_Pleristus_Zzetchus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Eltus Ferikus Pleristus Zzetchus
-
-| Eltus Ferikus Pleristus Zzetchus | |
-|---|---|
-| name | Eltus Ferikus Pleristus Zzetchus |
-| aspect | Kyrsan |
-| location | Firfire |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -22,34 +16,64 @@ This content is not accessible outside of this gamemode.
 
 ― Eltus Ferikus Pleristus Zzetchus
 
-Eltus Ferikus Pleristus Zzetchus is a Kyrsan NPC residing in [Firfire](Firfire.md) within the first floor of Layer 2. They guard the wind gate that leads to the entrance of the [Firfire Caverns](Firfire_Caverns.md), which they will unlock only after successfully speaking with their leader, or having turned in the spear to said leader. You do not need to talk to them to progress in the dungeon, but having them open the gate can be useful.
+Template:NpcInfobox
+
+## Description
+
+Eltus Ferikus Pleristus Zzetchus is a [Kyrsan](Kyrsgarde.md) NPC. They guard the wind gate that leads to the entrance of the [Firfire Caverns](Firfire_Caverns.md) at [Firfire](Firfire.md), which they will unlock only after returning the Spear of Nakti to [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md).
 
 ## Dialouge
+
+**Base Dialogue:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="6">Frinwalter... I can not let you through. See our leader.</td>
+  <td>Frinwalter... I can not let you through. See our leader.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
+**Unlockable Dialogue:**
+
+**Orders Given:**
+
+This dialogue is unlocked once the player has been given orders to retrieve the Spear of Nakti.
+
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="6">I see you have orders from our leader, you may pass. Be careful Frinwalter, making noise in those caves may awaken some things best left sleeping.</td>
+  <td>I see you have orders from our leader, you may pass. Be careful Frinwalter, making noise in those caves may awaken some things best left sleeping.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Spear Retrieved:**
+
+This dialogue is unlocked once the player has returned the Spear of Nakti to [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Aelahi [Kyrsan Name], safe travels.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
