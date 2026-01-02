@@ -1,24 +1,18 @@
 ---
 title: Suri
-revid: 187756
+revid: 188908
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
+categories: [Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
 ---
 
 # Suri
 
-| Suri | |
-|---|---|
-| name | Suri |
-| aspect | Vesperian |
-| location | Greathive Aratel |
-| affiliation | The Hive |
-| family | Suri's brother |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 
@@ -28,7 +22,7 @@ Suri is an NPC belonging to the Hive faction. Talking to him will start the Grav
 
 Suri is located in [Greathive Aratel](Greathive_Aratel.md) beside the stairs leading to the heart plaza and the R&D entrance.
 
-## Quest Details
+## Quest
 
 Completing his quest will grant the player 1 [Vibrant Gem](Mantra_Modifiers.md), EXP, positive [Hive](The_Hive.md) reputation, and Compassion.
 

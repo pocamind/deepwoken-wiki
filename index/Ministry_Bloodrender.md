@@ -1,9 +1,9 @@
 ---
 title: Ministry Bloodrender
-revid: 176730
+revid: 188891
 source: https://deepwoken.fandom.com/wiki/Ministry_Bloodrender
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Ministry Enemies, The Ministry, Enemies that can wield Enchantments]
+categories: [Pathfinder Exclusive, Enemies, Ministry Enemies, The Ministry, Enemies that can wield Enchantments]
 ---
 
 # Ministry Bloodrender
@@ -15,13 +15,17 @@ categories: [Enemies, Ministry Enemies, The Ministry, Enemies that can wield Enc
 | weapon | Krulian Knife |
 | moves | Assault, Critical, Crucifixion, Scarlet Cyclon, Razor Blitz |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 ## Description
 
 The Ministry Bloodrenders are a tri-group of blood cultists, working under the second prophet of [The Ministry](The_Ministry.md). They utilize [Bloodrend](Bloodrend.md) Mantras and their [Krulian Knives](Krulian_Knife.md) to defeat their adversaries.
 
 They can spawn in the [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) if the player has hunted [reputation](Reputation.md) with [The Ministry](The_Ministry.md), or near the entrance to the [Derelict Highchurch](Derelict_Highchurch.md) if the player takes [Vyrelda's](Vyrelda,_Master_of_Blood.md) quest, as an alternative to descending to the [Second Layer](Second_Layer.md) and killing [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) for [Heartstars](Heartstar.md) in order to get [Bloodrend](Bloodrend.md). (Do note that she only shows up there after obtaining [Bloodrend](Bloodrend.md).)
 
-Defeating one of them rewards the player with 1 [Heartstar](Heartstar.md) bad [Ministry](The_Ministry.md) [reputation](Reputation.md). Defeating all of them rewards the player with a [chest](Chests_&_Sacks.md) containing [Second Layer](Second_Layer.md) loot.
+Defeating one of them rewards the player with 1 [Heartstar](Heartstar.md) and bad [Ministry](The_Ministry.md) [reputation](Reputation.md). Defeating all of them rewards the player with a [chest](Chests_&_Sacks.md) containing [Second Layer](Second_Layer.md) loot.
 
 ## Moveset
 

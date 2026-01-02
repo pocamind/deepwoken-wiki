@@ -1,23 +1,22 @@
 ---
 title: Eres
-revid: 168259
+revid: 188897
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Etrea, NPCs located in the Eastern Luminant]
+categories: [Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Eastern Luminant]
 ---
 
 # Eres
 
-| Eres | |
-|---|---|
-| name | Eres |
-| aspect | Etrean |
-| location | Meteor Isle |
-| affiliation | Etrea |
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ We few cannot change the world to make it better for everyone. But if we can make it better for at least some... I feel like that's a cause worth living and dying for. Wouldn't you agree? ”
 
 ― Eres
+
+Template:NpcInfobox
 
 ## Description
 

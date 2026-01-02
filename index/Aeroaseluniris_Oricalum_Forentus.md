@@ -1,18 +1,12 @@
 ---
 title: Aeroaseluniris Oricalum Forentus
-revid: 188713
+revid: 188921
 source: https://deepwoken.fandom.com/wiki/Aeroaseluniris_Oricalum_Forentus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Aeroaseluniris Oricalum Forentus
-
-| Aeroaseluniris Oricalum Forentus | |
-|---|---|
-| name | Aeroaseluniris Oricalum Forentus |
-| aspect | Kyrsan |
-| location | Firfire |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -20,11 +14,13 @@ This content is not accessible outside of this gamemode.
 
 “ Leader was right, you fringewalkers really are insufferable. ”
 
-― Aero when the player misnames him
+― Aero when the Pathfinder misnames them
+
+Template:NpcInfobox
 
 ## Description
 
-Aeroaseluniris Oricalum Forentus, or more simply, Aero, is an NPC that greets you when you first enter the town of [Firfire](Firfire.md) within the first floor of Layer 2. You do not need to talk to him to progress in the dungeon, but he does offer you some instructions.
+Aeroaseluniris Oricalum Forentus, or more simply, Aero, is an NPC that greets you when you first enter the town of [Firfire](Firfire.md) within the first floor of the Second Layer.
 
 ## Dialogue
 
@@ -89,4 +85,4 @@ Aeroaseluniris Oricalum Forentus, or more simply, Aero, is an NPC that greets yo
 ## Trivia
 
 -   Oricalum may derive from Orichalcum, a legendary precious metal described by Plato.
--   The "wrong name" you may call Aero is randomly generated and it is per account. It will change his name accordingly when speaking to him.
+-   The "wrong name" you may call Aero is randomly generated and it is per account. It will change their name accordingly when speaking to them.

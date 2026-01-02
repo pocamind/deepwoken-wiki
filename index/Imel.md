@@ -1,9 +1,9 @@
 ---
 title: Imel
-revid: 168894
+revid: 188886
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant]
 ---
 
 # Imel
@@ -14,6 +14,10 @@ categories: [Adret NPCs, NPCs, Quests, The Ministry, NPCs located in the Etrean 
 | aspect | Adret |
 | location | The Etrean Sea |
 | affiliation | The Ministry |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

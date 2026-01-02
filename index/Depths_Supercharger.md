@@ -1,6 +1,6 @@
 ---
 title: Depths Supercharger
-revid: 185051
+revid: 188890
 source: https://deepwoken.fandom.com/wiki/Depths_Supercharger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -29,6 +29,8 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Isshin's Ring is [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ring" category.
+Depths Supercharger is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ring" category.
 
 This Ring reduces the user's Mantra slots down to two in exchange for greatly buffing their Mantras and giving the user more Ether and Tempo.
+
+The "great buff" mentioned is simply increasing the 2 selected mantras' level by 3.

@@ -1,26 +1,20 @@
 ---
 title: The Lord Regent
-revid: 188029
+revid: 188905
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
+categories: [Pages with reference errors, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
 ---
 
 # The Lord Regent
-
-| The Lord Regent | |
-|---|---|
-| name | Zi'eer[1] |
-| alias | The Lord Regent, The 4th Prophet of The Ministry[1] |
-| pronouns | He/him |
-| location | Etris Palace |
-| affiliation | The Ministry, Etrea |
 
 Template:ModeCounterpart
 
 “ Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed. ”
 
 ― The Lord Regent
+
+Template:NpcInfobox
 
 ## Description
 
@@ -432,5 +426,5 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-oc-1-0) [1.1](#cite-ref-oc-1-1) [1.2](#cite-ref-oc-1-2) [Oath: Contractor](Oath%253A_Contractor.md)
+1.  [↑](#cite-ref-oc-1-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `O:C`
 2.  ↑ [2.0](#cite-ref-opr-2-0) [2.1](#cite-ref-opr-2-1) [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)

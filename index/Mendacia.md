@@ -1,9 +1,9 @@
 ---
 title: Mendacia
-revid: 188712
+revid: 188911
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, NPCs located in the Second Floor of the Second Layer, Quests]
+categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, NPCs located in the Second Floor of the Second Layer, Quests]
 ---
 
 # Mendacia
@@ -13,6 +13,7 @@ categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First F
 | name | Ethiron |
 | alias | Mendacia |
 | aspect | Tiran |
+| pronouns | She/her |
 | location | Ethironal Shrine Outskirts, Firfire Caverns, Kyrsan Wilds, New Kyrsa, The Sleeping City |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

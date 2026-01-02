@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 188626
+revid: 188926
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on their back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan Zakshun also wears a hat made out of kelp on his head, which he claim is for later consumption.
+Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on their back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan Zakshun also wears a hat made out of kelp on his head, which he claims is for later consumption.
 
 Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). He has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
 
@@ -161,9 +161,9 @@ Traan's Salvaged Stock
 
   
 
-Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sell 3 to 4 items each visit.
+Depending on the rotation, he can sell 1 to 4 items at once. Typically, he sells 3 to 4 items each visit.
 
-Traan's item descriptions will change randomly each time he sell goods from his Salvaged Stock:
+Traan's item descriptions will change randomly each time he sells goods from his Salvaged Stock:
 
 -   _A rare find indeed._
 -   _An item most regal!_
@@ -316,7 +316,7 @@ Traan's Black Market Cache
 
 The black market rotation always has 4 items in stock.
 
-Traan's item descriptions will change randomly each time he sell goods from his Black Market Cache:
+Traan's item descriptions will change randomly each time he sells goods from his Black Market Cache:
 
 -   _A strange blue turnip salesman once told me that deep forests, like the ones in Upper Erisia, bring in good coin. Gotta say, he's right._
 -   _All sales are final. I'm limited liability, yeah?_

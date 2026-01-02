@@ -1,9 +1,9 @@
 ---
 title: Rimil
-revid: 168893
+revid: 188888
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Rimil
@@ -14,6 +14,10 @@ categories: [Canor NPCs, NPCs, The Ministry, NPCs located in the Eastern Luminan
 | aspect | Canor |
 | location | Meteor Isle |
 | affiliation | The Ministry |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

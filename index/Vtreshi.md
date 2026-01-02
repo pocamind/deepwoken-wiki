@@ -1,27 +1,22 @@
 ---
 title: Vtreshi
-revid: 188728
+revid: 188922
 source: https://deepwoken.fandom.com/wiki/Vtreshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
 ---
 
 # Vtreshi
-
-| Vtreshi | |
-|---|---|
-| name | Vtreshi |
-| aspect | Etrean |
-| location | Ethironal Shrine Sanctuary |
-| affiliation | The Divers |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-An [Etrean](Etrean.md) [apprentice diver](Apprentice_Diver.md) in the snow below in [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md). She talks about her desertion from Chaser's expedition team to the [Ignition Union](The_Ignition_Union.md), in hopes of escaping layer 2 but ultimately turned away. Unable to receive a [union hook](https://deepwoken.fandom.com/wiki/Talent_Quests#Union_Hook) for herself.
+An [Etrean](Etrean.md) [apprentice Diver](Apprentice_Diver.md) in the snow below in [Ethironal Shrine Sanctuary](Ethironal_Shrine_Sanctuary.md). She talks about her desertion from Chaser's expedition team to [the Ignition Union](The_Ignition_Union.md) in hopes of escaping the Second Layer but was ultimately turned away, unable to receive a [union hook](Talent_Quests.md#union-hook) for herself.
 
 ## Dialogue
 

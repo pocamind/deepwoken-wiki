@@ -1,19 +1,12 @@
 ---
 title: Llevyn
-revid: 188735
+revid: 188910
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
 ---
 
 # Llevyn
-
-| Llevyn | |
-|---|---|
-| name | Llevyn |
-| aspect | Adret |
-| location | The Frontier Furnace |
-| affiliation | The Ignition Union |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,15 +16,17 @@ This content is not accessible outside of this gamemode.
 
 ― Llevyn
 
+Template:NpcInfobox
+
 ## Description
 
-Llevyn is an [Adret](Adret.md) NPC in the [Second Layer](Second_Layer.md). Talking to him after powering on the Generator, he can call down an **Ignition Deepdriller** which will arrive at the end of the [Nest Corridor](Nest_Corridor.md).
+Llevyn is an [Adret](Adret.md) NPC in the [Second Layer](Second_Layer.md). Talking to them after powering on the Generator, they can call down an **Ignition Deepdriller** which will arrive at the end of the [Nest Corridor](Nest_Corridor.md).
 
 The Deepdriller escape method is mainly used by players that got here without a Light Hook and don't want to risk dying from the parasites or [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 
 ## Location
 
-Llevyn is located in the First Floor of the [Second Layer](Second_Layer.md). He can be found in 2 places. First as 'Radio' in the [Pilgrim's Respite](<Pilgrim's_Respite.md>), and second with his real location being in [The Frontier Furnace](The_Frontier_Furnace.md).
+Llevyn is located in the First Floor of the [Second Layer](Second_Layer.md). They can be found in two places. First as 'Radio' in the [Pilgrim's Respite](<Pilgrim's_Respite.md>), and second with their real location being in [The Frontier Furnace](The_Frontier_Furnace.md).
 
 ## Dialogue
 
@@ -219,6 +214,6 @@ This is an Easter Egg that happens when you glitch inside to enter [The Frontier
 
 ## Trivia
 
--   There is an Easter Egg if the player talks to him too early. He uses unique dialogue if the generator has not been activated, seemingly calling out the player for being an exploiter.
+-   There is an Easter Egg if the player talks to them too early. They use unique dialogue if the generator has not been activated, seemingly calling out the player for being an exploiter.
     -   Despite this, there are other ways to get in to The Frontier Furnace, such as glitching through using Mantras, so this interaction does not ban you outright.
--   He is a Boulder variant Adret.
+-   They are a Boulder variant Adret.

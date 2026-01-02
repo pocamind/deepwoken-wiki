@@ -1,9 +1,9 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 188672
+revid: 188889
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with They/them pronouns, Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
+categories: [Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
 ---
 
 # Nostor, Master of Shadow
@@ -15,6 +15,10 @@ categories: [Individuals with They/them pronouns, Enemies, Attunement Trainers, 
 | weapon | Crypt Blade |
 | moves | Assault, Critical, Shadow Assault, Rapid Punches |
 | pronouns | They/them |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
