@@ -1,12 +1,16 @@
 ---
 title: Echoes of Bloodshed
-revid: 178809
+revid: 188744
 source: https://deepwoken.fandom.com/wiki/Echoes_of_Bloodshed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Chime of Conflict Arenas]
+categories: [Pathfinder Exclusive, Locations, Chime of Conflict Arenas]
 ---
 
 # Echoes of Bloodshed
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Echoes of Bloodshed LocationR
 

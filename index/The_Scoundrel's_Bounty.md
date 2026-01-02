@@ -1,12 +1,16 @@
 ---
 title: "The Scoundrel's Bounty"
-revid: 187414
+revid: 188780
 source: https://deepwoken.fandom.com/wiki/The_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Dungeons]
+categories: [Pathfinder Exclusive, Locations, Dungeons]
 ---
 
 # The Scoundrel's Bounty
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL The Scoundrel's Bounty LocationR
 

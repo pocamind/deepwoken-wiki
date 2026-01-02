@@ -1,9 +1,9 @@
 ---
 title: Tillian
-revid: 180437
+revid: 188879
 source: https://deepwoken.fandom.com/wiki/Tillian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World Event, NPCs]
+categories: [Pathfinder Exclusive, World Event, NPCs]
 ---
 
 # Tillian
@@ -12,6 +12,10 @@ categories: [World Event, NPCs]
 |---|---|
 | name | Tillian |
 | aspect | Canor |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

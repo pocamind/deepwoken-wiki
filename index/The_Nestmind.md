@@ -1,9 +1,9 @@
 ---
 title: The Nestmind
-revid: 185615
+revid: 188877
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Oath Trainer, NPCs located in the First Layer]
+categories: [Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the First Layer]
 ---
 
 # The Nestmind
@@ -12,6 +12,10 @@ categories: [NPCs, Oath Trainer, NPCs located in the First Layer]
 |---|---|
 | name | The Nestmind |
 | location | A Conscious Intersection |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ When your time comes to pass, you too will become a feast for the Nest... ”
 

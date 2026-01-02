@@ -1,9 +1,9 @@
 ---
 title: Beatra
-revid: 171641
+revid: 188802
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pages with broken file links, In progress with reason, InProgressPages, Attunement Trainers, NPCs]
+categories: [Tiran NPCs, Pages with broken file links, Pathfinder Exclusive, In progress with reason, InProgressPages, Attunement Trainers, NPCs]
 notices:
   - This page is currently being worked on. Missing all dialogue
 ---
@@ -15,6 +15,10 @@ notices:
 | name | Beatra |
 | aspect | Tiran |
 | location | Derelict Highchurch |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

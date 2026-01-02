@@ -1,9 +1,9 @@
 ---
 title: Rabanastre
-revid: 185866
+revid: 188732
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Rabanastre
@@ -13,6 +13,10 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second 
 | name | Rabanastre |
 | aspect | Ganymede |
 | location | Second Layer |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

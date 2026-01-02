@@ -1,9 +1,9 @@
 ---
 title: Deran
-revid: 176998
+revid: 188815
 source: https://deepwoken.fandom.com/wiki/Deran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
+categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Ignition Union]
 ---
 
 # Deran
@@ -14,6 +14,10 @@ categories: [Khan NPCs, NPCs, NPCs located in the First Layer, The Ignition Unio
 | aspect | Khan |
 | location | The Chariot's Spire |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

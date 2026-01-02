@@ -1,9 +1,9 @@
 ---
 title: Liviu
-revid: 177642
+revid: 188851
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Hive]
+categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Hive]
 ---
 
 # Liviu
@@ -14,6 +14,10 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant, The Hive]
 | aspect | Chrysid |
 | location | Greathive Aratel |
 | affiliation | The Moonlit Faith |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

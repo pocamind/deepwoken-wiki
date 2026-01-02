@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 188373
+revid: 188736
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -378,6 +378,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) You can block attacks from any direction and cannot be backstabbed.
     -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you can block attacks that are coming from any direction.
     -   Talents that proc on backstab (e.g. _Spine Cutter_) cannot proc on you while you're in Arc Suit.
+    -   Does **not** prevent assassinations or nullify damage from attacks that hit your back.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Holding Spacebar after double jumping propels you up for a short duration.

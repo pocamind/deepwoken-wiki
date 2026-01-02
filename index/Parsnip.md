@@ -1,9 +1,9 @@
 ---
 title: Parsnip
-revid: 172668
+revid: 188855
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Parsnip
@@ -14,6 +14,10 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant]
 | aspect | Celtor |
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Oh, you know. The weather. Things and such. What the _HELL_ do you think I'm talking about?! Do you not hear that ruckus in the upper level? ”
 

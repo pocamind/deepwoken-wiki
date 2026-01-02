@@ -1,12 +1,16 @@
 ---
 title: "Pilgrim's Respite"
-revid: 184573
+revid: 188762
 source: https://deepwoken.fandom.com/wiki/Pilgrim's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # Pilgrim's Respite
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Pilgrim's Respite LocationR
 

@@ -1,9 +1,9 @@
 ---
 title: Maedhran
-revid: 167791
+revid: 188849
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
 ---
 
 # Maedhran
@@ -14,7 +14,11 @@ categories: [Canor NPCs, NPCs, Vendors, NPCs located in the Eastern Luminant]
 | aspect | Canor |
 | location | Miner's Landing |
 
-“ Ah, down on your money? That's okay. You can do it, buddy. _\*He wipes a genuine tear away from his eye and sniffs.\*_ Y-you've got this. ”
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ Ah, down on your money? That's okay. You can do it, buddy. \*He wipes a genuine tear away from his eye and sniffs.\* Y-you've got this. ”
 
 ― Maedhran
 

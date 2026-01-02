@@ -1,9 +1,9 @@
 ---
 title: Silhuett
-revid: 168047
+revid: 188872
 source: https://deepwoken.fandom.com/wiki/Silhuett
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, NPCs located in the First Layer, Random Encounters, The Divers]
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Random Encounters, The Divers]
 ---
 
 # Silhuett
@@ -14,6 +14,10 @@ categories: [Capra NPCs, NPCs, NPCs located in the First Layer, Random Encounter
 | aspect | Capra |
 | location | First Layer |
 | affiliation | The Divers |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

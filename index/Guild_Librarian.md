@@ -1,9 +1,9 @@
 ---
 title: Guild Librarian
-revid: 177422
+revid: 188826
 source: https://deepwoken.fandom.com/wiki/Guild_Librarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Guild Base]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]
 ---
 
 # Guild Librarian
@@ -12,6 +12,10 @@ categories: [NPCs, NPCs located in the Guild Base]
 |---|---|
 | aspect | Randomized |
 | location | Guild Base Library |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

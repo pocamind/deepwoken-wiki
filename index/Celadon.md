@@ -1,9 +1,9 @@
 ---
 title: Celadon
-revid: 166349
+revid: 188805
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs]
 ---
 
 # Celadon
@@ -13,6 +13,10 @@ categories: [Adret NPCs, NPCs]
 | name | Celadon |
 | aspect | Adret |
 | location | Summer Isle |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Walk free, Oathless disciple. ”
 

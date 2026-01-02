@@ -1,9 +1,9 @@
 ---
 title: Marro
-revid: 174308
+revid: 188847
 source: https://deepwoken.fandom.com/wiki/Marro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant]
+categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Marro
@@ -14,6 +14,10 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Eastern Luminant]
 | aspect | Chrysid |
 | location | Songseeker Wilds |
 | affiliation | The Moonlit Faith |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

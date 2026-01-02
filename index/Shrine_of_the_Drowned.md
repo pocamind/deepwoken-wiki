@@ -1,9 +1,9 @@
 ---
 title: Shrine of the Drowned
-revid: 186004
+revid: 188868
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics, Death, NPCs located in the First Layer]
+categories: [Pathfinder Exclusive, NPCs, Mechanics, Death, NPCs located in the First Layer]
 ---
 
 # Shrine of the Drowned
@@ -11,6 +11,10 @@ categories: [NPCs, Mechanics, Death, NPCs located in the First Layer]
 | Shrine of the Drowned | |
 |---|---|
 | location | Fragments of Self |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 **Not to be confused with [Deep Shrines](Deep_Shrines.md) and [Shrines](Fountain_Gates.md) (aka Fountain Gates).**
 

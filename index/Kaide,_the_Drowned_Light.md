@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 188662
+revid: 188684
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -204,9 +204,6 @@ This dialogue is unlocked if the player has a [Soulthorn](Soulthorn.md) equipped
 </tr>
 <tr>
   <td colspan="2">[See first instance]</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

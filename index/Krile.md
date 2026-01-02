@@ -1,9 +1,9 @@
 ---
 title: Krile
-revid: 172662
+revid: 188839
 source: https://deepwoken.fandom.com/wiki/Krile
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
 ---
 
 # Krile
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, NPCs, NPCs located in the Voidheart, The Knives of Eyl
 | aspect | Etrean |
 | location | Voidheart |
 | affiliation | The Knives of Eylis |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

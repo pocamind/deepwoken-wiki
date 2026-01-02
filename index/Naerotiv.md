@@ -1,9 +1,9 @@
 ---
 title: Naerotiv
-revid: 174700
+revid: 188707
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, NPCs, Floor 2, Layer 2, NPCs located in the Second Floor of the Second Layer]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, Floor 2, Layer 2, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Naerotiv
@@ -13,6 +13,10 @@ categories: [Kyrsan NPCs, NPCs, Floor 2, Layer 2, NPCs located in the Second Flo
 | name | Naerotiv |
 | species | Kyrsan |
 | location | Kyrsan Wilds |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ ...The spirit of my brother and the spirit of Kyrsa will stand with you should you invoke their blessings. ”
 

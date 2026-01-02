@@ -1,9 +1,9 @@
 ---
 title: Kressa
-revid: 177635
+revid: 188838
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
+categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
 ---
 
 # Kressa
@@ -14,6 +14,10 @@ categories: [Khan NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition
 | aspect | Khan |
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

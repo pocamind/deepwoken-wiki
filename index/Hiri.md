@@ -1,9 +1,9 @@
 ---
 title: Hiri
-revid: 168005
+revid: 188831
 source: https://deepwoken.fandom.com/wiki/Hiri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, NPCs, The Hive, NPCs located in the Eastern Luminant]
+categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
 ---
 
 # Hiri
@@ -14,6 +14,10 @@ categories: [Chrysid NPCs, NPCs, The Hive, NPCs located in the Eastern Luminant]
 | aspect | Chrysid |
 | location | Greathive Aratel |
 | affiliation | The Hive |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ To put it simply, a difference in ideals. While the Ganymedes and Vesperians of the Hive believed in a future of eternal bark reaching ever-higher in a technological sprawl... the Chrysids saw it differently. To them, they believed steadfast in religion, the Moonlit Faith. They believed our roots would decay and weather with the waves, while the Moonseye above could never touch the sea. ”
 

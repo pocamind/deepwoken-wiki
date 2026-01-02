@@ -1,9 +1,9 @@
 ---
 title: Sierra
-revid: 173944
+revid: 188871
 source: https://deepwoken.fandom.com/wiki/Sierra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer Company]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company]
 ---
 
 # Sierra
@@ -14,6 +14,10 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Summer
 | aspect | Celtor |
 | location | Bluster Rift |
 | affiliation | The Summer Company |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

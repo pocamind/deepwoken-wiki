@@ -1,9 +1,9 @@
 ---
 title: Deepdelver Myra
-revid: 178242
+revid: 188812
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, In progress with reason, InProgressPages, NPCs, NPCs located in the First Layer, Deepdelvers]
+categories: [Tiran NPCs, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the First Layer, Deepdelvers]
 notices:
   - This page is currently being worked on. Unique Face Image Missing
 ---
@@ -16,6 +16,10 @@ notices:
 | aspect | Tiran |
 | location | The Chariot's Spire |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ I really appreciate the sentiment. Good luck to you, friend. ”
 

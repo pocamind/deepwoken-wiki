@@ -1,9 +1,9 @@
 ---
 title: Eltus Ferikus Pleristus Zzetchus
-revid: 145246
+revid: 188714
 source: https://deepwoken.fandom.com/wiki/Eltus_Ferikus_Pleristus_Zzetchus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Eltus Ferikus Pleristus Zzetchus
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the First Floor of the Second Layer]
 | name | Eltus Ferikus Pleristus Zzetchus |
 | aspect | Kyrsan |
 | location | Firfire |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Be careful Frinwalter, making noise in those caves may awaken some things best left sleeping. ”
 

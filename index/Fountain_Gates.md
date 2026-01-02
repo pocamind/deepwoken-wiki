@@ -1,12 +1,16 @@
 ---
 title: Fountain Gates
-revid: 180762
+revid: 188749
 source: https://deepwoken.fandom.com/wiki/Fountain_Gates
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Mechanics, Utilities]
+categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Mechanics, Utilities]
 ---
 
 # Fountain Gates
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 _Not to be confused with [Deep Shrines](Deep_Shrines.md) and [Shrine of Courage](Shrine_of_Courage.md)._
 

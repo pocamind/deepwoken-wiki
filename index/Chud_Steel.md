@@ -1,9 +1,9 @@
 ---
 title: Chud Steel
-revid: 188048
+revid: 188809
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Chud Steel
@@ -17,6 +17,10 @@ categories: [Adret NPCs, Individuals with He/him pronouns, NPCs, NPCs located in
 | location | Fort Merit |
 | affiliation | The Central Authority |
 | family | 15 unnamed brothers |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Three cheers, citizen! Fear not, we fight for you! ”
 

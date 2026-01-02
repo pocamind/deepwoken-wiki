@@ -1,9 +1,9 @@
 ---
 title: Epsi
-revid: 188046
+revid: 188724
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Individuals with He/him pronouns, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
+categories: [Gremor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Epsi
@@ -15,6 +15,10 @@ categories: [Gremor NPCs, Individuals with He/him pronouns, NPCs, The Ignition U
 | pronouns | He/him |
 | location | The Frontier Furnace |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

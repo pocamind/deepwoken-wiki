@@ -1,9 +1,9 @@
 ---
 title: Deepdelver Tau
-revid: 172661
+revid: 188813
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Tau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Deepdelvers]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Deepdelvers]
 ---
 
 # Deepdelver Tau
@@ -14,6 +14,10 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Deepdelv
 | aspect | Ganymede |
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

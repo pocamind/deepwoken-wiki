@@ -1,9 +1,9 @@
 ---
 title: Gunsmith
-revid: 177425
+revid: 188827
 source: https://deepwoken.fandom.com/wiki/Gunsmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Guild Base]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]
 ---
 
 # Gunsmith
@@ -12,6 +12,10 @@ categories: [NPCs, NPCs located in the Guild Base]
 |---|---|
 | aspect | Randomized |
 | location | Guild Base Blacksmith |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Overview
 

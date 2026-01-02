@@ -1,16 +1,18 @@
 ---
 title: A Conscious Intersection
-revid: 166608
+revid: 188737
 source: https://deepwoken.fandom.com/wiki/A_Conscious_Intersection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Layer]
 ---
 
 # A Conscious Intersection
 
-LocationL A Conscious Intersection LocationR
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
-TERRITORY OF
+LocationL A Conscious Intersection LocationR
 
 I am one of many.
 

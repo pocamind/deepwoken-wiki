@@ -1,12 +1,16 @@
 ---
 title: Lower Erisia
-revid: 174751
+revid: 188757
 source: https://deepwoken.fandom.com/wiki/Lower_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
 ---
 
 # Lower Erisia
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Lower Erisia LocationR
 

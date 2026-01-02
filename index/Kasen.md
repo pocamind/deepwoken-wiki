@@ -1,9 +1,9 @@
 ---
 title: Kasen
-revid: 174330
+revid: 188725
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Kasen
@@ -13,6 +13,10 @@ categories: [Capra NPCs, NPCs, Quests, Talents, NPCs located in the First Floor 
 | name | Kasen |
 | aspect | Capra |
 | location | Ethironal Shrine Outskirts |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

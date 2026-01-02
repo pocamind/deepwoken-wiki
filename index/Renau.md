@@ -1,9 +1,9 @@
 ---
 title: Renau
-revid: 168039
+revid: 188862
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, The Ignition Union, NPCs located in the First Layer]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the First Layer]
 ---
 
 # Renau
@@ -14,6 +14,10 @@ categories: [Canor NPCs, NPCs, The Ignition Union, NPCs located in the First Lay
 | aspect | Canor |
 | location | The Chariot's Spire |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

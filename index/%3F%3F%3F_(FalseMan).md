@@ -1,9 +1,9 @@
 ---
 title: ??? (FalseMan)
-revid: 173894
+revid: 188700
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # ??? (FalseMan)
@@ -12,6 +12,10 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 |---|---|
 | aspect | Felinor |
 | location | New Kyrsa, The Sleeping City |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

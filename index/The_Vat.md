@@ -1,12 +1,16 @@
 ---
 title: The Vat
-revid: 180120
+revid: 188784
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Layer, Dungeons, The Depths]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Dungeons, The Depths]
 ---
 
 # The Vat
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL The Vat LocationR
 

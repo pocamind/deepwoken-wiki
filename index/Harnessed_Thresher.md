@@ -1,9 +1,9 @@
 ---
 title: Harnessed Thresher
-revid: 167589
+revid: 188828
 source: https://deepwoken.fandom.com/wiki/Harnessed_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Harnessed Thresher
@@ -12,6 +12,10 @@ categories: [NPCs, NPCs located in the Eastern Luminant]
 |---|---|
 | species | Thresher |
 | location | The Starswept Valley |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

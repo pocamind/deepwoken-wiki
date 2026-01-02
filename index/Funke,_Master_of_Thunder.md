@@ -1,9 +1,9 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 188592
+revid: 188820
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with They/them pronouns, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
 ---
 
 # Funke, Master of Thunder
@@ -17,6 +17,10 @@ categories: [Canor NPCs, Individuals with They/them pronouns, Enemies, Attunemen
 | aspect | Canor |
 | pronouns | They/them |
 | affiliation | The Divers, The Summer Company |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

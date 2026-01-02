@@ -1,12 +1,16 @@
 ---
 title: Loot Bag Gacha
-revid: 160228
+revid: 188850
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Mechanics, Quests, Vendors]
+categories: [Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
 ---
 
 # Loot Bag Gacha
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 In various locations throughout both seas, certain NPCs can be spotted holding large bags. These NPCs offer random, low-tier loot correlating with their location, for a fee of 350. This is often considered a bad deal, since the loot always sells for less than ,350 and can be obtained from any chest in that area.
 

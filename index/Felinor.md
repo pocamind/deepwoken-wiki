@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 183843
+revid: 188685
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -125,6 +125,7 @@ Felinors have cat ears with optional ear fluff. The color of the fluff, as well 
 -   "Felinor" comes from the word _Feline_, which means cat or another member of the cat family i.e. lion, tiger, lynx.
 -   Felinor wasn't even intended to be added to the game, and was originally an inside joke mocking cat-themed Kemonomimis, a concept very popular in anime and thus widely looked down upon outside of it.[\[1\]](#cite-note-1)
 -   Felinor will say things such as "Me-ow!" when engaging combat, as opposed to other aspects.
+-   Felinors have their own [theme](https://soundcloud.com/naktigonis/no-time-for-paws) which was made as a joke before their existence was even a thing, therefore making them the first and so far only aspect to have a dedicated theme, although the song itself does not appear anywhere ingame.
 
 ## References
 

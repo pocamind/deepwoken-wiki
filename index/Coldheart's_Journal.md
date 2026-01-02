@@ -1,6 +1,6 @@
 ---
 title: "Coldheart's Journal"
-revid: 183849
+revid: 188669
 source: https://deepwoken.fandom.com/wiki/Coldheart's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -28,7 +28,10 @@ Coldheart's Journal
 > What does that say? Her mind is fickle. Wavering. Unfocused.  
 > Make up your mind. And when you do, reveal it to me plainly.  
 > The thermal transfer isn't good enough.  
-> I'm sure the Castle won't miss a few things.  
+> I'm sure the Castle won't miss a few things.
+> 
+> * * *
+> 
 > Dee, I've nipped out to grab some parts. Thought umbrite might do this time? Won't be long.  
 > \-F
 > 
@@ -134,21 +137,17 @@ Coldheart's Journal
 > * * *
 > 
 > what's up?  
->   
 > you won't talk?  
->   
 > you know where to find me when you change your mind
 > 
 > * * *
 > 
 > do you hate me  
->   
 > i cant bear to look at you like this
 > 
 > * * *
 > 
 > i miss you  
->   
 > i cant turn you back
 > 
 > * * *
@@ -158,19 +157,13 @@ Coldheart's Journal
 > you were a person not a blasted tool  
 > and now you're all metal and pipes and  
 > i said i would  
->   
 > i know i did  
->   
 > but i'm so sorry.
 > 
 > * * *
 > 
 > i said i'd stop coming back  
->   
 > but were you ever in this forge?  
->   
 > it's been so long.  
->   
 > i'm so sorry.  
->   
 > i miss you so much

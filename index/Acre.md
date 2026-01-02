@@ -1,9 +1,9 @@
 ---
 title: Acre
-revid: 171341
+revid: 188884
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Acre
@@ -13,6 +13,10 @@ categories: [Adret NPCs, NPCs, NPCs located in the Eastern Luminant]
 | name | Acre |
 | aspect | Adret |
 | location | Starswept Valley |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

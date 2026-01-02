@@ -1,9 +1,9 @@
 ---
 title: Raen
-revid: 177687
+revid: 188859
 source: https://deepwoken.fandom.com/wiki/Raen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
 ---
 
 # Raen
@@ -14,6 +14,10 @@ categories: [Adret NPCs, NPCs, NPCs located in the Voidheart, The Knives of Eyli
 | aspect | Adret |
 | location | Voidheart |
 | affiliation | The Knives of Eylis |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

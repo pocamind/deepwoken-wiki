@@ -1,12 +1,16 @@
 ---
 title: The Blade Within
-revid: 180721
+revid: 188772
 source: https://deepwoken.fandom.com/wiki/The_Blade_Within
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Dungeons]
+categories: [Pathfinder Exclusive, Locations, Dungeons]
 ---
 
 # The Blade Within
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL The Blade Within LocationR
 

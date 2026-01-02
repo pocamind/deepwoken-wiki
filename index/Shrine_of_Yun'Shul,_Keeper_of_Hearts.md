@@ -1,9 +1,9 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 187711
+revid: 188869
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 1, Oath Trainer]
+categories: [Pathfinder Exclusive, NPCs, Layer 1, Oath Trainer]
 ---
 
 # Shrine of Yun'Shul, Keeper of Hearts
@@ -11,6 +11,10 @@ categories: [NPCs, Layer 1, Oath Trainer]
 | Shrine of Yun'Shul | |
 |---|---|
 | location | Temple of Hearts |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 _This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>)._
 

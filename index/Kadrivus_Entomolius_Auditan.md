@@ -1,9 +1,9 @@
 ---
 title: Kadrivus Entomolius Auditan
-revid: 162771
+revid: 188727
 source: https://deepwoken.fandom.com/wiki/Kadrivus_Entomolius_Auditan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, NPCs, Quests, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, Quests, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Kadrivus Entomolius Auditan
@@ -13,6 +13,10 @@ categories: [Kyrsan NPCs, NPCs, Quests, Layer 2, Floor 1, NPCs located in the Fi
 | name | Kadrivus Entomolius Auditan |
 | species | Kyrsan |
 | location | Second Layer |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

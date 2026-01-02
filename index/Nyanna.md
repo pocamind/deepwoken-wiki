@@ -1,9 +1,9 @@
 ---
 title: Nyanna
-revid: 175710
+revid: 188853
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Layer, Vendors]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
 ---
 
 # Nyanna
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the First Layer, Vendors]
 | name | Nyanna |
 | aspect | Felinor |
 | location | Castle Light |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Are you slow? Yes, premium notes. I sell to the lazy and rich. If you don't like my prices, go try finding these weapons and schematics yourself. ”
 

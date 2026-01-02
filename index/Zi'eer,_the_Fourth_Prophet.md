@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 188331
+revid: 188671
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters]
@@ -26,7 +26,7 @@ Template:Creature Infobox V3
 
 Zi'eer, the Fourth Prophet of the Ministry, is the final [boss](Bosses.md) and main antagonist of the [Vow of Iron](Vow_of_Iron.md) gamemode. He, along with [The Ministry](The_Ministry.md), invaded Etris and claimed the Throne to become the new regent of Etrea.
 
-If the Inheritor challenges him within the [Etris Palace](Etris_Palace.md), they are transported to [The Throne of Lies](The_Throne_of_Lies.md), where they are faced with a great challenge. Regardless of outcome, this is the end of their journey through Etrea's past. Post-fight, the Inheritor encounters the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing them that nobody was truly able to best Zi'eer, but he hopes memories from the mementos might reveal a weakness.
+If [the Inheritor](The_Inheritor.md) challenges him within the [Etris Palace](Etris_Palace.md), they are transported to [The Throne of Lies](The_Throne_of_Lies.md), where they are faced with a great challenge. Regardless of outcome, this is the end of their journey through Etrea's past. Post-fight, the Inheritor encounters the [Reclaimer](Reclaimer_of_the_Recollection.md) in the [Fragments of Else](Fragments_of_Else.md), informing them that nobody was truly able to best Zi'eer, but he hopes memories from the mementos might reveal a weakness.
 
 The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer to his second phase, regardless if the Inheritor won. Once you defeat him, you obtain the "[Memory Surpassed](https://www.roblox.com/badges/2089071245865412/Memory-Surpassed)" badge, which gives a free character slot.
 

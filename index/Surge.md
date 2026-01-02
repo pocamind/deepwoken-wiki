@@ -1,9 +1,9 @@
 ---
 title: Surge
-revid: 188033
+revid: 188875
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with He/him pronouns, NPCs, NPCs located in the First Layer, Oath Trainer]
+categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Oath Trainer]
 ---
 
 # Surge
@@ -14,6 +14,10 @@ categories: [Canor NPCs, Individuals with He/him pronouns, NPCs, NPCs located in
 | aspect | Canor |
 | pronouns | He/him |
 | location | First Layer |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ This is only the beginning. ”
 

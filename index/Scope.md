@@ -1,9 +1,9 @@
 ---
 title: Scope
-revid: 177696
+revid: 188864
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
 ---
 
 # Scope
@@ -14,6 +14,10 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Comp
 | aspect | Vesperian |
 | location | Summer Isle |
 | affiliation | The Summer Company |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Falei
-revid: 177426
+revid: 188726
 source: https://deepwoken.fandom.com/wiki/Falei
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
 ---
 
 # Falei
@@ -14,6 +14,10 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the First Floor of the Second 
 | aspect | Ganymede |
 | location | Sanctuary Gatehouse |
 | affiliation | The Divers |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ That man... Chaser. Him and the others, toward the Spire... ”
 

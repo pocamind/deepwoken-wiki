@@ -1,9 +1,9 @@
 ---
 title: Merryweather
-revid: 173918
+revid: 188845
 source: https://deepwoken.fandom.com/wiki/Merryweather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, NPCs located in the First Layer, The Ignition Union]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Ignition Union]
 ---
 
 # Merryweather
@@ -14,6 +14,10 @@ categories: [Canor NPCs, NPCs, NPCs located in the First Layer, The Ignition Uni
 | aspect | Canor |
 | location | The Chariot's Spire |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

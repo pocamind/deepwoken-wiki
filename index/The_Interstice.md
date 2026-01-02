@@ -1,12 +1,16 @@
 ---
 title: The Interstice
-revid: 187150
+revid: 188778
 source: https://deepwoken.fandom.com/wiki/The_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations]
+categories: [Pathfinder Exclusive, Locations]
 ---
 
 # The Interstice
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL The Interstice LocationR
 

@@ -1,9 +1,9 @@
 ---
 title: Okumay
-revid: 171523
+revid: 188710
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Okumay
@@ -14,6 +14,10 @@ categories: [Chrysid NPCs, NPCs, NPCs located in the Second Floor of the Second 
 | aspect | Chrysid |
 | location | The Sunken Railways |
 | family | Okumay's family, Unnamed grandparents (deceased), Unnamed father (deceased) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
@@ -60,7 +64,7 @@ Okumay is a [Chrysid](Chrysid.md) wearing the [Vigil Initiate](Vigil_Initiate.md
   <td><b>HEY!</b> That's rude. Don't just assume things about people like that. I have many floaty desires, money just happens to be <i>one</i> of them! I do still want to change the world, at least a little bit. If this is the mark I could leave.. I'd be happy.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

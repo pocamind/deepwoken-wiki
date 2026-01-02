@@ -1,12 +1,16 @@
 ---
 title: Saramaed Hollow
-revid: 187431
+revid: 188765
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Dungeons, Locations, Locations in the Eastern Luminant]
+categories: [Pathfinder Exclusive, Pages with broken file links, Dungeons, Locations, Locations in the Eastern Luminant]
 ---
 
 # Saramaed Hollow
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Saramaed Hollow LocationR
 

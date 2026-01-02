@@ -1,9 +1,9 @@
 ---
 title: Brutus
-revid: 188073
+revid: 188803
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Individuals with He/him pronouns, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
+categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
 ---
 
 # Brutus
@@ -15,6 +15,10 @@ categories: [Khan NPCs, Individuals with He/him pronouns, NPCs, The Hundred Legi
 | pronouns | He/him |
 | location | Fort Merit |
 | affiliation | The Hundred Legions |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Get out of my cell, swine. ”
 

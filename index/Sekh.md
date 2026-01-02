@@ -1,9 +1,9 @@
 ---
 title: Sekh
-revid: 168044
+revid: 188865
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, The Hive, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
 ---
 
 # Sekh
@@ -14,6 +14,10 @@ categories: [Vesperian NPCs, NPCs, The Hive, NPCs located in the Eastern Luminan
 | aspect | Vesperian |
 | location | Meteor Isle |
 | affiliation | The Hive |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Besides... the praying one over there makes my idle hours more eventful. ”
 

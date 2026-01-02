@@ -1,12 +1,16 @@
 ---
 title: Temple Sparring Hall (Chime)
-revid: 178811
+revid: 188770
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Chime)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Chime of Conflict Arenas]
+categories: [Pathfinder Exclusive, Locations, Chime of Conflict Arenas]
 ---
 
 # Temple Sparring Hall (Chime)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Temple Sparring Hall LocationR
 

@@ -1,9 +1,9 @@
 ---
 title: Sibex
-revid: 188636
+revid: 188870
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, Mechanics, Individuals with unspecified pronouns]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Mechanics, Individuals with unspecified pronouns]
 ---
 
 # Sibex
@@ -13,6 +13,10 @@ categories: [Celtor NPCs, NPCs, Mechanics, Individuals with unspecified pronouns
 | name | Sibex |
 | aspect | Celtor |
 | location | On a cliff south east of the Lordsgrove in Starswept Valley |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

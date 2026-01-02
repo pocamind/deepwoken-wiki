@@ -1,9 +1,9 @@
 ---
 title: "Eylis, the Punished Dreamer"
-revid: 188059
+revid: 188818
 source: https://deepwoken.fandom.com/wiki/Eylis%2C_the_Punished_Dreamer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with She/her pronouns, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
+categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
 ---
 
 # Eylis, the Punished Dreamer
@@ -15,6 +15,10 @@ categories: [Canor NPCs, Individuals with She/her pronouns, NPCs, NPCs located i
 | pronouns | She/her |
 | location | Voidheart |
 | affiliation | The Knives of Eylis |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Hey, look who it is. You got a reason for coming in here? I've got deals to make, nations to toy with, the usual. ”
 

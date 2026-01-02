@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 188638
+revid: 188691
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Circle of Honour members]
@@ -379,7 +379,7 @@ Sold Items
   </ul></li>
     <li><b>For 1,100 </b>: <a href="Super_Simple_Pauldrons.md">Super Simple Pauldrons</a><abbr></abbr></li>
     <li><b>For 1,200 </b>: <a href="Reinforced_War_Helmet.md">Reinforced War Helmet</a><abbr></abbr></li>
-    <li><b>For 1,500 </b>: Reinforced Gauntlets<abbr></abbr></li>
+    <li><b>For 1,500 </b>: <a href="Reforged_Gauntlets.md">Reforged Gauntlets</a><abbr></abbr></li>
     <li><b>For 1,700 </b>: <a href="Reinforced_War_Plate.md">Reinforced War Plate</a><abbr></abbr></li>
     <li><b>For 2,000 </b>: <a href="Alloyed_Phalanx_Boots.md">Alloyed Phalanx Boots</a><abbr></abbr></li>
     <li><b>For 2,300 </b>:

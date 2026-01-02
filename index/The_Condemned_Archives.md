@@ -1,12 +1,16 @@
 ---
 title: The Condemned Archives
-revid: 178812
+revid: 188773
 source: https://deepwoken.fandom.com/wiki/The_Condemned_Archives
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Chime of Conflict Arenas]
+categories: [Pathfinder Exclusive, Locations, Chime of Conflict Arenas]
 ---
 
 # The Condemned Archives
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL The Condemned Archives LocationR
 

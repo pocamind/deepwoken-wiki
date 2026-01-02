@@ -1,9 +1,9 @@
 ---
 title: Friendly Prisoner
-revid: 172666
+revid: 188822
 source: https://deepwoken.fandom.com/wiki/Friendly_Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, Prisoners of The Central Authority]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Prisoners of The Central Authority]
 ---
 
 # Friendly Prisoner
@@ -12,6 +12,10 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Prisoners of The Centra
 |---|---|
 | aspect | Tiran |
 | location | Merit Detainment Core |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

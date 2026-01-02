@@ -1,9 +1,9 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 171069
+revid: 188716
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, Quests, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Erosius Amaltus Urivortus Alistus Casius Walistoshus
@@ -13,6 +13,10 @@ categories: [NPCs, Quests, NPCs located in the First Floor of the Second Layer]
 | name | Erosius Amaltus Urivortus Alistus Casius Walistoshus |
 | aspect | Kyrsan |
 | location | Firfire |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Oh, a Fringewalker? Faer fraeum hoeame, are we? ”
 
@@ -48,7 +52,7 @@ You need to find the spear in the [Firfire Caverns](Firfire_Caverns.md) to obtai
   <td colspan="6">Well, your names are pretty long.</td>
 </tr>
 <tr>
-  <td colspan="6">Our names are our <i>identity</i>. We add to our names as time progresses, it is a symbol of our time spent in worship of Ethiron.</td>
+  <td colspan="6">Our names are our <i>identity</i>. We add to our names as time progresses, it is a symbol of our time spent in worship of <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>.</td>
 </tr>
 <tr>
   <td colspan="6">I heard you guys had a problem with your temple.</td>

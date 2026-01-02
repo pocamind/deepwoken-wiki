@@ -1,9 +1,9 @@
 ---
 title: "Adar, Master of Metal"
-revid: 188609
+revid: 188800
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
 ---
 
 # Adar, Master of Metal
@@ -17,6 +17,10 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Enemies, Attunement 
 | aspect | Etrean |
 | pronouns | He/him |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

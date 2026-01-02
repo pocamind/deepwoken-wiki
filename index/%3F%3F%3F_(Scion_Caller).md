@@ -1,9 +1,9 @@
 ---
 title: ??? (Scion Caller)
-revid: 179039
+revid: 188703
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Scion_Caller)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # ??? (Scion Caller)
@@ -11,6 +11,10 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 | ??? (Scion Caller) | |
 |---|---|
 | location | New Kyrsa, The Sleeping City |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

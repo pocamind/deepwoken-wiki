@@ -1,9 +1,9 @@
 ---
 title: Abandoned Diver (Journeyman Skeli)
-revid: 182268
+revid: 188720
 source: https://deepwoken.fandom.com/wiki/Abandoned_Diver_(Journeyman_Skeli)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the First Floor of the Second Layer, Members of Diver expeditions to the Second Layer, Deceased characters]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Members of Diver expeditions to the Second Layer, Deceased characters]
 ---
 
 # Abandoned Diver (Journeyman Skeli)
@@ -17,6 +17,10 @@ categories: [Etrean NPCs, NPCs, NPCs located in the First Floor of the Second La
 | affiliation | The Divers[1] |
 | death | Died within the Second Layer[1] |
 | deathdate | 1272 CE[2] |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
@@ -55,8 +59,8 @@ Eventually, Skeli died and their lifeless corpse was left to freeze in the waste
   <td><i>*You leave the body alone.*</i></td>
 </tr>
 <tr>
-  <td>End, player obtains <a href="Diver_Journal,_II.md">Diver Journal, II</a></td>
-  <td>End</td>
+  <td>[End Dialogue], player obtains <a href="Diver_Journal,_II.md">Diver Journal, II</a></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

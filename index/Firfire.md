@@ -1,12 +1,16 @@
 ---
 title: Firfire
-revid: 181422
+revid: 188745
 source: https://deepwoken.fandom.com/wiki/Firfire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # Firfire
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Firfire LocationR
 

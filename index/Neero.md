@@ -1,9 +1,9 @@
 ---
 title: Neero
-revid: 177663
+revid: 188852
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs]
 ---
 
 # Neero
@@ -13,6 +13,10 @@ categories: [Celtor NPCs, NPCs]
 | name | Neero |
 | aspect | Celtor |
 | location | Temple of the Forgotten Flame |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Our job is to make sense of the world left behind in these time-adjacent places. Well, at least for us historian types, not so much the looters. ”
 

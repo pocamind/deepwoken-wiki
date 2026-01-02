@@ -1,9 +1,9 @@
 ---
 title: "Frank F'alzone"
-revid: 177037
+revid: 188823
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Frank F'alzone
@@ -13,6 +13,10 @@ categories: [Celtor NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
 | name | Frank F'alzone |
 | aspect | Celtor |
 | location | The Scoundrel's Bounty |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ They call me **The Swabber**, they does. I swab all things'at need swabbin'. ”
 

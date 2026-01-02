@@ -1,6 +1,6 @@
 ---
 title: The Divers
-revid: 185616
+revid: 188689
 source: https://deepwoken.fandom.com/wiki/The_Divers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Divers, The Citadel of Markor]
@@ -45,6 +45,8 @@ Currently, there is an active, and generally supportive, player-run Discord. Ask
 You can reset your reputation towards the Divers by talking to [Gudrin](Gudrin.md), however it will not be free. The cost ranges depending on your negative reputation starting with low negative reputation (declared as an enemy) 25 notes and so on till 100.
 
 Killing a [Nautilodaunt](Nautilodaunt.md) will greatly increase [Reputation](Reputation.md) with The Divers.
+
+Killing the [Deep Widow](Deep_Widow.md) next to [Surge's](Surge.md) location will also increase Reputation with The Divers.
 
 If you took the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md), your diver reputation will be set to [Hunted](Reputation.md), and it will take roughly seven [Nautilodaunt](Nautilodaunt.md) kills to get your rep set back to normal. It's not recommended to do this, though, as [Nautilodaunts](Nautilodaunt.md) rarely spawn.
 

@@ -1,9 +1,9 @@
 ---
 title: Laplace
-revid: 181832
+revid: 188840
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Vendors, The Hive]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, The Hive]
 ---
 
 # Laplace
@@ -14,6 +14,10 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Vendors,
 | aspect | Ganymede |
 | location | Greathive Aratel |
 | affiliation | The Hive |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

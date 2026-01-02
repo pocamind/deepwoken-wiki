@@ -1,12 +1,16 @@
 ---
 title: New Kyrsan Arterial Rail
-revid: 178810
+revid: 188761
 source: https://deepwoken.fandom.com/wiki/New_Kyrsan_Arterial_Rail
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Chime of Conflict Arenas]
+categories: [Pathfinder Exclusive, Locations, Chime of Conflict Arenas]
 ---
 
 # New Kyrsan Arterial Rail
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Kyrsan Railways LocationR
 

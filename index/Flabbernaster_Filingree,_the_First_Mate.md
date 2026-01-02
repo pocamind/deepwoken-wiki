@@ -1,9 +1,9 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 177032
+revid: 188824
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Flabbernaster Filingree, the First Mate
@@ -13,6 +13,10 @@ categories: [Gremor NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
 | name | Flabbernaster Filingree |
 | aspect | Gremor |
 | location | The Scoundrel's Bounty |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Apologies for devastating ye in our last spar, I 'eard Orlandeau ramblin' about it from 'ere. ”
 

@@ -1,12 +1,16 @@
 ---
 title: Temple of Hearts
-revid: 175068
+revid: 188769
 source: https://deepwoken.fandom.com/wiki/Temple_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Layer]
 ---
 
 # Temple of Hearts
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Temple of Hearts LocationR
 

@@ -1,9 +1,9 @@
 ---
 title: Sarkale
-revid: 158511
+revid: 188731
 source: https://deepwoken.fandom.com/wiki/Sarkale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
+categories: [Khan NPCs, Pathfinder Exclusive, NPCs, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Sarkale
@@ -13,6 +13,10 @@ categories: [Khan NPCs, NPCs, Layer 2, Floor 1, NPCs located in the First Floor 
 | name | Sarkale |
 | aspect | Khan |
 | location | Firfire Caverns |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

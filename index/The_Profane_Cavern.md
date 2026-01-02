@@ -1,14 +1,18 @@
 ---
 title: The Profane Cavern
-revid: 178813
+revid: 188779
 source: https://deepwoken.fandom.com/wiki/The_Profane_Cavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, Chime of Conflict Arenas]
+categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Chime of Conflict Arenas]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # The Profane Cavern
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL The Profane Cavern LocationR
 

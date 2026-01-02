@@ -1,12 +1,16 @@
 ---
 title: Merit Detainment Core
-revid: 187199
+revid: 188758
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
+categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
 ---
 
 # Merit Detainment Core
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Merit Detainment Core LocationR
 

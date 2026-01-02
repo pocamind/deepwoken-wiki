@@ -1,9 +1,9 @@
 ---
 title: ??? (Frozen Man)
-revid: 180666
+revid: 188719
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Frozen_Man)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # ??? (Frozen Man)
@@ -12,6 +12,10 @@ categories: [Khan NPCs, NPCs, NPCs located in the First Floor of the Second Laye
 |---|---|
 | aspect | Khan |
 | location | Ethironal Shrine Sanctuary |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

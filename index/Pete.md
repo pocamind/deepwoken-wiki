@@ -1,9 +1,9 @@
 ---
 title: Pete
-revid: 177673
+revid: 188856
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Pete
@@ -13,6 +13,10 @@ categories: [Vesperian NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
 | name | Pete |
 | aspect | Vesperian |
 | location | The Scoundrel's Bounty |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Oi've got... urgh. Oi need a moment. Oi'll be fine. ”
 

@@ -1,12 +1,16 @@
 ---
 title: Temple Sparring Hall (Dungeon)
-revid: 176014
+revid: 188771
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Dungeon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea, Dungeons]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea, Dungeons]
 ---
 
 # Temple Sparring Hall (Dungeon)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Template:Location2
 

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 187957
+revid: 188692
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -611,7 +611,7 @@ The Citadel
 
 -   The home to the Hundred Legions and home of the Khans.
 -   Speculated to have the main Headquarters of the Ministry.
--   Home of Amorous Pleeksty.
+-   Home of Amorus Pleeksty.
 
 ### Voidsea
 
@@ -721,7 +721,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
 -   Can be reached straight from the surface.[\[1\]](#cite-note-rag-1)
 -   Current location of Amorus Pleeksty.[\[1\]](#cite-note-rag-1)
--   Current location of the body of the Drowned God of Fire Korilfiend.[\[1\]](#cite-note-rag-1)
+-   Current location of the body of the Drowned God of Fire, Korilfiend.[\[1\]](#cite-note-rag-1)
 -   Korilfiend's garden is located near the top.[\[1\]](#cite-note-rag-1)
     -   The Meteor Flowers located here are considered a part of him.[\[1\]](#cite-note-rag-1)
     -   Consuming the Meteor Flowers grants the person pyrokinetic abilities as part of their transformation into a Deepwoken, which lead to Flamecharm's invention after Amorus Pleeksty consumed one.[\[1\]](#cite-note-rag-1)
@@ -763,12 +763,12 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Alliances:** _Unknown/The Hive(?) (Currently Negotiating on Meteor Isle)_
 -   **Enemies:** _The Ministry [Ministryiconfaction](The_Ministry.md), The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md), The Central Authority [Authorityiconfaction](The_Central_Authority.md)_
 -   **Lore Sources:** _Gremorian Longspear Description, Arch\_Mage (Discord)_
--   A nomadic tribe of [Gremors](Gremor.md), they primarily worship Navae.
--   Not much more is known for the Navaen tribe but given the fact that they are mostly Gremor- it's safe to say that they follow the same lore as Gremors.
+-   A nomadic tribe of [Gremors](Gremor.md), they primarily worship the religious figure Navae.
+-   Not much more is known for the Navaen tribe but, given the fact that they are mostly Gremor, it's safe to say that they follow the same lore as Gremors.
 -   Inventors of the fist style 'The Way of Navae.'
 -   Certain groups of the tribe, such as the one at Meteor Isle, have adopted a settled lifestyle rather than a nomadic one. Other Nomads seem to consider this sacrilege.
 -   They have no clue what quarrel the Ministry holds with them, seeing them as just more marauders and bandits.[\[1\]](#cite-note-rag-1)
--   They are one of the only peoples with a dedicated religion (the others being the Crysids and their Moonlit Faith) and hold a few qualities relating them to other religions in the real world.
+-   They are one of the only peoples with a dedicated religion (the others being the [Chrysids](Chrysid.md) and their [Moonlit Faith](The_Moonlit_Faith.md)) and hold a few qualities relating them to other religions in the real world.
 -   On Meteor Isle they are currently negotiating with the Hive to get mutual benefit, the Hive getting the life of the Island while probably the Children of Navae get protection of the Hive from the Authority.
     
     Master of the way of Navae
@@ -781,7 +781,7 @@ An Etrean Guard, part of the Nation of Etrea
 -   **Attunements:** _Galebreathe, Thundercall_
 -   **Alliances:** _N/A_
 -   **Enemies:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)_
--   **Lore Sources:** _[Amara](Amara.md), Brutus_
+-   **Lore Sources:** _[Amara](Amara.md), [Brutus](Brutus.md)_
 
 -   A military organization from the [Western Luminant](Luminants.md).
 -   Despite there being one hundred legions, the only one present in the East Luminant is the 11th Scouting Legion.
@@ -803,14 +803,14 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 
 -   **Territory:** _[Summer Isle](Summer_Isle.md)_
 -   **Encountered In:** _[Summer Isle](Summer_Isle.md), [Miner's Landing](<Miner's_Landing.md>)_
--   **Attunements:** _N/A_
+-   **Attunements:** _[Attunement-less](Attunement-less.md)_
 -   **Alliances:** _[The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
 -   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_
 -   **Lore Sources:** _Random encounters, Scope (Explosive Crate Dialogue), Summer Company Guard Dialogue (Good Rep), Gunsmith Rosen (Mentioned), [Arch\_Mage](https://www.roblox.com/users/4416634/profile) (Discord)_
 
 -   A Faction that resides at Summer Isle. They are a small organization and the inventors of Firearms, such as Revolvers and Flintlocks.
     -   Gunsmith Rosen introduced the New World with Firearms in his young age; thus the foundation of Summer Company.
--   _(Scope)_ They'd rather not expand their territory to the Driftlands- as of 1271. Due to the fact that the Driftland, Erisia Island is currently contested between [Kingdom of Etrea](Etrea.md) and [the Authority](The_Central_Authority.md).
+-   _(Scope)_ They'd rather not expand their territory to the Driftlands - as of 1271. Due to the fact that the Driftland, Erisia Island, is currently contested between [Kingdom of Etrea](Etrea.md) and [the Authority](The_Central_Authority.md).
 -   _(Scope)_ Giving the Explosive Crates to Scope gives additional dialogue; which he comments of the Authority's lack of cooperation and threatens them to decline their armament supply.
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
 -   _(Gunsmith Rosen)_ The Leader of [The Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
@@ -819,11 +819,11 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   [The Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
     -   Despite the fact that the Rifle Spear's description say that [The Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[4\]](#cite-note-arch-4)
         -   The [The Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[4\]](#cite-note-arch-4)
-        -   Their relationship is likely what led to their conflict with The Ignition Union, meeting thanks to both being hired by the same group. This has not been going well for them.
+        -   Their relationship is likely what led to their conflict with [The Ignition Union](The_Ignition_Union.md), meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legions.
 -   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
 -   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[7\]](#cite-note-stormseye-7)
--   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant being Miners Landing.
+-   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant, [Miners Landing](<Miner's_Landing.md>).
     -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so they attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[4\]](#cite-note-arch-4)
 
 A Summer Company Member.
@@ -841,19 +841,19 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.[\[1\]](#cite-note-rag-1)
--   They were responsible for the sinking of Celtor, using it as an offering to Yun'Shul. The Blindseer Glyphs hint at them having used a Contractor to do it.
-    -   This Contractor wasn't Zi'eer.[\[4\]](#cite-note-arch-4)
+-   They were responsible for the sinking of [Celtor](Celtor.md), using it as an offering to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). The [Blindseer](Oath%253A_Blindseer.md) Glyphs hint at them having used a Contractor to do it.
+    -   This Contractor wasn't [Zi'eer](The_Lord_Regent.md).[\[4\]](#cite-note-arch-4)
 -   They are lead by prophets. There is no limit to how many there can be,[\[1\]](#cite-note-rag-1) but as of Year 1363 there are nine. They are ranked by strength.[\[1\]](#cite-note-rag-1)
 -   The leader of the Ministry is the First Prophet, currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
--   The Ministry has some sort of hostility against the Children of Navae, which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
+-   [The Ministry](The_Ministry.md) has some sort of hostility against the [Children of Navae](The_Children_of_Navae.md), which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   Essentially enemies with every major faction in the game until proven otherwise.
--   Minityrsa was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[9\]](#cite-note-gran-9)
--   The Ministry Scouts all use Krulian Knives, which is also the signature weapon wielded by [The Ferryman](The_Ferryman.md).
--   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the Tacet quest is first initiated due to receiving reputation points occasionally for doing his assassinations with them.
+-   [Minityrsa](Minityrsa.md) was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[9\]](#cite-note-gran-9)
+-   The Ministry Scouts all use [Krulian Knives](Krulian_Knife.md), which is also the signature weapon wielded by [The Ferryman](The_Ferryman.md).
+-   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the [Tacet](Murmur%253A_Tacet.md) quest is first initiated due to receiving reputation points occasionally for doing his assassinations with them.
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 -   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
--   "A Waltz of Snow and Knights," the theme of Minityrsa, shares the same motif as "A Sarabande of Thunder" and "Dance, if You Can!" Both of these are themes of the Ferryman, which shares the same knife as the Ministry operatives found throughout Minityrsa.
--   There is a high chance that they are **part** responsible for the events in the Second Layer, especially the Ethironal Shrine due to Chaser being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
+-   "[A Waltz of Snow and Knights](Deepwoken_OST.md)," the theme of Minityrsa, shares the same motif as "[A Sarabande of Thunder](Deepwoken_OST.md)" and "[Dance, if You Can!](Deepwoken_OST.md)" Both of these are themes of [The Ferryman](The_Ferryman.md), which shares the same knife as the Ministry operatives found throughout Minityrsa.
+-   There is a high chance that they are **part** responsible for the events in the Second Layer, especially the [Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
 
 A Dark Mage, located in Minityrsa.
 
@@ -861,65 +861,65 @@ A Dark Mage, located in Minityrsa.
 
 -   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker Wilds_
--   **Attunements:** _None_
+-   **Attunements:** _Attunement-less_
 -   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
 -   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)_
 -   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Eylis, The Punished Dreamer (NPC)._
 
--   The Knives of Eylis are an organization of ruthless, randomly hired mercenaries that work under Eylis, the Punished Dreamer.
--   They live in the sewers of the Central Luminant.[\[4\]](#cite-note-arch-4)
+-   [The Knives of Eylis](The_Knives_of_Eylis.md) are an organization of ruthless, randomly hired mercenaries that work under [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md).
+-   They live in the sewers of the [Central Luminant](Luminants.md).[\[4\]](#cite-note-arch-4)
 -   Their base is found in the [Voidheart](Voidheart.md), a mysterious location in another dimension.
--   They possess a special Oath that lets them slow time around them.
--   The Knives of Eylis are hired by The Central Authority to cause havoc on Etrean ships in the East.[\[4\]](#cite-note-arch-4)
-    -   The Knives of Eylis also kidnaps and take Children of Navae hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
--   Given their name and the existence of Megalodaunt traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
+-   They possess a special Oath that lets them slow time around them (Source: Arch\_Mage).
+-   [The Knives of Eylis](The_Knives_of_Eylis.md) are hired by [The Central Authority](The_Central_Authority.md) to cause havoc on Etrean ships in the East.[\[4\]](#cite-note-arch-4)
+    -   The Knives of Eylis also kidnaps and take [Children of Navae](The_Children_of_Navae.md) hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
+-   Given their name and the existence of [Megalodaunt](Megalodaunt.md) traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
     -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname.
 
 ### The Ignition Union
 
--   **Territory:** _Miner's Landing, The Chariot's Spire, The Frontier Furnace._
+-   **Territory:** _[Miner's Landing](<Miner's_Landing.md>), [The Chariot's Spire](<The_Chariot's_Spire.md>), [The Frontier Furnace](The_Frontier_Furnace.md)_
 -   **Encountered In:** _Summer Isle, Celtor Wastes, Miner's Landing, The Chariot's Spire, The Frontier Furnace_
--   **Attunements:** _Flamecharm, Thundercall, & Ironsing_
+-   **Attunements:** _[Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md), & [Ironsing](Ironsing.md)_
 -   **Alliances:** _The Central Authority (Business Relations) [Authorityiconfaction](The_Central_Authority.md)_
 -   **Enemies:** _The Summer Company [Summericonfaction](The_Summer_Company.md), The Divers [Diversiconfaction](The_Divers.md)_, _The Ministry [Ministryiconfaction](The_Ministry.md)_
 -   **Lore Sources:** _Arcwarder (Description), Darksteel Greatsword (Description), Deepdelver Gamma (Dialogue)_
 
--   The Ignition Union is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[10\]](#cite-note-dsgs-10) and Railblade.[\[11\]](#cite-note-railblade-11)
--   The Ignition Union seem keen on stealing gunpowder and explosives from the Summer Company, which they are pretty successful at most times.
+-   [The Ignition Union](The_Ignition_Union.md) is a Mining Organization, armed with weaponry such as the infamous Darksteel Greatsword[\[10\]](#cite-note-dsgs-10) and Railblade.[\[11\]](#cite-note-railblade-11)
+-   The Ignition Union seem keen on stealing gunpowder and explosives from [The Summer Company](The_Summer_Company.md), which they are pretty successful at most times.
 -   They've been spotted attempting to take over Diver territory, falling behind in the First Layer compared to the Divers, but exceeding in the Second Layer, where they managed to create an outpost long before The Divers arrived there.
--   The Darksteel Greatsword,[\[10\]](#cite-note-dsgs-10) the Ignition Union being a mining organization, and the fact that Deep gems drop only (excluding Primadon) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
--   Much like their two main rivals, they are hired by The Authority, this time to "go into the Depths and kill anything that crawls out."
+-   The [Darksteel Greatsword](Darksteel_Greatsword.md),[\[10\]](#cite-note-dsgs-10) the Ignition Union being a mining organization, and the fact that [Deep Gems](Deep_Gems.md) drop only (excluding [Primadon](Primadon,_Titan_of_the_East.md)) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
+-   Much like their two main rivals, they are hired by [The Authority](The_Central_Authority.md), this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
 -   Deepdelver is a special rank in the Ignition Union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others.
--   Likely a socialist organization, as shown by their group being a _union_ and Arcwarder's description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
-    -   This is furthered by Deepdelver Gamma describing them in a sense that can be interpreted as classless.
+-   Likely a socialist organization, as shown by their group being a _union_ and [Arcwarder's](Oath%253A_Arcwarder.md) description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
+    -   This is furthered by [Deepdelver Gamma](Deepdelver_Gamma.md) describing them in a sense that can be interpreted as classless.
 -   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[12\]](#cite-note-alpha-12) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[4\]](#cite-note-arch-4)
     -   Furthermore, the Union is shown to employ at least one child soldier in [Epsi](Epsi.md), something not even the Authority stoops low enough to do.
 
 ### The Central Authority [Authorityiconfaction](The_Central_Authority.md)
 
--   **Territory:** _Fort Merit, Central Luminant, Markor_
+-   **Territory:** _[Fort Merit](Fort_Merit.md), [Central Luminant](Luminants.md), [Markor](Markor.md)_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
--   **Attunements:** _Flamecharm, Thundercall, Frostdraw_
+-   **Attunements:** _[Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md), [Frostdraw](Frostdraw.md)_
 -   **Alliances:** _The Divers (Business relation) [Diversiconfaction](The_Divers.md), The Summer Company (Business relations) [Summericonfaction](The_Summer_Company.md), The Ignition Union (Business relations)_, _The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)_
 -   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae (Captives) [Navaeiconfaction](The_Children_of_Navae.md), The Hundred Legions_,
--   **Lore Sources:** _Authority Interrogator Talents, Kelsius, Weapon Descriptions, Scope, Random Encounters_
+-   **Lore Sources:** _Authority Interrogator Talents, [Kelsius](Kelsius.md), Weapon Descriptions, [Scope](Scope.md), Random Encounters_
 
 -   The Authority is an Empire and a faction of "Peacekeepers."
--   They are led by their Grand Sovereign, Drallis Ehr.[\[1\]](#cite-note-rag-1) Several Wardens are in charge of operations across the globe, such as Warden Jericho, who oversees the war in the East. These Wardens then have Inquisitors that work under them.
+-   They are led by their [Grand Sovereign, Drallis Ehr](Drallis_Ehr.md).[\[1\]](#cite-note-rag-1) Several Wardens are in charge of operations across the globe, such as [Warden Jericho](Warden_Jericho.md), who oversees the war in the East. These Wardens then have Inquisitors that work under them.
     -   The Wardens are not mere pencil pushers, they are some of the fiercest warriors in their arsenal.
-    -   Many of the Inquisitors are named after flowers, such as Inquisitor Lotus.[\[4\]](#cite-note-arch-4)
+    -   Many of the Inquisitors are named after flowers, such as [Inquisitor Lotus](Inquisitor_Lotus.md).[\[4\]](#cite-note-arch-4)
 -   The Central Authority has a FOB in The Eastern Luminant, named Fort Merit which is also referred to as Fortification Peak.
 -   The only faction aware of The Lord Regent of Etrea's true nature and what the Ministry is planning.
--   The Officers which use Thundercall wear a red coat over their armour. The footsoldiers that use Flamecharm, ironically, lack the red coat.
--   Consists mostly of Adrets, but can vary with other aspects too.
-    -   Canors were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part. Despite this, they still receive minor preferentially treatment, but Adret still remain the most privileged members of their society.[\[4\]](#cite-note-arch-4)
-    -   The soldiers that use Flamecharm are comprised of other aspects.
+-   The Officers which use [Thundercall](Thundercall.md) wear a red coat over their armour. The footsoldiers that use [Flamecharm](Flamecharm.md), ironically, lack the red coat.
+-   Consists mostly of [Adrets](Adret.md), but can vary with other aspects too.
+    -   [Canors](Canor.md) were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part. Despite this, they still receive minor preferentially treatment, but Adret still remain the most privileged members of their society.[\[4\]](#cite-note-arch-4)
+    -   The soldiers that use [Flamecharm](Flamecharm.md) are comprised of other aspects.
         -   These just happen to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army, often sent on suicide missions for seemingly no reason.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
--   Their war against Etrea was initially an attempt for the Authority to maintain control in the East Luminant, but shifted gears once they learned the current Lord Regent of the nation was a high ranking member of the Ministry.
--   The Hive are _not_ at war with the Authority, though tensions are very high between the two, as seen with the frequent skirmishes between Hive Constructs and Authority Captains.
+-   Their war against Etrea was initially an attempt for the Authority to maintain control in the East Luminant, but shifted gears once they learned the current [Lord Regent](The_Lord_Regent.md) of the nation was a high ranking member of the Ministry.
+-   [The Hive](The_Hive.md) are _not_ at war with the Authority, though tensions are very high between the two, as seen with the frequent skirmishes between [Hive Constructs](Hive_Construct.md) and Authority Captains.
 -   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.[\[4\]](#cite-note-arch-4)
     -   The Knives sow chaos anywhere for a price.[\[4\]](#cite-note-arch-4)
     -   They purchase firearms from The Summer Company.[\[4\]](#cite-note-arch-4)
@@ -928,12 +928,12 @@ A Dark Mage, located in Minityrsa.
     -   However, all these factions, except the Knives, despise each other and often find themselves skirmishing, resulting in loss of life and resources.[\[4\]](#cite-note-arch-4)
         -   As they all work for them, the Authority refuses to send aid to any of the factions, causing a level of disenfranchisement.
 -   The forces of the Central Authority in the East use three attunements, and each has their own role.
-    -   The Central Authority's Flamecharmers are used by soldiers, guards, lieutenants and commanders alike.
-    -   The Central Authority's Thundercallers are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to Kelsius, this division is called the "Shock Corps"
-    -   The Central Authority's Frostdrawers are high ranking commanding officers.
+    -   The Central Authority's [Flamecharmers](Flamecharm.md) are used by soldiers, guards, lieutenants and commanders alike.
+    -   The Central Authority's [Thundercallers](Thundercall.md) are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to [Kelsius](Kelsius.md), this division is called the "Shock Corps"
+    -   The Central Authority's [Frostdrawers](Frostdraw.md) are high ranking commanding officers.
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind, each of whom has a designated handler.
 -   One of their known conquered territories is the savannah of Markor.
--   The Authority we see in the East is a very small fraction of the full fighting force of the Authority, but due to the Lightkeeper of the Eastern Interstital Lighthouse, Viqh, refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.
+-   The Authority we see in the East is a very small fraction of the full fighting force of the Authority, but due to the [Lightkeeper](Lightkeepers.md) of the Eastern Interstital Lighthouse, [Viqh,](Viqh.md) refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.
 -   Their goal is to survive and combat the Tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e. conquest. Understandably, the majority of ingame factions object to this, especially considering the prejudice shown by the Authority.
 
 An Authority Captain
@@ -942,44 +942,44 @@ An Authority Captain
 
 ### The Hive [Hiveiconfaction](The_Hive.md)
 
--   **Territory:** _The Lordsgrove, Greathive Aratel, 3 Other Unnamed Greathives_
--   **Attunements:** _Flamecharm, Lifeweave_
+-   **Territory:** _[The Lordsgrove](The_Lordsgrove.md), [Greathive Aratel](Greathive_Aratel.md), 3 Other Unnamed Greathives_
+-   **Attunements:** _[Flamecharm](Flamecharm.md), [Lifeweave](Lifeweave.md)_
 -   **Alliances:** _The Children of Navae [Navaeiconfaction](The_Children_of_Navae.md)_ (Neutral/Negotiating.)
 -   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md)_
--   **Lore Sources:** _Regek_
+-   **Lore Sources:** _[Regek](Regek.md)_
 
 -   They are lead by various Hivelords that act under a Greatlord.[\[13\]](#cite-note-yaya-13)
-    -   All Greatlords and Ganymede wear hats as part of a tradition to honor the very first Greatlord.[\[13\]](#cite-note-yaya-13)
--   A group of Individuals; mostly Vesperians and Ganymedes, located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
+    -   All Greatlords and [Ganymede](Ganymede.md) wear hats as part of a tradition to honor the very first Greatlord.[\[13\]](#cite-note-yaya-13)
+-   A group of Individuals; mostly [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md), located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[13\]](#cite-note-yaya-13)
-    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of Chrysids residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and join The Moonlit Faith. Many Chrysids reside in The Lullaby Isles, but some Chrysids believe in the Hive's cause and decided to stay.
+    -   Despite being mostly Vesperians and Ganymedes, there is also a portion of [Chrysids](Chrysid.md) residing within the Hive, this is because most of the Chrysids were part of the Hive, but when the Hive decided to improve more in technology and not in religion like the Chrysids believed in, most of them decided to leave the Hive and migrate to other locations and join [The Moonlit Faith](The_Moonlit_Faith.md). Many Chrysids reside in [The Lullaby Isles](Lullaby_Isles.md), but some Chrysids believe in the Hive's cause and decided to stay.
     -   Their previous home, or some sort of outpost, was located in Erisia, by the name of [The Hidden Village](The_Hidden_Village.md), indicated by similar architecture and the fountain located there.
 -   Their level of technology is far greater than most of their rivals, such as the makings of Hive Constructs, laboratories, and the invocation of green fountains.
     -   Despite the impressive nature of the Aratel Constructs, these are outdated models, with superior ones reserved for more advanced Greathives.[\[13\]](#cite-note-yaya-13)
--   Currently at war with The Kingdom of Etrea, this is possibly due to the Etreans trying to steal their Lifeweave artifacts for the Lord Regent's own interests.
+-   Currently at war with The Kingdom of Etrea, this is possibly due to the Etreans trying to steal their Lifeweave [Artifacts](Artifacts.md) for the Lord Regent's own interests.
 -   The Hive has great interest in an alliance with the Children of Navae, having one of their representatives in Meteor Isle, to discuss a possible alliance between them.
 -   The Hive protects green artifacts, similar to fragments of [The Forge](Artifacts.md), against the Kingdom of Etrea.
     -   This could be a way that they "feed" off of Starswept to sustain their Greathive.
 -   They seem to have ranks such as Drone, Adjudicator and Tactician.
 -   The Hive has Lifeweavers within their ranks, individuals who utilize The Song to manipulate and transfer life.
--   They were initially the only users of Ironsing, holding a monopoly on the Attunement, killing off any Ironsingers who tried to leave or leak it secrets, until [Adar, Master of Metal](Adar,_Master_of_Metal.md) escaped their reach and learned how to replicate the Alloyed Elixir to help others obtain Ironsing.
+-   They were initially the only users of [Ironsing](Ironsing.md), holding a monopoly on the Attunement, killing off any Ironsingers who tried to leave or leak it secrets, until [Adar, Master of Metal](Adar,_Master_of_Metal.md) escaped their reach and learned how to replicate the Alloyed Elixir to help others obtain [Ironsing](Ironsing.md).
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
 
 ### The Divers [Diversiconfaction](The_Divers.md)
 
--   **Territory:** _Markor Citadel, Castle Light._
--   **Attunements:** _Flamecharm, Frostdraw, Galebreathe, Thundercall and Shadowcast_
+-   **Territory:** _[Markor Citadel](The_Citadel_of_Markor.md), [Castle Light](Castle_Light.md)_
+-   **Attunements:** _[Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md), [Thundercall](Thundercall.md) and [Shadowcast](Shadowcast.md)_
 -   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md)_ _(Business Relations)_
 -   **Enemies:** Ignition Union
--   **Lore Sources:** _Karliah (Dialogue), Akira (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), Klaris (Dialogue). Dr Carrion (Dialogue), Divers Outfit Schematics (Description)._
+-   **Lore Sources:** _[Karliah](Karliah.md) (Dialogue), [Akira](Akira.md) (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (Dialogue). [Dr. Carrion](Carrion,_Father_of_Evolution.md) (Dialogue), Divers Outfit Schematics (Description)_
 
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light". However this is just a FOB, not the headquarters, which are located in the Markor Citadel.
 -   They were founded shortly after the Tides.[\[4\]](#cite-note-arch-4)
--   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is Karliah, in [Etris](Etris.md), who could easily go insane and kill someone close to her.
--   (The Authority) The Divers are outsourced by The Central Authority (Receives funds from The Authority) in return of their findings within The Depths.
+-   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is [Karliah](Karliah.md), in [Etris](Etris.md), who could easily go insane and kill someone close to her.
+-   (The Authority) The Divers are outsourced by [The Central Authority](The_Central_Authority.md) (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers have a mixed relationship with The Authority, such as giving them the "cold shoulder". Despite this, people like the Ignition Union call the Divers "Authority Dogs".
--   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with Diver Apprentices making up the lower ranks, and also having Diver Journeymans as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than Black Divers. Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on.
+-   The Divers a complex ranking system, with Black Divers being powerful, elite divers, and with [Diver Apprentices](Apprentice_Diver.md) making up the lower ranks, and also having [Diver Journeymans](Journeyman_Diver_Guard.md) as their mid ranks, being stronger both mentally and physically that Diver Apprentices but weaker than [Black Divers](Black_Divers_division.md). Despite this, its suspected they have more ranks within the divers, such as captains, professors, scouts, and so on.
 -   (Akira) The yearly death rate is 98% of new recruits.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in the Markor Citadel, located in the Central Luminant.
@@ -1011,18 +1011,18 @@ An Authority Captain
 
 ### The Vigils of Wind
 
--   **Territory:** _The Isle of Vigils_
+-   **Territory:** _[The Isle of Vigils](Isle_of_Vigils.md)_
 -   **Encountered In:** _The Isle of Vigils_
--   **Attunements:** _Galebreathe_
+-   **Attunements:** _[Galebreathe](Galebreathe.md)_
 -   **Alliances:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md)_
 -   **Enemies:** _N/A_
--   **Lore Sources:** _Apprentice Kj_
--   A force of katana-weilding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. Stratos is Second in Command with Evengarde Rest, and a Keeper of the Scholars of the Cloud.
+-   **Lore Sources:** _[Apprentice Kj](Apprentice_Kj.md)_
+-   A force of katana-wielding swordsmen (aptly named "Vigils") that are found primarily on the Isle of Vigils. They are led by Evengarde Rest, referred to as the "Maestro", or "Master" in Italian. [Stratos](Stratos.md) is Second in Command with [Evengarde Rest](Evengarde_Rest.md), and a Keeper of the Scholars of the Cloud.
     -   They have a history branch organization called "Scholars of the Cloud", who records the history and knowledge of the Vigils.
 -   They are considered part of the Kingdom of Etrea. Despite this, they appear to be a close-knit community that is hospitable only to themselves and those who do them massive favors, such as saving one of their lives. Even those who have good reputation with the Etrean government are still regarded as strangers by the Vigils.
 -   They are distinguished by their white robes, cloak and hood and almost exclusively use katanas. Other types of weapons are only found in-use by the instructors within their temple's dojo. They consist of a mix of aspects, presumably because they see more merit in combat proficiency and intelligence and thus are less cautious of the sudden arrival of other aspects in their kingdom.
 -   Presumably connected to Galebreathing, Stratos is only willing to teach those who know the "essence of the wind" (???), and some inhale-related weaponry Talents (Galebreathe exclusive) make mention of the vigils.
--   The Vigils of Winds are attuned with the winds- known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
+-   The Vigils of Winds are attuned with the winds - known as "The Stream". It is assumed that The Stream is some sort of transportation to those who utilized the wind.
     -   Theoretically, The Stream is the utilization of the Song created by Galebreathers.
 
 ### Contractors
@@ -1034,17 +1034,17 @@ An Authority Captain
 -   **Enemies:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md), The Warmasters, The Divers [Diversiconfaction](The_Divers.md) ._
 -   **Lore Sources:** _Warden Jericho's Journal, the Windrunner, ragoozer (Discord)_
 
--   Contractors are a group of individuals that have taken an Oath with a Prophet of the Ministry.
+-   Contractors are a group of individuals that have taken an [Oath](Oath%253A_Contractor.md) with a Prophet of the Ministry.
 -   They act as freelance Ministry Operatives.
--   The Lord Regent of Etrea, Zi'eer, himself is a Contractor.
+-   The Lord Regent of Etrea, [Zi'eer](The_Lord_Regent.md), himself is a Contractor.
 -   Prior to Year 1271 they were considered extinct.
--   During Year 1363, Zi'eer began to rebuild them, recruiting them from Pathfinders who proved their worth.
+-   During Year 1363, Zi'eer began to rebuild them, recruiting them from [Pathfinders](Pathfinder.md) who proved their worth.
 
 ### The Golden Rats
 
--   **Territory:** _The Rat's Den_
+-   **Territory:** _[The Rat's Den](<Rat's_Den.md>)_
 -   **Encountered In:** _Erisia_
--   **Attunements:** _Galebreathe_
+-   **Attunements:** _[Galebreathe](Galebreathe.md)_
 -   **Alliances:** _The Hundred Legions_
 -   **Enemies:** _N/A_
 -   **Lore Sources:** [Champion's Dagger](<Champion's_Dagger.md>), [Champion's Sword](<Champion's_Sword.md>), [Legion Captain](Legion_Captain.md)
@@ -1061,8 +1061,8 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 -   **Territory:** _None_
 -   **Encountered In**: _[Songseeker Wilds](Songseeker_Wilds.md), [Minityrsa](Minityrsa.md) (Frostdraw Only)_
--   **Attunements:** _Flamecharm, Thundercall, Frostdraw, Galebreathe_
--   **Lore Sources:** _Songseeker Wilds_
+-   **Attunements:** _[Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md)_
+-   **Lore Sources:** _[Songseeker Wilds](Songseeker_Wilds.md)_
 
 -   A group that worship the Song, known as the Masters of the Elements. The Songseekers consist of any aspect.
     -   These Songseekers aren't actually Tribesmen, despite their appearance. They are people who wish to learn and master the ways of the Old World's Mantracasters, more akin to a religion or cult.
@@ -1070,7 +1070,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### Bandits
 
--   **Territory:** _Lower Erisia_
+-   **Territory:** _[Lower Erisia](Lower_Erisia.md)_
 -   **Encountered In:** _Erisia, Summer Isle, Etris, Isle of Vigils_
 -   **Attunements:** _None_
 -   **Lore Sources:** _Erisia_
@@ -1096,27 +1096,27 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunements:** _Any_
 -   **Alliances:** _The Justicar_
 -   **Enemies:** N/A
--   **Lore Sources:** _Neero (Mentioned), Arch\_Mage (Edits), Bookworm Andros (Mentioned), Polis (Mention of Alsin), Pathfinder random event (Mention of Alsin)_
+-   **Lore Sources:** _[Neero](Neero.md) (Mentioned), Arch\_Mage (Edits), [Bookkeeper Andros](Bookkeeper_Andros.md) (Mentioned), [Polis](Polis.md) (Mention of Alsin), Pathfinder random event (Mention of Alsin)_
 
 -   A label applicable to anyone who adventures for their own personal goals, including but not limited to historians, treasure hunters, warriors, etc. The title of Pathfinder varies dependent the individual; either focused more on combat or exploration.
     -   (Neero) The Pathfinders consist of Historians, Scavengers, Bounty Hunters, and Explorers.
-    -   (Neero) A Pathfinder's goal is to explore "Driftlands", Islands that drifted from the Voidsea, time to time.
+    -   (Neero) A Pathfinder's goal is to explore "Driftlands", Islands that drifted from the [Voidsea](Voidsea.md), time to time.
 -   The Pathfinders are similar to The Old Stewards, though not exactly the same. Pathfinders as a whole are more of a profession, unlike the Old Stewards that consists mostly of Historians.[\[4\]](#cite-note-arch-4)
 -   (Bookworm Andros) Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
 -   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
--   Many Pathfinders worship Celestials, namely Alsin.
+-   Many Pathfinders worship Celestials, namely [Alsin](Alsin.md).
 
 ### The Covenant of Flame
 
--   **Encountered in:** _Western Luminant, Lance Leshi's restaurant (Ploom), Songseeker Temple (Amashi)_
--   **Attunments:** _Flamecharm_
--   **Alliances:** _Amorus Pleeksty(?)_
+-   **Encountered in:** _Western Luminant, [Lance Leshi's restaurant](Lance.md) ([Ploom](Ploom.md)), [Songseeker Temple](Songseeker_Temple.md) ([Amashi](Amashi,_Master_of_Flame.md))_
+-   **Attunments:** _[Flamecharm](Flamecharm.md)_
+-   **Alliances:** _[Amorus Pleeksty](Amorus_Pleeksty.md)(?)_
 -   **Enemies:** _The Depths(?)_
--   **Lore Sources:** _Ploom, Worshipper Shield, Flamecharmer Worshipper Outfit, ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards), Mystic._
+-   **Lore Sources:** _Ploom, [Worshipper's Shield](<Worshipper's_Shield.md>), [Flamecharmer Worshipper Outfit](Flame_Worshipper_Armor.md), ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards), [Mystic](Mystic.md)._
 
 -   A group of Flamecharmers who follow the teachings of the Black Diver and Deepwoken, Amorus Pleeksty.
--   One of the few faiths from the Canticlysm that survived the Tides and its still spreading today. (Book: Vows by the sea: Inheritance)
+-   One of the few faiths from the [Canticlysm](The_Canticlysm.md) that survived the Tides and its still spreading today. (Book: Vows by the sea: Inheritance)
 -   Most of them reside in the West Luminant, but some of them travel to all of Lumen spreading the teachings of Amorus Pleeksty.
 -   Many members of the Covenant of Flame represent Amorus Pleeksty as a "God", but Pleeksty only sees them as a fan club.[\[1\]](#cite-note-rag-1)
 -   The relations between Pleeksty and the Covenant of Flame are unknown, but it is known that Pleeksty taught many people the concepts of Flamecharm in the Canticlysm, making these people to spread his teachings and creating the Covenant of Flame.
@@ -1127,35 +1127,35 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 
 ### The Circle of Honor
 
--   **Encountered in:** _Central Luminant(?)_
+-   **Encountered in:** _[Central Luminant](Luminants.md)(?)_
 -   **Attunements:** _Any_
 -   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (?)_
 -   **Enemies:** _Contractors, The Ministry [Ministryiconfaction](The_Ministry.md) (?)_
--   **Lore Sources:** _ragoozer, Warden Jericho Journal, Windrunner._
+-   **Lore Sources:** _ragoozer, [Warden Jericho Journal](Journal_of_Warden_Jericho.md), [Windrunner](Windrunner.md)._
 
--   Creators and source of power of the Warmaster Oath.[\[1\]](#cite-note-rag-1)
+-   Creators and source of power of the [Warmaster Oath](Oaths.md).[\[1\]](#cite-note-rag-1)
 -   Likely composed of important members of the Authority.
--   Are enemies of the Contractor and possibly the ministry due to Warden Jericho and the Windrunner stating that they are against each other.
+-   Are enemies of the Contractor and possibly also [The Ministry](The_Ministry.md) due to [Warden Jericho](Warden_Jericho.md) and the Windrunner stating that they are against each other.
 -   A possible member of the Circle of Honor is Warden Jericho.[\[1\]](#cite-note-rag-1)
--   They are known to carry floating blades as Warmasters.[\[1\]](#cite-note-rag-1)
+-   They are known to carry floating blades as [Warmasters](Oaths.md).[\[1\]](#cite-note-rag-1)
 -   It is speculated that every person who has taken the Oath of a Warmaster is a member of the Circle of Honor, given the Oath specifically draws power from it.
 -   Their objectives and vows are unknown, but it appears to both be against the interests of The Ministry, but also those of the Authority, given they are the opposite of Contractors yet Jericho fears the actions of the Authority will prevent him from maintaining his Oath.
 
 ### Kyrsgarde
 
--   **Encountered In:** _Firfire, New Kyrsa, Kyrsan Wilds_
--   **Attunements:** _Frostdraw_
--   **Alliances:** _Ethiron (against their will)_
+-   **Encountered In:** _[Firfire](Firfire.md), [New Kyrsa](Second_Layer/New_Kyrsa.md), [Kyrsan Wilds](Kyrsan_Wilds.md)_
+-   **Attunements:** _[Frostdraw](Frostdraw.md)_
+-   **Alliances:** _[Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) (against their will)_
 -   **Enemies:** _Ethiron(?)_
--   **Lore Sources:** _Naerotiv, Erosius Amaltus Urivertus Alistus Casius Walistoshus, Aeroaseluniris Oricalum Forentus_
+-   **Lore Sources:** _[Naerotiv](Naerotiv.md), [Erosius Amaltus Urivertus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md), [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md)_
 
--   A race of people that live within the Eternal Gale.
+-   A race of people that live within the [Eternal Gale](Second_Layer.md).
 -   They worship Ethiron, and have built a shrine on the first floor of the Eternal Gale.
 -   Over the course of their lives they add more words to their name.
 -   They are not too fond of people from outside the Eternal Gale, who they call Fringewalkers, or Frinwalter in their own tongue.
     -   Though not exactly fond, they don't have anything against us either and are happy to talk with us. They are very hospitable and kind, and while not having a fond image of us they still treat us with respect as if they see us as similar enough to their kind as if they have their own form of "humanity" that makes it so that they see us as people because we are sentient beings.
 -   The Kyrsgarde in New Kyrsa are aggressive towards outsiders, unlike the ones in Firfire, who tolerate their presence.
-    -   Despite being hostile in New Kyrsa, in Firfire they can be seen in a more friendly, hospitable, and even charming manner. This may be because of their distance from Ethiron compared to the Kyrsgarde in New Kyrsa, with less influence coming from the Scion of Ethiron.
+    -   Despite being hostile in New Kyrsa, in Firfire they can be seen in a more friendly, hospitable, and even charming manner. This may be because of their distance from Ethiron compared to the Kyrsgarde in New Kyrsa, with less influence coming from the [Scion of Ethiron](Scion_of_Ethiron.md).
 -   Their heads can be eaten and even are shown to have a great amount of nutritional value.
 -   The Kyrsgarde have a lot of prosperity and such, but something called "the mist" has changed something in them. Naerotiv tells us this place is not good for us, and that the foolishness of the Kyrsgarde is what brought this tragedy.
 -   Visually, Kyrsgarde brutes seem to have filled the role of labourers or guards in New Kyrsa.

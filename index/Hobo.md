@@ -1,9 +1,9 @@
 ---
 title: Hobo
-revid: 176624
+revid: 188835
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant, Enemies]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies]
 ---
 
 # Hobo
@@ -14,6 +14,10 @@ categories: [NPCs, NPCs located in the Etrean Luminant, Enemies]
 | drops | Four Chests, Dying Embers |
 | weapon | None |
 | moves | Fire Eruption, Flame Assault, Flame Repulsion, Flaming Scourge, Rising Flame |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

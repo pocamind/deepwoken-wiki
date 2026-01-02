@@ -1,9 +1,9 @@
 ---
 title: Makolis Pariah Katatonicus
-revid: 167115
+revid: 188715
 source: https://deepwoken.fandom.com/wiki/Makolis_Pariah_Katatonicus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
 ---
 
 # Makolis Pariah Katatonicus
@@ -13,6 +13,10 @@ categories: [Kyrsan NPCs, NPCs, NPCs located in the First Floor of the Second La
 | name | Makolis Pariah Katatonicus |
 | species | Kyrsan |
 | location | Firfire |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

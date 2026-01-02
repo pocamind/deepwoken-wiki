@@ -1,12 +1,16 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 188654
+revid: 188806
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
+categories: [Pathfinder Exclusive, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
 ---
 
 # Carrion, Father of Evolution
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Template:NpcInfobox
 

@@ -1,9 +1,9 @@
 ---
 title: Delta
-revid: 186330
+revid: 188814
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
 ---
 
 # Delta
@@ -14,6 +14,10 @@ categories: [Canor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignitio
 | aspect | Canor |
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Ah, how's it going, recruit? I'll be on watch here for a bit. Let me know if anything's up. ”
 

@@ -1,16 +1,18 @@
 ---
 title: The Diluvian Mechanism
-revid: 188080
+revid: 188774
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Layer, Dungeons, Layer 1]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Dungeons, Layer 1]
 ---
 
 # The Diluvian Mechanism
 
-LocationL Diluvian Mechanism LocationR
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
-TERRITORY OF 😨
+LocationL Diluvian Mechanism LocationR
 
 An inscrutable mechanism looms in the centre of the hall. Many hearts have been consumed to spur its accursed gears into motion.
 

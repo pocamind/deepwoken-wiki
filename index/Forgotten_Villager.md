@@ -1,9 +1,9 @@
 ---
 title: Forgotten Villager
-revid: 177036
+revid: 188825
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs]
+categories: [Pathfinder Exclusive, Enemies, NPCs]
 ---
 
 # Forgotten Villager
@@ -14,6 +14,10 @@ categories: [Enemies, NPCs]
 | drops | None |
 | weapon | Fists |
 | moves | Assault, Critical |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ He claims to be an ally but his loyalty still lies with the Lord of this land... ”
 

@@ -1,9 +1,9 @@
 ---
 title: Mendacia
-revid: 175742
+revid: 188712
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, NPCs, NPCs located in the First Floor of the Second Layer, NPCs located in the Second Floor of the Second Layer, Quests]
+categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, NPCs located in the Second Floor of the Second Layer, Quests]
 ---
 
 # Mendacia
@@ -11,8 +11,13 @@ categories: [Tiran NPCs, NPCs, NPCs located in the First Floor of the Second Lay
 | Mendacia | |
 |---|---|
 | name | Ethiron |
+| alias | Mendacia |
 | aspect | Tiran |
 | location | Ethironal Shrine Outskirts, Firfire Caverns, Kyrsan Wilds, New Kyrsa, The Sleeping City |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
@@ -75,8 +80,8 @@ Upon arriving to New Kyrsa she will be in front of the first obelisk near the sp
   <td>Please... <i>*She fades from your view.*</i></td>
 </tr>
 <tr>
-  <td>End, quest starts</td>
-  <td>End, player gains 2</td>
+  <td>[End Dialogue], quest starts</td>
+  <td>[End Dialogue], player gains 2</td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +119,7 @@ These dialogues are unlocked if the player chooses the option "I promise." to co
   <td>Ah, a good name... Well [First Name], I look forward to meeting you in person. Now get moving, I am literally starving down here.</td>
 </tr>
 <tr>
-  <td>End, quest continues</td>
+  <td>[End Dialogue], quest continues</td>
 </tr>
 </tbody>
 </table>
@@ -136,7 +141,7 @@ These dialogues are unlocked if the player chooses the option "I promise." to co
   <td>Activate the Obelisks around the city. All of their lights connect to the Center. Once you are done, I will finally be free! <i>*Her smile is wider than you have ever seen.*</i> Thank you so much.</td>
 </tr>
 <tr>
-  <td>End, quest continues</td>
+  <td>[End Dialogue], quest continues</td>
 </tr>
 </tbody>
 </table>
@@ -168,7 +173,7 @@ These dialogues are unlocked if the player chooses the option "I promise." to co
   <td>What?</td>
 </tr>
 <tr>
-  <td>End, player gains 2</td>
+  <td>[End Dialogue], player gains 2</td>
   <td>[See first instance]</td>
 </tr>
 </tbody>

@@ -1,12 +1,16 @@
 ---
 title: Nest Corridor
-revid: 166712
+revid: 188760
 source: https://deepwoken.fandom.com/wiki/Nest_Corridor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # Nest Corridor
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Nest Corridor LocationR
 

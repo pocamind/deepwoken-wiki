@@ -1,9 +1,9 @@
 ---
 title: Aezeroth Kaladin
-revid: 177163
+revid: 188718
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Aezeroth Kaladin
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the First Floor of the Second Layer]
 | name | Aesalath Kalafrid |
 | aspect | Kyrsan |
 | location | Firfire |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ We all have our part to play in his plan. You included. ”
 

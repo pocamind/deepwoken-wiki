@@ -1,9 +1,9 @@
 ---
 title: Vtreshi
-revid: 168064
+revid: 188728
 source: https://deepwoken.fandom.com/wiki/Vtreshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
 ---
 
 # Vtreshi
@@ -14,6 +14,10 @@ categories: [Etrean NPCs, NPCs, NPCs located in the First Floor of the Second La
 | aspect | Etrean |
 | location | Ethironal Shrine Sanctuary |
 | affiliation | The Divers |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

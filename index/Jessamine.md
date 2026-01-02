@@ -1,9 +1,9 @@
 ---
 title: Jessamine
-revid: 185018
+revid: 188832
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Jessamine
@@ -13,6 +13,10 @@ categories: [Ganymede NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
 | name | Jessamine |
 | aspect | Ganymede |
 | location | Starswept Valley |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Keep your wits about you in this place, lest you want to meet an untimely end. ”
 

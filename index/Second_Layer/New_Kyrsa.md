@@ -1,12 +1,16 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 181431
+revid: 188767
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
+categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
 ---
 
 # Second Layer/New Kyrsa
+
+**[Pathfinder](../Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL New Kyrsa, The Sleeping City LocationR
 

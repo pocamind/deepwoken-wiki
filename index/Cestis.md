@@ -1,9 +1,9 @@
 ---
 title: Cestis
-revid: 188424
+revid: 188808
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Individuals with He/him pronouns, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
 ---
 
 # Cestis
@@ -15,6 +15,10 @@ categories: [Ganymede NPCs, Individuals with He/him pronouns, NPCs, The Ministry
 | pronouns | He/him |
 | location | Meteor Isle |
 | affiliation | The Ministry |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

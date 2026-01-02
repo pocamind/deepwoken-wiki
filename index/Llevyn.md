@@ -1,9 +1,9 @@
 ---
 title: Llevyn
-revid: 180976
+revid: 188735
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
 ---
 
 # Llevyn
@@ -14,6 +14,10 @@ categories: [Adret NPCs, NPCs, NPCs located in the First Floor of the Second Lay
 | aspect | Adret |
 | location | The Frontier Furnace |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Alsin above... Don't just stand there and take my blessing for granted! Hurry to that Deepdriller. ”
 

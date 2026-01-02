@@ -1,12 +1,16 @@
 ---
 title: Kyrsan Wilds
-revid: 166724
+revid: 188755
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Second Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer]
 ---
 
 # Kyrsan Wilds
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Kyrsan Wilds LocationR
 

@@ -1,9 +1,9 @@
 ---
 title: Serendi
-revid: 177702
+revid: 188866
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Serendi
@@ -13,6 +13,10 @@ categories: [Etrean NPCs, NPCs, "NPCs located in The Scoundrel's Bounty"]
 | name | Serendi |
 | aspect | Etrean |
 | location | The Scoundrel's Bounty |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ The breeze out here is lovely, isn't it? I can see an infinite blue from here! ”
 

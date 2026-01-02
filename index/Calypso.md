@@ -1,9 +1,9 @@
 ---
 title: Calypso
-revid: 173652
+revid: 188804
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]
 ---
 
 # Calypso
@@ -14,6 +14,10 @@ categories: [Adret NPCs, NPCs, The Ignition Union, NPCs located in the Eastern L
 | aspect | Adret |
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Aeroaseluniris Oricalum Forentus
-revid: 169498
+revid: 188713
 source: https://deepwoken.fandom.com/wiki/Aeroaseluniris_Oricalum_Forentus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Aeroaseluniris Oricalum Forentus
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the First Floor of the Second Layer]
 | name | Aeroaseluniris Oricalum Forentus |
 | aspect | Kyrsan |
 | location | Firfire |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Leader was right, you fringewalkers really are insufferable. ”
 
@@ -74,7 +78,7 @@ Aeroaseluniris Oricalum Forentus, or more simply, Aero, is an NPC that greets yo
   <td colspan="6">How do I get up to that large tower?</td>
 </tr>
 <tr>
-  <td colspan="6">Oh... That tower you speak of was once our pride.. a Grand temple to Ethiron. But a fringewalker has made his way inside. If you want to get inside you may want to speak to our leader.</td>
+  <td colspan="6">Oh... That tower you speak of was once our pride.. a Grand temple to <a href="Glossary.md#ethrion-the-maelstroms-eye">Ethiron</a>. But a fringewalker has made his way inside. If you want to get inside you may want to speak to our leader.</td>
 </tr>
 <tr>
   <td colspan="6">End</td>

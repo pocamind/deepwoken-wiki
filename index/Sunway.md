@@ -1,9 +1,9 @@
 ---
 title: Sunway
-revid: 186332
+revid: 188730
 source: https://deepwoken.fandom.com/wiki/Sunway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
 ---
 
 # Sunway
@@ -14,6 +14,10 @@ categories: [Vesperian NPCs, NPCs, NPCs located in the First Floor of the Second
 | aspect | Vesperian |
 | location | The Frontier Furnace |
 | affiliation | The Ignition Union |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ This base used to have a lot more people wandering these halls, friend... ”
 

@@ -1,9 +1,9 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 137881
+revid: 188821
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Floor 2, Layer 2, Quests]
+categories: [Pathfinder Exclusive, NPCs, Floor 2, Layer 2, Quests]
 ---
 
 # Frosviernr Joraelnaero
@@ -13,6 +13,10 @@ categories: [NPCs, Floor 2, Layer 2, Quests]
 | name | Frosviernr Jorealnaero |
 | aspect | Kyrsan |
 | location | New Kyrsa |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ ...My brother could fashion the finest spears of frost infinitely more elegant than the conjured weaponry of our contemporarys. ”
 

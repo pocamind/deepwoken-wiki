@@ -1,12 +1,16 @@
 ---
 title: Ethironal Shrine Sanctuary
-revid: 166706
+revid: 188743
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Sanctuary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Locations, Locations in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # Ethironal Shrine Sanctuary
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL ethironal shrine sanctuary LocationR
 

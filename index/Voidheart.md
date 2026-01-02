@@ -1,12 +1,16 @@
 ---
 title: Voidheart
-revid: 181401
+revid: 188786
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Lawless Territory, The Knives of Eylis]
+categories: [Pathfinder Exclusive, Locations, Lawless Territory, The Knives of Eylis]
 ---
 
 # Voidheart
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Template:Location2
 

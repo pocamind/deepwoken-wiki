@@ -1,9 +1,9 @@
 ---
 title: Karthal
-revid: 178158
+revid: 188836
 source: https://deepwoken.fandom.com/wiki/Karthal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, The Divers]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
 ---
 
 # Karthal
@@ -14,6 +14,10 @@ categories: [Celtor NPCs, NPCs, NPCs located in the First Layer, The Divers]
 | aspect | Celtor |
 | location | First Layer |
 | affiliation | The Divers |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ If you ring that bell, **all hell will break loose**... No one could survive if that bell were to ring. ”
 

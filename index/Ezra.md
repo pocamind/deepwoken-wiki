@@ -1,9 +1,9 @@
 ---
 title: Ezra
-revid: 169509
+revid: 188817
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Ezra
@@ -13,6 +13,10 @@ categories: [Capra NPCs, NPCs, NPCs located in the Eastern Luminant, Quests]
 | name | Ezra |
 | aspect | Capra |
 | location | Songseeker Wilds |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

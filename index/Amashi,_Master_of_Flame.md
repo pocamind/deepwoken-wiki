@@ -1,9 +1,9 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 177514
+revid: 188801
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
+categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Amashi, Master of Flame
@@ -14,6 +14,10 @@ categories: [Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Lum
 | drops | None |
 | weapon | Hero Blade of Flame |
 | moves | Assault, Critical, Fire Blade, Flame Repulsion, Flame Assault |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

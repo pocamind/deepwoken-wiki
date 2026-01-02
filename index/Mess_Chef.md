@@ -1,9 +1,9 @@
 ---
 title: Mess Chef
-revid: 177650
+revid: 188844
 source: https://deepwoken.fandom.com/wiki/Mess_Chef
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Guild Base, Vendors]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base, Vendors]
 ---
 
 # Mess Chef
@@ -12,6 +12,10 @@ categories: [NPCs, NPCs located in the Guild Base, Vendors]
 |---|---|
 | aspect | Randomized |
 | location | Guild Base Mess Hall |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

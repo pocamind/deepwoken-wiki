@@ -1,12 +1,16 @@
 ---
 title: Kyrsan Shrine of Arrival
-revid: 175745
+revid: 188754
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Shrine_of_Arrival
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Second Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer]
 ---
 
 # Kyrsan Shrine of Arrival
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Kyrsan Shrine of Arrival LocationR
 

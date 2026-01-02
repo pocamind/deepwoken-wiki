@@ -1,9 +1,9 @@
 ---
 title: Misérables
-revid: 173705
+revid: 188702
 source: https://deepwoken.fandom.com/wiki/Mis%C3%A9rables
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Misérables
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the Second Floor of the Second Layer]
 | name | Misérables |
 | species | ??? |
 | location | New Kyrsa |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Is that all? A dull life. Dull choices made by dull humans, befit of only the dullest minds. You should seek peace of mind. Peace of mind, mouse. ”
 

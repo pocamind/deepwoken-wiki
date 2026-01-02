@@ -1,9 +1,9 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 188460
+revid: 188837
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with She/her pronouns, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
+categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
 ---
 
 # Klaris Llfiend, Mother of Lights
@@ -15,6 +15,10 @@ categories: [Canor NPCs, Individuals with She/her pronouns, Vendors, NPCs, NPCs 
 | pronouns | She/her |
 | location | Castle Light |
 | affiliation | The Divers |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ You've done a great deal for us. This is the least we can offer in gratitude. ”
 
@@ -429,18 +433,18 @@ Radiant Teachings
 <tr>
   <td>Knowledge [1 Medallion]</td>
   <td>Purchasing Enchant Stone, Enchant Grease, or Dye Packets</td>
-  <td>Regarding Dawnwalker</td>
   <td>Not enough Medallions for any purchase</td>
+  <td>Regarding Dawnwalker</td>
 </tr>
 <tr>
   <td>Ah, a little forbidden knowledge? Not a bad trade. I'll show you just a taste of what I've seen...</td>
   <td>A pleasure. Come my way if you come across any more of these things - they're fascinating.</td>
-  <td>[See Dawnwalker]</td>
   <td>I don't think you have enough on hand.</td>
+  <td>[See Dawnwalker]</td>
 </tr>
 <tr>
   <td>Slider from 1 to 100</td>
-  <td>[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>A pleasure. Come my way if you come across any more of these things - they're fascinating.</td>
@@ -460,25 +464,24 @@ Radiant Teachings
 </tr>
 <tr>
   <td colspan="6">Not having Dawnwalker</td>
-  <td colspan="6">Already having Dawnwalker</td>
+  <td colspan="6">Purchasing Radiant Mastery</td>
 </tr>
 <tr>
   <td colspan="6">Can you teach me the secret of Radiant magic? [30 Medallions]</td>
-  <td colspan="6">Can you enhance my Radiant mastery? [15 Medallions]</td>
+  <td colspan="6">I will teach you the next stages of the morning light. Now, listen...</td>
 </tr>
 <tr>
   <td colspan="3">Requirements Met</td>
   <td colspan="3">Already having an Oath</td>
-  <td colspan="6">Progressing Dawnwalker</td>
+  <td colspan="6">[End Dialogue], player progresses Dawnwalker</td>
 </tr>
 <tr>
   <td colspan="3">Hm. Perhaps. you have the potential. Child, do you swear to carry the Light as a weapon against the Deep? To wield the <a href="Glossary.md#the-song">Song</a> only as a Radiant Blade against that which it beckons?</td>
   <td colspan="3">Your soul belongs to another. I cannot teach you.</td>
-  <td colspan="6">I will teach you the next stages of the morning light. Now, listen...</td>
 </tr>
 <tr>
   <td colspan="3">I vow it.</td>
-  <td colspan="9">[End Dialogue]</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">Very well. You shall connect with the Light around us, surrounding all of <a href="Glossary.md#lumen">Lumen</a>.</td>

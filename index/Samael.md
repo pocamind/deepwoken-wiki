@@ -1,9 +1,9 @@
 ---
 title: Samael
-revid: 174457
+revid: 188863
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
 ---
 
 # Samael
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Stark
 | name | Samael |
 | location | Derelict Highchurch |
 | affiliation | The Starkindred Church |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ There are those of the faith - like myself - who swear an Oath to the Church. Through the Ichor that runs through our veins, we dedicate our lives to its protection. We prevent it from falling into the wrong hands. ”
 

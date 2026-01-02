@@ -1,9 +1,9 @@
 ---
 title: Aska
-revid: 188631
+revid: 188722
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame, Individuals with unspecified pronouns]
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame, Individuals with unspecified pronouns]
 ---
 
 # Aska
@@ -15,6 +15,10 @@ categories: [Capra NPCs, NPCs, Enemies, NPCs located in the First Floor of the S
 | weapon | Pleeksty's Inferno |
 | moves | Assault, Critical, Flame Grab, Flame Sentinel, Flaming Scourge, Ash Slam, Relentless Flames, Flare Volley |
 | aspect | Capra |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ KINDLE ANEW AND RETURN TO THE FLAME ”
 
@@ -139,7 +143,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
   <td colspan="9">You came back... I have been a waiting your return... All this time.. It pains me to meet you in this state, my lord.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
   <td colspan="9">[Take the Weapon]</td>
 </tr>
 <tr>
@@ -156,10 +160,10 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="3">End, you start to build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> but are spared before your demise.<br>
+  <td colspan="3">[End Dialogue], you start to build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> but are spared before your demise.<br>
   You are given <a href="Pleeksty's_Inferno.md">Pleeksty's Inferno</a></td>
-  <td colspan="3">End, the fight starts</td>
-  <td colspan="3">End, you build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> and <b>die, wiping you</b></td>
+  <td colspan="3">[End Dialogue], the fight starts</td>
+  <td colspan="3">[End Dialogue], you build up an extreme amount of <a href="Status_Effects.md#wither">Wither</a> and <b>die, wiping you</b></td>
 </tr>
 </tbody>
 </table>

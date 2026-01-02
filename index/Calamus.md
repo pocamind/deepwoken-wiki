@@ -1,9 +1,9 @@
 ---
 title: Calamus
-revid: 174231
+revid: 188807
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests, The Hive]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Hive]
 ---
 
 # Calamus
@@ -14,6 +14,10 @@ categories: [Vesperian NPCs, NPCs, NPCs located in the Eastern Luminant, Quests,
 | aspect | Vesperian |
 | location | Starswept Valley |
 | affiliation | The Hive |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

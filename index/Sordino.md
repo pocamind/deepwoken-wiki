@@ -1,9 +1,9 @@
 ---
 title: Sordino
-revid: 174007
+revid: 188874
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
+categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
 ---
 
 # Sordino
@@ -13,6 +13,10 @@ categories: [Canor NPCs, Vendors, NPCs located in the Eastern Luminant, NPCs, Qu
 | name | Sordino |
 | aspect | Canor |
 | location | Starswept Valley |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,12 +1,16 @@
 ---
 title: Ethironal Shrine Outskirts
-revid: 174849
+revid: 188742
 source: https://deepwoken.fandom.com/wiki/Ethironal_Shrine_Outskirts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
 ---
 
 # Ethironal Shrine Outskirts
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Ethironal Shrine Outskirts LocationR
 

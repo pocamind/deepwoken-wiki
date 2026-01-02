@@ -1,9 +1,9 @@
 ---
 title: Treasurer
-revid: 170783
+revid: 188880
 source: https://deepwoken.fandom.com/wiki/Treasurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Guild Base]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]
 ---
 
 # Treasurer
@@ -11,6 +11,10 @@ categories: [NPCs, NPCs located in the Guild Base]
 | Treasurer | |
 |---|---|
 | aspect | Randomized |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Overview
 

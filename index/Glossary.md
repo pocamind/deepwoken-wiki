@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 188663
+revid: 188688
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -287,6 +287,7 @@ Dialogue: | Books: [Strange Missives](Strange_Missives.md) | Glossary Entries: [
 ### Zhatarn, the Moonlight Prince
 
 -   The legends say that Zhatarn was exiled from the [Heavens](#the-heavens) and forced to roam the Void forevermore.
+
 -   A [Celestial](#the-celestials) said to have been driven mad by his attempt to draw power from the [Moonseye.](#the-moonseye)
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md) if the player has a [Soulthorn](Soulthorn.md) equipped | Books: | Glossary Entries: [The Moonseye](#the-moonseye)

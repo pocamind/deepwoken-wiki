@@ -1,12 +1,16 @@
 ---
 title: The Sunken Railways
-revid: 166723
+revid: 188781
 source: https://deepwoken.fandom.com/wiki/The_Sunken_Railways
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Second Floor of the Second Layer]
+categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer]
 ---
 
 # The Sunken Railways
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Template:Location2
 

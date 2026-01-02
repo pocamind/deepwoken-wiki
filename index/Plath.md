@@ -1,9 +1,9 @@
 ---
 title: Plath
-revid: 187232
+revid: 188709
 source: https://deepwoken.fandom.com/wiki/Plath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Plath
@@ -13,6 +13,10 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Second Floor of the Second L
 | name | Plath |
 | aspect | Celtor |
 | location | Kyrsan Wilds |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

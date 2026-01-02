@@ -1,9 +1,9 @@
 ---
 title: Mystic
-revid: 185407
+revid: 188841
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, NPCs, Talents]
+categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, Talents]
 ---
 
 # Mystic
@@ -13,6 +13,12 @@ categories: [Chrysid NPCs, NPCs, Talents]
 | name | Mystic |
 | aspect | Chrysid |
 | location | Etris, Summer Isle, Castle Light, Voidheart, Greathive Aratel, Miner's Landing, Isle of Vigils, Guild Bases, Meteor Isle |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+  
 
 “ Ah, traveler! Come, come and sit! For a small price I will surmise your great destiny! ”
 

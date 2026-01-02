@@ -1,9 +1,9 @@
 ---
 title: Regarde
-revid: 188127
+revid: 188860
 source: https://deepwoken.fandom.com/wiki/Regarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Regarde
@@ -13,6 +13,10 @@ categories: [NPCs, NPCs located in the Eastern Luminant, Individuals with unspec
 | name | Regarde |
 | aspect | Vesperian |
 | location | Greathive Aratel |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
