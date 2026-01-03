@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 187964
+revid: 189205
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -30,7 +30,7 @@ The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), form
 
 ### Starting Fight with Shogun
 
-1.  Recommended but not mandatory: Reach Power 5
+1.  Recommended but not mandatory: Reach Power 5.
 2.  Make your way to the [Deep Thresher Nest](Deep_Thresher_Nest.md), below the trenches close to where the [Deep Widow](Deep_Widow.md) is and instead of going towards the Widow, go the other direction and enter the [Boundary](Boundary.md).
 3.  Upon loading into the instanced area, walk up to the standing Shogun and they will start fighting you.
 

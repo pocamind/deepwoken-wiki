@@ -1,9 +1,9 @@
 ---
 title: Unidentified Legion Praetorian
-revid: 178094
+revid: 189167
 source: https://deepwoken.fandom.com/wiki/Unidentified_Legion_Praetorian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Articles with conjectural titles]
+categories: [Articles with conjectural titles, Individuals with He/him pronouns]
 notices:
   - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---
@@ -12,6 +12,7 @@ notices:
 
 | Unidentified Legion Praetorian | |
 |---|---|
+| pronouns | He/him[1] |
 | affiliation | The Hundred Legions[1] |
 
 ## Description
@@ -22,4 +23,4 @@ The Praetorian and his weapon have since attained a legendary reputation, though
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-is-1-0) [1.1](#cite-ref-is-1-1) [1.2](#cite-ref-is-1-2) [Imperial Staff](Imperial_Staff.md) description
+1.  ↑ [1.0](#cite-ref-is-1-0) [1.1](#cite-ref-is-1-1) [1.2](#cite-ref-is-1-2) [1.3](#cite-ref-is-1-3) [Imperial Staff](Imperial_Staff.md) description

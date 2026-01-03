@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 188511
+revid: 189171
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals]
@@ -53,7 +53,7 @@ The cooldown for either critical is **10 seconds**.
 ## Trivia
 
 -   At 6 Proficiency, it deals 31.3 damage meeting the requirements and 41.7 damage with 100 MED and HVY.
--   Wyrmtooth proccing both Medium and Heavy Talents includes both the Medium and Heavy weapon variants of the [Silentheart](Oath%253A_Silentheart.md) moves, proccing the heavy ones if the medium ones are on cooldown.
+-   Wyrmtooth proccing both Medium and Heavy Talents includes both the Medium and Heavy weapon variants of the [Silentheart](Oath%253A_Silentheart.md) moves, proccing the heavy ones if the medium ones are on cooldown. However, Wyrmtooth will deal 50% less damage on Silentheart abilities.
 -   Before the update that granted Wyrmtooth the ability to proc Talents from both weapon classes, it could only proc Talents from the [Thunderblade](Talents.md#thunderblade) Talent tree and and [Destructive Recovery](Talents.md#destructive-recovery).
 -   Wyrmtooth benefits from the Heavy weapon hit count for [Enchant](Enchantments.md) effects. For example, Detonation will proc after landing 3 hits instead of 4.
 -   In an update on 13th April, 2024, the Wyrmtooth was purported to have had its PEN increased to 25% but this was never applied ingame until June 9th, 2025, when the PEN was shadow fixed to 25%.

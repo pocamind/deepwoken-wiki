@@ -1,9 +1,9 @@
 ---
 title: Vincent Zeneke
-revid: 173250
+revid: 189172
 source: https://deepwoken.fandom.com/wiki/Vincent_Zeneke
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Scholars and researchers]
+categories: [Scholars and researchers, Individuals with unspecified pronouns]
 ---
 
 # Vincent Zeneke

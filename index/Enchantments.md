@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 189148
+revid: 189170
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -1130,9 +1130,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 
 **Effect:**
 
-Attacks that hit you from a distance receive a 15% (?) damage reduction, with this damage reduction diminishing in effectiveness the closer you receive the attack. On proc, pull the attacker toward you.
+On proc, pull the attacker toward you.
 
-33% chance to proc
+33% chance to proc upon being hit.
 
 **In-game Description:**
 

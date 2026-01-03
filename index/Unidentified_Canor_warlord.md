@@ -1,9 +1,9 @@
 ---
 title: Unidentified Canor warlord
-revid: 174667
+revid: 189163
 source: https://deepwoken.fandom.com/wiki/Unidentified_Canor_warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Articles with conjectural titles]
+categories: [Articles with conjectural titles, Individuals with unspecified pronouns]
 notices:
   - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 188706
+revid: 189177
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty"]
@@ -10,7 +10,8 @@ categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Secon
 
 | Cap'n Orlandeau | |
 |---|---|
-| name | Cap'n Orlandeau, The Captain (In the Fragments of Self) |
+| name | Orlandeau |
+| alias | Cap'n, The Captain (In the Fragments of Self) |
 | aspect | Felinor |
 | location | The Scoundrel's Bounty, New Kyrsa, The Sleeping City, Fragments of Self (Castaway) |
 

@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 188883
+revid: 189197
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -199,7 +199,7 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
 ## Trivia
 
 -   According to [Destroyman III](Destroyman_III.md), Yamaketzal's favorite drink is grape juice.[\[1\]](#cite-note-1)
-    -   This is likely in reference to Roblox not allowing references to alcohol, while Yamaketzal is presented as a drunkard. This could also be a reference to the community port of Roblox for Linux also called "grapejuice."
+    -   This is likely in reference to Roblox not allowing references to alcohol, while Yamaketzal is presented as a drunkard.
 -   Yamaketzal's hair can be found here: [https://www.roblox.com/catalog/6036264253/Curtain-Bangs-in-Black](https://www.roblox.com/catalog/6036264253/Curtain-Bangs-in-Black).
 
 ## References
