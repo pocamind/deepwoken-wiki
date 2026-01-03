@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 188946
+revid: 189144
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -78,6 +78,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik winds his axe behind him and swings it upwards, letting out a moderate scream before performing four quick spinning slashes.
 
 -   There is a noticeable delay between the first swing and the follow-up spins.
+-   I \[Inferadafox\] don't know if this is intentional, but you're unable to take damage from the second and/or third hit when you parry the first spinning slash.
 
  | 
 
@@ -88,10 +89,11 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★★★)
 
- | Dravik lets out a sound cue and slowly swings his axe twice, starting from the player's left side upwards, then downwards, after which he _\[has a large chance to\]_ rushes the player twice before teleporting behind them with an attack and swinging again.
+ | Dravik lets out a sound cue and slowly swings his axe twice, starting from the player's left side upwards, then downwards, after which he rushes the player twice before teleporting behind them with an attack and swinging again.
 
 -   The timing for parrying the rushes depends on Dravik's distance from the player.
 -   Dravik will always follow up with **Sparkle Blitz** if he rushes twice, but never once.
+-   The rushing part is similar to **Ruler's Rush**, which may throw you off.
 
  | 
 
@@ -124,6 +126,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   This move is only performed after feinting **Aureate Flourish.**
 -   The visual for this move is deceptively big compared to the hitbox.
+-   Following what's said from the above, sometimes if you stand into the circle given by the visuals, you won't be hit, but standing right at the back of it gets you hit.
 
  | 
 
@@ -220,6 +223,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik leaps backwards, then jumps forward and slices at the player.
 
 -   This move is heavily telegraphed.
+-   This move also has an absurd hitbox, if you back up 1ft or two, you can easily dodge it.
 
  | 
 
@@ -251,6 +255,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik enters a very long windup animation, after which he smashes the ground with a massive slash that covers half of the arena
 
 -   The swing itself is quite quick, so try to learn the timing of the attack. Do not panic dodge.
+-   Unlike **Aureate Flourish'**s slam, if you try to jump over this, you will die.
 
  | 
 

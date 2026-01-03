@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 189083
+revid: 189127
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -867,7 +867,7 @@ These are Talents found in "_Sanguine Wager_" Category.
 |  | Enhanced Flow  
 (90 Bloodrend, 90 Weapon, Rush Hour) | Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour. | Reduces your Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick. Grants 30% of your weapon's scaled damage as Temporary Health. This cannot exceed 50 Temporary Health in one hit. This procs on NPCs despite what the description states. |
 |  | Torture Mastery  
-(100 Bloodrend, 100 Weapon) | Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on. | Chip damage dealt to healing received is 1:1. |
+(100 Bloodrend, 100 Weapon) | Landing a critical on opponents applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on. | Chip damage dealt to healing received is 1:1. |
 
 **Scarlet Donor:**
 
@@ -946,7 +946,6 @@ These are Talents found in "_Quack Doctor_" Category.
         -   _Hemolysis_ - Deal 20% more critical attack damage.
     -   30% - Vasculitis and Torture Mastery Talents are Activatable
         -   _Vasculitis_ - Your opponent cannot proc deep gems for a brief duration. (Must hit them while they are over 30% BP.)
-        -   Torture Mastery - Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
     -   40% - Enemies are under an Anti-Heal effect
     -   50% - Enemies have their damage reduced
     -   60% - Bloodwarden's Sense Talent is Activatable

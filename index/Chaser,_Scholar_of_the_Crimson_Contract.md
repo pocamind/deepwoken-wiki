@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 186443
+revid: 189157
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, Voiced Characters]
@@ -11,7 +11,7 @@ categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, 
 | Chaser, Scholar of the Crimson Contract | |
 |---|---|
 | health | 25k (+2.5k per extra player) |
-| drops | Large Layer 2 Chest (see Loot Table), Strange Tome Volume #2, Ardour manifestation, Pluripotent Alloy, Flareblood Kamas, Bloodforged Crown, Weathered Timepiece, Bloodfouler |
+| drops | Large Layer 2 Chest (see Loot Table), Strange Tome Volume #2, Ardour manifestation, Pluripotent Alloy, Bloodsiphon Cestus, Flareblood Kamas, Bloodforged Crown, Weathered Timepiece, Bloodfouler |
 | weapon | None |
 | moves | Triple Blood Appendage, Powerful Blood Appendage, Burning Blood Explosion, Triple Blood Wave, Stalactite Fall, Transfusion, Sanguine Repulsion, Last Resort |
 | affiliation | The Ministry, The Divers (formerly) |
@@ -96,12 +96,12 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
  |
 | 
 
-**Sanguine Repulsion**  
-(☆☆☆)
+**Siphon: Artery Blow  
+(★★★)**
 
- | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll. Happens a few seconds after he is down.
+ | Chaser uses his ultimate blow in attempt to eliminate his opponents. This attack is rare to see (1.1% Chance) of him using this attack.
 
--   The first instance of this does the most damage.
+-   This attack alone can deal a staggering amount of damage. Chaser cannot use this attack in his first phase.
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189085
+revid: 189132
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2652,7 +2652,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Pyromancer
 
--   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
+-   Hungry Flames \[Common Talent\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra \[15 second CD\].
     -   Prerequisites: 30 Flamecharm, 15 Fortitude
 
 ### Quack Doctor
@@ -2901,7 +2901,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
     -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy), Rush Hour
 
--   Torture Mastery \[Common Talent, Bloodrend Exclusive\] - Landing a critical on opponents with 30% or more blood poisoning applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
+-   Torture Mastery \[Common Talent, Bloodrend Exclusive\] - Landing a critical on opponents applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
     -   On proc, all chip damage you deal will be converted into healing.
     -   The conversion of chip damage to healing is 1:1.
     -   Prerequisites: 100 Bloodrend, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
@@ -5234,6 +5234,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Natural Healing: [Lifeweaver's Hat](<Lifeweaver's_Hat.md>) - Every time you eat plants, heal 2% of your health.
     
     -   Heal 2% of your maximum health whenever you eat a plant-based [Food](Food.md) item.
+
+-   No Limits: [Infused Bloodforged Crown](Infused_Bloodforged_Crown.md) - Remove the cap on Bloodless Gem healing.
 
 -   Omen: [Corrupted Pathfinder Elite](Corrupted_Pathfinder_Elite.md) - Your Shadow Travel now has no windup and always requires health to teleport.
 

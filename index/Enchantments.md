@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 189105
+revid: 189148
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -636,7 +636,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>On M1, Stormbreaker deals 16.5% of your weapon damage as a separate instance of Thundercall damage. This is doubled to 33% in an AoE if it is raining. On proc, this also applies <a href="Status_Effects.md#shock">Shock</a> or 1 <a href="Thundercall.md#unstable-capacitor">Surge Rod</a>. This effect has a 5 second cooldown.</p>
-  <p>The damage this deals is based off your weapon's damage, and <b>it cannot be enhanced with damage modifiers</b>. Stormbreaker's damage can be resisted by Thundercall resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.</p>Stormbreaker replaces your weapon critical with a new one that throws your weapon towards your cursor, ragdolling and striking targets with thunder. Stormbreaker's critical damage is 25 <b>flat</b> Thundercall damage on throw and then 18.75 <b>flat</b> Thundercall damage on return. Stormbreaker can hit the same target twice on throw or recall and it deals less than 1 posture damage per hit. You are unable to attack until your weapon returns. Completely halts the user's movement while the weapon is being recalled.<p></p>
+  <p>The damage this deals is based off your weapon's damage, and <b>it cannot be enhanced with damage modifiers</b>. Stormbreaker's damage can be resisted by Thundercall resistance and Talents like <a href="Talents.md#adept-caster">Everchanging Aegis</a>.</p>Stormbreaker replaces your weapon critical with a new one that throws your weapon towards your cursor, ragdolling and striking targets with thunder. Stormbreaker's critical damage is 40 <b>flat</b> Thundercall damage on throw and then 30 <b>flat</b> Thundercall damage on return. Stormbreaker can hit the same target twice on throw or recall and it deals less than 1 posture damage per hit. You are unable to attack until your weapon returns. Completely halts the user's movement while the weapon is being recalled.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Your attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above.</i></p>
   <p><strong>Obtainment:</strong></p>

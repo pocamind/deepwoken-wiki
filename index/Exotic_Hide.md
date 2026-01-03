@@ -1,6 +1,6 @@
 ---
 title: Exotic Hide
-revid: 160252
+revid: 189152
 source: https://deepwoken.fandom.com/wiki/Exotic_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]

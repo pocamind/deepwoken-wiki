@@ -1,6 +1,6 @@
 ---
 title: Phantomcleave
-revid: 189095
+revid: 189135
 source: https://deepwoken.fandom.com/wiki/Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons]
@@ -33,7 +33,7 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Swords, Kata
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Phantom Hunter |
-| description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
+| description | A simple katana of fine glass, once carried by an esteemed vigil swordsman. Accounts from their crew claim that after an accidental detour into the Voidsea, both swordsman and blade were caught in a strange vortex. Whether the story is true remains unclear. Only the weapon, embedded in the cracked hull, and a handful of dehydrated survivors were recovered, later found washed ashore at the feet of Etris, with no sign of its former master. |
 
 Variants: [Alloyed Katana](Katana.md)
 

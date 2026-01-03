@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 188990
+revid: 189134
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
@@ -306,6 +306,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Prerequisites: [Murmur: Tacet](Murmur%253A_Tacet.md)
     -   You must obtain Tacet through [Cestis](Cestis.md) or [Quiet Stranger](Quiet_Stranger.md) in order to get Tacet Minimization. The Soulbreaker Oath variant will not allow you to obtain Tacet Minimization.
     -   Active for 10s; 60s cooldown.
+    -   Requires 100% [Ether](Ether.md) to be activated, doesn't use any ether on activation however.
 
 #### Shock Corps Division Talents
 

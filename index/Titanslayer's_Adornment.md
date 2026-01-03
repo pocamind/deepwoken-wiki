@@ -1,6 +1,6 @@
 ---
 title: "Titanslayer's Adornment"
-revid: 188002
+revid: 189121
 source: https://deepwoken.fandom.com/wiki/Titanslayer's_Adornment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -44,6 +44,6 @@ The [Primal Rage](Talents.md#primal-rage) is given as a Talent tool. On use, dra
 ## Trivia
 
 -   This outfit is by far the most expensive outfit to craft, costing more than even the [Cala-Mariner](Cala-Mariner.md).
-    -   On top of the 5 [Sinner's Ash](<Sinner's_Ash.md>) required to craft the Outfit, if the player decides to spawn the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) over regular [Primadon](Primadon,_Titan_of_the_East.md),it would require at least 3 more Sinner's Ash, totaling to a staggering 8 Sinners Ash.
+    -   On top of the 5 [Sinner's Ash](<Sinner's_Ash.md>) required to craft the Outfit, if the player decides to spawn the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) over regular [Primadon](Primadon,_Titan_of_the_East.md),it would require at least 1 more Sinner's Ash, totaling to a staggering 6 Sinners Ash.
 -   Agamatsu, a deepwoken developer, stated Titanslayer's Adornment's rarity is similar to that of [Whistling Periapt's](Whistling_Periapt.md). It is highly recommended that you farm [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) over regular [Primadon](Primadon,_Titan_of_the_East.md) for the better rates.
 -   Although activating Primal Rage drains your ether bar, it does not share the same 100% ether requirement as Ardour Scream. Therefore, it is recommended to use Ardour Scream before entering the Rage State, as your damage bonus will be increaseed to 32.5%.

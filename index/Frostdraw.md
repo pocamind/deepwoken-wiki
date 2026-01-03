@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 186570
+revid: 189138
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -573,7 +573,7 @@ Ice
 -   Spawns an ice patch on use. [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
 -   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
 -   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
--   Can be modified with a Spring Spark to cause the user to throw the projectile forward before recalling it back.
+-   Can be modified with a Spring Spark to cause the user to throw the projectile forward before recalling it back. You are able to attack and parry during the time it is out.
 
  |
 | 
@@ -825,6 +825,7 @@ Ice
 -   Summons wherever the user's mouse is pointed, at a range.
 -   Creating an Obelisk on top of target(s) will stun them for 1 second.
 -   If an Obelisk is hit by anyone (including yourself), it will be destroyed, disallowing you from detonating it.
+-   Modifying this mantra increases the distance you can detonate them from.
 
  |
 

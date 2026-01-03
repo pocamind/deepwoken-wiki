@@ -1,6 +1,6 @@
 ---
 title: Tolkat
-revid: 188032
+revid: 189158
 source: https://deepwoken.fandom.com/wiki/Tolkat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Tolkat is a [Canor](Canor.md) NPC who can unbound the player's [Strength](Attributes.md#str). Being a muscular Canor, he was given a job by 'Boss man' to push a [Boulder](Training_Gear.md#attribute-training-gears) up a hill, though he struggles. With (75) Strength, the player can punch the boulder straight up the hill.
+Tolkat is a [Canor](Canor.md) NPC who can unbound the player's [Strength](Attributes.md#str). Being a muscular Canor, he was given a job by '[Boss man](Boss_man.md)' to push a [Boulder](Training_Gear.md#attribute-training-gears) up a hill, though he struggles. With (75) Strength, the player can punch the boulder straight up the hill.
 
 ### Location
 

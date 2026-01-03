@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 189106
+revid: 189128
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -246,7 +246,7 @@ Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](I
 Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a translucent dark red effect on your blood bar. Effect varies depending on the percentage of your blood bar is Poisoned.
 
 -   At 25% Blood Poisoning, [Hemolysis](Talents.md#hemolysis) Talent is activatable, granting you a 20% critical damage bonus when hitting someone at or above 25% BP.
--   At 30% Blood Poisoning, [Vasculitis](Talents.md#vasculitis) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them. [Torture Mastery](Talents.md#torture-mastery) Talent is also activable, proccing the [Torture Mastery](#torture-mastery) status effect upon landing a critical attack.
+-   At 30% Blood Poisoning, [Vasculitis](Talents.md#vasculitis) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them.
 -   At 40% Blood Poisoning, Enemies are under an Anti-Heal effect.
 -   At 50% Blood Poisoning, Enemies have their damage reduced.
 -   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodwardens-sense) Talent is activatable, highlighting enemies when you hit them.
@@ -776,7 +776,7 @@ Take 4.5 damage and lose 2% of your maximum blood per second, but gain a 15% dam
 
 ### Torture Mastery
 
-All chip damage dealt to an opponent affected by Torture Mastery will be transferred into healing for yourself. The conversion rate is 1:1 with damage dealt to healing gained. To proc this effect, you must land your critical attack on an opponent who has 30% or higher [Blood Poisoning](#blood-poison) while having the [Torture Mastery](Talents.md#torture-mastery) Talent. Torture Mastery lasts 15 seconds, doubled to 30 if you have [Rush Hour](#rush-hour) active on Talent proc. This effect is signified by a crimson chain linking yourself and affected opponents.
+All chip damage dealt to an opponent affected by Torture Mastery will be transferred into healing for yourself. The conversion rate is 1:1 with damage dealt to healing gained. To proc this effect, you must land a critical attack while having the [Torture Mastery](Talents.md#torture-mastery) Talent. Torture Mastery lasts 15 seconds, doubled to 30 if you have [Rush Hour](#rush-hour) active on Talent proc. This effect is signified by a crimson chain linking yourself and affected opponents.
 
 ## Deep Gem Applied
 

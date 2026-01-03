@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 180374
+revid: 189133
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -510,7 +510,7 @@ Fire
 -   This Mantra is heavily incentivized for use in PvE.
 -   Cannot hitstun players.
 -   Has damage falloff at range, scaling from where the player is in reference to the target **not** where the Sentinel is.
--   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), making the turret follow the user.
+-   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks), causing the sentinel to remain at the cast position. Because the Sentinel normally rises _after_ its casted, this spark will leave the Sentinel at ground level if cast while grounded.
 
  |
 | 
@@ -1240,7 +1240,7 @@ These are Talents found in "_Pyromancer_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Hungry Flames  
-(30 Flamecharm, 15 Fortitude) | When you have no Ether, consume Stomach and Water to instantly cast your next fire Mantra. | N/A |
+(30 Flamecharm, 15 Fortitude) | When you have no Ether, consume Stomach and Water to instantly cast your next fire Mantra. \[15 second CD\] | N/A |
 
 **Tamed Flame:**
 
