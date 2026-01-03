@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 180912
+revid: 189247
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -42,7 +42,7 @@ During the loading processes, the resources are rendered in so the player can in
 #### Weapons
 
 -   Heavy Weapon Users can wield their weapons one-handed once they have 40 HVY.
--   Heavy weapons have an innate +20% damage to Armor on larger foes.
+-   Heavy weapons have an innate +10% damage to Armor on larger foes.
 -   Heavy weapon users that parry an attack are granted brief hyperarmor frames towards the end of their next Basic Attack.
 
 ### Armor
@@ -98,7 +98,7 @@ You can see how much Armor Resistance you have total in your Journal.
 -   [Saltchemists](Oath%253A_Saltchemist.md) are geniuses of [chemistry](Alchemy.md) who sling all forms of concoctions at their foes and allies alike. Those who seek this [Oath](Oaths.md) may be in need of a research partner and a laboratory to conduct their studies...
 -   [Silenthearts](Oath%253A_Silentheart.md) are fierce avengers who reject the Words of the Song. Feared by many, those who seek its vengeance must find the [Heart of Dread](The_Dreadstar.md) at the [furthest reaches of Lumen](Voidsea.md)...
 -   [Starkindreds](Oath%253A_Starkindred.md) are sworn adherents to their faith that adopt the shapeshifting capabilities of their [Gods](Celestial.md) to adapt to any situation in battle. Those who seek this Oath must prove themselves as dedicated and pious servants of [the Starkindred Faith](The_Starkindred_Church.md)...
--   [Visionshapers](Oath%253A_Visionshaper.md) are duplicitous and cunning illusionists that bend and warp reality to fool others. Those who seek this [Oath](Oaths.md) must seek [those that adopt the mannerisms](Surge.md) of the [Owls](Deep_Owl.md), [the progenitors](The_Nestmind.md) of the Visionshaper creed...
+-   [Visionshapers](Oath%253A_Visionshaper.md) are duplicitous and cunning illusionists that bend and warp reality to fool others. Those who seek this [Oath](Oaths.md) must seek [those that adopt the mannerisms](Surge.md) of the [Owls](Deep_Owl.md), those that inspired the Visionshaper creed...
 
 ### Roblox Chat
 
@@ -123,7 +123,7 @@ You can see how much Armor Resistance you have total in your Journal.
 -   Hitting unconscious players will drain their blood, eventually bleeding them out.
 -   Charmed enemies deal reduced damage to those that applied the status.
 -   Accidentally disconnected or crashed while in danger? So long as you were above 60% HP at the moment your connection cut out, you should not have lost a life. This does not apply to PvP.
--   Killing certain tough monsters for the first time rewards you with 1 Knowledge.
+-   Killing certain tough monsters for the first time rewards you with 1 to 2 Knowledge.
 -   Charmed enemies deal reduced damage to those that applied the status.
 -   Pressing Feint/Cancel while in ragdolled knockback will let you 'tech' the ragdoll state, speeding up your recovery.
 
@@ -132,7 +132,7 @@ You can see how much Armor Resistance you have total in your Journal.
 -   Ever afraid of accidentally selling an item you want to keep? Right click on it and lock it!
 -   After standing still in one spot for 15 seconds while injured, you'll start to Recuperate, catching your breath and accelerating your natural healing.
 -   Certain spots around the world are better for fishing. If you find water that splashes and ripples, you've found an especially good spot!
--   Damage Multipliers have a soft limit at +50%, where the effectiveness of damage multipliers is halved. The hard limit is at +75% damage effectiveness, achieved by having a total damage multiplier of +100%.
+-   Damage Multipliers have a soft limit at +25%, where the effectiveness of damage multipliers is halved. The hard limit is at +50% damage effectiveness, achieved by having a total damage multiplier of +100%.
 -   Monsters do not block and therefore do not suffer posture damage. They do, however, have Armor just like players do. Damage resisted by their Armor depletes their Durability, and once broken the monsters will be stunned for several seconds as their Armor recovers.
 -   In trouble with the law? Some less scrupulous individuals may be willing to take a bribe to fix your reputation...
 -   Parrying a Mantra will absorb a portion of the Ether used to cast it.

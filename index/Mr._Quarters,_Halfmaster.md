@@ -1,6 +1,6 @@
 ---
 title: "Mr. Quarters, Halfmaster"
-revid: 188842
+revid: 189242
 source: https://deepwoken.fandom.com/wiki/Mr._Quarters%2C_Halfmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
@@ -13,7 +13,6 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scound
 | name | Quarters (forename unknown) |
 | aspect | Adret |
 | location | The Scoundrel's Bounty |
-| affiliation | Orlandeau's Crew |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

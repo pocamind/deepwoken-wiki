@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 189127
+revid: 189238
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -627,7 +627,7 @@ Blood
 **Effect:** _Perform a gesture that raises the character's arms infused in blood; The mantra enters a charging state for 6 seconds whilst dealing AoE damage every second and healing the user on every damage. Simultaneously, a projectile shaped like a [Bloodtide Trident](Bloodtide_Trident.md) is conjured and ascended for every second of the mantra's duration before finally plummeting at the mantra's duration expiring and dealing massive AoE damage._
 
 -   Initial ticks deal 2 damage and posture damage per hit no matter the level, final hit does increased damage and posture the longer the attack is held
--   24 > 42/29 > 47/34 > 52/39 > 57/44 > 62 base damage (final hit), 22 > 31 posture (final hit), .425s windup, 34.5s CD
+-   24 > 42/29 > 47/34 > 52/39 > 57/44 > 62 base damage (final hit), 22 > 31 posture (final hit), .425s windup, 120s CD
 -   The healing scales on the Mantra level. Additionally, you heal for each enemy hit.
 -   Has 7.15x PVE scaling
 -   Takes 7 ticks to full charge or 5.5 seconds

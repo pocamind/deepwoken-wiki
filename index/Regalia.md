@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 188945
+revid: 189208
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -29,7 +29,7 @@ This Regalia is **kept** upon wiping at or below Power 10.
 -   Mute does **not** work in some locations.
     -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md), (Mute does not work on initial aggro. Waiting 15 seconds will unaggro most monsters in Dilluvian.)
     -   Most Dungeons, such as the [Second Layer](Second_Layer.md) or [Trial of One](Trial_of_One.md)
--   Mute does **not** work against some monsters (mostly automations and robots).
+-   Mute does **not** work against some monsters (mostly constructs and robots).
     -   [Stone Knights](Stone_Knight.md)
     -   [Blizzard Knights](Stone_Knight.md#blizzard-knight)
     -   [Rock Golems](Rock_Golem.md)

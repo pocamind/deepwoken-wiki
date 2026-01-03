@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 188958
+revid: 189227
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -42,7 +42,7 @@ This content is not accessible outside of this gamemode.
     -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
     -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
     -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
-    -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
+    -   Flame Within can be enabled while knocked.
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
     -   [Grotesque Resilience](Parasol_Planter.md) reduces the damage taken from Flame Within's burn DoT by 25%.
     -   [Deepfire Ring](Deepfire_Ring.md) will lower Flame Within's duration down to 25s without affecting the burn damage taken. This is a direct downgrade for Flame within.

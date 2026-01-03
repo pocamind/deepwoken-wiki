@@ -1,6 +1,6 @@
 ---
 title: Mofisu Clan Informant
-revid: 185194
+revid: 189226
 source: https://deepwoken.fandom.com/wiki/Mofisu_Clan_Informant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Clan Mofisu]
@@ -84,3 +84,7 @@ Mofisu Clan Informant is a [Etrean](Etrean.md) NPC. The player is able to speak 
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   It's possible to interact with him during the boss fight. If you do so, he will say "Focus on your own life..."
