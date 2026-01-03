@@ -1,6 +1,6 @@
 ---
 title: Windswept
-revid: 179281
+revid: 189066
 source: https://deepwoken.fandom.com/wiki/Windswept
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -27,9 +27,9 @@ This enchantment envelops your weapon in green swirling winds.
 
 After landing enough M1s, Windswept applies [winded](Status_Effects.md#winded) to your opponent. The duration of this winded effect scales on your Weapon attribute investment. This enchantment has a 5 second cooldown regardless of investment, making it very weak on low investment.
 
-The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons. These stacks do not decay over time.
+The hit count required to proc this enchantment varies based on your weapon type, requiring 3 hits for Light Weapons, 2 hits for Medium Weapons, and 1 hit for Heavy Weapons. These stacks do not decay over time.
 
-Windswept gains +0.05 second duration for every 1 weapon attribute investment, capping at 5 seconds with 100 Weapon. Windswept cannot have below a 0.5 second duration, making the first 0-10 weapon investment indifferent to Windswept's winded duration.
+Windswept gains +0.08 second duration for every 1 weapon attribute investment, capping at 8 seconds with 100 Weapon. Windswept cannot have below a 0.5 second duration, making the first 0-6 weapon investment indifferent to Windswept's winded duration.
 
 ### Notes
 

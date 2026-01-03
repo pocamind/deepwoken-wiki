@@ -1,6 +1,6 @@
 ---
 title: Bluster
-revid: 179238
+revid: 189059
 source: https://deepwoken.fandom.com/wiki/Bluster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -26,6 +26,8 @@ This enchantment changes your weapon's color to a light-grey with smoke effects 
 ## Effect
 
 After landing enough weapon hits, Bluster applies a 10 second countdown on your opponent. Landing weapon attacks will shorten the duration of the countdown. Once the countdown ends, your opponent will explode, dealing damage scaling on your Weapon investment.
+
+This attack has a base damage of 27.5, but its scaling is currently unknown.
 
 The hit count required to proc this enchantment varies based on your weapon type, requiring 5 hits for Light Weapons, 4 hits for Medium Weapons, and 3 hits for Heavy Weapons.
 

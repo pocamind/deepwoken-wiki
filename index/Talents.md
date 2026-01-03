@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189029
+revid: 189085
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -715,17 +715,22 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Bruiser
 
 -   Impairing Blow \[Common Talent\] - Greataxes Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
+    -   Does not proc on uppercut.
     -   Prerequisites: Use a Greataxe, 30 Heavy Weapon
 
 -   Brazen Blow \[Common Talent\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor. \[20s CD\]
+    -   Only procs on weapon attacks.
+    -   Does not proc on uppercut.
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
 -   _Heavy Fatigue_ \[Rare Talent\] - Greataxes Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll.
+    -   Does not proc on uppercut.
     -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapon
 
 -   _Rending Impact_ \[Rare Talent\] - Greataxes Block breaking an enemy applies knockdown.
     -   Allows for more time for followups after blockbreak.
     -   Visually bugged with base crit, and plays the knockdown animation twice.
+    -   Only procs on guardbreaks from weapon attacks.
     -   Prerequisites: Use a Greataxe, 40 Heavy Weapon
 
 ### Bulwark
@@ -3268,6 +3273,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Apparitions \[Common Talent, Galebreathe Exclusive\] - Your Haunted Phantoms become Apparitions that apply [Winded](Status_Effects.md#winded) on hit. Apparitions cannot be parried if you are in [Phantom Step](Status_Effects.md#phantom-step).
     -   Apparitions can be parried in "Phantom step" (Possibly a bug)
+    -   Does not proc on non-Galebreathe Mantras.
     -   Prerequisites: Haunted Path: Specter, 50 Galebreathe
 
 -   Phantom Step \[Common Talent, Galebreathe Exclusive\] - Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge)
@@ -3502,7 +3508,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Voideye_ \[Origin Exclusive\] - Voidmother's blessing, the method to travel back to the Voidheart.
     -   Grants a Talent tool that teleports you back to the [Voidheart](Voidheart.md) on use.
     -   Has a short animation that can be interrupted.
-    -   5 minute cooldown.
+    -   1 minute cooldown.
     -   Prerequisites: [Voidwalker](Voidwalker.md) Origin
 
 -   _Voidwalker Contract_ \[Origin Exclusive\] - You progress much faster from completing bounties, and less from events. Gain access to the Voidheart, and factions have a negative outlook on you.
@@ -3955,6 +3961,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   Haunted Gale is capped at 1 ghost per Mantra.
     -   If your Mantra is blocked, parried, or dodged, it will be "_whiffed_", resetting all stacks of Haunted Gale.
     -   Haunted Gale stacks are counted **per person**, not globally.
+    -   If you have Apparitions, landing a Galebreathe Mantra while having the Haunted Gale status effect will create an Apparition instead.
+        -   Landing non-Galebreathe Mantras will create Haunted Gale's Ghosts even if you have this Talent.
     -   Prerequisites: 40 Galebreathe, [Power](Power.md) 8
 
 ### Windrunner

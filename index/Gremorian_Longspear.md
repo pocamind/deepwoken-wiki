@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 185695
+revid: 189075
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons, Navae Weapons]
@@ -41,7 +41,7 @@ The Gremorian Longspear is a Medium Weapon that is obtainable from killing the [
 
 ## Critical
 
-The user throws the spear towards the enemy, linking their hand to the spear with a white chain. One target caught by the spear will be pulled towards the user. This attack has 15% chip damage and the pull cannot be blocked. Opponents pulled in will be at the same distance as the critical initially travelled.
+The user throws the spear towards the enemy, linking their hand to the spear with a white chain. One target caught by the spear will be pulled towards the user. This attack has 15% chip damage and the pull cannot be blocked. Opponents pulled in will be at the same distance as the critical initially travelled. Deals **1.2x scaled damage**.
 
 The critical has a cooldown of **5 seconds**.
 

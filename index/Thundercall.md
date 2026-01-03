@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 183668
+revid: 189086
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -204,7 +204,7 @@ Lightning + Slash
 -   Stormcaller Slash deals an additional 12.25/14/15.75/17.5/19.25 base damage per level with 5 Thundercall scaling.
 -   Deals 3 posture damage per initial hit (2), Stormcaller Slash adds an additional 5 posture damage.
 -   10 second cooldown.
--   Has 0.42 seconds of wind-up.
+-   Has 0.35 seconds of wind-up.
 -   The arcs can completely phase through an enemy if you cast it too close to them, therefore mind the spacing.
 -   Can be cancelled midway after the first 2 slashes by right-clicking.
 -   At end of Mantra, performs a "**Stormcaller Slash**", a former Talent which is now innate.
@@ -383,8 +383,6 @@ Lightning
 -   Applies Knockdown.
 -   Can grant a different effect with the "**Rain of Static**" Talent, which makes the user rain down orbs of lightning from the air before slamming down.
 -   Can proc _Meteor Impact_
--   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks), making you move forward a little before slamming down.
--   Can be easily used to glitch through thin or less than moderate sized walls.
 
  |
 | 
@@ -449,7 +447,7 @@ _An unrelenting kick like a clap of thunder._
 
  | 
 
-Lightning + Blunt
+Lightning
 
  | 
 

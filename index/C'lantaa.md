@@ -1,22 +1,18 @@
 ---
 title: "C'lantaa"
-revid: 188705
+revid: 189055
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # C'lantaa
 
-| C'lantaa | |
-|---|---|
-| name | C'lantaa |
-| aspect | Tiran |
-| location | New Kyrsa, The Sleeping City |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 
@@ -65,14 +61,14 @@ He attempted to communicate with the local [Kyrsgarde](Kyrsgarde.md), but was wo
 <tr>
   <td colspan="6">Perhaps it's just devotion.</td>
   <td colspan="6">What else does Ethiron influence?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6"><i>*He lets out a hearty laugh, evidently amused by that prospect.*</i> Aye! Devotion to a world-eating husk! What a life, what a life I inhabit... I wish to see through the meaning of all of this. This may be an end for me, but I will not allow an end for my legacy.</td>
   <td colspan="6">Huh? You think I'd know that? I'm no scholar, no, I'm no <i>aristocrat</i>. I wouldn't be down here if I had a cushy, easy life like that!</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

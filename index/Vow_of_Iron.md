@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 188251
+revid: 189088
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -89,6 +89,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   [Prototype Railblade](Prototype_Railblade.md): [Saramaed Summit](Saramaed_Summit.md)
 -   [Darksteel Cleaver](Darksteel_Cleaver.md): in depths at the location of [The Chariot's Spire](<The_Chariot's_Spire.md>)
 -   [Void Ring](Void_Ring.md): on the island behind [Etris](Etris.md)
+-   [Depthsplitter](Depthsplitter.md): in depths near the divers encampment
 
 ### Lumen and The Depths
 

@@ -1,9 +1,9 @@
 ---
 title: Eager Tradesman
-revid: 177771
+revid: 189048
 source: https://deepwoken.fandom.com/wiki/Eager_Tradesman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Outfits, Starter Outfits]
+categories: [Outfits, Starter Outfits]
 ---
 
 # Eager Tradesman
@@ -39,10 +39,6 @@ This outfit has 1000 durability, grants +10% Physical Armor, and +5% Elemental a
 
 The [Knack](Talents.md#knack) Talent causes felled trees to yield more wood and increases the user's [ship](Ships_&_Sailing.md) repair speed.
 
-## Gallery
-
-File:A player seen wearing Eager Tradesman dyed Red..png
-
 ## Trivia
 
 -   [Duke Erisia](Duke_Ishamon_Erisia.md) and [Barbers](Barber.md) wear Eager Tradesman.
@@ -54,4 +50,4 @@ File:A player seen wearing Eager Tradesman dyed Red..png
     -   Added Eager Tradesman as a craftable schematic.
 -   Unknown Update
     -   Added Eager Tradesman as an outfit worn by [Duke Erisia](Duke_Ishamon_Erisia.md) and [Barbers](Barber.md).
--   Original shirt can be found [here](https://www.roblox.com/catalog/125549745/Steampunk-Civilian)
+-   Original shirt is able to be found [here](https://www.roblox.com/catalog/125549745/Steampunk-Civilian).

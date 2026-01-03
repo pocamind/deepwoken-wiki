@@ -1,6 +1,6 @@
 ---
 title: "Trunk's Clutch Ring"
-revid: 183836
+revid: 189114
 source: https://deepwoken.fandom.com/wiki/Trunk's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | TBA |
+| obtainment | Depths Chests in Vow of Iron?Possibly ANY chest in Vow of Iron? |
 | description | Gain 75% more damage when at 20% health or lower. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -31,7 +31,7 @@ This content is not accessible outside of this gamemode.
 
 Trunk's Clutch Ring is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Rings" category.
 
-Trunk's Clutch ring massively increases your damage when your health drops below 20%.
+Trunk's Clutch ring massively increases your damage when your health drops below 20%. (75% Damage Increase)
 
 ## Trivia
 

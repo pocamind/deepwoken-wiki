@@ -1,9 +1,9 @@
 ---
 title: Kasen
-revid: 188725
+revid: 189063
 source: https://deepwoken.fandom.com/wiki/Kasen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer]
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Quests, Talents, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Kasen
@@ -20,9 +20,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Kasen is a Capra NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md). The fastest way to get to him is, upon entering the Shrine, immediately turn right and dash off of the bridge and onto the cliffs. Then, jump down.
+Kasen is a [Capra](Capra.md) NPC in [Sanctuary Gatehouse](Sanctuary_Gatehouse.md), [Eternal Gale](Second_Layer/The_Ethironal_Shrine.md). The fastest way to get to them is, upon entering the Shrine, immediately turn right and dash off of the bridge and onto the cliffs. Then, jump down.
 
-By talking to him with at least 80 Willpower and have **had** tier 1 [insanity](Insanity.md), he will teach you Heretic's Sutra, a [Talent](Talents.md#heretic) that reduces the sanity of the user by a flat amount on use.
+By talking to them with at least 80 Willpower and having had tier 1 [insanity](Insanity.md), they will teach you Heretic's Sutra, a [Talent](Talents.md#heretic) that reduces the sanity of the user by a flat amount on use.
 
 ## Dialogue
 
@@ -74,9 +74,7 @@ By talking to him with at least 80 Willpower and have **had** tier 1 [insanity](
 </tbody>
 </table>
 
-.
-
 ## Trivia
 
--   You will always encounter three [Carbuncles](Carbuncle.md) on the way to him. Although it is not necessary, it is recommended to kill them because they will annoy you during the dialogue. Alternatively, run to lead them away, and then return to Kasen.
--   His racial variant appears to be Jurik.
+-   You will always encounter three [Carbuncles](Carbuncle.md) on the way to Kasen. Although it is not necessary, it is recommended to kill them because they will annoy you during the dialogue. Alternatively, run to lead them away, and then return to Kasen.
+-   Their racial variant appears to be Jurik.

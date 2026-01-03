@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 188347
+revid: 189077
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1944,9 +1944,8 @@ Slash (1st Hit), Blunt (Kicks)
 -   The final hit applies [True Daze](Status_Effects.md#true-daze).
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.
--   Contrary to what's shown in the gif, the wind-up before the first hit does **not** have hyperarmor.
--   The great axe, Iron Birch, has a talent named expeditious combo regarding this mantra where it will come out faster after an uppercut.
--   Does proc Soaring Storm
+-   Equipping the [Iron Birch](Iron_Birch.md) gives you the [Expeditious Combo](Talents.md#expeditious-combo) Talent, increasing the speed of this attack. Additionally on Iron Birch, your Onslaught cast speed is further buffed if cast within 15 seconds of landing an uppercut.
+-   Procs [Soaring Storm](Talents.md#soaring-storm).
 
  |
 | 

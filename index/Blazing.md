@@ -1,6 +1,6 @@
 ---
 title: Blazing
-revid: 186678
+revid: 189054
 source: https://deepwoken.fandom.com/wiki/Blazing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -27,7 +27,7 @@ This enchantment changes your weapon's color to a charred brown and covers it wi
 
 After landing enough weapon hits, Blazing applies [burn](Status_Effects.md#burn) to your opponent whenever you land a weapon attack for the next 5 seconds.
 
-The hit count required to proc this enchantment varies based on your weapon type, requiring 4 hits for Light Weapons, 3 hits for Medium Weapons, and 2 hits for Heavy Weapons.
+The hit count required to proc this enchantment varies based on your weapon type, requiring 3 hits for Light Weapons, 2 hits for Medium Weapons, and 1 hit for Heavy Weapons.
 
 ### Notes
 

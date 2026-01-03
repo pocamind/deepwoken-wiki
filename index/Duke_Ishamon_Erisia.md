@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 186121
+revid: 189049
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -188,7 +188,7 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Audacity - When Duke Ishamon Erisia starts manually gripping you, he will create an AoE stun around him and slow people around him. It will also make him ignore Defiant Until the End and Last Second Negotiation.
 -   Matador - Duke Ishamon Erisia deals +20% more damage to human enemies with hyperarmor.
 -   Showstopper - When you roll through one of Duke Ishamon Erisia's physical attacks, he will stomp the ground, negating your speed boosts and dazing everyone nearby.
--   Berserker - When Duke Ishamon Erisia knocks an enemy, he gains 20% damage resistance for 15 seconds.
+-   Brassneck - When Duke Ishamon Erisia knocks an enemy, he gains 20% damage resistance for 15 seconds.
 -   Charged Return - Being under an elemental status effect causes Duke's M1's and critical attacks to do 20% more damage.
 
 ## Finisher

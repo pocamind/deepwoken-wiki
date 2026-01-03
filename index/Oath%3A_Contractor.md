@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 184624
+revid: 189043
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -57,7 +57,7 @@ Alternatively you may spend 10 knowledge to immediately max out the Oath. This i
 
 ## Effects
 
-_Upon obtaining this Oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a shade of red so dark its almost black, making your expression appear almost empty and devoid of good empathy or emotion._
+_Upon obtaining this Oath, four black-and-red marionette-esque strings will embed themselves into your arms. Additionally, your irises will become a shade of red so dark it's almost black, making your expression appear almost empty and devoid of good empathy or emotion._
 
 ## Abilities
 

@@ -1,9 +1,9 @@
 ---
 title: Traan Zakshun
-revid: 188926
+revid: 189071
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Traan Zakshun
@@ -26,9 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on their back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan Zakshun also wears a hat made out of kelp on his head, which he claims is for later consumption.
+Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on their back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan also wears a hat made out of kelp on his head, which he claims is for later consumption.
 
-Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). He has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
+Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). During this time, he learned to create kelp hats and gave one to her to wear. He also has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
 
 Traan Zakshun's shop runs on an hourly rotation. Every hour, he sell two to four items chosen at random from a list. He can sell the same item multiple times, on the same rotation, and across multiple rotations. Most of their shop consists of uncommon weapons and schematics that are geared towards mid-game.
 

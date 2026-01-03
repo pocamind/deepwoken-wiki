@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 186495
+revid: 189099
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -115,6 +115,12 @@ High posture
  | Starts out similarly to **Tacet Hug**, but after it turns visible again, it will throw out its entire body in a drop kick, flinging and ragdolling targets hit.
 
 -   Cannot be used on its own, and is only used as a variant for **Tacet Hug**.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  | 
 

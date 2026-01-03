@@ -1,6 +1,6 @@
 ---
 title: Curse of Void
-revid: 180600
+revid: 189072
 source: https://deepwoken.fandom.com/wiki/Curse_of_Void
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -25,13 +25,13 @@ This enchantment changes your weapon to have a stone texture and gives it a whit
 
 ## Effect
 
-Curse of Void applies the [Void](Status_Effects.md#void) status effect for 30 seconds. This applies a 30% anti-heal effect.
+Curse of Void applies the [Void](Status_Effects.md#void) status effect for 30 seconds. This applies a 40% anti-heal effect.
 
 Additionally, if a player dies while under the effect of the Void status effect, they will be sent to [the Depths](The_Depths.md) regardless of how many lives they have.
 
 ### Curse
 
-Your healthbar is permanently stained while a Curse of Void enchanted weapon is equipped, making every death send you to [The Depths](The_Depths.md). This may not be visually displayed on your healthbar due to a bug.
+Your healthbar is permanently stained while a Curse of Void enchanted weapon is equipped, making every death send you to [The Depths](The_Depths.md). Taking damage will extend this effect for 60 seconds, meaning your healthbar will remained stained for some time after weapon swapping. This may not be visually displayed as a stained healthbar due to a bug.
 
 ### Notes
 

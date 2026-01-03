@@ -1,6 +1,6 @@
 ---
 title: Solar
-revid: 187158
+revid: 189065
 source: https://deepwoken.fandom.com/wiki/Solar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -25,7 +25,7 @@ This enchantment changes your weapon's color to orange and surrounds it with swi
 
 ## Effect
 
-Upon landing a flourish or critical attack, Solar applies the [Solar Mark](Status_Effects.md#solar-mark) status effect to your opponent for 8 seconds, reducing their passive Ether regeneration and Tempo gain.
+Upon landing an uppercut, flourish, or critical attack, Solar applies the [Solar Mark](Status_Effects.md#solar-mark) status effect to your opponent for 8 seconds, reducing their passive Ether regeneration and Tempo gain.
 
 If you land a [Vent](Combat_Mechanics.md#tempo) on someone who has a Solar Mark, the Mark will be removed and their Tempo will be drained to pay for your Vent. If your opponent cannot afford your Vent's Tempo cost, you will still have to pay for the difference.
 

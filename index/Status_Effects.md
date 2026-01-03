@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 187950
+revid: 189106
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -109,9 +109,9 @@ While active, suffer from 50% Anti-Heal for 5 seconds, halving all incoming heal
 
 While active, suffer from 80% Anti-Heal meaning you will only get healed 20% of any healing source instead of the full heal. This effect can be applied through being hit by a [Mudskipper Broodlord](Mudskipper_Broodlord.md). This effect is amplified in [The Diluvian Mechanism](The_Diluvian_Mechanism.md) but does not apply to health packs from killing monsters, and reduced in [Hell Mode](Hell_Mode.md). This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by purple smoke on your character.
 
-#### Void
+### Voidscarred
 
-While under the effects of Void, you have anti-heal and perishing will send you to [The Depths](The_Depths.md) regardless of if your healthbar is stained or not. Applied by being in a [Voidzone](Voidzones.md) or for 30 seconds after being hit by a weapon with the [Curse of Void](Curse_of_Void.md) enchantment. Anti-heal does not stack with other sources of anti-heal, the higher potency effect takes priority. While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome. The Curse of Void enchantment has no visual effect on proc.
+While Voidscarred, all incoming healing is massively reduced and perishing will send you to [the Depths](The_Depths.md) regardless of if your healthbar was stained or not. This effect is applied by being in a [Voidzone](Voidzones.md) or [Void Spire](Void_Spire.md). While in a Voidzone, the edges of your screen will have a white cracked effect. While under the effects of a [Void Spire](Void_Spire.md), the screen will go monochrome.
 
 ### Fear
 
@@ -346,7 +346,11 @@ Grants a +20% damage and +50% posture damage modifier to any player attacking yo
 
 ### Parasol's Blight
 
-Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 15 seconds and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md); these monsters can be [Corrupted](Monsters.md#scyphozia) if used in [The Depths](The_Depths.md). This effect has no visual indicator.
+Applied by being hit by weapon attacks from weapons that have the [Parasol's Blight](<Parasol's_Blight.md>) enchant. If you die while under the effect of this status, your corpse will explode, and a monster will spawn. This effect lasts 60 seconds (refreshable by landing additional hits), and can **only** be applied to players. The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), [Void Thresher](Thresher.md), or a [Nautilodaunt](Nautilodaunt.md); these monsters can be [Corrupted](Monsters.md#scyphozia) if used in [The Depths](The_Depths.md). This effect has no visual indicator.
+
+### Void
+
+Applied from being hit by a player with the [Curse of Void](Curse_of_Void.md) enchant, gain 40% anti-heal for 30 seconds. Additionally, if you were to perish while affected by void, you will be sent to [the Depths](The_Depths.md) no matter how many lives you had previously. The user of this enchantment also has a permanently stained healthbar, however. Void is signified by a grey fog on your character.
 
 ## Mantra Applied
 
@@ -438,7 +442,7 @@ Upon being uppercutted by someone wielding the [Acheron's Warspear](<Acheron's_W
 
 ### Expeditious Combo
 
-While wielding the [Iron Birch](Iron_Birch.md), any uppercut you land will grant the Expeditious Combo status effect for 15 seconds. If you cast [Onslaught](Attunement-less.md#onslaught) during the duration of this effect, the speed of your attack will be increased by 30%, and your Expeditious Combo status effect will be consumed. This effect has no visual indicator, instead having a unique sound effect on uppercut. The duration of this effect can be viewed on your cooldown indicator.
+While wielding the [Iron Birch](Iron_Birch.md), any uppercut you land will grant the Expeditious Combo status effect for 15 seconds. If you cast [Onslaught](Attunement-less.md#onslaught) during the duration of this effect, the speed of your attack will be increased, and your Expeditious Combo status effect will be consumed. This effect has no visual indicator, instead having a unique sound effect on uppercut. The duration of this effect can be viewed on your cooldown indicator.
 
 ### Swift Strike
 
@@ -650,7 +654,7 @@ Applied through the [Precise Swing](Talents.md#precise-swing) Talent, this effec
 
 ### Amp Overdrive
 
-When guard breaking your opponent or being guard broken yourself, the stun duration is doubled. This effect is applied from the [Amp Overdrive](Talents.md#amp-overdrive) Talent, signified by electricity shooting out of your character's body.
+When guard breaking your opponent, apply the Amp Overdrive status effect for 7 seconds, increasing Thundercall damage taken. This effect is applied from the [Amp Overdrive](Talents.md#amp-overdrive) Talent, signified by electricity shooting out of your character's body.
 
 ### Shocking Reverb
 

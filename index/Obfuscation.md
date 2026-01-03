@@ -1,6 +1,6 @@
 ---
 title: Obfuscation
-revid: 179264
+revid: 189092
 source: https://deepwoken.fandom.com/wiki/Obfuscation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -25,12 +25,4 @@ This enchantment changes your weapon's appearance to be translucent and gives it
 
 ## Effect
 
-Obfuscation grants your weapon chip damage. This has heavy diminishing returns with your weapon's innate chip damage.
-
-The amount of chip damage given depends on your weapon type, granting +5% chip damage to Light Weapons, +10% chip damage to Medium Weapons, and +15% chip damage to Heavy Weapons.
-
-If your weapon has an innate chip damage value that's equal to or more than double Obfuscation's chip damage, then this enchantment will do **nothing**.
-
-### Notes
-
--   Desmos calculator [here](https://www.desmos.com/calculator/codwr8t9cy).
+Obfuscation grants your weapon chip damage.

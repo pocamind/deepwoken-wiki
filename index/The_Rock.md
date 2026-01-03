@@ -1,6 +1,6 @@
 ---
 title: The Rock
-revid: 181369
+revid: 189034
 source: https://deepwoken.fandom.com/wiki/The_Rock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greathammers, Weapons with Unique Criticals, Developer Spec]
@@ -19,6 +19,7 @@ notices:
 | posture damage | 30 |
 | range | 8 |
 | swing speed | 0.25x |
+| penetration | 25% |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | selling price | N/A |
 | weight | 2 |

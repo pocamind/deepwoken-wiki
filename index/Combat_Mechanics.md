@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 187992
+revid: 189101
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -437,7 +437,7 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Deepspindle](Deepspindle.md) standing critical multihits
 -   Default Greatcannon critical (Shockwave)
 -   Corrupted [Chorus Divide](Chorus_Divide.md)
--   [Emotion Wave](Thundercall.md#emotion-wave) (First hit and outward lightning)
+-   [Emotion Wave](Thundercall.md#emotion-wave)
 -   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
 -   [Kyrsieger](Kyrsieger.md) critical
 -   [Kyrswynter](Kyrswynter.md) running critical
@@ -448,7 +448,7 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 **Monster Attacks**
 
--   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (and all other variants with this attack): Tacet Hug
+-   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (and all other variants with this attack): Tacet Hug, Tacet Drop Kick
 -   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
 -   [Deep Owl](Deep_Owl.md): Overhead Grab

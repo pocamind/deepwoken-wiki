@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 186661
+revid: 189105
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -88,7 +88,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <a href="Blazing.md"><font>Blazing</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>After landing enough basic attacks (LHT: 4, MED: 3, HVY: 2), every hit for 5 seconds will apply <a href="Status_Effects.md#burn">Burn</a>. Burn damage scales on Flamecharm investment.<br>
+  <p>After landing enough basic attacks (LHT: 3, MED: 2, HVY: 1), every hit for 5 seconds will apply <a href="Status_Effects.md#burn">Burn</a>. Burn damage scales on Flamecharm investment.<br>
   Lava Serpent will create an eruption instead of applying burn.<br>
   Twisted Puppets will apply Puppet Burn, summoning puppets.</p>Blazing also adds 1 (flat) Flamecharm damage to your attacks as hit registry for its burn. This will happen even if your opponent is currently burning, if burn immunity is active, or if your eruptions are on cooldown.<p></p>
   <p><strong>In-game Description:</strong></p>
@@ -119,7 +119,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>After landing (LHT: 5, MED: 4, HVY: 3) hits, a 10 second countdown will start, ticking down to an explosion. Land additional weapon attacks during the countdown to lower the delay.</p>
-  <p>This explosion is parriable and blockable, dealing 10 posture damage on block.</p>This explosion deals damage based of your weapon attribute investment, dealt as typeless damage, meaning it bypasses armor resistances.<p></p>
+  <p>This explosion is parriable and blockable, dealing 10 posture damage on block.</p>This explosion has a base damage of 20, dealt as typeless damage. This scales on your weapon attribute investment.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>After landing a few stacks of Bluster, start a countdown to an explosion that scales off your m1 damage. Land attacks during this countdown to make it explode faster. This explosion scales with your weapon investment.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -137,7 +137,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Because the second damage instance is dealt as Frostdraw damage, it can be resisted by Frostdraw resistance and Talents like <a href="Talents.md#everchanging-aegis">Everchanging Aegis</a>.<br>
-  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a> for 2 seconds (base Frostdraw) OR one crystal (Crystallization Path). This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 14 second cooldown.</p>
+  After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply <a href="Status_Effects.md#bottom-freeze">Bottom Freeze</a> and <a href="Status_Effects.md#chill">Chill</a> for 2 seconds (base Frostdraw) OR one crystal (Crystallization Path). This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 5 second cooldown.</p>
   <p><b>Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.</b></p>Chilling stacks can also be applied from critical attacks if they have the M1 tag.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Chill for foes. Applies Bottom Freeze once enough stacks have been applied.</i></p>
@@ -334,9 +334,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p>When above 75% HP: gain 4% damage for every 5% HP above 75% HP. (20% more damage at 100% HP)<br>
   When below 25% HP: gain 4% damage for every 5% HP below 25% HP. (20% more damage at 0% HP)<br>
   In PVE the damage buff is 0.25x the damage buff in PVP (4% - &gt; 1%, 20% - &gt; 5%)</p>
-  <p>Landing weapon attacks while in the Heroism's health range (≤25%, ≥75%) will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental <a href="Status_Effects.md">Status Effects</a> (Burn, Chill, Suffocation, Winded, Shock, and Fear), <a href="Status_Effects.md#anti-heal">Antiheal</a>, and <a href="Attunement-less.md#taunt">Taunt</a>.</p>Note: This does not clear the status effect from yourself. Additionally, the reflected Burn status effect is applied as if it were your own; with your own Flamecharm investment and Talents.<p></p>
+  <p>Landing weapon attacks will reflect certain status effects that are affecting you back onto your attacker. These status effects include: elemental <a href="Status_Effects.md">Status Effects</a> (Burn, Chill, Suffocation, Winded, Shock, and Fear), <a href="Status_Effects.md#anti-heal">Antiheal</a>, and <a href="Attunement-less.md#taunt">Taunt</a>.</p>Note: This does not clear the status effect from yourself. Additionally, the reflected Burn status effect is applied as if it were your own; with your own Flamecharm investment and Talents.<p></p>
   <p><strong>In-game Description:</strong></p>
-  <p><i>When above 75% HP, gain 4% damage for every 5% HP above 75%. When below 25% HP, gain 4% damage for every 5% HP below 25% HP. You can reflect negative status effects with light attacks or criticals to your opponent while in these health ranges.</i></p>
+  <p><i>When above 75% HP, gain 4% damage for every 5% HP above 75%. When below 25% HP, gain 4% damage for every 5% HP below 25% HP. You can reflect negative status effects with light attacks or criticals to your opponent.</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
   <p>Heroism can be obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>, trading with <a href="Laplace.md">Laplace</a>, or by obtaining a Heroism enchanted weapon from a chest.</p>Heroism <a href="Enchant_Stone.md">Enchant Stone</a>:<div>
@@ -441,13 +441,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <a href="Obfuscation.md"><font>Obfuscation</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
-  <p></p>
-  <p>Gain (LHT: 5%, MED: 10%, HVY: 15%) chip damage. The chip obfuscation grants <b>heavily</b> diminishes based on the amount of innate chip your weapon has.<br>
-  The formula is as follows: C<sub>innate</sub> + C<sub>obf</sub> * (1 - min (1, C<sub>innate</sub>/(2 * C<sub>obf</sub>))).<br>
-  <small>Desmos calculator <a href="https://www.desmos.com/calculator/codwr8t9cy">here</a></small></p>
-  <p>Key:<br>
-  C<sub>innate</sub> = your weapon's innate chip damage.<br>
-  C<sub>obf</sub> = the amount of chip obfuscation would give you if your weapon has no innate chip (LHT: 5%, MED: 10%, HVY: 15% chip), however this number will be 0 if your weapon has twice that amount of innate chip.</p><b>Obfuscation will do nothing if your weapon's innate chip is at or over LHT: 10%, MED: 15%, HVY: 30%.</b><p></p>
+  <p>Gain weapon chip damage.</p>
   <p><strong>In-game Description:</strong></p>
   <p><i>You gain some chip damage on m1 and crit.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -550,7 +544,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <a href="Solar.md"><font>Solar</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>Applies a <a href="Status_Effects.md#solar-mark">Solar Mark</a> on Critical or Flourish.</p>
+  <p>Applies a <a href="Status_Effects.md#solar-mark">Solar Mark</a> on Critical, Uppercut, or Flourish.</p>
   <p>Solar Mark lasts 8 seconds and reduces Tempo gain/Ether regeneration.</p>If you hit a marked enemy with a <a href="Combat_Mechanics.md#tempo">Vent</a>, steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo. This effect also procs on <a href="Imperator's_Fury.md">Imperator's Fury</a>'s Vent.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Applies a Solar Mark on critical attack or flourish. Solar Marks last 8s and reduce Tempo gain and Ether regeneration. Your Vent drains the Tempo of those you've marked.</i></p>
@@ -786,10 +780,10 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <a href="Windswept.md"><font>Windswept</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
-  <p>After landing (LHT: 5, MED: 4, HVY: 3) M1s, apply <a href="Status_Effects.md#winded">Winded</a> to your opponent, lowering their swingspeed. The duration of this Winded effect scales on your weapon stat investment.<br>
+  <p>After landing (LHT: 3, MED: 2, HVY: 1) M1s, apply <a href="Status_Effects.md#winded">Winded</a> to your opponent, lowering their swingspeed. The duration of this Winded effect scales on your weapon stat investment.<br>
   This Enchant has a 5 second cooldown regardless of weapon investment, making it very weak on low invest.</p>
-  <p>Windswept has a minimum of 0.5s duration and a maximum of 5 seconds, gaining 0.05s duration per point into the stat your weapon scales on.<br>
-  When between 0 and 10 weapon investment, the duration will always be 0.5s, as the Enchant has a starting value of 0s, but the minimum duration this Enchant actually can be active is always 0.5s.</p>
+  <p>Windswept has a minimum of 0.5s duration and a maximum of 5 seconds, gaining 0.08s duration per weapon stat investment.<br>
+  When between 0 and 6 weapon investment, the duration will always be 0.5s, as the Enchant has a starting value of 0s, but the minimum duration this Enchant actually can be active is always 0.5s.</p>
   <p>In the case of <a href="Wyrmtooth.md">Wyrmtooth</a>, your Medium investment will take priority over your Heavy investment.</p>
   <p>Windswept's stacks do not decay over time.</p><br>
   Criticals with the M1 tag can build up stacks for Windswept.<p></p>
@@ -873,7 +867,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p></p>
   <p>While held, gain increased passive health regen that scales on your weapon investment. Every M1 deals 2% sanity damage to your opponent.<br>
   </p>
-  <p>Your healthbar is permanently stained while your weapon is equipped, making every death send you to <a href="The_Depths.md">the Depths</a>. Your healthbar will be unstained upon unequipping this weapon, assuming that it's what stained you in the first place.</p>
+  <p>Your healthbar is permanently stained while your weapon is equipped, making every death send you to <a href="The_Depths.md">the Depths</a>. Getting hit will extend the duration of your stained health bar by 60 seconds, remaining stained for a duration even if you swap weapons. Your healthbar will be unstained upon unequipping this weapon, assuming that it's what stained you in the first place.</p>
   <p>While your weapon is unsheathed in <a href="The_Depths.md">the Depths</a>, lose 2 <a href="Insanity.md">Sanity</a> per second. Additionally, reaching 0% <a href="Insanity.md">Sanity</a> while having a Curse of the No Life King weapon equipped will result in your head rupturing (instant death).</p>
   <p>The health regeneration caps at 100 total weapon investment.<br>
   You take 2x blood damage from all sources when in the overworld.<br>
@@ -967,8 +961,8 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>On weapon attack, apply the Void status effect. This effect has no visual indicator and lasts 30 seconds.</p>
-  <p>For the duration of the status effect, the target is under a 30% Anti-Heal effect. Additionally, if they die while affected by Void, they will drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
-  <p>Your healthbar is permanently stained while the enchant is equipped, making all deaths send you to <a href="The_Depths.md">the Depths</a>.</p>
+  <p>For the duration of the status effect, the target is under a 40% Anti-Heal effect. Additionally, if they die while affected by Void, they will drown and be sent to <a href="The_Depths.md">The Depths</a>.</p>
+  <p>Your healthbar is permanently stained while the enchant is equipped, making all deaths send you to <a href="The_Depths.md">the Depths</a>. Getting hit will extend the duration of your stained health bar by 60 seconds, remaining stained for a duration even if you swap weapons.</p>
   <p>Acts very similarly to a <a href="Void_Spire.md">Void Spire</a>.</p><b>This enchantment will do nothing if you have not completed <a href="The_Gaunt_Man.md">The Gaunt Man's</a> trial on your character.</b><p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Every enemy you slay while equipping this weapon will always be Drowned. Enemies hit will also experience reduced healing.</i></p>

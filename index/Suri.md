@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 188908
+revid: 189038
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]

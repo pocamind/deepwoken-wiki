@@ -1,6 +1,6 @@
 ---
 title: Phantomcleave
-revid: 187876
+revid: 189095
 source: https://deepwoken.fandom.com/wiki/Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons]
@@ -43,7 +43,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Phantomcleave is a nearly transparent [Vow of Iron](Vow_of_Iron.md) exclusive Medium Weapon. Uniquely, the Phantomcleave's M1 attacks bypass block, dealing full damage and applying shaky block on hit. This also allows this weapon to proc Talents and enchantment effects on blocking targets.
+The Phantomcleave is a [Vow of Iron](Vow_of_Iron.md) exclusive Medium Weapon. Uniquely, the Phantomcleave's M1 attacks bypass block, dealing full damage and applying shaky block on hit. This also allows this weapon to proc Talents and enchantment effects on blocking targets.
 
 Its damage is increased by 5% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
 

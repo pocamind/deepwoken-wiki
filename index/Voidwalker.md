@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 184029
+revid: 189076
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]
@@ -48,7 +48,7 @@ Successfully completing a bounty grants EXP and a chest with loot. Rarity of the
 -   _In-game description_: Voidmother's blessing, the method to travel back to the Voidheart.
 -   An ability that allows Voidwalkers to access the [Voidheart](Voidheart.md) by teleporting them.
 -   Upon using the ability the user will start floating in the air with black swirls appearing around them, after a ~7 seconds delay.
--   Has a 5 minutes recharging time, automatically resets after successfully completing a bounty.
+-   This takes 1 minute to recharge. Completing a bounty will fully clear the Voideye's cooldown.
 
 ### Grasp of Eylis
 

@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 184500
+revid: 189089
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals]
@@ -15,7 +15,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weap
 | requirements | 40 MED, 80 FIR |
 | damage | 22 |
 | scaling | MED: 3, FIR: 4 |
-| posture damage | 8 |
+| posture damage | 7.5 |
 | range | 8 Sweep |
 | swing speed | 0.94x |
 | attack duration | 0.7s |
