@@ -1,6 +1,6 @@
 ---
 title: Vesna
-revid: 186905
+revid: 189349
 source: https://deepwoken.fandom.com/wiki/Vesna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
@@ -78,3 +78,7 @@ Vesna's Wares
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Vesna, during the very early release of Vow of Iron, used to sell Manycolored Equipment for 2,500 Notes, which would in turn unlock it for both [Vow of Iron](Vow_of_Iron.md) and [Pathfinder](Pathfinder.md) slots without needing to buy it from [Sev](Sev.md) with [Crowns](Crowns.md). It has since been removed from her shop although those who have brought it from her beforehand can still use it without any restriction.

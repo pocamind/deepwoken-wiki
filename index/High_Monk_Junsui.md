@@ -1,6 +1,6 @@
 ---
 title: High Monk Junsui
-revid: 189251
+revid: 189356
 source: https://deepwoken.fandom.com/wiki/High_Monk_Junsui
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Deceased characters, Circle of Honour members]
@@ -57,6 +57,39 @@ High Monk Junsui is located inside of [The Golden Rat](The_Golden_Rat.md), stand
 </tr>
 <tr>
   <td colspan="12">I am [Full Name].</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>You remember hearing legends of this man. A legendary Circle of Honour member - a warrior monk who fought in the Etrean Civil War, who gave his life for your order's cause. Junsui nods, sagely.</i>* It is a pleasure to make your acquaintance, [First Name]. I assume you are here for the same purpose as us, then?</td>
+</tr>
+<tr>
+  <td colspan="12">Indeed. I am looking for a way to defeat the Calamity.</td>
+</tr>
+<tr>
+  <td colspan="12">Aren't we all. *<i>He chuckles.</i>* Outside of the crossing of our paths here... Have you had any luck in other avenues?</td>
+</tr>
+<tr>
+  <td colspan="12">My initial lead turned up nothing, although I faced one of the Regent's generals.</td>
+</tr>
+<tr>
+  <td colspan="12">A Shogun. Of course... *<i>He ponders for a moment.</i>* An interesting start. Then you saw the devastation they unleashed at the Monastery of <a href="Glossary.md#mur-of-light">Mur</a>. *<i>He lovers his head pensively.</i>* They caused my order great grief. In shame, I must admit we failed to defend our home against them. Although we were strong, their numbers were overwhelming. We would have fought to the death... But the sachans issued a retreat, to regroup our forces - and we were sworn to follow. An oath binds us to the Old Guard</td>
+</tr>
+<tr>
+  <td colspan="12">The Old Guard?</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>He gestures at the group behind you once again.</i>* Etrean Royalists. The Lord Regent's opposition in the Civil War. Not everyone in Etrea wan keen on his ascension to the throne. The elder clans of the kingdom rose up in arms to oppose his coup. We have waged bitter war ever since, for 14 years now. After such a long time, it seems even bonds forged in the fires of war way start to fray.</td>
+</tr>
+<tr>
+  <td colspan="12">Why did the Shoguns attack your monastery?</td>
+</tr>
+<tr>
+  <td colspan="12">*<i>Junsui smirks.</i>* I suppose we became too much of a threat to the Lord Regent. The Old Guard used the Monastery of <a href="Glossary.md#mur-of-light">Mur</a> as a sort of clandestine base of operations, after the Calamity's forces began tracking our every move. But eventually... Evil assaults even the most sacred of places. I suppose we should have seen it coming. I had told the sachans that we should not stay put for too long. *<i>He chuckles.</i>* But they did not heed my advice.</td>
+</tr>
+<tr>
+  <td colspan="12">The clan leaders appear to be arguing.</td>
+</tr>
+<tr>
+  <td colspan="12">Indeed. The sachans cannot agree on a strategy.</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 189138
+revid: 189345
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -132,8 +132,8 @@ Ice
     -   Not cancelling Equalizer or Whiffed Vent stun durations.
 -   Can be modified with the following [Mantra Modifiers](Mantra_Modifiers.md):
     -   [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to greatly increase the size of the ice patches.
-    -   [Drift/Rush Shards](Mantra_Modifiers.md) to decrease the "summoning" time of your servants, servants each have 0.03 seconds windup to individually "summon" around the user, at +≥3 speed your servants will skip this windup and summon simultaneously.
-    -   [Cloud/Stratus Stones](Mantra_Modifiers.md) to increase servant count, adding +1 servants at +1-2 size, capping at +2 servants when above +≥3 size. Adding servants also increases the size and range of the circle.
+    -   [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) to decrease the "summoning" time of your servants, servants each have 0.03 seconds windup to individually "summon" around the user, at +≥3 speed your servants will skip this windup and summon simultaneously.
+    -   [Cloud](Mantra_Modifiers.md#regular-modifiers)/[Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase servant count, adding +1 servants at +1-2 size, capping at +2 servants when above +≥3 size. Adding servants also increases the size and range of the circle.
 -   Can be modified with a [Reversal Spark](Mantra_Modifiers.md#sparks) to reverse the servants direction when attacking:
     -   Each servant attacks now attacks outwards, each blast having much smaller rectangular hitbox, completely removes the regular large spherical hitbox in the center.
     -   Posture, Damage, and Ice placement are completely unaffected.
@@ -179,8 +179,8 @@ Ice
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
--   You can increase the size of this Mantra with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers), but size modifiers increases its cooldown.
--   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   You can increase the size of this Mantra with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers), but size modifiers increases its cooldown.
+-   Inflicts 1 second Chill per hit. The Chill duration can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
 -   Hits multiple times in a row.
 -   Knocks back targets.
 -   Can be upgraded with the _Preceding Chill_ Talent, freezing opponents or detonating their crystals if they get hit by the final ticks of your Ice Beam.
@@ -223,7 +223,7 @@ Ice
 -   Has a cooldown of 15 seconds.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Does not inflict Chill.
--   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the Ice Spikes bigger, and increases the number of traps placed with the _Spike Traps_ Talent.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the Ice Spikes bigger, and increases the number of traps placed with the _Spike Traps_ Talent.
 -   Can be upgraded with the _Spike Traps_ Talent, pressing F during the wind-up creates 2 translucent ice traps, placed in random spots within a wide area around you, that turn into spikes when colliding with an enemy or when using the \[F\] version again.
     -   Each spike deals 50% of the damage of the base version.
     -   Using this version again will place new traps and detonate the existing traps at the same time.
@@ -268,7 +268,7 @@ Ice
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Every projectile applies 1 seconds of Chill. This Chill duration cannot be modified.
 -   Incredibly good with the **Glass Path: Crystallization** Talent due to the sheer amount of hits.
--   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the blades bigger but do less hits.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to make the blades bigger but do less hits.
 
  |
 | 
@@ -353,9 +353,9 @@ Ice
 -   Deals 3 posture damage.
 -   Has a cooldown of 9.5 seconds.
 -   Has 9.18x PvE scaling (multiply scaled damage dealt by 9.18 for PvE damage).
--   Inflicts 9 seconds of Chill. This can be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
--   Can be modified with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase the firing delay and Chill duration.
--   Can be modified with [Crystal](Mantra_Modifiers.md) and [Perfect Lenses](Mantra_Modifiers.md) to increase the range of casting the Mantra.
+-   Inflicts 9 seconds of Chill. This can be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase the firing delay and Chill duration.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
 -   Procs Bottom Freeze innately.
 
  |
@@ -399,7 +399,7 @@ Ice
 -   Consumes Ether even if desired target is out of range. Mantra goes on a 4 second cooldown if no target is within range.
 -   If used in water, the daggers won't spawn.
 -   Can grant an additional effect with the _Frozen Pin-Cushion_ Talent, which freezes the target or detonates their crystals upon hit.
--   Can be modified with [Crystal](Mantra_Modifiers.md) and [Perfect Lenses](Mantra_Modifiers.md) to increase the range of casting the Mantra.
+-   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the range of casting the Mantra.
 
  |
 | 
@@ -481,10 +481,10 @@ Ice
 -   Deals 1.4 posture damage per projectile.
 -   The Blast Spark variant deals 3 posture damage per shuriken explosion, massively increasing the overall posture damage.
 -   Has 9.187x PvE scaling (multiply scaled damage dealt by 9.187 for PvE damage).
--   Inflicts Chill for 9 seconds. The Chill duration CANNOT be increased with [Aeon](Mantra_Modifiers.md) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
--   Can be modified with [Drift](Mantra_Modifiers.md) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) to massively increase the projectile speed. At max modifiers, the projectiles become entirely unreactible.
+-   Inflicts Chill for 9 seconds. The Chill duration CANNOT be increased with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers).
+-   Can be modified with [Drift](Mantra_Modifiers.md#regular-modifiers) and [Rush Shards](Mantra_Modifiers.md#regular-modifiers) to massively increase the projectile speed. At max modifiers, the projectiles become entirely unreactible.
 -   Casting the Mantra while standing on ice will summon more projectiles. However, this is currently bugged.
--   The [Magnet Spark](Mantra_Modifiers.md#sparks) variant lowers the projectile count by 2/3rds, but allows for a teleporting followup hit that fires three shuriken towards your opponent. You must land some, but also miss some of your shuriken for the followup to trigger. This does not happen often due to this Mantra autotracking and moving very fast, especially when modified.
+-   The [Magnet Spark](Mantra_Modifiers.md#sparks) variant fires half of your shuriken count +1, but if your shuriken travel 25 studs without hitting your target, you'll teleport to one of the shuriken's location and fire the remaining shuriken.
 -   Both Spark variants can be used at the same time.
 
  |
@@ -571,7 +571,7 @@ Ice
 -   Does not inflict Chill.
 -   Ends instantly if parried.
 -   Spawns an ice patch on use. [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
--   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
 -   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
 -   Can be modified with a Spring Spark to cause the user to throw the projectile forward before recalling it back. You are able to attack and parry during the time it is out.
 
@@ -694,8 +694,8 @@ Ice + Slash
 -   13 second cooldown.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
 -   Applies Chill for 2 second per hit. This cannot be modified.
--   Capable of proccing [Meteor Impact](Talents.md#falling-star-guard).
--   Can be modified with [Cloud](Mantra_Modifiers.md) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size of the AoE.
+-   Capable of proccing [Meteor Impact](Talents.md#meteor-impact).
+-   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the size of the AoE.
 
  |
 | 

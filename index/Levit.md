@@ -1,6 +1,6 @@
 ---
 title: Levit
-revid: 185976
+revid: 189350
 source: https://deepwoken.fandom.com/wiki/Levit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects]
@@ -86,6 +86,6 @@ Levit has three ear variants. The color of the ears are based on your skin color
 -   The idea of a rabbit aspect predates the release of _Deepwoken_. ragoozer had suggested the idea but Arch\_Mage, due to the sexualization of rabbit-themed humanoids, was vehemently against it, something he has made known even well into _Deepwoken'_s lifespan. Despite this, they were added alongside [Vow of Iron](Vow_of_Iron.md).
 -   The Levit is loosely based on the [White Rabbit](https://en.wikipedia.org/wiki/White_Rabbit) from _[Alice's Adventures in Wonderland.](https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland)_
     -   Its Aspect Trait and appearance in the [Strange Merchant](Strange_Merchant.md) Memento is related to time, which is commonly shared with the White Rabbit and many interpretations of it.
-    -   All roads lead to Rome.
+    -   All roads lead to Rome. Or all roads lead to the West?
 -   One of the Surnames is named after youtuber Mikepike's bunny. He did not state which one though.
 -   Levit is the only Aspect that does not have a [Hallowtide](Hallowtide.md) variant.

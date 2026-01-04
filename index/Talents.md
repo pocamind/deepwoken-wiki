@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189304
+revid: 189321
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1315,7 +1315,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Falling Star Guard
 
--   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves will follow up into a devastating slam.
+-   Meteor Impact \[Common Talent, Flamecharm Exclusive\] - Aerial moves you land will follow up into a devastating slam. This is also possible when you yourself gets hit by an aerial move.
     -   Deals 10 flat Flamecharm damage on top of your weapon's scaled damage.
     -   Meteor Impact's damage can be buffed via damage modifiers, but does not scale on your Flamecharm investment.
     -   Meteor impact is used by light attacking after using some mantras that end with both user and victim suspended in air, including: [Rising Flame](Flamecharm.md#rising-flame), [Flame Leap](Flamecharm.md#flame-leap), [Rising Frost](Frostdraw.md#rising-frost), [Rising Wind](Galebreathe.md#rising-wind), [Lightning Impact](Thundercall.md#lightning-impact), [Flashfire Sweep](Hybrid_Abilities.md#flashfire-sweep) and [Saintsworn's](Oath%253A_Saintsworn.md) Galebreathe Blade of Saints. There may be more that do, but simply aren't documented yet.

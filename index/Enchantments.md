@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 189170
+revid: 189324
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -956,7 +956,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div>Weapon is covered in a purple aura and looks like as if it is sprouted from the user itself.</div></td>
 </tr>
 <tr>
-  <td><figure><figcaption></figcaption></figure><center><br>
+  <td><figure>File:Curse of Void Battleaxe.gif<figcaption></figcaption></figure><center><br>
   <a href="Curse_of_Void.md"><font>Curse of Void</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
   <p></p>

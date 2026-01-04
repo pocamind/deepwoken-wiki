@@ -1,6 +1,6 @@
 ---
 title: Windmill Ring
-revid: 189308
+revid: 189331
 source: https://deepwoken.fandom.com/wiki/Windmill_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -26,7 +26,3 @@ categories: [Equipment, Rings]
 ## Description
 
 **Windmill Ring** causes the user to restore Ether upon taking [Frostdraw](Frostdraw.md) or [Galebreathe](Galebreathe.md) damage, such as from Mantras, [After Cut](Talents.md#after-cut), [Apparitions](Talents.md#apparitions) and [Ghosts](Talents.md#whisper), Chilling [Enchant](Enchantments.md), or [Crystal Detonations](Talents.md#glassdancer). This also procs on block, parry, and dodge. The amount of Ether restored scales on damage taken.
-
-## Trivia
-
--   Either unobtainable or extremely rare as of 1/3/26. (this requires further testing)
