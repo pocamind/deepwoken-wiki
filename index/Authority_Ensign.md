@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 189134
+revid: 189363
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
@@ -314,6 +314,7 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.
     -   Prerequisites: Oppressive Force
 -   **Amp Overdrive** - Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.
+    -   Deals 15 Thundercall damage.
     -   The Electrify status effect changes your opponent's damage type to Thundercall and gives you 10% damage reduction to their attacks.
 -   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
     -   Increases your posture damage by 0.1% per 1% health missing, up to a maximum of +10% posture damage against someone at 0% health.

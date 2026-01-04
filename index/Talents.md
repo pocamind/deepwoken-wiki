@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189321
+revid: 189362
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2563,7 +2563,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division, Oppressive Force
 
 -   **Amp Overdrive** \[Faction Exclusive\] - Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.
-    -   Increases Thundercall damage by ?%.
+    -   Deals 15 Thundercall damage.
     -   The Electrify status effect changes your opponent's damage type to Thundercall and gives you 10% damage reduction to their attacks.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
@@ -3292,7 +3292,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _**Possession**_ \[Advanced Talent, Galebreathe Exclusive\] - After an apparition hits an enemy, receive 15% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
     -   The posture damage and chip damage buffs have reduced effects if you have under 75 Galebreathe.
-    -   The posture damage boost activates from Inhaled M1s and Crits. If you are using [Wraithclaw](Wraithclaw.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md) or [Hero Blade of Wind](<Hero's_Blade_of_Wind.md>) (only critical) you don't have to inhale a mantra for it to take effect.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
 ### Spoils of Enmity

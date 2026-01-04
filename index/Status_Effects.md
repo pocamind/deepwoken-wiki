@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 189128
+revid: 189361
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -651,10 +651,6 @@ Be unable to use your [Vent](Combat_Mechanics.md) for a few seconds. Though appl
 ### Precise Swing
 
 Applied through the [Precise Swing](Talents.md#precise-swing) Talent, this effect grants 25% additive chip damage to your next M1. The Precise Swing status effect lasts 30 seconds, but will be consumed if your next M1 lands, hit someone's block, or gets parried. This effect has no visual indicator.
-
-### Amp Overdrive
-
-When guard breaking your opponent, apply the Amp Overdrive status effect for 7 seconds, increasing Thundercall damage taken. This effect is applied from the [Amp Overdrive](Talents.md#amp-overdrive) Talent, signified by electricity shooting out of your character's body.
 
 ### Shocking Reverb
 
