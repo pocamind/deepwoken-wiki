@@ -1,6 +1,6 @@
 ---
 title: Vapormaw Carbine
-revid: 186738
+revid: 189254
 source: https://deepwoken.fandom.com/wiki/Vapormaw_Carbine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, "Attunement-based Weapons", Rifles, Medium Weapons]
@@ -39,4 +39,11 @@ The Vapormaw Carbine is a steam powered rifle, exclusive to the [Vow of Iron](Vo
 
 ## Critical
 
-Crouch and press R to load a bullet into your rifle. Pressing R while standing will rapid fire all loaded projectiles.
+The critical requires its own unique ammunition to be used. Crouching and pressing R will load this ammunition up to 10 times. Pressing R while standing will cause the user to rapidly fire all loaded ammo.
+
+The critical has no cooldown.
+
+## Trivia
+
+-   Despite having "Carbine" in its name, the term usually falls under lightweight firearms that have a short barrel, contrasting with its large and bulky model.
+-   Since this weapon has no cooldown, it is essentially the first and only weapon with the fastest cooldown ever.
