@@ -1,9 +1,9 @@
 ---
 title: Pete
-revid: 189174
+revid: 189287
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Pete
@@ -12,7 +12,9 @@ categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Sc
 |---|---|
 | name | Pete |
 | aspect | Vesperian |
+| pronouns | He/him |
 | location | The Scoundrel's Bounty |
+| affiliation | Rotten Lot |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

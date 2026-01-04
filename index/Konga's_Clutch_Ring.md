@@ -1,6 +1,6 @@
 ---
 title: "Konga's Clutch Ring"
-revid: 186607
+revid: 189309
 source: https://deepwoken.fandom.com/wiki/Konga's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -28,3 +28,7 @@ categories: [Equipment, Rings]
 Konga's Clutch Ring is an [Equipment](Equipment.md) item under the "Rings" category.
 
 Konga's Clutch Ring allows the user to slide with little delay upon being equipped. The user must be at Power 3 to equip this ring.
+
+## Trivia
+
+-   The slide speed boost provided can be stacked with other sources of movement speed such as [Warding Radiance](Talents.md#flame-warden) and Ice surfaces.

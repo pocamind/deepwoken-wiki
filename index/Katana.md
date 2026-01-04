@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 189093
+revid: 189294
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -32,7 +32,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Lodestar, Songseeker Wilds, Bought from Traan Zakshun for 300 , Crypt of the Unbroken, Chime of ConflictAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Lodestar |
+| obtainment | Minityrsa, Merchant Ships, The Depths, Pure Erisore turn-in, Moon's Eyrie, The Diluvian Mechanism, Lodestar, Songseeker Wilds, Sold in Traan Zakshun's regular shop for 300 , Crypt of the Unbroken, Chime of ConflictAlloyed:, Alloying a Katana, Maestro Evengarde Rest, Lodestar |
 | description | An exquisite blade of Etrean make, it's said to have put the early Kingdom of Etrea's name on the map. |
 
 ## Description

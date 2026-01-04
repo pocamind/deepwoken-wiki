@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 184359
+revid: 189319
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -63,3 +63,4 @@ The critical has a cooldown of **5.5 seconds**.
 -   It has the rarity of a [Soulthorn](Soulthorn.md) in the [Moon's Eyrie](<Moon's_Eyrie.md>), possibly even rarer.
 -   Take caution in its slow swing-speed in both of the forms as it may mess up your combos.
 -   The reason why it's fractured is due to the binding of the soul to the weapon being "too tight" causing the weapon to break when the initial user died, but it stayed one one general piece as it still had a soul binding itself.
+-   This real sword this is based off of is a [Flamberge](https://en.wikipedia.org/wiki/Flamberge).

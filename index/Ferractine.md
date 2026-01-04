@@ -1,6 +1,6 @@
 ---
 title: Ferractine
-revid: 184514
+revid: 189320
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons]
@@ -56,3 +56,7 @@ The user quickly whirls the blade, performing a quick slash, leading into a heav
 The first hit has a scaled damage multiplier of 1.25x, and the second hit has a scaled damage multiplier of 1x.
 
 This critical has a cooldown of **5.5 seconds**.
+
+## Trivia
+
+-   This real sword this is based off of is a [Flamberge](https://en.wikipedia.org/wiki/Flamberge).

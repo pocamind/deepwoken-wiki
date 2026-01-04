@@ -1,6 +1,6 @@
 ---
 title: Citadel Frames
-revid: 178584
+revid: 189318
 source: https://deepwoken.fandom.com/wiki/Citadel_Frames
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Glasses, The Divers]
@@ -30,6 +30,8 @@ categories: [Equipment, Face, Glasses, The Divers]
 
 ## Trivia
 
+-   This equipment has the highest health for a face item.
 -   This is one of only two equipment items in general to grant negative stats, the other being [Dark Pearls](Dark_Pearls.md).
+-   this was the first face equipment to possess a health stat.
 -   The lowest Posture you can have is 16, with Citadel Frames and [Dark Pearls](Dark_Pearls.md).
 -   All Citadel Frames variants initially had -2 Posture, but were buffed to have -1 instead in shadow updates. Notably, the default Browline and Round variants retained their original -2 posture for several months before they were buffed, while the other variants were changed almost immediately after they released.

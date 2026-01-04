@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 189206
+revid: 189276
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
@@ -78,7 +78,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik winds his axe behind him and swings it upwards, letting out a moderate scream before performing four quick spinning slashes.
 
 -   There is a noticeable delay between the first swing and the follow-up spins.
--   I \[Inferadafox\] don't know if this is intentional, but you're unable to take damage from the second and/or third hit when you parry the first spinning slash.
 
  | 
 

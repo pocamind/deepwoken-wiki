@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 189250
+revid: 189292
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Lore]
@@ -413,7 +413,7 @@ Dialogue: [Hiri](Hiri.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)
 
 -   The Moonseye is believed to project the same Light as [Lightkeepers](#lightkeep).
 
-Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) if the player is a [Dawnwalker](Oath%253A_Dawnwalker.md)
 
 -   A [Celestial](#the-celestials) known as [Zhatarn](#zhatarn-the-moonlight-prince) is said to have stolen from the Moonseye and been driven mad by it.
 

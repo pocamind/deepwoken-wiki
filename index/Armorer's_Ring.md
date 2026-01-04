@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Ring"
-revid: 178650
+revid: 189312
 source: https://deepwoken.fandom.com/wiki/Armorer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -31,4 +31,5 @@ This does not reduce the armor damage from any of [Ironsing's](Ironsing.md) abil
 
 ## Trivia
 
+-   The armor damage reduction granted by this ring can be stacked with talents like [Armor Conserver](Talents.md#natural-armor) and the Steadfast [boon](Boons_and_Flaws.md)
 -   Looks similar to the the [Bloodiron Ring](Bloodiron_Ring.md) in model.

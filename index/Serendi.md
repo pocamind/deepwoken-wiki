@@ -1,6 +1,6 @@
 ---
 title: Serendi
-revid: 189173
+revid: 189288
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
@@ -14,6 +14,7 @@ categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusiv
 | aspect | Etrean |
 | pronouns | She/her |
 | location | The Scoundrel's Bounty |
+| affiliation | Rotten Lot |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

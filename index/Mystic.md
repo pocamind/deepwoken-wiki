@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 188841
+revid: 189289
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, Talents]
@@ -311,7 +311,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 
 ## Locations
 
--   [Etris](Etris.md), in between the mantra shop and weapons shop.
+-   [Etris](Etris.md), in the [mantra shop](Etris.md#mantra-shop) near the weapons shop.
 -   [Isle of Vigils](Isle_of_Vigils.md), to the right of the guard protecting the entrance of the [Temple of the Blade](Temple_of_the_Blade.md).
 -   [Summer Isle](Summer_Isle.md), just outside the docks.
 -   [Meteor Isle](Meteor_Isle.md), on a rock near Ata, the spark NPC and the Smithy.

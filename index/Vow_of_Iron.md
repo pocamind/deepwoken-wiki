@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 189151
+revid: 189299
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -21,7 +21,7 @@ The path ahead is not a forgiving one. ”
 
 Vow of Iron is one of two Paths (gamemodes) available in _Deepwoken_, the other being [Pathfinder](Pathfinder.md).
 
-In Vow of Iron, you relive the events of [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>) rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, The Inheritor, wield in an attempt to understand what became of the world during these times.
+In Vow of Iron, you relive the events of [Zi'eer's](<Zi'eer,_the_Fourth_Prophet.md>)rise to power in 1233 CE through [Mementos](Mementos.md), the memories of the fallen that you, The Inheritor, wield in an attempt to find a detail or weakness that would allow the [Circle of Honor](Circle_of_Honour.md) to defeat Zi'eer in present days.
 
 Vow of Iron is, in essence, a hard mode of _Deepwoken_. Featuring new enemies, bosses, restricted and tweaked progression, and a new map, showcasing Lumen as it was 38 years before the arrival of the Pathfinder.
 
@@ -51,7 +51,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   These Mementos can have unique restrictions applied to them (such as being unable to use certain weapon type) and have a set stat distribution, which is gained as you Power Up.
 -   To progress, Power Ups must be purchased from the [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md) in [The Cerebral Spire](The_Cerebral_Spire.md) for Notes. You must also purchase Talents and Mantras directly from him. Your available Talents and Mantras depend on your Power and the Memento you are using.
     
-    -   You unlock a set of Talents and Mantras to purchase at Power 1, 5, 10, 15 and 20.
+    -   You unlock a set of Talents and Mantras to purchase at Power 1, 5, 10, 15 and sometime 20.
 -   You will be level locked at Powers 5, 10, and 15, but defeating the following bosses will allow you to surpass these limits;
     -   Defeating [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) will allow you to progress past Power 5.
     -   Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) will allow you to progress past Power 10.
@@ -95,7 +95,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 
 -   As the events of Vow of Iron take place 38 years ago, the world reflects this time period, featuring tweaked, reworked, missing, or entirely new locations.
 -   Vow of Iron takes place in a game instance separate from Pathfinder. Pathfinder and Vow of Iron characters cannot interact with each other in any capacity.
--   The Etrean and Eastern Luminant are combined into a singular map.
+-   The Etrean and Eastern Luminant are combined into a singular map. The map is much more compact, with islands being much closer to one another.
 -   Ziplines are heavily dotted around the map, allowing quick traversal.
 -   The Depths have also changed, you can see the VOI Depths [here](<The_Depths_(Vow_of_Iron).md>).
 -   World Events now only include bosses such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md).

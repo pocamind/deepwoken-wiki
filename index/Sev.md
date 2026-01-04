@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 188867
+revid: 189275
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -80,7 +80,7 @@ Sev's Boutique
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -112,7 +112,7 @@ Sev's Boutique
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

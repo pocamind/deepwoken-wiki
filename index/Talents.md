@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189132
+revid: 189304
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2030,7 +2030,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Enrage \[Common Talent, Unlockable talent\] - Whenever you stun an opponent who's taunted with encore, enrage them.
     -   Unlock requirement: wipe while using the [Strange Merchant](Strange_Merchant.md) memento.
-    -   Prerequisites: Encore
+    -   Prerequisites: 65 charisma, Encore
 
 ### Javelin Lord
 

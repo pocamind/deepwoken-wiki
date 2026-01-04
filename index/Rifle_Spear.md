@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 182581
+revid: 189295
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -20,7 +20,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rif
 | range | 9 Lunge |
 | swing speed | 0.9x |
 | attack duration | 0.7s |
-| penetration | 25% |
+| penetration | 40% |
 | special effect | Procs all Rifle and Spear exclusive Talents. |
 | m.equip | No |
 | m.extract | No |
@@ -54,3 +54,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.
 -   The Rifle Spear has a Central Authority logo etched onto the blade.
+-   You are unable to use other motifs on this weapon.

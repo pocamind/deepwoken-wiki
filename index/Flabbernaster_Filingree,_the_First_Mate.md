@@ -1,9 +1,9 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 188824
+revid: 189285
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Gremor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
 ---
 
 # Flabbernaster Filingree, the First Mate
@@ -12,7 +12,9 @@ categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoun
 |---|---|
 | name | Flabbernaster Filingree |
 | aspect | Gremor |
+| pronouns | She/her |
 | location | The Scoundrel's Bounty |
+| affiliation | Rotten Lot |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
