@@ -1,6 +1,6 @@
 ---
 title: Etrean
-revid: 182264
+revid: 189369
 source: https://deepwoken.fandom.com/wiki/Etrean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -65,7 +65,7 @@ Etreans are described as snake-like people, who commonly have pale skin, and sli
   <ul>
     <li><i>"These were specifically made for your kind. Etris Flasks now heal you 10% more than usual."</i>
   <ul>
-    <li>Etris flasks now heal 40% HP.</li>
+    <li>Etris flasks now heal 60% HP.</li>
   </ul></li>
   </ul></td>
 </tr>

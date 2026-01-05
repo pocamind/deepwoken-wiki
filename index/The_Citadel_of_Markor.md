@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 188948
+revid: 189428
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]

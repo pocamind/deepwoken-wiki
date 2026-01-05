@@ -1,9 +1,9 @@
 ---
 title: Heart of Enmity
-revid: 188328
+revid: 189425
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
+categories: [Pages with reference errors, Pathfinder Exclusive, Bosses, Voiced Characters]
 ---
 
 # Heart of Enmity
@@ -49,7 +49,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  |  |
 | 
 
-**Uppercut of Enmity**  
+**Homerun Bat**[\[1\]](#cite-note-homerun-1)  
 (★★★)
 
  | Heart of Enmity kneels down and grabs a nearby player, tosses them up then bats them with his axe.
@@ -216,3 +216,7 @@ Additionally, the player will receive a significant amount of experience, [attri
 -   Their summons are internally referred to as ".enmity\_enforcer\_WEAPON"
 -   There was a bug that could instakill/void the boss by hitting the back of its neck with Rising Thunder or Rising Wind, as it would teleport far outside the confines of the arena, upon which it would die.
 -   Before the World Events update, which added the boss, going to the trial with 5 or more people at once would force the participants to fight until one remained.
+
+## References
+
+1.  [↑](#cite-ref-homerun-1-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `HOMERUN`

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189362
+revid: 189418
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -53,13 +53,12 @@ Most Talents are locked with a prerequisite. Depending on the prerequisite, you 
 
 There are certain Talents that you receive automatically upon meeting their requirement. The following Talents will not take up Talent slots:
 
--   [Echo Talents](Echoes.md#echo-talentsitems)
--   [Attunement](Attunements.md) obtainment and progression Talents
--   [Oath](Oaths.md) Talents
+-   [_Echo_](Echoes.md#echo-talentsitems) and _Quest_ Talents
+-   **[Attunement](Attunements.md)** obtainment and progression Talents
+-   [**Oath**](Oaths.md) Talents
 -   **Faction** Talents
--   [Quest](#talent-quests) Talents
--   [Innate](#innate) Talents, such as those from your [Aspect](Aspects.md)
--   [Origin](Origins.md) Talents
+-   [**Innate**](#innate) Talents, such as those from your [Aspect](Aspects.md)
+-   [_Origin_](Origins.md) Talents
 
 Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
 
@@ -147,8 +146,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Adaptive Arsenal
 
 -   _An Ironsinger's Instinct_ \[Rare Talent, Ironsing Exclusive\] - Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken. 18s CD
-    -   After dodging, for the next 2 seconds, reduce the next instance of DMG by 60%.
-        -   This effect only works on the first hit, therefore much less effective against multi-hit attacks.
+    -   After dodging gain the Ironsinger's Instinct status effect for 2 seconds, reducing the damage of the next hit by 60%.
     -   The user visually gains a grey metallic shine upon for the duration, clearing on hit.
         -   The shine's color is static and doesn't change with "Gilded Path: Scrapsinger"
     -   Has a cooldown of 18 seconds, starting immediately upon dodge.
@@ -314,15 +312,15 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Angler
 
--   Proficient Baiting \[Common Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
+-   Proficient Baiting \[Quest Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
     -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
     -   Prerequisite: Fish a total of 10 times successfully. (Automatically obtained)
 
--   Hook, Line, and Sinker \[Common Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
+-   Hook, Line, and Sinker \[Quest Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
     -   Slightly increases margin of failure before losing a fish.
     -   Prerequisite: Fish a total of 30 times successfully. (Automatically obtained)
 
--   Fisher's Lure \[Common Talent\] - Fish are drawn to your line more quickly.
+-   Fisher's Lure \[Quest Talent\] - Fish are drawn to your line more quickly.
     -   Slightly increases the chance of hooking something while fishing.
     -   Prerequisite: Fish a total of 50 times successfully. (Automatically obtained)
 
@@ -432,8 +430,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Works with Surge Path.
     -   Prerequisites: 60 Thundercall, [Power](Power.md) 10
 
--   Resolve Crusher \[Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
-    -   Electrified targets have their physical attack deal lightning damage instead and deal 10% less damage.
+-   Resolve Crusher \[Common Talent, Thundercall Exclusive\] - Lightning moves now apply stacks of "Resolve Crusher". At 4 stacks, you apply "Electrified" to your opponent. Attacks from Electrified opponents are converted into lightning damage, but will deal 10% less damage to you.
+    -   Electrified targets have their damage on weapon attacks changed to Thundercall damage.
     -   Electrified only reduces damage from weapon attacks.
     -   Resolve Crusher's "Electrified" effect is only applied after the 5th stack (not the 4th stated by the Talent)
     -   **Only** Thundercall Mantras build up stacks for this. Thunder damage from any other source will not build up stacks.
@@ -442,12 +440,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   The visual effect for this talent is currently bugged, and isn't visible.
     -   Prerequisite: 65 Thundercall
 
--   First Interrogation \[Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
+-   First Interrogation \[Common Talent, Thundercall Exclusive\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
     -   Only procs on weapon attacks from Electrified opponents.
     -   Ether given is equal to half of the attack's unmodified damage.
     -   Still gives ether even if you block, parry, or dodge their attack.
     -   Prerequisites: 65 Thundercall, Resolve Crusher
--   Second Interrogation \[Thundercall Exclusive\] - Electrified attacks do 50% less damage and posture damage to you.
+
+-   Second Interrogation \[Common Talent, Thundercall Exclusive\] - Electrified attacks do 50% less damage and posture damage to you.
     -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
     -   This also only applies to weapon attacks.
     -   Prerequisites: 65 Thundercall, First Interrogation
@@ -475,7 +474,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   The Equipment "[Providence Coat](Providence_Coat.md)" has this Talent.
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 5%, from -25% movement speed to a -20%.
+    -   Increases your movement speed while blocking by 5%, from -25% movement speed to -20%.
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdolled) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
@@ -525,8 +524,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
 -   All-Seeing Eye \[Oath Talent, [Blindseer](Oath%253A_Blindseer.md) Exclusive\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
-    -   Invisible players are revealed by a Blindseer Eye icon showcasing their current position.
-        -   Specifically reveals those under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
+    -   Invisible players and monsters are revealed by a Blindseer Eye icon showcasing their current position.
+        -   Specifically reveals players under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
     -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
     -   This works on anyone who is invisible, yourself and monsters included.
     -   Prerequisites: [Oath: Blindseer](Oath%253A_Blindseer.md), help 4 Pathfinders escape their [Depths Trials](Cathedral_of_the_Interstice.md) OR pay 10 to the wall text you obtained the Oath from to skip Blindseer's progression entirely (requires you to have fully progressed the Oath at least once).
@@ -569,7 +568,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time.
 
 -   Soaring Storm \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
-    -   Proc condition is removed if in True Strength.
+    -   Proc condition is removed and damage is increased if in True Strength.
     -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time.
 
@@ -608,7 +607,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
     -   Sovereign State has a 10 second activation cooldown once the duration runs out.
-    -   You can press X while having at least 30% Blight Meter to activate Sovereign State early. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
+    -   You can press X while having at least 30% Blight Meter to activate Sovereign State. While in Sovereign State, your Blight Meter will passively decay, and it cannot be deactivated.
         -   This keybind can be changed in settings.
     -   While in Sovereign State, your weapon will be replaced with the _[Sovereign Bangle](Oath%253A_Blightsurger.md#weapon)_.
     -   Skycrash will be automatically used twice in quick succession while in this state.
@@ -683,6 +682,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 40 Bloodrend, 40 Ironsing
 
 -   Brain Death \[Common Talent, Dual Attunement\] - Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra.
+    -   Applies a new stack of suffocation on proc.
     -   Prerequisite: 40 Bloodrend, 40 Galebreathe
 
 -   Cold Blooded \[Common Talent, Dual Attunement\] - Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)
@@ -701,16 +701,18 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisite: 40 Bloodrend, 40 Shadowcast
 
 -   Scorchblood \[Common Talent, Dual Attunement\] - Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.
-    -   Deals 16.5 damage in an AoE on proc
+    -   Deals 16.5 damage in an AoE on proc.
+    -   Applies burn before Scorched Peak does a check to see if your opponent is burning, meaning Scorched Peak will be instantly procced if you guardbreak with a Bloodrend Mantra.
     -   Prerequisite: 40 Bloodrend, 40 Flamecharm
 
 ### Brawler
 
 -   Bruiser's Mixup \[Common Talent\] - Switching your Fist Style mid-fight makes your basic Fist attacks inflict bleed temporarily.
-    -   Lasts for ~4 seconds and procs 30% Bleed.
+    -   Lasts for 4 seconds.
     -   Procs by pressing Y (Works even if you only have one Fist Style)
     -   8 Second cooldown between style change.
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
+    -   Prerequisites: Any Fist style
 
 ### Bruiser
 
@@ -789,15 +791,15 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Enchaining targets and hitting Chained targets with with Restrain will add 1 stack of Perpetual Wrath.
     -   Each stack of Perpetual Wrath increases [Restrain's](Oath%253A_Chainwarden.md) (Mantra) damage by 8, capping out at 4 stacks for +32 damage. At max stacks, Restrain additionally gains a new visual and sound effect.
     -   **All** stacks of Perpetual Wrath will be cleared if the chain is broken.
--   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat one humanoid [boss](Bosses.md) or player with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
+    -   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat one humanoid [boss](Bosses.md) or player with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
 
 -   Chainlash \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md) Exclusive\] - On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
-    -   Your flourish and [Impel](Oath%253A_Chainwarden.md) (Mantra) now apply chained and pull after a short delay. M1ing after the pull will perform a Crushing Kick, dealing high damage.
+    -   Your flourish and [Impel](Oath%253A_Chainwarden.md#impel) (Mantra) now apply chained and pull after a short delay. M1ing after the pull will perform a Crushing Kick, dealing high damage.
     -   The pull will bring the targets back to the location you flourished and prevent movement for a duration.
     -   Chainlash will only work on Chained targets, if a target breaks the chain quick enough, Chainlash will cancel.
     -   Works with Dazing Finisher and Bulldozer.
     -   The kick ragdolls and flings targets in the direction you are looking, but cannot wallbang.
--   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat two humanoid [bosses](Bosses.md) or players with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
+    -   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat two humanoid [bosses](Bosses.md) or players with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
 
 ### Champion
 
@@ -2808,13 +2810,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Saint of Blades
 
--   _Light Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest._
+-   Light Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
     -   Prerequisite: 75 Light Weapon
 
--   _Medium Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest._
+-   Medium Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
     -   Prerequisite: 75 Medium Weapon
 
--   _Heavy Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest._
+-   Heavy Weapons Unbounded \[Unlockable Talent\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
     -   Prerequisite: 75 Heavy Weapon
 
 ### Saintsworn
@@ -3074,13 +3076,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Shipwright
 
--   Emergency Repairs \[Common Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship. (+2 Carry Load)
+-   Emergency Repairs \[Quest Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship. (+2 Carry Load)
     -   Repairing restores 25% more HP to the boat when it's below 25% HP.
     -   Your repairs scale with the health of the ship by \[needs testing\].
     -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 11 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
 
--   Spare Nails \[Common Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
+-   Spare Nails \[Quest Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
     -   Repairing restores 400 HP instead of 250 HP.
     -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.

@@ -1,6 +1,6 @@
 ---
 title: Enforcer Helm
-revid: 186134
+revid: 189370
 source: https://deepwoken.fandom.com/wiki/Enforcer_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -35,4 +35,4 @@ The [Blend In](Talents.md#blend-in) Talent makes most Depths Monsters neutral to
 
 ## Trivia
 
-This item was briefly available in [Pathfinder](Pathfinder.md) mode via directly dropping from [Heart of Enmity](Heart_of_Enmity.md). **This was patched**.
+-   This item was briefly available in [Pathfinder](Pathfinder.md) mode via directly dropping from [Heart of Enmity](Heart_of_Enmity.md).

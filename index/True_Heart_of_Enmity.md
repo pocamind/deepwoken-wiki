@@ -1,9 +1,9 @@
 ---
 title: True Heart of Enmity
-revid: 188330
+revid: 189427
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
+categories: [Pages with reference errors, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -44,8 +44,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 | **Name** | **Description** | **Media** |
 | --- | --- | --- |
 | 
-**Enmity's Call**
-
+**Enmity's Call**  
 (★★☆)
 
  | The Heart of Enmity raises his axe into the air and summons 3 [Servants of Enmity](Enforcer.md), which are Soul [Enforcers](Enforcer.md) with bright yellow eyes. During this time, he will not attack the player and instead watch.
@@ -55,71 +54,78 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   They don't have the Enforcer Pull or Whirlwind attacks.
 -   This is one of the best times to drink [Etris Flasks](Etris_Flask.md) due to the high charging time.
 
- |  |
+ | 
+
+ |
 | 
 
-**Uppercut of Enmity**
-
+**Homerun Bat**[\[1\]](#cite-note-homerun-1)  
 (★★★)
 
  | Heart of Enmity kneels down and grabs a nearby player, tosses them up then bats them with his axe.
 
 -   This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other.
 
- |  |
-| 
-
-**Sadistic Fury**
-
-(★★☆)
-
- | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.
+ | 
 
  |
 | 
 
-**Reposition**
+**Sadistic Fury**  
+(★★☆)
 
+ | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.
+
+ | 
+
+ |
+| 
+
+**Reposition**  
 (☆☆☆)
 
  | The Heart of Enmity quickly darts from one side to another, often following up with an attack.
 
- |  |
+ | 
+
+ |
 | 
 
-**Sadistic Edge**
-
+**Sadistic Edge**  
 (★★☆)
 
  | The Heart of Enmity performs a quick slash.
 
 -   Only uses this attack after using Reposition.
 
- |  |
+ | 
+
+ |
 | 
 
-**Spread, Obsidian Wings**
-
+**Spread, Obsidian Wings**  
 (★★☆)
 
  | The Heart of Enmity quickly leaps up with his wings before striking the player with his axe.
 
- |  |
+ | 
+
+ |
 | 
 
-**The Brutalizer**
-
+**The Brutalizer**  
 (★★☆)
 
  | The Heart of Enmity delivers a powerful stomp then slamming his axe down, the stomp knocks down the victim.
 
 -   The stomp may also be cancelled into Condemnation's Fall, and Sadist's Fury.
 
- |  |
+ | 
+
+ |
 | 
 
-**Condemnation's Fall**
-
+**Condemnation's Fall**  
 (★★☆)
 
  | The Heart of Enmity slightly kneels then tosses his axe towards where he's aiming, causing an AoE where the axe lands and major damage alongside ragdoll.
@@ -127,29 +133,43 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   He uses this attack when someone is far from him.
 -   Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
 
- |  |
+ | 
+
+ |
 | 
 
-**I Shall Make This Agony Everlasting, Your Arrogance Must Pay The Price Of This Bargain**
+**Home Run**  
+(★★☆)
 
+ | The Heart of Enmity winds up his axe quickly before delivering a fast swing of his axe that knocks the player back far.
+
+ | 
+
+ |
+| 
+
+**I Shall Make This Agony Everlasting, Your Arrogance Must Pay The Price Of This Bargain**  
 (★★★)
 
  | The Heart of Enmity, filled with contempt, makes an unparryable charge towards the player, sending them upwards before slowly taking flight and crashing down at them, dealing major damage.
 
 -   Only the secondary slam is parryable/blockable, not the charge.
 
- |  |
+ | 
+
+ |
 | 
 
-**Event Horizon**
-
+**Event Horizon**  
 (★★☆)
 
  | The Heart of Enmity raises its arm and charges a pull attack, forcing players to go within the attack's blind spot near Enmity. Anybody caught outside the blind spot will be pulled and take serious damage.
 
 -   During this charge up, Enmity is free to be hit.
 
- |  |
+ | 
+
+ |
 
 ### Passives
 
@@ -241,3 +261,7 @@ TBA
 
 -   The reason as to True Heart of Enmity's health being lower than Heart of Enmity is unknown, but maybe because of the amount of drownings that happened over time has given him a buff to the point where more than one person have to beat him.
     -   (the health change is more than likely just to make the fight more viable solo and has little to no lore implications)
+
+## References
+
+1.  [↑](#cite-ref-homerun-1-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `HOMERUN`

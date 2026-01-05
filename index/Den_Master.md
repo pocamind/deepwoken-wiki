@@ -1,9 +1,9 @@
 ---
 title: Den Master
-revid: 187776
+revid: 189385
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Den Master

@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 189299
+revid: 189368
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -56,6 +56,8 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
     -   Defeating [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) will allow you to progress past Power 5.
     -   Defeating [Dravik, The Rat King](Dravik,_The_Rat_King.md) will allow you to progress past Power 10.
     -   Defeating [True Heart of Enmity](True_Heart_of_Enmity.md) will allow you to progress past Power 15.
+-   Uniquely to these bosses, dying will instead revive you, gives you 50% Wither and heal the boss to full HP, along with doubling your damage.
+    -   This effect will only trigger once per fight. Failing and returning to the boss will reenable this effect.
 -   Additionally, defeating the above bosses may grant you additional Talents or Mantras, depending on your Memento.
 
 ### Combat
@@ -63,11 +65,12 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   Vow of Iron has no passive health regeneration whatsoever. Most damage you take is semi permanent, unless you have access to some of the rare sources of healing available.
     -   [Etris Flasks](Etris_Flask.md) can be quickly drank to restore 50% HP (60% with [Etrean](Etrean.md)). However, this is a limited resource that will only be refilled by returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering [The Depths](<The_Depths_(Vow_of_Iron).md>), or by escaping The Depths. Upon creating your character, you will only have 1 Etris Flask charge, but more charges can be bought across the Luminant.
     -   [Campfires](Campfire_Pit.md) can still be used to restore your health.
-    -   Health Packs of any source are greatly reduced or outright removed.
+    -   Health Packs only grants 5% HP. Enemies in The Depth provide no Health Packs.
     -   Entering a Boundary will heal you to full however.
 -   Vow of Iron characters have a permanently stained health bar. Any death will send them to The Depths.
 -   Vow of Iron characters face a unique Depth Trial that features [Bone Keeper](Bone_Keeper.md), [Parliament](Parliament.md), [Prime Megalodaunt](Prime_Megalodaunt.md) and [Nautilodaunt Officiate](Nautilodaunt_Officiate.md).
 -   Auto Parry is completely removed, requiring you to manually parry continuous attacks.
+    -   There is still an extremely brief window where following attacks will not hit, but it is much smaller, and doesnt trigger auto parry.
 -   Monsters are now able to be guardbroken much like players, even from a parry.
 
 ### Loot
@@ -77,7 +80,7 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   Chests cannot be opened. Instead, they must be carried and brought to certain NPCs or The Cerebral Spire to be opened. Chests yield random loot and large amount of Notes, which is necessary for progression.
     -   Interacting with a chest will have you carry it in a sack on your shoulder. You can carry multiple chests at once, however, getting put in hitstun or ragdolled will have you drop the sack.
 -   There are static items around the map that can be picked up. For example, the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) can be found at [Saramaed Summit](Saramaed_Summit.md).
--   Black loot boxes can spawn around the map, where you spend Notes to obtain a random item.
+-   Black loot boxes can be found around the map, where you spend Notes to obtain a random item.
 
 #### Static Spawn Items
 
