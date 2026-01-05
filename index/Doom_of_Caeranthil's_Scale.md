@@ -1,6 +1,6 @@
 ---
 title: "Doom of Caeranthil's Scale"
-revid: 177003
+revid: 189481
 source: https://deepwoken.fandom.com/wiki/Doom_of_Caeranthil's_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]

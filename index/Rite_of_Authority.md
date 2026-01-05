@@ -1,6 +1,6 @@
 ---
 title: Rite of Authority
-revid: 184402
+revid: 189469
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
@@ -24,7 +24,7 @@ categories: [Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Weapon
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
 | rarity | Mythical |
-| selling price | 120 |
+| selling price | 100 |
 | weight | 2 |
 | bankable | No |
 | droppable | No |

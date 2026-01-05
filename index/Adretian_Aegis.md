@@ -1,6 +1,6 @@
 ---
 title: Adretian Aegis
-revid: 189009
+revid: 189463
 source: https://deepwoken.fandom.com/wiki/Adretian_Aegis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Pathfinder Exclusive, Weapons, Shields, Offhand]
@@ -14,7 +14,7 @@ categories: [Authority Faction Item, Pathfinder Exclusive, Weapons, Shields, Off
 | requirements | 50 FTD, OR Authority Ensign |
 | faction | Authority |
 | max posture | 6.5 |
-| special effect | Posture recovery from parrying is reduced by 40%. |
+| special effect | Your posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Uncommon |
 | selling price | 14 |

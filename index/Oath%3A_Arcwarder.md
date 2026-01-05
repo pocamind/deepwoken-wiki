@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 185782
+revid: 189456
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -127,7 +127,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
     -   While Arc Suit is active, your Arcwarder Mantras will restore a percentage of your current posture.
 -   Obtained with the Oath.
 
-Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, all of Arcwarder's attacks (except for grounded Arc Beam) deal Oath, Flame, and Thunder damage. This means they will be resisted by either your Flame or Thunder resistance (whichever is higher) unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Elemental resistance.
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising Wind's damage). In this case, all of Arcwarder's attacks (except for grounded Arc Beam) deal Oath, Flame, and Thunder damage. This means they will be resisted by either your Flame or Thunder resistance (whichever is higher) unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Elemental resistance.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189443
+revid: 189486
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -5186,6 +5186,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Focused Strikes: [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
 
 -   Footwork Mastery: [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) - Landing a critical gives you an immense speed boost for 10 seconds. \[45 second CD\]
+    
+    -   The speed boost lasts 15 seconds despite what the description states.
 
 -   Gale Boots: [Gale Boots](Gale_Boots.md) - Reduce the amount of fall damage you take by 50%.
 

@@ -1,6 +1,6 @@
 ---
 title: Obfuscation
-revid: 189092
+revid: 189470
 source: https://deepwoken.fandom.com/wiki/Obfuscation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -25,4 +25,9 @@ This enchantment changes your weapon's appearance to be translucent and gives it
 
 ## Effect
 
-Obfuscation grants your weapon chip damage.
+Obfuscation grants your weapon chip damage, with the amount of chip damage gained being based on your weapon type.
+
+### Notes
+
+-   Obfuscation's chip damage is additive to your weapon's innate chip stat. This allows the [Night Axe](Night_Axe.md) to have above 100% chip at all times.
+-   Chip damage does not have PEN and cannot receive most damage modifiers, as most effects will only apply their bonuses should your attacks land.

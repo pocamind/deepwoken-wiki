@@ -1,6 +1,6 @@
 ---
 title: Vault of the Aureate
-revid: 187679
+revid: 189452
 source: https://deepwoken.fandom.com/wiki/Vault_of_the_Aureate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations, Dungeons]
@@ -20,6 +20,8 @@ LocationL Vault of the Aureate LocationR
 What's the golden rule?
 
   
+
+Vault of The Aureate is a location in Vow of Iron which you can access through a teleporter in [The Golden Rat](The_Golden_Rat.md). The Vault ressembles an arena filled with sand and coins on it's edges. Vault of The Aureate serves as a boss arena for [Dravik, The Rat King](Dravik,_The_Rat_King.md). Vault of The Aureate cannot be accessed after defeating Dravik.
 
 ## Trivia
 

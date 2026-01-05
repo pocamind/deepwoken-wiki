@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 181068
+revid: 189460
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, The Hundred Legions, Offhand]
@@ -13,7 +13,7 @@ categories: [Weapons, Shields, The Hundred Legions, Offhand]
 | type | Shield |
 | requirements | 60 FTD |
 | max posture | 8 |
-| special effect | Posture recovery from parrying is reduced by 40%. |
+| special effect | Your posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Uncommon |
 | selling price | ? |

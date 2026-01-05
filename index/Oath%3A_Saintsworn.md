@@ -1,9 +1,9 @@
 ---
 title: "Oath: Saintsworn"
-revid: 184388
+revid: 189455
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pages with broken file links, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
+categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
 ---
 
 # Oath: Saintsworn
@@ -151,7 +151,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
             -   **[Bottom Freeze](Talents.md#bottom-freeze):** Hitting your enemies with any attuned mantra projectiles while they are on ice freezes them to the ground.
             -   **[Frozen Legs](Talents.md#frozen-legs):** Hitting anyone with a slow effect attuned mantra prevents them from rolling.
         -   **Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras are able to proc the following Talents:
-            -   **[Link Conduction](Talents.md#liik-conduction)**: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
+            -   **[Link Conduction](Talents.md#link-conduction)**: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
             -   **[Jolting Current](Talents.md#jolting-current)**: Your attuned Mantras will strike nearby opponents with lightning while in water.
             -   **[Voltaic Conductor](Talents.md#voltaic-conductor)**: Your attuned Mantras will do 20% more chip damage to opponents affected by Conductor Rods.
             -   **[Shock Trooper Specialist](Talents.md#shock-trooper-specialist)**: Conjure a storm strike on your opponent by landing any attuned mantras.
@@ -201,14 +201,6 @@ Blade of Saints is the only Saintsworn Mantra. Blade of Saints varies in accorda
 -   **Blade of Saints: Thundercall Saint Stance**
     -   Slash twice with your Saintsblade, applying knockdown on the second hit, followed up by a devastating bolt of lightning that applies stun.
     -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the amount of lightning strikes.
-
-### Talent Cards:
-
-File:Ether Proselyte.png File:Hero's Assist.png File:Saints Negation.png File:Saints Overload.png File:Saints Synergy.png
-
--   +2 Combat Mantra Slots
--   +2 Support Mantra Slots
--   +1 Wildcard Mantra Slot
 
 ## Dialogue
 

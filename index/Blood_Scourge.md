@@ -1,6 +1,6 @@
 ---
 title: Blood Scourge
-revid: 184987
+revid: 189473
 source: https://deepwoken.fandom.com/wiki/Blood_Scourge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -23,15 +23,15 @@ categories: [Resonances]
 
 ### _Appearance_
 
-When used, a red circle appears around the user or projectile. Any knocked entities or players in this area are immediately gripped.
+When used, a red circle appears around the user or projectile. Any unconscious entities or players in this area are immediately gripped.
 
 ## Usage
 
 Pressing C will activate the **Blood Scourge** Resonance. **This combat tags the user.**
 
-**Blood Scourge** will near instantly execute any knocked entity within it's range (even allies) and will recover some of the player's HP depending on the level and health of the target, occurs within a few seconds. It has a cooldown of about 20 seconds. The execution cannot be avoided once in range, unless the caster is attacked at the very start of the animation, or the target was picked up and moved out of the circle.
+**Blood Scourge** will near instantly execute any unconscious entity within it's range (even allies) and will recover some of the player's HP depending on the level and health of the target, occurs within a few seconds. It has a cooldown of about 20 seconds. The execution cannot be avoided once in range, unless the caster is attacked at the very start of the animation, or the target was picked up and moved out of the circle.
 
-If Blood Scourge is corrupted, it can be charged by holding C, which prevents the user from moving but sends all executed targets to The Depths. This roughly takes three seconds to charge. Can be negated if the user is hit while charging.
+If Blood Scourge is corrupted, it can be charged by holding C, which prevents the user from moving but sends all executed targets to The Depths. This roughly takes three seconds to charge. Can be negated if the user is hit while charging. Additionally, after executing a player with Corrupted Blood Scourge (regardless of charge), you will gain a 50% buff to incoming healing for 30 seconds.
 
 ### _**Resonance Point usage**_
 

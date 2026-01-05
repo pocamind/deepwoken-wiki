@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 183041
+revid: 189480
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, The Ignition Union, Weapons with multiple Criticals]
