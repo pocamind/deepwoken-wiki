@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 174452
+revid: 189450
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quests, Mechanics]
@@ -139,7 +139,7 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Divers
     -   Tasks the player with defeating [The Fisherman](The_Fisherman.md).
 
 -   **Thresher Extermination**
-    -   Tasks the player with slaying a [Thresher](Thresher.md).
+    -   Tasks the player with slaying 2 [Threshers](Thresher.md).
 
 -   **Thresher Regicide**
     -   Tasks the player with slaying a [King Thresher](King_Thresher.md).

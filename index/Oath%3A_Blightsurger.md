@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 188067
+revid: 189449
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -153,7 +153,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
     -   This attack is counted as a weapon critical for Talent effects.
     -   Applies Blightshock on hit.
 
-Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Thunder resistance, you'd resist 35% of Thunder Kick's damage). In this case, most of Blightsurger's attacks deal Oath and Blunt damage. This means they will be resisted by your Blunt resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Blunt resistance.
+Note: Attacks with multiple damage typings will be resisted by whatever resistance is higher (e.g. if you had 35% Blunt resistance and 30% Wind resistance, you'd resist 35% of Rising wind's damage). In this case, most of Blightsurger's attacks deal Oath and Blunt damage. This means they will be resisted by your Blunt resistance unless you're using [Oathless](Oath%253A_Oathless.md) and you have less than 20% Blunt resistance.
 
 ## Trivia
 
