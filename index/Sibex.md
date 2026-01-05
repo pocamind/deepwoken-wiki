@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 188870
+revid: 189439
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Mechanics, Individuals with unspecified pronouns]
@@ -30,6 +30,10 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
 
 -   Have the [Chorus of Souls](Talents.md#sage-of-wisps) Talent, requiring [Oathless](Oath%253A_Oathless.md) and 30 points in every [Attunement](Attunements.md).
 -   Have a [Resonance](Resonance.md).
+
+## Location
+
+Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) to the right side of [The Starswept Valley](The_Starswept_Valley.md)
 
 ## Dialogue
 
@@ -174,7 +178,7 @@ Sibex is able to unlock the [Soul Beam](Oath%253A_Oathless.md#soul-beam) Mantra 
 
 -   When talking to Sibex the song [Sibex's Gale Wisp Tune](Deepwoken_OST.md#sibexs-gale-wisp-tune) will play.
 -   Sibex mentions Warden Jericho, likely meaning they are under his orders. They've been described as missing on duty, the Authority appears to have just lost them.
--   The used to wear [Hive Leader's Garment](<Hive_Leader's_Garment.md>); this was changed.
+-   They used to wear the [Hive Leader's Garment](<Hive_Leader's_Garment.md>) outfit; this was changed in an update
     -   It may have been because the outfit's design was lifted from [an outfit](References_and_Easter_Eggs.md) in _Genshin Impact_, but this is speculation.
 -   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime "Mushoku Tensei."
 -   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue they would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"

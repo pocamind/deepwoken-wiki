@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 187912
+revid: 189436
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -193,6 +193,94 @@ None
 -   Due to it being aimed with the camera, it can be a very useful tool for aerial mobility.
 -   Does not register hits until the end of the move's animation, meaning you can phase through opponents without damaging them if used at close range.
     -   Because of this, it is recommended to use this Mantra after uppercuts or while looking at the floor to land it in CQC.
+
+ |
+
+## Deck of Recollection
+
+### Power 20
+
+-   _Risky Moves_ \[Rare Talent\] **250** \- When you successfully dodge, you'll automatically dodge the next attack. (+1 Passive Agility)
+
+-   Second Interrogation \[Common Talent\] **100** \- Electrified attacks do 50% less damage and posture damage to you.
+    -   Does not stack with Resolve Crusher's damage reduction, instead it replaces it with this, more potent, effect.
+    -   This also only applies to weapon attacks.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
+| 
+
+**Lightning Cloak** (★★★)
+
+**Support Mantra**
+
+_A cloak of lightning itself._
+
+ | 
+
+## Lightning Cloak (★★★)
+
+  
+**Support Mantra**  
+_A cloak of lightning itself._
+
+ |
+| 
+
+20 Ether
+
+ | 
+
+N/A
+
+ | 
+
+1,250
+
+ |
+| 
+
+**Effect:** _Enveloped in lightning, increase the user's agility, swing speed (+10%), and granting them lightning dashes (long dodges)._
+
+-   Has a base duration of 8/8.5/9/9.5/10 seconds per level.
+-   To increase the duration, you must parry, get parried, block, or attack, refreshing the duration entirely.
+    -   Lightning cloak has a maximum duration of 60 seconds.
+-   Increases your swing speed by 10% for its full duration.
+-   Grants a 35% speed boost for its full duration, proccing speed boost-reliant Talents (such as "**Speed Demon**").
+-   Turns all dashes into lightning dashes for its full duration, increasing their distance travelled and i-frames duration.
+-   If you have no Tempo, the duration as well as the refreshing duration will be halved, applied retroactively.
+-   If the caster's Ether goes to 0, Lightning Cloak will immediately end.
+-   All **base** Ether regeneration is disabled during Lightning Cloak. Ether regeneration from sources like [Talents](Talents.md) or [Outfits](Outfits.md) will still work however.
 
  |
 
@@ -392,7 +480,7 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
 -   Heir of Lightning \[Memento Talent\] - At max orbs, [Lightning Cloak](Thundercall.md#lightning-cloak) is enhanced.
     
-    -   This Memento does not unlock Lightning Cloak at any point, causing this Talent to do nothing.
+    -   This triples the base duration of your Lightning Cloak.
 
 -   Steady Nerves \[Common Talent\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
     -   Restore 2 flat posture on a successful dodge.

@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 189405
+revid: 189442
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -29,8 +29,8 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Purifying Ring** is a Ring [Equipment](Equipment.md) piece that increases your Health by 20 at the cost of halving all incoming healing.
+**Transfusion Ring** is a Ring [Equipment](Equipment.md) piece that increases your Health by 20 at the cost of halving all incoming healing.
 
-## Trivia=
+## Trivia
 
 -   Ring location on the map
