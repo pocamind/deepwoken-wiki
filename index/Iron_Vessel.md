@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 189306
+revid: 189583
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

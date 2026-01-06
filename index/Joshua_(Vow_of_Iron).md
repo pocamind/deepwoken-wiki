@@ -1,25 +1,20 @@
 ---
 title: Joshua (Vow of Iron)
-revid: 184111
+revid: 189638
 source: https://deepwoken.fandom.com/wiki/Joshua_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Joshua (Vow of Iron)
 
-| Joshua | |
-|---|---|
-| name | Joshua |
-| aspect | Etrean |
-| location | Meteor Isle |
-| affiliation | Etrea |
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 
@@ -84,7 +79,7 @@ Joshua can be found sitting in front of a campfire, at a neighboring island near
   <td colspan="2"><i>*Joshua smiles warmly.*</i> Of course, of course! Thank you for your company, [First Name], it was a pleasant distraction in these idle hours... Safe journeys to you!</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

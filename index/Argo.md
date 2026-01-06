@@ -1,23 +1,18 @@
 ---
 title: Argo
-revid: 188081
+revid: 189631
 source: https://deepwoken.fandom.com/wiki/Argo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Fishing, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, NPCs, Fishing, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Argo
 
-| Argo | |
-|---|---|
-| name | Argo |
-| aspect | Etrean |
-| location | Etris Docks |
-| affiliation | Etrea |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 
@@ -44,7 +39,7 @@ Argo is located in the [Etris Docks](Etris_Docks.md) in their small Fishing Shop
   <td colspan="12">Just cast your line out into the sea. When you get a bite, lean in the opposite direction of where the fish is pullin ya. Some spots are bad for fishing, and you can put bait on your line to get better fish interested.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

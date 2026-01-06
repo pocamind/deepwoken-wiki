@@ -1,9 +1,9 @@
 ---
 title: "Frank F'alzone"
-revid: 189284
+revid: 189610
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Individuals with unspecified pronouns]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Individuals with unspecified pronouns, Members of the Rotten Lot]
 ---
 
 # Frank F'alzone
@@ -50,7 +50,7 @@ Frank F'alzone, is a [Celtor](Celtor.md) NPC who was part of [Captain Orlandeau'
   <td>Ye can bet yer soul I'll swab all there is to swab. They call me <b>The Swabber</b>, they does. I swab all things'at need swabbin'.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

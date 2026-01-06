@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 189502
+revid: 189582
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

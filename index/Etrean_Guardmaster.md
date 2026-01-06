@@ -1,18 +1,16 @@
 ---
 title: Etrean Guardmaster
-revid: 177419
+revid: 189650
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea]
+categories: [NPCs, NPCs located in the Eastern Luminant, Etrea, Individuals with unspecified pronouns]
 ---
 
 # Etrean Guardmaster
 
-| Etrean Guardsmaster | |
-|---|---|
-| aspect | Etrean |
-| location | Fort Merit |
-| affiliation | Etrea |
+Template:NpcInfobox
+
+  
 
 ## Description
 
@@ -20,7 +18,7 @@ Etrean Guardsmaster is an [Etrean](Etrean.md) NPC. The player is able to break o
 
 ## Location
 
-Etrean Guardsmaster is located around [Port Merit](Port_Merit.md), on a [Dinghy](Ships_&_Sailing.md#list-of-ships) in the water. Their location changes periodically between 3 different spots.
+Etrean Guardsmaster is located around [Port Merit](Port_Merit.md), on a [Dinghy](Ships_&_Sailing.md#list-of-ships) in the water. Their location changes periodically between three different spots.
 
 ## Dialogue
 
@@ -38,8 +36,8 @@ Etrean Guardsmaster is located around [Port Merit](Port_Merit.md), on a [Dinghy]
   <td>Go save our people... They're most likely in the cells at the bottom of the fort...</td>
 </tr>
 <tr>
-  <td>End, Player's handcuffs are removed</td>
-  <td>End</td>
+  <td>[End Dialogue], Player's handcuffs are removed</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

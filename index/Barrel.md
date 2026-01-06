@@ -1,6 +1,6 @@
 ---
 title: Barrel
-revid: 176939
+revid: 189548
 source: https://deepwoken.fandom.com/wiki/Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects]
@@ -8,12 +8,25 @@ categories: [Interactible Objects]
 
 # Barrel
 
-Template:AreainfoboxBarrels can be found anywhere where can be found any sight of civilisation. It can be carried anywhere. Even you can place some barrels on others. May be used as a little boost when your agility is not enough to reach high places. Can be placed on ocean and can be used as platforms for campfires so you can rest on ocean. Currently the only known place to get a barrel larger than 3 studs is in [The hidden village](The_Hidden_Village.md) in upper erisia. Crates can be used in the same way as barrels just with a larger size.
+A player standing next to various sized Barrels
 
-## Handy tactics
+## Description
 
-You can stack barrels on top of eachother to climb walls you otherwise wouldnt have been able to. This can be done by either standing on a previously placed barrel and dropping it when youre near the barrel's edge or jumping and placing the barrel midair.
+Barrels are interactable objects that can be picked up, carried, and placed almost anywhere. They are commonly found throughout Lumen and serve a variety of practical purposes.
 
-## Barrel Constructions
+## Uses
 
-You are able to stack barrels in many ways more than towers. People have been known to make barrel tanks, barrel helicopters, and through destroying the physics of the game, barrel launchpads. You can make these barrel constructions through building a three-barrel tower and removing the lowest barrel and building off of that. Just be weary of being flung too fast, too far or too high as it can lead to a death, or worse, a false ban. Other than that, it is generally risk-free and a fun activity for a bored guild.
+### Handy Tactics
+
+Barrels can be used as step stools to gain extra height when the players [Agility](Attributes.md#agl) is not high enough to reach certain areas. They can also be placed on the ocean’s surface and used as platforms for campfires, allowing players to rest while at sea.
+
+Barrels can be stacked on top of each other to create ladders for areas that would be inaccessible otherwise. This can be done by standing on a placed Barrel and then dropping another near its edge, or by jumping and placing a Barrel midair.
+
+### Barrel Constructions
+
+Barrels can be stacked in many creative ways beyond simple towers. Players have constructed Barrel tanks, Barrel helicopters, and even by exploiting the game’s physics, **Barrel launchpads**. These constructions are typically made by building a three-Barrel tower, removing the lowest Barrel, and building outward from there. Caution is advised though, being launched too fast, too far, or too high can result in death or, in rare cases, a false ban by anti-cheat. Aside from these risks, Barrel constructions are generally safe and serve as a fun activity for bored guilds.
+
+## Trivia
+
+-   Ginormous Barrels bigger than the player can be found at [The Hidden Village](The_Hidden_Village.md) and the [Beloved Zofia](Beloved_Zofia.md).
+-   There was an infamous moment of time where green Barrels would spawn throughout [The Aratel Sea](The_Aratel_Sea.md). This came from the now cut [Smuggler Investigation](Cut_Content.md#other) mission given by the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).

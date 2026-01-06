@@ -1,9 +1,9 @@
 ---
 title: Serendi
-revid: 189288
+revid: 189607
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
 ---
 
 # Serendi
@@ -51,12 +51,12 @@ Serendi is a 'short' [Etrean](Etrean.md) NPC who was part of [Captain Orlandeau'
   <td><i>*Without a word, she glares at you, piercing through your confidence. Those eyes radiate pure anger, yet, she remains upon crates to be at eye contact.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Although Serendi claims to be short, she is the same height as everyone else. This means she actually towers over you, being on those boxes.
+-   Although Serendi claims to be short, she is the same height as everyone else. This means she actually towers over the Pathfinder, being on those boxes.
 -   Serenedi's racial variant appears to be File.

@@ -1,31 +1,26 @@
 ---
 title: Vesque
-revid: 187745
+revid: 189636
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Vesque
-
-| Vesque | |
-|---|---|
-| name | Vesque |
-| aspect | Etrean |
-| location | Isle of Vigils |
-| affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Vesque is an [Etrean](Etrean.md) NPC. He teaches the [Fang and Coil](Fang_and_Coil.md) fighting style. From his dialogue, it can be inferred that he is a [Vigil](The_Vigils.md) belonging to a special division that practices hand-to-hand combat.
+Vesque is an [Etrean](Etrean.md) NPC. They teach the [Fang and Coil](Fang_and_Coil.md) fighting style. They appear to be a [Vigil](The_Vigils.md) belonging to a special division that practices hand-to-hand combat.
 
 ## Location
 
-Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a small tree, that is in front of the [Cave Master](Cave_Master.md)'s cave and the Mantra Store.
+Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a small tree, in front of the [Cave Master](Cave_Master.md)'s cave and the Mantra Store.
 
 ## Dialogue
 
@@ -48,7 +43,7 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
   <td>Keep it that way. Or else. You get me?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +59,7 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
   <td colspan="12">Hm? You don't look like much. I've got things to do. Maybe when you've made a name for yourself, heh... You'll say it was all due to this encounter.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -88,7 +83,7 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
   <td colspan="6">Tch. Looks like you haven't done your reading. The Blade is the wielder's conviction. Their precision. Their cunning. When you have all of that in spades, well. Then you don't need a weapon. Then you <i>are</i> the weapon.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -110,7 +105,7 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

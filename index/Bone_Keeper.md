@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 187721
+revid: 189532
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -17,7 +17,7 @@ categories: [Monsters, Layer 2, Floor 1, The Depths]
 
 “ It's not somewhere one would want to stay for long. In my few ventures in there, I've always heard loud stomping... behind me, almost? I didn't want to stay to find out what was making those noises. ”
 
-― Sarkale talking about the [Firfire Caverns](Firfire_Caverns.md)
+― Sarkale talking about the Firfire Caverns
 
 ## Description
 
@@ -113,10 +113,6 @@ Block
 ### Passives
 
 -   **Monster Resistance** - Physical attacks deal 20% less damage to the Bone Keeper.
-
-## Gallery
-
-There are **16** images, be warned
 
 ## Trivia
 

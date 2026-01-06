@@ -1,25 +1,20 @@
 ---
 title: Kennith (Vow of Iron)
-revid: 186808
+revid: 189615
 source: https://deepwoken.fandom.com/wiki/Kennith_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Kennith (Vow of Iron)
 
-| Kennith | |
-|---|---|
-| name | Kennith |
-| aspect | Etrean |
-| location | Etris |
-| affiliation | Etrea |
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 

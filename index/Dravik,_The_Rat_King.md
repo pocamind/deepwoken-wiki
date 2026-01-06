@@ -1,9 +1,9 @@
 ---
 title: "Dravik, The Rat King"
-revid: 189276
+revid: 189659
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats]
+categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Enemies]
 ---
 
 # Dravik, The Rat King
@@ -277,11 +277,12 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 ## Trivia
 
+-   When defeated, Dravik will say "At long last, a death, honorable for a Golden Rat."
 -   Dravik is voiced by "a random guy off of Fiverr \[for $50\]".[\[1\]](#cite-note-1)
 -   The Triangular slash attack is likely a reference to "[Pasmarkinti Charged Blow](https://rogue-lineage.fandom.com/wiki/Pilgrim_Knight)" from Monad Studio's previous game, _Rogue Lineage_.
 -   The current soundtrack that plays during the fight is "Shallow Breath" by Naktigonis, which was originally an OST meant for the [Conquest](Conquest.md) gamemode.
 -   The hair ID for Dravik's beard is 97197321204898.
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/live/C9qd2A\_NSk4?si=9menDzZFdYRic4rP&t=643](https://www.youtube.com/live/C9qd2A_NSk4?si=9menDzZFdYRic4rP&t=643)

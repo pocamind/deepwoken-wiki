@@ -1,27 +1,22 @@
 ---
 title: Krile
-revid: 188839
+revid: 189626
 source: https://deepwoken.fandom.com/wiki/Krile
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis, Individuals with unspecified pronouns]
 ---
 
 # Krile
-
-| Krile | |
-|---|---|
-| name | Krile |
-| aspect | Etrean |
-| location | Voidheart |
-| affiliation | The Knives of Eylis |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Krile is a [Etrean](Etrean.md) NPC in the [Voidheart](Voidheart.md). She is able to reset the Chessboard by warping pieces back to their original position.
+Krile is an [Etrean](Etrean.md) NPC in the [Voidheart](Voidheart.md). They are able to reset the Chessboard by warping pieces back to their original position.
 
 ## Dialogue
 

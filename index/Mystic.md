@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 189289
+revid: 189560
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, Talents]
@@ -86,6 +86,7 @@ Some Talents will not appear as there will be no Mystic choices for them in-game
 -   _Artisan_ (Master Craftsman)
 -   _Ether Conduit_ (Ether Absorption, Mantra Permanence) **(Note; Cannot give Eureka)**
 -   _Ether Endeavors_ (Behind You, Keen Recovery, Unwavering Focus)
+-   _Intellisense_ (Critical Engine)
 -   _Omniscient_ (Successive Prediction, Twelve Steps Ahead) **(Note; Cannot give All Knowing)**
 -   _Songmaster_ (Absolute Pitch, Ether Overdrive)
 -   _Tactician_ (Hard Read, Target Switch, Foolish Outburst, Water off a Duck's Back) **(Note; Cannot give Punishing Blow)**

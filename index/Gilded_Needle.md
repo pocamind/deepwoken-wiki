@@ -1,6 +1,6 @@
 ---
 title: Gilded Needle
-revid: 176765
+revid: 189519
 source: https://deepwoken.fandom.com/wiki/Gilded_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -126,3 +126,7 @@ Unlike [Armorer's Needles](<Armorer's_Needle.md>), you can choose what the pip c
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Like the Armorer's and Forge needles, the item itself appears to resemble the shape of a Treble Clef, used in sheet music notation.

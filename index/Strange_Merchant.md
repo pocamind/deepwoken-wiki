@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 188949
+revid: 189589
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

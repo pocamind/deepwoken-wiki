@@ -1,9 +1,9 @@
 ---
 title: Sev
-revid: 189275
+revid: 189599
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
+categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Sev
@@ -12,6 +12,7 @@ categories: [Ganymede NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in
 |---|---|
 | name | Sev |
 | aspect | Ganymede |
+| pronouns | They/them |
 | location | Meteor Isle |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

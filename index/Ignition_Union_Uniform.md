@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 186581
+revid: 189594
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Ignition Union]
@@ -10,7 +10,6 @@ categories: [Outfits, Adept Outfits, The Ignition Union]
 
 | Ignition Union Uniform | |
 |---|---|
-| caption | ... |
 | tier | Adept |
 | crafting_req | x5 Cloth, x5 Fiber, x3 Irithine, x1 Lionfish Scale |
 | stat_req | Power 6 |

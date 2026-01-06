@@ -1,23 +1,18 @@
 ---
 title: Eiris
-revid: 184113
+revid: 189651
 source: https://deepwoken.fandom.com/wiki/Eiris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, NPCs, Random Encounters]
+categories: [NPCs, Random Encounters]
 ---
 
 # Eiris
 
-| Eiris | |
-|---|---|
-| name | Eiris |
-| aspect | Etrean |
-| location | The Knives of Eylis vs Kingdom of Etrea random event |
-| affiliation | The Knives of Eylis |
-
 “ We're... bound by Eylis, and her Void... It's too much. Too much. I've told you too much... ”
 
 ― Eiris
+
+Template:NpcInfobox
 
 ## Description
 

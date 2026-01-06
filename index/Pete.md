@@ -1,9 +1,9 @@
 ---
 title: Pete
-revid: 189287
+revid: 189608
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
 ---
 
 # Pete
@@ -51,7 +51,7 @@ Pete is a [Vesperian](Vesperian.md) NPC who was part of [Cap'n Orlandeau](<Cap'n
   <td><i>*The man gives a weak thumbs-up towards you, clutching his stomach with his other hand.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

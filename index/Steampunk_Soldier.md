@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 188932
+revid: 189586
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

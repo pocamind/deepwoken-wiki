@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 187915
+revid: 189585
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

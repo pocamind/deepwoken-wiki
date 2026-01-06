@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 176764
+revid: 189518
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -136,3 +136,7 @@ When changing a pip, they will turn into any of the relevant, available pip for 
 ## Notes
 
 You can hold a max of 25 **Armorer's Needles** at once, trying to craft more will spend the resources and return nothing.
+
+## Trivia
+
+-   Like the Forge and Gilded needles, the item itself appears to resemble the shape of a Treble Clef, used in sheet music notation.

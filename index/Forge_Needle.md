@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 176766
+revid: 189522
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -37,3 +37,8 @@ Crafted using 1 [Armorer's Needle](<Armorer's_Needle.md>) and 3 [Smith's Alloys]
 -   This item was added on August 2, 2024, along with the [Grand Fisher Set](Grand_Fisher_Plate.md).
 -   Considered somewhat useless, as grinding out a three star version of most items usually takes much less time then getting three [Smith's Alloys](<Smith's_Alloy.md>).
 -   Like the Armorer's and Gilded needles, the item itself appears to resemble the shape of a Treble Clef, used in sheet music notation.
+-   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Blacksmith Alloy". The concept encompassed both the Forge Needle and the Smith's Alloy.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

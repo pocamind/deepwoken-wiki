@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 189324
+revid: 189550
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -999,7 +999,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p>On weapon attack, there is a chance that one of two things will happen:</p><div>
   <ol>
-    <li>A percentage (LHT: 3%, MED: 4.5%, HVY: 6%) of your maximum health will be added to your attack's scaled damage.
+    <li>A percentage (LHT: 8%, MED: 6%, HVY: 10%) of your maximum health will be added to your attack's scaled damage.
   <ul>
     <li>This is applied before damage modifiers.</li>
   </ul></li>

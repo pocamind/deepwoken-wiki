@@ -1,9 +1,9 @@
 ---
 title: Seroth
-revid: 187572
+revid: 189616
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Seroth
@@ -12,6 +12,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean
 |---|---|
 | name | Seroth |
 | aspect | Etrean |
+| pronouns | He/him |
 | location | Isle of Vigils |
 | affiliation | Etrea |
 

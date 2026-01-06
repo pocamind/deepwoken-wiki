@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 187595
+revid: 189679
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -39,6 +39,8 @@ Variants: [Blackalloy Helm](Blackalloy_Helm.md)
 Blackalloy Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 3, applied after damage modifiers. Notably, this is applied after other resistances. It is possible to take negative damage through this Talent, causing you to heal instead.
+
+Though not mentioned in the Talent description, Laminated Armor's effect goes both ways, reducing your **outwards** damage by 3 as well. This can cause certain low damage/hit Mantras to heal your opponent.
 
 ## Set Bonus
 

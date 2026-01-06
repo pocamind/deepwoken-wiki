@@ -1,6 +1,6 @@
 ---
 title: "Smith's Alloy"
-revid: 187668
+revid: 189524
 source: https://deepwoken.fandom.com/wiki/Smith's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -44,7 +44,7 @@ When used on a compatible weapon, the Smith's Alloy can be used to destroy your 
 
 ## Trivia
 
--   5 of them can be used to craft one 1 [Armorer's Needle](<Armorer's_Needle.md>).
+-   Five of them can be used to craft one [Armorer's Needle](<Armorer's_Needle.md>).
 -   You can hold up to 25 Smith's Alloys at any given point of time.
 -   Smith's Alloy can be used on [False Memory](False_Memory.md).
 -   Smith's Alloy can be used in [Chime of Conflict](Chime_of_Conflict.md), and it'll save the data as it normally would.
@@ -52,3 +52,8 @@ When used on a compatible weapon, the Smith's Alloy can be used to destroy your 
 -   Using Smith's Alloy won't soulbound your weapon. This can be useful for trading or upgrading the weapons of friends.
 -   Smith's alloy can be obtained by using the [Hollow Forge](Hollow_Forge.md) to convert 3 [Pluripotent Alloys](Pluripotent_Alloy.md) into one Smith's Alloy, or 1 [Armorer's Needles](<Armorer's_Needle.md>) into 3 Smith's Alloys. This can only be done by people who are using the [Ignition Delver](Ignition_Delver.md) Origin.
 -   When you use the Smith's Alloy to create a Motif, it replaces your old weapon with [Formless Shard](Formless_Shard.md). Formless Shard retains your original weapon's enchant and quality stars. This weapon's sole purpose is for the player to still have an equipped weapon after destroying their previous one.
+-   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Blacksmith Alloy". The concept encompassed both the Sinner's Ash and the Forge Needle.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

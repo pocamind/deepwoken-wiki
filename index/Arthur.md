@@ -1,9 +1,9 @@
 ---
 title: Arthur
-revid: 187541
+revid: 189618
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Arthur
@@ -21,11 +21,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Arthur is an NPC who offers a Bravery quest to kill a [Megalodaunt](Megalodaunt.md), in order to avenge his fellow soldiers.
+Arthur is an [Etrean](Etrean.md) NPC who offers a Bravery quest to kill a [Megalodaunt](Megalodaunt.md), in order to avenge their fellow soldiers.
 
 ## Location
 
-Arthur is located at [Erisia](Erisia.md), he sits at the left of the entrance to [Burning Stone Gardens](Burning_Stone_Gardens.md).
+Arthur is located at [Erisia](Erisia.md), they sit at the left of the entrance to [Burning Stone Gardens](Burning_Stone_Gardens.md).
 
 ## Dialogue
 
@@ -70,7 +70,7 @@ Arthur is located at [Erisia](Erisia.md), he sits at the left of the entrance to
   <td>Thank you.. please, return to me with good news when you've finished her mission.</td>
 </tr>
 <tr>
-  <td>End, Quest Accepted</td>
+  <td>[End Dialogue], Quest Accepted</td>
 </tr>
 </tbody>
 </table>
@@ -93,15 +93,15 @@ Arthur is located at [Erisia](Erisia.md), he sits at the left of the entrance to
 <tr>
   <td colspan="3">Maria's been avenged.</td>
   <td colspan="3">I haven't been able to avenge her yet.</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">..From the bottom of my heart, thank you. You're just as brave as her, engaging head on in the most frightening odds. I.. I think I can start to move on. Thank you, I.. I won't forget you.</td>
   <td colspan="3">Ah.. I understand. When you've slain a Megalodaunt, just as she attempted that day.. please return to me.</td>
 </tr>
 <tr>
-  <td colspan="3">End, Quest completed</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue], Quest completed</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

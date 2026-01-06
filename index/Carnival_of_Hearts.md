@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 173202
+revid: 189568
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -63,3 +63,4 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   Players can use the [Dimensional Travel](Dimensional_Travel.md) resonance during the event to go on top of the tent and avoid all challenges.
 -   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.
 -   Aelita and Tillian will occasionally shoot an extra beam at the last person standing during the Beam Blitz game, so be careful.
+-   You have two chances to join the event: once at XX:00 and another at XX:05.

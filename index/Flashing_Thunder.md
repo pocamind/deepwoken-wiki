@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 189436
+revid: 189581
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

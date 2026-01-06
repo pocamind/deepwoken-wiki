@@ -1,6 +1,6 @@
 ---
 title: Nerin
-revid: 188449
+revid: 189682
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
@@ -64,7 +64,7 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
   <td colspan="8">Yeah?</td>
 </tr>
 <tr>
-  <td colspan="8">It just so happens I might be able to help you with your, hmm, predicament... A little donation can go a long way, you see.</td>
+  <td colspan="8">It just so happens I might be able to help you with your, hmm, <i>predicament</i>... A little donation can go a long way, you see.</td>
 </tr>
 <tr>
   <td colspan="4">Alright how much?</td>

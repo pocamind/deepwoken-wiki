@@ -1,29 +1,24 @@
 ---
 title: Dockson
-revid: 188816
+revid: 189635
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
+categories: [Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Dockson
-
-| Dockson | |
-|---|---|
-| name | Dockson |
-| aspect | Etrean |
-| location | Summer Isle |
-| affiliation | The Summer Company |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Dockson is a Gunsmith at [Summer Isle](Summer_Isle.md), he works inside the Castle near the Antiquarian. He sells three different guns on his table and can also initiate a fight in [The Furnace](The_Furnace.md) if spoken to by two (2) players.
+Dockson is an [Etrean](Etrean.md) NPC found on [Summer Isle](Summer_Isle.md). They work inside the Castle near the Antiquarian. They sell three different guns on their table and can also initiate a fight in [The Furnace](The_Furnace.md) if spoken to by two players.
 
-He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
+They wear the [Summer Company Uniform](Summer_Company_Uniform.md).
 
 ## Prices
 
@@ -55,7 +50,7 @@ He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
   <td colspan="2">I guess...</td>
   <td colspan="2">Player has at least (20) Charisma/Intelligence</td>
   <td colspan="2">Player does not have at least (20) Charisma/Intelligence</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">Yeah, go ahead and scram. You're scaring away the customers.</td>
@@ -63,14 +58,14 @@ He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
   <td colspan="2">Obviously I know, I'm testing you. [Charisma/Intelligence]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="2">Oh, alright. This is a firearm shop. And the building we're in is the headquarters for the Summer Company. We're the premier engineers for firearms in the East. There is a really powerful thermal vent just below our island that we use to run our forges and operations here. Oh.. We also run a bit of a fight club downstairs for the workers to blow off steam and any other interested individuals.</td>
   <td colspan="2">Yeah, go ahead and scram. You're scaring away the customers.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
   <td colspan="2">I want to take a crack at the fight club.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
@@ -103,4 +98,4 @@ He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
 
 ## Trivia
 
--   His dialogue changes depending on the aspect of the player, addressing them by it.
+-   Their dialogue changes depending on the aspect of the player, addressing them by it.

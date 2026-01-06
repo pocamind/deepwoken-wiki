@@ -1,9 +1,9 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 189285
+revid: 189609
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Gremor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
 ---
 
 # Flabbernaster Filingree, the First Mate
@@ -48,13 +48,13 @@ Flabbernaster Filingree, the First Mate is a [Gremor](Gremor.md) NPC who was par
 </tr>
 <tr>
   <td>Huh? I gotta go. Bye.</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>...Yeah. I bet you do. Go on, then.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

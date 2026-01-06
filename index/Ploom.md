@@ -1,6 +1,6 @@
 ---
 title: Ploom
-revid: 188166
+revid: 189683
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame, Individuals with unspecified pronouns]
@@ -67,7 +67,7 @@ They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
   <td colspan="2">Well... I guess I can show you a couple things.</td>
   <td colspan="2">Well.. No, I don't think so.</td>
   <td colspan="2">Oh thats so wonderful! It's so difficult finding others familiar with <a href="Glossary.md#amorus-pleeksty">Pleeksty</a> here in the East.</td>
-  <td colspan="2">No, no I don't think you are that familiar with <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>. It is highly unlikely an Easterner would be familiar with one of the greatest Western Flamecharmers of our time..</td>
+  <td colspan="2">No, no I don't think you are that familiar with <a href="Glossary.md#amorus-pleeksty">Pleeksty</a>. It is highly unlikely an Easterner would be familiar with one of the greatest Western <a href="Glossary.md#flamecharm">Flamecharmers</a> of our time..</td>
 </tr>
 <tr>
   <td colspan="4"></td>

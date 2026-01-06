@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189486
+revid: 189680
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -822,7 +822,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
         -   Shadowcast's Sightless Still duration
         -   Blood Poisoning
         -   Wither gain
-        -   Ring of Pestillence duration
+        -   Ring of Pestilence duration
         -   The potency of potions
         -   Time Unconscious (cut by 50% multiplicatively after other modifiers)
 
@@ -4869,6 +4869,23 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Prerequisite: [Rogue Assassin](Rogue_Assassin.md) Memento
 
+### Saint Jay
+
+-   Frostride \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your footsteps echo the legend of Saint Jay, freezing the sea beneath.
+    
+    -   You can now walk on water by creating ice below your feet. This has no cooldown and does not cost Ether.
+    -   Prerequisites: [Saint Jay](<Saint_Jay_(Memento).md>) Memento, Power 10 shop
+
+-   Jay's Judgement Gavel \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Breaking a frozen enemy free with your Critical saps their lifeforce.
+    
+    -   Landing your critical on a frozen or bottom frozen enemy will deal extra damage and heal you.
+    -   Prerequisite: [Saint Jay](<Saint_Jay_(Memento).md>) Memento
+
+-   Rebuke in Stasis \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Bottom freeze enemies nearby when countering with [Punishment](Attunement-less.md#punishment), freezes mobs affected when re-casted.
+    
+    -   Your Punishment will apply bottom freeze to mobs if you land the counter hit.
+    -   Prerequisites: [Saint Jay](<Saint_Jay_(Memento).md>) Memento, starting shop
+
 ### Sightless
 
 -   Focused Perception \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Massively increase the range of your [Rhythm](Murmur%253A_Rhythm.md) if you use it while [Tranquil Circle](Oath%253A_Blindseer.md#tranquil-circle) is active.
@@ -5046,7 +5063,9 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 ### Unique
 
--   Precision Hitter \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Basic Attack posture damage is increased by 15%.
+-   Precision Hitter \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Basic Attack posture damage is increased by 15%.
+    
+    -   Prerequisites: [Saint Jay](<Saint_Jay_(Memento).md>) Memento, Power 5 shop
 
 ### Void Glutton
 
@@ -5221,6 +5240,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     
     -   It is possible to reach full damage negation using this Talent.
     -   If an attack deals less than 3 damage to you, the damage will be reduced into the negatives, allowing you to heal instead.
+    -   Though not mentioned in the Talent description, this reduces outgoing damage by 3 as well. It is unclear if this is intended or not.
 
 -   Merc Blade: [Mercenary's Hood](<Mercenary's_Hood.md>) - For every 10% stealth you have, deal 1 extra damage on all sources of damage.
 
@@ -5347,7 +5367,7 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Grants a Talent tool that doubles the damage of your Mantras for 10 seconds.
     -   Set: [Caster Fur Pauldrons](Caster_Fur_Pauldrons.md), [Caster Fur Boots](Caster_Fur_Boots.md)
 
--   Rush: :Category:Equipment with Set Bonuses - Massively reduce your dodge cooldown.
+-   Rush: Trackstar Set - Massively reduce your dodge cooldown.
     
     -   Set: [Trackstar Pauldrons](Trackstar_Pauldrons.md), [Trackstar Boots](Trackstar_Boots.md)
 

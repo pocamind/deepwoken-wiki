@@ -1,9 +1,9 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 189366
+revid: 189622
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -16,6 +16,7 @@ notices:
 | drops | 2 Knowledge, 2,000 Notes, Vibrant Gem, Pluripotent Alloy, Ardour Manifestation, Memento Talents |
 | weapon | Odachi |
 | moves | High Cleave, Crush & Rend, Graceful Slicer, Severing Flourish, Low Cleave, Shogun's Brutality, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance |
+| pronouns | He/him[1] |
 | affiliation | Etrea |
 
 Variants: [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>)
@@ -23,6 +24,10 @@ Variants: [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>)
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ Evil assaults even the most sacred of places. I suppose we should have seen it coming. ”
+
+― High Monk Junsui
 
 ## Description
 
@@ -34,7 +39,7 @@ The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), form
 2.  Make your way to the [Deep Thresher Nest](Deep_Thresher_Nest.md), below the trenches close to where the [Deep Widow](Deep_Widow.md) is and instead of going towards the Widow, go the other direction and enter the [Boundary](Boundary.md).
 3.  Upon loading into the instanced area, walk up to the standing Shogun and they will start fighting you.
 
-Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>), an [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) combined with an [Iron Cestus](Iron_Cestus.md), and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
+His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>), an [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) combined with an [Iron Cestus](Iron_Cestus.md), and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
 
 ## Moveset
 
@@ -151,3 +156,7 @@ If you attempt to parry Low Cleave, you can still crouch under it despite being 
 ## Trivia
 
 -   The variant encountered in the Temple of Mur was originally named "Shogun Captain", a nonsensical, contradictory title. A _shogun_, short for _sei-i taishogun_ meaning "Commander-in-Chief of the Expeditionary Force Against the Barbarians", was the chief military ruler of Japan for a portion of its history. There are no other ranks within the position of _shogun_, and as such, a "Shogun Captain" is akin to a "Secretary of Defense Captain", "General Captain" or "President Captain". This is likely why it was renamed to match the other [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>), following complaints of racism, as those enemies represent a more accurate use of the title.
+
+## References
+
+1.  [↑](#cite-ref-1) [Mofisu Clan Informant](Mofisu_Clan_Informant.md)

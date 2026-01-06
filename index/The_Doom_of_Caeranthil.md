@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 179615
+revid: 189533
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -10,7 +10,7 @@ categories: [World Event, Monsters, Bosses]
 
 “ In many respects, knowledge of Caeranthil only persists within the lens of nightmares that consumed it. The culture, the food, the laughter, the in-jokes, the petty disputes, the fashions they styled themselves after… How can we experience these things if there’s no one left to remember them? ”
 
-― Eye of Malice Description
+― Eye of Malice description
 
 Template:Creature Infobox V3
 

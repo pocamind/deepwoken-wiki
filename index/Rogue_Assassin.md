@@ -1,6 +1,6 @@
 ---
 title: Rogue Assassin
-revid: 187892
+revid: 189576
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

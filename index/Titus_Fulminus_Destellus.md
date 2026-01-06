@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 189255
+revid: 189595
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -149,6 +149,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 -   This move can be easily avoided by jumping.
 -   Titus is most likely to follow up with Warp Kick if this move is used.
+-   Titus only uses this move in his 2nd phase.
 
  | 
 

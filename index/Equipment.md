@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 186397
+revid: 189645
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -1309,7 +1309,7 @@ _+1 Posture_
 
 +3 Legendary Pips  
 _+Talent: Diver's Resilience_  
-**Requires Power 13**
+**Requires Power 13, Fortitude 5**
 
  | Set: Grand Fisher  
 Head: [Grand Fisher Helm](Grand_Fisher_Helm.md)  

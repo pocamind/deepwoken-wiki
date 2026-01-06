@@ -1,9 +1,9 @@
 ---
 title: "Mr. Quarters, Halfmaster"
-revid: 189283
+revid: 189611
 source: https://deepwoken.fandom.com/wiki/Mr._Quarters%2C_Halfmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty"]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
 ---
 
 # Mr. Quarters, Halfmaster
@@ -54,7 +54,7 @@ Mr. Quarters, Halfmaster is an [Adret](Adret.md) NPC who was part of [Captain Or
   <td colspan="6">And what's that?</td>
   <td colspan="6">Really? What do the rest of your folks do for a living?</td>
   <td colspan="6">Can't exactly say I recall... Nunya who?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6" rowspan="3"><i>*Mr. Quarters smiles through his bushy beard.*</i> T'be blown intae eight pieces. That'd make me Mr. Thirty-Secondses. Not fond a' that.</td>

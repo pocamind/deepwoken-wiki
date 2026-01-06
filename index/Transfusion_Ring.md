@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 189442
+revid: 189674
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -34,3 +34,4 @@ This content is not accessible outside of this gamemode.
 ## Trivia
 
 -   Ring location on the map
+-   This ring intermittently emits gold colored particles

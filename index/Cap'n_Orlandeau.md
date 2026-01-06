@@ -1,9 +1,9 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 189286
+revid: 189612
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty"]
+categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
 ---
 
 # Cap'n Orlandeau
@@ -56,7 +56,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="2">Yet I persist. Some part of ye remembers, clearly. Want me to jog yer memory?</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td>Please do.</td>
   <td>I don't want to remember.</td>
 </tr>
@@ -67,8 +67,8 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>End, your next character will spawn in the <a href="Tutorial.md">Tutorial</a></td>
-  <td>End</td>
+  <td>[End Dialogue], your next character will spawn in the <a href="Tutorial.md">Tutorial</a></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +98,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="2">Yet I persist. Some part of ye remembers, clearly. Want me to jog yer memory?</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td>Please do.</td>
   <td>I don't want to remember.</td>
 </tr>
@@ -109,8 +109,8 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>End, your next character will spawn in the <a href="Tutorial.md">Tutorial</a></td>
-  <td>End</td>
+  <td>[End Dialogue], your next character will spawn in the <a href="Tutorial.md">Tutorial</a></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -126,7 +126,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td>...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -199,7 +199,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -234,7 +234,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="3">Insane acts are my specialty, despite my sanity being intact.</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
   <td colspan="6">Plunder? Are there riches to be found here?</td>
 </tr>
 <tr>
@@ -256,7 +256,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="2">My name is [First Name]. I'm sent by Klaris.</td>
   <td>My name is [First Name]. I'm here for power.</td>
   <td colspan="4"></td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">[First Name], huh... I see. And Klaris, you say? Bah! Funny that, she sends a sorry soul down here to do her dirty work for her. <i>*He sneers, looking off to the cityscape around him.*</i> Sorry to say, [First Name], but you're just a pawn. Live for yourself, not some <i>higher-up</i>. Indeed... the <i>powers that be</i> see us as nothin' but worms in a festering sea of corpses. Disposable, so fragile. Do you think she truly cares about you? She cares about <i>HERSELF</i>, pawn. Herself and her ideals only; you are a worm, just like me! Baha!</td>
@@ -274,7 +274,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -302,7 +302,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="4">Dreamin', aye? A foretellin' of the future, perhaps? Ye won't make it there if ye dont train, mate! No more stallin'. We don't got all mornin!</td>
 </tr>
 <tr>
-  <td colspan="4">End, move on to Lesson 2</td>
+  <td colspan="4">[End Dialogue], move on to Lesson 2</td>
   <td colspan="8">Apologies, Cap'n.</td>
 </tr>
 <tr>
@@ -341,7 +341,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="3">Let me do another try.</td>
 </tr>
 <tr>
-  <td colspan="3">End, move on to Lesson 3</td>
+  <td colspan="3">[End Dialogue], move on to Lesson 3</td>
   <td colspan="3">Player has parried Cap'n Orlandeau</td>
 </tr>
 <tr>
@@ -371,10 +371,10 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="6">..Sure?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">End, move on to Lesson 4</td>
+  <td colspan="6">[End Dialogue], move on to Lesson 4</td>
 </tr>
 </tbody>
 </table>
@@ -399,7 +399,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 </tr>
 <tr>
   <td colspan="6">Aye.</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">Now, if ye want to get by, ye'll need to do a bit of buyin' and sellin', y'hear? Ye'll be needin' to buy food, equipment, and trainin' gear. In these parts, we use <b>Notes</b>.</td>
@@ -428,7 +428,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="3">Player has bought and used Dumbbell</td>
 </tr>
 <tr>
-  <td colspan="3">End, move on to Lesson 5</td>
+  <td colspan="3">[End Dialogue], move on to Lesson 5</td>
 </tr>
 </tbody>
 </table>
@@ -488,7 +488,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td colspan="2">[Player uses their chosen Mantra]</td>
 </tr>
 <tr>
-  <td colspan="2">End, move on to Lesson 6</td>
+  <td colspan="2">[End Dialogue], move on to Lesson 6</td>
 </tr>
 </tbody>
 </table>
