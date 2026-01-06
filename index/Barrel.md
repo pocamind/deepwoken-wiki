@@ -1,6 +1,6 @@
 ---
 title: Barrel
-revid: 189687
+revid: 189713
 source: https://deepwoken.fandom.com/wiki/Barrel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects]
@@ -24,7 +24,7 @@ Barrels can be stacked on top of each other to create ladders for areas that wou
 
 ### Barrel Constructions
 
-Barrels can be stacked in many creative ways beyond simple towers. Players have constructed Barrel tanks, Barrel helicopters, and even by exploiting the game’s physics, **Barrel launchpads**. These constructions are typically made by building a three-Barrel tower, removing the lowest Barrel, and building outward from there. Caution is advised though, being launched too fast, too far, or too high can result in death or, in rare cases, a false ban by anti-cheat. Aside from these risks, Barrel constructions are generally safe and serve as a fun activity for amazing guilds.
+Barrels can be stacked in many creative ways beyond simple towers. Players have constructed Barrel tanks, Barrel helicopters, and even by exploiting the game’s physics, **Barrel launchpads**. These constructions are typically made by building a three-Barrel tower, removing the lowest Barrel, and building outward from there. Caution is advised though, being launched too fast, too far, or too high can result in death or, in rare cases, a false ban by anti-cheat. Aside from these risks, Barrel constructions are generally safe and serve as a fun activity for bored guilds.
 
 ## Trivia
 

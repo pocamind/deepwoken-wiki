@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 189456
+revid: 189718
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -34,7 +34,7 @@ The Arc Suit is a defence orientated piece of semi-sentient armour that [the Uni
     2.  Talk to [Alpha](Alpha.md).
     3.  Retrieve injured [Epsi](Epsi.md).
         -   Choose option 2 when you talk to Epsi.
-            -   Option 1 causes [Epsi](Epsi.md) to perish due to the parasites. Epsi will always be outside of [Firfire Caverns](Firfire_Caverns.md) when you repeat [Floor 1](Second_Layer.md), so you may go back and choose the right option if you messed up the first time.
+            -   Option 1 causes [Epsi](Epsi.md) to perish due to the parasites. Epsi will always be outside of [Firfire Caverns](Firfire_Caverns.md) when you repeat [Floor 1](Second_Layer.md), so you may go back and choose the right option if you messed up the first time. (IF YOU TALK TO ALPHA AFTER CHOOSING OPTION 1 YOU WILL BE SOFTLOCKED)
 2.  Talk to Alpha again.
 3.  Have at least 20 Fortitude, 20 [Flamecharm](Flamecharm.md) and 20 [Thundercall](Thundercall.md).
 4.  Return to surface and talk to [Delta](Delta.md) at [Miner's Landing](<Miner's_Landing.md>) inside the lower-mountain part of the town, specifically behind the water mill located right where the waterfall is. In order to progress the Oath, you must kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md)

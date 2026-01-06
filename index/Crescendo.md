@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 189704
+revid: 189719
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -50,4 +50,4 @@ The critical has a cooldown of **5.5 seconds.**
 -   Its hyperarmor was removed in exchange for a faster windup on the second part of the attack.
 -   Due to its horrendous stats of 0.92x swing speed with 7.5 range combined with twinblades having endlag at the end of their running attacks it is considered as the **worst** end game weapon in game.
 -   Its critical sound was changed on November 8th 2025 (Hallowtide Week 2), giving it a higher pitch on both swings.
--   The Crescendo is presumed to be created by a [Krulian](Krulian.md) due to how it emits the song through it's critical attack along with how it drops from The Ferryman who is a Krulian as well in the Crypt of the Unbroken because of The Ministry's worship of Krulians.
+-   The Crescendo may have been used or created by a [Krulian](Krulian.md). It emits the song through it's critical attack, it drops from The Ferryman who is a Krulian and its ends resemble [Krulian Knives](Krulian_Knife.md).

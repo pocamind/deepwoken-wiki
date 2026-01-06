@@ -1,6 +1,6 @@
 ---
 title: Nest Corridor
-revid: 188760
+revid: 189706
 source: https://deepwoken.fandom.com/wiki/Nest_Corridor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer]
@@ -31,5 +31,5 @@ Keep in mind that leaving Layer 2 through the Deepdrill will _not_ let you keep 
 
 ## Trivia
 
--   There is a small space outside of the corridor itself where you can climb up from a ledge and spawn the Bounders without risking your life.
-    -   This is typically used for speedrunning.
+-   There is a small space outside of the corridor itself where you can climb up from a ledge and spawn the [Bounders](Bounder.md) without risking your life.
+    -   This is typically used for speedrunning or just playing safer

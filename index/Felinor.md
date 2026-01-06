@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 188685
+revid: 189714
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -113,11 +113,12 @@ Felinor are known to seek a life of freedom, but are perceived as thieves/outlaw
 
 ### Ears
 
-Felinors have cat ears with optional ear fluff. The color of the fluff, as well as the color of your ears is based on the color of Hair slot 1, though they can both be [dyed](Dye_Packet.md) individually.
+Felinors have cat ears with optional ear fluff. The color of the fluff, as well as the color of your ears is based on the color of Hair slot 1, though they can both be [dyed](Dye_Packet.md) individually. If the player is bald, then their ears will be hairless as well.
 
 ## Trivia
 
 -   When wearing earrings, they appear on the cat ears.
+-   The color of a sphynx Felinor's ears is based on their skin color instead of their hair color. This is a reference to to real-life sphynx cats being bald.
 -   When wearing a helmet or hat, it will not hide the cat ears, instead they will go through the headwear.
 -   For April Fools 2022 ([Mudwoken](Mudwoken.md)), Felinors had their aspect name changed to "Abomination", which is unique compared to the other aspect names that were changed.
     -   This _may_ be because of the disdain the community shows towards them.

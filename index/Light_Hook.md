@@ -1,6 +1,6 @@
 ---
 title: Light Hook
-revid: 153292
+revid: 189710
 source: https://deepwoken.fandom.com/wiki/Light_Hook
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Tools, The Divers]
@@ -24,7 +24,7 @@ The Light Hook lasts for a finite amount of time, and will disappear once that t
 -   You can see how much time you have left by hovering over the item in your inventory.
 -   The Light Hook does not need to be fully charged to enter the second layer through Castle Light again.
 
-**Using the Light Hook will remove any items you have collected in the second layer**; the only way to keep them is to complete the floor.
+**Using the Light Hook will remove any items you have collected from chests in the second layer**; the only way to keep them is to complete the floor. Loot directly dropped from enemies are an exception to this rule, such as [Bounder Claws](Bounder_Claw.md) or [Kyrsan Schematics](Kyrsan_Schematic.md).
 
 File:Light Hook.png
 

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 189692
+revid: 189709
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -487,7 +487,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>PVE: Parrying an attack deals damage to the attacker after a delay. This deals 35% of the attack's damage you parried * your Power level, capping at 500 damage per proc.<br>
-  PVP: Parrying 3 attacks within 7 seconds deals damage to the attacker after a delay. This deals 4% of their maximum hp as damage.</p>
+  PVP: Parrying 2 attacks within 7 seconds deals damage to the attacker after a delay. This deals 2% of their maximum hp as damage.</p>
   <p>Providence's Thorns is parryable, but it does not grant autoparry frames.</p>Certain bosses are <b>entirely immune</b> to Providence Thorns. These are: <a href="Maestro_Evengarde_Rest.md">Maestro Evangarde Rest</a> and <a href="Titus_Fulminus_Destellus.md">Titus Fulminus Destellus</a>.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>Parrying attacks damages your foes.</i></p>

@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 167593
+revid: 189707
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -20,7 +20,7 @@ Lone Warrior is obtained by [wiping](Death.md) for the first time or by defeatin
 
 ## Spawn
 
-Lone Warriors spawn in the [Trial of One](Trial_of_One.md) with the [Stranded](Stranded.md) Outfit equipped. Your spawn will be set to the [Minityrsan](Minityrsa.md) shore.
+Lone Warriors spawn in the [Trial of One](Trial_of_One.md) with the [Stranded](Stranded.md) Outfit equipped. Your spawn will be set to the shore of [Minityrsa](Minityrsa.md) should you die or leave the server during the trial.
 
 ## Effects
 

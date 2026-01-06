@@ -1,9 +1,9 @@
 ---
 title: Wyrmtooth
-revid: 189171
+revid: 189716
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals]
+categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals]
 ---
 
 # Wyrmtooth
@@ -41,6 +41,8 @@ While its damage is arguably mediocre (considering its requirements), the Wyrmto
 
 Do not be fooled by its visually massive appearance, since it boasts the same range as the visually much smaller [Crescent Cleaver](Crescent_Cleaver.md). This is because despite the nerfs to its range, the model wasn't shortened accordingly.
 
+Whilst wielding this weapon, all [Silentheart](Oath%253A_Silentheart.md) abilities receive a **50% damage debuff**.[\[1\]](#cite-note-1)
+
 ## Critical
 
   
@@ -62,3 +64,7 @@ The cooldown for either critical is **10 seconds**.
 -   Both its criticals formerly lacked the universal windup VFX. Its sliding critical also lacked a sound cue.
 -   It once had 10 range and 6 weight, with a 6s cooldown for its critical attacks.
     -   This amount of range meant the Wyrmtooth was once rivalled only by the [Hivelord's Hubris](<Hivelord's_Hubris.md>) and the [Pale Briar](Pale_Briar.md). It even matched the ranges of some pistols, but was otherwise eclipsed by them.
+
+## References
+
+1.  [↑](#cite-ref-1) Update log on 1/2/2026 applying the damage debuff change File:Wyrmtooth dmg debuff.png
