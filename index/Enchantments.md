@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 189550
+revid: 189692
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -441,7 +441,9 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><figure><figcaption></figcaption></figure><center><br>
   <a href="Obfuscation.md"><font>Obfuscation</font></a><div><font></font></div></center></td>
   <td><div><p><strong>Effect:</strong></p>
-  <p>Gain weapon chip damage.</p>
+  <p></p>
+  <p>Gain (LHT: 15%, MED: 20%, HVY: 25%) chip damage.</p>
+  <p>Obfuscation's chip damage is additive to the innate chip damage your weapon has.</p><a href="Wyrmtooth.md">Wyrmtooth</a> counts as a heavy weapon.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>You gain some chip damage on m1 and crit.</i></p>
   <p><strong>Obtainment:</strong></p>

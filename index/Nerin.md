@@ -1,20 +1,12 @@
 ---
 title: Nerin
-revid: 189682
+revid: 189685
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
 ---
 
 # Nerin
-
-| Nerin | |
-|---|---|
-| name | Nerin |
-| aspect | Etrean |
-| pronouns | He/him |
-| location | Etris |
-| affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer? ”
 
 ― Nerin
+
+Template:NpcInfobox
 
 ## Description
 

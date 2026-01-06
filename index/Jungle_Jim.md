@@ -1,6 +1,6 @@
 ---
 title: Jungle Jim
-revid: 189506
+revid: 189696
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages]

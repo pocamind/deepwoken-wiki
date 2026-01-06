@@ -1,6 +1,6 @@
 ---
 title: The Covenant of Flame
-revid: 185608
+revid: 189695
 source: https://deepwoken.fandom.com/wiki/The_Covenant_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Factions, The Covenant of Flame]
@@ -12,13 +12,15 @@ notices:
 
 | The Covenant of Flame | |
 |---|---|
+| leader | Amorus Pleeksty |
+| territory | The Vents |
 | goals | Worshipping Amorus Pleeksty, Learning the ways of Flamecharm, Fighting the Deep |
 
 ## Description
 
 The Covenant of Flame are a group of Flamecharmers and scholars who worship [Amorus Pleeksty](Amorus_Pleeksty.md) and study his way of using [Flamecharm](Flamecharm.md).
 
-They are primarily made up of Pleeksty's disciples, also known as a Flamepriest[\[1\]](#cite-note-1) or a Flamekeeper[\[2\]](#cite-note-2), who specialize in the teaching and research of Flamecharm, as well as Pleeksty's understanding of it. This leads to their members holding high-reverence for Pleeksty and his philosophy, with some desiring that Pleeksty grant them a final-death himself as a sign of faith[\[3\]](#cite-note-0-3)
+They are primarily made up of Pleeksty's disciples, also known as Flamepriests[\[1\]](#cite-note-1) or Flamekeepers[\[2\]](#cite-note-2), who specialize in the teaching and research of Flamecharm and Pleeksty's understanding of it. This leads to their members holding high-reverence for Pleeksty and his philosophy, with some desiring that Pleeksty grant them a final-death himself as a sign of faith[\[3\]](#cite-note-0-3)
 
 Their leader, Amorus Pleeksty, is the [Deepwoken](Lore.md#deepwoken) of [Korilfiend, the Inferno's Provenance](<Korilfiend,_the_Inferno's_Provenance.md>), and the pioneer of Flamecharm. He would travel to the 3rd Layer of the Depths, and come across [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>)'s garden, where he consumed a flower imbued with a fragment of the Drowned God. This granted him the ability to "charm" fires, allowing him to use the Flamecharm [attunement](Attunements.md) more efficiently and safely. He would use this knowledge to teach proper Flamecharm usage to the rest of the world, founding the main philosophies of the Covenant and their followers.
 

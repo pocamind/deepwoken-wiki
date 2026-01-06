@@ -1,6 +1,6 @@
 ---
 title: District of Commerce
-revid: 178962
+revid: 189697
 source: https://deepwoken.fandom.com/wiki/District_of_Commerce
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -20,7 +20,10 @@ Section of [The City of the Drowned](The_City_of_the_Drowned.md) that has a gate
 
 ## Points of Interest
 
-### City Bells
+### Celtor Bells
 
--   Players can ring the 2 [city bells](The_City_of_the_Drowned.md#city-bells) in the District of Commerce to open the gates to the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md).
-    -   (NOT to be confused with [Resonances](Resonance.md), however.)
+-   Two [City Bells](The_City_of_the_Drowned.md#city-bells) can be rung within this district to open the gate to the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md).
+
+## Trivia
+
+-   The description of this area was previously "The corridors of trade have been hulled out and replaced with the endless procession of the lost."

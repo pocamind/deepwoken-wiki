@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 185030
+revid: 189703
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church]
@@ -79,6 +79,12 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 -   **KIN... PLEASE... GRANT ME RELEASE FROM THIS STATE...**
 -   **LET THIS DEATH PROVE ME WORTHY ONCEMORE...**
 -   **YOURS SHALL SURELY BE THE DEATH TO MAKE ME WHOLE ONCE MORE...**
+
+### Spawn Dialogue (Starkindred)
+
+-   **YOU ARE SO FORTUNATE...**
+
+-   TBA
 
 ### Gripping Dialogue
 
