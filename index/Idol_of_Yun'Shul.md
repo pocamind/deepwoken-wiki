@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 176754
+revid: 189512
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -24,7 +24,7 @@ categories: [Relics, Items]
 
 The **Idol of Yun'shul** is a ritual idol and [Relic](Relics.md) connected to the Drowned God [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), that allows its user to redeem one [wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) from anywhere and without the need of a [Resonance](Resonance.md). _(one-time use, re-obtainable)_
 
-Note: Using the Idol of Yun'Shul to escape [The Depths](The_Depths.md) can only be done **once** per character.
+Using the Idol of Yun'Shul to escape [The Depths](The_Depths.md) can only be done once per character.
 
 ## Trivia
 
@@ -37,3 +37,8 @@ Note: Using the Idol of Yun'Shul to escape [The Depths](The_Depths.md) can only 
 -   It functions without the need of a Resonance, but will not provide you one.
 -   Cannot be used to escape the depths in [Layer 2](Second_Layer.md) or in [Fragments of Self](Fragments_of_Self.md).
 -   This item has an interesting history with [The Ferryman](The_Ferryman.md), being removed and then readded to his loot pool multiple times.
+-   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Yun'Shul's number".[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

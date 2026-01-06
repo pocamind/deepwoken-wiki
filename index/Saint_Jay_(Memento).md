@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 189145
+revid: 189492
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mementos]
@@ -300,7 +300,3 @@ Ice + Slash
 -   Frostbite \[Common Talent\] **100** \- Enemies can no longer heal when under the effect of your chill
 
 -   Frozen Anchor \[Common Talent\] **100** \- Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
-
-### Power 15
-
-Fragmented Jay \[Advanced Talent\] - Imbue all your mantras with empowered frost. Deal 180% more damage in PvE. This talent is only obtainable after beating Shogun of the Prophet’s Guard, Dravik, The Rat King, and True Heart of Enmity without going below 80% Health.

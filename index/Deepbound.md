@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 184028
+revid: 189487
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -55,6 +55,7 @@ When used in the overworld, the player will delve into the [First Layer](First_L
 ### Pros
 
 -   Increased experience gain in the Depths and an additional EXP multiplier while below Power 15, allowing for a very swift progression.
+-   You gain bonus bell progress from killing monsters in The Depths, depending on their health and whether or not they're corrupted.
 -   You start with the [Diver Apprentice Robes](Diver_Apprentice_Robes.md), an Adept Outfit, and 25.
 -   Call of the Deep is incredibly useful as a potential time saver.
 -   Sanity maintenance is incredibly easy, allowing you to stay in the Depths for extended periods of time.

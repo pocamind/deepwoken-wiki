@@ -1,6 +1,6 @@
 ---
 title: Sightless
-revid: 189154
+revid: 189491
 source: https://deepwoken.fandom.com/wiki/Sightless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -459,7 +459,7 @@ Oath
 
 **Effect:** _User fires a high pressure beam from their eyes at the cost of their Sanity._
 
--   The entire beam deals around 235 damage as basic dmg (0 songchant). With extra damage and posture dealt at the start of the beam.
+-   The entire beam deals around 150 damage as basic dmg (0 songchant). With extra damage and posture dealt at the start of the beam.
 -   This mantra can make you go insane if you use it too much.
 -   Sightless Beam can be canceled midway by pressing F.
 -   Steals eyesight proccing the blind effect if enough hits land.
@@ -585,4 +585,3 @@ Enemy's Attack
 ### True Heart of Enmity
 
 -   Scornful Scowl \[Memento Talent\] - Your [Glare](Attunement-less.md#glare) stuns enemies for much longer.
--   Foreseen Vision \[Advanced Talent\] - Predicting an attack and using Sightless Beam right after empowers your Sightless Beam by 120%. This talent is only obtainable after killing 4 players in [The Depths](<The_Depths_(Vow_of_Iron).md>) and eliminating the True Heart of Enmity without going below 70% HP. You must do True Heart of Enmity after killing 4 players.

@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 176755
+revid: 189515
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -39,4 +39,8 @@ The known downsides of a Corrupted [Resonance](Resonance.md) are as followed:
 ## Trivia
 
 -   The message that appears when using the Sinner's Ash without a Resonance used to also appear when using it with a corrupted [Resonance](Resonance.md).
--   Attempting to use a Sinner's Ash without a Resonance will prompt the message "The ashes don't seem to have any effect."
+-   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Corrupted Bell Relic".[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

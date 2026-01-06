@@ -1,6 +1,6 @@
 ---
 title: Jungle Jim
-revid: 188376
+revid: 189506
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages]
@@ -24,11 +24,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Jungle Jim is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). Appears when using a [Sanguine Candle](Sanguine_Candle.md) on a Strange Sigil in the Summer Isle ruined castles basement.
+Jungle Jim is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md)
 
 ## Moveset
 
-Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, he visibly possesses a [Bell](Resonance.md), however, he doesn't seem to use it.
+Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess a [Bell](Resonance.md). However, they don't seem to use it.
 
 | Name/Danger | Description |
 | --- | --- |

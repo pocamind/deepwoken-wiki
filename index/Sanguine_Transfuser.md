@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 189482
+revid: 189508
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Relics, Relic Weapon]

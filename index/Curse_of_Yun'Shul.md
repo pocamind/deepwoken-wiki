@@ -1,6 +1,6 @@
 ---
 title: "Curse of Yun'Shul"
-revid: 179248
+revid: 189489
 source: https://deepwoken.fandom.com/wiki/Curse_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -27,7 +27,7 @@ This enchantment changes your weapon's color to black and makes it slightly tran
 
 Curse of Yun'Shul has a chance to add a percentage of your maximum health to your weapon's scaled damage on hit. If this procs, the enchantment goes on a 12 second cooldown.
 
-The amount of your maximum health applied to your weapon's scaled damage varies based on your weapon type, being 3% of your maximum health on Light Weapons, 4.5% of your maximum health on Medium Weapons, and 6% of your maximum health on Heavy Weapons.
+The amount of your maximum health applied to your weapon's scaled damage varies based on your weapon type, being 8% of your maximum health on Light Weapons, 6% of your maximum health on Medium Weapons, and 10% of your maximum health on Heavy Weapons.
 
 ### Curse
 

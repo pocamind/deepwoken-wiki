@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 189445
+revid: 189511
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -83,8 +83,16 @@ Using the Tome at max Knowledge (999) displays this message.
 -   The [Simple](Boons_and_Flaws.md#simple) Flaw will cause you to gain 25% less Knowledge from all sources, this of course includes the Moonseye Tome.
     -   First use: 100 --> 75 knowledge
     -   Subsequent uses: 50 --> 38 knowledge
+-   If you read the tome as a voidwalker, it mentions that its disappointed in your character
+-   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Book of smart ass n\*\*\*a".[\[1\]](#cite-note-1)
+    -   Agamatsu posits that the Tome is a reference to his mad, often nonsensical, rambles and suggestions, and the journey the Cult went on may be a reference to his attempts to find an entrance to [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) in the [Voidsea](Voidsea.md).
 -   The secret "Mural" when using the item seems to represent people or their souls reaching out towards and traveling to the Moonseye which is fitting considering that Pariah was a prophet of the Moonlit Faith.
 -   The only other mention of Pariah is the item [Pariah's Keepsake](<Pariah's_Keepsake.md>)
 -   Using the tome while inside of the Voidsea will make the "Mural" much clearer.
+-   This relic can be stored within the [Item Bank](Item_Bank.md).
 -   Prior to September 20th, 2024, the Tome would grant 20 Knowledge on subsequent uses. It currently grants 50.
 -   Using the Moonseye Tome will change the currently playing music to **To Sleep, Dreaming**. After changing your location though, the music goes back to normal.
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=aYmOWi8fUZY](https://www.youtube.com/watch?v=aYmOWi8fUZY)

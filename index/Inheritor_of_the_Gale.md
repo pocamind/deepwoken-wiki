@@ -1,6 +1,6 @@
 ---
 title: Inheritor of the Gale
-revid: 189307
+revid: 189502
 source: https://deepwoken.fandom.com/wiki/Inheritor_of_the_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -542,7 +542,6 @@ Defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
 **Effect:** _Shoot out a vortex of wind in front of you._
 
--   Inflicts burn
 -   Memento exclusive
 
  |
