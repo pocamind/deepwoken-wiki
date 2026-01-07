@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 184733
+revid: 190041
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Knights]
@@ -42,6 +42,12 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 -   Deals extra damage and dazes if the player is slammed against a wall.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
 | 
 
@@ -59,6 +65,12 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
  | Punches the ground, causing a pillar to erupt below the player.
 
 -   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |  |
 | 
@@ -100,6 +112,6 @@ A Stone Knight executes the player:
 -   Star Knights talk when they commence combat with a player. It will say "OUTSIDE INTERFERENCE PROBABLE." followed by "DIRECTIVE: ELIMINATE THREAT, RETURN ARTIFACT TO CONTAINMENT.", in a similar matter as a [Hive Construct](Hive_Construct.md) would.[\[1\]](#cite-note-1)
 -   The [Moon Knight](Moon_Knight.md) appears to be a mirrored counterpart of the Star Knight.
 
-## Navigation
+## References
 
 1.  [↑](#cite-ref-1)

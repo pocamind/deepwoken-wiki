@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 189508
+revid: 190030
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Relics, Relic Weapon]
@@ -37,7 +37,7 @@ _This might have not been the page you were looking for, if you were looking for
 
 ## Description
 
-The Sanguine Transfuser is a support-based Relic Dagger weapon, fused with the [Dormant Splinter](Dormant_Splinter.md). The dagger has a build consisting of spiraling helix of crystallized blood with a pointy edge on the top, constantly emitting mist-like particles of blood. The guard is circular and flares outward with jagged, petal-like projections, resembling a flower. The handle is wrapped in a red leather-like material, and the pommel resembles a crystal.
+The Sanguine Transfuser is a support-based [Relic](Relics.md) weapon, fused with the [Dormant Splinter](Dormant_Splinter.md). The dagger has a build consisting of spiraling helix of crystallized blood with a pointy edge on the top, constantly emitting mist-like particles of blood. The guard is circular and flares outward with jagged, petal-like projections, resembling a flower. The handle is wrapped in a red leather-like material, and the pommel resembles a crystal.
 
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 

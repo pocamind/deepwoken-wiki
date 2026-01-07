@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 167528
+revid: 190051
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Guilds, Items, Tools]
@@ -36,21 +36,21 @@ The Chime of DweIIing does not work in or under the following:
 
 The Guild Base Layout
 
-## Notes & Trivia
+## Trivia
 
 Chime of Dwelling Item.
 
--   While someone is inside of the [guild base](Guild_Bases.md), you are not able to use the chime to spawn another
--   Anybody can enter the base through the door, but only guild members can use appliances
--   If your guild base is present on the map you are able to respawn to it if you die or reset
--   Players cannot go into or out of guild halls while holding a body
--   Guild Bases only despawn if every guild member has left the server
--   If a base is present and the Chime is used again somewhere else, the current base will be moved to the new location, given that no one is present inside of the base
--   Similar to the [Chime of Conflict](Chime_of_Conflict.md), this item is undroppable, and resides in your inventory at all times
--   If you are looking for a detailed page about the guilds inside, read [Guild Base](Guild_Bases.md) or [Guilds](Guilds.md)
+-   While someone is inside of the [guild base](Guild_Bases.md), you are not able to use the Chime to spawn another.
+-   Anybody can enter the base through the door, but only guild members can use appliances.
+-   If your guild base is present on the map you are able to respawn to it if you die or reset if you have the Quarters room.
+-   Players cannot go into or out of guild halls while carrying a body.
+-   Guild Bases only despawn if every guild member has left the server.
+-   If a base is present and the Chime is used again somewhere else, the current base will be moved to the new location, given that no one is present inside of the base.
+-   Similar to the [Chime of Conflict](Chime_of_Conflict.md), this item is undroppable, and resides in your inventory at all times.
+-   If you are looking for a detailed page about the guilds inside, read [Guild Base](Guild_Bases.md) or [Guilds](Guilds.md).
 
 ## Updates
 
-In the **13th February 2023 update**, a new mechanic was added for **leaders only.** Whilst inside of the base, upon using the Chime of Dwelling again, the leader of a guild may freely move any existing room around. Doing so will move the room and all its contents, so Libraries for example, won't lose their books.
+In the **13th February 2023 update**, a new mechanic was added for **leaders only**. Whilst inside of the base, upon using the Chime of Dwelling again, the leader of a guild may freely move any existing room around. Doing so will move the room and all its contents, so Libraries for example, won't lose their books.
 
-In the **August 7th 2023 update**, another new mechanic was added for **leaders only.** Using the chime once again inside of the base will allow you to remotely exile anyone in your guild (Assuming you have their Roblox Username NOT Player Name) - Regardless of server, time etc. Officers cannot remotely exile however, and still need to find players to exile them.
+In the **August 7th 2023 update**, another new mechanic was added for **leaders only**. Using the chime once again inside of the base will allow you to remotely exile anyone in your guild (Assuming you have their Roblox Username NOT Player Name) - Regardless of server, time etc. Officers cannot remotely exile however, and still need to find players to exile them.

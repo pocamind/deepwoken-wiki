@@ -1,6 +1,6 @@
 ---
 title: Mounts
-revid: 160259
+revid: 190052
 source: https://deepwoken.fandom.com/wiki/Mounts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -10,7 +10,7 @@ categories: [Pages with broken file links, Mechanics]
 
 File:A Mudskipper riding a Thresher.png
 
-A wild mudskipper riding a Thresher
+A Player riding a Thresher
 
 ## Description
 

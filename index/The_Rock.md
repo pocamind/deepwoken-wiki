@@ -1,6 +1,6 @@
 ---
 title: The Rock
-revid: 189034
+revid: 190065
 source: https://deepwoken.fandom.com/wiki/The_Rock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greathammers, Weapons with Unique Criticals, Developer Spec]
@@ -43,6 +43,7 @@ Upon using the critical, the user will do a long wind-up with full hyperarmor be
 -   One of the three weapons exclusive to the concept artist and developer Nuttoons.
     -   Also owned by MikePike.
 -   MikePike says that the stats listed on this wiki are wrong, and yet refuses to provide the correct stats.[\[1\]](#cite-note-1)
+    -   MikePike owns a nerfed version of the weapon that doesn't one shot players. The stats shown are Nuttoons' version.
 
 ## Navigation
 

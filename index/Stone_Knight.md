@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 186261
+revid: 190039
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -47,6 +47,12 @@ Moss Knights are similar to Desert Knights, spawning in singles in [Bluster Rift
 
 -   Deals extra damage and dazes if the player is slammed against a wall.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
 | 
 
@@ -66,6 +72,12 @@ Moss Knights are similar to Desert Knights, spawning in singles in [Bluster Rift
  | Punches the ground, causing a pillar to erupt below the player.
 
 -   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |  |
 

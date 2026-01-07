@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 189745
+revid: 190056
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -5301,7 +5301,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Sky Aid: [Sky Warrior Helm](Sky_Warrior_Helm.md) - Take 80% less damage while in the air.
 
--   Slick: [Konga's Parka](<Konga's_Parka.md>) - Coat of the infamous fhief Emiya Konga. Improves the user's sliding abilities. This effect stacks with [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>).
+-   Slick: [Konga's Parka](<Konga's_Parka.md>) - Coat of the infamous thief Emiya Konga. Improves the user's sliding abilities. This effect stacks with [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>).
 
 -   Sloped Plate: [Blackalloy Helm](Blackalloy_Helm.md) - Reduces the amount of damage you take when guardbroken by 10.
 

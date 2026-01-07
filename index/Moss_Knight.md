@@ -1,6 +1,6 @@
 ---
 title: Moss Knight
-revid: 185832
+revid: 190040
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]
@@ -44,6 +44,12 @@ Moss Knights a type of [Stone Knight](Stone_Knight.md) that is similar to [Deser
 
 -   Deals extra damage and dazes if the player is slammed against a wall.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
 | 
 
@@ -63,6 +69,12 @@ Moss Knights a type of [Stone Knight](Stone_Knight.md) that is similar to [Deser
  | Punches the ground, causing a pillar to erupt below the player.
 
 -   The next attack from the Stone Knight is guaranteed to hit if the player is hit by Terra Eruption first.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |  |
 | 

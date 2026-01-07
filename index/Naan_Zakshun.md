@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 189772
+revid: 190036
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Circle of Honour members]
@@ -343,7 +343,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 5 </b>: <a href="Pufferfish.md">Pufferfish</a></li>
-    <li><b>For 1,000 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, Rainspire <a href="Sanguine_Candle.md">Sanguine Candle</a><abbr></abbr>, <a href="Thresher_Egg.md">Thresher Egg</a></li>
+    <li><b>For 1,000 </b>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Rain_Spire.md">Rain Spire</a> <a href="Sanguine_Candle.md">Sanguine Candle</a><abbr></abbr>, <a href="Thresher_Egg.md">Thresher Egg</a></li>
     <li><b>For 3,000 </b>: <a href="Glumfig.md">Glumfig</a></li>
     <li><b>For 3,000 </b>: <a href="Urchin.md">Urchin</a></li>
     <li><b>For 4,000 </b>: <a href="Astral.md">Astral</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Blazing.md">Blazing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Crustacean_Meat.md">Crustacean Meat</a>, <a href="Curse_of_Void.md">Curse of Void</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Deferred.md">Deferred</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Grim.md">Grim</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Harrowing.md">Harrowing</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Heroism.md">Heroism</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Metal.md">Metal</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Nightbringer.md">Nightbringer</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Parasol's_Blight.md">Parasol's Blight</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Sweetgourd.md">Sweetgourd</a>, <a href="Umbral_Knight.md">Umbral Knight</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Vampirism.md">Vampirism</a> <a href="Enchant_Stone.md">Enchant Stone</a>, <a href="Windswept.md">Windswept</a> <a href="Enchant_Stone.md">Enchant Stone</a></li>
