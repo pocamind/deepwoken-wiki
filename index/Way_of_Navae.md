@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 182780
+revid: 190089
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae, Navae Weapons]
@@ -23,10 +23,10 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Nav
 | m.extract | No |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
 | obtainment | Step 1: Find a Navaen Nomad., Step 2: Turn it in to Eastern Camp Master, Eastern Nomad Leader, or Beiruul.OR, Step 1: Have high positive reputation with The Children of Navae., Step 2: Speak to a Eastern Nomad Leader. |
 | description | Adopt the fighting stance of the Way of Navae. |
 

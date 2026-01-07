@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 190036
+revid: 190103
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Circle of Honour members]
@@ -227,7 +227,7 @@ Sold Items
     <li><b>For 200 </b>:
   <ul>
     <li><b>Starter</b>: <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a></li>
-    <li><b>Adept</b>: <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a></li>
+    <li><b>Adept</b>: <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, Navaean Nomad Robes</li>
     <li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a></li>
     <li><b>Master</b>: <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
   </ul></li>
@@ -245,7 +245,7 @@ Sold Items
   <td>
   <ul>
     <li><b>For 300 </b>: <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
-    <li><b>For 650 </b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a></li>
+    <li><b>For 650 </b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
     <li><b>For 1,000 </b>: <a href="Night_Axe.md">Night Axe</a></li>
     <li><b>For 4,500 </b>: <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a></li>
   </ul></td>
@@ -405,7 +405,7 @@ Sold Items
   <ul>
     <li><b>Head</b>: <a href="Cultist_Cowl.md">Cultist Cowl</a><abbr></abbr>, <a href="Flame_Demon_Horns.md">Flame Demon Horns</a><abbr></abbr>, <a href="Mercenary's_Hood.md">Mercenary's Hood</a><abbr></abbr>, <a href="Potion_Master's_Hat.md">Potion Master's Hat</a><abbr></abbr>, <a href="Trickster's_Beret.md">Trickster's Beret</a><abbr></abbr></li>
     <li><b>Arms</b>: <a href="Konga's_Parka.md">Konga's Parka</a><abbr></abbr>, <a href="Sorcerer's_Mantle.md">Sorcerer's Mantle</a></li>
-    <li><b>Legs</b>: <a href="Beginner's_Boots.md">Beginner's Boots</a><abbr></abbr>, <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a><abbr></abbr>, <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a><abbr></abbr></li>
+    <li><b>Legs</b>: <a href="Beginner's_Boots.md">Beginner's Boots</a><abbr></abbr>, <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a><abbr></abbr>, <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a><abbr></abbr>, <a href="Trackstar_Boots.md">Trackstar Boots</a><abbr></abbr></li>
     <li><b>Face</b>: <a href="Armored_Sensor_Mask.md">Armored Sensor Mask</a><abbr></abbr></li>
     <li><b>Ears</b>: <a href="Assassin's_Earrings.md">Assassin's Earrings</a><abbr></abbr>, <a href="Caster_Earrings.md">Caster Earrings</a><abbr></abbr>, <a href="Expert_Practitioner's_Earrings.md">Expert Practitioner's Earrings</a><abbr></abbr>, <a href="Flare_Drop_Earrings.md">Flare Drop Earrings</a><abbr></abbr>, <a href="Gale_Master's_Earrings.md">Gale Master's Earrings</a><abbr></abbr>, <a href="Hardened_Crystal_Earrings.md">Hardened Crystal Earrings</a><abbr></abbr>, <a href="Ruby_Scorch_Earrings.md">Ruby Scorch Earrings</a><abbr></abbr>, <a href="Trueblood_Earrings.md">Trueblood Earrings</a><abbr></abbr>, <a href="Vapordrop_Earrings.md">Vapordrop Earrings</a><abbr></abbr>, <a href="Warrior's_Pendant_Earrings.md">Warrior's Pendant Earrings</a><abbr></abbr></li>
     <li><b>Rings</b>: <a href="Royal_Etrean_Ring.md">Royal Etrean Ring</a><abbr></abbr>, <a href="Tiny_Soul_Ring.md">Tiny Soul Ring</a><abbr></abbr></li>

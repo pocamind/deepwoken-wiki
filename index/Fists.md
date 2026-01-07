@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 182779
+revid: 190093
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -24,10 +24,10 @@ categories: [Weapons, Fists, Light Weapons]
 | m.extract | No |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
 | obtainment | Way of Navae, Legion Kata, Fang and Coil, Jus Karita, Imperium KataStep 1: Find a Navaen Hostage., Step 2: Turn it in Eastern Camp Master, Beiruul, or Eastern Nomad Leader., OR: Reach hero reputation with The Children of Navae and speak to the Eastern Camp Master.Step 1: Gain friend reputation with The Hundred Legions., Step 2: Speak to a Captain of The Hundred Legions., Step 3: Speak to Amara.Step 1: Have 20 LHT and Friend Etris Reputation., Step 2: Defeat The Doom of Caeranthil. It does not count if you don't receive a chest., Step 3: Speak to Vesque.Step 1: Have 40 LHT and be Power 5., Step 2: Talk to Polis in Etris.Step 1: Obtain the Legion Intelligence., Step 2: Defeat Titus., Step 3: Turn in the Intelligence to Caitus. |
 | description | Way of Navae, Legion Kata, Fang and Coil, Jus Karita, Imperium Kata, GeneralAdopt the fighting stance of the Way of Navae.Adopt the fighting stance of the Legion Kata.Adopt the path of the serpent.The traditional martial arts style of the Justicars.Wield an advanced form of the Legion's martial arts.Your bare fists. Worth a shot, right? |
 

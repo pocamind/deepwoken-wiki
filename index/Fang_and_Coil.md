@@ -1,6 +1,6 @@
 ---
 title: Fang and Coil
-revid: 182783
+revid: 190088
 source: https://deepwoken.fandom.com/wiki/Fang_and_Coil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multiple Criticals]
@@ -23,10 +23,10 @@ categories: [Weapons, Fists, Fighting Styles, Light Weapons, Weapons with multip
 | m.extract | No |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
 | obtainment | 20 LHT, Ally rep with Etrea, Kill The Doom of Caeranthil with proper kill credit, Talk to Vesque |
 | description | Adopt the path of the serpent. |
 

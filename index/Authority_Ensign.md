@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 189448
+revid: 190105
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
@@ -503,6 +503,7 @@ Shock Corps Division
 -   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
     -   Remember to report messages like these.
 -   Because your player grip is replaced with imprisoning them, you will need some kind of automatic grip in order to confirm kills.
+    -   This makes it so that the obtainment of [Tacet](Murmur%253A_Tacet.md), needed for the Tacet Minimization talent in the Inquisition Division is almost impossible to get without outside help from allies; as you would need to bleed them out if you don't have anything that auto-grips.
 -   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md) and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
@@ -518,7 +519,7 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Ally** with [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
 -   **Friend** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), and [The Ignition Union](The_Ignition_Union.md)
 -   **Enemy** of [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
--   ' **_by [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)_**
+-   ' **_by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)_**
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
 -   You cannot gain [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be Exiled.
@@ -527,10 +528,11 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 
 -   **Friend** of [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
 -   **Enemy** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), [The Ignition Union](The_Ignition_Union.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), and [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
--   ' **_by [The Kingdom of Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_**
+-   ' **_by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_**
 
 ## Trivia
 
+-   The usage of ranks is incorrect, as a Lance Corporal is actually ranked below a Corporal.
 -   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped. This is likely due to past Authority treachery[\[1\]](#cite-note-1) and the Authority's refusal to pick a side in the Ignition-Summer conflict causing the Company to view them less favorably, even if they are willing to accept their finances.
 -   Funnily enough, the Shock Corps Division has the most issues regarding its acquirement, as its requirements are unclear to this day.
 -   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location.

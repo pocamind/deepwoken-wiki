@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Axe
-revid: 184366
+revid: 190096
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -27,10 +27,10 @@ notices:
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | description | A weapon brought out from your soul. |
 
 Redirect to:

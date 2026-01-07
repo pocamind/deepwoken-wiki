@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 189449
+revid: 190094
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -29,10 +29,10 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | stances | 1 Handed |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | description | An ancient bangle bestowed upon the disciples of Theros, its bearer once honored among the Legion. |
 
 “ _A withering storm gathers._ **Lightning must strike the eye of the tempest.** _”_

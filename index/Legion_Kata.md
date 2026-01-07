@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 182781
+revid: 190092
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -23,16 +23,12 @@ categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapo
 | m.extract | No |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
 | obtainment | Step 1: Obtain a recommendation from the Legion Captain battling the Authority in Starswept Valley or Upper Erisia., Step 2: Turn in the recommendation to Amara. |
 | description | Adopt the fighting stance of the Legion Kata. |
-
-“ Gain the ability to use the Legion's martial arts. ”
-
-― Style description
 
 ## Description
 

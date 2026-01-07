@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 190046
+revid: 190085
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -22,10 +22,10 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 | m.extract | No |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 
 ## Description
 
@@ -38,6 +38,8 @@ Because Untrained Fist isn't a traditional fist style with a bare hands variant,
 The user runs forward and swings their fist before striking with a haymaker punch. The user gains very brief hyperarmor during the punch animation. Pressing M2 during the rush segment of the critical will halt your movement.
 
 This attack has a 1.5x scaled damage multiplier. This deals 12 posture damage if blocked, regardless of your weapon's weight stat.
+
+This critical has a windup of 0.6s, providing hyperarmor for the final 0.2s before the attack lands. Additionally, this has 0.45s of endlag.
 
 This critical has a **5 second** cooldown.
 

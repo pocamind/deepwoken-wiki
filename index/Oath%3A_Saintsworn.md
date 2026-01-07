@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 189455
+revid: 190095
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
@@ -29,10 +29,10 @@ categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "We
 | stances | 2 Handed, 1 Handed |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | description | "" |
 
 ## Description

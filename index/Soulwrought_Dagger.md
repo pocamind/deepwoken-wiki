@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Dagger
-revid: 183591
+revid: 190101
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons, Light Weapons]
@@ -26,10 +26,10 @@ notices:
 | stances | 1 Handed |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | description | A weapon brought out from your soul. |
 
 Redirect to:

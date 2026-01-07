@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 189575
+revid: 190081
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

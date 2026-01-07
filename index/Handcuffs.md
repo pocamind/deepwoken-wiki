@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 186891
+revid: 190086
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -25,10 +25,10 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
 | rarity | N/A |
 | selling price | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Being killed by an Authority Ensign player. |
 | description | Your trusty weapon. |
 

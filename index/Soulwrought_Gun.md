@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Gun
-revid: 183044
+revid: 190099
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Gun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -26,10 +26,10 @@ notices:
 | offhand | Yes |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | description | A weapon brought out from your soul. |
 
 Redirect to:

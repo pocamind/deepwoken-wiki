@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Longsword
-revid: 184367
+revid: 190098
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -26,10 +26,10 @@ notices:
 | stances | 2 Handed, 1 Handed |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | description | A weapon brought out from your soul. |
 
 Redirect to:

@@ -1,6 +1,6 @@
 ---
 title: Eiris
-revid: 189751
+revid: 190079
 source: https://deepwoken.fandom.com/wiki/Eiris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Random Encounters, The Knives of Eylis]
@@ -18,7 +18,7 @@ Template:NpcInfobox
 
 Eiris is an [Etrean](Etrean.md) NPC. Eiris became a member of [The Knives of Eylis](The_Knives_of_Eylis.md) in order to acquire money to keep an unknown individual safe. However, he soon found himself unable to cope with the murderous lifestyle and appears to have developed perpetrator trauma as a result.
 
-The Pathfinder must speak to him in order to unlock the [Voidwalker](Voidwalker.md) Origin. After meeting the requirements of gripping 5 non-allied players on a single slot (Chimes of Conflict counts as 0.5 of a grip), you may find them resting against the mast under the dock of the non-burning boat (which flies red flags) during the [Knives of Eylis vs Kingdom of Etrea random event](Random_Encounters.md#fights-between-factions).
+The Pathfinder must speak to him in order to unlock the [Voidwalker](Voidwalker.md) Origin. After meeting the requirements of gripping 5 non-allied players on a single slot (Chimes of Conflict counts as 0.5 of a grip), you may find him resting against the mast under the dock of the non-burning boat (which flies red flags) during the [Knives of Eylis vs Kingdom of Etrea random event](Random_Encounters.md#fights-between-factions).
 
 ## Dialogue
 

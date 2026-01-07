@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 189758
+revid: 190068
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -17,6 +17,8 @@ Template:NpcInfobox
 The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue will significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 full training points when completed in exchange. If done with multiple players the reward is split between the people.
 
 The Shrine of Courage can only be used once if you have completed it.
+
+**Note: As of 23/12/2025, the depths trial got updated to be within instanced servers, causing the Shrine of Courage to be unusable; though a bug-fix is planned**
 
 ### Trial Information
 
