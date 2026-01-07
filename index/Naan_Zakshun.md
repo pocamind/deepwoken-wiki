@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 189752
+revid: 189772
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Circle of Honour members]
@@ -422,7 +422,7 @@ Sold Items
   </ul></li>
     <li><b>For 5,000 </b>:
   <ul>
-    <li><b>Head</b>: Infused Bloodforge Crown<abbr></abbr></li>
+    <li><b>Head</b>: <a href="Infused_Bloodforged_Crown.md">Infused Bloodforged Crown</a><abbr></abbr></li>
     <li><b>Arms</b>: <a href="Prosperous_Gumshoe_Longcoat.md">Prosperous Gumshoe Longcoat</a><abbr></abbr></li>
     <li><b>Torso</b>: <a href="Lightkeeper's_Medallion.md">Lightkeeper's Medallion</a>, <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
   </ul></li>

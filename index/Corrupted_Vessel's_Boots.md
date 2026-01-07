@@ -1,6 +1,6 @@
 ---
 title: "Corrupted Vessel's Boots"
-revid: 182600
+revid: 189993
 source: https://deepwoken.fandom.com/wiki/Corrupted_Vessel's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Corrupt Equipment]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Corrupt Equipment]
 | weight | 1 |
 | innate stats | +20 Posture |
 | innate talent | Vessel's Gamble |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Depths chests |
 | description | You feel false-strengths fill your body and mind. |
 

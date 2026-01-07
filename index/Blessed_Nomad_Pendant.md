@@ -1,6 +1,6 @@
 ---
 title: Blessed Nomad Pendant
-revid: 185696
+revid: 190002
 source: https://deepwoken.fandom.com/wiki/Blessed_Nomad_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
@@ -17,16 +17,18 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
 | weight | 0.5 |
 | innate stats | +3% Elemental Armor, 1 Legendary Pip |
 | innate talent | Navae's Connection |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths chests |
 | description | ... |
 
+Variants: [Nomad Pendant](Nomad_Pendant.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

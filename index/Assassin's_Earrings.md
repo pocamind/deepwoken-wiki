@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Earrings"
-revid: 181898
+revid: 190008
 source: https://deepwoken.fandom.com/wiki/Assassin's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | weight | 0.1 |
 | innate stats | +3% Stealth+2 Rare Pips |
 | innate talent | Sharpened Dagger |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

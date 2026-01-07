@@ -1,6 +1,6 @@
 ---
 title: Void Ring
-revid: 187338
+revid: 189929
 source: https://deepwoken.fandom.com/wiki/Void_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -14,10 +14,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings]
 | rarity | Common |
 | selling price | 7 |
 | weight | 0.1 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Static spawn on a small island off Etris |
 | description | Corrupted by the void, it allows the user to resist the harsh effects of the Depths for longer. |
 

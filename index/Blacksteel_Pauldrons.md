@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Pauldrons
-revid: 185351
+revid: 189906
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -25,6 +25,12 @@ categories: [Equipment, Arms, Pauldrons]
 | pass down | Yes |
 | obtainment | Chests from:, Erisia, Maestro Evengarde Rest, The Doom of Caeranthil, Interluminary Parasol, Heart of Enmity, Other sources:, Uncommon drop from Blacksteel Pirates and Blacksteel Pirate Captains |
 | description | ... |
+
+Variants: [Blackalloy Pauldrons](Blackalloy_Pauldrons.md)
+
+Blacksteel Set
+
+Variants: [Blacksteel Helm](Blacksteel_Helm.md)
 
 ## Description
 

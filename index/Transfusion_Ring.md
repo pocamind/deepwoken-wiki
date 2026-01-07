@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 189674
+revid: 189909
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings]
 | requirements | N/A |
 | weight | 0.1 |
 | innate stats | +20 Health, +1 Uncommon Pip |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sitting on an island near the "South" direction on the map compass. |
 | description | Gain extra vitality at the cost of your ability to heal (receive 50% less healing). |
 

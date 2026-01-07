@@ -1,6 +1,6 @@
 ---
 title: "Expert Practitioner's Earrings"
-revid: 181869
+revid: 190010
 source: https://deepwoken.fandom.com/wiki/Expert_Practitioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | weight | 0.1 |
 | innate stats | +2 Rare Pips |
 | innate talent | Ether Tension |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | Traditionally worn by erudite masters of the song. |
 

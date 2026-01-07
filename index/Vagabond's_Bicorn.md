@@ -1,6 +1,6 @@
 ---
 title: "Vagabond's Bicorn"
-revid: 176598
+revid: 189803
 source: https://deepwoken.fandom.com/wiki/Vagabond's_Bicorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, Dread Serpent, Deep Widow, Heart of Enmity, First Layer, Second Layer, Chaser, Lodestar, Maestro Evengarde Rest, War Mode, The Understrand, Saramaed Hollow, Deep OwlFound from:, Artifact Turn-ins, Merchant Ships |
+| obtainment | Chests from:, Depths Island Sea Events, Duke Erisia, Dread Serpent, Deep Widow, Heart of Enmity, First Layer, Second Layer, Chaser, Lodestar, Maestro Evengarde Rest, War Mode, The Understrand, Saramaed Hollow, Deep OwlFound from:, Artifact Turn-ins, Merchant Ships |
 | description | ... |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Ignition Gauntlets
-revid: 176461
+revid: 189899
 source: https://deepwoken.fandom.com/wiki/Ignition_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves, The Ignition Union]

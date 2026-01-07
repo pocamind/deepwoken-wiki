@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 181949
+revid: 189984
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots]
@@ -18,10 +18,10 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses,
 | innate talent | Safety First |
 | set | Beginner's Brace, Beginner's Boots |
 | set talent | Training Wheels |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | They've just been broken in. |
 

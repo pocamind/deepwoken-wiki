@@ -1,6 +1,6 @@
 ---
 title: Ferractine
-revid: 189320
+revid: 189861
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons]
@@ -26,10 +26,10 @@ categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons",
 | rarity | Mythical |
 | selling price | 100 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| bankable | no |
+| droppable | no |
+| enchantable | no |
+| pass down | No |
 | obtainment | Iron Vessel Memento |
 | description | ... |
 

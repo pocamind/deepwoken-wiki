@@ -1,6 +1,6 @@
 ---
 title: Enforcer Helm
-revid: 189370
+revid: 189939
 source: https://deepwoken.fandom.com/wiki/Enforcer_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | weight | 1 |
 | innate stats | +4 Health, +1 Rare Pip |
 | innate talent | Blend In |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths |
 | description | ... |
 

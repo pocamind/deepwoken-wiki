@@ -1,6 +1,6 @@
 ---
 title: Armored Sensor Mask
-revid: 181900
+revid: 190006
 source: https://deepwoken.fandom.com/wiki/Armored_Sensor_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
@@ -17,16 +17,18 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
 | weight | 0.5 |
 | innate stats | +1 Common Pip |
 | innate talent | Callout, Analyze |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | Despite its humble appearance this mask represents the current pinnacle of Markorian technology. |
 
+Variants: [Iron Mask](Iron_Mask.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

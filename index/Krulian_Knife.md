@@ -1,6 +1,6 @@
 ---
 title: Krulian Knife
-revid: 183089
+revid: 189829
 source: https://deepwoken.fandom.com/wiki/Krulian_Knife
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents, Weapons with multiple Criticals]
@@ -61,6 +61,7 @@ Krulian Charge has a 17 second cooldown (7 second downtime). The Lightning Assau
 
 ## Trivia
 
+-   Cruel Counter is a reference to an infamous suggestion for a hypothetical "Ferryman Oath", which was endlessly mocked by the community. One of the Oath Mantras was named Kruel Kounter.
 -   The Krulian Charge cooldown is not considered a normal critical cooldown; its duration cannot be decreased via [Critical Engine](Talents.md#intellisense) Blessed Gem or [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   There is a minor cooldown that stacks onto of all of the normal crit cooldowns. This cooldown takes priority over all others, meaning [Critical Engine](Talents.md#intellisense) Blessed Gem and [Warmaster's Medallion](<Warmaster's_Medallion.md>) are completely useless to the Krulian Knife as a whole.
 -   This blade's appearance is a reference to one of many Ben's Knives, from the Anime "Hunter x Hunter".

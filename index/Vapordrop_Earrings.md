@@ -1,6 +1,6 @@
 ---
 title: Vapordrop Earrings
-revid: 182361
+revid: 190016
 source: https://deepwoken.fandom.com/wiki/Vapordrop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -17,11 +17,11 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | weight | 0.1 |
 | innate stats | +1 Common Pip, +1 Rare Pip |
 | innate talent | Drop Dead |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
-| obtainment | Nautilodaunt OfficiateChests |
+| pass down | No |
+| obtainment | Nautilodaunt Officiate, Chests |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

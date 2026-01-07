@@ -1,6 +1,6 @@
 ---
 title: Ring of the Primal King
-revid: 181867
+revid: 189913
 source: https://deepwoken.fandom.com/wiki/Ring_of_the_Primal_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -15,10 +15,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | selling price | 100 |
 | requirements | N/A |
 | weight | 0.1 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Primadon, Titan of the East |
 | description | All attacks that apply knockback automatically apply daze. All Roar/Yell moves cause damage to dazed targets. |
 

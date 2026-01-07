@@ -1,6 +1,6 @@
 ---
 title: Legion Phalanx Plate
-revid: 176483
+revid: 189894
 source: https://deepwoken.fandom.com/wiki/Legion_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -25,6 +25,12 @@ categories: [Equipment, Arms, Plates]
 | pass down | Yes |
 | obtainment | Chests from:, Duke Ishamon Erisia, The Eternal Gale, Maestro Evengarde Rest, Miner's Landing (Very rare), Primadon, Titan of the East, Heart of Enmity, The Depths, Interluminary Parasol, Chaser, Scholar of the Crimson Contract, Pure Erisore turn-ins, Deep Widow |
 | description | ... |
+
+Variants: [Alloyed Phalanx Plate](Alloyed_Phalanx_Plate.md)
+
+Legion Phalanx set
+
+Variants: [Phalanx Helmet](Phalanx_Helmet.md)
 
 ## Description
 

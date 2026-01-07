@@ -1,6 +1,6 @@
 ---
 title: Feathertop Helm
-revid: 185379
+revid: 189873
 source: https://deepwoken.fandom.com/wiki/Feathertop_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -26,8 +26,9 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Feathertop Helm is an Equipment in the "_Head_" category.
+The Feathertop Helm is an [Equipment](Equipment.md) in the "_Head_" category.
 
 ## Trivia
 
--   Worn by one of the three [Sky Statues](Sky_Statue.md); Kennith used to wear this helmet, before switching to the [Investigator's Hat](<Investigator's_Hat.md>).
+-   Worn by one of the three [Sky Statues](Sky_Statue.md).
+-   [Kennith](Kennith.md) used to wear this helmet, before switching to the [Investigator's Hat](<Investigator's_Hat.md>).

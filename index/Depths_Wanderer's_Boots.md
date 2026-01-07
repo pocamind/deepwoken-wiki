@@ -1,6 +1,6 @@
 ---
 title: "Depths Wanderer's Boots"
-revid: 186416
+revid: 189992
 source: https://deepwoken.fandom.com/wiki/Depths_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | weight | 1 |
 | innate stats | +5 Health, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Iron Stance |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 2,300 |
 | description | ... |
 

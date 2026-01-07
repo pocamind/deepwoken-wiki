@@ -1,6 +1,6 @@
 ---
 title: "Veteran Ranger's Brace"
-revid: 185356
+revid: 189996
 source: https://deepwoken.fandom.com/wiki/Veteran_Ranger's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Braces]
@@ -18,10 +18,10 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Braces]
 | innate talent | Emergency Rations |
 | set | Ranger's Brace, Ranger's Boots |
 | set talent | Hunting Trap |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | It's covered in sewn pockets and hidden compartments, filled with cooking and medical supplies. |
 

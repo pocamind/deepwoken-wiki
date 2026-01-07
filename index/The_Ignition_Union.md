@@ -1,6 +1,6 @@
 ---
 title: The Ignition Union
-revid: 186324
+revid: 190023
 source: https://deepwoken.fandom.com/wiki/The_Ignition_Union
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Factions, The Ignition Union]
@@ -45,7 +45,7 @@ Unlike the traditional hierarchy practiced by the likes of The Divers and the Ce
 
 Like other factions such as [The Summer Company](The_Summer_Company.md), having negative [reputation](Reputation.md) will have vendors deny you service within their affected territories. Additionally, you will be attacked by guards on sight. If the player has positive reputation, guards will not finish you off if they down you and will instead scold you and return to their post.
 
-You can reset your reputation with Maura, who is standing inside a house on top of a cliff in Miner's Landing. Reaching her requires either parkour, mobility mantras, or the Union Hook [Talent](Talents.md), and the price range is 30 to 600 Notes.
+You can reset your reputation with [Maura](Maura.md), who is standing inside a house on top of a cliff in Miner's Landing. Reaching her requires either parkour, mobility mantras, or the Union Hook [Talent](Talents.md), and the price range is 30 to 600 Notes.
 
 The Ignition Union is among the factions to have a Bounty Board, which means that negative reputation with them leads to being hunted by [Voidwalkers](Voidwalker.md).
 

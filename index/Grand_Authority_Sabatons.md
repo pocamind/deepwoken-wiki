@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 176442
+revid: 189897
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -25,6 +25,10 @@ categories: [Equipment, Legs, Sabatons]
 | pass down | Yes |
 | obtainment | Chests from:, Duke Ishamon Erisia, The Eternal Gale, Miner's Landing, Maestro Evengarde Rest, Dread Serpent, Lodestar, Saramaed Hollow, Heart of Enmity, War Mode |
 | description | - ... |
+
+Grand Authority Set
+
+Variants: [Grand Authority Plate](Grand_Authority_Plate.md)
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Flame Demon Horns
-revid: 186420
+revid: 189969
 source: https://deepwoken.fandom.com/wiki/Flame_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head]
@@ -17,12 +17,14 @@ categories: [Vow of Iron Exclusive, Equipment, Head]
 | weight | 1 |
 | innate stats | +1 Posture, +8% Fire Armor, +1 Rare Pip |
 | innate talent | Mindspark |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 3,000 |
 | description | An otherwordly set of faux horns. Faint scratches on the back spell something like 'Aazel', though the writing is weathered almost beyond recognition. Whoever wore these must have long since drowned. Strangely, they're warm to the touch. |
+
+Variants: [Aazel's Horns](<Aazel's_Horns.md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

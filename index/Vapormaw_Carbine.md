@@ -1,6 +1,6 @@
 ---
 title: Vapormaw Carbine
-revid: 189254
+revid: 189904
 source: https://deepwoken.fandom.com/wiki/Vapormaw_Carbine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, "Attunement-based Weapons", Rifles, Medium Weapons]
@@ -22,10 +22,10 @@ categories: [Vow of Iron Exclusive, Weapons, "Attunement-based Weapons", Rifles,
 | rarity | Mythical |
 | selling price | 100 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Steampunk Soldier Memento |
 | description | An experimental steam-powered firearm whose pressured steam reservoir delivers exceptional kinetic force, making it capable of remarkably destructive output. |
 

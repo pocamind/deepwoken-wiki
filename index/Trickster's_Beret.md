@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Beret"
-revid: 188952
+revid: 189952
 source: https://deepwoken.fandom.com/wiki/Trickster's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
 | weight | 1 |
 | innate stats | +3 Health, +10 Ether, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Jester's Ruse, Cap Artist |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Nautilodaunt Officiate, Songseeker Wilds, Minityrsa |
 | description | A beret with a sleek texture and fit, evidently the work of a skilled tailor - must've cost a pretty penny. Though to those which money has no meaning, the visual statement outweighs any price. |
 

@@ -1,6 +1,6 @@
 ---
 title: Trueblood Earrings
-revid: 181896
+revid: 190004
 source: https://deepwoken.fandom.com/wiki/Trueblood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Set Bonuses]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Set Bonuses]
 | innate talent | Blood Convergence |
 | set | Trueblood Pendant, Trueblood Earrings |
 | set talent | Critical Heal |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | Wearing these fills you with a newfound sense of vitality. |
 

@@ -1,6 +1,6 @@
 ---
 title: Frost Ring
-revid: 189673
+revid: 189915
 source: https://deepwoken.fandom.com/wiki/Frost_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | weight | 0.1 |
 | innate stats | N/A |
 | innate talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Found at Minityrsa, near the entrance to the Starfield Tundra. |
 | description | Apply a very light slow on your opponent when landing a light attack. This effect stacks. |
 

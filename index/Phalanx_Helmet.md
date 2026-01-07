@@ -1,6 +1,6 @@
 ---
 title: Phalanx Helmet
-revid: 176525
+revid: 189895
 source: https://deepwoken.fandom.com/wiki/Phalanx_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -25,6 +25,8 @@ categories: [Equipment, Head, Helmets]
 | pass down | Yes |
 | obtainment | Chests from:, Second Layer, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, Dread Serpent, Chime of Conflict, Saramaed Hollow, Deep Widow |
 | description | ... |
+
+Legion Phalanx set
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Plate
-revid: 185354
+revid: 189999
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
@@ -19,12 +19,14 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
 | innate talent | Berserker, Enforcer's Strength |
 | set | Reinforced Enforcer Plate, Reinforced Enforcer Boots |
 | set talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
+
+Variants: [Enforcer Plate](Enforcer_Plate.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

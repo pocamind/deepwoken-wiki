@@ -1,6 +1,6 @@
 ---
 title: "Trunk's Clutch Ring"
-revid: 189114
+revid: 189928
 source: https://deepwoken.fandom.com/wiki/Trunk's_Clutch_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | requirements | Lvl 5 |
 | weight | 0.1 |
 | innate stats | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Depths Chests in Vow of Iron?Possibly ANY chest in Vow of Iron? |
 | description | Gain 75% more damage when at 20% health or lower. |
 

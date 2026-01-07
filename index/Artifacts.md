@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 178285
+revid: 190028
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects, Mechanics]
@@ -10,9 +10,9 @@ categories: [Interactible Objects, Mechanics]
 
 | Artifacts | |
 |---|---|
-| usage | Given to a Banker for various loot.Activating the Deep Crucible. |
-| drops | EXP, 200 Notes, 10 various items including:, Outfit Schematics, Weapons, Armor, Smith's Alloy, Armorer's Needle, Curse of Ysley's Ember Enchant Stone (Eastern only) |
-| obtainment | Erisia, Open Sea (Etrean Luminant) Starswept Valley (Eastern Luminant) |
+| usage | Given to a Banker for various lootActivating the Deep Crucible |
+| drops | EXP, 200 , 10 various items including:, Outfit Schematics, Weapons, Armor, Smith's Alloy, Armorer's Needle, Curse of Ysley's Ember Enchant Stone (Eastern only) |
+| obtainment | Etrean Luminant:, Erisia, The Etrean Sea, Eastern Luminant:, Meteor Isle, Songseeker Wilds, The Starswept Valley |
 
 _Not to be confused with [Relics](Relics.md)._
 
@@ -33,8 +33,9 @@ An Artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).
 
 ### Eastern Luminant
 
+-   [Meteor Isle](Meteor_Isle.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
--   [Starswept Valley](The_Starswept_Valley.md)
+-   [The Starswept Valley](The_Starswept_Valley.md)
 
 ## Trivia
 

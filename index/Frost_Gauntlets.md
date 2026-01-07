@@ -1,6 +1,6 @@
 ---
 title: Frost Gauntlets
-revid: 186587
+revid: 189832
 source: https://deepwoken.fandom.com/wiki/Frost_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -27,10 +27,10 @@ categories: [Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with 
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Indigo Citadel |
 | description | Perfect for a Knuckle Sandwich, served cold. |
 

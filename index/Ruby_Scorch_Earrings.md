@@ -1,6 +1,6 @@
 ---
 title: Ruby Scorch Earrings
-revid: 181906
+revid: 190015
 source: https://deepwoken.fandom.com/wiki/Ruby_Scorch_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | weight | 0.1 |
 | innate stats | +1 Common Pip |
 | innate talent | Smoldering Touch |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | Wearing these makes you feel a fire in your heart with every swing. |
 

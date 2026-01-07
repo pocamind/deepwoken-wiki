@@ -1,12 +1,9 @@
 ---
 title: Samnang
-revid: 186904
+revid: 189797
 source: https://deepwoken.fandom.com/wiki/Samnang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Quests, Clan Mofisu]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Quests, Clan Mofisu]
 ---
 
 # Samnang
@@ -71,13 +68,13 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
 </tr>
 <tr>
   <td>I'll keep an eye out.</td>
-  <td>[End Dialogue]</td>
+  <td>[End Dialogue], gain Reputation with Etrean Royalists and a small chest</td>
 </tr>
 <tr>
   <td>If you end up finding him, I'll be forever grateful to you.</td>
 </tr>
 <tr>
-  <td>[End Dialogue], quest begins</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -105,7 +102,7 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
   <td>No?.. Please, I pray, keep looking for him... I will remain here, just in case he returns...</td>
 </tr>
 <tr>
-  <td>[End Dialogue], quest end</td>
+  <td>[End Dialogue], gain Reputation with Etrean Royalists and a small chest</td>
   <td>[End Dialogue]</td>
 </tr>
 </tbody>
@@ -119,7 +116,7 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
   <td>Begin</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*Their eyes are full of sorrow.*</i> My poor brother... May his soul rest... Thank you for bringing me this closure, stranger. May <a href="Glossary.md#mur-of-light">Mur's</a> light shine upon your path...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

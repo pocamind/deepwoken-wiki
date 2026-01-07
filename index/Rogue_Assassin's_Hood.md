@@ -1,6 +1,6 @@
 ---
 title: "Rogue Assassin's Hood"
-revid: 186419
+revid: 189956
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Hoods, Head]
@@ -17,12 +17,14 @@ categories: [Vow of Iron Exclusive, Equipment, Hoods, Head]
 | weight | 1 |
 | innate stats | +5% Stealth, +2 Rare Pips |
 | innate talent | Deep Wound, Poisoned Knife |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 1,000 |
 | description | ... |
+
+Variants: [Assassin's Hood](<Assassin's_Hood.md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

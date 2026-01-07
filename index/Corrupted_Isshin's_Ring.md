@@ -1,6 +1,6 @@
 ---
 title: "Corrupted Isshin's Ring"
-revid: 185357
+revid: 189936
 source: https://deepwoken.fandom.com/wiki/Corrupted_Isshin's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, Corrupt Equipment]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics, 
 | weight | 0.1 |
 | innate stats | N/A |
 | innate talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths (Vow of Iron) |
 | description | Dropped from a wandering swordsman who went insane. Take 2x damage and deal 2x damage when in close-quarters combat. |
 

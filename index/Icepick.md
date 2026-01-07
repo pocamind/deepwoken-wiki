@@ -1,6 +1,6 @@
 ---
 title: Icepick
-revid: 181920
+revid: 189836
 source: https://deepwoken.fandom.com/wiki/Icepick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Weapons with Talents, Light Weapons]
@@ -29,10 +29,10 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, "Weapons wit
 | rarity | Rare |
 | selling price | 14 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Found in the Starfield Tundra |
 | description | It's almost as if it grew straight out of the ice, but that couldn't be possible, could it? |
 

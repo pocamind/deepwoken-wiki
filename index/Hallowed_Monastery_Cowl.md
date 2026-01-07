@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Cowl
-revid: 189763
+revid: 189941
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
 | innate talent | Blade Dancer, Footwork Mastery |
 | set | Hallowed Monastery Cowl, Hallowed Monastery Beads |
 | set talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths (Vow of Iron) |
 | description | ... |
 

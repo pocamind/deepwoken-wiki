@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 189056
+revid: 190027
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -947,7 +947,7 @@ These Talents are found in the _Aeromancer_ category.
 |  | Aeronade  
 (40 Galebreathe, Galetrap (Mantra)) | Your trap automatically detonates on contact with an object. (+2 Passive Agility) | N/A |
 |  | Stifled Jump  
-(35 Galebreathe, 30 Strength, Suffocating Impact) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) | N/A |
+(Suffocating Impact) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) | N/A |
 |  | Suffocating Impact  
 (35 Galebreathe, 15 Strength) | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) | N/A |
 |  | Gale Trap  

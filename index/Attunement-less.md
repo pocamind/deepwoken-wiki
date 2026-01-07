@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 189458
+revid: 189809
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -382,6 +382,7 @@ Blunt
 -   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
+-   Using this mantra in the air allows you to aim it freely
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Prototype Railblade
-revid: 185985
+revid: 189846
 source: https://deepwoken.fandom.com/wiki/Prototype_Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, The Ignition Union, Heavy Weapons, Weapons with multiple Criticals]
@@ -26,10 +26,10 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with
 | rarity | Mythical |
 | selling price | 100 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Found at the Saramaed Summit |
 | description | A prototype weapon devised by the Ignition Union in the hopes of improving their odds against the denizens of the Deep. |
 

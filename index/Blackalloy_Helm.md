@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 186361
+revid: 189966
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Set Bonuses]
@@ -19,10 +19,10 @@ categories: [Equipment, Head, Helmets, Equipment with Set Bonuses]
 | innate talent | Sloped Plate |
 | set | Blackalloy Helm, Blackalloy Pauldrons |
 | set talent | Captain's Call |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths |
 | description | An imposing helmet made from blackened steel. |
 

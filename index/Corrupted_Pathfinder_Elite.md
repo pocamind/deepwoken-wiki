@@ -1,6 +1,6 @@
 ---
 title: Corrupted Pathfinder Elite
-revid: 181990
+revid: 189937
 source: https://deepwoken.fandom.com/wiki/Corrupted_Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment]
 | weight | 2 |
 | innate stats | 5% Damage Vs Monsters, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Shadow Travel, Omen |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

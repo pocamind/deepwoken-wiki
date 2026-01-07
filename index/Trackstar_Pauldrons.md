@@ -1,6 +1,6 @@
 ---
 title: Trackstar Pauldrons
-revid: 185396
+revid: 189994
 source: https://deepwoken.fandom.com/wiki/Trackstar_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
 | innate talent | Pace, Polite Awakening |
 | set | Trackstar Pauldrons, Trackstar Boots |
 | set talent | Rush |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

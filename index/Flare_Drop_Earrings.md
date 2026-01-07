@@ -1,6 +1,6 @@
 ---
 title: Flare Drop Earrings
-revid: 186418
+revid: 190017
 source: https://deepwoken.fandom.com/wiki/Flare_Drop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -17,11 +17,11 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | weight | 0.1 |
 | innate stats | +1 Common Pip, +1 Rare Pip |
 | innate talent | Flaredrop |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
-| obtainment | Any chest in Vow of Iron, Direct drop any monster in Vow of Iron, Sold in Naan Zakshun's black market for 3,000 |
+| pass down | No |
+| obtainment | Any chest in Vow of Iron, Direct drop from any monster in Vow of Iron, Sold in Naan Zakshun's black market for 3,000 |
 | description | Worn by practitioners of the Flare Drop fighting style. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

@@ -1,6 +1,6 @@
 ---
 title: Experienced Adventurer
-revid: 177019
+revid: 189858
 source: https://deepwoken.fandom.com/wiki/Experienced_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -53,3 +53,4 @@ The [Looter](Talents.md#looter) Talent grants the user extra loot for items they
 ## Trivia
 
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5899129258/Radiant-Adventurer) / [Pants](https://www.roblox.com/catalog/5899132202/Radiant-Adventurer-Pants)
+-   This outfit is based on Ike and his appearance in Fire Emblem: Radiant Dawn.

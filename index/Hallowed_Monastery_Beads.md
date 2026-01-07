@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Beads
-revid: 189441
+revid: 189942
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Torso]
 | innate talent | Focused Strikes |
 | set | Hallowed Monastery Cowl, Hallowed Monastery Beads |
 | set talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Opening sacks in Vow of Iron |
 | description | ... |
 

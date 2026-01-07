@@ -1,6 +1,6 @@
 ---
 title: Trackstar Boots
-revid: 185395
+revid: 189995
 source: https://deepwoken.fandom.com/wiki/Trackstar_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | innate talent | Haste |
 | set | Trackstar Pauldrons, Trackstar Boots |
 | set talent | Rush |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

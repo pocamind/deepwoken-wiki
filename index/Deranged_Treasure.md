@@ -1,6 +1,6 @@
 ---
 title: Deranged Treasure
-revid: 189497
+revid: 189919
 source: https://deepwoken.fandom.com/wiki/Deranged_Treasure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | weight | 0.1 |
 | innate stats | N/A |
 | innate talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Found in The Depths |
 | description | Gain extra defense when you are insane, with this effect scaling based on how insane you are. |
 

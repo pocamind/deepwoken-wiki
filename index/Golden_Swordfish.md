@@ -1,6 +1,6 @@
 ---
 title: Golden Swordfish
-revid: 184435
+revid: 189814
 source: https://deepwoken.fandom.com/wiki/Golden_Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Weapons with Unique Criticals, Light Weapons, Fish, "Weapons with Multi-Hit Criticals"]
@@ -29,7 +29,7 @@ categories: [Weapons, Criticals with M1 tag, Rapiers, Weapons with Unique Critic
 | selling price | 50 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Fishing |

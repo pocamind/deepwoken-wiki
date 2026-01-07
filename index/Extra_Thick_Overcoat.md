@@ -1,6 +1,6 @@
 ---
 title: Extra Thick Overcoat
-revid: 181964
+revid: 189978
 source: https://deepwoken.fandom.com/wiki/Extra_Thick_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Arms]
 | weight | 2 |
 | innate stats | +3 Health, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | Weather Resistant |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | An essential winter coat to protect you against the cold. |
 

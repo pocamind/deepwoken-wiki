@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 189572
+revid: 189798
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -654,3 +654,7 @@ Feinting this will give you infinite I-frames.
 -   _True Mirage Clone_ \[Rare Talent\] - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at you on fire.
     
     -   Has a 20s Cooldown
+
+## Tips
+
+-   As the final count of Flamecharm and Medium Weapons in this memento, are 100 and 80 points respectively, it is highly recommended to grab [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) in [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>); especially since it's buffed by the innate talent of [Simmerbloom Diadem](Simmerbloom_Diadem.md).

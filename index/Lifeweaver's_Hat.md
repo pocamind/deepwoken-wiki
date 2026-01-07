@@ -1,6 +1,6 @@
 ---
 title: "Lifeweaver's Hat"
-revid: 185470
+revid: 189964
 source: https://deepwoken.fandom.com/wiki/Lifeweaver's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
@@ -17,12 +17,14 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
 | weight | 1 |
 | innate stats | +1 Uncommon Pip |
 | innate talent | Natural Healing, Iron Gut |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | True Heart of Enmity |
 | description | ... |
+
+Variants: [Herbalist's Hat](<Herbalist's_Hat.md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

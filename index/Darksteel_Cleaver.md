@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 185170
+revid: 189845
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Talents, Heavy Weapons]
@@ -28,10 +28,10 @@ categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Cr
 | rarity | Uncommon |
 | selling price | 14 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | When faced with insurmountable odds, sometimes all you need is a Big Sword. |
 

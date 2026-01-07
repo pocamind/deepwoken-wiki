@@ -1,6 +1,6 @@
 ---
 title: Sky Warrior Helm
-revid: 186412
+revid: 190018
 source: https://deepwoken.fandom.com/wiki/Sky_Warrior_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -17,12 +17,14 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | weight | 1 |
 | innate stats | +3 Health, +1 Uncommon Pip |
 | innate talent | Sky Aid |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | no |
+| droppable | no |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 2,300 |
 | description | ... |
+
+Variants: [Feathertop Helm](Feathertop_Helm.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

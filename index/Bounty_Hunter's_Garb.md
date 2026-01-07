@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Garb"
-revid: 185388
+revid: 189980
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Garbs, Equipment with Set Bonuses]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Garbs, Equipment with Set B
 | innate talent | Piercing Shot, Kick Off |
 | set | Bounty Hunter's Garb, Bounty Hunter's Boots |
 | set talent | Explosive Rounds |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

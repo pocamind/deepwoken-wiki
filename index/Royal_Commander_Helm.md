@@ -1,6 +1,6 @@
 ---
 title: Royal Commander Helm
-revid: 181899
+revid: 189972
 source: https://deepwoken.fandom.com/wiki/Royal_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -17,16 +17,18 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | weight | 1 |
 | innate stats | +5 Health, +1 Rare Pip, +1 Legendary Pip |
 | innate talent | Royal Charge, Grasp On Reality |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 
+Variants: [Celtor Commander Helm](Celtor_Commander_Helm.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

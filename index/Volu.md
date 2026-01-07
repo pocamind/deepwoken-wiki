@@ -1,9 +1,9 @@
 ---
 title: Volu
-revid: 187579
+revid: 189830
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Ministry]
+categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Ministry]
 ---
 
 # Volu
@@ -12,6 +12,7 @@ categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean 
 |---|---|
 | name | Volu |
 | aspect | Capra |
+| pronouns | He/him |
 | location | Outpost Antumbra |
 | affiliation | The Ministry |
 
@@ -52,7 +53,7 @@ Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that 
   <td colspan="2">Take... what?</td>
 </tr>
 <tr>
-  <td colspan="2">Oh, it's not that I don't want it-isu cme.ii ro ]o ul,y ilgihvs taiefoo*]</td>
+  <td colspan="2">Oh, it's not that I don't want it—it's just so much more... fitting for you! <i>*Volu chuckles, eyes twinkling mischievously with a tinge of sorrow.*<i></i></i></td>
   <td colspan="2">This beauty! A curious old tome, just begging to be opened! By you, of course! <i>*Volu winks playfully.*</i></td>
 </tr>
 <tr>

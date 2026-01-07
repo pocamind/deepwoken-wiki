@@ -1,6 +1,6 @@
 ---
 title: Reforged Gauntlets
-revid: 185477
+revid: 189989
 source: https://deepwoken.fandom.com/wiki/Reforged_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, The Ignition Union]
@@ -17,16 +17,18 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, The Ignition Union]
 | weight | 2 |
 | innate stats | +8 Health, +1 Posture, +2 Legendary Pips, +1 Rare Pip |
 | innate talent | Force Your Way, Steel Grip |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
-| obtainment | EnemiesChests |
+| pass down | No |
+| obtainment | Any Chest |
 | description | ... |
 
+Variants: [Ignition Gauntlets](Ignition_Gauntlets.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

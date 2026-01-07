@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 189679
+revid: 189947
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -19,12 +19,14 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with S
 | innate talent | Laminated Armor |
 | set | Blackalloy Helm, Blackalloy Pauldrons |
 | set talent | Captain's Call |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths, Sea Events, Minityrsa |
 | description | ... |
+
+Variants: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

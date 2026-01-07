@@ -1,6 +1,6 @@
 ---
 title: Oni Mask
-revid: 188377
+revid: 190007
 source: https://deepwoken.fandom.com/wiki/Oni_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
@@ -17,16 +17,18 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
 | weight | 0.5 |
 | innate stats | +1 Rare Pip |
 | innate talent | Hellion Shift |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths (Vow of Iron) |
 | description | The demonic visage fills you with a mix of dread and glee. |
 
+Variants: [Demon Mask](Demon_Mask.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

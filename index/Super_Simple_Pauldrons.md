@@ -1,6 +1,6 @@
 ---
 title: Super Simple Pauldrons
-revid: 181890
+revid: 189998
 source: https://deepwoken.fandom.com/wiki/Super_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
@@ -17,16 +17,18 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
 | weight | 2 |
 | innate stats | +2 Health, +1 Posture, +1 Uncommon Pip |
 | innate talent | Simple Buff |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | Either they're of low complexity or someone needs a punch. |
 
+Variants: [Simple Pauldrons](Simple_Pauldrons.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

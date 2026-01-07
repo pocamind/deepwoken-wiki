@@ -1,6 +1,6 @@
 ---
 title: Hardened Crystal Earrings
-revid: 181907
+revid: 189962
 source: https://deepwoken.fandom.com/wiki/Hardened_Crystal_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | weight | 0.1 |
 | innate stats | +2 Rare Pips |
 | innate talent | Instant Nucleation |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | Though the setting and clasp have been dulled by wear and tear, the crystal remains completely untarnished. |
 

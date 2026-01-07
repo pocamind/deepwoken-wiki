@@ -1,6 +1,6 @@
 ---
 title: Vortex Accelerator
-revid: 181893
+revid: 189930
 source: https://deepwoken.fandom.com/wiki/Vortex_Accelerator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Equipment Relics, Relics]
@@ -15,10 +15,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Equipment Relics, Relics]
 | selling price | 25 |
 | weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | The less health you have, the lower your mantra cooldowns. |
 

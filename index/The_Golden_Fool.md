@@ -1,6 +1,6 @@
 ---
 title: The Golden Fool
-revid: 185026
+revid: 189970
 source: https://deepwoken.fandom.com/wiki/The_Golden_Fool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -27,10 +27,10 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Lig
 | rarity | Common |
 | selling price | N/A |
 | weight | 2 |
-| bankable | Yes |
+| bankable | No |
 | droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Purchased from The Beard at The Golden Rat for 100 |
 | description | Warriors bold with straps of gold, that dazzle like the sun! |
 

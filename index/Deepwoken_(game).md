@@ -1,6 +1,6 @@
 ---
 title: Deepwoken (game)
-revid: 188221
+revid: 190022
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -10,9 +10,7 @@ notices:
 
 # Deepwoken (game)
 
-_Deepwoken_ is an open world, roguelike, soulslike, action RPG developed and published by Deepwoken Staff (formerly Vows by the Sea), a subdivision of Monad Studios, on the _Roblox_ platform. The game serves as a spiritual antithesis to their previous project, _Rogue Lineage_. Unlike most games on the platform, _Deepwoken_ is not free-to-play and costs 400 [Robux](https://roblox.fandom.com/wiki/Robux) to purchase.
-
-The project was first revealed to exist on the 15th of November, 2019. Originally slated to release in autumn, the game released on the 20th of December, 2021. Console support was added on the 3rd of March, 2024.
+_[Deepwoken](https://www.roblox.com/games/4111023553)_ is an open world, roguelike, soulslike, action RPG developed and published by [Deepwoken Staff](https://www.roblox.com/communities/5212858) (formerly Vows by the Sea), a subdivision of Monad Studios, on the _Roblox_ platform. The game serves as a spiritual antithesis to their previous project, _[Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage)_. Unlike most games on the platform, _Deepwoken_ is not free-to-play and costs 400 [Robux](https://roblox.fandom.com/wiki/Robux) to purchase.
 
 ## Gameplay
 
@@ -30,19 +28,24 @@ Made in Abyss and Sekiro have been cited as major inspirations for the world's s
 
 The usage of the Song contributing to rising Tides and global devastation, but not being countered due to humanity growing reliant on it to progress, has been compared to the effects of using fossil fuels.
 
+## Development
+
+The project was first revealed to exist on the 15th of November, 2019, dubbed "Project Deepwoken". Originally stated to release the on the autumn of 2021, the game released months later, on the 20th of December. Console support was later added on the 3rd of March, 2024.
+
+On the 25th of July, 2025, Raguza released documents detailing Deepwoken info, which were separated into two parts. The first document mainly consisted of FAQs from Twitter, whereas the other consisted of various in-game screenshots of locations. He had also stated that the project was the biggest Monad Studios has ever worked on, while also being the most complex.
+
+## Reception
+
+In the 2022 Roblox Innovation Awards, Deepwoken was nominated in the Best Creative Direction and Best New Experience categories. The game won the award for Best New Experience.
+
+Two years later, in the 2024 Roblox Innovation Awards, the game was nominated in Best Action/RPG category. If Deepwoken won the award, the game would be 50% off and have 4x chests enabled for a week. Deepwoken had lost, but still rewarded the community for their efforts by having 2x chests enabled until the 15th of July 2024.
+
 ## Gallery
-
-### Thumbnails
-
-TBD
-
-### Game Icons
-
-TBD
 
 ### Trailers
 
-TBD
+-   [Deepwoken Trailer 2024](https://www.youtube.com/watch?v=kkERJc-Qe4o)
+-   [Deepwoken Iron Vow Trailer](https://www.youtube.com/watch?v=sF8ZLO9dcHY)
 
 ## Version History
 

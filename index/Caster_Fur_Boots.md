@@ -1,6 +1,6 @@
 ---
 title: Caster Fur Boots
-revid: 185377
+revid: 189981
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | innate talent | Ether Efficiency |
 | set | Caster Fur Pauldrons, Caster Fur Boots |
 | set talent | Overdrive |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

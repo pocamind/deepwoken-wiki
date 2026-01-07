@@ -1,6 +1,6 @@
 ---
 title: Ministry Hunter Ring
-revid: 185342
+revid: 189914
 source: https://deepwoken.fandom.com/wiki/Ministry_Hunter_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | requirements | N/A |
 | weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths |
 | description | Backstabs now deal 10% more damage. |
 

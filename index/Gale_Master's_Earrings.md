@@ -1,6 +1,6 @@
 ---
 title: "Gale Master's Earrings"
-revid: 185162
+revid: 190011
 source: https://deepwoken.fandom.com/wiki/Gale_Master's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | weight | 0.1 |
 | innate stats | +1 Common Pip, +1 Rare Pip |
 | innate talent | Way of the Wind |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | Putting thees on, you feel as if you are light as a cloud. |
 

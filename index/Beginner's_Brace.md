@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Brace"
-revid: 181950
+revid: 189982
 source: https://deepwoken.fandom.com/wiki/Beginner's_Brace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set Bonuses]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Braces, Equipment with Set 
 | innate talent | Beginner's Luck |
 | set | Beginner's Brace, Beginner's Boots |
 | set talent | Training Wheels |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

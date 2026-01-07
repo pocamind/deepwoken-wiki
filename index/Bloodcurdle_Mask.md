@@ -1,6 +1,6 @@
 ---
 title: Bloodcurdle Mask
-revid: 181875
+revid: 189934
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Face, Masks]
 | innate talent | Blood Plague |
 | set | Bloodcurdle Cowl, Bloodcurdle Mask |
 | set talent | Bloodless Overdrive |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

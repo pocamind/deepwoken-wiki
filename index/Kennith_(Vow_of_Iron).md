@@ -1,6 +1,6 @@
 ---
 title: Kennith (Vow of Iron)
-revid: 189615
+revid: 190019
 source: https://deepwoken.fandom.com/wiki/Kennith_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -9,6 +9,8 @@ notices:
 ---
 
 # Kennith (Vow of Iron)
+
+Variants: [Kennith](Kennith.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

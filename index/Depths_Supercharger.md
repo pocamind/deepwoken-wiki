@@ -1,6 +1,6 @@
 ---
 title: Depths Supercharger
-revid: 188890
+revid: 189991
 source: https://deepwoken.fandom.com/wiki/Depths_Supercharger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | requirements | N/A |
 | weight | 0.1 |
 | innate stats | +1 Uncommon Pip |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Ferryman |
 | description | Limits you to 2 mantras but greatly empowers them and boosts your Ether and Tempo. |
 

@@ -1,6 +1,6 @@
 ---
 title: Duskshot
-revid: 182518
+revid: 189840
 source: https://deepwoken.fandom.com/wiki/Duskshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offhand, Light Weapons]
@@ -28,10 +28,10 @@ categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offh
 | rarity | Rare |
 | selling price | 25 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Found in The Depths in a hidden room behind a wall |
 | description | With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production. |
 

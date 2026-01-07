@@ -1,6 +1,6 @@
 ---
 title: "Konga's Parka"
-revid: 186449
+revid: 189987
 source: https://deepwoken.fandom.com/wiki/Konga's_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas]
 | weight | 2 |
 | innate stats | +2 Health, +1 Posture, +1 Rare Pip |
 | innate talent | Slick, Steady Footing |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 3,000 |
 | description | An essential winter coat to protect you against the cold. |
 

@@ -1,6 +1,6 @@
 ---
 title: Trueblood Pendant
-revid: 186641
+revid: 190005
 source: https://deepwoken.fandom.com/wiki/Trueblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with 
 | innate talent | Blood Pact |
 | set | Trueblood Pendant, Trueblood Earrings |
 | set talent | Critical Heal |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshuns's black market for 1,000 |
 | description | ... |
 

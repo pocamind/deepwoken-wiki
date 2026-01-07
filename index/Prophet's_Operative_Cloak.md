@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Operative Cloak"
-revid: 185369
+revid: 189975
 source: https://deepwoken.fandom.com/wiki/Prophet's_Operative_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks]
@@ -17,12 +17,14 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Cloaks]
 | weight | 2 |
 | innate stats | 6% Stealth, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Tempo Sap, Eureka |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
+
+Variants: [Ministry Operative Cloak](Ministry_Operative_Cloak.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Radial Pendant
-revid: 181892
+revid: 190003
 source: https://deepwoken.fandom.com/wiki/Radial_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
@@ -16,10 +16,10 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
 | weight | 0.5 |
 | innate stats | +2 Rare Pip , 1 Legendary Pip |
 | innate talent | Praise The Sun |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 

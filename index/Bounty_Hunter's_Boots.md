@@ -1,6 +1,6 @@
 ---
 title: "Bounty Hunter's Boots"
-revid: 187868
+revid: 189983
 source: https://deepwoken.fandom.com/wiki/Bounty_Hunter's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
@@ -18,10 +18,10 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | innate talent | Endurance Runner, Gunslinger's Fury |
 | set | Bounty Hunter's Garb, Bounty Hunter's Boots |
 | set talent | Explosive Rounds |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 3,000 , Depths chests |
 | description | ... |
 

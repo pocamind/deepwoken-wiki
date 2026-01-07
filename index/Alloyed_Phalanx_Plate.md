@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Plate
-revid: 181903
+revid: 189985
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
@@ -19,16 +19,20 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
 | innate talent | Hoplite, Risky Defense |
 | set | Alloyed Phalanx Plate, Alloyed Phalanx Boots |
 | set talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | TBA |
 | description | ... |
 
+Variants: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Alloyed Phalanx Set
 
 ## Description
 

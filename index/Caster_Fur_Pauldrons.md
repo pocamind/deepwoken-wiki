@@ -1,6 +1,6 @@
 ---
 title: Caster Fur Pauldrons
-revid: 186447
+revid: 189979
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with S
 | innate talent | Ether Upgrade |
 | set | Caster Fur Pauldrons, Caster Fur Boots |
 | set talent | Overdrive |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 2,300 |
 | description | ... |
 

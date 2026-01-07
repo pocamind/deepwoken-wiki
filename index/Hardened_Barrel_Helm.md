@@ -1,6 +1,6 @@
 ---
 title: Hardened Barrel Helm
-revid: 186446
+revid: 189943
 source: https://deepwoken.fandom.com/wiki/Hardened_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -17,12 +17,14 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | weight | 1 |
 | innate stats | +5 Health, +1 Uncommon Pips |
 | innate talent | Tenacity |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 2,300 |
 | description | A sturdy helmet shaped like a barrel. |
+
+Variants: [Barrel Helm](Barrel_Helm.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

@@ -1,10 +1,11 @@
 ---
 title: Deepwoken Battlegrounds
-revid: 151318
+revid: 189815
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Battlegrounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, "April Fools' Day events", Events]
+categories: [Event Only Content, Stub pages without reason, StubPages, "April Fools' Day events", Events]
 notices:
+  - "This page contains Event Exclusive Content This page contains content that was only present during an event, and was removed after. It may come back during seasonal times or re-runs."
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 

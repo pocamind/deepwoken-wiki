@@ -1,6 +1,6 @@
 ---
 title: "Veteran Ranger's Boots"
-revid: 186682
+revid: 189997
 source: https://deepwoken.fandom.com/wiki/Veteran_Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
@@ -19,10 +19,10 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | innate talent | Conditioning |
 | set | Veteran Ranger's Brace, Veteran Ranger's Boots |
 | set talent | Hunting Trap |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Sold in Naan Zakshun's black market for 3,000 |
 | description | ... |
 
