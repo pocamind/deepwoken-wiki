@@ -1,9 +1,9 @@
 ---
 title: Jungle Jim
-revid: 189696
+revid: 189731
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages]
+categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages, Individuals with unspecified pronouns]
 notices:
   - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
   - This page is currently being worked on. Some things may be incomplete.

@@ -1,6 +1,6 @@
 ---
 title: Captain Solaire
-revid: 185704
+revid: 189761
 source: https://deepwoken.fandom.com/wiki/Captain_Solaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies, Enemies that can wield Enchantments, Central Authority Enemies]
@@ -12,21 +12,21 @@ notices:
 
 | Captain Solaire | |
 |---|---|
-| health | 7000 |
+| health | ??? |
 | drops | Armorer's Needle, Override Key, Master Key, Release Key |
 | weapon | Warden's Ceremonial Sword |
 | moves | Assault, Critical Attack, Cannon Call, Lightning Assault, Lightning Stream, Rising Thunder, Fleeting Sparks |
 
 | Captain Solaire | |
 |---|---|
-| health | ? |
+| health | ??? |
 | drops | Armorer's Needle, Override Key, Master Key, Release Key |
 | weapon | Alloyed Adretian Axe |
 | moves | Assault, Critical Attack, Ash Slam, Flame Blind, Flame Grab, Flame Scourge, Fire Blade, Rising Flame |
 
 | Captain Solaire | |
 |---|---|
-| health | ? |
+| health | ??? |
 | drops | Armorer's Needle, Override Key, Master Key, Release Key |
 | weapon | Sovereign's Punishment |
 | moves | Assault, Critical Attack, Lightning Beam, Lightning Clones, Grand Javelin, Lightning Stream, Electro Carve, Lightning Blade, storm blades, Emotion Wave |
@@ -282,8 +282,8 @@ Captain Solaire executes their opponent after knocking them:
 
 -   Assassinate them to deal major damage.
 -   Avoid being hit by their M1s or Critical Attacks, as they will do major damage to even the tankiest of builds.
--   Their AI is extremely intelligent, however they cannot parry most [Mantras](Mantras.md), especially multi-hit Mantras, use this to your advantage.
--   Their weapons can be enchanted with 2 separate enchantments.
+-   Their AI is extremely intelligent, however they cannot parry most [Mantras](Mantras.md), especially multi-hit Mantras. Use this to your advantage.
+-   Their weapons can be enchanted with two separate enchantments.
 
 ## Trivia
 

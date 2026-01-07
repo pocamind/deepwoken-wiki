@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 186606
+revid: 189743
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -10213,7 +10213,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed certain Kyrsan encounters in New Kyrsa occasionally breaking  
 • Fixed the controls saying X for gesture instead of K  
   
-(crab crab is the canonical name for the crab grab
+(crab crab is the canonical name for the crab grab)
 
 ## **June 19th, 2023**
 

@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 184066
+revid: 189758
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -8,17 +8,17 @@ categories: [The Depths, Layer 1]
 
 # Shrine of Courage
 
-| Shrine of Courage | |
-|---|---|
-| location | Cathedral of the Interstice |
-
 _Not to be confused with [Deep Shrines](Deep_Shrines.md) or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
+
+Template:NpcInfobox
 
 ## Description
 
-The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue will significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 full training points when completed in exchange. If done with multiple players the reward is split between the people. **The Shrine of Courage can only be used once if you have completed it.**
+The Shrine of Courage is a statue found in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md). Interacting with it and choosing the \[Prove yourself\] dialogue will significantly increases the difficulty of [The Depths](The_Depths.md) trial, but grants 15 full training points when completed in exchange. If done with multiple players the reward is split between the people.
 
-## Trial Information
+The Shrine of Courage can only be used once if you have completed it.
+
+### Trial Information
 
 <table><caption></caption>
 <tbody>
@@ -67,7 +67,7 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
   <td>YOU SHALL BE TESTED.</td>
 </tr>
 <tr>
-  <td>End, your next Depths Trial will be harder.</td>
+  <td>[End Dialogue], your next Depths Trial will be harder.</td>
 </tr>
 </tbody>
 </table>
@@ -83,11 +83,11 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
   <td><i>*The voice hums its approval... Of your proven strength...*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Deepbounds who are power 9 and under still get an enforcer when using this shrine, effectively giving them the 15 free points without the need to do a harder trial.
+-   Deepbounds who are Power 9 and under still get an Enforcer when using this shrine, effectively giving them the 15 free points without the need to do a harder trial.

@@ -1,6 +1,6 @@
 ---
 title: Kite Shield
-revid: 189466
+revid: 189734
 source: https://deepwoken.fandom.com/wiki/Kite_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Shields, Offhand]
@@ -30,6 +30,7 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 
 A Kite Shield is a side weapon under the “Shield” category.
 
-## Notes
+## Trivia
 
 -   Model resembles a typical knight's shield.
+-   This shield is considered an Authority Faction Item despite being both depicted as universally used by many factions and lacking any connections to [The Central Authority](The_Central_Authority.md).

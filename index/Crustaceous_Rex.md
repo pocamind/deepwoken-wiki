@@ -1,9 +1,9 @@
 ---
 title: Crustaceous Rex
-revid: 179573
+revid: 189747
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Monsters]
+categories: [Pages with reference errors, Monsters]
 ---
 
 # Crustaceous Rex
@@ -12,7 +12,7 @@ categories: [Pages with broken file links, Monsters]
 
 ― Inquisitor's Thorn Description
 
-Template:Creature Infobox V3_Also known as **King Crab** or just simply **Crab.**_
+Template:Creature Infobox V3 _Also known as **King Crab** or just simply **Crab.**_
 
 ## Description
 
@@ -34,7 +34,7 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
  |  |
 | 
 
-**Crab Crab**[\[1\]](#cite-note-crabcrab-1)  
+**Crab Crab**<[\[1\]](#cite-note-crabcrab-1)  
 (★★★)
 
  | The Crustaceous Rex raises its **Right Claw** and crabs its foe, crushing and dealing medium damage.
@@ -82,9 +82,9 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 -   Likely inspired by "Giant Crab" from Darksouls 3
     -   Is an almost exact copy of the foam spray, also having a slow effect when hit
 -   The crab tends to glitch itself into objects, mainly by its claws, which makes it easier to deal with.
--   The crab's Crab is canonically named how it is. It wasn't a spelling mistake. It is not that the developer's intended to say Crab Crab, as all the other moves were referred to as a grab, but instead misspelled Grab, thus making it lore to cover up their mistake.[\[1\]](#cite-note-crabcrab-1)
+-   The crab's Crab is canonically named how it is. It wasn't a spelling mistake. It is not that the developer's intended to say Crab Crab, as all the other moves were referred to as a grab, but instead misspelled Grab, thus making it lore to cover up their mistake. No siree.[\[1\]](#cite-note-crabcrab-1)
 -   It is mentioned in the description of the [Inquisitor's Thorn](<Inquisitor's_Thorn.md>).
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-crabcrab-1-0) [1.1](#cite-ref-crabcrab-1-1) File:ThisTrulyWasACrabCrab.png
+1.  ↑ [1.0](#cite-ref-crabcrab-1-0) [1.1](#cite-ref-crabcrab-1-1) Cite error: Invalid `<ref>` tag; no text was provided for refs named `CrabCrab`

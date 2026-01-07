@@ -1,24 +1,26 @@
 ---
 title: Ministry Agent
-revid: 176725
+revid: 189730
 source: https://deepwoken.fandom.com/wiki/Ministry_Agent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Enemies, The Ministry, Ministry Enemies]
+categories: [Celtor NPCs, Individuals with They/them pronouns, NPCs, Enemies, Ministry Enemies]
 ---
 
 # Ministry Agent
 
 | Ministry Agent | |
 |---|---|
-| health | 14,000 |
+| health | 14000 |
 | drops | If entered via Silhuett, Deepspindle, Darkened Bastion, Deepscorn CasqueOtherwise:, No Direct Drops |
 | weapon | Deepspindle |
+| aspect | Celtor |
+| pronouns | They/them[1] |
 
 ## Description
 
-The Ministry Cache Agent is an NPC located inside of [The Understrand](The_Understrand.md). He can be found by using [Shadow Travel](Talents.md)/[Shadow's Flight](<Shadow's_Flight.md>) near [Silhuett](Silhuett.md), who spawns randomly around the [First Layer](First_Layer.md) or at chance by using [Shadow Travel](Talents.md)/[Shadow's Flight](<Shadow's_Flight.md>) on an area that is glowing with an ominous purple light.
+The Ministry Cache Agent is an NPC located inside of [The Understrand](The_Understrand.md). They can be found by using [Shadow Travel](Talents.md)/[Shadow's Flight](<Shadow's_Flight.md>) near [Silhuett](Silhuett.md), who spawns randomly around the [First Layer](First_Layer.md) or at chance by using [Shadow Travel](Talents.md)/[Shadow's Flight](<Shadow's_Flight.md>) on an area that is glowing with an ominous purple light.
 
-If you have Ally reputation or higher with [The Ministry](The_Ministry.md), he will hand over the [Deepspindle](Deepspindle.md), a [Deepscorn Casque](Deepscorn_Casque.md) and the [Darkened Bastion](Darkened_Bastion.md) without a fight. This only applies via [Silhuett](Silhuett.md) encounters, however. Repeat encounters with the ally method via Silhuett will only grant one of the items from the set instead of all three.
+If you have Ally reputation or higher with [The Ministry](The_Ministry.md), they will hand over the [Deepspindle](Deepspindle.md), a [Deepscorn Casque](Deepscorn_Casque.md) and the [Darkened Bastion](Darkened_Bastion.md) without a fight. This only applies via [Silhuett](Silhuett.md) encounters, however. Repeat encounters with the ally method via Silhuett will only grant one of the items from the set instead of all three.
 
 ## Dialogue
 
@@ -63,13 +65,13 @@ If you have Ally reputation or higher with [The Ministry](The_Ministry.md), he w
 </tbody>
 </table>
 
-## Dialogues when you grip him
+## Dialogues when you grip
 
 Curse you!
 
 ## Moves
 
-The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shadowcast](Shadowcast.md) mantras.
+The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shadowcast](Shadowcast.md) Mantras.
 
 | Name/Danger | Description |
 | --- | --- |
@@ -141,7 +143,11 @@ The Agent wields the [Deepspindle](Deepspindle.md) along with a variety of [Shad
 
 ## Trivia
 
--   You must beat him within 5 minutes, otherwise you will be teleported out of the Understrand.
+-   You must beat them within 5 minutes, otherwise you will be teleported out of the Understrand.
 -   Burning the Agent to death will cause nothing to drop, instead after four sorry seconds you will be sent back.
-    -   Strangely enough, burning the Agent with twisted puppets causes him to get up, supposedly with half his health back, like how Phoenix Flames works.
--   The Agent is also a [Celtor](Celtor.md), as markings can be observed on his face.
+    -   Strangely enough, burning the Agent with Twisted Puppets causes them to get up, supposedly with half their health back, like how Phoenix Flames works.
+-   The Agent is also a [Celtor](Celtor.md), as markings can be observed on their face.
+
+## References
+
+1.  [↑](#cite-ref-1) [Silhuett](Silhuett.md)

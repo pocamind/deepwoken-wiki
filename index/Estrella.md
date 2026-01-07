@@ -1,29 +1,24 @@
 ---
 title: Estrella
-revid: 181799
+revid: 189742
 source: https://deepwoken.fandom.com/wiki/Estrella
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Individuals with unspecified pronouns]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Estrella
 
-| Estrella | |
-|---|---|
-| name | Estrella |
-| aspect | Etrean |
-| location | Meteor Isle |
-| affiliation | ? |
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Estrella is a [Etrean](Etrean.md) NPC. She sells basic starter weapons.
+Estrella is an [Etrean](Etrean.md) NPC. They sell basic starter weapons.
 
 ## Location
 
@@ -89,7 +84,7 @@ The Armorer's Arms
   [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

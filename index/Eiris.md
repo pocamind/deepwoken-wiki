@@ -1,9 +1,9 @@
 ---
 title: Eiris
-revid: 189651
+revid: 189751
 source: https://deepwoken.fandom.com/wiki/Eiris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Random Encounters]
+categories: [NPCs, Random Encounters, The Knives of Eylis]
 ---
 
 # Eiris
@@ -16,9 +16,11 @@ Template:NpcInfobox
 
 ## Description
 
-Eiris is an NPC that you must speak to in order to unlock the [Voidwalker](Voidwalker.md) Origin. After meeting the requirements of gripping 5 non-allied players on a single slot (Chimes of Conflict counts as 0.5 of a grip), you may find them resting against the mast under the dock of the non-burning boat (which flies red flags) during the [Knives of Eylis vs Kingdom of Etrea random event](Random_Encounters.md#fights-between-factions).
+Eiris is an [Etrean](Etrean.md) NPC. Eiris became a member of [The Knives of Eylis](The_Knives_of_Eylis.md) in order to acquire money to keep an unknown individual safe. However, he soon found himself unable to cope with the murderous lifestyle and appears to have developed perpetrator trauma as a result.
 
-## Dialouge
+The Pathfinder must speak to him in order to unlock the [Voidwalker](Voidwalker.md) Origin. After meeting the requirements of gripping 5 non-allied players on a single slot (Chimes of Conflict counts as 0.5 of a grip), you may find them resting against the mast under the dock of the non-burning boat (which flies red flags) during the [Knives of Eylis vs Kingdom of Etrea random event](Random_Encounters.md#fights-between-factions).
+
+## Dialogue
 
 **First Encounter:**
 
@@ -40,7 +42,7 @@ Eiris is an NPC that you must speak to in order to unlock the [Voidwalker](Voidw
 </tr>
 <tr>
   <td colspan="6">Contract?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">We're... bound by Eylis, and her Void... It's too much. Too much. I've told you too much...</td>
@@ -52,7 +54,7 @@ Eiris is an NPC that you must speak to in order to unlock the [Voidwalker](Voidw
   <td colspan="6">No... simply knowing of her Void is too much. Please, avoid her Knives from now. At all costs. If you're affected by her power, your knowledge of it will give her an opportunity... Please, it's not worth it. Just go. Please...</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -74,11 +76,11 @@ Eiris is an NPC that you must speak to in order to unlock the [Voidwalker](Voidw
   <td><i>*He recoils, whimpering.*</i> You took the <a href="Glossary.md#vows">Vow</a> too, you signed the Contract!... Eylis tampers with things no one should... You're as doomed as I... It's all too much...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Their aspect variant is File.
+-   His aspect variant is File.
