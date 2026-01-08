@@ -1,14 +1,12 @@
 ---
 title: Evengarde Rest
-revid: 190187
+revid: 190213
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
 ---
 
 # Evengarde Rest
-
-Variants: [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -41,7 +39,7 @@ Haven't done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-ques
   <td colspan="12"><i>*A chilling wind seems to pick up within the room as you approach the man. Something in your gut tells you now isn't the time to introduce yourself.*</i></td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -80,7 +78,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
   <td colspan="3">Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has Etrea been subject to the whims of others. Be that the Ministry or the <a href="Glossary.md#the-central-authority">Authority</a>...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -137,7 +135,7 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">I'll do it.</td>
 </tr>
 <tr>
-  <td colspan="12">End, player is teleported into the dungeon</td>
+  <td colspan="12">[End Dialogue], player is teleported into the dungeon</td>
 </tr>
 </tbody>
 </table>
@@ -165,7 +163,7 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">Let's see how your skills have improved, eh?</td>
 </tr>
 <tr>
-  <td colspan="12">End, player is teleported into the dungeon</td>
+  <td colspan="12">[End Dialogue], player is teleported into the dungeon</td>
 </tr>
 </tbody>
 </table>

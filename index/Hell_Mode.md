@@ -1,9 +1,9 @@
 ---
 title: Hell Mode
-revid: 176856
+revid: 190232
 source: https://deepwoken.fandom.com/wiki/Hell_Mode
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Mechanics, The Depths]
+categories: [Pages with broken file links, Mechanics, The Depths]
 ---
 
 # Hell Mode
@@ -12,7 +12,9 @@ categories: [Mechanics, The Depths]
 
 ― Karthal
 
-Template:Areainfobox
+File:Hellbell new.png
+
+The Hell Bell, found south of [Castle Light](Castle_Light.md).
 
 ## Description
 

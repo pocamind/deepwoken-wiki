@@ -1,6 +1,6 @@
 ---
 title: Mantra Collector
-revid: 186890
+revid: 190219
 source: https://deepwoken.fandom.com/wiki/Mantra_Collector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, NPCs, Vendors]
@@ -14,7 +14,7 @@ notices:
 
 ― Mantra Collectors
 
-Template:NPC name
+Template:NpcInfobox
 
 **Mantra Collectors** are NPCs that can be found in settlements that will purchase your [Mantra Modifiers](Mantra_Modifiers.md), [Gems](Treasures.md), and attunement items such as [Dying Embers](Dying_Embers.md).
 

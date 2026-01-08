@@ -1,6 +1,6 @@
 ---
 title: Summer Isle
-revid: 181402
+revid: 190202
 source: https://deepwoken.fandom.com/wiki/Summer_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Locations, Locations in the Eastern Luminant]
@@ -282,12 +282,10 @@ Items and equipment that can be obtained from loot chests.
 -   The Summer Isle Cannon can be clipped into, which once allowed for it to be picked up, prior to it being patched.[\[1\]](#cite-note-1)
 -   The music for this area is [Of Smoke And Steel](Deepwoken_OST.md#of-smoke-and-steel) by Naktigonis
 -   The combat music for this area is [One For All, All For Gun](Deepwoken_OST.md#one-for-all-all-for-gun) by Naktigonis
--   Nepo's name may be a pun on Nepotism, which is gaining preference in society through relatives or friends, and is also referenced in a Talent card related to Reputation.
 -   The only place to buy guns in Eastern Luminant.
 -   [The Meat Lord](The_Meat_Lord.md) has a chance to spawn here.
 -   When a player with bad reputation comes near Summer Isle, the big cannon will activate, giving a warning sound. Then, the cannon will shoot after 3–5 seconds.
 -   The location may be a reference to the historic [Somers Isles Company](https://en.wikipedia.org/wiki/Somers_Isles_Company) and Somers Isles which is now more commonly known as [Bermuda](https://en.wikipedia.org/wiki/Bermuda).
--   Often recognized as the island with the most "drip" (Cosmetic) [Equipment](Equipment.md) in the game.
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 190186
+revid: 190206
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -10,12 +10,12 @@ categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
 
 | Maestro Evengarde Rest | |
 |---|---|
-| health | 15,000 |
+| health | 15000 |
 | drops | Large chest, Purple Cloud (Guaranteed on the first kill with Medium), Pale Briar (Guaranteed on first kill with Heavy), Cerulean Thread (Guaranteed on first kill with Light), Windrunner Robes, Wyrmtooth, Curved Blade of Winds, Crypt Blade, Imperial Staff, Drops Smith's Alloy, Sinner's Ash and Armorer's Needle, Misc. (See Lootpool) |
 | weapon | Shattered Katana |
 | challenges | -- Maestro Evengarde Rest --, Sparring Buddy - Slay 10.Reward: +5% DMG; +2.5% RES |
 
-Variants: [Maestro Evengarde Rest (npc)](Evengarde_Rest.md)
+Variants: [Evengarde Rest](Evengarde_Rest.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -328,7 +328,7 @@ Exhaustive Loot Table
   <td>Let's begin.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -349,7 +349,7 @@ This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https:/
   <td>Let's begin.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

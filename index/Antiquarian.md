@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 177066
+revid: 190218
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -8,7 +8,7 @@ categories: [NPCs, Vendors]
 
 # Antiquarian
 
-Template:NPC name
+Template:NpcInfobox
 
 **Antiquarians** are NPCs that will purchase various items and they can be found in settlements.
 

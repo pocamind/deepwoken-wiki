@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 190193
+revid: 190215
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Maestros of the Vigils, Circle of Honour members]
@@ -11,7 +11,7 @@ notices:
 
 # Maestro Alkhurst Legato
 
-Variants: [Maestro Evengarde Rest](Evengarde_Rest.md)
+Variants: [Evengarde Rest](Evengarde_Rest.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
