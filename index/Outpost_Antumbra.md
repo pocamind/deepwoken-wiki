@@ -1,9 +1,9 @@
 ---
 title: Outpost Antumbra
-revid: 183712
+revid: 190161
 source: https://deepwoken.fandom.com/wiki/Outpost_Antumbra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the Etrean Luminant, The Ministry]
+categories: [Locations, Locations in the Etrean Luminant, Territory of The Ministry]
 ---
 
 # Outpost Antumbra

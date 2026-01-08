@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 190150
+revid: 190198
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1015,7 +1015,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Muffled Screams \[Common Talent, Agility\] - You quieten the cries of help of those you execute, reducing the distance at which their allies will hear it and come to assist, and reducing the effectiveness of Talents that slow your executions. (+1 Passive Agility)
     -   NPCs have a shortened aggro range from gripping allies in proximity.
-    -   Defiant Until The End and Last Second Negotiation affect your grip speed less.
+    -   Defiant Until The End and Last Second Negotiations affect your grip speed less.
     -   Prerequisite: 50 Agility
 
 ### Darksiphon
@@ -1651,7 +1651,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This Talent is bugged and procs on ALL guard breaks, including those from Mantras, non-critical attacks, or entirely different weapons.
     -   Prerequisites: 50 Medium Weapon, Club equipped
 
--   Dispatch \[Common Talent, Medium Weapon\] - Clubs Bear Trapped targets deal 20% less posture. Dazed targets deal 20% less posture. This can stack.
+-   Dispatch \[Common Talent, Medium Weapon\] - Clubs Bear Trapped targets deal 20% less posture. [Dazed](Status_Effects.md#dazed) targets deal 20% less posture. This can stack.
     -   Prerequisites: Bear Trap, 55 Medium Weapon, Club equipped
 
 -   Hammerfall \[Common Talent, Medium Weapon\] - Clubs Aerial attacks do 25% more posture damage when blocked.
@@ -2231,7 +2231,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Defiant until the End \[Common Talent, Willpower\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
     -   Players with this Talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
-    -   Stacks with Last Second Negotiation. (with both a grip takes about 6.5 seconds)
+    -   Stacks with Last Second Negotiations (with both a grip takes about 6.5 seconds).
     -   Prerequisite: 20 Willpower
 
 -   Last Resort \[Common Talent, Willpower\] - Deal +5% more damage when your health is below 25%. (+10 Sanity)
@@ -2341,7 +2341,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Merchant
 
 -   Art of the Deal \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your rapport with merchants gives you lower prices!
-    -   Reduces an item's price by about 12%.
+    -   Reduces an item's purchase price by 10%.
     -   Obtained by equipping an [Aristocrat Coat](Aristocrat_Coat.md).
 
 ### Metallurgist
@@ -2954,7 +2954,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 35 Ironsing
 
 -   Artisan's Blade \[Common Talent, Ironsing\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
-    -   Has base DMG of 8 and Scaling 5 (Formula to calculate Scaled DMG: "base damage \* (1 + (scaling/10) \* (investment / 100))")
+    -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 + 0.04 \* Ironsing investment.
     -   Has 6.47x PVE scale (10 DMG PVP, 64.70 PVE DMG)
     -   Artisan's blade have windup of 1.2s
     -   Artisan's Blades **ARE** **NOT AFFECTED** by DMG mods at **ALL**
@@ -3330,10 +3330,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Each active link reduce mantra ether cost by 30%.
     -   Prerequisites: Static Link, 65 Thundercall
 
--   Static Ace \[Common Talent, Thundercall\] - Using Lightning Stream with an active tether link targets your closest active link.
+-   Static Ace \[Common Talent, Thundercall\] - Using [Lightning Stream](Thundercall.md#lightning-stream) with an active tether link targets your closest active link.
     -   Using Lightning Stream with a tether will instantly grab the target with no travel time.
     -   Actually target the first active tether, not the closest.
-    -   Prerequisites: Static Link, 70 Thundercall
+    -   Prerequisites: [Lightning Stream](Thundercall.md#lightning-stream) (Mantra), Static Link, 70 Thundercall
 
 -   Static Allure \[Common Talent, Thundercall, Intelligence\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
     -   Prerequisites: Static Link, 50 Thundercall, 15 Intelligence
@@ -3365,7 +3365,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Voltaic Conductor \[Common Talent, Dual Attunement, Ironsing, Thundercall\] - Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
     -   Prerequisites: Rending Needle: Conductor, 40 Thundercall, 75 Ironsing
-    -   Doesn't work on Iron Tether because it goes through guard.
 
 ### Survival Instinct
 
@@ -3514,7 +3513,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### The Negotiator
 
--   Last Second Negotiation \[Common Talent, Charisma\] - Most enemies will hesitate a moment longer to execute you.
+-   Last Second Negotiations \[Common Talent, Charisma\] - Most enemies will hesitate a moment longer to execute you.
     -   Whenever you are getting gripped, your character will say "WAIT WAIT WAIT WAIT!!!", which has a chance to automatically cancel the grip attempt, forcing the target to attempt a grip again. This also slightly slows down the grip attempt.
         -   Does not work in PVE.
     -   Prerequisites: 55 Charisma, Friends in High Places, Snake Oil, Golden Tongue
@@ -3538,10 +3537,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Pickpocket, 25 Charisma
 
 -   _**Another Man's Trash**_ \[Advanced Talent, Agility, Charisma\] - Take unequipped [equipment](Equipment.md) when mugging a player. (+2 Passive Agility)
-    -   Prerequisites: 10 Agility, 35 Charisma, All Thief Talents
-    -   Cap Artist requires 25 Agility despite the 10 Agility requirement of this Talent.
-    -   If the player you are mugging doesn't have any notes, you will still take any unequipped equipment.
-    -   Does not take enchanted items.
+    -   If the player you are mugging doesn't have any Notes, you will still take any unequipped equipment.
+    -   Does not take enchanted or Soulbound items.
+    -   Prerequisites: 10 Agility, 35 Charisma, All Thief Talents.
 
 ### Thunder Brawler
 
@@ -3925,7 +3923,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Waterborne
 
 -   Conditioned Swimmer \[Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
-    -   Prerequisite: [Power](Power.md) 1
 
 -   _Scuba Drowner_ \[Rare Talent\] - You won't always drown to death when downed in water. (+3 Passive Agility, +5 Health)
     -   Prevent death by drowning.
@@ -4014,10 +4011,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
 
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
-    -   Prerequisite: [Power](Power.md) 1
 
 -   Ready or Not \[Common Talent, Fortitude\] - The first attack to hit you while out of combat has its damage cut in half.
-    -   Prerequisites: [Power](Power.md) 1, 20 Fortitude
+    -   Prerequisite: 20 Fortitude
 
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture from downing enemies.
     -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).

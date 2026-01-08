@@ -1,6 +1,6 @@
 ---
 title: Lumensplitter
-revid: 189701
+revid: 190194
 source: https://deepwoken.fandom.com/wiki/Lumensplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -26,9 +26,9 @@ categories: [Weapons, Weapons with Unique Criticals, Greatswords, Heavy Weapons,
 | rarity | Mythical |
 | selling price | 100 |
 | weight | 2 |
-| bankable | yes |
-| droppable | yes |
-| enchantable | Yes |
+| bankable | Yes |
+| droppable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | The Doom of Caeranthil |
 | description | ... |

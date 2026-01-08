@@ -1,17 +1,14 @@
 ---
 title: ??? (Coral Clump)
-revid: 177114
+revid: 190157
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Layer]
+categories: [NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]
 ---
 
 # ??? (Coral Clump)
 
-| ??? (Coral Clump) | |
-|---|---|
-| species | Mudskipper |
-| location | Celtor Wastes |
+Template:NpcInfobox
 
 ## Description
 
@@ -19,7 +16,7 @@ categories: [NPCs, NPCs located in the First Layer]
 
 ## Location
 
-He resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The_Depths.md), in [Celtor Wastes](Celtor_Wastes.md). You can find him near the Widow's Cave entangled in a clump of coral.
+It resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The_Depths.md), in [Celtor Wastes](Celtor_Wastes.md). You can find it near the Widow's Cave entangled in a clump of coral.
 
 ## Dialogue
 
@@ -51,5 +48,5 @@ He resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The
 
 ## Trivia
 
--   He gives a lot of lore about [Mudskippers](Mudskipper.md), implying that they are simply beings that, like the [Celtorian Guards](Celtorian_Guard.md), lost themselves to [The Depths](The_Depths.md). He is currently undergoing this phase, seen by his wheezing and him "letting it all go by".
--   His skin tone is slightly darker compared to other Mudskippers, and uses what seems to be an [Etrean](Etrean.md) face rather than a Mudskipper's face.
+-   It gives a lot of lore about [Mudskippers](Mudskipper.md), implying that they are simply beings that, like the [Celtorian Guards](Celtorian_Guard.md), lost themselves to [The Depths](The_Depths.md). It is currently undergoing this phase, seen by its wheezing and him "letting it all go by".
+-   Its skin tone is slightly darker compared to other Mudskippers, and uses what seems to be an [Etrean](Etrean.md) face rather than a Mudskipper's face.

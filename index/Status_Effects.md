@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 189598
+revid: 190152
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -607,6 +607,10 @@ While affected by Paused Posture, your posture cannot be restored from passive p
 ### Last Resort
 
 Gain +5% damage when your health is below 25%. This effect is applied through the [Last Resort](Talents.md#last-resort) Talent and is signified by orange and red swirling particles on your character's arms.
+
+### Rapid Fire
+
+Upon landing a Pistol critical while having the [Rapid Fire](Talents.md#rapid-fire) Talent, gain the Rapid Fire status effect for 2 seconds. While active, your critical attack will not have a cooldown. This effect can be enhanced with the [Ultrakill](Talents.md#ultrakill) Talent, doubling your reload speed during Rapid Fire. This effect has no visual indication when active.
 
 ### Gone Berserk
 

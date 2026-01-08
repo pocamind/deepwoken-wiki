@@ -1,24 +1,18 @@
 ---
 title: Samnang
-revid: 189797
+revid: 190165
 source: https://deepwoken.fandom.com/wiki/Samnang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Quests, Clan Mofisu]
+categories: [Vow of Iron Exclusive, NPCs, Quests, Clan Mofisu]
 ---
 
 # Samnang
 
-| Samnang | |
-|---|---|
-| name | Samnang |
-| aspect | Etrean |
-| location | The Lordsgrove |
-| affiliation | Clan Mofisu |
-| family | Clan Mofisu, Sophon (brother) |
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 

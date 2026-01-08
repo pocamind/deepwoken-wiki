@@ -1,9 +1,9 @@
 ---
 title: "Nell, Master of Frost"
-revid: 187565
+revid: 190166
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant, Individuals with They/them pronouns]
 ---
 
 # Nell, Master of Frost
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 Nell is an NPC who acts as both the [Frostdraw](Frostdraw.md) trainer and progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md).
 
-In order to obtain [Frostdraw](Frostdraw.md), you must bring 5 [Frigid Prisms](Frigid_Prism.md) to Nell. (Note: You'll only need 2 Frigid Prisms if it's your first attunement obtained manually.) Alternatively, if you have obtained the Silentheart Oath, you must kill her in order to get one of six Oath Talents. She is found near the guildhouse (follow the path to the right) in [Etris](Etris.md).
+In order to obtain [Frostdraw](Frostdraw.md), you must bring 5 [Frigid Prisms](Frigid_Prism.md) to Nell. (Note: You'll only need 2 Frigid Prisms if it's your first attunement obtained manually.) Alternatively, if you have obtained the Silentheart Oath, you must kill them in order to get one of six Oath Talents. They are found near the guildhouse (follow the path to the right) in [Etris](Etris.md).
 
 ## Moveset
 
@@ -43,7 +43,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 **Critical**  
 (★★☆)
 
- | Spins her axe with rapid succession, freezing the floor and sending her and her opponent into the air.
+ | Spins their axe with rapid succession, freezing the floor and sending them and their opponent into the air.
 
  |
 | 
@@ -51,7 +51,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 **Iceberg**  
 (★☆☆)
 
- | Nell encases herself in ice and starts to recover health, hitting her in this state causes her to parry that attack and ends this Mantra.
+ | Nell encases herself in ice and starts to recover health, hitting theirin this state causes theirto parry that attack and ends this Mantra.
 
  |
 | 
@@ -59,7 +59,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 **Ice Lance**  
 (★☆☆)
 
- | Nell summons a lance and rushes towards the opponent. She rarely uses this in close combat, only using it to catch out of range opponents.
+ | Nell summons a lance and rushes towards the opponent. They rarely use this in close combat, only using it to catch out of range opponents.
 
  |
 | 
@@ -67,7 +67,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 **Dread Breath**  
 (★☆☆)
 
- | Nell fires off a frost beam from her mouth, dealing constant damage and spreading ice around.
+ | Nell fires off a frost beam from theirmouth, dealing constant damage and spreading ice around.
 
  |
 | 
@@ -75,7 +75,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 **Ice Eruption**  
 (★★☆)
 
- | Nell stomps the ground, causing large ice to form in front of her and encasing opponents.
+ | Nell stomps the ground, causing large ice to form in front of theirand encasing opponents.
 
  |
 | 
@@ -83,7 +83,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 **Warden's Blades**  
 (★☆☆)
 
- | Nell summons 4 rotating blades around her that deals constant damage and ends with them becoming a projectile.
+ | Nell summons 4 rotating blades around theirthat deals constant damage and ends with them becoming a projectile.
 
  |
 | 
@@ -91,7 +91,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 **Rising Frost**  
 (★★☆)
 
- | Nell summons a glaive of ice and does a barrage attack that raises both her and the opponent into the air.
+ | Nell summons a glaive of ice and does a barrage attack that raises both theirand the opponent into the air.
 
  |
 | 
@@ -109,7 +109,7 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 
  | Nell throws 3 small ice daggers that auto tracks into the opponent, Freezing them if they're standing on ice.
 
--   She mostly uses these when she is out of range for her other moves or when she wants to trick the opponent after she gets parried.
+-   They mostly use these when they are out of range for theirottheirmoves or when they want to trick the opponent after they get parried.
 
  |
 | 
@@ -140,21 +140,21 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 ### Talents
 
 -   _Unyielding Frost_ - Nell can proc Chill through block, but chill procced this way has a 20% shorter duration.
--   _Perfect Flash_ - If Nell has full Health, her Mantras do 25% more damage.
--   _Impervious Slumber_ - If Nell gets hit while knocked, her knocked timer isn't reset.
+-   _Perfect Flash_ - If Nell has full Health, theirMantras do 25% more damage.
+-   _Impervious Slumber_ - If Nell gets hit while knocked, theirknocked timer isn't reset.
 -   _Frozen Legs_ - Nell's Chill effect prevents rolling for a short duration.
 -   _Saint Jay_ - If a Chilled enemy receives a heal it's then redirected to Nell instead. While this is active and they're on ice, Nell's healing is increased.
 -   _Frostbite_ - Enemies no longer heal under Chill effect.
 -   _Fragile Freeze_ - Getting blockbroken by Nell's Light Attack or Critical will apply Frozen to you
 -   _Chilling Flourish_ - If Nell flourishes an enemy, they leave behind a trail of ice.
--   _Cool Head_ - If Nell is inflicted with Burn while standing on ice, she will immediately put it out and gain immunity against Burn for a set amount of time.
+-   _Cool Head_ - If Nell is inflicted with Burn while standing on ice, they will immediately put it out and gain immunity against Burn for a set amount of time.
 -   _Cold Front_ - Nell's vents inflicts Chilled.
--   _Orbital Ice_ - Whenever Nell parries while standing on ice, she gains breakable armor that gives 15% damage resistance.
+-   _Orbital Ice_ - Whenever Nell parries while standing on ice, they gain breakable armor that gives 15% damage resistance.
 -   _Bottom Freeze_ - If Nell hits a Chilled enemy with projectile while they are on ice, Freeze them to the ground.
 
 ### Finisher
 
-Nell executes her opponent after knocking them:
+Nell executes theiropponent after knocking them:
 
 | Name | Description |
 | --- | --- |
@@ -276,13 +276,13 @@ Nell executes her opponent after knocking them:
 
 ## Trivia
 
--   Both she and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
-    -   If they are indeed [Divers](The_Divers.md), this would make she and Funke two of the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md), excluding [Coldheart Fortinbras](Coldheart_Fortinbras.md).
-    -   Her having Dread Breath might confirm her status as a Black Diver, as [Dr Carrion](Carrion,_Father_of_Evolution.md) is the only NPC present that can give [Monster Mantras](Monster_Mantras.md).
--   Her eyes are unique, having a dark blue sclera similar to that of the [Hallowtide](Hallowtide.md) variant of the [Adret](Adret.md) aspect.[\[2\]](#cite-note-2) The only other NPC that shares these eyes is [Coldheart Fortinbras](Coldheart_Fortinbras.md).
--   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so she has a unique, legendary weapon when she's fought.[\[3\]](#cite-note-3)
+-   Both they and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
+    -   If they are indeed [Divers](The_Divers.md), this would make then and Funke two of the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md), excluding [Coldheart Fortinbras](Coldheart_Fortinbras.md).
+    -   Them having Dread Breath might confirm theirstatus as a Black Diver, as [Dr Carrion](Carrion,_Father_of_Evolution.md) is the only NPC present that can give [Monster Mantras](Monster_Mantras.md).
+-   Their eyes are unique, having a dark blue sclera similar to that of the [Hallowtide](Hallowtide.md) variant of the [Adret](Adret.md) aspect.[\[2\]](#cite-note-2) The only ottheirNPC that shares these eyes is [Coldheart Fortinbras](Coldheart_Fortinbras.md).
+-   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so they have a unique, legendary weapon when they're fought.[\[3\]](#cite-note-3)
 -   Nell used to have [Rapid Punches](Attunement-less.md#rapid-punches) before the NPC Mantra changes.
--   Unlike most [Attunement Trainers](Attunement_Trainers.md), she can be aggroed, seen during the [Etris Raid](Cinders_of_Etris.md) event occasionally fighting off Authority troops if they somehow get to her.
+-   Unlike most [Attunement Trainers](Attunement_Trainers.md), they can be aggroed, seen during the [Etris Raid](Cinders_of_Etris.md) event occasionally fighting off Authority troops if they somehow get to her.
 
 ## References
 

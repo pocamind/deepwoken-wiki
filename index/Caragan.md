@@ -1,20 +1,12 @@
 ---
 title: Caragan
-revid: 186814
+revid: 190170
 source: https://deepwoken.fandom.com/wiki/Caragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Caragan
-
-| Caragan | |
-|---|---|
-| name | Caragan |
-| aspect | Etrean |
-| location | Etris |
-| affiliation | Etrea |
-| family | Baragan (brother), Unnamed grandfather (deceased), Unnamed father (deceased), Unnamed children |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ It's the same reason so many people remain here - tradition. ”
 
 ― Caragan
+
+Template:NpcInfobox
 
 ## Description
 

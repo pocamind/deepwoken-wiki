@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 190110
+revid: 190200
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
@@ -209,7 +209,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>. <font>Stormseye</font>, <font>Red Death</font>, <font>Purple Cloud</font>, <font>Hailbreaker</font>, <font>Weal and Woe</font>, <font>Hero Blades</font>, <font>Guiding Star</font></li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>. <font>Stormseye</font>, <font>Red Death</font>, <font>Purple Cloud</font>, <font>Hailbreaker</font>, <font>Weal and Woe</font>, <font>Hero Blades</font>, <font>Guiding Star</font>, Sanguine Transfuser</li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Whaling_Knife.md">Alloyed Whaling Knife</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
     <li><b>Generic Weapons</b>:
   <ol>

@@ -1,6 +1,6 @@
 ---
 title: Umbral Knight
-revid: 179277
+revid: 190154
 source: https://deepwoken.fandom.com/wiki/Umbral_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -29,7 +29,7 @@ On weapon hit, Umbral Knight causes a red slash after a 0.25 second delay, deali
 
 ### Notes
 
--   Umbral Knight can be blocked, parried, and dodged.
+-   The Umbral Knight slash can be blocked, parried, and dodged.
 
 ## Trivia
 

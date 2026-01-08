@@ -1,6 +1,6 @@
 ---
 title: Deepwoken (game)
-revid: 190022
+revid: 190160
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -32,13 +32,13 @@ The usage of the Song contributing to rising Tides and global devastation, but n
 
 The project was first revealed to exist on the 15th of November, 2019, dubbed "Project Deepwoken". Originally stated to release the on the autumn of 2021, the game released months later, on the 20th of December. Console support was later added on the 3rd of March, 2024.
 
-On the 25th of July, 2025, Raguza released documents detailing Deepwoken info, which were separated into two parts. The first document mainly consisted of FAQs from Twitter, whereas the other consisted of various in-game screenshots of locations. He had also stated that the project was the biggest Monad Studios has ever worked on, while also being the most complex.
+On the 25th of July, 2025, raguza released documents detailing Deepwoken info, which were separated into two parts. The first document mainly consisted of FAQs from Twitter, whereas the other consisted of various in-game screenshots of locations. He had also stated that the project was the biggest Monad Studios has ever worked on, while also being the most complex.
 
 ## Reception
 
 In the 2022 Roblox Innovation Awards, Deepwoken was nominated in the Best Creative Direction and Best New Experience categories. The game won the award for Best New Experience.
 
-Two years later, in the 2024 Roblox Innovation Awards, the game was nominated in Best Action/RPG category. If Deepwoken won the award, the game would be 50% off and have 4x chests enabled for a week. Deepwoken had lost, but still rewarded the community for their efforts by having 2x chests enabled until the 15th of July 2024.
+Two years later, in the 2024 Roblox Innovation Awards, the game was nominated in Best Action/RPG category. In 2025, it was nominated for Best Action Experience.
 
 ## Gallery
 
