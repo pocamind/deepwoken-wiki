@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 189984
+revid: 190117
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots]

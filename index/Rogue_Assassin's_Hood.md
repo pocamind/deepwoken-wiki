@@ -1,6 +1,6 @@
 ---
 title: "Rogue Assassin's Hood"
-revid: 189956
+revid: 190112
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Hoods, Head]

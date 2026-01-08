@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 190105
+revid: 190109
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
@@ -503,7 +503,7 @@ Shock Corps Division
 -   There is no option to toggle or limit the shout feature, so your messages to your friends in the server will be intercepted by other Ensigns, and you may be subject to seeing shout messages that breaks Roblox's ToS or are otherwise not family friendly.
     -   Remember to report messages like these.
 -   Because your player grip is replaced with imprisoning them, you will need some kind of automatic grip in order to confirm kills.
-    -   This makes it so that the obtainment of [Tacet](Murmur%253A_Tacet.md), needed for the Tacet Minimization talent in the Inquisition Division is almost impossible to get without outside help from allies; as you would need to bleed them out if you don't have anything that auto-grips.
+    -   This makes it so that the obtainment of [Tacet](Murmur%253A_Tacet.md), needed for the Tacet Minimization Talent in the Inquisition Division, is almost impossible to get without outside help from allies; as you would need to bleed them out if you don't have anything that auto-grips.
 -   You cannot craft any non-Authority [Outfit](Outfits.md) while having this Origin. Being Exiled will remove this restriction.
 -   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md) and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).

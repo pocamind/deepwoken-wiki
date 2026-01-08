@@ -1,21 +1,14 @@
 ---
 title: Emil
-revid: 184794
+revid: 190108
 source: https://deepwoken.fandom.com/wiki/Emil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Emil
-
-| Emil | |
-|---|---|
-| name | Emil |
-| aspect | Etrean |
-| location | Temple Sparring Hall |
-| affiliation | Etrea |
 
 Variants: [Avian](Avian.md)
 
@@ -23,9 +16,11 @@ Variants: [Avian](Avian.md)
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Emil is a young [Etrean](Etrean.md) NPC who believes [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) is a fraud. He will ask the player bring him a [Weapon Manual](Weapon_Manual.md) so that he can become stronger in order to defeat Legato.
+Emil is a young [Etrean](Etrean.md) NPC who believes [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) is a fraud. He will ask the player bring him a [Weapon Manual](Weapon_Manual.md) so that he can become stronger in order to surpass Legato.
 
 ## Location
 
@@ -56,8 +51,8 @@ Emil is located inside of the [Temple Sparring Hall](Temple_Sparring_Hall.md).
   <td colspan="2">Tsk, don't you know? The old Maestro Alkhurst Legato. A living legend, and the great defender of the Isle! He's so swift and strong - and yet, I think his senses may not be all that they're worked up to be, now that he's so old. I could probably defeat him in a duel... If only I could prove that I am stronger than him.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="2">End, quest accepted</td>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue], quest accepted</td>
   <td>...</td>
   <td>Anything I can do to help?</td>
 </tr>
@@ -90,10 +85,10 @@ Emil is located inside of the [Temple Sparring Hall](Temple_Sparring_Hall.md).
 <tr>
   <td colspan="2">Thanks to your help I'll be able to surpass him once and for all, just you watch.</td>
   <td colspan="2">[See "Nope."]</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="2">End, small amount of XP gained, deducts one usage from Weapon Manual</td>
+  <td colspan="2">[End Dialogue], small amount of XP gained, deducts one usage from Weapon Manual</td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +104,7 @@ Emil is located inside of the [Temple Sparring Hall](Temple_Sparring_Hall.md).
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,23 +1,18 @@
 ---
 title: Avian
-revid: 186741
+revid: 190111
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Avian
 
-| Avian | |
-|---|---|
-| name | Avian |
-| aspect | Etrean |
-| location | Isle of Vigils |
-| affiliation | Etrea |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Cultist Cowl
-revid: 189938
+revid: 190119
 source: https://deepwoken.fandom.com/wiki/Cultist_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
@@ -17,10 +17,10 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]
 | weight | 1 |
 | innate stats | +4% Stealth+1 Posture |
 | innate talent | Experienced Healer |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | The Depths, Sold in Naan Zakshun's black market for 3,000 |
 | description | ... |
 
