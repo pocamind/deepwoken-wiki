@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 189917
+revid: 190132
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings]
@@ -30,3 +30,7 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 The **Blindseer's Ring** is a ring [Equipment](Equipment.md) item that reduces your outgoing damage by 15%, but increases all incoming healing you receive by 33%.
+
+## Trivia
+
+-   Ring location on the map alongside a closeup

@@ -1,6 +1,6 @@
 ---
 title: Reinforced Enforcer Boots
-revid: 190000
+revid: 190128
 source: https://deepwoken.fandom.com/wiki/Reinforced_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
@@ -17,7 +17,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | weight | 1 |
 | innate stats | +2 Rare Pips |
 | innate talent | Enforcer's Technique |
-| set | Enforcer Plate, Enforcer Boots |
+| set | Reinforced Enforcer Plate, Reinforced Enforcer Boots |
 | set talent | Enforcer's Pull |
 | bankable | No |
 | droppable | No |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 190056
+revid: 190150
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -211,7 +211,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 35 Galebreathe, 30 Agility
         -   Was merged with the "The Old Wind" Talent.
 
--   Aeronade \[Common Talent, Galebreathe\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility, +5 )
+-   Aeronade \[Common Talent, Galebreathe\] - Your Galetrap automatically detonates on contact with an object. (+2 Passive Agility)
     -   [Galetrap](Galebreathe.md#galetrap) normally waits for contact with a target to begin its tornado, [Galetrap](Galebreathe.md#galetrap) now detonates once the trap stops moving.
     -   Prerequisite: [Galetrap](Galebreathe.md#galetrap) (Mantra)
 
@@ -1445,7 +1445,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Glacial Mobility \[Common Talent, Frostdraw, Agility\] - Cast while slide-jumping to perform a running attack with your ice sabers.
     -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.
-    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility.
+    -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility
 
 ### Frostdraw Master
 
@@ -1590,7 +1590,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Great Wall
 
 -   Fortitude Unbounded \[Unlockable Talent, Fortitude\] - You have gained the ability to surpass your limits and train your fortitude to its fullest.
-    -   Prerequisite: 75 Fortitude
+    -   Prerequisites: 75 Fortitude, speak to [Brutus](Brutus.md)
 
 ### Gunslinger
 
@@ -1611,13 +1611,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
 
 -   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium/Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
-    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Have a Light gun in your offhand
+    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Using an Offhand Pistol
 
 -   Parting Gift \[Common Talent, Light Weapon\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
     -   Procs even if your flourish is parried or blocked.
     -   The projectile M1s from this Talent can proc True Ether Bullets.
-    -   Prerequisites: 75 Light Weapon, Dual Guns equipped (pistol in your main AND off hands)
+    -   Prerequisites: 75 Light Weapon, Using a Pistol
 
 -   _True Ether Bullets_ \[Rare Talent, Light/Medium/Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
     -   Prerequisites: 30 Intelligence, 20 Weapon (20 LHT OR 20 MED OR 20 HVY), Using a Pistol/Rifle/Greatcannon
@@ -1639,7 +1639,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols.
         -   The Intelligence scaling stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
-    -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Dual Guns equipped (pistol in your main AND off hands)
+    -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Using a Pistol
 
 -   Quick Draw \[Common Talent, Light Weapon\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
     -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
@@ -2124,21 +2124,20 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Lancer
 
--   Blade's Edge \[Common Talent, Medium Weapon\] \[Spears\] - Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)
+-   Blade's Edge \[Common Talent, Medium Weapon\] - Spears Damage dealt with the tip of the spear is increased by 10% (+2 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
--   Defensive Sweep \[Common Talent, Medium Weapon\] \[Spears\] - Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
+-   Defensive Sweep \[Common Talent, Medium Weapon\] - Spears Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
     -   Prerequisites: 50 Medium Weapon, Using a spear
 
--   Driving Impact \[Common Talent, Medium Weapon\] \[Spears\] - The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.
+-   Driving Impact \[Common Talent, Medium Weapon\] - Spears The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.
     -   Prerequisites: 30 Medium Weapon, Using a spear
     -   Works only with normal two-hit Critical Attacks of Spears
 
--   Lancer's Impale \[Common Talent, Medium Weapon\] \[Spears\] - Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
+-   Lancer's Impale \[Common Talent, Medium Weapon\] - Spears Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Hoplite \[Common Talent, Fortitude\] - Posture damage is reduced by 15% when wielding a spear and standing still. (+2 Passive Agility)
-    -   Was moved to Lancer class, used to be in Legion Shock Trooper.
     -   Prerequisites: 15 Fortitude, Using a spear
 
 ### Lava Serpent
@@ -2191,7 +2190,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Legion Shock Trooper
 
--   Air Pressure \[Common Talent, Galebreathe, AGility\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
+-   Air Pressure \[Common Talent, Galebreathe, Agility\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
 -   Cyclone Blade \[Common Talent, Galebreathe, Agility\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
@@ -2583,8 +2582,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Lock n Load \[Common Talent, Light Weapon\] - 1H Guns The first bullet in your gun does more damage when fully loaded. This damage buff scales with the number of bullets up to 15%.
     -   Prerequisites: 60 Light Weapon, using a Pistol
 
--   Rapid Fire \[Common Talent, Light Weapon\] - 1H Guns When you land a critical shot gain an ability to rapidly fire your critical for 2s. 12s Cooldown.
-    -   Procs on dodge,block and getting hit.
+-   Rapid Fire \[Common Talent, Light Weapon\] - 1H Guns When you land a critical shot, gain [Rapid Fire](Status_Effects.md#rapid-fire) for 2s. 12s Cooldown.
+    -   The Rapid Fire status effect entirely removes your Pistol critical cooldown for its duration, allowing you to spam it.
+    -   Procs on dodge, block, and hit.
     -   Prerequisites: 50 Light Weapon, using a Pistol
 
 -   Rapid Reload \[Common Talent, Light Weapon\] - 1H Guns You have 20% faster reload when reloading an empty pistol.
@@ -4967,6 +4967,12 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
+-   Pyreborne: \[Memento Talent, Equipment Talent\] - Your Flamecharm mantras have all stats amplified
+    
+    -   Increases the **base damage** of all Flamecharm Mantras by 30%
+    -   Obtained from: [Emberseal Pendant](Emberseal_Pendant.md)
+    
+
 -   Solborn \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Harness your Heartfire to command the Phoenix bound to your soul.
     
     -   Spawns a small orange, stationary, Phoenix near you. The size of the Phoenix will increase based on the user's level.
@@ -5200,7 +5206,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Flask Amplifier: [Potion Master's Hat](<Potion_Master's_Hat.md>) - Heal an extra 15% from flasks.
     
-    -   Increases the healing gained from [Etris Flasks](Etris_Flask.md) by 15%.
+    -   Increases the healing gained from [Etris Flasks](Etris_Flask.md) by 15% additively, meaning Flasks will restore 65% health on use instead of 50%.
 
 -   Focused Strikes: [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md) - All criticals deal 15% more posture damage.
 
@@ -5224,6 +5230,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Heretic's Sacrifice [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) - A chat that heavily sacrifices your sanity to regain a bit of health.
     
     -   Grants a Talent tool that drains a significant amount of sanity to heal 20 raw health.
+    -   If you are already at 0 Sanity, you will still be healed at no downside.
 
 -   Instant Nucleation: [Hardened Crystal Earrings](Hardened_Crystal_Earrings.md) - Take 15% less damage for a few seconds after you are guardbroken.
 

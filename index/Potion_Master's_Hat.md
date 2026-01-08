@@ -1,6 +1,6 @@
 ---
 title: "Potion Master's Hat"
-revid: 189965
+revid: 190126
 source: https://deepwoken.fandom.com/wiki/Potion_Master's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hats]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Potion Master's Hat is an [Equipment](Equipment.md) in the "_Head_" category.
 
-The [Apothecary](Talents.md#apothecary) Talent grants 125% [Potion](Alchemy.md) potency. The [Flask Amplifier](Talents.md#flask-amplifier) Talent increases the healing gained from [Etris Flasks](Etris_Flask.md) by 15%.
+The [Apothecary](Talents.md#apothecary) Talent grants 125% [Potion](Alchemy.md) potency. The [Flask Amplifier](Talents.md#flask-amplifier) Talent increases the healing gained from [Etris Flasks](Etris_Flask.md) by 15%. This is an additive increase to the healing that Flasks grant, increasing them from 50% health restoration to 65%.
