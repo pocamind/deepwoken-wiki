@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Ring"
-revid: 178630
+revid: 190255
 source: https://deepwoken.fandom.com/wiki/Rosen's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Scaling Rings, The Summer Company]

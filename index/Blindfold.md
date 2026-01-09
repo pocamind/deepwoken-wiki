@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 179386
+revid: 190274
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -59,6 +59,6 @@ Standard blindfolds are the most difficult to obtain, however they are all still
 
 -   The Blindfold, Crimson Blindfold and Black Blindfold are all the same item, just with different appearances.
     -   Modelwise, the Crimson and Black blindfold are visually the exact same item, just with different colors.
--   [Gremors](Gremor.md) get a small circle of clear vision around them when affected by the Blinded Talent.
+-   [Gremor](Gremor.md) get a small circle of clear vision around them when affected by the Blinded Talent.
 -   The [Blinded](Talents.md#equipment-talents) Talent originally made the screen completely black so the user could not see anything other than chat messages and the GUI
     -   Many players would use this to troll freshies by tricking them to put it on, because the blindfold could not be taken off without a campfire, removing it in the inventory, or putting on another piece of face equipment, and it's very difficult to find a campfire when you can't see anything around you. (not then atleast)

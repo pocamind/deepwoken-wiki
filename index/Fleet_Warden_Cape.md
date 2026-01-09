@@ -1,6 +1,6 @@
 ---
 title: Fleet Warden Cape
-revid: 178563
+revid: 190271
 source: https://deepwoken.fandom.com/wiki/Fleet_Warden_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Capes]
@@ -30,4 +30,4 @@ The Fleet Warden Cape is an [Equipment](Equipment.md) item under the "Torso" cat
 
 ## Trivia
 
--   It has 6 variants which are: Emerald, Rose, Scarlet, Shade, Silver & Onyx.
+-   It has six variants which are: Emerald, Rose, Scarlet, Shade, Silver & Onyx.

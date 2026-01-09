@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 189086
+revid: 190267
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -890,11 +890,11 @@ N/A
  |
 | 
 
-**Effect:** _Conjure a wisp of lightning that applies "Sapping" to a target upon being uppercut or flourished. Ritual Casted._
+**Effect:** _Conjure a wisp of lightning that applies "Sapping" to a target when landing uppercuts or flourishes. Ritual Casted._
 
 -   **Sapping** increases the target's mantra cooldown.
 -   \[\] Second Cooldown.
--   When Sapping ends, the target is shocked. If you have surge path, it will apply a surge stack.
+-   When Sapping ends, the target is shocked. If you have surge path, it will apply a Surge stack.
 -   Can be modified with **Aeon/Eternal Logstones** to increase its uses.
 
  |

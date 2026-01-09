@@ -1,9 +1,9 @@
 ---
 title: Gunsmith Rosen
-revid: 181691
+revid: 190259
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gunsmiths]
+categories: [Individuals with He/him pronouns, Gunsmiths]
 ---
 
 # Gunsmith Rosen
@@ -13,6 +13,7 @@ categories: [Gunsmiths]
 | name | Rosen |
 | alias | Gunsmith |
 | aspect | Vesperian[1] |
+| pronouns | He/him[2] |
 | affiliation | The Summer Company |
 
 “ The son of a village blacksmith, a young Gunsmith Rosen took to the seas and returned an older man, bringing with him the spark of inspiration that brought firearms into the world. ”
@@ -27,12 +28,11 @@ He created the Summer Company when he found old pre-Canticlysm firearms and reve
 
 [Gunsmith Hierka](Gunsmith_Hierka.md) was Rosen's former protégé who deceived Rosen and hid his ranking as a member of [The Central Authority](The_Central_Authority.md)'s [Bureau of Research](Bureau_of_Research.md) in order to steal the Summer Company's Secrets. This would go on to spark the creation of [Rifle Spear](Rifle_Spear.md), a standard issue weapon for the the Central Authority.
 
-While Rosen is known for his mechanical expertise, he has shown himself to still be skilled in designs that revolve around the manipulation of ether.[\[2\]](#cite-note-2)
+While Rosen is known for his mechanical expertise, he has shown himself to still be skilled in designs that revolve around the manipulation of ether.[\[3\]](#cite-note-3)
 
 ## Trivia
 
 -   Concept art has depicted him as a [Canor](Canor.md) as well as a Vesperian.
--   Rosen's personal creation the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>) is the only gun that is entirely made by him.
 -   While the [Flintlock](Flintlock.md) was designed by Rosen he only made the first Prototype, it now is mass produced by various gunsmiths.
 -   The [Iron Blunderbuss](Iron_Blunderbuss.md) may be one Rosen's design but was not created by his hands.
 -   He also wore [Rosen's Ring](Equipment.md), which gives 1.2 INT scaling, but he lost it for an unknown reason, and so now the player can obtain it.
@@ -41,4 +41,5 @@ While Rosen is known for his mechanical expertise, he has shown himself to still
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2) [Winter Rifle](Winter_Rifle.md) description
+2.  [↑](#cite-ref-2) [Flintlock](Flintlock.md) description
+3.  [↑](#cite-ref-3) [Winter Rifle](Winter_Rifle.md) description

@@ -1,6 +1,6 @@
 ---
 title: Attributes Unbound
-revid: 187357
+revid: 190254
 source: https://deepwoken.fandom.com/wiki/Attributes_Unbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes]
@@ -105,7 +105,7 @@ Alternatively, weapon can also be unbounded by reaching 75 points on the desired
 
 **Important Note:** _**In order to unbound your Attunement, you have to deal majority of the damage.**_
 
-## Notes
+## Trivia
 
 -   The Windrunner is yet another reference to _The [Stormlight Archive](https://en.wikipedia.org/wiki/The_Stormlight_Archive)_
 -   Brutus dialogue varies depending on your rep with [The Central Authority](The_Central_Authority.md)

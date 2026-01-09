@@ -1,6 +1,6 @@
 ---
 title: Emiya Konga
-revid: 186893
+revid: 190266
 source: https://deepwoken.fandom.com/wiki/Emiya_Konga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,4 +13,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-Emiya Konga was an infamous thief, famous for their sliding skills.
+Emiya Konga was an infamous thief.

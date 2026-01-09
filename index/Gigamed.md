@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 179862
+revid: 190270
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -12,7 +12,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Gigameds are player-sized glowing light-blue Jellyfish that are commonly found all across the _**[First Layer](First_Layer.md)**_. They have 8 cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. When killed, they emit large blue and purple blobs as their head is torn from their tentacles. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups, though they give very little XP. Gigameds are commonly referred to as "healthpacks", giving free health to whoever is in need due to ease of killing, they also give back Sanity with Conquer your Fears, or Food with Carnivore.
+Gigameds are player-sized glowing light-blue Jellyfish that are commonly found all across the [First Layer](First_Layer.md) They have eight cnidocytes across their body, and their lower half seems to be somewhat disconnected from their upper half. As while idling, their lower half seems to do somewhat of a breathing motion. Slowly rising up, and then going down. When killed, they emit large blue and purple blobs as their head is torn from their tentacles. Recommended for low-powered players due to its ease of fighting and stunlocking, even in groups, though they give very little XP. Gigameds are commonly referred to as "healthpacks", giving free health to whoever is in need due to ease of killing, they also give back Sanity with Conquer your Fears, or Food with Carnivore.
 
 Also commonly referred to as **Jellyfish**.
 

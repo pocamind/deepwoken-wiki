@@ -1,6 +1,6 @@
 ---
 title: "Maestro's Ring"
-revid: 178636
+revid: 190265
 source: https://deepwoken.fandom.com/wiki/Maestro's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Etrea, Scaling Rings]
@@ -31,5 +31,4 @@ Having more than one scaling ring equipped at the same time will lessen their ef
 
 ## Trivia
 
--   Maestro's Ring refers to the boss named [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), who also is the NPC that unbounds the player's weapon stat.
 -   The other Weapon Scaling Rings are the following: [Rosen's Ring](<Rosen's_Ring.md>), [Prophet's Ring](<Prophet's_Ring.md>), [Akira's Ring](<Akira's_Ring.md>), [Dawnfist's Ring](<Dawnfist's_Ring.md>).

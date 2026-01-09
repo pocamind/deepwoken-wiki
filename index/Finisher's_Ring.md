@@ -1,6 +1,6 @@
 ---
 title: "Finisher's Ring"
-revid: 189316
+revid: 190262
 source: https://deepwoken.fandom.com/wiki/Finisher's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -30,4 +30,4 @@ This PEN bonus does **not** bypass the 50% PEN cap, and it **only** procs from M
 
 ## Trivia
 
--   Prior to the verse 2 flourish rework, this ring reduced the amount of hits to flourish opponents by 1.
+-   Prior to the Verse 2 flourish rework, this ring reduced the amount of hits to flourish opponents by 1.
