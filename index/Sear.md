@@ -1,6 +1,6 @@
 ---
 title: Sear
-revid: 179268
+revid: 190348
 source: https://deepwoken.fandom.com/wiki/Sear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]

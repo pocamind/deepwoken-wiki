@@ -1,6 +1,6 @@
 ---
 title: Blazing
-revid: 189054
+revid: 190353
 source: https://deepwoken.fandom.com/wiki/Blazing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -35,5 +35,6 @@ The hit count required to proc this enchantment varies based on your weapon type
     -   Because of this, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Flamecharm resistance, allowing the first hit of your non-Flamecharm attuned Mantras to deal 10% more damage against players using this Talent.
 -   Blazing's [burn](Status_Effects.md#burn) scales on your [Flamecharm](Flamecharm.md) investment and benefits from all of your burn Talents just like any other source of burn.
     -   Base burn has a DPS of 8 at 0 Flamecharm, scaling up to 12 DPS at 100 Flamecharm. More information on how Talents and other effects affect your burn damage can be found on the [Flamecharm](Flamecharm.md#trivia) page.
-    -   If you have [Eruption Path](Talents.md#lava-serpent), this will proc an Eruption instead of applying burn.
-    -   If you have [Twisted Puppets](Talents.md#twisted-puppets), this will apply 'Puppet Burn', spawning Puppets.
+    -   If you have [Eruption Path](Talents.md#lava-serpent), this will proc an Eruption instead of applying burn. Eruptions have a 3 second cooldown.
+    -   If you have [Twisted Puppets](Talents.md#twisted-puppets), this will apply 'Puppet Burn', spawning Puppets and draining Ether. Puppets have a 4 second spawn cooldown, though the burn can still be applied while Puppet spawning is on cooldown.
+-   This enchantment reduces the need for Talents that apply burn, such as [Flaming Flourish](Talents.md#flaming-flourish), especially on heavy weapons.

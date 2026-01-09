@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 187782
+revid: 190338
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]

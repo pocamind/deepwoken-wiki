@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 190327
+revid: 190357
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -667,7 +667,7 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 
 Blue
 
- |  | Attacks with this indicator must be crouched under.
+ |  | Attacks with this indicator can be crouched under.
 
   
 Most attacks with this indicator deal high posture damage.

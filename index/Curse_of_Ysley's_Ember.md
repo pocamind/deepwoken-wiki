@@ -1,6 +1,6 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 179247
+revid: 190345
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]

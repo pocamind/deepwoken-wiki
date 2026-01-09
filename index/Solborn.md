@@ -1,6 +1,6 @@
 ---
 title: Solborn
-revid: 189585
+revid: 190342
 source: https://deepwoken.fandom.com/wiki/Solborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -27,6 +27,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 **Solborn** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. It is unlocked by destroying the throne of [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) in his fight.
+
+This Memento gives the user access to a spawnable Phoenix that normally acts similarly to a campfire, but can be commanded to attack. Additionally, a lot of this Memento's abilities use the _Heartfire Gauge_, a gauge that lies above your posture bar, similar to Specter Path's Spectral Gauge.
 
 ## Starting Abilities
 

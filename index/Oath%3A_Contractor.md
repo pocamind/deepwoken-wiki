@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 189155
+revid: 190343
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -79,16 +79,16 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   **Judgement** - Summon a black casting circle before enveloping a humanoid target in tendrils and tearing them apart. The target is unable to move or act during the animation.
     -   Applies Hidden Tendril.
     -   The target gains invincibility frames while active.
-    -   **Instantly executes** if it brings the target's HP to 0 or used on a knocked target.
+    -   **Instantly executes** if it brings the target's HP to 0 or is used on a knocked target.
     -   Can be vented out of, and can also be parried as soon as you hear the 'snap' sound.
-    -   Deals 59.93 (6.38+53.55) Oath DMG, 7 posture if blocked.
+    -   Deals 59.93 (6.38 + 53.55) Oath damage, 7 posture if blocked.
     -   Goes on a short cooldown if feinted.
 -   Obtained after gripping 3 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 
 -   **Lord's Slice** - The Hidden Tendril contracts, pulling both the contractor and target closer. They are flung in opposite directions.
     -   Can slam people into walls.
     -   Only usable if Hidden Tendril is applied to the target.
-    -   Deals 44 Oath DMG and 28 posture if blocked
+    -   Deals 44 Oath damage and 28 posture if blocked.
 -   Obtained after gripping 1 player with an [Oath](Oaths.md) in [The Depths](First_Layer.md).
 
 -   **Equalizer** - Whip forward a tendril. If it connects, it deals damage to the target, and gives the user a blue aura.
@@ -96,7 +96,8 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
     -   Non-Humanoids will bypass the counter aura, instead outright hitting you.
     -   Can be vented out of.
     -   Countering a non-grabbable humanoid mob will deal damage.
-    -   Whip hit deals 20 oath DMG
+    -   The whip hit deals 20 Oath damage.
+    -   Although the whip can be blocked and parried, doing so does not negate the effects of the Mantra.
     -   The counters stun has a range limit. (this will still negate the damage of the attack)
 -   Obtained after gripping 2 players with [Oaths](Oaths.md) in [The Depths](First_Layer.md).
 

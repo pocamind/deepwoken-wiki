@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 185035
+revid: 190341
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -426,8 +426,8 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <sup>[Bloodsong]</sup></td>
   <td>40 Bloodrend<br>
   40 Thundercall</td>
-  <td>Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.</td>
-  <td>While you have the temporary health status effect, landing Bloodrend mantras applies electrify. This also removes a portion of your temporary health.</td>
+  <td>Hitting Bloodrend mantras while having temporary health applies <a href="Status_Effects.md#shock">Shocked</a> while removing a portion of temporary health.</td>
+  <td>Landing Bloodrend Mantras now applies Shock or 1 Surge Rod at the cost of 4 Temporary Health.</td>
 </tr>
 </tbody>
 </table>
@@ -1074,8 +1074,8 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <sup>[Bloodsong]</sup></td>
   <td>40 Bloodrend<br>
   40 Thundercall</td>
-  <td>Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.</td>
-  <td>While you have the temporary health status effect, landing Bloodrend mantras applies electrify. This also removes a portion of your temporary health.</td>
+  <td>Hitting Bloodrend mantras while having temporary health applies <a href="Status_Effects.md#shock">Shocked</a> while removing a portion of temporary health.</td>
+  <td>Landing Bloodrend Mantras now applies Shock or 1 Surge Rod at the cost of 4 Temporary Health.</td>
 </tr>
 </tbody>
 </table>

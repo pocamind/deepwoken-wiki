@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 186475
+revid: 190360
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -17,9 +17,9 @@ Template:Creature Infobox V3
 
 ## Description
 
-The Thresher is a large crocodilian [Monster](Monsters.md) that is commonly found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). It can frequently be found as lone threats on the surface or in trios when spawning as a part of a static event, and more rarely standing alongside the [King Thresher](King_Thresher.md). In The Depths it will always spawn in duos with another Thresher. There are other Thresher variants such as the **Void Thresher**, located in [Voidsea](Voidsea.md) [sea events](Random_Encounters.md), and the [Nightmare Thresher](Nightmare_Thresher.md), located in the [Ancient Rotlands](Ancient_Rotlands.md).
+The Thresher is a large crocodilian [Monster](Monsters.md) that is commonly found in the [Starswept Valley](The_Starswept_Valley.md) and [The Depths](The_Depths.md). It can frequently be found as lone threats on the surface or in trios when spawning as a part of a static event, and more rarely standing alongside the [King Thresher](King_Thresher.md). In The Depths it will always spawn in duos with another Thresher. There are other Thresher variants such as the **Voidscarred Thresher**, located in [Voidsea](Voidsea.md) [sea events](Random_Encounters.md), and the [Nightmare Thresher](Nightmare_Thresher.md), located in the [Ancient Rotlands](Ancient_Rotlands.md).
 
-When found in the [Voidsea](Voidsea.md), Threshers become Void Threshers, having slightly less health and a more grayscaled appearance as well as having white cracks along their bodies, as a result of the Voidsea's influence.
+When found in the [Voidsea](Voidsea.md), Threshers become Voidscarred Threshers, having slightly less health and a more grayscaled appearance as well as having white cracks along their bodies, as a result of the Voidsea's influence.
 
 Appearing as a blind crocodilian with large teeth and green scales, they have an incredible sense of smell as well as possessing an arsenal of sharp claws that can easily hunt and kill their prey respectively. They are evidently social creatures as they tend to live in nests, though the density and size of their nests affect the behavior of male Threshers. This leads into a competition between the males, emerging a [King](King_Thresher.md) in their stead that leads the pack.
 

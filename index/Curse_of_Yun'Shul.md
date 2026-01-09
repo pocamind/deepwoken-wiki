@@ -1,6 +1,6 @@
 ---
 title: "Curse of Yun'Shul"
-revid: 189489
+revid: 190344
 source: https://deepwoken.fandom.com/wiki/Curse_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 190328
+revid: 190340
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -692,8 +692,8 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   This Talent does not proc on Crystal explosions caused via guardbreaking the target or Temperature Shock. Instead, all crystal explosions must be procced through applying enough crystals or Golden Age in order for this Talent to proc.
     -   Prerequisite: 40 Bloodrend, 40 Frostdraw
 
--   Electrolyte \[Common Talent, Dual Attunement, Bloodrend, Thundercall\] - Hitting Bloodrend mantras while having temporary health applies electrify while removing a portion of temporary health.
-    -   Applies shock or a surge rod on proc and Electrify.
+-   Electrolyte \[Common Talent, Dual Attunement, Bloodrend, Thundercall\] - Hitting Bloodrend mantras while having temporary health applies [Shocked](Status_Effects.md#shock) while removing a portion of temporary health.
+    -   Applies a Surge Rod instead if you have Surge Path: Unstable Capacitor.
     -   Takes 4 temporary health per proc.
     -   Prerequisite: 40 Bloodrend, 40 Thundercall
 
@@ -949,9 +949,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Displays a red particle on the target enemy after proccing.
     -   Prerequisite: 30 Light Weapon
 
--   Decisive Blow \[Common Talent, Light Weapon\] - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage
+-   Decisive Blow \[Common Talent, Light Weapon\] - Hitting an enemy with your Critical Attack immediately after they dodge (or any time against mobs) now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage.
     -   While the effect is active, gain a red trail on your weapon. The red trail will show up on non-daggers, but will have no effect.
-    -   Compatible with Switchblade despite not being a Dagger talent.
+    -   Compatible with Switchblade despite technically not being a Dagger talent.
     -   Prerequisite: Knife's Journey
 
 -   Successive Throw \[Common Talent, Light Weapon\] - Daggers When you successfully flourish an enemy, you throw out a dagger afterwards
@@ -3321,7 +3321,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Static Link \[Common Talent, Thundercall, Intelligence\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
--   Jumper Cables \[Common Talent, Thundercall, Fortitude\] - Getting knocked with an active tether allows you to steal health from tethered targets and not get knocked.
+-   Jumper Cables \[Common Talent, Thundercall, Fortitude\] - Being made [Unconscious](Status_Effects.md#unconscious) with an active thether allows you to steal health from a tethered target and not be made [Unconscious.](Status_Effects.md#unconscious)
     -   Whenever you would get knocked but have a tether active, steal HP from the target to survive the hit.
     -   3–4 seconds cooldown between knock preventions.
     -   Prerequisites: Static Link, 40 Thundercall, 20 Fortitude

@@ -1,6 +1,6 @@
 ---
 title: Obfuscation
-revid: 190295
+revid: 190354
 source: https://deepwoken.fandom.com/wiki/Obfuscation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -34,4 +34,4 @@ Light Weapons gain +15% chip damage, Medium Weapons gain +20% chip damage, and H
 -   Chip damage does not have PEN and cannot receive most damage modifiers, as most effects will only apply their bonuses should your attacks land.
 -   The [Wyrmtooth](Wyrmtooth.md) prioritizes being a medium weapon over being a heavy weapon, meaning it will gain 20% chip from this enchantment.
 -   Most notably, this enchantment allows the [Night Axe](Night_Axe.md) to have above 100% chip at all times.
-    -   Having above 100% chip damage makes your attacks deal increased damage. Though because chip has no PEN and cannot receive most damage modifiers, as mentioned previously, you will only see an increase to your damage dealt if your opponent has no armor durability or if one of the parties is using [Berserk](Talents.md#berserk).
+    -   Having above 100% chip damage makes your attacks deal increased damage. Though because chip damage has no PEN and cannot receive most damage modifiers, as mentioned previously, you may only see an increase to your damage dealt if your opponent has no armor durability or if you have a very very high amount of chip damage.
