@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 189624
+revid: 190370
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]

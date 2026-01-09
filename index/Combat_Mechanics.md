@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 190357
+revid: 190366
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -20,15 +20,15 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 <tbody>
 <tr>
   <th>Health Bar</th>
-  <td>A visual representation of the player's health. Players start with 204 Health; things like <a href="Attributes.md">Fortitude</a> (0.5 Health per Fortitude), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Equipment</a>, <a href="Traits.md">Vitality</a> (10 Health per Vitality) and <a href="Power.md">Power</a> (4 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked down and is at the mercy of anyone around them.
+  <td>A visual representation of the player's health. Players start with 204 Health; things like <a href="Attributes.md#ftd">Fortitude</a> (0.5 Health per Fortitude), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Equipment</a>, <a href="Traits.md#vitality">Vitality</a> (10 Health per Vitality) and <a href="Power.md">Power</a> (4 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked down and is at the mercy of anyone around them.
   <ul>
     <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
     <li>Natural health regeneration is disabled if their hunger bar is below 12.5%.</li>
     <li>The lower your Health is, the slower you get. In short, Health directly affects your agility.</li>
   </ul><p>The player's Health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
-  The player will lose one life on death (excluding <a href="Echoes.md#upgrades-and-modifiers">Hollow or Vow of Thorns</a> modifiers).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
+  The player will lose one life on death (excluding the <a href="Echoes.md#upgrades-unlocks-and-modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
   The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths.<br>
-  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death, the stained part represents your void health, which means if your health bar doesn't reach the stained part and you jump into the void you will be sent to the <a href="Second_Layer.md">Second Layer</a> rather than wiping, if your health bar reaches the stained part and you jump into the void your character <b>WILL</b> be sent to <a href="Fragments_of_Self.md">Fragments of Self</a> rather than the <a href="Second_Layer.md">Second Layer</a>.</p></figcaption></figure></td>
+  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death. The stained part represents your void health, which means if your health bar doesn't reach the stained part you can jump into the void you will be sent to the <a href="Second_Layer.md">Second Layer</a> rather than wiping. If your health bar reaches the stained part and you jump into the void your character <b>WILL</b> be sent to <a href="Fragments_of_Self.md">Fragments of Self</a> rather than the <a href="Second_Layer.md">Second Layer</a>.</p></figcaption></figure></td>
 </tr>
 <tr>
   <th>Posture Bar</th>
@@ -69,7 +69,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <ul>
     <li>Tempo is gained by hitting or being hit</li>
     <li>Tempo decreases over time and is "stored" when out of combat</li>
-    <li>With at least 40 Tempo, press <kbd>G</kbd> to Vent. This pushes away anyone near you but can be parried/blocked. With more <a href="Traits.md#erudition">Erudition</a>, venting becomes easier to do as you will have more Tempo, as well as Tempo regen.</li>
+    <li>With at least 40 Tempo, press <kbd>G</kbd> to Vent. This pushes away anyone near you but can be parried and blocked. With more <a href="Traits.md#erudition">Erudition</a>, venting becomes easier to do as you will have more Tempo, as well as Tempo regen.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
   <td>A visual representation of the player's current <a href="Outfits.md">armor</a> durability. When this bar is depleted, the player's armor is considered "broken", and you will start taking damage as if you have no armor on at all.
   <ul>
     <li>Armour can be repaired through various methods, such as a Blacksmith, using <a href="Talents.md">Talents</a>, the Metal <a href="Enchantments.md">Enchantment</a>, or a <a href="Outfits.md">Bloodiron Ring</a>.</li>
-  </ul><p>Assuming you managed to pick up Exoskeleton or if you are a <a href="Vesperian.md">Vesperian</a>, there will be two armor bars instead- the white representing <a href="Outfits.md">Clothed Armor</a>, and the green representing Natural Armor.</p><figure><figcaption></figcaption></figure></td>
+  </ul><p>Assuming you managed to pick up the <a href="Talents.md#exoskeleton">Exoskeleton</a> Talent or if you are a <a href="Vesperian.md">Vesperian</a>, there will be two armor bars instead- the white representing <a href="Outfits.md">Armor</a>, and the green representing Natural Armor.</p><figure><figcaption></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -106,9 +106,9 @@ Most keybinds are not present in the new keybinds menu as of now, so for example
 
 These are stats that are you required to maintain in order to survive in the world of _Deepwoken_. These stats will gradually deplete over time during your travels, but the depletion can be sped up by varying environments, creatures, or other players.
 
--   In order to survive, the player will need to eat food to replenish their _Stomach_ and hydrate to replenish their _Water_. Many food items also contain water within them, such as the Mushroom Bisque, allowing you to regenerate both.
+-   In order to survive, the player will need to eat food to replenish their _Stomach_ and hydrate to replenish their _Water_. Many food items also contain water within them, such as the [Mushroom Bisque](Mushroom_Bisque.md), allowing you to regenerate both.
 -   _Once both are depleted, you will begin to lose Blood and your health will be reduced to half of your max health._
--   _Once every bar reaches zero, you will enter a combat state and be rendered helpless unless you consume food within the next few seconds._
+-   _Once every bar reaches zero, you will enter a combat state and be rendered helpless unless you consume food within the next few seconds. Should you not consume food, you will be knocked until you inevitably die from blood loss and/or starvation._
 -   These stats can be found at the bottom-left of your screen, in the main game.
     
 
@@ -165,19 +165,19 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 </tr>
 <tr>
   <td colspan="10"><u>Abilities</u> - Weight: None<br>
-  1st place in the inventory. Consist of activatable Talents like Chime of Dwelling, Guild Officer, and Call of the Deep. Also consists of equipped Mantras; ones that aren't recalled.</td>
+  1st place in the inventory. Consist of activatable Talents like Chime of Dwelling, Guild Officer, Voideye and Call of the Deep. Also consists of equipped Mantras should you lack space in your hotbar for them.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Tools</u> - Weight: None<br>
-  2nd place in the inventory. Consists of usable items like Campfires, Fishing Rods, Gliders, harvesting tools, guild tools or Hunter's Brace.</td>
+  2nd place in the inventory. Consists of usable items like Campfires, Fishing Rods, Gliders, harvesting tools, guild tools or the <a href="Hunter's_Brace.md">Hunter's Brace</a>.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Training Gear</u> - Weight: None<br>
-  3rd place in the inventory. Consists of items that train your character's <a href="Attributes.md">attributes</a>.</td>
+  3rd place in the inventory. Consists of items that train your character's <a href="Attributes.md">attributes</a> such as Ankle Weights, Dumbell, Vest/Boulder, and Encyclopedia</td>
 </tr>
 <tr>
   <td colspan="10"><u>Equipment</u> - Weight: 2<br>
-  4th place in the inventory. Consists of equippable armor and clothing pieces if you meet the reqirements.</td>
+  4th place in the inventory. Consists of equippable armor and clothing pieces if you meet the requirements.</td>
 </tr>
 <tr>
   <td colspan="10"><u>Weapons</u> - Weight: 2<br>

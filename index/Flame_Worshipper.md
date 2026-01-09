@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 189798
+revid: 190377
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -638,6 +638,8 @@ Feinting this will give you infinite I-frames.
 ### Shogun of the Prophet's Guard
 
 -   Ascended Phoenix Flames \[Memento Talent\] - Once per fight, when an attack would down you immediately revive with 30% HP.
+    
+    -   This talent doesn't work in [Zi'eer](<Zi'eer,_the_Fourth_Prophet.md>)'s bossfight
 
 ### Dravik, The Rat King
 

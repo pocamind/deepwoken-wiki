@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 174638
+revid: 190369
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -116,7 +116,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 
 -   **Impel** - Blast through your opponent's guard and pull them towards you.
     -   Deals 5.5 damage and 6 posture per hit, totaling to 22 damage and 24 posture if all 4 orbs connect.
-    -   Procs Chainlash on _**first**_ hit past 15 studs. (Procs through block)
+    -   Procs Chainlash on the _**first**_ hit, past 15 studs. (Procs through block)
         -   Innately has Chainlash, does not require the card to proc.
         -   Impel's Chainlash can be movestacked with Mantras, although it ends Chainlash early, removing the kick. (Very small window to movestack, needs testing)
     -   Max range of 45 studs, however over past 40 studs Enchained is cleared, cancelling Chainlash.
@@ -130,7 +130,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   **Base variant** will do 2 melee punches, dealing 36 damage (20.6 + 15.4) and 30 posture (15 + 15).
         -   Each punch dazes targets for 0.5 seconds.
         -   The second punch will only commence if the first one lands/hits block.
-        -   Windup of _first_ punch is sped up by [Insignia Gem](Insignia_Gem.md).
+        -   Windup of the _first_ punch is sped up by [Insignia Gem](Insignia_Gem.md).
     -   **Enchained variant** creates AOE explosions centered at _all_ Enchained targets, ragdolling/flinging them, and dealing 37 damage and 15 posture.
         -   Inflicts _**anti-roll**_ for 1.35 seconds similar to [Frozen Legs](Talents.md#frozen-warrior), allowing for true combos with mantras such as [Ice Eruption](Frostdraw.md#ice-eruption).
         -   Will strongly fling enemies **away from your relative direction**. (Ex. enemies above you will fling upwards)
