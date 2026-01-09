@@ -1,6 +1,6 @@
 ---
 title: Caster Fur Boots
-revid: 189981
+revid: 190312
 source: https://deepwoken.fandom.com/wiki/Caster_Fur_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set Bonuses]
@@ -25,6 +25,8 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Equipment with Set B
 | pass down | No |
 | obtainment | TBA |
 | description | ... |
+
+Variants: [Fur Boots](Fur_Boots.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

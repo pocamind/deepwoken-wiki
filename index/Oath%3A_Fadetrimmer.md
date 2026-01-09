@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 190076
+revid: 190316
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -49,7 +49,7 @@ This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appea
 
 ### Talents
 
--   **Fadetrimmer's Skillset** - What type of look are we going for today?
+-   **Barber's Skillset** - What type of look are we going for today?
     -   Grants a Talent tool that opens the old version of the Barber UI; only having 4 hair ID slots.
     -   **Yourself**: Changes your own hair to the chosen hair IDs.
     -   **Others**: Your Fadetrimmer Mantras have a chance to apply the chosen hair IDs to your opponent on hit. These last 10 minutes and can be reverted at any Barber or by respawning.

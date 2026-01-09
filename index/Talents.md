@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 190198
+revid: 190328
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1286,7 +1286,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Fadetrimmer**](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: [Power](Power.md) 12, change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)
 
--   Fadetrimmer's Skillset \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md) Exclusive\] - What type of look are we going for today?
+-   Barber's Skillset \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md) Exclusive\] - What type of look are we going for today?
     -   Gives a Talent tool that opens an outdated version of the [Barber](Barber.md) UI. Because this uses the outdated variant of this UI, it only has 4 hair slots.
     -   When selecting others: Changes what haircut your Fadetrimmer Mantras apply on hit.
     -   When selecting yourself: Changes your own hair.
@@ -3609,7 +3609,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 50 Thundercall
 
 -   Shocking Finish \[Common Talent, Thundercall\] - Following a flourish up with a lightning beam causes it to be casted instantly.
-    -   Prerequisite: [Lightning Beam](Thundercall.md#lightning-beam) (Mantra)
+    -   Prerequisite: [Lightning Beam](Thundercall.md#lightning-beam) (Mantra), 30 Thundercall
 
 -   _Static Fakeout_ \[Rare Talent, Thundercall, Agility\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
     -   Prerequisites: 30 Agility, 35 Thundercall
@@ -5042,18 +5042,19 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 ### Toxic Personality
 
--   Compelling Offer \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\]
+-   Compelling Offer \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
     
-    -   Procs when attacking charmed enemies who are below 50% health.
+    -   Madness from this Talent procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
-    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, purchased from the starter shop
+    -   Using Taunt as a counter displays [Prediction](Attunement-less.md#prediction)'s visual effects but with a dark purple color. This also plays a laughing sound effect and reduces Taunt's cooldown to 1 second.
+    -   Taunt counter does not deal damage, but instead stacks Taunt's damage buff effect.
 
 -   Jackpot \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Charmed enemies now have a chance to be hit critically, multiplying the damage.
     
     -   There is a ?% chance that your hits against a Charmed target will be a critical hit, dealing significantly more damage.
     -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, purchased from the Power 20 shop
 
--   Sweeten the Deal \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
+-   Sweeten the Deal \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
     
     -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, purchased from the Power 10 shop
 

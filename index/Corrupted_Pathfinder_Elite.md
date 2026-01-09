@@ -1,6 +1,6 @@
 ---
 title: Corrupted Pathfinder Elite
-revid: 189937
+revid: 190324
 source: https://deepwoken.fandom.com/wiki/Corrupted_Pathfinder_Elite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment]
@@ -21,12 +21,14 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Coats, Corrupt Equipment]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | The Depths |
 | description | ... |
 
+Variants: [Pathfinder Elite](Pathfinder_Elite.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

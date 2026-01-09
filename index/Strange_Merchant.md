@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 189589
+revid: 190306
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -179,10 +179,12 @@ N/A
 
 ### Starting Deck
 
--   Compelling Offer \[Memento Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\]
+-   Compelling Offer \[Memento Talent\] - Any charmed enemy below 50% hit with your mantras or critical will mysteriously begin attacking everyone but you. \[[Madness](Status_Effects.md#madness)\] Your [taunt](Attunement-less.md#taunt) also now functions as a counter that stacks damage multipliers with every successful taunt.
     
-    -   Procs when attacking charmed enemies who are below 50% health.
+    -   Madness from this Talent procs when attacking charmed enemies who are below 50% health.
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
+    -   Using Taunt as a counter displays [Prediction](Attunement-less.md#prediction)'s visual effects but with a dark purple color. This also plays a laughing sound effect and reduces Taunt's cooldown to 1 second.
+    -   Taunt counter does not deal damage, but instead stacks Taunt's damage buff effect.
 
 -   Cornered Fool \[Common Talent\] **100** \- Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
     -   Despite what the description states, this applies Taunt for 6 seconds.
@@ -293,17 +295,23 @@ N/A
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.
     -   Proccing this Talent will put the respective Deep Gem on cooldown if it has one.
     -   See info on specific [Deep Gems](Deep_Gems.md) on their individual pages.
+
 -   Dragon's Song \[Common Talent\] **100** \- Using a mantra after an uppercut grants ether. 2s CD
+
 -   Target Switch \[Common Talent\] **100** \- Parrying an opponent then hitting someone else makes your next mantra free.
     -   This effect is signalled by a yellow halo.
     -   Has a 4 second activation window with a 10 second duration.
     -   This talent will still proc if you hit a knocked enemy.
+
 -   **Absolute Radiance** \[Oath Talent\] **200** \- Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   All elemental status effects cannot be applied to you during Absolute Radiance.
+
 -   Sweeten the Deal\[Memento Talent\] **200** \- [Madness](Status_Effects.md#madness) can now be applied to enemies at 80% health or lower.
+
 -   _Encore_ \[Rare Talent\] **250** \- Your sing will stun opponents who are already charmed.
     -   On proc, apply 0.4s of "full stun". This can interrupt enemy attacks.
     -   Doesn't affect allies.
+
 -   Cornered Fool \[Common Talent\] **100** \- Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
     -   Despite what the description states, this applies Taunt for 6 seconds.
     -   The Taunt damage buff is also applied to the attack that guard broke.
@@ -494,6 +502,7 @@ Oath
         -   You now Shiver at Tier 2 insanity instead of Tier 1.
         -   Shiver slows movement, but does not cancel M1/Mantra.
         -   You now Scratch yourself at Tier 3 insanity instead of Tier 2.
+
 -   Luminous Flash \[Oath Talent\] **200** \- After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
     -   During Absolute Radiance, your M1 attacks have a chance to proc Luminous Flash, increasing their damage by 75% (the damage modifier hardcap). In PvP combat, this is lowered to 50% instead (the damage modifier hardcap).
 

@@ -1,9 +1,9 @@
 ---
 title: "Corrupted Vessel's Boots"
-revid: 190251
+revid: 190290
 source: https://deepwoken.fandom.com/wiki/Corrupted_Vessel's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, Vow of Iron Exclusive, Equipment, Legs, Boots, Corrupt Equipment]
+categories: [Vow of Iron Exclusive, Equipment, Legs, Boots, Corrupt Equipment]
 ---
 
 # Corrupted Vessel's Boots
@@ -11,7 +11,6 @@ categories: [Pages using duplicate arguments in template calls, Vow of Iron Excl
 | Corrupted Vessel's Boots | |
 |---|---|
 | type | Legs |
-| rarity | Uncommon |
 | selling price | 14 |
 | weight | 1 |
 | innate stats | +20 Posture |

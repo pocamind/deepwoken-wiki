@@ -1,6 +1,6 @@
 ---
 title: "Barber's Skillset"
-revid: 161670
+revid: 190318
 source: https://deepwoken.fandom.com/wiki/Barber's_Skillset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Oath: Fadetrimmer#Fadetrimmer's Skillset](Oath%253A_Fadetrimmer.md#fadetrimmers-skillset)
+-   [Oath: Fadetrimmer#Barber's Skillset](Oath%253A_Fadetrimmer.md#barbers-skillset)

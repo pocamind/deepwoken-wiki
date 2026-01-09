@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 190085
+revid: 190292
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -26,6 +26,7 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
+| obtainment | Equip any Cestus or Markor's Inheritor while not having a Fist style Talent. |
 
 ## Description
 

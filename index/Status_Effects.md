@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 190152
+revid: 190320
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -386,7 +386,7 @@ Applied from the [Reinforce](Attunement-less.md#reinforce) Mantra and [Golden To
 
 #### Lord's Tithe
 
-If the caster has [Lord's Tithe](Talents.md#lords-tithe) and buffs another player with [Reinforce](Attunement-less.md#reinforce), they will siphon that player's Ether until the caster's Ether bar is full. This effect will end early when the caster takes damage, if the caster blocks an attack, or if the afflicted person goes under 5% Ether. Signified by red Reinforce particles surrounding the body; this visual stacks with the base Reinforce visual.
+If the caster has [Lord's Tithe](Talents.md#lords-tithe) and buffs another player with [Reinforce](Attunement-less.md#reinforce), they will siphon that player's Ether until the caster's Ether bar is full. This effect will end early when the caster takes damage, if the caster blocks an attack, or if the afflicted person goes under 5% Ether. Signified by red Reinforce particles surrounding the body and a black tendril extending towards the caster; this visual stacks with the base Reinforce visual.
 
 ### Glorious Charge
 
@@ -676,13 +676,29 @@ Gain a [speed boost](#speed-boost), and an unstoppable urge to run. You're unabl
 
 Takes a percentage of your maximum Ether and grants it to your Vow Master. Applied the [Vow of Mastery](Vow_of_Mastery.md) Command: Leech. Signified by a blue ball of ether leaving your body to go to your master.
 
+### Mark of Jurik
+
+Buffs the sanity and health regeneration of people near you. Also slightly buffs the nourishment of food and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by dark blue particles surrounding the body. This has a 4 minute cooldown, but does not require a campfire to be used. Can only be applied by players who have the the Jurik and Hollowtide [Capra](Capra.md) Variants.
+
+### Mark of Nemit
+
+Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by yellow particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
+
+### Mark of Ku
+
+Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by light green particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
+
 ### Dragon Scales
 
-Applied through the [Drakkard](Drakkard.md) Talent, [Scales of the Edenkite](Talents.md#scales-of-the-edenkite), gain 80% damage reduction for 5 seconds. Additionally, all enemies will be deaggrod briefly (this is currently bugged and does not work). Signified by your character being enveloped in a white aura with white orbs floating around their head.
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Drakkard](Drakkard.md) Talent, [Scales of the Edenkite](Talents.md#scales-of-the-edenkite), gain 80% damage reduction for 5 seconds. Additionally, all enemies will be deaggrod briefly (this is currently bugged and does not work). Signified by your character being enveloped in a white aura with white orbs floating around their head.
 
 ### Soul Veil
 
-Applied through the [Prince of the Moon](Prince_of_the_Moon.md) Memento's [Soul Veil](Talents.md#soul-veil) Talent, gain a stacking 7.5% damage buff when you land attacks with the [Soulthorn](Soulthorn.md). This damage buff caps at +30% damage. If you take damage while having the Soul Veil status effect, your opponent will steal the buff until you hit them back. This buff is applied to the attack that gains the buff, allowing your opponents to nuke you if you get hit. Signified by your character being shimmering with a celestial white and black aura.
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Prince of the Moon](Prince_of_the_Moon.md) Memento's [Soul Veil](Talents.md#soul-veil) Talent, gain a stacking 7.5% damage buff when you land attacks with the [Soulthorn](Soulthorn.md). This damage buff caps at +30% damage. If you take damage while having the Soul Veil status effect, your opponent will steal the buff until you hit them back. This buff is applied to the attack that gains the buff, allowing your opponents to nuke you if you get hit. Signified by your character being shimmering with a celestial white and black aura.
+
+### Madness
+
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Strange Merchant](Strange_Merchant.md) Memento's [Toxic Personality](Talents.md#toxic-personality-vow-of-iron) Talent tree, this effect causes non-player enemies to attack eachother instead of the caster. Additionally, non-player enemies affected by Madness will not be able to deal damage to or hitstun the caster. **This effect does not work on bosses.** Signified by pink circles around the eyes of affected targets.
 
 ## Attunement-Exclusive Talents
 
@@ -825,18 +841,6 @@ The effects of this status effect depends on which [Attunement](Attunements.md) 
 Monsters within [The Depths](The_Depths.md) have a chance to spawn Corrupt, boasting a much higher health pool and increased damage. This chance is made guaranteed during [Hell Mode](Hell_Mode.md) and during your [Depths Trial](Cathedral_of_the_Interstice.md) if you have the Vow of Thorns or Deep Champion [Echo Modifiers](Echoes.md). Additionally, ringing the black bells within the [First Layer](First_Layer.md) will increase the odds of surrounding Monsters spawning corrupt. Signified by a dark purple aura on the Monster.
 
 ## Other
-
-### Mark of Jurik
-
-Buffs the sanity and health regeneration of people near you. Also slightly buffs the nourishment of food and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by dark blue particles surrounding the body. This has a 4 minute cooldown, but does not require a campfire to be used. Can only be applied by players who have the the Jurik and Hollowtide [Capra](Capra.md) Variants.
-
-### Mark of Nemit
-
-Buffs the nourishment of food and health regeneration for people near you. Also slightly buffs the sanity and blood regeneration of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by yellow particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Nemit [Capra](Capra.md) Variant.
-
-### Mark of Ku
-
-Buffs the blood and health regeneration of people near you. Also slightly buffs the nourishment of food and sanity of affected players. These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second. Signified by light green particles surrounding the body. This has a 3 minute 30 second cooldown and can only be used while resting at a campfire. Can only be applied by players who have the the Ku [Capra](Capra.md) Variant.
 
 ### Acid
 

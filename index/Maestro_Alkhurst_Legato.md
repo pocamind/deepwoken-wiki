@@ -1,12 +1,11 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 190269
+revid: 190297
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Maestros of the Vigils, Circle of Honour members]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Maestros of the Vigils, Circle of Honour members]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Maestro Alkhurst Legato
@@ -98,44 +97,51 @@ He wears a White [Deepwoken Cloak](Deepwoken_Cloak.md) laid on top of a [Cloak o
   <td colspan="20">As would the duty of those who have taken the Vow of Iron. Have you had any luck in the matter?</td>
 </tr>
 <tr>
-  <td colspan="5">(No bosses defeated) I am still looking for a way forward.</td>
-  <td colspan="5">(Defeated <a href="Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md">the Shogun</a>) I have made some progress. My next goal is to seek information at the golden rat.</td>
-  <td colspan="5">(Defeated and spoke to <a href="Dravik,_The_Rat_King.md">Dravik</a>) I have learned how to destroy the barrier after defeating Dravik, the Rat King... He sends you his regards.</td>
+  <td colspan="5">(No bosses defeated)<p>I am still looking for a way forward.</p></td>
+  <td colspan="5">(Defeated <a href="Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md">The Shogun</a>)<p>I have made some progress. My next goal is to seek information at the golden rat.</p></td>
+  <td colspan="5">(Defeated and spoke to <a href="Dravik,_The_Rat_King.md">Dravik</a>)<p>I have learned how to destroy the barrier after defeating Dravik, the Rat King... He sends you his regards.</p></td>
+  <td colspan="5">(Defeated <a href="True_Heart_of_Enmity.md">True Enmity</a>)<p>I wanted to ask about the situation in Etrea again.</p></td>
 </tr>
 <tr>
   <td colspan="5">For all of our sakes, I hope that you succeed in your quest soon enough. The longer the Calamity reigns, the stronger its hold of Etrea becomes - and the greater the threat it poses. I wish I could offer you more help, Ironsworn, but... i hope you understand the circumstances do not permit me to leave the vigils. But should you need any advice, I am happy to oblige.</td>
-  <td colspan="5">*Something shifts in Alkhursts expression.* ...An interesting place, to put it lightly. A den of vagabonds, revellers, and mercenaries, to put it more bluntly. I hear the Etrean Royalists gather there for a similar purpose to yours. I hope you find what you are seeking there, Ironsworn. Oh, and... if i may request, do pass my dearest regards to the <a href="High_Monk_Junsui.md">High Monk</a>. It has been a while since we've last spoken.</td>
+  <td colspan="5">*Something shifts in Alkhursts expression.* ...An interesting place, to put it lightly. A den of vagabonds, revellers, and mercenaries, to put it more bluntly. I hear the Etrean Royalists gather there for a similar purpose to yours. I hope you find what you are seeking there, Ironsworn. Oh, and... if i may request, do pass my dearest regards to the High Monk. It has been a while since we've last spoken.</td>
   <td colspan="5">*The Maestro's expression shifts inscrutable - is it relief? Anger? Pride? Disappointment?...* ...Hmpf. The old hound never stopped learning new tricks, it seems. Nor did he ever stop seeking ever greater heights, from the looks of it. That does sound like him... I am impressed that you were able to defeat him in combat - I only pray that he finds his way out of the under-realm. It would be a great shame for the world to lose a warrior like him, regardless of whatever has become of him these days. How do you intead to destroy the barrier then?</td>
+  <td colspan="5">The place has become a citadel. A fortress. Zi'eer has placed countless of his monstrous shoguns all around the island. he had shielded the royal palace with some impenetrable barrier... But you have already taken care of that. Therefore, we now have an excellent opportunity to act against him. Zi'eer's defenses are weakened and exposed. We have an opening through which to strike him down. You would do well to prepare as best as you can for your fight with him, Ironsworn.</td>
 </tr>
 <tr>
-  <td colspan="5">I have to descend to the Depths, and make a bargain with the Voices of the Cathedral of Interstice to resurface within the bounds of the barrier."</td>
+  <td colspan="10">(Continuation of Dravik dialogue)<p>I have to descend to the Depths, and make a bargain with the Voices of the Cathedral of Interstice to resurface within the bounds of the barrier."</p></td>
+  <td colspan="10">(Continuation of post enmity dialogue)<p>Is there any advice you can give me for when I head off to face him?</p></td>
 </tr>
 <tr>
-  <td colspan="5">*For a few moments, ALkhurst observes you sharply, contemplating in stunned silence.* ...To call that 'unorthodox' would be an understatement. Were it anyone other than you, i would say that death seems all but certain,. But, I suppose if this does not permit you to destroy the barrier, at least you'll have a clear shot at Zi'eer. Yet... I am less suprised to hear that you learned this knowledge from Dravik. If anyone were to ever come up with such a deranged yet cunning plan... It would be him.</td>
+  <td colspan="10">*For a few moments, ALkhurst observes you sharply, contemplating in stunned silence.* ...To call that 'unorthodox' would be an understatement. Were it anyone other than you, i would say that death seems all but certain,. But, I suppose if this does not permit you to destroy the barrier, at least you'll have a clear shot at Zi'eer. Yet... I am less suprised to hear that you learned this knowledge from Dravik. If anyone were to ever come up with such a deranged yet cunning plan... It would be him.</td>
+  <td colspan="10">*He contemplates for a moment, his gaze searching in the distance.* You must have seen the situation in Etrea yourself by now. Dozens of Shoguns, and heavy resistance all over. As for facing Zi'eer himself... I'm afraid i cannot offer much, He was always secretive about his fighting style - I only know that he is fast and ruthless. Though... Just recently, I leared a secret of his, from a fellow Circle member.</td>
 </tr>
 <tr>
-  <td colspan="5">what happened between you and Dravik? Do the two of you have a history?</td>
+  <td colspan="10">what happened between you and Dravik? Do the two of you have a history?</td>
+  <td colspan="10">A secret?</td>
 </tr>
 <tr>
-  <td colspan="5">*The Maestro turns his gaze to the side.* He was an instructor of the Vigils before the war. One of your finest, in fact. We were close friends, him and I - he first came to the Temple seeking a kind of repentance for his past deeds. I did not judge him for the life he led before. He said that for once, he wanted to do good -to train the youths of Etrea in the art of the sword, to help them channel themselves through the blade for the defense of their people. But he was overzealous in his methods</td>
+  <td colspan="10">*The Maestro turns his gaze to the side.* He was an instructor of the Vigils before the war. One of your finest, in fact. We were close friends, him and I - he first came to the Temple seeking a kind of repentance for his past deeds. I did not judge him for the life he led before. He said that for once, he wanted to do good -to train the youths of Etrea in the art of the sword, to help them channel themselves through the blade for the defense of their people. But he was overzealous in his methods.</td>
+  <td colspan="10">*Alkhurst nods stternly.* One of the sources of his powers. it is the Coral Throne, which he has brought to the Royal Palace, and with which he reigns. As I understand it, acts as a sort if power amplifier to Zi'eer's abilities. if it is destroyed, perhaps facing him would be much easier... If you want to know more, however, you'll have to reach out to Warden Jericho, of the Central Authority. He will be able to tell you the details better than i could.</td>
 </tr>
 <tr>
-  <td colspan="5">'Overzealous'?</td>
+  <td colspan="10">'Overzealous'?</td>
+  <td colspan="10">May I ask something else? (loops dialogue)</td>
 </tr>
 <tr>
-  <td colspan="5">In training, he could sometimes be ruthless to our pupils - no doubt ha fault he carried on from his past life. At times, I would have to interfere -then, he would insist on sparring with me instead of the student. He found a certain thrill in fighting, but he would never be satisfied merely with fighting students. I tried to temper his ambition, to steady his ways... But he did not take kindly to it. Dravik insisted that with me in charge, the famed Temple of the Blade had lost its way, and that our swords have lost their edge.</td>
+  <td colspan="10">In training, he could sometimes be ruthless to our pupils - no doubt ha fault he carried on from his past life. At times, I would have to interfere -then, he would insist on sparring with me instead of the student. He found a certain thrill in fighting, but he would never be satisfied merely with fighting students. I tried to temper his ambition, to steady his ways... But he did not take kindly to it. Dravik insisted that with me in charge, the famed Temple of the Blade had lost its way, and that our swords have lost their edge.</td>
 </tr>
 <tr>
-  <td colspan="5">What happened next?</td>
+  <td colspan="10">What happened next?</td>
 </tr>
 <tr>
-  <td colspan="5">*Alkhurst sights.* He challenged me to a duel. He said that if I wasn't going to do my job as a Maestro and bring the students to their full potential, then he would challenge me, to become the new maestro. Thinking that a proper fight with me would at last satisfy his ambition, I accepted. We dueled in this very hall, before the students, and the other Vigils. But we reached no conclusion -we were locked in a stalemate. Eventually, I landed a devastating blow upon him - at which point he only stood up, and declared that he was satisfied.</td>
+  <td colspan="10">*Alkhurst sights.* He challenged me to a duel. He said that if I wasn't going to do my job as a Maestro and bring the students to their full potential, then he would challenge me, to become the new maestro. Thinking that a proper fight with me would at last satisfy his ambition, I accepted. We dueled in this very hall, before the students, and the other Vigils. But we reached no conclusion -we were locked in a stalemate. Eventually, I landed a devastating blow upon him - at which point he only stood up, and declared that he was satisfied.</td>
 </tr>
 <tr>
-  <td colspan="5">And then he left, i assume?</td>
+  <td colspan="10">And then he left, i assume?</td>
 </tr>
 <tr>
-  <td colspan="5">*Maestro Legato nods.* Dravik's last words to me before he left were, 'I was wrong about you, Alkhurst. You are not a shadow of your former self - but you are too gentle for your flock'. He then departed the temple with all his possessions, never to return again. I hear he has returned to his past life now - a 'noble' ruffian. A vagabond with 'principles'. *Alkhurst frowns.* A disappointing fall from his redemption.</td>
+  <td colspan="10">*Maestro Legato nods.* Dravik's last words to me before he left were, 'I was wrong about you, Alkhurst. You are not a shadow of your former self - but you are too gentle for your flock'. He then departed the temple with all his possessions, never to return again. I hear he has returned to his past life now - a 'noble' ruffian. A vagabond with 'principles'. *Alkhurst frowns.* A disappointing fall from his redemption.</td>
 </tr>
 <tr>
   <td colspan="10">Perhaps my fight with him was his redemption. After all, he told me how to destroy the barrier.</td>

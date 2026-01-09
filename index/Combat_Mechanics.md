@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 190252
+revid: 190327
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -670,7 +670,7 @@ Blue
  |  | Attacks with this indicator must be crouched under.
 
   
-Most attacks with this indicator deal high posture damage.  
+Most attacks with this indicator deal high posture damage.
 
  |
 | All attacks that have this attribute:
@@ -692,7 +692,7 @@ White
  |  | 
 
   
-Attacks with this indicator must be jumped over.
+Attacks with this indicator can be jumped over.
 
  |
 | All attacks that have this attribute:

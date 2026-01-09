@@ -1,6 +1,6 @@
 ---
 title: Khan
-revid: 184343
+revid: 190298
 source: https://deepwoken.fandom.com/wiki/Khan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -138,8 +138,6 @@ Khans have crown-like ornaments that change color based on your variant. The cir
 
 ## Trivia
 
-Monkskipper
-
 -   The aspect is based on Sun Wukong and monkeys.
 -   Khan means "King" in Mongolian, and Hindi, Hence the reason why they have a crown as ornament.
 -   In the novel "Journey to the West", the crown of Sun Wukong is actually a curse.
@@ -154,5 +152,3 @@ Monkskipper
 ## References
 
 1.  [↑](#cite-ref-1)
-    
-    Arch\_Mage stating that Khans frequently bet on fights.
