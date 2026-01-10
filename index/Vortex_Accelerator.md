@@ -1,6 +1,6 @@
 ---
 title: Vortex Accelerator
-revid: 189930
+revid: 190382
 source: https://deepwoken.fandom.com/wiki/Vortex_Accelerator
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Equipment Relics, Relics]
@@ -19,7 +19,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Equipment Relics, Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | The Depths |
 | description | The less health you have, the lower your mantra cooldowns. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

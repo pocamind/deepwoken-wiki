@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 190366
+revid: 190387
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -406,7 +406,7 @@ The color of this indicator changes depending on the attack used.
  |
 | 
 
-Crosshair
+Crosshair\*
 
  |  | This indicator is most prevalent on attacks that make use of homing projectiles.  
 
@@ -601,9 +601,18 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 
  |
 
-\*The Circle indicator changes color depending on the attack. The color is based off the [Attunement](Attunements.md) the attack came from; being White if the attack is [Attunement-less](Attunement-less.md) or is unaligned with any Attunement, Red if [Bloodrend](Bloodrend.md), Light Orange if [Flamecharm](Flamecharm.md), Light Blue if [Frostdraw](Frostdraw.md), Green if [Galebreathe](Galebreathe.md), Light Grey if [Ironsing](Ironsing.md), Purple if [Shadowcast](Shadowcast.md), or Yellow if [Thundercall](Thundercall.md).
+\*The Circle and Crosshair indicators change color depending on the attack. The colors are as follows:
 
-\*\*Possibly a bug, but Titus's _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
+-   White for [Attunement-less](Attunement-less.md) or unaligned with any Attunement
+-   Light orange for [Flamecharm](Flamecharm.md)
+-   Light blue for [Frostdraw](Frostdraw.md)
+-   Yellow for [Thundercall](Thundercall.md)
+-   Green for [Galebreathe](Galebreathe.md)
+-   Purple for [Shadowcast](Shadowcast.md)
+-   Light grey for [Ironsing](Ironsing.md)
+-   Red for [Bloodrend](Bloodrend.md)
+
+\*\*Possibly a bug, but [Titus](Titus_Fulminus_Destellus.md)' _Worldshattering Smackdown_ is dodgeable albeit having a green telegraph. Refer to [this video](https://streamable.com/h20tpc).
 
 ### Highlighted Attacks
 

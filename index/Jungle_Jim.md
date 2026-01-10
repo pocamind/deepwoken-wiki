@@ -1,6 +1,6 @@
 ---
 title: Jungle Jim
-revid: 189731
+revid: 190388
 source: https://deepwoken.fandom.com/wiki/Jungle_Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages requiring a cleanup, In progress without reason, InProgressPages, Individuals with unspecified pronouns]
@@ -30,54 +30,62 @@ Jungle Jim is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have 
 
 Jungle Jim wields [Gale Pale](Gale_Pale.md). Additionally, they visibly possess a [Bell](Resonance.md). However, they don't seem to use it.
 
-| Name/Danger | Description |
-| --- | --- |
-| 
-**Assault**  
-(★☆☆)
-
- | Performs 3 basic attacks before sending the opponent away with a flourish.
-
- |
-| 
-
-**Critical**  
-(★★☆)
-
- | Jim uses the Gale Pale critical (identical to [Pale Morning](Pale_Morning.md)).
-
- |
-| 
-
-**Revenge**  
-(★☆☆)
-
- | A quick dash signified by a red-line effect.
-
- |
-| 
-
-**Twister Kicks**  
-(★☆☆)
-
- | Jungle Jim spins around, unleashing a flurry of 4 kicks infused with the wind.
-
- |
-| 
-
-**Twincleave**  
-(★☆☆)
-
- | Jim unleashes 2 slashes, the first moving them forward, the second launching them backwards.
-
- |
-| 
-
-**Judgement**  
-(★★☆)
-
- | Summons a black casting circle before enveloping his target in black tendrils and tearing them apart.
-
--   The move will instantly execute if it brings HP to 0.
-
- |
+<table>
+<tbody>
+<tr>
+  <th>Name/Danger</th>
+  <th>Description</th>
+  <td>Media</td>
+</tr>
+<tr>
+  <td><center><b>Assault</b><br>
+  (★☆☆)</center></td>
+  <td>Performs 3 basic attacks before sending the opponent away with a flourish.<div>
+  <ul>
+  </ul></div></td>
+</tr>
+<tr>
+  <td><center><b>Critical</b><br>
+  (★★☆)</center></td>
+  <td>Jim uses the Gale Pale critical (identical to <a href="Pale_Morning.md">Pale Morning</a>).<div>
+  <ul>
+  </ul></div></td>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <td><center><b>Revenge</b><br>
+  (★☆☆)</center></td>
+  <td>A quick dash signified by a red-line effect.<div>
+  <ul>
+  </ul></div></td>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <td><center><b>Twister Kicks</b><br>
+  (★☆☆)</center></td>
+  <td>Jungle Jim spins around, unleashing a flurry of 4 kicks infused with the wind.<div>
+  <ul>
+  </ul></div></td>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <td><center><b>Twincleave</b><br>
+  (★☆☆)</center></td>
+  <td>Jim unleashes 2 slashes, the first moving them forward, the second launching them backwards.<div>
+  <ul>
+  </ul></div></td>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+<tr>
+  <td><center><b>Judgement</b><br>
+  (★★☆)</center></td>
+  <td>Summons a black casting circle before enveloping his target in black tendrils and tearing them apart.
+  <ul>
+    <li>The move will instantly execute if it brings HP to 0.</li>
+  </ul><div>
+  <ul>
+  </ul></div></td>
+  <td><figure><figcaption></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
