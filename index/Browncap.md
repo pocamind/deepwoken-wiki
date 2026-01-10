@@ -1,6 +1,6 @@
 ---
 title: Browncap
-revid: 154796
+revid: 190638
 source: https://deepwoken.fandom.com/wiki/Browncap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -8,7 +8,20 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 
 # Browncap
 
-Template:Food Template V1
+| Browncap | |
+|---|---|
+| value | N/A |
+| weight | 1 |
+| stack | x99 |
+| type | Ingredient |
+| food type | ?? |
+| rarity | Common |
+| stomach | ??% |
+| water | ??% |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A plain tasting mushroom that grows just about anywhere. |
 
 ## Description
 
@@ -18,7 +31,7 @@ A brown mushroom with a white stalk. Commonly found in [Etris](Etris.md), [Isle 
 
 -   [Mushroom Soup](Mushroom_Soup.md) (Any 2 muchrooms)
 -   [Mushroom Omelette](Mushroom_Omelette.md) (2 eggs, 1 mushroom)
--   Mushroom Bisque (1 of Any Mushroom, 1 Crustacean Meat)
+-   [Mushroom Bisque](Mushroom_Bisque.md) (1 of Any Mushroom, 1 Crustacean Meat)
 
 ## Trivia
 

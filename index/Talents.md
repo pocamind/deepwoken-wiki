@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 190340
+revid: 190599
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3808,9 +3808,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Flashboil \[Common Talent, Dual Attunement, Flamecharm, Frostdraw\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
     -   Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a _stationary_ steam cloud.
         -   The burn status effect doesn't count as "Flamecharm damage" for this Talent, meaning if you apply burn via Agitating Spark, Immolation, or some other non-Flamecharm damaging source to a chilled target, nothing will happen.
-    -   Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's.
+    -   Steam clouds deal 2 damage per tick in an AoE at 6 ticks per second.
     -   Steam clouds are unparryable, unblockable, and bypass armor resistances.
-    -   Steam clouds last 10 seconds and have an internal proc cooldown **per target** of 10 seconds.
+    -   Steam clouds last 5 seconds and have an internal proc cooldown **per target** of 5 seconds.
     -   This Talent is incredibly good for PvE in high mob density areas like [The Diluvian Mechanism](The_Diluvian_Mechanism.md) because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
     -   Prerequisites: 30 Flamecharm, 30 Frostdraw
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Glass Path: Crystallization, Wraith Path: Twisted Puppets

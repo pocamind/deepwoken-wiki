@@ -1,6 +1,6 @@
 ---
 title: Bluecap
-revid: 164154
+revid: 190640
 source: https://deepwoken.fandom.com/wiki/Bluecap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -12,7 +12,9 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 |---|---|
 | value | N/A |
 | weight | 1 |
+| stack | x99 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -25,10 +27,6 @@ A consumable mushroom that that is blue and has a tube-like stalk. This is used 
 ## Recipes used in
 
 It can be used to make [ether and sanity regen potions](Alchemy.md).
-
-Potion Recipes:
-
-Sanity regen
 
 ## Trivia
 

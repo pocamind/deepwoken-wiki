@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 190341
+revid: 190601
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -489,7 +489,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   30 Frostdraw</td>
   <td>Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.</td>
   <td>Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.<br>
-  Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's. Steam clouds last 10 seconds and have an internal proc cooldown per target of 10 seconds.</td>
+  Steam clouds deal 2 damage per tick in an AoE at 6 ticks per second. Steam clouds last 5 seconds and have an internal proc cooldown per target of 5 seconds.</td>
 </tr>
 <tr>
   <td>Boiling Point<br>
@@ -658,7 +658,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   30 Frostdraw</td>
   <td>Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.</td>
   <td>Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a stationary steam cloud.<br>
-  Steam clouds deal 2 damage per tick in an AoE at a rate similar to burn's. Steam clouds last 10 seconds and have an internal proc cooldown per target of 10 seconds.</td>
+  Steam clouds deal 2 damage per tick in an AoE at 6 ticks per second. Steam clouds last 5 seconds and have an internal proc cooldown per target of 5 seconds.</td>
 </tr>
 <tr>
   <td>Boiling Point<br>

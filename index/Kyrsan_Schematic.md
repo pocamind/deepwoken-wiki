@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Schematic
-revid: 159282
+revid: 190665
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Schematic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Drops]
@@ -14,7 +14,8 @@ categories: [Items, Ingredients, Drops]
 | weight | None |
 | stack | x6 |
 | type | Ingredient |
-| bankable | Yes |
+| rarity | Common |
+| bankable | Yes, for 1 |
 | droppable | Yes |
 | pass down | No |
 | desc | It's hard to make out, but the language eclipses you, yet it seems to resemble some sort of timekeeping device... It appears as though the schematic is detailing the proper finetuning of a power source to fit the time piece. |

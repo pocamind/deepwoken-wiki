@@ -1,6 +1,6 @@
 ---
 title: Deep Gems
-revid: 175612
+revid: 190611
 source: https://deepwoken.fandom.com/wiki/Deep_Gems
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Treasures, Deep Gems]
@@ -31,6 +31,6 @@ While any Deep Gem can be equipped onto any Mantra, certain Gems may not proc on
 
 ## Critical Engine
 
-If you have the [Critical Engine](Talents.md#critical-engine) Talent, you can apply the effects of Deep Gems to your [Weapon](Weapons.md) critical by holding any Deep Gem of your choice and using the Critical Engine Talent tool. Equipping a Deep Gem onto your weapon critical with Critical Engine will not consume the Gem, and will instead apply the effects of your Gem without it leaving your inventory. Your chosen Gem does not save between servers however, and must be reapplied every time you join the game.
+If you have the [Critical Engine](Talents.md#critical-engine) Talent, you can apply the effects of Deep Gems to your [Weapon](Weapons.md) critical by holding any Deep Gem of your choice and using the Critical Engine Talent tool. Equipping a Deep Gem onto your weapon critical with Critical Engine will not consume the Gem, and will instead apply the effects of your Gem without it leaving your inventory. Your chosen gem will save across servers, so you only need to set it once.
 
 Most Gems retain their original effect when being applied to your weapon critical, but [Blue Gems](Blue_Gem.md) have a completely unique one; upon landing your critical with a Blue Gem equipped, you will gain Ether back based on scaled damage dealt.

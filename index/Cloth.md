@@ -1,6 +1,6 @@
 ---
 title: Cloth
-revid: 176971
+revid: 190628
 source: https://deepwoken.fandom.com/wiki/Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -14,6 +14,7 @@ categories: [Items, Craftable, Ingredients]
 | weight | 0 |
 | stack | x99 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

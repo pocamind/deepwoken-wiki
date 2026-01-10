@@ -1,6 +1,6 @@
 ---
 title: Odd Tentacle
-revid: 104588
+revid: 190659
 source: https://deepwoken.fandom.com/wiki/Odd_Tentacle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -13,6 +13,7 @@ categories: [Items, Drops, Ingredients]
 | value | 150 |
 | weight | None |
 | type | Monster Material |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

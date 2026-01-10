@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 188954
+revid: 190607
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, SpoilerPages, Pages with broken file links, Lore, Deepwoken]
@@ -1691,7 +1691,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 **Lore Sources:** _Blindseer Stone, The Ministry (Mentioned), Warden Jericho's Journal (Mentioned)_
 
 -   A new king rose to power and seemingly through the machinations of the Ministry, the Celtorian Horror - a colossal sea monster[\[4\]](#cite-note-arch-4) - dragged the city beneath the waves.
--   The city of Celtor is now located in Scyphozia, the first layer of The Depths.
+-   The City of Celtor is now located in [Scyphozia, The first Layer of The Depths](First_Layer.md).
 -   Drowning took place well after the Canticlysm ended.
 
 ### The Depths
@@ -1705,7 +1705,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
     -   While it is believed that the layers are ordered top to bottom, there is no actual order to them. The first layer, Schyphozia, directly borders the world, encompassing it like a bubble. However, the second layer, The Eternal Gale, does not, and there is not any information on it's location within reality.
         -   There are three known Layers contained within The Depths, but there may well be more.
         -   As the layers get further from reality, the center, they appear to get closer to the Drowned Gods.
-            -   The first Layer, the Celtor wastes, is where the shrines to Yun'Shul are found.
+            -   The first Layer, the Celtor Wastes, is where the shrines to Yun'Shul are found.
             -   The second Layer is where the Drowned God Ethiron and its guardian, the Scion of Ethiron are found.
             -   The third Layer is where the physical body of Korilfiend is found, and where [Amorus Pleeksty](Amorus_Pleeksty.md) is currently.
 -   It seems that the effects of aging are somewhat mitigated in The Depths, as there are some denizens of it that appear to have fallen centuries ago.

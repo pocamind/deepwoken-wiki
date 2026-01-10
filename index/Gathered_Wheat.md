@@ -1,6 +1,6 @@
 ---
 title: Gathered Wheat
-revid: 174409
+revid: 190667
 source: https://deepwoken.fandom.com/wiki/Gathered_Wheat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy]
@@ -13,6 +13,7 @@ categories: [Ingredients, Harvestables, Alchemy]
 | value | N/A |
 | weight | 0.25 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

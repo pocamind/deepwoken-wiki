@@ -1,6 +1,6 @@
 ---
 title: Blue Gem
-revid: 176946
+revid: 190622
 source: https://deepwoken.fandom.com/wiki/Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -14,6 +14,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | weight | 1 |
 | stack | x25 |
 | type | Deep Gem |
+| rarity | Legendary |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

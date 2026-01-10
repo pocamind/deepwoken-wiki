@@ -1,6 +1,6 @@
 ---
 title: Might Gem
-revid: 177653
+revid: 190615
 source: https://deepwoken.fandom.com/wiki/Might_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -14,6 +14,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | weight | 1 |
 | stack | x25 |
 | type | Deep Gem |
+| rarity | Legendary |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

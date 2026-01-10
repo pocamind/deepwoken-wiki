@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat Cloth"
-revid: 177027
+revid: 190636
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat_Cloth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -13,6 +13,7 @@ categories: [Items, Drops, Ingredients]
 | value | 1,500 |
 | weight | None |
 | type | Ingredient |
+| rarity | Unique |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

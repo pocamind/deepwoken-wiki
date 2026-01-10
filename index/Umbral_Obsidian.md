@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 148675
+revid: 190648
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients, Drops]
@@ -14,14 +14,11 @@ categories: [Items, Elemental Ingredients, Drops]
 | weight | 0 |
 | stack | x99 |
 | type | Elemental Ingredient |
+| rarity | Rare |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | While holding it, you can feel the shadows darkening your soul. |
-
-“ While holding it, you can feel the shadows darkening your soul. ”
-
-― In-game Description
 
 ## Description
 
@@ -59,3 +56,4 @@ Umbral Obsidian can drop from certain monsters, chests, and enemies that use the
 -   Can be consumed so be careful when holding it.
 -   Roughly 10% chance to drop from Megalodaunts and Lionfishes.
 -   Eating Umbral Obsidians if you have Shadowcast will give EXP for Shadowcast, thus training it.
+-   Umbral Obsidian is the only Elemental Ingredient to have the rare rarity. All other Elemental Ingredients are common.

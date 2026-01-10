@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Mask Ingredients
-revid: 178202
+revid: 190647
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Mask_Ingredients
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Items, Hallowtide, Event Item]
@@ -16,6 +16,7 @@ notices:
 | weight | 0 |
 | stack | x99 |
 | type | Quest Item |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -28,6 +29,7 @@ notices:
 | weight | 0 |
 | stack | x99 |
 | type | Quest Item |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -40,6 +42,7 @@ notices:
 | weight | 0 |
 | stack | x99 |
 | type | Quest Item |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

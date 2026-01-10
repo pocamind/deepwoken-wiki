@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 185545
+revid: 190609
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -22,15 +22,21 @@ Off the coast of Markor is the Lullaby Isles, an area with a dense mountain rang
 
 ## Western Luminant
 
-Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by Gaius (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West.
+Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by [Gaius](Gaius.md) (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West.
 
 [The Covenant of Flame](The_Covenant_of_Flame.md) and modern [Flame-charm](Flamecharm.md) originated from this Luminant due to it being the birth-place of [Amorus Pleeksty](Amorus_Pleeksty.md) and where he descended to the Third Layer. This has lead to the Tirans in the luminant etching floral patterns into their weaponry as a tribute to the pioneer[\[1\]](#cite-note-1)
+
+[The Starkindred Church](The_Starkindred_Church.md) also comes from this Luminant, holding influence that rivals [The Hundred Legions](The_Hundred_Legions.md)'.
 
 This is where the [Battle Royale](Battle_Royale.md) game-mode takes place.
 
 ## Southern Luminant
 
-The Southern Luminant, what used to be a Luminant brimmed with temperate forest before it succumbed to gradual decay from the Voidsea. Navae's Guidance Compass points here. The developers have said that they will not add it to the game due to it mostly being Voidsea.
+The Southern Luminant, what used to be a Luminant brimmed with temperate forest, ended up being the victim of [The Great Drowning](https://deepwoken.fandom.com/wiki/Lore#The_Great_Drowning_of_Celtor).
+
+[Caerantil](Caeranthil.md) was once an island that was in this Luminant, but it has since been drowned by [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
+
+The developers have said that they will not add it to the game due to it mostly being [Voidsea](Voidsea.md).
 
 ## Northern Luminant
 

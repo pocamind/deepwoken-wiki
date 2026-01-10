@@ -1,6 +1,6 @@
 ---
 title: Pomar
-revid: 177678
+revid: 190666
 source: https://deepwoken.fandom.com/wiki/Pomar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Harvestables, Food Ingredients]
@@ -14,6 +14,7 @@ categories: [Harvestables, Food Ingredients]
 | stack | x99 |
 | type | Ingredient |
 | food type | Plant |
+| rarity | Common |
 | stomach | 10% |
 | water | 5% |
 | bankable | Yes |

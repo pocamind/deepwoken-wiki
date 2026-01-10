@@ -1,6 +1,6 @@
 ---
 title: Dread Flesh
-revid: 162916
+revid: 190660
 source: https://deepwoken.fandom.com/wiki/Dread_Flesh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Items]
@@ -10,9 +10,10 @@ categories: [Ingredients, Items]
 
 | Dread Flesh | |
 |---|---|
-| value | Unknown |
+| value | N/A |
 | weight | 0.25 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

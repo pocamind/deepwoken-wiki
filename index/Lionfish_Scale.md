@@ -1,6 +1,6 @@
 ---
 title: Lionfish Scale
-revid: 104031
+revid: 190668
 source: https://deepwoken.fandom.com/wiki/Lionfish_Scale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -13,6 +13,7 @@ categories: [Items, Drops, Ingredients]
 | value | 15 |
 | weight | None |
 | type | Monster Material |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

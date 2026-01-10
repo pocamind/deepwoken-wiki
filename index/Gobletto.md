@@ -1,6 +1,6 @@
 ---
 title: Gobletto
-revid: 152758
+revid: 190637
 source: https://deepwoken.fandom.com/wiki/Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -8,7 +8,20 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 
 # Gobletto
 
-Template:Food Template V1
+| Gobletto | |
+|---|---|
+| value | N/A |
+| weight | 1 |
+| stack | x99 |
+| type | Ingredient |
+| food type | ?? |
+| rarity | Common |
+| stomach | ??% |
+| water | ??% |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Chewy like an old boot. |
 
 ## Description
 

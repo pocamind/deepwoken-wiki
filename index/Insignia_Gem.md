@@ -1,6 +1,6 @@
 ---
 title: Insignia Gem
-revid: 177619
+revid: 190621
 source: https://deepwoken.fandom.com/wiki/Insignia_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -14,6 +14,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | weight | 1 |
 | stack | x25 |
 | type | Deep Gem |
+| rarity | Legendary |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

@@ -1,6 +1,6 @@
 ---
 title: Aegis Gem
-revid: 180601
+revid: 190625
 source: https://deepwoken.fandom.com/wiki/Aegis_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems, The Vat Exclusive]
@@ -14,6 +14,7 @@ categories: [Treasures, Mantras, Deep Gems, The Vat Exclusive]
 | weight | 1 |
 | stack | x25 |
 | type | Deep Gem |
+| rarity | Legendary |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

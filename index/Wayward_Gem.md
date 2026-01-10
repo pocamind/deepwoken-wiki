@@ -1,6 +1,6 @@
 ---
 title: Wayward Gem
-revid: 176917
+revid: 190618
 source: https://deepwoken.fandom.com/wiki/Wayward_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -14,6 +14,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | weight | 1 |
 | stack | x25 |
 | type | Deep Gem |
+| rarity | Legendary |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

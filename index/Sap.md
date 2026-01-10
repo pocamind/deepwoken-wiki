@@ -1,6 +1,6 @@
 ---
 title: Sap
-revid: 175672
+revid: 190644
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Ingredients, Harvestables, Alchemy]
@@ -13,6 +13,7 @@ categories: [Consumables, Ingredients, Harvestables, Alchemy]
 | value | N/A |
 | weight | 1 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

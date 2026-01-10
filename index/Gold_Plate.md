@@ -1,6 +1,6 @@
 ---
 title: Gold Plate
-revid: 176078
+revid: 190641
 source: https://deepwoken.fandom.com/wiki/Gold_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops]
@@ -14,6 +14,7 @@ categories: [Items, Drops]
 | weight | 0 |
 | stack | x25 |
 | type | Miscellaneous |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

@@ -1,6 +1,6 @@
 ---
 title: Parasol Part
-revid: 173640
+revid: 190627
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -11,8 +11,9 @@ categories: [Items, Drops, Ingredients]
 | Parasol Part | |
 |---|---|
 | value | 5,000 |
-| weight | None |
+| weight | N/A |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

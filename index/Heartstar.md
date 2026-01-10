@@ -1,6 +1,6 @@
 ---
 title: Heartstar
-revid: 142558
+revid: 190654
 source: https://deepwoken.fandom.com/wiki/Heartstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -13,14 +13,11 @@ categories: [Items, Elemental Ingredients]
 | value | 10 |
 | weight | 0 |
 | type | Elemental Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | A hardened crystal of blood extracted from a student of the Second Prophet. Seems to contain a great deal of power within it... |
-
-“ A hardened crystal of blood extracted from a student of the Second Prophet. Seems to contain a great deal of power within it... ”
-
-― In-game Description
 
 ## Description
 

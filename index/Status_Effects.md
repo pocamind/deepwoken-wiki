@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 190320
+revid: 190672
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -533,6 +533,10 @@ Signified by your character producing a bright yellow light from your chest, gai
 ### Bane
 
 Upon using an M1, teleport to any opponent within a 25 stud radius. This effect is applied through using the Bane Talent Tool from the [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>). The Bane status effect lasts 20 seconds and additionally grants a [speed boost](#speed-boost) for that same duration. Signified by blue particle effects and smoke pouring out of your character.
+
+### Pierced Armor
+
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Piercing Shot](Talents.md#piercing-shot) Talent from the [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), take increased PEN from all sources for a few seconds.
 
 ## Resonance Applied
 

@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 185776
+revid: 190600
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -41,7 +41,7 @@ Akin to the [Shattered](Shattered_Katana.md) and [Alloyed Katanas](Katana.md), t
 
 ## Critical
 
-The user leans down and grabs the blade's handle before dashing forwards, teleporting behind the first enemy hit, dealing roughly **~1.05-1.1x** scaled damage and high posture damage with the blade. This critical innately applies [Bleed](Status_Effects.md#bleed) damage.
+The user leans down and grabs the blade's handle before dashing forwards, teleporting behind the first enemy hit, dealing **1.2x** scaled damage and high posture damage with the blade. This critical innately applies [Bleed](Status_Effects.md#bleed) damage.
 
 The critical has a cooldown of **7 seconds**.
 

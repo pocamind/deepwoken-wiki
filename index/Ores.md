@@ -1,6 +1,6 @@
 ---
 title: Ores
-revid: 190583
+revid: 190634
 source: https://deepwoken.fandom.com/wiki/Ores
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Harvestables]
@@ -13,6 +13,7 @@ categories: [Items, Harvestables]
 | value | N/A |
 | weight | 1 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -23,6 +24,7 @@ categories: [Items, Harvestables]
 | value | 1 |
 | weight | 1 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -33,6 +35,7 @@ categories: [Items, Harvestables]
 | value | 5 |
 | weight | 1 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -43,6 +46,7 @@ categories: [Items, Harvestables]
 | value | 10 |
 | weight | 1 |
 | type | Ingredient, Consumable |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -53,6 +57,7 @@ categories: [Items, Harvestables]
 | value | 15 |
 | weight | 1 |
 | type | Ingredient, Consumable |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -63,6 +68,7 @@ categories: [Items, Harvestables]
 | value | 12 |
 | weight | 1 |
 | type | Ingredient, Consumable |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -73,6 +79,7 @@ categories: [Items, Harvestables]
 | value | 15 |
 | weight | 1 |
 | type | Ingredient, Consumable |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -83,6 +90,7 @@ categories: [Items, Harvestables]
 | value | 15 |
 | weight | 1 |
 | type | Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
