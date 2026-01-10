@@ -1,6 +1,6 @@
 ---
 title: "Gale Master's Earrings"
-revid: 190011
+revid: 190403
 source: https://deepwoken.fandom.com/wiki/Gale_Master's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -21,8 +21,8 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | TBA |
-| description | Putting thees on, you feel as if you are light as a cloud. |
+| obtainment | Any Chest in Vow of Iron |
+| description | Putting these on, you feel as if you are light as a cloud. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

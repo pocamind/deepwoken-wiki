@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 180083
+revid: 190405
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -68,7 +68,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
     -   While active, Air Dash goes much further in any direction, however the effectiveness is reduced if going horizontally.
     -   Starkindred mantras have slightly faster cast time while the wings are out as you do not repeat the wing growing animation.
     -   If undyed, comes in the color of your hair color.
-    -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, to remove this effect apply a [Reversal Spark](Mantra_Modifiers.md#sparks) to **Fire Blade**.
+    -   The mantra **[Fire Blade](Flamecharm.md#fire-blade)** now launches the user upward before releasing a large plume of flames, dealing increased damage (0.6x Fire Blade Damage, ticks 4 times). Deep Gems are disabled when using this. To remove this effect, apply a [Reversal Spark](Mantra_Modifiers.md#sparks) to **Fire Blade**.
     -   [Kindred Edict](Kindred_Edict.md)'s criticals apply 5 [Wither](Status_Effects.md#wither) on hit when your wings are out.
     -   Chrysid, Ganymede and Vesperian will all have different wings instead of what it is usually. Moth wings for Chrysid and beetle wings for Ganymede/Vesperian.
 

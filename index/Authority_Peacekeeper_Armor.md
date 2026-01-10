@@ -1,6 +1,6 @@
 ---
 title: Authority Peacekeeper Armor
-revid: 186458
+revid: 190409
 source: https://deepwoken.fandom.com/wiki/Authority_Peacekeeper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, Outfits of The Central Authority]
@@ -24,7 +24,7 @@ categories: [Outfits, Adept Outfits, Outfits of The Central Authority]
 | selling_price | 10 |
 | weight | 1 |
 
-**Authority Peacekeeper Armour** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
+**Authority Peacekeeper Armour** is an Adept [Outfit](Outfits.md) in _Deepwoken_. This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 
@@ -32,7 +32,7 @@ categories: [Outfits, Adept Outfits, Outfits of The Central Authority]
 
 This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 5 [Fortitude](Attributes.md#ftd) to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 5 [Fortitude](Attributes.md#ftd) to be crafted. This Outfit **cannot** be crafted unless you are an [Authority Ensign](Authority_Ensign.md).
 
 Alternatively, using the [Authority Ensign](Authority_Ensign.md) Origin will grant it for free, ignoring all requirements.
 

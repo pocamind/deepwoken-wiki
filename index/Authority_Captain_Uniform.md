@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 186844
+revid: 190410
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
@@ -23,7 +23,7 @@ categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
 | selling_price | 10 |
 | weight | 1 |
 
-**Authority Captain Uniform** is an Expert [Outfit](Outfits.md) in _Deepwoken._
+**Authority Captain Uniform** is an Expert [Outfit](Outfits.md) in _Deepwoken._ This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
 
 ## Statistics
 
@@ -31,7 +31,7 @@ categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
 
 This Outfit costs 500 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Dark Feather](Dark_Feather.md) and one (1) [Lionfish Scale](Lionfish_Scale.md) to craft.
 
-This Outfit additionally requires the player to be at least [Power](Power.md) 10 and to have at least 25 [Strength](Attributes.md#str).
+This Outfit additionally requires the player to be at least [Power](Power.md) 10 and to have at least 25 [Strength](Attributes.md#str). This Outfit **cannot** be crafted unless you are an [Authority Ensign](Authority_Ensign.md).
 
 Alternatively, joining the Command Division of the [Authority Ensign](Authority_Ensign.md) Origin will grant it for free, ignoring all requirements.
 
