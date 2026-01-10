@@ -1,14 +1,26 @@
 ---
 title: Seaweed Bundle
-revid: 176818
+revid: 190518
 source: https://deepwoken.fandom.com/wiki/Seaweed_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Consumables, Ingredients, Alchemy, Fish]
+categories: [Consumables, Ingredients, Alchemy, Fishing Loot]
 ---
 
 # Seaweed Bundle
 
-Template:Food Template V1
+| Seaweed Bundle | |
+|---|---|
+| value | N/A |
+| weight | 0.25 |
+| stack | x99 |
+| type | Ingredient |
+| food type | Plant |
+| stomach | 0% |
+| water | 0% |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | Seaweed picked and bundled below the water. |
 
 ## Description
 

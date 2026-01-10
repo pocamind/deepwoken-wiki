@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 185108
+revid: 190441
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Weapon Enchantments]
@@ -10,15 +10,16 @@ categories: [Items, Relics, Enchantments, Weapon Enchantments]
 
 | Enchant Stone | |
 |---|---|
+| value | 200 |
+| stack | x25 (per Enchant) |
 | type | Relic |
 | rarity | Mythical |
-| selling price | 200 |
+| usage | Enchanting your equipped Weapon. |
 | bankable | Yes, for 1 |
 | droppable | No |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | A shard of enchantment, it can apply its given Enchant to your currently equipped weapon. |
 | obtainment | Purchasing from Klaris Llfiend for 5 , Deepshore Fossil, Saramaed Hollow, The Diluvian Mechanism, Second Layer, Maestro Evengarde Rest, Chaser, Heart of Enmity, Scion of Ethiron, War Mode, Hell Mode |
-| description | A shard of enchantment, it can apply its given Enchant to your currently equipped weapon |
 
 ## Description
 

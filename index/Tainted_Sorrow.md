@@ -1,6 +1,6 @@
 ---
 title: Tainted Sorrow
-revid: 179803
+revid: 190556
 source: https://deepwoken.fandom.com/wiki/Tainted_Sorrow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -14,10 +14,9 @@ notices:
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | N/A |
 | obtainment | Unobtainable |
-| description | N/A |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Stench
-revid: 180555
+revid: 190560
 source: https://deepwoken.fandom.com/wiki/Stench
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -12,10 +12,9 @@ categories: [Enchantments, Equipment Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Incoming hits may produce a Stench Cloud, gradually draining 3% of their maximum health (max. 30 damage) if not blocked. |
 | obtainment | Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |
-| description | Incoming hits may produce a Stench Cloud, gradually draining 3% of their maximum health (max. 30 damage) if not blocked. |
 
 ## Description
 
@@ -30,7 +29,5 @@ Upon taking damage, Stench has a 20% chance to proc. On proc, create a stench cl
 ### Notes
 
 -   Stench cannot deal more than 10 damage per tick.
-
 -   This enchant is very buggy against humanoids in PvE, sometimes dealing massive bursts of damage if an enemy lingers in the cloud.
-
 -   Stench's gas is 360 blockable, dealing 0 posture damage when blocked.

@@ -1,6 +1,6 @@
 ---
 title: Ferocity
-revid: 179255
+revid: 190542
 source: https://deepwoken.fandom.com/wiki/Ferocity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -12,10 +12,9 @@ categories: [Enchantments, Equipment Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Incoming hits may proc a speed boost and deal reduced damage. Both the speed boost and damage reduction scale with your current Tempo. |
 | obtainment | Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |
-| description | Incoming hits may proc a speed boost and deal reduced damage. Both the speed boost and damage reduction scale with your current Tempo. |
 
 ## Description
 

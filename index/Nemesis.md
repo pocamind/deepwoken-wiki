@@ -1,6 +1,6 @@
 ---
 title: Nemesis
-revid: 179262
+revid: 190533
 source: https://deepwoken.fandom.com/wiki/Nemesis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -12,10 +12,9 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Your critical attack is replaced with Nemesis. Basic attacks now mark your enemies allowing you to critical attack to teleport to them. |
 | obtainment | Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
-| description | Your critical attack is replaced with Nemesis. Basic attacks now mark your enemies allowing you to critical attack to teleport to them. |
 
 ## Description
 

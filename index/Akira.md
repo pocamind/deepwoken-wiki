@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 189027
+revid: 190589
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
@@ -42,7 +42,11 @@ This event takes place at the decrepit research castle, upon triggering the even
 
 After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 75 required to pass it.) Once you talk to him, he asks if you're another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
 
-**Initial Encounter:**
+## Dialogue
+
+**Celtor Wastes:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -101,7 +105,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 </tbody>
 </table>
 
-**Second Encounter:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
@@ -123,7 +127,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 </tbody>
 </table>
 
-**Subsequent Encounters:**
+**Castle Light:**
 
 <table>
 <tbody>

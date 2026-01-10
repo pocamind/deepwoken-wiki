@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 186252
+revid: 190586
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -34,13 +34,19 @@ Some books are part of specific quests or are physically in the world, and thus 
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md).
 -   Jericho's Journal: [Fort Merit](Fort_Merit.md).
 
+Some books are playable as songs on [Instruments](Instruments.md). Such books include:
+
+-   [The Gideshu March](The_Gideshu_March.md)
+-   [A Light In The Sky](A_Light_In_The_Sky.md) (Hallowtide exclusive)
+-   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
+
 Uniquely, the [Fading Book](Fading_Book.md) is obtained when a different book is removed from the game, being the placeholder item counterpart for books.
 
 ## Books
 
 Currently there are 30 books and book collections:
 
--   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>)
+-   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>): ~600 words. The biology, characteristics, and origins of [Megalodaunts](Megalodaunt.md).
 -   [Capran Aphorisms](Capran_Aphorisms.md)
 -   [Children of the Aftertide](Children_of_the_Aftertide.md)
     -   Children of the Aftertide I
@@ -50,13 +56,13 @@ Currently there are 30 books and book collections:
 -   [Diver Journal, I](Diver_Journal,_I.md)
 -   [Diver Journal, II](Diver_Journal,_II.md)
 -   [Diver Journal, III](Diver_Journal,_III.md)
--   [Eggs In A Basket](Eggs_In_A_Basket.md)
+-   [Eggs In A Basket](Eggs_In_A_Basket.md): ~100 words. A sailor's shanty.
 -   [Fading Book](Fading_Book.md)
--   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>)
--   [The Gideshu March](The_Gideshu_March.md)
--   [The Hammer's Call](<The_Hammer's_Call.md>)
+-   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>): ~200 words. The lyrics of a folk song regarding [The Ferryman](The_Ferryman.md).
+-   [The Gideshu March](The_Gideshu_March.md): ~500 words. [The Central Authority's](The_Central_Authority.md) anthem and its brief history. Playable on [Instruments](Instruments.md).
+-   [The Hammer's Call](<The_Hammer's_Call.md>): ~400 words. [The Ignition Union's](The_Ignition_Union.md) anthem and its brief history.
 -   [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
--   [A Light In The Sky](A_Light_In_The_Sky.md)
+-   [A Light In The Sky](A_Light_In_The_Sky.md): ~200 words. A single page paper with a music sheet, a poem, and a post-script note written by [Prof. Galphin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) regarding a being he treasured. Playable on [Instruments](Instruments.md).
 -   [Lumen's Folklore](<Lumen's_Folklore.md>)
     -   Lumen's Folklore: Volume 'Attunement'
     -   Lumen's Folklore: Volume 'North'
@@ -69,7 +75,7 @@ Currently there are 30 books and book collections:
 -   [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)
 -   [Ossuary Maintenance](Ossuary_Maintenance.md)
 -   [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
--   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
+-   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md): ~2,600 words. Playable on [Instruments](Instruments.md).
 -   [Strange Missives](Strange_Missives.md)
 -   [Studies on Canticlysm](Studies_on_Canticlysm.md)
     -   Studies on Canticlysm, Vol. IV

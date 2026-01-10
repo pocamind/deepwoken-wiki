@@ -1,6 +1,6 @@
 ---
 title: "Sinner's Ash"
-revid: 189515
+revid: 190458
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -10,15 +10,15 @@ categories: [Relics, Items]
 
 | Sinner's Ash | |
 |---|---|
+| value | 250 |
+| stack | x25 |
 | type | Treasure |
 | rarity | Relic |
-| selling price | 250 |
+| usage | Corrupting your Resonance or obtaining the Soulbreaker Oath. |
 | bankable | Yes, for 1 |
 | droppable | Yes, but not on death |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Duke Erisia, Chaser, The First Layer, The Diluvian Mechanism, Maestro Evengarde Rest, Elder Primadon, The Titan Warlord, Weird Trader, Moon's Eyrie, War Mode, Depths Sea Island, Saramaed Hollow, Lysander Spellhardt, Hell Mode, Heart of Enmity, Goodie Bag, Sold in Traan Zakshun's black market for 7 |
-| description | Remnants of the Forge of Sin that warp and stain what they touch. Said to hold a fragment of the Forge's ability to shape souls, though with unpredictable outcomes. |
 
 ## Description
 

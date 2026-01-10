@@ -1,6 +1,6 @@
 ---
 title: Perennial Sundown
-revid: 190055
+revid: 190461
 source: https://deepwoken.fandom.com/wiki/Perennial_Sundown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Relics, Items]
@@ -14,13 +14,12 @@ notices:
 |---|---|
 | type | Training |
 | rarity | Relic |
-| selling price | 100 |
+| usage | Granting 1 free investment point on use. |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | No |
-| pass down | Yes |
+| pass down | No |
+| desc | An iridescent feather-like whorl said to have fallen from the Suncross above. Holding it between thumb and forefinger, you feel invigorated, like the Suncross itself was beaming out from you. |
 | obtainment | Lysander Spellhardt |
-| description | An iridescent feather-like whorl said to have fallen from the Suncross above. Holding it between thumb and forefinger, you feel invigorated, like the Suncross itself was beaming out from you. |
 
 ## Description
 

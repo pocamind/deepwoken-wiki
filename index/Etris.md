@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 186317
+revid: 190526
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -9,8 +9,8 @@ categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, 
 # Etris
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 LocationL Etris LocationR
 

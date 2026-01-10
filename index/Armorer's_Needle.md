@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 189518
+revid: 190445
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -10,15 +10,16 @@ categories: [Relics]
 
 | Armorer's Needle | |
 |---|---|
+| value | 80 |
+| stack | x25 |
 | type | Utility |
 | rarity | Relic |
-| selling price | 80 |
+| usage | Rerolling the Pips on Equipment items. |
 | bankable | Yes, for 1 |
 | droppable | Yes, but not on death |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | A needle imbued with Ironsing, capable of making precise adjustments to the characteristics of equipment. |
 | obtainment | Duke Erisia, Etris Siege, Fishing, Hell Mode, Hollow Forge, Lysander Spellhardt, Maestro Evengarde Rest, Voidwalker Chests, Heart of Enmity, Primadon, Diver Expedition Sea Event, Saramaed Hollow, Scion of Ethiron, The Diluvian Mechanism, The Doom of Caeranthil, The Ferryman, War Mode, World Events, Artifacts, Titus Fulminus Destellus, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for 1 |
-| description | A needle imbued with Ironsing, capable of making precise adjustments to the characteristics of equipment. |
 
 ## Description
 

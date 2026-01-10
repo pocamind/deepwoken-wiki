@@ -1,24 +1,25 @@
 ---
 title: Dye Packet
-revid: 186837
+revid: 190469
 source: https://deepwoken.fandom.com/wiki/Dye_Packet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items]
+categories: [Items, Relics]
 ---
 
 # Dye Packet
 
 | Dye Packet | |
 |---|---|
+| value | 0 |
+| stack | x99 |
 | type | Treasure |
 | rarity | Common |
-| selling price | 7 |
+| usage | Changing the color of Equipment items, Aspect/character features, and other cosmetics. |
 | bankable | Yes, for 1 , (banks the entire stack) |
 | droppable | No |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance. |
 | obtainment | Carnival of Hearts, Merchant Ships, Sold in Traan Zakshun's regular shop for 1000 , Sold in Traan Zakshun's black market for 1 , Sold by Sev for 1 , Sold by Klaris for 1 , Sold by Lysander Spellhardt from Random Relics for 100 Joy, Goodie BagVow of Iron , Sold in Naan Zakshun's regular shop for 400 |
-| description | A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance. |
 
 ## Description
 

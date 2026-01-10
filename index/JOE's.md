@@ -1,6 +1,6 @@
 ---
 title: "JOE's"
-revid: 179801
+revid: 190537
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments]
@@ -14,10 +14,9 @@ notices:
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | It stands for Judicator's Original Enchantment. An enchant that was supposed to be only for the strongest of monster slayers. No one knows what happened to the original Judicator who made this enchant. |
 | obtainment | Win certain events held by the developer Agamatsu |
-| description | It stands for Judicator's Original Enchantment. An enchant that was supposed to be only for the strongest of monster slayers. No one knows what happened to the original Judicator who made this enchant. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: "Idol of Yun'Shul"
-revid: 189512
+revid: 190451
 source: https://deepwoken.fandom.com/wiki/Idol_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -10,15 +10,16 @@ categories: [Relics, Items]
 
 | Idol of Yun'Shul | |
 |---|---|
+| value | 200 |
+| stack | x25 |
 | type | Treasure |
 | rarity | Relic |
-| selling price | 200 |
+| usage | Allows you to make a Yun'Shul wish from anywhere, even if you do not have a Resonance. |
 | bankable | Yes, for 1 |
 | droppable | Yes, but not on death |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | An idol utilised in rituals to call forth the Voice of Yun'Shul. |
 | obtainment | Duke Erisia, First Layer + Hell Mode (Brown Chests), Fishing, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Interluminary Parasol, The Diluvian Mechanism, First Layer, War Mode, The Ferryman, Etris: Siege, Lysander Spellhardt, Weird Trader, Heart of Enmity, The Understrand (Only from chests), Lodestar (Very rare), Sold in Traan Zakshun's black market for 5 |
-| description | An idol utilised in rituals to call forth the Voice of Yun'Shul. |
 
 ## Description
 

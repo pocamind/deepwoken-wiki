@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 164633
+revid: 190564
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -13,6 +13,7 @@ categories: [Items, Drops, Ingredients]
 | value | 30 |
 | weight | None |
 | type | Monster Material |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -22,8 +23,9 @@ categories: [Items, Drops, Ingredients]
 | value | 100 |
 | weight | None |
 | type | Monster Material |
-| bankable | Yes |
-| droppable | Yes |
+| rarity | Rare |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 
 “ Your mind. We Owls find man to be capable of... suitably sophisticated thought, enough to indulge our palate... You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest... ”

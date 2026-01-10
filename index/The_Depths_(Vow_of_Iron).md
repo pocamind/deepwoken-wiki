@@ -1,6 +1,6 @@
 ---
 title: The Depths (Vow of Iron)
-revid: 189235
+revid: 190481
 source: https://deepwoken.fandom.com/wiki/The_Depths_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Locations, Locations in the First Layer]
@@ -8,13 +8,19 @@ categories: [Vow of Iron Exclusive, Locations, Locations in the First Layer]
 
 # The Depths (Vow of Iron)
 
+Variants: [The Depths](The_Depths.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
-The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.md), having a lot more prevalent danger than [The Depths](The_Depths.md) of Pathfinder.
+[Vow of Iron](Vow_of_Iron.md) features its own version of [The Depths](The_Depths.md) distinct from the one seen in [Pathfinder](Pathfinder.md), featuring significant differences and a large upscale in danger, fitting for its purpose.
+
+Many of these differences make exploration and navigation almost if not outright unfeasible, as they limit the boundaries of what you can do while also restricting how much time you should spend in it, further reinforcing the increased danger levels.
 
 ## Differences from Pathfinder
+
+These are the differences from Pathfinder that have been found thus far.
 
 -   You spawn in the [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) and the gates to it are always open.
 -   Much harder and frequent enemy spawns.
@@ -25,6 +31,7 @@ The Depths of [Vow of Iron](Vow_of_Iron.md) differ from [Pathfinder](Pathfinder.
 -   You cannot enter the [Second Layer](Second_Layer.md), as the room in [Castle Light](Castle_Light.md) that contains [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) is blocked off.
 -   You will die if you fall into the void regardless of HP.
 -   Having [low sanity](Insanity.md) and being outside of the Cathedral of the Interstice for long enough will apply Afflictions to your character, depending on severity.
+-   [Watchers](Watcher.md) constantly damage you while in line of sight instead of spawning a [Hollow Angel](Hollow_Angel.md), but have a brief mercy/warning period before doing so.
 -   [Deep Gems](Deep_Gems.md) have static spawn locations.
 
 <table><caption>Vow of Iron Depths Trial</caption>

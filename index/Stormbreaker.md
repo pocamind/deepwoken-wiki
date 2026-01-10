@@ -1,6 +1,6 @@
 ---
 title: Stormbreaker
-revid: 189146
+revid: 190557
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -12,10 +12,9 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Your attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above. |
 | obtainment | Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
-| description | Your attack is replaced with Stormbreaker Hurl, allowing you to launch your weapon. Shock your foes on hit every 5s. Occasionally, a lightning bolt may be called down from above. |
 
 ## Description
 

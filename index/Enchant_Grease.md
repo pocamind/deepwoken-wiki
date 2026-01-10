@@ -1,6 +1,6 @@
 ---
 title: Enchant Grease
-revid: 186981
+revid: 190443
 source: https://deepwoken.fandom.com/wiki/Enchant_Grease
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Equipment Enchantments]
@@ -10,15 +10,16 @@ categories: [Items, Relics, Enchantments, Equipment Enchantments]
 
 | Enchant Grease | |
 |---|---|
+| value | 200 |
+| stack | x25 (per Enchant) |
 | type | Relic |
 | rarity | Mythical |
-| selling price | 200 |
+| usage | Enchanting equipped Equipment items. |
 | bankable | Yes, for 1 |
 | droppable | No |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | An oil of enchantment: it can apply it's given Enchant to your Equipment. |
 | obtainment | Sold by Klaris Llfiend for 5 , Sold by Laplace for 5 , The Diluvian Mechanism, War Mode, Second Layer (Galewax chamber) |
-| description | An oil of enchantment: it can apply it's given Enchant to your Equipment. |
 
 ## Description
 

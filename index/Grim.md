@@ -1,6 +1,6 @@
 ---
 title: Grim
-revid: 179442
+revid: 190540
 source: https://deepwoken.fandom.com/wiki/Grim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -12,10 +12,9 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Once enough stacks have been applied, Grim is applied for 6s, increasing all incoming damage by 25% and incoming posture damage by 50%. |
 | obtainment | Finding a Grim enchanted weapon in a chest, LaplaceEnchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
-| description | Once enough stacks have been applied, Grim is applied for 6s, increasing all incoming damage by 25% and incoming posture damage by 50%. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Curse of the Bloodthirsty
-revid: 190346
+revid: 190511
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Bloodthirsty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -12,10 +12,9 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Deal +10% weapon damage and drain the blood of your foes, but suffer blood loss if your weapon attacks miss. |
 | obtainment | Finding a Curse of the Bloodthirsty enchanted weapon in a chest, LaplaceEnchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
-| description | Deal +10% weapon damage and drain the blood of your foes, but suffer blood loss if your weapon attacks miss. |
 
 ## Description
 

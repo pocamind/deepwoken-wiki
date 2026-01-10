@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 189522
+revid: 190442
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -10,15 +10,16 @@ categories: [Relics]
 
 | Forge Needle | |
 |---|---|
+| value | 240 |
+| stack | x25 |
 | type | Utility |
 | rarity | Relic |
-| selling price | 240 |
+| usage | Increasing the quality star count on Equipment items. |
 | bankable | Yes, for 1 |
 | droppable | Yes, but not on death |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | When coated with Smith's Alloy, an Armorer's Needle can be used to elevate the qualities inherent with Equipment. |
 | obtainment | Crafting, Sold in Traan Zakshun's black market for 2 |
-| description | When coated with Smith's Alloy, an Armorer's Needle can be used to elevate the qualities inherent with Equipment. |
 
 ## Description
 

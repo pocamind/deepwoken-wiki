@@ -1,6 +1,6 @@
 ---
 title: Rain (enchantment)
-revid: 186998
+revid: 190528
 source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
@@ -8,14 +8,13 @@ categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
 
 # Rain (enchantment)
 
-| Rain | |
+| Rain (enchantment) | |
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Incoming hits may summon rain clouds above you. |
 | obtainment | Rain Enchant Grease:, Trading 25 Rain Spires and 10 to The Gaunt Man |
-| description | Incoming hits may summon rain clouds above you. |
 
 ## Description
 

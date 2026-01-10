@@ -1,6 +1,6 @@
 ---
 title: Rain Spire
-revid: 180129
+revid: 190459
 source: https://deepwoken.fandom.com/wiki/Rain_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Spires]
@@ -10,15 +10,16 @@ categories: [Relics, Items, Spires]
 
 | Rain Spire | |
 |---|---|
+| value | 100 |
+| stack | x25 |
 | type | Utility |
 | rarity | Relic |
-| selling price | 100 |
+| usage | Causing it to Rain and creating fishing spots in nearby water for 5 minutes. |
 | bankable | Yes, for 1 |
 | droppable | No |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Summon a temporary storm at your location. |
 | obtainment | Second Layer, Chaser, Scion of Ethiron, The Diluvian Mechanism, Pure Astruline Turn-ins, Chime of Conflict, Fishing, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, First Layer, The Doom of Caeranthil, War Mode, Sold in Traan Zakshun's black market for 1 |
-| description | Summon a temporary storm at your location. |
 
 ## Description
 

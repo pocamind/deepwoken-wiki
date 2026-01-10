@@ -1,6 +1,6 @@
 ---
 title: Void Spire
-revid: 180133
+revid: 190452
 source: https://deepwoken.fandom.com/wiki/Void_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Spires]
@@ -10,15 +10,16 @@ categories: [Relics, Items, Spires]
 
 | Void Spire | |
 |---|---|
+| value | 100 |
+| stack | x25 |
 | type | Utility |
 | rarity | Relic |
-| selling price | 100 |
+| usage | Creates a temporary Voidzone on use. |
 | bankable | Yes, for 1 |
 | droppable | No |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Call forth the void to your location. Those who die within its field will be sent straight to the Depths. |
 | obtainment | First Layer + Hell Mode (Brown Chests), Second Layer, Chaser, The Diluvian Mechanism, Scion of Ethiron, Moon Knight Chest, Pure Astruline/Umbrite Turn-ins, Chime of Conflict, The Doom of Caeranthil, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Lodestar, Bounties, War Mode, Fishing, Sold in Traan Zakshun's black market for 1 , Derelict Highchurch (Vyrelda Quest), Saramaed Hollow |
-| description | Call forth the void to your location. Those who die within its field will be sent straight to the Depths. |
 
 #### Description
 

@@ -1,6 +1,6 @@
 ---
 title: Windswept
-revid: 190347
+revid: 190549
 source: https://deepwoken.fandom.com/wiki/Windswept
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -12,10 +12,9 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | After landing enough stacks, proc winded on your opponent. The duration scales with your weapon investment. |
 | obtainment | Windswept Enchant Stone:, Titus Fulminus Destellus |
-| description | After landing enough stacks, proc winded on your opponent. The duration scales with your weapon investment. |
 
 ## Description
 

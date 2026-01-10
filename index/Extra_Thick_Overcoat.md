@@ -1,6 +1,6 @@
 ---
 title: Extra Thick Overcoat
-revid: 189978
+revid: 190426
 source: https://deepwoken.fandom.com/wiki/Extra_Thick_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms]

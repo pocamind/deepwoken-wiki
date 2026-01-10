@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 190296
+revid: 190421
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -814,7 +814,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <td><div><p><strong>Effect:</strong></p>
   <p></p>
   <p>You take 50% more damage when being guard broken.<br>
-  </p>On Flourish, Critical, or Uppercut, apply the Authoritative status effect, increasing all posture damage your opponent takes by 50% for 30 seconds.<p></p>
+  </p>On Flourish, Critical, or Uppercut, apply the Authoritative status effect to yourself, increasing all posture damage you deal by 50% for 30 seconds.<p></p>
   <p><strong>In-game Description:</strong></p>
   <p><i>On critical, uppercut, or flourish, apply Authoritative on your opponent making them take 50% more posture damage. When you get guardbroken, take 50% more damage.</i></p>
   <p><strong>Obtainment:</strong></p>
@@ -1577,66 +1577,6 @@ Equipment is covered in a white, vertically-stretched particle effect.
 | 
 
   
-Enchanted Legendary Weapons
-
- | 
-
-**January 2, 2022**  
-All enchanted legendary weapons (e.g Crypt, HB) were removed from lootpools, any equipped lost their enchants and any left un-equipped were voided.
-
- | 
-
-N/A
-
- |
-| 
-
-  
-\[\[[Light's Final Toll](<Light's_Final_Toll.md>) Enchants|[Light's Final Toll](<Light's_Final_Toll.md>) Enchants\]\]
-
- | 
-
-**February 13, 2023**  
-Enchanted Light's Final Tolls were removed.
-
- | 
-
-N/A
-
- |
-| 
-
-  
-\[\[[Fondant Splitter](Fondant_Splitter.md) Enchants|[Fondant Splitter](Fondant_Splitter.md) Enchants\]\]
-
- | 
-
-**December 24, 2024**  
-Enchanted Fondant Splitters were removed.
-
- | 
-
-N/A
-
- |
-| 
-
-  
-Face, Ears, Back accessories Enchants
-
- | 
-
-**February 18, 2022**  
-Enchanted face, ears, back accessories were removed from the loot pool.
-
- | 
-
-N/A
-
- |
-| 
-
-  
 Curse of the Umbral Knight
 
  | 
@@ -1721,7 +1661,7 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 -   **July 12, 2024** - The weapon enchant [Curse of Repulsion](Curse_of_Repulsion.md) was added.
 -   **August 23, 2024** - Equipment enchantment can now be obtained via [Enchant Grease](Enchant_Grease.md) [Relic](Relics.md) through [Laplace](Laplace.md) or [Klaris](Klaris_Llfiend,_Mother_of_Lights.md).
 -   **February 1, 2025** - The weapon enchant [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) is added.
--   **July 7, 2025** - The weapon enchants [Void](Curse_of_Void.md), [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](Environmental_Hazards.md) was also added.
+-   **July 7, 2025** - The weapon enchants [Void](Curse_of_Void.md), [Parasol's Blight](<Parasol's_Blight.md>) and [Nightbringer](Nightbringer.md) were added, the equipment enchantment [Rain](<Rain_(enchantment).md>) was also added.
 -   **July 15, 2025** - The weapon enchant [Void](Curse_of_Void.md) was renamed to [Curse of Void](Curse_of_Void.md).
 -   **July 25, 2025** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
 -   **August 4, 2025** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
@@ -1775,5 +1715,3 @@ Weapon is charred brown and covered in orange flames. The enchantment and result
 
 1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=wX-crHmTLV8](https://www.youtube.com/watch?v=wX-crHmTLV8)
 2.  [↑](#cite-ref-2)
-
-File:StoneArchMage.png

@@ -1,6 +1,6 @@
 ---
 title: Deferred
-revid: 182884
+revid: 190504
 source: https://deepwoken.fandom.com/wiki/Deferred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -12,10 +12,9 @@ categories: [Enchantments, Weapon Enchantments]
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | Weapon damage is increased by 7%, but becomes damage over time lasting for 2.5s. |
 | obtainment | Finding a Deferred enchanted weapon in a chest, LaplaceEnchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
-| description | Weapon damage is increased by 7%, but becomes damage over time lasting for 2.5s. |
 
 ## Description
 

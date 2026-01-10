@@ -1,6 +1,6 @@
 ---
 title: Etris (Vow of Iron)
-revid: 185113
+revid: 190522
 source: https://deepwoken.fandom.com/wiki/Etris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations]
@@ -10,6 +10,8 @@ notices:
 ---
 
 # Etris (Vow of Iron)
+
+Variants: [Etris](Etris.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

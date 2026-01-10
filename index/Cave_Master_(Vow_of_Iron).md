@@ -1,6 +1,6 @@
 ---
 title: Cave Master (Vow of Iron)
-revid: 187968
+revid: 190523
 source: https://deepwoken.fandom.com/wiki/Cave_Master_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
@@ -13,9 +13,11 @@ categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 | aspect | Canor |
 | location | Isle of Vigils |
 
+Variants: [Cave Master](Cave_Master.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ Y'here to buy somethin'? ”
 

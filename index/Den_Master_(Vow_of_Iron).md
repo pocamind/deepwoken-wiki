@@ -1,6 +1,6 @@
 ---
 title: Den Master (Vow of Iron)
-revid: 187962
+revid: 190495
 source: https://deepwoken.fandom.com/wiki/Den_Master_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
@@ -13,9 +13,11 @@ categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 | aspect | Canor |
 | location | Etrean Wilds |
 
+Variants: [Den Master](Den_Master.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ Buy, if you dare! ”
 

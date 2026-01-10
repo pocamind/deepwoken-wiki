@@ -1,6 +1,6 @@
 ---
 title: Den Master
-revid: 189385
+revid: 190496
 source: https://deepwoken.fandom.com/wiki/Den_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -14,8 +14,8 @@ categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in 
 | location | Etrean Wilds |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ Ahh purrfect, a new buyer wanders into my Den. ”
 

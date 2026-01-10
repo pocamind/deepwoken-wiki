@@ -1,6 +1,6 @@
 ---
 title: Unstable
-revid: 179208
+revid: 190553
 source: https://deepwoken.fandom.com/wiki/Unstable
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments]
@@ -14,10 +14,9 @@ notices:
 |---|---|
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
+| desc | [Unknown] |
 | obtainment | Previously obtainable by reporting game breaking bugs/exploits, though this enchantment is no longer given out |
-| description | [Unknown] |
 
 ## Description
 

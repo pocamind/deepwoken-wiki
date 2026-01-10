@@ -1,6 +1,6 @@
 ---
 title: Thresher Talon
-revid: 155506
+revid: 190575
 source: https://deepwoken.fandom.com/wiki/Thresher_Talon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
@@ -14,10 +14,12 @@ categories: [Items, Drops, Ingredients, Monster Mantra Ingredients]
 | weight | None |
 | stack | x6 |
 | type | Ingredient |
-| bankable | Yes |
-| droppable | Yes |
+| rarity | Rare |
+| bankable | Yes, for 1 |
+| droppable | No |
 | pass down | No |
 | desc | A claw stolen from the foot of a thresher. |
+| obtainment | Any Thresher variant (direct drop) |
 
 ## Description
 
