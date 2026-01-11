@@ -1,6 +1,6 @@
 ---
 title: Gobletto
-revid: 190637
+revid: 190966
 source: https://deepwoken.fandom.com/wiki/Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -27,13 +27,15 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 
 A consumable mushroom that that is white and has a tube-like stalk. It can commonly be found at [Etris](Etris.md),[Vigils](Isle_of_Vigils.md), [Songseeker Wilds](Songseeker_Wilds.md), [Erisia](Erisia.md), and [Greathive Aratel](Greathive_Aratel.md), in groups of ~3.
 
-It is recommended not to eat Goblettos, because they cause the user to vomit and lose almost all of their thirst and hunger.
+It is recommended not to eat Goblettos, because they cause the consumer to vomit and lose almost all of their thirst and hunger. Given them being likened to an old boot, they likely do not taste very good either.
 
-## Recipes used in
+## Crafting
 
--   [Mushroom Soup](Mushroom_Soup.md) (1 [Dentifilo](Dentifilo.md),1 Mushroom/Gobletto)
--   [Mushroom Omelette](Mushroom_Omelette.md) (2 eggs, 1 mushroom)
--   [Mushroom Bisque](Mushroom_Bisque.md) (1 of Any Mushroom, 1 Crustacean Meat)
+### Used in
+
+-   [Mushroom Soup](Mushroom_Soup.md) - 2 Mushroom.
+-   [Mushroom Omelette](Mushroom_Omelette.md) - 2 Egg, 1 Mushroom.
+-   [Mushroom Bisque](Mushroom_Bisque.md)\- 1 Mushroom, 1 Crustacean Meat.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Bluecap
-revid: 190640
+revid: 190967
 source: https://deepwoken.fandom.com/wiki/Bluecap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -23,8 +23,6 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 ## Description
 
 A consumable mushroom that that is blue and has a tube-like stalk. This is used to [uncap](Attributes_Unbound.md) [intelligence](Attributes.md) by consuming one after completing the [birdcage](The_Birdcage.md) quest.
-
-## Recipes used in
 
 It can be used to make [ether and sanity regen potions](Alchemy.md).
 

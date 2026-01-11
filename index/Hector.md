@@ -1,24 +1,18 @@
 ---
 title: Hector
-revid: 188830
+revid: 190957
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Naval personnel of The Central Authority, Military personnel of The Central Authority]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Naval personnel of The Central Authority, Military personnel of The Central Authority]
 ---
 
 # Hector
 
-| Hector | |
-|---|---|
-| name | Hector |
-| aspect | Adret |
-| location | Merit Detainment Core |
-| affiliation | The Central Authority |
-| family | Hector's family, Unnamed father |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 190950
+revid: 190954
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1122,8 +1122,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Doomsday Engine
 
 -   Frozen Web \[Common Talent, Dual attunement, Frostdraw, Thundercall\] - Landing a critical with a Static Link on your opponent applies Chilled.
-    -   Applies chill for 7 seconds.
-    -   Applies bottom freeze.
+    -   Applies chill for 7 seconds and bottom freeze.
     -   Applies fragile freeze if the critical guardbreaks.
     -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
     -   3 second cooldown.
@@ -2198,7 +2197,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Cyclone Blade \[Common Talent, Galebreathe, Agility\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
     -   Does not have a cooldown, lasts for 3s.
     -   Also procs from Phantom Step dashes.
-    -   Despite the Talent description stating "Light attack", it also grants bleed to weapon criticals.
+    -   Despite the Talent description stating "Light attack", it also grants its buffs to weapon criticals.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
 -   Pressure Break \[Common Talent, Galebreathe, Strength/Agility\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)

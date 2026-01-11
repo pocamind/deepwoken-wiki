@@ -1,6 +1,6 @@
 ---
 title: Handcuffs
-revid: 190086
+revid: 190972
 source: https://deepwoken.fandom.com/wiki/Handcuffs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Unique Animations]
@@ -48,3 +48,4 @@ You can remove the handcuffs by speaking to a [Blacksmith](Blacksmith.md) or the
 -   You gain a perpetual PvE combat tag while the handcuffs are equipped.
 -   Despite your hands being bound, you can still pilot [Boats](Ships_&_Sailing.md) and use their cannons.
 -   Due to its all around unbearably low stats, this is the weakest weapon in the game.
+-   Very likely based around as a mechanic and in functions around the Bound Cuffs from Tales From The Valley

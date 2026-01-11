@@ -1,6 +1,6 @@
 ---
 title: Wormwarder Lantern
-revid: 190948
+revid: 190979
 source: https://deepwoken.fandom.com/wiki/Wormwarder_Lantern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Backpack, Layer 2, Floor 1, Craftable]
@@ -27,8 +27,6 @@ categories: [Equipment, Torso, Backpack, Layer 2, Floor 1, Craftable]
 ## Description
 
 A personal use lantern one can lug around to combat the parasites of the Eternal Gale at a cost of some movement speed. This item provides the [Wormwarder](Talents.md#equipment-talents) Talent, which makes you completely immune to parasites in the [Second Layer](Second_Layer.md) at the cost of movement speed.
-
-## Obtainment
 
 To craft this item, you can obtain the recipe from interacting with a Lantern in the Second Layer, and then crafting the item with 2 [Galewax](Galewax.md), 4 [Irithine](Ores.md#irithine), and 4 [Spark Glands](Spark_Gland.md). Because you cannot bring Galewax out of the Second Layer, you have to use [Master Craftsman](Talents.md#artisan) or the crafting table at [The Frontier Furnace](The_Frontier_Furnace.md).
 

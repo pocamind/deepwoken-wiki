@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 190095
+revid: 190955
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
@@ -129,7 +129,6 @@ These Talents have modified effects based on your current Saint Stance. Due to t
 -   **Ether Proselyte** - All of your Elemental Mantras below Lv. 5 are 1 Mantra level higher. Your Mantras are converted to the element of your active stance.
     -   The level change for attuned Mantras is not displayed on their tooltips.
     -   Ether Proselyte is a Talent that allows your elemental Mantras to proc the Talents of your currently equipped Saint Stance. This however does not work with all attuned Talents.
-    -   A google doc containing all Talents Ether Proselyte allows you to use can be found [here](https://docs.google.com/document/d/1xfNg3CLlZm5aSVfhThQ279o8RH7_-VmBisbyOlITXz4/edit?usp=sharing).
         -   **Ether Proselyte: Flamecharm Stance**: In the **Flamecharm** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **[Dancing Steps](Talents.md#dancing-steps)** & **[Graceful Steps](Talents.md#graceful-steps)**: Your attuned mantras will gain a lunge during their windup, closing distance.
             -   **[Hungry Flames](Talents.md#hungry-flames)**: Your attuned Mantras will consume your Stomach and Thirst meters to cast if you don't have enough Ether. However, this talent will no longer proc when using Flamecharm mantras outside of the **Flamecharm** Saint Stance.

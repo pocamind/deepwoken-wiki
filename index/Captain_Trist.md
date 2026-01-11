@@ -1,33 +1,24 @@
 ---
 title: Captain Trist
-revid: 186725
+revid: 190973
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Captain Trist
 
-| Captain Trist | |
-|---|---|
-| name | Trist |
-| aspect | Adret |
-| location | Fort Merit |
-| affiliation | The Central Authority |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
 Captain Trist is an [Adret](Adret.md) NPC. He hands out missions for [Authority Ensigns](Authority_Ensign.md) to rank up.
-
-## Location
-
-Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), around the fortress at [Fort Merit](Fort_Merit.md).
 
 ## Missions
 
@@ -41,6 +32,10 @@ Missions are timed objectives that vary in difficulty depending on the objective
     -   Objective: The player and their squad are tasked with saving a hostage from 5 [Blacksteel Pirates](Blacksteel_Pirate.md) and a [Blacksteel Pirate Captain](Blacksteel_Pirate_Captain.md). Pick up the hostage by pressing V and run far enough away from where the hostage was being kept to complete this Mission.
 4.  **Secure Perimeter** - _Secure the points and do not let any hostiles breach our defenses at \[Location\]._
     -   Objective: The player and their squad are tasked with defending two Authority-branded banners from 3 waves of enemies.
+
+## Location
+
+Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), around the fortress at [Fort Merit](Fort_Merit.md).
 
 ## Dialogue
 
@@ -65,8 +60,8 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td>Don't come back 'til you're ready for your deployment, [Rank].</td>
 </tr>
 <tr>
-  <td>End, player receives a mission</td>
-  <td>End</td>
+  <td>[End Dialogue], player receives a mission</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +77,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td colspan="2">You have your orders, [Rank], report back to base when your mission is complete.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +93,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td colspan="2">Good work, [Rank]. Go get some rest, then report back here.</td>
 </tr>
 <tr>
-  <td>End, rank progress, EXP, and a small chest</td>
+  <td>[End Dialogue], rank progress, EXP, and a small chest</td>
 </tr>
 </tbody>
 </table>
@@ -116,7 +111,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td>Ah, so the deserter finally shows their face. Soldiers - seize them.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -132,7 +127,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -148,7 +143,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td>I only hand out orders to <a href="Glossary.md#the-central-authority">Authority</a> soldiers, civilian.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -164,7 +159,7 @@ Missions are timed objectives that vary in difficulty depending on the objective
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
