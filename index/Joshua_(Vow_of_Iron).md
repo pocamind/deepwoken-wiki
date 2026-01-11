@@ -1,6 +1,6 @@
 ---
 title: Joshua (Vow of Iron)
-revid: 190499
+revid: 190716
 source: https://deepwoken.fandom.com/wiki/Joshua_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]

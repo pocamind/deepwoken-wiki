@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 187945
+revid: 190736
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -76,7 +76,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 1 | [The Games Of War](https://soundcloud.com/naktigonis/the-games-of-war) | 2:48 | [Chime of Conflict](Chime_of_Conflict.md) | File:The Games Of War.mp3 |
 | 2 | [Catwhisker](https://soundcloud.com/naktigonis/catwhisker) | 1:43 | [Aelita](Aelita.md) | File:Catwhisker.mp3 |
 | 3 | [Sin-Smelted Scoriae](https://soundcloud.com/naktigonis/sin-smelted-scoriae) | 4:09 | [Duke Erisia](Duke_Ishamon_Erisia.md) | File:Yt5s.com - Naktigonis - Sin-Smelted Scoriae (Deepwoken OST) (128 kbps).mp3 |
-| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris: Siege](Cinders_of_Etris.md) | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
+| 4 | [And Let Slip The Hounds Of War](https://soundcloud.com/naktigonis/and-let-slip-the-hounds-of-war) | 3:05 | [Etris (Vow of Iron)](<Etris_(Vow_of_Iron).md>), Etris Docks (Vow of Iron), Etrean Wilds (Vow of Iron), [Etris: Siege](Cinders_of_Etris.md) | File:Yt5s.com - Naktigonis - And Let Slip The Hounds Of War (Deepwoken OST) (128 kbps).mp3 |
 | 5 | [The Killing Wind](https://soundcloud.com/naktigonis/the-killing-wind) | 2:46 | [The Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) | File:Naktigonis - The Killing Wind (Deepwoken OST 5).mp3 |
 | 6 | [A Scoundrel's Reverie](https://soundcloud.com/naktigonis/a-scoundrels-reverie) | 3:24 | [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>) (Tutorial) | File:Naktigonis - A Scoundrel's Reverie (Deepwoken OST 6).mp3 |
 | 7 | [A Light In The Sky](https://soundcloud.com/naktigonis/a-light-in-the-sky) | 3:10 | [The Floating Keep](The_Floating_Keep.md) | File:Naktigonis - A Light In The Sky (Deepwoken OST).mp3 |
@@ -90,7 +90,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 15 | [The Song Of Fathoms (Band Version)](https://soundcloud.com/naktigonis/the-song-of-fathoms-band-version) | 2:50 | [Instruments](Instruments.md) | File:The Song Of Fathoms (Band Version).mp3 |
 | 16 | [The Gideshu March (Band Version)](https://soundcloud.com/naktigonis/naktigonis-the-gideshu-march-band-version) | 2:43 | [Instruments](Instruments.md) | File:The Gideshu March (Band Version).mp3 |
 | 17 | [Carol of Resonances](https://soundcloud.com/naktigonis/carol-of-resonances) | 2:43 | [Instruments](Instruments.md) | File:Carol of Resonances.mp3 |
-| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) and [The Blade Within](The_Blade_Within.md) | File:TheWindsinger'sDance.mp3 |
+| 18 | [The Windsinger's Dance](https://soundcloud.com/naktigonis/the-windsingers-dance) | 3:12 | [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [The Blade Within](The_Blade_Within.md) | File:TheWindsinger'sDance.mp3 |
 | 19 | [A God, Manufactured](https://soundcloud.com/naktigonis/a-god-manufactured) | 4:32 | [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md) | File:A God, Manufactured.mp3 |
 | 20 | [Call of the Deep](https://soundcloud.com/naktigonis/call-of-the-deep) | 0:30 | Theme for [Deepwoken's 2024 Roblox Trailer](https://www.youtube.com/watch?v=kkERJc-Qe4o) | File:Call Of The Deep (Deepwoken Trailer).mp3 |
 | 21 | [Blackdamp Ballad](https://soundcloud.com/naktigonis/blackdamp-ballad) | 5:32 | [Saramaed Hollow](Saramaed_Hollow.md) (Group) | File:Blackdamp Ballad.mp3 |

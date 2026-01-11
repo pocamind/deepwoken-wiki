@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 190394
+revid: 190725
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -62,5 +62,4 @@ Though another way to gain reputation with The Hundred Legions is also through h
 -   While speaking to Gaius, you can learn that being stationed in the East isn't the best if you're looking to become the next Ruler of the Legion as he outright curses, presumably Akilles, who stationed him there.
 -   The Legion seems to have a high regard towards Honor and the individual soldier, as reporting to Atra, telling him that Lars has passed will prompt him to say, "Let my comrades know, we'll hold a ceremony in his honor."
 -   Considering that the Battle Royale map is of Legion territory, The Hundred Legions is the first faction to get its own exclusive game mode, and by extension, the only ones to have a server wholly dedicated to them.
--   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legion against the Starkindred church in the West, upon doing so he had acquired the [Pale Briar](Pale_Briar.md). This implies they once were in good standing with the Etreans. However, their power hungry nature and increased presence in the east means the two are now prone to skirmishing.
--   Another (but also very unlikely reason) reason may be because Etrea being under control of the Lord Regent, who is a Ministry Prophet. It's not directly confirmed but given every other factions relations with the ministry, The Hundred Legions may also be enemies with the Ministry as well.
+-   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legion against the Starkindred church in the West, upon doing so he had acquired the [Pale Briar](Pale_Briar.md). This implies they once were in good standing with the Etreans. However, their intrusions in the east means the two are now prone to skirmishing.

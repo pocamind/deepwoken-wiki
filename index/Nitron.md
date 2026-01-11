@@ -1,25 +1,20 @@
 ---
 title: Nitron
-revid: 186923
+revid: 190876
 source: https://deepwoken.fandom.com/wiki/Nitron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Summer Company, Vendors]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Summer Company, Vendors, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Nitron
 
-| Nitron | |
-|---|---|
-| name | Nitron |
-| aspect | Vesperian |
-| location | Summer Isle |
-| affiliation | The Summer Company |
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 

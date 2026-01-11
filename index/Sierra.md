@@ -1,29 +1,24 @@
 ---
 title: Sierra
-revid: 188871
+revid: 190862
 source: https://deepwoken.fandom.com/wiki/Sierra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Individuals with unspecified pronouns]
 ---
 
 # Sierra
-
-| Sierra | |
-|---|---|
-| name | Sierra |
-| aspect | Celtor |
-| location | Bluster Rift |
-| affiliation | The Summer Company |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Sierra is a Celtor NPC that's part of [The Summer Company](The_Summer_Company.md), she's on a team mission with [The Guy](The_Guy.md), [Mercille](Mercille.md) and [Prentis](Prentis.md).
+Sierra is a [Celtor](Celtor.md) NPC that's part of [The Summer Company](The_Summer_Company.md). They're on a team mission with [The Guy](The_Guy.md), [Mercille](Mercille.md) and [Prentis](Prentis.md).
 
-She shares a common dislike for The Guy with Prentis and Mercille.
+They share a common dislike for The Guy with Prentis and Mercille.
 
 ## Location
 
@@ -40,7 +35,7 @@ Sierra is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a
   <td>I'd rather be on literally any other assignment than this one. I hate that guy.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

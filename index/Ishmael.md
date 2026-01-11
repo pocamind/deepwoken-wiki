@@ -1,24 +1,20 @@
 ---
 title: Ishmael
-revid: 183688
+revid: 190881
 source: https://deepwoken.fandom.com/wiki/Ishmael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Ishmael
 
-| Ishmael | |
-|---|---|
-| name | Ishmael |
-| aspect | Celtor |
-| location | Etrean Sea |
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 

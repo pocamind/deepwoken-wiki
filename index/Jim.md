@@ -1,41 +1,37 @@
 ---
 title: Jim
-revid: 187534
+revid: 190894
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
 ---
 
 # Jim
-
-| Jim | |
-|---|---|
-| name | Jim |
-| aspect | Canor |
-| location | Etris Docks |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Jim is a [Canor](Canor.md) NPC located at the [Etris Docks](Etris_Docks.md). Completing his dialogue starts the "Jim's Embers" [Quest](Quests.md).
+Jim is a [Canor](Canor.md) NPC located at the [Etris Docks](Etris_Docks.md). Completing their dialogue starts the "Jim's Embers" [Quest](Quests.md).
 
 ## Quest
 
 ### Jim's Embers
 
-1.  To start the quest, the player has to finish Jim's dialogue. He will then ask the player to retrieve him 2 [Dying Embers](Dying_Embers.md).
+1.  To start the quest, the player has to finish Jim's dialogue. They will then ask the player to retrieve 2 [Dying Embers](Dying_Embers.md).
 2.  To finish the quest, speak to Jim again with at least 2 Dying Embers inside of the inventory.
 
 ### Rewards
 
-Upon retrieving Jim his Dying embers, he gives the player a [Curiosity](Quests.md) [Talent](Talents.md) hand and a random tier two [Mantra Modifier](Mantra_Modifiers.md).
+Upon retrieving the Dying embers, Jim gives the player a [Curiosity](Quests.md) [Talent](Talents.md) hand and a random tier two [Mantra Modifier](Mantra_Modifiers.md).
 
 ## Location
 
-Jim is located at the [Etris Docks](Etris_Docks.md), he resides in of one of the buildings.
+Jim is located at the [Etris Docks](Etris_Docks.md), in of one of the buildings.
 
 ## Dialogue
 
@@ -64,7 +60,7 @@ Jim is located at the [Etris Docks](Etris_Docks.md), he resides in of one of the
   <td>I thought you would. Well, the secret of what I have in store is waiting on you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -91,8 +87,8 @@ Jim is located at the [Etris Docks](Etris_Docks.md), he resides in of one of the
   <td>Don't try to fool me. You don't have 2 Dying Embers yet.</td>
 </tr>
 <tr>
-  <td>End, Curiosity Talent Hand obtained</td>
-  <td>End</td>
+  <td>[End Dialogue], Curiosity Talent Hand obtained</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -108,7 +104,7 @@ Jim is located at the [Etris Docks](Etris_Docks.md), he resides in of one of the
   <td>Heh, thanks.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

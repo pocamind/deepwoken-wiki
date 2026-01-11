@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 182316
+revid: 190747
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", The Children of Navae, Bows]
@@ -43,19 +43,15 @@ The Guiding Star consumes small amounts of Ether to fire arrows. If the user has
 
 ## Critical
 
-  
 The user slightly lowers down and fires three explosive Ether arrows in quick succession, dealing 1.15x scaled damage per shot, totaling up to 3.45x.
 
 The critical has a cooldown of **7 seconds**.
 
-## Tips
+## Trivia
 
 -   The bow has low damage compared to other options, and although it boasts a sizable range staying further away from your target will cause its critical damage to be lowered even further, discouraging passive play.
 -   The M1 cycle of the weapon is awfully similar, and its flourish nearly identical to the second hit, confusing opponents with seemingly random knockback and effects. Make sure not be confused yourself and keep track of your attacks.
 -   Due to the ether drain on M1 its crucial for users to pay attention to their ether bar, spamming mantras and not landing enough hits will cause you to run out and make the bow deal even less damage. This is specially crucial when fighting [Shadowcasters](Shadowcast.md) who can and will drain most if not all of your ether quickly.
-
-## Trivia
-
 -   Formerly known as the "Aranea", a weapon that was accidentally released as a drop from [Chime of Conflict](Chime_of_Conflict.md) chests and had an absurd and impossible requirement of 200 Light Weapons, rendering it unusable for normal players.
     -   Both bows featured the same model & appearance. The string and arrow are also visible in its held state, which can only be viewed when using Basic Attacks.
     -   The name "Aranea" is a reference to the genus Araneus, a group of orb-weaving spiders. This explains why the bow has a web motif.
@@ -64,5 +60,3 @@ The critical has a cooldown of **7 seconds**.
 -   This weapon deals 26.6 damage at reqs and 27.7 at 100 MED and 100 MND.
 -   The Guiding Star is the first and (currently) only Bow in the game.
 -   The Guiding Star currently is tied with the [Metal Greatsword](Metal_Greatsword.md), [Repeater](Repeater.md) and [Soulwrought Gun](Crazy_Slots.md#weapons) for the longest range of any weapon in game, at 12 range.
-    
-    The Aranea, seen in its accidental debut

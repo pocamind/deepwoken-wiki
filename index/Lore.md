@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 190607
+revid: 190818
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, SpoilerPages, Pages with broken file links, Lore, Deepwoken]
+categories: [OutdatedPages, SpoilerPages, Pages with broken file links, Deepwoken]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
@@ -934,7 +934,7 @@ A Dark Mage, located in Minityrsa.
     -   The Central Authority's [Frostdrawers](Frostdraw.md) are high ranking commanding officers.
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind, each of whom has a designated handler.
 -   One of their known conquered territories is the savannah of Markor.
--   The Authority we see in the East is a very small fraction of the full fighting force of the Authority, but due to the [Lightkeeper](Lightkeepers.md) of the Eastern Interstital Lighthouse, [Viqh,](Viqh.md) refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.
+-   The Authority we see in the East is a very small fraction of the full fighting force of the Authority, but due to the [Lightkeeper](Lightkeepers.md) of the Eastern Interstital Lighthouse, [Viqh](Viqh.md), refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.
 -   Their goal is to survive and combat the Tides by bringing peace through unity, unifying all cultures and factions under one banner. I.e. conquest. Understandably, the majority of ingame factions object to this, especially considering the prejudice shown by the Authority.
 
 An Authority Captain

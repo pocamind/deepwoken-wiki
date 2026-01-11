@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Fury"
-revid: 190082
+revid: 190849
 source: https://deepwoken.fandom.com/wiki/Imperator's_Fury
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
@@ -34,7 +34,7 @@ This Vent can proc all "on Vent" effects in the game, including [Solar](Solar.md
 
 ## Trivia
 
--   This has 6.48x PvE scaling (291.6 PvE damage without Perfection stacks). While this is low compared to most other things, this does still massively increase the damage output of your Vent.
+-   This has 6.48x PvE scaling (226.8 PvE damage without Perfection stacks). While this is low compared to most other things, this does still massively increase the damage output of your Vent.
 -   Despite being a "Common" rarity item, it is estimated to have about a 0.1% droprate and still costs Knowledge to bank.
 -   The damage Brute Strength deals cannot be increased with damage modifiers.
 -   This item's previously used the Warmaster's Medallion model before receiving its own unique model.

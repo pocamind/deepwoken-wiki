@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 189667
+revid: 190809
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies]
@@ -81,8 +81,6 @@ Their attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined 
 ## Tips
 
 They have surprisingly long range on their attacks. Fighting multiple at once is not advised, as their unsynchronized timings can easily and quickly kill you.
-
-  
 
 ## Trivia
 

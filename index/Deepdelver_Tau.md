@@ -1,9 +1,9 @@
 ---
 title: Deepdelver Tau
-revid: 188813
+revid: 190904
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Tau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Deepdelvers]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Deepdelvers, Individuals with unspecified pronouns]
 ---
 
 # Deepdelver Tau
@@ -40,7 +40,7 @@ Deepdelver Tau can be found at [Miner's Landing](<Miner's_Landing.md>), inside t
   <td colspan="2">The heck're you doing here? Scram!</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +64,7 @@ Deepdelver Tau can be found at [Miner's Landing](<Miner's_Landing.md>), inside t
   <td>[You are instantly teleported into <a href="Saramaed_Hollow.md">Saramaed Hollow</a>]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

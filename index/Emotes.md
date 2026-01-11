@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 165845
+revid: 190803
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -8,13 +8,15 @@ categories: [Pages with broken file links, Mechanics]
 
 # Emotes
 
-Emotes are gestures or poses a player can use. To use an Emote, hold K, and click the Emote name or let go of K while your cursor is hovered over an Emote name. (Keybind was X but has since been changed after the addition of [Ironsing](Ironsing.md) on 05/22/2023.)
-
-Emotes are for the most part, purely cosmetic, however they can be used for other purposes, such as Emoting at the [Megalodaunt](Megalodaunt.md) Statue in [Etris](Etris.md), to summon [Destroyman III](Destroyman_III.md).
-
 File:Imagem 2023-04-14 110344933.png
 
 Emote Screen
+
+## Description
+
+Emotes are gestures or poses a player can use. To use an Emote, hold K, and click the Emote name or let go of K while your cursor is hovered over an Emote name. Emotes are for the most part, purely cosmetic, however they can be used for other purposes, such as Emoting at the [Megalodaunt](Megalodaunt.md) Statue in [Etris](Etris.md), to summon [Destroyman III](Destroyman_III.md).
+
+## Emotes
 
 | Showcase | Emote Name | Obtainment |
 | --- | --- | --- |
@@ -39,3 +41,9 @@ Emote Screen
 |  | Meditate | Emote Pack 2 |
 | File:RukkroF.gif | Hoss | Emote Pack 2 |
 |  | Sturdy | Emote Pack 2 |
+
+\* Can be used by other [Origins](Origins.md) by saying '/e Salute' in chat.
+
+## Trivia
+
+-   Prior to the May 22nd, 2023 update, the default keybind to toggle emotes was. This was changed with the addition of [Ironsing](Ironsing.md) due to the mechanic of "Iron Pull" taking its keybind.

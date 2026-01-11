@@ -1,21 +1,14 @@
 ---
 title: Deepdelver Myra
-revid: 188812
+revid: 190901
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the First Layer, Deepdelvers]
+categories: [Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the First Layer, Deepdelvers]
 notices:
   - This page is currently being worked on. Unique Face Image Missing
 ---
 
 # Deepdelver Myra
-
-| Deepdelver Myra | |
-|---|---|
-| name | Myra |
-| aspect | Tiran |
-| location | The Chariot's Spire |
-| affiliation | The Ignition Union |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -25,9 +18,11 @@ This content is not accessible outside of this gamemode.
 
 ― Myra
 
+Template:NpcInfobox
+
 ## Description
 
-Deepdelver Myra is a [Tiran](Tiran.md) NPC who is hesitant about their scheduled expedition into the [Second Layer](Second_Layer.md).
+Deepdelver Myra is a [Tiran](Tiran.md) NPC who is hesitant about her scheduled expedition into the [Second Layer](Second_Layer.md).
 
 ## Location
 
@@ -69,7 +64,7 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
   <td colspan="4"></td>
   <td colspan="2">Mhm.</td>
   <td colspan="2">Yeah it's no sweat, really.</td>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"></td>
@@ -77,7 +72,7 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -110,7 +105,7 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
   <td colspan="4">Then keep moving.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

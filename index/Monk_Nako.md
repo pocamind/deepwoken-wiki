@@ -1,6 +1,6 @@
 ---
 title: Monk Nako
-revid: 188457
+revid: 190775
 source: https://deepwoken.fandom.com/wiki/Monk_Nako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Circle of Honour members, Individuals with unspecified pronouns]
@@ -41,4 +41,5 @@ This content is not accessible outside of this gamemode.
 
 ## References
 
-1.  [↑](#cite-ref-1) [High Monk Junsui](High_Monk_Junsui.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
+    _To my right is Monk Kasan, and to my left - Monk Nako, both comrades to our cause. And you?_

@@ -1,9 +1,9 @@
 ---
 title: Nightsea
-revid: 179034
+revid: 190820
 source: https://deepwoken.fandom.com/wiki/Nightsea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Locations, The Heavens, Lore]
+categories: [Stub pages without reason, StubPages, Locations, The Heavens]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---

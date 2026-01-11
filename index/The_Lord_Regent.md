@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 190370
+revid: 190785
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -427,4 +427,4 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 ## References
 
 1.  [↑](#cite-ref-oc-1-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `O:C`
-2.  ↑ [2.0](#cite-ref-opr-2-0) [2.1](#cite-ref-opr-2-1) [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)
+2.  ↑ [2.0](#cite-ref-opr-2-0) [2.1](#cite-ref-opr-2-1) [Book](Books.md): [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)

@@ -1,20 +1,12 @@
 ---
 title: Joshua
-revid: 190498
+revid: 190717
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Joshua
-
-| Joshua | |
-|---|---|
-| name | Joshua |
-| aspect | Etrean |
-| pronouns | He/him[1] |
-| location | Etris |
-| affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -23,6 +15,8 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 “ Good day to you, youngster. Was there something you needed? ”
 
 ― Joshua
+
+Template:NpcInfobox
 
 ## Description
 
@@ -107,7 +101,3 @@ Joshua is located inside of his house at [Etris](Etris.md), it is near the Gener
     -   If the quest is in progress, he will mention of [Karliah](Karliah.md), a Diver Apprentice who cooks for him.
     -   In one of the bad endings of the quest, he is nowhere to be seen and his decapitated head is being held by Karliah in her house.
     -   In the good ending of the quest, he will thank the player for making Karliah seem happier.
-
-## References
-
-1.  [↑](#cite-ref-1) [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>)

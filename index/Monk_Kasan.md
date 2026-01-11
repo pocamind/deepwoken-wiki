@@ -1,6 +1,6 @@
 ---
 title: Monk Kasan
-revid: 188458
+revid: 190774
 source: https://deepwoken.fandom.com/wiki/Monk_Kasan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Circle of Honour members]
@@ -42,4 +42,5 @@ This content is not accessible outside of this gamemode.
 
 ## References
 
-1.  [↑](#cite-ref-1) [High Monk Junsui](High_Monk_Junsui.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
+    _To my right is Monk Kasan, and to my left - Monk Nako, both comrades to our cause. And you?_

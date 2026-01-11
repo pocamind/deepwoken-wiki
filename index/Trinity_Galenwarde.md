@@ -1,9 +1,9 @@
 ---
 title: Trinity Galenwarde
-revid: 186652
+revid: 190826
 source: https://deepwoken.fandom.com/wiki/Trinity_Galenwarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Lore, Oath Trainer]
+categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-**Trinity Galenwarde** was [the Hero of Wind](The_Five_Heroes.md). She wielded the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>), and bound her soul to it along with the other [heroes](Hero_Blades.md). Her soul now resides in an [obelisk](Galebreathe_Obelisk.md), located in the [Burning Stone Gardens](Burning_Stone_Gardens.md).[\[2\]](#cite-note-obelisk-2)
+Trinity Galenwarde was [the Hero of Wind](The_Five_Heroes.md). She wielded the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>), and bound her soul to it along with the other [heroes](Hero_Blades.md). Her soul now resides in an [obelisk](Galebreathe_Obelisk.md), located in the [Burning Stone Gardens](Burning_Stone_Gardens.md).[\[2\]](#cite-note-obelisk-2)
 
 ## Trivia
 

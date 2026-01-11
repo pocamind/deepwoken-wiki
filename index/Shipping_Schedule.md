@@ -1,6 +1,6 @@
 ---
 title: Shipping Schedule
-revid: 177489
+revid: 190712
 source: https://deepwoken.fandom.com/wiki/Shipping_Schedule
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Quest Item]
@@ -17,7 +17,7 @@ categories: [Quest Item]
 
 ## Description
 
-A Shipping Schedule is an item only obtainable from [Authority Commanders](<Authority_Commander_(Enemy).md>). It can be turned in to the Etrean Guardmaster to obtain a medium-sized chest containing decent Fort Merit loot.
+A Shipping Schedule is an item only obtainable from [Authority Commanders](<Authority_Commander_(Enemy).md>). It can be turned in to the [Etrean Guardmaster](Etrean_Guardmaster.md) to obtain a medium-sized chest containing decent [Fort Merit](Fort_Merit.md) loot.
 
 ## Trivia
 

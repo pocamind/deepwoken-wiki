@@ -1,6 +1,6 @@
 ---
 title: Bread
-revid: 187220
+revid: 190761
 source: https://deepwoken.fandom.com/wiki/Bread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food, Food Ingredients]
@@ -49,4 +49,5 @@ When consumed, it replenishes 20% Stomach and 2% Water.
 
 ## References
 
-1.  [↑](#cite-ref-1) [Naan Zakshun](Naan_Zakshun.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [Naan Zakshun](Naan_Zakshun.md)  
+    _No it's not naan like the bread._

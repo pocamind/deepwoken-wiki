@@ -1,9 +1,9 @@
 ---
 title: Urek Felhand
-revid: 182937
+revid: 190827
 source: https://deepwoken.fandom.com/wiki/Urek_Felhand
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes, Lore, Oath Trainer]
+categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes, Oath Trainer]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-**Urek Felhand** was the Hero of [Shadowcast](Shadowcast.md), who wielded the [Hero's Blade of Shadow](<Hero's_Blade_of_Shadow.md>). Eventually, he betrayed the other 4 heroes, but his soul was still embedded into his respective [obelisk](Saintsworn_Obelisks.md). He was also sworn enemies with [Saint Jay](<Saint_Jay_(individual).md>), a disciple of [Faust](Faust.md).[\[2\]](#cite-note-obelisk-2)[\[3\]](#cite-note-3)
+Urek Felhand was the Hero of [Shadowcast](Shadowcast.md), who wielded the [Hero's Blade of Shadow](<Hero's_Blade_of_Shadow.md>). Eventually, he betrayed the other 4 heroes, but his soul was still embedded into his respective [obelisk](Saintsworn_Obelisks.md). He was also sworn enemies with [Saint Jay](<Saint_Jay_(individual).md>), a disciple of [Faust](Faust.md).[\[2\]](#cite-note-obelisk-2)[\[3\]](#cite-note-3)
 
 He tells the player about the betrayal, after talking to the [obelisk](Saintsworn_Obelisks.md).[\[2\]](#cite-note-obelisk-2)
 

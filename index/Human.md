@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 186344
+revid: 190798
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles", Aspects]
@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, And Robert Trujillo. This is an unobtainable aspect, which is NPC exclusive. The human aspect is known to give no buffs, as they are only human, after all. Humans first (and only) appearance is the in-game [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
+The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet, and Robert Trujillo. This is an unobtainable aspect, which is NPC exclusive. The human aspect is known to give no buffs, as they are only human, after all. Humans first (and only) appearance is the in-game [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
 
 ## Miscellaneous
 

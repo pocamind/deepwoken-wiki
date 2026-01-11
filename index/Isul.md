@@ -1,21 +1,14 @@
 ---
 title: Isul
-revid: 187829
+revid: 190880
 source: https://deepwoken.fandom.com/wiki/Isul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Hive, Reputation]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Hive, Reputation]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Isul
-
-| Isul | |
-|---|---|
-| name | Ishul |
-| aspect | Ganymede |
-| location | The Lordsgrove |
-| affiliation | The Hive |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -25,9 +18,11 @@ This content is not accessible outside of this gamemode.
 
 ― Rashet
 
+Template:NpcInfobox
+
 ## Description
 
-Ishul is a [Ganymede](Ganymede.md) NPC who accepts a bribe for [The Hive](The_Hive.md). The player can pay them up to 1,200 to restore their reputation back to neutral.
+Ishul is a [Ganymede](Ganymede.md) NPC who accepts a bribe for [The Hive](The_Hive.md). The Inheritor can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
@@ -107,7 +102,7 @@ Ishul is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
   <td><i>*They seem to be sweating bullets as you approach.*</i> WOW! WHAT LOVELY PLANTS THESE ARE!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

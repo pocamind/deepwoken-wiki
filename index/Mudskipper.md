@@ -1,6 +1,6 @@
 ---
 title: Mudskipper
-revid: 185700
+revid: 190796
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -39,7 +39,7 @@ Mineskippers wield pickaxes, dealing slightly more damage than normal Mudskipper
 
 ### Miniskippers
 
-Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.md) and [Mudskipper Broodlords](Mudskipper_Broodlord.md). These Mudskipper variants have but one unique quality; on knock, they instantly die without granting a health pack. This singular trait turns the normal minor annoyance of a Mudskipper into a potentially dangerous opponent, as you will need to deal with them while also fighting their summoner, and even when you beat them, you won't be rewarded with healing.
+Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.md) and [Mudskipper Broodlords](Mudskipper_Broodlord.md). These Mudskipper variants have but one unique quality; on knock, they instantly die without granting a health pack. This singular trait turns the normal minor annoyance of a Mudskipper into a potentially dangerous opponent, as you will need to deal with them while also fighting their summoner, and if their summoner kills them, you won't get a health-pack
 
 ## Moveset
 
@@ -86,7 +86,6 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
 ### Passives
 
 -   **Bloating** - Bloated Mudskippers will violently explode **after being gripped**, dealing **AoE Autogrip** damage around their body.
--   **Reanimated** - Miniskippers will instantly die upon being knocked **without rewarding a health pack**.
 
 ## Finisher
 
@@ -106,7 +105,7 @@ Miniskippers are exclusively spawned from [Mudskipper Brutes](Mudskipper_Brute.m
     -   If there are more than one Enhanced Mudskippers, they will often spam this Mantra. Hold block when you feel that they are going to do this.
 -   Bloated Mudskippers will explode after being gripped, so take care to move away if anyone is low.
     -   This will also instantly execute any knocked enemies nearby, including you or your allies.
--   When fighting a [Mudskipper Brute](Mudskipper_Brute.md) or [Broodlord](Mudskipper_Broodlord.md), it is imperative that you take out their summons as quickly as possible, as they can and will interrupt your fight, and there is little merit to keeping them around, as Miniskippers do not grant health packs.
+-   When fighting a [Mudskipper Brute](Mudskipper_Brute.md) or [Broodlord](Mudskipper_Broodlord.md), it is imperative that you take out their summons as quickly as possible, as they can and will interrupt your fight, and if not killed in-time, the brute/broodlord could stop you from getting a healthpack
 
 ## Lore
 

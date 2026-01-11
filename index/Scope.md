@@ -1,9 +1,9 @@
 ---
 title: Scope
-revid: 188864
+revid: 190870
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
 ---
 
 # Scope
@@ -21,13 +21,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Scope is a [Vesperian](Vesperian.md) NPC, he is collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, he will reward them with a chest and positive reputation with [The Summer Company](The_Summer_Company.md).
+Scope is a [Vesperian](Vesperian.md) NPC. They are collecting explosive boxes found in events all over the Summer Isle. For those who turn an explosive box, they will reward them with a chest and positive reputation with [The Summer Company](The_Summer_Company.md).
 
 This is a good way to earn some easy reputation, much like the [Etris Wood Quest](Korin.md). This is great, because occasionally Summer Company events will attack neutral players, but not any with more than that.
 
 ## Location
 
-Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircase leading to his room, which is filled with explosive boxes, while he sits on the pavement.
+Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircase leading to a room, which is filled with explosive boxes.
 
 ## Dialogue
 
@@ -51,10 +51,10 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 </tr>
 <tr>
   <td colspan="2">Sounds Good.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,19 +1,12 @@
 ---
 title: The Guy
-revid: 187585
+revid: 190857
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
+categories: [Pathfinder Exclusive, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
 ---
 
 # The Guy
-
-| The Guy | |
-|---|---|
-| name | Guy (presumably) |
-| aspect | Canor |
-| location | Bluster Rift |
-| affiliation | The Summer Company |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -22,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ I'm a bit of a big deal around here. Bit of a big shot. You might've heard of me. They call me 'The Guy'. Why, you may ask? There's nobody else like me, I'm simply The Guy. The pinnacle of confidence and swagger, the pride of the Summer Company. ”
 
 ― The Guy
+
+Template:NpcInfobox
 
 ## Description
 
@@ -120,7 +115,7 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
   <td>So... What's it like being The Guy?</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

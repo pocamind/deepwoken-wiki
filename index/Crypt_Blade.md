@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 186591
+revid: 190784
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -45,7 +45,7 @@ The Crypt Blade comes with 2 passive abilities:
 
 ## Critical
 
-The user plunges the blade into the ground and releases an AoE circle surrounding them, inflicting Shadow and chaining everyone within it. This additionally drains 45 Ether from the target on hit, an additional 10 Ether when the chain breaks. This deals **0.8x scaled damage**.
+The user plunges the blade into the ground and releases an AoE circle surrounding them, inflicting Shadow and chaining everyone within it. This additionally drains 45 Ether from the target on hit, an additional 10 Ether when the chain breaks. The plunge attack deals **0.8x scaled damage**.
 
 If you hit a chained target, the chain will break and the opponent will receive three consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow. Blocking and parrying will not cancel out this effect.
 

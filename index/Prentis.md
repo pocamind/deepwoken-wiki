@@ -1,29 +1,24 @@
 ---
 title: Prentis
-revid: 188858
+revid: 190858
 source: https://deepwoken.fandom.com/wiki/Prentis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company]
 ---
 
 # Prentis
-
-| Prentis | |
-|---|---|
-| name | Prentis |
-| aspect | Khan |
-| location | Bluster Rift |
-| affiliation | The Summer Company |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Prentis is a Khan NPC that's part of [The Summer Company](The_Summer_Company.md), she's on a team mission with [The Guy](The_Guy.md), [Mercille](Mercille.md) and [Sierra](Sierra.md).
+Prentis is a [Khan](Khan.md) NPC that's part of [The Summer Company](The_Summer_Company.md). They're on a team mission with [The Guy](The_Guy.md), [Mercille](Mercille.md) and [Sierra](Sierra.md).
 
-She shares a common dislike for The Guy with Sierra and Mercille.
+They share a common dislike for The Guy with Sierra and Mercille.
 
 ## Location
 
@@ -60,7 +55,7 @@ Sierra is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a
   <td colspan="2">[See previous instance]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="6"></td>
 </tr>
 </tbody>
@@ -77,7 +72,7 @@ Sierra is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a
   <td colspan="">So you're calling yourself 'The Guy' now too, huh? Gods below... <i>*They pinch their brow and sigh.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Seaweed Bundle
-revid: 190518
+revid: 190757
 source: https://deepwoken.fandom.com/wiki/Seaweed_Bundle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Ingredients, Alchemy, Fishing Loot]
@@ -26,15 +26,16 @@ categories: [Consumables, Ingredients, Alchemy, Fishing Loot]
 
 A consumable plant commonly found in [The Depths](The_Depths.md) or while [Fishing](Fishing.md). They can be found in groups of three near [Castle Light](Castle_Light.md).
 
-## Recipes used in
+## Crafting
 
-Seaweed isn't used in many recipes, nor is an important benefactor to meals. It's only useful for getting the Artisan Chef Talents if you're Deepbound, as seaweed is extremely common and you can easily eat 50 of them. Raw Seaweed however gives nothing, so it's best advised to cook it.
+### Used in
 
--   Dried Seaweed - 1 Seaweed Bundle + Campfire.
--   Sushi - 1 Seaweed Bundle, 1 Fish Meat.
--   Fish Stew - 1 Seaweed, 2 Fish Meat + Campfire.
+-   [Dried Seaweed](Dried_Seaweed.md) - 1 Seaweed Bundle + Campfire.
+-   [Sushi](Sushi.md) - 1 Seaweed Bundle, 1 Fish Meat.
+-   [Fish Stew](Fish_Stew.md) - 1 Seaweed, 2 Fish Meat + Campfire.
 
 ## Trivia
 
 -   Seaweed Bundles, ever since the release of the game, could only be obtained through Fishing. However, the Proficient Baiting Talent, automatically unlocked through Fishing, reduced the chances of actually getting Seaweed Bundles, leading to heavy complaints. Eventually, Arch\_Mage added them in a shadow patch alongside a description for the [Authority Helm](Authority_Helm.md) due to a Discord user constantly pinging him since November 2023 and requesting they be added.
 -   If used in [Alchemy](Alchemy.md), the primary affect applied is **Mindbreaking**.
+-   Dried Seaweed is heavier than a Seaweed Bundle despite being dried, meaning it contains less water and thus logically should have less mass.

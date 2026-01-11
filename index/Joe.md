@@ -1,21 +1,14 @@
 ---
 title: Joe
-revid: 184798
+revid: 190895
 source: https://deepwoken.fandom.com/wiki/Joe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Individuals with unspecified pronouns]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Joe
-
-| Joe | |
-|---|---|
-| name | Joe |
-| aspect | Canor |
-| location | Temple of the Blade |
-| affiliation | Etrea |
 
 Variants: [Jim](Jim.md)
 
@@ -23,20 +16,22 @@ Variants: [Jim](Jim.md)
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Joe is a [Canor](Canor.md) NPC. Completing his dialogue starts the "Joe's Embers" [Quest](Quests.md).
+Joe is a [Canor](Canor.md) NPC. Completing their dialogue starts the "Joe's Embers" [Quest](Quests.md).
 
 ## Quest
 
 ### Joe's Embers
 
-1.  To start the quest, the player has to finish Joe's dialogue. He will then ask the player to retrieve him 2 [Dying Embers](Dying_Embers.md).
+1.  To start the quest, the player has to finish Joe's dialogue. They will then ask the player to retrieve 2 [Dying Embers](Dying_Embers.md).
 2.  To finish the quest, speak to Joe again with at least 2 Dying Embers inside of the inventory.
 
 ### Rewards
 
-Upon retrieving Joe his Dying embers, he hands the player a random tier two [Mantra Modifier](Mantra_Modifiers.md).
+Upon retrieving the Dying embers, Joe gives the player a random tier two [Mantra Modifier](Mantra_Modifiers.md).
 
 ## Location
 
@@ -69,7 +64,7 @@ Joe is located inside of the library at the [Temple of the Blade](Temple_of_the_
   <td>I thought you would. Well, the secret of what I have in store is waiting on you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -96,8 +91,8 @@ Joe is located inside of the library at the [Temple of the Blade](Temple_of_the_
   <td>Don't try to fool me. You don't have 2 Dying Embers yet.</td>
 </tr>
 <tr>
-  <td>End, Curiosity Talent Hand obtained</td>
-  <td>End</td>
+  <td>[End Dialogue], Curiosity Talent Hand obtained</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +108,7 @@ Joe is located inside of the library at the [Temple of the Blade](Temple_of_the_
   <td>Heh, thanks.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

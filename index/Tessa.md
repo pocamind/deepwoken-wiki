@@ -1,9 +1,9 @@
 ---
 title: Tessa
-revid: 177818
+revid: 190823
 source: https://deepwoken.fandom.com/wiki/Tessa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Lore, Oath Trainer]
+categories: [Stub pages without reason, StubPages, The Five Heroes, Deceased characters, Oath Trainer]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-**Tessa** was the Hero of [Thundercall](Thundercall.md), she wielded the [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). Along with all the other [Heroes](The_Five_Heroes.md), she bound her soul to [her respective Heroblade](<Hero's_Blade_of_Lightning.md>). Eventually she fell in a battle, her spirit now resides in an [obelisk](Thundercall_Obelisk.md).[\[2\]](#cite-note-tweet-2)
+Tessa was the Hero of [Thundercall](Thundercall.md), she wielded the [Hero's Blade of Lightning](<Hero's_Blade_of_Lightning.md>). Along with all the other [Heroes](The_Five_Heroes.md), she bound her soul to [her respective Heroblade](<Hero's_Blade_of_Lightning.md>). Eventually she fell in a battle, her spirit now resides in an [obelisk](Thundercall_Obelisk.md).[\[2\]](#cite-note-tweet-2)
 
 ## References
 

@@ -1,9 +1,9 @@
 ---
 title: Stars
-revid: 182195
+revid: 190821
 source: https://deepwoken.fandom.com/wiki/Stars
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore, The Heavens]
+categories: [The Heavens]
 ---
 
 # Stars

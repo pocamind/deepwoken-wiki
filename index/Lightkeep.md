@@ -1,9 +1,9 @@
 ---
 title: Lightkeep
-revid: 173236
+revid: 190816
 source: https://deepwoken.fandom.com/wiki/Lightkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages requiring a cleanup, Lore]
+categories: [Pages requiring a cleanup]
 notices:
   - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---

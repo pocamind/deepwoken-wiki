@@ -1,28 +1,22 @@
 ---
 title: Alina Sokolof
-revid: 188514
+revid: 190877
 source: https://deepwoken.fandom.com/wiki/Alina_Sokolof
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Alina Sokolof
 
-| Alina Sokolof | |
-|---|---|
-| name | Alina Sokolof |
-| aspect | Celtor |
-| pronouns | She/her |
-| location | Castle Light |
-| affiliation | The Divers |
-
 Variants: [Mark Adaset](Mark_Adaset.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 

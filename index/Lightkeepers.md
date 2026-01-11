@@ -1,9 +1,8 @@
 ---
 title: Lightkeepers
-revid: 173265
+revid: 190817
 source: https://deepwoken.fandom.com/wiki/Lightkeepers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore]
 ---
 
 # Lightkeepers

@@ -1,9 +1,11 @@
 ---
 title: Suncross
-revid: 174312
+revid: 190834
 source: https://deepwoken.fandom.com/wiki/Suncross
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lore]
+categories: [Pages requiring a cleanup]
+notices:
+  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
 ---
 
 # Suncross
@@ -19,9 +21,3 @@ The Suncross is an infrequently-used symbol in Deepwoken - particularly when com
 "THE WANDERING STAR! ITS MOVEMENTS SO CALCULATED! ITS WARMTH - ITS LIGHT! SUCH BEAUTY - SUCH INTENT!"
 
 The Suncross and Moonseye are comparable to the [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang), with one representing the darkness and another representing the light. Despite their dueling motifs, the two stars have purpose unique to one-another - the Moonseye was formerly responsible for the afterlife, and the Suncross' purpose (or former purpose) currently stands as unknown.
-
-Some refer to the Suncross as Sol.[\[1\]](#cite-note-1)
-
-## References
-
-1.  [↑](#cite-ref-1) [My Warm Blood](My_Warm_Blood.md)

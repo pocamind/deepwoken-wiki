@@ -1,9 +1,9 @@
 ---
 title: The Five Heroes
-revid: 177482
+revid: 190824
 source: https://deepwoken.fandom.com/wiki/The_Five_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Lore, The Five Heroes, Dissolved organizations]
+categories: [Stub pages without reason, StubPages, The Five Heroes, Dissolved organizations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -17,7 +17,7 @@ notices:
 
 ## Description
 
-**The Five Heroes** were a team consisting of Heroes, each one wielding their own respective element's [Hero's Blade](Hero_Blades.md).[\[1\]](#cite-note-obelisks-1)
+The Five Heroes were a team consisting of Heroes, each one wielding their own respective element's [Hero's Blade](Hero_Blades.md).[\[1\]](#cite-note-obelisks-1)
 
 At some point of their lives, they all bound their souls to their [Hero Blades](Hero_Blades.md). After their deaths, their souls now live in the [obelisks](Saintsworn_Obelisks.md) scattered all around the [Etrean and Eastern Luminants](Luminants.md#etrean-and-eastern-luminants).[\[1\]](#cite-note-obelisks-1)
 
