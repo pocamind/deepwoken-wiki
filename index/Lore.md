@@ -1,9 +1,9 @@
 ---
 title: Lore
-revid: 190818
+revid: 190921
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, SpoilerPages, Pages with broken file links, Deepwoken]
+categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
@@ -22,7 +22,7 @@ beware - the Tide comes too for thee. ”
 
 The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be discovered in-game through [dialogues](Dialogue.md), [books](Books.md), descriptions, landscapes, and places, such as the [Towerstruck Lands](Towerstruck_Lands.md), [the City of the Drowned](The_City_of_the_Drowned.md), and many more.
 
-**DISCLAIMER:** Contributors of this page may input misinformation about lore either intentionally or by accident, as they all come from the Deepwoken player base, which could lead to misinterpretation by some individuals. This page is based on the game and the developers themselves (Arch\_Mage, Naktigonis, ragoozer, etc.).
+**DISCLAIMER:** This page is obsolete and in the process of being broken down.
 
   
 
@@ -31,8 +31,6 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 ### The Lord Regent of Etrea, The Fourth Prophet of the Ministry, Zi'eer
 
 "_Ah, perfect. All I needed was for you to secure the area. Your services will no longer be of use to me._" _\-_ Lord Regent, after the player defeats [Duke Erisia](Duke_Ishamon_Erisia.md) and returns back to him before he promptly kills them.
-
-_The Lord Regent, sitting atop his throne of coral._
 
 -   The [Lord Regent](The_Lord_Regent.md)—true name "Zi'eer"—is a mysterious individual with enhanced versions of the powers of his [Contractors](Oath%253A_Contractor.md) who rose to power and has absolute control over [Etrea](Etrea.md), staying exclusively within his palace in the [capital city](Etris.md) and secretly being the Fourth Prophet of [The Ministry](The_Ministry.md).
 -   Nobody in [Etris](Etris.md) is sure of where he originates, but they accept him for his formidable power, and his actions _appear_ to be in the best interests of Etris.
@@ -62,8 +60,6 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The description of the Authority's helmet mentions that no one has seen the Sovereign's true face.
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
     -   When asked, developer ragoozer simply stated that it is up to the interpretation of the reader.
--   Even more powerful than [The Lord Regent](The_Lord_Regent.md).[\[1\]](#cite-note-rag-1)
--   A theory stated to be "close to the actual lore" says that Drallis Ehr is controlled by the [Celestials](Celestial.md) with the objective to unite all Lumen under one banner, so that they may fight off the Drowned Gods like the Celestials did in the past.[\[1\]](#cite-note-rag-1)
 -   Both the [Etrean Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=EtreanLuminant.png) and [Eastern Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=DWmapEast.png) maps were commissioned under his name.
 
 ### The First Prophet
@@ -95,21 +91,12 @@ _The Lord Regent, sitting atop his throne of coral._
 -   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oaths.md), [Soulbreaker](Oath%253A_Soulbreaker.md).
 -   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wielded the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
--   File:RagsHonestReaction.png
-    
-    ragoozer after being asked 'was the old king of Etris also buffed by the throne?'
-    
-    When ragoozer was asked if he was also strengthened by the throne, his reaction was:
 
   
 
 ### Duke Ishamon of Erisia
 
-_"The ruins of that city will **never** cage me. And with what's at stake... I can't stop now." - The Duke of Erisia, talking to the Player_
-
-The Duke
-
-  
+_"The ruins of that city will **never** cage me. And with what's at stake... I can't stop now." - The Duke of Erisia, talking to the Player_  
 
 -   [The Duke](Duke_Ishamon_Erisia.md), known for his creation of the [Golems](Rock_Golem.md) that roam Erisia Island, is a Celtor Galebreathe user who fights the player during the ["The Lord Regent" Quest](Etris.md#the-lord-regents-quest).
 -   The Duke sealed himself deep within his Manor, locked behind a black iron gate. What lies deep in his chambers are Rock Golems, Brainsuckers and [Mindless Servants](Mindless_Servant.md).
@@ -161,7 +148,6 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
 -   "Would beat Akira up and down the eastern lum."[\[1\]](#cite-note-rag-1)
 -   Is far stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
--   His aspect is Tiran, however due to undergoing constant revisions during development his aspect was up for dispute. The three known aspects he was theorised to be were: [Ganymede](Ganymede.md), [Vesperian](Vesperian.md) or [Tiran](Tiran.md).[\[1\]](#cite-note-rag-1)[\[4\]](#cite-note-arch-4) With the release of the [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) however, his aspect was revealed to be Tiran.
 -   Was a very prestigious Black Diver, having the respect of most of [the Divers](The_Divers.md), however his actual relation to the Divers is unknown.
 -   Became a Deepwoken long before the Divers were founded, joining their ranks once they had formed.
 -   Many people think he is dead due to be the only known person to go to the third layer. However, since he is immortal, he just spends most of his time in the third layer, going almost unseen.
@@ -252,11 +238,10 @@ _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend]
 _"Is that how you greet a gentleman? Disgusting." - Meat Lord, maybe_
 
 -   A wandering chef and salesman that dons the old [Authority Commander Uniform](Authority_Captain_Uniform.md) and a special variant of the Blackleaf helm and pauldrons, known for his culinary accomplishments. The ultimate sigma male, capable of striking fear into any vegetarian that crosses his way. Has the ability to appear in multiple locations simultaneously.
--   It is theorized that the Meat Lord may have the ability to clone himself, thus explaining him being able to be in multiple places at once.
 -   Sells the best carnivorous food for the best price.
 -   He is an Adret.
 -   Rumored to be an incarnation of [Dorgan](https://rogue-lineage.fandom.com/wiki/Dorgan) from Rogue Lineage, a being of infinite power.
--   Ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
+-   ragoozer and multiple Deepwoken testers have stated that the Meat Lord can solo every Drowned God at once with little difficulty. However, if he were to fight Dorgan, it would always end in a stalemate due to their literally infinite power and endurance.
     -   If these are true and not just jokes then two things can be assumed:
         1.  The Meat lord is the most powerful character in all of Deepwoken Lore.
         2.  He has the power to kill anything he pleases, yet chooses to do what he enjoys instead of displaying his strength as he understands that killing everyone would void him of joy so he chooses to make meat and sell it. Being what he devotes his time to, this is likely his favorite activity to do.
@@ -291,8 +276,6 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
--   It is theorized that Gunsmith Rosen was either the founding father or the creator of [The Summer Company](The_Summer_Company.md) which is a faction that consists of Gunsmiths and anything related to guns.
-    -   Gunsmith Rosen's status or whereabouts is unknown. It is assumed that he is still in position as leader of Summer Company. However, he was able to signoff on the creation of the [Stormseye](Stormseye.md).[\[7\]](#cite-note-stormseye-7)
 -   He is a [Vesperian](Vesperian.md).[\[4\]](#cite-note-arch-4)
 -   His former prodigy, [Gunsmith Hierka](Gunsmith_Hierka.md), used the Summer Company's secrets in order to create the Rifle Spear for [The Authority](The_Central_Authority.md).
     -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do whatever they please to them, most likely to ensure they can keep their contract.[\[4\]](#cite-note-arch-4)
@@ -376,8 +359,6 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   This explains why Chaser is able to be defeated multiple times, because from his perspective it hasn't happened yet.
         -   Chaser is also aware of the time dilation, and he has a watch that keeps track of it.
 -   Ethiron also emits a white mist near his bed-chamber that "mind controls" those that have been in the mist long enough, making them puppets to its will, however, this mist doesn't affect those who are very insane. explaining why Doctor Carrion, despite being in New Kyrsa for some time, didn't experience the effects of the mist.
--   Their physical body is suspected to be located below New Kyrsa, probably from the pit where the Scion of Ethiron emerges.
--   An entity known as "The Voice of Ethiron", tries to fool the player into awakening the Scion of Ethiron so it can fully awake Ethiron. This suggests that similar to how the Scion of Ethiron is a small part of Ethiron, the Voice its also a small part that tries to awake its master. It could be theorized that the Voice is actually Ethiron itself, taking on the form of a disembodied voice or a ghostly figure (as in the case with Mendacia) to communicate with lesser beings.
 
 ### Korilfiend, the Inferno's Provenance
 
@@ -403,14 +384,6 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as Kaide has stated that they were in a war against the Drowned Gods that the Celestials and Lightborn's lost when the Celestials fled.
 -   It is most likely that they have a great relation with Krulian's, similar to how Celestials are to Lightborns.
 -   There is not a Drowned God for each attunement.[\[4\]](#cite-note-arch-4)
--   Two theories to what they are have been remarked as 'close:'[\[1\]](#cite-note-rag-1)
-    -   Drowned gods are amalgamations formed from the collective consciousness of previously drowned worlds that make up the previous layers. They act as entities that unknowingly perpetuate a cycle of rebirth and destruction with each new iteration.
-    -   Drowned gods are people from the Old World that were corrupted by The Depths so much that they _descended_ to godhood.
--   The name of the game "Deepwoken" is known in the lore as the act of consuming a piece of a Drowned God to gain incredible powers,[\[1\]](#cite-note-rag-1) so Deepwoken doesn't mean the awakening of a Drowned God, but more like the awakening of a great power of the Depths. Before the game had the name of Deepwoken it was called "Drowned Gods," referencing the Drowned Gods.
--   The Drowned Gods are able to create Avatars from small pieces of themselves, creating puppets to their will. One example of this is the Scion of Ethiron in Layer 2.
--   Arch\_Mage has alluded to the Drowned God "Murchendice" who is responsible for turning notable characters into merchandise
-    -   The ritual of the 'Crowdfunded Murchendice Campaign.'
-    -   List of victims: [Destroyman III](Destroyman_III.md), [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), [Thresher](Thresher.md), [Mudskipper](Mudskipper.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Black Diver](Black_Diver.md), [Deep Owl](Deep_Owl.md)
 
 **Voices of the Trials**
 
@@ -448,7 +421,7 @@ _"**Despicable**. You deem yourselves worthy of a challenge? Allow me to educate
 -   [The Ferryman](The_Ferryman.md) is a [Krulian](Krulian.md) that has taken the appearance of an [Etrean](Etrean.md) and resides within the [Boatman's Watch](<Boatman's_Watch.md>) in the [Voidsea](Voidsea.md).
 -   He is summoned using a ritual involving several campfires.
 -   He is a well known figure on the surface, with rumors that summoning him leads to being granted a great treasure, however, few realize that to get the reward you are required to defeat him first.
--   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favor by tormenting the humans that dare dance with him.[\[8\]](#cite-note-yama-8)
+-   At some point during his life, he was an underdog in society having come from 'the dregs of the dregs,' but now returns the favor by tormenting the humans that dare dance with him.[\[7\]](#cite-note-yama-7)
 -   A full power Ferryman can defeat Akira on the surface but not the Lord Regent with the throne buff[\[1\]](#cite-note-rag-1) unless it's in the Depths as the Ferryman is inhibited by the surface.[\[1\]](#cite-note-rag-1)
 -   Likely resides in an unknown layer of the Depths.
     -   Krulians are tied to The Depths and are weakened when on the surface.
@@ -474,7 +447,7 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore sources:** _Sudaruska's Soul, Gran Sudaruska Description_
 
--   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[9\]](#cite-note-gran-9)
+-   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
 -   Was a very powerful Frostdrawer.
 -   Possibly a Celtor due to her Russian name.
 -   Possibly a Gremor due to Nuttoons drawing of her. (Note: the drawing isn't necessarily canon.)
@@ -484,8 +457,8 @@ _"Your own depths shall consume you." - Gran Sudaruska._
 
 **Lore Sources:** _Yamaketzel (Mentioned)_
 
--   Songseeker Mistress[\[8\]](#cite-note-yama-8)
--   A sort of teacher to the Songseekers. Encourages a level of freedom, so long as said freedom aligns with her beliefs.[\[8\]](#cite-note-yama-8)
+-   Songseeker Mistress[\[7\]](#cite-note-yama-7)
+-   A sort of teacher to the Songseekers. Encourages a level of freedom, so long as said freedom aligns with her beliefs.[\[7\]](#cite-note-yama-7)
 
 ### Edenkite
 
@@ -627,12 +600,7 @@ The Citadel
 
 **The Boundary**
 
-File:Boundary lore 1.png
-
-Arch using a crude map to explain where the boundary is.
-
 -   The Boundary is the interstice located between Lumen and the Depths.
--   The first Black Diver, Deukalion Akarad, died trying to get through here.
 -   Exiting the Boundary from the Depths results in the soul not remaining in the body due to the constant downward pull the Depths puts on it, resulting in the eventual death of the individual, though this can be negated by certain rituals.
 
 #### Boatman's Watch (Voidsea)
@@ -816,14 +784,14 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
 -   _(Gunsmith Rosen)_ The Leader of [The Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." indicates he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
-    -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[7\]](#cite-note-stormseye-7)
+    -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[9\]](#cite-note-stormseye-9)
 -   [The Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
     -   Despite the fact that the Rifle Spear's description say that [The Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[4\]](#cite-note-arch-4)
         -   The [The Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[4\]](#cite-note-arch-4)
         -   Their relationship is likely what led to their conflict with [The Ignition Union](The_Ignition_Union.md), meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legions.
 -   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
--   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[7\]](#cite-note-stormseye-7)
+-   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[9\]](#cite-note-stormseye-9)
 -   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant, [Miners Landing](<Miner's_Landing.md>).
     -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so they attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[4\]](#cite-note-arch-4)
 
@@ -848,7 +816,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   The leader of the Ministry is the First Prophet, currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
 -   [The Ministry](The_Ministry.md) has some sort of hostility against the [Children of Navae](The_Children_of_Navae.md), which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
 -   Essentially enemies with every major faction in the game until proven otherwise.
--   [Minityrsa](Minityrsa.md) was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[9\]](#cite-note-gran-9)
+-   [Minityrsa](Minityrsa.md) was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[8\]](#cite-note-gran-8)
 -   The Ministry Scouts all use [Krulian Knives](Krulian_Knife.md), which is also the signature weapon wielded by [The Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the [Tacet](Murmur%253A_Tacet.md) quest is first initiated due to receiving reputation points occasionally for doing his assassinations with them.
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
@@ -1336,8 +1304,6 @@ _"The stars call you back..."_
 -   The Celestial cities hang below a black sea, likened to the night sky. The ivory and pearl structures hang over like chains.
 -   Their civilization has fallen to ruin. Their abandoned cities and dead civilizations litter the skies as shimmering stars.
 -   Known Celestials include Navae and Alsin, who have become religious figures in modern times.
-    -   From the way the dialogue is written in the Celestial Telescope, choosing the option "Gods rest their weary souls." opens up on _what_ has caused the disappearance of Celestials and the abandonment of their Cities was- identifying it as "It".
-        -   It is theorized it was the Celtorian Horror from when The Tides came, a monster or being that drowned the City of Celtor. If it is to be not the case that caused the Celestials to what they are now, it's unlikely that there are space monsters.
 -   Eating parts of them turns you into a Starkindred.
     -   This is most likely that specific Celestial that make you a starkindred as it is the only celestial we see in game and interact with
 
@@ -1749,7 +1715,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Resonances are "Unique passages of the Song being brought out and wielded."[\[4\]](#cite-note-arch-4)
     -   In the game, you can only obtain your Resonance Bell in The Depths, as well as Sibex noting they are particularly good for drawing them out. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
 -   Resonances can consist of any instrument, not just Bells.[\[4\]](#cite-note-arch-4)
--   Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance,[\[8\]](#cite-note-yama-8) or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
+-   Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance,[\[7\]](#cite-note-yama-7) or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
     -   Corrupted resonance downsides are a misuse of the Song, according to Arch\_Mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the Tides are created by the further misuse of the Song. These resonances have a heavy toll not only on the user, but on the Song. Therefore creating the corrupted effect.
 
@@ -2066,10 +2032,6 @@ Though technically a blank slate of varying aspects and abilities, even the play
 _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many years before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?"_
 
 -   This message engraved in the occupied Lightkeeper Temple in Aratel Island talks of the past of the Celtorian Nation; the City of Celtor. Besides the tragedy that struck the Nation (That being the Great Drowning), there are more to it than simply a disaster; that being the arrival of a New Lord and King years before the Drowning.
-    -   The writing does not specify how many years it has been since the new arrivals of their new leaders.
-    -   The new Lord is theorized to be the Lord Regent from the Kingdom of Etrea due to his abilities tainted with Depths Magicks written all over it and a similar theme of not questioning a ruler of mysterious origin. It's possible, as the time between the Great Drowning of Celtor and the current year (1271) is short.
-        -   The King however, could've been a new Celtor King in line; and presumably met the same fate as the Etrean King- who disappeared without any traces of themselves while the Lord took his place during his absence.
-    -   The phrase 'Lord and King' can also refer to a single individual, it's possible The Lord Regent or even another Contractor had installed themselves as the city's leader.
 
 ### Tempest Eye
 
@@ -2086,7 +2048,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
         -   _The Lament of Cirryn_ features birds heavily.
     -   Deer are apparently hunted by the Children of Navae for unknown reasons, with it likely not being for food given they bury the bodies.
-    -   Horses may exist in luminants other than the east, or had been domesticated before the Tides rose. People called "Drivers" would ride them.[\[8\]](#cite-note-yama-8)
+    -   Horses may exist in luminants other than the east, or had been domesticated before the Tides rose. People called "Drivers" would ride them.[\[7\]](#cite-note-yama-7)
     -   Fish are the only animals that can be actively seen and interacted with
         -   The known fish species include:
         -   At least four types of swordfish
@@ -2207,15 +2169,15 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) [1.71](#cite-ref-rag-1-71) [1.72](#cite-ref-rag-1-72) [1.73](#cite-ref-rag-1-73) [1.74](#cite-ref-rag-1-74) [1.75](#cite-ref-rag-1-75) Developer ragoozer
+1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) Developer ragoozer
 2.  ↑ [2.0](#cite-ref-kamas-2-0) [2.1](#cite-ref-kamas-2-1) [2.2](#cite-ref-kamas-2-2) [2.3](#cite-ref-kamas-2-3) [Flareblood Kamas](Flareblood_Kamas.md) description
 3.  ↑ [3.0](#cite-ref-vy-3-0) [3.1](#cite-ref-vy-3-1) [3.2](#cite-ref-vy-3-2) [3.3](#cite-ref-vy-3-3) [3.4](#cite-ref-vy-3-4) [3.5](#cite-ref-vy-3-5) [Vyrelda](Vyrelda,_Master_of_Blood.md)
-4.  ↑ [4.00](#cite-ref-arch-4-0) [4.01](#cite-ref-arch-4-1) [4.02](#cite-ref-arch-4-2) [4.03](#cite-ref-arch-4-3) [4.04](#cite-ref-arch-4-4) [4.05](#cite-ref-arch-4-5) [4.06](#cite-ref-arch-4-6) [4.07](#cite-ref-arch-4-7) [4.08](#cite-ref-arch-4-8) [4.09](#cite-ref-arch-4-9) [4.10](#cite-ref-arch-4-10) [4.11](#cite-ref-arch-4-11) [4.12](#cite-ref-arch-4-12) [4.13](#cite-ref-arch-4-13) [4.14](#cite-ref-arch-4-14) [4.15](#cite-ref-arch-4-15) [4.16](#cite-ref-arch-4-16) [4.17](#cite-ref-arch-4-17) [4.18](#cite-ref-arch-4-18) [4.19](#cite-ref-arch-4-19) [4.20](#cite-ref-arch-4-20) [4.21](#cite-ref-arch-4-21) [4.22](#cite-ref-arch-4-22) [4.23](#cite-ref-arch-4-23) [4.24](#cite-ref-arch-4-24) [4.25](#cite-ref-arch-4-25) [4.26](#cite-ref-arch-4-26) [4.27](#cite-ref-arch-4-27) [4.28](#cite-ref-arch-4-28) [4.29](#cite-ref-arch-4-29) [4.30](#cite-ref-arch-4-30) [4.31](#cite-ref-arch-4-31) [4.32](#cite-ref-arch-4-32) [4.33](#cite-ref-arch-4-33) [4.34](#cite-ref-arch-4-34) [4.35](#cite-ref-arch-4-35) [4.36](#cite-ref-arch-4-36) [4.37](#cite-ref-arch-4-37) [4.38](#cite-ref-arch-4-38) [4.39](#cite-ref-arch-4-39) [4.40](#cite-ref-arch-4-40) [4.41](#cite-ref-arch-4-41) [4.42](#cite-ref-arch-4-42) [4.43](#cite-ref-arch-4-43) [4.44](#cite-ref-arch-4-44) [4.45](#cite-ref-arch-4-45) [4.46](#cite-ref-arch-4-46) [4.47](#cite-ref-arch-4-47) [4.48](#cite-ref-arch-4-48) [4.49](#cite-ref-arch-4-49) [4.50](#cite-ref-arch-4-50) [4.51](#cite-ref-arch-4-51) [4.52](#cite-ref-arch-4-52) [4.53](#cite-ref-arch-4-53) [4.54](#cite-ref-arch-4-54) [4.55](#cite-ref-arch-4-55) [4.56](#cite-ref-arch-4-56) [4.57](#cite-ref-arch-4-57) [4.58](#cite-ref-arch-4-58) [4.59](#cite-ref-arch-4-59) [4.60](#cite-ref-arch-4-60) [4.61](#cite-ref-arch-4-61) [4.62](#cite-ref-arch-4-62) [4.63](#cite-ref-arch-4-63) [4.64](#cite-ref-arch-4-64) [4.65](#cite-ref-arch-4-65) [4.66](#cite-ref-arch-4-66) [4.67](#cite-ref-arch-4-67) [4.68](#cite-ref-arch-4-68) [4.69](#cite-ref-arch-4-69) [4.70](#cite-ref-arch-4-70) [4.71](#cite-ref-arch-4-71) [4.72](#cite-ref-arch-4-72) [4.73](#cite-ref-arch-4-73) [4.74](#cite-ref-arch-4-74) [4.75](#cite-ref-arch-4-75) [4.76](#cite-ref-arch-4-76) [4.77](#cite-ref-arch-4-77) Developer Arch\_Mage
+4.  ↑ [4.00](#cite-ref-arch-4-0) [4.01](#cite-ref-arch-4-1) [4.02](#cite-ref-arch-4-2) [4.03](#cite-ref-arch-4-3) [4.04](#cite-ref-arch-4-4) [4.05](#cite-ref-arch-4-5) [4.06](#cite-ref-arch-4-6) [4.07](#cite-ref-arch-4-7) [4.08](#cite-ref-arch-4-8) [4.09](#cite-ref-arch-4-9) [4.10](#cite-ref-arch-4-10) [4.11](#cite-ref-arch-4-11) [4.12](#cite-ref-arch-4-12) [4.13](#cite-ref-arch-4-13) [4.14](#cite-ref-arch-4-14) [4.15](#cite-ref-arch-4-15) [4.16](#cite-ref-arch-4-16) [4.17](#cite-ref-arch-4-17) [4.18](#cite-ref-arch-4-18) [4.19](#cite-ref-arch-4-19) [4.20](#cite-ref-arch-4-20) [4.21](#cite-ref-arch-4-21) [4.22](#cite-ref-arch-4-22) [4.23](#cite-ref-arch-4-23) [4.24](#cite-ref-arch-4-24) [4.25](#cite-ref-arch-4-25) [4.26](#cite-ref-arch-4-26) [4.27](#cite-ref-arch-4-27) [4.28](#cite-ref-arch-4-28) [4.29](#cite-ref-arch-4-29) [4.30](#cite-ref-arch-4-30) [4.31](#cite-ref-arch-4-31) [4.32](#cite-ref-arch-4-32) [4.33](#cite-ref-arch-4-33) [4.34](#cite-ref-arch-4-34) [4.35](#cite-ref-arch-4-35) [4.36](#cite-ref-arch-4-36) [4.37](#cite-ref-arch-4-37) [4.38](#cite-ref-arch-4-38) [4.39](#cite-ref-arch-4-39) [4.40](#cite-ref-arch-4-40) [4.41](#cite-ref-arch-4-41) [4.42](#cite-ref-arch-4-42) [4.43](#cite-ref-arch-4-43) [4.44](#cite-ref-arch-4-44) [4.45](#cite-ref-arch-4-45) [4.46](#cite-ref-arch-4-46) [4.47](#cite-ref-arch-4-47) [4.48](#cite-ref-arch-4-48) [4.49](#cite-ref-arch-4-49) [4.50](#cite-ref-arch-4-50) [4.51](#cite-ref-arch-4-51) [4.52](#cite-ref-arch-4-52) [4.53](#cite-ref-arch-4-53) [4.54](#cite-ref-arch-4-54) [4.55](#cite-ref-arch-4-55) [4.56](#cite-ref-arch-4-56) [4.57](#cite-ref-arch-4-57) [4.58](#cite-ref-arch-4-58) [4.59](#cite-ref-arch-4-59) [4.60](#cite-ref-arch-4-60) [4.61](#cite-ref-arch-4-61) [4.62](#cite-ref-arch-4-62) [4.63](#cite-ref-arch-4-63) [4.64](#cite-ref-arch-4-64) [4.65](#cite-ref-arch-4-65) [4.66](#cite-ref-arch-4-66) [4.67](#cite-ref-arch-4-67) [4.68](#cite-ref-arch-4-68) [4.69](#cite-ref-arch-4-69) [4.70](#cite-ref-arch-4-70) [4.71](#cite-ref-arch-4-71) [4.72](#cite-ref-arch-4-72) [4.73](#cite-ref-arch-4-73) [4.74](#cite-ref-arch-4-74) [4.75](#cite-ref-arch-4-75) [4.76](#cite-ref-arch-4-76) Developer Arch\_Mage
 5.  ↑ [5.0](#cite-ref-firstlight-5-0) [5.1](#cite-ref-firstlight-5-1) [5.2](#cite-ref-firstlight-5-2) [5.3](#cite-ref-firstlight-5-3) [5.4](#cite-ref-firstlight-5-4) [5.5](#cite-ref-firstlight-5-5) [5.6](#cite-ref-firstlight-5-6) [5.7](#cite-ref-firstlight-5-7) [First Light](First_Light.md) description
 6.  ↑ [6.0](#cite-ref-doc-6-0) [6.1](#cite-ref-doc-6-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
-7.  ↑ [7.0](#cite-ref-stormseye-7-0) [7.1](#cite-ref-stormseye-7-1) [7.2](#cite-ref-stormseye-7-2) [Stormseye](Stormseye.md) description
-8.  ↑ [8.0](#cite-ref-yama-8-0) [8.1](#cite-ref-yama-8-1) [8.2](#cite-ref-yama-8-2) [8.3](#cite-ref-yama-8-3) [8.4](#cite-ref-yama-8-4) [Yamaketzal](Yamaketzal.md)
-9.  ↑ [9.0](#cite-ref-gran-9-0) [9.1](#cite-ref-gran-9-1) [Gran Sudaruska](Gran_Sudaruska.md) description
+7.  ↑ [7.0](#cite-ref-yama-7-0) [7.1](#cite-ref-yama-7-1) [7.2](#cite-ref-yama-7-2) [7.3](#cite-ref-yama-7-3) [7.4](#cite-ref-yama-7-4) [Yamaketzal](Yamaketzal.md)
+8.  ↑ [8.0](#cite-ref-gran-8-0) [8.1](#cite-ref-gran-8-1) [Gran Sudaruska](Gran_Sudaruska.md) description
+9.  ↑ [9.0](#cite-ref-stormseye-9-0) [9.1](#cite-ref-stormseye-9-1) Cite error: Invalid `<ref>` tag; no text was provided for refs named `stormseye`
 10.  ↑ [10.0](#cite-ref-dsgs-10-0) [10.1](#cite-ref-dsgs-10-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
 11.  [↑](#cite-ref-railblade-11-0) [Railblade](Railblade.md) description
 12.  [↑](#cite-ref-alpha-12-0) [Alpha](Alpha.md)

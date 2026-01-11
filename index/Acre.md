@@ -1,9 +1,9 @@
 ---
 title: Acre
-revid: 188884
+revid: 190940
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Acre
@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Acre is a female [Adret](Adret.md) sitting on a ledge overlooking the water wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit, she throws you off into the water if you continue her dialogue.
+Acre is an [Adret](Adret.md) sitting on a ledge overlooking the water wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) Outfit, she throws you off into the water if you continue her dialogue.
 
 ## Location
 

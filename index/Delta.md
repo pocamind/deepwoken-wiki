@@ -1,9 +1,9 @@
 ---
 title: Delta
-revid: 190905
+revid: 190909
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
+categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
 ---
 
 # Delta

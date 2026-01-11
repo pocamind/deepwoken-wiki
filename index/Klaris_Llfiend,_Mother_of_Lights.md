@@ -1,20 +1,12 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 188837
+revid: 190936
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
+categories: [Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
 ---
 
 # Klaris Llfiend, Mother of Lights
-
-| Klaris Llfiend, Mother of Lights | |
-|---|---|
-| name | Klaris Llfiend |
-| aspect | Canor |
-| pronouns | She/her |
-| location | Castle Light |
-| affiliation | The Divers |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ You've done a great deal for us. This is the least we can offer in gratitude. ”
 
 ― Klaris after handing in all Diver Journals
+
+Template:NpcInfobox
 
 ## Description
 

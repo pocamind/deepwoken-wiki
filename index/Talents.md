@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 190599
+revid: 190950
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1347,11 +1347,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Casting a Flamecharm Mantra will give you a moderate boost of horizontal movement in the direction your character is facing. This will still proc even if the Mantra is feinted.
     -   Very useful for closing distance and getting into close quarters combat.
     -   Despite what Graceful Step's Talent description implies, this Talent does **not** grant a speed boost.
+    -   This has a 5 second cooldown.
     -   Prerequisites: 35 Flamecharm, [Power](Power.md) 8
 
 -   _Graceful Steps_ \[Rare Talent, Flamecharm\] - Your dancing steps now gives a faster speed boost.
     -   If you lack the ether to cast a Mantra, the speed boost will trigger regardless. Also triggers if the Mantra is feinted.
     -   The speed boost has a very short duration; having a fast swingspeed weapon is recommended to capitalize off this Talent's effect.
+    -   This has a 5 second cooldown.
     -   Prerequisites: 80 Flamecharm, [Power](Power.md) 13, Dancing Steps
 
 -   _The Final Act_ \[Rare Talent, Flamecharm\] - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.

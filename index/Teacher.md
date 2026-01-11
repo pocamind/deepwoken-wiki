@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 176643
+revid: 190923
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -17,7 +17,7 @@ categories: [Enemies, NPCs]
 
 ## Description
 
-The Teacher is a Pathfinder NPC that spawns during the [Pathfinder Gathering](Random_Encounters.md#pathfinder-gathering) event. Talking to the Teacher will prompt you to listen to one of 6 stories that will grant you a free attribute point at the end. They wear the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) outfit.
+The Teacher is a Pathfinder NPC that spawns during the [Pathfinder Gathering](Random_Encounters.md#pathfinder-gathering) event. Talking to the Teacher will prompt you to listen to one of six stories that will grant you a free attribute point at the end. They wear the [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md) outfit.
 
 -   A story of bravery. (Willpower)
 -   A story of cunning. (Intelligence)
@@ -28,7 +28,7 @@ The Teacher is a Pathfinder NPC that spawns during the [Pathfinder Gathering](Ra
 
 After a story has been told, you will have to wait until another event spawn to listen to another story.
 
-The Teacher spawns along with 2 more NPCs sitting next to a campfire with set races and features (one being an Adret, the other unconfirmed), two of which wield powerful modified [Frostdraw](Frostdraw.md) mantras. They seem to be hostile on-sight towards the Authority and Etrean forces.
+The Teacher spawns along with two more NPCs sitting next to a campfire with set races and features (one being an Adret, the other Etrean), two of which wield powerful modified [Frostdraw](Frostdraw.md) Mantras. They seem to be hostile on-sight towards the Authority and Etrean forces.
 
 ## Dialogue
 
@@ -89,6 +89,6 @@ The Teacher spawns along with 2 more NPCs sitting next to a campfire with set ra
 ## Trivia
 
 -   The "great leadership" story makes the player wonder if the Teacher is talking about the past King of Etrea.
--   The "survival" story may refer to Drallis Ehr.
--   If you decide to kill him and his camp, they will not drop anything.
+-   The "survival" story may refer to [Drallis Ehr](Drallis_Ehr.md).
+-   If you decide to kill them and their camp, they will not drop anything.
 -   Having the Fugitive flaw will make them ageressive towards you, despite them (supposedly) not belonging to any faction.

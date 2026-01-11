@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 187430
+revid: 190915
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character]
@@ -24,7 +24,7 @@ Ignition Delver has two obtainment methods:
 
 You must save [Epsi](Epsi.md) in [Floor 1](Second_Layer/The_Ethironal_Shrine.md) of the [Second Layer](Second_Layer.md) of [the Depths](The_Depths.md) and report to [Alpha](Alpha.md) afterwards.
 
-Alternatively, You can also complete the [Summer Goons](Orion.md) quest and return to Orion to obtain the Origin.
+Alternatively, you can also complete the [Summer Goons](Orion.md) quest and return to Orion to obtain the Origin.
 
 ## Spawn
 

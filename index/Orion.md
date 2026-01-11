@@ -1,25 +1,20 @@
 ---
 title: Orion
-revid: 177668
+revid: 190928
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests]
+categories: [NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Individuals with unspecified pronouns]
 ---
 
 # Orion
 
-| Orion | |
-|---|---|
-| name | Orion |
-| aspect | Celtor |
-| location | Miner's Landing |
-| affiliation | The Ignition Union |
+Template:NpcInfobox
 
 ## Description
 
-Orion is a [Celtor](Celtor.md) NPC found in [Miner's Landing](<Miner's_Landing.md>). He quests the player with killing "[Summer Isle](Summer_Isle.md) Goons", specifically being the [Summer Company Guards](Summer_Company_Guard.md) in the Boiler Room.
+Orion is a [Celtor](Celtor.md) NPC found in [Miner's Landing](<Miner's_Landing.md>). They task [The Pathfinder](The_Pathfinder.md) with killing "[Summer Isle](Summer_Isle.md) Goons", specifically being the [Summer Goons](Summer_Goon.md) in the Boiler Room.
 
-He will not tell you that you got the Origin if you are hive-kin or Khan, you will still obtain the Origin though.
+They will not tell you that you got the Origin if you are hive-kin or Khan, you will still obtain the Origin though.
 
 ## Dialogue
 
@@ -48,7 +43,7 @@ He will not tell you that you got the Origin if you are hive-kin or Khan, you wi
   <td>Thank you, friend. Seek the upper levels of the Landing, and you'll come across the danger to be cleared, specifically within our Reactor Room. Return to me once you're done, and I'll reward you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -76,7 +71,7 @@ He will not tell you that you got the Origin if you are hive-kin or Khan, you wi
   <td>I understand, friend. Should you clear out our opposition in the upper levels of the Landing, I shall reward you. Return to me once you're finished.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +93,7 @@ He will not tell you that you got the Origin if you are hive-kin or Khan, you wi
   <td>Thank you, friend. Seek the upper levels of the Landing, and you'll come across the danger to be cleared, specifically within our Reactor Room. Return to me once you're done, and I'll reward you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

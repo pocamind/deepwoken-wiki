@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 190736
+revid: 190946
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Pages with broken file links, Deepwoken]
@@ -83,7 +83,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 8 | [INSOMNIA](https://soundcloud.com/naktigonis/insomnia) | 3:31 | [Second Layer](Second_Layer.md) (Combat) | File:INSOMNIA.mp3 |
 | 9 | [The Storm That Speaks](https://soundcloud.com/naktigonis/the-storm-that-speaks) | 3:02 | [Second Layer](Second_Layer.md) | File:The Storm That Speaks.mp3 |
 | 10 | [Whisperwind](https://soundcloud.com/naktigonis/whisperwind) | 3:03 | [Firfire](Firfire.md) | File:Whisperwind.mp3 |
-| 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | File:Naktigonis - Kyrie (Deepwoken OST).mp3 |
+| 11 | [Kyrie](https://soundcloud.com/naktigonis/kyrie) | 3:18 | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) | File:Kyrie.mp3 |
 | 12 | [Blood And Thunder](https://soundcloud.com/naktigonis/blood-and-thunder) | 3:12 | [Battle Royale](Battle_Royale.md) | File:Y2mate.is - Naktigonis Blood And Thunder Deepwoken OST - jclWbTeNn0-192k-1692991811.mp3 |
 | 13 | [A Darkness Beneath](https://soundcloud.com/naktigonis/a-darkness-beneath) | 3:07 | [The Floating Keep](The_Floating_Keep.md) (Combat) and [Widow's Wail Cemetery](<Widow's_Wail_Cemetery.md>) (Combat) | File:Naktigonis - A Darkness Beneath (Deepwoken OST).mp3 |
 | 14 | [A Memory Of Tides (Band Version)](https://soundcloud.com/naktigonis/a-memory-of-tides-band-version) | 2:24 | [Instruments](Instruments.md) | File:A Memory Of Tides (Band Version).mp3 |

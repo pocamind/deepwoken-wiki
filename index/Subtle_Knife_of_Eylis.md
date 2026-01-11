@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 176682
+revid: 190943
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Knives of Eylis, The Knives of Eylis Enemies]
@@ -13,7 +13,7 @@ categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, T
 | health | 700 |
 | drops | None |
 | weapon | Whaling Knife |
-| moves | Assault, Critical, Time-Slowing Orb |
+| moves | Assault, Critical, Time-Slowing Orb, Dash, Adrenaline Surge, Rapid Slashes, Strong Left, Revenge |
 
 ## Description
 
@@ -77,6 +77,14 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
 (★☆☆)
 
  | Rush down your opponent cutting them apart.
+
+ |
+| 
+
+**Strong Left**  
+(★★☆)
+
+ | Winds up and hurls a powerful punch that shatters the air and flings the opponent away.
 
  |
 | 

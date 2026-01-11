@@ -1,6 +1,6 @@
 ---
 title: Human
-revid: 190798
+revid: 190931
 source: https://deepwoken.fandom.com/wiki/Human
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles", Aspects]
@@ -25,7 +25,7 @@ The only known humans in Deepwoken are James Hetfield, Lars Ulrich, Kirk Hammet,
 
 **Lore:**
 
-All aspects were formerly "human" before they made their hereditary vows which caused those with purely human characteristics to eventually go extinct. While the aspects are still biologically _homo sapiens_, they have additional characteristics, like the various breeds of cat and dog that exist in real life.
+All aspects were formerly "human" before they made their hereditary vows which caused those with purely human characteristics to eventually go extinct. While the aspects are still biologically _homo sapiens_, they have additional characteristics, like the various breeds of cat and dog that exist in real life. Yet somehow, these fellows remained.
 
 **Strengths:**
 
