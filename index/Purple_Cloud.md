@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 190600
+revid: 190697
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest |

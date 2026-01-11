@@ -1,6 +1,6 @@
 ---
 title: Calamity Cinnabar
-revid: 181275
+revid: 190696
 source: https://deepwoken.fandom.com/wiki/Calamity_Cinnabar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Weapons, Greatswords]
@@ -26,7 +26,7 @@ notices:
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Unobtainable |
 | description | A blade said to have been forged from the remains of the Last Dead, the last fortunate souls at the end of the Canticlysm to be spared the Drowning. |

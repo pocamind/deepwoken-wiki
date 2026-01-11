@@ -1,6 +1,6 @@
 ---
 title: Frost Gauntlets
-revid: 189832
+revid: 190706
 source: https://deepwoken.fandom.com/wiki/Frost_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -34,11 +34,11 @@ categories: [Vow of Iron Exclusive, Weapons, Fists, Light Weapons, Weapons with 
 | obtainment | The Indigo Citadel |
 | description | Perfect for a Knuckle Sandwich, served cold. |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
-
 Variants: [Legion Cestus](Legion_Cestus.md)
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

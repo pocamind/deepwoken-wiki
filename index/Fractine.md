@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 189738
+revid: 190690
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -13,15 +13,15 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 | type | Greatsword |
 | damage type | Slash |
 | requirements | LVL 10; 40 INT; 80 HVY |
-| damage | 22 (Greatsword), 14.5 + (2.175 BLD) (Shattered) |
+| damage | 22 |
 | scaling | 7 HVY, 4 INT |
 | posture damage | 6 |
-| range | 9 (Greatsword), 7 (Shattered) Sweep |
+| range | 9 Sweep (Greatsword), 7 Sweep (Shattered) |
 | swing speed | 0.81x |
 | attack duration | 0.8s |
 | penetration | 25% |
 | chip damage | 20% |
-| special effect | Using your critical attack will change the weapon into it's Shattered State. While in the Shattered State, the Fractine deals bleed damage, swings faster, but has less range and damage. Use the critical again to return it to its original form. |
+| special effect | Using your critical attack will change the weapon into it's Shattered State. While in the Shattered State, the Fractine deals bleed damage, swings faster, but has less range and deals 30% less damage. Use the critical again to return it to its original form. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -29,8 +29,8 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
+| droppable | no |
+| enchantable | no |
 | pass down | Yes |
 | obtainment | Voidsea Events, Moon's Eyrie, Semblance, Dread Serpent |
 | description | Ill-fated blade of void, once whole but nevermore., Bound through Vow to the soul of a former wielder; soul now claimed by the void, shattered, fragments; through Vow, blade now fractured remnant; semblance of that which once claimed it. |
@@ -39,7 +39,9 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 
 The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Intelligence](Attributes.md#int) in addition to Heavy. It can be found exclusively from the [Moon's Eyrie](<Moon's_Eyrie.md>), [Voidsea](Voidsea.md), and events found inside.
 
-After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. The Shattered State has 14.5 base damage, innate bleed, 7 range, and slightly faster swingspeed (it's not very noticeable). Using the critical again returns it to its original form.
+After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. The Shattered State deals 30% less damage, has innate bleed, with 7 range, and slightly faster swingspeed (it's not very noticeable). Using the critical again returns it to its original form.
+
+The damage debuff from the Shattered State also applies to [Silentheart](Oath%253A_Silentheart.md) abilities.
 
 ## Critical
 

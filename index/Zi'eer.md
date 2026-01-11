@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer"
-revid: 91967
+revid: 190701
 source: https://deepwoken.fandom.com/wiki/Zi'eer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [The Lord Regent](The_Lord_Regent.md)
+-   [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>)

@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 184407
+revid: 190693
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -37,7 +37,7 @@ _This might have not been the page you were looking for; if you were looking for
 
 ## Description
 
-The **Dormant Splinter** is a [Relic](Relics.md) rarity [Sword](<Sword_(weapon).md>); a black, voided twisted blade used as the main crafting component for some other [Relic-tier weapons](Relics.md#weapon-relics).
+The **Dormant Splinter** is a [Relic](Relics.md) rarity [Sword](Weapons.md#swords); a black, voided twisted blade used as the main crafting component for some other [Relic-tier weapons](Relics.md#weapon-relics).
 
 ## Crafting
 

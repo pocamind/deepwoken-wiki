@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 184355
+revid: 190707
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]

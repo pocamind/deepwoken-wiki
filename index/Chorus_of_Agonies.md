@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 190250
+revid: 190698
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -28,8 +28,8 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | selling price | ? |
 | weight | 2 |
 | bankable | Yes |
-| droppable | Yes |
-| enchantable | Yes |
+| droppable | No |
+| enchantable | No |
 | pass down | Yes |
 | obtainment | Heart of Enmity |
 | description | Towering over the trial like a monument, Enmity's presence draws the very air from your lungs, oppressive and unyielding, as if it too was full of scorn. Now in your grasp, the vile axe pulses with a dreadful rhythm, a heartbeat woven from the anguish of innumerable tortured souls. The air thickens under its weight, every inch of the weapon's twisted form resenting its own existence. The damned enforcers within wail for release, their mournful song clawing at your spirit. Yet, stood firm, you meet the abyss with defiance. The Chorus of Agonies envelops you. |
