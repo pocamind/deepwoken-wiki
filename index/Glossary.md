@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 191036
+revid: 191065
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -187,7 +187,7 @@ Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Galpin
 -   The Starkindred Church is a powerful organisation that stands as the religious authority over the Starkindred Faith. Much of the West is held by their influence, possessing a military and political strength that rivals the Hundred Legions.
 -   Where remnants of the [Heavens](#the-heavens) have fallen to [Lumen](#lumen), the Starkindred Church is never far away, hoping to safeguard and retrieve any relics.
 
-Dialogue: [Samael](Samael.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Suncross](#the-suncross), [The Western Luminant](#the-western-luminant)
+Dialogue: [Adrofalis](Adrofalis.md), [Samael](Samael.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Suncross](#the-suncross), [The Western Luminant](#the-western-luminant)
 
 ## Notable Figures
 
@@ -395,7 +395,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can even be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Delta](Delta.md), [Eiris](Eiris.md), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 -   Steward Bridges posited in his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 
@@ -451,7 +451,7 @@ Dialogue: [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Ploom](Ploo
 -   The times before the [Tides](#the-tides) arrived.
 -   The [Canticlysm](#the-canticlysm) is often thought of as the defining era of the [Old World](#the-old-world).
 
-Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Luminants](#the-luminants), [The Old World](#the-old-world)
+Dialogue: [Adrofalis](Adrofalis.md), [Bookkeeper Andros](Bookkeeper_Andros.md), [Regek](Regek.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Luminants](#the-luminants), [The Old World](#the-old-world)
 
 ### The Resurgence
 
@@ -615,7 +615,7 @@ Dialogue: [Hiri](Hiri.md), [Marro](Marro.md), [Nimea](Nimea.md), [Ottilde](Ottil
 -   Lumen is composed of two halves; the [Surface](#the-surface) below and the [Heavens](#the-heavens) above.
 -   The skies between the [Surface](#the-surface) and the [Heavens](#the-heavens) are obscured by vast clouds of [Voidfog](#the-voidfog).
 
-Dialogue: [Armourer Kev](Armourer_Kev.md), [Chef Buongustino](Chef_Buongustino.md), [Chud Steel](Chud_Steel.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Merryweather](Merryweather.md), [Mote](Mote.md), [Tillian](Tillian.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
+Dialogue: [Adrofalis](Adrofalis.md), [Armourer Kev](Armourer_Kev.md), [Chef Buongustino](Chef_Buongustino.md), [Chud Steel](Chud_Steel.md), [Destroyman III, Bon Vivant Adventurer](Destroyman_III,_Bon_Vivant_Adventurer.md), [Dust](Dust.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Merryweather](Merryweather.md), [Mote](Mote.md), [Tillian](Tillian.md), [Warden Jericho](Warden_Jericho.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Scyphozia, the First Layer](#scyphozia-the-first-layer), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Central Authority](#the-central-authority), [The Citadel of Markor](#the-citadel-of-markor), [The Depths](#the-depths), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Heavens](#the-heavens), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye), [The Song](#the-song), [The Starkindred Faith](#the-starkindred-faith), [The Suncross](#the-suncross), [The Surface](#the-surface), [The Tides](#the-tides), [The Voidfog](#the-voidfog), [The Voidsea](#the-voidsea), [The Western Luminant](#the-western-luminant), [Vows](#vows)
 
 ### The Luminants
 
@@ -722,7 +722,7 @@ Dialogue: [Cestis](Cestis.md), [Chud Steel](Chud_Steel.md) | Books: | Glossary E
 -   An expeditionary organisation stemming from the [Citadel](#the-citadel-of-markor) of Markor that conduct routine expeditions into the [Depths](#the-depths) in order to gather research, materials, and eliminate emergent threats.
 -   Though seen as a noble profession by many, the survival rate of Apprentice Divers is staggeringly low.
 
-Dialogue: [Abandoned Diver](<Abandoned_Diver_(Journeyman_Skeli).md>), [Akira](Akira.md), [Alina Sokolof](Alina_Sokolof.md), [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
+Dialogue: [Abandoned Diver](<Abandoned_Diver_(Journeyman_Skeli).md>), [Adrofalis](Adrofalis.md), [Akira](Akira.md), [Alina Sokolof](Alina_Sokolof.md), [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Deepdelver Gamma](Deepdelver_Gamma.md), [Karliah](Karliah.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Sarkale](Sarkale.md), [Vtreshi](Vtreshi.md) | Books: [Diver Journal, I](Diver_Journal,_I.md), [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Castle Light](#castle-light), [Lighthook](#lighthook), [Radiant Tones](#radiant-tones), [The Central Authority](#the-central-authority)
 
 ### The Moonlit Dialect
 

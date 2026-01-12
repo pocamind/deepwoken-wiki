@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Sounds
-revid: 186687
+revid: 191073
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Sounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -8,7 +8,7 @@ categories: [Deepwoken]
 
 # Deepwoken Sounds
 
-_For the deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
+_For the Deepwoken soundtrack, see [Deepwoken OST](Deepwoken_OST.md)._
 
 **A large collection of sounds found within Deepwoken.**
 

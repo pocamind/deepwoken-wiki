@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 190601
+revid: 191066
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -846,7 +846,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   60 Thundercall<br>
   50 Galebreathe</td>
   <td>While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.</td>
-  <td>Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.</td>
+  <td>Landing Galebreathe Mantras on your Static Linked target will deal a secondary instance of damage to your attack, dealt as Thundercall damage. This deals 10% of your attack's scaled damage.</td>
 </tr>
 </tbody>
 </table>
@@ -1157,7 +1157,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   60 Thundercall<br>
   50 Galebreathe</td>
   <td>While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.</td>
-  <td>Landing Gale mantras on your Static Linked target will add lightning damage to the attack. These lightning flashes do not proc Surge or Thunder, and they also do not proc any talents.</td>
+  <td>Landing Galebreathe Mantras on your Static Linked target will deal a secondary instance of damage to your attack, dealt as Thundercall damage. This deals 10% of your attack's scaled damage.</td>
 </tr>
 </tbody>
 </table>

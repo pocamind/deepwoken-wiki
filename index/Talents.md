@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191042
+revid: 191071
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1021,6 +1021,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 ### Darksiphon
 
 -   Blighted Song \[Common Talent, Shadowcast, Fortitude\] - Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
+    -   Grants 20% damage reduction against attacks coming from entities that are not the caster or the person affected by Blighted Song.
     -   Prerequisite: [Shadow Chains](Shadowcast.md#shadow-chains) (Mantra), 10 Fortitude
 
 -   Dark God \[Common Talent, Shadowcast\] - If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
@@ -3342,7 +3343,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Stormcaller
 
 -   Storm Link \[Common Talent, Dual Attunement, Shadowcast, Thundercall\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
-    -   Converts Galebreathe Mantra damage to Thundercall damage and adds a secondary damage instance that deals 10% of the initial attack's damage.
+    -   Adds a secondary instance of damage to your Galebreathe Mantras if they hit a Static Linked target. This deals 10% of your attack's scaled damage as Thundercall damage.
     -   This does not allow your Galebreathe Mantras to proc any Thundercall Talents or status effects.
     -   Prerequisites: Static Link, 60 Thundercall, 50 Galebreathe
 

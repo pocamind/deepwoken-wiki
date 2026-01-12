@@ -1,9 +1,9 @@
 ---
 title: Pori
-revid: 186819
+revid: 191070
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Pori
@@ -16,8 +16,8 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean
 | affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ Hey friend! Don't worry I'll get back to work soon. ”
 
@@ -29,7 +29,7 @@ Pori is a young [Etrean](Etrean.md) NPC. He sits outside the shop, selling Cloth
 
 ## Location
 
-Pori is located outside of the [Blacksmith](Blacksmith.md) at [Etris](Etris.md).
+Pori is located outside of [Blacksmith](Blacksmith.md) [Caragan's](Caragan.md) shop at [Etris](Etris.md).
 
 ## Dialogue
 
@@ -54,7 +54,7 @@ Pori is located outside of the [Blacksmith](Blacksmith.md) at [Etris](Etris.md).
   <td><i>*Tears start to well in the young boys eyes.*</i> Please don't, this is my last chance.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -70,7 +70,7 @@ Pori is located outside of the [Blacksmith](Blacksmith.md) at [Etris](Etris.md).
   <td colspan="2">You're that wanted guy! Get away from me!</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -88,15 +88,13 @@ This dialogue only appears if the player has chosen the option **"Don't worry, I
   <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him but recognizes you.*</i> Hey friend! Don't worry I'll get back to work soon.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   If you accidentally select Dialogue 2, choosing to rat him out, you can simply retake the dialogue and still gain the discount on the materials.
--   Although when you hover over the Cloth item it will say 6 notes, when you actually choose to purchase it, it will say 3.
--   We can assume he is the apprentice of [Carragan](Blacksmith.md), the [Etris](Etris.md) blacksmith.
--   Upon choosing the first option of dialogue, the [Etris](Etris.md) [Blacksmith](Blacksmith.md)'s dialogue will now say "Oh, did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he went off to."
--   If you are "Villain" level of reputation with the Etris faction, Pori will refuse to talk to you and instead say "You're that wanted guy! Get away from me!" This does not actually affect the prices, so you can still buy items at reduced prices despite being an enemy of Etris.
+-   He is the apprentice of [Blacksmith](Blacksmith.md) [Caragan](Caragan.md).
+-   If the player chooses the dialogue option to rat Leland out, they can speak to him again to gain the discounts.
+-   If the player already has the discounted items but loses enough reputation to become enemies with Etrea, the discount remains on materials.
