@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 186253
+revid: 191117
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -16,7 +16,7 @@ Template:Creature Infobox V3
 
 ## Description
 
-Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md). They are infamous for their lethality, with an equally horrific appearance.
+Bounders are monsters that dwell within the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md) and can spawn [Corrupted](Monsters.md#scyphozia) within [The Diluvian Mechanism](The_Diluvian_Mechanism.md). They are infamous for their lethality, with an equally horrific appearance.
 
 Bounders have significantly hunched posture, elongated limbs, six ringed eyes, disturbingly humanoid hands and notably, an upsettingly wide mouth with two sets of gigantic teeth. Bounders aren't naturally bipedal, instead moving around in a quadrupedal manner.
 
@@ -32,7 +32,7 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 **Leap**  
 (★★☆)
 
- | The Bounder leaps either a long or a short distance towards their prey, slamming down to damage and disorientate them.
+ | The Bounder leaps either a long or a short distance towards their prey, slamming down to damage and disorientate them. Move out of the way to avoid this.
 
  |
 | 

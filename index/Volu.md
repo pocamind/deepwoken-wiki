@@ -1,6 +1,6 @@
 ---
 title: Volu
-revid: 189830
+revid: 191128
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Volu is a [Capra](Capra.md) NPC, he is affiliated with [The Ministry](The_Ministry.md). Upon initiating a dialogue he will desperatly try to hand you the first volume of the [Strange Tomes](Strange_Tomes.md). Upon gathering all 3 of them you can place them in the pedestal next to him to obtain the [Bloodfouler](Bloodfouler.md).
+Volu is a [Capra](Capra.md) NPC that is affiliated with [The Ministry](The_Ministry.md). Upon initiating dialogue, he will desperately try to hand you the first volume of the [Strange Tomes](Strange_Tomes.md). Upon gathering all 3 of them, you can place them in the pedestal next to him to obtain the [Bloodfouler](Bloodfouler.md).
 
 ## Location
 

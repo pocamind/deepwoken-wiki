@@ -1,6 +1,6 @@
 ---
 title: "Petra's Anchor"
-revid: 187125
+revid: 191100
 source: https://deepwoken.fandom.com/wiki/Petra's_Anchor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons]
@@ -44,7 +44,6 @@ The critical has a cooldown of **9 seconds**.
 
 ## Trivia
 
--   The Petra's Anchor is neither droppable nor bankable.
 -   Meeting the requirement of HVY, the damage is (37.7)
 -   At max HVY, the damage is (41.6)
 -   You're able to use mantras during the second part of your critical, which cancels it, it's pretty good for mix ups.

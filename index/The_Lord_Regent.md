@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 191035
+revid: 191106
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -36,162 +36,167 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 
 **First Encounter:**
 
-**Regular dialogue:**
+**Regular Dialogue:**
+
+After talking to the [Royal Etrean Guard](Royal_Etrean_Guard.md) during the [quest](Quests.md#duke-of-sin) given by [Kennith](Kennith.md).
 
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="20">Ah, if it isn't [Name]! I've been expecting you. How have your travels been?</td>
+  <td colspan="12">Ah, if it isn't [Name]! I've been expecting you. How have your travels been?</td>
 </tr>
 <tr>
-  <td colspan="20">Fine.</td>
+  <td colspan="12">Fine.</td>
 </tr>
 <tr>
-  <td colspan="20">Oh, come on now, don't be so short. Let's chat. Do you know why I summoned you?</td>
+  <td colspan="12">Oh, come on now, don't be so short. Let's chat. Do you know why I summoned you?</td>
 </tr>
 <tr>
-  <td colspan="15">Yes.</td>
-  <td colspan="5">No.</td>
+  <td colspan="9">Yes.</td>
+  <td colspan="3">No.</td>
 </tr>
 <tr>
-  <td colspan="15">Really? You knew I was going to recruit your service already? You're really full of surprises, aren't you.</td>
-  <td colspan="5">An experienced adventurer like yourself who has become quite a big name in Etrea, and you haven't a clue? I called you to recruit your service, of course.</td>
+  <td colspan="9">Really? You knew I was going to recruit your service already? You're really full of surprises, aren't you.</td>
+  <td colspan="3">An experienced adventurer like yourself who has become quite a big name in Etrea, and you haven't a clue? I called you to recruit your service, of course.</td>
 </tr>
 <tr>
-  <td colspan="15">Recruit my service?</td>
-  <td colspan="5">Recruit my service?</td>
+  <td colspan="9">Recruit my service?</td>
+  <td colspan="3">Recruit my service?</td>
 </tr>
 <tr>
-  <td colspan="15">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in.</td>
-  <td colspan="5">[See first instance]</td>
+  <td colspan="9">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in.</td>
+  <td colspan="3">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="15">What do you need from Erisia?</td>
+  <td colspan="9">What do you need from Erisia?</td>
 </tr>
 <tr>
-  <td colspan="15">What else? The forge of Sin. It should be located in the manor of the one known as 'Duke Erisia'. I hear you're more of an adventurer than a burglar, but luckily for you break-and-entry won't be necessary. I have the key.</td>
+  <td colspan="9">What else? The forge of Sin. It should be located in the manor of the one known as 'Duke Erisia'. I hear you're more of an adventurer than a burglar, but luckily for you break-and-entry won't be necessary. I have the key.</td>
 </tr>
 <tr>
-  <td colspan="4">I'll go.</td>
-  <td colspan="4">Why do you have the key?</td>
-  <td colspan="4">The Forge of Sin?</td>
+  <td colspan="2">I'll go.</td>
+  <td>Why do you have the key?</td>
+  <td colspan="3">The Forge of Sin?</td>
   <td colspan="3">Who is this Duke?</td>
 </tr>
 <tr>
-  <td colspan="4">Splendid! Here's the key. You're of course welcome back once you've retrieved the Forge. Nice chatting with you.</td>
-  <td colspan="4"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
-  <td colspan="4"><i>*The Lord Regent seems bothered by your questioning, but relents.*</i> An artifact from below... One with properties much to my liking.</td>
+  <td colspan="2">Splendid! Here's the key. You're of course welcome back once you've retrieved the Forge. Nice chatting with you.</td>
+  <td><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
+  <td colspan="3"><i>*The Lord Regent seems bothered by your questioning, but relents.*</i> An artifact from below... One with properties much to my liking.</td>
   <td colspan="3"><i>*The Lord Regent scoffs in derision, letting his demeanour slip.*</i> A remnant of some long-dead backwater of a nation. His use of the Forge is amateur at best. If it were in <b>our</b> hands...</td>
 </tr>
 <tr>
-  <td colspan="4">[End Dialogue]</td>
-  <td colspan="4">I'll go.</td>
+  <td colspan="2">[End Dialogue]</td>
+  <td>I'll go.</td>
   <td>I'll go.</td>
   <td>Why do you have the key?</td>
-  <td colspan="2">What do you intend to do with it?</td>
+  <td>What do you intend to do with it?</td>
   <td>I'll go.</td>
   <td>Why do you have the key?</td>
   <td>Who do you mean by our?</td>
 </tr>
 <tr>
-  <td colspan="4"></td>
-  <td colspan="4">[See first instance]</td>
-  <td>[See first instance]</td>
-  <td colspan="3"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
+  <td colspan="2"></td>
+  <td colspan="2">[See first instance]</td>
+  <td colspan="2"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
   <td>[See first instance]</td>
   <td colspan="2"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="4"></td>
-  <td></td>
-  <td colspan="3">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
   <td></td>
   <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
-**Voidwalker origin:**
+**Voidwalker Origin:**
+
+After talking to the [Royal Etrean Guard](Royal_Etrean_Guard.md) during the [quest](Quests.md#duke-of-sin) given by [Kennith](Kennith.md) as a [Voidwalker](Voidwalker.md).
 
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="20">So, [Name], I'll be recruiting your services.</td>
+  <td colspan="2">So, [Name], I'll be recruiting your services.</td>
 </tr>
 <tr>
-  <td colspan="20">Recruit my service?</td>
+  <td colspan="2">Recruit my service?</td>
 </tr>
 <tr>
-  <td colspan="20">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in. Of course, this is still a great risk for me to risk making deals with a filthy, void-touched assassin such as yourself, is it not? I'm placing quite an amount of trust in you, you see.</td>
+  <td colspan="2">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in. Of course, this is still a great risk for me to risk making deals with a filthy, void-touched assassin such as yourself, is it not? I'm placing quite an amount of trust in you, you see.</td>
 </tr>
 <tr>
-  <td colspan="10">What do you need from Erisia?</td>
-  <td colspan="10">Void-touched? How did you...</td>
+  <td>What do you need from Erisia?</td>
+  <td>Void-touched? How did you...</td>
 </tr>
 <tr>
-  <td colspan="10">[See "Regular dialogue"]</td>
-  <td colspan="10"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
+  <td>[See "Regular dialogue"]</td>
+  <td><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
 </tr>
 <tr>
-  <td colspan="10"></td>
-  <td colspan="10">I'll go.</td>
+  <td></td>
+  <td>I'll go.</td>
 </tr>
 <tr>
-  <td colspan="10"></td>
-  <td colspan="10">[See "Regular dialogue"]</td>
+  <td></td>
+  <td>[See "Regular dialogue"]</td>
 </tr>
 </tbody>
 </table>
 
 **Subsequent Encounters:**
 
-**Have not yet encountered the Duke:**
+**Not Encountered Duke:**
+
+Having not encountered [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) yet.
 
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="20">Have you brought the Forge?</td>
+  <td>Have you brought the Forge?</td>
 </tr>
 <tr>
-  <td colspan="20">Not yet.</td>
+  <td>Not yet.</td>
 </tr>
 <tr>
-  <td colspan="20"><i>*The Lord Regent tilts his head, as if wondering why you're even here, then.*</i></td>
+  <td><i>*The Lord Regent tilts his head, as if wondering why you're even here, then.*</i></td>
 </tr>
 <tr>
-  <td colspan="20">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 **Lost to Duke:**
 
+Having lost to [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
+
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="20">Have you brought the Forge?</td>
+  <td>Have you brought the Forge?</td>
 </tr>
 <tr>
-  <td colspan="20">I wasn't able to drive the Duke out.</td>
+  <td>I wasn't able to drive the Duke out.</td>
 </tr>
 <tr>
-  <td colspan="20">So you came back empty handed? <i>*Sigh.*</i> Another one for the pile then, I guess.</td>
+  <td>So you came back empty handed? <i>*Sigh.*</i> Another one for the pile then, I guess.</td>
 </tr>
 <tr>
-  <td colspan="20">[End Dialogue], player is killed and locked out of any further dialogue.</td>
+  <td>[End Dialogue], player is killed and locked out of any further dialogue.</td>
 </tr>
 </tbody>
 </table>
@@ -200,22 +205,24 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 
 **Bad Ministry reputation:**
 
+As long as you **do not** press "I defeated the Duke, but how was I supposed to drag it out of there?" You will **not** die and be locked out of further dialogue.
+
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="20">Have you brought the Forge?</td>
+  <td>Have you brought the Forge?</td>
 </tr>
 <tr>
-  <td colspan="20">I defeated the Duke, but how was I supposed to drag it out of there?</td>
+  <td>I defeated the Duke, but how was I supposed to drag it out of there?</td>
 </tr>
 <tr>
-  <td colspan="20">Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed.</td>
+  <td>Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed.</td>
 </tr>
 <tr>
-  <td colspan="20">[End Dialogue], player is killed and locked out of any further dialogue.</td>
+  <td>[End Dialogue], player is killed and locked out of any further dialogue.</td>
 </tr>
 </tbody>
 </table>
@@ -225,168 +232,192 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="20">Have you brought the Forge?</td>
+  <td>Have you brought the Forge?</td>
 </tr>
 <tr>
-  <td colspan="20">[Bite your tongue]</td>
+  <td>[Bite your tongue]</td>
 </tr>
 <tr>
-  <td colspan="20"><i>*He smiles, satisfaction playing on his face.*</i></td>
+  <td><i>*He smiles, satisfaction playing on his face.*</i></td>
 </tr>
 <tr>
-  <td colspan="20">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Unlockable Dialogue:**
-
-**Stepped on the throne:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="20">Begin</td>
-</tr>
-<tr>
-  <td colspan="20">Have you no manners, or do you simply not know your place? In any case, I'll show you.</td>
-</tr>
-<tr>
-  <td colspan="20">[End Dialogue], player is killed.</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
-**Contractor path:**
+**Oath: Contractor:**
+
+**Getting Contractor:**
+
+After completing the requirements for [Oath: Contractor](Oath%253A_Contractor.md), continuing from "Subsequent Encounters" -> "Neutral/Good Ministry reputation":
 
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="20">Have you brought the Forge?</td>
+  <td colspan="12">Have you brought the Forge?</td>
 </tr>
 <tr>
-  <td colspan="10">[Bite your tongue]</td>
-  <td colspan="10">No, but I know of your true nature. I know that you intend to repeat what happened in Celtor by drowning Etris.</td>
+  <td colspan="3">[Bite your tongue]</td>
+  <td colspan="9">No, but I know of your true nature. I know that you intend to repeat what happened in Celtor by drowning Etris.</td>
 </tr>
 <tr>
-  <td colspan="10">[See "Quest Completed"]</td>
-  <td colspan="10"><i>*The Lord Regent, appearing amused, grins.*</i> So you have it all figured out? Did you intend to come to this palace to stop me? Oh, what a hero. Such a noble act.</td>
+  <td colspan="3">[See "Subsequent Encounters" -&gt; "Quest Completed"]</td>
+  <td colspan="9"><i>*The Lord Regent, appearing amused, grins.*</i> So you have it all figured out? Did you intend to come to this palace to stop me? Oh, what a hero. Such a noble act.</td>
 </tr>
 <tr>
-  <td colspan="10"></td>
-  <td colspan="5">Yes, I did.</td>
-  <td colspan="5">No, I came to join you.</td>
+  <td colspan="3"></td>
+  <td colspan="3">Yes, I did.</td>
+  <td colspan="6">No, I came to join you.</td>
 </tr>
 <tr>
-  <td colspan="10"></td>
-  <td colspan="5"><i>*The Lord Regent lets out a horrible laugh.*</i> THEN YOU ARE TRULY A FOOL.</td>
-  <td colspan="5">*The Lord regent eyes you curiously.* I see you understand the nature of our work. I cannot simply let you leave here alive without insurance, though. Bind yourself in an <a href="Glossary.md#oath">Oath</a> to me.</td>
+  <td colspan="3"></td>
+  <td colspan="3"><i>*The Lord Regent lets out a horrible laugh.*</i> THEN YOU ARE TRULY A FOOL.</td>
+  <td colspan="6">*The Lord regent eyes you curiously.* I see you understand the nature of our work. I cannot simply let you leave here alive without insurance, though. Bind yourself in an <a href="Glossary.md#oath">Oath</a> to me.</td>
 </tr>
 <tr>
-  <td colspan="10"></td>
-  <td colspan="5">[End Dialogue], player is killed, but not locked out of further dialogue.</td>
+  <td colspan="3"></td>
+  <td colspan="3">[End Dialogue], player is killed, but <b>NOT</b> locked out of further dialogue.</td>
+  <td colspan="3">[If the player doesn't have an Oath]</td>
+  <td colspan="3">[If the player already has an Oath]</td>
+</tr>
+<tr>
+  <td colspan="6"></td>
   <td colspan="3">I will swear myself to you.</td>
-  <td colspan="2">I am already bound by an Oath. <b>[If the player already has an Oath]</b></td>
+  <td colspan="3">I am already bound by an Oath.</td>
 </tr>
 <tr>
-  <td colspan="10"></td>
-  <td colspan="5"></td>
+  <td colspan="6"></td>
   <td colspan="3">Then you are bound to me. As one of my strings, you are to descend into the depths and extinguish the souls of those who have given their <a href="Glossary.md#oaths">Oaths</a> to others. These heathens are to be dealt with promptly.</td>
-  <td colspan="2"><i>*The Lord regent lets out a horrible laugh.*</i> THEN YOU ARE TRULY A FOOL.</td>
+  <td colspan="3"><i>*The Lord regent lets out a horrible laugh.*</i> THEN YOU ARE TRULY A FOOL.</td>
 </tr>
 <tr>
-  <td colspan="10"></td>
-  <td colspan="5"></td>
+  <td colspan="6"></td>
   <td colspan="3">It will be done, my Lord.</td>
-  <td colspan="2">[End Dialogue], player is killed, but not locked out of further dialogue.</td>
+  <td colspan="3">[End Dialogue], player is killed, but <b>NOT</b> locked out of further dialogue.</td>
 </tr>
 <tr>
-  <td colspan="10"></td>
-  <td colspan="5"></td>
+  <td colspan="6"></td>
   <td colspan="3">[End Dialogue], player acquires the Contractor Oath.</td>
-  <td colspan="2"></td>
+  <td colspan="3"></td>
 </tr>
 </tbody>
 </table>
 
-**Contractor acquired:**
+**Incomplete Contractor Progression:**
 
-**Contractor progression complete:**
+**First Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="20">You have done what is required of you for now. We must now bide our time until the next phase of our plans</td>
+  <td>I will say this once, do not return until you have completed your orders.</td>
 </tr>
 <tr>
-  <td colspan="20">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
-**Contractor progression incomplete:**
-
-**First encounter:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="20">I will say this once, do not return until you have completed your orders.</td>
+  <td>It seems you need discipline.</td>
 </tr>
 <tr>
-  <td colspan="20">[End Dialogue]</td>
+  <td>[End Dialogue], player is killed.</td>
 </tr>
 </tbody>
 </table>
 
-**Subsequent encounters:**
+**Oath Skip:**
+
+If the player has maxed out [Oath: Contractor](Oath%253A_Contractor.md) on any slot before, **The Lord Regent** will say this instead.
 
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="20">It seems you need discipline.</td>
+  <td colspan="2">You better have a good reason for showing your face before your orders are completed.</td>
 </tr>
 <tr>
-  <td colspan="20">[End Dialogue], player is killed.</td>
+  <td colspan="2">I'm ready. Let me speak the Words in their entirety. [10 ]</td>
+</tr>
+<tr>
+  <td>TBA(Player does not have enough knowledge)</td>
+  <td>You show dedication, puppet. You may be of use in what is to come. Await further orders.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], Oath maxed out.</td>
 </tr>
 </tbody>
 </table>
 
-**Oath maxed out on any slot before:**
+**Contractor Progression Complete:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="20">You better have a good reason for showing your face before your orders are completed.</td>
+  <td>You have done what is required of you for now. We must now bide our time until the next phase of our plans</td>
 </tr>
 <tr>
-  <td colspan="20">I'm ready. Let me speak the Words in their entirety. [10 ]</td>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Oath Breaking:**
+
+**BEWARE**: You **cannot** regain [Oath: Contractor](Oath%253A_Contractor.md) after [oath breaking](Oaths.md#oathbreaker---oath-removal) it with [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="10">TBA(Player does not have enough knowledge)</td>
-  <td colspan="10">You show dedication, puppet. You may be of use in what is to come. Await further orders.</td>
+  <td>Don't bother showing your face again. I had little faith in you to begin with.</td>
 </tr>
 <tr>
-  <td colspan="10">[End Dialogue]</td>
-  <td colspan="10">[End Dialogue], Oath maxed out.</td>
+  <td>[End Dialogue], you instantly become <b>maximum</b> negative reputation (<b>villain</b>) with <a href="Etrea.md">Etrea</a> and <a href="The_Ministry.md">The Ministry</a>. You are regranted access to <a href="Castle_Light.md">Castle Light</a>. The Lord Regent <b>kills</b> you whenever you step into his room.</td>
+</tr>
+</tbody>
+</table>
+
+**Other Dialogues:**
+
+If the player steps on or near the throne that **The Lord Regent** is sitting on.
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Have you no manners, or do you simply not know your place? In any case, I'll show you.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], player is killed.</td>
 </tr>
 </tbody>
 </table>

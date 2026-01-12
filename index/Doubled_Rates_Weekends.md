@@ -1,6 +1,6 @@
 ---
 title: Doubled Rates Weekends
-revid: 184491
+revid: 191105
 source: https://deepwoken.fandom.com/wiki/Doubled_Rates_Weekends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics]
@@ -30,7 +30,6 @@ Every real life weekend, certain changes to Deepwoken's quality of life will occ
 ## Tips
 
 -   Generally, farming bosses (or ganking players who have recently fought one) will prove to be incredibly lucrative, since they'll drop a greater quantity of [Deep Gems](Mantra_Modifiers.md#deep-gems) and Legendary Weapons.
--   Grinding through high waves of [The Diluvian Mechanism](The_Diluvian_Mechanism.md) with your guild will reward you with an incredible amount of guild points, allowing your guild to climb the ranks faster.
 
 ## Trivia
 

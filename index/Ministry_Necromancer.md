@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 186262
+revid: 191127
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Ministry, Ministry Enemies]
@@ -10,7 +10,7 @@ categories: [Enemies, The Ministry, Ministry Enemies]
 
 | Ministry Necromancer | |
 |---|---|
-| health | 6001500 (Corrupted) |
+| health | 600 |
 | drops | Lesser Mantra Modifiers, Umbral Obsidian, Night Axe |
 | weapon | Krulian Knife |
 | moves | Assault, Critical, Shadow Roar, Summon Necro-skippers, Shadow Seekers |

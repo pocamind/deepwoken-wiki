@@ -1,9 +1,9 @@
 ---
 title: Emel
-revid: 188887
+revid: 191114
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
 ---
 
 # Emel
@@ -21,9 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Emel is an [Adret](Adret.md) NPC who resides in the territory of [The Summer Company](The_Summer_Company.md) faction, being a member of [the Ministry](The_Ministry.md), you can find him leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
+Emel is an [Adret](Adret.md) NPC who resides in the territory of [The Summer Company](The_Summer_Company.md) faction, being a member of [the Ministry](The_Ministry.md), you can find them leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
 
-If you decide to talk to him, he will give you a quest to kill some enemies in [Songseeker Wilds](Songseeker_Wilds.md), if you complete it, you will gain morale with the Ministry and a payment for your deeds. Like the NPC in Etrean luminant on the statue island, you must grip (kill) a person on songseeker and return back to him for reputation and rewards.
+If you decide to talk to them, they will give you a quest to kill some enemies in [Songseeker Wilds](Songseeker_Wilds.md), if you complete it, you will gain morale with the Ministry and a payment for your deeds. Like the NPC in Etrean luminant on the statue island, you must grip (kill) a person on Songseeker and return back to them for reputation and rewards.
 
 ## Dialogue
 
@@ -104,5 +104,4 @@ If you decide to talk to him, he will give you a quest to kill some enemies in [
 ## Trivia
 
 -   Emel's racial variant appears to be Boulder.
--   Due to the similarity in name and breed variant, Emel may be the brother of [Imel](Imel.md).
--   Another member of the Ministry ([Imel](Imel.md)) with the same quest as Emel in the Etrean Sea on the statue island (insert proper name) gives you the mission to kill on erisias island instead.
+-   Due to the similarity in name and [Aspect](Aspects.md) variant, Emel may be a sibling of [Imel](Imel.md).

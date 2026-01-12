@@ -1,9 +1,9 @@
 ---
 title: Rimil
-revid: 188888
+revid: 191116
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
 ---
 
 # Rimil
@@ -14,6 +14,8 @@ categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located 
 | aspect | Canor |
 | location | Meteor Isle |
 | affiliation | The Ministry |
+
+Variants: [Emel](Emel.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -104,4 +106,3 @@ If you decide to talk to them, they will give you the mission to kill a player i
 ## Trivia
 
 -   Rimil's racial variant appears to be River.
--   Other members of the Ministry ([Emel](Emel.md) and [Imel](Imel.md)) with the same mission as Rimil in the Etrean Sea on the island near [Summer Isle](Summer_Isle.md), give him the mission to kill on the island of [Songseeker Wilds](Songseeker_Wilds.md) and on [Erisia](Erisia.md).

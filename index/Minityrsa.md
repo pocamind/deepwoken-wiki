@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 190521
+revid: 191119
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, The Ministry, Locations in the Etrean Luminant]

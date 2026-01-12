@@ -1,18 +1,12 @@
 ---
 title: Aezeroth Kaladin
-revid: 188718
+revid: 191126
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Aezeroth Kaladin
-
-| Aesalath Kalafrid | |
-|---|---|
-| name | Aesalath Kalafrid |
-| aspect | Kyrsan |
-| location | Firfire |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -21,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ We all have our part to play in his plan. You included. ”
 
 ― Aesalath Kalafrid
+
+Template:NpcInfobox
 
 Aesalath Kalafrid is an NPC found standing before a mysterious device that seems to display some sort of chart, just below the generator in Layer 2 Floor 1. You do not need to talk to them to progress in the dungeon, but they do offer directions and information.
 

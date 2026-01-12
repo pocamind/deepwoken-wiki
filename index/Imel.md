@@ -1,9 +1,9 @@
 ---
 title: Imel
-revid: 188886
+revid: 191115
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Imel
@@ -15,17 +15,19 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs 
 | location | The Etrean Sea |
 | affiliation | The Ministry |
 
+Variants: [Emel](Emel.md)
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
 ## Description
 
-Imel is an [Adret](Adret.md) NPC of the Boulder variant, who is member of [the Ministry](The_Ministry.md) faction, she will give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip a player in Erisia and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
+Imel is an [Adret](Adret.md) NPC of the Boulder variant, who is member of [the Ministry](The_Ministry.md) faction, they will give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip a player in Erisia and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
 
 ## Location
 
-Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with four king statues, she is leaning against a wall facing the gate to [Erisia](Erisia.md).
+Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with four king statues, they are leaning against a wall facing the gate to [Erisia](Erisia.md).
 
 ## Dialogue
 
@@ -105,5 +107,5 @@ Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with fo
 
 ## Trivia
 
--   Due to the similarity in name and breed variant, Imel may be the sister of [Emel](Emel.md).
--   Another member of the Ministry ([Emel](Emel.md)) with the same mission as Imel in the Eastern Sea, on the islet near Summer Isle, gives you the mission to kill on the island of [Songseeker Wilds](Songseeker_Wilds.md).
+-   Due to the similarity in name and [aspect](Aspects.md) variant, Imel may be a sibling of [Emel](Emel.md).
+-   Another member of the Ministry ([Emel](Emel.md)) with the same mission as Imel in the Eastern Sea, on the islet near [Summer Isle](Summer_Isle.md), gives you the mission to kill on the island of [Songseeker Wilds](Songseeker_Wilds.md).

@@ -1,22 +1,22 @@
 ---
 title: Mime
-revid: 188843
+revid: 191125
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Pathfinder Exclusive, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests, Ganymede NPCs]
 ---
 
 # Mime
 
 | Mime | |
 |---|---|
-| name | Mime |
 | aspect | Ganymede |
+| pronouns | He/him |
 | location | Songseeker Wilds |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 

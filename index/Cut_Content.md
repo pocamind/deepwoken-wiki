@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 187740
+revid: 191101
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -180,9 +180,6 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Encouraging Presence \[Common Talent, Willpower\] -** Allies that grip enemies near you recover Sanity. (+5 Sanity)
     -   In the January 3rd, 2023 update, Encouraging Presence was merged into Conquer Your Fears.
-
--   **Ether Blade \[Common Talent, Intelligence\] -** Draw your foes ether into your weapon when you parry ether-based attacks. Gain Ether when you parry mantras.
-    -   In the August 4th, 2025 update, Ether Blade was made innate.
 
 -   **Ether Bullets \[Common Talent\] -** \[Guns\] Use less Ether to fire your guns when you run out of bullets. (+4 Ether, +2 Reservoir)
     -   In the October 24th, 2022 update, Guns cost no Ether to fire, making this Talent effectively useless.

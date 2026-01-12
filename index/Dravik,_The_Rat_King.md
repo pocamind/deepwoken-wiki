@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 190770
+revid: 191107
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Enemies]
@@ -265,7 +265,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
     -   Dravik will say "From this point forward we shall only be using our weapons to fight. No more tricks, understand that?"
     -   Dravik will also gain a circle of light around him.
     -   **Dravik gains immunity to a number of things and reflects their damage back to you. These include:**
-        -   **Mantras** (except for Prediction)
+        -   **Mantras** (except for Prediction and Restrain)
         -   **Damaging enchant effects (e.g. Storm and Chilling)**
             -   Umbral Knight is not affected by this.
         -   **Some criticals (currently only Pale Briar, First LIght, and Kyrsieger confirmed)**

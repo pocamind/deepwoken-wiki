@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 190803
+revid: 191095
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -46,4 +46,4 @@ Emotes are gestures or poses a player can use. To use an Emote, hold K, and clic
 
 ## Trivia
 
--   Prior to the May 22nd, 2023 update, the default keybind to toggle emotes was. This was changed with the addition of [Ironsing](Ironsing.md) due to the mechanic of "Iron Pull" taking its keybind.
+-   Prior to the May 22nd, 2023 update, the default keybind to toggle emotes was X before it was moved to K. This was changed with the addition of [Ironsing](Ironsing.md) due to the mechanic of "Iron Pull" taking its keybind.
