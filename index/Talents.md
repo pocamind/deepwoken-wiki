@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191071
+revid: 191089
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1183,10 +1183,9 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Restore 2 flat posture on a successful dodge.
     -   Prerequisites: 15 Strength, 45 Agility.
 
--   Strong Hold \[Common Talent, Strength, Medium Weapon\] - When above 33% health and two-handing, posture damage taken is reduced by 5%. (+9 Carry Load, +1 Passive Agility)
+-   Strong Hold \[Common Talent, Strength, Medium Weapon\] - Medium Weapons When above 33% health and two-handing, posture damage taken is reduced by 5%. (+9 Carry Load, +1 Passive Agility)
     -   Prerequisites: 30 Strength, 30 Medium Weapon
     -   The head equipments "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this Talent.
-    -   Works only with medium weapons.
 
 -   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are dazed from wall bangs is cut in half. (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
@@ -1211,7 +1210,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Nullifying Clarity \[Common Talent, Strength, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your Basic Attacks, but the effect is removed on impact. (Works only with elemental status effects)
     -   Procs on Burn, Chill, Shock, Fear (from the Fear the Dark Talent), Winded, and Suffocation.
-    -   Does not work with Critical Attacks
+    -   Does not work with Critical Attacks.
     -   Prerequisites: 15 Strength, 5 Intelligence
 
 ### Empath
@@ -1238,7 +1237,6 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Robber Baron \[Common Talent\] - You hold onto more items when defeated.
     -   Item loss on death is reduced from 50% to 25%.
     -   You no longer lose notes from dying.
-    -   Stacks with Equipment that have this Talent.
     -   Prerequisites: None
     -   The "[Pathfinder's Backpack](<Pathfinder's_Backpack.md>)" and "[Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)" Equipment have this Talent.
 
@@ -3321,6 +3319,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Static Weaver
 
 -   Static Link \[Common Talent, Thundercall, Intelligence\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy.
+    -   Static Link lasts 15 seconds.
+    -   The links are non-refreshable, meaning you'll need to wait until after the duration ends to reapply the status effect.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
 -   Jumper Cables \[Common Talent, Thundercall, Fortitude\] - Being made [Unconscious](Status_Effects.md#unconscious) with an active thether allows you to steal health from a tethered target and not be made [Unconscious.](Status_Effects.md#unconscious)
@@ -3329,7 +3329,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Static Link, 40 Thundercall, 20 Fortitude
 
 -   Link Conduction \[Common Talent, Thundercall\] - While you have active tethers your lightning mantras cost less ether.
-    -   Each active link reduce mantra ether cost by 30%.
+    -   Each active link reduces the Ether cost of your Thundercall Mantras by 30%.
     -   Prerequisites: Static Link, 65 Thundercall
 
 -   Static Ace \[Common Talent, Thundercall\] - Using [Lightning Stream](Thundercall.md#lightning-stream) with an active tether link targets your closest active link.
@@ -3338,6 +3338,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: [Lightning Stream](Thundercall.md#lightning-stream) (Mantra), Static Link, 70 Thundercall
 
 -   Static Allure \[Common Talent, Thundercall, Intelligence\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
+    -   The magnetization instantly procs upon applying a second Static Link.
+    -   The Static Link duration increase is only applied to the Static Link that procced the magnetization effect.
     -   Prerequisites: Static Link, 50 Thundercall, 15 Intelligence
 
 ### Stormcaller
@@ -4497,9 +4499,9 @@ Certain Talents are given when you equip a full equipment set, though not all eq
     -   Set: [Ascended Outlaw Hat](Ascended_Outlaw_Hat.md), [Ascended Outlaw Robes](Ascended_Outlaw_Robes.md), [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md)
 
 -   Shock Trooper Specialist: Specialist Set - Empower the mantras taught to you by your Legion Specialist Captain. You also now conjure a storm strike on your opponent by landing Gale and Thundercall mantras.
-    -   To proc Shock Trooper Specialist, you must meet the a damage threshold of 300 damage dealt with Thunder and Gale Mantras. Each point in Galebreathe or Thundercall reduces this threshold by 1, capping at 100 damage dealt for a Storm Strike with 100 Gale and Thunder.
+    -   To proc Shock Trooper Specialist, you must meet the a damage threshold of 600 damage dealt with Thunder and Gale Mantras. Each point in Galebreathe or Thundercall reduces this threshold by 1, capping at 400 damage dealt for a Storm Strike with 100 Gale and Thunder.
     -   The damage threshold does not consider damage multipliers, but it _does_ consider resistances, making it harder to proc the higher Wind/Lightning res your opponent has.
-    -   The Storm Strikes deal 40 Thundercall damage with no investment scaling.
+    -   The Storm Strikes deal 40 Thundercall damage.
     -   Shock Trooper Specialist has no cooldown, proccing on almost every hit in PvE due to the PvE damage multipliers. However, this only has 1.08x PvE scaling.
     -   Additionally, this turns your [Electro Carve](Thundercall.md#electro-carve), [Grand Javelin](Thundercall.md#grand-javelin), and [Thunder Kick](Thundercall.md#thunder-kick) green, and your [Astral Wind](Galebreathe.md#astral-wind), [Champion's Whirlthrow](Galebreathe.md#champions-whirlthrow), and [Gale Lunge](Galebreathe.md#gale-lunge) yellow. These Mantras will gain a 15% damage buff to their base damage (not a damage modifier) as well.
     -   The storm strikes proc Grounding Bolt.

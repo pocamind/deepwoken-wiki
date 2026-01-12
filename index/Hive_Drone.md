@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 186690
+revid: 191086
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Hive]
@@ -47,5 +47,6 @@ The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md
 -   Worn by [Hive Scouts](Hive_Scout.md).
 -   One of the cheapest Expert armors to make.
 -   Better than the [Ignition Union Uniform](Ignition_Union_Uniform.md) in everything except durability, and cheaper to make despite being an Expert-tier outfit.
+-   The old Hive Drone armor was the same armor as the Redcoat outfit used in Arch\_Mage's older game Tales From The Valley
 -   **Current** hive drone is an outfit made by **KAHAEL:**
     -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10415791525/Hive-Drone-Shirt) / [Pants](https://www.roblox.com/catalog/10415789135/Hive-Drone-Pants)
