@@ -1,20 +1,12 @@
 ---
 title: Suyuan
-revid: 188111
+revid: 191019
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Suyuan
-
-| Suyuan | |
-|---|---|
-| name | Suyuan |
-| aspect | Etrean |
-| location | Temple of the Blade library |
-| affiliation | Etrea |
-| family | Kiriban (father; deceased) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ Hey you! Have you seen a ghost? ”
 
 ― Suyuan
+
+Template:NpcInfobox
 
 ## Description
 
@@ -73,7 +67,7 @@ Suyuan is located in the library of the [Temple of the Blade](Temple_of_the_Blad
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>
@@ -113,7 +107,7 @@ Suyuan is located in the library of the [Temple of the Blade](Temple_of_the_Blad
   <td colspan="2">That's quite the experience... Thanks for sharing! In return, here's somethin' small.</td>
 </tr>
 <tr>
-  <td colspan="2">End, Player gains XP and Compassion</td>
+  <td colspan="2">[End Dialogue], Player gains XP and Compassion</td>
 </tr>
 </tbody>
 </table>
@@ -141,7 +135,7 @@ Suyuan is located in the library of the [Temple of the Blade](Temple_of_the_Blad
   <td>Vigil Kiriban. One of the best, they say. We weren't very close in life, so I guess that might explain to you why I'm a little obsessed with ghosts...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

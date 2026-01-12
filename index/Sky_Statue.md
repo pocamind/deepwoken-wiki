@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 180729
+revid: 191014
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -8,9 +8,7 @@ categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the East
 
 # Sky Statue
 
-| Sky Statue | |
-|---|---|
-| location | Derelict Highchurch, Etris Palace, Lower Erisia |
+Template:NpcInfobox
 
 ## Description
 
@@ -45,7 +43,7 @@ This dialogue appears on all the Sky Statues if the player does not meet the req
   <td><i>*It's an interesting statue, but the significance escapes you.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +75,7 @@ These dialogues are unlocked once the player meets the requirements for Bladehar
   <td><i>*You breathe in. You breathe out. Breathing in once more, the world around you seems to fade away into the background...*</i></td>
 </tr>
 <tr>
-  <td>End, player is teleported to <a href="The_Blade_Within.md">The Blade Within</a></td>
+  <td>[End Dialogue], player is teleported to <a href="The_Blade_Within.md">The Blade Within</a></td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +91,7 @@ These dialogues are unlocked once the player meets the requirements for Bladehar
   <td><i>*Your blade hums, echoing a memory shared in this very spot.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

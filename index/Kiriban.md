@@ -1,6 +1,6 @@
 ---
 title: Kiriban
-revid: 188112
+revid: 191020
 source: https://deepwoken.fandom.com/wiki/Kiriban
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deceased characters]
@@ -24,4 +24,4 @@ Due to Kiriban's status, Suyuan has unrestricted access to the library found wit
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-s-1-0) [1.1](#cite-ref-s-1-1) [1.2](#cite-ref-s-1-2) [1.3](#cite-ref-s-1-3) [1.4](#cite-ref-s-1-4) [1.5](#cite-ref-s-1-5) [1.6](#cite-ref-s-1-6) [Suyuan](Suyuan.md)
+1.  ↑ [1.0](#cite-ref-s-1-0) [1.1](#cite-ref-s-1-1) [1.2](#cite-ref-s-1-2) [1.3](#cite-ref-s-1-3) [1.4](#cite-ref-s-1-4) [1.5](#cite-ref-s-1-5) [1.6](#cite-ref-s-1-6) NPC dialogue: [Suyuan](Suyuan.md)

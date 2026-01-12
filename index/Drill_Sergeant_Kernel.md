@@ -1,6 +1,6 @@
 ---
 title: Drill Sergeant Kernel
-revid: 190980
+revid: 190987
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -16,7 +16,9 @@ Template:NpcInfobox
 
 ## Description
 
-Drill Sergeant Kernel is a [Celtor](Celtor.md) NPC. He is the mentor for the freshly arrived [Authority Ensigns](Authority_Ensign.md). His official rank is technically Interceptor, but with the structure of the Authority's military, he trains recruits until they're placed in a division, after which the division leaders take over training and command.[\[1\]](#cite-note-augu-1)
+Drill Sergeant Kernel is a [Celtor](Celtor.md) NPC. He is the mentor for the freshly arrived [Authority Ensigns](Authority_Ensign.md) in the east. His official rank is technically Interceptor, but with the structure of the Authority's military, he trains recruits until they're placed in a division, after which the division leaders take over training and command.[\[1\]](#cite-note-augu-1)
+
+His son, [Private Kernel](Private_Kernel.md), is also a member of [the Central Authority](The_Central_Authority.md)'s eastern garrison.
 
 ## Location
 

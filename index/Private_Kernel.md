@@ -1,30 +1,22 @@
 ---
 title: Private Kernel
-revid: 188050
+revid: 190991
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Private Kernel
-
-| Private Kernel | |
-|---|---|
-| name | Cornelius Kernel Jr.[1][2] |
-| alias | Struggling Guard |
-| aspect | Celtor |
-| pronouns | He/him |
-| location | Fort Merit |
-| affiliation | The Central Authority |
-| family | Drill Sergeant Kernel (father)[3] |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Template:NpcInfobox
+
 ## Description
 
-Private Kernel is an NPC who gives the player an explanation of who [The Central Authority](The_Central_Authority.md) contains in [Merit Detainment Core](Merit_Detainment_Core.md).
+Private Kernel is a [Celtor](Celtor.md) NPC. He possesses information on who [The Central Authority](The_Central_Authority.md) contains in the [Merit Detainment Core](Merit_Detainment_Core.md).
 
 He is equipped with an [Authority Helm](Authority_Helm.md), a green-dyed cape, [Leather Boots](Leather_Boots.md), and the [Authority Peacekeeper](Authority_Peacekeeper.md) [Outfit](Outfits.md). On his back, he wields an [Adretian Axe](Adretian_Axe.md).
 
@@ -58,7 +50,7 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md), standing
 </tr>
 <tr>
   <td>Very good. Who's currently held inside?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>SIR, only the <i>worst</i> of the <b><i>worst</i> </b>, SIR! All hostile elements sworn to fight against the <a href="Glossary.md#the-central-authority">Central Authority</a>, SIR! Criminals, pirates, and enemy combatants, SIR! ...and that one <i>unnerving</i> Legion commander.. SIR!</td>
@@ -88,7 +80,7 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md), standing
   <td><i>*The soldier vigorously salutes you, beaming with pride.*</i> SIR YES SIR! I WILL DO MY BEST FOR THE AUTHORITY, SIR! HURRAH! THREE CHEERS!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -96,11 +88,8 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md), standing
 ## Trivia
 
 -   Before the player chooses the dialogue option "Why does he scare you, private?", Private Kernel is named as "Struggling Guard."
--   His full name is a play on the words corn kernel.[\[4\]](#cite-note-4)
+-   His full name is a play on the words corn kernel.[\[1\]](#cite-note-1)
 
 ## References
 
-1.  [↑](#cite-ref-1) [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)
-2.  [↑](#cite-ref-2)
-3.  [↑](#cite-ref-3) While Private Kernel is never explicitly stated to be Drill Sergeant Kernel's son, the fact they are the only Celtor with the surname "Kernel" found within Fort Merit all but confirms the private is Cornelius Kernel Jr.
-4.  [↑](#cite-ref-4)
+1.  [↑](#cite-ref-1)

@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 188319
+revid: 191062
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -44,13 +44,14 @@ The user performs a Shadowcast-empowered upwards swing that guard breaks and ste
 
 This critical deals **1.25x of your weapon's scaled damage**, meaning if your Night Axe has 30 damage, this critical will deal 37.5 damage. Additionally, this critical deals Slash and Shadow damage, meaning it is more easily resisted. It has a **windup of 0.6s** and **0.3s of endlag**.
 
-The critical has a cooldown of **3 seconds**.  
+The critical has a cooldown of **3 seconds**.
 
 ## Trivia
 
 -   Meeting the requirement of HVY, the damage is (34)
 -   At max HVY, the damage is (36.8)
 -   Has the highest amount of Chip Damage of any weapon in the entire game.
-    -   Contrary to popular belief, Chip Damage IS NOT CAPPED AT 50%.
+    -   Contrary to popular belief, Chip Damage is not capped at 50%.
+-   Having above 100% chip increases your raw damage dealt when your attacks are blocked. This is fairly easy to do on this weapon via Talents or the [Obfuscation](Obfuscation.md) enchantment.
 -   The Night Axe was given a unique critical on the January 25, 2025 update.
 -   The description mentions a weapon called the Daycleave, as of now its not in the game.

@@ -1,24 +1,20 @@
 ---
 title: Azurath
-revid: 187509
+revid: 191012
 source: https://deepwoken.fandom.com/wiki/Azurath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Heliodar NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Azurath
 
-| Azurath | |
-|---|---|
-| name | Azurath |
-| aspect | Heliodar |
-| location | The Cerebral Spire |
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 

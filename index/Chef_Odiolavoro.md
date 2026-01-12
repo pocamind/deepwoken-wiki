@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 188117
+revid: 191011
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -14,6 +14,7 @@ categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusiv
 | aspect | Felinor |
 | pronouns | He/him |
 | location | Etris |
+| family | Chef Buongustino (father)[1] |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -175,7 +176,7 @@ File:Grilled Parasol Brain Witherald.png
   <td>Ah... Well. The Leshi brothers are quite formidable. There are two of them. And there will be one of you. Yes? Very bad for business.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -206,10 +207,10 @@ File:Grilled Parasol Brain Witherald.png
   <td>Ah! Primo! Let me just get a taste... Not cooked long enough. I want to smell the ash. Still, you have done as I have asked! Payment!</td>
   <td>Ah! Primo! Let me just get a taste... Ah. Needs less salt. Much less salt. Why so much salt? Still, you have done as I have asked! Payment!</td>
   <td colspan="2">Ah! Primo! Let me just get a taste... Ah! Primo, primo! Too good for my customers... I keep for me. Still, you have done as I have asked! Payment!</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="4">End, Player receives XP and Chest</td>
+  <td colspan="4">[End Dialogue], Player receives XP and Chest</td>
 </tr>
 </tbody>
 </table>
@@ -231,13 +232,13 @@ File:Grilled Parasol Brain Witherald.png
 </tr>
 <tr>
   <td>Yeah, I reckon I can do that.</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>Ah! Excellent! I knew I could count on you... Do make sure the <b>[FOOD]</b> is to my liking though, yes?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -249,3 +250,7 @@ File:Grilled Parasol Brain Witherald.png
 -   It's implied he's actually not that skilled as a cook, as his criticisms of the player's food include him thinking the food should be burnt to ash.
     -   However, giving him artisan food can make him say the food is too good for his customers and he will eat it it himself.
 -   In Italian, "Odio" translates to "I hate," and "Lavoro" translates to work, corresponding with his actions of asking the player to cook for him instead of actually learning how to cook for himself.
+
+## References
+
+1.  [↑](#cite-ref-1) Buongustino mentions his sons are "Useless" and "Lazy boys", which matches Odiolavoro's incompetence and his name meaning "I hate work". Both are also moustachioed Felinor who dress and speak similarly.

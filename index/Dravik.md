@@ -1,6 +1,6 @@
 ---
 title: Dravik
-revid: 184172
+revid: 191040
 source: https://deepwoken.fandom.com/wiki/Dravik
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Dravik, the Rat King](Dravik,_the_Rat_King%253Fredirect=no.md)
+-   [Dravik, the Rat King (NPC)](<Dravik,_the_Rat_King_(NPC).md>)

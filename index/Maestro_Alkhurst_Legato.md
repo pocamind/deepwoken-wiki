@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 190297
+revid: 191049
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Maestros of the Vigils, Circle of Honour members]
@@ -26,11 +26,15 @@ Legato is a notably aged man. His hair is short and black with bangs parting awa
 
 He wears a White [Deepwoken Cloak](Deepwoken_Cloak.md) laid on top of a [Cloak of Winds](Cloak_of_Winds.md), as well as purple [Monastery Beads](Monastery_Beads.md) in a granite texture. On his back is a large, deep purple bow that is much larger than his own body.
 
+## Location
+
+Maestro Alkhurst Legato is located in the [Temple Sparring Hall](Temple_Sparring_Hall.md), standing in front of a brazier.
+
 ## Dialogue
 
-**First Encounter:**
+**Base Dialogue:**
 
-**Regular dialogue:**
+**First Encounter:**
 
 <table>
 <tbody>
@@ -38,130 +42,129 @@ He wears a White [Deepwoken Cloak](Deepwoken_Cloak.md) laid on top of a [Cloak o
   <td colspan="20">Begin</td>
 </tr>
 <tr>
-  <td colspan="20">*A thousand soft and subtle breezes make their way across the incense-shrouded temple as you approach an older-looking Etrean. The man carries himself with a certain elegant air - although the slight slouch in his shoulders betrays weariness. His pale blue eyes Glace at you expectantly**</td>
+  <td colspan="20"><i>*A thousand soft and subtle breezes make their way across the incense-shrouded temple as you approach the older-looking Etrean. The man carries himself with a certain elegant air - although the slight slouch in his shoulders betrays weariness. His pale blue eyes glance at you expectantly.*</i></td>
 </tr>
 <tr>
   <td colspan="20">[Continue]</td>
 </tr>
 <tr>
-  <td colspan="20">*The Reclamer's voice echoes in your head* Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eers assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause signifigantly.</td>
+  <td colspan="20"><font>[Reclaimer of the Recollection speaks to the player]</font><br>
+  <i>*The Reclaimer's voice echoes in your head.*</i> Maestro Alkhurst Legato... A senior member of the Circle, whose duty of defending the Isle of Vigils from Zi'eers assaults unfortunately prevented him from facing the Regent. Alkhurst's efforts were valiant, even heroic, considering the circumstances... His contributions aided our cause significantly.</td>
 </tr>
 <tr>
   <td colspan="20">What happened to him, in the end?</td>
 </tr>
 <tr>
-  <td colspan="20">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regents forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eers forces for good. Speak to him the words of our circle, Inheritor, and observer what unfolds.</td>
+  <td colspan="20">Alkhurst, too, was a bearer of an Iron Memento. Although, he was unable to accomplish his mission. Some years after the Recollection's time, without support from the Etrean Royalists, the Regent's forces attempted one final push against the island. He gave his life defending the temple, repealing Zi'eers forces for good. Speak to him the words of our Circle, Inheritor, and observe what unfolds.</td>
 </tr>
 <tr>
-  <td colspan="20">In iron we recall.</td>
+  <td colspan="20">In Iron we recall.</td>
 </tr>
 <tr>
-  <td colspan="20">*The Maestro's gaze seems to pierce you, as he silently assesses you. Yet, whatever test he may be conducting in his mind, you appear to have passed it.* ...Welcome, Ironsworn. You are bold to have come here, in the hour of our greatest peril. Or, perhaps simply foolish...</td>
+  <td colspan="20"><font>[Legato's name is revealed and he speaks to the player]</font><br>
+  <i>*The Maestro's gaze seems to pierce you, as he silently assesses you. Yet, whatever test he may have been conducting in his mind, you appear to have passed it.*</i> ...Welcome, Ironsworn. You are bold to have come here, in the hour of our greatest peril. Or, perhaps, simply foolish...</td>
 </tr>
 <tr>
   <td colspan="20">I figured you could use a helping hand.</td>
 </tr>
 <tr>
-  <td colspan="20">*The Maestro slowly nods* You are not wrong in that regard. I assume you have noticed the unyielding clash of swords outside. We are under constant siege by the Lord Regent's forces&gt; But tell me. What brings you to the temple of the blade? Few others of our order have made their way here so far. Especially after I sent out the message to the Circle that the island is under siege.</td>
+  <td colspan="20"><i>*The Maestro slowly nods.*</i> You are not wrong in that regard. I assume you have noticed the unyielding clash of swords outside. We are under constant siege by the Lord Regent's forces. But tell me. What brings you to the the Temple of the Blade? Few others of our order have made their way here so far. Especially after I sent out the message to the Circle that the island is under siege.</td>
 </tr>
 <tr>
   <td colspan="20">Like the other Ironsworn, I seek to defeat the Lord Regent.</td>
 </tr>
 <tr>
-  <td colspan="20">*Alkhurst's pale blue eyes light up with a tinge of prideful hope.* Thus proceeds the mission of the Vow of Iron. I am Relieved to hear of your continued efforts. Admittedly, communication with the Circle has been difficult ever since Zi'eer ramped up his efforts to intercept my messages. *He furrows his brow in mild frustration* Though... Said communications may have harmed our cause, somewhat.</td>
+  <td colspan="20"><i>*Alkhurst's pale blue eyes light up with a tinge of prideful hope.*</i> Thus proceeds the mission of the <a href="Glossary.md#vows">Vow</a> of Iron. I am relieved to hear of your continued efforts. Admittedly, communication with the Circle has been difficult ever since Zi'eer ramped up his efforts to intercept my messages. <i>*He furrows his brow in mild frustration.*</i> Though... Said communications with the Circle may have harmed our cause, somewhat.</td>
 </tr>
 <tr>
   <td colspan="20">How so?</td>
 </tr>
 <tr>
-  <td colspan="20">*He averts his gaze to the side for a brief moment* It took us - and the Circle, -too long to realise our messages were being monitored. Zi'eer's agents spied our messengers' movements - even intercepting some of them. I only blame myself for it, Ironsworn. It is because of this blunder that Zi'eer learned of our plan to assassinate him ahead of time. Were it not so... Perhaps the Calamity could have been stopped earlier.</td>
+  <td colspan="20"><i>*He averts his gaze to the side for a brief moment.*</i> It took us - and the Circle, - too long to realise our messages were being monitored. Zi'eer's agents spied our messengers' movements - even intercepting some of them. I only blame myself for it, Ironsworn. It is because of this blunder that Zi'eer learned of our plan to assassinate him ahead of time. Were it not so... Perhaps the Calamity could have been stopped earlier.</td>
 </tr>
 <tr>
   <td colspan="20">And you are sure there are no spies within your ranks now?</td>
 </tr>
 <tr>
-  <td colspan="20">Indeed. The Vigils are loyal to me - we have already rooted out all of the would-be traitors. Anyone who is not one of us may be an agent of the Calamity. But nobody has come to our island since the start of the Civil War, spare the other Ironsworn, and you. Zi'eer's forces lurk at our doorstep like starving wolves, howling for blood and carnage. *A glint of determination flashes on his face* On the island we are safe. It acts as our fortress. But attacking the foe proves difficult. Etrea is well-fortified.</td>
+  <td colspan="20">Indeed. The Vigils are loyal to me - we have already rooted out any would-be traitors. Anyone who is not one of us may be an agent of the Calamity. But nobody has come to our island since the start of the Civil War, spare for other Ironsworn, and you. Zi'eer's forces lurk at our doorstep like starving wolves, howling for blood and carnage. <i>*A glint of determination flashes on his face.*</i> On the island, we are safe. It acts as our fortress. But attacking the foe proves difficult. Etrea is well-fortified.</td>
 </tr>
 <tr>
-  <td colspan="15">Is there any way I can help the Vigils?</td>
-  <td colspan="5">What's the situation in Etrea like?</td>
+  <td colspan="10">Is there any way I can help the Vigils?</td>
+  <td colspan="10">What's the situation in Etrea like?</td>
 </tr>
 <tr>
-  <td colspan="15">With all the able bodied Vigils preoccupied with the siege, there are many other tasks that need tending to. If you are willing to lend us a hand, Ironsworn, feel free to pick up one of the jobs posted on the boards. We will appreciate it greatly.</td>
-  <td colspan="5">The place has become a citidel. A fortress. Zi'eer has placed countless of his monstrous Shoguns all around the island, and shielded the Royal Palace with some apparently impenetrable forcefield. As long as that barrier remains standing, nobody - not us, nor the Circle, -has any way to take down Zi'eer. I suspect there must be some way to take it down, however... but I do not know how.</td>
+  <td colspan="10">With all of the able-bodied Vigils preoccupied with the siege, there are many other tasks that need tending to. If you are willing to lend us a hand, Ironsworn, feel free to pick up one of the jobs posted on the boards. We will appreciate it greatly.</td>
+  <td colspan="10">The place has become a citadel. A fortress. Zi'eer has placed countless of his monstrous Shoguns all around the island, and shielded the Royal Palace with some apparently impenetrable forcefield. As long as that barrier remains standing, nobody - not us, nor the Circle, - has any way to take down Zi'eer. I suspect there <i>must</i> be some way to take it down, however... But I do not know how.</td>
 </tr>
 <tr>
-  <td colspan="20">I seek to destroy the barrier myself.</td>
+  <td colspan="10">What's the situation in Etrea like?</td>
+  <td colspan="10">I seek to destroy the barrier myself.</td>
 </tr>
 <tr>
-  <td colspan="20">As would the duty of those who have taken the Vow of Iron. Have you had any luck in the matter?</td>
+  <td colspan="10">[See first instance]</td>
+  <td colspan="10">As would be the duty of those who have taken the <a href="Glossary.md#vows">Vow</a> of Iron. Have you had any luck in the matter?</td>
 </tr>
 <tr>
-  <td colspan="5">(No bosses defeated)<p>I am still looking for a way forward.</p></td>
-  <td colspan="5">(Defeated <a href="Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md">The Shogun</a>)<p>I have made some progress. My next goal is to seek information at the golden rat.</p></td>
-  <td colspan="5">(Defeated and spoke to <a href="Dravik,_The_Rat_King.md">Dravik</a>)<p>I have learned how to destroy the barrier after defeating Dravik, the Rat King... He sends you his regards.</p></td>
-  <td colspan="5">(Defeated <a href="True_Heart_of_Enmity.md">True Enmity</a>)<p>I wanted to ask about the situation in Etrea again.</p></td>
+  <td colspan="10"></td>
+  <td colspan="10">I am still looking for a way forward.</td>
 </tr>
 <tr>
-  <td colspan="5">For all of our sakes, I hope that you succeed in your quest soon enough. The longer the Calamity reigns, the stronger its hold of Etrea becomes - and the greater the threat it poses. I wish I could offer you more help, Ironsworn, but... i hope you understand the circumstances do not permit me to leave the vigils. But should you need any advice, I am happy to oblige.</td>
-  <td colspan="5">*Something shifts in Alkhursts expression.* ...An interesting place, to put it lightly. A den of vagabonds, revellers, and mercenaries, to put it more bluntly. I hear the Etrean Royalists gather there for a similar purpose to yours. I hope you find what you are seeking there, Ironsworn. Oh, and... if i may request, do pass my dearest regards to the High Monk. It has been a while since we've last spoken.</td>
-  <td colspan="5">*The Maestro's expression shifts inscrutable - is it relief? Anger? Pride? Disappointment?...* ...Hmpf. The old hound never stopped learning new tricks, it seems. Nor did he ever stop seeking ever greater heights, from the looks of it. That does sound like him... I am impressed that you were able to defeat him in combat - I only pray that he finds his way out of the under-realm. It would be a great shame for the world to lose a warrior like him, regardless of whatever has become of him these days. How do you intead to destroy the barrier then?</td>
-  <td colspan="5">The place has become a citadel. A fortress. Zi'eer has placed countless of his monstrous shoguns all around the island. he had shielded the royal palace with some impenetrable barrier... But you have already taken care of that. Therefore, we now have an excellent opportunity to act against him. Zi'eer's defenses are weakened and exposed. We have an opening through which to strike him down. You would do well to prepare as best as you can for your fight with him, Ironsworn.</td>
+  <td colspan="10"></td>
+  <td colspan="10">For all of our sakes, I hope that you succeed in your quest soon enough. The longer the Calamity reigns, the stronger its hold of Etrea becomes - and the greater the threat it poses. I wish I could offer you more help, Irons worn, but... I hope you understand the circumstances do not permit me to leave the Vigils. But should you need any advice, I would be happy to oblige.</td>
 </tr>
 <tr>
-  <td colspan="10">(Continuation of Dravik dialogue)<p>I have to descend to the Depths, and make a bargain with the Voices of the Cathedral of Interstice to resurface within the bounds of the barrier."</p></td>
-  <td colspan="10">(Continuation of post enmity dialogue)<p>Is there any advice you can give me for when I head off to face him?</p></td>
+  <td colspan="10"></td>
+  <td colspan="10">May I ask you something else?</td>
 </tr>
 <tr>
-  <td colspan="10">*For a few moments, ALkhurst observes you sharply, contemplating in stunned silence.* ...To call that 'unorthodox' would be an understatement. Were it anyone other than you, i would say that death seems all but certain,. But, I suppose if this does not permit you to destroy the barrier, at least you'll have a clear shot at Zi'eer. Yet... I am less suprised to hear that you learned this knowledge from Dravik. If anyone were to ever come up with such a deranged yet cunning plan... It would be him.</td>
-  <td colspan="10">*He contemplates for a moment, his gaze searching in the distance.* You must have seen the situation in Etrea yourself by now. Dozens of Shoguns, and heavy resistance all over. As for facing Zi'eer himself... I'm afraid i cannot offer much, He was always secretive about his fighting style - I only know that he is fast and ruthless. Though... Just recently, I leared a secret of his, from a fellow Circle member.</td>
+  <td colspan="10"></td>
+  <td colspan="6"><i>*The Maestro nods.*</i> Of course, Ironsworn. Is there something on your mind?</td>
 </tr>
 <tr>
-  <td colspan="10">what happened between you and Dravik? Do the two of you have a history?</td>
-  <td colspan="10">A secret?</td>
+  <td colspan="10"></td>
+  <td colspan="2">Is there any way I can help the Vigils out?</td>
+  <td colspan="2">I wanted to ask about the situation in Etrea again.</td>
+  <td colspan="2">How do you know there are no spies within your ranks again? Zi'eer's agents could be anywhere.</td>
+</tr>
+</tbody>
+</table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="9">Begin</td>
 </tr>
 <tr>
-  <td colspan="10">*The Maestro turns his gaze to the side.* He was an instructor of the Vigils before the war. One of your finest, in fact. We were close friends, him and I - he first came to the Temple seeking a kind of repentance for his past deeds. I did not judge him for the life he led before. He said that for once, he wanted to do good -to train the youths of Etrea in the art of the sword, to help them channel themselves through the blade for the defense of their people. But he was overzealous in his methods.</td>
-  <td colspan="10">*Alkhurst nods stternly.* One of the sources of his powers. it is the Coral Throne, which he has brought to the Royal Palace, and with which he reigns. As I understand it, acts as a sort if power amplifier to Zi'eer's abilities. if it is destroyed, perhaps facing him would be much easier... If you want to know more, however, you'll have to reach out to Warden Jericho, of the Central Authority. He will be able to tell you the details better than i could.</td>
+  <td colspan="9"><i>*A breeze shudders its way way across the incense-shrouded temple as you approach Maestro Alkhurst Legato. He bows lightly, as a sign of respect.*</i> Welcome once again, Ironsworn. Have you brought us any good news? Or, do you perhaps require advice?</td>
 </tr>
 <tr>
-  <td colspan="10">'Overzealous'?</td>
-  <td colspan="10">May I ask something else? (loops dialogue)</td>
+  <td colspan="3">Is there any way I can help the Vigils out?</td>
+  <td colspan="3">I wanted to ask about the situation in Etrea again.</td>
+  <td colspan="3">How do you know there are no spies within your ranks again? Zi'eer's agents could be anywhere.</td>
 </tr>
 <tr>
-  <td colspan="10">In training, he could sometimes be ruthless to our pupils - no doubt ha fault he carried on from his past life. At times, I would have to interfere -then, he would insist on sparring with me instead of the student. He found a certain thrill in fighting, but he would never be satisfied merely with fighting students. I tried to temper his ambition, to steady his ways... But he did not take kindly to it. Dravik insisted that with me in charge, the famed Temple of the Blade had lost its way, and that our swords have lost their edge.</td>
+  <td colspan="3">With all of the able-bodied Vigils preoccupied with the siege, there are many other tasks that need tending to. If you are willing to lend us a hand, Ironsworn, feel free to pick up one of the jobs posted on the boards. We will appreciate it greatly.</td>
+  <td colspan="3">The place has become a citadel. A fortress. Zi'eer has placed countless of his monstrous Shoguns all around the island, and shielded the Royal Palace with some apparently impenetrable forcefield. As long as that barrier remains standing, nobody - not us, nor the Circle, - has any way to take down Zi'eer. I suspect there <i>must</i> be some way to take it down, however... But I do not know how<p>myself.</p></td>
+  <td colspan="3"><i>*The Maestro smirks proudly.*</i> The Vigils are loyal to me - we have already rooted out any would-be traitors. Anyone who is not one of us may be an agent of the Calamity. But nobody has come to our island since the start of the Civil War, spare for other Ironsworn, and you. Zi'eer's forces lurk at our doorstep like starving wolves, howling for blood and carnage. <i>*A shadow of remorse crosses Alkhurst's expression.*</i> It is only regretful that I did not take action earlier.</td>
 </tr>
 <tr>
-  <td colspan="10">What happened next?</td>
+  <td colspan="6">May I ask you something else?</td>
+  <td colspan="3">What do you mean by that?</td>
 </tr>
 <tr>
-  <td colspan="10">*Alkhurst sights.* He challenged me to a duel. He said that if I wasn't going to do my job as a Maestro and bring the students to their full potential, then he would challenge me, to become the new maestro. Thinking that a proper fight with me would at last satisfy his ambition, I accepted. We dueled in this very hall, before the students, and the other Vigils. But we reached no conclusion -we were locked in a stalemate. Eventually, I landed a devastating blow upon him - at which point he only stood up, and declared that he was satisfied.</td>
+  <td colspan="6"><i>*The Maestro nods.*</i> Of course, Ironsworn. Is there something on your mind?</td>
+  <td colspan="3"><i>*He averts his gaze to the side for a brief moment.*</i> It took us - and the Circle, - too long to realise our messages were being monitored. Zi'eer's agents spied our messengers' movements - even intercepting some of them. I only blame myself for it, Ironsworn. It is because of this blunder that Zi'eer learned of our plan to assassinate him ahead of time. Were it not so... Perhaps the Calamity could have been stopped earlier.</td>
 </tr>
 <tr>
-  <td colspan="10">And then he left, i assume?</td>
+  <td colspan="2">Is there any way I can help the Vigils out?</td>
+  <td colspan="2">I wanted to ask about the situation in Etrea again.</td>
+  <td colspan="2">How do you know there are no spies within your ranks again? Zi'eer's agents could be anywhere.</td>
+  <td colspan="3">May I ask you something else?</td>
 </tr>
 <tr>
-  <td colspan="10">*Maestro Legato nods.* Dravik's last words to me before he left were, 'I was wrong about you, Alkhurst. You are not a shadow of your former self - but you are too gentle for your flock'. He then departed the temple with all his possessions, never to return again. I hear he has returned to his past life now - a 'noble' ruffian. A vagabond with 'principles'. *Alkhurst frowns.* A disappointing fall from his redemption.</td>
-</tr>
-<tr>
-  <td colspan="10">Perhaps my fight with him was his redemption. After all, he told me how to destroy the barrier.</td>
-  <td colspan="10">And what do you think yourself, Maestro? Are you 'too gentle to your flock'</td>
-</tr>
-<tr>
-  <td colspan="10">*He considers your words as reverent silence rings throughout the temple.* ...Perhaps that is a comforting thought, Ironsworn. But I do not know what to make of all of it myself. Dravik led - or, Mur willing, still leads -a strange life. A life full of contradictions, its intricacies inscrutable to anyone else but himself. A life full of misdeeds and great deeds in equal measure. But it is not my place to judge. *He glances at you.* I may only recall. Recall him for what he is -a mortal man, like any other.</td>
-  <td colspan="10">Teaching is a delicate thing, Ironsworn. Pressure and encouragement must be applied in appropriate measure. If you are too gentle, and do not pressure the student enough, the student will grow complacent, and their sill will wither. If you are not gentle enough, and pressure the student too much, even if you know they have boundless potential within them, then may be discouraged from ever trying again.</td>
-</tr>
-<tr>
-  <td colspan="10">U believe your methodology works better.</td>
-  <td colspan="10">I thing that Dravik may have been right.</td>
-</tr>
-<tr>
-  <td colspan="10">I'd like to believe so, too. But sometimes I doubt myself. Perhaps Dravik was right. Perhaps I should have been stricter on my students... Lord Guardian Ji'ang's rule was peaceful, if uneventful. Fourteen years agom we did not have war on our doorstep. I trained youths for peacekeeping, not warfare, for I never thought such days would come... But I cannot afford to regret the past, Ironsworn. Cruel war has tempered those that remain. The Temple still stantds - and so, we must forge on.</td>
-  <td colspan="10">*Alkhurst's gaze drifts to the side.* At times, I admit, I doubt myself on the matter. There are moments where I think Dravik was right, Perhaps the peaceful reign of Lord Guardian Ji'ang, I grew complacent... But we have enough pressures now. With war on our doorstep, the Shoguns at the gates, and flames, flames all around... At a time like this, I cannot afford to ask any more of my students, nor the Vigils who remain here. I can only guide them, and encourage them, to counterweigh the challenges we face.</td>
-</tr>
-<tr>
-  <td colspan="10">May I ask you something else? (loops dialogue.)</td>
-  <td colspan="10">[End Dialogue]</td>
+  <td colspan="9">[See first instance]</td>
 </tr>
 </tbody>
 </table>

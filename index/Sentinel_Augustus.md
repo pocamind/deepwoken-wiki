@@ -1,27 +1,20 @@
 ---
 title: Sentinel Augustus
-revid: 186721
+revid: 190982
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Sentinel Augustus
 
-| Sentinel Augustus | |
-|---|---|
-| name | Augustus Baaset |
-| alias | Sentinel Augustus |
-| aspect | Adret |
-| location | Fort Merit |
-| affiliation | The Central Authority |
-| family | Augustus Baaset's family, Unnamed parents (deceased), Two unnamed siblings (deceased), Augustus Baaset's sister (younger sister), Augustus Baaset's brother (younger brother) |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 

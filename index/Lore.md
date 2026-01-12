@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 190921
+revid: 191063
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -598,7 +598,7 @@ The Citadel
 -   They have been compared to a fraying edge on a fabric.
 -   Eventually it will consume the world.
 
-**The Boundary**
+#### The Boundary
 
 -   The Boundary is the interstice located between Lumen and the Depths.
 -   Exiting the Boundary from the Depths results in the soul not remaining in the body due to the constant downward pull the Depths puts on it, resulting in the eventual death of the individual, though this can be negated by certain rituals.

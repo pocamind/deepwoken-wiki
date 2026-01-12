@@ -1,19 +1,12 @@
 ---
 title: Surge
-revid: 188875
+revid: 191017
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Oath Trainer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Oath Trainer]
 ---
 
 # Surge
-
-| Surge | |
-|---|---|
-| name | Surge |
-| aspect | Canor |
-| pronouns | He/him |
-| location | First Layer |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,11 +16,13 @@ This content is not accessible outside of this gamemode.
 
 ― Surge
 
+Template:NpcInfobox
+
 ## Description
 
 Surge is a [Canor](Canor.md) NPC interested with the [Deep Owls](Deep_Owl.md). He can teach the player the tricks of the mind in return for [Void Feathers](Dark_Feather.md).
 
-Speaking to Surge while having a Dark Feather in the players inventory and meeting the requirements to obtain [Oath: Visionshaper](Oath%253A_Visionshaper.md), the player will be teleported to [A Conscious Intersection](A_Conscious_Intersection.md) to speak to [The Nestmind](The_Nestmind.md). Visionshaper abilities are unlocked by giving Surge [Void Feathers](Dark_Feather.md), up to a total of 5 times to obtain all abilities.
+Speaking to Surge while having a Dark Feather in the players inventory and meeting the requirements to obtain [Oath: Visionshaper](Oath%253A_Visionshaper.md), the player will be teleported to [A Conscious Intersection](A_Conscious_Intersection.md) to speak to [The Nestmind](The_Nestmind.md). Visionshaper abilities are unlocked by giving Surge Void Feathers, up to a total of 5 times to obtain all abilities.
 
 ## Location
 
@@ -72,17 +67,17 @@ Surge is located in a room inside of the Widow's Nest in the [First Layer](First
 <tr>
   <td>Hmm... Perhaps you are ready after all... But be mindful that this is only the beginning.</td>
   <td>Ah... The feather of a <i>true</i> owl... Very good, you'd do well to hold on to that.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>Player speaks to Surge in A Conscious Intersection</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td><b>This is only the beginning. This is only the beginning. This is only the beginning. This is only the beginning. This is only the beginning.</b></td>
 </tr>
 <tr>
-  <td>End, player is teleported to <a href="A_Conscious_Intersection.md">A Conscious Intersection</a></td>
+  <td>[End Dialogue], player is teleported to <a href="A_Conscious_Intersection.md">A Conscious Intersection</a></td>
 </tr>
 </tbody>
 </table>
@@ -108,7 +103,7 @@ This dialogue is unlocked if the player has the [Oath: Visionshaper](Oath%253A_V
   <td colspan="2">I have a feather.</td>
   <td colspan="2">What was that place you took me?</td>
   <td colspan="2">I'm ready. Let me speak the Words in their entirety. [10 Knowledge]</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2"><i>*Surge clicks his fingers in front of your face, forcing you to blink.*</i> There. Do you see now?</td>
@@ -117,15 +112,15 @@ This dialogue is unlocked if the player has the [Oath: Visionshaper](Oath%253A_V
   <td>Player does not have required Knowledge</td>
 </tr>
 <tr>
-  <td colspan="2">End, player obtains a Visionshaper ability</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue], player obtains a Visionshaper ability</td>
+  <td colspan="2">[End Dialogue]</td>
   <td><b>This is only the beginning.</b></td>
   <td>Huh? What words? You're losing sight of the Hunt, friend.</td>
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td>End, Visionshaper is instantly maxed</td>
-  <td>End</td>
+  <td>[End Dialogue], Visionshaper is instantly maxed</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

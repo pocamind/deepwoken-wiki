@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 190785
+revid: 191035
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -87,7 +87,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="3"><i>*The Lord Regent scoffs in derision, letting his demeanour slip.*</i> A remnant of some long-dead backwater of a nation. His use of the Forge is amateur at best. If it were in <b>our</b> hands...</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
   <td colspan="4">I'll go.</td>
   <td>I'll go.</td>
   <td>Why do you have the key?</td>
@@ -108,9 +108,9 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="4"></td>
   <td colspan="4"></td>
   <td></td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
   <td></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -169,7 +169,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20"><i>*The Lord Regent tilts his head, as if wondering why you're even here, then.*</i></td>
 </tr>
 <tr>
-  <td colspan="20">End</td>
+  <td colspan="20">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -191,7 +191,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20">So you came back empty handed? <i>*Sigh.*</i> Another one for the pile then, I guess.</td>
 </tr>
 <tr>
-  <td colspan="20">End, player is killed and locked out of any further dialogue.</td>
+  <td colspan="20">[End Dialogue], player is killed and locked out of any further dialogue.</td>
 </tr>
 </tbody>
 </table>
@@ -215,7 +215,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20">Ah, perfect. All I needed was for you to secure the area. Your services will no longer be needed.</td>
 </tr>
 <tr>
-  <td colspan="20">End, player is killed and locked out of any further dialogue.</td>
+  <td colspan="20">[End Dialogue], player is killed and locked out of any further dialogue.</td>
 </tr>
 </tbody>
 </table>
@@ -237,7 +237,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20"><i>*He smiles, satisfaction playing on his face.*</i></td>
 </tr>
 <tr>
-  <td colspan="20">End</td>
+  <td colspan="20">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -255,7 +255,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20">Have you no manners, or do you simply not know your place? In any case, I'll show you.</td>
 </tr>
 <tr>
-  <td colspan="20">End, player is killed.</td>
+  <td colspan="20">[End Dialogue], player is killed.</td>
 </tr>
 </tbody>
 </table>
@@ -290,7 +290,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
 </tr>
 <tr>
   <td colspan="10"></td>
-  <td colspan="5">End, player is killed, but not locked out of further dialogue.</td>
+  <td colspan="5">[End Dialogue], player is killed, but not locked out of further dialogue.</td>
   <td colspan="3">I will swear myself to you.</td>
   <td colspan="2">I am already bound by an Oath. <b>[If the player already has an Oath]</b></td>
 </tr>
@@ -304,12 +304,12 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="10"></td>
   <td colspan="5"></td>
   <td colspan="3">It will be done, my Lord.</td>
-  <td colspan="2">End, player is killed, but not locked out of further dialogue.</td>
+  <td colspan="2">[End Dialogue], player is killed, but not locked out of further dialogue.</td>
 </tr>
 <tr>
   <td colspan="10"></td>
   <td colspan="5"></td>
-  <td colspan="3">End, player acquires the Contractor Oath.</td>
+  <td colspan="3">[End Dialogue], player acquires the Contractor Oath.</td>
   <td colspan="2"></td>
 </tr>
 </tbody>
@@ -328,7 +328,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20">You have done what is required of you for now. We must now bide our time until the next phase of our plans</td>
 </tr>
 <tr>
-  <td colspan="20">End</td>
+  <td colspan="20">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -346,7 +346,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20">I will say this once, do not return until you have completed your orders.</td>
 </tr>
 <tr>
-  <td colspan="20">End</td>
+  <td colspan="20">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -362,7 +362,7 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="20">It seems you need discipline.</td>
 </tr>
 <tr>
-  <td colspan="20">End, player is killed.</td>
+  <td colspan="20">[End Dialogue], player is killed.</td>
 </tr>
 </tbody>
 </table>
@@ -385,8 +385,8 @@ Despite his mystique and power, he still very much appears to be a mortal man. H
   <td colspan="10">You show dedication, puppet. You may be of use in what is to come. Await further orders.</td>
 </tr>
 <tr>
-  <td colspan="10">End</td>
-  <td colspan="10">End, Oath maxed out.</td>
+  <td colspan="10">[End Dialogue]</td>
+  <td colspan="10">[End Dialogue], Oath maxed out.</td>
 </tr>
 </tbody>
 </table>

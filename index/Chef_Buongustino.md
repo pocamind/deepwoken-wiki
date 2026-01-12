@@ -1,18 +1,12 @@
 ---
 title: Chef Buongustino
-revid: 187990
+revid: 191010
 source: https://deepwoken.fandom.com/wiki/Chef_Buongustino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
+categories: [Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
 ---
 
 # Chef Buongustino
-
-| Chef Buongustino | |
-|---|---|
-| name | Buongustino |
-| aspect | Felinor |
-| location | Isle of Vigils |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -21,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ You? You think you can challenge the mighty Buongustino? In _this_ war economy? **Try me**, pagliaccio. There has yet been a chef who could withstand my power. And perhaps there **never** will be. ”
 
 ― Chef Buongustino
+
+Template:NpcInfobox
 
 ## Description
 

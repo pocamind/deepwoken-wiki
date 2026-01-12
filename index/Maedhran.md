@@ -1,18 +1,12 @@
 ---
 title: Maedhran
-revid: 188849
+revid: 191024
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
+categories: [Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
 ---
 
 # Maedhran
-
-| Maedhran | |
-|---|---|
-| name | Maedhran |
-| aspect | Canor |
-| location | Miner's Landing |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -22,9 +16,13 @@ This content is not accessible outside of this gamemode.
 
 ― Maedhran
 
+Template:NpcInfobox
+
+## Description
+
 Maedhran is an NPC found in [Miner's Landing](<Miner's_Landing.md>). He explains a story about defeating a leader named Ironjaw, and sells lesser [Mantra Modifiers](Mantra_Modifiers.md) for 100 each after listening intently.
 
-The mantra modifiers he sells are:
+The Mantra Modifiers he sells are:
 
 -   Aeon Logstones
 -   Drift Shards
@@ -167,7 +165,7 @@ After every dialogue option the player is given the option to interrupt Maedhran
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -210,7 +208,7 @@ After every dialogue option the player is given the option to interrupt Maedhran
   <td colspan="5">Ah, down on your money? That's okay. You can do it, buddy. <i>*He wipes a genuine tear away from his eye and sniffs.*</i> Y-you've got this.</td>
 </tr>
 <tr>
-  <td colspan="10">End</td>
+  <td colspan="10">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

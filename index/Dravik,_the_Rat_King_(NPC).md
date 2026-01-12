@@ -1,29 +1,20 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 190773
+revid: 191043
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
+categories: [In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats, Individuals with He/him pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Dravik, the Rat King (NPC)
 
-| Dravik, the Rat King (NPC) | |
-|---|---|
-| name | Dravik |
-| alias | The Rat King, King Dravik the First[1], Duke of the Battleaxe[1], The Count of Gold[1], Monarch of the Tavern[1], The Golden Rat King[1] |
-| aspect | Etrean |
-| pronouns | He/him |
-| location | The Cerebral Spire |
-| affiliation | Etrea (formerly), The Golden Rats |
-| death | Killed by a member of the Circle of Honour |
-| deathdate | 1233 CE[2] |
-
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+Template:NpcInfobox
 
 ## Description
 
@@ -101,9 +92,3 @@ Interestingly enough, after Dravik got killed by The Inheritor, his soul, even t
 </tr>
 </tbody>
 </table>
-
-## References
-
-1.  ↑ [1.0](#cite-ref-beard-1-0) [1.1](#cite-ref-beard-1-1) [1.2](#cite-ref-beard-1-2) [1.3](#cite-ref-beard-1-3) [1.4](#cite-ref-beard-1-4) NPC dialogue: [The Beard](The_Beard.md)  
-    _King Dravik the First, our glorious ruler - Duke of the Battleaxe, the Count of Gold, Monarch of the Tavern, the Golden Rat King!_
-2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE.

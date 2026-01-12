@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 190954
+revid: 191042
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3342,7 +3342,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Stormcaller
 
 -   Storm Link \[Common Talent, Dual Attunement, Shadowcast, Thundercall\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
-    -   Converts Galebreathe mantra elemental damage to Thundercall elemental damage and adds +10% damage. Does not proc any Talents, status effects, or stun.
+    -   Converts Galebreathe Mantra damage to Thundercall damage and adds a secondary damage instance that deals 10% of the initial attack's damage.
+    -   This does not allow your Galebreathe Mantras to proc any Thundercall Talents or status effects.
     -   Prerequisites: Static Link, 60 Thundercall, 50 Galebreathe
 
 ### Sturdy Resolve
@@ -3766,7 +3767,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 40 Willpower, 40 Flamecharm, [Flame of Denial](Flamecharm.md#flame-of-denial) (Mantra)
 
 -   _Undying Flame_ \[Rare Talent, Flamecharm, Willpower\] - Your [Graceful Flame](Flamecharm.md#graceful-flame) burns brightly even underwater. Those that gather around it are soothed and regain sanity.
-    -   Graceful Flame can now be casted in the [First Layer](First_Layer.md). Graceful Flame passively restores sanity and health to those around it.
+    -   Graceful Flame can now be casted in the [First Layer](First_Layer.md). It cannot be used in the [Diluvian Mechanism](The_Diluvian_Mechanism.md) or [Depths Trials](Cathedral_of_the_Interstice.md#difficulty-calculation), however.
+    -   Graceful Flame now passively restores sanity and health to those around it.
     -   Merged with the old Soundness of Mind Talent.
     -   Prerequisites: 40 Willpower, 40 Flamecharm, [Graceful Flame](Flamecharm.md#graceful-flame) (Mantra)
 
