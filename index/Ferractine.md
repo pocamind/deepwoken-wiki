@@ -1,6 +1,6 @@
 ---
 title: Ferractine
-revid: 189861
+revid: 191134
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons]
@@ -41,7 +41,7 @@ Variants: [Fractine](Fractine.md)
 
 ## Description
 
-The Ferractine is an Ironsing sword weapon that shares resemblance with the similarly named [Fractine](Fractine.md).
+The Ferractine is an Ironsing sword weapon that was originally wielded by the [Iron Vessel](Iron_Vessel.md) before they were killed by the Lord Regent; when the Lord Regent defeated them, the Ferractine's blade had broken in half, and thanks to the final vow of its wielder, the Ferractine became the [Fractine](Fractine.md).
 
 ## Talent: Blade Threading
 

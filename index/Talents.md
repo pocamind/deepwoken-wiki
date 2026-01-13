@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191104
+revid: 191152
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -169,6 +169,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
         -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
     -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
+    -   [Burn](Status_Effects.md#burn) and self damage do not proc Everchanging Aegis.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
     -   Does not effect Oath, Attunement-less, or Monster mantras.
@@ -1504,7 +1505,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Gale Kata
 
--   _Imperium Kata_ \[Quest Talent\] - Wield an advanced form of the Legion's martial arts.
+-   _Imperium Kata_ \[Quest Talent\] - Wield an advanced form of the Legion's martial arts. (+1 Passive Agility)
     -   Allows you to use [Imperium Kata](Imperium_Kata.md), a [fist style](Fists.md).
     -   Prerequisites: Obtain the [Legion Intelligence](Legion_Intelligence.md), defeat [Titus](Titus_Fulminus_Destellus.md), return to [Caitus](Caitus.md)
 
@@ -1550,7 +1551,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   Inhale \[Common Talent, Galebreathe\] - [Feinting](Combat_Mechanics.md#combat-basics) a [Wind spell](Galebreathe.md) stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. All relevant [modifications](Mantra_Modifiers.md) and upgrades from the inhaled wind mantras are applied to the empowered mantra.
     -   Inhaling a Galebreathe Mantra adds (Mantra level multiplied by 2)% damage to the next Galebreathe Mantra. For example, a level 5 inhale will give your next Gale mantra a 10% damage buff.
     -   Inhaling grants a speed boost for 3 seconds.
-    -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut and Possession.
+    -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut.
     -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
     -   Prerequisites: 60 Galebreathe
 
@@ -1753,7 +1754,10 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Because Frost Buster has no cooldown and has such a large amount of coverage, it is one of the best ice patch applicators in the game.
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
 
--   Frozen Anchor \[Common Talent, Frostdraw, Weapon\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD
+-   Frozen Anchor \[Common Talent, Frostdraw, Weapon\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
+    -   Bottom Freeze will be removed if the target takes damage from any source. This makes this Talent extremely ineffective on multihit criticals.
+    -   The Chill applied through this Talent has a 12 second duration, making it a strong option for hybrid builds that have limited opportunities to proc Chill.
+    -   Deals (0) Frostdraw damage as hitregistry for Chill. This allows you to proc certain Talents like Flashboil without any other source of Frostdraw damage.
     -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
 
 -   Frostbite \[Common Talent, Frostdraw\] - Enemies no longer heal when under the effect of your chill.
@@ -4647,6 +4651,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 -   Twin Drift \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Hitting an enemy in the back after a roll cancel will bring upon twins who will follow up your assault.
     
     -   Similarly to [Spine Cutter](#spine-cutter), performing a basic attack after a roll cancel will perform a second slash, then two light purple clones of yourself will attack the target.
+    -   Prerequisites: [Drifter](Drifter.md) Memento, defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 ### Ether Erudite
 

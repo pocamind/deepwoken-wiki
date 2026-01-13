@@ -1,6 +1,6 @@
 ---
 title: Golem Magma
-revid: 184728
+revid: 191141
 source: https://deepwoken.fandom.com/wiki/Golem_Magma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -18,11 +18,11 @@ Template:Creature Infobox V3
 
 ## Description
 
-**Golem Magmas** are a variation of **Stonelife Golems**, they share their appearance with [Rock Golems](Rock_Golem.md) with a few differences: they are a bit darker and their core is yellow, unlike their originators, whose core is white. The original [Stonelife Golems](Rock_Golem.md) are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md). Though, the origin of Golem Magmas is currently unknown.
+**Golem Magmas** are a variation of **Stonelife Golems.** They share their appearance with [Rock Golems](Rock_Golem.md) with a few key differences: their stone is a bit darker and their core is yellow; unlike their originators, whose core is white. The original [Stonelife Golems](Rock_Golem.md) are given life by [the Duke](Duke_Ishamon_Erisia.md)'s unique [Stonelife resonance](Resonance.md), but the origin of Golem Magmas is currently unknown.
 
-There is only one Golem Magma currently found: It has a static spawn in [Saramaed Summit (Vow of Iron)](<Saramaed_Summit_(Vow_of_Iron).md>).
+You can only find one Golem Magma currently: It has a static spawn in [Saramaed Summit (Vow of Iron)](<Saramaed_Summit_(Vow_of_Iron).md>).
 
-In combat Golem Magmas are very hardy, having moderately high health and high slash resistance. Although, they should not pose much threat to an experienced player.
+In combat Golem Magmas are very hardy, having moderately high health and high slash resistance. Despite this, they should not pose much threat to an experienced player.
 
 ## Attacks
 
@@ -106,4 +106,4 @@ In combat Golem Magmas are very hardy, having moderately high health and high sl
 
 ## Trivia
 
--   Cores of these golems are yellow, but the laser beam itself is white.
+-   Although cores of these golems are yellow, their laser beams are still white, like their original counterparts.

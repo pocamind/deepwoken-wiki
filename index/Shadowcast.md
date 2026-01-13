@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 187324
+revid: 191137
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -862,7 +862,7 @@ Shadow
 -   The damage buff can be increased with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers), capping at +25% weapon damage with 3 Vibrant Gems.
 -   It has a base duration of 12 seconds that can be modified with [Aeon](Mantra_Modifiers.md#regular-modifiers) and [Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration of buff to a cap of 21 seconds.
 -   The [Spine Cutter](Talents.md#spine-cutter) Talent cannot be used while Shade Devour is active
--   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a bigger shockwave that guardbreaks.
+-   Can be upgraded with a [Blast Spark](Mantra_Modifiers.md#sparks) to perform a bigger shockwave that deals more damage.
 -   Can be upgraded with a [Multiplying Spark](Mantra_Modifiers.md#sparks) to perform 3 shockwaves instead of 1.
 -   These sparks can be combined.
 

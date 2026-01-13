@@ -1,6 +1,6 @@
 ---
 title: The Indigo Citadel
-revid: 182091
+revid: 191143
 source: https://deepwoken.fandom.com/wiki/The_Indigo_Citadel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, Locations]
@@ -20,3 +20,15 @@ LocationL The Indigo Citadel LocationR
 TERRITORY OF Etrean Royalists
 
 Shrouded in ice and snow, the quiet stronghold of the valiant Clan Kobura rests, but does not sleep.
+
+  
+
+The Indigo Citadel is an [Etrean Royalists](Etrean_Royalists.md) stronghold found in [Minityrsa](Minityrsa.md).
+
+## Overview
+
+Home of Clan Kobura, and found in the northern parts of [Minityrsa](Minityrsa.md).
+
+## Trivia
+
+-   A ruined version of the Indigo Citadel can be found in Pathfinders, the bridge destroyed and the citadel itself mostly buried in snow.

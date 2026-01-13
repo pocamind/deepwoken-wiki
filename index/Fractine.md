@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 190740
+revid: 191136
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -38,6 +38,8 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 ## Description
 
 The Fractine is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Intelligence](Attributes.md#int) in addition to Heavy. It can be found exclusively from the [Moon's Eyrie](<Moon's_Eyrie.md>), [Voidsea](Voidsea.md), and events found inside.
+
+It was originally the [Ferractine](Ferractine.md), a weapon wielded by the [Iron Vessel](Iron_Vessel.md) before their defeat at the hands of the [The Lord Regent](The_Lord_Regent.md)
 
 After landing the critical attack, the tip of your weapon will lodge itself into your opponent, changing the weapon into it's Shattered State. The Shattered State deals 30% less damage, has innate bleed, with 7 range, and slightly faster swingspeed (it's not very noticeable). Using the critical again returns it to its original form.
 

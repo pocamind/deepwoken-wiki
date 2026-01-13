@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 190722
+revid: 191138
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -62,7 +62,7 @@ Currently there are 30 books and book collections:
 -   [The Gideshu March](The_Gideshu_March.md): ~500 words. [The Central Authority](The_Central_Authority.md)'s anthem and its brief history. Playable on [Instruments](Instruments.md).
 -   [The Hammer's Call](<The_Hammer's_Call.md>): ~400 words. [The Ignition Union](The_Ignition_Union.md)'s anthem and its brief history.
 -   [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
--   [A Light In The Sky](A_Light_In_The_Sky.md): ~200 words. A single page paper with a music sheet, a poem, and a post-script note written by [Prof. Galphin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) regarding a being he treasured. Playable on [Instruments](Instruments.md).
+-   [A Light In The Sky](A_Light_In_The_Sky.md): ~200 words. A single page paper with a music sheet, a poem, and a post-script note written by [Prof. Galphin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) regarding [a place he treasured](Constellia.md). Playable on [Instruments](Instruments.md).
 -   [Lumen's Folklore](<Lumen's_Folklore.md>)
     -   Lumen's Folklore: Volume 'Attunement'
     -   Lumen's Folklore: Volume 'North'

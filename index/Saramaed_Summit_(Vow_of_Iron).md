@@ -1,6 +1,6 @@
 ---
 title: Saramaed Summit (Vow of Iron)
-revid: 185894
+revid: 191147
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with VOI reason, InProgressPages, Vow of Iron Exclusive]
@@ -16,25 +16,23 @@ Variants: [Saramaed Summit](Saramaed_Summit.md)
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
-Saramaed Summit in [Vow of Iron](Vow_of_Iron.md) is a [Voidzone](Voidzones.md) found on [Miner's Landing (Vow of Iron)](<Miner's_Landing_(Vow_of_Iron).md>)
+Saramaed Summit in [Vow of Iron](Vow_of_Iron.md) is a [Voidzone](Voidzones.md) found in [Miner's Landing (Vow of Iron)](<Miner's_Landing_(Vow_of_Iron).md>).
 
 ## Overview
 
-Saramaed Summit in [Vow of Iron](Vow_of_Iron.md) is a crater of an active volcano. The [Miner's Landing](<Miner's_Landing.md>) is still under general construction with only a few [Ignition Union](The_Ignition_Union.md) settlements scattered around the island.
+In [Vow of Iron](Vow_of_Iron.md), Saramed Summit is the crater of an active volcano. [Miner's Landing](<Miner's_Landing.md>) is still under construction, with only a few [Ignition Union](The_Ignition_Union.md) settlements scattered across the island.
 
-Unlike it's [pathfinder counterpart](Saramaed_Summit.md), the Vow of Iron Saramaed Summit is a big open area with minimal human intervention, besides a few construction cranes.
+Unlike it's [pathfinder counterpart](Saramaed_Summit.md), Saramaed Summit in Vow of Iron is a big open area with minimal human intervention, besides a few construction cranes.
 
 ## Contents
 
 ### Magma Shrooms
 
-Located in the southern point of the Saramaed Summit. It is a small hill with dangerous cracks filled with lava and several magma shrooms.
+Located in the southern point of the Saramaed Summit is a small hill, with dangerous cracks filled with lava and several magma shrooms.
 
-The static spawn for 1 [Golem Magma](Golem_Magma.md) and 2 [Mechalodaunts](Mechalodaunt.md) is located here. The Mechalodaunts always win agains the golem as they outnumber and basically stat-check it.
+The static spawn for 1 [Golem Magma](Golem_Magma.md) and 2 [Mechalodaunts](Mechalodaunt.md) is located here. The Mechalodaunts will always win against the golem as they outnumber and overpower it easily.
 
-Is also the location for the [Prototype Railblade](Prototype_Railblade.md), which lies in the southwest corner.
-
-  
+This is also the location you may find the [Prototype Railblade](Prototype_Railblade.md), which lies in the southwest corner.
 
 Map location
 
@@ -46,4 +44,4 @@ Map location
 
 ### Ignition Union Camps
 
-Camps of [the Ignition Union](The_Ignition_Union.md), located near the center of Saramaed Summit.
+Near the center of Saramaed Summit you can find amps of [the Ignition Union](The_Ignition_Union.md).
