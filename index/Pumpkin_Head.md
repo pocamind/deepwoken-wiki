@@ -1,6 +1,6 @@
 ---
 title: Pumpkin Head
-revid: 176532
+revid: 191749
 source: https://deepwoken.fandom.com/wiki/Pumpkin_Head
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Head, Helmets, Equipment, Event Item, Hallowtide]
@@ -16,8 +16,8 @@ categories: [Head, Helmets, Equipment, Event Item, Hallowtide]
 | weight | 1 |
 | innate stats | N/A |
 | innate talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Lysander Spellhardt [50 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag |
@@ -31,6 +31,5 @@ The Pumpkin Head is an [Equipment](Equipment.md) item under the "Head" category.
 
 -   This is the only Hallowtide [Equipment](Equipment.md) item that can't be obtained through the Trial of Gourdskipper.
 -   This is the same hat that [Gourdskippers](Gourdskipper.md) and Infected wear.
--   This item is undroppable.
 -   Unlike the [Mushroom Costume](Mushroom_Costume.md) that turns your skin white, this hat does NOT turn your skin or equipment orange, despite it happening when Infected in the Trial of Gourdskippers.
 -   The description is a reference to the [Headless Horseman](https://en.wikipedia.org/wiki/Headless_Horseman), a mythological figure who is often depicted as wearing a pumpkin where his head would be.

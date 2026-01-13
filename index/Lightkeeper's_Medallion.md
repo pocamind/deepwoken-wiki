@@ -1,6 +1,6 @@
 ---
 title: "Lightkeeper's Medallion"
-revid: 190843
+revid: 191769
 source: https://deepwoken.fandom.com/wiki/Lightkeeper's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
@@ -17,7 +17,7 @@ categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
 | weight | 0.5 |
 | innate stats | +1 Legendary Pip |
 | innate talent | Elegy of Light |
-| bankable | Yes |
+| bankable | Yes, for 1 |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
@@ -38,5 +38,5 @@ It's currently known to drop from [Ferryman](The_Ferryman.md) and [Scion of Ethi
 -   Many elements of the medallion resemble the [Eastern Interstitial Lighthouse](Eastern_Interstitial_Lighthouse.md), which is currently stationed by [Viqh](Viqh.md) under the [Authority's](The_Central_Authority.md) control.
     -   The holder resembles the roof of the Lighthouse.
     -   The embellishment appears to be in the shape of the Lighthouse as a whole.
--   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Warmaster's Medallion](<Warmaster's_Medallion.md>), [Imperator's Fury](<Imperator's_Fury.md>) and the [Whistling Periapt](Whistling_Periapt.md).
+-   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Warmaster's Medallion](<Warmaster's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).
 -   Interacting with a [Lightkeep](Glossary.md#lightkeep) Glossary while Elegy of Light is activated will reveal information on [Aeod, the Waking God](Glossary.md#aeod-the-waking-god) and more on Lightkeep.

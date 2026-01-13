@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Helm"
-revid: 176421
+revid: 191759
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -17,8 +17,8 @@ categories: [Equipment, Head, Helmets, Event Item, Hallowtide]
 | weight | 1 |
 | innate stats | +10 HP, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Lysander Spellhardt [35 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [3 Knowledge], Trial of The Gourdskipper, Goodie Bag |
@@ -33,4 +33,3 @@ The Familiar Heretic's Helm is an [Equipment](Equipment.md) item under the "Head
 -   Considered one of the best Head [Equipment](Equipment.md) pieces, due to it being one of few helmets that can reach 30 maximum health.
 -   This comes from the game [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki), being worn by the class Dark Sigil Knight (officially known as [Wraith Knight](https://rogue-lineage.fandom.com/wiki/Wraith_Knight)).
     -   The description of the Familiar Helms jokingly reference this: 'wayward' and 'line' being synonyms for rogue and lineage respectively.
--   Like all other Hallowtide exclusive items, this is undroppable

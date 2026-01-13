@@ -1,11 +1,11 @@
 ---
 title: Crawling Necktie
-revid: 180680
+revid: 191764
 source: https://deepwoken.fandom.com/wiki/Crawling_Necktie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Torso, Ties, Hallowtide, Event Item]
 notices:
-  - "This page contains Event Exclusive Content This item is exclusive to Goodie Bags, which are only obtainable during the Hallowtide event."
+  - This page contains Event Exclusive Content This item is exclusive to Goodie Bags.
 ---
 
 # Crawling Necktie
@@ -19,8 +19,8 @@ notices:
 | weight | 0.5 |
 | innate stats | +3% Shadow Armor, +2 Legendary Pips |
 | innate talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Goodie Bag |

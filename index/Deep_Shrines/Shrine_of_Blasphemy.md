@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 191381
+revid: 191736
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Located deep within the [Hidden Village](../The_Hidden_Village.md) of Erisia, obscured by vines and wood.
+Located deep within the [Hidden Village](../The_Hidden_Village.md) of [Erisia](../Erisia.md), obscured by vines and wood.
 
 ## Effects/Details
 

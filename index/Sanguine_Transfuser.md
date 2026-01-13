@@ -1,6 +1,6 @@
 ---
 title: Sanguine Transfuser
-revid: 190030
+revid: 191772
 source: https://deepwoken.fandom.com/wiki/Sanguine_Transfuser
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Daggers, Craftable, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Relics, Relic Weapon]
@@ -27,7 +27,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Crafting Hemobloom, Ancient Dagger Remains, and Dormant Splinter at The Cold Forge |

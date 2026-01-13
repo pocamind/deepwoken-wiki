@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 184409
+revid: 191771
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -28,7 +28,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium W
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Cold Forge (Crafting) |

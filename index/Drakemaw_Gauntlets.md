@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 182033
+revid: 191761
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -27,8 +27,8 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowti
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
@@ -48,7 +48,6 @@ The critical has a cooldown of **5 seconds**.
 
 -   Meeting the requirement of LHT, the weapon deals 21.75 damage, becoming 25.01 with [Bleed](Status_Effects.md#bleed).
 -   At max LHT, the weapon deals 24 damage, becoming 27.6 with [Bleed](Status_Effects.md#bleed).
--   Like all other Hallowtide exclusive weapons, these are not droppable.
 -   The weapon's critical has potential for M1/Mantra follow-up, especially if your enemy doesn't know how to ragdoll cancel.
 -   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) being teased instead.
 -   It is the only weapon in the Fists category that deals Bleed damage.

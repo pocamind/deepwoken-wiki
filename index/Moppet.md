@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 190380
+revid: 191748
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -26,8 +26,8 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animat
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes. |
-| droppable | No. |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '25 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |

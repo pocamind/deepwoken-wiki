@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 188226
+revid: 191782
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -139,7 +139,7 @@ _Harness your Chorus of Wisps to unleash a devastating blast._
 
  | 
 
-Oath
+Oath(?)
 
  | 
 
@@ -151,7 +151,7 @@ Oath
 **Effect:** _Charge up for 2 seconds before unleashing a devastating, [unparryable](Combat_Mechanics.md#telegraphed-attacks) elemental beam._
 
 -   Soul Beam will consume your Ether and do nothing if you do not have all Wisp Mantras active on cast.
--   An entire beam deals about 250 total damage (needs more calculations). Unparryable, blockable. Can be dodged by going far enough from caster.
+-   An entire beam deals about 250 total damage (calculated with include of average player resistances). Unparryable, blockable. Can be dodged by going far enough from caster.
 -   5 minute cooldown.
     -   Adding a [Blessed Gem](Blessed_Gem.md) will greatly reduce cooldown.
         -   Note: it will proc ONLY if you hit someone with the last tick of the beam.
@@ -159,7 +159,7 @@ Oath
     -   Cannot be canceled manually by caster and unfeintable.
     -   Getting hit by a Vent will cancel it.
 -   Can turn while shooting beam.
--   Soul Beam is listed as an "initiate level Physical Mantra" in Mystic dialogue.
+-   Soul Beam is listed as an "Initiate level Physical Mantra" in Mystic dialogue.
 
  |
 

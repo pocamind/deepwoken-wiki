@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 189645
+revid: 191776
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -2388,6 +2388,11 @@ _+Talent: Robber Baron_
 **Requires Power 8**
 
  | N/A |
+|  | [Imperator's Fury](<Imperator's_Fury.md>) | _+Talent: Brute Strength_
+
+**Requires Power 8**
+
+ | N/A |
 | 
 
 File:Monastery Champion Beads NEW.png
@@ -2493,12 +2498,6 @@ _+20 Carry Load_
 _+10 Carry Load_
 
 _+Talent: Wormwarder_
-
- | N/A |
-|  | [Imperator's Fury](<Imperator's_Fury.md>)  
-(**Relic**) | _+Talent: Brute Strength_
-
-**Requires Power 8**
 
  | N/A |
 |  | [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)  
@@ -2759,14 +2758,6 @@ Innate Effects
 
  |
 |  | [Crystal Pendant Earrings](Crystal_Pendant_Earrings.md) | +2 Rare Pips |
-|  | [Dark Pearls](Dark_Pearls.md)  
-(**Relic**) | _+2 Health_  
-_\-2 Posture_
-
-_+Talent: Inky Pearls_  
-**Requires Power 15, Shadowcast 40**
-
- |
 |  | [Dew Drop Earrings](Dew_Drop_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
@@ -2804,6 +2795,14 @@ _+Talent: Inky Pearls_
 |  | [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
+
+ |
+|  | [Dark Pearls](Dark_Pearls.md)  
+(**Relic**) | _+2 Health_  
+_\-2 Posture_
+
+_+Talent: Inky Pearls_  
+**Requires Power 15, Shadowcast 40**
 
  |
 

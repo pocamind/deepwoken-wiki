@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 186293
+revid: 191756
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]
@@ -28,8 +28,8 @@ categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Med
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper |
@@ -49,6 +49,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   Meeting the requirement of MED, the damage is (26.5)
 -   At max MED, the damage is (29)
--   Cannot be dropped (same properties as a Soulbound weapon, but you can still pass it down).
 -   Might be a reference to Horseman's Blade from Terraria.
     -   The blade part itself is a copy paste of the base Rogue Lineage [sword design](https://rogue-lineage.fandom.com/wiki/Swords).

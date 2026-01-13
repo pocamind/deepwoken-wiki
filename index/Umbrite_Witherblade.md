@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 184416
+revid: 191770
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -28,7 +28,7 @@ categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Dormant Splinter, Razor Cutlass, 3 Umbrite in The Cold Forge |

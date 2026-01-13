@@ -1,6 +1,6 @@
 ---
 title: Mushroom Costume
-revid: 176507
+revid: 191747
 source: https://deepwoken.fandom.com/wiki/Mushroom_Costume
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Equipment, Head, Helmets, Event Item, Hallowtide]
@@ -18,8 +18,8 @@ notices:
 | weight | 1 |
 | innate stats | N/A |
 | innate talent | N/A |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | All Variants:, Trial of The Gourdskipper, Goodie BagBase Mushroom Costume:, Lysander Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [5 Knowledge] |

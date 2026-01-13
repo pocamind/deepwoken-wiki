@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191163
+revid: 191742
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -54,23 +54,24 @@ Most Talents are locked with a prerequisite. Depending on the prerequisite, you 
 There are certain Talents that you receive automatically upon meeting their requirement. The following Talents will not take up Talent slots:
 
 -   [_Echo_](Echoes.md#echo-talentsitems) and _Quest_ Talents
--   **[Attunement](Attunements.md)** obtainment and progression Talents
+-   Mantra Level Talents, obtained upon meeting [Attunement](Attunements.md) Attribute milestones
+-   Mastery Talents, obtained upon [Unbounding](Attributes_Unbound.md) an Attribute
 -   [**Oath**](Oaths.md) Talents
 -   **Faction** Talents
--   [**Innate**](#innate) Talents, such as those from your [Aspect](Aspects.md)
+-   [Race](#innate) Talents
 -   [_Origin_](Origins.md) Talents
 
-Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool.** However, if you use the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) to remove the mutually exclusive Talent that you currently have, the other Talent returns to your Talent pool so that it may be obtained once again.
+Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool**. However, if you use a [Deep Shrine](Deep_Shrines.md) to remove the mutually exclusive Talent that you currently have, the other Talent will return to your Talent pool, so that it may be obtained once again.
 
-Certain Talents lie in "Priority Talents" - the type of Talents that game weighs very highly to get them into your hands if you meet the requirements. Assuming you meet these requirements, you will see these cards more often upon powering up.
+Certain Talents are weighted by RNG upon Powering up, either being more or less common based on their weight.
 
 ### Card Terminology
 
 -   Common
-    -   The simplest type of Talent. Common Talents make up the majority of a character's Talents, and have small/basic effects, with a few exceptions such as Attunement Paths.
+    -   The simplest type of Talent. Common Talents make up the majority of a character's Talents.
 
 -   Rare
-    -   Rare Talents. You will see far less rares than commons, only two per power increase. Often "stronger" than common Talents, or have larger effects. These Talents are not affected by [Mystics](Mystic.md).
+    -   Rare Talents. You will see far less rares than commons, only two per power increase. These are often "stronger" than common Talents, or have larger effects. These Talents are not affected by [Mystics](Mystic.md).
 
 -   Advanced
     -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have potent, powerful effects on a character. These Talents are often at the end of a Talent tree, requiring various other Talents as prerequisites.
@@ -80,8 +81,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
     -   Talents obtained through taking an [Oath](Oaths.md) or exclusive Talents obtained from [Mementos](Mementos.md). They relate to the Oath taken and don't take up Talent slots.
     
 
--   Innate
+-   Race
     -   Talents obtained from your [Aspect](Aspects.md). These Talents do not take up Talent slots.
+
+-   Mantra Level / Mastery
+    -   Talents obtained from meeting certain Attunement investment milestones and [Unbounding Attributes](Attributes_Unbound.md) respectively. These Talents do not take up Talent slots, and are granted instantly upon meeting their prerequisites.
 
 -   Origin / Quest
     -   Talents obtained from your [Origin](Origins.md) or through completing Quests. Echo Talents also fall under this category. These Talents do not take up Talent slots.
@@ -359,33 +363,33 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Arcwarder**](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
--   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Your dashes become Jet Dashes, allowing you to attack while dashing.
+-   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Your dashes become Jet Dashes, allowing you to attack while dashing.
     -   Jet dashes go much further than regular dashes.
     -   Also allows the user to M1 while performing a dash, ending their dash early.
     -   Prerequisite: [Oath: Arcwarder](Oath%253A_Arcwarder.md)
 
--   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) When blockbroken, eject from your suit.
+-   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) When blockbroken, eject from your suit.
     -   If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
     -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Your Arcwarder Mantras deal increased damage.
+-   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Your Arcwarder Mantras deal increased damage.
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
     -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
     -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your your more conventional modifiers by giving them a higher base damage to work off of.
 
--   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) You can block attacks from any direction and cannot be backstabbed.
+-   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) You can block attacks from any direction and cannot be backstabbed.
     -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you can block attacks that are coming from any direction.
     -   Talents that proc on backstab (e.g. _Spine Cutter_) cannot proc on you while you're in Arc Suit.
     -   Does **not** prevent assassinations or nullify damage from attacks that hit your back.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Holding Spacebar after double jumping propels you up for a short duration.
+-   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Holding Spacebar after double jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
     -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md) Exclusive\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Outgoing and incoming enchant effects are nullified. Can be toggled with N.
+-   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Outgoing and incoming enchant effects are nullified. Can be toggled with N.
     -   Toggling Null on/off has a 5 second cooldown.
     -   Has a sound effect on toggle.
     -   Toggle hotkey can be changed in settings.
@@ -524,7 +528,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Blindseer**](Oath%253A_Blindseer.md) - You vow to not let the horrors of the world pierce your tightly fastened blindfold. Everything is simply as we choose to perceive it. (+10 Sanity, +1 Support Mantra Slot, +1 Wildcard Mantra Slot, +1 Combat Mantra Slot)
     -   Prerequisites: 40 Willpower, all 3 Mental Fortress Talents, Blindfold, and read the inscriptions in The [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 
--   All-Seeing Eye \[Oath Talent, [Blindseer](Oath%253A_Blindseer.md) Exclusive\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
+-   All-Seeing Eye \[Oath Talent, [Blindseer](Oath%253A_Blindseer.md)\] - The mystic eye through which you now see the world can perceive the imperceptible. Invisible foes are highlighted.
     -   Invisible players and monsters are revealed by a Blindseer Eye icon showcasing their current position.
         -   Specifically reveals players under the effects of Ghost, Static Flash Clone, [Cheap Trick](Oath%253A_Visionshaper.md), [Illusory Servant's](Oath%253A_Visionshaper.md) casting animation, [Beast Burrow](Monster_Mantras.md#beast-burrow), [Portals](Portals.md), and other invisibility effects.
     -   With this Talent, the [Tacet](Murmur%253A_Tacet.md) is completely nullified, allowing you to see cloaked players normally.
@@ -550,30 +554,30 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+3 Combat Mantra Slot)
     -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
--   Float Like a Butterfly \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
+-   Float Like a Butterfly \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   It has a cooldown of 5 seconds.
     -   Only accessible when True Strength is active.
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time.
 
--   Lithe Step \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed
+-   Lithe Step \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - When Sprinting, roll-cancel and instantly vanish and surge with unmatched speed
     -   Makes the player briefly invisible, similar to [Jetstriker's](Oath%253A_Jetstriker.md) Rush of Ancients.
     -   Lithe Step will not provide immunity frames to your dodge, but grants a noticeable speed boost during it.
     -   Lithe Step has a 3 second cooldown. This cooldown is reduced to 1 second while in True Strength.
     -   Prerequisite: [Oath: Bladeharper](Oath%253A_Bladeharper.md)
 
--   Reveal \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - Pour your heart out, and reveal your true strength.
+-   Reveal \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - Pour your heart out, and reveal your true strength.
     -   Grants a Talent tool. On cast, you stab yourself with your weapon, toggling on True Strength. Use the tool again to toggle True Strength back off.
     -   While **Reveal's** True Strength state, you passively build up [Wither](Status_Effects.md#wither) on yourself.
     -   If you go below 10% HP, Reveal will automatically turn itself off.
     -   Oddly enough, Reveal procs things that require you to take damage like [Prediction](Attunement-less.md#prediction) despite Reveal not actually dealing damage. Your current HP does not need to get replaced with Wither for this to take affect, and other sources of Wither application/True Strength do not do this.
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the third time.
 
--   Soaring Storm \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
+-   Soaring Storm \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - Empower your uppercuts with the way of the blade, after Lithe Stepping, flourishing, or landing an Oath ability.
     -   Proc condition is removed and damage is increased if in True Strength.
     -   Applies to all forms of uppercuts, including Mantras such as [Rising Flame](Flamecharm.md#rising-flame), Round Spark [Skyshatter Kick](Attunement-less.md#skyshatter-kick), or certain weapon criticals such as the [Wraithclaw](Wraithclaw.md).
     -   Prerequisites: [Oath: Bladeharper](Oath%253A_Bladeharper.md), Defeat Mind Reflection for the second time.
 
--   Untouchable \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md) Exclusive\] - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
+-   Untouchable \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - By landing consecutive hits on your opponent without taking any damage, reveal your True Strength for a short duration.
     -   Upon proccing Untouchable, enter the True Strength state for 15 seconds.
     -   Untouchable requires 10 'Untouchable Stacks'. Being hit by any non-self damage source will reset all Untouchable Stacks.
         -   Landing weapon attacks will build up 2 stacks each.
@@ -585,26 +589,26 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Blightsurger**](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
     -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
 
--   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Your Blightshock prevents targets from using mobility mantras.
+-   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock prevents targets from using mobility mantras.
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
     -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
 
--   Blight Pierce \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
+-   Blight Pierce \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
     -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock), canceling hyperarmor.
     -   Sovereign Bangle, the Blightsurger exclusive weapon, and Blightsurge Mantras gain +?% more PEN.
     -   This Talent is bugged and currently does not work.
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
 
--   Blighted Touch \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Landing Basic Attacks during Sovereign State now applies Blightshock.
+-   Blighted Touch \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Landing Basic Attacks during Sovereign State now applies Blightshock.
     -   This allows your Sovereign Bangle to apply Wither on hit.
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
 
--   Blightlash \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Your swing range is enhanced during Sovereign State.
+-   Blightlash \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your swing range is enhanced during Sovereign State.
     -   Increases the range of the Sovereign Bangle from 6 to 7.
     -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
 
--   Sovereign State \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md) Exclusive\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
+-   Sovereign State \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
     -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   At full Blight Meter, Sovereign State lasts 12.5 seconds.
     -   Sovereign State has a 10 second activation cooldown once the duration runs out.
@@ -627,21 +631,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Bloodrend Master
 
--   Bloodrend Unbounded \[Unlockable Talent, Bloodrend\] - You have gained the ability to surpass your limits and train your Bloodrend to its fullest. (+10 Health)
+-   Bloodrend Unbounded \[Mastery Talent, Bloodrend\] - You have gained the ability to surpass your limits and train your Bloodrend to its fullest. (+10 Health)
     -   Prerequisite: 75 Bloodrend
 
 ### Bloodrender
 
--   Bloodrender \[Unlockable Talent, Bloodrend\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
+-   Bloodrender \[Mantra Level Talent, Bloodrend\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
     -   Obtained at 1 Bloodrend or from the Bloodrend trainer [Vyrelda](Vyrelda,_Master_of_Blood.md).
 
--   Adept Bloodrender \[Unlockable Talent, Bloodrend\] - You can now obtain 1-star Bloodrender mantras.
+-   Adept Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 1-star Bloodrender mantras.
     -   Obtained at 20 Bloodrend
 
--   Expert Bloodrender \[Unlockable Talent, Bloodrend\] - You can now obtain 2-star Bloodrender mantras.
+-   Expert Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 2-star Bloodrender mantras.
     -   Obtained at 30 Bloodrend
 
--   Master Bloodrender \[Unlockable Talent, Bloodrend\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
+-   Master Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 3-star Bloodrender mantras. Your maximum blood capacity is 25% more than a normal individual. You regen blood at a quicker pace. (+5 Health)
     -   Obtained at 50 Bloodrend.
 
 -   Crimson Fountain \[Common Talent, Bloodrend\] - Blockbreaking or flourishing an enemy now spills a pool of blood below them.
@@ -788,13 +792,13 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Chainwarden**](Oath%253A_Chainwarden.md) - You vow to be the chain that binds the wicked and drags them back where they belong. There are those in this world who should not be free. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: Combined total of 40 in Strength/Fortitude/Willpower (STR + FTD + WLL ≥ 40), Authority reputation, defeat [Emar Vend](Emar_Vend.md).
 
--   Perpetual Wrath \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md) Exclusive\] - Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
+-   Perpetual Wrath \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md)\] - Unleash the true power of Restrain. Each successive hit will increase its damage. stacking up to the base damage.
     -   Enchaining targets and hitting Chained targets with with Restrain will add 1 stack of Perpetual Wrath.
-    -   Each stack of Perpetual Wrath increases [Restrain's](Oath%253A_Chainwarden.md) (Mantra) damage by 8, capping out at 4 stacks for +32 damage. At max stacks, Restrain additionally gains a new visual and sound effect.
+    -   Each stack of Perpetual Wrath increases [Restrain](Oath%253A_Chainwarden.md#restrain)'s (Mantra) damage by 8, capping out at 4 stacks for +32 damage. At max stacks, Restrain additionally gains a new visual and sound effect.
     -   **All** stacks of Perpetual Wrath will be cleared if the chain is broken.
     -   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat one humanoid [boss](Bosses.md) or player with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
 
--   Chainlash \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md) Exclusive\] - On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
+-   Chainlash \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md)\] - On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
     -   Your flourish and [Impel](Oath%253A_Chainwarden.md#impel) (Mantra) now apply chained and pull after a short delay. M1ing after the pull will perform a Crushing Kick, dealing high damage.
     -   The pull will bring the targets back to the location you flourished and prevent movement for a duration.
     -   Chainlash will only work on Chained targets, if a target breaks the chain quick enough, Chainlash will cancel.
@@ -926,11 +930,11 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Contractor**](Oath%253A_Contractor.md) - Your heart is forever now eternally tied to Zi'eer, the 4th Prophet of the Ministry. You swear to serve under his will, no matter the cost. (+10 Ether, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: Etrea Reputation, Ministry Reputation, learn what happened from Yun'Shul then return to [Lord Regent](The_Lord_Regent.md).
 
--   Hidden Tendril \[Oath Talent, [Contractor](Oath%253A_Contractor.md) Exclusive\] - Landing any physical mantra places a Hidden Tendril on the opponent. (+10 Ether)
+-   Hidden Tendril \[Oath Talent, [Contractor](Oath%253A_Contractor.md)\] - Landing any physical mantra places a Hidden Tendril on the opponent. (+10 Ether)
     -   Physical critical attacks, uppercuts, flourishes, and most [attunement-less](Attunement-less.md) Mantras will apply a Hidden Tendril.
     -   Prerequisites: [Oath: Contractor](Oath%253A_Contractor.md), Grip any player with an [Oath](Oaths.md) in the [Depths](First_Layer.md), this will send them to the [Second Layer](Second_Layer.md) OR give 10 to [Lord Regent](The_Lord_Regent.md), instantly skipping Contractor's progression (this can only be done if you've fully progressed Contractor at least once).
 
--   String Trick \[Oath Talent, [Contractor](Oath%253A_Contractor.md) Exclusive\] - Pulls together any two opponents you've attached Hidden Tendril to.
+-   String Trick \[Oath Talent, [Contractor](Oath%253A_Contractor.md)\] - Pulls together any two opponents you've attached Hidden Tendril to.
     -   Does not proc on non-humanoids. Deals a small amount of damage on proc.
     -   Prerequisites: [Oath: Contractor](Oath%253A_Contractor.md), Grip 3 players with [Oaths](Oaths.md) in the [Depths](First_Layer.md), this will send them to the [Second Layer](Second_Layer.md) OR give 10 to [Lord Regent](The_Lord_Regent.md), instantly skipping Contractor's progression (this can only be done if you've fully progressed Contractor at least once).
 
@@ -1071,16 +1075,16 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Dawnwalker**](Oath%253A_Dawnwalker.md) - You vow to forever reach towards the brilliant Light. There is no shadow that your radiance cannot expunge. (+3 Combat Mantra Slots)
     -   Prerequisites: [Power](Power.md) 15, Have 30 [Kyrsan Medallions](Kyrsan_Medallions.md) and speak to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md)
 
--   Absolute Radiance \[Oath Talent,[Dawnwalker](Oath%253A_Dawnwalker.md) Exclusive\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
+-   Absolute Radiance \[Oath Talent,[Dawnwalker](Oath%253A_Dawnwalker.md)\] - Dealing damage with Dawnwalker mantras briefly makes you immune to all elemental effects for a short period.
     -   All elemental status effects cannot be applied to you during Absolute Radiance.
     -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 60 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) OR pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Protagonist Syndrome \[Oath Talent, [Dawnwalker](Oath%253A_Dawnwalker.md) Exclusive\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast.
+-   Protagonist Syndrome \[Oath Talent, [Dawnwalker](Oath%253A_Dawnwalker.md)\] - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after getting hit by Shadowcast.
     -   Increases your Dawnwalker Mantra damage by 30% after being hit by Shadowcast damage.
     -   [Shade Devour](Shadowcast.md#shade-devour)'s self damage is typeless, so it will not proc this effect.
     -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 75 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) OR pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Luminous Flash \[Oath Talent, [Dawnwalker](Oath%253A_Dawnwalker.md) Exclusive\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
+-   Luminous Flash \[Oath Talent, [Dawnwalker](Oath%253A_Dawnwalker.md)\] - After dealing a certain amount of damage in Absolute Radiance, gain a chance to empower your strikes with pure light.
     -   During Absolute Radiance, your M1 attacks have a chance to proc Luminous Flash, increasing their damage by 75% (the damage modifier hardcap). In PvP combat, this is lowered to 50% instead (the damage modifier hardcap).
     -   Prerequisites: [Oath: Dawnwalker](Oath%253A_Dawnwalker.md), pay a total of 75 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) OR pay 10 to Klaris to skip Dawnwalker's progression entirely (requires you to have fully progressed the Oath at least once).
 
@@ -1285,18 +1289,18 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   [**Oath: Fadetrimmer**](Oath%253A_Fadetrimmer.md) - You vow to forever hone your precision with the scissors. There will never be another fringe incident again. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: [Power](Power.md) 12, change your appearance 12 times at any [Barber](Barber.md). (Can click accept without changing anything 12 times.)
 
--   Barber's Skillset \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md) Exclusive\] - What type of look are we going for today?
+-   Barber's Skillset \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md)\] - What type of look are we going for today?
     -   Gives a Talent tool that opens an outdated version of the [Barber](Barber.md) UI. Because this uses the outdated variant of this UI, it only has 4 hair slots.
     -   When selecting others: Changes what haircut your Fadetrimmer Mantras apply on hit.
     -   When selecting yourself: Changes your own hair.
     -   **Do not use hair IDs that can be seen as offensive. This is bannable. You are the one responsible for what hairs you give.**
     -   Prerequisite: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)
 
--   Hair Products \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md) Exclusive\] - What's in these things?
+-   Hair Products \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md)\] - What's in these things?
     -   Gives a Talent tool that shows a popup menu and allows you to select either Flammable, Charming, or Revitalizing Hair Sprays. Your Hair Spray will change to the chosen effect.
     -   Prerequisite: [Oath: Fadetrimmer](Oath%253A_Fadetrimmer.md)
 
--   Hair Spray \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md) Exclusive\] - Apply your Hair Products.
+-   Hair Spray \[Oath Talent, [Fadetrimmer](Oath%253A_Fadetrimmer.md)\] - Apply your Hair Products.
     -   Gives the Hair Spray Talent tool that applies the spray that was selected in the Hair Products' popup menu.
     -   Flammable:
         -   Ignites your opponent or causes an Eruption on hit. 10s CD.
@@ -1387,21 +1391,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Flamecharm Master
 
--   Flamecharm Unbounded \[Unlockable Talent, Flamecharm\] - You have gained the ability to surpass your limits and train your Flamecharm to its fullest. (+10 Health)
+-   Flamecharm Unbounded \[Mastery Talent, Flamecharm\] - You have gained the ability to surpass your limits and train your Flamecharm to its fullest. (+10 Health)
     -   Prerequisite: 75 Flamecharm
 
 ### Flamecharmer
 
--   Flamecharmer \[Unlockable Talent, Flamecharm\] - Grants you the ability to command Fire as a Flamecharmer.
+-   Flamecharmer \[Mantra Level Talent, Flamecharm\] - Grants you the ability to command Fire as a Flamecharmer.
     -   Obtained at 1 Flamecharm or from the Flamecharm trainer [Amashi](Amashi,_Master_of_Flame.md).
 
--   Adept Flamecharmer \[Unlockable Talent, Flamecharm\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
+-   Adept Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
     -   Obtained at 20 Flamecharm
 
--   Expert Flamecharmer \[Unlockable Talent, Flamecharm\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
+-   Expert Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 2-Star Leveled Flamecharmer Mantras.
     -   Obtained at 30 Flamecharm
 
--   Master Flamecharmer \[Unlockable Talent, Flamecharm\] - You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health)
+-   Master Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health)
     -   Obtained at 50 Flamecharm
 
 -   Azure Flames \[Common Talent, Flamecharm, Willpower\] - Many of your flames turn blue, signifying their increased intensity.
@@ -1450,21 +1454,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Frostdraw Master
 
--   Frostdraw Unbounded \[Unlockable Talent, Frostdraw\] - You have gained the ability to surpass your limits and train your Frostdraw to its fullest. (+10 Health)
+-   Frostdraw Unbounded \[Mastery Talent, Frostdraw\] - You have gained the ability to surpass your limits and train your Frostdraw to its fullest. (+10 Health)
     -   Prerequisite: 75 Frostdraw
 
 ### Frostdrawer
 
--   Frostdrawer \[Unlockable Talent, Frostdraw\] - Grants you the ability to command Ice as a Frostdrawer.
+-   Frostdrawer \[Mantra Level Talent, Frostdraw\] - Grants you the ability to command Ice as a Frostdrawer.
     -   Obtained at 1 Frostdraw or from the Frostdraw trainer [Nell](Nell,_Master_of_Frost.md).
 
--   Adept Frostdrawer \[Unlockable Talent, Frostdraw\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
+-   Adept Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
     -   Obtained at 20 Frostdraw
 
--   Expert Frostdrawer \[Unlockable Talent, Frostdraw\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
+-   Expert Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 2-Star Leveled Frostdraw Mantras.
     -   Obtained at 30 Frostdraw
 
--   Master Frostdrawer \[Unlockable Talent, Frostdraw\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
+-   Master Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 3-Star Leveled Frostdraw Mantras. (+5 Health)
     -   Obtained at 50 Frostdraw
 
 -   Cold Front \[Common Talent, Frostdraw\] - Your vent is imbued with glacial frost.
@@ -1515,21 +1519,21 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Galebreathe Master
 
--   Galebreathe Unbounded \[Unlockable Talent, Galebreathe\] - You have gained the ability to surpass your limits and train your Galebreathe to its fullest. (+10 Health)
+-   Galebreathe Unbounded \[Mastery Talent, Galebreathe\] - You have gained the ability to surpass your limits and train your Galebreathe to its fullest. (+10 Health)
     -   Prerequisite: 75 Galebreathe
 
 ### Galebreather
 
--   Galebreather \[Unlockable Talent, Galebreathe\] - Grants you the ability to command wind as a Galebreather.
+-   Galebreather \[Mantra Level Talent, Galebreathe\] - Grants you the ability to command wind as a Galebreather.
     -   Obtained at 1 Galebreathe or from the Galebreathe trainer, [Friid](Friid,_Master_of_Gale.md).
 
--   Adept Galebreather \[Unlockable Talent, Galebreathe\] - You can now obtain 1-Star Leveled Galebreathe mantras.
+-   Adept Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 1-Star Leveled Galebreathe mantras.
     -   Obtained at 20 Galebreathe
 
--   Expert Galebreather \[Unlockable Talent, Galebreathe\] - You can now obtain 2-Star Leveled Galebreathe mantras.
+-   Expert Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 2-Star Leveled Galebreathe mantras.
     -   Obtained at 30 Galebreathe
 
--   Master Galebreather \[Unlockable Talent, Galebreathe\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+5 Health)
+-   Master Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 3-Star Leveled Galebreathe mantras. (+5 Health)
     -   Obtained at 50 Galebreathe
 
 ### Galeforce
@@ -1590,7 +1594,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 ### Great Wall
 
--   Fortitude Unbounded \[Unlockable Talent, Fortitude\] - You have gained the ability to surpass your limits and train your fortitude to its fullest.
+-   Fortitude Unbounded \[Mastery Talent, Fortitude\] - You have gained the ability to surpass your limits and train your fortitude to its fullest.
     -   Prerequisites: 75 Fortitude, speak to [Brutus](Brutus.md)
 
 ### Gunslinger
@@ -1845,7 +1849,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of Iron](Vow_of_Iron.md) gamemode, you will additionally gain the [Vow of Iron exclusive Aspect Talents](#innate-vow-of-iron) from your respective Aspect.
 
--   _Chitin_ \[[Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
+-   _Chitin_ \[Race Talent, [Vesperian](Vesperian.md) Exclusive\] - You have a layer of Natural Armor that replenishes when you rest.
     -   Grants 5% damage reduction in the form of Natural Armor.
     -   Chitin has 215 durability at power 1, scaling up to 500 durability at power 20.
     -   Chitin's damage reduction stacks multiplicatively with the Exoskeleton Talent, up to a maximum of 14.5% physical resistance.
@@ -1855,63 +1859,63 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
     -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.
 
--   _Deepfolk_ \[[Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.
+-   _Deepfolk_ \[Race Talent, [Ganymede](Ganymede.md) Exclusive\] - The secrets of the Deep are easier for you to unravel. Your mind is sturdier against its effects, as well as using less Knowledge in Knowledge exchanges.
     -   1.2x Sanity gain multiplier. You require 1 less Knowledge when making deals with [Deep Shrines](Deep_Shrines.md) (Knowledge cost can't go below 1).
 
--   _Feathered Glider_ \[[Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
+-   _Feathered Glider_ \[Race Talent, [Tiran](Tiran.md) Exclusive\] - As a show of independence when they come of age, Tirans will strike out on their own with just their hand-crated glider, gliding down from the mountain peaks where they make their homes. You take 10% less fall damage.
     -   Tirans gain Feathered Glider, a [Glider](Gliders.md) with infinite durability. The glider changes color depending on the Aspect variant, and can be [dyed](Dye_Packet.md).
     -   When using the Glider hotkey, regular and Sharkscale [Gliders](Gliders.md) will take priority over the Feathered Glider. You must use all of the durability in your other Gliders if you want to deploy the Feathered Glider with the hotkey.
 
--   _Echolocator_ \[[Kiron](Kiron.md) Exclusive\] - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
+-   _Echolocator_ \[Race Talent, [Kiron](Kiron.md) Exclusive\] - Your highly tuned hearing helps you navigate, seeing better in the dark and sensing potential threats.
     -   Pings the location of nearby players who unsheathe their weapons (even through [Tacet](Murmur%253A_Tacet.md) and Lowstride) and event spawns.
 
--   _Loyalty_ \[[Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
+-   _Loyalty_ \[Race Talent, [Canor](Canor.md) Exclusive\] - Your bond with your allies is strong enough to reduce damage between you.
     -   Allies take 35% less damage from you and deal 35% less damage to you. This can stack with the Give and Take Talent, totaling to 48% damage reduction.
     -   This does not apply to self damage.
 
--   _Mark of Jurik_ \[Jurik and Hallowtide [Capra](Capra.md) Variants Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
+-   _Mark of Jurik_ \[Race Talent, Jurik and Hallowtide [Capra](Capra.md) Variants Exclusive\] - Mark of Jurik, the Moonseye. A beacon of calm, those in your presence are resistant to insanity.
     -   Gain a tool that lowers the sanity drain of nearby players. Also buffs effected players' HP regen and slightly buffs their food & thirst replenishment from consuming food and their blood regen. 4m CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Does not require you to be resting at a campfire.
 
--   _Mark of Ku_ \[Ku [Capra](Capra.md) Variant Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
+-   _Mark of Ku_ \[Race Talent, Ku [Capra](Capra.md) Variant Exclusive\] - Mark of Ku, the Mother. Improves the rest of those in your presence.
     -   Gain a tool that buffs the blood regen of nearby players. Also buffs the effected players' HP regen and slightly buffs their sanity and their food & thirst replenishment from consuming food. 3m 30s CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Can only be used while you are resting on a campfire.
 
--   _Mark of Nemit_ \[Nemit [Capra](Capra.md) Variant Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
+-   _Mark of Nemit_ \[Race Talent, Nemit [Capra](Capra.md) Variant Exclusive\] - Mark of Nemit, the First Beast. Food consumed in your presence is more nourishing.
     -   Gain a tool that buffs the food and thirst replenishment of nearby players. Also buffs the effected players' HP regen and slightly buffs their blood regen and sanity. 3m 30s CD.
         -   These buffs last 1 minute, the HP regen is 15% of their total HP over that one minute period, healing 0.25% HP per second.
         -   Also buffs non allies. Can only be used while you are resting on a campfire.
 
--   _Maudet_ \[[Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
+-   _Maudet_ \[Race Talent, [Adret](Adret.md) Exclusive\] - Your understanding of your destiny is such that learning new things often comes naturally to you. People appreciate your diplomatic ways of speaking.
     -   Passively obtain the benefits of the [Autodidact](Boons_and_Flaws.md#autodidact) Boon, gaining 3 Free Training Attribute points to spend every level. This effect stacks with the Boon in question.
     -   Increases [reputation](Reputation.md) gain with factions.
 
--   _Molt_ \[[Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
+-   _Molt_ \[Race Talent, [Etrean](Etrean.md) Exclusive\] - Ailments and blessings alike fade away more quickly.
     -   Status effects, good or bad, have a shorter duration.
     -   Only works on Chilled, Potions, and Suffocation.
 
--   _Mothwing Dust_ \[[Chrysid](Chrysid.md) Exclusive\] - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
+-   _Mothwing Dust_ \[Race Talent, [Chrysid](Chrysid.md) Exclusive\] - You release Mothwing Dust when others are the first to strike, granting you vision of your attacker. Your antennae improve your peripheral senses, narrowing the angle at which you can be backstabbed.
     -   When you are hit at the start of combat, the player who hit you will be highlighted with a translucent red outline. This effect lasts 10 seconds.
     -   The angle at which you can be backstabbed is reduced heavily.
 
--   _Navae's Guidance_ \[[Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
+-   _Navae's Guidance_ \[Race Talent, [Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
     -   Receive a compass, displayed at the top of your screen, which points East.
     -   Right clicking on the map will place a waypoint both in the physical world and on the map itself, your compass will point towards this waypoint.
     -   Lower the passive hunger decay.
     -   If you have the [Blind](Boons_and_Flaws.md#flaws) flaw, gain an area of vision around your character.
 
--   _Nightchild_ \[[Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
+-   _Nightchild_ \[Race Talent, [Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
     -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
 
--   _Seaborne_ \[[Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
+-   _Seaborne_ \[Race Talent, [Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
     -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
 
--   _Teachings of the Edenkite_ \[[Drakkard](Drakkard.md), [Pathfinder](Pathfinder.md) Exclusive\] - Find your centre.
+-   _Teachings of the Edenkite_ \[Race Talent, [Drakkard](Drakkard.md), [Pathfinder](Pathfinder.md) Exclusive\] - Find your centre.
     -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.
 
--   _Versatile_ \[[Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
+-   _Versatile_ \[Race Talent, [Khan](Khan.md) Exclusive\] - You learn how to use new pieces of equipment quicker than others. You can equip things at 3 points lower than the requirement.
     -   This does not work on [Power](Power.md) requirements.
     -   This works for both [Equipment](Equipment.md) and [Weapon](Weapons.md) requirements.
     -   Versatile lowers all requirements on things with more than one, so a 72 Galebreathe 37 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
@@ -1970,23 +1974,23 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Ironsing Master
 
--   Ironsing Unbounded \[Unlockable Talent, Ironsing\] - You have gained the ability to surpass your limits and train your Ironsing to its fullest. (+10 Health)
+-   Ironsing Unbounded \[Mastery Talent, Ironsing\] - You have gained the ability to surpass your limits and train your Ironsing to its fullest. (+10 Health)
     -   Prerequisite: 75 Ironsing
 
 ### Ironsinger
 
--   Ironsinger \[Unlockable Talent, Ironsing\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
+-   Ironsinger \[Mantra Level Talent, Ironsing\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
     -   Ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods, 5 rods limit on default path.
     -   Rod pull's keybind can be configured in settings.
     -   Obtained at 1 Ironsing or from the Ironsing trainer [Adar](Adar,_Master_of_Metal.md).
 
--   Adept Ironsinger \[Unlockable Talent, Ironsing\] - You can now obtain 1-star Ironsinger mantras.
+-   Adept Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 1-star Ironsinger mantras.
     -   Obtained at 20 Ironsing
 
--   Expert Ironsinger \[Unlockable Talent, Ironsing\] - You can now obtain 2-star Ironsinger mantras.
+-   Expert Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 2-star Ironsinger mantras.
     -   Obtained at 30 Ironsing
 
--   Master Ironsinger \[Unlockable Talent, Ironsing\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
+-   Master Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 3-star Ironsinger mantras. (+5 Health)
     -   Obtained at 50 Ironsing
 
 -   _**Alloyblood**_ \[Advanced Talent, Ironsing\] - You don't bleed like others do. Bleed damage reduced by 30%. Blood loss is reduced by 75%.
@@ -2049,21 +2053,21 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   [**Oath: Jetstriker**](Oath%253A_Jetstriker.md) - You vow to flow with the Song itself, drifting across where the trails may take you. If the Song permeates everything, then let it be your conduit, and you its master. (+1 Wildcard Mantra Slot, +1 Mobility Mantra Slot, +8 Passive Agility)
     -   Prerequisites: 50 Agility, beat [Alirian](Alirian.md) in a race.
 
--   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum.
+-   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
+-   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Jetstream Pursuit \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
+-   Jetstream Pursuit \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
     -   When proccing on non-humanoid NPCs, sends you to the center of the NPC's hitbox.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Rush of Ancients \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
+-   Rush of Ancients \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Dashing at maximum sprint momentum makes you one with the wind itself. (+4 Passive Agility)
     -   Extends your dash distance and makes you invisible for a very brief duration when you dash.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md) Exclusive\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
+-   Stratos Step \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Holding space while climbing will now let your perform Stratos Steps to get even higher. (+5 Health, +3 Passive Agility)
     -   Stratos Steps will only proc twice before going on a cooldown. Said cooldown applies to individual steps. Additionally, Stratos Step consumes Ether per step.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
@@ -2252,7 +2256,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   [**Oath: Linkstrider**](Oath%253A_Linkstrider.md) - You vow to give up your own life for the sake of others. Stepping out of the fray, you become a foundation of your allies' strength. (+1 Wildcard Mantra Slot, +2 Support Mantra Slots)
     -   Prerequisites: Sacrifice 4 players with Oaths OR 4 [Scarlet Lotuses](Pristine_Lotus.md) in [The Entropy Catalyst](The_Entropy_Catalyst.md).
 
--   Entropy Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
+-   Entropy Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md)\] - The world is broken, linked by fragile webs. Traverse the path by stating your destination amidst the flame.
     -   You are able to fast travel to certain places while resting at a campfire. Locations are unlocked by interacting with special meteorites that are scattered around the map. By sitting at a campfire and typing out the name of the desired meteorite, you will be transported directly to it.
     -   You can carry objects and people during teleportation. If you are carrying a player, take caution, as there is a high rate of failure (due to overall bugginess).
     -   Six meteorites can be located throughout the overworld:
@@ -2266,7 +2270,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
             -   **Pallas** (On the small bit of land by the [Miner's Landing](<Miner's_Landing.md>)'s Sea Highway)
     -   Prerequisites: [Oath: Linkstrider](Oath%253A_Linkstrider.md), Kill 1 player with an [Oath](Oaths.md) OR speak to [The Entropy Catalyst](The_Entropy_Catalyst.md) and spend 10 to instantly progress your Oath (requires you to have fully progressed Linkstrider previously).
 
--   Symbiotic Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md) Exclusive\] - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
+-   Symbiotic Link \[Oath Talent, [Linkstrider](Oath%253A_Linkstrider.md)\] - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
     -   Blue Cords (Allies) gain a speed boost, 20% damage resistance, and a 5% damage increase.
     -   Red Cords (Enemies) gain a minor speed debuff.
     -   This ability only can be used to a humanoid npcs and players.
@@ -2345,7 +2349,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Merchant
 
--   Art of the Deal \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your rapport with merchants gives you lower prices!
+-   Art of the Deal \[Common Talent, [Equipment](Equipment.md)\] - Your rapport with merchants gives you lower prices!
     -   Reduces an item's purchase price by 10%.
     -   Obtained by equipping an [Aristocrat Coat](Aristocrat_Coat.md).
 
@@ -2385,7 +2389,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Ministry Prophet
 
--   Already Dead \[Common Talent, [Equipment](Equipment.md) Exclusive\] - You take reduced damage from abilities with a health cost.
+-   Already Dead \[Common Talent, [Equipment](Equipment.md)\] - You take reduced damage from abilities with a health cost.
     -   Removes [Deepspindle](Deepspindle.md) running critical self-damage.
     -   Reduces the self damage from [Shade Devour](Shadowcast.md#shade-devour), Flame Within (on cast, NOT the burn ticks), Rush Hour, Shadow Travel, and Electrify.
     -   Lowers self damage from the Poison (HP drain) Corrupted [Resonance](Resonance.md#corrupted-resonances) downside by ~1%.
@@ -2393,7 +2397,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Lower the Wither application from [Symbiotic Sustain](Oath%253A_Linkstrider.md) to 5%
     -   Obtained from: [Deepscorn Casque](Deepscorn_Casque.md)
 
--   Withering Soul \[Common Talent, [Outfit](Outfits.md) Exclusive\] - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
+-   Withering Soul \[Common Talent, [Outfit](Outfits.md)\] - Your Basic Attacks proc 12.5% of their damage as Wither. Wielding the [Deepspindle](Deepspindle.md) or [Umbrite Witherblade](Umbrite_Witherblade.md) will double the amount to 25%.
     -   The Wither applied is based off your weapon's scaled damage.
     -   Obtained from: [Darkened Bastion](Darkened_Bastion.md)
 
@@ -2424,7 +2428,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Mr Charm
 
--   Charisma Unbounded \[Unlockable Talent, Charisma\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
+-   Charisma Unbounded \[Mastery Talent, Charisma\] - You have gained the ability to surpass your limits and train your charisma to its fullest.
     -   Prerequisite: 75 Charisma
 
 ### [Murmur](Murmur.md)
@@ -2796,7 +2800,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Sage of Wisps
 
--   _**Chorus of Souls**_ \[Advanced Talent, [Oathless](Oath%253A_Oathless.md) Exclusive\] - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
+-   _**Chorus of Souls**_ \[Advanced Talent, [Oathless](Oath%253A_Oathless.md)\] - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
     -   Grants heavily increased health regeneration if you have all Wisps active.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will stop proccing until you recast the Wisp.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
@@ -2805,20 +2809,20 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Allows the player to summon one of each Wisp at the same time.
     -   Prerequisites: Attunement Wisp mantra, 25 Element (25 in any Attunement)
 
--   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md) Exclusive\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
+-   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md)\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
     -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will stop proccing until you recast the Wisp.
     -   Your basic attacks will apply Burn, Shock, Chill, Winded, Shadow, Metal Rods, and Blood Poison all at once.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
 
 ### Saint of Blades
 
--   Heavy Weapons Unbounded \[Unlockable Talent, Heavy Weapon\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
+-   Heavy Weapons Unbounded \[Mastery Talent, Heavy Weapon\] - You have gained the ability to surpass your limits and train your Heavy Weapons attribute to its fullest.
     -   Prerequisite: 75 Heavy Weapon
 
--   Light Weapons Unbounded \[Unlockable Talent, Light Weapon\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
+-   Light Weapons Unbounded \[Mastery Talent, Light Weapon\] - You have gained the ability to surpass your limits and train your Light Weapons attribute to its fullest.
     -   Prerequisite: 75 Light Weapon
 
--   Medium Weapons Unbounded \[Unlockable Talent, Medium Weapon\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
+-   Medium Weapons Unbounded \[Mastery Talent, Medium Weapon\] - You have gained the ability to surpass your limits and train your Medium Weapons attribute to its fullest.
     -   Prerequisite: 75 Medium Weapon
 
 ### Saintsworn
@@ -2827,13 +2831,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 15 Flamecharm, 15 Galebreathe, 15 Shadowcast, 15 Frostdraw, 15 Thundercall, resonate with all of the Attunement obelisks in any order.
         -   The Flamecharm obelisk is at [Saramaed Summit](Saramaed_Summit.md), the Galebreathe obelisk is at [The Garden Reservoir](The_Garden_Reservoir.md), the Shadowcast obelisk is at [Moon's Eyrie](<Moon's_Eyrie.md>), the Frostdraw obelisk is atop the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), and the Thundercall obelisk is at [Boatman's Watch](<Boatman's_Watch.md>). See the [Saintsworn](Oath%253A_Saintsworn.md) page for more info.
 
--   Ether Proselyte \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md) Exclusive\] - All of your Elemental Mantras below Lv. 5 are now 1 level higher. Your Mantras are now converted to the element of your current stance.
+-   Ether Proselyte \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - All of your Elemental Mantras below Lv. 5 are now 1 level higher. Your Mantras are now converted to the element of your current stance.
     -   Increases the level of all Attuned Mantras by 1 unless they are already level 5.
     -   Allows your Attuned Mantras to proc the Attunement Talents of your current Saint Stance. (E.g. Clutching Shadow in the Flamecharm Stance can proc Scorched Peak, creating a lightning strike if you guard break with this Mantra.)
         -   Not all Attuned Talents are eligible to proc Ether Proselyte. More info as to what does and doesn't work is on the [Saintsworn](Oath%253A_Saintsworn.md) page.
     -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
 
--   Hero's Assist \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md) Exclusive\] - Heroes come to your aid based on your current stance.
+-   Hero's Assist \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - Heroes come to your aid based on your current stance.
     -   Hero's Assist summons the past heroes of the attunements themselves to aid you in battle. You can spawn heroes independent of your current Saint Stance.
     -   This passive ability works **once** per Saint Stance, requiring you to cycle to the next one to reactivate.
     -   **Flamecharm**: Upon flourishing an enemy, set down 3 deadly eruptions in the direction of the flourish, each of which **innately** proc the talent **The Floor is Lava**.
@@ -2844,18 +2848,18 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   The damage buff is currently bugged and does not work, meaning this does nothing but nerf your mantra.
     -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
 
--   Saint's Negation \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md) Exclusive\] - Once per stance cycle you can fully block an attack that matches your Saint Stance.
+-   Saint's Negation \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - Once per stance cycle you can fully block an attack that matches your Saint Stance.
     -   Allows you to fully negate the damage of one attack that has a damage type that corresponds with your current Saint Stance.
     -   Can only proc once per **full cycle**, meaning you'll have to fully cycle through all of the Stances before you can proc it again.
     -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
 
--   Saint's Overload \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md) Exclusive\] - After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers increased by 10%.
+-   Saint's Overload \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - After a full rotation of stances your elemental scaling is increased by 15% and Mantra Modifiers increased by 10%.
     -   Increases your Attunement investment scaling by 15% and the effects of your Mantra modifiers by 10% for a few seconds after preforming a **full rotation** of Saint stances. You'll need to fully cycle through all of the Stances before you can proc this effect again.
     -   Acts similarly to [Songchant](Traits.md#songchant) in the sense that it increases the effectiveness of your investment.
     -   Turns your Saintsblade and the Saintsworn Oath cosmetic (the swords on your back) white on proc.
     -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
 
--   Saint's Synergy \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md) Exclusive\] - 15% of your highest element scaling is applied to other elemental damage.
+-   Saint's Synergy \[Oath Talent, [Saintsworn](Oath%253A_Saintsworn.md)\] - 15% of your highest element scaling is applied to other elemental damage.
     -   15% of the investment scaling from your highest Attuned stat is added to your other Attuned Mantras, granting them slight dual scaling.
     -   Prerequisites: [Oath: Saintsworn](Oath%253A_Saintsworn.md), Defeat [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) or [Interluminary Parasol](Interluminary_Parasol.md) twice OR speak to any Attunement Obelisk while having at least 10, the Obelisk will consume 10 Knowledge and instantly fully progress your Oath (can only be done if you've previously fully progressed Saintsworn).
 
@@ -2864,7 +2868,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   [**Oath: Saltchemist**](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
     -   Prerequisites: 75 Intelligence, complete [Ciea](Ciea.md)'s quest once.
 
--   Perpetual Distillery \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive\] - Upon clicking the Distillery Talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
+-   Perpetual Distillery \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md)\] - Upon clicking the Distillery Talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
     -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
     -   Drink potions place other drink slots on a cooldown if they share buffs.
     -   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**
@@ -2872,14 +2876,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Upon casting [Lethal Injection](Oath%253A_Saltchemist.md), all potions in your Distillery will be used at once unless they're on cooldown.
     -   Prerequisite: [Oath: Saltchemist](Oath%253A_Saltchemist.md)
 
--   Antithetic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive\] - Alter your brews to invert their effects. Does not count towards the ingredient limit.
+-   Antithetic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md)\] - Alter your brews to invert their effects. Does not count towards the ingredient limit.
     -   Gives you a Talent tool-like ability that acts as a potion ingredient on use.
     -   When applied to your potions, it reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
     -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent.
     -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), [craft](Crafting_Recipes.md) 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
         -   Oath Skipping Saltchemist is generally not recommended due to how easy it is to get the materials needed for the craft.
 
--   Aromatic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive\] - Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
+-   Aromatic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md)\] - Alter your brews to create lingering clouds of mist on shattering. Does not count towards the ingredient limit.
     -   Gives you a Talent tool-like ability that acts as a potion ingredient on use.
     -   Each "hit" of the mist count as a potion application, triggering the enhanced potion effects from Chain Reaction.
     -   Lasts for roughly 10 seconds.
@@ -2887,7 +2891,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), [craft](Crafting_Recipes.md) 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
         -   Oath Skipping Saltchemist is generally not recommended due to how easy it is to get the materials needed for the craft.
 
--   Biotic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md) Exclusive\] - Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
+-   Biotic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md)\] - Alter your brews to not provide their positive effects to your enemies. Does not count towards the ingredient limit.
     -   Gives you a Talent tool-like ability that acts as a potion ingredient on use.
     -   Biotic Salts half negative effects of potions for allies, and positive effects for enemies.
     -   This should be used in every potion possible, as it has no downsides whatsoever.
@@ -3015,21 +3019,21 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Shadowcast Master
 
--   Shadowcast Unbounded \[Unlockable Talent, Shadowcast\] - You have gained the ability to surpass your limits and train your Shadowcast to its fullest. (+10 Health)
+-   Shadowcast Unbounded \[Mastery Talent, Shadowcast\] - You have gained the ability to surpass your limits and train your Shadowcast to its fullest. (+10 Health)
     -   Prerequisite: 75 Shadowcast
 
 ### Shadowcaster
 
--   Shadowcaster \[Unlockable Talent, Shadowcast\] - Grants you the ability to command shadows as a Shadowcaster.
+-   Shadowcaster \[Mantra Level Talent, Shadowcast\] - Grants you the ability to command shadows as a Shadowcaster.
     -   Obtained at 1 Shadowcast or from the Shadowcast trainer [Nostor](Nostor,_Master_of_Shadow.md).
 
--   Adept Shadowcaster \[Unlockable Talent, Shadowcast\] - You can now obtain 1-star Leveled Shadowcaster Mantras.
+-   Adept Shadowcaster \[Mantra Level Talent, Shadowcast\] - You can now obtain 1-star Leveled Shadowcaster Mantras.
     -   Obtained at 20 Shadowcast
 
--   Expert Shadowcaster \[Unlockable Talent, Shadowcast\] - You can now obtain 2-star Leveled Shadowcaster Mantras.
+-   Expert Shadowcaster \[Mantra Level Talent, Shadowcast\] - You can now obtain 2-star Leveled Shadowcaster Mantras.
     -   Obtained at 30 Shadowcast
 
--   Master Shadowcaster \[Unlockable Talent, Shadowcast\] - You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)
+-   Master Shadowcaster \[Mantra Level Talent, Shadowcast\] - You can now obtain 3-star Leveled Shadowcaster Mantras. (+5 Health)
     -   Obtained at 50 Shadowcast
 
 -   Blossoming Darkness \[Common Talent, Shadowcast\] - The more Ether you drain during Shadow Roar, the bigger it gets.
@@ -3128,16 +3132,16 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
     -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
--   Ankle Cutter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
+-   Ankle Cutter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
     -   Deals fixed damage with innate bleed.
     -   Attack speed scales on your weapon's swingspeed stat.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Dread Fighter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
+-   Dread Fighter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
     -   Stacks of dread are represented as a halo that grows from your chest. Each stack makes the halo larger and adds 5% Mantra resistance. Stacks up to 5 times for 25% Mantra resistance.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Flow State \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
+-   Flow State \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Enter a moment of extreme focus in which you can change the windup of your special attacks with the correct timing.
     -   Grants a Talent tool that when used just before using a Silentheart move, it will modify the base behavior of the move.
     -   Increases the damage of most Silentheart moves.
     -   Mayhem variants autogrip when buffed with Flow State.
@@ -3145,18 +3149,18 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Active for 2 seconds. 15s CD, landing a Flow State-enhanced Silentheart ability refreshes Flow State's cooldown.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Mayhem \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Initiate a special dash attack by pressing M1 during the start of your dodge.
+-   Mayhem \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Initiate a special dash attack by pressing M1 during the start of your dodge.
     -   Movesets and damage differ depending on the weapon type; Light, Medium, or Heavy.
     -   11s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
     -   Capable of auto-gripping with Flow State active.
     -   Can proc your weapon's [Enchantment](Enchantments.md), putting Silentheart Enchant procs on cooldown for 30 seconds.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Merciless Blade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - You can now execute enemies much faster.
+-   Merciless Blade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - You can now execute enemies much faster.
     -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds).
     -   Prerequisite: [Oath: Silentheart](Oath%253A_Silentheart.md)
 
--   Relentless Hunt \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - M1 while doing an Aerial Attack to initiate a special gap closer attack.
+-   Relentless Hunt \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - M1 while doing an Aerial Attack to initiate a special gap closer attack.
     -   Movesets differ depending on the weapon type; Light, Medium, or Heavy.
     -   11s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
     -   Has faster windup with Flow State active. Useful for mixups.
@@ -3164,7 +3168,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Can proc your weapon's [Enchantment](Enchantments.md), putting Silentheart Enchant procs on cooldown for 30 seconds.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Rising Star \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Press CTRL + M2 to activate a special uppercut attack.
+-   Rising Star \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Press CTRL + M2 to activate a special uppercut attack.
     -   Instead of being binded to M2, it's actually binded to your feint key. Meaning if you've changed your Feint keybind off M2, M2 will no longer proc Rising Star.
     -   Procs all "on uppercut" Talents.
     -   Movesets and damage differ depending on the weapon type; Light, Medium, or Heavy.
@@ -3172,23 +3176,23 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   12s CD per **weapon type**, meaning if you swap weapon types you can use multiple different versions of Rising Star back to back.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Silent Cascade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released with CTRL + M2.
+-   Silent Cascade \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Landing physical attacks on an opponent charges up your Silent Cascade, a devastating barrage that can be released with CTRL + M2.
     -   Landing 8 weapon attacks or Silentheart abilities will grant the Silent Cascade status effect for 30 seconds.
     -   Your next uppercut while you have the Silent Cascade status effect will perform the Silent Cascade attack.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   True Vantage \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
+-   True Vantage \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Successfully landing a Vent briefly gives you invisibility, along with giving a speed boost.
     -   Changes your Vent color to align with your Oath Cosmetic color. Can be [dyed](Dye_Packet.md).
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Unmatched Dexterity \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Press X to Quick Swap between weapons within your toolbar.
+-   Unmatched Dexterity \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Press X to Quick Swap between weapons within your toolbar.
     -   This keybind can be changed in settings.
     -   Selects a random weapon on your hotbar to equip.
     -   Works on offhand weapons.
     -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
--   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md) Exclusive\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
+-   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
     -   Base damage and scaling depend on your current weapon's type; Light, Medium, or Heavy.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once)
 
@@ -3238,7 +3242,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
     -   To progress the Oath, make a deal with any with any [deep shrine](Deep_Shrines.md) that costs Knowledge.
 
--   Soul Infusion \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
+-   Soul Infusion \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md)\] - Infuse Ardour into your executions. If your execute is interrupted, the opponent remains down for a longer amount of time. Your Ardour Screams are projected further.
     -   Reduces Ardour Scream's minimum Ether to cast from 100% ether to 40%. It will still drain all of your Ether however.
     -   You automatically use Ardour Scream for free upon finishing an execution.
     -   Grants a unique visual and sound effect to your Ardour Scream and massively increases its range.
@@ -3246,7 +3250,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   You perform grips much faster and have a unique grip animation. The grip animation approximately takes 1.8 seconds to complete, which is even faster than using [Reaper](Blood_Scourge.md).
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
--   Formless \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
+-   Formless \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md)\] - Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
     -   Grants a Talent tool that activates Formless on cast. After an animation and a fairly long delay, you will teleport to your cursor's location. Cannot teleport yourself outside of the range of your Tacet bubble.
     -   Formless can only be used during Tacet, and will end your Tacet upon successful teleport.
     -   Formless costs ~50 Ether and has a 5 second cooldown. The Ether cost seems to be somewhat inconsistent.
@@ -3255,7 +3259,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Outside of Tacet's innate cooldown, the speed boost for activating it has no cooldown.
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
--   Heart Reverb \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md) Exclusive\] - Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
+-   Heart Reverb \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md)\] - Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
     -   After activating Rhythm, it won't deactivate unless manually toggled or if you get hit.
     -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. This has an unknown cooldown. This highlight can be seen through walls and can detect players from very far away, even further than your Rhythm range.
     -   When someone would dodge through one of your attacks, their health and posture will be shown in text as a percentage.
@@ -3294,7 +3298,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Spoils of Enmity
 
--   Heartwing Beat \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
+-   Heartwing Beat \[Common Talent, [Equipment](Equipment.md)\] - Your heart beats a new rhythm, as your aerial attack takes on a new manifestation.
     -   Replaces your aerial attack with a swooshing attack that applies wither and has innate bleed.
     -   You cannot use Air Counter or [Silentheart's Relentless Hunt](Oath%253A_Silentheart.md#abilities) unless this Talent is on cooldown.
     -   Heartwing Beat has a 6 second cooldown.
@@ -3305,13 +3309,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   [**Oath: Starkindred**](Oath%253A_Starkindred.md) - You vow to feel the knowledge of all that is, all at once. Your heart beats with the world itself, as the Stars above watch over you. (+8 Health, +2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
     -   Prerequisites: 40 Strength, 1 player grip, talk to Samael in the [Derelict Highchurch](Derelict_Highchurch.md) (Songseeker Wilds) and kill [Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md), then return to [Samael](Samael.md).
 
--   Death From Above \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
+-   Death From Above \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md)\] - Upon cancelling your Air Dash, reveal your wings and strike your enemy.
     -   Cancelling an Air Dash without your wings grows your wings without having to use any Starkindred Mantras.
     -   Cancelling an Air Dash with your wings out makes you perform three large slashes with your weapon.
     -   Deals moderate Slash damage and posture damage per hit.
     -   Prerequisites: [Oath: Starkindred](Oath%253A_Starkindred.md), kill all three sinners ([Abaddon](Abaddon,_Sinner_of_Ice.md), [Minos](Minos,_Sinner_of_Flame.md), and [Astaroth](Astaroth,_Sinner_of_Wind.md)) OR give [Samael](Samael.md) 10, instantly skipping Starkindred's progression (this can only be done if you've fully progressed the Oath at least once).
 
--   Ichor Imbuement \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md) Exclusive\] - Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.
+-   Ichor Imbuement \[Oath Talent, [Starkindred](Oath%253A_Starkindred.md)\] - Using a Starkindred mantra while your wings are not out increases the damage they deal by 2 times.
     -   Doubles the damage of your Starkindred Mantras if they are casted without your wings out.
     -   This Talent is extremely situational, as your wings will be equipped upon casting a Starkindred Mantra or using Death From Above, regardless of it hits or not, and there is no way to deactivate your wings once they are out.
     -   Prerequisites: [Oath: Starkindred](Oath%253A_Starkindred.md), kill two sinners (any combination of [Abaddon](Abaddon,_Sinner_of_Ice.md), [Minos](Minos,_Sinner_of_Flame.md), and [Astaroth](Astaroth,_Sinner_of_Wind.md)) OR give [Samael](Samael.md) 10, instantly skipping Starkindred's progression (this can only be done if you've fully progressed the Oath at least once).
@@ -3385,7 +3389,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Survivor
 
--   Winter's Protection \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
+-   Winter's Protection \[Common Talent, [Equipment](Equipment.md)\] - Your tightly-bound winter gear negates elemental damage buffs from weather on damage against you. Also seems to provide some resistance to the Gale.
     -   Increases the time it takes for the [Second Layer](Second_Layer.md)'s parasites to kill you.
     -   Negates damage buffs from weather:
         -   [Frostdraw](Frostdraw.md) will no longer apply its 5% damage buff during snow.
@@ -3408,7 +3412,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Sea Dog
 
--   Seamaster's Guile \[[Equipment](Equipment.md) Exclusive\] - While you're at the helm of a ship, it takes 25% less damage
+-   Seamaster's Guile \[[Equipment](Equipment.md)\] - While you're at the helm of a ship, it takes 25% less damage
     -   Your boat will take 25% less damage if the person piloting it has this Talent.
     -   Obtained from the [Seamaster's Cap](<Seamaster's_Cap.md>)
 
@@ -3462,7 +3466,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 25 Intelligence, 15 Charisma, Cooked 50 [Food](Food.md) items
         -   The food items must be cooked individually to count; bulk crafting will **not** count as multiple food items cooked. Additionally, any craftable food item works.
 
--   Umami \[Common Talent, [Equipment](Equipment.md) Exclusive\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
+-   Umami \[Common Talent, [Equipment](Equipment.md)\] - Feast on foes with mighty cutlery. Chef Weapons now steal opponents hunger.
     -   Has a 35% chance to proc with a 3 cooldown per **proc attempt**, going on cooldown even if it fails to proc.
     -   Hunger and thirst steal formula is as follows: 1.95 \* ln(D) + 1.075, where D = scaled damage dealt. A calculator is listed [here](https://www.desmos.com/calculator/yktgme7xnc).
     -   The hunger and thirst steal are NOT affected by damage modifiers or resistances, rather exclusively being based on scaled damage dealt.
@@ -3587,21 +3591,21 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Thundercall Master
 
--   Thundercall Unbounded \[Unlockable Talent, Thundercall\] - You have gained the ability to surpass your limits and train your Thundercall to its fullest. (+10 Health)
+-   Thundercall Unbounded \[Mastery Talent, Thundercall\] - You have gained the ability to surpass your limits and train your Thundercall to its fullest. (+10 Health)
     -   Prerequisite: 75 Thundercall
 
 ### Thundercaller
 
--   Thundercaller \[Unlockable Talent, Thundercall\] - Grants you the ability to command Lightning as a Thundercaller.
+-   Thundercaller \[Mantra Level Talent, Thundercall\] - Grants you the ability to command Lightning as a Thundercaller.
     -   Obtained at 1 Thundercall or from the Thundercall trainer [Funke](Funke,_Master_of_Thunder.md).
 
--   Adept Thundercaller \[Unlockable Talent, Thundercall\] - You can now obtain 1-star Thundercaller mantras.
+-   Adept Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 1-star Thundercaller mantras.
     -   Obtained at 20 Thundercall
 
--   Expert Thundercaller \[Unlockable Talent, Thundercall\] - You can now obtain 2-star Thundercaller mantras.
+-   Expert Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 2-star Thundercaller mantras.
     -   Obtained at 30 Thundercall
 
--   Master Thundercaller \[Unlockable Talent, Thundercall\] - You can now obtain 3-star Thundercaller mantras.
+-   Master Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 3-star Thundercaller mantras.
     -   Obtained at 50 Thundercall
 
 -   Discovery Of Fire \[Common Talent, Thundercall\] - Flints and Flamecharm are for simpletons.
@@ -3814,7 +3818,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Flashboil \[Common Talent, Dual Attunement, Flamecharm, Frostdraw\] - Landing Ice/fire attacks on burning/chilled enemies extinguishes the flame and generates steam.
     -   Dealing Frostdraw damage to a burning target or Flamecharm damage to a chilled target removes the burn and creates a _stationary_ steam cloud.
         -   The burn status effect doesn't count as "Flamecharm damage" for this Talent, meaning if you apply burn via Agitating Spark, Immolation, or some other non-Flamecharm damaging source to a chilled target, nothing will happen.
-    -   Steam clouds deal 2 damage per tick in an AoE at 6 ticks per second.
+    -   Steam clouds deal 2 typeless damage per tick in an AoE at 6 ticks per second. Has a DPS of 12.
     -   Steam clouds are unparryable, unblockable, and bypass armor resistances.
     -   Steam clouds last 5 seconds and have an internal proc cooldown **per target** of 5 seconds.
     -   This Talent is incredibly good for PvE in high mob density areas like [The Diluvian Mechanism](The_Diluvian_Mechanism.md) because of the AoE nature and long duration per cloud. Additionally, you can create a large amount of steam clouds at the same time by hitting multiple mobs at once.
@@ -3822,10 +3826,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Mutual Exclusives: Eruption Path: Lava Serpent, Glass Path: Crystallization, Wraith Path: Twisted Puppets
 
 -   Boiling Point \[Common Talent, Dual Attunement, Flamecharm, Frostdraw\] - Using a fire mantra near your own steam cloud detonates it.
-    -   Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 damage in an AoE.
-    -   Because this procs when the steam cloud is hit and not the player, even if your opponent parries your Mantra, it will still detonate your steam.
+    -   Landing a Flamecharm Mantra on one of your steam clouds causes the cloud to detonate, dealing 10 typeless damage in an AoE.
+    -   Because this procs when the steam cloud is hit and not the player, even if your opponent defends against your Mantra, it will still detonate your steam.
+    -   Landing a Flamecharm Mantra on a chilled opponent will instantly detonate the newly created steam cloud.
     -   Has a short delay which can throw players off.
-    -   Generally this Talent is not worth taking, as the steam itself will out damage it, and having a stage hazard can be quite useful.
     -   The detonation is unparryable, unblockable, and bypasses armor resistances.
     -   Prerequisites: Flashboil
 
@@ -3866,12 +3870,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   [**Oath: Visionshaper**](Oath%253A_Visionshaper.md) \[Oath Talent\] - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
     -   Prerequisites: 50 Charisma, complete [Aelita's Encounter](Aelita.md) or [Carnival of Hearts](Carnival_of_Hearts.md), bring a [Dark Feather](Dark_Feather.md) to [Surge](Surge.md)
 
--   Cheap Trick \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
+-   Cheap Trick \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md)\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
     -   Being hit while under half HP grants I-frames and turns you invisible for a very short duration. 60s CD.
     -   Knocking an opponent turns you invisible for 2.5 seconds with no I-frames.
     -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md#void-feather) to [Surge](Surge.md) OR pay Surge 10 to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
 
--   Reality Shift \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra.
+-   Reality Shift \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md)\] - Command the closest conjured servant to attack their hallucinating target, either using a Critical Attack or a Mantra.
     -   The last non-Oath mantra or critical attack you used before spawning your clones will be stored into the clone. The stored ability will be listed above the clone's head in white text with a purple outline.
     -   Pressing J (can be rebinded in settings) or utilizing the Reality Shift tool will make your clones use their stored ability.
     -   Clones created from Mirror Illusion or Illusory Counter's Reversal Spark will copy your opponent's last used critical or Mantra instead.
@@ -3880,7 +3884,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Clones will only copy the neutral or aerial criticals of weapons and cannot trigger any other alternate criticals such as running or sliding criticals.
     -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md#void-feather) to [Surge](Surge.md) OR pay Surge 10 to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
 
--   Shaper Mimicry \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md) Exclusive\] - The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
+-   Shaper Mimicry \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md)\] - The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
     -   Although it isn't listed in the Talent description, your clones will also Vent when you Vent.
         -   Your clones will still Vent even if you don't have enough Tempo.
     -   Prerequisites: [Oath: Visionshaper](Oath%253A_Visionshaper.md), turn in X [Void Feathers](Dark_Feather.md#void-feather) to [Surge](Surge.md) OR pay Surge 10 to skip Visionshaper's progression (requires you to have fully progressed the Oath previously).
@@ -3967,7 +3971,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Windrunner
 
--   Agility Unbounded \[Unlockable Talent, Agility\] - You have gained the ability to surpass your limits and train your agility to its fullest.
+-   Agility Unbounded \[Mastery Talent, Agility\] - You have gained the ability to surpass your limits and train your agility to its fullest.
     -   Prerequisite: 75 Agility
 
 ### Withered Flame
@@ -4516,15 +4520,6 @@ Certain Talents cannot be obtained through Roll 2, as they come with significant
 
 Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These exclusive Talents will be listed here by category, in alphabetical order. Keep in mind that many of the non-Vow of Iron exclusive Talents are still obtainable in this gamemode, but they will not be listed in this section.
 
-### Bastion
-
--   _Scales of The Edenkite_ \[[Drakkard](Drakkard.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In order to resolve conflict in Lumen, you need to be able to handle any situation thrown at you. Activate your Scales to reduce all damage taken by 80% and de-aggro enemies briefly. \[3 minute CD\]
-    
-    -   Gives a Talent Tool.
-    -   The buff lasts 5 seconds.
-    -   The deaggro effect barely works, as enemies are very likely to reaggro immediately.
-    -   The Talent tool's description states that it grants 90% damage reduction with a 5 minute cooldown, but this is **false**.
-
 ### Berserker
 
 -   Residual Fury \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In Berserk State Landing your critical grants +50% PEN on Basic Attacks for 8s.
@@ -4586,7 +4581,7 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 ### Chaotic Moon
 
--   Blessing of the Moonseye \[[Vow of Iron](Vow_of_Iron.md) Exclusive\] - The Moonseye is not one eye, but many. All of them watch you. All of them know of your sins.
+-   Blessing of the Moonseye \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - The Moonseye is not one eye, but many. All of them watch you. All of them know of your sins.
     
     -   Upon obtaining this Talent, you will lose **all** of your [Sanity](Insanity.md) **permanently**.
     -   Defeating the [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>), [Dravik, The Rat King](Dravik,_The_Rat_King.md), and [True Heart of Enmity](True_Heart_of_Enmity.md) while having this Talent will unlock the [Prince of the Moon](Prince_of_the_Moon.md) Memento.
@@ -4746,53 +4741,60 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 Talents granted from your [Aspect](Aspects.md). You will additionally gain the [default Aspect Talents](#innate) from your respective Aspect.
 
--   _Ad Astra_ \[[Lightborn](Lightborn.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Return home.
+-   _Ad Astra_ \[Race Talent, [Lightborn](Lightborn.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Return home.
     
     -   Grants a Talent tool that takes you to the [Floating Keep](The_Floating_Keep.md) on use. If the player is already at the Floating Keep, then it will return them to their original location instead.
 
--   _Hardened Shell_ \[[Vesperian](Vesperian.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Natural Armor grows sturdier, being able to take more hits before breaking.
+-   _Hardened Shell_ \[Race Talent, [Vesperian](Vesperian.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Natural Armor grows sturdier, being able to take more hits before breaking.
     
     -   Gives a flat amount of armor durability to your Natural Armor.
 
--   _Steady Mind_ \[[Ganymede](Ganymede.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.
+-   _Steady Mind_ \[Race Talent, [Ganymede](Ganymede.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Despite the finality of your mind and body succumbing to the effects of the depths, you manage to ward it off for a little longer.
     
     -   You can spend more time in [The Depths](<The_Depths_(Vow_of_Iron).md>) before gaining [Afflictions](<The_Depths_(Vow_of_Iron).md#afflictions>).
 
--   _Glide Mastery_ \[[Tiran](Tiran.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Experience using the glider you crafted results in you being able to glide faster in the air. You've also trained to quickly pull it out in dire situations, resulting in you no longer taking fall damage.
+-   _Glide Mastery_ \[Race Talent, [Tiran](Tiran.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Experience using the glider you crafted results in you being able to glide faster in the air. You've also trained to quickly pull it out in dire situations, resulting in you no longer taking fall damage.
     
     -   Increases glide speed and grants full fall damage immunity.
 
--   _Acute Hearing_ \[[Kiron](Kiron.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - After years of using Echolocation, you've trained your ears to sense danger from even further away. You are also able to sense when someone completes a job.
+-   _Acute Hearing_ \[Race Talent, [Kiron](Kiron.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - After years of using Echolocation, you've trained your ears to sense danger from even further away. You are also able to sense when someone completes a job.
     
     -   Plays a sound effect whenever Echolocation procs.
 
--   _From The Ashes_ \[[Heliodar](Heliodar.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Using an [Etris Flask](Etris_Flask.md) when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds.
+-   _From The Ashes_ \[Race Talent, [Heliodar](Heliodar.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Using an [Etris Flask](Etris_Flask.md) when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds.
 
--   _Lone Wolf_ \[[Canor](Canor.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Despite the loyalty of your allies, you recognize that you sometimes need to hunt alone. Deal more damage to targets who are only combat tagged by you.
+-   _Lone Wolf_ \[Race Talent, [Canor](Canor.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Despite the loyalty of your allies, you recognize that you sometimes need to hunt alone. Deal more damage to targets who are only combat tagged by you.
 
--   _Scholar's Mark_ \[[Capra](Capra.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You now are able to inflict yourself with a Mark. The duration of this scales with how many people you inflict with the effect as well.
+-   _Scales of The Edenkite_ \[Race Talent, [Drakkard](Drakkard.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - In order to resolve conflict in Lumen, you need to be able to handle any situation thrown at you. Activate your Scales to reduce all damage taken by 80% and de-aggro enemies briefly. \[3 minute CD\]
+    
+    -   Gives a Talent Tool.
+    -   The buff lasts 5 seconds.
+    -   The deaggro effect is extremely ineffective, as enemies are very likely to reaggro as soon as the effect ends. Additionally, it does not work against bosses or in Depths trials.
+    -   The Talent tool's description states that it grants 90% damage reduction with a 5 minute cooldown, but this is **false**.
+
+-   _Scholar's Mark_ \[Race Talent, [Capra](Capra.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You now are able to inflict yourself with a Mark. The duration of this scales with how many people you inflict with the effect as well.
     
     -   Capra Marks will now buff yourself.
     -   The duration of self-applied Capra Marks scale with how many people you've buffed.
 
--   _Largent_ \[[Adret](Adret.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your diplomatic skills extend into your ability to barter. Gain 300 extra notes per chest when turning in a sack.
+-   _Largent_ \[Race Talent, [Adret](Adret.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your diplomatic skills extend into your ability to barter. Gain 300 extra notes per chest when turning in a sack.
 
--   _Tailor Made_ \[[Etrean](Etrean.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - These were specifically made for your kind. [Etris Flasks](Etris_Flask.md) now heal you 45% more than usual.
+-   _Tailor Made_ \[Race Talent, [Etrean](Etrean.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - These were specifically made for your kind. [Etris Flasks](Etris_Flask.md) now heal you 45% more than usual.
 
--   _Mothwing Defense_ \[[Chrysid](Chrysid.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Further refining how sharp your antennae, you can now immediately recognize a sneak attack and brace yourself for it. Reduce all backhit damage by 50%.
+-   _Mothwing Defense_ \[Race Talent, [Chrysid](Chrysid.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Further refining how sharp your antennae, you can now immediately recognize a sneak attack and brace yourself for it. Reduce all backhit damage by 50%.
 
--   _Navae's Technique_ \[[Gremor](Gremor.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 30%.
+-   _Navae's Technique_ \[Race Talent, [Gremor](Gremor.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - A passed down technique from generations ago to refine your Ether control. Reduce how much ether it takes to cast mantras by 30%.
 
--   _Innate Agility_ \[[Felinor](Felinor.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You hinge on your instincts to keep you alive, even in battle. Slightly increase your dodge frames.
+-   _Innate Agility_ \[Race Talent, [Felinor](Felinor.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - You hinge on your instincts to keep you alive, even in battle. Slightly increase your dodge frames.
 
--   _Retrograde_ \[[Levit](Levit.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your existence is... questionable. No one understands where you have come from. Your ability reflects this, activate to start your Retrograde timer. Activating the ability again will reverse your actions, with the cooldown scaling with the time.
+-   _Retrograde_ \[Race Talent, [Levit](Levit.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your existence is... questionable. No one understands where you have come from. Your ability reflects this, activate to start your Retrograde timer. Activating the ability again will reverse your actions, with the cooldown scaling with the time.
     
     -   Grants a Talent tool. On use, your current position will be anchored, and you can perform any action. If Retrograde is cast again or if 5 seconds pass, your actions will be done in reverse, returning you to your original location.
     -   This will heal yourself to the amount of health you had when you initially used the ability.
 
--   _Depth's Denizen_ \[[Celtor](Celtor.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - The city you once called home is now your only way out of the depths, perhaps you can use this to your advantage. Gain extra leeway when attempting to escape the depths.
+-   _Depth's Denizen_ \[Race Talent, [Celtor](Celtor.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - The city you once called home is now your only way out of the depths, perhaps you can use this to your advantage. Gain extra leeway when attempting to escape the depths.
 
--   _Weapons Training_ \[[Khan](Khan.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Training with different weapons taught you how to wield all of them more proficiently. Gain slightly extra weapon scaling on all weapons you use.
+-   _Weapons Training_ \[Race Talent, [Khan](Khan.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Training with different weapons taught you how to wield all of them more proficiently. Gain slightly extra weapon scaling on all weapons you use.
 
 ### Ironsinger
 
@@ -4829,7 +4831,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 ### Rogue Assassin
 
--   Ambush \[Memento Talent\] - When coming out of [Tacet](Murmur%253A_Tacet.md), gain a 30% damage boost for 5 seconds.
+-   Ambush \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - When coming out of [Tacet](Murmur%253A_Tacet.md), gain a 30% damage boost for 5 seconds.
     
     -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
@@ -4972,7 +4974,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     
     -   Prerequisites: [Solborn](Solborn.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
--   Pyreborne: \[Memento Talent, Equipment Talent\] - Your Flamecharm mantras have all stats amplified
+-   Pyreborne: \[Memento Talent, Equipment Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Flamecharm mantras have all stats amplified
     
     -   Increases the **base damage** of all Flamecharm Mantras by 30%
     -   Obtained from: [Emberseal Pendant](Emberseal_Pendant.md)

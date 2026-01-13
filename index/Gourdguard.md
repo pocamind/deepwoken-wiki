@@ -1,6 +1,6 @@
 ---
 title: Gourdguard
-revid: 189461
+revid: 191757
 source: https://deepwoken.fandom.com/wiki/Gourdguard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
@@ -18,8 +18,8 @@ categories: [Weapons, Shields, Event Item, Hallowtide, Offhand]
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [5 Knowledge], Goodie Bag |

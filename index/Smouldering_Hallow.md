@@ -1,6 +1,6 @@
 ---
 title: Smouldering Hallow
-revid: 182580
+revid: 191753
 source: https://deepwoken.fandom.com/wiki/Smouldering_Hallow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Event Item, Hallowtide, Heavy Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique C
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes, but requires 1 Knowledge |
+| bankable | Yes, for 1 |
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
@@ -37,8 +37,6 @@ categories: [Weapons, Criticals with M1 tag, Greatcannons, Weapons with Unique C
 ## Description
 
 The Smouldering Hallow is a Heavy Greatcannon Weapon with a pumpkin motif.
-
-Like all other Hallowtide exclusive weapons, it cannot be dropped to other players.
 
 ## Critical
 

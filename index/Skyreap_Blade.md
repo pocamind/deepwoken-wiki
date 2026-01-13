@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 182997
+revid: 191752
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -26,8 +26,8 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | Yes, for 1 |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '22 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
@@ -51,7 +51,6 @@ This critical will end early if any hit is parried or if the first hit whiffs en
 
 -   Mentions the "Edenkite" in the description, which is a species referenced in the book Lumen's Folklore: Volume 'North' that existed in the cold, desolate, Northern Luminant.
 -   Skyreap Blade is the first [Hallowtide](Hallowtide.md) '22 weapon to get a unique critical, with it's critical releasing over two years after the weapon's initial release.
--   This weapon, alongside the other Hallowtide weapons, has a pseudo-soulbound mechanic attached to it, where you cannot drop it, but it can still be passed down through the Hippocampal Pool in [Fragments of Self](Fragments_of_Self.md) without having to spend echoes.
 -   Meeting the requirement of HVY, the damage is (32.1)
 -   At max HVY, the damage is (35.1)
 -   Skyreap Blade was previously the only weapon that had a unique running attack animation until the [Imperial Staff](Imperial_Staff.md) was added.

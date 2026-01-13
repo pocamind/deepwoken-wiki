@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 178573
+revid: 191766
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
@@ -17,7 +17,7 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
 | weight | 0.5 |
 | innate stats | +1 Health , +8% Wind Armor |
 | innate talent | Whistleguard |
-| bankable | Yes |
+| bankable | Yes, for 1 |
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
@@ -46,7 +46,7 @@ Burn damage in PvE combat can also trigger Whistleguard.
 -   If smelted, cannot be banked (you can still use it as the attributes and bank it).
 -   Whistling Periapt cannot autoparry Vents.
 -   It can synergize with the talent _Force Your Way_ provided by [Ignition Deepdelver](Ignition_Deepdelver.md) or [Ignition Gauntlets](Ignition_Gauntlets.md), which will allow the shield to parry unparryable attacks.
--   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), [Imperator's Fury](<Imperator's_Fury.md>), and the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
+-   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Upon equipping the Whistling Periapt it does NOT get soulbound and may be dropped once more.
 
 ## References

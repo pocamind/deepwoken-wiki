@@ -1,6 +1,6 @@
 ---
 title: Deukalion Akarad
-revid: 188582
+revid: 191781
 source: https://deepwoken.fandom.com/wiki/Deukalion_Akarad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Black Divers, Deceased characters]
@@ -12,7 +12,7 @@ categories: [Individuals with He/him pronouns, Black Divers, Deceased characters
 |---|---|
 | name | Deukalion Akarad |
 | alias | Father Diver[1] |
-| pronouns | He/him |
+| pronouns | He/him[2] |
 | affiliation | The Divers[1], Black Divers division[1], The Pioneers[1] |
 | death | Among The Pioneers who perished during the first expedition into the Depths[1] |
 | deathdate | 59 CE[1] |
@@ -23,7 +23,7 @@ Deukalion Akarad was a member of [The Divers](The_Divers.md), active shortly aft
 
 After [Castle Light](Castle_Light.md)'s construction, a tune named "In Akarad's Steps" was composed in honor of the first leader of the Black Divers.[\[1\]](#cite-note-0-1)
 
-Following his death, Akarad's name was invoked by Black Diver [Ulysses Disii](Ulysses_Disii.md) in an expression of frustration.[\[2\]](#cite-note-2) While [Simeon Rasimof](Simeon_Rasimof.md) was working as a [Memorial Mason](Memorial_Masons.md), they came across a Black Diver named Crow Akarad, reminding the Mason of Father Diver.[\[3\]](#cite-note-dj-3)
+Following his death, Akarad's name was invoked by Black Diver [Ulysses Disii](Ulysses_Disii.md) in an expression of frustration.[\[3\]](#cite-note-3) While [Simeon Rasimof](Simeon_Rasimof.md) was working as a [Memorial Mason](Memorial_Masons.md), they came across a Black Diver named Crow Akarad, reminding the Mason of Father Diver.[\[4\]](#cite-note-dj-4)
 
 ## Trivia
 
@@ -33,5 +33,6 @@ Following his death, Akarad's name was invoked by Black Diver [Ulysses Disii](Ul
 ## References
 
 1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1) [1.2](#cite-ref-0-1-2) [1.3](#cite-ref-0-1-3) [1.4](#cite-ref-0-1-4) [1.5](#cite-ref-0-1-5) [1.6](#cite-ref-0-1-6) [1.7](#cite-ref-0-1-7) [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md)
-2.  [↑](#cite-ref-2) [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
-3.  [↑](#cite-ref-dj-3-0) [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>)
+2.  [↑](#cite-ref-2) [11:59](Deepwoken_OST.md#1159)
+3.  [↑](#cite-ref-3) [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
+4.  [↑](#cite-ref-dj-4-0) [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>)
