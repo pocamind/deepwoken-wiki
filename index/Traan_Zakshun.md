@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 189071
+revid: 191244
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -17,8 +17,8 @@ categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him 
 | family | Naan Zakshun (grandmother)[1] |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ Here's todays lineup. Try not to drool. ”
 

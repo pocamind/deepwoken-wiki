@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 189089
+revid: 191259
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals]
@@ -68,11 +68,11 @@ Pleeksty's Inferno can be found stuck in a rock at Saramaed Summit; recommended 
 
 The Pleeksty's Inferno has two different critical attacks.
 
-For the **standing** critical, the user plunges the macuahuitl into the ground, creating three small eruptions and performing an upward slash afterwards, knocking the target away with ragdoll. Each hit applies Burn. The plunge has three consecutive hits, each dealing 0.4x scaled damage, followed by the upward slash dealing 1.4x scaled damage.
+For the **standing** critical, the user plunges the macuahuitl into the ground, creating three small eruptions and performing an upward slash afterwards, knocking the target away with ragdoll. Each hit applies Burn. The plunge has three consecutive hits, each dealing **0.4x scaled damage**, followed by the upward slash dealing **1.4x scaled damage**.
 
 For the **running** critical, the user reels the macuahuitl back before unleashing a diagonal slash, creating a projectile of flame that ragdolls and burns the target. The projectile is directional and will fly in the direction of your characters momentum. The projectile deals 1.5x scaled damage.
 
-Both criticals will instantly max out your Emperor Flame stacks after the critical hits. Both criticals have an initial windup of 0.45 seconds and a cooldown of **10 seconds**.
+Both criticals will instantly max out your Emperor Flame stacks after the critical hits. Both criticals have an initial windup of **0.45 seconds** and a cooldown of **10 seconds**.
 
 ## Trivia
 

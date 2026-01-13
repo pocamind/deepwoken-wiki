@@ -1,6 +1,6 @@
 ---
 title: Chef Buongustino
-revid: 191010
+revid: 191196
 source: https://deepwoken.fandom.com/wiki/Chef_Buongustino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
@@ -8,9 +8,11 @@ categories: [Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors,
 
 # Chef Buongustino
 
+Variants: [Chef Odiolavoro](Chef_Odiolavoro.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ You? You think you can challenge the mighty Buongustino? In _this_ war economy? **Try me**, pagliaccio. There has yet been a chef who could withstand my power. And perhaps there **never** will be. ”
 

@@ -1,23 +1,18 @@
 ---
 title: Stratos
-revid: 187533
+revid: 191200
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
+categories: [Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
 ---
 
 # Stratos
 
-| Stratos | |
-|---|---|
-| name | Stratos |
-| aspect | Etrean |
-| location | Temple of the Blade |
-| affiliation | Etrea |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 

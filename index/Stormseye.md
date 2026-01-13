@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 182318
+revid: 191255
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]
@@ -38,7 +38,7 @@ The **Stormseye** is a Legendary [Rifle](Weapons.md) powered by a [Kyrsan Medall
 
 The Stormseye comes with 2 passive abilities:
 
--   **Medallion Shockwave** - Your flourish M1 now creates an explosion that knocks people away and applies [Electrified](Status_Effects.md#electrified). This has a 10 second cooldown. If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
+-   **Medallion Shockwave** - Every third flourish creates an explosion that knocks people away and applies [Electrified](Status_Effects.md#electrified). This has a 10 second cooldown. If the user has Surge Path: Unstable Capacitator, the passive applies a surge stack with this flourish instead.
 
 -   **Rosen's Fakeout** - At close range, aerial M1s teleport you behind the enemy.
     -   Due to how weapon passives work, this is one of few passives that can be transferred to another weapon equipped by abnormal means.
@@ -48,7 +48,9 @@ This weapon procs all static and electrified Talents as well as all [Thundercall
 
 ## Critical
 
-The user winds up before beginning to circle the opponent in form of electricity, appearing in short flashes to fire shots at them. The last shot applies Shocked.
+The user winds up before beginning to circle the opponent in form of electricity, appearing in short flashes to fire shots at them, the last shot applying Shocked. The user will be locked in the air and has I-frames during the critical. The critical has a scaled damage multiplier of 0.74x per shot, totaling up to 2.22x scaled damage.
+
+If the user has Surge Path: Unstable Capacitator, the last shot will apply a surge stack instead.
 
 The critical has a cooldown of **10 seconds**.
 

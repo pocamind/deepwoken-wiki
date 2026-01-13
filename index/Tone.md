@@ -1,23 +1,20 @@
 ---
 title: Tone
-revid: 187972
+revid: 191245
 source: https://deepwoken.fandom.com/wiki/Tone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
+categories: [Vow of Iron Exclusive, Vendors, NPCs]
 ---
 
 # Tone
 
-| Tone | |
-|---|---|
-| name | Tone |
-| aspect | Tiran |
-| location | Isle of Vigils |
-| affiliation | Etrea |
+Variants: [Bari](Bari.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 

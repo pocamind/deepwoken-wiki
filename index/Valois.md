@@ -1,6 +1,6 @@
 ---
 title: Valois
-revid: 186911
+revid: 191251
 source: https://deepwoken.fandom.com/wiki/Valois
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Summer Company, Reputation]
@@ -17,9 +17,11 @@ notices:
 | location | Summer Isle |
 | affiliation | The Summer Company |
 
+Variants: [Nepo](Nepo.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ Congrats, now leave me be. ”
 

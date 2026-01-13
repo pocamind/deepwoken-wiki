@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 180919
+revid: 191235
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs, Mechanics]
@@ -259,7 +259,7 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
   <td><div><p><b>Quest Location</b>: Etris and Vigils<br>
   <b>Guide</b>: Talk to <a href="Nanji.md">Nanji</a> at Etris near the bridge between Lance Leshi's and the barber, interact with a sword on the ground near the end of the zipline going away from the Fang and Coil trainer in Isle of Vigils, then talk to the Nanji again.<br>
   <b>Reward(s)</b>: EXP, Compassion.</p></div></td>
-  <td><figure>File:Image 2022-04-18 225005764.png<figcaption><p></p><div><a href="Nanji.md">Nanji</a></div><p></p></figcaption></figure></td>
+  <td><figure><figcaption><p></p><div><a href="Nanji.md">Nanji</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

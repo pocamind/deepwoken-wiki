@@ -1,25 +1,22 @@
 ---
 title: Lunaris
-revid: 184742
+revid: 191226
 source: https://deepwoken.fandom.com/wiki/Lunaris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Lunaris
 
-| Lunaris | |
-|---|---|
-| name | Lunaris Elyse |
-| aspect | Ganymede |
-| location | Summer Isle |
-| affiliation | The Hive |
+Variants: [Laplace](Laplace.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 

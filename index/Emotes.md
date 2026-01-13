@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 191095
+revid: 191182
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -27,7 +27,7 @@ Emotes are gestures or poses a player can use. To use an Emote, hold K, and clic
 | File:Resting.png | Resting | Unlocked by default. |
 | File:Pride.png | Pride | Unlocked by default. |
 |  | Head Shake | Unlocked by default. |
-|  | Salute | [Authority Ensign](Authority_Ensign.md) exclusive\*. |
+|  | Salute | [Authority Ensign](Authority_Ensign.md) |
 |  | Penguin | Emote Pack 1 |
 |  | Griddy | Emote Pack 1 |
 |  | Loser | Emote Pack 1 |
@@ -42,8 +42,7 @@ Emotes are gestures or poses a player can use. To use an Emote, hold K, and clic
 | File:RukkroF.gif | Hoss | Emote Pack 2 |
 |  | Sturdy | Emote Pack 2 |
 
-\* Can be used by other [Origins](Origins.md) by saying '/e Salute' in chat.
-
 ## Trivia
 
 -   Prior to the May 22nd, 2023 update, the default keybind to toggle emotes was X before it was moved to K. This was changed with the addition of [Ironsing](Ironsing.md) due to the mechanic of "Iron Pull" taking its keybind.
+-   The "Salute" emote is able to be used outside of being an Authority Ensign by typing "/e salute" into the chat.

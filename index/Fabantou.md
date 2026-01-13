@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 187222
+revid: 191206
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -16,8 +16,8 @@ categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in 
 | affiliation | The Central Authority |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 

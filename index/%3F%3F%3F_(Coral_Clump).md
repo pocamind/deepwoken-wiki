@@ -1,6 +1,6 @@
 ---
 title: ??? (Coral Clump)
-revid: 190157
+revid: 191268
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Coral_Clump)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]
@@ -8,7 +8,10 @@ categories: [NPCs, NPCs located in the First Layer, Individuals with unspecified
 
 # ??? (Coral Clump)
 
-Template:NpcInfobox
+| ??? (Coral Clump) | |
+|---|---|
+| species | Mudskipper |
+| location | Celtor Wastes |
 
 ## Description
 
@@ -23,7 +26,7 @@ It resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*What you thought was a clump of coral begins to move.*</i> Gh... Hail there... come now... Won't you speak wi'h me...?</td>
@@ -41,7 +44,7 @@ It resides in [Scyphozia](First_Layer.md) in the first layer of [the Depths](The
   <td colspan="12">No dreams when we're already dead, friend... This is what the Grrrgh... The Gods left us in the end... Come, won't you sit with me?... We have so much talk about...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

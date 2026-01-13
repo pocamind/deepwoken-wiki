@@ -1,6 +1,6 @@
 ---
 title: Railblade
-revid: 190949
+revid: 191158
 source: https://deepwoken.fandom.com/wiki/Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, Heavy Weapons, The Ignition Union, Weapons with multiple Criticals]
@@ -42,7 +42,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 The **Railblade** is a [Greatsword](Weapons.md) obtained exclusively from the [Second Layer](Second_Layer.md). It is dropped from any chest in the Second Layer at an uncommon-rare rate. The Railblade requires 80 HVY and Power 10 to equip. This weapon deals 35.7 damage at 100 Heavy, and with 6 proficiency and three-star damage, it deals 43.5.
 
-The Railblade was developed during or prior to 1233 CE[\[1\]](#cite-note-1) as a generalist tool against the Deep.[\[2\]](#cite-note-2) Following the discovery of the Second Layer, it was outfitted with a heating mechanism to allow the wielder to better resist the climate.
+The Railblade was developed during or prior to 1233 CE[\[1\]](#cite-note-1) as a generalist tool against the Deep by [The Ignition Union](The_Ignition_Union.md).[\[2\]](#cite-note-2) Following the discovery of the Second Layer, it was outfitted with a heating mechanism to allow the wielder to better resist the climate.
 
 ## Critical
 
@@ -57,8 +57,6 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Ta
 ## Trivia
 
 -   The Railblade was originally a Legendary Weapon and as such could not be enchanted, but was revised to later be a normal weapon during the 4/5/2024 update.
--   The description suggests that equipping the weapon reduces the rate at which parasites in the [Second Layer](Second_Layer.md) accumulate on the player.
-    -   This remains unadded ingame and as of now is only for lore purposes.
 -   This weapon was modelled by contributor oNoodlez.
     -   They took inspiration from Nagoriyuki's sword from _Guilty Gear -Strive-_ and Jetstream Sam's Murasama high-frequency blade from _Metal Gear Rising: Revengeance_.[\[3\]](#cite-note-railorigin-3)
 -   The Railblade running attack originally dealt no knockback, this was later changed in a shadow update making it deal knockback like the rest.

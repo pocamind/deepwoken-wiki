@@ -1,23 +1,20 @@
 ---
 title: Stock
-revid: 184165
+revid: 191239
 source: https://deepwoken.fandom.com/wiki/Stock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Vow of Iron Exclusive, NPCs, Quests]
+categories: [Vow of Iron Exclusive, NPCs, Quests]
 ---
 
 # Stock
 
-| Stock | |
-|---|---|
-| name | Stock |
-| aspect | Ganymede |
-| location | Summer Isle |
-| affiliation | The Summer Company |
+Variants: [Scope](Scope.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 
@@ -49,7 +46,7 @@ Stock is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
   <td>Sounds Good.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

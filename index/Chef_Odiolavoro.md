@@ -1,24 +1,18 @@
 ---
 title: Chef Odiolavoro
-revid: 191011
+revid: 191201
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Chef Odiolavoro
 
-| Chef Odiolavoro | |
-|---|---|
-| name | Odiolavoro |
-| aspect | Felinor |
-| pronouns | He/him |
-| location | Etris |
-| family | Chef Buongustino (father)[1] |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 Chef Odiolavoro is an aspiring NPC that gives the player orders to carry out on his behalf. He's a struggling [Felinor](Felinor.md) "chef" that's opened up shop in [Etris](Etris.md) recently and is hoping to one day be able to compete with the [Leshi](Lance.md) [brothers](<Lance's_Brother.md>).
 
@@ -250,7 +244,3 @@ File:Grilled Parasol Brain Witherald.png
 -   It's implied he's actually not that skilled as a cook, as his criticisms of the player's food include him thinking the food should be burnt to ash.
     -   However, giving him artisan food can make him say the food is too good for his customers and he will eat it it himself.
 -   In Italian, "Odio" translates to "I hate," and "Lavoro" translates to work, corresponding with his actions of asking the player to cook for him instead of actually learning how to cook for himself.
-
-## References
-
-1.  [↑](#cite-ref-1) Buongustino mentions his sons are "Useless" and "Lazy boys", which matches Odiolavoro's incompetence and his name meaning "I hate work". Both are also moustachioed Felinor who dress and speak similarly.

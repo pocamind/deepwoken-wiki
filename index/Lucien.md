@@ -1,27 +1,26 @@
 ---
 title: Lucien
-revid: 186322
+revid: 191227
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Lucien
-
-| Lucien | |
-|---|---|
-| name | Lucien |
-| aspect | Felinor |
-| location | Songseeker Wilds |
-| family | Meemaw (grandmother) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
+Template:NpcInfobox
+
 ## Description
 
-**Lucien** is an NPC located in the [Songseeker Wilds](Songseeker_Wilds.md) who grants the recipe to crafting [Iron Bombs](Iron_Bomb.md) through the [Quest](Talent_Quests.md) **Mineskipper Mayhem**. His hat is a heirloom from [Meemaw](Meemaw.md), who also survived Mineskippers with the same hat.
+Lucien is a [Felinor](Felinor.md) NPC. They teach the player the recipe to crafting [Iron Bombs](Iron_Bomb.md) through the [Quest](Talent_Quests.md) "Mineskipper Mayhem". His helmet is a heirloom from [Meemaw](Meemaw.md), who also survived Mineskippers with the same helmet.
+
+## Location
+
+Lucien is located at Songseeker Wilds, standing outside of the mineshaft.
 
 ## Dialogue
 

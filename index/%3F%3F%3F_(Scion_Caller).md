@@ -1,6 +1,6 @@
 ---
 title: ??? (Scion Caller)
-revid: 188901
+revid: 191271
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Scion_Caller)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -8,11 +8,13 @@ categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the
 
 # ??? (Scion Caller)
 
+| ??? (Scion Caller) | |
+|---|---|
+| location | New Kyrsa, The Sleeping City |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -23,7 +25,7 @@ Template:NpcInfobox
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*Before you a swirling tempest of eternity looms. Its gravity tugs on your very soul, threatening to pull you under its current and cast you against the jagged edges that lurk within. To UNDO you. The wind howls.*</i></td>
@@ -53,7 +55,7 @@ Template:NpcInfobox
   <td colspan="12">Wake.</td>
 </tr>
 <tr>
-  <td colspan="12">End, Scion of Ethiron is summoned</td>
+  <td colspan="12">[End Dialogue], Scion of Ethiron is summoned</td>
 </tr>
 </tbody>
 </table>

@@ -1,35 +1,34 @@
 ---
 title: Artus
-revid: 187369
+revid: 191191
 source: https://deepwoken.fandom.com/wiki/Artus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Artus
 
-| Artus | |
-|---|---|
-| name | Artus |
-| aspect | Etrean |
-| location | Summer Isle |
-| affiliation | The Summer Company |
+Variants: [Ishan](Ishan.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ It's like they came into existence with the waves themselves... ”
 
 ― Artus
 
+Template:NpcInfobox
+
 ## Description
 
-Ishan is an [Etrean](Etrean.md) NPC. He shares information on the origins of the [Adret](Adret.md).
+Artus is an [Etrean](Etrean.md) NPC. He shares information on the origins of the [Adret](Adret.md).
 
-If spoken to while being an Adret his dialogue changes.
+## Location
+
+Artus is located outside of the [Summer Isle](Summer_Isle.md) castle, standing near the path to the bridge.
 
 ## Dialogue
 
@@ -45,8 +44,8 @@ If spoken to while being an Adret his dialogue changes.
   <td colspan="2">Uhh...</td>
 </tr>
 <tr>
-  <td>Player is an Adret</td>
-  <td>Player is not an Adret</td>
+  <td>[Player is an Adret]</td>
+  <td>[Player is not an Adret]</td>
 </tr>
 <tr>
   <td>Oh. Uh. No offence. Just, well, the rest of the people in this world take after animals, right? Whereas you... Well, you don't, right?</td>
@@ -73,3 +72,4 @@ If spoken to while being an Adret his dialogue changes.
 ## Trivia
 
 -   His assumptions are a bit of a red herring, as Adret already existed prior to their spread, and have no actual link to the ocean. Their sudden appearance was due to rising sea levels bringing their mountaintop homes closer to the ground. While their spread was motivated by the ocean, the ocean is not responsible for their existence.
+-   If spoken to while being an Adret their dialogue changes.

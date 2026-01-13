@@ -1,6 +1,6 @@
 ---
 title: Trafalgar
-revid: 186908
+revid: 191247
 source: https://deepwoken.fandom.com/wiki/Trafalgar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, NPCs located in the First Layer, Reputation]
@@ -17,9 +17,11 @@ notices:
 | location | Celtor Wastes |
 | affiliation | The Divers |
 
+Variants: [Gudrin](Gudrin.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one! ”
 

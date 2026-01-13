@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 166878
+revid: 191266
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -35,7 +35,7 @@ If another player has already obtained Murmur: Ardour from him or talked to him(
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Hm? Y'need somethin'? Tryin' to figure somethin' out.</td>
@@ -77,11 +77,11 @@ If another player has already obtained Murmur: Ardour from him or talked to him(
 <tr>
   <td>Ah, good thinking! That hit the spot. Now, where were we...</td>
   <td>Oh nah. Not drinkin' that. Keep it.</td>
-  <td colspan="2">End, player obtains Ardour</td>
+  <td colspan="2">[End Dialogue], player obtains Ardour</td>
 </tr>
 <tr>
-  <td>End, player obtains Ardour</td>
-  <td>End</td>
+  <td>[End Dialogue], player obtains Ardour</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ If another player has already obtained Murmur: Ardour from him or talked to him(
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Some say there's a few other applications of Ardour beyond just strengthenin' your strikes. But I've never looked into that, hah.</td>
@@ -103,7 +103,7 @@ If another player has already obtained Murmur: Ardour from him or talked to him(
   <td>Oh. Don't tell me there's somethin' else weird about me I gotta find the reasons for... Next you'll be telling me not everyone can levitate spoons with their mind, hah!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -113,13 +113,13 @@ If another player has already obtained Murmur: Ardour from him or talked to him(
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I can't speak to two folks at once, y'know?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -129,13 +129,13 @@ If another player has already obtained Murmur: Ardour from him or talked to him(
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, don't ye worry yerself. You've got other things on your mind, I can tell.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,30 +1,26 @@
 ---
 title: Dockson
-revid: 189635
+revid: 191168
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Dockson
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Template:NpcInfobox
 
 ## Description
 
-Dockson is an [Etrean](Etrean.md) NPC found on [Summer Isle](Summer_Isle.md). They work inside the Castle near the Antiquarian. They sell three different guns on their table and can also initiate a fight in [The Furnace](The_Furnace.md) if spoken to by two players.
+Dockson is an [Etrean](Etrean.md) NPC. They sell a [Flintlock](Flintlock.md) for 100, a [Revolver](Repeater.md) for 200, and a [Dragoon](Dragoon.md) for 500 on their bar. Dockson is also able to initiate a fight in [The Furnace](The_Furnace.md) if spoken to by two players at once.
 
-They wear the [Summer Company Uniform](Summer_Company_Uniform.md).
+## Location
 
-## Prices
-
--   [Dragoon](Dragoon.md) - 500
--   [Revolver](Repeater.md) - 200
--   [Flintlock](Flintlock.md) - 100
+Dockson is located inside of the [Summer Isle](Summer_Isle.md) castle, standing behind a bar near the [Antiquarian](Antiquarian.md).
 
 ## Dialogue
 
@@ -36,7 +32,7 @@ They wear the [Summer Company Uniform](Summer_Company_Uniform.md).
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">What brings you to Summer, [ASPECT]?</td>
+  <td colspan="12">What brings you to Summer, [Aspect]?</td>
 </tr>
 <tr>
   <td colspan="6">What is this place?</td>
@@ -48,8 +44,8 @@ They wear the [Summer Company Uniform](Summer_Company_Uniform.md).
 </tr>
 <tr>
   <td colspan="2">I guess...</td>
-  <td colspan="2">Player has at least (20) Charisma/Intelligence</td>
-  <td colspan="2">Player does not have at least (20) Charisma/Intelligence</td>
+  <td colspan="2">[Player has at least (20) Charisma or Intelligence]</td>
+  <td colspan="2">[Player does not have at least (20) Charisma or Intelligence]</td>
   <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
@@ -69,7 +65,7 @@ They wear the [Summer Company Uniform](Summer_Company_Uniform.md).
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td colspan="2">[See first instance.]</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -91,11 +87,12 @@ They wear the [Summer Company Uniform](Summer_Company_Uniform.md).
   <td>Alright, well you're gonna need someone else to fight with. Have someone else ask me to fight.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   Their dialogue changes depending on the aspect of the player, addressing them by it.
+-   Dockson's dialogue changes depending on the aspect of the player, addressing them by it.
+-   They wear the [Summer Company Uniform](Summer_Company_Uniform.md).

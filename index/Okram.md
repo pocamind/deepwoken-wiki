@@ -1,28 +1,26 @@
 ---
 title: Okram
-revid: 189630
+revid: 191237
 source: https://deepwoken.fandom.com/wiki/Okram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Individuals with unspecified pronouns]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Individuals with unspecified pronouns]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Okram
 
-| Okram | |
-|---|---|
-| name | Okram |
-| aspect | Etrean |
-| location | Meteor Isle |
+Variants: [Argo](Argo.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 
-Okram is an [Etrean](Etrean.md) NPC. The teach the Inheritor the basics of [Fishing](Fishing.md), similarly to [Argo](Argo.md).
+Okram is an [Etrean](Etrean.md) NPC. They teach the player the basics of [Fishing](Fishing.md).
 
 ## Location
 
@@ -33,19 +31,19 @@ Okram is located in the same house as the [Antiquarian](Antiquarian.md) at [Mete
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td>Begin</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, what brings you here stranger?</td>
+  <td>Ah, what brings you here stranger?</td>
 </tr>
 <tr>
-  <td colspan="12">How do I fish?</td>
+  <td>How do I fish?</td>
 </tr>
 <tr>
-  <td colspan="12">Just cast your line out into the sea. When you get a bite, lean in the opposite direction of where the fish is pullin ya. Some spots are bad for fishing, and you can put bait on your line to get better fish interested.</td>
+  <td>Just cast your line out into the sea. When you get a bite, lean in the opposite direction of where the fish is pullin ya. Some spots are bad for fishing, and you can put bait on your line to get better fish interested.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Caragan
-revid: 190170
+revid: 191181
 source: https://deepwoken.fandom.com/wiki/Caragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -24,7 +24,7 @@ Caragan is an [Etrean](Etrean.md) NPC, he is the [Blacksmith](Blacksmith.md) for
 
 ## Location
 
-Caragan is located in the Blacksmith at Etris.
+Caragan is located in the Blacksmith shop at Etris.
 
 ## Shop
 

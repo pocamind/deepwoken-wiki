@@ -1,6 +1,6 @@
 ---
 title: Rohan
-revid: 186916
+revid: 191230
 source: https://deepwoken.fandom.com/wiki/Rohan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Reputation, Military personnel of The Central Authority]
@@ -17,9 +17,11 @@ notices:
 | location | Merit's Reach |
 | affiliation | The Central Authority |
 
+Variants: [Rashet](Rashet.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ Woah, hey. Don't linger around me for too long. You're gonna make 'em suspicious. ”
 

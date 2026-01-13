@@ -1,26 +1,26 @@
 ---
 title: Nitron
-revid: 190876
+revid: 191192
 source: https://deepwoken.fandom.com/wiki/Nitron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Summer Company, Vendors, Individuals with unspecified pronouns]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Vendors, The Summer Company, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Nitron
 
+Variants: [Mag](Mag.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 Template:NpcInfobox
 
 ## Description
 
 Nitron is a [Vesperian](Vesperian.md) NPC. They can craft [Bullet Casings](Bullet_Casings.md) by converting 200 [Bullets](Bullets.md) into specialized variants using [Ores](Ores.md), for a fee of up to 40. These modified bullets offer unique properties and playstyles.
-
-They wear a Black Hood and the [Summer Company Uniform](Summer_Company_Uniform.md).
 
 ## Location
 
@@ -94,3 +94,7 @@ This dialogue can only appear if the player has not made at least 200 Bullet Cas
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   They wear a Black Hood and the [Summer Company Uniform](Summer_Company_Uniform.md).

@@ -1,12 +1,11 @@
 ---
 title: Naan Zakshun
-revid: 190789
+revid: 191243
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pages with broken file links, Vow of Iron Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vendors, NPCs, Circle of Honour members]
+categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, Circle of Honour members]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Naan Zakshun
@@ -19,9 +18,11 @@ notices:
 | affiliation | Circle of Honour |
 | family | Traan Zakshun (grandson) |
 
+Variants: [Traan Zakshun](Traan_Zakshun.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ Here's the current garbage. Try not to drool. ”
 
@@ -298,7 +299,7 @@ Naan's item descriptions will change randomly each time they sell goods from the
 -   _I barely know what I'm looking at here._
 -   _I don't have enough time on my hands to waste it haggling... and frankly neither do you~ Ironsworn._
 -   _I fear our time is short, I would just hand this over if I weren't bound by my responsibilities, gotta feed my family- Ironsworn._
--   _I lost my fangs a long time ago..._[\[1\]](#cite-note-1)
+-   _I lost my fangs a long time ago..._
 -   _It's just good business._
 -   _It's... I don't know. You've got eyes don't you?_
 -   _I'm way past my prime so you can make use of this better than I... I'll likely be making my move in the coming months Ironsworn, wish me luck getting through the Shoguns haha~_
@@ -438,7 +439,3 @@ Sold Items
 
 -   As with [her grandson](Traan_Zakshun.md), Naan Zakshun's name is a pun/wordplay: her first name sounds similar to "nan", a slang word for one's grandmother, playing on the fact that she is Traan's grandmother.
 -   The shop dialogue "I lost my fangs a long time ago..." is a reference to the scene in the anime Chainsaw Man, where Kishibe holds a note stating "Makima is listening." Given that figures resembling [The Lord Regent](The_Lord_Regent.md) can be spotted spying on the player, this further proves that Lord Regent is always watching.
-
-## References
-
-1.  [↑](#cite-ref-1) File:Naan Zakshun Fangs.png

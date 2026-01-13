@@ -1,33 +1,26 @@
 ---
 title: Nanji
-revid: 187564
+revid: 191232
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
 ---
 
 # Nanji
 
-| Nanji | |
-|---|---|
-| name | Nanji |
-| aspect | Etrean |
-| location | Etris |
-| family | Ilji (younger brother) |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ Uh... Yeah, no. ”
 
 ― Nanji
 
+Template:NpcInfobox
+
 ## Description
 
-Located in [Etris](Etris.md) near a bridge when going towards [Nerin](Nerin.md) and the [Barber](Barber.md), Nanji is an Etrean NPC who is looking for their brother [Ilji](Ilji.md). Choosing the correct dialogue responses will begin the [Chipped Sword](Chipped_Sword.md) sidequest.
-
-Though it is unadvisable, you can accept the quest first before going through the trouble of getting to the [Isle of Vigils](Isle_of_Vigils.md) for the [Chipped Sword](Chipped_Sword.md), and back to Etris. It is generally recommended that first you go to Vigils for the sword, then back to Etris, therefore saving the round trip.
+Nanji is an [Etrean](Etrean.md) NPC. Upon speaking to them, they task the player with finding the whereabouts of [Ilji](Ilji.md), their brother through the "Wandering Blade" [Quest](Quests.md).
 
 ## Quest details
 
@@ -43,6 +36,10 @@ Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) 
 4.  Once on the other side of the zipline, head towards the tree and turn right after passing the cliff corner.
 5.  Interact and inspect the [Katana](Katana.md) until it only gives you the option to end dialogue.
 6.  Return to Nanji and interact with them.
+
+## Location
+
+Nanji is located at the bridge heading towards the [Barber](Barber.md) and [Nerin](Nerin.md) at [Etrea](Etrea.md).
 
 ## Dialogue
 
@@ -143,9 +140,7 @@ Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) 
 </tbody>
 </table>
 
-  
-
 ## Trivia
 
--   For a guide, incase you are unfamiliar with the [Isle of Vigils](Isle_of_Vigils.md), please watch [this video](https://www.youtube.com/watch?v=uqRwx533xCY) made by honchito on Youtube.
--   If you complete the quest, you will get a line of text that says, "Your compassion is growing..." (TAKES UP THE COMPASSION PATH AND GIVES YOU A TALENT DRAW)
+-   The quest is able to completed before even speaking to Nanji by interacting with the Chipped Sword beforehand.
+-   For a guide on how to find the Chipped Sword, refer to [this video](https://www.youtube.com/watch?v=uqRwx533xCY).

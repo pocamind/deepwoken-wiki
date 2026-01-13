@@ -1,36 +1,38 @@
 ---
-title: Pori
-revid: 191180
-source: https://deepwoken.fandom.com/wiki/Pori
+title: Leland
+revid: 191176
+source: https://deepwoken.fandom.com/wiki/Leland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Vow of Iron Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
-# Pori
+# Leland
 
-**[Pathfinder](Pathfinder.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
-For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+Variants: [Pori](Pori.md)
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ Hey friend! Don't worry I'll get back to work soon. ”
 
-― Pori
+― Leland
 
 Template:NpcInfobox
 
 ## Description
 
-Pori is a young [Etrean](Etrean.md) NPC. He sits outside the shop, selling Cloth and Fiber for 6 and 3 notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 notes apiece.
+Leland is a young [Etrean](Etrean.md) NPC. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out.
 
 ## Location
 
-Pori is located outside of [Blacksmith](Blacksmith.md) [Caragan's](Caragan.md) shop at [Etris](Etris.md).
+Leland is on the stairs heading down to the [Blacksmith](Blacksmith.md) right outside of the [Temple Sparring Hall](Temple_Sparring_Hall.md).
 
 ## Dialogue
 
-**First Encounter:**
-
 **Base Dialogue:**
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -47,22 +49,6 @@ Pori is located outside of [Blacksmith](Blacksmith.md) [Caragan's](Caragan.md) s
 <tr>
   <td><i>*The boy smiles.*</i> Thanks friend! I'll give you a small discount on the materials.</td>
   <td><i>*Tears start to well in the young boys eyes.*</i> Please don't, this is my last chance.</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Enemy Reputation:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="2">Begin</td>
-</tr>
-<tr>
-  <td colspan="2">You're that wanted guy! Get away from me!</td>
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>
@@ -88,8 +74,23 @@ This dialogue only appears if the player has chosen the option **"Don't worry, I
 </tbody>
 </table>
 
+**Enemy Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="2">Begin</td>
+</tr>
+<tr>
+  <td colspan="2">You're that wanted guy! Get away from me!</td>
+</tr>
+<tr>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
 ## Trivia
 
--   He is the apprentice of [Blacksmith](Blacksmith.md) [Caragan](Caragan.md).
 -   If the player chooses the dialogue option to rat Leland out, they can speak to him again to gain the discounts.
 -   If the player already has the discounted items but loses enough reputation to become enemies with Etrea, the discount remains on materials.

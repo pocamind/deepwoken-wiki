@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 190717
+revid: 191289
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -91,6 +91,28 @@ Joshua is located inside of his house at [Etris](Etris.md), it is near the Gener
 </tr>
 <tr>
   <td>[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Karliah Killed:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin</td>
+</tr>
+<tr>
+  <td>Have you seen Karliah lately? She mentioned she was so excited to go on that expedition with you.</td>
+</tr>
+<tr>
+  <td>...</td>
+</tr>
+<tr>
+  <td>It's okay if you don't know where she is either, I'm just a bit worried about her. She's such a pure soul.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

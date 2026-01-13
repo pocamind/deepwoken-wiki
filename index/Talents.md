@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191152
+revid: 191163
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1725,7 +1725,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 -   _**Not a Scratch**_ \[Advanced Talent, Fortitude, Willpower\] - You don't show any signs of damage. (+2 Posture)
     -   Your character no longer visually shows any signs of damage no matter how low their HP is. No cuts, no scratches, no low hp anims, no torn clothing, etc.
     -   Spotter (for your opponent's allies) / [Rhythm](Murmur%253A_Rhythm.md) no longer shows how much health your character has.
-    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon being taking damage. This is purely visual.
+    -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon taking damage. This is purely visual.
         -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.
     -   Prerequisites: 20 Fortitude, 100 Willpower
         -   The [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>) Outfits also have this Talent.
@@ -1739,6 +1739,7 @@ Certain Talents lie in "Priority Talents" - the type of Talents that game weighs
 
 -   Bottom Freeze \[Common Talent, Frostdraw\] - Hitting chilled enemies with Ice Projectiles while they are on ice freezes them to the ground.
     -   Prevents you from rotating your character and moving around overall.
+    -   Bottom Freeze will end early if damage is taken from any source.
     -   Prerequisite: 25 Frostdraw, Ice Daggers Mantra
 
 -   Cryonis \[Common Talent, Frostdraw\] - All ice spells casted ontop of ice cost less Ether.
@@ -3261,11 +3262,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Unlike base Rhythm, the visual HP and posture percentages works on players with the Not a Scratch Talent.
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
 
-### Soverign of Slaughter
-
--   Chime of Conflict \[Common Talent\] - Drift in and out of reality, challenging those hailing from distant lands. Grants you the ability to access the PvP Arena.
-    -   Prerequisites: Speak to [Yamaketzal](Yamaketzal.md), [Power](Power.md) 5
-
 ### Specter
 
 -   Haunted Path: Specter \[Common Talent, Galebreathe\] - Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies.
@@ -4405,8 +4401,6 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
 
--   Static Mastery: [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) - Your static withdraw no longer deals damage nor stuns you.
-
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
     -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
     -   Stormcall Shock deals 15 Gale and Thunder damage, applies Shock for 1 second or 1 Surge Rod, and winded for 2 seconds upon casting any Mantra.
@@ -4424,9 +4418,6 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a 20% damage bonus to your Tempest Wind [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
 
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
-
--   Test: [Etrean Rogue](Etrean_Rogue.md)
-    -   This does nothing at all, and the Talent has no description.
 
 -   The Path, Unveiled: [Justicar](<Justicar_(Origin).md>) & [Mod Suit](Mod_Suit.md) - Your [Jus Karita](Jus_Karita.md) attacks deal 15% more damage.
     -   Only grants a 10% damage buff, the Talent was nerfed but the description was never changed.

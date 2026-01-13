@@ -1,29 +1,28 @@
 ---
 title: Porter
-revid: 182049
+revid: 191171
 source: https://deepwoken.fandom.com/wiki/Porter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Vow of Iron Exclusive, NPCs, Vendors]
+categories: [Vow of Iron Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Porter
 
-| Porter | |
-|---|---|
-| name | Porter |
-| aspect | Khan |
-| location | Summer Isle |
-| affiliation | The Summer Company |
+Variants: [Dockson](Dockson.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 
-Porter is a Gunsmith at [Summer Isle](Summer_Isle.md), he works inside the castle near the Antiquarian. He sells three different guns on his table and can also initiate a fight in [The Furnace](The_Furnace.md) if spoken to by two (2) players.
+Porter is a [Khan](Khan.md) NPC. They sell a [Flintlock](Flintlock.md) for 100, a [Revolver](Repeater.md) for 200, and a [Dragoon](Dragoon.md) for 500 on their bar. Porter is also able to initiate a fight in [The Furnace](The_Furnace.md) if spoken to by two players at once.
 
-He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
+## Location
+
+Porter is located inside of the [Summer Isle](Summer_Isle.md) castle, standing behind a bar near the [Antiquarian](Antiquarian.md).
 
 ## Dialogue
 
@@ -35,7 +34,7 @@ He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
   <td colspan="12">Begin</td>
 </tr>
 <tr>
-  <td colspan="12">What brings you to Summer, stranger?</td>
+  <td colspan="12">What brings you to Summer, [Aspect]?</td>
 </tr>
 <tr>
   <td colspan="6">What is this place?</td>
@@ -47,9 +46,9 @@ He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
 </tr>
 <tr>
   <td colspan="2">I guess...</td>
-  <td colspan="2">Player has at least (20) Charisma/Intelligence</td>
-  <td colspan="2">Player does not have at least (20) Charisma/Intelligence</td>
-  <td colspan="6">End</td>
+  <td colspan="2">[Player has at least (20) Charisma or Intelligence]</td>
+  <td colspan="2">[Player does not have at least (20) Charisma or Intelligence]</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">Yeah, go ahead and scram. You're scaring away the customers.</td>
@@ -57,18 +56,18 @@ He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
   <td colspan="2">Obviously I know, I'm testing you. [Charisma/Intelligence]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="2">Oh, alright. This is a firearm shop. And the building we're in is the headquarters for the Summer Company. We're the premier engineers for firearms in the East. There is a really powerful thermal vent just below our island that we use to run our forges and operations here. Oh.. We also run a bit of a fight club downstairs for the workers to blow off steam and any other interested individuals.</td>
   <td colspan="2">Yeah, go ahead and scram. You're scaring away the customers.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
   <td colspan="2">I want to take a crack at the fight club.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td colspan="2">[See first instance.]</td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -90,7 +89,12 @@ He wears the [Summer Company Uniform](Summer_Company_Uniform.md).
   <td>Alright, well you're gonna need someone else to fight with. Have someone else ask me to fight.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Dockson's dialogue changes depending on the aspect of the player, addressing them by it.
+-   They wear the [Summer Company Uniform](Summer_Company_Uniform.md).

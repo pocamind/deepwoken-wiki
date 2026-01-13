@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 186713
+revid: 191248
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Reputation]
@@ -16,8 +16,8 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First 
 | affiliation | The Divers |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one! ”
 

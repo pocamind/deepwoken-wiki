@@ -1,6 +1,6 @@
 ---
 title: Hugo
-revid: 184022
+revid: 191205
 source: https://deepwoken.fandom.com/wiki/Hugo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
@@ -15,9 +15,11 @@ categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 | location | The Three Cheers |
 | affiliation | The Central Authority |
 
+Variants: [Fabantou](Fabantou.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

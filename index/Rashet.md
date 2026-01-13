@@ -1,27 +1,22 @@
 ---
 title: Rashet
-revid: 186722
+revid: 191231
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
 ---
 
 # Rashet
 
-| Rashet | |
-|---|---|
-| name | Rashet |
-| aspect | Adret |
-| location | Merit's Reach |
-| affiliation | The Central Authority |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ Woah, hey. Don't linger around me for too long. You're gonna make 'em suspicious. ”
 
 ― Rashet
+
+Template:NpcInfobox
 
 ## Description
 

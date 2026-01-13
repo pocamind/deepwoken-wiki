@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 188434
+revid: 191216
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns]
@@ -16,8 +16,8 @@ categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean 
 | family | Mortus' wife (wife) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 “ I can give you the knowhow y'need to catch the **big ones**... Now, some might not even consider 'em _fish_, but I know better I does. ”
 

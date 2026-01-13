@@ -1,29 +1,24 @@
 ---
 title: Tayna
-revid: 188056
+revid: 191241
 source: https://deepwoken.fandom.com/wiki/Tayna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Vendors]
+categories: [Vow of Iron Exclusive, NPCs, Vendors]
 ---
 
 # Tayna
 
-| Tayna | |
-|---|---|
-| name | Tayna |
-| aspect | Adret |
-| pronouns | She/her |
-| location | Meteor Isle |
-
 Variants: [Ata](Ata.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 “ I don't remember you being so broke... You'll come back when you have money, won't you? ”
 
 ― Tayna
+
+Template:NpcInfobox
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: ??? (Blindseer Glyphs)
-revid: 178796
+revid: 191267
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Blindseer_Glyphs)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -33,13 +33,13 @@ This dialogue appears on all the glyphs if the player does not meet the requirem
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*Strangely luminescent glyphs are arranged before you. You feel as though there is little for you to learn from them.*</i></td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -53,7 +53,7 @@ This dialogue is unlocked once the player has obtained Blindseer.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>First Encounter</td>
@@ -65,13 +65,13 @@ This dialogue is unlocked once the player has obtained Blindseer.
 </tr>
 <tr>
   <td>[Inspect]</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td><i>*With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details a City of long gone, sunken Celtor - A horrible drowning swallowed Celtor - this is known by all - though, what few failed to notice was the arrival of their new Lord and King many years before. This leader brought prosperity to them in a time of need, but in a world so cruel why did none think to question the hand of one so generous?*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ This dialogue is unlocked once the player has obtained Blindseer.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>First Encounter</td>
@@ -95,13 +95,13 @@ This dialogue is unlocked once the player has obtained Blindseer.
 </tr>
 <tr>
   <td>[Inspect]</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td><i>*With your blindfold tightly bound, light from the glyphs seems to pierce through the blindfold. The light rearranges into a missive now legible. It details the duty of your <a href="Glossary.md#oaths">Oath</a> - free the lost souls from their shackles, help them escape into the light.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +113,7 @@ These dialogues are unlocked once the player has met the requirements for Blinds
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">First Encounter</td>
@@ -125,7 +125,7 @@ These dialogues are unlocked once the player has met the requirements for Blinds
 </tr>
 <tr>
   <td colspan="2">[Inspect]</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>Blindfold equipped</td>
@@ -137,13 +137,13 @@ These dialogues are unlocked once the player has met the requirements for Blinds
 </tr>
 <tr>
   <td>[Take the Oath]</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td><i>*You vow the <a href="Glossary.md#oaths">Oath</a> to yourself, fixing your destiny in place. Power springs forth like the water of a fountain.*</i></td>
 </tr>
 <tr>
-  <td>End, player obtains <a href="Oath%253A_Blindseer.md">Blindseer</a></td>
+  <td>[End Dialogue], player obtains <a href="Oath%253A_Blindseer.md">Blindseer</a></td>
 </tr>
 </tbody>
 </table>

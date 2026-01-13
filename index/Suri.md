@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 189038
+revid: 191211
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -9,8 +9,8 @@ categories: [Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the E
 # Suri
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Template:NpcInfobox
 

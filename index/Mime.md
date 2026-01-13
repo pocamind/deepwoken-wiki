@@ -1,9 +1,9 @@
 ---
 title: Mime
-revid: 191125
+revid: 191212
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Mantras, NPCs, NPCs located in the Eastern Luminant, Quests, Ganymede NPCs]
+categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, Ganymede NPCs]
 ---
 
 # Mime
@@ -58,8 +58,8 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
   <td colspan="6">Heh, nah. A magician never reveals his tricks. Or something like that.</td>
 </tr>
 <tr>
-  <td colspan="6">End, quest starts</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue], quest starts</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +75,7 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
   <td colspan="12">Pfffffff........ idiot.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

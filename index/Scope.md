@@ -1,23 +1,18 @@
 ---
 title: Scope
-revid: 190870
+revid: 191240
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
 ---
 
 # Scope
 
-| Scope | |
-|---|---|
-| name | Scope |
-| aspect | Vesperian |
-| location | Summer Isle |
-| affiliation | The Summer Company |
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+
+Template:NpcInfobox
 
 ## Description
 
@@ -36,30 +31,30 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="2">Begin</td>
 </tr>
 <tr>
-  <td colspan="4">Between the Ignition Union and the Bandits, we won't have any explosive ordinance left...</td>
+  <td colspan="2">Between the Ignition Union and the Bandits, we won't have any explosive ordinance left...</td>
 </tr>
 <tr>
-  <td colspan="2">Need some help?</td>
-  <td colspan="2">Any reason you guys don't expand to the Driftland?</td>
+  <td>Need some help?</td>
+  <td>Any reason you guys don't expand to the Driftland?</td>
 </tr>
 <tr>
-  <td colspan="2">Yeah, out in the wilderness nearby bandits and Union members keep taking our supplies. Without this we won't meet quota for the year, bring back any crates you can find.</td>
-  <td colspan="2">That place is a war zone. Etrea and the <a href="Glossary.md#the-central-authority">Authority</a> use it as a middle-ground for this conflict of theirs. At the rate it's going, it could last for years. I wouldn't call it a very lucrative mining spot.</td>
+  <td>Yeah, out in the wilderness nearby bandits and Union members keep taking our supplies. Without this we won't meet quota for the year, bring back any crates you can find.</td>
+  <td>That place is a war zone. Etrea and the <a href="Glossary.md#the-central-authority">Authority</a> use it as a middle-ground for this conflict of theirs. At the rate it's going, it could last for years. I wouldn't call it a very lucrative mining spot.</td>
 </tr>
 <tr>
-  <td colspan="2">Sounds Good.</td>
-  <td colspan="2">[End Dialogue]</td>
+  <td>Sounds Good.</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="2">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
-**Turning in Explosive Crate:**
+|-+Explosive Crate Turn-In=
 
 <table>
 <tbody>
