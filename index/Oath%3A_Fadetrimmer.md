@@ -1,6 +1,6 @@
 ---
 title: "Oath: Fadetrimmer"
-revid: 190316
+revid: 191728
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Fadetrimmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -91,7 +91,7 @@ This Oath grants 1 Combat Mantra Slot, and 2 Wildcard Mantra Slots. As for appea
 -   Fadetrimmer originally started as a joke Oath among the community, the joke being the obtainment method. Arch\_Mage confirmed that it most likely wouldn't get an obtainment. Like a lot of things he says, this didn't age well.
 -   Fadetrimmer's haircuts will stay on the opponent for ten minutes, or when you leave the server. They can also go to a [Barber](Barber.md) and say _"Help me, barber. A most wretched cut has befallen me."_ to undo the haircut.
 -   Fadetrimmer moves bear similarities to a few [Attunement-less](Attunement-less.md) moves. For example, Close Shave is very similar to [Prominence Draw](Attunement-less.md#prominence-draw), as they both lunge and deliver a fast slash, and Precision Cuts is very similar to [Exhaustion Strike](Attunement-less.md#exhaustion-strike), but with more hits.
--   The description of this Oath is a reference to the "Ginger Fringe Incident" meme.
+-   The description of this Oath is a reference to the "[Ginger Fringe Incident](https://knowyourmeme.com/memes/ginger-fringe-incident)" meme.
 -   The hitbox on the Hair Products _is_ the spray visual effect, and due to this, it is nearly impossible to land in combat without setup.
     -   The spray itself does not move far from the point of use and doesn't carry the player's momentum, which makes attempting to land it while moving substantially more difficult.
 -   Although the Flammable and Charming hair sprays are parryable, they apply their full status effect on the very first tick, meaning that if you don't perfectly parry it, your parry won't do anything except end the move early. This makes blocking a much safer option when it comes to defending against this attack.

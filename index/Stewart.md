@@ -1,22 +1,27 @@
 ---
 title: Stewart
-revid: 188453
+revid: 191642
 source: https://deepwoken.fandom.com/wiki/Stewart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
+categories: [Ganymede NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Stewart
 
+| Stewart | |
+|---|---|
+| name | Stewart |
+| aspect | Ganymede |
+| location | Castle Light |
+| affiliation | The Divers |
+
 Variants: [Graha](Graha.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +32,7 @@ Stewart is a [Ganymede](Ganymede.md) NPC. They talk about [Urchin Stew](Urchin_S
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>This stove is the only place to cook <i>anything</i> down here! Most of our meals are Urchin Stew, though.. not much else around here to cook. I just throw three of 'em over the heat and call it a day.</td>

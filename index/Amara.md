@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 188072
+revid: 191310
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -42,7 +42,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Good to see you traveler (Low Rep) /comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td>
@@ -58,15 +58,15 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
   <td>Captains Recommendation and no Galebreathe</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
   <td colspan="2">Help out the Centurions in Aratel, though be careful, not all of them may be friendly. Once you've got their approval, return to me with a recommendation and I'll teach you.</td>
   <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts. You seem very familiar with the way of Galebreathing already, you can take this form of martial arts to its prime in no time. I wish you the best of luck, comrade (Friend rep) / [First Name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
   <td>I see, Captain Abydos/Acacia/Acheron/Acnes/Cyrus/Xavos/Zash really admires your efforts. It doesn't seem you're that familiar with Galebreathing at all... You won't be able to reach it's full potential just yet. I wish you the best of luck, comrade (Friend rep) / [First Name] (Ally rep), the Legion truly appreciates the work you have done, but our job isn't quite done yet.</td>
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2">End</td>
-  <td colspan="2">End, player obtains the Legion Kata fighting style.</td>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue], player obtains the Legion Kata fighting style.</td>
 </tr>
 </tbody>
 </table>
@@ -78,7 +78,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Good to see you again comrade(Friend rep)/[Name](Ally rep), What brings you back to the camp?</td>
@@ -90,7 +90,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
   <td colspan="8">[See "First Encounter"]</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -100,7 +100,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Good to see you traveler (Low Rep) /comrade (Friend Rep) / [First Name] (Ally Rep). What brings you to the camp?</td>
@@ -114,7 +114,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
   <td>[See "First Encounter"]</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Zirik
-revid: 191220
+revid: 191704
 source: https://deepwoken.fandom.com/wiki/Zirik
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Hive, Reputation]
@@ -39,7 +39,7 @@ Zirik is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*They seem to be pretending to look very interested in some plants.*</i> Wow! What beautiful grasses these are. Gorgeous. Simply marvellous.</td>
@@ -55,7 +55,7 @@ Zirik is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*They nervously fidget as you approach.*</i> Gosh! Your name spreads quickly amongst the trees. It's a good name, too. A name that I could help.</td>
@@ -100,13 +100,13 @@ Zirik is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*They seem to be sweating bullets as you approach.*</i> WOW! WHAT LOVELY PLANTS THESE ARE!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

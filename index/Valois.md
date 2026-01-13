@@ -1,6 +1,6 @@
 ---
 title: Valois
-revid: 191251
+revid: 191683
 source: https://deepwoken.fandom.com/wiki/Valois
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Summer Company, Reputation]
@@ -42,7 +42,7 @@ Valois is located on the bridge heading towards the [Inn](Inn.md) at [Summer Isl
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The man barely looks up from his book, scowling at you.*</i> I'm on break and your nose seems to be clean, keep it that way.</td>
@@ -58,7 +58,7 @@ Valois is located on the bridge heading towards the [Inn](Inn.md) at [Summer Isl
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The man barely looks up from his book, scowling at you.*</i> I'm on break, what do you want?</td>
@@ -103,7 +103,7 @@ Valois is located on the bridge heading towards the [Inn](Inn.md) at [Summer Isl
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The man doesn't even look up from his reading*</i></td>

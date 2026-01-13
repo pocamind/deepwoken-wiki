@@ -1,6 +1,6 @@
 ---
 title: Diluvian Mechanism (NPC)
-revid: 141283
+revid: 191401
 source: https://deepwoken.fandom.com/wiki/Diluvian_Mechanism_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Floor 1, NPCs]

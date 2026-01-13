@@ -1,6 +1,6 @@
 ---
 title: Ciea
-revid: 186762
+revid: 191368
 source: https://deepwoken.fandom.com/wiki/Ciea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -55,7 +55,7 @@ These colors in dialogue are for convenience. They do not appear in-game.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hm? You come stumbling into my research lab, but for what cause? If you're looking for potions, I'm not for hire. However, if you are looking to experiment and train your intellect to pursue being an apothecary, I do offer lessons, hehe.</td>
@@ -77,7 +77,7 @@ These colors in dialogue are for convenience. They do not appear in-game.
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -87,7 +87,7 @@ These colors in dialogue are for convenience. They do not appear in-game.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">My apprentice returns! Have you finished your assignment?</td>
@@ -114,8 +114,8 @@ These colors in dialogue are for convenience. They do not appear in-game.
   <td colspan="3">A protege! Dear apprentice, this is it! You truly are an inspiring apothecary! I hope you've gained newfound knowledge of this unique art. Please, I insist you return to me if you ever seek additional lessons; I'm available anytime.</td>
 </tr>
 <tr>
-  <td colspan="9">End</td>
-  <td colspan="3">End, quest complete</td>
+  <td colspan="9">[End Dialogue]</td>
+  <td colspan="3">[End Dialogue], quest complete</td>
 </tr>
 </tbody>
 </table>
@@ -125,7 +125,7 @@ These colors in dialogue are for convenience. They do not appear in-game.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">My protege! Care to undergo another lesson? I'll put your intellect to the test!</td>
@@ -137,7 +137,7 @@ These colors in dialogue are for convenience. They do not appear in-game.
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

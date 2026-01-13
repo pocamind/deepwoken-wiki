@@ -1,18 +1,24 @@
 ---
 title: Mark Adaset
-revid: 190878
+revid: 191537
 source: https://deepwoken.fandom.com/wiki/Mark_Adaset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers]
 ---
 
 # Mark Adaset
 
+| Mark Adaset | |
+|---|---|
+| name | Mark Adaset |
+| aspect | Adret |
+| pronouns | He/him |
+| location | Castle Light |
+| affiliation | The Divers |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +37,7 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The Adretian man before you speaks without meeting your gaze.*</i> Another one wandered in? What a pain...</td>
@@ -87,7 +93,7 @@ Mark Adaset is located on the second floor of [Castle Light](Castle_Light.md), n
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, you're back. What do you need?</td>

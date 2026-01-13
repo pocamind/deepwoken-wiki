@@ -1,12 +1,18 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 188988
+revid: 191419
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
 ---
 
 # Erosius Amaltus Urivortus Alistus Casius Walistoshus
+
+| Erosius Amaltus Urivortus Alistus Casius Walistoshus | |
+|---|---|
+| name | Erosius Amaltus Urivortus Alistus Casius Walistoshus |
+| species | Kyrsan |
+| location | Firfire |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +21,6 @@ This content is not accessible outside of this gamemode.
 “ May your path to divinity be without obstacles. ”
 
 ― Erosius Amaltus Urivortus Alistus Casius Walistoshus
-
-Template:NpcInfobox
 
 ## Description
 
@@ -33,7 +37,7 @@ Upon retrieving the Spear of Nakti and completing Erosius' [Quest](Quests.md), t
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Frinwalter... Laeuve thous plwaeche.</td>
@@ -73,7 +77,7 @@ Upon retrieving the Spear of Nakti and completing Erosius' [Quest](Quests.md), t
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>[Player has retrieved the Spear of Nakti]</td>
@@ -95,7 +99,7 @@ Upon retrieving the Spear of Nakti and completing Erosius' [Quest](Quests.md), t
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Greetings <i>[Kyrsan Name]</i>, the way is open to you.</td>

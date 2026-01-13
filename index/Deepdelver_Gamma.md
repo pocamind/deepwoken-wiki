@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Gamma
-revid: 188811
+revid: 191393
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Gamma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Deepdelvers]
@@ -34,7 +34,7 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hmm.. Oh, another one? We must be popular today, There's an awful lot of you <a href="Glossary.md#pathfinders">Pathfinders</a> trudging by here. What do you need?</td>
@@ -58,9 +58,9 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
   <td colspan="6">Right, the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>. So far as we know, there's only two 'safe' ways down to it. Our Deepdriller here, which is restricted to employees only, and one of <a href="Glossary.md#castle-light">Castle Light's</a>... creations. Thought, we try to avoid <a href="Glossary.md#the-divers">Diver</a> interaction, so I can't tell you much of their method. Maybe they'll let you take a crack at it? They're awfully fond of sending people to their deaths.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
   <td colspan="3">The Second Layer?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3"></td>
@@ -68,7 +68,7 @@ Deepdelver Gamma is located in [The Depths](The_Depths.md) in [The Chariot's Spi
 </tr>
 <tr>
   <td colspan="3"></td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -80,7 +80,7 @@ This dialogue is unlocked if the player is the [Ignition Delver](Ignition_Delver
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>How's work treatin' ya, recruit?</td>

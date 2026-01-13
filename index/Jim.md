@@ -1,18 +1,22 @@
 ---
 title: Jim
-revid: 191223
+revid: 191488
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
+categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
 ---
 
 # Jim
 
+| Jim | |
+|---|---|
+| name | Jim |
+| aspect | Canor |
+| location | Etris Docks |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -42,7 +46,7 @@ Jim is located at the [Etris Docks](Etris_Docks.md), in of one of the buildings.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>None here, either... Hey, you. Interested in doing me a favor? There could be something in it for you.</td>
@@ -70,7 +74,7 @@ Jim is located at the [Etris Docks](Etris_Docks.md), in of one of the buildings.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You got the embers?</td>
@@ -98,7 +102,7 @@ Jim is located at the [Etris Docks](Etris_Docks.md), in of one of the buildings.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Heh, thanks.</td>

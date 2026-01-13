@@ -1,18 +1,23 @@
 ---
 title: Sarkale
-revid: 188907
+revid: 191616
 source: https://deepwoken.fandom.com/wiki/Sarkale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
+categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Sarkale
 
+| Sarkale | |
+|---|---|
+| name | Sarkale |
+| aspect | Khan |
+| pronouns | He/him |
+| location | Firfire Caverns |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -23,7 +28,7 @@ A [Khan](Khan.md) found leaning against a mesh gate at the mouth of [Firfire Cav
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Hm? You aren't a <a href="Glossary.md#the-divers">Diver</a>, what are you doing down here? I'm afraid this is not the ideal place to be exploring, traveler.</td>
@@ -40,7 +45,7 @@ A [Khan](Khan.md) found leaning against a mesh gate at the mouth of [Firfire Cav
 </tr>
 <tr>
   <td>What's in this cave?</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>It's not somewhere one would want to stay for long. I prefer the light outside much more to its crushing darkness. In my few ventures in there, I've always heard loud stomping... behind me, almost? I didn't want to stay to find out what was making those noises.</td>
@@ -52,7 +57,7 @@ A [Khan](Khan.md) found leaning against a mesh gate at the mouth of [Firfire Cav
   <td>I turned around, and ran! <i>*He laughs loudly, as if it were obvious.*</i> Ah, but you're an adventurer, how could I forget! Since you'll be on different levels of the cavern, you'll want to run, hm... much deeper in that hell. In your case, perhaps running toward your destination would server you better rather then running toward whence you came. Follow the lights, little lamb...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

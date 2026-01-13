@@ -1,12 +1,20 @@
 ---
 title: Karliah
-revid: 188645
+revid: 191497
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Karliah
+
+| Karliah | |
+|---|---|
+| name | Karliah |
+| aspect | Adret |
+| pronouns | She/her |
+| location | Etris |
+| affiliation | The Divers |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ Oh, sorry, I didn't see you there. I'm Karliah, apprentice Diver extraordinaire! ”
 
 ― Karliah
-
-Template:NpcInfobox
 
 ## Description
 
@@ -39,7 +45,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td colspan="24">Begin</td>
+  <td colspan="24">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="24"><i>*You can see a young Adret woman packing supplies into a bag, too absorbed in her preparations to notice her surroundings.*</i></td>
@@ -111,7 +117,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Oh, hello again.</td>
@@ -140,7 +146,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hi again!</td>
@@ -162,7 +168,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Karliah smiles beamingly.*</i> It's good to see you again.</td>
@@ -184,7 +190,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You're finally back! I was looking for a way to be strong enough to face the world. Thanks to you, I've finally awakened to the truths of this world. It's all completely meaningless in such a truly meaningful way. None of us float for long.</td>
@@ -213,7 +219,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="16">Please, help me! <i>*Karliah shrieks.*</i></td>
@@ -274,7 +280,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="16">Please, help me! <i>*Karliah shrieks.*</i></td>
@@ -340,7 +346,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="16">Please, help me! <i>*Karliah shrieks.*</i></td>
@@ -398,7 +404,7 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>H-hey... Stay close to me, alright?</td>

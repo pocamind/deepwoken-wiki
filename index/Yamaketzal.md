@@ -1,6 +1,6 @@
 ---
 title: Yamaketzal
-revid: 189265
+revid: 191699
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -39,7 +39,7 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">[Requirements Met]</td>
@@ -51,7 +51,7 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
 </tr>
 <tr>
   <td colspan="6">Huh?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">You a fighter?</td>
@@ -66,7 +66,7 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
 </tr>
 <tr>
   <td colspan="3">Uh huh...</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">*<i>The man sways on his feet, seeming to almost fall over onto you. You feel something being pressed into your hand before you can react. Opening it, you see a small brass chime.</i>*</td>
@@ -78,7 +78,7 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
   <td colspan="3">Y'can find others like yerself... Ones lookin' for glory... The chime attunes yuh... *<i>hic</i>*</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -135,7 +135,7 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Hrmm... [Total Chime Matches Won] tourneys won out of [Total Chime Matches Fought] fought...</td>
@@ -151,7 +151,7 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
   <td colspan="2">Not bad... Not bad at all.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -161,7 +161,7 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">No place for a warrior like yourself havin' such a sorry excuse for an instrument... No place... Can fix that fer yer...</td>
@@ -178,10 +178,10 @@ Despite his disheveled appearance, the combination of these two behaviors and hi
 </tr>
 <tr>
   <td>Blimey... Didn't think you'd actually do it... Guess I'll 'ave to put some elbow grease into this one... <i>*He lilts into you again and you feel a sharp tugging sensation in your chest for a moment. It briefly subsides, however.*</i></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
-  <td>End, players Resonance is untarnished</td>
+  <td>[End Dialogue], players Resonance is untarnished</td>
 </tr>
 </tbody>
 </table>

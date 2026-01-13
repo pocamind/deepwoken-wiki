@@ -1,6 +1,6 @@
 ---
 title: Rohan
-revid: 191230
+revid: 191605
 source: https://deepwoken.fandom.com/wiki/Rohan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Reputation, Military personnel of The Central Authority]
@@ -42,7 +42,7 @@ Rohan is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a large
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Lovely day isn't it? Let me know if your day isn't going so great due to outside forces. I can help.</td>
@@ -58,7 +58,7 @@ Rohan is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a large
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Lookin' over your shoulder, eh? Perhaps I can be of some help to you.</td>
@@ -103,7 +103,7 @@ Rohan is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a large
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Woah, hey. Don't linger around me for too long. You're gonna make 'em suspicious.</td>

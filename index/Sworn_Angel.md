@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 190038
+revid: 191652
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -8,7 +8,13 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 # Sworn Angel
 
-Template:Creature Infobox V3
+| Sworn Angel | |
+|---|---|
+| health | 900200 (Trial of One), 2250 (Corrupted) |
+| attacks | Assault, Critical, Feint, Glare, Gaze, Exhaustion Strike, Dash, Light Piercer |
+| drops | Sworn Angel Mask |
+| locations | Trial of One, The Diluvian Mechanism |
+| challenges | -- Sworn Angel --, Sworn Angel Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Sworn Angel Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Sworn Angel Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
 
 ## Description
 

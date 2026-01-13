@@ -1,6 +1,6 @@
 ---
 title: Malte
-revid: 188429
+revid: 191534
 source: https://deepwoken.fandom.com/wiki/Malte
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -34,7 +34,7 @@ They can be found muttering about their research. Malte is researching the [Sky 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>If you don't mind, I'm quite busy researching something right now... Do I look like a lecturer to you? <i>*They mutter something incomprehensible about academia.*</i></td>
@@ -46,7 +46,7 @@ They can be found muttering about their research. Malte is researching the [Sky 
   <td>You're interested? Hm, well, I've been reading up on the <b>Sky Statues</b> dotted around the luminant. Apparently in days past they were used by swordsmen of this very island to conduct 'Reflection Rituals'. Though, what exactly these were, I have no clue.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

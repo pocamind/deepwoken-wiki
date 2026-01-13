@@ -1,12 +1,20 @@
 ---
 title: The Guy
-revid: 190857
+revid: 191662
 source: https://deepwoken.fandom.com/wiki/The_Guy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
+categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Summer Company, Quests, NPCs located in the Eastern Luminant, Voiced Characters]
 ---
 
 # The Guy
+
+| The Guy | |
+|---|---|
+| name | Guy (presumably) |
+| aspect | Canor |
+| pronouns | He/him |
+| location | Bluster Rift |
+| affiliation | The Summer Company |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ I'm a bit of a big deal around here. Bit of a big shot. You might've heard of me. They call me 'The Guy'. Why, you may ask? There's nobody else like me, I'm simply The Guy. The pinnacle of confidence and swagger, the pride of the Summer Company. ”
 
 ― The Guy
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +41,7 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">What are you lookin' at? Show some respect. I'm a bit of a big deal around here. Bit of a big shot. You might've heard of me. They call me 'The Guy'. Why, you may ask? There's nobody else like me, I'm simply The Guy. The pinnacle of confidence and swagger, the pride of Summer Company. And you, rat?</td>
@@ -75,7 +81,7 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Look who comes crawling back. Go on. Show me what you found. Let's see if a lowlife like you can scrounge up anything worth selling.</td>
@@ -104,7 +110,7 @@ The Guy is located in [Bluster Rift](Bluster_Rift.md), standing by a tend inside
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>[Completed Quest]</td>

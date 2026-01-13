@@ -1,6 +1,6 @@
 ---
 title: "Well-kept Gravestone"
-revid: 176916
+revid: 191696
 source: https://deepwoken.fandom.com/wiki/Well-kept_Gravestone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -28,7 +28,7 @@ Well-kept Gravestone is located in [Isle of Vigils](Isle_of_Vigils.md) beside th
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*A gravestone that seems to have been upket, perhaps by a relative to the deceased.*</i></td>
@@ -40,7 +40,7 @@ Well-kept Gravestone is located in [Isle of Vigils](Isle_of_Vigils.md) beside th
   <td><i>*A Vesperian mask lays against the gravestone. You supposed it must belong to the departed.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -50,7 +50,7 @@ Well-kept Gravestone is located in [Isle of Vigils](Isle_of_Vigils.md) beside th
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6"><i>*A gravestone that seems to have been upket, perhaps by a relative to the deceased.*</i></td>
@@ -68,13 +68,13 @@ Well-kept Gravestone is located in [Isle of Vigils](Isle_of_Vigils.md) beside th
 </tr>
 <tr>
   <td colspan="3">[Place Flower]</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td><i>*You plant Suri's flower. Time to head back*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

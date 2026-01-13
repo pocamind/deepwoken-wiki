@@ -1,6 +1,6 @@
 ---
 title: Windrunner
-revid: 187580
+revid: 191697
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -37,7 +37,7 @@ Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Dock
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>And so they continue to squabble... Oh, someone actually found their way up here?</td>
@@ -49,7 +49,7 @@ Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Dock
   <td>Observing. This conflict down below. There is a shadow war being waged. Yes, on the surface it appears like the <a href="Glossary.md#the-central-authority">Authority</a> are simply trying to maintain control, but what about the motives of their leaders? The Contractor that resides within the Palace and the Warmaster in his Fortress. Two men attempting to keep an <a href="Glossary.md#oaths">Oath</a>... Which oath is right?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -59,7 +59,7 @@ Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Dock
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ahh... You have taken an <a href="Glossary.md#oaths">Oath</a> I see.</td>
@@ -71,7 +71,7 @@ Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Dock
   <td>If you value your life, you will run. I can tell you are fast, run far from this place if you don't want to find yourself in the maw of the second Celtorian horror.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

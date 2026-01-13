@@ -1,6 +1,6 @@
 ---
 title: Jeremiah (Vow of Iron)
-revid: 188017
+revid: 191486
 source: https://deepwoken.fandom.com/wiki/Jeremiah_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer]
@@ -46,7 +46,7 @@ Jeremiah is located in the [Varicosa District](Varicosa_District.md) of [The Cit
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The man takes a deep breath in through his nose.*</i> .You REALLY smell like empty pockets. I'll teach ya something if bring me every gem I am looking for.</td>
@@ -62,7 +62,7 @@ Jeremiah is located in the [Varicosa District](Varicosa_District.md) of [The Cit
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*He fidgets excitedly, elated at the sight of the gems in your possession. He then stares at them for a few seconds.*</i> These are what I am looking for. Feel free to keep em', I know what I must go and do now.</td>
@@ -78,7 +78,7 @@ Jeremiah is located in the [Varicosa District](Varicosa_District.md) of [The Cit
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Appreciate the help!</td>

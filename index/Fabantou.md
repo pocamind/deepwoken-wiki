@@ -1,6 +1,6 @@
 ---
 title: Fabantou
-revid: 191206
+revid: 191431
 source: https://deepwoken.fandom.com/wiki/Fabantou
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -53,7 +53,7 @@ The Three Cheers Menu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The grizzled Felinor at the bar flashes you a toothy smile.*</i> Welcome, my friend, to the Three Cheers! Lay down yer weapons and wagers at the door, and play nice. Now, what can I get ya'?<br>
@@ -72,7 +72,7 @@ The Three Cheers Menu
   <td><i>*A question certainly asked many times before, prompting a proud scoff from him.*</i> Pah! Couldn't stand workin' in that rotten mess hall no longer. Got one of the commanders to sweet-talk the Warden into allowin' me to brighten up some vacant shack in town, and the rest is history. He still ain't too fond of his soldiers' messin' about here, but it does wonders for morale, can't deny that.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ The Three Cheers Menu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The grizzled Felinor at the bar flashes you a toothy smile.*</i> My favourite tin can! Come, now, friend, what can I do for you today?<br>
@@ -104,7 +104,7 @@ The Three Cheers Menu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Fabantou offers you a languid tilt of the head and an apologetic leer. You're far too responsible for this.*</i></td>
@@ -123,7 +123,7 @@ The Three Cheers Menu
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Purchasing Tankard of Ongo Juice</td>
@@ -144,13 +144,13 @@ The Three Cheers Menu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Felinor glares at you, then smiles, in an oddly warm manner*</i> I'm sorry, friend, we only serve military personnel! Maybe consider enlisting, hm?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -160,13 +160,13 @@ The Three Cheers Menu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The tavern patrons all stare at you threateningly, as the Felinor exasperatedly gestures between you and the door, muttering to you frantically*</i> Hey, 'friend', let's not make this ugly, yeah? You should leave - you're upsetting the clientele!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

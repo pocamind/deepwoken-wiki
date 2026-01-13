@@ -1,18 +1,23 @@
 ---
 title: Sierra
-revid: 190862
+revid: 191634
 source: https://deepwoken.fandom.com/wiki/Sierra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Individuals with unspecified pronouns]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Individuals with unspecified pronouns]
 ---
 
 # Sierra
 
+| Sierra | |
+|---|---|
+| name | Sierra |
+| aspect | Celtor |
+| location | Bluster Rift |
+| affiliation | The Summer Company |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +34,7 @@ Sierra is located in [Bluster Rift](Bluster_Rift.md), sitting at a campfire in a
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I'd rather be on literally any other assignment than this one. I hate that guy.</td>

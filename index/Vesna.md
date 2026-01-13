@@ -1,6 +1,6 @@
 ---
 title: Vesna
-revid: 191249
+revid: 191684
 source: https://deepwoken.fandom.com/wiki/Vesna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
@@ -50,7 +50,7 @@ Vesna's Wares
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">hey... no offence, but. you look like you could use a makeover...... if you give me a few notes, i could help you get... fancy. elegant gothic, like me......<br>

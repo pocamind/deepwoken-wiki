@@ -1,6 +1,6 @@
 ---
 title: Seroth
-revid: 189616
+revid: 191627
 source: https://deepwoken.fandom.com/wiki/Seroth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -39,7 +39,7 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="16"><i>*The man startles almost dropping a small vial of dried blood*</i> Wh- you arent [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] supposed to be here -- ahem! Official guard business. Nothing you need to trouble yourself with, <a href="Glossary.md#pathfinders">Pathfinder</a>.</td>
@@ -90,7 +90,7 @@ Seroth is located in a cave near the docks of [Isle of Vigils](Isle_of_Vigils.md
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Still here? Tch... Don't you have better thing to do than bothering a working man?</td>
@@ -110,7 +110,7 @@ This dialogue is unlocked if the player has the [Sanguine Transfuser](Sanguine_T
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh, wow. Is that... <i>*Beads of sweat begin to form on Seroth's forehead.*</i> I don't suppose you'd want to give that back-haha... ha.</td>
@@ -132,7 +132,7 @@ This dialogue is unlocked if the player has the [Sanguine Transfuser](Sanguine_T
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh, you.. <i>*Seroth scowls.*</i> If I had my katana with me... <i>*Seroth releases his scowl into a lamentful exhale, deflating in front of you.*</i> Who am I kidding, if I knew I could take you I'd have already tried... please just leave me alone.</td>

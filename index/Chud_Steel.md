@@ -1,6 +1,6 @@
 ---
 title: Chud Steel
-revid: 188809
+revid: 191367
 source: https://deepwoken.fandom.com/wiki/Chud_Steel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -45,13 +45,13 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*An Adretian soldier clad in garish blue armor stands before you, beaming with pride. You can't help but feel like you've seen that helmet before...*</i> HURRAH, soldier! Welcome to the Central Authority Military! Keep on keeping on! <i>*He flashes you with two finger guns. You can't tell, but you swear he's giving you a pristine smile underneath that helmet of his.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -63,7 +63,7 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td colspan="20">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="20"><i>*You salute the flashily-dressed soldier. He salutes back.*</i> HURRAH, my comrade! Interceptor Chud Steel at your service! Proud to serve the <a href="Glossary.md#the-central-authority">Central Authority</a>!</td>
@@ -101,7 +101,7 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
   <td>Interceptor Steel, may I hear one of your legendary catchphrases? You know... for the fans!</td>
   <td colspan="4">What are some of the notable things you've done? I'm curious.</td>
   <td colspan="4">Have you ever gotten... *hate* mail?</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4">[See first instance]</td>
@@ -148,7 +148,7 @@ Chud Steel is located on a balcony along-side [Sentinel Augustus](Sentinel_Augus
 <table>
 <tbody>
 <tr>
-  <td colspan="5">Begin</td>
+  <td colspan="5">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="5"><i>*Interceptor Chud Steel and yourself exchange salutes. He removes his helmet - there's something magically supernatural about it.*</i><p>HURRAH, my comrade! Welcome back! Come to chat with your old friend Chud Steel, huh? Very well! Let's chat!</p></td>
@@ -174,7 +174,7 @@ Upon asking to hear one of Chud Steel's legendary catchphrases, he will randomly
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Interceptor Chud Steel and yourself exchange salutes. He removes his helmet - there's something magically supernatural about it.*</i><p>HURRAH, my comrade! Welcome back! Come to chat with your old friend Chud Steel, huh? Very well! Let's chat!</p></td>
@@ -221,7 +221,7 @@ Upon asking to hear one of Chud Steel's legendary catchphrases, he will randomly
   WITNESS ME!</p></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -233,13 +233,13 @@ Upon asking to hear one of Chud Steel's legendary catchphrases, he will randomly
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The gaudily-armoured Adretian soldier stands proudly before you. His voice is muffled by his garish blue helmet.*</i> Three cheers, citizen! Fear not, we fight for <i>you</i>!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -249,13 +249,13 @@ Upon asking to hear one of Chud Steel's legendary catchphrases, he will randomly
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Fear not, my lovely comrades! I will dispatch of this villain! Huuu-<i>RRAH</i>!</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b>.</td>
+  <td>[End Dialogue], player is jailed and sent to <b>execution</b>.</td>
 </tr>
 </tbody>
 </table>

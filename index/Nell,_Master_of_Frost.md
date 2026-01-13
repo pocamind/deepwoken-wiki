@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 190166
+revid: 191569
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant, Individuals with They/them pronouns]
@@ -169,7 +169,7 @@ Nell executes theiropponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Can you really protect anything that you hold dear as you are now?</td>
@@ -192,7 +192,7 @@ Nell executes theiropponent after knocking them:
   <td>Bring me <b>5 Frigid Prisms</b>, Then we can continue</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -202,7 +202,7 @@ Nell executes theiropponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Have you done what I asked?</td>
@@ -226,10 +226,10 @@ Nell executes theiropponent after knocking them:
 </tr>
 <tr>
   <td colspan="2"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</i></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="2">End, Player obtains Glassblood</td>
+  <td colspan="2">[End Dialogue], Player obtains Glassblood</td>
 </tr>
 </tbody>
 </table>
@@ -241,7 +241,7 @@ Nell executes theiropponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Frost gathers at our fingertips, promising the coming winter. Have you come to let it envelop you?</td>
@@ -253,7 +253,7 @@ Nell executes theiropponent after knocking them:
   <td>[Opens Mantra Upgrade UI]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -263,13 +263,13 @@ Nell executes theiropponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>The vial I gave you. You must drink it.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

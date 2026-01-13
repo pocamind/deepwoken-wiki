@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Lancer
-revid: 177637
+revid: 191510
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Lancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Floor 2, Layer 2]
@@ -8,13 +8,19 @@ categories: [Monsters, Floor 2, Layer 2]
 
 # Kyrsgarde Lancer
 
+| Kyrsgarde Lancer | |
+|---|---|
+| health | 30007500 (Corrupted) |
+| attacks | Assault, Glacial Javelin, Skyward Spear |
+| drops | Frozen Membrane, Kyrsan Schematic |
+| locations | New Kyrsa, The Sleeping City |
+| challenges | -- Kyrsgarde --, Guardians of Kyrsa - Slay 10.Reward: +5% DMG; +2.5% RES, Mortal Coil - Slay 25.Reward: +5% DMG; +2.5% RES, Eternal Rest - Slay 100.Reward: +5% DMG; +2.5% RES |
+
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._
 
 “ It began with a sound. Ah in the ways of the Song... A Tone. And then the Gale came. Gods above, it deafened us all. And when our hearing returned... They're puppets now, just like him. Eternally bound to guard his shrine... and to allow his arrival. ”
 
 ― Naerotiv on his fellows
-
-Template:Creature Infobox V3
 
 ## Description
 
@@ -71,13 +77,13 @@ A Kyrsgarde Lancer executes its opponent:
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Waheit... Yaere fraeum aboeave!</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

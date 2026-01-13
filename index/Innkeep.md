@@ -1,6 +1,6 @@
 ---
 title: Innkeep
-revid: 177275
+revid: 191477
 source: https://deepwoken.fandom.com/wiki/Innkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -30,7 +30,7 @@ There are currently 6 Innkeep allowing stay in these locations: [Etris](Etris.md
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Spawn not set at inn</td>
@@ -42,7 +42,7 @@ There are currently 6 Innkeep allowing stay in these locations: [Etris](Etris.md
 </tr>
 <tr>
   <td colspan="3">How much is it to stay here?</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">It'll cost you 5 Notes to stay here.</td>
@@ -59,8 +59,8 @@ There are currently 6 Innkeep allowing stay in these locations: [Etris](Etris.md
   <td colspan="3">I don't think you have the money to stay here.</td>
 </tr>
 <tr>
-  <td colspan="3">End, player is booked into the inn</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue], player is booked into the inn</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -70,13 +70,13 @@ There are currently 6 Innkeep allowing stay in these locations: [Etris](Etris.md
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Get out of my inn!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -86,13 +86,13 @@ There are currently 6 Innkeep allowing stay in these locations: [Etris](Etris.md
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I'm afraid we're not currently accepting any new residents at this time.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

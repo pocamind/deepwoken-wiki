@@ -1,6 +1,6 @@
 ---
 title: Friendly Prisoner
-revid: 188822
+revid: 191438
 source: https://deepwoken.fandom.com/wiki/Friendly_Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Prisoners of The Central Authority]
@@ -30,7 +30,7 @@ Friendly Prisoner is located in the [Merit Detainment Core](Merit_Detainment_Cor
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*As you sneak about, one of the prisoners notices you. Leaning forwards through the bars, he beckons you, whispering.*</i> Psst! Hey, you! You trying to break someone out?</td>
@@ -60,7 +60,7 @@ Friendly Prisoner is located in the [Merit Detainment Core](Merit_Detainment_Cor
   <td><i>*The prisoner pulls away from the bars, smirking.*</i> Goodluck, pal - gods know you'll need it.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

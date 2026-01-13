@@ -1,6 +1,6 @@
 ---
 title: Atra
-revid: 187772
+revid: 191328
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
@@ -44,7 +44,7 @@ Completing her quest rewards you with EXP, positive [The Hundred Legions](The_Hu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah. Have you spoke to Gaius?</td>
@@ -78,7 +78,7 @@ Completing her quest rewards you with EXP, positive [The Hundred Legions](The_Hu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I see... I'll let my comrades know. We'll hold a ceremony in his honor.</td>
@@ -94,7 +94,7 @@ Completing her quest rewards you with EXP, positive [The Hundred Legions](The_Hu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah. Have you spoke to Gaius?</td>
@@ -112,7 +112,7 @@ This dialogue is unlocked if the player has spoken to [Gaius](Gaius.md) at least
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah. Have you spoke to Gaius?</td>

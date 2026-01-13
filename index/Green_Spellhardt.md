@@ -1,6 +1,6 @@
 ---
 title: Green Spellhardt
-revid: 178993
+revid: 191455
 source: https://deepwoken.fandom.com/wiki/Green_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
@@ -24,7 +24,7 @@ Green is one of many [Lightborn](Lightborn.md) located in [The Floating Keep](Th
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ooooh.. I've got to figure out a costume soon enough. I think Tundra is gonna steal my idea if I don't make it fast enough.</td>
@@ -54,7 +54,7 @@ Green is one of many [Lightborn](Lightborn.md) located in [The Floating Keep](Th
   <td><a href="Glossary.md#the-heavens">Heavens</a>!.. At last, someone understands my genius! <i>*He sniffles dramatically, nodding with relief. A single tear falls from his eye to his cheek.*</i> I needed that.. Thank you, friend.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

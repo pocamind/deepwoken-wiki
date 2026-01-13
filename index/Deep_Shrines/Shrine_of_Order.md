@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 185077
+revid: 191387
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -59,7 +59,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -88,10 +88,10 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 </tr>
 <tr>
   <td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL. GO NOW.</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -101,13 +101,13 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>BALANCED. PERFECT. SYMMETRICAL. BEAUTIFUL.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -119,13 +119,13 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>YOU LACK THE POTENTIAL TO UNDERSTAND BALANCE.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -135,13 +135,13 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>YOUR HEART IS ALREADY PLEDGED TO ANOTHER.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -151,13 +151,13 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>THE SCALES HAVE NOT YET TIPPED.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 188850
+revid: 191523
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
@@ -103,7 +103,7 @@ Marae
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Passing by, traveler? How about a little bargain, for fun?</td>
@@ -133,13 +133,13 @@ Marae
 </tr>
 <tr>
   <td colspan="6">How do you even get this stuff?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">Simple! I wait for sorry souls like you to drop dead around here, and take anything cool looking off the corpse. Clever, right?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

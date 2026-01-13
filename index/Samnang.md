@@ -1,20 +1,27 @@
 ---
 title: Samnang
-revid: 191228
+revid: 191614
 source: https://deepwoken.fandom.com/wiki/Samnang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, NPCs, Quests, Clan Mofisu]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Quests, Clan Mofisu]
 ---
 
 # Samnang
+
+| Samnang | |
+|---|---|
+| name | Samnang |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | The Lordsgrove |
+| affiliation | Clan Mofisu |
+| family | Clan Mofisu, Sophon (brother) |
 
 Variants: [Nanji](Nanji.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -33,7 +40,7 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Oh brother, where have you gone?..</td>
@@ -80,7 +87,7 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You're back!.. But... My brother is not with you... Did you find out anything at all?..</td>
@@ -109,7 +116,7 @@ Samnang is located against a rock ledge near [Vesna](Vesna.md) at [The Lordsgrov
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Their eyes are full of sorrow.*</i> My poor brother... May his soul rest... Thank you for bringing me this closure, stranger. May <a href="Glossary.md#mur-of-light">Mur's</a> light shine upon your path...</td>

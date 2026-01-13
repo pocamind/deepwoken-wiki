@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 184671
+revid: 191452
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Golden Rats, NPCs]
@@ -74,7 +74,7 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Ah hello! Welcome to the Golden Rat! You can head in whenever, just make sure you're looking for a brawl haha!</td>
@@ -89,7 +89,7 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
   <td>Oh I'll take them! Gotta make something useful out of the losers downstairs. I'll pay you once you can get at least 5 for me.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

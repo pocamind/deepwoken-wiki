@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 190218
+revid: 191314
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -8,7 +8,10 @@ categories: [NPCs, Vendors]
 
 # Antiquarian
 
-Template:NpcInfobox
+| Antiquarian | |
+|---|---|
+| npcname | Antiquarian |
+| location | Etris, Isle of Vigilis, Greathive Aratel, Summer Isle, Miner's Landing, Fort Merit, Castle Light, Voidheart, The Floating Keep, Player Guild Base |
 
 **Antiquarians** are NPCs that will purchase various items and they can be found in settlements.
 

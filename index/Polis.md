@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 187567
+revid: 191587
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
@@ -102,7 +102,7 @@ Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hm. Back again? You're more persistent than I gave you credit for.</td>
@@ -123,7 +123,7 @@ Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in t
 </tr>
 <tr>
   <td colspan="3">What is Jus Karita?</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">A Path that one may walk in combat. Refined by the Justicar before me, we use it to stand our ground without need of a blade. You seem to have the aptitude required it. Interested?</td>
@@ -135,7 +135,7 @@ Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in t
   <td colspan="3">I've only started you on your jouruney. It's up to you to take the next steps in your Path.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -145,13 +145,13 @@ Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">How strange that our Paths should cross again so soon...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

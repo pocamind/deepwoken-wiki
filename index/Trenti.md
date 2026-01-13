@@ -1,6 +1,6 @@
 ---
 title: Trenti
-revid: 188173
+revid: 191677
 source: https://deepwoken.fandom.com/wiki/Trenti
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -35,7 +35,7 @@ Trenti is located in the [Etris](Etris.md) inn, leaning against a wall beside th
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Well well well, look who's up. Oh please, hold your praise, I know how much you must be wanting to thank your hero!</td>
@@ -56,8 +56,8 @@ Trenti is located in the [Etris](Etris.md) inn, leaning against a wall beside th
   <td>Erisia?</td>
   <td colspan="2">Would you be able to spare me some cash?</td>
   <td colspan="3">How can I earn some money?</td>
-  <td colspan="3">End</td>
-  <td colspan="2">End</td>
+  <td colspan="3">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>Yeah, it's a whole island that drifted in from the Voidsea not too long ago. Place is meant to be crawling with opportunists, but maybe there's some things left to find?</td>
@@ -65,9 +65,9 @@ Trenti is located in the [Etris](Etris.md) inn, leaning against a wall beside th
   <td colspan="3">[See above]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td>End</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Mastery
-revid: 190942
+revid: 191386
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Mastery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -68,7 +68,7 @@ Shrine of Mastery has two different effects.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -88,7 +88,7 @@ Shrine of Mastery has two different effects.
   <td colspan="2">THE CONTRACT IS COMPLETE. WASTE.</td>
 </tr>
 <tr>
-  <td colspan="2">End, player loses 1 to refund a Trait or Attribute point</td>
+  <td colspan="2">[End Dialogue], player loses 1 to refund a Trait or Attribute point</td>
 </tr>
 </tbody>
 </table>
@@ -102,13 +102,13 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -120,13 +120,13 @@ If the player has not invested any Attribute or Trait points, this dialogue will
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

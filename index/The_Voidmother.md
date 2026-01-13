@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 190591
+revid: 191666
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Knives of Eylis]
@@ -33,7 +33,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -91,8 +91,8 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="6">Very well, Knife.</td>
 </tr>
 <tr>
-  <td colspan="6">End (You get teleported)</td>
-  <td colspan="6">End (Spawns portals)</td>
+  <td colspan="6">[End Dialogue] (You get teleported)</td>
+  <td colspan="6">[End Dialogue] (Spawns portals)</td>
 </tr>
 </tbody>
 </table>
@@ -102,7 +102,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -120,7 +120,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -130,7 +130,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -148,7 +148,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -158,7 +158,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -176,7 +176,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -186,7 +186,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -204,7 +204,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -214,7 +214,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -232,7 +232,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -242,7 +242,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -260,7 +260,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -270,7 +270,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -288,7 +288,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="12">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -298,7 +298,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your heart is of empty will, Knife. A soul as vast as the <a href="Glossary.md#the-voidsea">Voidsea</a> itself, yet unchanging in tide. Why are you here?</td>
@@ -312,7 +312,7 @@ The Voidmother views the player as naive, often referring to them as "dull knife
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="6">End, player is teleported to last Voideye location</td>
+  <td colspan="6">[End Dialogue], player is teleported to last Voideye location</td>
 </tr>
 </tbody>
 </table>

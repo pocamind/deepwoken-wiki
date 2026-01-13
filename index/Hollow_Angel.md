@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 177414
+revid: 191471
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Layer 1, The Depths]
@@ -8,7 +8,13 @@ categories: [Enemies, Enemies that can wield Enchantments, Layer 1, The Depths]
 
 # Hollow Angel
 
-Template:Creature Infobox V3
+| Hollow Angel | |
+|---|---|
+| health | 400 |
+| attacks | Assault, Critical, Feint, Glare, Gaze, Exhaustion Strike, Dash, Light Piercer |
+| drops | Hollow Angel Mask |
+| locations | The City of the Drowned, Temple of the Forgotten Flame, The Diluvian Mechanism, Depths Trial |
+| challenges | -- Sworn Angel --, Sworn Angel Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Sworn Angel Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Sworn Angel Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
 
 ## Description
 

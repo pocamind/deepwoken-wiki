@@ -1,12 +1,20 @@
 ---
 title: Sunway
-revid: 188904
+revid: 191646
 source: https://deepwoken.fandom.com/wiki/Sunway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
 ---
 
 # Sunway
+
+| Sunway | |
+|---|---|
+| name | Sunway |
+| aspect | Vesperian |
+| pronouns | He/him |
+| location | The Frontier Furnace |
+| affiliation | The Ignition Union |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ This base used to have a lot more people wandering these halls, friend... ”
 
 ― Sunway
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +35,7 @@ From speaking with Sunway, it is implied that the Ignition Union created the bla
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Eh? You look, hm... <i>*He tilts his head to the side, puzzled.*</i> Unfamiliar. I'm guessing you're the one who turned on the generator?</td>

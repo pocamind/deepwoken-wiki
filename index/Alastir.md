@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 188065
+revid: 191304
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -40,7 +40,7 @@ Alastir is located at the [Pathfinder's Respite](<Pathfinder's_Respite.md>) in [
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, another pathfinder, I take it? You'd do well to keep your wits about you. The Duke's minions lurk here in great number.</td>
@@ -83,7 +83,7 @@ Alastir is located at the [Pathfinder's Respite](<Pathfinder's_Respite.md>) in [
 </tr>
 <tr>
   <td colspan="3"></td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
   <td colspan="3">What were the kidnappings for?</td>
   <td colspan="3">He was sailing away from Celtor when it happened, then?</td>
 </tr>
@@ -94,7 +94,7 @@ Alastir is located at the [Pathfinder's Respite](<Pathfinder's_Respite.md>) in [
 </tr>
 <tr>
   <td colspan="9"></td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ The player is tasked with collecting [Forgotten Villagers](Forgotten_Villager.md
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Player has Pathfinder NPC</td>
@@ -117,7 +117,7 @@ The player is tasked with collecting [Forgotten Villagers](Forgotten_Villager.md
   <td>[See First Encounter]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

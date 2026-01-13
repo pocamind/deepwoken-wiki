@@ -1,6 +1,6 @@
 ---
 title: Glaive Spellhardt
-revid: 179009
+revid: 191450
 source: https://deepwoken.fandom.com/wiki/Glaive_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -95,7 +95,7 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive weapons, and a random mas
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh! Look at all that Joy within you! How many souls have you scared?</td>
@@ -129,7 +129,7 @@ With 2022 Hallowtide, came with 3 Hallowtide-exclusive weapons, and a random mas
   <td colspan="6">Not quite enough for that yet, friend.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -141,7 +141,7 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh! Look at all that Joy within you! How many souls have you scared?</td>
@@ -153,7 +153,7 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
   <td colspan="12">No one? Come on, Hallowtide doesn't last forever, friend. Go on, scare a friend. Maybe Alina, in the courtyard. I've been bugging her all day.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -165,13 +165,13 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hum dee dum.. oh! You're not from here. Why not go see Lysander downstairs? I'm sure he can explain Hallowtide to you, better than I could at least.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

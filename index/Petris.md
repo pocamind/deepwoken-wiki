@@ -1,6 +1,6 @@
 ---
 title: Petris
-revid: 190482
+revid: 191583
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer]
@@ -31,13 +31,13 @@ He appears to have summoned the Ferryman in hopes of getting gifts, but instead 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Flames would call the Ferryman... That's what they told me... I-... I thought he would give me gifts like the tales of old. That monster...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

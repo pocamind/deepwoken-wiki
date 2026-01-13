@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 190923
+revid: 191655
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs]
@@ -37,7 +37,7 @@ The Teacher spawns along with two more NPCs sitting next to a campfire with set 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, a fellow <a href="Glossary.md#pathfinders">Pathfinder</a>? What might you need?</td>
@@ -65,7 +65,7 @@ The Teacher spawns along with two more NPCs sitting next to a campfire with set 
   <td colspan="2"><i>*The <a href="Glossary.md#pathfinders">Pathfinder</a> tells you a story of a man who withstood a great storm as he stood atop a mountain. You feel empowered by his durability. You plan to go stand on a mountain at one point.*</i></td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -75,13 +75,13 @@ The Teacher spawns along with two more NPCs sitting next to a campfire with set 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I don't have anymore stories, come back some other time.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

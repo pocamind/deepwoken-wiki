@@ -1,6 +1,6 @@
 ---
 title: Parsnip
-revid: 188855
+revid: 191581
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -34,7 +34,7 @@ He is wearing the [Duelist's Attire](<Duelist's_Attire.md>) outfit.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>This day seems to.. Not have any signs of improving! How quaint! Peculiar, even! Perhaps even... No, peculiar was enough, actually.</td>
@@ -64,7 +64,7 @@ He is wearing the [Duelist's Attire](<Duelist's_Attire.md>) outfit.
   <td>Look, look. You're asking for some business secrets, buddy. I can't tell 'ya much. Just... If you do go up there, if theres [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] something you see that looks, er.. <i>familiar</i> .. It was a work in progress of ours. Those <i>goons</i> are just sabotaging our operations and research, that's all. Its current hostility is simply because of their presence...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

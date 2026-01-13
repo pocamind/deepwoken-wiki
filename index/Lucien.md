@@ -1,18 +1,23 @@
 ---
 title: Lucien
-revid: 191227
+revid: 191525
 source: https://deepwoken.fandom.com/wiki/Lucien
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
+categories: [Felinor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Lucien
 
+| Lucien | |
+|---|---|
+| name | Lucien |
+| aspect | Felinor |
+| location | Songseeker Wilds |
+| family | Meemaw (grandmother) |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +36,7 @@ Lucien is located at Songseeker Wilds, standing outside of the mineshaft.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">No, no, no! Those <i><b>rats!</b></i> I can't believe this. Did you see what's going on in there? Did 'ya?!</td>
@@ -71,7 +76,7 @@ Lucien is located at Songseeker Wilds, standing outside of the mineshaft.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">HEY! Youve done it?! Have you cleared out those mineskippers?</td>
@@ -93,7 +98,7 @@ Lucien is located at Songseeker Wilds, standing outside of the mineshaft.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I won't forget you, partner. I can't wait to tell pa all about this!</td>

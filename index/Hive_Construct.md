@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 187305
+revid: 191469
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies, Ambush Enemies]
@@ -8,13 +8,17 @@ categories: [Monsters, The Hive, Hive Enemies, Ambush Enemies]
 
 # Hive Construct
 
+| Hive Construct | |
+|---|---|
+| health | 3000 |
+| drops | Tier 2 Mantra Modifiers, Hivelord Mask, Pomar, Hivelord's Hubris, Curse of Ysley's Ember Enchant Stone |
+| locations | Starswept Valley, Bluster Rift, Faction Ambushes |
+
 Golem Constructs
 
 “ DON'T STAND IN THE WAY OF TRUE PROGRESS. ”
 
 ― Hive Construct
-
-Template:Creature Infobox V3
 
 ## Description
 

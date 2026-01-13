@@ -1,6 +1,6 @@
 ---
 title: The Blade Within
-revid: 188772
+revid: 191658
 source: https://deepwoken.fandom.com/wiki/The_Blade_Within
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Dungeons]
@@ -33,7 +33,7 @@ Upon interacting with The Blade Within, the player will start a fight with a ref
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Your presence here... We both know what it means. If you believe yourself ready, this is where you shall pledge yourself to the Blade.</td>
@@ -43,12 +43,12 @@ Upon interacting with The Blade Within, the player will start a fight with a ref
   <td>I'm not ready...</td>
 </tr>
 <tr>
-  <td>End, fight begins</td>
+  <td>[End Dialogue], fight begins</td>
   <td>So be it. Your future remains open.</td>
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@ Upon interacting with The Blade Within, the player will start a fight with a ref
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Bladeharper, you return once more. Another errant future lays before you, awaiting your challenge. Will you meet it?</td>
@@ -68,12 +68,12 @@ Upon interacting with The Blade Within, the player will start a fight with a ref
   <td>I'm not ready...</td>
 </tr>
 <tr>
-  <td>End, fight begins</td>
+  <td>[End Dialogue], fight begins</td>
   <td>[See first instance]</td>
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ Upon interacting with The Blade Within, the player will start a fight with a ref
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Mind's Reflection Defeated</td>
@@ -94,8 +94,8 @@ Upon interacting with The Blade Within, the player will start a fight with a ref
   <td>A stray future triumphs... Prove yourself worthy of holding the keys to the future.</td>
 </tr>
 <tr>
-  <td>End, Bladeharper is unlocked or progressed</td>
-  <td>End</td>
+  <td>[End Dialogue], Bladeharper is unlocked or progressed</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

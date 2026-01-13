@@ -1,18 +1,22 @@
 ---
 title: Makolis Pariah Katatonicus
-revid: 188986
+revid: 191533
 source: https://deepwoken.fandom.com/wiki/Makolis_Pariah_Katatonicus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests, Individuals with unspecified pronouns]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests, Individuals with unspecified pronouns]
 ---
 
 # Makolis Pariah Katatonicus
 
+| Makolis Pariah Katatonicus | |
+|---|---|
+| name | Makolis Pariah Katatonicus |
+| species | Kyrsan |
+| location | Firfire |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +31,7 @@ Makolis Pariah Katatonicus is a [Kyrsan](Kyrsgarde.md) NPC. They can be found si
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Aelahi, frinwalter. You look tired.</td>
@@ -49,7 +53,7 @@ Makolis Pariah Katatonicus is a [Kyrsan](Kyrsgarde.md) NPC. They can be found si
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>It's peaceful, isn't it?</td>
@@ -69,7 +73,7 @@ This dialogue is unlocked if the player uses the [Resting Emote](Emotes.md) whil
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You are a good friend.</td>
@@ -85,7 +89,7 @@ This dialogue is unlocked if the player uses the [Resting Emote](Emotes.md) whil
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Thank you, friend. I will remember you.</td>

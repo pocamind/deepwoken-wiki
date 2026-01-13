@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Chance
-revid: 188951
+revid: 191382
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Chance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vendors, NPCs, Mechanics]
@@ -70,7 +70,7 @@ Shrine of Chance
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. WHAT DOES YOUR HEART DESIRE?</td>
@@ -85,7 +85,7 @@ Shrine of Chance
   <td colspan="2">THE CONTRACT IS COMPLETE.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -99,13 +99,13 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. RETURN ONCE YOU HAVE DECIDED YOUR PATH. THIS WE CANNOT DIVINE FOR YOU.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -115,13 +115,13 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

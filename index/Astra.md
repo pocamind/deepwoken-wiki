@@ -1,34 +1,32 @@
 ---
-title: Estrella
-revid: 191420
-source: https://deepwoken.fandom.com/wiki/Estrella
+title: Astra
+revid: 191325
+source: https://deepwoken.fandom.com/wiki/Astra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Individuals with unspecified pronouns]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Etrea, Individuals with unspecified pronouns]
 ---
 
-# Estrella
+# Astra
 
-| Estrella | |
+| Astra | |
 |---|---|
-| name | Estrella |
+| name | Astra |
+| alias | The Armorer |
 | aspect | Etrean |
-| location | Meteor Isle |
+| location | Etris |
+| affiliation | Etrea |
 
-Variants: [Astra](Astra.md)
-
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
-For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 
-Estrella is an [Etrean](Etrean.md) NPC. They sell basic starter weapons.
+Astra is an [Etrean](Etrean.md) NPC. They are the clerk at the weapons shop in [Etris](Etris.md). While weapons can be found and purchased around the shop, they sell them directly. They do not sell _all_ of the weapons found around the shop, however.
 
 ## Location
 
-Estrella is located inside of the house with the [Blacksmith](Blacksmith.md) at [Meteor Isle](Meteor_Isle.md).
+Astra is located at [Etris](Etris.md) inside the weapons shop.
 
 ## Shop
 
@@ -94,3 +92,7 @@ The Armorer's Arms
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   For a brief period, Astra's name was changed to Armorer before being renamed back to Astra.

@@ -1,6 +1,6 @@
 ---
 title: Songwright
-revid: 188873
+revid: 191637
 source: https://deepwoken.fandom.com/wiki/Songwright
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Guild Base, Attunement Trainers]
@@ -28,7 +28,7 @@ The Songwright is a Chrysid NPC found within the Guild Base Song Room. This NPC 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, one of my generous patrons! How may I assist you? Care for a lecture? A seminar?</td>
@@ -40,7 +40,7 @@ The Songwright is a Chrysid NPC found within the Guild Base Song Room. This NPC 
   <td colspan="12">[Opens Mantra Upgrade UI]</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -50,13 +50,13 @@ The Songwright is a Chrysid NPC found within the Guild Base Song Room. This NPC 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hm? Do not bother me. This guild is at the forefront of my priorities. They alone have seen the virtues of funding my research...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

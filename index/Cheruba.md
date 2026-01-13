@@ -1,6 +1,6 @@
 ---
 title: Cheruba
-revid: 182061
+revid: 191363
 source: https://deepwoken.fandom.com/wiki/Cheruba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
@@ -66,14 +66,14 @@ Cheruba's Cheerful Goods
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!<br>
   [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

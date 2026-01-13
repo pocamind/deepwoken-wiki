@@ -1,6 +1,6 @@
 ---
 title: General Titus Juventius
-revid: 190897
+revid: 191447
 source: https://deepwoken.fandom.com/wiki/General_Titus_Juventius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
@@ -9,6 +9,14 @@ notices:
 ---
 
 # General Titus Juventius
+
+| General Titus Juventius | |
+|---|---|
+| health | 92000 |
+| attacks | Worldpiercing Deluge, Commander's Rage, Splitting Ascension, Sovereign Drive, Wrathful Stomp, Warp Kick, Blighted Sparks |
+| drops | ??? |
+| locations | The PolymarchThe Valley of Heroes |
+| affiliation | The Hundred Legions |
 
 Variants: [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
 
@@ -19,8 +27,6 @@ This content is not accessible outside of this gamemode.
 “ You're a strong one, huh? But a good commander knows when to save their strength. See you around, sprout. ”
 
 ― General Titus Juventius
-
-Template:Creature Infobox V3
 
 ## Description
 

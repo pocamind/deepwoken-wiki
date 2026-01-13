@@ -1,14 +1,18 @@
 ---
 title: Etrean Guardmaster
-revid: 190077
+revid: 191421
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, Etrea, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea, Individuals with unspecified pronouns]
 ---
 
 # Etrean Guardmaster
 
-Template:NpcInfobox
+| Etrean Guardmaster | |
+|---|---|
+| aspect | Etrean |
+| location | Fort Merit |
+| affiliation | Etrea |
 
 ## Description
 
@@ -25,7 +29,7 @@ Etrean Guardsmaster is located around [Port Merit](Port_Merit.md), on a [Dinghy]
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Player is <a href="Handcuffs.md">handcuffed</a></td>
@@ -52,7 +56,7 @@ This dialogue is given if the player turns in two hostages within a 5 minute per
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I'm afraid we can only fit so many on this boat... You'll have to come back later, please keep them safe until then. <i>*[x] minutes remain.*</i></td>

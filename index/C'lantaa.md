@@ -1,18 +1,23 @@
 ---
 title: "C'lantaa"
-revid: 189055
+revid: 191344
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Tiran NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # C'lantaa
 
+| C'lantaa | |
+|---|---|
+| name | C'lantaa |
+| aspect | Tiran |
+| pronouns | He/him |
+| location | New Kyrsa, The Sleeping City |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -25,7 +30,7 @@ He attempted to communicate with the local [Kyrsgarde](Kyrsgarde.md), but was wo
 <table>
 <tbody>
 <tr>
-  <td colspan="18">Begin</td>
+  <td colspan="18">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="18">You see it too, don't you? The mist surrounding us, enshrouding the city.</td>

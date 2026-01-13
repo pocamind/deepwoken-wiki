@@ -1,14 +1,21 @@
 ---
 title: Artus
-revid: 191191
+revid: 191322
 source: https://deepwoken.fandom.com/wiki/Artus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Artus
+
+| Artus | |
+|---|---|
+| name | Artus |
+| aspect | Etrean |
+| location | Summer Isle |
+| affiliation | The Summer Company |
 
 Variants: [Ishan](Ishan.md)
 
@@ -19,8 +26,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 “ It's like they came into existence with the waves themselves... ”
 
 ― Artus
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +40,7 @@ Artus is located outside of the [Summer Isle](Summer_Isle.md) castle, standing n
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You ever think about the Adret? They really aren't like the rest of us.</td>

@@ -1,6 +1,6 @@
 ---
 title: Plath
-revid: 188709
+revid: 191585
 source: https://deepwoken.fandom.com/wiki/Plath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -27,7 +27,7 @@ Plath is a [Celtor](Celtor.md) NPC found kneeling on a rock in the [Kyrsan Wilds
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Traveler. Stop. <i>*They hold their arm out to the side, signalling you to cease movement.*</i> Listen. Carefully. If you want to live, pay <i>very</i> close attention.</td>
@@ -65,7 +65,7 @@ Plath is a [Celtor](Celtor.md) NPC found kneeling on a rock in the [Kyrsan Wilds
   <td colspan="3">When you reach the glass ceiling... search for an opening I made. Consider it a gift from me. Now, go.. the longer you spend on the outskirts, the riskier it is for your well being.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

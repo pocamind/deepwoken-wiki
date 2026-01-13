@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 187581
+revid: 191702
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -42,7 +42,7 @@ Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning agains
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Heh, fear not little adventurer. I'm not going to attack you with fire or anything like that.</td>
@@ -66,13 +66,13 @@ Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning agains
 </tr>
 <tr>
   <td colspan="2">Where?</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">First, on the island of Etris, the most optimal island for all new adventurers who fear me! Although I'm still not sure why. The campfire there is eternally observed by those Nomads who are quite fond of me. Defeat me, and I'll tell you the next location.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +82,7 @@ Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning agains
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Player defeats Zana at Etrean Wilds</td>
@@ -97,7 +97,7 @@ Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning agains
   <td colspan="4">I'll be heating things up for our next fight. Meet me at the best stomping grounds in the <a href="Glossary.md#the-luminants">Luminant</a>, The Monkey's Paw.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -107,7 +107,7 @@ Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning agains
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Player defeats Zana at Monkey's Paw</td>
@@ -116,7 +116,7 @@ Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning agains
   <td colspan="4">Well done. As promised, here's one of the most stylish rings around.</td>
 </tr>
 <tr>
-  <td colspan="4">End, Player receives <a href="Poser's_Ring.md">Poser's Ring</a></td>
+  <td colspan="4">[End Dialogue], Player receives <a href="Poser's_Ring.md">Poser's Ring</a></td>
 </tr>
 </tbody>
 </table>
@@ -126,13 +126,13 @@ Zana is located at the [Isle of Vigils](Isle_of_Vigils.md) docks, leaning agains
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Never forget the signature pose, my brethren.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

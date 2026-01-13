@@ -1,22 +1,28 @@
 ---
 title: Joshua (Vow of Iron)
-revid: 190716
+revid: 191491
 source: https://deepwoken.fandom.com/wiki/Joshua_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Joshua (Vow of Iron)
 
+| Joshua | |
+|---|---|
+| name | Joshua |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Meteor Isle |
+| affiliation | Etrea |
+
 Variants: [Joshua](Joshua.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -33,7 +39,7 @@ Joshua can be found sitting in front of a campfire, at a neighboring island near
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*An Etrean sits by the fire in a small campsite, resting. He smiles as he notices you.*</i> A fellow traveller? Feel free to come by and sit by the fire, stranger. It gets chilly in the autumn. I'm Joshua. What's your name?</td>
@@ -91,7 +97,7 @@ Joshua can be found sitting in front of a campfire, at a neighboring island near
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*Noticing your approach, Joshua beckons your way.*</i> Ah, [First Name]! Back to warm yourself by the fire once more?</td>

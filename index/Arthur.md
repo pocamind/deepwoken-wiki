@@ -1,6 +1,6 @@
 ---
 title: Arthur
-revid: 189618
+revid: 191320
 source: https://deepwoken.fandom.com/wiki/Arthur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -34,7 +34,7 @@ Arthur is located at [Erisia](Erisia.md), they sit at the left of the entrance t
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>No... this can't be happening. This can't be happening. I don't know what to do..</td>
@@ -80,7 +80,7 @@ Arthur is located at [Erisia](Erisia.md), they sit at the left of the entrance t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6"><b>Quest in progress</b></td>

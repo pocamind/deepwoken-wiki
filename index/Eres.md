@@ -1,12 +1,20 @@
 ---
 title: Eres
-revid: 188991
+revid: 191418
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Eastern Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Eastern Luminant]
 ---
 
 # Eres
+
+| Eres | |
+|---|---|
+| name | Eres |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Meteor Isle |
+| affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ We few cannot change the world to make it better for everyone. But if we can make it better for at least some... I feel like that's a cause worth living and dying for. Wouldn't you agree? ”
 
 ― Eres
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +35,7 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*A young, rough-looking Etrean probably in his twenties is sitting by a bench, visibly weary, tired and a little malnourished. He is clutching some small trinket in his hands, and is muttering something under his breath hurriedly, with his eyes closed.*</i></td>
@@ -133,7 +139,7 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*Eres sits against the wall, his hands clasping some small trinket, his head lowered in pensive prayer, as he mutters the words you've heard before - though, they flow more calmly now.*</i></td>
@@ -174,7 +180,7 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 <table>
 <tbody>
 <tr>
-  <td colspan="14">Begin</td>
+  <td colspan="14">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="14"><i>*A young, rough-looking Etrean probably in his twenties is sitting by a bench, visibly weary, tired and a little malnourished. He is clutching some small trinket in his hands, and is muttering something under his breath hurriedly, with his eyes closed.*</i></td>
@@ -267,7 +273,7 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 <table>
 <tbody>
 <tr>
-  <td colspan="14">Begin</td>
+  <td colspan="14">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="14">*The young Etrean, although seemingly deep in prayer, appears to sense your nearby presence. In response, he furrows his brow and coldly ignores you.*</td>

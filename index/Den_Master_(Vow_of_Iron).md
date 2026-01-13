@@ -1,6 +1,6 @@
 ---
 title: Den Master (Vow of Iron)
-revid: 190495
+revid: 191398
 source: https://deepwoken.fandom.com/wiki/Den_Master_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
@@ -82,7 +82,7 @@ The Den Master's Haul
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>A stranger wanders into my Den?.. Buy, if you dare!<br>

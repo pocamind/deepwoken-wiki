@@ -1,6 +1,6 @@
 ---
 title: Serendi
-revid: 189607
+revid: 191626
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -33,7 +33,7 @@ Serendi is a 'short' [Etrean](Etrean.md) NPC who was part of [Captain Orlandeau'
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>The breeze out here is lovely, isn't it? I can see an infinite blue from here! And that ship o'er the horizon.. tis a beauty.</td>

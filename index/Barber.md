@@ -1,6 +1,6 @@
 ---
 title: Barber
-revid: 174942
+revid: 191334
 source: https://deepwoken.fandom.com/wiki/Barber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -27,7 +27,7 @@ The **Barber** is an NPC that allows customization to your character. They can c
 <table>
 <tbody>
 <tr>
-  <td colspan="32">Begin</td>
+  <td colspan="32">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="32">Hey friend, need a new style?</td>
@@ -50,13 +50,13 @@ The **Barber** is an NPC that allows customization to your character. They can c
   <td colspan="4">I took an <a href="Glossary.md#oaths">Oath</a> as a Fadetrimmer.</td>
   <td colspan="4"><i>*They look at you, puzzled.*</i> I see those scissors. You can't fool me, sibling of the fade.</td>
   <td colspan="8">Gods below, you <i>need</i> help. Here.</td>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="8">[Player removes a dye]</td>
   <td colspan="4">...A Fadetrimmer?</td>
-  <td colspan="4">End</td>
-  <td colspan="8">End, your hair is returned back to normal</td>
+  <td colspan="4">[End Dialogue]</td>
+  <td colspan="8">[End Dialogue], your hair is returned back to normal</td>
 </tr>
 <tr>
   <td colspan="8">Okay! All done!</td>
@@ -80,11 +80,11 @@ The **Barber** is an NPC that allows customization to your character. They can c
 <tr>
   <td colspan="8">[See first instance.]</td>
   <td colspan="2">[Swear the words]</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="8"></td>
-  <td colspan="2">End, player obtains <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></td>
+  <td colspan="2">[End Dialogue], player obtains <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></td>
   <td colspan="2"></td>
 </tr>
 </tbody>

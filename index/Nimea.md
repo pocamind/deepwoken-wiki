@@ -1,12 +1,19 @@
 ---
 title: Nimea
-revid: 189627
+revid: 191572
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Nimea
+
+| Nimea | |
+|---|---|
+| name | Nimea |
+| aspect | Etrean |
+| pronouns | She/her |
+| location | The Hidden Village |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +22,6 @@ This content is not accessible outside of this gamemode.
 “ I had only ever wished that we could have both lived a normal life together; that they had never found her Gift. ”
 
 ― Nimea
-
-Template:NpcInfobox
 
 ## Description
 
@@ -99,7 +104,7 @@ These dialogues are unlocked if the player has spoken to [Klaris Llfiend](Klaris
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">What's the matter? You look as if you've something to say.</td>
@@ -149,7 +154,7 @@ These dialogues are unlocked if the player has spoken to [Klaris Llfiend](Klaris
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Thank you for giving me some peace of mind, friend. It lightens my heart to know that she still lives. And that she still writes those soppy poems, even if I'm not there to receive them. <i>*She smiles wearily, her mind in other places.*</i></td>
@@ -206,7 +211,7 @@ These dialogues are unlocked if the player has spoken to [Klaris Llfiend](Klaris
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Thank you... For at least letting me know that she still lives. I only hope that her heart remains strong after all these years, despite her impronm- ...despite her Gift.</td>

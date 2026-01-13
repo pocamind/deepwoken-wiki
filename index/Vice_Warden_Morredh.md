@@ -1,12 +1,20 @@
 ---
 title: Vice Warden Morredh
-revid: 191204
+revid: 191686
 source: https://deepwoken.fandom.com/wiki/Vice_Warden_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
+categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority, Oath Trainer]
 ---
 
 # Vice Warden Morredh
+
+| Vice Warden Morredh | |
+|---|---|
+| name | Morredh |
+| aspect | Canor |
+| pronouns | He/him[1] |
+| location | Fort Merit |
+| affiliation | The Central Authority |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -17,8 +25,6 @@ _Not to be confused with [Vice-Warden](Vice-Warden.md)._
 “ Hm? I'm busy, go bother one of the guards. ”
 
 ― Morredh
-
-Template:NpcInfobox
 
 ## Description
 
@@ -39,7 +45,7 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hm? I'm busy. Go bother one of the guards.</td>
@@ -55,7 +61,7 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hm? I don't have time for you, lowlife. There are bigger fish to fry.</td>
@@ -73,7 +79,7 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>What is it? You had better not be wasting my time. There's filth that requires scraping off the map.</td>
@@ -101,7 +107,7 @@ Vice Warden Morredh is located in the dining room near the entrance of the Fort 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Summer Isle. That's where our intel locates Vend. Those fools at the Company are too busy taking pot-shots at trespassers to be of any help on this investigation, so we'll need boots on the ground. If they're yours, so be it.</td>
@@ -121,7 +127,7 @@ These dialogues are unlocked if the player has obtained [Oath: Chainwarden](Oath
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You've impressed me, Chainwarden. What do you need?</td>
@@ -143,7 +149,7 @@ These dialogues are unlocked if the player has obtained [Oath: Chainwarden](Oath
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>First Encounter</td>
@@ -164,7 +170,7 @@ These dialogues are unlocked if the player has obtained [Oath: Chainwarden](Oath
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Initial dialogue in Temple of Hearts</td>
@@ -183,3 +189,7 @@ These dialogues are unlocked if the player has obtained [Oath: Chainwarden](Oath
 ## Trivia
 
 -   Morredh's age is much more advanced than [Warden Jericho](Warden_Jericho.md), suggesting he's far more likely to pass or retire than end up replacing him.
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Commander Morredh](Commander_Morredh.md)

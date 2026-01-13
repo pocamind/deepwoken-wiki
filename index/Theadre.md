@@ -1,18 +1,24 @@
 ---
 title: Theadre
-revid: 188624
+revid: 191667
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Etrean Luminant]
 ---
 
 # Theadre
 
+| Theadre | |
+|---|---|
+| name | Theadre |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Etris |
+| affiliation | Etrea |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +35,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The pious man regards you briefly with his watery old eyes before returning to his prayers.*</i></td>
@@ -41,7 +47,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
   <td>Bother me not, outsider. I have nothing to say to your like.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -51,7 +57,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Oh King... Won't ye lift your people from this watery grave?...</td>
@@ -68,10 +74,10 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 <tr>
   <td>The King who will cast aside the aspersions fabricated by your kind...</td>
   <td>Who else, Kin? The King of prophecy. He who shall rise Etrea from the waves of obscurity... And bring us back to those bygone days of the <a href="Glossary.md#the-old-world">Old World</a>.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +89,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Oh King... Do you hear our calls? Do your hear our cries for help?</td>
@@ -103,7 +109,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
   <td>Only through many battles and many voyages... Some say that the king struck a bet with <a href="Glossary.md#mur-of-light">Mur</a> and won her heart, and all of us in this Kingdom her Light... Some day, we'll see it again. I'm sure of it...</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +119,7 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Oh... The light of you... it's as if the King were standing before me... Truly, you are blessed by Mur's light...</td>

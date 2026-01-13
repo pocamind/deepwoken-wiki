@@ -1,18 +1,25 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 190933
+revid: 191352
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
 ---
 
 # Carrion, Father of Evolution
 
+| Carrion, Father of Evolution | |
+|---|---|
+| name | Carrion |
+| alias | Father of Evolution, Dr. Diver |
+| aspect | Ganymede |
+| pronouns | He/him |
+| location | New Kyrsa, Castle Light |
+| affiliation | The Divers |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +36,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6"><i>*You can barely make out the sounds of laughter as you approach.*</i> Oh? Salutations! It looks like as if you finally arrived.</td>
@@ -60,13 +67,13 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
 </tr>
 <tr>
   <td colspan="4">Don't you care the world is ending?</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"><i>*He looks at you with a puzzled expression.*</i> No? Should I be? That's what you're here for after all, correct? <i>*His mouth twitches into a smile momentarily and just as soon back to a puzzling frown. You can sense that man is cackling internally, laughing at your expense.*</i></td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -76,7 +83,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Tehehe. Better get going little <a href="Glossary.md#the-divers">Diver</a>...</td>
@@ -94,7 +101,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
   <td>What makes a name real or fake? If it's what I want you to call me, then who are you to say that my name isn't real? The manners of surface dwellers haven't improved with time I see.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +113,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*You can barely make out the sounds of laughter as you approach*.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh? Salutations! Klaris and I have been getting on just grand. I guess we're friends now!</td>
@@ -141,7 +148,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
   <td>[Grants <a href="Monster_Mantras.md#enforcer-pull"><font><u>Enforcer Pull</u></font></a> Mantra]</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -151,7 +158,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Oh, what a shabby looking bell you've got there! I can fix it right up if you like.</td>
@@ -163,7 +170,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
   <td>Pheh! Not every day I get to tinker with one of these...</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -173,7 +180,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Haven't spoken to in New Kyrsa</td>
@@ -184,7 +191,7 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
   <td>Ah. I don't think you have anything I can work with...</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

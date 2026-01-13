@@ -1,18 +1,23 @@
 ---
 title: Argo
-revid: 189631
+revid: 191317
 source: https://deepwoken.fandom.com/wiki/Argo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Fishing, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Fishing, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Argo
 
+| Argo | |
+|---|---|
+| name | Argo |
+| aspect | Etrean |
+| location | Etris Docks |
+| affiliation | Etrea |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +32,7 @@ Argo is located in the [Etris Docks](Etris_Docks.md) in their small Fishing Shop
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, what brings you here stranger?</td>

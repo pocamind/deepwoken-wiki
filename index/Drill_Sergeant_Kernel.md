@@ -1,18 +1,26 @@
 ---
 title: Drill Sergeant Kernel
-revid: 190987
+revid: 191407
 source: https://deepwoken.fandom.com/wiki/Drill_Sergeant_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with reference errors, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Drill Sergeant Kernel
 
+| Drill Sergeant Kernel | |
+|---|---|
+| name | Cornelius Kernel Sr. |
+| alias | Drill Sergeant, Interceptor[1] |
+| aspect | Celtor |
+| pronouns | He/him |
+| location | Fort Merit |
+| affiliation | The Central Authority |
+| family | Private Kernel (son)[2] |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -37,7 +45,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The imposing, armoured Celtorian man looks down at you.*</i> What do we have HERE? <i>YOU</i> must be one of the ROOKIES. High Command TOLD us we'd be getting new recruits, but you look a little SCRAWNY, soldier! What is your FULL NAME AND RANK, SOLDIER?</td>
@@ -121,7 +129,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="16"><i>*You salute the Drill Sergeant.*</i> <b>AT EASE</b>, [Rank] [Ensign Name]! Did you come here to <i>TRAIN</i> with your comrades, or are you here to <b>ASK</b> me something, soldier?</td>
@@ -189,7 +197,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3"><i>*You salute the Drill Sergeant.*</i> <b>AT EASE</b>, Lance Corporal [Ensign Name]! I scarce believe it MYSELF, but your rank means you're due for a <b>PROMOTION</b> soon! You better have done <b>WELL</b> on your <b>FIELD MISSIONS</b>, soldier, or your desire division may be OUT OF REACH! Now, have you got any QUESTIONS?</td>
@@ -219,7 +227,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You exchange stern salutes with Drill Sergeant Kernel.*</i> It appears you've signed up for the <b>COMMAND</b> division, [Rank] [Last Name]! Maybe the mind of Private [Ensign Name] wasn't <i>MUDDLED</i> after all! I hope you make us all REAL DAMN PROUD with your tactical skills! The next time you talk to <b>WARDEN JERICHO</b>, I'd appreciate it if you could put in a GOOD WORD in favour of the <i>TRAINING GROUNDS</i> getting some new <i>TRAINING WEAPONS</i>! <b>THREE CHEERS!!!</b></td>
@@ -235,7 +243,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*For the first time ever, Drill Sergeant Kernel salutes you first. It seems you finally outrank him. He sheds a tear of joy under his helmet, sniffling.*</i> Seneschal [Last Name]... I CONFESS, I feel like a <b>PROUD FATHER</b> knowing that ONE OF MY OWN has reached <b>THE TOP</b> of a division! I'm <b>REAL DAMN PROUD</b> OF YOU! You're an inspiration to <b>ALL</b> recruits! I only hope <b>MY SON</b>, Kernel Junior, can follow in your example! <b>THREE CHEERS!!!</b></td>
@@ -253,7 +261,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You exchange salutes with Drill Sergeant Kernel.*</i> Looks like you've enlisted in the <b>INQUISITION</b> division, [Rank] [Ensign Name]! You must be as cunning as the proverbial <i><b>FOX</b></i>! At least, I <i>BELIEVE</i> that's the expression for the <b>HIGH INQUISITOR</b> uses! I hope you exercise <b>RESTRAINT</b> in your role!.. You know, it's hard to believe <b>HOW FAR</b> Private [Ensign Name] has come! If you see the <b>HIGH INQUISITOR</b>, tell her about your <b>CALLSIGN</b>, she'll <i><b>LOVE</b></i> it! <i><b>OORAH!!!</b></i></td>
@@ -269,7 +277,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*For the first time ever, Drill Sergeant Kernel salutes you first. It seems you finally outrank him. He sheds a tear of joy under his helmet, sniffling.*</i> Handler [Last Name]... I CONFESS, I feel like a <b>PROUD FATHER</b> knowing that ONE OF MY OWN has reached <b>THE TOP</b> of a division! I'm <b>REAL DAMN PROUD</b> OF YOU! You're an inspiration to <b>ALL</b> recruits! I only hope <b>MY SON</b>, Kernel Junior, can follow in your example! <b>THREE CHEERS!!!</b></td>
@@ -287,7 +295,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You exchange enthusiastic salutes with Drill Sergeant Kernel.*</i> I see you've enlisted in the <b>SHOCK CORPS</b>, [Rank] [Last Name]! It's hard to believe a former <i>SCRAWNY</i> recruit like Private [Ensign Name] is now a fellow <b>SHOCK INFANTRY</b> soldier, but I guess I've helped you <i>PUT SOME MUSCLE</i> on those bones! I'm REAL DAMN PROUD, soldier! The next time you talk to <b>SENTINEL AUGUSTUS</b>, tell him I send him ALL THE BEST! <b>OORAH!!!</b></td>
@@ -303,7 +311,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*For the first time ever, Drill Sergeant Kernel salutes you first. It seems you finally outrank him. He sheds a tear of joy under his helmet, sniffling.*</i> Operator [Last Name]... I CONFESS, I feel like a <b>PROUD FATHER</b> knowing that ONE OF MY OWN has reached <b>THE TOP</b> of a division! I'm <b>REAL DAMN PROUD</b> OF YOU! You're an inspiration to <b>ALL</b> recruits! I only hope <b>MY SON</b>, Kernel Junior, can follow in your example! <b>THREE CHEERS!!!</b></td>
@@ -319,7 +327,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The armoured Celtorian man looks at you unmovingly through his helmet.*</i> <b>CIVILIAN</b>! You do <b>NOT</b> have my permission to loiter on <i>MY</i> MILITARY TRAINING grounds! You are instructed to make like a tree and <b>LEAVE</b>!</td>
@@ -335,7 +343,7 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>If the <b>GODS</b> wanted you to <i><b>LIVE</b></i>, they would not have created ME!</td>
@@ -348,10 +356,12 @@ Drill Sergeant Kernel is located on the training grounds at [Fort Merit](Fort_Me
 
 ## Trivia
 
--   His full name is a play on the words corn kernel.[\[2\]](#cite-note-2)
+-   His full name is a play on the words corn kernel.[\[3\]](#cite-note-3)
 -   His Bad Authority Reputation dialogue is a reference to the similar line spoken by the Soldier from _Team Fortress 2_.
 
 ## References
 
-1.  [↑](#cite-ref-augu-1-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `Augu`
-2.  [↑](#cite-ref-2)
+1.  ↑ [1.0](#cite-ref-augu-1-0) [1.1](#cite-ref-augu-1-1) NPC dialogue: [Sentinel Augustus](Sentinel_Augustus.md)  
+    _In fact, he inspired me to join the Shock Corps - his official rank is technically Interceptor. But with the structure of our military, he trains the recruits until they're placed in a division, after which the division leaders take over training and command._
+2.  [↑](#cite-ref-2) While Private Kernel is never explicitly stated to be Drill Sergeant Kernel's son, the fact they are the only Celtor with the surname "Kernel" found within Fort Merit all but confirms the private is Cornelius Kernel Jr.
+3.  [↑](#cite-ref-3)

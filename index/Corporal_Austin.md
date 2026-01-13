@@ -1,6 +1,6 @@
 ---
 title: Corporal Austin
-revid: 188023
+revid: 191373
 source: https://deepwoken.fandom.com/wiki/Corporal_Austin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
@@ -34,7 +34,7 @@ Corporal Austin is located inside The Three Cheers, sitting at a table across [P
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The brash-voiced soldier sings in a baritone timbre.* WE TRUUUTH UPHOOOLD AAAAAND ALSOO LAWS!</i></td>

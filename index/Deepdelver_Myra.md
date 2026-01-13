@@ -1,14 +1,22 @@
 ---
 title: Deepdelver Myra
-revid: 190901
+revid: 191394
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the First Layer, Deepdelvers]
+categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the First Layer, Deepdelvers]
 notices:
   - This page is currently being worked on. Unique Face Image Missing
 ---
 
 # Deepdelver Myra
+
+| Deepdelver Myra | |
+|---|---|
+| name | Myra |
+| aspect | Tiran |
+| pronouns | She/her |
+| location | The Chariot's Spire |
+| affiliation | The Ignition Union |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -17,8 +25,6 @@ This content is not accessible outside of this gamemode.
 “ I really appreciate the sentiment. Good luck to you, friend. ”
 
 ― Myra
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +41,7 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="16">Hey... are you lost? You've got to be careful around the drill. It's not a toy.</td>
@@ -82,7 +88,7 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Player chose "I'm sure it can't be that bad."</td>

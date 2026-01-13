@@ -1,6 +1,6 @@
 ---
 title: Ata
-revid: 191242
+revid: 191327
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors]
@@ -44,7 +44,7 @@ Ata is located at [Meteor Isle](Meteor_Isle.md), she's on the street in the midd
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Woah! Hey there, friend! It's been such a long time!</td>
@@ -99,7 +99,7 @@ Ata is located at [Meteor Isle](Meteor_Isle.md), she's on the street in the midd
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hey buddy! Here to buy more of my wares?</td>
@@ -122,7 +122,7 @@ Ata is located at [Meteor Isle](Meteor_Isle.md), she's on the street in the midd
 <table>
 <tbody>
 <tr>
-  <td colspan="14">Begin</td>
+  <td colspan="14">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="14">Today we have a great selection of items! Take a gander. No touching without buying, though.</td>

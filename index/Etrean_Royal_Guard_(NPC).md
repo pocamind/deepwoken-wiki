@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (NPC)
-revid: 173942
+revid: 191423
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrea, NPCs, NPCs located in the Etrean Luminant]
@@ -27,7 +27,7 @@ The Etrean Royal Guard is located in [Etrean Wilds](Etrean_Wilds.md) on the clif
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You have an audience with the Lord Regent.</td>
@@ -39,7 +39,7 @@ The Etrean Royal Guard is located in [Etrean Wilds](Etrean_Wilds.md) on the clif
   <td>You have an audience with the Lord Regent.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

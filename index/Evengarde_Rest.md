@@ -1,18 +1,25 @@
 ---
 title: Evengarde Rest
-revid: 190213
+revid: 191424
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
 ---
 
 # Evengarde Rest
 
+| Evengarde Rest | |
+|---|---|
+| name | Evengarde Rest |
+| alias | Maestro |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Temple of the Blade |
+| affiliation | Etrea |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -33,7 +40,7 @@ Haven't done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-ques
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*A chilling wind seems to pick up within the room as you approach the man. Something in your gut tells you now isn't the time to introduce yourself.*</i></td>
@@ -51,7 +58,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, well if it isn't [name]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly.</td>
@@ -92,7 +99,7 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [name] what brings you here?</td>
@@ -145,7 +152,7 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Won against him once</td>

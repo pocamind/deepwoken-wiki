@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 184687
+revid: 191381
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -55,7 +55,7 @@ This dialogue is granted if the Player is below Power 17 and has not used the Po
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -79,7 +79,7 @@ This dialogue is granted if the Player is below Power 17 and has not used the Po
   <td colspan="2">YOUR SKULL IS STURDY. STRONG. NOW LEAVE, WITH YOUR NEW BROKEN FRAGMENT.</td>
 </tr>
 <tr>
-  <td colspan="2">End, the player loses 5 and gains a random base <a href="../Boons_and_Flaws.md">Flaw</a> to <a href="../Power.md">Power</a> up 3 times</td>
+  <td colspan="2">[End Dialogue], the player loses 5 and gains a random base <a href="../Boons_and_Flaws.md">Flaw</a> to <a href="../Power.md">Power</a> up 3 times</td>
 </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ This dialogue is granted if the Player is above Power 17 or has used the Power U
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -115,7 +115,7 @@ This dialogue is granted if the Player is above Power 17 or has used the Power U
   <td colspan="2">THERE IS LITTLE MATERIAL TO WORK WITH, BUT WHAT WAS BROKEN HAS BEEN REPAIRED.</td>
 </tr>
 <tr>
-  <td colspan="2">End, the player loses their chosen Flaw and 5 in exchange for a random Flaw</td>
+  <td colspan="2">[End Dialogue], the player loses their chosen Flaw and 5 in exchange for a random Flaw</td>
 </tr>
 </tbody>
 </table>
@@ -131,7 +131,7 @@ This dialogue is granted if the Player is below Power 17 and has not used the Po
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -155,7 +155,7 @@ This dialogue is granted if the Player is below Power 17 and has not used the Po
   <td colspan="2">FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -167,7 +167,7 @@ This dialogue is granted if the Player is above Power 17 or has used the Power U
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -191,7 +191,7 @@ This dialogue is granted if the Player is above Power 17 or has used the Power U
   <td colspan="2">FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -203,13 +203,13 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

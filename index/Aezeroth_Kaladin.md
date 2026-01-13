@@ -1,12 +1,18 @@
 ---
 title: Aezeroth Kaladin
-revid: 191126
+revid: 191302
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Aezeroth Kaladin
+
+| Aesalath Kalafrid | |
+|---|---|
+| name | Aesalath Kalafrid |
+| species | Kyrsan |
+| location | Firfire |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +21,6 @@ This content is not accessible outside of this gamemode.
 “ We all have our part to play in his plan. You included. ”
 
 ― Aesalath Kalafrid
-
-Template:NpcInfobox
 
 Aesalath Kalafrid is an NPC found standing before a mysterious device that seems to display some sort of chart, just below the generator in Layer 2 Floor 1. You do not need to talk to them to progress in the dungeon, but they do offer directions and information.
 
@@ -27,7 +31,7 @@ Aesalath Kalafrid is an NPC found standing before a mysterious device that seems
 <table>
 <tbody>
 <tr>
-  <td colspan="5">Begin</td>
+  <td colspan="5">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="5">Aelahi frinwalter... Diedidusd eyyoru neeeds sefdomefgrwthieng?</td>
@@ -49,7 +53,7 @@ Aesalath Kalafrid is an NPC found standing before a mysterious device that seems
   <td>Where am I?</td>
   <td>Ethiron?</td>
   <td>Why haven't they come?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">[See first instance]</td>
@@ -58,7 +62,7 @@ Aesalath Kalafrid is an NPC found standing before a mysterious device that seems
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -68,13 +72,13 @@ Aesalath Kalafrid is an NPC found standing before a mysterious device that seems
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">That horrible noise is back. I assume I have you to thank for that. Frinwalters are always causing problems, I do not know why we tolerate you.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

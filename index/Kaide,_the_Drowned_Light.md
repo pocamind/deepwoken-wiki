@@ -1,18 +1,23 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 188684
+revid: 191495
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
+categories: [Lightborn NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
 ---
 
 # Kaide, the Drowned Light
 
+| Kaide, the Drowned Light | |
+|---|---|
+| name | Kaide |
+| aspect | Lightborn |
+| location | New Kyrsa, The Sleeping City |
+| affiliation | Constellia |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +34,7 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 <table>
 <tbody>
 <tr>
-  <td colspan="36">Begin</td>
+  <td colspan="36">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="36">Hm... You make a lot of noise. Are you here simply to disturb my meditation, surface dweller?</td>
@@ -101,7 +106,7 @@ As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrs
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Hm... You return and yet you still make so much noise. You'll scarcely leave me with enough time to meditate. I only have eternity, after all.</td>
@@ -140,7 +145,7 @@ This dialogue is unlocked if the player has a [Kyrsieger](Kyrsieger.md) equipped
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Gah! That <i>ghastly</i> thing you wield. You truly do have poor taste.</td>
@@ -179,7 +184,7 @@ This dialogue is unlocked if the player has a [Soulthorn](Soulthorn.md) equipped
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">A sinister blade you wield... It calls to mind the one who wielded by <a href="Glossary.md#zhatarn-the-moonlight-prince">Zhatarn</a>, the Moonlight Prince. A tortured presence you bring before me, indeed.</td>
@@ -215,7 +220,7 @@ This dialogue is unlocked if the player has the [Oath: Starkindred](Oath%253A_St
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Hm. You bear their scent. I hesitate to ask what you did.</td>
@@ -252,7 +257,7 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>How strange, I could have sworn your watch is- Ah, yes... you've been here before. My fate really must be sealed.</td>

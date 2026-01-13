@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 188018
+revid: 191485
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
@@ -64,7 +64,7 @@ Potential Rewards
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Player has Deep Gems</td>
@@ -114,7 +114,7 @@ Potential Rewards
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Player has Deep Gems</td>

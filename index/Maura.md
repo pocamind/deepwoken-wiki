@@ -1,6 +1,6 @@
 ---
 title: Maura
-revid: 186720
+revid: 191541
 source: https://deepwoken.fandom.com/wiki/Maura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Reputation]
@@ -38,7 +38,7 @@ Maura is located inside of a house near the [Mystic](Mystic.md) by the Union Hoo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Alright there, if you have misdeeds with us you need forgiven... I can patch up the hard feelings, yeah?</td>
@@ -54,7 +54,7 @@ Maura is located inside of a house near the [Mystic](Mystic.md) by the Union Hoo
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Look who it is! Whole base is talkin' bout ya. Aye, we could forgive you for some coin...</td>
@@ -99,13 +99,13 @@ Maura is located inside of a house near the [Mystic](Mystic.md) by the Union Hoo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*She laughs.*</i> You've gone off the deep end, aye?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

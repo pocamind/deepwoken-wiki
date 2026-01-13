@@ -1,22 +1,26 @@
 ---
 title: Okram
-revid: 191237
+revid: 191576
 source: https://deepwoken.fandom.com/wiki/Okram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Individuals with unspecified pronouns]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Okram
 
+| Okram | |
+|---|---|
+| name | Okram |
+| aspect | Etrean |
+| location | Meteor Isle |
+
 Variants: [Argo](Argo.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +35,7 @@ Okram is located in the same house as the [Antiquarian](Antiquarian.md) at [Mete
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, what brings you here stranger?</td>

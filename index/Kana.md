@@ -1,6 +1,6 @@
 ---
 title: Kana
-revid: 177626
+revid: 191496
 source: https://deepwoken.fandom.com/wiki/Kana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Cut Content, NPCs, NPCs located in the Eastern Luminant]
@@ -28,13 +28,13 @@ She wears the [Keeper](Keeper.md) [Outfit](Outfits.md) with the gold coloring be
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>If only my Thundercalling was more intense I could pull this off...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

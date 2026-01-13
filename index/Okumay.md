@@ -1,6 +1,6 @@
 ---
 title: Okumay
-revid: 188710
+revid: 191577
 source: https://deepwoken.fandom.com/wiki/Okumay
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -28,7 +28,7 @@ Okumay is a [Chrysid](Chrysid.md) wearing the [Vigil Initiate](Vigil_Initiate.md
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Just.. what <i>is</i> this? Look at this machine, look at that design! The bright smooth metals, the mechanical apparatus, the <i>style</i>! Have you ever seen anything like this before?</td>

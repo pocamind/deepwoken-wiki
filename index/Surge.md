@@ -1,12 +1,19 @@
 ---
 title: Surge
-revid: 191017
+revid: 191647
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Oath Trainer]
+categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Oath Trainer]
 ---
 
 # Surge
+
+| Surge | |
+|---|---|
+| name | Surge |
+| aspect | Canor |
+| pronouns | He/him |
+| location | First Layer |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +22,6 @@ This content is not accessible outside of this gamemode.
 “ This is only the beginning. ”
 
 ― Surge
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +40,7 @@ Surge is located in a room inside of the Widow's Nest in the [First Layer](First
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Many dwell in this layer for the sole purpose of getting stronger. They fail to realize the true reward of the Hunt.</td>
@@ -89,7 +94,7 @@ This dialogue is unlocked if the player has the [Oath: Visionshaper](Oath%253A_V
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Player has not maxed Visionshaper</td>

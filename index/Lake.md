@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 188137
+revid: 191512
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -29,7 +29,7 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*This Chrysid's eyes are wide with boundless wonder, fixed on the sky above.*</i> And to think such a far off land had such beauty to it...</td>
@@ -91,7 +91,7 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
   <td colspan="12">Some old guy, he's been really nice t' me. He gave me some new clothes and said I could stay in this cave unt'l I find m' way home, but he says it's not safe f'r me to walk back right now... He br'ngs me food sometimes, but I really don't know how he can cook with that blindfold he wears... I'm sure you'll meet h'm one day, he might be able t' help you, too!</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +103,7 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">And to think, such a far off mass of land had such beauty to it...</td>
@@ -133,7 +133,7 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
   <td colspan="6">Nightflowers only bloom beneath the site of one's absolvement in flame, <i>The Lachrymosa</i>. When one bears sins too heavy to carry... they can volunteer to embrace the nightflame, joining the Moonseye above in death. A nightflower blooms beneath them after their passing, In my village... a sea of beautiful gleaming nightflowers scatter over the hills and fields. It's truly beautiful, traveler.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

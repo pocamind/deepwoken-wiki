@@ -1,12 +1,19 @@
 ---
 title: Akira
-revid: 190589
+revid: 191303
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
 ---
 
 # Akira
+
+| Akira | |
+|---|---|
+| name | Akira |
+| aspect | Etrean |
+| location | Celtor Wastes, Castle Light |
+| affiliation | The Divers, Black Divers division |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +22,6 @@ This content is not accessible outside of this gamemode.
 “ Since when was the Depths the territory of some surface-dwelling small fries like lot of you? Pass this line and none of you will see the surface again. ”
 
 ― Akira
-
-Template:NpcInfobox
 
 ## Description
 
@@ -51,7 +56,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Another one..? You've got to be kidding me.</td>
@@ -110,7 +115,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Please don't disturb my reading.</td>
@@ -132,7 +137,7 @@ After this you are able to talk to Akira, in which he has two different conversa
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Do you have some sort of reason for being here? This is territory of the Divers.</td>

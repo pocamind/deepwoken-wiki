@@ -1,6 +1,6 @@
 ---
 title: Volu
-revid: 191128
+revid: 191690
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -35,7 +35,7 @@ Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that 
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Ah-ha! You there! <i>*Volu grins widely, holding a heavy book with a large lock.*</i></td>
@@ -68,14 +68,14 @@ Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that 
 </tr>
 <tr>
   <td>Fine, I'll take it</td>
-  <td>End, gives you the tome</td>
-  <td colspan="2">End, gives you the tome</td>
+  <td>[End Dialogue], gives you the tome</td>
+  <td colspan="2">[End Dialogue], gives you the tome</td>
 </tr>
 <tr>
   <td>Marvelous! Simply marvelous! <i>*Volu claps his hands together, beaming as he hands over the tome. it feels unnaturally smooth in your grasp.*</i></td>
 </tr>
 <tr>
-  <td>End, gives you the tome</td>
+  <td>[End Dialogue], gives you the tome</td>
 </tr>
 </tbody>
 </table>
@@ -85,13 +85,13 @@ Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that 
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td>On your way you go! No need to linger! <i>*Volu waves you off with a knowing grin.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

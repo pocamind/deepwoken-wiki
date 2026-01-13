@@ -1,6 +1,6 @@
 ---
 title: Monk Nako
-revid: 190775
+revid: 191557
 source: https://deepwoken.fandom.com/wiki/Monk_Nako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Circle of Honour members, Individuals with unspecified pronouns]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The monk looks at you with slight, frosty suspicion, but says nothing.*</i></td>

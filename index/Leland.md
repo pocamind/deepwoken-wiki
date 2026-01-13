@@ -1,12 +1,20 @@
 ---
 title: Leland
-revid: 191176
+revid: 191520
 source: https://deepwoken.fandom.com/wiki/Leland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Leland
+
+| Leland | |
+|---|---|
+| name | Leland |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Isle of Vigils |
+| affiliation | Etrea |
 
 Variants: [Pori](Pori.md)
 
@@ -17,8 +25,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 “ Hey friend! Don't worry I'll get back to work soon. ”
 
 ― Leland
-
-Template:NpcInfobox
 
 ## Description
 
@@ -37,7 +43,7 @@ Leland is on the stairs heading down to the [Blacksmith](Blacksmith.md) right ou
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him.*</i> Please don't say anything to my teacher, he'll remove me from his apprenticeship if he catches me slacking off.</td>
@@ -63,7 +69,7 @@ This dialogue only appears if the player has chosen the option **"Don't worry, I
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him but recognizes you.*</i> Hey friend! Don't worry I'll get back to work soon.</td>
@@ -79,7 +85,7 @@ This dialogue only appears if the player has chosen the option **"Don't worry, I
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You're that wanted guy! Get away from me!</td>

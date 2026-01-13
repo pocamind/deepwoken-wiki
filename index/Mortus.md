@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 191216
+revid: 191559
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns]
@@ -48,7 +48,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">*The dishevelled man sniffs at you.* What's this? Need something'?</td>
@@ -96,7 +96,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
   <td colspan="4">Ah ha! That was it, simple as... You'll need two bits of chum to make the bait for this one.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +106,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Ah... I knew you'd be back. Knew it better than me wife, gods rest 'er soul. Too soon, too soon it were.</td>
@@ -123,7 +123,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
 </tr>
 <tr>
   <td>[See first instance on First Encounter]</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

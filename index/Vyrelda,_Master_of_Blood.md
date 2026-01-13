@@ -1,6 +1,6 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 188729
+revid: 191692
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
@@ -39,7 +39,7 @@ If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hm? Do you mind? I'm trying to staunch the bleeding on this one. Can't say it's working.</td>
@@ -103,7 +103,7 @@ If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress t
   <td colspan="6">Glad to hear it. Be on with it, though. I can't sit around here waiting all day.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +113,7 @@ If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You got the Heartstars? Should be some you can rip out of the Second's students lurking around here.</td>
@@ -125,7 +125,7 @@ If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress t
   <td colspan="12">Can't do much without the 3 Heartstars I asked for...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -135,7 +135,7 @@ If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You got the Heartstars? Should be some you can rip out of the Second's students lurking around here.</td>
@@ -160,13 +160,13 @@ If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I don't have time for this.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -176,7 +176,7 @@ If the player has Bloodrend unlocked, Vyrelda is able to be fought to progress t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah. You again. Need teaching?</td>

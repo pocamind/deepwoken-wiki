@@ -1,12 +1,20 @@
 ---
 title: Aeroaseluniris Oricalum Forentus
-revid: 188985
+revid: 191301
 source: https://deepwoken.fandom.com/wiki/Aeroaseluniris_Oricalum_Forentus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Aeroaseluniris Oricalum Forentus
+
+| Aeroaseluniris Oricalum Forentus | |
+|---|---|
+| name | Aeroaseluniris Oricalum Forentus |
+| alias | Aero |
+| species | Kyrsan |
+| pronouns | He/him[1] |
+| location | Firfire |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ Leader was right, you fringewalkers really are insufferable. ”
 
 ― Aero when the Pathfinder misnames them
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +37,7 @@ Aeroaseluniris Oricalum Forentus is a [Kyrsan](Kyrsgarde.md) NPC. Aero greets th
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Aelahi frinwalter... Oh apologies, I forgot your kind does not speak our tongue. Hello fringewalker!</td>
@@ -66,7 +72,7 @@ Aeroaseluniris Oricalum Forentus is a [Kyrsan](Kyrsgarde.md) NPC. Aero greets th
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>[Player called Aero by the correct name]</td>
@@ -95,7 +101,7 @@ This dialogue is unlocked once the player has obtained the Spear of Nakti and re
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Aelahi [Kyrsan Name], we appreciate your efforts.</td>
@@ -110,3 +116,7 @@ This dialogue is unlocked once the player has obtained the Spear of Nakti and re
 
 -   The "wrong name" the player can call Aero is randomly generated and is per account. It will change his name accordingly when speaking to him.
 -   Oricalum may derive from Orichalcum, a legendary precious metal described by Plato that is heavily associated with the lost city of Atlantis.
+
+## References
+
+1.  [↑](#cite-ref-1) [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md)

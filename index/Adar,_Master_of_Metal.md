@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 188800
+revid: 191298
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -191,13 +191,13 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hmm... No, that's not it... *<i>It appears he's too deep in thought to notice you.</i>*</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -207,7 +207,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hmm... Oh, sorry! Can I help you?</td>
@@ -257,8 +257,8 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
   <td colspan="6">It's okay to admit that you weren't listening.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -268,7 +268,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Any luck finding the ores?</td>
@@ -283,13 +283,13 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 </tr>
 <tr>
   <td colspan="6">So, what next?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">Now, if I'm right... This shouldn't do you <i>too</i> much harm. Err. No pain no gain, right? *<i>He looks awkwardly from side to side, evidently unsure if this is going to work.</i></td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -301,7 +301,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ahah! Another success, it seems that all the failures last month were corrected! Er. Ahem. If you need any tutoring in this art, let me know. I'd be happy to be your mentor.</td>
@@ -310,7 +310,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
   <td colspan="12">Hmm... Oh! If you have need of some Ironsing teaching, I can probably help you. Lot of folks have been coming by lately - feels good to see my work recognised!</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -332,7 +332,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 </tr>
 <tr>
   <td colspan="6">(A selection of available Mantras shows up as dialogue options)</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">Oh yeah, I can see room for improvement. If you fund my research a bit I can give you some pointers. How does 100 Notes sound?</td>
@@ -346,7 +346,7 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
   <td colspan="3">Oh, err. Afraid I can't help you for free right now. Money's a bit tight.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Renau
-revid: 188862
+revid: 191602
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -34,13 +34,13 @@ Renau is located in the [The Depths](The_Depths.md) in [The Chariot's Spire](<Th
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Last trip's batch seemed... Er. Underqualified. Young Epsi got sent down despite my protestations. Poor kid. He's barely ready for this layer, let alone the second.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

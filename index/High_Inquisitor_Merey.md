@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 188026
+revid: 191464
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -45,13 +45,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Private - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -61,13 +61,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Corporal - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +79,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*You recognize the shadow-clad Canor woman with dark, lightly-silvered hair and a visor. This is the High Inquisitor, Merey Scarsen. You offer a salute.*</i> ...Ah. You must be... Lance Corporal [Last Name] was it? Very good. I had just finished looking over the reports on your field mission performance. You pass the criteria for joining the Inquisition division. Would you like to enlist in our ranks?</td>
@@ -93,8 +93,8 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td><i>*The High Inquisitor's eyes, sharp and curious, pierce you like needles from beneath her visor.*</i> Very well, Lance Corporal. Know that it is both a privilege and a recognition of your achievements to receive the offer. If you change your mind... I'll be waiting here.</td>
 </tr>
 <tr>
-  <td>End, player joins Inquisition Division</td>
-  <td>End</td>
+  <td>[End Dialogue], player joins Inquisition Division</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -104,13 +104,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Lance Corporal - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -122,13 +122,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You gracefully salute the High Inquisitor. She salutes you back, stern as ever. Though, even through her steeled demeanour, you can tell your presence draws her attention.*</i> Welcome, Warrant Officer. I'm currently preoccupied with something, so if you bring any messages from Warden Jericho, please leave them on the table. If the Warden asks, you may tell him that the plans regarding our latest agent networks are proceeding apace.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -140,13 +140,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -156,13 +156,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -174,13 +174,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -190,13 +190,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -208,13 +208,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -224,13 +224,13 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -244,7 +244,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The High Inquisitor nods at you, but her demeanor remains steeled.*</i> Once again, welcome to the Inquisition of the Central Authority, soldier. I must offer a proper introduction. -I am High Inquisitor Merey, the leader of your division. I advise you to learn and understand the weight and importance of your position within the Authority's ranks and to represent me and my team adequately. Restraint and conscientiousness are the most important values an Inquisitor can have. Remind me your name and rank, Inquisitor?</td>
@@ -268,7 +268,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Very well, I hope that was informative enough. I expect to see you more around more often, [Rank] [Last Name]. I will be observing your career with interest - even if you won't be aware of it. <i>*Uncharacteristically to herself, she chuckles.*</i> If you have any other questions in the future - do not hesitate to stop by. Dismissed. *You once again exchange stern salutes with the High Inquisitor.*</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -278,7 +278,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You salute the High Inquisitor. She returns a rigid salute herself.*</i> Welcome back, [Rank] [Last Name]. I hope your work is keeping up to our standards. Remember - restraint and conscientiousness are the most important values an Inquisitor can have. Now... Do you have something on your mind?</td>
@@ -299,7 +299,7 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*You salute the High Inquisitor. She returns a rigid salute herself.*</i> Welcome back, [Rank] [Last Name]. I hope your work is keeping up to our standards. Remember - restraint and conscientiousness are the most important values an Inquisitor can have. Now... Do you have something on your mind?</td>
@@ -327,7 +327,7 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. But perhaps this tool will provide you with what you need.<br>
@@ -340,7 +340,7 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -350,7 +350,7 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. Is there something you'd like to talk about?</td>
@@ -359,7 +359,7 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
   <td>I</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -371,7 +371,7 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. Is there something you'd like to talk about?</td>
@@ -417,7 +417,7 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Despite the visor covering her eyes, the High Inquisitor notices your approach. You both exchange rigid salutes.*</i> Handler [Last Name], is it? I don't believe we've spoken since you first enlisted in my division. But I suppose stealth is the mark of a good Inquisitor. <i>*She gives you an icy smirk.*</i> I've heard good things about your work, Handler. Do you have any questions for me?</td>
@@ -438,13 +438,13 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You vigorously salute the High Inquisitor. She gives you a steely salute in return. You could swear she just sighed, if softly.*</i> I'm sorry, [Rank], there are no joint training exercises between the Shock Corps and the Inquisition planned today. Sentinel Augustus and I are still working out the details. Now, if you'll excuse me, I have other matters to attend to. Dismissed.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -454,13 +454,13 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The high inquisitor lets out a small, beleaguered sigh as you instinctively salute her. She returns the salute.*</i> Did Augustus send you, Operator? Please tell the Sentinel I <i>can't</i> just 'shock Destellus harder' to make him speak, as it just makes him <i>stronger</i>. Pray also tell him that I'm aware 'he can handle him', and that an interrogation's purpose isn't to start a barefist brawl. If you'll excuse me, I have matters to attend to right now.</td>
 </tr>
 <tr>
-  <td>End, unlocks dialogue with <a href="Sentinel_Augustus.md">Sentinel Augustus</a></td>
+  <td>[End Dialogue], unlocks dialogue with <a href="Sentinel_Augustus.md">Sentinel Augustus</a></td>
 </tr>
 </tbody>
 </table>
@@ -470,13 +470,13 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Although the Canor woman wears a visor, you can tell her eyes are set upon you like daggers.*</i> This area is off-limits to outsiders. I highly suggest you make yourself scarce, civilian... Unless you'd like to be introduced to the Fort Merit dungeons firsthand.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -486,13 +486,13 @@ If you haven't spoken to High Inquisitor Merey since you've joined the division,
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Lost, mouse? Let me show you the way out.</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b></td>
+  <td>[End Dialogue], player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>

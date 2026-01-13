@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 188964
+revid: 191442
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -110,7 +110,7 @@ Funke executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">The fury within you; it needs an outlet. The skies blacken with the premonition.</td>
@@ -138,7 +138,7 @@ Funke executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Have you done what I asked?</td>
@@ -172,7 +172,7 @@ Funke executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">The fury of the skies reflect that of the waves below. Have you come to reflect on your own fury?</td>

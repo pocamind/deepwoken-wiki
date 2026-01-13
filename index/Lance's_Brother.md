@@ -1,6 +1,6 @@
 ---
 title: "Lance's Brother"
-revid: 188115
+revid: 191514
 source: https://deepwoken.fandom.com/wiki/Lance's_Brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, Quests, Etrea, NPCs located in the Etrean Luminant]
@@ -48,7 +48,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Welcome to Lance's Food... I guess.</td>
@@ -63,7 +63,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 </tr>
 <tr>
   <td>Well, what is your name?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td><i>*The morose man says something. You realise that you weren't actually paying attention. What did he even say? Gods, was it [Random Name]? Surely not. No loving parent would call their child [Random Name]... Right?*</i> You'll remember it, right?...</td>
@@ -75,7 +75,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
   <td><i>*The man seems moved by your kindness.*</i> "Oh Gods below... Thank you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -87,7 +87,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Welcome to Lance's Food... I guess.</td>
@@ -111,7 +111,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
   <td>Oh... Well, it's... <i>*You hear white noise. What? Come on, there has to be something supernatural at foot here. Surely. Did this guy make a deal with a <a href="Glossary.md#the-drowned-gods">Drowned God</a> or something? A <a href="Glossary.md#vows">Vow</a>? What is wrong with this guy?*</i> People always seem so interested in my middle name...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -121,7 +121,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Welcome to Lance's Food... I guess.</td>
@@ -148,7 +148,7 @@ After accepting the quest, (?) will spawn a food crate at the back of his shop. 
   <td>[Walk away wordlessly, it's the only way. Abort conversation. Leave. Exit. GET OUT OF THERE MAN]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

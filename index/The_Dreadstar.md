@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 188876
+revid: 191659
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages requiring a cleanup, Pages with broken file links, NPCs, Oath Trainer]
@@ -31,7 +31,7 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Your soul... We can sense its putrid aura. The stench of revenge clouds your very being, suffocating all other desires. You wish for redemption. We can help you.</td>
@@ -91,7 +91,7 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
   <td>We will take our revenge, as the terms of our Oath declared. Across Lumen, there are masters of the heretical attunements, spreading their false teachings to the uninitiated. With each one slain, we shall grant you power to continue our redemption.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -101,7 +101,7 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hateful one, what is it you seek&nbsp;?</td>
@@ -116,7 +116,7 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
   <td>Hateful one, our revenge is complete. As for your own... we will walk with you, now. You will be our host, your Dreadstar to guide you to your revenge. Our being is tied to you now.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -126,7 +126,7 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hateful one, what is it you seek?</td>
@@ -138,7 +138,7 @@ The origin of The Dreadstar and how it came to be in the Beloved Zofia are unkno
   <td>Our revenge was merely a vehicle for the realisation of this Bond. You offer your heart to the Keeper, and lo, fate has claimed our enemies. In time, it will claim them all.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,18 +1,22 @@
 ---
 title: Ploom
-revid: 189689
+revid: 191586
 source: https://deepwoken.fandom.com/wiki/Ploom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame, Individuals with unspecified pronouns]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, The Covenant of Flame, Individuals with unspecified pronouns]
 ---
 
 # Ploom
 
+| Ploom | |
+|---|---|
+| name | Ploom |
+| aspect | Ganymede |
+| location | Etris |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +33,7 @@ They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh hello? Do you need something?</td>
@@ -80,7 +84,7 @@ They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Ah, hello friend! Do you have those embers?</td>
@@ -108,7 +112,7 @@ They wear the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, hello friend! I hope you're finding use with what I taught you.</td>

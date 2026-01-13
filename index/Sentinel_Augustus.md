@@ -1,20 +1,27 @@
 ---
 title: Sentinel Augustus
-revid: 190982
+revid: 191622
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Adret NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Sentinel Augustus
 
+| Sentinel Augustus | |
+|---|---|
+| name | Augustus Baaset |
+| alias | Sentinel Augustus |
+| aspect | Adret |
+| location | Fort Merit |
+| affiliation | The Central Authority |
+| family | Augustus Baaset's family, Unnamed parents (deceased), Two unnamed siblings (deceased), Augustus Baaset's sister (younger sister), Augustus Baaset's brother (younger brother) |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -37,13 +44,13 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanor seems polite.*</i> Hey. Aren't you a [Rank]? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -55,7 +62,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*You offer a salute to the hulking armoured man before you - the Sentinel of the Shock Corps, Augustus Baaset.*</i> At ease. You must be Lance Corporal [Last Name], right? Good, good. I've recently been looking over the of your mission performance, soldier. I have to say, I'm impressed. You've done well, and meet our division criteria. Would you like to join the Shock Corps, under my wing?</td>
@@ -69,8 +76,8 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td><i>*The Sentinel retains a stone-like composure.*</i> Of course. There is no need to rush such things, Lance Corporal. But remember - it is a great honour to serve in the Shock Corps. If you change your mind, let me know again. I'd be more than happy to take you under my wing, soldier.</td>
 </tr>
 <tr>
-  <td>End, player joins Shock Corps Division</td>
-  <td>End</td>
+  <td>[End Dialogue], player joins Shock Corps Division</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -80,13 +87,13 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The hulking armoured man looks down at you. His thoughts - if, indeed, he experiences any - are inscrutable, but his demeanor seems polite.*</i> Hey. Aren't you a Lance Corporal? You've still got a bit to go before you get to choose your division. If you're lost, you should go look for Drill Sergeant Kernel. He's a good man, he'll get you sorted. <i>*He gives you a way too hefty pat on the shoulder - hope that won't leave a mark.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -96,7 +103,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Noticing your presence, Sentinel Augustus immediately jumps to attention, as you both exchange stiff salutes. There's a look of excitement on his face.*</i> At ease! Do you bring news from Warden Jericho, [Rank]? Are we finally mustering to march on the enemy?..</td>
@@ -108,7 +115,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>No?.. Is that so?.. Oh... <i>*His expression looks as if you just told him Kyrsmas isn't real. He turns to his aide-de-camp, who looks just as dejected as the Sentinel.*</i> Myself and Interceptor Steel though... <i>*He shakes his head.*</i> Ah, nevermind that. Hey, listen, solider, if you <i>do</i> hear news of action, I ask that you tell the Shock Corps <i>first</i>, alright? We'll <b>hit 'em where it hurts</b>!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -120,13 +127,13 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You salute the Sentinel. He looks down at you with mild confusion on his face, saluting back.*</i> At ease. Huh, I don't think we've got any business with the Inquisition scheduled for today, [Rank]?.. Oh, I get it. You're here to fawn over young Interceptor Steel there like all the others, huh. Well, don't loiter around too long. I don't think the High Inquisitor appreciates that kind of idling, and we at the Shock Corps have business to get to today.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -136,13 +143,13 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You salute Sentinel Augustus. He looks down at you, saluting back the gears in his head visibly turning.*</i> At ease, Handler. Did High inquisitor Merey send you? No? Well... Since you're here, could you pass her an important message? * He gives you a wide grin. * I want to know when the next interrogation of General Destellus will take place I'd like to participate in it, if she wouldn't mind. Could you let her know? Thanks in advance, soldier</td>
 </tr>
 <tr>
-  <td>End, unlocks dialogue with <a href="High_Inquisitor_Merey.md">High Inquisitor Merey</a></td>
+  <td>[End Dialogue], unlocks dialogue with <a href="High_Inquisitor_Merey.md">High Inquisitor Merey</a></td>
 </tr>
 </tbody>
 </table>
@@ -156,7 +163,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6"><i>*The Sentinel sizes you up with a blank expression on his face.*</i> Three cheers once more, soldier, and welcome to the Shock Corps. I should introduce myself properly -I'm Sentinel Augustus Baaset, your division commander. The heartthrob with the blue armour there is Interceptor Chud Steel, my current aide-de-camp.. Hm. You're a <i>little skinny</i>, but we'll put some muscle on you in no time. Remind me your name, soldier?</td>
@@ -182,7 +189,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td>I think that's all, thank you Sentinel.</td>
   <td>Could you tell me more about the Shock Corps?</td>
   <td>I think that's all, thank you Sentinel.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4">[See first instance]</td>
@@ -195,7 +202,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">*<i>You salute the Sentinel, and he salutes you back</i>* Welcome back, [Rank] [Last Name]. I hope your Shock Corps training has been doing well. Don't worry - we'll get you in tip-top shape in no time. ...Well. You didn't just come to gawk at me and Interceptor Chud Steel, right? Do you have some questions?</td>
@@ -217,7 +224,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
 <table>
 <tbody>
 <tr>
-  <td colspan="216">Begin</td>
+  <td colspan="216">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="216"><i>*The Sentinel greets you with a big grin and the two of you exchange enthusiastic salutes, before he gives you a hard clap on the shoulder.*</i> If it isn't Operator [last name], one of our star juggernauts! I see you've finally put on some muscle, too - you're filling out your armor well. Don't forget to work on your calves too. There's nothing worse than a leg cramp on the battle field - or worse, in a charge! Hah!.. Ah, I almost forgot. Here, soldier, take this with you.<br>
@@ -279,7 +286,7 @@ Sentinel Augustus is located on a balcony along-side [Chud Steel](Chud_Steel.md)
   <td colspan="2">Could you tell me about yourself?</td>
   <td colspan="2">It seems to me the High Inquisitor and yourself may not be on the best of terms?..</td>
   <td colspan="2">If I may speak freely - what do you think of Warden Jericho?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
   <td colspan="24">How did you become the Sentinel, sir?</td>
   <td colspan="96"></td>
   <td colspan="72">May I ask you something else, Sentinel?</td>
@@ -313,7 +320,7 @@ This dialogue is unlocked by speaking with [High Inquisitor Merey](High_Inquisit
 <table>
 <tbody>
 <tr>
-  <td colspan="9">Begin</td>
+  <td colspan="9">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="9"><i>*The Sentinel greets you with a big grin and the two of you exchange enthusiastic salutes, before he gives you a hard clap on the shoulder.*</i> If it isn't Operator [last name], one of our star juggernauts! I see you've finally put on some muscle, too - you're filling out your armor well. Don't forget to work on your calves too. There's nothing worse than a leg cramp on the battle field - or worse, in a charge! Hah!.. Ah, I almost forgot. Here, soldier, take this with you.<br>
@@ -399,13 +406,13 @@ This dialogue is unlocked by speaking with [High Inquisitor Merey](High_Inquisit
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The giant of a man pays you little heed.*</i> This place is off-limits to outsiders, bub. You should leave. Unless you'd like me to cave your skull in.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -415,13 +422,13 @@ This dialogue is unlocked by speaking with [High Inquisitor Merey](High_Inquisit
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You must think yourself <i>*real*</i> sneaky, huh? Tsch. It's only too bad you ran straight into <b>me</b>, chump.</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b></td>
+  <td>[End Dialogue], player is jailed and sent to <b>execution</b></td>
 </tr>
 </tbody>
 </table>

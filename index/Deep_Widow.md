@@ -1,6 +1,6 @@
 ---
 title: Deep Widow
-revid: 189153
+revid: 191392
 source: https://deepwoken.fandom.com/wiki/Deep_Widow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,17 @@ categories: [Monsters]
 
 # Deep Widow
 
+| Deep Widow | |
+|---|---|
+| health | 630015750 (Corrupted) |
+| attacks | Deep Webbing, Venomous Bite, Swipe, Impale, Articulated Thrash |
+| drops | Arachnid's WeaveChest |
+| locations | Starswept Valley, The Depths |
+| challenges | -- Deep Widow --, Deep Widow Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Deep Widow Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Deep Widow Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
+
 “ \[...\] Namely, the 'four chitinous beasts' seem to indicate the presence of giant recluse spiders not unlike the so-called Deep Widow found underneath the surface of Aratel, indicating that these creatures have existed even before the tides came. ”
 
 ― [Tale of the Storm](Tale_of_the_Storm.md), an Etrean sea shanty
-
-Template:Creature Infobox V3
 
 ## Description
 

@@ -1,18 +1,26 @@
 ---
 title: Crustaceous Rex
-revid: 189747
+revid: 191376
 source: https://deepwoken.fandom.com/wiki/Crustaceous_Rex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with reference errors, Monsters]
+categories: [Monsters]
 ---
 
 # Crustaceous Rex
+
+| Crustaceous Rex | |
+|---|---|
+| health | 25006250 (Corrupted) |
+| attacks | Bubble Beam, Crab Crab[1], Ground Smash, Hack & Slash, Rising Smash |
+| drops | Crustacean Meat |
+| locations | First Layer, The Diluvian Mechanism |
+| challenges | -- Crustaceous Rex --, Go Crabbing - Slay 10.Reward: +10% DMG; +5% RES, Carapace Crown - Slay 25.Reward: +10% DMG; +5% RES, The Chitin Throne - Slay 100.Reward: +10% DMG; +5% RES |
 
 “ Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crustaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'. ”
 
 ― Inquisitor's Thorn Description
 
-Template:Creature Infobox V3 _Also known as **King Crab** or just simply **Crab.**_
+_Also known as **King Crab** or just simply **Crab.**_
 
 ## Description
 
@@ -87,4 +95,4 @@ Crustaceous Rex is a hostile Giant-type mob. Whilst appearing scary, it is one o
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-crabcrab-1-0) [1.1](#cite-ref-crabcrab-1-1) Cite error: Invalid `<ref>` tag; no text was provided for refs named `CrabCrab`
+1.  ↑ [1.0](#cite-ref-crabcrab-1-0) [1.1](#cite-ref-crabcrab-1-1) [1.2](#cite-ref-crabcrab-1-2) [Version History: June 25th, 2023](Version_History/Uncollapsed.md#june-25th-2023)

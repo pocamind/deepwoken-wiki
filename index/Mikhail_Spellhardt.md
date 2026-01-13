@@ -1,6 +1,6 @@
 ---
 title: Mikhail Spellhardt
-revid: 185891
+revid: 191550
 source: https://deepwoken.fandom.com/wiki/Mikhail_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, Hallowtide, Vendors, NPCs located in The Floating Keep, Members of the Spellhardt family]
@@ -30,7 +30,7 @@ Mikhail is a [Lightborn](Lightborn.md) located in [The Floating Keep](The_Floati
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Happy Hallowtide, land dweller! Enjoy your stay in our Keep. We hope you enjoy our hospitality.</td>

@@ -1,6 +1,6 @@
 ---
 title: Elykris
-revid: 188123
+revid: 191414
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
@@ -43,7 +43,7 @@ Elykris is located leaning against a tree, on a ledge to the left of a Ministry 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">They're lurking here. I know they are. The Trial has lured them to this land, in search of power.</td>
@@ -83,8 +83,8 @@ Elykris is located leaning against a tree, on a ledge to the left of a Ministry 
   <td colspan="3">Very well. Their ruins are on a cliff side here on Minityrsa, surrounded by many patrols of their members. They wield a powerful attunement, so be on guard.</td>
 </tr>
 <tr>
-  <td colspan="3">End, player receives 3 Aces and Curiosity Talent Hand</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue], player receives 3 Aces and Curiosity Talent Hand</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -94,7 +94,7 @@ Elykris is located leaning against a tree, on a ledge to the left of a Ministry 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You're still walking; that's a good sign. How goes the mission?</td>
@@ -112,8 +112,8 @@ Elykris is located leaning against a tree, on a ledge to the left of a Ministry 
   <td colspan="6">Very well. Their ruins are on a cliffside here on Minityrsa, surrounded by many patrols of their members. They wield a powerful attunement, so be on guard. Return to me with the report.</td>
 </tr>
 <tr>
-  <td colspan="6">End, player receives 3 Aces and Curiosity Talent Hand</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue], player receives 3 Aces and Curiosity Talent Hand</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -123,13 +123,13 @@ Elykris is located leaning against a tree, on a ledge to the left of a Ministry 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Thank you again, traveler. The Ministry must be stopped, lest we fall victim to their power.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

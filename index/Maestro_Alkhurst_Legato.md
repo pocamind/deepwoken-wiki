@@ -1,22 +1,31 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 191164
+revid: 191530
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Maestros of the Vigils, Circle of Honour members]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Maestros of the Vigils, Circle of Honour members]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Maestro Alkhurst Legato
 
+| Maestro Alkhurst Legato | |
+|---|---|
+| name | Alkhurst Legato |
+| alias | Maestro, The Maestro of Vigils |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Temple of the Blade |
+| affiliation | Circle of Honour |
+| death | Killed during the Invasion of the Isle of Vigils |
+| deathdate | Between 1233 CE[1] and 1271 CE[2] |
+
 Variants: [Evengarde Rest](Evengarde_Rest.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -39,7 +48,7 @@ Maestro Alkhurst Legato is located in the [Temple Sparring Hall](Temple_Sparring
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td colspan="20">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="20"><i>*A thousand soft and subtle breezes make their way across the incense-shrouded temple as you approach the older-looking Etrean. The man carries himself with a certain elegant air - although the slight slouch in his shoulders betrays weariness. His pale blue eyes glance at you expectantly.*</i></td>
@@ -134,7 +143,7 @@ Maestro Alkhurst Legato is located in the [Temple Sparring Hall](Temple_Sparring
 <table>
 <tbody>
 <tr>
-  <td colspan="9">Begin</td>
+  <td colspan="9">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="9"><i>*A breeze shudders its way way across the incense-shrouded temple as you approach Maestro Alkhurst Legato. He bows lightly, as a sign of respect.*</i> Welcome once again, Ironsworn. Have you brought us any good news? Or, do you perhaps require advice?</td>
@@ -168,3 +177,8 @@ Maestro Alkhurst Legato is located in the [Temple Sparring Hall](Temple_Sparring
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE.
+2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 1 will be assumed to occur during the year 1271 CE, due to being the in-game year when the game released.

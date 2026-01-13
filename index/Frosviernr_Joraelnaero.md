@@ -1,12 +1,19 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 189018
+revid: 191441
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, Quests, NPCs located in the Second Floor of the Second Layer]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, Quests, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # Frosviernr Joraelnaero
+
+| Frosviernr Joraelnaero | |
+|---|---|
+| name | Frosviernr Jorealnaero |
+| species | Kyrsan |
+| pronouns | He/him[1] |
+| location | New Kyrsa |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +22,6 @@ This content is not accessible outside of this gamemode.
 “ ...My brother could fashion the finest spears of frost infinitely more elegant than the conjured weaponry of our contemporarys. ”
 
 ― Naerotiv
-
-Template:NpcInfobox
 
 Frosviernr is an NPC found in [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
 
@@ -29,7 +34,7 @@ He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Await the call... A thousand worlds beneath our feet.</td>
@@ -45,7 +50,7 @@ He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Aelahi... I haven't seen anyone around here in ages, gods below. It feels like... I'm not even sure how long. Do you sense it too? Like our time is slipping away, Fringewalker.</td>
@@ -75,7 +80,7 @@ He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You have no need to linger around this fool any longer.</td>
@@ -85,3 +90,7 @@ He is the brother of fellow Kyrsan [Naerotiv](Naerotiv.md).
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1) [Naerotiv](Naerotiv.md)

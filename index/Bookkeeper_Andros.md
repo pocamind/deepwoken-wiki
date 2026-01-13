@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 188114
+revid: 191341
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -39,7 +39,7 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Oh! Uh, hello. Pardon me, I was rather deep in thought.</td>
@@ -57,7 +57,7 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
   <td>Isn't that remarkable? That they travelled such distances by animal? Just what world did our ancestors live in?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -67,13 +67,13 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Huh? I'm sorry... I don't have anything for you. Please, I could get into a lot of trouble for speaking to you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the <a href="Glossary.md#the-old-world">old world</a>. Don't you wonder what things were like back then?</td>
@@ -98,13 +98,13 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 </tr>
 <tr>
   <td>Who is this Lord Regent exactly?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -118,7 +118,7 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the <a href="Glossary.md#the-old-world">old world</a>. Don't you wonder what things were like back then?</td>
@@ -169,7 +169,7 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -181,7 +181,7 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the <a href="Glossary.md#the-old-world">old world</a>. Don't you wonder what things were like back then?</td>
@@ -223,7 +223,7 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
   <td colspan="3">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

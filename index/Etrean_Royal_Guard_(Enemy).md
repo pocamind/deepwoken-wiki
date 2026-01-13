@@ -1,6 +1,6 @@
 ---
 title: Etrean Royal Guard (Enemy)
-revid: 190021
+revid: 191422
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(Enemy)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Etrea Enemies]
@@ -95,7 +95,7 @@ An Etrean Royal Guard's arsenal only consists of a [Katana](Katana.md):
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>What do you think you're doing here?</td>
@@ -119,7 +119,7 @@ This dialogue only appears if the player has started the "Forge of Sin" questlin
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>What's your business here?</td>

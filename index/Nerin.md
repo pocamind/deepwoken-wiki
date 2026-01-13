@@ -1,12 +1,20 @@
 ---
 title: Nerin
-revid: 189685
+revid: 191571
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
 ---
 
 # Nerin
+
+| Nerin | |
+|---|---|
+| name | Nerin |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Etris |
+| affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer? ”
 
 ― Nerin
-
-Template:NpcInfobox
 
 ## Description
 
@@ -33,7 +39,7 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The guard gives you a crooked smile.*</i> Have a nice day, friend. If you ever get into trouble, you know who to look for...</td>
@@ -49,7 +55,7 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Ah, it seems you've made quite a name for yourself around these parts, friend.</td>
@@ -94,7 +100,7 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*He leans in with a crooked smile.*</i> I might be able to help you if you're able to get some of the heat off of you.</td>

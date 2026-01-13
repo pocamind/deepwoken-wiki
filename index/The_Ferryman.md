@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 189517
+revid: 191660
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, NPCs, Bosses, Voiced Characters]
@@ -287,7 +287,7 @@ This is Ferryman's dialogue when he's neutral, before you fight him.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">[The First time meeting The Ferryman on that character]</td>
@@ -306,7 +306,7 @@ This is Ferryman's dialogue when he's neutral, before you fight him.
 <tr>
   <td colspan="6">Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.<br>
   </td>
-  <td colspan="6">End, Fight Begins</td>
+  <td colspan="6">[End Dialogue], Fight Begins</td>
 </tr>
 <tr>
   <td colspan="6">[Tell him your name]</td>
@@ -326,7 +326,7 @@ This is Ferryman's dialogue when he's neutral, before you fight him.
   <td colspan="6">Deal.</td>
 </tr>
 <tr>
-  <td colspan="6">End, Fight Begins</td>
+  <td colspan="6">[End Dialogue], Fight Begins</td>
 </tr>
 </tbody>
 </table>
@@ -338,7 +338,7 @@ This is Ferryman's dialogue when he's defeated, after you fight him. There is no
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">[Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font>]</td>
@@ -358,13 +358,13 @@ This is Ferryman's dialogue when he's defeated, after you fight him. There is no
 </tr>
 <tr>
   <td colspan="6">So, what are you?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">I am a <a href="Glossary.md#krulians">Krulian</a>, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Artisan
-revid: 171909
+revid: 191321
 source: https://deepwoken.fandom.com/wiki/Artisan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Guild Base]
@@ -23,7 +23,7 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">'Allo... I can fuse 2 pieces of equipment into one with my exquisite ability... Ze first will be ze attributes, ze zecond ze appearance... Only 800 Notes...</td>
@@ -49,7 +49,7 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
   <td colspan="12">*The two pieces of equipment are merged into a shiny new item.*</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -59,7 +59,7 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Allo... I'ave ztill got your attribute item on hand. Now, give me ze item you want to keep ze appearance of.</td>
@@ -74,7 +74,7 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
   <td colspan="4'">Ahh! No taste! Zis one has no taste! Fine. Okay.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -84,13 +84,13 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">'Allo... I zee you have not paid for my zervices... Run along now, little rodn..</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -100,7 +100,7 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4'">'Allo... I zee you do not have anythink i can fuse... Tsk!</td>

@@ -1,6 +1,6 @@
 ---
 title: Ghost
-revid: 178414
+revid: 191448
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -50,7 +50,7 @@ A Ghost cannot execute their opponent.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Player has gripped another player</td>
@@ -61,8 +61,8 @@ A Ghost cannot execute their opponent.
   <td><i>*The spirit smiles kindly.*</i> ...Remember the dead.</td>
 </tr>
 <tr>
-  <td>End, ghosts attack player</td>
-  <td>End</td>
+  <td>[End Dialogue], ghosts attack player</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

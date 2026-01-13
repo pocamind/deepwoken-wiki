@@ -1,18 +1,23 @@
 ---
 title: Rabanastre
-revid: 188902
+revid: 191595
 source: https://deepwoken.fandom.com/wiki/Rabanastre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Rabanastre
 
+| Rabanastre | |
+|---|---|
+| name | Rabanastre |
+| aspect | Ganymede |
+| pronouns | He/him |
+| location | Second Layer |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -25,7 +30,7 @@ Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Kehe! You, ah, lost lamb! Would you like to play... a game? No tricks, no foul, just pure fun.</td>
@@ -56,7 +61,7 @@ Rabanastre is a [Ganymede](Ganymede.md) found in the [Second Layer](Second_Layer
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Kehe! You- Oh. Oh, you... lived. Oh, kehe..he. <i>*He begins to sweat nervously, looking up at you in fear.*</i> A-all fun and games, right friend? Oh, brave warrior of mine?</td>

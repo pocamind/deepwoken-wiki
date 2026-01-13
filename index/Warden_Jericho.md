@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 188436
+revid: 191693
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Wardens of The Central Authority, NPCs located in the Eastern Luminant, Circle of Honour members]
@@ -46,13 +46,13 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every <a href="Glossary.md#the-central-authority">Authority</a> soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...[Rank]. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +64,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*Warden Jericho stands before you, looking over what appears to be strategic maps of the local <a href="Glossary.md#the-luminants">Luminants</a>. You salute him stringently.*</i><p>...You must be Lance Corporal [Last Name]. I was expecting you. I'm told you are eligible for a promotion to one of the divisions. The Command division is open to anyone willing to serve in it, if they are willing to become an officer. Will you serve thusly under my command?</p></td>
@@ -78,8 +78,8 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
   <td><i>*Jericho's expression appears inscrutable, but you could swear you saw him smirk.*</i> The waves may rush, but crash they still against unmoving stone. I think you would be a good fit for the Command division, Lance Corporal. A strategic mind weighs all of it's available options first. If you change your mind, you may return to me.</td>
 </tr>
 <tr>
-  <td>End, player joins Command Division</td>
-  <td>End</td>
+  <td>[End Dialogue], player joins Command Division</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -89,13 +89,13 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Adretian officer standing before you is without a doubt the legendary Warden Jericho - every Authority soldier knows his name. He turns his dulled crimson-eyed gaze away from the maps on the table, and towards you.*</i> ...Lance Corporal. It appears you may have gotten a little lost. Junior ranks have no pressing business in the war room, unless summoned by me. If you're looking for guidance, I recommend seeking Drill Sergeant Kernel Senior at the training grounds. You may be dismissed.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +109,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Jericho, the Warden of the East, notes your approach. You exchange stringent salutes.*</i> Welcome once more to the Command division of the <a href="Glossary.md#the-central-authority">Central Authority</a>. As you already know, I am Jericho, Warden of the East, by the grace of our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>. You would do well to quickly learn that strategic thought and steadfast leadership are key to being an Officer. I would request that you remind me your rank and name.</td>
@@ -133,7 +133,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
   <td><i>*You exchange salutes once more.*</i> Very well. You may return to your duties, Warrant Officer [Last Name]. I expect you to report to me once again soon enough. In the meantime, you will perform the tasks demanded of you by your position with utmost diligence. You may be dismissed.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -143,7 +143,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> You return, Warrant Officer [Last Name]. I expect that you have been keeping up with your workload. Though, I imagine your new responsibilities may take some time to adapt to. I imagine you have questions for me.</td>
@@ -162,7 +162,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You salute the Warden. His own salute radiates brilliance.*</i> You return, [Rank] [Last Name]. I expect that you have been keeping up with your workload. Though, I imagine your new responsibilities may take some time to adapt to. I imagine you have questions for me.</td>
@@ -183,7 +183,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4"><i>*Warden Jericho turns to face you as you approach. You exchange salutes commanding respect. He seems wearier than usual. Has he always been like this?..*</i> Seneschal [Last Name]. It is good to see you again. It is diligent of you to report to your superiors. May your behaviour set an example for others in the Command division. <i>*He procures a pristine weapon, and gives it to you.*</i> Take this. The Rite of <a href="Glossary.md#the-central-authority">Authority</a>. It is your mark of power as a Sensechal. Treat it with respect.<br>
@@ -221,7 +221,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>How did you join the Authority military?</td>
   <td>That is all, Warden, thank you.</td>
 </tr>
@@ -237,7 +237,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Warden Jericho turns to face you as you approach. You exchange salutes commanding respect. He seems wearier than usual. Has he always been like this?..*</i> Seneschal [Last Name]. It is good to see you again. It is diligent of you to report to your superiors. May your behaviour set an example for others in the Command division. I hear you have been doing well in the field. Was there something you wanted to discuss?</td>
@@ -256,13 +256,13 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> [Rank]. If you have anything to report, you should follow the chain of command and inform your division leader, the High Inquisitor, first. If you bring any news from the High Inquisitor, please leave them on the table. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -272,13 +272,13 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*You offer a stern salute to the Warden of the East. He responds with a formal salute.*</i> [Rank]. If you have anything to report, you should follow the chain of command and inform your division leader, the Sentinel, first. If you bring any news from the Sentinel... You should not have to. The Sentinel is welcome to step back from the balcony and report directly to me at any time. If that is all, you may be dismissed.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -288,13 +288,13 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The slightly weary-looking Adretian man looks to be a high-ranking commander of some sorts.*</i> Civilian. You are not permitted to be within this fortress. It is for military personnel only. I recommend you make your leave swiftly, <b>or else</b>.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -304,7 +304,7 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Sent to execution</td>
@@ -315,8 +315,8 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
   <td>By the authority bestowed upon me by our <a href="Glossary.md#the-sovereign-drallis-ehr">Sovereign</a> of Eras, <a href="Glossary.md#the-sovereign-drallis-ehr">Drallis Ehr</a>, I sentence you to death. May you drown in the deep, criminal.</td>
 </tr>
 <tr>
-  <td>End, player is jailed and sent to <b>execution</b></td>
-  <td>End, player is <b>executed</b> and sent to <a href="First_Layer.md">Scyphozia</a></td>
+  <td>[End Dialogue], player is jailed and sent to <b>execution</b></td>
+  <td>[End Dialogue], player is <b>executed</b> and sent to <a href="First_Layer.md">Scyphozia</a></td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 189194
+revid: 191380
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,17 @@ categories: [Monsters]
 
 # Deep Owl
 
+| Deep Owl | |
+|---|---|
+| health | 13503375 (Corrupted) |
+| attacks | Talon Swipe, Owl Dash, Overhead Grab, Flock of Feathers |
+| drops | Dark Feather, Void Feather (5% - Non-Corrupted) / (100% - Corrupted), Jet Black Justicar Defender Coat, Dark Owl Chapeau, Dark Owl Cloak, Dark Owl Cape |
+| locations | Lower Erisia, The Viper's Jaw, Pathfinder's Respite, The Garden Reservoir, Upper Erisia, Burning Stone Gardens, The Lordsgrove, The Depths |
+| challenges | -- Deep Owl --, Curious Killers - Slay 10.Reward: +10% DMG; +5% RES, Radial Perspective - Slay 25.Reward: +10% DMG; +5% RES, Peace Of Mind, Mouse - Slay 100.Reward: +10% DMG; +5% RES |
+
 “ A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity. ”
 
 ― ???
-
-Template:Creature Infobox V3
 
 ## Description
 
@@ -106,7 +112,7 @@ Note: The player can only speak to a Deep Owl if they are the one to spawn it or
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">A little mouse comes squeaking into my nest. What possesses it to do so? Please, do sate my curiosity.</td>
@@ -120,7 +126,7 @@ Note: The player can only speak to a Deep Owl if they are the one to spawn it or
   <td colspan="6">My, my... Such impertinent squeaking. The mice of this land never fail to amaze me.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -130,13 +136,13 @@ Note: The player can only speak to a Deep Owl if they are the one to spawn it or
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*The creature tilts its head curiously.*</i></td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

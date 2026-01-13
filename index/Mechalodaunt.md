@@ -1,6 +1,6 @@
 ---
 title: Mechalodaunt
-revid: 186490
+revid: 191542
 source: https://deepwoken.fandom.com/wiki/Mechalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemies]
@@ -8,13 +8,18 @@ categories: [Monsters, Ambush Enemies, The Ignition Union, Ignition Union Enemie
 
 # Mechalodaunt
 
+| Mechalodaunt | |
+|---|---|
+| health | 35008750 (Corrupted) |
+| attacks | Slash, Kick, Blazing Kick, Jump, Roar, Thousand Needles, Bullet Fury, Laser Explosion, Finisher: Curb Stomp |
+| drops | Umbral Obsidian, Erisore, Irithine, Worn Cog, Mantra Modifiers, Broken Gatling Gun, Megalodaunt Coat |
+| challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
+
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._
 
 “ \*Kzzt!\* This one's REALLY nicked. \*Kzzt.\* ”
 
 ― Mechalodaunt
-
-Template:Creature Infobox V3
 
 ## Description
 

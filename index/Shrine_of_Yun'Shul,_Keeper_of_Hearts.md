@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 188869
+revid: 191731
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Layer 1, Oath Trainer]
@@ -77,7 +77,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6"><i>*An insidious voice begins to scratch the inside of your mind. You instinctively recoil, your temples pounding with pain.*</i></td>
@@ -86,7 +86,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
   <td colspan="6">[Let the voice in]</td>
 </tr>
 <tr>
-  <td colspan="6">TELL ME O' CHILD OF WANT, WHAT IS YOUR DESIRE? / CHILD OF WANT... YOU MAY ASK OF ME [Number oF Wishes] MORE DESIRES TO BE GRANTED...</td>
+  <td colspan="6">TELL ME O' CHILD OF WANT, WHAT IS YOUR DESIRE? / CHILD OF WANT... YOU MAY ASK OF ME [Number of Wishes] MORE DESIRES TO BE GRANTED...</td>
 </tr>
 <tr>
   <td>The trials ahead of me fill me with trepidation, I wish to escape this place.</td>
@@ -98,8 +98,8 @@ If you meet all the criteria, you are able to make one of seven wishes:
 </tr>
 <tr>
   <td><i>*Something awful holds your mind in its grip.*</i> THIS PLACE SHALL HOLD YOU PRISONER NO LONGER. THOUGH, KNOW WHEN YOU RETURN, I SHALL BE THE ONE TO COLLECT YOUR HEAD. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
-  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. NO LONGER SHALL YOU BE BEHOLDEN TO PROMISES. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
   <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. THIS FLAW SHALL WEIGH YOU DOWN NO LONGER. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
+  <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. NO LONGER SHALL YOU BE BEHOLDEN TO PROMISES. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
   <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. YOU SHALL FORGET THE PROMISE YOU MADE, A NEW PATH OPENING UP IN ITS PLACE. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
   <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. GONE ARE THE GIFTS THAT DISPLEASED YOU SO. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
   <td><i>*Something awful holds your mind in its grip.*</i> THEN IT IS SO. MAY YOUR SOUL'S MURMUR BE AS IT ONCE WAS. <i>*The sensation departs you. Your mind is quiet once more.*</i></td>
@@ -122,7 +122,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>PITTABLE CHILD, MALNOURISHED OF SOUL, PRE-DIGESTED. CYANIDE-LADEN PIT OF MEALFRUIT TOSSED ASIDE. PROVE YOURSELF AT LEAST AN APPETISER.</td>
@@ -138,7 +138,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>PLUCK OUT THINE EYES; TEAR OUT THINE THROAT; LAY WASTE TO ALL WHICH IS SACRED; THE MOONSEYE CONVERGES WITH THAT BELOW.</td>
@@ -154,7 +154,7 @@ If you meet all the criteria, you are able to make one of seven wishes:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Something begins to gnaw at the connective tissue that joins your conscious experience together. Your body screams for you leave this place.*</i></td>
@@ -174,7 +174,7 @@ This dialogue is unlocked if the player meets the requirements to obtain [Oath: 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*An insidious voice begins to scratch the inside of your mind. You instinctively recoil, your temples pounding with pain.*</i></td>
@@ -196,10 +196,10 @@ This dialogue is unlocked if the player meets the requirements to obtain [Oath: 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>TELL ME O' CHILD OF WANT, WHAT IS YOUR DESIRE? / CHILD OF WANT... YOU MAY ASK OF ME [Number oF Wishes] MORE DESIRES TO BE GRANTED...</td>
+  <td>TELL ME O' CHILD OF WANT, WHAT IS YOUR DESIRE? / CHILD OF WANT... YOU MAY ASK OF ME [Number of Wishes] MORE DESIRES TO BE GRANTED...</td>
 </tr>
 <tr>
   <td>For now I am one, but I wish to be three.</td>

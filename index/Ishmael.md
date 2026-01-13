@@ -1,22 +1,26 @@
 ---
 title: Ishmael
-revid: 191215
+revid: 191480
 source: https://deepwoken.fandom.com/wiki/Ishmael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
+categories: [Celtor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Ishmael
 
+| Ishmael | |
+|---|---|
+| name | Ishmael |
+| aspect | Celtor |
+| location | Etrean Sea |
+
 Variants: [Mortus](Mortus.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +35,7 @@ Ishmael is a [Celtor](Celtor.md) NPC.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*The dishevelled man sniffs at you.*</i> What's this? Need somethin'?</td>
@@ -79,7 +83,7 @@ Ishmael is a [Celtor](Celtor.md) NPC.
   <td colspan="4">Ah ha! That was it, simple as... You'll need two bits of chum to make the bait for this one.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -89,7 +93,7 @@ Ishmael is a [Celtor](Celtor.md) NPC.
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Ah... I knew you'd be back. Knew it better than me wife, gods rest 'er soul. Too soon, too soon it were.</td>
@@ -106,7 +110,7 @@ Ishmael is a [Celtor](Celtor.md) NPC.
 </tr>
 <tr>
   <td>[See first instance on First Encounter]</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,12 +1,20 @@
 ---
 title: Pori
-revid: 191180
+revid: 191588
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Pori
+
+| Pori | |
+|---|---|
+| name | Pori |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Etris |
+| affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -15,8 +23,6 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 “ Hey friend! Don't worry I'll get back to work soon. ”
 
 ― Pori
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +41,7 @@ Pori is located outside of [Blacksmith](Blacksmith.md) [Caragan's](Caragan.md) s
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him.*</i> Please don't say anything to my teacher, he'll remove me from his apprenticeship if he catches me slacking off.</td>
@@ -59,7 +65,7 @@ Pori is located outside of [Blacksmith](Blacksmith.md) [Caragan's](Caragan.md) s
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You're that wanted guy! Get away from me!</td>
@@ -77,7 +83,7 @@ This dialogue only appears if the player has chosen the option **"Don't worry, I
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The youth looks at you surprised, having not expected anyone to find him but recognizes you.*</i> Hey friend! Don't worry I'll get back to work soon.</td>

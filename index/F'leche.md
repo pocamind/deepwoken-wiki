@@ -1,6 +1,6 @@
 ---
 title: "F'leche"
-revid: 186757
+revid: 191430
 source: https://deepwoken.fandom.com/wiki/F'leche
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -35,7 +35,7 @@ F'leche is a [Tiran](Tiran.md) NPC. She is found in [New Kyrsa, The Sleeping Cit
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Is that... Gods below, another living soul?</td>
@@ -113,7 +113,7 @@ F'leche is a [Tiran](Tiran.md) NPC. She is found in [New Kyrsa, The Sleeping Cit
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">My best friend, oh how I've missed you! Please please, tell me, how have you been? You're happy to see me, right? You won't leave me again, right?</td>
@@ -134,7 +134,7 @@ This dialogue is unlocked if the player has spoken to [C'lantaa](<C'lantaa.md>).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Is that... Gods below, another living soul?</td>

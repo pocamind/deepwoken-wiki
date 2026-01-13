@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 190206
+revid: 191531
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -319,7 +319,7 @@ Exhaustive Loot Table
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>So, are you ready to begin? It's time to put your strength to the test.</td>
@@ -340,7 +340,7 @@ This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https:/
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, I recognize that wheel on your head. You must be confident in your ability to adapt I presume? It's time to put your strength to the test.</td>

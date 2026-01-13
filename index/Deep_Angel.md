@@ -1,6 +1,6 @@
 ---
 title: Deep Angel
-revid: 171215
+revid: 191379
 source: https://deepwoken.fandom.com/wiki/Deep_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enemies, Enemies that can wield Enchantments]
@@ -10,7 +10,11 @@ notices:
 
 # Deep Angel
 
-Template:Creature Infobox V3
+| Deep Angel | |
+|---|---|
+| health | 16004800(Corrupted) |
+| attacks | Light AttackLight Gun |
+| locations | Starfield Grove, Ancient Rotlands, The Diluvian Mechanism |
 
 ## Description
 

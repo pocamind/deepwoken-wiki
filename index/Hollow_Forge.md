@@ -1,6 +1,6 @@
 ---
 title: Hollow Forge
-revid: 176834
+revid: 191472
 source: https://deepwoken.fandom.com/wiki/Hollow_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -36,7 +36,7 @@ The Hollow Forge has the following recipes
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td>
@@ -68,7 +68,7 @@ The Hollow Forge has the following recipes
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The Hollow Forge belts out hit, awaiting use.*</i></td>

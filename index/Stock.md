@@ -1,20 +1,25 @@
 ---
 title: Stock
-revid: 191239
+revid: 191643
 source: https://deepwoken.fandom.com/wiki/Stock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, NPCs, Quests]
+categories: [Ganymede NPCs, Vow of Iron Exclusive, NPCs, Quests]
 ---
 
 # Stock
+
+| Stock | |
+|---|---|
+| name | Stock |
+| aspect | Ganymede |
+| location | Summer Isle |
+| affiliation | The Summer Company |
 
 Variants: [Scope](Scope.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +36,7 @@ Stock is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Between the Ignition Union and the Bandits, we won't have any explosive ordinance left...</td>
@@ -56,7 +61,7 @@ Stock is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Aye, thanks for the help. The <a href="Glossary.md#the-central-authority">Authority</a> better start sending some help before we start declining their firearm contracts.</td>

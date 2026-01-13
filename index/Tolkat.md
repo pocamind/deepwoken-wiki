@@ -1,6 +1,6 @@
 ---
 title: Tolkat
-revid: 189266
+revid: 191671
 source: https://deepwoken.fandom.com/wiki/Tolkat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
@@ -38,7 +38,7 @@ Tolkat is located at [Miner's Landing](<Miner's_Landing.md>), he is found near t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Whew! D'ya mind? Boss man says I gotta push this boulder up the hill. Only, it keeps rollin' down... So I gotta keep pushin' it or my career prospects are toast!<br>
@@ -99,7 +99,7 @@ Tolkat is located at [Miner's Landing](<Miner's_Landing.md>), he is found near t
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">...Have you considered getting into boulder pushing? I think you might be a natural!</td>

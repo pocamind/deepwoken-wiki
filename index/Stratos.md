@@ -1,18 +1,23 @@
 ---
 title: Stratos
-revid: 191200
+revid: 191644
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
+categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
 ---
 
 # Stratos
 
+| Stratos | |
+|---|---|
+| name | Stratos |
+| aspect | Etrean |
+| location | Temple of the Blade |
+| affiliation | Etrea |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -39,7 +44,7 @@ Food Delivery quest
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6"><i>*The wind that once held you back now urges you forward.*</i> Ah, a delivery for the temple?</td>
@@ -51,7 +56,7 @@ Food Delivery quest
   <td colspan="6">Ah, thank you, here is something for your troubles.</td>
 </tr>
 <tr>
-  <td colspan="6">End, player gains 25 and Etrea Reputation</td>
+  <td colspan="6">[End Dialogue], player gains 25 and Etrea Reputation</td>
 </tr>
 </tbody>
 </table>
@@ -61,7 +66,7 @@ Food Delivery quest
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6"><i>*The wind that once held you back now urges you forward.*</i> Ah, a delivery for the temple?</td>
@@ -85,7 +90,7 @@ Food Delivery quest
   <td colspan="6">Uh? No, I don't believe so. @#$%&amp; was the name their mother gave me. Extraordinary cook she was. And a keen blade too. <i>*Okay, no luck. This guy clearly doesn't know his name either.*</i></td>
 </tr>
 <tr>
-  <td colspan="6">End (Given 25 Notes)</td>
+  <td colspan="6">[End Dialogue] (Given 25 Notes)</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Cirrus
-revid: 191198
+revid: 191369
 source: https://deepwoken.fandom.com/wiki/Cirrus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -37,13 +37,13 @@ Cirrus can be found meditating in front of a fountain at the [Temple of the Blad
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*As you approach the elderly meditating man, torrential gusts of winds buffet you, like crossed blades barring you from stepping any further.*</i> You've come at a time of great danger, [First Name]. Be discreet in this place. The Maestro has been waiting for you. Seek him in the sanctum. <i>*A slight chill runs down your spine. How does he know your name?..*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

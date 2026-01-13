@@ -1,6 +1,6 @@
 ---
 title: Drefa
-revid: 189652
+revid: 191406
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -37,7 +37,7 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td>
@@ -57,8 +57,8 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
   <td colspan="6">Uh huh. That so? What's the problem? Axe too dull?</td>
 </tr>
 <tr>
-  <td colspan="3">End, Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue], Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td>
+  <td colspan="3">[End Dialogue]</td>
   <td colspan="6">I splinter the tree and have no usable lumber behind when I punch it down.</td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +93,7 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Looking for some work? I need someone to gather some wood for me.</td>
@@ -105,7 +105,7 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
   <td colspan="12">Go cut some trees and bring the wood back here. We need that wood to keep the fires burning in the winter, so you'd be doing us a big favour.</td>
 </tr>
 <tr>
-  <td colspan="12">End, Lumber Axe Obtained</td>
+  <td colspan="12">[End Dialogue], Lumber Axe Obtained</td>
 </tr>
 </tbody>
 </table>
@@ -115,7 +115,7 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">[Player has not started, or has already finished the Treefelling Blow quest]</td>
@@ -129,8 +129,8 @@ Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing besi
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="4">End, player obtains the <a href="Talents.md#treefelling-blow">Treefelling Blow</a> Talent.</td>
-  <td colspan="4">End, quest unfinished</td>
+  <td colspan="4">[End Dialogue], player obtains the <a href="Talents.md#treefelling-blow">Treefelling Blow</a> Talent.</td>
+  <td colspan="4">[End Dialogue], quest unfinished</td>
 </tr>
 </tbody>
 </table>
@@ -142,13 +142,13 @@ If the player has below neutral [Etris](Etris.md) reputation, Drefa will say thi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Get lost.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

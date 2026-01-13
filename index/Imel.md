@@ -1,6 +1,6 @@
 ---
 title: Imel
-revid: 191115
+revid: 191474
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -36,7 +36,7 @@ Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with fo
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>You, you! Little killer! Looking for some fun?</td>
@@ -54,7 +54,7 @@ Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with fo
   <td>Oh, great, great! You're going to kill someone. Specifically, any poor sap you find on Erisia. Sound good? Do the job, and return to me. They'll have to be as smart as yourself, you know!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -66,7 +66,7 @@ Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
@@ -78,7 +78,7 @@ Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with fo
   <td>AH! Have you forgotten your <b>TASK</b>? Kill a living being as smart as you anywhere on Erisia, and then come back to me.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@ Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with fo
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
@@ -100,7 +100,7 @@ Imel is located in [The Etrean Sea](The_Etrean_Sea.md) on a small island with fo
   <td>Look at you! Blood on your hands! <b>KILLER</b>, are you proud? Hah! Very well. A deal's a deal. Come back to me if you want to perform for me again.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

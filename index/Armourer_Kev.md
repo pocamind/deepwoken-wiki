@@ -1,18 +1,24 @@
 ---
 title: Armourer Kev
-revid: 191002
+revid: 191319
 source: https://deepwoken.fandom.com/wiki/Armourer_Kev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Armourer Kev
 
+| Armourer Kev | |
+|---|---|
+| name | Kev |
+| aspect | Adret |
+| pronouns | He/him |
+| location | Fort Merit |
+| affiliation | The Central Authority |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +37,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The moustached Adretian man glances at you indifferently over the counter.*</i> A rookie, huh? Welcome to the Fort Merit armoury. I'm Kev. This is where we keep our equipment. You break it - you compensate for it.</td>
@@ -67,7 +73,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The armourer smirks at you with mild indifference.*</i> Welcome to the armoury, [Rank]. Looking for anything particular today? Have a browse.</td>
@@ -89,7 +95,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The armourer gives you a carefree salute. You return the favour.*</i> Welcome back, [Rank]. All equipment tiers are accessible to you. Feel free to have a browse - we've got some fun new toys in there. Three cheers, eh? <i>*He chuckles.*</i></td>
@@ -105,7 +111,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The armourer gives you an untrusting look.*</i> Oi! No civilians allowed here! Don't make me call the guards now, eh?</td>
@@ -121,7 +127,7 @@ Armourer Kev is located inside the bottom level of the fortress at [Fort Merit](
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The armourer glares at you with disdain.*</i> Try breaking in all you want, chump, but all this equipment is off limits! Those are the finest steel bars on this side of <a href="Glossary.md#lumen">Lumen</a>. You'll die of old age before you break through.</td>

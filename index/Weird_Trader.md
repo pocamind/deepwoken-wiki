@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 168690
+revid: 191695
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
@@ -113,7 +113,7 @@ A random item from the following list:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hi. Give me [Item1], [Item2], [Item3]?</td>
@@ -133,8 +133,8 @@ A random item from the following list:
   <td colspan="6">Not gonna elaborate?</td>
 </tr>
 <tr>
-  <td colspan="3">End, you get the item</td>
-  <td colspan="3">End, you get flung into the atmosphere</td>
+  <td colspan="3">[End Dialogue], you get the item</td>
+  <td colspan="3">[End Dialogue], you get flung into the atmosphere</td>
   <td colspan="6">Hi. No. I need my stuff. You have Item1, Item2, Item3?</td>
 </tr>
 <tr>
@@ -153,13 +153,13 @@ A random item from the following list:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hi. Already have items. Bye.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

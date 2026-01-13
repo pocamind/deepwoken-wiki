@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 189439
+revid: 191633
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Mechanics, Individuals with unspecified pronouns]
@@ -42,7 +42,7 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Jericho really ought to post me somewhere else, there's no way I'm going on patrol in this heat... <b>OH, A LOCAL!</b></td>
@@ -64,18 +64,18 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
   <td colspan="3">That's the spirit! How's about you do me a little errand? That nasty temple a little ways from here is full of Threshers, mind bringing me back a piece of one?</td>
 </tr>
 <tr>
-  <td colspan="9">End</td>
+  <td colspan="9">[End Dialogue]</td>
   <td>Sure.</td>
   <td colspan="2">No.</td>
 </tr>
 <tr>
   <td colspan="9"></td>
   <td>Great! See you soon!</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="9"></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
 <table>
 <tbody>
 <tr>
-  <td colspan="15">Begin</td>
+  <td colspan="15">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="15">Oh local! You're back! Did you bring me that uhhhh... What was it again?</td>
@@ -138,7 +138,7 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
   Hmm... Given your accomplishments, it's hard to say just where you're lacking... Perhaps the Depths might prove fruitful to you?</td>
 </tr>
 <tr>
-  <td colspan="15">End</td>
+  <td colspan="15">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -148,7 +148,7 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh? What a symphony you bring to my ears! A resounding lead accompanied by a perfect chorus. You've mastered something I struggled with... Though, you're still missing the last piece.</td>
@@ -169,7 +169,7 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
   <td colspan="12">(you can now use soul beam.)</td>
 </tr>
 <tr>
-  <td colspan="9">End</td>
+  <td colspan="9">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

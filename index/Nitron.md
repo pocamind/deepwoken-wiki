@@ -1,22 +1,27 @@
 ---
 title: Nitron
-revid: 191192
+revid: 191573
 source: https://deepwoken.fandom.com/wiki/Nitron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Vendors, The Summer Company, Individuals with unspecified pronouns]
+categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Vendors, The Summer Company, Individuals with unspecified pronouns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Nitron
 
+| Nitron | |
+|---|---|
+| name | Nitron |
+| aspect | Vesperian |
+| location | Summer Isle |
+| affiliation | The Summer Company |
+
 Variants: [Mag](Mag.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -33,7 +38,7 @@ Nitron is located to the side of the [Summer Isle](Summer_Isle.md) castle, near 
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Looking to buy some casing? For some Notes and a little ore I can encase your ammunition.</td>
@@ -75,7 +80,7 @@ This dialogue can only appear if the player has not made at least 200 Bullet Cas
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Looking to buy some casing? For some Notes and a little ore I can encase your ammunition.</td>

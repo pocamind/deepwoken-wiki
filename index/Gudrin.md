@@ -1,6 +1,6 @@
 ---
 title: Gudrin
-revid: 191248
+revid: 191457
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Reputation]
@@ -38,7 +38,7 @@ Gudrin is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one!</td>
@@ -54,7 +54,7 @@ Gudrin is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Hoho, need something? You have quite the Sour expression.</td>
@@ -99,13 +99,13 @@ Gudrin is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Gods below, you've really fallen down quite the hole...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

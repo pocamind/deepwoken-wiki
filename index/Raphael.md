@@ -1,6 +1,6 @@
 ---
 title: Raphael
-revid: 186695
+revid: 191597
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Quests]
@@ -39,7 +39,7 @@ Raphael is located in [The City of the Drowned](The_City_of_the_Drowned.md) insi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You there! You bear a lifely complexion. Could you be recently departed?</td>
@@ -96,7 +96,7 @@ Raphael is located in [The City of the Drowned](The_City_of_the_Drowned.md) insi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I take it you haven't found Morning yet? I can wait. Waiting's all I do these days, after all.</td>

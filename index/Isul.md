@@ -1,14 +1,22 @@
 ---
 title: Isul
-revid: 191218
+revid: 191481
 source: https://deepwoken.fandom.com/wiki/Isul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Hive, Reputation]
+categories: [Ganymede NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Hive, Reputation]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Isul
+
+| Isul | |
+|---|---|
+| name | Ishul |
+| aspect | Ganymede |
+| pronouns | They/them |
+| location | The Lordsgrove |
+| affiliation | The Hive |
 
 Variants: [Zirik](Zirik.md)
 
@@ -19,8 +27,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 “ \*They seem to be sweating bullets as you approach.\* WOW! WHAT LOVELY PLANTS THESE ARE! ”
 
 ― Rashet
-
-Template:NpcInfobox
 
 ## Description
 
@@ -37,7 +43,7 @@ Ishul is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*They seem to be pretending to look very interested in some plants.*</i> Wow! What beautiful grasses these are. Gorgeous. Simply marvellous.</td>
@@ -53,7 +59,7 @@ Ishul is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*They nervously fidget as you approach.*</i> Gosh! Your name spreads quickly amongst the trees. It's a good name, too. A name that I could help.</td>
@@ -98,7 +104,7 @@ Ishul is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*They seem to be sweating bullets as you approach.*</i> WOW! WHAT LOVELY PLANTS THESE ARE!</td>

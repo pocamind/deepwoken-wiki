@@ -1,6 +1,6 @@
 ---
 title: Moonseye Tome
-revid: 190470
+revid: 191558
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -33,13 +33,13 @@ _(one-time use, re-obtainable)_
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed.</td>
 </tr>
 <tr>
-  <td colspan="2">End, you receive 100 and the Tome is consumed</td>
+  <td colspan="2">[End Dialogue], you receive 100 and the Tome is consumed</td>
 </tr>
 </tbody>
 </table>
@@ -49,13 +49,13 @@ _(one-time use, re-obtainable)_
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">The Voices reach out to you more gently now, offering their sympathies in a vast procession of guilt.</td>
 </tr>
 <tr>
-  <td colspan="2">End, you receive 50 and the Tome is consumed</td>
+  <td colspan="2">[End Dialogue], you receive 50 and the Tome is consumed</td>
 </tr>
 </tbody>
 </table>
@@ -67,13 +67,13 @@ Using the Tome at max Knowledge (999) displays this message.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Your mind is too full to take in the knowledge within.</td>
 </tr>
 <tr>
-  <td colspan="2">End, nothing happens</td>
+  <td colspan="2">[End Dialogue], nothing happens</td>
 </tr>
 </tbody>
 </table>

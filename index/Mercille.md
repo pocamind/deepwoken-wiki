@@ -1,18 +1,23 @@
 ---
 title: Mercille
-revid: 190854
+revid: 191545
 source: https://deepwoken.fandom.com/wiki/Mercille
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
 ---
 
 # Mercille
 
+| Mercille | |
+|---|---|
+| name | Mercille |
+| aspect | Vesperian |
+| location | Bluster Rift |
+| affiliation | The Summer Company |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +36,7 @@ Mercille is located in [Bluster Rift](Bluster_Rift.md), standing infrot of a sma
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>All sorts of rare material show up here... If you see any leftover bags of shinies, let me see them!</td>
@@ -53,7 +58,7 @@ Mercille is located in [Bluster Rift](Bluster_Rift.md), standing infrot of a sma
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Thanks for the help! If you find any more bags of shinies, let me check them out!</td>

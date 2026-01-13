@@ -1,6 +1,6 @@
 ---
 title: Yesterwynde Tavern
-revid: 186342
+revid: 191701
 source: https://deepwoken.fandom.com/wiki/Yesterwynde_Tavern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles", Event Only Content, Locations, Events]
@@ -57,7 +57,7 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i><b>If you haven't beaten The Ferryman</b></i><br>
@@ -82,7 +82,7 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
 </tr>
 <tr>
   <td colspan="6">Hah, a fitting errand! Ridicule aside, it <i>would</i> actually be of some help. I've got an old set of instruments I've been meaning to get rid of for you if you do.</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">Where can I find the records?</td>
@@ -91,7 +91,7 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
   <td colspan="6">One lurks over the machinery threaded through the caldera of a volcano, another lies within a nestled spot of nature within a frozen waste, and the final record can be found in a land lost to time, yet familiar all the same.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -101,7 +101,7 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i><b>If none collected</b></i><br>
@@ -124,10 +124,10 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
   <td colspan="3">Of course, I have just the drink for you!<br>
   (Gives Redd Juice)</td>
   <td colspan="3">Hah! Finish what you have already.</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -137,14 +137,14 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i><b>Unlocked: Gilded Instruments</b></i><br>
   My, my! What a helper you are. It would be remiss for me to not give you the reward promised, so here you are...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -152,7 +152,7 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, welcome back! Care for a drink on the house?</td>
@@ -170,7 +170,7 @@ Which can be deducted as the [Saramaed Summit](Saramaed_Summit.md)[\[1\]](#cite-
   <td colspan="6">Hah! Finish what you have already.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

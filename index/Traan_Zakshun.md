@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 191244
+revid: 191673
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -45,7 +45,7 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Look what the tide dragged in. You here for gear, or just lost?</td>
@@ -73,7 +73,7 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Back again? Here to actually buy something, or just stare?</td>
@@ -95,7 +95,7 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">When accessing the Shop</td>
@@ -124,7 +124,7 @@ Traan Zakshun is located at [Lower Erisia](Lower_Erisia.md), inside of a cave ne
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">When accessing the Black market</td>

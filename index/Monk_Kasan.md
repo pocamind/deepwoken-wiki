@@ -1,6 +1,6 @@
 ---
 title: Monk Kasan
-revid: 190774
+revid: 191556
 source: https://deepwoken.fandom.com/wiki/Monk_Kasan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Circle of Honour members]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The monk does not bother gracing you with even a glance in your direction. His eyes, with their grim and wearied expression, seem dead-set on the group of Etrean nobles before him... If looks could kill, you reckon they'd all be dead.*</i></td>

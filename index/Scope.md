@@ -1,18 +1,23 @@
 ---
 title: Scope
-revid: 191240
+revid: 191618
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
 ---
 
 # Scope
 
+| Scope | |
+|---|---|
+| name | Scope |
+| aspect | Vesperian |
+| location | Summer Isle |
+| affiliation | The Summer Company |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +36,7 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Between the Ignition Union and the Bandits, we won't have any explosive ordinance left...</td>
@@ -59,7 +64,7 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Aye, thanks for the help. The <a href="Glossary.md#the-central-authority">Authority</a> better start sending some help before we start declining their firearm contracts.</td>

@@ -1,6 +1,6 @@
 ---
 title: Apprentice Kj
-revid: 188074
+revid: 191316
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -58,7 +58,7 @@ Apprentice Kj is located inside the [Temple of the Blade](Temple_of_the_Blade.md
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Stranger... <i>*He sniffs and wipes his eyes with his sleeve.*</i> Please don't tell Maestro Rest about this. It would be a great dishonor.</td>
@@ -76,7 +76,7 @@ Apprentice Kj is located inside the [Temple of the Blade](Temple_of_the_Blade.md
   <td colspan="12">Thank you stranger, this is a great kindness.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -86,7 +86,7 @@ Apprentice Kj is located inside the [Temple of the Blade](Temple_of_the_Blade.md
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Player has not rescued Vigil Isaac</td>
@@ -97,8 +97,8 @@ Apprentice Kj is located inside the [Temple of the Blade](Temple_of_the_Blade.md
   <td colspan="6">Thank you so much for saving my brother... I'm afraid I have little offer other than an audience with Maestro Rest. Please go speak with him.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-  <td colspan="6">End, player receives Compassion Talent hand and audience with Evengarde Rest</td>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue], player receives Compassion Talent hand and audience with Evengarde Rest</td>
 </tr>
 </tbody>
 </table>
@@ -108,13 +108,13 @@ Apprentice Kj is located inside the [Temple of the Blade](Temple_of_the_Blade.md
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Thank you for saving my brother... I don't think I could've continued without him. Thanks to you stranger, I'm gonna continue pursuing my dreams! To be the world's greatest wind scholar!</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

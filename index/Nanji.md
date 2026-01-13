@@ -1,12 +1,19 @@
 ---
 title: Nanji
-revid: 191232
+revid: 191565
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
+categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
 ---
 
 # Nanji
+
+| Nanji | |
+|---|---|
+| name | Nanji |
+| aspect | Etrean |
+| location | Etris |
+| family | Ilji (younger brother) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -15,8 +22,6 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 “ Uh... Yeah, no. ”
 
 ― Nanji
-
-Template:NpcInfobox
 
 ## Description
 
@@ -129,13 +134,13 @@ Nanji is located at the bridge heading towards the [Barber](Barber.md) and [Neri
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Thank you for at least bringing me some confirmation...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

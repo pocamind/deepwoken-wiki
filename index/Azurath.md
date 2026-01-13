@@ -1,20 +1,25 @@
 ---
 title: Azurath
-revid: 191012
+revid: 191332
 source: https://deepwoken.fandom.com/wiki/Azurath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Heliodar NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Azurath
 
+| Azurath | |
+|---|---|
+| name | Azurath |
+| aspect | Heliodar |
+| pronouns | They/them |
+| location | The Cerebral Spire |
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -25,7 +30,7 @@ Azurath is a [Heliodar](Heliodar.md) NPC. They are the [Chest Master](Chest_Mast
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, hello! <i>*They squint at you with eyes that burn like the <a href="Glossary.md#the-suncross">Suncross</a>.*</i> Any memories worth pawning off?<br>

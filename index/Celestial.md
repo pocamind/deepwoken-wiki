@@ -1,6 +1,6 @@
 ---
 title: Celestial
-revid: 187615
+revid: 191356
 source: https://deepwoken.fandom.com/wiki/Celestial
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sapient species]
@@ -30,13 +30,13 @@ This dialogue is from the Celestial located in the [Derelict Highchurch](Derelic
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The tortured <a href="Glossary.md#the-celestials">Celestial</a> remains nearly still, with only its breathing visible. It doesn't respond to any words or touch, but simply resides within its cocoon, in a permanently unconscious, tragic state.</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

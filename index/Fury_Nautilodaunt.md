@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 184744
+revid: 191443
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -8,9 +8,14 @@ categories: [Monsters, The Depths]
 
 # Fury Nautilodaunt
 
-Variants: [Nautilodaunt](Nautilodaunt.md)
+| Fury Nautilodaunt | |
+|---|---|
+| health | 1800, 4500 (Corrupted) |
+| attacks | Punch, Kick, Flip-Kick, Drop-Kick, Electro Stomp, Feint, Vent |
+| drops | Odd Tentacle, Pathfinder Elite (Very Rare), Stormseye, Nautilodaunt Beak, Justicar's Armor, Cala-Mariner, Martial Artist, Black Diver |
+| locations | The City of the Drowned, The Vat |
 
-Template:Creature Infobox V3
+Variants: [Nautilodaunt](Nautilodaunt.md)
 
 ## Description
 

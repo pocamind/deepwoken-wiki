@@ -1,6 +1,6 @@
 ---
 title: Das
-revid: 188124
+revid: 191378
 source: https://deepwoken.fandom.com/wiki/Das
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -34,7 +34,7 @@ Das is located in [Isle of Vigils](Isle_of_Vigils.md) inside the [Temple of the 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, new blood? Come to try your hand against your betters?</td>
@@ -49,7 +49,7 @@ Das is located in [Isle of Vigils](Isle_of_Vigils.md) inside the [Temple of the 
   <td>I want to spar with an instructor.</td>
 </tr>
 <tr>
-  <td>End, teleports you to the Temple Sparring Hall</td>
+  <td>[End Dialogue], teleports you to the Temple Sparring Hall</td>
 </tr>
 </tbody>
 </table>

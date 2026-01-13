@@ -1,6 +1,6 @@
 ---
 title: Antiques Smuggler
-revid: 187525
+revid: 191315
 source: https://deepwoken.fandom.com/wiki/Antiques_Smuggler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Etrean Luminant]
@@ -33,7 +33,7 @@ The Antique Smuggler is located at [Path's Respite](<Path's_Respite.md>) in [Low
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="16">Many blessin's to yous my friend, if you've got trinkets 'n the like weighin' yer pack down, I'm sure we can come to an agreement.</td>
@@ -69,7 +69,7 @@ The Antique Smuggler is located at [Path's Respite](<Path's_Respite.md>) in [Low
   <td colspan="2">[See first instance.]</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
   <td>[See first instance.]</td>
   <td>[See first instance.]</td>
 </tr>

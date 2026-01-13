@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 188357
+revid: 191599
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members]
@@ -56,7 +56,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Well met, Inheritor. Is there something I can assist with?<br>
@@ -86,7 +86,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -116,7 +116,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -146,7 +146,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -176,7 +176,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -206,7 +206,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -236,7 +236,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -268,7 +268,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -293,7 +293,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -318,7 +318,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -342,7 +342,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Well met, Inheritor. Is there something I can assist with?<br>
@@ -372,7 +372,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>[Player purchases Power Recall]</td>
@@ -396,7 +396,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Inheritor... Your connection to this memory has drifted much too far; too far for me to steer back on course.<br>
@@ -428,7 +428,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I take it you are ready to leave? This story may be lost, but the memories aren't. We <i>must</i> try again.<br>
@@ -452,7 +452,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>The Reclaimer eyes you with surprise.*</i> Inheritor. We can go no further. There are no memories of what just happened. I did not think it possible, but through your will and perseverance, you have vanquished the Calamity - you have <i>bested</i> Zi'eer.</td>
@@ -477,7 +477,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>The Reclaimer eyes you with surprise.*</i> Inheritor. We can go no further. There are no memories of what just happened. I did not think it possible, but through your will and perseverance, you have vanquished the Calamity - you have <i>bested</i> Zi'eer.</td>
@@ -504,7 +504,7 @@ Recollection
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>The Reclaimer nods solemnly.*</i> Unfortunately, Inheritor, that is the true conclusion of this memory. In the end, no member of the Circle was able to strike down Zi'eer. We already knew this... But we have been hoping there would be a secret to defeating him hidden within these memories.</td>

@@ -1,14 +1,19 @@
 ---
 title: Orion
-revid: 190928
+revid: 191578
 source: https://deepwoken.fandom.com/wiki/Orion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Individuals with unspecified pronouns]
+categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Individuals with unspecified pronouns]
 ---
 
 # Orion
 
-Template:NpcInfobox
+| Orion | |
+|---|---|
+| name | Orion |
+| aspect | Celtor |
+| location | Miner's Landing |
+| affiliation | The Ignition Union |
 
 ## Description
 
@@ -25,7 +30,7 @@ They will not tell you that you got the Origin if you are hive-kin or Khan, you 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, I don't believe we've spoken before, friend. I'm afraid I must ask of you a favour...</td>
@@ -53,7 +58,7 @@ They will not tell you that you got the Origin if you are hive-kin or Khan, you 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Welcome back, friend. How goes the conflict?</td>
@@ -81,7 +86,7 @@ They will not tell you that you got the Origin if you are hive-kin or Khan, you 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Welcome back, friend. Would you be interested in assisting us in our conflict once more?</td>

@@ -1,18 +1,24 @@
 ---
 title: Alpha
-revid: 188723
+revid: 191308
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
+categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
 ---
 
 # Alpha
 
+| Alpha | |
+|---|---|
+| name | Alpha |
+| aspect | Canor |
+| pronouns | He/him |
+| location | The Frontier Furnace |
+| affiliation | The Ignition Union |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +33,7 @@ He will also task you to rescue [Epsi](Epsi.md), a young [Gremor](Gremor.md) boy
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">So you're the one Epsi mentioned. Well, good work getting that generator online. We owe you one.</td>
@@ -73,7 +79,7 @@ These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Thank you... He came in moments ago. Once again, I owe you a favor, friend. Speak to Delta on the surface and tell him Alpha sent you.</td>
@@ -89,7 +95,7 @@ These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">First Encounter</td>

@@ -1,22 +1,28 @@
 ---
 title: Commander Morredh
-revid: 191202
+revid: 191370
 source: https://deepwoken.fandom.com/wiki/Commander_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
+categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Commander Morredh
 
+| Commander Morredh | |
+|---|---|
+| name | Morredh |
+| aspect | Canor |
+| pronouns | He/him |
+| location | Fort Merit |
+| affiliation | The Central Authority |
+
 Variants: [Vice Warden Morredh](Vice_Warden_Morredh.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +37,7 @@ Commander Morredh is located in the dining room near the entrance of the [Fort M
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The Canor officer that stands before you appears disgrunteld with something.*</i> Another civilian? <i>Bah</i>. I bet you're here to see the Warden, like the rest of them. Well, he's <b>not in the dungeon</b>. Get out of my sight.</td>

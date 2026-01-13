@@ -1,6 +1,6 @@
 ---
 title: Merryweather
-revid: 188845
+revid: 191547
 source: https://deepwoken.fandom.com/wiki/Merryweather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -34,7 +34,7 @@ Merryweather is located at [The Chariot's Spire](<The_Chariot's_Spire.md>) stand
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The researcher is exaggeratedly gesturing at her work, clutching the bridge of her nose.*</i> Come on, you blasted things... I don't know what you all want anymore! I've changed your temperature, your food, for <a href="Glossary.md#lumen">Lumen's</a> sake, I've tried a bit of kelp interior decoration! Do you want sandy silt or silty sand, or some secret third thing?? it's been near six hours now, you've had more than enough time!! Why aren't you doing what you're meant to be doing!?</td>
@@ -46,7 +46,7 @@ Merryweather is located at [The Chariot's Spire](<The_Chariot's_Spire.md>) stand
   <td><i>*Upon noticing your intrusion, she swiftly purses her lips. It appears she's now deeply focused on pain-stakingly sorting grains of sand.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -56,7 +56,7 @@ Merryweather is located at [The Chariot's Spire](<The_Chariot's_Spire.md>) stand
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The researcher is exaggeratedly gesturing at her work, clutching the bridge of her nose.*</i> Come on, you blasted things... I don't know what you all want anymore! I've changed your temperature, your food, for <a href="Glossary.md#lumen">Lumen's</a> sake, I've tried a bit of kelp interior decoration! Do you want sandy silt or silty sand, or some secret third thing?? it's been near six hours now, you've had more than enough time!! Why aren't you doing what you're meant to be doing!?</td>
@@ -92,7 +92,7 @@ Merryweather is located at [The Chariot's Spire](<The_Chariot's_Spire.md>) stand
   <td>Lonely, lonely?!?! They're worms, for <a href="Glossary.md#lumen">Lumen's</a> sake. They're just unaccustomed to their new tube-home, I'm sure of it. They'll certainly figure themselves out soon.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

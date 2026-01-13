@@ -1,6 +1,6 @@
 ---
 title: Saffron
-revid: 177693
+revid: 191610
 source: https://deepwoken.fandom.com/wiki/Saffron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs]
@@ -30,13 +30,13 @@ Saffron is located in [Meteor Isle](Meteor_Isle.md). Facing the [Mystic](Mystic.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Those eyes... You wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -46,13 +46,13 @@ Saffron is located in [Meteor Isle](Meteor_Isle.md). Facing the [Mystic](Mystic.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

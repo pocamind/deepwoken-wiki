@@ -1,6 +1,6 @@
 ---
 title: Andrea
-revid: 188060
+revid: 191313
 source: https://deepwoken.fandom.com/wiki/Andrea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, NPCs, NPCs located in the First Layer]
@@ -32,7 +32,7 @@ Andrea is located inside [Cathedral of the Interstice](Cathedral_of_the_Intersti
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">*<i>The young woman is muttering to herself as you approach, and then looks up at you with distant eyes.</i>* Oh... I didn't see you there.</td>

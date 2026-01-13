@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 181024
+revid: 191339
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -112,7 +112,7 @@ Smithy's Tools
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh? Did you need something?</td>
@@ -128,15 +128,15 @@ Smithy's Tools
   <td colspan="2">Pure Astruline / Erisore / Gold / Irithine / Umbrite</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
   <td colspan="2"><i>*He eyes you questioningly.*</i> Well, are you gonna show me something?</td>
   <td colspan="2">Doesn't look all that valuable to me.</td>
   <td colspan="2"><i>*His eyes widen briefly in awe.*</i> I can definitely use that. I don't have a lot of notes on hand so hopefully this chest will suffice.</td>
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="4">End</td>
-  <td colspan="2">End, player obtain EXP and a small chest</td>
+  <td colspan="4">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue], player obtain EXP and a small chest</td>
 </tr>
 </tbody>
 </table>
@@ -150,7 +150,7 @@ This dialogue is unlocked if the player has been sent to execution by an NPC aff
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Good Reputation with Faction</td>
@@ -164,7 +164,7 @@ This dialogue is unlocked if the player has been sent to execution by an NPC aff
 <tr>
   <td>Can you work on something for me? [Armor]</td>
   <td>Can you take a look at this stone? [Ores]</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">[See first instance]</td>
@@ -179,7 +179,7 @@ This dialogue is unlocked if the player has any [Seasonal Medals](Seasonal_Medal
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Oh? Did you need something?</td>
@@ -216,8 +216,8 @@ This dialogue is unlocked if the player has any [Seasonal Medals](Seasonal_Medal
   <td colspan="3">Ah. No, the memory's not quite there yet.</td>
 </tr>
 <tr>
-  <td colspan="3">End, player obtains seasonal item</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue], player obtains seasonal item</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

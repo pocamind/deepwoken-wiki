@@ -1,6 +1,6 @@
 ---
 title: Hippocampal Pool
-revid: 190235
+revid: 191467
 source: https://deepwoken.fandom.com/wiki/Hippocampal_Pool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Death]
@@ -8,7 +8,9 @@ categories: [Mechanics, Death]
 
 # Hippocampal Pool
 
-Template:NpcInfobox
+| Hippocampal Pool | |
+|---|---|
+| location | Fragments of Self |
 
 ## Description
 

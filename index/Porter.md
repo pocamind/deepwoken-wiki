@@ -1,20 +1,25 @@
 ---
 title: Porter
-revid: 191171
+revid: 191589
 source: https://deepwoken.fandom.com/wiki/Porter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
+categories: [Khan NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Porter
+
+| Porter | |
+|---|---|
+| name | Porter |
+| aspect | Khan |
+| location | Summer Isle |
+| affiliation | The Summer Company |
 
 Variants: [Dockson](Dockson.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +36,7 @@ Porter is located inside of the [Summer Isle](Summer_Isle.md) castle, standing b
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">What brings you to Summer, [Aspect]?</td>
@@ -77,7 +82,7 @@ Porter is located inside of the [Summer Isle](Summer_Isle.md) castle, standing b
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah you're back. Need something?</td>

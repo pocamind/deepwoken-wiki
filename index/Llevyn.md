@@ -1,12 +1,20 @@
 ---
 title: Llevyn
-revid: 188910
+revid: 191522
 source: https://deepwoken.fandom.com/wiki/Llevyn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
+categories: [Adret NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Ignition Union]
 ---
 
 # Llevyn
+
+| Llevyn | |
+|---|---|
+| name | Llevyn |
+| aspect | Adret |
+| pronouns | They/them |
+| location | The Frontier Furnace |
+| affiliation | The Ignition Union |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ Alsin above... Don't just stand there and take my blessing for granted! Hurry to that Deepdriller. ”
 
 ― Llevyn
-
-Template:NpcInfobox
 
 ## Description
 
@@ -37,7 +43,7 @@ This is when you talk to him for the first time, located at the [The Frontier Fu
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hm... I believe that should do it.</td>
@@ -61,7 +67,7 @@ This is when you talk to him for the first time, located at the [The Frontier Fu
   <td colspan="12">If my calculations are correct... It should be arriving at the end of the Nest Corridor, past the Firfire Caverns. Sorry about that. They aren't particularly accurate. Again, <i>you really won't be able to keep anything you found here if you take the driller.</i> I'm serious.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -69,13 +75,13 @@ This is when you talk to him for the first time, located at the [The Frontier Fu
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Alsin above... Don't just stand there and take my blessing for granted! Hurry to that Deepdriller. You'll find it at the end of the Nest Corridor beyond Firfire Caverns.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -87,7 +93,7 @@ This is when you talk to him after having talked to him already, located at the 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You got that generator again... You're a real lifesaver, you know that?</td>
@@ -105,7 +111,7 @@ This is when you talk to him after having talked to him already, located at the 
   <td colspan="12">If my calculations are correct... It should be arriving at the end of the Nest Corridor, past the Firfire Caverns. Sorry about that. They aren't particularly accurate. Again, <i>you really won't be able to keep anything you found here if you take the driller.</i> I'm serious.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -113,13 +119,13 @@ This is when you talk to him after having talked to him already, located at the 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Alsin above... Don't just stand there and take my blessing for granted! Hurry to that Deepdriller. You'll find it at the end of the Nest Corridor beyond Firfire Caverns.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -135,7 +141,7 @@ Before Defeating the [Bone Keeper](Bone_Keeper.md). Coming back to see if he has
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">*<i>You hear the hum of radio feedback.</i>*</td>
@@ -159,7 +165,7 @@ Before Defeating the [Bone Keeper](Bone_Keeper.md). Coming back to see if he has
   <td colspan="12">The line could -- -- -- minute! The door is built -- -- tower, with the rickety bridge -- near the one that you're in! The generator -- *<i>The line suddenly terminates, leaving nothing but the eerie silence.</i>*</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -171,13 +177,13 @@ After Defeating the [Bone Keeper](Bone_Keeper.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah! Are you the one who switched the generator back on? You're a life-saver! Swing by the base, boss says he wants to thank you.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -189,7 +195,7 @@ This is an Easter Egg that happens when you glitch inside to enter [The Frontier
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hm... I believe that should do it.</td>
@@ -207,7 +213,7 @@ This is an Easter Egg that happens when you glitch inside to enter [The Frontier
   <td colspan="12">Oh me? Yeah I do. However, it happens to be a <i>useless piece of junk</i> without any power. You see a generator around here? It's on top of one of the towers- wait, how did you even get in here? Huh? I know what you are.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

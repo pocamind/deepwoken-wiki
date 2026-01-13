@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Sniper
-revid: 185054
+revid: 191511
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Floor 2, Layer 2, Monsters]
@@ -8,7 +8,15 @@ categories: [Floor 2, Layer 2, Monsters]
 
 # Kyrsgarde Sniper
 
-_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._ Template:Creature Infobox V3
+| Kyrsgarde Sniper | |
+|---|---|
+| health | 2000 (Default), 900 (If summoned by Scion of Ethiron), 5000 (Corrupted) |
+| attacks | Glacial Javelin, Skyward Spear |
+| drops | Frozen Membrane, Kyrsan Schematic |
+| locations | New Kyrsa, The Sleeping City |
+| challenges | -- Kyrsgarde --, Guardians of Kyrsa - Slay 10.Reward: +5% DMG; +2.5% RES, Mortal Coil - Slay 25.Reward: +5% DMG; +2.5% RES, Eternal Rest - Slay 100.Reward: +5% DMG; +2.5% RES |
+
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._
 
 ## **Description**
 

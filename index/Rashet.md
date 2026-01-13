@@ -1,12 +1,19 @@
 ---
 title: Rashet
-revid: 191231
+revid: 191598
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
 ---
 
 # Rashet
+
+| Rashet | |
+|---|---|
+| name | Rashet |
+| aspect | Adret |
+| location | Merit's Reach |
+| affiliation | The Central Authority |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -15,8 +22,6 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 “ Woah, hey. Don't linger around me for too long. You're gonna make 'em suspicious. ”
 
 ― Rashet
-
-Template:NpcInfobox
 
 ## Description
 
@@ -33,7 +38,7 @@ Rashet is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a larg
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Lovely day isn't it? Let me know if your day isn't going so great due to outside forces. I can help.</td>
@@ -49,7 +54,7 @@ Rashet is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a larg
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Lookin' over your shoulder, eh? Perhaps I can be of some help to you.</td>
@@ -94,7 +99,7 @@ Rashet is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a larg
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Woah, hey. Don't linger around me for too long. You're gonna make 'em suspicious.</td>

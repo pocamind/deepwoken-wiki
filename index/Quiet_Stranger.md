@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 176723
+revid: 191594
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
@@ -31,7 +31,7 @@ Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Mur
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">...It seems I have been spotted by a local.</td>
@@ -46,14 +46,14 @@ Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Mur
   <td colspan="3">[Charisma Check Failed]</td>
 </tr>
 <tr>
-  <td colspan="6">End, he attacks you</td>
+  <td colspan="6">[End Dialogue], he attacks you</td>
   <td colspan="3">Well, that would be <a href="Murmur%253A_Tacet.md">Tacet</a>.</td>
   <td colspan="3">Inquisitive aren't we? Snooping around for the <a href="Glossary.md#the-central-authority">Authority</a>?</td>
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="3">End, Player obtains <a href="Murmur%253A_Tacet.md"><font>Tacet</font></a></td>
-  <td colspan="3">End, he attacks you</td>
+  <td colspan="3">[End Dialogue], Player obtains <a href="Murmur%253A_Tacet.md"><font>Tacet</font></a></td>
+  <td colspan="3">[End Dialogue], he attacks you</td>
 </tr>
 </tbody>
 </table>

@@ -1,18 +1,23 @@
 ---
 title: Jarvis
-revid: 189644
+revid: 191484
 source: https://deepwoken.fandom.com/wiki/Jarvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Jarvis
 
+| Jarvis | |
+|---|---|
+| name | Jarvis |
+| aspect | Etrean |
+| location | Summer Isle |
+| affiliation | The Summer Company |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -32,7 +37,7 @@ Their main use is to [Smelt](Transmogrification.md) two pieces of equipment; the
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Sup lad, wanna smelt some gear?</td>
@@ -73,7 +78,7 @@ Their main use is to [Smelt](Transmogrification.md) two pieces of equipment; the
   <td colspan="4">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="2">End, player obtains merged equipment</td>
+  <td colspan="2">[End Dialogue], player obtains merged equipment</td>
   <td colspan="2">[See <font>"Here's the item I want to keep the appearance of."</font>]</td>
 </tr>
 </tbody>
@@ -86,7 +91,7 @@ This dialogue only appears if the player has ended the dialogue while Jarvis sti
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">I've still got your attribute item on hand. Now, give me the item you want to keep the appearance of.</td>
@@ -100,7 +105,7 @@ This dialogue only appears if the player has ended the dialogue while Jarvis sti
   <td>[See first instance]</td>
 </tr>
 <tr>
-  <td>End, player receives equipment back</td>
+  <td>[End Dialogue], player receives equipment back</td>
 </tr>
 </tbody>
 </table>
@@ -112,7 +117,7 @@ This dialogue only appears if the player has a [Magenta Pathfinder Elite](Pathfi
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Sup lad, wanna smelt some gear?</td>
@@ -130,7 +135,7 @@ This dialogue only appears if the player has a [Magenta Pathfinder Elite](Pathfi
   <td>Hm?! What is zis?!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

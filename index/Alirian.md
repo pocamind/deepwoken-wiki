@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 188430
+revid: 191307
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -41,7 +41,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You! Hey, you! Little tricky one, I can tell... are you quick on your feet, by any chance?</td>
@@ -72,9 +72,9 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
   <td colspan="2">Youuu... ugh! Thats it. You're my rival now. Till death. We are bound to race together until there's no world left to race on. I've <i>had it</i> with you, rival!</td>
 </tr>
 <tr>
-  <td colspan="2">End, she starts running</td>
+  <td colspan="2">[End Dialogue], she starts running</td>
   <td colspan="2"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You're... Pretty good.</td>
@@ -114,7 +114,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
   <td colspan="12">Aha! Curious little rival thinks they can keep up with me? Well, well, it's simple! Find more beacons such as the one we raced for out in the world,<p>and then come back to me each time! I'll show you all their tricks, teehee..</p></td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -124,13 +124,13 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Heh! Better luck next time, rival! I'll be heading back in a few, just need to..huff..catch my breath.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -140,7 +140,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">My despicable rival... it's a <i>DISPLEASURE</i> to see you again! In a friendly way though. Teehee.</td>
@@ -159,7 +159,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
   <td colspan="3">Rival! You've done it! That's.. everything! I suppose I can.. begrudgingly congratulate you! No more easy race wins for me, I suppose! Well done.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -169,7 +169,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Requirements unmet for Jetstriker</td>
@@ -188,7 +188,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
   <td colspan="2">Oh you're back? You kinda hurt my feelings when you broke off our rivalry like that.</td>
 </tr>
 <tr>
-  <td colspan="10">End</td>
+  <td colspan="10">[End Dialogue]</td>
   <td colspan="2">Please forgive me.</td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 </tr>
 <tr>
   <td colspan="10"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

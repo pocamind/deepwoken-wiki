@@ -1,20 +1,26 @@
 ---
 title: Captain Trist
-revid: 190973
+revid: 191349
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Adret NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Captain Trist
 
+| Captain Trist | |
+|---|---|
+| name | Trist |
+| aspect | Adret |
+| pronouns | He/him[1] |
+| location | Fort Merit |
+| affiliation | The Central Authority |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -46,7 +52,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">[Rank] [Last Name], are you prepared for a solo operation?</td>
@@ -71,7 +77,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You have your orders, [Rank], report back to base when your mission is complete.</td>
@@ -87,7 +93,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Good work, [Rank]. Go get some rest, then report back here.</td>
@@ -105,7 +111,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, so the deserter finally shows their face. Soldiers - seize them.</td>
@@ -121,7 +127,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
@@ -137,7 +143,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I only hand out orders to <a href="Glossary.md#the-central-authority">Authority</a> soldiers, civilian.</td>
@@ -153,7 +159,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
@@ -163,3 +169,8 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)  
+    _As a MEMBER of the AUTHORITY, your main task will be to **COMPLETE MISSIONS** assigned to you by **CAPTAIN TRIST**! He will be your _MAIN_ point of contact for all of your **ASSIGNMENTS**, and you will learn to LOVE and RESPECT him!_

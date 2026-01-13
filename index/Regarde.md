@@ -1,6 +1,6 @@
 ---
 title: Regarde
-revid: 188860
+revid: 191600
 source: https://deepwoken.fandom.com/wiki/Regarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -31,7 +31,7 @@ He is located in [Greathive Aratel](Greathive_Aratel.md) in the Heart Plaza, sta
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Feh. Y'look like a fighter. By my eye, I reckon. Fancy a spar?</td>
@@ -40,7 +40,7 @@ He is located in [Greathive Aratel](Greathive_Aratel.md) in the Heart Plaza, sta
   <td>Let's spar.</td>
 </tr>
 <tr>
-  <td>End, teleports you to the Temple Sparring Hall</td>
+  <td>[End Dialogue], teleports you to the Temple Sparring Hall</td>
 </tr>
 </tbody>
 </table>

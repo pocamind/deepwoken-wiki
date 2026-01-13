@@ -1,12 +1,20 @@
 ---
 title: Suyuan
-revid: 191019
+revid: 191650
 source: https://deepwoken.fandom.com/wiki/Suyuan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Suyuan
+
+| Suyuan | |
+|---|---|
+| name | Suyuan |
+| aspect | Etrean |
+| location | Temple of the Blade library |
+| affiliation | Etrea |
+| family | Kiriban (father; deceased) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ Hey you! Have you seen a ghost? ”
 
 ― Suyuan
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +41,7 @@ Suyuan is located in the library of the [Temple of the Blade](Temple_of_the_Blad
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Hey, you! Ever seen a ghost? Or perhaps.. a ghost ship?</td>
@@ -78,7 +84,7 @@ Suyuan is located in the library of the [Temple of the Blade](Temple_of_the_Blad
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Have you found a ghost ship yet? Or perhaps.. a ghost ship?</td>
@@ -117,7 +123,7 @@ Suyuan is located in the library of the [Temple of the Blade](Temple_of_the_Blad
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>What you told me about the ghosts sure was scary...</td>

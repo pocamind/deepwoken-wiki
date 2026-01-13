@@ -1,6 +1,6 @@
 ---
 title: Petris (Vow of Iron)
-revid: 190483
+revid: 191584
 source: https://deepwoken.fandom.com/wiki/Petris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs]
@@ -36,7 +36,7 @@ Petris is located at the front of [Boatman's Watch](<Boatman's_Watch.md>).
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The Etrean adventurer seems distracted.*</i> Heheheh... The flames will call the Ferryman [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>]</td>
@@ -62,7 +62,7 @@ Petris is located at the front of [Boatman's Watch](<Boatman's_Watch.md>).
   <td>WIP</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

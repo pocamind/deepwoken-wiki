@@ -1,6 +1,6 @@
 ---
 title: Swordmaster Basher
-revid: 185951
+revid: 191651
 source: https://deepwoken.fandom.com/wiki/Swordmaster_Basher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Military personnel of The Central Authority]
@@ -34,7 +34,7 @@ Swordmaster Basher is located on the training grounds at [Fort Merit](Fort_Merit
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hey.. <i>*His eyes scan you, looking for something*</i> ..No, nevermind. Don't waste my time.</td>

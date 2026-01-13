@@ -1,6 +1,6 @@
 ---
 title: Kressa
-revid: 188838
+revid: 191506
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*The tall Khan woman is investigating some sort of document, sighing heavily with each flip.*</i> Shipment A-45: delayed. Shipment B-23: cancelled. Shipment B-24: lost cargo... gods, we can't catch a break.</td>
@@ -76,8 +76,8 @@ This content is not accessible outside of this gamemode.
   <td colspan="6">Simple. They get the job done consistently, no matter what flag or banner they're hired under. Most of us barely know anything about them besides their business practices. Eylis herself has only been seen on the most high stakes missions of theirs. It's my only guess at this point as to whom these sabotages may be performed by...</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

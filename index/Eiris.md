@@ -1,18 +1,24 @@
 ---
 title: Eiris
-revid: 190079
+revid: 191411
 source: https://deepwoken.fandom.com/wiki/Eiris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Random Encounters, The Knives of Eylis]
+categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Random Encounters, The Knives of Eylis]
 ---
 
 # Eiris
 
+| Eiris | |
+|---|---|
+| name | Eiris |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | The Knives of Eylis vs Kingdom of Etrea random event |
+| affiliation | The Knives of Eylis |
+
 “ We're... bound by Eylis, and her Void... It's too much. Too much. I've told you too much... ”
 
 ― Eiris
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +33,7 @@ The Pathfinder must speak to him in order to unlock the [Voidwalker](Voidwalker.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">It's... not worth it. Every night, I can't...</td>
@@ -64,7 +70,7 @@ The Pathfinder must speak to him in order to unlock the [Voidwalker](Voidwalker.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>It's... not worth it. Every night, I can't...</td>

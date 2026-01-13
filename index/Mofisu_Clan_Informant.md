@@ -1,6 +1,6 @@
 ---
 title: Mofisu Clan Informant
-revid: 189623
+revid: 191555
 source: https://deepwoken.fandom.com/wiki/Mofisu_Clan_Informant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Clan Mofisu]
@@ -32,7 +32,7 @@ Mofisu Clan Informant is an [Etrean](Etrean.md) NPC. The Inheritor is able to sp
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Good work... Had that beast not caught me off guard, I too would have made quick work of him...</td>
@@ -64,7 +64,7 @@ Mofisu Clan Informant is an [Etrean](Etrean.md) NPC. The Inheritor is able to sp
   <td>Simply leave me to rest, for now... Merciful <a href="Glossary.md#mur-of-light">Mur</a> will watch over my fate, whatever comes...</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -74,13 +74,13 @@ Mofisu Clan Informant is an [Etrean](Etrean.md) NPC. The Inheritor is able to sp
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Make haste. There is no telling how long the 'Rat King' will be willing to give you his aid...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

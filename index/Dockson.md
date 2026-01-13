@@ -1,18 +1,23 @@
 ---
 title: Dockson
-revid: 191168
+revid: 191403
 source: https://deepwoken.fandom.com/wiki/Dockson
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Dockson
 
+| Dockson | |
+|---|---|
+| name | Dockson |
+| aspect | Etrean |
+| location | Summer Isle |
+| affiliation | The Summer Company |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +34,7 @@ Dockson is located inside of the [Summer Isle](Summer_Isle.md) castle, standing 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">What brings you to Summer, [Aspect]?</td>
@@ -75,7 +80,7 @@ Dockson is located inside of the [Summer Isle](Summer_Isle.md) castle, standing 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah you're back. Need something?</td>

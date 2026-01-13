@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 186899
+revid: 191580
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -8,7 +8,13 @@ categories: [Monsters, Bosses, The Vat Exclusive]
 
 # Parliament
 
-Template:Creature Infobox V3
+| Parliament | |
+|---|---|
+| health | 20,000 |
+| attacks | Talon Swipe, Strong Swipe, Shade Cloak, Curb Stomp, Feather Coat, Owl Dash, Overhead Grab, Flock of Feathers |
+| drops | Void Feather, Nightbringer Enchant Stone |
+| locations | The Vat |
+| challenges | -- Deep Owl --, Curious Killers - Slay 10.Reward: +10% DMG; +5% RES, Radial Perspective - Slay 25.Reward: +10% DMG; +5% RES, Peace Of Mind, Mouse - Slay 100.Reward: +10% DMG; +5% RES |
 
 ## Description
 

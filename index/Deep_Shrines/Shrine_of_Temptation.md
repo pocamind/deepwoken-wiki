@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Temptation
-revid: 184686
+revid: 191390
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Temptation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -47,7 +47,7 @@ Trade a Mantra of your choice and 5 to gain a Whisper Draw.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -71,7 +71,7 @@ Trade a Mantra of your choice and 5 to gain a Whisper Draw.
   <td colspan="2">THE CONTRACT IS COMPLETE, WASTE.</td>
 </tr>
 <tr>
-  <td colspan="2">End, the player loses 5 and their chosen Mantra to gain a <a href="../Whisper_Draw.md">Whisper Draw</a></td>
+  <td colspan="2">[End Dialogue], the player loses 5 and their chosen Mantra to gain a <a href="../Whisper_Draw.md">Whisper Draw</a></td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ Trade a Mantra of your choice and 5 to gain a Whisper Draw.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -101,7 +101,7 @@ Trade a Mantra of your choice and 5 to gain a Whisper Draw.
   <td colspan="2">FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -113,13 +113,13 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

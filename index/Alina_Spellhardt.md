@@ -1,6 +1,6 @@
 ---
 title: Alina Spellhardt
-revid: 178995
+revid: 191306
 source: https://deepwoken.fandom.com/wiki/Alina_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -24,7 +24,7 @@ Alina is one of the several [Lightborn](Lightborn.md) scattered across [The Floa
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Bah.. I don't get this Hallowtide stuff. Everybody keeps scarin' me. Pa came over earlier, said he made lunch. I got up, and he yells with a mask! What's up with that?</td>
@@ -36,7 +36,7 @@ Alina is one of the several [Lightborn](Lightborn.md) scattered across [The Floa
   <td>Some spirit that is, scarin' the life out of all yer family! I've been hidin' all over the castle now, just waitin' for them to stop. I wanna finish writing my book already.. [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] even my own room isn't safe.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

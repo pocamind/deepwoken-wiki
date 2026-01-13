@@ -1,6 +1,6 @@
 ---
 title: Marro
-revid: 188847
+revid: 191538
 source: https://deepwoken.fandom.com/wiki/Marro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -28,7 +28,7 @@ Marro is a [Chrysid](Chrysid.md) NPC who resides on the islands of [Songseeker W
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hum, hum...</td>
@@ -63,13 +63,13 @@ Marro is a [Chrysid](Chrysid.md) NPC who resides on the islands of [Songseeker W
 </tr>
 <tr>
   <td colspan="6">Was it your community that Lake spoke to?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6"><i>He breaks into a guffaw, grinning.*</i> That one won't survive a minute out here - I'm convinced she believes this is the <a href="Glossary.md#the-lullably-isles">Lullably Isles</a>, and that she's only a five minute walk from home. Don't think she really gets that she ain't seeing that family of hers again - they <i>don't</i> let people back in, unless your leave is sanctioned by the Faith, y'know?. And she didn't take nicely to us trying to help her out, either. But... I mean, not every Chrysid adapts well to the outside world. She's definitely that sort.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

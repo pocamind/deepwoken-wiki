@@ -1,6 +1,6 @@
 ---
 title: Barber (Glumbo)
-revid: 183450
+revid: 191335
 source: https://deepwoken.fandom.com/wiki/Barber_(Glumbo)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -54,7 +54,7 @@ The Top Shelf
 <table>
 <tbody>
 <tr>
-  <td colspan="32">Begin</td>
+  <td colspan="32">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="32">Grurghhhlll. <i>*The mysterious Glumbo welcomes you to their humble workplace, inquiring if you are in need of a new style.*</i></td>
@@ -77,13 +77,13 @@ The Top Shelf
   <td colspan="4">Glurghhh gurhguhgl. Gruglug. <i>*Through an elaborate show of abstract hand gestures, you understand Glumbo talks of the legendary powers of a Fadetrimmer.*</i></td>
   <td colspan="4"><i>*Glumbo tilts their head.*</i> Glurhguh. Gluhrhughuhrg. <i>*Their tendril-like finger extends and points at the scissors hanging by your waist.*</i> Gruglug.</td>
   <td colspan="8"><i>*Glumbo's formless face shapes itself into a disappointed frown, as their tendril-like hands restore your haircut.*</i> Ghlg ghlg ghlg, gurhll gruglughhug.</td>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="8">[Player removes a dye]</td>
   <td colspan="4">...A Fadetrimmer?</td>
-  <td colspan="4">End</td>
-  <td colspan="8">End, your hair is returned back to normal</td>
+  <td colspan="4">[End Dialogue]</td>
+  <td colspan="8">[End Dialogue], your hair is returned back to normal</td>
 </tr>
 <tr>
   <td colspan="8">Ghruhglhg. Ghlugh. <i>*Glumbo's hand morphs into a facsimile of a thumbs up.*</i></td>
@@ -107,11 +107,11 @@ The Top Shelf
 <tr>
   <td colspan="8">[See first instance]</td>
   <td colspan="2">[Swear the words]</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="8"></td>
-  <td colspan="2">End, player obtains <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></td>
+  <td colspan="2">[End Dialogue], player obtains <a href="Oath%253A_Fadetrimmer.md">Fadetrimmer</a></td>
   <td colspan="2"></td>
 </tr>
 </tbody>

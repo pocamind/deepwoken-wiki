@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 186791
+revid: 191606
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Voidheart, The Knives of Eylis, Vendors]
@@ -34,7 +34,7 @@ If the player has the [Two Faced Regalia](Regalia.md#two-faced), Rook will sell 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Ain't no way bro...</td>
@@ -54,7 +54,7 @@ If the player has the [Two Faced Regalia](Regalia.md#two-faced), Rook will sell 
   <td>Man. Shut up.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -68,7 +68,7 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Ain't no way bro...</td>
@@ -97,11 +97,11 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
 <tr>
   <td>Thanks, this will help me repair my Sloop!</td>
   <td>You're broke!</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
-  <td>End, Player obtains Whaling Knife</td>
-  <td>End</td>
+  <td>[End Dialogue], Player obtains Whaling Knife</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +111,7 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Back for more of my knives? [300 Notes]</td>
@@ -128,8 +128,8 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
   <td>You're broke!</td>
 </tr>
 <tr>
-  <td>End, Player obtains Whaling Knife</td>
-  <td>End</td>
+  <td>[End Dialogue], Player obtains Whaling Knife</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -141,7 +141,7 @@ This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) 
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Back for more of my knives? [300 Notes]</td>
@@ -164,7 +164,7 @@ This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) 
 </tr>
 <tr>
   <td colspan="3">Of course, I knew you were out of your mind, much like everyone else here. I hope you're booksmart though, 'cause I'm asking for 20 Knowledge for this exchange of information...</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>Call of the Deep</td>
@@ -172,9 +172,9 @@ This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) 
   <td>Horn of Authority</td>
 </tr>
 <tr>
-  <td>End, Player obtains Call of the Deep</td>
-  <td>End, Player obtains Union Pager</td>
-  <td>End, Player obtains Horn of Authority</td>
+  <td>[End Dialogue], Player obtains Call of the Deep</td>
+  <td>[End Dialogue], Player obtains Union Pager</td>
+  <td>[End Dialogue], Player obtains Horn of Authority</td>
 </tr>
 </tbody>
 </table>

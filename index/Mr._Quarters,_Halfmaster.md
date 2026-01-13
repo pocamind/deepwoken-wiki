@@ -1,6 +1,6 @@
 ---
 title: "Mr. Quarters, Halfmaster"
-revid: 189611
+revid: 191561
 source: https://deepwoken.fandom.com/wiki/Mr._Quarters%2C_Halfmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -33,7 +33,7 @@ Mr. Quarters, Halfmaster is an [Adret](Adret.md) NPC who was part of [Captain Or
 <table>
 <tbody>
 <tr>
-  <td colspan="24">Begin</td>
+  <td colspan="24">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="24">Ahoy, [First Name]! Yer lookin' sharp today. That ol' dog Orlandeau taught youse a trick or two, so's I saw! <i>*The man lets out a hearty laugh.*</i> Anyhoot, need somethin' from yer ole pal Mr. Quarters?</td>

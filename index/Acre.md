@@ -1,18 +1,22 @@
 ---
 title: Acre
-revid: 191026
+revid: 191297
 source: https://deepwoken.fandom.com/wiki/Acre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Acre
 
+| Acre | |
+|---|---|
+| name | Acre |
+| aspect | Adret |
+| location | Starswept Valley |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +33,7 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>...Don't take another step closer to me. I know your type. Bloodthirsty. Ruthless. I don't trust you for even a second. Go away.</td>
@@ -47,7 +51,7 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
   <td>GO AWAY!</td>
 </tr>
 <tr>
-  <td>End, player is thrown off the cliff</td>
+  <td>[End Dialogue], player is thrown off the cliff</td>
 </tr>
 </tbody>
 </table>
@@ -57,7 +61,7 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Back off away from me. Right now. You'll regret this.</td>
@@ -69,7 +73,7 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
   <td>GO AWAY!</td>
 </tr>
 <tr>
-  <td>End, player is thrown off the cliff</td>
+  <td>[End Dialogue], player is thrown off the cliff</td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +83,7 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You... Again? Didn't you learn your lesson? Stay away from me.</td>
@@ -97,7 +101,7 @@ Acre can be found on a ledge beside one of the longest ziplines in Starswept Val
   <td>GO AWAY!</td>
 </tr>
 <tr>
-  <td>End, player is thrown off the cliff</td>
+  <td>[End Dialogue], player is thrown off the cliff</td>
 </tr>
 </tbody>
 </table>

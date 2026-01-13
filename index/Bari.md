@@ -1,18 +1,23 @@
 ---
 title: Bari
-revid: 191246
+revid: 191336
 source: https://deepwoken.fandom.com/wiki/Bari
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Bari
 
+| Bari | |
+|---|---|
+| name | Bari |
+| aspect | Etrean |
+| location | Isle of Vigils |
+| affiliation | Etrea |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -60,7 +65,7 @@ Bari's Bare Essentials
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!<br>

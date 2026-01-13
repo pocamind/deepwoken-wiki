@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 189521
+revid: 191694
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,15 @@ categories: [Monsters]
 
 # Watcher
 
+| Watcher | |
+|---|---|
+| health | 100,000 |
+| attacks | Watcher's Gaze, Leap |
+| locations | The City of the Drowned, Temple of the Forgotten Flame |
+
 “ WE WILL WAIT FOR THE NEXT LIGHT. AS WE HAVE A THOUSAND TIMES BEFORE YOU. WE HOPE THAT THEY TOO SHALL HAVE EYES LIKE YOURS. SUCH DELICIOUS PEARLS OF AGONY. ”
 
 ― Watcher Dialogue
-
-Template:Creature Infobox V3
 
 ## Description
 
@@ -66,7 +70,7 @@ This dialogue is exclusive to the Watchers within [The City of the Drowned](The_
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">WHY APPROACH? WHY SHIRK DUTY?</td>
@@ -86,7 +90,7 @@ This dialogue is exclusive to the Watchers within [The City of the Drowned](The_
   <td colspan="2">YOU SHOULD NOT BE ABLE TO FORGET. IT IS ETCHED INTO YOU. EVERY ORGAN. EVERY CELL. THEY ARE BOUND BY YOUR VOW. EVEN IF THE MIND FORGETS. THE BODY CANNOT. YOU SPEAK IMPOSSIBILITY.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td>Right. But I'm wondering why exactly we're doing all this?</td>
   <td>What was the specific wording again?</td>
 </tr>
@@ -97,7 +101,7 @@ This dialogue is exclusive to the Watchers within [The City of the Drowned](The_
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -109,7 +113,7 @@ This dialogue is exclusive to the Watchers at [The Temple of the Forgotten Flame
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">HOW KIND OF YOU TO VISIT, THRALL. FORTUNE HAS FOUND ME. THOUGH I MISSED THE LAST FEASTING, I NOW HAVE THE BEST SEAT IN THE HOUSE FOR THE NEXT.</td>
@@ -123,7 +127,7 @@ This dialogue is exclusive to the Watchers at [The Temple of the Forgotten Flame
   <td colspan="2">THE THINNING PLAYS TRICKS EVEN ON THE AWARE. WE DID NOT FORESEE THAT THIS SPIT OF LAND WOULD DRIFT SO. IT HAS BEEN AN AMUSING DETOUR.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -135,13 +139,13 @@ This dialogue will be activated if you take off your Angel Mask while the Watche
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">RUN ALONG NOW.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

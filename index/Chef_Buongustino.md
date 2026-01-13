@@ -1,12 +1,20 @@
 ---
 title: Chef Buongustino
-revid: 191196
+revid: 191361
 source: https://deepwoken.fandom.com/wiki/Chef_Buongustino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
+categories: [Felinor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
 ---
 
 # Chef Buongustino
+
+| Chef Buongustino | |
+|---|---|
+| name | Buongustino |
+| aspect | Felinor |
+| pronouns | He/him |
+| location | Isle of Vigils |
+| family | Chef Odiolavoro (son)[1] |
 
 Variants: [Chef Odiolavoro](Chef_Odiolavoro.md)
 
@@ -17,8 +25,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 “ You? You think you can challenge the mighty Buongustino? In _this_ war economy? **Try me**, pagliaccio. There has yet been a chef who could withstand my power. And perhaps there **never** will be. ”
 
 ― Chef Buongustino
-
-Template:NpcInfobox
 
 ## Description
 
@@ -146,7 +152,7 @@ File:Grilled Parasol Brain Witherald.png
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Ah, hello. My name is Buongustino. Welcome to my kitchen!... Is what I'd say if I hadn't been chased out of Etrea. Sigh! You see, I am one of the most brilliant culinary minds this side of <a href="Glossary.md#lumen">Lumen</a>! Only...</td>
@@ -189,7 +195,7 @@ File:Grilled Parasol Brain Witherald.png
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Ah! Hello! Did you get me the <b>[Food]</b>?</td>
@@ -217,7 +223,7 @@ File:Grilled Parasol Brain Witherald.png
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>New Orders</td>
@@ -239,3 +245,7 @@ File:Grilled Parasol Brain Witherald.png
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1) Buongustino mentions his sons are "Useless" and "Lazy boys", which matches Odiolavoro's incompetence and his name meaning "I hate work". Both are also moustachioed Felinor who dress and speak similarly.

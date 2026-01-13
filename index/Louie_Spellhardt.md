@@ -1,6 +1,6 @@
 ---
 title: Louie Spellhardt
-revid: 175118
+revid: 191524
 source: https://deepwoken.fandom.com/wiki/Louie_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Vendors, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -68,7 +68,7 @@ Smithy's Tools
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh hey, surface dweller! Joyous Hallowtide! I'm Louie. Ya need something?</td>
@@ -80,7 +80,7 @@ Smithy's Tools
   <td colspan="12"><i>*He nods.*</i> Yup! We haven't had any servants in ages, so everyone in the family chips in in their own way, to keep the place afloat... No pun intended! I handle both armour and clothing in the Keep. <a href="Glossary.md#the-heavens">Heavens</a> know, the moment the others are done with their scuffles and arguments in the Dispute Hall, they'll run straight to me, whinging a patch-up. <i>*He sighs, smirking.*</i> Family, eh?</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

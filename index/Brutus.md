@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 188803
+revid: 191727
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Brutus is an imprisoned [Khan](Khan.md) in the [Fort Merit](Fort_Merit.md) prison that allows you to unbound your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses [Chitin](Talents.md#innate-aspect-talents)/[Exoskeleton](Talents.md#freak-of-nature), and does not drain it. Based on his dialouge, and him wearing the old [Legion Centurion](Legion_Centurion.md) [Outfit](Outfits.md) with [Khan Pauldrons](Legion_Pauldrons.md), he is most likely a high-ranking member of [The Hundred Legions](The_Hundred_Legions.md), and has a history with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+Brutus is an imprisoned [Khan](Khan.md) in the [Fort Merit](Fort_Merit.md) prison that allows you to unbound your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses [Chitin](Talents.md#innate-aspect-talents)/[Exoskeleton](Talents.md#freak-of-nature), and does not drain it. Based on his dialogue, and him wearing the old [Legion Centurion](Legion_Centurion.md) [Outfit](Outfits.md) with [Khan Pauldrons](Legion_Pauldrons.md), he is most likely a high-ranking member of [The Hundred Legions](The_Hundred_Legions.md), and has a history with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 He is noticably larger than most other people, including you.
 
@@ -41,13 +41,13 @@ Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that ca
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Get out of my cell, swine.</td>
 </tr>
 <tr>
-  <td>End, you are beaten up</td>
+  <td>[End Dialogue], you are beaten up</td>
 </tr>
 </tbody>
 </table>
@@ -57,13 +57,13 @@ Brutus is located in [Fort Merit](Fort_Merit.md) inside of a prison cell that ca
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Oh, a treaty-breaker makes his way into my den... Your superiors will regret the day they broke our Pact.</td>
 </tr>
 <tr>
-  <td>End, you are beaten up</td>
+  <td>[End Dialogue], you are beaten up</td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +77,7 @@ This dialogue will only appear if the player has received dialogue from [Titus](
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Brutus tilts his head slowly, sizing you up with dull, sunken eyes.*</i></td>
@@ -101,7 +101,7 @@ This dialogue will only appear if the player has received dialogue from [Titus](
   <td>Don't crawl back to me for more scraps. If you seek to amplify that new power of yours, do it to them what I did to you. He gave the word that can change the path that you walk on.</td>
 </tr>
 <tr>
-  <td>End, you obtain Blightsurger</td>
+  <td>[End Dialogue], you obtain Blightsurger</td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +111,7 @@ This dialogue will only appear if the player has received dialogue from [Titus](
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You already carry it. If you're here begging for it twice, then you never deserved it in the first place.</td>
@@ -121,7 +121,7 @@ This dialogue will only appear if the player has received dialogue from [Titus](
   <td>[Player has completed <a href="Oath%253A_Blightsurger.md">Blightsurger</a>'s progression on a previous character]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>I've proven myself, just unlock it [10 Knowledge].</td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ This dialogue will only appear if the player has received dialogue from [Titus](
 </tr>
 <tr>
   <td></td>
-  <td>End, you are beaten up<br>
+  <td>[End Dialogue], you are beaten up<br>
   <i>(Note: this does not consume your Knowledge and your Oath will not be progressed)</i></td>
 </tr>
 </tbody>

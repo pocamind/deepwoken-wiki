@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 188052
+revid: 191664
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -46,7 +46,7 @@ The Meat Lord can be found at the following places:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The absurd looking man before you stands with arms crossed triumphantly, as if announcing his presence to the world.*</i></td>
@@ -70,7 +70,7 @@ The Meat Lord can be found at the following places:
   <td>[<font>Opens</font> <a href="#shop-rotation"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +82,7 @@ The Meat Lord can be found at the following places:
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The Meat Lord stands in silence, awaiting those who are undoubtedly seeking to purchase from his collection.*</i></td>
@@ -96,7 +96,7 @@ The Meat Lord can be found at the following places:
   <td colspan="4">You may rise. I presume you wish to see today's selection?</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
   <td colspan="2">Yes, m'lord.</td>
   <td colspan="2">[Player has the Vegetarian Flaw]</td>
 </tr>
@@ -107,7 +107,7 @@ The Meat Lord can be found at the following places:
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="2">I don't remember asking. Do you wish to see today's selection?</td>
 </tr>
 <tr>
@@ -128,13 +128,13 @@ The Meat Lord can be found at the following places:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Meat Lord seems to have no intention of acknowledging your presence.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -144,7 +144,7 @@ The Meat Lord can be found at the following places:
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>When accessing the Shop</td>
@@ -155,7 +155,7 @@ The Meat Lord can be found at the following places:
   <td>Here's your meat.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

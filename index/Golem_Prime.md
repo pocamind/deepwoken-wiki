@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 186254
+revid: 191453
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -8,13 +8,21 @@ categories: [Pathfinder Exclusive, Monsters]
 
 # Golem Prime
 
+| Golem Prime | |
+|---|---|
+| health | 30007500 (Corrupted) |
+| attacks | Recessive Spin, Prime Laser, Laser Barrage, Stomp, Ground Slam, Uppercut, Scream |
+| drops | Dying Embers, Tier 2 Mantra Modifiers, Great Maul |
+| locations | Duke Erisia's Manor, The Diluvian Mechanism |
+| challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
+
 Variants: [Golem](Rock_Golem.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Template:Creature Infobox V3**Also known as Duke Golems or Prime Golems.**
+**Also known as Duke Golems or Prime Golems.**
 
 ## Description
 

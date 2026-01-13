@@ -1,18 +1,23 @@
 ---
 title: Mag
-revid: 191184
+revid: 191532
 source: https://deepwoken.fandom.com/wiki/Mag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Vendors, Individuals with unspecified pronouns]
+categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Mag
 
+| Mag | |
+|---|---|
+| name | Mag |
+| aspect | Gremor |
+| location | Summer Isle |
+| affiliation | The Summer Company |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +36,7 @@ Mag is located in [The Furnace](The_Furnace.md) below the Summer Isle Castle.
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Looking to buy some casing? For some Notes and a little ore I can encase your ammunition.</td>
@@ -73,7 +78,7 @@ This dialogue can only appear if the player has not made at least 200 Bullet Cas
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Looking to buy some casing? For some Notes and a little ore I can encase your ammunition.</td>

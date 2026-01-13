@@ -1,6 +1,6 @@
 ---
 title: Frostdraw Obelisk
-revid: 177474
+revid: 191440
 source: https://deepwoken.fandom.com/wiki/Frostdraw_Obelisk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Oath Trainer]
@@ -24,13 +24,13 @@ It can only be interacted with if you have at least 15 [Frostdraw](Frostdraw.md)
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">[Faust] Ah, a seeker of knowledge, or perhaps just a fool seeking the ice... Faust they called me. The one who saw the patterns, who understood the way of the world better than anyone else.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

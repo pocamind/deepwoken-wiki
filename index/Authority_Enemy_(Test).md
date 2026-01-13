@@ -1,6 +1,6 @@
 ---
 title: Authority Enemy (Test)
-revid: 177770
+revid: 191330
 source: https://deepwoken.fandom.com/wiki/Authority_Enemy_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, Central Authority Enemies]
@@ -12,7 +12,13 @@ notices:
 
 # Authority Enemy (Test)
 
-Template:Creature Infobox V3
+| Authority Enemy | |
+|---|---|
+| health | ??? |
+| attacks | Assault, Critical, Fire Forge |
+| drops | ??? |
+| locations | Isle of the Crows, Corvus Manor |
+| affiliation | The Central Authority |
 
 ## Description
 

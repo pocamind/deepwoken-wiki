@@ -1,6 +1,6 @@
 ---
 title: Forgotten Villager
-revid: 188825
+revid: 191436
 source: https://deepwoken.fandom.com/wiki/Forgotten_Villager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs]
@@ -39,7 +39,7 @@ A Forgotten Villager wears a [Stranded](Stranded.md) outfit with their [aspect](
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hello? Oh thank the gods, not another bandit... Can you help us?</td>
@@ -51,7 +51,7 @@ A Forgotten Villager wears a [Stranded](Stranded.md) outfit with their [aspect](
   <td>The Royal <a href="Glossary.md#pathfinders">Pathfinder</a> of this island... He is searching for all of those that lived here before the island froze in time. He claims to be an ally but his loyalty still lies with the Lord of this land... Our people look to him as a protector, but I know the truth. Wait do you hear that outside?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

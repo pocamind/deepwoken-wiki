@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 188961
+revid: 191311
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
@@ -149,7 +149,7 @@ Amashi executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Passion. It beams out from your eyes like torchlight. But with no medium to wield it, it leaves only cinders.</td>
@@ -172,7 +172,7 @@ Amashi executes his opponent after knocking them:
   <td>Bring me <b>5 Dying Embers</b>, Then we can continue</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -182,7 +182,7 @@ Amashi executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Have you done what I asked?</td>
@@ -206,10 +206,10 @@ Amashi executes his opponent after knocking them:
 </tr>
 <tr>
   <td colspan="2"><i>*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you.*</i></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="2">End, Player obtains Hearthblood</td>
+  <td colspan="2">[End Dialogue], Player obtains Hearthblood</td>
 </tr>
 </tbody>
 </table>
@@ -221,7 +221,7 @@ Amashi executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>The inferno burns even brighter. Have you come to fuel it?</td>
@@ -233,7 +233,7 @@ Amashi executes his opponent after knocking them:
   <td>[Opens Mantra Upgrade UI]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -243,13 +243,13 @@ Amashi executes his opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>The vial I gave you. You must drink it.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

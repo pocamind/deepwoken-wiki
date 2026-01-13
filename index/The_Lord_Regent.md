@@ -1,12 +1,21 @@
 ---
 title: The Lord Regent
-revid: 191106
+revid: 191663
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with reference errors, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
+categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
 ---
 
 # The Lord Regent
+
+| The Lord Regent | |
+|---|---|
+| name | Zi'eer[1] |
+| alias | The Lord Regent, The 4th Prophet of The Ministry[1], The Calamity[2][3][4] |
+| aspect | Etrean |
+| pronouns | He/him |
+| location | Etris Palace |
+| affiliation | The Ministry, Etrea |
 
 Template:ModeCounterpart
 
@@ -14,17 +23,15 @@ Template:ModeCounterpart
 
 ― The Lord Regent
 
-Template:NpcInfobox
-
 ## Description
 
 Zi'eer, more commonly known as the Lord Regent, or by his title, the Fourth Prophet of [The Ministry](The_Ministry.md),[\[1\]](#cite-note-oc-1) is a mysterious and powerful NPC that resides exclusively inside his palace within [Etris](Etris.md). He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning.
 
-While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true species or aggressive mutations from his meddling with the world's natural order is unknown.[\[2\]](#cite-note-opr-2)
+While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true species or aggressive mutations from his meddling with the world's natural order is unknown.[\[5\]](#cite-note-opr-5)
 
 The Lord Regent seems to be very secretive about where he obtained power, and will exterminate anyone who attempts to uncover it. When [Kennith](Kennith.md) had doubts on the Lord Regent's actions, he was executed and his mangled corpse was hung on a wall after he tried acquiring information about the Lord Regent from the locals of the city. When he rose to power, he had the City's Official History Office decommissioned, seemingly to ensure he will be the only history the people of Etris will ever know. He also had a mental veil installed in the people of Etris, giving them each conflicting ideas of where he came from and how long he was in power for.
 
-The throne upon which he sits is an artifact from [The Depths](The_Depths.md), amplifying the power of whoever sits on it. The Lord Regent likely stays on it to maintain the mental veil on the inhabitant of Etris. As stated by Authority [Inquisitor Lotus](Inquisitor_Lotus.md) during [Operation 'Puppet Master'](<Operation_'Puppet_Master'.md>), mental veils aren't something new, but are usually limited to a single person, but applying it on an entire town goes beyond the ability of the common man.[\[2\]](#cite-note-opr-2)
+The throne upon which he sits is an artifact from [The Depths](The_Depths.md), amplifying the power of whoever sits on it. The Lord Regent likely stays on it to maintain the mental veil on the inhabitant of Etris. As stated by Authority [Inquisitor Lotus](Inquisitor_Lotus.md) during [Operation 'Puppet Master'](<Operation_'Puppet_Master'.md>), mental veils aren't something new, but are usually limited to a single person, but applying it on an entire town goes beyond the ability of the common man.[\[5\]](#cite-note-opr-5)
 
 He has a particular interest in a powerful object referred to as 'The Forge of Sin.' Fragments of it, simply called Artifacts, are scattered over Erisia. Turning these into [banks](Banker.md) gives a hefty reward and is lorewise sent to the Palace.
 
@@ -43,7 +50,7 @@ After talking to the [Royal Etrean Guard](Royal_Etrean_Guard.md) during the [que
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, if it isn't [Name]! I've been expecting you. How have your travels been?</td>
@@ -121,7 +128,7 @@ After talking to the [Royal Etrean Guard](Royal_Etrean_Guard.md) during the [que
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">So, [Name], I'll be recruiting your services.</td>
@@ -160,7 +167,7 @@ Having not encountered [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) yet.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Have you brought the Forge?</td>
@@ -184,7 +191,7 @@ Having lost to [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Have you brought the Forge?</td>
@@ -210,7 +217,7 @@ As long as you **do not** press "I defeated the Duke, but how was I supposed to 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Have you brought the Forge?</td>
@@ -232,7 +239,7 @@ As long as you **do not** press "I defeated the Duke, but how was I supposed to 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Have you brought the Forge?</td>
@@ -258,7 +265,7 @@ After completing the requirements for [Oath: Contractor](Oath%253A_Contractor.md
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Have you brought the Forge?</td>
@@ -317,7 +324,7 @@ After completing the requirements for [Oath: Contractor](Oath%253A_Contractor.md
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I will say this once, do not return until you have completed your orders.</td>
@@ -333,7 +340,7 @@ After completing the requirements for [Oath: Contractor](Oath%253A_Contractor.md
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>It seems you need discipline.</td>
@@ -351,7 +358,7 @@ If the player has maxed out [Oath: Contractor](Oath%253A_Contractor.md) on any s
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You better have a good reason for showing your face before your orders are completed.</td>
@@ -375,7 +382,7 @@ If the player has maxed out [Oath: Contractor](Oath%253A_Contractor.md) on any s
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You have done what is required of you for now. We must now bide our time until the next phase of our plans</td>
@@ -393,7 +400,7 @@ If the player has maxed out [Oath: Contractor](Oath%253A_Contractor.md) on any s
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Don't bother showing your face again. I had little faith in you to begin with.</td>
@@ -411,7 +418,7 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Have you no manners, or do you simply not know your place? In any case, I'll show you.</td>
@@ -457,5 +464,11 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
 
 ## References
 
-1.  [↑](#cite-ref-oc-1-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `O:C`
-2.  ↑ [2.0](#cite-ref-opr-2-0) [2.1](#cite-ref-opr-2-1) [Book](Books.md): [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)
+1.  ↑ [1.0](#cite-ref-oc-1-0) [1.1](#cite-ref-oc-1-1) [1.2](#cite-ref-oc-1-2) [Talent](Talents.md): [Contractor](Talents.md#contractor) - Oath: Contractor
+2.  [↑](#cite-ref-2) NPC dialogue: [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md)  
+    _We will have what we sent you in here for - another piece of the puzzle, and another step closer to defeating the Lord Regent in our time. That is our ultimate goal - to learn how to defeat the Calamity._
+3.  [↑](#cite-ref-3) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
+    _I suppose we became too much of a threat to the Lord Regent. The Old Guard used the Monastery of [Mur](Glossary.md#mur-of-light) as a sort of clandestine base of operations, after the Calamity's forces began tracking our every move._
+4.  [↑](#cite-ref-4) NPC dialogue: [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)  
+    _The Vigils are loyal to me - we have already rooted out any would-be traitors. Anyone who is not one of us may be an agent of the Calamity. But nobody has come to our island since the start of the Civil War, spare for other Ironsworn, and you. Zi'eer's forces lurk at our doorstep like starving wolves, howling for blood and carnage._
+5.  ↑ [5.0](#cite-ref-opr-5-0) [5.1](#cite-ref-opr-5-1) [Book](Books.md): [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)

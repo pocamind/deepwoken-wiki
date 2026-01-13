@@ -1,6 +1,6 @@
 ---
 title: Rimil
-revid: 191116
+revid: 191603
 source: https://deepwoken.fandom.com/wiki/Rimil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
@@ -34,7 +34,7 @@ If you decide to talk to them, they will give you the mission to kill a player i
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>You, you! Little killer! Looking for some fun?</td>
@@ -52,7 +52,7 @@ If you decide to talk to them, they will give you the mission to kill a player i
   <td>Oh, great, great! You're going to kill someone. Specifically, any poor sap you find on Starswept Valley. Sound good? Do the job, and return to me. They'll have to be as smart as yourself, you know!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -64,7 +64,7 @@ If you decide to talk to them, they will give you the mission to kill a player i
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
@@ -76,7 +76,7 @@ If you decide to talk to them, they will give you the mission to kill a player i
   <td>AH! Have you forgotten your <b>TASK</b>? Kill a living being as smart as you anywhere on Starswept Valley, and then come back to me.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -86,7 +86,7 @@ If you decide to talk to them, they will give you the mission to kill a player i
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hello, fool! Have you completed your <b>PARTY TRICK</b> for me yet?</td>
@@ -98,7 +98,7 @@ If you decide to talk to them, they will give you the mission to kill a player i
   <td>Look at you! Blood on your hands! <b>KILLER</b>, are you proud? Hah! Very well. A deal's a deal. Come back to me if you want to perform for me again.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

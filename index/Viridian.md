@@ -1,6 +1,6 @@
 ---
 title: Viridian
-revid: 178907
+revid: 191689
 source: https://deepwoken.fandom.com/wiki/Viridian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
@@ -33,13 +33,13 @@ Viridian is located at [Fort Merit](Fort_Merit.md), facing opposite of [Milgram]
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Those eyes.. you wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -49,13 +49,13 @@ Viridian is located at [Fort Merit](Fort_Merit.md), facing opposite of [Milgram]
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

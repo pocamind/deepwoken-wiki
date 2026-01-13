@@ -1,6 +1,6 @@
 ---
 title: Aska
-revid: 191296
+revid: 191324
 source: https://deepwoken.fandom.com/wiki/Aska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Enemies, NPCs located in the First Floor of the Second Layer, The Covenant of Flame, Individuals with unspecified pronouns]
@@ -123,7 +123,7 @@ Aska's arsenal consists of [Flamecharm](Flamecharm.md) [mantras](Mantras.md), al
 <table>
 <tbody>
 <tr>
-  <td colspan="15">Begin</td>
+  <td colspan="15">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="15">Ashes to ashes, dust to dust... This is our destiny.</td>

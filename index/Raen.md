@@ -1,6 +1,6 @@
 ---
 title: Raen
-revid: 191284
+revid: 191596
 source: https://deepwoken.fandom.com/wiki/Raen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
@@ -30,7 +30,7 @@ If the player chooses the dialogue option "I see. Can you help me with affording
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Fresh Knife, aye? If you need any info about anything, let me know. Eylis lets us mostly freelance unless it's a big job. Granted, she does take a cut of the coin though for who knows what...</td>
@@ -61,7 +61,7 @@ If the player chooses the dialogue option "I see. Can you help me with affording
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

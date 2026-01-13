@@ -1,6 +1,6 @@
 ---
 title: Kennith
-revid: 191276
+revid: 191501
 source: https://deepwoken.fandom.com/wiki/Kennith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, SpoilerPages, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs located in the Second Floor of the Second Layer]
@@ -39,7 +39,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Well, if it isn't [Full Name]! It sure puts an Etrean's heart at ease seeing you around.</td>
@@ -99,7 +99,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Found a lead?</td>
@@ -111,7 +111,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
   <td>Alright just let me know if you happen upon anything.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -123,7 +123,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Neutral Reputation or above, but below High Friend with Etrea</td>
@@ -134,7 +134,7 @@ Should one have enough [Reputation](Reputation.md) with [Etrea](Etrea.md), Kenni
   <td><i>*The strangely dressed Etrean guard spits in your general direction.*</i></td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -148,7 +148,7 @@ After he is killed by one of the [Royal Etrean Guards](Royal_Etrean_Guard.md), a
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">...</td>
@@ -174,7 +174,7 @@ After he is killed by one of the [Royal Etrean Guards](Royal_Etrean_Guard.md), a
   <td colspan="2">Hm? I only just stirred, so I'm not sure. Can't have been that long though, right?</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -184,7 +184,7 @@ After he is killed by one of the [Royal Etrean Guards](Royal_Etrean_Guard.md), a
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">...</td>
@@ -220,7 +220,7 @@ After he is killed by one of the [Royal Etrean Guards](Royal_Etrean_Guard.md), a
   <td colspan="3">Gods below! Thanks for letting me know, friend. Might've bled out and died otherwise, hah.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -230,7 +230,7 @@ After he is killed by one of the [Royal Etrean Guards](Royal_Etrean_Guard.md), a
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td colspan="20">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="20">...</td>

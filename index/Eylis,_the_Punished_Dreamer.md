@@ -1,6 +1,6 @@
 ---
 title: "Eylis, the Punished Dreamer"
-revid: 188818
+revid: 191428
 source: https://deepwoken.fandom.com/wiki/Eylis%2C_the_Punished_Dreamer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
@@ -35,7 +35,7 @@ Eylis is the leader of [The Knives of Eylis](The_Knives_of_Eylis.md). She stands
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, a curious one! Look at you then. Poking your nose into matters you have no place in... 'tis a shame, truly. &nbsp;</td>
@@ -59,7 +59,7 @@ Eylis is the leader of [The Knives of Eylis](The_Knives_of_Eylis.md). She stands
   <td><i>*She laughs, before snapping her fingers.*</i></td>
 </tr>
 <tr>
-  <td>End, Player is teleported out</td>
+  <td>[End Dialogue], Player is teleported out</td>
 </tr>
 </tbody>
 </table>
@@ -69,7 +69,7 @@ Eylis is the leader of [The Knives of Eylis](The_Knives_of_Eylis.md). She stands
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Hey, look who it is. You got a reason for coming in here? I've got deals to make, nations to toy with, the usual.</td>
@@ -86,13 +86,13 @@ Eylis is the leader of [The Knives of Eylis](The_Knives_of_Eylis.md). She stands
 </tr>
 <tr>
   <td>And.. the plan you mentioned?</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>Oh, that little thing... Keep it in the back of your head for now, little whelp. You're still dull, desperately in need for being tempered and refined. But, I am watching you, little Knife. You're.. different, from the rest. I'll be keeping a close eye...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

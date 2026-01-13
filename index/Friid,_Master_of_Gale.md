@@ -1,6 +1,6 @@
 ---
 title: "Friid, Master of Gale"
-revid: 187551
+revid: 191439
 source: https://deepwoken.fandom.com/wiki/Friid%2C_Master_of_Gale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Etrean Luminant]
@@ -91,7 +91,7 @@ Friid executes her opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Freedom. Somewhere inside you, you yearn to be free.</td>
@@ -109,7 +109,7 @@ Friid executes her opponent after knocking them:
   <td colspan="12">Bring me 5 Gale Stones, Then we can continue</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -119,7 +119,7 @@ Friid executes her opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Have you done what I asked?</td>
@@ -134,7 +134,7 @@ Friid executes her opponent after knocking them:
 </tr>
 <tr>
   <td colspan="6">What is that you're doing?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">*They retrieve a knife and a glass vial, quickly opening a knick in their thumb and letting a drop of blood fall into the vial. They give it a quick shake and hand it to you*</td>
@@ -143,7 +143,7 @@ Friid executes her opponent after knocking them:
   <td colspan="6">The vial I gave you. You must drink it.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -153,7 +153,7 @@ Friid executes her opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">The Wind finds a way through even the narrowest of passages. Have you come to let the wind guide you?</td>
@@ -167,8 +167,8 @@ Friid executes her opponent after knocking them:
   <td colspan="6">The air remains still...</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -178,13 +178,13 @@ Friid executes her opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your Ether... Just what have you done?</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Cave Master (Vow of Iron)
-revid: 190523
+revid: 191354
 source: https://deepwoken.fandom.com/wiki/Cave_Master_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
@@ -82,7 +82,7 @@ Fruits of the Cave
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Yawn.*</i> What's that? Y'here to buy somethin'? I'm tryin' to keep a low profile, so be quick about it.<br>

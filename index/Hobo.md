@@ -1,6 +1,6 @@
 ---
 title: Hobo
-revid: 188835
+revid: 191470
 source: https://deepwoken.fandom.com/wiki/Hobo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies]
@@ -106,7 +106,7 @@ A Hobo executes it's opponent after knocking them:
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I am very happy, very rich! Woooo! I love notes!</td>
@@ -123,7 +123,7 @@ A Hobo executes it's opponent after knocking them:
   <td colspan="6">No! It's mine! Go away!</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

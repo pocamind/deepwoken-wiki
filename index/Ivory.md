@@ -1,6 +1,6 @@
 ---
 title: Ivory
-revid: 171041
+revid: 191482
 source: https://deepwoken.fandom.com/wiki/Ivory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Cut Content, NPCs]
@@ -33,7 +33,7 @@ Ivory was removed on the [March 8th, 2025 update](Version_History/2025.md#march-
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ooh.. look at those determined little eyes! Wait, wait, dont tell me; you're a fresh Pathfinder, aren't you? Chasing the lure of adventure, perhaps? Riches, fame?</td>
@@ -63,7 +63,7 @@ Ivory was removed on the [March 8th, 2025 update](Version_History/2025.md#march-
   <td colspan="12">Eager to learn and master.. perhaps you do have a chance in this dying world. Very well! Seek out the highest peaks of Erisia, where a Watcher resides, and gaze into the purple flame of its cathedral. Once you've managed to master your footwork and get there to gaze into the purple flame, I belive you'll be ready to return to me.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +75,7 @@ This is the dialogue for **The Purple Flame** that resides in the middle of [The
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">First Interaction</td>
@@ -86,7 +86,7 @@ This is the dialogue for **The Purple Flame** that resides in the middle of [The
   <td colspan="6">You gaze into the flames, unaware of it's purpose. The flame is warm, yet there's an ominous presence about it.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -96,7 +96,7 @@ This is the dialogue for **The Purple Flame** that resides in the middle of [The
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hehe, the little apprentice is still on two legs! Go on, go on, tell me the news! Have you seen the purple flame within the summit's cathedral? Do be wary of the Watcher, though...</td>
@@ -116,8 +116,8 @@ This is the dialogue for **The Purple Flame** that resides in the middle of [The
   <td colspan="6">Ah, little Pathfinder.. don't become scared for me! You wouldn't want to disappoint me, would you? The summit isn't even too difficult to reach! If you need additional guidance, seek out a bridge near the Towerstruck Lands. It should be in.. miserable condition, to say the least. Cross it into the courtyard, and you shall find a true spectacle before you, hehe.</td>
 </tr>
 <tr>
-  <td colspan="6">End, You gain the Aerial Assault talent</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue], You gain the Aerial Assault talent</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -127,13 +127,13 @@ This is the dialogue for **The Purple Flame** that resides in the middle of [The
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Pathfinder! After our brief lessons, I do truly believe you may be different. You have.. a hope like no other.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

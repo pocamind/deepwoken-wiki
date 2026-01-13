@@ -1,12 +1,19 @@
 ---
 title: Maedhran
-revid: 191024
+revid: 191529
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
+categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
 ---
 
 # Maedhran
+
+| Maedhran | |
+|---|---|
+| name | Maedhran |
+| aspect | Canor |
+| pronouns | He/him |
+| location | Miner's Landing |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +22,6 @@ This content is not accessible outside of this gamemode.
 “ Ah, down on your money? That's okay. You can do it, buddy. \*He wipes a genuine tear away from his eye and sniffs.\* Y-you've got this. ”
 
 ― Maedhran
-
-Template:NpcInfobox
 
 ## Description
 
@@ -38,7 +43,7 @@ After every dialogue option the player is given the option to interrupt Maedhran
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">So there I was... Surrounded by the most terrifying warriors you've ever seen....</td>
@@ -175,7 +180,7 @@ After every dialogue option the player is given the option to interrupt Maedhran
 <table>
 <tbody>
 <tr>
-  <td colspan="10">Begin</td>
+  <td colspan="10">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="10">Heh. Come for more of my tales?</td>

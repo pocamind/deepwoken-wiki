@@ -1,6 +1,6 @@
 ---
 title: Gaius
-revid: 188075
+revid: 191444
 source: https://deepwoken.fandom.com/wiki/Gaius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -36,7 +36,7 @@ Gaius is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_Ja
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Curses... I can't believe he stationed me here!</td>
@@ -54,7 +54,7 @@ Gaius is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_Ja
   <td>All the way out West. You should be honoured, you know... You're looking at the next ruler of the Legion. If you're nice to me I might let you visit sometime.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

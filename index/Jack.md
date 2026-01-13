@@ -1,6 +1,6 @@
 ---
 title: Jack
-revid: 163782
+revid: 191483
 source: https://deepwoken.fandom.com/wiki/Jack
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -10,7 +10,8 @@ notices:
 
 # Jack
 
-Template:Creature Infobox V3
+| Jack | |
+|---|---|
 
 ## Description
 

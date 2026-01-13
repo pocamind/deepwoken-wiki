@@ -1,6 +1,6 @@
 ---
 title: Kelsius
-revid: 188169
+revid: 191500
 source: https://deepwoken.fandom.com/wiki/Kelsius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, NPCs located in the Etrean Luminant, Central Authority defectors]
@@ -39,7 +39,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, welcome to my library. Looking for something?</td>
@@ -78,7 +78,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Player has retrieved the books</td>
@@ -120,7 +120,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Hmm... I hope you won't mind me asking, but what brings you to this part of the world?</td>
@@ -160,7 +160,7 @@ Kelsius is located inside the library at [Temple of the Blade](Temple_of_the_Bla
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Oh, welcome back. Are you looking for anything today?</td>

@@ -1,18 +1,22 @@
 ---
 title: Kadrivus Entomolius Auditan
-revid: 189008
+revid: 191494
 source: https://deepwoken.fandom.com/wiki/Kadrivus_Entomolius_Auditan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Quests, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Kadrivus Entomolius Auditan
 
+| Kadrivus Entomolius Auditan | |
+|---|---|
+| name | Kadrivus Entomolius Auditan |
+| species | Kyrsan |
+| location | Second Layer |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +31,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*The figure sighs in disappointment.*</i> So few understand the importance of Sound. Of Rhythm... To perceive one's surroundings with more than just one sense.</td>
@@ -55,7 +59,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Player chooses the correct tunnel</td>
@@ -80,7 +84,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I must say I'm impressed. As promised, I'll teach you the way of Rhythm. Improving it lies in your hands.</td>
@@ -96,7 +100,7 @@ Kadrivus Entomolius Auditan is a [Kyrsan](Kyrsgarde.md) located at the edges of 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">The stones. They continue to chant in Harmony.</td>

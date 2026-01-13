@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 191072
+revid: 191345
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -39,7 +39,7 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The Khan is deep in thought, their brow furrowing periodically.*</i></td>
@@ -92,7 +92,7 @@ Caitus is located in [Erisia](Erisia.md) inside [The Viper's Jaw](<The_Viper's_J
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6"><i>*The Khan is deep in thought, their brow furrowing periodically.*</i></td>

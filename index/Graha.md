@@ -1,18 +1,23 @@
 ---
 title: Graha
-revid: 188456
+revid: 191454
 source: https://deepwoken.fandom.com/wiki/Graha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
 ---
 
 # Graha
 
+| Graha | |
+|---|---|
+| name | Graha |
+| aspect | Vesperian |
+| location | Castle Light |
+| affiliation | The Divers |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +32,7 @@ Graha is located in [Castle Light](Castle_Light.md), on the second floor next to
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>This stove is the only place to cook <i>anything</i> down here! Most of our meals are Urchin Stew, though.. not much else around here to cook. I just throw three of 'em over the heat and call it a day.</td>

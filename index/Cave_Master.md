@@ -1,6 +1,6 @@
 ---
 title: Cave Master
-revid: 190524
+revid: 191353
 source: https://deepwoken.fandom.com/wiki/Cave_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -82,14 +82,14 @@ Fruits of the Cave
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Yawn.*</i> What's that? Y'here to buy somethin'? I'm tryin' to keep a low profile, so be quick about it.<br>
   [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

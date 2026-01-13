@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 188804
+revid: 191347
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -32,7 +32,7 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
 <table>
 <tbody>
 <tr>
-  <td colspan="24">Begin</td>
+  <td colspan="24">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="24">Oh, hey! We don't get non-business visitors often. What's up?</td>
@@ -48,7 +48,7 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
 <tr>
   <td colspan="6">I'm a traveller.</td>
   <td colspan="6">Is the work here stressful?</td>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">I remember my days of travel too... sometimes i miss it! Eventually though, family calls, and responsabilities and such... For a brief moment at least, adventure can fill taht sort of unrequited wanderlust. After it passes though, resting feels the best!</td>
@@ -68,7 +68,7 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
 <tr>
   <td colspan="3">Nice.</td>
   <td colspan="3">Picked?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
   <td colspan="12"></td>
 </tr>
 <tr>
@@ -77,7 +77,7 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
   <td colspan="12"></td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
   <td colspan="6"></td>
   <td colspan="12"></td>
 </tr>

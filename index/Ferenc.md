@@ -1,6 +1,6 @@
 ---
 title: Ferenc
-revid: 189646
+revid: 191433
 source: https://deepwoken.fandom.com/wiki/Ferenc
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]
@@ -37,13 +37,13 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Blade glances at you in passing.*</i> Hey, you. If you ever get in trouble with the resistance - the Etrean Royalists, and the Vigils... You know who to look for.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -53,7 +53,7 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The guard glances at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
@@ -98,7 +98,7 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>

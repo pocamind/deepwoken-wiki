@@ -1,14 +1,18 @@
 ---
 title: Lucy
-revid: 189656
+revid: 191526
 source: https://deepwoken.fandom.com/wiki/Lucy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]
+categories: [Gremor NPCs, NPCs, NPCs located in the First Layer, Individuals with unspecified pronouns]
 ---
 
 # Lucy
 
-Template:NpcInfobox
+| Lucy | |
+|---|---|
+| name | Lucy |
+| aspect | Gremor |
+| location | The City of the Drowned |
 
 ## Description
 
@@ -23,7 +27,7 @@ Lucy is located in [The City of the Drowned](The_City_of_the_Drowned.md), hiding
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Voices... Don't you hear them? They won't stop. No matter how I ask them.</td>

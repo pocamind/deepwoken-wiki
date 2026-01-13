@@ -1,6 +1,6 @@
 ---
 title: Guild Librarian
-revid: 188826
+revid: 191458
 source: https://deepwoken.fandom.com/wiki/Guild_Librarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]
@@ -28,7 +28,7 @@ The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh. Hello, [First Name]. Did you require something of me?</td>
@@ -45,7 +45,7 @@ The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md
   <td colspan="4">Player has recently donated a book</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
   <td>Book is not in Library</td>
   <td>Book is already in Library</td>
   <td colspan="2">Er. My eyes aren't quite as good as they used to be... Would you mind holding it out?</td>
@@ -56,11 +56,11 @@ The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md
   <td>Ah, yes! This tome is fascinating... Let me thank you on behalf of the rest of the Guild. Anything else?</td>
   <td>Ah. I'm afraid this volume has already been donated. Perhaps you might continue to keep it as a personal copy?</td>
   <td colspan="2">Sorry, here it is.</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>How about this?</td>
   <td colspan="2">[See "<font>I'd like to donate a book to the Library.</font>"]</td>
 </tr>
@@ -76,7 +76,7 @@ The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Er. Hello. Do you have a reason for interrupting me or might I get back to categorising the volumes?</td>
@@ -88,7 +88,7 @@ The **Guild Librarian** is an NPC located inside of [Guild Bases](Guild_Bases.md
   <td>Ah. I'm afraid that the books in this library are off limits to those who are not members of the Guild. And don't you dare try pilfering any of the tomes here. I've got my eye on you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

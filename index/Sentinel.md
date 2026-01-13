@@ -1,6 +1,6 @@
 ---
 title: Sentinel
-revid: 188168
+revid: 191621
 source: https://deepwoken.fandom.com/wiki/Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
@@ -30,7 +30,7 @@ Sentinel is located under [Etris](Etris.md) in a run-down house.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>...</td>

@@ -1,6 +1,6 @@
 ---
 title: Yen
-revid: 187365
+revid: 191700
 source: https://deepwoken.fandom.com/wiki/Yen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
@@ -37,7 +37,7 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The guard looks you up and down.*</i> Consider yourself lucky, stranger - you've got no business with me. But if you ever find yourself in a spot of trouble with the Royalists, the Old Guard... We may have something to talk about.</td>
@@ -53,7 +53,7 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The guard glances at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
@@ -98,7 +98,7 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>

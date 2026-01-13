@@ -1,6 +1,6 @@
 ---
 title: Amenre Skiggle Bop
-revid: 189016
+revid: 191312
 source: https://deepwoken.fandom.com/wiki/Amenre_Skiggle_Bop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -35,7 +35,7 @@ Amenre Skiggle Bop location, watch tower on the left.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Gods below, the Kyrsan Break...</td>

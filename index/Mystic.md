@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 189560
+revid: 191562
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, Talents]

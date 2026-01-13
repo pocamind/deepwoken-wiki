@@ -1,6 +1,6 @@
 ---
 title: Sordino
-revid: 188874
+revid: 191639
 source: https://deepwoken.fandom.com/wiki/Sordino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, NPCs located in the Eastern Luminant, NPCs, Quests]
@@ -58,7 +58,7 @@ Sordino's Marvellous Menagerie
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Roll up, roll up! Come feast yer eyes on the remarkably tame 'n' trained beasties of Sordino's menag'rie!</td>
@@ -87,7 +87,7 @@ Sordino's Marvellous Menagerie
 <tr>
   <td colspan="4">Aye, tis a rarity to see us nowadays. We have a penchant for gettin' ourselves torn to pieces by big nasty beasties. I prefer jus' raisin' the things. Actually, speakin' of which...</td>
   <td colspan="2">Way I do things, yeh? I need a nice fresh egg from one of their nests. Then I can work my magic on 'em 'fore they grow up and get all angry and bitey and all that.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4">Let me guess, you need more eggs?</td>
@@ -97,7 +97,7 @@ Sordino's Marvellous Menagerie
   <td colspan="6">Hah! A shrewd eye on ya. Aye, times've been hard on ol' Sordino, and me last batch'a beasties all got snapped up. If ye can fetch me a Thresher Egg, I can make sure yer rewarded.</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -107,7 +107,7 @@ Sordino's Marvellous Menagerie
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Any luck wi' that egg? I assume not <i>bad</i> luck on account of ye still standin' wi' all yer limbs 'n' that, but. Any <i>good</i> luck?</td>
@@ -128,11 +128,11 @@ Sordino's Marvellous Menagerie
 <tr>
   <td>Wa-hey! What fortune this is! I owe ye one!</td>
   <td>Not nice to play tricks on people, it ain't. I'd never do nothin' of the sort, me.</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>So, about that reward...</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>Heh, straight to business. Now, see, I don't offer this to jus' anyone, but, should any of me beasties be catchin' yer eye... P'raps I'd let ye take care of them.</td>
@@ -144,7 +144,7 @@ Sordino's Marvellous Menagerie
   <td>Ah, no, see, it's not jus' the Beastmaster stuff I up me sleeve. Got meself one of them fancy musical magic hip things, I do. If ye agree to it, I can, er. Do a switcheroo on the critter's memories, yeh? Swap the memories of me with memories of ye.</td>
 </tr>
 <tr>
-  <td>End, Sordino's Marvellous Menagerie is unlocked</td>
+  <td>[End Dialogue], Sordino's Marvellous Menagerie is unlocked</td>
 </tr>
 </tbody>
 </table>
@@ -154,7 +154,7 @@ Sordino's Marvellous Menagerie
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Well well well, if it ain't my favourite customer! Any of my beasties take yer fancy?</td>
@@ -184,7 +184,7 @@ Sordino's Marvellous Menagerie
   <td colspan="2">Naw. Right nasty one he was. Cheated at cards the one time. Deserved it.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Trig
-revid: 188881
+revid: 191678
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
@@ -52,7 +52,7 @@ Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildha
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>What do you want? I'm busy.</td>
@@ -67,7 +67,7 @@ Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildha
   <td>Sounds good.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +77,7 @@ Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildha
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Player has not retrieved the money from Asius</td>
@@ -89,7 +89,7 @@ Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildha
   <td colspan="2">Player has retrieved the money from Asius</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="2">No, and you won't be getting your money.</td>
   <td colspan="2">Here. [Hand over papers]</td>
 </tr>
@@ -102,7 +102,7 @@ Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildha
   <td colspan="2"></td>
   <td>Nope.</td>
   <td>Uh, just a joke.</td>
-  <td colspan="2">End, player gains Summer Company Reputation</td>
+  <td colspan="2">[End Dialogue], player gains Summer Company Reputation</td>
 </tr>
 <tr>
   <td colspan="2"></td>
@@ -111,8 +111,8 @@ Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildha
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>End</td>
-  <td>End, player loses Summer Company reputation and 3 Summer Company Guards spawn to attack</td>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], player loses Summer Company reputation and 3 Summer Company Guards spawn to attack</td>
 </tr>
 </tbody>
 </table>
@@ -122,13 +122,13 @@ Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildha
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hm? I'm busy, leave me alone.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

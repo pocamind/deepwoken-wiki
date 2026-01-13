@@ -1,6 +1,6 @@
 ---
 title: Authority Captain (Test)
-revid: 184759
+revid: 191329
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_(Test)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Articles with conjectural titles, Stub pages without reason, StubPages, Central Authority Enemies, Enemies]
@@ -12,7 +12,13 @@ notices:
 
 # Authority Captain (Test)
 
-Template:Creature Infobox V3
+| Authority Captain | |
+|---|---|
+| health | ??? |
+| attacks | Assault, Critical, Jolt Grab, Emotion Wave, Thunder Balls |
+| drops | ??? |
+| locations | Isle of the Crows |
+| affiliation | The Central Authority |
 
 ## Description
 

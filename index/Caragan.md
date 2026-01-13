@@ -1,12 +1,21 @@
 ---
 title: Caragan
-revid: 191181
+revid: 191350
 source: https://deepwoken.fandom.com/wiki/Caragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
 ---
 
 # Caragan
+
+| Caragan | |
+|---|---|
+| name | Caragan |
+| aspect | Etrean |
+| pronouns | He/him[1] |
+| location | Etris |
+| affiliation | Etrea |
+| family | Baragan (brother), Unnamed grandfather (deceased), Unnamed father (deceased), Unnamed children |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +24,6 @@ This content is not accessible outside of this gamemode.
 “ It's the same reason so many people remain here - tradition. ”
 
 ― Caragan
-
-Template:NpcInfobox
 
 ## Description
 
@@ -77,7 +84,7 @@ Smithy's Tools
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td>
@@ -89,7 +96,7 @@ Smithy's Tools
   <td><i>*The smith seems taken aback.*</i> Interested in my story, then? I'm afraid it might not be quite so elaborate as yours. It's the same reason so many people remain here - tradition. My father and his father before him worked this shop. But the tides are changing, so they say. Maybe my children won't take up after me, after all. The apprentice I've got learning the ropes ain't too bad.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -101,7 +108,7 @@ This dialogue is unlocked if the player has spoken to [Baragan](Baragan.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Oh? Did you need something? There's materials on the table over there, I'd have my apprentice fetch you a drink but I don't know where he ran off to.</td>
@@ -113,7 +120,7 @@ This dialogue is unlocked if the player has spoken to [Baragan](Baragan.md).
   <td>No... Oh you must've met my brother. He smiths over at the Blade Temple across the <a href="Glossary.md#the-luminants">Luminant</a>. Nobody would buy his weapons here so he packed up and moved.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -121,3 +128,7 @@ This dialogue is unlocked if the player has spoken to [Baragan](Baragan.md).
 ## Trivia
 
 -   Baragan mentions materials on a table, but due to the centralization of purchasable materials with NPC interfaces, there are no tables to be over there.
+
+## References
+
+1.  [↑](#cite-ref-1) [Baragan](Baragan.md)

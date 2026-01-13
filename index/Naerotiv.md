@@ -1,12 +1,18 @@
 ---
 title: Naerotiv
-revid: 189024
+revid: 191564
 source: https://deepwoken.fandom.com/wiki/Naerotiv
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Naerotiv
+
+| Naerotiv | |
+|---|---|
+| name | Naerotiv |
+| species | Kyrsan |
+| location | Kyrsan Wilds |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +21,6 @@ This content is not accessible outside of this gamemode.
 “ ...The spirit of my brother and the spirit of Kyrsa will stand with you should you invoke their blessings. ”
 
 ― Naerotiv
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +39,7 @@ Naerotiv urges you to set their kind free by completing the ritual and sealing t
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Aelahi, frinwalter- ah. You are not.. one of us. Why are you here, frinwalter? This is no place for man.</td>

@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 191250
+revid: 191628
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -55,7 +55,7 @@ Sev's Boutique
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Gwoh hoh hoh hoh! My my my, for a few Crowns I could make you the talk of the <a href="Glossary.md#the-luminants">Luminant</a>!<br>
@@ -91,7 +91,7 @@ Sev's Boutique
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">[Player did not bring up Sev's fashion sense]</td>

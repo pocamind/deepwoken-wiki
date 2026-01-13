@@ -1,6 +1,6 @@
 ---
 title: Jessamine
-revid: 188832
+revid: 191487
 source: https://deepwoken.fandom.com/wiki/Jessamine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -39,7 +39,7 @@ Jessamine is located underneath some ruins. They are near the Legion Camp that i
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Tch.. I'm afraid I cannot push myself further. Keep your wits about you in this place, lest you want to meet an untimely end.</td>
@@ -68,7 +68,7 @@ Jessamine is located underneath some ruins. They are near the Legion Camp that i
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -78,7 +78,7 @@ Jessamine is located underneath some ruins. They are near the Legion Camp that i
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Friend, I've been waiting for the opportunity to see you again!</td>
@@ -96,8 +96,8 @@ Jessamine is located underneath some ruins. They are near the Legion Camp that i
   <td colspan="2">Bountiful, friend! While you distracted them, I managed to locate and collect a wonderful amount. Here, as my thanks, this is a precious one. You've saved me a lot of headaches today, heh.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="2">End, player obtains <a href="Echoes.md#echo-talentsitems">Thresher Scales</a></td>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue], player obtains <a href="Echoes.md#echo-talentsitems">Thresher Scales</a></td>
 </tr>
 </tbody>
 </table>
@@ -107,13 +107,13 @@ Jessamine is located underneath some ruins. They are near the Legion Camp that i
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Friend, you have surely saved my business. Thank you, may you find a bounty as rich as mine that day.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

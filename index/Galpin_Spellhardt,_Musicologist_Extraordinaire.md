@@ -1,6 +1,6 @@
 ---
 title: "Galpin Spellhardt, Musicologist Extraordinaire"
-revid: 179006
+revid: 191446
 source: https://deepwoken.fandom.com/wiki/Galpin_Spellhardt%2C_Musicologist_Extraordinaire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
@@ -65,7 +65,7 @@ Galpin is a Musicologist who was also a faculty chair at The Empyrean College of
 <tr>
   <td>2. If I could ask - what do you need Joy for, anyway?</td>
   <td>1. Sure, I'll get right to it.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>*<i>Galpin furrows his brow frustratedly and twiddles his thumbs, his eyes darting down.</i>* It is Hallowtide tradition amongst our kin to hand out treats and sweets to our young for the festival. However, fine Lysander hath appointed himself the Minister of Treats, and decreed that nary a morsel will go to the grown ups until after the festivities, unless we bring him Joy! And, my dear fellow, I have a <b>very</b> sweet tooth. I knowst the rapscallion hath more than enough to share - but fine! I shalt play his foolish game. Wilt thou aid me?</td>
@@ -87,13 +87,13 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">*<i>The elderly-looking Lightborn looks up at you from the musical broadsheet he is examining.</i>* Hoy! A surface dweller! Though, I see on thine face that thou art a little clueless about the goings-on here... Why not speak to Lysander first? He shalt explain everything to thee.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +103,7 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hoy! Welcome back, friend! I see it on thine face - I shalt have my sweets yet! Hast thou accrued much Joy yet, friend?</td>
@@ -147,7 +147,7 @@ This Dialogue appears when you haven't made the [Hallowtide Mask](Hallowtide_Mas
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I've spooked about... [number] people, maybe? I'd like to trade my Joy in.</td>
@@ -193,7 +193,7 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I've spooked about... 0 people, maybe? I'd like to trade my Joy in.</td>
@@ -202,7 +202,7 @@ This Dialogue appears when you have exactly Zero [Joy](Joy.md) and you try to bu
   <td colspan="12">Hmpf! No Joy to tempt Lysander with, no sweets for me - and no deals for thee, I am afraid! Returnst to me when thou hast scared some people, friend.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

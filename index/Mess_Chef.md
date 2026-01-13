@@ -1,6 +1,6 @@
 ---
 title: Mess Chef
-revid: 188844
+revid: 191548
 source: https://deepwoken.fandom.com/wiki/Mess_Chef
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base, Vendors]
@@ -33,13 +33,13 @@ The **Mess Chef** is an NPC located inside of [Guild Bases](Guild_Bases.md). The
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ahh [First Name]! You wish for a morsel? Yes? A bite? I will do my best to indulge your tastes!</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -49,13 +49,13 @@ The **Mess Chef** is an NPC located inside of [Guild Bases](Guild_Bases.md). The
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ahh... You fancy a bite? A morsel of my finest offering? I will do my best to indulge...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

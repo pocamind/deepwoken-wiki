@@ -1,6 +1,6 @@
 ---
 title: Flamecharm Obelisk
-revid: 177475
+revid: 191435
 source: https://deepwoken.fandom.com/wiki/Flamecharm_Obelisk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -24,13 +24,13 @@ It can only be interacted with if you have at least 15 [Flamecharm](Flamecharm.m
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">[Jace] I've seen what happens when fire burns too hot. It leaves nothing behind but ruin. If you choose this path, remember. you will never be the same. Flame is both a gift and a curse, and it will show you what you're made of...</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

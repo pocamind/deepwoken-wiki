@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 187573
+revid: 191638
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -32,7 +32,7 @@ The Soothsayer is an NPC wearing a [Prophet's Cloak](<Prophet's_Cloak.md>), loca
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Oh! Oh oh. You see it, don't you? Won't you share your Knowledge with me? Please?</td>
@@ -65,7 +65,7 @@ The Soothsayer is an NPC wearing a [Prophet's Cloak](<Prophet's_Cloak.md>), loca
   <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

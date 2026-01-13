@@ -1,22 +1,27 @@
 ---
 title: Emil
-revid: 191203
+revid: 191416
 source: https://deepwoken.fandom.com/wiki/Emil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Emil
 
+| Emil | |
+|---|---|
+| name | Emil |
+| aspect | Etrean |
+| location | Temple Sparring Hall |
+| affiliation | Etrea |
+
 Variants: [Avian](Avian.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +40,7 @@ Emil is located inside of the [Temple Sparring Hall](Temple_Sparring_Hall.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Sss. How did he get so good with the blade? I can be just as strong, I'll have everyone in the temple acknowledge it.</td>
@@ -68,7 +73,7 @@ Emil is located inside of the [Temple Sparring Hall](Temple_Sparring_Hall.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">You get your hands on a one [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] of those Manuals?</td>
@@ -98,7 +103,7 @@ Emil is located inside of the [Temple Sparring Hall](Temple_Sparring_Hall.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>

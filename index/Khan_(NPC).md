@@ -1,6 +1,6 @@
 ---
 title: Khan (NPC)
-revid: 187824
+revid: 191503
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -36,7 +36,7 @@ Khan located underneath [Etris](Etris.md) in a small ruined house.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You need to be going now friend, you are not the one I wait for.</td>
@@ -54,7 +54,7 @@ This dialogue appears if the player has the "Lost Books" quest.
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Ah, hello. I see my friend let you in.</td>

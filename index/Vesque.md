@@ -1,18 +1,23 @@
 ---
 title: Vesque
-revid: 189636
+revid: 191685
 source: https://deepwoken.fandom.com/wiki/Vesque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Vesque
 
+| Vesque | |
+|---|---|
+| name | Vesque |
+| aspect | Etrean |
+| location | Isle of Vigils |
+| affiliation | Etrea |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -93,7 +98,7 @@ Vesque is located in the [Isle of Vigils](Isle_of_Vigils.md) standing under a sm
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Your stance could do with some work. Your shoulders and footwork are all off.</td>

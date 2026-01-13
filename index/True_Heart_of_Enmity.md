@@ -1,14 +1,21 @@
 ---
 title: True Heart of Enmity
-revid: 190613
+revid: 191679
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with reference errors, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
+categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # True Heart of Enmity
+
+| True Heart of Enmity | |
+|---|---|
+| health | 18,000 |
+| attacks | Enmity's Call, Homerun Bat[1], Sadistic Fury, Reposition, Sadistic Edge, Spread, Obsidian Wings, The Brutalizer, Condemnation's Fall, I Shall Make This Agony Everlasting, Your Arrogance Must Pay The Price Of This Bargain |
+| drops | Rings, Deep Gems, Extra Thick Overcoat, Par's Glaive, Beginner's Brace, Beginner's Boots, Cerulean Thread, Champion's Cape, Edenbrand Hellcoil, Vapordrop Earrings, Trueblood Earrings, Sanguine Candle, Sorcerer's Mantle, Sorcerer's Brim, Wretched MawbladesSee loot pool |
+| locations | Cathedral of the Interstice |
 
 Variants: [Heart of Enmity](Heart_of_Enmity.md)
 
@@ -19,8 +26,6 @@ This content is not accessible outside of this gamemode.
 “ Ah, the vainglorious folly... I shall make this agony everlasting. ”
 
 ― Voice of Enmity
-
-Template:Creature Infobox V3
 
 ## Description
 
@@ -264,4 +269,4 @@ TBA
 
 ## References
 
-1.  [↑](#cite-ref-homerun-1-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `HOMERUN`
+1.  ↑ [1.0](#cite-ref-homerun-1-0) [1.1](#cite-ref-homerun-1-1) [Version History: December 13th, 2025](Version_History/Uncollapsed.md#december-13th-2025)

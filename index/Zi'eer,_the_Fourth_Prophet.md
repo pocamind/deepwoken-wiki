@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 189661
+revid: 191703
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies]
@@ -9,6 +9,14 @@ notices:
 ---
 
 # Zi'eer, the Fourth Prophet
+
+| Zi'eer, the Fourth Prophet | |
+|---|---|
+| health | 18800 (Shield) |
+| attacks | Tendril Cage, Tendril Uprising, Flash Equalizer, Tendril Cascade, Brushstrokes of Black, Dash Kick, Prophet's Drop Punch, Blinking Divebomb, Reeled Requiem, Enhanced Requiem, Blinkstrike, Lightspeed Strike, The Master Of The House |
+| drops | Solborn Memento |
+| locations | The Throne of Lies |
+| affiliation | The Ministry, Etrea |
 
 Variants: [The Lord Regent](The_Lord_Regent.md)
 
@@ -19,8 +27,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 “ \*Zi'eer chuckles.\* So it seems honour comes to reclaim its lost child. You fools simply misunderstand - I have found a power far greater than your impotent little Vow. ”
 
 ― Zi'eer, the Fourth Prophet
-
-Template:Creature Infobox V3
 
 ## Description
 

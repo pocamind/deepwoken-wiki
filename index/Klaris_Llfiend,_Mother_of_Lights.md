@@ -1,12 +1,21 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 190936
+revid: 191504
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
+categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
 ---
 
 # Klaris Llfiend, Mother of Lights
+
+| Klaris Llfiend, Mother of Lights | |
+|---|---|
+| name | Klaris Llfiend |
+| alias | Mother of Lights |
+| aspect | Canor |
+| pronouns | She/her |
+| location | Castle Light |
+| affiliation | The Divers |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +24,6 @@ This content is not accessible outside of this gamemode.
 “ You've done a great deal for us. This is the least we can offer in gratitude. ”
 
 ― Klaris after handing in all Diver Journals
-
-Template:NpcInfobox
 
 ## Description
 
@@ -70,7 +77,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Someone competent? That's rare.</td>
@@ -134,7 +141,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ugh, I don't have time to train you Apprentices. <b>SCRAM!</b></td>
@@ -152,7 +159,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
@@ -175,7 +182,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Player returning to Klaris after a Layer 2 run</td>
@@ -203,7 +210,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
@@ -242,7 +249,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
@@ -280,7 +287,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
@@ -318,7 +325,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, you're back. If you're up for it, another expedition would surely further our understanding of the <a href="Glossary.md#the-eternal-gale-the-second-layer">Second Layer</a>.</td>
@@ -356,7 +363,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="20">Begin</td>
+  <td colspan="20">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Talked to Nimea</td>
@@ -415,7 +422,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">What do you have to offer?</td>
@@ -454,7 +461,7 @@ Radiant Teachings
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Not having Dawnwalker</td>

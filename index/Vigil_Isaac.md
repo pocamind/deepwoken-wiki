@@ -1,6 +1,6 @@
 ---
 title: Vigil Isaac
-revid: 188107
+revid: 191687
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -47,7 +47,7 @@ Vigil Isaac is located initially at [Upper Erisia](Upper_Erisia.md), sitting inj
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Please... A Gale Stone...</td>
@@ -82,7 +82,7 @@ Vigil Isaac is located initially at [Upper Erisia](Upper_Erisia.md), sitting inj
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I'll be heading back soon, 'Walk with the Wind' stranger.</td>
@@ -98,7 +98,7 @@ Vigil Isaac is located initially at [Upper Erisia](Upper_Erisia.md), sitting inj
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Thank you for your help, 'Walk with the Wind' stranger.</td>

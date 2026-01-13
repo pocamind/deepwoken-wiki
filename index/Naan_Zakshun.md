@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 191243
+revid: 191563
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, Circle of Honour members]
@@ -51,7 +51,7 @@ It is overlooked by the nearby Diver Camp.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Lookie what the tides washed up. You here for my gear, or just lost? If it's the latter you ought to turn tail.</td>
@@ -79,7 +79,7 @@ It is overlooked by the nearby Diver Camp.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Back again? Prft~ Here to actually buy, or just stare?</td>
@@ -103,7 +103,7 @@ It is overlooked by the nearby Diver Camp.
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td>When accessing the Salvaged Stock</td>
@@ -127,7 +127,7 @@ It is overlooked by the nearby Diver Camp.
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td>When accessing the Black Market</td>

@@ -1,6 +1,6 @@
 ---
 title: Soul Hearthgem
-revid: 187527
+revid: 191640
 source: https://deepwoken.fandom.com/wiki/Soul_Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Quest Item]
@@ -35,7 +35,7 @@ Soul Hearthgems can be found at the [The Garden Reservoir](The_Garden_Reservoir.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*You find a strange looking hearthgem alight with a purple flame.*</i></td>
@@ -52,8 +52,8 @@ Soul Hearthgems can be found at the [The Garden Reservoir](The_Garden_Reservoir.
   <td colspan="6"><i>*You already have the gem.*</i></td>
 </tr>
 <tr>
-  <td colspan="6">End, Soul Hearthgem obtained</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue], Soul Hearthgem obtained</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 184637
+revid: 191566
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,13 +8,19 @@ categories: [Monsters]
 
 # Nautilodaunt
 
+| Nautilodaunt | |
+|---|---|
+| health | 1000, 2500 (Corrupted) |
+| drops | Odd Tentacle, Pathfinder Elite (Very Rare), Martial Artist (Semi-Rare), Nautilodaunt Beak (Extremely Rare), Black Diver (Very Rare), Cala-Mariner (Very Rare) |
+| locations | First Layer, The City of the Drowned, The Diluvian Mechanism |
+
 _For the stronger variant that utilizes Thundercall, see [Fury Nautilodaunt](Fury_Nautilodaunt.md)._
 
 “ ...Denizens of Scyphozia, Nautilodaunts are a chilling reminder that those of the Deep are not simply mindless monsters, but can possess startling intelligence. ”
 
 ― Odd Tentacle description
 
-Mostly referred to as "Squibbo". Template:Creature Infobox V3
+Mostly referred to as "Squibbo".
 
 ## Description
 

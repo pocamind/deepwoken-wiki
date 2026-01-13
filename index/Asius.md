@@ -1,6 +1,6 @@
 ---
 title: Asius
-revid: 180973
+revid: 191323
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
@@ -35,13 +35,13 @@ Asius is located in [Summer Isle](Summer_Isle.md). He can be found behind the In
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Hey get away, I don't want any attention over here.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -55,7 +55,7 @@ This dialogue is unlocked if the player has started [Trig](Trig.md)'s quest.
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Hey get away, I don't want any attention over here.</td>
@@ -75,7 +75,7 @@ This dialogue is unlocked if the player has started [Trig](Trig.md)'s quest.
   <td colspan="2">Geeze RELAX! Here, take the papers for my ship. It's all I have.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@ This dialogue is unlocked if the player has started [Trig](Trig.md)'s quest.
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Don't tell me you need something else?</td>
@@ -97,7 +97,7 @@ This dialogue is unlocked if the player has started [Trig](Trig.md)'s quest.
   <td colspan="4">Geeze RELAX! Here, take the papers for my ship. It's all I have.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

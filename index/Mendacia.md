@@ -1,6 +1,6 @@
 ---
 title: Mendacia
-revid: 188911
+revid: 191544
 source: https://deepwoken.fandom.com/wiki/Mendacia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, NPCs located in the Second Floor of the Second Layer, Quests]
@@ -39,7 +39,7 @@ Upon arriving to New Kyrsa she will be in front of the first obelisk near the sp
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Wait.. You can see me?</td>
@@ -96,7 +96,7 @@ These dialogues are unlocked if the player chooses the option "I promise." to co
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, my soon to be hero. <i>*She laughs, then smiles a little.*</i> What's your plan here? It took you quite a while.</td>
@@ -130,7 +130,7 @@ These dialogues are unlocked if the player chooses the option "I promise." to co
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You've made it so far! Down below is <a href="Glossary.md#the-city-of-new-kyrsa">New Kyrsa</a>. The <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsans</a> are holding me in the center of the City.</td>
@@ -152,7 +152,7 @@ These dialogues are unlocked if the player chooses the option "I promise." to co
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You did it... You freed me.</td>

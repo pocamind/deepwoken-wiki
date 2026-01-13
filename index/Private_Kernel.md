@@ -1,18 +1,26 @@
 ---
 title: Private Kernel
-revid: 190991
+revid: 191592
 source: https://deepwoken.fandom.com/wiki/Private_Kernel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Private Kernel
 
+| Private Kernel | |
+|---|---|
+| name | Cornelius Kernel Jr.[1][2] |
+| alias | Struggling Guard |
+| aspect | Celtor |
+| pronouns | He/him |
+| location | Fort Merit |
+| affiliation | The Central Authority |
+| family | Drill Sergeant Kernel (father)[3] |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +37,7 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md), standing
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The guard mumbles something as you approach, unaware of you.*</i> ...they couldn't even get a helm my size, can't see a damned thing with this...</td>
@@ -88,8 +96,12 @@ Private Kernel is located in the prison of [Fort Merit](Fort_Merit.md), standing
 ## Trivia
 
 -   Before the player chooses the dialogue option "Why does he scare you, private?", Private Kernel is named as "Struggling Guard."
--   His full name is a play on the words corn kernel.[\[1\]](#cite-note-1)
+-   His full name is a play on the words corn kernel.[\[4\]](#cite-note-4)
 
 ## References
 
-1.  [↑](#cite-ref-1)
+1.  [↑](#cite-ref-1) NPC dialogue: [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)  
+    _I only hope **MY SON**, Kernel Junior, can follow in your example!_
+2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3) While Private Kernel is never explicitly stated to be Drill Sergeant Kernel's son, the fact they are the only Celtor with the surname "Kernel" found within Fort Merit all but confirms the private is Cornelius Kernel Jr.
+4.  [↑](#cite-ref-4)

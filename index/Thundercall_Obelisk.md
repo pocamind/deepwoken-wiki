@@ -1,6 +1,6 @@
 ---
 title: Thundercall Obelisk
-revid: 177481
+revid: 191668
 source: https://deepwoken.fandom.com/wiki/Thundercall_Obelisk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -24,13 +24,13 @@ It can only be interacted with if you have at least 15 [Thundercall](Thundercall
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">[Tessa] Thundercall, huh? You want that power? That zing that comes with it? But remember thundercall isn't something you can control easily, not even if you try really hard.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

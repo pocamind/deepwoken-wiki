@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 189049
+revid: 191729
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -222,11 +222,9 @@ The appearance of his servants signals that you are close to victory, as you can
 
 For enchanted weapons, **[Vampirism](Vampirism.md)** is the most recommended option, as it allows you to heal off the Duke in the second phase. This is particularly useful if he doesn't summon his servants, which can happen. Alternatively, you can opt for high-damage enchants like **Detonation** or **Astral**, but Vampirism provides a much safer approach.
 
-While Duke Erisia is immune to instant guardbreaks, his posture pool is incredibly low, meaning most instant guardbreaks will still posture break him. With a [Stone](Stone.md) 10+ Weight Weapon such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) combined with a [Heavy Hands Ring](Heavy_Hands_Ring.md) and [Ardour Scream](Murmur%253A_Ardour.md), you can obliterate his posture and guardbreak him with every M1.
+While Duke Erisia is immune to instant guardbreaks, his posture pool is relatively low.
 
 The fight will automatically begin if you attempt to assassinate him.
-
-Because the **Mindless Servants** can interfere with your attacks, **Mercy Kill** is a highly effective ability against them, as it can instantly eliminate low-health enemies. If you do not have this ability, you can bait the Duke's auto-gripping attacks to quickly deal with them.
 
 In the second phase, the Duke becomes very defensive and blocks frequently. The **[Enforcer's Axe](<Enforcer's_Axe.md>)** and **[Enforcer's Hammer](<Enforcer's_Hammer.md>)** are excellent choices for heavy weapons, as they can quickly break through his posture.
 
@@ -317,7 +315,7 @@ Exhaustive Loot Table
 <table>
 <tbody>
 <tr>
-  <td colspan="18">Begin</td>
+  <td colspan="18">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="18">So you're the one running about tripping my alarms. Care to explain yourself?<br>
@@ -336,7 +334,7 @@ Exhaustive Loot Table
 </tr>
 <tr>
   <td colspan="6">That 'thing'? Agent?</td>
-  <td colspan="6">End, fight starts</td>
+  <td colspan="6">[End Dialogue], fight starts</td>
   <td colspan="6">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.<br>
   </td>
 </tr>
@@ -344,7 +342,7 @@ Exhaustive Loot Table
   <td colspan="6"><i>*Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
   </td>
   <td colspan="6"></td>
-  <td colspan="6">End, fight starts</td>
+  <td colspan="6">[End Dialogue], fight starts</td>
 </tr>
 <tr>
   <td colspan="6">What?</td>
@@ -370,7 +368,7 @@ Exhaustive Loot Table
   </td>
 </tr>
 <tr>
-  <td colspan="6">End, fight starts</td>
+  <td colspan="6">[End Dialogue], fight starts</td>
 </tr>
 </tbody>
 </table>
@@ -380,7 +378,7 @@ Exhaustive Loot Table
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">The ruins of that city will never cage me. And with what's at stake... I can't stop now.<br>
@@ -400,7 +398,7 @@ Exhaustive Loot Table
   </td>
 </tr>
 <tr>
-  <td colspan="12">End, fight starts</td>
+  <td colspan="12">[End Dialogue], fight starts</td>
 </tr>
 </tbody>
 </table>

@@ -1,12 +1,20 @@
 ---
 title: Dread Serpent
-revid: 190140
+revid: 191405
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
 ---
 
 # Dread Serpent
+
+| Dread Serpent | |
+|---|---|
+| health | 50,000 |
+| attacks | Dread Breath, Claw Swipe, Tail Swipe |
+| drops | Large Chest, Murmur: Ardour, Ardour Manifestation, Dread Serpent's Tooth (direct drop), Dread Flesh (direct drop), Enchant Stone, Petra's Anchor, Anklets of Alsin, Wyrmtooth, and rarely a Dormant Splinter, Gumshoe Longcoat, Brilliant Cape, Crystal Pendant Earrings, Misc. (See Lootpool) |
+| locations | Voidsea |
+| challenges | -- Dread Serpent --, The Mortal Edenkite - Slay 10.Reward: +15% DMG; +7.5% RES |
 
 _Commonly referred to by the community as Kaido (Developers prefer that it is referred to as the Dread Serpent)._
 
@@ -15,7 +23,6 @@ _Commonly referred to by the community as Kaido (Developers prefer that it is re
 ― Lumen’s Folklore: Volume ‘North’
 
   
-Template:Creature Infobox V3
 
 ## Description
 

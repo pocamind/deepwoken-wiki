@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Unification
-revid: 184694
+revid: 191391
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Unification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -45,7 +45,7 @@ For 5 and 2 Talents of your choice, get a Whisper Draw.
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">PUPPET. STATE YOUR PURPOSE.</td>
@@ -68,15 +68,15 @@ For 5 and 2 Talents of your choice, get a Whisper Draw.
 </tr>
 <tr>
   <td colspan="2">[The same UI is displayed, this time without the Talent you've just chosen]</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td>[Player chooses a Talent and clicks Submit]</td>
   <td>[Player clicks Cancel]</td>
 </tr>
 <tr>
-  <td>End, player loses 5 and 2 Talents to gain a <a href="../Whisper_Draw.md">Whisper Draw</a></td>
-  <td>End</td>
+  <td>[End Dialogue], player loses 5 and 2 Talents to gain a <a href="../Whisper_Draw.md">Whisper Draw</a></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -88,7 +88,7 @@ For 5 and 2 Talents of your choice, get a Whisper Draw.
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">PUPPET. STATE YOUR PURPOSE.</td>
@@ -106,7 +106,7 @@ For 5 and 2 Talents of your choice, get a Whisper Draw.
   <td colspan="4">FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -118,13 +118,13 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">PUPPET. RETURN ONCE YOU HAVE DECIDED YOUR PATH. THIS WE CANNOT DIVINE FOR YOU.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -134,13 +134,13 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">RETURN AT ANOTHER TIME, PUPPET.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

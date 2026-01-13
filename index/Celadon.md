@@ -1,6 +1,6 @@
 ---
 title: Celadon
-revid: 188805
+revid: 191355
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs]
@@ -37,13 +37,13 @@ Celadon is located in [Summer Isle](Summer_Isle.md). Inside the Guildhall/Inn, g
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -57,13 +57,13 @@ This dialogue is unlocked if the player has asked [Cerulean](Cerulean.md) **"Whe
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Those eyes.. you wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -73,13 +73,13 @@ This dialogue is unlocked if the player has asked [Cerulean](Cerulean.md) **"Whe
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

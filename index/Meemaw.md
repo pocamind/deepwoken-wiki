@@ -1,6 +1,6 @@
 ---
 title: Meemaw
-revid: 188062
+revid: 191543
 source: https://deepwoken.fandom.com/wiki/Meemaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Quests]
@@ -38,7 +38,7 @@ Meemaw is located at [Songseeker Wilds](Songseeker_Wilds.md), standing outside o
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Oh, blast it! Blast it!!! Those <i>villains</i>, those... <i><b>brutes!</b></i> I can't believe this. Damn it all!</td>
@@ -78,7 +78,7 @@ Meemaw is located at [Songseeker Wilds](Songseeker_Wilds.md), standing outside o
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Have ya done it? Have you cleared out this mines yet?</td>
@@ -107,7 +107,7 @@ Meemaw is located at [Songseeker Wilds](Songseeker_Wilds.md), standing outside o
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I won't forget ya, friend! Oh, what a story this'll make one day...</td>

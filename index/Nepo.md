@@ -1,6 +1,6 @@
 ---
 title: Nepo
-revid: 191252
+revid: 191570
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
@@ -39,7 +39,7 @@ Nepo is located on the bridge heading towards the Inn at [Summer Isle](Summer_Is
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The man barely looks up from his book, scowling at you.*</i> I'm on break and your nose seems to be clean, keep it that way.</td>
@@ -55,7 +55,7 @@ Nepo is located on the bridge heading towards the Inn at [Summer Isle](Summer_Is
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*The man barely looks up from his book, scowling at you.*</i> I'm on break, what do you want?</td>
@@ -100,7 +100,7 @@ Nepo is located on the bridge heading towards the Inn at [Summer Isle](Summer_Is
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The man doesn't even look up from his reading*</i></td>

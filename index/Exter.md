@@ -1,6 +1,6 @@
 ---
 title: Exter
-revid: 188819
+revid: 191427
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -31,13 +31,13 @@ Exter is located at Meteor Isle, sitting on a rock in front of ruins.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Something about this place... It speaks to me. I sense something important happened here in the past... Like a fight between great warriors, a spectacle to many...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

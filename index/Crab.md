@@ -1,6 +1,6 @@
 ---
 title: Crab
-revid: 186257
+revid: 191375
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,12 @@ categories: [Monsters]
 
 # Crab
 
-Template:Creature Infobox V3
+| Crab | |
+|---|---|
+| health | 150375 (Corrupted) |
+| attacks | Double Strike |
+| drops | Crustacean Meat |
+| locations | The Diluvian Mechanism |
 
 ## Description
 

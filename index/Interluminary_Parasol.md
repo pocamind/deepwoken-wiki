@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 171168
+revid: 191478
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -8,11 +8,16 @@ categories: [World Event, Monsters, Bosses]
 
 # Interluminary Parasol
 
+| Interluminary Parasol | |
+|---|---|
+| health | 40,000 |
+| drops | Chest, Parasol Planter, Parasol Part (direct drop), Raw Parasol Brain (direct drop), Summer Scarf, Threadwork Summer Scarf, Cerulean Gown, Vigil Sentinel, Seamstress's Attire, Troublemaker's Overcoat, Etc. (Check loot table for more info) |
+| locations | Open Sea (Eastern Luminant) |
+| challenges | -- Interluminary Parasol --, Blot Out The Sun - Slay 10.Reward: +15% DMG; +7.5% RES |
+
 “ The sight of a Parasol is more than enough to make many lose their lunch. It's thought that they act as a form of cross-pollinator for various creatures that make their way from the Depths to Lumen, exchanging the traits and properties between them and dismantling ecosystems by injecting them into a competing niche. ”
 
 ― Parasol Planter Description
-
-Template:Creature Infobox V3
 
 ## Description
 

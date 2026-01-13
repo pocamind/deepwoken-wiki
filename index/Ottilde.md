@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 188854
+revid: 191579
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -34,7 +34,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8"><i>*In contrast to the routine metallic rumbling and screeching of machinery around you, the Chrysid gently gazes off into distances unknown. She turn to peer at you, eyes clouded with a fog that refuses to clear.*</i> Hey, was that your boat that just came in?.. Even if you're just of the sailing sort, ...would you know the way to the <a href="Glossary.md#the-lullaby-isles">Lullaby Isles</a>? I'm having trouble finding anyone whose knowledge spans any further than this <a href="Glossary.md#the-luminants">Luminant</a>.</td>
@@ -49,7 +49,7 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
 </tr>
 <tr>
   <td colspan="4">Family?</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4">Mum lived in the Isles in her youth, surrounded by this deeply extensive family that I could only dream of. It's all she ever spoke about. The festivities, the meals, the dances, all shared together. She'd gush on and on about stories of whatever mischievous antics she and her thrice-removed cousins got up to, or some gossip about the tales of some estranged Aunt. But as she grew older, so did her memory. Her brow would just... furrow... and her lips would purse, telling fewer details of each story, fading, muddling.</td>
@@ -79,8 +79,8 @@ Ottilde is located at [Miner's Landing](<Miner's_Landing.md>) right in front of 
   <td colspan="2">[See previous instance]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

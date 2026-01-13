@@ -1,6 +1,6 @@
 ---
 title: "Dapple-Horned Besul"
-revid: 187707
+revid: 191377
 source: https://deepwoken.fandom.com/wiki/Dapple-Horned_Besul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, The Children of Navae]
@@ -37,7 +37,7 @@ Dapple-Horned Besul is found sitting on a rock with a blanket located at [Meteor
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*A Gremor woman with dappled horns sits atop a blanket, overlooking Meteor Isle. She wears exquisitely-made fur armour, and her arms are covered in nomadic tattoos.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] ...Ah. A homelander. Welcome to Meteor Isle. My people call me Dapple-Horned Besul. What brings you here?</td>
@@ -83,7 +83,7 @@ Dapple-Horned Besul is found sitting on a rock with a blanket located at [Meteor
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Dapply-Horned Besul acknowledges your presence.*</i> You are welcome here, homelander. But remember, should you bring us violence, it will be returned in kind.</td>

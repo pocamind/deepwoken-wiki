@@ -1,6 +1,6 @@
 ---
 title: Cestis
-revid: 188808
+revid: 191359
 source: https://deepwoken.fandom.com/wiki/Cestis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Ministry, Quests, NPCs located in the Eastern Luminant]
@@ -35,13 +35,13 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh ho ho... Another goody two shoes? You'd best get running, little one. Before you get hurt.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -51,7 +51,7 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oooo aren't you scary? Picked some fights? Stole some things? Maybe talked back to a guard or two? Hahaha.. It matters not.</td>
@@ -72,9 +72,9 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
   <td colspan="4">It's best it stay that way then. You'd do best not to cross your betters. *<i>He gives you a crooked smile that sends shivers down your spine.</i>*</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
   <td colspan="4">I'm interested.</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"></td>
@@ -88,8 +88,8 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2">End, player obtains a bounty</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue], player obtains a bounty</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -99,7 +99,7 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">1-3 Assasinations</td>
@@ -120,7 +120,7 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
   <td colspan="12">Ahaha.. A natural born killer.. Although you may want to make use of <font>Tacet</font> to sneak up on your foes more easily...</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -130,13 +130,13 @@ Cestis is located at [Meteor Isle](Meteor_Isle.md) sitting inside a tent, in his
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oooo scary.. I felt your malicious presence far before you walked over... Do you not know how to use <font>Tacet</font> or do you purposefully let your prey feel the eyes on their back?</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

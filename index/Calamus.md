@@ -1,18 +1,23 @@
 ---
 title: Calamus
-revid: 191029
+revid: 191346
 source: https://deepwoken.fandom.com/wiki/Calamus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Hive, Individuals with unspecified pronouns]
+categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Hive, Individuals with unspecified pronouns]
 ---
 
 # Calamus
 
+| Calamus | |
+|---|---|
+| name | Calamus |
+| aspect | Vesperian |
+| location | Starswept Valley |
+| affiliation | The Hive |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +32,7 @@ Calamus is located on top of a cliff in the [Starswept Valley](The_Starswept_Val
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">The sands here are flowing much quicker than before. New threats are appearing at alarming rates. It's getting quite dangerous for Hive operations to proceed here with how this situation is escalating..</td>

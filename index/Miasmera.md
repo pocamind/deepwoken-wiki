@@ -1,6 +1,6 @@
 ---
 title: Miasmera
-revid: 152735
+revid: 191549
 source: https://deepwoken.fandom.com/wiki/Miasmera
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Monsters]
@@ -10,7 +10,8 @@ notices:
 
 # Miasmera
 
-Template:Creature Infobox V3
+| Miasmera | |
+|---|---|
 
 ## Description
 

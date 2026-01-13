@@ -1,6 +1,6 @@
 ---
 title: Sachan Shisui Kobura
-revid: 188634
+revid: 191608
 source: https://deepwoken.fandom.com/wiki/Sachan_Shisui_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]
@@ -38,7 +38,7 @@ Sachan Shisui Kobura is located at [The Indigo Citadel](The_Indigo_Citadel.md), 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The Sachan gracefully sits on a mat, glancing at you nonchalantly. You offer a respectful bow.*</i> Ah... An ally of the Old Guard. Whatever brings you to the Indigo <a href="Glossary.md#the-citadel-of-markor">Citadel</a>? I do not have any remaining dealings with the alliance, if that's what you're here for.</td>
@@ -81,7 +81,7 @@ Sachan Shisui Kobura is located at [The Indigo Citadel](The_Indigo_Citadel.md), 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The Sachan glances at you nonchalantly once more.*</i> We have nothing else to discuss, warrior. Be welcome at the estate, should you come in peace. But do not linger here. Our hospitality is limited, at a time like this.</td>

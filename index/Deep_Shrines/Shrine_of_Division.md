@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Division
-revid: 184693
+revid: 191385
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -48,7 +48,7 @@ For 5 and a Mantra of your choice, obtain a Roll 2.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -70,8 +70,8 @@ For 5 and a Mantra of your choice, obtain a Roll 2.
   <td>Yes, convert my Mantra into 2 talents.</td>
 </tr>
 <tr>
-  <td>End</td>
-  <td>End, player loses 5 and the chosen Mantra to gain 2 random Talents</td>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], player loses 5 and the chosen Mantra to gain 2 random Talents</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +83,7 @@ For 5 and a Mantra of your choice, obtain a Roll 2.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -105,12 +105,12 @@ For 5 and a Mantra of your choice, obtain a Roll 2.
   <td>Yes, convert my Mantra into 2 talents.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -122,13 +122,13 @@ If the player has too many Talents, they will not be able to make deals with thi
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">ANY FURTHER - BEYOND ATOM. BEYOND QUARK. BEYOND MATTER. BEYOND HUMAN UNDERSTANDING.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -138,13 +138,13 @@ If the player has too many Talents, they will not be able to make deals with thi
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">MUCH TOO CLEAR OPAQUE.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -156,13 +156,13 @@ If the player has an unchosen Talent, Mantra, or Trait hand, this dialogue will 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. RETURN ONCE YOU HAVE DECIDED YOUR PATH. THIS WE CANNOT DIVINE FOR YOU.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

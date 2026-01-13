@@ -1,18 +1,23 @@
 ---
 title: Avian
-revid: 190111
+revid: 191331
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Avian
 
+| Avian | |
+|---|---|
+| name | Avian |
+| aspect | Etrean |
+| location | Isle of Vigils |
+| affiliation | Etrea |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -31,7 +36,7 @@ Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle o
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Sss. How did he get so good with the blade? I can be just as strong, I'll have everyone in the temple acknowledge it.</td>
@@ -65,7 +70,7 @@ Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle o
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">You get your hands on a one [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] of those Manuals?</td>
@@ -95,7 +100,7 @@ Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle o
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Thanks to your help I'll be able to surpass him once and for all, just you watch.</td>

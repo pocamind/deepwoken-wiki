@@ -1,22 +1,27 @@
 ---
 title: Joe
-revid: 191224
+revid: 191489
 source: https://deepwoken.fandom.com/wiki/Joe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Individuals with unspecified pronouns]
+categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Individuals with unspecified pronouns]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Joe
 
+| Joe | |
+|---|---|
+| name | Joe |
+| aspect | Canor |
+| location | Temple of the Blade |
+| affiliation | Etrea |
+
 Variants: [Jim](Jim.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -46,7 +51,7 @@ Joe is located inside of the library at the [Temple of the Blade](Temple_of_the_
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>None here, either... Hey, you. Interested in doing me a favor? There could be something in it for you.</td>
@@ -74,7 +79,7 @@ Joe is located inside of the library at the [Temple of the Blade](Temple_of_the_
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You got the embers?</td>
@@ -102,7 +107,7 @@ Joe is located inside of the library at the [Temple of the Blade](Temple_of_the_
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Heh, thanks.</td>

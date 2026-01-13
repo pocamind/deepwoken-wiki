@@ -1,6 +1,6 @@
 ---
 title: Legendary Boot
-revid: 187537
+revid: 191518
 source: https://deepwoken.fandom.com/wiki/Legendary_Boot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -31,7 +31,7 @@ The Legendary Boot is located in [Erisia](Erisia.md) on top of a rock, that is i
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4"><i>The Legendary Boot waits for the day that one worthy will claim it.</i></td>
@@ -55,8 +55,8 @@ The Legendary Boot is located in [Erisia](Erisia.md) on top of a rock, that is i
   <td colspan="2"><i>Not strong enough to be <b>WORTHY</b></i>.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -66,7 +66,7 @@ The Legendary Boot is located in [Erisia](Erisia.md) on top of a rock, that is i
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>The Legendary Boot waits for the day that one worthy will claim it.</i></td>
@@ -99,7 +99,7 @@ The Legendary Boot is located in [Erisia](Erisia.md) on top of a rock, that is i
   <td><i>Your feet are too big for the <b>Legendary Boot.</b></i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,18 +1,25 @@
 ---
 title: Suri
-revid: 191211
+revid: 191648
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
 ---
 
 # Suri
 
+| Suri | |
+|---|---|
+| name | Suri |
+| aspect | Vesperian |
+| pronouns | He/him |
+| location | Greathive Aratel |
+| affiliation | The Hive |
+| family | Suri's brother |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -41,7 +48,7 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*He mutters to himself.*</i> I don't have any spare time to leave town, but I can't just leave my brother's grave unkept...</td>
@@ -71,9 +78,9 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
   <td colspan="6">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="3">End, Quest Accepted</td>
-  <td colspan="3">End</td>
-  <td colspan="6">End</td>
+  <td colspan="3">[End Dialogue], Quest Accepted</td>
+  <td colspan="3">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -83,7 +90,7 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">If the Quest is unfinished</td>
@@ -94,7 +101,7 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
   <td colspan="6">What's that look on your face?... Did you lose it?</td>
 </tr>
 <tr>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
   <td colspan="6">I need another flower.</td>
 </tr>
 <tr>
@@ -103,7 +110,7 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +120,7 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You're back... I can tell that you placed the flower. Thank you.</td>
@@ -125,7 +132,7 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
   <td>I hope these items will compensate you well enough.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

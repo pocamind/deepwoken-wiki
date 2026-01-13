@@ -1,6 +1,6 @@
 ---
 title: Beiruul
-revid: 176689
+revid: 191338
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
@@ -48,7 +48,7 @@ Completing her sidequest will reward you with EXP, positive [The Children of Nav
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Tch. To think our enemy resides only a ferry ride away from here... It's sickening.</td>
@@ -82,8 +82,8 @@ Completing her sidequest will reward you with EXP, positive [The Children of Nav
   <td colspan="6"><i>*She scowls at you.*</i> Change will come. No matter the cost.</td>
 </tr>
 <tr>
-  <td colspan="6">End, Quest Accepted</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue], Quest Accepted</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +93,7 @@ Completing her sidequest will reward you with EXP, positive [The Children of Nav
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Mmm.. the wind's calm today.</td>
@@ -111,8 +111,8 @@ Completing her sidequest will reward you with EXP, positive [The Children of Nav
   <td colspan="6">The main town of Fort Merit. Come there when you're ready to take on their primary guard force head on with me, then we'll rendezvous here.</td>
 </tr>
 <tr>
-  <td colspan="6">End, Quest Complete</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue], Quest Complete</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -122,13 +122,13 @@ Completing her sidequest will reward you with EXP, positive [The Children of Nav
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I suppose it's time to rest, then.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

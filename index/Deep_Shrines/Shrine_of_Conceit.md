@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Conceit
-revid: 190025
+revid: 191383
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Conceit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -45,7 +45,7 @@ For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -63,7 +63,7 @@ For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
   <td colspan="2">THE ASHES HAVE BEEN SIFTED. THERE IS BUT A SMALL KERNEL OF THE PATHETIC DESTINY THAT WAS ONCE OFFERED TO YOU, BUT IT WILL HAVE TO DO.</td>
 </tr>
 <tr>
-  <td colspan="2">End, player loses 1 to unburn a card (this does not refund the <a href="../Aces.md">ace</a>)</td>
+  <td colspan="2">[End Dialogue], player loses 1 to unburn a card (this does not refund the <a href="../Aces.md">ace</a>)</td>
 </tr>
 </tbody>
 </table>
@@ -75,7 +75,7 @@ For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">PUPPET. STATE YOUR PURPOSE.</td>
@@ -93,7 +93,7 @@ For 1, unburn a card of your choice. Note that the Ace is **NOT REFUNDED**.
   <td colspan="2">FLOUNDERING WASTE, EMPTY SKULL. REMOVE YOURSELF FROM THIS SHRINE LEST YOU WISH TO MEET A MISERABLE END.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -105,13 +105,13 @@ If the player hasn't burned any cards or has an unchosen Talent, Mantra, or Trai
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">FLOUNDERING WASTE... YOUR FUTURE IS MUCH TOO BROAD TO CONSORT WITH THIS SHRINE. SHOULD YOU FIND YOURSELF TRAPPED BY YOUR OWN DECISIONS, SEEK US ONCE MORE.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

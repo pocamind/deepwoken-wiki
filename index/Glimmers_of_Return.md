@@ -1,6 +1,6 @@
 ---
 title: Glimmers of Return
-revid: 181566
+revid: 191451
 source: https://deepwoken.fandom.com/wiki/Glimmers_of_Return
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, NPCs]
@@ -30,13 +30,13 @@ This content is not accessible outside of this gamemode.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The fragments of your Memento drift aimlessly.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

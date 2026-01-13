@@ -1,20 +1,24 @@
 ---
 title: Hale
-revid: 191188
+revid: 191460
 source: https://deepwoken.fandom.com/wiki/Hale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, NPCs, Vendors, Individuals with unspecified pronouns]
+categories: [Celtor NPCs, Vow of Iron Exclusive, NPCs, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Hale
+
+| Hale | |
+|---|---|
+| name | Hale |
+| aspect | Celtor |
+| location | Summer Isle |
 
 Variants: [Con](%2543on.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +33,7 @@ Hale is located inside of the [Summer Isle](Summer_Isle.md) castle.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Welcome to Hale's! - enjoy the sales!</td>

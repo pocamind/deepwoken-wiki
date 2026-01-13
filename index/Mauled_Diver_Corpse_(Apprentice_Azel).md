@@ -1,6 +1,6 @@
 ---
 title: Mauled Diver Corpse (Apprentice Azel)
-revid: 188733
+revid: 191539
 source: https://deepwoken.fandom.com/wiki/Mauled_Diver_Corpse_(Apprentice_Azel)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
@@ -34,7 +34,7 @@ Mauled Diver Corpse is the lifeless body of [Azel Corbet](<Mauled_Diver_Corpse_(
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*A lone body lays abandoned in the wasteland. A journal is attached to the hip.*</i></td>
@@ -48,8 +48,8 @@ Mauled Diver Corpse is the lifeless body of [Azel Corbet](<Mauled_Diver_Corpse_(
   <td><i>*You leave the body alone*</i></td>
 </tr>
 <tr>
-  <td>End, player obtains <a href="Diver_Journal,_I.md">Diver Journal, I</a></td>
-  <td>End</td>
+  <td>[End Dialogue], player obtains <a href="Diver_Journal,_I.md">Diver Journal, I</a></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

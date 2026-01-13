@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 189099
+revid: 191309
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,13 +8,19 @@ categories: [Monsters]
 
 # Alpha Megalodaunt
 
+| Alpha Megalodaunt | |
+|---|---|
+| health | 1200, 300 (Trial of One), 3000(Corrupted) |
+| attacks | Slash, Kick, Jump, Roar, Thousand Needles, Tacet Hug, Tacet Drop Kick, Finisher: Curb Stomp |
+| drops | Megalodaunt Hide, Mantra Modifiers, Umbral Obsidian, Megalodaunt Coral, Megalodaunt Coat |
+| locations | Starfield Tundra, Crypt of the Unbroken, The Depths, Trial of One, Aratel Island, Saramaed Hollow, The Diluvian Mechanism |
+| challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
+
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._
 
 “ Subordinate megalodaunts tend to pay close attention to the alpha of their territory, for reasons we cannot understand. Subject A has expressed the impressive ability to bring a creature as lazy as Subject C to his feet, a feat insurmountable to us, meager scholars. ”
 
 ― Archivist Journal: 'Megalodaunt'
-
-Template:Creature Infobox V3
 
 ## Description
 

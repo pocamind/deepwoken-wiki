@@ -1,6 +1,6 @@
 ---
 title: Liviu
-revid: 188851
+revid: 191521
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Hive]
@@ -34,7 +34,7 @@ Liviu is located at [Greathive Aratel](Greathive_Aratel.md) beside the library
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*There is something unmistakably different in this Chrysid's demeanour. From posture, to poise, garb, to mannerism - they are not like those you have run into before.*</i> Is there anyth'ng I can help you with?</td>
@@ -74,7 +74,7 @@ Liviu is located at [Greathive Aratel](Greathive_Aratel.md) beside the library
   <td><i>I don't want to talk to you anymore.</i></td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ Liviu is located at [Greathive Aratel](Greathive_Aratel.md) beside the library
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>(Chose "So, do they really burn people over there?" option.)</td>
@@ -93,7 +93,7 @@ Liviu is located at [Greathive Aratel](Greathive_Aratel.md) beside the library
   <td><i>*Even making eye contact with the Chrysid is downright unbearable. Best to think before you speak next time.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

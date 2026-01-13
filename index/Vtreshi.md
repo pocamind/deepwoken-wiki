@@ -1,18 +1,24 @@
 ---
 title: Vtreshi
-revid: 189028
+revid: 191691
 source: https://deepwoken.fandom.com/wiki/Vtreshi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
+categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, The Divers]
 ---
 
 # Vtreshi
 
+| Vtreshi | |
+|---|---|
+| name | Vtreshi |
+| aspect | Etrean |
+| pronouns | She/her |
+| location | Ethironal Shrine Sanctuary |
+| affiliation | The Divers |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -23,7 +29,7 @@ An [Etrean](Etrean.md) [apprentice Diver](Apprentice_Diver.md) in the snow below
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Cold... oh, stars and sky, how could I go this wrong? Hooks from the sky, so out of reach...</td>

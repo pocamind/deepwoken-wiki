@@ -1,18 +1,24 @@
 ---
 title: Epsi
-revid: 188914
+revid: 191417
 source: https://deepwoken.fandom.com/wiki/Epsi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
+categories: [Gremor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the First Floor of the Second Layer]
 ---
 
 # Epsi
 
+| Epsi | |
+|---|---|
+| name | Epsi |
+| aspect | Gremor |
+| pronouns | He/him |
+| location | The Frontier Furnace |
+| affiliation | The Ignition Union |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +33,7 @@ His aspect variant doesn't appear in game as no gremor has white horns or pale s
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*The boy seems completely unresponsive, he appears to be covered in snow.*</i></td>
@@ -60,7 +66,7 @@ His aspect variant doesn't appear in game as no gremor has white horns or pale s
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Thanks for saving me out there... I really appreciate it.</td>
@@ -76,7 +82,7 @@ His aspect variant doesn't appear in game as no gremor has white horns or pale s
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">You got that generator working?</td>

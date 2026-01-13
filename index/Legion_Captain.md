@@ -1,6 +1,6 @@
 ---
 title: Legion Captain
-revid: 176641
+revid: 191519
 source: https://deepwoken.fandom.com/wiki/Legion_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Ambush Enemies, The Hundred Legions, The Hundred Legions Enemies]
@@ -129,7 +129,7 @@ This dialogue is unlocked if the player has Ally [Reputation](Reputation.md) wit
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">The empire appreciates your contributions, [First Name]. As thanks I'd like to pass on word to Centurion Amara of your contributions. Please take my writ of recommendation to her, she might be willing to teach you the martial arts of the empire.</td>
@@ -141,7 +141,7 @@ This dialogue is unlocked if the player has Ally [Reputation](Reputation.md) wit
   <td colspan="12"><i>*You are given a small scroll of parchment to take to Centurion Amara.*</i></td>
 </tr>
 <tr>
-  <td colspan="2">End, player obtains Captain's Rec</td>
+  <td colspan="2">[End Dialogue], player obtains Captain's Rec</td>
 </tr>
 </tbody>
 </table>

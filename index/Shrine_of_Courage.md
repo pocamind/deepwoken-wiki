@@ -1,6 +1,6 @@
 ---
 title: Shrine of Courage
-revid: 190068
+revid: 191630
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Courage
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [The Depths, Layer 1]
@@ -8,9 +8,11 @@ categories: [The Depths, Layer 1]
 
 # Shrine of Courage
 
-_Not to be confused with [Deep Shrines](Deep_Shrines.md) or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
+| Shrine of Courage | |
+|---|---|
+| location | Cathedral of the Interstice |
 
-Template:NpcInfobox
+_Not to be confused with [Deep Shrines](Deep_Shrines.md) or [Shrines](Fountain_Gates.md) (aka Fountain Gates)._
 
 ## Description
 
@@ -57,7 +59,7 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*A voice calls from a far away place... Beckoning you to leave behind your weakness.*</i></td>
@@ -79,7 +81,7 @@ Within the trial there is a slight chance that the monsters can be corrupted, wh
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The voice hums its approval... Of your proven strength...*</i></td>

@@ -1,6 +1,6 @@
 ---
 title: Harnessed Thresher
-revid: 188828
+revid: 191462
 source: https://deepwoken.fandom.com/wiki/Harnessed_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -30,7 +30,7 @@ The Harnessed Thresher is located at [The Starswept Valley](The_Starswept_Valley
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*The <b>Harnessed Thresher</b> rests silently.*</i></td>

@@ -1,6 +1,6 @@
 ---
 title: Pete
-revid: 189608
+revid: 191582
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -33,7 +33,7 @@ Pete is a [Vesperian](Vesperian.md) NPC who was part of [Cap'n Orlandeau](<Cap'n
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Oi've got... urgh. Oi need a moment. Oi'll be fine.</td>

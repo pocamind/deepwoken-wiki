@@ -1,22 +1,28 @@
 ---
 title: Lunaris
-revid: 191226
+revid: 191527
 source: https://deepwoken.fandom.com/wiki/Lunaris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
 
 # Lunaris
 
+| Lunaris | |
+|---|---|
+| name | Lunaris Elyse |
+| aspect | Ganymede |
+| pronouns | He/him |
+| location | Summer Isle |
+| affiliation | The Hive |
+
 Variants: [Laplace](Laplace.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -39,7 +45,7 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
 <table>
 <tbody>
 <tr>
-  <td colspan="18">Begin</td>
+  <td colspan="18">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="18">Nice to meet you, I am Lunaris Elyse, someone tasked with reclaiming things the Hive has misplaced, it seems you have at least one of those items on your person.</td>
@@ -67,7 +73,7 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
   <td colspan="9">Okay, remind me again how this works.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
   <td colspan="6">Sorry, here it is.</td>
   <td colspan="9">Hand over 3 pieces of Enchant equipment, and in return I'll grant you an Enchantment on the weapon you're currently holding, if it is eligible.</td>
 </tr>
@@ -91,13 +97,13 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>WIP</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -107,13 +113,13 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hm... <i>*They look you up and down.*</i> No, I shouldn't think so. <i>*They plainly ignore you.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -125,7 +131,7 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Player has not handed in an Enchant before</td>
@@ -156,13 +162,13 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, hello again. Remember that if you have 3 Enchant items on you, I'd be interested in making a deal for their return to me.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -172,7 +178,7 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Player hands in final Enchant</td>
@@ -208,7 +214,7 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
 </tr>
 <tr>
   <td colspan="6">[See previous instance]</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
   <td colspan="3"></td>
 </tr>
 </tbody>
@@ -219,7 +225,7 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Player has Enchant and has not given Enchant</td>
@@ -247,7 +253,7 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
   <td colspan="3">Excellent, I hope this is satisfactory.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

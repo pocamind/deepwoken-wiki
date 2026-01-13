@@ -1,6 +1,6 @@
 ---
 title: Korin
-revid: 188146
+revid: 191505
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -62,7 +62,7 @@ As the name implies, this [Talent](Talents.md) allows the player to get wood by 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Hey. We need more wood to keep the fires burning, you got any?</td>
@@ -81,12 +81,12 @@ As the name implies, this [Talent](Talents.md) allows the player to get wood by 
 <tr>
   <td colspan="2">Thanks for the help.</td>
   <td colspan="2">Uh.. it seems like you don't have much on you. Come back with more wood and we can see about payment.</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
   <td colspan="4">[See Treefelling Quest]</td>
 </tr>
 <tr>
-  <td colspan="2">End, Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue], Lose 6 Wood, Gained 5 Notes, Gained slight reputation with Etrea</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +98,7 @@ This dialogue plays if the player does not yet own an axe
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Looking for some work? I need someone to gather some wood for me.</td>
@@ -110,7 +110,7 @@ This dialogue plays if the player does not yet own an axe
   <td colspan="12">Go cut some trees and bring the wood back here. We need that wood to keep the fires burning in the winter, so you'd be doing us a big favour.</td>
 </tr>
 <tr>
-  <td colspan="12">End, Lumber Axe Obtained</td>
+  <td colspan="12">[End Dialogue], Lumber Axe Obtained</td>
 </tr>
 </tbody>
 </table>
@@ -124,7 +124,7 @@ Regarding the [Treefelling Blow Quest](Quests.md#treefelling-blow).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">I'm having a problem with my treefelling.</td>
@@ -151,7 +151,7 @@ Regarding the [Treefelling Blow Quest](Quests.md#treefelling-blow).
   <td colspan="12">*<i>The lumberjack's face of utter dumbfound bewilderment strikes you with inspiration. It's all about </i>how<i> you punch them! You reckon <b>5</b> more trees punched down would be sufficient research.</i>*</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -161,7 +161,7 @@ Regarding the [Treefelling Blow Quest](Quests.md#treefelling-blow).
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Player has punched down at least 5 trees with Strong Left</td>
@@ -172,8 +172,8 @@ Regarding the [Treefelling Blow Quest](Quests.md#treefelling-blow).
   <td colspan="6">*<i>The bewildered lumberjack's expression reminds you of your intellectual quest to punch down <b>5</b> trees. Your research is crucial. The world must know.</i>*</td>
 </tr>
 <tr>
-  <td colspan="6">End, Treefelling Blow Talent Obtained</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue], Treefelling Blow Talent Obtained</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -185,13 +185,13 @@ If the player has lower than Neutral [Reputation](Reputation.md) with [Etris](Et
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Get lost.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

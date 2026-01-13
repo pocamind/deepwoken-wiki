@@ -1,6 +1,6 @@
 ---
 title: Samael
-revid: 188863
+revid: 191613
 source: https://deepwoken.fandom.com/wiki/Samael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer, The Starkindred Church]
@@ -39,7 +39,7 @@ His old appearance simply left him with the old Angel mask that completely hid h
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="16">Ah, a pilgrim wanders into the sanctum. Is it guidance you seek?</td>
@@ -96,7 +96,7 @@ His old appearance simply left him with the old Angel mask that completely hid h
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="2">What's the risk of it falling into the wrong hands?</td>
   <td colspan="2">What's the risk of it falling into the wrong hands?</td>
   <td colspan="2">The Ichor runs through your veins?</td>
@@ -116,7 +116,7 @@ His old appearance simply left him with the old Angel mask that completely hid h
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Ah, a pilgrim wanders into the sanctum. Is it guidance you seek?</td>
@@ -170,7 +170,7 @@ His old appearance simply left him with the old Angel mask that completely hid h
   <td>[See first instance]</td>
 </tr>
 <tr>
-  <td>End, player is tasked to kill <a href="Iblis,_The_Fallen_Angel.md">Iblis, The Fallen Angel</a></td>
+  <td>[End Dialogue], player is tasked to kill <a href="Iblis,_The_Fallen_Angel.md">Iblis, The Fallen Angel</a></td>
 </tr>
 </tbody>
 </table>
@@ -180,7 +180,7 @@ His old appearance simply left him with the old Angel mask that completely hid h
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">So, is it done? Has Iblis been brought to justice?</td>
@@ -199,7 +199,7 @@ His old appearance simply left him with the old Angel mask that completely hid h
 </tr>
 <tr>
   <td>It would be my honour.</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>Having returned the Ichor that Iblis profaned to its rightful place, it is only right you be permitted to drink of the sacrament. Should you accept, you must hold but one thought as you drink - that it is your duty to protect it.</td>
@@ -223,7 +223,7 @@ His old appearance simply left him with the old Angel mask that completely hid h
   <td>There are three sinners that still taint this land. A rot dwells within the wilds beyond this Church, beneath the shadow of the Watergates. To the north, a foul odour pierces through the aromas of salt and gunpowder. And finally, by the <a href="Glossary.md#lighthouse">Lighthouse</a>, a stench permeates the scent of sulphur.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -237,7 +237,7 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Hm, [1-3] sinners yet remain.<br>
@@ -261,15 +261,15 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
   <td colspan="2">Does the Moonseye hold a similar position?</td>
 </tr>
 <tr>
-  <td colspan="2">End, player instantly full progresses the Starkindred Oath</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue], player instantly full progresses the Starkindred Oath</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="2"><i>*They smile.*</i> Some sects of the faith believe so. I cannot fault such a line of thinking, but having spent so much time in the presence of a <a href="Glossary.md#the-celestials">Celestial</a>, I do not believe it to be so. To the senses of we <a href="Glossary.md#the-starkindred-faith">Starkindred</a> Oathsworn, it does not seem to possess Ichor. We do not feel the same connection to it that we do to the <a href="Glossary.md#the-celestials">Celestials</a> through our <a href="Glossary.md#vows">Vow</a>. So in a sense, we interpret its gift <i>through</i> the gifts of the <a href="Glossary.md#the-celestials">Celestials</a>.</td>
   <td colspan="2">The <a href="Glossary.md#the-moonseye">Moonseye</a> is sacred, of this there is no doubt. Within the <a href="Glossary.md#the-starkindred-faith">Starkindred</a> faith, the <a href="Glossary.md#the-moonseye">Moonseye</a> is the gateway to the promised land that we will journey to upon the revival of the <a href="Glossary.md#the-celestials">Celestials</a> and the banishment of the Deep. We believe that the souls of deceased <a href="Glossary.md#the-celestials">Celestials</a> make their way to the <a href="Glossary.md#the-moonseye">Moonseye</a> to make preparations for the promised day. It's comforting to think of them looking down at us from it, no?</td>
 </tr>
 <tr>
   <td colspan="4"></td>
   <td colspan="2">What about the Moonseye?</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="4"></td>
@@ -277,7 +277,7 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -287,7 +287,7 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">It is good to see you once more, kin. Have you come to pay your respects?</td>
@@ -306,7 +306,7 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">It is good to see you once more, kin. Have you come to pay your respects?</td>
@@ -326,7 +326,7 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
   <td colspan="2">No, not as such. They seek the protection of the Ichor, but it is for their own selfish ends. They have 'faith', but it is <i>heretical</i>. They turn their back on the flock.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -338,13 +338,13 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">You enter this sanctum with a mind full of <i>false ideals</i>. Savour this most holy of sights, but know that the path it promises is forever closed to you.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -354,7 +354,7 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Initial dialogue in Temple of Hearts</td>
@@ -365,7 +365,7 @@ These dialogues are unlocked if the player has obtained [Oath: Starkindred](Oath
   <td colspan="2">Treacherous worm. Leave.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

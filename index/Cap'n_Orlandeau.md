@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 189612
+revid: 191348
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -42,7 +42,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Ye've joined the rest of us, [First Name]. Did you truly forget all my training?</td>
@@ -78,7 +78,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">...</td>
@@ -120,7 +120,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>...</td>
@@ -138,7 +138,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">What do we hav- <i>*The man's eyes widen, his speech put to an immediate pause. He blinks twice.*</i> You... [First Name]?! Is it really you? No, no, this must be a hallucination. Aye, it's you?</td>
@@ -209,7 +209,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ohoho, what's this? Another plunderer seeking the wealth of those above?</td>
@@ -286,7 +286,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ohoho, look who's up late! Feeling caught in the waves this morning, [First Name]? Yer late for yer trainin'! What do you have to say for yerself?</td>
@@ -317,7 +317,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Player has completed basics of attacking</td>
@@ -356,7 +356,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Now then, ye look like you could do with a <b>Rest</b>. Why don't ye put together a <b>Campfire</b> to recover your health? Er. Don't mind the hazard to the ship, I'll snuff it out.</td>
@@ -384,7 +384,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Try it on, mate! <b>Equip</b> it and see how it fits!</td>
@@ -438,7 +438,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">There ye go, mate! Lookin' sharp already! By raising your attributes, you can increase your <b>Power</b> in order to learn new little tricks to help ye along the way.</td>
@@ -498,7 +498,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Pwoah! You're a natural, mate. Seems all my training is finally paying off, eh?</td>
@@ -513,7 +513,7 @@ The player can run into him in New Kyrsa atop of one of the balconies near the m
   <td>No... The <a href="Glossary.md#the-central-authority">Authority</a> can't have... <b>GET BELOW DECK, NOW!</b></td>
 </tr>
 <tr>
-  <td>End of Tutorial</td>
+  <td>[End Dialogue] of Tutorial</td>
 </tr>
 </tbody>
 </table>

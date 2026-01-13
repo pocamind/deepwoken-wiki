@@ -1,6 +1,6 @@
 ---
 title: Group of Etrean Nobles
-revid: 187865
+revid: 191456
 source: https://deepwoken.fandom.com/wiki/Group_of_Etrean_Nobles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Etrean Royalists]
@@ -32,7 +32,7 @@ Each Sachan in the scene are donned in their respective clan's armor.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*A group of Etrean nobility is gathered in a circle, apparently engaged in a heated argument, paying you absolutely no heed. It's difficult to make out what the discussion is about, but you do hear the words 'Dravik', 'cowards', and 'Lord Regent' tossed around.*</i></td>

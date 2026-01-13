@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 188010
+revid: 191536
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -43,13 +43,13 @@ Make sure to say hello, and give some company to such a [Stonespark](Stonespark.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Sup.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -61,7 +61,7 @@ This dialogue is unlocked if the player has defeated [Duke Ishamon Erisia](Duke_
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Sup.</td>
@@ -73,7 +73,7 @@ This dialogue is unlocked if the player has defeated [Duke Ishamon Erisia](Duke_
   <td>Live and let go, man.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

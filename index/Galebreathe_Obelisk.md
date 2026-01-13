@@ -1,6 +1,6 @@
 ---
 title: Galebreathe Obelisk
-revid: 177815
+revid: 191445
 source: https://deepwoken.fandom.com/wiki/Galebreathe_Obelisk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, Oath Trainer]
@@ -24,13 +24,13 @@ It can only be interacted with if you have at least 15 [Galebreathe](Galebreathe
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">[Trinity Galenwarde] You must decide, seeker. Will you let the wind carry you, or will you struggle against its pull? It is a path only those who truly understand the winds dare to walk.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

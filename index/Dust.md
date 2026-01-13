@@ -1,6 +1,6 @@
 ---
 title: Dust
-revid: 188659
+revid: 191409
 source: https://deepwoken.fandom.com/wiki/Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Individuals with unspecified pronouns]
@@ -8,11 +8,16 @@ categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First L
 
 # Dust
 
+| Dust | |
+|---|---|
+| name | Dust |
+| aspect | Celtor |
+| location | Castle Light |
+| affiliation | The Divers |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -27,7 +32,7 @@ Dust is located outside [Castle Light](Castle_Light.md) in the cemetery to it's 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Gods... as above, so below, please. Have mercy on us sinful children of <a href="Glossary.md#lumen">Lumen</a>, for it is all we have.</td>

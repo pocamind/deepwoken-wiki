@@ -1,16 +1,21 @@
 ---
 title: Commander Rayner
-revid: 190960
+revid: 191371
 source: https://deepwoken.fandom.com/wiki/Commander_Rayner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Cut Content, NPCs, Military personnel of The Central Authority, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Cut Content, NPCs, Military personnel of The Central Authority, Individuals with unspecified pronouns]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # Commander Rayner
 
-Template:NpcInfobox
+| Commander Rayner | |
+|---|---|
+| name | Rayner |
+| aspect | Etrean |
+| location | Fort Merit |
+| affiliation | The Central Authority |
 
 ## Description
 

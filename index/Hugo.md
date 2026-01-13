@@ -1,6 +1,6 @@
 ---
 title: Hugo
-revid: 191205
+revid: 191473
 source: https://deepwoken.fandom.com/wiki/Hugo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
@@ -53,7 +53,7 @@ The Three Cheers Menu
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Tiran smirks at you.*</i> Welcome, my friend - sit yourself down! Welcome to the Three Cheers! My name's Hugo, and I'm the proud proprietor and innkeeper of this place. Now, technically... We're not <b>reaaaally</b> supposed to serve civilians... But I won't tell if you won't tell, eh? <i>*He winks.*</i><br>
@@ -72,7 +72,7 @@ The Three Cheers Menu
   <td><i>*Hugo leans in, as if telling you a secret.*</i> Tsch, this place was one of the first things we built since we took over Cascabel - and we're just about done with it, too! The moment the Warden gave clearance for a tavern, the soldiers were basically trippin' over themselves to help build it. The food in the mess hall keeps 'em going on duty. But it's all plain foods - mild soups and stews. Y'know what keeps the soldiers going off-duty, though? Good food and drink, and great fun - as far away from the officers as possible! <i>*He bursts into raucous laughter.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -82,7 +82,7 @@ The Three Cheers Menu
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Purchasing Tankard of Ongo Juice</td>

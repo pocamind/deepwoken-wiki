@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 187308
+revid: 191604
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,15 @@ categories: [Monsters]
 
 # Rogue Construct
 
+| Rogue Construct | |
+|---|---|
+| health | 3,300, 8,250 (Corrupted) |
+| drops | Tier 2 Mantra Modifiers, Inquisitor's Greatsword, Hivelord's Hubris, Ysley's Pyre Keeper (In chest), Curse of Ysley's Ember Enchant Stone |
+| locations | Minityrsa, The Diluvian Mechanism |
+
 Golem Constructs
 
 Variants: [Hive Construct](Hive_Construct.md)
-
-Template:Creature Infobox V3
 
 ## Description
 

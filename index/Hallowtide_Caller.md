@@ -1,6 +1,6 @@
 ---
 title: Hallowtide Caller
-revid: 188587
+revid: 191461
 source: https://deepwoken.fandom.com/wiki/Hallowtide_Caller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, NPCs, Hallowtide]
@@ -25,7 +25,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*A lone pumpkin sits idle upon the grass. When did this get here? This seems out of place. It sounds like it's whispering.*</i></td>
@@ -69,7 +69,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>He's coming, he's coming! The Floating Keep is arriving, above us! Talk to me once more upon its arrival...</td>
@@ -85,7 +85,7 @@ The Hallowtide Caller is a lone pumpkin situated near the house full of Mantra T
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Out of Combat</td>

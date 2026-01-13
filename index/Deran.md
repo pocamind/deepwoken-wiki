@@ -1,6 +1,6 @@
 ---
 title: Deran
-revid: 188815
+revid: 191399
 source: https://deepwoken.fandom.com/wiki/Deran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Ignition Union]
@@ -32,13 +32,13 @@ He will only grant you access if you are an [Ignition Delver](Ignition_Delver.md
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, you looking for a ride down? You must be crazy. Not crazy enough, though. We only send down the Deepdelvers down to that place... Usually.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -52,7 +52,7 @@ This dialogue is unlocked if the player has escaped [The Ethironal Shrine](Secon
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, you must be the one who saved our comrades. You're a real life-saver, buddy.</td>
@@ -67,7 +67,7 @@ This dialogue is unlocked if the player has escaped [The Ethironal Shrine](Secon
   <td>Send me down.</td>
 </tr>
 <tr>
-  <td>End, Player is sent down to The Frontier Furnace</td>
+  <td>[End Dialogue], Player is sent down to The Frontier Furnace</td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +79,7 @@ This dialogue is unlocked if the player has escaped [The Ethironal Shrine](Secon
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Ah, you must be the one who saved our comrades. You're a real life-saver, buddy.</td>
@@ -99,7 +99,7 @@ This dialogue is unlocked if the player has escaped [The Ethironal Shrine](Secon
   <td><i>*They wipe tears from their eyes.*</i> Ah... You almost had me a second there.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

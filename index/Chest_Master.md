@@ -1,6 +1,6 @@
 ---
 title: Chest Master
-revid: 187667
+revid: 191364
 source: https://deepwoken.fandom.com/wiki/Chest_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Mechanics]
@@ -35,7 +35,7 @@ Chest Masters are [Felinor](Felinor.md) NPCs. They are highly skilled in lockpic
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Ah, got something to turn in?</td>

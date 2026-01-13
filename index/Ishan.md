@@ -1,6 +1,6 @@
 ---
 title: Ishan
-revid: 189647
+revid: 191479
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -34,7 +34,7 @@ If spoken to while being an Adret, their dialogue changes.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You ever think about the Adret? They really aren't like the rest of us.</td>

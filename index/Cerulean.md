@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 166352
+revid: 191358
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -138,13 +138,13 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">May your travels be everlasting, Oathless one.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -154,7 +154,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="3">Already having an Oath</td>
@@ -169,7 +169,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
   <td colspan="3">Ah, my friend, it is good to see you. Have you need of anything?</td>
 </tr>
 <tr>
-  <td colspan="9">End</td>
+  <td colspan="9">[End Dialogue]</td>
   <td colspan="3">I'd like to become Oathless once more</td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 </tr>
 <tr>
   <td colspan="9"></td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

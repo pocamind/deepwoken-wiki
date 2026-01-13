@@ -1,6 +1,6 @@
 ---
 title: Adrofalis
-revid: 187761
+revid: 191299
 source: https://deepwoken.fandom.com/wiki/Adrofalis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, Alchemy, Quests, NPCs located in the Eastern Luminant, Old Stewards]
@@ -126,7 +126,7 @@ Adrofalis can be found on the island of [Boatman's Watch](<Boatman's_Watch.md>),
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Ah, it's good to see you again. I'm still tinkering away with this old beauty, hah. Do stop by again and share your travels with me!</td>
@@ -146,7 +146,7 @@ Adrofalis can be found on the island of [Boatman's Watch](<Boatman's_Watch.md>),
   <td colspan="2">Members of the Divers, the Ministry, the Starkindred Church, and so forth... All of them seek to infiltrate our order. We cannot allow this to happen. Every time we have failed in this task, it has been disastrous... Though we believe that all knowledge of the pre-tidal world should be preserved, we do not believe that all of it is fit to be proliferated. Part of the Vow we take upon joining the order requires us to perish before we give up our secrets under interrogation.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

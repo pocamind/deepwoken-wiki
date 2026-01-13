@@ -1,6 +1,6 @@
 ---
 title: Celtorian Guard
-revid: 176658
+revid: 191357
 source: https://deepwoken.fandom.com/wiki/Celtorian_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Guards, The Depths, Lost Celtor, Lost Celtor Enemies]
@@ -95,7 +95,7 @@ Celtorian Guards will randomly give one of three dialogue trees when speaking to
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Greetings, outlander. Welcome to the Great <a href="Glossary.md#the-drowned-city-of-celtor">City of Celtor</a>, the beating heart of our great nation.</td>
@@ -107,7 +107,7 @@ Celtorian Guards will randomly give one of three dialogue trees when speaking to
   <td colspan="4">How can it be? The streets are bustling! Please, you must visit the markets. The finest wares of the South await you, I'm sure you'll see.</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -117,7 +117,7 @@ Celtorian Guards will randomly give one of three dialogue trees when speaking to
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">I-it's not safe here. Get to safety. Won't you?</td>
@@ -132,7 +132,7 @@ Celtorian Guards will randomly give one of three dialogue trees when speaking to
 </tr>
 <tr>
   <td colspan="2">Doesn't seem very safe to me.</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">No, outlander... It <i>must</i> be safe. We are <i>sworn</i> to its safety. It has to be safe. We will make it safe.</td>
@@ -144,7 +144,7 @@ Celtorian Guards will randomly give one of three dialogue trees when speaking to
   <td colspan="2">N-no. We can't. The deal. This is the deal. We keep the city safe.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -154,7 +154,7 @@ Celtorian Guards will randomly give one of three dialogue trees when speaking to
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">How long has it been? Tell me, outlander. Please.</td>
@@ -174,7 +174,7 @@ Celtorian Guards will randomly give one of three dialogue trees when speaking to
   <td colspan="2">Days? <i>DAYS?!</i> You're lying to me. That can't be right. That can't. The City can't have... How long has it been? Please?</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

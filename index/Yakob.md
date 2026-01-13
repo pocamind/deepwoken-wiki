@@ -1,6 +1,6 @@
 ---
 title: Yakob
-revid: 186714
+revid: 191698
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -42,7 +42,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Adret beckons you over, grinning.*</i> Yet another new face! Nice to see some more recruits, I've been to tired of taking double shifts on those ramparts. That sea wind really stings through armour, huh?</td>
@@ -64,7 +64,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Adret beckons you over, feigning brushing a tear away.*</i> Hey, hey! Look at you climbing the ranks, like a Brainsuckling flying the nest... Three cheers, soldier!</td>
@@ -82,7 +82,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Adret waves at you, cheerful.*</i> Hey, [Division] giving you enough time off to hang with the rest of us? I know the job's demanding, but don't be a stranger!</td>
@@ -98,7 +98,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Adret salutes with pride.*</i> [Rank]!</td>
@@ -120,7 +120,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The guard glances at you with suspicion.*</i> You <i>really</i> shouldn't be here, civilian... And I shouldn't be talking to you on duty, either. Scram, you'll get me in trouble!</td>
@@ -136,7 +136,7 @@ Yakob is located inside of [The Three Cheers](The_Three_Cheers.md), sitting at a
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The soldier stares tensely at you, hesitating, his arm firmly on his sword. Might be a good idea to make your leave, before things get ugly.*</i></td>

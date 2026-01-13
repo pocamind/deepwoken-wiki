@@ -1,12 +1,20 @@
 ---
 title: Delta
-revid: 190909
+revid: 191396
 source: https://deepwoken.fandom.com/wiki/Delta
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
+categories: [Canor NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Quests, Oath Trainer]
 ---
 
 # Delta
+
+| Delta | |
+|---|---|
+| name | Delta |
+| aspect | Canor |
+| pronouns | He/him[1] |
+| location | Miner's Landing |
+| affiliation | The Ignition Union |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ Ah, how's it going, recruit? I'll be on watch here for a bit. Let me know if anything's up. ”
 
 ― Delta
-
-Template:NpcInfobox
 
 ## Description
 
@@ -35,7 +41,7 @@ Delta is responsible for handing out Arcsuits, though he doesn't entirely unders
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Ah, how's it going, recruit? I'll be on watch here for a bit. Let me know if anything's up.</td>
@@ -51,7 +57,7 @@ Delta is responsible for handing out Arcsuits, though he doesn't entirely unders
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Hm? Sorry traveller, you aren't quite who I am looking for. I'll be on watch here for a while though, so if something goes wrong, let me know.</td>
@@ -85,7 +91,7 @@ Delta is responsible for handing out Arcsuits, though he doesn't entirely unders
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">How's the Arc Suit treatin' you? I think the more challenges you overcome with it the stronger your bond with it will get. I should think giving a helping hand to our comrades down below would go a great way!</td>
@@ -122,7 +128,7 @@ Delta is responsible for handing out Arcsuits, though he doesn't entirely unders
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">You've got some nerve showin' your face to me after trashing an Arc Suit like that. Called an <i>Oath</i> for a reason, mate.</td>
@@ -132,3 +138,8 @@ Delta is responsible for handing out Arcsuits, though he doesn't entirely unders
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Alpha](Alpha.md)  
+    _Speak to Delta on the surface and tell him Alpha sent you._

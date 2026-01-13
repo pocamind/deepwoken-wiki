@@ -1,6 +1,6 @@
 ---
 title: Hiri
-revid: 188831
+revid: 191468
 source: https://deepwoken.fandom.com/wiki/Hiri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
@@ -32,7 +32,7 @@ Hiri is a male [Chrysid](Chrysid.md) found in the Library section of the [Greath
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">
@@ -59,7 +59,7 @@ Hiri is a male [Chrysid](Chrysid.md) found in the Library section of the [Greath
 </tr>
 <tr>
   <td colspan="6">So the Hive believes in technology, and the Chrysids believed in religion.</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="6">Aye. My ancestral folks were always a reclusive bunch... they mostly kept to themselves, that is. They departed en masse during the construction of the first Greathive, most forming small settlements of their own on splinter islands, growing their own little societies.</td>
@@ -79,7 +79,7 @@ Hiri is a male [Chrysid](Chrysid.md) found in the Library section of the [Greath
   <td colspan="3">Quiet, and lonely. Most reside within an archipelago known as the Lullaby Isles. It's surrounded by a dense mountain range at sea, off the coast of Markor. Multiple small islands are within the region, with each village serving under the Lady Confessor.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
   <td colspan="3">Lady Confessor?</td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ Hiri is a male [Chrysid](Chrysid.md) found in the Library section of the [Greath
 </tr>
 <tr>
   <td colspan="3"></td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

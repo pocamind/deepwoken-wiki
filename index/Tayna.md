@@ -1,12 +1,19 @@
 ---
 title: Tayna
-revid: 191241
+revid: 191654
 source: https://deepwoken.fandom.com/wiki/Tayna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, NPCs, Vendors]
+categories: [Adret NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Vendors]
 ---
 
 # Tayna
+
+| Tayna | |
+|---|---|
+| name | Tayna |
+| aspect | Adret |
+| pronouns | She/her |
+| location | Meteor Isle |
 
 Variants: [Ata](Ata.md)
 
@@ -17,8 +24,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 “ I don't remember you being so broke... You'll come back when you have money, won't you? ”
 
 ― Tayna
-
-Template:NpcInfobox
 
 ## Description
 
@@ -37,7 +42,7 @@ Tayna is located at [Meteor Isle](Meteor_Isle.md), she can be found next to a ca
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Woah! Hey there, friend! It's been such a long time!</td>
@@ -92,7 +97,7 @@ Tayna is located at [Meteor Isle](Meteor_Isle.md), she can be found next to a ca
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hey buddy! Here to buy more of my wares?</td>
@@ -115,7 +120,7 @@ Tayna is located at [Meteor Isle](Meteor_Isle.md), she can be found next to a ca
 <table>
 <tbody>
 <tr>
-  <td colspan="14">Begin</td>
+  <td colspan="14">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="14">Today we have a great selection of items! Take a gander. No touching without buying, though.</td>

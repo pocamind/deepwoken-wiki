@@ -1,6 +1,6 @@
 ---
 title: Corvis
-revid: 172784
+revid: 191374
 source: https://deepwoken.fandom.com/wiki/Corvis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Cut Content, In progress without reason, InProgressPages, NPCs]

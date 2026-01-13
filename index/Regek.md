@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 188861
+revid: 191601
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Attunement Trainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
@@ -39,7 +39,7 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Khimimi...? Another moth drawn to the flame?</td>
@@ -75,7 +75,7 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
   <td>Khi! I knew you were the kind of flea that would accept meaningless tasks. Bring me the souls or no books for you.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -85,7 +85,7 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Player does have three souls</td>
@@ -98,14 +98,14 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
 <tr>
   <td>Can you help me grow stronger?</td>
   <td>Tell me about yourself.</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td>[Opens Mantra Upgrade UI]</td>
   <td>I'm the librarian. That's all you get to know. Keh heh heh! I can tell you about the Hive, though.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>Alright, what is there to know?</td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -140,7 +140,7 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Khimimimi... Back for more?</td>

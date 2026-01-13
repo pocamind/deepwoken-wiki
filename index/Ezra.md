@@ -1,6 +1,6 @@
 ---
 title: Ezra
-revid: 188817
+revid: 191429
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -39,7 +39,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Greetings, traveler! You look like quite the experienced fighter, yes? Would you perhaps be interested in helping a devout in need? Perhaps you'll find some useful experience to help your journey, heh.</td>
@@ -63,7 +63,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
   <td colspan="4">[See first instance]</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
   <td>I'll take care of them.</td>
   <td>Your religious disputes are your own business.</td>
 </tr>
@@ -74,7 +74,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
 </tr>
 <tr>
   <td colspan="3"></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -84,7 +84,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Traveler, a pleasure to see you! Have you shown them the error of their ways?</td>
@@ -98,7 +98,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
   <td>Ah, that is okay.. They are residing in the highchurch, above the Rotlands and across the broken bridge. Please return to me once you've <i>removed</i> them.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -108,7 +108,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Traveler, a pleasure to see you once more. Care to assist in dealing with more scoundrels?</td>
@@ -131,13 +131,13 @@ This dialogue is unlocked if the player has the [Oath: Starkindred](Oath%253A_St
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You... You bear the stench of their rituals! Did they send you to get rid of me?! I won't stick my nose into your secrets any longer, just leave me be...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +149,7 @@ This dialogue is unlocked if the player has interacted with the [Celestial](Cele
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Traveler, a pleasure to see you once more. Care to assist in dealing with more scoundrels?</td>
@@ -167,7 +167,7 @@ This dialogue is unlocked if the player has interacted with the [Celestial](Cele
   <td><i>*His eyes seem to glass over briefly.*</i> I... I don't think there is. If they have the power to hold such a thing captive... I dare not even think of what else those monsters are capable of. All the violence and bloodshed their faith have perpetrated... We may not be safe.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

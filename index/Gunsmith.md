@@ -1,6 +1,6 @@
 ---
 title: Gunsmith
-revid: 188827
+revid: 191459
 source: https://deepwoken.fandom.com/wiki/Gunsmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Guild Base]
@@ -32,7 +32,7 @@ His main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Looking to buy some casing? For some Notes and a little ore I can encase your ammunition.</td>
@@ -56,13 +56,13 @@ His main use is to produce [Bullet Casings](Bullet_Casings.md) by converting two
 </tr>
 <tr>
   <td colspan="3">[Slider from one to max Bullet Casings]</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">Pleasure doing business.</td>
 </tr>
 <tr>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -74,7 +74,7 @@ This dialogue appears if the player has not made at least 200 Bullet Casings wit
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Looking to buy some casing? For some Notes and a little ore I can encase your ammunition.</td>
@@ -89,7 +89,7 @@ This dialogue appears if the player has not made at least 200 Bullet Casings wit
   <td colspan="12">I can't encase your bullets with more than one type of casing at a time. If you have the ore, I can make you more [ORE] Bullets.</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -99,13 +99,13 @@ This dialogue appears if the player has not made at least 200 Bullet Casings wit
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Huh? What do <i>you</i> want?</td>
 </tr>
 <tr>
-  <td colspan="12">End</td>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

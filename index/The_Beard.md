@@ -1,6 +1,6 @@
 ---
 title: The Beard
-revid: 184188
+revid: 191657
 source: https://deepwoken.fandom.com/wiki/The_Beard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
@@ -56,7 +56,7 @@ The Golden Rat Menu
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*A Canor man with a well-kept goatee is tending to the bar. He glances up from cleaning a tankard to greet you.*</i> Welcome to the Golden Rat. They call me 'The Beard'. There's only three rules to this place - pay for your beverage up front, <i>don't</i> ruin the floorboards, and the golden rule - toast only to King Dravik's name. What can I get ya?<br>
@@ -92,7 +92,7 @@ The Golden Rat Menu
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Purchasing Tankard of Plumfruit Juice</td>

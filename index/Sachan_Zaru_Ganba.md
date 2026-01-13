@@ -1,6 +1,6 @@
 ---
 title: Sachan Zaru Ganba
-revid: 188667
+revid: 191609
 source: https://deepwoken.fandom.com/wiki/Sachan_Zaru_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]
@@ -38,7 +38,7 @@ Sachan Zaru Ganba is located at [The Sable Estate](The_Sable_Estate.md), inside 
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4"><i>*The Sachan stands before a table covered in papers, deep in thought. He appears to snap out of it as you approach. You offer a respectful bow.*</i> ...Ah. A comrade of the High Monk. You are welcome to the Sable Estate. Though, I pray you do not linger. Whatever business you have with me, conduct it now - I will not be staying around here for long.</td>
@@ -98,7 +98,7 @@ Sachan Zaru Ganba is located at [The Sable Estate](The_Sable_Estate.md), inside 
   <td><i>*Sachan Ganba lowers his head pensively.*</i> Thank you. You may trust in my silence, Ironsworn. Regardless of what happens next, know that we both have the same enemy. I wish you well on your journeys - and may we both achieve our goal. The Lord Regent's reign <b>will</b> come to and end. Soon may he fall.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -108,7 +108,7 @@ Sachan Zaru Ganba is located at [The Sable Estate](The_Sable_Estate.md), inside 
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Player chose "<font>Then speak to him the words, 'In Iron we recall'..</font>"</td>
@@ -119,7 +119,7 @@ Sachan Zaru Ganba is located at [The Sable Estate](The_Sable_Estate.md), inside 
   <td><i>*The Sachan acknoweldges you with a nod.*</i> Do not linger here overlong, friend of Etrea. Our clan will soon depart these lands. I only hope our luck is better in the west... Swift journeys to you.</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

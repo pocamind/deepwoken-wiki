@@ -1,6 +1,6 @@
 ---
 title: Nyanna
-revid: 188853
+revid: 191575
 source: https://deepwoken.fandom.com/wiki/Nyanna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
@@ -39,7 +39,7 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You down here to see the goods?</td>
@@ -59,7 +59,7 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
   <td>Are you slow? Yes, <i>premium notes</i>. I sell to the lazy and rich. If you don't like my prices, go try finding these schematics yourself.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td>What are you selling?</td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Here to see the goods?</td>
@@ -86,7 +86,7 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
   <td>[Opens Shop UI]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -96,7 +96,7 @@ Nyanna is located at [Castle Light](Castle_Light.md) on the second floor.
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td>When accessing the Shop</td>

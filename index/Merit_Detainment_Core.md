@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 188758
+revid: 191546
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -171,7 +171,7 @@ When deactivating any of the systems with the corresponding keys, the messages f
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Authority Intercom</td>

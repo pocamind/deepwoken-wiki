@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 191123
+revid: 191670
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -285,7 +285,7 @@ Unique Loot Table
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You lost, sprout?</td>
@@ -303,7 +303,7 @@ Unique Loot Table
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">You lost, sprout? You don't look like you belong here. You better have a <i>real good</i> reason to be in my cell right now.</td>
@@ -329,7 +329,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*Titus looks you up and down with mild curiosity.*</i> You again? Tsch. What, still lost? Or is there another message from the Hundred Legions? You'd better have <i>real good</i> news for me, sprout.</td>
@@ -350,7 +350,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>...They'd delay it <i>again</i>?</td>
@@ -381,7 +381,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>You thought <i>that</i> was the end?</td>
@@ -408,7 +408,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>
@@ -461,7 +461,7 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4">Hah... You're strong, I'll give you that. But I've vanquished warriors far stronger than you'll ever be, sprout.</td>

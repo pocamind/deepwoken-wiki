@@ -1,6 +1,6 @@
 ---
 title: Sky Statue
-revid: 191014
+revid: 191636
 source: https://deepwoken.fandom.com/wiki/Sky_Statue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -8,7 +8,9 @@ categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the East
 
 # Sky Statue
 
-Template:NpcInfobox
+| Sky Statue | |
+|---|---|
+| location | Derelict Highchurch, Etris Palace, Lower Erisia |
 
 ## Description
 
@@ -57,7 +59,7 @@ These dialogues are unlocked once the player meets the requirements for Bladehar
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*A statue of a person looking skyward stands before you.*</i></td>

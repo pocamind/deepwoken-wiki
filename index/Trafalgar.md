@@ -1,6 +1,6 @@
 ---
 title: Trafalgar
-revid: 191247
+revid: 191674
 source: https://deepwoken.fandom.com/wiki/Trafalgar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, NPCs located in the First Layer, Reputation]
@@ -42,7 +42,7 @@ Trafalgar is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south o
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>There's plenty of holes here for you to fall into. Let me know if you need some help getting out of one!</td>
@@ -58,7 +58,7 @@ Trafalgar is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south o
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Hoho, need something? You have quite the Sour expression.</td>
@@ -103,13 +103,13 @@ Trafalgar is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south o
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Gods below, you've really fallen down quite the hole...</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

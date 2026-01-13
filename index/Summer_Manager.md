@@ -1,6 +1,6 @@
 ---
 title: Summer Manager
-revid: 177716
+revid: 191645
 source: https://deepwoken.fandom.com/wiki/Summer_Manager
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]
@@ -81,13 +81,13 @@ A Summer Manager executes the player after knocking them:
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I don't have time for this, gotta deal with the outlaws in this region. Take this back to the Castle for me will ya?</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

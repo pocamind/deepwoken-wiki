@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 190527
+revid: 191681
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]
@@ -65,16 +65,16 @@ Valikor is located in [Isle of Vigils](Isle_of_Vigils.md) inside the Library in 
 <tr>
   <td colspan="2">THIS IS HOW WE DO IT!!</td>
   <td colspan="2">Oh, young'in can't afford it? Go find some bandits or something. Just.. take their belongings, no one will mind. Pawn it off at the Antiquarian. Come back when you're ready for <i>KNOWLEDGE</i>!</td>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
   <td colspan="2">STOP REMINDING ME!</td>
   <td colspan="2">What? You think the guards get paid enough to retire? <i>*He stifles a laugh.*</i> Ah.. you really are naive! Come back with money.</td>
 </tr>
 <tr>
-  <td colspan="2">End, obtain Spell Shout, -50</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue], obtain Spell Shout, -50</td>
+  <td colspan="2">[End Dialogue]</td>
   <td colspan="8"></td>
-  <td colspan="2">End, obtain Spell Shout</td>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue], obtain Spell Shout</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -92,7 +92,7 @@ This dialogue only appears if the player has obtained Spell Shout.
   <td colspan="16">IN DUE TIME, EVERY SHOP WILL BAN YOU FROM ENTRY TOO! 'DISRUPTIVE BEHAVIOR,' THEY SAY!</td>
 </tr>
 <tr>
-  <td colspan="16">End</td>
+  <td colspan="16">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

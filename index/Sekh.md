@@ -1,6 +1,6 @@
 ---
 title: Sekh
-revid: 188865
+revid: 191619
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
@@ -36,7 +36,7 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh, greetings! Fancy seeing an outsider other than myself here. I'm Sekh, a scout of the Greathive Aratel. I'm on a mission in the area.</td>
@@ -82,11 +82,11 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
 <tr>
   <td colspan="3"></td>
   <td colspan="2">I'm guessing the Authority aren't too fond of that?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
   <td colspan="2"></td>
   <td>You've spoken to some of the Etreans?</td>
   <td>How do the settlers here get on with the others in Aratel?</td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3"></td>
@@ -123,7 +123,7 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Ah, fellow outsider! Nice seeing you here again. I'm still on my scouting mission business, as you can see. What d'ya need?</td>
@@ -146,7 +146,7 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
 <table>
 <tbody>
 <tr>
-  <td colspan="14">Begin</td>
+  <td colspan="14">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="14">Oh, greetings! Fancy seeing an outsider other than myself here. I'm Sekh, a scout of the Greathive Aratel. I'm on a mission in the area.</td>
@@ -238,8 +238,8 @@ His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) 
   <td colspan="2"></td>
   <td></td>
   <td></td>
-  <td colspan="2">End</td>
-  <td>End</td>
+  <td colspan="2">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
   <td></td>
 </tr>
 </tbody>

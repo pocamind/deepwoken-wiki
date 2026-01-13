@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 190801
+revid: 191360
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, Voiced Characters]
@@ -267,7 +267,7 @@ Exhaustive Loot Table
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">Oh, a human? Far from home aren't we?</td>
@@ -283,7 +283,7 @@ Exhaustive Loot Table
 <tr>
   <td colspan="3">They mutinied?</td>
   <td colspan="3">The City?</td>
-  <td colspan="6">End</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="3">Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach <font>the City</font>.</td>
@@ -296,7 +296,7 @@ Exhaustive Loot Table
 </tr>
 <tr>
   <td colspan="3">[See first instance]</td>
-  <td colspan="3">End</td>
+  <td colspan="3">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -306,7 +306,7 @@ Exhaustive Loot Table
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12">How strange... Time truly does run amok when drawn into <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron's</a> Wake. To have memories of a previous encounter, yet to be standing here now... Fascinating, isn't it?</td>
@@ -325,10 +325,10 @@ Exhaustive Loot Table
 </tr>
 <tr>
   <td colspan="8">Ha? Really?! Gods below, you really are such a FOOL.</td>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="8">End</td>
+  <td colspan="8">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

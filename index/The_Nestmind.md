@@ -1,6 +1,6 @@
 ---
 title: The Nestmind
-revid: 188877
+revid: 191665
 source: https://deepwoken.fandom.com/wiki/The_Nestmind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the First Layer]
@@ -32,7 +32,7 @@ The origin of The Nestmind is unknown, but it is most likely the source of the D
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="4"><b>Ah... The mouse seeks covenant with my kind?</b></td>
@@ -73,8 +73,8 @@ The origin of The Nestmind is unknown, but it is most likely the source of the D
 </tr>
 <tr>
   <td colspan="2"></td>
-  <td>End, Visionshaper obtained and player is teleported out</td>
-  <td>End, player is teleported out</td>
+  <td>[End Dialogue], Visionshaper obtained and player is teleported out</td>
+  <td>[End Dialogue], player is teleported out</td>
 </tr>
 </tbody>
 </table>

@@ -1,12 +1,18 @@
 ---
 title: Eltus Ferikus Pleristus Zzetchus
-revid: 188974
+revid: 191413
 source: https://deepwoken.fandom.com/wiki/Eltus_Ferikus_Pleristus_Zzetchus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # Eltus Ferikus Pleristus Zzetchus
+
+| Eltus Ferikus Pleristus Zzetchus | |
+|---|---|
+| name | Eltus Ferikus Pleristus Zzetchus |
+| species | Kyrsan |
+| location | Firfire |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +21,6 @@ This content is not accessible outside of this gamemode.
 “ Be careful Frinwalter, making noise in those caves may awaken some things best left sleeping. ”
 
 ― Eltus Ferikus Pleristus Zzetchus
-
-Template:NpcInfobox
 
 ## Description
 
@@ -29,7 +33,7 @@ Eltus Ferikus Pleristus Zzetchus is a [Kyrsan](Kyrsgarde.md) NPC. They guard the
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Frinwalter... I can not let you through. See our leader.</td>
@@ -49,7 +53,7 @@ This dialogue is unlocked once the player has been given orders to retrieve the 
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>I see you have orders from our leader, you may pass. Be careful Frinwalter, making noise in those caves may awaken some things best left sleeping.</td>
@@ -67,7 +71,7 @@ This dialogue is unlocked once the player has returned the Spear of Nakti to [Er
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Aelahi [Kyrsan Name], safe travels.</td>

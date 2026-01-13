@@ -1,18 +1,24 @@
 ---
 title: Laplace
-revid: 191187
+revid: 191515
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, The Hive]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, The Hive]
 ---
 
 # Laplace
 
+| Laplace | |
+|---|---|
+| name | Laplace Diri |
+| aspect | Ganymede |
+| pronouns | He/him |
+| location | Greathive Aratel |
+| affiliation | The Hive |
+
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
-
-Template:NpcInfobox
 
 ## Description
 
@@ -46,7 +52,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 <table>
 <tbody>
 <tr>
-  <td colspan="18">Begin</td>
+  <td colspan="18">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="18">Nice to meet you, I am Laplace Diri, someone tasked with reclaiming things the Hive has misplaced, it seems you have at least one of those items on your person.</td>
@@ -98,7 +104,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Nice to meet you, I am Laplace Diri, someone tasked with reclaiming things the Hive has misplaced... Though, it seems as if you do not have enough lost property on you at the moment, I need at least 3.</td>
@@ -114,7 +120,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Hm... <i>*They look you up and down.*</i> No, I shouldn't think so. <i>*They plainly ignore you.*</i></td>
@@ -132,7 +138,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Player has not handed in an Enchant before</td>
@@ -163,7 +169,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Ah, hello again. Remember that if you have 3 Enchant items on you, I'd be interested in making a deal for their return to me.</td>
@@ -179,7 +185,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin</td>
+  <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="6">Player hands in final Enchant</td>
@@ -226,7 +232,7 @@ Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section
 <table>
 <tbody>
 <tr>
-  <td colspan="3">Begin</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
   <td>Player has Enchant and has not given Enchant</td>

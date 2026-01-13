@@ -1,6 +1,6 @@
 ---
 title: Neero
-revid: 188852
+revid: 191568
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs]
@@ -37,7 +37,7 @@ Neero is located in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgot
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="8">Ah, another <a href="Glossary.md#pathfinders">Pathfinder</a>?</td>
@@ -88,7 +88,7 @@ Neero is located in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgot
   <td colspan="4">Yes, there would be signs of bloodshed otherwise. I find it hard to believe that such advanced constructs run wild on their own, someone must have given them the order, no? It all comes back to that strange flame...</td>
 </tr>
 <tr>
-  <td colspan="4">End</td>
+  <td colspan="4">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

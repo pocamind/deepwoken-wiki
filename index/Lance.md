@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 187559
+revid: 191513
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Vendors, Etrea, NPCs located in the Etrean Luminant]
@@ -33,7 +33,7 @@ Lance is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside a buil
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Welcome to Lance's Food! The finest in all of Etris!</td>
@@ -47,7 +47,7 @@ Lance is an [Etrean](Etrean.md) NPC, located in [Etris](Etris.md), inside a buil
   <td>No?</td>
 </tr>
 <tr>
-  <td colspan="2">End</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

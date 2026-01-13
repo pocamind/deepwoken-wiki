@@ -1,6 +1,6 @@
 ---
 title: Kaab
-revid: 188833
+revid: 191493
 source: https://deepwoken.fandom.com/wiki/Kaab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -34,7 +34,7 @@ Kaab is located at the Shipyard of [Greathive Aratel](Greathive_Aratel.md), whic
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2">Need something?</td>
@@ -49,7 +49,7 @@ Kaab is located at the Shipyard of [Greathive Aratel](Greathive_Aratel.md), whic
 </tr>
 <tr>
   <td></td>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -59,7 +59,7 @@ Kaab is located at the Shipyard of [Greathive Aratel](Greathive_Aratel.md), whic
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="2"><i>*They sigh.*</i> What're you bothering me for?</td>
@@ -73,7 +73,7 @@ Kaab is located at the Shipyard of [Greathive Aratel](Greathive_Aratel.md), whic
   <td>[See first instance]</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -83,13 +83,13 @@ Kaab is located at the Shipyard of [Greathive Aratel](Greathive_Aratel.md), whic
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td><i>*The Shipwright does not meet your eyes, continuing with their work.*</i></td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

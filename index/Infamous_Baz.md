@@ -1,6 +1,6 @@
 ---
 title: Infamous Baz
-revid: 188135
+revid: 191476
 source: https://deepwoken.fandom.com/wiki/Infamous_Baz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Cut Content, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -35,13 +35,13 @@ Infamous Baz was located on a ledge in a corner behind the [Etris Palace](Etris_
 <table>
 <tbody>
 <tr>
-  <td>Begin</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>Meow.</td>
 </tr>
 <tr>
-  <td>End</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
