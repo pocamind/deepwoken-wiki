@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 185784
+revid: 191861
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -42,7 +42,7 @@ This Outfit has 4000 durability and grants +35% Physical Armor, +35% Elemental A
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 35% Physical, 38.25% Flamecharm, 38.25% Shadowcast, and 35% Elemental.
 
-The [Soul Rip](Talents.md#soul-rip) Talent grants 2 _Runes_ every time you kill a player, then upon using its Talent tool it will consume a Rune to grant a 50% melee damage buff, a defense buff, and infinite Ether for 25 seconds. Once Soul Rip ends, one of your legs will break, removing your ability to sprint for 30 seconds.
+The [Soul Rip](Talents.md#soul-rip) Talent grants 2 _Runes_ every time you kill a player, then upon using its Talent tool it will consume a Rune to grant a 50% melee damage buff, a 20% defense buff, and infinite Ether for 25 seconds. Once Soul Rip ends, one of your legs will break, removing your ability to sprint for 30 seconds.
 
 ## Trivia/Notes
 

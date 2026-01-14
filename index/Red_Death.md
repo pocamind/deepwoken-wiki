@@ -1,6 +1,6 @@
 ---
 title: Red Death
-revid: 190241
+revid: 191827
 source: https://deepwoken.fandom.com/wiki/Red_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Legendary Weapons, "Weapons with Multi-Attunement Scaling", "Attunement-based Weapons", Medium Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Lege
 | swing speed | 0.92x |
 | attack duration | 0.7s |
 | penetration | 25% |
+| special effect | Gripping a humanoid will leave no traces of their corpse behind. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -37,7 +38,9 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Lege
 
 The **Red Death** is a Legendary [Bloodrend](Bloodrend.md)\-[Shadowcast](Shadowcast.md) Spear; a vile tool used by [Ministry Heartspillers](Ministry_Heartspiller.md) to aid in ruthless interrogation tactics while also leaving no trace of the target's organic remains and ether. It can be dropped from the [Ministry Heartspiller](Ministry_Heartspiller.md). It is also sold by [Traan Zakshun](Traan_Zakshun.md) in the black market rotation for 4.
 
-When gripping a humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
+The Red Death comes with a passive ability:
+
+-   **No Trace Behind** - When gripping a humanoid, they will shake and turn transparent for a few seconds before disappearing in a black smoke, leaving no trace behind.
 
 ## Critical
 
@@ -47,7 +50,7 @@ For the standing critical, the user raises the spear, summoning three stakes of 
 
 For the running critical, the user rapidly thrusts the spear while slowly moving forward, inflicting Blood Poisoning every time the target is hit, ending with a final blow that inflicts both Blood Poisoning and Shadow. The user then raises their hand, summoning three stakes that also inflict both Blood Poisoning and Shadow.
 
-Both criticals have a cooldown of **8 seconds**
+Both criticals have a cooldown of **8 seconds.**
 
 These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
 

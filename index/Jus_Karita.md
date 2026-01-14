@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 190201
+revid: 191835
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -61,7 +61,7 @@ For more information on these Mantras, such as their requirements and other in-d
 
 ## Talents
 
--   [Justicar's Prowess](Talents.md#justicars-prowess) - Jus Karita grants +30% posture damage against other fist styles.
+-   [Justicar's Prowess](Talents.md#justicars-prowess) - Jus Karita gains +30% posture damage against other fist styles.
 -   [Justicar's Renewal](Talents.md#justicars-renewal) - Hitting an opponent with your Jus Karita critical resets the cooldown.
 -   [Swiftkick Prodigy](Talents.md#swiftkick-prodigy) - Hitting successive basic attacks with Jus Karita will give a temporary speed buff.
 -   [Flying Swiftkick](Talents.md#flying-swiftkick) - Hitting a Jus Karita critical attack while Swiftkick Prodigy is active will greatly slow your enemy, and consume your speed boost.

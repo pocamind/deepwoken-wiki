@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 190699
+revid: 191836
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Spears, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -20,6 +20,7 @@ categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapo
 | swing speed | 0.93x |
 | attack duration | 0.7s |
 | penetration | 20% |
+| special effect | Landing three hits with the tip of the spear grants the Enlightened state to the user. While in this state, the user's critical attacks will be amplified. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -35,23 +36,21 @@ categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapo
 
 ## Description
 
-The **Imperator's Edge** is a legendary [medium spear](Weapons.md#medium) weapon that is only obtainable from Primadon or from depths chests/fishing. It is a gargantuan spear with a glowing tip infused with the very essence of light itself.
+The **Imperator's Edge** is a Legendary Spear. Used by the frontlines of the Hundred Legions, it is a gargantuan, ornate spear with a glowing tip infused with the very essence of light itself.
 
-A weapon of the Hundred Legions, wielded in the frontlines to lead troops forward to "inevitable victory" with its "blinding brilliance".
+The Imperator's Edge comes with a passive ability:
 
-It is decorated with symbols of the Legions.
-
-The weapon has a unique mechanic: if you land **three** hits on an enemy **with only the tip of the spear**, you enter an "Enlightened" state, signified by halos around your head. This state only changes the critical, and isn't believed to have any other effects.
+-   **Enlightened Brilliance** - Landing three hits on a target with the **only** the tip of the spear enters the user in the Enlightened state, signified by a glowing halo on their head. During this state, the user's criticals will be amplified. Enlightened has a cooldown of **10 seconds**.
 
 ## Critical
 
 Perform three thrusts forward with the spear, applying Dazed whilst sending them forwards. If you are in the "Enlightened" state, this critical is then followed up by another identical critical at the cost of the effect, totaling up to six hits. It has a cooldown of ~5 seconds.
 
-If running and using a critical attack thrust forward once, firing a light spear projectile dealing high posture damage.
+For the standing critical, the user performs three quick thrusts with the spear, dazing the target whilst sending them forwards. If the user is in the Enlightened state, this critical is followed up by another three thrusts, using up the effect. The standing critical has a scaled damage multiplier of 0.6x \* 2 + 0.45x + .135x bleed damage, totaling to 1.785x scaled damage and deals 26.97 posture damage.
 
-Standing crit does .6x \* 2 + .45x + .135x bleed = 1.785x m1 damage, does 26.97 posture damage. 3.57x m1 dmg if land all swings during enlightened, does 54 posture damage
+For the running critical, the user lunges with the spear, firing a projectile of light that dazes the target. This critical is not affected by Enlightened. The running critical has a scaled damage multiplier of 1x + .6x + .18x bleed (on the projectile), totaling to 1.78x scaled damage. Both hits deal 17 posture damage.
 
-Running crit does 1x + (.6x + .18x bleed (projectile)) = 1.78x m1 damage. Both hits do 17 posture damage.
+Both criticals have a cooldown of **6 seconds.**
 
 ## Trivia
 

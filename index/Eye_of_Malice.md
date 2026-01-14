@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 189535
+revid: 191870
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -21,7 +21,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | attack duration | 0.7s |
 | penetration | 25% |
 | chip damage | 15% |
-| special effect | Applies an orange eye mark on M1s. |
+| special effect | Apply the Mark of Malice on basic attacks, enhancing the critical. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -39,7 +39,9 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 
 The Eye of Malice is a Legendary [Medium Sword](Weapons.md) that drops from [The Doom of Caeranthil](The_Doom_of_Caeranthil.md). It is a whipblade made of several bony segments, with a protrusion in one of the segments.
 
-Each basic attack will apply the Mark of Malice, which enhances the critical when landed.
+This weapon has one passive ability:
+
+**Gaze of The Doom** **\-** Every basic attack applies the Mark of Malice, enhancing the critical. Signified by an orange eye with swirling effects.
 
 ## Critical
 

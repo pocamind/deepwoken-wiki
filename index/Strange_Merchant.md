@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 190306
+revid: 191867
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -55,7 +55,7 @@ To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on myster
     
     -   Activating your Coffin takes 50. This Note cost will increase by 50 per Power, costing 1,000 at Power 20. The price increase mechanic needs further testing.
     -   When used, the Coffin acts like a loot box, randomly rolling an item to give you.
-    -   There is a relatively high chance to get Skull(previously known as the Enforcer Labubu)[\[1\]](#cite-note-0-1), which can either be a blank that gives nothing and laughs at you or gives a rare item.
+    -   There is a relatively high chance to get Skull(previously known as the Enforcer Labubu)[\[1\]](#cite-note-0-1), which can either be a blank that double the cost of the next roll and laughs at you or gives a rare item.
     -   Coffin activation uses your Resonance keybind.
     -   You can use any weapon or equipment item without meeting their **attribute** requirements. This also applies to outfits (with some exceptions).
 

@@ -1,6 +1,6 @@
 ---
 title: Amorus Pleeksty
-revid: 190721
+revid: 191851
 source: https://deepwoken.fandom.com/wiki/Amorus_Pleeksty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Black Divers]
@@ -36,5 +36,6 @@ He is one of two known people to go to the Third Layer. He is worshipped by the 
 
 ## References
 
-1.  [↑](#cite-ref-1) [Ploom](Ploom.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [Ploom](Ploom.md)  
+    
 2.  [↑](#cite-ref-2) [Flame Worshipper Armor](Flame_Worshipper_Armor.md)

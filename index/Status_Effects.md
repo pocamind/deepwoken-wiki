@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 190672
+revid: 191865
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -730,7 +730,7 @@ After [feinting](Combat_Mechanics.md#feinting) a Galebreathe Mantra with the Inh
 
 #### Maestro's Blade
 
-After using Inhale, gain the Maestro's Blade status effect. During the duration of this status effect, your melee attacks will benefit from [After Cut](Talents.md#after-cut) and [Possession](Talents.md#possession). The duration of Maestro's Blade is based off the Ether cost of the Inhaled Mantra, being (Mantra Ether cost/5) seconds; [Blue Gem](Blue_Gem.md) and [Warped Blue Gem](Warped_Blue_Gem.md) are not taken into account for Maestro's Blade duration. Maestro's Blade is signified by your weapon briefly turning green with wind effects.
+After using Inhale, gain the Maestro's Blade status effect. During the duration of this status effect, your melee attacks will benefit from [After Cut](Talents.md#after-cut) and [Possession](Talents.md#possession). The duration of Maestro's Blade is based off the Ether cost of the Inhaled Mantra, being (Mantra Ether cost/5) seconds; [Blue Gem](Blue_Gem.md) and [Warped Blue Gem](Warped_Blue_Gem.md) are not taken into account for Maestro's Blade duration. Maestro's Blade is signified by your hand emitting wind effects.
 
 ### Orbital Ice
 

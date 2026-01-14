@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191814
+revid: 191859
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -377,6 +377,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
     -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
     -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your your more conventional modifiers by giving them a higher base damage to work off of.
+    -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) You can block attacks from any direction and cannot be backstabbed.
     -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you can block attacks that are coming from any direction.
@@ -592,21 +593,21 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock prevents targets from using mobility mantras.
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
     -   This does **not** proc on the Blightshock from the Sovereign Bangle weapon.
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 67 times
 
 -   Blight Pierce \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock attacks pierce through your enemies hyperarmor and gain more penetration.
     -   Blightshock now works similar to regular [Shock](Status_Effects.md#shock), canceling hyperarmor.
     -   Sovereign Bangle, the Blightsurger exclusive weapon, and Blightsurge Mantras gain +?% more PEN.
     -   This Talent is bugged and currently does not work.
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 37 times
 
 -   Blighted Touch \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Landing Basic Attacks during Sovereign State now applies Blightshock.
     -   This allows your Sovereign Bangle to apply Wither on hit.
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 22 times
 
 -   Blightlash \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your swing range is enhanced during Sovereign State.
     -   Increases the range of the Sovereign Bangle from 6 to 7.
-    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), speak to [Brutus](Brutus.md)
+    -   Prerequisites: [Oath: Blightsurger](Oath%253A_Blightsurger.md), use Sovereign State while in combat 82 times
 
 -   Sovereign State \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Landing physical hits builds your Blight Meter. At full gauge, enter a Blight State that changes your critical and empowers Blightsurge abilities.
     -   Blight Meter gain has no cooldown. Landing Blightsurger Mantras grants 15% Blight Meter. Landing Basic Attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
@@ -1902,15 +1903,18 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Navae's Guidance_ \[Race Talent, [Gremor](Gremor.md) Exclusive\] - Navae's star guides your path, showing you the way forward. Right-clicking on maps sets a Waymarker which can be followed. You are less prone to starvation.
     -   Receive a compass, displayed at the top of your screen, which points East.
-    -   Right clicking on the map will place a waypoint both in the physical world and on the map itself, your compass will point towards this waypoint.
+    -   Right clicking on the map will place a waypoint both in the physical world and on the map itself. If you already have a waymarker placed, right clicking on the map will change its location instead of placing a new one.
     -   Lower the passive hunger decay.
     -   If you have the [Blind](Boons_and_Flaws.md#flaws) flaw, gain an area of vision around your character.
 
 -   _Nightchild_ \[Race Talent, [Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
-    -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier. Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
+    -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier.
+        -   This Stealth multiplier also affects the [Obvious](Boons_and_Flaws.md#obvious) Flaw, reducing your Stealth by 24%. With the innate Stealth Felinor has, this will result in a net -4% Stealth on spawn.
+    -   Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
 
 -   _Seaborne_ \[Race Talent, [Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
-    -   Ship cost is lowered, they turn 20% faster and have more health. They also repair the ships faster with a repair kit for ships.
+    -   Ships cost 20% less Notes, turn 20% faster, and have 10% more health.
+    -   Repairing ships with the [Repair Hammer](Repair_Hammer.md) takes less time.
 
 -   _Teachings of the Edenkite_ \[Race Talent, [Drakkard](Drakkard.md), [Pathfinder](Pathfinder.md) Exclusive\] - Find your centre.
     -   Allows you to meditate, emitting a white aura and causing two white orbs to circle your head. Very heavily reduces your hunger and thirst consumption while you passively gain EXP and Attribute EXP and regenerate health at a mediocre rate, which is slightly reduced when in combat.
@@ -1980,7 +1984,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Ironsinger
 
 -   Ironsinger \[Mantra Level Talent, Ironsing\] - Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods.
-    -   Ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, the strength of the pull depending on the amount of Metal Rods, 5 rods limit on default path.
+    -   Ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, with the strength of the pull depending on the amount of Metal Rods present.
+    -   You cannot apply more than 5 Metal Rods to one target, unless you have one of the Rending Needle Talents.
     -   Rod pull's keybind can be configured in settings.
     -   Obtained at 1 Ironsing or from the Ironsing trainer [Adar](Adar,_Master_of_Metal.md).
 
@@ -2006,14 +2011,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 55 Ironsing
 
 -   Ironclad Punishment \[Common Talent, Ironsing\] - Your Ironsing mantras deal more posture damage to enemies the more armor durability they have.
-    -   15% extra posture damage at 100% armor, scales from % armor left (Means that 2600 and 1000 durability armor will have same effect at 100% armor and etc)
-    -   Posture damage buff does not apply to M1s or non Ironsing mantras.
-    -   Doesn't really work in PVE because NPCs don't have armor (except Maestro) and Mobs aren't affected by Posture DMG
+    -   Gain +0.15% posture damage on Ironsing Mantras for every 1% armor durability your opponent has, capping at +15% if your opponent is at maximum armor.
+    -   Has limited PvE usage because most non-humanoid monsters cannot block.
     -   Prerequisite: 45 Ironsing
 
--   Laced Traps \[Common Talent, Ironsing\] - People hit by your 'Caltrops' cannot jump and are slowed for a small duration.
-    -   Landing a caltrop slows down and disables jump for 1.1 second, timer resets if victim gets hit by another caltrop.
-    -   Prerequisites: Caltrops mantra, 45 Ironsing
+-   Laced Traps \[Common Talent, Ironsing\] - People hit by your '[Caltrops](Ironsing.md#caltrops)' cannot jump and are slowed for a small duration.
+    -   Landing a Caltrop slows down your opponent and disables their ability to jump for 1.1 seconds. This effect refreshes if the victim gets hit by another Caltrop.
+    -   Prerequisites: [Caltrops](Ironsing.md#caltrops) (Mantra), 45 Ironsing
 
 -   Metal Shackles \[Common Talent, Ironsing, Strength\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds.
     -   Prerequisites: 40 Ironsing, 15 Strength
@@ -2022,10 +2026,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 60 Ironsing, 40 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
 
 -   Piercing Metal \[Common Talent, Ironsing\] - Deal additional armor damage to enemies per metal rod affecting them.
-    -   Each rod applies 5% armor drain multiplier, extra 50% armor drain at max rods
-    -   This works only with dealing armor DMG via M1s and Mantras ([Info about how M1 and Mantra armor DMG works](https://www.youtube.com/watch?v=zSXwGP75Etw))
+    -   Each rod increases armor damage dealt through weapon attacks and Mantras by 5%.
+    -   This stacks additively, up to 25% more armor damage without any Rending Needle Talent or 50% more armor damage with Jailer or Impaler.
     -   Works amazingly in PVE.
-    -   Doesn't increase Metal enchant effectiveness.
+    -   Does not affect armor drain effects such as [Metal](Metal.md).
     -   Prerequisites: 60 Ironsing, [Power](Power.md) 13
 
 -   Thornmail \[Common Talent, Ironsing\] - Getting flourished applies a metal rod on your attacker.
@@ -2045,6 +2049,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Javelin Lord
 
 -   _Grand Skewer_ \[Rare Talent, Thundercall\] - Your Grand Javelin now carries opponents through the air.
+    -   Press F during Grand Javelin's windup to activate this effect.
     -   Does not work in [Guild Bases](Guild_Bases.md) or in [Layer 1](First_Layer.md) of The Depths.
     -   Prerequisites: [Grand Javelin](Thundercall.md#grand-javelin) (Mantra), 60 Thundercall
 
@@ -2104,8 +2109,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Allows you to use the [Jus Karita](Jus_Karita.md) [fist style](Fists.md).
     -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 
--   Justicar's Prowess \[Common Talent\] - Jus Karita +30% posture damage against other fist styles.
-    -   Deal +30% posture damage against Way of Navae, Fang and Coil, Imperium Kata, and Legion Kata
+-   Justicar's Prowess \[Common Talent\] - Jus Karita gains +30% posture damage against other fist styles.
+    -   Gain +30% posture damage on weapon attacks against opponents using [Way of Navae](Way_of_Navae.md), [Fang and Coil](Fang_and_Coil.md), [Imperium Kata](Imperium_Kata.md), [Untrained Fist](Untrained_Fist.md), or [Legion Kata](Legion_Kata.md).
     -   Prerequisite: Jus Karita
 
 -   Justicar's Renewal \[Common Talent\] - Hitting an opponent with your Jus Karita critical resets the cooldown. (Cooldown of 10 seconds).
@@ -4401,8 +4406,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Soul Rip: [Familiar Heretic's Armor](<Familiar_Heretic's_Armor.md>) - Kill a player to gain 2 runes. Activate a rune when using this talent, and gain immense physical power, defense, and infinite ether for 25 seconds. Beware its strenuous downside.
     -   Killing a player will give you 2 Runes, and using this Talent's Talent tool will consume 1 Rune, granting you buffs in exchange.
-    -   Increases your damage by 50%, gives ?% damage reduction, and grants infinite Ether for 25 seconds, at the cost of passively, severely, slowing you for the same duration.
-    -   Additionally, once the buff wears off, one of your legs will break, removing your ability to sprint for 30 seconds.
+    -   Increases your weapon damage by 50%, gives ?% damage reduction, and grants infinite Ether for 25 second.
+    -   Once the buff wears off, one of your legs will break, removing your ability to sprint for 30 seconds.
     -   Though not stated in the Talent's description, this also gives a speed boost for the full effect's duration. You'll still be at a net negative in terms of movement speed, but you'll be able to benefit from speed boost reliant Talents such as Speed Demon.
 
 -   Star Duster: [Star Duster](Star_Duster.md) - You take 30% less damage from airborne enemies.
@@ -4410,7 +4415,6 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Stormcall: [Specialist Plate](Specialist_Plate.md) - Anytime you land a storm strike apply stormcall shock on your opponent, damaging them if they try to use a mantra while its active.
     -   Storm Strikes from other Specialist Equipment Talents now apply the Stormcall Shock status effect, causing your opponent to take damage if they cast Mantras during its duration.
     -   Stormcall Shock deals 15 Gale and Thunder damage, applies Shock for 1 second or 1 Surge Rod, and winded for 2 seconds upon casting any Mantra.
-    -   These storm strikes proc Grounding Bolt.
 
 -   Stronger Under Pressure: [Ascended Outlaw Boots](Ascended_Outlaw_Boots.md) - Your mantras with [might gem](Might_Gem.md) now slow down your opponents, scaling with how many combat tags you currently have.
     -   This applies a 5% slow per combat tag you have. This slow lasts 1 second.
@@ -4451,9 +4455,9 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Both this and Action Surge are applied before [Lightning Cloak's](Thundercall.md#lightning-cloak) swing speed multiplier.
 
 -   Volt Draft: [Specialist Helmet](Specialist_Helmet.md) - Using Inhale will now also make your Basic Attacks apply a storm strike. \[20 second CD\]
-    -   This procs on all Basic Attacks despite what the description states.
     -   This has a proc window of 5 seconds after using Inhale.
     -   Storm Strikes from this Talent deal 0.125 \* (Thundercall + Galebreathe investment) Thundercall damage, capping at 25 damage with 100 points invested in both Attunements.
+    -   These Storm Strikes proc Grounding Bolt.
 
 -   Volt Reflex: [Authority Voltspark Mask](Authority_Voltspark_Mask.md) - Your dodge window is increased with the power of lightning, but also increase the cooldown of your dodges.
     -   Increases the dodge window based on your [Thundercall](Thundercall.md) investment.
@@ -4486,7 +4490,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 Certain Talents are given when you equip a full equipment set, though not all equipment sets have unique Set Talents. These Talents are exclusive to that equipment set and are unobtainable by any other means. Set Talents are listed in alphabetical order:
 
 -   Etherguard: Blustone Set - Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistance to mantras based on how much ether they cost to cast.
-    -   When landing a Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, gain the [Etherguard](Status_Effects.md#etherguard) status effect, granting you resistance to all Mantras. The amount of damage resisted is based on the Mantra's Ether cost.
+    -   When landing a Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, gain the [Etherguard](Status_Effects.md#etherguard) status effect, granting you damage reduction to Mantras. This damage reduction scales on the Ether cost of the Mantra you got hit by.
     -   Set: [Bluestone Pauldrons](Bluestone_Pauldrons.md), [Bluestone Boots](Bluestone_Boots.md)
 
 -   Lasting Trauma: Reinforced War Set - Anytime you land a Wrath Gem, your opponent becomes fearful, being unable to use their critical for a few seconds after you land it.
@@ -5061,6 +5065,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
     -   Madness prevents non-boss enemies from dealing damage and hitstunning you.
     -   Using Taunt as a counter displays [Prediction](Attunement-less.md#prediction)'s visual effects but with a dark purple color. This also plays a laughing sound effect and reduces Taunt's cooldown to 1 second.
     -   Taunt counter does not deal damage, but instead stacks Taunt's damage buff effect.
+    -   Prerequisites: [Strange Merchant](Strange_Merchant.md) Memento, purchased from the starting shop
 
 -   Jackpot \[Common Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Charmed enemies now have a chance to be hit critically, multiplying the damage.
     
@@ -5135,6 +5140,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Night Night: [Night Star](Night_Star.md) - Uppercut attacks blind opponents for 15 seconds.
 
 -   Reforged Alloy: Unknown - Anytime you consume iron rods using Metal Pull or any Rending Needle technique, reduce the cooldown of your next critical based on the amount of rods consumed.
+    
+    -   This Talent does not work.
+    -   Despite being in the Weapon category, this Talent is given as a starting Talent of the [Iron Vessel](Iron_Vessel.md) Memento.
+    
 
 -   Reverse Necrosis: [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Landing any mantra will now heal you based on how slow your opponent is.
 
@@ -5237,7 +5246,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Hellion Shift: [Oni Mask](Oni_Mask.md) - The more insane you are the more iframes you gain on your dodge.
 
--   Heretic's Sacrifice [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) - A chat that heavily sacrifices your sanity to regain a bit of health.
+-   Heretic's Sacrifice: [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) - A chat that heavily sacrifices your sanity to regain a bit of health.
     
     -   Grants a Talent tool that drains a significant amount of sanity to heal 20 raw health.
     -   If you are already at 0 Sanity, you will still be healed at no downside.

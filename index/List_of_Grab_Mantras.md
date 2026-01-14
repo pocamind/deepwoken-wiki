@@ -1,6 +1,6 @@
 ---
 title: List of Grab Mantras
-revid: 162130
+revid: 191862
 source: https://deepwoken.fandom.com/wiki/List_of_Grab_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]

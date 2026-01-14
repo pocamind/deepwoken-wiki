@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 190377
+revid: 191866
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -151,7 +151,7 @@ N/A
         -   The time it takes for burn to execute is very reliant on server performance, it may take longer than what is listed here.
     -   The explosion does not work; you'll burn them to death without an explosion.
 
--   Hungry Flames \[Common Talent\] **100** \- When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
+-   Hungry Flames \[Common Talent\] **100** \- When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra \[15 second CD\].
 
 -   Immolation \[Common Talent\] **100** \- Fire spells cost 70% less while on fire. If you hit someone while on fire, apply fire damage. You take 50% less damage from self-inflicted flames. (+8 Sanity)
     -   "Self-Inflicted flames" include Flame Within, Agitating Spark you spread and environmental burns created by you.

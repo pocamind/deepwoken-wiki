@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 191478
+revid: 191860
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -126,6 +126,6 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   Currently, it will sometimes not spawn with its tentacles visible; the spike it attacks you with will instead be floating.
+-   Currently, the parasol will not spawn despite having a marker on the map.
 -   Probably inspired in Metroids by Metroid series.
 -   Ragoozer accidentally leaked the existence of the parasol shortly after Verse 2's release. A few months after, it was confirmed by Arch\_mage that the boss was a work-in-progress at the time. Ironically enough, the boss was released almost 2 years after Ragoozer first leaked it.

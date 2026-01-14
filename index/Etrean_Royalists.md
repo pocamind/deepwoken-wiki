@@ -1,6 +1,6 @@
 ---
 title: Etrean Royalists
-revid: 187885
+revid: 191856
 source: https://deepwoken.fandom.com/wiki/Etrean_Royalists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages]
@@ -13,7 +13,7 @@ notices:
 | Etrean Royalists | |
 |---|---|
 | leader | Sachans, Zaru Ganba, Choji Mofisu, Yi Anako, Shisui Kobura |
-| territory | The Sable Estate, The Indigo Citadel, The Viridian Sanctuary, Red Lotus Keep, Temple of Mur |
+| territory | The Sable Estate, The Indigo Citadel, Viridian Sanctuary Ruins, Red Lotus Keep, Temple of Mur |
 | goals | Liberate Etrea, Preserve the history of Etrea, Defeat The Lord Regent |
 | founded | 1219 CE[1][2] |
 | dissolved | 1233 CE |

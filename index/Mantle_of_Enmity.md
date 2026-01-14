@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 178572
+revid: 191853
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Relics, Equipment Relics]
@@ -11,7 +11,7 @@ categories: [Equipment, Torso, Relics, Equipment Relics]
 | Mantle Of Enmity | |
 |---|---|
 | type | Torso |
-| rarity | Unique |
+| rarity | Relic |
 | selling price | 100 |
 | requirements | PWR 15 |
 | weight | 0.5 |
@@ -28,7 +28,7 @@ categories: [Equipment, Torso, Relics, Equipment Relics]
 
 ## Description
 
-The **Mantle of Enmity** is a Unique [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
+The **Mantle of Enmity** is a [Relic](Relics.md) [Equipment](Equipment.md) item under the "Torso" category, obtained exclusively from the [Heart of Enmity](Heart_of_Enmity.md).
 
 This equipment grants the [Heartwing Beat](Talents.md#heartwing-beat) Talent, transforming your aerial attack into a quick slash, inflicting wither on hit. This attack has a base damage of 25.5 with bleed and has equal investment scaling as your equipped weapon (e.g. a Repeater's Heartwing Beat would have 15 Light Weapon scaling). It has slight endlag (0.2s~) on whiff, but no endlag if you properly land the slash. This attack procs all "On Critical" Talents. Despite what is shown in these gifs, Heartwing Beat does **not** have hyperarmor.
 
