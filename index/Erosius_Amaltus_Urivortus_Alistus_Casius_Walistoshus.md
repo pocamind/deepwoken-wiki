@@ -1,9 +1,9 @@
 ---
 title: Erosius Amaltus Urivortus Alistus Casius Walistoshus
-revid: 191419
+revid: 191914
 source: https://deepwoken.fandom.com/wiki/Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
+categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests, Individuals with unspecified pronouns]
 ---
 
 # Erosius Amaltus Urivortus Alistus Casius Walistoshus

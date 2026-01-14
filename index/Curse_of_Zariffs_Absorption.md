@@ -1,6 +1,6 @@
 ---
 title: Curse of Zariffs Absorption
-revid: 190505
+revid: 191892
 source: https://deepwoken.fandom.com/wiki/Curse_of_Zariffs_Absorption
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -26,7 +26,7 @@ This enchantment applies a static flaming purple effect to your weapon, conceali
 
 ## Effect
 
-Confirmed by yayafino, Curse of Zariffs Absorption allowed you to temporarily steal your opponent's enchantment on hit. This would grant you their enchantment's effect while removing your opponent's.
+According to yayafino, Curse of Zariffs Absorption allowed you to temporarily steal your opponent's enchantment on hit. This would grant you their enchantment's effect while removing your opponent's.
 
 ### Curse
 

@@ -1,6 +1,6 @@
 ---
 title: Cathedral of the Interstice
-revid: 187185
+revid: 191911
 source: https://deepwoken.fandom.com/wiki/Cathedral_of_the_Interstice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Territory of Lost Celtor, Lawless Territory]
@@ -100,8 +100,7 @@ Some things can add extra Difficulty Score, alongside making the Trial a bit har
 | 30-39 | [Power](Power.md) 10-13 | [Megalodaunt](Megalodaunt.md) (which has chances of being [Corrupted](Monsters.md#scyphozia)) |
 | 40-49 | [Power](Power.md) 14-16 | [Corrupted](Monsters.md#scyphozia) [Megalodaunt](Megalodaunt.md) |
 | 50-79 | [Power](Power.md) 17-20 | [Enforcer](Enforcer.md) (Low chance to be replaced with a [Nautilodaunt](Nautilodaunt.md)) |
-| 80+ | [Power](Power.md) 20 + 20 drowns | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md) (Only the [Bone Keeper](Bone_Keeper.md) and [King Thresher](King_Thresher.md) can spawn in [Corrupted](Monsters.md#scyphozia))  
-  
+| 80+ | [Power](Power.md) 20 + 20 drowns | 2 waves of enemies will spawn, each consisting of one Monster: [Bone Keeper](Bone_Keeper.md), [King Thresher](King_Thresher.md), or [Fury Nautilodaunt](Fury_Nautilodaunt.md).  
 The number of Monsters that the player will have to fight will increase with how many people are in the trial, but the waves will always remain at 2. |
 | 5 or more players, one having a Difficulty Score of 60+ | 5 players, at least 1 with [Power](Power.md) 20 | [Heart of Enmity](Heart_of_Enmity.md), a boss for punishing those escaping the Depths in sheer numbers |
 
@@ -111,7 +110,7 @@ The number of Monsters that the player will have to fight will increase with how
 
 Since the trial takes place inside the [First Layer](First_Layer.md), almost all enemies have a chance of being [Corrupted](Monsters.md#scyphozia) when spawned. The exceptions to this rule are [Nautilodaunts](Nautilodaunt.md), [Fury Nautilodaunts](Fury_Nautilodaunt.md), [Enforcers](Enforcer.md), [Mudskipper Knights](Mudskipper_Knight.md), and [Hollow Angels](Hollow_Angel.md), though if the player has **Deep Champion**, these enemies will be [Corrupted](Monsters.md#scyphozia) regardless. Though, **all** enemies in the Trial have a chance to be **Attuned**. This gives a chance of enemies spawning **BOTH** being [Corrupted](Monsters.md#scyphozia) and **Attuned**.
 
-In the case of 2 or more players entering the Trial, the monster spawn will calculated by the highest Difficulty score among the players, and then spawn that many enemies corresponding to the amount of players. For example, if one player with Power 17 and 2 players with Power 10 enters the trial, it will spawn 3 [Enforcers](Enforcer.md). Players with the **Deep Champion** [Echo Modifier](Echoes.md) will also make every enemy [Corrupted](Monsters.md#scyphozia), regardless of whether or not they had the highest Difficulty Score.
+In the case of 2 or more players entering the Trial, the monster spawn will calculated by the highest Difficulty score among the players, and then spawn that many enemies corresponding to the amount of players. For example, if one player with Power 17 and 2 players with Power 10 enters the trial, it will spawn 3 [Enforcers](Enforcer.md). Players with the **[Deep Champion](Echoes.md#upgrades-unlocks-and-modifiers)** Echo Modifier will also make every enemy [Corrupted](Monsters.md#scyphozia), regardless of whether or not they had the highest Difficulty Score.
 
 Though, weirdly enough, in contradiction to the previous paragraph, a Power 1 [Deepbound](Deepbound.md) and a Power 20 Non-Deepbound will spawn just one [Enforcer](Enforcer.md).
 

@@ -1,9 +1,9 @@
 ---
 title: ??? (Frozen Man)
-revid: 191270
+revid: 191912
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(Frozen_Man)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
+categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Individuals with unspecified pronouns]
 ---
 
 # ??? (Frozen Man)

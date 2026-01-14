@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 187882
+revid: 191908
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -94,7 +94,8 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 -   **Unmatched Dexterity** - Press X to Quick Swap between weapons within your toolbar.
     -   Swaps your current weapon with a random one on your hotbar.
-    -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
+    -   This Talent passively allows Silenthearts to manually swap equipment or weapons while in danger as well.
+    -   Notably, the [Curse of the No Life King](Curse_of_the_No_Life_King.md) and [Curse of Void](Curse_of_Void.md) curse effects of always having a stained healthbar have their durations extended for 60 seconds upon taking damage. This means you cannot avoid being sent to [The Depths](The_Depths.md) by swapping swapping to a non-cursed weapon just before being knocked Unconscious.
 
 #### Talent Abilities
 
@@ -111,7 +112,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
         -   Adds a loud whooshing sound effect right before you do the move.
 
 -   **Ankle Cutter** - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
-    -   Deals 37.5/52.5 damage with innate [Bleed](Status_Effects.md#bleed), adding an additional 11.1/15.75 damage.
+    -   Deals 37.5/52.5 damage with innate [Bleed](Status_Effects.md#bleed), adding an additional 5.5/7.88 damage.
     -   Has a fixed attack speed across all weapon types.
     -   Can be used while sliding down slopes at no cost to your speed.
     -   Flow State shortens the windup and increases the damage.
@@ -127,7 +128,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Heavy - deals 45/52.5 Oath damage
 
 -   **Relentless Hunt** - M1 while doing an Aerial Attack to initiate a special gap closer attack.
-    -   20s CD per weapon type, 6s CD if feinted. Medium Relentless Hunt has a 6 second cooldown if it lands.
+    -   20s CD per weapon type, 6s CD if feinted.
     -   Can be feinted by pressing M2 during its windup.
     -   Mostly used as a gap closer.
     -   Movesets differ depending on the weapon type.

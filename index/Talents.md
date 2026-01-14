@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191859
+revid: 191910
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3102,7 +3102,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Grounding Bolt \[Common Talent, Thundercall, Weapon\] - Anytime you summon a lightning strike on your opponent, apply knockdown if it lands.
     -   10 second cooldown.
-    -   Storm Strikes from the [Specialist Set](Specialist_Helmet.md) Talents, [Storm](Storm.md) Enchant during the rain, Scorched Peak, Fulgurite Formation's lightning strikes all proc this Talent.
+    -   Storm Strikes from the [Specialist Set](Specialist_Helmet.md) Talents, [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, Scorched Peak, Fulgurite Formation's lightning strikes all proc this Talent.
     -   Discovery of Fire does not proc this Talent.
     -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
 
@@ -3194,7 +3194,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This keybind can be changed in settings.
     -   Selects a random weapon on your hotbar to equip.
     -   Works on offhand weapons.
-    -   This Talent passively allows Silenthearts to manually swap equipment while in danger as well.
+    -   This Talent passively allows Silenthearts to manually swap equipment and weapons while in danger as well.
+    -   Notably, the [Curse of the No Life King](Curse_of_the_No_Life_King.md) and [Curse of Void](Curse_of_Void.md) curse effects of always having a stained healthbar have their durations extended for 60 seconds upon taking damage. This means you cannot avoid being sent to [The Depths](The_Depths.md) by swapping swapping to a non-cursed weapon just before being knocked Unconscious.
     -   Prerequisites: [Oath: Silentheart](Oath%253A_Silentheart.md), kill X of the [Attunement Trainers](Attunement_Trainers.md) OR give 10 to [The Dreadstar](The_Dreadstar.md), skipping the Oath's progression entirely (this can only be performed if you've fully progressed Silentheart at least once).
 
 -   Vengeful Pursuit \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - Your running attacks that don't hit send out a special mid-range crescent projectile that slows on hit. Tracks onto those with their backs turned to you. 8s CD
@@ -3242,6 +3243,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Soulbreaker
 
 -   [**Oath: Soulbreaker**](Oath%253A_Soulbreaker.md) - The sum of your fragments is greater than the whole. Though your very being is splintered and threatening to drift apart, every shard of you Vows to remain One. Your Oath is a solvent that joins all of your distinct selves into the gestalt you (+2 Combat Mantra Slots, +1 Wildcard Mantra Slot)
+    -   Gives your Ardour a new visual effect; a crackling purple lightning visual on your weapon.
     -   Prerequisites: Combined 50 Charisma/Willpower total (CHA + WLL ≥ 50), and any [Murmur](Murmur.md). The rest of the requirements depends on the obtainment method.
         -   **Yunshul method**: Additional requirements: Hero/very high Ally reputation with [Etris](Etris.md), a [Resonance](Resonance.md), and have a Yun'shul Wish. **Obtainment method**: Step 1: Talk to [Theadre](Theadre.md) about The King being a God. Step 2: Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about The King's Ardour. Step 3: Go to [Yun'shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) and unlock it "For now I am one, but I wish to be three."
         -   **Sinner's Ash method**: Additional requirements: [Sinner's Ash](<Sinner's_Ash.md>). **Obtainment method**: Step 1: Defeat [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md). Step 2: Use [Sinner's Ash](<Sinner's_Ash.md>) in [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) before you get teleported out.
@@ -3361,7 +3363,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Sturdy Resolve
 
 -   Grasp on Reality \[Common Talent, Fortitude, Willpower\] - Damage taken from insanity is reduced.
-    -   Reduce damage taken from the Tier 2 insanity, Scratching.
+    -   Reduce damage taken from the Tier 2 insanity effect, Scratching.
     -   Prerequisites: 25 Fortitude, 5 Willpower
     -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" has this Talent.
 
@@ -3371,26 +3373,25 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Unfazed \[Common Talent, Fortitude, Willpower\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
     -   Contrary to the card's description, effect of insanities are delayed by a full tier.
         -   You now Shiver at Tier 2 insanity instead of Tier 1.
-        -   Shiver slows movement, but does not cancel M1/Mantra.
         -   You now Scratch yourself at Tier 3 insanity instead of Tier 2.
     -   Prerequisites: Grasp on Reality, 50 Willpower, 50 Fortitude
 
 ### Superconductor
 
--   Voltaic Conductor \[Common Talent, Dual Attunement, Ironsing, Thundercall\] - Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.
+-   Voltaic Conductor \[Common Talent, Dual Attunement, Ironsing, Thundercall\] - Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.
     -   Prerequisites: Rending Needle: Conductor, 40 Thundercall, 75 Ironsing
 
 ### Survival Instinct
 
 -   Iron Gut \[Common Talent, Fortitude, Willpower\] - You have resistance against being poisoned by foods.
+    -   Does not work when eating [Pufferfish](Pufferfish.md) (gamebreaking).
     -   Prerequisites: 20 Fortitude or 20 Willpower, vomit once
     -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
-    -   Does not work when eating [Pufferfish](Fishing.md) (gamebreaking).
 
 -   Termite \[Common Talent, Unlockable Talent, Fortitude, Willpower\] - You can eat things most would consider inedible. (+3 Health)
+    -   Allows user to eat [Sticks](Stick.md), [Bamboo](Bamboo_Bundle.md), [Beeswax](Beeswax.md), [Coral](Alestrian_Coral.md), [Spider Eggs](Spider_Egg.md), all [Lotuses](Primordial_Lotuses.md), and every [Ore](Ores.md).
     -   Unlock requirement: Wipe with the Iron Gut Talent (can't be given by armor)
     -   Prerequisites: 20 Fortitude, 10 Willpower
-    -   Note: Allows user to eat [Sticks](Stick.md), [Bamboo](Bamboo_Bundle.md), [Beeswax](Beeswax.md), [Coral](Alestrian_Coral.md), [Spider Eggs](Spider_Egg.md), all [Lotuses](Primordial_Lotuses.md), and every [Ore](Ores.md).
 
 ### Survivor
 

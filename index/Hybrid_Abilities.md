@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 191066
+revid: 191901
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -917,7 +917,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td>Rending Needle: Conductor<br>
   75 Ironsing<br>
   40 Thundercall</td>
-  <td>Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.</td>
+  <td>Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.</td>
   <td>Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.</td>
 </tr>
 </tbody>
@@ -1185,7 +1185,7 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   <td>Rending Needle: Conductor<br>
   75 Ironsing<br>
   40 Thundercall</td>
-  <td>Your Thundercall Mantras deal 20% chip damage against enemies with conductor rods.</td>
+  <td>Your Thundercall Mantras deal 30% chip damage against enemies with conductor rods.</td>
   <td>Thundercall Mantras deal 20% more chip damage if your opponent has Conductor Rods on them.</td>
 </tr>
 </tbody>

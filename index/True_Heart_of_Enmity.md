@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 191679
+revid: 191882
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
@@ -214,13 +214,13 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>. <font>Stormseye</font>, <font>Red Death</font>, <font>Purple Cloud</font>, <font>Hailbreaker</font>, <font>Weal and Woe</font>, <font>Hero Blades</font>, <font>Guiding Star</font>, Sanguine Transfuser</li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>. <font>Stormseye</font>, <font>Red Death</font>, <font>Purple Cloud</font>, <font>Hailbreaker</font>, <font>Weal and Woe</font>, <font>Hero Blades</font>, <font>Guiding Star</font>, <font>Chorus of Agonies</font>, <font>Rosen's Hellflame</font>, <font>Eye of Malice</font>, <font>Ignition Deepcrusher</font>, Sanguine Transfuser</li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Whaling_Knife.md">Alloyed Whaling Knife</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>, <a href="Big_Brother.md">Big Brother</a></li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Scimitar.md">Scimitar</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a>, <a href="Duskguard_Axe.md">Duskguard Axe</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Kyrstear.md">Kyrstear</a></li>
   </ul></td>
@@ -237,7 +237,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
     <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
   <ol>
     <li><b>Unique Arms</b>: <font>Sorcerer's Mantle</font></li>
-    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Novice_Brace.md">Novice Brace</a>, Overcoats (Black &amp; Brown), <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a>, <a href="Extra_Thick_Overcoat.md">Extra Thick Overcoat</a>, <a href="Beginner's_Brace.md">Beginner's Brace</a>, <a href="Bounty_Hunter's_Garb.md">Bounty Hunter's Garb</a></li>
+    <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Novice_Brace.md">Novice Brace</a>, Overcoats (Black &amp; Brown), <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a>, <a href="Extra_Thick_Overcoat.md">Extra Thick Overcoat</a>, <a href="Beginner's_Brace.md">Beginner's Brace</a>, <a href="Bounty_Hunter's_Garb.md">Bounty Hunter's Garb</a>, <a href="Grand_Authority_Plate.md">Grand Authority Plate</a></li>
   </ol></li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:
   <ol>

@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 190421
+revid: 191890
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -1068,7 +1068,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p><strong>Obtainment:</strong></p>
   <p></p>
   <p>JOE's is exclusively obtained from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>JOE's Enchant Stone can be a potential reward from winning an event hosted by Agamatsu.<p></p></div></td>
-  <td><div>Enchant visual is unknown, although the Enchant Stone is glowing red, similar to Curse of Bloodthirsty.</div></td>
+  <td><div>Weapon glows red and gains floating red vertical particles.</div></td>
 </tr>
 <tr>
   <td><figure><figcaption></figcaption></figure><center><br>
