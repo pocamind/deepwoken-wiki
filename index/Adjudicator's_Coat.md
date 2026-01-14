@@ -1,6 +1,6 @@
 ---
 title: "Adjudicator's Coat"
-revid: 180197
+revid: 191872
 source: https://deepwoken.fandom.com/wiki/Adjudicator's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Coats]
@@ -21,7 +21,7 @@ categories: [Equipment, Arms, Coats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Etrean Hostage Turn-Ins, Shipping Schedules Turn-Ins, Authority Ambush |
+| obtainment | Chests from:, Etrean Hostage Turn-Ins, Shipping Schedules Turn-Ins, Authority Ambush, Aratel Island |
 | description | ... |
 
 ## Description

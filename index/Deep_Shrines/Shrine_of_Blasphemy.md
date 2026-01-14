@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Blasphemy
-revid: 191736
+revid: 191877
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Blasphemy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -41,7 +41,7 @@ This shrine has 2 effects depending on your Power:
 -   Bear in mind that the many card draws you will perform are based on your current stats. **you do not gain any attribute points from this**.
 -   The 45 Investment Points you need to catch up will make it harder to recover a Life while in the Overworld, especially if you don't use free points from the [Adret](../Adret.md) Aspect or the Autodidact Boon.
 -   With the 3 Power Ups granted, you immediately gain 3.
--   Since you gain bonus damage in PVE based on your level, you immediately attain higher damage.
+-   Since you gain bonus damage in PVE based on your level, you immediately attain higher damage against non players.
 -   Shrine of Blasphemy cannot grant the [Simple](../Boons_and_Flaws.md#simple) or [Vegetarian](../Boons_and_Flaws.md#vegetarian) Flaws, any unlockable Flaw ([Blind](../Boons_and_Flaws.md#flaws) or [Fugitive](../Boons_and_Flaws.md#flaws)), and cannot grant nor remove any special Flaws (like [Tarnished](../Boons_and_Flaws.md#flaws) or [Disgraced](../Boons_and_Flaws.md#flaws)).
 
 ## Dialogue

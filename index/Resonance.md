@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 191133
+revid: 191879
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -53,7 +53,8 @@ These Resonances are exclusive to NPCs, bosses, or developers and cannot be acqu
 -   Unnamed Resonance- [Chud Steel](Chud_Steel.md)
 -   Unnamed Resonance- [High Inquisitor Merey](High_Inquisitor_Merey.md)
 -   Unnamed Resonance- [Sentinel Augustus](Sentinel_Augustus.md)
--   Unnamed resonence- [Jungle Jim](Jungle_Jim.md)
+-   Unnamed Resonance- [Jungle Jim](Jungle_Jim.md)
+-   Unnamed Resonance- [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 
 ## Overview
 

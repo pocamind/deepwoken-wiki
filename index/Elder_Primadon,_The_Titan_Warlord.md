@@ -1,20 +1,12 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 191412
+revid: 191878
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
 ---
 
 # Elder Primadon, The Titan Warlord
-
-| Elder Primadon, The Titan Warlord | |
-|---|---|
-| health | 90,000 |
-| attacks | Stomp, Triple Stomp, Punch, Kick, Grab, Rock Throw, Disengage, Execution: Double Stomp, Enrage, Charged Stomp, Combo |
-| drops | 1 Relic Chest, 8 Chests (see loot table), 3 Knowledge, Primadon Pelt (direct drop), Primal Slab (direct drop) |
-| locations | Monkey's Paw |
-| challenges | -- Primadon, Titan of the East --, The Missing Link - Slay 10.Reward: +30% DMG; +15% RES |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,6 +15,8 @@ This content is not accessible outside of this gamemode.
 “ ROOOOOOOOOOOOOOOARGH ”
 
 ― Elder Primadon, The Titan Warlord
+
+Template:Creature Infobox V3
 
 ## Description
 
