@@ -1,6 +1,6 @@
 ---
 title: Aezeroth Kaladin
-revid: 191302
+revid: 191792
 source: https://deepwoken.fandom.com/wiki/Aezeroth_Kaladin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer]
@@ -8,9 +8,9 @@ categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First 
 
 # Aezeroth Kaladin
 
-| Aesalath Kalafrid | |
+| Aezeroth Kaladin | |
 |---|---|
-| name | Aesalath Kalafrid |
+| name | Aesalath Kaladin |
 | species | Kyrsan |
 | location | Firfire |
 
@@ -20,9 +20,9 @@ This content is not accessible outside of this gamemode.
 
 “ We all have our part to play in his plan. You included. ”
 
-― Aesalath Kalafrid
+― Aesalath Kaladin
 
-Aesalath Kalafrid is an NPC found standing before a mysterious device that seems to display some sort of chart, just below the generator in Layer 2 Floor 1. You do not need to talk to them to progress in the dungeon, but they do offer directions and information.
+Aesalath Kaladin is an NPC found standing before a mysterious device that seems to display some sort of chart, just below the generator in Layer 2 Floor 1. You do not need to talk to them to progress in the dungeon, but they do offer directions and information.
 
 ## Dialouge
 
@@ -44,7 +44,7 @@ Aesalath Kalafrid is an NPC found standing before a mysterious device that seems
 </tr>
 <tr>
   <td colspan="2">Oh! I forgot you Fringewalkers do not speak our tongue. I meant to say, 'do you need something?'</td>
-  <td>I am Aesalath Kalafrid. I watch over this temple to our god, <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>.</td>
+  <td>I am Aesalath Kaladin. I watch over this temple to our god, <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>.</td>
   <td>A small temple to <a href="Glossary.md#ethiron-the-maelstroms-eye">Ethiron</a>. Unfortunately, due to recent circumstances, no one has come from the village in some time..</td>
   <td>Generator? Oh, you must mean that strange device one of you Fringewalkers brought here. I believe he put it on the roof. I am not sure what it does, but it used to make a horrible noise constantly.</td>
 </tr>

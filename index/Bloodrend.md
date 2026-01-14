@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 189238
+revid: 191805
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -959,10 +959,10 @@ These are Talents found in "_Quack Doctor_" Category.
 -   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#alloyblood), [Cauterized Wounds](Talents.md#cauterized-wounds), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
 -   Attempting to complete [Vyrelda](Vyrelda,_Master_of_Blood.md)'s quest with multiple people will only spawn three enemies. These enemies will respawn upon talking to her again on another run. Along with this, [Heartstars](Heartstar.md) are not affected by Light Hook, allowing you to save them for other Layer 2 runs if you end up with only 1 or 2 instead of 3.
 -   **Sanguine Dive** is a reference to Vladimir's W ability in _League of Legends_.
--   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.wiki.fextralife.com/Mohg,+Lord+of+Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.
+-   **Bloodtide Ritual** is a reference to [Mohg, Lord of Blood's](https://eldenring.fandom.com/wiki/Mohg,_Lord_of_Blood) phase transition move "Bloodboon Ritual" from _Elden Ring_.
 -   **Bloodedge** is likely a reference to Naoto Kurogane's "Bloodedge" and "Edge of Eternity" from BlazBlue Centralfiction.
 -   **Bloodcurdle** is likely a reference to bloodbending from Avatar: The Last Airbender
 -   **Veinbreaker** is likely a reference to Slayer's "Mappa hunch" in Guilty Gear Strive.
 -   **Crucifixion** is a reference to Klaus' "Unbreakable Cross Shield" from _Blood Blockade Battlefront_; confirmed by a tester.
 -   **Vein Tendrils** could be a reference to Spider-Man, from Marvel Comics.
--   Bloodrend's mantras all used to be red in color by default until the update on 12/13/25, in which the color of some mantras were changed to a shade of purple to comply with Roblox's maturity policies.
+-   Bloodrend's Mantras all used to be red in color by default until the release of [Vow of Iron](Vow_of_Iron.md), in which the color of some mantras were changed to a shade of purple to comply with Roblox's maturity policies.

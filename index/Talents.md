@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191742
+revid: 191814
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3219,7 +3219,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _**Absolute Pitch**_ \[Advanced Talent, Intelligence\] - You can cast Ritual Mantras instantly.
     -   Removes the ritual cast on all ritual cast Mantras.
-    -   If you have less than 100 Intelligence, it will greatly reduce the number of ritual keys instead of fully removing them.
+    -   If you have less than 100 Intelligence, the number of ritual keys will be halved instead, rounding up if necessary.
     -   Prerequisite: 100 Intelligence
 
 -   _**Ether Overdrive**_ \[Advanced Talent, Intelligence, Element\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
@@ -4254,7 +4254,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Ferryman's Curse: [Ferryman's Coat](<Ferryman's_Coat.md>) - Wearing this gives you a 20% chance to convert incoming elemental damage into Lightning damage.
 
 -   Fists of Navae: [Navaen Nomad Robes](Navaen_Nomad_Robes.md) - Your flourish timer lasts longer with fists.
-    -   Increases your flourish timer while using [Fists](Fists.md) from 2 seconds to 3 seconds.
+    -   While using [Fist](Fists.md) weapons, the amount of time you can idle after your third M1 before performing a flourish is increased by 1 second, from 2 seconds to 3.
 
 -   Flashwind: [Specialist Boots](Specialist_Boots.md) - Anytime you proc Air Pressure or Overcharge, give yourself the ability to have enhanced dashes again for a few seconds.
     -   After using a Lightning or Gale dash, all dashes within the next 3 seconds will become enhanced. These enhanced dashes have the same effectiveness as Lightning and Gale dashes.
@@ -4264,9 +4264,10 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Focused Hematoma: [Sanguine Finery](Sanguine_Finery.md) - Decrease outside sources of blood loss by 25% but reduce the amount of temporary health you receive by 15%.
 
--   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) & [Reforged Gauntlets](Reforged_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of 10% armor durability.
+-   Force Your Way: [Ignition Deepdelver](Ignition_Deepdelver.md), [Ignition Gauntlets](Ignition_Gauntlets.md) & [Reforged Gauntlets](Reforged_Gauntlets.md) - You can parry unparryable attacks from giant monsters, at the cost of armor durability.
     
-    -   Cannot parry ALL types of attacks, similar to Hunter's Brace, you can parry kicks and some other knockback moves.
+    -   This does not allow you to parry **all** unparryable monster attacks.
+    -   The armor durability lost is based on the amount of damage you would have taken normally.
 
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces Burn damage by 50%
@@ -4298,7 +4299,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.
 
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
-    -   This is additive to Blue Gem's innate effect, lowering the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers by 35% instead of 25%.
+    -   Increases the effectiveness of Blue Gems by 10%, additively.
+    -   With I'm Blue, Blue Gems reduce the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers is reduced by 35% instead of 25%.
 
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
 
@@ -4345,7 +4347,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   This Talent does NOT allow you to use the Antiquarian in the [First Layer](First_Layer.md) if you are not [Deepbound](Deepbound.md) or [Ignition Delver](Ignition_Delver.md).
 
 -   Mocking Favor: [Jester's Garb](<Jester's_Garb.md>) & [Trickster's Habit](<Trickster's_Habit.md>) - When taunting, Aelita or Tillian appears, bestowing upon you a random boon of affliction. (30s cooldown)
-    -   Grants a random buff or affliction whenever you spit.
+    -   Grants a random buff or affliction whenever you spit or use an emote.
     -   List of buffs being:
         -   [Visionshaper](Oath%253A_Visionshaper.md) invisibility from the Cheap Trick Talent for a short duration.
         -   Grants you ~18% Tempo. Indicated by a light blue effect, somewhat similar to [Reinforce](Attunement-less.md#reinforce)'s vfx.
