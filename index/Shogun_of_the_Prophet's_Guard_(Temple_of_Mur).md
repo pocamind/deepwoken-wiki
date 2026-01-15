@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 189771
+revid: 192088
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -149,7 +149,7 @@ The Shogun of the Prophet's Guard has minimal downtime between attacks, chaining
 
 The Shogun has 2 attacks with blind spots: Crush & Rend and Severing Flourish can be walked behind after their first hit.
 
-If you attempt to parry Low Cleave, you can still crouch under it despite being in lingering block frames.
+If you attempt to parry Low Cleave, you can still crouch under it despite being in lingering block frames, However this is not recommended, as this just puts extra stress on you for almost no upside
 
 **The Shogun can use their ultimate attack more than once. Remember to look out for it at all times once they are below half health.**
 

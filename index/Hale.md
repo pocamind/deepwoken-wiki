@@ -1,6 +1,6 @@
 ---
 title: Hale
-revid: 191460
+revid: 192082
 source: https://deepwoken.fandom.com/wiki/Hale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Vow of Iron Exclusive, NPCs, Vendors, Individuals with unspecified pronouns]
@@ -22,7 +22,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Hale is a [Celtor](Celtor.md) NPC. They own a small pawn shop containing [Cloth](Cloth.md), [Fiber](Fiber.md), [Flint](Flint.md), [Bullets](Bullets.md), and a [Hunter's Brace](<Hunter's_Brace.md>).
+Hale is a [Celtor](Celtor.md) NPC. They own a small pawn shop containing [Cloth](Cloth.md), [Fiber](Fiber.md), [Flint](Flint.md), [Bullets](Bullets.md), and a [Hunter's Brace](<Hunter's_Brace.md>). They wear the [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) outfit, as well as a pair of [Leather Boots](Leather_Boots.md).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Oni Beads
-revid: 188378
+revid: 192089
 source: https://deepwoken.fandom.com/wiki/Oni_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -17,7 +17,7 @@ categories: [Equipment, Torso, Necklaces]
 | weight | 0.5 |
 | innate stats | None |
 | innate talent | N/A |
-| set | Oni Mask, Oni Robes |
+| set | Oni Robes, OniBeads |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

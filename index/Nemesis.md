@@ -1,6 +1,6 @@
 ---
 title: Nemesis
-revid: 190533
+revid: 192085
 source: https://deepwoken.fandom.com/wiki/Nemesis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -26,7 +26,7 @@ This enchantment changes the color of your weapon's metallic parts to a rose col
 
 Nemesis changes your weapon's critical attack to resemble that of the [Katana](Katana.md)'s, though this attack will not have hit registry unless you've applied the [Nemesis Mark](Status_Effects.md#nemesis-mark).
 
-Upon landing an M1, Nemesis applies the [Nemesis Mark](Status_Effects.md#nemesis-mark) status effect, priming your target for your critical attack. When using your critical attack on a marked target, teleport to them and slash them, dealing 25 slash damage and 18 posture damage.
+Upon landing an M1, Nemesis applies the [Nemesis Mark](Status_Effects.md#nemesis-mark) status effect, priming your target for your critical attack. When using your critical attack on a marked target, teleport to them and slash them, dealing 25 slash damage or 18 posture damage if blocked.
 
 If you've marked multiple targets, you will teleport to each of them on critical and hit them in quick succession.
 

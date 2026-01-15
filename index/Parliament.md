@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 191580
+revid: 192091
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -62,6 +62,7 @@ Shade Cloak
  | The Parliament brings its arms closer to its chest, before unleashing a massive shadowy burst.
 
 -   Usually used as the Parliament's first move.
+-   Drains the player's sanity if it hits them.
 
 _Uses Telegraph_
 

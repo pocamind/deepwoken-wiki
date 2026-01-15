@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 191821
+revid: 192087
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -458,7 +458,6 @@ If the player steps on or near the throne that **The Lord Regent** is sitting on
 -   Zi'eer's blindfold is unobtainable, ours has curves, his blindfold is straight. You can however try to dye the default blindfold into black instead of getting the actual black variant of the blindfold to replicate his. Alternatively, you can also edit a black headband down to your eye level.
     -   This is due to the blindfold he wears being worn backwards, hiding the curved part.
 -   Zi'eer (Lord Regent) hair ID: 6536289312; and the link: [https://www.roblox.com/catalog/6536308118/Long-White-Hair](https://www.roblox.com/catalog/6536308118/Long-White-Hair) (colored differently ingame)
--   Zi'eer's outfits are the following outfits made by **SirAndrove2**
 -   [https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix](https://www.roblox.com/catalog/9639911906/Dark-Elf-Outrider-Slight-Fix) - Shirt
 -   [https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider](https://www.roblox.com/catalog/7434547604/Dark-Elf-Outrider) - Pants
 
