@@ -1,9 +1,9 @@
 ---
 title: Sentinel Augustus
-revid: 191973
+revid: 191985
 source: https://deepwoken.fandom.com/wiki/Sentinel_Augustus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -15,6 +15,7 @@ notices:
 | name | Augustus Baaset |
 | alias | Sentinel Augustus |
 | aspect | Adret |
+| pronouns | He/him |
 | location | Fort Merit |
 | affiliation | The Central Authority |
 | family | Augustus Baaset's family, Unnamed parents (deceased), Two unnamed siblings (deceased), Augustus Baaset's sister (younger sister), Augustus Baaset's brother (younger brother) |
@@ -27,9 +28,9 @@ This content is not accessible outside of this gamemode.
 
 Sentinel Augustus is an [Adret](Adret.md) NPC. He is part of the Shock Trooper division for [The Central Authority](The_Central_Authority.md).
 
-He received his position after [Sentinel Faris Kesset](Sentinel_Faris_Kesset.md) was killed by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+He received his current position after [Sentinel Faris Kesset](Sentinel_Faris_Kesset.md) was killed by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). The at the time Operator Augustus was close to the late Sentinel, and was eventually assigned her position by [Warden Jericho](Warden_Jericho.md). He swore to avenge her, and eventually did so when he capture General Destellus.
 
-He wields the [Duskguard Axe](Duskguard_Axe.md). As signified by his [Resonance](Resonance.md) he is moderately strong, and was responsible for the capture of Titus.
+He wields the [Duskguard Axe](Duskguard_Axe.md). As signified by his [Resonance](Resonance.md) he is moderately strong.
 
 ## Location
 

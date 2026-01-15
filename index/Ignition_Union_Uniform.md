@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 189594
+revid: 191989
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Ignition Union]
@@ -38,3 +38,4 @@ This Outfit has 2000 durability, grants +22% Physical resistance, and +22% Eleme
 ## Trivia/Notes
 
 -   One of the best early/mid game armors, as it gives fairly high physical and elemental armor, which rivals some expert tier armors while remaining cheap to make.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/7009096671/Ignition-Union-Top) / [Pants](https://www.roblox.com/catalog/7009098401/Ignition-Union-Bottom)

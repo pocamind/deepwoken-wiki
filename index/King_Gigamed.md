@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 179594
+revid: 192037
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,13 @@ categories: [Monsters]
 
 # King Gigamed
 
-Template:Creature Infobox V3
+| King Gigamed | |
+|---|---|
+| health | 2200, 5500 (Corrupted) |
+| attacks | Summon Gigameds, Electric Stun Pulse, Static Discharge |
+| drops | Advanced Mantra Modifiers |
+| locations | First Layer |
+| challenges | -- Gigamed --, Nefarious Cnidarian - Slay 10.Reward: +10% DMG; +5% RES, In For A Shock - Slay 25.Reward: +10% DMG; +5% RES, Jellyfish Jam - Slay 100.Reward: +10% DMG; +5% RES |
 
 ## Description
 

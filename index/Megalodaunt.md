@@ -1,12 +1,20 @@
 ---
 title: Megalodaunt
-revid: 190307
+revid: 192023
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
 ---
 
 # Megalodaunt
+
+| Megalodaunt | |
+|---|---|
+| health | 800, 350 (Trial of One), 2000 (Corrupted) |
+| attacks | Slash, Kick, Jump, Roar, Thousand Needles, Finisher: Stomp |
+| drops | Megalodaunt Hide, Mantra Modifiers, Umbral Obsidian, Megalodaunt Coral, Megalodaunt Coat, (Rare) |
+| locations | Erisia, First Layer, The Aratel Sea, Using Megalodaunt Bait, The Diluvian Mechanism, Saramaed Hollow |
+| challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Megalodaunt_(disambiguation).md>)._
 
@@ -15,7 +23,6 @@ _This might have not been the page you were looking for, if you were looking for
 ― Archivist Journal: 'Megalodaunt'
 
   
-Template:Creature Infobox V3
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Rotskipper
-revid: 178129
+revid: 192044
 source: https://deepwoken.fandom.com/wiki/Rotskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
@@ -8,7 +8,15 @@ categories: [Monsters, Humanoid Monsters]
 
 # Rotskipper
 
-_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._ Template:Creature Infobox V3
+| Rotskipper | |
+|---|---|
+| health | 500 OR, 3 Parries |
+| attacks | Scratch, Headbutt |
+| drops | Lesser Mantra Modifiers & Sparks |
+| locations | The Hidden Village, Tomb of the Nameless Warrior |
+| challenges | -- Mudskipper --, Dawn of the Drowned - Slay 10.Reward: +10% DMG; +5% RES, 25 Drowns Later - Slay 25.Reward: +10% DMG; +5% RES, Night of the Living Drowned - Slay 100.Reward: +10% DMG; +5% RES |
+
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
 
 ## Description
 

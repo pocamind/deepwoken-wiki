@@ -1,6 +1,6 @@
 ---
 title: Gourdskipper
-revid: 180492
+revid: 192043
 source: https://deepwoken.fandom.com/wiki/Gourdskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters, Hallowtide]
@@ -8,7 +8,15 @@ categories: [Monsters, Humanoid Monsters, Hallowtide]
 
 # Gourdskipper
 
-_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._ Template:Creature Infobox V3
+| Gourdskipper | |
+|---|---|
+| health | 500, 1 Hit (Pumpkin Pitch) |
+| attacks | Scratch |
+| drops | Lesser Mantra Modifiers |
+| locations | Widow's Wail Cemetery |
+| challenges | -- Mudskipper --, Dawn of the Drowned - Slay 10.Reward: +10% DMG; +5% RES, 25 Drowns Later - Slay 25.Reward: +10% DMG; +5% RES, Night of the Living Drowned - Slay 100.Reward: +10% DMG; +5% RES |
+
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
 
 ## Description
 

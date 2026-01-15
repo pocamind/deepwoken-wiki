@@ -1,6 +1,6 @@
 ---
 title: Ghost Bounder
-revid: 179747
+revid: 192040
 source: https://deepwoken.fandom.com/wiki/Ghost_Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Layer 2, Floor 1, Monsters]
@@ -8,7 +8,9 @@ categories: [Random Encounters, Layer 2, Floor 1, Monsters]
 
 # Ghost Bounder
 
-Template:Creature Infobox V3
+| Ghost Bounder | |
+|---|---|
+| locations | Firfire Caverns |
 
 ## Overview
 

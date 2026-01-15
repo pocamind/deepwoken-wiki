@@ -1,6 +1,6 @@
 ---
 title: Sibex
-revid: 191633
+revid: 191990
 source: https://deepwoken.fandom.com/wiki/Sibex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Mechanics, Individuals with unspecified pronouns]
@@ -183,3 +183,4 @@ Sibex can be found sitting on a ledge overseeing [Summer Isle](Summer_Isle.md) t
 -   Sibex's current outfit is nearly identical to and very likely based on that of Orsted from the anime "Mushoku Tensei."
 -   Back when the [Dissonant modifier](Echoes.md#modifiers) prevented you from obtaining a bell, instead of regular dialogue they would say: "\*He sighs.\* Gods below, I can already hear... utter silence!"
 -   On the update of August 18th, 2025, [Gale Wisp](Galebreathe.md#gale-wisp) received a new model, but Sibex's Gale Wisp was not updated and still uses the old model.
+-   Roblox clothing (current): [Shirt](https://www.roblox.com/catalog/8261296850/DetsroTop) / [Pants](https://www.roblox.com/catalog/8261301206/DetsroBot)

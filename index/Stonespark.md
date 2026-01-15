@@ -1,6 +1,6 @@
 ---
 title: Stonespark
-revid: 179611
+revid: 192066
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,12 @@ categories: [Monsters]
 
 # Stonespark
 
-Template:Creature Infobox V3
+| Stonespark | |
+|---|---|
+| health | 1000 |
+| attacks | Punch, Heavy Punch, Finisher: Laser Detonate |
+| locations | Lower Erisia |
+| challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
 
 ## Description
 

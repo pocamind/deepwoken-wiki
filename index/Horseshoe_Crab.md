@@ -1,6 +1,6 @@
 ---
 title: Horseshoe Crab
-revid: 188955
+revid: 192032
 source: https://deepwoken.fandom.com/wiki/Horseshoe_Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,16 @@ categories: [Monsters]
 
 # Horseshoe Crab
 
+| Horseshoe Crab | |
+|---|---|
+| health | ? |
+| attacks | Leech |
+| drops | Crustacean Meat |
+| locations | Lower Erisia, Songseeker Wilds |
+
 “ The enemy? THE ENEMY? THE ENEMY!!! the enemy. ”
 
 ― A group of Horseshoe Crabs on their way to kill an innocent Adret Diver Apprentice
-
-Template:Creature Infobox V3
 
 ## Description
 

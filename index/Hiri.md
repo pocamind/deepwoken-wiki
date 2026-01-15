@@ -1,6 +1,6 @@
 ---
 title: Hiri
-revid: 191468
+revid: 192079
 source: https://deepwoken.fandom.com/wiki/Hiri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
@@ -35,16 +35,19 @@ Hiri is a male [Chrysid](Chrysid.md) found in the Library section of the [Greath
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">
-  <ul>
-    <li>Something wrong, traveler? You've been staring for a moment now. Surprised to see a Chrysid in the Greathive?</li>
-  </ul>
-  <ul>
-    <li>Ah, another Moonlit descendant. Surprised to see another of our kin here in the Greathive? <b>(When interacting as a Chrysid)</b></li>
-  </ul></td>
+  <td colspan="6">When interacting as any other Aspect</td>
+  <td colspan="6">When interacting as a Chrysid</td>
 </tr>
 <tr>
-  <td colspan="12">I don't see many Chrysids around here. Why is that?<p>I don't see many Chrysids around here. <b>(When interacting as a Chrysid)</b></p></td>
+  <td colspan="6">Something wrong, traveler? You've been staring for a moment now. Surprised to see a Chrysid in the Greathive?</td>
+  <td colspan="6">Ah, another Moonlit descendant. Surprised to see another of our kin here in the Greathive?</td>
+</tr>
+<tr>
+  <td colspan="6">I don't see many Chrysids around here. Why is that?</td>
+  <td colspan="6">I don't see many Chrysids around here.</td>
+</tr>
+<tr>
+  <td colspan="12">Dialogue continues as normal</td>
 </tr>
 <tr>
   <td colspan="12">Aye. Well, most of my ancestral folk had left many ages ago. Most Chrysids, in fact. Only a rare few stayed with the Greathive. They're the only species of Hivekin to this day that has succeeded in such a withdrawal.</td>

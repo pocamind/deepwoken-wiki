@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 191955
+revid: 191980
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
@@ -1051,7 +1051,7 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
   <p>Upon taking damage, lose 100 Notes. Upon dealing damage, steal 50 of your opponent's Notes. Both of these effects are signified by a coin splash sound effect.</p><br>
   You do not lose nor gain Notes from non-player enemies.<p></p>
   <p><strong>In-game Description:</strong></p>
-  <p><i>Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, yuo lose notes whenever you get hit. A strange curse indeed...</i></p>
+  <p><i>Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed...</i></p>
   <p><strong>Obtainment:</strong></p>
   <p></p>
   <p>Curse of Captain Greene is obtained exclusively from its <a href="Enchant_Stone.md">Enchant Stone</a>.</p>Curse of Captain Greene Enchant Stone can be a potential reward from winning an event hosted by Agamatsu.<p></p></div></td>

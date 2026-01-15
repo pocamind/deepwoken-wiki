@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 186127
+revid: 192031
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -8,11 +8,19 @@ categories: [Monsters, Bosses]
 
 # Primadon, Titan of the East
 
+| Primadon, Titan of the East | |
+|---|---|
+| health | 40,000 |
+| attacks | Stomp, Triple Stomp, Punch, Kick, Grab, Rock Throw, Disengage, Execution: Double Stomp, Enrage |
+| drops | 8 ChestsSmall chest , (First Kill), 2 Knowledge(≥20% damage dealt), 1 Knowledge, Primadon Pelt (rare), Misc, see loot table |
+| locations | Primadon's Hunting GroundsThe Monkey's Paw |
+| challenges | -- Primadon, Titan of the East --, The Missing Link - Slay 10.Reward: +30% DMG; +15% RES |
+
 “ In this time there were rumours of a Primadon who devoured a hoard of treasure... ”
 
 ― The Reclaimer of the Collection
 
-Template:Creature Infobox V3 Primadon, the Titan of the East is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>). Not to be confused with [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md).
+Primadon, the Titan of the East is a [Boss Monster](Bosses.md) in _Deepwoken_. It can be found in [The Monkey's Paw](<The_Monkey's_Paw.md>). Not to be confused with [Elder Primadon, The Titan Warlord](Elder_Primadon,_The_Titan_Warlord.md).
 
 ## Description
 

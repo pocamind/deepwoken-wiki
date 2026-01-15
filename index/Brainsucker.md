@@ -1,6 +1,6 @@
 ---
 title: Brainsucker
-revid: 186258
+revid: 192030
 source: https://deepwoken.fandom.com/wiki/Brainsucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,11 +8,19 @@ categories: [Monsters]
 
 # Brainsucker
 
+| Brainsucker | |
+|---|---|
+| health | 250 (Minityrsa), 450 (Duke Erisia's Manor), 600 (Scales on islands), 1500 (Corrupted) |
+| attacks | Bite, Kick |
+| drops | Rare chance to drop Mantra Modifiers |
+| locations | The Etrean Sea, The Aratel Sea, Voidsea, Starswept Valley, Minityrsa, Duke Erisia's Manor |
+| challenges | -- Brainsucker --, Beakbuster - Slay 10.Reward: +10% DMG; +5% RES, Cephalorin Champion - Slay 25.Reward: +10% DMG; +5% RES, Chiropterous Conqueror - Slay 100.Reward: +10% DMG; +5% RES |
+
 “ Cephalorins were some of the first monsters to be noted in historic records, though they were initially described as small bat-like creatures that predated on rodents and poultry. It seems that they've since grown up somewhat, and moved on to larger prey. ”
 
 ― Bestiary Entry
 
-Template:Creature Infobox V3_Also referred to as Bat._
+_Also referred to as Bat._
 
 ## Description
 

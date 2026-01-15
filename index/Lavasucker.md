@@ -1,6 +1,6 @@
 ---
 title: Lavasucker
-revid: 186035
+revid: 192069
 source: https://deepwoken.fandom.com/wiki/Lavasucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -8,13 +8,19 @@ categories: [Vow of Iron Exclusive, Monsters]
 
 # Lavasucker
 
+| Lavasucker | |
+|---|---|
+| health | ~600 |
+| attacks | Bite |
+| locations | Saramaed Summit (Vow of Iron) |
+
 Variants: [Brainsucker](Brainsucker.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Template:Creature Infobox V3_Also referred to as Lava Bat or Magma Bat._
+_Also referred to as Lava Bat or Magma Bat._
 
 ## Description
 

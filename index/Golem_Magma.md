@@ -1,6 +1,6 @@
 ---
 title: Golem Magma
-revid: 191141
+revid: 192070
 source: https://deepwoken.fandom.com/wiki/Golem_Magma
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -8,13 +8,18 @@ categories: [Vow of Iron Exclusive, Monsters]
 
 # Golem Magma
 
+| Golem Magma | |
+|---|---|
+| health | ~1500 |
+| attacks | Rapid Spin, Laser, Uppercut, Ground Slam, Stomp, Scream, Finisher: Crushing Stomp |
+| drops | ? |
+| locations | Saramaed Summit (Vow of Iron) |
+
 Variants: [Golem](Rock_Golem.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:Creature Infobox V3
 
 ## Description
 

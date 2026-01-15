@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 189196
+revid: 192052
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -8,7 +8,13 @@ categories: [Monsters, Knights]
 
 # Moon Knight
 
-Template:Creature Infobox V3
+| Moon Knight | |
+|---|---|
+| health | 15,000 |
+| attacks | Slash, Kick, Wind Cutter, Terra Eruption, Moon Rain, Finisher: Death by Thousand Cuts |
+| drops | Astruline, Astral Enchant Stone (~1%) |
+| locations | Moon's Eyrie |
+| challenges | -- Stone Knight --, Granite Gallantry - Slay 10.Reward: +10% DMG; +5% RES, Sword In The Stone - Slay 25.Reward: +10% DMG; +5% RES, We Will Rock You - Slay 100.Reward: +10% DMG; +5% RES |
 
 ## **Description**
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 190669
+revid: 192026
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,12 +8,18 @@ categories: [Monsters]
 
 # Thresher
 
+| Thresher | |
+|---|---|
+| health | 1100, 2750(Corrupted), 500(Trial of One), 1000(Void) |
+| attacks | Arm Swipes, Bite, Tail Swipe, Dig |
+| drops | (Common), Thresher Spine, Umbral Obsidian, (Rare), Mantra Modifiers, Thresher Talon, Serrated Warspear (Corrupted and Void only) |
+| challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
+
 “ \[...\] It appears these crocodilians were subject to such phenomena, having traded their eyesight for a keen sense of smell and an arsenal of lethal weaponry that has allowed them to flourish following the Tides. ”
 
 ― Thresher Spine Description'
 
   
-Template:Creature Infobox V3
 
 ## Description
 

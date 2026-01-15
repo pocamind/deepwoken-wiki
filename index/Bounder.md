@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 191735
+revid: 192033
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -8,11 +8,16 @@ categories: [Monsters, Layer 2, The Depths]
 
 # Bounder
 
+| Bounder | |
+|---|---|
+| health | 470011750(Corrupted) |
+| attacks | Leap, Slash, Charge |
+| drops | Bounder Claw, Mantra Modifiers |
+| challenges | -- Bounder --, Bounder Slayer I - Slay 10.Reward: +5% DMG; +2.5% RES, Bounder Slayer II - Slay 25.Reward: +5% DMG; +2.5% RES, Bounder Slayer III - Slay 100.Reward: +5% DMG; +2.5% RES |
+
 “ Deep gashes creating elegant lines decorate the body. They're beast-like in nature, with an extreme depth to each one. A sense of dread washes over you, almost as if you were in the gaze of a predator. ”
 
 ― Mauled Diver Corpse Interaction
-
-Template:Creature Infobox V3
 
 ## Description
 

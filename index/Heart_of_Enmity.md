@@ -1,12 +1,20 @@
 ---
 title: Heart of Enmity
-revid: 189425
+revid: 192061
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with reference errors, Pathfinder Exclusive, Bosses, Voiced Characters]
+categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
 ---
 
 # Heart of Enmity
+
+| Heart of Enmity | |
+|---|---|
+| health | 150,000 (+30,000 per extra player (above the player count of 5)) |
+| attacks | Enmity's Call, Homerun Bat[1], Sadistic Fury, The Brutalizer, Condemnation's Fall, Event Horizon |
+| drops | Chest, Mantle of Enmity, Chorus of Agonies, Aegis of Enmity, Wartreads of Enmity, Gaunts of Enmity, Fauld of Enmity, Bastions of Enmity, Thrall of Enmity, Heretic's Memento, Dormant Splinter, Etc. (Check Loot Table/Rewards)Direct Drops, Enforcer's Axe, Enforcer Eye, Chorus of Agonies, Enmity's Armor Piece |
+| locations | Cathedral of the Interstice |
+| challenges | -- The Heart of Enmity --, Greater Hatred - Slay 10.Reward: +15% DMG; +7.5% RES |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -15,8 +23,6 @@ This content is not accessible outside of this gamemode.
 “ Despicable. You deem yourselves worthy of a challenge? Allow me to educate you on your folly. ”
 
 ― The Voice of Enmity
-
-Template:Creature Infobox V3
 
 ## Description
 
@@ -219,4 +225,4 @@ Additionally, the player will receive a significant amount of experience, [attri
 
 ## References
 
-1.  [↑](#cite-ref-homerun-1-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `HOMERUN`
+1.  ↑ [1.0](#cite-ref-homerun-1-0) [1.1](#cite-ref-homerun-1-1) [Version History: December 13th, 2025](Version_History/Uncollapsed.md#december-13th-2025)

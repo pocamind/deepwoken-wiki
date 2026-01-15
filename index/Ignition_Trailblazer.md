@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 186880
+revid: 191987
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Ignition Union]
@@ -46,3 +46,4 @@ The [Perseverance](Talents.md#perseverance) Talent lowers your time knocked by 2
 
 -   One of the cheapest Expert armors to make.
 -   it has the exact same crafting recipes as a few other expert armors, such as [Diver Journeyman Robes](Diver_Journeyman_Robes.md) and [Hive Drone](Hive_Drone.md).
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/11630345824/Ignition-Upgrade-Top) / [Pants](https://www.roblox.com/catalog/11630353600/Ignition-Upgrade-Bot)

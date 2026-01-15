@@ -1,6 +1,6 @@
 ---
 title: Alirian
-revid: 191307
+revid: 192077
 source: https://deepwoken.fandom.com/wiki/Alirian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -79,7 +79,7 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 </tbody>
 </table>
 
-**Race Won:**
+**Race End:**
 
 <table>
 <tbody>
@@ -157,9 +157,10 @@ Alirian is located in [Minityrsa](Minityrsa.md), beyond the frozen lake and behi
 <tr>
   <td colspan="3">Ah, I see.. You have more to find out there in the world, my dear rival! Seek out the orbs of wind throughout this <a href="Glossary.md#the-luminants">Luminant</a>, and you'll maybe be able to catch up with me, hehe!</td>
   <td colspan="3">Rival! You've done it! That's.. everything! I suppose I can.. begrudgingly congratulate you! No more easy race wins for me, I suppose! Well done.</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

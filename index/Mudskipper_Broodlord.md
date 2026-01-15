@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 171930
+revid: 192047
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,9 +8,15 @@ categories: [Monsters]
 
 # Mudskipper Broodlord
 
-_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
+| Mudskipper Broodlord | |
+|---|---|
+| health | 5500, 13750(Corrupted) |
+| attacks | Punch, Left Hook, Broodrot Thrust, Broodrot Smash, Call of the Horde |
+| drops | Mantra Modifiers, Coral Cestus, Martial Artist |
+| locations | Voidsea, The Depths, The Aratel Sea, The Diluvian Mechanism, Saramaed Hollow |
+| challenges | -- Mudskipper Brute --, Bruteslayer - Slay 10.Reward: +5% DMG; +2.5% RES, Brawnslayer - Slay 25.Reward: +5% DMG; +2.5% RES, Broodslayer - Slay 100.Reward: +5% DMG; +2.5% RES |
 
-Template:Creature Infobox V3
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
 
 ## Description
 

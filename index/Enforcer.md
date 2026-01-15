@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 184000
+revid: 192020
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -8,11 +8,17 @@ categories: [Monsters, The Depths]
 
 # Enforcer
 
+| Enforcer | |
+|---|---|
+| health | 3,700 (Sword), 4,000 (Axe), 4,100 (Hammer), 10,250 (Corrupted), 8,000 (Servant of Enmity), 800 (Trial of One) |
+| attacks | High Swing, Low Swing, Kick, Whirlwind, Space Pull, Feint |
+| drops | Enforcer's Axe, Enforcer's Blade, Enforcer's Hammer, Enforcer Plate, Enforcer Boots, Enforcer Eye, Mantra Modifiers |
+| locations | The Depths Trial, Hell Mode, The Diluvian Mechanism, Trial of One, Summoned by the Heart of Enmity |
+| challenges | -- Enforcer --, Detestable Detainer - Slay 10.Reward: +5% DMG; +2.5% RES, Baleful Bailiff - Slay 25.Reward: +5% DMG; +2.5% RES, Onerous Oppressor - Slay 100.Reward: +5% DMG; +2.5% RES |
+
 “ The titans known as Enforcers are faithful servants of the Cathedral, rarely found outside its grounds. It is said that they are the tortured souls of those who have failed the Trial, twisted into fiends that deny mortal souls salvation. ”
 
 ― Enforcer's Axe description
-
-Template:Creature Infobox V3
 
 ## **Description**
 

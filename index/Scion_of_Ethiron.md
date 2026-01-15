@@ -1,12 +1,19 @@
 ---
 title: Scion of Ethiron
-revid: 190932
+revid: 192039
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
 ---
 
 # Scion of Ethiron
+
+| Scion of Ethiron | |
+|---|---|
+| health | 40,000 |
+| drops | Chest (see loot table), Kyrsieger, Whistling Periapt, Deep Gems, Armorer's Needle, Reciprocal Bonecharm, All Kyrs Weapon series, Respawns Medallion Chests., Misc. |
+| locations | New Kyrsa, The Sleeping City |
+| challenges | -- Scion of Ethiron --, You Again? - Slay 10.Reward: +15% DMG; +7.5% RES |
 
 _This is the boss encountered at the end of [Layer 2, Floor 2](Second_Layer/New_Kyrsa.md). For its puppeteer and namesake, see [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>)._
 
@@ -17,8 +24,6 @@ This content is not accessible outside of this gamemode.
 “ The egg hatches soon, little diver. The wails of the screaming child born under the snow will bring it all crashing down. ”
 
 ― Carrion
-
-Template:Creature Infobox V3
 
 ## Description
 

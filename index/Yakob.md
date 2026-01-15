@@ -1,9 +1,9 @@
 ---
 title: Yakob
-revid: 191698
+revid: 191996
 source: https://deepwoken.fandom.com/wiki/Yakob
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Yakob
@@ -12,6 +12,7 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern
 |---|---|
 | name | Yakob |
 | aspect | Adret |
+| pronouns | He/him |
 | location | The Three Cheers |
 | affiliation | The Central Authority |
 

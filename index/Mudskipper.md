@@ -1,12 +1,20 @@
 ---
 title: Mudskipper
-revid: 190796
+revid: 192028
 source: https://deepwoken.fandom.com/wiki/Mudskipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Humanoid Monsters]
 ---
 
 # Mudskipper
+
+| Mudskipper | |
+|---|---|
+| health | 150 / 120, 375 / 300 (Corrupted), 250(Mine) |
+| attacks | Scratch, Air Force (Enhanced) |
+| drops | Lesser Mantra Modifiers & Sparks, Gale Stone (Enhanced), Dying Embers (Bloat), All Ores (Mine), Miner's Hardhat (Mine) |
+| locations | Random Sea Event, Mudskipper Emergence event, Stairway to The Viper's Jaw, Pathfinder's Respite, Summoned by Mudskipper Brutes and Broodlords (Mini and Bloat), The Depths, Fishing, Songseeker Mines (Mine) |
+| challenges | -- Mudskipper --, Dawn of the Drowned - Slay 10.Reward: +10% DMG; +5% RES, 25 Drowns Later - Slay 25.Reward: +10% DMG; +5% RES, Night of the Living Drowned - Slay 100.Reward: +10% DMG; +5% RES |
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
 
@@ -15,7 +23,7 @@ _This might have not been the page you were looking for, if you were looking for
 ― Mudskippers during Mudwoken
 
   
-There are a few types and variants of **Mudskippers**. Where more can be found in the [Mudskipper (disambiguation)](<Mudskipper_(disambiguation).md>) page, this page covers two variants of Mudskippers. Template:Creature Infobox V3
+There are a few types and variants of **Mudskippers**. Where more can be found in the [Mudskipper (disambiguation)](<Mudskipper_(disambiguation).md>) page, this page covers two variants of Mudskippers.
 
 ## Description
 

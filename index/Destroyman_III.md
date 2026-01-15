@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 179019
+revid: 192075
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -8,11 +8,12 @@ categories: [NPCs]
 
 # Destroyman III
 
+| Destroyman III | |
+|---|---|
+
 “ Mudwoken? What are you talking about? That's so 91 years ago. Get with the times. ”
 
 ― Destroyman III
-
-Template:Creature Infobox V3
 
   
 

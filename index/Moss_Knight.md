@@ -1,6 +1,6 @@
 ---
 title: Moss Knight
-revid: 190040
+revid: 192068
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]
@@ -10,13 +10,17 @@ notices:
 
 # Moss Knight
 
+| Moss Knight | |
+|---|---|
+| health | ~2060 |
+| attacks | Slash, Kick, Wind Cutter, Terra Eruption, Lifeweave Flourish |
+| drops | Unknown |
+
 Variants: [Stone Knight](Stone_Knight.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
-
-Template:Creature Infobox V3
 
 ## Description
 

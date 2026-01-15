@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 189533
+revid: 192062
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -8,11 +8,17 @@ categories: [World Event, Monsters, Bosses]
 
 # The Doom of Caeranthil
 
+| The Doom of Caeranthil | |
+|---|---|
+| health | 60,000 |
+| attacks | Dive, Pressure Eruption, Sudden Ambush, Tidal Roar, Whirlpool, Luminant Beam |
+| drops | Murmur: Ardour, Doom of Caeranthil's Scale, Raw Heavy MeatChest, Eye of Malice, Lumensplitter, Inquisitor's Duster, Warlock's Brim, Warlock's Mantle, Etc. (Check Loot Table) |
+| locations | Open Sea (Etrean Luminant) |
+| challenges | -- The Doom of Caeranthil --, Caeranthil's Vengeance - Slay 10.Reward: +15% DMG; +7.5% RES |
+
 “ In many respects, knowledge of Caeranthil only persists within the lens of nightmares that consumed it. The culture, the food, the laughter, the in-jokes, the petty disputes, the fashions they styled themselves after… How can we experience these things if there’s no one left to remember them? ”
 
 ― Eye of Malice description
-
-Template:Creature Infobox V3
 
 ## Description
 

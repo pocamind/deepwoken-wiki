@@ -1,9 +1,9 @@
 ---
 title: Taiga
-revid: 191653
+revid: 192001
 source: https://deepwoken.fandom.com/wiki/Taiga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
+categories: [Capra NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Taiga
@@ -12,6 +12,7 @@ categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern
 |---|---|
 | name | Taiga |
 | aspect | Capra |
+| pronouns | She/her |
 | location | The Three Cheers |
 | affiliation | The Central Authority |
 

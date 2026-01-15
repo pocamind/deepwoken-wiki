@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 190363
+revid: 192048
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,14 @@ categories: [Monsters]
 
 # Nightmare Thresher
 
-_Also known as Radioactive Thresher and Poison Thresher_Template:Creature Infobox V3
+| Nightmare Thresher | |
+|---|---|
+| health | 12003000 (Corrupted) |
+| attacks | Tail Swipe, Burrow, Cursed Flame, Ram, Arm Swipe, Ram |
+| locations | Ancient Rotlands, The Diluvian Mechanism |
+| challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
+
+_Also known as Radioactive Thresher and Poison Thresher_
 
 ## Description
 

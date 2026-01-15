@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 187298
+revid: 192046
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -8,7 +8,15 @@ categories: [Pages with broken file links, Monsters]
 
 # Mudskipper Brute
 
-_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._ Template:Creature Infobox V3
+| Mudskipper Brute | |
+|---|---|
+| health | 1000, 2500 (Corrupted) |
+| attacks | Lumbering Strike, Lumbering Jab, Lumbering Thrust, Lumbering Smash, Call of the Horde |
+| drops | Coral Cestus, Martial Artist, Umbral Obsidian |
+| locations | The Etrean Sea, The Aratel Sea, The Depths, The Diluvian Mechanism, Saramaed Hollow |
+| challenges | -- Mudskipper Brute --, Bruteslayer - Slay 10.Reward: +5% DMG; +2.5% RES, Brawnslayer - Slay 25.Reward: +5% DMG; +2.5% RES, Broodslayer - Slay 100.Reward: +5% DMG; +2.5% RES |
+
+_This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
 
 ## Description
 

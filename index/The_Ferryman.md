@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 191966
+revid: 192025
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -8,11 +8,17 @@ categories: [Enemies, NPCs, Bosses, Voiced Characters]
 
 # The Ferryman
 
+| The Ferryman | |
+|---|---|
+| health | 30,000 (30k per player) |
+| attacks | Lightning Clones, Lightning Strike, Lightning Assault, Grand Volley |
+| drops | 3 Chests (see loot table), 2/1 Knowledge, Ferryman's Coat Cloth, (Spring only):, 1 Knowledge(Summer Only):, Chest(Autumn Only):, Chest(Winter Only):, Aelita chest |
+| locations | Boatman's Watch |
+| challenges | -- The Ferryman --, Dance Partner - Slay 10.Reward: +5% DMG; +2.5% RES |
+
 “ I am a Krulian, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always. ”
 
 ― The Ferryman
-
-Template:Creature Infobox V3
 
 ## Description
 

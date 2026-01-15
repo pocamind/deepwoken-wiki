@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 190039
+revid: 192019
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -8,12 +8,18 @@ categories: [Monsters, Knights]
 
 # Stone Knight
 
+| Stone Knight | |
+|---|---|
+| health | 3000, 7500 Corrupted, 400 (Trial of One), 9000 (Blizzard), 22500 (Corrupted Blizzard) |
+| attacks | Slash, Kick, Wind Cutter, Terra Eruption |
+| drops | Advanced Mantra Modifiers, Dying Embers, Relic Axe |
+| challenges | -- Stone Knight --, Granite Gallantry - Slay 10.Reward: +10% DMG; +5% RES, Sword In The Stone - Slay 25.Reward: +10% DMG; +5% RES, We Will Rock You - Slay 100.Reward: +10% DMG; +5% RES |
+
 “ Seeing the state of their cities... Their arrival seems less like divine visitation and more like evacuation. As above, so below. ”
 
 ― Celestial Telescope
 
   
-Template:Creature Infobox V3
 
 ## Description
 

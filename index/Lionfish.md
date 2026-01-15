@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 185592
+revid: 192022
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -10,12 +10,19 @@ notices:
 
 # Lionfish
 
+| Lionfish | |
+|---|---|
+| health | 18004500 (Corrupted) |
+| attacks | Bite, Dive (Surface), Cero (Depths) , Corrupted Beam (Corrupted) |
+| drops | Lionfish Scale, Vibrant Gem |
+| locations | First Layer, The Aratel Sea, Voidsea, Fishing |
+| challenges | -- Lionfish --, Lionfish Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Lionfish Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Lionfish Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
+
 “ \[...\] The fossil record suggests that they may have been responsible for the extinction of many predatory fish species, completely outcompeting them and dwarfing them in size. ”
 
 ― Lionfish Scale Description
 
   
-Template:Creature Infobox V3
 
 ## Description
 

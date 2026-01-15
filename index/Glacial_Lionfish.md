@@ -1,6 +1,6 @@
 ---
 title: Glacial Lionfish
-revid: 186255
+revid: 192050
 source: https://deepwoken.fandom.com/wiki/Glacial_Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -8,7 +8,13 @@ categories: [Monsters]
 
 # Glacial Lionfish
 
-Template:Creature Infobox V3
+| Glacial Lionfish | |
+|---|---|
+| health | 600015000 (Corrupted) |
+| attacks | Bite, Chilling Cero |
+| drops | Lionfish Scale, Vibrant Gem, Frigid Prism, True Seraph's Spear |
+| locations | First Layer, Voidsea, The Aratel Sea |
+| challenges | -- Lionfish --, Lionfish Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Lionfish Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Lionfish Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
 
 ## Description
 

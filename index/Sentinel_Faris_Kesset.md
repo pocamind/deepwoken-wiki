@@ -1,6 +1,6 @@
 ---
 title: Sentinel Faris Kesset
-revid: 191864
+revid: 191984
 source: https://deepwoken.fandom.com/wiki/Sentinel_Faris_Kesset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Individuals with She/her pronouns, NPCs, Military personnel of The Central Authority, Deceased characters]
@@ -31,7 +31,7 @@ Sentinel Faris Kesset is a [Tiran](Tiran.md) NPC. She was part of the Shock Troo
 
 She wielded the [Duskguard Axe](Duskguard_Axe.md). As signified by her [resonance](Resonance.md), she was moderately strong.
 
-She was eventually slain by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) and was succeeded by [Sentinel Augustus](Sentinel_Augustus.md).[\[1\]](#cite-note-aug-1)
+She was eventually slain by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) and was succeeded by [Sentinel Augustus](Sentinel_Augustus.md). Augustus had served as an Operator under Kesset and had been particularly close to her.[\[1\]](#cite-note-aug-1)
 
 ## Location
 

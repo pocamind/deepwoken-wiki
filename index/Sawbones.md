@@ -1,9 +1,9 @@
 ---
 title: Sawbones
-revid: 191617
+revid: 192002
 source: https://deepwoken.fandom.com/wiki/Sawbones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
+categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
 ---
 
 # Sawbones
@@ -13,6 +13,7 @@ categories: [Canor NPCs, Vow of Iron Exclusive, NPCs, Military personnel of The 
 | name | Unknown |
 | alias | Doc[1], Sawbones |
 | aspect | Canor |
+| pronouns | He/him |
 | location | Fort Merit |
 | affiliation | The Central Authority |
 
