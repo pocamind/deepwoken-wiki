@@ -1,6 +1,6 @@
 ---
 title: Nightbringer
-revid: 190532
+revid: 191918
 source: https://deepwoken.fandom.com/wiki/Nightbringer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -24,9 +24,9 @@ This enchantment changes your weapon's color to black and envelops it with black
 
 ## Effect
 
-On weapon attack, Nightbringer steals a flat amount of ether from your opponent, based on scaled damage dealt.
+On M1, Nightbringer steals a flat amount of ether from your opponent, based on scaled damage dealt.
 
-Additionally, your weapon attacks will proc certain [Shadowcast](Shadowcast.md) Talents on hit, such as [Sightless Still](Talents.md#sightless-still) and [Twisted Puppets' shadow burn](Talents.md#twisted-puppets).
+Additionally, your M1s will proc certain [Shadowcast](Shadowcast.md) Talents on hit, such as [Sightless Still](Talents.md#sightless-still) and [Twisted Puppets' shadow burn](Talents.md#twisted-puppets).
 
 ### Notes
 

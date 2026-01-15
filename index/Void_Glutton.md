@@ -1,6 +1,6 @@
 ---
 title: Void Glutton
-revid: 190339
+revid: 191964
 source: https://deepwoken.fandom.com/wiki/Void_Glutton
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -24,7 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Void Glutton** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento heavily incentivizes PvP above all else.
+**Void Glutton** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+
+Lumen is but a buffet for the Void Glutton, a dastardly [Shadowcaster](Shadowcast.md) who hungers. When slaying adventurers, their hunger is sated, permanently granting them increased resilience at the cost of their mobility.
 
 ## Starting Abilities
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191910
+revid: 191930
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2130,10 +2130,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Kickstart \[Common Talent, Thundercall, Fortitude/Charisma\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
-        -   Default knock time is 10 seconds, so you can make your friends get back into the fight over 3 times faster.
-        -   Takes 5% ether on use and an extra 20% on successive use.
-        -   Brings the target up with 10% health.
-        -   Requires an animation, stunlocking yourself.
+    -   Kickstart's animation takes 3 seconds to complete, and you cannot act during this animation.
+    -   Despite the description stating "allies", this can be used on non-allies and even humanoid NPCs.
+    -   Takes 5% ether on use and an extra 20% on successive use.
+    -   Heals 10% of the affected target's health.
+    -   Can be used on people who are using Kickstart or are affected by Paralytic Dust.
     -   Prerequisites: 40 Fortitude OR 40 Charisma, 50 Thundercall
 
 ### Lancer
@@ -2145,8 +2146,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 50 Medium Weapon, Using a spear
 
 -   Driving Impact \[Common Talent, Medium Weapon\] - Spears The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.
+    -   This only works on the default spear critical.
     -   Prerequisites: 30 Medium Weapon, Using a spear
-    -   Works only with normal two-hit Critical Attacks of Spears
 
 -   Lancer's Impale \[Common Talent, Medium Weapon\] - Spears Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
     -   Prerequisites: 30 Medium Weapon, Using a spear
@@ -4385,7 +4386,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Grants a 25% damage buff for the duration of the buff.
     -   The health highlight on hit effect is very similar to [Soulbreaker's](Oath%253A_Soulbreaker.md) Heart Reverb Talent.
 
--   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 5 seconds.
+-   Refreeze: [Icebringer's Vestments](<Icebringer's_Vestments.md>) - Landing any sort of ability that causes bottom freeze reduces the cooldown of your Orbital Ice by 8 seconds.
 
 -   Repeated Blows: [Reinforced War Boots](Reinforced_War_Boots.md) - Any [strength](Attunement-less.md#strength) mantra that has a [Wrath Gem](Wrath_Gem.md) on it will reset its cooldown if you land a critical while a Wrath Gem is active.
     -   Wrath Gems are active for 9 seconds with no visual indication.

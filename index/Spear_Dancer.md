@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 190081
+revid: 191953
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -28,7 +28,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Spear Dancer** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento advertises the playstyle of out ranging opponents with your weapon's superior reach.
+**Spear Dancer** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode.
+
+The dancer thrives in their motion, putting constant pressure on the enemy while remaining just out of reach.
 
 ## Starting Abilities
 

@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 189678
+revid: 191950
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -31,6 +31,8 @@ _If you're looking for the character of the same name, see [Saint Jay (individua
 Saint Jay (Memento) is a playable [Memento](Mementos.md) available in the [Vow of Iron](Vow_of_Iron.md) gamemode, It follows in the path of [Saint Jay](<Saint_Jay_(individual).md>), a disciple of the Hero of Frost, [Faust](Faust.md) and is unlocked by default.
 
 Upon reaching Power 20 with this Memento, the player will gain the "Saint" title on that character. This title will be lost should the player wipe.
+
+As the disciple of Faust, the Saint Jay makes liberal use of Chill and Freeze. The battlefield becomes their own snowfields, increasing their resilience and keeping foes in place.
 
 ## Starting Abilities
 

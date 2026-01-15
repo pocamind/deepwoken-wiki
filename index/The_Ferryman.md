@@ -1,9 +1,9 @@
 ---
 title: The Ferryman
-revid: 191660
+revid: 191966
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Enemies, NPCs, Bosses, Voiced Characters]
+categories: [Enemies, NPCs, Bosses, Voiced Characters]
 ---
 
 # The Ferryman
@@ -378,9 +378,9 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 
 -   The [music](Deepwoken_OST.md) that plays as you fight the Ferryman will vary depending on his current phase. The music is modified in-game and cannot be heard the exact same way it is heard here.
     -   If the Ferryman is in phase 1, "A Sarabande of Thunder" will play in the background.
-        -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1) **File:A Sarabande Of Thunder.mp3**
+        -   **[A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 1)
     -   If the Ferryman is in phase 2, "Dance, If You Can!" will play in the background.
-        -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2) **File:Dance, If You Can!.mp3**
+        -   **[Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can?in=naktigonis/sets/deepwoken-ost-1)** (The Ferryman Phase 2)
 -   The Ferryman's Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | 17208591888 Hair ID
 -   The Ferryman is confirmed by Arch\_Mage to be **completely** unrelated to [the keeper](https://rogue-lineage.fandom.com/wiki/The_Ferryman) of the [House of Purgatory](https://rogue-lineage.fandom.com/wiki/House_of_Purgatory) from Rogue Lineage. [\[1\]](#cite-note-1)
 -   Due to this boss and The [Scion of Ethiron](Scion_of_Ethiron.md) using a purple variation of their respective element, they were thought to be using "awakened elements." However, despite the connections that would lead one to believe this is the application of the Song that [Kaide](Kaide,_the_Drowned_Light.md) talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool."

@@ -1,6 +1,6 @@
 ---
 title: Stormbreaker
-revid: 190557
+revid: 191956
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -32,10 +32,10 @@ Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](St
 
 Stormbreaker additionally replaces your critical attack with a cursor-aimed weapon throw that ragdolls and strikes your opponent with lightning on hit. You cannot attack or move until your weapon has returned to you.
 
-Stormbreaker's critical deals 40 flat Thundercall damage on throw and 30 flat Thundercall damage on return. This can hit the same target twice. Stormbreaker's critical deals 1 posture damage if blocked.
+Stormbreaker's critical deals 40 flat typeless damage on throw and 30 flat typeless damage on return. This can hit the same target twice. Stormbreaker's critical deals 1 posture damage if blocked.
 
 ### Notes
 
 -   Stormbreaker's secondary damage instance cannot be buffed.
--   Because Stormbreaker's secondary damage instance and critical deal Thundercall damage, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Thundercall resistance, allowing the first hit of your non-Thundercall attuned Mantras to deal 10% more damage against players using this Talent.
+-   Because Stormbreaker's secondary damage instance deals Thundercall damage, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Thundercall resistance, allowing the first hit of your non-Thundercall attuned attacks to deal 10% more damage against players using this Talent.
 -   Stormbreaker's base effect is essentially a better version of [Storm](Storm.md)'s, as it does not get double resisted.

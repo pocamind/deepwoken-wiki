@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 184399
+revid: 191928
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons]
@@ -43,7 +43,7 @@ The Shotel is a Medium Weapon. It can be found through chests in [Minityrsa](Min
 
 ## Critical
 
-The user spins in a circle, then performs a horizontal slash. If landed on a block, it does 100% chip damage.
+The user spins in a circle, then performs a horizontal slash. If landed on a block, it does 100% chip damage. This attack has a scaled damage multiplier of 1.1x.
 
 The critical has a cooldown of **3 seconds.**
 

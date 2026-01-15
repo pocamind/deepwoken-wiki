@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 190267
+revid: 191927
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -248,7 +248,7 @@ Lightning + Slash
 -   The Magnet Spark variant has a base damage of 10 (flat) + 7/7.5/8/8.5/9 per level, per hit (7) with 2.75 Thundercall scaling.
 -   Deals 1 posture damage per hit (7, 9 if Blast Spark).
 -   The Magnet Spark variant's initial hit deals no posture damage.
--   30 second cooldown.
+-   10 second cooldown.
 -   Projectile moves along where the character is facing.
 -   Shocks opponents inside of it while dealing damage.
 -   Can be modified with **Cloudstones/Stratus Stones** to increase the AoE. However, this will reduced the Mantra's damage.

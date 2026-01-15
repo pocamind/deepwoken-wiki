@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 190530
+revid: 191933
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 
 ## Description
 
-Parasol's Blight is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive summoning enchantment that spawns and allied [Monster](Monsters.md) upon killing a player.
+Parasol's Blight is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive summoning enchantment that spawns an allied [Monster](Monsters.md) upon killing a player.
 
 This enchantment changes your weapon's color to a light purple and applies a stone texture to the weapon. Additionally, the weapon will emit a purple slashing effect.
 

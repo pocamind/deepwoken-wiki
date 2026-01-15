@@ -1,6 +1,6 @@
 ---
 title: Breaker
-revid: 189810
+revid: 191958
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
@@ -13,7 +13,7 @@ notices:
 | Breaker | |
 |---|---|
 | description | Skilled in fist-based conflict negotiations. |
-| unlock | Deal the most damage to Primadon, Titan of the East and kill him |
+| unlock | Deal the most damage to Primadon, Titan of the East and defeat it |
 | starting health | 200 |
 | starting attributes | 6 Light Weapon, 6 Strength, 4 Fortitude, 1 Agility, 3 Willpower |
 | final attributes | 120 Light Weapon, 120 Strength, 80 Fortitude, 5 Agility, 50 Willpower |
@@ -31,6 +31,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 **Breaker** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. You get access to both [Legion Kata](Legion_Kata.md) and [Way of Navae](Way_of_Navae.md) fighting styles.
+
+The Breaker is a hulking brute, empowering themself throughout the fight, culminating in devasting Strongs Left and Rapid Punches who could split mountains in halve.
 
 ## Starting Abilities
 

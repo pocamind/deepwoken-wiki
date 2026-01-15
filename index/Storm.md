@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 190559
+revid: 191957
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -33,7 +33,7 @@ Additionally this applies [Shock](Status_Effects.md#shock) or one [Surge Rod](St
 ### Notes
 
 -   Storm's secondary damage instance cannot be buffed.
--   Because Storm's secondary damage instance deals Thundercall damage, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Thundercall resistance, allowing the first hit of your non-Thundercall attuned Mantras to deal 10% more damage against players using this Talent.
+-   Because Storm's secondary damage instance deals Thundercall damage, you can use this enchantment to change your opponent's [Everchanging Aegis](Talents.md#everchanging-aegis) type to Thundercall resistance, allowing the first hit of your non-Thundercall attuned attacks to deal 10% more damage against players using this Talent.
 -   Because Storm deals a percentage of your weapon's damage **after** resistances, it can be double resisted.
     -   For example if you deal 100 damage with your weapon hit, then Storm will deal 16.5 damage. If your opponent has 50% physical resistance, your attack will deal 50 damage, meaning Storm will deal 8.25 damage. If your opponent also has 50% Thundercall resistance, then Storm's damage will be reduced further down to 4.125 damage.
     -   This also applies to general resistance sources. If your opponent has a general resistance, then your weapon damage will be reduced, and Storm will deal damage based on that reduced damage, before being reduced itself.

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 186945
+revid: 191934
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -19,13 +19,13 @@ Weapons are the main tools used for attacking enemies in _Deepwoken_. They can b
 
 A weapon's damage will scale based on your investment of certain [Attributes](Attributes.md). Weapons often scale off of the same attributes required to wield them, mainly being the 3 weapon attributes, but may scale off of any attribute, such as the [Light's Final Toll](<Light's_Final_Toll.md>) scaling with Willpower, or even [Attunement](Attunements.md) attributes, such as the [Hero's Blade of Wind](<Hero's_Blade_of_Wind.md>) scaling with solely Galebreathe. Weapons may scale off of multiple attributes at once, as is the case with the [Gran Sudaruska](Gran_Sudaruska.md) scaling off of both Frostdraw and Heavy Weapon.
 
-When obtaining a weapon, it can come with up to 3 quality stars on it, which add either +2% extra damage per star, +5% extra penetration per star (14% at 3 stars), or +4% weight (posture damage) per star.
+When obtaining a weapon, it can come with up to 3 quality stars on it, which add either +2% extra damage per star, +5% extra penetration per star, or +4% weight (posture damage) per star.
 
 | Type | ★ | ★★ | ★★★ |
 | --- | --- | --- | --- |
 | Damage | +2% | +4% | +6% |
 | Weight (Posture damage) | +4% | +8% | +12% |
-| Penetration | +5% | +10% | +14% |
+| Penetration | +5% | +10% | +15% |
 | Sell Price | +5 | +20 | +50 |
 
 It is best to obtain 3 quality stars for the weapon you want in order to maximize effectiveness. However, this may prove a tiresome task considering how rare a favourable weapon can be.
