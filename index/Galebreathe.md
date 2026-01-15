@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 190027
+revid: 192080
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1069,7 +1069,7 @@ Gale Wisp will extend the duration of Haunted by 3 seconds.
 -   For some bizarre reason, Heavenly Wind has been referred to as Heavenly Strike multiple times in the update logs.
 -   Jumping before activating the _"Tempest Wind"_ variant of **Wind Blade** will propel the user forward by a few studs while releasing a sound cue.
 -   A few Talents require to Inhale mantras, which acts like a cancel but are performed differently:
-    -   Cast the mantra then press M1 and M2 together to Inhale, you know you're doing it right when you hear an inhale sound.
+    -   Cast the mantra then press M2 to Inhale, you know you're doing it right when you hear an inhale sound.
 -   Galebreathe can apply 2 status effects: _"Winded"_ & _"Suffocate"_.
     -   _"Winded"_ reduces your opponent's attack speed.
     -   _"Suffocate"_ prevents the opponent from using mantras; the opponent will also have a resonance-like effect circling their neck when applied.
