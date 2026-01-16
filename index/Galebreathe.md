@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 192080
+revid: 192370
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1019,7 +1019,7 @@ These Talents are found in the _Silencer_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | A World Without Song  
-(75 Galebreathe, POWER 10, Silencer's Blade) | Every 3 hits with a Wind Mantra now procs Suffocate. | Procs on every 4 hits if you have less than 75 Galebreathe.  
+(75 Galebreathe, POWER 10, Silencer's Blade) | Every 3 hits with a Wind Mantra now procs [Suffocating.](Status_Effects.md#suffocate) | Procs on every 4 hits if you have less than 75 Galebreathe.  
 Procs on every 5 hits if you have less than 40 Galebreathe. |
 |  | Silencer's Blade  
 (60 Galebreathe, POWER 10) | Meleeing a 'Suffocated' opponent will extend the duration of the Suffocation. | Grants a speed boost on proc. |

@@ -1,9 +1,9 @@
 ---
 title: Leaf Spellhardt
-revid: 191517
+revid: 192349
 source: https://deepwoken.fandom.com/wiki/Leaf_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
+categories: [Lightborn NPCs, Individuals with He/him pronouns, NPCs, NPCs located in The Floating Keep, Members of the Spellhardt family, Hallowtide]
 ---
 
 # Leaf Spellhardt
@@ -12,12 +12,13 @@ categories: [Lightborn NPCs, NPCs, NPCs located in The Floating Keep, Members of
 |---|---|
 | name | Leaf Spellhardt |
 | aspect | Lightborn |
+| pronouns | He/him |
 | location | The Floating Keep |
 | family | Spellhardt family |
 
 ## Description
 
-Leaf Spellhardt is [Lightborn](Lightborn.md) NPC, he is the [Mantra Collector](Mantra_Collector.md) of the Spellhardt family.
+Leaf Spellhardt is [Lightborn](Lightborn.md) NPC. He is the [Mantra Collector](Mantra_Collector.md) of the Spellhardt family.
 
 He wears the [Cala-Mariner](Cala-Mariner.md) outfit.
 

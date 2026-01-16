@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 191384
+revid: 192434
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -21,7 +21,7 @@ categories: [Monsters, Layer 2, Floor 1, The Depths]
 
 ## Description
 
-The Bone Keeper is a Monster mainly found in the [Eternal Gale](Second_Layer.md). It can also appear in the [Pathfinder](Pathfinder.md) Depths Trial when you have too many Drowns, potentially [Corrupted](Monsters.md#scyphozia), and in the [Vow of Iron](Vow_of_Iron.md) Depths Trial when Power 5 and below. Bone Keepers in the in the [Vow of Iron](Vow_of_Iron.md)have vastly less cooldown between their moves and their moves also play out faster, but they have far less health than they do in [Pathfinder](Pathfinder.md).
+The Bone Keeper is a Monster mainly found in the [Eternal Gale](Second_Layer.md). It can also appear in the [Pathfinder](Pathfinder.md) Depths Trial when you have too many Drowns, potentially [Corrupted](Monsters.md#scyphozia), and in the [Vow of Iron](Vow_of_Iron.md) Depths Trial when Power 5 and below. Bone Keepers in the [Vow of Iron](Vow_of_Iron.md)have vastly less cooldown between their moves and their moves also play out faster, but they have far less health than they do in [Pathfinder](Pathfinder.md).
 
 Bone Keepers are giant, humanoid creatures, with inhuman proportions, having short legs yet large arms. It has noticeably clawed feet, with bone claws for hands. They sport a red and gold loincloth of sorts on their lower body and lack clothing on their upper half. Their head also appears to be made out of a cylindrical formation of bones.
 

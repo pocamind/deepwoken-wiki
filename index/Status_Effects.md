@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 191865
+revid: 192409
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -50,7 +50,7 @@ While ragdolled, you gain slight damage reduction at the cost of your character 
 
 ### Knockdown
 
-While affected by knockdowns, you cannot move or cast any abilities. Knockdowns are applied through various sources such as default heavy weapon criticals and certain [Mantras](Mantras.md). This effect is signified by your character being slammed into the ground briefly.
+While affected by knockdowns, you cannot move or cast any abilities. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Knockdowns are applied through various sources such as default heavy weapon criticals and certain [Mantras](Mantras.md). This effect is signified by your character being slammed into the ground briefly.
 
 ### Respite
 
@@ -65,29 +65,29 @@ Burn will be extinguished when rolling, jumping in water/standing in rain, or sl
 It has a few sub-variants:
 
 -   Azure Burning: Deals 12.5% more damage per tick than base burn. This burn type comes from [Azure Flames](Talents.md#azure-flames).
--   Black Flames: This burn type has two sub types. Both of these burns come from [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets) and drain a flat 6.25 Ether per tick.
+-   Black Flames: This burn type has two sub types. Both of these burns come from [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets) and drain a flat 6.25 Ether from affected targets per tick.
     -   Puppet Burn: Derived from any non-Shadowcast burn applicator, this burn type deals 87.5% less damage than base burn. Uniquely, this burn type will spawn Puppets with a 4 second cooldown.
     -   Shadow Burn: Derived from Shadowcast sources, this burn type deals 75% less damage than base burn.
 -   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn.
--   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21. White Flames has a higher DPS than base burn, especially as it benefits from all of your Flamecharm Talents and the [Deepfire Ring](Deepfire_Ring.md).
+-   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21. White Flames has a higher DPS than base burn, especially as it benefits from all of your Flamecharm Talents. The [Deepfire Ring](Deepfire_Ring.md) has no effect with this burn type, as it has the same effect of reducing the base damage of burn for a tick rate increase.
 -   [Flamewreathed](Monsters.md#attuned-monsters): [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
--   Self Immolation: [Flame Within](Talents.md#flame-within) exclusive, grants a 10% damage bonus and a movement speed bonus. Cannot be removed from self via rolling or sliding, use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
+-   Self Immolation: [Flame Within](Talents.md#flame-within) exclusive, grants a 10% damage bonus and a movement speed bonus. Cannot be removed from self via rolling or sliding, instead needing you to use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
 
 ### Hyperarmor
 
 Make your attacks uninterruptible and become immune to most forms of stun; Vents and Thundercall's Shock will bypass this and will interrupt your attack. Can be applied with the Critical attack of most heavy weapons, [Brace](Attunement-less.md#brace), and many other sources. Signified by your character gaining a red highlight. Hyperarmor ends early if you cast a Mantra.
 
-### True Hyperarmor
+#### True Hyperarmor
 
 Your attack becomes entirely uninterruptable; Vents and Shock have no effect. Can be applied with [Darksteel Greatsword](Darksteel_Greatsword.md)'s Critical attack, [Stoneheart's](Stoneheart.md) Critical's charge animation, [Chorus of Agonies'](Chorus_of_Agonies.md) Critical attack and the [Iron Hug](Ironsing.md#iron-hug) Mantra. This effect is visually indistinguishable from normal Hyperarmor, being the same red highlight.
 
 ### Dazed
 
-Have your dodge frames lowered for a brief period. Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras, criticals, or applied by certain Talents.
+Have your dodge frames lowered and be unable to sprint for a brief period. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Applied after being flourished into a wall by default. Signified by yellow stars around your character. Can also be applied after being hit by certain mantras, criticals, or applied by certain Talents.
 
-### True Daze
+#### True Daze
 
-Be completely unable to dodge or move for a short duration. Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
+Be completely unable to dodge or move for a short duration. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
 
 ### Bleed
 
@@ -302,7 +302,11 @@ These status effects are applied by [Oath](Oaths.md)\-exclusive abilities and at
 
 ### Sovereign State
 
-[Blightsurger](Oath%253A_Blightsurger.md) exclusive. Enhance your Blightsurger abilities with better performance and equip the [Sovereign Bangle](Oath%253A_Blightsurger.md) weapon. This status effect is applied by maxing your Blight Meter or pressing X while having Blight Meter. While in this mode, your Blight Meter will slowly decay. Signified by white and black streams coming from your eyes and your current weapon being replaced with the Sovereign Bangle.
+[Blightsurger](Oath%253A_Blightsurger.md) exclusive. Enhance your Blightsurger abilities with better performance and equip the [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle) weapon. This status effect is applied by maxing your Blight Meter or pressing X while having Blight Meter. While in this mode, your Blight Meter will slowly decay. Signified by white and black streams coming from your eyes and your current weapon being replaced with the Sovereign Bangle.
+
+### Decisive Winds
+
+[Jetstriker](Oath%253A_Jetstriker.md) exclusive. If you take damage from an opponent while you are below half health, gain a 25% [Speed boost](#speed-boost) as long as you are within 20 studs of the target, via the [Decisive Winds](Talents.md#decisive-winds) Talent. This effect lasts for 10 seconds with a 30 second cooldown. This effect has no visual indication.
 
 ## Enchantment Applied
 

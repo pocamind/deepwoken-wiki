@@ -1,16 +1,15 @@
 ---
 title: Soothsayer
-revid: 191638
+revid: 192433
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry]
+categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry, Individuals with unspecified pronouns]
 ---
 
 # Soothsayer
 
 | Soothsayer | |
 |---|---|
-| name | Soothsayer |
 | aspect | Celtor |
 | location | Starfield Tundra |
 | affiliation | The Ministry |
@@ -74,4 +73,4 @@ The Soothsayer is an NPC wearing a [Prophet's Cloak](<Prophet's_Cloak.md>), loca
 
 -   It would take ~10 knowledge to reach neutral from base reputation.
 -   It takes 45 Knowledge from enemy rank to become hero rank.
--   It would take 334 knowledge to get 0-100,000 notes.
+-   It would take 334 Knowledge to get 0-100,000 notes.

@@ -1,9 +1,9 @@
 ---
 title: Kressa
-revid: 191506
+revid: 192430
 source: https://deepwoken.fandom.com/wiki/Kressa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
+categories: [Khan NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
 ---
 
 # Kressa
@@ -12,6 +12,7 @@ categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern 
 |---|---|
 | name | Kressa |
 | aspect | Khan |
+| pronouns | She/her |
 | location | Miner's Landing |
 | affiliation | The Ignition Union |
 
@@ -21,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Kressa** is an NPC located in [Miner's Landing](<Miner's_Landing.md>), in a room across from the entrance to [Saramaed Summit](Saramaed_Summit.md). She provides some information relating to [The Summer Company](The_Summer_Company.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
+**Kressa** is a [Khan](Khan.md) NPC located in [Miner's Landing](<Miner's_Landing.md>), in a room across from the entrance to [Saramaed Summit](Saramaed_Summit.md). She provides some information relating to [The Summer Company](The_Summer_Company.md) and [The Knives of Eylis](The_Knives_of_Eylis.md).
 
 ## Dialogue
 

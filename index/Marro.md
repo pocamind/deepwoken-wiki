@@ -1,9 +1,9 @@
 ---
 title: Marro
-revid: 191538
+revid: 192450
 source: https://deepwoken.fandom.com/wiki/Marro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+categories: [Chrysid NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Marro
@@ -12,6 +12,7 @@ categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Easte
 |---|---|
 | name | Marro |
 | aspect | Chrysid |
+| pronouns | He/him |
 | location | Songseeker Wilds |
 | affiliation | The Moonlit Faith |
 
@@ -21,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Marro is a [Chrysid](Chrysid.md) NPC who resides on the islands of [Songseeker Wilds](Songseeker_Wilds.md). He is found sitting near the mine entrance trying to find something for his village's Elder. When talking to him, he tells us a little about the culture of his people and especially about the [Chrysid](Chrysid.md) Elders and their characteristics.
+Marro is a [Chrysid](Chrysid.md) NPC who resides on the islands of [Songseeker Wilds](Songseeker_Wilds.md). He is found sitting near the mine entrance trying to find something for his village's Elder. When talking to him, he tells us a little about the culture of his people and especially about the Chrysid Elders and their characteristics.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 192283
+revid: 192337
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -17,6 +17,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | starting traits | 3 Songchant, 3 Vitality, 2 Erudition, 1 Proficiency, -1 Dexterity |
 | final traits | 7 Songchant, 7 Vitality, 4 Erudition, 2 Proficiency, 1 Dexterity |
 | resonance | Preservation |
+| starting armor | Icebringer's Vestments |
 | allowed weapons | Greataxe, Greatsword, Shield, Greathammer |
 | starting weapons | Great Maul, Saint Jay's Hammer, Hero's Blade of Frost |
 

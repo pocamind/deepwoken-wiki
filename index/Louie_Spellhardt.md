@@ -1,9 +1,9 @@
 ---
 title: Louie Spellhardt
-revid: 191524
+revid: 192348
 source: https://deepwoken.fandom.com/wiki/Louie_Spellhardt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Lightborn NPCs, Vendors, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
+categories: [Lightborn NPCs, Individuals with He/him pronouns, Vendors, NPCs, NPCs located in The Floating Keep, Hallowtide, Members of the Spellhardt family]
 ---
 
 # Louie Spellhardt
@@ -12,12 +12,13 @@ categories: [Lightborn NPCs, Vendors, NPCs, NPCs located in The Floating Keep, H
 |---|---|
 | name | Louie Spellhardt |
 | aspect | Lightborn |
+| pronouns | He/him |
 | location | The Floating Keep |
 | family | Spellhardt family |
 
 ## Description
 
-Louie Spellhardt is a [Lightborn](Lightborn.md) NPC, he is the [Blacksmith](Blacksmith.md) of the Spellhardt family.
+Louie Spellhardt is a [Lightborn](Lightborn.md) NPC. He is the [Blacksmith](Blacksmith.md) of the Spellhardt family.
 
 ## Shop
 

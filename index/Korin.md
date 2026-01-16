@@ -1,9 +1,9 @@
 ---
 title: Korin
-revid: 191505
+revid: 192442
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Korin

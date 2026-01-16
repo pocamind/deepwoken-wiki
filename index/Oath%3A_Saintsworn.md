@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 190955
+revid: 192455
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
@@ -152,7 +152,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
         -   **Ether Proselyte: Thundercall Stance**: In the **Thundercall** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **[Link Conduction](Talents.md#link-conduction)**: Your attuned Mantras will gain Ether cost reduction while you have a Static Link active.
             -   **[Jolting Current](Talents.md#jolting-current)**: Your attuned Mantras will strike nearby opponents with lightning while in water.
-            -   **[Voltaic Conductor](Talents.md#voltaic-conductor)**: Your attuned Mantras will do 20% more chip damage to opponents affected by Conductor Rods.
+            -   **[Voltaic Conductor](Talents.md#voltaic-conductor)**: Your attuned Mantras will do 30% more chip damage to opponents affected by Conductor Rods.
             -   **[Shock Trooper Specialist](Talents.md#shock-trooper-specialist)**: Conjure a storm strike on your opponent by landing any attuned mantras.
         -   **Ether Proselyte: Miscellaneous**: in **any** Saint Stance, your Mantras are able to proc the following Talents:
             -   **[Winter's Protection](Talents.md#winters-protection)**: Effect _with Ether Proselyte_ is currently unknown.

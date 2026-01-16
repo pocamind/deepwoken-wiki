@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 187958
+revid: 192374
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -117,12 +117,13 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
         -   While critical attacks do proc Acceleration Points, they will not benefit from any additional momentum gain to the user. (Other than the pre-existing 50%)
     -   The slow effect has a cooldown of 2.5 seconds, however the self momentum gain has none.
 
--   **Decisive Winds** - When damaged below 50% health, don an aura of Decisive Winds for 10s. While in Decisive Winds, you gain a speed boost for being nearby the enemy who initiated it. (+5 Ether)
-    -   Provides a 25% speed boost whenever you are within 20 studs of your opponent.
+-   **Decisive Winds** - When damage below 50% health, don an aura of [Decisive Winds](Status_Effects.md#decisive-winds) for 10s. (+5 Ether)
+    -   Decisive Winds grants a 25% speed boost as long as you are within 20 studs the target who initiated this effect.
+    -   Does not proc on self damage.
+    -   30 second cooldown.
     -   Contrary to the description, the duration is actually 11 seconds.
     -   Procs through block/parry/dodge, despite the description stating otherwise.
     -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](Combat_Mechanics.md#gui).
-    -   Has a cooldown of 30 seconds.
 
 -   **Jetstream Pursuit** - Upon a successful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
     -   Provides 85% momentum on successful teleport.
@@ -134,7 +135,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 -   **Stratos Step** - While wall-boosting, hold space and at the end of the wall-boost, and you will be boosted further upwards. (+5 Health, +3 Passive Agility)
     -   Hold space while climbing to create up to two "steps" that boost you, and other players upwards.
         -   In combat you are currently only limited to one "step". (Possibly a bug)
-    -   [Kick Off](Talents.md#acrobat) is greatly recommended as you do not normally gain any fall damage resistance.
+    -   [Kick Off](Talents.md#kick-off) is greatly recommended as you do not normally gain any fall damage resistance.
     -   Costs 25 ether each step, cost cannot be reduced, will not activate at 0 ether.
     -   In combat: has a cooldown of 6 seconds. (Bugged, should be 6-11 seconds, cf. 03/08/2025 patch notes)
     -   Outside combat: has a cooldown of 5-10 seconds, scaling linearly by user's remaining HP.

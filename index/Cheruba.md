@@ -1,9 +1,9 @@
 ---
 title: Cheruba
-revid: 191363
+revid: 192354
 source: https://deepwoken.fandom.com/wiki/Cheruba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
+categories: [Capra NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Individuals with unspecified pronouns]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Seraphina is a [Capra](Capra.md) NPC, she is a vendor who sells starter equipment aimed towards new and early game players. She functions identically to [Bari](Bari.md) and [Seraphina](Seraphina.md).
+Seraphina is a [Capra](Capra.md) NPC. They are a vendor who sells starter equipment aimed towards new and early game players. They function identically to [Bari](Bari.md) and [Seraphina](Seraphina.md).
 
 ## Location
 

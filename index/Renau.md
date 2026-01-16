@@ -1,6 +1,6 @@
 ---
 title: Renau
-revid: 191602
+revid: 192435
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the First Layer]

@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 192226
+revid: 192336
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -41,11 +41,11 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
 -   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) "Divine Flame" move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo) and [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga).
 -   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Technique_Reversal:_Red).
--   **Flaming Scourge** is inspired by Charlotte Katakuri's **Buzzcut Mochi**.
+-   **Flaming Scourge** is inspired by [Katakuri](https://onepiece.fandom.com/wiki/Charlotte_Katakuri)'s Buzz Cut Mochi from _One Piece_.
 
 ### Thundercall
 
--   **Lightning Cloak** is a possible reference to [Killua's](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck) Godspeed ability from _Hunter × Hunter_ as it used to be blue, making it almost identical.
+-   **Lightning Cloak** is a possible reference to [Killua](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck)'s Godspeed ability from _Hunter × Hunter_ as it used to be blue, making it almost identical.
     -   The name also matches up and works nearly the same as the ["Lightning Release Chakra Mode" Jutsu](https://naruto.fandom.com/wiki/Lightning_Release_Chakra_Mode) from _Naruto_, often called "Cloak of Lightning".
 -   **Grand Javelin** is inspired by the Lightning Spear spells: [Lightning Spear](https://darksouls.fandom.com/wiki/Lightning_Spear), [Great Lightning Spear](https://darksouls.fandom.com/wiki/Great_Lightning_Spear), and [Sunlight Spear](https://darksouls.fandom.com/wiki/Sunlight_Spear) in _Dark Souls_.
 -   **Bolt Piercer** is a reference to Ishida Uryu's [Licht Regen](https://bleach.fandom.com/wiki/Licht_Regen%23Variations) from _Bleach_. This becomes more apparent with the Surge path.
@@ -66,12 +66,12 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 -   The **Aerogliding** Talent is a reference to Jett, from _Valorant_, whose passive ability which allows her to glide instead of falling.
 -   **Wind Blade** could be a reference to the [Moonlight Greatsword](https://darksouls.fandom.com/wiki/Moonlight_Greatsword) from the _Souls_ games.
--   **Wind Forge** modified with a Multiplying Spark is a reference to [Gilgamesh's Noble Phantasm "Gate of Babylon"](https://typemoon.fandom.com/wiki/Gilgamesh#Noble_Phantasms) from the _Fate_ series.
+-   **Wind Forge** modified with a Multiplying Spark is a reference to [Gilgamesh's Noble Phantasm "Gate of Babylon"](https://typemoon.fandom.com/wiki/Gilgamesh%23Noble_Phantasms) from the _Fate_ series.
 
 ### Shadowcast
 
 -   **Shadow Gun** resembles the finger [Cero](https://bleach.fandom.com/wiki/Cero) technique used by Arrancars from _Bleach_.
-    -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns_._
+    -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns.
     -   It is also possibly a reference to Duelist Dash from _Rogue Lineage_, a move used by the [Duelist](https://rogue-lineage.fandom.com/wiki/Duelist), better known as Uber Spy, Class.
 -   **Eclipse Kick** resembles the Axe Kick, an attack from _Rogue Lineage_ used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
     -   Oni itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _Street Fighter_.

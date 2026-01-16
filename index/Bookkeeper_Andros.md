@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 191341
+revid: 192398
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -14,15 +14,15 @@ categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs 
 | pronouns | He/him |
 | location | Etris |
 | affiliation | Etrea |
-| family | Andros' grandfather |
+| family | Andros' grandfather (grandfather |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-## Overview
+## Description
 
-Bookkeeper Andros offers information related to The Old World. He is crucial towards the obtainment for [Soulbreaker](Oath%253A_Soulbreaker.md) telling you about the King's Ardour and his abilities providing a lot of information about him, and provides information about [The Lord Regent](The_Lord_Regent.md) in the quest to defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
+Bookkeeper Andros is an NPC. He offers information related to The Old World. He is crucial towards the obtainment for [Soulbreaker](Oath%253A_Soulbreaker.md) telling you about the King's Ardour and his abilities providing a lot of information about him, and provides information about [The Lord Regent](The_Lord_Regent.md) in the quest to defeat [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Ata
-revid: 191327
+revid: 192356
 source: https://deepwoken.fandom.com/wiki/Ata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors]
@@ -25,7 +25,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Ata is a Marten [Celtor](Celtor.md) NPC that sells [Sparks](Mantra_Modifiers.md) for 350 Notes each.
+Ata is a Marten [Celtor](Celtor.md) NPC who sells [Sparks](Mantra_Modifiers.md) for 350 Notes each.
 
 She wears what appears to be a darkened version of the [Corsair Outlaw](Corsair_Outlaw.md) outfit.
 

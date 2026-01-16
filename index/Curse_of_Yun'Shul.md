@@ -1,6 +1,6 @@
 ---
 title: "Curse of Yun'Shul"
-revid: 190506
+revid: 192333
 source: https://deepwoken.fandom.com/wiki/Curse_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -35,5 +35,5 @@ Alternatively, instead of adding a percentage of your maximum health to your att
 ### Notes
 
 -   The curse and enchantment effects cannot proc on the same hit.
--   Because this enchantment adds to your weapon's scaled damage, it will be applied **before** damage modifiers. This can lead to very high damage output.. assuming you get lucky.
+-   Because this enchantment adds to your weapon's scaled damage, it will be applied **before** damage modifiers. This can lead to very high damage output, assuming you get lucky.
 -   If the curse effect deals enough damage to knock you, you will be autogripped.

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 192281
+revid: 192421
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1715,16 +1715,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Human Architecture
 
--   _**Brick Wall**_ \[Advanced Talent, Fortitude, Willpower\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious.](Status_Effects.md#unconscious) (+5 Health, +2 posture)
+-   _**Brick Wall**_ \[Advanced Talent, Fortitude, Willpower\] - You refuse. You cannot be knocked off your feet until you are knocked completely [Unconscious](Status_Effects.md#unconscious). Also reduces the duration of [Knockdown](Status_Effects.md#knockdown). (+5 Health, +2 Posture)
+    -   The Knockdown duration reduction scales on your combined investment into the Willpower and Fortitude attributes, being fully negated if you have 100 points invested into both.
     -   Gain total immunity to ragdoll, only being pushed back instead from moves that would normally ragdoll.
-        -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
-        -   Also makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
+    -   By extension, this makes you more resistant to knockback as a whole as the lack of ragdoll means you retain air friction.
+    -   Makes you resistant to the Eternal Gale, causing only momentary stun instead of ragdolling you.
     -   **Cap Artist** is disabled with this Talent.
-    -   Gain total immunity to knockdowns (Heavy critical, Starkindred's Ascension, the [Paralytic Dust](Paralytic_Dust.md) [Resonance](Resonance.md), etc.).
-        -   If you do not have 100 Fortitude and Willpower, instead, reduce Knockdown duration.
     -   Prerequisites: 100 Fortitude, 100 Willpower, Perseverance
 
--   _Mythic Stability_ \[Rare Talent, Fortitude\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious.](Status_Effects.md#unconscious) 60s CD.
+-   _Mythic Stability_ \[Rare Talent, Fortitude\] - Players and regular mobs cannot instantly execute you while you're on your feet. Protects you from one instance of instant execution when [Unconscious](Status_Effects.md#unconscious). 60s CD.
     -   Works on attacks such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)'s Sudden Ambush and Luminant Beam attacks that would normally insta-grip you. It will **NOT**, however, protect you against [Blood Scourge](Blood_Scourge.md) or it's corrupted variant.
     -   Prerequisites: 85 Fortitude
 
@@ -1808,9 +1807,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Immolator
 
--   Agitating Spark \[Common Talent, Flamecharm\] - If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself.
+-   Agitating Spark \[Common Talent, Flamecharm\] - Applying [Burning](Status_Effects.md#burn) to enemies spreads to to anyone nearby. Including yourself.
     -   On proc, a small orange particle will trail between the burning target you hit and other targets nearby, setting them on fire.
-        -   This visual effect will still happen when hitting a non-burning target with a burn-applying attack, granting Emperor Flame stacks without spreading burn.
     -   Agitating Spark bypasses block and parry.
     -   Agitating Spark procs caused by self damage will not apply burn. Flame Within is an exception to this.
     -   Has a 1 second cooldown.
@@ -2062,7 +2060,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Acceleration Points \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Striking an opponent in the back with mobility mantras or Basic Attacks now steals and grants additional momentum.
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - When damaged below 50% health, gain maximum sprint momentum temporarily, then this ability is put on cooldown.
+-   Decisive Winds \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - When damage below 50% health, don an aura of [Decisive Winds](Status_Effects.md#decisive-winds) for 10s. (+5 Ether)
+    -   Decisive Winds grants a 25% speed boost as long as you are within 20 studs the target who initiated this effect.
+    -   30 second cooldown.
+    -   Procs through block/parry/dodge, despite the description stating otherwise. But it does not proc on self damage.
+    -   Opposite to the description, Decisive Wind's has no "aura", there is no SFX or VFX, with the only activation cue for this talent being the [Cooldown Indicator](Combat_Mechanics.md#gui).
     -   Requirements: [Oath: Jetstriker](Oath%253A_Jetstriker.md), speak to [Alirian](Alirian.md) after collecting X Jetstriker Orbs OR pay 10 to Alirian to skip Jetstriker's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Jetstream Pursuit \[Oath Talent, [Jetstriker](Oath%253A_Jetstriker.md)\] - Upon a succesful flourish, teleport to the opponent when they stop moving. Receive a significant boost of momentum.
@@ -2876,7 +2878,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
     -   Drink potions place other drink slots on a cooldown if they share buffs.
     -   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**
-    -   Potions in the distillery will scale their potency to the Salchemist's _current_ Ingelligence investment, even if they were made with higher/lower Intelligence.
+    -   Potions in the distillery will scale their potency to the Salchemist's _current_ Intelligence investment, even if they were made with higher/lower Intelligence.
     -   Upon casting [Lethal Injection](Oath%253A_Saltchemist.md), all potions in your Distillery will be used at once unless they're on cooldown.
     -   Prerequisite: [Oath: Saltchemist](Oath%253A_Saltchemist.md)
 
@@ -3119,7 +3121,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   [Bleed](Status_Effects.md#bleed) damage can proc this effect.
     -   Prerequisites: 60 Galebreathe, [Power](Power.md) 10
 
--   _**A World Without Song**_ \[Advanced Talent, Galebreathe\] - Every 3 hits with a Wind Mantra now procs Suffocate.
+-   _**A World Without Song**_ \[Advanced Talent, Galebreathe\] - Every 3 hits with a Wind Mantra now procs [Suffocating.](Status_Effects.md#suffocate)
     -   Requires 4 hits to proc if you have less than 75 Galebreathe.
     -   Requires 5 hits to proc if you have less than 40 Galebreathe.
     -   Suffocation prevents the victim from casting Mantras and deals a small amount of damage over time.

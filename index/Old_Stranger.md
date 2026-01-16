@@ -1,16 +1,15 @@
 ---
 title: Old Stranger
-revid: 191266
+revid: 192436
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
+categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Old Stranger
 
 | Old Stranger | |
 |---|---|
-| name | Old Stranger |
 | aspect | Khan |
 | location | Random Encounter (Sea) |
 
@@ -20,7 +19,7 @@ categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs
 
 ## Description
 
-The Old Stranger is an NPC that rarely spawns as one of many [Random Encounters](Random_Encounters.md) at any sea. He's an elder khan with gray hair wearing a [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
+The Old Stranger is an NPC that rarely spawns as one of many [Random Encounters](Random_Encounters.md) at any sea. They're an elder Khan with gray hair wearing a [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
 
 ## Ardour Obtainment
 

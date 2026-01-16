@@ -1,16 +1,15 @@
 ---
 title: Weird Trader
-revid: 191695
+revid: 192428
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant]
+categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Weird Trader
 
 | Weird Trader | |
 |---|---|
-| name | Weird Trader |
 | aspect | Ganymede |
 | location | Random Encounter (Sea) |
 
@@ -26,7 +25,7 @@ The Weird Trader will request three items from a long list of possible choices. 
 
 Claiming you have the items without having them in your inventory causes the Weird Trader to perform an uppercut, sending those hit extremely high in the sky and almost certainly resulting in death if the victim doesn't have the aid of a [Tiran Pendant](Tiran_Pendant.md), an I-Frame mantra, or some other form of fall damage negation to prevent their likely inevitable demise.
 
-The event despawns after 30 minutes have elapsed or if you leave the server after talking to him.
+The event despawns after 30 minutes have elapsed or if you leave the server after talking to them.
 
 ### 
 

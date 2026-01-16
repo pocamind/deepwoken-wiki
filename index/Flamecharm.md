@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 192141
+revid: 192377
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1198,7 +1198,7 @@ These Talents are found in the "_Immolator_" Category.
 |  | Phoenix Flames  
 (40 Flamecharm, All Immolator Talents) | Any time you would burn to death, you instead rise again with 50% of your health restored. Has a 60 second cooldown. | If you were to burn to death, restore a percentage of your maximum health and get back up. This percentage scales on your Flamecharm investment, being 25% at 0 Flamecharm and scaling up to 50% at 75 Flamecharm. If you were to use Flame Within while knocked to proc this effect, the healing will be halved. |
 |  | Agitating Spark  
-(40 Flamecharm) | If you hit an opponent that you've lit on fire, it spreads to anyone nearby. Including yourself. | Hitting a burning target spreads the burn status effect to everyone nearby. This affects allies and yourself unless you have the Controlled Combustion Talent. This applies burn even with Eruption Path. |
+(40 Flamecharm) | Applying [Burning](Status_Effects.md#burn) to enemies spreads to to anyone nearby. Including yourself. | Hitting a burning target spreads the burn status effect to everyone nearby. This affects allies and yourself unless you have the Controlled Combustion Talent. This applies burn even with Eruption Path. |
 
 **Inferno:**
 

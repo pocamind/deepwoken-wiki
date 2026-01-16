@@ -1,6 +1,6 @@
 ---
 title: "Flabbernaster Filingree, the First Mate"
-revid: 191434
+revid: 192445
 source: https://deepwoken.fandom.com/wiki/Flabbernaster_Filingree%2C_the_First_Mate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -59,6 +59,6 @@ Flabbernaster Filingree, the First Mate is a [Gremor](Gremor.md) NPC who was par
 </tbody>
 </table>
 
-## Trivia:
+## Trivia
 
--   Flabbernaster Filingree's racial variant appears to be Cedar.
+-   Filingree's racial variant appears to be Cedar.
