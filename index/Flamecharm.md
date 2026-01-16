@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 191806
+revid: 192141
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -376,7 +376,6 @@ Fire
 
 **Effect:** User throws 3 quick burning daggers.
 
--   Both variants are currently bugged to where their hitbox will almost always not be present. (1st September 2025)
 -   Has a base damage of 8.33/9.33/10.33/11.33/12.33 per level, per hit (3) with 2.75 Flamecharm scaling.
 -   The Tornado Spark variant has a base damage of 4.17/4.67/5.17/5.67/6.17 per level, per hit (10) with 2.75 Flamecharm scaling.
 -   The base variant deals 4 posture damage per dagger, while the Tornado spark variant deals 3 posture damage per dagger with an additional 5 posture damage per tornado hit (2).
@@ -386,7 +385,7 @@ Fire
 -   Breaks destructible terrain on hit.
 -   Can be upgraded with the "**Hell's Partisan**" Talent, summoning a flame spear that ragdolls and inflicts burn after you land 3 flame daggers.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lens](Mantra_Modifiers.md#regular-modifiers) to make the daggers move faster.
--   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to make it throw 5 unparryable daggers in a straight line. Each dagger hits twice.
+-   Can be modified with a [Tornado Spark](Mantra_Modifiers.md#sparks) to make an unparryable tornado around the user. The tornado fires out 5 daggers in a straight line that each hit twice.
 
  |
 | 

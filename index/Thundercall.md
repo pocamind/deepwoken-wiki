@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 191927
+revid: 192109
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1005,18 +1005,18 @@ These Talents are found in the _Rampant Static_ category.
 |  | Jolting Current  
 (35 Thundercall) | Your lightning attacks in water strike others near them with lightning. | Grants +4 Ether. |
 
-**Self-Shocker:**
+**Jumpstarter:**
 
-These Talents are found in the _Self-Shocker_ category.
+These Talents are found in the _Jumpstarter_ category.
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-|  | Static Withdraw  
-(25 Thundercall) | When being carried use this Talent to shock your captor, forcing them to drop you. | Grants the utility "Static Withdraw". Using Static Withdraw while being carried forces you to be dropped. |
-|  | Jumpstart  
-(35 Thundercall, Static Withdraw) | Using Static Withdraw when not being carried shocks yourself increasing your ability to scale walls, speed and applies shock to all outgoing physical damage and damage taken. | Grants +4 Ether. Allows Static Withdraw to be used without being knocked. Using Static Withdraw without being knocked damages you and grants a small outgoing damage and speed buff for a short duration. |
-|  | Raging Static  
-(35 Thundercall, Jumpstart) | Your Jumpstart no longer gives you movement buffs, but your outgoing physical damage is increased. The self damage to activate it is lowered, along with your cooldown on Jumpstart. | Grants +4 Ether. Removes the speed buffs from Jumpstart, but reduces the self damage on use and increases the damage buffs in return. |
+|  | Electrify  
+(25 Thundercall) | Shock yourself and apply [Amped](Status_Effects.md#amped) for 15s. Can be used while [Carried](Status_Effects.md#carried) to escape. | Electrify deals 5% of your current health as Thundercall self damage on cast. Amped increases your weapon damage by 10% and allows you to apply Shock (or 1 Surge Rod) on weapon attacks. While Amped is active, incoming damage will be increased by 10%. 1 minute cooldown. |
+|  | Amplified Reflexes  
+(35 Thundercall, Electrify) | Amped now grants enhanced speed and parkour, but triples the self-damage on use and doubles its cooldown. | Electrify now deals 15% of your current health as Thundercall self damage on cast on cast. Electrify's cooldown is doubled to two minutes. Gain +50% walk speed, a slight run speed buff, and +15% climb height while Amped is active. |
+|  | Amplified Rage  
+(35 Thundercall, Electrify) | Amped now grants you an additional +10% weapon damage. | Increases Amped's damage buff from +10% to +20%. |
 
 **Shock Therapy:**
 
@@ -1025,7 +1025,7 @@ These Talents are found in the _Shock Therapy_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Grounding Bolt  
-(90 Thundercall, 90 Weapon) | Anytime you summon a lightning strike on your opponent, apply knockdown if it lands. | Has a 10 second cooldown. Only lightning strikes from the following abilities proc this Talent: [Shock Trooper Specialist](Specialist_Helmet.md) set Talent, [Volt Draft](Specialist_Helmet.md) Talent, [Scorched Peak](Talents.md#heat-lightning), and [Fulgurite Formation](Talents.md#frozen-lightning). |
+(90 Thundercall, 90 Weapon) | Anytime you summon a lightning strike on your opponent, apply knockdown if it lands. | Has a 10 second cooldown. Only lightning strikes from the following abilities proc this Talent: [Shock Trooper Specialist](Talents.md#shock-trooper-specialist) set Talent, [Volt Draft](Specialist_Helmet.md) Talent, [Scorched Peak](Talents.md#scorched-peak), and [Fulgurite Formation](Talents.md#fulgurite-formation). |
 
 **Static Weaver:**
 

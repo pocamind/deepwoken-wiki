@@ -1,6 +1,6 @@
 ---
 title: Seon
-revid: 191624
+revid: 192189
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
@@ -59,7 +59,7 @@ Seon is located in two different locations
   <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="8"><i>*The guard glances at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
+  <td colspan="8"><i>*The guard glares at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
 </tr>
 <tr>
   <td colspan="8">How?</td>
@@ -82,12 +82,12 @@ Seon is located in two different locations
 </tr>
 <tr>
   <td>Sufficient Notes</td>
-  <td>Not Enough Notes</td>
+  <td>Insufficient Notes</td>
   <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
   <td><i>*The guard nods.*</i> Very well. With this tribute, the clans may set their grievances with you aside. Swift journeys to you, stranger.</td>
-  <td>WIP</td>
+  <td>It seems your war chest dwindles too, stranger. Return to me when you have enough money that you'd be willing to contribute.</td>
 </tr>
 <tr>
   <td>[End Dialogue], reputation with Etrean Royalists is set to neutral</td>

@@ -1,6 +1,6 @@
 ---
 title: Monk Nako
-revid: 191557
+revid: 192182
 source: https://deepwoken.fandom.com/wiki/Monk_Nako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Circle of Honour members, Individuals with unspecified pronouns]
@@ -22,6 +22,10 @@ notices:
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+## Location
+
+Monk Nako can be found sitting inside of [The Golden Rat](The_Golden_Rat.md) beside [High Monk Junsui](High_Monk_Junsui.md).
 
 ## Dialogue
 

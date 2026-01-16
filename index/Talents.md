@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 191930
+revid: 192171
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -363,34 +363,35 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   [**Oath: Arcwarder**](Oath%253A_Arcwarder.md) - You vow to be a shield for your comrades, to wear your regalia with pride and serve the greater collective. From each according to their ability, to each according to their needs. (+1 Wildcard Mantra Slot, +2 Combat Mantra Slot)
     -   Prerequisites: 20 Fortitude, 20 Flamecharm, 20 Thundercall, Complete [Alpha](Alpha.md)'s quest.
 
--   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Your dashes become Jet Dashes, allowing you to attack while dashing.
+-   Arc Module: Dash \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Your dashes become Jet Dashes, allowing you to attack while dashing.
     -   Jet dashes go much further than regular dashes.
     -   Also allows the user to M1 while performing a dash, ending their dash early.
     -   Prerequisite: [Oath: Arcwarder](Oath%253A_Arcwarder.md)
 
--   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) When blockbroken, eject from your suit.
+-   Arc Module: Eject \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit When blockbroken, eject from your suit.
     -   If your posture would reach 100% while in the [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you instantly eject from it instead of being guard broken, launching yourself backwards and preventing stun.
     -   Upon ejecting from the Arc Suit, your posture will be set to 50%.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 1 time OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Your Arcwarder Mantras deal increased damage.
+-   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Your Arcwarder Mantras deal increased damage.
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
     -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
     -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your your more conventional modifiers by giving them a higher base damage to work off of.
+    -   Grants a +15% damage modifier to all non-Arcwarder attacks while in Arc Suit.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) You can block attacks from any direction and cannot be backstabbed.
+-   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit You can block attacks from any direction and cannot be backstabbed.
     -   While in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit), you can block attacks that are coming from any direction.
     -   Talents that proc on backstab (e.g. _Spine Cutter_) cannot proc on you while you're in Arc Suit.
     -   Does **not** prevent assassinations or nullify damage from attacks that hit your back.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) 2 times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Holding Spacebar after double jumping propels you up for a short duration.
+-   Arc Module: Leap \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Holding Spacebar after double jumping propels you up for a short duration.
     -   Allows you to double jump while in [Arc Suit](Oath%253A_Arcwarder.md#arc-suit).
     -   This has a 10 second cooldown. This cooldown is increased to 15 seconds if used while in combat.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
--   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) Outgoing and incoming enchant effects are nullified. Can be toggled with N.
+-   Arc Module: Null \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Outgoing and incoming enchant effects are nullified. Can be toggled with N.
     -   Toggling Null on/off has a 5 second cooldown.
     -   Has a sound effect on toggle.
     -   Toggle hotkey can be changed in settings.
@@ -2370,16 +2371,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: [Iron Hug](Ironsing.md#iron-hug) (Mantra), 30 Ironsing
 
 -   Metal Eater \[Common Talent, Ironsing\] - When you have no ether, consume Armor durability to cast your Ironsing mantras.
-    -   If you can't cast a mantra due to a lack of ether, consume ~30% total armor durability to cast it.
-        -   Always takes 30% armor, doesn't scale with ether to cast, aka 1 or 9999 ether mantra will always take only 30% armor.
+    -   Consumes 30% of your maximum armor on proc regardless of the Ether cost of the Mantra.
     -   Prerequisite: 50 Ironsing
 
 -   Metal Thief \[Common Talent, Ironsing\] - Pulling an opponent absorbs a portion of their current Armor durability.
-    -   Each rod will steal 2% of your opponent's current armor durability.
+    -   Steals 2% of your opponent's current armor durability per rod.
     -   Prerequisite: 50 Ironsing
 
 -   Polished Armor \[Common Talent, Ironsing\] - You receive 5% less damage when your Armor protects you from an attack and has over 90% durability. This 5% will scale up to 10% less damage at 100 MTL.
-    -   The scaling is 5% + IRONSING INVESTMENT\*0.05, meaning that you will have 8.75% damage reduction upon meeting the requirements for this Talent.
+    -   The damage reduction of Polished Armor is increased by 0.05% per Ironsing investment, granting 8.75% damage reduction at requirements.
     -   Prerequisite: 75 Ironsing
 
 ### Metamancer
@@ -2455,7 +2455,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Takes 100% Ether to be used, therefore deactivating Ardour.
         -   Can be used at 40% Ether rather than needing to be at 100% with the [Soulbreaker](Oath%253A_Soulbreaker.md) Oath.
     -   Instead of debuffing affected players and making them take 12.5% more damage, it actually applies an on-hit buff when attacking someone affected by Ardour Scream, granting a 25% damage buff to that attack. This means Ardour Scream **is** affected by the damage modifier cap.
-    -   Doesn't apply insanity.
     -   Will also combat tag anybody hit.
     -   Can stack with m1s, crits, [Silentheart](Oath%253A_Silentheart.md) attacks, and other non-mantra skills.
     -   Prerequisites: 40 Willpower, 15 Strength, [Murmur: Ardour](Murmur%253A_Ardour.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
@@ -2479,8 +2478,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Natural Armor
 
 -   Armor Conserver \[Common Talent\] - You lose 15% less armor when hit.
-    -   Prerequisite: [Power](Power.md) 8
     -   Does not affect Natural Armor from Exoskeleton and Chitin.
+    -   Prerequisite: [Power](Power.md) 8
 
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0% or if you are wearing the [Stranded](Stranded.md) outfit, movement speed is increased by 25%.
@@ -2586,9 +2585,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
 -   **Shocking Reverb** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
-    -   You need to reach a threshold of 150 damage dealt with [Thundercall](Thundercall.md) Mantras will proc this Talent.
+    -   You need to reach a threshold of 150 scaled damage with [Thundercall](Thundercall.md) Mantras without getting hit to proc this Talent.
     -   The damage buildup to reach the threshold is unaffected by resistances and damage modifiers.
-    -   Being hit will reset the built up damage.
     -   Also negates damage from critical attacks and [Silentheart](Oath%253A_Silentheart.md) abilities.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Shock Corps Division
 
@@ -2952,32 +2950,29 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Scoundrel
 
 -   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. 5s Cooldown (+1 Passive Agility)
-    -   The "bleed" does not refer to, but rather a very miniscule amount of damage to the blood bar.
-        -   The damage is so small, that there is no pixel difference between the damage received with or without it.
     -   The cooldown is actually 8 seconds despite what the Talent description says.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Fist/Kick style equipped, 25 Agility
 
 -   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds and dazes your opponent briefly. We're even now, right? 30s cooldown (+4 Carry Load)
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
-    -   The description is missing a period in game too, that's not a wiki error.
     -   Prerequisites: 35 Light Weapon, 20 Strength
 
 ### Scrapsinger
 
 -   Gilded Path: Scrapsinger \[Common Talent, Ironsing\] - Flourishing an enemy consumes any rods they have and siphons their armor to you per rod.
+    -   Your Ironsing Mantras/abilities, Ironsing legendary weapons, and Metal Rods are now yellow.
     -   Prerequisite: 35 Ironsing
+    -   Mutual Exclusive: Rending Needle: Augmenter
 
 -   Artisan's Blade \[Common Talent, Ironsing\] - Activating Scrapsinger forges a metal blade behind you for every 2 rods you consume. Metal blades will fire at a target upon landing an ironsing or metal infused attack.
-    -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 + 0.04 \* Ironsing investment.
-    -   Has 6.47x PVE scale (10 DMG PVP, 64.70 PVE DMG)
-    -   Artisan's blade have windup of 1.2s
-    -   Artisan's Blades **ARE** **NOT AFFECTED** by DMG mods at **ALL**
+    -   Each Artisan Blade has 8 Base damage with 5 Ironsing scaling; simplified formula as follows: 8 + 0.04 \* Ironsing investment. They deal 4.5 posture damage each if blocked. Their damage cannot be modified.
+    -   Has 6.47x PVE scale (10 DMG PVP, 64.70 PVE DMG).
+    -   Artisan's blade have windup of 1.2s.
     -   Parrying Artisan's blade gives brief Auto Parry frames.
-    -   Also can proc by pulling rods out of someone, amount of Artisan's blade proc depends on pulled amount of rods (2 rods = 1 Artisan's)
-    -   4.5 posture per blade.
-    -   Artisan blades last 20 seconds.
-    -   "Metal infused" attacks are [Ignition Deepcrusher](Ignition_Deepcrusher.md) M1s and critical attack (in any stance), [Iron Requiem](Iron_Requiem.md) unloaded M1s and critical attacks.
+    -   Pulling rods normally also procs this Talent.
+    -   Artisan Blades have an individual 20 second duration.
+    -   "Metal infused" attacks are [Ignition Deepcrusher](Ignition_Deepcrusher.md) M1s and critical attack, [Iron Requiem](Iron_Requiem.md) unloaded M1s and critical attacks.
     -   Prerequisites: Gilded Path: Scrapsinger, 45 Ironsing
 
 -   _Masterwork_ \[Rare Talent, Ironsing\] - Successful hits from Artisan's Blades will proc metal rods and deal 50% more damage.
@@ -3659,18 +3654,19 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Transitory Vitality
 
--   _Sow and Mend_ \[Rare Talent, Bloodrend\] - Sacrifice 35% of your blood for temporary health. (30s CD)
-    -   Gives 25 flat temporary health on use.
+-   _Sow and Mend_ \[Rare Talent, Bloodrend\] - Sacrifice 35% of your blood for [temporary health](Status_Effects.md#temporary-health). (30s CD)
+    -   Gives 25 flat Temporary Health on use.
     -   Prerequisites: 60 Bloodrend, Master Bloodrender
 
--   Cyclical Exsanguination \[Common Talent, Bloodrend\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your temporary health decay for 3 seconds.
+-   Cyclical Exsanguination \[Common Talent, Bloodrend\] - Whenever you deal more than 20 damage to an enemy in an instance, pause your [temporary health](Status_Effects.md#temporary-health) decay for 3 seconds.
     -   8 second cooldown.
+    -   This can proc on self damage.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
--   Embolism \[Common Talent, Bloodrend\] - If an enemy is guardbroken while you have temporary health, convert your temporary health into additional damage.
+-   Embolism \[Common Talent, Bloodrend\] - If an enemy is guardbroken while you have [temporary health](Status_Effects.md#temporary-health), convert your temporary health into additional damage.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
--   Hypovolemic Focus \[Common Talent\] - While you have temporary health, your opponent regains far less posture from parrying you
+-   Hypovolemic Focus \[Common Talent\] - While you have [temporary health](Status_Effects.md#temporary-health), your opponent regains far less posture from parrying you
     -   The opponent regains 20% less posture damage from parrying you.
     -   Prerequisite: 65 Bloodrend, Sow and Mend
 
@@ -3706,6 +3702,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Twinblade
 
 -   _Face Cutter_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - Your Spine Cutter now deals an additional hit. (+6 Carry Load, +2 Passive Agility)
+    -   Grants an additional hit to your Spine Cutter that deals 50% of your weapon's scaled damage.
+    -   Similarly to Spine Cutter, the damage this deals cannot be buffed, and the attack has no PEN.
     -   Prerequisites: Spine Cutter, 75 Medium Weapon, Twinblade equipped.
 
 -   _Turning of the Wheel_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.
@@ -3717,7 +3715,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Wraith Path: Twisted Puppets \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black.
     -   Turns [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>), [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Rosen's Hellflame](<Rosen's_Hellflame.md>), [Blazing](Blazing.md), and [Railblade's](Railblade.md) criticals and all Flamecharm mantras black. Additionally, the orange on the [Hero Blade of Flame](<Hero's_Blade_of_Flame.md>)'s and [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s models change to black. And the orange on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>)'s model changes to purple.
     -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment, deal Flamecharm damage, and _drain_ 6.25 Ether per tick from affected players.
-        -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does 75% less damage than base Flamecharm burn.
+        -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does 75% less damage than base Flamecharm burn. This burn type cannot be applied to knocked targets.
         -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does 87.5% less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
     -   Puppets deal 20 **typeless** damage with **no** innate investment scaling. Because Puppets deal typeless damage, they **bypass** armor resistances and Everchanging Aegis. They do **NOT** do True Damage however, as general resistances still work on them.
     -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
@@ -3737,6 +3735,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Gives you a Talent tool that must be actively used to proc this Talent.
     -   Grants +4% basic attack damage and a speed boost per Puppet for 6s. Caps off at +12% damage.
     -   Puppets turn purple after being alive for 15 seconds.
+    -   15 second cooldown if at least one Puppet is successfully sacrificed, 1 second cooldown if not.
     -   Prerequisites: Wraith Path: Twisted Puppets, 40 Flamecharm & 40 Shadowcast, Emperor Flame
 
 -   Explosive Rage \[Common Talent, Dual Attunement, Flamecharm, Shadowcast\] - Causing explosion will make your puppets go into a frenzy - speeding up and dealing 50% more damage.
@@ -3793,9 +3792,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Each Surge stack lasts 30 seconds.
     -   You need to apply 5 Surge stacks and then land another attack that would apply a Surge stack to cause an Overload.
         -   This is reduced to 4 Surge stacks with the [Charged Ring](Charged_Ring.md).
-    -   Surge Overload deals 2.5 damage per Surge stack with 5 Thundercall scaling to Overloaded target.
-    -   Surge Overload AoE deals 2 damage per Surge stack.
-        -   Surge Overload can be resisted by Thundercall armor.
+    -   Surge Overload deals 2.5 Thundercall damage per Surge stack with 5 Thundercall scaling to Overloaded target.
+    -   Surge Overload AoE deals 2 Thundercall damage per Surge stack.
     -   Surge stacks are a global status effect, meaning anyone with Surge path can utilize them, with the effects changing based on who caused the Overload.
     -   Prerequisite: 40 Thundercall
 
