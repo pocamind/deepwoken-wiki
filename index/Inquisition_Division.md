@@ -1,6 +1,6 @@
 ---
 title: Inquisition Division
-revid: 192180
+revid: 192218
 source: https://deepwoken.fandom.com/wiki/Inquisition_Division
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   Authority Ensign/Inquisition Division
+-   [Authority Ensign#Inquisition Division](Authority_Ensign.md#inquisition-division)

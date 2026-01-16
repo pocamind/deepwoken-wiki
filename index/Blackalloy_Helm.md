@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 189966
+revid: 192273
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Helmets, Equipment with Set Bonuses]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Depths |
+| obtainment | The Depths, Power 15 Jobs |
 | description | An imposing helmet made from blackened steel. |
 
 Template:ModeCounterpart

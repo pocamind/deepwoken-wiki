@@ -1,6 +1,6 @@
 ---
 title: "Tz'araan"
-revid: 174000
+revid: 192237
 source: https://deepwoken.fandom.com/wiki/Tz'araan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Songseekers]
@@ -21,4 +21,4 @@ Songmaster Tz'araan is the [Songseeker](Songseeker.md) Mistress. It is speculate
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-yamaketzal-1-0) [1.1](#cite-ref-yamaketzal-1-1) [1.2](#cite-ref-yamaketzal-1-2) [1.3](#cite-ref-yamaketzal-1-3) [Yamaketzal](Yamaketzal.md)
+1.  ↑ [1.0](#cite-ref-yamaketzal-1-0) [1.1](#cite-ref-yamaketzal-1-1) [1.2](#cite-ref-yamaketzal-1-2) [1.3](#cite-ref-yamaketzal-1-3) NPC dialogue: [Yamaketzal](Yamaketzal.md)

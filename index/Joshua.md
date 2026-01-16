@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 191490
+revid: 192266
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]

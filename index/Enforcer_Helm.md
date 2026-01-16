@@ -1,6 +1,6 @@
 ---
 title: Enforcer Helm
-revid: 189939
+revid: 192276
 source: https://deepwoken.fandom.com/wiki/Enforcer_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -20,7 +20,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | The Depths |
+| obtainment | The Depths, Power 15 Jobs |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

@@ -1,12 +1,9 @@
 ---
 title: Yen
-revid: 191700
+revid: 192217
 source: https://deepwoken.fandom.com/wiki/Yen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royalists]
 ---
 
 # Yen
@@ -56,7 +53,7 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
   <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="8"><i>*The guard glances at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
+  <td colspan="8"><i>*The guard glares at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
 </tr>
 <tr>
   <td colspan="8">How?</td>
@@ -79,12 +76,12 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
 </tr>
 <tr>
   <td>Sufficient Notes</td>
-  <td>Not Enough Notes</td>
+  <td>Insufficient Notes</td>
   <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
   <td><i>*The guard nods.*</i> Very well. With this tribute, the clans may set their grievances with you aside. Swift journeys to you, stranger.</td>
-  <td>WIP</td>
+  <td>It seems your war chest dwindles too, stranger. Return to me when you have enough money that you'd be willing to contribute.</td>
 </tr>
 <tr>
   <td>[End Dialogue], reputation with Etrean Royalists is set to neutral</td>
@@ -101,7 +98,7 @@ Yen is located near the front of [Songseeker Temple](Songseeker_Temple.md).
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The guard glares at you, unmoving.*</i> We may have business to discuss if you lose some of the heat off you, stranger.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

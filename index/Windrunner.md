@@ -1,9 +1,9 @@
 ---
 title: Windrunner
-revid: 191697
+revid: 192233
 source: https://deepwoken.fandom.com/wiki/Windrunner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Windrunner
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Windrunner is a [Celtor](Celtor.md) NPC who uncaps your agility stat. He is a very hard to reach NPC without major mobility.
+The Windrunner is a [Celtor](Celtor.md) NPC. They uncap the Agility stat. They are very hard to reach without major mobility.
 
 ## Location
 
@@ -78,6 +78,6 @@ Windrunner is located on top of the mountain infront of [Etris Docks](Etris_Dock
 
 ## Trivia
 
--   In his dialogue, he talks about "The Contractor that resides within the Palace" and "the Warmaster in his Fortress" referring to [The Lord Regent](The_Lord_Regent.md) and [Warden Jericho](Warden_Jericho.md).
--   He has green eyes.
--   The Windrunner in name is likely a reference to the _[Order of Windrunners](https://coppermind.net/wiki/Order_of_Windrunners)_ from the _Stormlight Archives_ given other inspirations from the novels prevalent in Deepwoken_._[\[1\]](https://coppermind.net/wiki/Order_of_Windrunners)
+-   In their dialogue, they talk about "The Contractor that resides within the Palace" and "the Warmaster in his Fortress" referring to [The Lord Regent](The_Lord_Regent.md) and [Warden Jericho](Warden_Jericho.md).
+-   They have green eyes.
+-   The Windrunner in name is likely a reference to the _[Order of Windrunners](https://coppermind.net/wiki/Order_of_Windrunners)_ from the _Stormlight Archives_ given other inspirations from the novels prevalent in Deepwoken. [\[1\]](https://coppermind.net/wiki/Order_of_Windrunners)

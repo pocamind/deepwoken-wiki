@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 178593
+revid: 192260
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -20,7 +20,7 @@ categories: [Equipment, Face, Masks]
 | set | Aegis of Enmity, Bastions of Enmity, Wartreads of Enmity, Thrall of Enmity, Fauld of Enmity/Mantle of Enmity |
 | set talent | N/A |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Heart of Enmity |

@@ -1,6 +1,6 @@
 ---
 title: Maestro Alkhurst Legato
-revid: 191530
+revid: 192213
 source: https://deepwoken.fandom.com/wiki/Maestro_Alkhurst_Legato
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Maestros of the Vigils, Circle of Honour members]
@@ -174,6 +174,22 @@ Maestro Alkhurst Legato is located in the [Temple Sparring Hall](Temple_Sparring
 </tr>
 <tr>
   <td colspan="9">[See first instance]</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Etrean Royalist Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>You are not welcome in this sanctuary of peace, <b>intruder.</b></td>
+</tr>
+<tr>
+  <td>[End Dialogue], player loses all health and becomes unconscious</td>
 </tr>
 </tbody>
 </table>

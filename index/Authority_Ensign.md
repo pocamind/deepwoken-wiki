@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 192188
+revid: 192215
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
@@ -170,92 +170,27 @@ This list may be incomplete.
 
 ## Promotions
 
-Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards. Promotion points are reset upon being promoted. Upon being promoted, you will gain a promotion Talent hand [see below](#talents). The message "**YOU HAVE BEEN PROMOTED TO \[RANK\]. OORAH!**" will appear when you reach enough points to rank up.
+Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards, being Faction Talent hands and potentially new dialogue with NPCs. Promotion points are reset upon being promoted. The message "**YOU HAVE BEEN PROMOTED TO \[RANK\]. OORAH!**" will appear when you reach enough points to rank up.
+
+Faction Talents cannot be exchanged for other Faction Talents, so choose wisely as you will not be able to change them later.
 
 Enlistment Ranks
 
-1.  **Private** (PVT); This is the standard rank that is granted upon obtaining the Origin.
-2.  **Corporal** (CPL); The 2nd rank granted after reaching 155 promotion points.
-3.  **Lance Corporal** (LCPL); The Highest of the Enlisted ranks after reaching 215 promotion points.
+1.  **Private**; This is the standard rank that is granted upon obtaining the Origin.
+2.  **Corporal**; The 2nd rank, granted after reaching 155 promotion points.
+3.  **Lance Corporal**; The final Enlistment rank, granted after reaching 215 promotion points.
     -   Allows you to join one of the Divisions: Command, Inquisition, or Shock Corps.
 
-### Divisions
+### Enlistment Talents
 
-Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Unique [Outfits](Outfits.md), and [Talents](Talents.md). You will also gain clearance to purchase to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of Armory weapons. Additionally, NPCs affiliated with The Central Authority that are located in either Port or Fort Merit will salute you when walking by them.
-
-Each Division is unique in their themes, offering many avenues of gameplay and build diversity, but be warned as once you join a Division, you **cannot** go back or choose a different one. Upon gaining a Division, the AWOL timer will no longer appear, and you are free to roam as you please. Additionally, most Authority NPCs will salute you when you approach them.
-
-#### Command Division
-
-The Command Division of the Central Authority is known for their charismatic commanders, leading the charges into the fight and empowering their fellow soldiers.
-
--   Obtainment
-    -   Complete 10 missions as Squad leader. Being solo counts.
-    -   Reach Lance Corporal rank and speak to [Warden Jericho](Warden_Jericho.md).
--   Promotions
-    
-    -   Lance Corporal -> Warrant Officer
-    
-    1.  Warrant Officer -> Captain | 329 promotion points
-    2.  Captain -> Commander | 388 promotion points
-    3.  Commander -> Seneschal | 447 promotion points
--   Benefits
-    -   [Authority Captain Uniform](Authority_Captain_Uniform.md) Expert Armor
-    -   At Seneschal rank, you can speak to Warden Jericho and receive the [Rite of Authority](Rite_of_Authority.md) Weapon
-    -   [Glorious Charge](#division-mantras) Mantra
-    -   The edges of your [Adretian Aegis](Adretian_Aegis.md) changes color from gold to grey.
-    -   Exclusive Division Talents; [see below](#command-division-talents)
-
-#### Inquisition Division
-
-The Inquisition Divison of the Central Authority acts in the shadows, using their stealth and cunning to neutralize the opposition, while also serving as the eyes and ears for the Central Authority.
-
--   Obtainment
-    -   Complete 10 Solo Missions
-    -   Reach Lance Corporal rank and speak to [High Inquisitor Merey](High_Inquisitor_Merey.md).
--   Promotions
-    
-    -   Lance Corporal -> Inquisitor
-    
-    1.  Inquisitor -> Inquisitor 1st Class | 329 promotion points
-    2.  Inquisitor 1st Class -> Handler | 388 promotion points
--   Benefits
-    -   [Inquisition Light](Inquisition_Light.md) Master Armor
-    -   At Handler rank, you can speak to High Inquisitor Merey and receive the [Big Brother](Big_Brother.md) Weapon
-    -   [Hidden Blade](#division-mantras) Mantra
-    -   Your [Adretian Aegis](Adretian_Aegis.md) changes colors from blue to black
-    -   Exclusive Division Talents; [see below](#inquisition-division-talents)
-
-#### Shock Corps Division
-
-The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
-
--   Obtainment
-    -   Have a High ratio of successfully completed Missions to failed ones. (The ratio is 3 completed missions to 1 failed one. In other words, for every **1 failed mission**, you need to complete **3 successful ones** to make up for it.)
-    -   Reach Lance Corporal rank and speak to [Sentinel Augustus](Sentinel_Augustus.md).
--   Promotions
-    
-    -   Lance Corporal -> Frontliner
-    
-    1.  Frontliner -> Interceptor | 329 promotion points
-    2.  Interceptor -> Operator | 388 promotion points
--   Benefits
-    -   [Shock Corps Light](Shock_Corps_Light.md) Unique Armor
-    -   At Operator rank, you can speak to Sentinel Augustus and receive the [Duskguard Axe](Duskguard_Axe.md) weapon
-    -   [Grand Warden's Axe](#division-mantras) Mantra
-    -   Your [Adretian Aegis](Adretian_Aegis.md) changes colors from blue to red
-    -   Exclusive Division Talents; [see below](#shock-corps-division-talents)
-
-### Promotion Talents
-
-Upon being promoted, you will be prompted with a Talent hand containing Origin-exclusive Talents. You can only be promoted 4 times (5 if Command Division), and you cannot change these Talents once you've chosen them. Choose wisely.
-
-#### Default Talents
+These Talents can be chosen upon being promoted at any point in your Ensign playthrough.
 
 -   **Armored Plating** - Put on extra plating on your armor, giving you 50 temp health whenever you are put in combat. Due to the weight of this additional plating, you have reduced speed at all times.
     -   Gain 50 Temporary Health whenever combat starts at the cost of having a passive movement speed debuff even outside of combat.
+
 -   **Crossguard** - If you are using a sword, you gain 10% chip against other opponents wielding swords.
     -   This applies only to Medium swords, meaning Greatswords are completely unaffected.
+
 -   **Oppressive Force** - When using a weapon found in the Merit Armory, gain a unique two-hit flourish that does not knock back opponents and dazes them.
     -   The first hit deals your regular M1 damage and posture damage, the second hit deals 80% of your weapon's scaled damage with 7 posture damage.
     -   The damage and posture damage of the second hit cannot be buffed.
@@ -265,11 +200,40 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   These weapons are: [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
     -   Despite being found in the armory, the [Adretian Axe](Adretian_Axe.md), [Battleaxe](Battleaxe.md), [Cavalry Saber](Cavalry_Saber.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+
 -   **Riot Shield** - While you are fighting two or more opponents and are using a [shield](Shields.md), reduce the total amount of chip damage you take by 40%.
     -   Grants 40% damage reduction to chip damage, does **not** reduce your opponent's chip % by 40.
+
 -   **Steel Tread** - Gain a bit of knockback resistance as well as damage resistance against attacks that ragdoll you.
 
-#### Command Division Talents
+## Divisions
+
+Upon reaching the Lance Corporal rank and meeting the additional requirements of a Division, you can join them, granting exclusive bonuses such as [Weapons](Weapons.md), Unique [Outfits](Outfits.md), [Talents](Talents.md), and new dialogue that changes depending on your rank and Division. Additionally, the AWOL timer will no longer appear, allowing you to go where you please, and most Authority NPCs who aren't in active combat will salute you when you approach them.
+
+At maximum Division rank, you will gain clearance to purchase to the lategame weapons in the Fort Merit Armory, such as the [Sovereign's Punishment](<Sovereign's_Punishment.md>) and various [Alloyed](Pluripotent_Alloy.md) variants of Armory weapons.
+
+Each Division is unique in their themes, offering many avenues of gameplay and build diversity, but be warned as once you join a Division, you **cannot** go back or choose a different one.
+
+## Command Division
+
+The Command Division of the Central Authority is known for their charismatic commanders, leading the charges into the fight and empowering their fellow soldiers.
+
+Joining this Division provides the **Glorious Charge** Mantra, the [Authority Captain Uniform](Authority_Captain_Uniform.md) Expert Armor, and the edges of your [Adretian Aegis](Adretian_Aegis.md) changes color from gold to grey. Additionally, upon reaching Seneschal rank, you can speak to [Warden Jericho](Warden_Jericho.md) to receive the [Rite of Authority](Rite_of_Authority.md) weapon.
+
+Uniquely, this Division has 4 ranks, allowing you to gain up to 5 Faction Talents while the other Divisions are limited to 4.
+
+### Obtainment and Ranks
+
+Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jericho.md) as a Lance Corporal. Being solo counts as being the squad leader.
+
+**Ranks**
+
+1.  **Warrant Officer**; This is the standard rank that is granted upon joining this Division.
+2.  **Captain**; The 2nd rank, granted after reaching 329 promotion points.
+3.  **Commander**; The 3rd rank, granted after reaching 388 promotion points.
+4.  **Seneschal**; The final rank, granted after reaching 447 promotion points.
+
+### Exclusive Features
 
 -   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
@@ -279,57 +243,19 @@ Upon being promoted, you will be prompted with a Talent hand containing Origin-e
     -   Automatically grips knocked players.
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
-    -   The cooldown is 24 real world hours, not one ingame day. There is also a 10 minute global cooldown (limited to your server).
+    -   The cooldown is 24 real world hours, not one ingame day. There is also a 10 minute server-wide cooldown.
+
 -   **Officer's Slash** - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown. \[20 seconds CD\]
     -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
     -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
     -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.
+
 -   **Officer's Training** - While using a Sword or Rapier, take 30% less posture damage from criticals.
+
 -   **Target Focus** - Enemies you [charm](Status_Effects.md#charm) take more damage from your squadmates in your party.
 
-#### Inquisition Division Talents
-
--   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
-    -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
-    -   This Talent does not have a range limit.
-    -   Applies daze and ragdolls.
-    -   Prerequisite: 30 Agility
--   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
--   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
-    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
-    -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
-        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
-    -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
-    -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
-        -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
-        -   The [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
--   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
--   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
--   **Tacet Minimization** - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
-    -   Prerequisites: [Murmur: Tacet](Murmur%253A_Tacet.md)
-    -   You must obtain Tacet through [Cestis](Cestis.md) or [Quiet Stranger](Quiet_Stranger.md) in order to get Tacet Minimization. The Soulbreaker Oath variant will not allow you to obtain Tacet Minimization.
-    -   Active for 10s; 60s cooldown.
-    -   Requires 100% [Ether](Ether.md) to be activated, doesn't use any ether on activation however.
-
-#### Shock Corps Division Talents
-
--   **Absolute Force** - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
-    -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.
-    -   Prerequisites: Oppressive Force
--   **Amp Overdrive** - Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.
-    -   Deals 15 Thundercall damage.
-    -   The Electrify status effect changes your opponent's damage type to Thundercall and gives you 10% damage reduction to their attacks.
--   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
-    -   Increases your posture damage by 0.1% per 1% health missing, up to a maximum of +10% posture damage against someone at 0% health.
--   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
-    -   You need to reach a threshold of 150 scaled damage with [Thundercall](Thundercall.md) Mantras without getting hit to proc this Talent.
-    -   The damage buildup to reach the threshold is unaffected by resistances and damage modifiers.
-    -   Also negates damage from critical attacks and [Silentheart](Oath%253A_Silentheart.md) abilities.
-
-### Division Mantras
-
-These Mantras are obtained when joining a Division. Similar to Oath Mantras, you cannot upgrade Division Mantras.
+  
 
 | 
 **Name**
@@ -396,6 +322,84 @@ Command Division
 **Effect:** _User lets out a yell, buffing their allies. All of their squadmates gain a speed boost for 20 seconds and become unknockable for 10._
 
  |
+
+## Inquisition Division
+
+The Inquisition Divison of the Central Authority acts in the shadows, using their stealth and cunning to neutralize the opposition, while also serving as the eyes and ears for the Central Authority.
+
+Joining this Division provides the **Hidden Blade** Mantra, the [Inquisition Light](Inquisition_Light.md) Unique Armor, and the color of your [Adretian Aegis](Adretian_Aegis.md) changes from blue to black. Additionally, upon reaching Handler rank, you can speak to [High Inquisitor Merey](High_Inquisitor_Merey.md) to receive the [Big Brother](Big_Brother.md) weapon.
+
+### Obtainment and Ranks
+
+Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor_Merey.md) as a Lance Corporal.
+
+**Ranks**
+
+1.  **Inquisitor**; This is the standard rank that is granted upon joining this Division.
+2.  **Inquisitor 1st Class**; The 2nd rank, granted after reaching 329 promotion points.
+3.  **Handler**; The final rank, granted after reaching 388 promotion points.
+
+### Exclusive Features
+
+-   **Backstabber** - Landing a backhit with a light attack causes you to grab your opponent and stab them again, dealing an extra 15 damage.
+    -   Procs on M1s, [Silentheart](Oath%253A_Silentheart.md) abilities, and criticals with the M1 tag.
+    -   This Talent does not have a range limit.
+    -   Applies daze and ragdolls.
+    -   Prerequisite: 30 Agility
+
+-   **Executioner's Frenzy** - Landing a light attack while their posture is paused reduces their assassination cooldown by 5 seconds.
+
+-   **Fatal Stealth** - You deal increased backstab damage to opponents based on how high your [stealth](Stealth.md) stat currently is.
+    -   Grants +0.2% damage per 1 [Stealth](Stealth.md) to attacks that hit your opponent's back.
+    -   Stealth gained from non-[Equipment](Equipment.md) or [Outfit](Outfits.md) sources do not count towards this Talent.
+        -   Strangely, the [Obvious](Boons_and_Flaws.md#obvious) Flaw is an exception to this, reducing your damage by 4%.
+    -   This does **not** buff [assassinations](Combat_Mechanics.md#assassination).
+    -   See the [Stealth](Stealth.md) page for info on where stealth can be obtained.
+        -   The maximum Stealth you can gain from Equipment alone is 30% (+6% damage).
+        -   The [Inquisition Light](Inquisition_Light.md) Outfit grants 50% Stealth (+10% damage).
+
+-   **Flanking Maneuvers** - Enemies you assassinate take more PEN from your squadmates in your party.
+
+-   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
+
+-   **Tacet Minimization** - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
+    -   Prerequisites: [Murmur: Tacet](Murmur%253A_Tacet.md)
+    -   You must obtain Tacet through [Cestis](Cestis.md) or [Quiet Stranger](Quiet_Stranger.md) in order to get Tacet Minimization. The Soulbreaker Oath variant will not allow you to obtain Tacet Minimization.
+    -   Active for 10s; 60s cooldown.
+    -   Requires 100% [Ether](Ether.md) to be activated, even though it does not cost any Ether.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Hidden Blade** (☆☆☆)
@@ -438,6 +442,73 @@ Inquisition Division
 -   Can be buffed through damage modifiers despite dealing percentage based damage.
 
  |
+
+## Shock Corps Division
+
+The Shock Corps Division of the Central Authority sees frontliners taking the fight head on with overwhelming force.
+
+Joining this Division provides the **Grand Warden's Axe** Mantra, the [Shock Corps Light](Shock_Corps_Light.md) Unique Armor, and the color of your [Adretian Aegis](Adretian_Aegis.md) changes from blue to red. Additionally, upon reaching Operator rank, you can speak to [Sentinel Augustus](Sentinel_Augustus.md) to receive the [Duskguard Axe](Duskguard_Axe.md) weapon.
+
+### Obtainment and Ranks
+
+Complete missions with a high win to loss ratio, then speak to [Sentinel Augustus](Sentinel_Augustus.md) as a Lance Corporal. This requires a ratio of 3:1 for completed missions, meaning you will need to complete 3 missions successfully for every mission you fail.
+
+**Ranks**
+
+1.  **Frontliner**; This is the standard rank that is granted upon joining this Division.
+2.  **Interceptor**; The 2nd rank, granted after reaching 329 promotion points.
+3.  **Operator**; The final rank, granted after reaching 388 promotion points.
+
+### Exclusive Features
+
+-   **Absolute Force** - Evolve the technique of your Oppressive Force, letting both hits of your flourish deal 50% more posture damage.
+    -   Because the second hit of Oppressive Force cannot receive posture damage modifiers, this Talent only benefits the initial hit of your Oppressive Force flourish.
+    -   Prerequisite: Oppressive Force
+
+-   **Amp Overdrive** - Guardbreaking an opponent causes them to take extra thunder damage and applies Electrify for 7 seconds.
+    -   Deals 15 Thundercall damage.
+    -   The Electrify status effect changes your opponent's damage type to Thundercall and gives you 10% damage reduction to their attacks.
+
+-   **Martial Brutality** - The less health your opponent has, the more posture damage you deal to them.
+    -   Increases your posture damage by 0.1% per 1% health missing, up to a maximum of +10% posture damage against someone at 0% health.
+
+-   **Shocking Reverb** - Landing enough [lightning](Thundercall.md) mantras without getting hit grants you a defensive lightning cloak for 15 seconds, letting you negate damage from light attacks and [ironsing](Ironsing.md). \[2 min CD\]
+    -   You need to reach a threshold of 150 scaled damage with [Thundercall](Thundercall.md) Mantras without getting hit to proc this Talent.
+    -   The damage buildup to reach the threshold is unaffected by resistances and damage modifiers.
+    -   Also negates damage from critical attacks and [Silentheart](Oath%253A_Silentheart.md) abilities.
+
+  
+
+| 
+**Name**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+**Requirements**
+
+ | 
+
+**Ether Cost**
+
+ | 
+
+**Damage Type**
+
+ | 
+
+  
+**Requirements**
+
+ |
+| --- | --- | --- | --- | --- | --- | --- |
 | 
 
 **Grand Warden's Axe** (☆☆☆)

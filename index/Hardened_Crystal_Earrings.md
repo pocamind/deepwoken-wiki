@@ -1,6 +1,6 @@
 ---
 title: Hardened Crystal Earrings
-revid: 189962
+revid: 192275
 source: https://deepwoken.fandom.com/wiki/Hardened_Crystal_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Power 15 Jobs |
 | description | Though the setting and clasp have been dulled by wear and tear, the crystal remains completely untarnished. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

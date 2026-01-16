@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 172678
+revid: 192226
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -304,20 +304,20 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 -   **Etreans** share many visual similarities with [Mitsuki](https://naruto.fandom.com/wiki/Mitsuki) and [Orochimaru](https://naruto.fandom.com/wiki/Orochimaru) from _Naruto_.
     -   Regarding their culture, they have similarities to Eastern civilizations, in architecture, and names.
--   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://mistborn.fandom.com/wiki/Steel_Ministry%23Obligator) from _Mistborn_.
+-   **Adrets** are a combination of [Goliaths](https://www.dndbeyond.com/races/22-goliath) from _Dungeons and Dragons_, and [Obligators](https://coppermind.net/wiki/Steel_Ministry#Obligators) from _Mistborn_.
     -   While both have markings on their face, Adrets markings are specifically referenced from Obligators.
 -   **Canors** are confirmed to be based on the design of [Mereoleona](https://blackclover.fandom.com/wiki/Mereoleona_Vermillion) from _Black Clover_.
     -   On a broader reference, Canor surnames are German. Zweihanders, a weapon of German creation in real life, are used by Canor Borderwatchers.
 -   **Khans** resemble modern interpretations of [Sun Wukong](https://en.wikipedia.org/wiki/Monkey_King) from _Journey To The West_, with their near identical hair on sideburns and cheeks, and headband.
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[aspect\]" it says "Return to Khan"
--   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.fandom.com/wiki/Vessels) from _Hollow Knight_.
-    -   The origins of **Vesperians** can be traced back to _Arch\_Mage's_ earlier game, _[Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil),_ where they were depicted as hostile automatons. This history is still evident today, reflected in their [lore](https://deepwoken.fandom.com/wiki/Lore?so=search#Vesperian) by being more robust than any other aspect.
+-   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.wiki/w/Vessels) from _Hollow Knight_.
+    -   The origins of **Vesperians** can be traced back to _Arch\_Mage's_ earlier game, _[Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil),_ where they were depicted as hostile automatons. This history is still evident today, reflected in their [lore](Lore.md#vesperian) by being more robust than any other aspect.
 
--   **Ganymedes** are a likely reference to the [Snail Shamans](https://hollowknight.fandom.com/wiki/Snail_Shamans) from _Hollow Knight._
-    -   **Ganymedes** are also named after [a moon of Jupiter](<https://en.wikipedia.org/wiki/Ganymede_(moon)>).
+-   **Ganymedes** are a likely reference to the [Snail Shamans](https://hollowknight.wiki/w/Snail_Shamans) from _Hollow Knight._
+    -   **Ganymedes** are also named after [a moon of Jupiter.](<https://en.wikipedia.org/wiki/Ganymede_(moon)>)
     -   **Ganymedes** origins stems from _Arch\_Mage's previous game, [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil)._ Where it serves as the player's race.
 
--   Although this was likely unintentional, Tiran's Jay variant resembles [Niko](https://oneshot.fandom.com/wiki/Niko) from _OneShot_.
+-   Although this was likely unintentional, Tiran's Jay variant resembles Niko from _OneShot_.
     -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.
 
 ### Misc

@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 189849
+revid: 192278
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
@@ -47,9 +47,9 @@ The Steel Maul is a [Vow of Iron](Vow_of_Iron.md) exclusive greathammer weapon. 
 
 Equipping the Saint Jay's Hammer grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Bulwark Breaker** gives your [Pressure Blast](Attunement-less.md#pressure-blast) a very noticeable AoE increase. Additionally, the final hit of your Pressure Blast now deals 8 more posture damage, going from 12 to 20.
+**Bulwark Breaker** gives your [Pressure Blast](Attunement-less.md#pressure-blast) a very noticeable AoE increase. Additionally, the final hit of your Pressure Blast now deals 3x posture damage, going from 12 to 36.
 
-Assuming all of your Pressure Blast hits hit your opponent's block, they will take 44 total posture damage, compared to the original 36.
+Assuming all of your Pressure Blast hits hit your opponent's block, they will take 60 total posture damage, compared to the original 36.
 
 **Reverse Necrosis** grants healing when you land [Mantras](Mantras.md), with the healing scaling on how slowed your opponent is.
 

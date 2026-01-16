@@ -1,12 +1,9 @@
 ---
 title: Seon
-revid: 192189
+revid: 192206
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Reputation, Etrean Royalists]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royalists]
 ---
 
 # Seon
@@ -104,7 +101,7 @@ Seon is located in two different locations
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td><i>*The guard glares at you, unmoving.*</i> We may have business to discuss if you lose some of the heat off you, stranger.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

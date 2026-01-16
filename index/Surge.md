@@ -1,6 +1,6 @@
 ---
 title: Surge
-revid: 191647
+revid: 192239
 source: https://deepwoken.fandom.com/wiki/Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Oath Trainer]
@@ -25,9 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Surge is a [Canor](Canor.md) NPC interested with the [Deep Owls](Deep_Owl.md). He can teach the player the tricks of the mind in return for [Void Feathers](Dark_Feather.md).
+Surge is a [Canor](Canor.md) NPC found in the [First Layer](First_Layer.md). Surge has an "interest" in the [Deep Owls](Deep_Owl.md) and can teach [the Pathfinder](The_Pathfinder.md) the tricks of the mind in return for [Void Feathers](Dark_Feather.md).
 
-Speaking to Surge while having a Dark Feather in the players inventory and meeting the requirements to obtain [Oath: Visionshaper](Oath%253A_Visionshaper.md), the player will be teleported to [A Conscious Intersection](A_Conscious_Intersection.md) to speak to [The Nestmind](The_Nestmind.md). Visionshaper abilities are unlocked by giving Surge Void Feathers, up to a total of 5 times to obtain all abilities.
+Speaking to Surge while having a Dark Feather in the inventory and meeting the requirements to obtain [Oath: Visionshaper](Oath%253A_Visionshaper.md), the Pathfinder will be teleported to [A Conscious Intersection](A_Conscious_Intersection.md) to speak to [The Nestmind](The_Nestmind.md). Visionshaper abilities are unlocked by giving Surge Void Feathers, up to a total of 5 times to obtain all abilities.
 
 ## Location
 

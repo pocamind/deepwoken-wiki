@@ -1,9 +1,11 @@
 ---
 title: Loot Bag Gacha
-revid: 191523
+revid: 192274
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
+categories: [Articles with conjectural titles, Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
+notices:
+  - "The archives... are incomplete? While this page's contents are based on real information within the Deepwoken universe, the title itself is conjectural."
 ---
 
 # Loot Bag Gacha

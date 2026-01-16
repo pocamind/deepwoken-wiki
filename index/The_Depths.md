@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 186365
+revid: 192282
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths]
@@ -24,9 +24,17 @@ Returning to the overworld (Layer 0) is possible through the depths. If you are 
 
 Despite being a resting place for souls, the Depths is a physical location in the world of _Deepwoken_. It can be reached through cavern systems and just swimming to the bottom of the ocean. It has its own ecosystem and is able to support the bizarre marine life that inhabits it. When dying in water, the player's corpse actually sinks to the Depths. Though seemingly underwater and at the bottom of the ocean, with people down there even releasing bubbles when they breathe, you cannot drown or swim. The animals have also evolved more akin to land animals, such as [Megalodaunts](Megalodaunt.md) becoming better runners and jumpers but sacrificing their ability to swim well.
 
-There are multiple layers to the Depths, with as many as nine known to exist, likely getting even harder as it goes down.
+Due to the Depths being tied to the Song and greater powers, some factions research and develop technologies through relics found in its layers, and others seek to fight back and eliminate the Depths, as they are the key reason for why The Submergence occurs, and settlements have become more distant and fractured from each-other.
 
-[Pleeksty](Amorus_Pleeksty.md), a renowned [Flamecharmer](Flamecharm.md) and [Diver](The_Divers.md), was able to reach the Third Layer and achieved some transcendental power before disappearing without a trace, never to be seen or heard from again. This power was obtained by eating a part of [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), the Drowned God of the Vents, Third Layer. By consuming a bit of him, Pleeksty became a [Deepwoken](Deepwoken.md). This information can be gleaned from residents of the [Castle Light](Castle_Light.md), and the Flamecharmer in [Lance's Food](Etris.md).
+Some notable factions related to the Depths are as-follows:
+
+-   [The Divers](The_Divers.md) and [Ignition Union](The_Ignition_Union.md), who are funded by the [The Citadel of Markor](The_Citadel_of_Markor.md) to develop and research technologies within the Depths, to improve the survival of mankind and further its development; though they often fight one-another due to competitiveness and conflict-of-morals.
+-   [The Central Authority](The_Central_Authority.md), who seek to push back the Depths by uniting all people in Lumen together as-one, even if they have to force settlements to be under their authority. They sometimes fight against the Ministry due to natural opposition towards each-other.
+-   [The Covenant of Flame](The_Covenant_of_Flame.md), a zealous faction led by the Deepwoken of Flame, [Amorus Pleeksty](Amorus_Pleeksty.md). He and the Covenant's closest disciples currently reside in The Vents to protect Lumen. They seek to oppose the depths in the name of humanity, through their flames.
+-   [The Ministry](The_Ministry.md), who wish to grow the expanse of the Depths to gain power and godhood, by sacrificing civilizations. They were responsible for the drowning of [Celtor](Lost_Celtor.md) and some of the [Southern Luminant](Luminants.md#southern-luminant).
+-   [Lost Celtor](Lost_Celtor.md), the remnants of the city, Celtorian, which now lies at the center of the First Layer, Scyphozia. Many of their forces were tricked into making vows with the [Voices of the Depths](Voices_of_the_Depths.md) and members of the Ministry, leading to the creation of [Angels](Hollow_Angel.md) and [Watchers](Watcher.md), and the usage of the city's cathedral for trials of combat.
+
+There are multiple layers to the Depths, with as many as nine known to exist, likely getting even harder as it goes down. They are believed to be non-Euclidian in regards to their positioning in the Depths, with deeper layers like The Vents being accessible through caves in Lumen, despite the non-sequential method of entry.
 
 The Depths is a highly challenging location that should be avoided if possible. If you are not comfortable with the mobs in the overworld, as well as dealing with unsavory players, it is strongly recommended that you do not intentionally go to the Depths.
 

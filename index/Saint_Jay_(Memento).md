@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 191950
+revid: 192283
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -599,7 +599,7 @@ Slash
 -   Initial hit has a windup of 0.75s with each followup hit having a windup of 0.2s each.
 -   Dazes opponents on hit.
 -   Ragdolls and lightly flings opponents away.
--   [Steel Maul](Steel_Maul.md) and [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>)'s Bulwark Breaker Talent increases the size of this Mantra along with increasing the final hit's posture damage to 20.
+-   Wielding the [Steel Maul](Steel_Maul.md) or [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) will increase the AoE of this Mantra greatly. Additionally, the final hit of Pressure Blast will deal 3x posture damage on these weapons, dealing 36 posture damage instead of the default 12.
 
  |
 

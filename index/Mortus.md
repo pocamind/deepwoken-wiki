@@ -1,6 +1,6 @@
 ---
 title: Mortus
-revid: 191559
+revid: 192248
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns]

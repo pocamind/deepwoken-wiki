@@ -1,9 +1,9 @@
 ---
 title: Group of Etrean Nobles
-revid: 191456
+revid: 192223
 source: https://deepwoken.fandom.com/wiki/Group_of_Etrean_Nobles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Etrean Royalists]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Etrean Royalists]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
@@ -13,7 +13,7 @@ notices:
 
 | Group of Etrean Nobles | |
 |---|---|
-| aspect | Etrean(s) |
+| aspect | Etrean |
 | location | The Golden Rat |
 | affiliation | Clan Anako, Clan Ganba, Clan Kobura, Clan Mofisu |
 

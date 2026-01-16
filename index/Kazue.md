@@ -1,20 +1,20 @@
 ---
-title: Ferenc
-revid: 192221
-source: https://deepwoken.fandom.com/wiki/Ferenc
+title: Kazue
+revid: 192222
+source: https://deepwoken.fandom.com/wiki/Kazue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Reputation, Etrean Royalists]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
-# Ferenc
+# Kazue
 
-| Ferenc | |
+| Kazue | |
 |---|---|
-| name | Ferenc |
+| name | Kazue |
 | aspect | Etrean |
-| location | Isle of Vigils |
+| location | The Sable Estate |
 | affiliation | Etrean Royalists |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
@@ -23,11 +23,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ferenc is an [Etrean](Etrean.md) NPC who accepts a bribe for the [Etrean Royalists](Etrean_Royalists.md). The player can pay them up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
+Kazue is an [Etrean](Etrean.md) NPC who accepts a bribe for the [Etrean Royalists](Etrean_Royalists.md). The player can pay them up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
 
 ## Location
 
-Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_of_Vigils.md).
+Kazue is located near the bridge connecting [The Sable Estate](The_Sable_Estate.md) to [Saramaed Crossing](Saramaed_Crossing.md).
 
 ## Dialogue
 
@@ -39,7 +39,7 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*The Blade glances at you in passing.*</i> Hey, you. If you ever get in trouble with the resistance - the Etrean Royalists, and the Vigils... You know who to look for.</td>
+  <td><i>*The guard looks you up and down.*</i> Consider yourself lucky, stranger - you've got no business with me. But if you ever find yourself in a spot of trouble with the Royalists, the Old Guard... We may have something to talk about.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -55,7 +55,7 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
   <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="8"><i>*The guard glances at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
+  <td colspan="8"><i>*The guard glares at you, unmoving.*</i> Your name is infamous among the great clans of Etrea, stranger. By my sworn allegiance, I ought to cut you down where you stand... But, I may be able to offer some help instead.</td>
 </tr>
 <tr>
   <td colspan="8">How?</td>
@@ -78,12 +78,12 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
 </tr>
 <tr>
   <td>Sufficient Notes</td>
-  <td>Not Enough Notes</td>
+  <td>Insufficient Notes</td>
   <td colspan="2">[See first instance]</td>
 </tr>
 <tr>
   <td><i>*The guard nods.*</i> Very well. With this tribute, the clans may set their grievances with you aside. Swift journeys to you, stranger.</td>
-  <td>WIP</td>
+  <td>It seems your war chest dwindles too, stranger. Return to me when you have enough money that you'd be willing to contribute.</td>
 </tr>
 <tr>
   <td>[End Dialogue], reputation with Etrean Royalists is set to neutral</td>
@@ -100,7 +100,7 @@ Ferenc is located at the shore of a neighboring island at [Isle of Vigils](Isle_
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*The Blade smirks at your approach.*</i> Your name is infamous among the resistance, stranger. I might be able to help you if you're able to lose whatever's after you right now.</td>
+  <td><i>*The guard glares at you, unmoving.*</i> We may have business to discuss if you lose some of the heat off you, stranger.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 192171
+revid: 192281
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3578,14 +3578,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Each stack lasts for 15 seconds and refresh upon gaining another, including when you're at max stacks. You can be at max stacks indefinitely.
     -   Each stack grants an ~2.35% speed boost, totaling to ~11.75% speed at max stacks. The duration of this speed boost is effectively indefinite, as gaining stacks can be done very easily just by playing the game.
         -   This speed boost can proc speed boost Talents, like Speed Demon or Cheap Shot.
-    -   Prerequisites: 40 Thundercall, 20 Medium Weapon
+    -   Prerequisites: 40 Thundercall, 20 Medium Weapon, Medium Weapon equipped
 
 -   Gathering Electricity \[Common Talent, Thundercall, Strength/Agility\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
     -   Clears all Static Blade stacks on proc.
     -   You can still gain Static Blade stacks while Gathering Electricity is active.
     -   For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.
         -   +3 base damage might not seem like a large buff, but due to how Deepwoken's damage calculation works, this is very significant.
-    -   Prerequisites: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Any Medium Weapon
+    -   Prerequisites: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Medium Weapon equipped
 
 -   Overcharge \[Common Talent, Thundercall\] - Your next dash after activating Static Blade is enhanced by lightning.
     -   Lightning Dashes increase your dash distance travelled by 2.3x and the duration of i-frames from rolling, but will end early if you attack.
@@ -4071,9 +4071,10 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   If you are knocked during the duration of this 'bleed' effect, you will be automatically gripped.
     -   This Talent was formerly called "Bloodthirsty".
 
--   Bulwark Breaker: [Steel Maul](Steel_Maul.md) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
-    -   The final hit of your Pressure Blast gains 8 posture damage, going from 12 to 20 posture damage.
-        -   Assuming all hits hit your opponent's block, your Pressure Blast now does 44 posture damage compared to the previous 36.
+-   Bulwark Breaker: [Steel Maul](Steel_Maul.md) & [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>) - Increase the size of your [Pressure Blast](Attunement-less.md#pressure-blast), with the last hit of it dealing increased posture damage.
+    
+    -   The final hit of your Pressure Blast gains 3x posture damage, going from 12 to 36 posture damage.
+        -   Assuming all hits hit your opponent's block, your Pressure Blast now does 60 posture damage compared to the previous 36.
     -   Grants a **very** large increase to the AoE of your Pressure Blast.
 
 -   Cruel Counter: [Krulian Knife](Krulian_Knife.md) - When using your initial charge up on your Krulian Knife, if you interrupt someone's attack with it apply Cruel Counter on them, massively increasing the damage they take from your critical attacks.

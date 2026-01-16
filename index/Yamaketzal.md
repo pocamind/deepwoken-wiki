@@ -1,9 +1,9 @@
 ---
 title: Yamaketzal
-revid: 191699
+revid: 192236
 source: https://deepwoken.fandom.com/wiki/Yamaketzal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
+categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Voiced Characters]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | name | Yamaketzal |
 | aspect | Capra |
+| pronouns | He/him |
 | location | Songseeker Temple |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -26,7 +27,7 @@ Yamaketzal is a [Capra](Capra.md) NPC found right outside of [Songseeker Temple]
 
 Talking to Yamaketzal above [Power](Power.md) 5 will unlock the [Echo Talent](Echoes.md#echo-talentsitems), [Chime of Conflict](Chime_of_Conflict.md). The Chime of Conflict allows the player to fight in instanced PVP arenas against other players. Additionally, he can help player claim Echo Talents that they've unlocked in another slot, but don't own on their current slot.
 
-Speaking to Yamaketzal after claiming the Chime of Conflict will tell the player their W:L ratio in the arena. His second set of dialogue can range from ominous messages to mentioning notable people, including [The Ferryman](The_Ferryman.md), [The Duke](Duke_Ishamon_Erisia.md), [The Lord Regent](The_Lord_Regent.md), Wardens, and Gunsmith Rosen. He also speaks of a Driver, riding horses.
+Speaking to Yamaketzal after claiming the Chime of Conflict will tell the player their W:L ratio in the arena. His second set of dialogue can range from ominous messages to mentioning notable people, including [The Ferryman](The_Ferryman.md), [Duke Erisia](Duke_Ishamon_Erisia.md), [The Lord Regent](The_Lord_Regent.md), Wardens, and [Gunsmith Rosen](Gunsmith_Rosen.md). He also speaks of a Driver, riding horses.
 
 Furthermore, if the player character has the [Tarnished](Boons_and_Flaws.md#flaws) Flaw, Yamaketzal can remove it from the player for the price of 1000, making it possible to reroll their [Resonance](Resonance.md) again.
 

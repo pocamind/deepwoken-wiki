@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 191497
+revid: 192265
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Karliah is an [Adret](Adret.md) apprentice Diver in NPC [Etris](Etris.md) who allows you to [unbound](Attributes_Unbound.md) your Charisma. Karliah's quest has numerous Charisma checks, and you can only unbind the attribute if you have it at max, that being seventy-five (75).
+Karliah is an [Adret](Adret.md) apprentice Diver NPC in [Etris](Etris.md) who allows you to [unbound](Attributes_Unbound.md) your Charisma. Karliah's quest has numerous Charisma checks, and you can only unbind the attribute if you have it at max, that being seventy-five (75).
 
 More details about the quest can be found [here](Etris.md#diver-apprentice-quest).
 
