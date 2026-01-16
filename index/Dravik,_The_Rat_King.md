@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 191107
+revid: 192332
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Enemies]
@@ -78,6 +78,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
  | Dravik winds his axe behind him and swings it upwards, letting out a moderate scream before performing four quick spinning slashes.
 
 -   There is a noticeable delay between the first swing and the follow-up spins.
+-   A low-pitched sound cue plays to indicate this attack.
 
  | 
 
@@ -93,6 +94,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   The timing for parrying the rushes depends on Dravik's distance from the player.
 -   Dravik will always follow up with **Sparkle Blitz** if he rushes twice, but never once.
 -   The rushing part is similar to **Ruler's Rush**, which may throw you off.
+-   A higher-pitched sound cue plays to indicate this attack, along with having different visual effects.
 
  | 
 
