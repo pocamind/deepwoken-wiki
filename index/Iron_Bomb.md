@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 184714
+revid: 192546
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -50,23 +50,28 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 
 -   **Family Recipe** - You can now craft bombs at a crafting bench.
     -   Allows you to create Iron Bombs.
+
 -   **Incendiary Formula** - Bombs will set your enemies on fire upon detonation, as well as launch with more force. Bombs will deal 20% increased damage to burning enemies.
     -   Bombs now light your opponent ablaze. This burn is completely identical to that of Flamecharm's, despite the changelogs stating it scales on your Intelligence attribute.
     -   Bombs gain +20% damage when hitting a burning target.
+
 -   **Sulphur Surprise** - Your cooldown for throwing bombs will be shortened after your first bomb damages an enemy.
     -   Lowers the cooldown of your **next** bomb throw by 1 second (from 5 seconds to 4).
     -   Has a 20 second cooldown.
+
 -   **Hot Potato** - Gain a large boost of speed after throwing a bomb. Your bombs have a chance to detonate twice. (+6 Passive Agility)
     -   Thus speed boost lasts 2 seconds.
+
 -   **Explosive Efficiency** - Crafting a bomb will yield two bombs. Chance to make three.
     -   This Talent is a must take as it will greatly increase the efficiency of your bomb crafting.
     -   Requires Hot Potato.
+
 -   **Pocket Bombs** - You have a chance to activate a bomb in your inventory when damaged. (+1 Health, +5 Carry Load)
     -   When hit, you have a chance to drop 2 bombs at your feet. This only consumes a singular bomb.
 
 ## Information
 
--   Bombs deal 10 typeless damage at base with 35 [Intelligence](Attributes.md#int) scaling; gaining +0.35 damage every investment point into Intelligence and capping out at 45 typeless damage with 100 Intelligence.
+-   Bombs deal 10 typeless damage at base and scale on Intelligence. At 100 Intelligence, they deal 45.5 damage.
 -   Because bombs deal typeless damage, they ignore physical and elemental resistances.
 -   Iron Bombs can be buffed with universal damage modifiers such as [Taunt](Attunement-less.md#taunt) or [Ardour Scream](Murmur%253A_Ardour.md).
 -   Bomb usage has a 5 second cooldown.

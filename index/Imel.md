@@ -1,6 +1,6 @@
 ---
 title: Imel
-revid: 192454
+revid: 192467
 source: https://deepwoken.fandom.com/wiki/Imel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, Quests, The Ministry, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -23,7 +23,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Imel is an [Adret](Adret.md) NPC of the Boulder variant, who is member of [the Ministry](The_Ministry.md) faction, they will give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip a player in Erisia and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
+Imel is an [Adret](Adret.md) NPC of the Boulder variant, who is a member of [the Ministry](The_Ministry.md).
+
+They will give you a mission to kill an enemy in [Erisia](Erisia.md); you must grip a player in Erisia and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
 
 ## Location
 

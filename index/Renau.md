@@ -1,6 +1,6 @@
 ---
 title: Renau
-revid: 192435
+revid: 192478
 source: https://deepwoken.fandom.com/wiki/Renau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the First Layer]
@@ -21,13 +21,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Renau is a [Canor](Canor.md) NPC who's one of the Deepdelver of [the Igniton Union](The_Ignition_Union.md),
+Renau is a [Canor](Canor.md) NPC. They are a member of [the Ignition Union](The_Ignition_Union.md).
 
-If you talk to him, he will tell you that the last explorers who went to the second layer were unqualified and says that he fears for [Epsi](Epsi.md) because he is not ready for this level of challenge in the Depths.
+Renau has low opinions of the expedition to the Second Layer.
 
 ## Location
 
-Renau is located in the [The Depths](The_Depths.md) in [The Chariot's Spire](<The_Chariot's_Spire.md>), you can find him outside of the Deepdriller to the [Second Layer](Second_Layer.md)
+Renau is located in the [The Depths](The_Depths.md) in [The Chariot's Spire](<The_Chariot's_Spire.md>), you can find them outside of the Deepdriller to the [Second Layer](Second_Layer.md)
 
 ## Dialogue
 
@@ -48,4 +48,3 @@ Renau is located in the [The Depths](The_Depths.md) in [The Chariot's Spire](<Th
 ## Trivia
 
 -   Renau's racial variant appears to be Lion.
--   Renau along with [Gamma](Deepdelver_Gamma.md) are the only Deepdelvers responsible for Chariot's Spire.

@@ -1,6 +1,6 @@
 ---
 title: "Shrine of Yun'Shul, Keeper of Hearts"
-revid: 191731
+revid: 192522
 source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul%2C_Keeper_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Layer 1, Oath Trainer]
@@ -24,7 +24,7 @@ _This is a page about a shrine dedicated to Yun’Shul. For the Drowned God, see
 
 ## Description
 
-**The Shrine of Yun'Shul, Keeper of Hearts** is a shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md), dedicated to the Drowned God Yun’Shul. It allows the player to use wishes to grant
+**The Shrine of Yun'Shul, Keeper of Hearts** is a shrine found in the [Temple of Hearts](Temple_of_Hearts.md), locked behind a [Resonance Door](Resonance.md#rerolling--resonance-doors) within the [First Layer](First_Layer.md) of [The Depths](The_Depths.md), dedicated to the Drowned God [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>). It allows the player to use wishes to grant
 
 The shrine at the Temple of Hearts also acts as the penultimate step of obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md); choosing the "What happened to this place?" dialogue option will enable the dialogue with [The Lord Regent](The_Lord_Regent.md) offering to join him.
 

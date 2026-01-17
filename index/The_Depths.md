@@ -1,6 +1,6 @@
 ---
 title: The Depths
-revid: 192282
+revid: 192521
 source: https://deepwoken.fandom.com/wiki/The_Depths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, The Depths]
@@ -52,6 +52,6 @@ The Depths contains nine layers, though you can reach only two in game: [The Fir
 
 Please visit their respective pages below by clicking on them for more information:
 
-**\- [First Layer (Scyphozia)](First_Layer.md)** for information on the first layer you are sent to, including info on Yun'Shul and the Depths Trial.
+**\- [First Layer (Scyphozia)](First_Layer.md)** for information on the first layer you are sent to, including info on [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) and the Depths Trial.
 
 **\- [Second Layer (The Eternal Gale)](Second_Layer.md)** for information on the layer you are sent to after falling into the void or diving deeper via the interaction with [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), including info on [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [New Kyrsa](Second_Layer/New_Kyrsa.md).

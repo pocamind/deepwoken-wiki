@@ -1,9 +1,9 @@
 ---
 title: Korin
-revid: 192442
+revid: 192506
 source: https://deepwoken.fandom.com/wiki/Korin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Korin
@@ -12,6 +12,7 @@ categories: [Pathfinder Exclusive, NPCs, Etrea, Quests, NPCs located in the Etre
 |---|---|
 | name | Korin |
 | aspect | Etrean |
+| pronouns | They/them |
 | location | Etris |
 | affiliation | Etrea |
 
@@ -25,9 +26,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Korin is an [Etrean](Etrean.md) lumberjack. When interacted with, they request 6 wood in order to keep the fires lit. In exchange, [the Pathfinder](The_Pathfinder.md) gains 5 Notes and increased [Reputation](Reputation.md) with [Etrea](Etrea.md). They also give the Pathfinder a free [Lumber Axe](Lumber_Axe.md) if they do not have one.
+Korin is an [Etrean](Etrean.md) NPC. Once aspiring to join the [Temple of the Blade](Temple_of_the_Blade.md), Korin failed to make the cut and is now a lumberjack living within [Etris](Etris.md).
 
-Korin offers the easiest way to increase reputation with Etrea, which allows the player to easily obtain the [Manor key](Manor_Key.md). The Manor Key is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
+When interacted with, they request 6 wood in order to keep the fires lit. In exchange, [the Pathfinder](The_Pathfinder.md) gains 5 Notes and increased [Reputation](Reputation.md) with [Etrea](Etrea.md). They also give the Pathfinder a free [Lumber Axe](Lumber_Axe.md) if they do not have one.
+
+Korin offers the easiest way to increase reputation with Etrea, which allows the Pathfinder to easily obtain the [Manor Key](Manor_Key.md). The Manor Key is necessary to access the boss, [Duke Erisia](Duke_Ishamon_Erisia.md).
 
 Their counterpart in the [Isle of Vigils](Isle_of_Vigils.md) is [Drefa](Drefa.md).
 
@@ -51,7 +54,7 @@ If starting out with neutral reputation with [Etrea](Etrea.md), the player needs
 
 ### Treefelling Blow Quest
 
-If the player has fell at least 1 tree with the mantra [Strong Left](Attunement-less.md#strong-left), Korin can give them the quest to obtain the [Treefelling Blow](Talents.md#treefelling-blow) Talent. To complete the quest, the player must fell at least 5 trees with the [Strong Left](Attunement-less.md#strong-left) mantra.
+If the player has felled at least 1 tree with the Mantra [Strong Left](Attunement-less.md#strong-left), Korin can give them the quest to obtain the [Treefelling Blow](Talents.md#treefelling-blow) Talent. To complete the quest, the player must fell at least 5 trees with the [Strong Left](Attunement-less.md#strong-left) mantra.
 
 As the name implies, this [Talent](Talents.md) allows the player to get wood by punching down a tree with Strong Left. Although trees can be destroyed this way without the Talent, trees will not drop wood unless the player has Treefelling Blow.
 
@@ -199,6 +202,4 @@ If the player has lower than Neutral [Reputation](Reputation.md) with [Etris](Et
 ## Trivia
 
 -   Has a near-identical appearance to [The Ferryman](The_Ferryman.md), the only difference being eye color.
--   A counterpart of this NPC can be found in the Isle of Vigils, with the same functions called [Drefa](Drefa.md).
--   It is implied in one of their dialogue options that they formerly pursued a profession as a Vigil, but failed to meet the required sword expertise for the job.
 -   Korin was one of the first NPCs added to Deepwoken closed community testing.

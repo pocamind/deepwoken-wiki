@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saltchemist"
-revid: 171646
+revid: 192550
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saltchemist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -89,7 +89,7 @@ This Oath makes the Perpetual Distillery appear on your character's arm.
 
 -   **Antithetic Salts** - Alter your brews to invert their effects. Does not count towards the ingredient limit.
     -   Grants a Talent tool that acts as a potion ingredient.
-    -   This reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
+    -   This inverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
     -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent. Some examples of inversions include;
         -   Disgusting -> Dulling
         -   Mindbreaking -> Heartening

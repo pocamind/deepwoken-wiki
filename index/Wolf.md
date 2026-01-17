@@ -1,11 +1,9 @@
 ---
 title: Wolf
-revid: 190787
+revid: 192533
 source: https://deepwoken.fandom.com/wiki/Wolf
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: ["Non-sapient species"]
 ---
 
 # Wolf
@@ -16,7 +14,7 @@ notices:
 
 ## Description
 
-Wolves.[\[1\]](#cite-note-star-1)
+Wolves are fanged creatures hunted by [The Children of Navae](The_Children_of_Navae.md) during the trials of the Festival of Lights. During these trials, blindfolded Navaens are tasked to hunt a wolf, but are disqualified should the wolf land a blow on the aspiring Navaen.[\[1\]](#cite-note-star-1)
 
 ## References
 

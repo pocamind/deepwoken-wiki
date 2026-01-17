@@ -1,6 +1,6 @@
 ---
 title: Lost Celtor
-revid: 178948
+revid: 192538
 source: https://deepwoken.fandom.com/wiki/Lost_Celtor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Lost Celtor]
@@ -11,11 +11,10 @@ categories: [Factions, Lost Celtor]
 | Lost Celtor | |
 |---|---|
 | territory | The City of the Drowned |
-| goals | Escape The Depths |
 
 ## Description
 
-A once great kingdom ruling over the [Southern Luminant](Luminants.md), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital. Their once great capital city, now [The City of the Drowned](The_City_of_the_Drowned.md), was sunk in it's entirety during The Great Drowning, lost to the tides, which [The Ministry](The_Ministry.md) was responsible for, as an offering to Yun’Shul.
+A once great kingdom ruling over the [Southern Luminant](Luminants.md#southern-luminant), now reduced to a scrambled mess of soldiers aimlessly patrolling [The City of the Drowned](The_City_of_the_Drowned.md), their former capital. Their once great capital city, now [The City of the Drowned](The_City_of_the_Drowned.md), was sunk in it's entirety during The Great Drowning, lost to the tides, which [The Ministry](The_Ministry.md) was responsible for, as an offering to [Yun'Shul, Keeper of Hearts](<Yun'Shul,_Keeper_of_Hearts.md>).
 
 ## Reputation
 

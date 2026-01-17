@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 192433
+revid: 192517
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry, Individuals with unspecified pronouns]
@@ -24,7 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Soothsayer is an NPC wearing a [Prophet's Cloak](<Prophet's_Cloak.md>), located in the [Starfield Tundra](Starfield_Tundra.md). He lets you exchange [Knowledge](Knowledge.md) for [Notes](Notes.md) and [Ministry](The_Ministry.md) reputation at a rate of 300 per 1. This NPC is very useful for gaining positive reputation with The Ministry, in order to meet the requisites for obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
+The Soothsayer is a [Celtor](Celtor.md) NPC wearing a [Prophet's Cloak](<Prophet's_Cloak.md>), located in the [Starfield Tundra](Starfield_Tundra.md).
+
+They let you exchange [Knowledge](Knowledge.md) for [Notes](Notes.md) and [Ministry](The_Ministry.md) reputation at a rate of 300 per 1. This NPC is very useful for gaining positive reputation with The Ministry in order to meet the requisites for obtaining the [Contractor](Oath%253A_Contractor.md) [Oath](Oaths.md).
 
 ## Dialogue
 

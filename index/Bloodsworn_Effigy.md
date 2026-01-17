@@ -1,6 +1,6 @@
 ---
 title: Bloodsworn Effigy
-revid: 181266
+revid: 192539
 source: https://deepwoken.fandom.com/wiki/Bloodsworn_Effigy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Weapons]
@@ -33,7 +33,7 @@ notices:
 
 ## Description
 
-The Bloodsworn Effigy is an upcoming [Legendary](Weapons.md) spear. It takes the form of a war banner, with decorations resembling [Deep Shrines](Deep_Shrines.md) and various iconography of Yun’Shul adorning it.
+The Bloodsworn Effigy is an upcoming [Legendary](Weapons.md) spear. It takes the form of a war banner, with decorations resembling [Deep Shrines](Deep_Shrines.md) and various iconography of [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) adorning it.
 
 ## Trivia
 

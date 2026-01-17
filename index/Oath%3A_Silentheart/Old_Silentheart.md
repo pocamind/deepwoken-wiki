@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart/Old Silentheart"
-revid: 152594
+revid: 192542
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart/Old_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Oaths]
@@ -29,7 +29,7 @@ notices:
 
 ― Obtaining Silentheart
 
-Silentheart is a result of a Vow made with [The Dreadstar](../The_Dreadstar.md), a mysterious entity residing in the [Voidsea](../Voidsea.md). It replaces the user's heart with a heart that doesn't attune with the song- hence "Silentheart"- as a form of seeking revenge against those who abused the Song during the [Canticlysm](../The_Canticlysm.md). Silenthearts see the Song for what it is; an amalgamated, blasphemous and much weaker form of the powers that Drowned Gods use. Upon Oathbreaking, The Dreadstar hints at the fact that the Vow was made to sacrifice your heart to appease the Drowned God Yun'Shul, the Keeper of Hearts.
+Silentheart is a result of a Vow made with [The Dreadstar](../The_Dreadstar.md), a mysterious entity residing in the [Voidsea](../Voidsea.md). It replaces the user's heart with a heart that doesn't attune with the song- hence "Silentheart"- as a form of seeking revenge against those who abused the Song during the [Canticlysm](../The_Canticlysm.md). Silenthearts see the Song for what it is; an amalgamated, blasphemous and much weaker form of the powers that Drowned Gods use. Upon Oathbreaking, The Dreadstar hints at the fact that the Vow was made to sacrifice your heart to appease the Drowned God [Yun'Shul, Keeper of Hearts](<../Yun'Shul,_Keeper_of_Hearts.md>).
 
 ## Obtainment
 

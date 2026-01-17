@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 191032
+revid: 192520
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -16,83 +16,7 @@ _Knowing this information is absolutely crucial to prolonging your life, and wil
 
 _There are many elements to the GUI, each one playing its own part. In order to have a chance at surviving, learning these is essential._
 
-<table>
-<tbody>
-<tr>
-  <th>Health Bar</th>
-  <td>A visual representation of the player's health. Players start with 204 Health; things like <a href="Attributes.md#ftd">Fortitude</a> (0.5 Health per Fortitude), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Equipment</a>, <a href="Traits.md#vitality">Vitality</a> (10 Health per Vitality) and <a href="Power.md">Power</a> (4 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked down and is at the mercy of anyone around them.
-  <ul>
-    <li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li>
-    <li>Natural health regeneration is disabled if their hunger bar is below 12.5%.</li>
-    <li>The lower your Health is, the slower you get. In short, Health directly affects your agility.</li>
-  </ul><p>The player's Health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>
-  The player will lose one life on death (excluding the <a href="Echoes.md#upgrades-unlocks-and-modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>
-  The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar in The Depths.<br>
-  The player will be sent to the <a href="Fragments_of_Self.md">Fragments of Self</a> on death. The stained part represents your void health, which means if your health bar doesn't reach the stained part you can jump into the void you will be sent to the <a href="Second_Layer.md">Second Layer</a> rather than wiping. If your health bar reaches the stained part and you jump into the void your character <b>WILL</b> be sent to <a href="Fragments_of_Self.md">Fragments of Self</a> rather than the <a href="Second_Layer.md">Second Layer</a>.</p></figcaption></figure></td>
-</tr>
-<tr>
-  <th>Posture Bar</th>
-  <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, you should do your best to keep this bar as low as possible during combat. When the next attack causes the posture to exceed the bar, the next blocked hit will instead guard break, dealing increased damage and stunning you.
-  <ul>
-    <li>Posture decreases if the player lands a parry, stops blocking while also not sprinting and/or through the effects of certain <a href="Talents.md">Talents</a>.</li>
-    <li>When blocking while in shaky block frames, your posture bar glows red to indicate that your block isn't full yet.<figure><figcaption></figcaption></figure></li>
-    <li>Spitting with <kbd>T</kbd> on Humanoids also restores your posture by a great amount. Use it wisely however, as you'll be forced to stand still for the taunt.</li>
-  </ul><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <th>Cooldown Icons</th>
-  <td>Icons that indicate whether or not the player can do certain actions. When these icons become reddened/grayed out indicates that the specified action is currently on cooldown.
-  <ul>
-    <li>The first icon represents roll cooldown.</li>
-    <li>The second icon represents parrying cooldown.</li>
-    <li>The third icon represents if block is available.</li>
-    <li>The fourth icon represents cancels and feints cooldowns.</li>
-    <li>The fifth icon represents <a href="Resonance.md">Resonance</a> cooldown. Only visible if you have one.</li>
-  </ul><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <th>Cooldown Indicators</th>
-  <td>Cooldown Indicators represent the cooldown for mostly everything in-game excluding Mantras, from Talents like Kick Off, Propagandist, and Audacity, to Criticals, Feints, Resonances, and even special attacks/effects such as <a href="Gran_Sudaruska.md">Sudaruska's Fury</a> and <a href="Immortal_Helm.md">Immortality</a>, with the name of the cooldown on the left side, and the amount of time until you can use it again on the right.<figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <th>Ether Bar</th>
-  <td>A visual representation of the player's Ether amount. Ether is Deepwoken's form of mana, and <a href="Mantras.md">Mantras</a> cannot be used without sufficient Ether.
-  <ul>
-    <li>Different Mantras use varying amounts of Ether. Adding <a href="Mantra_Modifiers.md">Mantra Modifiers</a> will increase the amount of Ether required to cast.</li>
-    <li>Ether passively regenerates in combat as long as you have tempo.</li>
-    <li>Ether also regenerates passively and faster when out of combat.</li>
-  </ul><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <th>Tempo</th>
-  <td>A visual representation of the player's Tempo. Tempo increases Ether regen during battle, as well as permitting the player to vent if they have a certain amount of Tempo stored. The base Tempo starts at 120.
-  <ul>
-    <li>Tempo is gained by hitting or being hit</li>
-    <li>Tempo decreases over time and is "stored" when out of combat</li>
-    <li>With at least 40 Tempo, press <kbd>G</kbd> to Vent. This pushes away anyone near you but can be parried and blocked. With more <a href="Traits.md#erudition">Erudition</a>, venting becomes easier to do as you will have more Tempo, as well as Tempo regen.</li>
-  </ul><figure><figcaption></figcaption></figure></td>
-</tr>
-<tr>
-  <th>Armor Durability</th>
-  <td>A visual representation of the player's current <a href="Outfits.md">armor</a> durability. When this bar is depleted, the player's armor is considered "broken", and you will start taking damage as if you have no armor on at all.
-  <ul>
-    <li>Armour can be repaired through various methods, such as a Blacksmith, using <a href="Talents.md">Talents</a>, the Metal <a href="Enchantments.md">Enchantment</a>, or a <a href="Outfits.md">Bloodiron Ring</a>.</li>
-  </ul><p>Assuming you managed to pick up the <a href="Talents.md#exoskeleton">Exoskeleton</a> Talent or if you are a <a href="Vesperian.md">Vesperian</a>, there will be two armor bars instead- the white representing <a href="Outfits.md">Armor</a>, and the green representing Natural Armor.</p><figure><figcaption></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
-_Let it be known that applying these things will take some time to master._
-
-_As you play the game and face hardships, knowing how to properly watch over these values will begin to come to you naturally. Ward your frustration should you become disappointed in your progress- there is still the road ahead, Pathfinder._
-
-## Maps
-
-Upon talking to a shipwright or spawning a boat, you'll unlock the ability to write down your navigations.
-
-With places that have not been explored yet obscured, and places you have already visited fully written. It also identifies you of your current location with a yellow (blue if in the depths) marker, and the waterlocks leading to the next Luminant. It will also provide you of the whereabouts of your guildmates with their first and last inital, and points of interest in your current location. You will also be shown if you cross out of the maps boundaries as an arrow to the side of the map.
-
-If you have [Dimensional Travel/Kamui](Dimensional_Travel.md) in your possession, using a map inside of it will also inform you of your physical location.
+<table><tbody><tr><th>Health Bar</th><td>A visual representation of the player's health. Players start with 204 Health; things like <a href="Attributes.md#ftd">Fortitude</a> (0.5 Health per Fortitude), Health bonus from <a href="Talents.md">Talents</a> and <a href="Equipment.md">Equipment</a>, <a href="Traits.md#vitality">Vitality</a> (10 Health per Vitality) and <a href="Power.md">Power</a> (4 Health per Power) increase the max health. Upon reaching 0% Health, the player gets knocked down and is at the mercy of anyone around them.<ul><li>Regeneration is sped up while sitting at a <a href="Campfire_Pit.md">Campfire</a>, and slowed down while the player is in combat.</li><li>Natural health regeneration is disabled if their hunger bar is below 12.5%.</li><li>The lower your Health is, the slower you get. In short, Health directly affects your agility.</li></ul><p>The player's Health bar has three states:</p><figure><figcaption><p>This is the normal state of the health bar.<br>The player will lose one life on death (excluding the <a href="Echoes.md#upgrades-unlocks-and-modifiers">Hollow</a> modifier).</p></figcaption></figure><figure><figcaption><p>This is the state of the health bar after dying once.<br>The player will be sent to <a href="The_Depths.md">The Depths</a> on death.</p></figcaption></figure>(Dimensional_Travel.md) in your possession, using a map inside of it will also inform you of your physical location.
 
 ## Keybinds
 
@@ -869,7 +793,7 @@ The Alliance mechanic assists players in minimizing damage from friendly fire, r
 
 Allies can view messages from you anywhere in a server through Shouts. In Dungeons and other instanced servers, all messages are automatically shouted to other allies in the server. In public servers, you can send a shout by prefixing your message with an exclamation mark (!). For example: "!give me 30,000 notes". It can also work through allies with **Vow of Allegiance**.
 
-If you are in a [guild](Guilds.md), all other members of that guild are treated as allies. You can form alliances with players outside of your guild through a **Vow of Allegiance**. To form a Vow of Allegiance, you must say "Wanna make a vow of allegiance \[name\]?" near your target. The target can accept the vow by saying "yes", which will then show the confirmation window. There are no stat or Talent requirements to make this vow. Vows of Allegiance persist on the slot (not to be confused with the Character or Account), and each slot can only form 50 allegiances. You can break your Vows of Allegiance through a Yun’Shul wish (you must make this wish at the [Temple of Hearts](Temple_of_Hearts.md) as the [Idol of Yun'Shul](Relics.md) does not have this option). However, this breaks _**ALL**_ vows made on the slot.
+If you are in a [guild](Guilds.md), all other members of that guild are treated as allies. You can form alliances with players outside of your guild through a **Vow of Allegiance**. To form a Vow of Allegiance, you must say "Wanna make a vow of allegiance \[name\]?" near your target. The target can accept the vow by saying "yes", which will then show the confirmation window. There are no stat or Talent requirements to make this vow. Vows of Allegiance persist on the slot (not to be confused with the Character or Account), and each slot can only form 50 allegiances. You can break your Vows of Allegiance through a [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) wish (you must make this wish at the [Temple of Hearts](Temple_of_Hearts.md) as the [Idol of Yun'Shul](Relics.md) does not have this option). However, this breaks _**ALL**_ vows made on the slot.
 
 The ally check can be disabled by turning on the "No Holds Barred" in-game setting, useful if you would like to spar with teammates as your attacks will deal normal damage and proc Talents/abilities that normally would not.
 

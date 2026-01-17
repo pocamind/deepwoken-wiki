@@ -1,6 +1,6 @@
 ---
 title: Serendi
-revid: 191626
+revid: 192487
 source: https://deepwoken.fandom.com/wiki/Serendi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Serendi is a 'short' [Etrean](Etrean.md) NPC who was part of [Captain Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). Her position on the ship is not known but she appears to be a scout. [Flabbernaster Filingree](Flabbernaster_Filingree,_the_First_Mate.md) also tells her to load up the cannons. Talking to her, she mentions [the Authority's](The_Central_Authority.md) ship approaching, which later causes a terrible incident...
+Serendi is a 'short' [Etrean](Etrean.md) NPC who was part of [Captain Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). Her position on the ship is not known but she appeared to be a scout. [Flabbernaster Filingree](Flabbernaster_Filingree,_the_First_Mate.md) also told her to load up the cannons.
+
+Serendi is able to see a ship, possibly an [Authority](The_Central_Authority.md) vessel. Probably won't cause problems...
 
 ## Dialogue
 

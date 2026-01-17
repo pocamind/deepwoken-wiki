@@ -1,6 +1,6 @@
 ---
 title: "Mr. Quarters, Halfmaster"
-revid: 191561
+revid: 192483
 source: https://deepwoken.fandom.com/wiki/Mr._Quarters%2C_Halfmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -11,6 +11,7 @@ categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive,
 | Mr. Quarters, Halfmaster | |
 |---|---|
 | name | Quarters (forename unknown) |
+| alias | Halfmaster |
 | aspect | Adret |
 | pronouns | He/him |
 | location | The Scoundrel's Bounty |
@@ -26,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Mr. Quarters, Halfmaster is an [Adret](Adret.md) NPC who was part of [Captain Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>), within the crew he has the duty of being the Halfmaster, because of his dress perhaps he was an Adret soldier in Central Luminant. If you are going to talk to him, be prepared because he is an Adret who likes to talk a lot.
+Mr. Quarters, Halfmaster is an [Adret](Adret.md) NPC who was part of [Captain Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). Within the crew he had the duty of being the "Halfmaster".
 
 ## Dialogue
 
@@ -95,3 +96,4 @@ Mr. Quarters, Halfmaster is an [Adret](Adret.md) NPC who was part of [Captain Or
 
 -   Despite Mr. Quarter's status, _halfmaster_ doesn't exist, instead he would realistically be the _quartermaster_, being responsible for steering and signals.
 -   Mr. Quarters, Halfmaster's racial variant appears to be Graymarch.
+-   Given his outfit, Quarters may have been an Adretian soldier in the Central Luminant.

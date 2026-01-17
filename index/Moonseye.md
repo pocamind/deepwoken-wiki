@@ -1,6 +1,6 @@
 ---
 title: Moonseye
-revid: 190837
+revid: 192543
 source: https://deepwoken.fandom.com/wiki/Moonseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup]
@@ -12,7 +12,7 @@ notices:
 
 ## Description
 
-The Moonseye is one of the two stars that orbits between the Surface and the Heavens - standing as Deepwoken's equivalent of the moon. Orbiting alongside the [Suncross](Suncross.md), the Moonseye is partly responsible for Deepwoken's day/night cycle. The Moonseye is a common symbol in Deepwoken. It is referenced in many pieces of armor, islands, and aspect descriptions. Items like the [Moonseye Tome](Moonseye_Tome.md), [Moonseye Scalpel](Moonseye_Scalpel.md), [Soulthorn](Soulthorn.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), the [Dawnwalker Oath](Oath%253A_Dawnwalker.md), [Moon's Eyrie](<Moon's_Eyrie.md>) and [The Entropy Catalyst](The_Entropy_Catalyst.md), all share the same importance with the Moonseye. It is also referenced in the [Capra](Capra.md) aspect in the Mark of Jurik, **the Moonseye**. Yun’Shul, through the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), even tells the unworthy that "the Moonseye converges with that below."
+The Moonseye is one of the two stars that orbits between the Surface and the Heavens - standing as Deepwoken's equivalent of the moon. Orbiting alongside the [Suncross](Suncross.md), the Moonseye is partly responsible for Deepwoken's day/night cycle. The Moonseye is a common symbol in Deepwoken. It is referenced in many pieces of armor, islands, and aspect descriptions. Items like the [Moonseye Tome](Moonseye_Tome.md), [Moonseye Scalpel](Moonseye_Scalpel.md), [Soulthorn](Soulthorn.md), [Moonseye Gauntlets](Moonseye_Gauntlets.md), the [Dawnwalker Oath](Oath%253A_Dawnwalker.md), [Moon's Eyrie](<Moon's_Eyrie.md>) and [The Entropy Catalyst](The_Entropy_Catalyst.md), all share the same importance with the Moonseye. It is also referenced in the [Capra](Capra.md) aspect in the Mark of Jurik, **the Moonseye**. [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>), through the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), even tells the unworthy that "the Moonseye converges with that below."
 
 It is always seen as a white circle, with two vertical points, and another circle within. The Moonseye itself can be seen at nighttime, essentially identical to the moon.
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 192421
+revid: 192549
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2746,8 +2746,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Mutual Exclusives: Rending Needle: Augmenter, Rending Needle: Impaler, Rending Needle: Jailer
 
 -   Conductor's Cable \[Common Talent, Ironsing\] - Applying Conductor rods on opponents steals some of their armor to you.
-    -   Steals 10% of your enemy's armor durability on proc
-    -   Doesn't make mobs stagger faster.
+    -   Steals 10% of your enemy's maximum armor durability on proc.
     -   Prerequisite: Rending Needle: Conductor
 
 -   _Rending Needle: Impaler_ \[Rare Talent, Ironsing\] - If an enemy is affected by 5 or more metal rods, your Ironsing Pull instead pulls out all of the rods for massive damage.
@@ -2774,8 +2773,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Family Recipe \[Quest Talent\] - You can now craft bombs at a crafting bench.
     -   [Iron Bombs](Iron_Bomb.md) are crafted with 2 [Iron](Ores.md#iron) and 1 [Coal](Ores.md#coal) at any crafting bench.
-    -   Bombs deal 10 typeless damage with 35 [Intelligence](Attributes.md#int) scaling, having 45 damage with 100 Intelligence.
-        -   Because bombs deal typeless damage, they ignore physical and elemental resistances.
+    -   Bombs have a base damage of 10, scaling on [Intelligence](Attributes.md#int). At 100 Intelligence, they deal 45.5 damage.
+    -   Bombs deal typeless damage, ignoring armor resistances.
     -   Press E while holding a bomb to throw it. Press M1 while holding a bomb to drop it at your feet.
     -   Bombs do not deal self damage.
     -   Bombs have a 5 second cooldown on throw.
@@ -2808,7 +2807,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _**Chorus of Souls**_ \[Advanced Talent, [Oathless](Oath%253A_Oathless.md)\] - Alone, the Wisps lack a voice. But surrounded by so many, the frequencies overlap and you hear it true. (+1 Wisp Mantra Slot)
     -   Grants heavily increased health regeneration if you have all Wisps active.
-    -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will stop proccing until you recast the Wisp.
+    -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
+    -   This Talent will not work if you do not have the Oathless Oath.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), 30 Bloodrend, 30 Flamecharm, 30 Frostdraw, 30 Galebreathe, 30 Ironsing, 30 Shadowcast, 30 Thundercall
 
 -   _**Will o' Wisp**_ \[Advanced Talent, Element\] - Your mastery over the Wisps of the Song enables you to mediate the innate conflicts between your wisps, allowing any number of Wisps to be active at a time. (+1 Wisp Mantra slot)
@@ -2816,8 +2816,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Attunement Wisp mantra, 25 Element (25 in any Attunement)
 
 -   _Wisp Convergence_ \[Rare Talent, [Oathless](Oath%253A_Oathless.md)\] - When empowered by the Chorus, your Wisps now grant their elements to your strikes.
-    -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will stop proccing until you recast the Wisp.
+    -   This will not proc unless you have every Wisp Mantra equipped and active. If one of your Wisps runs out, this Talent will deactivate until you recast the Wisp.
     -   Your basic attacks will apply Burn, Shock, Chill, Winded, Shadow, Metal Rods, and Blood Poison all at once.
+    -   This Talent will not work if you do not have the Oathless Oath.
     -   Prerequisites: [Oath: Oathless](Oath%253A_Oathless.md), Chorus of Souls
 
 ### Saint of Blades
@@ -2874,7 +2875,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   [**Oath: Saltchemist**](Oath%253A_Saltchemist.md) - You vow to dedicate body and mind to the furthering of the Material Arts. Your body is a conduit through which true knowledge shall be siphoned. Knowledge is power, and you shall be its vessel. (+1 Wildcard Mantra Slot, +1 Support Mantra Slot, +20 Carry Load)
     -   Prerequisites: 75 Intelligence, complete [Ciea](Ciea.md)'s quest once.
 
--   Perpetual Distillery \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md)\] - Upon clicking the Distillery Talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
+-   Perpetual Distillery \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md)\] - Your very body has become a distillery for your alchemy. Gain 3 Autobrew slots that will automatically produce 3 concoctions of your choice.
+    -   Upon clicking the Distillery Talent, you're given three empty spaces where you input your potions. You're able to switch the mode from "Throw" to "Drink", and vice versa. Upon clicking on a key you'll automatically drink or throw the potion in that slot. Some potions are unable to be slotted.
     -   The potions within the Distillery are infinite, and are used within their directed cooldowns. This allows builds to be able to use up to three individual potions without the lackluster windup and cooldown in the throwing and drinking process.
     -   Drink potions place other drink slots on a cooldown if they share buffs.
     -   When replacing a potion in the Distillery, the one that was previously there is voided. **Potions cannot be recovered once placed in the Distillery.**
@@ -2884,7 +2886,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Antithetic Salts \[Oath Talent, [Saltchemist](Oath%253A_Saltchemist.md)\] - Alter your brews to invert their effects. Does not count towards the ingredient limit.
     -   Gives you a Talent tool-like ability that acts as a potion ingredient on use.
-    -   When applied to your potions, it reverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
+    -   When applied to your potions, it inverts the effects of the ingredients in the potion. For example, 3 Urchins and 2 Goblettos would restore sanity, lower health regen, and slightly increase speed.
     -   The name of the potion will change to fit its new effect. The color can change, but this is inconsistent.
     -   Prerequisites: [Oath: Saltchemist](Oath%253A_Saltchemist.md), [craft](Crafting_Recipes.md) 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), [Pluripotent Alloy](Pluripotent_Alloy.md), and [Stardust](Stardust.md) together OR speak to [Adrofalis](Adrofalis.md) and spend 10 to instantly skip the Oath's progression (this can only be done if you've fully progressed Saltchemist before).
         -   Oath Skipping Saltchemist is generally not recommended due to how easy it is to get the materials needed for the craft.

@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 192107
+revid: 192458
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -47,18 +47,6 @@ The user performs an upward slash dealing moderate to high posture damage.
 This critical has a **5 second** cooldown.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 ## Trivia
 

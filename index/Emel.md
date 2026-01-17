@@ -1,6 +1,6 @@
 ---
 title: Emel
-revid: 192443
+revid: 192469
 source: https://deepwoken.fandom.com/wiki/Emel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Eastern Luminant, Quests, Individuals with unspecified pronouns]
@@ -21,9 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Emel is an [Adret](Adret.md) NPC who resides in the territory of [The Summer Company](The_Summer_Company.md) faction, being a member of [the Ministry](The_Ministry.md), you can find them leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
+Emel is an [Adret](Adret.md) NPC who is a member of [the Ministry](The_Ministry.md). They can be found leaning on a small islet located on the outskirts of the port of [Summer Isle](Summer_Isle.md).
 
-If you decide to talk to them, they will give you a quest to kill some enemies in [Songseeker Wilds](Songseeker_Wilds.md), if you complete it, you will gain morale with the Ministry and a payment for your deeds. Like the NPC in Etrean luminant on the statue island, you must grip (kill) a person on Songseeker and return back to them for reputation and rewards.
+They will give you a mission to kill an enemy in the [Songseeker Wilds](Songseeker_Wilds.md); you must grip a player in the Songseeker Wilds and return to them to obtain reputation and rewards. If you complete it you will gain reputation with the Ministry and a payment for your deeds.
 
 ## Dialogue
 

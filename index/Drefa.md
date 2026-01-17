@@ -1,9 +1,9 @@
 ---
 title: Drefa
-revid: 192441
+revid: 192505
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Drefa
@@ -12,6 +12,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in th
 |---|---|
 | name | Drefa |
 | aspect | Etrean |
+| pronouns | They/them |
 | location | Temple Approach |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -20,13 +21,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Drefa is an [Etrean](Etrean.md) NPC, when to her she will give you a small quest, giving you a [Lumber axe](Lumber_Axe.md) to collect wood for the fire, if you give her 6 wood, you will earn 5 notes and reputation with Etrea.
+Drefa is an [Etrean](Etrean.md) NPC.
 
-Her counterpart that exists in [Etris](Etris.md) is [Korin](Korin.md).
+When interacted with, they request 6 wood in order to keep the fires lit. In exchange, [the Pathfinder](The_Pathfinder.md) gains 5 Notes and increased [Reputation](Reputation.md) with [Etrea](Etrea.md). They also give the Pathfinder a free [Lumber Axe](Lumber_Axe.md) if they do not have one.
+
+Their counterpart in [Etris](Etris.md) is [Korin](Korin.md).
 
 ## Location
 
-Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md), she's standing beside a log next to the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) of the isle.
+Drefa is located on the [Isle of Vigils](Isle_of_Vigils.md). They are standing beside a log next to the [Banker](Banker.md) and [Antiquarian](Antiquarian.md) of the isle.
 
 ## Dialogue
 

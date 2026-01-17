@@ -1,6 +1,6 @@
 ---
 title: Old Stranger
-revid: 192436
+revid: 192510
 source: https://deepwoken.fandom.com/wiki/Old_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -19,13 +19,13 @@ categories: [Khan NPCs, NPCs, Quests, NPCs located in the Eastern Luminant, NPCs
 
 ## Description
 
-The Old Stranger is an NPC that rarely spawns as one of many [Random Encounters](Random_Encounters.md) at any sea. They're an elder Khan with gray hair wearing a [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
+The Old Stranger is an NPC that rarely spawns as one of many [Random Encounters](Random_Encounters.md) at any sea. They're an elder [Khan](Khan.md) with gray hair wearing a [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
 
 ## Ardour Obtainment
 
-He mentions that he is thirsty and asks you for a drink when prompted. He accepts both redd juice and a full canteen of clean water.(Will not take any uses from the canteen.) In exchange he grants you the [Murmur: Ardour](Murmur%253A_Ardour.md). If the player has the Condensation Drip [Talent](Talents.md), a new prompt will appear, allowing them to receive Murmur without the need to hand him a canteen or redd juice, giving him a not so clean water in the canteen make the old man declining it.
+They mention that they are thirsty and ask you for a drink when prompted. They accept both [Redd Juice](Redd_Juice.md) or a full canteen of clean water, which will not take any uses from the canteen. In exchange, they grant the [Murmur: Ardour](Murmur%253A_Ardour.md). If the player has the Condensation Drip [Talent](Talents.md), a new prompt will appear, allowing them to receive the Murmur without the need to hand the Stranger any beverages. Giving them a not so clean water in the canteen makes the Stranger decline it.
 
-If another player has already obtained Murmur: Ardour from him or talked to him(?) in the server, he won't let you talk to him and instead say "I can't speak to two folks at once, y'know?"
+If another player has already obtained Murmur: Ardour from or talked to them in the server, they won't let you talk to them and will instead say "I can't speak to two folks at once, y'know?"
 
 ## Dialogue
 

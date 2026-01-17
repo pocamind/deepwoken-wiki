@@ -1,6 +1,6 @@
 ---
 title: Pete
-revid: 191582
+revid: 192493
 source: https://deepwoken.fandom.com/wiki/Pete
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Pete is a [Vesperian](Vesperian.md) NPC who was part of [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)'s crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). His position on the ship is not known but he seems to have combat skills in accordance with the requirements of his outfit.
+Pete is a [Vesperian](Vesperian.md) NPC who was part of [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)'s crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). His position on the ship was not known.
 
 ## Dialogue
 

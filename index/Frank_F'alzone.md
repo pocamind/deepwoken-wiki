@@ -1,6 +1,6 @@
 ---
 title: "Frank F'alzone"
-revid: 191437
+revid: 192489
 source: https://deepwoken.fandom.com/wiki/Frank_F'alzone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoundrel's Bounty", Individuals with unspecified pronouns, Members of the Rotten Lot]
@@ -11,6 +11,7 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, "NPCs located in The Scoun
 | Frank F'alzone | |
 |---|---|
 | name | Frank F'alzone |
+| alias | The Swabber |
 | aspect | Celtor |
 | location | The Scoundrel's Bounty |
 | affiliation | Rotten Lot |
@@ -25,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Frank F'alzone, is a [Celtor](Celtor.md) NPC who was part of [Captain Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>), apparently he is the crew's cartographer, janitor and sniper according to his outfit.
+Frank F'alzone, is a [Celtor](Celtor.md) NPC who was part of [Captain Orlandeau's](<Cap'n_Orlandeau.md>) crew in [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). They were the crew's cartographer and janitor.
 
 ## Dialogue
 
@@ -57,5 +58,4 @@ Frank F'alzone, is a [Celtor](Celtor.md) NPC who was part of [Captain Orlandeau'
 
 ## Trivia
 
--   Frank F'alzone's racial variant appears to be Marten.
--   He bears a striking resemblance to [Duke Erisia](Duke_Ishamon_Erisia.md) as he bears the same hair, aspect and racial variant.
+-   F'alzone's racial variant appears to be Marten.

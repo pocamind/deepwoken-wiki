@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 191887
+revid: 192523
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -121,7 +121,7 @@ _(From data of 100 rerolls, the calculated chance of getting a corrupted Legenda
 
 Tarnished bells have a 1 second wind-up to being casted after activation.
 
-Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, go to [Misérables](Misérables.md) and choose Clarity, or go to Carrion, Father of Evolution and pay 1 Knowledge. Going to [Yamaketzal](Yamaketzal.md) or Carrion, Father of Evolution will simply remove your Tarnished status, without granting a wish, whereas going to [Misérables](Misérables.md) will remove your Tarnished status and grant a wish at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md), after which, if the player talked to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) and made him spawn in [Castle Light](Castle_Light.md) he can now untarnish your bell for 1 knowledge instead of 15 at the [Misérables](Misérables.md) how ever, this will NOT grant you a wish with [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). You can also completely be immune to being Tarnished if you have the Echo Upgrade "[Soul Plasticity](Echoes.md)"
+Removing Tarnished requires the player to travel to either [Yamaketzal](Yamaketzal.md) and pay 1000 notes, go to [Misérables](Misérables.md) and choose Clarity, or go to Carrion, Father of Evolution and pay 1 Knowledge. Going to [Yamaketzal](Yamaketzal.md) or Carrion, Father of Evolution will simply remove your Tarnished status, without granting a wish, whereas going to [Misérables](Misérables.md) will remove your Tarnished status and grant a wish at the Shrine of Yun'Shul so that you may reroll once again. [Misérables](Misérables.md) can be found in floor 2 of the [second layer](Second_Layer.md), after which, if the player talked to [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) and made him spawn in [Castle Light](Castle_Light.md) he can now untarnish your bell for 1 knowledge instead of 15 at the [Misérables](Misérables.md) how ever, this will NOT grant you a wish with Yun'Shul. You can also completely be immune to being Tarnished if you have the Echo Upgrade "[Soul Plasticity](Echoes.md)"
 
 ## Obtaining
 
@@ -181,7 +181,7 @@ The main factor in obtaining a **Resonance** is _how far you are in the hidden s
 -   **[Duke Erisia](Duke_Ishamon_Erisia.md)** gives a good amount of Progress on grip, and is reliable to summon. While his loot isn't too great, this was the preferred way of obtaining resonance for a long time for most players.
 -   **[The Ferryman](The_Ferryman.md)** gives a moderate amount of progress and is easy to summon, but has a very long fight, and can easily become lethal to those unexperienced with his dance. You can earn season-based loot and the Stormseye from his fight as well, but for most, the Progress is more worth it. **Side: The Ferryman now provides Knowledge. See [more](Knowledge.md).**
 -   **[Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)** gives a good amount of progress and it's very easy to rematch him. However, he is extremely punishing to those unfamiliar with his moveset. Should you become familiar with his fight, you'll be rewarded with some of the best loot in the game and ease of access.
--   **[Dread Serpent](Dread_Serpent.md)** has a high Progress reward, but is hard to find without an [Ardour Manifestation](Ardour_Manifestation.md). As a bonus, finishing him will provide you with the **[Ardour](Murmur%253A_Ardour.md)** murmur if you do not already have a murmur. You can remove your murmur with a [Yun'shul wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>)_**.**_
+-   **[Dread Serpent](Dread_Serpent.md)** has a high Progress reward, but is hard to find without an [Ardour Manifestation](Ardour_Manifestation.md). As a bonus, finishing him will provide you with the **[Ardour](Murmur%253A_Ardour.md)** murmur if you do not already have a murmur. You can remove your murmur with a Yun'shul wish.
 -   **[Primadon](Primadon,_Titan_of_the_East.md)** has been deemed less reliable to fight by the community upon the drop of **[Verse 2](Verse_2.md).** While one is still able to fight him for Progress, there are now better ways to gain Progress that also provide better side benefits (see the top of the list). The loot he drops as well is considered outdated by most of the community. **Side: Primadon now provides Knowledge. See [more](Knowledge.md).**
 -   **[The Enforcer](Enforcer.md)** is not recommended for reasons that should be obvious, having to go to The Depths and face him in the trial each time, risking wiping from it or other players. While fighting him is debatably safer than the two below, wiping to disconnecting is still a possibility if below 60% health.
 -   **[Blizzard Knights](Stone_Knight.md)** are, by far, one of the worst methods of getting Progress. They spawn in a [voidzone](Voidzones.md) known as the [Valley of Heroes](The_Valley_of_Heroes.md) in highly lethal swarms, during Winter in [Minityrsa](Minityrsa.md), and if that wasn't enough, they give almost no Progress... However, they can provide you with [Hero Blades](Hero_Blades.md) if you're interested in getting one.
@@ -247,7 +247,7 @@ _**IMPORTANT NOTE 2: Resonance** obtainment is sometimes used by players as a ge
 
 Around [The Depths](The_Depths.md) and Overworld, **Resonance Doors** (example in the picture below) can be found. **Resonance Doors** are greyish doors with a white sphere in their center that require a **Resonance** to be opened. They facilitate shortcuts to get through normally impassable areas of the map.
 
-This very specific and unique **Resonance Door** is within a cave in The Depths, which leads to the [Temple of Hearts](Temple_of_Hearts.md). Within the temple resides the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>). _**Interacting with the shrine without having a Resonance WILL WIPE YOU (Unless you're a Deepbound)**_ **(not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ The shrine provides many different "wishes", one of which is rerolling your **Resonance**, giving you another **Resonance** card draw.
+This very specific and unique **Resonance Door** is within a cave in The Depths, which leads to the [Temple of Hearts](Temple_of_Hearts.md). Within the temple resides the Shrine of Yun'Shul. _**Interacting with the shrine without having a Resonance WILL WIPE YOU (Unless you're a Deepbound)**_ **(not possible by legitimate methods, unless you used the deepbound-exclusive crevice)**_._ The shrine provides many different "wishes", one of which is rerolling your **Resonance**, giving you another **Resonance** card draw.
 
 The draw consists of four cards, three of which are selected randomly (identically to the three you rolled when first obtaining your resonance) and the last of the four always being your current **Resonance**, albeit with a different stat allocation.
 
@@ -256,10 +256,10 @@ The draw consists of four cards, three of which are selected randomly (identical
 This is not without a cost, however. Rerolling your **Resonance** inflicts you with the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, which can severely downgrade your **Resonance** and prevents you from making a wish again. As stated before, [Yamaketzal](Yamaketzal.md) is able to remove _Tarnished_ from you for 1000 Notes, whereas making a deal with [Misérables](Misérables.md) will clear the _Tarnished_ flaw and will return your resonance to normal. You can also just buy the [Soul Plasticity](Echoes.md) echoes upgrade, as this disables the ability to have a tarnished bell altogether.
 
 -   One can visit [Yamaketzal](Yamaketzal.md) or [Carrion](Carrion,_Father_of_Evolution.md) to remove the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, without gaining a wish, which allows them to reroll with an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) as using an Idol does not require you to have free wishes.
--   Otherwise, [Misérables](Misérables.md) will remove the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, which also grants the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the [Shrine of Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+-   Otherwise, [Misérables](Misérables.md) will remove the _[Tarnished](Boons_and_Flaws.md#flaws)_ Flaw, which also grants the player a wish. This method of removing _Tarnished_ allows the player to directly reroll at the Shrine of Yun'Shul.
 -   If you have the [Soul Plasticity](Echoes.md) echoes upgrade you won't be able to have a _Tarnished_ resonance.
 
-In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from Yun'Shul every 3 levels.
+In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players will get one free wish from [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) every 3 levels.
 
 ## Trivia
 

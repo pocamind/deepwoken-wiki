@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 191063
+revid: 192490
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -264,7 +264,7 @@ _"I don't know if I will be able to continue my services with in the Authority w
 -   "Can solo every Centurion of the 11th legion" according to Arch\_Mage, be sure to note that he only says the one of the 11th Legion, not the hundred legions. As of right now, no known powerhouses exist in the 11th Legion, the only known fighters are the enemy NPCs encountered in game, who are all relative to Authority Captains. He can also beat the 11th Legion NPC Brutus, who uncaps your fortitude.
 -   He is currently hunting and trying to destroy [The Ministry](The_Ministry.md) and [Contractors](Oath%253A_Contractor.md).
 -   Genuinely believes in [The Central Authority](The_Central_Authority.md) as a force of peace.
--   Possible member of the Circle of Honor.
+-   Member of the [Circle of Honour](Circle_of_Honour.md).
 
 ### Gunsmith Rosen
 
