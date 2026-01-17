@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 192490
+revid: 192568
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -526,6 +526,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 ### Central Luminant
 
 -   The home of The Authority and the Knives of Eylis.[\[4\]](#cite-note-arch-4)
+-   Said to be the biggest out of all luminants.
 
 #### Markor
 

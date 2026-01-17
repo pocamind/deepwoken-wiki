@@ -1,6 +1,6 @@
 ---
 title: True Seraph Spear
-revid: 188650
+revid: 192553
 source: https://deepwoken.fandom.com/wiki/True_Seraph_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -36,7 +36,7 @@ categories: [Weapons, Spears, Drops, Weapons with Unique Criticals, "Weapons wit
 
 ## Description
 
-The True Seraph Spear is a MED [weapon](Weapons.md). It has the fourth highest MED requirement out of all spears, behind the [Alloyed Trident Spear](Trident_Spear.md) and the [Kyrsglaive](Kyrsglaive.md), first being [Imperator's Edge](<Imperator's_Edge.md>). Also the most tedious spear to obtain. it has the highest chip damage in the medium weapon category. The True Seraph Spear does 28.2 damage at 100 MED and 26.3 damage at 80 MED (the requirement to use this weapon).
+The True Seraph Spear is a MED [weapon](Weapons.md). Some consider this to be the most tedious spear to obtain, due to its limited drop locations and low drop rate.
 
 ## Critical
 
@@ -47,6 +47,4 @@ The critical has a cooldown of **7 seconds**.
 ## Trivia
 
 -   The spear is named after "Seraph", the highest level of angels in Ancient Judaism.
--   Unlike the Kyrsglaive and Serrated Warspear, the True Seraph Spear has no bleed damage meaning that with the Talent Speed Demon, it can do more damage than the two previously mentioned spears (~36.7 compared to the Kyrsglaive's ~33.1 and Warspear's ~34.8 at 100 MED)
-    -   However, do note that you cannot always have [Speed Demon](Talents.md#speed-demon) active, so this does not completely undermine the value of innate bleed.
--   Effectively the MED equivalent of the [Night Axe](Night_Axe.md).
+-   True Seraph's Spear has the highest Chip damage stat out of all medium weapons.

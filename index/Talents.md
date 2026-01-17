@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 192549
+revid: 192563
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3019,8 +3019,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 30 Bloodrend
 
 -   Vasculitis \[Common Talent, Bloodrend, Intelligence\] - Your opponent cannot proc deep gems if they have over 30% blood poisoning for a brief duration (Must hit them while they are over 30% BP.)
+    -   On proc, your opponent will be unable to use their [Deep Gems](Deep_Gems.md) for 8 seconds.
     -   Prerequisite: 40 Bloodrend, 35 Intelligence
-    -   The opponent is unable to use deep gems for 8 seconds after proccing.
 
 ### Shadowcast Master
 
@@ -3042,7 +3042,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Obtained at 50 Shadowcast
 
 -   Blossoming Darkness \[Common Talent, Shadowcast\] - The more Ether you drain during Shadow Roar, the bigger it gets.
-    -   Prerequisite: [Shadow Roar](Shadowcast.md#shadow-roar) (Mantra)
+    -   Prerequisites: [Shadow Roar](Shadowcast.md#shadow-roar) (Mantra), 40 Shadowcast
 
 -   Fear the Dark \[Common Talent, Shadowcast\] - Enemies will briefly hang in place when they run from you.
     -   After you land a Shadowcast Mantra, if your opponent attempts to distance themselves from you, they will be locked in place for 1.5 seconds.
@@ -3430,7 +3430,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 50 Intelligence
     -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this Talent.
 
--   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be dazed.
+-   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be [Dazed](Status_Effects.md#dazed).
     -   Applies daze for 1 second.
     -   Prerequisite: 20 Intelligence
 
@@ -3483,7 +3483,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### The Demon Blade
 
 -   Explosive Finish \[Common Talent, Flamecharm\] - If an enemy is on fire when you flourish, blast them away with a fire blast.
-    -   the equation for this damage is: (weapon damage + 1 blunt damage + 5 flame damage)
+    -   Deals 5 Flamecharm damage.
     -   Upon proccing Emperor Flame, this Talent will be put on a 3s cd.
     -   Prerequisite: 45 Flamecharm
 
@@ -3559,9 +3559,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Thunder Brawler
 
 -   Discharge \[Common Talent, Thundercall, Light Weapon\] - Light Weapons On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load)
-    -   Has base DMG of 5 and Thundercall scaling 5 (Formula to calculate scaled DMG: "base damage \* (1 + (scaling / 10) \* (Thundercall Investment / 100))")
-    -   Has 6.48x PVE scale (5.35 DMG PVP, 34,78 DMG PVE), affected by chain of perfection.
-    -   The effect lasts for 30 seconds.
+    -   Deals 5 Thundercall damage with 5 Thundercall scaling, gaining 0.025 damage per point in Thundercall.
+    -   Applies Shock or 1 Surge Rod on proc.
     -   Prerequisites: 20 Light Weapon, 15 Thundercall
 
 ### Thunder Caster
@@ -3845,6 +3844,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Vigil Swordsman
 
 -   Action Surge \[Common Talent, Agility\] - Adrenaline Surge now increases your swing speed by 0.04 for its duration. (+1 Passive Agility)
+    -   This is additive with Vigil's Grace, granting +0.06x swing speed when combined.
+    -   Both this and Vigil's Grace are applied before [Lightning Cloak](Thundercall.md#lightning-cloak)'s swing speed multiplier.
     -   Prerequisites: 70 Agility, [Adrenaline Surge](Attunement-less.md#adrenaline-surge) (Mantra)
 
 -   Bear Trap \[Common Talent, Strength, Agility\] - Landing a hit with your critical against an opponent makes your opponent unable to jump for a duration. Also slows your opponent. (+1 Passive Agility)

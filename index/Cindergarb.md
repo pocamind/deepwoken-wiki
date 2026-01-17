@@ -1,6 +1,6 @@
 ---
 title: Cindergarb
-revid: 188092
+revid: 192566
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -42,3 +42,7 @@ This Outfit requires the player to be at least [Power](Power.md) 15 to be crafte
 This Outfit has 3000 durability and grants +35% Physical resistance, +50% Fire resistance, +15% Metal resistance, and +20% Ether Regen. Additionally, it provides the [Flare Reservoir](Talents.md#flare-reservoir) Talent.
 
 The [Flare Reservoir](Talents.md#flare-reservoir) Talent is currently bugged and its effects are unknown.
+
+## Trivia
+
+-   Original shirt is able to be found: [https://www.roblox.com/catalog/13408549899/Priest-of-MaDran](https://www.roblox.com/catalog/13408549899/Priest-of-MaDran)

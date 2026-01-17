@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 191137
+revid: 192564
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -958,7 +958,7 @@ These are Talents found in the **Shadowcaster** category.
 |  | Shadow Travel  
 (75 Shadowcast, Dark God) | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. | Grants a Talent tool that allows the user to teleport to their cursor's location after a long windup. Takes Ether on teleport with the Ether cost being based on distance traveled, farther distances require a health cost instead. Windup scales on distance traveled. |
 |  | Blossoming Darkness  
-(30 Shadowcast, Shadow Roar) | Ether drained during Shadow Roar increases the size of it. | N/A |
+(40 Shadowcast, Shadow Roar) | Ether drained during Shadow Roar increases the size of it. | N/A |
 |  | Fear the Dark  
 (50 Shadowcast) | Enemies will briefly hang in place when they run from you. | N/A |
 |  | Lasting Sorrow  
