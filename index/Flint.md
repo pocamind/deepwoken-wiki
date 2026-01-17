@@ -1,6 +1,6 @@
 ---
 title: Flint
-revid: 135994
+revid: 192682
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -40,7 +40,7 @@ Flint can be crafted with one [Rock](https://deepwoken.fandom.com/wiki/Ore#Rock)
 Alternatively, Flint can be bought for three notes at:
 
 -   Etris General Store
--   [Isle of Vigils](Isle_of_Vigils.md) Blacksmith
+-   Any Blacksmith
 -   Summer Isle, Con's Pawn
 -   Voidheart
 -   [Greathive Aratel](Greathive_Aratel.md)

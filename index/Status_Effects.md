@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 192409
+revid: 192658
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -475,6 +475,10 @@ Gain a random Blessing upon using the [Ritual Sacrifice](Ritual_Sacrifice.md)'s 
 -   Stomach restoration
 -   [Speed boost](#speed-boost) for 10 seconds
 
+### Fortified
+
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Upon using the [Frost Gauntlets](Frost_Gauntlets.md)' Fortify Talent tool, gain damage reduction at the cost of massively reducing your movement speed. This effect is signified by your character being enveloped in the cold.
+
 ## Outfit & Equipment Applied
 
 These status effects are applied through [Talents](Talents.md) granted exclusively from wearing certain [Outfits](Outfits.md) or [Equipment](Equipment.md).
@@ -540,7 +544,7 @@ Upon using an M1, teleport to any opponent within a 25 stud radius. This effect 
 
 ### Pierced Armor
 
-\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Piercing Shot](Talents.md#piercing-shot) Talent from the [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), take increased PEN from all sources for a few seconds.
+\[[Vow of Iron](Vow_of_Iron.md) Exclusive\] Applied through the [Piercing Shot](Talents.md#piercing-shot) Talent from the [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), take increased PEN from all sources for a few seconds
 
 ## Resonance Applied
 

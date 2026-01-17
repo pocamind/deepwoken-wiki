@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 183069
+revid: 192646
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -25,32 +25,46 @@ Its main purpose is to punish rage-quitting and leaving during combat.
 
 -   Your natural health Regeneration is reduced, as well as healing from [Campfires](Campfire_Pit.md).
 -   Some [Talents](Talents.md) activate upon inflicting a Combat Tag or by being inflicted with one.
-    -   _Example: [Ready Or Not](Talents.md) will cut the damage from the first hit you take outside of combat in half._
--   Once in combat you cannot [backstab / assassinate](Stealth.md) without the Dustlunge Talent.
+    -   Example: [Ready Or Not](Talents.md#ready-or-not) will cut the damage from the first hit you take outside of combat in half.
+-   You cannot [assassinate](Stealth.md) enemies without the [Dustlunge](Talents.md#dustlunge) Talent.
+-   You cannot switch weapons or equipment (unless you're a [Silentheart](Oath%253A_Silentheart.md)).
+-   Certain NPCs will have unique dialogue, often disallowing their services.
+-   You cannot use certain items like [Idol of Yun'Shuls](<Idol_of_Yun'Shul.md>).
+-   You cannot use the [Chime of Dwelling](Chime_of_Dwelling.md) or enter [Guild Bases](Guild_Bases.md).
 
 Hovering over the skull will show you the name of the entity that put you into combat tag or prolonged it, and the amount of time you will remain tagged for. When in PvP, it will also show the number of players that you're currently in combat with next to it.
 
-## PvE and PvP
+## Combat Tags
 
-Being tagged by enemies, monsters, bosses, and anything else (PvE) differs from being tagged by players (PvP).
+Being tagged by enemies, monsters, bosses, and anything else (PvE) differs from being tagged by players (PvP). An icon displaying two swords will appear to the left of your combat tag if you've combat tagged an enemy. Right clicking this will allow you to remove the combat tag from players.
 
 ### PvE: Blue Skull
 
-The blue skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. This comes with limitations:
+The blue skull means you're in PvE combat tag. This combat tag will last 30 seconds, or until all the mobs that caused you harm are killed. If you get hit by a player or a boss while you are in PvE combat or vice versa, your PvE tag will be overwritten by the player or boss tag. Self-applied and environmental combat tags are considered PvE combat tags.
 
-1.  You cannot switch weapons or armor during combat. (Unless you're a [Silentheart](Oath%253A_Silentheart.md), in which you can switch weapons in combat with its ability.)
-2.  If you leave the game or disconnect during this, the game will treat it as death, even sending you to the depths or wiping you if you are already in them. However, if you were over 60% HP, you will not get punished in any way, this does not apply to [Vow of Iron](Vow_of_Iron.md).
-3.  When tagged by a [Boss](Bosses.md) the skull is orange and shows their HP under it as a bar. Boss combat tags last for 2 minutes and 40 seconds.
+This comes with limitations:
+
+-   If you leave the game or disconnect during this while below 60% health, the game will treat it as death, even sending you to the depths or wiping you if you are already in them.
+    -   The 60% health threshold does not apply to [Vow of Iron](Vow_of_Iron.md) and certain enemies like [Aska](Aska.md). Instead, you die immediately when you disconnect.
+
+#### PvE: Orange Skull
+
+The orange skull means you've been combat tagged by a boss. This combat tag will last 3 minutes, or until the boss that caused you harm has been killed. This combat tag is prioritized over all other combat tags. This has all of the same limitations as the regular PvE combat tag.
 
 ### PvP: Red Skull
 
-The red skull means that you are currently being assaulted by a player and lasts 1 minute and 20 seconds. Turning on "No Holds Barred" in settings will make it so that attacking your allies or guild mates will put them in danger. This comes with limitations:
+The red skull means that you are currently being assaulted by a player and lasts 1 minute and 20 seconds. Turning on "No Holds Barred" in settings will make it so that attacking your allies will put them in danger. If you get hit by non-boss NPC while you are in PvP combat or vice versa, your PvP tag will overwrite the PvE one. Next to the PvP combat tag, there will be a number listing the amount of players who have combat tagged you. Hovering over this number will display the in-game names of said players.
 
-1.  You cannot switch weapons or armor during combat. (With the aforementioned [Silentheart](Oath%253A_Silentheart.md) exception.)
-2.  If you leave the game or disconnect at all, you will die regardless of your HP.
-3.  You will no longer be healed by knocking NPCs or killing monsters, only by knocking players.
+This comes with limitations:
 
-You can remove Combat Tag from non-allies by saying "mb \[First Name\]" or "mb all" to lift off all people you put it on. "mb" is a shortening of "my bad", which also works in place of it.
+-   If you leave the game or disconnect at all, you will die regardless of your HP.
+-   You will no longer be healed by knocking NPCs or killing monsters, only by knocking players.
+-   The damage modifier soft cap is reduced from +50% damage to +25%. The damage modifier hard cap is reduced from +75% damage to +50%.
+-   You cannot use the [Seafarer's Chime](<Seafarer's_Chime.md>).
+-   If you are above Power 16, the void threshold (% of HP you must be over for falling into the void in the [First Layer](First_Layer.md) resulting in you being sent to the [Second Layer](Second_Layer.md) instead of wiping) will be increased. This scales on your level, being 75% of your maximum HP at Power 20.
+    -   Each additional combat tag you gain will reduce the threshold by 5%, down to a minimum of 40% health at 8 combat tags.
+
+You can remove Combat Tag from players you've combat tagged by saying "mb \[First Name\]" or "sorry \[First Name\]". Alternatively, you can say "all" instead of the player's name to remove your combat tag from all players. This can also be done by right clicking the swords icon to the left of the combat tag and clicking on the player's name or "all combat tags".
 
 ## Combat Quotes
 
@@ -58,20 +72,19 @@ When the skull at the top appears, there is a quote under it that varies dependi
 
 List of Quotes:
 
-1.  "The Depths coil around your soul like a knot." while in [the Depths](The_Depths.md).
-2.  "The Void's influence draws you ever closer to the Depths." while in a [Voidzone](Voidzones.md).
-3.  "Your heart beats faster as the end draws near." while in a area that is not the Depths or a Voidzone and you are on your last life.
-4.  "Adrenaline surges into your veins as tensions thicken." while in a area that is not the Depths or a Voidzone and you have two lives left.
-5.  "You feel a heavy weight on your body; one hit is all it takes to collapse." while having the Glass Bones [echo modifier](Echoes.md) active
+1.  "The Depths coil around your soul like a knot." - Obtained while in [the Depths](The_Depths.md).
+2.  "The Void's influence draws you ever closer to the Depths." - Obtained while in a [Voidzone](Voidzones.md).
+3.  "Your heart beats faster as the end draws near." - Obtained while your health bar is stained.
+4.  "Adrenaline surges into your veins as tensions thicken." - Obtained while your health bar is not stained.
+5.  "You feel a heavy weight on your body; one hit is all it takes to collapse." - Obtained if you have the [Glass Bones](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier.
 
-## Trivia/Notes
+## Trivia
 
 -   There are 3 exceptions to being punished for leaving while combat tagged:
     1.  Server shutdown for hotfix or weekly updates.
-    2.  Being teleported by a Dungeon teleporter _(Example: [The Ferryman](The_Ferryman.md)'s summoning ring, [Lighthook](Light_Hook.md) teleport)_
-    3.  Jumping into the void in the [First Layer](First_Layer.md) while above 75% HP.
--   [Crazy Slots](Crazy_Slots.md) is able to switch weapons during combat, but only its own weapons.
+    2.  Being teleported by a Dungeon teleporter _(Example: [The Ferryman](The_Ferryman.md)'s summoning ring, [Light Hook](Light_Hook.md) teleport)_
+    3.  Jumping into the void in the [First Layer](First_Layer.md) while above the void threshold.
+-   You can still swap weapons in combat via abilities that replace your current weapon such as [Crazy Slots](Crazy_Slots.md).
 -   [Lord Regent](The_Lord_Regent.md) applies Combat Tag when he uses Judgement against you.
--   If you dodge an [environmental hazard](Environmental_Hazards.md) or a [Bloatskipper](Mudskipper.md) explosion, the name of the attacker will be "_**God**_".
--   Allies used to be able to tag you normally with a shorter PvP timer, it was extremely annoying, this is no longer the case.
--   You can void at any amount of Health if you are Power 1, even if you are knocked.
+-   If you dodge an [environmental hazard](Environmental_Hazards.md) or a [Bloatskipper](Mudskipper.md#bloatskipper) explosion, the name of the attacker will be "_**God**_".
+-   Allies used to be able to tag you normally with a shorter PvP timer, this is no longer the case.

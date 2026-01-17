@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 190442
+revid: 192662
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -10,7 +10,7 @@ categories: [Relics]
 
 | Forge Needle | |
 |---|---|
-| value | 240 |
+| value | 250 |
 | stack | x25 |
 | type | Utility |
 | rarity | Relic |

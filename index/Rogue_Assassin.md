@@ -1,6 +1,6 @@
 ---
 title: Rogue Assassin
-revid: 189576
+revid: 192632
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -449,8 +449,7 @@ Slash
     -   Works with M1s and criticals.
 
 -   Tap Dancer \[Rare Talent\] **250** \- Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
-
--   -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
+    -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
 -   _**Ghost**_ \[Advanced Talent\] **350** \- Dodging a move will briefly make you invisible, ending early if you attack. (+5 Passive Agility)
     -   Provides I-frames for the duration of the invisibility.
     -   The invisibility and I-frame duration is 1.2 seconds if you have 40 or higher Agility.

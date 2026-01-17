@@ -1,6 +1,6 @@
 ---
 title: Flashing Thunder
-revid: 189581
+revid: 192657
 source: https://deepwoken.fandom.com/wiki/Flashing_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 It starts with a unique Talent, [Gathering Storm](Talents.md#gathering-storm), which stores damage you deal into orbiting lightning orbs around you, up to a max of 8. Sheathing your weapon will fire all lightning orbs at your opponents. This is compatible with [Divine Cast Ring](Divine_Cast_Ring.md), Multiplying the damage you deal by 3x.
 
-**All of this Memento's Talents and Mantras are exclusively obtained through the progression bosses.**
+**Most of this Memento's Talents and Mantras are exclusively obtained through the progression bosses.**
 
 ## Starting Abilities
 

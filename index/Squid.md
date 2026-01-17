@@ -1,6 +1,6 @@
 ---
 title: Squid
-revid: 190548
+revid: 192678
 source: https://deepwoken.fandom.com/wiki/Squid
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Fishing Exclusive]
@@ -14,7 +14,8 @@ categories: [Items, Ingredients, Fishing Exclusive]
 | weight | 1 |
 | stack | x99 |
 | type | Ingredient |
-| food type | ?? |
+| food type | Meat |
+| rarity | Common |
 | stomach | ??% |
 | water | ??% |
 | bankable | Yes |
@@ -29,7 +30,9 @@ _Not to be confused with the [Nautilodaunt](Nautilodaunt.md), commonly nicknamed
 
 A squid can be caught by [Fishing](Fishing.md).
 
-## Recipes used in
+## Crafting
+
+### Used in
 
 -   [Cooked Squid](Cooked_Squid.md) (1 Squid)
 -   [Calamari](Calamari.md) (1 Squid, 1 Gathered Wheat)

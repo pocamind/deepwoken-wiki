@@ -1,6 +1,6 @@
 ---
 title: Chum
-revid: 161350
+revid: 192666
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fishing, Alchemy]
@@ -12,14 +12,12 @@ categories: [Items, Fishing, Alchemy]
 |---|---|
 | value | 10 |
 | weight | 0.25 |
-| type | * Buyable, Crafting with Fishmeat. |
+| type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-
-“ "Is that a jojo's reference" ”
-
-― A Wise Ganymede
+| desc | Gross! Good for bait. |
+| obtainment | Buyable, Crafting with Fishmeat. |
 
 You can use **Chum** as bait when [Fishing](Fishing.md). Fish meat can also be used as well, however this can be a better option.
 

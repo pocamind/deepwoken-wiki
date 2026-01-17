@@ -1,6 +1,6 @@
 ---
 title: Weathered Timepiece
-revid: 147176
+revid: 192644
 source: https://deepwoken.fandom.com/wiki/Weathered_Timepiece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]

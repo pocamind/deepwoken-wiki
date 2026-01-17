@@ -1,6 +1,6 @@
 ---
 title: "Familiar Heretic's Armor"
-revid: 191861
+revid: 192590
 source: https://deepwoken.fandom.com/wiki/Familiar_Heretic's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -56,3 +56,4 @@ The [Soul Rip](Talents.md#soul-rip) Talent grants 2 _Runes_ every time you kill 
 -   This outfit was bugged on release, voiding itself if you attempted to learn the schematic. This was fixed shortly after the item's addition.
 -   The Fire and Shadow resistance granted by this armor is in reference to Wraith Knights using Dark Flames as part of their skillset. Wraith Knight's Dark Flames are also the inspiration for Wraith Path: Twisted Puppets.
 -   The description for this outfit, "Fit only for a traitor" is in reference to how in order to obtain the Wraith Knight class in Rogue Lineage, you have to start out as a Sigil Knight and then betray the order, becoming Chaotic rather than Orderly.
+-   Familiar Heretic's Armor has a unique interaction with [Dye Packets](Dye_Packet.md), where instead of getting tinted, it dyes different parts of the outfit individually.

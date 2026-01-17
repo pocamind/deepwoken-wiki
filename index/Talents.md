@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 192563
+revid: 192659
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2108,7 +2108,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Justicar
 
--   _Jus Karita_ \[Quest Talent, Light Weapon\] - Gain the ability to use fist combat against weapons. Including the ability to block weapons with your hands using Ether.
+-   _Jus Karita_ \[Quest Talent, Light Weapon\] - Adopt the kick-based fighting style of the Justicars.
     -   Allows you to use the [Jus Karita](Jus_Karita.md) [fist style](Fists.md).
     -   Prerequisites: Achieve a [Power](Power.md) level of 5 and a Light Weapons attribute of 40, talk with [Polis](Polis.md).
 
@@ -3930,14 +3930,17 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Warrior
 
 -   _Chronostasis_ \[Rare Talent\] - Landing a Basic Attack or Critical puts the target's [Resonance](Resonance.md) on cooldown for a short duration. (+1 Posture)
+    -   On hit, apply a 13 second Resonance cooldown.
+    -   This cannot proc if their Resonance is already on cooldown.
     -   Prerequisites: [Power](Power.md) 13, Engage
 
 -   Critical Attack \[Echo Talent, Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
-    -   Prerequisite: Complete [Arthur](Arthur.md)'s quest right outside of the [Garden Reservoir](The_Garden_Reservoir.md).
+    -   Prerequisite: Complete [Arthur](Arthur.md)'s quest right outside of the [Garden Reservoir](The_Garden_Reservoir.md)
         -   Once this quest has been completed on any character, you will receive this Talent automatically when powering up to or above Power 5 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
 
 -   Engage \[Echo Talent, Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
-    -   Prerequisite: Complete [Arthur](Arthur.md)'s quest right outside of the [Garden Reservoir](The_Garden_Reservoir.md).
+    -   Ether restored is based on damage dealt.
+    -   Prerequisite: Complete [Arthur](Arthur.md)'s quest right outside of the [Garden Reservoir](The_Garden_Reservoir.md)
         -   Once this quest has been completed on any character, you will receive this Talent automatically when powering up to or above Power 3 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
 
 ### Waterborne
@@ -3945,7 +3948,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Conditioned Swimmer \[Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
 
 -   _Scuba Drowner_ \[Rare Talent\] - You won't always drown to death when downed in water. (+3 Passive Agility, +5 Health)
-    -   Prevent death by drowning.
+    -   Prevents death via drowning with a 30 second cooldown.
+    -   Sometimes, this will trigger while it's on cooldown.
     -   Prerequisite: [Power](Power.md) 5
 
 ### Weapon Master
@@ -4090,10 +4094,11 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 60% more chip.
 
 -   Expeditious Combo: [Iron Birch](Iron_Birch.md) - Landing an uppercut will grant a buff to your [Onslaught](Attunement-less.md#onslaught) for 15 seconds, using Onslaught during this time will massively increase the speed of it.
-    -   Grants the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect on uppercut. This status effect will be consumed if you cast Onslaught, increasing the speed of this attack by 30%.
-    -   Has a sound effect on proc. The duration of your Expeditious Combo is displayed on the bottom left of the screen on the cooldown indicator.
+    -   Passively increases the speed of your Onslaught.
+    -   Grants the [Expeditious Combo](Status_Effects.md#expeditious-combo) status effect on uppercut. This status effect will be consumed if you cast Onslaught. The duration of your Expeditious Combo is displayed on the bottom left of the screen on the cooldown indicator.
     -   This effect has no cooldown, but as the Expeditious Combo status effect is consumed on proc, you will need to land another uppercut to proc it again.
     -   "Uppercut" or "uptilt" Mantras do not grant the Expeditious Combo status effect; you need to land a basic attack uppercut to proc this.
+    -   Has a sound effect on uppercut.
 
 -   Finishing Slay: [Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
     -   Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical.
@@ -4310,8 +4315,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.
 
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
-    -   Increases the effectiveness of Blue Gems by 10%, additively.
-    -   With I'm Blue, Blue Gems reduce the base Ether cost of Mantras by 60% instead of 50% and the cost of modifiers is reduced by 35% instead of 25%.
+    -   Increases the effectiveness of Blue Gems by 40%, additively.
+    -   With I'm Blue, Blue Gems reduce the base Ether cost of Mantras by 90% instead of 50% and the cost of modifiers is reduced by 65% instead of 25%.
 
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
 
@@ -5098,7 +5103,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 -   Void Glutton \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Siphon some of your enemies ether when you kill them. This gets added onto your health permanently, however you are now slowed at all times. This slow increases the more health you have siphoned.
     
-    -   Gives a small amount of maximum health when you kill a player. This health is based on your opponent's maximum Ether. You will also be slowed, with the slow being based on how much maximum health you've siphoned.
+    -   Gives 2 maximum health when you kill a player. You will also be slowed, with the slow being based on how much maximum health you've siphoned.
     -   On proc a message at the top of your screen will display: "You siphon some of your victim's ether, netting you x more health."
     -   Prerequisite: [Void Glutton](Void_Glutton.md) Memento
 
@@ -5138,6 +5143,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Blade Threading: [Ferractine](Ferractine.md) - Landing Critical attacks applies metal rod and slow.
 
 -   Fortify: [Frost Gauntlets](Frost_Gauntlets.md) - Slow down your movement in exchange for fortifying your defenses.
+    
+    -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting damage reduction at the cost of reducing your movement speed.
 
 -   Hex Bullet: [Duskshot](Duskshot.md) - Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity.
 
@@ -5167,7 +5174,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Alloyed Soles: [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md) - Reduces the duration of [Knockdown](Status_Effects.md#knockdown) applied to you.
 
--   Analyze: [Armored Sensor Mask](Armored_Sensor_Mask.md) - Marking enemies with your Callout analyzes them, making them take 20% more damage froma ll sources for 10 seconds. \[45 second CD\]
+-   Analyze: [Armored Sensor Mask](Armored_Sensor_Mask.md) - Marking enemies with your Callout analyzes them, making them take 20% more damage from all sources for 10 seconds. \[45 second CD\]
 
 -   Beginner's Luck: [Beginner's Brace](<Beginner's_Brace.md>) - Slightly increase the amount of loot you find in chests.
 
@@ -5195,6 +5202,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     
     -   Instead of being knocked, your health will be set to 75% of its maximum instead, with a 5 minute cooldown.
     -   Once this Talent procs, all future [Depths Trials](Cathedral_of_the_Interstice.md#difficulty-calculation) will automatically be [Corrupted](Monsters.md#scyphozia) for the rest of your character's life.
+    -   This Talent does not proc during the [Zi'eer](The_Lord_Regent.md) boss fight.
 
 -   Drop Dead: [Vapordrop Earrings](Vapordrop_Earrings.md) - Take 50% less damage when Crouching.
 

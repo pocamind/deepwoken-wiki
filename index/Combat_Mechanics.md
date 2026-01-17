@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 192520
+revid: 192607
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -22,9 +22,7 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 
 Upon pressing the settings button, you can find a keybinds section next to the settings page. Keybinds will allow you to have two different keys for an action, with the first one already being there when you start. To revert something, all you would need to do is press the reset button next to the action you're changing.
 
-Certain actions such as [Ironsing](Ironsing.md)'s pull and [Murmurs](Murmur.md) require you to have access to them on the slot you're currently using in order to change their Keybinds. Currently, you are unable to change Keybinds for sailing & ritual casting.
-
-Most keybinds are not present in the new keybinds menu as of now, so for example, if you had ardour on P you won't be able to revert it.
+Certain actions such as [Ironsing](Ironsing.md)'s pull and [Murmurs](Murmur.md) require you to have access to them on the character you're currently using in order to change their Keybinds. Currently, you are unable to change Keybinds for ritual casting.
 
 ## Survival Basics
 
@@ -299,7 +297,7 @@ Defenses/Info
 | --- | --- | --- |
 | 
 
-Circle
+Circle\*
 
  | File:Circletelegraph.png | The color of this indicator changes depending on the attack used.  
 
@@ -330,7 +328,7 @@ Not all unblockable attacks have this indicator.
  |
 | 
 
-Crosshair
+Crosshair\*
 
  |  | This indicator is most prevalent on attacks that make use of homing projectiles.  
 
