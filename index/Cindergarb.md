@@ -1,6 +1,6 @@
 ---
 title: Cindergarb
-revid: 192566
+revid: 192569
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -45,4 +45,4 @@ The [Flare Reservoir](Talents.md#flare-reservoir) Talent is currently bugged and
 
 ## Trivia
 
--   Original shirt is able to be found: [https://www.roblox.com/catalog/13408549899/Priest-of-MaDran](https://www.roblox.com/catalog/13408549899/Priest-of-MaDran)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/13408549899/Priest-of-MaDran) / [Pants](https://www.roblox.com/catalog/13408550938/Priest-of-the-MaDran)

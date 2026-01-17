@@ -1,6 +1,6 @@
 ---
 title: Hugo
-revid: 191473
+revid: 192585
 source: https://deepwoken.fandom.com/wiki/Hugo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]
@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Hugo is a [Tiran](Tiran.md) NPC, he was the previous owner and innkeep of [The Three Cheers](The_Three_Cheers.md) before [Fabantou](Fabantou.md). He sell's the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) with no restrictions to the player.
+Hugo is a [Tiran](Tiran.md) NPC, he was the previous owner and innkeep of [The Three Cheers](The_Three_Cheers.md) before [Fabantou](Fabantou.md). He sells the [Tankard of Ongo Juice](Tankard_of_Ongo_Juice.md) and [Fool's Tankard](<Fool's_Tankard.md>) with no restrictions to the player.
 
 ## Location
 
@@ -50,6 +50,8 @@ The Three Cheers Menu
 
 **Base Dialogue:**
 
+**Good/Neutral Reputation:**
+
 <table>
 <tbody>
 <tr>
@@ -70,6 +72,22 @@ The Three Cheers Menu
 </tr>
 <tr>
   <td><i>*Hugo leans in, as if telling you a secret.*</i> Tsch, this place was one of the first things we built since we took over Cascabel - and we're just about done with it, too! The moment the Warden gave clearance for a tavern, the soldiers were basically trippin' over themselves to help build it. The food in the mess hall keeps 'em going on duty. But it's all plain foods - mild soups and stews. Y'know what keeps the soldiers going off-duty, though? Good food and drink, and great fun - as far away from the officers as possible! <i>*He bursts into raucous laughter.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>*<i>The tavern patrons all stare at you threateningly, as the Tiran exasperatedly gestures between you and the door, muttering to you frantically.</i>* Hey, 'friend', let's not make this ugly, yeah? You should leave - you're upsetting the clientele!</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

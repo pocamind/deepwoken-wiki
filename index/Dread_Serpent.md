@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 191405
+revid: 192576
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -58,6 +58,7 @@ _For a visual guide consider watching [this video](https://youtu.be/zcUmCTAAjNU)
  | Swipes two times in quick succession
 
 -   Each hit will ragdoll you and therefore getting hit by first swipe will guarantee a hit from the second swipe.
+-   Can be rarely preceded by Tail Swipe
 
  |
 | 
@@ -70,6 +71,8 @@ _For a visual guide consider watching [this video](https://youtu.be/zcUmCTAAjNU)
 -   Often used after two claw swipes.
 
  |
+
+  
 
 ## Loot Table
 

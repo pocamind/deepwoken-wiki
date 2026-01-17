@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant (Outfit)
-revid: 192565
+revid: 192570
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -40,4 +40,4 @@ This Outfit has 9999 durability and grants +10% Physical and Elemental resistanc
 
 ## Trivia
 
-Original shirt is able to be found here**:** [https://www.roblox.com/catalog/13449442490/Priest-of-Sotekh](https://www.roblox.com/catalog/13449442490/Priest-of-Sotekh)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/13449442490/Priest-of-Sotekh) / [Pants](https://www.roblox.com/catalog/13408530152/Priest-of-Sotekh)

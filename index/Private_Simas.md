@@ -1,6 +1,6 @@
 ---
 title: Private Simas
-revid: 191593
+revid: 192586
 source: https://deepwoken.fandom.com/wiki/Private_Simas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
@@ -31,6 +31,8 @@ Private Simas is located inside The Three Cheers, sitting at a table across from
 
 ## Dialogue
 
+**Good/Neutral Reputation:**
+
 <table>
 <tbody>
 <tr>
@@ -38,6 +40,22 @@ Private Simas is located inside The Three Cheers, sitting at a table across from
 </tr>
 <tr>
   <td><i>*The soldier gives you a rousing, joyous cheer.*</i> Three cheers, civilian! I'm having a <i>great</i> time! Are you?</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The soldier stares tensely at you, his hand moving away from his tankard, and closer to his sword. Might be a good idea to make your leave, before things get ugly.*</i></td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

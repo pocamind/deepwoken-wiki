@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 191703
+revid: 192580
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies]
@@ -77,7 +77,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
  | Inheritor flashes white. Black strings form on the ground below the Inheritor.
 
 -   You have to jump to avoid this attack.
--   Parrying whilst avoiding this move will cause Zi'eer to use **Circular Slices**.
+-   Parrying whilst avoiding this move will cause Zi'eer to use **Tendril Uprising**.
 -   This move appears during his first phase.
 
  |  |
@@ -86,7 +86,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 **Tendril Cascade**  
 (★★☆)
 
- | Unlike Circular Slices, Zi'eer summons an AOE attack that if the Inheritor doesn't manage to react, they get put in Judgement and get sliced rapidly.
+ | Unlike Tendril Cage, Zi'eer summons an AOE attack that if the Inheritor doesn't manage to react, they get put in Judgement and get sliced rapidly.
 
 -   This is a red move, meaning you have to dodge in order to avoid getting attacked by his move.
 -   This move only appears during his first phase.
@@ -100,7 +100,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
  | Occasionally black strings start to rain and make move towards the Inheritor. These Pillars either move from side to side or from Zi'eer's throne to the Inheritor.
 
 -   If the **Brushstrokes of Black** are summoned from side to side, Zi'eer will also attack with multiple rows of **Tendril Uprising**; alongside 3 periodic attacks of either **Tendril Uprising** or **Flash Equalizer**.
--   During his second phase, the Pillars rain down from Zi'eer's arm to the Inheritor, chaining into different attacks. additionally, the pillars move more quickly and only to the Inheritor.
+-   During his second phase, the Pillars only rain down from Zi'eer's arm to the Inheritor, chaining into different attacks. additionally, the pillars move more quickly and only to the Inheritor.
 
  |  |
 | 

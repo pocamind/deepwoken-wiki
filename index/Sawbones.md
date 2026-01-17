@@ -1,6 +1,6 @@
 ---
 title: Sawbones
-revid: 192002
+revid: 192583
 source: https://deepwoken.fandom.com/wiki/Sawbones
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
@@ -31,9 +31,11 @@ The unnamed sawbones serves as the chief medical office for [The Central Authori
 
 In the modern day, the sawbones works alongside [Taiga](Taiga.md), handling medical emergencies while she handles more minor injuries. He has a reputation for amputation.[\[1\]](#cite-note-t-1)
 
-Despite this reputation, [Yakob](Yakob.md) considers a paying a visit to him to be less unpleasant than the thought of marching through [The Starswept Valley](The_Starswept_Valley.md) in full gear.[\[2\]](#cite-note-y-2)
+Despite this reputation, [Yakob](Yakob.md) considers paying a visit to him to be less unpleasant than the thought of marching through [The Starswept Valley](The_Starswept_Valley.md) in full gear.[\[2\]](#cite-note-y-2)
 
 ## Dialogue
+
+**Good/Neutral Reputation:**
 
 <table>
 <tbody>
@@ -42,6 +44,22 @@ Despite this reputation, [Yakob](Yakob.md) considers a paying a visit to him to 
 </tr>
 <tr>
   <td><i>*A weary Canor appears to be tending to some paperwork, unamused by your presence. You presume this is the surgeon. His eyes stay fixed on the paperwork.*</i> We don't treat civilians in the fortress without the Warden's explicit approval. If you need something stitched up, try the barber in Port Merit. Good day to you.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*The surgeon does not lift his eyes off his paperwork - yet, you feel as though his unyielding, wearied stare still pierces you somehow.*</i> Here to cause trouble, outsider? <b>Try me.</b></td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
