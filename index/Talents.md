@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 192848
+revid: 192857
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -134,7 +134,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 20 Agility
     -   The [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Delver's Duster](<Delver's_Duster.md>), [Sandrunner Wraps](Sandrunner_Wraps.md), and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>) equipment items have this Talent.
 
--   Steady Footing \[Common Talent, Agility, Strength\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
+-   Steady Footing \[Common Talent, Strength, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
     -   Reduces knockback to the user by 20%. (stacks with "Knockback Resistance" equipment pip)
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
@@ -207,7 +207,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Aeromancer
 
--   _Aerogliding_ \[Rare Talent, Galebreathe, Agility\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility)
+-   _Aerogliding_ \[Rare Talent, Agility, Galebreathe\] - When falling from a high place, hold spacebar to generate wind currents until you hit the floor. (+2 Passive Agility)
     -   Has a windup of 1 second.
     -   When active, create an aura that reduces fall speed and stopping fall damage.
         -   Does not prevent existing fall damage, if user was already falling, Aerogliding may still damage the user upon activation.
@@ -228,7 +228,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   If anyone other than the user attempts to pick up the marked target, they will be ragdolled and flung upwards. This includes the user's allies.
     -   Prerequisite: Wind Step, 50 Galebreathe
 
--   Suffocating Impact \[Common Talent, Galebreathe, Strength\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
+-   Suffocating Impact \[Common Talent, Strength, Galebreathe\] - Flourishing enemies into walls applies [Winded](Status_Effects.md#winded) and [Suffocating](Status_Effects.md#suffocate) for a short duration. (+2 Passive Agility)
     -   Prerequisites: 15 Strength, 35 Galebreathe
 
 -   _Stifled Jump_ \[Rare Talent, Galebreathe\] - [Suffocating](Status_Effects.md#suffocate) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. (+2 Passive Agility)
@@ -264,7 +264,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
     -   Prerequisites: 60 Intelligence, interact with a [Cauldron](Cauldron.md)
 
--   _Potion Quaffer_ \[Rare Talent, Intelligence, Willpower/Fortitude\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
+-   _Potion Quaffer_ \[Rare Talent, Fortitude/Willpower, Intelligence\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     -   Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
     -   The increased potion effectiveness is applied multiplicatively after Potency.
     -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
@@ -762,7 +762,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Does not proc from [Grand Fisher Plate](Grand_Fisher_Plate.md) or [Wormwarder Lantern](Wormwarder_Lantern.md) despite them reducing your movement speed.
     -   Prerequisites: 60 Fortitude
 
--   Knuckle Guard \[Common Talent, Fortitude, Strength\] - Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
+-   Knuckle Guard \[Common Talent, Strength, Fortitude\] - Hitting [Dazed](Status_Effects.md#dazed) enemies grants you 10% posture resistance for 15s.
     -   Knuckle Guard's duration will be reduced by 0.1s for every point of Fortitude and Strength below its requirements, having a minimum possible duration of 10.4 seconds with 30 Fortitude and 4 Strength, though this isn't very realistic.
     -   Prerequisities: 55 Fortitude, 25 Strength
 
@@ -905,13 +905,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Colossus
 
--   _Destructive Recovery_ \[Rare Talent, Heavy Weapon, Strength\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture, +2 Carry Load)
+-   _Destructive Recovery_ \[Rare Talent, Strength, Heavy Weapon\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Use a Greatsword
 
--   Heavy Hitter \[Common Talent, Heavy Weapon, Strength\] - Heavy Weapons Your posture damage is increased by 10%.
+-   Heavy Hitter \[Common Talent, Strength, Heavy Weapon\] - Heavy Weapons Your posture damage is increased by 10%.
     -   Prerequisites: 25 Heavy Weapon, 15 Strength
 
--   _Unstoppable Force_ \[Rare Talent, Heavy Weapon, Strength\] - Greathammer You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load)
+-   _Unstoppable Force_ \[Rare Talent, Strength, Heavy Weapon\] - Greathammer You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Unwavering Resolve, Use a Greathammer
 
 ### Comrade
@@ -1031,14 +1031,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Darksiphon
 
--   Blighted Song \[Common Talent, Shadowcast, Fortitude\] - Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
+-   Blighted Song \[Common Talent, Fortitude, Shadowcast\] - Attaching your Shadow Chains to enemies disables yours and the enemy's ability to cast mantras. You take reduced damage from enemies while this is applied.
     -   Grants 20% damage reduction against attacks coming from entities that are not the caster or the person affected by Blighted Song.
     -   Prerequisite: [Shadow Chains](Shadowcast.md#shadow-chains) (Mantra), 10 Fortitude
 
 -   Dark God \[Common Talent, Shadowcast\] - If a Shadowcast mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo.
     -   Prerequisite: 20 Shadowcast
 
--   Dark Replenishment \[Common Talent, Shadowcast, Intelligence\] - Knocking out an enemy in combat restores a portion of your ether.
+-   Dark Replenishment \[Common Talent, Intelligence, Shadowcast\] - Knocking out an enemy in combat restores a portion of your ether.
     -   Prerequisites: 50 Shadowcast, 25 Intelligence, Dark God
 
 -   Dark Synergy \[Common Talent, Shadowcast\] - Engulf your enemy in shadows when flourishing them.
@@ -1133,7 +1133,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Doomsday Engine
 
--   Frozen Web \[Common Talent, Dual attunement, Frostdraw, Thundercall\] - Landing a critical with a Static Link on your opponent applies Chilled.
+-   Frozen Web \[Common Talent, Dual Attunement, Frostdraw, Thundercall\] - Landing a critical with a Static Link on your opponent applies Chilled.
     -   Applies chill for 7 seconds and bottom freeze.
     -   Applies fragile freeze if the critical guardbreaks.
     -   When using Crystallization Path, it'll spawn the VFX and play the sound effects for creating crystals, but won't actually inflict any.
@@ -3367,7 +3367,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Stormcaller
 
--   Storm Link \[Common Talent, Dual Attunement, Shadowcast, Thundercall\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
+-   Storm Link \[Common Talent, Dual Attunement, Galebreathe, Thundercall\] - While you have a Static Link on someone, your Wind mantras that hit them are imbued with flashes of Lightning.
     -   Adds a secondary instance of damage to your Galebreathe Mantras if they hit a Static Linked target. This deals 10% of your attack's scaled damage as Thundercall damage.
     -   This does not allow your Galebreathe Mantras to proc any Thundercall Talents or status effects.
     -   Prerequisites: Static Link, 60 Thundercall, 50 Galebreathe

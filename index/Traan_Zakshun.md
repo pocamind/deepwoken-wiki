@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 191673
+revid: 192855
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -26,7 +26,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Traan Zakshun is an NPC merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock". He wields an [Iron Twinblade](Iron_Twinblade.md) on their back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan also wears a hat made out of kelp on his head, which he claims is for later consumption.
+Traan Zakshun is a [Canor](Canor.md) NPC. He is a merchant who sells various outfit schematics and weapons labelled as "Traan's Salvaged Stock".
+
+He wields an [Iron Twinblade](Iron_Twinblade.md) on his back and wears the [Carefree Garments](Carefree_Garments.md) outfit. Traan also wears a hat made out of kelp on his head, which he claims is for later consumption.
 
 Traan got into the business by working alongside his grandmother, [Naan Zakshun](Naan_Zakshun.md), during the [Etrean Civil War](Etrean_Civil_War.md). During this time, he learned to create kelp hats and gave one to her to wear. He also has a love of ongos that dates back to his youth.[\[1\]](#cite-note-nan-1)
 

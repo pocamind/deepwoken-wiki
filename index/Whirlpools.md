@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 187960
+revid: 192852
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,6 +32,7 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 
 ### Eastern Luminant
 
+-   Around the [Moon's Eyrie](<Moon's_Eyrie.md>).
 -   At the right-hand side of [Monkey's Paw](<The_Monkey's_Paw.md>).
 -   To the left and right of the sea highway connecting [Miner's Landing](<Miner's_Landing.md>) and [Fort Merit](Fort_Merit.md).
 -   Many whirlpools within the vicinity of [Boatman's Watch](<Boatman's_Watch.md>).

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 180379
+revid: 192850
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -152,7 +152,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 -   The Mental Fortress [Talent](Talents.md), [Disbelief](Talents.md#mental-fortress), only affects Illusory Servants, reducing the amount of time they last by half.
 -   [Sudaruska's Fury](Gran_Sudaruska.md) counts as a non-Oath mantra, and can be used by your Shaper Clone, under the name "IceStorm".
 -   If you use Mirror Illusion on an enemy using a [Worn Songbook](Instruments.md#worn-songbook), the clone will imitate it and use the same instrument and song.
--   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only ay to clone non-humanoid mobs and bosses.
+-   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only way to clone non-humanoid mobs and bosses.
     -   When cloning non-humanoid mobs, they'll T-pose and won't be able to move or attack. It's more of a funny interaction rather than something you can actively use in combat, especially when someone clones the [Heart of Enmity](Heart_of_Enmity.md) or some other very large mob.
     -   When cloning humanoid [bosses](Bosses.md), it allows you to see the internal name for the ability they used last. For example, [Duke Erisia's](Duke_Ishamon_Erisia.md) Aero Spear ability is named DukeBlast and his Strong Left-like attack is named DukePunch. You can of course use Reality Shift to make the boss clones use their copied boss abilities.
 -   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Visionshaper had the Mystic line "I speak to the Owls."
