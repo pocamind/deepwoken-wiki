@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 176973
+revid: 192820
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, Bandits]
@@ -40,6 +40,7 @@ The [Lightweight](Talents.md#lightweight) Talent increases the users movement sp
 ## Trivia
 
 -   [Bandits](Bandit.md) wear this outfit.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/4854374906/Sea-Adventurer) / [Pants](https://www.roblox.com/catalog/4854428543/Sea-Adventurer-Pants)
 
 ## Changes
 

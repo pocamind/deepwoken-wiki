@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 177648
+revid: 192833
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -44,3 +44,4 @@ The [Merchant's Accord](Talents.md#merchants-accord) Talent causes Merchants and
 ## Trivia/Notes
 
 -   The outfit is worn by [Lance Leshi](Lance.md) in the [Etris](Etris.md) food shop and [Lance's Brother](<Lance's_Brother.md>) at [Isle of Vigils](Isle_of_Vigils.md) who sells food near the docks.
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5012185915/Novice-Top) / [Pants](https://www.roblox.com/catalog/5012187245/Novice-Pants)

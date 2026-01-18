@@ -1,6 +1,6 @@
 ---
 title: "Justicar's Armor"
-revid: 180286
+revid: 192840
 source: https://deepwoken.fandom.com/wiki/Justicar's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -49,4 +49,7 @@ The [The Path, Unveiled](Talents.md#the-path-unveiled) Talent increases your [Ju
     -   It was then gutted to 30% physical resistance but given an additional 5% blunt armor.
     -   This was most likely due to non-Jus Karita users using the armor more than actual [Jus Karita](Jus_Karita.md) users.
 -   Previously used to be called "Lightkeeper." The Roblox clothing items still use this name.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/11234428533/Lightkeeper-Shirt-WHITE) / [Pants](https://www.roblox.com/catalog/11234431176/Lightkeeper-Pants-WHITE)
+    -   Roblox clothing (Current): [Shirt](https://www.roblox.com/catalog/11234428533/Lightkeeper-Shirt-WHITE) / [Pants](https://www.roblox.com/catalog/11234431176/Lightkeeper-Pants-WHITE)
+    -   Roblox clothing (Previous): [Shirt](https://www.roblox.com/catalog/6710728579/Justicar-Inquisitor-Shirt) / [Pants](https://www.roblox.com/catalog/6704509655/Justicar-Inquisitor)
+-   There is an unused version of this armor titled "lightkeeper armor"
+    -   Roblox clothing (Unused): [Shirt](https://www.roblox.com/catalog/10438182843/Lightkeeper-Shirt) / [Pants](https://www.roblox.com/catalog/10438280268/Lightkeeper-Pants)

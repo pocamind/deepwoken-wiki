@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 190416
+revid: 192847
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -90,20 +90,20 @@ Items marked with are exclusive to this gamemode
 -   [Bloodtide Trident](Bloodtide_Trident.md): Resting near the [Hell Bell](Hell_Mode.md)
 -   [Darksteel Cleaver](Darksteel_Cleaver.md): In depths at the location of [The Chariot's Spire](<The_Chariot's_Spire.md>)
 -   [Depthsplitter](Depthsplitter.md): In depths near the divers encampment
--   [Deranged Treasure](Deranged_Treasure.md):Located near where [Nostor](Nostor,_Master_of_Shadow.md) would be
+-   [Deranged Treasure](Deranged_Treasure.md):Located under some corals near where [Nostor](Nostor,_Master_of_Shadow.md) would be
 -   [Duskshot](Duskshot.md): Located behind a door to the right of "flat side" gate
 -   [Frost Gauntlets](Frost_Gauntlets.md): By the back room of [The Indigo Citadel](The_Indigo_Citadel.md)
 -   [Frost Ring](Frost_Ring.md): Sitting on the ground next to [Starfield Tundra](Starfield_Tundra.md)
 -   [Icepick](Icepick.md): Sitting on top of an ice structure in [Starfield Tundra](Starfield_Tundra.md)
 -   [Iron Requiem](Iron_Requiem.md): Above the blacksmith in [Summer Isle](Summer_Isle.md)
 -   [Kanabo](Kanabo.md): By the back room of [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md)
--   [Night Star](Night_Star.md): Located left of [Marauder's Entrance](<Marauder's_Entrance.md>) Near an ignition union camp
+-   [Night Star](Night_Star.md): Located left of [Marauder's Entrance](<Marauder's_Entrance.md>), near an ignition union camp
 -   [Petra's Anchor](<Petra's_Anchor.md>): Located on an item bordering summer isle
 -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>): Sitting on a rock in the middle of a lava pool at [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>)
 -   [Prototype Railblade](Prototype_Railblade.md): Near a [Magma Golem](Golem_Magma.md) at [Saramaed Summit](<Saramaed_Summit_(Vow_of_Iron).md>)
 -   [Transfusion Ring](Transfusion_Ring.md):Located just past the "South" icon on the map compass
 -   [Void Ring](Void_Ring.md): On an island behind [Etris](<Etris_(Vow_of_Iron).md>)
--   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): around the exit/entrance of the Miners Cave [Boundary](Boundary.md)
+-   [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md): Near the exit/entrance of the Miners Cave [Boundary](Boundary.md)
 -   [Winter Rifle](Winter_Rifle.md): Located underneath [Outpost Antumbra](Outpost_Antumbra.md), **in a now inaccessible area**
 
   

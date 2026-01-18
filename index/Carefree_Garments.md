@@ -1,6 +1,6 @@
 ---
 title: Carefree Garments
-revid: 186639
+revid: 192823
 source: https://deepwoken.fandom.com/wiki/Carefree_Garments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -43,4 +43,5 @@ The [Fleetfoot](Talents.md#fleetfoot) Talent grants the user a speed boost after
 
 -   It used to change appearance based on your gender presentation, with the Default variant being assigned to the masculine/gender neutral gender presentation, and the Dress variant being assigned to the feminine gender presentation.
     -   This was changed along with the removal of gender presentations in the March 31st, 2025 update.
--   Roblox clothing (default variant): [Shirt](https://www.roblox.com/catalog/83551199185668/Carefree-Garments-Men-Shirt) / [Pants](https://www.roblox.com/catalog/106970279072761/Carefree-Garments-Men-Pants)
+-   Roblox clothing (Default variant): [Shirt](https://www.roblox.com/catalog/83551199185668/Carefree-Garments-Men-Shirt) / [Pants](https://www.roblox.com/catalog/106970279072761/Carefree-Garments-Men-Pants)
+-   Roblox clothing (Dress variant): [Shirt](https://www.roblox.com/catalog/74756406781989/Carefree-Garments-Women-Shirt) / [Pants](https://www.roblox.com/catalog/72387697867520/Carefree-Garments-Women-Pants)

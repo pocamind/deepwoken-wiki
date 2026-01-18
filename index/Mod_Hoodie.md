@@ -1,6 +1,6 @@
 ---
 title: Mod Hoodie
-revid: 165492
+revid: 192816
 source: https://deepwoken.fandom.com/wiki/Mod_Hoodie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Exclusive Outfits]
@@ -25,14 +25,16 @@ notices:
 
 **Mod Hoodie** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
-## Statistics
-
-### _Requirements_
+## Requirements
 
 This Outfit has no requirement to craft.
 
 This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
-### _Armor Stats_
+## _Armor Stats_
 
 This Outfit has 100 durability.
+
+## Trivia
+
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/99944343307164/mod-hoodie) / [Pants](https://www.roblox.com/catalog/13233497923/Deepwoken-Sweatpants)

@@ -1,6 +1,6 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 192812
+revid: 192829
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Starkindred Church, Enemies with Oaths, Individuals with unspecified pronouns]
@@ -16,7 +16,9 @@ categories: [Enemies, The Starkindred Church, Enemies with Oaths, Individuals wi
 
 ## Description
 
-Minos, Sinner of Flame, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Summer Isle](Summer_Isle.md) beside the Guild Hall. They must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression.
+Minos, Sinner of Flame, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Summer Isle](Summer_Isle.md). They must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression.
+
+  
 
 ## Moveset
 

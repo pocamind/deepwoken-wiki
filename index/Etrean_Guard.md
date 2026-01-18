@@ -1,6 +1,6 @@
 ---
 title: Etrean Guard
-revid: 177015
+revid: 192821
 source: https://deepwoken.fandom.com/wiki/Etrean_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Etrea]
@@ -48,4 +48,4 @@ The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the gua
 -   It was formerly exclusive to the aforementioned Etrean NPCs, but was made accessible to players due to popular demand.
 -   Despite mention of "padded snakeskin leather" in its description, the Etrean Guard outfit has _zero_ snake-related materials in its crafting requirements.
     -   Ironically, the _only_ serpentine beings currently present in Deepwoken are the Etreans themselves, which implies this outfit is literally made of them.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6891784546/Etrean-Guard), [Pants](https://www.roblox.com/catalog/6891785613/Etrean-Guard-Pants)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6891784546/Etrean-Guard) / [Pants](https://www.roblox.com/catalog/6891785613/Etrean-Guard-Pants)

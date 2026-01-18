@@ -1,6 +1,6 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 192813
+revid: 192830
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Starkindred Church, Individuals with unspecified pronouns]
@@ -17,7 +17,9 @@ categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Star
 
 ## Description
 
-Astaroth, Sinner of Wind, is a powerful Starkindred apostate located in [Songseeker Wilds](Songseeker_Wilds.md). They must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression.
+Astaroth, Sinner of Wind, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Songseeker Wilds](Songseeker_Wilds.md). They must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression.
+
+  
 
 ## Moveset
 

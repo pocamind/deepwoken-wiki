@@ -1,9 +1,9 @@
 ---
 title: "Iblis, The Fallen Angel"
-revid: 192807
+revid: 192838
 source: https://deepwoken.fandom.com/wiki/Iblis%2C_The_Fallen_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Individuals with He/him pronouns, Enemies, Enemies with Oaths, The Starkindred Church]
+categories: [Individuals with He/him pronouns, Enemies, Enemies with Oaths, The Starkindred Church]
 ---
 
 # Iblis, The Fallen Angel
@@ -21,7 +21,11 @@ categories: [Pages with broken file links, Individuals with He/him pronouns, Ene
 
 ## Description
 
-Iblis, The Fallen Angel, is a powerful Starkindred apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md), above the and outside the hole in the sky (You can get here using a union hook at the entrance of the Starfield Grove, or by climbing from outside). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md), uses a [True Seraph Spear](True_Seraph_Spear.md), and is a Flamecharmer. He uses Starkindred mantras alongside his Flamecharm ones and quickly become overwhelming for unprepared players attempting to kill him solo.
+Iblis, The Fallen Angel, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Starfield Grove](Starfield_Grove.md) [Voidzone](Voidzones.md). He must be defeated to obtain [Starkindred](Oath%253A_Starkindred.md).
+
+## Location
+
+Iblis is
 
 ## Moveset
 
@@ -101,10 +105,6 @@ Iblis' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Fla
  | Delivers an upward slash that makes both parties airborne before delivering another sideway slash that sends the target away.
 
  |
-
-File:Iblis Spawn.png
-
-The area above Starfield where Iblis spawns.
 
 ## Trivia
 

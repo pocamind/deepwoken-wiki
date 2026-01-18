@@ -1,6 +1,6 @@
 ---
 title: "Troublemaker's Overcoat"
-revid: 177183
+revid: 192826
 source: https://deepwoken.fandom.com/wiki/Troublemaker's_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -36,3 +36,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 ### _Armor Stats_
 
 This Outfit has 2500 durability and grants +20% Elemental resistance, +25% Physical resistance.
+
+## Trivia
+
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826407403/Troublemakers-Overcoat-Shirt) / [Pants](https://www.roblox.com/catalog/16826409686/Troublemakers-Overcoat-Pants)
