@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 192618
+revid: 192723
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -21,7 +21,7 @@ categories: [Monsters, Layer 2, Floor 1, The Depths]
 
 ## Description
 
-The Bone Keeper is a Monster mainly found in the [Eternal Gale](Second_Layer.md). It can also appear in the [Pathfinder](Pathfinder.md) Depths Trial when you have too many Drowns, potentially [Corrupted](Monsters.md#scyphozia), and in the [Vow of Iron](Vow_of_Iron.md) Depths Trial when Power 5 and below. Bone Keepers in the [Vow of Iron](Vow_of_Iron.md)have vastly less cooldown between their moves and their moves also play out faster, but they have far less health than they do in [Pathfinder](Pathfinder.md).
+The Bone Keeper is a Monster mainly found in the [Eternal Gale](Second_Layer.md). It can also appear in the [Pathfinder](Pathfinder.md) Depths Trial when you have too many Drowns, potentially [Corrupted](Monsters.md#scyphozia), and in the [Vow of Iron](Vow_of_Iron.md) Depths Trial when Power 5 and below. Bone Keepers in the [Vow of Iron](Vow_of_Iron.md) have vastly less cooldown between their moves and their moves also play out faster, but they have far less health than they do in [Pathfinder](Pathfinder.md).
 
 Bone Keepers are giant, humanoid creatures, with inhuman proportions, having short legs yet large arms. It has noticeably clawed feet, with bone claws for hands. They sport a red and gold loincloth of sorts on their lower body and lack clothing on their upper half. Their head also appears to be made out of a cylindrical formation of bones.
 
@@ -40,7 +40,6 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
  | The Bone Keeper holds its right arm high up before swinging forwards with it, and if it manages to grab a target, it will hold it up before crushing it in its hand, dealing devastating damage.
 
 -   This attack seems to lack much range, meaning it can be avoided by simply stepping back before it tries to grab you.
--   Deals 31.395 posture damage.
 
 _Uses Telegraph_
 

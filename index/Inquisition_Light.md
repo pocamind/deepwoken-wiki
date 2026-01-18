@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 191994
+revid: 192725
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -30,7 +30,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
 
 ### _Requirements_
 
-This Outfit and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Wayward Gems](Wayward_Gem.md), three (3) [Void Feathers](Dark_Feather.md#void-feather), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), three (3) [Wayward Gems](Wayward_Gem.md), three (3) [Void Feathers](Dark_Feather.md#void-feather), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 

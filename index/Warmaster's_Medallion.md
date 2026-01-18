@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 192708
+revid: 192810
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]
@@ -30,13 +30,13 @@ The Warmaster's Medallion is a [Relic](Relics.md) [Equipment](Equipment.md) item
 
 Equipping it grants the [Actions Speak Louder](Talents.md#actions-speak-louder) Talent, reducing the cooldown of your weapon's critical attack by 20%, but increasing the cooldown of your [Resonance](Resonance.md) by 20%. In areas where you cannot use your Resonance ([Chime of Conflict](Chime_of_Conflict.md)), your critical attack cooldown will be reduced by 10% instead.
 
-## Tips/Trivia
+## Trivia
 
 -   The second (or third) equippable [Relic](Relics.md), released after [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) and at the same time as [Tiran Pendant](Tiran_Pendant.md).
--   Many elements share motifs with the [Authority](The_Central_Authority.md):
+-   Many elements share motifs with [The Central Authority](The_Central_Authority.md):
     -   There are 3 Authority emblems outside of the attachment.
     -   The neon blades could represent the Circle of Honor, as it is surrounded by a circular border and is the source of the [Warmaster Oath](Oaths.md#warmaster) comes from.
+    -   This is strange, as Warmasters have no correlation with the Authority.
 -   Has virtually no downside on slots with the Dissonant [echo modifier](Echoes.md).
 -   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Whistling Periapt](Whistling_Periapt.md).
 -   The downside originally doubled resonance cooldown, being reduced to 50% (1.5x) in the 4/26/25 update, then being reduced to 20% (1.2x) in the 7/12/25 update.
--   If used with kindred edict, it makes you unable to move upon using the crit, infinitely locking you in place until you either rejoin or die.

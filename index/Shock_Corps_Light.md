@@ -1,6 +1,6 @@
 ---
 title: Shock Corps Light
-revid: 176161
+revid: 192724
 source: https://deepwoken.fandom.com/wiki/Shock_Corps_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -30,7 +30,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
 
 ### _Requirements_
 
-This Outfit and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Might Gem](Might_Gem.md), five (5) [Spark Glands](Spark_Gland.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), one (1) [Might Gem](Might_Gem.md), five (5) [Spark Glands](Spark_Gland.md), and five (5) [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 

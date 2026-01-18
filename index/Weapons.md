@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 191934
+revid: 192738
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -13018,7 +13018,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Range:** Horizontal reach of a weapon (not counted by studs).
 -   **Swing Speed:** Speed of basic weapon attacks (M1s). Compared to the default Sword swing speed of 1.00x.
 -   **Endlag:** Additional lingering duration after a basic weapon attack (Self-stun after M1s). All weapons have endlag, these weapons have additional endlag.
--   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100/103 points in each scaled attribute) and 6 [Proficiency](Traits.md#proficiency) (including bleed). This doesn't account for any DMG stars on a weapon.
+-   **Scaled Damage:** Weapon damage dealt with full attribute scaling (100 points in each scaled attribute) and 6 [Proficiency](Traits.md#proficiency) (including bleed). This does not account for damage stars or above 100 attribute investment.
 -   Specific weapon terminology: These terms only apply to specific weapons
     -   **FULL** and **BRKN/Shattered**: A term used specifically for the [Fractine](Fractine.md) weapon's two states of being, the full greatsword form and the broken/shattered dagger form that it becomes after the critical attack is used, changing its stats. This is (currently) exclusive to the [Fractine](Fractine.md) weapon.
     -   **1H** and **2H**: A term used specifically for the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon's two states being the Club (2H) and Sword (1H) that it becomes when stance swapping. These forms differ in stats. This is (currently) exclusive to the [Ignition Deepcrusher](Ignition_Deepcrusher.md) weapon.
@@ -13032,6 +13032,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
 -   **Origin Weapon:** Weapons exclusive to a specific [Origin](Origins.md). These weapons often have unique obtainment methods.
 -   **Ability-bound Weapons:** Weapons exclusive to an [Oath](Oaths.md) or [Resonance](Resonance.md).
+-   **Vow of Iron Exclusive Weapons:** Weapons that are exclusively found in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 -   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
 
 ## Types of Weapons

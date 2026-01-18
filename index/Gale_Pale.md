@@ -1,6 +1,6 @@
 ---
 title: Gale Pale
-revid: 190674
+revid: 192769
 source: https://deepwoken.fandom.com/wiki/Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons]
@@ -14,7 +14,7 @@ categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons]
 | damage type | Blunt |
 | requirements | 75 HVY |
 | damage | 23 |
-| scaling | 9 |
+| scaling | HVY: 9 |
 | posture damage | 10 |
 | range | 9 Sweep |
 | swing speed | 0.9x |

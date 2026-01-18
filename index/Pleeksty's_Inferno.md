@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 191259
+revid: 192775
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals]
@@ -42,11 +42,7 @@ It is not able to be banked and is not droppable, being permanently bound to the
 
 Pleeksty's Inferno will apply burn on hit if you are wearing the [Simmerbloom Diadem](Simmerbloom_Diadem.md).
 
-## Obtainment
-
-### Pathfinder (Normal mode)
-
-The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
+In Pathfinder, the Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
 1.  Have **75** Flamecharm and enter the [Second Layer](Second_Layer/The_Ethironal_Shrine.md) without a Light Hook.
 2.  Fulfill one of the following criteria. Keep in mind you only need **one** of these three criterias to get confirmation to fight [Aska](Aska.md). For example, having Pleetsky's Will allows fighting Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.
@@ -60,9 +56,7 @@ The Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) 
 
 Alternatively, if you meet all requirements and have the Destined [Echo](Echoes.md) Modifier, Aska will still attempt to burn you to death, but you will survive and obtain the weapon without needing to fight him.
 
-### Vow of Iron (Hardcore mode)
-
-Pleeksty's Inferno can be found stuck in a rock at Saramaed Summit; recommended to grab it if you're using the [Flame Worshipper](Mementos.md#flame-worshipper) Memento, since the Memento's final attributes are min-maxed to be perfect with the weapon
+In Vow of Iron, the Pleeksty's Inferno can be found stuck in a rock at Saramaed Summit; recommended to grab it if you're using the [Flame Worshipper](Mementos.md#flame-worshipper) Memento, since the Memento's final attributes are min-maxed to be perfect with the weapon
 
 ## Critical
 

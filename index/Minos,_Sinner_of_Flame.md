@@ -1,9 +1,9 @@
 ---
 title: "Minos, Sinner of Flame"
-revid: 179435
+revid: 192812
 source: https://deepwoken.fandom.com/wiki/Minos%2C_Sinner_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, The Starkindred Church, Enemies with Oaths]
+categories: [Enemies, The Starkindred Church, Enemies with Oaths, Individuals with unspecified pronouns]
 ---
 
 # Minos, Sinner of Flame
@@ -16,9 +16,11 @@ categories: [Enemies, The Starkindred Church, Enemies with Oaths]
 
 ## Description
 
-**Minos, Sinner of Flame** is former member of [the Starkindred Church](The_Starkindred_Church.md), who betrayed his faith and became a sinner in the eyes of the devotees. He is located at [Summer Isle](Summer_Isle.md) beside the Guild Hall. He must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression, he wields a [True Seraph Spear](True_Seraph_Spear.md), and utilises the [Flamecharm](Flamecharm.md) [Attunement](Attunements.md). He combines [Flamecharm](Flamecharm.md) Mantras with his [Starkindred](Oath%253A_Starkindred.md) Mantras and can quickly become overwhelming to an inexperienced player if they are attempting to kill him solo.
+Minos, Sinner of Flame, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Summer Isle](Summer_Isle.md) beside the Guild Hall. They must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression.
 
 ## Moveset
+
+Minos' arsenal consists of a True Seraph's Spear along with the [Flamecharm](Flamecharm.md) attunement and [Starkindred](Oath%253A_Starkindred.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |

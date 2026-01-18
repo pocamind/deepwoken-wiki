@@ -1,6 +1,6 @@
 ---
 title: Marro
-revid: 192450
+revid: 192802
 source: https://deepwoken.fandom.com/wiki/Marro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]

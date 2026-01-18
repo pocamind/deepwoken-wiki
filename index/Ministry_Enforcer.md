@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 176713
+revid: 192789
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
@@ -21,7 +21,7 @@ Ministry Enforcers are elite members of [the Ministry](The_Ministry.md) that use
 
 ## Moveset
 
-They use [Way of Navae](Way_of_Navae.md) and regular [Ministry Scout](Ministry_Scout.md) Shadowcast Mantras alongside the [Contractor](Oath%253A_Contractor.md) Oath.
+Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Shadowcast](Shadowcast.md) attunement and [Contractor](Oath%253A_Contractor.md) Oath:
 
 <table><caption></caption>
 <tbody>

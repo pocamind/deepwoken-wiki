@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 192170
+revid: 192776
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Deepwoken]
@@ -32,10 +32,10 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 
 | **No.** | **Title** | **Length** | **Location** | **File** |
 | --- | --- | --- | --- | --- |
-| 1 | [To Sleep, Dreaming (Contour 1)](https://soundcloud.com/naktigonis/to-sleep-dreaming) | 1:40 | [Celestial Telescope](Greathive_Aratel.md#observatory-2) viewing [Constellia](Constellia.md), Title Screen, and using a [Moonseye Tome](Moonseye_Tome.md) |  |
-| 2 | [To Sleep, Dreaming (Contour 2)](https://soundcloud.com/naktigonis/to-sleep-dreaming-2) | 1:40 | Title Screen loading into a Luminant or The Depths |  |
-| 3 | [To Sleep, Dreaming (Contour 3)](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) | 1:41 | Title Screen loading into a Luminant or The Depths |  |
-| 4 | [To Sleep, Dreaming (Contour 4)](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) | 1:45 | Title Screen when Power 20 |  |
+| 1 | [To Sleep, Dreaming (Contour 1)](https://soundcloud.com/naktigonis/to-sleep-dreaming) | 1:40 | [Celestial Telescope](Greathive_Aratel.md#observatory-2) viewing [Constellia](Constellia.md), using a [Moonseye Tome](Moonseye_Tome.md), and [Pathfinder](Pathfinder.md) Title Screen |  |
+| 2 | [To Sleep, Dreaming (Contour 2)](https://soundcloud.com/naktigonis/to-sleep-dreaming-2) | 1:40 | Pathfinder Title Screen loading into a Luminant or The Depths |  |
+| 3 | [To Sleep, Dreaming (Contour 3)](https://soundcloud.com/naktigonis/to-sleep-dreaming-3) | 1:41 | Pathfinder Title Screen loading into a Luminant or The Depths |  |
+| 4 | [To Sleep, Dreaming (Contour 4)](https://soundcloud.com/naktigonis/to-sleep-dreaming-4) | 1:45 | Pathfinder Title Screen when Power 20 |  |
 | 5 | [Nascence](https://soundcloud.com/naktigonis/nascence) | 2:59 | [Character Creation](Character_Creation.md) |  |
 | 6 | [Solivagant](https://soundcloud.com/naktigonis/solivagant) | 2:20 | [Etrean Wilds](Etrean_Wilds.md) |  |
 | 7 | [Peregrine](https://soundcloud.com/naktigonis/peregrine) | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) and [Miner's Landing](<Miner's_Landing.md>) |  |
@@ -104,6 +104,10 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 29 | [The Better Part Of Valour](https://soundcloud.com/naktigonis/the-better-part-of-valour) | 3:33 | [Merit Detainment Core](Merit_Detainment_Core.md) |  |
 | 30 | [Chainbreaker](https://soundcloud.com/naktigonis/chainbreaker) | 2:21 | [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) |  |
 | 31 | [Wardens Of The Valiant Dead](https://soundcloud.com/naktigonis/wardens-of-the-valiant-dead) | 4:52 | [Fort Merit](Fort_Merit.md), [Port Merit](Port_Merit.md) |  |
+| TBA | Hymn Of Iron (Contour 1) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md), [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
+| TBA | Hymn Of Iron (Contour 2) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md), [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
+| TBA | Hymn Of Iron (Contour 3) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md), [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
+| TBA | Hymn Of Iron (Contour 4) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md), [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
 | TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Death sequence) | TBA |
 | TBA | Bread And Roses[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) (Combat) | TBA |
@@ -116,9 +120,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | TBA | _Untitled Conquest Lobby Theme[\[1\]](#cite-note-naktimessage2-1)_ | TBA | TBA | TBA |
 | TBA | Our Fortress (Of Smoke And Steel) | TBA | TBA | TBA |
 | TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
-| TBA | ? | TBA | [Vow of Iron](Vow_of_Iron.md) | TBA |
 | TBA | ? | TBA | [Heart of Enmity](Heart_of_Enmity.md) | TBA |
-| TBA | ? | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) | TBA |
 | TBA | ? | TBA | [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | TBA |
 
 ### Additional Songs

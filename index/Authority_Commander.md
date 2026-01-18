@@ -1,6 +1,6 @@
 ---
 title: Authority Commander
-revid: 179390
+revid: 192771
 source: https://deepwoken.fandom.com/wiki/Authority_Commander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -51,7 +51,7 @@ When paired with the [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), th
 ## Trivia
 
 -   On release, the Talent had no limit and gave a flat reduction to posture damage taken for each enemies, eventually becoming negative and restoring posture with each hit taken.
--   This is a good outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
--   The other two outfits of similar origin are the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) and the [Authority Captain Uniform](Authority_Captain_Uniform.md).
+-   This is a good Outfit for resisting blunt damage. Paired with the Talent, this armor is very strong for tank builds.
 -   This outfit is worn by the [Authority Commander](<Authority_Commander_(Enemy).md>) NPCs.
--   Prior to the release of Duskguard, the schematic was not Soulbound and could be banked/traded.
+-   Prior to the release of Duskguard, it was a Master Outfit that could be crafted by any play of any Origin. The schematic was not Soulbound and could be banked/traded.
+    -   This is the only Outfit to undergo such a change.

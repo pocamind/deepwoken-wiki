@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 192278
+revid: 192768
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
@@ -29,7 +29,7 @@ categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapon
 | weight | 2 |
 | bankable | No |
 | droppable | No |
-| enchantable | No |
+| enchantable | Yes |
 | pass down | No |
 | obtainment | Saint Jay Memento, Found at the Valley of Heroes |
 

@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 192546
+revid: 192766
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -22,8 +22,6 @@ categories: [Items]
 An explosive formerly used for demolition, now used to demolish all. It can be thrown with the keybind 'E'.
 
 The base maximum amount of bombs you can hold is 99, though can be surpassed by with the [Packmule](Boons_and_Flaws.md#packmule) Boon.
-
-## Obtainments
 
 To gain this recipe, you will have to talk to [Lucien](Lucien.md) at [Songseeker Wilds](Songseeker_Wilds.md) nearby the gate of [Ancient Rotlands](Ancient_Rotlands.md). Talk to him and purge [Mineskippers](Mudskipper.md#mineskipper). Talk to Lucien once you've purged them all and obtain the Family Recipe Talent. After this you will be able to receive Talents from the "Saboteur" Talent tree which allows for more ways to play around with your bombs.
 

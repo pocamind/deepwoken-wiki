@@ -1,6 +1,6 @@
 ---
 title: Quiet Stranger
-revid: 191594
+revid: 192791
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
@@ -21,8 +21,6 @@ categories: [NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, E
 ## Description
 
 The Quiet Stranger is an NPC that rarely spawns as one of the many [Random Encounters](Random_Encounters.md) at [Erisia](Erisia.md). He's a scout from [The Ministry](The_Ministry.md) who sits until someone approaches him. He does not appear in view until you go close to him, as he is hiding himself using [Murmur: Tacet](Murmur%253A_Tacet.md). Beware that if you talk to him without the 50 [Charisma](Attributes.md#cha) requirements, he will attack you, locking you out of obtaining [Murmur: Tacet](Murmur%253A_Tacet.md).
-
-## Tacet Obtainment
 
 Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Murmur%253A_Tacet.md) without having to fulfill any kill requirements.
 
@@ -60,7 +58,7 @@ Via having 50 [Charisma](Attributes.md#cha), you will obtain [Murmur: Tacet](Mur
 
 ## Moveset
 
-The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), [Tacet](Murmur%253A_Tacet.md), and the [Contractor](Oath%253A_Contractor.md) Oath:
+The Quiet Stranger's arsenal consists of a [Krulian Knife](Krulian_Knife.md), the [Tacet](Murmur%253A_Tacet.md) Murmur, and the [Contractor](Oath%253A_Contractor.md) Oath:
 
 | Name/Danger | Description |
 | --- | --- |
