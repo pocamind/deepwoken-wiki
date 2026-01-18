@@ -1,6 +1,6 @@
 ---
 title: Heartstar
-revid: 190654
+revid: 192690
 source: https://deepwoken.fandom.com/wiki/Heartstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -18,6 +18,7 @@ categories: [Items, Elemental Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | A hardened crystal of blood extracted from a student of the Second Prophet. Seems to contain a great deal of power within it... |
+| obtainment | Chaser, Ministry Bloodrender, Sold in Traan Zakshun's normal shop for 100 |
 
 ## Description
 
@@ -29,14 +30,9 @@ By giving 3 Heartstars to [Vyrelda](Vyrelda,_Master_of_Blood.md) located in [Fir
 
 ## Obtainment
 
-Heartstars can drop from enemies that use the [Bloodrend](Bloodrend.md) attunement.
+Heartstars can drop from enemies that use the [Bloodrend](Bloodrend.md) attunement. Additionally, it can be sold by [Traan Zakshun](Traan_Zakshun.md).
 
-### **BOSS**
-
-[Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
-
-### NPC
-
+-   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)
 -   [Ministry Bloodrender](Ministry_Bloodrender.md)
 
 ## Notes

@@ -1,6 +1,6 @@
 ---
 title: Dark Feather
-revid: 190564
+revid: 192689
 source: https://deepwoken.fandom.com/wiki/Dark_Feather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -17,6 +17,7 @@ categories: [Items, Drops, Ingredients]
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
+| desc | The shadowy remains of a mysterious being. |
 
 | Dark Feather | |
 |---|---|
@@ -27,6 +28,7 @@ categories: [Items, Drops, Ingredients]
 | bankable | No |
 | droppable | No |
 | pass down | No |
+| desc | The shadowy remains of a mysterious being. |
 
 “ Your mind. We Owls find man to be capable of... suitably sophisticated thought, enough to indulge our palate... You will fill the minds of our prey with grand facades, ripen them for us. When your time comes to pass, you too will become a feast for the Nest... ”
 

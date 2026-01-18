@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Mordred Hirculi
-revid: 192581
+revid: 192709
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Mordred_Hirculi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Inquisitors of The Central Authority]
@@ -28,7 +28,9 @@ High Inquisitor Mordred Hirculi is a [Vesperian](Vesperian.md) NPC. He was the l
 
 He appears aged with grey hair. He wears a uniquely marked [Blindfold](Blindfold.md), a [Fleet Warden Cape](Fleet_Warden_Cape.md), a [Inquisitor's Duster](<Inquisitor's_Duster.md>), and a pair of [Grand Authority Sabatons](Grand_Authority_Sabatons.md).
 
-\== Locatio n == High Inquisitor Mordred Hirculi is located inside the war room of the fortress at [Fort Merit](Fort_Merit.md).
+## Location
+
+High Inquisitor Mordred Hirculi is located inside the war room of the fortress at [Fort Merit](Fort_Merit.md).
 
 ## Dialogue
 

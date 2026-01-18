@@ -1,6 +1,6 @@
 ---
 title: Frigid Prism
-revid: 180742
+revid: 192693
 source: https://deepwoken.fandom.com/wiki/Frigid_Prism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -13,10 +13,12 @@ categories: [Items, Elemental Ingredients]
 | value | 2 |
 | weight | 0 |
 | type | Elemental Ingredient |
+| rarity | Common |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
 | desc | Cold enough to hurt. |
+| obtainment | Eastern Nomad, Eastern Nomad Leader, Songseeker Frostdrawer, Authority Lieutenant, Blizzard Knight, Glacial Lionfish, Interluminary Parasol, Sold in Traan Zakshun's normal shop for 100 |
 
 ## Description
 

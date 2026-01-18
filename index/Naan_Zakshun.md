@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 191563
+revid: 192700
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, Circle of Honour members]
@@ -228,7 +228,7 @@ Sold Items
     <li><b>For 200 </b>:
   <ul>
     <li><b>Starter</b>: <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a></li>
-    <li><b>Adept</b>: <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, Navaean Nomad Robes</li>
+    <li><b>Adept</b>: <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></li>
     <li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a></li>
     <li><b>Master</b>: <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
   </ul></li>

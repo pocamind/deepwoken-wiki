@@ -1,6 +1,6 @@
 ---
 title: Dying Embers
-revid: 190649
+revid: 192691
 source: https://deepwoken.fandom.com/wiki/Dying_Embers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -18,6 +18,7 @@ categories: [Items, Elemental Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | Warmth still emanates from within. |
+| obtainment | Bloatskipper, Rock Golem, Songseeker Flamecharmer, Stone Knight, Authority Soldier |
 
 **Dying Embers** are an item in _Deepwoken_.
 

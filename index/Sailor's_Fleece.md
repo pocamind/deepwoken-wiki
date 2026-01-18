@@ -1,6 +1,6 @@
 ---
 title: "Sailor's Fleece"
-revid: 176554
+revid: 192704
 source: https://deepwoken.fandom.com/wiki/Sailor's_Fleece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms]
@@ -27,3 +27,8 @@ categories: [Equipment, Arms]
 ## Description
 
 The **Sailor's Fleece** are a common piece of [Equipment](Equipment.md) in the "Arms" category.
+
+## Trivia
+
+-   This and [Winter Corps Boots](Winter_Corps_Boots.md) are the only equipment to be mutually exclusive, as Archmage said it results in excessive sexualization.
+    -   Upon trying to equip both of them (even if smelted), it will say: ''This probably isn't a good idea...''

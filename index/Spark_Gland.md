@@ -1,6 +1,6 @@
 ---
 title: Spark Gland
-revid: 190650
+revid: 192697
 source: https://deepwoken.fandom.com/wiki/Spark_Gland
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients]
@@ -18,6 +18,7 @@ categories: [Items, Elemental Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | An organ responsible for the production of electricity. |
+| obtainment | Authority Officer, Gigamed, Songseeker Thundercaller, The Ferryman |
 
 **Spark Glands** are an item in _Deepwoken_.
 

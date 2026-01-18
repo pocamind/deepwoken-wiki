@@ -1,9 +1,9 @@
 ---
 title: Corporal Austin
-revid: 192587
+revid: 192716
 source: https://deepwoken.fandom.com/wiki/Corporal_Austin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
+categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | name | Austin |
 | aspect | Canor |
+| pronouns | He/him |
 | location | The Three Cheers |
 | affiliation | The Central Authority |
 

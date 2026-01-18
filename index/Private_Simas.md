@@ -1,9 +1,9 @@
 ---
 title: Private Simas
-revid: 192586
+revid: 192715
 source: https://deepwoken.fandom.com/wiki/Private_Simas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
+categories: [Adret NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -14,6 +14,7 @@ notices:
 |---|---|
 | name | Simas |
 | aspect | Adret |
+| pronouns | He/him |
 | location | The Three Cheers |
 | affiliation | The Central Authority |
 

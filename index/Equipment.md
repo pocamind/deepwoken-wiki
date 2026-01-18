@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 191852
+revid: 192706
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -1410,7 +1410,10 @@ Red, Black, Faded, Jet Black, Orange & Purple |
 _+Talent: Polite Awakening_  
 **Requires Power 8**
 
- | N/A |
+ | Set: Khan  
+Head: [Khan Helmet](Legion_Helmet.md)  
+Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
+Legs: [Khan Boots](Legion_Boots.md) | N/A |
 |  | [Leather Gloves](Leather_Gloves.md)  
 (**Set**) | _+2 Health_  
 _+1 Posture_

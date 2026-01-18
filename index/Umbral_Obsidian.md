@@ -1,6 +1,6 @@
 ---
 title: Umbral Obsidian
-revid: 190648
+revid: 192695
 source: https://deepwoken.fandom.com/wiki/Umbral_Obsidian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Elemental Ingredients, Drops]
@@ -19,6 +19,7 @@ categories: [Items, Elemental Ingredients, Drops]
 | droppable | Yes |
 | pass down | No |
 | desc | While holding it, you can feel the shadows darkening your soul. |
+| obtainment | Megalodaunt (all variants), Thresher (all variants), Immortal Guardian (all variants), Lionfish, Ministry Scout, Deep Widow, Mudskipper Brute, Primadon, Elder Primadon, Fishing, The Ferryman |
 
 ## Description
 
@@ -30,7 +31,7 @@ By giving 5 Umbral Obsidian to [Nostor](Nostor,_Master_of_Shadow.md) located in 
 
 Umbral Obsidian can drop from certain monsters, chests, and enemies that use the [Shadowcast](Shadowcast.md) attunement.
 
-### NPC
+### NPCs
 
 -   [Megalodaunt](Megalodaunt.md) (all variants)
 -   [Lionfish](Lionfish.md)

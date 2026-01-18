@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 191880
+revid: 192710
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -48,6 +48,7 @@ To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on myster
     -   One on an island west of [Etris](<Etris_(Vow_of_Iron).md>)
     -   One in Etris Palace, right above Lord Regent
     -   One on the second floor of the main building in Summer Isle
+    -   One inside of the caves below Saramaed Summut
 
 ## Starting Abilities
 
