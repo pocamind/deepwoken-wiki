@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 193168
+revid: 193173
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, Talents]
@@ -108,7 +108,7 @@ Note that you can only get prompts for Mantra types that you are eligible to obt
 
 ## Trivia
 
--   Prior to the Fortelling and Forseeing mechanic being added, Mystics used to be used to influence what Talent categories you could obtain.
+-   Prior to the Fortelling and Forseeing mechanic being added, Mystics used to be able to influence what Talent categories you could obtain.
 -   Mystics used to have unique dialogue for most Talent trees in the game, but due to this system overall being quite confusing and requiring a third party website most of the time, these were removed and were replaced with simply the Talent category's name. These can be found on the [Cut Content](Cut_Content.md#mystic) page.
 -   If you lack the 20 Note fee, the Mystic will state: "No money, friend? How ever will I feed myself?"
 -   When you are at a campfire, hovering over classes in your Talent list in-game shows you the Mystic prompt for it.

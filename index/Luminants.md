@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 192577
+revid: 193175
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -34,7 +34,7 @@ Away from Markor's shores are the [Lullaby Isles](Lullaby_Isles.md), a collectio
 
 Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by [Gaius](Gaius.md) (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West.
 
-[The Covenant of Flame](The_Covenant_of_Flame.md) originated from this Luminant, due to it being the birth-place of [Amorus Pleeksty](Amorus_Pleeksty.md), and where he descended to the Third Layer through the luminant's caverns. This has lead to the Tirans of the luminant etching floral patterns into their [weaponry](<Pleeksty's_Inferno.md>) as a tribute to the pioneer
+[The Covenant of Flame](The_Covenant_of_Flame.md) originated from this Luminant, due to it being the birthplace of [Amorus Pleeksty](Amorus_Pleeksty.md), and where he descended to the Third Layer through the luminant's caverns. This has lead to the Tirans of the luminant etching floral patterns into their [weaponry](<Pleeksty's_Inferno.md>) as a tribute to the pioneer
 
 [The Starkindred Church](The_Starkindred_Church.md) also comes from this Luminant, holding influence that rivals [The Hundred Legions](The_Hundred_Legions.md)'.
 
@@ -44,7 +44,7 @@ This is where the [Battle Royale](Battle_Royale.md) game-mode takes place.
 
 The Southern Luminant, what used to be a Luminant brimmed with temperate forest, ended up being the most damned victim of both The Submergence and The Great Drowning, with nearly the entire luminant sinking below the waves from the oceans rising, or from [great horrors dragging its lands below](Lore.md#the-great-drowning-of-celtor); [The City of Celtor](Lost_Celtor.md) and [Caerantil](Caeranthil.md) are two examples of the latter, with them being sunken by [The Celtorian Horror](The_Celtorian_Horror.md) and [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) respectively.
 
-There once-existed an aggressive species of Giant Clam in this region, that were often farmed and harvested for their [pearls](Dark_Pearls.md) to produce jewelry. They have since vanished, and are seemingly extinct as a side-effect of The Submergance.
+There once existed an aggressive species of Giant Clam in this region, that were often farmed and harvested for their [pearls](Dark_Pearls.md) to produce jewelry. They have since vanished, and are seemingly extinct as a side-effect of The Submergance.
 
 The developers have said that they will not add it to the game due to it mostly being [Voidsea](Voidsea.md).
 

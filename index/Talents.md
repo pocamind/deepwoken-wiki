@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193123
+revid: 193195
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2318,6 +2318,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Mark of the Lone Warrior_ \[Origin Talent, [Lone Warrior](Lone_Warrior.md)\] - Progress much faster when progressing alone. Gain a damage boost when facing threats alone and also when outnumbered.
     -   Grants an experience multiplier if no other player has credit for the mob kill or event completion.
+    -   Deal 5% more damage to opponents you've combat tagged or opponents who have combat tagged you, but only if they have less or an equal amount of combat tags as you.
     -   Prerequisites: [Lone Warrior](Lone_Warrior.md) Origin, complete [Trial of One](Trial_of_One.md)
 
 ### Maestro's Technique
@@ -4228,7 +4229,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Stomach restoration
         -   Speed boost for 10 seconds
 
--   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical daels 25 extra true damage.
+-   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical deals 25 extra true damage.
 
 -   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
     -   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.

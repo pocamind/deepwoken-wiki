@@ -1,6 +1,6 @@
 ---
 title: Apprentice Rapier
-revid: 193045
+revid: 193183
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -43,6 +43,8 @@ The Apprentice Rapier is a unique light weapon due to being one of the few rapie
 
 Equipping the Apprentice Rapier grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
+**Defensive Stance** increases your parry frames based on how low your health is.
+
 ## Critical
 
 Apprentice Rapier uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
@@ -53,9 +55,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   Meeting the requirement of LHT, the damage is (14.3)
 -   At max LHT, the damage is (19.3)
--   Despite being a Light Weapon, it's stats are closer to that of a Medium Weapon, featuring a slightly faster attack speed and the common 8 range of most Medium Weapons.
--   When using this weapon your left hand is hidden, so you can equip a [Gun](Guns.md) on an unsuspecting foe.
--   In PVE, the crit is very strong and should be used if given the occasion instead of a regular m1, as the critical hits 4 times.
 -   This was accidentally added to the game and obtainable in the depths before it was released for a short time, but they deleted it from everyone before it's actual release.
     -   When it was deleted, it was turned into a regular sword.
 -   The Apprentice Rapier previously required 60, then 40, and now 20 Light Weapon to be used.

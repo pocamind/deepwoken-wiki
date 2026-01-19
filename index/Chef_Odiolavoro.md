@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 193012
+revid: 193176
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -231,6 +231,7 @@ File:UllaFriedEgg.png
 -   It's implied he's actually not that skilled as a cook, as his criticisms of the player's food include him thinking the food should be burnt to ash.
     -   However, giving him artisan food can make him say the food is too good for his customers and he will eat it it himself.
 -   In Italian, "Odio" translates to "I hate," and "Lavoro" translates to work, corresponding with his actions of asking the player to cook for him instead of actually learning how to cook for himself.
+-   Chef Odiolavoro will not ask the player to make the following food due to their obtainment methods: [Kyrsdog](Kyrsdog.md), [Pumpkin Pie](Pumpkin_Pie.md), [Dread Filet](Dread_Filet.md), [Primal Cutlet](Primal_Cutlet.md), [Grilled Parasol Brain](Grilled_Parasol_Brain.md), and [Heavy Steak](Heavy_Steak.md).
 
 ## References
 

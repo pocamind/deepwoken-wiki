@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 193039
+revid: 193177
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -43,6 +43,8 @@ Notably, this weapon have the highest weight stat of any daggers, at 5. Most oth
 ## Talent: Clutch Recovery
 
 Equipping the Canor Fang grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Clutch Recovery** allows you to heal yourself by landing weapon attacks, if you are at or below 30% maximum health. This heals you for 1% of your maximum health, per hit.
 
 ## Critical
 

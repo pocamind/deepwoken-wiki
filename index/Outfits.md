@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 192572
+revid: 193193
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -55,7 +55,7 @@ _Deepwoken_ currently has 15 Master Outfits that have been discovered.
 
 ### Unique
 
-_Deepwoken_ currently has 18 Unique Outfits that have been discovered.
+_Deepwoken_ currently has 19 Unique Outfits that have been discovered.
 
 ### [Vow of Iron](Vow_of_Iron.md) Exclusive Outfits
 
@@ -95,7 +95,7 @@ _Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
   <td><a href="Vigil_Initiate.md">Vigil Initiate</a></td>
   <td><a href="Cloak_of_Winds.md">Cloak of Winds</a>, <a href="Etrean_Guard.md">Etrean Guard</a></td>
   <td><a href="Royal_Etrean_Guard.md">Royal Etrean Guard</a></td>
-  <td><a href="Vigil_Sentinel.md">Vigil Sentinel</a>, <a href="Jade_Vigil's_Weave.md">Jade Vigil's Weave</a></td>
+  <td><a href="Vigil_Sentinel.md">Vigil Sentinel</a>, <a href="Jade_Vigil's_Weave.md">Jade Vigil's Weave</a>, <a href="Stratos'_Cloak.md">Stratos' Cloak</a></td>
 </tr>
 <tr>
   <td><center><b><a href="The_Central_Authority.md">The Central Authority</a></b><p><a href="The_Central_Authority.md">Authorityiconfaction</a></p></center></td>

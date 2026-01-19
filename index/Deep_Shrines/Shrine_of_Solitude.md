@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 191389
+revid: 193170
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -43,14 +43,13 @@ This shrine acts like a [Mystic](../Mystic.md), allowing you to affect and influ
   <td colspan="2">So... You desire auguries?</td>
 </tr>
 <tr>
-  <td>What Talents lie ahead in my future?</td>
-  <td>What Mantras will find me?</td>
+  <td colspan="2">What Mantras will find me?</td>
 </tr>
 <tr>
   <td colspan="2">Won't you share with me your thoughts? Solitude need not be prolonged.</td>
 </tr>
 <tr>
-  <td colspan="2">Player selects Talent / Mantra category</td>
+  <td colspan="2">Player selects Mantra type</td>
 </tr>
 <tr>
   <td colspan="2">Gazing into your Heart... I see a new path. It shall avail itself to you sooner than you might think.</td>

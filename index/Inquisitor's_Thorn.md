@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 193031
+revid: 193187
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -44,6 +44,10 @@ The Inquisitor's Thorn is a LHT weapon under the Rapier category and ranked seco
 ## Talent: Expeditionary Evasiveness
 
 Equipping the Inquisitor's Thorn grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Expeditionary Evasiveness** increases the Mantra level of your [Agility Mantras](Attunement-less.md#agility-mantras) by +3. This bypasses the Level 5 cap. This is not displayed on the Mantra tooltip.
+
+This Talent is especially strong with [Adrenaline Surge](Attunement-less.md#adrenaline-surge), as its duration and cooldown scale with the Mantra's level. At level 8, this Mantra has a 24 second duration with a 25 second cooldown, meaning there's only 1 second of downtime.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Lullaby Isles
-revid: 192884
+revid: 193174
 source: https://deepwoken.fandom.com/wiki/Lullaby_Isles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations in the Central Luminant, Locations, The Moonlit Faith]
@@ -24,7 +24,7 @@ The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a le
 
 [Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md): Council, which resides in the city of Echelon. The highest form of government within the Lullaby Isles, consisting of a handful of the philosophical, theological, and academic members of the Lullaby Isles. Their purpose is to put [The Lady Confessor](The_Lady_Confessor.md)'s decrees into action and ensure the operations within the Echelon and wider archipelago run smoothly.[\[4\]](#cite-note-missives-4)
 
-Vox: ???
+Vox: Middleman between the Lady and her visitors, name likely came from the phrase VoicebOX constructing VOX
 
 ## References
 

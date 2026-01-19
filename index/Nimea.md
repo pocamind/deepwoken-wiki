@@ -1,6 +1,6 @@
 ---
 title: Nimea
-revid: 191572
+revid: 193186
 source: https://deepwoken.fandom.com/wiki/Nimea
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -95,9 +95,9 @@ Nimea is located inside a house at [The Hidden Village](The_Hidden_Village.md).
 </tbody>
 </table>
 
-**Unlockable Dialogue:**
+**Spoken to Klaris:**
 
-These dialogues are unlocked if the player has spoken to [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) about a Lightkeeper.
+These dialogues play instead if the player has spoken to [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) about [Viqh](Viqh.md).
 
 **First Encounter:**
 
@@ -227,4 +227,4 @@ These dialogues are unlocked if the player has spoken to [Klaris Llfiend](Klaris
 
 ## Trivia
 
--   You can get locked out of additional dialogue from Nimea if you press the right options. The right options being "I'm not sure, sorry."
+-   You can get locked out of additional dialogue from Nimea if you press certain options. The option being "I'm not sure, sorry."

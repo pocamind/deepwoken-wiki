@@ -1,6 +1,6 @@
 ---
 title: Wind Gem
-revid: 190619
+revid: 193184
 source: https://deepwoken.fandom.com/wiki/Wind_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -23,7 +23,7 @@ categories: [Treasures, Mantras, Deep Gems]
 
 ## Description
 
-Wind Gem is a white diamond-shaped [Deep Gem](Deep_Gems.md).
+Wind Gem is a green diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
