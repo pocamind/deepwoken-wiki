@@ -1,6 +1,6 @@
 ---
 title: Prototype Railblade
-revid: 189846
+revid: 193070
 source: https://deepwoken.fandom.com/wiki/Prototype_Railblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations, Greatswords, The Ignition Union, Heavy Weapons, Weapons with multiple Criticals]
@@ -19,6 +19,7 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Weapons with
 | range | 8.5 Sweep |
 | swing speed | 0.88x |
 | attack duration | 0.7s |
+| endlag | 0.1s |
 | penetration | 25% |
 | m.equip | No |
 | m.extract | No |

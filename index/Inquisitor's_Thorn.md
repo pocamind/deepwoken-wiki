@@ -1,9 +1,9 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 192958
+revid: 193031
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
+categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
 ---
 
 # Inquisitor's Thorn
@@ -21,6 +21,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons wi
 | swing speed | 1.08x |
 | attack duration | 0.7s |
 | penetration | 10% |
+| talent | Expeditionary Evasiveness - The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Apprentice Rapier |
@@ -39,6 +40,10 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons wi
 ## Description
 
 The Inquisitor's Thorn is a LHT weapon under the Rapier category and ranked second strongest in its family. It bridges the stat gap between the [Apprentice Rapier](Apprentice_Rapier.md) and the [Crucible Rapier](Crucible_Rapier.md) by boasting an extra point of damage and scaling, 10% PEN as well as a minor swing speed increase.
+
+## Talent: Expeditionary Evasiveness
+
+Equipping the Inquisitor's Thorn grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

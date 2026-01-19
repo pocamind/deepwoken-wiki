@@ -1,6 +1,6 @@
 ---
 title: "Ysley's Pyre Keeper"
-revid: 192891
+revid: 193059
 source: https://deepwoken.fandom.com/wiki/Ysley's_Pyre_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", "Multi-Weapon Scaling", Heavy Weapons, Weapons with multiple Criticals]
@@ -19,6 +19,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weap
 | range | 8 Sweep |
 | swing speed | 0.93x |
 | attack duration | 0.7s |
+| endlag | 0.1s |
 | penetration | 15% |
 | special effect | The 2nd M1 and the crouching and sliding criticals scale on Light Weapon invest instead of Heavy Weapon. These attacks have 5 LHT scaling. |
 | m.equip | No |

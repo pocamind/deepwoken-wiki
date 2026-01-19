@@ -1,9 +1,9 @@
 ---
 title: Apprentice Rapier
-revid: 182793
+revid: 193045
 source: https://deepwoken.fandom.com/wiki/Apprentice_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
 ---
 
 # Apprentice Rapier
@@ -19,6 +19,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | range | 8 Lunge |
 | swing speed | 1.06x |
 | attack duration | 0.6s |
+| talent | Defensive Stance - Gain more parry frames the lower your health is. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Apprentice Rapier |
@@ -37,6 +38,10 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 ## Description
 
 The Apprentice Rapier is a unique light weapon due to being one of the few rapiers in the game, but also due to it's greater range compared to other light weapon options. It can be obtained via chests at [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md). Can be bought from [Etris Weaponry](Etris.md#weaponry) (25 ) and [The Floating Keep](The_Floating_Keep.md) (100 ).
+
+## Talent: Defensive Stance
+
+Equipping the Apprentice Rapier grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

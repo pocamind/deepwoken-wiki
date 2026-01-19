@@ -1,9 +1,9 @@
 ---
 title: "Champion's Dagger"
-revid: 183102
+revid: 193035
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
+categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents]
 ---
 
 # Champion's Dagger
@@ -20,6 +20,7 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 | swing speed | 1.25x |
 | attack duration | 0.5s |
 | chip damage | 10% |
+| talent | Rat's Spirit - Each hit of your critical will deal an extra 10 true damage per combat tag whenever you are combat tagged by 2 or more people. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Stiletto |
@@ -38,6 +39,10 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons
 ## Description
 
 The Champion's Dagger is a light weapon in the [dagger](Weapons.md) category.
+
+## Talent: Rat's Spirit
+
+Equipping the Champion's Dagger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

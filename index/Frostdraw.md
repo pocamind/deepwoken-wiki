@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 189345
+revid: 193156
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1335,7 +1335,7 @@ These Talents are found in the _Ice Age_ category.
 |  | Frozen Pin-Cushion  
 (60 Frostdraw, Ice Daggers) | Hitting an opponent with your Ice Daggers causes them to freeze. | Hitting an opponent with Ice Daggers will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time. |
 |  | Saint Jay  
-(25 Frostdraw, Frostbite) | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
+(25 Frostdraw, Frostbite) | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased, raise your PvE Heal Boost to 10% as well. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
 |  | Stasis Strike  
 (90 Frostdraw, 90 Weapon, Glass Path: Crystallization) | Your crystal explosions deal more damage whenever your opponent is also bottom frozen. | Your crystal detonations deal 67% more damage against targets who are bottom frozen. |
 |  | Unyielding Frost  

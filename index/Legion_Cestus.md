@@ -1,9 +1,9 @@
 ---
 title: Legion Cestus
-revid: 190977
+revid: 193029
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Fists, Light Weapons]
+categories: [Weapons, Fists, Light Weapons, Weapons with Talents]
 ---
 
 # Legion Cestus
@@ -20,6 +20,7 @@ categories: [Weapons, Fists, Light Weapons]
 | swing speed | 1.11x |
 | attack duration | 0.5s |
 | penetration | 5% |
+| talent | Static Beatdown - The metal the cestus is made from allows electricity to be conducted easily through it, allowing you to further extend how long your opponents are stuck in shaky block based on your total Thundercall investment. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -36,6 +37,10 @@ categories: [Weapons, Fists, Light Weapons]
 ## Description
 
 **Legion Cestus** is a Light Weapon that requires 30 LHT to use. It has 9 LHT scaling, 5% penetration, 5 weight, 7 range, and 1.11x Swing Speed, and a base damage of 15.
+
+## Talent: Static Beatdown
+
+Equipping the Legion Cestus grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Trivia
 

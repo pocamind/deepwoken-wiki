@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 191936
+revid: 193054
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 | range | 8.5 Sweep |
 | swing speed | 0.91x |
 | attack duration | 0.7s |
+| endlag | 0.1s |
 | penetration | 25% |
 | m.equip | No |
 | m.extract | No |

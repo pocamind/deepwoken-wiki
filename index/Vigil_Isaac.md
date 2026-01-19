@@ -1,9 +1,9 @@
 ---
 title: Vigil Isaac
-revid: 191687
+revid: 193101
 source: https://deepwoken.fandom.com/wiki/Vigil_Isaac
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Vigil Isaac
@@ -12,6 +12,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean
 |---|---|
 | name | Isaac |
 | aspect | Etrean |
+| pronouns | He/him[1] |
 | location | Temple of the Blade, Upper Erisia |
 | affiliation | Etrea |
 | family | Apprentice Kj (brother) |
@@ -108,3 +109,7 @@ Vigil Isaac is located initially at [Upper Erisia](Upper_Erisia.md), sitting inj
 </tr>
 </tbody>
 </table>
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Apprentice Kj](Apprentice_Kj.md)

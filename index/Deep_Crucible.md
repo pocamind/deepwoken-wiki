@@ -1,6 +1,6 @@
 ---
 title: Deep Crucible
-revid: 184054
+revid: 193125
 source: https://deepwoken.fandom.com/wiki/Deep_Crucible
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics]
@@ -18,7 +18,7 @@ The Deep Crucible in the front of the Hidden Village, without an artifact.
 
 The Deep Crucible is a landmark in [The Hidden Village](The_Hidden_Village.md) in which you drop an [Artifact](Artifacts.md) into to summon random waves of enemies, similar to the depths trial at level 20 with 5 drowns. These enemies spawn one by one by an orb of light flying from the artifact, and landing on the person who placed it into the crucible. If multiple people are present at the time of the artifact being placed, it spawns another set of enemies and chests per person. The challenge ends after 20 (per person) enemies have been defeated.
 
-The enemies it spawns are: [Megalodaunts](Megalodaunt.md), [Rock Golems](Rock_Golem.md), [Mudskippers](Mudskipper.md) (Normal/Bloated/Mineskipper/Rotskipper Variants), [Sworn Angels](Sworn_Angel.md), and [Brainsuckers](Brainsucker.md).
+The enemies it spawns are: [Megalodaunts](Megalodaunt.md), [Rock Golems](Rock_Golem.md) (Prime Variant), [Mudskippers](Mudskipper.md) (Normal/Bloated/Mineskipper/Rotskipper Variants), [Sworn Angels](Sworn_Angel.md), and [Brainsuckers](Brainsucker.md).
 
 It spawns 3 small chests and one large chest, possibly being better than just turning in the artifact, especially when done with multiple people, because of the extra chests.
 

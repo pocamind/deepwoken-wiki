@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 192987
+revid: 193124
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -19,6 +19,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | range | 8.5 Sweep |
 | swing speed | 0.76x |
 | attack duration | 0.9s |
+| endlag | 0.1s |
 | penetration | 10% |
 | m.equip | No |
 | m.extract | No |
@@ -57,7 +58,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Version History
 
--   Version uhhhh (May 18, 2025)
+-   Version (May 18, 2025)
     -   Enforcer's Axe HVY scaling decreased (10 -> 9)
 -   Version 1.6.8 (March 22, 2024)
     -   Critical Cooldown increased from 5 seconds to 7 seconds.

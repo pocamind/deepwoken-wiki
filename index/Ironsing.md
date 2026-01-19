@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 190060
+revid: 193129
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -984,22 +984,21 @@ These are Talents found in "_Ironsinger_" Category.
 | --- | --- | --- | --- |
 |  | Ironsinger | Grants you the ability to command Metal as an Ironsinger. Press X to Pull on Metal Rods. | Press X to pull targets with Metal Rods towards you. |
 |  | Adept Ironsinger  
-(20 Ironsing) | You can now obtain 1-star Ironsinger mantras. | N/A |
+(20 Ironsing) | You can now obtain 1-star Ironsinger mantras. |  |
 |  | Expert Ironsinger  
-(30 Ironsing) | You can now obtain 2-star Ironsinger mantras. | N/A |
+(30 Ironsing) | You can now obtain 2-star Ironsinger mantras. |  |
 |  | Master Ironsinger  
 (50 Ironsing) | You can now obtain 3-star Ironsinger mantras. | +5 Health FROM: Ironsinger |
 |  | Alloyblood  
 (100 Ironsing) | You don't Bleed like others do. [Bleed](Status_Effects.md#bleed) damage is reduced by 30%. Blood loss is reduced by 75%. | Alloyblood's effectiveness scales with your Ironsing investment, having less effectiveness if you do not meet the requirements for it. The slash damage visual effect is now **light grey**. Turns Bloodrend mantras blue-ish grey. |
 |  | Ironclad Punishment  
-(45 Ironsing) | Your Ironsing mantras deal more posture damage to enemies the more armor durability they have. | The more % of armor enemy has the more posture buff is.  
-Each 1% of armor gives extra 0.15% posture DMG. |
+(45 Ironsing) | Your Ironsing mantras deal more posture damage to enemies the more armor durability they have. | Gain a 0.15% posture damage modifier on Ironsing mantras for every 1% armor durability your opponent has. |
 |  | Laced Traps  
-(Caltrops, 45 Ironsing) | People hit by your 'Caltrops' cannot jump and are slowed for a small duration. | People hit by your 'Caltrops' Mantra cannot jump and are slowed for a small duration. |
+(Caltrops, 45 Ironsing) | People hit by your 'Caltrops' cannot jump and are slowed for a small duration, while also applying [Sluggish](Status_Effects.md#sluggish) to PvE enemies for a few seconds. |  |
 |  | Metal Shackles  
-(15 Strength, 45 Ironsing) | Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds. | Guardbreaking an opponent will prevents them from receiving speed boost for 5 seconds. |
+(15 Strength, 45 Ironsing) | Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be [Sluggish](Status_Effects.md#sluggish) for 12 seconds. |  |
 |  | Oh the Irony  
-(Taunt, 40 Charisma, 55 Ironsing) | Opponents affected by 'Taunt' receive double iron rods for the duration. | The debuff given by the "Taunt" Mantra now doubles incoming iron rods. |
+(Taunt, 40 Charisma, 55 Ironsing) | Opponents affected by '[Taunt](Attunement-less.md#taunt)' receive double iron rods for the duration. |  |
 |  | Piercing Metal  
 (POWER 13, 60 Ironsing) | Deal additional armor damage to enemies per metal rod affecting them. | Deal 5% more armor damage to enemies per metal rod affecting them. |
 |  | Thornmail  
@@ -1012,11 +1011,11 @@ These are Talents found in "_Adaptive Arsenal_" Category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | An Ironsinger's Instinct  
-(75 Ironsing) | Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken. | Upon dodging, reduce the damage taken from the next attack by 60%. |
+(75 Ironsing) | Successfully dodging an attack coats you in metal and reduces the damage of the next attack taken. | Upon dodging, reduce the damage taken from the next attack by 60%. 18 second cooldown. |
 |  | Exposed Durability  
-(60 Ironsing) | Deal 10% more damage to opponents with no armor durability left. | Increased damage Talent |
+(60 Ironsing) | Deal 10% more damage to opponents with no armor durability left. |  |
 |  | Phantom Edge  
-(75 Ironsing) | Your weapon M1's have +0.25 range. | Increased weapon range. |
+(75 Ironsing) | Your weapon M1's have +0.25 range. |  |
 
 **Metallurgist:**
 
@@ -1027,11 +1026,11 @@ These are Talents found in "_Metallurgist_" Category.
 |  | Heavy Shoulders  
 (55 Ironsing) | If your opponent has 3 or more rods, their dodges are slower. | Reduces roll distance by 30% |
 |  | Intuitive Repairs  
-(Iron Skin, 25 Ironsing) | Your 'Iron Skin' repairs armor while it's active. | Iron Skin regenerates your regular armor's and your natural armor's durability(from Chitin and Exoskeleton). |
+(Iron Skin, 25 Ironsing) | Your 'Iron Skin' repairs armor while it's active. | Iron Skin regenerates your regular armor's and your Natural Armor's durability (from Chitin and Exoskeleton). |
 |  | Metal Absorption  
 (Iron Hug, 45 Ironsing) | Your 'Iron Hug' also absorbs armor from the enemy. | Landing the Iron Hug Mantra will absorb 15% of current enemy's armor durability. |
 |  | Metal Eater  
-(50 Ironsing) | When you have no Ether, consume Armor durability to cast your Ironsing mantras. | Takes 30% armor to cast Ironsing mantra (Fixed % armor per metal eater proc) |
+(50 Ironsing) | When you have no Ether, consume Armor durability to cast your Ironsing mantras. | Drains 30% of your maximum armor durability on proc. |
 |  | Metal Thief  
 (50 Ironsing) | Pulling an opponent absorbs a portion of their current Armor durability. | Each individual rod absorbs 2% of current enemy's armor durability. |
 |  | Polished Armor  

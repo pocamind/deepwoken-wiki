@@ -1,9 +1,11 @@
 ---
 title: Interluminary Parasol
-revid: 192781
+revid: 193112
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
+notices:
+  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily."
 ---
 
 # Interluminary Parasol
@@ -126,6 +128,6 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   Currently, the parasol will not spawn despite having a marker on the map.
+-   Currently, the parasol will not spawn despite having a marker on the map. This has gone unpatched for a month now so I (Deddogfunreal) have given it the vaulted banner because it is.
 -   Probably inspired in Metroids by Metroid series.
 -   Ragoozer accidentally leaked the existence of the parasol shortly after Verse 2's release. A few months after, it was confirmed by Arch\_mage that the boss was a work-in-progress at the time. Ironically enough, the boss was released almost 2 years after Ragoozer first leaked it.

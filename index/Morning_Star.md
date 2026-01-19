@@ -1,9 +1,9 @@
 ---
 title: Morning Star
-revid: 192963
+revid: 193033
 source: https://deepwoken.fandom.com/wiki/Morning_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Clubs, Medium Weapons]
+categories: [Weapons, Clubs, Medium Weapons, Weapons with Talents]
 ---
 
 # Morning Star
@@ -21,6 +21,7 @@ categories: [Weapons, Clubs, Medium Weapons]
 | attack duration | 0.6s |
 | penetration | 20% |
 | chip damage | 20% |
+| talent | Extended Trauma - Successful light attacks and criticals on your opponent now also gives them a bit of posture. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Mace |
@@ -39,6 +40,10 @@ categories: [Weapons, Clubs, Medium Weapons]
 ## Description
 
 The **Morning Star** is a blunt club type medium weapon. It can be considered the midgame version of the [Mace](Mace.md).
+
+## Talent: Extended Trauma
+
+Equipping the Morning Star grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 

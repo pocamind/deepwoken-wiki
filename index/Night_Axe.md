@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 191932
+revid: 193044
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -19,6 +19,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 | range | 8.5 Sweep |
 | swing speed | 0.77x |
 | attack duration | 0.9s |
+| endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 80% |
 | m.equip | No |

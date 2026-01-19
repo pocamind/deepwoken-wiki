@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 191162
+revid: 193022
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -212,6 +212,9 @@ This page is about content that has either been removed or changed drastically i
 -   **Firmly Planted** \[Common Talent, Fortitude, Willpower\] - All slow debuffs towards you are reduced by 30%
     -   In the June 21th, 2024 update, Firmly Planted was made innate.
 
+-   **Fishman** \[Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)sssss
+    -   In the January 18th, 2026 update, Fishman was made innate.
+
 -   **Flaming Rebound** \[Rare Talent, Flamecharm\] - Landing fire mantras will restore your Tempo. (+3 Elemental Intensity)
     -   In the December 23rd, 2022 update, Flaming Rebound was removed and replaced by Elemental Rebound.
 
@@ -358,6 +361,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Scorched Earth** \[Common Talent, Flamecharm\] - Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD
     -   In the June 21st, 2024 update, Scorched Earth was merged into Flash Point.
+
+-   **Scuba Drowner** \[Rare Talent\] - You won't always drown to death when downed in water. (+3 Passive Agility, +5 Health)
+    -   In the January 18th, 2026 update, Scuba Drowner was made innate and reworked, now always preventing death if your remaining blood is above 50% and no longer utilizing a cooldown.
 
 -   **Shatter Spear** \[Rare Talent, Frostdraw\] - Your ice spear now lodges into human opponents and explodes. (+5 Elemental Intensity, +3 Health)
     -   In the May 15, 2023 update, Shatter Spear was removed as it became a base behavior for Ice Lance.

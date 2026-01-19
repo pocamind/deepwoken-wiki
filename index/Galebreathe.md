@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 192370
+revid: 193130
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -928,13 +928,13 @@ These Talents are found in the _Galebreather_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Galebreather  
-(1 Galebreathe) | Grants you the ability to command Wind as a Galebreathe. | N/A |
+(1 Galebreathe) | Grants you the ability to command Wind as a Galebreathe. |  |
 |  | Adept Galebreather  
-(20 Galebreathe) | You can now obtain 1-star Galebreathe mantras. | N/A |
+(20 Galebreathe) | You can now obtain 1-star Galebreathe mantras. |  |
 |  | Expert Galebreather  
-(30 Galebreathe) | You can now obtain 2-star Galebreathe mantras. | N/A |
+(30 Galebreathe) | You can now obtain 2-star Galebreathe mantras. |  |
 |  | Master Galebreather  
-(50 Galebreathe) | You can now obtain 3-star Galebreathe mantras. (+5 Health) | N/A |
+(50 Galebreathe) | You can now obtain 3-star Galebreathe mantras. (+5 Health) |  |
 
 **Aeromancer:**
 
@@ -945,15 +945,15 @@ These Talents are found in the _Aeromancer_ category.
 |  | Aerogliding  
 (35 Galebreathe, 30 Agility) | When falling from a high place, hold spacebar to generate wind currents until you hit the floor. Also gives you more airtime with Gliders. (+2 Passive Agility) | Aerogliding slows your falls, preventing fall damage in some cases. Your gliders move almost horizontally, allowing for much greater travel distance. |
 |  | Aeronade  
-(40 Galebreathe, Galetrap (Mantra)) | Your trap automatically detonates on contact with an object. (+2 Passive Agility) | N/A |
+(40 Galebreathe, Galetrap (Mantra)) | Your trap automatically detonates on contact with an object. (+2 Passive Agility) |  |
 |  | Stifled Jump  
-(Suffocating Impact) | Enemies who jump while suffocated by you are dazed. (+2 Passive Agility) | N/A |
+(Suffocating Impact) | [Suffocating](Status_Effects.md#suffocate) now applies [Dazed](Status_Effects.md#dazed) if enemies jump. Suffocated PvE enemies now also get [Sluggish](Status_Effects.md#sluggish) when they are suffocated. (+2 Passive Agility) |  |
 |  | Suffocating Impact  
-(35 Galebreathe, 15 Strength) | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) | N/A |
+(35 Galebreathe, 15 Strength) | When flourishing enemies into walls they are suffocated and winded for a short duration. (+2 Passive Agility) |  |
 |  | Gale Trap  
-(40 Galebreathe) | Knocking a player tags them with a wind trap, causing anyone to pick up that body to get sent flying. However, if you pick up the body you gain a speed boost for 20 seconds. | N/A |
+(40 Galebreathe) | Knocking a player places a wind trap, causing anyone to pick up that body to get sent flying. Gain a speed boost picking up the body yourself. Killing PvE opponents gives you [Gale Reflection](Status_Effects.md#gale-reflection) instead. | Gale Reflection procs upon getting hit by an enemy, granting damage reduction and placing a Gale Trap on them. The damage of the Gale Trap scales with the strength of the enemy you killed. |
 |  | Vacuum Punch  
-(20 Galebreathe, Gale Punch) | Your Gale Punch pulls enemies in before you hit them. | N/A |
+(20 Galebreathe, Gale Punch) | Your Gale Punch pulls enemies in before you hit them. |  |
 
 **Galeforce:**
 
@@ -964,7 +964,7 @@ These Talents are found in the _Galeforce_ category.
 |  | After Cut  
 (40 Galebreathe) | If an attack is physical and wind, it will apply an after cut that does 10% of the damage you dealt. If the attack was a mantra, it does 5% damage instead. | The only Galebreathe mantras that benefit from the 5% damage increase are: Wind Blade, Air Force, Tornado Kick, Tornado, Galetrap, and Wind Gun. |
 |  | Breathing Impact  
-(30 Galebreathe) | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. | N/A |
+(30 Galebreathe) | Knocking enemies into objects with wind spells deals additional blunt damage based on how hard they're hit. |  |
 |  | Inhale  
 (60 Galebreathe) | Cancelling a wind spell stores its power in your lungs for 5 seconds, empowering the next wind spell cast in that time. | This will stack the [Mantra Modifiers](Mantra_Modifiers.md) that were on the Inhaled mantra onto the next one you cast. Additionally, the next gale mantra you cast after Inhaling will receive a damage buff. This damage buff is (Inhaled mantra's level times 2)%; meaning a level 1 Inhale will be +2% damage while a level 5 Inhale will be +10%. Inhaling will also grant a Speed Boost and will imbue your melees with wind. |
 
@@ -975,13 +975,13 @@ These Talents are found in the _Legion Shock Trooper_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Air Pressure  
-(50 Galebreathe, 20 Agility) | Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility) | N/A |
+(50 Galebreathe, 20 Agility) | Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility) |  |
 |  | Cyclone Blade  
 (55 Galebreathe, 30 Agility, Air Pressure) | After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility) | Despite the Talent description stating "Light attack", it also grants bleed to weapon criticals. This lasts 3 seconds with no cooldown and also procs on Phantom Step dashes. |
 |  | Pressure Break  
-(65 Galebreathe, 30 Strength OR 30 Agility, Air Pressure) | Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility) | N/A |
+(65 Galebreathe, 30 Strength OR 30 Agility, Air Pressure) | Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility) |  |
 |  | Wind Step  
-(40 Galebreathe) | Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. | N/A |
+(40 Galebreathe) | Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards. |  |
 
 **Maestro's Technique:**
 
@@ -1010,7 +1010,7 @@ These Talents are found in the _Scholar of the Cloud_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Windwaker  
-(50 Galebreathe, Quest Talent) | Call upon a gust of wind to propel your boat even faster. | N/A |
+(50 Galebreathe, Quest Talent) | Call upon a gust of wind to propel your boat even faster. |  |
 
 **Silencer:**
 
@@ -1033,11 +1033,11 @@ These Talents are found in the _Specter_ category.
 |  | Haunted Path: Specter  
 (Haunted Gale, 50 Galebreathe) | Build up spectral energy by performing successful dodges and landing Wind mantras. Phantom winds from Haunted Gale no longer appear. You can no longer suffocate enemies. | Turns your Galebreathe white. |
 |  | Apparitions  
-(Haunted Path: Specter, 50 Galebreathe) | Instead of Haunted Gale Phantoms, each proc will now send apparitions towards your enemy. The apparitions apply 'Winded' where 'Suffocation' would suffice. Apparitions cannot be parried if you are in 'Phantom Step'. | N/A |
+(Haunted Path: Specter, 50 Galebreathe) | Instead of Haunted Gale Phantoms, each proc will now send apparitions towards your enemy. The apparitions apply 'Winded' where 'Suffocation' would suffice. Apparitions cannot be parried if you are in 'Phantom Step'. |  |
 |  | Phantom Step  
 (Haunted Path: Specter, 55 Galebreathe) | Press X to begin running at high speeds and your regular dashes transform into gale dashes. (Must have at least 10% Spectral Gauge) | Grants a speed boost for the full duration of this effect. |
 |  | Vanishing Wraith  
-(Phantom Step, 60 Galebreathe) | Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target | N/A |
+(Phantom Step, 60 Galebreathe) | Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target |  |
 |  | Possession  
 (Haunted Path: Specter, 75 Galebreathe) | After an apparition hits an enemy, receive 15% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration | These bonuses will be lessened if you have less than 75 Galebreathe. |
 

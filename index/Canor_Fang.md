@@ -1,9 +1,9 @@
 ---
 title: Canor Fang
-revid: 183104
+revid: 193039
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons]
+categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
 ---
 
 # Canor Fang
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 | swing speed | 1.25x |
 | attack duration | 0.5s |
 | penetration | 5% |
+| talent | Clutch Recovery - When at 30% health or below, every time you land a light attack or critical hit heal 1%. |
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
@@ -37,7 +38,11 @@ categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Critic
 
 The Canor Fang is a LHT weapon in the Dagger category that can be obtained by enemy NPC chests in [Songseeker Wilds](Songseeker_Wilds.md) and [Minityrsa](Minityrsa.md). It's a pretty solid weapon if there's no better alternatives.
 
-Notably, this weapon have the highest weight stat of any daggers, at 5. Most other daggers have 4 or 3. This makes this dagger the best at potentialy breaking the posture of opponents.
+Notably, this weapon have the highest weight stat of any daggers, at 5. Most other daggers have 4 or 3. This makes this dagger the best at potentially breaking the posture of opponents.
+
+## Talent: Clutch Recovery
+
+Equipping the Canor Fang grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 ## Critical
 
