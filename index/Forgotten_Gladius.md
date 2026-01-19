@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 185711
+revid: 192956
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]

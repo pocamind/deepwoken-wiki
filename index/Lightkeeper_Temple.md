@@ -1,9 +1,11 @@
 ---
 title: Lightkeeper Temple
-revid: 188756
+revid: 192924
 source: https://deepwoken.fandom.com/wiki/Lightkeeper_Temple
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
+categories: [In progress without reason, InProgressPages, Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Voidzones]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Lightkeeper Temple
@@ -14,21 +16,30 @@ This content is not accessible outside of this gamemode.
 
 Template:Location2
 
-**NOTE:** **IF YOU CAME HERE TO WASH YOUR FACE, GO LEFT WHEN YOU GET HERE. GOING RIGHT WILL LEAD YOU TO A KING THRESHER.**
-
 ## Overview
 
-**Lightkeeper Temple** is an abandoned temple that was once home to Lightkeepers. It used to be one of the many voidzones in [The Starswept Valley.](The_Starswept_Valley.md)
+**Lightkeeper Temple** is a now abandoned temple that was once home to Lightkeepers. It is the present day [Temple of Mur](Temple_of_Mur.md).
 
-The temple is located behind [Widow's Hollow](<Widow's_Hollow.md>). You may choose to go around, where you'll have to climb the mountain and follow a set of stairs, or you can go through the room where the [Widow](Deep_Widow.md) is. You may find that the temple doors are shut, so you'll have to enter through a hole down to a garden. You'll find this by turning left instead of right where you'd find the temple, and climbing up. Follow the path, to where you'll find your way in.
+The temple's entrance is along the route taken to the [Widow's Hollow](<Widow's_Hollow.md>). One of the jail cells inside of the temple leads to the [Deep Thresher Nest](Deep_Thresher_Nest.md).
 
-Location of lightkeeper Temple on the Eastern Luminant Map
+## Contents
+
+### [Blindseer Glyph](<%253F%253F%253F_(Blindseer_Glyphs).md>)
+
+The Blindseer Glyph inside of the Lightkeeper Temple
+
+-   Inside one of the jail cells there is a glyph that is interactable, but will only call out to those who have the [Blindseer](Oath%253A_Blindseer.md) [Oath](Oaths.md).
+-   It describes the long sunken city, Celtor, and its fall into the [First Layer](First_Layer.md).
+
+## Maps
+
+A map can be found [here](Maps.md#eastern-luminant).
 
 ## Trivia
 
--   Washing your face can be done once you are at least power 10, and will cause the gate at [The Starswept Valley](The_Starswept_Valley.md) to open, granting access to [The Lordsgrove](The_Lordsgrove.md). This will also give you the ability to use the Fountains at [Greathive Aratel](Greathive_Aratel.md). After this, you do not have to do it again for any of your slots - simply going to the Eastern Luminant will activate all fountains.
--   In the dungeon section of the temple, there is an extra jail cell on the right side covered by an indestructible false wall.
--   Before the stairs leading up to the fountain used to wash your face there is an Obelisk that glows purple. A similar one that glows green can be found at [Songseeker Wilds](Songseeker_Wilds.md), and one that glows blue can be found underneath the coffin inside the Tomb of the Nameless Warrior (both have no apparent use).
--   Falling into the fog in the room where you wash your face will kill you.
--   This place used to be a [Voidzone](Voidzones.md) and dying here would send you to the [First Layer](First_Layer.md).
+-   Before completely changing into the [Temple of Mur](Temple_of_Mur.md), the Lightkeeper Temple was a much larger set of rooms and hallways littered with [Threshers](Thresher.md) and [King Threshers](King_Thresher.md).
+    
+    -   The player was able to wash their face from the fountain inside of the room with the obelisk, allowing access to [The Lordsgrove](The_Lordsgrove.md) and the ability to use the [Fountain Gates](Fountain_Gates.md) anywhere within Lumen.
+    -   An abundance of extra rooms and [Thresher Eggs](Thresher_Egg.md) were present throughout the temple, with even a large prison located in the bottom.
+    
 -   During early testing, this area was called "Stormcaller Temple," with its caption being "???"

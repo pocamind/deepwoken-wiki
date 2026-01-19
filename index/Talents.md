@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 192857
+revid: 193005
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3981,7 +3981,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _**Switchblade**_ \[Advanced Talent, Light Weapon, Medium/Heavy Weapon\] - You can now utilize Dagger Talents when not wielding a dagger.
     -   Prerequisites: 50 Light Weapon, 50 Medium Weapon/50 Heavy Weapon
 
--   Warrior's Swing \[Common Talent, Heavy Weapon\] - Heavy Weapons Reduces incoming damage by 20% if hit during Heavy swing hyperarmor.
+-   Warrior's Swing \[Common Talent, Heavy Weapon\] - Heavy Weapons Reduces incoming damage by 5% if hit during Heavy swing hyperarmor.
     -   Prerequisite: 30 Heavy Weapon
 
 ### Whisper

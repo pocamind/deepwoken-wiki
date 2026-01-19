@@ -1,6 +1,6 @@
 ---
 title: Way of Navae
-revid: 190089
+revid: 192932
 source: https://deepwoken.fandom.com/wiki/Way_of_Navae
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons, The Children of Navae, Navae Weapons]
@@ -55,7 +55,7 @@ It may also be obtained by speaking to an [Eastern Nomad Leader](Eastern_Nomad_L
 
 Completing either of these methods will grant you the Way of Navae Talent which enables you to use the fist style and unlock it for consecutive uses on the Character Creation screen.
 
-## Notes & Trivia
+## Trivia
 
 -   Slide jumping with using the **Way of Navae** critical can make it easier to land.
     -   You'll use your sliding momentum to dash forward.

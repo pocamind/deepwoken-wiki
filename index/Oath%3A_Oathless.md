@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 191782
+revid: 192974
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]

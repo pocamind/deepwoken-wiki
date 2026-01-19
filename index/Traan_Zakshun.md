@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 192855
+revid: 192954
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -12,7 +12,7 @@ categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him 
 |---|---|
 | name | Traan Zakshun |
 | aspect | Canor |
-| pronouns | He/him[1] |
+| pronouns | He/him[1][2] |
 | location | Lower Erisia |
 | family | Naan Zakshun (grandmother)[1] |
 
@@ -443,9 +443,10 @@ Sold Items
     -   "_...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._" is a reference to a running joke in _Terraria_ that involves several merchant NPCs referencing the Angel Statue item.
     -   "_You want it? It's yours, my friend! As long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
     -   "_Colour makes us hungry - everything's connected!" is a reference to Redesign your Logo by Lemon Demon._
--   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[2\]](#cite-note-0-2) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting their hands dirty themselves.
+-   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[3\]](#cite-note-0-3) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting their hands dirty themselves.
 
 ## References
 
 1.  ↑ [1.0](#cite-ref-nan-1-0) [1.1](#cite-ref-nan-1-1) [1.2](#cite-ref-nan-1-2) [Naan Zakshun](Naan_Zakshun.md)
-2.  [↑](#cite-ref-0-2-0)
+2.  [↑](#cite-ref-2) [Scoundrel's Saber](<Scoundrel's_Saber.md>) description
+3.  [↑](#cite-ref-0-3-0)

@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 191949
+revid: 192959
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -630,8 +630,6 @@ Fire
 **Effect:** _User propels themselves forwards and grabs their foes, immolating them. If this lands, the user gains a damage buff._
 
 -   The damage buff granted by this mantra does not have a time limit and applies to all sources of damage, including each tick of burn.
-
-Feinting this will give you infinite I-frames.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Kanabo
-revid: 186108
+revid: 193007
 source: https://deepwoken.fandom.com/wiki/Kanabo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Etrea, Heavy Weapons]
@@ -34,7 +34,7 @@ categories: [Weapons, Greathammers, "Core-Attribute based weapons", Weapons with
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest, Duke Erisia, War Mode, Etris: Siege, Interluminary Parasol, The Doom of Caeranthil, Fishing |
-| description | Once a staple weapon in Etrea's Arsenal, renowned for its scale and brute force, it was wielded by the heavy infantry of the King's Guard. These ironclad warriors used kanabos to enforce the King's will and maintain order across the Etrean Luminant. Today, its use has become significantly less common, with Etrea favouring the development of its blades instead. |
+| description | Once a staple weapon in Etrea's arsenal, renowned for its scale and brute force, it was wielded by the heavy infantry of the King's Guard. These ironclad warriors used kanabos to enforce the King's will and maintain order across the Etrean Luminant. Today, its use has become significantly less common, with Etrea favouring the development of its blades instead. |
 
 ## Description
 
@@ -55,4 +55,3 @@ Both criticals share the cooldown of **8 seconds**.
 -   A Kanabō, meaning "metal stick," was a weapon used in feudal Japan. The variant seen in _Deepwoken_ more closely resembles exaggerated depictions seen in mythological and fictional works wielded by _[Oni](https://en.wikipedia.org/wiki/Oni)_, Japanese demons.
 -   The weapon normal attack matches that of a greatsword.
 -   Max damage with 100 STR and 100 HVY does 52.5 damage with max proficiency.
--   The running critical is likely a reference to [The Oni's](<https://deadbydaylight.fandom.com/wiki/Kazan_Yamaoka#Power:_Yamaoka's_Wrath>) power Demon Dash from _Dead by Daylight_

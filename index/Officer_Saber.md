@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 182761
+revid: 192949
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]

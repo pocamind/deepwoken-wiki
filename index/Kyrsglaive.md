@@ -1,6 +1,6 @@
 ---
 title: Kyrsglaive
-revid: 187331
+revid: 192962
 source: https://deepwoken.fandom.com/wiki/Kyrsglaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -55,4 +55,3 @@ Both criticals has a cooldown of **6 seconds**.
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), **Kyrsglaive**, [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), [Kyrsieger](Kyrsieger.md))
 -   This weapon was given a new Critical on February 1st, 2025, replacing the default spear critical.
 -   It is the only Kyrs series weapon with a description.
--   Weapons of Kyrsan craftmanship are made of either [Bone Keepers](Bone_Keeper.md) or an unknown species in the [Eternal Gale](Second_Layer.md).

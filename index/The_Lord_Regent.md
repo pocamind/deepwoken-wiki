@@ -1,6 +1,6 @@
 ---
 title: The Lord Regent
-revid: 192571
+revid: 192923
 source: https://deepwoken.fandom.com/wiki/The_Lord_Regent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, NPCs, Quests, Etrea, The Ministry, Oath Trainer, NPCs located in the Etrean Luminant, Heads of government and state]
@@ -25,7 +25,7 @@ Template:ModeCounterpart
 
 ## Description
 
-Zi'eer, more commonly known as the Lord Regent, or by his title, the Fourth Prophet of [The Ministry](The_Ministry.md),[\[1\]](#cite-note-oc-1) is a mysterious and powerful NPC that resides exclusively inside his palace within [Etris](Etris.md). He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power, as well as the fact that his actions appear to be in the best interests of Etris. However, Warden Jericho, a powerful member of [The Authority](The_Central_Authority.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning.
+Zi'eer, more commonly known as the Lord Regent, or by his title, the Fourth Prophet of [The Ministry](The_Ministry.md),[\[1\]](#cite-note-oc-1) is a mysterious and powerful NPC that resides exclusively inside his palace within [Etris](Etris.md). He is the interim ruler of Etrea, holding absolute power over the entire nation until the "King" returns to his people. Nobody is sure of his origins, but they accept him for his formidable power, as well as the fact that his actions appear to be in the best interests of Etris. However, [Warden Jericho](Warden_Jericho.md), believes that The Lord Regent is a member of the long thought deceased Contractors, and may bring about a 'great war' which will cause the second Great Drowning.
 
 While he appears as an Etrean, his true form is a dark creature covered in emerald eyes and black tentacles. Whether this is his true species or aggressive mutations from his meddling with the world's natural order is unknown.[\[5\]](#cite-note-opr-5)
 
@@ -50,73 +50,71 @@ After talking to the [Royal Etrean Guard](Royal_Etrean_Guard.md) during the [que
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td colspan="16">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, if it isn't [Name]! I've been expecting you. How have your travels been?</td>
+  <td colspan="16">Ah, if it isn't [Full Name]! I've been expecting you. How have your travels been?</td>
 </tr>
 <tr>
-  <td colspan="12">Fine.</td>
+  <td colspan="16">Fine.</td>
 </tr>
 <tr>
-  <td colspan="12">Oh, come on now, don't be so short. Let's chat. Do you know why I summoned you?</td>
+  <td colspan="16">Oh, come on now, don't be so short. Let's chat. Do you know why I summoned you?</td>
 </tr>
 <tr>
-  <td colspan="9">Yes.</td>
-  <td colspan="3">No.</td>
+  <td colspan="8">Yes.</td>
+  <td colspan="8">No.</td>
 </tr>
 <tr>
-  <td colspan="9">Really? You knew I was going to recruit your service already? You're really full of surprises, aren't you.</td>
-  <td colspan="3">An experienced adventurer like yourself who has become quite a big name in Etrea, and you haven't a clue? I called you to recruit your service, of course.</td>
+  <td colspan="8">Really? You knew I was going to recruit your service already? You're really full of surprises, aren't you.</td>
+  <td colspan="8">An experienced adventurer like yourself who has become quite a big name in Etrea, and you haven't a clue? I called you to recruit your service, of course.</td>
 </tr>
 <tr>
-  <td colspan="9">Recruit my service?</td>
-  <td colspan="3">Recruit my service?</td>
+  <td colspan="16">Recruit my service?</td>
 </tr>
 <tr>
-  <td colspan="9">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in.</td>
-  <td colspan="3">[See first instance]</td>
+  <td colspan="16">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in.</td>
 </tr>
 <tr>
-  <td colspan="9">What do you need from Erisia?</td>
+  <td colspan="16">What do you need from Erisia?</td>
 </tr>
 <tr>
-  <td colspan="9">What else? The forge of Sin. It should be located in the manor of the one known as 'Duke Erisia'. I hear you're more of an adventurer than a burglar, but luckily for you break-and-entry won't be necessary. I have the key.</td>
+  <td colspan="16">What else? The forge of Sin. It should be located in the manor of the one known as 'Duke Erisia'. I hear you're more of an adventurer than a burglar, but luckily for you break-and-entry won't be necessary. I have the key.</td>
 </tr>
 <tr>
+  <td colspan="4">I'll go.</td>
+  <td colspan="4">Why do you have the key?</td>
+  <td colspan="4">The Forge of Sin?</td>
+  <td colspan="4">Who is this Duke?</td>
+</tr>
+<tr>
+  <td colspan="4">Splendid! Here's the key. You're of course welcome back once you've retrieved the Forge. Nice chatting with you.</td>
+  <td colspan="4"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
+  <td colspan="4"><i>*The Lord Regent seems bothered by your questioning, but relents.*</i> An artifact from <font>below</font>... One with properties much to my liking.</td>
+  <td colspan="4"><i>*The Lord Regent scoffs in derision, letting his demeanour slip.*</i> A remnant of some long-dead backwater of a nation. His use of the Forge is amateur at best. If it were in <i>our</i> hands...</td>
+</tr>
+<tr>
+  <td colspan="4">[End Dialogue]</td>
+  <td colspan="4">I'll go.</td>
   <td colspan="2">I'll go.</td>
   <td>Why do you have the key?</td>
-  <td colspan="3">The Forge of Sin?</td>
-  <td colspan="3">Who is this Duke?</td>
-</tr>
-<tr>
-  <td colspan="2">Splendid! Here's the key. You're of course welcome back once you've retrieved the Forge. Nice chatting with you.</td>
-  <td><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
-  <td colspan="3"><i>*The Lord Regent seems bothered by your questioning, but relents.*</i> An artifact from below... One with properties much to my liking.</td>
-  <td colspan="3"><i>*The Lord Regent scoffs in derision, letting his demeanour slip.*</i> A remnant of some long-dead backwater of a nation. His use of the Forge is amateur at best. If it were in <b>our</b> hands...</td>
-</tr>
-<tr>
-  <td colspan="2">[End Dialogue]</td>
-  <td>I'll go.</td>
-  <td>I'll go.</td>
-  <td>Why do you have the key?</td>
   <td>What do you intend to do with it?</td>
-  <td>I'll go.</td>
+  <td colspan="2">I'll go.</td>
   <td>Why do you have the key?</td>
-  <td>Who do you mean by our?</td>
-</tr>
-<tr>
-  <td colspan="2"></td>
-  <td colspan="2">[See first instance]</td>
-  <td colspan="2"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
-  <td>[See first instance]</td>
-  <td colspan="2"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
+  <td>Who do you mean by 'our'?</td>
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="2">[End Dialogue]</td>
-  <td></td>
-  <td colspan="2">[End Dialogue]</td>
+  <td colspan="6">[See first instance]</td>
+  <td colspan="2"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
+  <td colspan="2">[See first instance]</td>
+  <td colspan="2"><i>*The Lord Regent merely tilts his head, seemingly puzzled by your incessent questioning*</i></td>
+</tr>
+<tr>
+  <td colspan="10"></td>
+  <td colspan="2">[See first instance]</td>
+  <td colspan="2"></td>
+  <td colspan="2">[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -131,13 +129,13 @@ After talking to the [Royal Etrean Guard](Royal_Etrean_Guard.md) during the [que
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2">So, [Name], I'll be recruiting your services.</td>
+  <td colspan="2">So, [Full Name], I'll be recruiting your services.</td>
 </tr>
 <tr>
   <td colspan="2">Recruit my service?</td>
 </tr>
 <tr>
-  <td colspan="2">Indeed. You see- I've come to want something from Erisia, and with how busy I've been lately around here, I don't quite have the time to go fetch it myself. That's where you come in. Of course, this is still a great risk for me to risk making deals with a filthy, void-touched assassin such as yourself, is it not? I'm placing quite an amount of trust in you, you see.</td>
+  <td colspan="2">Indeed. You see - I've come to want something from Erisia, and with how busy I've been lately around here I don't quite have the time to go fetch it myself. That's where you come in. Of course, this is still a great risk for me to risk making deals with a filthy, void-touched assassin such as yourself, is it not? I'm placing quite an amount of trust in you, you see.</td>
 </tr>
 <tr>
   <td>What do you need from Erisia?</td>

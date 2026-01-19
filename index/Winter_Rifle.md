@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 189843
+revid: 192968
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
