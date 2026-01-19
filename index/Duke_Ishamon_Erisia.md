@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 191729
+revid: 192883
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -322,30 +322,30 @@ Exhaustive Loot Table
   </td>
 </tr>
 <tr>
-  <td colspan="6">The Lord Regent sent me to retrieve the Forge.</td>
-  <td colspan="6">What are you doing with the forge?</td>
+  <td colspan="12">The Lord Regent sent me to retrieve the Forge.</td>
   <td colspan="6">[Player has <a href="Oath%253A_Contractor.md">Contractor</a>]</td>
 </tr>
 <tr>
-  <td colspan="6">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.<br>
+  <td colspan="12">That thing is finally making its move. hm? I'd thought it would come personally, but the Lord Regent must see me as a mere agent's workload.<br>
   </td>
-  <td colspan="6"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you indolent worm. With it, I turn useless fools like you into something of use... You don't know what I do for all mankind.</td>
   <td colspan="6">Let's skip the pleasantries, you know why I'm here.</td>
 </tr>
 <tr>
   <td colspan="6">That 'thing'? Agent?</td>
-  <td colspan="6">[End Dialogue], fight starts</td>
+  <td colspan="6">What are you doing with the forge?</td>
   <td colspan="6">You're right, there's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.<br>
   </td>
 </tr>
 <tr>
   <td colspan="6"><i>*Duke eyes you up and down for a moment before bursting into a roaring laughter.*</i><br>
   </td>
-  <td colspan="6"></td>
+  <td colspan="6"><i>*He narrows his eyes, deathly cold.*</i> Everything I can do to stop the oncoming catastrophe, you indolent worm. With it, I turn useless fools like you into something of use... You don't know what I do for all mankind.<br>
+  </td>
   <td colspan="6">[End Dialogue], fight starts</td>
 </tr>
 <tr>
   <td colspan="6">What?</td>
+  <td colspan="6">[End Dialogue], fight starts</td>
 </tr>
 <tr>
   <td colspan="2">[Other Origin]</td>
@@ -357,14 +357,14 @@ Exhaustive Loot Table
   </td>
   <td colspan="2"><i>*Duke smiles.*</i> I'd thought for sure you were an agent, but you're what- let me guess, some accursed fool the Divers have made their latest charity project? That island's prospects are certainly grim...<br>
   </td>
-  <td colspan="2"><i>*Duke smiles.*</i> Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...<br>
+  <td colspan="2">Etrea has really stooped to hiring the blades of its enemies? That island's prospects are certainly grim...<br>
   </td>
 </tr>
 <tr>
   <td colspan="6">What are you talking about?</td>
 </tr>
 <tr>
-  <td colspan="6">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen The Manor's layout roam free.<br>
+  <td colspan="6">There's no real point in explaining further, as this is the end of the line. Even if you gave up on the Forge, I'm not about to let one who's seen this manor's layout roam free.<br>
   </td>
 </tr>
 <tr>

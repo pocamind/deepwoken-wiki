@@ -1,6 +1,6 @@
 ---
 title: Bookkeeper Andros
-revid: 192398
+revid: 192871
 source: https://deepwoken.fandom.com/wiki/Bookkeeper_Andros
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -111,7 +111,7 @@ Bookkeeper Andros is located in [Etris](Etris.md) in his small library that is n
 
 **Unlockable Dialogues:**
 
-**The Old King of Etrea:**
+**Old King of Etrea:**
 
 This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and asked "What do you think of The Lord Regent?"
 
@@ -174,7 +174,7 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 </tbody>
 </table>
 
-**The Mur of Light:**
+**Mur of Light:**
 
 This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and asked "This King - is he some kind of god?"
 
@@ -224,6 +224,48 @@ This dialogue is unlocked if the player has spoken to [Theadre](Theadre.md) and 
 </tr>
 <tr>
   <td colspan="3">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Lord Regent:**
+
+This dialogue is unlocked if the player has started the "Lord Regent Who?" [Quest](Quests.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>These old books are more of a passing fancy of mine, but I've heard there's an order of scholars that devote their life to researching the <a href="Glossary.md#the-old-world">old world</a>. Don't you wonder what things were like back then?</td>
+</tr>
+<tr>
+  <td>Is there anything you can tell me about Etris?</td>
+</tr>
+<tr>
+  <td>If you head past the inn, you'll find the Lord Regent's estate. I would not advise entering without an invitation, however. Even a bookish fool such as I knows when I am not welcome.</td>
+</tr>
+<tr>
+  <td>Who is this Lord Regent exactly?</td>
+</tr>
+<tr>
+  <td>The Lord Regent is the 'acting regent' of Etrea. That is to say, he is not the prophesied King, but he still holds absolute power over Etrea. In recent years, he has sequestered himself away in his palace, rarely making an appearance. Some worry that he has grown ill, but considering that his duties have not been passed on to any of his officials, I doubt this is the case.</td>
+</tr>
+<tr>
+  <td>Do you know anything about his rise to power? A guard I met is curious about what has become of Etrean politics.</td>
+</tr>
+<tr>
+  <td>What's perhaps more interesting is that we <i>don't</i> know all too much about his rise to power. Before his rise to power, there was an officially recognised historian in the Etrean court. I had once hoped that I myself could fill such a position, but it no longer exists. It's said that when the Lord Regent came to power, half of the books in the libraries disappeared overnight.</td>
+</tr>
+<tr>
+  <td>Do you know what happened to those records?</td>
+</tr>
+<tr>
+  <td>It didn't seem wise to make a fuss over them. They were simply articles of public knowledge at the time, so I doubt they were stolen or anything like that. Whatever became of them is clearly nothing of anyone's business, so I recommend you don't dig further either.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

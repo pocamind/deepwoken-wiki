@@ -1,6 +1,6 @@
 ---
 title: Golem Prime
-revid: 191453
+revid: 192879
 source: https://deepwoken.fandom.com/wiki/Golem_Prime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters]
@@ -56,6 +56,12 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 
  | The golem charges up a red laser before firing it, dealing massive damage in a small AoE.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  | 
 
  |
@@ -65,6 +71,12 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 (★★★)
 
  | The golem charges up a laser before firing a barrage of them, dealing high damage rapidly.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 
@@ -94,6 +106,12 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 
  | The golem winds up its arm behind it, before quickly swinging it outwards.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |  |
 | 
 
@@ -106,6 +124,12 @@ In combat, Golem Primes are very hardy, having moderately high health and high s
 -   The rubble falls incredibly fast making it very hard to react to.
 -   Due to the above two points, this attack is generally not worth defending yourself against, as there's a chance that it won't even hit you, and even if it would hit you, the chance of you reacting to it and responding accordingly is relatively low.
 -   This can lag players on lower-end devices.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 

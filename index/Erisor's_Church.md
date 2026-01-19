@@ -1,9 +1,9 @@
 ---
 title: "Erisor's Church"
-revid: 185957
+revid: 192892
 source: https://deepwoken.fandom.com/wiki/Erisor's_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
 ---
 
 # Erisor's Church
@@ -34,8 +34,6 @@ It can be found by following the path on the right of the entrance to the [Tower
 -   [Forgotten Villager](Forgotten_Villager.md)
 
 ## Events
-
-File:Erisor's Church 2.png
 
 Forgotten Villagers inside the Church
 

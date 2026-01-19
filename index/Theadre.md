@@ -1,9 +1,9 @@
 ---
 title: Theadre
-revid: 191667
+revid: 192870
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Etrean Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea]
 ---
 
 # Theadre
@@ -57,27 +57,32 @@ Theadre is located at the front of the [Etris Palace](Etris_Palace.md), standing
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin Dialogue</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="4">Oh King... Won't ye lift your people from this watery grave?...</td>
+  <td colspan="3">Oh King... Won't ye lift your people from this watery grave?...</td>
 </tr>
 <tr>
   <td colspan="2">Who is this king you speak of?</td>
-  <td colspan="2">What do you think of The Lord Regent?</td>
+  <td>What do you think of The Lord Regent?</td>
 </tr>
 <tr>
   <td>[Player is not an <a href="Etrean.md">Etrean</a>]</td>
   <td>[Player is an <a href="Etrean.md">Etrean</a>]</td>
-  <td colspan="2">He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
+  <td>He is no King... But I know that what he does is all in the name of Etrea. Surely, when the King returns, he will vacate the throne..</td>
 </tr>
 <tr>
   <td>The King who will cast aside the aspersions fabricated by your kind...</td>
   <td>Who else, Kin? The King of prophecy. He who shall rise Etrea from the waves of obscurity... And bring us back to those bygone days of the <a href="Glossary.md#the-old-world">Old World</a>.</td>
-  <td colspan="2">[End Dialogue]</td>
+  <td>Is that really all you know of him?</td>
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>
+  <td><i>*The old man gazes silently in your direction before returning to his prayer.*</i></td>
+</tr>
+<tr>
+  <td colspan="2"></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 187317
+revid: 192893
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
@@ -357,9 +357,7 @@ A randomly occurring event in which bounty hunters or faction soldiers will ambu
 
 These events are fixed at a certain place or time or are extremely rare.
 
-File:Erisor's Church 2.png
-
-Forgotten villagers
+Forgotten Villagers
 
 #### Raid on Erisor's Church
 

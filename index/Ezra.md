@@ -1,6 +1,6 @@
 ---
 title: Ezra
-revid: 191429
+revid: 192901
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -49,7 +49,7 @@ Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountai
   <td colspan="4">Who are you?</td>
 </tr>
 <tr>
-  <td colspan="4">Out in the Rotlands, above the fog, there are gathered the adherents of the vile Starkindred Church... They're up to something, I just know it. But whenever I ask too many questions, they throw me out.</td>
+  <td colspan="4">Out in the Rotlands, above the fog, there are gathered the adherents of the vile <a href="Glossary.md#the-starkindred-faith">Starkindred</a> Church... They're up to something, I just know it. But whenever I ask too many questions, they throw me out.</td>
   <td colspan="4">Ah, forgive my manners! I am Ezra, a devout of <a href="Glossary.md#ku-the-mother">Ku</a>, the Mother. I travel these islands to dispense her wisdoms to those who'll lend an ear. But that's becoming awfully difficult with all of these <i>cultists</i>...</td>
 </tr>
 <tr>

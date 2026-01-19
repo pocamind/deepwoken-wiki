@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 190703
+revid: 192900
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -61,3 +61,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   It is one of four weapons that comes with a scabbard, the others being the [Shattered Katana](Shattered_Katana.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md)
 -   [Akira](Akira.md) carries the Katana on his back while it's not in use (and notably, without a sheath) whereas everyone else carries it on their hip.
     -   His katana simply floats behind him. This is canon.
+-   On april 28 2022, developer ragoozer proposed an animation rework for the katana. Though this ultimately did not make it past the concept phase.

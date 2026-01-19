@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 191065
+revid: 192902
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -187,7 +187,7 @@ Dialogue: [Alpha](Alpha.md), [Carrion](Carrion,_Father_of_Evolution.md), [Galpin
 -   The Starkindred Church is a powerful organisation that stands as the religious authority over the Starkindred Faith. Much of the West is held by their influence, possessing a military and political strength that rivals the Hundred Legions.
 -   Where remnants of the [Heavens](#the-heavens) have fallen to [Lumen](#lumen), the Starkindred Church is never far away, hoping to safeguard and retrieve any relics.
 
-Dialogue: [Adrofalis](Adrofalis.md), [Samael](Samael.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Suncross](#the-suncross), [The Western Luminant](#the-western-luminant)
+Dialogue: [Adrofalis](Adrofalis.md), [Ezra](Ezra.md), [Samael](Samael.md) | Books: | Glossary Entries: [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Suncross](#the-suncross), [The Western Luminant](#the-western-luminant)
 
 ## Notable Figures
 

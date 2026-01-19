@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 189355
+revid: 192890
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -167,7 +167,7 @@ Ironsing provides the widest ranged Mantras in the game and the best damage outp
 
 -   Offers Mantras that favor the user, resupplying their armor durability during fights whilst reducing the opponents
 -   Applies metal rods on hit, which can be pulled to pull the target towards you. Several Talents augment the functionality of these rods.
--   Gilded Path: Scrapsinger can be obtained at 40 Ironsing. This path allows you to consume your rods on flourish, siphoning your opponent's armor and proccing the Scrapsinger Talent tree.
+-   Gilded Path: Scrapsinger can be obtained at 35 Ironsing. This path allows you to consume your rods on flourish, siphoning your opponent's armor and proccing the Scrapsinger Talent tree.
 -   Tunes in well with the [Metal](Metal.md) enchantment, as Metal gives you benefits depending on how much armor your opponent has.
 
 ### [Bloodrend Mantras](Bloodrend.md)

@@ -1,6 +1,6 @@
 ---
 title: Lullaby Isles
-revid: 192698
+revid: 192884
 source: https://deepwoken.fandom.com/wiki/Lullaby_Isles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations in the Central Luminant, Locations, The Moonlit Faith]
