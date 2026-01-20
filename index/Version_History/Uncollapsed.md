@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 189743
+revid: 193232
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -10,7 +10,7 @@ notices:
 
 # Version History/Uncollapsed
 
-Variants: [2025](2025.md)
+Variants: [2026](2026.md)
 
   
 
@@ -26,6 +26,310 @@ The update highest on the webpage (the one right below the legend) is the most r
 Starting from December 21st, 2025, the game version of the latest patch for an update will be listed to the right of the date it was released.
 
   
+
+## **January 18th, 2026 | pv\_JAN\_19\_07:28a**
+
+**Pathfinder Progression Enhanced**  
+💡 Added a journal button to view your 'Talent Deck' in Pathfinder. Your Deck represents all of the talents you are currently able to receive in talent hands, eliminating the requirement of using 3rd party tools to actually figure out what cards will show up in your hands  
+💡 Added a 'Favour' option to cards in your Talent Deck. Favoured cards are more likely to appear in your hands and doing so is completely free  
+💡 Added a 'Foretell' option to cards in your Talent Deck. At the cost of 1 Ace, cards can be Foretold. Unlike Mystics, there is no limit to how many cards can be Predestined. Your talent hands are guaranteed to contain one of your Predestined cards so long as the requirements are met  
+💡 You can now burn cards directly from your Talent Deck  
+💡 Trial of One reworked. Now gives you Mark of the Lone Warrior (it has returned) if you have the origin. Now grants 2 levels instead of 7. Mark of the Lone Warrior now drastically boosts your progression speed when progressing alone, and also gives buffs in your fights if you are a solo player  
+💡 Anytime you kill a boss for the first time you now gain 15 to 20 full attribute points (no experience needed to level up using it). You also gain 1 full attribute point the first time you kill certain mini bosses  
+💡 Deep Crucible event now gives 60 full trainings on completion to every participant on first time completion  
+💡 Hell Mode now gives 60 full investment points per completion + 5 points per player over the 4 player starting requirement  
+💡 Stratos' quest now gives 10 full trainings on completion  
+💡 Authority origin missions now give 3-5 full investment points on successful completions (based on your rank)  
+💡 Turning in 5 pure ores at a blacksmith (quest) now gives 5 full trainings on completion  
+💡 Beiruul's quest now gives 5 full trainings on completion and a new talent  
+💡 Kj's quest now gives 5 full trainings on completion and a new talent  
+💡 Nanji's quest now gives 5 full trainings on completion and a new talent  
+💡 Suri's quest now gives 5 full trainings on completion and a new talent  
+💡 Suyuan's quest now gives 5 full trainings on completion and a new talent  
+💡 The following quests now give 5 full trainings on completion: Ciea, Zana  
+💡 The following quests now give 3 full trainings on completion: Atra, Trig, Regek, Ezra, Jim, Kelsius, Jessamine, Orion, Ploom, The Guy, Lucien, Korin/Drefa, Arthur, Erosius Amaltus Urivortus Alistus Casius Walistoshus  
+💡 Scope's Summer crate turn in now gives 3 full trainings on first time completion  
+💡 Unbounding Weapon from Maestro now gives 2 full trainings  
+💡 Voidwalker bounties now get 1 full training per star on their bounties on succesful completions  
+  
+**Reducing the PvE/PvP Gap**  
+💡 New Bloodrend PvE mechanic: Hemorrhaging - Drain enough blood from enemies in PvE combat to cause a hemorrhage effect, dealing 15% of your enemies health and going on a short cooldown. This does however cause some of your opponent to lose some of their blood poison.  
+💡 Bloodrend's blood poison effects and talents now work in PvE. It does not decrease naturally against PvE and instead decreases when you cause a hemorrhage effect.  
+💡 New PvE effects have been added/adjusted for the following talents: Bear Trap, Stifled Jump, Laced Traps, Metal Shackles, Gale Trap, Leg Shot, Stock Bash, Collapsed Lung, Cap Artist, Punishing Blow, Brain Rattler, Strong Stern, Conclusion, Heavy Fatigue, Pocket Sand, Dirty Boxing, Vasculitis, Tainted Ground, Bloodwarden's Sense, Smell of Blood, Lord's Tithe, All The Dead Gods, Sin Stacker, All Above Gods Below, Frostbite, Saint Jay, Crippling Comeuppance, Cut to the Chase, Chronostasis, Dark Waltz, Sightless Still, Etherguard, Pickpocket, Heavy Haul, Martyr, Another Man's Trash  
+  
+**New Weapon Talents**  
+💡 New Canor Fang weapon talent: Clutch Recovery  
+💡 New Champion's Dagger weapon talent: Rat's Spirit  
+💡 New Morning Star weapon talent: Extended Trauma  
+💡 New Ritual Spear weapon talent: Pierce Through  
+💡 New Apprentice Rapier weapon talent: Defensive Stance  
+💡 New Halberd/Alloyed Halberd weapon talent: Spinal Splinter  
+💡 New Inquisitor's Thorn weapon talent: Expeditionary Evasiveness  
+💡 New Legion Cestus weapon talent: Static Beatdown  
+  
+**Map Revamps**  
+💡 Scyphozia has received a glow-up (sorry), looking a lot more lush and decorated. This actually comes with some performance benefits as a lot of the old props were very poorly optimized!  
+💡 New Scyphozia Biome: Forest of Lights. Events and Jobs have been distributed between the Forest of Lights and the Celtor Wastes. The plan is to divide Scyphozia into several sub-areas each with their own pools of content available  
+💡 A new shrine has been constructed in the Songseeker Wilds  
+💡 Monkey's Paw has been reworked and no longer uses smooth terrain  
+💡 Remaining stragglers of the old tree model have been replaced with new performant mesh trees  
+  
+**Content & Systems**  
+💡 You can now create Crews that function like the Authority Squad system. You can create these crews with any random pathfinder as long as they do not belong to a faction  
+💡 New 'Communication Gestures' added: Apologize functions the same as "mb all", Show Position will add a unique highlight that allows people to see you through walls  
+💡 Talent cards have received some visual touchups and been given a lot more space for their descriptions/stats  
+💡 Talent stats (e.g. health, passive agility) are now condensed into small chips on talent cards  
+💡 The Faction reputation summary screen has been moved from the Rest menu to the Journal and has received some visual touchups  
+💡 Added South America region queue to Chime of Conflict  
+💡 Added a slider for weather volume  
+🔧 Added missing icon for Etrean Royalists faction  
+  
+**Merges & Removals**  
+🔀 Fishman's ability to execute others in water is now innate to both players and mobs  
+🔀 Scuba Drowner has been merged into Fishman with slightly new behavior. Instead of having a guaranteed escape from being Drowned every 60s, you are instead unable to Drown so long as your Blood bar is above 50%. If you had Scuba Drowner, you'll be refunded  
+💣 With the introduction of Favoured and Foretold cards, Mystics no longer offer the ability to increase the chance of a talent class appearing in your talent hands, as this functionality has now been improved and replaced  
+  
+**Balancing**  
+💡 Weapon animations now properly display endlag where applicable -> This should remove the scenario where the player appears to be doing nothing, but is unable to attack  
+⏫ Trees now behave like destructible structures in Pathfinder just like they do in Vow of Iron. You now get drops from destroying trees regardless of what you use to do so, but lumber axes (and treefelling blow) have a very high damage multiplier against trees, keeping them the best way to collect lumber. Fire, Bombs, and Lightning are also very effective against trees but will cause them to drop Burned Wood instead of Wood  
+⏫ Wood gained from felling trees now goes straight to your inventory  
+⏫ Against All Odds buff doubled  
+⏫ Authority origin rank progression increased from successful missions  
+⏫ Critical Engine now saves when you respawn/through servers  
+⏫ From Power 1 to 5, the training requirements for weapon and element attributes are now greatly reduced to make up for the difficulty of gathering training EXP for these attributes in the early game  
+⏫ Circus bombs are now thrown faster & have increased hitbox  
+⚖️ Curse of Yun'Shul reverted  
+⚖️ Freestyler's Band no longer increases your swim speed, and instead reduces your hunger/thirst drain  
+⚖️ Providence's Thorns reverted (apparently it was already pretty good in PvP situations)  
+⚖️ Slowed Ardour Slicer’s movement significantly  
+⏬ All heavy weapons that previously did not have endlag now have 0.1 endlag. This has been added in an attempt to help balance out ganks and reduce how dominant these weapons have been, while also helping us set apart weapons in the weapon rework  
+⏬ Chorus of Souls passive healing when active reduced by 35%  
+⏬ Conditioned Swimmer's efficiency reduced by 50%  
+⏬ Curse of the No-Life King passive healing reduced by 35%  
+⏬ Shard Bow now has 360 block, meaning you can block even if it lands behind you  
+⏬ Brazen Blow hyperarmor duration nerfed from 2 seconds to 1 second  
+⏬ Brutal Momentum hyperarmor duration nerfed from 2 seconds to 1 second, cooldown increased from 5 to 8 seconds  
+⏬ Heavy Hitter posture damage reduced from 10% to 5%  
+⏬ Rending Impact now has an actual cooldown (3 seconds -> 30 seconds)  
+⏬ Strong Left with Titus's Raiment talent now also gets treated as a guard break when feinting it  
+⏬ Warrior's Swing reduced from 20% to 5%  
+🔧 Crypt Blade Critical is now jumpable  
+🔧 Jetstream Pursuit only works on players now  
+  
+**Bugfixes**  
+🩹 Fixed a major memory leak with dropped items on death  
+🩹 Fixed a memory leak with server listings  
+🩹 Actually fixed being able to ledge grab Relic Axe's pillars, causing a rare niche bug where you could fall through the map to cheese people in chime  
+🩹 Adjust Whaling Knife crit's VFX to not last as long / extended hitbox a little to make both match  
+🩹 Fixed Deepspindle bugging your character when you used the standing crit on a one shot clone similar to Ferryman's clone or Visionshaper clones  
+🩹 Fixed Eye of Malice occasionally going through block/dodge  
+🩹 Fixed Flareblood Kamas not working on water  
+🩹 Fixed Frostbite's anti-heal not working on some healing like Sanguine Transfuser  
+🩹 Fixed Gran Sudaruska not properly applying chill/crystals on crit  
+🩹 Fixed Heroism capping reflect status durations to a max of 3 seconds  
+🩹 Fixed Heroism not reflecting heal stealing status effects  
+🩹 Fixed Immolation not working with Ether Proselyte  
+🩹 Fixed Imperial Staff critical's headpiece cosmetic staying in the server if you leave while its up  
+🩹 Fixed Imperium Kata spawning you in with a placeholder  
+🩹 Fixed Kindred Edict's aerial critical bounce height being limited by your FPS  
+🩹 Fixed Krulian Knife's critical VFX not clearing on use  
+🩹 Fixed Kyrscleave/Crescent Cleaver critical not landing when you used it behind someone's block  
+🩹 Fixed Kyrscleave/Crescent Cleaver critical sometimes hitting your block/dodge and still grabbing you  
+🩹 Fixed Kyrswynter criticals being considered a mantra  
+🩹 Fixed Laminated Armor healing you if the damage was too low  
+🩹 Fixed Leg Shot and Stock Bash proccing through block parry dodge.  
+🩹 Fixed Nocturne's critical hit VFX playing even if someone dodged it  
+🩹 Fixed Officer's Slash giving you not critical cooldown and not working  
+🩹 Fixed Pale Briar's critical being considered a mantra  
+🩹 Fixed Railblade's aerial critical attack distance being limited by FPS  
+🩹 Fixed Rockmaller's aerial crit bugging you and making you unable to rotate your character if you got hit during its windup  
+🩹 Fixed Rockmaller's aerial crit locking you in its animation if you got hit during as your were falling  
+🩹 Fixed Search button not working with Shrine of Chance  
+🩹 Fixed Shadow Hero Blade's critical attack distance it moved being limited by your FPS + made it a lot more consistent and feel nice to use  
+🩹 Fixed Shattered Katana's critical attack not allowing you to sheathe and proc poser's ring right after the critical is done  
+🩹 Fixed Vicious Descent being counted as oath damage  
+🩹 Fixed Weal and Woe's aerial attack not working  
+🩹 Fixed being able to destroy Hero Shrines  
+🩹 Fixed being able to place Campfires while in an action-locked state. Prevents placement of campfires while gesturing, which resulted in being able to move mechanisms around  
+🩹 Fixed certain attacks not properly having lower parry frames  
+🩹 Fixed certain in-air checks not working, notably breaking stuff like Weal and Woe's aerial critical and Wyvern's Claw  
+🩹 Fixed drowning with Fishman  
+🩹 Fixed mob forced deaggro state. Made it so Chaser didn't monologue at you  
+🩹 Fixed forced aggro not working. Was causing illusory servants to adopt a peaceful way of life  
+🩹 Fixed keybinds not displaying in talent card descriptions properly  
+🩹 Fixed lingering enchant effects when you swap from a weapon with an enchant to one without  
+🩹 Fixed niche bug where swapping weapons using Unmatched Dexterity with Guiding Star mid light attack would cause your character to break  
+🩹 Fixed rare niche bug where equipping Poser's Ring while using a weapon temporarily (like Sovereign's Bangle or Crazy Slots) would cause your m1s to not land  
+🩹 Fixed wither not properly apply on Umbrite Witherblade and Darkened Bastion light attacks  
+🩹 Teleportation Resonance now prevents all people who traveled from looting chests for 30 seconds, instead of just the user. Additionally, the timer is now applied when the teleport ends, rather than when it starts  
+🩹 Fixed Electrify CD not working  
+🩹 Fixed Stratos' final quest never working  
+🩹 Fixed braces not displaying correctly in your equipment and not being available for comparison  
+🩹 Fixed not being able to use Electrify with a weapon  
+🩹 Fixed obtaining Ignition Rite in Pathfinder  
+🩹 Fixed residual issues with mob forced aggro  
+🩹 Fixed the new tree model's leaves not changing with the seasons  
+🩹 Fixed the talent count on the talent UI  
+🩹 Fixed treefelling behaving weirdly in VoI  
+🩹 Fixed trees making their pilgrimage to the Moonseye on being hit  
+🩹 Fixed unequipping Iron Blunderbuss during critical soft locking you  
+🩹 Fixed Circus bombs not working properly  
+🩹 Karliah quest spot fixed  
+🩹 Removed Kyrsdogs, Pumpkin Pie, and cooked boss foods from Chef Odiolavoro's quests
+
+### _**Patch 2.5.4a**_
+
+**Hotchanges**  
+🔧 Gliders are now a lot more smooth and have damping on their velocity/direction changes  
+🩹 Fixed Foretelling not working for Deep Shrine chances
+
+## **January 2nd, 2026 | pv\_JAN\_03\_17:41a**
+
+**Content & Systems**  
+📰 Our focus going into the new year is doing some much-needed game health check-ups. This means the focus at the moment will be on adding polish to existing content and tackling issues with bugs, lag, and balancing.  
+🔧 Remodelled Phantomcleave  
+  
+**Balancing & Tweaks**  
+⏫ Blazing enchant proc requirements reduced by 1  
+⏫ Bluster enchant damage on pop increased 20 -> 27.5 (scaling still applies)  
+⏫ Chilling enchant cooldown massively reduced  
+⏫ Chip cap removed from Obfuscation enchant  
+⏫ Chip increased for Obfuscation enchant  
+⏫ Curse of Void enchant debuff increased from 30% to 40%  
+⏫ Heroism enchant reflection passive now always on regardless of health %  
+⏫ Ice Forge Magnet Spark now targets all who are next to where you teleported to instead of just one random target  
+⏫ Made Ice Carve Spring Spark hit more often, move faster and generally feel nicer to use  
+⏫ Parasol's Blight enchant debuff duration increased 15 -> 60 seconds, now will automatically reapply even if opponent has the debuff  
+⏫ Serpent's Edge range increased from 8 to 8.5  
+⏫ Solar now procs the solar mark on uppercuts  
+⏫ Stormbreaker enchant critical damage increased  
+⏫ Voideye cooldown reduced from 5 minutes to 1 minute  
+⏫ Windswept enchant proc requirements reduced by 2  
+⏫ Windswept enchant winded max duration increased 5 -> 8 seconds  
+⏫ Iron Birch's Expeditious Combo now buffs Onslaught at all times, with uppercuts further boosting its speed  
+⏫ Made Ceaseless Slashes move you faster during the move  
+⏫ New Corrupt Blood Scourge passive: Successfully killing someone with Blood Scourge (no charge required for this) now amplifies the healing you receive by 50% for 30 seconds.  
+⏫ Slice 'n' Dice hitbox increased a little  
+⏫ Torture Mastery no longer requires blood poison to proc  
+⚖️ AMP Overdrive reworked  
+⚖️ Curse of Yun'Shul proc damage increased, cursed downsides also increased  
+⚖️ Flame Sentinel Magnet Spark no longer follows you and instead stays where you have spawned it instead of moving forward  
+⚖️ Getting hit while having Curse of the No-Life King or Curse of Void extends the curse effect on you for 60 seconds. This is to prevent Silenthearts from switching off the effect right before they die.  
+⚖️ Oath moves now get 50% less of an effect from damage multipliers  
+⚖️ Pleeksty's Inferno changes: You can no longer rotate your character for first part of standing crit. Posture reduced from 8 to 7.5. Standing crit now guardbreaks again. You are now able to dodge during the blockstun of the first multi-hit part of the standing crit (hence the guardbreak returning)  
+⚖️ Providence's Thorns enchant proc requirement reduced from 3 -> 2, damage reduced by 50% (scaling still applies)  
+⚖️ Thunder Kick is no longer counted as blunt damage and is only thunder damage  
+⚖️ Blast Spark Iceberg now requires a bit more height to deal damage, but the damage now increases the higher you are when you cast it  
+⚖️ Bloodtide Ritual cooldown increased from 35 to 120 seconds and now no longer has hyperarmor, but now heals you (scales on level) per enemy you hit during the charge up phase  
+⚖️ Elder Primadon summon requirement reduced from 3 -> 1 Sinner's Ash, chest size reduced  
+⚖️ Teleportation bell's field that it places down as you teleport no longer can be dyed (people were using it to hide the teleportation itself)  
+⚖️ True Heart of Enmity will no longer initiate an attack chain with the Charge forward attack, unless you're distanced too far away from him. He will still use this attack as a combo finisher at any range, though  
+⏬ All silentheart abilities' damage is reduced by 50% while using Wyrmtooth. This is because Wyrmtooth allows you to have both Medium and Heavy ability movesets.  
+⏬ Apparitions now only apply on Gale mantras only  
+⏬ Flame Repulsion damage further decreased from increasing its size  
+⏬ Flare Volley windup slightly increased  
+⏬ Flarevolley hitbox reduced  
+⏬ Hungry Flames now has a 15 second CD  
+⏬ Illusory Servants cooldown increased  
+⏬ Lightning Blade windup increased from 0.3s to 0.35s 💀  
+⏬ Linkstrider's heal now heals less if another Linkstrider has recently healed you. This is in an effort to stop it being such a powerful tool in flooding/outnumbered scenarios  
+⏬ Parrying Tornado disperses it earlier  
+⏬ Shadow Eruptions slight windup increase  
+⏬ Similar to Electro Carve, you are no longer able to turn Ice Carve and Wind Carve as its being casted  
+⏬ Twister Kick's posture damage reduced  
+⏬ Using Blast Spark on Wind Gun now also increases its windup  
+⏬ Flare Volley cooldown when using up all Flare Volleys increased from 10 to 30  
+⏬ Heavy Fatigue, Brazen Blow, and Impairing Blow no longer proc through uppercuts  
+⏬ Reduced how many extra Flare Volleys you could shoot out with size modifications  
+⏬ Teleportation cancellable window doubled  
+⏬ Throw windup increased 0.4s -> 0.525s  
+💣 Removed Reversal Spark Lightning Impact, it had no unique effect and was causing players to be able to glitch through walls  
+🔧 Removed the Void HP Threshold from Vow of Iron, which served no purpose there anyways  
+  
+**Bugfixes & Optimization**  
+⚙️ Fixed a memory leak with spatial indexing  
+⚙️ Optimized status effects  
+⚙️ Optimized data subscriptions  
+🩹 Adjusted Onslaught hitbox so its much more in the front and less around/behind you  
+🩹 Adjusted Serpent's Edge hitbox so its much more in the front and less around/behind you  
+🩹 Fixed Ceaseless Slashes sometimes making you unable to move  
+🩹 Fixed Flare Volley's cooldown rarely working  
+🩹 Fixed Heavy Fatigue, Brazen Blow, and Impairing Blow sometimes proccing on block  
+🩹 Fixed Onslaught not having hyperarmor  
+🩹 Fixed Rending Impact applying on mantras  
+🩹 Fixed being able to slide jump while you have anti jump effects on you like Taunt or Bear Trap  
+🩹 Fixed feinting reinforce insta-casting it  
+🩹 Fixed not being able to modify Rapid Slashes with range modifiers to increase its hitbox  
+🩹 Crucifixion AoE modifiers now actually increase the size of the hitbox  
+🩹 Fixed Ardour Slicer  
+🩹 Fixed Bloodbane's weapon talent not working  
+🩹 Fixed Chain Pull not having a cooldown if you hit a monster  
+🩹 Fixed Chain Pull pulling you through iframes  
+🩹 Fixed Champion's Whirlthrow not giving increased posture of other guardbreaks  
+🩹 Fixed Crucifixion hitbox and made it feel much more reliable to land  
+🩹 Fixed Crystal Impale knocking opponents down at all times instead of when you're in the air  
+🩹 Fixed Crystal Impale not dealing 50% more damage to your opponents if they are in the air  
+🩹 Fixed Depths monsters granting Resonance progress in Layer 1 open world (Scyphozia), but not in Depths Dungeons. Most notably, this meant that Enforcers were no longer granting Resonance Progress  
+🩹 Fixed Enmity being displaced when he grabs you  
+🩹 Fixed Firing Line not having PvE scaling  
+🩹 Fixed Flame Leap not lowering your opponent's vertical velocity when yours is lowered at low health  
+🩹 Fixed Flame Sentinel Magnet Spark falling through the map  
+🩹 Fixed Frost Grab hitting through iframes  
+🩹 Fixed Gale Punch's hitbox not hitting up close and adjusted it to feel nice  
+🩹 Fixed Graceful Steps' visual effect showing up on mantras that aren't affected by it / Dancing Steps  
+🩹 Fixed Hell's Judgement not properly going on cooldown when whiffed  
+🩹 Fixed Ice Fissure's detonation hitbox being pushed farther away from the Ice Fissure model when adding size modifiers  
+🩹 Fixed Ice Lance latching onto you even if you successfully blocked it  
+🩹 Fixed Iceberg Blast Spark's hitbox not working / being desynced  
+🩹 Fixed Inhale's bonuses not being properly applied on Rising Wind  
+🩹 Fixed Iron Hug sometimes proccing through block  
+🩹 Fixed Metal Eruption always having the same damage (it had level 1 damage at all times) regardless of level  
+🩹 Fixed Phoenix not despawning  
+🩹 Fixed Prediction not stopping the following mantras when successfully landed: Rising Wind, Rising Thunder, Frost Grab, Champion's Whirlthrow  
+🩹 Fixed Punishing Riposte not activating when you parry Champion's Whirlthrow  
+🩹 Fixed Relentless Hunt having a base 6 second cooldown instead of 20 seconds  
+🩹 Fixed Reversal Spark Flaming Scourge still drawing your opponent in (and sometimes getting either them hit or giving you extended stun) when you got hit mid cast  
+🩹 Fixed Rising Wind not being ventable  
+🩹 Fixed Shadow Assault Blast Spark still occasionally proccing the barrage through block  
+🩹 Fixed Shadow Assault Blast Spark's VFX not showing up as you dash  
+🩹 Fixed Shadow Gun Blast Spark sometimes having insane ether costs to cast  
+🩹 Fixed Static Flash Clone sometimes not properly hiding certain weapons  
+🩹 Fixed Wind Blade not hitting when you were right next to your opponent  
+🩹 Fixed base Flame Ballista still having its cooldown not be reduced while in the air  
+🩹 Fixed being able to get hit in Shade Step towards the end of the attack  
+🩹 Fixed being able to ledge grab Relic Axe's pillars, causing a niche bug where you could fall through the map to cheese people in chime  
+🩹 Fixed being unable to parry Arc Beam's aerial variant  
+🩹 Fixed feinting Hell's Judgement making you immortal  
+🩹 Fixed feinting Stormcaller's Slash on Lightning Blade not giving you a cooldown  
+🩹 Fixed hitting someone's block with a basic attack but then landing a rising flame after sometimes still giving you endlag as if you missed  
+🩹 Fixed not being able to parry or attack during Ice Carve Spring Spark and Ice Carve Spring Spark not having any particles/sound when it is destroyed/feinted  
+🩹 Fixed the Hive Gate, Lord Regent's Barrier and NPCs not disappearing/appearing when they should be  
+🩹 Fixed the Kyrsgarde ambush instantly ambushing without dialogue  
+🩹 Fixed the correct Vow of Iron contour in the Nexus playing only if you teleport to it from a Boundary teleporter  
+🩹 Fixed your character not loading in correctly in the Depths if you had less than 100 max HP, due to the Void Threshold logic. This is why players could not wipe their characters on certain Vow of Iron Mementos, although the threshold is now fully removed from VoI anyways  
+🩹 Flame Eruption's second hit now actually matches much closer to the size of the hitbox  
+🩹 Made Ice Forge Magnet Spark a lot more consistent to land when using it at a distance (its not supposed to activate up close at all)  
+🩹 Made Lightning Assault a lot less likely to have you go through a wall when casting it  
+🩹 Made size modifiers for Ice Fissure actually increase the range at which you can detonate them  
+🩹 Meteor Impact description updated to add in the fact that you can also use Meteor Impact when you are hit by a rising move. Yes this is now an intended mechanic.  
+🩹 Slightly extended how long your opponent is stunned in Clutching Shadow to account for hitstun  
+🩹 Updated some outdated loading screen tips  
+🩹 Venting Ice Eruption now properly removes its endlag  
+🩹 Windswept fixed  
+🩹 You are no longer able to equip Vow of Iron equipment in the Pathfinder gamemode  
+🩹 Fixed Emotion Wave playing its indicator on every wave summon instead of only once at the start
+
+### _**Patch 2.5.3a**_
+
+**Hotfixes**  
+  
+🩹 Fixed not being able to interact with most interactible objects and NPCs at all if at some point in that server, one player left the game while their character was being loaded in  
+🩹 Fixed crafted Outfits not saving properly  
+🩹 Fixed issues with Drowned Favour purchases  
+🩹 Fixed Spamming Saintsworn Oath Skip taking your knowledge after being maxxed  
+🩹 Fixed Lightning Hero Assist not working  
+🩹 Fixed Poser Ring negating Saintsblade damage  
+🔧 Improved the talent list in your journal to display more info and group talents better
 
 ## **December 21st, 2025 | pv\_DEC\_25\_02:24a**
 

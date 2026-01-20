@@ -1,6 +1,6 @@
 ---
 title: Circle of Honour
-revid: 191038
+revid: 193253
 source: https://deepwoken.fandom.com/wiki/Circle_of_Honour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Circle of Honour]
@@ -22,11 +22,11 @@ In Iron we recall -
 The triumphs of the glorious,  
 Who heard the solemn call. ”
 
-― Full motto of the Circle
+― Excerpt from 'Hymn Of Iron'
 
 ## Description
 
-The Circle of Honour is an organization whose main goal is to defeat [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) of [the Ministry](The_Ministry.md). They go through [Mementos](Mementos.md): Memories of the fallen Circle of Honour members to kill him in the past and find a way to defeat him in the present.
+The Circle of Honour is an organization whose main goal is to defeat [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) of [the Ministry](The_Ministry.md). Some of them go through [Mementos](Mementos.md): Memories of the fallen Circle of Honour members to kill him in the past and find a way to defeat him in the present.
 
 Those who are members of the Circle must have taken the [Vow of Iron](Vow_of_Iron.md). Certain members of the Circle wear an Iron Memento, an iron tag.
 

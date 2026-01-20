@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 192279
+revid: 193258
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -549,7 +549,7 @@ N/A
 -   When holding your block button during Reinforce's wind-up, it applies Reinforce to non-allied people, including mobs, turning your Reinforce green.
 -   Shares a cooldown with [Iceberg](Frostdraw.md#iceberg).
 -   Can be upgraded with the [Grand Support](Talents.md#grand-support) Talent, healing yourself and allies when you buff at least one ally with your Reinforce. This heals 3% of affected players' maximum HP.
--   Can be upgraded with the [Lord's Tithe](Talents.md#lords-tithe) Talent, stealing up to 20% of affected people's Ether to regenerate your own.
+-   Can be upgraded with the [Lord's Tithe](Talents.md#lords-tithe) Talent, stealing Ether from buffed targets or Health from PvE enemies.
 
  |
 | 

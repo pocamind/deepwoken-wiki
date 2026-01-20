@@ -1,6 +1,6 @@
 ---
 title: Emotes
-revid: 191182
+revid: 193247
 source: https://deepwoken.fandom.com/wiki/Emotes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -14,35 +14,67 @@ Emote Screen
 
 ## Description
 
-Emotes are gestures or poses a player can use. To use an Emote, hold K, and click the Emote name or let go of K while your cursor is hovered over an Emote name. Emotes are for the most part, purely cosmetic, however they can be used for other purposes, such as Emoting at the [Megalodaunt](Megalodaunt.md) Statue in [Etris](Etris.md), to summon [Destroyman III](Destroyman_III.md).
+Emotes are gestures or poses a player can use. The default input to select emotes is K. To use an emote click the emote name or let go of the emote keybind while the cursor is hovered over an emote.
+
+For the most part, emotes are purely cosmetic. However, they can be used for other purposes, such as emoting at [The Great Sharko Rumbling](The_Great_Sharko_Rumbling.md) memorial near the [Etris Docks](Etris_Docks.md), to summon [Destroyman III](Destroyman_III.md).
 
 ## Emotes
 
+### Default Emotes
+
+| Showcase | Emote Name |
+| --- | --- |
+|  | Head Nod |
+|  | Head Shake |
+| File:Leanback.png | Lean Back |
+| File:Pride.png | Pride |
+| File:Resting.png | Resting |
+| File:Sleepish.png | Sheepish |
+| File:Thinking.png | Thinking |
+
+### Default Communication Gestures
+
+| Showcase | Emote Name | Unique Effect |
+| --- | --- | --- |
+|  | Apologize | Removes all combat tags on other players |
+|  | Challenge |
+|  | Friendly |
+|  | Leave |
+|  | Point |
+|  | Show Position | Briefly highlights the player in a white outline |
+|  | Team Up |
+
+### Emote Pack 1
+
+| Showcase | Emote Name |
+| --- | --- |
+|  | Crying |
+|  | Goopie |
+|  | Griddy |
+|  | Loser |
+|  | Penguin |
+|  | Sway |
+
+### Emote Pack 2
+
+| Showcase | Emote Name |
+| --- | --- |
+|  | Caramell |
+|  | Grizzly |
+| File:RukkroF.gif | Hoss |
+|  | Meditate |
+|  | Shrug |
+|  | Sturdy |
+
+### Miscellaneous
+
 | Showcase | Emote Name | Obtainment |
 | --- | --- | --- |
-| File:Sleepish.png | Sheepish | Unlocked by default. |
-| File:Thinking.png | Thinking | Unlocked by default. |
-|  | Head Nod | Unlocked by default. |
-| File:Leanback.png | Lean Back | Unlocked by default. |
-| File:Resting.png | Resting | Unlocked by default. |
-| File:Pride.png | Pride | Unlocked by default. |
-|  | Head Shake | Unlocked by default. |
-|  | Salute | [Authority Ensign](Authority_Ensign.md) |
-|  | Penguin | Emote Pack 1 |
-|  | Griddy | Emote Pack 1 |
-|  | Loser | Emote Pack 1 |
-|  | Goopie | Emote Pack 1 |
-|  | Crying | Emote Pack 1 |
-|  | Sway | Emote Pack 1 |
 |  | Headbang | [Metallica Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>) |
-|  | Caramell | Emote Pack 2 |
-|  | Grizzly | Emote Pack 2 |
-|  | Shrug | Emote Pack 2 |
-|  | Meditate | Emote Pack 2 |
-| File:RukkroF.gif | Hoss | Emote Pack 2 |
-|  | Sturdy | Emote Pack 2 |
+|  | Salute | [Authority Ensign](Authority_Ensign.md) |
+|  | WC \[Year\] | Winners of the official NA and EU Deepwoken World Cup hosted by Deep League |
 
 ## Trivia
 
 -   Prior to the May 22nd, 2023 update, the default keybind to toggle emotes was X before it was moved to K. This was changed with the addition of [Ironsing](Ironsing.md) due to the mechanic of "Iron Pull" taking its keybind.
--   The "Salute" emote is able to be used outside of being an Authority Ensign by typing "/e salute" into the chat.
+-   Players can also use emotes by typing into the chat "/e \[emote name\]" as long as they have it.

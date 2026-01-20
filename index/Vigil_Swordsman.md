@@ -1,6 +1,6 @@
 ---
 title: Vigil Swordsman
-revid: 176640
+revid: 193255
 source: https://deepwoken.fandom.com/wiki/Vigil_Swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies, Ambush Enemies]
@@ -67,7 +67,7 @@ A Vigil Swordsman executes its opponent after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | Pins down opponent before slicing their throat with blade. |
+| Execute | Pins down opponent before slicing their throat with their blade. |
 
 ## Trivia
 

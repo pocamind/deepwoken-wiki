@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193195
+revid: 193206
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1703,7 +1703,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Also procs on criticals with the M1 tag.
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
--   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to recieve while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well. (+20 Sanity)
+-   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well. (+20 Sanity)
     -   Though not visually displayed, the duration of this effect is separate from your anti-heal.
         -   Lasts 8 seconds after an All the Dead Gods proc with 100 Willpower 100 Intelligence, which is halved to 4 seconds if you don't meet this Talent's requirements.
     -   This will not proc if you are the one who applied the healing; you cannot heal yourself by healing your opponent.
@@ -3612,7 +3612,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing N. Deal a little more damage the more notes you have against PvE opponents as well. (+2 Passive Agility)
     -   The target needs to be Unconscious to be pickpocket-able.
     -   The Pickpocket keybind can be configured in settings.
-    -   Gain increased PvE damage based on how many Notes you have.
+    -   Gain +0.0002% PvE damage for every 1 you have. At 15,000 Notes, this provides a 3% damage buff.
     -   Prerequisites: 5 Agility, 10 Charisma
 
 -   Master Thief \[Common Talent, Agility, Charisma\] - Gain more notes when mugging a player.
@@ -3621,7 +3621,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _**Another Man's Trash**_ \[Advanced Talent, Agility, Charisma\] - Take unequipped [equipment](Equipment.md) when mugging a player. Gain a little more damage against PvE the more you are currently carrying. (+2 Passive Agility)
     -   If the player you are mugging doesn't have any Notes, you will still take any unequipped equipment.
     -   Does not take enchanted or Soulbound items.
-    -   Gain increased PvE damage based on your current carry load.
+    -   Gain +0.01% PvE damage for every 1 [weight](Carry_Load.md) in your inventory. Every 100 weight equates to +1% damage.
     -   Prerequisites: 10 Agility, 35 Charisma, All Thief Talents.
 
 ### Thunder Brawler

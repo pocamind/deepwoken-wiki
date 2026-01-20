@@ -1,6 +1,6 @@
 ---
 title: Legion Centurion
-revid: 177640
+revid: 193217
 source: https://deepwoken.fandom.com/wiki/Legion_Centurion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Hundred Legions]
@@ -21,7 +21,7 @@ categories: [Outfits, Master Outfits, The Hundred Legions]
 | resistances | +30% Physical Armor, +30% Elemental Armor, +5% Wind Armor, +5% Lightning Armor |
 | buffs | +20% Ether Regen |
 | talents | Centurion's Resolve |
-| obtainment | Chests from:, Starswept Valley, Primadon, Moon's Eyrie, Megalodaunt On a Ship event, False Merchant Ships, Saramaed HollowSold by Nyanna and Traan Zakshun for 200 , sold by Glaive Spellhardt for 100 Joy |
+| obtainment | Chests from:, Starswept Valley, Primadon, Moon's Eyrie, Etris: Siege, Megalodaunt On a Ship event, False Merchant Ships, Saramaed HollowSold by Nyanna and Traan Zakshun for 200 , sold by Glaive Spellhardt for 100 Joy |
 | selling_price | 10 |
 | weight | 1 |
 

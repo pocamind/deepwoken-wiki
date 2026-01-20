@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 192564
+revid: 193264
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -958,15 +958,15 @@ These are Talents found in the **Shadowcaster** category.
 |  | Shadow Travel  
 (75 Shadowcast, Dark God) | Teleport to a location in exchange for Ether cost. Certain ranges will require a health sacrifice. Be careful as this technique can prove lethal to the user. | Grants a Talent tool that allows the user to teleport to their cursor's location after a long windup. Takes Ether on teleport with the Ether cost being based on distance traveled, farther distances require a health cost instead. Windup scales on distance traveled. |
 |  | Blossoming Darkness  
-(40 Shadowcast, Shadow Roar) | Ether drained during Shadow Roar increases the size of it. | N/A |
+(40 Shadowcast, Shadow Roar) | Ether drained during Shadow Roar increases the size of it. |  |
 |  | Fear the Dark  
-(50 Shadowcast) | Enemies will briefly hang in place when they run from you. | N/A |
+(50 Shadowcast) | Enemies will briefly hang in place when they run from you. |  |
 |  | Lasting Sorrow  
-(50 Shadowcast) | Shadow lasts longer on your opponent. | N/A |
+(50 Shadowcast) | Shadow lasts longer on your opponent. |  |
 |  | Sightless Still  
-(30 Shadowcast) | The more a person is affected by your shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision with darkness more potent than your Shadow Mantras. | N/A |
+(30 Shadowcast) | The more a person is affected by your Shadowcast the more you obscure their vision. Block breaking an opponent obscures their vision even more and applies [Ether Sunder](Status_Effects.md#ether-sunder) to PvE |  |
 |  | Singularity  
-(40 Shadowcast) | Enemies will briefly hang in place when hit by a shadow move. | N/A |
+(40 Shadowcast) | Enemies will briefly hang in place when hit by a shadow move. |  |
 
 **Darksiphon:**
 
@@ -975,24 +975,24 @@ These are Talents found in the **Darksiphon** category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Dark God  
-(20 Shadowcast) | If a shadowcast Mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. | N/A |
+(20 Shadowcast) | If a shadowcast Mantra would drain your opponent's Ether to 0, drain from their Tempo instead and increase your Tempo. |  |
 |  | Dark Hours  
 (35 Shadowcast) | Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach. | Shadowcast Mantras deal 15% more damage at night or in [The Depths](The_Depths.md). |
 |  | Dark Synergy  
-(45 Shadowcast, Dark God) | Engulf your enemy in shadows when flourishing them. | N/A |
+(45 Shadowcast, Dark God) | Engulf your enemy in shadows when flourishing them. |  |
 |  | Dark Replenishment  
-(50 Shadowcast, 25 Intelligence, Dark God) | Knocking out an enemy in combat restores a portion of your Ether. | N/A |
+(50 Shadowcast, 25 Intelligence, Dark God) | Knocking out an enemy in combat restores a portion of your Ether. |  |
 |  | Dark Rift  
 (60 Shadowcast, Dark Hours) | Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking. | Lasts 1.8 seconds with a 20 second cooldown. Activates at the same time as [Risky Moves](Talents.md#butterfly) and [Ghost](Talents.md#butterfly). |
 |  | Dark Waltz  
-(90 Shadowcast, 90 Weapon) | Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. | On weapon guardbreak, steal 50% of your opponent's current Tempo. |
+(90 Shadowcast, 90 Weapon) | Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies. | On weapon guardbreak, steal 50% of your opponent's current Tempo. |
 |  | Night Terror  
 (100 Shadowcast, 100 Weapon, Fear the Dark) | Your light attacks now proc Fear the Dark. | 
  |
 |  | Overwhelming Drain  
-(40 Shadowcast, Shadow Eruption) | If multiple enemies are hit by your Shadow Eruption, they are dazed. | N/A |
+(40 Shadowcast, Shadow Eruption) | If multiple enemies are hit by your Shadow Eruption, they are dazed. |  |
 |  | Shadow Overflow  
-(55 Shadowcast, Dark God) | Extra Ether stolen with Mantras are exerted as dark energy, damaging and absorbing Ether from those nearby. | N/A |
+(55 Shadowcast, Dark God) | Extra Ether stolen with Mantras are exerted as dark energy, damaging and absorbing Ether from those nearby. |  |
 
 **Death Speaker:**
 
@@ -1001,9 +1001,9 @@ These are Talents found in the **Death Speaker** category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Blackhole  
-(60 Shadowcast, POWER 13, Singularity) | Your singularity pulls everyone nearby in. | N/A |
+(60 Shadowcast, POWER 13, Singularity) | Your singularity pulls everyone nearby in. |  |
 |  | Energy Siphon  
-(65 Shadowcast, Singularity) | Your singularity now pulls Ether from the extra players affected. | N/A |
+(65 Shadowcast, Singularity) | Your singularity now pulls Ether from the extra players affected. |  |
 
 **Evil Endeavors:**
 

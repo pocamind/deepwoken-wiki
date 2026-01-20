@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 192109
+revid: 193235
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -740,7 +740,7 @@ Lightning + Slash
 -   Has an unusually inconsistent hitbox, sometimes not hitting those in its path.
 -   Guaranteed to hit at least one target if you have your crosshair locked onto them.
 -   Its distance is reduced by 60% when used in water.
--   Can be modified with **Cloudstones/Stratus Stones** to make it go further.
+-   Can be modified with **Cloudstones/Stratus Stones** to make it go further, **capping at 3 Stratus Stones.**
 -   Note that this mantra can cause the user to clip through walls, sending you into unwanted places, and even leading to your death if not careful.
 
  |

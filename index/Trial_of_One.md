@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 178882
+revid: 193196
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -104,9 +104,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ### Rewards
 
--   Free Points to spend on [attributes](Attributes.md) after each challenge.
-    -   5 Points for the first trial, 10 Points for trials 2-9, Finishing the trial will result in reaching Power 6 with 85 investment point used.
-    -   If you have the Autodidact Boon, you will be Power 7 with 2 investment points to the next level once you complete the Trial.
+-   Finishing the trial of one as any origin other from [Lone Warrior](Lone_Warrior.md) will grant you enough exp to get to power 3 right after you finish the trial. Finishing the trial by Lone Warrior Origin however, grants you the talent "Mark of the lonely warrior"
 -   The [Lone Warrior](Lone_Warrior.md) Origin after defeating the Thresher OR alternatively, wiping once.
 
 ### Death

@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 191587
+revid: 193221
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
@@ -160,7 +160,7 @@ Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in t
 
 ## Moveset
 
-Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his [fists](Fists.md) (**[Jus Karita](Jus_Karita.md)**) along with the [Galebreathe](Galebreathe.md) attunement:
+Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), his [fists](Fists.md) (**[Jus Karita](Jus_Karita.md)**) along with the [Galebreathe](Galebreathe.md) attunement:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -211,6 +211,14 @@ Polis' arsenal consist of a [Darksteel Greatsword](Darksteel_Greatsword.md), his
 (★★☆)
 
  | User unleashes a barrage of blows against their foes.
+
+ |
+| 
+
+**Onslaught**  
+(★★☆)
+
+ | User reels in their weapon to then downslam it onto their foes and follow up with 2 uppercuting kicks.
 
  |
 | 

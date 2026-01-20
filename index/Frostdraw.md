@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 193156
+revid: 193261
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1229,13 +1229,13 @@ These Talents are found in the _Frostdrawer_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Frostdrawer  
-(1 Frostdraw) | Grants you the ability to command Ice as a Frostdrawer. | N/A |
+(1 Frostdraw) | Grants you the ability to command Ice as a Frostdrawer. |  |
 |  | Adept Frostdrawer  
-(20 Frostdraw) | You can now obtain 1-Star Frostdraw Mantras. | N/A |
+(20 Frostdraw) | You can now obtain 1-Star Frostdraw Mantras. |  |
 |  | Expert Frostdrawer  
-(30 Frostdraw) | You can now obtain 2-Star Frostdraw Mantras. | N/A |
+(30 Frostdraw) | You can now obtain 2-Star Frostdraw Mantras. |  |
 |  | Master Frostdrawer  
-(50 Frostdraw) | You can now obtain 3-Star Frostdraw Mantras. (+5 Health) | N/A |
+(50 Frostdraw) | You can now obtain 3-Star Frostdraw Mantras. (+5 Health) |  |
 |  | Cold Front  
 (25 Frostdraw, Cryonis) | Your Vent is imbued with glacial frost. | Venting creates an ice patch on the floor and applies Chill to any enemy hit by it. |
 
@@ -1250,7 +1250,7 @@ These Talents are found in the _Cryomancer_ category.
 |  | Condensation Drip  
 (15 Frostdraw, 20 Intelligence) | Passively collect condensation from the air, greatly reducing your thirst. (+4 Ether) | Approximately lower passive thirst gain by 3x. |
 |  | Cool Head  
-(30 Frostdraw) | If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown | N/A |
+(30 Frostdraw) | If set on fire while on ice, immediately put it out and gain the Cool Head status for 30s. During Cool Head, you cannot be lit on fire. 15s cooldown |  |
 |  | Fragile Freeze  
 (60 Frostdraw) | Your Light Attack's and Critical will now freeze chilled opponents on guardbreak. | Guardbreaking a chilled opponent with a weapon attack will [encase them in ice](Status_Effects.md#frozen), removing their ability to move, parry, block, or dodge for a short amount of time.  
 You can spam F to get out of Freeze faster.
@@ -1325,9 +1325,9 @@ These Talents are found in the _Ice Age_ category.
 |  | Bottom Freeze  
 (25 Frostdraw, Ice Forge Mantra) | Hitting chilled enemies with ice projectiles while they are on ice freezes them to the ground. | Prevents them from rotating their character and moving around overall. |
 |  | Cryonis  
-(40 Frostdraw) | All ice spells casted on top of ice cost less Ether. | Ice Mantras cost 40% less ether if casted while standing on ice. |
+(40 Frostdraw) | All ice spells casted on top of ice cost less Ether. | Frostdraw Mantras cost 40% less ether if casted while standing on ice. |
 |  | Frostbite  
-(25 Frostdraw) | Enemies can no longer heal when under the effect of your chill. | Makes enemies unable to heal when under the effect of your chill. |
+(25 Frostdraw) | Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled. |  |
 |  | Frost Buster  
 (45 Frostdraw, 15 Heavy Weapon, Cryonis) | Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve. | Using your Greatsword or Greataxe critical (not Greathammer nor Greatcannon) creates three ice patches in a horizontal line in front of your character. These ice patches last 1 minute 30 seconds. Additionally allows your critical to freeze and damage boats. |
 |  | Frozen Anchor  
@@ -1335,7 +1335,7 @@ These Talents are found in the _Ice Age_ category.
 |  | Frozen Pin-Cushion  
 (60 Frostdraw, Ice Daggers) | Hitting an opponent with your Ice Daggers causes them to freeze. | Hitting an opponent with Ice Daggers will encase them in ice, removing their ability to move, parry, block, or dodge for a short amount of time. |
 |  | Saint Jay  
-(25 Frostdraw, Frostbite) | When a chilled enemy receives a heal it's then redirected to you instead. While this is active and they are on ice your rate of healing is increased, raise your PvE Heal Boost to 10% as well. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
+(25 Frostdraw, Frostbite) | When a Chilled enemy receives a heal, it's nullified and 60% of the healing is redirected to you. While this is active and they are on ice your rate of healing is increased, raise your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% as well. | Saint Jay gets applied every time a new crystal is added for 2 seconds. Duration is refreshed once a new crystal is added (it doesn't stack). |
 |  | Stasis Strike  
 (90 Frostdraw, 90 Weapon, Glass Path: Crystallization) | Your crystal explosions deal more damage whenever your opponent is also bottom frozen. | Your crystal detonations deal 67% more damage against targets who are bottom frozen. |
 |  | Unyielding Frost  

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 192902
+revid: 193254
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -138,6 +138,17 @@ Dialogue: [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Galpin Spellhardt](Gal
 
 Dialogue: [Kaide](Kaide,_the_Drowned_Light.md)
 
+### The Old Dead
+
+-   Those that perished before the [Tides](#the-tides) and were thus spared from the [Drowning](#the-drowning).
+-   The last of their number, those who perished during the [Canticlysm](#the-canticlysm) but still before the [Tides](#the-tides), are known as the 'Last Dead'.
+
+Dialogue: | Books: | Glossary Entries: [The Moonseye](#the-moonseye)
+
+-   The [Moonseye](#the-moonseye) may well be the collective souls of the Old Dead.
+
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) if the player is a [Dawnwalker](Oath%253A_Dawnwalker.md) and has spoken to [Kaide](Kaide,_the_Drowned_Light.md) with a [Soulthorn](Soulthorn.md) equipped
+
 ### Yun'Shul, Keeper of Hearts
 
 -   A [Drowned God](#the-drowned-gods) said to preside over Hearts.
@@ -170,7 +181,7 @@ Dialogue: [Celtorian Guard](Celtorian_Guard.md)
 -   Despite their imperial proclivities, they are the primary funders of expeditions into the [Depths](#the-depths) by the [Divers](#the-divers) and the Ignition Union.
 -   The [Central Authority](#the-central-authority) is helmed by the [Sovereign](#the-sovereign-drallis-ehr) [Drallis Ehr](#the-sovereign-drallis-ehr) and his Council. An immortal, the [Sovereign](#the-sovereign-drallis-ehr) has been the head of state for the [Central Authority](#the-central-authority) since its inception.
 
-Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Nimea](Nimea.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
+Dialogue: [Akira](Akira.md), [Alpha](Alpha.md), [Amara](Amara.md), [Beiruul](Beiruul.md), [Caitus](Caitus.md), [Calamus](Calamus.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Captain Trist](Captain_Trist.md), [Chud Steel](Chud_Steel.md), [Dapple-Horned Besul](Dapple-Horned_Besul.md), [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md), [Etrean Guard](Etrean_Guard.md), [Evengarde Rest](Evengarde_Rest.md), [Galpin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md), [Hector](Hector.md), [Joshua](Joshua.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kelsius](Kelsius.md), [Kressa](Kressa.md), [Lysander Spellhardt](Lysander_Spellhardt.md), [Milgram](Milgram.md), [Nimea](Nimea.md), [Quiet Stranger](Quiet_Stranger.md), [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md), [Sachan Zaru Ganba](Sachan_Zaru_Ganba.md), [Scope](Scope.md), [Sentinel Augustus](Sentinel_Augustus.md), [Stock](Stock.md), [Windrunner](Windrunner.md) | Books: [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), [The Gideshu March](The_Gideshu_March.md) | Glossary Entries: [The Central Authority](#the-central-authority), [The Central Luminant](#the-central-luminant), [The Citadel of Markor](#the-citadel-of-markor)
 
 ### The Citadel of Markor
 
@@ -409,7 +420,12 @@ Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 -   Many believe that the Moonseye is a gate to the afterlife, and that their ancestors look down upon them from it.
 -   The light produced by the Moonseye is its own, and not a reflection of the [Suncross](#the-suncross).
 
-Dialogue: [Hiri](Hiri.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lament of Cirryn](Lament_of_Cirryn.md), [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md), [O Pardoner of Mine](O_Pardoner_of_Mine.md) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [The Lullaby Isles](#the-lullaby-isles), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+Dialogue: [Hiri](Hiri.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Lake](Lake.md), [Samael](Samael.md), [Soothsayer](Soothsayer.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [Lament of Cirryn](Lament_of_Cirryn.md), [Neatly Embelished Notebook](Neatly_Embelished_Notebook.md), [O Pardoner of Mine](O_Pardoner_of_Mine.md) | Glossary Entries: [Jurik, the Moonseye](#jurik-the-moonseye), [The Lullaby Isles](#the-lullaby-isles), [The Old Dead](#the-old-dead), [The Suncross](#the-suncross), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
+
+-   Evidence seems to support the theory that the Moonseye is a mass of souls.
+-   If the Moonseye is a mass of souls, it may well be that it holds the souls of the [Old Dead](#the-old-dead).
+
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) if the player is a [Dawnwalker](Oath%253A_Dawnwalker.md) and has spoken to [Kaide](Kaide,_the_Drowned_Light.md) with a [Soulthorn](Soulthorn.md) equipped
 
 -   The Moonseye is believed to project the same Light as [Lightkeepers](#lightkeep).
 
@@ -444,7 +460,7 @@ Dialogue: [Samael](Samael.md)
 -   A so-called 'Golden Age of Mankind' that was precipitated by the initial discovery and application of the [Song](#the-song) within [Lumen](#lumen).
 -   A time of great expansion, discovery, and conflict.
 
-Dialogue: [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Ploom](Ploom.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Old World](#the-old-world), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
+Dialogue: [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Ploom](Ploom.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv) | Glossary Entries: [Flamecharm](#flamecharm), [The Old Dead](#the-old-dead), [The Old World](#the-old-world), [The Shallows](#the-shallows), [The Song](#the-song), [The Tides](#the-tides)
 
 ### The Old World
 
@@ -488,7 +504,7 @@ Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 -   Often, the strong, the notable, the willful, the pious, or simply the unfortunate are said to possess 'heavier' souls, sinking further into the [Depths](#the-depths) should they [Drown](#the-drowning).
 -   No one who has perished in the [Depths](#the-depths) has ever returned.
 
-Dialogue: | Books: [Coldheart's Journal](<Coldheart's_Journal.md>) | Glossary Entries: [The Depths](#the-depths), [The Drowning](#the-drowning), [The Tides](#the-tides)
+Dialogue: | Books: [Coldheart's Journal](<Coldheart's_Journal.md>) | Glossary Entries: [The Depths](#the-depths), [The Drowning](#the-drowning), [The Old Dead](#the-old-dead), [The Tides](#the-tides)
 
 ### The Tides
 
@@ -501,7 +517,7 @@ Dialogue: | Books: [Coldheart's Journal](<Coldheart's_Journal.md>) | Glossary En
 -   The times since the Tides began are often referred to as 'The Aftertide', or as being 'Post-Tidal'.
 -   It is important to understand that the Tides are _not_ a historical event. They are an ongoing calamity, as [Lumen](#lumen) continues to slip further and further into the [Depths](#the-depths) below.
 
-Dialogue: [Alpha](Alpha.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raphael](Raphael.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
+Dialogue: [Alpha](Alpha.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Raphael](Raphael.md) | Books: [Children of the Aftertide I](Children_of_the_Aftertide.md#vol-1), [Coldheart's Journal](<Coldheart's_Journal.md>), [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [The Drowning](#the-drowning), [The Old Dead](#the-old-dead), [The Old World](#the-old-world), [The Shallows](#the-shallows) [The Song](#the-song), [The Voidsea](#the-voidsea)
 
 ## Places
 

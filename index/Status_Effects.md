@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 192658
+revid: 193263
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -245,8 +245,8 @@ Metallic spikes implanted into your body, inflicted by being hit by [Ironsing](I
 
 Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a translucent dark red effect on your blood bar. Effect varies depending on the percentage of your blood bar is Poisoned.
 
+-   At 20% Blood Poisoning, [Vasculitis](Talents.md#vasculitis) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them. In PvE this also gives you [Gem Enhancement](#gem-enhancement) for a short duration.
 -   At 25% Blood Poisoning, [Hemolysis](Talents.md#hemolysis) Talent is activatable, granting you a 20% critical damage bonus when hitting someone at or above 25% BP.
--   At 30% Blood Poisoning, [Vasculitis](Talents.md#vasculitis) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them.
 -   At 40% Blood Poisoning, Enemies are under an Anti-Heal effect.
 -   At 50% Blood Poisoning, Enemies have their damage reduced.
 -   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodwardens-sense) Talent is activatable, highlighting enemies when you hit them.

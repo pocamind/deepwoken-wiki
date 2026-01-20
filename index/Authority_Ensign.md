@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 192215
+revid: 193210
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins]
@@ -66,11 +66,11 @@ Speak to [Captain Trist](Captain_Trist.md), an Adret NPC located on the path fro
 
 Your current Mission objective and the Mission's location will be displayed on the top left of your screen, similar to [jobs](Job_Boards.md). You can right click the Mission popup to view its location on the map. The amount of time allocated to each mission depends on the mission location.
 
-Upon completing a Mission, you will have to report back to Captain Trist, this will also be timed. Upon reporting back, you will gain 45 points towards your promotion, EXP, and a very small chest. If you fail a Mission by running out of time, failing the objective, or dying, you will lose 25 promotion points instead. The mission will also be considered failed if you die on your way back to Captain Trist after a successful mission.
+Upon completing a Mission, you will have to report back to Captain Trist, this will also be timed. Upon reporting back, you will gain 45 points towards your promotion, EXP, a small chest, and 3-5 **full** training points. The amount of full training points depends on your rank.
 
-Leaving the game will forfeit your Mission and may result in your promotion points being **voided**. It is not advised to leave the game during an active mission.
+If you fail a Mission by running out of time, failing the objective, or dying, you will lose 25 promotion points instead. The mission will also be considered failed if any of the previous things happen while you are on your way back to Captain Trist after a successful mission. Leaving the game will forfeit your Mission and may result in your promotion points being **voided**. It is not advised to leave the game during an active mission.
 
-Even if you aren't in a squad, other players may be assigned to the same mission as you. For some Missions, like Armanent Sabotage, if the Mission is completed, it will be completed for both parties. If the Mission fails, both parties will be punished. Dying during a mission only counts as a Mission fail for the person who died.
+Even if you aren't in a Squad, other players may be assigned to the same Mission as you. For some Missions, like Armanent Sabotage, if the Mission is completed, it will be completed for both parties. Dying during a mission only counts as a Mission fail for the person who died.
 
 ### List of Missions
 

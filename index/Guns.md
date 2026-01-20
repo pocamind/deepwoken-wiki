@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 179451
+revid: 193203
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -289,14 +289,15 @@ Rifle moveset has a 5 hit combo (melee, shoot, melee, shoot, flourish). Rifles a
 
 Rifles have their own Talent tree - [Marksman](Talents.md#marksman).
 
--   _Leg Shot_ \[Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit, and also disables any speed boosts they get for the next 10 seconds.
+-   _Leg Shot_ \[Rare Talent\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enmies [Sluggish](Status_Effects.md#sluggish), and also disables any speed boosts they get for the next 10 seconds.
+    -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: 80 Medium Weapon, Rifle Equipped
 
--   Stock Bash \[Common Talent\] - \[Rifles\] Your running attacks now apply a brief amount of daze.
+-   Stock Bash \[Common Talent\] - Rifles Your running attacks now apply a brief amount of daze and [Stagger](Status_Effects.md#stagger) PvE enemies.
     -   Applies daze for one second.
     -   Prerequisites: 55 Medium Weapon, 25 Strength, Rifle Equipped
 
--   _Tactical Reload_ \[Rare Talent\] - \[Rifles\] Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
+-   _Tactical Reload_ \[Rare Talent\] - Rifles Activate to make your rifle shoot bullets for 15 seconds. (90 second CD)
     -   Upon activating the Talent tool, your rifle will gain the ability to fire [Bullets](Bullet_Casings.md) for 15 seconds.
     -   Note that you need physical bullets in your inventory for this Talent to work.
     -   Has a 60 second cooldown instead if you are wielding the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).

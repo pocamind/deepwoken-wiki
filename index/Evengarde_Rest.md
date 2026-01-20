@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 191424
+revid: 193248
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
@@ -35,25 +35,23 @@ After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals h
 
 **Base Dialogue:**
 
-Haven't done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest), nor killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and having High-Ally reputation with [Etrea](Etrea.md).
-
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td colspan="12"><i>*A chilling wind seems to pick up within the room as you approach the man. Something in your gut tells you now isn't the time to introduce yourself.*</i></td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 **Vigil's Savior:**
 
-After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest) from Apprentice Kj.
+This dialogue is unlocked once the player has completed the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling-quest) from Apprentice Kj. **Note: This set of dialogue is locked once the player meets the requirements for "Boss Fight Initiation."**
 
 <table>
 <tbody>
@@ -61,7 +59,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Ah, well if it isn't [name]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly.</td>
+  <td colspan="12">Ah, well if it isn't [First Name]. I'm sure we have much to talk about, but let me start by thanking you for saving one of our own. I'm in your debt, truly.</td>
 </tr>
 <tr>
   <td colspan="6">I need training.</td>
@@ -72,7 +70,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
   <td colspan="6"><i>*He grimaces.*</i> Be that as it may, his presence is the only thing standing in the way of a full invasion by the <a href="Glossary.md#the-central-authority">Central Authority</a>. My strength alone cannot hold them back.</td>
 </tr>
 <tr>
-  <td colspan="3">I'm not proficient in anything.</td>
+  <td colspan="3">I'm not very proficient in anything.</td>
   <td colspan="3">I need training in [Light]/[Medium]/[Heavy] Weapons.</td>
   <td colspan="3">Surely the Authority is better than the state Etrea is in right now?</td>
   <td colspan="3">What if Etrea could stand on its own?</td>
@@ -81,7 +79,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
   <td colspan="3">Although you helped us greatly, I do not have the time to teach a true beginner. Come back when you have displayed some level of competence.</td>
   <td colspan="3"><b>MED:</b> Ah, my specialty. Very well, I shall teach you the steps to become a Master.<br>
   <p><b>Other:</b> Ah, I will have to break out Astris and Aeris (LHT)/Galadriel (HVY). Very well, I shall teach you the steps to become a Master.</p></td>
-  <td colspan="3">They would strip our blades from our hands and destroy our way of life. Living under the thumb of Authority Peacekeepers is no life at all. I'd sooner fall upon my own blade than submit to those dogs.</td>
+  <td colspan="3">They would strip our blades from our hands and destroy our way of life. Living under the thumb of <a href="Glossary.md#the-central-authority">Authority</a> Peacekeepers is no life at all. I'd sooner fall upon my own blade than submit to those dogs.</td>
   <td colspan="3">Should the tides shift... I would gladly stand at your side in vanquishing that foul creature. For too long has Etrea been subject to the whims of others. Be that the Ministry or the <a href="Glossary.md#the-central-authority">Authority</a>...</td>
 </tr>
 <tr>
@@ -92,7 +90,7 @@ After having done the [Lost Sibling Quest](Temple_of_the_Blade.md#a-lost-sibling
 
 **Boss Fight Initiation:**
 
-After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High-Ally reputation with [Etrea](Etrea.md).
+This dialogue is unlocked once the player has defeated [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md) and has high Ally [Reputation](Reputation.md) with Etrea.
 
 **First Encounter:**
 
@@ -102,10 +100,10 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [name] what brings you here?</td>
+  <td colspan="12"><i>*The Maestro smiles as you approach him.*</i> [First Name], what brings you here?</td>
 </tr>
 <tr>
-  <td colspan="12">I feel as if we're unprepared against the Lord Regent.</td>
+  <td colspan="12">I feel as if we're underprepared against the Lord Regent.</td>
 </tr>
 <tr>
   <td colspan="12"><i>*He raises an eyebrow.*</i> As much as I hate to admit it.. You may be right. <i>*A moment of silence passes.*</i></td>
@@ -134,7 +132,7 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
 <tr>
   <td colspan="12"><i>*The Maestro smirks, he finds the concept amusing.*</i> A challenge, hm? Very well then, I will test your strength myself.<br>
   <b>HVY</b>: The weapon I will offer you is known as the "Pale Briar." It's a weapon of some significance from the West.<br>
-  <b>MED</b>: The blade I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history.<br>
+  <b>MED</b>: The weapon I will offer you is known as the "Purple Cloud." It's an ill-tempered blade with a long history.<br>
   <b>LHT</b>: The weapon I will offer you is known as the "Cerulean Thread". It's a fine dagger when coupled with steel wire as its thread.<br>
   That being said, I have no intention of going easy on you. This polearm (<b>HVY</b>) / blade (<b>MED</b>) / knife (<b>LHT</b>) cannot be handled by the faint of heart.</td>
 </tr>
@@ -155,11 +153,12 @@ After having killed [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md), and have High
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="6">Won against him once</td>
-  <td colspan="6">Never won against him</td>
+  <td colspan="6">Maestro Defeated</td>
+  <td colspan="6">Maestro Undefeated</td>
 </tr>
 <tr>
-  <td colspan="6">*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [name]. How's "Pale Briar (<b>HVY</b>) / Purple Cloud (<b>MED</b>) / Cerulean Thread (<b>LHT</b>)" treating you?</td>
+  <td colspan="6">*<i>The Maestro smiles</i>*. Ah, well if it isn't my friend, [First Name].<br>
+  <font>[Player has obtained a weapon from Evengarde Rest]</font><p>How's "Pale Briar (<b>HVY</b>) / Purple Cloud (<b>MED</b>) / Cerulean Thread (<b>LHT</b>)" treating you?</p></td>
   <td colspan="6">*<i>The Maestro grins.</i>* I'll skip the formalities, I assume you have already practiced after our last bout. Ready for another shot?</td>
 </tr>
 <tr>

@@ -1,9 +1,11 @@
 ---
 title: Temple Sparring Hall (Dungeon)
-revid: 188771
+revid: 193245
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Dungeon)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea, Dungeons]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant, Territory of Etrea, Dungeons]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Temple Sparring Hall (Dungeon)
@@ -16,17 +18,13 @@ Template:Location2
 
 ## Overview
 
-Temple Sparring Hall is a dungeon that can be reached from the [Isle of Vigils](Isle_of_Vigils.md). It is an enormous well lit hall, made in a Japanese-like style, surrounded by stone statues and with the lanterns on the roof.
+Temple Sparring Hall is an enormous hall with many hanging lanterns made in a Japanese-like style, surrounded by stone statues and with the lanterns on the roof.
 
--   This is a place, where player fights [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md). Player can reach it by completing certain actions and then talking to the Maestro. Upon entering the dungeon, talk to the Evangarde Rest and the fight will start. Once you do it, you can't leave this place until you defeat him or die.
--   When sparring with an instructor at [Vigils](Isle_of_Vigils.md) you get send to this place as an instanced server.
--   Upon the Instructor getting you below 0 health, your health will be reset.
--   Surprisingly, if you use the Boulder training gear and drain your health below 0, it will **make you lose a life.**
--   The temple instructor **Can and WILL make you lose blood. If you get knocked from blood loss, you will lose a life.**
--   Your Health, Hunger, Thirst, Blood and Sanity will transfer between the Dungeon and the Isle of Vigils.
--   Commonly regarded as a generally bad update.
+To enter the Temple Sparring Hall, players will have to speak with [Das](Das.md) in the
 
-## Potential enemies
+## Trivia
 
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Instructor](Blade_Instructor.md)
+-   Upon the Trainer getting the player to zero health, their health will be automatically reset to max.
+-   Using a [Boulder](Training_Gear.md#attribute-training-gears) to drain max health will cause the player to lose a life.
+-   Getting knocked from blood loss will cause the player to lose a life.
+-   Health, Hunger, Thirst, Blood and Sanity will transfer between the Dungeon and the players last location
