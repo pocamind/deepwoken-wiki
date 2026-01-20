@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 192067
+revid: 193291
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -26,18 +26,18 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the 49th Legion and a user of [Oath: Blightsurger](Oath%253A_Blightsurger.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.
+**Titus Fulminus Destellus** is an instanced [Boss](Bosses.md) fought and contained at the [Merit Detainment Core](Merit_Detainment_Core.md) within the Eastern Luminant's [Fort Merit](Fort_Merit.md). He was the commander of the 49th Legion and a user of the [Blightsurger](Oath%253A_Blightsurger.md) [Oath](Oaths.md) before being captured by [The Central Authority](The_Central_Authority.md) for the sake of strategy.[\[1\]](#cite-note-1)
 
 A Khan with great stature, he's around twice the height of the player. He has wrinkles on his face and greyed out dreads, signifying his older age. Titus wields the [Worldpiercer Gauntlets](Worldpiercer_Gauntlets.md) and wears the [Titus's Raiment](<Titus's_Raiment.md>) with his [Titus's Cape](<Titus's_Cape.md>). He also carries a bell on his hip, signifying that he is strong enough to have obtained a [Resonance](Resonance.md).
 
-His sheer size creates a physical resilience against attacks, but is also mentally resilient as well.[\[1\]](#cite-note-1) Alongside this, he had a unrivaled, strategic mind, allowing him to catch The Authority off-guard, and even survive when outnumbered.[\[2\]](#cite-note-2)
+His sheer size creates a physical resilience against attacks, but is also mentally resilient as well.[\[2\]](#cite-note-sres-2) Alongside this, he had a unrivaled, strategic mind, allowing him to catch The Authority off-guard, and even survive when outnumbered.[\[3\]](#cite-note-3)
 
-Upon his capture, he intentionally let his guard down to get captured by [Sentinel Augustus](Sentinel_Augustus.md), for the sake of gathering intel within the confines of the Authority.[\[3\]](#cite-note-3)[\[4\]](#cite-note-4) Titus was expected to retire after a few missions prior to his capture, but may have given up on it after receiving the message from the player.[\[5\]](#cite-note-5)
+Upon his capture, he intentionally let his guard down to get captured by [Sentinel Augustus](Sentinel_Augustus.md), for the sake of gathering intel within the confines of the Authority.[\[4\]](#cite-note-4)[\[5\]](#cite-note-5) Titus was expected to retire after a few missions prior to his capture, but may have given up on it after receiving the message from the player.[\[6\]](#cite-note-6)
 
-### Starting the Fight with Titus
+### Initiating the Fight with Titus
 
 1.  Have high 'Ally' or above reputation with [The Hundred Legions](The_Hundred_Legions.md).
-2.  Talk to [Caitus](Caitus.md) at the Legion camp at Erisia to obtain the [Legion Intelligence](Legion_Intelligence.md) quest item.
+2.  Speak with [Caitus](Caitus.md) at the Legion camp at [Lower Erisia](Lower_Erisia.md) to obtain the [Legion Intelligence](Legion_Intelligence.md) quest item.
 3.  Having the Legion Intelligence will unlock a unique set of dialogue with Titus. Selecting it will start the fight.
 
 ## Moves
@@ -203,10 +203,10 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 ### Passives
 
--   **Quaking Presence** - The rumbling presence of Titus will break nearby campfires and cause debris to fall into the prison, dealing damage to the player.
--   **Thorn Guard** - Titus is immune to Providence's Thorns.
--   **Unharvestable** - Healing from Bloodless Gems are less effective.
--   **Commanders Respite** - Titus will begin regenerating health when not actively engaged in combat
+-   **Commanders Respite** - Titus will begin regenerating health when not actively engaged in combat.
+-   **Quaking Presence** - The rumbling presence of Titus will break any nearby campfires and cause debris to collapse from the ceiling.
+-   **Thorn Guard** - Titus is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
+-   **Unharvestable** - Healing from [Bloodless Gems](Bloodless_Gem.md) are less effective.
 
 ## Tips and Strategies
 
@@ -505,19 +505,25 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 ## Trivia
 
 -   Titus' middle and last names, "Fulminus Destellus" means "Starlight Lightning" in Latin, mirroring the origins of where he earned his name.
--   Titus was rumored to surrender to the Authority on purpose by high command in order to gain intel and break out.\[citation needed\]
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   The placeholder name "Franky Strabes" will appear on Titus' combat tag.
--   The theme that plays during his fight is called [Chainbreaker](https://www.youtube.com/watch?v=Q6b3_Uu-PkU).
--   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well with [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger.
+-   The theme that plays during his fight is [Chainbreaker](Deepwoken_OST.md#chainbreaker).
+-   It is implied that Titus uses both [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) due to the variant of his [Chorus Divide](Chorus_Divide.md) being Galebreathe as well as [High Inquisitor Merey](High_Inquisitor_Merey.md) stating that shocking him with Thundercall only makes him stronger..[\[2\]](#cite-note-sres-2)
 -   Strangely enough, unlike other bosses, Titus does not drop [Pluripotent Alloy](Pluripotent_Alloy.md) nor [Ardour Manifestation](Ardour_Manifestation.md).
     -   This is because Titus does not actually die nor despawn when you defeat him most of the time. If you do manage to autogrip him however, he will appropriately grant these rewards.
 -   Titus second phase can be bypassed when the player uses [Poser's Ring](<Poser's_Ring.md>) (if quick enough) or the [Moppet](Moppet.md) weapon. When this happens, a loot chest will drop and Titus' health will fall to zero. He will then enter his second phase animation and his health will return, but he will stay completely docile and will not attack the player. Killing him again will not give any extra loot.
 
 ## References
 
-1.  [↑](#cite-ref-1) [High Inquisitor Merey](High_Inquisitor_Merey.md): "He's rather physically and mentally resilient. (...) In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods."
-2.  [↑](#cite-ref-2) [Sentinel Augustus](Sentinel_Augustus.md): "He'd catch us in ambushes, set traps for us, and always be three steps ahead of us. When outnumbered, he would often survive just through sheer strength and discipline. I couldn't stand it."
-3.  [↑](#cite-ref-3) [Sentinel Augustus](Sentinel_Augustus.md): "But... Something was off, when we fought in Aratel. I can't put my finger on it. It felt like he wasn't giving it his all."
-4.  [↑](#cite-ref-4) [Caitus](Caitus.md): "Rumour has it he was meant to gather intel from the inside, then break out - or be broken out. Some say it was meant to be some sort of pincer attack on Merit.
-5.  [↑](#cite-ref-5) [Caitus](Caitus.md): "He was supposed to retire after his final few missions, including this one... Guess he's thrown that straight into the sea."
+1.  [↑](#cite-ref-1) [Book](Books.md): [Legion Intelligence](Legion_Intelligence.md)  
+    _A CHALLENGING DECISION HAS BEEN TAKEN TO DELAY YOVR FREEDOM IN FAVOVR OF THE IMPROVEMENT OF OVR STRATEGIC ODDS._
+2.  ↑ [2.0](#cite-ref-sres-2-0) [2.1](#cite-ref-sres-2-1) NPC dialogue: [High Inquisitor Merey](High_Inquisitor_Merey.md)  
+    _He's rather physically and mentally resilient. (...) In fact the shocks only seem to invigorate him. And, his astonishingly high pain threshold makes it difficult to apply most other methods._
+3.  [↑](#cite-ref-3) NPC dialogue: [Sentinel Augustus](Sentinel_Augustus.md)  
+    _He'd catch us in ambushes, set traps for us, and always be three steps ahead of us. When outnumbered, he would often survive just through sheer strength and discipline. I couldn't stand it._
+4.  [↑](#cite-ref-4) NPC dialogue: [Sentinel Augustus](Sentinel_Augustus.md)  
+    _But... Something was off, when we fought in Aratel. I can't put my finger on it. It felt like he wasn't giving it his all._
+5.  [↑](#cite-ref-5) NPC dialogue: [Caitus](Caitus.md)  
+    _Rumour has it he was meant to gather intel from the inside, then break out - or be broken out. Some say it was meant to be some sort of pincer attack on Merit._
+6.  [↑](#cite-ref-6) NPC dialogue: [Caitus](Caitus.md)  
+    _He was supposed to retire after his final few missions, including this one... Guess he's thrown that straight into the sea._

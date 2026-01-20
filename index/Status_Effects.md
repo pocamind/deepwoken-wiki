@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 193263
+revid: 193326
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -390,7 +390,7 @@ Applied from the [Reinforce](Attunement-less.md#reinforce) Mantra and [Golden To
 
 #### Lord's Tithe
 
-If the caster has [Lord's Tithe](Talents.md#lords-tithe) and buffs another player with [Reinforce](Attunement-less.md#reinforce), they will siphon that player's Ether until the caster's Ether bar is full. This effect will end early when the caster takes damage, if the caster blocks an attack, or if the afflicted person goes under 5% Ether. Signified by red Reinforce particles surrounding the body and a black tendril extending towards the caster; this visual stacks with the base Reinforce visual.
+If the caster has [Lord's Tithe](Talents.md#lords-tithe) and buffs another player with [Reinforce](Attunement-less.md#reinforce), they will siphon that player's Ether until the caster's Ether bar is full. This effect will end early when the caster takes damage, if the caster blocks an attack, or if the afflicted person goes under 5% Ether. The Ether steal scales on the user's Shadowcast investment. Steals health from enemies in PvE. Signified by red Reinforce particles surrounding the body and a black tendril extending towards the caster; this visual stacks with the base Reinforce visual.
 
 ### Glorious Charge
 
@@ -505,7 +505,7 @@ Applied through the Reinforced War Set's Talent [Lasting Trauma](Talents.md#last
 
 ### Etherguard
 
-Applied through the Bluestone Set's _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based on their Ether cost for 15 seconds.
+Applied through the Bluestone Set's _Etherguard_ Talent; upon landing any Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, you will gain resistance to Mantras based on their Ether cost, alongside resistance to Elemental Damage in PvE; both effects lasting for 15 seconds.
 
 ### Embraced in Light
 
@@ -664,6 +664,10 @@ Applied by being near someone with the [Audacity](Talents.md#audacity) Talent wh
 
 Be unable to use your [Vent](Combat_Mechanics.md) for a few seconds. Though applied most notably through the Strength Talent, [Collapsed Lung](Talents.md#collapsed-lung), this effect can also be applied through the [Reinforced War Plate's](Reinforced_War_Plate.md) Talent, [Crippling Impact](Talents.md#crippling-impact). This effect has no visual indicator.
 
+### Collapsed
+
+This status effect can only be applied in PvE. Upon proccing [Collapsed Lung](Talents.md#collapsed-lung) on a PvE enemy, also apply the Collapsed status effect to them. While affected, enemies deal 40% less posture damage to you.
+
 ### Precise Swing
 
 Applied through the [Precise Swing](Talents.md#precise-swing) Talent, this effect grants 25% additive chip damage to your next M1. The Precise Swing status effect lasts 30 seconds, but will be consumed if your next M1 lands, hit someone's block, or gets parried. This effect has no visual indicator.
@@ -671,6 +675,26 @@ Applied through the [Precise Swing](Talents.md#precise-swing) Talent, this effec
 ### Shocking Reverb
 
 After meeting a damage threshold with Thundercall damage, gain the Shocking Reverb status effect. This effect nullifies damage taken by M1s and [Ironsing](Ironsing.md) for 15 seconds. Applied through the [Shocking Reverb](Talents.md#shocking-reverb) Talent, this effect is signified by your character being entirely enveloped in arcing bolts of electricity.
+
+### Martyrdom
+
+Upon being knocked Unconscious while having the [Martyr](Talents.md#martyr) Talent, grant your nearby allies the Martyrdom status effect for 20 seconds. This grants +20% damage and damage reduction.
+
+### Stagger
+
+This status effect can only be applied in PvE. Increase the amount of posture damage your opponent takes by 33%. This effect can be applied through a multitude of Talents.
+
+### Ether Sunder
+
+This status effect can only be applied in PvE. Gain +30% elemental damage reduction against PvE targets for the duration of Ether Sunder. This effect can be applied from the [Chronostasis](Talents.md#chronostasis), [Dark Waltz](Talents.md#dark-waltz), and [Sightless Still](Talents.md#sightless-still) Talents.
+
+### Heal Boost
+
+This status effect can only be applied in PvE. Increase the amount of healing gained from targets who are affected by your Anti-Heal. Each Anti-Heal Talent grants a different amount of Heal Boost, and you need to have their effects active for this to activate. These Talents are: [All Above, Gods Below](Talents.md#all-above-gods-below) (+15%), [All the Dead Gods](Talents.md#all-the-dead-gods) (+5%), [Frostbite](Talents.md#frostbite) (+5%), [Saint Jay](Talents.md#saint-jay) (+10%), and [Sin Stacker](Talents.md#sin-stacker) (+10%) for a maximum possible Heal Boost of 45%.
+
+### Sluggish
+
+This status effect can only be applied in PvE. Upon proccing specific Talents that apply a slowing effect, also proc Sluggish. This effect reduces the damage enemies deal, with its duration being based on the slow that procced this effect.
 
 ### Fight
 
@@ -740,6 +764,10 @@ After [feinting](Combat_Mechanics.md#feinting) a Galebreathe Mantra with the Inh
 
 After using Inhale, gain the Maestro's Blade status effect. During the duration of this status effect, your melee attacks will benefit from [After Cut](Talents.md#after-cut) and [Possession](Talents.md#possession). The duration of Maestro's Blade is based off the Ether cost of the Inhaled Mantra, being (Mantra Ether cost/5) seconds; [Blue Gem](Blue_Gem.md) and [Warped Blue Gem](Warped_Blue_Gem.md) are not taken into account for Maestro's Blade duration. Maestro's Blade is signified by your hand emitting wind effects.
 
+### Gale Reflection
+
+This status effect can only be applied in PvE. Upon killing a PvE enemy while having the [Gale Trap](Talents.md#gale-trap) Talent, gain the Gale Reflection status effect. The next time any PvE enemy attempts to hit you, you will gain damage reduction to the attack and they will be Gale Trapped, dealing damage to them. The damage this deals is based on the maximum health of the target you killed.
+
 ### Orbital Ice
 
 Gain 15% physical damage reduction. Applied through the [Orbital Ice](Talents.md#orbital-ice) Talent. The durability of Orbital Ice scales on your Frostdraw investment. Signified by ice cubes floating around your character. This effect can be upgraded with the [Glacial Coasting](Talents.md#glacial-coasting) Talent, leaving ice patches on the path you slide.
@@ -805,6 +833,10 @@ Take 4.5 damage and lose 2% of your maximum blood per second, but gain a 15% dam
 ### Torture Mastery
 
 All chip damage dealt to an opponent affected by Torture Mastery will be transferred into healing for yourself. The conversion rate is 1:1 with damage dealt to healing gained. To proc this effect, you must land a critical attack while having the [Torture Mastery](Talents.md#torture-mastery) Talent. Torture Mastery lasts 15 seconds, doubled to 30 if you have [Rush Hour](#rush-hour) active on Talent proc. This effect is signified by a crimson chain linking yourself and affected opponents.
+
+### Gem Enhancement
+
+This status effect can only be applied in PvE. Upon proccing [Vasculitis](Talents.md#vasculitis) on a PvE enemy, gain the Gem Enhancement status effect, increasing the potency of your [Deep Gems](Deep_Gems.md) against PvE targets.
 
 ## Deep Gem Applied
 

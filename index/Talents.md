@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193206
+revid: 193333
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1690,7 +1690,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Heretic
 
--   _All the Dead Gods_ \[Rare Talent, Intelligence, Willpower\] - Your Basic Attacks now apply anti-heal for 8s. (+7 Sanity)
+-   _All the Dead Gods_ \[Rare Talent, Intelligence, Willpower\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s. (+7 Sanity)
     -   Whenever you land a Basic Attack, the target has most healing forms reduced/disabled for 8 seconds.
         -   Anti-heal amount for any non-passive source of healing scales on your combined Willpower and Intelligence investment. Scales up to 100% with 105 points combined in both stats. (Ex. Still has 100% antiheal at 80 Willpower + 25 Intelligence OR 55 Willpower + 50 Intelligence). Relevant for [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
         -   Anti-heal percentage can be calculated by combining your INT and WLP invest, dividing by 105, then multiplying by 100. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 0.762) > (0.762 \* 100 = 76.2% Anti-heal)
@@ -1701,6 +1701,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Does not work on allies.
     -   Does not affect healthpacks.
     -   Also procs on criticals with the M1 tag.
+    -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
+    -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
     -   Prerequisites: 65 Willpower, 40 Intelligence
 
 -   _**All Above, Gods Below**_ \[Advanced Talent, Intelligence, Willpower\] - Any healing your opponent were to receive while All The Dead Gods is active on them is stolen and given to you, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 15% as well. (+20 Sanity)
@@ -1726,10 +1728,12 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   Note that this passive does **NOT** work with _Lose Your Mind_, as it only procs based on your current sanity percentage. And while Heretic's Sutra can help with sanity loss, it does not passively activate _Lose Your Mind_.
     -   Prerequisites: 80 Willpower, have had tier 1 insanity (shivering), and talk to [Kasen](Kasen.md), located in [Layer 2 Floor 1](Second_Layer/The_Ethironal_Shrine.md).
 
--   _Sin Stacker_ \[Rare Talent, Willpower\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent.
+-   _Sin Stacker_ \[Rare Talent, Willpower\] - Your All The Dead Gods' duration is now based on how many stacks of antiheal you already have on your opponent, increase your PvE [Heal Boost](Status_Effects.md#heal-boost) to 10% instead. (+8 Sanity)
     -   By landing additional basic attacks on a target affected by All the Dead Gods' Anti-Heal, you can increase the duration of subsequently applied Anti-Heal stacks by 1 second per Anti-Heal stacks affected the target.
         -   Starting at 1 Anti-Heal stack lasting 8 seconds, applying another will make the second stack last 9 seconds, and applying another will make the third stack last 10 seconds, etc.
     -   As Anti-Heal stacks decay, the additional duration they apply to future stacks will be nullified. For example, if you apply Stack 1 for 8 seconds and Stack 2 for 9 seconds, then wait until Stack 1 runs out of duration before landing another hit, Anti-Heal from the third M1 will only last 9 seconds.
+    -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +10% Heal Boost.
+    -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
     -   Prerequisites: All the Dead Gods, 90 Willpower
 
 ### Human Architecture
@@ -2113,7 +2117,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Deals 5% of your **current** health as Thundercall self damage.
     -   Amped grants your weapon attacks a 10% damage buff and allows your weapon attacks to apply Shock or Surge Rods on hit.
     -   While Amped, you take 10% more damage from all sources.
-    -   Currently bugged; you cannot use Electrify unless your weapon is sheathed, and Electrify has no cooldown. The buffs do not stack however.
     -   Deals Thundercall self damage with hitstun and applies Shock/Surge Rods to yourself on cast, if used without being carried.
     -   Previously known as Static Withdraw.
     -   Prerequisites: 25 Thundercall
@@ -2270,8 +2273,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Limitbreaker
 
--   Comeback Kid \[Common Talent\] - When waking up from being [Unconscious](Status_Effects.md#unconscious) you are unable to be knocked down for 5 seconds. (120 second cooldown)
+-   Comeback Kid \[Common Talent\] - When waking up from being [Unconscious](Status_Effects.md#unconscious) you are unable to be knocked down for 5 seconds.
     -   Gain total immunity to getting knocked when you wake up from being knocked. You can still be damaged but wont be knocked even at 0%.
+    -   2 minute cooldown.
     -   Prerequisite: [Power](Power.md) 8
 
 -   Defiant until the End \[Common Talent, Willpower\] - Slow the enemy trying to execute you down with one last shout of your determination. (+6 Sanity)
@@ -2284,8 +2288,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Red particles appear around your shoulders while the Talent is active.
     -   Prerequisite: 35 Willpower
 
--   The Eleventh Hour \[Common Talent, Willpower\] - When below 15% health your mantras require no ether to cast for 11 seconds. (60 Second Cooldown) (+10 Sanity)
-    -   Lasts 30 seconds with a 90 second cooldown, the Talent description was never updated.
+-   The Eleventh Hour \[Common Talent, Willpower\] - When below 15% health your mantras require no ether to cast for 11 seconds. (+10 Sanity)
+    -   Lasts 30 seconds with a 90 second cooldown.
     -   Prerequisite: 35 Willpower
 
 ### Linkstrider
@@ -2734,7 +2738,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Complete [Beiruul](Beiruul.md)'s quest
 
 -   _Kj's Courage_ \[Quest Talent\] - Gain 10% more Knowledge from all sources, rounded down.
-    -   This will only impact you if you gain 5 or more Knowledge in one instance.
+    -   This will only impact you if you gain 10 or more Knowledge in one instance.
     -   Prerequisite: Complete [Apprentice Kj](Apprentice_Kj.md)'s quest, then return to him
 
 -   _Nanji's Training_ \[Quest Talent\] - Nanji shows you a better way to properly block attacks using a weapon, granting you 1 Posture. (+1 Posture)
@@ -3083,6 +3087,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Vasculitis \[Common Talent, Bloodrend, Intelligence\] - Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you [Gem Enhancement](Status_Effects.md#gem-enhancement) against PvE temporarily.
     -   On proc, your opponent will be unable to use their [Deep Gems](Deep_Gems.md) for 8 seconds.
+    -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Prerequisite: 40 Bloodrend, 35 Intelligence
 
 ### Shadowcast Master
@@ -4076,8 +4081,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Careful Handling_ \[Quest Talent\] - Reduce your chances of dropping ingredients on death.
     -   Prerequisite: Complete [Suri](Suri.md)'s quest
 
--   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether. 2s CD
+-   Dragon's Song \[Common Talent\] - Using a mantra after an uppercut grants ether.
     -   Grants +20 Ether on proc.
+    -   2 second cooldown.
 
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
     -   Prerequisites: [Power](Power.md) 16, Obtain resonance
@@ -4086,7 +4092,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: [Power](Power.md) 5
         -   The head equipment "[Chef's Toque](<Chef's_Toque.md>)" has this Talent.
 
--   Heavy Haul \[Common Talent, Strength\] - Take slightly less posture damage from large enemies. Takes one to know one.
+-   Heavy Haul \[Common Talent, Strength\] - Enemies who carry you move significantly slower. Take slightly less posture damage from large enemies. Takes one to know one.
     -   Prerequisite: 15 Strength
     -   The [Grand Authority Plate](Grand_Authority_Plate.md) equipment has this talent.
 
@@ -4174,6 +4180,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Expeditionary Evasiveness: [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap.
     -   [Agility Mantras](Attunement-less.md#agility-mantras) gain +3 Mantra levels. This bypasses the normal Mantra level cap of 5.
+    -   [Jetstriker](Oath%253A_Jetstriker.md) Mantras are unaffected.
 
 -   Expeditious Combo: [Iron Birch](Iron_Birch.md) - Landing an uppercut will grant a buff to your [Onslaught](Attunement-less.md#onslaught) for 15 seconds, using Onslaught during this time will massively increase the speed of it.
     -   Passively increases the speed of your Onslaught.
@@ -4183,7 +4190,9 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   Has a sound effect on uppercut.
 
 -   Extended Trauma: [Morning Star](Morning_Star.md) - Successful light attacks and criticals on your opponent now also gives them a bit of posture.
-    -   Your weapon attacks will deal posture damage on top of their regular damage.
+    -   Your M1s deal 3 posture damage to non-blocking opponents. Your criticals deal 10 posture damage to non-blocking opponents.
+    -   This cannot guardbreak.
+    -   This does not benefit from posture damage modifiers. Additionally, your weapon's damage and weight stat have no impact on this Talent's effects.
 
 -   Finishing Slay: [Messer](Messer.md) - If you land a critical attack while also having stacks from the Chain of Perfection talent, consume all those for a massive damaging attack. This works on other players as well.
     -   Consumes all of your Chains of Perfection stacks for a secondary instance of damage on your critical.
@@ -4200,7 +4209,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   If a player has two or more Forced Fulfilment rods, they will not be able to move unless they have a speed boost.
 
 -   Pierce Through: [Ritual Spear](Ritual_Spear.md) - Remove the autoparry frames the first hit of your base spear critical has.
-    -   The first hit of the default spear critical will bypass your opponent's autoparry frames.
+    -   The **default** spear critical no longer gets canceled if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.
 
 -   Pugnacious: [Warmonger](Warmonger.md) - Become stronger the more you are combat tagged. Gain even more strength whenever you grip a player.
     -   Gain various stacking buffs scaling on the amount of combat tags you have. This effect is greatly improved whenever you grip a player.
@@ -4229,8 +4238,6 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Stomach restoration
         -   Speed boost for 10 seconds
 
--   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical deals 25 extra true damage.
-
 -   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
     -   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.
         -   If you are wearing the [Authority Commander](Authority_Commander.md) Outfit, the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
@@ -4238,6 +4245,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   [Curse of the Unbidden](Curse_of_the_Unbidden.md) has its posture restoration increased by **10%**, restoring 40% of your posture instead of the usual 30%.
     -   [Payback](Payback.md), the Resonance, has its active counter frames increased by **0.7** seconds.
     -   Oath-based counters ([Illusory Counter](Oath%253A_Visionshaper.md#illusory-counter) and [Equalizer](Oath%253A_Contractor.md#equalizer)) **do not** have any affect with this Talent.
+
+-   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical deals 25 extra true damage.
 
 -   Static Beatdown: [Legion Cestus](Legion_Cestus.md) - The metal the cestus is made from allows electricity to be conducted easily through it, allowing you to further extend how long your opponents are stuck in shaky block based on your total Thundercall investment.
 

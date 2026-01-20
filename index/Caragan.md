@@ -1,6 +1,6 @@
 ---
 title: Caragan
-revid: 192868
+revid: 193285
 source: https://deepwoken.fandom.com/wiki/Caragan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -27,7 +27,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Caragan is an [Etrean](Etrean.md) NPC, he is the [Blacksmith](Blacksmith.md) for [Etris](Etris.md). His assistant, [Pori](Pori.md), can be found outside the shop. His brother, [Baragan](Baragan.md), works at the [Isle of Vigils](Isle_of_Vigils.md).
+Caragan is an [Etrean](Etrean.md) NPC. He is the [Blacksmith](Blacksmith.md) for [Etris](Etris.md).
+
+His assistant, [Pori](Pori.md), can be found outside the shop. His brother, [Baragan](Baragan.md), works at the [Isle of Vigils](Isle_of_Vigils.md).
 
 ## Location
 
@@ -157,4 +159,4 @@ This dialogue is unlocked if the player has started the "Lord Regent Who?" [Ques
 
 ## References
 
-1.  [↑](#cite-ref-1) [Baragan](Baragan.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [Baragan](Baragan.md)

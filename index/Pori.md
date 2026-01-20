@@ -1,6 +1,6 @@
 ---
 title: Pori
-revid: 191588
+revid: 193289
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -26,11 +26,13 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Pori is a young [Etrean](Etrean.md) NPC. He sits outside the shop, selling Cloth and Fiber for 6 and 3 notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 notes apiece.
+Pori is a young [Etrean](Etrean.md) NPC. He is the apprentice to [Blacksmith](Blacksmith.md) [Caragan](Caragan.md).
+
+He sits outside the shop, near Cloth and Fiber being sold for 6 and 3 notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 notes apiece.
 
 ## Location
 
-Pori is located outside of [Blacksmith](Blacksmith.md) [Caragan's](Caragan.md) shop at [Etris](Etris.md).
+Pori is located outside of Blacksmith Caragan shop at [Etris](Etris.md).
 
 ## Dialogue
 
@@ -96,6 +98,5 @@ This dialogue only appears if the player has chosen the option **"Don't worry, I
 
 ## Trivia
 
--   He is the apprentice of [Blacksmith](Blacksmith.md) [Caragan](Caragan.md).
--   If the player chooses the dialogue option to rat Leland out, they can speak to him again to gain the discounts.
+-   If the player chooses the dialogue option to rat Pori out, they can speak to him again to gain the discounts, with no changed dialogue.
 -   If the player already has the discounted items but loses enough reputation to become enemies with Etrea, the discount remains on materials.

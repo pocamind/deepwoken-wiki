@@ -1,6 +1,6 @@
 ---
 title: Deep Crucible
-revid: 193125
+revid: 193330
 source: https://deepwoken.fandom.com/wiki/Deep_Crucible
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics]
@@ -12,25 +12,17 @@ categories: [Pathfinder Exclusive, Mechanics]
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-The Deep Crucible in the front of the Hidden Village, without an artifact.
+The inconspicuous Deep Crucible, awaiting the flames of a Forge
 
 ## Description
 
-The Deep Crucible is a landmark in [The Hidden Village](The_Hidden_Village.md) in which you drop an [Artifact](Artifacts.md) into to summon random waves of enemies, similar to the depths trial at level 20 with 5 drowns. These enemies spawn one by one by an orb of light flying from the artifact, and landing on the person who placed it into the crucible. If multiple people are present at the time of the artifact being placed, it spawns another set of enemies and chests per person. The challenge ends after 20 (per person) enemies have been defeated.
+The Deep Crucible is an event that can be started at the front of [The Hidden Village](The_Hidden_Village.md) if a player places an [Artifact](Artifacts.md) inside of the brazier. Upon starting the event, "waves" of mobs will spawn one by one from white orbs that shoot out of the brazier, landing on the last location the player was standing on before shooting the orb. Orbs will continuously shoot out and spawn mobs, regardless if there are many already present. Additionally, if multiple players are present when the artifact is placed, the Deep Crucible will spawn an additional mob per wave. The Deep Crucible ends after twenty mobs (per person) have been slain.
 
-The enemies it spawns are: [Megalodaunts](Megalodaunt.md), [Rock Golems](Rock_Golem.md) (Prime Variant), [Mudskippers](Mudskipper.md) (Normal/Bloated/Mineskipper/Rotskipper Variants), [Sworn Angels](Sworn_Angel.md), and [Brainsuckers](Brainsucker.md).
+## Rewards
 
-It spawns 3 small chests and one large chest, possibly being better than just turning in the artifact, especially when done with multiple people, because of the extra chests.
-
-Each chest spawns after 5 enemies have been defeated, with the large chest signifying the end of the event.
-
-The Deep Crucible challenge does NOT scale with level and will spawn a random assortment of the enemies listed above. Rewards potentially scale with level, though this theory needs more testing.
-
-## Drops
-
-So far, it has been seen to drop Erisia loot, Deep gems and Enchants
+Upon first completion, the Deep Crucible will reward all participants that were present during its initiation with **60 Full Trainings**, equating to **4 Powers**. A total of 3 small chests will spawn in after every 5 waves are completed, with a large chest spawning after 20 waves, signifying the completion of the Deep Crucible.
 
 ## Trivia
 
--   If the player strays too far away from the Deep Crucible, the following text appears "You feel your connection to the Crucible sever..."
--   Potentially bugged, if someone doing the challenge dies, that person's mobs will continue spawning on the person after they respawned.
+-   If the player strays too far away from the Deep Crucible, the following text appears: "You feel your connection to the Crucible sever..."
+-   If someone has started the Deep Crucible but dies before its completion, mobs will continue to spawn.

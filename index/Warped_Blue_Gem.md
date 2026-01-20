@@ -1,6 +1,6 @@
 ---
 title: Warped Blue Gem
-revid: 190617
+revid: 193314
 source: https://deepwoken.fandom.com/wiki/Warped_Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems, Relics, Fishing Exclusive]
@@ -32,7 +32,7 @@ While you are swimming, the **total** Ether cost of your Mantra will be reduced 
 ### Notes
 
 -   This Gem is best used on heavily modified Mantras.
--   If you are using the [Bluestone Set](Bluestone_Pauldrons.md), landing a Mantra with a Warped Blue Gem will apply the [Etherguard](Status_Effects.md#etherguard) status effect to yourself for 15 seconds. Etherguard grants damage reduction to Mantras based on their Ether cost.
+-   If you are using the [Bluestone Set](Bluestone_Pauldrons.md), landing a Mantra with a Warped Blue Gem will apply the [Etherguard](Status_Effects.md#etherguard) status effect to yourself for 15 seconds. Etherguard grants damage reduction to Mantras based on their Ether cost. This also grants you extra resistance to all elemental damage in PvE.
 -   Warped Blue Gem is a stronger, yet more situational version of the [Blue Gem](Blue_Gem.md).
 
 ## Crafting

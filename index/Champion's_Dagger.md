@@ -1,6 +1,6 @@
 ---
 title: "Champion's Dagger"
-revid: 193035
+revid: 193278
 source: https://deepwoken.fandom.com/wiki/Champion's_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents]
@@ -43,6 +43,8 @@ The Champion's Dagger is a light weapon in the [dagger](Weapons.md) category.
 ## Talent: Rat's Spirit
 
 Equipping the Champion's Dagger grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Rat's Spirit** grants your critical +10 true damage per hit for every combat tag you have. You need to be combat tagged by at least 2 people to make this effect proc.
 
 ## Critical
 

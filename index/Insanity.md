@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 191060
+revid: 193325
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -68,8 +68,8 @@ When losing enough sanity, the player will endure negative effects.
 ## Trivia
 
 -   While often attributed to him by the community, [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>) is not the cause of Insanity; rather, the eldritch nature of the First Layer is responsible. This is likely why the Second Layer does not cause Insanity, as despite its variety of monsters it's more grounded in reality.
--   The maximum amount of Sanity you can have is 652-661 (80 base, 300-309 from [Willpower](Attributes.md#wll) investment, 154 from [Talents](Talents.md), and 118 from [Equipment](Equipment.md)).
-    -   If you are a [Ganymede](Ganymede.md), this is increased to 776.4-787.2 (80 base, 360-370.8 from [Willpower](Attributes.md#wll) investment, 184.8 from [Talents](Talents.md), and 141.6 from [Equipment](Equipment.md)), as Ganymede has a 1.2x Sanity gain multiplier.
+-   The maximum amount of Sanity you can have is 662-671 (80 base, 300-309 from [Willpower](Attributes.md#wll) investment, 164 from [Talents](Talents.md), and 118 from [Equipment](Equipment.md)).
+    -   If you are a [Ganymede](Ganymede.md), this is increased to 779.4-790.2 (80 base, 360-370.8 from [Willpower](Attributes.md#wll) investment, 197.8 from [Talents](Talents.md), and 141.6 from [Equipment](Equipment.md)), as Ganymede has a 1.2x Sanity gain multiplier.
     -   This equates to over 5 and a half hours of time spent in The Depths before you reach 0 Sanity, or over 6 and a half hours if you are a [Ganymede](Ganymede.md). If you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, then this will be decreased to just over 5 minutes, or just over 6 minutes as a Ganymede.
 -   Each point of Sanity equates to 30 seconds of time spent in The Depths before you reach 0 Sanity.
     -   If you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment, then each point of Sanity will equate to 0.49 seconds of time spent in The Depths before you reach 0 Sanity.

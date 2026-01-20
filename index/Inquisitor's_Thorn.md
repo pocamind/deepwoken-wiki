@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 193187
+revid: 193288
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -34,7 +34,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons wi
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Minityrsa, Miner's Landing, Songseeker Wilds, Starswept Valley, Deep Widow, Scion of Ethiron, Duke Erisia, Moon's Eyrie, The Depths, Maestro Evengarde Rest, Lodestar, Heart of Enmity, Dread Serpent, Chaser, War Mode |
+| obtainment | Minityrsa, Miner's Landing, Saramaed Hollow, Songseeker Wilds, Starswept Valley, Deep Widow, Scion of Ethiron, Duke Erisia, Moon's Eyrie, The Depths, Maestro Evengarde Rest, Lodestar, Heart of Enmity, Dread Serpent, Chaser, War Mode |
 | description | Deceivingly swift, this blade was once used to pierce through the carapaces of the indomitable Crustaceous Rex by members of the ill-fated Authority 'Expeditionary Corps'. |
 
 ## Description
@@ -48,6 +48,8 @@ Equipping the Inquisitor's Thorn grants its unique [weapon Talent](Talents.md#we
 **Expeditionary Evasiveness** increases the Mantra level of your [Agility Mantras](Attunement-less.md#agility-mantras) by +3. This bypasses the Level 5 cap. This is not displayed on the Mantra tooltip.
 
 This Talent is especially strong with [Adrenaline Surge](Attunement-less.md#adrenaline-surge), as its duration and cooldown scale with the Mantra's level. At level 8, this Mantra has a 24 second duration with a 25 second cooldown, meaning there's only 1 second of downtime.
+
+[Jetstriker](Oath%253A_Jetstriker.md) Mantras are unaffected.
 
 ## Critical
 

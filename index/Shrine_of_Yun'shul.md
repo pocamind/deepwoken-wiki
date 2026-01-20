@@ -1,11 +1,11 @@
 ---
-title: "Shrine of Yun'shul"
-revid: 180493
-source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'shul
+title: "Shrine of Yun'Shul"
+revid: 193327
+source: https://deepwoken.fandom.com/wiki/Shrine_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
 
-# Shrine of Yun'shul
+# Shrine of Yun'Shul
 
 Redirect to:
 

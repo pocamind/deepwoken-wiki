@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 193077
+revid: 193317
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Weapons with Talents]
@@ -45,6 +45,8 @@ The weapon itself is very similar to the [Iron Spear](Iron_Spear.md), having the
 ## Talent: Pierce Through
 
 Equipping the Ritual Spear grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Pierce Through** augments the first hit of your **default spear** critical. Your critical attack will no longer cancel if the first hit is parried, without giving autoparry frames. The second hit of your spear critical will almost always land because of this.
 
 ## Critical
 
