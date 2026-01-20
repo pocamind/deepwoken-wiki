@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 191644
+revid: 193336
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -25,9 +25,7 @@ Stratos is the second-in-command of the Blade Temple, residing on the [Isle of V
 
 ## Windwaker Quest
 
-To complete the quest, you need to sail for ≈15 minutes total on sea highways. This quest cannot be progressed on an Ironclad, as it lacks sails. You may also need to have the wind backing your sails on the sea highways.
-
-**Note: You cannot obtain Windwaker without being a [Galebreather](Galebreathe.md) with a minimum of 20 points invested, also you need to have "Friend" reputation with Etrea (75).** You can complete the quest, just without reward.
+To complete the quest, you must have the following requirements fulfilled, have a minimum of 20 points invested into [Galebreathe](Galebreathe.md) as well as "Friend" reputation with Etrea (~75).
 
 ### The Reward
 

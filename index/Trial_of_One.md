@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 193196
+revid: 193337
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -104,7 +104,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ### Rewards
 
--   Finishing the trial of one as any origin other from [Lone Warrior](Lone_Warrior.md) will grant you enough exp to get to power 3 right after you finish the trial. Finishing the trial by Lone Warrior Origin however, grants you the talent "Mark of the lonely warrior"
+-   Finishing the trial of one as any origin other from [Lone Warrior](Lone_Warrior.md) will grant you enough exp to get to power 3 right after you finish the trial, also grants you the talent "Mark of the Lone Warrior"
 -   The [Lone Warrior](Lone_Warrior.md) Origin after defeating the Thresher OR alternatively, wiping once.
 
 ### Death
@@ -129,7 +129,6 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   Sworn Angels use _[Crazy Slots's](Crazy_Slots.md)_ Soulwrought Spears, which differentiate them from [Hollow Angels](Hollow_Angel.md).
 -   You can go through the Light gate behind you to return to Minityrsa.
 -   If you go into the Trial of One, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
--   Beating the Trial as an [Adret](Adret.md) and with [Autodidact](Boons_and_Flaws.md#autodidact) gets you to Power 8, but you're not allowed to invest the last points from killing the [Alpha Megalodaunt](Alpha_Megalodaunt.md). (if you save your free points from each power up until you get out of trial of one, you will be able to get the points from the [Alpha Megalodaunt](Alpha_Megalodaunt.md), allowing you to reach power 9)
 -   [Deepbounds](Deepbound.md) that somehow make it out of The Depths at Power 1 are not able to enter the Trial of One.
 -   You can have enchanted weapons during the Trial via passing down or the Bank. (If you can't beat the Trial, you could enchant a Starter Weapon with the [Providence's Thorns](<Providence's_Thorns.md>) enchant because Trial of One is centered around parrying.)
 -   For a short duration, after the addition of the [Mudskipper Brute](Mudskipper_Brute.md), the [Megalodaunt](Megalodaunt.md) trial was replaced with a [Mudskipper Brute](Mudskipper_Brute.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.
@@ -137,7 +136,6 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
     -   Unknown if this means the [Voice of Solitude](Voices_of_the_Depths.md) participated in the creation (somehow) or just an oversight by the developers.
 -   When you get danger bug from "fearsome enemy" it shows that you are in danger by ".hostage\_nomad9".[\[1\]](#cite-note-1)
     -   Having [Providence's Thorns](<Providence's_Thorns.md>) lets you "kill" them and stop the orb attacks.
--   Full math for the trial: No autodidact or Adret: 10 points per trial, (parry test(10), sharko(20), golem(30), thresher(40), angels(50), enforcer,(60), sand knight(70), parry test 2(80), alpha sharko(90)) Plus 90 points gives us 6 levels, and if you have autodidact, +3x6, giving you one more power up and 5 extra points to put in, with adret, if you save them until after the trial and use them all at once, you can reach power 9 with points to spare, (+6x6=36, using those 36 gives you -15=21+6, 27-15=12+6= 18-15=3+6=9. Grand total points, with adret and autodidact, making sure to save those points until your out of trial, is 144 points)
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 177659
+revid: 193338
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -10,7 +10,7 @@ categories: [Mechanics]
 
 ## Description
 
-Motifs are a tool used to replace your current weapon critical with the critical from another weapon, this has restrictions and limitations however. To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a Motif-able weapon and choose the "Extract Motif" option. This will **permanently** destroy the weapon in the process.
+Motifs are a tool used to replace your current [weapon](Weapons.md) critical with the critical from another weapon, this has restrictions and limitations however. To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a Motif-able weapon and choose the "Extract Motif" option. This will **permanently** destroy the weapon in the process.
 
 Having a Motif on a weapon will make your weapon will go translucent on critical, showcasing a glowing version of the weapon the Motif is based on and **increasing the windup of your critical by 0.15s**. Default critical Motifs do not increase your critical windup.
 
