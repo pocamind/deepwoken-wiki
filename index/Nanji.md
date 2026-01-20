@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 192267
+revid: 193362
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
@@ -33,7 +33,7 @@ File:Image 2022-04-18 224253146.png
 
 An Etrean interacting with the sword
 
-Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) reputation, and Compassion.
+Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) reputation, Compassion, and the [Nanji's Training](Talents.md#nanjis-training) Talent, granting +1 Posture.
 
 1.  Go to the [Isle of Vigils](Isle_of_Vigils.md).
 2.  Find the Well Preserved Grave near the attunement training gear shop.

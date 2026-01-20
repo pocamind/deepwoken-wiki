@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 186087
+revid: 193352
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Skills, Talents]
@@ -28,13 +28,17 @@ _**NOTE: Currently, upon burning a card, the burn and freeze buttons will disapp
 
 ## Burns
 
-Used to Burn Talents. Once a Talent is Burnt, it cannot reappear ever again. Useful for removing useless Talents in order to increase chances of getting Talents that you want. If you have accidentally Burnt a card, you can restore it through the [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) for 1 [Knowledge](Knowledge.md), though this does not refund the Ace. Burning whole hand of cards will replace it with a new one.
+Used to Burn Talents. Once a Talent is Burnt, it cannot reappear ever again. Talents can be burned either from the Talent hand itself or your Talent Deck in the Journal. Useful for removing useless Talents in order to increase chances of getting Talents that you want. If you have accidentally Burnt a card, you can restore it through the [Shrine of Conceit](Deep_Shrines/Shrine_of_Conceit.md) for 1 [Knowledge](Knowledge.md), though this does not refund the Ace. Burning whole hand of cards will replace it with a new one.
 
 ## Freezes
 
-Used to Freeze Talents. Once a Talent is Frozen, it will remain in your selection until you select it or Freeze another card. Useful if there are two (or more) good Talents, but one is better than the other, so you can Freeze one and pick the other, then pick it in the next draw.
+Used to Freeze Talents or Mantras. Once a card is Frozen, it will remain in your selection until you select it or Freeze another card. Cards can only be Frozen from the Talent hand or Whisper Draw. Useful if there are two (or more) good Talents, but one is better than the other, so you can Freeze one and pick the other, then pick it in the next draw.
 
 If you Freeze one card, then use an Ace to Freeze another card in the next draw, it will not consume an Ace in the subsequent hand. It cannot, however, be used to obtain mutually exclusive Talents, this will consume the Ace and the Frozen talent will not appear in another hand. i.e Observation/Safety Dance with Risky Moves.
+
+## Fortell
+
+Accessible through your Talent Deck, you can "Fortell" a Talent at the cost of 1 Ace. This will guarantee that the Fortold card will appear in your future Talent hands. There is no limit to how many cards you can Fortell.
 
 ## Trivia
 

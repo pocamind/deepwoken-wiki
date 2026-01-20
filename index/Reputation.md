@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 186935
+revid: 193359
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Reputation, Mechanics]
@@ -16,7 +16,7 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 ## Description
 
-The reputation tab found while sitting at campfires. This is the starting reputation of the Castaway origin.
+The reputation tab accessed via the Journal. This is the starting reputation of the [Castaway](Castaway.md) Origin.
 
 The world of Deepwoken features diverse factions, each with their own narratives, objectives, characters, and areas. Player reputation shapes how both players and factions interact with each other.
 
@@ -29,7 +29,7 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 | Title | Reputation amount | Effects |
 | --- | --- | --- |
 | Hero | 300 | 
--   [The Central Authority](The_Central_Authority.md): Unlocks the [Authority Ensign](Authority_Ensign.md) [origin](Origins.md).
+-   [The Central Authority](The_Central_Authority.md): Unlocks the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
 -   [The Children of Navae](The_Children_of_Navae.md): Speaking to the [Eastern Nomad Leader](Eastern_Nomad_Leader.md) or [Eastern Camp Master](Cheral.md) unlocks the [Way of Navae](Way_of_Navae.md) fighting style.
 
  |
@@ -170,7 +170,7 @@ Yen: Near the front of the [Songseeker Temple](Songseeker_Temple.md)
 -   [The Hundred Legions](The_Hundred_Legions.md)
 -   [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
 -   [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
--   [Etrean Royalists](Etrean_Royalists.md)
+-   [Etrean Royalists](Etrean_Royalists.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 -   [Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
 -   [Lost Celtor](Lost_Celtor.md)

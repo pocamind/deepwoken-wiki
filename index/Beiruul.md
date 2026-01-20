@@ -1,9 +1,9 @@
 ---
 title: Beiruul
-revid: 191338
+revid: 193374
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
+categories: [Individuals with She/her pronouns, NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Beiruul
@@ -14,6 +14,8 @@ categories: [NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NP
 | drops | Frigid Prism (?) |
 | weapon | Way of Navae |
 | moves | Assault, Critical , Strong Left , Rapid Punches , Ice Smash , Ice Blade , Ice Lance |
+| pronouns | She/her |
+| affiliation | The Children of Navae |
 
 “ Change will come. No matter the cost. ”
 
@@ -31,7 +33,7 @@ Beiruul is located at [Meteor Isle](Meteor_Isle.md) sitting under a tree above t
 
 ## Quest Details
 
-Completing her sidequest will reward you with EXP, positive [The Children of Navae](The_Children_of_Navae.md) reputation, two [Knowledge](Knowledge.md), and Bravery.
+Completing her sidequest will reward you with EXP, positive [The Children of Navae](The_Children_of_Navae.md) reputation, two [Knowledge](Knowledge.md), Bravery, and the [Beiruul's Vengence](Talents.md#beiruuls-vengence) Talent, granting a 5% damage buff against NPCs from [factions](Reputation.md) that hate you.
 
 1.  Head over to the side of Fort Merit nearest to Beiruul.
 2.  Climb up Fort Merit with the elevator or the air vents.

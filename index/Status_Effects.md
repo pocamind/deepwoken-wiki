@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 193326
+revid: 193373
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -509,7 +509,7 @@ Applied through the Bluestone Set's _Etherguard_ Talent; upon landing any Mantra
 
 ### Embraced in Light
 
-Grants immunity to enemy [Deep Gems](Deep_Gems.md) for 3 minutes. Once this duration is over, you will need to defeat a [boss](Bosses.md) or a player of equal [power](Power.md) to recharge it ([Chime](Chime_of_Conflict.md) kills do not count). Applied through using the Elegy of Light Talent tool from the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) equipment. Signified by a white circling aura with white beams on your character.
+Grants immunity to enemy [Deep Gems](Deep_Gems.md) and the [Gem Enhancement](#gem-enhancement) status effect for 3 minutes. Once this duration is over, you will need to defeat a [boss](Bosses.md) or a player of equal [power](Power.md) to recharge it ([Chime](Chime_of_Conflict.md) kills do not count). Applied through using the Elegy of Light Talent tool from the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) equipment. Signified by a white circling aura with white beams on your character.
 
 ### Mocking Favor
 
@@ -836,7 +836,7 @@ All chip damage dealt to an opponent affected by Torture Mastery will be transfe
 
 ### Gem Enhancement
 
-This status effect can only be applied in PvE. Upon proccing [Vasculitis](Talents.md#vasculitis) on a PvE enemy, gain the Gem Enhancement status effect, increasing the potency of your [Deep Gems](Deep_Gems.md) against PvE targets.
+This status effect can only be applied in PvE. Upon proccing [Vasculitis](Talents.md#vasculitis) on a PvE enemy or using the [Elegy of Light](Talents.md#elegy-of-light) Talent Tool, gain the Gem Enhancement status effect, increasing the potency of your [Deep Gems](Deep_Gems.md) against PvE targets.
 
 ## Deep Gem Applied
 

@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 191648
+revid: 193363
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -31,7 +31,7 @@ Suri is located in [Greathive Aratel](Greathive_Aratel.md) beside the stairs lea
 
 ## Quest
 
-Completing his quest will grant the player 1 [Vibrant Gem](Mantra_Modifiers.md), EXP, positive [Hive](The_Hive.md) reputation, and Compassion.
+Completing his quest will grant the player 1 [Vibrant Gem](Mantra_Modifiers.md#regular-modifiers), EXP, positive [Hive](The_Hive.md) reputation, Compassion, and the [Careful Handling](Talents.md#careful-handling) Talent, reducing the chance that you drop Ingredients on death.
 
 1.  Finishing Suri's dialogue will start the quest.
 2.  You will be given a [Delicate Flower](Delicate_Flower.md), if you take certain forms of damage it will break and turn into a Ruined Flower (If it breaks you'll have to go back to Suri to get a new one)
