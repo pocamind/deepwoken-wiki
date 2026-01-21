@@ -1,11 +1,9 @@
 ---
 title: Interluminary Parasol
-revid: 193220
+revid: 193467
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
-notices:
-  - "Vaulted This page describes content that has been made unobtainable and/or non-functional temporarily."
 ---
 
 # Interluminary Parasol
@@ -27,7 +25,7 @@ The Interluminary Parasol is a large, brainy organism covered by a bioluminescen
 
 The Interluminary Parasol spawns every other hour, like other [World Bosses](Bosses.md) such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md).
 
-According to the item description of its exclusive drop, the Parasol emerges from [The Depths](The_Depths.md), its sole purpose being to spread [The Depths'](The_Depths.md) influence by bringing its mobs up to the surface, disrupting the ecosystems on the surface.
+According to the item description of its exclusive drop, the Parasol emerges from [The Depths](The_Depths.md), its sole purpose being to spread [The Depths](The_Depths.md)' influence by bringing its mobs up to the surface, disrupting the ecosystems on the surface.
 
 ## Moveset
 
@@ -119,15 +117,16 @@ Exhaustive Loot Table
 </tbody>
 </table>
 
-## Tips & Tricks
+## Tips
 
 -   Ship cannons are the most effective cheese method for the boss, due to their respectable damage and long range, however dealing damage on land with a party of players will prove to be a much faster way to take out the boss.
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
--   It follows a set path, starting behind the [Rotlands](Ancient_Rotlands.md) as it slowly makes its way towards [Greathive Aratel](Greathive_Aratel.md).
+-   It follows a set path, starting behind the [Ancient Rotlands](Ancient_Rotlands.md) as it slowly makes its behind [Greathive Aratel](Greathive_Aratel.md).
 -   Having a wall to protect you is almost entirely necessary, as it allows you to deal significant damage without getting hit.
+
+  
 
 ## Trivia
 
--   Currently, the parasol will not spawn despite having a marker on the map. This has gone unpatched for a month now so I (Deddogfunreal) have given it the vaulted banner because it is.
 -   Probably inspired in Metroids by Metroid series.
--   Ragoozer accidentally leaked the existence of the parasol shortly after Verse 2's release. A few months after, it was confirmed by Arch\_mage that the boss was a work-in-progress at the time. Ironically enough, the boss was released almost 2 years after Ragoozer first leaked it.
+-   Ragoozer accidentally leaked the existence of the parasol shortly after the release of Verse 2. A few months after, it was confirmed by Arch\_mage that the boss was a work-in-progress at the time. Ironically enough, the boss was released almost 2 years after Ragoozer first leaked it.

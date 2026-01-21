@@ -1,6 +1,6 @@
 ---
 title: Avenger
-revid: 188422
+revid: 193485
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
@@ -46,9 +46,6 @@ Avenger uses the default Greatsword critical, an overhead swing. It has a scaled
 ## Trivia
 
 -   At max HVY, the damage is (31.2)
--   The [Battleaxe](Battleaxe.md) is superior in terms of DPS due to it having no endlag.
--   Unlike all other weapons that have no PEN, the Avenger used to display its PEN stat as "0%" instead of not displaying it at all.
-    -   This had strange side effects, like when hovering over the tooltip to compare the Avenger to other weapons, it would showcase the 0% PEN as an upgrade to weapons without a PEN stat.
 
 ## Gallery
 

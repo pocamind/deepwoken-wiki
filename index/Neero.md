@@ -1,6 +1,6 @@
 ---
 title: Neero
-revid: 191568
+revid: 193460
 source: https://deepwoken.fandom.com/wiki/Neero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Neero is a [Celtorian](Celtor.md) [Pathfinder](Pathfinder.md) wearing an [Iron Mask](Iron_Mask.md) along with the [Pathfinder Cloak](Pathfinder_Cloak.md).
+Neero is a [Celtor](Celtor.md) [Pathfinder](Pathfinder.md) wearing an [Iron Mask](Iron_Mask.md) along with the [Pathfinder Cloak](Pathfinder_Cloak.md).
 
 He is investigating the disappearance of the [Forge of Sin](Relics.md) and provides speculation about [Duke Erisia](Duke_Ishamon_Erisia.md)'s actions prior to the events of the [Lord Regent's](The_Lord_Regent.md) questline, as well as lore about [Erisia](Erisia.md) and the Forge itself.
 
@@ -79,7 +79,7 @@ Neero is located in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgot
   <td colspan="4">Any ideas what it could be?</td>
 </tr>
 <tr>
-  <td colspan="4">Well, it's not Lifeweaver tech, that's for sure. The main thing that catches my eye is that purple flame... Something caused the golems to start killing the inhabitants of the island. Or seemingly, <i>capturing</i> them.</td>
+  <td colspan="4">Well, it's not <a href="Glossary.md#lifeweave--lifewoven">Lifeweaver</a> tech, that's for sure. The main thing that catches my eye is that purple flame... Something caused the golems to start killing the inhabitants of the island. Or seemingly, <i>capturing</i> them.</td>
 </tr>
 <tr>
   <td colspan="4">Capturing them?</td>

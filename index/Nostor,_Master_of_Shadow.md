@@ -1,6 +1,6 @@
 ---
 title: "Nostor, Master of Shadow"
-revid: 191574
+revid: 193478
 source: https://deepwoken.fandom.com/wiki/Nostor%2C_Master_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ministry, Ministry Enemies, NPCs located in the First Layer]
@@ -16,6 +16,7 @@ categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Excl
 | moves | Assault, Critical, Shadow Assault, Rapid Punches |
 | aspect | Ganymede |
 | pronouns | They/them |
+| affiliation | The Ministry |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,9 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Nostor is an NPC who acts as both progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md) and the [Shadowcast](Shadowcast.md) trainer.
+Nostor, Master of Shadow, is a [Ganymede](Ganymede.md) NPC. They are the [Shadowcast](Shadowcast.md) trainer as well as progression for the [Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md).
 
-In order to obtain [Shadowcast](Shadowcast.md), you must bring 5 [Umbral Obsidian](Umbral_Obsidian.md) to Nostor and 2 if you have already obtained [Shadowcast](Shadowcast.md). Alternatively, if you have obtained the [Silentheart](Oaths.md) Oath, you must kill them in order to get one of six Oath Talents. They are found in the [City of the Drowned](The_Depths.md) inside a sewer underneath a building.
+To obtain [Shadowcast](Shadowcast.md), you must bring Nostor 5 [Umbral Obsidian](Umbral_Obsidian.md), or only two if having unlocked it previously.
 
 ## Location
 
@@ -71,14 +72,14 @@ Nostor's arsenal consists of a [Crypt Blade](Crypt_Blade.md) along with the [Sha
 
 ### Talents
 
--   _Perfect Flash_ - If Nostor has full Health their mantras do 25% more damage.
--   _Impervious Slumber_ - If Nostor gets hit while knocked, their knocked timer isn't reset.
--   _Dark Hours_ - Nostor's Shadowcast mantras deal more damage at night. (Pretty much just more damage, since you fight them in the Depths.)
--   _Dark Rift_ - If Nostor successfully dodges an attack they enter a rifted state where they can't be damaged until its duration ends. Can be cancelled if they attack or feint.
--   _Singularity_ - If Nostor hits an enemy, the enemy will briefly hang in place when hit by a shadow move.
--   _Black Hole_ - Nostor's singularity pulls everyone nearby in.
--   _Fear the Dark_ - Enemies will briefly hang in place if they try to run from Nostor.
--   _Lasting Sorrow_ - Shadows last longer on Nostor's opponents.
+-   Black Hole - Your singularity pulls everyone nearby in.
+-   Dark Hours - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
+-   _Dark Rift_ - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
+-   _Impervious Slumber_ - Getting hit while Unconscious no longer resets your time Unconscious.
+-   Fear the Dark - Enemies will briefly hang in place when they run from you.
+-   Lasting Sorrow - Shadows last longer on your opponent.
+-   _Perfect Flash_ - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
+-   Singularity - Enemies will briefly hang in place when hit by a shadow move.
 
 ## Finisher
 
@@ -178,10 +179,6 @@ Nostor executes their opponent after knocking them:
 </tr>
 </tbody>
 </table>
-
-## Tips
-
--   Be wary of other players, as Nostor is located in a prime place for farming [Umbrite](Ores.md), as well as being in the Depths.
 
 ## Trivia
 

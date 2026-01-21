@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 193047
+revid: 193490
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -19,8 +19,8 @@ categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, 
 | posture damage | 6 / 8 |
 | range | 8 Sweep |
 | swing speed | 0.83x |
-| attack duration | 0.8s |
-| endlag | 0.1s |
+| attack duration | 0.8s / 0.9s |
+| endlag | N/A / 0.1s |
 | penetration | 20% |
 | chip damage | 10% |
 | m.equip | Yes |

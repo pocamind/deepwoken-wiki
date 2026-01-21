@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 193391
+revid: 193470
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -235,7 +235,7 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
 
 ### Exclusive Features
 
--   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit. \[1 Day CD\]
+-   **Buster Call** - Radio in the Authority's navy for a buster call, sending out a barrage of bombardment wherever you see fit.
     -   Grants a Talent tool that lights a flare and highlights a large AoE on the ground. After a considerable delay, that location will be bombed several times, dealing very high damage.
     -   Deals little to no pve monster damage (test if it does work on humanoids)
     -   Applies burn on hit.
@@ -243,10 +243,11 @@ Complete 10 missions as Squad leader, then speak to [Warden Jericho](Warden_Jeri
     -   Automatically grips knocked players.
     -   The orbital strikes cannot knock players directly, but the burn can.
     -   Cannot be used in [Dungeons](Dungeons.md).
-    -   The cooldown is 24 real world hours, not one ingame day. There is also a 10 minute server-wide cooldown.
+    -   24 hour cooldown. 10 minute server-wide cooldown.
 
--   **Officer's Slash** - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown. \[20 seconds CD\]
-    -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
+-   **Officer's Slash** - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
+    -   Deals 35 damage.
+    -   20 second cooldown.
     -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
     -   Despite being found in the armory, the [Cavalry Saber](Cavalry_Saber.md), [Battleaxe](Battleaxe.md), [Stiletto](Stiletto.md), [Sword](<Sword_(weapon).md>), and [Worshipper Longsword](Worshipper_Longsword.md) do not proc this effect.

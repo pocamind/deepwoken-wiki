@@ -1,9 +1,9 @@
 ---
 title: Kaab
-revid: 191493
+revid: 193454
 source: https://deepwoken.fandom.com/wiki/Kaab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
 ---
 
 # Kaab
@@ -12,6 +12,7 @@ categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eas
 |---|---|
 | name | Kaab |
 | aspect | Vesperian |
+| pronouns | They/them |
 | location | Greathive Aratel |
 | affiliation | The Hive |
 
@@ -45,7 +46,7 @@ Kaab is located at the Shipyard of [Greathive Aratel](Greathive_Aratel.md), whic
 </tr>
 <tr>
   <td>[Opens Shipyard UI]</td>
-  <td><i>*The Shipwright raises their hand, green lines of light swirling like vines around it.*</i> It's what makes the Hive itself special. I'm able to Lifeweave modifications into your ship.</td>
+  <td><i>*The Shipwright raises their hand, green lines of light swirling like vines around it.*</i> It's what makes the Hive itself special. I'm able to <a href="Glossary.md#lifeweave--lifewoven">Lifeweave</a> modifications into your ship.</td>
 </tr>
 <tr>
   <td></td>

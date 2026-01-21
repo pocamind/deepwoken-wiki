@@ -1,6 +1,6 @@
 ---
 title: Wyrmtooth
-revid: 193083
+revid: 193471
 source: https://deepwoken.fandom.com/wiki/Wyrmtooth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Multi-Weapon Scaling", Heavy Weapons, Medium Weapons, Weapons with multiple Criticals]
@@ -18,7 +18,7 @@ categories: [Pages with broken file links, Weapons, Swords, Greatswords, Weapons
 | posture damage | 7 |
 | range | 9 Sweep |
 | swing speed | 0.93x |
-| attack duration | 0.7s |
+| attack duration | 0.8s |
 | endlag | 0.1s |
 | penetration | 25% |
 | m.equip | No |

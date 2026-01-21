@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 193050
+revid: 193497
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -18,7 +18,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | posture damage | 7 |
 | range | 8 Sweep |
 | swing speed | 0.94x |
-| attack duration | 0.7s |
+| attack duration | 0.8s |
 | endlag | 0.1s |
 | penetration | 10% |
 | special effect | Can mine ores |

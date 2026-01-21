@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 193022
+revid: 193531
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -425,7 +425,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the January 18th, 2025 update, Uproar was removed from the game due to the developers not being able to balance this talent right.
 
 -   **Vanishing Follow-up** \[Legendary Talent, Agility\] - Upon a successful flourish, teleport to the opponent when they stop moving.
-    -   In the December 23nd, 2022 update, Vanishing Follow-up was removed from the game
+    -   In the December 23nd, 2022 update, Vanishing Follow-up was removed from the game.
 
 -   **Vital Point** \[Common Talent, Agility\] - Assassinating someone gives you 25% PEN for 5 seconds. (+1 Passive Agility)
     -   In the January 13th, 2022 update, Vital Point was merged into Lights out.
@@ -438,6 +438,90 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Wildfire** \[Common Talent, Flamecharm\] - Pressing F before releasing your Fire Palm will release a wider but shorter flame.
     -   In the August 16th, 2024 update, Wildfire became base behavior Fire Palm.
+
+### Legendary Talents
+
+[Exoskeleton](Talents.md#exoskeleton) when it was a Legendary Talent
+
+Not to be confused with Advanced Talents, Legendary Talents were a class of character-defining Talents that often required high attribute investment, or obtainment of multiple other Talents to obtain.
+
+In [Verse 2](Verse_2.md), Legendary Talent as a rarity was removed and replaced with Advanced Talents, with a majority of Legendary Talents being turned into Advanced Talents.
+
+#### Attunements
+
+Flamecharm
+
+-   **Phoenix Flames** - Any time you would normally burn to death, you instead rise again with 65% of your health restored.
+    -   Prerequisite: 60 Flamecharm, 20 Willpower and Immolation
+-   **Mirage Clones** - Successfully dodging leaves a heat mirage clone that sets enemies that swung at you on fire. \[+3 Health, +4 Elemental Intensity\]
+    -   Prerequisite: 65 Flamecharm
+-   **Exploding Mirage Clones** - Your mirage clones explode. \[+3 Health, +4 Elemental Intensity\]
+    -   Prerequisite: Mirage Clones
+
+Thundercall
+
+-   **Grand Skewer** - Your Grand Javelin now carries opponents through the air (Press F)
+    -   Prerequisite: Grand Javelin
+
+Frostdraw
+
+-   **Frozone** - You are no longer required to be over water to use Ice Skates.
+    -   Prerequisite: Ice Skate, 75 Frostdraw
+
+Galebreathe
+
+-   **A World Without Song** - All of your wind attacks apply 'Suffocate' Only applies after 3 moves land.
+    -   Prerequisite: 75 Galebreathe, Silencer's Edge, Power 25
+
+#### Attributes
+
+Strength
+
+-   **Million Ton Piercer** - Your PEN is uncapped, go beyond your limits.
+    -   Prerequisite: 90 Strength, All Raging Bull Talents
+
+Fortitude
+
+-   **Conditioned Runner** - You regenerate health faster than normal when sprinting and under 75% health. \[+1 Passive Agility\]
+    -   Prerequisite: 20 Agility, 20 Fortitude, All Alley Cat Talents
+-   **Exoskeleton** - Provides natural armor that regenerates when resting. (10% damage reduction, stacks with Vesperian Chitin talent). \[+10 Health\]
+    -   Prerequisite: 40 Fortitude
+-   **Reinforced Armor** - Incoming PEN is reduced by 25%. \[+10 Ether, +9 Health\]
+    -   Prerequisite: 90 Fortitude
+
+Agility
+
+-   **Vanishing Follow-up** - Upon a successful flourish, teleport to the opponent when they stop moving.
+    -   Prerequisite: 40 Agility
+    -   Mutual Exclusives: Dazing Finisher
+-   **Conditioned Runner** - You regenerate health faster than normal when sprinting and under 75% health. \[+1 Passive Agility\]
+    -   Prerequisite: 20 Agility, 20 Fortitude
+-   **Ghost** - Dodging a move will briefly make you invisible until you attack.
+    -   Prerequisite: Risky Moves, 40 Agility
+    -   Mutual Exclusives: Observation
+
+Intelligence
+
+-   **Everchanging Aegis** - When hit with an element, take reduced damage from said element, but take more damage from any other element.
+    -   Prerequisite: 15 Intelligence
+    -   Mutual Exclusives: Return to the Dark Ages
+
+Intelligence
+
+-   **True Ether Bullets** - Using Ether Bullets applies elemental damage of your highest investment. \[+4 Ether, +7 Reservoir\]
+    -   Prerequisite: 30 Intelligence, Gun Equipped
+
+Charisma
+
+-   **Command: Live** - Once per hour, command a servant to defy all odds and obey your command- live.
+    -   Prerequisite: Vow of Mastery, 75 Charisma
+-   **Dazing Finisher** - Flourishing enemies that are charmed by you cause them to not be knocked back and dazed instead.
+    -   Prerequisite: Charismatic Cast, 40 Charisma
+    -   Mutual Exclusives: Vanishing Follow-up
+-   **Golden Tongue** - Typing gives a random buff to you and those around you. \[60 sec cooldown\]
+    -   Prerequisite: 40 Charisma
+-   **Another Man's Trash** - Take equipment when mugging a player.
+    -   Prerequisite: Pickpocket, Master Pickpocket, 35 Charisma
 
 ## Other
 

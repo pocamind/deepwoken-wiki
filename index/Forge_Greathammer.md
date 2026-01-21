@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 184453
+revid: 193473
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -19,8 +19,8 @@ categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons 
 | posture damage | 9 / 9.5 |
 | range | 9 Sweep |
 | swing speed | 0.8x / 0.81x |
-| attack duration | 0.9s / 0.8s |
-| endlag | 0.1s / N/A |
+| attack duration | 0.9s |
+| endlag | 0.1s |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |

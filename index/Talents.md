@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193418
+revid: 193540
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -18,9 +18,6 @@ categories: [Mechanics, Outfits, Skills, Talents]
     -   _(i.e "40 Agility" to find Talents that you will have access to at 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
--   TO FIND A TALENT CATEGORY'S MYSTIC LINE: It's the same as the Talent category name.
-    -   _(i.e "Assassin" for the Assassin Talent tree)_
-    -   **Rare Talents are NOT affected by Mystic, and categories containing only Rare Talents will not show their Mystic quote when talking to the NPC.**
 
 [See all Talents here](#talents).
 
@@ -28,11 +25,11 @@ categories: [Mechanics, Outfits, Skills, Talents]
 
 **Talents** are one of the fundamental aspects of _Deepwoken_ that define and differentiate your character from others and are essential for getting stronger. Talents are perks primarily gained when increasing your character's [Power](Power.md) and come in the form of either a permanent passive effect or an active ability. [Mantras](Mantras.md) are gained through the same means. Certain Talents may also be obtained by completing [Quests](Quests.md) or equipping [Items](Equipment.md) and [Weapons](Weapons.md). Additionally, some powerful Talents like [Oaths](Oaths.md), [Murmurs](Murmur.md) and [Resonances](Resonance.md) can only be obtained through specific and often perilous tasks, although only one of each can exist on your character at the same time.
 
-All Talents belong to a Talent category. A majority of Talents, including Mantras from Whisper Draws, can be given a higher chance to appear by talking to a [Mystic](Mystic.md) and selecting a quote corresponding to the Talent's category, which will only appear if you meet the requirements for a Talent from that category. **Rare Talents are NOT affected by Mystics, and categories containing only Rare Talents will not show their Mystic quote when talking to the NPC.**
-
 ## Mechanics
 
-The player is given multiple types of Talents. When [powering up](Power.md), the player is given multiple regular Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws hold 4-5 Talent cards (5-6 with the [Joker](Regalia.md#joker) Regalia) and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws there is always a '**Roll 2**' card that will grant 2 random Talents from your available Talent pool instead of a Mantra. [Aces](Aces.md) can be used to permanently prevent a regular Talent or Mantra card from showing up or to preserve it and guarantee it shows up in the next Talent or Whisper Draw. Talent Hands and Whisper Draws can also be gained from [quests](Quests.md); from each NPC whose quest aligns with _Curiosity_, _Bravery_, or _Compassion_, completing your first quest in the category grants you an extra Talent Hand on your next power-up, allowing you to gain up to 3 extra Talent Hands, and [Kelsius](Kelsius.md)' quest grants a Whisper Draw on completion.
+The player is given multiple types of Talents. When [powering up](Power.md), the player is given multiple regular Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws hold 4-5 Talent cards (5-6 with the [Joker](Regalia.md#joker) Regalia) and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws there is always a '**Roll 2**' card that will grant 2 random Talents from your available Talent pool instead of a Mantra. [Aces](Aces.md) can be used to permanently prevent a regular Talent or Mantra card from showing up, guarantee that a Talent will show up in your future hands, or to preserve a Talent in your current hand, guaranteeing that it will show up again.
+
+Talent Hands and Whisper Draws can also be gained from [quests](Quests.md); from each NPC whose quest aligns with _Curiosity_, _Bravery_, or _Compassion_, completing your first quest in the category grants you an extra Talent Hand on your next power-up, allowing you to gain up to 3 extra Talent Hands, and [Kelsius](Kelsius.md)' quest grants a Whisper Draw on completion.
 
 When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonances randomly chosen based on their [Resonance Point](Resonance.md) allocation. When gaining a Talent from [Equipment](Equipment.md), it applies the effects of the Talent to your character at no additional cost and does not count towards the total amount of Talents you've chosen.
 
@@ -53,13 +50,13 @@ Most Talents are locked with a prerequisite. Depending on the prerequisite, you 
 
 There are certain Talents that you receive automatically upon meeting their requirement. The following Talents will not take up Talent slots:
 
--   [_Echo_](Echoes.md#echo-talentsitems) and _Quest_ Talents
+-   [Echo](Echoes.md#echo-talentsitems) and Quest Talents
 -   Mantra Level Talents, obtained upon meeting [Attunement](Attunements.md) Attribute milestones
 -   Mastery Talents, obtained upon [Unbounding](Attributes_Unbound.md) an Attribute
 -   [**Oath**](Oaths.md) Talents
 -   **Faction** Talents
 -   [Race](#innate) Talents
--   [_Origin_](Origins.md) Talents
+-   [Origin](Origins.md) Talents
 
 Some Talents are **mutually exclusive** with other Talents, meaning picking one mutually exclusive Talent **will remove the other Talent from your Talent pool**. However, if you use a [Deep Shrine](Deep_Shrines.md) to remove the mutually exclusive Talent that you currently have, the other Talent will return to your Talent pool, so that it may be obtained once again.
 
@@ -71,7 +68,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The simplest type of Talent. Common Talents make up the majority of a character's Talents.
 
 -   Rare
-    -   Rare Talents. You will see far less rares than commons, only two per power increase. These are often "stronger" than common Talents, or have larger effects. These Talents are not affected by [Mystics](Mystic.md).
+    -   Rare Talents. You will see far less rares than commons, only two per power increase. These are often "stronger" than common Talents, or have larger effects.
 
 -   Advanced
     -   The most uncommon type of Talent, though not rare if you meet the requirements. These Talents have potent, powerful effects on a character. These Talents are often at the end of a Talent tree, requiring various other Talents as prerequisites.
@@ -320,15 +317,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Angler
 
--   Proficient Baiting \[Quest Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
+-   _Proficient Baiting_ \[Quest Talent\] - Casting your line excites ocean life, reducing the chances of fishing up trash.
     -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
     -   Prerequisite: Fish a total of 10 times successfully. (Automatically obtained)
 
--   Hook, Line, and Sinker \[Quest Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
+-   _Hook, Line, and Sinker_ \[Quest Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
     -   Slightly increases margin of failure before losing a fish.
     -   Prerequisite: Fish a total of 30 times successfully. (Automatically obtained)
 
--   Fisher's Lure \[Quest Talent\] - Fish are drawn to your line more quickly.
+-   _Fisher's Lure_ \[Quest Talent\] - Fish are drawn to your line more quickly.
     -   Slightly increases the chance of hooking something while fishing.
     -   Prerequisite: Fish a total of 50 times successfully. (Automatically obtained)
 
@@ -1129,7 +1126,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Deepwoken
 
--   Spell Shout \[Quest Talent\] - You will now shout your mantra name upon cast.
+-   _Spell Shout_ \[Quest Talent\] - You will now shout your mantra name upon cast.
     -   The player will say the name of the mantra they cast in a chat bubble. E.G casting Fire Blade will make the player say "Fire Blade!"
     -   Renamed mantras will use the new name. Casting Adrenaline Surge renamed to Speed Boost will say "Speed Boost!".
     -   Mantra names are auto formatted so that caps are forced at the start of every word and cannot be elsewhere. Numbers also cannot be used. Casting a mantra named "64 palms" will say "Palms!".
@@ -1172,7 +1169,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Drowned Secret
 
--   Ethiron's Gaze \[Quest Talent\] - Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now.
+-   _Ethiron's Gaze_ \[Quest Talent\] - Your eyes have been opened to the wasteland. You can see through the harsh fog of the storm of the Eternal Gale more clearly now.
     -   Obtainment: While within the [Second Layer](Second_Layer.md), complete the [quest](Quests.md#ethirons-gaze) given to you by Erosius Amaltus Urivortus Alistus Casius Walistoshus.
 
 ### Duelist
@@ -1357,7 +1354,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from kncking others [Unconscious](Status_Effects.md#unconscious) in water. (+5 Health)
     -   The old Scuba Drowner Talent was merged into this Talent.
 
--   _Landshark_ \[Rare Talent\] - Killing a megalodaunt \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will grant lifesteal on your attacks for 30 seconds.
+-   _Landshark_ \[Quest Talent\] - Killing a megalodaunt will grant lifesteal on your attacks for 30 seconds.
+    -   The lifesteal does not work in PvP.
+    -   Prerequisite: Complete [Arthur](Arthur.md)'s quest
 
 ### Fang and Coil
 
@@ -1719,7 +1718,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
     -   Prerequisites: All the Dead Gods, 100 Willpower, 100 Intelligence
 
--   Heretic's Sutra \[Quest Talent, Willpower\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
+-   _Heretic's Sutra_ \[Quest Talent, Willpower\] - A chant that steers you into the state of [Insanity](Insanity.md) for 20 seconds.
     -   Heretic's Sutra has a base windup of 0.4s and a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the windup is reduced by 0.00429 seconds.
         -   Has a windup of 0.186 seconds at 80 Willpower, a maximum windup of 0.293 seconds at 55 Willpower, and a minimum windup of 0.1 seconds at 100 Willpower.
     -   Heretic's Sutra has a base cooldown of 24 seconds at 30 Willpower. For every point in Willpower above 30, the cooldown is reduced by 0.085s.
@@ -1835,7 +1834,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Ignition Union
 
--   Union Hook \[Quest Talent\] - You can now make use of the Ignition [Union hooks](Union_Hooks.md) to ascend or descend.
+-   _Union Hook_ \[Quest Talent\] - You can now make use of the Ignition [Union hooks](Union_Hooks.md) to ascend or descend.
     -   Prerequsites: Save [Epsi](Epsi.md) in the entrance of Firfire then speak to [Alpha](Alpha.md), OR gained immediately with the [Ignition Delver](Ignition_Delver.md) Origin
 
 ### Immolator
@@ -2343,7 +2342,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.
     -   Prerequisite: [Power](Power.md) 13
 
--   Thresher Scales \[Echo Talent, Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
+-   _Thresher Scales_ \[Echo Talent, Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
     -   Prerequisites: Complete [Jessamine](Jessamine.md)'s quest by killing a [King Thresher](King_Thresher.md), then return to them.
         -   Once this quest has been completed on any character, you will receive this Talent automatically when powering up to or above Power 10 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
 
@@ -2436,10 +2435,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Metamancer
 
--   Chain of Perfection \[Echo Talent, Quest Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
+-   _Chain of Perfection_ \[Echo Talent, Quest Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
     -   Gain a 5% damage buff against PVE enemies for every hit against at close range.
-    -   Can stack up to 20 times, for a 100% damage buff.
-        -   This effect is not accounted for in the 75% damage modifier cap.
+    -   Can stack up to 20 times, for a 100% damage buff. This ignores the damage modifier cap.
+    -   Damage sources that cannot receive damage modifiers (e.g. [Burn](Status_Effects.md#burn)) do not benefit from Chain of Perfection stacks.
     -   You cannot gain more than 3 stacks per attack.
     -   Upon taking damage from any non-self damage source (excluding fall damage), all stacks will be lost.
     -   Prerequisites: Defeat any [Bosses](Bosses.md) solo without taking any damage.
@@ -2547,9 +2546,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Navaen Nomad
 
 -   Captain Etrea \[Common Talent, Strength, Fortitude\] - Fists Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
-    -   Works with [Jus Karita](Jus_Karita.md) and [Light's Final Toll](<Light's_Final_Toll.md>) despite not using "fists" as a weapon.
+    -   Works with [Jus Karita](Jus_Karita.md).
     -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
-    -   Prerequisites: Moving Fortress, Shield Equipped, 20 Fortitude and 30 Strength.
+    -   Prerequisites: Moving Fortress, Shield Equipped, any Fist Style Talent, 20 Fortitude, 30 Strength
 
 -   _Fists of Fortitude_ \[Rare Talent, Fortitude, Light Weapon\] - Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. (+1 Carry Load)
     -   Lasts 10 seconds then goes on a 70 second cooldown once the buff ends.
@@ -2676,11 +2675,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Prospector
 
--   Excavator \[Quest Talent\] - Chance to receive two sets of ore when mining, mine ores a lot faster.
+-   _Excavator_ \[Quest Talent\] - Chance to receive two sets of ore when mining, mine ores a lot faster.
     -   Prerequisite: Turn in 5 [Pure Ores](Ores.md) at a [Blacksmith](Blacksmith.md).
     -   The [Miner's Hardhat](<Miner's_Hardhat.md>) has this Talent.
 
--   Harvester \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
+-   _Harvester_ \[Quest Talent\] - Chance to receive two sets of ingredients when harvesting.
     -   Prerequisite: Complete [Ciea](Ciea.md)'s Quest 3 times.
 
 ### Public Figure
@@ -2841,7 +2840,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Saboteur
 
--   Family Recipe \[Quest Talent\] - You can now craft bombs at a crafting bench.
+-   _Family Recipe_ \[Quest Talent\] - You can now craft bombs at a crafting bench.
     -   [Iron Bombs](Iron_Bomb.md) are crafted with 2 [Iron](Ores.md#iron) and 1 [Coal](Ores.md#coal) at any crafting bench.
     -   Bombs have a base damage of 10, scaling on [Intelligence](Attributes.md#int). At 100 Intelligence, they deal 45.5 damage.
     -   Bombs deal typeless damage, ignoring armor resistances.
@@ -3161,13 +3160,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Shipwright
 
--   Emergency Repairs \[Quest Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship. (+2 Carry Load)
+-   _Emergency Repairs_ \[Quest Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship. (+2 Carry Load)
     -   Repairing restores 25% more HP to the boat when it's below 25% HP.
     -   Your repairs scale with the health of the ship by \[needs testing\].
     -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 11 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
 
--   Spare Nails \[Quest Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
+-   _Spare Nails_ \[Quest Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
     -   Repairing restores 400 HP instead of 250 HP.
     -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
         -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
@@ -4014,11 +4013,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
     -   Prerequisites: [Power](Power.md) 13, Engage
 
--   Critical Attack \[Echo Talent, Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
+-   _Critical Attack_ \[Echo Talent, Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
     -   Prerequisite: Complete [Arthur](Arthur.md)'s quest right outside of the [Garden Reservoir](The_Garden_Reservoir.md)
         -   Once this quest has been completed on any character, you will receive this Talent automatically when powering up to or above Power 5 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
 
--   Engage \[Echo Talent, Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
+-   _Engage_ \[Echo Talent, Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
     -   Ether restored is based on damage dealt.
     -   Prerequisite: Complete [Arthur](Arthur.md)'s quest right outside of the [Garden Reservoir](The_Garden_Reservoir.md)
         -   Once this quest has been completed on any character, you will receive this Talent automatically when powering up to or above Power 3 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
@@ -4111,7 +4110,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Stacks with the [Boon](Boons_and_Flaws.md#packmule) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
     -   Prerequisite: 5 Fortitude
 
--   Pleeksty's Will \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
+-   _Pleeksty's Will_ \[Quest Talent\] - You gain significantly more ether from consuming elemental ingredients.
     -   Consuming [Gale Stones](Gale_Stone.md), [Heartstars](Heartstar.md), [Dying Embers](Dying_Embers.md), [Spark Glands](Spark_Gland.md), and [Frigid Prisms](Frigid_Prism.md) gives significantly more Ether.
     -   Consuming elemental ingredients has a 20 second cooldown.
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Faith, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
@@ -4129,7 +4128,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
 
--   Treefelling Blow \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural. (+4 Carry Load)
+-   _Treefelling Blow_ \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural. (+4 Carry Load)
     -   Allows you to gain [Wood](Wood.md) when you destroy trees with [Strong Left](Attunement-less.md#strong-left).
     -   Prerequisites: Use [Strong Left](Attunement-less.md#strong-left) on a tree and then speak to [Korin](Korin.md) or [Drefa](Drefa.md) to obtain the Treefelling Blow quest. Once you have the quest, destroy 5 more trees with Strong Left and return to the respective quest giver.
 
@@ -5382,7 +5381,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Hellion Shift: [Oni Mask](Oni_Mask.md) - The more insane you are the more iframes you gain on your dodge.
 
--   Heretic's Sacrifice: [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) - A chat that heavily sacrifices your sanity to regain a bit of health.
+-   _Heretic's Sacrifice_: [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) - A chat that heavily sacrifices your sanity to regain a bit of health.
     
     -   Grants a Talent tool that drains a significant amount of sanity to heal 20 raw health.
     -   If you are already at 0 Sanity, you will still be healed at no downside.
@@ -5555,7 +5554,6 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   The Talent, Ultrakill, breaks the fourth wall by requesting the player to play ULTRAKILL.
     -   Ironically, it then proceeds to write the name of the game incorrectly, as ULTRAKILL is meant to be written in all capitals.
 -   You can filter Talents in a campfire to see their associated stats. Some stats may show with 2 different filters, which means they have dual requirements (2 attributes needed instead of 1).
--   Hovering over the Talent category in a campfire reveals the [Mystic](Mystic.md) prompt for it, even prompts for categories that cannot obtained via Mystic (Innate, Genius Intellect, Comrade etc.).
 -   If you have a very few amount of cards you are capable of rolling, instead of being dealt a hand when you power up you will be met with the message "A hand has not yet been dealt, but another hand will be dealt after your next hand."
 -   The Pocket Sand Talent, especially its description, is a reference to Rogue Lineage. Paying [Tal](https://rogue-lineage.fandom.com/wiki/Pocket_Sand) 20 Silver to "learn some tricks" results in them using pocket sand on you. Catching up to them results in you gaining an ability similar to the Talent in this game, and speaking to them afterwards yields the same dialogue as found in the Talent description, "So... We're even now, right?"
 -   Treefelling Blow’s description used to say “…Look, it’s funny, are you gonna take it or not?” before it was made a quest Talent.
@@ -5563,6 +5561,5 @@ Certain Talents are given when you equip a full equipment set, though not all eq
 -   Lava serpent's and Azure flame's can both be used simultaneously.
 -   The Strength stat unbounded Talent (Strength Unbounded) is under the category "One Eyed King" which is a reference to [a very strong character](https://tokyoghoul.fandom.com/wiki/One-Eyed_King) in the anime Tokyo Ghoul.
 -   The total amount of Talent Cards at Power 20 without Roll 2's or Mantra Quests is 47.
--   The Mystic quote for the Quack Doctor talents may be a reference to [a line said by SCP-049](https://youtu.be/82VznLgRdAE?si=wsIlsGGs-EMJQp14&t=100) in SCP – Containment Breach.
 -   The term "Talents" may be a reference to _the Wheel of Time_'s Talents that are associated with its magic system.
 -   The Talent, Mythic Stability, has the same name as the passive, Mythic Stability, owned by the Sigil Knight Commander in Rogue Lineage. They both have the same effects.

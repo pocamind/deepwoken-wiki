@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 193060
+revid: 193479
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -18,7 +18,7 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 | posture damage | 9 |
 | range | 9 Sweep |
 | swing speed | 0.83x |
-| attack duration | 0.8s |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
 | chip damage | 10% |

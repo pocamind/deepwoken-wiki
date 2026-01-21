@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 193124
+revid: 193482
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -18,7 +18,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | posture damage | 8 |
 | range | 8.5 Sweep |
 | swing speed | 0.76x |
-| attack duration | 0.9s |
+| attack duration | 1s |
 | endlag | 0.1s |
 | penetration | 10% |
 | m.equip | No |

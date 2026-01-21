@@ -1,6 +1,6 @@
 ---
 title: Regek
-revid: 191601
+revid: 193453
 source: https://deepwoken.fandom.com/wiki/Regek
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Attunement Trainers, NPCs, The Hive, NPCs located in the Eastern Luminant, Quests]
@@ -66,7 +66,7 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
   <td>Uhh...</td>
 </tr>
 <tr>
-  <td>Khimimi... The souls of three rare plants that only grow here in the Hive due to the work of the Lifeweavers.</td>
+  <td>Khimimi... The souls of three rare plants that only grow here in the Hive due to the work of the <a href="Glossary.md#lifeweave--lifewoven">Lifeweavers</a>.</td>
 </tr>
 <tr>
   <td>Oh! Yeah. I can do that.</td>
@@ -110,7 +110,7 @@ The first 2 Soulblooms can be found in the [Canopy Plaza](Greathive_Aratel.md) i
 </tr>
 <tr>
   <td></td>
-  <td>Keh. This huge tree we're in right now is just one of the four <b>Greathives</b> in the world. The Greathives were constructed by the combined efforts of countless <b>Lifeweavers</b>, those who utilise the <a href="Glossary.md#the-song">Song</a> to manipulate life itself.</td>
+  <td>Keh. This huge tree we're in right now is just one of the four <b>Greathives</b> in the world. The Greathives were constructed by the combined efforts of countless <b><a href="Glossary.md#lifeweave--lifewoven">Lifeweavers</a></b>, those who utilise the <a href="Glossary.md#the-song">Song</a> to manipulate life itself.</td>
 </tr>
 <tr>
   <td></td>

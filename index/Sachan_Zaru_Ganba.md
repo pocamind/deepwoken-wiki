@@ -1,6 +1,6 @@
 ---
 title: Sachan Zaru Ganba
-revid: 191609
+revid: 193521
 source: https://deepwoken.fandom.com/wiki/Sachan_Zaru_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]

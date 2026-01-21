@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 192374
+revid: 193533
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -13,7 +13,7 @@ categories: [Oaths]
 | oath_req | 50 Agility |
 | effects | +1 Wildcard Mantra, +1 Mobility Mantra, +8 Passive AgilityAll Talents Effects, +5 Health, +5 Ether, +12 Passive Agility |
 
-_For the version that existed prior to the March 29, 2024, see [here](Oath%253A_Jetstriker/Old_Jetstriker.md)._
+_For the version that existed prior to March 29, 2024, see [here](Oath%253A_Jetstriker/Old_Jetstriker.md)._
 
 “ This is our path then, my friendly nemesis! To be a Jetstriker, one who walks with the Song's flow itself.. ah, it's so freeing. ”
 
@@ -180,7 +180,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 ## Trivia
 
--   Jetstream Pursuit was derived off the old Legendary Talent 'Vanishing Follow-Up', which was removed once Layer 2 was released over combat reworks.
+-   Jetstream Pursuit was derived from the old [Legendary Talent](Cut_Content.md#legendary-talents) 'Vanishing Follow-Up', which was removed once Layer 2 was released over combat reworks.
 -   The old [Vigil's Grace](Oath%253A_Jetstriker/Old_Jetstriker.md#abilities) Talent previously had 0 downtime with [Command: Run](Vow_of_Mastery.md#commands), allowing players to infinitely true combo other players with knockdown, leading to the creation of knockdown immunity.
 -   When [Mystic](Mystic.md) previously had unique dialogue for every Talent category, Jetstriker had the Mystic line "Journey before destination."
 -   Vigil's Grace card had another Oath name instead of Jetstriker, being "Oath: Windrunner"

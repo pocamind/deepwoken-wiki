@@ -1,6 +1,6 @@
 ---
 title: "Stratos' Cloak"
-revid: 193194
+revid: 193434
 source: https://deepwoken.fandom.com/wiki/Stratos'_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
 | durability | 1200 |
 | resistances | +20% Physical Armor, +30% Elemental Armor, +25% Shadow Armor |
 | talents | Breeze |
-| obtainment | Complete Apprentice Kj's Quest then speak to Stratos with at least ally Etrea reputation |
+| obtainment | Speak to Stratos while having at least ally Etrea reputation |
 | selling_price | 10 |
 | weight | 1 |
 

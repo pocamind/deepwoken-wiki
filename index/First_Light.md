@@ -1,6 +1,6 @@
 ---
 title: First Light
-revid: 193067
+revid: 193491
 source: https://deepwoken.fandom.com/wiki/First_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -18,7 +18,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, Weapons with U
 | posture damage | 9 |
 | range | 8.5 Sweep |
 | swing speed | 0.82x |
-| attack duration | 0.8s |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
 | special effect | On critical, summon a storm of fiery blades that hail down onto the field. |

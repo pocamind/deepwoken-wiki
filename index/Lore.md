@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 192568
+revid: 193536
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -20,7 +20,7 @@ beware - the Tide comes too for thee. ”
 
 ## Description
 
-The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be discovered in-game through [dialogues](Dialogue.md), [books](Books.md), descriptions, landscapes, and places, such as the [Towerstruck Lands](Towerstruck_Lands.md), [the City of the Drowned](The_City_of_the_Drowned.md), and many more.
+The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be discovered in-game through \[\[NP, [Books](Books.md) descriptions, Locations, and places, such as the [Towerstruck Lands](Towerstruck_Lands.md), [the City of the Drowned](The_City_of_the_Drowned.md), and many more.
 
 **DISCLAIMER:** This page is obsolete and in the process of being broken down.
 
@@ -384,6 +384,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as Kaide has stated that they were in a war against the Drowned Gods that the Celestials and Lightborn's lost when the Celestials fled.
 -   It is most likely that they have a great relation with Krulian's, similar to how Celestials are to Lightborns.
 -   There is not a Drowned God for each attunement.[\[4\]](#cite-note-arch-4)
+-   The game's name was originally meant to be drowned gods, but later changed to [deepwoken](#deepwoken) as we know of it today.
 
 **Voices of the Trials**
 
@@ -440,6 +441,16 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 -   Is said to have committed sins so heinous "the world will never forgive \[him\]."[\[4\]](#cite-note-arch-4)
 -   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes were different to the wielders of the hero blades.[\[4\]](#cite-note-arch-4)
 -   It is said that before he was sealed, he was capable of drowning entire islands in his prime, possibly being the sins that the world will never forgive.[\[4\]](#cite-note-arch-4)
+
+### [Zithori Vhemm Rybak Diri, Gift of Life](Developer_Specs.md#yayafino-gift-of-life-formerly-known-as-zithori-vhemm-rybak-diri)
+
+**Lore Sources:** yayafino, The Hive
+
+-   He was the 7th Greatlord of the hive.
+-   A heliodar, ~currently~ the leader of hive.
+-   Potentially owner of all greathives across lumen [due to him being a greatlord and not a hivelord.](The_Hive.md#notable-members)
+-   He owns lifeweave, and attacks similiar to dawnwalker's and hive mechs, including tree-teleports and a one-shot radiant kick.
+-   Dev Spec of yayafino ingame, he is tagged as hive leader.
 
 ### Sudaruska the Unbroken
 
@@ -645,6 +656,8 @@ _"You can feel your soul dragging down like a weight, deeper, further into the d
 
 _"The sunken remnants of a lost civilization give little respite to the transitory beings that pass through." - City of the Drowned Flavour Text_
 
+The cathedral of interstice
+
 -   A City that was overtaken by The Tides. Once a prosperous city and capital of Celtor located in the Southern Luminant, now a hub of all the Drowned that descended there; residing in the First Layer of [The Depths](The_Depths.md).
 -   It's guarded by the city's former guards.
     -   Strangely, instead of succumbing to the effects of insanity, they instead appear to be degrading, being almost unable to speak outside of wheezes, described as 'losing their self'.
@@ -659,6 +672,8 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 
   
 
+Castle light back then when deepbound used to be a flaw
+
   
 
 -   Also known as [Castle of Light](Castle_Light.md), Castle Light is a Base of Operations for The Divers within the First Layer. Secluded within the outskirts of Celtor Waste behind a light-green barrier,
@@ -668,6 +683,7 @@ _"The sunken remnants of a lost civilization give little respite to the transito
 #### The Eternal Gale, The Second Layer
 
 -   The Second layer of the depths is a cold wasteland with never-ending winds that lies non-linearly below the first layer.
+-   Currently where [Chaser](#chaser-scholar-of-the-crimson-contract) is located at and trapped due to time dilation.
 
 ##### Ethironal Shrine (First floor)
 
@@ -807,7 +823,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   **Attunements:** _[Shadowcast](Shadowcast.md), [Bloodrend](Bloodrend.md)_
 -   **Alliances:** _Etrea (Neutral)_
 -   **Enemies:** _[The Ignition Union](The_Ignition_Union.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md). [Authorityiconfaction](The_Central_Authority.md)_
--   **Lore Sources:**
+-   **Lore Sources:** _Yun'shul, Deepspindle_
 
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.[\[1\]](#cite-note-rag-1)
@@ -816,6 +832,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   They are lead by prophets. There is no limit to how many there can be,[\[1\]](#cite-note-rag-1) but as of Year 1363 there are nine. They are ranked by strength.[\[1\]](#cite-note-rag-1)
 -   The leader of the Ministry is the First Prophet, currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
 -   [The Ministry](The_Ministry.md) has some sort of hostility against the [Children of Navae](The_Children_of_Navae.md), which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
+    -   Possibly due to their connection with and worship of [Navae](#navae), and ministry connections and obsession with drowned gods like [Yun'shul](#yunshul-keeper-of-hearts) and the great drowning.
 -   Essentially enemies with every major faction in the game until proven otherwise.
 -   [Minityrsa](Minityrsa.md) was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[8\]](#cite-note-gran-8)
 -   The Ministry Scouts all use [Krulian Knives](Krulian_Knife.md), which is also the signature weapon wielded by [The Ferryman](The_Ferryman.md).
@@ -918,7 +935,7 @@ An Authority Captain
 -   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md)_
 -   **Lore Sources:** _[Regek](Regek.md)_
 
--   They are lead by various Hivelords that act under a Greatlord.[\[13\]](#cite-note-yaya-13)
+-   The hives are lead by various Hivelords respectivelly to their hives that act under a Greatlord.[\[13\]](#cite-note-yaya-13)
     -   All Greatlords and [Ganymede](Ganymede.md) wear hats as part of a tradition to honor the very first Greatlord.[\[13\]](#cite-note-yaya-13)
 -   A group of Individuals; mostly [Vesperians](Vesperian.md) and [Ganymedes](Ganymede.md), located in the [Greathive Aratel](Greathive_Aratel.md) and other Greathives across the world.
     -   Greathive Aratel is considered a backwater, inferior to larger Greathives like The First.[\[13\]](#cite-note-yaya-13)
@@ -1655,11 +1672,11 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ### The Great Drowning of Celtor
 
-**Lore Sources:** _Blindseer Stone, The Ministry (Mentioned), Warden Jericho's Journal (Mentioned)_
+**Lore Sources:** _Blindseer Stone, The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Celtorian Guard Dialouge (Year is stated)._
 
 -   A new king rose to power and seemingly through the machinations of the Ministry, the Celtorian Horror - a colossal sea monster[\[4\]](#cite-note-arch-4) - dragged the city beneath the waves.
 -   The City of Celtor is now located in [Scyphozia, The first Layer of The Depths](First_Layer.md).
--   Drowning took place well after the Canticlysm ended.
+-   Drowning took place well after the Canticlysm ended in 904.
 
 ### The Depths
 

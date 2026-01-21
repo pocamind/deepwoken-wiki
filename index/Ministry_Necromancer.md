@@ -1,9 +1,9 @@
 ---
 title: Ministry Necromancer
-revid: 191127
+revid: 193474
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, The Ministry, Ministry Enemies]
+categories: [Ganymede NPCs, Enemies, The Ministry, Ministry Enemies]
 ---
 
 # Ministry Necromancer
@@ -11,15 +11,17 @@ categories: [Enemies, The Ministry, Ministry Enemies]
 | Ministry Necromancer | |
 |---|---|
 | health | 600 |
-| drops | Lesser Mantra Modifiers, Umbral Obsidian, Night Axe |
+| drops | Lesser Mantra Modifiers, Umbral Obsidian, Night Axe (rare) |
 | weapon | Krulian Knife |
 | moves | Assault, Critical, Shadow Roar, Summon Necro-skippers, Shadow Seekers |
+| aspect | Ganymede |
+| affiliation | The Ministry |
 
 ## Description
 
-Ministry Necromancers, commonly referred as "Shadow NPCS", are NPCs that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground. Defeating them will be rewarded with a chest containing decent gear and loot.
+Ministry Necromancers are NPCs that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground.
 
-Every Ministry Necromancer is a [Ganymede](Ganymede.md). Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always have the same hair style, the hair being purely white. They have 600 HP, making them tankier **AND** more annoying than [Ministry Scouts](Ministry_Scout.md).
+Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always have the same hair style, the hair being purely white.
 
 ## Moves
 
@@ -75,22 +77,21 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
  |  |
 
-### Boons
+### Passives
 
--   Third Eye - User cannot be assassinated under any circumstances.
+-   Third Eye - Ministry Necromancers cannot be assassinated under any circumstances.
 
 ### Talents
 
--   Finishing Touch - Instantly execute enemies finished with the critical attack of your dagger.
--   Successive Throw - When you successfully flourish an enemy, you throw out a dagger afterwards
--   Pressure Detonation - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
+-   Blackhole - Your singularity pulls everyone nearby in.
 -   Dark Hours - Shadowcast mantras deal more damage at night.
 -   Dark Rift - Enter a rifted state when you successfully dodge, where you can't be damaged until its duration ends. Can be cancelled with feinting or attacking.
 -   Dark Synergy - Engulf your enemy in shadows when flourishing them.
+-   Finishing Touch - Instantly execute enemies finished with the critical attack of your dagger.
+-   Pressure Detonation - Block breaking an opponent with a shadow mantra generates a small vacuum that suffocates those hit.
 -   Singularity - Enemies will briefly hang in place when hit by a shadow move.
--   Blackhole - Your singularity pulls everyone nearby in.
+-   Successive Throw - When you successfully flourish an enemy, you throw out a dagger afterwards
 
 ## Trivia
 
 -   Necromancer hair id - 4735347390
--   They have a rare chance of dropping the [Night Axe](Night_Axe.md) on death.

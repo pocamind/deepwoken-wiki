@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 193254
+revid: 193462
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -322,6 +322,14 @@ Dialogue: | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritan
 
 Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
+### Lifeweave / Lifewoven
+
+-   The ability to manipulate plant and fungal life through the [Song](#the-song).
+-   Pioneered by the Hive and kept a close secret, it has enabled the construction of the colossal Greathives that the Hive call home.
+-   Lifeweave is a versatile art that may even extend to [Lifewoven](#lifeweave--lifewoven) equipment and weaponry that interface with the materials of the object and through a complex latticework not unlike circuitry are able to produce unique effects. It is thought by some that the complex patterns of so-called Enchantments may embody the terms of a [Vow](#vows).
+
+Dialogue: [Kaab](Kaab.md), [Neero](Neero.md), [Regek](Regek.md) | Books: | Glossary Entries:
+
 ### Light Hook
 
 -   A special technique developed by Klaris to retrieve [Divers](#the-divers) that expedition from [Castle Light](#castle-light). Hopefully still in one piece.
@@ -356,7 +364,7 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)
 -   Speech isn't necessary to cast Mantras. The precise means of invoking a Mantra varies from person to person, but is broadly described as 'speaking' from within, akin to holding an inner monologue, or to bringing a memory to the forefront of your thoughts.
 -   Often, the more one _understands_ and is able to conjure forth the words of a Mantra, the more effective they are at using it.
 
-Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Nimea](Nimea.md) | Books: | Glossary Entries: [The Song](#the-song)
+Dialogue: [Aelita](Aelita.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Nimea](Nimea.md), [Suri](Suri.md) | Books: | Glossary Entries: [The Song](#the-song)
 
 ### Soul Murmur
 
@@ -370,7 +378,7 @@ Dialogue: [Bookkeeper Andros](Bookkeeper_Andros.md), [Old Stranger](Old_Stranger
 -   An extension of the [Song](#the-song) brought about by swearing a [Vow](#vows) to oneself.
 -   By expanding upon the [Song](#the-song) and incorporating a self-sworn [Vow](#vows) in its workings, the effects of its magic are greatly amplified, granting the adherents of Oaths unique and powerful abilities.
 
-Dialogue: [??? (Blindseer Glyphs)](<%253F%253F%253F_(Blindseer_Glyphs).md>), [Barber](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), Klaris Llfiend Llfiend, [Samael](Samael.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vows](#vows)
+Dialogue: [??? (Blindseer Glyphs)](<%253F%253F%253F_(Blindseer_Glyphs).md>), [Barber](Barber.md), [Cerulean](Cerulean.md), [Eylis](Eylis,_the_Punished_Dreamer.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Samael](Samael.md), [Windrunner](Windrunner.md) | Books: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Radiant Tones](#radiant-tones), [Vows](#vows)
 
 ### Radiant Tones
 
@@ -396,7 +404,7 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Gloss
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
 -   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilisation \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Leaf Spellhardt](Leaf_Spellhardt.md), [Nimea](Nimea.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), [Mantra](#mantra), [Oaths](#oaths), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Leaf Spellhardt](Leaf_Spellhardt.md), [Nimea](Nimea.md), [Regek](Regek.md), [Sibex](Sibex.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), \[#Lifeweave / Lifewoven|Lifeweave / Lifewoven\]\], [Mantra](#mantra), [Oaths](#oaths), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
 
 ### Vows
 
@@ -406,7 +414,7 @@ Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celes
 -   Vows are poorly understood by the people of the [Resurgence](#the-resurgence), but are still a fundamental part of their daily lives.
 -   Vows do not have to be made with others, and can even be made with oneself. Indeed, the powerful magic of an [Oath](#oaths) is facilitated by such a Vow.
 
-Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
+Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), [Samael](Samael.md), [Sordino](Sordino.md), [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | Books: [Jericho's Journal](<Jericho's_Journal.md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Aeod, the Waking God](#aeod-the-waking-god), [Aspects](#aspects), [Hereditary Vow](#hereditary-vow), [Lifeweave / Lifewoven](#lifeweave--lifewoven), [Oaths](#oaths), [The Drowned City of Celtor](#the-drowned-city-of-celtor)
 
 -   Steward Bridges posited in his work 'Vows by the Sea: Inheritance' that the [Aspects](#aspects) of [Lumen](#lumen) may be the result of a [Hereditary Vow](#hereditary-vow).
 

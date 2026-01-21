@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 192706
+revid: 193513
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -2891,7 +2891,7 @@ If using Eruption Path: Lava Serpent, Eruption delay is reduced.
 **Requires Power 10**
 
  |
-|  | [Freestyler's Band](<Freestyler's_Band.md>) | Gives the user a massive increase in swimming speed while out of combat.
+|  | [Freestyler's Band](<Freestyler's_Band.md>) | Reduces the hunger and thirst drain from swimming.
 
   
 **Requires Power 3**

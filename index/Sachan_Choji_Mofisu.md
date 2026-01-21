@@ -1,6 +1,6 @@
 ---
 title: Sachan Choji Mofisu
-revid: 184552
+revid: 193518
 source: https://deepwoken.fandom.com/wiki/Sachan_Choji_Mofisu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Sachans]

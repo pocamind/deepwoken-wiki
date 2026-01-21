@@ -1,9 +1,9 @@
 ---
 title: Laplace
-revid: 191515
+revid: 193455
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Vendors, The Hive]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, The Hive]
 ---
 
 # Laplace
@@ -42,6 +42,21 @@ Laplace will also give a random [Enchant Grease](Enchant_Grease.md) for 5 Knowle
 ## Location
 
 Laplace is located at [Greathive Aratel](Greathive_Aratel.md) in the R&D section of the Heart Plaza.
+
+  
+
+## Shop
+
+Laplace's Lost & Found
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><div>Enchant Grease</div><div><i>An oil of enchantment; it can apply its given Enchant to your Equipment.</i></div></td>
+</tr>
+</tbody>
+</table>
 
 ## Dialogue
 
