@@ -1,6 +1,6 @@
 ---
 title: "Death's Reverie"
-revid: 191763
+revid: 193415
 source: https://deepwoken.fandom.com/wiki/Death's_Reverie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Weapons with Unique Criticals, Event Item, Hallowtide, Medium Weapons]
@@ -52,4 +52,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   The design of the weapon was created with the help of user "iiPessimystic".
 -   Using the critical while having speed boosts i.e. speed potions causes you to move at great speeds.
 -   It was originally Unique tier, being unbankable and unsellable. It was changed to be the same tier as all other Hallowtide weapons in a hotfix after the weapon's release.
--   The critical used to guardbreak, however, it was nerfed to just do high posture.
+-   The critical used to guardbreak, however, it was nerfed to just do high posture damage.

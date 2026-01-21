@@ -1,6 +1,6 @@
 ---
 title: Gunsmith Rosen
-revid: 190259
+revid: 193421
 source: https://deepwoken.fandom.com/wiki/Gunsmith_Rosen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Gunsmiths]
@@ -34,7 +34,6 @@ While Rosen is known for his mechanical expertise, he has shown himself to still
 
 -   Concept art has depicted him as a [Canor](Canor.md) as well as a Vesperian.
 -   While the [Flintlock](Flintlock.md) was designed by Rosen he only made the first Prototype, it now is mass produced by various gunsmiths.
--   The [Iron Blunderbuss](Iron_Blunderbuss.md) may be one Rosen's design but was not created by his hands.
 -   He also wore [Rosen's Ring](Equipment.md), which gives 1.2 INT scaling, but he lost it for an unknown reason, and so now the player can obtain it.
 -   The name "Gunsmith Rosen" could be a reference to the famous 90s rock band [Guns N' Roses](https://en.wikipedia.org/wiki/Guns_N%27_Roses).
 

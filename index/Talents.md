@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193370
+revid: 193418
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1237,7 +1237,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Empath
 
--   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage. 15s CD
+-   Cornered Fool \[Common Talent, Charisma\] - Blockbreaking a Charmed opponent procs Taunt for 5s, making them take and deal more damage.
+    -   15 second cooldown.
     -   Despite what the description states, this applies Taunt for 6 seconds.
     -   Every point of Charisma below 85 will reduce the duration of this Taunt by 0.035 seconds, capping at a minimum of 5.12 seconds with 60 Charisma.
     -   The Taunt damage buff is also applied to the attack that guard broke.
@@ -1355,6 +1356,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _Fishman_ \[Rare Talent\] - When your Blood is over 50%, you won't drown when [Unconscious](Status_Effects.md#unconscious) in water. Gain additional healing from kncking others [Unconscious](Status_Effects.md#unconscious) in water. (+5 Health)
     -   The old Scuba Drowner Talent was merged into this Talent.
+
+-   _Landshark_ \[Rare Talent\] - Killing a megalodaunt \[_[sic](https://en.wikipedia.org/wiki/sic)_\] will grant lifesteal on your attacks for 30 seconds.
 
 ### Fang and Coil
 
@@ -1634,7 +1637,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   This Talent simply removes/reduces armor damage taken, it has no effect on PEN.
     -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
 
--   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium/Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile. 5s CD
+-   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium/Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
+    -   This requires you to have [bullets](Bullets.md) in your inventory.
+    -   5 second cooldown.
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Using an Offhand Pistol
 
 -   Parting Gift \[Common Talent, Light Weapon\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
@@ -2744,7 +2749,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Nanji's Training_ \[Quest Talent\] - Nanji shows you a better way to properly block attacks using a weapon, granting you 1 Posture. (+1 Posture)
     -   Prerequisite: Complete [Nanji](Nanji.md)'s quest
 
--   _Supernatural Sense_ \[Quest Talent\] - After dealing with literal ghosts, you feel emboldened. (+10 Sanity)
+-   _Supernatural Sense_ \[Quest Talent\] - After dealing with real actual literal ghosts, you feel emboldened. (+10 Sanity)
     -   Prerequisite: Complete [Suyuan](Suyuan.md)'s quest
 
 ### Raging Bull

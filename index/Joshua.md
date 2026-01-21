@@ -1,6 +1,6 @@
 ---
 title: Joshua
-revid: 192872
+revid: 193413
 source: https://deepwoken.fandom.com/wiki/Joshua
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -26,9 +26,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Joshua is an [Etrean](Etrean.md) NPC. If asked, he will speak about the Central Authority. Joshua has the appearance of an old man with wrinkly skin.
+Joshua is an [Etrean](Etrean.md) NPC.
 
-  
+Joshua has the appearance of an old man with wrinkly skin.
 
 ## Location
 

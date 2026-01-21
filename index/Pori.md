@@ -1,6 +1,6 @@
 ---
 title: Pori
-revid: 193289
+revid: 193414
 source: https://deepwoken.fandom.com/wiki/Pori
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -28,7 +28,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Pori is a young [Etrean](Etrean.md) NPC. He is the apprentice to [Blacksmith](Blacksmith.md) [Caragan](Caragan.md).
 
-He sits outside the shop, near Cloth and Fiber being sold for 6 and 3 notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 notes apiece.
+He sits outside the shop, near Cloth and Fiber being sold for 6 and 3 Notes respectively. Upon speaking to him, he asks you not to rat on him for "slacking off", saying that his teacher will remove his apprenticeship if he finds out. If you choose not to rat on him, the cloth goes from 6 to 3 Notes apiece.
 
 ## Location
 

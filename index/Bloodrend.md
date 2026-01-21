@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 193365
+revid: 193395
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,7 +20,9 @@ Bloodrend Icon
 
 Bloodrenders excel in long fights, their power ramping up as the fight goes on due to the effects applied to enemies from Blood Poison and Blood Drain. They can counter their opponents' sustain while using sustain to benefit themselves. However, Bloodrend is difficult to make use of outside of single target combat, as blood poison decays, making it hard to achieve high percentages of it against multiple enemies.
 
-It's extremely effective at long to mid range. To counter this attunement, prioritize staying up close and applying constant pressure, as Bloodrend lacks close range low windup mantras. Keep in mind that any mistake is likely to lead to you getting severely punished by the Bloodrend user, even at close range from Mantras like Bloodcurdle
+It's extremely effective at long to mid range. To counter this attunement, prioritize staying up close and applying constant pressure, as Bloodrend lacks close range low windup mantras. Keep in mind that any mistake is likely to lead to you getting severely punished by the Bloodrend user, even at close range from Mantras like Bloodcurdle.
+
+Bloodrenders can leverage the **Hemorrhaging** mechanic, dealing 15% of a PvE enemy's health once a threshold of blood drain is met. This threshold can be built up by using any source of blood drain, not exclusively Bloodrend. When this procs, the enemy will lose a percentage of the blood poisoning you've applied to them.
 
 ## Obtainment
 
@@ -949,10 +951,7 @@ These are Talents found in "_Quack Doctor_" Category.
         -   _Bloodwarden's Sense_ - Enemies you attack with a mantra are highlighted red briefly.
     -   70% - _Gruesome Harvest_ Talent is Activatable
         -   _**Gruesome Harvest**_ - Landing Bloodrend mantras on opponents will give you 15 temporary health.
--   Hemorrhaging - Drain enough blood from enemies in **PvE** combat to cause a hemorrhage effect, dealing 15% of your enemies health **(Not affected by damage modifiers \[tested using grim\])** and going on a short cooldown. This does however cause some of your opponent to lose some of their blood poison.
-
-###### The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
-
+-   The [Ironsing](Ironsing.md) Talent, Alloyblood changes the color of your Bloodrend mantras to a blue-ish grey.
 -   Chaser seems to be using his own version of Bloodrend - tailored and handcrafted by none other than the Second Prophet, as said in [Vyrelda](Vyrelda,_Master_of_Blood.md)'s dialogue, which is special.
 -   While Bloodrend might seem like it'd be a good counter against [Curse of the No Life King](Curse_of_the_No_Life_King.md) users and people with the [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw, Bloodrend Mantra blood drain is actually entirely unaffected by blood damage modifiers.
 -   The blood cost for casting Bloodrend Mantras is also completely unaffected by blood damage modifiers like [Alloyblood](Talents.md#alloyblood), [Cauterized Wounds](Talents.md#cauterized-wounds), [Curse of the No Life King](Curse_of_the_No_Life_King.md) Enchant, and the aforementioned [Haemophilia](Boons_and_Flaws.md#haemophilia) Flaw; removing the possible synergy between Bloodrend and [Bloodforged Crown](Bloodforged_Crown.md).
