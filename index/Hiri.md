@@ -1,6 +1,6 @@
 ---
 title: Hiri
-revid: 193450
+revid: 193545
 source: https://deepwoken.fandom.com/wiki/Hiri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
@@ -84,7 +84,7 @@ Hiri is a male [Chrysid](Chrysid.md) found in the Library section of the [Greath
 </tr>
 <tr>
   <td colspan="3"></td>
-  <td colspan="3">Within the central mass of the <a href="Glossary.md#the-lullaby-isles">Lullaby</a> Isles is a city-state known as <a href="Talents.md#the-echelon">The Echelon</a>. It's the center of the Moonlit Faith's beliefs, and where the council of the faith resides. The Lady <a href="Talents.md#the-lady-confessor">The Lady Confessor</a> is.. a cruel woman. She declares what is sin, and what is not... and deals punishment to sinners.</td>
+  <td colspan="3">Within the central mass of the <a href="Glossary.md#the-lullaby-isles">Lullaby</a> Isles is a city-state known as <a href="Glossary.md#the-echelon">The Echelon</a>. It's the center of the Moonlit Faith's beliefs, and where the council of the faith resides. The Lady <a href="Glossary.md#the-lady-confessor">Confessor</a> is.. a cruel woman. She declares what is sin, and what is not... and deals punishment to sinners.</td>
 </tr>
 <tr>
   <td colspan="3"></td>

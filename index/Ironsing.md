@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 193129
+revid: 193547
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -300,10 +300,9 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
 -   The Blast Spark variant has a base damage of 20/20.5/21/21.5/22 per level, per hit (2) with innate [Bleed](Status_Effects.md#bleed) damage and 2.75 Ironsing scaling.
 -   The base variant deals 5 posture damage per hit while the Blast Spark variant deals 15 posture damage per hit.
 -   The base variant has a windup of 0.8 seconds, while the Blast Spark variant has a windup of 0.55 seconds.
--   Currently has no PvE scaling.
+-   Has 9.18x PVE scaling (multiply damage dealt by 9.18 for PvE damage).
 -   Apply Metal Rods on hit.
 -   You cannot use other abilities or attack while this Mantra is active.
--   Shares a cooldown with [Metal Turret](Ironsing.md#metal-turret).
 -   Can be modified with a [Blast Spark](Mantra_Modifiers.md#sparks), changing the Mantra to fire two cannons at the opponent, dealing higher damage and posture damage per shot but attack less times. This version of the attack has less windup than the base variant.
 
  |
@@ -928,7 +927,6 @@ Metal
 -   Cannot stun players. This Mantra is heavily incentivized for use in PvE.
 -   Each shot applies a Metal Rod on hit
 -   Turrets can be destroyed if hit enough times by the caster or their opponents.
--   Shares a cooldown with [Firing Line](Ironsing.md#firing-line).
 -   Requires a ritual cast with two keys, adding duration modifiers increases the number of keys.
 -   Can be modified with [Aeon/Eternal Logstones](Mantra_Modifiers.md#regular-modifiers) to increase duration.
 -   Can be modified with [Drift/Rush Shards](Mantra_Modifiers.md#regular-modifiers) to make turret spin faster.

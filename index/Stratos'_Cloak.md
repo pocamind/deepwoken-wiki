@@ -1,6 +1,6 @@
 ---
 title: "Stratos' Cloak"
-revid: 193434
+revid: 193546
 source: https://deepwoken.fandom.com/wiki/Stratos'_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
@@ -13,10 +13,10 @@ categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
 | caption | An honorable gift given in recognition of your heroism. Donning these robes represents the highest anointment granted within the Blade Temple. |
 | tier | Unique |
 | crafting_req | x5 Cloth, x10 Erisore, x2 Strange Claw, x1 Vibrant Gem, x1 Wind Gem |
-| stat_req | Power 10 |
+| stat_req | Power 15 |
 | bankable | Yes |
 | droppable | No |
-| durability | 1200 |
+| durability | 2200 |
 | resistances | +20% Physical Armor, +30% Elemental Armor, +25% Shadow Armor |
 | talents | Breeze |
 | obtainment | Speak to Stratos while having at least ally Etrea reputation |
@@ -48,5 +48,5 @@ The [Breeze](Talents.md#breeze) Talent grants a permanent +2 studs/s movement sp
 ## Trivia
 
 -   This outfit uses the same clothing and stats as the [Cloak of Winds](Cloak_of_Winds.md).
--   **Current** cloak of winds is an outfit made by **KAHAEL:**
+-   Clothing made by **KAHAEL:**
     -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10401137157/Cloak-of-Winds-Shirt) / [Pants](https://www.roblox.com/catalog/10401292181/Cloak-of-Winds-Pants)

@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 193536
+revid: 193543
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -317,6 +317,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Religious figure and Celestial.
 -   Worshiped by Polis, Alastir, and Pathfinders around the world.
 -   The namesake of the Anklets of Alsin
+-   Anagram for Nilsa.
 
 ### Navae
 
@@ -446,8 +447,7 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 
 **Lore Sources:** yayafino, The Hive
 
--   He was the 7th Greatlord of the hive.
--   A heliodar, ~currently~ the leader of hive.
+-   He was the 7th Greatlord of the hive, possibly the main leader..
 -   Potentially owner of all greathives across lumen [due to him being a greatlord and not a hivelord.](The_Hive.md#notable-members)
 -   He owns lifeweave, and attacks similiar to dawnwalker's and hive mechs, including tree-teleports and a one-shot radiant kick.
 -   Dev Spec of yayafino ingame, he is tagged as hive leader.
