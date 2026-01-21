@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 192934
+revid: 193548
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -57,4 +57,4 @@ The critical has a cooldown of **6 seconds**.
 -   The upper front of the fist resembles a brass knuckle, or a knuckle duster.
 -   The crit can be easily cancelled, even being able to be countered with a single m1, so it's wise to only use the crit when your enemy is under pressure.
 -   Currently the only Cestus that can be alloyed.
--   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodlord Cestus.
+-   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Coral or Broodalloy Cestus.
