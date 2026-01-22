@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 193264
+revid: 193727
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -199,7 +199,7 @@ Shadow
 
 -   Has a base damage of 25/28/31/34/37 per level with 2.75 Shadowcast scaling.
 -   Drains 27/30.5/33.5/37/40.5 Ether per level with 2.75 Shadowcast scaling.
--   Unmodified variant guardbreaks at level 5.
+-   Unsparked variant guardbreaks at level 5.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   Adding [Crystal](Mantra_Modifiers.md#regular-modifiers) and [Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) will increase the range of your Shadow gun, this will however reduce the damage of the Mantra.
 -   Adding [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) will increase the height and width of the blast, this will however reduce the damage of the Mantra.

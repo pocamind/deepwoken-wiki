@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193718
+revid: 193735
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
