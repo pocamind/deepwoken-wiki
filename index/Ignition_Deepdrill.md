@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdrill
-revid: 193721
+revid: 193724
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdrill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup]
@@ -10,7 +10,7 @@ notices:
 
 # Ignition Deepdrill
 
-The deepdriller at the end of the Nest Corridor.
+The deepdriller located at the end of the Nest Corridor.
 
 ## Description
 
