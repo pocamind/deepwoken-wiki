@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 192337
+revid: 193590
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]

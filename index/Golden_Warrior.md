@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 184670
+revid: 193578
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Golden Rats]
@@ -54,6 +54,14 @@ Their arsenal consists of a [Soulwrought Axe](Crazy_Slots.md#weapons) and the [G
  | Yells out a taunt applying an effect to the opponent.
 
 -   Taunt makes you take 20% more damage, deal 10% more damage to the person who applied the status, and removes your ability to jump.
+
+ |
+| 
+
+**Onslaught**  
+(★★☆)
+
+ | User reels in their weapon to then downslam it onto their foes and follow up with 2 uppercuting kicks.
 
  |
 | 

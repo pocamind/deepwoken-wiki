@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 192700
+revid: 193587
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, Circle of Honour members]
@@ -438,4 +438,9 @@ Sold Items
 ## Trivia
 
 -   As with [her grandson](Traan_Zakshun.md), Naan Zakshun's name is a pun/wordplay: her first name sounds similar to "nan", a slang word for one's grandmother, playing on the fact that she is Traan's grandmother.
--   The shop dialogue "I lost my fangs a long time ago..." is a reference to the scene in the anime Chainsaw Man, where Kishibe holds a note stating "Makima is listening." Given that figures resembling [The Lord Regent](The_Lord_Regent.md) can be spotted spying on the player, this further proves that Lord Regent is always watching.
+-   Naan's shop dialogues contain references to other media:
+    -   _"Life is roadblocks, don't let anything stop you... from getting this insane deal"_ is a reference to a phrase said by DJ Khaled that became a meme.
+    -   "_Naan Zakshun has wares if you have coin- I mean... notes... yeah_" is a reference to Khajiits from _The Elder Scrolls V: Skyrim_, travelling merchants who, when interacted with, will say the line "Khajiit has wares if you have coin".
+    -   "_I lost my fangs a long time ago..._" is a reference to a panel in the manga _Chainsaw Man_, where Kishibe holds a note stating "Makima is listening" while saying this line. Given that figures resembling [The Lord Regent](The_Lord_Regent.md) can be spotted spying on the player, this further proves that Lord Regent is always watching.
+    -   "_You want it? It's yours, my friend! As long as you have enough Notes._" is a reference to Morshu from _Link: The Faces of Evil_.
+-   The shop dialogue "_You seen Hotdog anywhere?_" could possibly be referring to Hotdog, the Summer Isle [Mantra Collector](Mantra_Collector.md).

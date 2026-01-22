@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 193515
+revid: 193588
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -441,8 +441,9 @@ Sold Items
 -   Traan's shop dialogues contain references to other media:
     -   "_A strange blue turnip salesman once told me that deep forests, like the ones in Upper Erisia, bring in good coin. Gotta say, he's right._" is a reference to the turnip salesman from _Rogue Lineage_.
     -   "_...What's an 'angel statue'? Look, I think you're confusing me for someone else here, buddy._" is a reference to a running joke in _Terraria_ that involves several merchant NPCs referencing the Angel Statue item.
+    -   "_Traan Zakshun has wares if you have coin- I mean... notes... yeah_" is a reference to Khajiits from _The Elder Scrolls V: Skyrim_, travelling merchants who, when interacted with, will say the line "Khajiit has wares if you have coin".
     -   "_You want it? It's yours, my friend! As long as you have enough crowns._" is a reference to Morshu from _Link: The Faces of Evil_.
-    -   "_Colour makes us hungry - everything's connected!" is a reference to Redesign your Logo by Lemon Demon._
+    -   "_Colour makes us hungry - everything's connected!_" is a reference to the song _Redesign your Logo_ by Lemon Demon.
 -   As stated by Traan themselves and Nuttoons, the developer who made the character, Traan mugs freshies and bandits around Erisia for the wares that they sell in his regular shop rotation.[\[3\]](#cite-note-0-3) This draws similarity to the [Loot Bag Gacha](Loot_Bag_Gacha.md) NPCs, although unlike Traan, the loot bag gacha NPCs collect their goods off of corpses rather than getting their hands dirty themselves.
 
 ## References

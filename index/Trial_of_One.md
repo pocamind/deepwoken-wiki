@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 193494
+revid: 193593
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -104,7 +104,8 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ### Rewards
 
--   Finishing the trial of one as any origin other from [Lone Warrior](Lone_Warrior.md) will grant you enough exp to get to power 2 right after you finish the trial, also grants you the talent "Mark of the Lone Warrior"
+-   Finishing the trial of one as any origin other from [Lone Warrior](Lone_Warrior.md) will grant you enough exp to get to power 2 right after you finish the trial.
+-   Finishing trial of one as [Lone Warrior](Lone_Warrior.md) grants you the talent "Mark of the Lone Warrior"
 -   The [Lone Warrior](Lone_Warrior.md) Origin after defeating the Thresher OR alternatively, wiping once.
 
 ### Death

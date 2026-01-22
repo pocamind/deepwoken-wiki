@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (individual)
-revid: 188012
+revid: 193592
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(individual)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Deceased characters, The Five Heroes]
@@ -21,7 +21,7 @@ _If you're looking for the [Memento](Mementos.md) of the same name, see [Saint J
 
 ## Description
 
-Saint Jay was a prominent [Frostdrawer](Frostdraw.md), a disciple of [Faust](Faust.md), and the enemy of [Urek Felhand](Urek_Felhand.md). The wielded [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>).[\[1\]](#cite-note-memento-1)
+Saint Jay was a prominent [Frostdrawer](Frostdraw.md), a disciple of [Faust](Faust.md), and the enemy of [Urek Felhand](Urek_Felhand.md). They wielded [Saint Jay's Hammer](<Saint_Jay's_Hammer.md>).[\[1\]](#cite-note-memento-1)
 
 Saint Jay has a [Memento](Mementos.md) linked to them, which focuses on utilization of heavy weapons and [Frostdraw](Frostdraw.md) Mantras.[\[1\]](#cite-note-memento-1)
 

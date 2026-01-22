@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 193543
+revid: 193591
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -89,7 +89,6 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
     -   The King of Etrea has a potent version of Ardour; a Murmur that has the ability to convert itself into raw strength.
     -   The [teacher](Teacher.md) charisma dialogue refers to the King of Etrea, suggesting that he sacrificed himself for Etrea and could possibly be dead: "_\*The Pathfinder tells you a story of a great King who sacrificed himself for his people. You feel empowered by his sacrifice. Is this a story about the King of Etrea? \*"_
 -   The King of Etrea travelled to the Southern Luminant and made a Vow with Yun'Shul, granting him the [Oath](Oaths.md), [Soulbreaker](Oath%253A_Soulbreaker.md).
--   The King of Etrea is rumored to be in [The Depths](The_Depths.md), but further evidence is required.
 -   The King of Etrea wielded the legendary "Splinterblade", which is what the Shattered Katana is fashioned after.
 
   
@@ -134,7 +133,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 -   Though a normally capable fighter who deals with deeper layers, the higher ups have reassigned him to the First Layer to take care of recruits, much to his chagrin.
 -   Akira wields a purple _**Corrupted**_ Resonance called Top-Pop, which allows the ability to instantly kill those who are significantly weaker than himself, although the closer the distance between Akira and his foes powers the more of his lifespan using this bell will drain.
     -   This is probably another reason why he remains in the First Layer despite his rank, as taking on the threats below will just slowly kill him.
-    -   Strong enough opponents like Klaris will not be instantly killed by the bell.[\[1\]](#cite-note-rag-1) This explains why he retreats when you pick the Charisma option dialogue with 100 Charisma, fooled into thinking that you're too strong and that he can't use his bell to instantly kill you, or at least not without shaving a good amount of his lifeforce off.
+    -   Strong enough opponents like Klaris will not be instantly killed by the bell.[\[1\]](#cite-note-rag-1) This explains why he retreats when you pick the Charisma option dialogue with 75 Charisma, fooled into thinking that you're too strong and that he can't use his bell to instantly kill you, or at least not without shaving a good amount of his lifeforce off.
 -   Akira is in charge of clearing out Research Sites and Recruit Field Training.
 -   Nobody knows what he's reading.
 -   He once had wielded Akira's ring, a legendary ring which adds 1.2 WP scaling to all weaponry, but has long since discarded it due to himself no longer needing "such trinkets". He's likely become overconfident thanks to his bell.
@@ -447,10 +446,12 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 
 **Lore Sources:** yayafino, The Hive
 
--   He was the 7th Greatlord of the hive, possibly the main leader..
+-   He was the 7th Greatlord of the hive, possibly the main leader.
 -   Potentially owner of all greathives across lumen [due to him being a greatlord and not a hivelord.](The_Hive.md#notable-members)
--   He owns lifeweave, and attacks similiar to dawnwalker's and hive mechs, including tree-teleports and a one-shot radiant kick.
+-   He owns lifeweave, and attacks similiar to dawnwalker's and hive mechs, including tree-teleports and a overly-strong radiant kick.
 -   Dev Spec of yayafino ingame, he is tagged as hive leader.
+
+Sticker of yayafino wielding lifeweave on his weapon
 
 ### Sudaruska the Unbroken
 
@@ -683,7 +684,6 @@ Castle light back then when deepbound used to be a flaw
 #### The Eternal Gale, The Second Layer
 
 -   The Second layer of the depths is a cold wasteland with never-ending winds that lies non-linearly below the first layer.
--   Currently where [Chaser](#chaser-scholar-of-the-crimson-contract) is located at and trapped due to time dilation.
 
 ##### Ethironal Shrine (First floor)
 
@@ -692,6 +692,7 @@ Castle light back then when deepbound used to be a flaw
 -   The Ignition Union has set up a base called [The Frontier Furnace](The_Frontier_Furnace.md) within the shrine, along with lanterns to burn the parasitic snow off.
     -   This means that even though The Divers are well funded and have way more control over Scyphozia compared to the Ignition Union, the Ignition Union is much more equipped to handle The Second Layer. This could possibly mean that they are funded by The Central Authority to explore the deeper parts of The Depths and settle there efficiently while The Divers are more research-based and only go on expeditions to The Eternal Gale for more information that the Ignition Union is ordered not to do. This could be why they are both funded by The Authority for maximum efficiency.
     -   The Ethironal Shrine is under the same time dilation phenomenon as New Kyrsa, only less potent due to the distance between Ethiron's physical body and the shrine.
+    -   Currently where [Chaser](#chaser-scholar-of-the-crimson-contract) is located at and trapped due to time dilation.
 
 ##### New Kyrsa (Second Floor)
 
@@ -844,9 +845,8 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 A Dark Mage, located in Minityrsa.
 
-### The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)
+### The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md) **Territory:** _Central Luminant_
 
--   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker Wilds_
 -   **Attunements:** _Attunement-less_
 -   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_
@@ -861,6 +861,8 @@ A Dark Mage, located in Minityrsa.
     -   The Knives of Eylis also kidnaps and take [Children of Navae](The_Children_of_Navae.md) hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of [Megalodaunt](Megalodaunt.md) traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
     -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname.
+
+A Knives of Eylis whaler assassin.
 
 ### The Ignition Union
 
@@ -877,11 +879,14 @@ A Dark Mage, located in Minityrsa.
 -   The [Darksteel Greatsword](Darksteel_Greatsword.md),[\[10\]](#cite-note-dsgs-10) the Ignition Union being a mining organization, and the fact that [Deep Gems](Deep_Gems.md) drop only (excluding [Primadon](Primadon,_Titan_of_the_East.md)) from the Depths, we can conclude that the Ignition Union are experts at dealing with Depths monsters due to their occupation as a Depths mining organization.
 -   Much like their two main rivals, they are hired by [The Authority](The_Central_Authority.md), this time to "go into the Depths and kill anything that crawls out."
 -   The Ignition Union has bases in the First and Second Layers of the Depths.
+    -   Both bases are near and connected to a mechanism called the 'Deepdriller Mechanism' located at the Eternal Gale.
 -   Deepdelver is a special rank in the Ignition Union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others.
 -   Likely a socialist organization, as shown by their group being a _union_ and [Arcwarder's](Oath%253A_Arcwarder.md) description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
     -   This is furthered by [Deepdelver Gamma](Deepdelver_Gamma.md) describing them in a sense that can be interpreted as classless.
 -   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[12\]](#cite-note-alpha-12) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[4\]](#cite-note-arch-4)
     -   Furthermore, the Union is shown to employ at least one child soldier in [Epsi](Epsi.md), something not even the Authority stoops low enough to do.
+
+An ignition union guard, located at miners landing.
 
 ### The Central Authority [Authorityiconfaction](The_Central_Authority.md)
 
@@ -925,8 +930,6 @@ A Dark Mage, located in Minityrsa.
 
 An Authority Captain
 
-  
-
 ### The Hive [Hiveiconfaction](The_Hive.md)
 
 -   **Territory:** _[The Lordsgrove](The_Lordsgrove.md), [Greathive Aratel](Greathive_Aratel.md), 3 Other Unnamed Greathives_
@@ -952,6 +955,8 @@ An Authority Captain
 -   They were initially the only users of [Ironsing](Ironsing.md), holding a monopoly on the Attunement, killing off any Ironsingers who tried to leave or leak it secrets, until [Adar, Master of Metal](Adar,_Master_of_Metal.md) escaped their reach and learned how to replicate the Alloyed Elixir to help others obtain [Ironsing](Ironsing.md).
 -   Their society is structured like insects, using terms such as Hive and Drone.
 -   The Authority are _not_ at war with the Hive, though tensions are very high between the two and lethal skirmishes aren't uncommon.
+
+A hivekin wielding a ritual spear with heroism.
 
 ### The Divers [Diversiconfaction](The_Divers.md)
 
@@ -993,6 +998,8 @@ An Authority Captain
     -   Galahad Galvigi (Deceased)
     -   Kayla Rico (Deceased)
 -   Black Divers are allowed more freedom than their lower-ranked peers. This can be both a blessing and a curse for the organization, as Divers like Carrion can act without restriction, but it also leads to them prioritizing their own goals over those of the collective.
+
+A diver apprentice npc.
 
 ## Groups
 
@@ -1074,7 +1081,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   An organization that preserves what's left before The Tides came, practically Historians. They are not to be confused by The Pathfinders.
 -   The Old Stewards created The Old Texts.
 -   The Old Stewards are theorized to become secluded by their presence, to the point where they became a myth or rumor of the Luminants.
--   A possible member of the Old Stewards, a man referred to as the Mad Steward, through the use of Ardour, decapitated one of the Elder Edenkite and ate its heart. This caused him to gain infinite wisdom, but with all of the knowledge in the world came all of the tragedies of the world, resulting in an overwhelming sense of dread, thus turning him into the Dread Serpent. This is also why you gain Ardour from slaying the Dread Serpent.
+-   A possible member of the Old Stewards, a man referred to as the Mad Steward, through the use of Ardour, [decapitated one of the Elder Edenkite](#edenkite) and ate its heart. This caused him to gain infinite wisdom, but with all of the knowledge in the world came all of the tragedies of the world, resulting in an overwhelming sense of dread, thus turning him into the Dread Serpent. This is also why you gain Ardour from slaying the Dread Serpent.
 -   [Adrofalis](Adrofalis.md), trainer of the [Saltchemist](Oath%253A_Saltchemist.md) Oath, is a member of the Old Stewards.
 
 ### The Pathfinders
@@ -1412,6 +1419,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
 -   The book _Coldheart's Journal_ mentions lifewoven blades suggesting that Lifeweave can be used to somehow aid in making weapons or be infused into them.
 -   Lifeweave allows users to reverse aging processes, effectively allowing anyone with a mastery over it to be immortal.
+-   One of the notable members of lifeweave is the 7th Greatlord, [Zithori Vhemm Rybak Diri, Gift of Life](#zithori-vhemm-rybak-diri-gift-of-life).
 
 ### Ironsing
 

@@ -1,6 +1,6 @@
 ---
 title: Markor
-revid: 179051
+revid: 193572
 source: https://deepwoken.fandom.com/wiki/Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations in the Central Luminant, Locations, Territory of The Central Authority]
@@ -25,6 +25,7 @@ Felinor fieldfolk: A kingdom of [Felinor](Felinor.md) was once located in Markor
 
 ## References
 
-1.  [↑](#cite-ref-studies-1-0) [Studies on Canticlysm#Vol. IV](Studies_on_Canticlysm.md#vol-iv)
+1.  [↑](#cite-ref-studies-1-0) [Book](Books.md): [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv)  
+    
 2.  ↑ [2.0](#cite-ref-scimitardesc-2-0) [2.1](#cite-ref-scimitardesc-2-1) [Scimitar](Scimitar.md) description
 3.  [↑](#cite-ref-glosscitadel-3-0) [Glossary](Glossary.md): [The Citadel of Markor](Glossary.md#the-citadel-of-markor)
