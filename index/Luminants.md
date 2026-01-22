@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 193175
+revid: 193643
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -42,7 +42,7 @@ This is where the [Battle Royale](Battle_Royale.md) game-mode takes place.
 
 ## Southern Luminant
 
-The Southern Luminant, what used to be a Luminant brimmed with temperate forest, ended up being the most damned victim of both The Submergence and The Great Drowning, with nearly the entire luminant sinking below the waves from the oceans rising, or from [great horrors dragging its lands below](Lore.md#the-great-drowning-of-celtor); [The City of Celtor](Lost_Celtor.md) and [Caerantil](Caeranthil.md) are two examples of the latter, with them being sunken by [The Celtorian Horror](The_Celtorian_Horror.md) and [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) respectively.
+The Southern Luminant, what used to be a Luminant brimmed with temperate forest, ended up being the most damned victim of both The Submergence and The Great Drowning, with nearly the entire luminant sinking below the waves from the oceans rising, or from [great horrors dragging its lands below](Lore.md#the-great-drowning-of-celtor); [The City of Celtor](City_of_Celtor.md) and [Caerantil](Caeranthil.md) are two examples of the latter, with them being sunken by [The Celtorian Horror](The_Celtorian_Horror.md) and [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) respectively.
 
 There once existed an aggressive species of Giant Clam in this region, that were often farmed and harvested for their [pearls](Dark_Pearls.md) to produce jewelry. They have since vanished, and are seemingly extinct as a side-effect of The Submergance.
 

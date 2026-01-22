@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 193591
+revid: 193707
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -18,13 +18,11 @@ beware - the Tide comes too for thee. ”
 
 ― To Sleep, Dreaming (Contour 4) Description
 
+**DISCLAIMER: This page is obsolete and in the process of being broken down.**
+
 ## Description
 
 The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can be discovered in-game through \[\[NP, [Books](Books.md) descriptions, Locations, and places, such as the [Towerstruck Lands](Towerstruck_Lands.md), [the City of the Drowned](The_City_of_the_Drowned.md), and many more.
-
-**DISCLAIMER:** This page is obsolete and in the process of being broken down.
-
-  
 
 ## Figures
 
@@ -442,17 +440,6 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 -   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes were different to the wielders of the hero blades.[\[4\]](#cite-note-arch-4)
 -   It is said that before he was sealed, he was capable of drowning entire islands in his prime, possibly being the sins that the world will never forgive.[\[4\]](#cite-note-arch-4)
 
-### [Zithori Vhemm Rybak Diri, Gift of Life](Developer_Specs.md#yayafino-gift-of-life-formerly-known-as-zithori-vhemm-rybak-diri)
-
-**Lore Sources:** yayafino, The Hive
-
--   He was the 7th Greatlord of the hive, possibly the main leader.
--   Potentially owner of all greathives across lumen [due to him being a greatlord and not a hivelord.](The_Hive.md#notable-members)
--   He owns lifeweave, and attacks similiar to dawnwalker's and hive mechs, including tree-teleports and a overly-strong radiant kick.
--   Dev Spec of yayafino ingame, he is tagged as hive leader.
-
-Sticker of yayafino wielding lifeweave on his weapon
-
 ### Sudaruska the Unbroken
 
 _"Your own depths shall consume you." - Gran Sudaruska._
@@ -845,8 +832,9 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 
 A Dark Mage, located in Minityrsa.
 
-### The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md) **Territory:** _Central Luminant_
+### The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)
 
+-   **Territory:** _Central Luminant_
 -   **Encountered In:** _Aratel Sea, Erisia, Songseeker Wilds_
 -   **Attunements:** _Attunement-less_
 -   **Alliances:** _The Central Authority [Authorityiconfaction](The_Central_Authority.md) (Business Relations)_

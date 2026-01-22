@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193540
+revid: 193718
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -29,7 +29,7 @@ categories: [Mechanics, Outfits, Skills, Talents]
 
 The player is given multiple types of Talents. When [powering up](Power.md), the player is given multiple regular Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws hold 4-5 Talent cards (5-6 with the [Joker](Regalia.md#joker) Regalia) and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws there is always a '**Roll 2**' card that will grant 2 random Talents from your available Talent pool instead of a Mantra. [Aces](Aces.md) can be used to permanently prevent a regular Talent or Mantra card from showing up, guarantee that a Talent will show up in your future hands, or to preserve a Talent in your current hand, guaranteeing that it will show up again.
 
-Talent Hands and Whisper Draws can also be gained from [quests](Quests.md); from each NPC whose quest aligns with _Curiosity_, _Bravery_, or _Compassion_, completing your first quest in the category grants you an extra Talent Hand on your next power-up, allowing you to gain up to 3 extra Talent Hands, and [Kelsius](Kelsius.md)' quest grants a Whisper Draw on completion.
+Talent Hands and Whisper Draws can also be gained from [quests](Quests.md); from each NPC whose quest aligns with _Curiosity_, _Bravery_, or _Compassion_, completing your first quest in the category grants you an extra Talent Hand, allowing you to gain up to 3 extra Talent Hands. Additionally you can gain an additional [Whisper Draw](Whisper_Draw.md) from completing certain tasks or quests. See the Whisper Draw page for more info.
 
 When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonances randomly chosen based on their [Resonance Point](Resonance.md) allocation. When gaining a Talent from [Equipment](Equipment.md), it applies the effects of the Talent to your character at no additional cost and does not count towards the total amount of Talents you've chosen.
 
@@ -306,7 +306,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Generally dangerous to use without multiple sources of burn damage reduction, most notably, Immolation.
     -   8 second cooldown that starts when Flame Within is activated. Meaning if you let it burn for long enough, the cooldown will effectively be nullified outside of burn immunity. The Talent tool does not showcase this properly.
     -   Flame Within grants a mobility buff, NOT a speed boost (it will not proc Talents such as Speed Demon).
-        -   Because Flame Within's mobility buff is a flat increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) or [Iron Skin](Ironsing.md#iron-skin).
+        -   Because Flame Within's mobility buff is a flat 12.5% increase instead of a multiplier to your movement speed, it allows you to move when you otherwise wouldn't be able to. Like during NPC dialogue, when mining, or when casting certain mantras like [Arc Suit](Oath%253A_Arcwarder.md#arc-suit) or [Iron Skin](Ironsing.md#iron-skin).
     -   It is a general damage buff, and as such it'll affect all sources of damage that can be modified.
     -   Flame Within can be enabled while knocked. This is meant to synergize with Phoenix Flames. Doing so will halve the strength of Phoenix Flames.
     -   Deals self-damage on cast, separate from the burn damage. This self damage can be resisted with the [Deepscorn Casque](Deepscorn_Casque.md), elemental resistance (it deals Flamecharm damage), and many other sources of damage reduction.
@@ -1788,9 +1788,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: Cryonis, 15 Heavy Weapon, 45 Frostdraw
 
 -   Frozen Anchor \[Common Talent, Frostdraw, Weapon\] - Apply bottom freeze and chill to your opponent whenever you land a flourish, uppercut, or crit. 10s CD.
+    -   Functions similarly to Meteor Impact, applying on any mantra that would proc it.
     -   Bottom Freeze will be removed if the target takes damage from any source. This makes this Talent extremely ineffective on multihit criticals.
     -   The Chill applied through this Talent has a 12 second duration, making it a strong option for hybrid builds that have limited opportunities to proc Chill.
     -   Deals (0) Frostdraw damage as hitregistry for Chill. This allows you to proc certain Talents like Flashboil without any other source of Frostdraw damage.
+    -   Currently bugged and applies through block/parry/dodge.
     -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
 
 -   Frostbite \[Common Talent, Frostdraw\] - Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.

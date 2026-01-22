@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 193570
+revid: 193703
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -32,4 +32,4 @@ The Enforcer Plate is an [Equipment](Equipment.md) item under the "Arms" categor
 
 ## Trivia
 
--   The Berserker talent no longer works due to it being renamed. As such, this equipment piece was left without its innate Talent.
+-   The Berserker Talent no longer works due to it being renamed. As such, this equipment piece was left without its innate Talent.

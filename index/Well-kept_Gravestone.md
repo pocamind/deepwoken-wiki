@@ -1,6 +1,6 @@
 ---
 title: "Well-kept Gravestone"
-revid: 191696
+revid: 193677
 source: https://deepwoken.fandom.com/wiki/Well-kept_Gravestone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -23,7 +23,7 @@ Well-kept Gravestone is located in [Isle of Vigils](Isle_of_Vigils.md) beside th
 
 ## Dialogue
 
-**Base dialogue:**
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -31,7 +31,7 @@ Well-kept Gravestone is located in [Isle of Vigils](Isle_of_Vigils.md) beside th
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*A gravestone that seems to have been upket, perhaps by a relative to the deceased.*</i></td>
+  <td><i>*A gravestone that seems to have been upkept, perhaps by a relative to the deceased.*</i></td>
 </tr>
 <tr>
   <td>[Inspect]</td>
@@ -45,33 +45,35 @@ Well-kept Gravestone is located in [Isle of Vigils](Isle_of_Vigils.md) beside th
 </tbody>
 </table>
 
-**Quest dialogue:**
+**Unlockable Dialogue:**
+
+This dialogue is unlocked if the player has the [Grave Tending](Quests.md#grave-tending) quest.
 
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin Dialogue</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="6"><i>*A gravestone that seems to have been upket, perhaps by a relative to the deceased.*</i></td>
+  <td colspan="2"><i>*A gravestone that seems to have been upkept, perhaps by a relative to the deceased.*</i></td>
 </tr>
 <tr>
-  <td colspan="6">[Inspect]</td>
+  <td colspan="2">[Inspect]</td>
 </tr>
 <tr>
-  <td colspan="3">Flower is intact</td>
-  <td colspan="3">Flower is damaged</td>
+  <td>[Delicate Flower is intact]</td>
+  <td>[Delicate Flower is damaged or already placed]</td>
 </tr>
 <tr>
-  <td colspan="3"><i>*A Vesperian mask. This has to be the grave that Suri directed me to. I should lay his flower by the grave.*</i></td>
-  <td colspan="3"><i>*A Vesperian mask. This must be where Suri wants me to plant the flower, but wait... Where'd my flower go?.*</i></td>
+  <td><i>*A Vesperian mask. This has to be the grave that Suri directed me to. I should lay his flower by the grave.*</i></td>
+  <td><i>*A Vesperian mask. This must be where Suri wants me to plant the flower, but wait... Where'd my flower go?.*</i></td>
 </tr>
 <tr>
-  <td colspan="3">[Place Flower]</td>
-  <td colspan="3">[End Dialogue]</td>
+  <td>[Place Flower]</td>
+  <td>[End Dialogue]</td>
 </tr>
 <tr>
-  <td><i>*You plant Suri's flower. Time to head back*</i></td>
+  <td><i>*You plant Suri's flower. Time to head back.*</i></td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

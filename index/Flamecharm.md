@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 192377
+revid: 193607
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -467,7 +467,7 @@ Fire
 -   Parrying or getting hit during the attack windup will cancel the explosion.
 -   Upgrading the Mantra will increase the placement range.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase the placement range.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away, but this also allows the Mantra to deal self damage, ragdolling the caster on hit. Additionally, its secondary casting time changes to 0.85 seconds.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks), causing it to ragdoll and launch the opponent away. Additionally, its secondary casting time changes to 0.85 seconds.
 
  |
 | 

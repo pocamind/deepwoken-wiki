@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 191138
+revid: 193717
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -46,8 +46,8 @@ Uniquely, the [Fading Book](Fading_Book.md) is obtained when a different book is
 
 Currently there are 30 books and book collections:
 
--   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>): ~600 words. The biology, characteristics, and origins of [Megalodaunts](Megalodaunt.md).
--   [Capran Aphorisms](Capran_Aphorisms.md)
+-   [Archivist Journal: 'Megalodaunt'](<Archivist_Journal%253A_'Megalodaunt'.md>): The biology, characteristics, and origins of [Megalodaunts](Megalodaunt.md). ~600 words.
+-   [Capran Aphorisms](Capran_Aphorisms.md): A trio of sayings regarding Jurik, Nemit, and Ku. ~100 words.
 -   [Children of the Aftertide](Children_of_the_Aftertide.md)
     -   Children of the Aftertide I
 -   [Coldheart's Journal](<Coldheart's_Journal.md>)
@@ -56,13 +56,13 @@ Currently there are 30 books and book collections:
 -   [Diver Journal, I](Diver_Journal,_I.md)
 -   [Diver Journal, II](Diver_Journal,_II.md)
 -   [Diver Journal, III](Diver_Journal,_III.md)
--   [Eggs In A Basket](Eggs_In_A_Basket.md): ~100 words. A sailor's shanty.
--   [Fading Book](Fading_Book.md)
--   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>): ~200 words. The lyrics of a folk song regarding [The Ferryman](The_Ferryman.md).
--   [The Gideshu March](The_Gideshu_March.md): ~500 words. [The Central Authority](The_Central_Authority.md)'s anthem and its brief history. Playable on [Instruments](Instruments.md).
--   [The Hammer's Call](<The_Hammer's_Call.md>): ~400 words. [The Ignition Union](The_Ignition_Union.md)'s anthem and its brief history.
+-   [Eggs In A Basket](Eggs_In_A_Basket.md): A sailor's shanty. ~100 words.
+-   [Fading Book](Fading_Book.md): A placeholder for removed books. Its pages fading, crumbling. ~50 words.
+-   [The Ferryman's Lullaby](<The_Ferryman's_Lullaby.md>): The lyrics of a folk song regarding [The Ferryman](The_Ferryman.md). ~200 words.
+-   [The Gideshu March](The_Gideshu_March.md): [The Central Authority](The_Central_Authority.md)'s anthem and its brief history. Playable on [Instruments](Instruments.md). ~500 words.
+-   [The Hammer's Call](<The_Hammer's_Call.md>): [The Ignition Union](The_Ignition_Union.md)'s anthem and its brief history. ~400 words.
 -   [The Interrogation Of Ranger Santiago Talo](The_Interrogation_Of_Ranger_Santiago_Talo.md)
--   [A Light In The Sky](A_Light_In_The_Sky.md): ~200 words. A single page paper with a music sheet, a poem, and a post-script note written by [Prof. Galphin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) regarding [a place he treasured](Constellia.md). Playable on [Instruments](Instruments.md).
+-   [A Light In The Sky](A_Light_In_The_Sky.md): A single page paper with a music sheet, a poem, and a post-script note written by [Prof. Galphin Spellhardt](Galpin_Spellhardt,_Musicologist_Extraordinaire.md) regarding [a place he treasured](Constellia.md). Playable on [Instruments](Instruments.md). ~200 words.
 -   [Lumen's Folklore](<Lumen's_Folklore.md>)
     -   Lumen's Folklore: Volume 'Attunement'
     -   Lumen's Folklore: Volume 'North'
@@ -75,7 +75,7 @@ Currently there are 30 books and book collections:
 -   [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)
 -   [Ossuary Maintenance](Ossuary_Maintenance.md)
 -   [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>)
--   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md): ~2,600 words. Playable on [Instruments](Instruments.md).
+-   [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md): Playable on [Instruments](Instruments.md). ~2,600 words.
 -   [Strange Missives](Strange_Missives.md)
 -   [Studies on Canticlysm](Studies_on_Canticlysm.md)
     -   Studies on Canticlysm, Vol. IV

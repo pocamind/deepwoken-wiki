@@ -1,6 +1,6 @@
 ---
 title: Hemobloom
-revid: 179067
+revid: 193623
 source: https://deepwoken.fandom.com/wiki/Hemobloom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -26,3 +26,7 @@ The Hemobloom is a red-colored flower with an structure that appears to be a blo
 It can be utilized to craft the [Sanguine Transfuser](Sanguine_Transfuser.md), needing 1 Hemobloom, a [Dormant Splinter](Dormant_Splinter.md) and an [Ancient Dagger Remains](Ancient_Dagger_Remains.md) at [The Cold Forge](The_Cold_Forge.md). Alternatively, using 5 It can also be used to craft the [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>) at the [Blacksmith](Blacksmith.md).
 
 It is the only alchemic ingredient so far to have the revitalizing effect, and thus the only way to get the debilitating effect by using antithetic salts.
+
+## Trivia
+
+-   It is recommended to farm for these with the Harvester talent, as it will give you a chance at collecting 2 per harvest.
