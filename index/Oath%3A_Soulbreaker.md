@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 193541
+revid: 193944
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -32,19 +32,19 @@ The King of Etrea was famous for his exceptionally powerful [Ardour](Murmur%253A
 Meet the following requirements, which is required for either method:
 
 -   Have at least 50 points combined into Willpower and Charisma. (E.G. 50 Willpower + 0 Charisma, or 25 Willpower + 25 Charisma, or 0 Willpower + 50 Charisma, et cetera).
--   Have any [Murmur](Murmur.md).
--   Have high ally reputation with [Etrea](Etrea.md).
--   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (must have a high ally reputation first)
--   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour (1 > 1) (3 > 1 > 1 > 2 > 1 > 1).
+-   Have any [Murmur](Murmur.md)
 
 There are two methods from here:
 
 ### Method One
 
+-   Have high ally reputation with [Etrea](Etrea.md).
+-   Talk to [Theadre](Theadre.md) about the King of Etrea being a god. (must have a high ally reputation first)
+-   Talk to [Bookkeeper Andros](Bookkeeper_Andros.md) about the King's Ardour (1 > 1) (3 > 1 > 1 > 2 > 1 > 1).
 -   Have a [Resonance](Resonance.md).
 -   Have **at least** one [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) wish.
 
-Once **all** requires are met, head over to the [Temple of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
+Once **all** requirements are met, head over to the [Temple of Hearts](Temple_of_Hearts.md) in the [First Layer](First_Layer.md) to talk to the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>).
 
 -   Choose the dialogue "For now I am one, but I wish to be three."
     -   Although engaging with the dialogue requires a Yun'Shul wish, it does not consume one; and an [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) does not give you the option to obtain the Oath.

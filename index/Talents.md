@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193895
+revid: 193948
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1273,6 +1273,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
     -   Prerequisite: 30 Intelligence
     -   This Talent was merged with the old Ether Conduit Talent.
+    -   Damage increase currently bugged.
 -   The [Ministry Operative Cloak](Ministry_Operative_Cloak.md) equipment has this talent.
 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
@@ -4083,7 +4084,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
     -   This Talent was previously named "Berserker."
     -   Prerequisites: 35 Fortitude, 30 Strength
--   The [Enforcer Plate](Enforcer_Plate.md) equipment has this Talent.
+-   The [Enforcer Plate](Enforcer_Plate.md) equipment has this Talent, although it does not work due to the renaming from Berserker to Brassneck.
 
 -   _Careful Handling_ \[Quest Talent\] - Reduce your chances of dropping ingredients on death.
     -   Prerequisite: Complete [Suri](Suri.md)'s quest

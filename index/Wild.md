@@ -1,6 +1,6 @@
 ---
 title: Wild
-revid: 193771
+revid: 193946
 source: https://deepwoken.fandom.com/wiki/Wild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -26,7 +26,7 @@ This enchantment covers your weapon in a white mist.
 
 On weapon hit, Wild deals 85% of your weapon's damage in an ~18.25 stud AoE around the target you hit. This cannot hit the target who was hit by the initial attack, unless two targets were hit at the same time.
 
-Allies take 50% of your weapon's damage instead of the full 85%.
+Allies take 50% of your weapon's damage from Wild instead of the full 85%.
 
 ### Notes
 
