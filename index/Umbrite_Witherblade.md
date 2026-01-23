@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 191770
+revid: 193858
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -40,7 +40,9 @@ _This might have not been the page you were looking for, if you were looking for
 
 The twisted, awoken form of the [Dormant Splinter](Dormant_Splinter.md) crafted using the soul within [The Cold Forge](The_Cold_Forge.md) with sufficient ores and a vessel.
 
-It deals 50% of its scaled damage (before modifiers) as Wither every basic attack.
+The weapon has the following passive:
+
+-   **Umbrite Infusion** - Basic attacks apply 50% of its scaled damage (before modifiers) as Wither. With the [Darkened Bastion](Darkened_Bastion.md) Outfit equipped, the weapon will apply an additional 25% scaled damage as Wither on M1s. This stacks additively with the innate Wither application.
 
 It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
@@ -48,15 +50,13 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 -   [Razor Cutlass](Razor_Cutlass.md)
 -   3 [Umbrite](Ores.md#umbrite)
 
-Wielding this weapon with the [Darkened Bastion](Darkened_Bastion.md) Outfit equipped will apply an additional 25% of your weapon's scaled damage as Wither on M1s. Most other weapons have halved effectiveness with this Outfit, only applying 12.5% of their scaled damage as Wither. This stacks additively with the innate Wither application.
-
 ## Critical
 
 The user gains a purple sigil on their head and aura around them with brief hyperarmor, then does 2 swift slashes with the second knocking back the target, applying [bleed](Status_Effects.md#bleed). The windup of the first slash is 0.6s, and the windup of the second slash is 0.475s. There is 0.2s of endlag after the critical attack.
 
-The first hit has 0.2s of hyper armor and deals **0.35x** of your weapon's scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% chip.
+The first hit has 0.2s of Hyperarmor and deals **0.35x** scaled damage, applies **20 Wither** regardless of scaling and damage modifiers. The first slash also applies 10s of full Antiheal, dazes for 1 second, and deals 10 posture damage with 45% chip.
 
-The second slash deals **0.45x** of your weapon's scaled damage, applies **40 wither** regardless of scaling and damage modifiers, deals 33 posture damage with no chip and knocks the opponent away. The second slash will also **autogrip** any knocked player or those hit and knocked by it.
+The second slash deals **0.45x** scaled damage, applies **40 wither** regardless of scaling and damage modifiers, deals 33 posture damage with no chip and knocks the opponent away. The second slash will also **autogrip** any knocked player or those hit and knocked by it.
 
 The cooldown for this critical is **8** seconds.
 
@@ -66,10 +66,10 @@ The cooldown for this critical is **8** seconds.
 -   At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is 31 + [4.65 \[BLD\]](Status_Effects.md#bleed) & 16 [Wither](Status_Effects.md#wither).
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to prevent datamining.
--   During its release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat noises still stayed.
--   While equipped, the Umbrite Witherblade will radiate heartbeat noises as well as an incomprehensible whisper followed by an ominous noise that resembles a car engine.
+-   During its release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat sound effects remained.
+-   While equipped, the Umbrite Witherblade will emit heartbeats as well as an incomprehensible whisper followed by an ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
--   Umbrite Witherblade's apperance is extremely similar to a weapon shown in _Overlord_, specifically in the fourth season.[\[1\]](#cite-note-1) This could be a potential inspiration for the weapon we see in Deepwoken.
+-   Umbrite Witherblade's appearance is extremely similar to a weapon shown in _Overlord_, specifically in the fourth season.[\[1\]](#cite-note-1)
 
 ## Version History
 

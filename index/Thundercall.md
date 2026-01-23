@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 193235
+revid: 193828
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -979,13 +979,13 @@ These Talents are found in the _Authority Interrogator_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Resolve Crusher  
-(65 Thundercall, POWER 13) | Lightning moves now have a chance to apply "Electrify", attacks from electrified opponents are converted into lighting damage, but will deal 10% less damage to you. | N/A |
+(65 Thundercall) | Lightning moves now apply stacks of 'Resolve Crusher'. At 4 stacks, you apply 'Electrified' to your opponent. Attacks from Electrified opponents are converted into Lightning damage, but will deal 10% less damage to you. | N/A |
 |  | Authority Intimidation  
 (60 Thundercall, POWER 10) | All moves that apply electricity slow the opponent more. | N/A |
 |  | First Interrogation  
-(65 Thundercall, POWER 13) | Electrified attacks do 50% less posture damage to you. | N/A |
+(65 Thundercall, POWER 13) | Attacks from opponents who are Electrified will give you Ether proportional to their initial damage. | N/A |
 |  | Second Interrogation  
-(65 Thundercall, POWER 13) | Attacks from opponents who are Electrified will give you ether proportional to their initial damage. Electrified attacks do 50% less damage and posture damage to you. | N/A |
+(65 Thundercall, POWER 13) | Electrified attacks do 50% less posture damage to you. | N/A |
 
 **Javelin Lord:**
 

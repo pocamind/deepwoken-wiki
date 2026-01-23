@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 186028
+revid: 193879
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Currency]
@@ -92,7 +92,7 @@ Each transaction is conducted via dialogue option, with Knowledge being _consume
 -   Purchasing [Clarity](<Yun'Shul,_Keeper_of_Hearts.md>) from [Misérables](Misérables.md), costs 15 Knowledge. If you wish to stack Clarity wishes, it costs an extra 5 on top of the previous Knowledge cost. (e.g. 15 -> 20 -> 25 -> 30; by stacking a mere 4 wishes, you have spent a total of 90 Knowledge.)
 -   Purchasing an item from a [Blacksmith](Blacksmith.md) using [Seasonal Medals](Seasonal_Medals.md), this can range from 1 to 10 Knowledge depending on the item.
 -   Purchasing [Enchant Grease](Enchant_Grease.md) from [Laplace](Laplace.md), costs 5 Knowledge per Grease.
--   Fully progressing your [Oath](Oaths.md), costs 10 Knowledge. This can only be done if you've fully progressed the Oath previously on another character. Speak to the Oath giver to perform this action. Note: [Bladeharper](Oath%253A_Bladeharper.md), [Chainwarden](Oath%253A_Chainwarden.md), and [Soulbreaker](Oath%253A_Soulbreaker.md) cannot be skipped this way.
+-   Fully progressing your [Oath](Oaths.md), costs 10 Knowledge. This can only be done if you've fully progressed the Oath previously on another character. Speak to the Oath giver to perform this action. Note: [Bladeharper](Oath%253A_Bladeharper.md), [Chainwarden](Oath%253A_Chainwarden.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Soulbreaker](Oath%253A_Soulbreaker.md) cannot be skipped this way.
 -   Changing your [Resonance](Resonance.md) shape at a [Barber](Barber.md), costs 1 Knowledge.
 -   Performing a _Vow of Safekeeping_, costs 1 Knowledge. The Vow of Safeholding allows you to [bank](Item_Bank.md) any [Enchanted](Enchantments.md) item, any Soulbound item, or any [Relic](Relics.md)\-tier item. The items can be removed from the bank at any time for free.
 -   Using the Sacrificial Boon Talent on [Ritual Sacrifice](Ritual_Sacrifice.md), consuming 5 Knowledge per use.

@@ -1,6 +1,6 @@
 ---
 title: "Stratos' Cloak"
-revid: 193546
+revid: 193847
 source: https://deepwoken.fandom.com/wiki/Stratos'_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
@@ -39,7 +39,7 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 15
 
 ### _Armor Stats_
 
-This Outfit has 1200 durability and grants +20% Physical resistance, +30% Elemental resistance and +25% Shadow resistance. Additionally, it provides the [Breeze](Talents.md#breeze) Talent.
+This Outfit has 2200 durability and grants +20% Physical resistance, +30% Elemental resistance and +25% Shadow resistance. Additionally, it provides the [Breeze](Talents.md#breeze) Talent.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical, 47.5% Shadowcast, 30% Elemental.
 

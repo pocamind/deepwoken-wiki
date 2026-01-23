@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 191830
+revid: 193880
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, The Ignition Union, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals]
@@ -44,7 +44,7 @@ Drilling-edge [Ignition Union](The_Ignition_Union.md) technology, the Boltcrushe
 
 The Boltcrusher is obtained as a guaranteed drop from [Finnegan The Lost](Finnegan_The_Lost.md), an enemy NPC found in the [First Layer](First_Layer.md) of [The Depths](The_Depths.md) as part of the "[Drowned Delver](Finnegan_The_Lost.md)" Job. The Job itself can be taken from [Job Boards](Job_Boards.md) scattered in a variety of locations, with an increased spawnrate at [the Chariot's Spire](<The_Chariot's_Spire.md>).
 
-The Boltcrusher comes with two passive abilities:
+The Boltcrusher comes with three passive abilities:
 
 -   **Powered By A Spark** - Every basic attack will apply Shocked or Surge stacks.
 -   **Overcurrent** - Every critical will apply Sapped.

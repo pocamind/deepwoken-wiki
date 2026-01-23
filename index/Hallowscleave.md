@@ -1,6 +1,6 @@
 ---
 title: Hallowscleave
-revid: 191756
+revid: 193876
 source: https://deepwoken.fandom.com/wiki/Hallowscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Event Item, Hallowtide, Medium Weapons]

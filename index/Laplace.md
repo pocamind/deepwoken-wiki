@@ -1,6 +1,6 @@
 ---
 title: Laplace
-revid: 193455
+revid: 193872
 source: https://deepwoken.fandom.com/wiki/Laplace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant, The Hive]
@@ -30,7 +30,7 @@ Requirements and Restrictions:
 
 -   You must be power 8 to give enchants to Laplace.
 -   Laplace can accept both Enchanted and Soulbounded weapons or equipment.
--   Laplace cannot enchant legendary weapons or weapons that cannot hold and enchant.
+-   Laplace cannot enchant legendary weapons or weapons that cannot hold an enchant.
     -   Examples: [Crypt Blade](Crypt_Blade.md), [Curved Blade of Winds](Curved_Blade_of_Winds.md), [Boltcrusher](Boltcrusher.md), etc.
 -   Laplace cannot enchant duped weapons.
     -   It's impossible to know if your weapon is duped if you trade for it.

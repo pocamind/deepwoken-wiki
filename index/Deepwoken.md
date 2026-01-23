@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 190812
+revid: 193865
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Pages requiring a cleanup]
@@ -25,7 +25,7 @@ There are three known Deepwoken. They are all likely well over a thousand years 
 -   [The First Prophet](https://deepwoken.fandom.com/wiki/Lore#The_First_Prophet) of [The Ministry](The_Ministry.md)
     -   The Drowned God from which the First Prophet consumed a piece of is currently unnamed. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2)
 -   [Drallis Ehr](Drallis_Ehr.md) of [The Central Authority](The_Central_Authority.md)
-    -   Details on the drowned god they ate a piece of, and their powers, are unknown[\[3\]](#cite-note-3)
+    -   Both the details of The Drowned God they ate and their powers are unknown.[\[3\]](#cite-note-3)
 
 The [Talent](Talents.md) tree, "[Deepwoken](Talents.md#deepwoken)" possibly hints at the player character having the potential to become a Deepwoken. Though the primary purpose of the character is a means for users to interact with the world of Deepwoken, a few implications have been made about its true origins.
 
