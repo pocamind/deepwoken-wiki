@@ -1,6 +1,6 @@
 ---
 title: Deepbound
-revid: 193323
+revid: 193910
 source: https://deepwoken.fandom.com/wiki/Deepbound
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Divers, Origins, Character]
@@ -76,7 +76,7 @@ Your starting faction [reputation](Reputation.md) is:
 
 -   **Friend** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md) and [Lost Celtor](Lost_Celtor.md)
 -   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md), and [The Hundred Legions](The_Hundred_Legions.md)
--   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etreaiconfaction](Etrea.md)
+-   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
 
 ## Trivia

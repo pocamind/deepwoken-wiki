@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 188642
+revid: 193881
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -46,11 +46,6 @@ Shrine of Order path
 -   There are two structures:
     1.  A windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)
     2.  A small hut. (2 chest spawns inside)
-
-#### Obelisk
-
--   A glowing obelisk surrounded by Songseekers.
-    -   Success in killing all three of these enemies will reward a chest. See loot table below.
 
 #### Ravine Entrance
 

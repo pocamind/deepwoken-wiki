@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 193473
+revid: 193882
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -50,4 +50,3 @@ You cannot rotate your character during this critical.
 
 -   Meeting the requirement of HVY, the damage is 31.9/37
 -   At max HVY, the damage is 38.4/40.8
--   When this weapon is alloyed, it does not suffer from endlag.

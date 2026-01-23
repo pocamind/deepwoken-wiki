@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 193564
+revid: 193887
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -505,9 +505,6 @@ Intelligence
 -   **Everchanging Aegis** - When hit with an element, take reduced damage from said element, but take more damage from any other element.
     -   Prerequisite: 15 Intelligence
     -   Mutual Exclusives: Return to the Dark Ages
-
-Intelligence
-
 -   **True Ether Bullets** - Using Ether Bullets applies elemental damage of your highest investment. \[+4 Ether, +7 Reservoir\]
     -   Prerequisite: 30 Intelligence, Gun Equipped
 
@@ -525,9 +522,14 @@ Charisma
 
 ## Other
 
+-   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
+    
+    One of the brains found in the Ancient Rotlands
+    
+    -   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to lose [sanity](Insanity.md) when within the radius of their pulse, which was activated by looking directly at it. Running out of sanity while near one would cause the player's head to explode. Their removal was never mentioned in update logs, causing players to believe it was a bug, as the long chains suspending the brains persisted and only the brain was missing. It was later confirmed that they were intentionally removed due to their nonsensical placement and function lorewise[\[2\]](#cite-note-2).
 -   **[Chime of Conflict](Chime_of_Conflict.md) Skulls -**
     
-    The skulls in question
+    Chime of Conflict Skull icons
     
     -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
 -   **Damage vs Monsters and Monster Armor pips -** These [equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the June 24th, 2025 update, being replaced with the [Bestiary](Bestiary.md) system.
@@ -542,8 +544,8 @@ Charisma
 -   **Officer's Note -** An item dropped by Authority mobs that was originally part of a cut quest. It was removed a few weeks after the game's release.
 -   **Original Sacks -** Craftable a short time after release but then shadow removed, due to them no longer serving a use. Sacks were craftable with 2 pieces of cloth and would let the player carry chests by stuffing them inside. This was used in conjunction with the Locked Chest system.
 -   **Renewed Ambition -** A visual indicator for meeting one of your requirements for levelling. It was seen in one of Agamatsu's videos on Deepwoken in 2021.
--   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[2\]](#cite-note-2)
--   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[3\]](#cite-note-3)
+-   **Set Spawns -** During its testing phase, all enemy spawns were in set locations, with no randomized spawns.[\[3\]](#cite-note-3)
+-   **[Serena](Serena.md) -** A Felinor NPC who appeared in The [Starswept Valley](The_Starswept_Valley.md) where she would ask for a Canteen with Water. If the player gave her water, she would either thank the player and hand over a chest, or attack the player and granting a chest when defeated. She was removed due to a softlock bug involved with her that was hard to test, as well as being an annoying event in general.[\[4\]](#cite-note-4)
 -   **Depths Shrines -** Originally, there used to be shrines which allowed the players to be teleported to the depths. That was the only known way of entering [The Depths](The_Depths.md) at the time. Known shrines: Winter (at the back of [The Floating Keep](The_Floating_Keep.md) and some unknown location shown in the video likely being The Seranece Mountains), Spring (Ironfist Island, in the cave under [The Summer Company](The_Summer_Company.md)'s castle on the Summer Isle), Summer (inside the cave near [The Summer Company](The_Summer_Company.md)'s castle).
 -   **Shrine of Dominion/Domination -** Swaps your lowest stat and your highest stat, (eg. Your 0 Agility is swapped with your 80 Willpower, resulting in 80 Agility and 0 Willpower), This was going to be added in verse 2 along with all of the other Deep Shrines but was scrapped as it was way too overpowered.
 -   **Skill Books -** Before the current training gears, the player would have to find various NPCs scattered around the world that sold items related with the skill, along with Skill Books, which were essentially similar to the current training gear, but would only have 5 uses. There was a skill book for each skill.
@@ -758,5 +760,6 @@ Any
 ## References
 
 1.  [↑](#cite-ref-1)
-2.  [↑](#cite-ref-2) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)
-3.  [↑](#cite-ref-3)
+2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)
+4.  [↑](#cite-ref-4)

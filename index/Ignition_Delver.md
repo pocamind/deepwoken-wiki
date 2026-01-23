@@ -1,6 +1,6 @@
 ---
 title: Ignition Delver
-revid: 193398
+revid: 193912
 source: https://deepwoken.fandom.com/wiki/Ignition_Delver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, The Ignition Union, Character, Faction Origins]
@@ -79,6 +79,6 @@ Your starting reputation is:
 
 -   **Friend** of [The Ignition Union](The_Ignition_Union.md), and [Lost Celtor](Lost_Celtor.md).
 -   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md), [The Hundred Legions](The_Hundred_Legions.md) and [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md)
--   **Neutral** with all other [factions](Factions_&_Groups.md) [Diversiconfaction](The_Divers.md) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md)
+-   **Neutral** with all other [factions](Factions_&_Groups.md) [Diversiconfaction](The_Divers.md) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) [Navaeiconfaction](The_Children_of_Navae.md) [Etreaiconfaction](Etrea.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 
 _Note: your chosen [aspect](Aspects.md) may affect your starting reputation._

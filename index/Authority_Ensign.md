@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 193470
+revid: 193916
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -592,7 +592,7 @@ Your starting faction [reputation](Reputation.md) is:
 -   **Friend** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), and [The Ignition Union](The_Ignition_Union.md)
 -   **Enemy** of [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
 -   ' **_by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)_**
--   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
+-   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
 -   You cannot gain [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be Exiled.
 
@@ -601,6 +601,7 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 -   **Friend** of [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md)
 -   **Enemy** of [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md), [Lost Celtor](Lost_Celtor.md), [The Ignition Union](The_Ignition_Union.md), [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md), [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md), and [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
 -   ' **_by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md), [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), and [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)_**
+-   **Neutral** with all other factions [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 
 ## Trivia
 

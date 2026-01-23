@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 186448
+revid: 193941
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -198,8 +198,8 @@ _The first layer of the depths, where most souls go to die, holding more reliabl
         -   Do note **this information is mercurial and may quickly become outdated**. Regardless, it's advised to switch servers if you see a player from these guilds, as they are still (probably) on high alert.
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked, and try guard-breaking them every once in a while, as their posture is not remarkably big.
 -   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller or kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
--   Ringing the bells (not corrupted bells) in the [The City of the Drowned](The_City_of_the_Drowned.md) will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
--   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Deepbound.md) origin.
+-   Ringing [the bells](The_City_of_the_Drowned.md#city-bells) (not corrupted bells) in the [The City of the Drowned](The_City_of_the_Drowned.md) will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
+-   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Deepbound.md) origin (in [Castle Light](Castle_Light.md)) or the [Ignition Delver origin](Ignition_Delver.md) (in [Chariot's Spire](<The_Chariot's_Spire.md>)).
 -   If you find yourself in the Depths with very little health, there are some options for you. These options include using the _Warrior's Respite_ Talent, killing a low-level mob (i.e a Jellyfish or a Mudskipper) for healthpack, or a friend that can place a Graceful Flame for you.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strong-leap), [Flame Leap](Flamecharm.md#flame-leap), or [Adrenaline Surge](Attunement-less.md#adrenaline-surge) will be helpful in fleeing any unwanted fights and navigate the treacherous terrain.

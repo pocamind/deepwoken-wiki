@@ -1,6 +1,6 @@
 ---
 title: Lone Warrior
-revid: 189707
+revid: 193899
 source: https://deepwoken.fandom.com/wiki/Lone_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Origins, Character]
@@ -26,17 +26,20 @@ Lone Warriors spawn in the [Trial of One](Trial_of_One.md) with the [Stranded](S
 
 Lone Warriors can use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) in the Trial of One to influence their Talent and Mantra hands, as the Shrine of Solitude acts as a [Mystic](Mystic.md).
 
+After completing the Trial of One, Lone Warriors will be given the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent. Mark of the Lone Warrior increases experience gained while solo and grants a 5% damage buff if your opponent has equal to or less combat tags than you. Mark of the Lone Warrior's damage buff will not work if any of your allies are in the server.
+
 ## Pros and Cons
 
 ### Pros
 
--   The [Trial of One](Trial_of_One.md) is a very popular way to farm the first few levels of your character quickly, so the Lone Warrior Origin spawning there only expedites this process.
--   Lone Warrior has no positive EXP modifiers nor preferred progression method, unlike other Origins. This allows you to progress in any way you want to without any downsides to experience gain.
+-   Mark of the Lone Warrior allows for much faster progression along with assisting with combat.
+-   In 1v1s, PvE, or situations where you're being outnumbered, Mark of the Lone Warrior will effectively be an unconditional damage buff.
 
 ### Cons
 
 -   The starter outfit is [Stranded](Stranded.md), a no-resistance outfit that permanently has no armor durability.
--   Lone Warrior has no positive EXP modifiers nor preferred progression method, unlike other Origins. Other Origins may allow you to progress at a much faster rate than Lone Warrior due to this.
+-   Lone Warrior's Origin benefits are only prevalent if Trial of One is properly completed. If you fail to complete this dungeon for whatever reason, then your Origin will provide no benefits whatsoever.
+-   To gain the benefits from Mark of the Lone Warrior, you must be completely solo, which may be seen as a detriment to some players.
 -   Your default spawn puts you extremely close to enemy territory, and there are no nearby towns.
 
 ## Reputation

@@ -1,6 +1,6 @@
 ---
 title: Castaway
-revid: 184027
+revid: 193902
 source: https://deepwoken.fandom.com/wiki/Castaway
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Origins]
@@ -46,5 +46,5 @@ Your starting faction [reputation](Reputation.md) is:
 
 -   **Friend** of [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [Lost Celtor](Lost_Celtor.md)
 -   **Enemy** of [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md), [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md) and [The Hundred Legions](The_Hundred_Legions.md)
--   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Diversiconfaction](The_Divers.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
+-   **Neutral** with all other factions [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Diversiconfaction](The_Divers.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
