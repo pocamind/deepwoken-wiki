@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 191235
+revid: 193816
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Pages with broken file links, Quests, NPCs, Mechanics]
@@ -24,14 +24,14 @@ These quests, when completed, give Talents that will be unlocked on every charac
 
 The following quests grant the _Bravery_ Talent hand on top of their other rewards. Keep in mind this cannot be stacked with other Bravery quests.
 
-#### Engage + Critical Assault
+#### Megalodaunt Slayer
 
 <table>
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="The_Garden_Reservoir.md">The Garden Reservoir</a>, <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a><br>
   <b>Guide</b>: Talk to the <a href="Etrean.md">Etrean</a> NPC <a href="Arthur.md">Arthur</a> outside of the entrance of The Garden Reservoir. He will ask you to avenge his friends by killing a <a href="Megalodaunt.md">Megalodaunt</a>. Kill one and return.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#warrior">Engage + Critical Assault</a>, EXP, Bravery.</p></div></td>
+  <b>Reward(s)</b>: <a href="Talents.md#engage">Engage</a> + <a href="Talents.md#critical-attack">Critical Attack</a>, EXP, Bravery, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Arthur.md">Arthur</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -44,7 +44,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br>
   <b>Guide</b>: Talk to the Ganymede NPC <a href="Jessamine.md">Jessamine</a> in <a href="The_Starswept_Valley.md">Starswept Valley</a>. He will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#marauder">Thresher Scales</a>, Bravery.</p></div></td>
+  <b>Reward(s)</b>: <a href="Talents.md#thresher-scales">Thresher Scales</a>, Bravery, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Jessamine.md">Jessamine</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -61,7 +61,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: N/A<br>
   <b>Guide</b>: Defeat any boss without taking any damage<br>
-  <b>Reward(s)</b>: <a href="Talents.md#metamancer">Chain of Perfection</a></p></div></td>
+  <b>Reward(s)</b>: <a href="Talents.md#chain-of-perfection">Chain of Perfection</a></p></div></td>
   <td></td>
 </tr>
 </tbody>
@@ -82,7 +82,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Songseeker_Wilds.md">Songseeker Wilds</a><br>
   <b>Guide</b>: Talk to the NPC named Lucian outside the entrance of the <a href="Mudskipper.md#mineskipper">Mudskipper</a> mine (near the Voidzone entrance). They will ask you to kill 5 Mineskippers. Do so and return.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#sabateur">Family Recipe</a>, Bravery.</p></div></td>
+  <b>Reward(s)</b>: <a href="Talents.md#family-recipe">Family Recipe</a>, Bravery, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Lucien.md">Lucien</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -92,14 +92,27 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 
 The following quests do not grant Bravery, Compassion, nor Curiosity, but often grant more tangible rewards, such as EXP, items, or Talents.
 
+#### Diver Apprentice
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a><br>
+  <b>Guide</b>: Follow <a href="Karliah.md">Karliah</a> to <a href="Lower_Erisia.md">Lower Erisia</a> and save her from a Mudskipper. Choose the "I don't think you're cut out for this. Mudskippers are small fry, you'll face much worse as a Diver. You need to rethink your life goals. [Charisma]" Dialogue option while having at 75 Charisma or else the quest will fail. Return to Karliah at Etris to receive your quest rewards.<br>
+  <b>Reward(s)</b>: <a href="Talents.md#charisma-unbounded">Charisma Unbounded</a></p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Karliah.md">Karliah</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
 #### Ethiron's Gaze
 
 <table>
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Firfire.md">Firfire</a> (Layer 2)<br>
-  <b>Guide</b>: Pull out the spear from the Firfire Caverns and talk to <i>Erosius Amaltus Urivortus Alistus Casius Walistoshus</i> in Firfire to finish the quest.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#drowned-secret">Ethiron's Gaze</a></p></div></td>
+  <b>Guide</b>: Pull out the spear from the Firfire Caverns and talk to <i><a href="Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md">Erosius Amaltus Urivortus Alistus Casius Walistoshus</a></i> in Firfire to finish the quest.<br>
+  <b>Reward(s)</b>: <a href="Talents.md#ethirons-gaze">Ethiron's Gaze</a>, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md">Erosius Amaltus Urivortus Alistus Casius Walistoshus</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -112,7 +125,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: -<br>
   <b>Guide</b>: Turn in 5 Pure Ore (must be <a href="Ores.md#erisore">Erisore</a>, <a href="Ores.md#irithine">Irithine</a>, <a href="Ores.md#umbrite">Umbrite</a> or <a href="Ores.md#astruline">Astruline</a>) to any <a href="Blacksmith.md">Blacksmith</a>.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#prospector">Excavator</a></p></div></td>
+  <b>Reward(s)</b>: <a href="Talents.md#excavator">Excavator</a>, 5 Full Training points on first completion</p></div></td>
   <td></td>
 </tr>
 </tbody>
@@ -126,7 +139,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
   <td><div><p><b>Quest Location</b>: <a href="Second_Layer.md">Sanctuary Gatehouse</a> (Layer 2)<br>
   <b>Guide</b>: Talk to a seemingly insane Capra in rags named Kasen in layer 2.<br>
   You must have 80 Willpower and have gotten at least stage one of insanity on the slot you attempt to obtain Heretic's Sutra on before claiming this.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#heretic">Heretic's Sutra</a></p></div></td>
+  <b>Reward(s)</b>: <a href="Talents.md#heretics-sutra">Heretic's Sutra</a></p></div></td>
   <td><figure><figcaption><p></p><div><a href="Kasen.md">Kasen</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -139,7 +152,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Summer_Isle.md">Summer Isle</a><br>
   <b>Guide</b>: Talk to the Gremor NPC Trig outside the Guildhall at Summer Isle. He'll have you find Asius, a merchant who hasn't been paying his dues. When speaking to Asius, the quest has two branching paths from here; each ending is <b>mutually exclusive with the other</b>, locking out the other quest ending. Get the ship deed from Asius then return to Trig at the inn for the <b>Armor Piercing</b> ending. Tell Trig you'll help them for the <b>Bullet Proof</b> ending.<b><br>
-  </b><b>Reward(s)</b>: <a href="Talents.md#gunslinger">Armor Piercing</a> OR <a href="Talents.md#gunslinger">Bullet Proof</a> (Added to Talent pool, not given instantly), either Positive or Negative Summer Company Reputation depending on the ending (Armor Piercing gives positive rep / Bulletproof gives negative)</p></div></td>
+  </b><b>Reward(s)</b>: <a href="Talents.md#armor-piercing">Armor Piercing</a> OR <a href="Talents.md#bullet-proof">Bullet Proof</a> (Added to Talent pool, not given instantly), either Positive or Negative Summer Company Reputation depending on the ending (Armor Piercing gives positive rep / Bulletproof gives negative), 3 Full Training points</p></div></td>
   <td><figure>File:Trig.png<figcaption><p></p><div><a href="Trig.md">Trig</a></div><p></p></figcaption></figure><figure>File:Asius.png<figcaption><p></p><div><a href="Asius.md">Asius</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -151,8 +164,8 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a> and <a href="Isle_of_Vigils.md">Isle of Vigils</a><br>
-  <b>Guide</b>: Talk to the NPC that gives you the Lumber Axe at Etris or Isle of Vigils with Strong Left. They will be utterly flabbergasted at your idea but you will have to use either Strong Left or Eclipse Kick to knock 5 trees down, then talk to the NPC again when you will realize that the collective knowledge of all lumberjacks is within your hands. Keep in mind that you need to have Strong Left to initiate the quest, but it can be completed using Eclipse Kick.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#talent-quests">Treefelling Blow</a></p></div></td>
+  <b>Guide</b>: Punch down a tree with <a href="Attunement-less.md#strong-left">Strong Left</a> then speak to <a href="Korin.md">Korin</a> or <a href="Drefa.md">Drefa</a>. Punch down 5 more trees and then return to the quest giver.<br>
+  <b>Reward(s)</b>: <a href="Talents.md#treefelling-blow">Treefelling Blow</a>, 3 Full Training points</p></div></td>
   <td></td>
 </tr>
 </tbody>
@@ -165,7 +178,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a><br>
   <b>Guide</b>: Talk to <a href="Stratos.md">Stratos</a> at <a href="Temple_of_the_Blade.md">The Temple of Blade</a>. You must have 50 Galebreathe and at least "Ally" reputation with Etrea. After talking to him you will receive the talent.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#scholar-of-the-cloud">Windwaker</a></p>
+  <b>Reward(s)</b>: <a href="Talents.md#windwaker">Windwaker</a></p>
   <p><b>Notes:</b> This quest is <b>notoriously buggy,</b> and the exact requirements for the Windwaker obtainment are still questionable. Take on this quest with patience.</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Stratos.md">Stratos</a></div><p></p></figcaption></figure></td>
 </tr>
@@ -187,7 +200,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Fort_Merit.md">Fort Merit</a><br>
   <b>Guide</b>: Talk to <a href="Beiruul.md">Beiruul</a> at <a href="Meteor_Isle.md">Meteor Isle</a>, then go to Fort Merit. Event occurs near the lift. Kill some <a href="Authority_Peacekeeper.md">Authority Peacekeepers</a> (~4-6), then return to Meteor Isle.<br>
-  <b>Reward(s)</b>: EXP, Bravery, 2 <a href="Knowledge.md">Knowledge</a></p></div></td>
+  <b>Reward(s)</b>: EXP, Bravery, 2 <a href="Knowledge.md">Knowledge</a>, <a href="Talents.md#beiruuls-vengeance">Beiruul's Vengeance</a>, 5 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Beiruul.md">Beiruul</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -202,24 +215,16 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
 <table>
 <tbody>
 <tr>
-  <td><div>
+  <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a><br>
+  <b>Guide</b>:</p>
   <ul>
-    <li>Talk to Apprentice Kj in The Temple of the Blades, located at the left corridor room; sitting down sobbing.<br>
-  </li>
-    <li>He asks you to rescue, or find his sibling in <a href="Erisia.md">Erisia</a>.<br>
-  </li>
-    <li>His sibling is found in an Abandoned Wood Lodge in <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a>, near a cliff where the Glowing Trees are.<br>
-  </li>
-    <li>Obtain a <a href="Gale_Stone.md">Gale Stone</a> and give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.<br>
-  </li>
-    <li>Talking to Apprentice Kj after giving the Gale Stone finishes the quest.<br>
-  </li>
-    <li>This quest will unlock the dialogue for <a href="Attributes_Unbound.md">Weaponry Unbound</a> from <a href="Evengarde_Rest.md">Evengarde Rest</a> as well as allow you to fight <a href="Maestro_Evengarde_Rest.md">Maestro Evengarde Rest</a>.<br>
-  </li>
-    <li>Vigil Isaac can be found next to the Mantra Modification table at Vigils after completing the quest.<br>
-  </li>
-    <li><b>Reward(s)</b>: EXP, Compassion.</li>
-  </ul></div></td>
+    <li>Talk to Apprentice Kj in The Temple of the Blades, located at the left corridor room; sitting down sobbing.</li>
+    <li>He asks you to rescue, or find his sibling in <a href="Erisia.md">Erisia</a>.</li>
+    <li>His sibling is found in an Abandoned Wood Lodge in <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a>, near a cliff.</li>
+    <li>Obtain a <a href="Gale_Stone.md">Gale Stone</a> and give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.</li>
+    <li>Talking to Apprentice Kj after giving the Gale Stone finishes the quest.</li>
+    <li>Vigil Isaac can be found next to the Mantra Modification table at Vigils after completing the quest.</li>
+  </ul><p><b>Reward(s)</b>: EXP, Compassion, <a href="Talents.md#kjs-courage">Kj's Courage</a>, unlocks dialogue with <a href="Evengarde_Rest.md">Evengarde Rest</a>, 5 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Apprentice_Kj.md">Kj</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -232,7 +237,7 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Greathive_Aratel.md">Greathive Aratel</a><br>
   <b>Guide</b>: Talk to <a href="Suri.md">Suri</a> at <a href="Greathive_Aratel.md">Greathive Aratel</a>. He will ask you to place a flower on his brother's grave at <a href="Isle_of_Vigils.md">Isle of Vigils</a>. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.<br>
-  <b>Reward(s)</b>: <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gem</a>, Hive Reputation, Compassion.</p></div></td>
+  <b>Reward(s)</b>: <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gem</a>, Hive Reputation, Compassion, <a href="Talents.md#careful-handling">Careful Handling</a></p></div></td>
   <td><figure><figcaption><p></p><div><a href="Suri.md">Suri</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -245,7 +250,7 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="The_Viper's_Jaw.md">The Viper's Jaw</a> (Lower, Legion Camp)<br>
   <b>Guide</b>: Talk to <a href="Atra.md">Atra</a>, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or through an entrance in <a href="The_Viper's_Jaw.md">The Viper's Jaw</a>.<br>
-  <b>Reward(s)</b>: EXP, Compassion.</p></div></td>
+  <b>Reward(s)</b>: EXP, Compassion, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Atra.md">Atra</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -258,7 +263,7 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
 <tr>
   <td><div><p><b>Quest Location</b>: Etris and Vigils<br>
   <b>Guide</b>: Talk to <a href="Nanji.md">Nanji</a> at Etris near the bridge between Lance Leshi's and the barber, interact with a sword on the ground near the end of the zipline going away from the Fang and Coil trainer in Isle of Vigils, then talk to the Nanji again.<br>
-  <b>Reward(s)</b>: EXP, Compassion.</p></div></td>
+  <b>Reward(s)</b>: EXP, Compassion, <a href="Talents.md#nanjis-training">Nanji's Training</a>, 5 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Nanji.md">Nanji</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -276,7 +281,7 @@ The following quests grant the _Curiosity_ Talent hand on top of their other rew
   <td><div><p><b>Quest Location</b>: <a href="Minityrsa.md">Minityrsa</a><br>
   <b>Guide</b>: Talk to <a href="Elykris.md">Elykris</a> in Minityrsa, he will ask you to find a book in <a href="Outpost_Antumbra.md">Outpust Antumbra.</a> Return to him after finding it. The quest can also be completed in reverse order by obtaining the book and then speaking to Elykris.<br>
   <br>
-  <b>Reward(s)</b>: 2 <a href="Aces.md">Aces</a>, EXP, Curiosity.<br>
+  <b>Reward(s)</b>: 2 <a href="Aces.md">Aces</a>, EXP, Curiosity<br>
   (Note: you can actually softlock this quest by donating this book to librarian in guild base)</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Elykris.md">Elykris</a></div><p></p></figcaption></figure></td>
 </tr>
@@ -290,7 +295,7 @@ The following quests grant the _Curiosity_ Talent hand on top of their other rew
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Beloved_Zofia.md">Beloved Zofia</a><br>
   <b>Guide</b>: Talk to <a href="Suyuan.md">Suyuan</a> in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost on the ship and return to Suyuan.<br>
-  <b>Reward(s)</b>: EXP, Curiosity.</p></div></td>
+  <b>Reward(s)</b>: EXP, Curiosity, <a href="Talents.md#supernatural-sense">Supernatural Sense</a>, 5 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Suyuan.md">Suyuan</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -303,7 +308,7 @@ The following quests grant the _Curiosity_ Talent hand on top of their other rew
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a>(Etris Docks)<br>
   <b>Guide</b>: Bring him 2 <a href="Dying_Embers.md">Dying Embers</a><br>
-  <b>Reward(s)</b>: EXP, Curiosity.</p></div></td>
+  <b>Reward(s)</b>: EXP, Curiosity, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Jim.md">Jim</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -326,7 +331,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
   <ul>
     <li>If you have completed this quest before, you can skip this step, instead speaking to any of the <a href="Royal_Etrean_Guard.md">Royal Etrean Guards</a> at the Palace.</li>
   </ul><p>Speak to <a href="The_Lord_Regent.md">The Lord Regent</a> and accept his quest, tasking you with taking on <a href="Duke_Ishamon_Erisia.md">Duke Ishamon Erisia</a>. After this, you'll need to make your way over to <a href="Duke_Erisia's_Manor.md">Duke Erisia's Manor</a>, encounter, and defeat the Duke. <b>Do not return to Regent after completing this quest unless you have neutral or higher <a href="The_Ministry.md">Ministry</a> reputation; Regent WILL kill you.</b></p>
-  <p><b>Reward(s)</b>: <a href="Manor_Key.md">Manor Key</a>, a key that allows you to access the <a href="Duke_Ishamon_Erisia.md">Duke Ishamon Erisia</a> boss fight.</p></div></td>
+  <p><b>Reward(s)</b>: <a href="Manor_Key.md">Manor Key</a>, a key that allows you to access the <a href="Duke_Ishamon_Erisia.md">Duke Ishamon Erisia</a> boss fight</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Kennith.md">Kennith</a></div><p></p></figcaption></figure><figure><figcaption><p></p><div><a href="Bookkeeper_Andros.md">Bookkeeper Andros</a></div><p></p></figcaption></figure><figure><figcaption><p></p><div><a href="The_Lord_Regent.md">The Lord Regent</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -352,10 +357,8 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a> and <a href="Etrean_Wilds.md">Etrean Wilds</a><br>
   <b>Guide</b>: Talk to <a href="Kelsius.md">Kelsius</a> at librarian in the Isle of Vigils library. He will ask you to pick up some books. Go to the hut under Etrean Wild, talk to the NPCs there and come back to the librarian.<br>
-  <br>
   If the quest has been completed before, the books can instead be found on a rock behind the Vigil's bank.<br>
-  <br>
-  <b>Reward(s)</b>: <a href="Whisper_Draw.md">Hand of Whispers</a> or 1 <a href="Knowledge.md">Knowledge</a><br>
+  <b>Reward(s)</b>: <a href="Whisper_Draw.md">Whisper Draw</a> OR 1 <a href="Knowledge.md">Knowledge</a>, 3 Full Training points<br>
   Note: If you have already escaped <a href="The_Depths.md">The Depths</a>, have done the <a href="Tutorial.md">Tutorial</a> or have beaten any <a href="Bosses.md">World Boss</a>, you will not gain the Whisper Draw and will instead gain 1 Knowledge.</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Kelsius.md">Kelsius</a></div><p></p></figcaption></figure></td>
 </tr>
@@ -369,7 +372,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a><br>
   <b>Guide</b>: Talk to <a href="Ploom.md">Ploom</a> inside of <a href="Lance.md">Lance Leshis</a> food shop.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#inferno">Pleeksty's Will</a> Talent.</p></div></td>
+  <b>Reward(s)</b>: <a href="Talents.md#pleekstys-will">Pleeksty's Will</a>, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Ploom.md">Ploom</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -382,7 +385,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Etris.md">Etris</a><br>
   <b>Guide</b>: Talk to <a href="Polis.md">Polis</a> standing under the tree in Etris.<br>
-  <b>Reward(s)</b>: <a href="Gold_Ring.md">Gold Ring</a> or <a href="Jus_Karita.md">Jus Karita</a> if you meet the requirements.</p></div></td>
+  <b>Reward(s)</b>: <a href="Gold_Ring.md">Gold Ring</a> or <a href="Jus_Karita.md">Jus Karita</a> if you meet the requirements</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Polis.md">Polis</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -395,7 +398,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Greathive_Aratel.md">Greathive Aratel</a><br>
   <b>Guide</b>: Talk to Regek at Greathive Aratel's archives. He will ask you to find every Soulbloom. They can be found in the Greathive.<br>
-  <b>Reward(s)</b>: <a href="Attunement-less.md">Attunement-less</a> Mantra trainer (<a href="Regek.md">Regek</a>)</p></div></td>
+  <b>Reward(s)</b>: <a href="Attunement-less.md">Attunement-less</a> Mantra trainer (<a href="Regek.md">Regek</a>), 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Regek.md">Regek</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -421,7 +424,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>:<a href="Bluster_Rift.md">Bluster Rift</a><br>
   <b>Guide</b>: Talk to <a href="The_Guy.md">The Guy</a> near Meteor Isle. With high enough Charisma, you may finish the quest immediately and obtain his glasses. Otherwise, you have to bring him 3 spider eggs.<br>
-  <b>Reward(s)</b>: Be able to use the <a href="Summer_Isle.md">Summer Isle</a> cannon to get to <a href="Songseeker_Wilds.md">Songseeker Wilds</a> + (Charisma only) <a href="Aristocrat_Eyeglasses.md">The Guy's Glasses</a></p></div></td>
+  <b>Reward(s)</b>: Be able to use the <a href="Summer_Isle.md">Summer Isle</a> cannon to get to <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="The_Guy's_Eyeglasses.md">The Guy's Eyeglasses</a> (Charisma only), 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="The_Guy.md">The Guy</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -440,14 +443,14 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 </tbody>
 </table>
 
-#### Zana
+#### Poser's Ring
 
 <table>
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Etrean_Wilds.md">Etrean Wilds</a>, <a href="Lower_Erisia.md">Lower Erisia</a>, <a href="The_Monkey's_Paw.md">The Monkey's Paw</a><br>
   <b>Guide</b>: Talk to <a href="Zana.md">Zana</a> on the Isle of Vigils docks with a <a href="Katana.md">Katana</a>, <a href="Katana.md">Alloyed Katana</a>, or <a href="Shattered_Katana.md">Shattered Katana</a> equipped. Fight him and win at various locations.<br>
-  <b>Reward(s)</b>: <a href="Poser's_Ring.md">Poser's Ring</a></p></div></td>
+  <b>Reward(s)</b>: <a href="Poser's_Ring.md">Poser's Ring</a>, 5 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Zana.md">Zana</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -481,7 +484,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 <tr>
   <td><div><p><b>Quest Location</b>: Miner's Landing<br>
   <b>Guide</b>: Talk to an NPC named Orion near the <a href="Oath%253A_Arcwarder.md">Arcwarder Oath</a> giver and <a href="Deepdelver_Tau.md">Deepdelver Tau</a>. He will ask you to help clear out the four Summer Company invaders at the upper generator.<br>
-  <b>Reward(s)</b>: Reputation, EXP, Bravery, Door Unlock, <a href="Ignition_Delver.md">Ignition Delver</a> Origin</p></div></td>
+  <b>Reward(s)</b>: Reputation, EXP, Bravery, <a href="Ignition_Delver.md">Ignition Delver</a> Origin, 3 Full Training points on first completion</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Orion.md">Orion</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -550,7 +553,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br>
   <b>Guide</b>: Talk to the Vesperian NPC <a href="Calamus.md">Calamus</a> on the left side of the gate to the upper level of <a href="The_Lordsgrove.md">The Lordsgrove</a>. He will ask you to kill a monster in Aratel Island. Kill one and return.<br>
-  <b>Reward(s)</b>: EXP, Hive Reputation and a chest with loot.</p></div></td>
+  <b>Reward(s)</b>: EXP, Hive Reputation and a chest with loot</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Calamus.md">Calamus</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
@@ -562,7 +565,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: Viper's Jaw<br>
-  <b>Guide</b>: Turn in Navaean hostages to the NPC that gives you the Glider Blueprint in Viper's Jaw.<br>
+  <b>Guide</b>: Turn in Navaean hostages to <a href="Alastir.md">Alastir</a>.<br>
   <b>Reward(s)</b>: Chest</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Alastir.md">Alastir</a></div><p></p></figcaption></figure></td>
 </tr>
@@ -589,7 +592,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Summer_Isle.md">Summer Isle</a><br>
   <b>Guide</b>: Give the Explosive boxes that can be found all around Summer Isle to Scope at the storage room in Summer Isle.<br>
-  <b>Reward(s)</b>: Chest, Reputation</p></div></td>
+  <b>Reward(s)</b>: Chest, Reputation, 3 Full Training points on first completion</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Scope.md">Scope</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>

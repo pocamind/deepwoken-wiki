@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 180163
+revid: 193817
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -47,7 +47,7 @@ Note: You have to solo the Boss. If the boss that you are killing takes damage f
 
 **Treefelling Blow:** You can collect lumber from the trees you fell with your fists. It's only natural. (+4 Carry Load)
 
-At [Etris](Etris.md), there is an NPC named [Korin](Korin.md) at a house outside the [Antiquarian](Antiquarian.md). You need the Attunement-less strength mantra Strong Left for this one, as that is how you fell trees with your hands. Upon talking to him, you realize it's about how you punch them, and that you need to punch down five more trees to sufficiently research this. After you fell 5 trees, talking to him again will earn you the Talent, which allows you to gain wood from punching down trees.
+At [Etris](Etris.md), there is an NPC named [Korin](Korin.md) at a house outside the [Antiquarian](Antiquarian.md). This can also be done with [Drefa](Drefa.md) at [Isle of Vigils](Isle_of_Vigils.md). You need the Attunement-less strength mantra Strong Left for this one, as that is how you fell trees with your hands. Upon talking to him, you realize it's about how you punch them, and that you need to punch down five more trees to sufficiently research this. After you fell 5 trees, talking to him again will earn you the Talent, which allows you to gain wood from punching down trees.
 
 ### Excavator
 

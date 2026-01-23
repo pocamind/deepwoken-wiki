@@ -1,6 +1,6 @@
 ---
 title: Sachan Yi Anako
-revid: 193573
+revid: 193740
 source: https://deepwoken.fandom.com/wiki/Sachan_Yi_Anako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Sachans]
@@ -15,7 +15,7 @@ notices:
 | name | Yi Anako[1] |
 | alias | Sachan Anako[2] |
 | aspect | Etrean |
-| affiliation | Clan Anako, Etrean Royalists (formerly) |
+| affiliation | Clan Anako, Etrean Royalists |
 | family | Clan Anako |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

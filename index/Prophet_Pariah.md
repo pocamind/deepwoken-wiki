@@ -1,6 +1,6 @@
 ---
 title: Prophet Pariah
-revid: 193730
+revid: 193805
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -16,7 +16,7 @@ notices:
 
 “ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed. ”
 
-― Moonseye tome at the first usage
+― Moonseye tome on the first usage
 
   
 

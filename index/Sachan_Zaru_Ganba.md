@@ -1,6 +1,6 @@
 ---
 title: Sachan Zaru Ganba
-revid: 193521
+revid: 193738
 source: https://deepwoken.fandom.com/wiki/Sachan_Zaru_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]
@@ -16,7 +16,7 @@ notices:
 | aspect | Etrean |
 | pronouns | He/him |
 | location | The Sable Estate |
-| affiliation | Clan Ganba, Etrean Royalists (formerly) |
+| affiliation | Clan Ganba, Etrean Royalists |
 | family | Clan Ganba |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

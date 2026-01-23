@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 192095
+revid: 193825
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -11,7 +11,7 @@ categories: [Monsters, The Vat Exclusive]
 | Prime Megalodaunt | |
 |---|---|
 | health | 1440036000 (Corrupted) |
-| attacks | Slash, Kick, Jump, Roar, Thousand Needles, Tacet Hug, Tacet Drop Kick, Cero, Finisher: Curb Stomp |
+| attacks | Slash, Kick, Jump, Quad Swipe, Roar, Thousand Needles, Tacet Hug, Tacet Drop Kick, Cero, Finisher: Curb Stomp |
 | drops | Megalodaunt Hide, Nightbringer Enchant Stone, Mantra Modifiers |
 | locations | The Vat |
 | challenges | -- Megalodaunt --, Sharktooth Necklace - Slay 10.Reward: +10% DMG; +5% RES, Not So Daunting - Slay 25.Reward: +10% DMG; +5% RES, A Bigger Boat - Slay 100.Reward: +10% DMG; +5% RES |
@@ -34,12 +34,20 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 **Slash**  
 (★☆☆)
 
- | A short range swipe using their arms. Can slash once, twice or four times, and can also mix in **Kick**.
+ | A short range swipe using their arms. After the initial slash, it can slash again or **Kick**.
 
 -   Heavy posture damage.
--   The only variant that can slash **four times** in quick succession.
-    -   When doing so, the Prime Megalodaunt will flash with a Green highlight, meaning it can **only** be parried.
 -   Prime Megalodaunts attack with a much quicker pace and don't leave much time for you to attack back. Do not get greedy for hits as you can get punished easily.
+
+ | 
+
+ |
+| 
+
+**Quad Slash**  
+(★★☆)
+
+ | Four short range swipes using their arms.
 
  | 
 

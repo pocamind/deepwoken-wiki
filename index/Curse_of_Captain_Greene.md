@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 190488
+revid: 193742
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -39,4 +39,4 @@ Upon taking damage from a player, lose 100.
 ### Notes
 
 -   This enchantment has a coin splash sound effect on hit and upon taking damage.
--   This enchantment's curse functions somewhat similarly to the [Loose Change](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier.
+-   This enchantment's curse functions somewhat similarly to the [Loose Change](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier. (It also stacks)

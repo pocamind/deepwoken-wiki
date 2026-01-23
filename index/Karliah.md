@@ -1,6 +1,6 @@
 ---
 title: Karliah
-revid: 192265
+revid: 193815
 source: https://deepwoken.fandom.com/wiki/Karliah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, The Divers, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -214,187 +214,82 @@ NOTE: **This quest is not repeatable.** Choosing the dialogues that escort Karli
 
 **Lower Erisia:**
 
-**Feasted Path:**
-
 <table>
 <tbody>
 <tr>
-  <td colspan="16">Begin Dialogue</td>
+  <td colspan="64">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="16">Please, help me! <i>*Karliah shrieks.*</i></td>
+  <td colspan="64">Please, help me! <i>*Karliah shrieks.*</i></td>
 </tr>
 <tr>
-  <td colspan="16">I'll get it off you!</td>
+  <td colspan="64">I'll get it off you!</td>
 </tr>
 <tr>
-  <td colspan="16">Player speaks to Karliah again</td>
+  <td colspan="64">Player speaks to Karliah again</td>
 </tr>
 <tr>
-  <td colspan="16">...</td>
+  <td colspan="64">...</td>
 </tr>
 <tr>
-  <td colspan="8">Hey, are you okay?</td>
-  <td colspan="8">[Reach out to help her up]</td>
+  <td colspan="32">Hey, are you okay?</td>
+  <td colspan="32">[Reach out to help her up]</td>
 </tr>
 <tr>
-  <td colspan="8"><i>*Karliah smiles weakly.*</i> I'm... Fine...</td>
-  <td colspan="8"><i>*Karliah takes your hand and pulls herself to her feet.*</i> That mudskipper really came out of nowhere... I'm fortunate to have your help here.</td>
+  <td colspan="32"><i>*Karliah smiles weakly.*</i> I'm... Fine...</td>
+  <td colspan="32"><i>*Karliah takes your hand and pulls herself to her feet.*</i> That mudskipper really came out of nowhere... I'm fortunate to have your help here.</td>
 </tr>
 <tr>
-  <td colspan="4">So, what do you want to do now?</td>
-  <td colspan="4">[Reach out to help her up]</td>
-  <td colspan="8">So, what do you want to do now?</td>
+  <td colspan="16">So, what do you want to do now?</td>
+  <td colspan="16">[Reach out to help her up]</td>
+  <td colspan="32">So, what do you want to do now?</td>
 </tr>
 <tr>
-  <td colspan="8">[See first instance]</td>
-  <td colspan="8"><i>*Karliah quivers, and then looks up at you.*</i> I-I'm ready to continue whenever you are...</td>
+  <td colspan="32">[See first instance]</td>
+  <td colspan="32"><i>*Karliah quivers, and then looks up at you.*</i> I-I'm ready to continue whenever you are...</td>
 </tr>
 <tr>
-  <td colspan="8"></td>
-  <td colspan="4">Let's get on with it then.</td>
-  <td colspan="4">Don't be scared. I'll protect you no matter what. [Charisma]</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
-  <td colspan="4">Right!</td>
-  <td colspan="2">Player meets Charisma requirement</td>
-  <td colspan="2">Player does not meet Charisma requirement</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
-  <td colspan="4">[End Dialogue], the Player escorts Karliah into the Erisian Mines</td>
-  <td colspan="2"><i>*Karliah smiles gently, though her expression betrays her fear.*</i> I'll hold you to that, ok?</td>
-  <td colspan="2"><i>*Karliah's face momentarily reflects inner digust before forming into an awkward smile.*</i> Ah.. er.. ok...</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
-  <td colspan="2"></td>
-  <td colspan="6">[End Dialogue], the Player escorts Karliah into the Erisian Mines</td>
-</tr>
-</tbody>
-</table>
-
-**Realization Path:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="16">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="16">Please, help me! <i>*Karliah shrieks.*</i></td>
-</tr>
-<tr>
-  <td colspan="16">I'll get it off you!</td>
-</tr>
-<tr>
-  <td colspan="16">Player speaks to Karliah again</td>
-</tr>
-<tr>
-  <td colspan="16">...</td>
-</tr>
-<tr>
-  <td colspan="8">Hey, are you okay?</td>
-  <td colspan="8">[Reach out to help her up]</td>
-</tr>
-<tr>
-  <td colspan="8"><i>*Karliah smiles weakly.*</i> I'm... Fine...</td>
-  <td colspan="8"><i>*Karliah takes your hand and pulls herself to her feet.*</i> That mudskipper really came out of nowhere... I'm fortunate to have your help here.</td>
-</tr>
-<tr>
-  <td colspan="4">So, what do you want to do now?</td>
-  <td colspan="4">[Reach out to help her up]</td>
-  <td colspan="8">So, what do you want to do now?</td>
-</tr>
-<tr>
-  <td colspan="8">[See first instance]</td>
-  <td colspan="8"><i>*Karliah quivers, and then looks up at you.*</i> I-I'm ready to continue whenever you are...</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
+  <td colspan="32"></td>
+  <td colspan="8">Let's get on with it then.</td>
+  <td colspan="8">Don't be scared. I'll protect you no matter what. [Charisma]</td>
   <td colspan="8">I don't think you're cut out for this. Mudskippers are small fry, you'll face much worse as a Diver. You need to rethink your life goals. [Charisma]</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
-  <td colspan="4">Player meets Charisma requirement</td>
-  <td colspan="4">Player does not meet Charisma requirement</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
-  <td colspan="4"><i>*Tears begin flowing from Karliah's eyes.*</i> I... I know. You're entirely right. I just wanted to contribute some way. So that my life would mean something..</td>
-  <td colspan="4"><i>*Karliah tears up a bit, as if wounded by your words.*</i> I... I can and must go through with this. I've come too far to change my life now.</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
-  <td colspan="4">You don't have to be a diver for your life to mean something.</td>
-  <td colspan="4">[End Dialogue]</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
-  <td colspan="4"><i>*Karliah smiles despite her tears flowing freely.*</i> As much as your honesty hurts, I've always known in my heart that this is not the path I should be walking. I'll... I'll figure something out.</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
-  <td colspan="4">[End Dialogue], Karliah can be found back at Etris</td>
-</tr>
-</tbody>
-</table>
-
-**Insanity Path:**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="16">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="16">Please, help me! <i>*Karliah shrieks.*</i></td>
-</tr>
-<tr>
-  <td colspan="16">I'll get it off you!</td>
-</tr>
-<tr>
-  <td colspan="16">Player speaks to Karliah again</td>
-</tr>
-<tr>
-  <td colspan="16">...</td>
-</tr>
-<tr>
-  <td colspan="8">Hey, are you okay?</td>
-  <td colspan="8">[Reach out to help her up]</td>
-</tr>
-<tr>
-  <td colspan="8"><i>*Karliah smiles weakly.*</i> I'm... Fine...</td>
-  <td colspan="8"><i>*Karliah takes your hand and pulls herself to her feet.*</i> That mudskipper really came out of nowhere... I'm fortunate to have your help here.</td>
-</tr>
-<tr>
-  <td colspan="4">So, what do you want to do now?</td>
-  <td colspan="4">[Reach out to help her up]</td>
-  <td colspan="8">So, what do you want to do now?</td>
-</tr>
-<tr>
-  <td colspan="8">[See first instance]</td>
-  <td colspan="8"><i>*Karliah quivers, and then looks up at you.*</i> I-I'm ready to continue whenever you are...</td>
-</tr>
-<tr>
-  <td colspan="8"></td>
   <td colspan="8">You've been through a lot - maybe you should go home and study on your own for a while and come back later. [Charisma]</td>
 </tr>
 <tr>
-  <td colspan="8"></td>
+  <td colspan="32"></td>
+  <td colspan="8">Right!</td>
+  <td colspan="4">Player meets Charisma requirement</td>
+  <td colspan="4">Player does not meet Charisma requirement</td>
+  <td colspan="4">Player meets Charisma requirement</td>
+  <td colspan="4">Player does not meet Charisma requirement</td>
   <td colspan="4">Player meets Charisma requirement</td>
   <td colspan="4">Player does not meet Charisma requirement</td>
 </tr>
 <tr>
-  <td colspan="8"></td>
+  <td colspan="32"></td>
+  <td colspan="8">[End Dialogue], the Player escorts Karliah into the Erisian Mines</td>
+  <td colspan="4"><i>*Karliah smiles gently, though her expression betrays her fear.*</i> I'll hold you to that, ok?</td>
+  <td colspan="4"><i>*Karliah's face momentarily reflects inner disgust before forming into an awkward smile.*</i> Ah.. er.. ok...</td>
+  <td colspan="4"><i>*Tears begin flowing from Karliah's eyes.*</i> I... I know. You're entirely right. I just wanted to contribute some way. So that my life would mean something..</td>
+  <td colspan="4"><i>*Karliah tears up a bit, as if wounded by your words.*</i> I... I can and must go through with this. I've come too far to change my life now.</td>
   <td colspan="4">...I think you're right. I must be missing something. I need to be strong enough to take on these things. I'll find a way to get stronger and come back here.</td>
   <td colspan="4">I went through so much to become an apprentice diver.. I'm already here... There's no way I can give up now after one small incident. <a href="Glossary.md#the-divers">Divers</a> don't give up that easily.</td>
 </tr>
 <tr>
-  <td colspan="8"></td>
+  <td colspan="40"></td>
+  <td colspan="8">[End Dialogue], the Player escorts Karliah into the Erisian Mines</td>
+  <td colspan="4">You don't have to be a diver for your life to mean something.</td>
+  <td colspan="4">[End Dialogue]</td>
   <td colspan="4">[End Dialogue], Karliah can be found back at Etris</td>
   <td colspan="4">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="48"></td>
+  <td colspan="4"><i>*Karliah smiles despite her tears flowing freely.*</i> As much as your honesty hurts, I've always known in my heart that this is not the path I should be walking. I'll... I'll figure something out.</td>
+</tr>
+<tr>
+  <td colspan="48"></td>
+  <td colspan="4">[End Dialogue], Karliah can be found back at Etris</td>
 </tr>
 </tbody>
 </table>

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193735
+revid: 193803
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1265,11 +1265,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
     -   Prerequisite: 15 Intelligence
 
--   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of Inspiration every time you land or parry a Mantra. Whiffing a Mantra removes a stack of Inspiration. Reaching 3 stacks grants +10% Mantra Damage to your next Mantra attack. (+7 Carry Load)
-    -   Landing and parrying Mantras grants Inspiration stacks. Mantras cap at giving 1 stack per, and you do not gain stacks from autoparry frames.
+-   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of [Inspiration](Status_Effects.md#inspiration) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspiration). (+7 Carry Load)
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
         -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
         -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
+    -   You do not gain additional stacks from multi-hits or autoparry frames.
     -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
     -   Prerequisite: 30 Intelligence
     -   This Talent was merged with the old Ether Conduit Talent.
@@ -4255,6 +4255,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Spinal Splinter: [Halberd](Halberd.md) - Landing a backstab with your critical deals 25 extra true damage.
 
 -   Static Beatdown: [Legion Cestus](Legion_Cestus.md) - The metal the cestus is made from allows electricity to be conducted easily through it, allowing you to further extend how long your opponents are stuck in shaky block based on your total Thundercall investment.
+    -   Increases shaky block duration by 0.004s per point in Thundercall. At 100 Thundercall, shaky block lasts 1 second against players with 1x or slower swing speed weapons.
 
 -   Swift Strike: [Big Brother](Big_Brother.md) - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents.
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.

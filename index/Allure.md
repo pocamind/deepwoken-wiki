@@ -1,6 +1,6 @@
 ---
 title: Allure
-revid: 190484
+revid: 193781
 source: https://deepwoken.fandom.com/wiki/Allure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Equipment Enchantments]
 | droppable | Yes |
 | pass down | No |
 | desc | Incoming hits may Charm your attacker for 10s. |
-| obtainment | Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |
+| obtainment | Finding an Allure enchanted item in a chestAllure Enchant Grease:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Grease), Exchanging 5 to Laplace (grants a random non-exclusive Enchant Grease), The Diluvian Mechanism, War Mode, Galewax Room in the Second Layer, Crafting : |
 
 ## Description
 

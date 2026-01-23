@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 193373
+revid: 193749
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -636,7 +636,7 @@ At the cost of draining all of your armor, your M1s bypass your opponent's armor
 
 Gain +50% posture damage for 10 seconds to your basic attacks after successfully flourishing an opponent. This effect is applied from the [Champion's Regalia](Talents.md#champions-regalia) Talent and is signified by a gold outline on your character.
 
-### Inspired
+### Inspiration
 
 Granted by reaching 3 stacks of Inspiration with the [Eureka](Talents.md#eureka) Talent. Stacks of Inspiration can be gained through landing and parrying Mantras. Casting any Mantra will consume this status effect and grant a 10% damage buff to said Mantra. Inspired lasts 30 seconds, but will be instantly consumed if the procced via landing Mantras. Signified by a light blue hue and outline surrounding your character on proc.
 

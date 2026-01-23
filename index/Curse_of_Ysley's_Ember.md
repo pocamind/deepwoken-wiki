@@ -1,6 +1,6 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 190507
+revid: 193777
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 | droppable | Yes |
 | pass down | No |
 | desc | Once enough stacks have been applied, the Fire of Life geminates. The explosion deals a random amount of damage and grants temporary health to the affected targets. |
-| obtainment | Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Starswept Valley, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 8 , Hive Construct (direct drop), Rogue Construct (direct drop), Hive Artifacts |
+| obtainment | Curse of Ysley's Ember Enchant Stone:, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Fishing, Starswept Valley, The Diluvian Mechanism, Sold in Traan Zakshun's black market for 8 , Hive Construct (direct drop), Rogue Construct (direct drop), Hive Artifacts |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Sachan Choji Mofisu
-revid: 193518
+revid: 193741
 source: https://deepwoken.fandom.com/wiki/Sachan_Choji_Mofisu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Sachans]
@@ -15,7 +15,7 @@ notices:
 | name | Choji Mofisu[1] |
 | alias | Sachan Mofisu[2] |
 | aspect | Etrean |
-| affiliation | Clan Mofisu, Etrean Royalists (formerly) |
+| affiliation | Clan Mofisu, Etrean Royalists |
 | family | Clan Mofisu |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

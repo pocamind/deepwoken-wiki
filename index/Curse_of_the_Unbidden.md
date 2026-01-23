@@ -1,6 +1,6 @@
 ---
 title: Curse of the Unbidden
-revid: 190509
+revid: 193775
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Unbidden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Attack Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Att
 | droppable | Yes |
 | pass down | No |
 | desc | Your critical attack is replaced with Unbidden Counter, restoring posture and stunning your attacker. Your attacks drain Ether on hit. |
-| obtainment | Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
+| obtainment | Curse of the Unbidden Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
 
 ## Description
 

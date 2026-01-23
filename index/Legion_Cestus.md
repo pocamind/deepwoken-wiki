@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 193277
+revid: 193804
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -36,13 +36,13 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Talents]
 
 ## Description
 
-**Legion Cestus** is a Light Weapon that requires 30 LHT to use. It has 9 LHT scaling, 5% penetration, 5 weight, 7 range, and 1.11x Swing Speed, and a base damage of 15.
+**Legion Cestus** is a Light Cestus Weapon that requires 30 LHT to use.
 
 ## Talent: Static Beatdown
 
 Equipping the Legion Cestus grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Static Beatdown** increases the duration of shaky block that you apply, based on your Thundercall investment.
+**Static Beatdown** increases the duration of shaky block that you apply, based on your Thundercall investment. Gains +0.004s of shaky block for every 1 attribute point invested into Thundercall. At 100 Thundercall, apply 1 second of shaky block to players with 1x or slower swing speed weapons.
 
 ## Trivia
 

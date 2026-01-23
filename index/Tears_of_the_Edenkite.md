@@ -1,6 +1,6 @@
 ---
 title: Tears of the Edenkite
-revid: 190555
+revid: 193768
 source: https://deepwoken.fandom.com/wiki/Tears_of_the_Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments]
 | droppable | Yes |
 | pass down | No |
 | desc | On critical attacks and flourishes, produce homing bubble projectiles. 20s CD. |
-| obtainment | Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
+| obtainment | Tears of the Edenkite Enchant Stone:, Exchanging 5 to Klaris (grants a random non-exclusive Enchant Stone), War Mode, Hell Mode, Scion of Ethiron, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson Contract, Saramaed Hollow, Second Layer, Diluvian Mechanism, Galewax Room in the Second Layer, Crafting : |
 
 ## Description
 

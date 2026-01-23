@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 191908
+revid: 193795
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,8 +80,8 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 ### Talents
 
 -   **Dread Fighter** - Parrying and getting hit by mantras now give you stacks of Dread. Each stack increases your mantra resistance, up to 25%. Each stack lasts for 15 seconds.
-    -   Stacks of dread are represented as a halo that grows from your chest. Each stacks makes the halo larger and raise your mantra resistance.
-    -   Stacks up to 5 times and each stacks grant 5% mantra resistance leading to total 25% resistances.
+    -   Stacks of dread are represented as a halo that grows from your chest. Each stack makes the halo larger and raises your mantra resistance.
+    -   Stacks up to 5 times and each stack grants 5% mantra resistance leading to 25% total mantra resistance.
 
 -   **Merciless Blade** - You can now execute enemies much faster.
     -   Grip speed is increased by 25% (3 seconds down to 2.25 seconds)
