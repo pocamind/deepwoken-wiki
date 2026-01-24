@@ -1,6 +1,6 @@
 ---
 title: Drallis Ehr
-revid: 190776
+revid: 194081
 source: https://deepwoken.fandom.com/wiki/Drallis_Ehr
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heads of government and state, Personnel of The Central Authority]
@@ -30,5 +30,6 @@ Drallis Ehr became a hero in the [Adretian Empire](Adretian_Empire.md) after sto
     _By the powers vested in me, in the name of our [Sovereign](Glossary.md#the-sovereign-drallis-ehr) of Eras, [Drallis Ehr](Glossary.md#the-sovereign-drallis-ehr), I name you an Officer of the [Central Authority](Glossary.md#the-central-authority)._
 3.  [↑](#cite-ref-3) [Maps](Maps.md)
 4.  ↑ [4.0](#cite-ref-glossehr-4-0) [4.1](#cite-ref-glossehr-4-1) [4.2](#cite-ref-glossehr-4-2) [Glossary](Glossary.md): [The Sovereign Drallis Ehr](Glossary.md#the-sovereign-drallis-ehr)
-5.  [↑](#cite-ref-5) [Traan Zakshun](Traan_Zakshun.md)
-6.  [↑](#cite-ref-6) [Naan Zakshun](Naan_Zakshun.md)
+5.  [↑](#cite-ref-5) NPC dialogue: [Traan Zakshun](Traan_Zakshun.md)  
+    
+6.  [↑](#cite-ref-6) NPC dialogue: [Naan Zakshun](Naan_Zakshun.md)

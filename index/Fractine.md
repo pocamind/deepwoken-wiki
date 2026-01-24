@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 193492
+revid: 194082
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -30,7 +30,7 @@ categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribut
 | selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
-| droppable | No |
+| droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Voidsea Events, Moon's Eyrie, Semblance, Dread Serpent |

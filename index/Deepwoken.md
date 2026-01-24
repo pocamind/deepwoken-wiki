@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 193865
+revid: 194087
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Pages requiring a cleanup]
@@ -14,7 +14,7 @@ _Not to be confused with the name of the game, [Deepwoken](<Deepwoken_(game).md>
 
 ## Description
 
-**Deepwoken** is a term used to refer to the individuals who have consumed pieces of [Drowned Gods](https://deepwoken.fandom.com/wiki/Lore#Drowned_Gods),[\[1\]](#cite-note-0-1) causing them to "wake" to the secrets of the deep. When a person consumes a fragment of a Drowned God, they attain immortality and supernatural powers related to the entity from which the fragment came from. As a consequence of becoming a Deepwoken the individual undergoes physical changes, though the nature and magnitude of these transformations are unknown.
+**Deepwoken** is a term used to refer to the individuals who have consumed pieces of Drowned Gods,[\[1\]](#cite-note-0-1) causing them to "wake to the secrets of the deep". When a person consumes a fragment of a Drowned God, they attain immortality and supernatural powers related to the entity from which the fragment came from. As a consequence of becoming a Deepwoken the individual undergoes physical changes, though the nature and magnitude of these transformations are unknown.
 
 ### Known Deepwoken
 
@@ -25,7 +25,7 @@ There are three known Deepwoken. They are all likely well over a thousand years 
 -   [The First Prophet](https://deepwoken.fandom.com/wiki/Lore#The_First_Prophet) of [The Ministry](The_Ministry.md)
     -   The Drowned God from which the First Prophet consumed a piece of is currently unnamed. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2)
 -   [Drallis Ehr](Drallis_Ehr.md) of [The Central Authority](The_Central_Authority.md)
-    -   Both the details of The Drowned God they ate and their powers are unknown.[\[3\]](#cite-note-3)
+    -   Both the details of The Drowned God they ate and Drallis' powers are unknown.[\[3\]](#cite-note-3)
 
 The [Talent](Talents.md) tree, "[Deepwoken](Talents.md#deepwoken)" possibly hints at the player character having the potential to become a Deepwoken. Though the primary purpose of the character is a means for users to interact with the world of Deepwoken, a few implications have been made about its true origins.
 

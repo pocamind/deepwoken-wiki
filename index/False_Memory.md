@@ -1,6 +1,6 @@
 ---
 title: False Memory
-revid: 184414
+revid: 194084
 source: https://deepwoken.fandom.com/wiki/False_Memory
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -27,10 +27,10 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
 | rarity | Common |
 | selling price | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Selecting the "False Memory" option at the Hippocampal Pool |
 | description | Fragments of the blade seem to be drifting off to the vast void surrounding you. It shall only last for a brief while, allowing you to switch weapons at the Hippocampal Pool. |
 
@@ -52,5 +52,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   At max MED, the weapon deals 21.4 damage.
 -   The weapon does not stay with you when creating a new character, and cannot be passed down. Instead, it's only known purpose is to allow you to switch weapons at [Fragments of Self](Fragments_of_Self.md) in order to pass down your current weapon
--   When attempting to create a new character with False Memory in your character's inventory, upon being reborn, the False Memory will be replaced by a regular Sword with stats identical to those of the False Memory. Any Stars on the False Memory will also be present on the Sword.
+-   When attempting to create a new character with False Memory in your character's inventory, upon being reborn, the False Memory will be replaced by the [Sword](<Sword_(weapon).md>), retaining the quality stars of the False Memory.
 -   The weapon has a low chance to be blessed with one of the many [Enchantments](Enchantments.md) when pulling it from the Hippocampal Pool, and can be soulbound to the player.

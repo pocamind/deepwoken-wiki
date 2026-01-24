@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 193955
+revid: 194073
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -542,12 +542,6 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 -   The Citadel bears similar appearances to the sunken city of Celtor.
 
 The Citadel
-
-  
-
-  
-
-  
 
 #### Lullaby Isles
 

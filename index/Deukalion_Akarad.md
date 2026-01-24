@@ -1,6 +1,6 @@
 ---
 title: Deukalion Akarad
-revid: 193894
+revid: 194086
 source: https://deepwoken.fandom.com/wiki/Deukalion_Akarad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Black Divers, Deceased characters]
@@ -12,7 +12,6 @@ categories: [Individuals with He/him pronouns, Black Divers, Deceased characters
 |---|---|
 | name | Deukalion Akarad |
 | alias | Father Diver[1] |
-| aspect | Capra |
 | pronouns | He/him[2] |
 | affiliation | The Divers[1], Black Divers division[1], The Pioneers[1] |
 | death | Among The Pioneers who perished during the first expedition into the Depths[1] |
@@ -30,7 +29,6 @@ Following his death, Akarad's name was invoked by Black Diver [Ulysses Disii](Ul
 
 -   It's unknown whether Akarad was among the Divers killed within the Depths, or the survivors who all died after they resurfaced improperly.
 -   Akarad's name is said in [11:59](https://www.youtube.com/watch?v=g4aVbN4nE6U), an OST that plays after defeating the Scion of Ethiron.
--   Considering his last name, he might likely be a [Capra](Capra.md).
 
 ## References
 

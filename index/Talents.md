@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 193948
+revid: 194085
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -114,7 +114,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   3 minute cooldown.
     -   Being hit can repeatedly proc Emergency Reserves as long as it is off cooldown.
     -   Prerequisite: 80 Willpower
--   The [Brigand's Bicorn](<Brigand's_Bicorn.md>) equipment has this talent.
 
 -   Unswayed \[Common Talent, Willpower\] - The effects of Taunt and Encore no longer work on you. (+20 Sanity)
     -   The [Taunt](Attunement-less.md#taunt) Mantra, and the "Cornered Fool" Talent can no longer inflict "Taunt" on the user.
@@ -1206,9 +1205,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 30 Strength, 30 Medium Weapon
     -   The head equipments "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this Talent.
 
--   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are dazed from wall bangs is cut in half. (+9 Carry Load)
+-   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are [Dazed](Status_Effects.md#dazed) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well. (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
-    -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
+    -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" Outfit has this Talent.
 
 -   _Tap Dancer_ \[Rare Talent, Agility\] - Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
     -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
@@ -2182,6 +2181,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Defensive Sweep \[Common Talent, Medium Weapon\] - Spears Posture breaking an opponent grants you +50% PEN for 3 seconds. (14s CD)
+    -   The buff applies to all attacks, but can only be procced from M1s or Criticals.
     -   Prerequisites: 50 Medium Weapon, Using a spear
 
 -   Driving Impact \[Common Talent, Medium Weapon\] - Spears The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.

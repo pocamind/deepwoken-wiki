@@ -1,6 +1,6 @@
 ---
 title: Servers
-revid: 194044
+revid: 194067
 source: https://deepwoken.fandom.com/wiki/Servers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics]

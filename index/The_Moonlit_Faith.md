@@ -1,6 +1,6 @@
 ---
 title: The Moonlit Faith
-revid: 188000
+revid: 194070
 source: https://deepwoken.fandom.com/wiki/The_Moonlit_Faith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Religious groups, The Moonlit Faith]
@@ -29,6 +29,8 @@ With the Lady Confessor's ascension to power, she took the society in her hands 
 The Acolyte / [Thal'assis Linnaes](<Thal'assis_Linnaes.md>): The Acolyte is a lead ambassador for the Lullaby Isles, leading groups of scholars to and from the [Greathive Aratel](Greathive_Aratel.md) in order to exchange knowledge, updates and information.[\[4\]](#cite-note-missives-4)[\[5\]](#cite-note-glossary1-5)
 
 [Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md): Council, which resides in the city of Echelon. The highest form of government within the Lullaby Isles, consisting of a handful of the philosophical, theological, and academic members of the Lullaby Isles. Their purpose is to put [The Lady Confessor](The_Lady_Confessor.md)'s decrees into action and ensure the operations within the Echelon and wider archipelago run smoothly.[\[4\]](#cite-note-missives-4)
+
+[Prophet Pariah](Prophet_Pariah.md): The original writter of the [Moonseye Tome](Moonseye_Tome.md); a short-lived Prophet of The Moonlit Faith who died in [The Voidsea](Voidsea.md) searching for a starway to the Heavens.
 
 [Mystics](Mystic.md): Affect the player's [Whisper Draws](Whisper_Draw.md) and [Talent](Talents.md) Hands for 20.
 
