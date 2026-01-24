@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdrill
-revid: 193860
+revid: 194031
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdrill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,6 +11,6 @@ The deepdriller located at the end of the Nest Corridor.
 
 ## Description
 
-The **Deepdriller** is a drill located at the Eternal Gale, specifically at the end of the [Nest Corridor](Nest_Corridor.md). Its only purpose is to help players escape; it is one of the two ways of leaving the first floor safely. It is mainly used by players who go hookless for a safer escape.
+The **Deepdrill** is a drill located at [The Eternal Gale](Lore.md#the-eternal-gale-the-second-layer), specifically at the end of the [Nest Corridor](Nest_Corridor.md). Its only purpose is to help players escape; it is one of the three ways of leaving the first floor safely. It is mainly used by players who go hookless for a safer escape.
 
-The Deepdriller can only be called by [Llevyn](Llevyn.md) at the Ignition Union's base. The base must be opened by activating a generator, which requires defeating the [Bone Keeper](Bone_Keeper.md) blocking the bridge.
+The Deepdrill can only be called by [Llevyn](Llevyn.md) at the [The Frontier Furnace](The_Frontier_Furnace.md). Which must be opened by activating a generator, past the [Bone Keeper](Bone_Keeper.md) at the bridge above [Aezeroth Kaladin](Aezeroth_Kaladin.md).

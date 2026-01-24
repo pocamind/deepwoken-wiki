@@ -1,6 +1,6 @@
 ---
 title: Warden Jericho
-revid: 192242
+revid: 193987
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Wardens of The Central Authority, NPCs located in the Eastern Luminant, Circle of Honour members]
@@ -328,4 +328,4 @@ Warden Jericho is located inside the war room of the fortress at [Fort Merit](Fo
 
 ## References
 
-1.  [↑](#cite-ref-1) [Jericho's Journal](<Jericho's_Journal.md>)
+1.  [↑](#cite-ref-1) [Book](Books.md): [Jericho's Journal](<Jericho's_Journal.md>)

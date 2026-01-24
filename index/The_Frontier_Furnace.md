@@ -1,6 +1,6 @@
 ---
 title: The Frontier Furnace
-revid: 188776
+revid: 194026
 source: https://deepwoken.fandom.com/wiki/The_Frontier_Furnace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Floor of the Second Layer, Territory of The Ignition Union]

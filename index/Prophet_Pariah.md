@@ -1,6 +1,6 @@
 ---
 title: Prophet Pariah
-revid: 193863
+revid: 194039
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -26,4 +26,4 @@ A lunatic cult leader who originally wrote the [Moonseye Tome](Moonseye_Tome.md)
 
 They lived a short life. In their own beliefs, they believed that in the voidsea existed a so called stairway to [the heavens](The_Heavens.md), with that idea they navigated the voidsea until their presumed death.
 
--   The heavens could be potentially the [Moonseye](Moonseye.md) and not Constellia due to the name 'Moonseye Tome' and the Moonseye on the cover within it.
+-   The heavens could be potentially the [Moonseye](Moonseye.md) and not Constellia due to the name 'Moonseye Tome' and the Moonseye in the cover within it.

@@ -1,6 +1,6 @@
 ---
 title: Ishan
-revid: 192360
+revid: 193999
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ishan is an [Etrean](Etrean.md) NPC. They share information on the origins of the [Adret](Adret.md).
+Ishan is an [Etrean](Etrean.md) NPC. They are an employee of [The Summer Company](The_Summer_Company.md) ruminating on the origins of the [Adret](Adret.md).
 
 If spoken to while being an Adret, their dialogue changes.
 

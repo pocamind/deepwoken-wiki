@@ -1,11 +1,9 @@
 ---
 title: True Heart of Enmity
-revid: 191882
+revid: 194043
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Voiced Characters]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
 ---
 
 # True Heart of Enmity
@@ -14,7 +12,7 @@ notices:
 |---|---|
 | health | 18,000 |
 | attacks | Enmity's Call, Homerun Bat[1], Sadistic Fury, Reposition, Sadistic Edge, Spread, Obsidian Wings, The Brutalizer, Condemnation's Fall, I Shall Make This Agony Everlasting, Your Arrogance Must Pay The Price Of This Bargain |
-| drops | Rings, Deep Gems, Extra Thick Overcoat, Par's Glaive, Beginner's Brace, Beginner's Boots, Cerulean Thread, Champion's Cape, Edenbrand Hellcoil, Vapordrop Earrings, Trueblood Earrings, Sanguine Candle, Sorcerer's Mantle, Sorcerer's Brim, Wretched MawbladesSee loot pool |
+| drops | Rings, Deep Gems, Extra Thick Overcoat, Par's Glaive, Beginner's Brace, Beginner's Boots, Cerulean Thread, Champion's Cape, Edenbrand Hellcoil, Vapordrop Earrings, Trueblood Earrings, Sanguine Candle, Sorcerer's Mantle, Sorcerer's Brim, Wretched Mawblades |
 | locations | Cathedral of the Interstice |
 
 Variants: [Heart of Enmity](Heart_of_Enmity.md)
@@ -214,13 +212,13 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>. <font>Stormseye</font>, <font>Red Death</font>, <font>Purple Cloud</font>, <font>Hailbreaker</font>, <font>Weal and Woe</font>, <font>Hero Blades</font>, <font>Guiding Star</font>, <font>Chorus of Agonies</font>, <font>Rosen's Hellflame</font>, <font>Eye of Malice</font>, <font>Ignition Deepcrusher</font>, Sanguine Transfuser</li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>. <font>Stormseye</font>, <font>Red Death</font>, <font>Purple Cloud</font>, <font>Hailbreaker</font>, <font>Weal and Woe</font>, <font>Hero Blades</font>, <font>Guiding Star</font>, {{Cl|mythical|Deepspindle}, <font>Chorus of Agonies</font>, <font>Rosen's Hellflame</font>, <font>Eye of Malice</font>, <font>Ignition Deepcrusher</font>, Sanguine Transfuser</li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Whaling_Knife.md">Alloyed Whaling Knife</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>, <a href="Big_Brother.md">Big Brother</a></li>
     <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Scimitar.md">Scimitar</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a>, <a href="Duskguard_Axe.md">Duskguard Axe</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Halberd.md">Halberd</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a>, <a href="Duskguard_Axe.md">Duskguard Axe</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Kyrstear.md">Kyrstear</a></li>
   </ul></td>
@@ -258,14 +256,9 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
 </tbody>
 </table>
 
-## Gallery
-
-TBA
-
 ## Trivia
 
 -   The reason as to True Heart of Enmity's health being lower than Heart of Enmity is unknown, but maybe because of the amount of drownings that happened over time has given him a buff to the point where more than one person have to beat him.
-    -   (the health change is more than likely just to make the fight more viable solo and has little to no lore implications)
 
 ## References
 

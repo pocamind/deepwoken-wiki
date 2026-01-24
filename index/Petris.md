@@ -1,9 +1,9 @@
 ---
 title: Petris
-revid: 191583
+revid: 194028
 source: https://deepwoken.fandom.com/wiki/Petris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer]
+categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with unspecified pronouns, NPCs, NPCs located in the First Layer]
 ---
 
 # Petris
@@ -12,6 +12,7 @@ categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First 
 |---|---|
 | name | Petris |
 | aspect | Etrean |
+| pronouns | He/him[1] |
 | location | The City of the Drowned |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -20,11 +21,13 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Petris is a middle-aged [Etrean](Etrean.md) in [The Depths](The_Depths.md), in [The City of the Drowned](The_City_of_the_Drowned.md), right next to the Merchant Stalls where [Nautilodaunt](Nautilodaunt.md) spawns. This is also the game hinting at how to spawn [The Ferryman](The_Ferryman.md).
+Petris is a middle-aged [Etrean](Etrean.md) NPC. He is a former adventurer who met a bad end at the hands of [the Ferryman](The_Ferryman.md).
 
-Due to his wrinkles next to his eyes, you can concur that he is in Stage 1 of [Age](Age.md), meaning he is about 40-49 years old.
+He appears to have summoned the Ferryman in hopes of getting gifts during the era of the [Etrean Civil War](Etrean_Civil_War.md), but instead the Ferryman killed him and sent him to the Depths.
 
-He appears to have summoned the Ferryman in hopes of getting gifts, but instead the Ferryman killed him and sent him to the Depths.
+## Location
+
+Petris is located in [The City of the Drowned](The_City_of_the_Drowned.md), right next to the merchant stalls where [Nautilodaunt](Nautilodaunt.md) spawn.
 
 ## Dialogue
 
@@ -34,7 +37,7 @@ He appears to have summoned the Ferryman in hopes of getting gifts, but instead 
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Flames would call the Ferryman... That's what they told me... I-... I thought he would give me gifts like the tales of old. That monster...</td>
+  <td colspan="12">Flames will call the Ferryman... That's what they told me... I-... I thought he would give me gifts like the tales of old. That monster...</td>
 </tr>
 <tr>
   <td colspan="12">[End Dialogue]</td>
@@ -45,3 +48,7 @@ He appears to have summoned the Ferryman in hopes of getting gifts, but instead 
 ## Trivia
 
 -   His position was originally slightly different, but was moved when the elevator was added.
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>)

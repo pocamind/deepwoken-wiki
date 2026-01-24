@@ -1,11 +1,9 @@
 ---
 title: Apprentice Kj
-revid: 193347
+revid: 193992
 source: https://deepwoken.fandom.com/wiki/Apprentice_Kj
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Quests]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
 ---
 
 # Apprentice Kj
@@ -29,7 +27,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Apprentice Kj is a student taught under [Evengarde Rest](Evengarde_Rest.md) at the [Isle of Vigils](Isle_of_Vigils.md). Completing his dialogue starts the "Vigil's Savior" [Quest](Quests.md).
+Apprentice Kj is an [Etrean](Etrean.md) NPC. He is a student under [Evengarde Rest](Evengarde_Rest.md) at the [Isle of Vigils](Isle_of_Vigils.md) and the brother of [Vigil Isaac](Vigil_Isaac.md).
+
+Completing his dialogue starts the "Vigil's Savior" [Quest](Quests.md).
 
 Apprentice Kj wears the [Cloak of Winds](Cloak_of_Winds.md) outfit along with a [White Deepwoken Cloak](Deepwoken_Cloak.md).
 

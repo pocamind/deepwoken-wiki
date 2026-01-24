@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 193707
+revid: 193955
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -1407,7 +1407,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
     -   An iron box is used to store corrupt Lifeweavers and any rogue creations. The box is devoid of any life, thus depriving them of their power. It was noted an Ironsinger would easily break out.
 -   The book _Coldheart's Journal_ mentions lifewoven blades suggesting that Lifeweave can be used to somehow aid in making weapons or be infused into them.
 -   Lifeweave allows users to reverse aging processes, effectively allowing anyone with a mastery over it to be immortal.
--   One of the notable members of lifeweave is the 7th Greatlord, [Zithori Vhemm Rybak Diri, Gift of Life](#zithori-vhemm-rybak-diri-gift-of-life).
+-   One of the notable members of lifeweave is the 7th Greatlord, [Zithori Vhemm Rybak Diri](Developer_Specs.md#yayafino-gift-of-life-formerly-known-as-zithori-vhemm-rybak-diri).
 
 ### Ironsing
 

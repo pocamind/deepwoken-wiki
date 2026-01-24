@@ -1,12 +1,9 @@
 ---
 title: Irivien Erisia
-revid: 178234
+revid: 193964
 source: https://deepwoken.fandom.com/wiki/Irivien_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Members of the Erisia family]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Members of the Erisia family, Individuals with unspecified pronouns]
 ---
 
 # Irivien Erisia
@@ -17,6 +14,10 @@ notices:
 | alias | Duke Thera Erisia[1], The Sea's Savant[1] |
 | family | Erisia family[1] |
 
+## Description
+
+As a member of the [Erisia family](Erisia_family.md), Irivien served as the Duke of [Erisia](Erisia.md). According to surviving records, in the form of statues, they were the second of their family name to bear this title. For unknown reasons, they bore the title of "The Sea's Savant".[\[1\]](#cite-note-pr-1)
+
 ## References
 
-1.  ↑ [1.0](#cite-ref-pr-1-0) [1.1](#cite-ref-pr-1-1) [1.2](#cite-ref-pr-1-2) [1.3](#cite-ref-pr-1-3) [Pathfinder's Respite](<Pathfinder's_Respite.md>)
+1.  ↑ [1.0](#cite-ref-pr-1-0) [1.1](#cite-ref-pr-1-1) [1.2](#cite-ref-pr-1-2) [1.3](#cite-ref-pr-1-3) [1.4](#cite-ref-pr-1-4) [Pathfinder's Respite](<Pathfinder's_Respite.md>)

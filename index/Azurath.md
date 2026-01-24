@@ -1,6 +1,6 @@
 ---
 title: Azurath
-revid: 191332
+revid: 194000
 source: https://deepwoken.fandom.com/wiki/Azurath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Heliodar NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]

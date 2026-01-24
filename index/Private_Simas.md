@@ -1,11 +1,9 @@
 ---
 title: Private Simas
-revid: 192715
+revid: 193976
 source: https://deepwoken.fandom.com/wiki/Private_Simas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Adret NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
 ---
 
 # Private Simas
@@ -24,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Private Simas is an [Adret](Adret.md) NPC. They're probably drunk out of their mind.
+Private Simas is an [Adret](Adret.md) NPC. He's probably drunk out of his mind.
 
 ## Location
 

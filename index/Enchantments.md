@@ -1,14 +1,14 @@
 ---
 title: Enchantments
-revid: 193855
+revid: 194017
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, In progress with reason, InProgressPages, Mechanics, Weapons, Equipment]
-notices:
-  - "This page is currently being worked on. A large rework is planned for this page, intended to incorporate a navigation for individual Enchantment pages while retaining ease of access and use. If adding Enchantment-related information, remember to update both this page and the Enchantment's own page."
+categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
 ---
 
 # Enchantments
+
+_**NOTE: If adding Enchantment-related information, remember to update both this page and the Enchantment's own page.**_
 
 **Enchantments** are powerful upgrades for your [Weapons](Weapons.md) & [Equipment](Equipment.md).
 
@@ -186,12 +186,10 @@ _Chill for foes. Applies Bottom Freeze once enough stacks have been applied._
 
 **Effect:**
 
-M1s apply a second instance of Frostdraw damage that deals 4% of the attack that procced it. Additionally, apply Crystals on M1 if you have the Crystallization path.  
+M1s apply a second instance of Frostdraw damage that deals 4% of the scaled damage of attack that procced it. Alternatively, apply Crystals on M1 if you have the Crystallization path.  
 After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply [Bottom Freeze](Status_Effects.md#bottom-freeze) and [Chill](Status_Effects.md#chill) for 2 seconds. This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 5 second cooldown.
 
-Chilling's damage does not benefit from damage modifiers, and the damage the proc deals is based on your attack's damage before modifiers.
-
-Chilling stacks can also be gained from critical attacks if they have the M1 tag.
+Chilling's damage does not benefit from damage modifiers. Chilling stacks can also be gained from critical attacks if they have the M1 tag.
 
 **Obtainment:**
 
@@ -1956,7 +1954,7 @@ Your weapon's base damage is tied to your current [Notes](Notes.md).
 
 While at 0 Notes, lose 15% of your weapon's base damage. If your Notes are above 0, increase your weapon's base damage instead, capping at +15% base damage with 15k Notes.
 
-Upon taking damage from a player, lose 100 Notes. Upon dealing damage to a player, steal 50 of your opponent's Notes. Both of these effects are signified by a coin splash sound effect.
+Upon taking damage from a player, lose 100 Notes. Upon dealing damage to a player, steal 50 of their Notes. Both of these effects are signified by a coin splash sound effect.
 
 **Obtainment:**
 

@@ -1,11 +1,11 @@
 ---
 title: Deepdelver Myra
-revid: 191394
+revid: 193983
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress with reason, InProgressPages, NPCs, NPCs located in the First Layer, Deepdelvers]
+categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Pages with broken file links, Articles needing images, NPCs, NPCs located in the First Layer, Deepdelvers]
 notices:
-  - This page is currently being worked on. Unique Face Image Missing
+  - This article would benefit from the addition of one or more new images. Unique Face Image Missing
 ---
 
 # Deepdelver Myra
@@ -28,7 +28,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Deepdelver Myra is a [Tiran](Tiran.md) NPC who is hesitant about her scheduled expedition into the [Second Layer](Second_Layer.md).
+Deepdelver Myra is a [Tiran](Tiran.md) NPC. She is a [Deepdelver](Deepdelver.md) of [The Ignition Union](The_Ignition_Union.md).
+
+Myra has an upcoming scheduled expedition into the [Second Layer](Second_Layer.md), but is rather hesitant about the affair, as the previous expedition had not gone as planned.
 
 ## Location
 

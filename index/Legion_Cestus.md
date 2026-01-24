@@ -1,6 +1,6 @@
 ---
 title: Legion Cestus
-revid: 193804
+revid: 193990
 source: https://deepwoken.fandom.com/wiki/Legion_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Weapons with Talents]
@@ -42,7 +42,7 @@ categories: [Weapons, Fists, Light Weapons, Weapons with Talents]
 
 Equipping the Legion Cestus grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Static Beatdown** increases the duration of shaky block that you apply, based on your Thundercall investment. Gains +0.004s of shaky block for every 1 attribute point invested into Thundercall. At 100 Thundercall, apply 1 second of shaky block to players with 1x or slower swing speed weapons.
+**Static Beatdown** increases the duration of shaky block that you apply, based on your Thundercall investment. Gains +0.004s of shaky block for every 1 attribute point invested into Thundercall. At 100 Thundercall, apply an additional +0.4s of shaky block.
 
 ## Trivia
 

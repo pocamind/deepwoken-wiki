@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 191349
+revid: 194019
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -24,11 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Captain Trist is an [Adret](Adret.md) NPC. He hands out missions for [Authority Ensigns](Authority_Ensign.md) to rank up.
+Captain Trist is an [Adret](Adret.md) NPC. He is an officer of [The Central Authority](The_Central_Authority.md) who assigns missions to [Authority Ensigns](Authority_Ensign.md) that allow them to rank up.
 
-## Missions
-
-Missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md). For more information on specific Missions as well as the Mission completion lootpool, view the [Authority Ensign](Authority_Ensign.md#progression) page.
+These missions are timed objectives that vary in difficulty depending on the objective. When taking a Mission, you and your squad will be teleported to [Port Merit](Port_Merit.md). For more information on specific Missions as well as the Mission completion lootpool, view the [Authority Ensign](Authority_Ensign.md#progression) page.
 
 1.  **Armanent Sabotage** - _Destroy the legion stockpiles, bait patrols away at \[Location\]._
     -   Objective: The player and their squad are tasked with destroying several cargo barrels at a [Legion](The_Hundred_Legions.md) encampment. The barrels can be destroyed by hitting them three times, and the encampment is guarded by 7 [Legion Soldiers](Legion_Soldier.md) and a [Legion Captain](Legion_Captain.md).
