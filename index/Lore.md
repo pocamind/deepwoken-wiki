@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 194073
+revid: 194094
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -278,7 +278,11 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do whatever they please to them, most likely to ensure they can keep their contract.[\[4\]](#cite-note-arch-4)
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
 
-  
+### Lord Guardian Ji'ang
+
+-   Mentioned by [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md).
+-   Presumably the previous leader of the Vigils, before Alkhurst Legato.
+-   Said to have led a peaceful, but uneventful reign.
 
 ### The Dreadstar
 

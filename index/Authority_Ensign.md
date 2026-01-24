@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 193916
+revid: 194098
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -130,8 +130,6 @@ Even if you aren't in a Squad, other players may be assigned to the same Mission
         -   The enemies seem to be bugged, as they will spawn without aggroing onto the banners.
 
 ### Mission Lootpool
-
-This list may be incomplete.
 
 <table>
 <tbody>
@@ -438,7 +436,7 @@ Inquisition Division
 -   Deals 6% of your opponent's maximum health as damage.
 -   Deals 6 posture damage.
 -   Applies an extended hitstun, preventing the usage of all forms of attack, many Tools, jumping, eating food items, sliding, dodging, and certain Talent Tools for 2.5 seconds.
--   The poison's effect is unknown.
+-   Applies a poison for 8 seconds that increases the [Shaky Block](Combat_Mechanics.md#posture) duration of your opponent by 20%. Having the [Inquisition Light](Inquisition_Light.md) Outfit equipped will double the duration of this poison.
 -   Grants iframes to the caster and the person hit during its animation.
 -   Can be buffed through damage modifiers despite dealing percentage based damage.
 

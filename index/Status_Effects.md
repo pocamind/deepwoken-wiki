@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 193749
+revid: 194096
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -398,7 +398,7 @@ Applied through the [Glorious Charge](Authority_Ensign.md#glorious-charge) Mantr
 
 ### Poison
 
-This effect is applied through the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This effect is similar to an extended hitstun, disabling most actions for 2.5 seconds. Signified by green spirals on your character's body.
+This effect is applied through the [Hidden Blade](Authority_Ensign.md#hidden-blade) Mantra. This effect increases the [Shaky Block](Combat_Mechanics.md#posture) duration of your opponent by 20% for 8 seconds. The [Inquisition Light](Inquisition_Light.md) Outfit doubles the duration of this effect. Signified by green spirals on your character's body.
 
 ### Rallied
 

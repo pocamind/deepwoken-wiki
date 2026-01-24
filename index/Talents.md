@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 194085
+revid: 194089
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -137,7 +137,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
         -   This is a considerable downside to Frostdraw users, as there is no upside to this effect, it is **not recommended**.
     -   Prerequisites: 10 Agility, 10 Strength
--   The Parkas equipment (all variants) has this talent.
+    -   The Parkas equipment (all variants) have this Talent.
 
 -   Time To Go \[Common Talent, Agility\] - Taking a life grants a speed boost for 10 seconds. Taking a player's life doubles the speed boost and the duration. (+1 Passive Agility)
     -   Approximate ~35% speed bonus.
@@ -188,7 +188,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   For [Warlock's Mantle](<Warlock's_Mantle.md>), you will gain a 5.625% damage buff at 5 Intelligence; for [Khan](Khan.md) with this equipment, you will gain a 5.25% damage buff at 2 Intelligence or a 5% damage buff at 0 Intelligence.
     -   The damage buff applies the moment you reach 100% Ether, despite what the Talent description says.
     -   Prerequisite: 40 Intelligence
-        -   The arms equipment "[Warlock's Mantle](<Warlock's_Mantle.md>)" has this Talent.
+    -   The [Warlock's Mantle](<Warlock's_Mantle.md>) equipment has this Talent.
 
 -   _Perfect Flash_ \[Rare Talent, Intelligence\] - Having over 95% health causes your mantras to do +25% damage. This damage bonus will scale down to 10% if your enemies are far away.
     -   Poser's ring won't count towards the health threshold until sheathed, maintaining the bonus even after being "damaged".
@@ -279,7 +279,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
     -   Halve the speed penalty tied to lost health.
     -   Prerequisites: 25 Agility, 25 Fortitude
-    -   The leg equipment "[Mercenary's Boots](<Mercenary's_Boots.md>)" has this Talent.
+    -   The [Mercenary's Boots](<Mercenary's_Boots.md>) equipment has this Talent.
 
 -   Scaredy Cat \[Common Talent, Agility\] - When enemies initiate a fight first, gain a speed boost. (+2 Passive Agility)
     -   The enemy must not be in combat to trigger this effect.
@@ -410,7 +410,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Leaves red cloud particles similar to the Talent "All the Dead Gods" on targets hit.
     -   This anti-heal won't stack with any other anti-heal, the higher potency effect will take priority.
     -   Prerequisite: 35 Agility
-        -   The head equipment "[Assassin's Hood](<Assassin's_Hood.md>)" has this Talent.
+    -   The [Assassin's Hood](<Assassin's_Hood.md>) equipment has this Talent.
 
 -   Lights Out \[Common Talent, Agility\] - Assassinations now give you 30% PEN and blind the target for 5s. Those you carry are now blindfolded. (+1 Passive Agility)
     -   Targets being carried will have the "Blinded" Talent's visual effect, however they can still see names of players, their general surroundings, and their map if they open it.
@@ -423,8 +423,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Physically adds to the users stealth stat while crouching.
     -   Very strong synergy with "Murmur: Tacet", as it requires the user to crouch.
     -   Prerequisite: 20 Agility
-        -   The [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), and [Steel Plate](Steel_Plate.md) Outfits have this Talent.
-        -   The [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants) and [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md) equipment have this Talent.
+    -   The following Outfits and equipment items have this Talent: [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), [Steel Plate](Steel_Plate.md), [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants), and [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md).
 
 -   Unseen Threat \[Common Talent, Agility\] - You can assassinate those with weapons out provided you're not in combat yourself. Those you assassinate are slowed and unable to jump for 3s.
     -   Being in combat and having your weapon selected normally gives immunity to assassinations. This Talent bypasses this immunity.
@@ -444,7 +443,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   **Only** Thundercall Mantras build up stacks for this. Thunder damage from any other source will not build up stacks.
     -   Each stack lasts for 5 seconds. If another stack is not applied within that timeframe, the stack is reset, and you'll need 5 more stacks to activate this Talent.
     -   Electrified, when procced, lasts for 4 seconds.
-    -   The visual effect for this talent is currently bugged, and isn't visible.
+    -   The visual effect for this Talent is currently bugged.
     -   Prerequisite: 65 Thundercall
 
 -   First Interrogation \[Common Talent, Thundercall\] - Attacks from opponents who are Electrified will give you ether proportional to their initial damage.
@@ -474,12 +473,12 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Battle Tendency \[Common Talent, Fortitude, Willpower\] - You can breathe more easily with +20% faster posture regen. (+2 Posture, +10 Sanity)
     -   In combat, by not running/blocking regenerate posture passively, Battle Tendency increases this regen by +20%.
     -   Prerequisites: 15 Fortitude, 15 Willpower
--   The [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) equipment has this talent.
+    -   The [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) equipment has this talent.
 
 -   Braced Collapse \[Common Talent, Fortitude\] - After being block broken, the next attack to hit you deals reduced damage.
     -   After being block broken, reduce the next instance of damage by 20%. This has no cooldown.
     -   Prerequisite: 25 Fortitude
-        -   The [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>). [Delver's Duster](<Delver's_Duster.md>) and [Providence Coat](Providence_Coat.md) equipment have this Talent.
+    -   The [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>), [Delver's Duster](<Delver's_Duster.md>), and [Providence Coat](Providence_Coat.md) equipment have this Talent.
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
     -   Increases your movement speed while blocking by 5%, from -25% movement speed to -20%.
@@ -488,7 +487,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdolled) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
     -   This can stack with other Talents to reduce knock time even further. (Ex. Defiance)
     -   Prerequisites: 30 Fortitude, 30 Willpower
-        -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" outfit has this Talent.
+    -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
 
 -   _**Reinforced Armor**_ \[Advanced Talent, Willpower\] - Incoming PEN is reduced by 30%.
     -   The effects of Reinforced Armor are lessened if you do not meet the Talent's requirements, losing 0.8% PEN resistance per point below 90 Fortitude, capping at 10% PEN resistance at 65 Fortitude.
@@ -497,7 +496,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   For example, 50% PEN vs 30% Reinforced Armor and 50% physical armor:
             -   Base: 50% PEN vs 50% physical armor; 50 \* (1 - 0.5) = 25% resistance after PEN.
             -   Reinforced Armor: 50% PEN vs 30% RA; 50 \* (1 - 0.3) = 35% PEN. 35% PEN vs 50% physical armor = 50 \* (1 - 0.35) = 32.5% resistance after PEN.
-    -   Prerequisites: 90 Fortitude, All common Bastion Talents
+    -   Prerequisites: 90 Fortitude, All Bastion Talents
 
 ### Battle Readiness
 
@@ -847,7 +846,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   Large enemies cannot be grabbed by grab mantras
     -   Prerequisite: 30 Willpower
     -   This was merged with the old Giantslayer Talent.
--   The [Dark Owl Chapeau](Dark_Owl_Chapeau.md) equipment has this talent.
+    -   The [Dark Owl Chapeau](Dark_Owl_Chapeau.md) equipment has this Talent.
 
 ### Charm Caster
 
@@ -1180,7 +1179,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Concussive Force \[Common Talent, Strength\] - Enemies you knocked remain downed longer than usual. (+9 Carry Load)
     -   Enemies remain knocked for 15 seconds instead of 10.
     -   Prerequisite: 15 Strength
-    -   The head equipment "[Blackleaf Helm](Blackleaf_Helm.md)" and "[Gladiator Helm](Gladiator_Helm.md)" have this Talent.
+    -   The [Blackleaf Helm](Blackleaf_Helm.md) and [Gladiator Helm](Gladiator_Helm.md) equipment have this Talent.
 
 -   Precise Swing \[Common Talent, Strength, Agility\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
     -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
@@ -1189,7 +1188,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Because this status effect is applied to yourself and not your opponent, you can land your critical on person A and then hit person B's block and still apply the chip damage.
     -   Precise Swing is additive with weapon chip, and having above 100% chip causes you to deal more damage.
     -   Prerequisites: 25 Strength, 15 Agility
-    -   The head equipment "[Phalanx Helmet](Phalanx_Helmet.md)" has this Talent.
+    -   The [Phalanx Helmet](Phalanx_Helmet.md) equipment has this Talent.
 
 -   _Spine Cutter_ \[Rare Talent, Strength, Agility\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
@@ -1203,11 +1202,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Strong Hold \[Common Talent, Strength, Medium Weapon\] - Medium Weapons When above 33% health and two-handing, posture damage taken is reduced by 5%. (+9 Carry Load, +1 Passive Agility)
     -   Prerequisites: 30 Strength, 30 Medium Weapon
-    -   The head equipments "[Authority Helm](Authority_Helm.md)" and "[Bulwark Helm](Grand_Authority_Sallet.md)" have this Talent.
+    -   The [Authority Helm](Authority_Helm.md) and [Bulwark Helm](Grand_Authority_Sallet.md) equipment have this Talent.
 
 -   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are [Dazed](Status_Effects.md#dazed) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well. (+9 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
-    -   The "[Ignition Trailblazer](Ignition_Trailblazer.md)" Outfit has this Talent.
+    -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
 
 -   _Tap Dancer_ \[Rare Talent, Agility\] - Rolling immediately after a roll-cancel no longer puts your roll on a longer cooldown. (+1 Passive Agility)
     -   Negate the extra half a second cooldown added to the roll following a roll-cancel.
@@ -1246,7 +1245,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   The Canor Aspect's innate Talent has a similar effect and they can stack, totaling to 48% damage reduction.
     -   Guildmates, your Roblox friends, people who are in a Vow of Mastery, or people who are in a Vow of Allegiance with you take less damage from you and deal less damage to you.
     -   Prerequisites: 35 Charisma
-    -   The head equipment "[Investigator's Hat](<Investigator's_Hat.md>)" and "[Tophat](Tophat.md)" have this Talent.
+    -   The [Investigator's Hat](<Investigator's_Hat.md>) and [Tophat](Tophat.md) equipment have this Talent.
 
 -   Off Your Game \[Common Talent, Charisma\] - You now slow Taunted enemies when you hit them.
     -   Prerequisites: 90 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
@@ -1257,7 +1256,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Item loss on death is reduced from 50% to 25%.
     -   You no longer lose notes from dying.
     -   Prerequisites: None
-    -   The "[Pathfinder's Backpack](<Pathfinder's_Backpack.md>)" and "[Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>)" Equipment have this Talent.
+    -   The \[Pathfinder's Backpack\]\] and \[Grand Pathfinder's Backpack\]\] equipment have this Talent.
 
 ### Ether Conduit
 
@@ -1272,8 +1271,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Inspiration Stacks do not decay, even if you whiff Mantras entirely.
     -   Prerequisite: 30 Intelligence
     -   This Talent was merged with the old Ether Conduit Talent.
-    -   Damage increase currently bugged.
--   The [Ministry Operative Cloak](Ministry_Operative_Cloak.md) equipment has this talent.
+    -   The [Ministry Operative Cloak](Ministry_Operative_Cloak.md) equipment has this Talent.
 
 -   Mantra Permanence \[Common Talent, Intelligence\] - Knocking an enemy with a mantra refunds the cost of the mantra.
     -   Prerequisite: 20 Intelligence
@@ -1356,7 +1354,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _Landshark_ \[Quest Talent\] - Killing a megalodaunt will grant lifesteal on your attacks for 30 seconds.
     -   The lifesteal does not work in PvP.
-    -   Prerequisite: Complete [Arthur](Arthur.md)'s quest
 
 ### Fang and Coil
 
@@ -1394,7 +1391,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
     -   Stacks with Alloyblood.
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
--   The [Bloodforged Crown](Bloodforged_Crown.md) equipment has this talent.
+    -   The [Bloodforged Crown](Bloodforged_Crown.md) equipment has this Talent.
 
 -   _Warding Radiance_ \[Rare Talent, Flamecharm, Agility\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
     -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
@@ -1469,7 +1466,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Frost Forger
 
--   Glacial Mobility \[Common Talent, Frostdraw, Agility\] - Cast while slide-jumping to perform a running attack with your ice sabers.
+-   Glacial Mobility \[Common Talent, Agility, Frostdraw\] - Cast while slide-jumping to perform a running attack with your ice sabers.
     -   The Talent activates **after** you've slide jumped, and not during the slide jump, contrary to the Talent description.
     -   Prerequisites: [Ice Blade](Frostdraw.md#ice-blade) (Mantra), 20 Frostdraw, 20 Agility
 
@@ -1663,10 +1660,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
         -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
 
--   _**Prime Ether Bullets**_ \[Advanced Talent, Light Weapon, Intelligence\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
+-   _**Prime Ether Bullets**_ \[Advanced Talent, Intelligence, Light Weapon\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
-    -   Adds 1.2 Intelligence scaling to your Pistols.
-        -   The Intelligence scaling stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
+    -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Using a Pistol
 
 -   Quick Draw \[Common Talent, Light Weapon\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
@@ -1760,7 +1756,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   If you have less than 100 Willpower, your character has a chance to yell out in agony upon taking damage. This is purely visual.
         -   These include: "HEEAAAAUUUUURRGHHH!!", "HEEAAAARRGH!!", "OHHHHH GODS THE AGONY!!", "YEAARURUGHH!!", "UUUURURGHHH!!", and "SWEET MEEEEEERRRRRCCCCCYYYY!!". Quite dramatic.
     -   Prerequisites: 20 Fortitude, 100 Willpower
-        -   The [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>) Outfits also have this Talent.
+    -   The [Trickster's Habit](<Trickster's_Habit.md>) and [Jester's Garb](<Jester's_Garb.md>) Outfits have this Talent.
 
 ### Hunter
 
@@ -2193,7 +2189,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Hoplite \[Common Talent, Fortitude\] - Posture damage is reduced by 15% when wielding a spear and standing still. (+2 Passive Agility)
     -   Prerequisites: 15 Fortitude, Using a spear
--   The [Legion Phalanx Plate](Legion_Phalanx_Plate.md) equipment has this talent.
+    -   The [Legion Phalanx Plate](Legion_Phalanx_Plate.md) equipment has this Talent.
 
 ### Lava Serpent
 
@@ -2289,7 +2285,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Players with this Talent will shout "THINK YOU'VE SEEN THE LAST OF ME" when gripped, which slows down the grip attempt.
     -   Stacks with Last Second Negotiations (with both a grip takes about 6.5 seconds).
     -   Prerequisite: 20 Willpower
-    -   The [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) equipment has this talent.
+    -   The [Ironsinger Heavy Plate](Ironsinger_Heavy_Plate.md) equipment has this Talent.
 
 -   Last Resort \[Common Talent, Willpower\] - Deal +5% more damage when your health is below 25%. (+10 Sanity)
     -   Red particles appear around your shoulders while the Talent is active.
@@ -2388,13 +2384,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   You do not regen sanity when something is actively draining it, like being in The Depths.
     -   Increases passive sanity regeneration at day time 0.25>0.375 sanity per second (0.05>0.075 during night time), Campfire sanity regen 0.5>0.75 sanity per second.
     -   Prerequisite: 5 Willpower
--   The [Celtor Commander Plate](Celtor_Commander_Plate.md) and [Pathfinder Lantern](Pathfinder_Lantern.md) equipment have this talent.
+    -   The [Celtor Commander Plate](Celtor_Commander_Plate.md) and [Pathfinder Lantern](Pathfinder_Lantern.md) equipment have this Talent.
 
 -   Conquer your Fears \[Common Talent, Willpower\] - Killing the beings of the deep replenishes your sanity somewhat. When an Ally grips an enemy nearby to you, you regain Sanity. (+3 Sanity)
     -   Recover sanity when killing monsters in The Depths, the amount depending on how strong the monster is.
     -   You regain Sanity when Allies grip a humanoid near you (either a player or a mob).
     -   Prerequisites: 10 Willpower, Breathing Exercise
--   The [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment has this talent.
+    -   The [Diver's Light Plate](<Diver's_Light_Plate.md>) equipment has this Talent.
 
 -   Disbelief \[Common Talent, Willpower\] - You're resistant to the effects of Illusion magic. You are resistant to charms and tricks. (+5 Sanity)
     -   Halves the duration of the Charmed status effect and Illusionary Servant casted against you.
@@ -2407,7 +2403,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   Chaotic Charm, [Fadetrimmer's Charming Spray](Oath%253A_Fadetrimmer.md#hair-spray): 15s -> 7.5s
         -   Lasting Charisma (at reqs): 20s -> 10s
     -   Prerequisite: 25 Willpower
--   The [Dark Owl Cloak](Dark_Owl_Cloak.md) equipment has this talent.
+    -   The [Dark Owl Cloak](Dark_Owl_Cloak.md) equipment has this Talent.
 
 ### Merchant
 
@@ -2539,7 +2535,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Lightweight \[Common Talent\] - Move faster when your armor runs out of durability. (+3 Passive Agility)
     -   When your Armor is at 0% or if you are wearing the [Stranded](Stranded.md) outfit, movement speed is increased by 25%.
     -   This is a mobility buff, NOT a speed boost.
-    -   The [Bounty Hunter](Bounty_Hunter.md) and [Corsair Outlaw](Corsair_Outlaw.md) outfits and [Glassdancer Wraps](Glassdancer_Wraps.md) equipment have this talent.
+    -   The [Bounty Hunter](Bounty_Hunter.md) and [Corsair Outlaw](Corsair_Outlaw.md) Outfits and [Glassdancer Wraps](Glassdancer_Wraps.md) equipment have this Talent.
 
 -   Padded Armor \[Common Talent\] - While your armor is broken (or if you have no armor), you take 5% less damage. (+3% Blunt Armor)
     -   Prerequisite: [Power](Power.md) 8
@@ -2779,7 +2775,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Unwavering Resolve \[Common Talent, Strength\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
     -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.
     -   Prerequisite: 40 Strength
--   The [Adjudicator's Coat](<Adjudicator's_Coat.md>) equipment has this talent.
+    -   The [Adjudicator's Coat](<Adjudicator's_Coat.md>) equipment has this Talent.
 
 -   _**Million Ton Piercer**_ \[Advanced Talent, Strength\] - Gain 5% extra PEN and remove the cap on your PEN. Go beyond your limits.
     -   The additional 5% PEN scales with your Strength, only granting the full +5% PEN at 90 Strength.
@@ -3168,12 +3164,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Repairing restores 25% more HP to the boat when it's below 25% HP.
     -   Your repairs scale with the health of the ship by \[needs testing\].
     -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 11 times.
-        -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
+    -   The [Brigand's Bicorn](<Brigand's_Bicorn.md>) equipment has this Talent.
 
 -   _Spare Nails_ \[Quest Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
     -   Repairing restores 400 HP instead of 250 HP.
     -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
-        -   The head equipment "[Brigand's Bicorn](<Brigand's_Bicorn.md>)" has this Talent.
+    -   The [Brigand's Bicorn](<Brigand's_Bicorn.md>) equipment has this Talent.
 
 ### Shock Therapy
 
@@ -3442,7 +3438,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Grasp on Reality \[Common Talent, Fortitude, Willpower\] - Damage taken from insanity is reduced.
     -   Reduce damage taken from the Tier 2 insanity effect, Scratching.
     -   Prerequisites: 25 Fortitude, 5 Willpower
-    -   The head equipment "[Celtor Commander Helm](Celtor_Commander_Helm.md)" has this Talent.
+    -   The [Celtor Commander Helm](Celtor_Commander_Helm.md) equipment has this Talent.
 
 -   Magical Resolve \[Common Talent, Willpower\] - Being hit increases [Ether](Ether.md) regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
     -   Prerequisites: 40 Willpower, Battle Tendency
@@ -3463,7 +3459,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Iron Gut \[Common Talent, Fortitude, Willpower\] - You have resistance against being poisoned by foods.
     -   Does not work when eating [Pufferfish](Pufferfish.md) (gamebreaking).
     -   Prerequisites: 20 Fortitude or 20 Willpower, vomit once
-    -   The head equipment "[Herbalist's Hat](<Herbalist's_Hat.md>)" and "[Big Herbalist's Hat](<Big_Herbalist's_Hat.md>)" have this Talent.
+    -   The [Herbalist's Hat](<Herbalist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) equipment have this Talent.
 
 -   Termite \[Common Talent, Unlockable Talent, Fortitude, Willpower\] - You can eat things most would consider inedible. (+3 Health)
     -   Allows user to eat [Sticks](Stick.md), [Bamboo](Bamboo_Bundle.md), [Beeswax](Beeswax.md), [Coral](Alestrian_Coral.md), [Spider Eggs](Spider_Egg.md), all [Lotuses](Primordial_Lotuses.md), and every [Ore](Ores.md).
@@ -3505,7 +3501,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Steals 40% of the Tempo used.
     -   Every point in Intelligence below 50 will reduce the Tempo steal by 0.66%, capping at a minimum of 23.33% of the Tempo absorbed with 25 Intelligence.
     -   Prerequisite: 50 Intelligence
-    -   The "[Veteran Adventurer](Veteran_Adventurer.md)" Outfit has this Talent.
+    -   The [Veteran Adventurer](Veteran_Adventurer.md) Outfit has this Talent.
 
 -   Hard Read \[Common Talent, Intelligence\] - Hitting your opponent during a feint will cause them to be [Dazed](Status_Effects.md#dazed).
     -   Applies daze for 1 second.
@@ -3620,7 +3616,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Using Cap artist in the depths makes you have normal gravity.
     -   **Disabled with Brick Wall.**
     -   Prerequisites: 25 Agility, 5 Charisma
--   The [Tillian's Beret](<Tillian's_Beret.md>) equipment has this talent.
+    -   The [Tillian's Beret](<Tillian's_Beret.md>) equipment has this Talent.
 
 -   Pickpocket \[Common Talent, Agility, Charisma\] - Gain the ability to pickpocket by pressing N. Deal a little more damage the more notes you have against PvE opponents as well. (+2 Passive Agility)
     -   The target needs to be Unconscious to be pickpocket-able.
@@ -4082,9 +4078,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Brassneck \[Common Talent, Strength, Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
-    -   This Talent was previously named "Berserker."
     -   Prerequisites: 35 Fortitude, 30 Strength
--   The [Enforcer Plate](Enforcer_Plate.md) equipment has this Talent, although it does not work due to the renaming from Berserker to Brassneck.
+    -   This Talent was previously named "Berserker."
 
 -   _Careful Handling_ \[Quest Talent\] - Reduce your chances of dropping ingredients on death.
     -   Prerequisite: Complete [Suri](Suri.md)'s quest
@@ -4098,11 +4093,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
     -   Prerequisite: [Power](Power.md) 5
-        -   The head equipment "[Chef's Toque](<Chef's_Toque.md>)" has this Talent.
+    -   The [Chef's Toque](<Chef's_Toque.md>) equipment has this Talent.
 
 -   Heavy Haul \[Common Talent, Strength\] - Enemies who carry you move significantly slower. Take slightly less posture damage from large enemies. Takes one to know one.
     -   Prerequisite: 15 Strength
-    -   The [Grand Authority Plate](Grand_Authority_Plate.md) equipment has this talent.
+    -   The [Grand Authority Plate](Grand_Authority_Plate.md) equipment has this Talent.
 
 -   Martyr \[Common Talent\] - When you're knocked [Unconscious](Status_Effects.md#unconscious), enemies gain less health and posture, and allies around you are granted [Martyrdom](Status_Effects.md#martyrdom) for 20s
     -   Martyrdom grants +20% damage and damage reduction for 20 seconds.
@@ -4121,11 +4116,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: "Ploom's Embers" Quest in [Etris](Etris.md) with 40 Flamecharm **OR** 50 Charisma **OR** by completing quest requirements.
 
 -   Polite Awakening \[Common Talent\] - Recover 15% of your max health after getting up from being downed. (Only Procs when below 20% HP) (+1 Passive Agility)
-    -   The [Khan Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) have this talent.
+    -   The [Khan Pauldrons](Legion_Pauldrons.md) and [Woodland Pauldrons](Woodland_Pauldrons.md) equipment have this Talent.
 
 -   Ready or Not \[Common Talent, Fortitude\] - The first attack to hit you while out of combat has its damage cut in half.
     -   Prerequisite: 20 Fortitude
-    -   The [Royal Pathfinder](Royal_Pathfinder.md) equipment has this talent.
+    -   The [Royal Pathfinder](Royal_Pathfinder.md) equipment has this Talent.
 
 -   Replenishing Knockout \[Common Talent\] - You gain more health and posture from downing enemies.
     -   Knocking enemies will replenish 1.5x more of your health and posture (50% -> 75%).

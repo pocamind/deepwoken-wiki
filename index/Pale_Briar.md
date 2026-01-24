@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 194088
+revid: 194099
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations]
@@ -19,7 +19,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | range | 10 Sweep |
 | swing speed | 0.81x |
 | attack duration | 0.9s |
-| endlag | 0.1s |
+| endlag | 0.15s |
 | penetration | 25% |
 | chip damage | 10% |
 | m.equip | No |

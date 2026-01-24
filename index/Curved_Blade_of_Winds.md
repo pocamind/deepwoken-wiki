@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 182317
+revid: 194097
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -72,6 +72,8 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   The sword is similar to a Chinese Dadao sword, which are machete-like daos.
     -   The [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) is also fashioned after one.
     -   The original model of the Curved Blade of Wind closely resembled the Windshear from The Elder Scrolls V: Skyrim.
+-   This is one of the most widely recognized weapons in deepwoken, even extending to real life blacksmithing!
+    -   [Forging the Curved Blade of Winds from Deepwoken! Roblox](https://youtu.be/MFUmEsBYf9E?si=JeNeFasI0o-CkMUy) (yt video)
 -   The original updated Curved Blade of Winds contained an absurd 120k vertices. Following the March 27th, 2023 update, this was reduced to a mere 7k vertices.
 -   The Curved Blade of Winds has features two sets of lines written in runes that run alongside the blade's markings.
 -   As the weapon is a dual wield, you are unable to utilize a Shield or Off-Hand gun.
