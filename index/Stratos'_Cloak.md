@@ -1,6 +1,6 @@
 ---
 title: "Stratos' Cloak"
-revid: 194057
+revid: 194113
 source: https://deepwoken.fandom.com/wiki/Stratos'_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
@@ -43,7 +43,7 @@ This Outfit has 2200 durability and grants +20% Physical resistance, +30% Elemen
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 20% Physical, 47.5% Shadowcast, 30% Elemental.
 
-The [Breeze](Talents.md#breeze) Talent grants a permanent +2 studs/s movement speed increase. The player naturally moves at 16 studs/s, making this equivalent to a permanent 12.5% boost in movement speed.
+The [Breeze](Talents.md#breeze) Talent grants a permanent +2 studs/s movement speed increase. The player naturally moves at 16 studs/s, making this equivalent to a permanent 12.5% boost in movement speed. Due to increasing your base speed, this also has the side effect of making all other speed boosts more effective. The movement increase is classified as a **mobility buff**, meaning it will **NOT proc Speed Demon** or other talents.
 
 ## Trivia
 
