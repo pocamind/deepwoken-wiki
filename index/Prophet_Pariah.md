@@ -1,8 +1,9 @@
 ---
 title: Prophet Pariah
-revid: 194072
+revid: 194124
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Deceased characters]
 ---
 
 # Prophet Pariah
@@ -14,8 +15,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 “ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed. ”
 
 ― Moonseye tome on the first usage
-
-  
 
 ## Description
 

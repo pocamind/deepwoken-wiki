@@ -1,6 +1,6 @@
 ---
 title: Chest Master
-revid: 191364
+revid: 194115
 source: https://deepwoken.fandom.com/wiki/Chest_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Mechanics]
@@ -29,6 +29,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 Chest Masters are [Felinor](Felinor.md) NPCs. They are highly skilled in lockpicking and are also appraisers, being the only way to access treasure inside of chests inside of the [Vow of Iron](Vow_of_Iron.md) game mode.
+
+In pathfinder mode, if you manage to get to the bugged [Floating Keep](The_Floating_Keep.md) outside of a seasonal event, then a Chest Master will take the place of [Lysander Spellhardt](Lysander_Spellhardt.md) inside the castle.
 
 ## Dialogue
 
