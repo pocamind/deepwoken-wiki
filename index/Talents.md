@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 194089
+revid: 194132
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -5133,7 +5133,7 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 -   Steampunk Soldier \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Increase the size of your steam which you activate Flashboil. Flashboil's cooldown is also reduced.
     
-    -   Prerequisite: [Steampunk Soldier](Steampunk_Soldier.md) Mememnto
+    -   Prerequisite: [Steampunk Soldier](Steampunk_Soldier.md) Memento
 
 ### Steelvessel
 

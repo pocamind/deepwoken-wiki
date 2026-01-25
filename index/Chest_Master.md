@@ -1,6 +1,6 @@
 ---
 title: Chest Master
-revid: 194115
+revid: 194174
 source: https://deepwoken.fandom.com/wiki/Chest_Master
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Mechanics]
@@ -13,10 +13,10 @@ notices:
 
 | Chest Master | |
 |---|---|
-| name | Catthew, Furnando, Pauline, Pawbrey, Purrnard, Purrseus |
+| name | Furnando, Catthew, Tabbytha, Purrsephone, Purrseus, Clawdia, Pawbrey, Meowritius |
 | aspect | Felinor |
 | location | ? |
-| affiliation | Chest Masters |
+| affiliation | Chest Masters' Guild |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

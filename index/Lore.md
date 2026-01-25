@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 194117
+revid: 194173
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -282,8 +282,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 **Lore Sources:** _Etris Palace (VoI Description), [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) (Dialogue)_
 
--   Mentioned by [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md).
--   Used to reside in Etris Palace, presumably ruling over Etrea before Zi'eer's takeover.
+-   Used to reside in Etris Palace, ruling over Etrea before Zi'eer's takeover.
 -   Said to have led a peaceful, but uneventful reign.
 
 ### The Dreadstar

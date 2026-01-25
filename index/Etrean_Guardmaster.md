@@ -1,6 +1,6 @@
 ---
 title: Etrean Guardmaster
-revid: 191421
+revid: 194133
 source: https://deepwoken.fandom.com/wiki/Etrean_Guardmaster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, NPCs, NPCs located in the Eastern Luminant, Etrea, Individuals with unspecified pronouns]
@@ -43,7 +43,7 @@ Etrean Guardsmaster is located around [Port Merit](Port_Merit.md), on a [Dinghy]
 </tr>
 <tr>
   <td>[End Dialogue], Player's handcuffs are removed</td>
-  <td>[End Dialogue], Player gains <a href="Etrea.md">Etrea</a> Reputation and loses <a href="The_Central_Authority.md">Authority</a> Reputation. Additionally, a chest is spawned</td>
+  <td>[End Dialogue], Player gains <a href="Etrea.md">Etrea</a> Reputation and loses <a href="The_Central_Authority.md">Central Authority</a> Reputation. Additionally, a chest is spawned</td>
   <td>[End Dialogue]</td>
 </tr>
 </tbody>
