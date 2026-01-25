@@ -1,6 +1,6 @@
 ---
 title: Sea Bass
-revid: 192687
+revid: 194218
 source: https://deepwoken.fandom.com/wiki/Sea_Bass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Fishing Exclusive]

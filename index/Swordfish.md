@@ -1,6 +1,6 @@
 ---
 title: Swordfish
-revid: 192688
+revid: 194217
 source: https://deepwoken.fandom.com/wiki/Swordfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Fishing Exclusive]

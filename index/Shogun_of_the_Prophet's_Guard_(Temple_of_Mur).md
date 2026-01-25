@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 192088
+revid: 194206
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -37,7 +37,7 @@ The Shogun of the Prophet's Guard at the [Temple of Mur](Temple_of_Mur.md), form
 
 1.  Recommended but not mandatory: Reach Power 5.
 2.  Make your way to the [Deep Thresher Nest](Deep_Thresher_Nest.md), below the trenches close to where the [Deep Widow](Deep_Widow.md) is and instead of going towards the Widow, go the other direction and enter the [Boundary](Boundary.md).
-3.  Upon loading into the instanced area, walk up to the standing Shogun and they will start fighting you.
+3.  Upon loading into the instanced area, walk up to the standing Shogun and he will start fighting you.
 
 His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined with a [Royal Guard's Kabuto](<Royal_Guard's_Kabuto.md>), an [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md) combined with an [Iron Cestus](Iron_Cestus.md), and [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md).
 
@@ -50,7 +50,7 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 
 (★☆☆)
 
- | The Shogun performs a simple upward slash toward the right with their blade. This has no highlight, and acts as a regular attack.
+ | The Shogun performs a simple upward slash toward the right with his blade. This has no highlight, and acts as a regular attack.
 
  | 
 
@@ -94,7 +94,7 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 
 (★☆☆)
 
- | The Shogun performs a simple slash with their blade. Visually distinct from **High Cleave** by the Blue highlight, indicating that you must either crouch, uppercut or block the attack.
+ | The Shogun performs a simple slash with his blade. Visually distinct from **High Cleave** by the Blue highlight, indicating that you must either crouch, uppercut or block the attack.
 
  | 
 
@@ -139,19 +139,19 @@ It is recommended to enter the [Temple of Mur](Temple_of_Mur.md) [Boundary](Boun
 
 The Shogun has no set attack pattern, and will chain moves together seemingly at random. It will not however use the same attack twice in a row.
 
-You can tell whenever they are attacking or not by the sudden snaps in stance; use this to your advantage to deal or avoid incoming damage.
+You can tell whenever he is are attacking or not by the sudden snaps in stance; use this to your advantage to deal or avoid incoming damage.
 
-Attempting to kite The Shogun and kill them with ranged attacks will prove tedious; they will parry any attack attempted from a distance unless they are in the middle of an attack animation.
+Attempting to kite The Shogun and kill them with ranged attacks will prove tedious; he will will parry any attack attempted from a distance unless they are in the middle of an attack animation.
 
 The Shogun's attacks have deceivingly large hitboxes. If you don't know if you will be hit, it's best to assume you will, and to act accordingly.
 
 The Shogun of the Prophet's Guard has minimal downtime between attacks, chaining them together at great speeds.
 
-The Shogun has 2 attacks with blind spots: Crush & Rend and Severing Flourish can be walked behind after their first hit.
+The Shogun has 2 attacks with blind spots: Crush & Rend and Severing Flourish can be walked behind after his first hit.
 
 If you attempt to parry Low Cleave, you can still crouch under it despite being in lingering block frames, However this is not recommended, as this just puts extra stress on you for almost no upside
 
-**The Shogun can use their ultimate attack more than once. Remember to look out for it at all times once they are below half health.**
+**The Shogun can use his ultimate attack more than once. Remember to look out for it at all times once he is below half health.**
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 194098
+revid: 194205
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -46,7 +46,7 @@ Being in a Squad allows you to take on the Missions as a group and proc certain 
 
 ## Exile
 
-Upon being exiled from the [Central Authority](The_Central_Authority.md), your authority reputation will be immediately set to '**_, and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. Upon being exiled, there is no way to return to the Authority's ranks. There are two ways to be exiled:_**
+Upon being exiled from [the Central Authority](The_Central_Authority.md), your Authority reputation will be immediately set to '**_, and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. Upon being exiled, there is no way to return to the Authority's ranks. There are two ways to be exiled:_**
 
 ### Deserter
 

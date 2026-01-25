@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 193258
+revid: 194220
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -371,7 +371,7 @@ Blunt
 
  | 
 
-35 Strength, Defeated [Titus](Titus_Fulminus_Destellus.md)
+35 Strength, Defeated [Titus](Titus_Fulminus_Destellus.md) (No damage required, only that [Titus](Titus_Fulminus_Destellus.md) is defeated in your server)
 
  |
 | 
