@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 192039
+revid: 194225
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -193,6 +193,7 @@ Upon defeating the Scion, it will drop a large chest at the entrance of his bedc
 -   Lesser [Relics](Relics.md) such as the [Armorer's Needle](<Armorer's_Needle.md>) or the [Spires](Void_Spire.md).
 -   Rarely, [Enchantment Stones](Enchant_Stone.md), various Legendary Weapons like the [Kyrsieger](Kyrsieger.md), or the [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>).
 -   Extremely Rarely, a [Whistling Periapt](Whistling_Periapt.md).
+-   15 Full Trainings on first kill.
 
 ### 
 

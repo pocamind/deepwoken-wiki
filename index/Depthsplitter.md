@@ -1,6 +1,6 @@
 ---
 title: Depthsplitter
-revid: 194150
+revid: 194227
 source: https://deepwoken.fandom.com/wiki/Depthsplitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Twinblades, Weapons with Talents, Medium Weapons]
@@ -41,6 +41,8 @@ Variants: [Scalesplitter](Scalesplitter.md)
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+_Not to be confused with the [Lumensplitter](Lumensplitter.md)._
 
 ## Description
 

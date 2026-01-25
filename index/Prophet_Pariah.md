@@ -1,6 +1,6 @@
 ---
 title: Prophet Pariah
-revid: 194124
+revid: 194231
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deceased characters]
@@ -11,6 +11,7 @@ categories: [Deceased characters]
 | Prophet Pariah | |
 |---|---|
 | alias | Prophet PariahProphet Pariah of the Lullaby Isles |
+| death | Deceased prior to the events of the game |
 
 “ The unending cacophony of voices millionfold assaults your senses, leaving you bereft of thought. They soon trail off, almost ashamed. ”
 
@@ -22,4 +23,6 @@ A lunatic cult leader who originally wrote the [Moonseye Tome](Moonseye_Tome.md)
 
 They lived a short life. In their own beliefs, they believed that in the voidsea existed a so called stairway to [the heavens](The_Heavens.md), with that idea they navigated the voidsea until their presumed death.
 
--   The heavens could be potentially the [Moonseye](Moonseye.md) and not Constellia due to the name 'Moonseye Tome', him being a Prophet of [The Moonlit Faith](The_Moonlit_Faith.md) and the Moonseye in the cover within it.
+## Trivia
+
+-   The heavens could be potentially the [Moonseye](Moonseye.md) and not Constellia due to the name 'Moonseye Tome', them being a Prophet of [The Moonlit Faith](The_Moonlit_Faith.md) and the Moonseye in the cover within it.

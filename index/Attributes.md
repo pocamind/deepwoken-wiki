@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 185847
+revid: 194224
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -95,7 +95,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
 -   Unlocks Intelligence-related [Talents](Talents.md) and [Mantras](Attunement-less.md#intelligence-mantras).
 -   Gain Intelligence EXP via foraging, [Fishing](Fishing.md), [brewing potions](Alchemy.md), opening unread [Books](Books.md), discovering recipes for the first time, certain dialogue choices, discovering new locations for the first time, using either the Math Textbook or the Encyclopedia (this will train your Charisma at the same time), and reading lore books for the first time.
     -   If you are using the Math Textbook, you will have to do a math problem.
--   _**[Unbounded](Attributes_Unbound.md#intelligence-unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat a [Bluecap](Bluecap.md).**_
+-   _**[Unbounded](Attributes_Unbound.md#intelligence-unbound) by completing a puzzle in [The Birdcage](The_Birdcage.md) and then proceeding to eat [Bluecaps](Bluecap.md) until unbounding.**_
 
 ### Willpower (WLL)
 

@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 176635
+revid: 194226
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -81,7 +81,7 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 **Ice Smash**  
 (★★☆)
 
- | Creates a giant mace of to smash opponents with.
+ | Creates a giant mace of ice to smash opponents with.
 
  |
 | 
