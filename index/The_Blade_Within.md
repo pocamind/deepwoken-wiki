@@ -1,6 +1,6 @@
 ---
 title: The Blade Within
-revid: 191658
+revid: 194245
 source: https://deepwoken.fandom.com/wiki/The_Blade_Within
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Dungeons]
@@ -64,7 +64,7 @@ Upon interacting with The Blade Within, the player will start a fight with a ref
   <td colspan="2">Bladeharper, you return once more. Another errant future lays before you, awaiting your challenge. Will you meet it?</td>
 </tr>
 <tr>
-  <td>[Seize your future</td>
+  <td>[Seize your future]</td>
   <td>I'm not ready...</td>
 </tr>
 <tr>

@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 193878
+revid: 194256
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -32,12 +32,12 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Wea
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Moon's Eyrie, Sold in Traan Zakshun's regular shop for 300 , Sold by Nyanna for 300 , Sold by Kujae for 350 (~15% chance), Fort Merit Armory for 145 (Authority Ensign exclusive), The Depths, Chaser, War Mode, Heart of Enmity, The Doom of Caeranthil, Scion of Ethiron, Dread Serpent, Voidsea (chests) |
+| obtainment | Chests from:, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Moon's Eyrie, Sold in Traan Zakshun's regular shop for 300 , Sold by Nyanna for 300 , Sold by Kujae for 350 , Fort Merit Armory for 145 (Authority Ensign exclusive), The Depths, Chaser, War Mode, Heart of Enmity, The Doom of Caeranthil, Scion of Ethiron, Dread Serpent, Voidsea (chests) |
 | description | The ceremonial blade of an Authority Warden. Despite their position in ceremony and stately affairs, the Wardens of the Authority are some of the fiercest warriors in the Authority's arsenal. Their presence in public affairs is seen as a move to strike fear into their enemies. |
 
 ## Description
 
-The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained from chests in [Fort Merit](Fort_Merit.md), [The Duke](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md). Its critical is a dash followed by a wide slash, similar to the [Prominence Draw](Attunement-less.md#prominence-draw) Mantra.
+The Warden's Ceremonial Sword is a midgame Medium weapon and can be obtained from chests from [Fort Merit](Fort_Merit.md), [The Duke](Duke_Ishamon_Erisia.md) and [The Depths](The_Depths.md). Its critical is a dash followed by a wide slash, similar to the [Prominence Draw](Attunement-less.md#prominence-draw) Mantra.
 
 ## Critical
 

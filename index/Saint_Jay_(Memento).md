@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 193590
+revid: 194261
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -21,11 +21,11 @@ categories: [Vow of Iron Exclusive, Mementos]
 | allowed weapons | Greataxe, Greatsword, Shield, Greathammer |
 | starting weapons | Great Maul, Saint Jay's Hammer, Hero's Blade of Frost |
 
+_This is the [Memento](Mementos.md). For the holder of this Memento, see [Saint Jay (individual)](<Saint_Jay_(individual).md>)._
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
-
-_If you're looking for the character of the same name, see [Saint Jay (individual)](<Saint_Jay_(individual).md>)._
 
 ## Overview
 

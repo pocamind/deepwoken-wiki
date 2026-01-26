@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 194132
+revid: 194247
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3029,6 +3029,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and also applies [Dazed](Status_Effects.md#dazed) briefly. We're even now, right? (+4 Carry Load)
     -   30 second cooldown.
+    -   Procs through Block/Parry/Dodge, and applies to all uppercut mantras (ex: Rising Flame).
     -   The Stagger status effect makes your opponent take 33% more posture damage.
     -   This Talent does not work with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: 35 Light Weapon, 20 Strength
