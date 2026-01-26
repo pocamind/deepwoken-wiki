@@ -1,6 +1,6 @@
 ---
 title: Guardian Pauldrons
-revid: 176450
+revid: 194270
 source: https://deepwoken.fandom.com/wiki/Guardian_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Pauldrons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests From:, The Depths (First Layer), Primadon |
+| obtainment | Chests From:, The Depths (First Layer), Voidwalker Bounties |
 | description | Often found adorning the shoulders of those who guard villages close to the shores, where cost-effective equipment is prized. |
 
 ## Description

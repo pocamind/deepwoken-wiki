@@ -1,6 +1,6 @@
 ---
 title: Wrath Gem
-revid: 190620
+revid: 194273
 source: https://deepwoken.fandom.com/wiki/Wrath_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -47,3 +47,7 @@ Upon landing a Mantra with a Wrath Gem equipped, apply the [Wrath](Status_Effect
 This Gem can also be used to craft a variety of items.
 
 -   [Equipment](Equipment.md): [Reinforced War Helmet](Reinforced_War_Helmet.md), [Reinforced War Plate](Reinforced_War_Plate.md), and [Reinforced War Boots](Reinforced_War_Boots.md).
+
+## Trivia
+
+Likely inspired by the wrath gem from the enigma mod for terraria.
