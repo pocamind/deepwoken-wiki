@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 194221
+revid: 194234
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -606,7 +606,7 @@ If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 -   The usage of ranks is incorrect, as a Lance Corporal is actually ranked below a Corporal.
 -   Despite the [Summer Company](The_Summer_Company.md) being on similarly friendly terms with the Central Authority, only the Divers and Ignition Union have Friend reputation with newly spawned Authority Ensigns. This is extra ironic as the Ignition Union have openly expressed disdain for the Authority and that they need to be stopped. This is likely due to past Authority treachery[\[1\]](#cite-note-1) and the Authority's refusal to pick a side in the Ignition-Summer conflict causing the Company to view them less favorably, even if they are willing to accept their finances.
 -   Funnily enough, the Shock Corps Division has the most issues regarding its acquirement, as its requirements are unclear to this day.
--   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location. All hail blox fruits
+-   The Buster Call Talent is a direct reference to _One Piece_, being a tactic employed by the Marines where 10 warships are called to bombard a location.
 
 ## References
 

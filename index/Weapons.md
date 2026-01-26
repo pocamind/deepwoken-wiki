@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 194213
+revid: 194238
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -25698,7 +25698,7 @@ Every weapon.
 This is the formula used to calculate the damage of a weapon with one scaled attribute (excluding bleed and/or modifiers). _[Damage calculator (Single, Dual, Tertiary, and Quaternary Attribute Scaling \[Scaling rings included\])](https://www.desmos.com/calculator/ukb3vjlbwc)_
 
 The scaled damage formula is as follows:  
-B a s e D a m a g e × ( 1 + ( ( 0.75 × ( S 1 + S 2 + S 3 + S 4 ) 1000 + R 1 + R 2 + R 3 + R 4 ) × ( 1 + P r o f i c i e n c y × 0.065 ) ) ) {\\displaystyle BaseDamage\\times (1+((0.75\\times {\\frac {(S\_{1}+S\_{2}+S\_{3}+S\_{4})}{1000}}+R\_{1}+R\_{2}+R\_{3}+R\_{4})\\times (1+Proficiency\\times 0.065)))} {\\displaystyle BaseDamage\\times (1+((0.75\\times {\\frac {(S\_{1}+S\_{2}+S\_{3}+S\_{4})}{1000}}+R\_{1}+R\_{2}+R\_{3}+R\_{4})\\times (1+Proficiency\\times 0.065)))}
+B a s e D a m a g e × ( 1 + ( ( 0.75 × S 1 + S 2 + S 3 + S 4 1000 + R 1 + R 2 + R 3 + R 4 ) × ( 1 + P r o f i c i e n c y × 0.065 ) ) ) {\\displaystyle BaseDamage\\times (1+((0.75\\times {\\frac {S\_{1}+S\_{2}+S\_{3}+S\_{4}}{1000}}+R\_{1}+R\_{2}+R\_{3}+R\_{4})\\times (1+Proficiency\\times 0.065)))} {\\displaystyle BaseDamage\\times (1+((0.75\\times {\\frac {S\_{1}+S\_{2}+S\_{3}+S\_{4}}{1000}}+R\_{1}+R\_{2}+R\_{3}+R\_{4})\\times (1+Proficiency\\times 0.065)))}
 
 Key:
 

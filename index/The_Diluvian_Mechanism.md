@@ -1,6 +1,6 @@
 ---
 title: The Diluvian Mechanism
-revid: 188774
+revid: 194235
 source: https://deepwoken.fandom.com/wiki/The_Diluvian_Mechanism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Dungeons, Layer 1]
@@ -38,7 +38,7 @@ When attempting the option to start Diluvian Mechanism at Power 3 and below, you
 
 ### Shrine of Solitude
 
-A Shrine of Solitude, identical to the one found in the Trial of One lies against the wall. This can be used between waves to roll for preferred Talents and mantras regardless of origin.
+A Shrine of Solitude, identical to the one found in the Trial of One lies against the wall. This can be used between waves to roll for preferred mantras regardless of origin.
 
 ## Modifiers & Environmental Hazards
 

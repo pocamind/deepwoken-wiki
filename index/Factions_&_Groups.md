@@ -1,6 +1,6 @@
 ---
 title: "Factions & Groups"
-revid: 188306
+revid: 194233
 source: https://deepwoken.fandom.com/wiki/Factions_%26_Groups
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -42,7 +42,7 @@ Other factions that are not classified as primary and reputable but hold some pr
 | --- | --- |
 | [Songseeker](Songseeker.md) | Song worshippers, who wish to learn the ways of the [Old World](Timeline.md)'s Mantracasters. |
 | [The Golden Rats](The_Golden_Rats.md) | Warriors who don themselves in gold. |
-| The Chest Masters | Primarily Felinor, they are aficionados of lockpicking, capable of opening [Chests](Chests_&_Sacks.md) with precision. They keep their methods a secret, however. |
+| [The Chest Masters](<Chest_Masters'_Guild.md>) | Primarily Felinor, they are aficionados of lockpicking, capable of opening [Chests](Chests_&_Sacks.md) with precision. They keep their methods a secret, however. |
 | [The Covenant of Flame](The_Covenant_of_Flame.md) | A group of people worshipping [Amorus Pleeksty](Amorus_Pleeksty.md) as the pioneer of [Flamecharm](Flamecharm.md) and a [Deepwoken](Deepwoken.md). |
 | [The Citadel of Markor](The_Citadel_of_Markor.md) | The most prominent research organization in all of Lumen, occupying [the Central Luminant](Luminants.md#central-luminant) alongside The Authority. |
 | [The Starkindred Church](The_Starkindred_Church.md) | A predominant power in [the Western Luminant](Luminants.md#western-luminant). They are zealous worshippers of the [Celestials](Celestial.md), using their Holy Ichor to prevent it from falling into the wrong hands. |
