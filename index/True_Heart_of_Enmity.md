@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 194043
+revid: 194267
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -189,35 +189,31 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <td>
   <ul>
     <li><b>Unique Outfit:</b> <font>Vigil Sentinel</font></li>
-    <li><b>Generic Outfit:</b> <a href="Shadow_Hunter.md">Shadow Hunter</a>,</li>
+    <li><b>Generic Outfit:</b> <a href="Shadow_Hunter.md">Shadow Hunter</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
   <td>
   <ul>
-    <li>Two <a href="Crowns.md">Crowns</a> (depending on damage dealt)</li>
-    <li>Four <a href="Knowledge.md">Knowledge</a> (depending on damage dealt)</li>
-    <li><a href="Relics.md">Relics</a> (Need Improvisation): <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Baneful_Syrinx.md">Baneful Syrinx</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, non-exclusive <a href="Enchant_Grease.md">Enchant Grease</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a> (Curse enchants drop more commonly than non-curse enchants), <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a></li>
-    <li><a href="Deep_Gems.md">Deep Gems</a>
-  <ul>
-    <li>Warped Blue Gem</li>
-  </ul></li>
-  </ul>
-  <ul>
-    <li><a href="Sanguine_Candle.md">Sanguine Candle</a></li>
+    <li>Two <a href="Crowns.md">Crowns</a></li>
+    <li>Four <a href="Knowledge.md">Knowledge</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Sanguine_Candle.md">Sanguine Candle</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Baneful_Syrinx.md">Baneful Syrinx</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, non-exclusive <a href="Enchant_Grease.md">Enchant Grease</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Warped_Blue_Gem.md">Warped Blue Gem</a></li>
   </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>. <font>Stormseye</font>, <font>Red Death</font>, <font>Purple Cloud</font>, <font>Hailbreaker</font>, <font>Weal and Woe</font>, <font>Hero Blades</font>, <font>Guiding Star</font>, {{Cl|mythical|Deepspindle}, <font>Chorus of Agonies</font>, <font>Rosen's Hellflame</font>, <font>Eye of Malice</font>, <font>Ignition Deepcrusher</font>, Sanguine Transfuser</li>
+    <li><b>Relic Weapons</b>: <a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></li>
+    <li><b>Unique Weapons</b>: <a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a>, <a href="Eye_of_Malice.md"><font>Eye of Malice</font></a>, <a href="Guiding_Star.md"><font>Guiding Star</font></a>, <a href="Hailbreaker.md"><font>Hailbreaker</font></a>, <a href="Hero_Blades.md"><font>Hero Blades</font></a> (all of them), <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Red_Death.md"><font>Red Death</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Whaling_Knife.md">Alloyed Whaling Knife</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a>, <a href="Big_Brother.md">Big Brother</a></li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Scimitar.md">Scimitar</a></li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Scimitar.md">Scimitar</a>, <a href="Purple_Cloud.md">Purple Cloud</a></li>
     <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Halberd.md">Halberd</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a>, <a href="Duskguard_Axe.md">Duskguard Axe</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a>, <a href="Kyrstear.md">Kyrstear</a></li>
@@ -232,33 +228,20 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
     <li><b>Unique Head</b>: <font>Sorcerer's Brim</font></li>
     <li><b>Generic Head</b>: <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Black), <a href="Vigil_Hood.md">Vigil Hood</a>, <a href="Mercenary's_Hood.md">Mercenary's Hood</a></li>
   </ol></li>
-    <li><a href="Equipment.md#arms"><b>Arm Equipment</b></a>:
+    <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:
   <ol>
     <li><b>Unique Arms</b>: <font>Sorcerer's Mantle</font></li>
     <li><b>Generic Arms</b>: <a href="Blacksteel_Pauldrons.md">Blacksteel Pauldrons</a>, <a href="Brilliant_Pauldrons.md">Brilliant Pauldron</a>, <a href="Etrean_Siege_Cuirass.md">Etrean Siege Cuirass</a>, <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, <a href="Legion_Phalanx_Plate.md">Legion Phalanx Plate</a>, <a href="Mercenary's_Garb.md">Mercenary's Garb</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Novice_Brace.md">Novice Brace</a>, Overcoats (Black &amp; Brown), <a href="Smith's_Gloves.md">Smith's Gloves</a>, <a href="Vanguard_Brace.md">Vanguard Brace</a>, <a href="Extra_Thick_Overcoat.md">Extra Thick Overcoat</a>, <a href="Beginner's_Brace.md">Beginner's Brace</a>, <a href="Bounty_Hunter's_Garb.md">Bounty Hunter's Garb</a>, <a href="Grand_Authority_Plate.md">Grand Authority Plate</a></li>
   </ol></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>:
-  <ol>
-    <li><b>Generic Legs</b>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a> (White) <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>, <a href="Beginner's_Boots.md">Beginner's Boots</a>, <a href="Alloyed_Phalanx_Boots.md">Alloyed Phalanx Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a>, <a href="Celestial_Boots.md">Celestial Boots</a></li>
-  </ol></li>
-    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>:
-  <ol>
-    <li><b>Generic Torso</b>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Blessed_Nomad_Pendant.md">Blessed Nomad Pendant</a>, <a href="Hallowed_Monastery_Beads.md">Hallowed Monastery Beads</a>,</li>
-  </ol></li>
-    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>:
-  <ol>
-    <li><b>Generic Face</b>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (Red), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), Duelist's Mask, <a href="Headband.md">Headband</a> (Black, Orange, Red), <a href="Aspirant_Mask.md">Royal Guard</a> (Blue), <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
-  </ol></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Autumn_Boots.md">Autumn Boots</a>, <a href="Etrean_Siege_Sabatons.md">Etrean Siege Sabatons</a>, <a href="Fur_Boots.md">Fur Boots</a> (White) <a href="Grand_Authority_Sabatons.md">Grand Authority Sabatons</a>, <a href="Legion_Boots.md">Khan Boots</a>, <a href="Mercenary's_Boots.md">Mercenary's Boots</a>, <a href="Tracker's_Boots.md">Tracker's Boots</a>, <a href="Winter_Corps_Boots.md">Winter Corps Boots</a>, <a href="Woodland_Boots.md">Woodland Boots</a>, <a href="Beginner's_Boots.md">Beginner's Boots</a>, <a href="Alloyed_Phalanx_Boots.md">Alloyed Phalanx Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a>, <a href="Celestial_Boots.md">Celestial Boots</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Canticlysm_Pendant.md">Canticlysm Pendant</a>, <a href="Confessor's_Charm.md">Confessor's Charm</a>, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a>, <a href="Nomad_Pendant.md">Nomad Pendant</a>, <a href="Red_Eye_Pendant.md">Red Eye Pendant</a>, <a href="Blessed_Nomad_Pendant.md">Blessed Nomad Pendant</a>, <a href="Hallowed_Monastery_Beads.md">Hallowed Monastery Beads</a>,</li>
+    <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Aristocrat_Eyeglasses.md">Aristocrat Eyeglasses</a> (Red), <a href="Bloodfeather_Mask.md">Bloodfeather Mask</a>, <a href="Citadel_Frames.md">Citadel Frames</a> (All Variants), Duelist's Mask, <a href="Headband.md">Headband</a> (Black, Orange, Red), <a href="Aspirant_Mask.md">Royal Guard</a> (Blue), <a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>: <a href="Old_Blood_Earrings.md">Old Blood Earrings</a>, <a href="Vapordrop_Earrings.md">Vapordrop Earrings</a>, <a href="Trueblood_Earrings.md">Trueblood Earrings</a>, <a href="Hardened_Crystal_Earrings.md">Hardened Crystal Earrings</a>, <a href="Flare_Drop_Earrings.md">Flare Drop Earrings</a>,</li>
-    <li><a href="Equipment.md#rings"><b>Rings</b></a><b>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>. Essentially all Rare rarity Rings.</b></li>
+    <li><a href="Equipment.md#rings"><b>Rings</b></a>: <a href="Bloodiron_Ring.md">Bloodiron Ring</a>, <a href="Chained_Ring.md">Chained Ring</a>, <a href="Dazed_Band.md">Dazed Band</a>, <a href="Diver's_Ring.md">Diver's Ring</a>, <a href="Freestyler's_Band.md">Freestyler's Band</a>, <a href="Heavy_Hands_Ring.md">Heavy Hands Ring</a>, <a href="Isshin's_Ring.md">Isshin's Ring</a>, <a href="Light_Eater_Ring.md">Light Eater Ring</a>, <a href="Pariah's_Keepsake.md">Pariah's Keepsake</a>, <a href="Purifying_Ring.md">Purifying Ring</a>, <a href="Ring_of_Curses.md">Ring of Curses</a>, <a href="Ring_of_Pestilence.md">Ring of Pestilence</a>, <a href="Ring_of_Wisps.md">Ring of Wisps</a>, <a href="Windmill_Ring.md">Windmill Ring</a>.</li>
   </ul></td>
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   The reason as to True Heart of Enmity's health being lower than Heart of Enmity is unknown, but maybe because of the amount of drownings that happened over time has given him a buff to the point where more than one person have to beat him.
 
 ## References
 
