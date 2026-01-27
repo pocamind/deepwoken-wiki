@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Hammer"
-revid: 192768
+revid: 194282
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Hammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons, Weapons with Talents, Weapons with Unique Criticals]
@@ -41,7 +41,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Steel Maul is a [Vow of Iron](Vow_of_Iron.md) exclusive greathammer weapon. This weapon, once wielded by [Saint Jay](<Saint_Jay_(individual).md>), features a multi-stage critical attack that changes the weapon's appearance. In the third and final stage, the Saint Jay's hammer will be encased in ice.
+The Saint Jay's Hammer is a [Vow of Iron](Vow_of_Iron.md) exclusive greathammer weapon. This weapon, once wielded by [Saint Jay](<Saint_Jay_(individual).md>), features a multi-stage critical attack that changes the weapon's appearance. In the third and final stage, the Saint Jay's hammer will be encased in ice.
 
 ## Talents
 

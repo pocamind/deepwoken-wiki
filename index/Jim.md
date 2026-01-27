@@ -1,6 +1,6 @@
 ---
 title: Jim
-revid: 191488
+revid: 194287
 source: https://deepwoken.fandom.com/wiki/Jim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
@@ -106,6 +106,22 @@ Jim is located at the [Etris Docks](Etris_Docks.md), in of one of the buildings.
 </tr>
 <tr>
   <td>Heh, thanks.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Etrea Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Uh, hey. Should you really be here right now?</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
