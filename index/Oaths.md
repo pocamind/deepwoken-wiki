@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 193128
+revid: 194452
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -259,10 +259,10 @@ Proof of Time Magic's existence and it being an "Oath"
     -   [Silentheart](Oath%253A_Silentheart.md) gives a darker and duller shade of the player's current eye color.
 -   In the [Battle Royale](Battle_Royale.md) gamemode, Oaths can be obtained by collecting Oath Shards from chests.
     -   It takes 3 shards to obtain the Oath, and one for each subsequent Talent.
--   Some Oaths can be obtained at Power 1, these are: [Oathless](Oath%253A_Oathless.md), [Contractor](Oath%253A_Contractor.md), [Blindseer](Oath%253A_Blindseer.md), and [Linkstrider](Oath%253A_Linkstrider.md).
-    -   Because [Blindseer](Oath%253A_Blindseer.md) requires you to have the 3 Talents from the [Mental Fortress](Talents.md#mental-fortress) Talent tree, you'll need to complete [Bravery/Compassion/Curiosity](Quests.md) Quests and/or [Shrine](Deep_Shrines/Shrine_of_Division.md) off the free Mantra from the free [Whisper Draw](Whisper_Draw.md) to get all three Talents without powering up.
--   Currently, there are three Oaths where you cannot skip progression with Knowledge. These Oaths are: [Soulbreaker](Oath%253A_Soulbreaker.md), [Bladeharper](Oath%253A_Bladeharper.md), and [Blightsurger](Oath%253A_Blightsurger.md).
-    -   For Soulbreaker, this is probably due to it being added after the Oath skip update.
+-   Some Oaths can be obtained at Power 1, these are: [Blindseer](Oath%253A_Blindseer.md), [Chainwarden](Oath%253A_Chainwarden.md), [Contractor](Oath%253A_Contractor.md), [Linkstrider](Oath%253A_Linkstrider.md), [Oathless](Oath%253A_Oathless.md), and [Starkindred](Oath%253A_Starkindred.md).
+    -   Because [Blindseer](Oath%253A_Blindseer.md) requires you to have the 3 Talents from the [Mental Fortress](Talents.md#mental-fortress) Talent tree, you'll need to complete [Bravery/Compassion/Curiosity](Quests.md) Quests to get all three Talents without powering up. Using [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) on the free Mantra you get from the free [Whisper Draw](Whisper_Draw.md) can help as well.
+-   Currently, there are three Oaths where you cannot skip progression with Knowledge. These Oaths are: [Bladeharper](Oath%253A_Bladeharper.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Soulbreaker](Oath%253A_Soulbreaker.md).
+    -   For Soulbreaker, this is probably due to it being added after the Oath skip update, though this Oath can be fully progressed by spending less than 10 Knowledge anyways.
     -   For Bladeharper, its progression is _supposed_ to be skippable, though it currently isn't due to an oversight.
     -   And finally for Blightsurger, its prog not being skippable is entirely intentional, even going as far as [Brutus](Brutus.md) having unique dialogue if you attempt to skip the Oath's progression.
 

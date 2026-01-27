@@ -1,6 +1,6 @@
 ---
 title: Whaler Initiate
-revid: 192819
+revid: 194455
 source: https://deepwoken.fandom.com/wiki/Whaler_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, The Knives of Eylis]
@@ -10,7 +10,7 @@ categories: [Outfits, Starter Outfits, The Knives of Eylis]
 
 | Whaler Initiate | |
 |---|---|
-| caption | Coat and pseudo-uniform of Eylis' gang of assassins. The appearance of these men from the Central Luminant marks harsh times for Etrea. |
+| caption | Coat and pseudo-uniform of Eylis' gang of Assassins. The appearance of these men from the Central Luminant marks harsh times for Etrea. |
 | tier | Starter |
 | price | 100 |
 | stat_req | Power 5 |

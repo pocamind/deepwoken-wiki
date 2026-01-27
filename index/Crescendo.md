@@ -1,6 +1,6 @@
 ---
 title: Crescendo
-revid: 194447
+revid: 194448
 source: https://deepwoken.fandom.com/wiki/Crescendo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Twinblades, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -39,15 +39,13 @@ The **Crescendo** is a rare Twinblade. It's most commonly obtained from the Ferr
 
 ## Critical
 
-The user twirls the twinblade, slicing opponents around it, before twirling the blade again to create a bigger slash. Both parts of the critical deal 20% more damage than the weapon's M1.
+The user twirls the twinblade, slicing opponents around it, before twirling the blade again to create a bigger slash. Both parts of the critical have a 1.2x scaled damage multiplier.
 
 The critical has a cooldown of **5.5 seconds.**
 
 ## Trivia
 
 -   For a while after the weapons release, its critical hit was unparriable. This was later confirmed to be a bug and fixed.
--   Prior to having its hyperarmor removed, players using this weapon could immediately use the critical even after getting parried which lead the enemy to get hit for parrying and m1ing.
--   Its hyperarmor was removed in exchange for a faster windup on the second part of the attack.
--   Due to its horrendous stats of 0.92x swing speed with 7.5 range combined with twinblades having endlag at the end of their running attacks it is considered as the **worst** end game weapon.
--   Its critical sound was changed on November 8th 2025 (Hallowtide Week 2), giving it a higher pitch on both swings.
--   The Crescendo may have been used or created by a [Krulian](Krulian.md). It emits the song through it's critical attack and it drops from The Ferryman who is a Krulian along with it's ends resembling [Krulian Knives](Krulian_Knife.md).
+-   Prior to the critical having its hyperarmor removed, players using this weapon could immediately use the critical even after getting parried, often leading to a free hit.
+-   The sound effect on its critical was changed on November 8th 2025 (Hallowtide Week 2), increasing the pitch of both swings.
+-   The Crescendo may have been used or created by a [Krulian](Krulian.md). It drops from The Ferryman who is a Krulian along with its ends resembling [Krulian Knives](Krulian_Knife.md).

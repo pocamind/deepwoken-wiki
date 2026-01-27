@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 189568
+revid: 194454
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -46,8 +46,8 @@ The minigames happen in a random order. Once all minigames are completed, all re
 ## Rewards
 
 -   Eliminated players have a chance of spawning chests where they were standing. Additionally, when all three games are over, a chest spawns in the center of the Carnival for each remaining player. Chests will spawn inside the circus that contain mixed loot. [(Sometimes it is bugged and the loot spawns on top of the carnival)](https://www.youtube.com/watch?v=rwZ_5dDwGSE)
--   Chests can drop the outfits [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), and [Stormchanter's Raiments](<Stormchanter's_Raiments.md>).
-    -   [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), and [Stormchanter's Raiments](<Stormchanter's_Raiments.md>) are exclusively obtainable in the Carnival of Hearts.
+-   Chests can drop the outfits [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), and the [Icebringer's Vestments](<Icebringer's_Vestments.md>)
+    -   [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), and [Icebringer's Vestments](<Icebringer's_Vestments.md>) are exclusively obtainable in the Carnival of Hearts.
     -   The chests may also contain [Tillian's Beret](<Tillian's_Beret.md>).
     -   Not yet known if all of these outfits are guaranteed drops.
     -   The chests may also contain Pre-dyed Vigil Hood (needs further testing)
