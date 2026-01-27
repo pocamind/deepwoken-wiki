@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 193056
+revid: 194468
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -18,7 +18,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | posture damage | 6 |
 | range | 8 Sweep |
 | swing speed | 0.83x |
-| attack duration | 0.8s |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | m.equip | Yes |
 | m.extract | Yes |

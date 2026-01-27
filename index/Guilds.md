@@ -1,6 +1,6 @@
 ---
 title: Guilds
-revid: 194406
+revid: 194467
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Guilds, Mechanics]
@@ -119,7 +119,7 @@ In certain [Origins](Origins.md) that pertain to its [Faction](Factions_&_Groups
     -   Joined by talking to [Akira](Akira.md) in [Castle Light](Castle_Light.md).
 -   The Central Authority, which is joined by default, acting as an overlay to the player's current guild.
 
-In addition to being inside a Faction guild, they cannot obtain any guild score. As of now, Faction guilds are cannot be joined by talking to their NPCs, and are capable of obtaining guild score.
+In addition to being inside a Faction guild, they cannot obtain any guild score. As of now, Faction guilds cannot be joined by talking to their NPCs, and are capable of obtaining guild score.
 
 ## Effects
 

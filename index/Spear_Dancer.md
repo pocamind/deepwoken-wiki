@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 191953
+revid: 194465
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -44,8 +44,8 @@ The dancer thrives in their motion, putting constant pressure on the enemy while
 
 -   Dancer's Geas \[Memento Talent\] - You deal +30% damage when striking with the tip of your weapon, but deal 15% less damage when striking below half of its range.
     
-    -   When you land an attack from the tip of your weapon, an icon of a pair of hands clapping will appear, signifying that you've activated the buff.
-    -   When you land an attack from half or less than half of your weapon's range, an icon of a thumbs down will appear, signifying that you were debuffed.
+    -   When you land an attack from the tip of your weapon, an icon of a pair of hands clapping will appear and the on hit sound effect will have a higher pitch, signifying that you've activated the buff.
+    -   When you land an attack from half or less than half of your weapon's range, an icon of a thumbs down will appear and the on hit sound effect will have a much lower pitch, signifying that you were debuffed.
     -   Also procs on weapon criticals.
     -   Because of how monster hitboxes work, you will almost always benefit from the positive effect of this Talent while fighting non-humanoids, regardless of how close to them are are.
 

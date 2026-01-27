@@ -1,6 +1,6 @@
 ---
 title: Moss Knight
-revid: 192068
+revid: 194469
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]
@@ -100,7 +100,7 @@ High posture
 
 ## Tips
 
--   Usually after every move, you can get 1-2 basic attacks off, unless they use the single swing, in which only go for one.
+-   Usually, after every move, you can get 3-2 basic attacks off, unless they use the single swing, in which only go for one.
 -   In order to dodge the Terra Eruption, do a full dodge instead of a roll cancel.
 -   All of the Stone Knight's moves can be dodged with little consequence, with the exception of the double slash.
 -   You can right-click after getting kick or hit with Terra Eruption to cancel the ragdoll.

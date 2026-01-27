@@ -1,6 +1,6 @@
 ---
 title: Debriefing Log on Operator Polaris Enigvidion
-revid: 172908
+revid: 194466
 source: https://deepwoken.fandom.com/wiki/Debriefing_Log_on_Operator_Polaris_Enigvidion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Books]
@@ -18,7 +18,7 @@ _**Debriefing Log on Operator Polaris Enigvidion**_ is a [Book](Books.md).
 
 Debriefing Log on Operator Polaris Enigvidion
 
-> "Operator Enigvidion, are you listening? Ignoring me isn’t making this any easier for the both of us" A stern voice snaps me back from me back from wandering thoughts, raising my head from the floor I see an aged man sitting before me on an equally as aged wooden stool. "Apologies… I wasn’t paying attention for a moment." The man tilts his head down, giving the illusion of a menacing shadow falling over his weathered mask as a barely audible sigh fills the room. "That’s apologies 'Sir' to you." He continues before I have a chance to retort. "Alright, start over from the beginning. I want to know exactly how everything went, with explicit details, am I understood?"
+> "Operator Enigvidion, are you listening? Ignoring me isn’t making this any easier for the both of us" A stern voice snaps me back from wandering thoughts, raising my head from the floor I see an aged man sitting before me on an equally as aged wooden stool. "Apologies… I wasn’t paying attention for a moment." The man tilts his head down, giving the illusion of a menacing shadow falling over his weathered mask as a barely audible sigh fills the room. "That’s apologies 'Sir' to you." He continues before I have a chance to retort. "Alright, start over from the beginning. I want to know exactly how everything went, with explicit details, am I understood?"
 > 
 > "Yes… I understand." As I once again begin to recount the events of today before I wear the patience of Adjudicator thin. Even though I have never seen one in person before, I know he has to be one of them from his commanding spirit, let alone the fact this room only has the two of us in it, a feat that would be impossible for a standard guard to arrange.
 > 
@@ -56,7 +56,7 @@ Debriefing Log on Operator Polaris Enigvidion
 > 
 > Silence. Yet again he holds totally still for a few agonizing moments before a small chuckle escapes from under his mask, soon growing into a full laugh. His hearty laughter fills the room, dragging out seemingly incessantly. "Sorry about that – all that interrogation before was just an act. Before I arrived in your cell I had already done my own investigation and found the cause of your worries. This interrogation – no, this debriefing – was for another purpose. I had to make sure you were thoroughly convinced that I was a dangerous person to confirm my theory." He says in a tone that doesn’t sound like that of an old veteran, but of a lighthearted Elder.
 > 
-> I can’t help but be annoyed to my very core, this old man had toyed with me the entire time. Not only had I been in the palm of his hand but I had been ridiculed enough to be laughed at as well! "Well, that’s great and all. But doe that mean I’m cleared of all fault?" I ask in a petulant manner, yet the man seems to be smiling behind that mask now. "Of course you are, boy. You’re a hero, in fact. You risked your future to save lives of your fellow Hivekin. That makes you exemplary among all of us. Your keen senses uncovered a certain _corruption_ that had seeped into the canopy undetected. We believe the source was an R&D lab just beneath where you were stood. Thanks to your efforts, it was brought to our attention and contained long before it could do any lasting harm. And to answer you other question, my disappearance wasn’t any fancy. Not even a parlour trick."
+> I can’t help but be annoyed to my very core, this old man had toyed with me the entire time. Not only had I been in the palm of his hand but I had been ridiculed enough to be laughed at as well! "Well, that’s great and all. But does that mean I’m cleared of all fault?" I ask in a petulant manner, yet the man seems to be smiling behind that mask now. "Of course you are, boy. You’re a hero, in fact. You risked your future to save lives of your fellow Hivekin. That makes you exemplary among all of us. Your keen senses uncovered a certain _corruption_ that had seeped into the canopy undetected. We believe the source was an R&D lab just beneath where you were stood. Thanks to your efforts, it was brought to our attention and contained long before it could do any lasting harm. And to answer your other question, my disappearance wasn’t anything fancy. Not even a parlour trick."
 > 
 > He continued in a jovial tone "It’s simple, really. I shifted my body weight and thought only of killing you, and prepared to attack so as to end your life in an instant. Something only a seasoned fighter could pick up on. Yet, in an instant you reacted as if you had been on the battlefield your entire life. It’s obvious when paired with your story. Your eyes fail to perceive danger in a very literal sense. Growing up here in the Greathive, I’m sure you’ve never really had anything dangerous enough show up for you to notice before."
 > 
