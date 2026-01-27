@@ -1,6 +1,6 @@
 ---
 title: Trig
-revid: 191678
+revid: 194375
 source: https://deepwoken.fandom.com/wiki/Trig
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Trig** is a [Gremor](Gremor.md) NPC that wears the [Summer Company Uniform](Summer_Company_Uniform.md). He gives the player [Armor Piercing](Talents.md#gunslinger) as a rollable talent upon completing his quest.
+Trig is a [Gremor](Gremor.md) NPC. He gives the player [Armor Piercing](Talents.md#gunslinger) as a rollable talent upon completing his quest.
 
 ## Quest
 
@@ -41,7 +41,7 @@ Attempting to help Asius by selecting the dialogue dialogue option "I'll see wha
 
 ## Location
 
-Trig is located in [Summer Isle](Summer_Isle.md), at the entrance of the Guildhall/Inn. His quest sends you to find [Asius](Asius.md), a merchant who hasn't been paying his dues to the Summer Company. More information can be found about the quest in the [Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) page.
+Trig can be found standing outside of the [Inn](Inn.md) at [Summer Isle](Summer_Isle.md).
 
 ## Dialogue
 

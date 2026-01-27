@@ -1,6 +1,6 @@
 ---
 title: Wheel Pendant
-revid: 176615
+revid: 194430
 source: https://deepwoken.fandom.com/wiki/Wheel_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -30,4 +30,4 @@ The Wheel Pendant is an [Equipment](Equipment.md) item under the "Torso" categor
 ## Trivia
 
 -   It is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
--   It was previously named "Old World Sun Pendant". This was seen as a lore discrepancy, as the Suncross has always looked the same throughout time.
+-   It was previously named "Old World Sun Pendant". This was seen as a continuity issue, as the Suncross has always looked the same throughout time, so nobody would ever recognize the design as a "sun".

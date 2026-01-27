@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 192845
+revid: 194395
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -109,6 +109,8 @@ Smithy's Tools
 
 **Base Dialogue:**
 
+**Good & Neutral Reputation:**
+
 <table>
 <tbody>
 <tr>
@@ -122,10 +124,10 @@ Smithy's Tools
   <td colspan="6">Can you take a look at this stone? [Ores]</td>
 </tr>
 <tr>
-  <td colspan="6">[Opens Blacksmith UI]</td>
-  <td colspan="2">No Ore / Items</td>
-  <td colspan="2">Pure Iron</td>
-  <td colspan="2">Pure Astruline / Erisore / Gold / Irithine / Umbrite</td>
+  <td colspan="6">[Opens Outfit UI]</td>
+  <td colspan="2">[No Ore / Items]</td>
+  <td colspan="2">[Pure Iron]</td>
+  <td colspan="2">[Pure Astruline / Erisore / Gold / Irithine / Umbrite]</td>
 </tr>
 <tr>
   <td colspan="6">[End Dialogue]</td>
@@ -137,6 +139,22 @@ Smithy's Tools
   <td colspan="6"></td>
   <td colspan="4">[End Dialogue]</td>
   <td colspan="2">[End Dialogue], player obtain EXP and a small chest</td>
+</tr>
+</tbody>
+</table>
+
+**Bad Reputation:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Look, I can't go serving someone with a reputation like yours... They'd accuse me of arming a criminal.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -153,8 +171,8 @@ This dialogue is unlocked if the player has been sent to execution by an NPC aff
   <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2">Good Reputation with Faction</td>
-  <td colspan="2">Bad Reputation with Faction</td>
+  <td colspan="2">[Good Reputation with Faction]</td>
+  <td colspan="2">[Bad Reputation with Faction]</td>
 </tr>
 <tr>
   <td colspan="2">I'm not gonna ask exactly what you did to get in those cuffs, but I can fix 'em for ya.<br>

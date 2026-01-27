@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 192033
+revid: 194442
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]

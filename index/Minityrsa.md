@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 191119
+revid: 194357
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, The Ministry, Locations in the Etrean Luminant]
@@ -84,7 +84,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## Notes/Trivia
+## Trivia
 
 -   The music for this area is [A Waltz Of Snow And Knights](Deepwoken_OST.md#a-waltz-of-snow-and-knights) by Naktigonis
 -   Minityrsa is also called "Mini", "Tundra", "Minnesota" or "Winter Isle" by other players.
@@ -93,7 +93,6 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 -   Since it is constantly snowing in Minityrsa, it is best to place [Campfires](Campfire_Pit.md) beneath shelter.
 -   To travel to Minityrsa, the easiest way to know where to go is to start from [Etris](Etris.md).
     -   Go through the gates that reveals the 4 statues, then sail right to where the right statue is pointing until you see the "ice spikes" and when you travel farther and see an Island with trees and land, that is Minityrsa.
-
 -   Wiping for the first time unlocks the ability to spawn here as an origin ([Trial of One](Trial_of_One.md))
 -   After beating the trial of one/above power 1, you can slam yourself into the trial door and it will bounce you back and ragdoll. When bouncing yourself back, you will gain exp for Fortitude. Use this to your advantage. Make a wall with Frostdraw and bounce yourself into the door and repeat until max fortitude.
 -   Many players pronounce it as 'Mini-tear-risa' instead of it's intended pronounciation 'Mini-tear-sa.'

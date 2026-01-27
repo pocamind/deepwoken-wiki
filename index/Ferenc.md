@@ -1,6 +1,6 @@
 ---
 title: Ferenc
-revid: 192221
+revid: 194315
 source: https://deepwoken.fandom.com/wiki/Ferenc
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]

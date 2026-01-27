@@ -1,6 +1,6 @@
 ---
 title: Trafalgar
-revid: 191674
+revid: 194424
 source: https://deepwoken.fandom.com/wiki/Trafalgar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, NPCs located in the First Layer, Reputation]
@@ -29,7 +29,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Trafalgar is a [Felinor](Felinor.md) NPC who accepts a bribe for [The Divers](The_Divers.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
+Trafalgar is a [Felinor](Felinor.md) NPC who accepts a bribe for [The Divers](The_Divers.md). The player can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
@@ -113,3 +113,7 @@ Trafalgar is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south o
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   Trafalgar is likely named after [Cape Trafalgar](https://en.wikipedia.org/wiki/Cape_Trafalgar), a headland located in [Cádiz](https://en.wikipedia.org/wiki/Province_of_C%C3%A1diz), Spain. The cape is famous for being the site of the [Battle of Trafalgar](https://en.wikipedia.org/wiki/Battle_of_Trafalgar) of 1805, fought between the British Royal Navy and a combined fleet of French and Spanish naval forces.

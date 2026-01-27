@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 193887
+revid: 194414
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -35,6 +35,9 @@ This page is about content that has either been removed or changed drastically i
 
 -   **Original Venting -** Originally, Venting put yourself into an Invincible state, where getting hit by a Mantra would not only nullify the Mantra's damage and/or effects, but also give the user a lot of Ether. The current iteration of Venting simply throws people away, and can be used while in hitstun.
     -   This original version of Venting is still used by [Nautilodaunt](Nautilodaunt.md).
+-   **Original Gliding -** Gliding originally involved the player to simply descend through the air, albeit at a much slower rate. This was replaced with the current system, which was ported over to the [Pathfinder](Pathfinder.md) gamemode a week after [Vow of Iron](Vow_of_Iron.md) was released to the game.
+-   **Original Ziplining -** Originally, ziplines would be used by pressing E, causing the player to descend smoothly across places, though at a fixed rate.
+-   **Climbing -** Climbing was a mechanic that simply allowed the player to reach greater heights. This was replaced by the similar wall bouncing mechanic in the [Vow of Iron](Vow_of_Iron.md) gamemode, which was then ported over to the [Pathfinder](Pathfinder.md) gamemode a week later.
 -   **F + Click for parry -** Parrying used to be performed by clicking while blocking. This was replaced with the current system since it was less intuitive and more punishing for players with heavy lag.
 -   **Vow of Hatred -** A consensual duel between two players. However, the loser of the duel would instantly wipe.
 -   **Hidden Name -** During testing all player names were hidden until you were told their name, otherwise they will be simply called stranger. This was removed to help prevent exploits and such.

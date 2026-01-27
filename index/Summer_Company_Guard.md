@@ -1,6 +1,6 @@
 ---
 title: Summer Company Guard
-revid: 176659
+revid: 194366
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Summer Company, Summer Company Enemies]
@@ -81,5 +81,5 @@ A Summer Company Guard executes the player after knocking them:
 
 ## Trivia
 
--   At one point in time, their outfit was changed to the [Summer Dragoon](Summer_Dragoon.md) outfit. This was then reverted and was given to a separate enemy.
+-   At one point in time, their Outfit was changed to the [Summer Dragoon](Summer_Dragoon.md) Outfit. This was then reverted and was given to a separate enemy.
 -   Due to the janky hitboxes of guns, they can shoot a gun point-blank but still not land a single shot.

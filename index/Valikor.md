@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 191681
+revid: 194384
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]
@@ -13,7 +13,7 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive
 | name | Valikor |
 | aspect | Etrean |
 | pronouns | He/him |
-| location | Temple of the Blade library |
+| location | Temple of the Blade |
 | affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -26,7 +26,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Valikor is an NPC that appears to be an elder [Etrean](Etrean.md). Despite being old enough to retire from work and live comfortably. In early Deepwoken testing, all mantras were announced upon casting them. This is likely why he is an Elderly character.
+Valikor is an NPC that appears to be an elder [Etrean](Etrean.md). Despite being old enough to retire from work and live comfortably. In early Deepwoken testing, all Mantras were announced upon casting them. This is likely why he is an Elderly character.
 
 You can get the [Spell Shout](Valikor.md) Talent by talking to him. If you wish to turn it off, go to settings in order to disable Spell Shouting.
 

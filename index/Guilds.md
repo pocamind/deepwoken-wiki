@@ -1,11 +1,9 @@
 ---
 title: Guilds
-revid: 180981
+revid: 194406
 source: https://deepwoken.fandom.com/wiki/Guilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Guilds, Mechanics]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Guilds, Mechanics]
 ---
 
 # Guilds
@@ -69,9 +67,13 @@ Members of a guild including its leader will stay in their guild after death and
 
 Main article: [Chime of Dwelling](Chime_of_Dwelling.md)
 
+Chime of Dwellings are tools used by guildmates to access their Guild Base. The owner can also use the Chime to remove rooms and exile players remotely, as long as they are inside the Guild Base.
+
 ### Guild Bases
 
 Main article: [Guild Bases](Guild_Bases.md)
+
+Guild Bases are the primary housing system used by guild members, which provides accessibility to various utilities in one spot.
 
 ## Guild Score
 
@@ -82,10 +84,10 @@ The following ways to obtain guild score and the amount earned is listed below:
 | **Score Type** | **Score Earned** | **Score Lost** | **Source** |
 | --- | --- | --- | --- |
 | **PvE** | 
--   3
--   4 (Titus)
--   5 (Parasol, Doom of Caeranthil, Scion of Ethiron, Chaser)
--   10 (Heart of Enmity)
+-   3 ([Duke Erisia](Duke_Ishamon_Erisia.md), [Dread Serpent](Dread_Serpent.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Primadon](Primadon,_Titan_of_the_East.md), [The Ferryman](The_Ferryman.md))
+-   4 ([Titus](Titus_Fulminus_Destellus.md))
+-   5 ([Interluminary Parasol](Interluminary_Parasol.md), [Doom of Caeranthil](The_Doom_of_Caeranthil.md), [Scion of Ethiron](Scion_of_Ethiron.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md))
+-   10 ([Heart of Enmity](Heart_of_Enmity.md))
 
  | N/A | 
 

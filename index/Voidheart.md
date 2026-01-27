@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 188786
+revid: 194354
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Lawless Territory, The Knives of Eylis]
@@ -19,6 +19,8 @@ The **Voidheart** is a location in _Deepwoken._ It is the forward base of the [T
 ## Overview
 
 The Voidheart is the resting place of The Knives of Eylis. Located in an unknown location and only accessible in people's dreams, it represents itself as a large set of corridors and grey walls.
+
+The Voidheart is described as a location with no physical form. The various members "dream" of this place and find themselves within it. Leaving the Voidheart is referred to as "waking up". The [Voidmother](The_Voidmother.md) is the reason the Voidheart exists. According to it, there is no singular, unified Voidheart. Everybody sees it differently, but it maintains the immaculate white hallway appearance across each person.
 
 Only players who have selected the [Voidwalker](Voidwalker.md) Origin can access this area.
 
@@ -44,14 +46,6 @@ Only players who have selected the [Voidwalker](Voidwalker.md) Origin can access
 -   A Table, which acts as a campfire.
 -   A [Banker](Banker.md)
 
-## Lore
-
--   The Voidheart is described as a location with no physical form. The various members "dream" of this place and find themselves within it. Leaving the Voidheart is referred to as "waking up".
--   The [Voidmother](The_Voidmother.md) is the reason the Voidheart exists. According to it, there is no singular, unified Voidheart. Everybody sees it differently, but it maintains the immaculate white hallway appearance across each person.
--   Some members of the Knives Of Eylis are here by choice, while other are not. Various are the motifs of their allegiance, either money, power or something else. This is explained by Raen.
-    -   When talking to the Voidmother for the first time, the player can choose their reason for taking the voidwalker contract, such as making ends meet, power or tiring of their old life, among many other. This, however, have no effect on anything and merely gives different responses from the Voidmother.
-    -   While a less universal goal, Eylis herself have her own set of plan and goals which she does not reveal, but hint at the player's inclusion in them, saying that "You're... different, from the rest".
-
 ## Maps
 
 A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace)
@@ -67,5 +61,4 @@ A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace
     -   The chess board is 100% accurate to real [chess](Chessboard.md), it's just that the pieces have been replaced by Deepwoken monsters.
 -   It is very common to get attacked in the Voidheart, even though it is seen as dishonorable to do so.
     -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, causing a memory leak/server crash that resulted in them getting removed.
-
 -   There used to be an area past the little shopping district Voidheart has that contained the [Dusklit Garden](Dusklit_Garden.md), however it has since been removed.

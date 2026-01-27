@@ -1,9 +1,9 @@
 ---
 title: Reputation
-revid: 193359
+revid: 194360
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Reputation, Mechanics]
+categories: [Reputation, Mechanics]
 ---
 
 # Reputation
@@ -12,11 +12,9 @@ categories: [Pages with broken file links, Reputation, Mechanics]
 
 ― Game Tip
 
-  
+The reputation tab accessed via the Journal. This is the starting reputation of the [Castaway](Castaway.md) Origin.
 
 ## Description
-
-The reputation tab accessed via the Journal. This is the starting reputation of the [Castaway](Castaway.md) Origin.
 
 The world of Deepwoken features diverse factions, each with their own narratives, objectives, characters, and areas. Player reputation shapes how both players and factions interact with each other.
 
@@ -80,16 +78,12 @@ NOTE: Only 8 of the 12 factions have an NPC that offer this service.
 | Image | Faction | Name | Location |
 | --- | --- | --- | --- |
 | 
-File:Nerin NPC.png
-
  | 
 
 [The Kingdom of Etrea](Etrea.md)
 
  | [Nerin](Nerin.md) | Outside a house in the area above the Etris Antiquarian and near The Barber. |
 | 
-
-File:Nepotism.png
 
  | 
 
@@ -98,16 +92,12 @@ File:Nepotism.png
  | [Nepo](Nepo.md) | Leaning by the archway reached by going across a series of bridges behind the Summer Isle Castle. |
 | 
 
-File:Zirik.png
-
  | 
 
 [The Hive](The_Hive.md)
 
  | [Zirik](Zirik.md) | Near the fountain in [The Lordsgrove](The_Lordsgrove.md). |
 | 
-
-File:Rashet.png
 
  | 
 
@@ -116,8 +106,6 @@ File:Rashet.png
  | [Rashet](Rashet.md) | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
 | 
 
-File:NewGudrin.png
-
  | 
 
 [The Divers](The_Divers.md)
@@ -125,16 +113,12 @@ File:NewGudrin.png
  | [Gudrin](Gudrin.md) | Standing near a pillar outside north of [Castle Light](Castle_Light.md). |
 | 
 
-File:IgnitionUnionRepReset.png
-
  | 
 
 [The Ignition Union](The_Ignition_Union.md)
 
  | [Maura](Maura.md) | Standing inside a house located on a cliff above the main entrance of the [Miner's Landing](<Miner's_Landing.md>) town. |
 | 
-
-File:Soothsayer.png
 
  | 
 
@@ -171,17 +155,9 @@ Yen: Near the front of the [Songseeker Temple](Songseeker_Temple.md)
 -   [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)
 -   [The Ministry](The_Ministry.md) [Ministryiconfaction](The_Ministry.md)
 -   [Etrean Royalists](Etrean_Royalists.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
--   [Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
+-   [The Knives of Eylis](The_Knives_of_Eylis.md) [Knives of Eylis](The_Knives_of_Eylis.md)
 -   [The Ignition Union](The_Ignition_Union.md)
 -   [Lost Celtor](Lost_Celtor.md)
-
-### Non-Reputable Factions
-
--   [Bandits](Bandit.md)
--   [Blacksteel Pirates](Blacksteel_Pirate.md)
--   [The Golden Rats](The_Golden_Rats.md)
--   [Songseekers](Songseeker.md)
--   [The Starkindred Church](The_Starkindred_Church.md)
 
 ## Trivia
 

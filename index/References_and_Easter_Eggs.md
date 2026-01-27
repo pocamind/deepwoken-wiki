@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 192336
+revid: 194432
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -17,15 +17,15 @@ This is a page dedicated to all of the easter eggs and references to other works
 ## Outfits/Equipments
 
 -   The style of the **Double Strapped Hat** seems to take inspiration from _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
--   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _Devil May Cry_ series.
--   The mod spec Outfit **[Hive Leader's Garment](<Hive_Leader's_Garment.md>)** along with the [companion hat](<Hive_Greatlord's_Royal_Adornment.md>) is [Scaramouche's](https://genshin-impact.fandom.com/wiki/The_Balladeer) outfit from open world RPG _Genshin Impact_.
+-   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _[Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry)_ series.
+-   The mod spec Outfit **[Hive Leader's Garment](<Hive_Leader's_Garment.md>)** along with the [companion hat](<Hive_Greatlord's_Royal_Adornment.md>) is [Scaramouche's](https://genshin-impact.fandom.com/wiki/The_Balladeer) outfit from open world RPG _[Genshin Impact](https://en.wikipedia.org/wiki/Genshin_Impact)_.
 -   The Outfit **Black Diver's** original design was [Bondrewd's](https://madeinabyss.fandom.com/wiki/Bondrewd) outfit from _[Made in Abyss](https://en.wikipedia.org/wiki/Made_in_Abyss)_.
     -   Made even more apparent when combining it with a [Diver's Light Plate](<Diver's_Light_Plate.md>).
--   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its [smaller version](<Alchemist's_Hat.md>) are a reference to [Big Hat Logan](https://darksouls.fandom.com/wiki/Big_Hat_Logan) from _Dark Souls_.
--   Master Thief Earrings are very similar to those of Chrollo Lucifer from _Hunter × Hunter._
--   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _Avatar: The Last Airbender_.
--   The Old World Sun Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _Skyrim_.
--   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from _Guilty Gear -STRIVE-_.
+-   The [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) and its [smaller version](<Alchemist's_Hat.md>) are a reference to [Big Hat Logan](https://darksouls.fandom.com/wiki/Big_Hat_Logan) from _[Dark Souls](<https://en.wikipedia.org/wiki/Dark_Souls_(video_game)>)_.
+-   Master Thief Earrings are very similar to those of Chrollo Lucifer from _[Hunter × Hunter](https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter)_.
+-   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _[Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)_.
+-   The Wheel Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _[The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)_.
+-   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from _[Guilty Gear Strive](https://en.wikipedia.org/wiki/Guilty_Gear_Strive)_.
 -   Every Familiar Helmet from the Hallowtide event are helmets taken from _Rogue Lineage_.
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight Helmet**, respectively.
 -   Every [Mushroom Costume](Mushroom_Costume.md) is a direct reference to the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/)_.
@@ -37,11 +37,12 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Flame of Denial** and **Flame Within** are inspired by similar spells in _Dark Souls_.
     -   **Flame of Denial** works similarly to [Tears of Denial](https://darksouls.fandom.com/wiki/Tears_of_Denial).
     -   **Flame Within** works similarly to [Power Within](https://darksouls.fandom.com/wiki/Power_Within).
--   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _Valorant_, blinding anyone who looks at the exploding projectile.
+-   **Flame Blind** is inspired by [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) Curve Ball ability in _[Valorant](https://en.wikipedia.org/wiki/Valorant)_, blinding anyone who looks at the exploding projectile.
     -   Moreover, the Talent deck Duelist Flame refer to [Phoenix's](https://playvalorant.com/en-us/agents/phoenix/) role in the game, being a duelist.
--   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) "Divine Flame" move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo) and [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga).
--   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Technique_Reversal:_Red).
--   **Flaming Scourge** is inspired by [Katakuri](https://onepiece.fandom.com/wiki/Charlotte_Katakuri)'s Buzz Cut Mochi from _One Piece_.
+-   There are a handful of references to _[Jujutsu Kaisen](https://en.wikipedia.org/wiki/Jujutsu_Kaisen)_.
+    -   **Flame Ballista** is directly lifted from [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) "Divine Flame" move that he used against [Jogo](https://jujutsu-kaisen.fandom.com/wiki/Jogo) and [Mahoraga](https://jujutsu-kaisen.fandom.com/wiki/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga).
+    -   **Flame Repulsion's** Spring Spark modification strongly resembles [Satoru Gojo's](https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo) [Reversal Red](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Technique_Reversal:_Red).
+-   **Flaming Scourge** is inspired by [Katakuri](https://onepiece.fandom.com/wiki/Charlotte_Katakuri)'s Buzz Cut Mochi from _[One Piece](https://en.wikipedia.org/wiki/One_Piece)_.
 
 ### Thundercall
 

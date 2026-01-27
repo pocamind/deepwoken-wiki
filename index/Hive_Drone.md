@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 191086
+revid: 194440
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Hive]
@@ -42,7 +42,7 @@ This Outfit has 1000 durability and grants +25% Physical resistance, +25% Elemen
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
-## Trivia/Notes
+## Trivia
 
 -   Worn by [Hive Scouts](Hive_Scout.md).
 -   One of the cheapest Expert armors to make.

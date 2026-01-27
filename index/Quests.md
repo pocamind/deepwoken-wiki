@@ -1,9 +1,9 @@
 ---
 title: Quests
-revid: 193816
+revid: 194347
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [SpoilerPages, Pages with broken file links, Quests, NPCs, Mechanics]
+categories: [SpoilerPages, Quests, NPCs, Mechanics]
 notices:
   - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
@@ -12,9 +12,9 @@ notices:
 
 ## Description
 
-**Quests** are a major part of _Deepwoken_. They are a significant means of progression, rewarding essential [Talents](Talents.md), EXP, or items upon completion. Most quests require killing enemies or obtaining certain items while some simply require talking to an NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md), [Job Boards](Job_Boards.md) and [unbinding attributes](Attributes_Unbound.md) are on their own pages.
+**Quests** are a major part of _Deepwoken_. They are a significant means of progression, rewarding essential [Talents](Talents.md), EXP, or items upon completion. Most quests require killing enemies or obtaining certain items while some simply require talking to a NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md), [Job Boards](Job_Boards.md) and [Attributes Unbounds](Attributes_Unbound.md) are on their own pages.
 
-Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your <trait> and grown from it" and an extra Talent hand will be awarded on [Power Increase](Power.md) or on rejoin. If you are Power 20, the hand is given immediately. Any subsequent completions of quests in that category will not award a Talent hand, meaning you can get a maximum of 3 extra Talent hands from quests.
+Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your \[Trait\] and grown from it" and an extra Talent hand will be awarded on [Power](Power.md) increase or by rejoining. If you are Power 20, the hand is given immediately. Any subsequent completions of quests in that category will not award a Talent hand, meaning you can get a maximum of 3 extra Talent hands from quests.
 
 ## Echo Talent Quests
 
@@ -153,7 +153,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
   <td><div><p><b>Quest Location</b>: <a href="Summer_Isle.md">Summer Isle</a><br>
   <b>Guide</b>: Talk to the Gremor NPC Trig outside the Guildhall at Summer Isle. He'll have you find Asius, a merchant who hasn't been paying his dues. When speaking to Asius, the quest has two branching paths from here; each ending is <b>mutually exclusive with the other</b>, locking out the other quest ending. Get the ship deed from Asius then return to Trig at the inn for the <b>Armor Piercing</b> ending. Tell Trig you'll help them for the <b>Bullet Proof</b> ending.<b><br>
   </b><b>Reward(s)</b>: <a href="Talents.md#armor-piercing">Armor Piercing</a> OR <a href="Talents.md#bullet-proof">Bullet Proof</a> (Added to Talent pool, not given instantly), either Positive or Negative Summer Company Reputation depending on the ending (Armor Piercing gives positive rep / Bulletproof gives negative), 3 Full Training points</p></div></td>
-  <td><figure>File:Trig.png<figcaption><p></p><div><a href="Trig.md">Trig</a></div><p></p></figcaption></figure><figure>File:Asius.png<figcaption><p></p><div><a href="Asius.md">Asius</a></div><p></p></figcaption></figure></td>
+  <td><figure><figcaption><p></p><div><a href="Trig.md">Trig</a></div><p></p></figcaption></figure><figure><figcaption><p></p><div><a href="Asius.md">Asius</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>

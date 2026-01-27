@@ -1,6 +1,6 @@
 ---
 title: Maura
-revid: 191541
+revid: 194304
 source: https://deepwoken.fandom.com/wiki/Maura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union, Reputation]

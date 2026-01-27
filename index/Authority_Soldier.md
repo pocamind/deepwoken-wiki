@@ -1,6 +1,6 @@
 ---
 title: Authority Soldier
-revid: 176653
+revid: 194376
 source: https://deepwoken.fandom.com/wiki/Authority_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies]
@@ -74,7 +74,7 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 
  |
 
-## Talents
+### Talents
 
 -   Hell's Partisan - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above.
 -   Warding Radiance - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active.
@@ -84,6 +84,4 @@ An Authority Soldier's arsenal consists of either a [Adretian Axe](Adretian_Axe.
 
 ## Trivia
 
--   They are one of two Authority mobs that can be non-Adrets, the other being the [Authority Peacekeeper](Authority_Peacekeeper.md).
--   During Beiruul's Fort Merit raid quest, they seem to have a flame Mantra that slashes forward with the testing sword m1 animation.
--   They're also named "Authority Private" in the Fort Merit raid quest.
+-   They are one of two Authority enemies that can be non-Adrets, the other being the [Authority Peacekeeper](Authority_Peacekeeper.md).

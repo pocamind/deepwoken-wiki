@@ -1,6 +1,6 @@
 ---
 title: Legion Sniper
-revid: 176646
+revid: 194416
 source: https://deepwoken.fandom.com/wiki/Legion_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Hundred Legions, The Hundred Legions Enemies]
@@ -117,7 +117,3 @@ A Legion Sniper's arsenal consists of either a [Ritual Spear](Ritual_Spear.md), 
     -   Legion Snipers were the only Legion member to be hostile to players even if players had positive reputation with the Legion.
 -   Their Grand Javelin has way less cooldown than a player Grand Javelin since he can use it around every 2.5s
 -   Legion Kata's recommendation can be obtained from them if you talk to them after helping the Legion Captain two times.
-
-## Gallery
-
-After throwing a Grand Javelin

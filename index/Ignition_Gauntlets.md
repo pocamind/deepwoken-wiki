@@ -1,6 +1,6 @@
 ---
 title: Ignition Gauntlets
-revid: 189899
+revid: 194413
 source: https://deepwoken.fandom.com/wiki/Ignition_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves, The Ignition Union]
@@ -26,7 +26,7 @@ categories: [Equipment, Arms, Gloves, The Ignition Union]
 
 ## Description
 
-The Ignition Gauntlets is an Equipment Armor in the "Arms" category.
+The Ignition Gauntlets is an Equipment item under the "Arms" category.
 
 The [Force Your Way](Talents.md#force-your-way) Talent allows you to parry unparryable attacks from giant monsters at the cost of your armor durability.
 

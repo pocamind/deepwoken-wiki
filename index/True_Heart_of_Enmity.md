@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 194274
+revid: 194387
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
 | True Heart of Enmity | |
 |---|---|
 | health | 18,000 |
-| attacks | Enmity's Call, Homerun Bat[1], Sadistic Fury, Reposition, Sadistic Edge, Spread, Obsidian Wings, The Brutalizer, Condemnation's Fall, I Shall Make This Agony Everlasting, Your Arrogance Must Pay The Price Of This Bargain |
+| attacks | Enmity's Call, Homerun Bat[1], Sadistic Fury, Reposition, Sadistic Edge, Spread, Obsidian Wings, The Brutalizer, Condemnation's Fall, Everlasting Agony, Event Horizon |
 | drops | See loot table |
 | locations | Cathedral of the Interstice |
 
@@ -151,7 +151,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
  |
 | 
 
-**I Shall Make This Agony Everlasting, Your Arrogance Must Pay The Price Of This Bargain**  
+**Everlasting Agony**  
 (★★★)
 
  | The Heart of Enmity, filled with contempt, makes an unparryable charge towards the player, sending them upwards before slowly taking flight and crashing down at them, dealing major damage.
@@ -188,8 +188,8 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
   <td>
   <ul>
-    <li><b>Unique Outfit:</b> <font>Vigil Sentinel</font>, <font>Shock Corps Light</font></li>
-    <li><b>Generic Outfit:</b> <a href="Shadow_Hunter.md">Shadow Hunter</a></li>
+    <li><b>Adept Outfit:</b> <a href="Shadow_Hunter.md">Shadow Hunter</a></li>
+    <li><b>Unique Outfit:</b> <a href="Shock_Corps_Light.md"><font>Shock Corps Light</font></a>, <a href="Vigil_Sentinel.md"><font>Vigil Sentinel</font></a></li>
   </ul></td>
 </tr>
 <tr>
@@ -213,7 +213,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Big_Brother.md">Big Brother</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a></li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Purple_Cloud.md">Purple Cloud</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scimitar.md">Scimitar</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a>, <a href="Kindred_Edict.md">Kindred Edict</a></li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kindred_Edict.md">Kindred Edict</a>, <a href="Pernach.md">Pernach</a>, <a href="Purple_Cloud.md">Purple Cloud</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scimitar.md">Scimitar</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
     <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Duskguard_Axe.md">Duskguard Axe</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>, <a href="Halberd.md">Halberd</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>, <a href="The_Path's_Defender.md">The Path's Defender</a></li>

@@ -1,9 +1,9 @@
 ---
 title: Amara
-revid: 191310
+revid: 194422
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
+categories: [Khan NPCs, Pathfinder Exclusive, Individuals with She/her pronouns, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
 ---
 
 # Amara
@@ -11,7 +11,9 @@ categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean L
 | Amara | |
 |---|---|
 | name | Amara |
+| alias | Centurion[1] |
 | aspect | Khan |
+| pronouns | She/her[1] |
 | location | The Viper's Jaw |
 | affiliation | The Hundred Legions |
 
@@ -123,3 +125,7 @@ Amara is located in [Erisia](Erisia.md) in the [The Viper's Jaw](<The_Viper's_Ja
 
 -   If you have either [Legion Kata](Fists.md) or good reputation, she will say something along the lines of "_Good to see you again \[Name\], What brings you back to the camp?_", yet your dialogue options are still the same and she answers the same way.
 -   Her hair id is 4996584513
+
+## References
+
+1.  ↑ [1.0](#cite-ref-cap-1-0) [1.1](#cite-ref-cap-1-1) NPC dialogue: [Legion Captain](Legion_Captain.md)

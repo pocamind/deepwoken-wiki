@@ -1,6 +1,6 @@
 ---
 title: Immortal Guardian
-revid: 192338
+revid: 194338
 source: https://deepwoken.fandom.com/wiki/Immortal_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]

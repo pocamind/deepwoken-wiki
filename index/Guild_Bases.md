@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 188750
+revid: 194402
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, OutdatedPages, Guilds, Locations]
@@ -63,7 +63,7 @@ The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md)
 
 ## Rooms
 
-A guild base can be increased in size through different rooms. Most provide practical uses, while others purely cosmetic. To build an XL, you will need two adjascent empty rooms.
+A guild base can be increased in size through different rooms. Most provide practical uses, while others purely cosmetic. To build an XL, you will need two adjacent empty rooms.
 
 | Preview | Name | Cost | Size | Description |
 | --- | --- | --- | --- | --- |

@@ -1,6 +1,6 @@
 ---
 title: Rohan
-revid: 191605
+revid: 194333
 source: https://deepwoken.fandom.com/wiki/Rohan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Reputation, Military personnel of The Central Authority]

@@ -1,6 +1,6 @@
 ---
 title: Captain Trist
-revid: 194019
+revid: 194389
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
@@ -102,9 +102,9 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 </tbody>
 </table>
 
-**Exiled from Authority:**
+**Not Authority Ensign:**
 
-**Deserted the Authority:**
+**Deserted:**
 
 <table>
 <tbody>
@@ -120,7 +120,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 </tbody>
 </table>
 
-**Traitor to Authority:**
+**Traitor:**
 
 <table>
 <tbody>
@@ -136,7 +136,7 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 </tbody>
 </table>
 
-**Not Authority Ensign:**
+**Other Origin:**
 
 <table>
 <tbody>
@@ -145,22 +145,6 @@ Captain Trist is located on the path to [Merit's Reach](<Merit's_Reach.md>), aro
 </tr>
 <tr>
   <td>I only hand out orders to <a href="Glossary.md#the-central-authority">Authority</a> soldiers, civilian.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Bad Authority Reputation:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>WIP</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

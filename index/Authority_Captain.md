@@ -1,6 +1,6 @@
 ---
 title: Authority Captain
-revid: 176651
+revid: 194374
 source: https://deepwoken.fandom.com/wiki/Authority_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Central Authority Enemies, Enemies that can wield Enchantments]
@@ -81,7 +81,7 @@ Their arsenal consists of an [Cavalry Saber](Cavalry_Saber.md) or an [Adretian A
 
  |
 
-## Talents
+### Talents
 
 -   Glass Path: Crystallization - Your ice abilities cause ice crystals to grow on your opponent instead of slowing them.
 -   Preceding Chill - Enemies hit during the last moments of your ice beam are frozen.
@@ -108,4 +108,4 @@ An Authority Captain executes it's opponent after knocking them:
 -   This is the only Authority Soldier with a completely unobscured faces.
 -   The Authority Captain has no chance of winning if it fights against the Hive Construct.
     -   Very rarely they can manage to beat a Hive Construct.
--   One of the most tanky NPCs in the game, second only to their superior, the [Authority Commander](<Authority_Commander_(Enemy).md>), so it is not advisable to fight against them being a low level since they have a decent AI to combat (not surprisingly, these guys go 1v1 against a [Hive Construct...](Hive_Construct.md))
+-   One of the most tanky NPCs in the game, second only to their superior, the [Authority Commander](<Authority_Commander_(Enemy).md>), so it is not advisable to fight against them being a low level since they have a decent AI to combat (not surprisingly, these guys go 1v1 against a [Hive Construct](Hive_Construct.md)...)

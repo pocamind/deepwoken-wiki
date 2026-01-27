@@ -1,9 +1,9 @@
 ---
 title: Asius
-revid: 191323
+revid: 194346
 source: https://deepwoken.fandom.com/wiki/Asius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Asius
@@ -18,15 +18,17 @@ categories: [Adret NPCs, NPCs, Quests, NPCs located in the Eastern Luminant]
 
 ― Asius
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 ## Description
 
-**Asius** is an [Adret](Adret.md) who wears [Experienced Adventurer](Experienced_Adventurer.md) outfit. He is crucial for [Trig's](Trig.md) quest to get the Armor Piercing talent
-
-He is a merchant who hasn't been paying his dues to the Summer Company. He can give you More information can be found about the quest in the [Summer Isle](https://deepwoken.fandom.com/wiki/Summer_Isle#Trig_%5BQUEST%5D) page. Note that you can still come back to Asius to get his papers after you picked "I'll see what I can do."
+Asius is an [Adret](Adret.md) NPC. The player is able to take back owed money for [The Summer Company](The_Summer_Company.md) in [Trig's](Trig.md) [Quest](Quests.md).
 
 ## Location
 
-Asius is located in [Summer Isle](Summer_Isle.md). He can be found behind the Inn if you follow the path leading away from the Inn, in an alcove facing the hive.
+Asius is can be found trailing down the path behind the [Inn](Inn.md) at a shore in [Summer Isle](Summer_Isle.md).
 
 ## Dialogue
 
@@ -35,13 +37,13 @@ Asius is located in [Summer Isle](Summer_Isle.md). He can be found behind the In
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="4">Hey get away, I don't want any attention over here.</td>
+  <td>Hey get away, I don't want any attention over here.</td>
 </tr>
 <tr>
-  <td colspan="4">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -55,27 +57,27 @@ This dialogue is unlocked if the player has started [Trig](Trig.md)'s quest.
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin Dialogue</td>
+  <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="4">Hey get away, I don't want any attention over here.</td>
+  <td colspan="2">Hey get away, I don't want any attention over here.</td>
 </tr>
 <tr>
-  <td colspan="4">Asius, I've been sent to collect some money you owe.</td>
+  <td colspan="2">Asius, I've been sent to collect some money you owe.</td>
 </tr>
 <tr>
-  <td colspan="4">Look look... I don't really have the money.. you'll help get these thugs off my back right?</td>
+  <td colspan="2">Look look... I don't really have the money.. you'll help get these thugs off my back right?</td>
 </tr>
 <tr>
-  <td colspan="2">I'll see what I can do.</td>
-  <td colspan="2">No, you bottom-feeder, hand over the money now or you'll be sinking to the 3rd layer.</td>
+  <td>I'll see what I can do.</td>
+  <td>No, you bottom-feeder, hand over the money now or you'll be sinking to the 3rd layer.</td>
 </tr>
 <tr>
-  <td colspan="2">Haha thanks pal! Promise I'll get you a nice castle in the next life.</td>
-  <td colspan="2">Geeze RELAX! Here, take the papers for my ship. It's all I have.</td>
+  <td>Haha thanks pal! Promise I'll get you a nice castle in the next life.</td>
+  <td>Geeze RELAX! Here, take the papers for my ship. It's all I have.</td>
 </tr>
 <tr>
-  <td colspan="4">[End Dialogue]</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -85,19 +87,24 @@ This dialogue is unlocked if the player has started [Trig](Trig.md)'s quest.
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="4">Don't tell me you need something else?</td>
+  <td>Don't tell me you need something else?</td>
 </tr>
 <tr>
-  <td colspan="4">Yeah, change of plans, hand over the money.</td>
+  <td>Yeah, change of plans, hand over the money.</td>
 </tr>
 <tr>
-  <td colspan="4">Geeze RELAX! Here, take the papers for my ship. It's all I have.</td>
+  <td>Geeze RELAX! Here, take the papers for my ship. It's all I have.</td>
 </tr>
 <tr>
-  <td colspan="4">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   They wear the [Experienced Adventurer](Experienced_Adventurer.md) Outfit.
+-   If accidentally choosing, "I'll see what I can do.," the player is able to speak with Asius again to receive the owed money.

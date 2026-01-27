@@ -1,6 +1,6 @@
 ---
 title: Etrean Soldier
-revid: 176656
+revid: 194370
 source: https://deepwoken.fandom.com/wiki/Etrean_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies]
@@ -71,10 +71,9 @@ An Etrean Soldier's arsenal only consists of a [Battleaxe](Battleaxe.md) or [Rit
 
  |
 
-## Talents
+### Talents
 
 -   Speed Demon - Your attacks now inflict bleed while you have a speed boost.
-
 -   Air Pressure - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash.
 -   Suffocating Impact - When flourishing enemies into walls they are suffocated and winded for a short duration.
 -   Stifled Jump - Enemies who jump while suffocated are dazed.
@@ -90,9 +89,7 @@ An Etrean Soldier executes it's opponent after knocking them:
 
  |
 
-  
-
 ## Trivia
 
 -   They appear to act as naval officers, as they spawn on ships and are found in areas that are easier to reach via boat.
--   Almost every time they will lose against Authority Footsoldiers.
+-   Almost every time they will lose against Authority Soldiers.
