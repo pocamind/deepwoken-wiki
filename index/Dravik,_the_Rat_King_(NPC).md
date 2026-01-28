@@ -1,6 +1,6 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 191404
+revid: 194474
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
@@ -28,8 +28,6 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 A phantom of [the Inheritor](The_Inheritor.md)'s victory - the late Dravik, the Rat King is located at [The Cerebral Spire](The_Cerebral_Spire.md) next to the Boundary portal. He was a former Etrean instructor, who sparred with [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), and possibly the Mentor of [Evengarde Rest](Evengarde_Rest.md), who at the time of the Vow of Iron gamemode is in the [West](Luminants.md) training with the [Hundred Legions](The_Hundred_Legions.md). Additionally he believes that only he could have a chance against [The Lord Regent](The_Lord_Regent.md), even if the Inheritor tries possibilities out to take him out. In his phantom dialog, he elaborates as to why he left the [Blade Temple](Temple_of_the_Blade.md) for the Golden Rats, mainly critiquing the place being "a shadow of it's former self".
-
-Interestingly enough, after Dravik got killed by The Inheritor, his soul, even though he mentions that they all get dragged in [The Depths](The_Depths.md) after death, wasn't experiencing this particular fate. Instead, his consciousness immediately manifested as an interactive memory-echo within the Cerebral Spire. This directly contradicts his own claim that every soul enters the Depths, creating a significant anomaly. As to why he immediately became a memory inside the Cerebral Spire is unknown and free of speculation: perhaps because his consciousness was trapped or archived by the Cerebral Spire itself at the moment of death, bypassing the Depths entirely, he was pulled into the Depths, but into a unique, deeper stratum that is mystically linked to the Spire, allowing his "memory" to project from there or a fragment of his soul or will, presumably tied to his connection to the Rat King, remained behind as a vestige, not a full soul in the afterlife. Despite his "death", this echo retains a limited ability to communicate with living Inheritors. His final offer of help "wherever" he can implies that the echo is more than just a memory, thus suggesting that he is only dead in [the overworld](Luminants.md), but not where he is, leaving open possibilities for the return of The Rat King.
 
 ## Dialogue
 

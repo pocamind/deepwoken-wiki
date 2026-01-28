@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 193828
+revid: 194484
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1118,7 +1118,7 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 -   Similarly to every other Wisp mantra, **Thunder Wisp** gives the player a finger on the hand that casts the mantra
 -   During the early days of Deepwoken, Grand Skewer was notorious for a bug that allowed it to instantly kill whatever it hit if an entity was already stuck on it. This often occurred when the already-skewered victim died. Dying to this bug would take lives in the overworld and wipe you in [The Depths](The_Depths.md), and it was fixed a little over two months after the game's release.
     -   For this reason, [Legion Snipers](Legion_Sniper.md) were considered to be fairly dangerous when fought as a group.
--   **Emotion Wave** is a direct reference to the [_**Ancient Dragons' Lightning Strike**_](<https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike>) incantation from [_Elden Ring_](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki)
+-   **Emotion Wave** is a direct reference to the [_**Ancient Dragons' Lightning Strike**_](<https://eldenring.wiki.fextralife.com/Ancient+Dragons'+Lightning+Strike>) incantation from [_Elden Ring_](https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki). It also possibly gets its name from Lightning Style: Emotion Wave. Shown in Naruto Shippuden Episode 202.
 -   Thundercall is needed for every [Oath](Oaths.md) that requires an [attunement](Attunements.md), those being: [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md) and [Saintsworn](Oath%253A_Saintsworn.md).
 -   It is said by [Neero](Neero.md) that Thundercall can "power" golems to "give life" to them.
 -   The [Railblade](Railblade.md) was originally intended to be a legendary weapon for this attunement.
