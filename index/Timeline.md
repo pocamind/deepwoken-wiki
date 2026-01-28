@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 194491
+revid: 194493
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages]
@@ -47,9 +47,9 @@ During this period, mankind made the discovery of the Song and gradually refined
 
 As the utilization of the Song grows and understanding of it deepens, it culminated and reached its peak during a distinct period referred to as The Canticlysm. This period, often referred to as the Golden Age of the Song, is renowned for its supposed peace and tranquility and characterized by remarkable innovation.
 
-During this transformative era, significant advancements lead to the creation of the four primary attunements known as Flamecharm, Frostdraw, Thundercall, Galebreathe, and the newly emerging attunement called Ironsing. The formation and development of Ironsing began after the discovery of pluripotent alloys, marking a significant milestone in the understanding and manipulation of metallic objects.[\[8\]](#cite-note-8) Additionally, legendary weapons of rare and mysterious nature, such as the Crypt Blade and the Curved Blade of Winds, are said to have been forged, along with many others whose existence remains shrouded in mystery.
+During this transformative era, significant advancements lead to the creation of the four primary attunements known as [Flamecharm](Flamecharm.md), [Frostdraw](Frostdraw.md), [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), and the newly emerging attunement called [Ironsing](Ironsing.md). The formation and development of Ironsing began after the discovery of pluripotent alloys, marking a significant milestone in the understanding and manipulation of metallic objects.[\[8\]](#cite-note-8) Additionally, legendary weapons of rare and mysterious nature, such as the Crypt Blade and the Curved Blade of Winds, are said to have been forged, along with many others whose existence remains shrouded in mystery.
 
-It is believed that, despite how it seems the four primary Attunements were created during the Canticlysm, that they, Shadowcast, and other Attunements possibly, were actually merely discovered, as they seem to come from the Drowned Gods and be inherent to the Song, however other Attunements were created by mankind, artificial to the Song, such as Lifeweave, Bloodrend and Ironsing.
+It is believed that, despite how it seems the four primary Attunements were created during the Canticlysm, that they, [Shadowcast](Shadowcast.md), and other Attunements possibly, were actually merely discovered, as they seem to come from the Drowned Gods and be inherent to the Song, however other Attunements were created by mankind, artificial to the Song, such as Lifeweave, [Bloodrend](Bloodrend.md) and Ironsing.
 
 ## The Tides
 

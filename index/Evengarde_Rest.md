@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 193248
+revid: 194494
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Evengarde Rest is the current Maestro of the Vigils, having succeeded [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) and is highly respected by all of them. He resides within the [Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. A kind of intimidating air lingers around him, and it prevents people from introducing themselves to him until they get permission. [The Pathfinder](The_Pathfinder.md) can speak to rest if they save a Vigil swordsman named [Isaac](Vigil_Isaac.md). A master of combat arts, Rest is able to teach them how to overcome the limits of their weapon proficiencies.
+Evengarde Rest is the current Maestro of the Vigils, having succeeded [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) and is highly respected by all of them. He resides within the [Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. An intimidating air lingers around him, and it prevents people from introducing themselves to him until they get permission. [The Pathfinder](The_Pathfinder.md) can speak to rest if they save a Vigil swordsman named [Isaac](Vigil_Isaac.md). A master of combat arts, Rest is able to teach them how to overcome the limits of their weapon proficiencies.
 
 As a youth during the [Etrean Civil War](Etrean_Civil_War.md), Evengarde was known for being a prodigy and departed for the Western Luminant to train with [The Hundred Legions](The_Hundred_Legions.md).[\[1\]](#cite-note-1)
 
