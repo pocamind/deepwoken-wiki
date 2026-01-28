@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 190445
+revid: 194486
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -19,7 +19,7 @@ categories: [Relics]
 | droppable | Yes, but not on death |
 | pass down | No |
 | desc | A needle imbued with Ironsing, capable of making precise adjustments to the characteristics of equipment. |
-| obtainment | Duke Erisia, Etris Siege, Fishing, Hell Mode, Hollow Forge, Lysander Spellhardt, Maestro Evengarde Rest, Voidwalker Chests, Heart of Enmity, Primadon, Diver Expedition Sea Event, Saramaed Hollow, Scion of Ethiron, The Diluvian Mechanism, The Doom of Caeranthil, The Ferryman, War Mode, World Events, Artifacts, Titus Fulminus Destellus, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for 1 |
+| obtainment | Duke Erisia, Etris Siege, Fishing, Hell Mode, Hollow Forge, Lysander Spellhardt, Maestro Evengarde Rest, Voidwalker Chests, Heart of Enmity, Primadon, Diver Expedition Sea Event, Saramaed Hollow, Scion of Ethiron, The Diluvian Mechanism, The Doom of Caeranthil, The Ferryman, War Mode, World Events, Artifacts, Captain Solaire, Captain Marley, Titus Fulminus Destellus, Elder Primadon, The Titan Warlord, Sold in Traan Zakshun's black market for 1 |
 
 ## Description
 

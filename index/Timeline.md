@@ -1,11 +1,11 @@
 ---
 title: Timeline
-revid: 174650
+revid: 194491
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
+categories: [OutdatedPages]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - This page may contain incorrect information. Please wait for an updated version to release.
 ---
 
 # Timeline
@@ -49,7 +49,7 @@ As the utilization of the Song grows and understanding of it deepens, it culmina
 
 During this transformative era, significant advancements lead to the creation of the four primary attunements known as Flamecharm, Frostdraw, Thundercall, Galebreathe, and the newly emerging attunement called Ironsing. The formation and development of Ironsing began after the discovery of pluripotent alloys, marking a significant milestone in the understanding and manipulation of metallic objects.[\[8\]](#cite-note-8) Additionally, legendary weapons of rare and mysterious nature, such as the Crypt Blade and the Curved Blade of Winds, are said to have been forged, along with many others whose existence remains shrouded in mystery.
 
-It is believed that, despite how it seems the four primary Attunements were created during the Canticlysm, that they, Shadowcast, and other Attunements possibly, were actually merely discovered, as they seem to come from the Drowned Gods and be inherent to the Song, however other Attunements were created by mankind, artificial to the Song, such as Lifeweave and Ironsing.
+It is believed that, despite how it seems the four primary Attunements were created during the Canticlysm, that they, Shadowcast, and other Attunements possibly, were actually merely discovered, as they seem to come from the Drowned Gods and be inherent to the Song, however other Attunements were created by mankind, artificial to the Song, such as Lifeweave, Bloodrend and Ironsing.
 
 ## The Tides
 

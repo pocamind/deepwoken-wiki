@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 193130
+revid: 194490
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -599,7 +599,7 @@ Wind + Blunt
 -   Gems apply ONLY to the last hit, making Bloodless' healing very low.
 -   Pressing F during the animation lets you kick your opponent down into the ground, applying daze and knockdown.
 -   Gives I-Frames to yourself and your opponent throughout the duration of the Mantra.
--   Can be vented to cancel it early.
+-   Can vent during the mantra, however, this does not cancel it.
 -   Can proc **Meteor Impact**.
 
  |
