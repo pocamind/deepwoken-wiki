@@ -1,6 +1,6 @@
 ---
 title: Diver Journeyman Robes
-revid: 186676
+revid: 194492
 source: https://deepwoken.fandom.com/wiki/Diver_Journeyman_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Divers]
@@ -42,7 +42,7 @@ This outfit has 1000 durability and grants +20% Physical resistance, +10% Blunt 
 
 The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md) and movement speed while crouching. Additionally, this removes the sound that sheathing and unsheathing your weapon makes.
 
-## Trivia/Notes
+## Trivia
 
 -   Essentially a red reskin of [Diver Apprentice](Diver_Apprentice_Robes.md) in terms of appearance
 -   Stat wise, this outfit is an upgrade to Diver Apprentice in all ways (beside the lack of Ether Regen and the same durability).
