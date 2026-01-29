@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 181405
+revid: 194502
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -28,7 +28,7 @@ Once you enter the main area of the island, there is a ridge which overlooks a m
 
 The island is very abundant with food. Calabash, wheat, mushrooms, and other things can be found at this island. If you're a carnivore, there's not much for you to eat besides the players who come here to fight [Primadon](Primadon,_Titan_of_the_East.md) or the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md).
 
-On the edge of the ridge there's a fire that is always burning. You can interact with the fire and make a sacrifice. You can sacrifice food, mantra modifiers, and raw materials. This fire is used to summon the [Primadon](Primadon,_Titan_of_the_East.md), a massive aquatic ape, or the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), a stronger variant. The recognized items that work to summon [Primadon](Primadon,_Titan_of_the_East.md) are three Umbral Obsidian or five Megalodaunt hides and for [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) it's four Sinner's Ashes or ten Idols of Yunshul. Once the [Primadon](Primadon,_Titan_of_the_East.md) is successfully summoned, the island's name changes to the [Primadon](Primadon,_Titan_of_the_East.md)'s Hunting Grounds.
+On the edge of the ridge there's a fire that is always burning. You can interact with the fire and make a sacrifice. You can sacrifice food, mantra modifiers, and raw materials. This fire is used to summon the [Primadon](Primadon,_Titan_of_the_East.md), a massive aquatic ape, or the [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), a stronger variant. The recognized items that work to summon [Primadon](Primadon,_Titan_of_the_East.md) are three Umbral Obsidian or five Megalodaunt hides, and for [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), it's a singular Sinner's Ash. Once the [Primadon](Primadon,_Titan_of_the_East.md) is successfully summoned, the island's name changes to the [Primadon](Primadon,_Titan_of_the_East.md)'s Hunting Grounds.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 194220
+revid: 194507
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -593,7 +593,7 @@ N/A
 
 ### _Agility Mantras_
 
-Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with [Ankle Weights](Training_Gear.md#attribute-training-gears) by sliding, climbing walls, vaulting over obstacles and rolling. And most importantly, _assassinations._
+Agility Mantras are mainly based on making sure your enemy can't escape and keeping a "steady footing" during battle through sheer speed. To increase the attribute, bolster your agility and parkour abilities with [Ankle Weights](Training_Gear.md#attribute-training-gears) by sliding, climbing walls, vaulting over obstacles and rolling.
 
 | 
 **Name**
@@ -660,7 +660,7 @@ Slash + [Bleed](Status_Effects.md#bleed)
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12/13/14/15/16 per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
+-   Has a base damage of 12/13/14/15/16[/17/18/19](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
@@ -708,8 +708,8 @@ Blunt
 
 **Effect:** _User performs an axe kick and then immediately unleashes a front kick that ragdolls enemies._
 
--   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63 per level with no investment scaling.
--   The second hit has a base damage of 19.133/22.31/25.5/28.69/31.88 per level with no investment scaling.
+-   The first hit has a base damage of 31.88/35.06/38.25/41.44/44.63[/47.81/51/54.19](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
+-   The second hit has a base damage of 19.133/22.31/25.5/28.69/31.88[/35.06/38.25/41.44](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) per level with no investment scaling.
 -   Feinting after the first attack will instantly use the second.
 -   Upgraded with Agility and not Strength.
 
@@ -789,11 +789,11 @@ N/A
 
 **Effect:** _User activates an inner surge of energy_
 
--   Grants a speed boost for 10/12/14/16/18 seconds per level.
--   Has a cooldown of 60/55/50/45/40 seconds per level.
+-   Grants a speed boost for 10/12/14/16/18[/20/22/24](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
+-   Has a cooldown of 60/55/50/45/40[/35/30/25](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>) seconds per level.
 -   Counts as a speed boost, meaning it can proc all speed boost reliant Talents.
 -   The Mantra's visual effect does not increase with level, leading to it being very inaccurate.
--   Can be upgraded with the [Action Surge](Talents.md#vigil-swordsman) Talent, increasing the swing speed of all weapons by 0.04 while Action Surge is active.
+-   Can be upgraded with the [Action Surge](Talents.md#action-surge) Talent, increasing the swing speed of all weapons by 0.04 while Action Surge is active.
 
  |
 

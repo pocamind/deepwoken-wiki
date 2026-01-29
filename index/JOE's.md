@@ -1,6 +1,6 @@
 ---
 title: "JOE's"
-revid: 193793
+revid: 194506
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -22,11 +22,11 @@ notices:
 
 JOE's is an **unobtainable** stunning enchantment that can stop time briefly.
 
-This enchantment changes your weapon's color to a glowing white with cackling black lightning emanating from it.
+This enchantment changes your weapon's color to a glowing white with cackling black and white lightning emanating from it.
 
 ## Effect
 
-JOE's changes your weapon's critical. On use, plant your weapon in the ground, creating a Stasis Sphere around yourself for a duration. Anyone in the Stasis Sphere, excluding the caster, will not be able to act for the duration of the Sphere. Additionally, you will not be able to see any actions being performed inside of the Stasis Sphere.
+JOE's changes your weapon's critical. On use, plant your weapon in the ground, creating a Stasis Sphere around yourself for a duration. Anyone in the Stasis Sphere, excluding the caster, will not be able to act or see any actions made within the Sphere for the duration of the Sphere.
 
 The duration and AoE of the Stasis Sphere is based on the amount of M1 attacks you land prior to activating your critical. Each landed M1 increases the Stasis Sphere's duration by 1 second. Caps at 15 seconds.
 
