@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 194508
+revid: 194524
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -289,6 +289,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Endurance Runner \[Common Talent, Agility\] - Even when things look dire, you still have it in you to keep your legs moving. (+2 Passive Agility)
     -   Halve the speed penalty tied to lost health.
+    -   Currently does not work.
     -   Prerequisites: 25 Agility, 25 Fortitude
     -   The [Mercenary's Boots](<Mercenary's_Boots.md>) equipment has this Talent.
 
@@ -492,7 +493,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>), [Delver's Duster](<Delver's_Duster.md>), and [Providence Coat](Providence_Coat.md) equipment have this Talent.
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 5%, from -25% movement speed to -20%.
+    -   Increases your movement speed while blocking by 6.5625%, from -25% movement speed to -18.4375%. (confirmed by tester)
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdolled) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
@@ -688,7 +689,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisite: 50 Bloodrend
 
 -   Sanguine Siphon \[Common Talent, Bloodrend\] - Landing a critical attack while in a blood pool will consume that pool and empower your next blood mantra.
-    -   The next mantra will deal an additional 20% damage.
+    -   Buffs the next mantra’s damage by 25% upon proccing, signified by flowing blood out of your hands.
+    -   Effect lasts 15s before disappearing.
     -   Prerequisite: 40 Bloodrend
 
 -   Sheltering Grasp \[Common Talent, Bloodrend\] - Blood mantras cast within blood pools have a reduced blood cost.
@@ -737,6 +739,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Impairing Blow \[Common Talent, Heavy Weapon\] - Greataxes Basic Attacks will slightly slow your enemy for 2 seconds. Running attacks will slow your enemy for 3 seconds. Gain +20% posture damage against enemies with speed boosts.
     -   Does not proc on uppercut.
+    -   Reduces the opponents speed by a flat value of 5.
     -   Prerequisites: Use a Greataxe, 30 Heavy Weapon
 
 -   Brazen Blow \[Common Talent, Heavy Weapon\] - Greataxes Attacking an enemy slowed by your Greataxe grants you temporary hyperarmor.
@@ -746,6 +749,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: Use a Greataxe, Impairing Blow, 30 Heavy Weapon
 
 -   _Heavy Fatigue_ \[Rare Talent, Heavy Weapon\] - Greataxes Hitting an enemy slowed by your Greataxe temporarily reduces how far they can roll and applies [Sluggish](Status_Effects.md#sluggish) to PvE enemies for a few seconds.
+    -   Reduces opponents roll distance by 25% for 2.5s.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Does not proc on uppercut.
     -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapon
@@ -1355,7 +1359,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   [Rising Flame](Flamecharm.md#rising-flame), [Rising Frost](Frostdraw.md#rising-frost), [Rising Thunder](Thundercall.md#rising-thunder), [Rising Wind](Galebreathe.md#rising-wind), or [Rising Shadow](Shadowcast.md#rising-shadow)
 
 -   Phoenix Impact \[Common Talent, Flamecharm\] - If you Meteor Slam an opponent whilst on fire, restore some HP and Ether.
-    -   It heals 4% max HP and restores 20 ether.
+    -   Heals 4% max HP and restores 20 ether.
     -   Prerequisites: Meteor Impact, 40 Flamecharm
 
 ### Fish
@@ -1415,6 +1419,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Hell's Partisan \[Common Talent, Flamecharm\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
     -   Deals 5 Flamecharm damage.
+    -   Has a 5 second cooldown.
     -   This is parryable, but is not blockable nor dodgeable due to hitstun.
     -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // Warding Radiance
 
@@ -2599,6 +2604,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 20 Agility
 
 -   _Lightspeed Reflexes_ \[Rare Talent, Agility, Intelligence\] - Feinting gives a very brief auto-parry window. (+1 Passive Agility)
+    -   Grants 0.15s of auto-parry frames.
     -   Prerequisites: 20 Agility, 20 Intelligence
 
 -   Speed Emission \[Common Talent, Agility\] - Gain a slight speed boost after landing a vent.
@@ -2742,6 +2748,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 60 Bloodrend
 
 -   Just a Taste \[Common Talent, Bloodrend\] - First Bloodrend mantra you hit in combat has increased blood drain.
+    -   Currently does not work.
     -   Prerequisite: 20 Bloodrend
 
 -   Open Wound \[Common Talent, Bloodrend\] - Guardbreaking enemies leaves enemies more susceptible to blood loss from Bloodrend mantras.
@@ -2797,6 +2804,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Rampant Static
 
 -   Jolting Current \[Common Talent, Thundercall\] - Your lightning attacks in water strike others near them with lightning.
+    -   Apply shock or a surge stack on those nearby upon proc.
+    -   Those nearby take 50% damage of the original lightning attack in water.
     -   Prerequisite: 35 Thundercall
 
 ### Rending Needle
@@ -3420,7 +3429,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
 -   Jumper Cables \[Common Talent, Thundercall, Fortitude\] - Being made [Unconscious](Status_Effects.md#unconscious) with an active thether allows you to steal health from a tethered target and not be made [Unconscious.](Status_Effects.md#unconscious)
-    -   Whenever you would get knocked but have a tether active, steal HP from the target to survive the hit.
+    -   Whenever you would get knocked but have a tether active, steal HP from the latest static linked target to survive the hit.
+    -   Upon proccing, removes the static link entirely regardless of its duration.
     -   3–4 seconds cooldown between knock preventions.
     -   Prerequisites: Static Link, 40 Thundercall, 20 Fortitude
 
@@ -3655,7 +3665,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Thunder Caster
 
 -   Rain of Static \[Common Talent, Thundercall\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load)
-    -   When casting Lightning Impact, hover above the ground and fire multiple projectiles. Afterward, you strike down normally.
+    -   When casting Lightning Impact, hover above the ground and fire 4 thunder projectiles. Afterward, you strike down normally.
     -   Prerequisite: [Lightning Impact](Thundercall.md#lightning-impact) (Mantra)
 
 -   Windup Battery \[Common Talent, Thundercall, Intelligence\] - Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
@@ -5393,7 +5403,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Hellion Shift: [Oni Mask](Oni_Mask.md) - The more insane you are the more iframes you gain on your dodge.
 
--   _Heretic's Sacrifice_: [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) - A chat that heavily sacrifices your sanity to regain a bit of health.
+-   _Heretic's Sacrifice_: [Heretic's Moonseye Gauntlets](<Heretic's_Moonseye_Gauntlets.md>) - A chant that heavily sacrifices your sanity to regain a bit of health.
     
     -   Grants a Talent tool that drains a significant amount of sanity to heal 20 raw health.
     -   If you are already at 0 Sanity, you will still be healed at no downside.

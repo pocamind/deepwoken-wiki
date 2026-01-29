@@ -1,6 +1,6 @@
 ---
 title: Browncap
-revid: 190964
+revid: 194530
 source: https://deepwoken.fandom.com/wiki/Browncap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -34,6 +34,7 @@ A brown mushroom with a white stalk. Commonly found in [Etris](Etris.md), [Isle 
 -   [Mushroom Soup](Mushroom_Soup.md) - 2 Mushroom.
 -   [Mushroom Omelette](Mushroom_Omelette.md) - 2 Egg, 1 Mushroom.
 -   [Mushroom Bisque](Mushroom_Bisque.md)\- 1 Mushroom, 1 Crustacean Meat.
+-   [Crab Stuffed Browncaps](Crab_Stuffed_Browncaps.md)\- 3 Browncap, 2 Crustacean Meat, 1 Cheese.
 
 ## Trivia
 
