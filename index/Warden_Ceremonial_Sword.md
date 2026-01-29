@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 194256
+revid: 194519
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -45,12 +45,12 @@ The user dashes forward and performs a 360° horizontal slash. Landing the first
 
 The critical has a cooldown of **6 seconds**, even after the follow-up critical is landed.
 
-These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 
 -   Meeting the requirement of MED, the damage is (21.5)
 -   At max MED, the damage is (25.9)
--   Has the second fastest medium sword swing speed in the game, alongside the **[Alloyed Falchion](Falchion.md)**, but is beat by the **[Scimitar](Scimitar.md)**.
--   Has similar stats to the [Falchion](Falchion.md) (Alloyed), differing only by having 1 more base damage, a lower stat requirement, a unique critical, and by the lack of innate pen.
+-   Has the second fastest medium sword swing speed in the game, alongside the [Falchion](Falchion.md), but is beat by the [Scimitar](Scimitar.md).
+-   Has similar stats to the [Alloyed Falchion](Falchion.md), differing only by having 1 more base damage, a lower stat requirement, a unique critical, and by the lack of innate pen.
 -   It's model is a slight redesign of the oldest model for [Curved Blade of Winds](Curved_Blade_of_Winds.md), with a slight change in the color and type of handguard, the color of the handle and the width of the blade.

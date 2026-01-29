@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 194484
+revid: 194511
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -962,7 +962,7 @@ These Talents are found in the _Thundercaller_ category.
 |  | Discovery of Fire  
 (50 Thundercall) | Flints and Flamecharm are for simpletons. | Grants the "Discovery of Fire" Talent tool. Using Discovery of Fire lights all nearby campfires, and burns people close by. Deals 3 Thundercall damage on hit with no Thundercall scaling. Has a 1 second delay between activation and the lightning strike occurring, allowing you to movestack this ability with most attacks. |
 |  | Kickstart  
-(50 Thundercall, 40 Fortitude OR 40 Charisma) | Play the resurrector. Use your lightning to defibrillate your allies on the battlefield. | Grants the "Kickstart" Talent tool. Using Kickstart near a knocked player allows you to resuscitate them early, restoring 10% of their maximum health. |
+(50 Thundercall, 40 Fortitude // 40 Charisma) | Play the resurrector. Use your lightning to defibrillate your allies on the battlefield. | Grants the "Kickstart" Talent tool. Using Kickstart near a knocked player allows you to resuscitate them early, restoring 10% of their maximum health. |
 |  | Shocking Finish  
 (30 Thundercall, Lightning Beam) | Following a flourish up with a lightning beam causes it to be casted instantly. | This works on Talents that force a flourish such as Emperor Flame. |
 |  | Stratoshock  
@@ -1051,7 +1051,7 @@ These Talents are found in the _Thunderblade_ category.
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
 |  | Gathering Electricity  
-(65 Thundercall, 25 Strength OR Agility, Static Blade) | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (+10 Carry Load) | Increases the base damage of all weapons and criticals by 3 for the duration of its effect. You can gain Static Blade charges while this effect is active or on cooldown. |
+(65 Thundercall, 25 Strength // Agility, Static Blade) | \[Medium Weapons\] Reaching 10 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. This effect has a 60 second cooldown. (+10 Carry Load) | Increases the base damage of all weapons and criticals by 3 for the duration of its effect. You can gain Static Blade charges while this effect is active or on cooldown. |
 |  | Overcharge  
 (45 Thundercall, Gathering Electricity) | Your next dash after activating Static Blade is enhanced by lightning. | Lightning dashes go much further and have increased i-frames. Your lightning dash will end early should you attempt to attack. |
 |  | Static Blade  

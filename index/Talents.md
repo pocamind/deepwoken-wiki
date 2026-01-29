@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 194247
+revid: 194508
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -18,6 +18,17 @@ categories: [Mechanics, Outfits, Skills, Talents]
     -   _(i.e "40 Agility" to find Talents that you will have access to at 40 Agility)_
 -   FIND A GROUP OF TALENTS: Input a tree/category name to find Talents pertaining to that tree/category.
     -   _(i.e "Butterfly" to find Talents that are within Butterfly)_
+-   Each Talent has a list of tags listed after the Talent's name. These tags list the Talent's rarity and the name of the individual attribute(s) required to obtain it.
+    -   Talents with additional attribute requirements have their tags separated by commas. _(i.e Strength, Agility)_
+    -   Talents with alternative attribute requirements have "//" in their tags, separating the attributes. _(i.e Strength // Agility)_
+-   Talent requirements display additional and alternative requirements of the Talents.
+    -   Additional requirements on Talents are separated with commas.
+        -   _(i.e Suffocating Impact requires 15 Strength and 35 Galebreathe, written as "15 Strength, 35 Galebreathe")_
+    -   Alternative requirements on Talents are be displayed as "OR" or "//".
+        -   "//" is used if there is an alternative individual requirement.
+            -   _(i.e Hell's Partisan requires 35 Flamecharm and \[[Fire Forge](Flamecharm.md#fire-forge) or Warding Radiance\], written as "35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // Warding Radiance)_
+        -   "OR" is used if there is an alternative group of requirements.
+            -   _(i.e Murmur: Tacet can be obtained by doing its [obtainment quest](Cestis.md) OR by obtaining [Oath: Soulbreaker](Oath%253A_Soulbreaker.md))_
 
 [See all Talents here](#talents).
 
@@ -199,7 +210,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _Wyvern's Claw_ \[Rare Talent, Strength, Weapon\] - You deal 10% more damage while airborne. Mantras receive a 5% damage increase instead.
     -   Activates after not being in contact with a grounded surface for ~0.75 seconds.
     -   Synergizes very well with uppercuts.
-    -   Prerequisites: 15 Strength, 25 Weapon (25 Light OR 25 Medium OR 25 Heavy)
+    -   Prerequisites: 15 Strength, 25 Weapon (25 Light // 25 Medium // 25 Heavy)
 
 ### Aeromancer
 
@@ -261,13 +272,13 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
     -   Prerequisites: 60 Intelligence, interact with a [Cauldron](Cauldron.md)
 
--   _Potion Quaffer_ \[Rare Talent, Fortitude/Willpower, Intelligence\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
+-   _Potion Quaffer_ \[Rare Talent, Fortitude // Willpower, Intelligence\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.
     -   Drink potions 30% faster. Potions take 1.645s to drink rather than the base 2.35s. When in combat, potions with Health Restoration (instant or regen) whether positive or negative now take 2.85s to drink rather than the base 3.55s.
     -   The increased potion effectiveness is applied multiplicatively after Potency.
     -   Increases the effectiveness of Health Regeneration potions by 15%. This only applies if the potion is drank.
     -   Increases the effectiveness of Sanity Restoration and Ether Regeneration potions by 30%. This only applies if the potion is drank.
     -   Removes the innate -25% effectiveness that Instant Health potions have, also increases their in-combat effectiveness from -75% to -50%. This only applies if the potion is drank.
-    -   Prerequisites: 30 intelligence, 15 Fortitude _**or**_ 15 Willpower, interact with a [Cauldron](Cauldron.md)
+    -   Prerequisites: 30 intelligence, 15 Fortitude // 15 Willpower, interact with a [Cauldron](Cauldron.md)
         -   This Talent was merged with the old Subsistence Talent.
 
 -   Wild Alchemy \[Common Talent, Intelligence\] - You have a chance to brew 2 potions instead of 1.
@@ -554,7 +565,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Bladeharper
 
 -   [**Oath: Bladeharper**](Oath%253A_Bladeharper.md) - You vow to carry your blades as an instrument, to lend yourself to any cause it guides you to. Collapse the infinite number of possibilities ahead of you into just one. The blade keeps you as much as you keep it. (+3 Combat Mantra Slot)
-    -   Prerequisites: 25 Agility OR 25 Strength, 75 MED OR a combined total of 90 in any weapon stat ((25 AGI OR 25 STR) + (75 MED OR LHT + MED + HVY ≥ 90)), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
+    -   Prerequisites: 25 Agility // 25 Strength, 75 MED // a combined total of 90 in any weapon stat (75 MED // LHT + MED + HVY ≥ 90), defeat yourself after interacting with a [Sky Statue](Sky_Statue.md).
 
 -   Float Like a Butterfly \[Oath Talent, [Bladeharper](Oath%253A_Bladeharper.md)\] - While having True Strength active, cancel your air dash to enter a frenzy of slashes.
     -   It has a cooldown of 5 seconds.
@@ -589,7 +600,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Blightsurger
 
 -   [**Oath: Blightsurger**](Oath%253A_Blightsurger.md) - Fists and storm. Wield sacred lightning, tear through foes and leave them withered. (+2 Combat Mantra Slots +1 Wildcard Mantra Slot)
-    -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe or Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
+    -   Prerequisites: Combined total of 80 in Strength/Fortitude/Agility (STR + FTD + AGL ≥ 80), 40 Galebreathe // Thundercall, high ally [The Hundred Legions](The_Hundred_Legions.md) reputation, defeat [Titus](Titus_Fulminus_Destellus.md), speak to [Brutus](Brutus.md).
 
 -   Anchor Shock \[Oath Talent, [Blightsurger](Oath%253A_Blightsurger.md)\] - Your Blightshock prevents targets from using mobility mantras.
     -   This puts your opponent's mobility slot Mantras on a 3 second cooldown whenever Blightshock is applied from a Blightsurger Mantra.
@@ -639,7 +650,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Bloodrender
 
 -   Bloodrender \[Mantra Level Talent, Bloodrend\] - Grants you the ability to command Blood as a Bloodrender. Your Bloodrend mantras replenish your blood, steal blood and apply 'Blood Poisoning'.
-    -   Obtained at 1 Bloodrend or from the Bloodrend trainer [Vyrelda](Vyrelda,_Master_of_Blood.md).
+    -   Obtained at 1 Bloodrend
 
 -   Adept Bloodrender \[Mantra Level Talent, Bloodrend\] - You can now obtain 1-star Bloodrender mantras.
     -   Obtained at 20 Bloodrend
@@ -1051,7 +1062,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Dark Waltz \[Common Talent, Shadowcast, Weapon\] - Anytime you guardbreak your opponent with a light attack or critical, steal half of your opponent's current tempo. Also apply [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies.
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
-    -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
+    -   Prerequisites: 90 Shadowcast, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 -   Dark Hours \[Common Talent, Shadowcast\] - Your Shadowcast Mantras deal 15% more damage at night and in realms the Sun does not reach.
     -   Night cycle is XX:50 to XX:10.
@@ -1069,7 +1080,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Despite its description, this talent applies the Fear status for 1 second with no cooldown (they are not required to run away from you).
     -   Night Terror's Fear the Dark proc completely bypasses [Dawnwalker's](Oath%253A_Dawnwalker.md) Absolute Radiance.
     -   Also procs on weapon criticals.
-    -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy), Fear the Dark
+    -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy), Fear the Dark
 
 -   Overwhelming Drain \[Common Talent, Shadowcast\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
     -   Prerequisite: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)
@@ -1405,7 +1416,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Hell's Partisan \[Common Talent, Flamecharm\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
     -   Deals 5 Flamecharm damage.
     -   This is parryable, but is not blockable nor dodgeable due to hitstun.
-    -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) OR Warding Radiance
+    -   Prerequisites: 35 Flamecharm, [Fire Forge](Flamecharm.md#fire-forge) (Mantra) // Warding Radiance
 
 ### Flamecharm Master
 
@@ -1415,7 +1426,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Flamecharmer
 
 -   Flamecharmer \[Mantra Level Talent, Flamecharm\] - Grants you the ability to command Fire as a Flamecharmer.
-    -   Obtained at 1 Flamecharm or from the Flamecharm trainer [Amashi](Amashi,_Master_of_Flame.md).
+    -   Obtained at 1 Flamecharm
 
 -   Adept Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 1-Star Leveled Flamecharmer Mantras.
     -   Obtained at 20 Flamecharm
@@ -1478,7 +1489,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Frostdrawer
 
 -   Frostdrawer \[Mantra Level Talent, Frostdraw\] - Grants you the ability to command Ice as a Frostdrawer.
-    -   Obtained at 1 Frostdraw or from the Frostdraw trainer [Nell](Nell,_Master_of_Frost.md).
+    -   Obtained at 1 Frostdraw
 
 -   Adept Frostdrawer \[Mantra Level Talent, Frostdraw\] - You can now obtain 1-Star Leveled Frostdrawer Mantras.
     -   Obtained at 20 Frostdraw
@@ -1543,7 +1554,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Galebreather
 
 -   Galebreather \[Mantra Level Talent, Galebreathe\] - Grants you the ability to command wind as a Galebreather.
-    -   Obtained at 1 Galebreathe or from the Galebreathe trainer, [Friid](Friid,_Master_of_Gale.md).
+    -   Obtained at 1 Galebreathe
 
 -   Adept Galebreather \[Mantra Level Talent, Galebreathe\] - You can now obtain 1-Star Leveled Galebreathe mantras.
     -   Obtained at 20 Galebreathe
@@ -1582,7 +1593,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _Neuroplasticity_ \[Rare Talent, Mind\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
     -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
     -   Does not apply retroactively to previously modified mantras until you rejoin.
-    -   Prerequisite: 35 Mind (35 Charisma OR 35 Intelligence OR 35 Willpower)
+    -   Prerequisite: 35 Mind (35 Charisma // 35 Intelligence // 35 Willpower)
 
 ### Glassdancer
 
@@ -1593,8 +1604,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   1s cooldown on explosion proc.
     -   Allows you to obtain [Crystal Impale](Frostdraw.md#crystal-impale), [Crystal Knee](Frostdraw.md#crystal-knee), and [Ice Lasers](Frostdraw.md#ice-lasers).
     -   Increases the damage of [Crystal Impale](Frostdraw.md#crystal-impale) and [Crystal Knee](Frostdraw.md#crystal-knee) (they will do reduced damage if you remove this Talent).
-    -   Changes [Chilling](Enchantments.md#blessings) enchant to proc 1 crystal upon reaching the hit count requirement (LHT: 5, MED: 4, HVY: 3).
-    -   Changes color of [Gran Sudaruska](Gran_Sudaruska.md), [Kyrswynter](Kyrswynter.md), and [Chilling](Enchantments.md#blessings) Enchant to become a pinkish red color.
+    -   [Chilling](Chilling.md) now applies 1 crystal on hit.
+    -   Changes color of your Frostdraw Mantras, [Gran Sudaruska](Gran_Sudaruska.md), [Kyrswynter](Kyrswynter.md), and [Chilling](Chilling.md) Enchant to become a pinkish red color.
     -   Prerequisite: 40 Frostdraw
     -   Mutual Exclusives: Unyielding Frost, Flashboil
 
@@ -1617,7 +1628,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Gunslinger
 
--   _Armor Piercing_ \[Rare Talent, Medium/Light Weapon\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
+-   _Armor Piercing_ \[Rare Talent, Medium Weapon // Light Weapon\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
     -   Mathematically speaking, Armor Piercing is effectively a multiplicative 10% increase to your PEN against blunt armor, applied **after** all other PEN sources, meaning Armor Piercing has heavy diminishing returns based on how much PEN you have.
         -   While at 0% PEN, this effectively grants +10% PEN against blunt armor, but this amount gets reduced by 1% for every 10% PEN you have. The formula is as follows: (1 - ((1 - Current PEN/100) \* (1 - 0.1))) \* 100 = effective PEN against blunt armor.
         -   For example: having 20% PEN + Armor Piercing is equivalent to having 28% PEN against blunt armor (+8).
@@ -1628,15 +1639,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
         -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
 
--   Bulletproof \[Common Talent, Medium/Light Weapon\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
+-   Bulletproof \[Common Talent, Fortitude, Medium Weapon, Light Weapon\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
     -   This has no effect on your natural armor.
     -   This Talent simply removes/reduces armor damage taken, it has no effect on PEN.
-    -   Prerequisites: 20 Medium Weapon/Light Weapon/Fortitude, And have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
+    -   Prerequisites: 20 Medium Weapon OR 20 Light Weapon OR 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
 
--   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium/Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
+-   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
     -   This requires you to have [bullets](Bullets.md) in your inventory.
     -   5 second cooldown.
-    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon/Heavy Weapon, Using an Offhand Pistol
+    -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using an Offhand Pistol
 
 -   Parting Gift \[Common Talent, Light Weapon\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
@@ -1644,21 +1655,21 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The projectile M1s from this Talent can proc True Ether Bullets.
     -   Prerequisites: 75 Light Weapon, Using a Pistol
 
--   _True Ether Bullets_ \[Rare Talent, Light/Medium/Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
-    -   Prerequisites: 30 Intelligence, 20 Weapon (20 LHT OR 20 MED OR 20 HVY), Using a Pistol/Rifle/Greatcannon
-        -   Landing 2 shots will make the 3rd shot deal elemental damage.
-            -   The 3rd shot apply your attunement's elemental effect:
-                -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
-                -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
-                -   Thundercall: Your bullets apply shock/surge stack (Surge)
-                -   Galebreathe: Your bullets after cut and apply winded briefly
-                -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
-                -   Ironsing: Your bullets apply metal rods
-                -   Bloodrend: Your bullets drain blood
-            -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
-        -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
-        -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
-        -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
+-   _True Ether Bullets_ \[Rare Talent, Light Weapon // Medium Weapon // Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
+    -   Landing 2 shots will make the 3rd shot deal elemental damage.
+        -   The 3rd shot apply your attunement's elemental effect:
+            -   Flamecharm: Your bullets apply burn/eruption (Lava Serpent)
+            -   Frostdraw: Your bullets apply chill/crystal (Crystallization)
+            -   Thundercall: Your bullets apply shock/surge stack (Surge)
+            -   Galebreathe: Your bullets after cut and apply winded briefly
+            -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
+            -   Ironsing: Your bullets apply metal rods
+            -   Bloodrend: Your bullets drain blood
+        -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+    -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
+    -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
+    -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
+    -   Prerequisites: 30 Intelligence, 20 Weapon (20 LHT // 20 MED // 20 HVY), Using a Pistol/Rifle/Greatcannon
 
 -   _**Prime Ether Bullets**_ \[Advanced Talent, Intelligence, Light Weapon\] - Your bullets take one less hit to proc elemental effects and now have slight intelligence scaling. \[Dual Gun\]
     -   True Ether Bullets now procs in 2 hits instead of 3.
@@ -1789,7 +1800,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The Chill applied through this Talent has a 12 second duration, making it a strong option for hybrid builds that have limited opportunities to proc Chill.
     -   Deals (0) Frostdraw damage as hitregistry for Chill. This allows you to proc certain Talents like Flashboil without any other source of Frostdraw damage.
     -   Currently bugged and applies through block/parry/dodge.
-    -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
+    -   Prerequisites: 100 Frostdraw, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
 
 -   Frostbite \[Common Talent, Frostdraw\] - Enemies can no longer heal when under the effect of your chill. PvE enemies also net you 5% more [Heal Boost](Status_Effects.md#heal-boost) when they are chilled.
     -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
@@ -1812,7 +1823,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   Stasis Strike \[Common Talent, Frostdraw, Weapon\] - Your crystal explosions deal more damage whenever your opponent is also bottom frozen.
     -   Your Crystal detonations deal 67% more damage against targets who are bottom frozen.
-    -   Prerequisites: Glass Path, Crystallization, 90 Frostdraw, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
+    -   Prerequisites: Glass Path, Crystallization, 90 Frostdraw, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 -   _**Unyielding Frost**_ \[Advanced Talent, Frostdraw\] - Your Chill can proc through block, with blocked Chilling proc lasting 80% of the duration.
     -   If you have less than 100 Frostdraw, your chilled duration (when applied through block) will be reduced down to 25% of its original duration instead.
@@ -1833,7 +1844,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Ignition Union
 
 -   _Union Hook_ \[Quest Talent\] - You can now make use of the Ignition [Union hooks](Union_Hooks.md) to ascend or descend.
-    -   Prerequsites: Save [Epsi](Epsi.md) in the entrance of Firfire then speak to [Alpha](Alpha.md), OR gained immediately with the [Ignition Delver](Ignition_Delver.md) Origin
+    -   Prerequsites: Save [Epsi](Epsi.md) in the entrance of Firfire then speak to [Alpha](Alpha.md) OR [Ignition Delver](Ignition_Delver.md) Origin
 
 ### Immolator
 
@@ -1972,7 +1983,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   [Wind Gem](Wind_Gem.md) gives you a speed boost for 8 seconds on hit.
     -   [Wrath Gem](Wrath_Gem.md) applies the [Wrath](Status_Effects.md#wrath) status effect for 9 seconds, increasing your critical damage by 7.5% per player combat tag you have. This damage bonus does not apply to the hit that procced Wrath Gem and is affected by the damage modifier cap. Additionally, this can be used to proc the [Reinforced War Set](Reinforced_War_Helmet.md) Talents.
     -   [Nocturnal Gem](Nocturnal_Gem.md) will deal an additional 10 slash damage after a 1 second delay.
-    -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light OR 30 Medium OR 30 Heavy)
+    -   Prerequisites: 90 Intelligence, 30 Weapon (30 Light // 30 Medium // 30 Heavy)
 
 ### Inquisitive Lethality
 
@@ -2016,7 +2027,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Ironsing mantras apply stacks of Metal Rods on targets. Pressing X will pull affected towards you, with the strength of the pull depending on the amount of Metal Rods present.
     -   You cannot apply more than 5 Metal Rods to one target, unless you have one of the Rending Needle Talents.
     -   Rod pull's keybind can be configured in settings.
-    -   Obtained at 1 Ironsing or from the Ironsing trainer [Adar](Adar,_Master_of_Metal.md).
+    -   Obtained at 1 Ironsing
 
 -   Adept Ironsinger \[Mantra Level Talent, Ironsing\] - You can now obtain 1-star Ironsinger mantras.
     -   Obtained at 20 Ironsing
@@ -2162,14 +2173,14 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Kickstarter
 
--   Kickstart \[Common Talent, Thundercall, Fortitude/Charisma\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
+-   Kickstart \[Common Talent, Thundercall, Fortitude // Charisma\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
     -   Kickstart's animation takes 3 seconds to complete, and you cannot act during this animation.
     -   Despite the description stating "allies", this can be used on non-allies and even humanoid NPCs.
     -   Takes 5% ether on use and an extra 20% on successive use.
     -   Heals 10% of the affected target's health.
     -   Can be used on people who are using Kickstart or are affected by Paralytic Dust.
-    -   Prerequisites: 40 Fortitude OR 40 Charisma, 50 Thundercall
+    -   Prerequisites: 40 Fortitude // 40 Charisma, 50 Thundercall
 
 ### Lancer
 
@@ -2250,8 +2261,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Despite the Talent description stating "Light attack", it also grants its buffs to weapon criticals.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
--   Pressure Break \[Common Talent, Galebreathe, Strength/Agility\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)
-    -   Prerequisites: Air Pressure, 30 Strength / 30 Agility, 65 Galebreathe
+-   Pressure Break \[Common Talent, Galebreathe, Strength // Agility\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)
+    -   Prerequisites: Air Pressure, 30 Strength // 30 Agility, 65 Galebreathe
 
 -   Wind Step \[Common Talent, Galebreathe\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
     -   Press space while in the air to double jump. This leaves a small tornado behind that someone else can jump into to also double jump.
@@ -2332,7 +2343,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Maestro's Technique
 
 -   Silencer's Song \[Common Talent, Galebreathe, Weapon\] - Silencer's Blade now procs on your mantras.
-    -   Prerequisites: Silencer's Blade, 100 Galebreathe, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
+    -   Prerequisites: Silencer's Blade, 100 Galebreathe, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
 
 ### Marauder
 
@@ -2370,7 +2381,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Survival Kit \[Common Talent, Mind\] - You keep a well-stocked set of tools on your person at all times. Your flint never runs out of uses.
     -   Flint now has infinite uses.
     -   Obtainment: Wipe with Iron Gut and Termite.
-    -   Prerequisite: 20 Mind (20 Intelligence OR 20 Willpower OR 20 Charisma).
+    -   Prerequisite: 20 Mind (20 Intelligence // 20 Willpower // 20 Charisma).
 
 ### Meditative Trance
 
@@ -2790,12 +2801,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Rending Needle
 
--   _Rending Needle: Augmenter_ \[Rare Talent, Ironsing\] - If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your [Metal Armament](Ironsing.md#metal-armament) stronger while the weapon is equipped.
+-   _Rending Needle: Augmenter_ \[Rare Talent, Ironsing, Weapon\] - If an enemy has 5 or more rods, your Ironsing Pull will use their rods to form a powerful sword to attack with. This also makes your [Metal Armament](Ironsing.md#metal-armament) stronger while the weapon is equipped.
     -   Equips the [Metal Greatsword](Metal_Greatsword.md) weapon on proc.
     -   Having Metal Greatsword equipped increases your Metal Armament damage by 50%.
     -   Metal Greatsword lasts 10 seconds before reverting to your original weapon.
     -   Maximum amount of Iron Rods you can apply to a single target is 5.
-    -   Prerequisites: 90 Ironsing, 90 Weapon (90 Medium OR 90 Light OR 90 Heavy)
+    -   Prerequisites: 90 Ironsing, 90 Weapon (90 Medium // 90 Light // 90 Heavy)
     -   Mutual Exclusives: Rending Needle: Conductor, Rending Needle: Impaler, Rending Needle: Jailer, Gilded Path: Scrapsinger
 
 -   _Rending Needle: Conductor_ \[Rare Talent, Ironsing\] - 5 metal rods will combine into a conductor rod. If an enemy uses a non-Ironsing elemental mantra, they're dealt with their element back in return.
@@ -2979,17 +2990,17 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Sanguine Wager
 
--   Enhanced Flow \[Common Talent, Bloodrend Exclusive\] - Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
+-   Enhanced Flow \[Common Talent, Bloodrend, Weapon\] - Refine your Rush Hour, allowing you to now also gain temp health whenever you hit a player while using Rush Hour. You now also take less damage from Rush Hour.
     -   When you land basic attacks during Rush Hour, gain [Temporary Health](Status_Effects.md#temporary-health) equal to 30% of your weapon's scaled damage.
         -   This cannot give more than 50 Temporary Health in one instance.
     -   This reduces Rush Hour's self damage by 22%, from 4.5 damage per tick to 3.5 damage per tick.
     -   Despite what the description states, this Talent still procs when hitting monsters or other non-player enemies.
-    -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy), Rush Hour
+    -   Prerequisites: 90 Bloodrend, 90 Weapon (90 Light // 90 Medium // 90 Heavy), Rush Hour
 
--   Torture Mastery \[Common Talent, Bloodrend Exclusive\] - Landing a critical on opponents applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
+-   Torture Mastery \[Common Talent, Bloodrend, Weapon\] - Landing a critical on opponents applies 15 seconds of Torture Mastery. Heal any chip damage off players who have Torture Mastery on them. This duration is doubled if you have Rush Hour on.
     -   On proc, all chip damage you deal will be converted into healing.
     -   The conversion of chip damage to healing is 1:1.
-    -   Prerequisites: 100 Bloodrend, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
+    -   Prerequisites: 100 Bloodrend, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
 
 ### Sapper
 
@@ -3103,7 +3114,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Shadowcaster
 
 -   Shadowcaster \[Mantra Level Talent, Shadowcast\] - Grants you the ability to command shadows as a Shadowcaster.
-    -   Obtained at 1 Shadowcast or from the Shadowcast trainer [Nostor](Nostor,_Master_of_Shadow.md).
+    -   Obtained at 1 Shadowcast
 
 -   Adept Shadowcaster \[Mantra Level Talent, Shadowcast\] - You can now obtain 1-star Leveled Shadowcaster Mantras.
     -   Obtained at 20 Shadowcast
@@ -3178,7 +3189,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   10 second cooldown.
     -   Storm Strikes from the [Specialist Set](Specialist_Helmet.md) Talents, [Storm](Storm.md)/[Stormbreaker](Stormbreaker.md) Enchants during the rain, Scorched Peak, Fulgurite Formation's lightning strikes all proc this Talent.
     -   Discovery of Fire does not proc this Talent.
-    -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
+    -   Prerequisites: 90 Thundercall, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 ### Showboater
 
@@ -3209,7 +3220,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Reduces the **weapon (LHT, MED, HVY)** requirement of all weapons by 25 points. This stacks with [Khan's](Khan.md) Versatile Talent.
         -   Similarly to [Khan's Versatile](Khan.md), for hybrid weapons this will affect every weapon stat requirement individually, allowing you to equip the [Wyrmtooth](Wyrmtooth.md) with 15 HVY and 45 MED.
     -   You can no longer cast Mantras nor gain Attunements. However, you can still obtain Mantras in the case that you want to use them for deals with [Deep Shrines](Deep_Shrines.md) (primarily [Shrine of Division](Deep_Shrines/Shrine_of_Division.md)).
-    -   Prerequisites: 25 Strength, 25 Agility OR 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
+    -   Prerequisites: 25 Strength, 25 Agility // 25 Charisma, combined 75 weapon invest (HVY + MED + LHT ≥ 75), be attunement-less, get gripped by any attunement user, go to the [Beloved Zofia](Beloved_Zofia.md) and talk to [The Dreadstar](The_Dreadstar.md).
 
 -   Ankle Cutter \[Oath Talent, [Silentheart](Oath%253A_Silentheart.md)\] - You can now do a special ground slash while sliding, applying a temporary speed debuff to those hit, as well as preventing jumping.
     -   Deals fixed damage with innate bleed.
@@ -3457,9 +3468,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Survival Instinct
 
--   Iron Gut \[Common Talent, Fortitude, Willpower\] - You have resistance against being poisoned by foods.
+-   Iron Gut \[Common Talent, Fortitude // Willpower\] - You have resistance against being poisoned by foods.
     -   Does not work when eating [Pufferfish](Pufferfish.md) (gamebreaking).
-    -   Prerequisites: 20 Fortitude or 20 Willpower, vomit once
+    -   Prerequisites: 20 Fortitude // 20 Willpower, vomit once
     -   The [Herbalist's Hat](<Herbalist's_Hat.md>) and [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>) equipment have this Talent.
 
 -   Termite \[Common Talent, Unlockable Talent, Fortitude, Willpower\] - You can eat things most would consider inedible. (+3 Health)
@@ -3661,12 +3672,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   This speed boost can proc speed boost Talents, like Speed Demon or Cheap Shot.
     -   Prerequisites: 40 Thundercall, 20 Medium Weapon, Medium Weapon equipped
 
--   Gathering Electricity \[Common Talent, Thundercall, Strength/Agility\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
+-   Gathering Electricity \[Common Talent, Thundercall, Strength // Agility\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
     -   Clears all Static Blade stacks on proc.
     -   You can still gain Static Blade stacks while Gathering Electricity is active.
     -   For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.
         -   +3 base damage might not seem like a large buff, but due to how Deepwoken's damage calculation works, this is very significant.
-    -   Prerequisites: 65 Thundercall, 25 Strength / 25 Agility, Static Blade, Medium Weapon equipped
+    -   Prerequisites: 65 Thundercall, 25 Strength // 25 Agility, Static Blade, Medium Weapon equipped
 
 -   Overcharge \[Common Talent, Thundercall\] - Your next dash after activating Static Blade is enhanced by lightning.
     -   Lightning Dashes increase your dash distance travelled by 2.3x and the duration of i-frames from rolling, but will end early if you attack.
@@ -3680,7 +3691,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Thundercaller
 
 -   Thundercaller \[Mantra Level Talent, Thundercall\] - Grants you the ability to command Lightning as a Thundercaller.
-    -   Obtained at 1 Thundercall or from the Thundercall trainer [Funke](Funke,_Master_of_Thunder.md).
+    -   Obtained at 1 Thundercall
 
 -   Adept Thundercaller \[Mantra Level Talent, Thundercall\] - You can now obtain 1-star Thundercaller mantras.
     -   Obtained at 20 Thundercall
@@ -3957,7 +3968,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Visionshaper
 
 -   [**Oath: Visionshaper**](Oath%253A_Visionshaper.md) \[Oath Talent\] - You vow to only see that which you wish to see. Reality itself is malleable, pliable to your deft hands. (+1 Support Mantra Slot, +2 Combat Mantra Slots)
-    -   Prerequisites: 50 Charisma, complete [Aelita's Encounter](Aelita.md) or [Carnival of Hearts](Carnival_of_Hearts.md), bring a [Dark Feather](Dark_Feather.md) to [Surge](Surge.md)
+    -   Prerequisites: 50 Charisma, complete [Aelita's Encounter](Aelita.md) // [Carnival of Hearts](Carnival_of_Hearts.md), bring a [Dark Feather](Dark_Feather.md) to [Surge](Surge.md)
 
 -   Cheap Trick \[Oath Talent, [Visionshaper](Oath%253A_Visionshaper.md)\] - When hit below half health briefly disappear, leaving behind an illusion clone to keep your enemy occupied for a short duration. Briefly disappear after knocking an enemy.
     -   Being hit while under half HP grants I-frames and turns you invisible for a very short duration. 60s CD.
@@ -4068,12 +4079,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Ash Ember \[Common Talent, Flamecharm, Weapon\] - The more wither your opponent has, the more damage your burn deals.
     -   At 90 FLM 90 WPN you gain a 0.0175 burn damage increase per 1 point of wither.
-    -   Ash Ember loses 0.00005 damage per point taken out of Flamecharm OR Weapon below 90 FLM and WPN. The damage calculator can be found [here](https://www.desmos.com/calculator/otupsoueo2).
-    -   Prerequisites: 90 Flamecharm, 90 Weapon (90 Light OR 90 Medium OR 90 Heavy)
+    -   Ash Ember loses 0.00005 damage per point taken out of Flamecharm and Weapon below 90 FLM and WPN. The damage calculator can be found [here](https://www.desmos.com/calculator/otupsoueo2).
+    -   Prerequisites: 90 Flamecharm, 90 Weapon (90 Light // 90 Medium // 90 Heavy)
 
 -   Scorching Decay \[Common Talent, Flamecharm, Weapon\] - The wither dealt from your Emperor's Flame is massively increased.
     -   Increases the Wither application from your Emperor Flame from 25 to 75.
-    -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon (100 Light OR 100 Medium OR 100 Heavy)
+    -   Prerequisites: Emperor Flame, 100 Flamecharm, 100 Weapon (100 Light // 100 Medium // 100 Heavy)
 
 ### Miscellaneous
 

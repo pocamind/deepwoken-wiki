@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 193607
+revid: 194510
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1183,7 +1183,7 @@ This does **not** affect the blood cost from casting [Bloodrend](Bloodrend.md) M
 |  | Flamewalker  
 (40 Flamecharm, 25 Agility, Warding Radiance) | When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility) | When Warding Radiance is active, sliding will leave a trail of flame. If your opponent touches the flame trail, they'll be lit ablaze or an Eruption will proc if you have Lava Serpent. |
 |  | Hell's Partisan  
-(35 Flamecharm, Fire Forge OR Warding Radiance) | After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity) | After landing **Fire Forge**, your next Flamecharm Mantra will spawn a flame spear from above that'll impale your opponent, dealing 5 Flamecharm damage and applying burn or causing an Eruption. |
+(35 Flamecharm, Fire Forge // Warding Radiance) | After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity) | After landing **Fire Forge**, your next Flamecharm Mantra will spawn a flame spear from above that'll impale your opponent, dealing 5 Flamecharm damage and applying burn or causing an Eruption. |
 |  | Warding Radiance  
 (30 Flamecharm, 20 Agility) | Every fire Mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+4 Sanity) | Hell's Partisan can now be procced on Flamecharm Mantras that aren't **Fire Forge** while you have the halo active. |
 
