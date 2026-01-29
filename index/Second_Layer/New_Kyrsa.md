@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 188767
+revid: 194522
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -60,7 +60,7 @@ The Scion of Ethiron is a boss encountered within the Second Floor of the Eterna
 
 ### [Misérables](../Misérables.md)
 
-Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic figure capable of granting you either a 30% damage boost against Scion of Ethiron for 5 **Kyrsan Medallions**, or resetting your [wish](<../Shrine_of_Yun'Shul,_Keeper_of_Hearts.md#wishes>) cooldown with Yun'Shul for 15 **Knowledge**.
+Misérables is an NPC found in the outskirts of New Kyrsa. He is an enigmatic figure capable of granting you either a 30% damage boost against Scion of Ethiron for 5 **Kyrsan Medallions**, or additional wishes with Yun'Shul, starting at 15 **Knowledge**, with an additional 5 knowledge per wish you have.
 
 ## Objectives
 
