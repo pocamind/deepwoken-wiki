@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 194537
+revid: 194566
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3042,7 +3042,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Scoundrel
 
--   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly. (+1 Passive Agility)
+-   _Dirty Boxing_ \[Rare Talent, Agility\] - Fist Enemies hit after you feint them with your fist suffer slight bleed and have their vision obscured slightly and makes PvE enemies [Sluggish](Status_Effects.md#sluggish). (+1 Passive Agility)
     -   8 second cooldown.
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Fist/Kick style equipped, 25 Agility
@@ -3780,7 +3780,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Cheap Shot's PEN multiplier will be reduced by 0.11% for every point in Agility below 65, having a minimum multiplier of +7.22% PEN (or 1.072x PEN) at 40 Agility.
     -   Prerequisite: 65 Agility
 
--   _**Crippling Comeuppance**_ \[Advanced Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD for 15s. 30s CD. (+1 Passive Agility)
+-   _**Crippling Comeuppance**_ \[Advanced Talent, Agility\] - Landing Revenge puts your opponent's Mobility slot Mantras on CD and applies [Sluggish](Status_Effects.md#sluggish) to PvE enemies for 15s. (+1 Passive Agility)
+    -   30 second cooldown.
     -   For every point of Agility below 100, Crippling Comeuppance's duration is reduced by 0.1 seconds, having a minimum duration of 12.5 seconds at 75 Agility.
     -   Prerequisites: [Revenge](Attunement-less.md#revenge) (Mantra), 100 Agility
 
@@ -4634,7 +4635,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 Certain Talents are given when you equip a full equipment set, though not all equipment sets have unique Set Talents. These Talents are exclusive to that equipment set and are unobtainable by any other means. Set Talents are listed in alphabetical order:
 
--   Etherguard: Blustone Set - Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. THis effect gives extra resistances to mantras based on how much ether they cost to cast + gain elemental protection against PvE.
+-   Etherguard: Blustone Set - Warped Blue Gems now provide a bonus effect when landed using a mantra, Etherguard. This effect gives extra resistances to mantras based on how much ether they cost to cast + gain elemental protection against PvE.
     -   When landing a Mantra with a [Warped Blue Gem](Warped_Blue_Gem.md) equipped, gain the [Etherguard](Status_Effects.md#etherguard) status effect, granting you damage reduction to Mantras. This damage reduction scales on the Ether cost of the Mantra you got hit by.
     -   In PvE, Etherguard additionally grants elemental damage reduction.
     -   Set: [Bluestone Pauldrons](Bluestone_Pauldrons.md), [Bluestone Boots](Bluestone_Boots.md)
