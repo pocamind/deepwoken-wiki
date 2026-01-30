@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 191766
+revid: 194533
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
@@ -48,6 +48,7 @@ Burn damage in PvE combat can also trigger Whistleguard.
 -   It can synergize with the talent _Force Your Way_ provided by [Ignition Deepdelver](Ignition_Deepdelver.md) or [Ignition Gauntlets](Ignition_Gauntlets.md), which will allow the shield to parry unparryable attacks.
 -   This is one of the droppable torso relics alongside the [Tiran Pendant](Tiran_Pendant.md), [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>), and the [Warmaster's Medallion](<Warmaster's_Medallion.md>).
 -   Upon equipping the Whistling Periapt it does NOT get soulbound and may be dropped once more.
+-   When you have the [Tidal Shock](Talents.md#equipment-talents) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use [Whistleguard](Talents.md#whistleguard) and critical hit with [Cala-Mariner](Cala-Mariner.md), [Whistleguard](Talents.md#whistleguard) will break.
 
 ## References
 

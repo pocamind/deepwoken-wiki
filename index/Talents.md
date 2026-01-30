@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 194524
+revid: 194537
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -493,7 +493,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>), [Delver's Duster](<Delver's_Duster.md>), and [Providence Coat](Providence_Coat.md) equipment have this Talent.
 
 -   Moving Fortress \[Common Talent, Fortitude\] - Blocking no longer slows you down as much. (+1 Posture)
-    -   Increases your movement speed while blocking by 6.5625%, from -25% movement speed to -18.4375%. (confirmed by tester)
+    -   Increases your movement speed while blocking by 6.6%, from -25% movement speed to -18.4%.
     -   Prerequisite: 5 Fortitude
 
 -   Perseverance \[Common Talent, Fortitude, Willpower\] - Reduces the duration you're [Ragdolled](Status_Effects.md#ragdolled) and [Unconscious](Status_Effects.md#unconscious) for by 25%. (+5 Sanity)
@@ -4461,7 +4461,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Intrepid Flame: [Flame Worshipper Armor](Flame_Worshipper_Armor.md) - Flames wear off twice as fast on you.
     -   Halves the maximum duration of Burn.
 
--   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed in increased.
+-   Knack: [Eager Tradesman](Eager_Tradesman.md) - Trees yield more Wood when felled. Your Repair speed is increased.
+    -   Increases the boat repair speed.
 
 -   Legendary: [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) - Parrying and landing hits with your weapon gives you ether back.
 

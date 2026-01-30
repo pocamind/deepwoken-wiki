@@ -1,6 +1,6 @@
 ---
 title: "Cala-Mariner"
-revid: 194531
+revid: 194534
 source: https://deepwoken.fandom.com/wiki/Cala-Mariner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -49,4 +49,4 @@ Additionally, it provides the [Tidal Shock](Talents.md#equipment-talents) Talent
 -   The outfits name is a pun on calamari and mariner.
 -   The oufit resembles the outfit of Jack Sparrow from _Pirates of the Caribbean_.
 -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/113984308637103/Cala-Mariner-Shirt) / [Pants](https://www.roblox.com/catalog/134822282503743/Cala-Mariner-Pants)
--   When you have the [Tidal Shock](Talents.md#equipment-talents) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use [Whistleguard](Talents.md#whistleguard) and critical hit with cala-mariner, [Whistleguard](Talents.md#whistleguard) will break.
+-   When you have the [Tidal Shock](Talents.md#equipment-talents) CD, you cannot use [Whistleguard](Talents.md#whistleguard), and when you use [Whistleguard](Talents.md#whistleguard) and critical hit with Cala-Mariner, [Whistleguard](Talents.md#whistleguard) will break.
