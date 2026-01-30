@@ -1,11 +1,9 @@
 ---
 title: Lunaris
-revid: 191527
+revid: 194569
 source: https://deepwoken.fandom.com/wiki/Lunaris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs]
 ---
 
 # Lunaris
@@ -100,7 +98,7 @@ Lunaris is located inside of the [Summer Isle](Summer_Isle.md) castle.
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td>Nice to meet you, I am Lunaris Elyse, someone tasked with reclaiming things the Hive has misplaced... Though it seems as you do not have enough lost property on you at the moment, I'll need atleast 3.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
