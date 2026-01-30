@@ -1,6 +1,6 @@
 ---
 title: Emiya Konga
-revid: 190266
+revid: 194542
 source: https://deepwoken.fandom.com/wiki/Emiya_Konga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,8 +9,14 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 | Emiya Konga | |
 |---|---|
-| name | Emiya Konga |
+| name | Emiya Konga[1] |
 
 ## Description
 
-Emiya Konga was an infamous thief.
+Emiya Konga was an infamous thief.[\[1\]](#cite-note-k-1)
+
+They possessed [a ring](<Konga's_Clutch_Ring.md>) but eventually lost it.[\[1\]](#cite-note-k-1)
+
+## References
+
+1.  ↑ [1.0](#cite-ref-k-1-0) [1.1](#cite-ref-k-1-1) [1.2](#cite-ref-k-1-2) [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>)

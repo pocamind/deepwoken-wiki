@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 193368
+revid: 194554
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Volu, Heart of Enmity |
+| obtainment | Chaser, Scholar of the Crimson Contract, The Diluvian Mechanism, Volu |
 | description | A deep crimson odachi, commissioned and forged for a prophet-in-training, then relinquished in later years. Marked by its maker's seal, a sinister vow seeps through its scarlet fibers. Its jagged edge cleaves through foes with unsettling ease, drinking deep of their blood to empower its wielder's divine purpose. When your fingers graze its serrated edge, horrors unlike any you've known flicker through your mind, small glimpses of something vast and unknowable. The visions vanish before you can grasp their meaning, leaving only the question.. are they echoes of the past, or omens of what's to come? |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 194142
+revid: 194559
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -32,12 +32,10 @@ _There are many elements to the GUI, each one playing its own part. In order to 
 </tr>
 <tr>
   <th>Posture Bar</th>
-  <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, you should do your best to keep this bar as low as possible during combat. When the next attack causes the posture to exceed the bar, the next blocked hit will instead guard break, dealing increased damage and stunning you.<p><br>
-  If you block immediately after getting hit, you will be put in <b>shaky block</b>. Shaky block is a form of hitstun that prevents blocking. The duration of your shaky block is based on your weapon's swing speed. If your weapon has above 1x swingspeed, your shaky block duration will be reduced proportionately to your swingspeed amount over 1x, capping at -20% with 1.2x swingspeed. Shaky block is indicated by your arms shaking and you covering your head.</p>
+  <td>A visual representation of the player's ability to guard against attacks. Building this bar indicates negative standing, you should do your best to keep this bar as low as possible during combat. When the next attack causes the posture to exceed the bar, the next blocked hit will instead guard break, stunning you for 1.05s.
   <ul>
-    <li>Posture decreases if the player lands a parry, stops blocking while also not sprinting and/or through the effects of certain <a href="Talents.md">Talents</a>.</li>
+    <li>Posture can be restored through many methods: the passive Posture regeneration when not sprinting or blocking, Parrying attacks, landing a Taunt (<kbd>T</kbd>), or through the use of certain <a href="Talents.md">Talents</a>.</li>
     <li>When blocking while in shaky block frames, your posture bar glows red to indicate that your block isn't full yet.<figure><figcaption></figcaption></figure></li>
-    <li>Spitting with <kbd>T</kbd> on Humanoids also restores your posture by a great amount. Use it wisely however, as you'll be forced to stand still for the taunt.</li>
   </ul><figure><figcaption></figcaption></figure></td>
 </tr>
 <tr>
@@ -205,8 +203,7 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
 </tr>
 <tr>
   <th>Carrying Capacity</th>
-  <td colspan="8"><i>Carrying Capacity,</i> also known as <a href="Carry_Load.md">Carry Load</a>, dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely have items. <i>You may check an item's weight by hovering over the item in your inventory and seeing the number held in the small blue box in the corner. Hovering over the item may also give you a description along with how many notes it'll sell for at an <a href="Antiquarian.md">Antiquarian</a>.</i><p><br>
-  There exists a soft cap, which is the listed capacity in digits on the right in your inventory. You may carry more items beyond that amount, reaching the hard cap.</p>
+  <td colspan="8"><i>Carrying Capacity,</i> also known as <a href="Carry_Load.md">Carry Load</a>, dictates how much weight in items your character can hold before their speed is reduced and they can no longer safely have items. <i>You may check an item's weight by hovering over the item in your inventory and seeing the number held in the small blue box in the corner. Hovering over the item may also give you a description along with how many notes it'll sell for at an <a href="Antiquarian.md">Antiquarian</a>.</i><p>There exists a soft cap, which is the listed capacity in digits on the right in your inventory. You may carry more items beyond that amount, reaching the hard cap.</p>
   <p>There then exists a hard cap, upon reaching the cap; your carrying capacity will be colored red. Detailed when you try to carry more items than you're currently capable of. Eventually, your character will be unable to hold onto any more items, and enough items must be dropped to make room to pick up another. The closer you get to the hard cap, the slower your movement will be.</p>
   <ul>
     <li>For example, if the soft cap would be 240; the hard cap would be anything past that.</li>
@@ -228,55 +225,46 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <table>
 <tbody>
 <tr>
-  <th>Attack</th>
+  <th>Basic Attacks</th>
   <td><figure><figcaption></figcaption></figure><p>Left clicking (<kbd>M1</kbd>) allows you to swing your weapon, dealing damage to whoever is hit unless they block, parry, or dodge your attack.</p>
   <p>In the case of getting your attack blocked, your attack will instead deal a different type of damage in the form of "Posture Damage", taking into account the weight of your weapon rather than your damage output.</p>
   <p>When 4 hits are swung consecutively without pauses, your character will kick your adversary away in an action called a Flourish. This is an "end" to your string of swings, and has a small amount of endlag before you can swing again- which can be circumvented by casting a Mantra directly after the Flourish. Landing a Flourish causes the target hit to be launched away from you, essentially preventing an infinite combo. Flourishes can only be feinted by casting a Mantra.</p>
   <ul>
     <li><i>Many Talents modify your Flourish in different ways, from blurring someone's screen when they get pushed into a wall with the Concussion Talent, burning someone with the Flaming Flourish Talent or placing down Ice with the Chilling Flourish Talent.</i></li>
-  </ul><p><br>
-  Hitting or parrying opponents applies stun, which, for a slight moment, lowers their movement speed, disables their rolling, cancels their ability to attack, and nullifies the hitbox of any current Mantras they are casting despite the continuing animation and visual effects.</p>
+  </ul><p>Hitting or parrying opponents applies stun, which, for a slight moment, lowers their movement speed, disables their rolling, cancels their ability to attack, and nullifies the hitbox of any current Mantras they are casting despite the continuing animation and visual effects.</p>
   <ul>
     <li>In continuation of the ending point, if someone uses Ice Lance but you manage to score a hit as they drive it towards you, you will take no damage from the Ice Lance- it won't even stick into you, even if you were meant to be hit by it.</li>
-  </ul><p><br>
-  Performing an M1 while running performs a <i>Running Attack</i>, forcing your character to strafe forward and strike with increased range- stopping your character in place directly after, and has increased end-lag and slightly increased windup. While some of these properties may sound negative, it can be handy when in need of having to catch your adversary off guard. If a Running Attack is used against an adversary with their back turned to you, you shall charge into them with a gust of wind and strike. The only way to feint a <i>Running Attack</i>, similar to a <i>Flourish</i>, is to cast a Mantra.</p>
+  </ul><p>Performing an M1 while running performs a <i>Running Attack</i>, forcing your character to strafe forward and strike with increased range- stopping your character in place directly after, and has increased end-lag and slightly increased windup. While some of these properties may sound negative, it can be handy when in need of having to catch your adversary off guard. If a Running Attack is used against an adversary with their back turned to you, you shall charge into them with a gust of wind and strike. The only way to feint a <i>Running Attack</i>, similar to a <i>Flourish</i>, is to cast a Mantra.</p>
   <p>A hidden technique, subtly called <i>Stepping,</i> involves double tapping W during an M1, which will bring you closer to your opponent if you need to exploit range of your weapon and what your adversary may assume about your standing in combat. Suggested to only use this when necessary, as attempting to perform the required actions may put extra physical strain which will make it harder to perform other actions- as well as accidentally performing a <i>Running Attack</i>- unless you are used to the button combo.</p>
-  <p><br>
-  Getting hit will negate your ability to throw in an M1 for a little longer than it takes for you to be able to roll so it's not at all recommended to try to M1 in the middle of your opponents combo.</p></td>
+  <p>Getting hit will negate your ability to throw in an M1 for a little longer than it takes for you to be able to roll so it's not at all recommended to try to M1 in the middle of your opponents combo.</p></td>
 </tr>
 <tr>
   <th>Critical Attacks</th>
   <td><figure><figcaption></figcaption></figure><p><i>Critical Attacks</i>, or "Crit(s)" for short, can be initiated by pressing <kbd>R</kbd> or clicking <kbd>M3</kbd> (Pressing down the scroll wheel). Personally advised to use <kbd>R</kbd>.</p>
-  <p><br>
-  </p>
   <p><i>Critical Attacks</i> have various uses. They are mainly used to deal high posture damage, especially Heavy weapons. Some work as a way to throw off/confuse your adversary's rhythm, such as with <a href="Crescendo.md">Crescendo</a> or <a href="Rifle_Spear.md">Rifle Spear</a>'s criticals. Others work as a way to help high damage, such as <a href="Rosen's_Hellflame.md">Rosen's Hellflame</a> or <a href="Wretched_Mawblades.md">Wretched Mawblades</a>' criticals. Others can serve as utility for the player, such as <a href="Petra's_Anchor.md">Petra's Anchor</a> (Dash) or <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a> (Hyperarmor), while some others may be used to simply pressure to the opponent, such as <a href="First_Light.md">First Light</a> (Zoning) and <a href="Flareblood_Kamas.md">Flareblood Kamas</a>' (Ranged) criticals. <i><b>A mass majority of Critical Attacks cannot be feinted. When you perform one, make sure you are committed to doing so.</b></i></p></td>
 </tr>
 <tr>
   <th>Parrying</th>
   <td><figure><figcaption></figcaption></figure><p>Pressing the <kbd>F</kbd> key causes your character to enter a stance of deflection for a moment. Enemies hitting you during this timeframe have their attacks parried, causing them to be momentarily stunned and dealing posture damage to them, as well as reducing your own posture. It should be noted that whether your tap or hold <kbd>F</kbd> doesn't matter, as it will result in a parry at the beginning of the button press regardless.</p>
   <p>Successful parries gives your character brief frames of auto-parry in which all incoming attacks are parried automatically. Parrying also resets its cooldown so that you may parry immediately again. <i><b>It's also possible to attack during it's auto-parry frames, but this is difficult to do safely.</b></i> Parrying will cancel all attacks (except for some monster attacks), as well as the damage for that attack, even if they come from behind your character. <i><b>However, this is not the case for Blocking (see below).</b></i></p>
-  <p><br>
-  <i>Parrying has a 1.4 second cooldown. If you miss your parry, you may hold <kbd>F</kbd> to Block and nullify/reduce any imminent damage you would otherwise take for missing the parry.</i></p>
+  <p><i>Parrying has a 1.4 second cooldown. If you miss your parry, you may hold <kbd>F</kbd> to Block and nullify/reduce any imminent damage you would otherwise take for missing the parry.</i></p>
   <p>Parrying physical attacks like Mantras or M1s will completely interrupt your opponents action, even if the animation continues. So, without their action getting in the way of their parry, they are able to parry whatever move you throw out next. This does not apply to all Mantras however, especially projectile based ones. You may alternatively attempt to roll their Mantra which MAY have an 100% chance of an M1 if you throw it out quick enough.</p>
   <p><i>Whilst Blocking and Parrying share the same hotkey (<kbd>F</kbd>), you'll perform a parry instead of a block if a parryable attack hits you during parry frames. You can know when you're currently in a state of parry frames by taking note of your character's distinct stance and hearing a subtle "whoosh" sound immediately after pressing <kbd>F</kbd>.</i></p></td>
 </tr>
 <tr>
   <th>Blocking</th>
   <td><figure><figcaption></figcaption></figure><p>By holding the <kbd>F</kbd> key after this stance of deflection has worn off, your character will hold their defensive stance and brace for incoming attacks, increasing your posture rather than lowering your health if you were hit during the block. The blocker can act slightly before the attacker, but not as much as if they parried. <i><b>Remember, letting your posture exceed its maximum hold will result in you being block-broken.</b></i></p>
-  <p><br>
-  If you are hit, your block will be disabled and you will instead be forced to parry. You may also Vent by pressing <kbd>G</kbd> if you have enough Tempo.</p>
-  <p><br>
-  <i>Blocking only shields you from attacks in front of you. You can still get hit from behind or on your sides unless you parry, which stops attacks regardless of where you're facing.</i></p></td>
+  <p>If you are hit, your block will be disabled and you will instead be forced to parry. You may also Vent by pressing <kbd>G</kbd> if you have enough Tempo.</p>
+  <p>If you attempt to parry immediately after getting hit, you will be put in <b>shaky block</b>. Shaky block is a form of hitstun that prevents blocking. The duration of your shaky block is based on your weapon's swing speed. If your weapon has above 1x swingspeed, your shaky block duration will be reduced proportionately to your swingspeed amount over 1x, capping at -20% with 1.2x swingspeed. Shaky block is indicated by your arms shaking and you covering your head and your posture bar having a red highlight.</p>
+  <p><i>Against most attacks, blocking only prevents attacks in front of your character. Some attacks have the 360° block property however, allowing them to be blocked from all angles.</i></p></td>
 </tr>
 <tr>
   <th>Venting</th>
   <td><figure><figcaption></figcaption></figure><p>When the player has at least 40 Tempo (indicated by a small notch on the tempo bar), pressing the <kbd>G</kbd> key will make the player Vent.</p>
-  <p><br>
-  </p>
-  <p>Venting pushes others nearby away and grants a brief period of relief, allowing the player to get out of tricky situations such as being comboed or overcrowded, along with dealing a miniscule 5 damage, enough to cancel attacks and knock your adversary if they have sufficiently low health.</p>
+  <p>Venting pushes others nearby away and grants a brief period of relief, allowing the player to get out of tricky situations such as being comboed or overcrowded, along with dealing a miniscule 5 damage, enough to cancel attacks and knock your adversary if they have sufficiently low health. Venting also clears certain <a href="Status_Effects.md">Status Effects</a>, such as Knockdown.</p>
   <p>Should the Vent fail to land or be parried/blocked, you will be stunned in place, unable to do anything. This will provide a window for your adversary to close in on you. Should you be lucky, this window won't be exploited.</p>
   <ul>
-    <li><i><b>While block-broken or assassinated, you cannot Vent.</b></i></li>
+    <li>While block-broken or assassinated, you cannot Vent.</li>
   </ul><p>Vents are parryable, blockable and rollable which all negate the knock back you'd normally receive. Parrying it however does stun the person venting in place as if they missed the vent.</p></td>
 </tr>
 <tr>
@@ -287,8 +275,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
     <li>You may feint Mantras by using <kbd>M2</kbd> during a cast.</li>
     <li>You may feint a swing into a Mantra by casting a Mantra during the moment your character pulls their weapon/arm back.</li>
   </ul><p>This allows you to play mind games with your adversary, and is very essential for mid-high level combat. For example, feinting can bait them to block- disabling their ability to parry and instead forcing them to roll. When they roll, you can follow through their roll and attack them through it.</p>
-  <p><br>
-  The strongest way to use feints is to use them without a pattern or rhythm. People can learn the way your feints work, and turn your feints from a tool into a downfall by swinging at you when they know you will feint.</p>
+  <p>The strongest way to use feints is to use them without a pattern or rhythm. People can learn the way your feints work, and turn your feints from a tool into a downfall by swinging at you when they know you will feint.</p>
   <ul>
     <li>Alternatively, you can make a makeshift feint by intentionally missing an attack, which spares you of the cooldown. This technique is a gamble, but with risk comes rewards.</li>
   </ul><p><i>Feinting has very slight end-lag, and will briefly disable your ability to make any attack for a very small moment.</i></p></td>
@@ -296,25 +283,20 @@ _When fighting, while dealing damage is important, reducing their posture can al
 <tr>
   <th>Rolling</th>
   <td><figure><figcaption></figcaption></figure><p>Pressing <kbd>Q</kbd> allows you to Roll towards your desired direction, granting you immunity frames against most attacks, with the exception of a few.</p>
-  <p><br>
-  </p>
   <p>You can roll-cancel by right-clicking- or otherwise using <kbd>M2</kbd>- during the movement of your roll. This will guarantee you an extra roll that can also be canceled. For many experienced players, roll-canceling replaces Rolling as it is simply better in most cases, given that it cancels the endlag of your Roll as well as asserting yourself in combat and sizing up your adversary.<br>
   Many Talents exist to add properties to your Rolls. For example, if a <a href="Galebreathe.md">Galebreather</a> obtains the rare card Gale Dash, they will gain a wind-empowered dash upon initially dodging an incoming attack.</p>
-  <p><br>
-  <i>Pressing <kbd>Q</kbd> in the air initiates an Air Dash, sending you towards a direction depending on where your camera is facing. Air Dashes are counted as rolls, meaning that they will be able to dodge attacks.</i></p></td>
+  <p><i>Pressing <kbd>Q</kbd> in the air initiates an Air Dash, sending you towards a direction depending on where your camera is facing. Air Dashes are counted as rolls, meaning that they will be able to dodge attacks.</i></p></td>
 </tr>
 <tr>
   <th>Stance Change</th>
   <td><figure><figcaption></figcaption></figure><p>Pressing the <kbd>Y</kbd> button will change your <i>Stance</i> from one-handed to two-handed. Many Light Weapons cannot switch their stance except for Fists, which can switch between their unlockable fist styles at will.</p>
-  <p><br>
-  </p>
-  <p><i><b>One Handed Stance:</b></i> This stance is the default for Light and Medium weapons, and Heavy weapons can use this stance after obtaining 40 HVY. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand. <b>This stance increases posture damage dealt to the target when parrying but reduces posture damage dealt when hitting their block.</b></p>
-  <p><i><b>Two-Handed Stance:</b></i> This stance is the default for Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p></td>
+  <p><i><b>One Handed Stance:</b></i> This stance is the default for Light and Medium weapons, and Heavy weapons can use this stance after obtaining 40 HVY. Offhand equipment, such as shields, parrying daggers, and guns will be accessible. An alternate idle animation is used if you do not have anything on your offhand.</p>
+  <p><i><b>Two-Handed Stance:</b></i> This stance is the default for Heavy weapons, with Medium Weapons also having access to it. Any offhand equipment will be put away, such as shields. <b>This stance increases posture damage dealt to the target when hitting their block but reduces posture damage dealt when parrying.</b></p>
+  <p><i><b>Dual Wielded Stance:</b></i> This stance is exclusive to a few select weapons. Dual Wielding is mechanically the same as One Handing, with the only major difference being that you cannot use offhand weapons. Most weapons with this Stance cannot swap to other Stances.</p></td>
 </tr>
 <tr>
   <th>Assassination</th>
-  <td>When crouched, one can sneak up behind <b>most</b> humanoid enemies- excluding Songseekers for example- and <kbd>M1</kbd> from behind to perform an <i>Assassination</i>.<p><br>
-  This will deal a large amount of damage to NPCs, and inversely a low amount of damage to players, and will cause the victim to ragdoll for 5 (NPCs)/2 (Players) seconds and place their venting on cooldown while they are knocked. Executes NPCs if the damage dealt is high enough.</p>
+  <td>When crouched, one can sneak up behind <b>most</b> humanoid enemies- excluding Songseekers for example- and <kbd>M1</kbd> from behind to perform an <i>Assassination</i>.<p>This will deal a large amount of damage to NPCs, and inversely a low amount of damage to players, and will cause the victim to ragdoll for 5 (NPCs)/2 (Players) seconds and place their venting on cooldown while they are knocked. Executes NPCs if the damage dealt is high enough.</p>
   <ul>
     <li>Equipment such as the <a href="Assassin's_Cloak.md">Assassin's Cloak</a> or the Assassin Talent can make it so that a level 1 player can instantly execute an <a href="Immortal_Guardian.md">Immortal Guardian</a>.</li>
   </ul><p><i>If the target is not killed by the initial attack, it is recommended to swing at them as much as possible before they get up. They cannot be picked up if they aren't technically 'knocked' down.</i></p>
@@ -324,12 +306,10 @@ _When fighting, while dealing damage is important, reducing their posture can al
 </tr>
 <tr>
   <th>Uppercut</th>
-  <td>You may hit your adversaries up into the air with an <i>Uppercut</i> by pressing <kbd>M1</kbd> while holding <kbd>Ctrl</kbd>. If your opponent is a monster, they will fail to rise with you and instead remain grounded.<p><br>
-  Uppercuts are advertised as anti-air tools, being able to counter an enemy that attempts to strike you from the air. The hitbox affects a wide area in front of you, covering the sides and front requiring you mostly to face your opponent when the move drives you forward to strike.</p>
+  <td>You may hit your adversaries up into the air with an <i>Uppercut</i> by pressing <kbd>M1</kbd> while holding <kbd>Ctrl</kbd>. If your opponent is a monster, they will fail to rise with you and instead remain grounded.<p>Uppercuts are advertised as anti-air tools, being able to counter an enemy that attempts to strike you from the air. The hitbox affects a wide area in front of you, covering the sides and front requiring you mostly to face your opponent when the move drives you forward to strike.</p>
   <p>Victims hit by Uppercuts are unable to block, and parry timing is seemingly tighter, which makes Uppercuts play a big role in combos. Comboing will keep you in the air, while feinting and parrying will drop both of you.</p>
   <p>Certain Talents- such as <i>Flaming Uppercut</i> and <i>Quick Link-</i> can also affect the potency of Uppercuts by adding properties to them the same way some Talents add properties to Flourishes.</p>
-  <p><br>
-  Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using, making Uppercuts especially useful for Heavy weapons with slow swing speeds, or for other reasons, Ex. for <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users.</p>
+  <p>Uppercuts have their own unique windup speed, regardless of whatever weapon type you may be using, making Uppercuts especially useful for Heavy weapons with slow swing speeds, or for other reasons, Ex. for <a href="Gran_Sudaruska.md">Gran Sudaruska</a> users.</p>
   <p>If you land an Uppercut against a dodge or block, then the reduced end-lag should allow you to strike your opponent with an M1 before they can retaliate.</p>
   <p>Landing a flourish on an opponent suffering from the stun of your aerial combo will automatically kick them to the floor, which will result in any wall-bang Talents occurring- such as <i>Bulldozer</i> and <i>Breathing Impact.</i></p>
   <p><i>Missing an Uppercut will completely immobilize you and leave you vulnerable- akin to failing to Vent, but you can typically parry an incoming attack if your opponent is on edge, or try an Uppercut yet again before full recovery.</i></p></td>
@@ -345,9 +325,7 @@ _When fighting, while dealing damage is important, reducing their posture can al
 </tr>
 <tr>
   <th>Air Counter</th>
-  <td>When initiating an aerial attack while your opponent is performing an action to escape you, quickly close the distance and hit them. This deals 10% of your weapon's melee damage.<p><br>
-  </p>
-  <p>Air Counter can be initiated by aerial attacking when your opponent: climbs something, uses the Galebreathe Talent <a href="Galebreathe.md#legion-shock-trooper">Wind Step</a>, or uses a <a href="Lifevents.md">Lifevent</a>.</p></td>
+  <td>When initiating an aerial attack while your opponent is performing an action to escape you, quickly close the distance and hit them. This deals 10% of your weapon's melee damage.<p>Air Counter can be initiated by aerial attacking when your opponent: climbs something, uses the Galebreathe Talent <a href="Talents.md#wind-step">Wind Step</a>, or uses a <a href="Lifevents.md">Lifevent</a>.</p></td>
 </tr>
 </tbody>
 </table>

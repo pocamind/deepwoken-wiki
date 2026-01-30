@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 194173
+revid: 194545
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -445,18 +445,6 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 -   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes were different to the wielders of the hero blades.[\[4\]](#cite-note-arch-4)
 -   It is said that before he was sealed, he was capable of drowning entire islands in his prime, possibly being the sins that the world will never forgive.[\[4\]](#cite-note-arch-4)
 
-### Sudaruska the Unbroken
-
-_"Your own depths shall consume you." - Gran Sudaruska._
-
-**Lore sources:** _Sudaruska's Soul, Gran Sudaruska Description_
-
--   In her dying breaths, Sudaruska the Unbroken infused her very being into her axe, sacrificing her body to destroy the ancient Ministry and protect Minityrsa. Though her efforts were ultimately in vain, she has become the Greataxe known as Gran Sudaruska, which allowed her to continue to kill followers of the Nine Prophets to this day.[\[8\]](#cite-note-gran-8)
--   Was a very powerful Frostdrawer.
--   Possibly a Celtor due to her Russian name.
--   Possibly a Gremor due to Nuttoons drawing of her. (Note: the drawing isn't necessarily canon.)
--   Her title of "The Unbroken" is similar to the Voidzone "Crypt of the Unbroken." Seeing that Sudaruska's home was Minityrsa, the place where the Crypt is, alongside the Crypt being the only place in the Overworld to find the weapons, alongside more clues, it can be pointed that the Crypt was either Sudaruska's final resting place or her home.
-
 ### Songmaster Tzaraan
 
 **Lore Sources:** _Yamaketzel (Mentioned)_
@@ -788,14 +776,14 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
 -   _(Rifle Spear)_ Although their armaments has been stolen such as the [Rifle Spear](Rifle_Spear.md) by the Authority, Summer Company still has a business relationship with them.
 -   _(Gunsmith Rosen)_ The Leader of [The Summer Company](The_Summer_Company.md) is unknown, as we've never seen them in person. It is assumed Gunsmith Rosen is still in charge of Summer Company.
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." indicates he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
-    -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[9\]](#cite-note-stormseye-9)
+    -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[8\]](#cite-note-stormseye-8)
 -   [The Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
     -   Despite the fact that the Rifle Spear's description say that [The Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[4\]](#cite-note-arch-4)
         -   The [The Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[4\]](#cite-note-arch-4)
         -   Their relationship is likely what led to their conflict with [The Ignition Union](The_Ignition_Union.md), meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legions.
 -   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
--   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[9\]](#cite-note-stormseye-9)
+-   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[8\]](#cite-note-stormseye-8)
 -   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant, [Miners Landing](<Miner's_Landing.md>).
     -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so they attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[4\]](#cite-note-arch-4)
 
@@ -821,7 +809,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   [The Ministry](The_Ministry.md) has some sort of hostility against the [Children of Navae](The_Children_of_Navae.md), which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
     -   Possibly due to their connection with and worship of [Navae](#navae), and ministry connections and obsession with drowned gods like [Yun'shul](#yunshul-keeper-of-hearts) and the great drowning.
 -   Essentially enemies with every major faction in the game until proven otherwise.
--   [Minityrsa](Minityrsa.md) was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[8\]](#cite-note-gran-8)
+-   [Minityrsa](Minityrsa.md) was not originally their territory. It was conquered by the 'Ancient Ministry.'[\[9\]](#cite-note-gran-9)
 -   The Ministry Scouts all use [Krulian Knives](Krulian_Knife.md), which is also the signature weapon wielded by [The Ferryman](The_Ferryman.md).
 -   The Ministry is the 'western benefactor' mentioned by [Cestis](Cestis.md) when the [Tacet](Murmur%253A_Tacet.md) quest is first initiated due to receiving reputation points occasionally for doing his assassinations with them.
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
@@ -2189,8 +2177,8 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 5.  ↑ [5.0](#cite-ref-firstlight-5-0) [5.1](#cite-ref-firstlight-5-1) [5.2](#cite-ref-firstlight-5-2) [5.3](#cite-ref-firstlight-5-3) [5.4](#cite-ref-firstlight-5-4) [5.5](#cite-ref-firstlight-5-5) [5.6](#cite-ref-firstlight-5-6) [5.7](#cite-ref-firstlight-5-7) [First Light](First_Light.md) description
 6.  ↑ [6.0](#cite-ref-doc-6-0) [6.1](#cite-ref-doc-6-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
 7.  ↑ [7.0](#cite-ref-yama-7-0) [7.1](#cite-ref-yama-7-1) [7.2](#cite-ref-yama-7-2) [7.3](#cite-ref-yama-7-3) [7.4](#cite-ref-yama-7-4) [Yamaketzal](Yamaketzal.md)
-8.  ↑ [8.0](#cite-ref-gran-8-0) [8.1](#cite-ref-gran-8-1) [Gran Sudaruska](Gran_Sudaruska.md) description
-9.  ↑ [9.0](#cite-ref-stormseye-9-0) [9.1](#cite-ref-stormseye-9-1) Cite error: Invalid `<ref>` tag; no text was provided for refs named `stormseye`
+8.  ↑ [8.0](#cite-ref-stormseye-8-0) [8.1](#cite-ref-stormseye-8-1) Cite error: Invalid `<ref>` tag; no text was provided for refs named `stormseye`
+9.  [↑](#cite-ref-gran-9-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `gran`
 10.  ↑ [10.0](#cite-ref-dsgs-10-0) [10.1](#cite-ref-dsgs-10-1) [Darksteel Greatsword](Darksteel_Greatsword.md) description
 11.  [↑](#cite-ref-railblade-11-0) [Railblade](Railblade.md) description
 12.  [↑](#cite-ref-alpha-12-0) [Alpha](Alpha.md)
