@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 194478
+revid: 194573
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -107,6 +107,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   Finishing the Trial of One as any Origin, other than [Lone Warrior](Lone_Warrior.md), will grant 15 full training points, which is enough to level you up to Power 2.
 -   Finishing the Trial of One as [Lone Warrior](Lone_Warrior.md) grants you the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent.
 -   The [Lone Warrior](Lone_Warrior.md) Origin after defeating the Thresher OR alternatively, wiping once.
+-   Finishing the Trial of One in Vow of Iron awards nothing, unless it is a designated Side Task, in that case the player will earn 5000 Notes
 
 ### Death
 

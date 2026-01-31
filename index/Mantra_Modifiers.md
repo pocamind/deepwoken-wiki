@@ -1,6 +1,6 @@
 ---
 title: Mantra Modifiers
-revid: 193952
+revid: 194599
 source: https://deepwoken.fandom.com/wiki/Mantra_Modifiers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Mantras, Materials]

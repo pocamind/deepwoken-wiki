@@ -1,6 +1,6 @@
 ---
 title: Valikor
-revid: 194384
+revid: 194587
 source: https://deepwoken.fandom.com/wiki/Valikor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Talents, Etrea]

@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 192580
+revid: 194571
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies]
@@ -43,7 +43,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 3.  If you left the server where you destroyed the barrier, you will need to return to [Etris](<Etris_(Vow_of_Iron).md>) and kill one of the [Shoguns of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) around the island.
 4.  Approach Zi'eer, where he sits at his newly claimed Throne. Go through his dialogue, get teleported to the dungeon and the fight will begin. _**Do not talk to Zi'eer without breaking the barrier, as he will kill you for trespassing.**_ _**If you're below power 10 when you get teleported, you will get kicked with the message "Nice try man" and be in the depths upon rejoining.**_
 
-## Moves
+## Moveset
 
 | Name | Description | Media |
 | --- | --- | --- |
@@ -55,7 +55,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
 -   This is a white move, to avoid the attack it's best to stand still by the surrounded circles.
 -   If hit, venting can end this attack early.
--   This move only during his first phase.
+-   This move only occurs during his first phase.
 
  |  |
 | 
@@ -65,8 +65,8 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
  | Zi'eer summons his tendrils from the ground, indicated by white circles on the ground that appear 1-3 times.
 
--   jumping whilst parrying this move will cause Zi'eer to use **Flash Equalizer**.
--   This move only appears during his first phase.
+-   Jumping whilst parrying this move will cause Zi'eer to use **Flash Equalizer**.
+-   This move only occurs during his first phase.
 
  |  |
 | 
@@ -78,7 +78,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
 -   You have to jump to avoid this attack.
 -   Parrying whilst avoiding this move will cause Zi'eer to use **Tendril Uprising**.
--   This move appears during his first phase.
+-   This move occurs during his first phase.
 
  |  |
 | 
@@ -89,7 +89,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
  | Unlike Tendril Cage, Zi'eer summons an AOE attack that if the Inheritor doesn't manage to react, they get put in Judgement and get sliced rapidly.
 
 -   This is a red move, meaning you have to dodge in order to avoid getting attacked by his move.
--   This move only appears during his first phase.
+-   This move only occurs during his first phase.
 
  |  |
 | 
@@ -122,7 +122,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
  | Zi'eer summons **Tendril Cage** before flying into the air and performing a punch from above.
 
 -   This move is marked by his green indicator, parry it.
--   This move only occurs during his second phase
+-   This move only occurs during his second phase.
 
  |  |
 | 
@@ -132,8 +132,8 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 
  | Zi'eer initiates a special voiceline. _**"Try and keep up"**_ before flying into the air behind the Inheritor.
 
--   If the Inheritor does not look to face Zi'eer in time, he will immediately divebombing the Inheritor.
--   If the Inheritor looks to face Zi'eer, he will dash wildly in the air 15 times before divebombing the Inheritor.
+-   If the player does not look to face Zi'eer in time, he will immediately divebomb the player.
+-   If the player looks to face Zi'eer, he will dash wildly in the air 15 times before divebombing the player.
 -   This move only occurs during his second phase.
 
  |  |
@@ -200,7 +200,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 ## Trivia
 
 -   Zi'eer is voiced by Deepwoken Content Creator [demstormz](https://www.youtube.com/@demstormz).
-    -   Additionally, he provides the voice for Chaser and The Ferryman.
+    -   Additionally, he provides the voice for [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and [The Ferryman](The_Ferryman.md).
 -   After the Inheritor's first encounter with Zi'eer, the Fragments of Else seems to be dimmed and contain less particle effects than normal.
 -   The Reclaimer of the Recollection has different dialogue depending on whether the Inheritor lost or won against Zi'eer:
     -   If the Inheritor lost: The Reclaimer will inform the Inheritor their memento, and many other, ended with Zi'eer; nobody was capable of killing him. However, The Reclaimer thinks there's still a way to defeat him, undiscovered.

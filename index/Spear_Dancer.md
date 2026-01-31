@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 194465
+revid: 194594
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -481,7 +481,7 @@ Oath
  |
 | 
 
-**Ga Bolg** (☆☆☆)
+**Gae Bolg** (☆☆☆)
 
 **Combat Mantra**
 
@@ -489,7 +489,7 @@ _A javelin that opens into 30 barbs. Strike the afflicted to deal massive damage
 
  | 
 
-## Ga Bolg (☆☆☆)
+## Gae Bolg (☆☆☆)
 
   
 **Combat Mantra**  

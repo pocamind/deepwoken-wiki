@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 194563
+revid: 194574
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -300,14 +300,6 @@ Sold Items
 ## Black Market
 
 Once every 20 hours, instead of a regular item rotation, Traan Zakshun will sell goods from their black market stock. For reference to calculate when the black market is available, every five days, the black market will be available at both 00:00 UTC and at 20:00 UTC on the same day. These items are a variety of [Relics](Relics.md) and Legendary [Weapons](Weapons.md), sold exclusively for [Crowns](Crowns.md). Only **one item total** can be purchased per visit. Like any normal shop rotation, the black market will only last one hour. Prices appear to fluctuate depending on the day. The [Gilded Needle](Gilded_Needle.md) for example has been seen at both ten [Crowns](Crowns.md) and five [Crowns](Crowns.md). Listed prices are what appears most frequently.
-
-Black Market Times (CST (Central Standard Time)): (unfinished)
-
--   18:00 / 6:00 PM
--   13:00 / 1:00 PM
--   8:00 / 8:00 AM
--   3:00 / 3:00 AM
--   23:00 / 11:00 PM
 
 ### Shop UI
 

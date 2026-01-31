@@ -1,6 +1,6 @@
 ---
 title: Sierra
-revid: 191634
+revid: 194591
 source: https://deepwoken.fandom.com/wiki/Sierra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Individuals with unspecified pronouns]

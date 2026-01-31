@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 194554
+revid: 194581
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -39,7 +39,7 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 
 The Bloodfouler is a [Legendary Greatsword](Weapons.md); a massive greatsword of similar shape to an odachi that is as fearsome as it is long, commissioned by an unknown member of the Ministry during their training to one day become a prophet. The blade is well decorated in a crimson pattern, as well as its sheathe proving its intricate craft even more. It consists of a now worn, serrated blade and a hilt wrapped in scarlet cloth. The odachi sports decorative symbols along its make, and spikes that crop out opposite to the edge early into the blade's spine. It also comes with a strapped and black leather sheathe.
 
-The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](Bloodrend.md). The weapon can be acquired by retrieving [three tomes](Strange_Tomes.md) from the following:
+The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](Bloodrend.md). The weapon can be acquired by retrieving three [Strange Tomes](Strange_Tomes.md) from the following:
 
 1.  [Volu](Volu.md), who is leaned against the wall in [Outpost Antumbra](Outpost_Antumbra.md)'s basement.
 2.  As a drop from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md).
