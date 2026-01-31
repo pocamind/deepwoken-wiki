@@ -1,6 +1,6 @@
 ---
 title: Ignition Welder
-revid: 175311
+revid: 194735
 source: https://deepwoken.fandom.com/wiki/Ignition_Welder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Ignition Union]
@@ -23,6 +23,7 @@ categories: [Outfits, Expert Outfits, The Ignition Union]
 | obtainment | Saramaed HollowMiner's Landing |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Ignition Welder** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -38,8 +39,4 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 This Outfit has 3000 durability and grants +25% Physical resistance, +25% Elemental resistance.
 
-It also gives the [Master Craftsman](Talents.md#artisan) Talent, allowing you to craft items that would normally require a workbench from your inventory.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/131723596639240/Ignition-Welder-Shirt) / [Pants](https://www.roblox.com/catalog/130698956313657/Ignition-Welder-Pants)
+It also gives the [Master Craftsman](Talents.md#master-craftsman) Talent, allowing you to craft items that would normally require a workbench from your inventory.

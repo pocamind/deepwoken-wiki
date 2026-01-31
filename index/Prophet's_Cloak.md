@@ -1,6 +1,6 @@
 ---
 title: "Prophet's Cloak"
-revid: 194438
+revid: 194688
 source: https://deepwoken.fandom.com/wiki/Prophet's_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ministry]
@@ -24,6 +24,7 @@ categories: [Outfits, Master Outfits, The Ministry]
 | obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Glaive SpellhardtChests from:, The Depths, Diver Journeyman Ambush, The UnderstrandVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Prophet's Cloak** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -46,7 +47,6 @@ The [Crippling Darkness](Talents.md#crippling-darkness) Talent gives the user 20
 ## Trivia
 
 -   Worn by most [Ministry](The_Ministry.md) [NPCs](Ministry_Scout.md).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5049282750/Dark-Mage) / [Pants](https://www.roblox.com/catalog/5049284828/Dark-Mage-Pants)
 -   Shares the same crafting requirements with [Celtorian Tideknight](Celtorian_Tideknight.md).
 -   It includes a full cosmetic 3D model of a collar when equipped. It and the [Verdant Sniper](Verdant_Sniper.md) are the only Outfits with 3D touches on them.
 -   Getting gripped by a [Gran Sudaruska](Gran_Sudaruska.md) user while wearing this will cause the Gran Sudaruska to talk and insult you.

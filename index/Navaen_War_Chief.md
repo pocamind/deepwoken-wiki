@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 177662
+revid: 194689
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Children of Navae]
@@ -23,6 +23,7 @@ categories: [Outfits, Master Outfits, The Children of Navae]
 | obtainment | Chests from:, Duke Erisia, The Depths, Primadon, Aratel Island, Greathive Aratel, Sea EventsOther:, Lodestar (Direct drop), Sold by Glaive Spellhardt for 100 Joy |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Navaen War Chief** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -48,4 +49,3 @@ The [Chief's Will](Talents.md#chiefs-will) Talent grants a 10% penetration buff 
 
 -   This is debatably the best armor for those who want to do a lot of damage with the [Way of Navae](Way_of_Navae.md) fist style.
 -   One of five armors that buff one fist/kick style, the others being [Legion Centurion](Legion_Centurion.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>), and [Justicar's Armor](<Justicar's_Armor.md>).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/8692790296/Navae-War-Chief-Shirt) / [Pants](https://www.roblox.com/catalog/8692777467/Navae-War-Chief-Pants)

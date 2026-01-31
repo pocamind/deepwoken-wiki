@@ -1,6 +1,6 @@
 ---
 title: "Seamstress's Attire"
-revid: 177697
+revid: 194678
 source: https://deepwoken.fandom.com/wiki/Seamstress's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, World Event]
@@ -22,6 +22,7 @@ categories: [Outfits, Expert Outfits, World Event]
 | obtainment | Chests from:, Moon's Eyrie, First Layer, Bounty Hunting, The Diluvian Mechanism, Primadon, Titan of the East, Sold by Nyanna and Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Seamstress's Attire** is a Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -36,7 +37,3 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 ### _Armor Stats_
 
 This Outfit has 2000 durability and grants +20% Elemental resistance, +25% Physical resistance.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826400522/Seamstresss-Attire-Shirt) / [Pants](https://www.roblox.com/catalog/16831909593/Seamstresss-Attire-Pants)

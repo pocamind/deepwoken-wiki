@@ -1,6 +1,6 @@
 ---
 title: "Stratos' Cloak"
-revid: 194113
+revid: 194703
 source: https://deepwoken.fandom.com/wiki/Stratos'_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
@@ -22,6 +22,7 @@ categories: [Pathfinder Exclusive, Outfits, Unique Outfits, Etrea]
 | obtainment | Speak to Stratos while having at least ally Etrea reputation |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -48,5 +49,4 @@ The [Breeze](Talents.md#breeze) Talent grants a permanent +2 studs/s movement sp
 ## Trivia
 
 -   This outfit uses the same clothing and stats as the [Cloak of Winds](Cloak_of_Winds.md).
--   Clothing made by **KAHAEL:**
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10401137157/Cloak-of-Winds-Shirt) / [Pants](https://www.roblox.com/catalog/10401292181/Cloak-of-Winds-Pants)
+-   Clothing made by **KAHAEL**.

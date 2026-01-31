@@ -1,6 +1,6 @@
 ---
 title: Inquisition Light
-revid: 193209
+revid: 194744
 source: https://deepwoken.fandom.com/wiki/Inquisition_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
@@ -23,6 +23,7 @@ categories: [Outfits, Unique Outfits, Outfits of The Central Authority]
 | obtainment | Authority Ensign Origin, Inquisition Division (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants (Default), Shirt • Pants (Capeless) |
 
 **Inquisition Light** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -47,5 +48,3 @@ The [Lethal Dose](Talents.md#lethal-dose) Talent doubles the duration of the Poi
 ## Trivia
 
 -   Because this Outfit is immediately equipped upon joining the Inquisition Division without you _learning_ the schematic, **if you craft any other Outfit, this Outfit will be lost permanently**.
--   Roblox clothing (Capeless): [Shirt](https://www.roblox.com/catalog/91309110222716/Inquisition-Light-Shirt) / [Pants](https://www.roblox.com/catalog/105794829968052/Inquisition-Light-Pants)
--   Roblox clothing (Cape): [Shirt](https://www.roblox.com/catalog/134171038060232/Inquisition-Light-Cape-Shirt) / [Pants](https://www.roblox.com/catalog/138375073520720/Inquisition-Light-Cape-Pants)

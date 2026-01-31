@@ -1,6 +1,6 @@
 ---
 title: Mod Skirt
-revid: 177656
+revid: 194708
 source: https://deepwoken.fandom.com/wiki/Mod_Skirt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits]
@@ -23,6 +23,7 @@ notices:
 | obtainment | Purchased directly from the Mod Shop. |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Mod Skirt** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken._
 
@@ -41,5 +42,4 @@ This Outfit has 100 durability and grants no resistances.
 ## Trivia
 
 -   The skirt was created by ROBLOX user [vympiric](https://www.roblox.com/users/111852097/profile).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16291635078/modskirt-top) / [Skirt](https://www.roblox.com/catalog/16291636836/modskirt-bottom).
 -   It is a feminine alternative to the [Mod Suit](Mod_Suit.md).

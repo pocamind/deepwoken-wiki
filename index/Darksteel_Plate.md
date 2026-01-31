@@ -1,6 +1,6 @@
 ---
 title: Darksteel Plate
-revid: 176979
+revid: 194669
 source: https://deepwoken.fandom.com/wiki/Darksteel_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -23,6 +23,7 @@ categories: [Outfits, Expert Outfits]
 | obtainment | Chests from:, Summer Isle, Songseeker Wilds, Minityrsa, Lower Erisia, Sold above the Lord Regent's throne in Etris for 200 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Darksteel Plate** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -45,5 +46,4 @@ The [Unbreakable](Talents.md#unbreakable) Talent reduces the duration of the gua
 -   Arguably one of the best Expert-tier armors in terms of stats, stat-wise, however it is held back by being somewhat expensive to craft.
 -   Shares its description with the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md).
 -   Might be a reference to the material "Darksteel" in Magic: The gathering
--   **Current** darksteel plate is an outfit created by **KAHAEL:**
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10424588120/Darksteel-Plate-Shirt) / [Pants](https://www.roblox.com/catalog/10424589677/Darksteel-Plate-Pants)
+-   **Current** darksteel plate is an outfit created by **KAHAEL**.

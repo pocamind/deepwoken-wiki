@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Uniform
-revid: 191989
+revid: 194643
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Ignition Union]
@@ -20,6 +20,7 @@ categories: [Outfits, Adept Outfits, The Ignition Union]
 | obtainment | Sold by:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , At the Miner's Landing bankChests from:, Erisia/General Sea Event Loot, Primadon, The Depths, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Ignition Union Uniform** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -35,7 +36,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 6 
 
 This Outfit has 2000 durability, grants +22% Physical resistance, and +22% Elemental resistance.
 
-## Trivia/Notes
+## Trivia
 
--   One of the best early/mid game armors, as it gives fairly high physical and elemental armor, which rivals some expert tier armors while remaining cheap to make.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/7009096671/Ignition-Union-Top) / [Pants](https://www.roblox.com/catalog/7009098401/Ignition-Union-Bottom)
+-   This is one of the best early/mid game Outfits, as it gives fairly high physical and elemental armor, which rivals some expert tier Outfits while remaining cheap to make.

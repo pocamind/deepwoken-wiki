@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper Armor
-revid: 186688
+revid: 194642
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Covenant of Flame]
@@ -20,9 +20,10 @@ categories: [Outfits, Adept Outfits, The Covenant of Flame]
 | durability | 1000 |
 | resistances | +10% Physical Armor, +5% Elemental Armor, +25% Fire Armor |
 | talents | Intrepid Flame |
-| obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Erisia/General Sea Event Loot, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
+| obtainment | Bought from:, Etris, behind Lance's food shop, Sold in Traan Zakshun's regular shop for 80 Chests:, Erisia/General Sea Event Loot, LodestarVow of Iron:, Sold in Naan Zakshun's regular shop for 80 , Flame Worshipper Memento |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Flame Worshipper Armor** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -46,5 +47,4 @@ The [Intrepid Flame](Talents.md#intrepid-flame) Talent extinguishes [burn](Statu
 
 -   This Outfit is one of the requirements to fight [Aska](Aska.md).
     -   Alternatively you can use the [Pleeksty's Faith](Talents.md#pleekstys-faith) OR [Pleeksty's Will](Talents.md#pleekstys-will) Talents instead of this Outfit.
-    -   **If you have none of these equipped, Aska will wipe you instead of starting the fight**.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5202212399/Flame-Worshiper) / [Pants](https://www.roblox.com/catalog/5202213342/Flame-Worshiper-Pants)
+    -   **If you have none of these equipped, Aska will wipe you instead of starting the fight.**

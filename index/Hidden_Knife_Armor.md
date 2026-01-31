@@ -1,6 +1,6 @@
 ---
 title: Hidden Knife Armor
-revid: 185932
+revid: 194626
 source: https://deepwoken.fandom.com/wiki/Hidden_Knife_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -21,8 +21,9 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | buffs | +50% Stealth+20% Ether Regen |
 | talents | Bane |
 | obtainment | Rogue Assassin Memento |
-| selling_price | 10 |
+| selling_price | N/A |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -47,4 +48,3 @@ The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, gr
 ## Trivia
 
 -   This outfit is a much darker version of [Kaide](Kaide,_the_Drowned_Light.md)'s outfit.
-    -   Roblox Clothing: [Shirt](https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman) / [Pants](https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman)

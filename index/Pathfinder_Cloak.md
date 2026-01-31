@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Cloak
-revid: 177670
+revid: 194662
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -23,6 +23,7 @@ categories: [Outfits, Adept Outfits]
 | obtainment | Sold by Nyanna, Sold near FriidChests from:, Erisia/General Sea Event Loot, Moon's Eyrie, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Pathfinder Cloak** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -39,7 +40,3 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 This Outfit has 1200 durability, grants +18% Physical Armor, and +8% Elemental Armor. Additionally, it provides the [Environmentalist](Talents.md#environmentalist) Talent.
 
 The [Environmentalist](Talents.md#environmentalist) Talent reduces the damage taken from certain weather effects like Acid Rain.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9639320462/Pathfinder-Cloak-Shirt) / [Pants](https://www.roblox.com/catalog/9639386512/Pathfinder-Cloak-Pants)

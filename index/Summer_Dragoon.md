@@ -1,6 +1,6 @@
 ---
 title: Summer Dragoon
-revid: 178287
+revid: 194687
 source: https://deepwoken.fandom.com/wiki/Summer_Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Summer Company]
@@ -23,6 +23,7 @@ categories: [Outfits, Master Outfits, The Summer Company]
 | obtainment | Glaive SpellhardtChests from:, Miner's Landing, Saramaed Summit, Starfield Veldt, Summer Isle |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 _Not to be confused with [Summer Dragoon (NPC)](<Summer_Dragoon_(NPC).md>) or [Dragoon](Dragoon.md)._
 
@@ -48,4 +49,3 @@ The [Sunset Ricochet](Talents.md#sunset-ricochet) Talent makes your bullets rico
 
 -   Richocheted bullets can proc enchants (Bugged)
 -   Dragoons were mounted infantrymen that existed from the 16th-18th centuries, wielding a [similarly named firearm](Dragoon.md).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/11698099491/Summer-Company-Master-Shirt) / [Pants](https://www.roblox.com/catalog/11698112750/Summer-Company-Master-Pants)

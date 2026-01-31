@@ -1,6 +1,6 @@
 ---
 title: Merchant Robes
-revid: 192833
+revid: 194624
 source: https://deepwoken.fandom.com/wiki/Merchant_Robes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -22,6 +22,7 @@ categories: [Outfits, Starter Outfits]
 | obtainment | Sold from:, Traan Zakshun's regular shop for 200 , Nyanna for 200 Chests from:, First Layer, Fishing, Moon's Eyrie |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Merchant Robes** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -44,4 +45,3 @@ The [Merchant's Accord](Talents.md#merchants-accord) Talent causes Merchants and
 ## Trivia/Notes
 
 -   The outfit is worn by [Lance Leshi](Lance.md) in the [Etris](Etris.md) food shop and [Lance's Brother](<Lance's_Brother.md>) at [Isle of Vigils](Isle_of_Vigils.md) who sells food near the docks.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5012185915/Novice-Top) / [Pants](https://www.roblox.com/catalog/5012187245/Novice-Pants)

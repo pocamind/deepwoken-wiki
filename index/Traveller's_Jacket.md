@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 177186
+revid: 194718
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -18,7 +18,7 @@ categories: [Outfits, Starter Outfits]
 | droppable | Yes |
 | durability | 1000 |
 | resistances | +10% Physical Armor |
-| obtainment | Automatically learned |
+| obtainment | Automatically learned, Steampunk Soldier Memento |
 | selling_price | N/A |
 | weight | 1 |
 

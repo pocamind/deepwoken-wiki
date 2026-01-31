@@ -1,6 +1,6 @@
 ---
 title: Stranded
-revid: 177713
+revid: 194659
 source: https://deepwoken.fandom.com/wiki/Stranded
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -14,9 +14,10 @@ categories: [Outfits, Starter Outfits]
 | tier | Starter |
 | bankable | Yes |
 | droppable | Yes |
-| obtainment | Castaway Origin (automatically crafted), Lone Warrior Origin (automatically crafted) |
+| obtainment | Castaway Origin (automatically crafted), Lone Warrior Origin (automatically crafted)Vow of Iron:, Breaker Memento, Sightless Memento, Void Glutton Memento |
 | selling_price | N/A |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Stranded** is a Starter [Outfit](Outfits.md) in _Deepwoken._
 
@@ -38,4 +39,3 @@ This Outfit has 0 durability and grants absolutely no effects to the player. Str
 -   Because this Outfit is immediately equipped upon spawning with the **Stranded** or [Lone Warrior](Lone_Warrior.md) Origins, without you _learning_ the schematic, if you craft any other Outfit, this Outfit will be lost permanently.
 -   The Stranded Outfit is removed from the Blacksmith's shop once it is unequipped.
 -   The Outfit appears to be a severely tattered version of the Brown [Traveller's Jacket](<Traveller's_Jacket.md>).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5150609038/Stranded) / [Pants](https://www.roblox.com/catalog/5150610387/Stranded-Pants)

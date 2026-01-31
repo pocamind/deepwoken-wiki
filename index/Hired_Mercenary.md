@@ -1,6 +1,6 @@
 ---
 title: Hired Mercenary
-revid: 186457
+revid: 194623
 source: https://deepwoken.fandom.com/wiki/Hired_Mercenary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -21,6 +21,7 @@ categories: [Outfits, Starter Outfits]
 | obtainment | Sold from:, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop 80 Chests from:, First Layer, Fishing, Lodestar, Primadon (extremely rare)Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Hired Mercenary** is a Starter [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -38,6 +39,5 @@ This Outfit has 1000 durability, grants +15% Physical resistance, and +10% Eleme
 
 ## Trivia/Notes
 
--   Oddly enough, given the name, you can see Karliah wearing this Outfit after completing [her quest](Etris.md#diver-escort-quest).
+-   Oddly enough, given the name, you can see [Karliah](Karliah.md) wearing this Outfit after completing [her quest](Etris.md#diver-escort-quest).
 -   Used to be called "DawnBringer" long ago, some people might still have the schematic with such name.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5738141407/Dawn-Bringer) / [Pants](https://www.roblox.com/catalog/5738143153/Dawn-Bringer-Pants)

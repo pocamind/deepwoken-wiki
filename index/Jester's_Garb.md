@@ -1,6 +1,6 @@
 ---
 title: "Jester's Garb"
-revid: 177809
+revid: 194701
 source: https://deepwoken.fandom.com/wiki/Jester's_Garb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -24,6 +24,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | obtainment | Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Jester's Garb** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -43,8 +44,8 @@ This Outfit has 2500 durability and grants +25% Physical resistance, +15% Blunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 36.25% Blunt, 25% Slash, and 35% Elemental.
 
-This Outfit also grants the [Mocking Favor](Talents.md#equipment-talents) Talent, causing Tillian to appear when you taunt (spit) or emote. He'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.  
-It also grants the [Not A Scratch](Talents.md#human-architecture) talent, causing you to no longer show any signs of damage no matter how low your HP is. No cuts, no scratches, no torn clothing, rhythm ping always white, etc.
+This Outfit also grants the [Mocking Favor](Talents.md#mocking-favor) Talent, causing Tillian to appear when you taunt (spit) or emote. He'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.  
+It also grants the [Not A Scratch](Talents.md#not-a-scratch) Talent, causing you to no longer show any signs of damage no matter how low your HP is. No cuts, no scratches, no torn clothing, rhythm ping always white, etc.
 
 List of buffs being:
 
@@ -64,8 +65,7 @@ List of afflictions being:
 
 ## Trivia
 
--   Worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
--   This Outfit shares identical stats with [Trickster's Habit](<Trickster's_Habit.md>), the outfit worn by [Tillian](Tillian.md).
+-   Worn by [Aelita](Aelita.md).
+-   This Outfit shares identical stats with [Trickster's Habit](<Trickster's_Habit.md>), the Outfit worn by [Tillian](Tillian.md).
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16178494443/Jesters-Garb-Shirt) / [Pants](https://www.roblox.com/catalog/16178500106/Jesters-Garb-Pants)
 -   Occasionally, the text and buff may not line up. It is unknown if this is a bug or intentional case.

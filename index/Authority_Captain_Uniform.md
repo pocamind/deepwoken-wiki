@@ -1,6 +1,6 @@
 ---
 title: Authority Captain Uniform
-revid: 190410
+revid: 194667
 source: https://deepwoken.fandom.com/wiki/Authority_Captain_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
@@ -22,6 +22,7 @@ categories: [Outfits, Expert Outfits, Outfits of The Central Authority]
 | obtainment | Authority Ensign Origin, Command Division (automatically crafted), Sold in Traan Zakshun's regular shop for 200 Chests from:, Fort Merit, The Depths, Moon's EyrieVow of Iron , Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Authority Captain Uniform** is an Expert [Outfit](Outfits.md) in _Deepwoken._ This Outfit is exclusive to the [Authority Ensign](Authority_Ensign.md) Origin.
 
@@ -35,8 +36,6 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 10
 
 Alternatively, joining the Command Division of the [Authority Ensign](Authority_Ensign.md) Origin will grant it for free, ignoring all requirements.
 
-Some [origins](Origins.md) are unable to craft this armor. (Needs more testing, currently Voidwalker and Lone Warrior are unable to craft)
-
 ### _Armor Stats_
 
 This Outfit has 2000 durability and grants +30% Physical resistance and +25% Elemental resistance.
@@ -46,4 +45,3 @@ This Outfit has 2000 durability and grants +30% Physical resistance and +25% Ele
 -   This outfit is worn by the [Authority Officer](Authority_Officer.md), as well as [The Meat Lord](The_Meat_Lord.md), who stole it.
 -   Very good substitute for Master Outfits, as it gives the same physical damage resistance as most of them.
 -   The **current** Authority Captain Outfit was created by **KAHAEL**.
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10461611396/Authority-Commander-Uniform-Shirt-1) / [Pants](https://www.roblox.com/catalog/10461616078/Authority-Commander-Uniform-Pants-1)

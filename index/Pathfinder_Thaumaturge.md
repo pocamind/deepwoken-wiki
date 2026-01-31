@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 177672
+revid: 194663
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -22,6 +22,7 @@ categories: [Outfits, Adept Outfits]
 | obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, Erisia/General Sea Event Loot, The Depths, Moon's Eyrie, Primadon |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Pathfinder Thaumaturge** is an Adept [Outfit](Outfits.md) in _Deepwoken._
 
@@ -43,4 +44,3 @@ The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md
 
 -   The Pathfinder Thaumaturge is a recolored and superior version of the [Pathfinder Sorcerer](Pathfinder_Sorcerer.md) outfit
 -   The Pathfinder Thaumaturge is an inferior version of the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) outfit
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/12994454400/Pathfinder-Thaumaturge-Deepwoken) / [Pants](https://www.roblox.com/catalog/12994469891/Pathfinder-Thaumaturge-Deepwoken)

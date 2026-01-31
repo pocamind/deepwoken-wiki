@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 176882
+revid: 194638
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Hundred Legions]
@@ -22,6 +22,7 @@ categories: [Outfits, Adept Outfits, The Hundred Legions]
 | obtainment | Sold by Traan Zakshun for 200 Chests from:, Erisia/General Sea Event Loot, Starswept Valley, The Depths, Moon's Eyrie, Deep Widow, Primadon |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **11th Legion Plate** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -38,7 +39,3 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 This Outfit has 1500 durability, grants +10% Physical resistance, and +30% Blunt resistance.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 37% Blunt and 10% Slash.
-
-## Trivia/Notes
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6026296409/Achilles-Armor-2-0) / [Pants](https://www.roblox.com/catalog/6026297770/Achilles-Armor-Pants-2-0)

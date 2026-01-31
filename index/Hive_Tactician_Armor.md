@@ -1,6 +1,6 @@
 ---
 title: Hive Tactician Armor
-revid: 192827
+revid: 194676
 source: https://deepwoken.fandom.com/wiki/Hive_Tactician_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Hive]
@@ -22,6 +22,7 @@ categories: [Outfits, Expert Outfits, The Hive]
 | obtainment | Chests from:, Towerstruck Lands, Songseeker Wilds, Moon's Eyrie, Aratel Island, Starswept Valley, Minityrsa, Primadon, Titan of the EastSold by Nyanna for 80 , Sold by Traan Zakshun for 200 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Hive Tactician Armor** or Tactician is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -45,6 +46,5 @@ The [Brunt](Talents.md#brunt) Talent increases your posture resistance while two
 
 -   The description implies that the Blacksmiths have knowledge of/can use Ironsing.
 -   Although rather expensive, this can be a decent expert armor if you're using a weapon that can be two handed
--   **Current** Hive tactician is an outfit made by **KAHAEL**:
-    -   Roblox clothing (Current): [Shirt](https://www.roblox.com/catalog/10376884406/Hive-Tactician-Shirt) / [Pants](https://www.roblox.com/catalog/10376886695/Hive-Tactician-Pants)
-    -   Roblox clothing (Previous): [Shirt](https://www.roblox.com/catalog/6065427623/The-Liquidator) / [Pants](https://www.roblox.com/catalog/6065428412/The-Liquidator-Pants)
+-   **Current** Hive tactician is an outfit made by **KAHAEL**.
+-   Roblox clothing (Previous): [Shirt](https://www.roblox.com/catalog/6065427623/The-Liquidator) / [Pants](https://www.roblox.com/catalog/6065428412/The-Liquidator-Pants)

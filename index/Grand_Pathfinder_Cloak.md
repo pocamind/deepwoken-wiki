@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 177047
+revid: 194672
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -23,6 +23,7 @@ categories: [Outfits, Expert Outfits]
 | obtainment | Chests from:, Erisia, Aratel Island, The Depths, Sea Events |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 Grandmaster Pathfinder Cloak is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -46,5 +47,4 @@ The [Legendary](Talents.md#legendary) Talent grants Ether restoration when you l
 -   Regardless of the first statement, Legendary is one of the best armor talents in the game.
 -   A valid alternative to master tier armours, so long as you are sufficiently skilled to make use of the Legendary ether gain.
 -   Theoretically, the "Legendary" talent should synergise particularly well with weapons that consume ether, such as the Rosen's Hellflame on critical, or the Guiding Star on M1.
--   **Current** grandmaster pathfinder is an outfit created by **KAHAEL**:
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/9639320462/Pathfinder-Cloak-Shirt) / [Pants](https://www.roblox.com/catalog/9639386512/Pathfinder-Cloak-Pants)
+-   **Current** grandmaster pathfinder is an outfit created by **KAHAEL**.

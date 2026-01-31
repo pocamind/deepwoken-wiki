@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 191987
+revid: 194677
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Ignition Union]
@@ -23,6 +23,7 @@ categories: [Outfits, Expert Outfits, The Ignition Union]
 | obtainment | Sold by Nyanna for, Sold in Traan Zakshun's regular shop for 200 Chests from:, Starswept Valley, Saramaed Hollow, Summer Isle, Rogue Construct, The Depths, Moon's Eyrie, PrimadonVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Ignition Trailblazer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -45,5 +46,4 @@ The [Perseverance](Talents.md#perseverance) Talent lowers your time knocked by 2
 ## Trivia/Notes
 
 -   One of the cheapest Expert armors to make.
--   it has the exact same crafting recipes as a few other expert armors, such as [Diver Journeyman Robes](Diver_Journeyman_Robes.md) and [Hive Drone](Hive_Drone.md).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/11630345824/Ignition-Upgrade-Top) / [Pants](https://www.roblox.com/catalog/11630353600/Ignition-Upgrade-Bot)
+-   It has the exact same crafting recipes as a few other expert armors, such as [Diver Journeyman Robes](Diver_Journeyman_Robes.md) and [Hive Drone](Hive_Drone.md).

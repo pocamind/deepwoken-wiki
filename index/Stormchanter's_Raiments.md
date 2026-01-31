@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 185126
+revid: 194649
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -21,9 +21,10 @@ categories: [Outfits, Unique Outfits, World Event]
 | resistances | +25% Lightning Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |
 | talents | Static Mastery, Kickstart |
-| obtainment | Carnival of Hearts |
+| obtainment | Carnival of HeartsVow of Iron:, Flashing Thunder Memento |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Stormchanter's Raiments** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -48,5 +49,3 @@ The [Static Mastery](Talents.md#static-mastery) Talent is currently bugged and d
 ## Trivia
 
 -   If you have the regular Kickstart Talent and this Outfit, the Kickstart tools will stack. This provides no benefits.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826412541/Stormchanters-Raiments-Shirt) / [Pants](https://www.roblox.com/catalog/16826416675/Stormchanters-Raiments-Pants)
--   Utilizing the [Deepscorn Casque](Deepscorn_Casque.md) with the [Static Mastery](Talents.md#static-mastery) Talent will _**heal**_ you instead of dealing damage when using [Static Withdraw](Talents.md#static-withdraw).

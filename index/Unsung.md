@@ -1,6 +1,6 @@
 ---
 title: Unsung
-revid: 188100
+revid: 194629
 source: https://deepwoken.fandom.com/wiki/Unsung
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Exclusive Outfits]
@@ -20,6 +20,7 @@ categories: [Outfits, Exclusive Outfits]
 | obtainment | Drifter Memento |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Unsung** is a Unique (Spec/Mod) [Outfit](Outfits.md) in Pathfinder _Deepwoken_. This Outfit can be obtained through the [Drifter](Drifter.md) Memento in [Vow of Iron](Vow_of_Iron.md).
 
@@ -37,4 +38,3 @@ This Outfit has 3000 durability and grants +30% Physical resistance and +75% Eth
 
 -   Despite being a unique Outfit for members of the _Order of the Unsung_ guild, it is worn by [Aska](Aska.md) and can be obtained normally in [Vow of Iron](Vow_of_Iron.md).
 -   This armour is a clothing asset made by **SirAndrove2**
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10483059545/V5-Speceto-Scout-HR) / [Pants](https://www.roblox.com/catalog/10483068691/V5-Speceto-Scout-HR)

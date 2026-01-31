@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 192822
+revid: 194691
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ignition Union]
@@ -24,6 +24,7 @@ categories: [Outfits, Master Outfits, The Ignition Union]
 | obtainment | Layer 2, Scion of Ethiron, The Diluvian Mechanism, Glaive Spellhardt |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Ignition Deepdelver** is a Master [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -55,4 +56,3 @@ This effect is also given by the arms equipment [Ignition Gauntlets](Ignition_Ga
     -   **Golem Lasers** ([Rock Golem](Rock_Golem.md)/[Golem Prime](Golem_Prime.md))
     -   All of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) non-parryable attacks
     -   [Maestro's](Maestro_Evengarde_Rest.md) **Tempest Eye**
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/11698216427/Ignition-Deepdelver-Shirt) / [Pants](https://www.roblox.com/catalog/11698217417/Ignition-Deepdelver-Pants)

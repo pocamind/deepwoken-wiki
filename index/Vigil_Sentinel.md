@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 176922
+revid: 194705
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Etrea, World Event]
@@ -24,6 +24,7 @@ categories: [Outfits, Unique Outfits, Etrea, World Event]
 | obtainment | Interluminary Parasol, Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Vigil Sentinel** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -50,4 +51,3 @@ The [Vigil's Grace](Talents.md#vigils-grace) Talent grants +0.02x swingspeed whi
 -   This is the only Master Outfit to have a Power requirement that's lower than 15.
 -   Due to how swing speed is calculated, the swingspeed buff is more impactful the slower your weapon is.
 -   [Lightning Cloak's](Thundercall.md#lightning-cloak) swingspeed multiplier is applied **after** Action Surge and Vigil's Grace, allowing for a very high swingspeed increase when combined.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/17008436987/Vigil-Sentinel-Shirt) / [Pants](https://www.roblox.com/catalog/16205109871/Vigil-Sentinel-Pants)

@@ -1,6 +1,6 @@
 ---
 title: Cindergarb
-revid: 192569
+revid: 194631
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -20,8 +20,9 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | buffs | +20% Ether Regen |
 | talents | Flare Reservoir |
 | obtainment | Solborn Memento |
-| selling_price | 10 |
+| selling_price | N/A |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -42,7 +43,3 @@ This Outfit requires the player to be at least [Power](Power.md) 15 to be crafte
 This Outfit has 3000 durability and grants +35% Physical resistance, +50% Fire resistance, +15% Metal resistance, and +20% Ether Regen. Additionally, it provides the [Flare Reservoir](Talents.md#flare-reservoir) Talent.
 
 The [Flare Reservoir](Talents.md#flare-reservoir) Talent is currently bugged and its effects are unknown.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/13408549899/Priest-of-MaDran) / [Pants](https://www.roblox.com/catalog/13408550938/Priest-of-the-MaDran)

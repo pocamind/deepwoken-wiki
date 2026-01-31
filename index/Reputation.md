@@ -1,9 +1,11 @@
 ---
 title: Reputation
-revid: 194360
+revid: 194716
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Reputation, Mechanics]
+categories: [Stub pages with reason, StubPages, Reputation, Mechanics]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron"
 ---
 
 # Reputation
@@ -13,6 +15,8 @@ categories: [Reputation, Mechanics]
 ― Game Tip
 
 The reputation tab accessed via the Journal. This is the starting reputation of the [Castaway](Castaway.md) Origin.
+
+Journal icon
 
 ## Description
 
@@ -34,10 +38,12 @@ Certain NPC dialogues and quests in the game require a specific faction status t
 | Ally | 150 to 299 | NPCs now will greet you with your first name |
 | Friend | 1 to 149 | NPCs will call you friend |
 | Neutral | 0 | N/A |
-| Enemy | ⁣-1 to -149 | NPCs tied to the relevant faction will attack on sight, including town guards.  
-Player will appear on bounty boards (starting from Power 5) and if the player is enemies with any of these factions, they can be hunted down by [Voidwalkers](Voidwalker.md).
+| Enemy | ⁣-1 to -149 | 
 
-Player loses the ability to talk to certain faction-tied NPCs, primarily Blacksmiths and Antiquarians.
+-   NPCs tied to the relevant faction will attack on sight, including town guards.
+-   Player will appear on [bounty boards](Bounty_Hunting.md) (starting from [Power](Power.md) 5) and if the player is enemies with any of the factions listed below, they can be hunted down by [Voidwalkers](Voidwalker.md).
+    -   [Etrea](Etrea.md), [The Central Authority](The_Central_Authority.md), [The Hive](The_Hive.md), [The Summer Company](The_Summer_Company.md), [The Ignition Union](The_Ignition_Union.md), [The Divers](The_Divers.md), [The Knives of Eylis](The_Knives_of_Eylis.md)
+-   Player loses the ability to talk to certain faction-tied NPCs, primarily Blacksmiths and Antiquarians.
 
  |
 | Hated/Hunted | ⁣-150 to -299 | Player can be attacked by randomly spawning NPC [Ambushes](Faction_Ambushes.md). |
@@ -53,14 +59,14 @@ The player can track reputation shifts via status messages, which are as follows
 -   "Your actions anger \[Faction Name\]...": The player lost reputation
 -   "\[Faction Name\] has/have declared you their enemy!": The player's reputation dropped below 0, making them an enemy of the faction.
 -   "The perceived threat you pose against \[Faction Name\] has been reduced...": The player gained reputation through methods only available while being an enemy, such as dying to the specific faction or paying a bribe.
--   "\[Faction Name\] no longer sees you as worth fighting...": The player's reputation reached/went above 0 after being an enemy. (Appears to only pop up after dying to said faction, making their reputation reach/surpass 0)
+-   "\[Faction Name\] no longer sees you as worth fighting...": The player's reputation reached/went above 0 after being an enemy. (Appears to only pop up after dying to said faction or after bribing, making their reputation reach/surpass 0)
 
 The player can gain reputation with a faction by:
 
 -   Completing quests from specific NPCs.
     -   There are one time quest and repeatable quests available for most factions.
 -   Completing [Bounties](Bounty_Hunting.md) and [Jobs](Job_Boards.md).
-    -   Factions without Bounty Boards cannot benefit from this.
+    -   Factions without Bounty Boards cannot benefit from this: [The Divers](The_Divers.md), [The Children of Navae](The_Children_of_Navae.md), [The Hundred Legions](The_Hundred_Legions.md), [The Lost Celtor](Lost_Celtor.md) and [The Ministry](The_Ministry.md)
 -   Helping NPCs in certain random events, primarily Factions VS Factions.
 
 The player can lose reputation with a faction by:

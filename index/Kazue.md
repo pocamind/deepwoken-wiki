@@ -1,6 +1,6 @@
 ---
 title: Kazue
-revid: 194321
+revid: 194655
 source: https://deepwoken.fandom.com/wiki/Kazue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Reputation, Etrean Royalists]
@@ -16,6 +16,8 @@ notices:
 | aspect | Etrean |
 | location | The Sable Estate |
 | affiliation | Etrean Royalists |
+
+Variants: [Ferenc](Ferenc.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

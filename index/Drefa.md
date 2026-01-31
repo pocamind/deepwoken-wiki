@@ -1,6 +1,6 @@
 ---
 title: Drefa
-revid: 192505
+revid: 194674
 source: https://deepwoken.fandom.com/wiki/Drefa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -14,6 +14,8 @@ categories: [Etrean NPCs, Individuals with They/them pronouns, Pathfinder Exclus
 | aspect | Etrean |
 | pronouns | They/them |
 | location | Temple Approach |
+
+Variants: [Korin](Korin.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Vigil Initiate
-revid: 184789
+revid: 194666
 source: https://deepwoken.fandom.com/wiki/Vigil_Initiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, Etrea]
@@ -19,9 +19,10 @@ categories: [Outfits, Adept Outfits, Etrea]
 | durability | 1200 |
 | resistances | +20% Physical Armor, +10% Blunt Armor |
 | talents | Paired Soul |
-| obtainment | Isle of Vigils inside the Mantra shop, Erisia/General Sea Event Loot, Vow of Iron, near the Temple of the Blade Blacksmith. |
+| obtainment | Isle of Vigils inside the Mantra shop, Erisia/General Sea Event LootVow of Iron:, Near the Temple of the Blade Blacksmith |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Vigil Initiate** is an Adept [Outfit](Outfits.md) in _Deepwoken_
 
@@ -45,4 +46,3 @@ The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the bas
 
 -   This Outfit is an inferior version of the [Cloak of Winds](Cloak_of_Winds.md), which gives the same Talent Card wile having much better stats.
 -   This Outfit is worn by [Das](Das.md) at [Isle of Vigils](Isle_of_Vigils.md).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6191481082/Blade-Initiate) / [Pants](https://www.roblox.com/catalog/6191481942/Blade-Initiate-Pants)

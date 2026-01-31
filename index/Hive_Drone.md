@@ -1,6 +1,6 @@
 ---
 title: Hive Drone
-revid: 194440
+revid: 194673
 source: https://deepwoken.fandom.com/wiki/Hive_Drone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Hive]
@@ -23,6 +23,7 @@ categories: [Outfits, Expert Outfits, The Hive]
 | obtainment | Chests from:, Starswept Valley, Summer Isle, Rogue Construct, The Depths, Lodestar, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Hive Drone** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -48,5 +49,4 @@ The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md
 -   One of the cheapest Expert armors to make.
 -   Better than the [Ignition Union Uniform](Ignition_Union_Uniform.md) in everything except durability, and cheaper to make despite being an Expert-tier outfit.
 -   The old Hive Drone armor was the same armor as the Redcoat outfit used in Arch\_Mage's older game Tales From The Valley
--   **Current** hive drone is an outfit made by **KAHAEL:**
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10415791525/Hive-Drone-Shirt) / [Pants](https://www.roblox.com/catalog/10415789135/Hive-Drone-Pants)
+-   **Current** hive drone is an outfit made by **KAHAEL**.

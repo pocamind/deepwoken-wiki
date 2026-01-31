@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 190391
+revid: 194651
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -21,9 +21,10 @@ categories: [Outfits, Unique Outfits, World Event]
 | resistances | +25% Physical Armor, +25% Wind Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |
 | talents | Tempest Evolution, Aerogliding |
-| obtainment | Carnival of Hearts |
+| obtainment | Carnival of HeartsVow of Iron:, Inheritor of the Gale Memento |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Tempestmaker's Threads** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -44,7 +45,3 @@ This Outfit has 2600 durability and grants +25% Physical resistance, +30% Elemen
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Galebreathe, and 30% Elemental.
 
 The [Tempest Evolution](Talents.md#tempest-evolution) Talent grants a 20% damage bonus in the air for a few seconds after landing [Wind Blade](Galebreathe.md#wind-blade) with the [Tempest Wind](Talents.md#tempest-wind) variant. Additionally, this increases the damage of your Tempest Wind. The [Aerogliding](Talents.md#aerogliding) Talent allows the user to fall slowly whilst holding space and lasts for about 3 seconds.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826394517/Tempestmakers-Threads-Shirt) / [Pants](https://www.roblox.com/catalog/16826397127/Tempestmakers-Threads-Pants)

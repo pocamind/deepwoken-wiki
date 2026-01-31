@@ -1,6 +1,6 @@
 ---
 title: Cloak of Winds
-revid: 186459
+revid: 194668
 source: https://deepwoken.fandom.com/wiki/Cloak_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Etrea]
@@ -22,6 +22,7 @@ categories: [Outfits, Expert Outfits, Etrea]
 | obtainment | Chests from:, Zana, Fishing, The Depths, Minityrsa, Maestro Evengarde Rest, Songseeker Wilds, Lodestar, Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 Vow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Cloak of Winds** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -46,5 +47,4 @@ The [Paired Soul](Talents.md#paired-soul) Talent increases the damage of the bas
 -   This Outfit is a superior version of the [Vigil Initiate](Vigil_Initiate.md), but an inferior version of the [Royal Etrean Guard](Royal_Etrean_Guard.md).
 -   This is the uniform worn by [Blade Temple Guard](Blade_Temple_Guard.md).
 -   The old Cloak of Winds design appears to be a reference to the [White Church Hunter set](https://bloodborne.wiki.fextralife.com/White+Church+Set) from Bloodborne.
--   **Current** cloak of winds is an outfit made by **KAHAEL:**
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10401137157/Cloak-of-Winds-Shirt) / [Pants](https://www.roblox.com/catalog/10401292181/Cloak-of-Winds-Pants)
+-   **Current** cloak of winds is an outfit made by **KAHAEL**.

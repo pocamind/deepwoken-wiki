@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 192817
+revid: 194700
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -24,6 +24,7 @@ notices:
 | talents | Vow of Mastery |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Mr Toon** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -41,4 +42,3 @@ Additionally, it provides the [Vow of Mastery](Vow_of_Mastery.md) Talent. Allowi
 
 -   This armor is worn by Nuttoons.
 -   The stats and name of this armor were leaked.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5990799976/Dauntless-Explorer) / [Pants](https://www.roblox.com/catalog/5990852179/Dauntless-Explorer-Pants)

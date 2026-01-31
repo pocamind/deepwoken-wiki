@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 190423
+revid: 194646
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -21,9 +21,10 @@ categories: [Outfits, Unique Outfits, World Event]
 | resistances | +25% Ice Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |
 | talents | Refreeze, Orbital Ice |
-| obtainment | Carnival of Hearts |
+| obtainment | Carnival of HeartsVow of Iron:, Saint Jay Memento |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Icebringer's Vestments** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -46,7 +47,3 @@ This Outfit has 2600 resistance, +30% Elemental resistance, +25% Ice resistance 
 The [Refreeze](Talents.md#refreeze) Talent lowers your [Orbital Ice](Talents.md#orbital-ice) cooldown by 8 seconds when you land any ability that would proc [Bottom Freeze](Talents.md#bottom-freeze). The [Orbital Ice](Talents.md#orbital-ice) Talent forms a ring of ice around your character if you parry while standing on ice, granting 15% physical damage resistance.
 
 This Outfit's Orbital Ice Talent will work even if you have the "[Fists of Fortitude](Talents.md#fists-of-fortitude)" Talent despite these Talents normally being mutually exclusive with eachother. Stacking this Outfit's resistances along with with Orbital Ice and Fists of Fortitude brings your total resistances to 45.8% Physical, 55.38% Frostdraw, and 40.5% Elemental resistance.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826348088/Icebringers-Vestments-Shirt) / [Pants](https://www.roblox.com/catalog/16826351147/Icebringers-Vestments-Pants)

@@ -1,6 +1,6 @@
 ---
 title: Summer Company Uniform
-revid: 177714
+revid: 194665
 source: https://deepwoken.fandom.com/wiki/Summer_Company_Uniform
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Summer Company]
@@ -23,6 +23,7 @@ categories: [Outfits, Adept Outfits, The Summer Company]
 | obtainment | Summer Isle (inside the gun store), Sold by Traan Zakshun for 200 Chests from:, Summer Isle, Moon's Eyrie, First Layer, Erisia/General Sea Event Loot, Primadon |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Summer Company Uniform** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -46,4 +47,3 @@ The [Armor Piercing](Talents.md#armor-piercing) Talent causes your Pistol and Ri
 
 -   Innate Talent is very nice If you are looking to have Armor Piercing in the early stages of the game.
 -   The Summer Company Uniform is a clear reference to the [Crowfeather Garb](https://bloodborne.wiki.fextralife.com/Crowfeather+Garb) from Bloodborne, albeit without the black cloak.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/13743909059/Summer-company-uniform-deepwoken) / [Pants](https://www.roblox.com/catalog/13743902770/Summer-Company-Uniform-deepwoken)

@@ -1,6 +1,6 @@
 ---
 title: Moonseye (Spec Outfit)
-revid: 183481
+revid: 194709
 source: https://deepwoken.fandom.com/wiki/Moonseye_(Spec_Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits]
@@ -10,7 +10,7 @@ notices:
 
 # Moonseye (Spec Outfit)
 
-| Moonseye | |
+| Moonseye (Spec Outfit) | |
 |---|---|
 | tier | Unique |
 | price | 1000 |
@@ -23,6 +23,7 @@ notices:
 | talents | Crippling Darkness |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 _Not to be confused with [Moonseye (symbol)](Moonseye.md)._
 
@@ -32,12 +33,11 @@ _Not to be confused with [Moonseye (symbol)](Moonseye.md)._
 
 ### _Armor Stats_
 
-This Outfit has 4000 durability and grants +35% Physical resistance, +35% Elemental resistance, +20% Lightning resistance, +25% Shadow resistance, and the [Crippling Darkness](Talents.md#equipment-talents) Talent.
+This Outfit has 4000 durability and grants +35% Physical resistance, +35% Elemental resistance, +20% Lightning resistance, +25% Shadow resistance, and the [Crippling Darkness](Talents.md#crippling-darkness) Talent.
 
-The [Crippling Darkness](Talents.md#equipment-talents) Talent grants grants 20% Mantra armor penetration (PEN).
+The [Crippling Darkness](Talents.md#crippling-darkness) Talent grants grants 20% Mantra armor penetration (PEN).
 
 ## Trivia
 
 -   Worn by melonbeard
--   Current Moonseye is the following outfit by **SirAndrove2**:
-    -   [Shirt](https://www.roblox.com/catalog/6444393749/Eyes-of-the-Corruptor-Armor) / [Pants](https://www.roblox.com/catalog/6444391630/Eyes-of-the-Corruptor-Armor)
+-   Current Moonseye is the following outfit by **SirAndrove2**.

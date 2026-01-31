@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 192710
+revid: 194652
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -15,9 +15,10 @@ categories: [Vow of Iron Exclusive, Mementos]
 | final attributes | 50 Shadowcast, 100 Light Weapon, 100 Medium Weapon, 100 Heavy Weapon, 10 Fortitude, 75 Intelligence, 100 Charisma |
 | final traits | 8 Proficiency, 7 Songchant, 6 Dexterity, 6 Erudition, 1 Vitality |
 | aspect | Levit |
-| starting armor | Strange Merchant (Outfit) |
+| starting armor | Strange Merchant |
 | allowed weapons | Dagger, Fist, Rapier, Sword, Spear, Club, Twinblade, Bow, Greataxe, Greatsword, Greathammer, Greatcannon, Essentially any except Pistols, Rifles, and Shields |
 | starting weapons | Vortex Echo |
+| starting items | Warlock's Mantle |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -27,11 +28,9 @@ This content is not accessible outside of this gamemode.
 
 **Strange Merchant** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento forces your race to be [Levit](Levit.md). This Memento's core ability is the Magic Coffin; a loot box that costs Notes to use.
 
-The memento also starts with [Warlock's Mantle](<Warlock's_Mantle.md>) equipped, however, the item seems to be bugged and shows the wrong stats. It also disappears upon being unequipped or replaced.
-
 Strange Merchant can ignore all requirements (stat and otherwise) on equipment, weapons and outfits (with a few exceptions).
 
-Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#instigator) talent on [Pathfinder](Pathfinder.md)
+Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#enrage) talent on [Pathfinder](Pathfinder.md)
 
 ## Mystery Box Locations
 

@@ -1,6 +1,6 @@
 ---
 title: "Trickster's Habit"
-revid: 177810
+revid: 194699
 source: https://deepwoken.fandom.com/wiki/Trickster's_Habit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -24,6 +24,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | obtainment | Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Trickster's Habit** is an Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -43,8 +44,8 @@ This Outfit has 2500 durability and grants +25% Physical resistance, +15% Blunt 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 36.25% Blunt, 25% Slash, and 35% Elemental.
 
-This Outfit also grants the [Mocking Favor](Talents.md#equipment-talents) Talent, causing Aelita to appear when you taunt (spit) or emote. She'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.  
-It also grants the [Not A Scratch](Talents.md#human-architecture) talent, causing you to no longer show any signs of damage no matter how low your HP is. No cuts, no scratches, no torn clothing, rhythm ping always white, etc.
+This Outfit also grants the [Mocking Favor](Talents.md#mocking-favor) Talent, causing Aelita to appear when you taunt (spit) or emote. She'll do an emote, say a quip, and apply a random buff or affliction. This Talent has a 30 second cooldown.  
+It also grants the [Not A Scratch](Talents.md#not-a-scratch) Talent, causing you to no longer show any signs of damage no matter how low your HP is. No cuts, no scratches, no torn clothing, rhythm ping always white, etc.
 
 List of buffs being:
 
@@ -66,7 +67,6 @@ List of afflictions being:
 
 -   Worn by [Tillian](Tillian.md) during the Carnival of Hearts.
 -   This Outfit shares identical stats with [Jester's Garb](<Jester's_Garb.md>), the outfit worn by [Aelita](Aelita.md) in the [Carnival of Hearts](Carnival_of_Hearts.md).
--   TheBlack cross effect, procs the [Talent](Talents.md) Charged return granting 10% increased DMG while under its effect.
+-   The black cross effect procs the [Charged Return](Talents.md#charged-return) Talent, granting +10% weapon damage while under its effect.
 -   Both afflictions where your Taunt cooldown and swingspeed are modified use the same visual effect.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/133529830559342/Tricksters-Habit-Shirt) / [Pants](https://www.roblox.com/catalog/107170519707009/Tricksters-Habit-Pants)
 -   Occasionally, the text and buff may not line up. It is unknown if this is a bug or intentional case.

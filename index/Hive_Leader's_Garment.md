@@ -1,6 +1,6 @@
 ---
 title: "Hive Leader's Garment"
-revid: 190574
+revid: 194706
 source: https://deepwoken.fandom.com/wiki/Hive_Leader's_Garment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -22,6 +22,7 @@ notices:
 | resistances | +25% Physical Armor, +25% Elemental Armor |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Hive Leader's Garment** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -29,4 +30,3 @@ notices:
 
 -   Worn by yayafino
 -   Based on the outfit worn by [Scaramouche](https://genshin-impact.fandom.com/wiki/Scaramouche) from _Genshin Impact_.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/17498181961/Hive-Leader-Garments) / [Pants](https://www.roblox.com/catalog/17498334758/Hive-Leader-Garments-Pants)

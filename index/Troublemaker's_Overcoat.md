@@ -1,6 +1,6 @@
 ---
 title: "Troublemaker's Overcoat"
-revid: 192826
+revid: 194679
 source: https://deepwoken.fandom.com/wiki/Troublemaker's_Overcoat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -22,6 +22,7 @@ categories: [Outfits, Expert Outfits]
 | obtainment | Chests from:, Moon's Eyrie, The Doom of Caeranthil, First Layer, Interluminary Parasol, Primadon, Titan of the East |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Troublemaker's Overcoat** is a Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -36,7 +37,3 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 8 
 ### _Armor Stats_
 
 This Outfit has 2500 durability and grants +20% Elemental resistance, +25% Physical resistance.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826407403/Troublemakers-Overcoat-Shirt) / [Pants](https://www.roblox.com/catalog/16826409686/Troublemakers-Overcoat-Pants)

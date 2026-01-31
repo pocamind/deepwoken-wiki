@@ -1,6 +1,6 @@
 ---
 title: Auroran Gremor
-revid: 165489
+revid: 194704
 source: https://deepwoken.fandom.com/wiki/Auroran_Gremor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits]
@@ -24,6 +24,7 @@ notices:
 | talents | Frozone |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Auroran Gremor** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -44,4 +45,3 @@ notices:
 -   Related to [Auroran](Auroran.md)
 -   Known users: Auchura (Moderator)
 -   Based on the outfit worn by the [Winter Queen](https://wowpedia.fandom.com/wiki/Winter_Queen) from the MMORPG, _World of Warcraft_ (confirmed by Auchura).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/11117080277/Maven-of-Frost-Top) / [Pants](https://www.roblox.com/catalog/11117084216/Maven-of-Frost-Bottom)

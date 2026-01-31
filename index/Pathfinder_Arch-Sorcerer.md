@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 177669
+revid: 194648
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -21,9 +21,10 @@ categories: [Outfits, Expert Outfits]
 | resistances | +10% Physical Armor, +25% Elemental Armor, +10% Lightning Armor, +10% Ice Armor |
 | buffs | +50% Ether Regen |
 | talents | Devastating Power |
-| obtainment | Chests from:, Lower Erisia, Sold at the Mantra shop in Etris for 45 |
+| obtainment | Chests from:, Lower Erisia, Sold at the Mantra shop in Etris for 45 Vow of Iron:, Ether Erudite Memento |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Pathfinder Arch-Sorcerer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -49,5 +50,4 @@ The [Devastating Power](Talents.md#devastating-power) Talent gives the player +1
     -   Wisp Convergence will not work if you do not have [Oathless](Oath%253A_Oathless.md), but it will still grant its additional Wisp Mantra slot.
 -   The outdated version is similar to [Robin's](https://fireemblem.fandom.com/wiki/Robin) outfit from the Fire Emblem series.
 -   A functionally superior version of [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md).
--   **Current** pathfinder arch-sorcerer is made by **KAHAEL:**
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10378359719/Pathfinder-Arch-Sorcerer-Shirt) / [Pants](https://www.roblox.com/catalog/10378362303/Pathfinder-Arch-Sorcerer-Pants)
+-   **Current** pathfinder arch-sorcerer is made by **KAHAEL**

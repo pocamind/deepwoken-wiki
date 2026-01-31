@@ -1,6 +1,6 @@
 ---
 title: Keeper
-revid: 186455
+revid: 194644
 source: https://deepwoken.fandom.com/wiki/Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -23,6 +23,7 @@ categories: [Outfits, Adept Outfits]
 | obtainment | Sold by Nyanna for 80 , Sold in Traan Zakshun's regular shop for 80 , Fishing, Erisia/General Sea Event Loot, Lodestar, The DepthsVow of Iron:, Sold in Naan Zakshun's regular shop for 80 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Keeper** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -39,7 +40,3 @@ This Outfit additionally requires the player to be at least [Power](Power.md) 5 
 This Outfit has 1000 durability and grants +5% Physical resistance, +5% Elemental resistance, +10% Ice resistance, +10% Wind resistance and +20% Ether Regen.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 5% Physical, 14.5% Frostdraw, 14.5% Galebreathe, and 5% Elemental.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/4854403161/Battle-Mage-Shirt) / [Pants](https://www.roblox.com/catalog/4854440315/Battle-Mage-Pants)

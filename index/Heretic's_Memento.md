@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Memento"
-revid: 177080
+revid: 194694
 source: https://deepwoken.fandom.com/wiki/Heretic's_Memento
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -24,6 +24,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | obtainment | Heart of Enmity |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Heretic's Momento** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -43,10 +44,9 @@ This Outfit has 2000 durability and grants +10% Blunt Armor, +100% Ether Regen, 
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 32.5% Blunt, 25% Slash, 43.75% Ironsing, 28.75% Shadowcast, and 25% Elemental.
 
-This Outfit grants the [Underdog](Talents.md#champion) Talent, granting you a 3% damage buff against opponents who have more current health than you and a 10% damage buff against non-humanoid monsters.
+This Outfit grants the [Underdog](Talents.md#underdog) Talent, granting you a 2% damage buff against opponents who have more current health than you and a 10% damage buff against non-humanoid monsters. The damage buff against targets with more current health than you scales on your Willpower investment, up to +4% damage at 60 Willpower.
 
 ## Trivia
 
 -   Added in the 'World Events' update.
 -   Originally had the Giantslayer Talent, but due to Giantslayer being merged with Underdog on the same update this outfit was added, the outfit effectively had no Talent. Heretic's Memento's innate Talent was changed to Underdog on March 8th, 2025.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16129125221/Heretics-Memento-Shirt) / [Pants](https://www.roblox.com/catalog/16129130326/Heretics-Memento-Pants)

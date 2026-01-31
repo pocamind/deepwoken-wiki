@@ -1,6 +1,6 @@
 ---
 title: Terrapod
-revid: 191656
+revid: 194618
 source: https://deepwoken.fandom.com/wiki/Terrapod
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -20,7 +20,7 @@ categories: [Pages with broken file links, Monsters]
 
 ― Mortus, on the Terrapod
 
-_Also known as Headcrabs, Turtles, Crabs, or Bedbugs._
+_Also known as Headcrabs or Crabs._
 
 ## Description
 
@@ -80,7 +80,7 @@ Media
 
 ### Passives
 
--   **Cruentare** (Crimson Only) - The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, inflicts [Bleed](Status_Effects.md#bleed) on every slash, draining your blood and dealing 30% more damage.
+-   **Cruentare** (Crimson Only) - The Crimson Terrapod, with its excessively sharp and serrated claws and stronger shell armor, inflicts [Bleed](Status_Effects.md#bleed) on every slash, draining your blood and dealing 15% more damage.
 -   **Monster Resistance** - Physical attacks deal ??? less damage to Terrapods.
 
 ## Tips and Notes
@@ -90,6 +90,6 @@ Media
 -   This monster is hostile towards every other monster in [Upper Erisia](Upper_Erisia.md).
 -   Terrapods are one of the only monsters that _cannot_ be snuck up on from any direction.
 -   There are three guaranteed spawns for a Terrapod:
-    -   One near the entrance of The Garden Reservoir
-    -   One in front of the ruins near the Legendary Boot
-    -   One sitting under a tree behind the Bandit Camp in Lower Erisia
+    -   One near the entrance of [The Garden Reservoir](The_Garden_Reservoir.md)
+    -   One in front of the ruins near the [Legendary Boot](Legendary_Boot.md)
+    -   One sitting under a tree behind [Path's Respite](<Path's_Respite.md>) in Lower Erisia

@@ -1,6 +1,6 @@
 ---
 title: Shadow Hunter
-revid: 177704
+revid: 194664
 source: https://deepwoken.fandom.com/wiki/Shadow_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -22,6 +22,7 @@ categories: [Outfits, Adept Outfits]
 | obtainment | Chests from:, Erisia/General Sea Event LootSold at:, Weapon shop at Etris for 50 , Lodge underneath Etris for 45 |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Shadow Hunter** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -45,4 +46,3 @@ The [Lowstride](Talents.md#lowstride) Talent increases your [Stealth](Stealth.md
 
 -   Shadow Hunter is the only non-Starter outfit to not have a Power requirement.
 -   Worn by [Thieves](Thief.md) in Erisia, as well as the [Mindless Servants](Mindless_Servant.md) in Duke Erisia's Manor.
--   Roblox Clothing: [Shirt](https://www.roblox.com/catalog/4879082492/Shadow-Hunter) / [Pants](https://www.roblox.com/catalog/4879083441/Shadow-Hunter-Pants)

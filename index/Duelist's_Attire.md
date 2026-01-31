@@ -1,6 +1,6 @@
 ---
 title: "Duelist's Attire"
-revid: 192818
+revid: 194647
 source: https://deepwoken.fandom.com/wiki/Duelist's_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -18,9 +18,10 @@ categories: [Outfits, Adept Outfits]
 | droppable | Yes |
 | durability | 1200 |
 | resistances | +20% Physical Armor, +10% Slash Armor |
-| obtainment | Sold by Nyanna, Chests from:, Lower Erisia, Erisia/General Sea Event Loot |
+| obtainment | Sold by Nyanna, Lower Erisia, Sea EventsVow of Iron:, Spear Dancer Memento |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Duelist's Attire** is an Adept [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -43,4 +44,3 @@ This Outfit has 1200 durability, grants +20% Physical resistance, and +10% Slash
 -   Used to be worn by the [Celtorian Guard](Celtorian_Guard.md).
 -   Unbeknownst to many, Crystal Lenses and Cloudstones, when crafted, result in a Glass Stone which is what you need 5 of in order to craft this armor, making it nearly as simple to craft as the Traveler's Cloak series which require only 10 Notes and 1 Cloth.
 -   Crafting leather, metal, and cloth with literal glass, and for free no less, is yet another instance of Blacksmith sorcery.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/4908561545/Duke-of-Battle) / [Pants](https://www.roblox.com/catalog/4908563352/Duke-of-Battle-Pants)

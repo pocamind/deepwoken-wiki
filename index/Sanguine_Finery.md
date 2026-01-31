@@ -1,6 +1,6 @@
 ---
 title: Sanguine Finery
-revid: 177694
+revid: 194702
 source: https://deepwoken.fandom.com/wiki/Sanguine_Finery
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -24,6 +24,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | obtainment | Carnival of Hearts |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Sanguine Finery** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -48,4 +49,3 @@ The [Focused Hematoma](Talents.md#focused-hematoma) Talent lowers all outside so
 ## Trivia
 
 -   This outfit is best known for being worn by the Bloodrend trainer, [Vyrelda](Vyrelda,_Master_of_Blood.md).
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/16826369343/Sanguine-Finery-Shirt) / [Pants](https://www.roblox.com/catalog/16826371796/Sanguine-Finery-Pants)

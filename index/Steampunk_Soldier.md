@@ -1,6 +1,6 @@
 ---
 title: Steampunk Soldier
-revid: 194111
+revid: 194719
 source: https://deepwoken.fandom.com/wiki/Steampunk_Soldier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -15,6 +15,7 @@ categories: [Vow of Iron Exclusive, Mementos]
 | starting health | 175 |
 | final attributes | 60 Flamecharm, 60 Frostdraw, 80 Medium Weapon, 25 Strength, 25 Fortitude, 40 Agility, 25 Intelligence, 25 Willpower |
 | final traits | 5 Songchant, 3 Proficiency, 3 Vitality, 2 Dexterity |
+| starting armor | Traveller's Jacket |
 | allowed weapons | Rifle |
 | starting weapons | Vapormaw Carbine |
 

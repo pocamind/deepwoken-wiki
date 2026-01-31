@@ -1,6 +1,6 @@
 ---
 title: Verdant Sniper
-revid: 177167
+revid: 194680
 source: https://deepwoken.fandom.com/wiki/Verdant_Sniper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -22,6 +22,7 @@ categories: [Outfits, Expert Outfits]
 | obtainment | Chests from:, Summer Isle |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Verdant Sniper** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -43,7 +44,6 @@ This Outfit has 1500 durability and grants +25% Physical resistance, +20% Elemen
 
 -   This armor has a 3D collar, a trait shared only with the [Prophet's Cloak](<Prophet's_Cloak.md>)
 -   This armor and it's description is a direct reference to [Shinon](https://fireemblemwiki.org/wiki/Shinon) from Fire Emblem: Path of Radiance, with the original being near identical to his outfit.
--   **Current** verdant sniper is an outfit made by **KAHAEL**:
-    -   Roblox clothing: [Shirt](https://www.roblox.com/catalog/10388717707/Verdant-Sniper-Shirt) / [Pants](https://www.roblox.com/catalog/10388645725/Verdant-Sniper-Pants)
+-   **Current** verdant sniper is an outfit made by **KAHAEL**.
 -   Frank F'alzone in the [tutorial](Tutorial.md) uses this outfit.
 -   [Plath](Plath.md) wears this outfit, alongside [Cerulean](Cerulean.md) and all of the [Oathless](Oath%253A_Oathless.md) wanderers.

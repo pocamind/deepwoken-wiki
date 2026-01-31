@@ -1,6 +1,6 @@
 ---
 title: Wishmaker
-revid: 190571
+revid: 194710
 source: https://deepwoken.fandom.com/wiki/Wishmaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -24,6 +24,7 @@ notices:
 | talents | Crippling Darkness |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Wishmaker** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -31,4 +32,3 @@ notices:
 
 -   Worn by Deepwoken developer [Iltria](Developer_Specs.md#iltria-leafre-spellhardt-retired)
 -   [Soren](Soren.md) also has the same description, meaning it's user, Ragoozer, is likely to be part of Wishmaker group.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/7057714851/Luminous) / [Pants](https://www.roblox.com/catalog/7057737382/Luminous)

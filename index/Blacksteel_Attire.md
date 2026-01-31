@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Attire
-revid: 192562
+revid: 194632
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Attire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -20,8 +20,9 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | resistances | +30% Physical Armor+10% Slash Armor, +35% Fire Armor |
 | buffs | +8 Posture |
 | obtainment | Iron Vessel Memento |
-| selling_price | 10 |
+| selling_price | N/A |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -45,4 +46,4 @@ This Outfit has 1000 durability and grants +30% Physical Armor, +10% Slash Armor
 
 ## Trivia
 
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/4907667672/Tallarii) / [Pants](https://www.roblox.com/catalog/4907680555/Tallarii)
+-   This is the only Outfit in the game to give a non-Sanity stat increase.

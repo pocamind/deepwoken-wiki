@@ -1,6 +1,6 @@
 ---
 title: Veteran Adventurer
-revid: 176925
+revid: 194681
 source: https://deepwoken.fandom.com/wiki/Veteran_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -23,6 +23,7 @@ categories: [Outfits, Expert Outfits]
 | obtainment | Chests from:, Minityrsa, Songseeker Wilds, Summer Isle |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Veteran Adventurer** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -48,4 +49,3 @@ The [Foolish Outburst](Talents.md#foolish-outburst) Talent absorbs the [Tempo](C
     -   The Equipment Talent affecting Vents is a nod to the series' "Psych Burst" mechanic, which served as a direct inspiration.
 -   Worn by f3bian during the [Battle Royale](Battle_Royale.md).
 -   Formerly worn exclusively by [Serena](Serena.md), before becoming publicly-available only in the Battle Royale gamemode. It was made obtainable in the main game due to popular demand.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/6155128410/Crimson-Paladin) / [Pants](https://www.roblox.com/catalog/6155129851/Crimson-Paladin-Pants)

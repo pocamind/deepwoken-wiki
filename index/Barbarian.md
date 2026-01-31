@@ -1,6 +1,6 @@
 ---
 title: Barbarian
-revid: 183782
+revid: 194633
 source: https://deepwoken.fandom.com/wiki/Barbarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -17,7 +17,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | durability | 1200 |
 | resistances | +25% Physical Armor, +20% Elemental Armor |
 | obtainment | Berserker Memento |
-| selling_price | 10 |
+| selling_price | N/A |
 | weight | 1 |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
