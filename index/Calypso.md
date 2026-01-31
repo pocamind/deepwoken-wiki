@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 194693
+revid: 194773
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive]
@@ -86,4 +86,4 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
 
 ## Trivia
 
--   Calypso's story, with them choosing a new name for themself to better fit their identity while not being accepted by their family, is likely an allegory for being [transgender.](https://en.wikipedia.org/wiki/Transgender)
+-   Calypso's story, with them choosing a new name for themself to better fit their identity while not being accepted by their family, is likely an allegory for being [Transgender](https://en.wikipedia.org/wiki/Transgender).

@@ -1,6 +1,6 @@
 ---
 title: Ferractine
-revid: 191777
+revid: 194768
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons]
@@ -51,7 +51,7 @@ Equipping the Ferractine grants its unique [weapon Talent](Talents.md#weapon-tal
 
 ## Critical
 
-The user quickly whirls the blade, performing a quick slash, leading into a heavy downslam attack with hyperarmor.
+The user quickly whirls the blade, performing a quick slash, leading into a heavy slam attack with hyperarmor.
 
 The first hit has a scaled damage multiplier of 1.25x, and the second hit has a scaled damage multiplier of 1x.
 

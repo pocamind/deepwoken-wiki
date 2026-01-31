@@ -1,6 +1,6 @@
 ---
 title: Fractine
-revid: 194082
+revid: 194769
 source: https://deepwoken.fandom.com/wiki/Fractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -48,7 +48,7 @@ The damage debuff from the Shattered State also applies to [Silentheart](Oath%25
 
 ## Critical
 
-The user quickly whirls the blade, performing a quick slash, leading into a heavy downslam attack that shatters the blade with hyperarmor. This lodges the blade into the target and puts the weapon in the Shattered State that gives the user less range and damage in exchange for bleed damage and a faster swingspeed.
+The user quickly whirls the blade, performing a quick slash, leading into a heavy slam attack that shatters the blade with hyperarmor. This lodges the blade into the target and puts the weapon in the Shattered State that gives the user less range and damage in exchange for bleed damage and a faster swingspeed.
 
 When in the Shattered State, the user performs a downslash that regains the lodged tip of the blade, dealing damage and applying hitstun to the original target hit and all opponents within its range. The critical can be also used in further ranges to dislodge the blade from the target. This restores the weapon back into its original state.
 

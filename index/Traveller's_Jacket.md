@@ -1,6 +1,6 @@
 ---
 title: "Traveller's Jacket"
-revid: 194718
+revid: 194765
 source: https://deepwoken.fandom.com/wiki/Traveller's_Jacket
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits]
@@ -36,7 +36,7 @@ This Outfit has no [Power](Power.md) or [Attribute](Attributes.md) requirement.
 
 This Outfit has 1000 durability and grants +10% Physical resistance.
 
-## Trivia/Notes
+## Trivia
 
 -   Traveller's Jacket was originally named Traveler's Cloak with all variants being entirely separate from each other rather than just being cosmetic options.
 -   The Default Jacket is worn in the [Tutorial](Tutorial.md).

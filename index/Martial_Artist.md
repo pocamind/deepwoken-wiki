@@ -1,6 +1,6 @@
 ---
 title: Martial Artist
-revid: 194727
+revid: 194748
 source: https://deepwoken.fandom.com/wiki/Martial_Artist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, Drops]
@@ -23,6 +23,7 @@ categories: [Outfits, Expert Outfits, Drops]
 | obtainment | Scyphozia (Depths Collapse), Mudskipper Broodlord, Mudskipper Brute, Diluvian Mechanism (wave 15-50), Fury Nautilodaunt, Lionfish, Saramaed Hollow |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants (Default), Shirt • Pants (Shirtless) |
 
 **Martial Artist** is an Expert [Outfit](Outfits.md) in _Deepwoken_.
 

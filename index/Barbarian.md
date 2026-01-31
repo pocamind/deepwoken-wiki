@@ -1,6 +1,6 @@
 ---
 title: Barbarian
-revid: 194633
+revid: 194749
 source: https://deepwoken.fandom.com/wiki/Barbarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -19,6 +19,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | obtainment | Berserker Memento |
 | selling_price | N/A |
 | weight | 1 |
+| shirt | Shirt • Pants (Default), Shirt • Pants (Shirtless) |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Night Axe
-revid: 193488
+revid: 194764
 source: https://deepwoken.fandom.com/wiki/Night_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
@@ -33,7 +33,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, Heavy Weapons]
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Ministry Necromancer, Voidwalker Bounty Chests, Sold in Traan Zakshun's regular stock for 5,000 Vow of Iron:, Sold in Naan Zakshun's regular shop for 1,000 |
-| description | The Night Axe, a weapon of little contemporary renown, was forged by the ancient folk of Minityrsa and wielded by Ekrim of the Rouhlx Dyad, who came to be known as the Third's Eclipse. Paired with its luminous counterpart, Daycleave, the Night Axe cast long shadows of fear across the old settlements. Its history is whispered in tales of unstoppable might and the haunting interplay of night and day. Shaky accounts speak of the pair meeting a grim fate at the hands of a power they once worshipped, sealing their legend in shade. |
+| description | The Night Axe, a weapon of little contemporary renown, was forged by the ancient folk of Minityrsa and wielded by Ekrim of the Rouhlx Dyad, who came to be known as the Third's Eclipse. Paired with its luminous counterpart, Daybreak, the Night Axe cast long shadows of fear across the old settlements. Its history is whispered in tales of unstoppable might and the haunting interplay of night and day. Shaky accounts speak of the pair meeting a grim fate at the hands of a power they once worshipped, sealing their legend in shade. |
 
 ## Description
 
@@ -55,4 +55,4 @@ The critical has a cooldown of **3 seconds**.
     -   Contrary to popular belief, Chip Damage is not capped at 50%.
 -   Having above 100% chip increases your raw damage dealt when your attacks are blocked. This is fairly easy to do on this weapon via Talents or the [Obfuscation](Obfuscation.md) enchantment.
 -   The Night Axe was given a unique critical on the January 25, 2025 update.
--   The description mentions a weapon called the Daycleave, as of now its not in the game.
+-   Daybreak, the weapon mentioned in Night Axe's description was originally called "Daycleave". This weapon is not currently in the game.

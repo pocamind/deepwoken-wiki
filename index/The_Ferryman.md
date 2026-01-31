@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 192025
+revid: 194771
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -392,7 +392,8 @@ Additionally, The Ferryman used to have a dialogue for beating him under a certa
 -   Due to this boss and The [Scion of Ethiron](Scion_of_Ethiron.md) using a purple variation of their respective element, they were thought to be using "awakened elements." However, despite the connections that would lead one to believe this is the application of the Song that [Kaide](Kaide,_the_Drowned_Light.md) talks about, Arch\_Mage confirmed that there is no relation, and that he only chose purple because "it looked cool."
 -   [Boatman's Watch](<Boatman's_Watch.md>) is located within the [Void Sea](Voidsea.md), and dying in it will send you directly to [The Depths](The_Depths.md).
 -   If spoken to whilst wearing the Hallowtide Mask, the Ferryman will not be afraid and instead reply by saying "Such a funny little tradition. I do like a game." or "Oh, you like to take different forms too?"
--   Arch\_Mage has stated that the Ferryman is probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality) [\[2\]](#cite-note-2)
+-   Arch\_Mage has stated that the Ferryman is probably [bisexual](https://en.wikipedia.org/wiki/Bisexuality).[\[2\]](#cite-note-2)
+
 -   Starting the Ferryman fight in a season then having the season change will give you the reward of the new season, so if you started the fight in Winter and the season changed to Spring mid-fight, you would get 1 knowledge, instead of a Krulian Knife.
 -   The Ferryman's clones can drop [Soul Orbs](Soul_Orb.md) which give you an investment point.
 -   The Ferryman appears to have an interest towards the culture of Lumen as he has appeared in the [Metallica promotional event](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>) to see the appeal of it.
