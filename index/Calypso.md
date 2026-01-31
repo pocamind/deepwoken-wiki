@@ -1,6 +1,6 @@
 ---
 title: Calypso
-revid: 191778
+revid: 194607
 source: https://deepwoken.fandom.com/wiki/Calypso
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, The Ignition Union, NPCs located in the Eastern Luminant]
@@ -51,8 +51,8 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
   <td colspan="12">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">I remember my days of travel too... sometimes i miss it! Eventually though, family calls, and responsabilities and such... For a brief moment at least, adventure can fill taht sort of unrequited wanderlust. After it passes though, resting feels the best!</td>
-  <td colspan="6">Oh, you could say that! Lots of hands-on stuff, tinkering with machinery and such. Plenty of failures too, but that's okay! Each little bump in the road helps us get further along, haha. <i>*They give a weak smile.*</i> I just hope the other mishaps occuring here will die down sooner or later.</td>
+  <td colspan="6">I remember my days of travel too... sometimes I miss it! Eventually though, family calls, and responsibilities and such... For a brief moment at least, adventure can fill that sort of unrequited wanderlust. After it passes though, resting feels the best!</td>
+  <td colspan="6">Oh, you could say that! Lots of hands-on stuff, tinkering with machinery and such. Plenty of failures too, but that's okay! Each little bump in the road helps us get further along, haha. <i>*They give a weak smile.*</i> I just hope the other mishaps occurring here will die down sooner or later.</td>
   <td colspan="12"></td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Calypso is located in [Miner's Landing](<Miner's_Landing.md>), inside the main b
   <td colspan="12"></td>
 </tr>
 <tr>
-  <td colspan="6">Yeah, plenty of bumps in the road though, haha.. you can call me Calypso, by the way. Cool name, right? i picked it myself, heh.</td>
+  <td colspan="6">Yeah, plenty of bumps in the road though, haha.. you can call me Calypso, by the way. Cool name, right? I picked it myself, heh.</td>
   <td colspan="6">[See first instance]</td>
   <td colspan="12"></td>
 </tr>

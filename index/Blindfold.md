@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 190274
+revid: 194606
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -26,7 +26,7 @@ categories: [Equipment, Face, Blindfolds]
 
 ## Description
 
-Blindfolds are rare [Equipment](Equipment.md) items under the "Face" category. Equipping any of them will give you the [Blinded](Talents.md) talent, which is required to unlock the [Blindseer oath](Oath%253A_Blindseer.md).
+Blindfolds are rare [Equipment](Equipment.md) items under the "Face" category. Equipping any of them will give you the [Blinded](Talents.md) talent, which is required to unlock the [Blindseer Oath](Oath%253A_Blindseer.md).
 
 Standard blindfolds are the most difficult to obtain, however they are all still obtainable. The easiest variant to obtain is the Crimson variant.
 
@@ -40,12 +40,12 @@ Standard blindfolds are the most difficult to obtain, however they are all still
 <tr>
   <td>Blindfold</td>
   <td>No innate Pips</td>
-  <td><a href="Erisia.md">Erisia</a>, <a href="First_Layer.md">First Layer</a>, <a href="Random_Encounters.md">Sea Event brown chests</a></td>
+  <td><a href="Erisia.md">Erisia</a>, <a href="First_Layer.md">First Layer</a>, <a href="Random_Encounters.md">Sea Event Brown Chests</a></td>
 </tr>
 <tr>
   <td>Black Blindfold</td>
   <td>+1 Common</td>
-  <td><a href="Random_Encounters.md">Pure Ore Turn-ins</a>, <a href="Chime_of_Conflict.md">Chime of Conflict</a>, <a href="Fishing.md">Fishing</a>, <a href="Meteor_Isle.md">Meteor Isle</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="First_Layer.md">First Layer</a>, <a href="Random_Encounters.md">Depths Island Sea Events</a></td>
+  <td><a href="Random_Encounters.md">Pure Ore Turn-ins</a>, <a href="Chime_of_Conflict.md">Chime of Conflict</a>, <a href="Fishing.md">Fishing</a>, <a href="Meteor_Isle.md">Meteor Isle</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="First_Layer.md">First Layer</a>, <a href="Random_Encounters.md">Island Sea Events</a>, <a href="The_Depths.md">The Depths</a></td>
 </tr>
 <tr>
   <td>Crimson Blindfold</td>
@@ -58,7 +58,7 @@ Standard blindfolds are the most difficult to obtain, however they are all still
 ## Trivia
 
 -   The Blindfold, Crimson Blindfold and Black Blindfold are all the same item, just with different appearances.
-    -   Modelwise, the Crimson and Black blindfold are visually the exact same item, just with different colors.
+    -   Model wise, the Crimson and Black blindfold are visually the exact same item, just with different colors.
 -   [Gremor](Gremor.md) get a small circle of clear vision around them when affected by the Blinded Talent.
--   The [Blinded](Talents.md#equipment-talents) Talent originally made the screen completely black so the user could not see anything other than chat messages and the GUI
-    -   Many players would use this to troll freshies by tricking them to put it on, because the blindfold could not be taken off without a campfire, removing it in the inventory, or putting on another piece of face equipment, and it's very difficult to find a campfire when you can't see anything around you. (not then atleast)
+-   The [Blinded](Talents.md#equipment-talents) Talent originally made the screen completely black so the user could not see anything other than chat messages and the GUI.
+    -   Many players would use this to troll freshies by tricking them to put it on, because the blindfold could not be taken off without a campfire, removing it in the inventory, or putting on another piece of face equipment, and it's very difficult to find a campfire when you can't see anything around you. (Not then, atleast.)

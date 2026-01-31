@@ -1,8 +1,9 @@
 ---
 title: Sudaruska
-revid: 194553
+revid: 194605
 source: https://deepwoken.fandom.com/wiki/Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Individuals with She/her pronouns, Deceased characters]
 ---
 
 # Sudaruska
@@ -11,7 +12,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 |---|---|
 | name | Sudaruska |
 | alias | Sudaruska the Unbroken[1] |
-| death | Killed during the Invasion of Minityrsa |
+| pronouns | She/her[1] |
+| death | Killed during the Invasion of Minityrsa[1] |
 
 ## Description
 
@@ -29,7 +31,7 @@ The tale of Sudaruska's fate spread beyond the shores of Minityrsa. Deirdre look
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-gran-1-0) [1.1](#cite-ref-gran-1-1) [1.2](#cite-ref-gran-1-2) [Gran Sudaruska](Gran_Sudaruska.md) description
+1.  ↑ [1.0](#cite-ref-gran-1-0) [1.1](#cite-ref-gran-1-1) [1.2](#cite-ref-gran-1-2) [1.3](#cite-ref-gran-1-3) [1.4](#cite-ref-gran-1-4) [Gran Sudaruska](Gran_Sudaruska.md) description
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE. This places it only a few decades before the events of the main game, where the forces who invaded Minityrsa are described as ancient. Thus, Minityrsa was invaded by the Ministry prior to becoming a territory of Clan Kobura.
 3.  [↑](#cite-ref-3) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 1 will be assumed to occur during the year 1271 CE, due to being the in-game year when the game released.
 4.  [↑](#cite-ref-4) [Outpost Antumbra](Outpost_Antumbra.md)

@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant (Outfit)
-revid: 192570
+revid: 194613
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -19,6 +19,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | obtainment | Strange Merchant Memento |
 | selling_price | N/A |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -37,7 +38,3 @@ This Outfit requires the player to be at least [Power](Power.md) 15 to be crafte
 ### _Armor Stats_
 
 This Outfit has 9999 durability and grants +10% Physical and Elemental resistance.
-
-## Trivia
-
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/13449442490/Priest-of-Sotekh) / [Pants](https://www.roblox.com/catalog/13408530152/Priest-of-Sotekh)

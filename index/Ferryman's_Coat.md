@@ -1,6 +1,6 @@
 ---
 title: "Ferryman's Coat"
-revid: 191092
+revid: 194611
 source: https://deepwoken.fandom.com/wiki/Ferryman's_Coat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits]
@@ -24,6 +24,7 @@ categories: [Outfits, Unique Outfits]
 | obtainment | The Ferryman |
 | selling_price | 10 |
 | weight | 1 |
+| shirt | Shirt • Pants |
 
 **Ferryman's Coat** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -49,6 +50,5 @@ The Outfit provides the [Ferryman's Curse](Talents.md#equipment-talents) Talent,
 
 -   Like the name suggests, it's the signature outfit of the Ferryman.
 -   Does not give you any abilities used by The Ferryman, nor does it affect your [Thundercall](Thundercall.md) Mantras.
--   Roblox clothing: [Shirt](https://www.roblox.com/catalog/5825770743/Night-Walker) / [Pants](https://www.roblox.com/catalog/5807965620/Night-Walker-Pants)
 -   Prior to the addition of [Item Banks](Item_Bank.md), the schematic was able to be dropped.
 -   If you have [Thundercall](Thundercall.md) with the [Resolve Crusher](Talents.md#resolve-crusher) Talent, when you electrify opponents by hitting them with a Mantra all their attacks will be converted into Lightning damage, allowing you to make great use of the heavy Lightning resistance granted by this Outfit.
