@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 194826
+revid: 194856
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -13784,7 +13784,157 @@ Fists make use of various gauntlets to wear, that are made with leather strips a
 
 Pistols are a ranged weapon class designed to shoot projectiles. They can be used in two different ways, One Handed, which involves only using a singular pistol, giving you a pistol whip when you have no loaded ammo and the ability to load bullets to shoot, and Dual Wield, which involve cycling your shots between each pistol. One Handed Guns can shoot projectiles if the user has [Bullets](Bullet_Casings.md) in the inventory, while also providing advantages and disadvantages depending on the ore the bullets are made of. If used as dual pistols or as an off-hand, these only add the ore effect with no projectile, though there are Talents that allow you to fire projectiles on these weapon types. Pistols can also be used in your offhand slot to complement your main hand weapon. However, doing this without a gun in your main hand will incur a -20% base damage penalty. Additionally, offhand pistols will adopt the scaling and swing speed stats from your main hand weapon.
 
-Template:AllFlintlockWeapons
+<table><caption>Light Weapons</caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Requirements</th>
+  <th>Base Damage</th>
+  <th>Scaling</th>
+  <th>Armor Penetration</th>
+  <th>Chip Damage</th>
+  <th>Posture Damage</th>
+  <th>Range</th>
+  <th>Swing Speed</th>
+  <th>Endlag</th>
+  <th>Scaled Damage</th>
+</tr>
+<tr>
+  <td><b><a href="Silversix.md">Silversix</a></b></td>
+  <td>N/A</td>
+  <td>10</td>
+  <td>LHT: 13</td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>19.8</td>
+</tr>
+<tr>
+  <td><b><a href="Flintlock.md">Flintlock</a></b></td>
+  <td>20 LHT</td>
+  <td>11</td>
+  <td>LHT: 12</td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>20.9</td>
+</tr>
+<tr>
+  <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
+  <div><small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <td>40 LHT</td>
+  <td>14</td>
+  <td>LHT: 12</td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>26.6</td>
+</tr>
+<tr>
+  <td><b><a href="Iron_Requiem.md"><font>Iron Requiem</font></a></b></td>
+  <td>75 MTL<br>
+  40 LHT</td>
+  <td>21</td>
+  <td>MTL: 4<br>
+  LHT: 3</td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>32</td>
+</tr>
+<tr>
+  <td><b><a href="Repeater.md">Repeater</a></b></td>
+  <td>65 LHT</td>
+  <td>14</td>
+  <td>LHT: 15</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.25x</td>
+  <td>-</td>
+  <td>29.8</td>
+</tr>
+<tr>
+  <td><b><a href="Dragoon.md">Dragoon</a></b></td>
+  <td>65 LHT</td>
+  <td>16</td>
+  <td>LHT: 12</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3.5</td>
+  <td>11</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>30.4</td>
+</tr>
+<tr>
+  <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
+  <td>75 LHT</td>
+  <td>16</td>
+  <td>LHT: 11</td>
+  <td>-</td>
+  <td>20%</td>
+  <td>4</td>
+  <td>11</td>
+  <td>1.2x</td>
+  <td>-</td>
+  <td>29.2</td>
+</tr>
+<tr>
+  <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
+  <div><small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <td>75 LHT</td>
+  <td>16</td>
+  <td>LHT: 12</td>
+  <td>5%</td>
+  <td>10%</td>
+  <td>2.5</td>
+  <td>10.5</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>30.4</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
+  <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
+  <td>16</td>
+  <td>LHT: 16</td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>12</td>
+  <td>1.33x</td>
+  <td>-</td>
+  <td>35.2</td>
+</tr>
+<tr>
+  <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
+  <td>40 LHT</td>
+  <td>13</td>
+  <td>LHT: 11</td>
+  <td>5%</td>
+  <td>10%</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td>1.17x</td>
+  <td>-</td>
+  <td>23.7</td>
+</tr>
+</tbody>
+</table>
 
 **Rapiers:**
 
@@ -21165,7 +21315,112 @@ Miscellaneous offhands are tools that do not fit being a shield or a weapon, and
 
 Offhand weapons are weapons that can be wielded at the same time along with your mainhand as long as you are one handing it. They add additional offensive tools to your arsenal, and can offer greater combat versatility at the sacrifice of power and speed of both weapons. Currently the only offhand weapon type are pistols. Offhand pistols slightly change depending on what your main hand weapon is. If your main weapon is another pistol, the offhand pistol will adopt all stats from the main one. If your main weapon is not another pistol, your offhand pistol will have a -20% base damage penalty and will adopt the scaling and swing speed stats from the main weapon. For example, an offhand pistol wielded on [First Light](First_Light.md) will have -20% base damage with 8 Heavy Weapons scaling and 0.82x swing speed.
 
-Template:AllFlintlockWeapons
+<table><caption><a href="Pistols.md"><div>Offhand Pistols</div></a></caption>
+<tbody>
+<tr>
+  <th>Name</th>
+  <th>Requirements</th>
+  <th>Base Damage</th>
+  <th>Penetration</th>
+  <th>Chip Damage</th>
+  <th>Posture Damage</th>
+  <th>Range</th>
+  <th>Offhand Cooldown</th>
+</tr>
+<tr>
+  <td><b><a href="Silversix.md">Silversix</a></b></td>
+  <td>N/A</td>
+  <td><abbr>10 (8)</abbr></td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td><b><a href="Flintlock.md">Flintlock</a></b></td>
+  <td>20 LHT</td>
+  <td><abbr>11 (8.8)</abbr></td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10</td>
+  <td>2.4s</td>
+</tr>
+<tr>
+  <td><b><a href="Dawnshot.md">Dawnshot</a></b><br>
+  <div><small><a href="#alloyed-dawnshot">Alloyed Dawnshot</a></small></div></td>
+  <td>40 LHT</td>
+  <td><abbr>14 (11.2)</abbr></td>
+  <td>-</td>
+  <td>-</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td>2.7s</td>
+</tr>
+<tr>
+  <td><b><a href="Repeater.md">Repeater</a></b></td>
+  <td>65 LHT</td>
+  <td><abbr>14 (11.2)</abbr></td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>12</td>
+  <td>2.2s</td>
+</tr>
+<tr>
+  <td><b><a href="Dragoon.md">Dragoon</a></b></td>
+  <td>65 LHT</td>
+  <td><abbr>16 (12.8)</abbr></td>
+  <td>-</td>
+  <td>-</td>
+  <td>3.5</td>
+  <td>11</td>
+  <td>3s</td>
+</tr>
+<tr>
+  <td><b><a href="Rosen's_Roscoe.md">Rosen's Roscoe</a></b></td>
+  <td>75 LHT</td>
+  <td><abbr>16 (12.8)</abbr></td>
+  <td>-</td>
+  <td>20%</td>
+  <td>4</td>
+  <td>11</td>
+  <td>1.3s</td>
+</tr>
+<tr>
+  <td><b><a href="Dawnshot.md">Alloyed Dawnshot</a></b><br>
+  <div><small><a href="#dawnshot">Dawnshot</a></small></div></td>
+  <td>75 LHT</td>
+  <td><abbr>16 (12.8)</abbr></td>
+  <td>5%</td>
+  <td>10%</td>
+  <td>2.5</td>
+  <td>10.5</td>
+  <td>2.7s</td>
+</tr>
+<tr>
+  <td><b><a href="Crazy_Slots.md#weapons">Soulwrought Gun</a></b></td>
+  <td><a href="Crazy_Slots.md">Crazy Slots</a></td>
+  <td><abbr>16 (12.8)</abbr></td>
+  <td>-</td>
+  <td>-</td>
+  <td>3</td>
+  <td>12</td>
+  <td>?</td>
+</tr>
+<tr>
+  <td><b><a href="Duskshot.md">Duskshot</a><abbr></abbr></b></td>
+  <td>40 LHT</td>
+  <td><abbr>13 (10.4)</abbr></td>
+  <td>5%</td>
+  <td>10%</td>
+  <td>1</td>
+  <td>10.5</td>
+  <td>2.7s</td>
+</tr>
+</tbody>
+</table>
 
 **All:**
 
@@ -21396,7 +21651,7 @@ STR: 10 | \- | 60% | 14 | 11 | 1x | \- | 66 |
 
 **All:**
 
-Every weapon.
+Every player-obtainable weapon, excluding offhands.
 
 <table><caption><div>Weapons</div></caption>
 <tbody>

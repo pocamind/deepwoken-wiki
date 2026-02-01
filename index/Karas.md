@@ -1,6 +1,6 @@
 ---
 title: Karas
-revid: 194777
+revid: 194859
 source: https://deepwoken.fandom.com/wiki/Karas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Enemies, Quests]
@@ -54,15 +54,15 @@ Karas can be found at the island southwest to the one with the [Summer Inn](Summ
   <td colspan="2">Oo. Aren't you just big and scary. What's with the outfit and hair? Were you dipped in a vat of grease or something?</td>
 </tr>
 <tr>
-  <td colspan="2">WIP</td>
+  <td colspan="2">*<i>He chuckles sinisterly.</i>* OHOHO... A CHALLENGER, HM?... BE AT EASE, BOLD SOUL. I AM NO VILE GALEBREATHER NOR A WIELDER OF THE EMERALD THUNDER WHICH STRIKES FEAR INTO THE HEARTS OF MANY... BUT I AM A DEVOUT MASTER OF THE BLADE. FACE MY CHALLENGE. DUEL ME HONORABLY, FRESHSPAWN. IN THE UNLIKELY CASE OF YOUR VICTORY, PERHAPS I WILL REWARD YOUR COURAGE...</td>
   <td colspan="2">*<i>He seems to be dumbfounded.</i>* H... Hey... There's nothing-- *<i>The stranger clears his throat.</i>* THERE IS NOTHING WRONG WITH MY APPEARANCE, WORM. MY MOTHER MADE THIS COAT FOR ME. WEAKLINGS SUCH AS YOU WOULD SLING THEIR INSULTS AT THOSE WHO CHERISH THEIR KIN, AND DRESS ACCORDING TO THEIR HIGH STATION. FACE ME IN BATTLE, AND WE'LL SEE IF YOUR ACTIONS ARE AS BOLD AS YOUR WORDS. jerk...</td>
 </tr>
 <tr>
-  <td colspan="2">WIP</td>
+  <td colspan="2">Let it be so. What are your terms?</td>
   <td colspan="2">You're on, trashbag. Name your terms.</td>
 </tr>
 <tr>
-  <td colspan="2">WIP</td>
+  <td colspan="2">*<i>They consider you momentarily, then shake their head, chuckling.</i>* THE REWARD WHICH I HAVE IN MIND WOULD BENEFIT YOU LITTLE, BRAVE FRESHSPAWN. BUT BE THAT AS IT MAY, MY BOUNTEOUS REWARD IS YOURS, IF YOU DEFEAT ME IN MY NATURAL HABITAT. WHICH I DOUBT YOU WILL...</td>
   <td colspan="2">*<i>They consider you momentarily, then hesitantl</i> [sic] <i>shake their head again.</i>* Um... Th-the item wouldn't... You'd not-- *<i>He clears his throat again.</i>* MY BOONS WILL BE OF LITTLE USE TO YOU, WEAK AND BRUTISH FOOL. BUT BE THAT AS IT MAY, A DUEL IS A DUEL. MY BOUNTEOUS REWARD IS YOURS, IF YOU DEFEAT ME IN MY NATURAL HABITAT. WHICH I DOUBT YOU WILL... chump...</td>
 </tr>
 <tr>

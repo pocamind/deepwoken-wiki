@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 194853
+revid: 194860
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -66,7 +66,7 @@ Speak to [Captain Trist](Captain_Trist.md), an Adret NPC located on the path fro
 
 Your current Mission objective and the Mission's location will be displayed on the top left of your screen, similar to [jobs](Job_Boards.md). You can right click the Mission popup to view its location on the map. The amount of time allocated to each mission depends on the mission location.
 
-Upon completing a Mission, you will have to report back to Captain Trist, this will also be timed. Upon reporting back, you will gain 45 points towards your promotion, EXP, a small chest, and 3-5 **full** training points. The amount of full training points depends on your rank.
+Upon completing a Mission, you will have to report back to Captain Trist. This will also be timed. Upon reporting back, you will gain 45 points towards your promotion, EXP, a small chest, and 3-5 **full** training points. The amount of full training points depends on your rank.
 
 If you fail a Mission by running out of time, failing the objective, or dying, you will lose 25 promotion points instead. The mission will also be considered failed if any of the previous things happen while you are on your way back to Captain Trist after a successful mission. Leaving the game will forfeit your Mission and may result in your promotion points being **voided**. It is not advised to leave the game during an active mission.
 
@@ -578,7 +578,7 @@ Shock Corps Division
 -   Your [Kingdom of Etrea](Etrea.md) and [Children of Navae](The_Children_of_Navae.md) reputation **cannot** be increased. Being Exiled will remove this restriction.
     -   This has a number of downsides: You cannot gain immunity to [Voidwalkers](Voidwalker.md) and you cannot complete the [Sin of Erisia](Duke_Ishamon_Erisia.md) questline (this also means you cannot obtain [Contractor](Oath%253A_Contractor.md) or fight [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)).
 -   Your [Hundred Legions](The_Hundred_Legions.md) reputation has a **cap** of high 'Ally'.
-    -   This means you are unable to get [Legion Intelligence](Legion_Intelligence.md) nor [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent.
+    -   This means you are unable to get [Legion Intelligence](Legion_Intelligence.md) or [Blightsurger](Oath%253A_Blightsurger.md) on an Ensign character unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent.
 -   Because the Division Outfits are immediately equipped upon joining your Division without you _learning_ the schematic, if you craft any other Outfit, the Division Outfit will be lost permanently.
 -   Many of this Origin's benefits are locked behind a significant amount of time spent doing Missions. This will entirely take up your early-game progression on top of effectively softlocking you into only doing Missions until you join a Division. If you do not enjoy the gameplay loop of Missions, this Origin may not appeal to you as a whole, since it is a key part of the Origin and the Origin's progression.
 

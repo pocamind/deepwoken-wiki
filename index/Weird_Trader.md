@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 192512
+revid: 194861
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -42,7 +42,7 @@ The Weird Trader will request three items total, with each item coming from the 
     <li><b><a href="Ingredients.md"><font>Ingredients</font></a></b>: <a href="Alestrian_Coral.md">Alestrian Coral</a>, <a href="Bamboo_Bundle.md">Bamboo Bundle</a>, <a href="Beeswax.md">Beeswax</a>, <a href="Browncap.md">Browncap</a>, <a href="Calabash.md">Calabash</a>, <a href="Dentifilo.md">Dentifilo</a>, <a href="Egg.md">Egg</a>, <a href="Gathered_Wheat.md">Gathered Wheat</a>, <a href="Gobletto.md">Gobletto</a>, <a href="Hemobloom.md">Hemobloom</a>, <a href="Ongo.md">Ongo</a>, <a href="Pomar.md">Pomar</a>, <a href="Raw_Heavy_Meat.md">Raw Heavy Meat</a>, <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a>, <a href="Redd.md">Redd</a>, <a href="Sap.md">Sap</a>, <a href="Spider_Egg.md">Spider Egg</a>, <a href="Thresher_Egg.md">Thresher Egg</a>.</li>
     <li><b><a href="Primordial_Lotuses.md"><font>Lotuses</font></a></b>: <a href="Primordial_Lotuses.md#brilliant-lotus">Brilliant Lotus</a>, <a href="Primordial_Lotuses.md#empyrean-lotus">Empyrean Lotus</a>, <a href="Primordial_Lotuses.md#hellfire-lotus">Hellfire Lotus</a>, <a href="Primordial_Lotuses.md#miasmic-lotus">Miasmic Lotus</a>, <a href="Pristine_Lotus.md">Pristine Lotus</a>, <a href="Pristine_Lotus.md">Scarlet Lotus</a>, <a href="Primordial_Lotuses.md#skyvalor-lotus">Skyvalor Lotus</a>, <a href="Primordial_Lotuses.md#zephyr-lotus">Zephyr Lotus</a>.</li>
     <li><b><a href="Fishing.md"><font>Fish</font></a></b>: <a href="Chum.md">Chum</a>, <a href="Fish_Meat.md">Fish Meat</a>, <a href="Fishing.md">Pufferfish</a>, <a href="Fishing.md">Red Snapper</a> <a href="Squid.md">Squid</a>, <a href="Fishing.md">Swordfish</a>, <a href="Fishing.md">Tuna</a>.</li>
-    <li><b><a href="Ores.md"><font>Ores</font></a></b>: <a href="Ores.md#erisore">Erisore</a>, <a href="Ores.md#gold">Gold</a>, <a href="Ores.md#iron">Iron</a>, <a href="Ores.md#rock">Rock</a>, <a href="Ores.md#umbrite">Umbrite</a>, <a href="Ores.md#astruline">Pure Astruline</a> <a href="Ores.md#erisore">Pure Erisore</a>, <a href="Ores.md#gold">Pure Gold</a>, <a href="Ores.md#iron">Pure Iron</a>, <a href="Ores.md#umbrite">Pure Umbrite</a>.</li>
+    <li><b><a href="Ores.md"><font>Ores</font></a></b>: <a href="Ores.md#erisore">Erisore</a>, <a href="Ores.md#gold">Gold</a>, <a href="Ores.md#iron">Iron</a>, <a href="Ores.md#rock">Rock</a>, <a href="Ores.md#umbrite">Umbrite</a>, <a href="Ores.md#astruline">Pure Astruline</a>, <a href="Ores.md#erisore">Pure Erisore</a>, <a href="Ores.md#gold">Pure Gold</a>, <a href="Ores.md#iron">Pure Iron</a>, <a href="Ores.md#umbrite">Pure Umbrite</a>.</li>
     <li><b><a href="Mantra_Modifiers.md"><font>Mantra Modifiers</font></a></b>:
   <ol>
     <li>Most <a href="Deep_Gems.md">Deep Gems</a>.</li>
