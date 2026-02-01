@@ -1,6 +1,6 @@
 ---
 title: Guns
-revid: 193203
+revid: 194827
 source: https://deepwoken.fandom.com/wiki/Guns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons]
@@ -60,7 +60,7 @@ The amount of bullets you can load into a pistol is dependent on which weapon yo
 
 By equipping an offhand pistol while wielding a main-hand pistol, your animations and pistol-exclusive mechanics will be altered. Your M1 combo will now consist of two consecutive blast shots before a flourish. The reload mechanic will be removed, along with all benefits and downsides it may have.
 
-The offhand pistol will entirely inherit all stats and the [Enchantment](Enchantments.md) from your main-hand one. For example, if you have a [Repeater](Repeater.md) in your main hand and a [Silversix](Silversix.md) in your offhand, your Silversix shots will retain the stats of your Repeater.
+The offhand pistol will entirely inherit all stats (excluding Chip Damage) and the [Enchantment](Enchantments.md) from your main-hand one, **overriding** their original stats and enchantment. For example, if you have a [Repeater](Repeater.md) in your main hand and a [Silversix](Silversix.md) in your offhand, your Silversix shots will retain the stats of your Repeater. The Chip Damage stat does not transfer to your offhand weapon.
 
 Similar to the loaded singular pistol, the dual pistol critical consists of a projectile fired from your weapon.
 
@@ -70,7 +70,7 @@ Using your gun as an offhand weapon will remove a lot of the pistol-exclusive me
 
 This attack isn't used in your M1 combo and often has too much windup to be properly used in an M1 combo. The [Quick Draw](Talents.md#quick-draw) Talent will make possible, however, though **you need to wait for the full endlag of your M1 and then use M2**, otherwise the attack wont happen, which may cost you a hit during an intense fight.
 
-The stats of an offhand pistol will change slightly depending on what your equipped main hand weapon is. If your main hand weapon is another pistol, the offhand pistol will completely inherit the stats of the main one. If your main weapon is not another pistol, it will have a 20% reduction to its base damage along with inheriting the scaling stat of your main weapon. All other stats on the pistol will be retained.
+The stats of an offhand pistol will change slightly depending on what your equipped main hand weapon is. If your main hand weapon is another pistol, the offhand pistol will completely inherit the stats of the main one. If your main weapon is not another pistol, it will have a 20% reduction to its base damage along with inheriting the scaling and swing speed stats of your main weapon. All other stats on the pistol will be retained.
 
 For example, an Offhand [Silversix](Silversix.md) on [First Light](First_Light.md) with 80 heavy and 0 proficiency will deal 11.84 damage due to now having 8 base damage and 8 Heavy Weapon scaling.
 
