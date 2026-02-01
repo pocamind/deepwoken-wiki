@@ -1,9 +1,9 @@
 ---
 title: Burning Stone Gardens
-revid: 184045
+revid: 194790
 source: https://deepwoken.fandom.com/wiki/Burning_Stone_Gardens
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
 ---
 
 # Burning Stone Gardens
@@ -17,8 +17,6 @@ LocationL Burning Stone Gardens LocationR
 Acid runs along the stones, giving way to a forest guarded by immortal giants.
 
   
-
-File:Stone gardens 1.png
 
 **Burning Stone Gardens** is a location in _Deepwoken._ It is a sub-location in [The Garden Reservoir](The_Garden_Reservoir.md) located in [Upper Erisia](Upper_Erisia.md).
 

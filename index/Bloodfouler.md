@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 194581
+revid: 194779
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -47,7 +47,7 @@ The Bloodfouler scales off [Heavy Weapons](Attributes.md) alongside [Bloodrend](
 
 When all three have been retrieved, they can be placed on the case that is right next to Volu, thus putting the Bloodfouler into your hands.
 
-It can also be obtained as a direct drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and additionally the [Heart of Enmity](Heart_of_Enmity.md).
+It can also be obtained as a direct drop from [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), as well as [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Critical
 

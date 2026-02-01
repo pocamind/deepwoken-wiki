@@ -1,9 +1,9 @@
 ---
 title: Karas
-revid: 194755
+revid: 194777
 source: https://deepwoken.fandom.com/wiki/Karas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, NPCs, Enemies, Quests]
+categories: [Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Enemies, Quests]
 ---
 
 # Karas
@@ -13,6 +13,7 @@ categories: [Vow of Iron Exclusive, NPCs, Enemies, Quests]
 | health | 500 |
 | weapon | Shattered Katana |
 | moves | Assault, Critical |
+| pronouns | He/him |
 
 Variants: [Zana](Zana.md)
 
@@ -32,7 +33,7 @@ He wears a [Royal Pathfinder](Royal_Pathfinder.md) and the [Cutthroat Light Armo
 
 ## Location
 
-Karas can be found at the island left to the one with the [Summer Castle](Summer_Isle.md).
+Karas can be found at the island southwest to the one with the [Summer Inn](Summer_Isle.md).
 
 ## Dialogue
 
@@ -183,3 +184,7 @@ At the shore of the Songseeker Island facing the mainland, on a rocky surface.
 The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), He spawns after the narrow channel with the falling leaves.
 
 Karas acts as an encounter in the places you're suppose to challenge him; so it'll take time for him to spawn in. You must deal 100% of the damage dealt to Karas in order for the quest to progress. Once Karas is defeated, he'll drop a chest after roughly 20 seconds with Songseeker related loot.
+
+## Trivia
+
+-   "Karas" means "war" in [Lithuanian](https://en.wikipedia.org/wiki/Lithuanian_language).
