@@ -1,6 +1,6 @@
 ---
 title: "Investigator's Hat"
-revid: 189330
+revid: 194852
 source: https://deepwoken.fandom.com/wiki/Investigator's_Hat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hats]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Hats]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Unobtainable |
+| obtainment | Sea Events |
 | description | ... |
 
 ## Description
