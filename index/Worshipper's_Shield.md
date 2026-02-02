@@ -1,6 +1,6 @@
 ---
 title: "Worshipper's Shield"
-revid: 189794
+revid: 194903
 source: https://deepwoken.fandom.com/wiki/Worshipper's_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand, The Covenant of Flame]
@@ -16,7 +16,7 @@ categories: [Weapons, Shields, Offhand, The Covenant of Flame]
 | special effect | Your posture recovery from parrying is reduced by 40%. |
 | offhand | Offhand only |
 | rarity | Uncommon |
-| selling price | 45 |
+| selling price | 14 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |

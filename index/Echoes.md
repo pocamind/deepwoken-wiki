@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 193509
+revid: 194875
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -484,7 +484,6 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
 -   The [Leather Gloves](Leather_Gloves.md) and [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock are equipped automatically at the end of character creation. This means, if you've chosen [Lone Warrior](Lone_Warrior.md), you can spawn in the [Trial of One](Trial_of_One.md) with equipment on.
 -   Attempting to unequip the [Leather Gloves](Leather_Gloves.md) or [Boots](Leather_Boots.md) from the Starting Equipment Echo Unlock will cause the item to be **permanently deleted**.
--   Not only does using the [Idol of Yun'Shul](<Idol_of_Yun'Shul.md>) count towards the "Bargained with Yun'Shul" Echo task, but it will also count when used in the [Fragments of Self](Fragments_of_Self.md). However, your deal if used in fragments must **not** be Resonance Reroll, or it will remove it from your completed tasks.
 -   Multifaceted makes the 5 innate [Aspect](Aspects.md) points free to allocate. For example instead of having 3 Fortitude and 2 Willpower on a [Vesperian](Vesperian.md), all of your stats will be at 0 and you will be given 5 free points to invest. This allows for much more build diversity with all aspects.
     -   After purchasing Multifaceted, any pre-existing slot that didn't invest into stats that were increased by their Aspect will be able to use [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to reallocate them.
     -   Unfortunately, after purchasing Multifaceted, any pre-existing slot that had above 100 in any attribute will have all of their points above 100 uninvested and refunded. This also **disallows you from going above 100 invest in any attribute** regardless of your aspect.

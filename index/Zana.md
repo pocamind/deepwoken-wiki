@@ -1,9 +1,9 @@
 ---
 title: Zana
-revid: 194756
+revid: 194863
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
+categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
 ---
 
 # Zana
@@ -14,6 +14,7 @@ categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, En
 | drops | Frigid Prism |
 | weapon | Shattered Katana |
 | moves | Assault, Critical |
+| pronouns | They/them |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
@@ -27,7 +28,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Zana is a [Vesperian](Vesperian.md) NPC who gives the player a quest to obtain a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md) equipped, you can partake in Zana's quest.
 
-He wears a [Royal Pathfinder](Royal_Pathfinder.md) and the [Prophet's Cloak](<Prophet's_Cloak.md>) [Outfit](Outfits.md).
+They wear a [Royal Pathfinder](Royal_Pathfinder.md) and the [Prophet's Cloak](<Prophet's_Cloak.md>) [Outfit](Outfits.md).
 
 ## Location
 
@@ -173,7 +174,7 @@ Zana will challenge you in 3 different locations; 2 in the Etrean Luminant and 1
 
 #### Location 1
 
-The Navaen Nomad Encampment in [Etrean Wilds](Etrean_Wilds.md) on [Etris](Etris.md). He spawns to the right of facing the Encampment. The Nomads will also immediately attack Zana when he spawns, get rid of all the Nomads or find a server where they are killed in order to actually fight him.
+The Navaen Nomad Encampment in [Etrean Wilds](Etrean_Wilds.md) on [Etris](Etris.md). They spawn to the right of facing the Encampment. The Nomads will also immediately attack Zana when they spawn, get rid of all the Nomads or find a server where they are killed in order to actually fight them.
 
 #### Location 2
 
@@ -181,14 +182,14 @@ Right side of the [Lower Erisia](Lower_Erisia.md) beach, near the tree by the ru
 
 #### Location 3
 
-The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), He spawns after the narrow channel with the falling leaves.
+The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), they spawn after the narrow channel with the falling leaves.
 
-Zana acts as an encounter in the places you're suppose to challenge him; so it'll take time for him to spawn in. You must deal 100% of the damage dealt to Zana in order for the quest to progress. Once Zana is defeated, he'll drop a chest after roughly 20 seconds with Songseeker related loot.
+Zana acts as an encounter in the places you're suppose to challenge them; so it'll take time for them to spawn in. You must deal 100% of the damage dealt to Zana in order for the quest to progress. Once Zana is defeated, they'll drop a chest after roughly 20 seconds with Songseeker related loot.
 
 ## Trivia
 
--   He can drop Frigid Prisms, even though he isn't meant to be killed.
--   He is a reference to the “metamancer,” playertype, specifically those from Verse 1. He uses a Shattered Katana and [Royal Pathfinder](Royal_Pathfinder.md) and hints at being a [Flamecharmer](Flamecharm.md), along with all of his fights being at popular ganking spots. Even the aspect he is pokes fun at how many of these players were Vesperians. The only thing missing is Blindseer.
--   He has 500 HP and deals 20 damage per hit, in all locations.
--   When encountered in one of the ganking spots, his mask will switch into a random Vesperian mask and his Royal Pathfinder coat will be removed, while the former also occurs with [Polis](Polis.md), it's unclear why the latter occurs, or if it's even a bug.
--   The Royal Pathfinders coat he wears appears to have no sleeves.
+-   They can drop Frigid Prisms, even though he isn't meant to be killed.
+-   They are a reference to the “metamancer,” playertype, specifically those from Verse 1. They use a Shattered Katana and [Royal Pathfinder](Royal_Pathfinder.md) and hint at being a [Flamecharmer](Flamecharm.md), along with all of their fights being at popular ganking spots. Even the aspect they are pokes fun at how many of these players were Vesperians. The only thing missing is Blindseer.
+-   They have 500 HP and deal 20 damage per hit, in all locations.
+-   When encountered in one of the ganking spots, their mask will switch into a random Vesperian mask and his Royal Pathfinder coat will be removed, while the former also occurs with [Polis](Polis.md), it's unclear why the latter occurs, or if it's even a bug.
+-   The Royal Pathfinders coat they wear appears to have no sleeves.

@@ -1,6 +1,6 @@
 ---
 title: Ehkusa
-revid: 184201
+revid: 194913
 source: https://deepwoken.fandom.com/wiki/Ehkusa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Characters mentioned in books, The Hive]
@@ -18,9 +18,9 @@ notices:
 
 ## Description
 
-**Ehkusa** was the main character of the [book](Books.md) [Lament of Cirryn](Lament_of_Cirryn.md).
+Ehkusa was the main character of of [Lament of Cirryn](Lament_of_Cirryn.md). With the [book](Books.md)'s removal from the game, Ehkusa is no longer referenced within _[Deepwoken](<Deepwoken_(game).md>)_.
 
-She was a [Lifeweave](Lifeweave.md) scholar of [The Hive](The_Hive.md), who was sent out on a mission with 2 other scholars to revive [Cirryn](Cirryn.md) by a hivelord [Ximac Diri](Ximac_Diri.md).[\[1\]](#cite-note-lament-1)
+She was a [Lifeweave](Lifeweave.md) scholar of [The Hive](The_Hive.md), who was sent out on a mission with two other scholars to revive [Cirryn](Cirryn.md) by Hivelord [Ximac Diri](Ximac_Diri.md).[\[1\]](#cite-note-lament-1)
 
 In the end, the mission ends in partial success, with [Cirryn](Cirryn.md) coming back to life, but going rogue and wreaking havoc in the Greathive.
 

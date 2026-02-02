@@ -1,12 +1,9 @@
 ---
 title: Mofisu Clan Informant
-revid: 194264
+revid: 194888
 source: https://deepwoken.fandom.com/wiki/Mofisu_Clan_Informant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Clan Mofisu]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Clan Mofisu]
 ---
 
 # Mofisu Clan Informant
@@ -34,13 +31,19 @@ Mofisu Clan Informant is an [Etrean](Etrean.md) NPC.
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td colspan="4">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="2">[Shogun defeated]</td>
+  <td colspan="2">[Shogun not defeated]</td>
 </tr>
 <tr>
   <td colspan="2">Good work... Had that beast not caught me off guard, I too would have made quick work of him...</td>
+  <td colspan="2">Focus on your own life...</td>
 </tr>
 <tr>
   <td colspan="2">[Memory] I'm here for the information we agreed upon.</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="2">I don't have much time, it seems... So, I will make this quick. The clans have no way of approaching the Regent. As I'm sure you know, the barrier surrounding the royal palace is impenetrable.</td>
@@ -86,7 +89,3 @@ Mofisu Clan Informant is an [Etrean](Etrean.md) NPC.
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   It's possible to interact with them during the boss fight. If done so, they will say "Focus on your own life..."

@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 191495
+revid: 194866
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -28,6 +28,8 @@ Kaide is an aged man with purple eyes and a stern expression. He has long white 
 As the fallen king of Constellia, he was imprisoned in the outskirts of New Kyrsa after the invasion made by the [Kyrsans](Kyrsgarde.md) under Ethiron's will, now to be eternally meditating. He mentions about the limited power of the Song and the unsuccessful war between the Celestials and Lightborns against the Drowned Gods, eventually leading to the Celestials fleeing and the Lightborns losing morale, giving up in the process.
 
 ## Dialogue
+
+**Base Dialogue:**
 
 **First Encounter:**
 
@@ -289,6 +291,4 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
 
 ## References
 
-1.  [↑](#cite-ref-1)
-    
-    File:New lightborn lore just dropped chat.png
+1.  [↑](#cite-ref-1) File:New lightborn lore just dropped chat.png

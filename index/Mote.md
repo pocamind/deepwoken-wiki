@@ -1,11 +1,9 @@
 ---
 title: Mote
-revid: 191560
+revid: 194889
 source: https://deepwoken.fandom.com/wiki/Mote
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Canor NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
 ---
 
 # Mote

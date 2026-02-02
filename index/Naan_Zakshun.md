@@ -1,11 +1,9 @@
 ---
 title: Naan Zakshun
-revid: 193587
+revid: 194885
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, Circle of Honour members]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, Circle of Honour members]
 ---
 
 # Naan Zakshun
