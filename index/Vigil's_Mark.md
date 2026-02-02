@@ -1,6 +1,6 @@
 ---
 title: "Vigil's Mark"
-revid: 166595
+revid: 194977
 source: https://deepwoken.fandom.com/wiki/Vigil's_Mark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea, Lawless Territory]

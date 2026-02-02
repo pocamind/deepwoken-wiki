@@ -1,6 +1,6 @@
 ---
 title: Temple Sparring Hall
-revid: 166589
+revid: 194978
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Locations, Locations in the Etrean Luminant, Territory of Etrea, Lawless Territory]
@@ -32,4 +32,3 @@ For more information see the [original article](Evengarde_Rest.md).
 ## Trivia
 
 -   Although the location was in the game since it's original release, it never was treated as separate location until a shadow update on 23 January 2024.
--   The location is marked as "Lawless", so it's presumed that partaking in combat while in this area will not alert guards.

@@ -1,6 +1,6 @@
 ---
 title: Brutus
-revid: 191727
+revid: 194953
 source: https://deepwoken.fandom.com/wiki/Brutus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Hundred Legions, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -26,9 +26,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Brutus is an imprisoned [Khan](Khan.md) in the [Fort Merit](Fort_Merit.md) prison that allows you to unbound your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses [Chitin](Talents.md#innate-aspect-talents)/[Exoskeleton](Talents.md#freak-of-nature), and does not drain it. Based on his dialogue, and him wearing the old [Legion Centurion](Legion_Centurion.md) [Outfit](Outfits.md) with [Khan Pauldrons](Legion_Pauldrons.md), he is most likely a high-ranking member of [The Hundred Legions](The_Hundred_Legions.md), and has a history with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+Brutus is a [Khan](Khan.md) NPC. He is a prisoner within the [Fort Merit](Fort_Merit.md) prison as a member of [The Hundred Legions](The_Hundred_Legions.md), and has a history with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
-He is noticably larger than most other people, including you.
+He allows you to unbound your [Fortitude](Attributes_Unbound.md). Talking to him will prompt a beatdown that will knock you and leave you at barely any health, along with draining you of all your armor. This bypasses [Chitin](Talents.md#innate-aspect-talents)/[Exoskeleton](Talents.md#freak-of-nature), and does not drain it.
+
+He wears the old [Legion Centurion](Legion_Centurion.md) [Outfit](Outfits.md) with [Khan Pauldrons](Legion_Pauldrons.md).
+
+He is noticeably larger than most other people, including you.
 
 ## Location
 

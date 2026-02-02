@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 190369
+revid: 194966
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -148,9 +148,9 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   "..." - If you have an Oath, or if you already rescued the NPC and rejoined.
     -   "Send help, your will alone won't be enough to break these chains." - If you don't meet the stat requirements.
     -   "_The captive stays silent, staring at you with wild eyes wrought with concern._" - If you no longer meet the reputation requirement. (Takes priority if both requirements aren't present)
--   Using a wish to break your Oath at [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), will provide the following dialogue from [Vice Warden Morredh](Vice_Warden_Morredh.md):
+-   Using a wish to break your Oath at the [Shrine of Yun'Shul, Keeper of Hearts](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), will provide the following dialogue from [Vice Warden Morredh](Vice_Warden_Morredh.md):
     -   "Another deserter? You're pathetic."
 -   Talking with [Vice Warden Morredh](Vice_Warden_Morredh.md) after Oath breaking Chainwarden will provide the following dialogue:
     -   "You dare show yourself before me? Not even groveling will change my mind about you, coward. You do not belong in a peaceful world." Prohibiting you from reobtaining the Oath.
 -   Previously left cestus removal carried over to [Anklets of Alsin](Anklets_of_Alsin.md), this however has been shadow patched.
--   Restrain previously ignored Return to the Dark Ages, an old removed talent.
+-   Restrain previously ignored Return to the Dark Ages, an old removed Talent.

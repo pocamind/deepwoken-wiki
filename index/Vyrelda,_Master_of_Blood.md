@@ -1,9 +1,9 @@
 ---
 title: "Vyrelda, Master of Blood"
-revid: 192449
+revid: 194995
 source: https://deepwoken.fandom.com/wiki/Vyrelda%2C_Master_of_Blood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
+categories: [Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in the First Floor of the Second Layer, NPCs located in the Eastern Luminant, Enemies]
 ---
 
 # Vyrelda, Master of Blood
@@ -14,6 +14,7 @@ categories: [Pathfinder Exclusive, NPCs, Attunement Trainers, NPCs located in th
 | drops | None |
 | weapon | Red Death |
 | moves | Assault, Critical, TBA |
+| pronouns | She/her |
 | affiliation | The Ministry (formerly) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

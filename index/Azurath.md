@@ -1,9 +1,9 @@
 ---
 title: Azurath
-revid: 194873
+revid: 194925
 source: https://deepwoken.fandom.com/wiki/Azurath
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Heliodar NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs]
+categories: [Heliodar NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs, NPCs located in the Cerebral Spire]
 ---
 
 # Azurath

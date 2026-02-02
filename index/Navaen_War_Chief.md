@@ -1,6 +1,6 @@
 ---
 title: Navaen War Chief
-revid: 194689
+revid: 194999
 source: https://deepwoken.fandom.com/wiki/Navaen_War_Chief
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Children of Navae]

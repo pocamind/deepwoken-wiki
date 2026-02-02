@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 191566
+revid: 194945
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -76,6 +76,12 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
  | Nautilodaunt initiates a full sprint before committing to a drop kick on its prey.
 
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#cyan)
+
+Parry
+
  |
 | 
 
@@ -86,6 +92,12 @@ Their skill and strength are even recognized by the [Voices of the Depths](Voice
 
 -   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
 -   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |
 | 

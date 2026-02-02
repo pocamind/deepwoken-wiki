@@ -1,9 +1,9 @@
 ---
 title: Reclaimer of the Recollection
-revid: 191599
+revid: 194927
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members]
+categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire]
 notices:
   - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
 ---
@@ -24,9 +24,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Reclaimer of the Recollection is a [Gremor](Gremor.md) NPC found in [The Cerebral Spire](The_Cerebral_Spire.md), [Fragments of Else](Fragments_of_Else.md) and [Cerebral Requiem](Cerebral_Requiem.md). They serve as the guide to [the Inheritor](The_Inheritor.md) in the Cerebral Spire and a counterpart to [Self](Self.md) in the Fragments of Else and the Cerebral Requiem. The Reclaimer is the only way the player is able to increase their power and gain further abilities regarding their [Mementos](Mementos.md).
+The Reclaimer of the Recollection is a [Gremor](Gremor.md) NPC. They serve as the guide to [the Inheritor](The_Inheritor.md) in the Cerebral Spire and a counterpart to [Self](Self.md) in the Fragments of Else and the Cerebral Requiem.
+
+The Reclaimer is the only way the player is able to increase their power and gain further abilities regarding their [Mementos](Mementos.md). They also provide information on how to unlock new Mementos.
 
 They're an Aspen [Gremor](Gremor.md) in stage 2 of aging (50-59 years old). He wears the [Light's Final Toll](<Light's_Final_Toll.md>) beads on his arm, a [Canticlysm Pendant](Canticlysm_Pendant.md), and an [Adventurer Coat](Adventurer_Coat.md) of some kind. Additionally, he wears a pair of [geta](<https://en.wikipedia.org/wiki/Geta_(footwear)>).
+
+## Location
+
+The Reclaimer is found in [The Cerebral Spire](The_Cerebral_Spire.md), [Fragments of Else](Fragments_of_Else.md) and [Cerebral Requiem](Cerebral_Requiem.md).
 
 ## Shop UI
 

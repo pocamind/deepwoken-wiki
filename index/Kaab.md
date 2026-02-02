@@ -1,6 +1,6 @@
 ---
 title: Kaab
-revid: 193454
+revid: 194948
 source: https://deepwoken.fandom.com/wiki/Kaab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -22,7 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Kaab is a [Vesperian](Vesperian.md) Shipwright NPC who will only allow you to speak to him until you have reached Ally reputation with [The Hive](The_Hive.md).
+Kaab is a [Vesperian](Vesperian.md) NPC. They are a [Lifeweaver](Lifeweave.md) and Shipwright for [the Hive](The_Hive.md).
+
+They will only allow you to speak to them until you have reached Ally reputation with [The Hive](The_Hive.md).
 
 ## Location
 
@@ -97,4 +99,4 @@ Kaab is located at the Shipyard of [Greathive Aratel](Greathive_Aratel.md), whic
 
 ## Trivia
 
--   From his dialogue, he mentions being able to modify your ship with Lifeweave, though this is not actually possible in game.
+-   Kaab mentions being able to modify your ship with Lifeweave, though this is not actually possible in game.

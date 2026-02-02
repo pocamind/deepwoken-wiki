@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 185516
+revid: 194964
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Head, Helmets]
@@ -26,7 +26,9 @@ categories: [Pages with broken file links, Equipment, Head, Helmets]
 
 ## Description
 
-The **Deepscorn Casque** is a Unique [Equipment](Equipment.md) Item found under the "Head" category. If you entered [The Understrand](The_Understrand.md) through [Silhuett](Silhuett.md)'s event, this item along with the [Deepspindle](Deepspindle.md) and [Darkened Bastion](Darkened_Bastion.md) will be guaranteed on the first clear.
+The **Deepscorn Casque** is a Unique [Equipment](Equipment.md) Item found under the "Head" category.
+
+If you entered [The Understrand](The_Understrand.md) through [Silhuett](Silhuett.md)'s event, this item along with the [Deepspindle](Deepspindle.md) and [Darkened Bastion](Darkened_Bastion.md) will be guaranteed on the first clear.
 
 Grants the user the "[Already Dead](Talents.md#already-dead)" Unique Equipment Talent, which reduces the self damage taken from certain abilities. These include: [Static Withdraw](Talents.md#static-withdraw)'s [Jumpstart](Talents.md#jumpstart) buff, [Flame Within](Talents.md#flame-within)'s self damage _on activation_, [Symbiotic Sustain](Oath%253A_Linkstrider.md)'s wither, [Shadow Travel](Talents.md#shadow-travel), [Shade Devour](Shadowcast.md#shade-devour), and [Rush Hour](Talents.md#rush-hour). Additionally this entirely removes the self damage taken by the [Deepspindle](Deepspindle.md) running critical.
 

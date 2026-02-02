@@ -1,11 +1,11 @@
 ---
 title: Nautilodaunt Officiate
-revid: 191567
+revid: 194944
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Monsters, The Depths]
+categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+  - This page is currently being worked on. Gifs needed for Attacks
 ---
 
 # Nautilodaunt Officiate
@@ -73,6 +73,22 @@ They have the body shape and fighting style of a [Nautilodaunt](Nautilodaunt.md)
 (★★★)
 
  | Starts similarly to **Flip Kick**, but is instead done in place and the Nautilodaunt Officiate jumps much higher, as well as being only dodgeable.
+
+ | 
+
+ |
+| 
+
+**Drop-Kick**  
+(★★★)
+
+ | Nautilodaunt Officiate initiates a full sprint before committing to a drop kick on its prey.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#cyan)
+
+Parry
 
  | 
 

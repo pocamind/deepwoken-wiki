@@ -1,6 +1,6 @@
 ---
 title: Journeyman Diver Guard
-revid: 176692
+revid: 194992
 source: https://deepwoken.fandom.com/wiki/Journeyman_Diver_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, The Divers, Diver Enemies, Ambush Enemies]
@@ -25,7 +25,7 @@ A Journeyman Diver Guard's appearance only consists of a [Diver Journeyman Robes
 
 ## Moveset
 
-A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md), and [Flamecharm](Flamecharm.md) Attunements:
+A Journeymen Diver's arsenal consists of either a [Acheron's Warspear](<Acheron's_Warspear.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Crescent Cleaver](Crescent_Cleaver.md) or [Tanto](Tanto.md) along with the [Thundercall](Thundercall.md), [Galebreathe](Galebreathe.md), [Frostdraw](Frostdraw.md), [Shadowcast](Shadowcast.md), and [Flamecharm](Flamecharm.md) attunements:
 
 | Name/Danger | Description |
 | --- | --- |
@@ -151,10 +151,9 @@ A Journeyman Diver executes it's opponent after knocking them:
 
 ## Tips
 
--   Don't try to fight them in any circumstances. They will jump you, and they have little to no cooldown on mantras.
+-   Don't try to fight them in any circumstances. They will jump you, and they have little to no cooldown on Mantras.
 -   Look at their enchant before attempting to engage in a fight with them, as if you lack necessary Talents such as Carnivore or a form of Campfire in the depths, enchants such as Gluttony and Bloodthirsty may lead to an untimely end.
 
 ## Trivia
 
 -   They were originally [Black Divers](<Black_Diver_(NPC).md>), but were changed to Journeyman Divers due to their presence contradicting the established low number and high power level of actual Black Divers.
--   Ironically, despite not being related to the [Ministry](The_Ministry.md), they can use [Shadowcast](Shadowcast.md).

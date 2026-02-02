@@ -1,6 +1,6 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 192534
+revid: 194981
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]
@@ -8,7 +8,7 @@ categories: [Drowned Gods]
 
 # Ethiron, The Maelstrom's Eye
 
-_Not to be confused with the [Scion of Ethiron](Scion_of_Ethiron.md), the boss of Layer 2, Floor 2._
+_This is the Drowned God. For the boss of Floor 2 of the Second Layer, see [Scion of Ethiron](Scion_of_Ethiron.md)._
 
 “ YOU HAVE DONE US A GREAT SERVICE LITTLE GODSEEKER. YOUR SCREAMS WILL ECHO ACROSS EONS. AN ETERNITY OF SUFFERING AWAITS YOU IN THE AGONY OF THE GALE. ”
 

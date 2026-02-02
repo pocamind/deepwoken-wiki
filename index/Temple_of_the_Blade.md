@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 181417
+revid: 195013
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -113,7 +113,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## Trivia/Notes
+## Trivia
 
 -   The music for this area is [Dancing Steps Of War](Deepwoken_OST.md#dancing-steps-of-war) by Naktigonis
 -   Before doing the "The Librarian" Quest, heading towards the Abandoned Lodge in Etris, Khan and the Sentinel are not present. Until the quest has started, they will appear in the Lodge.
