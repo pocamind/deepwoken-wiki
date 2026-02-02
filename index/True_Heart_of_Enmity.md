@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 194857
+revid: 195026
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -208,7 +208,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <ul>
     <li><b>Relic Weapons</b>: <a href="Sanguine_Transfuser.md">Sanguine Transfuser</a></li>
     <li><b>Unique Weapons</b>: <a href="Chorus_of_Agonies.md"><font>Chorus of Agonies</font></a></li>
-    <li><b>Legendary Weapons</b>: <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a>, <a href="Eye_of_Malice.md"><font>Eye of Malice</font></a>, <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Guiding_Star.md"><font>Guiding Star</font></a>, <a href="Hailbreaker.md"><font>Hailbreaker</font></a>, <a href="Hero_Blades.md"><font>Hero Blades</font></a> (all of them), <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Red_Death.md"><font>Red Death</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Boltcrusher.md"><font>Boltcrusher</font></a>, <a href="Crypt_Blade.md"><font>Crypt Blade</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a>, <a href="Deepspindle.md"><font>Deepspindle</font></a>, <a href="Eye_of_Malice.md"><font>Eye of Malice</font></a>, <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Guiding_Star.md"><font>Guiding Star</font></a>, <a href="Hailbreaker.md"><font>Hailbreaker</font></a>, <a href="Hero_Blades.md"><font>Hero Blades</font></a> (all of them), <a href="Ignition_Deepcrusher.md"><font>Ignition Deepcrusher</font></a>, <a href="Red_Death.md"><font>Red Death</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Stormseye.md"><font>Stormseye</font></a>, <a href="Weal_and_Woe.md"><font>Weal and Woe</font></a></li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Whaling_Knife.md">Alloyed Whaling Knife</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
     <li><b>Generic Weapons</b>:
   <ol>

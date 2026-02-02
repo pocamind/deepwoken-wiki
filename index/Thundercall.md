@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 194511
+revid: 195024
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1098,6 +1098,13 @@ Surge Overload deals 2.5 damage with 5 Thundercall scaling per Surge stack and h
 Works on Surge stacks that weren't applied by you. Does not work on Surge stacks applied to yourself. |
 
 ## Trivia
+
+-   Thundercall have the most color variants in the game, including :
+    -   Base Thundercall's Yellow,
+    -   Ferryman's Purple,
+    -   Surge Path's Blurple,
+    -   Theros' White and,
+    -   Wave 0 Blue.
 
 -   All Thundercall damage receives a 5% damage buff when it is [raining](Environmental_Hazards.md). Stratoshock further increases this damage buff to 10%.
 -   **Electro Carve** was formerly a 0-star mantra.

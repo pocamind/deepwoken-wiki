@@ -1,9 +1,9 @@
 ---
 title: Rite of Authority
-revid: 189469
+revid: 195020
 source: https://deepwoken.fandom.com/wiki/Rite_of_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, "Attunement-based Weapons", Weapons of The Central Authority, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals]
 ---
 
 # Rite of Authority
@@ -48,6 +48,8 @@ If the first hit is blocked, it will deal 3 posture damage and won't progress to
 This critical will turn blue if the user has [Surge: Unstable Capacitor](Talents.md#unstable-capacitor) with the shock being replaced with Surge Rods.
 
 The critical has a cooldown of **6 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Timeline
-revid: 194493
+revid: 195025
 source: https://deepwoken.fandom.com/wiki/Timeline
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages]
@@ -55,9 +55,9 @@ It is believed that, despite how it seems the four primary Attunements were crea
 
 An event that happened near the end of The Canticlysm and continued a few years afterwards, it was called the first Great Drowning. Its cause was the Drowned Gods, who were almost woken up by the overuse of The Song. They exerted their power over Lumen, corrupting the Sea. This caused immense destruction, dividing the world into the 5 Luminants. Alongside this, they caused the Voidfog to be drawn to the Sea, merging them into the Voidsea. Raging on, it led to the formation of [the Ministry](The_Ministry.md). The tides ended with the Great Drowning of Celtor, in which the Celtorian Horror dragged The City of Celtor underwater and into the first layer of [The Depths](The_Depths.md) - [Scyphozia](First_Layer.md). It caused [The Moonseye](Moonseye.md), a symbol of the afterlife, to be replaced with the Depths; When you die, rather than ascending, you now [drown](Death.md), taken into the depths. Escape is only possible through the [Depths trial](First_Layer.md#escaping-first-layer) or by making [a wish](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), but doing so will pull you back in eventually due to the pull on your soul, but certain rituals can negate this effect.
 
-## New World
+## The Resurgence/The New World
 
-The current world of deepwoken, having come about as a result of the tides. Referred to as a dying world by the description of the game itself, the voidsea slowly closing in on the world.
+The Resurgence is the period of time we're currently in. It is when mankind started to adapt to the calamities brought by the Tides. It's said to have started sometime in the fifth century BCE. It's referred to as a dying world by the game's description.
 
 ## Footnotes
 
