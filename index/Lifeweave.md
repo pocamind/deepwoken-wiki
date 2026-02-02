@@ -1,6 +1,6 @@
 ---
 title: Lifeweave
-revid: 180322
+revid: 195015
 source: https://deepwoken.fandom.com/wiki/Lifeweave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Stub pages without reason, StubPages, Attunement]
@@ -11,4 +11,4 @@ notices:
 
 # Lifeweave
 
-
+lifeweave

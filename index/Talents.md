@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 194579
+revid: 195017
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -352,7 +352,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _Carnivore_ \[Rare Talent, Strength, Willpower\] - In return for losing the ability to eat vegetation, satiate your hunger by gripping monsters and people alike.
     -   Gain hunger and thirst upon executing an monster, NPC or player. (Scales off the strength of the target)
-    -   Obtaining the "Vegetarian" flaw from Shrine of Blasphemy will remove the talent, providing a free talent hand on rejoin/next power.
     -   Does not work on certain mobs, such as "Enmity Enforcers", or "Lightning Clones".
     -   Works on [Ferryman](The_Ferryman.md)'s lightning clones.
     -   Prerequisites: 5 Strength, 5 Willpower
