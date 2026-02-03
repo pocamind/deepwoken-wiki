@@ -1,9 +1,9 @@
 ---
 title: Ignition Union Arcwarder
-revid: 176712
+revid: 195050
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths, The Ignition Union, Ignition Union Enemies]
+categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Ignition Union Enemies]
 ---
 
 # Ignition Union Arcwarder
@@ -110,9 +110,9 @@ An Ignition Union Arcwarder's arsenal consists of a [Railblade](Railblade.md), a
 ## Trivia
 
 -   Their Arc Suit eventually deactivates, which reveals them wearing the [Ignition Union Uniform](Ignition_Union_Uniform.md).
--   For some really bizarre reason, they could wield **enchanted** [Railblades](Railblade.md) when Railblades were still Legendary weapons, which wasn't possible for players during that time.[\[1\]](#cite-note-1)
--   They will ambush you along with a [Mechalodaunt](Megalodaunt.md).
--   Despite the [Arcwarder Oath](Oath%253A_Arcwarder.md) being given to Deepdelvers and people who have gained the Union's trust. The Ignition Union Arcwarders wear the [Ignition Union Uniform](Ignition_Union_Uniform.md).
+-   They could wield **enchanted** [Railblades](Railblade.md) when Railblades were still Legendary weapons, which wasn't possible for players during that time.[\[1\]](#cite-note-1)
+-   They will ambush you along with a [Mechalodaunt](Mechalodaunt.md).
+-   Despite the [Arcwarder Oath](Oath%253A_Arcwarder.md) being given to Deepdelvers and people who have gained the Union's trust, the Ignition Union Arcwarders wear the [Ignition Union Uniform](Ignition_Union_Uniform.md).
 
 An Ignition Union Arcwarder at Lower Erisia.
 

@@ -1,6 +1,6 @@
 ---
 title: "Diver's Ring"
-revid: 178640
+revid: 195038
 source: https://deepwoken.fandom.com/wiki/Diver's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, The Divers]

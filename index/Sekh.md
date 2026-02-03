@@ -1,6 +1,6 @@
 ---
 title: Sekh
-revid: 191619
+revid: 195046
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
@@ -25,9 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-A [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) found in the settlement on [Meteor Isle](Meteor_Isle.md), posted there to get a lay of the land. He also talks about his relationship with [Eres](Eres.md), an [Etrean](Etrean.md) previously part of an [Etrean Navy](Etrean_Soldier.md) unit who also resides on Meteor Isle.
+Sekh is [Vesperian](Vesperian.md) NPC. He is a [Hive Scout](Hive_Scout.md) found in the settlement on [Meteor Isle](Meteor_Isle.md), posted there to get a lay of the land.
 
-His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) and its conflicts, mainly involving [The Hive](The_Hive.md), [The Central Authority](The_Central_Authority.md), [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md). As well as the inhabitants of Meteor Isle, especially Eres, whom he speaks fondly of.
+His dialogue gives insight to the region of [The Aratel Sea](The_Aratel_Sea.md) and its conflicts, mainly involving [The Hive](The_Hive.md), [The Central Authority](The_Central_Authority.md), [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md), as well as the inhabitants of Meteor Isle, especially Eres, whom he speaks fondly of.
 
 ## Dialogue
 

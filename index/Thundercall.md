@@ -1,6 +1,6 @@
 ---
 title: Thundercall
-revid: 195024
+revid: 195029
 source: https://deepwoken.fandom.com/wiki/Thundercall
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1099,19 +1099,13 @@ Works on Surge stacks that weren't applied by you. Does not work on Surge stacks
 
 ## Trivia
 
--   Thundercall have the most color variants in the game, including :
-    -   Base Thundercall's Yellow,
-    -   Ferryman's Purple,
-    -   Surge Path's Blurple,
-    -   Theros' White and,
-    -   Wave 0 Blue.
-
 -   All Thundercall damage receives a 5% damage buff when it is [raining](Environmental_Hazards.md). Stratoshock further increases this damage buff to 10%.
+-   Out of all Attunements, Thundercall has the most color variants (5).
+    -   This includes: default Thundercall's yellow, Surge Path's blurple, [Theros Disciple](Theros_Disciple.md)'s white, Specialist Set's green, and [the Ferryman](The_Ferryman.md)'s pink.
 -   **Electro Carve** was formerly a 0-star mantra.
 -   **Lightning Strike** prints out the coordinates of where the strike was in the F9 log. This means that you can use **Lightning Strike** as a makeshift or bootleg compass.
--   **Bolt Piercer** was formerly a legendary mantra, now either rare or common.
+-   **Bolt Piercer** was formerly a "legendary" Mantra, being much rarer than it is now.
 -   **Lightning Cloak** used to be named **Vanishing Cloak**.[\[1\]](#cite-note-1)
--   The "Static Fakeout" Talent can be used with Spine Cutter.
 -   In the book Our Fortress, Vincent Zeneke notes that the Thundercaller's use of the Canjolin instrument spawned a method of overdrive.
     -   Linking music theory, the use of overdrive is made to alter the sound of an electrical instrument.
         
