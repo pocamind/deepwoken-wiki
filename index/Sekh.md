@@ -1,9 +1,9 @@
 ---
 title: Sekh
-revid: 195046
+revid: 195070
 source: https://deepwoken.fandom.com/wiki/Sekh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
+categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, The Hive, NPCs located in the Eastern Luminant]
 ---
 
 # Sekh
@@ -12,6 +12,7 @@ categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, The Hive, NPCs located 
 |---|---|
 | name | Sekh |
 | aspect | Vesperian |
+| pronouns | He/him |
 | location | Meteor Isle |
 | affiliation | The Hive |
 

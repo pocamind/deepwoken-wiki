@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 189156
+revid: 195075
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -17,9 +17,6 @@ categories: [Oaths]
 
 ― Glyphs found in the Temple of the Forgotten Flame
 
-  
-_If you're looking for a [Memento](Mementos.md) of a similar name, see [Sightless](Sightless.md)_
-
 ## Description
 
 **[Oath](Oaths.md): Blindseer** is one of the 17 obtainable Oaths in _Deepwoken._ The Oath is based around utility and uses sanity as its resource. It can serve many useful and potentially life-saving purposes in combat and in [The Depths](The_Depths.md). It is the opposing Oath to [Visionshaper](Oath%253A_Visionshaper.md).
@@ -35,11 +32,7 @@ Blindseer glyphs at Temple of the Forgotten Flame
 -   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 -   Above Path's Respite lies the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
-    -   Watch out for the [Watcher](Watcher.md) guarding the temple, as they will spawn a [Hollow Angel](Hollow_Angel.md) if they catch sight of you
--   Another location is at the [Lightkeeper Temple](Lightkeeper_Temple.md), Inside of the room with a [King Thresher](King_Thresher.md).
-
-Once inside the temple, proceed through a passage on the left.
-
+    -   Watch out for the [Watcher](Watcher.md) guarding the temple, as they will spawn a [Hollow Angel](Hollow_Angel.md) if they catch sight of you. Once inside the temple, proceed through a passage on the left.
 -   Inside the room, interact with the [Blindseer Glyph](<%253F%253F%253F_(Blindseer_Glyphs).md>) while blind (either from the flaw or from a [Blindfold](Blindfold.md))
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/F7yoFW0rlME)._

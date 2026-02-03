@@ -1,6 +1,6 @@
 ---
 title: Vigil Hood
-revid: 176602
+revid: 195090
 source: https://deepwoken.fandom.com/wiki/Vigil_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Hoods, Etrea]
@@ -26,7 +26,7 @@ categories: [Equipment, Head, Hoods, Etrea]
 
 ## Description
 
-The Vigil Hood is an Equipment item under the "_Head_" category.
+The Vigil Hood is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

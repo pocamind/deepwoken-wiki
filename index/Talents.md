@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195021
+revid: 195087
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1640,8 +1640,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   For [Rifle Spear](Rifle_Spear.md), this will only proc on critical, due to Rifle Spear being a slash based weapon.
         -   For [Stormseye](Stormseye.md) and [Rosen's Hellflame](<Rosen's_Hellflame.md>), they will only circumstantially benefit from Armor Piercing, because of their elemental damage.
             -   In some circumstances, Armor Piercing may give your opponent higher weighting on their elemental resistances by lowering their blunt resistance, causing them to resist your damage based on their elemental resistance instead. Alternatively, if they have higher elemental resistance than blunt resistance, Armor Piercing will do nothing at all.
-    -   Prerequisites: 30 Medium/Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
-        -   The "[Summer Company Uniform](Summer_Company_Uniform.md)" outfit has this Talent.
+    -   Prerequisites: 30 Medium Weapon // 30 Light Weapon and have completed the [Trig quest](Summer_Isle.md#trig-quest) (helping The Summer Company)
+    -   The [Summer Company Uniform](Summer_Company_Uniform.md) Outfit has this Talent.
 
 -   Bulletproof \[Common Talent, Fortitude, Medium Weapon, Light Weapon\] - You take no Armor damage from guns. You take 5% less Armor damage from other sources.
     -   This has no effect on your natural armor.
@@ -2781,6 +2781,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 70 Strength
 
 -   _**Piercing Blow**_ \[Advanced Talent, Strength\] - Attacks that break an opponent's block ignore their Armor resistances.
+    -   This Talent is currently bugged and does not work if you have less than 100 Strength.
     -   Prerequisite: 100 Strength
 
 ### Rampaging Brute

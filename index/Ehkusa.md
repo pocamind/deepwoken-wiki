@@ -1,6 +1,6 @@
 ---
 title: Ehkusa
-revid: 194913
+revid: 195081
 source: https://deepwoken.fandom.com/wiki/Ehkusa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Characters mentioned in books, The Hive]
@@ -30,5 +30,6 @@ She also has a deceased friend, [Ryrda](Ryrda.md), a part of who's mask she alwa
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-lament-1-0) [1.1](#cite-ref-lament-1-1) [1.2](#cite-ref-lament-1-2) [1.3](#cite-ref-lament-1-3) [1.4](#cite-ref-lament-1-4) [1.5](#cite-ref-lament-1-5) [Lament of Cirryn](Lament_of_Cirryn.md)
-2.  [↑](#cite-ref-2) [God in the Machine](God_in_the_Machine.md)
+1.  ↑ [1.0](#cite-ref-lament-1-0) [1.1](#cite-ref-lament-1-1) [1.2](#cite-ref-lament-1-2) [1.3](#cite-ref-lament-1-3) [1.4](#cite-ref-lament-1-4) [1.5](#cite-ref-lament-1-5) [Book](Books.md): [Lament of Cirryn](Lament_of_Cirryn.md)  
+    
+2.  [↑](#cite-ref-2) [Book](Books.md): [God in the Machine](God_in_the_Machine.md)

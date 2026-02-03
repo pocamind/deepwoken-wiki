@@ -1,6 +1,6 @@
 ---
 title: "Nell, Master of Frost"
-revid: 191569
+revid: 195067
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant, Individuals with They/them pronouns]
@@ -152,9 +152,9 @@ Nell's arsenal consists of a [Gran Sudaruska](Gran_Sudaruska.md) along with the 
 -   _Orbital Ice_ - Whenever Nell parries while standing on ice, they gain breakable armor that gives 15% damage resistance.
 -   _Bottom Freeze_ - If Nell hits a Chilled enemy with projectile while they are on ice, Freeze them to the ground.
 
-### Finisher
+## Finisher
 
-Nell executes theiropponent after knocking them:
+Nell executes their opponent after knocking them:
 
 | Name | Description |
 | --- | --- |

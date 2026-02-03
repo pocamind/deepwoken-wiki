@@ -1,9 +1,9 @@
 ---
 title: Knife of Eylis
-revid: 195004
+revid: 195059
 source: https://deepwoken.fandom.com/wiki/Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, The Knives of Eylis, The Knives of Eylis Enemies]
+categories: [Enemies, Knives of Eylis Enemies]
 ---
 
 # Knife of Eylis
@@ -64,7 +64,7 @@ A Knife of Eylis' arsenal only consists of a [Whaling Knife](Whaling_Knife.md):
 
  |
 
-## Talents
+### Talents
 
 -   Knife's Journey - Cancelling an enemy's Mantra windup with your basic attacks now deals 15% more damage
 -   Decisive Blow - Hitting an enemy with your Critical Attack immediately after they dodge now procs Knife's Journey. Your Knife's Journey procs do 2x Armor damage

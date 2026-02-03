@@ -1,6 +1,6 @@
 ---
 title: Mote
-revid: 194889
+revid: 195079
 source: https://deepwoken.fandom.com/wiki/Mote
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the First Layer, The Divers, Individuals with unspecified pronouns]
@@ -23,7 +23,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Mote is a [Canor](Canor.md) NPC. They can be found praying in front of a tombstone in the cemetery that was built to the left on the outskirts of [Castle Light](Castle_Light.md), mourning their fallen fellow Divers.
+Mote is a [Canor](Canor.md) NPC. They are a Diver.
+
+They can be found praying in front of a tombstone in the cemetery that was built to the left on the outskirts of the Castle Light, mourning their fallen fellow Divers.
 
 ## Dialogue
 

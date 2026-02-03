@@ -1,9 +1,9 @@
 ---
 title: Saramaed Summit
-revid: 191148
+revid: 195084
 source: https://deepwoken.fandom.com/wiki/Saramaed_Summit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Locations, Voidzones, The Ignition Union, Locations in the Eastern Luminant]
+categories: [Pathfinder Exclusive, Locations, Voidzones, Locations in the Eastern Luminant]
 ---
 
 # Saramaed Summit
@@ -74,7 +74,7 @@ Saramaed Summit is a **Voidzone**, meaning you will directly be sent to [The Dep
 </tbody>
 </table>
 
-## Notes & Trivia
+## Trivia
 
 -   This area has multiple Union Hooks to be used as shortcuts.
 -   You cannot heal in this area with Campfires.

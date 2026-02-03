@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 195050
+revid: 195052
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Ignition Union Enemies]
@@ -17,7 +17,7 @@ categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemi
 
 ## Description
 
-**Ignition Union Arcwarders** are **[Ambush Enemies](https://deepwoken.fandom.com/wiki/Category:Ambush_Enemies)** tied to the [Ignition Union](The_Ignition_Union.md), and wield the [Arcwarder Oath](Oath%253A_Arcwarder.md). They will start hunting down the player if their reputation is very low with the Union. They are highly dangerous NPCs and can easily kill any inexperienced player.
+**Ignition Union Arcwarders** are **Ambush Enemies** tied to [the Ignition Union](The_Ignition_Union.md), and wield the [Arcwarder Oath](Oath%253A_Arcwarder.md). They will start hunting down the player if their reputation is very low with the Union. They are highly dangerous NPCs and can easily kill any inexperienced player.
 
 ## Moveset
 

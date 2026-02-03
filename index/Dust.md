@@ -1,6 +1,6 @@
 ---
 title: Dust
-revid: 191409
+revid: 195080
 source: https://deepwoken.fandom.com/wiki/Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Individuals with unspecified pronouns]
@@ -21,7 +21,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Dust is a [Celtor](Celtor.md) NPC who is one of the [Diver's Apprentices](Apprentice_Diver.md), you can find them praying in front of a tombstone in the cemetery that was built to the left on the outskirts of the Castle Light, mourning their fallen fellow Divers.
+Dust is a [Celtor](Celtor.md) NPC. They are a Diver.
+
+They can be found praying in front of a tombstone in the cemetery that was built to the left on the outskirts of the Castle Light, mourning their fallen fellow Divers.
 
 ## Location
 

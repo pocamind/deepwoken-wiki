@@ -1,6 +1,6 @@
 ---
 title: Ilji
-revid: 170333
+revid: 195074
 source: https://deepwoken.fandom.com/wiki/Ilji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Quests]
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Ilji is [Nanji](Nanji.md)'s little brother, and they're eachother's closest rivals in the way of the sword. He left [Etris](Etris.md) to become a traveller at the same time as Nanji, though, he seemed to have died or gone missing along the way. This is evidenced by the fact that the sword that we find is now rusty and chipped. As Nanji said herself, paraphrasing, "He would never allow himself to be separated from his sword." His [Chipped Sword](Chipped_Sword.md) also has some blood on it, signifying that something bad has happened.
+Ilji is [Nanji](Nanji.md)'s younger brother, and they're eachother's closest rivals in the way of the sword. He left [Etris](Etris.md) to become a traveller at the same time as Nanji, though, he seemed to have died or gone missing along the way. This is evidenced by the fact that the sword that we find is now rusty and chipped. As Nanji said herself, paraphrasing, "He would never allow himself to be separated from his sword." His [Chipped Sword](Chipped_Sword.md) also has some blood on it, signifying that something bad has happened.
 
 He is mentioned in the [Chipped Sword](Chipped_Sword.md) quest, and by his older sister, [Nanji](Nanji.md). The quest details can be found at [Nanji's page](Nanji.md).
 

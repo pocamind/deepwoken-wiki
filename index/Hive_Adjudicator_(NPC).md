@@ -1,9 +1,9 @@
 ---
 title: Hive Adjudicator (NPC)
-revid: 176664
+revid: 195082
 source: https://deepwoken.fandom.com/wiki/Hive_Adjudicator_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments, The Hive, Hive Enemies, Ambush Enemies]
+categories: [Enemies, Enemies that can wield Enchantments, Hive Enemies, Ambush Enemies]
 ---
 
 # Hive Adjudicator (NPC)
@@ -110,4 +110,4 @@ Pins down opponent while raising weapon before firmly bashing the opponent's fac
 ## Trivia
 
 -   They can spawn inside Greathive Aratel if someone with a low enough rep enters the territory
--   Despite The Hive being enemies with Etrea, they ironically use the Katana which is one of the weapons from Etrean make.
+-   Despite The Hive being enemies with Etrea, they ironically use the Katana which is one of the weapons of Etrean make.
