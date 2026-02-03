@@ -1,9 +1,9 @@
 ---
 title: Avenger
-revid: 193485
+revid: 195129
 source: https://deepwoken.fandom.com/wiki/Avenger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
+categories: [Pathfinder Exclusive, Weapons, Greatswords, Echoes, Heavy Weapons]
 ---
 
 # Avenger
@@ -34,6 +34,10 @@ categories: [Weapons, Greatswords, Echoes, Heavy Weapons]
 | pass down | Yes |
 | obtainment | Starter Weapon: Greatsword Echo Unlock |
 | description | A greatsword passed down by your ancestors. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

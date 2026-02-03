@@ -1,6 +1,6 @@
 ---
 title: Quickfang
-revid: 182766
+revid: 195128
 source: https://deepwoken.fandom.com/wiki/Quickfang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Echoes]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starter Weapon: Rapier Echo Unlock |
+| obtainment | Starter Weapon: Rapier Echo UnlockVow of Iron:, Ether Erudite Memento |
 | description | A rapier passed down by your ancestors. |
 
 ## Description

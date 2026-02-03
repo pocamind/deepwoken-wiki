@@ -1,9 +1,9 @@
 ---
 title: Irontusk
-revid: 182762
+revid: 195130
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Echoes]
+categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Echoes]
 ---
 
 # Irontusk
@@ -34,6 +34,10 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | pass down | Yes |
 | obtainment | Starter Weapon: Spear Echo Unlock |
 | description | A spear passed down by your ancestors. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

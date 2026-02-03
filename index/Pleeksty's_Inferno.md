@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 194246
+revid: 195102
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals]
@@ -40,9 +40,11 @@ The **Pleeksty's Inferno** is a legendary Club; a knapped obsidian macuahuitl cr
 
 It is not able to be banked and is not droppable, being permanently bound to the slot you fought [Aska](Aska.md) with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
 
-Pleeksty's Inferno will apply burn on hit if you are wearing the [Simmerbloom Diadem](Simmerbloom_Diadem.md).
+This weapon comes with the following passive:
 
-In Pathfinder, the Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
+-   **Simmerbloom Synergy** - Pleeksty's Inferno will apply burn on hit if you are wearing the [Simmerbloom Diadem](Simmerbloom_Diadem.md).
+
+In [Pathfinder](Pathfinder.md), the Pleeksty's Inferno can be obtained from the [Second Layer](Second_Layer.md) of [The Depths](The_Depths.md):
 
 1.  Have **75** Flamecharm and enter the [Second Layer](Second_Layer/The_Ethironal_Shrine.md) without a Light Hook.
 2.  Fulfill one of the following criteria. Keep in mind you only need **one** of these three criterias to get confirmation to fight [Aska](Aska.md). For example, having Pleetsky's Will allows fighting Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.

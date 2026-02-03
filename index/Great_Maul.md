@@ -1,6 +1,6 @@
 ---
 title: Great Maul
-revid: 184371
+revid: 195140
 source: https://deepwoken.fandom.com/wiki/Great_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Greathammers, "Weapons with Multi-Hit Criticals", Weapons 
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Dropped directly from the Rock Golem, Merchant Ships |
+| obtainment | Dropped directly from the Rock Golem, Merchant ShipsVow of Iron:, Saint Jay Memento |
 | description | ... |
 
 ## Description

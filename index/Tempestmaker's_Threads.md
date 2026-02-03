@@ -1,6 +1,6 @@
 ---
 title: "Tempestmaker's Threads"
-revid: 194651
+revid: 195157
 source: https://deepwoken.fandom.com/wiki/Tempestmaker's_Threads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -21,7 +21,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | resistances | +25% Physical Armor, +25% Wind Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |
 | talents | Tempest Evolution, Aerogliding |
-| obtainment | Carnival of HeartsVow of Iron:, Inheritor of the Gale Memento |
+| obtainment | Carnival of HeartsVow of Iron:, Inheritor of the Gale Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

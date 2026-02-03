@@ -1,6 +1,6 @@
 ---
 title: "Titus's Raiment"
-revid: 194715
+revid: 195164
 source: https://deepwoken.fandom.com/wiki/Titus's_Raiment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -20,7 +20,7 @@ categories: [Outfits, Master Outfits]
 | resistances | +10% Lightning Armor, +10% Wind Armor, +30% Physical Armor, +35% Elemental Armor |
 | buffs | +30% Ether Regen |
 | talents | Overwhelming Might |
-| obtainment | Titus Fulminus DestellusVow of Iron:, Theros Disciple Memento |
+| obtainment | Titus Fulminus DestellusVow of Iron:, Theros Disciple Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

@@ -1,6 +1,6 @@
 ---
 title: Battleaxe
-revid: 194468
+revid: 195133
 source: https://deepwoken.fandom.com/wiki/Battleaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Greataxes, Heavy Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Character Creation, Erisia, Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 20 (Authority Ensign exclusive) |
+| obtainment | Character Creation, Erisia, Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Sold at Fort Merit Armory for 20 (Authority Ensign exclusive)Vow of Iron:, Berserker Memento |
 | description | A sturdy axe perfect for splitting bone. |
 
 ## Description
@@ -47,4 +47,3 @@ Battleaxe uses the default Greataxe critical, an overhead swing. It has a scaled
 
 -   At max HVY, the damage is (27.5)
 -   The Battleaxe is considered to be very weak, as its damage is only slightly higher than the regular starter sword.
-    -   It is prone to being given [Providence's Thorns](<Providence's_Thorns.md>) with [Enchant Stones](Enchant_Stone.md), though, as it has good base damage for Providence's Thorns and has no requirement.

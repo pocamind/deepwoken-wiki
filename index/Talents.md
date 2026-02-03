@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195087
+revid: 195106
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -693,7 +693,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisite: 40 Bloodrend
 
 -   Sheltering Grasp \[Common Talent, Bloodrend\] - Blood mantras cast within blood pools have a reduced blood cost.
-    -   50% less blood will be used to cast the mantra
+    -   Halves the blood cost.
     -   Prerequisite: 30 Bloodrend
 
 ### Bloodsong
@@ -915,7 +915,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Freezing Wight \[Common Talent, Dual Attunement, Frostdraw, Galebreathe\] - Your Haunted Gale now procs Chilled.
     -   Applies 7 seconds of chill or 1 Crystal.
     -   Also works with Specter Path's Apparitions.
-    -   Changes the damage type of Haunted Gale Ghosts/Specter Apparitions from pure Galebreathe to Galebreathe & Frostdraw, making them easier to resist and allowing them to proc things that require the Frostdraw damage type (e.g. [Flashboil](https://deepwoken.fandom.com/wiki/Talents#Vaporborne)).
+    -   Changes the damage type of Haunted Gale Ghosts/Specter Apparitions from pure Galebreathe to Galebreathe & Frostdraw, making them easier to resist and allowing them to proc things that require the Frostdraw damage type (e.g. Flashboil).
     -   Prerequisites: Haunted Gale, 40 Frostdraw
 
 ### Colossus
@@ -1400,20 +1400,20 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Flame Warden
 
--   Cauterized Wounds \[Common Talent, Flamecharm, Fortitude\] - Blood loss from all sources is lowered. (+1 Passive Agility)
+-   Cauterized Wounds \[Common Talent, Fortitude, Flamecharm\] - Blood loss from all sources is lowered. (+1 Passive Agility)
     -   Despite what the description states, this Talent only affects blood loss from directly taking damage. Blood drain effects (e.g. casting or being hit by [Bloodrend](Bloodrend.md) Mantras, blood loss [Potions](Alchemy.md), the blood loss [Corrupt Resonance](Resonance.md) downside) are entirely unaffected by this Talent.
     -   Effectiveness of this Talent is reduced if you are using the [Curse of the No Life King](Curse_of_the_No_Life_King.md) enchantment.
     -   Stacks with Alloyblood.
     -   Prerequisites: 40 Flamecharm, 5 Fortitude
     -   The [Bloodforged Crown](Bloodforged_Crown.md) equipment has this Talent.
 
--   _Warding Radiance_ \[Rare Talent, Flamecharm, Agility\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
+-   _Warding Radiance_ \[Rare Talent, Agility, Flamecharm\] - Every fire mantra builds up one halo stack. At 3 stacks a halo appears that allows you to slide further. Hell's Partisan is also triggered passively while this is active. (+1 Passive Agility)
     -   Allows you to proc Hell's Partisan on Flamecharm Mantras that aren't [Fire Forge](Flamecharm.md#fire-forge) while you have the halo active.
     -   This can be easily procced by landing a multi-hit fire mantra.
     -   Doesn't have a cooldown, lasts for 60s, cannot be refreshed.
     -   Prerequisites: 20 Agility, 30 Flamecharm
 
--   Flamewalker \[Common Talent, Flamecharm, Agility\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
+-   Flamewalker \[Common Talent, Agility, Flamecharm\] - When Warding Radiance is active you leave trails of flame when you slide. (+1 Passive Agility)
     -   Prerequisites: 25 Agility, 40 Flamecharm, Warding Radiance
 
 -   Hell's Partisan \[Common Talent, Flamecharm\] - After landing a flame dagger on an opponent, your next hit against them will impale with a divine spear from above. (+4 Sanity)
@@ -1441,7 +1441,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Master Flamecharmer \[Mantra Level Talent, Flamecharm\] - You can now obtain 3-Star Leveled Flamecharmer Mantras. (+5 Health)
     -   Obtained at 50 Flamecharm
 
--   Azure Flames \[Common Talent, Flamecharm, Willpower\] - Many of your flames turn blue, signifying their increased intensity.
+-   Azure Flames \[Common Talent, Willpower, Flamecharm\] - Many of your flames turn blue, signifying their increased intensity.
     -   Increases burn damage by 12.5%.
     -   Increases the radius and posture damage of your Eruptions.
     -   Increases the uptime of your [Flame of Denial](Flamecharm.md#flame-of-denial) by 25%, from 25 seconds to 31.25.
@@ -1529,7 +1529,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   If you have the [Icebringer's Vestments](<Icebringer's_Vestments.md>) Outfit, you can bypass mutual exclusives and stack this with Fists of Fortitude.
     -   Prerequisite: 65 Frostdraw
 
--   Glacial Coasting \[Common Talent, Frostdraw, Agility\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
+-   Glacial Coasting \[Common Talent, Agility, Frostdraw\] - Sliding while Orbital Ice is active leaves trails of ice. (+1 Passive Agility)
     -   Prerequisites: Orbital Ice, 25 Agility, 50 Frostdraw
 
 ### Frozen Warrior
@@ -1879,10 +1879,10 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   The explosion does not work; you'll burn them to death without an explosion.
     -   Prerequisites: 60 Flamecharm, Agitating Spark
 
--   Pleeksty's Faith \[Common Talent, Flamecharm, Willpower, Charisma\] - When on fire, automatically quench flames at the cost of some ether.
+-   Pleeksty's Faith \[Common Talent, Willpower, Charisma, Flamecharm\] - When on fire, automatically quench flames at the cost of some ether.
     -   Does not proc with flames produced by the user with Flame Within or Agitating Spark.
-    -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
     -   Is also a requirement to fight [Aska](Aska.md) in Firfire. Without either this Talent, Pleeksty's Will, or the [Flame Worshipper Armor](Flame_Worshipper_Armor.md) you will wipe through his flames.
+    -   Prerequisites: 25 Flamecharm, 15 Willpower, 15 Charisma
 
 -   Simmerbloom \[Common Talent, Equipment Talent\] - Basic Attacks on [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) are now granted flames.
     -   [Pleeksty's Inferno](<Pleeksty's_Inferno.md>) Basic Attacks now apply burn/eruptions. This has no cooldown.
@@ -2064,11 +2064,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: [Caltrops](Ironsing.md#caltrops) (Mantra), 45 Ironsing
 
--   Metal Shackles \[Common Talent, Ironsing, Strength\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be [Sluggish](Status_Effects.md#sluggish) for 12 seconds.
+-   Metal Shackles \[Common Talent, Strength, Ironsing\] - Guardbreaking an opponent prevents them from receiving speed boost for 5 seconds, while PvE opponents will be [Sluggish](Status_Effects.md#sluggish) for 12 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: 40 Ironsing, 15 Strength
 
--   Oh The Irony \[Common Talent, Ironsing, Charisma\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
+-   Oh The Irony \[Common Talent, Charisma, Ironsing\] - Opponents affected by 'Taunt' receive double iron rods for the duration.
     -   Prerequisites: 60 Ironsing, 40 Charisma, [Taunt](Attunement-less.md#taunt) (Mantra)
 
 -   Piercing Metal \[Common Talent, Ironsing\] - Deal additional armor damage to enemies per metal rod affecting them.
@@ -2177,7 +2177,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Kickstarter
 
--   Kickstart \[Common Talent, Thundercall, Fortitude // Charisma\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
+-   Kickstart \[Common Talent, Fortitude // Charisma, Thundercall\] - Play the resurrector. Use your lightning to defibrillate your allies on the battlefield.
     -   Use kickstart on a knocked target to bring them back up in 3 seconds at the cost of some ether.
     -   Kickstart's animation takes 3 seconds to complete, and you cannot act during this animation.
     -   Despite the description stating "allies", this can be used on non-allies and even humanoid NPCs.
@@ -2256,16 +2256,16 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Legion Shock Trooper
 
--   Air Pressure \[Common Talent, Galebreathe, Agility\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
+-   Air Pressure \[Common Talent, Agility, Galebreathe\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
--   Cyclone Blade \[Common Talent, Galebreathe, Agility\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
+-   Cyclone Blade \[Common Talent, Agility, Galebreathe\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
     -   Does not have a cooldown, lasts for 3s.
     -   Also procs from Phantom Step dashes.
     -   Despite the Talent description stating "Light attack", it also grants its buffs to weapon criticals.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
--   Pressure Break \[Common Talent, Galebreathe, Strength // Agility\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)
+-   Pressure Break \[Common Talent, Strength // Agility, Galebreathe\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)
     -   Prerequisites: Air Pressure, 30 Strength // 30 Agility, 65 Galebreathe
 
 -   Wind Step \[Common Talent, Galebreathe\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
@@ -2733,7 +2733,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Pyromancer
 
--   Hungry Flames \[Common Talent, Flamecharm, Fortitude\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
+-   Hungry Flames \[Common Talent, Fortitude, Flamecharm\] - When you have no Ether, consume Stomach and Water to instantly cast your next fire mantra.
     -   15 second cooldown.
     -   Prerequisites: 30 Flamecharm, 15 Fortitude
 
@@ -3019,18 +3019,18 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Scarlet Donor
 
--   Blood Bank \[Common Talent, Bloodrend, Charisma\] - Consuming 'Charm' now gives slight temporary health.
+-   Blood Bank \[Common Talent, Charisma, Bloodrend\] - Consuming 'Charm' now gives slight temporary health.
     -   Procs when you proc Donation Drive or Manipulator.
     -   Grants 25 flat temporary health.
     -   Has an indirect 10 second cooldown due to it relying on Manipulator.
     -   Prerequisites: 80 Bloodrend, 40 Charisma, Manipulator
 
--   Donation Drive \[Common Talent, Bloodrend, Charisma\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
+-   Donation Drive \[Common Talent, Charisma, Bloodrend\] - Consuming 'Charm' on an opponent replenishes some blood. Additionally, you can also activate this effect and Manipulator through blockbreaking with a Bloodrend mantra.
     -   Donation Drive's cooldown scales on your Charisma investment, having an 8 second cooldown at 60 Charisma and gaining 0.1s for every point in Charisma below 60.
     -   Donation Drive has a 8.5 second cooldown at 55 Charisma, and a maximum cooldown of 10.5 seconds at 35 Charisma.
     -   Prerequisites: 50 Bloodrend, 55 Charisma, Manipulator
 
--   Sharing is Caring \[Common Talent, Bloodrend, Charisma\] - Your 'Charm' on opponents also slightly increases your blood drain against them.
+-   Sharing is Caring \[Common Talent, Charisma, Bloodrend\] - Your 'Charm' on opponents also slightly increases your blood drain against them.
     -   Prerequisites: 50 Bloodrend, 30 Charisma, Charismatic Cast
 
 ### Scholar of the Cloud
@@ -3095,13 +3095,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Has a 2 second cooldown between procs.
     -   Prerequisite: 85 Bloodrend
 
--   Hemolysis \[Common Talent, Bloodrend, Strength\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.
+-   Hemolysis \[Common Talent, Strength, Bloodrend\] - Deal 20% more critical attack damage to opponents with over 25% blood poisoning.
     -   Prerequisites: 40 Bloodrend, 25 Strength
 
 -   Hemolytic Transfusion \[Common Talent, Bloodrend\] - Guardbreaking an enemy with a Bloodrend mantra increases the amount of blood poison from the attack.
     -   Prerequisite: 65 Bloodrend
 
--   Juicy Snack \[Common Talent, Bloodrend, Fortitude\] - Eliminating enemies returns their amount of blood poison as health to you.
+-   Juicy Snack \[Common Talent, Fortitude, Bloodrend\] - Eliminating enemies returns their amount of blood poison as health to you.
     -   Prerequisites: 60 Bloodrend, 20 Fortitude
 
 -   _Panacea_ \[Rare Talent, Bloodrend\] - Hitting an enemy with a Bloodrend mantra stops their blood poison from decaying for 7 seconds.
@@ -3110,7 +3110,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Tainted Ground \[Common Talent, Bloodrend\] - Enemies who stand in blood pools do not decay blood poison and gain 15% more blood poisoning.
     -   Prerequisite: 30 Bloodrend
 
--   Vasculitis \[Common Talent, Bloodrend, Intelligence\] - Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you [Gem Enhancement](Status_Effects.md#gem-enhancement) against PvE temporarily.
+-   Vasculitis \[Common Talent, Intelligence, Bloodrend\] - Hitting your opponent while they have over 20% blood poisoning disables their deep gems for a brief duration while giving you [Gem Enhancement](Status_Effects.md#gem-enhancement) against PvE temporarily.
     -   On proc, your opponent will be unable to use their [Deep Gems](Deep_Gems.md) for 8 seconds.
     -   Gem Enhancement increases the effectiveness of your Deep Gems in PvE.
     -   Prerequisite: 40 Bloodrend, 35 Intelligence
@@ -3423,12 +3423,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Static Weaver
 
--   Static Link \[Common Talent, Thundercall, Intelligence\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy.
+-   Static Link \[Common Talent, Intelligence, Thundercall\] - Flourishing or uppercutting an enemy creates a static link between you and your enemy.
     -   Static Link lasts 15 seconds.
     -   The links are non-refreshable, meaning you'll need to wait until after the duration ends to reapply the status effect.
     -   Prerequisites: 40 Thundercall, 15 Intelligence
 
--   Jumper Cables \[Common Talent, Thundercall, Fortitude\] - Being made [Unconscious](Status_Effects.md#unconscious) with an active thether allows you to steal health from a tethered target and not be made [Unconscious.](Status_Effects.md#unconscious)
+-   Jumper Cables \[Common Talent, Fortitude, Thundercall\] - Being made [Unconscious](Status_Effects.md#unconscious) with an active thether allows you to steal health from a tethered target and not be made [Unconscious](Status_Effects.md#unconscious).
     -   Whenever you would get knocked but have a tether active, steal HP from the latest static linked target to survive the hit.
     -   Upon proccing, removes the static link entirely regardless of its duration.
     -   3–4 seconds cooldown between knock preventions.
@@ -3443,7 +3443,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Actually target the first active tether, not the closest.
     -   Prerequisites: [Lightning Stream](Thundercall.md#lightning-stream) (Mantra), Static Link, 70 Thundercall
 
--   Static Allure \[Common Talent, Thundercall, Intelligence\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
+-   Static Allure \[Common Talent, Intelligence, Thundercall\] - Having two active tethers will cause the previous tethered enemy to get magnetized to your newest tethered enemy, also increases the duration of tethers by 15 seconds.
     -   The magnetization instantly procs upon applying a second Static Link.
     -   The Static Link duration increase is only applied to the Static Link that procced the magnetization effect.
     -   Prerequisites: Static Link, 50 Thundercall, 15 Intelligence
@@ -3547,7 +3547,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Tamed Flame
 
--   Controlled Combustion \[Common Talent, Flamecharm, Charisma\] - Your Agitating Spark no longer spreads to your allies.
+-   Controlled Combustion \[Common Talent, Charisma, Flamecharm\] - Your Agitating Spark no longer spreads to your allies.
     -   Your Agitating Spark no longer spreads to yourself too.
     -   In some places, this Talent doesn't work well, spreading to your allies if they are too close to the target.
     -   Prerequisites: Agitating Spark, 40 Charisma
@@ -3668,7 +3668,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   When casting Lightning Impact, hover above the ground and fire 4 thunder projectiles. Afterward, you strike down normally.
     -   Prerequisite: [Lightning Impact](Thundercall.md#lightning-impact) (Mantra)
 
--   Windup Battery \[Common Talent, Thundercall, Intelligence\] - Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
+-   Windup Battery \[Common Talent, Intelligence, Thundercall\] - Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
     -   Applies this bonus to non-Thundercall Mantras.
     -   Requirement: 30 Thundercall, 30 Intelligence
     -   The old Jolt Cast Talent was reworked into this.
@@ -3682,7 +3682,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   This speed boost can proc speed boost Talents, like Speed Demon or Cheap Shot.
     -   Prerequisites: 40 Thundercall, 20 Medium Weapon, Medium Weapon equipped
 
--   Gathering Electricity \[Common Talent, Thundercall, Strength // Agility\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
+-   Gathering Electricity \[Common Talent, Strength // Agility, Thundercall\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
     -   Clears all Static Blade stacks on proc.
     -   You can still gain Static Blade stacks while Gathering Electricity is active.
     -   For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.
@@ -3724,10 +3724,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Shocking Finish \[Common Talent, Thundercall\] - Following a flourish up with a lightning beam causes it to be casted instantly.
     -   Prerequisite: [Lightning Beam](Thundercall.md#lightning-beam) (Mantra), 30 Thundercall
 
--   _Static Fakeout_ \[Rare Talent, Thundercall, Agility\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
+-   _Static Fakeout_ \[Rare Talent, Agility, Thundercall\] - Roll cancelling immediately after a parry will cause you to teleport behind your opponent.
     -   Prerequisites: 30 Agility, 35 Thundercall
 
--   Static Flash Clone \[Common Talent, Thundercall, Agility\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration.
+-   Static Flash Clone \[Common Talent, Agility, Thundercall\] - When using lightning clones you instead disappear leaving behind a static clone for a short duration.
     -   Prerequisites: [Lightning Clones](Thundercall.md#lightning-clones) (Mantra), 30 Agility, 35 Thundercall
 
 -   Stratoshock \[Common Talent, Thundercall\] - Your lightning deals an additional +5% damage when in the rain.
@@ -3810,7 +3810,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Spine Cutter, 75 Medium Weapon, Twinblade equipped.
 
 -   _Turning of the Wheel_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - After perfect dodging a swing or critical attack, step backwards and ramp up your swingspeed.
-    -   This Talent is currently bugged and does not increase your swingspeed on proc.
     -   Prerequisites: 75 Medium Weapon, Twinblade equipped.
 
 ### Twisted Puppets
@@ -3973,7 +3972,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Works with M1s and criticals.
     -   Prerequisite: 25 Agility
 
--   Spinning Swordsman \[Common Talent\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
+-   Spinning Swordsman \[Common Talent, Agility\] - Running attacks do +15% extra damage when you have a speed boost. (+1 Passive Agility)
     -   Prerequisite: 20 Agility
 
 ### Visionshaper
@@ -4063,8 +4062,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Showstopper_ \[Rare Talent, Strength\] - When an enemy would roll through one of your physical attacks, stomp the ground, dazing anyone nearby. Removes speed buffs from target upon landing.
     -   Prerequisite: 40 Strength
 
--   _**Switchblade**_ \[Advanced Talent, Light Weapon, Medium/Heavy Weapon\] - You can now utilize Dagger Talents when not wielding a dagger.
-    -   Prerequisites: 50 Light Weapon, 50 Medium Weapon/50 Heavy Weapon
+-   _**Switchblade**_ \[Advanced Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - You can now utilize Dagger Talents when not wielding a dagger.
+    -   Prerequisites: 50 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon
 
 -   Warrior's Swing \[Common Talent, Heavy Weapon\] - Heavy Weapons Reduces incoming damage by 5% if hit during Heavy swing hyperarmor.
     -   Prerequisite: 30 Heavy Weapon

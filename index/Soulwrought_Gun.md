@@ -1,6 +1,6 @@
 ---
 title: Soulwrought Gun
-revid: 190099
+revid: 195117
 source: https://deepwoken.fandom.com/wiki/Soulwrought_Gun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Redirect pages containing data, Weapons]
@@ -13,7 +13,7 @@ notices:
 | Soulwrought Gun | |
 |---|---|
 | type | Pistol |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | Crazy Slots |
 | damage | 16 |
 | scaling | LHT: 16 |

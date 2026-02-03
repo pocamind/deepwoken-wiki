@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 185008
+revid: 195159
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
@@ -30,7 +30,7 @@ categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute base
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Weathered Timepiece + Temporal Crux + Kyrsan Schematic in a Crafting Table |
+| obtainment | Crafting: Weathered Timepiece + Temporal Crux + Kyrsan Schematic in a Crafting TableVow of Iron:, Strange Merchant Memento |
 | description | A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow just a bit older. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 183043
+revid: 195119
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Light Weapons, Offhand]
@@ -11,7 +11,7 @@ categories: [Weapons, Pistols, Light Weapons, Offhand]
 | Dragoon | |
 |---|---|
 | type | Pistol |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 65 LHT |
 | damage | 16 |
 | scaling | LHT: 12 |

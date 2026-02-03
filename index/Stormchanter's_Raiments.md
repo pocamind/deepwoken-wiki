@@ -1,6 +1,6 @@
 ---
 title: "Stormchanter's Raiments"
-revid: 194649
+revid: 195155
 source: https://deepwoken.fandom.com/wiki/Stormchanter's_Raiments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -21,7 +21,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | resistances | +25% Lightning Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |
 | talents | Static Mastery, Kickstart |
-| obtainment | Carnival of HeartsVow of Iron:, Flashing Thunder Memento |
+| obtainment | Carnival of HeartsVow of Iron:, Flashing Thunder Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

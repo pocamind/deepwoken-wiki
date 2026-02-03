@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 192883
+revid: 195109
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -138,7 +138,9 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 -   Covers a large Area of Effect.
 -   More often to happen if Duke takes major damage quickly.
 
- |  |
+ | 
+
+ |
 | 
 
 **Mindless Servants**  

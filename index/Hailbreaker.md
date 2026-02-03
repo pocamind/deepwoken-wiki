@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 188666
+revid: 195104
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -41,9 +41,11 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswo
 
 ## Description
 
-The **Hailbreaker** is a [Greatsword](Weapons.md#greatswords) that scales with Frostdraw; it's a dark carbon fiber patterned blade with sharp edges and a slightly lighter-colored trim along the blade's length. The hilt has a futuristic appearance, incorporating glowing cyan accents, which enhance its high-tech aesthetic. Currently, it's obtained by a depths job called [Coldheart Fortinabras](Job_Boards.md#celtor).
+The **Hailbreaker** is a [Greatsword](Weapons.md#greatswords) that scales with Frostdraw; it's a dark carbon fiber patterned blade with sharp edges and a slightly lighter-colored trim along the blade's length. The hilt has a futuristic appearance, incorporating glowing cyan accents, which enhance its high-tech aesthetic. It is only obtainable from [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 
-This weapon can change forms with the use of its critical similarly to [Light's Final Toll](<Light's_Final_Toll.md>) having 3 total stages/forms each changing its criticals effects.
+This weapon comes with the following passive:
+
+-   **Ingenious Invention: Iskald Skiving** - The Hailbreaker changes forms and criticals depending on the stage. There are three stages total, which also affects how the critical is executed.
 
 ## Criticals
 

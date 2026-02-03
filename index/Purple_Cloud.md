@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 194129
+revid: 195148
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -30,7 +30,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Maestro Evengarde Rest |
+| obtainment | Maestro Evengarde RestVow of Iron:, Drifter Memento |
 | description | A mesmerizing blade of obsidian and violet, you feel as if the sword has a soul of its own. It seems wise to only unsheathe it momentarily. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 192992
+revid: 195135
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons, Heavy Weapons]
@@ -34,7 +34,7 @@ categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold at Etris Weaponry for 100 , Erisia, Dread Serpent, LodestarAlloyed:, Alloying a Zweihander |
+| obtainment | Sold at Etris Weaponry for 100 , Erisia, Dread Serpent, LodestarAlloyed:, Alloying a ZweihanderVow of Iron:, Berserker Memento |
 | description | Popularised by the Canor Borderwatchers, the Zweihander is as fearsome as it is heavy. |
 
 ## Description

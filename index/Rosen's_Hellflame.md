@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 194584
+revid: 195115
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -11,7 +11,7 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 | Rosen's Hellflame | |
 |---|---|
 | type | Rifle |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 75 FIR, 40 MED |
 | damage | 19 |
 | scaling | FIR: 4, MED: 3 |

@@ -1,6 +1,6 @@
 ---
 title: Dark Pearls
-revid: 191773
+revid: 195095
 source: https://deepwoken.fandom.com/wiki/Dark_Pearls
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears, Relics, Equipment Relics]
@@ -28,12 +28,14 @@ categories: [Equipment, Ears, Relics, Equipment Relics]
 
 **Dark Pearls** are a Shadowcast [Relic](Relics.md) [Equipment](Equipment.md) item under the "Ears" category.
 
-[Inky Pearls](Talents.md#inky-pearls) turns your [Vent](Combat_Mechanics.md#tempo) black and makes it drain 47.5 Ether from targets it hits. This also increases your Vent's Ether cost on successful hit from 22.5 to 47.5. And your Vent can now proc Shadowcast Talents on Vent, such as [Twisted Puppets'](Talents.md#twisted-puppets) Shadowcast burn and [Sightless Still](Talents.md#sightless-still).
+When equipped, the pearls emit faint magic circles while ink blots out from within.
+
+[Inky Pearls](Talents.md#inky-pearls) turns your [Vent](Combat_Mechanics.md#tempo) black and makes it drain 47.5 Ether from targets it hits. This also increases your Vent's Ether cost on successful hit from 22.5 to 47.5, as well as proccing Shadowcast Talents and [Twisted Puppets'](Talents.md#twisted-puppets) burn.
 
 ## Trivia
 
--   Dark Pearls stacks with [Imperator's Fury](<Imperator's_Fury.md>) and all other "on Vent" effects, though it doesn't make Imperator's Fury Vent black.v
+-   Dark Pearls stacks with [Imperator's Fury](<Imperator's_Fury.md>) and all other "on Vent" effects, though it doesn't make Imperator's Fury Vent black.
 -   Dark Pearls is the first Relic **Ears** equipment, as all Relic equipment prior to Dark Pearls have been Torso equipment.
--   Though exclusive to the Shadowcast attunement, these earrings are frequently sought after due to being only one of two earrings, the other being [Moonlit Earrings](Crescent_Earrings.md), that offer Health, and the only earrings that have a Talent.
+-   Though exclusive to the Shadowcast attunement, these earrings are frequently sought after due to this and the [Moonlit Earrings](Crescent_Earrings.md) being the only earrings that offer Health, while these earrings is the only one that holds a Talent.
 -   These are one of two items that grant negative stats, the other being [Citadel Frames](Citadel_Frames.md).
 -   The lowest Posture possible is 16, when pairing [Citadel Frames](Citadel_Frames.md) with Dark Pearls.

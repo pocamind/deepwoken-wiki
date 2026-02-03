@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 192968
+revid: 195111
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium 
 | Winter Rifle | |
 |---|---|
 | type | Rifle |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 40 MED |
 | damage | 16 |
 | scaling | MED: 5 |
@@ -32,11 +32,11 @@ categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium 
 | obtainment | If you go into the back corner behind the ministry base at Trial of One and hug the wall, you can go under Trial of One, and this is just sitting there |
 | description | One of Rosen's lesser-known prototypes, this rifle uses a manner of mysticism unbecoming of the mechanical genius. |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
-
 Variants: [Summer Rifle](Summer_Rifle.md)
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

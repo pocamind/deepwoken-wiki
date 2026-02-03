@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder Arch-Sorcerer"
-revid: 194648
+revid: 195154
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Arch-Sorcerer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -21,7 +21,7 @@ categories: [Outfits, Expert Outfits]
 | resistances | +10% Physical Armor, +25% Elemental Armor, +10% Lightning Armor, +10% Ice Armor |
 | buffs | +50% Ether Regen |
 | talents | Devastating Power |
-| obtainment | Chests from:, Lower Erisia, Sold at the Mantra shop in Etris for 45 Vow of Iron:, Ether Erudite Memento |
+| obtainment | Chests from:, Lower Erisia, Sold at the Mantra shop in Etris for 45 Vow of Iron:, Ether Erudite Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

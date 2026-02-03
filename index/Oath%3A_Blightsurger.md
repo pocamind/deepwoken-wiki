@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 192921
+revid: 195160
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -17,7 +17,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 |---|---|
 | type | Fist |
 | damage type | Blunt |
-| requirements | Oath: Blightsurger |
+| requirements | N/A |
 | damage | 30 |
 | posture damage | 8 |
 | range | 6 Sweep |
@@ -33,6 +33,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
+| obtainment | Oath: BlightsurgerVow of Iron:, Theros Disciple Memento |
 | description | An ancient bangle bestowed upon the disciples of Theros, its bearer once honored among the Legion. |
 
 “ _A withering storm gathers._ **Lightning must strike the eye of the tempest.** _”_

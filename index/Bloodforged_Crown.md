@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 189754
+revid: 195092
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -30,7 +30,7 @@ The **Bloodforged Crown** is an [Equipment](Equipment.md) item under the "Head" 
 
 The [Cauterized Wounds](Talents.md#cauterized-wounds) Talent reduces blood bar damage taken from taking damage. It does not affect blood _drain_ effects such as [Bloodrend](Bloodrend.md).
 
-When equipped, even while its visibility is toggled off, it will play an animation of a red swirling particle around the wearer's head.
+When equipped, even while its visibility is toggled off, the crown has swirling blood effects that are drawn towards the gem.
 
 ## Trivia
 

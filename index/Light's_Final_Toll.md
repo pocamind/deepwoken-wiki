@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 189778
+revid: 195105
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -39,15 +39,18 @@ Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats besid
 
 Works with _[Untrained Fist](Untrained_Fist.md)_, _[Way of Navae](Way_of_Navae.md)_, _[Fang and Coil](Fang_and_Coil.md)_, _[Imperium Kata](Imperium_Kata.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Light's Final Toll is not compatible with [Jus Karita](Jus_Karita.md).**_
 
-The Critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
+The lantern comes with a passive ability:
 
-The color of the lantern signifies what Critical will be used next:
-
-White: Default (#1) | Blue: 1st Leap (#2) | Red: 2nd Leap (#2) | Purple: Final (#3) \[Missing this resets your progress.\]
+-   **All Songs Must Come To An End** - The Light's Final Toll criticals change stages after it is landed. There are a total of three different stages and four total criticals, with the color of the lantern signifying the stage it is in:
+    -   White: Default (#1)
+    -   Blue: 1st Leap (#2)
+    -   Red: 2nd Leap (#2)
+    -   Purple: Final (#3)
+    -   The critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
 
 ## Critical
 
-Light's Final Toll has 4 different criticals. When a critical is landed, it will advance to the next phase.
+Light's Final Toll has 4 different criticals. When a critical is landed, it will advance to the next stage.
 
 For the first critical, the user smacks the opponent with the lantern ([Way of Navae](Way_of_Navae.md), [Untrained Fist](Untrained_Fist.md), or [Fang and Coil](Fang_and_Coil.md) equipped) or grabs the opponent with the lantern ([Legion Kata](Legion_Kata.md) or [Imperium Kata](Imperium_Kata.md) equipped).
 

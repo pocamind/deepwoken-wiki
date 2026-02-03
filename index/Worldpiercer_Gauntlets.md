@@ -1,6 +1,6 @@
 ---
 title: Worldpiercer Gauntlets
-revid: 182326
+revid: 195144
 source: https://deepwoken.fandom.com/wiki/Worldpiercer_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
@@ -30,7 +30,7 @@ categories: [Weapons, Fists, Light Weapons, The Hundred Legions]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Titus Fulminus Destellus |
+| obtainment | Titus Fulminus DestellusVow of Iron:, Breaker Memento |
 | description | Brutal gauntlets wielded by those who break through defenses with unforgiving force. |
 
 ## Description

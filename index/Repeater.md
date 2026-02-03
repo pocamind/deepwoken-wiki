@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 192937
+revid: 195121
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
 | Repeater | |
 |---|---|
 | type | Pistol |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 65 LHT |
 | damage | 14 |
 | scaling | LHT: 15 |

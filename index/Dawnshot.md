@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 192942
+revid: 195122
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
 |---|---|
 | alloyed name | Alloyed Dawnshot |
 | type | Pistol |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 40 LHT / 75 LHT |
 | damage | 14 / 16 |
 | scaling | LHT: 12 |

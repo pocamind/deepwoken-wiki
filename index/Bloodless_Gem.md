@@ -1,6 +1,6 @@
 ---
 title: Bloodless Gem
-revid: 190623
+revid: 195145
 source: https://deepwoken.fandom.com/wiki/Bloodless_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -19,7 +19,7 @@ categories: [Treasures, Mantras, Deep Gems]
 | droppable | Yes |
 | pass down | No |
 | desc | It bleeds...On hit, heal for 30% of the unscaled damage dealt, but reduce the damage dealt to your opponent by 20%. After healing 15 HP, goes on cooldown for 2s. |
-| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War Mode |
+| obtainment | Primadon, Maestro Evengarde Rest, Chaser, Scion of Ethiron, Ferryman, First Layer, Sea Events, Fishing, Etris: Siege, Deep Crucible, Trial of the Gourdskipper, The Diluvian Mechanism, Saramaed Hollow, War ModeVow of Iron:, Ether Erudite Memento, Found in The Depths, The Depths chests |
 
 ## Description
 

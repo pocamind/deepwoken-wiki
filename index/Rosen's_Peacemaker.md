@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 188686
+revid: 195113
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -11,7 +11,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with T
 | Rosen's Peacemaker | |
 |---|---|
 | type | Rifle |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 75 MED |
 | damage | 18 |
 | scaling | MED: 8 |

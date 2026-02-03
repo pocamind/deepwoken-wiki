@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 192970
+revid: 195124
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | Summer Rifle | |
 |---|---|
 | type | Rifle |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 40 MED |
 | damage | 17 |
 | scaling | MED: 6 |

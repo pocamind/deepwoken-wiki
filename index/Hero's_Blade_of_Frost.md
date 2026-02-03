@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 193225
+revid: 195141
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]
@@ -30,7 +30,7 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing (!DURING WINTER!), Sold in Traan Zakshun's black market for 3 , Sold in Traan Zakshun's regular shop for 4,500 |
+| obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing (during winter), Sold in Traan Zakshun's black market for 3 , Sold in Traan Zakshun's regular shop for 4,500 Vow of Iron:, Saint Jay Memento |
 | description | A blade said to be enruned with a passage of the song, it evokes the freezing oblivion of the cold wastes. |
 
 ## Description

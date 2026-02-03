@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 192939
+revid: 195118
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
 | Rosen's Roscoe | |
 |---|---|
 | type | Pistol |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 75 LHT |
 | damage | 16 |
 | scaling | LHT: 11 |

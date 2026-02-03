@@ -1,9 +1,9 @@
 ---
 title: Silversix
-revid: 183039
+revid: 195127
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
+categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Echoes]
 ---
 
 # Silversix
@@ -11,7 +11,7 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
 | Silversix | |
 |---|---|
 | type | Pistol |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 0 LHT |
 | damage | 10 |
 | scaling | LHT: 13 |
@@ -32,9 +32,15 @@ categories: [Weapons, Pistols, Offhand, Light Weapons, Echoes]
 | obtainment | Starter Weapon: Silversix Echo Unlock |
 | description | A pistol passed down by your ancestors. |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 ## Description
 
-The **Silversix** is a Pistol obtained by purchasing _Starter Weapon: Silversix_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md). A character starting with the Silversix will dual wield them, one in the main hand and one in the off-hand. If you want to wield this gun single-handed, unequip one of them at a campfire.
+The **Silversix** is a Pistol obtained by purchasing _Starter Weapon: Silversix_ [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers) for 25 Echoes in [Character Creation](Character_Creation.md).
+
+On spawn, the player will spawn with two Silversix equipped; one in the offhand and one in the main hand.
 
 ## Critical
 

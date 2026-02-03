@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 194646
+revid: 195139
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -21,7 +21,7 @@ categories: [Outfits, Unique Outfits, World Event]
 | resistances | +25% Ice Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +75% Ether Regen |
 | talents | Refreeze, Orbital Ice |
-| obtainment | Carnival of HeartsVow of Iron:, Saint Jay Memento |
+| obtainment | Carnival of HeartsVow of Iron:, Saint Jay Memento (automatically crafted) |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

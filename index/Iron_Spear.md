@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 188411
+revid: 195166
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals",
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Chime of Conflict |
+| obtainment | Sold by Armorer for 16 , Sold at Etris Weaponry for 16 , Chime of ConflictVow of Iron:, Spear Dancer Memento |
 | description | A spear perfect for poking at a safe distance. |
 
 ## Description

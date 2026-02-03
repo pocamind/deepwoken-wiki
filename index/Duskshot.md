@@ -1,6 +1,6 @@
 ---
 title: Duskshot
-revid: 192943
+revid: 195116
 source: https://deepwoken.fandom.com/wiki/Duskshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offhand, Light Weapons]
@@ -11,7 +11,7 @@ categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offh
 | Duskshot | |
 |---|---|
 | type | Pistol |
-| damage type | Slash |
+| damage type | Blunt |
 | requirements | 40 LHT |
 | damage | 13 |
 | scaling | LHT: 11 |
