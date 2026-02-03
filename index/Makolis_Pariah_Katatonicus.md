@@ -1,6 +1,6 @@
 ---
 title: Makolis Pariah Katatonicus
-revid: 191533
+revid: 195170
 source: https://deepwoken.fandom.com/wiki/Makolis_Pariah_Katatonicus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests, Individuals with unspecified pronouns]
@@ -40,7 +40,7 @@ Makolis Pariah Katatonicus is a [Kyrsan](Kyrsgarde.md) NPC. They can be found si
   <td>I suppose I am.</td>
 </tr>
 <tr>
-  <td>Sit me for a while. We will be friends, for but a moment.</td>
+  <td>Sit with me for a while. We will be friends, for but a moment.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

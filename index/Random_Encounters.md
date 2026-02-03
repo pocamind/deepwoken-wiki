@@ -1,12 +1,11 @@
 ---
 title: Random Encounters
-revid: 192893
+revid: 195171
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
+categories: [OutdatedPages, Pages with broken file links, Mechanics]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Random Encounters
