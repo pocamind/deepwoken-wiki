@@ -1,6 +1,6 @@
 ---
 title: Ferractine
-revid: 194768
+revid: 195300
 source: https://deepwoken.fandom.com/wiki/Ferractine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons", Weapons with Talents, Medium Weapons]
@@ -33,11 +33,11 @@ categories: [Vow of Iron Exclusive, Weapons, Swords, "Attunement-based Weapons",
 | obtainment | Iron Vessel Memento |
 | description | ... |
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
-
 Variants: [Fractine](Fractine.md)
+
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

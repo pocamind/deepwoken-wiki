@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 190028
+revid: 195241
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects, Mechanics]
@@ -47,3 +47,4 @@ An Artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).
 -   Etrean Luminant Artifacts are likely related to the Forge of Sin, as bankers formerly called it a "Piece of the Forge," and pieces of their models are in the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md).
 -   The [Castle Light](Castle_Light.md) Banker has an Artifact turn-in option, but Artifacts do not currently spawn in the Depths.
 -   The sound used by an artifact is from the series Avengers Assemble season 1 episode 13, from Neptune's Trident.
+-   If the server is too old, the Artifact may void when placed in the [Deep Crucible](Deep_Crucible.md) Shrine.

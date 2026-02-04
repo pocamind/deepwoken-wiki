@@ -1,6 +1,6 @@
 ---
 title: "Imperator's Edge"
-revid: 195163
+revid: 195267
 source: https://deepwoken.fandom.com/wiki/Imperator's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, "Core-Attribute based weapons", The Hundred Legions, Spears, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -46,9 +46,9 @@ The Imperator's Edge comes with a passive ability:
 
 Perform three thrusts forward with the spear, applying Dazed whilst sending them forwards. If you are in the "Enlightened" state, this critical is then followed up by another identical critical at the cost of the effect, totaling up to six hits. It has a cooldown of ~5 seconds.
 
-For the standing critical, the user performs three quick thrusts with the spear, dazing the target whilst sending them forwards. If the user is in the Enlightened state, this critical is followed up by another three thrusts, using up the effect. The standing critical has a scaled damage multiplier of 0.6x \* 2 + 0.45x + .135x bleed damage, totaling to 1.785x scaled damage and deals 26.97 posture damage.
+For the standing critical, the user performs three quick thrusts with the spear, dazing the target whilst sending them forwards. If the user is in the Enlightened state, this critical is followed up by another three thrusts, using up the effect. The standing critical has a scaled damage multiplier of 0.6x on the first two hits and 0.45x on the third, totaling to 1.65x scaled damage. All hits have innate [Bleed](Status_Effects.md#bleed). Deals 26.97 posture damage if all hits are blocked.
 
-For the running critical, the user lunges with the spear, firing a projectile of light that dazes the target. This critical is not affected by Enlightened. The running critical has a scaled damage multiplier of 1x + .6x + .18x bleed (on the projectile), totaling to 1.78x scaled damage. Both hits deal 17 posture damage.
+For the running critical, the user lunges with the spear, firing a projectile of light that dazes the target. This critical is not affected by Enlightened. The running critical has a scaled damage multiplier of 1x on the thrust and 0.6x on the projectile, totaling to 1.6x scaled damage. Both hits have innate [Bleed](Status_Effects.md#bleed) and deal 17 posture damage if blocked.
 
 Both criticals have a cooldown of **6 seconds.**
 

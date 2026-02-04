@@ -1,6 +1,6 @@
 ---
 title: Kyrswynter
-revid: 194459
+revid: 195297
 source: https://deepwoken.fandom.com/wiki/Kyrswynter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -55,17 +55,13 @@ The Kyrswynter can be obtained from the [Second Layer](Second_Layer.md) of [The 
 
 The Kyrswynter has **two** different criticals.
 
-For the standing critical, the user pokes the spear forward, ragdolling enemies and knocking them back before conjuring a blast underneath their feet, knocking them away once more. Standing on the blast allows you to combo into an uppercut. Its stats are:
+For the standing critical, the user pokes the spear forward, ragdolling enemies and knocking them back before conjuring a blast underneath their feet, knocking them away once more. Standing on the blast allows you to combo into an uppercut.
 
--   1.4x of M1 DMG + .42x BLEED (Stab)/ 1.2x of M1 DMG + .36x BLEED (Blast)
--   20 posture (Stab/Blast)
--   0.65s windup (Stab)/1.3s after Stab (Blast)
+The stab has a scaled damage multiplier of 1.4x, deals 20 posture damage, and has a windup of 0.65s. The blast has a scaled damage multiplier of 1.2x and has a windup of 1.3s after the stab occurs. Both hits have innate [Bleed](Status_Effects.md#bleed).
 
-For the running critical, the user winds up with a [purple telegraph](Combat_Mechanics.md#purple) before leaping forward with the weapon, finishing with an explosive ice blast. Right clicking while still in the air will allow you to cancel your forward momentum. Its stats are:
+For the running critical, the user winds up with a [purple telegraph](Combat_Mechanics.md#purple) before leaping forward with the weapon, finishing with an explosive ice blast. Right clicking while still in the air will allow you to cancel your forward momentum.
 
--   1.1x of M1 DMG + 1.25x of M1 DMG + 30% BLEED on each individual crit hit, leading to 2.95x of M1 DMG total.
--   20+12 posture
--   1.45s windup
+The initial hit of this attack has a 1.1x scaled damage multiplier with 20 posture damage and a 1.45s windup. The second hit has a 1.25x scaled damage multipler with 12 posture damage. Both hits have innate [Bleed](Status_Effects.md#bleed).
 
 The criticals can be chained together by M1ing during the windup of the standing critical, which causes you to perform the running critical after the standing critical's first hit.
 

@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 194269
+revid: 195274
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -216,7 +216,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 -   **Evading Chorus Divide**: Titus' **Chorus Divide** attack can be easily avoided by gaining elevation. Climbing onto the generator or the scaffolding near the walls will provide a safe haven from this ability.
 -   **Second Phase M1 Attack**: It is important to note that his standard M1 attack string appears to be unparryable during his second phase, though this requires further confirmation. Therefore, it is safer to focus on dodging this attack rather than attempting to parry.
 -   **General Strategy**: As a general rule, do not overcommit to attacks. Focus on maintaining defense and punishing his attacks rather than forcing openings. It is often more valuable to use healing items and regenerate consistently than to risk taking damage in a risky trade. Stay mobile and use mantras for ranged damage when necessary.
--   **Prediction**: If you land a prediction on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximately deal 15000 damage which helps out plenty when fighting him.**This strategy requires a good understanding of Titus' abilities and timings, fail to do so will pay a hefty price.**  
+-   **Prediction**: If you land a prediction on Titus's **Chorus Divide: Shattering Crescendo** it will deal approximately 15000 damage which helps out plenty when fighting him. **This strategy requires a good understanding of Titus' abilities and timings, fail to do so will pay a hefty price.**  
     
 
 ## Rewards

@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Wind"
-revid: 195169
+revid: 195266
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -33,13 +33,15 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, Sold in Traan Zakshun's black market for 3 Vow of Iron:, Inheritor of the Gale Memento |
 | description | A blade said to be enruned with a passage of the song, it evokes the inescapable force of a hurricane. |
 
+## Description
+
 The Hero Blade of Wind is an elemental weapon and the [Galebreathe](Galebreathe.md) variation of the [Hero Blades](Hero_Blades.md).
 
 ## Critical
 
 The user thrusts the Hero Blade forward, breathing out the Hero of Wind and unleashing an eruption of wind that ragdolls the opponent.
 
-The thrust does 10 Gale damage on the thrust, then 20 Gale damage on the eruption. Both hits have 5 scaling. The last hit deals 15 Posture damage.
+The thrust does 10 Gale damage on the thrust, then 20 Gale damage on the eruption. Both hits have 5 Galebreathe scaling. The last hit deals 15 Posture damage.
 
 The critical has a cooldoown of **10 seconds**.
 

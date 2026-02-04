@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 193046
+revid: 195243
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -20,7 +20,7 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Grea
 | posture damage | 5 / 7 |
 | range | 8 Sweep |
 | swing speed | 0.85x / 0.87x |
-| attack duration | 0.8s |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 10% |
 | chip damage | 10% |

@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Shadow"
-revid: 188407
+revid: 195279
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Shadow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, Hero Blades]
@@ -32,6 +32,8 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | pass down | Yes |
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, Sold in Traan Zakshun's regular shop for 4,500 , Sold in Traan Zakshun's black market for 3 Vow of Iron:, Sold in Naan Zakshun's regular shop for 4,500 |
 | description | A blade said to be enruned with a passage of the song, it evokes the merciless void of the darkest shadows. |
+
+## Description
 
 The Hero Blade of Shadow is an elemental weapon and the [Shadowcast](Shadowcast.md) variation of the [Hero Blades](Hero_Blades.md).
 

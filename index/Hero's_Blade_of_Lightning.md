@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Lightning"
-revid: 188406
+revid: 195265
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Lightning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]
@@ -33,13 +33,15 @@ categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, 
 | obtainment | Defeating Blizzard Knights in Valley of Heroes, Fishing, Sold in Traan Zakshun's black market for 3 , Sold in Traan Zakshun's regular shop for 4,500 Vow of Iron:, Sold in Naan Zakshun's regular shop for 4,500 |
 | description | A blade said to be enruned with a passage of the song, it evokes the hair-raising trepidation for the incoming storm. |
 
+## Description
+
 The Hero's Blade of Lightning is an elemental weapon and the [Thundercall](Thundercall.md) variation of the [Hero Blades](Hero_Blades.md).
 
 ## Critical
 
 The user slams the ground alongside the Hero of Thunder, summoning a line of thunder in front of themselves, ragdolling them.
 
-The critical deals 30 Lightning damage with 5 scaling, 10 posture damage, and has a 0.5s windup.
+The critical deals 30 Lightning damage with 5 Thundercall scaling, 10 posture damage, and has a 0.5s windup.
 
 If the user has Surge Path: Unstable Capacitor, the critical will apply additional rods on hit.
 

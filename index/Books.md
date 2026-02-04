@@ -1,6 +1,6 @@
 ---
 title: Books
-revid: 193717
+revid: 195248
 source: https://deepwoken.fandom.com/wiki/Books
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Books]
@@ -32,7 +32,7 @@ Some books are part of specific quests or are physically in the world, and thus 
 -   Diver Journal, I/II/III: [Second Layer](Second_Layer.md).
 -   Legion Intelligence: Talking to [Caitus](Caitus.md).
 -   Ministry Field Report: [Outpost Antumbra](Outpost_Antumbra.md).
--   Jericho's Journal: [Fort Merit](Fort_Merit.md).
+-   Jericho's Journal: [Fort Merit](Fort_Merit.md), behind [Warden Jericho](Warden_Jericho.md).
 
 Some books are playable as songs on [Instruments](Instruments.md). Such books include:
 

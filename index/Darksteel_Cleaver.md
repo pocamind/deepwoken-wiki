@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 192996
+revid: 195270
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Talents, Heavy Weapons]
@@ -56,5 +56,7 @@ Equipping the Darksteel Cleaver grants its unique [weapon Talent](Talents.md#wea
 ## Critical
 
 The user shortly winds up before unleashing an upward slash, knocking down and pushing those hit by it. The critical has True Hyperarmor for the full duration, making it unable to be cancelled through Venting or being Shocked. Alternatively, it can be used as a "pseudo-vent" due to its properties.
+
+This attack has a scaled damage multiplier of 1.15x.
 
 The critical has a cooldown of **5 seconds**.

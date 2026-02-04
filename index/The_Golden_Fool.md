@@ -1,6 +1,6 @@
 ---
 title: The Golden Fool
-revid: 189970
+revid: 195257
 source: https://deepwoken.fandom.com/wiki/The_Golden_Fool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -19,11 +19,8 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Lig
 | range | 5.8 Sweep |
 | swing speed | 1.24x |
 | m.equip | No |
-| m.extract | Yes |
-| m.crit | Mace |
-| m.compatible | Clubs |
+| m.extract | No |
 | stances | 1 Handed |
-| offhand | No |
 | rarity | Common |
 | selling price | N/A |
 | weight | 2 |
@@ -34,9 +31,11 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Lig
 | obtainment | Purchased from The Beard at The Golden Rat for 100 |
 | description | Warriors bold with straps of gold, that dazzle like the sun! |
 
+Variants: [Fool's Tankard](<Fool's_Tankard.md>)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 
@@ -44,6 +43,10 @@ Essentially just an empty tankard, **The Golden Fool** is a blunt Dagger Weapon 
 
 ## Critical
 
-Wind up your tankard and strike your target, dealing very high posture damage.
+Wind up your tankard and strike your target, applying [Daze](Status_Effects.md#dazed) and dealing very high posture damage.
+
+This attack has a scaled damage multiplier of 1.25x.
+
+This critical has a cooldown of **5 seconds**.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.

@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Frost"
-revid: 195141
+revid: 195263
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]
@@ -41,7 +41,7 @@ The Hero's Blade of Frost is one of the several elemental weapons apart of the H
 
 The user slams the Hero Blade into the ground alongside the Hero of Frost, summoning multiple surges of ice around the initial location, dealing damage while applying Frost and Bottom Freeze to targets within it for up to 5 times. The user is unable to act for its full duration of the critical.
 
-The critical does 8.4 Frost damage with 5 scaling per 5 hits. The initial hit has a 0.6s windup, whereas the surges have a 0.45s windup between hits. The critical has a 0.1s endlag.
+The critical does 8.4 Frost damage per hit (5) with 5 Frostdraw scaling. The initial hit has a 0.6s windup, whereas the surges have a 0.45s windup between hits. The critical has a 0.1s endlag.
 
 If the user has Glass Path: Crystallization, the critical will apply additional crystals on hit.
 
