@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 192646
+revid: 195224
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -30,7 +30,8 @@ Its main purpose is to punish rage-quitting and leaving during combat.
 -   You cannot switch weapons or equipment (unless you're a [Silentheart](Oath%253A_Silentheart.md)).
 -   Certain NPCs will have unique dialogue, often disallowing their services.
 -   You cannot use certain items like [Idol of Yun'Shuls](<Idol_of_Yun'Shul.md>).
--   You cannot use the [Chime of Dwelling](Chime_of_Dwelling.md) or enter [Guild Bases](Guild_Bases.md).
+-   You cannot use the [Chime of Dwelling](Chime_of_Dwelling.md), [Dwelling Charm](Dwelling_Charm.md), or enter [Guild Bases](Guild_Bases.md).
+-   You cannot use the [Beast Whistle](Beast_Whistle.md).
 
 Hovering over the skull will show you the name of the entity that put you into combat tag or prolonged it, and the amount of time you will remain tagged for. When in PvP, it will also show the number of players that you're currently in combat with next to it.
 
