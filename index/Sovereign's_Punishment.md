@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 193074
+revid: 195233
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
@@ -19,8 +19,8 @@ categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Centr
 | posture damage | 13 |
 | range | 9 Sweep |
 | swing speed | 0.73x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
+| attack duration | 1.1s |
+| endlag | 0.15s |
 | penetration | 20% |
 | chip damage | 10% |
 | m.equip | Yes |

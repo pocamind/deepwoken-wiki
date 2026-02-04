@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 194779
+revid: 195231
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -18,7 +18,7 @@ categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals,
 | posture damage | 8.5 |
 | range | 9.5 Sweep |
 | swing speed | 0.86x |
-| attack duration | 0.8s |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 20% |
 | special effect | Restores a percentage of the users blood upon landing m1 |

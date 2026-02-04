@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 193276
+revid: 195230
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -20,7 +20,7 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Crit
 | posture damage | 5 / 6 |
 | range | 9 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.8s |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 15% |
 | talent | Spinal Splinter - Landing a backstab with your critical deals 25 extra true damage. |

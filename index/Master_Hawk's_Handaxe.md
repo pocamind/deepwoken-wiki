@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 193051
+revid: 195229
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -18,7 +18,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | posture damage | 10 |
 | range | 8.5 Sweep |
 | swing speed | 0.8x |
-| attack duration | 0.8s |
+| attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 25% |
