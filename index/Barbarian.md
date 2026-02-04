@@ -1,6 +1,6 @@
 ---
 title: Barbarian
-revid: 194749
+revid: 195186
 source: https://deepwoken.fandom.com/wiki/Barbarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -34,3 +34,17 @@ This Outfit has no crafting or stat requirements to be crafted.
 ## Armor Stats
 
 This Outfit has 1500 durability and grants +25% Physical Armor and +20% Elemental Armor.
+
+  
+
+  
+
+  
+
+  
+
+  
+
+## Trivia
+
+The Outfit shares an appearance with the [Martial Artist](Martial_Artist.md) Outfit.

@@ -1,9 +1,9 @@
 ---
 title: "Nell, Master of Frost"
-revid: 195067
+revid: 195208
 source: https://deepwoken.fandom.com/wiki/Nell%2C_Master_of_Frost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Etrean Luminant, Individuals with They/them pronouns]
+categories: [Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, Diver Enemies, NPCs located in the Etrean Luminant, Individuals with They/them pronouns]
 ---
 
 # Nell, Master of Frost
@@ -278,9 +278,8 @@ Nell executes their opponent after knocking them:
 
 -   Both they and [Funke](Funke,_Master_of_Thunder.md) don the [Black Diver](Black_Diver.md) [outfit](Outfits.md). According to Arch\_Mage, they are most likely Black Divers.[\[1\]](#cite-note-1)
     -   If they are indeed [Divers](The_Divers.md), this would make then and Funke two of the oldest, physically, known Divers, as they are the only Divers with [wrinkles](Age.md), excluding [Coldheart Fortinbras](Coldheart_Fortinbras.md).
-    -   Them having Dread Breath might confirm theirstatus as a Black Diver, as [Dr Carrion](Carrion,_Father_of_Evolution.md) is the only NPC present that can give [Monster Mantras](Monster_Mantras.md).
 -   Their eyes are unique, having a dark blue sclera similar to that of the [Hallowtide](Hallowtide.md) variant of the [Adret](Adret.md) aspect.[\[2\]](#cite-note-2) The only ottheirNPC that shares these eyes is [Coldheart Fortinbras](Coldheart_Fortinbras.md).
--   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay Story Segregation, having it for the games' sake; being so they have a unique, legendary weapon when they're fought.[\[3\]](#cite-note-3)
+-   Nell is equipped with a Gran Sudaruska. As there was only one Sudaruska, only one Gran Sudaruska exists, seemingly implying Nell wields _the_ Gran Sudaruska. In reality, this is a case of Gameplay and Story Segregation, having it for the games' sake; being so they have a unique, legendary weapon when they're fought.[\[3\]](#cite-note-3)
 -   Nell used to have [Rapid Punches](Attunement-less.md#rapid-punches) before the NPC Mantra changes.
 -   Unlike most [Attunement Trainers](Attunement_Trainers.md), they can be aggroed, seen during the [Etris Raid](Cinders_of_Etris.md) event occasionally fighting off Authority troops if they somehow get to her.
 

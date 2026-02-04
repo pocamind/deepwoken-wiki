@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 195088
+revid: 195204
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]

@@ -1,6 +1,6 @@
 ---
 title: Voidwalker
-revid: 193919
+revid: 195202
 source: https://deepwoken.fandom.com/wiki/Voidwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Origins, Character, The Knives of Eylis]

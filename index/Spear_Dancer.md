@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 194594
+revid: 195194
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -535,4 +535,4 @@ TBA
 
 ## Trivia
 
--   The combat Mantra "Ga Bolg" is most likely a reference to [Gáe Bolg](https://typemoon.fandom.com/wiki/G%C3%A1e_Bolg), Noble Phantasm of [Lancer from Fate/Stay Night](<https://typemoon.fandom.com/wiki/C%C3%BA_Chulainn_(Lancer)>)
+-   The combat Mantra "Gae Bolg" is most likely a reference to [Gáe Bolg](https://typemoon.fandom.com/wiki/G%C3%A1e_Bolg), Noble Phantasm of [Lancer from Fate/Stay Night](<https://typemoon.fandom.com/wiki/C%C3%BA_Chulainn_(Lancer)>)
