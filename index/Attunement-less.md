@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 194507
+revid: 195330
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1696,7 +1696,6 @@ Slash
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
 -   Deals 5 posture damage.
 -   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
--   Allows for movestacking an M1 strike which 100% guarantees the Mantra or M1 hit.
 -   Can be modified with Glass Stones and Magnifying Stones to increase it's tracking range.
 -   Having the [Forgotten Gladius](Forgotten_Gladius.md) or [Kindred Edict](Kindred_Edict.md) equipped will heavily decrease its windup.
 

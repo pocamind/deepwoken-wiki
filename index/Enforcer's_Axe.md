@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Axe"
-revid: 193482
+revid: 195326
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Drops, Heavy Weapons, "Weapons with Multi-Hit Criticals"]
@@ -53,7 +53,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   At 75 HVY, the Enforcer's Axe does 39.2 damage.
 -   At 100 HVY, the Enforcer's Axe does 43.6 damage.
 -   At 100 HVY, 6 Proficiency, and 6% Damage, the Enforcer's Axe deals 53.4 damage.
--   Usually considered the best Enforcer weapon variant compared to its [Blade](<Enforcer's_Blade.md>) and [Hammer](<Enforcer's_Hammer.md>) variants, due to it having no endlag and higher damage.
+-   Usually considered the best Enforcer weapon variant compared to its [Blade](<Enforcer's_Blade.md>) and [Hammer](<Enforcer's_Hammer.md>) variants, due to it having higher damage.
     -   The Enforcer’s Hammer is sometimes used over the Greataxe due to the incredibly high posture damage, though the Blade is virtually never used over these two due to its inferior damage, critical attack and Talents.
 
 ## Version History

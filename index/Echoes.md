@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 194875
+revid: 195335
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -493,4 +493,6 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 -   On March 16th, 2025, [Chad09999 or Midq](https://www.youtube.com/watch?v=fcB0KECJA6A%7C) became the first player to achieve W rank with the _Glass Bones_ modifier.
 -   On December 13th, 2025, with the addition of the [Vow of Iron](Vow_of_Iron.md), the **Ironwoken** and **Vow of Thorns** Echo Modifiers were removed form the game.
+    -   While Vow of Thorns was "removed", it was really re-purposed to handle certain mechanics in Vow of Iron; meaning that if you had a slot with Vow of thorns before it was removed, that slot and any future instances of it will have the "IronVow" echo modifier instead, making them drown from every surface death
+        -   This can be fixed by pressing the "enable all/disable all" button in the echo-modifier section of character-creation
 -   The [Leather Gloves](Leather_Gloves.md) and [Leather Boots](Leather_Boots.md) you get with the "Starter Equipment" unlock can sometimes be enchanted.

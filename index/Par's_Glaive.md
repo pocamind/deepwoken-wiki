@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 193036
+revid: 195327
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greataxes, "Core-Attribute based weapons", Developer Spec]
@@ -19,7 +19,6 @@ categories: [Vow of Iron Exclusive, Weapons, Greataxes, "Core-Attribute based we
 | range | 9 Sweep |
 | swing speed | 1.07x |
 | attack duration | 0.6s |
-| endlag | 0.1s |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | Common |
 | selling price | ??? |

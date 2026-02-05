@@ -1,6 +1,6 @@
 ---
 title: "Enforcer's Blade"
-revid: 195322
+revid: 195325
 source: https://deepwoken.fandom.com/wiki/Enforcer's_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Cr
 | range | 8.5 Sweep |
 | swing speed | 0.79x |
 | attack duration | 0.9s |
-| endlag | hi wassim |
+| endlag | 0.1s |
 | penetration | 5% |
 | chip damage | 15% |
 | m.equip | No |
