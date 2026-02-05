@@ -1,6 +1,6 @@
 ---
 title: "Armorer's Needle"
-revid: 194486
+revid: 195336
 source: https://deepwoken.fandom.com/wiki/Armorer's_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -40,6 +40,8 @@ Currently known to drop from a wide variety of sources. But they can be obtained
 They can also be found less consistently from completing [Voidwalker](Voidwalker.md) Bounties, completing the uncommon [Diver Expedition Sea Event](Random_Encounters.md), and [Fishing](Fishing.md).
 
 If you are in dire need of many **Armorer's Needles**, the best and safest way to farm them by far is alternating between killing the [Interluminary Parasol](Interluminary_Parasol.md) and [The Ferryman](The_Ferryman.md). If you are quick or have a group to help, you can kill 2-3 Parasols across different servers before they escape. Once you have done that, you can head to Ferryman and farm him until the next Parasol event.
+
+If you are more confident in your PvE skills, you may farm [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) for 2-4 needles per run per relic chest. This will take around 20-25 minutes solo, due to having to clear out guards and position prisoners for emergency-healing; so it is advisable to have allies clear out enemies in one section, while you clear out another, to get to the boss-fight quicker, and increase relic-yield (how the relics are distributed amongst players is at the party's discretion).
 
 ## Usage
 

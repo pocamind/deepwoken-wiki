@@ -1,6 +1,6 @@
 ---
 title: "Nemit's Sickle"
-revid: 193057
+revid: 195337
 source: https://deepwoken.fandom.com/wiki/Nemit's_Sickle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -49,6 +49,8 @@ Equipping the Nemit's Sickle grants its unique [weapon Talent](Talents.md#weapon
 ## Critical
 
 The user unleashes a quick upward slash before unleashing a strong side kick, dealing high damage and high posture damage on block. This knocks the target back, even if the move is blocked and deals about 16 posture damage.
+
+The first hit has a 1.2x scaled damage multiplier and applies [Bleed](Status_Effects.md#bleed). The second hit has a scaled damage multiplier of 0.65x.
 
 The critical has a cooldown of **4 seconds**.
 

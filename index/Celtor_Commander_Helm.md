@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Helm
-revid: 189986
+revid: 195371
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,9 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Celtor Commander Set.
+The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category.
+
+The Celtor Commander Helm, along with the [Celtor Commander Plate](Celtor_Commander_Plate.md) and [Celtorian Sabatons](Celtorian_Sabatons.md), is part of the Celtor Commander Set.
 
 The _[Grasp on Reality](Talents.md#grasp-on-reality)_ Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.
 

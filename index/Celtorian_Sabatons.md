@@ -1,6 +1,6 @@
 ---
 title: Celtorian Sabatons
-revid: 176381
+revid: 195370
 source: https://deepwoken.fandom.com/wiki/Celtorian_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -29,3 +29,5 @@ categories: [Equipment, Legs, Sabatons]
 ## Description
 
 The Celtorian Sabatons are an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Celtor Commander Set.
+
+The Celtorian Sabatons, along with the [Celtor Commander Helm](Celtor_Commander_Helm.md) and [Celtor Commander Plate](Celtor_Commander_Plate.md), is part of the Celtor Commander Set.

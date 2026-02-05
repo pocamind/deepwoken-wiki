@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 195010
+revid: 195361
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -30,7 +30,9 @@ categories: [Equipment, Arms, Plates, The Divers]
 
 The Grand Fisher Plate is an [Equipment](Equipment.md) item under the "Arms" category.
 
-The Grand Fisher Plate, along with the [Grand Fisher Helm](Grand_Fisher_Helm.md), are part of the Grand Fisher Set and are guaranteed drops from an enemy in the [First Layer](First_Layer.md) called "[The Fisherman](The_Fisherman.md)".
+The Grand Fisher Plate, along with the [Grand Fisher Helm](Grand_Fisher_Helm.md), is part of the Grand Fisher Set.
+
+They are guaranteed drops from an enemy in the [First Layer](First_Layer.md) called "[The Fisherman](The_Fisherman.md)".
 
 The [Diver's Resilience](Talents.md#divers-resilience) Talent allows the player to parry attacks that are normally unparryable from [Monsters](Monsters.md). This comes with the downside of moving 3% slower at all times. This Talent has a 10 second proc cooldown. This functions similarly to [Force Your Way](Talents.md#force-your-way).
 

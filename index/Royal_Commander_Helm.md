@@ -1,6 +1,6 @@
 ---
 title: Royal Commander Helm
-revid: 189972
+revid: 195359
 source: https://deepwoken.fandom.com/wiki/Royal_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -32,6 +32,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category, and is a part of the Celtor Commander Set.
+The Celtor Commander Helm is an [Equipment](Equipment.md) item under the "Head" category.
 
 The [Royal Charge](Talents.md#royal-charge) Talent grants [Temporary Health](Status_Effects.md#temporary-health) if you land a running attack with a Club weapon. The [Grasp on Reality](Talents.md#grasp-on-reality) Talent decreases the damage taken by insanity, specifically stage 2 when your character begins scratching themselves.

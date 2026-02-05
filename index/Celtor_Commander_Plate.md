@@ -1,6 +1,6 @@
 ---
 title: Celtor Commander Plate
-revid: 176380
+revid: 195365
 source: https://deepwoken.fandom.com/wiki/Celtor_Commander_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Lost Celtor]
@@ -28,7 +28,9 @@ categories: [Equipment, Arms, Plates, Lost Celtor]
 
 ## Description
 
-The Celtor Commander Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Celtor Commander Set.
+The Celtor Commander Plate is an [Equipment](Equipment.md) item under the "Arms" category.
+
+The Celtor Commander Plate, along with the [Celtor Commander Helm](Celtor_Commander_Helm.md), is part of the Celtor Commander Set.
 
 The [Breathing Exercise](Talents.md#breathing-exercise) Talent increases the speed sanity recovers once out of combat. This increases passive sanity regen by 50%.
 

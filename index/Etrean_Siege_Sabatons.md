@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 186479
+revid: 195368
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons, Etrea]
@@ -27,4 +27,8 @@ categories: [Equipment, Legs, Sabatons, Etrea]
 
 ## Description
 
-Etrean Siege Sabatons are an [Equipment](Equipment.md) item under the "Boots" category. They can be found through chests in the [Second Layer](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
+Etrean Siege Sabatons are an [Equipment](Equipment.md) item under the "Boots" category.
+
+The Etrean Siege Sabatons, along with the [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md), is part of the Etrean Siege Set.
+
+They can be found through chests in the [Second Layer](Second_Layer.md) and [Crypt of the Unbroken](Crypt_of_the_Unbroken.md).
