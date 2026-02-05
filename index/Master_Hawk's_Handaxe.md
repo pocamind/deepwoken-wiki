@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 195313
+revid: 195323
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -13,16 +13,16 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | type | Greataxe |
 | damage type | Slash |
 | requirements | 75 HVY |
-| damage | 24 |
-| scaling | 10 |
+| damage | 99 |
+| scaling | some |
 | posture damage | 10 |
-| range | 8.5 Sweep |
-| swing speed | 0.8x |
-| attack duration | 0.9s |
-| endlag | 0.1s |
-| penetration | 5% |
-| chip damage | 25% |
-| talent | Battle Frenzy - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of combat tags you have on your character. |
+| range | 10 (alot) Sweep |
+| swing speed | 3x (quick) |
+| attack duration | long i forgot how much |
+| endlag | hi wassim |
+| penetration | infinite% |
+| chip damage | alot it guardbreaked me once |
+| talent | Battle Frenzy - The grip on your weapon tightens, reduce the posture of all mantras you block with this effect scaling with the number of name tags you have on your character. |
 | m.equip | Yes |
 | m.extract | Yes |
 | m.crit | Battleaxe |
@@ -38,9 +38,11 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | obtainment | Starswept Valley, Saramaed Hollow, Minityrsa, Etris: Siege, Merchant Ships, The Aratel Sea |
 | description | ... |
 
+e
+
 ## Description
 
-Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. Obtainable in the [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 24, 0.8x Swing speed and 25% Chip damage.
+Master Hawk's Handaxe is a [Heavy Weapon](Weapons.md) of the greataxe category. Obtainable in the [Starswept Valley](The_Starswept_Valley.md). It has a base damage of 24, 3x Swing speed and 25% Chip damage.
 
 ## Talent: Battle Frenzy
 

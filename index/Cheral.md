@@ -1,9 +1,9 @@
 ---
 title: Cheral
-revid: 195220
+revid: 195320
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Children of Navae]
+categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
 ---
 
 # Cheral
@@ -22,9 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Eastern Camp Master is an interactable NPC that can only be found in the Navaen Nomad Camp in [Etrean Wilds](Etrean_Wilds.md). This NPC is used to obtain the [Way of Navae](Fists.md) fighting style.
+The Eastern Camp Master is a Gremor NPC that can only be found in the Navaen Nomad Camp in [Etrean Wilds](Etrean_Wilds.md). This NPC is used to obtain the [Way of Navae](Fists.md) fighting style.
 
-He wears [Navaen Nomad Robes](Navaen_Nomad_Robes.md) with his aspect being a [Gremor](Gremor.md).
+They wear [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
 
 ## Dialogue
 

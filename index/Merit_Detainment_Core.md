@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 191546
+revid: 195314
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -196,3 +196,4 @@ When deactivating any of the systems with the corresponding keys, the messages f
 -   After defeating [Titus](Titus_Fulminus_Destellus.md), a special crafting bench can be accessed to create exclusive items such as the [Specialist Plate](Specialist_Plate.md) and [Reinforced War Helmet](Reinforced_War_Helmet.md).
 -   You can search the bookshelves in the 2nd room after breaking the bars. A great way to grind lore and song books.
 -   Fishing in dungeon gives you normal eastern loot.
+-   The merit detainment core (and the Central Authority as a whole) may be somewhat inspired by the Star Wars franchise, given the similarity with the helmets, and the cell control room.
