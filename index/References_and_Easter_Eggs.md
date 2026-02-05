@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 194432
+revid: 195380
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -14,7 +14,7 @@ categories: [Deepwoken]
 
 This is a page dedicated to all of the easter eggs and references to other works of media found in Deepwoken. Be warned that this may spoil many of the referenced media to you. View at your own risk.
 
-## Outfits/Equipments
+## Outfits and Equipment
 
 -   The style of the **Double Strapped Hat** seems to take inspiration from _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.
 -   The **Providence Coat** looks similar to [Dante's](https://devilmaycry.fandom.com/wiki/Dante) coat from the _[Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry)_ series.
@@ -127,7 +127,7 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   **Lithe Step** resembles [Shunpo](https://bleach.fandom.com/wiki/Hohō?so=search#Shunpo) or [Sonido](https://bleach.fandom.com/wiki/Sonído) from _Bleach._
     -   Having **True Strength** active, activating **Soaring Storm**, using **Float Like a Butterfly**, or using **Decimate**, create slashes that strongly resemble [Ryomen Sukuna's](https://jujutsu-kaisen.fandom.com/wiki/Sukuna) [Cleave and Dismantle](https://jujutsu-kaisen.fandom.com/wiki/Sukuna#Jujutsu), from _Jujutsu Kaisen_.
 
-## Enemies/Bosses
+## Enemies and Bosses
 
 -   **[Megalodaunts](Megalodaunt.md)** are inspired by the [Shark Giants/Giant Fishmen](https://bloodborne.fandom.com/wiki/Giant_Fishman) from _Bloodborne_.
     -   The Bestiary Challenge, "A Bigger Boat," is derived from the iconic line in the film _Jaws_.
@@ -230,7 +230,7 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   Unstable.
     -   Wild.
 
-## NPCs/Characters
+## NPCs
 
 -   [Akira](Akira.md) references the archetypal 'edgy anime character,' with much of his design and mannerisms meant to reflect this.
 -   [Rabanastre](Rabanastre.md) is a reference to Patches, a recurring character in the _soulsborne_ games produced by _Fromsoftware_.
@@ -239,8 +239,8 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ## Names
 
--   The names **Cadaver** and **Skulduggery** are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _Skulduggery Pleasant_ franchise.
--   The name **Sisyphus** references [Sisyphus from Greek mythology](https://en.wikipedia.org/wiki/Sisyphus), due to him being extremely prevalent in meme culture at the time.
+-   The names **Cadaver** and **Skulduggery** are in reference to [two](https://skulduggery.fandom.com/wiki/Cadaver_Cain) [characters](https://skulduggery.fandom.com/wiki/Skulduggery_Pleasant) from the _[Skulduggery Pleasant](https://en.wikipedia.org/wiki/Skulduggery_Pleasant)_ franchise.
+-   The name **Sisyphus** references [Sisyphus](https://en.wikipedia.org/wiki/Sisyphus) from Greek mythology, due to him being extremely prevalent in meme culture at the time.
 -   The names **Ornstein** and **Smough** are a reference to the [iconic duo](https://en.wikipedia.org/wiki/Ornstein_and_Smough) from the first _Dark Souls_.
 -   The names **Aldrich, Midir**, **Lorian**, **Lothric**, **Halflight**, **Gael, Wolnir**, and **Oceiros** are references to the bosses of the same names from _Dark Souls III_.
 -   The names **Shabriri**, **Vyke**, **Maliketh**, **Godrick**, and **Godfrey** are references to _Elden Ring_.
@@ -257,7 +257,6 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 -   [The Knives of Eylis](The_Knives_of_Eylis.md) are based on [Whalers](https://dishonored.fandom.com/wiki/Whalers) from Dishonored due to multiple similarities.
     -   The Knives of Eylis wear [Whaler Initiate](Whaler_Initiate.md) and use the [Whaling Knife](Whaling_Knife.md). They use a similar type of magic to [Bend Time](https://dishonored.fandom.com/wiki/Bend_Time) spell. The name 'Knives of Eylis' could be a reference to [Daud's](https://dishonored.fandom.com/wiki/Daud) nickname 'Knife of Dunwall'
-
 -   **Erisia** may be based on the Nameless God's island from _Salt and Sanctuary._
 -   A golem named [Marcus](Marcus.md) can be found in an area hidden under a house in the [Hidden Village](The_Hidden_Village.md).
 -   [Zana's](Zana.md) quest is a reference to a certain player type in the game early on, specifically, those seen as 'metamancers'.
@@ -313,18 +312,15 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   It also references the meme "Return to Monke" in character selection, as when you roll off Khan, you are able to switch back, though instead of the text saying "Switch to \[aspect\]" it says "Return to Khan"
 -   **Vesperians** somewhat resemble the [Vessels](https://hollowknight.wiki/w/Vessels) from _Hollow Knight_.
     -   The origins of **Vesperians** can be traced back to _Arch\_Mage's_ earlier game, _[Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil),_ where they were depicted as hostile automatons. This history is still evident today, reflected in their [lore](Lore.md#vesperian) by being more robust than any other aspect.
-
 -   **Ganymedes** are a likely reference to the [Snail Shamans](https://hollowknight.wiki/w/Snail_Shamans) from _Hollow Knight._
     -   **Ganymedes** are also named after [a moon of Jupiter.](<https://en.wikipedia.org/wiki/Ganymede_(moon)>)
     -   **Ganymedes** origins stems from _Arch\_Mage's previous game, [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil)._ Where it serves as the player's race.
-
 -   Although this was likely unintentional, Tiran's Jay variant resembles Niko from _OneShot_.
     -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.
 
 ### Misc
 
 -   The echo modifier **One Bit** may be a reference to One Piece, given that they have similar names and the modifier makes you take damage when you swim, while in One Piece when a person eats a devil fruit they lose their ability to swim.
-
 -   The Drowned Gods are inspired by the gods from the H.P. Lovecraft mythos:
     -   Perceiving them drives you to insanity.
     -   They are too great to interact with the world normally, and must interact with it via shrines, avatars and vessels.

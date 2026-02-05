@@ -1,6 +1,6 @@
 ---
 title: Sudaruska
-revid: 194605
+revid: 195375
 source: https://deepwoken.fandom.com/wiki/Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with She/her pronouns, Deceased characters]
@@ -27,7 +27,7 @@ The tale of Sudaruska's fate spread beyond the shores of Minityrsa. Deirdre look
 
 ## Trivia
 
--   Give the similarity between its name and her epithet, the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) may have been made for Sudaruska after her death. This adds an extra layer of side irony due to its later perversion by the Ministry.
+-   Give the similarity between its name and her epithet, the [Crypt of the Unbroken](Crypt_of_the_Unbroken.md) may have been made for Sudaruska after her death. This adds an extra layer of sad irony due to its later perversion by the Ministry.
 
 ## References
 

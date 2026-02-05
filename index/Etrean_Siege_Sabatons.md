@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 195368
+revid: 195430
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons, Etrea]
@@ -10,10 +10,11 @@ categories: [Equipment, Legs, Sabatons, Etrea]
 
 | Etrean Siege Sabatons | |
 |---|---|
-| type | Boots |
+| type | Legs |
 | rarity | Rare |
 | selling price | ? |
 | requirements | PWR 6 |
+| weight | 1 |
 | innate stats | +4 Health |
 | innate talent | N/A |
 | set | Etrean Siege Cuirass, Etrean Siege Sabatons |
@@ -25,9 +26,13 @@ categories: [Equipment, Legs, Sabatons, Etrea]
 | obtainment | Chests from:, Miner's Landing, Duke Ishamon Erisia, Heart of Enmity, Dread Serpent, First Layer, Lodestar, Second Layer, Crypt of the Unbroken |
 | description | ... |
 
+Etrean Siege Set
+
+Variants: [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)
+
 ## Description
 
-Etrean Siege Sabatons are an [Equipment](Equipment.md) item under the "Boots" category.
+Etrean Siege Sabatons are an [Equipment](Equipment.md) item under the "Legs" category.
 
 The Etrean Siege Sabatons, along with the [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md), is part of the Etrean Siege Set.
 

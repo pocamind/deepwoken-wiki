@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 189247
+revid: 195418
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]

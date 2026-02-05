@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195221
+revid: 195390
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1604,7 +1604,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Glass Path: Crystallization \[Common Talent, Frostdraw\] - Your ice abilities no longer grant a slow effect or the ability to freeze and instead cause ice crystals to grow on your opponent.
     -   Applying chill or freeze applies red ice crystals on the enemy instead of slowing opponent. Stacking 5 ice crystals or guard breaking an opponent who has crystals makes them explode.
     -   3 base Frostdraw damage per crystal explosion with 5 Frostdraw scaling. Formula to calculate crystal DMG is ((3+frostdraw investment\*0.015)\*crystal amount)
-    -   Has 4.45x PVE scale (18.75 DMG PVP, 83.53 DMG PVE), affected by chain of perfection.
+    -   Has 4.45x PVE scale (18.75 DMG PVP, 83.53 DMG PVE), affected by Chain of Perfection.
     -   1s cooldown on explosion proc.
     -   Allows you to obtain [Crystal Impale](Frostdraw.md#crystal-impale), [Crystal Knee](Frostdraw.md#crystal-knee), and [Ice Lasers](Frostdraw.md#ice-lasers).
     -   Increases the damage of [Crystal Impale](Frostdraw.md#crystal-impale) and [Crystal Knee](Frostdraw.md#crystal-knee) (they will do reduced damage if you remove this Talent).

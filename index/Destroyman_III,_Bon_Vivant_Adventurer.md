@@ -1,6 +1,6 @@
 ---
 title: "Destroyman III, Bon Vivant Adventurer"
-revid: 191400
+revid: 195419
 source: https://deepwoken.fandom.com/wiki/Destroyman_III%2C_Bon_Vivant_Adventurer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Eastern Luminant]
@@ -30,7 +30,7 @@ Destroyman III, Bon Vivant Adventurer is located atop a spike high up in [The St
   <td colspan="2">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2"><i>*As you approach this mischievous wayward traveller [</i><a href="https://en.wikipedia.org/wiki/sic">sic</a><i>], you see him gazing out into the distance, observing the horizon, not acknowledging your presence. He yearns for adventure in a way familiar to you. There is a song ringing in his heart, and a taste for danger lingers on his lips. Do you understand?*</i></td>
+  <td colspan="2"><i>*As you approach this mischievous wayward traveller, you see him gazing out into the distance, observing the horizon, not acknowledging your presence. He yearns for adventure in a way familiar to you. There is a song ringing in his heart, and a taste for danger lingers on his lips. Do you understand?*</i></td>
 </tr>
 <tr>
   <td>Yes.</td>

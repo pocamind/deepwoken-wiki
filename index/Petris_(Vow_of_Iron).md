@@ -1,6 +1,6 @@
 ---
 title: Petris (Vow of Iron)
-revid: 194893
+revid: 195420
 source: https://deepwoken.fandom.com/wiki/Petris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -25,7 +25,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Petris is an [Etrean](Etrean.md) NPC. He is an adventurer who explains the ritual on how to summon [The Ferryman](The_Ferryman.md).
+Petris is an [Etrean](Etrean.md) NPC. He is an adventurer who is looking to summon [The Ferryman](The_Ferryman.md).
 
 ## Location
 

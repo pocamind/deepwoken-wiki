@@ -1,6 +1,6 @@
 ---
 title: "Dapple-Horned Besul"
-revid: 191377
+revid: 195423
 source: https://deepwoken.fandom.com/wiki/Dapple-Horned_Besul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, The Children of Navae]
@@ -40,7 +40,7 @@ Dapple-Horned Besul is found sitting on a rock with a blanket located at [Meteor
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*A Gremor woman with dappled horns sits atop a blanket, overlooking Meteor Isle. She wears exquisitely-made fur armour, and her arms are covered in nomadic tattoos.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] ...Ah. A homelander. Welcome to Meteor Isle. My people call me Dapple-Horned Besul. What brings you here?</td>
+  <td><i>*A Gremor woman with dappled horns sits atop a blanket, overlooking Meteor Isle. She wears exquisitely-made fur armour, and her arms are covered in nomadic tattoos.</i> ...Ah. A homelander. Welcome to Meteor Isle. My people call me Dapple-Horned Besul. What brings you here?</td>
 </tr>
 <tr>
   <td>I'm just passing by. Are you in charge around here?</td>
@@ -52,7 +52,7 @@ Dapple-Horned Besul is found sitting on a rock with a blanket located at [Meteor
   <td>You're Children of Navae, right? I thought your people tend to be... nomadic?</td>
 </tr>
 <tr>
-  <td><i>Besul sighs softly.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] We tend to be, indeed. But the hand of my kin has been forced. The <a href="Glossary.md#the-central-authority">Central Authority</a> moves ever eastwards, and their march of fire and ash seeks to push us out of the lands in which we dwell, as our ancestors have... Six years ago they came to the East, and we have not known peace since. And five years since, we have decided that enough is enough. We will run no longer.</td>
+  <td><i>Besul sighs softly.</i> We tend to be, indeed. But the hand of my kin has been forced. The <a href="Glossary.md#the-central-authority">Central Authority</a> moves ever eastwards, and their march of fire and ash seeks to push us out of the lands in which we dwell, as our ancestors have... Six years ago they came to the East, and we have not known peace since. And five years since, we have decided that enough is enough. We will run no longer.</td>
 </tr>
 <tr>
   <td>You settled here to escape the Central Authority?</td>

@@ -1,6 +1,6 @@
 ---
 title: Emil
-revid: 191416
+revid: 195424
 source: https://deepwoken.fandom.com/wiki/Emil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Quests]

@@ -1,6 +1,6 @@
 ---
 title: Evengardes Keepsake
-revid: 185573
+revid: 195392
 source: https://deepwoken.fandom.com/wiki/Evengardes_Keepsake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | The Depths, Minityrsa |
-| description | Gain 'chain of perfection' |
+| description | Gain 'chain of perfection' [sic] |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -29,4 +29,4 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**[Evengardes](Evengarde_Rest.md) Keepsake** is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that gives the user the [Chain of Perfection](Talents.md#chain-of-perfection) Talent.
+Evengardes Keepsake \[_[sic](https://en.wikipedia.org/wiki/sic)_\] is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that gives the user the [Chain of Perfection](Talents.md#chain-of-perfection) Talent.

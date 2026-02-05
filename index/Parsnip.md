@@ -1,9 +1,9 @@
 ---
 title: Parsnip
-revid: 191581
+revid: 195416
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Parsnip
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Parsnip is a [Celtor](Celtor.md) who works for the [Ignition Union](The_Ignition_Union.md). When speaking to him he gives a brief summary of what to expect when entering the upper levels of [Miner's Landing](<Miner's_Landing.md>)
+Parsnip is a [Celtor](Celtor.md) NPC. They work for the [Ignition Union](The_Ignition_Union.md).
 
 He is wearing the [Duelist's Attire](<Duelist's_Attire.md>) outfit.
 

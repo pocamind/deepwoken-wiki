@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 195317
+revid: 195445
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -63,4 +63,3 @@ The cooldown for both criticals is **10 seconds**.
 -   The creator of the Bloodfouler is likely an Etrean due to the Ministry's ties with Etrea, as well as the weapon's shape being derived from Etrean make.
 -   It does not change appearance with Alloyblood.
 -   Despite coming with a sheathe, the [Poser's Ring](<Poser's_Ring.md>) does not work with it and nor does the Paired Soul Talent from the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) [Outfits](Outfits.md).
--   The weapon is likely a reference to [Rakshasa's Great Katana](<https://eldenring.wiki.fextralife.com/Rakshasa's+Great+Katana>) from Elden Ring Shadow of the Erdtree.

@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Plate
-revid: 189896
+revid: 195442
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -31,6 +31,8 @@ Grand Authority Set
 ## Description
 
 The Grand Authority Plate is an [Equipment](Equipment.md) item under the "Arms" category.
+
+The Grand Authority Plate, along with the [Grand Authority Sabatons](Grand_Authority_Sabatons.md), is part of the Grand Authority Set.
 
 The [Heavy Haul](Talents.md#heavy-haul) Talent slows down enemies when they carry your knocked body.
 

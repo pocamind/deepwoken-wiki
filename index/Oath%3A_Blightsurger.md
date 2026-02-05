@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 195160
+revid: 195374
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -49,9 +49,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 ― Titus, Fulminus Destellus
 
   
-Blightsurger draws most of its power from Sacred Lightning, a result of [Galebreathe](Galebreathe.md) and [Thundercall](Thundercall.md) combining. [Titus](Titus_Fulminus_Destellus.md), is one of its users and trainer of the power, who used it alongside the 49th Legion - which he was the leader of - to conquer a majority of the Western Luminant in the name of The Empire. He was then forced to surrender himself to [The Central Authority](The_Central_Authority.md) for the sake of strategy. It has since been ages since he has been surrendered, and Titus himself has recently began showing doubt in the cause he worked oh-so-hard for.
-
-However, the memento [Theros Disciple](Theros_Disciple.md) reveals that Titus is not the inventor of the Oath, but rather Theros themselves as the First Blightsurger.
+Blightsurger draws most of its power from Sacred Lightning. It was invented by [Theros](Theros.md). [Titus](Titus_Fulminus_Destellus.md), is one of its users and trainer of the power, who used it alongside the 49th Legion - which he was the leader of - to conquer a majority of the Western Luminant in the name of The Empire.
 
 ## Obtainment
 

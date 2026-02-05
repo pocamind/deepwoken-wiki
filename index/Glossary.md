@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 194833
+revid: 195414
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -402,7 +402,7 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Gloss
 -   The discovery of the Song and the ensuing research into its applications is said to have precipitated the [Canticlysm](#the-canticlysm) — the so-called 'Golden Age of Mankind'.
 -   Before its discovery, few within [Lumen](#lumen) could perceive its tones. Now, it is inescapable. The Song is everywhere, like an earworm that lingers at the back of your mind, always ready to spring into action and play its tones once more.
 -   The Song is not strictly music — it's not composed of sounds, or even words that can be pronounced by humans. However, much of the terminology surrounding the Song is musical in nature due to its striking similarities.
--   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilisation \[_[sic](https://en.wikipedia.org/wiki/sic)_\]. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
+-   Many believe that the Song was responsible for the advent of the [Tides](#the-tides), and of the resulting collapse of civilisation. In spite of the dangers many believe are presented by the Song, it has become a necessity for survival in a Post-Tidal world due to the power it grants.
 
 Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Kaide](Kaide,_the_Drowned_Light.md), [Kelsius](Kelsius.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Leaf Spellhardt](Leaf_Spellhardt.md), [Nimea](Nimea.md), [Regek](Regek.md), [Sibex](Sibex.md), [The Dreadstar](The_Dreadstar.md) | Books: [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>), [Our Fortress (Of Smoke And Steel)](<Our_Fortress_(Of_Smoke_And_Steel).md>), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md), [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md) | Glossary Entries: [Amorus Pleeksty](#amorus-pleeksty), [Deepwoken](#deepwoken), [Flamecharm](#flamecharm), [Lightkeep](#lightkeep), \[#Lifeweave / Lifewoven|Lifeweave / Lifewoven\]\], [Mantra](#mantra), [Oaths](#oaths), [Radiant Tones](#radiant-tones), [Talent](#talent), [The Canticlysm](#the-canticlysm), [The Celestials](#the-celestials), [The Drowned Gods](#the-drowned-gods), [Vows](#vows)
 
