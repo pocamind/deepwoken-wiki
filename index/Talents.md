@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195472
+revid: 195484
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3463,6 +3463,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The [Celtor Commander Helm](Celtor_Commander_Helm.md) equipment has this Talent.
 
 -   Magical Resolve \[Common Talent, Willpower\] - Being hit increases [Ether](Ether.md) regen for a short duration, the strength of the regen scales off your Willpower. (+7 Sanity)
+    -   Does not work on self damage.
     -   Prerequisites: 40 Willpower, Battle Tendency
 
 -   Unfazed \[Common Talent, Fortitude, Willpower\] - You are more resilient to the side effects of going insane. You no longer Shiver and you Panic with less severity.
