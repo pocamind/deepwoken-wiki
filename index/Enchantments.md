@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 194017
+revid: 195452
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1998,7 +1998,7 @@ Erebus Enchant Stone can be a potential reward from winning an event hosted by A
 
 [View main page](<JOE's.md>)
 
-[Enchant JOE's](<JOE's.md>)
+[JOE](<JOE's.md>)
 
 _It stands for Judicator's Original Enchantment. An enchant that was supposed to be only for the strongest of monster slayers. No one knows what happened to the original Judicator who made this enchant._
 
