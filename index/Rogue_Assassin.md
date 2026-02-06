@@ -1,6 +1,6 @@
 ---
 title: Rogue Assassin
-revid: 192632
+revid: 195471
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -665,7 +665,8 @@ N/A
 
 -   Double Jump \[Memento Talent\] - Take the Wind Step and refine it into your own technique, reducing the cooldown and improving its efficiency.
     
-    -   This Talent is currently bugged, likely due to this Memento not having the Wind Step Talent.
+    -   Reduces [Wind Step](Talents.md#wind-step)'s cooldown to 5 seconds and reduces the Ether cost.
+    -   Because this Memento does not have Wind Step innately, you will have to gain it through the [Gale Boots](Gale_Boots.md).
 
 -   Ambush \[Memento Talent\] - When coming out of Tacet, gain a 30% damage boost for 5 seconds.
 

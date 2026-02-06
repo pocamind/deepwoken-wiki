@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 194536
+revid: 195481
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -39,13 +39,14 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 
 The **Quartztone Pickaxe** is a rare, previously exclusive Greataxe resembling a pickaxe. It's the only weapon alongside the [Boltcrusher](Boltcrusher.md) that can be used to mine ores; it also mines them faster.
 
-This weapon comes with a passive ability:
+This weapon comes with two passive abilities:
 
--   **Mining Sufficient** - The weapon is capable of mining [Ores](Ores.md), and with greater efficiency.
+-   **Mining Sufficient** **\-** The Quartztone Pickaxe is capable of mining [Ores](Ores.md), and with greater efficiency.
+-   **Maximum Tuning -** Using criticals cost Ether, and cannot be used without a sufficient amount.
 
 ## Critical
 
-The Quartztone Pickaxe has two critical attacks. Using both criticals require Ether.
+The Quartztone Pickaxe has two critical attacks.
 
 For the standing critical, the user shines the pickaxe and spins it, then causing a blast in the ground that ragdolls and sends the opponents backwards. Deals 1.15x your weapon's scaled damage.
 

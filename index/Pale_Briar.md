@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 195332
+revid: 195470
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations]
@@ -37,18 +37,15 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 
 ## Description
 
-The **Pale Briar** is a Greataxe that is obtained by beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Heavy Weapon. It is one of the three guaranteed drops from him, with the others being the [Purple Cloud](Purple_Cloud.md) and the [Cerulean Thread](Cerulean_Thread.md).
-
-Its base damage is 23, and at 100 HVY, it deals 35.9 damage. All Greataxe Talents work on this, and the critical attack of the weapon is a barrage of light that locks on and tracks the first person hit. It is a multi-hit attack that deals 6 hits in total. This makes the weapon great for stunning and multi hit attacks, while also dealing a fairly good amount of damage
-
-Uniquely to it, each hits of the critical attack can trigger enchant stacks, instead of being limited to the usual 1 stack per multi hit use, this makes enchants such as Grim, Detonation, Chilling, and Ysley's Ember significantly stronger, however, enchants like Astral only proc once during the critical.
+The **Pale Briar** is a Greataxe that is obtained by beating [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) with a Heavy Weapon. It is one of the 3 drops that is guaranteed from Maestro if you fight him with a specific weapon type(Guaranteed the first time, becomes a low drop rate in any later attempts), with the others being the [Purple Cloud](Purple_Cloud.md)(MED) and the [Cerulean Thread](Cerulean_Thread.md)(LHT).
 
 ## Critical
 
 pale briar crit
 
   
-The user chants their weapon, summoning a shower of light that rapidly damages opponents and grows in size over time. The critical is sent towards the location of the user's cursor, but will always track to the nearest opponent.
+
+The user chants their weapon, summoning a shower of light that rapidly damages opponents and grows in size over time, totalling up to six times. The damage will gradually decrease per tick. The critical is sent towards the location of the user's cursor, but will always track to the nearest target.
 
 The critical has a cooldown of **10 seconds**.
 
@@ -60,3 +57,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   The critical attack will be casted to your cursor's direction while not in Shift Lock mode.
 -   The caster of the critical attack is unable to cast mantras while it is up.
     -   Before the 06/15/2024 update, this was possible, leading to many cheese tactics involving the weapon.
+
+-   Meeting the minimum requirement of HVY, the damage is (23)
+    -   At max HVY, the damage is (35.9)
+-   Unique to it, each hit of the critical attack can trigger enchant stacks, instead of being limited to the usual 1 stack per multi hit use. This makes enchants such as Grim, Detonation and Chilling significantly stronger. However, enchants like Astral and Ysley's Ember only proc once during the critical.

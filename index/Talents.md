@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195390
+revid: 195472
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4997,7 +4997,8 @@ Talents granted from your [Aspect](Aspects.md). You will additionally gain the [
 
 -   Double Jump \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Take the Wind Step and refine it into your own technique, reducing the cooldown and improving its efficiency.
     
-    -   This Talent is currently bugged, likely due to this Memento not having the Wind Step Talent.
+    -   Reduces Wind Step's cooldown to 5 seconds and reduces the Ether cost.
+    -   Because this Memento does not have Wind Step innately, you will have to gain it through the [Gale Boots](Gale_Boots.md).
     -   Prerequisites: [Rogue Assassin](Rogue_Assassin.md) Memento, defeat [Dravik, The Rat King](Dravik,_The_Rat_King.md)
 
 -   Fatal Backstab \[Memento Talent, [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Weapon backstabs deal an extra 5 true damage on your opponent (20 extra damage if done to PvE).

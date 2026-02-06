@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 195452
+revid: 195483
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -153,11 +153,11 @@ _After landing a few stacks of Bluster, start a countdown to an explosion that s
 
 **Effect:**
 
-After landing (LHT: 5, MED: 4, HVY: 3) hits, a 10 second countdown will start, ticking down to an explosion. Land additional weapon attacks during the countdown to lower the delay.
+After landing (LHT: 5, MED: 4, HVY: 3) hits, a 10 second countdown will start, ticking down to an explosion. Landing weapon attacks during the countdown will reduce the countdown's duration by 1 second.
+
+This explosion has a base damage of 27.5, gaining 0.25 damage per 1 weapon investment, up to 52.5 at 100 weapon. This deals typeless damage.
 
 This explosion is parriable and blockable, dealing 10 posture damage on block.
-
-This explosion has a base damage of 27.5, dealt as typeless damage. This scales on your weapon attribute investment.
 
 **Obtainment:**
 
@@ -1788,7 +1788,7 @@ Multiplicity [Enchant Grease](Enchant_Grease.md):
  |
 | 
 
-**[Rain (enchantment)](<Rain_(enchantment).md>)**
+**[Rain](<Rain_(enchantment).md>)**
 
 [View main page](<Rain_(enchantment).md>)
 
@@ -2023,7 +2023,7 @@ JOE's Enchant Stone can be a potential reward from winning an event hosted by Ag
  |
 | 
 
-**[Life Weave (enchantment)](<Life_Weave_(enchantment).md>)**
+**[Life Weave](<Life_Weave_(enchantment).md>)**
 
 [View main page](<Life_Weave_(enchantment).md>)
 

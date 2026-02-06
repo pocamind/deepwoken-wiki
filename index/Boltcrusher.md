@@ -1,6 +1,6 @@
 ---
 title: Boltcrusher
-revid: 195071
+revid: 195480
 source: https://deepwoken.fandom.com/wiki/Boltcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Greathammers, The Ignition Union, "Attunement-based Weapons", Heavy Weapons, Weapons with multiple Criticals]
@@ -22,7 +22,7 @@ categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, "Weapons
 | endlag | 0.15s |
 | penetration | 20% |
 | chip damage | 5% |
-| special effect | Applies Sapped on criticalApplies Shock/Surge stacks on hitCan mine ores |
+| special effect | Applies Shock/Surge stacks on hitCan mine ores |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
@@ -47,16 +47,15 @@ The Boltcrusher is obtained as a guaranteed drop from [Finnegan The Lost](Finneg
 The Boltcrusher comes with three passive abilities:
 
 -   **Powered By A Spark** - Every basic attack will apply Shocked or Surge stacks.
--   **Overcurrent** - Every critical will apply Sapped.
--   **Mining Sufficient** - The weapon is capable of mining [Ores](Ores.md), and with greater efficiency.
+-   **Mining Sufficient** - The Boltcrusher is capable of mining [Ores](Ores.md), and with greater efficiency.
 
 ## Critical
 
 The Boltcrusher has two criticals.
 
-For the standing critical, the user reels back the weapon, drilling into them before spinning around and clobbering the enemy with the hammerhead side of the weapon.
+For the standing critical, the user reels back the weapon, drilling into them before spinning around and clobbering the enemy with the hammerhead side of the weapon, applying Sapped to the target.
 
-For the running critical, The user lifts the Boltcrusher up above their head before slamming it into the ground using the hammerhead side, creating a shockwave of lightning.
+For the running critical, The user lifts the Boltcrusher up above their head before slamming it into the ground using the hammerhead side, creating a shockwave of lightning, applying Sapped to the target.
 
 Both the running and the standing version share a cooldown of **10 seconds**. This cooldown is decreased to **8 seconds** if the user has the [Warmaster Medallion](<Warmaster's_Medallion.md>) equipped.
 

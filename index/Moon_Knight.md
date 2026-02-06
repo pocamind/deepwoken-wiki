@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 192052
+revid: 195477
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -18,7 +18,7 @@ categories: [Monsters, Knights]
 
 ## **Description**
 
-Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that has a chance of dropping the Astral Enchant Stone in addition to sought-after items like the [Moonseye Tome](Moonseye_Tome.md) and [Soulthorn](Soulthorn.md). Knights will respawn every 2 minutes.
+Moon Knights are monsters that spawn exclusively on [Moon's Eyrie](<Moon's_Eyrie.md>). They are similar to other [Stone Knight](Stone_Knight.md) variants, but with a black torso hole and a Moonseye aura. They have only a _**chance**_ to drop an Astral Enchant Stone upon death unlike their [Star Knight](Star_Knight.md) counterpart. Knights spawned within the catacombs of the Eyrie will drop a chest that has a chance of dropping the Astral Enchant Stone in addition to sought-after items like the [Moonseye Tome](Moonseye_Tome.md) and [Soulthorn](Soulthorn.md). **Knights will respawn every 2 minutes.**
 
 Some Moon Knights may spawn clipped inside of a rock near the center of the island. Getting it to kick can help clip it out.
 
@@ -77,7 +77,7 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 #### Passives
 
--   **Slash Resistance -** Has 55% Slash Resistance.
+-   **Celestial Stone -** Has 55% Slash Resistance.
 -   **Artificial Construct -** Bloodless Gems do not work against Moon Knights.
 
 ## Tips
@@ -90,3 +90,4 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 -   Moon Knights are recolored Star Knights.
 -   The [Star Knight](Star_Knight.md) is probably the newer and stronger design of the Moon Knight, which is why the Star Knights protect the Resonant Dawn meteor while the Moon Knights stay on their home island.
+-   Strangely, the Moon Knight has more HP than the Star Knight.

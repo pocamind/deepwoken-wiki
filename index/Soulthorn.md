@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 195158
+revid: 195479
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -20,7 +20,7 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 | swing speed | 1.02x |
 | attack duration | 0.6s |
 | chip damage | 30% |
-| special effect | Every M1 applies a soul stack to the target, capping at 3 stacks. |
+| special effect | Every M1 applies a Soul Mark to the target, capping at 3 stacks. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -38,11 +38,13 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 
 The Soulthorn is a Legendary Weapon that can be obtained from the chest dropped by the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance. It can also be obtained rarely from any sea event in the [Voidsea](Voidsea.md) and directly dropped from the [Semblance](Semblance.md) mob.
 
+-   **Chaotic Wailing -** Each basic attack applies a Soul Mark to the target, which caps up to 3. The amount of Soul Marks affect the critical.
+
 ## Critical
 
-The Soulthorn has three critical variants which depend on the amount of soul stacks on an opponent.
+The Soulthorn has three critical variants which depend on the amount of Soul Marks on an opponent.
 
-Every M1 of Soulthorn that connects applies a soul stack. Up to three soul stacks can be applied. At three stacks, the opponent will have a rotating, star-like aura.
+Every M1 of Soulthorn that connects applies a Soul Mark. Up to three Soul Marks can be applied. At three stacks, the opponent will have a rotating, star-like aura.
 
 At 0 stacks, the sword glows and emits particle effects, and does nothing.
 

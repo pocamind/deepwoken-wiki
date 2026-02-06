@@ -1,6 +1,6 @@
 ---
 title: Gale Boots
-revid: 189990
+revid: 195473
 source: https://deepwoken.fandom.com/wiki/Gale_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
@@ -33,3 +33,7 @@ This content is not accessible outside of this gamemode.
 Gale Boots are an [Equipment](Equipment.md) item under the "**Legs**" category.
 
 The [Wind Step](Talents.md#wind-step) Talent allows you to double jump by placing the winds at your feet. Slide jumping will cause a wind leap, greatly propelling you forwards. The [Gale Boots](Talents.md#gale-boots) Talent halves all fall damage taken.
+
+## Trivia
+
+-   The [Rogue Assassin](Rogue_Assassin.md) Memento has a Talent that augments the Wind Step Talent, reducing its cooldown and its Ether cost, but because Rogue Assassin does not gain Wind Step at any point, you are required to wear these boots if you wish for the Talent to function.

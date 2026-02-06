@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 195324
+revid: 195478
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -58,4 +58,3 @@ Master Hawk's Handaxe uses the default Greataxe critical, an overhead swing. It 
 
 -   Meeting the requirement of HVY, the damage is (38.3)
 -   At max HVY, the damage is (42.9)
--   After the update of 10/24/2022, the swing speed of this weapon increased to 0.6, the average swing speed of all heavy weapons. Along with no endlag, this made the Master Hawk's Handaxe an extremely viable weapon, dealing more damage than the [Enforcer's Blade](<Enforcer's_Blade.md>) (0.59), perhaps up on the list of the best PVP heavy weapons to date.
