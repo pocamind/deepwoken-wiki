@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 190338
+revid: 195504
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -45,8 +45,8 @@ These Boons can be chosen at character creation with no requirements for obtainm
   <td><b>Gourmet</b><br>
   </td>
   <td>Foods are much more nutritional.</td>
-  <td>Grants a 50% increase on Stomach and Thirst gain when consuming food.</td>
-  <td>N/A</td>
+  <td>Grants a 50% increase to Stomach and Thirst gain from consuming food.</td>
+  <td>Having this alongside the <a href="Talents.md#gourmand">Gourmand</a> Talent will increase the Stomach and Thirst gain when eating food by 80%.</td>
   <td>1 Flaw Point</td>
 </tr>
 <tr>

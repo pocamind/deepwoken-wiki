@@ -1,6 +1,6 @@
 ---
 title: "Master Hawk's Handaxe"
-revid: 195478
+revid: 195501
 source: https://deepwoken.fandom.com/wiki/Master_Hawk's_Handaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -35,7 +35,7 @@ categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Starswept Valley, Saramaed Hollow, Minityrsa, Etris: Siege, Merchant Ships, The Aratel Sea |
+| obtainment | Starswept Valley, Saramaed Hollow, Minityrsa, Etris: Siege, Chime of Conflict, Merchant Ships, The Aratel Sea |
 | description | ... |
 
 ## Description

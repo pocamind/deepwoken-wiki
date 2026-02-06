@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 193504
+revid: 195496
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -53,7 +53,7 @@ The critical attack is an instant guard break, hits 5 times in total and has a c
 
 Everyone hit by the critical will get teleported in front of the user. The critical is able to proc [Meteor Impact](https://deepwoken.fandom.com/wiki/Talents#:~:text=Falling%20Star%20Guard-,Meteor%20Impact,-%5BCommon%20Talent%2C%20Flamecharm).
 
-The critical freezes the opponent on successful hit, with Glass Path: Crystallization, apply crystals instead. (BUGGED)
+The critical freezes the opponent on successful hit, with Glass Path: Crystallization, apply 5 crystals instead.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: "JOE's"
-revid: 195451
+revid: 195494
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -22,7 +22,7 @@ notices:
 
 JOE's is an **unobtainable** stunning enchantment that can stop time briefly.
 
-This enchantment changes your weapon's color to a glowing white with cackling black and white lightning emanating from it.
+This enchantment changes your weapon's color to a glowing white with slow-moving black and white particles emanating from it.
 
 ## Effect
 

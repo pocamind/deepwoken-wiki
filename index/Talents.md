@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195484
+revid: 195503
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -185,7 +185,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   [Burn](Status_Effects.md#burn) and self damage do not proc Everchanging Aegis.
     -   The damage type you become resistant to is indicated by a colored shield, continuous damage of the same element will give a colored outline of the damage type.
         -   Flamecharm: Orange / Frostdraw: Blue / Thundercall: Yellow / Galebreathe: Green / Shadowcast: Purple / Ironsing: Grey / Bloodrend: Red
-    -   Does not effect Oath, Attunement-less, or Monster mantras.
+    -   Does not affect attacks that do not deal elemental damage.
     -   Prerequisite: 25 Intelligence
 
 -   _**Neural Overload**_ \[Advanced Talent, Intelligence\] - You can input up to 4 copies of each Mantra ingredient instead of being limited to 3.
@@ -1304,6 +1304,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: Keen Recovery, 40 Agility, 70 Intelligence
 
 -   Unwavering Focus \[Common Talent, Strength, Intelligence\] - When your mantras are parried, receive less posture (scales with intelligence).
+    -   Grants 0.3% posture resistance per point in Intelligence, capping at +21% at 70 Intelligence.
     -   Prerequisites: 60 Intelligence, 10 Strength
 
 ### Evil Endeavors
@@ -4114,7 +4115,9 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
     -   Prerequisites: [Power](Power.md) 16, Obtain resonance
 
--   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating increased. (+2 Carry Load, +1 Posture)
+-   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating is increased. (+2 Carry Load, +1 Posture)
+    -   Increases hunger and thirst gain by 20%.
+    -   Having this alongside the [Gourmet](Boons_and_Flaws.md#gourmet) Boon increases the hunger and thirst gain from eating by 80%.
     -   Prerequisite: [Power](Power.md) 5
     -   The [Chef's Toque](<Chef's_Toque.md>) equipment has this Talent.
 
