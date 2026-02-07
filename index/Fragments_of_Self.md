@@ -1,6 +1,6 @@
 ---
 title: Fragments of Self
-revid: 186018
+revid: 195512
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, Death, The Depths]
@@ -52,6 +52,10 @@ The Echoes section shows how much echoes you earned, and the Rank Based on it. R
 
 The Captain, otherwise known as Captain Orlandeau, is located on the stone arch to the right of the player. He's a dark-skinned, translucent [Felinor](Felinor.md) wearing a [Brigand's Bicorn](<Brigand's_Bicorn.md>). Talking to him allows you to replay the [Tutorial](Tutorial.md) and forces you to start with the [Castaway](Castaway.md) Origin.
 
+## Gallery
+
+Trying to get to Fragments of Self
+
 ## Trivia
 
 -   The music for this area is [The End.](Deepwoken_OST.md#the-end) by Naktigonis
@@ -67,3 +71,4 @@ The Captain, otherwise known as Captain Orlandeau, is located on the stone arch 
 -   If you died during [Hell Mode](Hell_Mode.md), the red screen tint stays, although this is most likely a bug.
 -   It is actually possible to chop down the trees around the area if you have a [Lumber Axe](Lumber_Axe.md).
 -   You can hypothetically save somebody from the fragments by headstacking, but it has only ever been done once and headstacking has since been made harder.
+-   When you try to get up to The Fragments of Self by yourself when you haven't wiped yet, Yun'shul interrupts you, saying "INCONCEVABLE." and disabling everything and stuns(?) for a moment, resulting player to fall down. [https://www.youtube.com/watch?v=AxPpST6d3eY](https://www.youtube.com/watch?v=AxPpST6d3eY)
