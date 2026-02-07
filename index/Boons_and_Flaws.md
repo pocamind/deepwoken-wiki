@@ -1,6 +1,6 @@
 ---
 title: Boons and Flaws
-revid: 195504
+revid: 195524
 source: https://deepwoken.fandom.com/wiki/Boons_and_Flaws
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Character, Creation, Features absent in Vow of Iron]
@@ -78,7 +78,7 @@ These Boons can be chosen at character creation with no requirements for obtainm
   </td>
   <td>Your armor retains more durability when attacked.</td>
   <td>Reduces the amount of armor durability lost from being hit by 25%.</td>
-  <td>Stacks multiplicatively with the <a href="Armorer's_Ring.md">Armorer's Ring</a> effect.</td>
+  <td>Stacks multiplicatively with other armor durability damage reduction sources like <a href="Talents.md#armor-conserver">Armor Conserver</a> and the <a href="Armorer's_Ring.md">Armorer's Ring</a>.</td>
   <td>1 Flaw Point</td>
 </tr>
 <tr>
