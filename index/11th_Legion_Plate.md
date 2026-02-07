@@ -1,6 +1,6 @@
 ---
 title: 11th Legion Plate
-revid: 194638
+revid: 195516
 source: https://deepwoken.fandom.com/wiki/11th_Legion_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits, The Hundred Legions]
@@ -12,7 +12,7 @@ categories: [Outfits, Adept Outfits, The Hundred Legions]
 |---|---|
 | caption | Armor of the 11th Scouting Legion. Akilles brought them here some time ago to observe the coming conflict in the East. |
 | tier | Adept |
-| crafting_req | x5 Cloth, x5 Fiber, x2 Gold, x10 Iron |
+| crafting_req | x5 Cloth, x5 Fiber, x10 Iron |
 | price | 100 |
 | stat_req | Power 5, 10 Fortitude |
 | bankable | Yes |
@@ -30,7 +30,7 @@ categories: [Outfits, Adept Outfits, The Hundred Legions]
 
 ### _Requirements_
 
-This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), two (2) [Gold](Ores.md#gold), and ten (10) [Iron](Ores.md#iron) to craft.
+This Outfit costs 100 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md) and ten (10) [Iron](Ores.md#iron) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 10 [Fortitude](Attributes.md#ftd) to be crafted.
 

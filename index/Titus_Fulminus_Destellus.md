@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 195514
+revid: 195520
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -504,12 +504,10 @@ This dialogue is unlocked if the player meets the requirements for [Oath: Blight
 
 ## Trivia
 
--   ~Titus' middle and last names, "Fulminus Destellus" means "Starlight Lightning" in Latin, mirroring the origins of where he earned his name.~
-    -   Titus' name is actually a little fudged, neither "Fulminus" nor "Destellus" exist within classical Latin literature as words, and instead appear to be loosely based off of existing Latin root words and existing agnomen/victory titles of famous Roman generals.
-        -   "Destellus" appears to be based on the Latin "Stella (noun for "Star")" or "Stellare (verb for, roughly, "to cover with stars"). The problem is "Stella" is a feminine word (hence the -a ending) and it doesn't make sense to add a masculine -us to the end of it. Stellare is a verb, so it doesn't decline the same way as a proper noun like "Titus." You could turn it into a participle to effectively turn it into an adjective, e.g. literally "Titus the starry" or more poetically "Titus the star-studded/star covered", but then his name would be "Titus Stellatus", dropping the proposition de and slightly modifying the ending.
-            -   A more generous (and probably lore-accurate) interpretation would be to assume that in the legion's language, Starswept Aratel's name is something like "Destella" or "Destellia". If you stretch the spelling a bit, "Titus Destellus" would then mean "Titus of Destella/Destellia" or "Titus conqueror of Destella/Destellia", similar to the real-life "Scipio Africanus." That said, in classical Latin you'd expect the spelling of the name to be "Titus Destellanus" or "Destellicus" respectively, but what can you do?
-        -   The "Fulminus" part is a harder to interpret, and has similar problems as "Destellus." Based on Titus' dialogue (and oath), it's likely a reference to the Latin verb "fulminare," literally "to cause/strike like lightning" but more poetically it could mean "thundering." If you do the same trick as "Stellatus" above with "Titus Fulminatus", you'd imply "Titus, the lightning-struck/blasted one." so a better alternative might be "Titus Fulminans" for something along the lines of "Titus the thundering/lightning-hurling" for a better Latin approximation.
-        -   And of course, "Titus Juventius" is somewhat close to what an actual Latin name could be, signifying "Titus the young (adult)," but the more classically accurate name would be "Titus Iuvenis" or "Juvenis" (Romans didn't have a letter "j", using "iu" (written "IV") instead).
+-   Titus' name is actually a little fudged, neither "Fulminus" nor "Destellus" exist within classical Latin literature as words, and instead appear to be loosely based off of existing Latin root words and existing agnomen/victory titles of famous Roman generals.
+    -   The name Destellus is based on the Latin word destellar, a verb meaning "to sparkle" or "to twinkle", deriving further from stella, the noun for star, or stellare, a verb for, roughly, "to cover with stars".
+    -   The other name, Fulminus, likely references the Latin verb "fulminare," literally "to cause/strike like lightning" but more poetically it could mean "thundering".
+    -   And of course, "Titus Juventius" is somewhat close to what an actual Latin name could be, signifying "Titus the young (adult)," but the more classically accurate name would be "Titus Iuvenis" or "Juvenis", given that it is an alternate spelling of the former.
 -   Titus uses a unique variant of the [Chorus Divide](Chorus_Divide.md) [Resonance](Resonance.md), which is combined with [Wind-Up's](Wind-Up.md) blasts per hit.
 -   The placeholder name "Franky Strabes" will appear on Titus' combat tag.
 -   The theme that plays during his fight is [Chainbreaker](Deepwoken_OST.md#chainbreaker).
