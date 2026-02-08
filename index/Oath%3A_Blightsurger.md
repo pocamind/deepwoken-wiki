@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 195658
+revid: 195668
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -156,6 +156,8 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 
 ## Trivia
 
+-   If you speak to [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) while meeting Blightsurger's requirements and chose the correct dialogue options, you can still obtain the Oath even if you don't meet its requirements afterwards.
+    -   For example, if you use [Shrine of Order](Deep_Shrines/Shrine_of_Order.md) or [Shrine of Mastery](Deep_Shrines/Shrine_of_Mastery.md) to lower your stats below Blightsurger's requirements or lose [Hundred Legions](The_Hundred_Legions.md) reputation, you will still obtain Blightsurger upon speaking to [Brutus](Brutus.md).
 -   If you are an [Authority Ensign](Authority_Ensign.md), you will not be able to obtain this Oath unless you are a [Khan](Khan.md) or have the [Celebrity](Talents.md#celebrity) Talent, due to your reputation capping before you meet the Oath's reputation requirement otherwise.
 -   You cannot skip Blightsurger's Oath progression with Knowledge. Attempting to do so will result in [Brutus](Brutus.md) beating you up, with him stating: "Should've listened. _No shortcuts_." This is because, for some reason, doing so would leave Dexerius unable to give the Oath buffs, somehow, for unknown reasons.[\[1\]](#cite-note-1)
 -   This is Dexerius' fourth Oath. His other works are [Saintsworn](Oath%253A_Saintsworn.md), [Arcwarder](Oath%253A_Arcwarder.md), and [Visionshaper](Oath%253A_Visionshaper.md).

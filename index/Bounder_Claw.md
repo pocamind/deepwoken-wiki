@@ -1,6 +1,6 @@
 ---
 title: Bounder Claw
-revid: 192663
+revid: 195666
 source: https://deepwoken.fandom.com/wiki/Bounder_Claw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Drops]

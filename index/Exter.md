@@ -1,9 +1,9 @@
 ---
 title: Exter
-revid: 191427
+revid: 195664
 source: https://deepwoken.fandom.com/wiki/Exter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
+categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
 ---
 
 # Exter
@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Exter is a [Gremor](Gremor.md) NPC, he is a resident at [Meteor Isle](Meteor_Isle.md).
+Exter is a [Gremor](Gremor.md) NPC. They are a resident of [Meteor Isle](Meteor_Isle.md).
 
 ## Location
 
