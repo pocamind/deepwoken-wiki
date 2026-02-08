@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 193232
+revid: 195618
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -27,7 +27,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 
   
 
-## **January 18th, 2026 | pv\_JAN\_19\_07:28a**
+## **January 18th, 2026 | pv\_JAN\_21\_00:43a**
 
 **Pathfinder Progression Enhanced**  
 💡 Added a journal button to view your 'Talent Deck' in Pathfinder. Your Deck represents all of the talents you are currently able to receive in talent hands, eliminating the requirement of using 3rd party tools to actually figure out what cards will show up in your hands  
@@ -182,6 +182,21 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 **Hotchanges**  
 🔧 Gliders are now a lot more smooth and have damping on their velocity/direction changes  
 🩹 Fixed Foretelling not working for Deep Shrine chances
+
+### _**Patch 2.5.4b**_
+
+**Hotfixes**  
+🩹 Fixed Blood Hemorrhage dealing more than 15% of PvE's health with chain of perfection  
+🩹 Fixed Flame Repulsion not getting buffed by Heartfire Gauge  
+🩹 Fixed Parasol falling through the map endlessly  
+🩹 Fixed client-sided character state processing sometimes failing to run, which would cause your character to spawn in permanently ragdolled  
+🩹 Fixed inns acting weirdly and not saving when you talked to an Innkeep  
+🩹 Fixed oath damage dealing less damage than intended (forgot to throw in patch notes)  
+🩹 Fixed the elevator connecting the Cathedral with Celtor sometimes not going back down after usage  
+🩹 Fixed using the lever to teleport to the Depths Trial dungeon not actually checking whether the player who engaged the lever is standing on the platform  
+🩹 Fixed getting the 'too many talents' message due to a quest talent erroneously not being marked as a quest talent  
+⏬ Chain of Perfection no longer multiplies the damage of attacks that are supposed to be unaffected by damage multipliers  
+🔧 In Vow of Iron, you no longer get healing from engaging the lever for teleporting to the Depths Trial dungeon. Instead, the healing is now applied when the trial commences within the dungeon, i. e. mobs spawn in. This healing now applies to all participants of the trial
 
 ## **January 2nd, 2026 | pv\_JAN\_03\_17:41a**
 

@@ -1,9 +1,9 @@
 ---
 title: Kyrsgarde Brute
-revid: 192053
+revid: 195616
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Layer 2, Floor 1, Monsters, Floor 2]
+categories: [Layer 2, Monsters, Floor 2]
 ---
 
 # Kyrsgarde Brute
@@ -30,7 +30,15 @@ An unusual deviation from the typical Kyrsgarde, the Kyrsgarde Brute is a blunt 
 **Clenching Assault**  
 (★★★)
 
- | The Kyrsan Brute will swing at it's opponent once before waiting for a short-duration and swinging at them again. If you are hit by this, the Kyrsan Brute will grab you and drill its arm into you for a few seconds, dealing rapid damage, before throwing you away.
+ | The Kyrsgarde Brute will swing it's arm at the player once before waiting for a short-duration and then swinging with it's other arm.
+
+-   Being hit by this attack will cause the Kyrsgarde Brute to drill its arm into you for a few seconds, dealing rapid damage, before throwing you away.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |
 | 
@@ -38,13 +46,19 @@ An unusual deviation from the typical Kyrsgarde, the Kyrsgarde Brute is a blunt 
 **Slam**  
 (★★☆)
 
- | It raises it's hands before crushing them onto the ground, dealing moderate damage to you.
+ | The Kyrsgarde Brute raises it's arms before crushing them into the ground, dealing moderate damage.
 
--   **THIS WILL INSTA-GRIP IF YOU ARE AT LOW HEALTH.**
+-   **This attack instantly executes the player if they are knocked unconscious or low enough health.**
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |
 
-## **Finisher**
+## Finisher'
 
 A Kyrsgarde Brute executes its opponent:
 

@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Brute
-revid: 192046
+revid: 195629
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -55,6 +55,12 @@ File:Mudskipper Brute Punch2.gif
 (★★☆)
 
  | Delivers a stronger, unparriable thrust with its fist.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  | 
 

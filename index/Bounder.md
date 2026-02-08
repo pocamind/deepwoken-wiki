@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 194442
+revid: 195612
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -39,6 +39,12 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 
  | The Bounder leaps either a long or a short distance towards their prey, slamming down to damage and disorientate them. Move out of the way to avoid this.
 
+_Uses Telegraph_
+
+[BlockTelegraph](Combat_Mechanics.md#blue)
+
+Block
+
  |
 | 
 
@@ -54,6 +60,12 @@ Bounders are comparatively harder to kill than most other monsters in the world 
 (★★★)
 
  | The Bounder lowers its head and continuously stomps its foot before charging in the direction of their prey, knocking them down and damaging them in the process.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |
 

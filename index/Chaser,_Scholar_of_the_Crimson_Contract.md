@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 194994
+revid: 195613
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, Voiced Characters]
@@ -56,9 +56,15 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
 **Powerful Blood Appendage**  
 (★★☆)
 
- | Chaser launches one appendage that rapidly targets a player; if it lands it will fling the player towards Chaser.
+ | Chaser launches an appendage that rapidly targets the player; if it lands it will fling the player towards Chaser.
 
 -   There is an indicator and the unparriable sound cue before the attack.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 194982
+revid: 195626
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -126,6 +126,12 @@ File:Bone Toss.gif
 
 -   If this hits, it will launch you into the air and do low damage, but makes the next hit guaranteed.
 -   In order to avoid this jump or roll through the spikes.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  | 
 

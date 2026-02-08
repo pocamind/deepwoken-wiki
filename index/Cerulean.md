@@ -1,6 +1,6 @@
 ---
 title: Cerulean
-revid: 191358
+revid: 195610
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -125,7 +125,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
   <td colspan="12">I vow to walk my own path. [Oath given]</td>
 </tr>
 <tr>
-  <td colspan="12">Then... it is done. My fourth disciple, you are now one of us; an Oathless, through and through. May your travels be everlasting.</td>
+  <td colspan="12">Then... It is done. My fourth disciple, you are now one of us; an Oathless, through and through. May your travels be everlasting.</td>
 </tr>
 <tr>
   <td colspan="12">End</td>
@@ -149,7 +149,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 </tbody>
 </table>
 
-**Random Dialogues:**
+**Other Dialogues:**
 
 <table>
 <tbody>
@@ -174,7 +174,7 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 </tr>
 <tr>
   <td colspan="9"></td>
-  <td colspan="3">TEMPLATE</td>
+  <td colspan="3">Very well. Disciple, do you wish to become Oathless, vowing to follow your own path</td>
 </tr>
 <tr>
   <td colspan="9"></td>

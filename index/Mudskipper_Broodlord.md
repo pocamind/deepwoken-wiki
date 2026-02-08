@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 192047
+revid: 195628
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -53,6 +53,12 @@ A far more powerful and dangerous variant of the [Mudskipper Brute](Mudskipper_B
 (★★☆)
 
  | Delivers a stronger, unparriable thrust with its rotten fist.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  | 
 

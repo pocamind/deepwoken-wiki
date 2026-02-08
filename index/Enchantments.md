@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 195528
+revid: 195633
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1905,7 +1905,7 @@ These Enchantments are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 [View main page](Ether_Surge.md)
 
-[Placeholder](Ether_Surge.md)
+File:Ether Surge.gif
 
 _Landing enough light attacks gives you infinite ether for some time._
 
