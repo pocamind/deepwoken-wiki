@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 194856
+revid: 195645
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -13031,7 +13031,7 @@ Pressing Y will change your stance, changing the way you wield your weapon.
     -   **Relic:** Functionally identical to Legendary Weapons, but are crafted instead of being dropped by a mob or quest. These will be treated as Legendary Weapons as they are functionally identical with only differing drop sources.
 -   **Boss Weapon:** Weapons that can only be obtained by killing certain [Bosses](Bosses.md).
 -   **Origin Weapon:** Weapons exclusive to a specific [Origin](Origins.md). These weapons often have unique obtainment methods.
--   **Ability-bound Weapons:** Weapons exclusive to an [Oath](Oaths.md) or [Resonance](Resonance.md).
+-   **Ability-bound Weapons:** Weapons gained from activating a specific ability. These weapons will replace your currently held weapon while active. These weapons may be granted from an [Oath](Oaths.md), [Talent](Talents.md), or a [Resonance](Resonance.md).
 -   **Vow of Iron Exclusive Weapons:** Weapons that are exclusively found in the [Vow of Iron](Vow_of_Iron.md) gamemode.
 -   **Exclusive Weapons/Skins:** Weapons that can only be obtained by some / given to by special people.
 
@@ -26002,7 +26002,7 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
     -   Amount of individual attribute requirements: [Red Death](Red_Death.md) (4)
     -   Penetration: [Shattered Katana](Shattered_Katana.md), [Nemit's Sickle](<Nemit's_Sickle.md>), [Kyrsedge](Kyrsedge.md), [Kyrstreza](Kyrstreza.md), [Flareblood Kamas](Flareblood_Kamas.md), [Pernach](Pernach.md), [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), [Nocturne](Nocturne.md) (30%)
     -   Chip damage: [Night Axe](Night_Axe.md) (80%)
-    -   Scaling: [Par's Glaive](<Par's_Glaive.md>) (30)
+    -   Scaling: [Par's Glaive](<Par's_Glaive.md>) (30 CHA)
     -   Weight: [Sovereign's Punishment](<Sovereign's_Punishment.md>) (13)
     -   Range: [Darksteel Cleaver](Darksteel_Cleaver.md) (13)
     -   Swing speed: [Soulwrought Gun](Crazy_Slots.md#weapons) (1.33x)

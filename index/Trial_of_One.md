@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 194573
+revid: 195635
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -22,7 +22,7 @@ The Trial of One is a dungeon designed to boost experienced players progress eas
 
 The entrance is located under [Outpost Antumbra](Outpost_Antumbra.md) in [Minityrsa](Minityrsa.md) where at the rear right corner is an open latch leading down to a short hallway which at the end is a slightly opened gate with a fully white glowing entrance. The gate will only allow players who are [Power](Power.md) 1 to enter. Additionally, you may not enter if you put ANY investment points in, or not a [Deepbound](Deepbound.md), otherwise the gate would stun and knock the player back if they exceed the required Power. **You are only able to attempt the Trial once per life** (you cannot re-enter the trial if you have completed the first parry check).
 
-After the completion of each challenge you gain some experience which allows you to train attributes in-between each challenge. Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
+After the completion of each challenge you gain some experience, but you can only train once (after defeating the Megalodaunt, 1 attribute point). Being a very difficult trial for many, its intended for highly skilled and experienced players to get new builds up relatively quickly.
 
 ## Trial Rules
 
@@ -65,13 +65,13 @@ Do not spam F, parry the first stage of orbs like you would any other attack (pa
 **2 Sworn Angels:**
 
   
-**"You're halfway there. Keep going, lone warrior."** Apply regular humanoid fighting tactics, parry trade and go for guard breaks. It would be recommended to perform a Critical Attack whenever you just parried them, this can hopefully blockbreak 1 and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping or burning them since gripping one of them will automatically kill the other. Also keep in mind that one of the Greater Angels will always spawn with an Enchanted weapon, which can make this part more daunting if they use something like Deferred or Blazing.
+**"You're halfway there. Keep going, lone warrior."** Apply regular humanoid fighting tactics, parry trade and go for Criticals when possible, this can hopefully blockbreak and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping/repeatedly hitting it since killing one of them will automatically kill the other. Also keep in mind that at least one of the Sworn Angels will always spawn with an Enchanted weapon, which can make this part more daunting if they use something like Deferred or Blazing.
 
 300 HP each.
 
 **Enforcer:**
 
-**"The last test was easy. How about this next test?"** Apply regular humanoid fighting tactics, parry trade and go for guard breaks, preferably by spamming Critical. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible, the Enforcer deals a low amount of posture damage, usually enough to block 4 hits in a row without getting guard broken.
+**"The last test was easy. How about this next test?"** Apply regular humanoid fighting tactics, parry trade and go for Criticals. Make sure to hold F preemptively against feints instead of specifically going for parries to ensure little damage as possible. Since the player's posture usually enough to block 2 hits (NOT kicks) in a row without getting guard broken, dodging is important if the player doesn't have enough posture.
 
 ~800 HP. The Enforcer you get can be any variant: Axe, Sword or Hammer. (16 sword hits, consistent with all variants)
 
@@ -118,11 +118,12 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 -   It is recommended to first enter when you can relatively consistently kill a [Megalodaunt](Megalodaunt.md) without requiring a stat check. Don’t be ashamed if you die on the first few trials—it happens to everyone. It can take days, weeks, or even months to master the Trial, but in the process, you will gain massive amounts of experience and learn how to fight nearly every common monster. The Trial is almost a necessity for improving past a certain point.
 -   Keep in mind this challenge is entirely optional, and is not a requirement to play the game to its fullest.
--   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at the respective Power scaling that they are encountered at.
+-   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at Power 1.
 -   Any mob can spawn Attuned. This can catch even the best of players off-guard and they might die to an unexpected [Thunderstruck](Monsters.md#attuned-monsters) or [Flamewreathed](Monsters.md#attuned-monsters) Enforcer.
     -   If you are playing [attunement-less](Attunement-less.md) and encounter a [Shadowmeld](Monsters.md#attuned-monsters) version of any monster, play it safe, as they will effectively have double health, due to their 50% Physical Resistance.
 -   If you are using the [Lone Warrior](Lone_Warrior.md) Origin, you may use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) inside the Trial. The Shrine of Solitude acts as a free [Mystic](Mystic.md), allowing you to heavily influence the chances of you getting the Mantra cards you want.
--   Once one of the [Sworn Angels](Sworn_Angel.md) dies, the other will despawn. It is highly recommended to attack the knocked body of one Angel while defending yourself against the other to execute the knocked Angel and clear this challenge faster.
+-   It is best to prepare yourself, as you will have to do all mobs in one sitting (except for the initial parry challenge and the Megalodaunt)
+-   Once one of the [Sworn Angels](Sworn_Angel.md) dies, the other will die shortly after. It is highly recommended to attack the knocked body of one Angel while defending yourself against the other to execute the knocked Angel and clear this challenge faster.
 -   Two [Training Gear Cabinets](Training_Gear.md) can be found in the Trial of One [Dungeon](Dungeons.md), with one next to the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md), and the other in the corridor of the arena entrance. Training Gear can be purchased and used either pre or post-Trial to speed up the transition to conventional progression.
 
 ## Trivia

@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 195623
+revid: 195637
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -35,3 +35,4 @@ Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](A
 -   The monsters summoned will not attack you, even if you've attacked them first.
 -   There is no cooldown on the monsters spawning. You can proc this effect multiple times at once.
 -   The players do not need to be killed through manually gripping them, nor do they need to be killed by you specifically for this enchant to proc.
+-   You cannot apply the Parasol's Blight status effect to already Unconscious players.
