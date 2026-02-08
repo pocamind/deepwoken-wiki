@@ -1,6 +1,6 @@
 ---
 title: "Providence's Thorns"
-revid: 193762
+revid: 195557
 source: https://deepwoken.fandom.com/wiki/Providence's_Thorns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Providence's Thorns is a damage dealing enchantment that attacks your enemies when you parry them.
-
-This enchantment changes the color of your weapon's metallic parts to a glowing white with glowing white particles emanating from your weapon.
 
 ## Effect
 

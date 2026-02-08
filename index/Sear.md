@@ -1,6 +1,6 @@
 ---
 title: Sear
-revid: 193763
+revid: 195541
 source: https://deepwoken.fandom.com/wiki/Sear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Sear is a debuffing enchantment that increases your opponent's incoming PEN and drains their water.
-
-This enchantment changes your weapon's color to yellow and with bright yellow particles.
 
 ## Effect
 

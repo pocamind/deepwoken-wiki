@@ -1,6 +1,6 @@
 ---
 title: Curse of Void
-revid: 190508
+revid: 195565
 source: https://deepwoken.fandom.com/wiki/Curse_of_Void
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 ## Description
 
 Curse of Void is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive debuffing curse enchantment applies anti-heal on hit.
-
-This enchantment changes your weapon to have a stone texture and gives it a white mist.
 
 ## Effect
 

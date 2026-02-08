@@ -1,6 +1,6 @@
 ---
 title: Umbral Knight
-revid: 195517
+revid: 195561
 source: https://deepwoken.fandom.com/wiki/Umbral_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Umbral Knight is a damage dealing enchantment that strikes your opponent after a delay.
-
-This enchantment changes the color of your weapon's metal parts to an artic blue and covers the weapon with a red and black mist.
 
 ## Effect
 

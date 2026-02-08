@@ -1,6 +1,6 @@
 ---
 title: Blazing
-revid: 193751
+revid: 195543
 source: https://deepwoken.fandom.com/wiki/Blazing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -20,7 +20,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 Blazing is a damage dealing enchantment that applies burn to your opponent.
 
-This enchantment changes your weapon's color to a charred brown and covers it with orange flame particles. Blazing's flame particle color changes depending on your [Flamecharm](Flamecharm.md) color, turning blue if you have [Azure Flames](Talents.md#azure-flames) or black if you have [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets).
+Blazing's flame particle color changes depending on your [Flamecharm](Flamecharm.md) color, turning blue if you have [Azure Flames](Talents.md#azure-flames) or black if you have [Wraith Path: Twisted Puppets](Talents.md#wraith-path-twisted-puppets).
 
 ## Effect
 

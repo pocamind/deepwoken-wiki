@@ -1,6 +1,6 @@
 ---
 title: Gluttony
-revid: 193756
+revid: 195549
 source: https://deepwoken.fandom.com/wiki/Gluttony
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Gluttony is a sustain enchantment that steals your opponent's saturation on hit.
-
-This enchantment covers your weapon in a brownish-orange mist.
 
 ## Effect
 

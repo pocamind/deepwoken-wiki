@@ -1,6 +1,6 @@
 ---
 title: Windswept
-revid: 190549
+revid: 195564
 source: https://deepwoken.fandom.com/wiki/Windswept
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 ## Description
 
 Windswept is a debuffing enchantment that applies [winded](Status_Effects.md#winded) to your opponent.
-
-This enchantment envelops your weapon in green swirling winds.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Vampirism
-revid: 193770
+revid: 195562
 source: https://deepwoken.fandom.com/wiki/Vampirism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Vampirism is a sustain enchantment that grants [Temporary Health](Status_Effects.md#temporary-health) to the user on hit.
-
-This enchantment changes your weapon's color to pink and gives off a slight blood splatter particle effect.
 
 ## Effect
 

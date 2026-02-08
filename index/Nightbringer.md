@@ -1,6 +1,6 @@
 ---
 title: Nightbringer
-revid: 191918
+revid: 195555
 source: https://deepwoken.fandom.com/wiki/Nightbringer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
 ## Description
 
 Nightbringer is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive sustain enchantment that steals your opponent's Ether on hit.
-
-This enchantment changes your weapon's color to black and envelops it with black particle effects.
 
 ## Effect
 

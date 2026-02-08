@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 193773
+revid: 195569
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 ## Description
 
 Curse of the No Life King is a buffing curse enchantment that grants the user passive health regeneration and sanity drain on hit.
-
-This enchantment changes your weapon's color to black and emits red and black spikes out of your weapon along with a red and black aura.
 
 ## Effect
 

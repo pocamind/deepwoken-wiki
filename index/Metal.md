@@ -1,6 +1,6 @@
 ---
 title: Metal
-revid: 193759
+revid: 195553
 source: https://deepwoken.fandom.com/wiki/Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Metal is a sustain enchantment that steals your opponent's armor durability on hit.
-
-This enchantment gives your weapon a metallic texture.
 
 ## Effect
 

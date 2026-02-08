@@ -1,6 +1,6 @@
 ---
 title: Curse of Zariffs Absorption
-revid: 191892
+revid: 195591
 source: https://deepwoken.fandom.com/wiki/Curse_of_Zariffs_Absorption
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -21,8 +21,6 @@ notices:
 ## Description
 
 Curse of Zariffs Absorption is a cut content enchantment that stole your opponent's enchantment on hit.
-
-This enchantment applies a static flaming purple effect to your weapon, concealing it entirely.
 
 ## Effect
 

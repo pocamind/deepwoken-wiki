@@ -1,6 +1,6 @@
 ---
 title: Obfuscation
-revid: 193761
+revid: 195556
 source: https://deepwoken.fandom.com/wiki/Obfuscation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,9 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Obfuscation is a damage dealing enchantment that grants chip damage to your weapon.
-
-This enchantment changes your weapon's appearance to be translucent and gives it white particle effects.
+Obfuscation is a stat buffing enchantment that grants chip damage to your weapon.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Curse of the Authoritative
-revid: 190515
+revid: 195571
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Authoritative
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 ## Description
 
 Curse of the Authoritative is a debuffing curse enchantment that applies negative posture resistance to your opponent.
-
-This enchantment changes your weapon's color to a glowing yellow and gives it an arcing yellow lightning effect.
 
 ## Effect
 

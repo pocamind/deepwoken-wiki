@@ -1,6 +1,6 @@
 ---
 title: Rain (enchantment)
-revid: 193788
+revid: 195581
 source: https://deepwoken.fandom.com/wiki/Rain_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments, The Vat Exclusive]
 ## Description
 
 Rain is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive equipment enchantment that creates a moderate sized rain cloud on proc.
-
-This enchantment applies rain droplets to the equipment piece.
 
 ## Effect
 

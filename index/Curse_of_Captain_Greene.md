@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 195527
+revid: 195584
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -22,23 +22,20 @@ notices:
 
 Curse of Captain Greene is an **unobtainable** damage buffing enchantment that increases your weapon's damage based on how many Notes you have.
 
-This enchantment changes your weapon's color to a golden hue with golden particles exuding from it.
-
 ## Effect
 
 Curse of Captain Greene increases your weapon's **base** damage by 0.002% for every [Note](Notes.md) you have. This caps at +15% base damage at 15,000.
-
-While at 7,500, this Enchantment does not provide a damage buff nor debuff.
 
 Additionally, upon dealing damage to a player with your weapon, steal 50 from them.
 
 ### Curse
 
-If you are below 7,500, your weapon's base damage will be **decreased** by 0.002% for every note below this threshold, capping at -15% damage at 0.
+If you are at 0, your weapon's base damage will be reduced by -15% instead.
 
 Upon taking damage from a player, lose 100.
 
 ### Notes
 
+-   While at 7,500, this Enchantment does not provide a damage buff nor debuff.
 -   This enchantment has a coin splash sound effect on hit and upon taking damage.
 -   This enchantment's curse functions somewhat similarly to the [Loose Change](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier. (It also stacks)

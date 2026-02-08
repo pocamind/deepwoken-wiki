@@ -1,6 +1,6 @@
 ---
 title: Nemesis
-revid: 193760
+revid: 195554
 source: https://deepwoken.fandom.com/wiki/Nemesis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 ## Description
 
 Nemesis is a damage dealing enchantment that replaces your critical with a teleporting slash.
-
-This enchantment changes the color of your weapon's metallic parts to a rose color and your weapon emits a number of rose colored eyes.
 
 ## Effect
 

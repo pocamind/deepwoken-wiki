@@ -1,6 +1,6 @@
 ---
 title: Displacement
-revid: 193783
+revid: 195576
 source: https://deepwoken.fandom.com/wiki/Displacement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments]
 ## Description
 
 Displacement is an equipment enchantment that grants a speed boost on proc.
-
-This enchantment applies horizontal white particle effects to the equipment piece.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Elastic
-revid: 193755
+revid: 195548
 source: https://deepwoken.fandom.com/wiki/Elastic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 ## Description
 
 Elastic is a debuffing enchantment that tethers your opponent on hit.
-
-This enchantment changes your weapon's color to a light pink and covers it with a pink haze.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Ferocity
-revid: 193786
+revid: 195592
 source: https://deepwoken.fandom.com/wiki/Ferocity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments]
 ## Description
 
 Ferocity is an equipment enchantment that grants buffs to the user, with the effectiveness of the buffs scaling on their current [Tempo](Combat_Mechanics.md#tempo).
-
-This enchantment applies red blood droplets to the equipment piece.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Bluster
-revid: 195482
+revid: 195544
 source: https://deepwoken.fandom.com/wiki/Bluster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Bluster is a damage dealing enchantment that explodes your opponent after enough time has passed.
-
-This enchantment changes your weapon's color to a light-grey with smoke effects emanating from it.
 
 ## Effect
 

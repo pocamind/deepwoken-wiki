@@ -1,6 +1,6 @@
 ---
 title: Gigamed
-revid: 192021
+revid: 195538
 source: https://deepwoken.fandom.com/wiki/Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -43,6 +43,12 @@ Description
 -   Deals ~15 damage.
 -   This attack can only hurt 1 player at a time, despite looking like an AOE.
 -   Before they do this, there is a brief flash above their heads if you look closely and they will flash purple, as an indicator of an unparryable attack. Though, it is nearly impossible to react to, especially with higher pings.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |
 

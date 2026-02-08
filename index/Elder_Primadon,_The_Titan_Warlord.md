@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 194209
+revid: 195598
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -100,6 +100,12 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
  | Elder Primadon winds up his right leg before kicking forwards.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |
 | 
 
@@ -109,6 +115,12 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
  | Elder Primadon grabs in front of him, dealing massive damage after throwing his target.
 
 -   This move is only used when the target is outside of stomping range.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |
 | 
@@ -120,6 +132,12 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
 
 -   This move is only used when the target is outside of stomping and punching range.
 -   This move will usually guard-break if fully blocked, so it is recommended to roll halfway through.
+
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
 
  |
 | 
@@ -138,6 +156,12 @@ Similar to [Primadon](Primadon,_Titan_of_the_East.md), the Elder can be summoned
  | Elder Primadon bends his knees and lifts his arms up, eventually slamming down after a variable amount of times.
 
 -   This move has an indicator for when you should roll, which is his legs going forward slightly.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |
 | 

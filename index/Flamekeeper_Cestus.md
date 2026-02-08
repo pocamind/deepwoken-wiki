@@ -1,6 +1,6 @@
 ---
 title: Flamekeeper Cestus
-revid: 195531
+revid: 195536
 source: https://deepwoken.fandom.com/wiki/Flamekeeper_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, The Covenant of Flame]

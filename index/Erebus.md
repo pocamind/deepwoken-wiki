@@ -1,6 +1,6 @@
 ---
 title: Erebus
-revid: 193720
+revid: 195585
 source: https://deepwoken.fandom.com/wiki/Erebus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments]
@@ -21,8 +21,6 @@ notices:
 ## Description
 
 Erebus is an **unobtainable** debuffing enchantment that puts one of your opponent's Mantras on cooldown.
-
-This enchantment gives your weapon green and black flames.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 193766
+revid: 195539
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Storm is a damage dealing enchantment that applies [Shock](Status_Effects.md#shock) to your opponent.
-
-This enchantment changes your weapon's color to a glowing purple with a light purple mist.
 
 ## Effect
 

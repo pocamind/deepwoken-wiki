@@ -1,6 +1,6 @@
 ---
 title: Harrowing
-revid: 190539
+revid: 195551
 source: https://deepwoken.fandom.com/wiki/Harrowing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -19,8 +19,6 @@ categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that pr
 ## Description
 
 Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive, debuffing enchantment that obscures your opponent's UI.
-
-This enchantment changes your weapon to be translucent with a purple smoke emitting from it.
 
 ## Effect
 

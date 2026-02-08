@@ -1,6 +1,6 @@
 ---
 title: Solar
-revid: 193764
+revid: 195558
 source: https://deepwoken.fandom.com/wiki/Solar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Solar is a debuffing enchantment that reduces Ether regeneration, Tempo gain, and steals Tempo on [Vent](Combat_Mechanics.md#tempo).
-
-This enchantment changes your weapon's color to orange and surrounds it with swirling orange particle effects.
 
 ## Effect
 

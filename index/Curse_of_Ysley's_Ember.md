@@ -1,6 +1,6 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 193777
+revid: 195566
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 ## Description
 
 Curse of Ysley's Ember is an RNG-based curse enchantment that applies burn on proc.
-
-This enchantment changes your weapon's color to a glowing green and surrounds it with glowing green electricity.
 
 ## Effect
 

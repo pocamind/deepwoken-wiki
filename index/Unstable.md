@@ -1,6 +1,6 @@
 ---
 title: Unstable
-revid: 190553
+revid: 195589
 source: https://deepwoken.fandom.com/wiki/Unstable
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments]
@@ -21,8 +21,6 @@ notices:
 ## Description
 
 Unstable is an **unobtainable** RNG-based enchantment that can proc random enchantments.
-
-This enchantment adds the visual effects from the [Displacement](Displacement.md) and [Wild](Wild.md) enchantments to your weapon.
 
 ## Effect
 

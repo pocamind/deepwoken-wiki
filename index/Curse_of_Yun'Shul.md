@@ -1,6 +1,6 @@
 ---
 title: "Curse of Yun'Shul"
-revid: 193778
+revid: 195572
 source: https://deepwoken.fandom.com/wiki/Curse_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 ## Description
 
 Curse of Yun'Shul is an RNG-based curse enchantment that deals health-based damage.
-
-This enchantment changes your weapon's color to black and makes it slightly translucent. Additionally, your weapon will be invisible when sheathed.
 
 ## Effect
 

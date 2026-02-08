@@ -1,6 +1,6 @@
 ---
 title: Astral
-revid: 190493
+revid: 195542
 source: https://deepwoken.fandom.com/wiki/Astral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Astral is a PvE-based enchantment that increases your damage against NPCs.
-
-This enchantment changes your weapon's color to a glowing blue with stars emanating from it.
 
 ## Effect
 

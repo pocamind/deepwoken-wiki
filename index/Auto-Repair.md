@@ -1,6 +1,6 @@
 ---
 title: "Auto-Repair"
-revid: 190492
+revid: 195590
 source: https://deepwoken.fandom.com/wiki/Auto-Repair
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Equipment Enchantments]
@@ -21,8 +21,6 @@ notices:
 ## Description
 
 Auto-Repair is a cut content equipment enchantment that had an unknown effect.
-
-This enchantment applies vertical white particle effects to the equipment piece.
 
 ## Effect
 

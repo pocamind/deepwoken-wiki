@@ -1,6 +1,6 @@
 ---
 title: Drowned
-revid: 193784
+revid: 195577
 source: https://deepwoken.fandom.com/wiki/Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments]
 ## Description
 
 Drowned is an equipment enchantment that bolsters your equipment's stats.
-
-This enchantment applies floating purple mist particles to the equipment piece.
 
 ## Effect
 

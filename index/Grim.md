@@ -1,6 +1,6 @@
 ---
 title: Grim
-revid: 193757
+revid: 195550
 source: https://deepwoken.fandom.com/wiki/Grim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 ## Description
 
 Grim is a debuffing enchantment that increases your opponent's incoming damage and posture damage.
-
-This enchantment changes your weapon's color to black and covers it with a red mist.
 
 ## Effect
 

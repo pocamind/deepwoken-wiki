@@ -1,6 +1,6 @@
 ---
 title: Bounce
-revid: 193782
+revid: 195575
 source: https://deepwoken.fandom.com/wiki/Bounce
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments]
 ## Description
 
 Bounce is an equipment enchantment that pushes your attacker away from you on proc.
-
-This enchantment applies floating black particles to the equipment piece.
 
 ## Effect
 

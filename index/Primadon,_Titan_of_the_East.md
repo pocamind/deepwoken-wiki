@@ -1,6 +1,6 @@
 ---
 title: "Primadon, Titan of the East"
-revid: 192031
+revid: 195597
 source: https://deepwoken.fandom.com/wiki/Primadon%2C_Titan_of_the_East
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses]
@@ -115,6 +115,12 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 -   If close enough to a wall, Daze upon impact.
 -   If the enemy is above his waist, he will instead swat away the enemy, dealing an incredibly hard to react punch version of the kick.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |
 | 
 
@@ -127,6 +133,12 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 -   Only used if the player is in front of Primadon and not near his legs.
 -   If you were holding block before getting grabbed and during it's full duration you will not get damaged, this is quite buggy however and might not work.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  |
 | 
 
@@ -137,10 +149,16 @@ _For a visual guide consider watching [this video](https://youtu.be/nESMPhJary8)
 
 -   Does massive amounts of damage and very difficult to parry.
 
+_Uses Telegraph_
+
+[HighPostureTelegraph](Combat_Mechanics.md#purple)
+
+High posture
+
  |
 | 
 
-**Disengage/Fade Away**  
+**Disengage**  
 (★☆☆)
 
  | Primadon jumps backward while throwing 1 rock at the player, creating distance between the two.

@@ -1,6 +1,6 @@
 ---
 title: Multiplicity
-revid: 193787
+revid: 195580
 source: https://deepwoken.fandom.com/wiki/Multiplicity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments]
 ## Description
 
 Multiplicity is an equipment enchantment that buffs the user on proc.
-
-This enchantment applies floating white electricity to the equipment piece.
 
 ## Effect
 

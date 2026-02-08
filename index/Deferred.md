@@ -1,6 +1,6 @@
 ---
 title: Deferred
-revid: 193753
+revid: 195546
 source: https://deepwoken.fandom.com/wiki/Deferred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Deferred is a damage dealing enchantment that changes your weapon's raw damage into a damage over time effect.
-
-This enchantment changes your weapon's color to black and covers it with a red and yellow haze.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Entanglement
-revid: 193791
+revid: 195578
 source: https://deepwoken.fandom.com/wiki/Entanglement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments]
 ## Description
 
 Entanglement is an equipment enchantment that pulls your attacker towards you on proc.
-
-This enchantment applies floating green orbs particles to the equipment piece.
 
 ## Effect
 

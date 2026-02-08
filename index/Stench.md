@@ -1,6 +1,6 @@
 ---
 title: Stench
-revid: 193789
+revid: 195582
 source: https://deepwoken.fandom.com/wiki/Stench
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments]
 ## Description
 
 Stench is an equipment enchantment that creates a damaging area on proc.
-
-This enchantment applies green-yellow stench clouds to the equipment piece.
 
 ## Effect
 

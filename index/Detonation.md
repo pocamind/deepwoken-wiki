@@ -1,6 +1,6 @@
 ---
 title: Detonation
-revid: 193754
+revid: 195547
 source: https://deepwoken.fandom.com/wiki/Detonation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Detonation is a damage dealing enchantment that causes an explosion on proc.
-
-This enchantment changes the color of your weapon's metallic and blade parts to a glowing orange and covers the weapon with neon orange particles.
 
 ## Effect
 

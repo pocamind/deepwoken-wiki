@@ -1,6 +1,6 @@
 ---
 title: Stormbreaker
-revid: 193767
+revid: 195559
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 ## Description
 
 Stormbreaker is a damage dealing enchantment that applies [Shock](Status_Effects.md#shock) to your opponent and replaces your critical attack.
-
-This enchantment changes your weapon's color to a vibrant glowing blue with a light purple mist and umbral bolts coming off of the weapon.
 
 ## Effect
 

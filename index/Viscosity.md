@@ -1,6 +1,6 @@
 ---
 title: Viscosity
-revid: 193790
+revid: 195583
 source: https://deepwoken.fandom.com/wiki/Viscosity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Equipment Enchantments]
 ## Description
 
 Viscosity is an equipment enchantment that turns incoming damage into damage over time.
-
-This enchantment applies a red-pink mist to the equipment piece.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Curse of the Bloodthirsty
-revid: 193772
+revid: 195570
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Bloodthirsty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 ## Description
 
 Curse of the Bloodthirsty is a buffing curse enchantment that drains your opponent's blood on hit.
-
-This enchantment changes your weapon's color to a glowing red and gives it a bright red aura.
 
 ## Effect
 

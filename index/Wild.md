@@ -1,6 +1,6 @@
 ---
 title: Wild
-revid: 193946
+revid: 195563
 source: https://deepwoken.fandom.com/wiki/Wild
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -19,8 +19,6 @@ categories: [Enchantments, Weapon Enchantments]
 ## Description
 
 Wild is a damage dealing enchantment that applies deals your weapon's damage in an AoE.
-
-This enchantment covers your weapon in a white mist.
 
 ## Effect
 
