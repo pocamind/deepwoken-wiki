@@ -1,6 +1,6 @@
 ---
 title: "Ethiron, The Maelstrom's Eye"
-revid: 194981
+revid: 195712
 source: https://deepwoken.fandom.com/wiki/Ethiron%2C_The_Maelstrom's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drowned Gods]
@@ -34,5 +34,6 @@ During Ethiron's slumber, he collected information present and assembled a crude
 ## References
 
 1.  [↑](#cite-ref-1) [https://fxtwitter.com/Deepwoken/status/1508158183025614851](https://fxtwitter.com/Deepwoken/status/1508158183025614851)
-2.  [↑](#cite-ref-2) [Naerotiv](Naerotiv.md)
+2.  [↑](#cite-ref-2) NPC dialogue: [Naerotiv](Naerotiv.md)  
+    _Ethiron's Scion, his puppet, has awoken._
 3.  [↑](#cite-ref-3)

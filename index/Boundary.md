@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 187175
+revid: 195709
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -22,112 +22,173 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
 ## List of Boundaries
 
-| Boundary | Image | Map Location |
-| --- | --- | --- |
-| [Meteor Isle](Meteor_Isle.md) | 
- | 
+| 
+ | Boundary | Image | Map Location |
+| --- | --- | --- | --- |
+| 
 
- |
-| Aratel Wilderness ([Bluster Rapids](Bluster_Rift.md)) | 
-
- | 
-
- |
-| Miner Cave ([Bluster Rapids](Bluster_Rift.md)) | 
+ | [Meteor Isle](Meteor_Isle.md) | 
 
  | 
 
  |
-| Prison Tower ([Fort Merit](Fort_Merit.md)) | 
+| 
+
+ | Aratel Wilderness  
+([Bluster Rapids](Bluster_Rift.md)) | 
 
  | 
 
  |
-| Merit's Keep ([Fort Merit](Fort_Merit.md)) | 
+| 
+
+ | Miner Cave  
+([Bluster Rapids](Bluster_Rift.md)) | 
 
  | 
 
  |
-| Merit Town ([Port Merit](Port_Merit.md)) | 
+| 
+
+ | Prison Tower  
+([Fort Merit](Fort_Merit.md)) | 
 
  | 
 
  |
-| Aratel Temple ([The Starswept Valley](The_Starswept_Valley.md)) | 
+| 
+
+ | Merit's Keep  
+([Fort Merit](Fort_Merit.md)) | 
 
  | 
 
  |
-| Legion Camp ([The Starswept Valley](The_Starswept_Valley.md)) | 
+| 
+
+ | Merit Town  
+([Port Merit](Port_Merit.md)) | 
 
  | 
 
  |
-| [Temple of Mur](Temple_of_Mur.md) | 
+| 
+
+ | Aratel Temple  
+([The Starswept Valley](The_Starswept_Valley.md)) | 
+
+ | 
+
+ |
+| 
+
+ | Legion Camp  
+([The Starswept Valley](The_Starswept_Valley.md)) | 
+
+ | 
+
+ |
+| 
+
+ | [Temple of Mur](Temple_of_Mur.md) | 
 
  | 
 
 (To reach the boundary, enter the Temple of Mur, turn right, then follow the path down the stairs.)
 
  |
-| Hive Cave ([The Lordsgrove](The_Lordsgrove.md)) | 
+| 
+
+ | Hive Cave  
+([The Lordsgrove](The_Lordsgrove.md)) | 
 
  | 
 
 (The boundary is located underneath the Lordsgrove.)
 
  |
-| Hive Statue ([The Aratel Sea](The_Aratel_Sea.md)) | 
+| 
+
+ | Hive Statue  
+([The Aratel Sea](The_Aratel_Sea.md)) | 
 
  | 
 
  |
-| Paw ([The Monkey's Paw](<The_Monkey's_Paw.md>)) | 
+| 
+
+ | Paw  
+([The Monkey's Paw](<The_Monkey's_Paw.md>)) | 
 
  | 
 
  |
-| Legion Ship ([The Polymarch](The_Polymarch.md)) | 
+| 
+
+ | Legion Ship  
+([The Polymarch](The_Polymarch.md)) | 
 
  | 
 
  |
-| Miner's Landing Inn ([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
+| 
+
+ | Miner's Landing Inn  
+([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
 
  | 
 
  |
-| Log ([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
+| 
+
+ | Log  
+([Miner's Landing](<Miner's_Landing_(Vow_of_Iron).md>)) | 
 
  | 
 
  |
-| Estate ([The Sable Estate](The_Sable_Estate.md)) | 
+| 
+
+ | Estate  
+([The Sable Estate](The_Sable_Estate.md)) | 
 
  | 
 
  |
-| Hidden Authority Camp | 
+| 
+
+ | Hidden Authority Camp | 
 
  | 
 
  |
-| Hidden Cave ([The Entropy Catalyst](The_Entropy_Catalyst.md)) | 
+| 
+
+ | Hidden Cave  
+([The Entropy Catalyst](The_Entropy_Catalyst.md)) | 
 
  | 
 
  |
-| Summer Inn ([Summer Isle](Summer_Isle.md)) | 
+| 
+
+ | Summer Inn  
+([Summer Isle](Summer_Isle.md)) | 
 
  | 
 
  |
-| Summer Castle ([Summer Isle](Summer_Isle.md)) | 
+| 
+
+ | Summer Castle  
+([Summer Isle](Summer_Isle.md)) | 
 
  | 
 
  |
-| Summer Abandoned Building
+| 
+
+ | Summer Abandoned Building
 
 ([Summer Isle](Summer_Isle.md))
 
@@ -136,69 +197,108 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
  | 
 
  |
-| Songseeker Bell ([Songseeker Temple](Songseeker_Temple.md)) | 
+| 
+
+ | Songseeker Bell  
+([Songseeker Temple](Songseeker_Temple.md)) | 
 
  | 
 
  |
-| Songseeker Church ([Derelict Highchurch](Derelict_Highchurch.md)) | 
+| 
+
+ | Songseeker Church  
+([Derelict Highchurch](Derelict_Highchurch.md)) | 
 
  | 
 
  |
-| Songseeker Mines ([Songseeker Wilds](Songseeker_Wilds.md)) | 
+| 
+
+ | Songseeker Mines  
+([Songseeker Wilds](Songseeker_Wilds.md)) | 
 
  | 
 
  |
-| Scarlet Citadel ([Red Lotus Keep](Red_Lotus_Keep.md)) | 
+| 
+
+ | Scarlet Citadel  
+([Red Lotus Keep](Red_Lotus_Keep.md)) | 
 
  | 
 
  |
-| The Indigo Estate ([The Indigo Citadel](The_Indigo_Citadel.md)) | 
+| 
+
+ | The Indigo Estate  
+([The Indigo Citadel](The_Indigo_Citadel.md)) | 
 
  | 
 
  |
-| Trial ([Minityrsa](Minityrsa.md)) | 
+| 
+
+ | Trial  
+([Minityrsa](Minityrsa.md)) | 
 
  | 
 
  |
-| Crypt Log ([Crypt of the Unbroken](Crypt_of_the_Unbroken.md)) | 
+| 
+
+ | Crypt Log  
+([Crypt of the Unbroken](Crypt_of_the_Unbroken.md)) | 
 
  | 
 
  |
-| Golden Rat ([The Golden Rat](The_Golden_Rat.md)) | 
+| 
+
+ | Golden Rat  
+([The Golden Rat](The_Golden_Rat.md)) | 
 
  | 
 
  |
-| Blade Temple ([Isle of Vigils](Isle_of_Vigils.md)) | 
+| 
+
+ | Blade Temple  
+([Isle of Vigils](Isle_of_Vigils.md)) | 
 
  | 
 
  |
-| Fish Hut ([The Etrean Sea](The_Etrean_Sea.md)) | 
+| 
+
+ | Fish Hut  
+([The Etrean Sea](The_Etrean_Sea.md)) | 
 
  | 
 
  |
-| Etrea Home ([Etris](Etris.md)) | 
+| 
+
+ | Etrea Home  
+([Etris](Etris.md)) | 
 
  | 
 
  |
-| Ferryman's Watch ([Boatman's Watch](<Boatman's_Watch.md>)) | 
+| 
+
+ | Ferryman's Watch  
+([Boatman's Watch](<Boatman's_Watch.md>)) | 
 
  | 
 
 (Start at the side of the island with the boat spawner and Petris. Head straight towards Ferryman, turn right, then go into the ruined tower.)
 
  |
-| Moon Boundary ([Moon's Eyrie](<Moon's_Eyrie.md>)) | 
+| 
+
+ | Moon Boundary  
+([Moon's Eyrie](<Moon's_Eyrie.md>)) | 
 
  | 
 

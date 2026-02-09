@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 195584
+revid: 195717
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -24,13 +24,13 @@ Curse of Captain Greene is an **unobtainable** damage buffing enchantment that i
 
 ## Effect
 
-Curse of Captain Greene increases your weapon's **base** damage by 0.002% for every [Note](Notes.md) you have. This caps at +15% base damage at 15,000.
+Curse of Captain Greene increases your weapon's **base** damage by 0.002% for every [Note](Notes.md) you have above 7,500. This caps at +15% base damage at 15,000.
 
-Additionally, upon dealing damage to a player with your weapon, steal 50 from them.
+Upon dealing damage to a player with your weapon, steal 50 from them.
 
 ### Curse
 
-If you are at 0, your weapon's base damage will be reduced by -15% instead.
+If you are below 7,500, your weapon's base damage will be reduced by 0.002% for every Note you have below this threshold instead. This caps at -15% base damage at 0.
 
 Upon taking damage from a player, lose 100.
 
