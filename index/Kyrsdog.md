@@ -1,6 +1,6 @@
 ---
 title: Kyrsdog
-revid: 175642
+revid: 195683
 source: https://deepwoken.fandom.com/wiki/Kyrsdog
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Food]
@@ -36,3 +36,7 @@ When consumed, it replenishes 50% Stomach and 20% Water.
 ### Recipe
 
 -   1 [Bread](Bread.md), 1 [Frozen Membrane](Frozen_Membrane.md), and 1 [Ongo](Ongo.md) at a [Campfire](Campfire_Pit.md).
+
+## Trivia
+
+-   The **Kyrsdog** is a reference to the [Hot dog](https://en.wikipedia.org/wiki/Hot_dog) from [real life](https://en.wikipedia.org/wiki/Earth).

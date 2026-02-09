@@ -1,6 +1,6 @@
 ---
 title: Death
-revid: 180988
+revid: 195684
 source: https://deepwoken.fandom.com/wiki/Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Death, Mechanics, Character]
@@ -14,7 +14,7 @@ _If you want to know more about where you go after dying twice, see [The Depths]
 
 **Death** is one of the core aspects of Deepwoken, making it a punishing but extremely rewarding and fun experience where all your actions have weight and consequences matter. It is a game based on **Trial and Error**, similar to many other games where progression as a player comes from experiencing defeat countless times and improving upon your failures. Most of the game's mechanics rely on skill and in order to learn to use them effectively one must first spend a few sessions before getting the hang of [parrying](Combat_Mechanics.md#combat-basics) and [dodging](Combat_Mechanics.md#combat-basics).
 
-Provided you have taken the [Hollow](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier, you'll effectively have two lives. Upon each death you drop roughly half your notes and unequipped items, though the losses can be decreased via the Talent \[\[\[Talents#Robber Baron|Robber Baron\]\]. Worry not, as **Soulbound** items are not dropped on death. May that death have been your first your health bar will now appear **stained**, meaning you're at risk of **Drowning** by dying again without **unstaining** yourself. Do note that certain areas classified as [Voidzones](Voidzones.md), the [Voidsea](Voidsea.md) included, will ignore the stain and **Drown** you regardless, with **2x** **EXP** as compensation for the risk.
+Provided you have taken the [Hollow](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier, you'll effectively have two lives. Upon each death you drop roughly half your notes and unequipped items, though the losses can be decreased via the Talent [Robber Baron](Talents.md#robber-baron). Worry not, as **Soulbound** items are not dropped on death. May that death have been your first your health bar will now appear **stained**, meaning you're at risk of **Drowning** by dying again without **unstaining** yourself. Do note that certain areas classified as [Voidzones](Voidzones.md), the [Voidsea](Voidsea.md) included, will ignore the stain and **Drown** you regardless, with **2x** **EXP** as compensation for the risk.
 
 ## Stained Health and Drowning
 

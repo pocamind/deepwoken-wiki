@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195503
+revid: 195685
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1270,7 +1270,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Item loss on death is reduced from 50% to 25%.
     -   You no longer lose notes from dying.
     -   Prerequisites: None
-    -   The \[Pathfinder's Backpack\]\] and \[Grand Pathfinder's Backpack\]\] equipment have this Talent.
+    -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) and [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) equipment have this Talent.
 
 ### Ether Conduit
 
