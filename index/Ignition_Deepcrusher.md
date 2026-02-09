@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 195226
+revid: 195676
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -65,7 +65,7 @@ The critical has a cooldown of **10 seconds**.
 -   Currently the only legendary weapon with no description.
 -   The Sword form (at 100 MED and 100 MTL) is the second-highest damage sword in the game, second to the [Razor Cutlass](Razor_Cutlass.md) (35.7 vs. 36.6).
 -   Meanwhile, the Club form (at 100 MED and 100 MTL) is the highest raw damage club in the game, only close to **Ignition Deepcrusher** dmg is the [Sacred Hammer](Sacred_Hammer.md) (30.2 vs. 29.7).
--   The weapon is inspired by the [Kirkhammer](https://bloodborne.fandom.com/wiki/Kirkhammer) from [Bloodborne](https://en.wikipedia.org/wiki/Bloodborne).[\[1\]](#cite-note-1)
+-   The weapon is inspired by the [Kirkhammer](https://bloodborne.fandom.com/wiki/Kirkhammer) from _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.[\[1\]](#cite-note-1)
 -   Based on the [similar leftover weapon](DeepcrusherSword.md) which required 55 HVY to wield and was in the game for a short period of time, this could have been heavy weapon at some point during development.
 -   You cannot use the stance swap feature while in the Battle Royale mode unless you have the Ironsinger Talent, which can be achieved by getting an Ironsing Mantra.
 

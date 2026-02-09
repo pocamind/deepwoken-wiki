@@ -1,6 +1,6 @@
 ---
 title: Relics
-revid: 191775
+revid: 195682
 source: https://deepwoken.fandom.com/wiki/Relics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment, Mechanics, Relics]
@@ -356,6 +356,8 @@ Deep Gems that have the Relic rarity. These Gems are often hard to come by with 
   
 Unlike regular [Blue Gems](Blue_Gem.md), Warped Blue Gems reduce the **total** Ether cost by 50%, having full effectiveness on reducing the Ether cost of Mantra Modifiers.
 
+They are intended to be used alongside the [Bluestone](Bluestone_Pauldrons.md) armor set to grant additional effects, including an increased cost-reduction, and activation of the [Etherguard](Status_Effects.md#etherguard) status effect, providing resistances to mantra-damage depending on their ether-cost
+
  | 
 
 -   [Fishing](Fishing.md)
@@ -389,7 +391,7 @@ This works with all other "on Vent" effects.
  |
 | 
 
- | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the "[Elegy of Light](Talents.md#elegy-of-light)" Talent. When activated, you are immune to all Deep Gem effects from any opponent for 3 minutes.
+ | **[Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>)** - A Medallion that grants the "[Elegy of Light](Talents.md#elegy-of-light)" Talent. When activated, you are immune to all Deep Gem effects from any opponent, and have your own Deep Gems buffed, for 3 minutes.
 
   
 The ability is one-time-use but is recharged by killing a boss or player of your level.
@@ -537,7 +539,8 @@ File:Vortexechoupclose.png
  | **[Vortex Echo](Vortex_Echo.md)** - A result of [Chaser's](Chaser,_Scholar_of_the_Crimson_Contract.md) watch being infused with [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) Gale, becoming something that can distort time in ways the feeble human mind cannot comprehend.
 
   
-_"A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow a just a bit older."_
+
+_"A small, pulsating vortex of Ethironal gale churns endlessly within this timepiece, driving its resonant ticks in eternal rhythm. Its ornate ivory white frame radiates an unnatural chill, as though the air surrounding it twists under the weight of some otherworldly force. Reaching in to grasp the ethereal chain, a sudden rush sources through you, a sensation like no other, being wrenched through the fabric of time itself. In those fleeting moments, you feel yourself grow just a bit older."_
 
  | 
 
