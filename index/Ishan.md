@@ -1,6 +1,6 @@
 ---
 title: Ishan
-revid: 193999
+revid: 195688
 source: https://deepwoken.fandom.com/wiki/Ishan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -43,8 +43,8 @@ If spoken to while being an Adret, their dialogue changes.
   <td colspan="2">Uhh...</td>
 </tr>
 <tr>
-  <td>Player is an Adret</td>
-  <td>Player is not an Adret</td>
+  <td>[Player is an Adret]</td>
+  <td>[Player is not an Adret]</td>
 </tr>
 <tr>
   <td>Oh. Uh. No offence. Just, well, the rest of the people in this world take after animals, right? Whereas you... Well, you don't, right?</td>

@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 193879
+revid: 195695
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Currency]
@@ -23,7 +23,6 @@ This content is not accessible outside of this gamemode.
 
 Your Knowledge **grows**...
 
-  
 Prior to _**Verse 2**_, if one wanted to make a specific build, then it would be entirely up to luck on whether or not they would be able to obtain this build—aside from using methods to narrow down Whisper cards and using Aces to clear up any unwanted Talent cards. This often led to a round of wipes until the player (now tired and exhausted) eventually obtained their desired build- or at least, an image of it.
 
 With the advent of **_Verse 2_**, these acts are left in the past. One can now thoroughly customize and change up their build- Talents, mantras, undo burns, and more using the many **[Deep Shrines](Deep_Shrines.md)** around the overworld, and can even gain as many bell rerolls as one desires through the fabled **[Misérables](Misérables.md)** so long as they have sufficient _Knowledge._

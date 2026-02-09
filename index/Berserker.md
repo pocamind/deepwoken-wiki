@@ -1,6 +1,6 @@
 ---
 title: Berserker
-revid: 189570
+revid: 195701
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -142,7 +142,7 @@ Blood +
 
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
--   Deals 18.5/26/33.5/41/48.5 damage per level (slam) + 30% (), 14 posture, 0.75s windup Has 10s CD
+-   Deals 18.5[/26](Caster_Fur_Pauldrons.md) damage per level (slam) with innate [Bleed](Status_Effects.md#bleed), 14 posture, 0.75s windup Has 10s CD
 -   Has 9.18x PVE scaling
 -   Leaves behind a Blood Pool.
 -   Applies knockdown to the enemy on hit.
@@ -186,7 +186,7 @@ N/A
 
 **Effect:** _User taunts their opponent, signified by red particles._
 
--   Inflicts Taunt for 11/12/13/14/15 seconds per level.
+-   Inflicts Taunt for 11[/12](Caster_Fur_Pauldrons.md) seconds per level.
 -   Affected entities receive 20% more damage, but deal 10% more damage to the caster.
     -   This is applied as a damage modifier to the person hitting the Taunted player. Meaning that Taunt is affected by the damage modifier caps.
 -   Affected entities become unable to jump.
@@ -230,7 +230,7 @@ N/A
 
 **Effect:** _User prepares themselves and turns red, gaining hyperarmor and negating hitstun for the duration of the effect._
 
--   Brace lasts 5/5.75/6.5/7.25/8 seconds per level.
+-   Brace lasts 5[/5.75](Caster_Fur_Pauldrons.md) seconds per level.
 -   Hyperarmor ends early if you cast a Mantra.
 
  |
@@ -268,7 +268,7 @@ Blunt
 
 **Effect:** _User quickly charges forward with their shoulder, stopping after the duration is over, after colliding with an object or entity, or when parried or dodged._
 
--   Has a base damage of 9.9/13.05/16.20/19.35/22.5 per level with 1.65 Fortitude scaling.
+-   Has a base damage of 9.9[/13.05](Caster_Fur_Pauldrons.md) per level with 1.65 Fortitude scaling.
 -   Deals 8 posture damage.
 -   Has a windup of 0.5 seconds and a cooldown of 15 seconds.
 -   Shoulder Bash duration scales with your Fortitude attribute.
@@ -411,7 +411,7 @@ Blood
 
 **Effect:** _Quickly conjure up a scythe similar to that of a [Skyreap Blade](Skyreap_Blade.md) in a blood red color and rush forward, hitting any target(s) in its way._
 
--   Deals 16/20/24/28/32 damage per level, 15 posture, 0.5s windup, has 10s CD at 5 lvl,
+-   Deals 16[/20](Caster_Fur_Pauldrons.md) damage per level, 15 posture, 0.5s windup, has 10s CD at 5 lvl,
 -   Has 9.18x PVE scaling
 
  |
@@ -450,8 +450,8 @@ Slash
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
 -   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish).
--   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
--   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack.
+-   On follow-up, this Mantra deals 10[/15](Caster_Fur_Pauldrons.md) base damage per level, adding an additional 40%[/55%](Caster_Fur_Pauldrons.md) of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
+-   Deals 10[/15](Caster_Fur_Pauldrons.md) posture damage per level, adding an additional 40%[/55%](Caster_Fur_Pauldrons.md) of the countered attack's damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
 -   The follow-up attack has a staggeringly short 0.35 second windup, making it very hard to react to. That being said, this attack is still parryable.
 
@@ -490,7 +490,7 @@ Slash
 
 **Effect:** _User performs a heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback._
 
--   Deals 8/10.5/13/15.5/18 base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
+-   Deals 8[/10.5](Caster_Fur_Pauldrons.md) base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
 -   Deals 12 posture damage per hit (3).
 -   Initial hit has a windup of 0.75s with each followup hit having a windup of 0.2s each.
 -   Dazes opponents on hit.
@@ -533,7 +533,7 @@ Slash
 
 **Effect:** _User readies their blade before performing a swift strike that uppercuts any targets within range and the user into the air._
 
--   Deals 20/22/24/26/28 base damage with 1.65 Medium Weapon scaling.
+-   Deals 20[/22](Caster_Fur_Pauldrons.md) base damage with 1.65 Medium Weapon scaling.
 -   Deals 12 posture damage.
 -   Uppercuts, proccing [Bladeharper's](Oath%253A_Bladeharper.md) Soaring Storm.
 
@@ -627,11 +627,8 @@ Blood
 
 -   Can be charged up to 5 times, increasing damage and posture damage
     -   15; 35; 40; 45; 90 base damage (level 1)
-    -   20; 40; 45; 50; 95 base damage (level 2)
-    -   25; 45; 50; 55; 100 base damage (level 3)
-    -   30; 50; 55; 60; 105 base damage (level 4)
-    -   35; 55; 60; 65; 110 base damage (level 5)
--   Does 25 posture at 1/2 charges, becomes unblockable past that, 10s CD at 5 lvl
+    -   [20; 40; 45; 50; 95 base damage (level 2)](Caster_Fur_Pauldrons.md)
+-   Does 25 posture at 1-2 charges, becomes unblockable past that, 10s CD
 -   Has 5.13x PVE scaling
 
  |
@@ -670,9 +667,8 @@ Slash (1st Hit), Blunt (Kicks)
 **Effect:** _User does an initial swing with a second long wind-up, then kicks the enemy into the air, followed by kicking them away._
 
 -   Initial hit deals 30/32/34/36/38 base damage per level with 1.65 Heavy Weapon scaling.
--   The kicks deal 15/16/17/18/19 base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
--   Deals 20/22/24/26/GB posture damage per level on the first hit. The second hit always deals 4 posture damage.
-    -   Initial hit instantly guard breaks at level 5.
+-   The kicks deal 15[/16](Caster_Fur_Pauldrons.md) base damage per level, per hit (2) with 1.65 Heavy Weapon scaling.
+-   Deals 20[/22](Caster_Fur_Pauldrons.md) posture damage per level on the first hit. The second hit always deals 4 posture damage.
 -   The final hit applies [True Daze](Status_Effects.md#true-daze).
 -   Does good AOE damage as it can hit several enemies at once and bring them all up into the air.
 -   Ragdolls and flings opponent away.

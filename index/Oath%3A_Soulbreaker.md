@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 195674
+revid: 195698
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -148,7 +148,8 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
 -   **Ardour Slicer** - Close the distance and deliver a fast slash using your Ardour.
     -   User launches a projectile similar to Wind Blade.
     -   Deals 28 Oath damage.
-    -   Has 37% chip damage.
+    -   Has 40% chip damage.
+    -   Deals 18 posture damage.
     -   Projectile goes really far (~150 studs) and can hit multiple people at once.
     -   Upon hit, pushes the enemy in the direction of a projectile.
     -   Has a windup of 0.5 seconds and a cooldown of 12 seconds.
@@ -157,7 +158,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
 -   **Rhythm Advance** - Channel your Rhythm and track down your opponent.
     -   User starts rapidly spinning around, and after some time hits enemy with a similar attack to an uppercut.
     -   Deals 50 Physical damage.
-    -   Deals 20 posture damage if blocked.
+    -   Deals 20 posture damage.
     -   Upon using an M1 after cast, it can hit instantly without winding up.
     -   On successful hit, shows HP and Posture of enemies you hit.
     -   Provides I-Frames during entire move.
@@ -166,6 +167,7 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
 -   **Tacet Kick** - Slip out of perception and deliver a brutal kick.
     -   Similarly to [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick), the user turns invisible before teleporting to the opponent with the use of Tacet and kicking them.
     -   Deals 19 physical damage.
+    -   Deals 12 posture damage.
     -   Could prove useful in catching players.
     -   Despite going invisible you do not gain iframes during this move.
 

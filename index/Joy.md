@@ -1,6 +1,6 @@
 ---
 title: Joy
-revid: 185459
+revid: 195692
 source: https://deepwoken.fandom.com/wiki/Joy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Event Only Content, Hallowtide, Mechanics, Currency]

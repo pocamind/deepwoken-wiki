@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 194860
+revid: 195706
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -542,9 +542,11 @@ Shock Corps Division
 
 **Effect:** _The user summons a floating axe made of Thundercall and strikes their opponent._
 
--   If you M1 during this Mantra's windup, the axe performs a vertical radial slash, ragdolling and knocking back your opponent.
+-   If you M1 during this Mantra's windup, the axe performs a vertical radial slash, ragdolling and knocking back your opponent. This variant deals more posture damage.
+-   Has a base damage of 27 with 2.75 Thundercall scaling.
+-   The M1 variant has a base damage of 31 with 2.75 Thundercall scaling.
+-   The base variant deals 10 posture damage.
 -   Applies Shock on hit.
--   Scales with Thundercall.
 
  |
 

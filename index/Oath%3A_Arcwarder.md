@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 195064
+revid: 195697
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -99,6 +99,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
     -   Deals Flamecharm and Thundercall damage, additionally this scales with both Flamecharm and Thundercall.
     -   Can apply both Shock and Burning, or its Path alternate variants.
         -   Uniquely, the Shock this applies is a pink color.
+    -   Does not deal posture damage.
     -   12s CD.
     -   While Arc Suit is active, using Arc Wave restores 50% of your current posture. Additionally your Arc Wave will gain a +25% **base** damage buff damage during Arc Suit if you have the Arc Module: Enhance Talent.
     -   Has a 7.2x PvE multiplier (multiply damage dealt by 7.2 to get PvE damage).
@@ -108,6 +109,7 @@ _Note: The Suit is dyed by choosing "Arc Suit" in the dye ui. The Suit's light i
     -   Has a base damage of 20, dealt as Flamecharm and Thundercall damage. Additionally, this scales with both Flamecharm and Thundercall.
     -   Can apply both Shock and Burning, or its Path alternate variants.
     -   12s CD.
+    -   The grounded variant deals 8 posture damage. The aerial variant deals 20 posture damage.
     -   Can be used in the air to shoot under yourself.
         -   The Aerial variant has homing properties.
         -   The aerial variant gains the Oath damage typing alongside its original Flame and Thunder damage typings. The damage this deals is the same as grounded Arc Beam though.

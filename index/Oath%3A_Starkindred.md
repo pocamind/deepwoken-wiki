@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 190405
+revid: 195699
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -93,7 +93,8 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 -   **Ascension** - Take to the skies for a devastating strike.
     -   The user rises into the air before swooping in.
     -   Deals 37 Oath damage with 1.65 Strength scaling.
-    -   This attack cannot be parried or blocked, indicated by a sound effect and a red eye icon.
+    -   This attack cannot be parried or blocked, indicated by a sound effect and a red Telegraph.
+        -   This does not guardbreak, it entirely ignores your block, dealing its full damage and applying shaky block to anyone who attempts to block it.
     -   Applies hard knockdown on hit.
     -   [Wayward Gem](Wayward_Gem.md) will not proc on this Mantra.
     -   Can knockdown any enemy ingame.
@@ -102,14 +103,17 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 -   **Celestial Assault** - Use your wings and deliver two critical blows.
     -   Deliver a vertical slash (that launches the user and target up) and a horizontal slash (that pushes the target).
     -   Deals 40 (20\*2) Oath damage with 1.65 Strength scaling.
+    -   Deals 8 posture damage per hit.
     -   Initial 0.5 second windup (with wings) and a 10 second cooldown.
 -   Obtained after the third Sinner kill.
 
 -   **Sinister Halo** - Emit a spinning ring of celestial energy, trapping and shredding any who steps before its wake.
-    -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
-    -   Deals 32 (3.2\*10) Oath damage with 1.65 Strength scaling.
+    -   Deals 42 (3 \* 14) Oath damage with 1.65 Strength scaling.
+    -   Hits 14 times.
     -   Has a 0.6 second windup (with wings) and a 15 second cooldown.
--   Obtained after the second Sinner kill.
+    -   Deals 0.4 posture damage per hit (14), totaling to 5.6 posture damage if all hits are blocked.
+    -   Similar to the Galebreathe Mantra [Tornado](Galebreathe.md#tornado), but instead of it manually aiming, it will head forward until it hits an opponent, stopping where it hits.
+    -   Obtained after the second Sinner kill.
 
 ## Notes
 
