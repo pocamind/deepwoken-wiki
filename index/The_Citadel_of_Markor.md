@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 189428
+revid: 195736
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -28,7 +28,7 @@ As well as an archive, the Citadel is also an institute of education where peopl
 
 Due to the cultural and historical importance of the Citadel, the global calendar calculates the date based on the time relative to the founding of the Citadel. Years after its founding use "CE" (Citadel Era),[\[5\]](#cite-note-glosscitadel-5) while those before it are designated "BCE".[\[4\]](#cite-note-glossresurge-4)[\[11\]](#cite-note-glossauth-11)
 
-57 years after its initial founditng, the Citadel established [The Citadel Divers](The_Divers.md) in response to reports of individuals returning from the Depths, theorizing that they could deploy agents to the Depths directly to coordinate research, recon, and offensive action.[\[1\]](#cite-note-fathoms-1)
+57 years after its initial founding, the Citadel established [The Citadel Divers](The_Divers.md) in response to reports of individuals returning from the Depths, theorizing that they could deploy agents to the Depths directly to coordinate research, recon, and offensive action.[\[1\]](#cite-note-fathoms-1)
 
 In 108 CE, a fire broke out in the Citadel's archives, destroying some of their records, many of which concerned the early history of the Citadel.[\[1\]](#cite-note-fathoms-1)
 
