@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195685
+revid: 195719
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1086,6 +1086,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 100 Shadowcast, 100 Weapon (100 Light // 100 Medium // 100 Heavy), Fear the Dark
 
 -   Overwhelming Drain \[Common Talent, Shadowcast\] - If multiple enemies are hit by your Shadow Eruption, they are dazed.
+    -   This talent is currently bugged and does not work.
     -   Prerequisite: [Shadow Eruption](Shadowcast.md#shadow-eruption) (Mantra)
 
 -   Shadow Overflow \[Common Talent, Shadowcast\] - Extra ether stolen with mantras are exerted as dark energy, damaging and absorbing ether from those nearby.

@@ -1,6 +1,6 @@
 ---
 title: Ignition Union Arcwarder
-revid: 195052
+revid: 195718
 source: https://deepwoken.fandom.com/wiki/Ignition_Union_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Ignition Union Enemies]
@@ -13,7 +13,7 @@ categories: [Enemies, Ambush Enemies, Enemies that can wield Enchantments, Enemi
 | health | ??? |
 | drops | ??? |
 | weapon | Railblade |
-| moves | Assault, Critical, Arc wave, Arc Beam |
+| moves | Assault, Critical, Arc Wave, Arc Beam |
 
 ## Description
 

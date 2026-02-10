@@ -1,6 +1,6 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 195566
+revid: 195720
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -39,3 +39,7 @@ Unlike all other sources of Temporary Health, the Temporary Health given from th
 -   Mechanically, the burn is completely identical to base burn, with the only difference being its color.
 -   Critical attacks only grant 1 stack maximum, regardless of how many hits they have, similar to [Detonation](Detonation.md).
 -   This enchantment is very good for PvE, as the explosion has 7.65x PvE scaling and the Temporary Health does not have PvE scaling.
+
+## Trivia
+
+-   This was formerly called "Curse of Rhaemen's Ember"
