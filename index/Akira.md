@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 191303
+revid: 195737
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
@@ -39,13 +39,13 @@ Despite him lacking in the experience department due to his young age, he's one 
 
 Akira is first found in the [Celtor Wastes](Celtor_Wastes.md), protecting an area for a Divers Research division which can be found facing the flat gate and following the wall right until you reach a decrepit castle. He spawns in an event that isn't guaranteed, meaning you may need to server hop to meet him.
 
-You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is on the second floor of the castle. He gives you the option to [unbound](Attributes_Unbound.md) your [willpower](Attributes.md#willpower), and the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
+You meet him a second time after completing the event and accepting the challenge to meet him at [Castle Light](Castle_Light.md). Upon arrival he is on the second floor of the castle. He gives you the option to [unbound](Attributes_Unbound.md) your [Willpower](Attributes.md#wll), and the choice to join [the Divers](The_Divers.md), but warns that it is an extremely dangerous job.
 
 ## Akira vs. Ignition Union Event
 
 This event takes place at the decrepit research castle, upon triggering the event 4 Ignition Union NPCS will approach Akira, who is resting on the ground. A conversation ensues where Akira threatens their lives if they don't leave and creates a line of ice with a unique mantra. The leader of the Union research platoon claims that "This one's sanity must've already crumbled," and seems unfazed before approaching him and walking past the line, which causes Akira to say, "So be it," and uses his Corrupted Top-Pop to cause their heads to explode.
 
-After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 75 required to pass it.) Once you talk to him, he asks if you're another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md).
+After this you are able to talk to Akira, in which he has two different conversation paths. (There is a Charisma option, 75 required to pass it.) Once you talk to him, he asks if you're another Ignition Union member, in which you **are supposed** to say you aren't with them. This leads to a conversation where he tells you why he's there and offers to let you join [the Divers](The_Divers.md) if you make it to [Castle Light](Castle_Light.md). This unlocks the [Deepbound](Deepbound.md) Origin.
 
 ## Dialogue
 
@@ -167,9 +167,6 @@ After this you are able to talk to Akira, in which he has two different conversa
   <td>Don't say I didn't warn you.</td>
 </tr>
 <tr>
-  <td><b>(Prompt appears to join the Divers guild)</b></td>
-</tr>
-<tr>
   <td>Sounds fun.</td>
 </tr>
 <tr>
@@ -201,12 +198,6 @@ After this you are able to talk to Akira, in which he has two different conversa
 </tr>
 </tbody>
 </table>
-
-## Joining [the Divers](The_Divers.md)
-
-Once you reach [Castle Light](Castle_Light.md), and he gives you the option to join [the Divers](The_Divers.md). The guild does not currently come with many benefits, apart from a maxed-out guild base, which you can access with [Dwelling Charms](Dwelling_Charm.md). However, we know about some planned features: such as rewards from finding Artifacts in the Depths and turning them into either the Castle or Diver Camp. Joining the Divers will also have some effects upon travelling to the Central Luminant, where the Diver Capital is.
-
-There is no level requirement to join [the Divers](The_Divers.md).
 
 ## Trivia
 

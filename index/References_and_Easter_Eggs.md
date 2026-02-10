@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 195380
+revid: 195738
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -274,7 +274,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ### The Depths
 
--   **The** **Depths** itself was confirmed to have drawn inspiration _Salt and Sanctuary_.
+-   **The** **Depths** itself was confirmed to have drawn inspiration from _Salt and Sanctuary_.
     -   The ocean theme coupled with an idea of rebirth on the shore is taken from the game _Salt and Sanctuary._ The Depths are ruled by a group of false gods who drag down cities to add to the layers, just like the Nameless God did in _Salt and Sanctuary._
 -   The geological features of The Depths fit the corresponding circle of hell in _Dante's Inferno._ The first circle features a large cavern, while the second feature cold and harsh winds.
 -   The idea of [the Depth](The_Depths.md) is taken from [the Unknown](https://rogue-lineage.fandom.com/wiki/The_Unknown) from Rogue Lineage both having similar nature and purpose. It was once said by [Arch Mage that the Unknown is the Deep in the sense of the Rogue Tales universe](https://gyazo.com/e245926623205b30fb3fea98f90e5028).

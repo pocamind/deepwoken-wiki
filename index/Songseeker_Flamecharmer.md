@@ -1,6 +1,6 @@
 ---
 title: Songseeker Flamecharmer
-revid: 176637
+revid: 195739
 source: https://deepwoken.fandom.com/wiki/Songseeker_Flamecharmer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -99,16 +99,18 @@ A Songseeker Flamecharmer's arsenal consists of [Fists](Fists.md) (**Way of Nava
 
 ### Talents
 
+-   Phoenix Flames - Any time a Songseeker Flamecharmer would burn to death, they instead rise again with 50% of their health restored.
 -   Everchanging Aegis - Songseeker Flamecharmer take 20% less from attacks the same element as the last element they were hit with, but 10% more damage from attacks from different element.
 -   Perfect Flash - Having full health causes their mantras to do 25% extra damage
 -   Immolation - Fire spells cost 70% less while on fire. If a Songseeker Flamecharmer hit someone while on fire, apply fire damage. They take 50% less damage from self-inflicted flames.
+-   Mirage Clone - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at it on fire.
+-   The Final Act - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
 -   Agitating Spark - If a Songseeker Flamecharmer hit an opponent that they've lit on fire, it spreads to themselves and others around you.
 -   Controlled Combustion - Agitating Spark no longer spreads to their allies.
--   Mirage Clone - Successfully dodging leaves behind a heat mirage clone that sets enemies that swung at it on fire.
 -   Flaming Flourish - Set enemies on fire when the Songseeker Flamecharmer flourish or uppercut them.
 -   Corpse Explosion - Bodies that Songseeker Flamecharmer burn to death immediately explode dealing massive damage. The bodies will also be incinerated much faster.
--   The Final Act - Landing a fire mantra immediately after flourishing an opponent will cause them to explode.
--   Phoenix Flames - Any time a Songseeker Flamecharmer would burn to death, they instead rise again with 50% of their health restored.
+
+  
 
 ## Finisher
 
