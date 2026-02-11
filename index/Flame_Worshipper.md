@@ -1,6 +1,6 @@
 ---
 title: Flame Worshipper
-revid: 192959
+revid: 195742
 source: https://deepwoken.fandom.com/wiki/Flame_Worshipper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos, The Covenant of Flame]
@@ -121,7 +121,7 @@ N/A
 
 **Effect:** User releases a burst of flame from their palm in a cone shape.
 
--   Has a base damage of 26/27.5/29/30.5/32 with 2.75 Flamecharm scaling.
+-   Has a base damage of 26[/27.5](Caster_Fur_Pauldrons.md) with 2.75 Flamecharm scaling.
 -   Deals 5 posture damage.
 -   Has a windup of 0.7 seconds with 0.2 seconds of endlag, and a 16 second cooldown.
 -   Has 9.14x PvE scaling (multiply damage dealt by 9.14 for PvE damage).
@@ -237,7 +237,7 @@ Fire
 
 **Effect:** User summons six blazing warriors armed with Halberds in a circle, attacking one after the other in quick succession at the position of the caster, before performing a synchronous strike and disappearing.
 
--   Has a base damage of 4/4.4/4.8/5.2/5.6 per level, per hit (6) with 2.75 Flamecharm scaling.
+-   Has a base damage of 4[/4.4](Caster_Fur_Pauldrons.md) per level, per hit (6) with 2.75 Flamecharm scaling.
 -   Deals 4 posture damage per hit with an additional 20 posture damage on the final hit.
 -   Has a windup of 0.45s and a cooldown of 10 seconds.
 -   The synchronous strike occurs 2.2 seconds after the mantra is cast.
@@ -340,7 +340,7 @@ Fire
 
 **Effect:** User forcefully slams down their blade coated in flames.
 
--   Has a base damage of 18/21/24/27/30 per level with 2.75 Flamecharm scaling.
+-   Has a base damage of 18[/21](Caster_Fur_Pauldrons.md) per level with 2.75 Flamecharm scaling.
 -   Deals 18 posture damage at levels 1-4, guard breaks at level 5.
     -   At level 5, this Mantra takes 20 additional Ether on cast to retain its guard breaking property. This additional Ether cost cannot be reduced.
 -   Has a windup of 0.7 seconds and a cooldown of 10 seconds.
@@ -486,10 +486,7 @@ Fire
 -   The damage reduces with each successive hit.
 -   Each level increases the base damage by 10% of the level 1's base damage. Relentless Flames has 2.75 Flamecharm scaling.
     -   At level 1, Relentless Flames has a base damage of 20 + 20 + 14 + 8 + 4 + 4 + 4.
-    -   At level 2, Relentless Flames has a base damage of 22 + 22 + 15.4 + 8.8 + 4.4 + 4.4 + 4.4.
-    -   At level 3, Relentless Flames has a base damage of 24 + 24 + 16.8 + 9.6 + 4.8 + 4.8 + 4.8.
-    -   At level 4, Relentless Flames has a base damage of 26 + 26 + 18.2 + 10.4 + 5.2 + 5.2 + 5.2.
-    -   At level 5, Relentless Flames has a base damage of 28 + 28 + 19.6 + 11.2 + 5.6 + 5.6 + 5.6.
+    -   [At level 2, Relentless Flames has a base damage of 22 + 22 + 15.4 + 8.8 + 4.4 + 4.4 + 4.4.](Caster_Fur_Pauldrons.md)
 -   Deals 5/11/13/15/19 posture damage per level.
 -   Has a windup of 0.9 and 0.25 seconds between hits, and a 10 second cooldown.
 -   Cancels if the first hit does not land. Additionally, if any hit is parried, even if it isn't the first one, the Mantra will also cancel.
@@ -533,7 +530,7 @@ Fire
 
 **Effect:** User propels and spins in a 360 motion forward coated in flames leaving a trail behind; hitting anyone in their path.
 
--   Has a base damage of 8/16/24/32/40 per level with 2.75 Flamecharm scaling.
+-   Has a base damage of 8[/16](Caster_Fur_Pauldrons.md) per level with 2.75 Flamecharm scaling.
 -   Deals 1.5/3/4.5/6/7.5 posture damage per level.
 -   Has a windup of 0.5 and 0.2 seconds before it hits, and a 10 second cooldown.
 -   Has 9.17x PvE scaling (multiply damage dealt by 9.17 for PvE damage).

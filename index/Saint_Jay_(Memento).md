@@ -1,6 +1,6 @@
 ---
 title: Saint Jay (Memento)
-revid: 194261
+revid: 195743
 source: https://deepwoken.fandom.com/wiki/Saint_Jay_(Memento)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -122,7 +122,7 @@ Ice
 
 **Effect:** _Fire a penetrating beam of ice._
 
--   Has a base damage of 7/7.3/7.6/7.9/8.2 per level per hit (4) with 2.75 Frostdraw scaling.
+-   Has a base damage of 7[/7.3](Caster_Fur_Pauldrons.md) per level per hit (4) with 2.75 Frostdraw scaling.
 -   Has a windup of 0.35 seconds, and an endlag of 0.15 seconds.
 -   Has a base cooldown of 12 seconds, this will increase if you add any size modifications.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
@@ -167,7 +167,7 @@ Ice
 
 **Effect:** _Conjure a spear of ice while lunging forward; if hit, impale the spear into the target before detonating it upon impact._
 
--   Has a base damage of 20/24/28/32/36 per level with 2.75 Frostdraw scaling.
+-   Has a base damage of 20[/24](Caster_Fur_Pauldrons.md) per level with 2.75 Frostdraw scaling.
 -   The Lance shatter has a base damage of 5/6/7/8/9 per level with 5 Frostdraw scaling.
 -   Deals 4/5/6/7/8 posture damage per level.
 -   Has a cooldown of 12 seconds.
@@ -213,8 +213,8 @@ Slash
 **Effect:** _User creates a white circle on their torso, if hit during the circle's animation, it'll turn red then proceed to go on a short cooldown. If not activated in time the effect will fade away._
 
 -   After countering an attack, casting Punishment again will proceed to do a big AOE swing similar to [Master's Flourish](Attunement-less.md#masters-flourish).
--   On follow-up, this Mantra deals 10/15/20/25/30 base damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
--   Deals 10/15/25/30 posture damage per level, adding an additional 40%/55%/70%/85%/100% of the countered attack's damage per level to this attack.
+-   On follow-up, this Mantra deals 10[/15](Caster_Fur_Pauldrons.md) base damage per level, adding an additional 40%[/55%](Caster_Fur_Pauldrons.md) of the countered attack's damage per level to this attack. Punishment has 1.65 **Agility** scaling.
+-   Deals 10[/15](Caster_Fur_Pauldrons.md) posture damage per level, adding an additional 40%[/55%](Caster_Fur_Pauldrons.md) of the countered attack's damage per level to this attack.
 -   The counter has a wind-up of 0.2 seconds; being hit during this wind-up will cancel Punishment altogether. Additionally, this attack has a window of 0.55 seconds to counter any attack, and 0.7 seconds of endlag if whiffed.
 -   The follow-up attack has a staggeringly short 0.35 second windup, making it very hard to react to. That being said, this attack is still parryable.
 
@@ -297,7 +297,7 @@ Ice + Slash
 
 **Effect:** _Conjure a glaive of ice while performing a flurry; if hit, the target and the user is sent upwards into the air._
 
--   Has a base damage of 10 + 11.5 + 20 / 11 + 12.65 + 22 / 12 + 13.8 + 24 / 13 + 14.95 + 26 / 14 + 16.1 + 28 per level with 2.75 Frostdraw scaling.
+-   Has a base damage of 10 + 11.5 + 20[/ 11 + 12.65 + 22](Caster_Fur_Pauldrons.md) per level with 2.75 Frostdraw scaling.
 -   Deals 12/15/18/21/24 posture damage per level.
 -   13 second cooldown.
 -   Has 9.17x PvE scaling (multiply scaled damage dealt by 9.17 for PvE damage).
@@ -397,7 +397,7 @@ Ice
 
 **Effect:** _Conjure a torrent of solid ice that extends towards the user's cursor._
 
--   Has a base damage of 30/32.7/35.4/38.1/40.8 per level with 2.75 Frostdraw scaling.
+-   Has a base damage of 30[/32.7](Caster_Fur_Pauldrons.md) per level with 2.75 Frostdraw scaling.
 -   Modifying this Mantra with [Glass](Mantra_Modifiers.md) and [Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) grants it an additional hit, dealing 7/9.5/12/14.5/17 base damage per level with 2.75 Frostdraw scaling.
 -   Deals 15 posture damage per level. The additional hit from Glass/Magnifying Stones deals 5 posture damage.
 -   Has a 12 second cooldown.
@@ -443,7 +443,7 @@ Ice
 
 **Effect:** _Perform a wind-up before conjuring and slamming a spiked ice club into the ground ahead._
 
--   Has a base damage of 35/38/41/44/47 per level with 2.75 Frostdraw scaling.
+-   Has a base damage of 35[/38](Caster_Fur_Pauldrons.md) per level with 2.75 Frostdraw scaling.
 -   The Glacial Finish (F) variant has a base damage of 28/30.4/32.8/35.2/37.6 per level with 2.75 Frostdraw scaling.
 -   Deals 10/14/16/18/guard break posture damage per level. The Glacial Finish variant deals 10 posture damage per level.
 -   At level 5, this Mantra becomes an instant-guard break, costing 20 additional Ether on cast to retain this property. This additional Ether cost cannot be reduced.
@@ -547,7 +547,7 @@ Ice
 
 **Effect:** _Conjure a deadly rapidly moving saw of ice with the user's left hand._
 
--   Has a base damage of 5/5.5/6/6.5/7 per level, per hit (9) with 2.75 Frostdraw scaling.
+-   Has a base damage of 5[/5.5](Caster_Fur_Pauldrons.md) per level, per hit (9) with 2.75 Frostdraw scaling.
 -   The [Spring Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 10/10.5/11/11.5/12 per level, per hit with 2.75 Frostdraw scaling.
 -   The [Round Spark](Mantra_Modifiers.md#sparks) variant has a base damage of 3/3.5/4/4.5/5 per level, per hit (20) with 2.75 Frostdraw scaling.
 -   Deals 1 posture damage per hit (9 when sparkless). The Round Spark variant deals 2 posture damage per hit (10, hitting block counts as 2).
@@ -595,7 +595,7 @@ Slash
 
 **Effect:** _User performs a heavy downwards swing that cleaves through the air, sending out 3 large blasts of air that ragdoll and knockback._
 
--   Deals 8/10.5/13/15.5/18 base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
+-   Deals 8[/10.5](Caster_Fur_Pauldrons.md) base damage per level, per hit (3) with 1.65 Heavy Weapon scaling.
 -   Deals 12 posture damage per hit (3).
 -   Initial hit has a windup of 0.75s with each followup hit having a windup of 0.2s each.
 -   Dazes opponents on hit.
@@ -699,7 +699,7 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 
 **Effect:** _Encases the user in a block of ice while releasing pulses of ice that Chill and pushes back any targets that get close, user heals in the first two pulses of a ring. The user will automatically parry one hit while this is active._
 
--   Has a base damage of 3/3.5/4/4.5/5 per level, per hit (5) with 2.75 Frostdraw scaling.
+-   Has a base damage of 3[/3.5](Caster_Fur_Pauldrons.md) per level, per hit (5) with 2.75 Frostdraw scaling.
 -   Deals 3 posture damage per hit (5).
 -   Has a cooldown of 33 seconds.
 -   Has 6.48x PvE scaling (multiply scaled damage dealt by 6.48 for PvE damage).

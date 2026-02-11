@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 194571
+revid: 195749
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies]
@@ -184,7 +184,7 @@ The [Solborn](Solborn.md) [Memento](Mementos.md) is unlocked by getting Zi'eer t
 **The Master Of The House**  
 (★★★★★)
 
- | Zi'eer summons a singularity of black contractor sorcery in the air, charging it up slowly up. Once it is fully charged, he throws it at the Inheritor.
+ | Zi'eer summons a singularity of black contractor sorcery in the air, charging it up slowly. Once it is fully charged, he throws it at the Inheritor.
 
 -   This move only occurs during his second phase.
 -   This move will instantly kill you if you do not hit him before he charges it up.

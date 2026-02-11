@@ -1,6 +1,6 @@
 ---
 title: Berserker
-revid: 195701
+revid: 195741
 source: https://deepwoken.fandom.com/wiki/Berserker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -142,7 +142,9 @@ Blood +
 
 **Effect:** _Jump up into the air before slamming down, dealing AoE damage and applying knockdown._
 
--   Deals 18.5[/26](Caster_Fur_Pauldrons.md) damage per level (slam) with innate [Bleed](Status_Effects.md#bleed), 14 posture, 0.75s windup Has 10s CD
+-   Has a base damage of 18.5[/26](Caster_Fur_Pauldrons.md) per level with innate [Bleed](Status_Effects.md#bleed) and 2.75 Bloodrend scaling.
+-   Deals 14 posture damage.
+-   Has a 0.75 second windup with a 10 second cooldown.
 -   Has 9.18x PVE scaling
 -   Leaves behind a Blood Pool.
 -   Applies knockdown to the enemy on hit.

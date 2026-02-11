@@ -1,6 +1,6 @@
 ---
 title: Rogue Assassin
-revid: 195471
+revid: 195745
 source: https://deepwoken.fandom.com/wiki/Rogue_Assassin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -299,7 +299,7 @@ Slash + [Bleed](Status_Effects.md#bleed)
 **Effect:** _User quickly dashes forward and creates a red-line effect._
 
 -   The move teleports you forwards only upon hitting an opponent.
--   Has a base damage of 12/13/14/15/16 per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
+-   Has a base damage of 12[/13/14/15](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>)[/16](Caster_Fur_Pauldrons.md) per level with innate [bleed](Status_Effects.md#bleed) and 1.65 Agility scaling.
 -   Deals 5 posture damage.
 -   15 second cooldown.
 -   It has a wind-up of 0.55 seconds and an endlag of 0.15 seconds.
@@ -405,7 +405,7 @@ Slash
 
 **Effect:** _User teleports to the enemy their cursor is located on and performs numerous slashes._
 
--   Deals 12+4/14+4.67/16+5.33/18+6/20+6.67 base damage per level with 1.65 Light Weapon scaling.
+-   Deals 12+4[/14+4.67](Caster_Fur_Pauldrons.md) base damage per level with 1.65 Light Weapon scaling.
 -   Deals 10 posture damage.
 -   Has a windup of 0.67 seconds.
 -   Upgrading the Mantra increases teleportation range.
@@ -529,7 +529,7 @@ Slash
 -   Damage ramps up on each hit.
 -   Deals 20 > 25 > 30 > 35 > 40 base damage on the initial hits with 1.65 Light Weapon scaling. This damage does not scale on Mantra level.
 -   After each hit, three damage ticks will follow. These scale on your Mantra's level.
-    -   The secondary damage ticks deal 6.67/7.67/8.67/9.67/10.67 base damage per level, per hit (3) with 1.65 Light Weapon scaling.
+    -   The secondary damage ticks deal 6.67[/7.67](Caster_Fur_Pauldrons.md) base damage per level, per hit (3) with 1.65 Light Weapon scaling.
 -   Can perform a maximum of 5 slashes, ending after the 5th slash, or sometimes more if you regain enough Ether during the Mantra or time slashes in a specific manner.
 -   Constantly consumes Ether while invisible.
 -   The slashes lock onto the closest target within Ceaseless' range.
@@ -639,11 +639,11 @@ N/A
 
 **Effect:** _User activates an inner surge of energy_
 
--   Grants a speed boost for 10/12/14/16/18 seconds per level.
--   Has a cooldown of 60/55/50/45/40 seconds per level.
+-   Grants a speed boost for 10[/12/14/16](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>)[/18](Caster_Fur_Pauldrons.md) seconds per level.
+-   Has a cooldown of 60[/55/50/45](<Inquisitor's_Thorn.md#talent-expeditionary-evasiveness>)[/40](Caster_Fur_Pauldrons.md) seconds per level.
 -   Counts as a speed boost, meaning it can proc all speed boost reliant Talents.
 -   The Mantra's visual effect does not increase with level, leading to it being very inaccurate.
--   Can be upgraded with the [Action Surge](Talents.md#vigil-swordsman) Talent, increasing the swing speed of all weapons by 0.04 while Action Surge is active.
+-   Can be upgraded with the [Action Surge](Talents.md#action-surge) Talent, increasing the swing speed of all weapons by 0.04 while Action Surge is active.
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Spear Dancer
-revid: 195194
+revid: 195744
 source: https://deepwoken.fandom.com/wiki/Spear_Dancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -201,11 +201,11 @@ Slash
 
 **Effect:** _User performs a spinning double slice with their sword._
 
--   Deals 3+5.4/6+10.8/9+16.2/12+21.6/15+27 base damage per level with 1.65 Medium Weapon scaling.
+-   Deals 3+5.4[/6+10.8](Caster_Fur_Pauldrons.md) base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 5 posture damage per hit (2).
 -   Initial hit has 0.525 wind-up with the follow-up having 0.4s wind-up.
 -   Master's Flourish has 0.35s endlag.
--   Deals Chip Damage.
+-   Has 37% chip damage.
 -   Deals knockback.
 -   Can be modified with a Glass/Magnifying stone to make it bigger.
 
@@ -305,7 +305,7 @@ Slash
 
 **Effect:** _User unleashes 2 slashes, the first moving them forward, the second launching them backwards._
 
--   Deals 9+18.75/10.2+21.25/11.4+23.75/12.6+26.25/13.8+28.25 base damage per level with 1.65 Medium Weapon scaling.
+-   Deals 9+18.75[/10.2+21.25](Caster_Fur_Pauldrons.md) base damage per level with 1.65 Medium Weapon scaling.
 -   Deals 6.75 posture damage per hit (2).
 -   Initial hit has a wind-up of 0.5s, with the follow-up attack having a 0.4s wind-up.
 -   Twincleave has an endlag of 0.4s.
@@ -346,7 +346,7 @@ Slash
 
 **Effect:** _User locks onto all the closest targets that are in range, then dashes forward and performs a large AoE slice._
 
--   Deals 9/17/25/33/41 base damage per level with 1.65 Medium Weapon scaling.
+-   Deals 9[/17](Caster_Fur_Pauldrons.md) base damage per level with 1.65 Medium Weapon scaling.
 -   Deals **50% less damage** if used while your weapon is sheathed or if used on a non-medium weapon.
 -   Deals 5 posture damage.
 -   Has a wind-up of 0.5 seconds with an endlag of 0.2 seconds.
