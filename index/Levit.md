@@ -1,6 +1,6 @@
 ---
 title: Levit
-revid: 189350
+revid: 195791
 source: https://deepwoken.fandom.com/wiki/Levit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects]
@@ -88,4 +88,3 @@ Levit has three ear variants. The color of the ears are based on your skin color
     -   Its Aspect Trait and appearance in the [Strange Merchant](Strange_Merchant.md) Memento is related to time, which is commonly shared with the White Rabbit and many interpretations of it.
     -   All roads lead to Rome. Or all roads lead to the West?
 -   One of the Surnames is named after youtuber Mikepike's bunny. He did not state which one though.
--   Levit is the only Aspect that does not have a [Hallowtide](Hallowtide.md) variant.

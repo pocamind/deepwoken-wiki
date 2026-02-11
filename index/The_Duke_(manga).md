@@ -1,9 +1,9 @@
 ---
 title: The Duke (manga)
-revid: 178579
+revid: 195779
 source: https://deepwoken.fandom.com/wiki/The_Duke_(manga)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-canon articles", Manga characters, Deceased characters]
+categories: ["Non-canon articles", Pages with broken file links, Manga characters, Deceased characters]
 notices:
   - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
 ---
@@ -21,9 +21,15 @@ notices:
 
 ## Description
 
-The Duke once ruled an unnamed country that was beset by foreign invasions that threatened to destroy it. The Duke initially relied on his science and the strength of his people and [Marquis](Marquis.md) to keep the nation safe, but eventually turned to experimentation to strengthen his people. Using science and sorcery, he tore out the souls of countless people to turn them into stone golems to serve as his soldiers, first doing it to his army and civilians and then to the constant stream of warriors and adventurers the people begged to go stop him. As time went on, the Duke became warped by his desire for power that quickly overshadowed whatever good intentions he may have once had, and was expelled from his land by his former people.
+The Duke once ruled an unnamed country that was beset by foreign invasions that threatened to destroy it. The Duke initially relied on his science and the strength of his people and [Marquis](Marquis.md) to keep the nation safe but eventually turned to experimentation to strengthen his people. Using science and sorcery, he tore out the souls of countless people to turn them into stone golems to serve as his soldiers, first doing it to his army and civilians and then to the constant stream of warriors and adventurers the people begged to go stop him. As time went on, the Duke became warped by his desire for power that quickly overshadowed whatever good intentions he may have once had and was expelled from his land by his former people.
 
 Eventually, the Duke returned to his former kingdom and based himself in the [Northern Temple](Northern_Temple.md). Fearing that his activities would destroy the island, the people urged an [adventuring party](Unidentified_adventuring_party.md) to defeat the Duke. The trio confront him, and he asked if they were seeking power like he was. They stated they were nothing like him, which prompted the Duke to transform into a bestial form and summon his golems to demonstrate his own power. The Duke revealed that many of the golems were constructed from the souls of adventurers who had challenged him in the past, demanding the souls of the party while a barrier around him deflected their attacks. The Duke then launched a counterattack that sent his enemies flying. However, this allowed the [swordsman](Unidentified_swordsman.md) of the group to notice the Duke's skeletal structure protruding out of the ground, having been converted into conduits of magic. The swordsman removed them, which dispelled the Duke's shield. In retaliation, he readied a fused Mantra combining fire, ice and lightning, hurling at the party. The swordsman, however, parried the attack, allowing the party to land several hits on the Duke and finish him off.
+
+## Gallery
+
+File:Dukes tri attunement Mantra.png
+
+the Duke getting ready to launch a fused Mantra, combining fire, ice and lightning
 
 ## Trivia
 

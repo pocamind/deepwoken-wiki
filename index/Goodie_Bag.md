@@ -1,6 +1,6 @@
 ---
 title: Goodie Bag
-revid: 190456
+revid: 195771
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Relics, Items, Hallowtide]
@@ -25,6 +25,8 @@ notices:
 ## Description
 
 The Goodie Bag is a consumable [Relic](Relics.md) that on use will grant the user 3 to 5 Hallowtide-related items or Relics.
+
+Despite them being purchasable from [Traan Zakshun](Traan_Zakshun.md), they cannot be opened outside of the Hallowtide event. This means that you should only purchase them from him _if_ you intend to stockpile for the next Hallowtide
 
 ## Loot Table
 

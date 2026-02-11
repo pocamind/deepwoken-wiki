@@ -1,6 +1,6 @@
 ---
 title: Unidentified swordsman
-revid: 178687
+revid: 195770
 source: https://deepwoken.fandom.com/wiki/Unidentified_swordsman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Articles with conjectural titles, "Non-canon articles", Manga characters]

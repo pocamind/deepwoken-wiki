@@ -1,6 +1,6 @@
 ---
 title: Brilliant Pauldrons
-revid: 189869
+revid: 195764
 source: https://deepwoken.fandom.com/wiki/Brilliant_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -34,4 +34,4 @@ Brilliant Pauldron is an [Equipment](Equipment.md) item under the "Arms" categor
 
 -   The entire Brilliant set is a reference to [Ike](https://fireemblemwiki.org/wiki/Ike) from his appearance in [Fire Emblem: Radiant Dawn](https://fireemblemwiki.org/wiki/Fire_Emblem:_Radiant_Dawn).
 -   This item is as rare as a [Relic](Relics.md), but this is most likely a bug.
--   If you are looking for this item [Jeremiah](<Jeremiah_(Vow_of_Iron).md>) gives this commonly.
+-   If you are looking for this item [Jeremiah](Jeremiah.md) gives this commonly.
