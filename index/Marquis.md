@@ -1,9 +1,9 @@
 ---
 title: Marquis
-revid: 178316
+revid: 195816
 source: https://deepwoken.fandom.com/wiki/Marquis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: ["Non-canon articles", Manga characters]
+categories: [Individuals with He/him pronouns, "Non-canon articles", Manga characters]
 notices:
   - "Heretical tomes... The content found within this article is considered non-canonical in regards to the wider Deepwoken universe."
 ---
@@ -12,6 +12,7 @@ notices:
 
 | Marquis | |
 |---|---|
+| pronouns | He/him |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Lavasucker
-revid: 192069
+revid: 195805
 source: https://deepwoken.fandom.com/wiki/Lavasucker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Monsters]
@@ -42,7 +42,7 @@ _Also referred to as Lava Bat or Magma Bat._
 
 ### **Passives**
 
--   **Eruption path** - upon landing **Bite**, an explosion will form below the hit player and explode again shortly after, ragdolling the victim.
+-   **Eruption Path** - Upon landing **Bite**, an explosion will form below the hit player and explode again shortly after, ragdolling the victim.
 
 ## Finisher
 

@@ -1,6 +1,6 @@
 ---
 title: Unidentified knight
-revid: 195773
+revid: 195817
 source: https://deepwoken.fandom.com/wiki/Unidentified_knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-canon articles"]
@@ -13,11 +13,9 @@ notices:
 | Unidentified knight | |
 |---|---|
 
-“ MAYBE IT'S BETTER YOU NEVER FIND OUT WHAT LIES BEYOND TRUE POWER... ”
+“ MAYBE IT'S BETTER YOU NEVER FIND OUT WHAT LIES BEYOND TRUE POWER...Maybe it's better you ”
 
 ― Unidentified knight
-
-  
 
 ## Description
 
