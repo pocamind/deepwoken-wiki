@@ -1,6 +1,6 @@
 ---
 title: "Klaris Llfiend, Mother of Lights"
-revid: 193185
+revid: 195834
 source: https://deepwoken.fandom.com/wiki/Klaris_Llfiend%2C_Mother_of_Lights
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the First Layer, Oath Trainer, Black Divers, The Divers]
@@ -42,15 +42,18 @@ Medallion Exchange
 <table>
 <tbody>
 <tr>
-  <td><center><figure><figcaption></figcaption></figure>5 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="Kyrsan_Medallions.md">KyrsanMedallionLarge</a><div>Kyrsan<br>
+  Medallions</div></center></td>
   <td><div>Enchant Stone</div><div><i>A shard of enchantment; it can apply its given Enchant to your currently equipped weapon.</i></div></td>
 </tr>
 <tr>
-  <td><center><figure><figcaption></figcaption></figure>5 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><center><figure><figcaption></figcaption></figure>5 <a href="Kyrsan_Medallions.md">KyrsanMedallionLarge</a><div>Kyrsan<br>
+  Medallions</div></center></td>
   <td><div>Enchant Grease</div><div><i>An oil of enchantment; it can apply its given Enchant to your Equipment.</i></div></td>
 </tr>
 <tr>
-  <td><center><figure><figcaption></figcaption></figure>3 <a href="Knowledge.md">KnowledgeLargeNew</a><div>Knowledge</div></center></td>
+  <td><center><figure><figcaption></figcaption></figure>1 <a href="Kyrsan_Medallions.md">KyrsanMedallionLarge</a><div>Kyrsan<br>
+  Medallions</div></center></td>
   <td><div>Dye Packet</div><div><i>A vial of swirling colors crafted by the hand of a powerful Dawnwalker. Used to dye your equipment and various aspects of your appearance.</i></div></td>
 </tr>
 </tbody>

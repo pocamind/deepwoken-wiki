@@ -1,6 +1,6 @@
 ---
 title: The Ministry
-revid: 193986
+revid: 195838
 source: https://deepwoken.fandom.com/wiki/The_Ministry
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Ministry]
@@ -19,7 +19,7 @@ categories: [Factions, The Ministry]
 
 ## Description
 
-The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to cause Great Drownings in order to achieve Godhood. They are led by the Nine Prophets, with the First Prophet being the strongest mortal alive, the Second Prophet being the one who pioneered [Bloodrend](Bloodrend.md) and spread it to their followers in the form of an Oath, and the Fourth, Zi'eer, being the current Lord Regent of Etrea. They have some sort of hostility against [The Children of Navae](The_Children_of_Navae.md) and desire to clear them out of [Summer Isle](Summer_Isle.md), presumably due to The Children of Navae's allegiance with a [Celestial](Celestial.md), Navae, while the Ministry seeks the favor of the Drowned Gods. This is a rather one-sided rivalry.
+The Ministry is a group of mysterious users of [Shadowcast](Shadowcast.md) who seek to cause Great Drownings in order to achieve Godhood. They are led by the Nine Prophets, with the First Prophet being the strongest mortal alive, the Second Prophet being the one who pioneered [Bloodrend](Bloodrend.md) and spread it to their followers in the form of an Oath, and the Fourth, [Zi'eer](The_Lord_Regent.md), being the current Lord Regent of Etrea. They have some sort of hostility against [The Children of Navae](The_Children_of_Navae.md) and desire to clear them out of [Summer Isle](Summer_Isle.md), presumably due to The Children of Navae's allegiance with a [Celestial](Celestial.md), Navae, while the Ministry seeks the favor of the Drowned Gods. This is a rather one-sided rivalry.
 
 The exact time of their founding is unclear, but by 1272,[\[1\]](#cite-note-1) the original incarnation of the Ministry who had fought to conquer [Minityrsa](Minityrsa.md) were considered ancient.[\[2\]](#cite-note-2)
 

@@ -1,6 +1,6 @@
 ---
 title: The Duke (manga)
-revid: 195815
+revid: 195821
 source: https://deepwoken.fandom.com/wiki/The_Duke_(manga)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, "Non-canon articles", Manga characters, Deceased characters]
@@ -18,7 +18,7 @@ notices:
 
 “ Welcome, adventurers. Do you, too, seek power? ”
 
-― The Duke greeting an adventuring party.
+― The Duke greeting an adventuring party
 
 ## Description
 

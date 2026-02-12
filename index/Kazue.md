@@ -1,6 +1,6 @@
 ---
 title: Kazue
-revid: 194655
+revid: 195826
 source: https://deepwoken.fandom.com/wiki/Kazue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Reputation, Etrean Royalists]
@@ -25,7 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Kazue is an [Etrean](Etrean.md) NPC who accepts a bribe for the [Etrean Royalists](Etrean_Royalists.md). The player can pay them up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
+Kazue is an [Etrean](Etrean.md) NPC. They accept a bribe for the [Etrean Royalists](Etrean_Royalists.md).
+
+The Inheritor can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 

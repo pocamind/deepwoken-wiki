@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 193795
+revid: 195832
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -187,10 +187,9 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 
 -   The lines that adorn a Silentheart's arms and chest are tattoos, not veins.
     -   Despite this, they will lose their coloration should the Silentheart be killed by [Blood Scourge](Blood_Scourge.md), which specifically drains blood.
--   After completing Silentheart (e.g killing all the attunement trainers) they will have a new unique dialogue option, that being "Your Ether ... Just what have you done?" signifying that obtaining SilentHeart may alter your ether in a very bad way
--   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have Talents like [Flaming Flourish](Flamecharm.md#the-demon-blade) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
--   Silentheart Talents are the only Talents in the game to update their Talent descriptions in real time to what your keybinds currently are. For example, if you change your Unmatched Dexterity Key to P, the Talent description will use "P" instead of "X".
--   The color of Silentheart's arm-tattoos/markings can be changed with a [Dye Packet](Dye_Packet.md). This will also change the color of **Dread Fighter**, **True Vantage** vent, and other Silentheart effects.
+-   The dialogue with the [Attunement Trainers](Attunement_Trainers.md) changes after obtaining Silentheart, stating "Your Ether ... Just what have you done?" [Vyrelda](Vyrelda,_Master_of_Blood.md) has further unique dialogue, stating "I don't have time for this."
+-   Previously, there was a bug allowing you to acquire an Attunement and its Talents (albeit not its Mantras) by drinking an [Attunement Potion](Attunement_Potions.md) while in the Dreadstar's dialogue. However, this was eventually fixed. This let some people have Talents like [Flaming Flourish](Talents.md#flaming-flourish) along with Silentheart, allowing for huge damage potential. Builds created before it was patched still have their abilities.
+-   On top of changing the color of your Silentheart tattoos, [dying](Dye_Packet.md) the Silentheart Oath cosmetic will also recolor your True Vantage Vent, Dread Fighter, and Flow State.
 -   The sound of landing a hit / obtaining a stack of dread is the same sound used in Terraria when a Fallen Star lands.[\[1\]](#cite-note-1)
 -   Ankle Cutter is a reference to Ankle Cutter from _Black Desert Online._
 -   Several terms related to the Silentheart Oath before its rework reference the _Fire Emblem_ series.
@@ -200,8 +199,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
     -   Mani Katti references Lyn's [weapon of the same name](https://fireemblem.fandom.com/wiki/Mani_Katti).
 -   You can still talk to the [Attunement-less](Attunement-less.md) trainer [Regek](Regek.md) and complete the Soulblooms quest.
 -   The Silentheart [Oath](Oaths.md) has the most [Talents](Talents.md) of any Oath, having a whopping 12 (Including the [Oath](Oaths.md) itself).
--   ~If you [Oathbreak](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>) Silentheart while having a weapon equipped that you would not meet the requirements for afterwards, the weapon will **not** be unequipped, but you'll receive a penalty of dealing 25% less melee damage for not meeting the requirements of your weapon.~ (This has been patched as of 8/18/2025)
 
 ## References
 
-1.  [↑](#cite-ref-1) ([https://www.youtube.com/watch?v=ggRX1zqDccI](https://www.youtube.com/watch?v=ggRX1zqDccI))
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=ggRX1zqDccI](https://www.youtube.com/watch?v=ggRX1zqDccI)
