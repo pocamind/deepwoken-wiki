@@ -1,6 +1,6 @@
 ---
 title: Innkeep
-revid: 191477
+revid: 195882
 source: https://deepwoken.fandom.com/wiki/Innkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]

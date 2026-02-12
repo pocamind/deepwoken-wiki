@@ -1,6 +1,6 @@
 ---
 title: Sachan Shisui Kobura
-revid: 195844
+revid: 195873
 source: https://deepwoken.fandom.com/wiki/Sachan_Shisui_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]
@@ -25,7 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sachan Shisui Kobura is an [Etrean](Etrean.md) NPC. In an argument with the three other Sachans in [The Golden Rat](The_Golden_Rat.md), she held that the [Etrean Royalists](Etrean_Royalists.md) needed to seek powerful allies to make the next move, mostly [The Central Authority](The_Central_Authority.md). Shisui is often described as ambitious and selfish.
+Sachan Shisui Kobura is an [Etrean](Etrean.md) NPC. She is the head of the [Kobura Clan](Clan_Kobura.md).
+
+In an argument with the three other Sachans in [The Golden Rat](The_Golden_Rat.md), she held that the [Etrean Royalists](Etrean_Royalists.md) needed to seek powerful allies to make the next move, namely [The Central Authority](The_Central_Authority.md), and proposed to be the head of such an alliance. Shisui is often described as ambitious and selfish.
 
 ## Location
 
@@ -104,4 +106,4 @@ Sachan Shisui Kobura is located at [The Indigo Citadel](The_Indigo_Citadel.md), 
 
 ## Trivia
 
-Roblox clothing: [Shirt](https://www.roblox.com/catalog/8457576608/Hokkaido-Ronin) • [Pants](https://www.roblox.com/catalog/8457577787/Hokkaido-Ronin)
+-   Roblox clothing: [Shirt](https://www.roblox.com/catalog/8457576608/Hokkaido-Ronin) • [Pants](https://www.roblox.com/catalog/8457577787/Hokkaido-Ronin)

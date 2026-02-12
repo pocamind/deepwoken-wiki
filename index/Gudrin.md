@@ -1,9 +1,9 @@
 ---
 title: Gudrin
-revid: 194311
+revid: 195863
 source: https://deepwoken.fandom.com/wiki/Gudrin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Reputation]
+categories: [Celtor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Divers, Reputation]
 ---
 
 # Gudrin
@@ -12,6 +12,7 @@ categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First 
 |---|---|
 | name | Gudrin |
 | aspect | Celtor |
+| pronouns | They/them |
 | location | First Layer |
 | affiliation | The Divers |
 
@@ -25,7 +26,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Gudrin is a [Celtor](Celtor.md) NPC who accepts a bribe for [The Divers](The_Divers.md). The player can pay them up to 1,200 to restore their reputation back to neutral.
+Gudrin is a [Celtor](Celtor.md) NPC. They accept a bribe for [The Divers](The_Divers.md).
+
+The Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 

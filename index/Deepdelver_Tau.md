@@ -1,6 +1,6 @@
 ---
 title: Deepdelver Tau
-revid: 191395
+revid: 195891
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Tau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Deepdelvers, Individuals with unspecified pronouns]
@@ -21,7 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-A Ganymede Deepdelver in charge of leading players into expeditions into the [Saramaed Hollow](Saramaed_Hollow.md), Tau is in charge of bringing the Deep Drill back to the surface when a signal is called by the player via the radio communication system inside the drill.
+Deepdelver Tau is a [Ganymede](Ganymede.md) NPC. They're a Deepdelver of [the Ignition Union](The_Ignition_Union.md).
+
+Tau is in charge of dispatching people on expeditions into the [Saramaed Hollow](Saramaed_Hollow.md) and bringing the Deep Drill back to the surface when a signal is called via the radio communication system inside the drill.
 
 ## Location
 

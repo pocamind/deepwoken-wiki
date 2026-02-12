@@ -1,9 +1,9 @@
 ---
 title: Barber (Glumbo)
-revid: 191335
+revid: 195878
 source: https://deepwoken.fandom.com/wiki/Barber_(Glumbo)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vendors, NPCs]
+categories: [Individuals with They/them pronouns, Vendors, NPCs]
 ---
 
 # Barber (Glumbo)
@@ -11,11 +11,14 @@ categories: [Vendors, NPCs]
 | Barber | |
 |---|---|
 | name | Glumbo |
+| pronouns | They/them |
 | location | The Hall of Shattered Wills |
 
 ## Description
 
-Glumbo is one of many entities that reside in [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md). They appear as a lanky black humanoid. They function as a [Barber](Barber.md), but have unique dialogue.
+Glumbo is an NPC. They are one of many entities that reside in [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md).
+
+They appear as a lanky black humanoid and as a [Barber](Barber.md), but have unique dialogue.
 
 ## Shop UI
 

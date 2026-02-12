@@ -1,9 +1,9 @@
 ---
 title: Rashet
-revid: 194308
+revid: 195862
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority, Individuals with unspecified pronouns]
 ---
 
 # Rashet
@@ -25,7 +25,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Rashet is an [Adret](Adret.md) NPC who accepts a bribe for [The Central Authority](The_Central_Authority.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
+Rashet is an [Adret](Adret.md) NPC. They accept a bribe for [The Central Authority](The_Central_Authority.md).
+
+The Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
@@ -112,4 +114,4 @@ Rashet is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a larg
 
 ## Trivia
 
--   Being an [Authority Ensign](Authority_Ensign.md) and exiled still allows the player talk to him, but paying his fee does not raise any reputation with The Central Authority.
+-   Being an [Authority Ensign](Authority_Ensign.md) and exiled still allows the player talk to Rashet, but paying their fee does not raise any reputation with the Central Authority.

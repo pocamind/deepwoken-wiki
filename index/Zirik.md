@@ -1,6 +1,6 @@
 ---
 title: Zirik
-revid: 194305
+revid: 195864
 source: https://deepwoken.fandom.com/wiki/Zirik
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Hive, Reputation]
@@ -26,7 +26,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Zirik is a [Ganymede](Ganymede.md) NPC who accepts a bribe for [The Hive](The_Hive.md). The player can pay them up to 1,200 to restore their reputation back to neutral.
+Zirik is a [Ganymede](Ganymede.md) NPC. They accept a bribe for [The Hive](The_Hive.md).
+
+The Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 

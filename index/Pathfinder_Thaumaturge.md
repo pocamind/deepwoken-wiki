@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 194663
+revid: 195854
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -11,7 +11,7 @@ categories: [Outfits, Adept Outfits]
 | Pathfinder Thaumaturge | |
 |---|---|
 | tier | Adept |
-| crafting_req | x5 Cloth, x5 Fiber, x1 Iron |
+| crafting_req | x5 Cloth, x5 Fiber, x1 Aeon Logstone |
 | price | 30 |
 | stat_req | Power 5, 10 Intelligence |
 | bankable | Yes |
@@ -30,7 +30,7 @@ categories: [Outfits, Adept Outfits]
 
 ### _Requirements_
 
-This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Iron](Ores.md#iron) to craft.
+This Outfit costs 30 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Aeon Logstone](Mantra_Modifiers.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 5 and have at least 10 [Intelligence](Attributes.md#int) to be crafted.
 
