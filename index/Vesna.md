@@ -1,6 +1,6 @@
 ---
 title: Vesna
-revid: 195881
+revid: 195901
 source: https://deepwoken.fandom.com/wiki/Vesna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
@@ -25,7 +25,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Vesna is a [Vesperian](Vesperian.md) NPC that can exchanges [Notes](Notes.md) for [Dye Packets](Dye_Packet.md). Their appearance is gothic, wearing dark colored clothes and a black [Party Hat](Party_Hat.md).
+Vesna is a [Vesperian](Vesperian.md) NPC. They can exchanges [Notes](Notes.md) for [Dye Packets](Dye_Packet.md).
+
+Their appearance is gothic, wearing dark colored clothes and a black [Party Hat](Party_Hat.md).
 
 Their counterpart is [Sev](Sev.md), who instead adapts a very colorful style and a much more eccentric personality.
 

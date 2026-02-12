@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 193369
+revid: 195900
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -142,6 +142,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 
 -   The statue in the center of the [Blade Within](The_Blade_Within.md) will be the weapon you had equipped when you were teleported.
 -   The Oath bracelets were formerly called "Snakerings" (as viewed from the [Dye Packet](Dye_Packet.md) UI), which was later changed to "Bladeharper Serpents," then changed again to "Bladeharper Cosmetic".
+-   Bladeharper was originally an oath used by powerful swordsmen that trained in the [Isle of Vigils](Isle_of_Vigils.md), but has seemingly faded away from their culture with time[\[1\]](#cite-note-1)
 -   Its obtainment method is inspired by the way in which Ichigo Kurosaki, the protagonist of BLEACH, obtained his "Bankai" ability.
 -   This Oath may be related to [Isshin](<Isshin's_Ring.md>): both are elegant blade-wielding combatants with a snake motif.
 -   The slashing effects closely resemble the "Cleave" and "Dismantle" abilities of Ryomen Sukuna from _Jujutsu Kaisen_.
@@ -151,3 +152,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   Strangely, the mirror self can use [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
 -   The mirror self's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 -   Bladeharper's icon is off-center.
+
+## Navigation
+
+1.  [↑](#cite-ref-1) [Malte](Malte.md#dialogue)

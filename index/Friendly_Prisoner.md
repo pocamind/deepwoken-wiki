@@ -1,9 +1,9 @@
 ---
 title: Friendly Prisoner
-revid: 191438
+revid: 195984
 source: https://deepwoken.fandom.com/wiki/Friendly_Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Prisoners of The Central Authority]
+categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Prisoners of The Central Authority]
 ---
 
 # Friendly Prisoner
@@ -11,6 +11,7 @@ categories: [Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, P
 | Friendly Prisoner | |
 |---|---|
 | aspect | Tiran |
+| pronouns | He/him |
 | location | Merit Detainment Core |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -19,7 +20,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Friendly Prisoner is a Tiran NPC who gives instructions on how to start a jailbreak in the [Merit Detainment Core](Merit_Detainment_Core.md)
+Friendly Prisoner is a [Tiran](Tiran.md) NPC. He was imprisoned in the [Merit Detainment Core](Merit_Detainment_Core.md) for unknown reasons.
+
+The Prisoner can give instructions on how to start a jailbreak to [the Pathfinder](The_Pathfinder.md).
 
 ## Location
 

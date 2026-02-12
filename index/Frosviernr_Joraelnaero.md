@@ -1,6 +1,6 @@
 ---
 title: Frosviernr Joraelnaero
-revid: 191441
+revid: 195998
 source: https://deepwoken.fandom.com/wiki/Frosviernr_Joraelnaero
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, Quests, NPCs located in the Second Floor of the Second Layer]
@@ -22,6 +22,8 @@ This content is not accessible outside of this gamemode.
 “ ...My brother could fashion the finest spears of frost infinitely more elegant than the conjured weaponry of our contemporarys. ”
 
 ― Naerotiv
+
+## Description
 
 Frosviernr is an NPC found in [second floor](Second_Layer/New_Kyrsa.md) of the [Second Layer](Second_Layer.md), in an alleyway behind a building following the right side of the city during the escape sequence. He made and wields the [Kyrswynter](Kyrswynter.md).
 

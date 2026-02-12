@@ -1,6 +1,6 @@
 ---
 title: Hector
-revid: 191463
+revid: 195940
 source: https://deepwoken.fandom.com/wiki/Hector
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Naval personnel of The Central Authority, Military personnel of The Central Authority]
@@ -15,7 +15,7 @@ categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive,
 | pronouns | He/him |
 | location | Merit Detainment Core |
 | affiliation | The Central Authority |
-| family | Hector's family, Unnamed father |
+| family | Hector's family, Hector's father |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -23,7 +23,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Hector is an [Adret](Adret.md) NPC who gives the player info on the Merit Detainment Core's system and how to break [Titus](Titus_Fulminus_Destellus.md) free. He wears the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) outfit, a Golden Cape, and [Tracker's Boots](<Tracker's_Boots.md>).
+Hector is an [Adret](Adret.md) NPC. He joined the Authority Navy only to be posted as a prison guard in the [Merit Detainment Core](Merit_Detainment_Core.md).
+
+Unhappy with his position, Hector has no real stake in the Authority's goals, and is perfectly willing to help facilitate the escape of [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md). Should such a breakout succeed, Hector hopes to use the opportunity to desert the military and return home.
+
+He wears the [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md) outfit, a Golden Cape, and [Tracker's Boots](<Tracker's_Boots.md>).
 
 ## Location
 

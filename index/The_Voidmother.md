@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 192365
+revid: 195936
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Knives of Eylis]
@@ -20,7 +20,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Voidmother** is a formless, shapeless being. She is located in the [Voidheart](Voidheart.md), and can help you leave it by teleporting you to where you last used your Voideye, or to [Lower Erisia](Lower_Erisia.md). She is also located in the Trial of one, right above the player when they first get teleported to the Trial of one, as well as the roof of [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+The Voidmother is an NPC. It is an entity that helps run [The Knives of Eylis](The_Knives_of_Eylis.md) and perpetuate the [Voidheart](Voidheart.md).
+
+She is a formless, shapeless being. She is located in the Voidheart, and can help you leave it by teleporting you to where you last used your Voideye, or to [Lower Erisia](Lower_Erisia.md). She is also located in the Trial of one, right above the player when they first get teleported to the Trial of one, as well as the roof of [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 The Voidmother views the player as naive, often referring to them as "dull knife" or "Knife." She condemns shallow or superficial desires like fame or strength, commenting that they should "seek a future worth living instead," or they can "find more tangible purposes here." She appreciates motivations that have a worthful purpose, like taking care of someone.
 

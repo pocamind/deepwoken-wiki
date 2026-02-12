@@ -1,6 +1,6 @@
 ---
 title: Marcus
-revid: 191536
+revid: 195975
 source: https://deepwoken.fandom.com/wiki/Marcus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Marcus is inarguably the _coolest_ [Stonespark](Stonespark.md), if not the **coolest** NPC (apart from [The Meat Lord](The_Meat_Lord.md)), in this vast game of Deepwoken. He is of a _modest_ and _small_ size, unlike his **braggart [Rock Golem](Rock_Golem.md)** cousins, and _calm_ and _collected_ compared to his **belligerent [Stonespark](Stonespark.md)** siblings, who prefer to attack you on sight. He prefers relaxing over a nice warm beverage.
+Marcus is inarguably the _coolest_ [Stonespark](Stonespark.md), if not the **coolest** NPC (apart from [The Meat Lord](The_Meat_Lord.md)), in this vast game of _[Deepwoken](<Deepwoken_(game).md>)_. He is of a _modest_ and _small_ size, unlike his **braggart [Rock Golem](Rock_Golem.md)** cousins, and _calm_ and _collected_ compared to his **belligerent [Stonespark](Stonespark.md)** siblings, who prefer to attack you on sight. He prefers relaxing over a nice warm beverage.
 
 The only entity that could surpass Marcus' incomprehensible power would be [The Meat Lord](The_Meat_Lord.md), as both have risen to levels **above** the powers of Drowned Gods.
 

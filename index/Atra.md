@@ -1,9 +1,9 @@
 ---
 title: Atra
-revid: 191328
+revid: 195960
 source: https://deepwoken.fandom.com/wiki/Atra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Pathfinder Exclusive, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
+categories: [Khan NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, The Hundred Legions, Quests, NPCs located in the Etrean Luminant]
 ---
 
 # Atra
@@ -12,6 +12,7 @@ categories: [Khan NPCs, Pathfinder Exclusive, NPCs, The Hundred Legions, Quests,
 |---|---|
 | name | Atra |
 | aspect | Khan |
+| pronouns | She/her |
 | location | The Viper's Jaw |
 | affiliation | The Hundred Legions |
 
@@ -21,7 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Atra is a [Khan](Khan.md) NPC that is a part of [The Hundred Legions](The_Hundred_Legions.md), belonging to the 11th Scouting Legion. She stays with her group composed of [Caitus](Caitus.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md). She gives you the 'Legion Scout' [quest](Quests.md), urging you to find [Lars](Lars.md), another scout of the 11th Legion.
+Atra is a [Khan](Khan.md) NPC. She is a member of [The Hundred Legions](The_Hundred_Legions.md) and currently belong to the 11th Scouting Legion. She stays with her group composed of [Caitus](Caitus.md), [Lars](Lars.md), [Gaius](Gaius.md) and [Amara](Amara.md).
+
+She gives you the 'Legion Scout' [quest](Quests.md), urging you to find [Lars](Lars.md), another scout of the 11th Legion.
 
 ## Location
 

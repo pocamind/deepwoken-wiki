@@ -1,9 +1,9 @@
 ---
 title: "F'leche"
-revid: 191430
+revid: 196002
 source: https://deepwoken.fandom.com/wiki/F'leche
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
+categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
 ---
 
 # F'leche
@@ -12,6 +12,7 @@ categories: [Tiran NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second 
 |---|---|
 | name | F'leche |
 | aspect | Tiran |
+| pronouns | She/her |
 | location | New Kyrsa, The Sleeping City |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -24,7 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-F'leche is a [Tiran](Tiran.md) NPC. She is found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md). She is wearing a [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) with [Eyeglasses](Eyeglasses.md). Similar with other residents of the city, she is unable to recall her past. Unable to remember the name of the [Kyrsgarde](Kyrsgarde.md), but notes that they weren't always this frenzied until the presence of the player in the city. She gives insight to summoning [Ethiron](Scion_of_Ethiron.md), talks about the obelisks needed to be de-activated.
+F'leche is a [Tiran](Tiran.md) NPC. She is found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+
+She is wearing a [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) with [Eyeglasses](Eyeglasses.md). Similar with other residents of the city, she is unable to recall her past. Unable to remember the name of the [Kyrsgarde](Kyrsgarde.md), but notes that they weren't always this frenzied until the presence of the player in the city. She gives insight to summoning [Ethiron](Scion_of_Ethiron.md), talks about the obelisks needed to be de-activated.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Elykris
-revid: 191414
+revid: 195974
 source: https://deepwoken.fandom.com/wiki/Elykris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Elykris is a [Celtor](Celtor.md) NPC at [Minityrsa](Minityrsa.md).
+Elykris is a [Celtor](Celtor.md) NPC. They are investigating [the Ministry](The_Ministry.md)'s presence in [Minityrsa](Minityrsa.md).
 
 They give the quest "Ministry Secrets" that tasks [The Pathfinder](The_Pathfinder.md) to find a field report located inside of [Outpost Antumbra](Outpost_Antumbra.md), by the ladder to [Trial of One](Trial_of_One.md). The quest rewards them with 3 Aces and a Curiosity [Talent](Talents.md) hand.
 

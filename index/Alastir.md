@@ -1,6 +1,6 @@
 ---
 title: Alastir
-revid: 191304
+revid: 195965
 source: https://deepwoken.fandom.com/wiki/Alastir
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -25,9 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Alastir is a [Celtor](Celtor.md) NPC who can be found facing the statues of the Lords of [Erisia](Erisia.md). He wears the [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md).
-
-He asks for you to bring him hostages with [Stranded](Stranded.md) [Outfits](Outfits.md). When returning villagers to him, the player can ask questions about Lord Erisia and his weapon. He doesn't take the [Forgotten Villagers](Forgotten_Villager.md) who don't trust him or the Pathfinder hostage NPC.
+Alastir is a [Celtor](Celtor.md) NPC. He is a Pathfinder who was on [Erisia](Erisia.md) before it drifted into the [Voidsea](Voidsea.md).
 
 ## Location
 

@@ -1,9 +1,9 @@
 ---
 title: Merryweather
-revid: 191547
+revid: 195986
 source: https://deepwoken.fandom.com/wiki/Merryweather
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Ignition Union]
+categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, The Ignition Union]
 ---
 
 # Merryweather
@@ -12,6 +12,7 @@ categories: [Canor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First L
 |---|---|
 | name | Merryweather |
 | aspect | Canor |
+| pronouns | She/her |
 | location | The Chariot's Spire |
 | affiliation | The Ignition Union |
 
@@ -21,7 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Merryweather is a Canor NPC that appears to be working for [The Ignition Union](The_Ignition_Union.md). She seems to be studying the [worms](Worm.md) next to her.
+Merryweather is a [Canor](Canor.md) NPC. She is a member of [The Ignition Union](The_Ignition_Union.md).
+
+Merryweather has been assigned to a research project involving figuring out how to utilize [worms](Worm.md) for timekeeping in [The Depths](The_Depths.md), though has hit a snag in her research.
 
 ## Location
 

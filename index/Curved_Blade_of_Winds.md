@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 195748
+revid: 195928
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -49,15 +49,13 @@ When using the weapon one-handed, it becomes two swords, changing its swing spee
 
 ## Critical
 
-### One Handed Critical
+The Curved Blade of Winds has two critical attacks, with it changing depending on your Stance. Both criticals apply [Suffocation](Status_Effects.md#suffocate) if they land.
 
-The user propels in a whirlwind of air, gravitating towards their cursor. Applies **Suffocate** if collided with.
+In the one-handed (dual wield) stance, the user propels in a whirlwind of air, gravitating towards their cursor. This has a scaled damage modifier of 0.25x per hit. Deals 2.5 posture damage per hit if blocked.
 
-### Two Handed Critical
+In the two-handed stance, the user shoots a blast of air and on collision or after a short amount of time it will proceed to explode. This has a scaled damage modifier of 0.3x per hit. Deals 1.5 posture damage per hit if blocked.
 
-The user shoots a blast of air and on collision or after a short amount of time it will proceed to explode.
-
-These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects. Both criticals have a cooldown of **10 seconds**.
 
 ## Trivia
 

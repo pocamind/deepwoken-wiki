@@ -1,6 +1,6 @@
 ---
 title: "C'lantaa"
-revid: 191344
+revid: 196003
 source: https://deepwoken.fandom.com/wiki/C'lantaa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-A [Tiran](Tiran.md) man found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) in a building with the teleporter to the tunnel near the vent into [The Sunken Railways](The_Sunken_Railways.md). He is wearing The [Cala-Mariner](Cala-Mariner.md) outfit. Similar with other residents of the city, he is unable to recall his past aside from not having a well-off one.
+C'lantaa is a [Tiran](Tiran.md) NPC. found in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) in a building with the teleporter to the tunnel near the vent into [The Sunken Railways](The_Sunken_Railways.md). He is wearing The [Cala-Mariner](Cala-Mariner.md) outfit. Similar with other residents of the city, he is unable to recall his past aside from not having a well-off one.
 
 He attempted to communicate with the local [Kyrsgarde](Kyrsgarde.md), but was wounded in the process. He suspects the mist is the vector by which [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) is enslaving the Kyrsgarde.
 

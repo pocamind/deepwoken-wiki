@@ -1,6 +1,6 @@
 ---
 title: Amara
-revid: 194422
+revid: 195964
 source: https://deepwoken.fandom.com/wiki/Amara
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Pathfinder Exclusive, Individuals with She/her pronouns, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Amara is the Centurion of the [11th Legion](The_Hundred_Legions.md), staying with her group of scouts composed of [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md) and [Lars](Lars.md). She is not the only Centurion in the East, as she mentions the presence of other Centurions in [Starswept Valley](The_Starswept_Valley.md), with those being the [Legion Captains](Legion_Captain.md) and the [Legion Snipers](Legion_Sniper.md), the last one she warns you about as it is hostile no matter your [Reputation](Reputation.md) with the Legion.
+Amara is a [Khan](Khan.md) NPC. She is a Centurion of the [11th Legion](The_Hundred_Legions.md) and stays with her group of scouts composed of [Atra](Atra.md), [Caitus](Caitus.md), [Gaius](Gaius.md) and [Lars](Lars.md).
 
 She also teaches you the [Legion Kata](Fists.md) fighting style after turning in a Captain's Recc obtained by assisting the 11th Legion in [Aratel Island](Aratel_Island.md) or in [Upper Erisia](Upper_Erisia.md).
 

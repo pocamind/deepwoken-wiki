@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 194206
+revid: 195929
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -159,4 +159,5 @@ If you attempt to parry Low Cleave, you can still crouch under it despite being 
 
 ## References
 
-1.  [↑](#cite-ref-1) [Mofisu Clan Informant](Mofisu_Clan_Informant.md)
+1.  [↑](#cite-ref-1) NPC dialogue: [Mofisu Clan Informant](Mofisu_Clan_Informant.md)  
+    _Good work... Had that beast not caught me off guard, I too would have made quick work of him..._

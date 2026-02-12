@@ -1,6 +1,6 @@
 ---
 title: Caitus
-revid: 195518
+revid: 195932
 source: https://deepwoken.fandom.com/wiki/Caitus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Hundred Legions]

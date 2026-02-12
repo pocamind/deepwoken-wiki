@@ -1,9 +1,9 @@
 ---
 title: Seon
-revid: 195828
+revid: 195918
 source: https://deepwoken.fandom.com/wiki/Seon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royalists]
+categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]
 ---
 
 # Seon

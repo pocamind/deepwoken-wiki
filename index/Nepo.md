@@ -1,6 +1,6 @@
 ---
 title: Nepo
-revid: 194292
+revid: 195916
 source: https://deepwoken.fandom.com/wiki/Nepo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Summer Company, Reputation]
@@ -26,7 +26,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Nepo is a [Celtor](Celtor.md) NPC who accepts a bribe for [The Summer Company](The_Summer_Company.md). The player can pay him up to 1,200 to restore their reputation back to neutral.
+Nepo is a [Celtor](Celtor.md) NPC. They accept a bribe for [The Summer Company](The_Summer_Company.md).
+
+The Pathfinder can pay them up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 

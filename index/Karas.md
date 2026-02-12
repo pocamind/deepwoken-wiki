@@ -1,6 +1,6 @@
 ---
 title: Karas
-revid: 194859
+revid: 195973
 source: https://deepwoken.fandom.com/wiki/Karas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Enemies, Quests]
@@ -27,7 +27,9 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Karas is a [Vesperian](Vesperian.md) NPC who gives the player a quest to obtain a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. You can do his quest no matter what weapon you use.
+Karas is a [Vesperian](Vesperian.md) NPC. He is a rather bombastic individual who actually has some pretty deep-seated insecurities.
+
+Karas gives the player a quest to obtain a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. You can do his quest no matter what weapon you use.
 
 He wears a [Royal Pathfinder](Royal_Pathfinder.md) and the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) [Outfit](Outfits.md).
 

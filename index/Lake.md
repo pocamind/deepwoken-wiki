@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 191512
+revid: 195997
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -13,7 +13,7 @@ categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusi
 | name | Lake |
 | aspect | Chrysid |
 | pronouns | She/her |
-| location | Songseeker Wilds, in a small cave |
+| location | Songseeker Wilds |
 | affiliation | The Moonlit Faith |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -22,7 +22,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) inside a cave within [Songseeker Wilds](Songseeker_Wilds.md). She speaks about [The Moonlit Faith](The_Moonlit_Faith.md) how she thinks the [Songseeker Wilds](Songseeker_Wilds.md) are the [Lullaby Isles](Lullaby_Isles.md).
+Lake is a [Chrysid](Chrysid.md) NPC. She is a native of the [Lullaby Isles](Lullaby_Isles.md) who got lost and somehow found herself in the [Songseeker Wilds](Songseeker_Wilds.md).
+
+She wears the [Scholar](Scholar.md) [Outfit](Outfits.md).
+
+## Location
+
+Lae is inside a cave within [Songseeker Wilds](Songseeker_Wilds.md).
 
 ## Dialogue
 
@@ -89,48 +95,6 @@ Lake is a Chrysid NPC wearing the [Scholar](Scholar.md) [Outfit](Outfits.md) ins
 </tr>
 <tr>
   <td colspan="12">Some old guy, he's been really nice t' me. He gave me some new clothes and said I could stay in this cave unt'l I find m' way home, but he says it's not safe f'r me to walk back right now... He br'ngs me food sometimes, but I really don't know how he can cook with that blindfold he wears... I'm sure you'll meet h'm one day, he might be able t' help you, too!</td>
-</tr>
-<tr>
-  <td colspan="12">[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-  
-
-### Old Dialogue **(Retconned / Cut Content)**
-
-<table>
-<tbody>
-<tr>
-  <td colspan="12">Begin Dialogue</td>
-</tr>
-<tr>
-  <td colspan="12">And to think, such a far off mass of land had such beauty to it...</td>
-</tr>
-<tr>
-  <td colspan="6">Who are you?</td>
-  <td colspan="6">What are you talking about?</td>
-</tr>
-<tr>
-  <td colspan="6">Oh, apologies. I was simply lost in thought. My name is Lake, I'm just another Chrysid wanderer, seeking the beauty of the Moonseye from this island's angle.</td>
-  <td colspan="6">Excuse my musing, traveler. I happen to enjoy the scenery here, is all. Such delicate flowers bloom... although, none to be matched by the elegance of the nightflowers from my village.</td>
-</tr>
-<tr>
-  <td colspan="6">What do you mean from this angle?</td>
-  <td colspan="6">Nightflowers?</td>
-</tr>
-<tr>
-  <td colspan="6"><i>*She looks up at you, puzzled.*</i> I traditionally can only admire the Moonseye from one view in my home village. And seeing as this place is a Driftland... it's simply a once in a lifetime opportunity to visit and see it from such an extravagant place. Alas, who knows when this island will drift back to the Voidsea?</td>
-  <td colspan="6">Hm? You must be unaware of such things. Nightflowers have great importance to my people, both in visual beauty and spiritual beauty.</td>
-</tr>
-<tr>
-  <td colspan="6">The Moonseye?</td>
-  <td colspan="6">What makes it spiritual?</td>
-</tr>
-<tr>
-  <td colspan="6">Indeed, the nightsky's beacon. We of the Moonlit Faith hold it to high regard, as our faith centers around it. Surely, you're aware of such things.</td>
-  <td colspan="6">Nightflowers only bloom beneath the site of one's absolvement in flame, <i>The Lachrymosa</i>. When one bears sins too heavy to carry... they can volunteer to embrace the nightflame, joining the Moonseye above in death. A nightflower blooms beneath them after their passing, In my village... a sea of beautiful gleaming nightflowers scatter over the hills and fields. It's truly beautiful, traveler.</td>
 </tr>
 <tr>
   <td colspan="12">[End Dialogue]</td>

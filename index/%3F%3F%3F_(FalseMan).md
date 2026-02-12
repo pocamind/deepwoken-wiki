@@ -1,6 +1,6 @@
 ---
 title: ??? (FalseMan)
-revid: 191269
+revid: 195953
 source: https://deepwoken.fandom.com/wiki/%3F%3F%3F_(FalseMan)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -19,7 +19,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-"???" is a Felinor NPC who is sitting in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md). When talked to, they snaps their own neck. They are a [Felinor](Felinor.md) who wears [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
+"???" is a [Felinor](Felinor.md) NPC. They are sitting in [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+
+When talked to, they snap their own neck.
+
+They wear [Cutthroat Light Armor](Cutthroat_Light_Armor.md).
 
 ## Dialogue
 

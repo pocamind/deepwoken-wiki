@@ -1,6 +1,6 @@
 ---
 title: Prisoner
-revid: 176741
+revid: 195976
 source: https://deepwoken.fandom.com/wiki/Prisoner
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Enemies]
@@ -19,7 +19,7 @@ notices:
 
 ## Description
 
-Prisoners can only be found in the [Merit Detainment Core](Merit_Detainment_Core.md). They become hostile once the cells have been opened and will attack the player and any Authority NPCs.
+Prisoners can only be found in the [Merit Detainment Core](Merit_Detainment_Core.md). They become hostile once the cells have been opened and will attack the player and any Authority enemies.
 
 ## Moves
 

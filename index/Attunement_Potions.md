@@ -1,6 +1,6 @@
 ---
 title: Attunement Potions
-revid: 172078
+revid: 196006
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Attunement]

@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 194863
+revid: 195971
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -26,7 +26,9 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Zana is a [Vesperian](Vesperian.md) NPC who gives the player a quest to obtain a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md) equipped, you can partake in Zana's quest.
+Zana is a [Vesperian](Vesperian.md) NPC. They are a purportedly famed warrior.
+
+Zana gives the player a quest to obtain a [Poser's Ring](<Poser's_Ring.md>), a Katana-exclusive ring that deals all damage at once onto a target upon sheathing. As long as you have a [Katana](Katana.md) or [Shattered Katana](Shattered_Katana.md) equipped, you can partake in Zana's quest.
 
 They wear a [Royal Pathfinder](Royal_Pathfinder.md) and the [Prophet's Cloak](<Prophet's_Cloak.md>) [Outfit](Outfits.md).
 

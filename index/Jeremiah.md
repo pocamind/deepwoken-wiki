@@ -1,6 +1,6 @@
 ---
 title: Jeremiah
-revid: 191485
+revid: 195995
 source: https://deepwoken.fandom.com/wiki/Jeremiah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Vendors]
@@ -21,7 +21,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Jeremiah is an [Etrean](Etrean.md) NPC that can exchange [Deep Gems](Deep_Gems.md) for a random item.
+Jeremiah is an [Etrean](Etrean.md) NPC. He can exchange [Deep Gems](Deep_Gems.md) for a random item.
 
 He wears a [Vanguard Brace](Vanguard_Brace.md), [Vanguard Boots](Vanguard_Boots.md), and [Polarised Eyeglasses](Polarised_Eyeglasses.md) with the [Cutthroat Light Armor](Cutthroat_Light_Armor.md) outfit.
 

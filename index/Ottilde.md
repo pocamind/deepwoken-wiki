@@ -1,6 +1,6 @@
 ---
 title: Ottilde
-revid: 195407
+revid: 195944
 source: https://deepwoken.fandom.com/wiki/Ottilde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Ignition Union]
@@ -22,7 +22,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ottilde is a Chrysid NPC. She seems to be working for [The Ignition Union](The_Ignition_Union.md).
+Ottilde is a Chrysid NPC. She is a worker of [The Ignition Union](The_Ignition_Union.md).
+
+Ottilde has known nothing but the Union since she was born.
 
 She is wearing the [Ignition Welder](Ignition_Welder.md) outfit.
 

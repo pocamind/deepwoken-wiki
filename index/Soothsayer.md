@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 194306
+revid: 195917
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry, Individuals with unspecified pronouns]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Soothsayer is a [Celtor](Celtor.md) NPC. They let you exchange [Knowledge](Knowledge.md) for [Notes](Notes.md) and reputation with [The Ministry](The_Ministry.md) at a rate of 300 per 1.
+The Soothsayer is a [Celtor](Celtor.md) NPC.
+
+They let you exchange [Knowledge](Knowledge.md) for [Notes](Notes.md) and reputation with [The Ministry](The_Ministry.md) at a rate of 300 per 1.
 
 ## Location
 

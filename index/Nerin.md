@@ -1,6 +1,6 @@
 ---
 title: Nerin
-revid: 194313
+revid: 195915
 source: https://deepwoken.fandom.com/wiki/Nerin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea, Reputation]
@@ -26,7 +26,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Nerin is an [Etrean](Etrean.md) NPC who accepts a bribe for [Etrea](Etrea.md). The player can pay him up to 1,200 to restore their [Reputation](Reputation.md) back to neutral.
+Nerin is an [Etrean](Etrean.md) NPC. He accepts a bribe for [Etrea](Etrea.md).
+
+The Pathfinder can pay him up to 1,200 to restore their reputation back to neutral.
 
 ## Location
 
@@ -113,4 +115,4 @@ Nerin is located at a house near the [Barber](Barber.md) and [Antiquarian](Antiq
 
 ## Trivia
 
--   The dialogue when you attempt to bribe with not enough money "Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer?" is a quote reference to Morshu in Link: The Faces of Evil.
+-   The dialogue when you attempt to bribe with not enough money "Hah! Not a penny on you, poor sap. Come back when you're a little, hmm, richer?" is a quote reference to Morshu from _Link: The Faces of Evil_.

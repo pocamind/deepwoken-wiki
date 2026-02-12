@@ -1,14 +1,14 @@
 ---
 title: Etrean Royal Guard (NPC)
-revid: 191423
+revid: 195948
 source: https://deepwoken.fandom.com/wiki/Etrean_Royal_Guard_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrea, NPCs, NPCs located in the Etrean Luminant]
+categories: [Etrea, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
 ---
 
 # Etrean Royal Guard (NPC)
 
-| Etrean Royal Guard | |
+| Etrean Royal Guard (NPC) | |
 |---|---|
 | aspect | Etrean |
 | location | Etrean Wilds |
@@ -16,7 +16,11 @@ categories: [Etrea, NPCs, NPCs located in the Etrean Luminant]
 
 ## Description
 
-The Etrean Royal Guard is an Etrean NPC, not to be confused with the [enemy type](<Etrean_Royal_Guard_(Enemy).md>), that is part of ["The Lord Regent's Quest"](Etris.md#the-lord-regents-quest), he stands besides [Kennith](Kennith.md)'s mangled body and informs you that you have an audience with [The Lord Regent](The_Lord_Regent.md). He only spawns after getting to a certain point in the quest, after that he remains forever.
+The Etrean Royal Guard is an [Etrean](Etrean.md) NPC. They watch over [Kennith](Kennith.md)'s mangled body.
+
+After Kennith's death, the guard will inform you the Pathfinder that they have an audience with the Lord Regent, and further probing will simply cause them to repeat the phrase.
+
+The guard only spawns after getting to a certain point in the quest, after that they remain forever.
 
 ## Location
 

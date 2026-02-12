@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 195761
+revid: 196007
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -320,7 +320,7 @@ Exhaustive Loot Table
   <td colspan="18">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="18">So you're the one running about tripping my alarms. Care to explain yourself?<br>
+  <td colspan="18">So you're the one running about tripping my alarms, hm? Care to explain yourself?<br>
   </td>
 </tr>
 <tr>
