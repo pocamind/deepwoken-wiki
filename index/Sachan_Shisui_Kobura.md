@@ -1,6 +1,6 @@
 ---
 title: Sachan Shisui Kobura
-revid: 193523
+revid: 195844
 source: https://deepwoken.fandom.com/wiki/Sachan_Shisui_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Sachans]
@@ -104,4 +104,4 @@ Sachan Shisui Kobura is located at [The Indigo Citadel](The_Indigo_Citadel.md), 
 
 ## Trivia
 
--   The outfit she wears is able to be found here:[https://www.roblox.com/catalog/8457576608/Hokkaido-Ronin](https://www.roblox.com/catalog/8457576608/Hokkaido-Ronin)
+Roblox clothing: [Shirt](https://www.roblox.com/catalog/8457576608/Hokkaido-Ronin) • [Pants](https://www.roblox.com/catalog/8457577787/Hokkaido-Ronin)

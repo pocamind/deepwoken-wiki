@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 195668
+revid: 195848
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -27,7 +27,8 @@ categories: [Weapons, Oaths, The Hundred Legions]
 | m.equip | No |
 | m.extract | No |
 | stances | 1 Handed |
-| rarity | N/A |
+| rarity | Common |
+| selling price | 7 |
 | weight | 2 |
 | bankable | No |
 | droppable | No |

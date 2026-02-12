@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 194545
+revid: 195852
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -1351,7 +1351,6 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   Frostdraw freezes the surrounding air and molecules around it; creating ice.
     -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization. In a sense, it's the ability to manipulate temperature, rather than manipulate a substance.[\[4\]](#cite-note-arch-4)
--   Navae was a great pioneer of it and could weave protective magic into frigid prisms used in clothing.
 -   Saint Jay was a major figure to Frostdrawers, as a Talent is named after him that is a part of the Frostdraw Talent tree.
     -   It is presumed that similar to Pleeksty, Saint Jay was a cultivator of magic who taught his ways to others.
     -   He did not invent it, neither did Navae.

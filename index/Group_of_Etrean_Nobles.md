@@ -1,6 +1,6 @@
 ---
 title: Group of Etrean Nobles
-revid: 192223
+revid: 195843
 source: https://deepwoken.fandom.com/wiki/Group_of_Etrean_Nobles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Etrean Royalists]

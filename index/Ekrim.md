@@ -1,6 +1,6 @@
 ---
 title: Ekrim
-revid: 188471
+revid: 195846
 source: https://deepwoken.fandom.com/wiki/Ekrim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Individuals with unspecified pronouns, Deceased characters]
@@ -23,7 +23,7 @@ Ekrim, the Third's Eclipse was the original wielder of the [Night Axe](Night_Axe
 
 The history of their weapon was said to be whispered in tales of unstoppable might and haunting interplay of night end day. It is currently unknown if Ekrim was the one to bring the weapon its fame.[\[1\]](#cite-note-night-axe-1)
 
-In the end, Night Axe, along with its counterpart, the Daycleave were said to meet their ends at the hands of the power they once worshipped according to "shaky accounts". It is also unknown, if this applies to Ekrim.[\[1\]](#cite-note-night-axe-1)
+In the end, Night Axe, along with its counterpart, the [Daybreak](Daybreak.md) were said to meet their ends at the hands of the power they once worshipped according to "shaky accounts". It is also unknown, if this applies to Ekrim.[\[1\]](#cite-note-night-axe-1)
 
 ## References
 

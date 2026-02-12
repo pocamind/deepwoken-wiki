@@ -1,6 +1,6 @@
 ---
 title: "Oath: Soulbreaker"
-revid: 195698
+revid: 195851
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Soulbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -136,10 +136,10 @@ All of these Talents are obtained with the Oath. These are the base Murmur Talen
 
 -   **Heart Reverb** - Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
     -   After activating Rhythm, it won't deactivate unless manually toggled or if you get hit.
-    -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. This has an unknown cooldown.
+    -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. 3 second cooldown.
     -   Allows you to see the movement of players from very far away and through walls with a red highlight.
     -   When someone would dodge through one of your attacks, their health and posture will be shown in text as a percentage.
-    -   Unlike base Rhythm, the visual HP and posture percentages works on players with the [Not a Scratch](Talents.md#human-architecture) Talent.
+    -   Unlike base Rhythm, the visual HP and posture percentages works on players with the [Not a Scratch](Talents.md#not-a-scratch) Talent.
 
 ### Mantras
 

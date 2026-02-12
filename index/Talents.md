@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195719
+revid: 195849
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3364,7 +3364,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Heart Reverb \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md)\] - Those picked up by your Rhythm are marked for 8 seconds. Whenever an opponent dodges your attack, detect their rhythm and vigor. You can use Rhythm while standing.
     -   After activating Rhythm, it won't deactivate unless manually toggled or if you get hit.
-    -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. This has an unknown cooldown. This highlight can be seen through walls and can detect players from very far away, even further than your Rhythm range.
+    -   If your Rhythm detects a player who's performing an action, it will put a red highlight on them for 8 seconds. 3 second cooldown. This highlight can be seen through walls and can detect players from very far away, even further than your Rhythm range.
     -   When someone would dodge through one of your attacks, their health and posture will be shown in text as a percentage.
     -   Unlike base Rhythm, the visual HP and posture percentages works on players with the Not a Scratch Talent.
     -   Prerequisites: [Oath: Soulbreaker](Oath%253A_Soulbreaker.md), make X deals with [Deep Shrines](Deep_Shrines.md)
