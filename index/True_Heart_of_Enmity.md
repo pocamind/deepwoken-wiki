@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 195525
+revid: 196014
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -213,7 +213,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Big_Brother.md">Big Brother</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Gilded_Knife.md">Gilded Knife</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a></li>
-    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Crescendo.md">Crescendo</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kindred_Edict.md">Kindred Edict</a>, <a href="Pernach.md">Pernach</a>, <a href="Purple_Cloud.md">Purple Cloud</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scimitar.md">Scimitar</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
+    <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Crescendo.md">Crescendo</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kindred_Edict.md">Kindred Edict</a>, <a href="Pernach.md">Pernach</a>, <a href="Purple_Cloud.md">Purple Cloud</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scimitar.md">Scimitar</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
     <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Duskguard_Axe.md">Duskguard Axe</a>, <a href="Enforcer's_Axe.md">Enforcer's Axe</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>, <a href="First_Light.md">First Light</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Halberd.md">Halberd</a>, <a href="Pale_Briar.md">Pale Briar</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>, <a href="The_Path's_Defender.md">The Path's Defender</a></li>

@@ -1,6 +1,6 @@
 ---
 title: "Elder Primadon, The Titan Warlord"
-revid: 195598
+revid: 196013
 source: https://deepwoken.fandom.com/wiki/Elder_Primadon%2C_The_Titan_Warlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Bosses]
@@ -163,7 +163,7 @@ _Uses Telegraph_
 
 Dodge
 
- |
+_**Autogrips**_ |
 | 
 
 **Enrage**  
