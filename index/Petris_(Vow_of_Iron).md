@@ -1,6 +1,6 @@
 ---
 title: Petris (Vow of Iron)
-revid: 195420
+revid: 196029
 source: https://deepwoken.fandom.com/wiki/Petris_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
@@ -59,7 +59,7 @@ Petris is located at the front of [Boatman's Watch](<Boatman's_Watch.md>).
 </tr>
 <tr>
   <td><i>*Petris' expression grows pale with horror for a moment.*</i> Wh... What? H-hah, that's... No, the story says-- <i>*He stops himself before squinting at you suspiciously.*</i> ...Ah. I see what you're doing here, stranger. You're trying to dissuade me from his treasures. Nice try, chump! I'll get those gifts of his on way or another, you'll see - and I'm <b>NOT</b> sharing!</td>
-  <td>WIP</td>
+  <td>*<i>Petris scoffs.</i>* Luck? Hah! Why would I need luck? Calling forth the Ferryman will be all the luck I need - once I get his gifts, I'll be rich enough to retire early! And don't you even <i>think</i> of getting in my way, stranger.</td>
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>

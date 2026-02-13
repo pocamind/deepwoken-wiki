@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 195849
+revid: 196026
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3432,8 +3432,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Jumper Cables \[Common Talent, Fortitude, Thundercall\] - Being made [Unconscious](Status_Effects.md#unconscious) with an active thether allows you to steal health from a tethered target and not be made [Unconscious](Status_Effects.md#unconscious).
     -   Whenever you would get knocked but have a tether active, steal HP from the latest static linked target to survive the hit.
-    -   Upon proccing, removes the static link entirely regardless of its duration.
-    -   3–4 seconds cooldown between knock preventions.
+    -   Deals 30 true damage to the Jumper Cables victim, and heals you for 30 health.
+    -   Nullifies the damage that the hit would have done.
+    -   The Static Link is removed on proc.
+    -   40 second cooldown.
     -   Prerequisites: Static Link, 40 Thundercall, 20 Fortitude
 
 -   Link Conduction \[Common Talent, Thundercall\] - While you have active tethers your lightning mantras cost less ether.
