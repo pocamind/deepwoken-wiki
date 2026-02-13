@@ -1,6 +1,6 @@
 ---
 title: Chorus of Agonies
-revid: 190698
+revid: 196015
 source: https://deepwoken.fandom.com/wiki/Chorus_of_Agonies
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -19,7 +19,7 @@ categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Mu
 | range | 10 Sweep |
 | swing speed | 0.7x |
 | attack duration | 1.1s |
-| endlag | 0.1s |
+| endlag | 0.15s |
 | chip damage | 25% |
 | m.equip | No |
 | m.extract | No |
