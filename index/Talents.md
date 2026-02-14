@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196039
+revid: 196167
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -387,7 +387,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Arc Module: Enhance \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit Your Arcwarder Mantras deal increased damage.
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
     -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
-    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your your more conventional modifiers by giving them a higher base damage to work off of.
+    -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your more conventional modifiers by giving them a higher base damage to work off of.
     -   Grants a +15% damage modifier to all non-Arcwarder attacks while in Arc Suit.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 

@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 194841
+revid: 196175
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -35,24 +35,24 @@ Note that all the maps contain lava as an environmental hazard, which deal an ex
 
 Orb which used to refuel Union Drill
 
-**Saramaed Hollow** features 20 Floors in 100 meter increments (2000 meters or 2KM in total). Floor 0/0 Meter is a lobby area that features a Heat Stone Resting Spot, training gear, an Antiquarian, a Mystic and a Blacksmith.
+**Saramaed Hollow** features 20 Floors in 100 meter increments (2000 meters or 2KM in total). Floor 0/0 meters is a lobby area that features a Heat Stone Resting Spot, a Training Gear Cabinet, a Crafting Table, an Antiquarian, a Mystic and a Blacksmith. There are also pickaxes on the ground by the Union Drill available to buy for 3 notes if you do not already own one.
 
 Each floor of the dungeon has you go down 100 meters (IE: floor 10 is 1000m, floor 20 is 2000m). To travel through each floor, the Ignition Deepdrill is used, fitted with a lever to go to the next floor and a radio to return to the lobby, which can notably be used anytime, even while in danger.
 
 You start at a different depth on your first time going down depending on what power you are. If you go up and go back down, you will go down half of how far you were before you went up. The higher power you are, the farther down you start. The monster presets get harder as you go down farther.
 
-You can't get past 2km / 2000m.
+You can't get past 2km / 2000m. Trying to press the lever on this level be met with the text: _The lever jams. Seems the cable wont extend any further._
 
 There are 4 room layouts, featuring randomized enemy spawns:
 
--   The bridge
--   The canyon
--   The rail tracks
--   The open field
+-   The Bridge
+-   The Canyon
+-   The Rail Tracks
+-   The Open Field
 
-Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player after the first, up to a max of 13) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also use mobility mantras and critical attacks as well as being able to summon and ride a mount while carrying Fuel Ore.
+Strictly speaking, to progress within this dungeon, players must mine and deposit fuel ore into the fuel hatch, located on the left of the door. A progress bar will show how much fuel was added. It takes 5 ores (+2 per player after the first, up to a max of 13) to refuel the drill. Once the fuel hatch shows a green bar, the drill is fueled and ready to go to the next floor. Fuel Ore can be stacked on top of each other when mining for easier carrying. You can also slide, dodge, use mantras and critical attacks as well as being able to summon and ride a mount while carrying Fuel Ore.
 
-~Do note that carrying these ores will not allow you to slide or dodge, you may use mobility mantras though. Using your weapon makes you drop the ore.~ As of the Vow Of Iron update, you are now allowed to slide and dodge while carrying the ores.
+Do note that using your weapon while carrying these ores makes you drop the ore.
 
 To actually be rewarded during this activity, players are required to kill every monster in a given floor. Doing so will grant a large amount of EXP, along with attribute training EXP and chests spawning near the Ignition Deepdrill.
 
@@ -183,3 +183,4 @@ Good luck, and happy deepdelving!
     -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
 -   Well known Deepwoken Youtuber Agamatsu has a meme regarding on how boring this dungeon is on all of his livestream thumbnails.
 -   When you try to leave the dungeon by calling for the cable crew to haul you back up and your teammate isn't nearby, a message "Leave no delver behind" will be displayed. This is a reference to "Leave no dwarf behind" from another game, Deep Rock Galactic.
+-   Previously, you were not able to slide or dash while holding Fuel ore. However, as of the Vow of Iron update, this has been changed and are now able to, making movement much easier.

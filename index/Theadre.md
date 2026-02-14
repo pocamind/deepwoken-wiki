@@ -1,6 +1,6 @@
 ---
 title: Theadre
-revid: 196153
+revid: 196166
 source: https://deepwoken.fandom.com/wiki/Theadre
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Etrea]
@@ -17,8 +17,8 @@ categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive
 | affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 

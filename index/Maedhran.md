@@ -1,6 +1,6 @@
 ---
 title: Maedhran
-revid: 191529
+revid: 196173
 source: https://deepwoken.fandom.com/wiki/Maedhran
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Vendors, NPCs located in the Eastern Luminant]
@@ -25,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Maedhran is an NPC found in [Miner's Landing](<Miner's_Landing.md>). He explains a story about defeating a leader named Ironjaw, and sells lesser [Mantra Modifiers](Mantra_Modifiers.md) for 100 each after listening intently.
+Maedhran is a [Canor](Canor.md) NPC. He explains a story about defeating a leader named Ironjaw, and sells lesser [Mantra Modifiers](Mantra_Modifiers.md) for 100 each after listening intently.
 
 The Mantra Modifiers he sells are:
 
@@ -33,6 +33,10 @@ The Mantra Modifiers he sells are:
 -   Drift Shards
 -   Crystal Lens
 -   Cloudstones
+
+## Location
+
+Maehdran can be found standing outside of the house [Maura](Maura.md) resides at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 
