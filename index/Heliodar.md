@@ -1,6 +1,6 @@
 ---
 title: Heliodar
-revid: 189239
+revid: 196128
 source: https://deepwoken.fandom.com/wiki/Heliodar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec]
@@ -77,7 +77,7 @@ Eclipse (Racial Variant likely) - "For what if the Ash were to never return to f
 <table>
 <tbody>
 <tr>
-  <td>Placeholder</td>
+  <td>File:From The Ashes talent.png</td>
   <td><b>From The Ashes</b>
   <ul>
     <li><i>"Using an Etris Flask when at 30% health or below now grants you a damage buff and resistance buff for 30 seconds. Gain extra healing when below 30% health as well."</i>
@@ -116,6 +116,18 @@ In the Vow of Iron update, were confirmed to be directly related to Tirans, havi
 
 -   Heliodars don't actually spawn in with surnames, which sets them apart from every other aspect in Deepwoken.
     
+
+## Features
+
+### Facial Markings
+
+Heliodar has a set of optional face markings that come in a variety of colors depending on Aspect variant
+
+**Alphelion:**
+
+**Eclipse:**
+
+**Scarlet:**
 
 ## Users
 

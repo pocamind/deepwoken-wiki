@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 195931
+revid: 196098
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -11,11 +11,11 @@ categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NP
 | Titus Fulminus Destellus | |
 |---|---|
 | health | 70000 (+10k per player) |
-| attacks | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Blighted Sparks, Chorus Divide: Shattering Crescendo |
 | drops | Chest (see loot pool), Titus's Cape, Titus's Raiment, Titus' Armor Piece, Edenbrand Hellcoil, Worldpiercer Gauntlets, Evanspear War Set, Shock Trooper Set, Western Outlaw Set, Might and Wrath Gems, Several Enchant Stones |
-| locations | Merit Detainment Core |
+| moves | The Legion's Martial Arts, Worldpiercing Deluge, Worldshattering Smackdown, Commander's Rage, Commander's Whirlthrow, Vengeful Rushdown, Sovereign Drive, Skycrash, Wrathful Stomp, Warp Kick, Blighted Sparks, Chorus Divide: Shattering Crescendo |
 | pronouns | He/him |
 | affiliation | The Hundred Legions |
+| locations | Merit Detainment Core |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

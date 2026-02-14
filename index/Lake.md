@@ -1,6 +1,6 @@
 ---
 title: Lake
-revid: 195997
+revid: 196093
 source: https://deepwoken.fandom.com/wiki/Lake
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant]
@@ -15,6 +15,7 @@ categories: [Chrysid NPCs, Individuals with She/her pronouns, Pathfinder Exclusi
 | pronouns | She/her |
 | location | Songseeker Wilds |
 | affiliation | The Moonlit Faith |
+| family | Lake's parents |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

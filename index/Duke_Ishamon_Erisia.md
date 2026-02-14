@@ -1,9 +1,9 @@
 ---
 title: Duke Ishamon Erisia
-revid: 196007
+revid: 196097
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
+categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
 ---
 
 # Duke Ishamon Erisia
@@ -14,7 +14,7 @@ categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Mem
 | drops | Chest (see loot table), Duke's Coat Fiber, Kanabo, Ardour Manifestation, Pluripotent Alloy, Stoneheart, Smith's Alloy, Armorer's Needle, Curved Blade of Winds, Sinner's Ash, Idol of Yun'Shul, Whistling Periapt, Gale Stone |
 | weapon | Iron Cestus (Untrained Fist) |
 | moves | Assault, Critical, Counter, Feint, Binding Tempest, Gale Stomp, Cyclone Bomb, Strong Left, Summon Mindless Servants |
-| affiliation | Lost Celtor |
+| pronouns | He/him |
 | challenges | -- Duke Ishamon Erisia --, Memories of Home - Slay 10.Reward: +5% DMG; +2.5% RES |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

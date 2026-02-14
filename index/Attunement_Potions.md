@@ -1,162 +1,30 @@
 ---
 title: Attunement Potions
-revid: 196006
+revid: 196083
 source: https://deepwoken.fandom.com/wiki/Attunement_Potions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Items, Attunement]
+categories: [Items, Attunement]
 ---
 
 # Attunement Potions
 
+| Attunement Potions | |
+|---|---|
+| type | Item |
+| bankable | Yes |
+| droppable | Yes |
+| pass down | No |
+| desc | A strange concoction of blood. |
+| obtainment | Attunement Trainers:, Glassblood: Give Frigid Prisms to Nell, Hearthblood: Give Dying Embers to Amashi, Sparkblood: Give Spark Glands to Funke, Skyblood: Give Gale Stones to Friid, Nightblood: Give Umbral Obsidian to Nostor, Alloyed Elixir: Give Iron, Gold, Erisore, Irithine, Astruline, and Umbrite to Adar, Curseblood: Give Heartstars to Vyrelda |
+
 ## Description
 
-Attunement Potions are the only way to obtain and permanently unlock further [Attunements](Attunements.md) in [Character Creation](Character_Creation.md). Upon drinking one, you will take a small amount of elemental damage (changing depending on the Attunement and Path) and be ragdolled for a moment. When you stand back up, you will acquire 1 attribute point in that Attunement, and will permanently unlock it in Character Creation. Attunement Potions cannot be dropped or thrown, neither stored in bank.
+Attunement Potions are items that allow the player obtain and permanently unlock further [Attunements](Attunements.md) in [Character Creation](Character_Creation.md). Upon consumption, the user will take a small amount of elemental damage that corresponds with the Attunement and be momentarily ragdolled. After getting back up, they will acquire one Attribute point in the respective Attunement, and will permanently unlock it in Character Creation. Attunement Potions cannot be dropped or thrown, neither stored in bank.
 
 ## Obtainment
 
-The only way to acquire an Attunement Potion is to complete a quest given by the relevant [Attunement Trainer](Attunement_Trainers.md), this quest usually involves obtaining 5 (2 if you've already done it before) of a specific Elemental Ingredient; with [Ironsing](Ironsing.md) being the only deviation from this.
+The only way to acquire an Attunement Potion is to complete a quest given by the relevant [Attunement Trainer](Attunement_Trainers.md), usually involving obtaining 5 (2 if the Attunement was unlocked before) of a specific Elemental Ingredient corresponding with their Attunement; with [Ironsing](Ironsing.md) being the only deviation from this.
 
-| Name | Image | Req. Elemental Ingredient | Spelltrainer | Attunement Granted |
-| --- | --- | --- | --- | --- |
-| 
-Glassblood
+## Trivia
 
- | 
-
-File:Glass.png
-
- | 
-
-[Frigid Prism](Frigid_Prism.md)
-
- | 
-
-[Nell](Nell,_Master_of_Frost.md)
-
- | 
-
-[Frostdraw](Frostdraw.md)
-
- |
-| 
-
-Hearthblood
-
- | 
-
- | 
-
-[Dying Embers](Dying_Embers.md)
-
- | 
-
-[Amashi](Amashi,_Master_of_Flame.md)
-
- | 
-
-[Flamecharm](Flamecharm.md)
-
- |
-| 
-
-Nightblood
-
- | 
-
-File:Nightblood.png
-
- | 
-
-[Umbral Obsidian](Umbral_Obsidian.md)
-
- | 
-
-[Nostor](Nostor,_Master_of_Shadow.md)
-
- | 
-
-[Shadowcast](Shadowcast.md)
-
- |
-| 
-
-Skyblood
-
- | 
-
-File:Skyblood potion.png
-
- | 
-
-[Gale Stone](Gale_Stone.md)
-
- | 
-
-[Friid](Friid,_Master_of_Gale.md)
-
- | 
-
-[Galebreathe](Galebreathe.md)
-
- |
-| 
-
-Sparkblood
-
- | 
-
-File:Flask.png
-
- | 
-
-[Spark Gland](Spark_Gland.md)
-
- | 
-
-[Funke](Funke,_Master_of_Thunder.md)
-
- | 
-
-[Thundercall](Thundercall.md)
-
- |
-| 
-
-Alloyed Elixir
-
- | 
-
-File:Alloyed elixir.png
-
- | 
-
-[Iron, Gold, Erisore, Irithine, Astruline, Umbrite](Ores.md)
-
- | 
-
-[Adar](Adar,_Master_of_Metal.md)
-
- | 
-
-[Ironsing](Ironsing.md)
-
- |
-| 
-
-Curseblood
-
- | 
-
- | 
-
-[Heartstar](Heartstar.md)
-
- | 
-
-[Vyrelda](Vyrelda,_Master_of_Blood.md)
-
- | 
-
-[Bloodrend](Bloodrend.md)
-
- |
+-   Alloyed Elixir is the only Attunement Potion that does not follow the general naming convention.

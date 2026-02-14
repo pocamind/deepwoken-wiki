@@ -1,6 +1,6 @@
 ---
 title: Crypt Blade
-revid: 193019
+revid: 196126
 source: https://deepwoken.fandom.com/wiki/Crypt_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -45,11 +45,11 @@ The Crypt Blade comes with 2 passive abilities:
 
 ## Critical
 
-The user plunges the blade into the ground and releases an AoE circle surrounding them, inflicting Shadow and chaining everyone within it. This additionally drains 45 Ether from the target on hit, an additional 10 Ether when the chain breaks. The plunge attack deals **0.8x scaled damage**. The attack is avoidable by jumping.
+The user plunges the greatsword into the ground, releasing a eruption of darkness, inflicting Shadow and chaining everyone within it. This additionally drains 45 Ether from the target on hit, an additional 10 Ether when the chain breaks. The plunge attack deals **0.8x scaled damage**. The attack is avoidable by jumping.
 
-If you hit a chained target, the chain will break and the opponent will receive three consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow. Blocking and parrying will not cancel out this effect.
+If the user hits a chained target, the chain will break and the target receives three consecutive ticks of damage and Ether steal. This effect is applied when the target's chest is engulfed in shadow. Blocking and parrying will not cancel out this effect.
 
-If the opponent attempts to go beyond the length of the chain, they will be dragged back to the chain's original position.
+If the target attempts to go beyond the length of the chain, they will be dragged back to center.
 
 The critical has a cooldown of **10 seconds**.
 
@@ -57,8 +57,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
 
 ## Trivia
 
--   The original model for the Crypt Blade was a [Darksteel Greatsword](Darksteel_Greatsword.md) but slightly recolored and with black particles coming out of the blade.
-    -   The old description of the Crypt Blade was "Wrought from durable darksteel, these blades where popularised by the Ignition Union as a tools against the Deep." which happens to be the exact description of the Darksteel Greatsword.
+-   The original model for the Crypt Blade was a [Darksteel Greatsword](Darksteel_Greatsword.md) but slightly recolored and with black particles coming out of the blade. The weapon also used the same description as the Darksteel Greatsword.
 -   It used to be unobtainable, however, the update that introduced [Chime of Conflict](Chime_of_Conflict.md) also [brought back the Crypt Blade](https://www.youtube.com/watch?v=YrCzjvKI6AI).
 -   The original updated Crypt Blade contained 30k vertices. Following the 3/27/2023 update, this was reduced to a mere 2.5k vertices.
 -   The original Crypt Blade was able to proc Singularity and Fear on hit, essentially stunning the enemy in place on each hit, thankfully, this has since been removed.

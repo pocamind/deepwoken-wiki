@@ -1,9 +1,9 @@
 ---
 title: Lightborn
-revid: 186590
+revid: 196071
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
+categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
 ---
 
 # Lightborn
@@ -31,7 +31,7 @@ Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited th
 <table>
 <tbody>
 <tr>
-  <td>File:Seaborne.png</td>
+  <td></td>
   <td><b>Ad Astra</b><p>"Return Home"</p>
   <ul>
     <li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li>
@@ -89,6 +89,16 @@ With the addition of the Echo Unlock: Multifaceted, Lightborn essentially gain 1
 -   Spellhardt
 -   Moros
     
+
+## Features
+
+Lightborn has 6 halo colors and 3 three halo variants
+
+**Crown:**
+
+**Neck:**
+
+**Arms:**
 
 ## Notes
 
