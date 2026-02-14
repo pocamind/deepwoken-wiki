@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 193941
+revid: 196161
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -217,6 +217,7 @@ _The first layer of the depths, where most souls go to die, holding more reliabl
 -   If you are a new player, it is **heavily advised to log** if you hear cracking and rumbling randomly inside the Depths. This is the 'Depths Collapse' which spawns in a horde of dangerous and threatening monsters in 2-4 rocks that fall from the depths' ceiling.
     -   If you're confident in killing these mobs, however, they will drop chests with enhanced loot.
 -   With the recent changes to Watchers, it’s crucial to avoid being spotted by one. They can now inflict insanity and distort your vision, making it extremely difficult to fight or escape. Do everything you can to stay out of their sight, as their insanity effect builds up rapidly.
+-   When you're in the Depths, assume every player is hostile. Keep your guard raised at all times. Never relax just because someone looks passive or isn’t approaching you immediately a lot of players wait for the perfect moment to ambush, especially when you’re distracted by mobs, looting, or navigating tight spaces.
 
 ## Trivia
 

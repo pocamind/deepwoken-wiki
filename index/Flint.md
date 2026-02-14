@@ -1,6 +1,6 @@
 ---
 title: Flint
-revid: 192682
+revid: 196144
 source: https://deepwoken.fandom.com/wiki/Flint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -39,10 +39,10 @@ The purpose of flint is to light up campfires and has 15 uses. Flint is essentia
 Flint can be crafted with one [Rock](https://deepwoken.fandom.com/wiki/Ore#Rock) and one [Coal](https://deepwoken.fandom.com/wiki/Ore#Coal). It's crafting recipe does not require a crafting table.  
 Alternatively, Flint can be bought for three notes at:
 
--   Etris General Store
--   Any Blacksmith
--   Summer Isle, Con's Pawn
--   Voidheart
+-   [Etris](Etris.md) General Store
+-   Any [Blacksmith](Blacksmith.md)
+-   [Summer Isle](Summer_Isle.md), Con's Pawn
+-   [Voidheart](Voidheart.md)
 -   [Greathive Aratel](Greathive_Aratel.md)
     
 

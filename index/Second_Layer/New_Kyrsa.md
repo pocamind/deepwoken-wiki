@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 194522
+revid: 196158
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -166,6 +166,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 -   [Undying Flame](../Talents.md#undying-ember), [Gliders](../Gliders.md), [Teleportation](../Teleportation.md), and [Mute](../Regalia.md) all do not work in the Second Layer.
 -   [Dimensional Travel](../Dimensional_Travel.md) will fling you the way you're facing if attempted to be used.
 -   You do not have to escape Second Floor via defeating the Scion of Ethiron in order to keep your progress with Carrion's quest. Talking to Carrion will still make him appear in Castle Light even if you Lighthook up or die within Lighthook's time frame. (Confirmed)
+-   Before you do anything else, focus on activating the five Obelisks.
 
 ## Lore
 

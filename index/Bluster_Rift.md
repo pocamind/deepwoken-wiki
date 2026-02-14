@@ -1,6 +1,6 @@
 ---
 title: Bluster Rift
-revid: 188739
+revid: 196143
 source: https://deepwoken.fandom.com/wiki/Bluster_Rift
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, Locations, Locations in the Eastern Luminant]
@@ -80,9 +80,7 @@ Below is a list of potential items that can spawn in Bluster Rift.
 
 -   Pale Assassin's Cloak (Uncommon)
 -   [Star Duster](Star_Duster.md) (Rare)
--   Black Parka
--   Brown Parka
--   White Parka
+-   Parka (Series)
 -   [Royal Pathfinder](Royal_Pathfinder.md)
 -   White Fur Pauldrons
 -   [Khan Pauldrons](Legion_Pauldrons.md)
