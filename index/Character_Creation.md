@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 185494
+revid: 196032
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -236,3 +236,19 @@ There may be some changes to dialogue with NPCs depending on what 'tier' of age 
 </tr>
 </tbody>
 </table>
+
+## Appearance
+
+When Creating your new character, many of the cosmetic features are found in the Appearance section of the character creation menu, this includes the following:
+
+**Body** - Change torso size/shape to either Lean, Regular or Large and change the [Aspect](Aspects.md) Varient (Changes the color of the entire body and you can use a slider to change how light or dark the variant color is)
+
+**Face** - Change your Eyes, Face Markings and [Aspect](Aspects.md) markings (Face Markings exclusive to your [Aspect](Aspects.md))
+
+**Aspect Features** - Any piece of unique piece of clothing/item that your [Aspect](Aspects.md) comes with (cannot be removed unless clothing that can only be vanitied if shown in the inventory where equipped items are) such as hats, masks, ears etc
+
+**Hair** - Uses your Roblox Characters hair as a default hair but can be changed with Roblox Hair ID's
+
+## Echoes (Modifiers/Shop)
+
+In the Character creation menu, you can use your [Echoes](Echoes.md) that you have accumulated in past playthroughs in the [Echo](Echoes.md) Shop to get permanent upgrades for other play throughs. You can also increase the Amount of [Echoes](Echoes.md) you can get after wiping your next character by enabling [Echo](Echoes.md) Modifiers (these need to be re-enabled each time you make a new character if you wish to keep the modifier)

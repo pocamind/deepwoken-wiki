@@ -1,6 +1,6 @@
 ---
 title: Circle of Honour
-revid: 193416
+revid: 196037
 source: https://deepwoken.fandom.com/wiki/Circle_of_Honour
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Circle of Honour]
@@ -44,6 +44,8 @@ All of the deceased Mementos were said to be capable of defeating [Zi'eer](The_L
 [Warden Jericho](Warden_Jericho.md) - The current Warden of the [Eastern Luminant](Luminants.md) and the first known surviving member of the Circle of Honour. He wields the [Warmaster Oath](Oaths.md), holds a high-ranking position in [the Central Authority](The_Central_Authority.md), and is torn between being a member of the Circle and an officer of [the Central Authority](The_Central_Authority.md).[\[1\]](#cite-note-1)
 
 [Naan Zakshun](Naan_Zakshun.md) - The grandmother of [Traan Zakshun](Traan_Zakshun.md). Haggling junk runs throught the family, as she uses her ties to the Circle of Honor to sell items to the Inheritor. How relevant she actually is to the Circle is unknown.
+
+[High Inquisitor Mordred Hirculi](High_Inquisitor_Mordred_Hirculi.md) - The High Inquisitor before [High Inquisitor Merey](High_Inquisitor_Merey.md). Although his impact may not be noticeable, he greets the Inheritor with the Circle's words and if they have bad reputation, Mordred will attack them and then reassure them that there's nothing personal.
 
 ## Trivia
 

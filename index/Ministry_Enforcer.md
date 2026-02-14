@@ -1,6 +1,6 @@
 ---
 title: Ministry Enforcer
-revid: 194988
+revid: 196035
 source: https://deepwoken.fandom.com/wiki/Ministry_Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Ambush Enemies, Enemies with Oaths, The Ministry, Ministry Enemies]
@@ -92,7 +92,7 @@ Their arsenal consists of the [Way of Navae](Way_of_Navae.md) along with the [Sh
 
 ## Tips
 
--   Their quick, powerful attacks with their Krulian Knives paired with their Shadowcast will easily overwhelm the less-skilled player and directly counter their mantras.
+-   Their quick, powerful attacks with their fists paired with their abilities will easily overwhelm the less-skilled player and directly counter their mantras.
 
 ## Trivia
 

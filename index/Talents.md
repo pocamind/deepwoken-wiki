@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196026
+revid: 196039
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -754,9 +754,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: Use a Greataxe, Impairing Blow, 40 Heavy Weapon
 
 -   _Rending Impact_ \[Rare Talent, Heavy Weapon\] - Greataxes Block breaking an enemy applies knockdown.
-    -   Allows for more time for followups after blockbreak.
-    -   Visually bugged with base crit, and plays the knockdown animation twice.
     -   Only procs on guardbreaks from weapon attacks.
+    -   Applies knockdown for 1.2 seconds.
+    -   The default guardbreak stun is 1.05s, so this effectively increases the time someone is stunned after being guardbroken by 0.15s.
     -   30 second proc cooldown.
     -   Prerequisites: Use a Greataxe, 40 Heavy Weapon
 
@@ -4545,6 +4545,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Rock Blaster: [Miner's Hardhat](<Miner's_Hardhat.md>) - Doubles your ore yields when mining.
     -   Combining this Talent with excavator gives you a chance to get 4 ores at a time.
+
+-   Scholar's Intuition: [Scholar](Scholar.md) - INT, WILL, and CHA Training Gear is 50% more effective.
 
 -   Seamaster's Guile: [Seamaster's Cap](<Seamaster's_Cap.md>) - While you're at the helm of a ship, it takes 25% less damage
     -   Your boat will take 25% less damage if the person piloting it has this Talent.

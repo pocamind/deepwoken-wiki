@@ -1,6 +1,6 @@
 ---
 title: Dialogue
-revid: 167551
+revid: 196034
 source: https://deepwoken.fandom.com/wiki/Dialogue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -107,7 +107,7 @@ Talking to Guards
 Talking to Zirik
 
 -   Good Reputation - _\*They seem to be pretending to look very interested in some plants.\*_ "Wow! What beautiful grasses these are. Gorgeous. Simply marvellous."
--   Hostile Reputation - "Placeholder"
+-   Hostile Reputation - _\*They seem to be sweating bullets as you approach.\*_ WOW! WHAT LOVELY PLANTS THESE ARE!
 
 ## [Diversiconfaction](The_Divers.md) Diver Reputation
 

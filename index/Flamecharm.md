@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 194580
+revid: 196033
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -716,15 +716,13 @@ Fire
 -   Deals 14 posture damage.
 -   Has a 1.3 (minimum) second cast time and a 15 second cooldown.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 for PvE damage).
--   Can be charged up to 6 times, increasing the damage with each charge. On the sixth charge, the projectile is automatically fired.
-    -   M1'ing whilst the Mantra is charging will shoot the projectile with the amount of charge it has at that point.
+-   Can be charged to increase its damage. You can M1 during the charge to end it early.
 -   Inflicts Burn.
--   Cannot be feinted.
 -   Ricochets when blocked.
 -   Fires where cursor is aimed. Locks onto opponents if aimed at one.
 -   Can be modified with [Crystal](Mantra_Modifiers.md#regular-modifiers)/[Perfect Lenses](Mantra_Modifiers.md#regular-modifiers) to increase speed and range.
 -   Can be modified with [Glass](Mantra_Modifiers.md#regular-modifiers)/[Magnifying Stones](Mantra_Modifiers.md#regular-modifiers) to make the explosion larger.
--   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) to make the user do a jump before firing the arrow.
+-   Can be modified with a [Spring Spark](Mantra_Modifiers.md#sparks) to make the user do a jump before firing the arrow. This is currently bugged and does not work.
 
  |
 | 
