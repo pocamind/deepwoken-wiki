@@ -1,6 +1,6 @@
 ---
 title: Shrine of the Drowned
-revid: 195509
+revid: 196239
 source: https://deepwoken.fandom.com/wiki/Shrine_of_the_Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics, Death, NPCs located in the First Layer]
@@ -73,7 +73,9 @@ Note that this can only be done **once** per slot, though it can be reset someti
 
 ## Trivia
 
--   The Drowned Favour product used to cost 500 [Robux](https://roblox.fandom.com/wiki/Robux). It was changed at a later date to 1000 [Robux](https://roblox.fandom.com/wiki/Robux).
+-   Previously, the Drowned Favour product used to cost 500 [Robux](https://roblox.fandom.com/wiki/Robux). It was changed at a later date to 1000 [Robux](https://roblox.fandom.com/wiki/Robux).
+    -   However, whenever there is a sale on Deepwoken, the Drowned Favour product goes on sale too, costing 500 [Robux](https://roblox.fandom.com/wiki/Robux).
 -   The Drowned Favour product is often reset upon big updates, many of these big updates happen around [Kyrsmas](Kyrsmas.md).
+    -   This means that even if you have already revived a slot with Drowned Favour before, you may revive that same slot again with it.
 -   It is recommended not purchase a Drowned Favour on a low Power slot, as it is most likely a waste and should be saved for a more valuable slot.
 -   If you pass down an item and then buy Drowned Favour, you will **not** get your item back. Your item will be passed down to the next slot upon wiping as normal.

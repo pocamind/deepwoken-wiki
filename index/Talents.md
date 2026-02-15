@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196209
+revid: 196278
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -701,7 +701,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisite: 40 Bloodrend, 40 Ironsing
 
 -   Brain Death \[Common Talent, Dual Attunement, Bloodrend, Galebreathe\] - Enemies that are already suffocated will have their suffocation duration extended when hit by a bloodrend mantra.
-    -   Applies a new stack of suffocation on proc.
+    -   Applies a new stack of suffocation for 2.5s on proc.
     -   Prerequisite: 40 Bloodrend, 40 Galebreathe
 
 -   Cold Blooded \[Common Talent, Dual Attunement, Bloodrend, Frostdraw\] - Chilled enemies passively build up blood poison, alternatively when crystals explode it'll apply blood poison. (DOES NOT STACK)
@@ -1168,6 +1168,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   **Officer's Slash** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - You now gain an additional critical attack with Authority armory weaponry while your regular critical attack is on cooldown.
     -   20 second cooldown.
+    -   This critical has the M1 tag.
     -   Deals 35 flat damage with no scaling, though this can be buffed with damage modifiers.
     -   This works with the following weapons: [Adretian Axe](Adretian_Axe.md), [Central Dirk](Central_Dirk.md), [Halberd](Halberd.md), [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>), [Inquisitor's Thorn](<Inquisitor's_Thorn.md>), [Markor's Inheritor](<Markor's_Inheritor.md>), [Officer Saber](Officer_Saber.md), [Rifle Spear](Rifle_Spear.md), [Sovereign's Punishment](<Sovereign's_Punishment.md>), and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md).
     -   The Alloyed variants of all of the above weapons proc this effect as well.
@@ -2198,6 +2199,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Driving Impact \[Common Talent, Medium Weapon\] - Spears The first hit of your Spear's Critical Attack will deal greatly increased posture damage. Subsequent hits will do reduced posture damage.
     -   This only works on the default spear critical.
+    -   Doubles the posture damage of the first hit of your spear critical at the cost of nullifying the posture damage from the second. This essentially consolidates the posture damage of the critical to the first hit.
     -   Prerequisites: 30 Medium Weapon, Using a spear
 
 -   Lancer's Impale \[Common Talent, Medium Weapon\] - Spears Hitting an enemy after a perfect dodge makes your next attack deal 30% bleed damage. If that attack would already bleed, it adds +10% chip damage instead. (+4 Passive Agility)
@@ -2805,8 +2807,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Rampant Static
 
 -   Jolting Current \[Common Talent, Thundercall\] - Your lightning attacks in water strike others near them with lightning.
-    -   Apply shock or a surge stack on those nearby upon proc.
-    -   Those nearby take 50% damage of the original lightning attack in water.
+    -   While you and your opponent are in the water, landing any attack that would apply Shock or a Surge Rod will strike other waterborne targets in a 20 stud AoE from the initial target, dealing 50% of the attack's damage and applying Shock or a Surge Rod.
     -   Prerequisite: 35 Thundercall
 
 ### Rending Needle

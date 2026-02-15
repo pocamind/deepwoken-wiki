@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 192048
+revid: 196255
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -92,3 +92,4 @@ High posture
 -   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
 -   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
 -   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.\[citation needed\]
+-   Previously, they had eyes with black scleras, green irises and beams protruding throughout their bodies and a green-and-black smoky flame eminating from their orbital region. Now, the eyes have been removed and the flame has been replaced with a green pattern, resembling that of a star constellation and the [Linkstrider](Oath%253A_Linkstrider.md) bonds, hinting at a possible connection.

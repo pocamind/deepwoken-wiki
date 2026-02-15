@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 194414
+revid: 196259
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -33,7 +33,7 @@ This page is about content that has either been removed or changed drastically i
 
 ## Player
 
--   **Original Venting -** Originally, Venting put yourself into an Invincible state, where getting hit by a Mantra would not only nullify the Mantra's damage and/or effects, but also give the user a lot of Ether. The current iteration of Venting simply throws people away, and can be used while in hitstun.
+-   **Original Venting -** Originally, Venting put yourself into an Invincible state, where getting hit by a Mantra would not only nullify the Mantra's damage and/or effects, but also give the user a lot of Ether. The current iteration of Venting simply pushes people away, and can be used while in hitstun.
     -   This original version of Venting is still used by [Nautilodaunt](Nautilodaunt.md).
 -   **Original Gliding -** Gliding originally involved the player to simply descend through the air, albeit at a much slower rate. This was replaced with the current system, which was ported over to the [Pathfinder](Pathfinder.md) gamemode a week after [Vow of Iron](Vow_of_Iron.md) was released to the game.
 -   **Original Ziplining -** Originally, ziplines would be used by pressing E, causing the player to descend smoothly across places, though at a fixed rate.
@@ -85,6 +85,7 @@ This page is about content that has either been removed or changed drastically i
 -   **[Crab](Crab.md)** - Small versions of the Crab from the infamous Crab Leak. While the Red Crab became [Crustaceous Rex](Crustaceous_Rex.md), the small versions have no current parallel.
     -   However, they were brought back within [The Diluvian Mechanism](The_Diluvian_Mechanism.md) as another weak mob. They are yet to be seen elsewhere.
 -   **[Deep Angel](Deep_Angel.md) -** Angels with glowing pink feathers and clothing that inhabited [The Diluvian Mechanism](The_Diluvian_Mechanism.md) and [Ancient Rotlands](Ancient_Rotlands.md). Removed from the game in the June 9th, 2025 update due to lore reasons, in which they had no real reason to exist. Their enemy spawns were replaced with [Nightmare Threshers](Nightmare_Thresher.md).
+    -   They seem to be have been replaced with [Sworn Angels](Sworn_Angel.md). They are functionally the same mob yet not at the same time, with better implications in lore — similar to what happened with the Zombie Pigmen in Minecraft.
 
 **Konga Bandits -** Pale yellow/white, nude monsters that would presumably spawn in groups of 3-4. They wielded basic [Swords](<Sword_(weapon).md>). They were the early prototype for [Mudskippers](Mudskipper.md). Called Konga bandits because of a tester who was always bald resembling them.
 
@@ -215,7 +216,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Firmly Planted** \[Common Talent, Fortitude, Willpower\] - All slow debuffs towards you are reduced by 30%
     -   In the June 21th, 2024 update, Firmly Planted was made innate.
 
--   **Fishman** \[Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)sssss
+-   **Fishman** \[Rare Talent\] - You can execute enemies in water. Gain additional healing from knocking others in water. (+5 health)
     -   In the January 18th, 2026 update, Fishman was made innate.
 
 -   **Flaming Rebound** \[Rare Talent, Flamecharm\] - Landing fire mantras will restore your Tempo. (+3 Elemental Intensity)
@@ -261,7 +262,7 @@ This page is about content that has either been removed or changed drastically i
 -   **Heartbreaker** \[Common Talent, Light\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
     -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
     -   In the October 6th, 2023 update, Lethal Precision was changed into the quest talent Mercy Kill.
-    -   In the October 4th, 2025 update, Mercy Kill was made innate behavior for all players.
+        -   In the October 4th, 2025 update, Mercy Kill was made innate behavior for all players.
 
 -   **Heavy Lifting** \[Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
     -   In the October 17th, 2022 update, Heavy Lifting was removed from the game.
@@ -312,7 +313,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 23rd, 2022 update, Mark of the Lone Warrior was removed.
 
 -   **Mercy Kill** \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   In the October 5th, 2025 update, Mercy Kill was made innate.
+    -   -   In the October 5th, 2025 update, Mercy Kill was made innate.
 
 -   **Mirage from the Deep** \[Oath Talent\] - Pressing R while within your Illusory Realm will consume 15% of your current health and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 Ether)
     -   In the February 23rd, 2024 update, Mirage from the Deep was removed from the game.

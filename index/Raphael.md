@@ -1,6 +1,6 @@
 ---
 title: Raphael
-revid: 195047
+revid: 196241
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Quests]
@@ -124,3 +124,9 @@ Raphael is located in [The City of the Drowned](The_City_of_the_Drowned.md) insi
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The reasoning for this quest not being able to be completed is simply that it is not in the game, as stated by lead developer Arch\_Mage. It is likely that this quest will stay that way for a long time.
+-   His appearance was changed. Previously, he wore the schematic and had hair similar to the [Ferryman](The_Ferryman.md)’s. Now, his hair has changed and he now wears the [Darkened Bastion](Darkened_Bastion.md) outfit.
+-   Despite being a Celtor, he still remains in the Ministry. This is interesting due to the fact that they are the reason his home has sunk into the Depths.

@@ -1,6 +1,6 @@
 ---
 title: Crab
-revid: 191375
+revid: 196265
 source: https://deepwoken.fandom.com/wiki/Crab
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -43,4 +43,4 @@ Crabs only have one attack, listed below:
 
 -   Possibly the precursor to the [Crustaceous Rex](Crustaceous_Rex.md) as its Double Strike attack resembles the Crustaceous Rex's Rising Smash attack.
 -   Formerly cut content; they spawned on both the Surface and the Depths. Apparently, they were meant to exist as an easy method of getting meat. However, they were never truly deleted from the files, allowing [The Diluvian Mechanism](The_Diluvian_Mechanism.md) to spawn them in, culminating in their re-addition in the 2/2/24 update.
-    -   Ironically, they cannot be used for their original purpose, as Crustacean Meat can only be used to cook Crab Pizza, Seafood Boils, and Seafood Surprises all of which cannot be cooked in the Depths without leaving to the surface.
+    -   Ironically, they cannot be used for their original purpose, as Crustacean Meat can only be used to cook [Crab Pizza](Crab_Pizza.md), [Seafood Boils](Seafood_Boil.md), and [Seafood Surprises](Seafood_Surprise.md) all of which cannot be cooked in the Depths without leaving to the surface.

@@ -1,6 +1,6 @@
 ---
 title: Hollow Angel
-revid: 193625
+revid: 196250
 source: https://deepwoken.fandom.com/wiki/Hollow_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Layer 1, The Depths]
@@ -16,6 +16,8 @@ categories: [Enemies, Enemies that can wield Enchantments, Layer 1, The Depths]
 | moves | Assault, Critical, Feint, Glare, Gaze, Exhaustion Strike, Dash, Light Piercer |
 | locations | The City of the Drowned, Temple of the Forgotten Flame, The Diluvian Mechanism, Depths Trial |
 | challenges | -- Sworn Angel --, Sworn Angel Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Sworn Angel Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Sworn Angel Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
+
+**Note: Not to be confused with their stronger, more powerful counterparts [Sworn Angels](Sworn_Angel.md)**.
 
 ## Description
 
@@ -97,10 +99,11 @@ categories: [Enemies, Enemies that can wield Enchantments, Layer 1, The Depths]
 ## Trivia
 
 -   Similar to Mudskippers, the Hollow Angels' AI will dictate them to keep out of your effective range. They will constantly back up but will still keep you within the range of their spears.
--   All Angels have **incredibly high** posture resistance, meaning you will have to consistently trade parries with them to get an attack on them without [Mantras](Mantras.md) or [Talents](Talents.md) that will bypass this.
+-   All Angels have **incredibly high** posture resistance, meaning you will have to consistently trade parries with them to get an attack on them without [Mantras](Mantras.md) or [Talents](Talents.md) that will bypass this ([Fire Blade](Flamecharm.md#fire-blade) and [Strong Left](Attunement-less.md#strong-left) is good for this in particular, especially in the [Trial of One](Trial_of_One.md)).
 -   Hollow Angels will not despawn for a prolonged period of time, meaning that players should not assume they are safe by escaping via climbing.
 -   Hollow Angels previously used to attack any other monsters in the Depths, but this was silently removed in a shadow update.
 -   They resemble the Malebranche demons from the _Castlevania_ animated series episode, _The Harvest_.
 -   They are internally referred to as ".angel\_lesser(ID)". The ID counts how many have spawned.
 -   They appear to wear a Yellow-dyed [Celtorian Tideknight](Celtorian_Tideknight.md) outfit.
 -   Attempting to avoid attacks by wearing a Hollow Angel Mask will not work.
+-   Despite having wings of similar appearances, they have no known connection to [the Starkindred Church](The_Starkindred_Church.md).

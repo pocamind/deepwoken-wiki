@@ -1,6 +1,6 @@
 ---
 title: Cheruba
-revid: 192354
+revid: 196277
 source: https://deepwoken.fandom.com/wiki/Cheruba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Individuals with unspecified pronouns]

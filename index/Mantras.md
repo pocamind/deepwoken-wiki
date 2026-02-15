@@ -1,6 +1,6 @@
 ---
 title: Mantras
-revid: 192890
+revid: 196254
 source: https://deepwoken.fandom.com/wiki/Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -120,7 +120,7 @@ Note that most Oath Mantras do not have scaling, making the formula as simple as
 
 Large and threatening fire-based spells. Excels in crowd control and area denial as many spells have large range.
 
--   Lava serpent can be unlocked at 40 Flamecharm, dealing flat damage and ragdolling instead of applying [burn](Status_Effects.md#burn).
+-   The Lava Serpent path can be unlocked at 40 Flamecharm, dealing flat damage and ragdolling instead of applying [burn](Status_Effects.md#burn).
 -   Can be further upgraded with the [Azure Flame](Talents.md#azure-flame) Talent for increased burn damage and larger Eruptions.
 -   Has a hybrid path with [Shadowcast](Shadowcast.md) called "Wraith Path: Twisted Puppets". More info can be found [here](Hybrid_Abilities.md#flamecharm).
 -   Has a hybrid path with [Frostdraw](Frostdraw.md) called “Flashboil,” or “Steam Path.”
@@ -138,7 +138,7 @@ Thundercall utilizes fast and quickly regenerating spells to take a fight at any
 Uses ice to freeze enemies and create physical obstructions, allowing the user to both navigate the world easier and create terrain in combat.
 
 -   Can slow opponents, temporarily freeze them, or make barriers forcing opponents to go around.
--   Glass Path: Crystallization can be unlocked at 40 Frostdraw. This replaces your [Chill](Status_Effects.md#chill) with [Crystals](Status_Effects.md#crystals), a stacking status effect that causes a crystal detonation once enough stacks have been applied, dealing Frostdraw damage. Unlocks the use of the [Crystal Impale](Frostdraw.md#crystal-impale), [Ice Lasers](Frostdraw.md#ice-lasers-), and [Crystal Knee](Frostdraw.md#crystal-knee) Mantras.
+-   Glass Path: Crystallization can be unlocked at 40 Frostdraw. This replaces your [Chill](Status_Effects.md#chill) with [Crystals](Status_Effects.md#crystals), a stacking status effect that causes a crystal detonation once enough stacks have been applied, dealing Frostdraw damage. Unlocks the use of the [Crystal Impale](Frostdraw.md#crystal-impale), [Ice Lasers](Frostdraw.md#ice-lasers), and [Crystal Knee](Frostdraw.md#crystal-knee) Mantras.
 -   Most Frostdraw Mantras have spark variants.
 -   Has a hybrid path with [Flamecharm](Flamecharm.md) called Flashboil or “Steam Path.”
 

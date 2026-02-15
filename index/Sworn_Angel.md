@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 191652
+revid: 196257
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -15,6 +15,8 @@ categories: [Enemies, Enemies that can wield Enchantments]
 | drops | Sworn Angel Mask |
 | locations | Trial of One, The Diluvian Mechanism |
 | challenges | -- Sworn Angel --, Sworn Angel Slayer I - Slay 10.Reward: +10% DMG; +5% RES, Sworn Angel Slayer II - Slay 25.Reward: +10% DMG; +5% RES, Sworn Angel Slayer III - Slay 100.Reward: +10% DMG; +5% RES |
+
+**Note: Not to be confused with the weaker [Hollow Angel](Hollow_Angel.md).**
 
 ## Description
 
@@ -98,4 +100,7 @@ categories: [Enemies, Enemies that can wield Enchantments]
 ## Trivia
 
 -   Angels are prone to retreating/dodging by moving backwards from you, making it sometimes frustrating to fight them.
--   Gaze can effect the other Angel if they walk in front of the other while it's active, sometimes giving you a few free hits.
+-   **Gaze** can affect the other Angel if they walk in front of the other while it's active, sometimes giving you a few free hits.
+-   Gripping one Angel in the Trial of One will cause the other to automatically despawn, passing the trial with less effort.
+    -   This is best done with the now innate Mercy Kill talent or by applying burn on their knocked body, such as a [Flamecharm](Flamecharm.md) mantra.
+-   Despite them being removed from the game, Sworn Angels seem to functionally serve as stand-in [Deep Angels](Deep_Angel.md) due to them being a stronger variant of the monster type.

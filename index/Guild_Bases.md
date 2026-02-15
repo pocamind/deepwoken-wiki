@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 194402
+revid: 196237
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, OutdatedPages, Guilds, Locations]
@@ -26,7 +26,7 @@ Guild Bases are a type of outpost that can be created by a Guild Leader. To crea
 
 Entering the Guild Base for the first time, you will be met with a glowing outline of an NPC. Speaking to them, prompts the option of hiring them for 500 Notes.
 
-Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot. However, hiring the treasurer will increase the prices of all the rooms. Without the treasurer, the 2nd room is 2,100 notes, with them it is 4,100 notes.
+Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Notes donated to the Guild. Treasury can be used to upgrade or purchase Room Slots and hire certain NPCs depending on the Room Slot. However, hiring the treasurer will increase the prices of all the rooms. Without the treasurer, the 2nd room is 2,100 Notes, with them it is 4,100 Notes.
 
 Currently, there are 10 NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
@@ -40,7 +40,6 @@ Currently, there are 10 NPCs that can join your Guild Base with a certain amount
 -   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for 1,000 Notes.
 -   The Chef, which can be hired after building the Mess Hall for 2,000 Notes.
 -   the [Songwright](Songwright.md) which can be hired in the Song Room after building 9+ rooms for 20,000 Notes.
-
 -   The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury—with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
 The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md))
@@ -267,11 +266,14 @@ Bandits raiding a Guild Base.
 
 ## Trivia
 
+-   Although not purchasing the Treasurer makes the guild rooms cheaper to buy, you are not able to purchase any room costing more than 15,000 (i.e. Room 5 and above). This is because you can only hold a maximum of 15,000 at a time in Pathfinder mode, and to purchase any room costing more than this, you must give the respective amounts of notes to the Treasurer.
+    -   To combat this, a simple workaround would be to buy the first 4 Rooms of the guild base, and then buying the Treasure.
 -   You were previously able to gain weapon and attunement exp from hitting dummies in the Training Hall. This was later patched.
 -   You will gain a small amount of experience for each unique guild base you visit.
 -   You do not need to have every single guild base room in order to buy the Arena Extension.
     -   You simply need to buy either room in the back middle left/middle right (the "back" being 3 purchased rooms deep).
--   Carriable items (Artifacts, Summer Company crates, Sacks, etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate), if you travel to another server like going to Eastern Luminant or The Depths from Etrean Luminant, every carriable item inside the guild base will despawn unless there is another guildmate in the server who has the guild base active.
+-   Carryable items ([Artifacts](Artifacts.md), [Summer Company](The_Summer_Company.md) crates, [Sacks](Chests_&_Sacks.md), etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
+-   However, if you travel to another server (such as going to the [Eastern Luminant](Luminants.md) or [The Depths](The_Depths.md) from the [Etrean Luminant](Luminants.md), every carriable item inside the guild base will despawn unless there is another guildmate in the server who has the guild base active.
 -   The Thundercall Talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
     -   Ironically, the functionally identical Ironsing Mantra "Rocket Lance" is not disabled.
 -   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.

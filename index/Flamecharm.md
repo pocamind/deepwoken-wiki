@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 196033
+revid: 196251
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
