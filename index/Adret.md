@@ -1,6 +1,6 @@
 ---
 title: Adret
-revid: 183701
+revid: 196181
 source: https://deepwoken.fandom.com/wiki/Adret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -150,6 +150,7 @@ Adret has a set of optional face markings that come in a variety of colors depen
 -   During the 4/1/2022 April Fools update (Mudwoken), Adret's aspect name was changed to Markskipper.
 -   Adret innate Talent stacks with Autodidact, meaning every single time you get a power up, you get 6 points instead of the usual 3.
 -   Namesake of the [Adretian Axe](Adretian_Axe.md) and [Adretian Aegis](Adretian_Aegis.md).
+-   Note: The passive Autodidact you gained from the aspect can stack with the Autodidact boon.(not confirmed or patched)
 
 ## References
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196167
+revid: 196180
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3435,7 +3435,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Deals 30 true damage to the Jumper Cables victim, and heals you for 30 health.
     -   Nullifies the damage that the hit would have done.
     -   The Static Link is removed on proc.
-    -   40 second cooldown.
+    -   45 second cooldown.
     -   Prerequisites: Static Link, 40 Thundercall, 20 Fortitude
 
 -   Link Conduction \[Common Talent, Thundercall\] - While you have active tethers your lightning mantras cost less ether.

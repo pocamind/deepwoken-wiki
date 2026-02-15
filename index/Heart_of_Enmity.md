@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 195463
+revid: 196204
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -107,6 +107,7 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 ## Passives
 
 -   Enchant Immunity - Heart of Enmity is immune to all [Enchantments](Enchantments.md).
+-   When a player dies a unknown number of Corrupted Servants of Enmity will spawn possessing 20,000 hp.
 
 ## Loot Table/Rewards
 

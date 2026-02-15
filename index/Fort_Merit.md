@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 194356
+revid: 196198
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -20,7 +20,9 @@ Once a prison at the edge of Etrean influence, now a forward base for the Author
 
 ## Overview
 
-Fort Merit was an [Etrean](Etrea.md) Prison, formerly known as Fortress Cascabel, overtaken by the [Authority](The_Central_Authority.md), now serving as a forward base for them. Ironically, [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) and [Navaen Nomad](Navaen_Hostage.md) hostages can be found in the cells of Fort Merit.
+Fort Merit is [The Central Authority](The_Central_Authority.md)'s forward operating base in the [Eastern Luminant](Luminants.md).
+
+It was previously known as Fortress Cascabel, Etrea's best fortified prison prior to its capture to the [Authority](The_Central_Authority.md), now claimed as their operating base. Ironically, [Etrean Guardsman Hostages](Etrean_Guardsman_Hostage.md) can be found in the cells of Fort Merit.
 
 It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that can be docked from the shore.
 
@@ -34,24 +36,46 @@ It is found to the right of [Bluster Rift](Bluster_Rift.md) and has a port that 
 
 A large fortress on the peaks of the island, housing the leaders of the divisions and armoury.
 
--   [Warden Jericho](Warden_Jericho.md), leader of the Command Division, residing in the war room.
--   [Sentinel Augustus](Sentinel_Augustus.md), leader of the Shock Corps Division, standing on the balcony outside the War Room.
--   [Chud Steel](Chud_Steel.md), poster boy of Authority and Interceptor of the Shock Corps, on the balcony beside Augustus.
--   [High Inquisitor Merey](High_Inquisitor_Merey.md), leader of the Inquisition Division, hidden on in an interrogation room below the war room.
--   [Armourer Kev](Armourer_Kev.md), runs the Fort Merit Armoury containing weapons related to the Authority.
+[Warden Jericho](Warden_Jericho.md), leader of the Command Division, can be seen residing in the war room.
+
+-   [Sentinel Augustus](Sentinel_Augustus.md), leader of the Shock Corps Division, can be standing on the balcony outside the War Room.
+-   [Chud Steel](Chud_Steel.md), poster boy of Authority and Interceptor of the Shock Corps, is right beside Augustus.
+-   [High Inquisitor Merey](High_Inquisitor_Merey.md), leader of the Inquisition Division, hidden in an interrogation room below the war room.
+-   [Armourer Kev](Armourer_Kev.md) runs the Fort Merit Armoury containing weapons related to the Authority.
+
+#### Fortress Basement
+
+A small basement that houses a prison containing enemies of the Authority.
+
+-   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
+-   [Brutus](Brutus.md), a centurion from [The Hundred Legions](The_Hundred_Legions.md) is imprisoned in a larger cell, who can unbound [Fortitude](Attributes.md#ftd) and unlock [Oath: Blightsurger](Oath%253A_Blightsurger.md).
+-   [Vice Warden Morredh](Vice_Warden_Morredh.md) and an [Authority Commander](<Authority_Commander_(Enemy).md>) can be found in the office.
+-   [Private Kernel](Private_Kernel.md), son of [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) who briefs the Merit Detainment Core. He can be seen right next to the door that leads to the Detainment Core.
+
+### Blacksmith
+
+The [Blacksmith](Blacksmith.md) can be located right next to the Fortress and the Guild Hall.
+
+-   Right next to the Blacksmith is a display of weapons that correspond to their Authority Division.
+
+### Medical Bay
+
+A small building housing injured soldiers of the Authority.
+
+-   Formerly, this building was the original Fort Merit Inn. The player will still respawn in this building if they purchased a stay at the [Port Merit](Port_Merit.md) Inn.
 
 ### [Merit Detainment Core](Merit_Detainment_Core.md)
 
 A large dungeon within the prison of Fort Merit containing the worst enemies of the Authority.
 
--   Location for unlocking [Imperium Kata](Imperium_Kata.md)
--   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) Boss
+-   Heavily guarded by Authority personnel, with much more dangerous forces like the [Vice-Warden](Vice-Warden.md).
+-   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) can be located here.
 
 ### [Merit's Reach](<Merit's_Reach.md>)
 
 Lawless area off the peak of the main territory.
 
--   [Rashet](Rashet.md), allowing the player to reset their [Reputation](Reputation.md) with the Authority.
+-   [Rashet](Rashet.md) is located here, resting on a large pillar, allowing the player to reset their [Reputation](Reputation.md) with the Authority.
 
 ### [Port Merit](Port_Merit.md)
 
@@ -60,16 +84,7 @@ A functional port acting as the town for the island.
 -   Basic necessities such as the [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Mystic](Mystic.md), [Innkeep](Innkeep.md), and [Shipwright](Ships_&_Sailing.md) can be found here.
 -   Guarded by [Authority Peacekeepers](Authority_Peacekeeper.md) and an [Authority Lieutenant](Authority_Lieutenant.md).
 
-### Prison (Small)
-
-A small prison containing enemies of the Authority.
-
--   Heavily patrolled by [Authority Peacekeepers](Authority_Peacekeeper.md).
--   [Brutus](Brutus.md), a soldier from [The Hundred Legions](The_Hundred_Legions.md) that can unbound [Fortitude](Attributes.md#ftd) and unlock [Oath: Blightsurger](Oath%253A_Blightsurger.md).
--   [Vice Warden Morredh](Vice_Warden_Morredh.md) and [Authority Commanders](<Authority_Commander_(Enemy).md>) can be found in the office.
--   [Private Kernel](Private_Kernel.md), son of [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md) who briefs the Merit Detainment Core.
-
-### Prison (Large)
+### Prison Tower
 
 A large towering prison branching off the main island and into the ocean.
 
@@ -120,6 +135,5 @@ Below is a list of NPCs and their uses (that are known) that you can find thorou
 -   Fort Merit is called Fortification Peak by its guards when the player has maximum reputation with the Central Authority.
 -   Fort Merit is good place to pick up [bounties](Bounty_Hunting.md), as most of the players have low/bad reputation with the Central Authority.
 -   Whenever you try to spook Brutus with a Hallowtide Mask, he doesn't get spooked and instead just says from these lines: "When are you gonna learn your lesson?" "Come on."
--   The fort, being once of Etrean influence - does not happen to match the standard Etrean architecture. With the hexagonal buildings dotted around the fort, it more closely resembles those built by the [lost Celtorian](Lost_Celtor.md) nation.
 -   [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) used to be located here, but the tunnels located on the left when entering the underground portion were removed, removing the shrine as well. It is now located at [Meteor Isle](Meteor_Isle.md), neighboring Fort Merit to the east.
 -   Due to a bug, the [Etrean Guardsman Hostage](Etrean_Guardsman_Hostage.md) that are meant to spawn in the cells of Fort Merit no longer reliably spawn. If you want to get a Fort Merit chest from the [Etrean Guardmaster](Etrean_Guardmaster.md) you will have to get a [Shipping Schedule](Shipping_Schedule.md).
