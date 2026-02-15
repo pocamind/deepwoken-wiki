@@ -1,6 +1,6 @@
 ---
 title: Shogun Specialist
-revid: 194956
+revid: 196223
 source: https://deepwoken.fandom.com/wiki/Shogun_Specialist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies, Etrea Enemies]
@@ -13,7 +13,7 @@ notices:
 | Shogun Specialist | |
 |---|---|
 | health | ? |
-| weapon | Katana |
+| weapon | Shattered Katana |
 | moves | Mortal Draw: Floating Passage, Mortal Draw: One Mind, Mortal Draw: Mangetsu, Mortal Draw: Etrea Cross |
 | affiliation | Etrea |
 

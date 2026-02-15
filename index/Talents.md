@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196180
+revid: 196209
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -300,7 +300,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _**Conditioned Runner**_ \[Advanced Talent, Agility\] - You regenerate health faster than normal when sprinting below 75% HP. The health amount scales with your agility stat. (+1 Passive Agility)
     -   After 3 seconds of sprinting without taking damage, gain increased health regeneration.
     -   The health regen is reduced in PvP combat.
-    -   Scales linearly in effectiveness.
     -   Prerequisites: All Alley Cat Talents, 25 Agility
 
 ### All-Knowing
