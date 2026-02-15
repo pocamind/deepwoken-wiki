@@ -1,6 +1,6 @@
 ---
 title: Etrean Apostle
-revid: 196222
+revid: 196225
 source: https://deepwoken.fandom.com/wiki/Etrean_Apostle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -94,8 +94,8 @@ The Etrean Apostle is an enemy NPC that can be found in [Etris](<Etris_(Vow_of_I
  |
 | 
 
-**Hollow Wraith**
+**Wind Vortex**
 
- | The Etrean Apostle shoots out a vortex of wind in front of you.
+ | The Etrean Apostle shoots out a vortex of wind towards you.
 
  |

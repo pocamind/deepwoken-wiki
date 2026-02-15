@@ -1,6 +1,6 @@
 ---
 title: Metal Greatsword
-revid: 195307
+revid: 196224
 source: https://deepwoken.fandom.com/wiki/Metal_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents]
@@ -27,10 +27,10 @@ categories: [Weapons, Greatswords, Heavy Weapons, "Attunement-based Weapons", We
 | stances | 2 Handed, 1 Handed (≥40 HVY) |
 | rarity | N/A |
 | weight | 2 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Rending Needle: Augmenter |
 | description | A sword you summoned using your opponent's metal rods. |
 
