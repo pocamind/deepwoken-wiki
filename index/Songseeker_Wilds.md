@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 196134
+revid: 196353
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -30,6 +30,7 @@ It consists of 2 land masses, a smaller and larger one, separated by a stream th
 -   There are a lot of trees bearing fruits, ranging from [Redd](Redd.md), [Plumfruit](Plumfruit.md), [Ongo](Ongo.md), and [Pomar](Pomar.md).
 -   A small campsite on top of a hill.
 -   A small tower with a quest NPC named Ezra who tells you to clear out Songseekers at [Derelict Highchurch](Derelict_Highchurch.md).
+-   A temple with a single songseeker inside.
 
 ### Large Island
 
@@ -107,3 +108,4 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 -   Songseeker Wilds appears to be a rainforest area, judging by the sounds of birds chirping, the large variety of fruit, and thick woods.
 -   There are many gankers in Songseeker. Better to farm in [Minityrsa](Minityrsa.md) instead.
     -   This is mainly because [Emel](Emel.md)'s quest requires you to kill someone here or because of the [Guild Banner](Guild_Banners.md).
+-   The temple with the single songseeker emits a very subtle hum. (Needs to be looked into for possible lore correlation.)

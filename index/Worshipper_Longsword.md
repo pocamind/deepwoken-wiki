@@ -1,6 +1,6 @@
 ---
 title: Worshipper Longsword
-revid: 195136
+revid: 196373
 source: https://deepwoken.fandom.com/wiki/Worshipper_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents, The Covenant of Flame]
@@ -57,5 +57,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   Meeting the requirement of MED, the damage is (20.7)
 -   At max MED, the damage is (24.7)
--   Least viable in comparison to other midgame Medium Weapons.
--   Outclassed by the [Mace](Mace.md) and [Katana](Katana.md).

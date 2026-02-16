@@ -1,6 +1,6 @@
 ---
 title: Moppet
-revid: 193400
+revid: 196351
 source: https://deepwoken.fandom.com/wiki/Moppet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Animations, Event Item, Hallowtide, Light Weapons]
@@ -46,6 +46,8 @@ The user impales the doll with the needle. If the Moppet has stored damage on an
 The damage this critical deals cannot be directly increased; you must increase the damage of your M1s to increase the damage output of the critical. "On-critical" Talents proc on Moppet's critical, but as you cannot directly increase the critical's damage, your options will be limited.
 
 This critical cannot be parried, blocked, or dodged. As per the game restrictions, you cannot deal more than 70% of a player's maximum health in one hit, this include the critical.
+
+The critical can **auto-grip**
 
 The critical has a cooldown of **3 seconds**.
 

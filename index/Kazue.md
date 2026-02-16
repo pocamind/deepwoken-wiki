@@ -1,6 +1,6 @@
 ---
 title: Kazue
-revid: 195920
+revid: 196364
 source: https://deepwoken.fandom.com/wiki/Kazue
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, Reputation, Etrean Royalists, Individuals with unspecified pronouns]

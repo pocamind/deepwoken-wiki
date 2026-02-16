@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 195261
+revid: 196376
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -50,8 +50,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Its alloyed variant has the second fastest medium sword swing speed in the game, alongside the [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), [Purple Cloud](Purple_Cloud.md) and [Soulwrought Longsword](Crazy_Slots.md).
 -   This weapon, along with the [Darksteel Greatsword](Darksteel_Greatsword.md), is used by the Ignition Union during their fights with the Summer Company.
 -   It used to use the [Trident Spear](Trident_Spear.md) description, but this was later updated.
--   Currently, the Alloyed Falchion deals the least amount of damage for any 'endgame' medium weapon, with it dealing a shocking 24.5 with 3 stars in damage, 0 proficiency and 75 Medium.
-    -   It is also notably out damaged by many 'midgame' medium weapons too.
+-   At requirements, Falchion deals 19.6 / 22.3 damage.
+-   At 100 MED, Falchion deals 23.2 / 24.4 damage.

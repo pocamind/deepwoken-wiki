@@ -1,6 +1,6 @@
 ---
 title: Officer Saber
-revid: 192949
+revid: 196374
 source: https://deepwoken.fandom.com/wiki/Officer_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Weapons of The Central Authority, Alloyed Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -55,6 +55,5 @@ You cannot rotate your character during this critical. This critical has the M1 
 -   At max MED, the damage is (29.4)
     -   At max MED when alloyed, the damage is (31.3)
 -   The Officer Saber used to have no requirements to use.
--   This sword shares a similar model as the [Cavalry Saber](Cavalry_Saber.md).
--   This sword shares the Critical with the [Cavalry Saber](Cavalry_Saber.md).
+-   This sword shares a similar model and critical as the [Cavalry Saber](Cavalry_Saber.md).
 -   As the name and description implies, these are used by [Authority Officers](Authority_Officer.md).
