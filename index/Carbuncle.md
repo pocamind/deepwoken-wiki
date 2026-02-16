@@ -1,6 +1,6 @@
 ---
 title: Carbuncle
-revid: 191802
+revid: 196324
 source: https://deepwoken.fandom.com/wiki/Carbuncle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1]
@@ -17,7 +17,7 @@ categories: [Monsters, Layer 2, Floor 1]
 
 “ Once the host's body is dead, the parasites start taking control of the husk left behind. It grows additional limbs, contorting into an awful shape, and the face... _ugh._ It's not a pretty sight. Those husks slowly become Carbuncles over time, and the host's body is left a mere puppet... ”
 
-― Ignition Engineer Sunway
+― Sunway
 
 ## Description
 

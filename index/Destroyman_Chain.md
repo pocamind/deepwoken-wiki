@@ -1,6 +1,6 @@
 ---
 title: Destroyman Chain
-revid: 190767
+revid: 196331
 source: https://deepwoken.fandom.com/wiki/Destroyman_Chain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Upcoming content, Equipment, Torso, Necklaces]
@@ -24,7 +24,7 @@ notices:
 | droppable | ? |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | International Greatwar |
+| obtainment | Deep League International Greatwar |
 | description | ? |
 
 ## Description

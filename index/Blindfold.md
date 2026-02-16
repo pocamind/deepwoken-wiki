@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 194606
+revid: 196323
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -30,30 +30,11 @@ Blindfolds are rare [Equipment](Equipment.md) items under the "Face" category. E
 
 Standard blindfolds are the most difficult to obtain, however they are all still obtainable. The easiest variant to obtain is the Crimson variant.
 
-<table><caption></caption>
-<tbody>
-<tr>
-  <th>Variant</th>
-  <th>Pips</th>
-  <th>Obtainment</th>
-</tr>
-<tr>
-  <td>Blindfold</td>
-  <td>No innate Pips</td>
-  <td><a href="Erisia.md">Erisia</a>, <a href="First_Layer.md">First Layer</a>, <a href="Random_Encounters.md">Sea Event Brown Chests</a></td>
-</tr>
-<tr>
-  <td>Black Blindfold</td>
-  <td>+1 Common</td>
-  <td><a href="Random_Encounters.md">Pure Ore Turn-ins</a>, <a href="Chime_of_Conflict.md">Chime of Conflict</a>, <a href="Fishing.md">Fishing</a>, <a href="Meteor_Isle.md">Meteor Isle</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="First_Layer.md">First Layer</a>, <a href="Random_Encounters.md">Island Sea Events</a>, <a href="The_Depths.md">The Depths</a></td>
-</tr>
-<tr>
-  <td>Crimson Blindfold</td>
-  <td>+1 Common</td>
-  <td><a href="Minityrsa.md">Minityrsa</a>, <a href="Songseeker_Wilds.md">Songseeker Wilds</a>, <a href="First_Layer.md">First Layer</a>, <a href="Voidwalker.md">Low-tier Voidwalker Bounties</a>, <a href="Ancient_Rotlands.md">Ancient Rotlands</a></td>
-</tr>
-</tbody>
-</table>
+| Variant | Pips | Obtainment |
+| --- | --- | --- |
+| Blindfold | No innate Pips | [Erisia](Erisia.md), [First Layer](First_Layer.md), [Sea Event Brown Chests](Random_Encounters.md) |
+| Black Blindfold | +1 Common | [Pure Ore Turn-ins](Random_Encounters.md), [Chime of Conflict](Chime_of_Conflict.md), [Fishing](Fishing.md), [Meteor Isle](Meteor_Isle.md), [Low-tier Voidwalker Bounties](Voidwalker.md), [First Layer](First_Layer.md), [Island Sea Events](Random_Encounters.md), [The Depths](The_Depths.md) |
+| Crimson Blindfold | +1 Common | [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [First Layer](First_Layer.md), [Low-tier Voidwalker Bounties](Voidwalker.md), [Ancient Rotlands](Ancient_Rotlands.md) |
 
 ## Trivia
 

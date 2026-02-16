@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 196259
+revid: 196290
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -262,7 +262,6 @@ This page is about content that has either been removed or changed drastically i
 -   **Heartbreaker** \[Common Talent, Light\] - \[Fist\] When you flourish an enemy much weaker than you, you kill them instantly. (+1 Posture, +4 Carry Load, +2 Health)
     -   In the December 20th, 2022 update, Heartbreaker was merged into Lethal Precision.
     -   In the October 6th, 2023 update, Lethal Precision was changed into the quest talent Mercy Kill.
-        -   In the October 4th, 2025 update, Mercy Kill was made innate behavior for all players.
 
 -   **Heavy Lifting** \[Common Talent\] - You can lift heavy objects with ease. (+4 Health, +9 Carry Load)
     -   In the October 17th, 2022 update, Heavy Lifting was removed from the game.
@@ -313,7 +312,7 @@ This page is about content that has either been removed or changed drastically i
     -   In the December 23rd, 2022 update, Mark of the Lone Warrior was removed.
 
 -   **Mercy Kill** \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
-    -   -   In the October 5th, 2025 update, Mercy Kill was made innate.
+    -   In the October 5th, 2025 update, Mercy Kill was made innate.
 
 -   **Mirage from the Deep** \[Oath Talent\] - Pressing R while within your Illusory Realm will consume 15% of your current health and cause you to leave early, leaving behind an illusion of a predator from the deep. (+10 Ether)
     -   In the February 23rd, 2024 update, Mirage from the Deep was removed from the game.

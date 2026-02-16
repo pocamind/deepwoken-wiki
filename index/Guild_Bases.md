@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 196237
+revid: 196287
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, OutdatedPages, Guilds, Locations]
@@ -30,16 +30,16 @@ Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Not
 
 Currently, there are 10 NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
--   The [Mystic](Mystic.md), which can be hired in the Song Room after building 3+ rooms for 2,000 Notes.
--   The [Barber](Barber.md), which can be hired after building 6+ rooms for 3,000 Notes.
--   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for 10,000 Notes.
--   The [Gunsmith](https://deepwoken.fandom.com/wiki/Gunsmith), which can be hired in the Armory for 1,000 Notes.
--   The [Antiquarian](Antiquarian.md), which can be hired after building 9+ rooms for 10,000 Notes.
--   The Librarian, which can be hired after building the Library for 1,000 Notes.
--   The [Artisan](https://deepwoken.fandom.com/wiki/Jarvis), which can be hired after building the Trophy Room for 10,000 Notes.
--   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for 1,000 Notes.
--   The Chef, which can be hired after building the Mess Hall for 2,000 Notes.
--   the [Songwright](Songwright.md) which can be hired in the Song Room after building 9+ rooms for 20,000 Notes.
+-   The [Mystic](Mystic.md), which can be hired in the Song Room after building 3+ rooms for 2,000.
+-   The [Barber](Barber.md), which can be hired after building 6+ rooms for 3,000.
+-   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for 10,000.
+-   The [Gunsmith](Gunsmith.md), which can be hired in the Armory for 1,000.
+-   The [Antiquarian](Antiquarian.md), which can be hired after building 9+ rooms for 10,000.
+-   The [Guild Librarian](Guild_Librarian.md), which can be hired after building the Library for 1,000.
+-   The [Artisan](Artisan.md), which can be hired after building the Trophy Room for 10,000.
+-   The [Blacksmith](Blacksmith.md), which can be hired after building the Armory for 1,000.
+-   The [Mess Chef](Mess_Chef.md), which can be hired after building the Mess Hall for 2,000.
+-   the [Songwright](Songwright.md) which can be hired in the Song Room after building 9+ rooms for 20,000.
 -   The Leader may expand the Guild Base by using either their personal notes on hand or the Guild's Treasury—with each expansion becoming staggeringly higher in price than the previous purchase. Should the Leader choose to they may remove rooms from the guild base by using the Chime of Dwelling inside of it (they are also able to exile members in the same menu).
 
 The pricing list is as follows: (Assuming you have the [Treasurer](Treasurer.md))
@@ -268,23 +268,20 @@ Bandits raiding a Guild Base.
 
 -   Although not purchasing the Treasurer makes the guild rooms cheaper to buy, you are not able to purchase any room costing more than 15,000 (i.e. Room 5 and above). This is because you can only hold a maximum of 15,000 at a time in Pathfinder mode, and to purchase any room costing more than this, you must give the respective amounts of notes to the Treasurer.
     -   To combat this, a simple workaround would be to buy the first 4 Rooms of the guild base, and then buying the Treasure.
--   You were previously able to gain weapon and attunement exp from hitting dummies in the Training Hall. This was later patched.
--   You will gain a small amount of experience for each unique guild base you visit.
--   You do not need to have every single guild base room in order to buy the Arena Extension.
-    -   You simply need to buy either room in the back middle left/middle right (the "back" being 3 purchased rooms deep).
--   Carryable items ([Artifacts](Artifacts.md), [Summer Company](The_Summer_Company.md) crates, [Sacks](Chests_&_Sacks.md), etc.) that are placed inside a Guild Base will stay even if the entrance is moved, making it viable to safely transfer items across the map without the risk of players targeting you for your artifacts (so long as you hide the door or have a second guildmate)
--   However, if you travel to another server (such as going to the [Eastern Luminant](Luminants.md) or [The Depths](The_Depths.md) from the [Etrean Luminant](Luminants.md), every carriable item inside the guild base will despawn unless there is another guildmate in the server who has the guild base active.
+-   Previously, you could gain Attunement and Weapon EXP off of the combat dummies in the Training Hall room.
+-   You will gain a small amount of experience for each new guild base you visit.
+-   You do not need to have every single guild base room in order to buy the Arena Extension. You simply need to buy either room in the back middle left/middle right (the "back" being 3 purchased rooms deep).
+-   Any item that can be carried ([Artifacts](Artifacts.md), [Summer Company](The_Summer_Company.md) crates, [Sacks](Chests_&_Sacks.md), etc.) that are placed inside a Guild Base will stay even if the entrance is moved, providing a useful way to transfer them over long distances.
+    -   However, if you travel to another server (such as going to the [Eastern Luminant](Luminants.md) or [The Depths](The_Depths.md) from the [Etrean Luminant](Luminants.md), every carriable item inside the guild base will despawn unless there is another guildmate in the server who has the guild base active.
 -   The Thundercall Talent "Grand Skewer" is disabled while inside, as it can fling people out of the base.
     -   Ironically, the functionally identical Ironsing Mantra "Rocket Lance" is not disabled.
--   Although enemies aren't supposed to spawn inside the guild base, bandits can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
--   You can also use the guild base to climb high walls using the door (since you can hang onto it)
--   To prevent people from entering your guild base put mobs beside the door or a Navaen hostage.
--   Guild bases are very useful. They can be placed anywhere besides The Depths, any Voidzone, Dungeons, The Monkey's Paw, and in territories which you are considered an enemy. They can offer healing, protection against enemies, a safe place to train with your guildmates, and to fish without any disturbance.
--   They are also very convenient, and allow you to access NPCS which you usually have to travel around the map for, including the Chef, Songwright, etc.
+-   Although enemies aren't supposed to spawn inside the guild base, [Bandits](Bandit.md) can still spawn inside, and you can still fish up enemies such as [Mudskippers](Mudskipper.md) or [Lionfish](Lionfish.md) from the Fish Pond.
+-   Guild Bases can provide use climbing walls, as they act as a small ledge.
+-   Putting mobs or [Navaen Hostages](Navaen_Hostage.md) near the entrance of the Guild Base will not allow anyone to enter, useful for preventing assassinations or Voidwalkers.
 -   There is a small area above Monkey's Paw which is considered to be part of the Aratel Sea, allowing you to place a guild base.
 -   If you glitch out of the Guild Base and are thrown into the void outside, you will spawn outside of your guild base.
--   All the books will be saved if you delete the library.
--   As training Charisma requires an audience, you can always train charisma inside your guild base as all of the guild NPCS are counted as an audience.
+-   Any books that have been donated to the guild library are saved if the room is removed.
+-   Guild Bases can be useful for training Charisma as the NPCs will fulfill the need of an audience.
 -   The trees in the Quarters room can be cut down for wood with a lumber axe at the right angle.
 -   The PVE dummy in the training hall can be used to build up [Chain of Perfection](Talent_Quests.md#chain-of-perfection) stacks.
 -   As stated by Arch\_Mage\[_Citation Needed_\], there is an unknown feature that can permanently turn all NPCS in your guild base into long white haired moustache Felinors.

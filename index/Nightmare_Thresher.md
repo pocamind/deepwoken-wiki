@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 196255
+revid: 196289
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -14,8 +14,6 @@ categories: [Monsters]
 | attacks | Tail Swipe, Burrow, Cursed Flame, Ram, Arm Swipe, Ram |
 | locations | Ancient Rotlands, The Diluvian Mechanism |
 | challenges | -- Thresher --, Reptilian Rumble - Slay 10.Reward: +10% DMG; +5% RES, One Maw Time - Slay 25.Reward: +10% DMG; +5% RES, Thresher Trouble - Slay 100.Reward: +10% DMG; +5% RES |
-
-_Also known as Radioactive Thresher and Poison Thresher_
 
 ## Description
 
@@ -92,4 +90,4 @@ High posture
 -   The color palette and location of the new parts is possibly a reference to green lizards from Rain World.
 -   Originally, they were just Thresher reskins, until Deepwoken YouTuber Agamatsu requested unique moves for it.
 -   Apparently part of a series of Nightmare mobs, though Nightmare Threshers are the only existing variant.\[citation needed\]
--   Previously, they had eyes with black scleras, green irises and beams protruding throughout their bodies and a green-and-black smoky flame eminating from their orbital region. Now, the eyes have been removed and the flame has been replaced with a green pattern, resembling that of a star constellation and the [Linkstrider](Oath%253A_Linkstrider.md) bonds, hinting at a possible connection.
+-   Previously, they had eyes with black scleras, green irises and beams protruding throughout their bodies and a green-and-black smoky flame eminating from their orbital region.

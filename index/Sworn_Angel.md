@@ -1,6 +1,6 @@
 ---
 title: Sworn Angel
-revid: 196257
+revid: 196288
 source: https://deepwoken.fandom.com/wiki/Sworn_Angel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments]
@@ -99,8 +99,7 @@ categories: [Enemies, Enemies that can wield Enchantments]
 
 ## Trivia
 
--   Angels are prone to retreating/dodging by moving backwards from you, making it sometimes frustrating to fight them.
--   **Gaze** can affect the other Angel if they walk in front of the other while it's active, sometimes giving you a few free hits.
--   Gripping one Angel in the Trial of One will cause the other to automatically despawn, passing the trial with less effort.
-    -   This is best done with the now innate Mercy Kill talent or by applying burn on their knocked body, such as a [Flamecharm](Flamecharm.md) mantra.
+-   Sworn Angels are prone to retreating/dodging by moving backwards from you, making it sometimes frustrating to fight them.
+-   In the Trial of One, Sworn Angel's Gaze can affect each other Angel if they walk in front of the other while it's active, allowing for a chance to strike.
+-   In the Trial of One, executing one of the Sworn Angels will cause the other to automatically despawn, passing the trial with less effort.
 -   Despite them being removed from the game, Sworn Angels seem to functionally serve as stand-in [Deep Angels](Deep_Angel.md) due to them being a stronger variant of the monster type.

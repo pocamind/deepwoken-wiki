@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 192332
+revid: 196294
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Enemies]
@@ -128,6 +128,7 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 -   This move is only performed after feinting **Aureate Flourish.**
 -   The visual for this move is deceptively big compared to the hitbox.
 -   Following what's said from the above, sometimes if you stand into the circle given by the visuals, you won't be hit, but standing right at the back of it gets you hit.
+-   Oddly, this move seems to have the highest chance of a voiceline playing. For whatever reason, this seems to be intentional, as Pasmarkinti used to have the highest chance, but was deliberately changed to this move.
 
  | 
 
@@ -191,7 +192,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 -   This move can be used up to three times in a row.
 -   Dravik can feint the third slash of any of the three attacks into a slower slash.
--   For whatever reason, this move seems to have the highest chance of a voiceline playing.
 
  | 
 

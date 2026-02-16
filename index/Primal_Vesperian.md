@@ -1,6 +1,6 @@
 ---
 title: Primal Vesperian
-revid: 177140
+revid: 196339
 source: https://deepwoken.fandom.com/wiki/Primal_Vesperian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Pages with broken file links, Aspects, Exclusive Aspects, Developer Spec]
@@ -96,8 +96,6 @@ A layer of protective armor that regenerates at rest.
 
 -   Stag Acrossus
 -   Haske Vantage
-
-  
 
 ## Trivia
 

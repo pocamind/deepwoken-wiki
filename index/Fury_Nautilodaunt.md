@@ -1,6 +1,6 @@
 ---
 title: Fury Nautilodaunt
-revid: 191443
+revid: 196310
 source: https://deepwoken.fandom.com/wiki/Fury_Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -65,6 +65,12 @@ Finally, it is also observed to be much more durable than a regular Nautilodaunt
 
  | Fury Nautilodaunt initiates a full sprint before committing to a drop kick on its prey, sending them flying.
 
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#cyan)
+
+Parry
+
  |
 | 
 
@@ -75,6 +81,12 @@ Finally, it is also observed to be much more durable than a regular Nautilodaunt
 
 -   This is most commonly used against distant prey for a variety of functions such as giving chase, or to take the initiative.
 -   This insta-grips, sparing you from becoming a Mudskipper but still wiping you all the same.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196278
+revid: 196292
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3511,7 +3511,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Also grants the ability to assassinate players who are in combat.
     -   Prerequisites: All Assassin Talents, 90 Agility
 
--   None Left Behind \[Common Talent, Agility\] - You can now shadestep to pick up knocked humanoids far away from you. (+1 Passive Agility)
+-   None Left Behind \[Common Talent, Agility\] - You can now shadestep to pick up [Unconscious](Status_Effects.md#unconscious) humanoids far away from you. (+1 Passive Agility)
     -   Utilizing the 'Carry' action on a knocked entity who's in close/medium range teleports you to them
     -   Can be used to go through walls if you can aim at the knocked entity through it.
     -   Prerequisites: Dustlunge, 100 Agility

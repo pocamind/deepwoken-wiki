@@ -1,11 +1,9 @@
 ---
 title: Deepdelver Myra
-revid: 193983
+revid: 196293
 source: https://deepwoken.fandom.com/wiki/Deepdelver_Myra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, Pages with broken file links, Articles needing images, NPCs, NPCs located in the First Layer, Deepdelvers]
-notices:
-  - This article would benefit from the addition of one or more new images. Unique Face Image Missing
+categories: [Tiran NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Deepdelvers]
 ---
 
 # Deepdelver Myra
@@ -121,5 +119,4 @@ Deepdelver Myra is located at the back of the Deepdriller room in [The Chariot's
 ## Trivia
 
 -   Deepdelver Myra has a unique face and pose.
--   Although somewhat hard to see due to her facial expression, Myra _does_ have pupils in her eyes.
 -   Myra's hair can be found here: [https://www.roblox.com/catalog/18911919363/Black-Windy-Wispy-Anime-Hair](https://www.roblox.com/catalog/18911919363/Black-Windy-Wispy-Anime-Hair)

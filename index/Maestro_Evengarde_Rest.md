@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 192588
+revid: 196279
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -13,6 +13,7 @@ categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
 | health | 15000 |
 | drops | Large chest, Purple Cloud (Guaranteed on the first kill with Medium), Pale Briar (Guaranteed on first kill with Heavy), Cerulean Thread (Guaranteed on first kill with Light), Windrunner Robes, Wyrmtooth, Curved Blade of Winds, Crypt Blade, Imperial Staff, Drops Smith's Alloy, Sinner's Ash and Armorer's Needle, Misc. (See Lootpool) |
 | weapon | Shattered Katana |
+| pronouns | He/him[1] |
 | challenges | -- Maestro Evengarde Rest --, Sparring Buddy - Slay 10.Reward: +5% DMG; +2.5% RES |
 
 Variants: [Evengarde Rest](Evengarde_Rest.md)
@@ -379,3 +380,7 @@ This dialogue is unlocked if the player has the [Nogoras Mahoraga Wheel](https:/
 -   His Hair ID is 6101425666.
 -   He has heterochromia, meaning both his eyes are different colors. It is unknown whether he has it due to his powers or not.
 -   On the humanoid AI update, Maestro used to be bugged as his AI was swapped with a bugged version of the Bladeharper AI, he couldn't m1 or parry properly and did not even attack the player unless they used a critical attack or mantras, his **Mortal Draw: Floating Passage** was nerfed so that the final swing could be parriable as well. As of the 06/15/2025 patch, his AI was fixed and Maestro fights properly once more.
+
+## References
+
+1.  [↑](#cite-ref-1) NPC dialogue: [Evengarde Rest](Evengarde_Rest.md)

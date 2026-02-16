@@ -1,6 +1,6 @@
 ---
 title: Sweetgourd
-revid: 193425
+revid: 196333
 source: https://deepwoken.fandom.com/wiki/Sweetgourd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Upcoming content, Food]
@@ -27,8 +27,6 @@ notices:
 
 ## Description
 
-**Sweetgourd** is a [Food](Food.md) item. It is also purchased from [Naan Zakshun](Naan_Zakshun.md)
-
-for 4,000 during her Black Market.
+**Sweetgourd** is a [Food](Food.md) item. It is also purchased from [Naan Zakshun](Naan_Zakshun.md) for 4,000 during her Black Market.
 
 It is a type of **Plant**, meaning it cannot be eaten with the [Carnivore](Talents.md#carnivore) Talent.

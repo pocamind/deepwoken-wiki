@@ -1,6 +1,6 @@
 ---
 title: Winter Corps Parka
-revid: 176619
+revid: 196307
 source: https://deepwoken.fandom.com/wiki/Winter_Corps_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Parkas]
@@ -31,3 +31,7 @@ categories: [Equipment, Arms, Parkas]
 The Winter Corps Parka is an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Winter's Protection](Talents.md#winters-protection) Talent negates elemental weather buffs such as [Stratoshock](Talents.md#stratoshock), the innate damage buff [Thundercall](Thundercall.md) damage gets during rain, and the innate damage buff [Frostdraw](Frostdraw.md) damage gets during snow. Additionally, this increases the time limit before you are eaten by the [Second Layer](Second_Layer.md)'s parasites.
+
+## Trivia
+
+-   Although not much is known about it, it is said in the description that the parka was made to resist a certain hazard in the [Northern Luminant](Luminants.md), named [Drakethistle](Drakethistle.md).
