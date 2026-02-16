@@ -1,6 +1,6 @@
 ---
 title: Artisan
-revid: 195883
+revid: 196401
 source: https://deepwoken.fandom.com/wiki/Artisan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Guild Base]
@@ -33,10 +33,12 @@ The Artisan is an NPC found in the [Guild Base](Guild_Bases.md) who is capable o
   <td colspan="6">Aren't we literally giving you room and board?</td>
 </tr>
 <tr>
-  <td colspan="12">Ah! We must begin... First give ze item you want to keep attribute of...</td>
+  <td colspan="6">Ah! We must begin... First give ze item you want to keep attribute of...</td>
+  <td colspan="6">And in doing zo you have gained ze privilege of purchasing my zervices! Tsk!</td>
 </tr>
 <tr>
-  <td colspan="12">Here is the item I wish to keep attributes on.</td>
+  <td colspan="6">Here is the item I wish to keep attributes on.</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 <tr>
   <td colspan="12">Magnifique! And ze one you want as appearance?</td>

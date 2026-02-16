@@ -1,6 +1,6 @@
 ---
 title: Mime
-revid: 191552
+revid: 196387
 source: https://deepwoken.fandom.com/wiki/Mime
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, Ganymede NPCs]
@@ -86,14 +86,14 @@ Mime located in [Songseeker Wilds](Songseeker_Wilds.md) but not on the main isla
 
 | Sparks | Image |
 | --- | --- |
-| Barrel: None | 
+| [Barrel](Barrel.md): None | 
  |
 | Statue: 1 Reversal |  |
 | Crate: 1 Tornado |  |
 | Lantern: 1 Blast |  |
-| Gobletto: 1 Reversal, 1 Tornado |  |
+| [Gobletto](Gobletto.md): 1 Reversal, 1 Tornado |  |
 |   
-Lit Campfire: 1 Blast, 1 Tornado  
+[Lit Campfire](Campfire_Pit.md): 1 Blast, 1 Tornado  
  |  |
 | Skull: 1 Reversal, 1 Blast |  |
 

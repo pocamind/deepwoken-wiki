@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 194546
+revid: 196388
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -25,7 +25,10 @@ Stratos is the second-in-command of the Blade Temple, residing on the [Isle of V
 
 ## Windwaker Quest
 
-To complete the quest, you must have the following requirements fulfilled, have a minimum of 20 points invested into [Galebreathe](Galebreathe.md) as well as "Friend" reputation with Etrea (~75).
+To complete the quest, you must have the following requirements fulfilled:
+
+-   Have a minimum of 20 points invested into [Galebreathe](Galebreathe.md)
+-   Have "Friend" reputation with Etrea (~75).
 
 ### The Reward
 

@@ -1,6 +1,6 @@
 ---
 title: Transmogrification
-revid: 196232
+revid: 196403
 source: https://deepwoken.fandom.com/wiki/Transmogrification
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Equipment, Outfits]
@@ -60,6 +60,7 @@ A Power 1 freshie wearing a Fleet Warden Cape smelted onto a Tundra Scarf but ca
 -   Smelting items **WILL NOT** soulbind the new item, even if you equip it, unless the new smelted item is enchanted afterwards. You can equip/unequip and drop them as you please. (needs testing)
     -   _Do note that this means you have the potential to drop the smelted item upon death if it isn't being worn._
 -   If you back out of the dialogue without completing the smelt, [Jarvis](Jarvis.md) (or the guild Artisan) will hold the items for you until you come back.
+-   Rings are **not** able to be smelted.
 -   Smelted items can be passed down.
 -   You can smelt pieces of equipment that have already been smelted.
     -   For example, if you smelt the first item **A1** and the second item **B2** (A takes the appearance of B) and then smelt another item **C1** first with item **A1**, it'll carry over **B'**s appearance (TL;DR: Smelt A and B to make equipment AB, AB looks like B, smelt C and AB to make equipment CAB, CAB still looks like B).

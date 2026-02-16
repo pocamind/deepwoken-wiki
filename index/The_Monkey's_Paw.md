@@ -1,6 +1,6 @@
 ---
 title: "The Monkey's Paw"
-revid: 194502
+revid: 196407
 source: https://deepwoken.fandom.com/wiki/The_Monkey's_Paw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -37,4 +37,4 @@ On the edge of the ridge there's a fire that is always burning. You can interact
     -   The wish in this game is the items used in the Sacrificial Flame, and the "consequence" is the [Primadon](Primadon,_Titan_of_the_East.md) coming up from out of the water.
     -   Additionally, the island tells you to "Be careful what you wish for." which is the central idea of the story.
 -   Be careful while you are here, as this is a popular ganking spot for many players and you may stumble upon people which will attack you after you kill Primadon or even during it, exercise caution and make sure no undesirable third party is waiting to ambush you here before starting Primadon's boss fight.
--   The Monkey's Paw, along with Layer 2 floors 1 and 2, are the only few places where Roblox terrain is used for its environment.
+-   With the release of Verse 2 The Monkey's Paw previously used Roblox terrain. This was later reverted to its original part terrain used during Verse 1 in the January 19, 2026 update.
