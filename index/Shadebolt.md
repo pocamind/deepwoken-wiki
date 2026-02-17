@@ -1,9 +1,9 @@
 ---
 title: Shadebolt
-revid: 196587
+revid: 196886
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]
 ---
 
 # Shadebolt
@@ -11,24 +11,30 @@ categories: [Weapons]
 | Shadebolt | |
 |---|---|
 | type | Bow |
-| damage type | ? |
-| requirements | ? |
-| damage | ? |
-| scaling | ? |
-| posture damage | ? |
-| range | ? ? |
-| swing speed | ? |
-| attack duration | ? |
-| special effect | ? |
+| damage type | Slash |
+| requirements | 45 MED, 30 SDW |
+| damage | 16 |
+| scaling | MED: 8, SDW: 2 |
+| posture damage | 4.5 |
+| range | 12 Lunge |
+| swing speed | 1x |
+| attack duration | 0.6 |
+| penetration | 10% |
 | stances | 2 Handed |
-| rarity | ? |
-| selling price | ? |
+| rarity | Mythical |
+| selling price | 100 |
 | weight | 2 |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | ? |
-| description | ? |
+| obtainment | The Doom of Caeranthil, Interluminary Parasol, The Depths, Layer 2 |
+| description | Bow of an ancient deep dwelling Ganymede Nomad. Through taboo rites, Umbrite was bent to their will, shaped into tools that seemed almost alive. Some named the figure Shaman, others never learned a name at all. |
 
+## Description
 
+The **Shadebolt** is a [Bow](Weapons.md#bows) imbued with [Shadowcast](Shadowcast.md), with wide thorn-like limbs that curve outward in sharp, uneven arcs. Its silhouette is aggressive and asymmetrical, with serrated edges and a heavy, angular grip at the center.
+
+## Critical
+
+The user spins the Shadebolt in their hand and takes aim, before unleashing a burst of six Shadow-imbued arrows at once. The trajectory of these arrows is random.

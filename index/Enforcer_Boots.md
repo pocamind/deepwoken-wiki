@@ -1,6 +1,6 @@
 ---
 title: Enforcer Boots
-revid: 189787
+revid: 196893
 source: https://deepwoken.fandom.com/wiki/Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Duke Erisia, First Layer, The Enforcer |
+| obtainment | Duke Erisia, First Layer, The Enforcer (Direct drop) |
 | description | ... |
 
 ## Description

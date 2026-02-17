@@ -1,6 +1,6 @@
 ---
 title: Chained Ring
-revid: 178645
+revid: 196887
 source: https://deepwoken.fandom.com/wiki/Chained_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,7 +21,7 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | Yes |
 | obtainment | Maestro Evengarde Rest, Chaser, Scholar of the Crimson Contract, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Duke Ishamon Erisia, Chime of Conflict, Heart of Enmity, Diluvian Mechanism, Deep Widow, Lodestar, Fishing, Dread Serpent, Saramaed Hollow, Authority Ensign Missions |
-| description | Reduces incoming knockback but removes your ability to Air Dash. |
+| description | Reduces incoming knockback but removes your ability to Air Dash. Landing an uppercut with Chained Ring now disables your opponent's air dashes for 5 seconds and briefly makes them unable to roll. |
 
 ## **Description**
 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196596
+revid: 196894
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -142,7 +142,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 20 Agility
     -   The [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Delver's Duster](<Delver's_Duster.md>), [Sandrunner Wraps](Sandrunner_Wraps.md), and [Abyss Wanderer's Plate](<Abyss_Wanderer's_Plate.md>) equipment items have this Talent.
 
--   Steady Footing \[Common Talent, Strength, Agility\] - You're much more resistant to being pushed around. (+9 Carry Load, +2 Passive Agility)
+-   Steady Footing \[Common Talent, Strength, Agility\] - You're much more resistant to being pushed around. (+5 Carry Load, +2 Passive Agility)
     -   Reduces knockback to the user by 20%. (stacks with "Knockback Resistance" equipment pip)
         -   This effect allows opponents to easier combo off of attacks that knock the user back, causing it to be **not recommended** outside PvE.
     -   Removes ice's bonus slide distance, but **does not** affect the lowered friction when moving on ice.
@@ -178,7 +178,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Adept Caster
 
--   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element. (+7 Carry Load)
+-   _Everchanging Aegis_ \[Rare Talent, Intelligence\] - You take 20% less from attacks the same element as the last element you were hit with, but 10% more damage from attacks from different element.
     -   Getting hit by another element immediately changes your resistance to that element. i.e Getting hit by Shadowcast Mantras while having Galebreathe resistance will immediately change your resistance type to Shadowcast and vice versa.
         -   This means that multi-hitting Mantras are much less potent, even if your Everchanging Aegis type was not attuned to that Mantra.
     -   Your Aegis type can swap on block, dodge, and parry. You do not need to actually be _hit_ by the attack for the swap to occur, largely mitigating the downside.
@@ -331,7 +331,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Reduces the likelihood of fishing up trash items such as Seaweed or Leather Boots.
     -   Prerequisite: Fish a total of 10 times successfully. (Automatically obtained)
 
--   _Hook, Line, and Sinker_ \[Quest Talent\] - Once something's caught your line, it's much harder to get loose. (+4 Carry Load)
+-   _Hook, Line, and Sinker_ \[Quest Talent\] - Once something's caught your line, it's much harder to get loose.
     -   Slightly increases margin of failure before losing a fish.
     -   Prerequisite: Fish a total of 30 times successfully. (Automatically obtained)
 
@@ -816,8 +816,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   **All** stacks of Perpetual Wrath will be cleared if the chain is broken.
     -   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat one humanoid [boss](Bosses.md) or player with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
 
--   Chainlash \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md)\] - On flourish, whip your chain to seize and pull enemies toward you, setting them up for a crushing kick.
-    -   Your flourish and [Impel](Oath%253A_Chainwarden.md#impel) (Mantra) now apply chained and pull after a short delay. M1ing after the pull will perform a Crushing Kick, dealing high damage.
+-   Chainlash \[Oath Talent, [Chainwarden](Oath%253A_Chainwarden.md)\] - On flourish, gain the ability to summon a chain on an enemy for 5 seconds by right clicking. This lets you whip your chain to seize and yank enemies towards you, setting them up for a crushing kick.
+    -   Right clicking after landing a flourish will apply [Enchained](Status_Effects.md#enchained) to your opponent, pulling them to you. M1ing after the pull will perform a Crushing Kick, dealing high damage.
     -   The pull will bring the targets back to the location you flourished and prevent movement for a duration.
     -   Chainlash will only work on Chained targets, if a target breaks the chain quick enough, Chainlash will cancel.
     -   Works with Dazing Finisher and Bulldozer.
@@ -827,7 +827,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Champion
 
--   _Champion's Regalia_ \[Rare Talent, Strength\] - Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds. (+1 Carry Load)
+-   _Champion's Regalia_ \[Rare Talent, Strength\] - Flourishing an opponent grants you +50% posture damage on Basic Attacks for 10 seconds.
     -   Indicated by a gold shaded outline on your character.
     -   Does not work on non-humanoid NPCs.
     -   Works only if you successfully hit someone with flourish. Doesn't work on parry, block, dodge hits.
@@ -919,14 +919,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Colossus
 
--   _Destructive Recovery_ \[Rare Talent, Strength, Heavy Weapon\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture, +2 Carry Load)
+-   _Destructive Recovery_ \[Rare Talent, Strength, Heavy Weapon\] - Greatsword Enemies recover 20% less Posture when parrying. (+1 Posture)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Use a Greatsword
 
 -   Heavy Hitter \[Common Talent, Strength, Heavy Weapon\] - Heavy Weapons Your posture damage is increased by 10%.
     -   Despite its description, your posture damage is increased by only 5%.
     -   Prerequisites: 25 Heavy Weapon, 15 Strength
 
--   _Unstoppable Force_ \[Rare Talent, Strength, Heavy Weapon\] - Greathammer You take 15% less posture damage when parried. (+1 Posture, +2 Carry Load)
+-   _Unstoppable Force_ \[Rare Talent, Strength, Heavy Weapon\] - Greathammer You take 15% less posture damage when parried. (+1 Posture)
     -   Prerequisites: 25 Strength & 40 Heavy Weapon, Unwavering Resolve, Use a Greathammer
 
 ### Comrade
@@ -1187,16 +1187,16 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Duelist
 
--   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds. (+8 Carry Load)
+-   _Concussion_ \[Rare Talent, Strength, Fortitude\] - Enemies you flourish into walls have their vision altered for a short duration and are dazed longer than usual. Flourished PvE enemies get [Stagger](Status_Effects.md#stagger) for a few seconds.
     -   The Stagger status effect makes your opponent take 33% more posture damage.
     -   Prerequisites: 20 Strength, 15 Fortitude
 
--   Concussive Force \[Common Talent, Strength\] - Enemies you knocked remain downed longer than usual. (+9 Carry Load)
+-   Concussive Force \[Common Talent, Strength\] - Enemies you knocked remain downed longer than usual.
     -   Enemies remain knocked for 15 seconds instead of 10.
     -   Prerequisite: 15 Strength
     -   The [Blackleaf Helm](Blackleaf_Helm.md) and [Gladiator Helm](Gladiator_Helm.md) equipment have this Talent.
 
--   Precise Swing \[Common Talent, Strength, Agility\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+9 Carry Load, +1 Passive Agility)
+-   Precise Swing \[Common Talent, Strength, Agility\] - After landing a critical your next basic attack will gain 25% chip past your opponent's block. (+1 Passive Agility)
     -   If your critical lands, is parried, or is blocked, gain the [Precise Swing](Status_Effects.md#precise-swing) status effect for 30 seconds.
     -   The Precise Swing status effect will be consumed if you hit someone's block with an M1, you land an M1, or your M1 gets parried.
         -   If your M1 is whiffed or dodged, the status effect will not be consumed.
@@ -1205,21 +1205,21 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 25 Strength, 15 Agility
     -   The [Phalanx Helmet](Phalanx_Helmet.md) equipment has this Talent.
 
--   _Spine Cutter_ \[Rare Talent, Strength, Agility\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+6 Carry Load, +2 Passive Agility)
+-   _Spine Cutter_ \[Rare Talent, Strength, Agility\] - Hitting an enemy in the back after a roll cancel will initiate a second slash that deals your weapon's raw damage. (+2 Passive Agility)
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   The second slash has no PEN.
     -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
     -   Prerequisites: 20 Strength, 25 Agility
 
--   Steady Nerves \[Common Talent, Strength, Agility\] - You dance from toe to toe - successful dodges restore posture. (+7 Carry Load, +2 Passive Agility)
+-   Steady Nerves \[Common Talent, Strength, Agility\] - You dance from toe to toe - successful dodges restore posture. (+2 Passive Agility)
     -   Restore 2 flat posture on a successful dodge.
     -   Prerequisites: 15 Strength, 45 Agility.
 
--   Strong Hold \[Common Talent, Strength, Medium Weapon\] - Medium Weapons When above 33% health and two-handing, posture damage taken is reduced by 5%. (+9 Carry Load, +1 Passive Agility)
+-   Strong Hold \[Common Talent, Strength, Medium Weapon\] - Medium Weapons When above 33% health and two-handing, posture damage taken is reduced by 5%. (+1 Passive Agility)
     -   Prerequisites: 30 Strength, 30 Medium Weapon
     -   The [Authority Helm](Authority_Helm.md) and [Bulwark Helm](Grand_Authority_Sallet.md) equipment have this Talent.
 
--   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are [Dazed](Status_Effects.md#dazed) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well. (+9 Carry Load)
+-   _Strong Stern_ \[Rare Talent, Strength, Fortitude\] - The duration you are [Dazed](Status_Effects.md#dazed) from wall bangs is cut in half. Slightly reduce your guardbreak stun time from PvE enemies as well. (+5 Carry Load)
     -   Prerequisites: 15 Strength, 25 Fortitude
     -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
 
@@ -1229,7 +1229,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Duelist Flame
 
--   Concussive Flash \[Common Talent, Strength, Flamecharm\] - Your blinding light now concusses foes. (+10 Carry Load)
+-   Concussive Flash \[Common Talent, Strength, Flamecharm\] - Your blinding light now concusses foes.
     -   People blinded by Flame Blind are Dazed for 2 seconds.
     -   Prerequisites: [Flame Blind](Flamecharm.md#flame-blind) (Mantra), 30 Flamecharm, 25 Strength
 
@@ -1275,10 +1275,10 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Ether Conduit
 
--   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras. (+7 Carry Load)
+-   Ether Absorption \[Common Talent, Intelligence\] - Receive Ether back when inflicted with damage from Mantras.
     -   Prerequisite: 15 Intelligence
 
--   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of [Inspiration](Status_Effects.md#inspiration) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspiration). (+7 Carry Load)
+-   _Eureka_ \[Rare Talent, Intelligence\] - Gain a stack of [Inspiration](Status_Effects.md#inspiration) every time you land or parry a Mantra. Whiffing a Mantra removes a stack of [Inspiration](Status_Effects.md#inspiration).
     -   At 3 stacks, gain the Inspired buff for 30 seconds or until you cast a Mantra. Inspired increases the damage of your next Mantra cast by 10%.
         -   If you gain Inspired by parrying Mantras, you gain the Inspired status effect for 30 seconds.
         -   If you gain Inspired by landing Mantras, the Inspired status will be instantly consumed to increase the damage of the Mantra used to gain the status.
@@ -1293,7 +1293,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 ### Ether Endeavors
 
--   Keen Recovery \[Common Talent, Intelligence\] - Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost. (+3 Carry Load)
+-   Keen Recovery \[Common Talent, Intelligence\] - Landing a basic attack after feinting a mantra will restore the feinted mantra's ether cost.
     -   If you have 55 or more Intelligence, this will recover double the feinted Mantra's Ether cost instead.
     -   Does not proc if your basic attack is blocked, parried, or dodged.
     -   Prerequisites: 55 Intelligence
@@ -1632,6 +1632,14 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Fortitude Unbounded \[Mastery Talent, Fortitude\] - You have gained the ability to surpass your limits and train your fortitude to its fullest.
     -   Prerequisites: 75 Fortitude, speak to [Brutus](Brutus.md)
 
+### Greatarcher
+
+-   _Bodkin Arrow_ \[Rare Talent, Strength\] - Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies.
+    -   Prerequisites: Bow equipped, 55 Strength
+
+-   _Precision Crusher_ \[Rare Talent, Strength\] - Landing a charged shot will knock your opponent down instead of back.
+    -   Prerequisites: Bow equipped, Bodkin Arrow, 75 Strength
+
 ### Gunslinger
 
 -   _Armor Piercing_ \[Rare Talent, Medium Weapon // Light Weapon\] - Guns Your gun attacks now ignore 10% of an opponent's blunt armor. Applied Multiplicatively before PEN is applied.
@@ -1788,7 +1796,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisite: 25 Frostdraw, Ice Daggers Mantra
 
 -   Cryonis \[Common Talent, Frostdraw\] - All ice spells casted ontop of ice cost less Ether.
-    -   Ice Mantras cost 40% less ether if casted while standing on ice.
+    -   Ice Mantras cost 20% less ether if casted while standing on ice.
     -   Prerequisite: 40 Frostdraw
 
 -   Frost Buster \[Common Talent, Frostdraw, Heavy Weapon\] - Greatsword Criticals and Greathammer Criticals now leave a place Ice below the path they carve.
@@ -2269,7 +2277,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Despite the Talent description stating "Light attack", it also grants its buffs to weapon criticals.
     -   Prerequisites: 30 Agility, 55 Galebreathe, Air Pressure
 
--   Pressure Break \[Common Talent, Strength // Agility, Galebreathe\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+8 Carry Load, +2 Passive Agility)
+-   Pressure Break \[Common Talent, Strength // Agility, Galebreathe\] - Breaking an enemy's posture will cause them to take intense wind pressure, increasing the attack's damage by +25% and flinging the enemy backwards. (+2 Passive Agility)
     -   Prerequisites: Air Pressure, 30 Strength // 30 Agility, 65 Galebreathe
 
 -   Wind Step \[Common Talent, Galebreathe\] - Create a step of wind below you when jumping in the air. Jumping while sliding down a slope or off a cliff launches you forwards.
@@ -2560,12 +2568,12 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Navaen Nomad
 
--   Captain Etrea \[Common Talent, Strength, Fortitude\] - Fists Moving while blocking with a shield no longer slows you down. (+4 Carry Load)
+-   Captain Etrea \[Common Talent, Strength, Fortitude\] - Fists Moving while blocking with a shield no longer slows you down.
     -   Works with [Jus Karita](Jus_Karita.md).
     -   Despite the Talent description saying "With a shield", blocking without a shield equipped will still make the Talent work, thus removing slowdown on blocking completely.
     -   Prerequisites: Moving Fortress, Shield Equipped, any Fist Style Talent, 20 Fortitude, 30 Strength
 
--   _Fists of Fortitude_ \[Rare Talent, Fortitude, Light Weapon\] - Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%. (+1 Carry Load)
+-   _Fists of Fortitude_ \[Rare Talent, Fortitude, Light Weapon\] - Fists Every 6 hits with your fists builds up a shield of endurance reducing incoming damage by 15%.
     -   Lasts 10 seconds then goes on a 70 second cooldown once the buff ends.
     -   Only procs on M1s and criticals with the M1 tag.
         -   [Wraithclaw](Wraithclaw.md)'s neutral critical is extremely good for this Talent due to it being a multihit.
@@ -2580,16 +2588,18 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Needle
 
+-   Defensive Stance: \[Common Talent, Light Weapon\] - Rapier Gain more parry frames the lower your health is.
+    -   Prerequisitses: Using Rapier, 50 Light Weapon
+
 -   Duelist's Lunge \[Common Talent, Light Weapon\] - Rapier Running attacks deal increased posture damage. Upon landing your Critical, your next running attack will have increased range.
     -   Running attack with rapiers deal 35% more posture damage.
     -   After landing a Critical, the next rapier running attack has +2 stud range.
     -   Prerequisites: Using Rapier, 30 Light Weapon
 
--   Frenzied Dance \[Common Talent, Light Weapon\] - Rapier When your posture is about to collapse, you deal greater chip and posture damage.
-    -   When your posture is above 70%, deal 33% more posture damage and 20% chip damage.
+-   Frenzied Dance \[Common Talent, Light Weapon\] - Rapier The more posture you currently have, the more chip and posture damage you deal.
     -   Prerequisites: Using Rapier, 50 Light Weapon
 
--   Pressure Skewer \[Common Talent, Light Weapon\] - Rapier Flourishing an enemy causes your Basic Attacks to deal additional blood loss until you take damage.
+-   Pressure Skewer \[Common Talent, Light Weapon\] - Rapier Flourishing an enemy causes your M1's to deal additional chip damage, blood loss and makes your hits deal 3 extra true damage until you take damage.
     -   Increase blood bar damage by 50%.
     -   While active, also grants +25% chip damage.
     -   Also applies to criticals with the M1 tag.
@@ -2786,11 +2796,11 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Rampaging Brute
 
--   Shield Breaker \[Common Talent, Strength\] - Blunt damage now fully ignores the posture bonus from shields. (+4 Carry Load, +1 Posture)
+-   Shield Breaker \[Common Talent, Strength\] - Blunt damage now fully ignores the posture bonus from shields. (+1 Posture)
     -   Bypass the increased posture from your enemies shield. Effectively, your enemy is stripped from their shield.
     -   Prerequisite: 60 Strength
 
--   Unwavering Resolve \[Common Talent, Strength\] - Getting parried punishes your posture 33% less. (+2 Posture, +4 Carry Load)
+-   Unwavering Resolve \[Common Talent, Strength\] - Getting parried punishes your posture 33% less. (+2 Posture)
     -   The posture reduction effect is reduced by 0.433% for every point in Strength below 40, having a minimum value of 22.166% posture reduction from being parried at 15 Strength.
     -   Prerequisite: 40 Strength
     -   The [Adjudicator's Coat](<Adjudicator's_Coat.md>) equipment has this Talent.
@@ -3046,7 +3056,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This Talent also works with [Jus Karita](Jus_Karita.md).
     -   Prerequisites: Fist/Kick style equipped, 25 Agility
 
--   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and also applies [Dazed](Status_Effects.md#dazed) briefly. We're even now, right? (+4 Carry Load)
+-   Pocket Sand \[Common Talent, Strength, Light Weapon\] - Fist Feinting into an uppercut blinds, applies [Stagger](Status_Effects.md#stagger) to PvE enemies and also applies [Dazed](Status_Effects.md#dazed) briefly. We're even now, right?
     -   30 second cooldown.
     -   Procs through Block/Parry/Dodge, and applies to all uppercut mantras (ex: Rising Flame).
     -   The Stagger status effect makes your opponent take 33% more posture damage.
@@ -3180,13 +3190,13 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Shipwright
 
--   _Emergency Repairs_ \[Quest Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship. (+2 Carry Load)
+-   _Emergency Repairs_ \[Quest Talent\] - Your repairs are twice as efficient when the ship is on low health. Your repairs scale somewhat with the Max Health of the ship.
     -   Repairing restores 25% more HP to the boat when it's below 25% HP.
     -   Your repairs scale with the health of the ship by \[needs testing\].
     -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 11 times.
     -   The [Brigand's Bicorn](<Brigand's_Bicorn.md>) equipment has this Talent.
 
--   _Spare Nails_ \[Quest Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death. (+2 Carry Load)
+-   _Spare Nails_ \[Quest Talent\] - You always keep a couple spare. Your repairs are more efficient and you no longer drop Wood on death.
     -   Repairing restores 400 HP instead of 250 HP.
     -   Prerequisite: Automatically gained after using the [Repair Hammer](Repair_Hammer.md) 51 times.
     -   The [Brigand's Bicorn](<Brigand's_Bicorn.md>) equipment has this Talent.
@@ -3659,18 +3669,18 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Thunder Brawler
 
--   Discharge \[Common Talent, Thundercall, Light Weapon\] - Light Weapons On 5th successful attack you will discharge static dealing lightning damage to those nearby. (+7 Carry Load)
+-   Discharge \[Common Talent, Thundercall, Light Weapon\] - Light Weapons On 5th successful attack you will discharge static dealing lightning damage to those nearby.
     -   Deals 5 Thundercall damage with 5 Thundercall scaling, gaining 0.025 damage per point in Thundercall.
     -   Applies Shock or 1 Surge Rod on proc.
     -   Prerequisites: 20 Light Weapon, 15 Thundercall
 
 ### Thunder Caster
 
--   Rain of Static \[Common Talent, Thundercall\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast. (+7 Carry Load)
+-   Rain of Static \[Common Talent, Thundercall\] - After successfully casting lightning impact, strike down countless thunder at those below. In return your Lightning Impact will require more time to cast.
     -   When casting Lightning Impact, hover above the ground and fire 4 thunder projectiles. Afterward, you strike down normally.
     -   Prerequisite: [Lightning Impact](Thundercall.md#lightning-impact) (Mantra)
 
--   Windup Battery \[Common Talent, Intelligence, Thundercall\] - Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%. (+7 Carry Load)
+-   Windup Battery \[Common Talent, Intelligence, Thundercall\] - Landing 3 Thundercall Mantras without whiffing reduces the windup of your next Mantra by 10%.
     -   Applies this bonus to non-Thundercall Mantras.
     -   Requirement: 30 Thundercall, 30 Intelligence
     -   The old Jolt Cast Talent was reworked into this.
@@ -3684,7 +3694,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
         -   This speed boost can proc speed boost Talents, like Speed Demon or Cheap Shot.
     -   Prerequisites: 40 Thundercall, 20 Medium Weapon, Medium Weapon equipped
 
--   Gathering Electricity \[Common Talent, Strength // Agility, Thundercall\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown. (+10 Carry Load)
+-   Gathering Electricity \[Common Talent, Strength // Agility, Thundercall\] - Medium Weapons Reaching 5 Static Blade charges will now consume the stacks and apply a lightning buff to your blade. 60 second cooldown.
     -   Clears all Static Blade stacks on proc.
     -   You can still gain Static Blade stacks while Gathering Electricity is active.
     -   For 15 seconds, this increases the base damage on your weapon attacks, including criticals by 3.
@@ -3806,7 +3816,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Twinblade
 
--   _Face Cutter_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - Your Spine Cutter now deals an additional hit. (+6 Carry Load, +2 Passive Agility)
+-   _Face Cutter_ \[Rare Talent, Medium Weapon\] \[Twinblades\] - Your Spine Cutter now deals an additional hit. (+2 Passive Agility)
     -   Grants an additional hit to your Spine Cutter that deals 50% of your weapon's scaled damage.
     -   Similarly to Spine Cutter, the damage this deals cannot be buffed, and the attack has no PEN.
     -   Prerequisites: Spine Cutter, 75 Medium Weapon, Twinblade equipped.
@@ -4091,7 +4101,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Miscellaneous
 
--   Brassneck \[Common Talent, Strength, Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds. (+10 Carry Load)
+-   Brassneck \[Common Talent, Strength, Fortitude\] - Knocking an enemy grants you 20% damage resistance for 15 seconds.
     -   This **does** work on non humanoid monsters, granting you the damage resistance buff on kill.
     -   Prerequisites: 35 Fortitude, 30 Strength
     -   This Talent was previously named "Berserker."
@@ -4106,7 +4116,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Full Reset \[Common Talent\] - Knocking an enemy resets your [resonance](Resonance.md) cooldowns. This effect has a 60 second cooldown.
     -   Prerequisites: [Power](Power.md) 16, Obtain resonance
 
--   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating is increased. (+2 Carry Load, +1 Posture)
+-   Gourmand \[Common Talent\] - Your hunger and thirst gain from eating is increased. (+5 Carry Load, +1 Posture)
     -   Increases hunger and thirst gain by 20%.
     -   Having this alongside the [Gourmet](Boons_and_Flaws.md#gourmet) Boon increases the hunger and thirst gain from eating by 80%.
     -   Prerequisite: [Power](Power.md) 5
@@ -4122,7 +4132,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   If the enemy have the Talent Replenishing Knockout, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
 
--   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+1 Carry Load)
+-   Pack Mule \[Common Talent\] - The max quantity for food you can hold is increased by 5. (+10 Carry Load)
     -   Stacks with the [Boon](Boons_and_Flaws.md#packmule) of the same name, increasing the maximum amount of food items you can carry in one stack from 10 to 20.
     -   Prerequisite: 5 Fortitude
 
@@ -4144,7 +4154,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   If the target has the Talent Martyr, both Talents negate each other, resulting in a normal health pack.
     -   Prerequisite: [Power](Power.md) 3
 
--   _Treefelling Blow_ \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural. (+4 Carry Load)
+-   _Treefelling Blow_ \[Quest Talent\] - You can collect lumber from the trees you fell with your fists. It's only natural.
     -   Allows you to gain [Wood](Wood.md) when you destroy trees with [Strong Left](Attunement-less.md#strong-left).
     -   Prerequisites: Use [Strong Left](Attunement-less.md#strong-left) on a tree and then speak to [Korin](Korin.md) or [Drefa](Drefa.md) to obtain the Treefelling Blow quest. Once you have the quest, destroy 5 more trees with Strong Left and return to the respective quest giver.
 
@@ -4196,7 +4206,7 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 60% more chip.
 
--   Defensive Stance: [Apprentice Rapier](Apprentice_Rapier.md) - Gain more parry frames the lower your health is.
+-   Careful Stance: [Apprentice Rapier](Apprentice_Rapier.md) - Gain a bit more autoparry frames on successful parries.
 
 -   Expeditionary Evasiveness: [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap.
     -   [Agility Mantras](Attunement-less.md#agility-mantras) gain +3 Mantra levels. This bypasses the normal Mantra level cap of 5.
@@ -4351,9 +4361,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   [Reinforce's](Attunement-less.md#reinforce) general resistance is affected by PEN, meaning Crippling Darkness will make things such as bleed or Steam, which bypass armor, deal more damage against Reinforce than they would otherwise.
 
 -   Crippling Impact: [Reinforced War Plate](Reinforced_War_Plate.md) - Landing a critical with someone while [Wrath Gem](Wrath_Gem.md) is active disables their vent for a few seconds.
-    -   This works similarly to Collapsed Lung.
     -   Procs through parry, block and dodge with no cooldown.
-    -   Duration is 2 seconds + 0.015 seconds per point of Strength, lasting 3.5 seconds at 100 Strength.
+    -   Duration is 5 seconds + 0.02 seconds per point of Strength, lasting 7 seconds at 100 Strength.
     -   Wrath Gems last 9 seconds with no visual indication.
 
 -   Demon Step: [Familiar Demon's Armor](<Familiar_Demon's_Armor.md>) - Activate to gain brief iframes while moving forward. This requires 50 ether to activate and increases your posture by 20% each use.

@@ -1,9 +1,9 @@
 ---
 title: Cindergarb
-revid: 194631
+revid: 196842
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
+categories: [Outfits, Unique Outfits]
 ---
 
 # Cindergarb
@@ -18,15 +18,11 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | durability | 3000 |
 | resistances | +35% Physical Armor, +15% Ironsing Armor, +50% Fire Armor |
 | buffs | +20% Ether Regen |
-| talents | Flare Reservoir |
-| obtainment | Solborn Memento |
+| talents | Warding Radiance |
+| obtainment | Carnival of HeartsVow of Iron:, Solborn Memento |
 | selling_price | N/A |
 | weight | 1 |
 | shirt | Shirt • Pants |
-
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
 
 **Cindergarb** is a Unique [Outfit](Outfits.md) in _Deepwoken_.
 
@@ -40,6 +36,6 @@ This Outfit requires the player to be at least [Power](Power.md) 15 to be crafte
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +35% Physical resistance, +50% Fire resistance, +15% Metal resistance, and +20% Ether Regen. Additionally, it provides the [Flare Reservoir](Talents.md#flare-reservoir) Talent.
+This Outfit has 3000 durability and grants +35% Physical resistance, +50% Fire resistance, +15% Metal resistance, and +20% Ether Regen. Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) Talent.
 
-The [Flare Reservoir](Talents.md#flare-reservoir) Talent is currently bugged and its effects are unknown.
+The [Warding Radiance](Talents.md#warding-radiance) Talent gives you a halo after you land 3 Flamecharm Mantras. While you have this halo, you will slide further, and landing a Flamecharm Mantra will call down a spear, dealing extra damage. The spear has a short cooldown.

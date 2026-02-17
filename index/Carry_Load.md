@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 196546
+revid: 196881
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -20,43 +20,15 @@ You can view your maximum carry load on the bottom right of your inventory. It w
 
 ### Talents
 
-[Quest Talents](Talent_Quests.md) can be found in the Other Sources section.
-
 In order of carry load given:
 
--   _Pack Mule_ gives 1 carry load.
--   _Champion's Regalia_ gives 1 carry load.
--   _Fists of Fortitude_ gives 1 carry load.
--   _Gourmand_ gives 2 carry load.
--   _Destructive Recovery_ gives 2 carry load.
--   _Unstoppable Force_ gives 2 carry load.
--   _Keen Recovery_ gives 3 carry load.
--   _Unwavering Resolve_ gives 4 carry load.
--   _Captain Etrea_ gives 4 carry load.
--   _Pocket Sand_ gives 4 carry load.
--   _Shield Breaker_ gives 4 carry load.
+-   _Gourmand_ gives 5 carry load.
 -   _Pocket Bombs_ gives 5 carry load.
--   _Spine Cutter_ gives 6 carry load.
--   _Face Cutter_ gives 6 carry load.
--   _Ether Absorption_ gives 7 carry load.
--   _Everchanging Aegis_ gives 7 carry load.
--   _Eureka_ gives 7 carry load.
--   _Rain of Static_ gives 7 carry load.
--   _Steady Nerves_ gives 7 carry load.
--   _Windup Battery_ gives 7 carry load.
--   _Discharge_ gives 7 carry load.
--   _Concussion_ gives 8 carry load.
--   _Pressure Break_ gives 8 carry load.
--   _Concussive Force_ gives 9 carry load.
--   _Steady Footing_ gives 9 carry load.
--   _Precise Swing_ gives 9 carry load.
--   _Strong Stern_ gives 9 carry load.
--   _Strong Hold_ gives 9 carry load.
--   _Concussive Flash_ gives 10 carry load.
--   _Brassneck_ gives 10 carry load.
--   _Gathering Electricity_ gives 10 carry load.
+-   _Steady Footing_ gives 5 carry load.
+-   _Strong Stern_ gives 5 carry load.
+-   _Pack Mule_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would theoretically provide 185 carry load.
+All of these [Talents](Talents.md) combined would provide 30 carry load.
 
 ### Other Sources
 
@@ -64,39 +36,28 @@ This includes every source of carry load that isn't a regular Talent.
 
 In order of carry load given:
 
--   [Emergency Repairs](Talent_Quests.md#emergency-repairs-and-spare-nails) gives 2 carry load.
--   [Spare Nails](Talent_Quests.md#emergency-repairs-and-spare-nails) gives 2 carry load.
--   [Treefelling Blow](Talent_Quests.md#treefelling-blow) gives 4 carry load.
--   [Hook, Line, and Sinker](Talent_Quests.md#proficient-baiting-hook-line-and-sinker-and-fishers-lure) gives 4 carry load.
 -   The [Union Initiate](Union_Initiate.md) outfit gives 10 carry load.
--   The [Wormwarder Lantern](Wormwarder_Lantern.md) gives 10 carry load.
-    -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
--   The [Threadwork Kilt](Threadwork_Kilt.md) gives 20 carry load.
-    -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   [Saltchemist](Oath%253A_Saltchemist.md) gives 20 carry load.
--   The carrying capacity [echo upgrade](Echoes.md#upgrades-unlocks-and-modifiers) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
+-   The carrying capacity [Echo Upgrade](Echoes.md#upgrades-unlocks-and-modifiers) gives 5 carry load per upgrade, with a maximum of 30 extra carry load.
     -   Each upgrade costs 50 echoes, needing 300 total echoes to fully upgrade.
--   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load.
-    -   To fully optimize your carry load, get the Grand Pathfinder's Backpack instead.
 -   The [Grand Pathfinder's Backpack](<Grand_Pathfinder's_Backpack.md>) gives 50 carry load.
+    -   The [Wormwarder Lantern](Wormwarder_Lantern.md) gives 10 carry load, but is inferior to the Grand Pathfinder's Backpack.
+    -   The [Threadwork Kilt](Threadwork_Kilt.md) gives 20 carry load, but is inferior to the Grand Pathfinder's Backpack.
+    -   The [Pathfinder's Backpack](<Pathfinder's_Backpack.md>) gives 35 carry load, but is inferior to the Grand Pathfinder's Backpack.
 -   The [Packmule](Boons_and_Flaws.md#packmule) Boon gives 50 carry load.
--   The [base character](Character_Stats.md#carry-load) starts off with 100 carry load.
--   [Strength](Attributes.md#str) increases your carry load by 1 for every point of strength you get.
+-   [Strength](Attributes.md#str) increases your carry load by 0.5 for every point of Strength you get. Caps at +50 carry load at 100 Strength.
+-   [Fortitude](Attributes.md#ftd) increases your carry load by 0.5 for every point of fortitude you get. Caps at +50 carry load at 100 Fortitude.
+-   The [base character](Character_Stats.md#carry-load) starts off with 130 carry load.
 
-All of these miscellaneous sources combined would theoretically provide 337 carry load.
+All of these miscellaneous sources combined would theoretically provide 390 carry load.
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **560**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **672**.
-
-Due to attribute limitations, the current best carry load build can only get 536/643 carry load, found [here](https://deepwoken.co/builder?id=Db429pN6).
-
--   You are only able to perfectly create this build if your account does _not_ have the Multifaceted [Echo Unlock](Echoes.md#upgrades-unlocks-and-modifiers), due to its previously mentioned quirk.
-    -   If you do have Multifaceted, you only lose out on 1 carry load; the max you can get is 535/642.
--   If you create a build that can get more carry load, please edit accordingly. It is advised to use the aforementioned spreadsheet to help calculate your final carry load, as the builder website does not account for all sources, like strength or Spare Nails.
+Combining both Talents and other sources, the total amounts to **420**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **504**. A build which obtains this carry load is quite simple to create, and can be found [here](https://deepwoken.co/builder?id=Db429pN6).
 
 ## Trivia
 
+-   The [Another Man's Trash](Talents.md#another-mans-trash) Talent provides a damage buff in PvE, scaling on how much weight you are currently carrying. This grants a 1% damage buff for every 100 weight.
 -   Interestingly, if you reduce your carry load (by taking off a backpack, for example) while at maximum capacity, you can still carry your previous max amount of items, even after rejoining. Though, if you drop any item, you won't be able to pick it back up.
 -   Five Talents that granted carry load have been removed from the game.
     -   _Volt Kick_ granted 7 carry load, but was removed on August 30th, 2024.
@@ -104,3 +65,9 @@ Due to attribute limitations, the current best carry load build can only get 536
     -   _Lootskipper_ granted 4 carry load, but was removed on July 15th, 2025.
     -   _Ether Conduit_ granted 7 carry load, but was removed on August 4th, 2025.
     -   _Turning of the Wheel_ granted 6 carry load, but that bonus was taken away at some point (shadow update).
+-   On the February 17th, 2026 update, several changes were made regarding carry load;
+    -   A few Talents had their innate carry load changed: Gourmand 2 -> 5, Steady Footing 9 -> 5, Strong Stern 9 -> 5, Pack Mule 1 -> 10
+    -   25 Talents and 4 Quest Talents had their innate carry load removed. This resulted in the theoretical maximum carry load build losing 110 carry load. Mileage may vary on pre-existing bank slots.
+    -   The innate carry load gained from Strength investment was reduced from 2 per point to 0.5 per point, but Fortitude was changed to give 0.5 carry load per investment point as a tradeoff.
+    -   The character's base carry load was increased from 100 to the current 130.
+    -   The weight of equipment items were changed, with it being based on equipment type rather than it being a flat 2 per item.

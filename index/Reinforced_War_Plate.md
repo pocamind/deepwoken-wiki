@@ -1,6 +1,6 @@
 ---
 title: Reinforced War Plate
-revid: 192772
+revid: 196888
 source: https://deepwoken.fandom.com/wiki/Reinforced_War_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, Craftable, Equipment with Set Bonuses]
@@ -34,7 +34,7 @@ Variants: [Reinforced War Helmet](Reinforced_War_Helmet.md)
 
 The Reinforced War Plate is an **unenchantable**[\[1\]](#cite-note-unenchantable-1) that was enchantable for a brief period of time [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Evanspear War Set. The Reinforced War Plate is a green and yellow chest plate with matching bracers and an animated dark green cape.
 
-The [Crippling Impact](Talents.md#crippling-impact) Talent disables your opponent's [Vent](Combat_Mechanics.md) for a few seconds when landing your critical if they are affected by the [Wrath Gem](Wrath_Gem.md). Crippling Impact's duration scales on your Strength investment, lasting 2 seconds at 0 Strength and gaining 0.015s per 1 Strength investment, lasting 3.5 seconds at 100 strength. Wrath Gems last for 9s with a 10s CD.
+The [Crippling Impact](Talents.md#crippling-impact) Talent disables your opponent's [Vent](Combat_Mechanics.md) for a few seconds when landing your critical if they are affected by the [Wrath Gem](Wrath_Gem.md). Crippling Impact's duration scales on your Strength investment, lasting 5 seconds at 0 Strength and gaining 0.02s per 1 Strength investment, lasting 7 seconds at 100 strength. Wrath Gems last for 9s with a 10s CD.
 
 ## Set Talent
 

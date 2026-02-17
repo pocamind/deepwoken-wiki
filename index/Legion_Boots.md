@@ -1,6 +1,6 @@
 ---
 title: Legion Boots
-revid: 196586
+revid: 196872
 source: https://deepwoken.fandom.com/wiki/Legion_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -28,9 +28,10 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-Khan Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Erisia](Erisia.md) and the [Deep Widow](Deep_Widow.md).
+Legion Boots are an [Equipment](Equipment.md) item under the "Legs" category. They can be found through chests in [Erisia](Erisia.md) and the [Deep Widow](Deep_Widow.md).
 
 ## Trivia
 
 -   Worn by NPCs belonging to [The Hundred Legions](The_Hundred_Legions.md).
 -   A very rare drop from sources that aren't Erisia or Deep Widow, most likely ~2%
+-   Used to be called Khan Boots

@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 196544
+revid: 196873
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -57,11 +57,11 @@ _Deepwoken_ currently has 15 Master Outfits that have been discovered.
 
 ### Unique
 
-_Deepwoken_ currently has 19 Unique Outfits that have been discovered.
+_Deepwoken_ currently has 20 Unique Outfits that have been discovered.
 
 ### [Vow of Iron](Vow_of_Iron.md) Exclusive Outfits
 
-_Deepwoken_ currently has 7 Vow of Iron exclusive Outfits that have been discovered. All of these Outfits are exclusively obtained as the starting armor of specific [Mementos](Mementos.md), and are Unique tier.
+_Deepwoken_ currently has 6 Vow of Iron exclusive Outfits that have been discovered. All of these Outfits are exclusively obtained as the starting armor of specific [Mementos](Mementos.md), and are Unique tier.
 
 ### Spec/Mod
 

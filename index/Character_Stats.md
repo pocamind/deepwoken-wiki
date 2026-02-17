@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 196539
+revid: 196832
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -45,7 +45,7 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 
 ### Carry Load
 
--   The player's maximum inventory capacity. Starting value is 100.
+-   The player's maximum inventory capacity. Starting value is 130.
     -   Current inventory usage and maximum capacity can be tracked at the bottom of the inventory. Player can carry more item past their max Carry Load, up to 1.2x their max carry load, but gradually become slower.
 -   How to increase: [Strength](Attributes.md#str), [Equipment](Equipment.md), [Talents](Talents.md) (check the [Carry Load](Carry_Load.md) page for more info)
 
