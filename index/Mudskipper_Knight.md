@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Knight
-revid: 193603
+revid: 196463
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies]
@@ -12,14 +12,10 @@ categories: [Enemies]
 |---|---|
 | health | 600(Trial), 1500(Trial, Corrupted), 1100 (Meteor Isle) |
 | attacks | Assault, Critical |
-| drops | Lesser Mantra Modifiers & Sparks |
+| drops | Lesser Mantra Modifiers and Sparks |
 | locations | The Depths (Trial), Burning Stone Gardens, The Diluvian Mechanism, Meteor Isle |
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Mudskipper_(disambiguation).md>)._
-
-“ No dreams when we're already dead, friend... ”
-
-― ??? (Coral Clump)
 
 ## Description
 

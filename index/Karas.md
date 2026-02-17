@@ -1,6 +1,6 @@
 ---
 title: Karas
-revid: 195973
+revid: 196472
 source: https://deepwoken.fandom.com/wiki/Karas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Enemies, Quests]
@@ -190,3 +190,4 @@ Karas acts as an encounter in the places you're suppose to challenge him; so it'
 ## Trivia
 
 -   "Karas" means "war" in [Lithuanian](https://en.wikipedia.org/wiki/Lithuanian_language).
+-   Just like [Zana](Zana.md), they also seem to reference metamancers, but instead of those of Verse 1, he references those of Late Verse 2, mentioning that he's not a wielder of "the emerald thunder which strikes fear into the hearts of many", making allusion to the [Specialist Set](Specialist_Plate.md).

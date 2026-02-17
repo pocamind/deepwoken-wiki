@@ -1,6 +1,6 @@
 ---
 title: Innkeep
-revid: 195882
+revid: 196422
 source: https://deepwoken.fandom.com/wiki/Innkeep
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -30,37 +30,37 @@ There are currently 6 Innkeep allowing stay in these locations: [Etris](Etris.md
 <table>
 <tbody>
 <tr>
-  <td colspan="6">Begin Dialogue</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="3">Spawn not set at inn</td>
-  <td colspan="3">Spawn set at inn</td>
+  <td colspan="2">Spawn not set at inn</td>
+  <td colspan="2">Spawn set at inn</td>
 </tr>
 <tr>
-  <td colspan="3">Hey, welcome to my inn. Need something?</td>
-  <td colspan="3">I hope you're having a pleasant stay so far.</td>
+  <td colspan="2">Hey, welcome to my inn. Need something?</td>
+  <td colspan="2">I hope you're having a pleasant stay so far.</td>
 </tr>
 <tr>
-  <td colspan="3">How much is it to stay here?</td>
-  <td colspan="3">[End Dialogue]</td>
+  <td colspan="2">How much is it to stay here?</td>
+  <td colspan="2">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="6">It'll cost you 5 Notes to stay here.</td>
+  <td colspan="2">It'll cost you 5 Notes to stay here.</td>
 </tr>
 <tr>
-  <td colspan="6">Alright, book me in.</td>
+  <td colspan="2">Alright, book me in.</td>
 </tr>
 <tr>
-  <td colspan="3">Player has 5</td>
-  <td colspan="3">Player does not have 5</td>
+  <td>Player has 5</td>
+  <td>Player does not have 5</td>
 </tr>
 <tr>
-  <td colspan="3">I hope you'll have a pleasant stay here.</td>
-  <td colspan="3">I don't think you have the money to stay here.</td>
+  <td>I hope you'll have a pleasant stay here.</td>
+  <td>I don't think you have the money to stay here.</td>
 </tr>
 <tr>
-  <td colspan="3">[End Dialogue], player is booked into the inn</td>
-  <td colspan="3">[End Dialogue]</td>
+  <td>[End Dialogue], player is booked into the inn</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

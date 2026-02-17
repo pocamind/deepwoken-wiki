@@ -1,6 +1,6 @@
 ---
 title: Luminants
-revid: 193643
+revid: 196465
 source: https://deepwoken.fandom.com/wiki/Luminants
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Map, Locations]
@@ -22,19 +22,19 @@ Though these two Luminants are often referred to as each other by characters (I.
 
 The key distinction between the two is the influence of local factions. As expected, the Etrean Luminant is mostly controlled by [Etrea](Etrea.md), while the Eastern Luminant is far more balanced; with many different major and minor factions fighting over its islands.
 
-The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life, species, and even bringing monsters from the [Depths](The_Depths.md) below. Both these Luminants, especially the east, are constantly in a state of war, as [The Central Authority](The_Central_Authority.md) has been fighting against Etrea for quite a long while.
+The islands of the Etrean Luminant seemingly drift in and out of the [Voidsea](Voidsea.md), bringing new life, species, and even bringing monsters from the [Depths](The_Depths.md) below. Both these Luminants, especially the east, are constantly in a state of war, as [The Central Authority](The_Central_Authority.md) has been fighting against [Etrea](Etrea.md) for quite a long while.
 
 ## Central Luminant
 
-A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a large savannah where [Felinors](Felinor.md) originated from, is located in the Central Luminant alongside the Markor Citadel, the headquarters of the Divers, as well as the home of the Central Luminant's largest research facility.
+A Luminant under the rule of the iron-fisted [Central Authority](The_Central_Authority.md). This Luminant is also inhabited by [The Knives of Eylis](The_Knives_of_Eylis.md), also known as the Whalers. Markor, a large savannah where [Felinors](Felinor.md) originated from, is located in the Central Luminant alongside the [Markor Citadel](The_Citadel_of_Markor.md), the headquarters of the Divers, as well as the home of Lumen's largest research facility.
 
-Away from Markor's shores are the [Lullaby Isles](Lullaby_Isles.md), a collection of islands in a rocky archipelago predominantly occupied by [Chrysids](Chrysid.md), and controlled by [The Moonlit Faith](The_Moonlit_Faith.md); a religion that worships the Moonseye with a conservative reverence. Each island pays tribute to both the [The Moonlit Faith](The_Moonlit_Faith.md)'s leader, [The Lady Confessor](The_Lady_Confessor.md), and the largest isle in the archipelago, [Echelon](Echelon.md), as a sign of faith.
+Away from Markor's shores are the [Lullaby Isles](Lullaby_Isles.md), a collection of islands in a rocky archipelago predominantly occupied by [Chrysids](Chrysid.md), and controlled by [The Moonlit Faith](The_Moonlit_Faith.md); a religion that worships [The Moonseye](Moonseye.md) with a conservative reverence. Each island pays tribute to both the [The Moonlit Faith](The_Moonlit_Faith.md)'s leader, [The Lady Confessor](The_Lady_Confessor.md), and the largest isle in the archipelago, [The Echelon](Echelon.md), as a sign of faith.
 
 ## Western Luminant
 
 Home to [The Hundred Legions](The_Hundred_Legions.md), a large empire composed mostly of [Khans](Khan.md). This is hinted at by [Gaius](Gaius.md) (a Khan NPC in the [Viper's Jaw](<The_Viper's_Jaw.md>)) mentioning how he doesn't deserve to be in the Etrean Luminant, and that he comes from out West.
 
-[The Covenant of Flame](The_Covenant_of_Flame.md) originated from this Luminant, due to it being the birthplace of [Amorus Pleeksty](Amorus_Pleeksty.md), and where he descended to the Third Layer through the luminant's caverns. This has lead to the Tirans of the luminant etching floral patterns into their [weaponry](<Pleeksty's_Inferno.md>) as a tribute to the pioneer
+[The Covenant of Flame](The_Covenant_of_Flame.md) originated from this Luminant, due to it being the birthplace of [Amorus Pleeksty](Amorus_Pleeksty.md), and where he descended to the Third Layer through the luminant's caverns. This has lead to the Tirans of the luminant etching floral patterns into their [weaponry](<Pleeksty's_Inferno.md>) as a tribute to the pioneer.
 
 [The Starkindred Church](The_Starkindred_Church.md) also comes from this Luminant, holding influence that rivals [The Hundred Legions](The_Hundred_Legions.md)'.
 
@@ -50,6 +50,6 @@ The developers have said that they will not add it to the game due to it mostly 
 
 ## Northern Luminant
 
-The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris. It is possible that some level of arctic forest is present in this luminant, due to the existence of thorny shrubs called Drake-thistle; a plant distributed widely-enough that the Authority has had [special uniforms](Winter_Corps_Parka.md) outfitted for their Winter Corp unit, to push through it.
+The Northern Luminant holds the frigid landscape of the Glacial Coast, commented on by [Polis](Polis.md) in Etris. It is possible that some level of arctic forest is present in this luminant, due to the existence of thorny shrubs called [Drakethistle](Drakethistle.md); a plant distributed widely-enough that the Authority has had [special uniforms](Winter_Corps_Parka.md) outfitted for their Winter Corp unit, to push through it.
 
-It is home to the Elder Edenkite, and the [Drakkard](Drakkard.md). It is also the rumored-birthplace of the [Dread Serpent](Dread_Serpent.md), who is said to have once been a man that consumed the flesh of an Edenkite in a fit of rage, as humanity had not received warnings about The Submergence and The Great Drowning from them.
+It is home to the Elder Edenkite, and the [Drakkard](Drakkard.md). It is also the rumored-birthplace of the [Dread Serpent](Dread_Serpent.md), who is said to have once been a man that consumed the heart of an Edenkite in determination of inheriting their wisdom, as humanity had not received warnings about The Submergence and The Great Drowning from them.

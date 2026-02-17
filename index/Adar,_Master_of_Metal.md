@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 191298
+revid: 196486
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -353,8 +353,8 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 
 ## Trivia
 
--   Adar's appearance, specifically his hair, derives from one of K1LLUAA's outfits.
+-   Adar's appearance, specifically his hair, derives from an outfit by developer K1LLUAA.
     -   His hair combo can be found here: [1](https://www.roblox.com/catalog/7392396295/Black-Anime-Delinquent-Hair), [2](https://www.roblox.com/catalog/11308491438/Black-Messy-Anime-Hairstyle-17-0), [3](https://www.roblox.com/catalog/11104022976/Cursed-Hair)
 -   Adar's red scars are of Heliodar markings, though Adar himself is not a Heliodar.
--   Formerly, Adar could not be killed for [Silentheart](Oath%253A_Silentheart.md) progression and when talking to him while being one would prompt a message of him saying: "Huh? Why are you giving me those looks for?" The 11/10/23 update finally allowed him to be fought and killed.
--   He does not use the [legendary weapon](Ignition_Deepcrusher.md) of his respective Attunement unlike other trainers, due to him having a [weapon](Darksteel_Greatsword.md) already on his back.
+-   Formerly, Adar could not be killed for [Silentheart](Oath%253A_Silentheart.md) progression and when talking to him while being one would prompt a message of him saying, "Huh? Why are you giving me those looks for?" This was changed in the November 10th, 2025 update, which finally allowed him to be fought and killed.
+-   Unlike the other [Attunement Trainers](Attunement_Trainers.md), Adar does not use a legendary weapon that uses Ironsing due to him having a [Darksteel Greatsword](Darksteel_Greatsword.md) already on his back.

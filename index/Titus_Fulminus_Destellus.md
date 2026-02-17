@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 196098
+revid: 196457
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -142,6 +142,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  | Titus leaps towards their opponent, stomping and knocking them away when hit.
 
 -   This move may be used twice or more.
+-   When amplified by Commander's Rage or in second phase, Titus will use Skycrash again if he does not hit anyone initially
 -   This move will briefly stun him if he bashes into a surface.
 
  | 

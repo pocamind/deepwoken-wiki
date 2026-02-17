@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 165074
+revid: 196470
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]
@@ -31,15 +31,15 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 
 #### Body (BDY)
 
--   [Strength](Attributes.md) (**STR**)
--   [Fortitude](Attributes.md) (**FTD**)
--   [Agility](Attributes.md) (**AGL**)
+-   [Strength](Attributes.md#str) (**STR**)
+-   [Fortitude](Attributes.md#ftd) (**FTD**)
+-   [Agility](Attributes.md#agl) (**AGL**)
 
 #### Mind (MND)
 
--   [Intelligence](Attributes.md) (**INT**)
--   [Willpower](Attributes.md) (**WLL**)
--   [Charisma](Attributes.md) (**CHA**)
+-   [Intelligence](Attributes.md#int) (**INT**)
+-   [Willpower](Attributes.md#wll) (**WLL**)
+-   [Charisma](Attributes.md#cha) (**CHA**)
 
 ### Weapon Attributes
 
@@ -49,13 +49,13 @@ To keep progressing, however, you will need regular EXP, obtained by killing thi
 
 ### Attunement Attributes
 
+-   [Bloodrend](Bloodrend.md) (**BLD**)
 -   [Flamecharm](Flamecharm.md) (**FLM**)
 -   [Frostdraw](Frostdraw.md) (**ICE**)
 -   [Galebreathe](Galebreathe.md) (**WND**)
+-   [Ironsing](Ironsing.md) (**MTL**)
 -   [Thundercall](Thundercall.md) (**LTN**)
 -   [Shadowcast](Shadowcast.md) (**SDW**)
--   [Ironsing](Ironsing.md) (**MTL**)
--   [Bloodrend](Bloodrend.md) (**BLD**)
 
 ## Trivia
 

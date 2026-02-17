@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 196182
+revid: 196488
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
@@ -16,7 +16,7 @@ categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
 
 ## Description
 
-**Finnegan The Lost** or the Drowned Delver is an enemy found in the [First Layer](First_Layer.md) as the primary objective for the "Drowned Delver" job. They wield the [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md) [attunements](Attunements.md) in battle, coupled with their signature [Boltcrusher](Boltcrusher.md). They have a somewhat large health pool (Their exact health pool is unknown, but it is estimated to have around the same amount of health as the [Bone Keeper](Bone_Keeper.md).) and do a decent amount of damage.
+**Finnegan The Lost** or the Drowned Delver is an enemy found in the [First Layer](First_Layer.md) as the primary objective for the "Drowned Delver" job. They wield [Thundercall](Thundercall.md) and [Ironsing](Ironsing.md), coupled with their signature [Boltcrusher](Boltcrusher.md). They have a somewhat large health pool and do a decent amount of damage.
 
 Although the Drowned Delver job can be rarely seen offered by [The Ignition Union](The_Ignition_Union.md) at the Job Board located in [The Chariot's Spire](<The_Chariot's_Spire.md>), there is a tiny chance that it can be a [Diver](The_Divers.md)\-affiliated job at [Castle Light](Castle_Light.md) or [The City of the Drowned](The_City_of_the_Drowned.md).
 

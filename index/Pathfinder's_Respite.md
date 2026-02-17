@@ -1,6 +1,6 @@
 ---
 title: "Pathfinder's Respite"
-revid: 194835
+revid: 196450
 source: https://deepwoken.fandom.com/wiki/Pathfinder's_Respite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -48,20 +48,17 @@ Pathfinder's Respite is a set of weathered structures that house the statues of 
 
 Events that spawn in Pathfinder's Respite that involve combat. For more info, see [Random Encounters](Random_Encounters.md).
 
--   [Etrea](Etrea.md) vs [The Central Authority](The_Central_Authority.md)
--   [The Hundred Legion](The_Hundred_Legions.md) vs [The Central Authority](The_Central_Authority.md)
+-   [Etrea](Etrea.md) vs. [The Central Authority](The_Central_Authority.md)
+-   [The Hundred Legions](The_Hundred_Legions.md) vs. [The Central Authority](The_Central_Authority.md)
 
 ## Maps
 
 A map can be found at [Maps#Surface](Maps.md#surface)
 
-## Trivia/Notes
+## Trivia
 
 -   There will be wooden planks blocking the entrance. Only some mantras can break it (Strong Left, Fire Blade, Lightning Beam, Shoulder Bash, etc)
 -   [Ivory](Ivory.md), the [Aerial Assault](Talents.md#air-dash) questgiver used to reside here, and was removed upon the talent being innate.
--   A [Rock Golem](Rock_Golem.md) is guaranteed to spawn in front of Duke Ishamon Erisia's statue.
--   Despite being in Lower Erisia, [Upper Erisia](Upper_Erisia.md) events can still spawn here
-
--   [Artifacts](Artifacts.md) can also spawn here.
-
+-   Despite being in Lower Erisia, [Upper Erisia](Upper_Erisia.md) events can still spawn here.
+-   [Artifacts](Artifacts.md) spawn can also spawn here.
 -   [The Meat Lord](The_Meat_Lord.md) can spawn here.
