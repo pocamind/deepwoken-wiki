@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 196881
+revid: 196911
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -28,7 +28,7 @@ In order of carry load given:
 -   _Strong Stern_ gives 5 carry load.
 -   _Pack Mule_ gives 10 carry load.
 
-All of these [Talents](Talents.md) combined would provide 30 carry load.
+All of these [Talents](Talents.md) combined would provide +30 carry load. Any other talents not listed here have had their innate carry load removed as of the 17/2/26 update.
 
 ### Other Sources
 

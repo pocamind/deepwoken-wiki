@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 196601
+revid: 196960
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -16576,7 +16576,13 @@ Twinblades are medium weapons with a blade at either side of their main hilt. Un
 
 **Bows:**
 
-Bows are one handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options. Bows use Ether to generate and fire arrows, however bows can still attack without Ether at the cost of their damage output.
+Bows are one handed medium weapons that see the user fire arrows to attack. They boast high ranges and have fast animations, making them harder to parry than most other options.
+
+By holding your basic attack input, you can charge your shots, increasing the damage they deal and turning your M1s into aim-able projectiles if you've charged for long enough. Release your M1 key to fire the bow shot at any point. Charging a shot while midair will slow your descent briefly. If a charged shot gets parried, you will be forced into a [Knockdown](Status_Effects.md#knockdown) state for a brief duration.
+
+Once you've charged your bow for long enough, a high pitched sound effect will play, indicating a perfect shot. Firing your bow during the perfect shot window will increase the shot's damage drastically. Charging for any longer will result in the shot losing damage.
+
+Uniquely, uppercuts from Bows send the target upwards at a 45 degree angle, while the user stays grounded. This gives the user an opening to charge a shot or fire a projectile Mantra while their opponent is airborne.
 
 <table><caption>Medium Weapons</caption>
 <tbody>

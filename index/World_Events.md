@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 196525
+revid: 196933
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Bosses]
@@ -25,7 +25,8 @@ World events are focused on uniting the players towards accomplishing a single g
     -   "Defeat the Interluminary Parasol before it can complete its harvest!"
 
 -   **Battle Royale**
-    -   A clash of 50 players in the [Kingmaker's Isle](<Kingmaker's_Isle.md>)
+    -   A battle royale game mode where you are queued with up to 49 other players.
+    -   "Starting from scratch, warriors from across the Lumen compete to be the last one standing!"
 
 ## Rewards
 

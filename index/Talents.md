@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196894
+revid: 196957
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1637,8 +1637,11 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   _Bodkin Arrow_ \[Rare Talent, Strength\] - Your charged shots now do extra armor damage to armored enemies and extra damage to unarmored enemies.
     -   Prerequisites: Bow equipped, 55 Strength
 
+-   _Hard Stop_ \[Rare Talent, Strength\] - Landing a charged shot will knock your opponent back.
+    -   Prerequisites: Bow equipped, Bodkin Arrow, 55 Strength
+
 -   _Precision Crusher_ \[Rare Talent, Strength\] - Landing a charged shot will knock your opponent down instead of back.
-    -   Prerequisites: Bow equipped, Bodkin Arrow, 75 Strength
+    -   Prerequisites: Bow equipped, Hard Stop, 75 Strength
 
 ### Gunslinger
 
@@ -3363,7 +3366,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Formless \[Oath Talent, [Soulbreaker](Oath%253A_Soulbreaker.md)\] - Teleport to a location within your Tacet bubble. Receive a slight speed boost when activating Tacet.
     -   Grants a Talent tool that activates Formless on cast. After an animation and a fairly long delay, you will teleport to your cursor's location. Cannot teleport yourself outside of the range of your Tacet bubble.
     -   Formless can only be used during Tacet, and will end your Tacet upon successful teleport.
-    -   Formless costs ~50 Ether and has a 5 second cooldown. The Ether cost seems to be somewhat inconsistent.
+    -   Formless costs 50 Ether and has a 5 second cooldown.
     -   Because Formless' maximum teleportation distance is determined by the size of your Tacet bubble, having low or even negative [stealth](Stealth.md) is a viable option.
     -   The speed boost granted upon activating Tacet lasts 2.5 seconds and is retained upon exiting Tacet.
     -   Outside of Tacet's innate cooldown, the speed boost for activating it has no cooldown.
@@ -3402,7 +3405,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Vanishing Wraith_ \[Rare Talent, Galebreathe\] - Your 'Aerial Attacks' while in Phantom Step will now teleport you behind your target
     -   Prerequisites: Phantom Step, 60 Galebreathe
 
--   _**Possession**_ \[Advanced Talent, Galebreathe\] - After an apparition hits an enemy, receive 15% posture damage on all Galebreathe attacks for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
+-   _**Possession**_ \[Advanced Talent, Galebreathe\] - After an apparition hits an enemy, receive 7.5% posture damage on all Galebreath attacks for 8 seconds. If the apparition hits while you have Phantom Step active, receive a 7.55% chip damage buff for 6 seconds.
+    -   Only applies to Galebreathe Mantras.
     -   The posture damage and chip damage buffs have reduced effects if you have under 75 Galebreathe.
     -   Prerequisites: Haunted Path: Specter, 75 Galebreathe
 
@@ -4196,6 +4200,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Assuming all hits hit your opponent's block, your Pressure Blast now does 60 posture damage compared to the previous 36.
     -   Grants a **very** large increase to the AoE of your Pressure Blast.
 
+-   Careful Stance: [Apprentice Rapier](Apprentice_Rapier.md) - Gain a bit more autoparry frames on successful parries.
+
 -   Clutch Recovery: [Canor Fang](Canor_Fang.md) - When at 30% health or below, every time you land a light attack or critical hit heal 1%.
     -   Landing weapon attacks while your health is at or below 30% will heal you for 1% of your maximum health.
 
@@ -4205,8 +4211,6 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   This damage modifier **bypasses** the damage modifier cap, potentially allowing for absurd critical damage output.
 
 -   Curved Edge: [Nemit's Sickle](<Nemit's_Sickle.md>) - Your [light weapon mantras](Attunement-less.md#light-weapon-mantras) now gain 60% more chip.
-
--   Careful Stance: [Apprentice Rapier](Apprentice_Rapier.md) - Gain a bit more autoparry frames on successful parries.
 
 -   Expeditionary Evasiveness: [Inquisitor's Thorn](<Inquisitor's_Thorn.md>) - The design of this rapier allows you to much more swiftly attack in tandem with your mantras, giving Agility mantras you use +3 levels in all stats, even bypassing the level cap.
     -   [Agility Mantras](Attunement-less.md#agility-mantras) gain +3 Mantra levels. This bypasses the normal Mantra level cap of 5.

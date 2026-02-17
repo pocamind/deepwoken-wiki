@@ -1,9 +1,11 @@
 ---
 title: Hunting Bow
-revid: 196499
+revid: 196959
 source: https://deepwoken.fandom.com/wiki/Hunting_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [In progress with reason, InProgressPages, Weapons, Medium Weapons, Bows]
+notices:
+  - This page is currently being worked on. The item has not been found by the Deepwoken community yet.
 ---
 
 # Hunting Bow

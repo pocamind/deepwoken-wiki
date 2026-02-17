@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 196874
+revid: 196948
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -10,6 +10,8 @@ categories: [Pathfinder Exclusive]
 
 | Kyrsgarde Champion | |
 |---|---|
+| health | 40k (Unknown if scales) |
+| drops | Gale Essence (Chest)Kyrsan Necklace (Chest) |
 | locations | New Kyrsa, The Sleeping City |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

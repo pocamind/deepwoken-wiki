@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 196523
+revid: 196939
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -82,9 +82,9 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
     -   At 4 stacks Restrain causes damage in a large AOE.
 -   Obtainment: Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
 
--   **Chainlash** - On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.
-    -   Upon flourishing a humanoid target, enchain them.
-    -   "**The Pull**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
+-   **Chainlash** - On flourish, gain the ability to summon a chain on an enemy for 5 seconds by right clicking. This lets you whip your chain to seize and yank enemies towards you, setting them up for a crushing kick.
+    -   Upon right clicking within 5 seconds of flourishing a humanoid target, enchain them and pull them to you.
+    -   "**The yank**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
         -   2 seconds true endlag on flourish.
         -   Also procs off of Emperor Flame and [Razor Blitz](Bloodrend.md#razor-blitz), alongside [Kyrswynter](Kyrswynter.md) and mid-uppercut flourishes.
         -   Benefits off Dazing Finisher and Bulldozer.
@@ -92,7 +92,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   Forces targets back to the user on flourish, holding them in place for a duration.
             -   Game determines user's location 0.4 seconds late, using it airborne can drag targets upwards.
         -   **Movestack**: Using a mantra at the _very first moment_ after a flourish let's you movestack it.
-    -   "**Crushing Kick**" is activated after pulling targets by M1ing dealing 46 Oath damage and 25 posture.
+    -   "**Crushing kick**" is activated after pulling targets by M1ing dealing 46 Oath damage and 25 posture.
         -   0.45s windup, [True Hyperarmor](Status_Effects.md#true-hyperarmor) and ragdolls/flings targets in the direction you are looking, cannot wallbang.
             -   Has a 360° hitbox, can't be whiffed by turning around, but you can kick targets back to you.
         -   Using the kick too quickly will have increased endlag, due to the Pull's endlag. (Bug)

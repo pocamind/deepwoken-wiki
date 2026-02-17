@@ -1,6 +1,6 @@
 ---
 title: Zhatarn
-revid: 188468
+revid: 196952
 source: https://deepwoken.fandom.com/wiki/Zhatarn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Celestials, The Heavens]
@@ -28,7 +28,7 @@ Many years have passed since then and even many of the [Lightborn](Lightborn.md)
 
 -   After his exile, his blade was found in the [Moonseye](Moonseye.md) by a [Celestial](Celestial.md) traveler.[\[1\]](#cite-note-soulthorn-1)
 -   His status is currently unknown.[\[2\]](#cite-note-kaide-2)
--   The Vow of Iron Memento "Prince of the Moon" is one of their followers, taking in their steps.
+-   The Vow of Iron Memento "[Prince of the Moon](Prince_of_the_Moon.md)" is one of their followers, taking in their steps.
 -   Given the Soulthorn's size and appearance, Zhatarn may have been of human-like proportions.
 
 ## References

@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 195320
+revid: 196912
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
