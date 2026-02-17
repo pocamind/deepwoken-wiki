@@ -1,6 +1,6 @@
 ---
 title: Fondant Splitter
-revid: 191771
+revid: 196695
 source: https://deepwoken.fandom.com/wiki/Fondant_Splitter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -60,8 +60,6 @@ The critical has a cooldown of 20 seconds.
 
 ## Trivia
 
--   Meeting the requirement of MED and LVL, the damage is 20**.9**
--   At max MED and 6 Proficiency, the damage is **27.5**
 -   First documented finding was on the 18th of December 2024, 12 days after the Dormant Splinter was added, and 5 days after the Cold Forge was added.
 -   Similarly to the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>), when resting at a campfire the weapon will display a different name being: _"Spongey and rich, with a hint of... Umbrite."_
 -   The Fondant Splitter is functionally soulbound, similar to the [Diver's Light Plate](<Diver's_Light_Plate.md>).

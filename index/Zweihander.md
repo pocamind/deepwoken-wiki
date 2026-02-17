@@ -1,6 +1,6 @@
 ---
 title: Zweihander
-revid: 195135
+revid: 196705
 source: https://deepwoken.fandom.com/wiki/Zweihander
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greatswords, Alloyed Weapons, Heavy Weapons]
@@ -46,10 +46,3 @@ The [Alloyed](Pluripotent_Alloy.md) variant boasts increased stats with a higher
 ## Critical
 
 Zweihander uses the default Greatsword critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
-
-## Trivia
-
--   Meeting the stat requirements, the damage is (24.3/35.9)
--   At max HVY, the damage is (33.6/40.3)
--   "Zweihänder" means "two-handed sword" in German.
-    -   Pronounced "Zv-eye-hen-dah."

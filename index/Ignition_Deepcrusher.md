@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepcrusher
-revid: 195676
+revid: 196648
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepcrusher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Swords, Legendary Weapons, "Weapons with Multi-Hit Criticals", "Attunement-based Weapons", Weapons with Unique Criticals, The Ignition Union, Medium Weapons]
@@ -56,15 +56,8 @@ The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
--   Each variant of this weapon has their own uses.
-    -   The club variant is best suited for playstyles centered around applying and taking advantage of metal rods. Note compared to its other stance it has 8 weight and higher base damage.
-    -   The sword variant is meant to be used if you are looking for more from your M1s, even at the expense of utility and stats. In some cases however, the club variant may have higher damage output even when you consider the innate bleed of the sword variant.
--   At requirements, this weapon deals 26.1 damage while in Club form, and 27.25 (23.7 + [3.55](Status_Effects.md#bleed)) while in Sword form.
--   At 100 MED and 100 MTL, this weapon deals 30.2 damage while in Club form, and 31.6 (27.5 + [4.1](Status_Effects.md#bleed)) damage while in Sword form.
 -   The Ignition Deepcrusher is the first weapon to be part of two weapon categories as its stances are both Club and Blade, which you can switch between by pressing Y. This is similar to the unique stance effect used by the [Curved Blade of Winds](Curved_Blade_of_Winds.md), however it instead changes the weapon type from Club to Sword and vice versa.
 -   Currently the only legendary weapon with no description.
--   The Sword form (at 100 MED and 100 MTL) is the second-highest damage sword in the game, second to the [Razor Cutlass](Razor_Cutlass.md) (35.7 vs. 36.6).
--   Meanwhile, the Club form (at 100 MED and 100 MTL) is the highest raw damage club in the game, only close to **Ignition Deepcrusher** dmg is the [Sacred Hammer](Sacred_Hammer.md) (30.2 vs. 29.7).
 -   The weapon is inspired by the [Kirkhammer](https://bloodborne.fandom.com/wiki/Kirkhammer) from _[Bloodborne](https://en.wikipedia.org/wiki/Bloodborne)_.[\[1\]](#cite-note-1)
 -   Based on the [similar leftover weapon](DeepcrusherSword.md) which required 55 HVY to wield and was in the game for a short period of time, this could have been heavy weapon at some point during development.
 -   You cannot use the stance swap feature while in the Battle Royale mode unless you have the Ironsinger Talent, which can be achieved by getting an Ironsing Mantra.

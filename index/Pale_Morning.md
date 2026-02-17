@@ -1,6 +1,6 @@
 ---
 title: Pale Morning
-revid: 187877
+revid: 196772
 source: https://deepwoken.fandom.com/wiki/Pale_Morning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -43,8 +43,3 @@ The Pale Morning is an endgame Greathammer. The description mentions a [Canor](C
 ## Critical
 
 Pale Morning uses the default Greathammer critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
-
-## Trivia
-
--   Meeting the requirement of HVY, the damage is (36.2)
--   At max HVY, the damage is (40.2)

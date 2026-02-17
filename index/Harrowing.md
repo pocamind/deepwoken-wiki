@@ -1,6 +1,6 @@
 ---
 title: Harrowing
-revid: 195551
+revid: 196531
 source: https://deepwoken.fandom.com/wiki/Harrowing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -23,6 +23,8 @@ Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive, debuffing enchantment tha
 ## Effect
 
 On M1, Harrowing inflicts the [Harrowing](Status_Effects.md#harrowing) status effect for 12 seconds, obscuring your opponent's Health, Posture, and Armor meters with a nearly opaque yellow and purple pattern.
+
+In PvE, your M1s apply [Confusion](Status_Effects.md#confusion), making your opponent have a chance to hit themselves instead whenever they attack you.
 
 ### Notes
 

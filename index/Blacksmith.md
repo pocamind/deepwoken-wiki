@@ -1,6 +1,6 @@
 ---
 title: Blacksmith
-revid: 194395
+revid: 196545
 source: https://deepwoken.fandom.com/wiki/Blacksmith
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vendors, NPCs]
@@ -30,7 +30,7 @@ Blacksmiths have 3 functions: opening the [Outfits](Outfits.md) menu, crafting [
 -   [Pickaxe](Pickaxe.md) for 3
 -   [Lumber Axe](Lumber_Axe.md) for 3
 -   [Flint](Flint.md) for 3
--   and [Repair Hammer](Repair_Hammer.md) for 30.
+-   [Repair Hammer](Repair_Hammer.md) for 30.
 
 Blacksmiths will refuse to service the player if their [reputation](Reputation.md) is too low with the faction of the location they're at.
 
@@ -41,7 +41,7 @@ Blacksmiths will refuse to service the player if their [reputation](Reputation.m
 -   The blue highlighted text is the schematics you have on hand, if you press **Learn**, the outfit will move to the recipe that it belongs to.
 -   An outfit recipe retains the requirements, stats, Talent description (if it has a Talent) as well as the outfit description.
 -   If you have multiple crafted outfits, the current one will be an orange color while the rest will be a bolded white.
--   You can also spend notes to repair the durability of your outfit.
+-   Repairing durability is free.
 
 #### Transmogging outfits
 

@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 196371
+revid: 196667
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -57,9 +57,6 @@ The critical has a cooldown of **14 seconds**.
 
 ## Trivia
 
--   Meeting the requirement of MED and LVL, the damage is (**5.1**)
--   At max MED, The damage totals up to (**7.6**)
--   If you have 100 attribute points invested into MED, and having 6 proficiency you will achieve a total damage of (**8.6**)
 -   The Splinter emits a sound that resembles breathing and a heartbeat. The Splinter also has an animation when equipped that resembles lungs expanding.
 -   It was inspired by the Broken Hero Sword from _Terraria_.[\[1\]](#cite-note-1)
 -   The Wither application on the [Umbrite Witherblade](Umbrite_Witherblade.md) and [Sanguine Transfuser](Sanguine_Transfuser.md), weapons created from the Dormant Splinter, is derived from the Dormant Splinter being composed of [Umbrite](Ores.md#umbrite), which contains withering properties.[\[2\]](#cite-note-2)

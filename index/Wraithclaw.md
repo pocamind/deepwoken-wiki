@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 192705
+revid: 196642
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -63,7 +63,7 @@ For the **standing** critical, the user winds up a barrage of six slashes, each 
 
 Standing crit DMG: 0.6x of M1 DMG (First hit) + 0.35x\*4 of M1 DMG (Middle hits) + 1x of M1 DMG (Last hit) + 10% aftercut DMG bonus
 
-For the **aerial** critical, the user quickly whirls in front of them, dealing 2x of M1 DMG + 10% aftercut bonus and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md#legion-shock-trooper).
+For the **aerial** critical, the user quickly whirls in front of them, dealing 2x of M1 DMG + 10% aftercut bonus and a massive amount of posture damage. The critical can be also activated during [Gale Dash](Talents.md#gale-dash).
 
 Both criticals share the cooldown of **10 seconds**.
 
@@ -71,15 +71,14 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 
 ## Trivia
 
--   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md#legion-shock-trooper) or uppercut because of incredible posture damage and low windup.
+-   The aerial Critical Attack is deadly if used in [Gale Dash](Talents.md#gale-dash) or uppercut because of incredible posture damage and low windup.
     -   Aerial Critical Attack is not AOE and does the slash only in front of the user, despite the character doing a whirlwind windup in the animation, which could mislead your opponent.
 -   It is similar to "Tekagi-Shuko", a weapon comprised of deadly "claws" that protrudes from the palm, utilized by ninjas. Or the weapon might be inspired by the Marvel comics character, Wolverine, specifically his metal claws of similar design.
--   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and is replaced by the chained gauntlet.
-
+-   With [Chainwarden](Oath%253A_Chainwarden.md), one of the claws disappear and is replaced by the chained gauntlet.[\[1\]](#cite-note-1)
 -   It seems as if your slot has [Mute](Regalia.md) regalia (animal king), Grudge will not spawn on you. (needs more testing)
 -   While using the criticals it will play the sound of a bear roaring.
 -   The latter part of the weapon's description is speculated to be a meta comment on the common and popular criticism from the Deepwoken community by veteran players.
--   With the minimum stat requirement (40 LHT & 75 WND) to equip the weapon, the weapon will deal 22.87 damage.
-    -   Around 24 damage with the 5% innate After Cut effect, and around 25.16 with the 10% After Cut effect from the Talent.
--   With 100 LHT and 100 WND, it will deal 30.2 damage.
-    -   It will deal around 31.5 damage with the 5% innate After Cut effect, and around 33.2 with the 10% After Cut effect from the Talent.
+
+## Navigation
+
+1.  [↑](#cite-ref-1)

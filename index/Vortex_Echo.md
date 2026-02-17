@@ -1,6 +1,6 @@
 ---
 title: Vortex Echo
-revid: 195159
+revid: 196491
 source: https://deepwoken.fandom.com/wiki/Vortex_Echo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, "Core-Attribute based weapons", Weapons with Unique Animations, Relics, Legendary Weapons, Light Weapons, Relic Weapon]
@@ -47,9 +47,8 @@ Note: Mantras that have a cooldown that's longer than 30 seconds will not displa
 
 | List of unaffected cooldowns: |
 | --- |
-| Windwaker
-Voideye
-
+| Windwaker  
+Voideye  
 Buster Call
 
  |
@@ -60,6 +59,6 @@ Buster Call
 -   This paired with [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) critical not working on Vortex Echo makes [Fang and Coil](Fang_and_Coil.md) a very bad Fist Style for this weapon.
 -   [Deepscorn Casque](Deepscorn_Casque.md) does not lower the wither gain upon crit usage.
 -   Vortex Echo's critical allegedly used to fully reset cooldowns regardless of how long they were, before the weapon was made publicly available.
--   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on **Vortex Echo's** cooldown, lowering it down to 26 seconds (outside of [Chime of Conflict](Chime_of_Conflict.md)).
--   Also works on Hive Fountains.
+-   [Warmaster's Medallion](<Warmaster's_Medallion.md>) works on Vortex Echos cooldown, lowering it down to 26 seconds (outside of [Chime of Conflict](Chime_of_Conflict.md)).
+-   The cooldown reduction also functions on Hive Fountains.
 -   When not in use, the Vortex Echo is holstered on the character's left hip.

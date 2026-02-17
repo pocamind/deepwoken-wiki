@@ -1,6 +1,6 @@
 ---
 title: Canor Fang
-revid: 193582
+revid: 196605
 source: https://deepwoken.fandom.com/wiki/Canor_Fang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, Weapons with Talents]
@@ -58,6 +58,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   Despite the name, it's not actually made from a Canor's fangs.
 -   It's recommended to use a [Whaling Knife](Whaling_Knife.md) or [Gilded Knife](Gilded_Knife.md) instead of the Canor Fang due to their statistical superiority. That being said, the Canor Fang critical and weapon talent are both very good and warrants using this weapon.
--   At max LHT, the damage is (19.3)
--   Meeting the requirement of LHT, damage is (14.3)
--   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 22.5

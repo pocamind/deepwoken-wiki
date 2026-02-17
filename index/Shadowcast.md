@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 193727
+revid: 196792
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -529,6 +529,7 @@ Mult. Spark: Blunt (1st Hit), Shadow (2nd Hit)
 -   Has a base damage of 65/77.5/90/102.5/115 per level with 2.75 Shadowcast scaling.
 -   Drains 33.25/38.98/44.7/50.425/56.15 Ether per level with 2.75 Shadowcast scaling.
 -   Has a 1 second windup with hyperarmor and a 12 second cooldown.
+-   Eclipse Kick deals 25% of its damage to targets who dodge it.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   The axe kick does not proc [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does.
 -   The Multiplying Spark initial kick does pure Blunt damage, the main Eclipse Kick attack deals pure Shadowcast damage.

@@ -1,6 +1,6 @@
 ---
 title: Elastic
-revid: 195548
+revid: 196551
 source: https://deepwoken.fandom.com/wiki/Elastic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -23,6 +23,8 @@ Elastic is a debuffing enchantment that tethers your opponent on hit.
 ## Effect
 
 Elastic applies the [Tethered](Status_Effects.md#tethered) status effect on M1, pulling your opponent towards yourself.
+
+Tethered PvE enemies deal reduced damage to you, scaling on how far away they are from you.
 
 ### Notes
 

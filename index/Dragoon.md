@@ -1,6 +1,6 @@
 ---
 title: Dragoon
-revid: 195119
+revid: 196619
 source: https://deepwoken.fandom.com/wiki/Dragoon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Light Weapons, Offhand]
@@ -43,5 +43,3 @@ Dragoon uses the default Pistol critical, an empowered shot. It has a scaled dam
 ## Trivia
 
 -   A single Dragoon can fire four shots when loaded before requiring a reload.
--   Meeting the requirement of LHT, the damage is (25.4)
--   At max LHT, the damage is (30.4)

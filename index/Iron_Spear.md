@@ -1,6 +1,6 @@
 ---
 title: Iron Spear
-revid: 195166
+revid: 196714
 source: https://deepwoken.fandom.com/wiki/Iron_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons]
@@ -49,5 +49,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   At max MED, the damage is (20.2)
 -   One of two spears to have no requirement, the other being the [Irontusk](Irontusk.md).

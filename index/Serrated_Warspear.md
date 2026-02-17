@@ -1,6 +1,6 @@
 ---
 title: Serrated Warspear
-revid: 193877
+revid: 196744
 source: https://deepwoken.fandom.com/wiki/Serrated_Warspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Drops, Medium Weapons]
@@ -50,7 +50,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the requirement of MED, the weapon deals 23.7 damage, but it becomes 27.26 with bleed.
--   At max MED, the weapon deals 26.8 damage, but it becomes 30.8 with bleed.
 -   Heavily resembles the [Acheron's Warspear](<Acheron's_Warspear.md>). It is also seen as a direct upgrade to this weapon.
 -   This weapon used to be dropped by [Duke Erisia](Duke_Ishamon_Erisia.md), although it was removed in favor of the [Stoneheart](Stoneheart.md).

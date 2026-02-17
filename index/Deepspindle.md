@@ -1,6 +1,6 @@
 ---
 title: Deepspindle
-revid: 195103
+revid: 196633
 source: https://deepwoken.fandom.com/wiki/Deepspindle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rapiers, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Light Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -68,9 +68,5 @@ Both critical attacks have a cooldown of 9 **seconds**. However, the standing cr
 
 -   This item _can_ be dropped.
 -   Ironically, this weapon is longer than the [Crypt Blade](Crypt_Blade.md).
--   Doing [Hell Mode](Hell_Mode.md) increases the spawn rate of finding Silhuett.
--   Meeting the requirement of LHT and SDW, the damage is (23.19)
--   At max LHT and SDW, the damage is (27.65)
 -   The running critical damage can be negated by the Unique equipment Talent "Already Dead", available by equipping the Deepscorn Casque.
--   After you defeat the boss and you grip him you will get the schematic ([Darkened Bastion](Darkened_Bastion.md)), the [Deepscorn Casque](Deepscorn_Casque.md), and the Deepspindle all at once (when sent via Silhuett).
 -   The magic circle sitting on top of the crossguard sports symbols bearing resemblance to the [Ministry](The_Ministry.md).

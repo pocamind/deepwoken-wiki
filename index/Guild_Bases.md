@@ -1,6 +1,6 @@
 ---
 title: Guild Bases
-revid: 196287
+revid: 196507
 source: https://deepwoken.fandom.com/wiki/Guild_Bases
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, OutdatedPages, Guilds, Locations]
@@ -30,7 +30,6 @@ Once hired, the [Treasurer](Treasurer.md) can be interacted with to hold the Not
 
 Currently, there are 10 NPCs that can join your Guild Base with a certain amount of rooms purchased; making it both an achievement and benefit to the Guild.
 
--   The [Mystic](Mystic.md), which can be hired in the Song Room after building 3+ rooms for 2,000.
 -   The [Barber](Barber.md), which can be hired after building 6+ rooms for 3,000.
 -   The [Banker](Banker.md), which can be hired in the Trophy Room after building 6+ rooms for 10,000.
 -   The [Gunsmith](Gunsmith.md), which can be hired in the Armory for 1,000.
@@ -182,11 +181,8 @@ Song Room
 
  | 
 
-Allows the hiring of a [Mystic](Mystic.md) for 2,000. A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a Heat Stone Resting Spot to rest & recall mantras, and the ability to purchase [Training Gears](Training_Gear.md#attunement-training-gears). The Mystic can be used by non-Guild members, and costs 20 notes for all players including Guild members.  
-
+A room that features a [mantra table](Mantra_Lectern.md) for the Player to modify their [mantras](Mantras.md) with [modifiers](Mantra_Modifiers.md), along with a Heat Stone Resting Spot to rest & recall mantras, and the ability to purchase [Training Gears](Training_Gear.md#attunement-training-gears).  
 This room also allows the hiring of a [Songwright](Songwright.md) for 20,000, which allows you to upgrade mantras for a more expensive price than the [Attunement Trainers](Attunement_Trainers.md) (albeit being more convenient).
-
-  
 
  |
 | 

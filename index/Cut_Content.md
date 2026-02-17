@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 196290
+revid: 196521
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -525,6 +525,8 @@ Charisma
 
 ## Other
 
+-   **Lockers -** These were removed on the February 16th, 2025 update due to their use no longer being needed at areas they were placed in.
+-   **[False Memory](False_Memory.md) -** This weapon was removed on the Feburary 16th, 2026 update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
 -   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
     
     One of the brains found in the Ancient Rotlands
@@ -565,7 +567,9 @@ Charisma
 
 ## Mystic
 
-The Mystic used to have riddles in order to figure out what Talent category you wanted it to guarantee. This was removed on the July 14th, 2025 update, being replaced with simply the Talent category's name. This was done to make the game less third-party website reliant.
+The Mystic was an NPC who allowed players to guarantee a Talent category when rolling Talents or Mantras. Originally, the Mystic required players to answer riddles to determine which Talent category they wanted. In the July 14th, 2025 update, this system was removed and replaced with directly selecting the Talent category by name, reducing reliance on third-party websites.
+
+Finally, in the February 16th, 2026 update, the Mystic was fully removed from the game, due to them essentially being made irrelevant by changes made to the Journal that integrated their effects. Driven back to the shadows, they now must seek legitimate employment.[\[5\]](#cite-note-5)
 
 [Strength](Attributes.md#str)
 
@@ -766,3 +770,4 @@ Any
 2.  [↑](#cite-ref-2)
 3.  [↑](#cite-ref-3) [https://www.youtube.com/watch?v=Uea9j2-gfg8](https://www.youtube.com/watch?v=Uea9j2-gfg8)
 4.  [↑](#cite-ref-4)
+5.  [↑](#cite-ref-5) [Version History/2026#February 16, 2026](Version_History/2026.md#february-16-2026)

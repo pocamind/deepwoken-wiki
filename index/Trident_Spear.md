@@ -1,6 +1,6 @@
 ---
 title: Trident Spear
-revid: 182770
+revid: 196741
 source: https://deepwoken.fandom.com/wiki/Trident_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -50,12 +50,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of MED, the damage is (23.3)
-    -   Meeting the alloyed requirement, the damage is (27.5)
--   At max MED, the non-alloyed damage is (27.6)
-    -   At max MED, the alloyed damage is (29)
 -   Used by [Celtor Guards](Celtorian_Guard.md), referencing the city's previous fishing-based economy.
--   The alloyed form rivals, if not overtakes, the [Serrated Warspear](Serrated_Warspear.md) in terms of endgame damage if paired with Speed Demon Talent at 100 MED stat.
 -   The trident spear's unique critical used to be capable of one-shotting players when paired with certain [Enchantments](Enchantments.md) such as Detonation.
 -   Using the critical mid-air will suspend the player and move them forward.
 -   Using the critical while swimming will make you travel about half the distance as usual.

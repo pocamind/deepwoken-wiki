@@ -1,6 +1,6 @@
 ---
 title: Ritual Spear
-revid: 193317
+revid: 196716
 source: https://deepwoken.fandom.com/wiki/Ritual_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Weapons with Talents]
@@ -53,8 +53,3 @@ Equipping the Ritual Spear grants its unique [weapon Talent](Talents.md#weapon-t
 Ritual Spear uses the default Spear critical, a horizontal swing followed by a forward thrust. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. Both hits deal **5** posture damage.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-## Trivia
-
--   Meeting the requirement of MED, the damage is (21.5)
--   At max MED, the damage is (26.1)

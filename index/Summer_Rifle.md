@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 195124
+revid: 196758
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -43,7 +43,5 @@ Summer Rifle uses the default Rifle critical, firing a projectile. It has a scal
 
 ## Trivia
 
--   Meeting the requirement of MED, the damage is (20.1)
--   At max MED, the damage is (24.7) and (27.6) with 6 proficiency.
-    -   This means that at its maximum damage it falls short of the blunderbuss with no proficiency at 75 med by 0.3 damage.
+-   Damage wise, this weapon is an extremely close sidegrade to the [Iron Blunderbuss](Iron_Blunderbuss.md) at high investment.
 -   Generally speaking, the fastest way to get this weapon is through The [Saramaed Hollow](Saramaed_Hollow.md).

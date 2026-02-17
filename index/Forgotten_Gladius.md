@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 192956
+revid: 196693
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -51,10 +51,3 @@ Equipping the Forgotten Gladius grants its unique [weapon Talent](Talents.md#wea
 Forgotten Gladius uses the default Sword critical, a piercing stab. It has a scaled damage multiplier of **1.2x** and a cooldown of **3 seconds**. It deals **3x** the weapon's posture stat as posture damage.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-## Trivia
-
--   Formerly resembled the [Canor Fang](Canor_Fang.md).
--   After some previous nerfs, the Forgotten Gladius now has 0.02x slower swing speed than the [Falchion](Falchion.md) and [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md), but makes up for it with slightly more base damage.
--   Meeting the requirement of MED, the damage is (24.6)
--   At max MED, the damage is (28.1)

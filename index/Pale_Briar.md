@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 195470
+revid: 196699
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations]
@@ -53,11 +53,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Its critical attack is, ironically, very useful against the Maestro.
 -   The critical attack will be casted to your cursor's direction while not in Shift Lock mode.
 -   The caster of the critical attack is unable to cast mantras while it is up.
-    -   Before the 06/15/2024 update, this was possible, leading to many cheese tactics involving the weapon.
-
--   Meeting the minimum requirement of HVY, the damage is (23)
-    -   At max HVY, the damage is (35.9)
+    -   Before the June 15th, 2024 update, this was possible, leading to many cheese tactics involving the weapon.
 -   Unique to it, each hit of the critical attack can trigger enchant stacks, instead of being limited to the usual 1 stack per multi hit use. This makes enchants such as Grim, Detonation and Chilling significantly stronger. However, enchants like Astral and Ysley's Ember only proc once during the critical.

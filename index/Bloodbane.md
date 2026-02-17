@@ -1,6 +1,6 @@
 ---
 title: Bloodbane
-revid: 192991
+revid: 196739
 source: https://deepwoken.fandom.com/wiki/Bloodbane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Named Weapons, Heavy Weapons, Weapons with Talents]
@@ -60,6 +60,4 @@ Bloodbane uses the default Greatsword critical, an overhead swing. It has a scal
 
 ## Trivia
 
--   Meeting the stat requirements, the damage is 24.5
--   At max HVY, the damage is 27.5
--   The first person to turn in the Bloodbane to Agamatsu, a Deepwoken developer, received the custom title "Clay, The First Wielder of Bloodbane."
+-   The first person to turn in the Bloodbane to the developer Agamatsu received the custom title "Clay, The First Wielder of Bloodbane."

@@ -1,6 +1,6 @@
 ---
 title: Verse 3
-revid: 187434
+revid: 196663
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Upcoming content, Pages with broken file links]
@@ -58,6 +58,14 @@ The land has changed in the [Eastern Luminant](Luminants.md), with some location
 _Deepwoken: Ironsworn_ Game icon
 
 On December 15th, 2025, [Vow of Iron](Vow_of_Iron.md) was released.
+
+## Operation: Deep Healing
+
+_Deepwoken: Deep Healing_ Game icon
+
+Announced on January 6th, 2026 was "Operation: Deep Healing", a directive aimed at improving and fleshing out the core gameplay loop of _Deepwoken_ to lay the groundwork for future updates, including expanding the accessibility of PvE across abilities, adding more variety to combat and PvP scenarios, major PvP rebalancing, fleshing out underdeveloped systems such as [World Events](World_Events.md), improving update stability, and fixing long-standing bugs and issues. This was to be achieved under a more spaced-out update schedule with longer periods between updates.
+
+The first update directly stated to be focused toward game health was released on January 2nd, 2026. The first update officially apart of _Operation: Deep Healing_ was released on January 18th, 2026.
 
 ## Trivia
 

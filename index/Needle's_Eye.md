@@ -1,6 +1,6 @@
 ---
 title: "Needle's Eye"
-revid: 191883
+revid: 196662
 source: https://deepwoken.fandom.com/wiki/Needle's_Eye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Rapiers, Light Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals"]
@@ -53,8 +53,6 @@ You cannot rotate your character during this critical. This critical has the M1 
 
 ## Trivia
 
--   Meeting the requirement of LHT, the damage is (24.4)
--   At max LHT, the damage is (27)
 -   The Needle's Eye is the slowest rapier in the game, having a swing speed of 1.05x.
 -   Needle's Eye and the [Golden Swordfish](Golden_Swordfish.md) are the only two non-legendary rapiers to have a unique critical attack.
 -   This rapier has the same name as the [Whisperer's](https://rogue-lineage.fandom.com/wiki/Whisperer) skill from [Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage).

@@ -1,6 +1,6 @@
 ---
 title: Curse of Void
-revid: 195565
+revid: 196529
 source: https://deepwoken.fandom.com/wiki/Curse_of_Void
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -25,6 +25,8 @@ Curse of Void is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive debuffing curse ench
 Curse of Void applies the [Void](Status_Effects.md#void) status effect for 30 seconds. This applies a 40% anti-heal effect.
 
 Additionally, if a player dies while under the effect of the Void status effect, they will be sent to [the Depths](The_Depths.md) regardless of how many lives they have.
+
+In PvE, your weapon attacks apply [Ether Sunder](Status_Effects.md#ether-sunder) for 10 seconds, granting 30% elemental damage reduction against their attacks.
 
 ### Curse
 

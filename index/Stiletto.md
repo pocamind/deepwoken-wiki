@@ -1,6 +1,6 @@
 ---
 title: Stiletto
-revid: 185710
+revid: 196600
 source: https://deepwoken.fandom.com/wiki/Stiletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -45,6 +45,3 @@ Stiletto uses the default Dagger critical, a series of 3 quick slashes. The firs
 ## Trivia
 
 -   This is the only base starter weapon not used by any NPCs, being replaced with the [Gilded Knife](Gilded_Knife.md).
--   It does less damage than [Fists](Fists.md) and same damage as [Flintlock](Flintlock.md) and [Canor Fang](Canor_Fang.md).
--   If you have 100 attribute points invested into LHT, and having 6 proficiency you will achieve a total damage of 14.4
--   At max LHT, the damage is (13.5).

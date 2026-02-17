@@ -1,6 +1,6 @@
 ---
 title: Quartztone Pickaxe
-revid: 195481
+revid: 196683
 source: https://deepwoken.fandom.com/wiki/Quartztone_Pickaxe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons]
@@ -56,8 +56,7 @@ Both criticals have a cooldown of **6 seconds**. Both cooldowns will count down 
 
 ## Trivia
 
--   The weapon was supposed to be released along with [Conquest](Conquest.md), with Order of the Unsung members only having a preview. However, Arch\_Mage made the decision to release stuff that would've released with Conquest earlier, because of the huge [Conquest](Conquest.md) delays.
--   This weapon, along with [Boltcrusher](Boltcrusher.md) can both be used as pickaxes as of December 7th 2024. They do the job more efficiently than Pickaxes.
--   The fastest heavy weapon in game by terms of swing speed.
+-   The weapon was supposed to be released along with [Conquest](Conquest.md), with Order of the Unsung members only having a preview. However, developer Arch\_Mage made the decision to release stuff that would've released with Conquest earlier, because of the huge [Conquest](Conquest.md) delays.
+-   In the December 7th, 2024 update, this weapon, along with [Boltcrusher](Boltcrusher.md) can both be used as more efficient [Pickaxes](Pickaxe.md).
 -   In later updates, the Quartztone Pickaxe's texture has been removed to reflect better enchantment colors.
 -   The standing critical for this weapon is shared with [Unsung Scythern](Unsung_Scythern.md)'s criticals.

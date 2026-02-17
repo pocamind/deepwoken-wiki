@@ -1,6 +1,6 @@
 ---
 title: Toothed Club
-revid: 182768
+revid: 196752
 source: https://deepwoken.fandom.com/wiki/Toothed_Club
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -43,8 +43,3 @@ The **Toothed Club** is a medium blunt club type weapon. It is not recommended t
 ## Critical
 
 Toothed Club uses the default Club critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. On hit, it [dazes](Status_Effects.md#daze) opponents and will insta-guardbreak them if they attempt to block it.
-
-## Trivia
-
--   Meeting the requirement of MED, the weapon deals 17.8 damage, but it becomes 20.47 with bleed.
--   At max MED, the weapon deals 22 damage, but it becomes 25.3 with bleed.

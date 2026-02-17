@@ -1,6 +1,6 @@
 ---
 title: Adretian Axe
-revid: 195243
+revid: 196694
 source: https://deepwoken.fandom.com/wiki/Adretian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -51,9 +51,4 @@ Adretian Axe uses the default Greataxe critical, an overhead swing. It has a sca
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of HVY, the damage is (29)
-    -   Meeting the alloyed requirement, the damage is (34.8)
--   At max HVY, the non-alloyed damage is (37.4)
-    -   At max HVY, the alloyed damage is (38.4)
 -   Its stats and requirements are similar to [Canorian Axe](Canorian_Axe.md).
--   Went from a tool of mass destruction to a budget [Iron Birch](Iron_Birch.md) in one update, then went from being a budget [Iron Birch](Iron_Birch.md) to objectively one of the best Heavy weapons in another.

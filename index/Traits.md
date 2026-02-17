@@ -1,6 +1,6 @@
 ---
 title: Traits
-revid: 195959
+revid: 196602
 source: https://deepwoken.fandom.com/wiki/Traits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -14,7 +14,7 @@ Traits are attributes given to you to further increase your strength beside basi
 
 Every player have a maximum of 12 trait points, given at every even number **[Power](Power.md)** up, so Powering up from Power **2, 4, 6, etc.** gives you a Trait point. The only exception are the **1st, 9th and 19th** Power up.
 
-Each trait can only be increased up to 6 points.
+Each trait can only be increased up to 6 times.
 
 ### Vitality
 
@@ -30,7 +30,7 @@ Each trait can only be increased up to 6 points.
     -   Because the scaling increase is a percentage increase, it is much more effective the higher your weapon's innate scaling is.
     -   This is combined multiplicatively with your weapon's innate attribute scaling.
     -   This applies to every weapon with no exceptions.
-    -   Weapons that have no scaling will not benefit from Proficiency's scaling bonus unless you equip Scaling Rings, as Proficiency's scaling bonus is a percentage increase. These weapons are: [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Formless Shard](Formless_Shard.md).
+    -   Weapons that have no scaling will not benefit from Proficiency's scaling bonus unless you equip Scaling Rings, as Proficiency's scaling bonus is a percentage increase. These weapons are: [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), [Handcuffs](Handcuffs.md), and [Formless Shard](Formless_Shard.md).
 -   Increase [Weapon](Weapons.md) **PEN** by 2.5% per point. (Maximum of 15% increase from **PEN**)
     -   The PEN increase is additive to PEN from other sources, including your weapon's innate PEN.
 

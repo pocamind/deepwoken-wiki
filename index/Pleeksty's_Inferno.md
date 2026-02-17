@@ -1,6 +1,6 @@
 ---
 title: "Pleeksty's Inferno"
-revid: 195102
+revid: 196724
 source: https://deepwoken.fandom.com/wiki/Pleeksty's_Inferno
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons, Weapons with multiple Criticals]
@@ -38,7 +38,7 @@ categories: [Weapons, Clubs, "Attunement-based Weapons", Legendary Weapons, Weap
 
 The **Pleeksty's Inferno** is a legendary Club; a knapped obsidian macuahuitl created using magma, with the deceptively sharp, obsidian blades on the edges as well as the floral patterns on the flat sides glowing with it.
 
-It is not able to be banked and is not droppable, being permanently bound to the slot you fought [Aska](Aska.md) with. It can only be passed down using the [Hippocampal Pool](Hippocampal_Pool.md).
+It is not able to be banked, [passed down](Hippocampal_Pool.md), or dropped, being permanently bound to the character you fought [Aska](Aska.md) with.
 
 This weapon comes with the following passive:
 
@@ -50,7 +50,7 @@ In [Pathfinder](Pathfinder.md), the Pleeksty's Inferno can be obtained from the 
 2.  Fulfill one of the following criteria. Keep in mind you only need **one** of these three criterias to get confirmation to fight [Aska](Aska.md). For example, having Pleetsky's Will allows fighting Aska despite not having Flame Worshipper Armor equipped or Pleeksty's Faith.
     -   Wearing the [Flame Worshipper Armor](Flame_Worshipper_Armor.md).
     -   Having the [Pleeksty's Will](Talent_Quests.md) Talent.
-    -   Having the [Pleeksty's Faith](Talents.md#inferno) Talent.
+    -   Having the [Pleeksty's Faith](Talents.md#pleekstys-faith) Talent.
 3.  Head to [Firfire](Firfire.md) and approach the [head of the village](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md). To the right of him will be an opening in the wall.
 4.  When you go through the opening, you'll see a path going to the left. Do not follow the path. Instead, go forward and jump down to the ledge beneath.
 5.  When you jump down, walk forward following the path. (Be careful, don't fall down, there's a hole in the middle of the path) Eventually, you'll reach three Orange Resonance Doors that require a [Resonance](Resonance.md), and 75 Flamecharm to open.
@@ -79,4 +79,3 @@ Both criticals will instantly max out your Emperor Flame stacks after the critic
 -   A [Tiran Pendant](Tiran_Pendant.md) is wrapped around the weapon.
 -   The embers that form off the weapon are shaped like musical notes.
     -   These characteristics are seen in the [Deepspindle](Deepspindle.md) and the [Wraithclaw](Wraithclaw.md), which emit musical note particles.
--   This weapon cannot be banked or dropped.

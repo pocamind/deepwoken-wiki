@@ -1,6 +1,6 @@
 ---
 title: Silver Dagger
-revid: 187137
+revid: 196604
 source: https://deepwoken.fandom.com/wiki/Silver_Dagger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons, Weapons with Talents]
@@ -56,6 +56,3 @@ Silver Dagger uses the default Dagger critical, a series of 3 quick slashes. The
 ## Trivia
 
 -   The design of the guard looks similar to that of the [Worshipper Longsword](Worshipper_Longsword.md).
--   Meeting the requirement of LHT, the damage is (13.9)
--   At max LHT, the damage is (17.4)
--   At 100 LHT and 6 Proficiency, its damage is (19.5)

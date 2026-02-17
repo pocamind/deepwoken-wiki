@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 196411
+revid: 196686
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -50,10 +50,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of MED, the damage is (23.6)
-    -   Meeting the alloyed requirement, the damage is (28.4)
--   At max MED, the non-alloyed damage is (29)
-    -   At max MED, the alloyed damage is (31.3)
 -   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) but it has more dmg in exchange for less pen. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Due to an inconsistency with the model and the weapons range, it was changed to increase the length of the blade.
 -   The Vigil Longsword was given a unique critical attack on the January 25, 2025 update.

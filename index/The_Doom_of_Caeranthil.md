@@ -1,9 +1,9 @@
 ---
 title: The Doom of Caeranthil
-revid: 195855
+revid: 196607
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World Event, Monsters, Bosses]
+categories: [Disaster, Monsters, Bosses]
 ---
 
 # The Doom of Caeranthil
@@ -22,15 +22,13 @@ categories: [World Event, Monsters, Bosses]
 
 ## Description
 
-The Doom of Caeranthil is a [World Event](World_Events.md) [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every other hour. It appears as a massive deep-blue serpent with two front fins and two pairs of yellow eyes. Its back is covered in tough scales that runs along its tail. Its name was earned when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
+The Doom of Caeranthil is a disaster [Boss](Bosses.md) that spawns in the Open Sea of the [Etrean Luminant](Luminants.md) every other hour. It appears as a massive deep-blue serpent with two front fins and two pairs of yellow eyes. Its back is covered in tough scales that runs along its tail. Its name was earned when it destroyed the island of [Caeranthil](Caeranthil.md) in the [Southern Luminant](Luminants.md).
 
 The Doom will swim across the seas of the [Etrean Luminant](Luminants.md) in a specific pattern: it will begin near the Sea Highway gate to the south of [Erisia](Erisia.md), go to the east of Erisia, go to [Etris Docks](Etris_Docks.md), go to Erisia's entrance and finally, [Vigil Docks](Isle_of_Vigils.md).
 
 Once the Doom is defeated, a purple orb will soar towards all the players who dealt damage. Once the orb arrives at the player, [Murmur: Ardour](Murmur%253A_Ardour.md) will be granted to those with no Murmur, a chest with loot will also spawn at the player's location, and the player will be granted a small amount of [Etrea](Etrea.md) reputation.
 
 It can be damaged by cannons, if you do not want to attack him in close combat.
-
-Since the 2/8/2025 update, World Event Bosses now grant [Resonance](Resonance.md) progression and [Attribute](Attributes.md) XP upon defeat.
 
 ## Moves
 

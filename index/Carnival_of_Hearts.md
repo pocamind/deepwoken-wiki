@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 194454
+revid: 196522
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -26,17 +26,17 @@ If you win the minigame, then you _must_ loot quickly, as you will be kicked out
 
 The minigames happen in a random order. Once all minigames are completed, all remaining players are granted a chest with loot from the event.
 
-##### Hot Pomato
+### Hot Pomato
 
 -   A random player gets a flaming Pomar in their hands, and has 30 seconds to pass it before it explodes.
 -   When the 30 seconds is over, the person holding the Pomar explodes and is eliminated.
 
-##### Bomb Ball
+### Bomb Ball
 
 -   Everyone is given an infinite supply of Circus Bombs, and must throw them at the other players to eliminate them.
 -   Lasts 120 seconds, with a 10 second grace period at the start.
 
-##### Beam Blitz
+### Beam Blitz
 
 -   [Aelita](Aelita.md) and [Tillian](Tillian.md) spawn into the arena and fire large beams at the participants.
 -   They will both spawn highlighted purple and stand still, wait a few seconds, then spawn again and fire their beams before moving to a different location and repeating.

@@ -1,6 +1,6 @@
 ---
 title: Iron Twinblade
-revid: 195167
+revid: 196773
 source: https://deepwoken.fandom.com/wiki/Iron_Twinblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Twinblades, Medium Weapons]
@@ -47,5 +47,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Compared to other starter weapons, the Iron Twinblade has an unusually high 30% chip damage: on par with the Soulthorn.
+-   Compared to other starter weapons, the Iron Twinblade has an unusually high 30% chip damage.
 -   Due to it's chip damage and requirements, it may be practical to use this on builds that require low medium investment.

@@ -1,6 +1,6 @@
 ---
 title: Targe
-revid: 189468
+revid: 196646
 source: https://deepwoken.fandom.com/wiki/Targe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -28,7 +28,3 @@ categories: [Weapons, Shields, Offhand]
 ## Description
 
 A shield that can be bought in the weaponry shop at [Etris](Etris.md) and common from chests in [Erisia](Erisia.md)
-
-## Notes
-
--   The worst shield in the game, as it grants the least amount of posture out of all shields. This is mostly used to get shield Talents if you have a low Fortitude.

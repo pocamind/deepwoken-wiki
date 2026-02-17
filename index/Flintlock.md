@@ -1,6 +1,6 @@
 ---
 title: Flintlock
-revid: 195123
+revid: 196615
 source: https://deepwoken.fandom.com/wiki/Flintlock
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Offhand, Light Weapons]
@@ -45,5 +45,3 @@ Flintlock uses the default Pistol critical, an empowered shot. It has a scaled d
 ## Trivia
 
 -   Like all other pistols, Using this with 1 hand grants 1 set of "M1" attacks unloaded and 1 set of M1 attacks when loaded + 1 Critical attack only available when reloaded with Z/Y by default
--   Meeting the requirement of LHT, the damage is (13)
--   At max LHT, the damage is (20.9)

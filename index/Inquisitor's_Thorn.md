@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Thorn"
-revid: 193288
+revid: 196658
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Thorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -56,8 +56,3 @@ This Talent is especially strong with [Adrenaline Surge](Attunement-less.md#adre
 Inquisitor's Thorn uses the default Rapier critical, thrusting the weapon 4 times. Each hit has a scaled damage multiplier of **0.7x**. It has a cooldown of **3 seconds**.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-## Trivia
-
--   Meeting the requirement of LHT, the damage is (16.9)
--   At max LHT, the damage is (21.4)

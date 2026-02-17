@@ -1,6 +1,6 @@
 ---
 title: The Long Tong of The Law
-revid: 195237
+revid: 196738
 source: https://deepwoken.fandom.com/wiki/The_Long_Tong_of_The_Law
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Heavy Weapons, Spears, "Core-Attribute based weapons"]
@@ -54,4 +54,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 -   A part of the chef weapon set, along with [The Pastry Paster](The_Pastry_Paster.md) and [The Flippers of Fate](The_Flippers_of_Fate.md).
 -   The description reads _"Where's the crabbo SAUUUCE?"_ which is in reference to [a quote](https://www.youtube.com/watch?v=zOXDcGq7Ohg) from celebrity chef [Gordon Ramsay](https://en.wikipedia.org/wiki/Gordon_Ramsay) during an episode of American reality competition cooking show, _[Hell's Kitchen](<https://en.wikipedia.org/wiki/Hell%27s_Kitchen_(American_TV_series)>)_.
--   If you have 100 HVY and 103 MND (103 CHA, INT, or WLL) and 6 Proficiency you will achieve a total damage of 41 + [6.16 BLD](Status_Effects.md#bleed).

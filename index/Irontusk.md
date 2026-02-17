@@ -1,6 +1,6 @@
 ---
 title: Irontusk
-revid: 195130
+revid: 196713
 source: https://deepwoken.fandom.com/wiki/Irontusk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Echoes]
@@ -53,5 +53,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   At max MED the damage is (20.2)
 -   One of two spears to have no requirement, the other being the [Iron Spear](Iron_Spear.md).

@@ -1,6 +1,6 @@
 ---
 title: Kyrsedge
-revid: 183095
+revid: 196771
 source: https://deepwoken.fandom.com/wiki/Kyrsedge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Daggers, Light Weapons]
@@ -47,6 +47,3 @@ Kyrsedge uses the default Dagger critical, a series of 3 quick slashes. The firs
 ## Trivia
 
 -   A part of the Kyrs series (**Kyrsedge**, [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), [Kyrsieger](Kyrsieger.md))
--   Seems to be paired with Kyrstear.
--   Meeting the requirement of LHT, the damage is (19.2)
--   At max LHT, the damage is (21.3)

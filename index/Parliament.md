@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 192103
+revid: 196513
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -10,7 +10,7 @@ categories: [Monsters, Bosses, The Vat Exclusive]
 
 | Parliament | |
 |---|---|
-| health | 20,000 |
+| health | 15,000? |
 | attacks | Talon Swipe, Strong Swipe, Shade Cloak, Curb Stomp, Feather Coat, Owl Dash, Overhead Grab, Flock of Feathers |
 | drops | Void Feather, Nightbringer Enchant Stone |
 | locations | The Vat |

@@ -1,6 +1,6 @@
 ---
 title: Ritual Sacrifice
-revid: 193075
+revid: 196717
 source: https://deepwoken.fandom.com/wiki/Ritual_Sacrifice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Spears, Medium Weapons, Named Weapons, Weapons with Talents]
@@ -62,8 +62,3 @@ Equipping the Ritual Sacrifice grants its unique [weapon Talent](Talents.md#weap
 Ritual Sacrifice uses the default Spear critical, a horizontal swing followed by a forward thrust. It has a scaled damage multiplier of **1x** and a cooldown of **5 seconds**. Both hits deal **5** posture damage.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
-
-## Trivia
-
--   Meeting the requirement of MED, the damage is (21.5)
--   At max MED, the damage is (26.1)

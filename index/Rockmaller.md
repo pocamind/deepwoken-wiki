@@ -1,6 +1,6 @@
 ---
 title: Rockmaller
-revid: 182757
+revid: 196779
 source: https://deepwoken.fandom.com/wiki/Rockmaller
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons, Weapons with multiple Criticals]
@@ -37,7 +37,7 @@ categories: [Weapons, Greathammers, Weapons with Unique Criticals, Heavy Weapons
 
 The Rockmaller is a mid-late game Greathammer with a unique critical, found in Miner's Landing. It appears to be a piece of rock roughly tied to a handle with fiber.
 
-It can be found by completing the [Security Detail job](Job_Boards.md) at [Summer Isle](Summer_Isle.md) and finding it in the chest that spawns upon completion
+It can be found by completing the [Security Detail job](Job_Boards.md) at [Summer Isle](Summer_Isle.md) and finding it in the chest that spawns upon completion.
 
 ## Critical
 
@@ -49,6 +49,6 @@ Both criticals have a cooldown of **10 seconds**.
 
 ## Trivia
 
--   Both criticals are able to cover a moderate distance, making it viable for mobility.
+-   Both of the weapon criticals are able to cover a moderate distance, making it viable for mobility.
 -   The aerial critical has a maximum airtime of 1 second before forcing the critical to end.
--   Before November 23rd 2024, this weapon had more base damage than the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 29.
+-   Before November 23rd, 2024, this weapon had more base damage than the [Hivelord's Hubris](<Hivelord's_Hubris.md>) at 29.

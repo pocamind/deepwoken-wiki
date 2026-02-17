@@ -1,6 +1,6 @@
 ---
 title: The Golden Fool
-revid: 195257
+revid: 196494
 source: https://deepwoken.fandom.com/wiki/The_Golden_Fool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -34,8 +34,8 @@ categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Lig
 Variants: [Fool's Tankard](<Fool's_Tankard.md>)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
-For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

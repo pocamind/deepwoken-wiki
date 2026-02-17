@@ -1,6 +1,6 @@
 ---
 title: Mace
-revid: 195132
+revid: 196751
 source: https://deepwoken.fandom.com/wiki/Mace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Clubs, Medium Weapons]
@@ -45,8 +45,6 @@ Mace uses the default Club critical, an overhead swing. It has a scaled damage m
 
 ## Trivia
 
--   Meeting the requirement of MED, the damage is (20.8)
--   At max MED, the damage is (27.5)
 -   Obviously superior compared to the [Messer](Messer.md).
 -   Good for fighting [Rock Golems](Rock_Golem.md) early on due to their lack of blunt damage resistance.
 -   The old swing animations for this and the [Sacred Hammer](Sacred_Hammer.md) seem to reuse some of the old Sword animations from Deepwoken testing (around mid-late 2020).

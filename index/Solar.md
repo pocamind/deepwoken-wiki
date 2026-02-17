@@ -1,6 +1,6 @@
 ---
 title: Solar
-revid: 195558
+revid: 196547
 source: https://deepwoken.fandom.com/wiki/Solar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -24,7 +24,7 @@ Solar is a debuffing enchantment that reduces Ether regeneration, Tempo gain, an
 
 Upon landing an uppercut, flourish, or critical attack, Solar applies the [Solar Mark](Status_Effects.md#solar-mark) status effect to your opponent for 8 seconds, reducing their passive Ether regeneration and Tempo gain.
 
-If you land a [Vent](Combat_Mechanics.md#tempo) on someone who has a Solar Mark, the Mark will be removed and their Tempo will be drained to pay for your Vent. If your opponent cannot afford your Vent's Tempo cost, you will still have to pay for the difference.
+If you land a [Vent](Combat_Mechanics.md#tempo) on someone who has a Solar Mark, the Mark will be removed and their Tempo will be drained to pay for your Vent. If your opponent cannot afford your Vent's Tempo cost, you will still have to pay for the difference. If that enemy is a PvE enemy, deal increased Vent damage instead.
 
 ### Notes
 

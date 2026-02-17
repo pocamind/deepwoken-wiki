@@ -1,6 +1,6 @@
 ---
 title: Forge Greathammer
-revid: 193882
+revid: 196749
 source: https://deepwoken.fandom.com/wiki/Forge_Greathammer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Greathammers, Weapons with Unique Criticals, Alloyed Weapons, Heavy Weapons]
@@ -45,8 +45,3 @@ The user reels the greathammer back before performing a sideways swing that knoc
 The critical has a cooldown of **6 seconds**.
 
 You cannot rotate your character during this critical.
-
-## Trivia
-
--   Meeting the requirement of HVY, the damage is 31.9/37
--   At max HVY, the damage is 38.4/40.8

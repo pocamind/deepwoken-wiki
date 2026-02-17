@@ -1,6 +1,6 @@
 ---
 title: Steel Maul
-revid: 195134
+revid: 196747
 source: https://deepwoken.fandom.com/wiki/Steel_Maul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greathammers, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -55,10 +55,3 @@ Assuming all of your Pressure Blast hits hit your opponent's block, they will ta
 ## Critical
 
 Steel Maul uses the default Greathammer critical, an overhead swing. It has a scaled damage multiplier of **1x** and a cooldown of **3 seconds**. Grants [Hyperarmor](Status_Effects.md#hyperarmor) for the first 1 second of the attack's windup, ending just before your weapon comes down. On hit, it applies [Knockdown](Status_Effects.md#knockdown) and will insta-guardbreak opponents who attempt to block it.
-
-## Trivia
-
--   Typically used as a starter Greathammer when unalloyed.
--   Generally regarded as a bad weapon when not alloyed.
--   Meeting the requirements, the damage is (24.3/34.8)
--   At max HVY, damage is (33.6/38.4)

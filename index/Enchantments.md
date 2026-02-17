@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 195716
+revid: 196796
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -187,7 +187,8 @@ _Chill for foes. Applies Bottom Freeze once enough stacks have been applied._
 **Effect:**
 
 M1s apply a second instance of Frostdraw damage that deals 4% of the scaled damage of attack that procced it. Alternatively, apply Crystals on M1 if you have the Crystallization path.  
-After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply [Bottom Freeze](Status_Effects.md#bottom-freeze) and [Chill](Status_Effects.md#chill) for 2 seconds. This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 5 second cooldown.
+After hitting a target (LHT: 5, MED: 4, HVY: 3) times, apply [Bottom Freeze](Status_Effects.md#bottom-freeze) and [Chill](Status_Effects.md#chill) for 2 seconds. This also increases Chilling's secondary Frostdraw damage instance to 10% of your scaled damage, on that hit. 5 second cooldown.  
+If the target is a PvE enemy, additionally apply [Sluggish](Status_Effects.md#sluggish), reducing their damage to you for the duration of the slow.
 
 Chilling's damage does not benefit from damage modifiers. Chilling stacks can also be gained from critical attacks if they have the M1 tag.
 
@@ -318,6 +319,8 @@ _Opponents are pulled towards you on hit._
 
 On M1, inflict [Tethered](Status_Effects.md#tethered), causing a pink string connecting the weapon and your target to appear, pulling the target towards you.
 
+Tethered PvE enemies will deal reduced damage to you, scaling on how far away from you they are.
+
 Also procs on criticals with the M1 tag.
 
 **Obtainment:**
@@ -447,6 +450,8 @@ _Obscures your opponent's health, posture, and armor bars._
 Inflicts [Harrowing](Status_Effects.md#harrowing) on M1, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, hiding how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages.
 
 This effect lasts for 12 seconds and is refreshed upon landing another hit.
+
+In PvE, your M1s apply [Confusion](Status_Effects.md#confusion), making your opponent have a chance to hit themselves instead whenever they attack you.
 
 Harrowing also procs on criticals with the M1 tag.
 
@@ -691,6 +696,8 @@ _Hitting a player infects their body with Parasol's Blight. If a player who is i
 
 On weapon attack, apply the Parasol Blight status effect. This effect has no visual indicator and lasts for 60 seconds. This status effect will have its duration refreshed when landing subsequent hits. If a player who is affected by Parasol's Blight dies, their corpse will explode and an allied monster will spawn.
 
+Monsters you kill have a small chance of proccing Parasol's Blight and summoning allied monsters.
+
 The monster can be a [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Void Thresher](Thresher.md), [Nautilodaunt](Nautilodaunt.md), or a [Prime Megalodaunt](Prime_Megalodaunt.md). These monsters can be [Corrupted](Monsters.md#scyphozia) if used in [The Depths](The_Depths.md).
 
 **This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
@@ -811,6 +818,8 @@ _Applies a Solar Mark on critical attack or flourish. Solar Marks last 8s and re
 Applies a [Solar Mark](Status_Effects.md#solar-mark) on Critical, Uppercut, or Flourish. Solar Marks last 8 seconds and reduces the affected target's Tempo gain and Ether regeneration.
 
 If you hit a marked enemy with a [Vent](Combat_Mechanics.md#tempo), steal their Tempo to refund your Vent's Tempo cost, removing the Solar Mark. If your opponent does not have enough Tempo to afford your Vent cost, you will pay the difference with your own Tempo.
+
+If a PvE enemy has the Solar Mark, your Vent damage against them is massively increased.
 
 **Obtainment:**
 
@@ -1406,6 +1415,8 @@ For the duration of the status effect, the target is under a 40% Anti-Heal effec
 
 Your healthbar is permanently stained while the enchant is equipped, making all deaths send you to [the Depths](The_Depths.md). Getting hit will extend the duration of your stained health bar by 60 seconds, remaining stained for a duration even if you swap weapons.
 
+In PvE, your weapon attacks apply [Ether Sunder](Status_Effects.md#ether-sunder) for 10 seconds, granting 30% elemental damage reduction against their attacks.
+
 **This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
 
 **Obtainment:**
@@ -1832,6 +1843,8 @@ _Incoming hits may produce a Stench Cloud, gradually draining 3% of their maximu
 Upon taking damage, this has a 20% chance to proc. On proc, release a cloud of blockable gas that deals damage to targets who stand in it.
 
 This deals 1% of your opponent's maximum health per tick, ticking 3 times for 3% total damage. Stench cannot deal more than 10 damage in a singular tick.
+
+This has a 40 second cooldown.
 
 **Obtainment:**
 

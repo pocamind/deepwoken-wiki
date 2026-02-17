@@ -1,6 +1,6 @@
 ---
 title: Aspects
-revid: 191799
+revid: 196538
 source: https://deepwoken.fandom.com/wiki/Aspects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Aspects, Character, Mechanics, Creation]
@@ -16,9 +16,9 @@ categories: [Aspects, Character, Mechanics, Creation]
 
 **Aspects** in _Deepwoken_ are human subcategories that each have unique physical traits and innate abilities that are taken from various animals (with some exceptions). They are randomly selected when first created and can be rerolled for **150** [Robux](https://roblox.fandom.com/wiki/Robux). _Rerolling an Aspect will give you the option between keeping your new current aspect or switching back to the previous one. This option is available until you finish creating the character or log off the character creation menu._
 
-All 13 rollable aspects have their own individual [Innate Talent Card](Talents.md#innate-28racial-talents29) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
+All 13 rollable aspects have their own individual [Innate Talent Card](Talents.md#innate)(s) and [Attribute](Attributes.md) bonuses, which scarcely improve your character.
 
--   While +3 or +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this bonus into a given stat may be the key to making that build attainable.
+-   While +3 or +2 into a given stat might not seem impressive, in certain builds where you need _as many stat points as possible_, this bonus into a given stat may be the key to making that build attainable. The innate stats do not allow you to bypass the 100 attribute cap however.
 
 The hairstyle of your in-game character is reflected by that of your Roblox avatar, with your aspect's hair color being covered by the variant of your aspect.
 
@@ -101,3 +101,4 @@ These aspects are currently exclusive to NPCs and are **UNOBTAINABLE** by curren
     -   Tied for the most common attribute is Agility, granted by five aspects: Chrysid, Etrean, Felinor, Khan, and Tiran.
     -   Four aspects grant Intelligence (Capra, Celtor, Etrean, Ganymede), four grant Willpower (Adret, Capra, Ganymede, Vesperian) and three aspects grant Strength (Canor, Gremor, Khan).
     -   The least common is Fortitude, only granted by Vesperian and Gremor.
+-   The innate stats given by your attribute used to be able to bypass the attribute cap, allowing for 102 or 103 in certain core attributes. This was removed on the February 16th, 2026 update.

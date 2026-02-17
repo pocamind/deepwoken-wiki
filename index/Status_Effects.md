@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 194712
+revid: 196564
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -103,7 +103,7 @@ Disallows healing by a percentage from **any** source while active and completel
 
 #### Pestilence
 
-While active, suffer from 50% Anti-Heal for 5 seconds, halving all incoming healing. This effect can be applied through being hit by a basic attack with someone who has a [Ring of Pestilence](Equipment.md#rings) equipped. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a light yellow smoke on your character.
+While active, suffer from 50% Anti-Heal for 10 seconds, halving all incoming healing. This effect can be applied through being hit by a basic attack with someone who has a [Ring of Pestilence](Equipment.md#rings) equipped. This does not stack with any other source of Anti-Heal, as the higher potency Anti-Heal will take priority. Signified by a light yellow smoke on your character.
 
 #### Broodlord Rot
 

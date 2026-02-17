@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 194754
+revid: 196544
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -35,7 +35,7 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
 
 ## Repairing your Outfit
 
-The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health. When your Outfit reaches zero durability, it will not be destroyed but it will no longer grant its defensive bonus until it is repaired. The most common and effective way to repair an outfit is at a [Blacksmith](Blacksmith.md). This will cost Notes, ranging from 1 to 35 notes depending on how low the durability is. However, Armor can also be repaired through 2 Talents (Bloodiron Spirit and Thresher Scales), the Bloodiron Ring or with the Metal [enchantment](Enchantments.md). Armor can also be repaired through the use of Repair Kits. Repair Kits can be crafted at any crafting table using 3 Wood and 5 Iron and can be placed down and used anywhere. They give back about 2000 of an armor's durability.
+The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health. When your Outfit reaches zero durability, it will not be destroyed but it will no longer grant its defensive bonus until it is repaired. The most common and effective way to repair an outfit is at a [Blacksmith](Blacksmith.md). However, Armor can also be repaired through the Talents Bloodiron Spirit and Thresher Scales, the Bloodiron Ring, or with the Metal [enchantment](Enchantments.md). Armor can also be repaired through the use of Repair Kits. Repair Kits can be crafted at any crafting table using 3 Wood and 5 Iron and can be placed down and used anywhere. They give back about 2000 of an armor's durability.
 
 ## Outfits
 

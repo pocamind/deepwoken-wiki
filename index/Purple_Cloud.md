@@ -1,6 +1,6 @@
 ---
 title: Purple Cloud
-revid: 195148
+revid: 196708
 source: https://deepwoken.fandom.com/wiki/Purple_Cloud
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Weapons with Unique Animations, Medium Weapons]
@@ -49,8 +49,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the requirement of MED, the weapon deals 26 damage.
--   At max MED, the weapon deals 27.6 damage.
 -   Despite being considered a katana, the [Poser's Ring](<Poser's_Ring.md>) doesn't work with it.
     -   This is because the Purple Cloud is sheathed most of the time, and when it is unsheathed for the critical, the blade is put right back in its place, so it would just deal delayed critical damage
     -   The other weapons that possess scabbards are the [Katana](Katana.md), [Shattered Katana](Shattered_Katana.md), and the [Bloodfouler](Bloodfouler.md)
@@ -59,4 +57,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
     -   This involves quickly drawing and sheathing the sword in order to attack or defend.
 -   Despite this weapon looking as if it is a light weapon (using your fists and legs instead of the blade), it keeps the stats of a medium with the average damage, attack speed and slightly below average range as what you would expect from a medium weapon.
 -   It can only be used one-handed.
--   Visionshaper clones wield the weapon unsheathed.
+-   Clones wield the weapon unsheathed.

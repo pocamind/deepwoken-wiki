@@ -1,6 +1,6 @@
 ---
 title: Legion Helmet
-revid: 180716
+revid: 196585
 source: https://deepwoken.fandom.com/wiki/Legion_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -28,7 +28,7 @@ categories: [Equipment, Head, Helmets]
 
 ## Description
 
-The Khan Helmet is an [Equipment](Equipment.md) item under the "Head" category.
+The Legion Helmet is an [Equipment](Equipment.md) item under the "Head" category.
 
 ## Trivia
 

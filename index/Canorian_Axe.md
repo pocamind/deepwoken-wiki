@@ -1,6 +1,6 @@
 ---
 title: Canorian Axe
-revid: 193490
+revid: 196674
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
@@ -48,8 +48,4 @@ Canorian Axe uses the default Greataxe critical, an overhead swing. It has a sca
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of HVY, the damage is (28.4)
-    -   Meeting the alloyed requirement, the damage is (36.2)
--   At max HVY, the non-alloyed damage is (36.6)
-    -   At max HVY, the alloyed damage is (40.2)
 -   The alloyed version barely has any visual differences; you would have to practically have your camera inside the weapon to see the alloyed texture.

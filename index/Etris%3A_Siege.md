@@ -1,9 +1,9 @@
 ---
 title: "Etris: Siege"
-revid: 187977
+revid: 196502
 source: https://deepwoken.fandom.com/wiki/Etris%3A_Siege
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Random Encounters, Etrea, World Event]
+categories: [Random Encounters, Etrea, Disaster]
 ---
 
 # Etris: Siege

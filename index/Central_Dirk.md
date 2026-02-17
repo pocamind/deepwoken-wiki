@@ -1,6 +1,6 @@
 ---
 title: Central Dirk
-revid: 183101
+revid: 196609
 source: https://deepwoken.fandom.com/wiki/Central_Dirk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, "Weapons with Multi-Hit Criticals", Daggers, Drops, Light Weapons]
@@ -48,6 +48,3 @@ Central Dirk uses the default Dagger critical, a series of 3 quick slashes. The 
 
 -   The design is somewhat reminiscent of the [Inquisitor's Straight Sword](<Inquisitor's_Greatsword.md>).
     -   The name further reinforces that it may originate from the Central Luminant.
--   Meeting the requirement of LHT, the damage is (18.9)
--   At max LHT, the damage is (22.9)
--   If you have 100 attribute points invested into LHT, you will achieve a total damage of 25.9

@@ -1,6 +1,6 @@
 ---
 title: Skyreap Blade
-revid: 195228
+revid: 196685
 source: https://deepwoken.fandom.com/wiki/Skyreap_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Greataxes, Event Item, Hallowtide, Heavy Weapons]
@@ -36,7 +36,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Unique Animati
 
 ## Description
 
-The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greataxe category. It is the second fastest Greataxe type weapons in the game, bridging the gap between Medium and Heavy Weapons like Rapiers bridge the gap between Light and Medium weapons. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell.
+The Skyreap Blade is a [Heavy Weapon](Weapons.md) in the Greatax. It has unique M1 animations alongside the unique grip effect exclusive to the Hallowtide weapons. It has a unique execute sound effect that resembles taco bell.
 
 ## Critical
 
@@ -52,7 +52,4 @@ This critical will end early if any hit is parried or if the first hit whiffs en
 
 -   Mentions the "Edenkite" in the description, which is a species referenced in the book Lumen's Folklore: Volume 'North' that existed in the cold, desolate, Northern Luminant.
 -   Skyreap Blade is the first [Hallowtide](Hallowtide.md) '22 weapon to get a unique critical, with it's critical releasing over two years after the weapon's initial release.
--   Meeting the requirement of HVY, the damage is (32.1)
--   At max HVY, the damage is (35.1)
 -   Skyreap Blade was previously the only weapon that had a unique running attack animation until the [Imperial Staff](Imperial_Staff.md) was added.
--   The third fastest swinging heavy weapon in the game, second being the [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and the first being the [Quartztone Pickaxe](Quartztone_Pickaxe.md).

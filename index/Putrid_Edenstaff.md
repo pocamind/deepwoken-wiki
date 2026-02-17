@@ -1,6 +1,6 @@
 ---
 title: Putrid Edenstaff
-revid: 195594
+revid: 196774
 source: https://deepwoken.fandom.com/wiki/Putrid_Edenstaff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Weapons with Unique Criticals, Event Item, "Weapons with Multi-Hit Criticals", Hallowtide, Heavy Weapons, Weapons with Unique Animations]
@@ -46,10 +46,11 @@ The critical has a cooldown of **8 seconds**.
 
 ## Trivia
 
--   This weapon was teased on the Deepwoken Twitter, within the post where they announced 2023 Hallowtide's release date.
+-   This weapon was teased on the Deepwoken Twitter, within the post where they announced 2023 Hallowtide's release date. It can be seen in the bottom left corner[\[1\]](#cite-note-1)
 -   The Orbs are able to knockback players if they get hit.
 -   When a player or any NPC is gripped by one of the other Hallowtide weapons, the majority of them will cause a grave to appear and emit a Taco Bell bell sound. The grave will have the gripped person's name on it, if NPC, then it just says "RIP".
 -   This weapon has a Unique idle animation when held 1-handed. This was the first of 2 weapons to use this animation, with the other being the [Pale Briar](Pale_Briar.md).
--   Meeting the requirement of HVY, the damage is (37)
--   At max HVY, the damage is (40.9)
--   This weapon is the only greathammer that doesn't have a strength requirement.
+
+## References
+
+1.  [↑](#cite-ref-1) [https://x.com/Deepwoken/status/1715074974115827859](https://x.com/Deepwoken/status/1715074974115827859)

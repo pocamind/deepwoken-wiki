@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 191291
+revid: 196627
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Light Weapons, Weapons with multiple Criticals]
@@ -55,6 +55,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   Cerulean refers to a deep blue color, referencing this weapon's shade.
 -   This is the only instance of a weapon where the critical's cooldown changes.
 -   The Cerulean Thread's initial critical uses the same animation as the [Whaling Knife](Whaling_Knife.md) critical.
--   Meeting the requirement of LHT, the damage is (22.2).
--   At max LHT, the damage is (23.4).
--   The second half of the Cerulean Thread critical was temporarily bugged, but this was fixed in the 06/14/2024 update.

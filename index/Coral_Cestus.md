@@ -1,6 +1,6 @@
 ---
 title: Coral Cestus
-revid: 195259
+revid: 196639
 source: https://deepwoken.fandom.com/wiki/Coral_Cestus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Weapons with Unique Criticals, Alloyed Weapons, Fists, Light Weapons]
@@ -48,8 +48,6 @@ The critical has a cooldown of **6 seconds**.
 
 ## Trivia
 
--   Meeting the requirement of LHT, the damage is (19 / 24.4)
--   At max LHT, the damage is (24 / 26)
 -   Coral Cestus originally had higher stats and a light weapon requirement of 75, but the stats and requirements were reduced when it received an alloyed variant.
 -   The critical is based off of the Mudskipper Brute/Broodlord's smash attacks.
 -   The critical did not work with Legion Kata on release, making the special critical exclusive to Way of Navae. This was fixed soon after the weapon was added.

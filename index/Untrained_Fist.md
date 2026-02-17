@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 190292
+revid: 196801
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -13,20 +13,22 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 | type | Light Weapon |
 | damage type | Blunt |
 | requirements | N/A |
-| damage | 15 |
-| scaling | ? |
-| posture damage | ? |
-| range | ? |
-| swing speed | ? |
+| damage | 12 |
+| scaling | LHT: 7 |
+| posture damage | 3 |
+| range | 6 Sweep |
+| swing speed | 1.13x |
+| attack duration | 0.5s |
 | m.equip | No |
 | m.extract | No |
 | rarity | N/A |
 | weight | 2 |
 | bankable | No |
 | droppable | No |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | No |
 | obtainment | Equip any Cestus or Markor's Inheritor while not having a Fist style Talent. |
+| description | Your bare fists. Worth a shot, right? |
 
 ## Description
 

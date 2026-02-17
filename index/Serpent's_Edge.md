@@ -1,6 +1,6 @@
 ---
 title: "Serpent's Edge"
-revid: 195680
+revid: 196698
 source: https://deepwoken.fandom.com/wiki/Serpent's_Edge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals"]
@@ -51,9 +51,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   At max MED Weapons, the Serpent's Edge is better than the [Shattered Katana](Shattered_Katana.md) in terms of damage. It also has 5% penetration.
 -   The critical can be used in water as a method of escape due to its movement.
--   At 75 MED, the Serpent's Edge does 29.4 damage. At 100 MED, the Serpent's Edge does 31.9 damage.
 -   Possibly a reference to the [Flamberge](https://darksouls.wiki.fextralife.com/Flamberge) from Dark Souls.
     -   The Flamberge is also a [real weapon](https://en.wikipedia.org/wiki/Flamberge).
 -   Also could be a reference to [Iguro Obanai's](https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro) [nichirin blade](https://kimetsu-no-yaiba.fandom.com/wiki/Nichirin_Sword) from [Demon Slayer](https://kimetsu-no-yaiba.fandom.com/wiki/Kimetsu_no_Yaiba_Wiki).

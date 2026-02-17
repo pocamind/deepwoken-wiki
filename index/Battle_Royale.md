@@ -1,16 +1,14 @@
 ---
 title: Battle Royale
-revid: 195271
+revid: 196510
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [StubPages, Game Modes]
+categories: [StubPages, World Event]
 ---
 
 # Battle Royale
 
-**Battle Royale** is a [weekends only](Doubled_Rates_Weekends.md) gamemode that takes place on [Kingmaker's Isle](<Kingmaker's_Isle.md>) in the [Open Sea](Open_Sea.md). Players spawn with nothing but the bare essentials and must jump off from [The Floating Keep](The_Floating_Keep.md) into [Kingmaker's Isle](<Kingmaker's_Isle.md>) to gather loot, [Talents](Talents.md), [Mantras](Mantras.md) and more to fight their way through the rest to be the last person standing.
-
-There are no rewards or punishments in the Battle Royale mode.
+**Battle Royale** is a [World Event](World_Events.md) that takes place on [Kingmaker's Isle](<Kingmaker's_Isle.md>) in the [Open Sea](Open_Sea.md). Players spawn with nothing but the bare essentials and must jump off from [The Floating Keep](The_Floating_Keep.md) into [Kingmaker's Isle](<Kingmaker's_Isle.md>) to gather loot, [Talents](Talents.md), [Mantras](Mantras.md) and more to fight their way through the rest to be the last person standing.
 
 ## Mechanics
 

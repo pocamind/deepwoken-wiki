@@ -1,6 +1,6 @@
 ---
 title: Character Creation
-revid: 196032
+revid: 196541
 source: https://deepwoken.fandom.com/wiki/Character_Creation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Attributes, Mechanics]
@@ -14,7 +14,7 @@ Character Creation screen
 
 ## Aspects
 
-The world of Deepwoken presents many [aspects](Aspects.md), with each one of them having its own [lore](Lore.md) and origin. As a player, you start on each character slots with a random aspect assigned to you by the game automatically. If you want to change your aspect, you may re-roll it by buying an in-game service for 150 Robux (R$).
+The world of Deepwoken presents many [Aspects](Aspects.md), with each one of them having its own [Lore](Lore.md) and origin. As a player, you start on each character slots with a random aspect assigned to you by the game automatically. If you want to change your aspect, you may re-roll it by buying an in-game service for 150 [Robux](https://roblox.fandom.com/wiki/Robux).
 
 Unlike in other games, aspects do not give a player major advantage over other players. However, some aspects do have special abilities related to the lore of the specific aspect. For instance, [Boats](Ships_&_Sailing.md) belonging to members of the [Celtor](Celtor.md) aspect gain +10% health, +20% turning speed, and a 20% discount at the Shipwright.
 

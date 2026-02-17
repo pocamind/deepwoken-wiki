@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 195120
+revid: 196649
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, The Ignition Union, Weapons with multiple Criticals]
@@ -38,8 +38,6 @@ The Iron Requiem is a [Legendary](https://deepwoken.fandom.com/wiki/Category:Leg
 
 The Iron Requiem has a [Bullet](Bullet_Casings.md) capacity of 6, meaning you get a little over one full string of M1 attacks and 6 Ranged critical attacks.
 
-Meeting requirement for this weapon gives you 29.3 dmg with 0 prof
-
 Critical has 42 base dmg with 5 ironsing scale, 0.4s windup, 14 posture per hit.
 
 Running critical has 12 base dmg per hit, 5 ironsing scale, 0.55s windup, 1.5 posture per hit.
@@ -54,7 +52,6 @@ For the **running critical**, whip around wildly and continuously fire the pisto
 
 ## Trivia
 
--   On release it had the exact same scaling as the [Ignition Deepcrusher](Ignition_Deepcrusher.md), being 4 MTL and 3 MED.
 -   The description previously had "print(4\*1) Reverse-engineered..." in it.
 -   The Ironsing icon is engraved on both sides of the gun.
 -   Along with the [Divine Flintlock](Crazy_Slots.md#light) and [Rosen's Roscoe](<Rosen's_Roscoe.md>), these are the only three pistols in the game to play a unique sound effect on M1/crit.

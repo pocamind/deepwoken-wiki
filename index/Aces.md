@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 193352
+revid: 196570
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Skills, Talents]

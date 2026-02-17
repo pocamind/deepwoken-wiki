@@ -1,9 +1,9 @@
 ---
 title: "Fool's Tankard"
-revid: 195255
+revid: 196493
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Daggers, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
 ---
 
 # Fool's Tankard
@@ -31,10 +31,6 @@ categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Daggers, Ligh
 | pass down | Yes |
 | obtainment | Fabantou at The Three Cheers for 50 |
 | description | You've truly lost it. |
-
-**[Pathfinder](Pathfinder.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
-For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 

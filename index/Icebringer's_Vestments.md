@@ -1,6 +1,6 @@
 ---
 title: "Icebringer's Vestments"
-revid: 195139
+revid: 196495
 source: https://deepwoken.fandom.com/wiki/Icebringer's_Vestments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, World Event]
@@ -40,7 +40,7 @@ This Outfit isn't droppable but it is bankable.
 
 ### _Armor Stats_
 
-This Outfit has 2600 resistance, +30% Elemental resistance, +25% Ice resistance and +75% Ether Regen. Additionally, it provides the [Refreeze](Talents.md#refreeze) and [Orbital Ice](Talents.md#orbital-ice) Talents.
+This Outfit has 2600 durability and grants 25% Physical resistance, +30% Elemental resistance, +25% Ice resistance, and +75% Ether Regen. Additionally, it provides the [Refreeze](Talents.md#refreeze) and [Orbital Ice](Talents.md#orbital-ice) Talents.
 
 -   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 25% Physical, 47.5% Frostdraw and 30% Elemental. Adding Orbital Ice from the Outfit Talent brings the Physical resistance up to 36.25%.
 

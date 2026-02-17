@@ -1,6 +1,6 @@
 ---
 title: "Inquisitor's Greatsword"
-revid: 195232
+revid: 196745
 source: https://deepwoken.fandom.com/wiki/Inquisitor's_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greatswords, Heavy Weapons, Weapons with Talents, The Central Authority]
@@ -60,6 +60,4 @@ Inquisitor's Greatsword uses the default Greatsword critical, an overhead swing.
 
 ## Trivia
 
--   Meeting the requirement of HVY, the damage is (29.4)
--   At max HVY, the damage is (38.1)
--   Used to be called ''Inquisitor's Straight Sword'' but was changed in the November 30th, 2024 update.
+-   Used to be called _Inquisitor's Straight Sword_ but was changed in the November 30th, 2024 update.

@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 195105
+revid: 196637
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -73,5 +73,3 @@ All criticals have a cooldown of **5 seconds**.
 -   Before February 13th, 2023, this weapon wasn't Legendary, and was therefore [enchantable](Enchantments.md).
 -   The [Fang and Coil](Fang_and_Coil.md) running critical from [Jade Vigil's Weave](<Jade_Vigil's_Weave.md>) cannot be used on the Light's Final Toll.
 -   When [Jus Karita](Jus_Karita.md) is equipped on the Light's Final Toll, the first critical will default to the "Way of Navae" critical, being the lantern strike.
--   Meeting the requirement of WLL and LHT, the weapon deals 19 damage, the weapon deals 25.1 damage at 100 WLL and max LHT, and deals 25.3 at 103 WLL and max LHT.
--   The maximum damage that this weapon can reach with with 6 Proficiency, 103 Willpower, 3 star damage and [Akira's Ring](<Akira's_Ring.md>) is 34.

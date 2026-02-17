@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 196252
+revid: 196793
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -126,11 +126,10 @@ Blunt
 
 **Effect:** _User unleashes a powerful left cross that knocks their opponent away, inflicting ragdoll and a good amount of knockback in the process._
 
--   Has a base damage of 20/30/40/50/60 per level with 1.65 Strength scaling.
-    -   69.9 damage at 100 Strength level 5.
+-   Has a base damage of 15/21/27/33/39 per level with 1.65 Strength scaling.
 -   Deals 22/24/26/28/30 posture damage per level.
 -   Has a wind-up of 0.55s, and an endlag of 0.25s (0.35s if whiffed).
--   Can fell trees. With the **[Treefelling Blow](Talents.md#treefelling-blow)** Talent, you can gain wood from fallen trees.
+-   Deals increased damage to trees if you have the [Treefelling Blow](Talents.md#treefelling-blow) Talent.
 -   Can be upgraded with the [Titus's Raiment](<Titus's_Raiment.md>) Outfit Talent, _Overwhelming Might_, allowing it to guard break at level 5.
 
  |
@@ -168,8 +167,7 @@ Blunt
 
 **Effect:** _User launches a flurry of punches that inflicts light damage on their opponent._
 
--   Has a base damage of 10/10.5/11/11.5/12 per level, per hit (10), with 1.65 Strength scaling.
-    -   139.8 damage at 100 Strength level 5 if all hits land.
+-   Has a base damage of 8/8.25/8.5/8.75/9 per level, per hit (10), with 1.65 Strength scaling.
 -   Deals 1 posture damage per hit (10).
 -   Has an initial wind-up of 0.45s with a 0.125s wind-up in between each hit.
 -   The move is cancelled upon getting parried in the initial hit.
@@ -382,7 +380,7 @@ Blunt
 -   The second hit has a base damage of 15/17/19/21/23 per level with 3 Strength scaling.
 -   Has a windup of 0.55s for the grab and a delay of 0.75s before the target is thrown.
 -   Shares a cooldown with all other [grab Mantras](List_of_Grab_Mantras.md).
--   Using this mantra in the air allows you to aim it freely
+-   Using this Mantra in the air allows you to aim it freely.
 
  |
 

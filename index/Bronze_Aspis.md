@@ -1,6 +1,6 @@
 ---
 title: Bronze Aspis
-revid: 189467
+revid: 196645
 source: https://deepwoken.fandom.com/wiki/Bronze_Aspis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Shields, Offhand]
@@ -29,7 +29,3 @@ categories: [Authority Faction Item, Weapons, Shields, Offhand]
 ## Description
 
 Bronze Aspis is a [side weapon](Weapons.md) in the [Shields](Weapons.md#offhand) category. The requirement to wield it is 15 FTD, or the [Authority Ensign](Authority_Ensign.md) [Origin](Origins.md).
-
-## Notes
-
--   The second worst shield in the game, having more weight than [Targe](Targe.md), but less than [Kite Shield](Kite_Shield.md).

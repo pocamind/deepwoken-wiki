@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 195121
+revid: 196664
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
@@ -46,8 +46,6 @@ Repeater uses the default Pistol critical, an empowered shot. It has a scaled da
 
 -   Purchased weapons have to be re-equipped in order to be valid for enchanting, due to them auto equipping on purchase.
 -   If you put an enchanted one in the offhand, it will instead use the effect of the main-hand. If the main-hand is not enchanted, it will not have any effect.
--   Meeting the requirements of LHT, the weapon deals 28.2 damage.
--   At max LHT, the weapon will deal 35.9 damage.
 -   Like all other pistols, Using this with 1 hand grants 2 sets of "M1" attacks and 1 Critical attack only available when reloaded with Z/Y by default
 -   Prior to the update on 06/07/2024, this weapon was called the Revolver, but was changed because it didn't look anything like a revolver.[\[1\]](#cite-note-1)
     -   The gun's model is more accurate to a modified [Lancaster pistol](https://en.wikipedia.org/wiki/Lancaster_pistol).
@@ -55,5 +53,5 @@ Repeater uses the default Pistol critical, an empowered shot. It has a scaled da
 
 ## References
 
-1.  [↑](#cite-ref-1) [https://discord.com/channels/920707638034067486/920709120548544564/1248477216560517223](https://discord.com/channels/920707638034067486/920709120548544564/1248477216560517223)
+1.  [↑](#cite-ref-1) [Version History/2024#June 6th, 2024](Version_History/2024.md#june-6th-2024)
 2.  [↑](#cite-ref-2)

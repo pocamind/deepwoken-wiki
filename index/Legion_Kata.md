@@ -1,6 +1,6 @@
 ---
 title: Legion Kata
-revid: 190092
+revid: 196631
 source: https://deepwoken.fandom.com/wiki/Legion_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Fists, Fighting Styles, Light Weapons, The Hundred Legions]
@@ -58,7 +58,5 @@ Afterwards, once you obtain the recommendation, you must go to [The Viper's Jaw]
 
 ## Trivia
 
--   [Duke Erisia](Duke_Ishamon_Erisia.md) uses this fist style in his boss fight.
 -   The Legion Kata critical attack is a grab, yet it doesn't bypass block. Guardbreaking someone will only daze them, and you won't actually grab them.
 -   It takes roughly two authority grips at the Starswept Valley to obtain the recommendation, assuming you have not previously lost rep with the Legion and that you are not a Khan.
--   With the job update you can get the required reputation for Legion Kata much faster.

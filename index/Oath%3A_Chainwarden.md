@@ -1,6 +1,6 @@
 ---
 title: "Oath: Chainwarden"
-revid: 194966
+revid: 196523
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Chainwarden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Central Authority]
@@ -83,7 +83,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
 -   Obtainment: Obtained after the first _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
 
 -   **Chainlash** - On flourish, whip your chain to seize and yank enemies toward you, setting them up for a crushing kick.
-    -   On flourish, enchain the opponent.
+    -   Upon flourishing a humanoid target, enchain them.
     -   "**The Pull**" is procced by Impel or flourishes, moving targets, but dealing no hitstun or damage.
         -   2 seconds true endlag on flourish.
         -   Also procs off of Emperor Flame and [Razor Blitz](Bloodrend.md#razor-blitz), alongside [Kyrswynter](Kyrswynter.md) and mid-uppercut flourishes.
@@ -98,6 +98,7 @@ As for appearance, it adds a chained gauntlet to your left arm, and a chained be
         -   Using the kick too quickly will have increased endlag, due to the Pull's endlag. (Bug)
         -   Not treated as a mantra or an M1, ignoring Champion's Regalia.
         -   **Movestack**: Using The Kick at the _very last moment_ provides a small movestack with mantras/attacks.
+    -   This does not proc on non-humanoid enemies.
 -   Obtainment: Obtained after the second _Enchained_ [Hunted Player](Reputation.md#reputation-status)/Humanoid Boss grip.
 
 ### Mantras

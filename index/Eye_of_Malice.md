@@ -1,6 +1,6 @@
 ---
 title: Eye of Malice
-revid: 191870
+revid: 196736
 source: https://deepwoken.fandom.com/wiki/Eye_of_Malice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Unique Animations, Swords, World Event, Legendary Weapons, Medium Weapons]
@@ -52,18 +52,3 @@ Feinting during this critical will cancel momentum and allow you to more easily 
 The critical has a cooldown of **6 seconds**.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
-
-## Trivia
-
--   This sword got shadow buffed on December 24th, 2024
-    -   Damage = 19 > 21
-    -   Chip Damage = 10% > 15%
-    -   Medium Scaling = 6 > 8
-    -   Range = 10 > 10.5
-    -   Swingspeed = 1.00x > 0.95x
--   This sword was nerfed on January 4th, 2025.
-    -   Damage = 21 > 20
-    -   Crit damage was reduced
-    -   Range = 10.5 > 9.5
--   This sword was slightly nerfed on February 8th, 2025.
-    -   Medium Scaling = 8 > 7.7

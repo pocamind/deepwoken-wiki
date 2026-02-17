@@ -1,6 +1,6 @@
 ---
 title: Shotel
-revid: 192950
+revid: 196690
 source: https://deepwoken.fandom.com/wiki/Shotel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Alloyed Weapons, Medium Weapons]
@@ -51,8 +51,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of MED, the damage is (25.7)
-    -   Meeting the alloyed requirement, the damage is (29.4)
--   At max MED, the non-alloyed damage is (30.3)
-    -   At max MED, the alloyed damage is (31.9)
 -   The Shotel's grip was originally held the opposite way before it was flipped to reflect its usage in real life, where it was made to strike behind shields due to the curve of the sword.

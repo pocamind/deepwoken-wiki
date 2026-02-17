@@ -1,6 +1,6 @@
 ---
 title: Combat Tag
-revid: 195224
+revid: 196530
 source: https://deepwoken.fandom.com/wiki/Combat_Tag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Mechanics]
@@ -23,6 +23,7 @@ Its main purpose is to punish rage-quitting and leaving during combat.
 
 ### Consequences of entering combat
 
+-   The damage modifier soft cap is reduced from +50% damage to +25%.
 -   Your natural health Regeneration is reduced, as well as healing from [Campfires](Campfire_Pit.md).
 -   Some [Talents](Talents.md) activate upon inflicting a Combat Tag or by being inflicted with one.
     -   Example: [Ready Or Not](Talents.md#ready-or-not) will cut the damage from the first hit you take outside of combat in half.
@@ -60,7 +61,7 @@ This comes with limitations:
 
 -   If you leave the game or disconnect at all, you will die regardless of your HP.
 -   You will no longer be healed by knocking NPCs or killing monsters, only by knocking players.
--   The damage modifier soft cap is reduced from +50% damage to +25%. The damage modifier hard cap is reduced from +75% damage to +50%.
+-   The damage modifier hard cap is reduced from +75% damage to +50%.
 -   You cannot use the [Seafarer's Chime](<Seafarer's_Chime.md>).
 -   If you are above Power 16, the void threshold (% of HP you must be over for falling into the void in the [First Layer](First_Layer.md) resulting in you being sent to the [Second Layer](Second_Layer.md) instead of wiping) will be increased. This scales on your level, being 75% of your maximum HP at Power 20.
     -   Each additional combat tag you gain will reduce the threshold by 5%, down to a minimum of 40% health at 8 combat tags.

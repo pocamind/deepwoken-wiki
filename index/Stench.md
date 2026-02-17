@@ -1,6 +1,6 @@
 ---
 title: Stench
-revid: 195582
+revid: 196794
 source: https://deepwoken.fandom.com/wiki/Stench
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -23,6 +23,8 @@ Stench is an equipment enchantment that creates a damaging area on proc.
 ## Effect
 
 Upon taking damage, Stench has a 20% chance to proc. On proc, create a stench cloud that deals 1% of your opponent's maximum health per tick. This ticks 3 times, totaling to 3% damage dealt.
+
+This has a 40 second cooldown.
 
 ### Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 196019
+revid: 196509
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Game Modes]
@@ -24,9 +24,6 @@ The Chime of Conflict is unusable while in [The Depths](The_Depths.md).
 
 Players using the Chime of Conflict tool will be prompted to select a gamemode:
 
--   **Battle Royale (Solo)** -
--   **Battle Royale (Solo)** -
--   **Battle Royale (Solo)** -
 -   **Chime Solos (1v1)** - The player is instantly taken to the matchmaking queue. 1v1 arena maps are unique from 2v2 and 3v3 maps.
 -   **Chime Duos(2v2)** - A small area is created around the user to let 1 other user join their team before being transported to the matchmaking queue.
 -   **Chime Trios (3v3)** - A small area is created around the user to let 2 other players join their team before being transported to the matchmaking queue.

@@ -1,6 +1,6 @@
 ---
 title: Darksteel Greatsword
-revid: 195269
+revid: 196709
 source: https://deepwoken.fandom.com/wiki/Darksteel_Greatsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, Weapons with Unique Criticals, The Ignition Union, Alloyed Weapons, Heavy Weapons]
@@ -52,10 +52,5 @@ The critical has a cooldown of **5 seconds**.
 ## Trivia
 
 -   This weapon is greatly inspired by _Dark Souls III_; it closely resembles the [Darksword](https://darksouls.wiki.fextralife.com/Darksword), and its critical attack is most likely inspired by that of the [Black Knight Greatsword](https://darksouls.wiki.fextralife.com/Black+Knight+Greatsword) and the Darksword's stomp ability.
--   Just like [Enforcer's Axe](<Enforcer's_Axe.md>), the Darksteel Greatsword critical attack gives a full hyperarmor in the duration of the critical attack. This means that you can use the critical attack to escape combos.
 -   One of the most popular and iconic weapons, even added in the Roblox game _Allusions_ (though only the older version where the critical would have been the normal Greatsword critical).
 -   Often referred to as "DSGS" by the community.
--   Meeting the non-alloyed requirement of HVY, the damage is (31.5)
-    -   Meeting the alloyed requirement, the damage is (37.7)
--   At max HVY, the non-alloyed damage is (39.7)
-    -   At max HVY, the alloyed damage is (41.6)

@@ -1,6 +1,6 @@
 ---
 title: Katana
-revid: 192926
+revid: 196677
 source: https://deepwoken.fandom.com/wiki/Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Alloyed Weapons, Medium Weapons]
@@ -52,11 +52,7 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   Use the Alloyed Katana over the Shattered Katana if you want to keep the normal katana critical when 2 handing.
--   Meeting the non-alloyed requirement of MED, the damage is (20)
-    -   Meeting the alloyed requirement, the damage is (27.9)
--   At max MED, the non-alloyed damage is (26.1)
-    -   At max MED, the alloyed damage is (30.5)
-    -   At max MED, along with paired soul, The non-Alloyed katana has exactly .6 more damage than the alloyed version. Which is funny
+-   With [Paired Soul](Talents.md#paired-soul) and high investment, the non-Alloyed Katana can deal more damage than its Alloyed Counterpart.
 -   It is one of four weapons that comes with a scabbard, the others being the [Shattered Katana](Shattered_Katana.md), [Purple Cloud](Purple_Cloud.md), and the [Bloodfouler](Bloodfouler.md)
 -   [Akira](Akira.md) carries the Katana on his back while it's not in use (and notably, without a sheath) whereas everyone else carries it on their hip.
     -   His katana simply floats behind him. This is canon.

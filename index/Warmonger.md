@@ -1,6 +1,6 @@
 ---
 title: Warmonger
-revid: 185166
+revid: 196776
 source: https://deepwoken.fandom.com/wiki/Warmonger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Named Weapons, Heavy Weapons, Weapons with Talents]
@@ -65,5 +65,3 @@ Warmonger uses the default Greathammer critical, an overhead swing. It has a sca
 ## Trivia
 
 -   It is unclear if the description suggests the weapon is sentient or simply that the previous wielder was of low intelligence.
--   Meeting the requirements, the damage is 28.9.
--   At max HVY, damage is 33.6.

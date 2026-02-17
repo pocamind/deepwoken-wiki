@@ -1,6 +1,6 @@
 ---
 title: Crucible Rapier
-revid: 192714
+revid: 196659
 source: https://deepwoken.fandom.com/wiki/Crucible_Rapier
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons, Weapons with Talents]
@@ -54,7 +54,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the requirement of LHT, the damage is (21.8)
--   At max LHT, the damage is (24)
--   It keeps the same **[Crit](https://deepwoken.fandom.com/wiki/Combat_Mechanics#Combat_Basics)** as any other rapier, dealing 4 hits at a time.
 -   The Crucible Rapier bears a strong resemblance to [Velka's Rapier](https://darksouls.fandom.com/wiki/Velka%27s_Rapier) from the _Dark Souls_ series.

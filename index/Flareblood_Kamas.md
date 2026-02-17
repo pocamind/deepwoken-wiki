@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 189505
+revid: 196562
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -14,7 +14,7 @@ categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weap
 | damage type | Slash |
 | requirements | 60 LHT, 30 INT |
 | damage | 14 + 2.1 BLD |
-| scaling | LHT: 6, INT: 1.5, BLD: 3 |
+| scaling | LHT: 8, INT: 1.5, BLD: 3 |
 | posture damage | 4 |
 | range | 6 Sweep |
 | swing speed | 1.25x |
@@ -57,5 +57,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.
 -   While its damage is high, it is only rivaled by the [Alloyed Whaling Knife](Whaling_Knife.md) and the [Alloyed Tanto](Tanto.md). The Alloyed Tanto is generally a better option to use as your main advantage with this weapon is the blood loss and its critical. It is recommended to use this for bossraiding with a dagger, however there are other daggers that may generally be a better option for other fights.
 -   Shares the same M1s as the [Curved Blade of Winds](Curved_Blade_of_Winds.md) when using two hands.
 -   There is a reskin of this weapon called the [Moon Blades](Moon_Blades.md), which belongs to both Supaa and Valekis since they won the first Deepwoken [Battle Royale](Battle_Royale.md) tournament.
--   Meeting the requirement of LHT and INT, the weapon deals 18.25 + [**2.74 BLD**](Status_Effects.md#bleed) damage. At 100 LHT and INT the weapon deals 21.88 + [**3.28 BLD**](Status_Effects.md#bleed) damage.
-    -   If you have 100 attribute points invested into LHT, INT, BLD and 6 proficiency you will achieve a total damage of 29.32 + [**4 BLD**](Status_Effects.md#bleed).

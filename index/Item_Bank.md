@@ -1,6 +1,6 @@
 ---
 title: Item Bank
-revid: 174586
+revid: 196536
 source: https://deepwoken.fandom.com/wiki/Item_Bank
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -55,9 +55,8 @@ Unlocking every slot in the Item Bank costs 411,000.
 
 Along with this ability comes several limitations, being that certain items of significance are treated differently or have requirements to be stored in the bank.
 
--   When storing any items that are not droppable, such as most [Relics](Relics.md), Rare [Monster Parts](Monster_Mantras.md), **Soul-bounded** [weapons](Weapons.md) or [equipment](Equipment.md), or [Hallowtide](Hallowtide.md) exclusive items, you will be prompted to spend 1 [Knowledge](Knowledge.md) to perform a "Vow of Safekeeping" to bank the item.
+-   When storing any items rare items such as most [Relics](Relics.md), [Monster Parts](Monster_Mantras.md), **Soul-bounded** [weapons](Weapons.md) or [equipment](Equipment.md), or [Hallowtide](Hallowtide.md) exclusive items, you will be prompted to spend 1 [Knowledge](Knowledge.md) to withdraw the item.
     -   Some Unique or Legendary tier items will require a Vow of Safekeeping to be banked, even if it hasn't been soulbound.
--   When storing any eligible [Relics](Relics.md), each individual Relic will have to be deposited one at a time, however will stack in the bank.
 -   When storing weapons or equipment items, they will take up their own slot and cannot stack like regular items do.
 -   Starter weapons obtained from [Echoes](Echoes.md) cannot be banked unless they are [enchanted](Enchantments.md).
 -   You can have a max of 100,000 Notes in your bank account at a time.

@@ -1,6 +1,6 @@
 ---
 title: Rifle Spear
-revid: 189708
+revid: 196748
 source: https://deepwoken.fandom.com/wiki/Rifle_Spear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Spears, Rifles, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -48,8 +48,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the requirement of MED, the damage is (29.3).
--   At max MED, the damage is (32).
 -   The Rifle Spear is one of two weapons, the other being [Wyrmtooth](Wyrmtooth.md), to fall into two different weapon classes.
 -   This weapon is a direct reference to the famed Rifle Spear in the game _Bloodborne_, with the original model being a direct copy.
 -   The [Moonseye Scalpel](Moonseye_Scalpel.md) is an almost direct copy of this weapon except for the fact that is has a different name and description.

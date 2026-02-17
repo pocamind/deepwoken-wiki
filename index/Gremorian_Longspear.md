@@ -1,6 +1,6 @@
 ---
 title: Gremorian Longspear
-revid: 189075
+revid: 196715
 source: https://deepwoken.fandom.com/wiki/Gremorian_Longspear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Alloyed Weapons, The Children of Navae, Medium Weapons, Navae Weapons]
@@ -55,5 +55,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 -   Critical attack reels players in and stuns them even if they block it.
 -   This weapon was once able to pull players who had a forcefield on them out of it.
 -   One of the two spears that have 1x swingspeed, the other being the [Imperial Staff](Imperial_Staff.md).
--   Meeting the MED requirement, Gremorian Longspear will deal 19.1/27.3 damage.
--   At max MED, Gremorian Longspear will deal 23.4/29.8 damage.

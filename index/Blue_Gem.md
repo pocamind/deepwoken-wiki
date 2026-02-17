@@ -1,6 +1,6 @@
 ---
 title: Blue Gem
-revid: 195146
+revid: 196574
 source: https://deepwoken.fandom.com/wiki/Blue_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -27,15 +27,15 @@ Blue Gem is a dark blue diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
-The base Ether cost of your Mantra is reduced by 50%. The Ether cost of [Mantra Modifiers](Mantra_Modifiers.md) is reduced by 25%.
+The total Ether cost of your Mantra is reduced by 25%.
 
 Blue Gem has a unique effect with the [Critical Engine](Talents.md#critical-engine) Talent; On critical hit, restore Ether based on damage dealt. This Ether restoration is 1:1 with scaled damage dealt, before resistances and damage modifiers.
 
 ### Notes
 
 -   This Gem is best used on heavily modified or non damaging Mantras, as this is one of the very few Deep Gems that does not require your Mantra to land in order for it to take effect.
--   Blue Gem's Ether cost reduction can be further increased with the [Bluestone Boots](Bluestone_Boots.md) Talent, [I'm Blue](Talents.md#im-blue).
--   Blue Gem is a weaker, but less situational version of the [Warped Blue Gem](Warped_Blue_Gem.md).
+-   Blue Gem's Ether cost reduction can be further increased with the [Bluestone Boots](Bluestone_Boots.md) Talent, [I'm Blue](Talents.md#im-blue), providing a 45% decrease to your Mantra's total Ether cost.
+-   Blue Gem is a weaker, but unconditional version of the [Warped Blue Gem](Warped_Blue_Gem.md).
 
 ## Crafting
 

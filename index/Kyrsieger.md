@@ -1,6 +1,6 @@
 ---
 title: Kyrsieger
-revid: 195608
+revid: 196742
 source: https://deepwoken.fandom.com/wiki/Kyrsieger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Heavy Weapons]
@@ -39,8 +39,6 @@ categories: [Weapons, Greatswords, "Core-Attribute based weapons", Legendary Wea
 
 The Kyrsieger is a Legendary [Heavy Weapon](Weapons.md) that scales with, and requires [Charisma](Attributes.md) in addition to Heavy. While it functions near identically to a greatsword normally, its true purpose is that of a railgun, manipulating a fraction of Ethiron's power to unleash a devastating blast of energy.
 
-It drops surprisingly commonly, exclusively from the [Scion of Ethiron](Scion_of_Ethiron.md). If you are lucky enough to trade with the [Weird Trader](Weird_Trader.md), you might obtain this weapon.
-
 ## Critical
 
 The user lowers the blade, charging a shot of purple energy with a [purple telegraph](Combat_Mechanics.md#purple), applying ragdoll and 5 seconds of [Charm](Status_Effects.md#charm) on hit. It can be charged by holding R, and releasing it at any point will cause the critical to be fired. After fully charging the critical (at around 2 seconds), firing the critical will increase the range, damage, and will instantly guardbreak the opponent on hit.
@@ -55,6 +53,4 @@ The critical has a cooldown of **15 seconds**.
 -   The Kyrsieger was used in an assault on Constellia, the city [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) ruled over.
 -   This critical will trigger a Nautilodaunt to vent. While charging the critical, it will be forced into blocking which will make it easier for other players to land hits on it from behind, or using an instant guardbreak attack on it.
 -   Weapon is soulbound upon being equipped.
--   Meeting the requirements of HVY and CHA, the weapon deals 30.8 damage.
--   At max HVY and CHA, the weapon deals 40.3 damage.
--   Speaking to [Kaide, the Drowned Light](Kaide,_the_Drowned_Light.md) with this equipped will unlock special dialogue.
+-   Speaking to Kaide with the Kyrsieger equipped will unlock special dialogue.

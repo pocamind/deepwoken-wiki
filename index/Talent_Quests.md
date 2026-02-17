@@ -1,6 +1,6 @@
 ---
 title: Talent Quests
-revid: 194485
+revid: 196517
 source: https://deepwoken.fandom.com/wiki/Talent_Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Talents, Quests]
@@ -15,21 +15,6 @@ Most [Talents](Talents.md) are obtained by selecting them when powering up. Ther
 Some of the Talents obtained this way are **Echo Talents** - a mechanic added in the Verse 2 update. After completing the quest once, all future characters created on the account will automatically gain the Talent upon reaching a certain power level.
 
 ## Echo Talents
-
-### Engage and Critical Attack
-
-**Engage:** Landing M1 attacks restores your Ether. (+5 Ether, +1 Posture)  
-**Critical Attack:** Landing a hit with your critical restores 30% of your posture. (+3 Health, +1 Posture)
-
-Engage and Critical Attack come from the same quest, given by an Etrean Soldier named [Arthur](Arthur.md) in [Towerstruck Lands](Towerstruck_Lands.md), at the entrance to [The Garden Reservoir](The_Garden_Reservoir.md). He asks you to defeat a [Megalodaunt](Megalodaunt.md), which frequently spawn inside the cave.
-
-Upon defeating a [Megalodaunt](Megalodaunt.md) and returning to [Arthur](Arthur.md), you will gain the Engage and Critical Attack Talents, and automatically gain Engage at Power 3 and Critical Attack at Power 5 on all new characters.
-
-### Thresher Scales
-
-**Thresher Scales:** You regenerate your armor at campfires. (+5 Health)
-
-Thresher Scales is acquired from an NPC at the [Starswept Valley](The_Starswept_Valley.md), located at a dilapidated tower below the massive cliff that separates the [Lightkeeper Temple](Lightkeeper_Temple.md) and [Deep Widow](Deep_Widow.md) from the main Valley. Upon talking to him, he will ask you to kill a [King Thresher](Thresher.md#king-thresher), which can spawn randomly anywhere in the [Starswept Valley](The_Starswept_Valley.md) or at a specific spot in the [Lightkeeper Temple](Lightkeeper_Temple.md). Once you kill one, returning to him will get you Thresher Scales, and all new characters will get Thresher Scales at power 10. The NPC's name is [Jessamine](Jessamine.md).
 
 ### Chain of Perfection
 

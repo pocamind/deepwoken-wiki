@@ -1,6 +1,6 @@
 ---
 title: Scimitar
-revid: 192948
+revid: 196675
 source: https://deepwoken.fandom.com/wiki/Scimitar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
@@ -46,7 +46,5 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Gallery
 
--   Meeting the requirement of MED, the damage is (15.7)
--   At max MED, the damage is (18.4)
--   Has the fastest medium sword swing speed in the game.
+-   Has the fastest swing speed out of all sword weapons.
 -   In the July 7th 2025 update, the Scimitar was remodeled.

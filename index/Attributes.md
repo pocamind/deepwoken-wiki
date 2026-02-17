@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 196174
+revid: 196543
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -12,7 +12,7 @@ categories: [Attributes, Character, Mechanics]
 
 ― Self
 
-**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has an aspect that starts with +2 in that specific attribute, or 78 if they start with +3), and unbounded to a hard cap of 100 points (likewise, 102 if the player character aspect starts with +2 in that specific attribute or 103 if they start with +3) via an [unbound quest](Attributes_Unbound.md) for that attribute.
+**Attributes** are player stats that can be increased to a soft cap of 75 points (77 if the player character has an aspect that starts with +2 in that specific attribute, or 78 if they start with +3), and unbounded to a hard cap of 100 points via an [unbound quest](Attributes_Unbound.md) for that attribute.
 
 ## Basic Attributes
 
@@ -77,7 +77,7 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
 -   Sleight of Hand and Nimbleness. _Increases **Parkour** and **[Stealth](Stealth.md)** slightly per point._[\[1\]](#cite-note-1) This Attribute falls under the Body category.
     -   Increase climbing height, slide speed, slide distance, roll distance and the potency of speed bonuses from parkour.
         -   **Your mobility is affected by your health, reducing speed/maneuverability the lower your health gets**.
-            -   _This can be mitigated with the [Endurance Runner](Talents.md#alley-cat) Talent._
+            -   _This can be mitigated with the [Endurance Runner](Talents.md#endurance-runner) Talent._
     -   Adds 0.2% [Stealth](Stealth.md) to your character for every Agility point.
         -   [Felinor](Felinor.md) has a 1.2x Stealth gain multiplier, meaning they gain 0.24% Stealth per point in Agility.
     -   Reduces the vision cone of NPCs and Monsters.

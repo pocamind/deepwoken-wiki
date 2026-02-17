@@ -1,6 +1,6 @@
 ---
 title: Stormseye
-revid: 195634
+revid: 196629
 source: https://deepwoken.fandom.com/wiki/Stormseye
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", The Summer Company, Medium Weapons]
@@ -57,8 +57,6 @@ The critical has a cooldown of **10 seconds**.
 
 ## Trivia
 
--   Meeting the requirement of LTN and MED, the weapon deals 26.4 damage.
--   At max LTN and MED, the weapon deals 31 damage.
 -   The Stormseye was inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from the _Destiny_ franchise and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from the _Call of Duty_ franchise.[\[1\]](#cite-note-1)
 -   Elaborated on in its description, the Stormseye is the combination of the technology of guns and the energy of [Kyrsan Medallions](Kyrsan_Medallions.md) stolen from the Ignition Union, channeled using Thundercall.
     -   The object in the middle of the gun has a [Kyrsan Medallion](Kyrsan_Medallions.md), furthering its connection to Layer 2.

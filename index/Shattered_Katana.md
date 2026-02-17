@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 195156
+revid: 196710
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -37,7 +37,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 
 The Shattered Katana is an endgame [Medium](Weapons.md#medium-weapons) Katana.
 
-Taking scaling into account, it deals 29.45 damage at 90 MED. At 100 MED, it deals 30.5 damage. The "Paired Soul" Talent from the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits buffs its damage by 5%; this results in 30.92 damage at 90 MED and 32.02 damage at 100 MED.
+The [Paired Soul](Talents.md#paired-soul) Talent from the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits increases Shattered Katana's damage by 5%.
 
 ## Critical
 

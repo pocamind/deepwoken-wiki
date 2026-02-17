@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 195118
+revid: 196621
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
@@ -46,6 +46,5 @@ Rosen's Roscoe uses the default Pistol critical, an empowered shot. It has a sca
 ## Trivia
 
 -   The gun's model is similar to a Remington 1858 revolver.
--   Second fastest pistol in the game in terms of swing speed.
 -   The weapon is also called 'big iron' in the campfire menu.
 -   Along with the [Divine Flintlock](https://deepwoken.fandom.com/wiki/Crazy_Slots#Light) and [Iron Requiem](Iron_Requiem.md), these are the only three pistols in the game to have a unique sound effect on M1/crit.

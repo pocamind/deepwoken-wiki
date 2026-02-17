@@ -1,6 +1,6 @@
 ---
 title: Light Eater Ring
-revid: 178638
+revid: 196785
 source: https://deepwoken.fandom.com/wiki/Light_Eater_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -15,7 +15,7 @@ categories: [Equipment, Rings]
 | selling price | 25 |
 | requirements | Power 3 |
 | weight | 0.1 |
-| innate stats | +2% Fire Armor+2% Lightning Armor, +1 Uncommon Pips |
+| innate stats | +3% Elemental Armor, +2% Fire Armor+2% Lightning Armor, +1 Uncommon Pip |
 | bankable | Yes |
 | droppable | Yes |
 | enchantable | No |

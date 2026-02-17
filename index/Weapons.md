@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 196185
+revid: 196601
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -26015,6 +26015,6 @@ m is your current stat and r is your weapon's requirements [calculator here](htt
 -   The critical attacks of the [First Light](First_Light.md), [Formless Shard](Formless_Shard.md), [Hero Blades](Hero_Blades.md), [Ignition Deepcrusher](Ignition_Deepcrusher.md), [Iron Requiem](Iron_Requiem.md), [Krulian Knife](Krulian_Knife.md), [Kyrsieger](Kyrsieger.md), [Markor's Inheritor](<Markor's_Inheritor.md>), [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Stoneheart](Stoneheart.md) are mechanically different from all others, having a separate base damage value from the weapons they're tied to.
     -   The First Light, Hero Blades, Ignition Deepcrusher, Iron Requiem, Krulian Knife, and Saintsblade criticals additionally have separate investment scaling from their equipped weapon.
     -   The Formless Shard, Kyrseiger, Sovereign Bangle, and Stoneheart criticals deal flat damage with no investment scaling.
--   The [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...
+-   The [Saintsblade](Oath%253A_Saintsworn.md#saintsblade), [Sovereign Bangle](Oath%253A_Blightsurger.md#sovereign-bangle), [Handcuffs](Handcuffs.md), and [Formless Shard](Formless_Shard.md) are the only weapons to lack a scaling stat. To make up for this, Saintsblade and Sovereign Bangle have very high base damage; Formless Shard on the other hand...
     -   The above weapons are also the only weapons in the game that do not naturally benefit from [Proficiency](Traits.md#proficiency)'s weapon scaling increase buff. Scaling Rings will still benefit from your Proficiency even on these weapons, however.
 -   Named Weapons are heavily inspired by Artifacts from _Dark and Darker_, weapons that bear the same appearance and stats as a certain regular weapon but come with a special ability, very similarly to Named weapons.

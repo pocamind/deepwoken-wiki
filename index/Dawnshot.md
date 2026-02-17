@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 195122
+revid: 196616
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
@@ -61,5 +61,3 @@ Dawnshot uses the default Pistol critical, an empowered shot. It has a scaled da
 -   The Dawnshot is the only gun to possess both chip damage and penetration.
 -   The Dawnshot is the only gun in the game that can be alloyed
 -   The Dawnshot is based off of four barrel flintlocks.
--   Meeting the LHT requirement for this weapon will make it deal 19/26.8 damage.
-    -   At max LHT, it will deal 26.6/30.4 damage.

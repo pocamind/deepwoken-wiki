@@ -1,6 +1,6 @@
 ---
 title: Woodland Pauldrons
-revid: 176621
+revid: 196584
 source: https://deepwoken.fandom.com/wiki/Woodland_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -34,4 +34,4 @@ The [Polite Awakening](Talents.md#polite-awakening) Talent recovers 15% of your 
 
 ## Trivia
 
--   Both the stats and Talent given by them are completely identical to those given by the [Khan Pauldrons](Legion_Pauldrons.md).
+-   Both the stats and Talent given by them are completely identical to those given by the [Legion Pauldrons](Legion_Pauldrons.md).

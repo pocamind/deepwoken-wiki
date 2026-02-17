@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 195230
+revid: 196669
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -59,9 +59,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the non-alloyed requirement of HVY, the damage is (24.9)
-    -   Meeting the alloyed requirement, the damage is (34.8)
--   At max HVY, the non-alloyed damage is (33.6)
-    -   At max HVY, the alloyed damage is (38.4)
 -   The Halberd's critical is possibly a reference to Champion Gundyr's second phase running attack from _Dark Souls III_.
--   The critical ties alongside starter weapons for the fastest cooldown in-game.

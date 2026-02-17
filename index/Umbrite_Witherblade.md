@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 193858
+revid: 196734
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -62,40 +62,12 @@ The cooldown for this critical is **8** seconds.
 
 ## Trivia
 
--   Meeting the Requirement of 65 MED, the damage is 20.6 + [3.1 \[BLD\]](Status_Effects.md#bleed) & 10.3 [Wither](Status_Effects.md#wither).
--   At 6 Proficiency, 100 Medium, and 3 Star damage, the damage is 31 + [4.65 \[BLD\]](Status_Effects.md#bleed) & 16 [Wither](Status_Effects.md#wither).
 -   First documented finding was on the 19th of December 2024, 13 days after the [Dormant Splinter](Dormant_Splinter.md) was added.
 -   When the weapon was first released, viewing it on the campfire menu would display the name as "Lkq tg ywdn..." It was random gibberish to prevent datamining.
 -   During its release, the Umbrite Witherblade's blade used to constantly move in and outwards beating like a heart, this was soon deleted but the heartbeat sound effects remained.
 -   While equipped, the Umbrite Witherblade will emit heartbeats as well as an incomprehensible whisper followed by an ominous noise that resembles a car engine.
     -   The heartbeats within the weapon are noticeably faster than that of the the Dormant Splinter.
 -   Umbrite Witherblade's appearance is extremely similar to a weapon shown in _Overlord_, specifically in the fourth season.[\[1\]](#cite-note-1)
-
-## Version History
-
--   Feburary 15th, 2025.
-    -   Withering Soul now fully affects Umbrite Witherblade alongside Deepspindle (the full effect of Withering Soul was nerfed to 25% in the same update, as they changed it to scaled damage rather than unscaled)
-    -   Umbrite Witherblade range buffed (7.5 -> 8)
-    -   Increased Umbrite Witherblade's MED scaling (10 -> 12), critical damage
-    -   Increased Umbrite Witherblade's converted wither on M1 slightly
-    -   Increased Umbrite Witherblade's critical cooldown (6s -> 8s)
--   December Somewhenth 2024.
-    -   Umbrite Witherblade crafting cost reduced (10 -> 3 [Umbrite](Ores.md#umbrite))
--   December 24th 2024.
-    -   Increased Umbrite Witherblade swing speed (1x -> 1.02x)
--   December 19th 2024.
-    -   Base damage reduced (14 -> 13)
-    -   MED Scaling reduced (14 -> 10)
-    -   Swing speed reduced (1.07x -> 1x)
-    -   Wither Proc reduced (70% of unscaled damage -> 50% of unscaled damage)
-    -   Weight Reduced (6.5 -> 5)
-    -   Level Requirement Reduced (12 -> 10)
-    -   Antiheal duration on critical reduced (15s -> 10s)
-    -   Critical Windup increased (0.5s -> 0.6s)
-    -   Critical hyperarmor frames now happen before the first slash instead of on use
-    -   Critical hyperarmor frames reduced (0.25s -> 0.2s)
--   December 13th 2024.
-    -   Added to the game
 
 ## References
 

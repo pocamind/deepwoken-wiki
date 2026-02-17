@@ -1,6 +1,6 @@
 ---
 title: Warden Ceremonial Sword
-revid: 195341
+revid: 196691
 source: https://deepwoken.fandom.com/wiki/Warden_Ceremonial_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Weapons of The Central Authority, Medium Weapons]
@@ -51,8 +51,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   Meeting the requirement of MED, the damage is (21.5)
--   At max MED, the damage is (25.9)
 -   Has the second fastest medium sword swing speed in the game, alongside the [Falchion](Falchion.md), but is beat by the [Scimitar](Scimitar.md).
 -   Has similar stats to the [Alloyed Falchion](Falchion.md), differing only by having 1 more base damage, a lower stat requirement, a unique critical, and by the lack of innate pen.
 -   It's model is a slight redesign of the oldest model for [Curved Blade of Winds](Curved_Blade_of_Winds.md), with a slight change in the color and type of handguard, the color of the handle and the width of the blade.

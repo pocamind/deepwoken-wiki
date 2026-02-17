@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196292
+revid: 196596
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -38,11 +38,11 @@ categories: [Mechanics, Outfits, Skills, Talents]
 
 ## Mechanics
 
-The player is given multiple types of Talents. When [powering up](Power.md), the player is given multiple regular Talent Hands, along with a [Trait Hand](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain power-ups, upon which they will also be given an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws hold 4-5 Talent cards (5-6 with the [Joker](Regalia.md#joker) Regalia) and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws there is always a '**Roll 2**' card that will grant 2 random Talents from your available Talent pool instead of a Mantra. [Aces](Aces.md) can be used to permanently prevent a regular Talent or Mantra card from showing up, guarantee that a Talent will show up in your future hands, or to preserve a Talent in your current hand, guaranteeing that it will show up again.
+The player is able to obtain multiple types of Talents. When [powering up](Power.md), the player is granted multiple regular Talent Hands, along with a [Trait Point](Traits.md) and a [Whisper Draw](Whisper_Draw.md) on certain power-ups, upon which they will also be granted an [Ace](Aces.md). Each Talent Hand contains a set of randomly chosen Talents that the player must choose 1 from; Talent Hands and Whisper Draws hold 4-5 Talent cards (5-6 with the [Joker](Regalia.md#joker) Regalia) and 3 Mantra cards respectively based on the player's stats after powering up, with the chance of there being an additional "Fold" card that lets the player instead save a Talent Hand to be chosen from on their next Power-up, and in the case of Whisper Draws there is always a '**Roll 2**' card that will grant 2 random Talents from your available Talent pool instead of a Mantra. [Aces](Aces.md) can be used to permanently prevent a regular Talent or Mantra card from showing up, guarantee that a Talent from your available pool will show up in your future hands, or to preserve a Talent in your current hand, guaranteeing that it will show up again.
 
 Talent Hands and Whisper Draws can also be gained from [quests](Quests.md); from each NPC whose quest aligns with _Curiosity_, _Bravery_, or _Compassion_, completing your first quest in the category grants you an extra Talent Hand, allowing you to gain up to 3 extra Talent Hands. Additionally you can gain an additional [Whisper Draw](Whisper_Draw.md) from completing certain tasks or quests. See the Whisper Draw page for more info.
 
-When obtaining a [Resonance](Resonance.md), the player is given a selection of 3 Resonances randomly chosen based on their [Resonance Point](Resonance.md) allocation. When gaining a Talent from [Equipment](Equipment.md), it applies the effects of the Talent to your character at no additional cost and does not count towards the total amount of Talents you've chosen.
+The system of selecting cards is also used when obtaining a [Resonance](Resonance.md), giving a selection of 3 Resonances randomly chosen based on the player's [Resonance Point](Resonance.md) allocation. When gaining a Talent from [Equipment](Equipment.md), it applies the effects of the Talent to your character at no additional cost and does not count towards the total amount of Talents you've chosen.
 
 The maximum amount of Talents that you can have, Talent Hands giving you **47**, all 12 '**Roll 2**' cards \[**24**\], plus the **3** Talent Quests and the extra **2** from [Kelsius](Kelsius.md)'s Whisper Draw divided by the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) combines to a total of **76** maximum Talents \[**47** + **24** + **3** + **2**\], without the quests being a total of **71** Talents instead. As such, each mantra taken deduces 2 possible Talents from your total, with [Monster Mantras](Monster_Mantras.md) and the extra Whisper Draw from [Kelsius](Kelsius.md) not counting towards this deduction.
 
@@ -61,7 +61,7 @@ Most Talents are locked with a prerequisite. Depending on the prerequisite, you 
 
 There are certain Talents that you receive automatically upon meeting their requirement. The following Talents will not take up Talent slots:
 
--   [Echo](Echoes.md#echo-talentsitems) and Quest Talents
+-   Quest Talents
 -   Mantra Level Talents, obtained upon meeting [Attunement](Attunements.md) Attribute milestones
 -   Mastery Talents, obtained upon [Unbounding](Attributes_Unbound.md) an Attribute
 -   [**Oath**](Oaths.md) Talents
@@ -96,7 +96,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Talents obtained from meeting certain Attunement investment milestones and [Unbounding Attributes](Attributes_Unbound.md) respectively. These Talents do not take up Talent slots, and are granted instantly upon meeting their prerequisites.
 
 -   Origin / Quest
-    -   Talents obtained from your [Origin](Origins.md) or through completing Quests. Echo Talents also fall under this category. These Talents do not take up Talent slots.
+    -   Talents obtained from your [Origin](Origins.md) or through completing Quests. These Talents do not take up Talent slots.
 
 -   Faction
     -   Talents obtained from a specific faction. These Talents may be given as a reward from having high reputation or completing a specific milestone or task for a [faction](Reputation.md).
@@ -387,7 +387,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Increases [Arc Wave](Oath%253A_Arcwarder.md#arc-wave)'s base damage by 25%.
     -   Increases [Arc Beam](Oath%253A_Arcwarder.md#arc-beam)'s base damage by 50%.
     -   Because Enhance increases your Mantra's base damage, it bypasses the damage modifier cap and increases the efficiency of your more conventional modifiers by giving them a higher base damage to work off of.
-    -   Grants a +15% damage modifier to all non-Arcwarder attacks while in Arc Suit.
     -   Prerequisites: [Oath: Arcwarder](Oath%253A_Arcwarder.md), defeat [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) or [Scion of Ethiron](Scion_of_Ethiron.md) X times OR pay [Delta](Delta.md) 10 to skip Arcwarder's progression entirely (requires you to have fully progressed the Oath at least once).
 
 -   Arc Module: Guard \[Oath Talent, [Arcwarder](Oath%253A_Arcwarder.md)\] - In Arc Suit You can block attacks from any direction and cannot be backstabbed.
@@ -823,6 +822,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Chainlash will only work on Chained targets, if a target breaks the chain quick enough, Chainlash will cancel.
     -   Works with Dazing Finisher and Bulldozer.
     -   The kick ragdolls and flings targets in the direction you are looking, but cannot wallbang.
+    -   This does not proc on non-humanoid targets.
     -   Prerequisites: [Oath: Chainwarden](Oath%253A_Chainwarden.md), Defeat two humanoid [bosses](Bosses.md) or players with Hunted Authority [reputation](Reputation.md) and **grip them while they're Chained** OR give [Vice Warden Morredh](Vice_Warden_Morredh.md) 10 instantly skipping Chainwarden's progression (this can only be done if you've fully progressed the Oath at least once).
 
 ### Champion
@@ -1597,7 +1597,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Genius Intellect
 
 -   _Neuroplasticity_ \[Rare Talent, Mind\] - Your mind is a pliable, flexible substance. The Ether cost of additional modifications to your Mantras is now reduced by 20%. (+1 Wildcard Mantra Slot)
-    -   The increased Ether Cost from Modified Mantras is reduced by 20% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 8, for tier 2 - from 20 Ether to 16).
+    -   The increased Ether Cost from Modified Mantras is reduced by 10% (ether cost increase for tier 1 modifications is reduced from 10 Ether to 9, for tier 2 - from 20 Ether to 18).
     -   Does not apply retroactively to previously modified mantras until you rejoin.
     -   Prerequisite: 35 Mind (35 Charisma // 35 Intelligence // 35 Willpower)
 
@@ -2260,6 +2260,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Legion Shock Trooper
 
 -   Air Pressure \[Common Talent, Agility, Galebreathe\] - Dodging an attack or hitting an enemy's block will transform your next dash into a Gale Dash. Gale Dashes carry you further than regular dashes and have extended iframes, but will clear immediately should you initiate an attack. (+1 Passive Agility)
+    -   8 second cooldown.
     -   Prerequisites: 20 Agility, 50 Galebreathe
 
 -   Cyclone Blade \[Common Talent, Agility, Galebreathe\] - After a successful Gale Dash you wrap your weapon in wind, causing your next Light attack to do +30% damage as bleed and have +10% chip damage. (+2 Passive Agility)
@@ -2360,10 +2361,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   _Thresher Claws_ \[Rare Talent\] - All of your attacks have +5% more PEN. Your Basic Attacks and Criticals have an additional +5% PEN on top.
     -   Prerequisite: [Power](Power.md) 13
 
--   _Thresher Scales_ \[Echo Talent, Quest Talent\] - You regenerate your armor at campfires. (+5 Health)
-    -   Prerequisites: Complete [Jessamine](Jessamine.md)'s quest by killing a [King Thresher](King_Thresher.md), then return to them.
-        -   Once this quest has been completed on any character, you will receive this Talent automatically when powering up to or above Power 10 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
-
 ### Marksman
 
 -   _Leg Shot_ \[Rare Talent, Medium Weapon\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enmies [Sluggish](Status_Effects.md#sluggish), and also disables any speed boosts they get for the next 10 seconds.
@@ -2460,7 +2457,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   You cannot gain more than 3 stacks per attack.
     -   Upon taking damage from any non-self damage source (excluding fall damage), all stacks will be lost.
     -   Prerequisites: Defeat any [Bosses](Bosses.md) solo without taking any damage.
-        -   Once you have obtained this Talent on any character, you will receive this Talent automatically when powering up to or above Power 5 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
+        -   Once you have obtained this Talent on any character, you will receive this Talent automatically on character creation.
 
 ### Ministry Prophet
 
@@ -4040,15 +4037,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   The Ether Sunder status effect grants you 30% damage reduction against affected enemies' elemental attacks.
     -   Prerequisites: [Power](Power.md) 13, Engage
 
--   _Critical Attack_ \[Echo Talent, Quest Talent\] - Landing a hit with your critical restores 30% of your posture. (+1 Posture)
-    -   Prerequisite: Complete [Arthur](Arthur.md)'s quest right outside of the [Garden Reservoir](The_Garden_Reservoir.md)
-        -   Once this quest has been completed on any character, you will receive this Talent automatically when powering up to or above Power 5 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
-
--   _Engage_ \[Echo Talent, Quest Talent\] - Landing a Basic Attack slightly restores some of your Ether. (+1 Posture)
-    -   Ether restored is based on damage dealt.
-    -   Prerequisite: Complete [Arthur](Arthur.md)'s quest right outside of the [Garden Reservoir](The_Garden_Reservoir.md)
-        -   Once this quest has been completed on any character, you will receive this Talent automatically when powering up to or above Power 3 on all subsequent characters. If you character is already Power 20, then you can speak to [Yamaketzal](Yamaketzal.md) to receive this Talent instantly.
-
 ### Waterborne
 
 -   Conditioned Swimmer \[Common Talent\] - You lose less hunger and thirst while swimming. (+1 Passive Agility)
@@ -4382,7 +4370,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
         -   Wisp Convergence will not work if you do not have Oathless, but it will still grant its additional Wisp Mantra slot.
 
 -   Diver's Resilience: [Grand Fisher Plate](Grand_Fisher_Plate.md) - You can parry unparryable attacks from giant monsters, but due to the heft of the plate, you have slightly reduced speed.
-    -   10 second cooldown.
+    -   20 second cooldown.
     -   Cannot parry ALL types of attacks, similar to [Hunter's Brace](<Hunter's_Brace.md>), you can parry kicks and some other knockback moves. Additionally, your movement speed is reduced.
 
 -   Elegy of Light: [Lightkeeper's Medallion](<Lightkeeper's_Medallion.md>) - The Unspoken Vow of the Waking God resonates through you, if briefly. Protects you from the effects of Deep Gems for 3 minutes and provides you [Gem Enhancement](Status_Effects.md#gem-enhancement). Remains dormant until you take the life of an equal.
@@ -4424,6 +4412,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     
     -   This does not allow you to parry **all** unparryable monster attacks.
     -   The armor durability lost is based on the amount of damage you would have taken normally.
+    -   When parrying attacks that are slide, jump, or slide only, the armor loss penalty will be greatly increased.
 
 -   Grotesque Resilience: [Parasol Planter](Parasol_Planter.md) - You take reduced damage from 'Damage over Time' effects.
     -   Reduces Burn damage by 50%
@@ -4455,8 +4444,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
     -   Hyperbody can stack if one of your allies uses it, though the total effectiveness will only be 90% of the base effectiveness.
 
 -   I'm Blue: [Bluestone Boots](Bluestone_Boots.md) - Improve the efficiency of your [Blue Gems](Blue_Gem.md). Blue are the gems you use.
-    -   Increases the effectiveness of Blue Gems by 40%, additively.
-    -   With I'm Blue, Blue Gems reduce the base Ether cost of Mantras by 90% instead of 50% and the cost of modifiers is reduced by 65% instead of 25%.
+    -   Increases the effectiveness of Blue Gems by 20%, additively.
+    -   With I'm Blue, Blue Gems reduce the total Ether cost of Mantras by 45%.
 
 -   Immortality: [Immortal Helm](Immortal_Helm.md) - Knock prevention for one hit whilst at 1% HP.
 

@@ -1,6 +1,6 @@
 ---
 title: Imperial Staff
-revid: 195454
+revid: 196721
 source: https://deepwoken.fandom.com/wiki/Imperial_Staff
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -37,8 +37,6 @@ categories: [Weapons, Spears, Legendary Weapons, "Core-Attribute based weapons",
 
 The Imperial Staff is a Legendary [Spear](Weapons.md) that scales with and requires [Strength](Attributes.md#str) in addition to Medium. It is a long bo staff that is capable of changing its length which it employs for a variety of unique attacks.
 
-Meeting the requirement of MED and STR, the weapon deals 23.8 damage. At max MED and STR, the weapon deals 31.1 damage.
-
 ## Critical
 
 The standing critical is a long-ranged attack where the user swings their staff forward and extends it in both directions, allowing the user to hit opponents both in front of and behind them. Ragdolls opponents on hit, and deals roughly **1.4-1.45x scaled damage**.
@@ -51,5 +49,4 @@ The running critical is a multi-hit where the user spins the staff in their hand
 
 -   The Imperial Staff is inspired by Sun Wukong's "金箍棒" (Jīn gū bàng; lit. gold cudgel), including the little effects around the head the staff gives you imitating the controlling crown Sun Wukong wore. The Jīn gū bàng is Wukong's signature weapon, a pillar once owned by the Dragon King of the East Sea, portrayed as a gold and red staff in most media like movies and games.
 -   The placeholder critical for this weapon was the [Unsung Scythern](Unsung_Scythern.md)'s when used in old servers during its release.
--   Just like [Wyrmtooth](Wyrmtooth.md) and [Railblade](Railblade.md) this weapon is locked in one-handed stance
--   The Aerial crit can proc meteor impact
+-   The Aerial crit can proc [Meteor Impact](Talents.md#meteor-impact).

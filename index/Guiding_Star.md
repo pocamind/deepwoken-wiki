@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 190747
+revid: 196783
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", The Children of Navae, Bows]
@@ -19,6 +19,7 @@ categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-At
 | range | 12 Lunge |
 | swing speed | 1x |
 | attack duration | 0.6s |
+| penetration | 10% |
 | special effect | Basic and critical attacks will cost Ether. |
 | m.equip | No |
 | m.extract | No |
@@ -55,8 +56,5 @@ The critical has a cooldown of **7 seconds**.
 -   Formerly known as the "Aranea", a weapon that was accidentally released as a drop from [Chime of Conflict](Chime_of_Conflict.md) chests and had an absurd and impossible requirement of 200 Light Weapons, rendering it unusable for normal players.
     -   Both bows featured the same model & appearance. The string and arrow are also visible in its held state, which can only be viewed when using Basic Attacks.
     -   The name "Aranea" is a reference to the genus Araneus, a group of orb-weaving spiders. This explains why the bow has a web motif.
--   This is one of the only weapons that scales off Mind, the others being the [Red Death](Red_Death.md), [Long Tong of The Law](The_Long_Tong_of_The_Law.md), [Pastry Paster](The_Pastry_Paster.md), and [Flippers of Fate](The_Flippers_of_Fate.md). This is also one of the only five to have a Mind requirement.
-    -   The description on the Guiding Star claims that previous users of the weapon had 'talked', and were guided through their trail, with the bow, hinting at it potentially having some power with soul 'magic'.
--   This weapon deals 26.6 damage at reqs and 27.7 at 100 MED and 100 MND.
--   The Guiding Star is the first and (currently) only Bow in the game.
--   The Guiding Star currently is tied with the [Metal Greatsword](Metal_Greatsword.md), [Repeater](Repeater.md) and [Soulwrought Gun](Crazy_Slots.md#weapons) for the longest range of any weapon in game, at 12 range.
+-   The description on the Guiding Star claims that previous users of the weapon had 'talked', and were guided through their trail, with the bow, hinting at it potentially having some power with soul 'magic'.
+-   The Guiding Star is the first Bow weapon added to Deepwoken.

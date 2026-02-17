@@ -1,6 +1,6 @@
 ---
 title: Razor Cutlass
-revid: 192955
+revid: 196692
 source: https://deepwoken.fandom.com/wiki/Razor_Cutlass
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Ingredients]
@@ -55,5 +55,3 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   This weapon is notably one of the slowest available swords in the game, its swing speed only being .01 faster than the [Messer](Messer.md), and the starter-tier club, [Mace](Mace.md), which the [Messer](Messer.md) shares its swing speed stat with.
--   Meeting the requirement of MED, the weapon deals 24.48 damage, but it becomes 28.15 with bleed.
--   At max MED, the weapon deals 28.8 damage, but it becomes 33.12 with bleed.

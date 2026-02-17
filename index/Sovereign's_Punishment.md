@@ -1,6 +1,6 @@
 ---
 title: "Sovereign's Punishment"
-revid: 195245
+revid: 196767
 source: https://deepwoken.fandom.com/wiki/Sovereign's_Punishment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Central Authority, Heavy Weapons]
@@ -40,7 +40,7 @@ categories: [Authority Faction Item, Weapons, Greathammers, Weapons of The Centr
 
 ## Description
 
-The Sovereign's Punishment is a Greathammer that can be obtained at [Fort Merit](Fort_Merit.md), [Aratel Island](Aratel_Island.md), [The Lordsgrove](The_Lordsgrove.md) and [Upper Erisia](Upper_Erisia.md) aswell as [Lower Erisia](Lower_Erisia.md). It boasts exceptionally high posture damage and penetration, though with a slow swing speed and slightly lower scaled damage than other greathammers.
+The Sovereign's Punishment is a Greathammer. It boasts exceptionally high posture damage and penetration, though with a slow swing speed and slightly lower scaled damage than other greathammers.
 
 ## Critical
 
@@ -48,9 +48,8 @@ Sovereign's Punishment uses the default Greathammer critical, an overhead swing.
 
 ## Trivia
 
--   The logo sported by it is similar to the icon on the [Sacred Hammer](Sacred_Hammer.md).
+-   The symbol found on the head of the hammer is similar to that found on the [Sacred Hammer](Sacred_Hammer.md).
     -   Ironically, the logo looks very similar to the one found on the [Royal Etrean Guard](Royal_Etrean_Guard.md), despite being a weapon of the [Authority](The_Central_Authority.md).
     -   However, this logo is also visible on the [Authority Commander](Authority_Commander.md) Outfit as well. Additionally, the star on the Royal Etrean Guard is more concave as well as slimmer, whereas the star on the Authority Commander is less round and thicker, which the Sovereign's Punishment's logo more closely resembles.
--   This is the highest posture damage weapon in the game. With 3\* Weight, [Murmur: Ardour](Murmur%253A_Ardour.md), the [Heavy Hitter](Talents.md#heavy-hitter) Talent, the two-handed stance, and a [Heavy Hands Ring](Heavy_Hands_Ring.md), you can do around 23 posture damage per M1.
--   Despite it's description saying that the weapon is unwieldy and unsuitable for combat it is one of the most dominant heavy weapons in the meta.
--   Meeting the base HVY requirements, the Sovereign's Punishment will deal 39.2 damage. At 100 HVY, the damage would be 43.6.
+-   This is the highest posture damage weapon in the game.
+    -   With 3\* Weight, [Murmur: Ardour](Murmur%253A_Ardour.md), the [Heavy Hitter](Talents.md#heavy-hitter) Talent, the two-handed stance, and a [Heavy Hands Ring](Heavy_Hands_Ring.md), you can do around 23 posture damage per M1.

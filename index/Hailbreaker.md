@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 195104
+revid: 196638
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -63,4 +63,4 @@ At the end of each critical, ice explosions will happen around the user, dealing
 
 ## Trivia
 
--   Its model as of 11/16/2024 does not change if you have [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical however do change color.
+-   Strangely with [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical change to crystals color but the actual model of the weapon does not.

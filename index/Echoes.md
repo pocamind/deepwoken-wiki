@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 195335
+revid: 196542
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -443,27 +443,12 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
 
 ### Echo Quests
 
-**(Power 2)** Chain of Perfection \[Echo Talent\] - _Gain Chain of Perfection at Power 2. **Obtained by defeating any [boss](Bosses.md) without getting hit by one of the boss' attacks.**_
+**(Power 1)** Chain of Perfection \[Echo Talent\] - _Gain Chain of Perfection at Power 1. **Obtained by defeating any [boss](Bosses.md) without getting hit by one of the boss' attacks.**_
 
 -   Increases PvE damage by 5% each melee hit you deal without taking hits in return.
-    -   Unlocked on the initial slot, and any characters or slots created after obtainment upon reaching power 2.
+    -   Unlocked on the initial slot, and any characters or slots created after obtainment upon reaching power 1.
         -   The maximum threshold of damage is 2x.
         -   Chain of Perfection does **not** work in PvP.
-
-**(Power 3)** Engage \[Echo Talent\] - _Gain Engage at Power 3 ._ _**Obtained by completing the quest given by Etrean Soldier [Arthur](Arthur.md) at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
-
--   Landing M1 attacks restores some of your Ether.
--   Counts as a Bravery [quest](Quests.md), meaning when completed, it will grant you an additional hand of cards on your next level up or immediately if you are power 20, assuming you haven't already completed a different Bravery quest.
-
-**(Power 5)** Critical Attack \[Echo Talent\] - Gain Critical Attack at Power 5. _**Obtained by completing the quest given by Etrean Soldier Arthur at the entrance of [The Garden Reservoir](The_Garden_Reservoir.md).**_
-
--   Landing a hit with your critical restores 30% of your posture.
--   Counts as a Bravery [quest](Quests.md), meaning when completed, it will grant you an additional hand of cards on your next level up or immediately if you are power 20, assuming you haven't already completed a different Bravery quest.
-
-**(Power 10)** Thresher Scales \[Echo Talent\] - Gain _Thresher scales_ at power 10. _**Obtained by completing the quest of [Jessamine](Jessamine.md) near the entrance of the [Widow's Hollow](<Widow's_Hollow.md>).**_
-
--   You regenerate your armor at campfires.
--   Counts as a Bravery [quest](Quests.md), meaning when completed, it will grant you an additional hand of cards on your next level up or immediately if you are power 20, assuming you haven't already completed a different Bravery quest.
 
 **(Visiting the Eastern Luminant)** Hive Gate Open and Fountain Teleporters Unlocked - Gained Hive Gate and Fountain Teleporters after visiting the Eastern Luminant. **Obtained by washing your face at least once at [Lightkeeper Temple](Lightkeeper_Temple.md).**
 

@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 191761
+revid: 196644
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -46,8 +46,6 @@ The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
--   Meeting the requirement of LHT, the weapon deals 21.75 damage, becoming 25.01 with [Bleed](Status_Effects.md#bleed).
--   At max LHT, the weapon deals 24 damage, becoming 27.6 with [Bleed](Status_Effects.md#bleed).
 -   The weapon's critical has potential for M1/Mantra follow-up, especially if your enemy doesn't know how to ragdoll cancel.
 -   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) being teased instead.
 -   It is the only weapon in the Fists category that deals Bleed damage.

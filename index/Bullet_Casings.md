@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 173863
+revid: 196595
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -22,19 +22,19 @@ These bullets give a 10% PEN bonus, because they are considered normal bullets, 
 
 **Gold:**
 
-The Bullet will slow down the target on hit, however at a downside of dealing 20% less damage (Still applies) and the speed of the bullet being reduced (Possibly bugged).
+The Bullet will slow down the target on hit, however at a downside of dealing 10% less damage (Still applies) and the speed of the bullet being reduced (Possibly bugged).
 
 **Umbrite:**
 
-The Bullet will have 10% increased damage on hit, however at a downside of the firing speed of the gun being reduced by a 25%.
+The Bullet will have 10% increased damage on hit and apply wither, but has the downside of the firing speed of the gun being reduced by 25%.
 
 **Erisore:**
 
-The Bullet will apply a 50% anti-heal on hit, however at a downside of the damage being reduced by 20%.
+The Bullet will apply a 50% anti-heal on hit for 12 seconds, however at a downside of the damage being reduced by 20%.
 
 **Irithine:**
 
-The Bullet will apply poison on hit, however at a downside of the damage being reduced by 20%.
+The Bullet will apply increased shaky block on hit similar to [Authority Ensign](Authority_Ensign.md) inquisitor's Hidden Blade, however at a downside of the damage being reduced by 20%.
 
 -   The bullet itself does 0 damage and the damage is fully transferred to the poison.
 

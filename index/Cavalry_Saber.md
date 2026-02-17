@@ -1,6 +1,6 @@
 ---
 title: Cavalry Saber
-revid: 195723
+revid: 196689
 source: https://deepwoken.fandom.com/wiki/Cavalry_Saber
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Swords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Medium Weapons]
@@ -51,9 +51,5 @@ You cannot rotate your character during this critical. This critical has the M1 
 
 ## Trivia
 
--   Meeting the requirement of MED, the damage is (24.2)
-    -   Meeting the requirement for the alloy, the alloyed variant's damage is (29.5)
--   At max MED, the damage is (28.9)
-    -   At max MED when alloyed, the damage is (31.8)
 -   It is nearly identical to and interchangeable with the [Officer Saber](Officer_Saber.md).
 -   This weapon shares a critical with the [Officer Saber](Officer_Saber.md).

@@ -1,6 +1,6 @@
 ---
 title: Kyrscleave
-revid: 184445
+revid: 196720
 source: https://deepwoken.fandom.com/wiki/Kyrscleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greatswords, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -51,5 +51,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 ## Trivia
 
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), [Kyrstreza](Kyrstreza.md), [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), **Kyrscleave**, [Kyrswynter](Kyrswynter.md), [Kyrsieger](Kyrsieger.md))
--   Deals roughly 44.6 + [**6.69 (BLEED)**](Status_Effects.md#bleed) (For a total of 51.3) Damage at 100 Heavy.
 -   Its critical attack, as well as the Crescent Cleaver, is probably a reference to Shadow Fight 3's Shadow Ability; "Vane" as both share similar animations.

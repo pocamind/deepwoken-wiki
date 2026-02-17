@@ -1,6 +1,6 @@
 ---
 title: Kyrstreza
-revid: 184422
+revid: 196671
 source: https://deepwoken.fandom.com/wiki/Kyrstreza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, "Weapons with Multi-Hit Criticals", Rapiers, Light Weapons]
@@ -45,10 +45,8 @@ Kyrstreza uses the default Rapier critical, thrusting the weapon 4 times. Each h
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents.md) and [Enchantment](Enchantments.md) effects.
 
-## Tips/Trivia
+## Trivia
 
 -   The Kyrsteza tends to shine when you don't need the [Crucible Rapier](Crucible_Rapier.md)'s bit of extra weight or the [Skull Piercer](Skull_Piercer.md)'s bleed or extra range.
--   Meeting the requirement of LHT, the damage is (22.2)
--   At max LHT, the damage is (24.6)
 -   A part of the Kyrs series ([Kyrsedge](Kyrsedge.md), [Kyrstear](Kyrstear.md), **Kyrstreza**, [Kyrsblade](Kyrsblade.md), [Kyrsglaive](Kyrsglaive.md), [Kyrscleave](Kyrscleave.md), [Kyrswynter](Kyrswynter.md), [Kyrsieger](Kyrsieger.md))
 -   The weapon name is a reference to the Spanish school of fencing, Verdadera Destreza, which focused on geometric movements with the rapier.

@@ -1,6 +1,6 @@
 ---
 title: Iron Blunderbuss
-revid: 195112
+revid: 196766
 source: https://deepwoken.fandom.com/wiki/Iron_Blunderbuss
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -34,7 +34,7 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 
 ## Description
 
-The Iron Blunderbuss is a Medium Weapon that was added in the Verse 2 content update. It is among the first medium weapon guns, including the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>). The Iron Blunderbuss has 20 Base Damage and a scaling of 7 so it deals 27.9 damage at 75 MED, and 30.5 damage at 100 MED. The Iron Blunderbuss, like the Rosen's Peacemaker, has a blunt swinging attack and firing attack in its M1 string.
+The Iron Blunderbuss is a Medium Rifle weapon.
 
 ## Critical
 
@@ -43,7 +43,5 @@ Iron Blunderbuss uses a modified version of the default Rifle critical, having a
 
 ## Trivia
 
--   In PVP, if willing to account for the bullet requirement, the Iron Blunderbuss is a superior option due to having 25% penetration.
-    -   Far superior to the [Stormseye](Stormseye.md) in damage and penetration despite the Stormseye being a legendary weapon.
-    -   Crit has **1.35x scaled damage** compared to M1 (a.k.a. from 34 per m1 will deal around **43** dmg, and also crit CD is 2s making it perfect to pressure style and inf posture due to "Critical Attack" talent)
+-   Added in the Verse 2 update, this was among the first Rifles in Deepwoken, alongside the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>).
 -   The critical's speed is very similar to the regular swingspeed, meaning it can cause some very interesting mixups when combined with the M1 bullet.

@@ -1,6 +1,6 @@
 ---
 title: Iron Birch
-revid: 193486
+revid: 196676
 source: https://deepwoken.fandom.com/wiki/Iron_Birch
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, Heavy Weapons, Weapons with Talents]
@@ -54,6 +54,4 @@ Iron Birch uses the default Greataxe critical, an overhead swing. It has a scale
 
 ## Trivia
 
--   Meeting the requirement of HVY, the damage is (**33.1**)
--   At max HVY, the damage is (**38.4**)
 -   The Iron Birch is a reference to the [Iron Battle Axe](https://destiny.fandom.com/wiki/Iron_Battle_Axe) from the game [Destiny 2](https://en.wikipedia.org/wiki/Destiny_2).
