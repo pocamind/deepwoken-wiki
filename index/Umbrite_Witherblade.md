@@ -1,6 +1,6 @@
 ---
 title: Umbrite Witherblade
-revid: 196734
+revid: 197059
 source: https://deepwoken.fandom.com/wiki/Umbrite_Witherblade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Weapons with Unique Animations, "Weapons with Multi-Hit Criticals", Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -48,7 +48,7 @@ It is crafted within [The Cold Forge](The_Cold_Forge.md) with:
 
 -   [Dormant Splinter](Dormant_Splinter.md)
 -   [Razor Cutlass](Razor_Cutlass.md)
--   3 [Umbrite](Ores.md#umbrite)
+-   3 [Umbrite](Ores.md#umbrite) or 1 [Pure Umbrite](Ores.md)
 
 ## Critical
 

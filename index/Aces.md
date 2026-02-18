@@ -1,6 +1,6 @@
 ---
 title: Aces
-revid: 196570
+revid: 197093
 source: https://deepwoken.fandom.com/wiki/Aces
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Skills, Talents]
@@ -36,9 +36,9 @@ Used to Freeze Talents or Mantras. Once a card is Frozen, it will remain in your
 
 If you Freeze one card, then use an Ace to Freeze another card in the next draw, it will not consume an Ace in the subsequent hand. It cannot, however, be used to obtain mutually exclusive Talents, this will consume the Ace and the Frozen talent will not appear in another hand. i.e Observation/Safety Dance with Risky Moves.
 
-## Fortell
+## Foretelling
 
-Accessible through your Talent Deck, you can "Fortell" a Talent at the cost of 1 Ace. This will guarantee that the Fortold card will appear in your future Talent hands. There is no limit to how many cards you can Fortell.
+Accessible through your Talent/Mantra Deck, you can "Foretell" a Talent or a Mantra at the cost of 1 Ace. This will guarantee that the Foretold card will appear in your future Talent or Mantra hands. There is no limit to how many cards you can Foretell.
 
 ## Trivia
 

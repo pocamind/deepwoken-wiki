@@ -1,11 +1,11 @@
 ---
 title: "JOE's"
-revid: 195586
+revid: 197075
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Exclusive, Enchantments, Weapon Enchantments, Critical Attack Enchantments]
+categories: [Cut Content, Enchantments, Weapon Enchantments, Exclusive, Critical Attack Enchantments]
 notices:
-  - "This page describes Exclusives/Specs This content is currently exclusive to Developers or other notable members, and as such, is not available to the general public."
+  - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
 ---
 
 # JOE's

@@ -1,6 +1,6 @@
 ---
 title: Marrowmade Boots
-revid: 196949
+revid: 197109
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -22,8 +22,8 @@ notices:
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |
-| pass down | Yes |
-| obtainment | killing the boss Kyrsgarde Champion |
+| pass down | No |
+| obtainment | Kyrsgarde Champion |
 | description | Boots crafted from what seems to be the foot and head of the Bonekeeper. |
 
 [Equipment](Equipment.md)

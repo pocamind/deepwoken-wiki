@@ -1,9 +1,9 @@
 ---
 title: Verse 2
-revid: 148304
+revid: 196963
 source: https://deepwoken.fandom.com/wiki/Verse_2
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Deepwoken]
+categories: [Deepwoken, Updates]
 ---
 
 # Verse 2

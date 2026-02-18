@@ -1,6 +1,6 @@
 ---
 title: Insanity
-revid: 193325
+revid: 196961
 source: https://deepwoken.fandom.com/wiki/Insanity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -51,7 +51,6 @@ When losing enough sanity, the player will endure negative effects.
 -   Being hit by a player with [Shared Misery](Talents.md#shared-misery) active, draining 3% of your maximum Sanity. This stacks with Curse of the No Life King.
 -   Being hit by a weapon enchanted with [Curse of the No Life King](Curse_of_the_No_Life_King.md), draining 2% of your maximum Sanity on hit. This stacks with Shared Misery.
 -   Unsheathing a weapon enchanted with [Curse of the No Life King](Curse_of_the_No_Life_King.md) while in [The Depths](The_Depths.md), draining your Sanity by 2 per second. This stacks on top of the passive Sanity drain from being in the Depths, equating to 122 Sanity drained per minute.
--   Being in the immediate vicinity of the pulsating brains with eyes and looking at them in [Ancient Rotlands](Ancient_Rotlands.md).
 -   Having the [Wishbound](Boons_and_Flaws.md#flaws) flaw during nighttime.
 
 ## Sanity Restoring Effects

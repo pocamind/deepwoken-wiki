@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 196802
+revid: 196991
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -14,7 +14,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 | droppable | Yes |
 | pass down | No |
 | desc | Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed... |
-| obtainment | Trade The Gaunt Man an Exotic Hide |
+| obtainment | Curse of Captain Greene Enchant Stone:, Trading an Exotic Hide to The Gaunt Man |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: The Gaunt Man
-revid: 191661
+revid: 197001
 source: https://deepwoken.fandom.com/wiki/The_Gaunt_Man
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Krulian NPCs, Pathfinder Exclusive, NPCs, Vendors]
@@ -195,48 +195,53 @@ The Gaunt Man will task you with taking on [The Vat](The_Vat.md), a dungeon that
 <table>
 <tbody>
 <tr>
-  <td colspan="18">Begin Dialogue</td>
+  <td colspan="8">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="18">You return. This is good. Would you like to assist me further in experiments? You can have the material results.</td>
+  <td colspan="8">You return. This is good. Would you like to assist me further in experiments? You can have the material results.</td>
 </tr>
 <tr>
-  <td colspan="3">Void Enchant [25 <a href="Void_Spire.md"><font><u>Void Spires</u></font></a>, 10 <a href="Crowns.md"><font><u>Crowns</u></font></a>]</td>
-  <td colspan="3">Rain Enchant [25 <a href="Rain_Spire.md"><font><u>Rain Spires</u></font></a>, 10 <a href="Crowns.md"><font><u>Crowns</u></font></a>]</td>
-  <td colspan="3">Parasol's Blight [<a href="Parasol_Part.md"><font><u>Parasol Part</u></font></a>]</td>
-  <td colspan="3">Aegis Gem [<a href="Doom_of_Caeranthil's_Scale.md"><font><u>Doom of Caeranthil's Scale</u></font></a>]</td>
-  <td colspan="3">Lets try that experiment again.</td>
-  <td colspan="3">Who - or what - are you, exactly?</td>
+  <td>Void Enchant [25 <a href="Void_Spire.md"><font><u>Void Spires</u></font></a>, 10 <a href="Crowns.md"><font><u>Crowns</u></font></a>]</td>
+  <td>Rain Enchant [25 <a href="Rain_Spire.md"><font><u>Rain Spires</u></font></a>, 10 <a href="Crowns.md"><font><u>Crowns</u></font></a>]</td>
+  <td>Parasol's Blight [<a href="Parasol_Part.md"><font><u>Parasol Part</u></font></a>]</td>
+  <td>Aegis Gem [<a href="Doom_of_Caeranthil's_Scale.md"><font><u>Doom of Caeranthil's Scale</u></font></a>]</td>
+  <td>Curse of Captain Greene Enchant [<a href="Exotic_Hide.md"><font><u>Exotic Hide</u></font></a>]</td>
+  <td>Kyrsan Necklace [<a href="Charged_Bonecharm.md"><font><u>Charged Bonecharm</u></font></a>]</td>
+  <td>Lets try that experiment again.</td>
+  <td>Who - or what - are you, exactly?</td>
 </tr>
 <tr>
-  <td colspan="3">Purchases <a href="Curse_of_Void.md"><font><u>Curse of Void</u></font></a> Enchant Stone</td>
-  <td colspan="3">Purchases <a href="Rain_(enchantment).md"><font><u>Rain</u></font></a> Enchant Grease</td>
-  <td colspan="3">Purchases <a href="Parasol's_Blight.md"><font><u>Parasol's Blight</u></font></a> Enchant Stone</td>
-  <td colspan="3">Purchases <a href="Aegis_Gem.md"><font><u>Aegis Gem</u></font></a></td>
-  <td colspan="3">[Enter Dungeon]</td>
-  <td colspan="3">Mm. Let me try a metaphor. If you are a stalk of wheat, then I am a loaf of bread. This is a fitting analogy.</td>
+  <td>Purchases <a href="Curse_of_Void.md"><font><u>Curse of Void</u></font></a> Enchant Stone</td>
+  <td>Purchases <a href="Rain_(enchantment).md"><font><u>Rain</u></font></a> Enchant Grease</td>
+  <td>Purchases <a href="Parasol's_Blight.md"><font><u>Parasol's Blight</u></font></a> Enchant Stone</td>
+  <td>Purchases <a href="Aegis_Gem.md"><font><u>Aegis Gem</u></font></a></td>
+  <td>Purchases <a href="Curse_of_Captain_Greene.md"><font><u>Curse of Captain Greene</u></font></a> Enchant Stone</td>
+  <td>Purchases <a href="Charged_Bonecharm.md"><font><u>Charged Bonecharm<u></u></u></font></a><u><u></u></u></td>
+  <td>[Enter Dungeon]</td>
+  <td>Mm. Let me try a metaphor. If you are a stalk of wheat, then I am a loaf of bread. This is a fitting analogy.</td>
 </tr>
 <tr>
-  <td colspan="12">I see. We have learnt much.</td>
-  <td colspan="3"></td>
-  <td colspan="3">You wouldn't happen to be a Krulian would you?</td>
+  <td colspan="6">I see. We have learnt much.</td>
+  <td>[End Dialogue]</td>
+  <td>You wouldn't happen to be a Krulian would you?</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
-  <td colspan="3"></td>
-  <td colspan="3"><a href="Glossary.md#krulians">Krulian</a>. Yes, some portion of me knows this to be true.</td>
+  <td colspan="6">[End Dialogue]</td>
+  <td></td>
+  <td><a href="Glossary.md#krulians">Krulian</a>. Yes, some portion of me knows this to be true.</td>
 </tr>
 <tr>
-  <td colspan="15"></td>
-  <td colspan="3">[End Dialogue]</td>
+  <td colspan="7"></td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](<Rain_(enchantment).md>) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
+-   All items sold by the Gaunt Man ([Curse of Void](Curse_of_Void.md) Enchant, [Rain](<Rain_(enchantment).md>) Enchant, [Curse of Captain Greene](Curse_of_Captain_Greene.md) Enchant, [Parasol's Blight](<Parasol's_Blight.md>) Enchant, and the [Aegis Gem](Aegis_Gem.md)) will be inactive if you have not completed his experiments on that character.
     -   This also applies to the [Nightbringer](Nightbringer.md) Enchant, even though he doesn't sell you this item.
+-   Though it appears that the Gaunt Man is offering you the [Kyrsan Necklace](Kyrsan_Necklace.md) for the [Charged Bonecharm](Charged_Bonecharm.md), it is actually the opposite.
 -   If you've beaten [The Ferryman](The_Ferryman.md) during Spring and have asked what he is, a new dialogue option for The Gaunt Man will appear after his experiment, in which he confirms that he's a [Krulian](Krulian.md).
     -   This may mean that Krulians are made up of more than just souls, as in a previous dialogue line, he uses an analogy to compare the player as a single stalk of wheat, but himself to bread. This can be inferred to meaning the stalk wheat = a singular soul, but as bread is made up of more than just wheat, Krulians may be made up of more than just souls. Though, given both how bread is made in gameplay and the Gaunt Man's lack of knowledge, he may well really just mean that he's multiple people.
 -   When you die in the experiment, he states: "Ah. I was hoping to learn more from that one. Oh well." he is very likely referring to the player character here, not the monsters. This theory is reinforced by his dialogue when you complete the experiment being "Hm. I have much to learn about your kind. Please do return for more experiments."

@@ -1,6 +1,6 @@
 ---
 title: Shadebolt
-revid: 196942
+revid: 197112
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]
@@ -37,4 +37,10 @@ The **Shadebolt** is a Mythical [Bow](Weapons.md#bows) imbued with [Shadowcast](
 
 ## Critical
 
-The user spins the Shadebolt in their hand and takes aim, before unleashing a burst of six Shadow-imbued arrows at once. The trajectory of these arrows is random.
+The user spins the Shadebolt in their hand and takes aim, before unleashing a burst of seven Shadow-imbued arrows at once.
+
+Each arrow deals 0.25x Shadebolt's scaled damage. Though these are considered projectiles, they do not suffer damage falloff from range.
+
+On hit, steal Ether and proc certain [Shadowcast](Shadowcast.md) Talents such as [Singularity](Talents.md#singularity).
+
+This critical has a cooldown of **7 seconds**.
