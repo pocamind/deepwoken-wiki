@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 196911
+revid: 197166
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -64,10 +64,9 @@ Combining both Talents and other sources, the total amounts to **420**. However,
     -   _Pitcher_ and _Duelist's Dance_ granted 3 and 4 carry load respectively, but were removed on April 15th, 2025.
     -   _Lootskipper_ granted 4 carry load, but was removed on July 15th, 2025.
     -   _Ether Conduit_ granted 7 carry load, but was removed on August 4th, 2025.
-    -   _Turning of the Wheel_ granted 6 carry load, but that bonus was taken away at some point (shadow update).
 -   On the February 17th, 2026 update, several changes were made regarding carry load;
     -   A few Talents had their innate carry load changed: Gourmand 2 -> 5, Steady Footing 9 -> 5, Strong Stern 9 -> 5, Pack Mule 1 -> 10
     -   25 Talents and 4 Quest Talents had their innate carry load removed. This resulted in the theoretical maximum carry load build losing 110 carry load. Mileage may vary on pre-existing bank slots.
-    -   The innate carry load gained from Strength investment was reduced from 2 per point to 0.5 per point, but Fortitude was changed to give 0.5 carry load per investment point as a tradeoff.
+    -   The innate carry load gained from Strength investment was reduced from 1 per point to 0.5 per point, but Fortitude was changed to give 0.5 carry load per investment point as a tradeoff.
     -   The character's base carry load was increased from 100 to the current 130.
     -   The weight of equipment items were changed, with it being based on equipment type rather than it being a flat 2 per item.

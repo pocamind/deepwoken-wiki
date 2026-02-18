@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 196951
+revid: 197188
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -174,7 +174,7 @@ _Your inventory will be color-coded to assist you in finding types of items. Sho
   3rd place in the inventory. Consists of items that train your character's <a href="Attributes.md">attributes</a> such as Ankle Weights, Dumbell, Vest/Boulder, and Encyclopedia</td>
 </tr>
 <tr>
-  <td colspan="10"><u>Equipment</u> - Weight: 2<br>
+  <td colspan="10"><u>Equipment</u> - Weight: 0.1 - 2<br>
   4th place in the inventory. Consists of equippable armor and clothing pieces if you meet the requirements.</td>
 </tr>
 <tr>

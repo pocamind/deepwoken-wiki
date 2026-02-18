@@ -1,9 +1,9 @@
 ---
 title: Coldpoint
-revid: 197091
+revid: 197130
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons]
+categories: [Weapons, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
 ---
 
 # Coldpoint
@@ -14,7 +14,7 @@ categories: [Weapons]
 | damage type | Rapier \| Light \| Slash |
 | requirements | 25 ICE; 70 LHT |
 | damage | 13 |
-| scaling | 3ICE; 7 LHT |
+| scaling | 3 ICE; 7 LHT |
 | posture damage | 4 |
 | range | 8 Lunge |
 | swing speed | 1.06x |

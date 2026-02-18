@@ -1,6 +1,6 @@
 ---
 title: Charged Ring
-revid: 178643
+revid: 197136
 source: https://deepwoken.fandom.com/wiki/Charged_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -24,12 +24,11 @@ categories: [Equipment, Rings]
 
 ## Description
 
-**Charged Ring** is a Ring [Equipment](Equipment.md). The Charged Ring reduces the charges required to proc [Crystal Explosions](Frostdraw.md#glassdancer) and [Surge Overloads](Thundercall.md#unstable-capacitor). 6 -> 5.
+The **Charged Ring** is a Ring [Equipment](Equipment.md). The Charged Ring reduces the charges required to proc [Crystal Explosions](Frostdraw.md#glassdancer) and [Surge Overloads](Thundercall.md#unstable-capacitor) from 6 to 5.
 
 Despite what the item's description says, it doesn't inherently decrease the amount of damage Surge Overloads and Crystal Explosions deal. The damage dealt by these abilities scales with the amount of stacks applied before they proc, meaning having less overall stacks does mean less damage. In other words, it does not affect their damage output when guard breaking an opponent.
 
-The model seems to be the same as a [Ferryman's Ring](<Ferryman's_Ring.md>) but blue instead of green.
-
 ## Trivia
 
--   Charged Ring is a semi-rare drop, however not nearly as rare as a [Bloodforged Crown](Bloodforged_Crown.md). At one point it was extremely rare due to a bug. This equipment is difficult to obtain because it specifically drops from [Fishing](Fishing.md) with an **extremely** low drop rate (as all things you get from fishing) or [Primadon](Primadon,_Titan_of_the_East.md).
+-   At one point the Charged Ring was extremely rare due to a bug. This equipment is difficult to obtain because it specifically drops from [Fishing](Fishing.md) with an **extremely** low drop rate or [Primadon](Primadon,_Titan_of_the_East.md).
+-   The model seems to be the same as a [Ferryman's Ring](<Ferryman's_Ring.md>), but blue instead of green.

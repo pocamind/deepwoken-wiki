@@ -1,6 +1,6 @@
 ---
 title: Version History/Uncollapsed
-revid: 196797
+revid: 197177
 source: https://deepwoken.fandom.com/wiki/Version_History/Uncollapsed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress with reason, InProgressPages, Deepwoken]
@@ -27,7 +27,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 
   
 
-## **February 16th, 2026 | pv\_FEB\_17\_04:27a**
+## **February 16th, 2026 | pv\_FEB\_18\_00:46a**
 
 **World Events Rework**  
 💡 World Events have been reworked with a new system. Much like how Carnival of Hearts worked before, a UI will pop up on the side of the screen advertising that a World Event has begun. Unlike how Carnival worked previously, clicking join will matchmake you and your squad with players from across the game and transport you to the World Event's location. Will you cooperate with strangers or squabble over the loot?  
@@ -473,13 +473,13 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🩹 Karliah quest spot fixed  
 🩹 Removed Kyrsdogs, Pumpkin Pie, and cooked boss foods from Chef Odiolavoro's quests
 
-### _**Patch 2.5.4a**_
+### _**Patch 3.2.4a**_
 
 **Hotchanges**  
 🔧 Gliders are now a lot more smooth and have damping on their velocity/direction changes  
 🩹 Fixed Foretelling not working for Deep Shrine chances
 
-### _**Patch 2.5.4b**_
+### _**Patch 3.2.4b**_
 
 **Hotfixes**  
 🩹 Fixed Blood Hemorrhage dealing more than 15% of PvE's health with chain of perfection  
@@ -630,7 +630,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🩹 You are no longer able to equip Vow of Iron equipment in the Pathfinder gamemode  
 🩹 Fixed Emotion Wave playing its indicator on every wave summon instead of only once at the start
 
-### _**Patch 2.5.3a**_
+### _**Patch 3.2.3a**_
 
 **Hotfixes**  
   
@@ -725,7 +725,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🩹 Fixed Heart of Enmity's loot being automatically placed into your backpack upon his defeat, this is only intended for Vow of Iron's True Heart of Enmity  
 🩹 Fixed Wall jumps sometimes failing to work, especially if you stood very close to the wall you were trying to climb up
 
-### _**Patch 2.5.2a**_
+### _**Patch 3.2.2a**_
 
 **Hotchanges**  
 ⚖️ You are now unable to use Windwaker in combat  
@@ -746,7 +746,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🩹 Fixed depths elevator by squibbo not coming back down  
 🩹 Fixed summoning a boat with Seafarer's Chime teleporting you to the boat while it was underwater
 
-### _**Patch 2.5.2b**_
+### _**Patch 3.2.2b**_
 
 **Hotfixes**  
 ⚖️ Stone rework: No longer does extra posture damage on m1, instead does extra damage whenever your guardbreak your opponent with m1 or critical  
@@ -764,7 +764,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 📰 To celebrate 4 Years of Deepwoken, everything is **50% off** until 2026!  
 📰 Pathfinder Drowned Favours have been reset. This means that any Pathfinder builds that you previously used a Drowned Favour on will be able to be revived with a Drowned Favour once again. This does not apply to Vow of Iron.
 
-### _**Patch 2.5.2c**_
+### _**Patch 3.2.2c**_
 
 **Hotfixes**  
 🩹 Fixed Taunters Tongue, Jackpot, Compelling Offer, Voice of the Mad God and Sweeten the Deal being obtainable in Pathfinder  
@@ -777,7 +777,7 @@ Starting from December 21st, 2025, the game version of the latest patch for an u
 🔧 The 'Enforcer Labubu' has been furloughed and replaced...  
 🔧 Reduced the volume on wall bounces and double jumps
 
-### _**Patch 2.5.2d**_
+### _**Patch 3.2.2d**_
 
 **Hotchanges**  
 💡 Implemented the Iron Vow Contour tracks, composed by none other than Naktigonis!  
@@ -899,7 +899,7 @@ Merry Kyrsmas! We’re incredibly grateful for all the support and thoughtful fe
 🩹 Fixed the initial slash on Twincleave being invisible  
 🩹 ...Fixed the Summer Isle cannon considering you friendly if you had neutral or higher reputation with The Central Authority instead of The Summer Company. Oops
 
-### _**Patch 2.5.1a**_
+### _**Patch 3.2.1a**_
 
 **Hotchanges**  
 ⏫ At Power 5 and below, Parliament and Prime Megalodaunt no longer spawn in Depths trials  
@@ -928,7 +928,7 @@ Merry Kyrsmas! We’re incredibly grateful for all the support and thoughtful fe
 🔧 Titus will now teleport back to his ship if he wanders too far. Fixed being able to spawn him multiple times  
 ⚙️ Optimized item loading further
 
-### _**Patch 2.5.1b**_
+### _**Patch 3.2.1b**_
 
 **Hotchanges**  
 💡 New Rings added  
@@ -1057,7 +1057,7 @@ Merry Kyrsmas! We’re incredibly grateful for all the support and thoughtful fe
   
 _As we're hard at work on getting Vow of Iron out, this week's patch has been focused on fixing longstanding issues with balance, bugs, and server performance._
 
-### _**Patch 2.5.0a**_
+### _**Patch 3.1.6a**_
 
 **Hotfixes**  
 📰 Hallowtide has drawn to its (somewhat extended) conclusion. Until next year!  
@@ -1196,7 +1196,7 @@ As always, Week 2 will have even more in store!_
 🩹 Fixed Stratos Step not working  
 🩹 Fixed Temp HP's cap being overridden in certain instances
 
-### _**Patch 2.4.9a**_
+### _**Patch 3.1.5a**_
 
 **Hotfixes**  
 🩹 Fixed hitting Gourdskippers hitting you instead  
@@ -1233,7 +1233,7 @@ As always, Week 2 will have even more in store!_
   
 _Just a small patch this week as we're hard at work on getting Hallowtide and the other roadmap milestones shipshape._
 
-### _**Patch 2.4.8a**_
+### _**Patch 3.1.4a**_
 
 **Balance Hotfix**  
 ⏬ Temporary health is now capped to a flat value of 200  
@@ -1306,7 +1306,7 @@ _Just a small patch this week as we're hard at work on getting Hallowtide and th
 🩹 Fixed the jump landing animation hiding mantras  
 🩹 Fixed Titus Throw not having the right Indicator
 
-### _**Patch 2.4.7a**_
+### _**Patch 3.1.3a**_
 
 **Hotfixes**  
 🩹 Fixed inconsistent execute behavior for Authority players  
@@ -1380,7 +1380,7 @@ _Small patch this week as we've been busy releasing a lot of hotfixes throughout
 🩹 Fixed NPC gestures not playing on anything but initial (greeting) dialogue  
 🩹 Reduced how long your character was recognized as sprinting for (caused issues where you would stop running and would still do a running light attack)
 
-### _**Patch 2.4.5a**_
+### _**Patch 3.1.1a**_
 
   
 **Hotfixes**  
@@ -1396,7 +1396,7 @@ _Small patch this week as we've been busy releasing a lot of hotfixes throughout
 🩹 Fixed world event map markers  
 🩹 Fixed Inquisitor talents not being rollable
 
-### _**Patch 2.4.5b**_
+### _**Patch 3.1.1b**_
 
 **Hotfixes & Changes**💡 Years ingame are now 8 days outside of the game, matching up to the 8 months of Lumen in lore. For historians, this came into effect in Spring/Hearthspan 1617 CE  
 💡 Slightly tweaked Warmaster's Medallions model  
@@ -1417,7 +1417,7 @@ _Small patch this week as we've been busy releasing a lot of hotfixes throughout
 🩹 Fixed squads resetting on death  
 🩹 Fixed Capture Prisoner mission not spawning
 
-### _**Patch 2.4.5c**_
+### _**Patch 3.1.1c**_
 
 **Hotfixes**  
 ⏫ Buster Call Buffed  
@@ -1778,7 +1778,7 @@ _Following community polling, we've reverted almost all of the changes to moveme
 📰 Please note that the new character controller's movement is still a work in progress. Dashes/slides/walljumps/etc. are likely to feel a bit different. We're going to be finetuning it in the coming days, so if anything feels off in meantime, don't worry, it likely won't stay like that!  
 🔧 Camera lock turning is instant again
 
-### _**Patch 2.4.1a**_
+### _**Patch 2.147a**_
 
 **Hotfixes**  
 🔧 Sources of velocity like dash/slide/etc. now instantaneously change your velocity on application instead of having to wait for them to apply the necessary forces to change to the new velocity. This should restore a lot of the feeling of old movement  
@@ -1801,7 +1801,7 @@ _Following community polling, we've reverted almost all of the changes to moveme
 🩹 Fixed not being able to slide under gaps  
 🩹 Fixed aerials not having velocity
 
-### _**Patch 2.4.1b**_
+### _**Patch 2.147b**_
 
 **Hotfixes**  
 🔧 Greatly decreased the momentum in the air with the new character controller. Should eliminate the slippery feeling movement and bring the movement a LOT more in line with the old movement  
@@ -1813,7 +1813,7 @@ _Following community polling, we've reverted almost all of the changes to moveme
 🩹 Fixed Soulwrought Axe skill placing you inside the ground  
 🩹 Fixed holding movement killing your slidejump momentum
 
-### _**Patch 2.4.1c**_
+### _**Patch 2.147c**_
 
 **Midweek Changes**  
 🔀 Walljumps/climbing have been reverted to the old movement system, but have received updates to work on moving ships  
@@ -1898,14 +1898,14 @@ _Following community polling, we've reverted almost all of the changes to moveme
 🩹 Fixed being able to apply Enchant Grease in Layer 2  
 🩹 Fixed Enchant Grease not granting 'Soulbound an Item' triumph
 
-### _**Patch 2.4.0a**_
+### _**Patch 2.146a**_
 
 **Hotfixes**  
 🩹 Fixed lingering training UI state  
 🩹 Fixed attribute editing in character creation  
 🩹 Fixed To1 softlock
 
-### _**Patch 2.4.0b**_
+### _**Patch 2.146b**_
 
 **Midweek Hotfixes & Changes**  
 ⚖️ **Posture recovery from parrying naturally increased by around 50%.** Due to all the posture nerfs recently (posture talents, spits, exhaustion strike, etc), we are now a lot more comfortable letting parries become stronger for removing posture. This should help to deal with a lot of playstyles that abuse being able to hit block (examples being airswinging/fighting a mage). The idea being that you can simply parry back your posture instead of overly relying upon things like spits and Unwavering Resolve. Naturally, the balance here is something we're gonna keep a close eye on  
@@ -2015,7 +2015,7 @@ Behind the scenes, we're also investigating ways of automating some of our testi
 ⚙️ Loading speeds for the main menu have been greatly increased  
 ⚙️ When anchored, ships sway more smoothly and with less clientside lag
 
-### _**Patch 2.3.9a**_
+### _**Patch 2.145a**_
 
 **Hotfixes**  
 ⏫ Underdog WLL req reduced (40 -> 30). Formula has been adjusted to be less punishing for those under reqs. Scaling starts at 2% with 20 WLL, and scales up to 4% at 60 WLL  
@@ -2238,7 +2238,7 @@ Fixed weird slide-jump behavior
 Reverted autoparry getting removed on all windups, makes multihits too strong  
 Fixed Lightspeed Reflexes giving you crazy autoparry frames
 
-### _**Patch 2.3.8a**_
+### _**Patch 2.144a**_
 
 **Hotfixes**  
 🔧 Feint inputs are less strict on timing, fixes some issues players were having where it felt like their feints weren't being received  
@@ -2385,7 +2385,7 @@ Fixed Lightspeed Reflexes giving you crazy autoparry frames
 🩹 Fixed Dimensional Travel dumping you out in the boonies  
 🩹 Fixed cooldown indicators not clearing
 
-### _**Patch 2.3.7a**_
+### _**Patch 2.143a**_
 
 **Hotfixes**  
 💡 Gave the talent 'Stronger Under Pressure' a new effect, removed the old effect  
@@ -2706,7 +2706,7 @@ Fixed Lightspeed Reflexes giving you crazy autoparry frames
 • Fixed camera lock cursor not always showing up  
 • Fixed Krulian Charge going on cd permanently
 
-### _**Patch 2.3.5a**_
+### _**Patch 2.141a**_
 
   
 **Community Questions Corner**  
@@ -2875,7 +2875,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 **Q: Will we ever see more dual attunement paths?**  
 • Yes. 😈
 
-### _**Patch 2.3.3a**_
+### _**Patch 2.139a**_
 
 **Hotfixes**  
 • Fixed Termite  
@@ -2890,7 +2890,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed Outfit Talents not loading at all  
 • Fixed a few ways of duping or otherwise messing with Mantras
 
-### _**Patch 2.3.3b**_
+### _**Patch 2.139b**_
 
 **Hotfixes**  
 • Added a system to restore missing Mantras automatically. Reworked Mantra data handling to have much less room for data loss  
@@ -2983,7 +2983,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed Sudaruska's Fury proccing preventing you from attacking  
 • Fixed a gamebreaking bug involving Rocket Lance and Ice Lance which would instantly kill players
 
-### _**Patch 2.3.2a**_
+### _**Patch 2.138a**_
 
 **Hotfixes & Changes**  
 • Corrupted Mobs now count as **2** kills for your Bestiary  
@@ -3119,7 +3119,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 **Additional Fixes**  
 • Fixed Graceful Steps removing the 5 second CD that Dancing Steps is supposed to have, which also caused people to spam it when out of ether for insane speed boosts
 
-### _**Patch 2.3.1a**_
+### _**Patch 2.137a**_
 
 **Hotfixes**  
 • Fixed mobs having much higher parry rates than intended. In short, mobs would have parry frames whenever they wanted to block instead  
@@ -3138,7 +3138,8 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 ## **June 9th, 2025**
 
 **Content & Systems**  
-• Years of tidal and acidic erosion have dramatically altered the shores of Erisia, opening up new routes of travel and new areas to explore A strange merchant has carved out a spot in the cliffs of Erisia  
+• Years of tidal and acidic erosion have dramatically altered the shores of Erisia, opening up new routes of travel and new areas to explore  
+A strange merchant has carved out a spot in the cliffs of Erisia  
 • Ziplines have been reworked. If you tap space while near a zipline and facing its direction of travel, you'll now automatically hook on and ride them  
 • Letting go of a zipline at speed now keeps your momentum, letting you launch yourself forward. Your starting speed on ziplines is now also affected by your current velocity, letting you jump-start your zipline ride  
 • Replaced Bamboo on shorelines with a new ingredient: Marram Grass. Marram grass can be processed into fibers in the same way but makes more sense than bamboo growing on beaches  
@@ -3247,7 +3248,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed camera in character creation  
 • Fixed rotating your character in character creation
 
-### _**Patch 2.2.9a**_
+### _**Patch 2.135a**_
 
 **Hotfixes**  
 • Fixed Dungeon and Chime of Conflict teleports only teleporting one player  
@@ -3352,7 +3353,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed stances not saving  
 • Fixed Blood Orb having the cannon explosion visual. Fixed projectile trajectory
 
-### _**Patch 2.2.8a**_
+### _**Patch 2.134a**_
 
 **Hotfixes**  
 • Fixed Worms  
@@ -3440,7 +3441,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed Lightning Wisp not proccing its flourish effect if enchants are disabled  
 • Fixed Scion of Ethiron's circular bone floor wave attack being completely invisible
 
-### _**Patch 2.2.7a**_
+### _**Patch 2.133a**_
 
 **Weapon Stances & Visuals**  
 • Reworked the backend systems for weapon stances, weapon visuals/attachment, and weapon anim fetching to be a lot less error-prone and a lot less laggy  
@@ -3458,7 +3459,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed Jetstriker being unobtainable  
 • Fixed a bunch of region exclusive books not being obtainable from bookshelves
 
-### _**Patch 2.2.7b**_
+### _**Patch 2.133b**_
 
 **Hotfixes**  
 • Fixed a gamebreaking bug that allowed mantras to be casted without any windup  
@@ -3470,7 +3471,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Doubled the chances of finding books from bookshelves  
 • Fixed large bookshelves
 
-### _**Patch 2.2.7c**_
+### _**Patch 2.133c**_
 
 **Hotfixes**  
 • Fixed Uppercuts not uppercutting  
@@ -3567,7 +3568,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Further toned down the impact of Lava Eruption vfx on Photosensitive Mode  
 • Optimized snow weather
 
-### _**Patch 2.2.6a**_
+### _**Patch 2.132a**_
 
 **Hotfixes**  
 • Fixed Paralytic Dust not applying its 90% damage reduction on paralyzed targets  
@@ -3694,7 +3695,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed a few shops not always handling themselves correctly  
 • Fixed resonance dyes not showing
 
-### _**Patch 2.2.5a**_
+### _**Patch 2.131a**_
 
 **Hotfixes**  
 • Buffed Thresher speed  
@@ -3758,7 +3759,7 @@ _Moving forwards, we're gonna try to do community Q&A's fairly regularly to hope
 • Fixed Going Nowhere having unreliable behavior  
 • The Soulbreaker Mantle's particles now correctly change with dye
 
-### _**Patch 2.2.4a**_
+### _**Patch 2.130a**_
 
 **Hotfixes**  
 • Fixed horizontal mobility chain having inverted logic, making it always apply a penalty when it shouldn't. Oops  
@@ -3883,7 +3884,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Fixed Rosen's Roscoe being unobtainable  
 • Optimized Equipment loading
 
-### _**Patch 2.2.1a**_
+### _**Patch 2.127a**_
 
 **Hotfixes**  
 • Fixed Traits and Flaws being aligned to the right side of the UI instead of the left side  
@@ -3969,7 +3970,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Fixed not being able to shift lock while in new tab menu  
 • Fixed Mobs not respecting Vent CD
 
-### _**Patch 2.2.0a**_
+### _**Patch 2.126a**_
 
 **Hotfixes**  
 • Fixed Neural Pathway ignoring wall checks when teleporting  
@@ -4043,7 +4044,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Fixed a few particles not showing properly (e.g. nemesis mark)  
 • Fixed Idol of Yun'Shul reroll resonance option always tarnishing you regardless of whether you unlocked Soul Plasticity or not
 
-### _**Patch 2.1.9a**_
+### _**Patch 2.125a**_
 
 **Hotfixes**  
 • Fixed Mind score showing Body score instead  
@@ -4161,7 +4162,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Fixed Carnival of Hearts not adding you as a participant if you load in more than a few seconds late  
 • Added a fallback safety system for if map geometry changes that should prevent you falling to your death when you log back in
 
-### _**Patch 2.1.8a**_
+### _**Patch 2.124a**_
 
 **Sea Revert**  
 • While we work on a new rewrite of the sea, the sea has been reverted back to how it was before, as the version ingame is mostly just laggy and ugly. When we release the new rewrite, it'll be available as a new option, instead of being forced onto everyone. Our plan is to eventually make it default, but this won't happen until we're happy with the performance.  
@@ -4286,7 +4287,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Fixed list prompt coloring (e.g. Armorer's Needle prompt)  
 • Fixed a number of Frostdraw VFX's always being recolored regardless of whether you have Glass Path: Crystallization or not
 
-### _**Patch 2.1.6a**_
+### _**Patch 2.122a**_
 
 **Hotfixes**  
 • Improved sea throttling behavior significantly. Should especially improve performance of new sea on low GFX mode  
@@ -4383,7 +4384,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Fixed Barber's Skillset UI not dismissing  
 • Fixed base walk anim
 
-### _**Patch 2.1.5a**_
+### _**Patch 2.121a**_
 
 **Hotfixes**  
 • Fixed bell unlock vfx playing on enemies instead of the player who unlocked them  
@@ -4513,7 +4514,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Optimized Ferryman attacks  
 •
 
-### _**Patch 2.1.4a**_
+### _**Patch 2.120a**_
 
 **Hotfixes**  
 • Fixed Glads  
@@ -4598,7 +4599,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Sanguine Dive VFX fixed  
 • Fixed Adrenaline Surge VFX not lining up with the duration
 
-### _**Patch 2.1.3a**_
+### _**Patch 2.119a**_
 
   
 **Hotfixes**  
@@ -4674,7 +4675,7 @@ In talks with our Corporate Sponsors, we have pioneered a new, inspiring, innova
 • Optimized Crustaceous Rex bubble attack  
 • Fixed not starting out with Aerial Assault (air dash) in BR
 
-### _**Patch 2.1.2a**_
+### _**Patch 2.118a**_
 
 **Hotfixes**  
 Fixed Lumber Axe not respecting M1 cooldowns and movestacking with mantras  
@@ -5010,7 +5011,7 @@ Clarification on Multifaceted: Basically, the 5 points you get from your Aspect 
 • We're going to be pushing the update out to Instanced servers (i.e. Dungeons, Chime) first while we do some final bugfixing for World Events  
 • We'll push the update out to the Overworld (Depths, Etrean Lum, East Lum) once we've verified that the update is good to go. Shouldn't be long!
 
-### _**Patch 2.0.8a**_
+### _**Patch 2.114a**_
 
 • Fixed Carnival of Hearts World Event  
 • Fixed being unable to target others with Resurrection Bell  
@@ -5020,7 +5021,7 @@ Clarification on Multifaceted: Basically, the 5 points you get from your Aspect 
 • Fixed being unable to target others with Resurrection Bell  
 • Fixed Tacet being completely unusable
 
-### _**Patch 2.0.8b**_
+### _**Patch 2.114b**_
 
 **Hotfixes & Small Changes**  
 • World Events are no longer RNG and instead operate on a set rotation  
@@ -5038,13 +5039,13 @@ Clarification on Multifaceted: Basically, the 5 points you get from your Aspect 
 • Enmity is now immune to all enchant effects; fixed immunity against Sear and Grim enchants not working  
 • Enmity now has 65% Oath damage resistance
 
-### _**Patch 2.0.8c**_
+### _**Patch 2.114c**_
 
 • Fixed Enmity loot not being sellable  
 • Fixed both Aelita and Tillian being named "AelitaTillian" in dialogue  
 • Fixed Rising Thunder teleporting you to oblivion
 
-### _**Patch 2.0.8d**_
+### _**Patch 2.114d**_
 
 • Fixed the huge lagspikes from Radiant Dawn  
 • Added a setting to disable the confirmation prompt for leaving the game. If your items are at risk of voiding, the game will still prompt you before leaving  
@@ -5113,7 +5114,7 @@ _One of the biggest sources of lag, especially in the Eastern Luminant, is from 
 • Fixed Chaser softlock  
 • Fixed Chaser Blood Jars staying illuminated even after being destroyed
 
-### _**Patch 2.0.7a**_
+### _**Patch 2.113a**_
 
 • Reduced Umbrite Witherblade base damage (14 -> 13), MED scaling (14 -> 10), swing speed (1.07x -> 1x), Wither proc (70% of unscaled dmg -> 50% of unscaled dmg), Weight (6.5 -> 5), LVL req (12 -> 10)  
 • Antiheal duration on Witherblade crit reduced (15 -> 10)  
@@ -5253,7 +5254,7 @@ _(NOTE: The maximum number of Rare Talents you can have is 40)_
 • Reduced Rising Wind ragdoll dur, reduced airtime, reduced damage slightly  
 • 2x chests btw
 
-### _**Patch 2.0.5a**_
+### _**Patch 2.111a**_
 
 • Fixed Dimensional Travel previews  
 • Fixed not being able to cancel Ice Skate, Aerogliding, Shadow Roar, Ice Blades, Fire Gun, Rising Thunder, Ceaseless Slashes, Ice Carve, Lightning Impact, Rapid Punches, and a few other abilities  
@@ -5489,7 +5490,7 @@ Mantras. Big thanks to zyzyth for their help with designing these!
   
 • Spectral Grasp crit still needs some finishing touches but should drop either tonight or tomorrow. It IS getting its own crit, don't worry
 
-### _**Patch 2.0.2a**_
+### _**Patch 2.108a**_
 
 **Hotfixes**  
 • Increased Joy gain from scaring NPCs (1 -> 3)  
@@ -5507,7 +5508,7 @@ Mantras. Big thanks to zyzyth for their help with designing these!
   
 • Added unique Spectral Grasp crit and vfx
 
-### _**Patch 2.0.2b**_
+### _**Patch 2.108b**_
 
 • New Hallowtide Schematic: Wraith Knight  
 • New Hallowtide Schematic: Sigil Knight  
@@ -5576,7 +5577,7 @@ Mantras. Big thanks to zyzyth for their help with designing these!
 • Fixed Teleportation bell  
 • Fixed not being able to shrine Blood mantras
 
-### _**Patch 2.0.1a**_
+### _**Patch 2.107a**_
 
 • Fixed Vein Tendrils bugging you on miss  
 • Fixed Sanguine Dive not ending  
@@ -5669,7 +5670,7 @@ _This week comes with another round of major performance improvements, this time
 • Fixed War Mode not completing successfully in some servers  
 • Fixed Rockmaller aerial crit
 
-### _**Patch 2.0.0a**_
+### _**Patch 2.106a**_
 
 **Hotfixes**  
 • The Ritual Casting system has been completely rewritten. All long-standing issues with it have been fixed. Ritual Casts no longer awkwardly mess with equipping tools or false-start  
@@ -5677,7 +5678,7 @@ _This week comes with another round of major performance improvements, this time
 • Fixed anti-gank on mobs  
 • Your own attacks no longer damage your own Ice Fissure
 
-### _**Patch 2.0.0b**_
+### _**Patch 2.106b**_
 
 **War Mode Balancing**  
 • Dimensional Travel in War Mode is now 1:1 with physical space, meaning that 100 studs travelled in the Interstice is 100 studs travelled in the physical world. This still allows for ambushes and tactical retreats but prevents using it for fast-travel in War Mode  
@@ -5776,14 +5777,14 @@ _This week comes with another round of major performance improvements, this time
   
 • 2x chests btw.
 
-### _**Patch 1.9.9a**_
+### _**Patch 2.105a**_
 
 • Greatly optimized mobs by greatly reducing their parallel actor memory cost  
 • Fixed broken mobs  
 • Optimized a lot of the backend libraries in Deepwoken, should have some pretty good performance gains  
 • Fixed a major memory leak with characters
 
-### _**Patch 1.9.9b**_
+### _**Patch 2.105b**_
 
 • Fixed certain Equipment not displaying the correct pips/buffs  
 • Fixed mobs in Depths Trial being ungrippable
@@ -5897,7 +5898,7 @@ _Following a lot of improvements to our internal tools for editing and viewing e
 • Correction: Providence Coat LVL req is 10 now, error in transcription  
 • 2x chests btw
 
-### _**Patch 1.9.8a**_
+### _**Patch 2.104a**_
 
 • Fixed a tutorial softlock  
 • Flameguard Pauldrons LVL req added (8), given Rare pip, 1 Posture, and 3 HP  
@@ -6270,7 +6271,7 @@ Those that died at Power 16 to Power 20 to the Layer 1 void and had over 50% hea
 • Using the Radio in the Deepdrill now returns you to the lobby, letting you rest and access the amenities there  
 • Added a Blacksmith, Antiquarian, Mystic, Mantra Table, and Crafting Table to the Deepdrill lobby
 
-### _**Patch 1.9.3a**_
+### _**Patch 2.99a**_
 
 • The ELO algorithm for Chime 1v1's has been adjusted to be less punishing on a loss, especially against players with a very different ELO to you. This does also mean that your rating gain from winning has been reduced slightly, though the system is designed moreso to reduce the punishment of losing  
   
@@ -6635,15 +6636,15 @@ _The winner of the 2nd Official Equipment Concept Art Contest, designed by TU5SK
   
 2x chest weekend btw
 
-### _**Patch 1.8.7a**_
+### _**Patch 2.93a**_
 
 • Fixed Diluvian wave 25 loot pool not being the correct loot pool
 
-### _**Patch 1.8.7b**_
+### _**Patch 2.93b**_
 
 • Fixed Chainwarden mantras not showing up in your tools
 
-### _**Patch 1.8.7c**_
+### _**Patch 2.93c**_
 
 **Chainwarden Patch**  
 • New Chainwarden Talent: Perpetual Wrath  
@@ -6714,7 +6715,7 @@ _The winner of the 2nd Official Equipment Concept Art Contest, designed by TU5SK
 • Fixed Kyrswynter, Nagakiba followups on M1 not always proccing if not using input buffering  
 • 2x chests extended until the 22nd btw
 
-### _**Patch 1.8.6a**_
+### _**Patch 2.92a**_
 
 • Fixed unequipping from the Tab menu glitching you into the Rest screen
 
@@ -6783,17 +6784,17 @@ _The winner of the 2nd Official Equipment Concept Art Contest, designed by TU5SK
   
 • Fixed issues with hellmode and depths spawn rates
 
-### _**Patch 1.8.5a**_
+### _**Patch 2.91a**_
 
 • Fixed friendly fire on the Castle Light Defence System  
 • Fixed Duke  
 • Lowered damage on Kanabo standing crit
 
-### _**Patch 1.8.5b**_
+### _**Patch 2.91b**_
 
 (ungrippable mobs are fixed in servers created after July 12, 2024 7:20 PM)
 
-### _**Patch 1.8.5c**_
+### _**Patch 2.91c**_
 
 • Fixed Command: Explode spam
 
@@ -6852,7 +6853,7 @@ _The winner of the 2nd Official Equipment Concept Art Contest, designed by TU5SK
 • Adjusted duration of Providence's Thorns stack decay (7s -> 5s)  
 • 2x chests for the weekend btw
 
-### _**Patch 1.8.4a**_
+### _**Patch 2.90a**_
 
 • Fixed bosses not dying correctly, giving stupid amounts of knowledge and EXP as a reward. This knowledge won't be corrected so if you're one of the few who benefitted, enjoy!  
   
@@ -6931,7 +6932,7 @@ In recognition of the community's valiant efforts to vote for Deepwoken in the I
 • Fixed Hip Shooter enabling rifles to fire projectile shots  
 • Made Ice Daggers more reliable
 
-### _**Patch 1.8.3a**_
+### _**Patch 2.89a**_
 
 • Pleeksty's Inferno base damage increased (20 -> 22)  
 • 2x chests for the weekend :-)  
@@ -6939,7 +6940,7 @@ In recognition of the community's valiant efforts to vote for Deepwoken in the I
   
 • Fixed Delver Boots recipe, Wormward Lantern recipe
 
-### _**Patch 1.8.3b**_
+### _**Patch 2.89b**_
 
 • Ministry Cache event now gives Deepscorn Casque and the Darkened Bastion schematic on the first clear. Deepscorn Casque now drops for all subsequent clears so you can farm it for stats. Increased Knowledge reward for second and subsequent clears  
 • Fixed streaming issues with the Ministry Cache area (no more falling into the void)  
@@ -7014,7 +7015,7 @@ In recognition of the community's valiant efforts to vote for Deepwoken in the I
 • Fixed Forge Pieces being rooted in place  
 oh. 2x chests btw
 
-### _**Patch 1.8.2a**_
+### _**Patch 2.88a**_
 
 • Reduced Lightning Attuned Mob Shock proc duration (0.6s -> 0.4s)  
 • You now have a 1s CD on being Shocked by a Lightning Attuned Mob. This means that getting blendered by multiple of them isn't just a death sentence  
@@ -7089,7 +7090,7 @@ Note: Swing speeds didn't get increased by the overhaul, it's mostly just a visu
 • Loot All no longer has a windup in instanced servers (thanks NathaneltheRobloxg7 for the suggestion)  
 • Fixed Berserk sfx playing on self damage
 
-### _**Patch 1.8.1a**_
+### _**Patch 2.87a**_
 
 • Made Hold M1 less delayed  
   
@@ -7152,7 +7153,7 @@ Note: Swing speeds didn't get increased by the overhaul, it's mostly just a visu
   
 Note: How Guilds are ranked and the values of scoring will likely change from month to month.
 
-### _**Patch 1.8.0**_
+### _**Patch 2.86**_
 
 • Fixed some issues with the Diver event  
 • Fixed some bugs with the patch  
@@ -7219,7 +7220,7 @@ _Early patch this week! Patch days might arrive at slightly different times in t
   
 oh also 2x chests until monday have fun ❤️
 
-### _**Patch 1.7.9a**_
+### _**Patch 2.85a**_
 
 • Fixed Diluvian
 
@@ -7293,7 +7294,7 @@ The New Race Bonuses are as follows:
 • Fixed Observation frames not dodging M1's/crits  
 • P.S. Double Chest weekend
 
-### _**Patch 1.7.8a**_
+### _**Patch 2.84a**_
 
 • Fixed there being an input deadzone at the left side of the screen  
 • Fixed the Highway Gates playing weird noises  
@@ -7348,7 +7349,7 @@ The New Race Bonuses are as follows:
 The fish have devised a last-ditch effort to avoid their impending eradication:  
 • Double Size Chests for the weekend
 
-### _**Patch 1.7.7a**_
+### _**Patch 2.83a**_
 
 • Fishing Bobs now properly float with the waves  
 • Fixed Will o' Wisp not being rollable  
@@ -7402,7 +7403,7 @@ The fish have devised a last-ditch effort to avoid their impending eradication:
 • Fixed Learn All Schematics consuming schematics you've already learnt  
 • Fixed Cerulean Thread targeting being inconsistent
 
-### _**Patch 1.7.6a**_
+### _**Patch 2.82a**_
 
 • Fixed Metal Fakeout not properly cancelling on feint  
 • Reduced Tornado Fire Forge damage, posture damage  
@@ -7481,13 +7482,13 @@ The fish have devised a last-ditch effort to avoid their impending eradication:
 • Optimized windups on crits  
 • Fixed Fire Forge, Astral Wind, Fire Gun, Fire Palm, and Flame Ballista all having deafening activation sounds
 
-### _**Patch 1.7.5a**_
+### _**Patch 2.81a**_
 
 • Fixed Trident crit being busted with Stone  
 • Fixed hyperarmor not applying properly to some crit windups  
 • Loot All now becomes available after 3s (down from 5s)
 
-### _**Patch 1.7.5b**_
+### _**Patch 2.81b**_
 
 (not a hotfix, just missed a couple of patch notes from the update)  
 • Fixed 360 degree blocks not working for a lot of moves that were meant to have them  
@@ -7548,18 +7549,18 @@ The fish have devised a last-ditch effort to avoid their impending eradication:
 • Optimized Linkstrider Links  
 • Fixed some Maestro cheeses
 
-### _**Patch 1.7.4a**_
+### _**Patch 2.80a**_
 
 • Fixed issues with hitboxes in dungeons. Mods will be lenient with restores  
   
 • Controllers can now use the dpad to navigate dialogue options  
 • Fixed not being able to lock stats on controller
 
-### _**Patch 1.7.4b**_
+### _**Patch 2.80b**_
 
 • Fixed Blindseer prog skip option not showing up
 
-### _**Patch 1.7.4c**_
+### _**Patch 2.80c**_
 
 • Fixed oath prog skipping on a few oaths  
 • Fixed being able to dye things vantablack
@@ -7620,12 +7621,12 @@ _Designed by J3STTR as the winning entry of the Vigils Equipment Art Concept Con
 • Fixed visual rarity of Ysley's Pyre Keeper  
 • Fixed Corrupt TP waypoints sometimes not showing up
 
-### _**Patch 1.7.3a**_
+### _**Patch 2.79a**_
 
 • Fixed Pyre Keeper sliding critical not moving you forward and ending early  
 • Added a Banker to the Voidheart. Eylis is finally making money moves
 
-### _**Patch 1.7.3b**_
+### _**Patch 2.79b**_
 
 • Fixed Tacet buff from Stealth being inverted. Fixed your Stealth buff being inconsistent and depending on how soon after crouching you use Tacet
 
@@ -7675,7 +7676,7 @@ _Designed by J3STTR as the winning entry of the Vigils Equipment Art Concept Con
 • Reduced Proficiency scaling buff (7.5% -> 6.5%), was a bit overtuned with the recent change to it  
 • Reduced Layer 2 Wind strength (roblox randomly made it stronger somehow?)
 
-### _**Patch 1.7.2a**_
+### _**Patch 2.78a**_
 
 • Updated BR weapon pool to include newer weapons  
   
@@ -7686,7 +7687,7 @@ _Designed by J3STTR as the winning entry of the Vigils Equipment Art Concept Con
   
 • Buffed Flame Legendary drop rate in new servers
 
-### _**Patch 1.7.2b**_
+### _**Patch 2.78b**_
 
 • Fixed issues with carrying capacity not updating  
   
@@ -7778,7 +7779,7 @@ Note: There's no rule saying that there can only be one LW per element
 • Added an extra wave sampling point for ships so they should rock less dramatically. Should make larger vessels especially a lot more stable  
 • Fixed a memory leak with the Jetstriker aura
 
-### _**Patch 1.7.1a**_
+### _**Patch 2.77a**_
 
 • Mantras now build Perfection stacks again, but multihits build stacks slower  
 • Posture damage/gain from parrying a guard break reduced  
@@ -7791,7 +7792,7 @@ Note: There's no rule saying that there can only be one LW per element
 • Fixed withdrawing from banks in new servers  
 • Fixed Outfit dyeing temporarily dyeing your outfit black until you swap servers
 
-### _**Patch 1.7.1b**_
+### _**Patch 2.77b**_
 
 • Fixed Wyrmtooth crit not cancelling on parry
 
@@ -7813,11 +7814,11 @@ If your team wins we will add a sticker to the Discord of the winning team's mas
 • defeating another team in chime now gives your team 2 points  
 (overworld kills give 10 points)
 
-### _**Patch 1.7.0a**_
+### _**Patch 2.76a**_
 
 The results of the War will be determined at 2:00 PM UTC-5 Tuesday, April 2nd. May the best beast win.
 
-### _**Patch 1.7.0b**_
+### _**Patch 2.76b**_
 
 **Warring States Final Scores**  
 🥇 Red Daunts - 473,024 Pts  
@@ -7930,7 +7931,7 @@ The Red Daunts will receive a sticker to celebrate their victory.
   
 Credit to Lulux44 for the Fake Strike animation
 
-### _**Patch 1.6.9a**_
+### _**Patch 2.75a**_
 
 • Fixed Sea Outpost chests spawning in walls  
 • Sea events now spawn further away from you so you don't T-bone into a merchant ship and cause a 15 ship pile-up on the sea highway  
@@ -8024,7 +8025,7 @@ _A lot of these changes are somewhat experimental and are subject to change. We'
 • Fixed being able to bind UI-related keybinds to M1, potentially softlocking yourself  
 • Fixed being able to swap weapons during ritual casts
 
-### _**Patch 1.6.8a**_
+### _**Patch 2.74a**_
 
 • reverted Hunter's Reflexes nerf (no one using this outfit anyway)  
 • Fixed Radiant Kick not having a CD on whiff  
@@ -8032,7 +8033,7 @@ _A lot of these changes are somewhat experimental and are subject to change. We'
 • Fixed flinging in water (side effect of the change to make bobbing with the waves better so this has been reverted)  
 • Unreactable damage and self-damage is no longer delayed with ping compensation. e.g. chime storm damage, fall damage
 
-### _**Patch 1.6.8b**_
+### _**Patch 2.74b**_
 
 **Hotfixes**  
 • Added a setting for the ping compensation feature introduced this patch. Off by default  
@@ -8042,7 +8043,7 @@ _A lot of these changes are somewhat experimental and are subject to change. We'
   
 • Fixed the map only very infrequently updating your position
 
-### _**Patch 1.6.8c**_
+### _**Patch 2.74c**_
 
 **Hotfixes & Changes**• The base dodge frame decrease from the last patch now only applies against M1's and Crits. **The base dodge frames for all other sources of damage have been reverted back to 0.3s**, where they were before  
 • Safety Dance now provides a flat 0.02s bonus to base dodge frames instead of a 5% multiplier. This is a buff, as the nerf brought it down to a bonus of about 0.011s  
@@ -8125,19 +8126,19 @@ _A lot of these changes are somewhat experimental and are subject to change. We'
   
 • Fixed sail textures in new servers
 
-### _**Patch 1.6.7a**_
+### _**Patch 2.73a**_
 
 • Outdated servers will no longer show up in the server list (Roblox changes to shutdowns made this necessary)
 
-### _**Patch 1.6.7b**_
+### _**Patch 2.73b**_
 
 • Reset Maestro first victory reward as due to Roblox issues some players lost their dagger. You should be able to get another freebie now
 
-### _**Patch 1.6.7c**_
+### _**Patch 2.73c**_
 
 • You can now see a preview of your characters in the main menu (you'll need to play on a slot to update its appearance)
 
-### _**Patch 1.6.7d**_
+### _**Patch 2.73d**_
 
 • Fixed ship sails looking like analog horror when they stream in and out  
 • Fixed helmets overlapping with hair when you load in
@@ -8211,19 +8212,19 @@ _A lot of these changes are somewhat experimental and are subject to change. We'
 • Particles on emperor flame should no longer obscure the opponent  
 • Fixed being able to use Autobrews before chime matches start
 
-### _**Patch 1.6.6a**_
+### _**Patch 2.72a**_
 
 • Equipping/unequipping with controller is now _hold_ L1+R1, instead of it activating when you only tap them. Should help fix misinputs
 
-### _**Patch 1.6.6b**_
+### _**Patch 2.72b**_
 
 ^ Corrupted Teleportation bell being weird with your markers is fixed in new servers
 
-### _**Patch 1.6.6c**_
+### _**Patch 2.72c**_
 
 • Ferryman Dungeon teleports should be fixed now
 
-### _**Patch 1.6.6d**_
+### _**Patch 2.72d**_
 
 • Fixed losing a life if you disconnect to Scion above 60% HP  
 • Fixed PvP tags in Dungeons counting against the log protection on 60% HP sometimes
@@ -8295,14 +8296,14 @@ _A lot of these changes are somewhat experimental and are subject to change. We'
   
 • Fixed weightless items getting lost when you exceed your carrying capacity
 
-### _**Patch 1.6.5a**_
+### _**Patch 2.71a**_
 
 • Chaser now has his own boss theme composed as always by the ever-talented Naktigonis!  
 • Increased Pale Briar crit damage  
 • Fixed weightless items getting lost when you exceed your carrying capacity  
 • Quests now give more EXP in general
 
-### _**Patch 1.6.5b**_
+### _**Patch 2.71b**_
 
 **Chime Matchmaking**  
 • Chime lobbies can now matchmake between lobby servers, meaning you have a much higher chance of fighting evenly matched players in your region. This should also make queues a lot faster in instances where you can't find an opponent.
@@ -8376,23 +8377,23 @@ _A lot of these changes are somewhat experimental and are subject to change. We'
 • Fixed certain weapons not being hidden when weapon hide status is applied  
 • Fixed chest lids having collisions when open
 
-### _**Patch 1.6.4a**_
+### _**Patch 2.70a**_
 
 • Fixed not being able to rotate during Skyshatter Kick  
 • Fixed the Depths being permabright  
 • Fixed fall damage
 
-### _**Patch 1.6.4b**_
+### _**Patch 2.70b**_
 
 • Fixed base Illusory Realm pinging back the user instead of opponents
 
-### _**Patch 1.6.4c**_
+### _**Patch 2.70c**_
 
 • Fixed Purple Cloud crit in new servers  
   
 • Fixed not getting Purple Cloud guaranteed on your first Maestro victory. The tracker for beating Maestro has now been reset, so everyone should now get a Purple Cloud guaranteed on their next Maestro win. Have fun!
 
-### _**Patch 1.6.4d**_
+### _**Patch 2.70d**_
 
 • Purple Cloud crit CD increased (3s -> 7s)  
 • Purple Cloud reqs changed (90 MED -> 85 MED, 18 LVL -> 10 LVL)  
@@ -8493,7 +8494,7 @@ _A lot of these changes are somewhat experimental and are subject to change. We'
   
 • Exhaustion Strike posture transfer no longer posture breaks
 
-### _**Patch 1.6.3a**_
+### _**Patch 2.69a**_
 
 _In new servers..._  
 • Fixed dropping non-enchanted equipment  
@@ -8504,7 +8505,7 @@ _In new servers..._
   
 (Skyshatter Kick damage was nerfed along with the other changes)
 
-### _**Patch 1.6.3b**_
+### _**Patch 2.69b**_
 
 _In new servers..._  
 • W/S/A rank badges fixed  
@@ -8610,7 +8611,7 @@ _In new servers..._
   
 • Devour has been merged into Dark God. If you had Devour, you'll be refunded a hand of talents
 
-### _**Patch 1.6.1a**_
+### _**Patch 2.67a**_
 
 • You can now redo the Diluvian Mechanism without needing to leave and rejoin the instance  
 • Reduced number of Nautilodaunts  
@@ -8621,14 +8622,14 @@ _In new servers..._
   
 • Added some modifiers to Diluvian Mechanism waves
 
-### _**Patch 1.6.1b**_
+### _**Patch 2.67b**_
 
 • Reduced the mobspam in some waves and replaced them with modifiers  
 Note: You can destroy the timebombs with your M1's and other attacks to prevent them exploding  
   
 • Diluvian Nautilodaunts no longer have vent
 
-### _**Patch 1.6.1c**_
+### _**Patch 2.67c**_
 
 • Deepbounds now correctly get an EXP bonus in the Diluvian Mechanism  
 • Expanded the Diluvian Mechanism arena size  
@@ -8636,11 +8637,11 @@ Note: You can destroy the timebombs with your M1's and other attacks to prevent 
 • Made the first 5 waves more suitable for early game  
 • Humanoid mobs now die instantly on knock in Diluvian Mechanism
 
-### _**Patch 1.6.1d**_
+### _**Patch 2.67d**_
 
 • Reduced Shock duration of Lightning attuned mobs
 
-### _**Patch 1.6.1e**_
+### _**Patch 2.67e**_
 
 • Fixed Lightning attuned mobs proccing Shock on every Bleed tick
 
@@ -8742,7 +8743,7 @@ _As voted for by the community..._
   
 • Skull Crusher is now innate to Champion's Whirlthrow. If you had Skull Crusher, you'll be refunded a hand of talents
 
-### _**Patch 1.6.0a**_
+### _**Patch 2.66a**_
 
 _In new servers..._  
 • Fixed Immortal Helm drop rate being way lower than intended  
@@ -8878,7 +8879,7 @@ _Daze status is now cleared early on those you've dazed if you use a move that *
 • Fixed dodge frames on Phantom Step Gale Dash  
 • Venting Rising Wind now reduces the duration of the multihit but doesn't immediately cancel it
 
-### _**Patch 1.5.9a**_
+### _**Patch 2.65a**_
 
 • Fixed a bug with Shrine of Order where in certain cases core stats could be reduced by more than 25
 
@@ -9018,7 +9019,7 @@ NOTE: Cool fact about the bank update means _you can now transfer Soulbound item
   
 Correction to the Illusory Clone viscosity fix: Fixed Viscosity preventing Illusory Clones from despawning when you're hit
 
-### _**Patch 1.5.7a**_
+### _**Patch 2.63a**_
 
 • As voted for in the poll, **Chime of Conflict ELO now resets every month**. Your starting ELO score every month scales with your previous month's ELO score, but the highest you can start at is 1000.  
   
@@ -9178,7 +9179,7 @@ Happy holidays! We've been grinding away on conquest, so a lot of the patch note
 • Fixed Ice Cubes going on CD twice on auto-fire  
 • Fixed taking fall damage while using Ice Skate
 
-### _**Patch 1.5.5a**_
+### _**Patch 2.61a**_
 
 • Greatly increased Ice Carve damage
 
@@ -9266,12 +9267,12 @@ We really appreciate all the patience and support in waiting for this update, an
   
 • Increased Whaling Knife crit damage slightly (since Knife's Journey got changed up)
 
-### _**Patch 1.5.4a**_
+### _**Patch 2.60a**_
 
 • Fixed being able to climb over Ice Eruption walls  
 • Increased Twisted Puppets speed, fixed Moths to a Flame, lowered damage
 
-### _**Patch 1.5.4b**_
+### _**Patch 2.60b**_
 
 • Fixed Maestro's Blade, Jolt Cast, Eureka, Legendary
 
@@ -9337,7 +9338,7 @@ We really appreciate all the patience and support in waiting for this update, an
 • Reduced Flaming Scourge AoE  
 • Added some rudimentary controller support to the game. This is a WIP that'll get expanded over time, hopefully to the point where the game is actually fully playable on a controller
 
-### _**Patch 1.5.3a**_
+### _**Patch 2.59a**_
 
 • Fixed Ferrofluid training not working in new servers
 
@@ -9417,7 +9418,7 @@ _We'll be monitoring how shields feel after this change, so don't worry if they'
   
 correction: AWWS still requires Silencer's Blade
 
-### _**Patch 1.5.2a**_
+### _**Patch 2.58a**_
 
 • New character creation scene added. More will come later
 
@@ -9507,7 +9508,7 @@ correction: AWWS still requires Silencer's Blade
 • Fixed Sacred Field not working at sea  
 • Curved Blade of Winds scaling adjusted (4 WND -> 5 WND; 5.5 MED -> 5 MED)
 
-### _**Patch 1.5.1a**_
+### _**Patch 2.57a**_
 
 • Fixed Fishing Rods, Arc Wave and a few other things in new servers  
 • Fixed getting parried not cancelling your input buffered M1's
@@ -9582,14 +9583,14 @@ correction: AWWS still requires Silencer's Blade
 • Blacksteel Pirates now have Uproar, Bulldozer, Shield Breaker, Unwavering Resolve, Bear Trap, Fear  
 • **TL;DR**; Humanoid mobs have more talents now.
 
-### _**Patch 1.5.0a**_
+### _**Patch 2.56a**_
 
 • Encircle is now a Mobility Slot mantra  
 • Flame Assault is now a Mobility Slot mantra  
 • Increased posture damage on Flame Ballista  
 • Aggressive Posture, Blackhole, and Thresher Fangs are no longer Rare talents
 
-### _**Patch 1.5.0b**_
+### _**Patch 2.56b**_
 
 • Fixed Flaming Scourge going through dodge/tranquil circle  
 • Fixed some bugs with Flaming Scourge  
@@ -9644,7 +9645,7 @@ NOTE: Due to a bug, Silentheart's damage multiplier before this update was close
   
 • Fixed Vengeful Pursuit proccing M1 talents/enchants
 
-### _**Patch 1.4.9a**_
+### _**Patch 2.55a**_
 
 _In new servers..._  
 • Fixed Bloodtide/Putrid/Pumpkin Pitch/Vengeful Pursuit projectiles phasing through objects  
@@ -9654,7 +9655,7 @@ _In new servers..._
   
 • Fixed Lodestar proccing on Mani Katti
 
-### _**Patch 1.4.9b**_
+### _**Patch 2.55b**_
 
 • Fixed parry success anims not playing
 
@@ -9728,7 +9729,7 @@ Note: the 2-star flame mantra is NOT the 'treat' promised in polls. That comes n
   
 • Reduced Strong Left base posture damage (25 -> 22, since posture is overall lower now)
 
-### _**Patch 1.4.8a**_
+### _**Patch 2.54a**_
 
 • Ring posture nerf reverted as it was rerolling ring stats to stuff that wasn't posture. Will likely return once there's a system to downgrade buffs to buffs of the same type
 
@@ -9785,7 +9786,7 @@ Note: the 2-star flame mantra is NOT the 'treat' promised in polls. That comes n
   
 Also: the sea is red now.
 
-### _**Patch 1.4.7a**_
+### _**Patch 2.53a**_
 
 **Trial of the Gourdskipper Hotfixes**  
 • Fixed cheese spots with the trial  
@@ -9793,29 +9794,29 @@ Also: the sea is red now.
 • Fixed being able to enter in-progress trials through some portals  
 • Portals now have an indicator for when they can be accessed
 
-### _**Patch 1.4.7b**_
+### _**Patch 2.53b**_
 
 • Fixed combat tags not clearing properly sometimes, making you 'infinitely' in danger. If you're 'infinitely' tagged like this, just take another source of combat tag and wait for it to run out and it should go away
 
-### _**Patch 1.4.7c**_
+### _**Patch 2.53c**_
 
 • Fixed terrible aiming on the pumpkin throwing
 
-### _**Patch 1.4.7d**_
+### _**Patch 2.53d**_
 
 • Fixed Gourdskippers dying in one hit after the first round  
 • Fixed waves loot being way better than intended. Consider it an early bird bonus
 
-### _**Patch 1.4.7e**_
+### _**Patch 2.53e**_
 
 • Made Gourdskippers die in 2 hits  
 • Buffed the loot up (overnerfed it)
 
-### _**Patch 1.4.7f**_
+### _**Patch 2.53f**_
 
 • The Eastern Luminant has now been Hallowtide-ified, now letting you access both the Trial of the Gourdskipper and the Floating Keep there
 
-### _**Patch 1.4.7g**_
+### _**Patch 2.53g**_
 
 • Fixed some memory leaks with the Gourdskipper Trial. Should help a lot with the poor performance from the event  
 • Optimized the Pumpkin Pitch projectiles  
@@ -9900,7 +9901,7 @@ Also: the sea is red now.
   
 • Fixed PvE scaling on Fire Gun being close to non-existent
 
-### _**Patch 1.4.6a**_
+### _**Patch 2.52a**_
 
 • Raised size scaling on Burning Servants and increased the cap on both base and Fan the Flames. Was worse than intended
 
@@ -9954,7 +9955,7 @@ Also: the sea is red now.
   
 • Unequipping your weapon now cancels Sightless Beam (fixes cheese with Poser's Ring)
 
-### _**Patch 1.4.5a**_
+### _**Patch 2.51a**_
 
 • Fixed queueing for Duos with friends in new servers. If you're in a server where there's two Duos options upon using the Chime tool, it'll be broken for you if you try to queue up for duos with a friend
 
@@ -10032,7 +10033,7 @@ Also: the sea is red now.
   
 • Fixed Mystic Mantra star selection in new servers
 
-### _**Patch 1.4.4a**_
+### _**Patch 2.50a**_
 
 • Fixed kill contribution on mobs not factoring in damage multipliers properly. Should fix bell progression via bosses for a lot of high damage multiplier builds
 
@@ -10095,17 +10096,17 @@ Also: the sea is red now.
 • Fixed Chilling enchant not letting you proc the freeze if you're under the effects of the Chilled status  
 • Fixed some inconsistencies with Volt Kick
 
-### _**Patch 1.4.3a**_
+### _**Patch 2.49a**_
 
 • Player combat tags against mobs in dungeons no longer have a limited duration, and will last until the mob dies. Should help with calculating contribution
 
-### _**Patch 1.4.3b**_
+### _**Patch 2.49b**_
 
 • Fixed a very obscure bug that has been causing certain types of event to inconsistently spawn since Verse 2 dropped. This includes most forms of 'ambush' event, like surface owls, bandit wagons, faction hunt ambushes, and the Resonant Dawn event. Very awkward bug to find since it never happened in new servers, only older ones. In new servers, you should see a lot more of these events spawning in  
   
 (should also mean you see more events on the surface in general too since these non-functional events won't be hogging an event slot for an hour)
 
-### _**Patch 1.4.3c**_
+### _**Patch 2.49c**_
 
 • Fixed BR weapon pools missing LW's and other endgame weapons  
 • Fixed BR equipment pools having useless rings  
@@ -10170,12 +10171,12 @@ Also: the sea is red now.
   
 • Barbers now save your ID's when you go back to them
 
-### _**Patch 1.4.2a**_
+### _**Patch 2.48a**_
 
 • Fixed Elemental Rebound not working on Crystal  
 • Fixed Parasitic Leech breaking you if your target suddenly dies
 
-### _**Patch 1.4.2b**_
+### _**Patch 2.48b**_
 
 • Added the Resonant Dawn Meteor's guardian
 
@@ -10225,7 +10226,7 @@ Also: the sea is red now.
 • Fixed rigging on Forest Scarf  
 • Fixed corrupt shard bow proccing two different corruption effects at the same time. Now only procs the white flames
 
-### _**Patch 1.4.1a**_
+### _**Patch 2.47a**_
 
 • Fixed Strength Unbound door not being smashable enough  
 • Fixed Lightning Strike  
@@ -10273,13 +10274,13 @@ Also: the sea is red now.
 • Corrected some inaccuracies in Ezra's dialogue  
 • Fixed some cases of invisibility not immediately cleaning up particles
 
-### _**Patch 1.4.0a**_
+### _**Patch 2.46a**_
 
 • New Mythic Relic: Sinner's Ash  
 • Increased AoE on Frost Wisp flourish beam attack and increased frost proc duration  
 • Frost Wisp now shoots a beam attack when you vent successfully
 
-### _**Patch 1.4.0b**_
+### _**Patch 2.46b**_
 
 • Fixed essential objects like Chaser Jars/Scion Altars in Dungeons being breakable despite protections. Should fix a lot of softlocks
 
@@ -10374,11 +10375,11 @@ _A focus this week has been to optimize a lot of the bottlenecks in the game's b
   
 (aware of some issues with voyaging hanging for ages until it fails. looking into a fix)
 
-### _**Patch 1.3.8a**_
+### _**Patch 2.44a**_
 
 • Fixed not being able to break Chaser's blood jars with guns/spears/rapiers
 
-### _**Patch 1.3.8b**_
+### _**Patch 2.44b**_
 
 • Fixed Yun'Shul dialogue not showing up with 4 shrines (contractor) in new servers
 
@@ -10418,11 +10419,11 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed rubble & debris from smooth terrain being white plastic  
 • Clarified Armor Piercing description. To those who don't know, it basically gives you 25% PEN since it applies to physical armor too - physical armor is just slash & blunt armor packaged together into one stat for those who don't know
 
-### _**Patch 1.3.7a**_
+### _**Patch 2.43a**_
 
 • Added 🐟 Emblem
 
-### _**Patch 1.3.7b**_
+### _**Patch 2.43b**_
 
 **Hotfix**  
 • Fixed Grasp of Eylis in new servers
@@ -10520,7 +10521,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed Mantras being able to break Chaser jars, led to some unpredictable and buggy behavior  
 • Fixed sticks still weighing something
 
-### _**Patch 1.3.5a**_
+### _**Patch 2.41a**_
 
 • Fixed Chain of Perfection not working against Scion of Ethiron
 
@@ -10577,7 +10578,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Light Pillars around New Kyrsa can no longer be destroyed  
 • Optimized performance of Ice Skate VFX
 
-### _**Patch 1.3.4a**_
+### _**Patch 2.40a**_
 
 **Hotfixes**  
 • Corrupted Mobs now do 50% more damage instead of 100% more damage  
@@ -10628,7 +10629,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed lingering hitbox on Gran Suda crit  
 • Fixed movestacking on Gran Suda crit
 
-### _**Patch 1.3.3a**_
+### _**Patch 2.39a**_
 
 • Fixed Way of Navae not being present in Character Creation for those who have it unlocked
 
@@ -10664,19 +10665,19 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed not being able to eat Gold/Irithine with Termite if you're not an Ironsinger  
 • Fixed Saint Jay working even without Chilled being applied
 
-### _**Patch 1.3.2a**_
+### _**Patch 2.38a**_
 
 • Fixed Corrupted Reaper bell sending you to the depths when below level 12  
 • Fixed an issue with Deformed clothing causing memory leaks
 
-### _**Patch 1.3.2b**_
+### _**Patch 2.38b**_
 
 (Live in new servers)  
 • Bonekeeper no longer regenerates HP  
 • Justicar's Armor more common drop  
 • Justicar's Armor talent buffed from 15% to 20%
 
-### _**Patch 1.3.2c**_
+### _**Patch 2.38c**_
 
 • Fixed issue where using Mirage Clones/Radiant Dawn/ Lighting Clones would reduce performance with Smart bones.  
 • Gravity Field duration decreased  
@@ -10828,7 +10829,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed certain Kyrsan encounters in New Kyrsa occasionally breaking  
 • Fixed the controls saying X for gesture instead of K  
   
-(crab crab is the canonical name for the crab grab)
+(crab crab is the canonical name for the crab grab
 
 ## **June 19th, 2023**
 
@@ -10896,7 +10897,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed being able to use Cap Artist in Dimension Travel  
 • Fixed dagger flourish doing blunt damage
 
-### _**Patch 1.2.8a**_
+### _**Patch 2.34a**_
 
 **Character Slot Pinning**  
 • You can now **Pin** your slots in the main menu to sort them to the top and make them easier to keep track of.  
@@ -10998,7 +10999,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed Voidwalker hunts ending when you enter a guild base  
 • Fixed Wind Passage hitting behind you
 
-### _**Patch 1.2.6a**_
+### _**Patch 2.32a**_
 
 • Chime circle now ignores iframes
 
@@ -11063,7 +11064,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Alloyblood with NLK is now less effective  
 • Fixed Charisma Unbound perma unlock not working
 
-### _**Patch 1.2.5a**_
+### _**Patch 2.31a**_
 
 • Fixed Visionshaper obtainment in new servers
 
@@ -11127,18 +11128,18 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
 • Fixed crafting Pure Astruline into Astruline  
 • Fixed a bug causing guns to break occasionally
 
-### _**Patch 1.2.4a**_
+### _**Patch 2.30a**_
 
 • New Dawnwalker Mantra: Radiant Dawn
 
-### _**Patch 1.2.4b**_
+### _**Patch 2.30b**_
 
 **Hotfixes**  
 • Fixed Needle Barrage and Metal Eruption 0-star Mantras not being rollable  
 • Fixed Voidheart bounty boards not displaying any bounties  
 • Fixed not spawning with Ferrofluid if you pick Ironsing at start
 
-### _**Patch 1.2.4c**_
+### _**Patch 2.30c**_
 
 **Hotfixes**  
 • Firing Line now has slight endlag (0.2s) and prevents mantras from being cast for 0.7s  
@@ -11224,7 +11225,7 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
   
 (Credit to Enderisfinallyback for suggesting Pressure Detonation)
 
-### _**Patch 1.2.3a**_
+### _**Patch 2.29a**_
 
 • Fixed all set events requiring two waves of the same event to clear
 
@@ -11276,12 +11277,12 @@ _As mentioned on Monday, all updates going forwards will be on Fridays. Since th
   
 • Arc Suit's CD now scales with its duration
 
-### _**Patch 1.2.2a**_
+### _**Patch 2.28a**_
 
 _In new servers..._  
 • Removed Glider schematic item. On completing the quest, you now learn the schematic automatically. You can now craft Gliders at Power 1 on new characters
 
-### _**Patch 1.2.2b**_
+### _**Patch 2.28b**_
 
 _In new servers..._  
 • Fixed Ardour Manifestation
@@ -11373,7 +11374,7 @@ _In new servers..._
 • Fixed a bug where assassinations could teleport you incorrectly  
 • Fixed Tranquil Circle causing Silencer's Blade to proc suffocate on all M1's
 
-### _**Patch 1.2.0a**_
+### _**Patch 2.26a**_
 
 **Hotfix**  
 • Being marked by Shadow Vortex now cancels the effects of Gravity Field  
@@ -11435,11 +11436,11 @@ Event starts 3AM EST this Friday and will continue until 3AM EST Monday.
   
 [https://www.roblox.com/events/856435249379311646](https://www.roblox.com/events/856435249379311646)
 
-### _**Patch 1.1.8a**_
+### _**Patch 2.24a**_
 
 The Metallica Listening Party is up now - seek out doors across the map to a mysterious inn between space and time and prove yourself in The Pit to earn your right to headbang.
 
-### _**Patch 1.1.8b**_
+### _**Patch 2.24b**_
 
 The Metallica listening party has concluded - thanks for attending! The emote gained through the event is a permanent unlock for those who earnt it, so don't worry about losing it.
 
@@ -11489,7 +11490,7 @@ The Metallica listening party has concluded - thanks for attending! The emote ga
 • Fixed artisan items not working in recipes (actually this time)• Fixed some issues with projectile physics ownership  
 • Fixed some food items being dropped improperly
 
-### _**Patch 1.1.7a**_
+### _**Patch 2.23a**_
 
 • Fixed Chaser's HP pool not being consistent. Should now mean his base HP is much lower for solo players as was suggested in the patch notes a while ago
 
@@ -11541,7 +11542,7 @@ You no longer get 3 extra talent hands for your build by talking to Arthur and J
 • Fixed some physics issues with Gale Trap  
 • Fixed the CBoW unsheathe VFX not playing
 
-### _**Patch 1.1.6a**_
+### _**Patch 2.22a**_
 
 • Fixed everyone not in a Vow of Mastery being considered allies with each other
 
@@ -11632,11 +11633,11 @@ _Most daggers with the exception of the Tanto are currently pretty weak picks du
   
 • Fixed animation timing on Club criticals
 
-### _**Patch 1.1.4a**_
+### _**Patch 2.20a**_
 
 • Lowered Blood Shadow range (35 -> 25), reverted regen per tick buff
 
-### _**Patch 1.1.4b**_
+### _**Patch 2.20b**_
 
 • Fixed LFT having weird and sometimes incredibly long delays on certain moves
 
@@ -11696,11 +11697,11 @@ _Most daggers with the exception of the Tanto are currently pretty weak picks du
 • Fixed Dread Stacks not having a limit (led to some pretty wacky behavior where you'd have nostun and could heal armor when hit if high enough)  
 • Fixed Absolute Radiance and Protagonist Syndrome proccing against parries
 
-### _**Patch 1.1.3a**_
+### _**Patch 2.19a**_
 
 • Fixed Vesperian masks rerolling on respawn (in new servers)
 
-### _**Patch 1.1.3b**_
+### _**Patch 2.19b**_
 
 • Fixed losing ELO if you disconnected/crashed during the countdown phase of an Arena match
 
@@ -11745,11 +11746,11 @@ _Most daggers with the exception of the Tanto are currently pretty weak picks du
   
 Note: The uppercut damage change also applies to Mani Katti, so heavies won't be insane with it
 
-### _**Patch 1.1.2a**_
+### _**Patch 2.18a**_
 
 • Fixed Mani Katti movestacking (m1's, crits)
 
-### _**Patch 1.1.2b**_
+### _**Patch 2.18b**_
 
 • Fixed Hell mode in new servers
 
@@ -11800,7 +11801,7 @@ Note: The uppercut damage change also applies to Mani Katti, so heavies won't be
 • Fixed the campfire illusion not being lit  
 • Fixed color previews on dyes being initialised to the wrong color
 
-### _**Patch 1.1.1a**_
+### _**Patch 2.17a**_
 
 • Fixed weapon switching in new servers
 
@@ -11874,16 +11875,16 @@ Note: The uppercut damage change also applies to Mani Katti, so heavies won't be
 • Optimized map geometry in Eastern  
 • Fixed Shrine of Order not displaying the result with your race bonuses added
 
-### _**Patch 1.1.0a**_
+### _**Patch 2.16a**_
 
 • Tweaked the animations on Light's Final Toll to be easier to read. Visible in new servers though some users may see the old animations until their cache clears
 
-### _**Patch 1.1.0b**_
+### _**Patch 2.16b**_
 
 _In new servers..._  
 • Shrine of Order no longer has a reduction limit on elemental attributes. e.g. your 100 in an element isn't limited to only go down to 75, it can go down to any number
 
-### _**Patch 1.1.0c**_
+### _**Patch 2.16c**_
 
 • Fixed a bug with a Roblox change that was causing huge frame drops every few seconds for certain players
 
@@ -11933,13 +11934,13 @@ _In new servers..._
   
 • Narrowed some of the Capra horn variants, made the old-style mask closer to the original in its design
 
-### _**Patch 1.0.9a**_
+### _**Patch 2.15a**_
 
 _In new servers..._  
 • Fixed mob patrol pathfinding breaking. Wasn't mentioned in the update but there were optimizations on this end that should help performance especially on the surface  
 • Fixed fishing rods
 
-### _**Patch 1.0.9b**_
+### _**Patch 2.15b**_
 
 • Fixed a bug caused by a Roblox update that was causing players tools to void if they died while holding them out. Also meant that if you died while holding a weapon and swapped it out in fragments it'd void. This bug mainly occurred in the Depths
 
@@ -11999,7 +12000,7 @@ Note: To clarify, the Brick Wall change is a buff. It reduces the duration of th
   
 • Fixed deleting a room in your guild base deleting all the NPC's in your guild base for that server (no NPC's actually lost, it's just visual)
 
-### _**Patch 1.0.8a**_
+### _**Patch 2.14a**_
 
 Fixed Deep Gems not working & animations being frozen with Lightning Rising
 
@@ -12077,14 +12078,14 @@ Fixed Deep Gems not working & animations being frozen with Lightning Rising
 • Reduced particles on Blinding Dawn  
 • Fixed a minor grammar error in the Reset text
 
-### _**Patch 1.0.7a**_
+### _**Patch 2.13a**_
 
 _In new servers..._  
 • Fixed Etrean Luminant display having a typo  
 • Fixed Solar proccing on every hit, even ones parried or dodged  
 • Fixed feinting Radiant Kick making it instant
 
-### _**Patch 1.0.7b**_
+### _**Patch 2.13b**_
 
 • You can now see which servers your friends are in in the main menu server list. Servers with friends are sorted to the top of your server list. Note that this depends on your privacy settings, so if your friends have it so people can't follow them, they won't show up
 
@@ -12137,7 +12138,7 @@ _In new servers..._
 • Puppet Master report can no longer be found outside Merit  
 • Fixed Dark Rift
 
-### _**Patch 1.0.6a**_
+### _**Patch 2.12a**_
 
 • Reduced Chaser HP. His HP now scales down for solo runs (doesn't scale up)  
 • Reduced Chaser's heal from the jars  
@@ -12146,7 +12147,7 @@ _In new servers..._
 • Gave Chaser a larger hitbox  
 • Buffed number of drops from Chaser/Scion
 
-### _**Patch 1.0.6b**_
+### _**Patch 2.12b**_
 
 • You can now see your global ranking in Arena 1v1's. If your rank is too low, you'll show up as 'Unranked'  
   
@@ -12157,12 +12158,12 @@ _In new servers..._
   
 • There is now a global leaderboard you can view in 1v1's of the top 200 players
 
-### _**Patch 1.0.6c**_
+### _**Patch 2.12c**_
 
 • Guilds are now displayed alongside the global rankings  
 • Fixed the voyaging forever bug
 
-### _**Patch 1.0.6d**_
+### _**Patch 2.12d**_
 
 • Fixed "15 minutes remain" showing up in some servers. Seems to be a Roblox change causing something usually hidden to show up
 
@@ -12241,7 +12242,7 @@ Note: the multiplier cap doesn't apply to Wind-Up
   
 Note: Using a whirlpool doesn't count towards your drowns. Using the whirlpool will also always send you to Layer 1.
 
-### _**Patch 1.0.5a**_
+### _**Patch 2.11a**_
 
 • Fixed humanoid NPC pathfinding in new servers
 
@@ -12344,7 +12345,7 @@ _Note that 'knockdown state' is different from ragdoll state. Knockdown state is
 • Voidwalkers can now always invade people above their own level, regardless of the level gap. This should alleviate some of the 'no valid bounties' issues, but they will be difficult bounties  
 • Voidwalker invasion level difference limit increased: 5 -> 6
 
-### _**Patch 1.0.4a**_
+### _**Patch 2.10a**_
 
 _In new servers..._  
 • Fixed Rising Shadow  
@@ -12511,7 +12512,7 @@ _Missing from the earlier patch notes_
 • Fixed Symbiotic Leech not stealing HP  
 • Fixed a bug where you could get extra levels from To1
 
-### _**Patch 0.9.9a**_
+### _**Patch 2.6a**_
 
 • Fixed Light Hook running out and always saying you have 1 minute left  
 • Fixed there being no indicator when Light Hook runs out
@@ -12738,7 +12739,7 @@ Dark God, Depths Connection, Devour, Grand Feast, Jumper Cables, and Safety Danc
   
 • Guild Clerks are fixed in new servers but expect some bugginess with guilds updating across servers during release. We're stressing Roblox servers a lot so some services are going down. Oops.
 
-### _**Patch 0.9.4a**_
+### _**Patch 2.1a**_
 
 **Hotfixes**  
 • Fixed issues with guild bases dropping you out of them and into the void  
@@ -12756,7 +12757,7 @@ Dark God, Depths Connection, Devour, Grand Feast, Jumper Cables, and Safety Danc
 • Fixed Tutorial UI mentioning old progression investment points  
 • Fixed Shrine of Blasphemy being usable on max progression characters
 
-### _**Patch 0.9.4b**_
+### _**Patch 2.1b**_
 
 **Hotfixes**  
 • Updated Deepfolk's description to reflect its new Knowledge benefit  
@@ -13156,7 +13157,7 @@ correction: credit to **Lurtux** for the name search suggestion, not _Lurtex_
 (enforcer's axe model is temp. we'll be making some changes to it but didn't wanna delay patch for it)  
 • Fixed fishing in new servers
 
-### _**Patch 0.8.7a**_
+### _**Patch 1.87a**_
 
 • Reworked model for Enforcer's Axe now out in new servers
 
@@ -13304,7 +13305,7 @@ correction: credit to **Lurtux** for the name search suggestion, not _Lurtex_
 • Ice Eruption now has a size cap  
 • Reduced the size of round spark ice eruption
 
-### _**Patch 0.8.5a**_
+### _**Patch 1.85a**_
 
 • Reduced req on Ash Slam to 30 STR  
 • Ether Bullets & Concentrated Reload have been removed from the game as their functionality is now irrelevant. If you had Ether Bullets or Concentrated Reload, you'll be refunded talent hands  
@@ -13315,7 +13316,7 @@ _In new servers..._
 • Fixed humanoid mobs with guns hitting themselves with their gun blasts  
 • Fixed Crazy Slots gun dealing self-damage
 
-### _**Patch 0.8.5b**_
+### _**Patch 1.85b**_
 
 _In new servers..._  
   
@@ -13378,14 +13379,14 @@ _In new servers..._
 • Fixed a bug causing the start menu to hang infinitely sometimes if you loaded in too quick  
 • Fixed Lightning Cloak not extending when blocked
 
-### _**Patch 0.8.4a**_
+### _**Patch 1.84a**_
 
 Also, shout out and thanks to Nuttoons and SudoMesh for giving some feedback & pointers on the racial cosmetic changes  
   
 **Clarification:** Since it wasn't entirely clear in the patch notes, the damage multiplier cap is only on damage _multipliers_ and not on damage _scaling_. Your attribute scaled damage and PvE scaled damage are completely untouched by this update.  
 • Fixed the Barber not switching Vesp mask designs in new servers
 
-### _**Patch 0.8.4b**_
+### _**Patch 1.84b**_
 
 • Fixed player-locked chests locking to their owners too in new servers
 
@@ -13452,7 +13453,7 @@ Also, shout out and thanks to Nuttoons and SudoMesh for giving some feedback & p
 • Firmly Planted now reduces slows by 30% instead of 50%  
 • Yun'Shul wish CD has been reset
 
-### _**Patch 0.8.3a**_
+### _**Patch 1.83a**_
 
 • Having a Resonance now pushes you up the Arena matchmaking  
 • Having an Enchanted weapon now pushes you up the Arena matchmaking  
@@ -13517,7 +13518,7 @@ _These changes should make it so that players without bells/enchants won't have 
 • Rocks now combat tag you correctly and give credit to the player who threw them  
 • Loot bags are no longer dropped if you die to a chasm or void (not like anyone except exploiters could even grab those loot bags)
 
-### _**Patch 0.8.2a**_
+### _**Patch 1.82a**_
 
 • Justicar's now has +5% Blunt Armor  
 • Hell Mode King Threshers won't use their dig move and can't be corrupted  
@@ -13577,7 +13578,7 @@ _In new servers..._
 • Fixed a bug where the duke would keep his initial iframes during the fight  
 Also, there's a Yun'Shul wish cooldown reset.
 
-### _**Patch 0.8.1a**_
+### _**Patch 1.81a**_
 
 • Fixed Thunder Kick not cancelling on stun/feint
 
@@ -13647,7 +13648,7 @@ Hi guys, bit of a smaller content update this week as we've been working hard on
 • Fixed a dupe with Another Man's Trash  
 • Fixed Engage/AtDG/Nullifying Clarity/Aggressive Posture/Wind-Up proc/ not working on Spear crit & Longspear crit
 
-### _**Patch 0.8.0a**_
+### _**Patch 1.80a**_
 
 • Fixed dagger having considerably reduced autoparry frames after a successful parry
 
@@ -13705,7 +13706,7 @@ Hi guys, bit of a smaller content update this week as we've been working hard on
 • Fixed Flame of Denial not working against auto executes  
 • Fixed a strange behavior where bloodless and other abilities that healed you upon attacking another enemy wouldn't work on an opponent who had antiheal applied to them
 
-### _**Patch 0.7.9a**_
+### _**Patch 1.79a**_
 
 • Fixed Command: Return and Command: Sacrifice not having a range limit
 
@@ -13773,13 +13774,13 @@ Hi guys, bit of a smaller content update this week as we've been working hard on
 • Fixed being able to use the Voideye in the Duke's Manor  
 • Voideye and Grasp now preload areas on your client before teleporting you. Should hopefully reduce the 'falling out of the world' bugs
 
-### _**Patch 0.7.8a**_
+### _**Patch 1.78a**_
 
 • Dagger parry stun slightly increased  
 • Fist parry stun increased to be higher than dagger  
 • Fixed Blacksmiths in new servers
 
-### _**Patch 0.7.8b**_
+### _**Patch 1.78b**_
 
 **Hotfixes**  
 _In new servers..._  
@@ -13787,7 +13788,7 @@ _In new servers..._
 • Fixed Glider blueprints  
 • Fixed Grasp of Eylis issues
 
-### _**Patch 0.7.8c**_
+### _**Patch 1.78c**_
 
 Hotfix for Parry Update:  
 • Fixed a bug with the parry update that made it apply to things outside of weapons  
@@ -13860,11 +13861,11 @@ You should be able to interrupt feints and long wind ups by attacking but not sw
 • Fixed a few ship exploits  
 • Blind Gremors now have a small radius of light visible to them thanks to Navae's Guidance
 
-### _**Patch 0.7.7a**_
+### _**Patch 1.77a**_
 
 • Reverted Tacet Drop Kick being locked to Jus Karita
 
-### _**Patch 0.7.7b**_
+### _**Patch 1.77b**_
 
 **Hotfixes**  
 • Fixed rolling fugitive on new slots  
@@ -13873,11 +13874,11 @@ You should be able to interrupt feints and long wind ups by attacking but not sw
 • Failing a Grasp hunt now temporarily prevents you from hunting the same person right away  
 • Lowered reqs for Blindseer progression
 
-### _**Patch 0.7.7c**_
+### _**Patch 1.77c**_
 
 PSA: In order to convert slot unlocks you have on a specific slot to account-wide unlocks, you'll need to log into the game on that slot. e.g. _if Slot A has lone warrior unlocked and you want it on Slot B, you'll need to log into Slot A first to unlock it for your entire account. This only applies to unlocks before today's update_
 
-### _**Patch 0.7.7d**_
+### _**Patch 1.77d**_
 
 _In new servers..._  
 • Grasp of Eylis now has a level difference limitation to who you can teleport to  
@@ -13886,11 +13887,11 @@ _In new servers..._
 • Grasp of Eylis now has a sound cue playing from the spot where the hunter teleported to so it's easier to tell if there's a hunter teleporting near you  
 • If your target logs to escape your Grasp, your Grasp cooldown is reset
 
-### _**Patch 0.7.7e**_
+### _**Patch 1.77e**_
 
 PSA: Roblox killed highlights again, which (annoyingly) means that the Chest ESP & Grasp of Eylis ESP's won't work anymore. If Roblox don't re-enable them soon, we'll implement some placeholder assets to cover the same functionality until Roblox bring them back.
 
-### _**Patch 0.7.7f**_
+### _**Patch 1.77f**_
 
 Roblox re-enabled highlights so chest ESP and grasp ESP should work now. They broke server regions though, more details in ⁠announcements.  
 • Fixed server region display for new servers. We found a way to bypass what Roblox broke. No telling if this will continue to work, but we'll keep you updated.
@@ -13943,7 +13944,7 @@ Roblox re-enabled highlights so chest ESP and grasp ESP should work now. They br
 • Fixed fog flickering when blind  
 • Fixed not being able to sell equipment and weapons that can't be dropped e.g. Diver's Light Plate
 
-### _**Patch 0.7.6a**_
+### _**Patch 1.76a**_
 
 (thanks MrTheBest2 for the inspiration behind Voidwalker)
 
@@ -14007,12 +14008,12 @@ Roblox re-enabled highlights so chest ESP and grasp ESP should work now. They br
 • Fixed being able to break elevator levers with environmental destruction  
 • Fixed Subsistence not working
 
-### _**Patch 0.7.5a**_
+### _**Patch 1.75a**_
 
 _In new servers..._  
 • Fixed the difficulty of Depths trials
 
-### _**Patch 0.7.5b**_
+### _**Patch 1.75b**_
 
 • Fixed Blind's unlock method not working correctly.
 
@@ -14075,17 +14076,17 @@ _In new servers..._
 • Fixed Command: Fight giving a 2x damage multiplier  
 • Fixed damage debuff potions giving extra damage instead
 
-### _**Patch 0.7.4a**_
+### _**Patch 1.74a**_
 
 • Fixed Volt Kick breaking your character  
 • Fixed corrupted mobs dealing 1.5x more damage than they were supposed to  
 • Fixed duke cultists dealing 1.5x more damage than they were supposed to
 
-### _**Patch 0.7.4b**_
+### _**Patch 1.74b**_
 
 • Fixed Hell Mode rewards
 
-### _**Patch 0.7.4c**_
+### _**Patch 1.74c**_
 
 _In new servers..._  
 \- Fixed a bug where legendary pity would sometimes fail and not give players legendary rolls. We've reset the counter so you should get this pity if you're missing legendaries
@@ -14184,12 +14185,12 @@ _Arm Equipment_
 • Made it easier to get credit in versus events  
 • Talent stats are no longer displayed in the rest menu when the talent is granted by your equipment or outfit (they didn't grant these stats anyway)
 
-### _**Patch 0.7.3a**_
+### _**Patch 1.73a**_
 
 • Yun'Shul wish CD's have been reset again  
 • Also, a correction on the above patch notes, Black Strapped Hat & Double Strapped Hat give Exterminator, not The Thinker
 
-### _**Patch 0.7.3b**_
+### _**Patch 1.73b**_
 
 **Hotfixes**  
 Available in new servers...  
@@ -14240,13 +14241,13 @@ Available in new servers...
 • Fixed Serpent's Edge not having a trail  
 • Fixed a bug where if you used a smelted item as the appearance for a new smelted item, it would use the appearance of the older smelted item's stat base and not its cosmetic appearance
 
-### _**Patch 0.7.2a**_
+### _**Patch 1.72a**_
 
 **Hotfixes**  
 • Fixed being able to log during certain moves and suspend players in place indefinitely  
 • Fixed some of the new armor buffs being configured incorrectly, making newly rolled items sometimes roll less stats than expected. Affected items will have new stats rolled up to fill the gaps automatically
 
-### _**Patch 0.7.2b**_
+### _**Patch 1.72b**_
 
 **Hotfixes**  
 Fixed in new servers...  
@@ -14254,7 +14255,7 @@ Fixed in new servers...
 • Fixed a bug where killing the ferryman sometimes wouldn't give you credit enough to count for a solo kill (relevant to bell prog)  
 • Fixed the Equipment Bonuses tab in summary showing the wrong armor values if you had different sources of armor from outfit and equipment. Will now display the final multiplied value of your armor buffs
 
-### _**Patch 0.7.2c**_
+### _**Patch 1.72c**_
 
 Also, just to clear things up, it's worth noting that the update that made damage multipliers additive only applies to damage buffs, not damage resistance. Damage resistances haven't been changed in how they function at all.
 
@@ -14324,7 +14325,7 @@ Also, just to clear things up, it's worth noting that the update that made damag
 • Fixed a bug where people could wear specific unintended Roblox accessories ingame  
 • Fixed Tacet Drop Kick going through walls
 
-### _**Patch 0.7.1a**_
+### _**Patch 1.71a**_
 
 **Post Patch Feedback Update:**  
 • Rising Flame and Rising Wind no longer share a CD  
@@ -14413,17 +14414,17 @@ Note: If your spell name becomes added to Roblox's language filter at any point,
 • Fixed aerial stab not working with 2-handed clubs  
 • Sightless Beam now no longer uses the rotation of your head but instead the rotation of your body to determine which way the beam shoots. Should mean that certain anims like shivering won't cause your beam to shoot in a wildly different direction
 
-### _**Patch 0.6.9**_
+### _**Patch 1.69**_
 
 Events now spawn in 'The Drowned City'  
 There is now a kill requirement on getting rewarded for Hell Mode (Everybody can contribute to the goal - 100 kills)  
 There is now a CD on Hell mode and it correctly ends after 20 minutes
 
-### _**Patch 0.6.9b**_
+### _**Patch 1.69b**_
 
 Hell Mode victory chests will now go to each individual involved in the summoning/start of hell mode instead of spawning on top of one person
 
-### _**Patch 0.6.9c**_
+### _**Patch 1.69c**_
 
 **Hotfixes & Mini Update**  
 • New Jus Karita talent: 'Justicar's Prowess'  
@@ -14435,15 +14436,15 @@ Hell Mode victory chests will now go to each individual involved in the summonin
 • Diver's Light Plate can now be sold  
 • Fixed a bug with Crescent Cleaver crit where a double grab could occur
 
-### _**Patch 0.6.9d**_
+### _**Patch 1.69d**_
 
 • In new servers, hell mode will now end early if all the original activators are dead. Also, extra events will only spawn on the users who rung the bell, not bystanders. That being said, being anywhere near users who rung the bell is still gonna be pretty hellish.
 
-### _**Patch 0.6.9e**_
+### _**Patch 1.69e**_
 
 • Fixed Crescent Cleaver crit being unreactable in new servers (fr this time)
 
-### _**Patch 0.6.9f**_
+### _**Patch 1.69f**_
 
 • Fixed a bug in new Depths servers where players who rung the hell mode bell would have the effects of hell mode before enough players had rung it to truly begin hell mode.
 
@@ -14504,15 +14505,15 @@ Hell Mode victory chests will now go to each individual involved in the summonin
 • Fixed Agitating Spark proccing on players in FF  
 • Fixed being able to block the Insanity corruption from corrupted resonances
 
-### _**Patch 0.6.8a**_
+### _**Patch 1.68a**_
 
 • Fixed Crazy Slots awkwardly unequipping your weapon after the duration ends or you use the skill
 
-### _**Patch 0.6.8b**_
+### _**Patch 1.68b**_
 
 • Fixed Jarvis voiding enchants on smelt. If you were affected by this you can appeal to a moderator for a restore
 
-### _**Patch 0.6.8c**_
+### _**Patch 1.68c**_
 
 • Fixed equipment rerolling stats on re-equipping them.
 
@@ -14557,7 +14558,7 @@ Hell Mode victory chests will now go to each individual involved in the summonin
 • Dimensional Travel now has a pillar at your spawn-in location to ensure you don't immediately fall into the void  
 • Fixed Thresher animations breaking when they get posture broken
 
-### _**Patch 0.6.7a**_
+### _**Patch 1.67a**_
 
 • Fixed Rising Wind going through dodge and gave Reverse Gale Kick lower knockdown frames
 
@@ -14609,12 +14610,12 @@ Hell Mode victory chests will now go to each individual involved in the summonin
 • Fixed Knife's Journey effect proccing even if damage was negated  
 • Fixed Destructive Recovery working on yourself
 
-### _**Patch 0.6.6a**_
+### _**Patch 1.66a**_
 
 • Added Alloy upgrade for Canorian Axe  
 • Reduced Darksteel Greatsword scaling (8 -> 7)
 
-### _**Patch 0.6.6b**_
+### _**Patch 1.66b**_
 
 • Fixed Surge in new servers  
 • Fixed gun having a kick in its combo in new servers  
@@ -14670,22 +14671,22 @@ We really appreciate all the support shown for the sneak peek, and we wanna make
 • Fixed a bug where Champion's Whirlthrow would break sometimes  
 • There will be a Yun'Shul wish cooldown reset once this patch drops, so if you're out of wishes you'll get a new one in new servers
 
-### _**Patch 0.6.5a**_
+### _**Patch 1.65a**_
 
 Just so people are aware, if you reroll your bell, the card that's a variant of your existing bell will have the corruption rerolled too. So if you had corruption, you may well lose it on the reroll, and if you didn't, you could roll corruption for it.
 
-### _**Patch 0.6.5b**_
+### _**Patch 1.65b**_
 
 In new servers:  
 • Fixed Warrior's Respite  
 • Fixed fishing up chests  
 • Fixed rerolled resonances displaying as legendary when they're common and vice versa. Was purely visual
 
-### _**Patch 0.6.5c**_
+### _**Patch 1.65c**_
 
 • Fixed reaper not killing players correctly
 
-### _**Patch 0.6.5d**_
+### _**Patch 1.65d**_
 
 Since there's a fair amount of confusion, note that rerolling your bell doesn't guarantee that you'll get a different 'variant'. It means that your bell is being rerolled from a blank slate. Note that bells have more stats than just the 'variant', and these will all be changed reroll to reroll. For example, which weapons your Crazy Slots favours will change on a reroll. Hope this clears things up.
 
@@ -14746,7 +14747,7 @@ Since there's a fair amount of confusion, note that rerolling your bell doesn't 
 • Fixed being able to proc your Wind-Up twice in a row  
 • Added 2 new rapiers
 
-### _**Patch 0.6.4a**_
+### _**Patch 1.64a**_
 
 • Fixed Etris Raid event loot in new servers.
 
@@ -14797,18 +14798,18 @@ Since there's a fair amount of confusion, note that rerolling your bell doesn't 
 **Optimization**  
 • Parry particles are now reduced when using Low GFX mode
 
-### _**Patch 0.6.3a**_
+### _**Patch 1.63a**_
 
 • Messer can now be alloyed
 
-### _**Patch 0.6.3b**_
+### _**Patch 1.63b**_
 
 **Opportunistic Streaming Support**  
 • We're enabling 'Opportunistic' streaming on the surface. We tried enabling it a few months ago and it broke a few things, but we believe Roblox may have patched out these issues.  
 • Opportunistic streaming means that parts of the map will stream out as you move away from them, helping considerably with FPS. Default streaming will only stream things out when memory limits are hit.  
 • If you run into any problems with players/mobs being invisible, or not spawning in where you left off please let us know in #bug-reports.
 
-### _**Patch 0.6.3c**_
+### _**Patch 1.63c**_
 
 Alright, looks like Roblox haven't fixed 'opportunistic' streaming yet. Players are still loading in while the map is still loading and things are showing up as invisible. We'll disable it again. Sorry for the inconvenience, we were hoping that it would have been fixed by now, but it hasn't been.
 
@@ -14848,7 +14849,7 @@ Hey all, a bit smaller of a content update this week, at least in terms of the l
 • Optimized some of the damage handling. Should hopefully help with lag during large fights and with multi-hit moves  
 • Removed the particles on generated ice to help with performance
 
-### _**Patch 0.6.2a**_
+### _**Patch 1.62a**_
 
 • Fixed not being able to do Duke in old servers. If you got your Manor Key after the update you should be fine in the old servers, but it's fixed for everyone else in new servers.
 
@@ -14925,18 +14926,18 @@ Hey all, a bit smaller of a content update this week, at least in terms of the l
 • Added weapon combat animations to the new animation system. Might help with some of the 'no anims' issues people are having  
 • New Freeze VFX, old effect tanked peoples PC's
 
-### _**Patch 0.6.1a**_
+### _**Patch 1.61a**_
 
 **Hotfix**  
 • Bolt piercer's damage raised back to its original amount, but has a longer windup + activation sound range  
 • Fixed Crystal Knee breaking you on use  
 • Since we changed up one of the most popular resonances, everyone gets a **Yun'Shul wish CD reset**. If Blood Scourge is too bad now with the healing change we can always buff it, but the high healing it had before was actually due to a bug
 
-### _**Patch 0.6.1b**_
+### _**Patch 1.61b**_
 
 (For clarification, a Yun'Shul wish CD reset basically means you get another reroll)
 
-### _**Patch 0.6.1c**_
+### _**Patch 1.61c**_
 
 • Konga clutch CD decreased slightly  
 • Buffed Konga clutch by making it remove 'dead slides' while equipped. Dead slides are the reduced distance slides from no momentum introduced with today's patch  
@@ -14944,7 +14945,7 @@ Hey all, a bit smaller of a content update this week, at least in terms of the l
 • Blood Scourge healing is now faster and scales slightly with your max HP  
 • Fixed Rapid Punches cancelling mid-barrage being unreliable
 
-### _**Patch 0.6.1d**_
+### _**Patch 1.61d**_
 
 Clarification on Momentum Update:  
 • Your base momentum speed is the old sprint speed - This means the new momentum system only adds speed, you don't start off any slower.  
@@ -14995,21 +14996,21 @@ Most of our work hours are going into Layer 2, and work continues to go well, th
 • Fixed a memory leak with parrying particles  
 • Fixed particles not clearing up upon feinting Tornado
 
-### _**Patch 0.6.0a**_
+### _**Patch 1.60a**_
 
 • Buffed Primadon loot by reducing how common schematics are in the pool
 
-### _**Patch 0.6.0b**_
+### _**Patch 1.60b**_
 
 **Hotfix**  
 • Fixed Providence's Thorns scaling too high in PvP, wasn't meant to be adjusted that high. Should still be better than before today's patch  
 • Fixed some Damage Vs. X buffs not being rerolled
 
-### _**Patch 0.6.0c**_
+### _**Patch 1.60c**_
 
 • Fixed rate limited inputs on Fishing (this is why fishing was so difficult all of a sudden)
 
-### _**Patch 0.6.0d**_
+### _**Patch 1.60d**_
 
 • You can now label your slots in the main menu.
 
@@ -15041,7 +15042,7 @@ Just a quick hotfix today to make sure some essential changes and fixes come thr
 • Fixed Conquer your Fears  
 • Fixed Stream being dodgeable after landing
 
-### _**Patch 0.5.9a**_
+### _**Patch 1.59a**_
 
 • Added new atmospheres for Etris, Erisia, Vigils, and Songseeker
 
@@ -15095,7 +15096,7 @@ Just a quick hotfix today to make sure some essential changes and fixes come thr
 • Fixed a bug where if you already had the max number of enchantments and tried to equip a new previously not soulbound enchant it would error but still be droppable, and would then void upon being dropped due to it being soulbound  
 • Fixed a dupe for Mantras
 
-### _**Patch 0.5.8a**_
+### _**Patch 1.58a**_
 
 • You can now choose to respawn at any ship you personally own, even smaller ships like dinghies, so long as you didn't die too near them, they're above 50% HP, and aren't being steered by someone else. This should help eliminate some of the slog of getting back to where you were  
 (missed this one in the patch notes last night)
@@ -15169,11 +15170,11 @@ Just a quick hotfix today to make sure some essential changes and fixes come thr
 • Fixed bodies not getting cleared up with sharko events  
 • Fixed some memory leaks with moves
 
-### _**Patch 0.5.7a**_
+### _**Patch 1.57a**_
 
 NOTE: Wind Eruption is AKA Tornado, sorry for the confusion
 
-### _**Patch 0.5.7b**_
+### _**Patch 1.57b**_
 
 **Hotfixes**  
 • Fixed Hive NPC's and mobs being bugged out  
@@ -15246,7 +15247,7 @@ Another weekly update, everyone. We have some long awaited changes and additions
 • Made Ice Skate more reliable over water  
 • Tranquil Circle now works on mobs
 
-### _**Patch 0.5.6a**_
+### _**Patch 1.56a**_
 
 • Aerial attacks no longer constantly proc while swimming (new servers only)
 
@@ -15257,7 +15258,7 @@ Another weekly update, everyone. We have some long awaited changes and additions
 • Fixed the equipment correction system not affecting all equipment properly. If your equipment stats are reduced, it means you had higher stats on it than should have been allowed by the game due to bugs and changes to the equipment system. This system may also increase the stats of equipment and should let us reliably adjust equipment buffs on the fly  
 • Enchanted equipment are now thoroughly checked like enchanted weapons are on drop
 
-### _**Patch 0.5.5a**_
+### _**Patch 1.55a**_
 
 **Hotfix**  
 • Fixed Jarvis setting Quality Stars to 0 on equipment  
@@ -15304,7 +15305,7 @@ Another weekly update, everyone. We have some long awaited changes and additions
 • Fixed weird bug where block animation would override parry visual anim  
 • Made the hive mech move's hitboxes actually come out on time with the animations
 
-### _**Patch 0.5.4a**_
+### _**Patch 1.54a**_
 
 • Reduced Primadon health slightly  
 • Greatly increased CD on Primadon leap, now only throws a single rock  
@@ -15411,12 +15412,12 @@ On another note, thank you for 100M+ visits! We could never have imagined Deepwo
 • Optimized Hive Construct VFX  
 • Optimized Fire Palm VFX
 
-### _**Patch 0.5.2a**_
+### _**Patch 1.52a**_
 
 • Fixed Blood Scourge locking you in place on use  
 • Fixed Storm Blades always being the Tornado Spark variant
 
-### _**Patch 0.5.2b**_
+### _**Patch 1.52b**_
 
 **Currently Alloy-able Weapons:**  
 • Halberd  
@@ -15426,7 +15427,7 @@ On another note, thank you for 100M+ visits! We could never have imagined Deepwo
 • Zweihander  
 More alloyed forms coming in future patches
 
-### _**Patch 0.5.2c**_
+### _**Patch 1.52c**_
 
 • The Duke & The Ferryman are now considered boss fights properly in new servers (for Alloy drops)
 
@@ -15484,12 +15485,12 @@ More alloyed forms coming in future patches
 • Fixed Tornado spark for lightning forge  
 • Fixed Displacement. Note that the teleporting effect people are familiar with was removed a long time ago, it's meant to give the user a brief period of hyperarmor and a speed boost on proc, but this behaviour wasn't working. It now gives the hyperarmor and speed boost properly
 
-### _**Patch 0.5.1a**_
+### _**Patch 1.51a**_
 
 • Fixed Fire Palm in newer servers.  
 • Fixed Jolt Grab in newer servers.
 
-### _**Patch 0.5.1b**_
+### _**Patch 1.51b**_
 
 • Fixed Apprentice Kj in newer servers.
 
@@ -15500,7 +15501,7 @@ More alloyed forms coming in future patches
 • Enemy models for Trial of One should now be preloaded  
 • Enemies in the Trial of One can no longer be assassinated, but they will have a brief period of not attacking after spawning in so that low-bandwidth players can load them in before they start attacking
 
-### _**Patch 0.5.0a**_
+### _**Patch 1.50a**_
 
 • Angels in Trial of One are now after Thresher  
 • You now unlock the Minityrsa spawn by reaching the halfway point in Trial of One (when you beat thresher)
@@ -15549,7 +15550,7 @@ More alloyed forms coming in future patches
 • Fixed Level 60's not being able to invest their last point  
 • Grand Skewer can no longer be obtained through Legendary Echoes
 
-### _**Patch 0.4.9a**_
+### _**Patch 1.49a**_
 
 New Fishing Features:  
 • You can now fish up chests  
@@ -15557,20 +15558,20 @@ New Fishing Features:
 • You can now rarely fish up a golden fish that gives you luck  
 • You can craft 2 chum into Megalodaunt traps (These have a rare chance to spawn a red megalodaunt)
 
-### _**Patch 0.4.9b**_
+### _**Patch 1.49b**_
 
 • Temporarily disabled Megalodaunt Bait due to issues with it being spammed. Will be re-enabled once it's a bit more tested.
 
-### _**Patch 0.4.9c**_
+### _**Patch 1.49c**_
 
 • Fixed Wind mantras dealing no damage if you had World without Song.  
 • Fixed fishing making you stuck.
 
-### _**Patch 0.4.9d**_
+### _**Patch 1.49d**_
 
 • Fishing actually fixed now. Won't shutdown for it but should be fixed in new servers.
 
-### _**Patch 0.4.9e**_
+### _**Patch 1.49e**_
 
 Winter 1291 marks that fateful night, when the rumbling of a million Megalodaunts thundered in our ears. They laid waste to our homes... And what little lands we had left to squabble over.  
   
@@ -15645,16 +15646,16 @@ Small update for today with a little bit of new content. As an update on develop
 • Illusion Clones no longer spawn with animated equipment to lower frame drops  
 • Spike Traps, Concussive Flash, Cool Head, and Stormcaller Flash are now rollable outside of whispers
 
-### _**Patch 0.4.5a**_
+### _**Patch 1.45a**_
 
 • Just to be nice, we've reset the cooldowns for everyone on Yun'Shul wishes, so all of you will be able to reroll your Resonance regardless of if you've already used all your wishes up. Have fun!  
 (worth noting that this doesn't mean people can reroll bells an unlimited amount of times, as Yun'Shul has a max number of wishes they can grant)
 
-### _**Patch 0.4.5b**_
+### _**Patch 1.45b**_
 
 Please also note that if you have Tarnished you will need to remove it first before you can reroll your bell.
 
-### _**Patch 0.4.5c**_
+### _**Patch 1.45c**_
 
 • Nerfed Primadon rage state  
 • Fixed the sea behaving weirdly and not displaying properly  
@@ -15670,7 +15671,7 @@ As discussed in #announcements, movestacking now works like this:
   
 We're still open to feedback on this system, but we hope that this solution is received as the best of both worlds. Thank you for all your feedback and suggestions.
 
-### _**Patch 0.4.4a**_
+### _**Patch 1.44a**_
 
 • Fixed Deferred doing tiny damage due to combo reduction  
 • Fixed Stream proccing multiple times when negated
@@ -15745,7 +15746,7 @@ Hi guys, mostly some QoL today but we've also included some balance changes & im
 • Fixed Stone (actually this time)  
 • Fixed Ice Forge
 
-### _**Patch 0.4.2a**_
+### _**Patch 1.42a**_
 
 • Fixed Lightning Stream being super slow and spawning a grey brick
 
@@ -15791,7 +15792,7 @@ Hi guys, mostly some QoL today but we've also included some balance changes & im
 • Fixed Mirage from the Deep  
 • Fixed a super rare bug that could softlock EXP
 
-### _**Patch 0.4.1a**_
+### _**Patch 1.41a**_
 
 • Fixed healthpacks. Didn't come up during testing. Will shutdown soon since this is pretty horrible to deal with.
 
@@ -15835,7 +15836,7 @@ Some buffs to Lightning & Shadow in this patch. We have plans to expand Lightnin
 **Optimizations**  
 • Fixed a wide range of memory leaks relating to mantras & wayward gem
 
-### _**Patch 0.3.9a**_
+### _**Patch 1.39a**_
 
 • Reduced AoE on Fire Eruption.
 
@@ -15878,7 +15879,7 @@ Some assorted improvements, bugfixes, and balancing today.
 **Optimizations**  
 • Patched multiple memory leaks
 
-### _**Patch 0.3.8a**_
+### _**Patch 1.38a**_
 
 Some points of consideration for the Exoskeleton Rework:  
 • Just so it's clear, Exoskeleton isn't identical to Chitin, it gives substantially more resistance and can stack with Chitin. It also has a larger pool of durability.  
@@ -15894,7 +15895,7 @@ We're listening to your feedback, and if Exoskeleton is bad in its new form we c
 • Exoskeleton durability now scales with your Power. The base is what it is currently, so this scaling will only be a positive thing.  
 • Natural Armor is now restored to full when you win a PvP Arena match.
 
-### _**Patch 0.3.8b**_
+### _**Patch 1.38b**_
 
 • Armor & Natural Armor will both now start at max in the PvP Arena. Your Armor & Natural Armor in the Arena won't save to outside of the Arena.
 
@@ -15979,7 +15980,7 @@ Hi guys, just some balances and fixes to follow up last night's update.
 • Fixed people queueing onto the same team in 1v1 if they share a guild  
 • Fixed Overflowing Dam not working on guns
 
-### _**Patch 0.3.6a**_
+### _**Patch 1.36a**_
 
 • Fixed Flamekeeper Cestus having 14 dmg instead of 15.5
 
@@ -16090,7 +16091,7 @@ Hi guys, just some balances and fixes to follow up last night's update.
 • Reduced the number of combatants in a lot of 'Versus' events  
 • New non-laggy Lightning Assault effect
 
-### _**Patch 0.3.5a**_
+### _**Patch 1.35a**_
 
 **Equipment Reworks**  
 • Jarvis now properly copies the appearance of one item onto another, but now requires that the equipment be of the same slot  
@@ -16130,20 +16131,20 @@ Alright, so that's a pretty big list! Wanted to take this time to talk to the co
 • We prefer to update the game at a fairly solid pace, and don't really like freezing updates for too long. Preferably we can tackle balance problems ASAP and add in new content as we please, however when we are working on something of a larger scope we will try to let you guys know ahead of time so you understand why the patches slow down.  
 We hope you guys enjoy the things we've added and look forward to adding more in the future.
 
-### _**Patch 0.3.5b**_
+### _**Patch 1.35b**_
 
 • Fixed Royal Duelist coats not having stats.  
 Also, it's worth mentioning that the current cap for Luck is 33%.
 
-### _**Patch 0.3.5c**_
+### _**Patch 1.35c**_
 
 • Hopefully made PvP queues a bit quicker.
 
-### _**Patch 0.3.5d**_
+### _**Patch 1.35d**_
 
 • Health packs from knocking enemies are now based on contribution and are split between all nearby players who damaged the enemy. They should give a reasonable amount again.
 
-### _**Patch 0.3.5e**_
+### _**Patch 1.35e**_
 
 • Fixed Bloodless moves dealing no damage.
 
@@ -16183,15 +16184,15 @@ Also, it's worth mentioning that the current cap for Luck is 33%.
 • Fixed Ferryman getting stuck outside of his arena  
 • Fixed guards in Etris getting stuck in the water and just sitting there
 
-### _**Patch 0.3.3a**_
+### _**Patch 1.33a**_
 
 • Blood loss from No-Life King reduced to 2x
 
-### _**Patch 0.3.3b**_
+### _**Patch 1.33b**_
 
 • Fixed not being able to recall mantras with deep gems. Should be live in new servers
 
-### _**Patch 0.3.3c**_
+### _**Patch 1.33c**_
 
 • Fixed moves like Wind Gun, Shadow Gun, Warden's Blades occasionally killing you if you knock with them active.
 
@@ -16216,7 +16217,7 @@ Also, it's worth mentioning that the current cap for Luck is 33%.
 • Deferred no longer causes stacking multipliers (your original damage would get multiplied and then so too would your deferred damage)  
 • Fixed mantras given the same name not being suffixed correctly, becoming increasingly long strings of "Bababooey Alter Alter Alter" etc.
 
-### _**Patch 0.3.2a**_
+### _**Patch 1.32a**_
 
 • Crypt Blade Shadow Scaling reduced (15 -> 10)
 
@@ -16273,22 +16274,22 @@ Enchanted effects have been reduced across the board. They're still strong and u
 • Fixed being able to receive Nullifying Clarity in a Roll 2  
 • Fixed Legion Kata grabbing through iframes
 
-### _**Patch 0.3.2a**_
+### _**Patch 1.32a**_
 
 • Hero's Blade damage increased (18 -> 20)
 
-### _**Patch 0.3.2b**_
+### _**Patch 1.32b**_
 
 • Fixed Vampirism not proccing as often as it should  
 • Fixed Elastic not proccing as often as it should  
 • Fixed Grim not proccing as often as it should  
 • Fixed Heroism not proccing as soon as it should
 
-### _**Patch 0.3.2c**_
+### _**Patch 1.32c**_
 
 • Fixed Silencer's Blade causing you to proc suffocation on every m1 (and break your swings until suffocate is cleared)
 
-### _**Patch 0.3.2d**_
+### _**Patch 1.32d**_
 
 • Fixed Silencer's Blade causing suffocation procs to stack. This fix will be in next patch
 
@@ -16340,7 +16341,7 @@ Smaller patch today.
 • Fixed Final Act not counting as fire damage, ignoring resistances  
 • Fixed Final Act working on non-mantra damage
 
-### _**Patch 0.2.9a**_
+### _**Patch 1.29a**_
 
 • Hopefully finally fixed the Duke chest not spawning
 
@@ -16371,24 +16372,24 @@ Smaller patch today.
 • Fixed being able to get Exoskeleton in Roll 2 •  
 Fixed Primadon giving luck/exp when he despawns/walks back into the sea
 
-### _**Patch 0.2.8a**_
+### _**Patch 1.28a**_
 
 To join friends with the new Server Menu, you can either ask for their server name or join them from Roblox and click Quick Join. We may add a way to join friends from the menu at some point.  
   
 There's some bugginess with the system right now as we haven't shutdown the main game. It should be better after we shutdown. Thanks for your patience!
 
-### _**Patch 0.2.8b**_
+### _**Patch 1.28b**_
 
 NOTE: On shutdowns you probably won't see any servers in the list at first, because none have started up!  
 Just to clarify how things work: • We don't control what regions servers are created in, Roblox do. If we could start up servers in specific regions we would!  
 • That being said, this update should make it easier to find servers in specific regions, instead of before where you just had to pray you got a server in your region.  
 • If you're in a region with few servers, you might be better off using Quick Join, as it could potentially start up a new server in your region.
 
-### _**Patch 0.2.8c**_
+### _**Patch 1.28c**_
 
 • Also, servers currently update their player count every 60 seconds. This might mean you see servers that seem like they have spots but don't. We'll see if we can make this more frequent, but it will be limited by Roblox's messaging limits.
 
-### _**Patch 0.2.9d**_
+### _**Patch 1.29d**_
 
 Server Filters • You can now filter for region in the Server Menu.
 
@@ -16436,18 +16437,18 @@ Server Filters • You can now filter for region in the Server Menu.
 • Fixed Kata Critical not proccing flourish  
 • Fixed DeepGems proccing off of criticals and light attacks
 
-### _**Patch 0.2.7a**_
+### _**Patch 1.27a**_
 
 • Lowered Fire Blade cost  
 • Lowered Flame Grab cost  
 • Lowered Fire Forge cost  
 • Reduced the damage reduction for Bloodless slightly (30% -> 20%)
 
-### _**Patch 0.2.7b**_
+### _**Patch 1.27b**_
 
 • Lightning Assault fixed
 
-### _**Patch 0.2.7c**_
+### _**Patch 1.27c**_
 
 • Actually fixed Lightning Stream for real this time (for real)
 
@@ -16588,7 +16589,7 @@ Just a small patch for now.
 • Optimized some events causing considerable lag spikes. The duke event was probably the main culprit  
 • Optimized a LOT of moves that could cause lag spikes or that were just poorly optimized in general
 
-### _**Patch 0.2.2a**_
+### _**Patch 1.22a**_
 
 • Deep Gems no longer drop in the overworld, including from bosses. They were getting a little too common.
 
@@ -16634,11 +16635,11 @@ Big balance patch today.
 • Entanglement enchantment now properly slows you down during the seconds its defense is active  
 • Fixed Bloodiron and Carnivore not working on certain mobs
 
-### _**Patch 0.2.1a**_
+### _**Patch 1.21a**_
 
 • Rapiers were unintentionally added to loot pools early, so have been reverted to base swords.
 
-### _**Patch 0.2.1b**_
+### _**Patch 1.21b**_
 
 **Balancing**  
 • Legion Cestus Base damage buffed (`14.5 --> 15.5`) and now has 5% PEN  
@@ -16647,7 +16648,7 @@ Big balance patch today.
 • Fixed not being able to make Mushroom Omelette with Dentifilos  
 • Fixed always dropping stacks and not being able to drop single items
 
-### _**Patch 0.2.1c**_
+### _**Patch 1.21c**_
 
 • Sacred Field resonance's elemental variant now provides melee resistance too
 
@@ -16673,7 +16674,7 @@ Fairly small patch today, but includes fixes for some longstanding issues.
 • Fixed some memory leaks  
 • Optimized Human Mob status effect handling
 
-### _**Patch 0.2.0a**_
+### _**Patch 1.20a**_
 
 **Balancing**  
 • You no longer receive a speed buff from Freestyler's Band while in danger  
@@ -16783,7 +16784,7 @@ Mostly bugfixes this time around.
 • Crippling Darkness nerfed to 25% PEN  
 • Buffed Bloodletter
 
-### _**Patch 0.1.7a**_
+### _**Patch 1.17a**_
 
 Most of the patch today is optimizations to mobs. Should hopefully help with some of the lag.  
   
@@ -16805,7 +16806,7 @@ Most of the patch today is optimizations to mobs. Should hopefully help with som
 **Optimizations**  
 • Some more big optimizations to mobs. Probably an even bigger impact than last patch was.
 
-### _**Patch 0.1.7b**_
+### _**Patch 1.17b**_
 
 • Fixed In Twain heavy weapon instakill flourish talent breaking you and holding you in place forever. Will probably need to shutdown again at some point soon for this.
 
@@ -16875,11 +16876,11 @@ On another note, here's some updates we have planned for the near future:
 • Optimized status effect handling somewhat, should help with server performance  
 • We've identified some events that are especially laggy - we'll likely be replacing these events
 
-### _**Patch 0.1.5a**_
+### _**Patch 1.15a**_
 
 • Fixed Ice Forge for real this time.
 
-### _**Patch 0.1.5b**_
+### _**Patch 1.15b**_
 
 • Fixed everyone having super high health regen.
 
@@ -16919,11 +16920,11 @@ Happy new year everyone! Lots of balance changes today and some optimizations.
 • Fixed some more memory leaks.  
 • Just as a note on lag: We're still investigating causes of lag and are working to optimize and reduce them. Server memory usage has gone down by a lot and we aim to reduce it even more. The main sources of lag are mobs, certain moves, and ships. These will likely be what we target next in our optimization.
 
-### _**Patch 0.1.4a**_
+### _**Patch 1.14a**_
 
 • Should also mention that we've enabled an in-dev Roblox feature for animations that might change how some animations 'blend'. We enabled this feature as it supposedly reduces a lot of lag and server memory from animations. Let us know if it causes any unwanted behaviour in the bug reports channel.
 
-### _**Patch 0.1.4b**_
+### _**Patch 1.14b**_
 
 • Fixed Blessed Gems bugging you out. Will need to wait for the next shutdown for this, sadly.
 
@@ -16968,7 +16969,7 @@ Happy new year everyone! Lots of balance changes today and some optimizations.
 • Fixed Shadow Roar being unobtainable  
 • Fixed Grim Enchantment causing opponents to lock up
 
-### _**Patch 0.1.2a**_
+### _**Patch 1.12a**_
 
 **Tool Dropping**  
 • Pushed through an emergency patch for dropping tools. The anti-dupe patch made it so if you dropped 1 of a stack it'd delete the remaining stacks in your inventory.
@@ -16995,7 +16996,7 @@ Happy new year everyone! Lots of balance changes today and some optimizations.
 • Bottom Freeze now works with Crystal properly  
 • Lightning Eruption visuals changed
 
-### _**Patch 0.1.1a**_
+### _**Patch 1.11a**_
 
 **Small Patch**  
 • Hopefully fixed some issues people were having with their data not always saving.  
@@ -17023,14 +17024,14 @@ Happy new year everyone! Lots of balance changes today and some optimizations.
 • Gale Trap (MANTRA) now sticks without the Aeronade talent  
 • Shadow Meteors now have less of a delay when coming down
 
-### _**Patch 0.1.0a**_
+### _**Patch 1.10a**_
 
 **Small Patches**  
 _Since we had to force update the game, there's a couple patches that made it through alongside the fix._  
 • Fixed amnesic driftwoods not removing buffs from mantras always  
 • You can no longer roll agitating spark on Roll 2
 
-### _**Patch 0.1.0b**_
+### _**Patch 1.10b**_
 
 • Fixed Vow of Mastery creation. We're afraid that it won't work until a new patch is pushed.
 
@@ -17103,7 +17104,7 @@ _Since we had to force update the game, there's a couple patches that made it th
 • Fixed Jeremiah  
 • Fixed shadow metralleta not doing as much damage as it should
 
-### _**Patch 0.0.9a**_
+### _**Patch 1.9a**_
 
 **Bugfixes**  
 • Patched the duke being immortal. Wouldn't recommend fighting him until there's new servers.
@@ -17147,7 +17148,7 @@ Small patch today. Hope you guys are all enjoying yourselves!
 • Fixed lag from loading in with lots of things in your backpack  
 • Fixed stats with values of 10, 20, 30, ... sometimes displaying as 1, 2, 3, ...
 
-### _**Patch 0.0.6a**_
+### _**Patch 1.6a**_
 
 **Content**  
 • New Ice Mantra  
@@ -17186,12 +17187,12 @@ Small patch today. Hope you guys are all enjoying yourselves!
 • Fixed Ferryman not despawning Optimizations  
 • Fixed a few memory leaks with some moves
 
-### _**Patch 0.0.5a**_
+### _**Patch 1.5a**_
 
 **Bugfixes**  
 • Server lifespans will now be randomised so that everyone isn't booted at the same time causing issues with finding servers _not_ shutting down. Our apologies for this happening, we didn't anticipate it.
 
-### _**Patch 0.0.5b**_
+### _**Patch 1.5b**_
 
 **Bugfixes**  
 • Fixed widow being immortal  
@@ -17227,7 +17228,7 @@ Small patch today. Hope you guys are all enjoying yourselves!
 Fixed tiny Primadon chest Optimizations  
 • Optimized Necromancer event
 
-### _**Patch 0.0.4a**_
+### _**Patch 1.4a**_
 
 **Content**  
 • Thresher Scales (Rare - Talent)
@@ -17246,7 +17247,7 @@ Fixed tiny Primadon chest Optimizations
 • Fixed Wind gun cooldown  
 • Fixed infinite thumbs on wind guns
 
-### _**Patch 0.0.3a**_
+### _**Patch 1.3a**_
 
 • fixed glacial arc breaking you on use. would recommend not using it until we shutdown later
 
@@ -17283,7 +17284,7 @@ Fixed tiny Primadon chest Optimizations
 • Fixed PVE luck gain not displaying the luck gained visual effect  
 • Some build errors fixed
 
-### _**Patch 0.0.2a**_
+### _**Patch 1.2a**_
 
 **Balance**  
 • Spinecutter now has a larger activation window  
@@ -17297,15 +17298,15 @@ Fixed tiny Primadon chest Optimizations
 • wind gun no longer block breaks and can be blocked  
 • fixed rarity on some equipment where the ascended versions were more common than the regular
 
-### _**Patch 0.0.2b**_
+### _**Patch 1.2b**_
 
 (shutdown message fixed)
 
-### _**Patch 0.0.2c**_
+### _**Patch 1.2c**_
 
 • Fixed a bug where animated equipment (e.g. Black Scarf, Black Adventurer Coat) would leave behind an extra part at the map origin that people could hit you from
 
-### _**Patch 0.0.2d**_
+### _**Patch 1.2d**_
 
 • primadon spawner fixed in new servers
 
@@ -17322,7 +17323,7 @@ Fixed tiny Primadon chest Optimizations
 • mudskipper ambushes shouldn't stack up as much over time  
 • various smaller bugfixes
 
-### _**Patch 0.0.1a**_
+### _**Patch 1.1a**_
 
 • fixed grand skewer triggering the anti-cheat  
 • fixed a bug where you could roll a race you had as a 'switch to X' option.

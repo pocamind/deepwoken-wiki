@@ -1,6 +1,6 @@
 ---
 title: Chained Ring
-revid: 196887
+revid: 197120
 source: https://deepwoken.fandom.com/wiki/Chained_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -28,3 +28,5 @@ categories: [Equipment, Rings]
 **Chained Ring** is a Ring [Equipment](Equipment.md) piece that removes your ability to use your [Air Dash](Combat_Mechanics.md#air-dash) in return for reducing knockback dealt to you.
 
 Notably, you can still perform a backdash while this ring is equipped.
+
+Upon uppercutting an opponent, disable their ability to air dash for 5 seconds and briefly disable their ability to roll.

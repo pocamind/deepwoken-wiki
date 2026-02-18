@@ -1,15 +1,18 @@
 ---
 title: Cheral
-revid: 196912
+revid: 197116
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
+categories: [Gremor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Cheral
 
-| Eastern Camp Master | |
+| Cheral | |
 |---|---|
+| name | Cheral |
 | aspect | Gremor |
 | location | Etrean Wilds |
 | affiliation | The Children of Navae |
@@ -22,9 +25,28 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Eastern Camp Master is a Gremor NPC that can only be found in the Navaen Nomad Camp in [Etrean Wilds](Etrean_Wilds.md). This NPC is used to obtain the [Way of Navae](Fists.md) fighting style.
+Cheral is a [Gremor](Gremor.md) NPC. Speaking to Cheral with a [Navaen Hostage](Navaen_Hostage.md) will grant the player the [Way of Navae](Fists.md) fighting style.
 
-They wear [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
+## Location
+
+Cheral can be found inside of a tent at the Navaen Camp located in the [Etrean Wilds](Etrean_Wilds.md).
+
+## Shop
+
+<table>
+<tbody>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Lumber_Axe.md">Lumber Axe</a></div><div><i>A sturdy axe for felling trees.</i></div></td>
+</tr>
+<tr>
+  <td><center><figure><figcaption></figcaption></figure>3 <a href="Notes.md">NotesLargeNew</a><div>Notes</div></center></td>
+  <td><div><a href="Flint.md">Flint</a></div><div><i>A sharp flint and a scrap of pyrite used for starting fires.</i></div></td>
+</tr>
+</tbody>
+</table>
+
+  
 
 ## Dialogue
 
@@ -33,18 +55,19 @@ They wear [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td>Neutral Reputation with The Children of Navae</td>
-  <td>Ally Reputation with The Children of Navae</td>
+  <td>Ah, a homelander. Did you need something?</td>
 </tr>
 <tr>
-  <td>Ah, a homelander.</td>
-  <td>Ah, Bloodkin [First Name]. I am honored to have your assistance.</td>
+  <td>Is there some kind of arrangement between the Etreans and you?</td>
 </tr>
 <tr>
-  <td colspan="2">[End Dialogue]</td>
+  <td>WIP</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -83,4 +106,4 @@ They wear [Navaen Nomad Robes](Navaen_Nomad_Robes.md).
 
 ## Trivia
 
--   The dialogue you are given depends on your reputation with [The Children of Navae](The_Children_of_Navae.md)
+-   They wear the [Navaen Nomad Robes](Navaen_Nomad_Robes.md).

@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 196385
+revid: 197167
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -338,12 +338,12 @@ Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: | Gloss
 
 ### Lightkeep
 
--   Stationed in [Lighthouses](#lighthouse) at the edges of the [Luminants](#the-luminants), these rare individuals are capable of Illuminating a path through the [Voidsea](#the-voidsea), forcing it to retreat.
+-   Stationed in [Lighthouses](#lighthouses) at the edges of the [Luminants](#the-luminants), these rare individuals are capable of Illuminating a path through the [Voidsea](#the-voidsea), forcing it to retreat.
 -   A scant few are born with the Gift of [Lightkeeping](#lightkeep), with each individual bearing the heavy responsibility of driving back the Void to enable the transportation and exchange of goods, information, and people.
--   Lightkeepers are afforded little freedom, often spending their lives wasting away in their [Lighthouses](#lighthouse) guarded by a legion of soldiers.
+-   Lightkeepers are afforded little freedom, often spending their lives wasting away in their [Lighthouses](#lighthouses) guarded by a legion of soldiers.
 -   A nation's economy rests on its Lightkeepers, with passage between the [Luminants](#the-luminants) being strictly controlled and tariffed by the few that have Lightkeepers in their retinue.
 
-Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Radiant Tones](#radiant-tones), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye)
+Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Nimea](Nimea.md) | Books: | Glossary Entries: [Dawnfocal](#dawnfocal), [Lighthouses](#lighthouses), [Lightkeep](#lightkeep), [Radiant Tones](#radiant-tones), [The Luminants](#the-luminants), [The Moonseye](#the-moonseye)
 
 -   Accessing the faintest spark of [Lightkeeping](#lightkeep) through the Lightkeeper's Medallion, the name ['Aeod'](#aeod-the-waking-god) makes itself known.
 
@@ -421,6 +421,13 @@ Dialogue: [Adrofalis](Adrofalis.md), [Delta](Delta.md), [Eiris](Eiris.md), [Maes
 Book: [Vows by the Sea: Inheritance](Vows_by_the_Sea%253A_Inheritance.md)
 
 ## Objects of Interest
+
+### Dawnfocal
+
+-   Housed within [Lighthouses](#lighthouses), Dawnfocals are priceless lenses utilised by [Lightkeepers](#lightkeep) to focus their Light and Illuminate passages through the [Voidsea](#the-voidsea).
+-   The methods behind their production are a closely-guarded secret.
+
+Dialogue: | Books: | Glossary Entries: [Lighthouses](#lighthouses)
 
 ### The Moonseye
 
@@ -619,12 +626,12 @@ Dialogue: | Books: [The Interrogation Of Ranger Santiago Talo](The_Interrogation
 
 Dialogue: [Alpha](Alpha.md), [Brasidas Spellhardt](Brasidas_Spellhardt.md), [Celestial Telescope](Greathive_Aratel.md#observatory-2), [Green Spellhardt](Green_Spellhardt.md), [Kaide](Kaide,_the_Drowned_Light.md), [Louie Spellhardt](Louie_Spellhardt.md), [Theadre](Theadre.md) | Books: | Glossary Entries: [Constellia, the Guiding Star](#constellia-the-guiding-star), [Lightborn](#lightborn), [Lumen](#lumen), [The Celestials](#the-celestials), [The Moonseye](#the-moonseye), [The Starkindred Faith](#the-starkindred-faith), [Zhatarn, the Moonlight Prince](#zhatarn-the-moonlight-prince)
 
-### Lighthouse
+### Lighthouses
 
 -   At the edges of the [Luminants](#the-luminants), Lighthouses serve as the only reliable means of travelling between [Luminants](#the-luminants).
--   Lighthouses require the talents of a [Lightkeeper](#lightkeep) to operate. In essence, Lighthouses are a lens through which a [Lightkeeper](#lightkeep) can focus their Light. By illuminating the void between [Luminants](#the-luminants), a thin stretch of navigable ocean is brought back into existence and can be traversed by ships.
+-   Lighthouses require the talents of a [Lightkeeper](#lightkeep) to operate. Lighthouses house a [Dawnfocal](#dawnfocal), through which a [Lightkeeper](#lightkeep) can focus their Light. By illuminating the void between [Luminants](#the-luminants), a thin stretch of navigable ocean is brought back into existence and can be traversed by ships.
 
-Dialogue: [Nimea](Nimea.md), [Samael](Samael.md) | Books: | Glossary Entries: [Lightkeep](#lightkeep), [The Voidsea](#the-voidsea)
+Dialogue: [Nimea](Nimea.md), [Samael](Samael.md) | Books: | Glossary Entries: [Dawnfocal](#dawnfocal), [Lightkeep](#lightkeep), [The Voidsea](#the-voidsea)
 
 ### The Lullaby Isles
 
@@ -648,7 +655,7 @@ Dialogue: [Adrofalis](Adrofalis.md), [Armourer Kev](Armourer_Kev.md), [Chef Buon
 -   In order to secure safe passage through the [Voidsea](#the-voidsea), the work of a [Lightkeeper](#lightkeep) is required.
 -   Today, there are broadly considered to be 5 Luminants; the Eastern, Western, Northern, Southern, and [Central Luminants](#the-central-luminant). In the [Old World](#the-old-world), the Luminants were larger and more numerous.
 
-Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kressa](Kressa.md), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Neero](Neero.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md), [Raen](Raen.md), [Sev](Sev.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [O Pardoner of Mine](O_Pardoner_of_Mine.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthouse](#lighthouse), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
+Dialogue: [Alirian](Alirian.md), [Cap'n Orlandeau](<Cap'n_Orlandeau.md>), [Caragan](Caragan.md), [Chef Odiolavoro](Chef_Odiolavoro.md), [Joshua (Vow of Iron)](<Joshua_(Vow_of_Iron).md>), [Kressa](Kressa.md), [Mofisu Clan Informant](Mofisu_Clan_Informant.md), [Neero](Neero.md), [Nimea](Nimea.md), [Ottilde](Ottilde.md), [Raen](Raen.md), [Sev](Sev.md), [Warden Jericho](Warden_Jericho.md) ,[Zana](Zana.md) | Books: [God in the Machine](God_in_the_Machine.md), [Lumen's Folklore: Volume 'Attunement'](<Lumen's_Folklore.md#volume-attunement>), [O Pardoner of Mine](O_Pardoner_of_Mine.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthouses](#lighthouses), [Lightkeep](#lightkeep), [Lumen](#lumen), [The Central Luminant](#the-central-luminant), [The Southern Luminant](#the-southern-luminant)
 
 ### The City of New Kyrsa
 
@@ -728,9 +735,9 @@ Dialogue: | Books: [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol
 -   When it comes to the Voidsea, the conventional laws of time and space hang in the towel.
 -   Islands dragged into the Voidsea may suddenly be spat back out many years later, its inhabitants wholly unaware of the time that has passed.
 -   Ships that sail into the Voidsea may find themselves heading back the way they came, with no apparent error in their instruments or navigation. These, of course, are the lucky ones. Few ships have ever passed into the Voidsea and ever been seen again.
--   The Voidsea is only reliably traversed through the use of a [Lighthouse](#lighthouse).
+-   The Voidsea is only reliably traversed through the use of a [Lighthouse](#lighthouses).
 
-Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [Driftlands](#driftlands), [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Surface](#the-surface), [The Tides](#the-tides)
+Dialogue: [Alastir](Alastir.md), [Aristo](Aristo.md), [Kaide](Kaide,_the_Drowned_Light.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md), [Neero](Neero.md), [Petris (Vow of Iron)](<Petris_(Vow_of_Iron).md>), [Suyuan](Suyuan.md), [The Voidmother](The_Voidmother.md) | Books: [Lumen's Folklore: Volume 'North'](<Lumen's_Folklore.md#volume-north>), [Stars Above, and the Blade between](Stars_Above,_and_the_Blade_between.md), [Studies on Canticlysm, Vol. IV](Studies_on_Canticlysm.md#vol-iv), [Tale of the Storm](Tale_of_the_Storm.md) | Glossary Entries: [Dawnfocal](#dawnfocal), [Driftlands](#driftlands), [Lightkeep](#lightkeep), [The Luminants](#the-luminants), [The Southern Luminant](#the-southern-luminant), [The Submergence of Celtor](#the-submergence-of-celtor), [The Surface](#the-surface), [The Tides](#the-tides)
 
 ### The Western Luminant
 

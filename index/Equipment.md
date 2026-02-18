@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 196946
+revid: 197119
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -573,21 +573,6 @@ _+Talent: Give and Take_
 **Requires Power 6**
 
  | N/A |
-| 
-
-File:Khan Helmet.png
-
- | [Khan Helmet](Legion_Helmet.md)  
-(**Set**) | _+10 Health_  
-_+2 Posture_
-
-+1 Uncommon Pip  
-**Requires Power 10, Fortitude 15**
-
- | Set: Khan  
-Head: [Khan Helmet](Legion_Helmet.md)  
-Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
-Legs: [Khan Boots](Legion_Boots.md) |
 |  | [Kyrsmas Hat](Kyrsmas_Hat.md)  
 (**Limited Time Event**)  
 (**Unique**) | _+10 Health_  
@@ -602,6 +587,21 @@ _+1 Posture_
 **Requires Fortitude 5**
 
  | N/A |
+| 
+
+File:Khan Helmet.png
+
+ | [Legion Helmet](Legion_Helmet.md)  
+(**Set**) | _+10 Health_  
+_+2 Posture_
+
++1 Uncommon Pip  
+**Requires Power 10, Fortitude 15**
+
+ | Set: Legion  
+Head: [Legion Helmet](Legion_Helmet.md)  
+Arms: [Legion Pauldrons](Legion_Pauldrons.md)  
+Legs: [Legion Boots](Legion_Boots.md) |
 | File:Jaleel miner hat.png | [Miner's Hardhat](<Miner's_Hardhat.md>) | _+1 Posture_
 
 +2 Rare Pips  
@@ -1408,16 +1408,6 @@ _+Talent: Defiant until the End_
 
  | Variants:  
 Red, Black, Faded, Jet Black, Orange & Purple |
-| File:Khan Pauldrons.png | [Khan Pauldrons](Legion_Pauldrons.md) | _+3 Health_
-
-+2 Rare Pips  
-_+Talent: Polite Awakening_  
-**Requires Power 8**
-
- | Set: Khan  
-Head: [Khan Helmet](Legion_Helmet.md)  
-Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
-Legs: [Khan Boots](Legion_Boots.md) | N/A |
 |  | [Leather Gloves](Leather_Gloves.md)  
 (**Set**) | _+2 Health_  
 _+1 Posture_
@@ -1432,6 +1422,16 @@ Legs: [Leather Boots](Leather_Boots.md) |
 _+1 Posture_ | Set: Leather  
 Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
 Legs: [Leather Boots](Leather_Boots.md) |
+| File:Khan Pauldrons.png | [Legion Pauldrons](Legion_Pauldrons.md) | _+3 Health_
+
++2 Rare Pips  
+_+Talent: Polite Awakening_  
+**Requires Power 8**
+
+ | Set: Legion  
+Head: [Legion Helmet](Legion_Helmet.md)  
+Arms: [Legion Pauldrons](Legion_Pauldrons.md)  
+Legs: [Legion Boots](Legion_Boots.md) | N/A |
 |  | [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
 (**Set**) | _+6 Health_  
 _+2 Posture_
@@ -2081,20 +2081,20 @@ Legs: [Imperial Boots](Imperial_Boots.md) |
  | Set: Iron  
 Arms: [Iron Pauldrons](Iron_Pauldrons.md)  
 Legs: [Iron Boots](Iron_Boots.md) |
-| File:Khan Boots1.png | [Khan Boots](Legion_Boots.md)  
+| File:Leather Boots NEW.png | [Leather Boots](Leather_Boots.md)  
+(**Set**) | +1 Rare Pip | Set: Leather  
+Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
+Legs: [Leather Boots](Leather_Boots.md) |
+| File:Khan Boots1.png | [Legion Boots](Legion_Boots.md)  
 (**Set**) | _+3 Health_
 
 +2 Rare Pips  
 **Requires Power 6**
 
- | Set: Khan  
-Head: [Khan Helmet](Legion_Helmet.md)  
-Arms: [Khan Pauldrons](Legion_Pauldrons.md)  
-Legs: [Khan Boots](Legion_Boots.md) |
-| File:Leather Boots NEW.png | [Leather Boots](Leather_Boots.md)  
-(**Set**) | +1 Rare Pip | Set: Leather  
-Arms: [Leather Gloves](Leather_Gloves.md)/[Leather Pauldrons](Leather_Pauldrons.md)  
-Legs: [Leather Boots](Leather_Boots.md) |
+ | Set: Legion  
+Head: [Legion Helmet](Legion_Helmet.md)  
+Arms: [Legion Pauldrons](Legion_Pauldrons.md)  
+Legs: [Legion Boots](Legion_Boots.md) |
 |  | [Mercenary's Boots](<Mercenary's_Boots.md>)  
 (**Set**) | _+2 Health_
 
@@ -2844,13 +2844,14 @@ Innate Effects
 +1 Uncommon Pip
 
  |
-|  | [Bloodiron Ring](Bloodiron_Ring.md) | Grants the ability to recover 2% of Armor durability per kill. (Stacks with Bloodiron Spirit)
+|  | [Bloodiron Ring](Bloodiron_Ring.md) | Restores a percentage of your Armor and Natural Armor durability when you kill opponents. (Stacks with [Bloodiron Spirit](Talents.md#bloodiron-spirit))
 
   
+_+2% Physical Armor_  
 +1 Uncommon Pip
 
  |
-|  | [Chained Ring](Chained_Ring.md) | Reduces incoming knockback but removes your ability to Air Dash. You can still backdash while having this ring equipped.
+|  | [Chained Ring](Chained_Ring.md) | Reduces incoming knockback but removes your ability to Air Dash. You can still backdash while having this ring equipped. Uppercutting opponents will disable their ability to air dash for 5 seconds and disable their dodge for a short duration.
 
   
 +1 Uncommon Pip  
@@ -2867,7 +2868,7 @@ Innate Effects
 **Requires Power 6**
 
  |
-|  | [Dazed Band](Dazed_Band.md) | Flourishing an opponent has a chance to stun them automatically.
+|  | [Dazed Band](Dazed_Band.md) | Flourishing and uppercutting an opponent has a chance to stun them automatically.
 
   
 +1 Uncommon Pip  
@@ -2931,6 +2932,7 @@ If using Eruption Path: Lava Serpent, Eruption delay is reduced.
 |  | [Light Eater Ring](Light_Eater_Ring.md) | Taking Flamecharm or Thundercall damage (e.g. Mantras, Burn, Surge Overloads) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
 
   
+_+3% Elemental Armor_  
 _+2% Fire Armor_  
 _+2% Lightning Armor_  
 +1 Uncommon Pip  
@@ -2990,7 +2992,7 @@ Stuns the opponent upon a successful damaging sheathe.
 **Requires Power 10**
 
  |
-|  | [Ring of Pestilence](Ring_of_Pestilence.md) | Enemies you hit with melee attacks have their healing reduced by 50% for 5 seconds. |
+|  | [Ring of Pestilence](Ring_of_Pestilence.md) | Enemies you hit with weapon attacks gain 50% anti-heal for 10 seconds. If you have this alongside [All the Dead Gods](Talents.md#all-the-dead-gods), then All the Dead God's anti-heal duration will be increased by 4 seconds. |
 |  | [Ring of Wisps](Ring_of_Wisps.md) | Double the amount of charges of Attunement Wisps.
 
   
@@ -3017,6 +3019,7 @@ Stuns the opponent upon a successful damaging sheathe.
 |  | [Windmill Ring](Windmill_Ring.md) | Taking Frostdraw or Galebreathe damage (e.g. Mantras, Apparitions, Crystal Detonations) will cause you to gain Ether. Ether gain scales on damage taken. Also procs on block and parry.
 
   
+_+3% Elemental Armor_  
 _+2% Ice Armor_  
 _+2% Wind Armor_  
 +1 Uncommon Pip  

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 193261
+revid: 197170
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1359,7 +1359,6 @@ These Talents are found in the _Ice Age_ category.
 -   The **Ice Cubes** Mantra is possibly a reference to Divine Beast Vah Ruta from The Legend Of Zelda: Breath Of The Wild.
 -   It's possible to put your guild base on **Glacial Arc** if you aim it straight forward and upwards then put it on the side.
 -   When **Glacial Arc** is used in layer 2 of the depths, it will start falling apart piece by piece.
--   [Navae](Lore.md#navae) is the pioneer of Frostdraw.
 -   The **Ice Fissure** Mantra is a reference to the Roblox game _Strife_, specifically the class [Obsidian's](https://strife-official.fandom.com/wiki/Obsidian) Pyroclast move, which summons pulsing obelisks.
 -   The **Warden's Blades** Mantra is likely a reference to _Devil May Cry_, bearing a striking resemblance to Vergil's Summoned Swords specifically the move Spiral Swords as it also does the exact same thing **Warden's Blades** does.
 -   The **Ice Chain** Mantra is a reference to [Gilgamesh's Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.

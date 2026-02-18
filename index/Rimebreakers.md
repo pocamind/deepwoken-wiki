@@ -1,9 +1,9 @@
 ---
 title: Rimebreakers
-revid: 197111
+revid: 197153
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons]
+categories: [Pathfinder Exclusive, Weapons, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
 ---
 
 # Rimebreakers
@@ -18,11 +18,11 @@ categories: [Pathfinder Exclusive, Weapons]
 | swing speed | 1.1x |
 | penetration | 5% |
 | talent | Fortify |
-| rarity | ? |
+| rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yes |
-| droppable | ? |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
 | pass down | ? |
 | obtainment | Kyrsgarde Champion |
@@ -34,10 +34,10 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Rimebreakers are a pair of hybrid attunement cestus
+**Rimebreakers** are a Fist Light Weapon that requires 50 [Frostdraw](Frostdraw.md), 50 Light Weapon, and 50 [Galebreathe](Galebreathe.md) to use. It is a drop from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
 ## Talent: Fortify
 
 Equipping the Rimebreakers grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Fortify** gives a Talent tool that applies a heavy slow debuff to yourself in exchange for high damage reduction. Lasts 30 seconds.
+**Fortify** grants a Talent tool that applies a heavy slow debuff to yourself in exchange for high damage reduction. This effect lasts 30 seconds.

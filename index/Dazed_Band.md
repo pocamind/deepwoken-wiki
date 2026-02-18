@@ -1,6 +1,6 @@
 ---
 title: Dazed Band
-revid: 178641
+revid: 197123
 source: https://deepwoken.fandom.com/wiki/Dazed_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -27,6 +27,4 @@ categories: [Equipment, Rings]
 
 **Dazed Band** is a Ring [Equipment](Equipment.md) piece that when it's equipped, it grants a 50% chance to automatically stun opponents upon flourishing them. It is a somewhat common item that can be found from all sorts of places.
 
-## Trivia
-
--   This ring's ability goes very well with talents that proc from flourishes, giving you an extra chance to proc your talents and use them.
+Though not stated in the description, uppercuts also have a chance to proc this effect.
