@@ -1,9 +1,9 @@
 ---
 title: Hunting Bow
-revid: 197160
+revid: 197206
 source: https://deepwoken.fandom.com/wiki/Hunting_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Medium Weapons, Bows]
+categories: [Weapons, Pages with broken file links, Medium Weapons, Bows]
 ---
 
 # Hunting Bow
@@ -29,13 +29,15 @@ categories: [Weapons, Medium Weapons, Bows]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Purchased for 25 at:, Meteor Isle, Etris Navaen Nomad camp |
+| obtainment | Purchased for 25 at:, Meteor Isle, Etrean Wilds Navaen Nomad camp |
 | description | Rabbit or duck, it doesn't really matter the season. |
 
 ## Description
 
-The Hunting Bow is a medium bow weapon.
+The Hunting Bow is a medium [Bow](https://deepwoken.fandom.com/wiki/Weapons#Bows) weapon.
 
 ## Critical
 
-Hunting Bow uses the Default Bow critical, pulling back the bow before firing a ranged shot. It has a scaled damage modifier of **1.25x** and a cooldown of **7 seconds**.
+File:Hunting Bow Critical.gif
+
+The Hunting Bow uses the default Bow critical, pulling back the bow before firing a ranged shot. It has a scaled damage modifier of **1.25x** and a cooldown of **7 seconds.**

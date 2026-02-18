@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 197106
+revid: 197200
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -392,7 +392,7 @@ _A servant of bone, powered by the Eternal Gale._
 
  | 
 
-??
+Typeless
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Trickster Dust
-revid: 197187
+revid: 197192
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -29,4 +29,4 @@ The Trickster Dust is a [Relic](Relics.md) that resembles emanating confetti par
 
 This Relic can also be used to craft an unknown equipment item.
 
--   [Equipment](Equipment.md): Lost Forge + 1x Trickster Dust + Gobletto = EVIL RED GOBLETTO
+-   [Equipment](Equipment.md): Lost Forge + 1x Trickster Dust + ???

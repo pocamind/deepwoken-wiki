@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 195626
+revid: 197210
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -11,7 +11,7 @@ categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosse
 | Scion of Ethiron | |
 |---|---|
 | health | 40000 |
-| drops | Chest (see loot table), Kyrsieger, Whistling Periapt, Deep Gems, Armorer's Needle, Reciprocal Bonecharm, All Kyrs Weapon series, Respawns Medallion Chests., Misc. |
+| drops | Chest (see loot table), Kyrsieger, Whistling Periapt, Deep Gems, Armorer's Needle, Reciprocal Bonecharm, Ethereal Bone Dust, All Kyrs Weapon series, Respawns Medallion Chests., Misc. |
 | locations | New Kyrsa, The Sleeping City |
 | challenges | -- Scion of Ethiron --, You Again? - Slay 10.Reward: +15% DMG; +7.5% RES |
 
@@ -34,6 +34,8 @@ It uses a variety of attacks to defeat you, notably summoning bones and directin
 Upon defeat, five chests containing [Kyrsan Medallions](Kyrsan_Medallions.md) will spawn in the City, along with a **Large Chest** at the entrance of his arena; containing a myriad of loot, including rare or exclusive items such as the [Kyrsieger](Kyrsieger.md), or [Whistling Periapt](Whistling_Periapt.md).
 
 However, defeating him will also prompt a hard 3 minute timer, or 180 seconds, in order to escape the City at the Light Hook at the front of the city before you are guaranteed to wipe, more information can be found on [Second Layer/New Kyrsa](Second_Layer/New_Kyrsa.md).
+
+Do note that telling [Misérables](Misérables.md) "**I seek power in my upcoming battles**" not only spawns the [Kyrsguarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) but also overall makes Scion of Ethiron much harder, making him not spawn healthpacks, charge his ult wind-up faster and a damage boost on all attacks.
 
 ## Attacks
 
@@ -220,7 +222,7 @@ This list may be missing items, please help us by filling in the gaps.
   <td>
   <ul>
     <li>1 <a href="Crowns.md">Crown</a></li>
-    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Temporal_Crux.md">Temporal Crux</a>.</li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Temporal_Crux.md">Temporal Crux</a>, <a href="Ethereal_Bone_Dust.md">Ethereal Bone Dust</a>.</li>
     <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Reciprocal_Bonecharm.md">Reciprocal Bonecharm</a>, <a href="Void_Spire.md">Void Spire</a>.</li>
   </ul></td>
 </tr>

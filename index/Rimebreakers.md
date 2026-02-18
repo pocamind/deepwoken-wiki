@@ -1,6 +1,6 @@
 ---
 title: Rimebreakers
-revid: 197153
+revid: 197215
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
@@ -24,7 +24,7 @@ categories: [Pathfinder Exclusive, Weapons, Fists, "Weapons with Multi-Attunemen
 | bankable | No |
 | droppable | No |
 | enchantable | No |
-| pass down | ? |
+| pass down | No |
 | obtainment | Kyrsgarde Champion |
 | description | Perfect for a Knuckle Sandwich, served cold. |
 
