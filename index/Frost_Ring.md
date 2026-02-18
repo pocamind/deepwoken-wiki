@@ -1,9 +1,9 @@
 ---
 title: Frost Ring
-revid: 189915
+revid: 197329
 source: https://deepwoken.fandom.com/wiki/Frost_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
+categories: [Equipment, Rings, Relics, Equipment Relics, Craftable]
 ---
 
 # Frost Ring
@@ -20,18 +20,14 @@ categories: [Vow of Iron Exclusive, Equipment, Rings, Relics, Equipment Relics]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Found at Minityrsa, near the entrance to the Starfield Tundra. |
+| obtainment | Crafted at the Lost ForgeVow of Iron:, Found at Minityrsa, near the entrance to the Starfield Tundra. |
 | description | Apply a very light slow on your opponent when landing a light attack. This effect stacks. |
-
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
 
 ## Description
 
 Frost Ring is a [Relic](Relics.md) Ring [Equipment](Equipment.md) that slows your opponent when you land M1s. This slow stacks with subsequent hits.
 
-This ring can be found at [Minityrsa](Minityrsa.md).
+This Ring can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Heavy Hands Ring](Heavy_Hands_Ring.md) and 1 [Frost Essence](Frost_Essence.md). In [Vow of Iron](Vow_of_Iron.md), this Ring can be found at [Minityrsa](Minityrsa.md).
 
 ## Trivia
 

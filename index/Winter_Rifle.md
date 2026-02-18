@@ -1,9 +1,9 @@
 ---
 title: Winter Rifle
-revid: 195111
+revid: 197235
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
+categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents, Craftable]
 ---
 
 # Winter Rifle
@@ -29,18 +29,14 @@ categories: [Vow of Iron Exclusive, Weapons, Rifles, The Summer Company, Medium 
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | If you go into the back corner behind the ministry base at Trial of One and hug the wall, you can go under Trial of One, and this is just sitting there |
+| obtainment | Crafted at the Lost Forge of LeiunaVow of Iron:, If you go into the back corner behind the ministry base at Trial of One and hug the wall, you can go under Trial of One, and this is just sitting there |
 | description | One of Rosen's lesser-known prototypes, this rifle uses a manner of mysticism unbecoming of the mechanical genius. |
 
 Variants: [Summer Rifle](Summer_Rifle.md)
 
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
-For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
 ## Description
 
-The Winter Rifle is a [Medium Weapon](Weapons.md#rifles), part of the rifle category.
+The Winter Rifle is a [Medium Weapon](Weapons.md#rifles), part of the rifle category. This weapon can be crafted at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) with 1 [Frost Essence](Frost_Essence.md) and 1 [Summer Rifle](Summer_Rifle.md).
 
 ## Talent: Subzero
 

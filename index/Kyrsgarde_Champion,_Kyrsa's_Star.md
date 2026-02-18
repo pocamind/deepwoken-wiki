@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 197211
+revid: 197325
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive]
 |---|---|
 | health | 40,000 (Unknown if scales) |
 | attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Dissect the Fringewalker., Detonating the Frost., Opening the Maw., Freezing the Heavens., Splintered Thrust, Crossrend Cryocleave, I... sshahsaelth ppuuerge..!!, Chahhmppionne of tthuee Ppurprges...! |
-| drops | Gale Essence, Frost essence, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring,, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring |
+| drops | Gale Essence, Frost Essence, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring,, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring |
 | locations | New Kyrsa, The Sleeping City |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -25,9 +25,9 @@ The Kyrsgarde Champion is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.m
 
 It can be encountered after achieving the following requirements:
 
-1.  Speaking to [Misérables](Misérables.md) and choose the "**I seek power in my upcoming battles.**" dialogue option.
+1.  Speaking to [Misérables](Misérables.md) and choosing the "**I seek power in my upcoming battles.**" dialogue option.
 2.  Interacting with the [Purge Shrine](Purge_Shrine.md) in the area [Kaide](Kaide,_the_Drowned_Light.md) is imprisoned, which is to the left of where he is facing; above the terrain.
-3.  Defeating a somewhat difficult version of the [Scion of Ethiron](Scion_of_Ethiron.md).
+3.  Defeating a somewhat more difficult and enhanced version of the [Scion of Ethiron](Scion_of_Ethiron.md) ([Kyrsgarde Lancers](Kyrsgarde_Lancer.md) will not spawn for healthpacks and he does more damage).
 
 After these conditions have been fulfilled, entering the main city will spawn the Kyrsgarde Champion instead of a horde of [Kyrsgarde Lancers](Kyrsgarde_Lancer.md). During the fight, the remaining time to escape the Layer is increased from three minutes to seven.
 

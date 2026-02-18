@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 196957
+revid: 197324
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4242,6 +4242,12 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
     -   This Talent has no cooldown, allowing you to apply multiple rods to a singular person.
         -   If a player has two or more Forced Fulfilment rods, they will not be able to move unless they have a speed boost.
 
+-   Fortify: [Rimebreakers](Rimebreakers.md) & [Frost Gauntlets](Frost_Gauntlets.md) - Slow down your movement in exchange for fortifying your defenses.
+    
+    -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting damage reduction at the cost of reducing your movement speed.
+
+-   Phantom: [Withered Phantomcleave](Withered_Phantomcleave.md) - For the next 5 seconds, your next basic attack bypasses block after landing a crit. \[45 second CD\]
+
 -   Pierce Through: [Ritual Spear](Ritual_Spear.md) - Remove the autoparry frames the first hit of your base spear critical has.
     -   The **default** spear critical no longer gets canceled if the first hit is parried. Additionally, parrying the first hit of this critical does not provide autoparry frames.
 
@@ -4272,6 +4278,11 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
         -   Stomach restoration
         -   Speed boost for 10 seconds
 
+-   Soar: [Withered Gale Pale](Withered_Gale_Pale.md) - Retain full walkspeed while using your crit.
+    -   Using your critical attack will no longer slow you.
+    -   This Talent allows you to retain all of your momentum during your weapon's critical attack, making it extremely strong for playstyles that utilize sliding and Gale/Phantom Step dashes often.
+    -   Equipping a [Motif](Motifs.md) onto the Withered Gale Pale will **disable** this Talent.
+
 -   Sovereign's Counter: [Inquisitor's Greatsword](<Inquisitor's_Greatsword.md>) - Improve the efficiency of every counter you use. This effect becomes stronger for Punishment if you have the Riot Breaker talent.
     -   [Punishment](Attunement-less.md#punishment) has its **reflected** damage output increased by **12.5%**, meaning at level 5 you can reflect 112.5% of someone's damage on top of the 30 base damage. The base damage of this Mantra is unaffected.
         -   If you are wearing the [Authority Commander](Authority_Commander.md) Outfit, the longevity of the attack window on your punishment is increased by **3x**; from 20 seconds to a full minute.
@@ -4284,6 +4295,8 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Static Beatdown: [Legion Cestus](Legion_Cestus.md) - The metal the cestus is made from allows electricity to be conducted easily through it, allowing you to further extend how long your opponents are stuck in shaky block based on your total Thundercall investment.
     -   Increases shaky block duration by 0.004s per point in Thundercall. At 100 Thundercall, shaky block lasts 1 second against players with 1x or slower swing speed weapons.
+
+-   Subzero: [Winter Rifle](Winter_Rifle.md) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
 
 -   Swift Strike: [Big Brother](Big_Brother.md) - Land a light attack behind your opponent to enhance your next critical, allowing you to teleport behind your opponent and strike them. This enhanced critical also procs assassination talents.
     -   On proc, you gain the Swift Strike status effect indefinitely. This effect will be consumed when you use your critical.
@@ -4904,10 +4917,6 @@ Many Talents are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode. These 
 
 Talents granted from your [Aspect](Aspects.md). You will additionally gain the [default Aspect Talents](#innate) from your respective Aspect.
 
--   _Ad Astra_ \[Race Talent, [Lightborn](Lightborn.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Return home.
-    
-    -   Grants a Talent tool that takes you to the [Floating Keep](The_Floating_Keep.md) on use. If the player is already at the Floating Keep, then it will return them to their original location instead.
-
 -   _Hardened Shell_ \[Race Talent, [Vesperian](Vesperian.md), [Vow of Iron](Vow_of_Iron.md) Exclusive\] - Your Natural Armor grows sturdier, being able to take more hits before breaking.
     
     -   Gives a flat amount of armor durability to your Natural Armor.
@@ -5291,10 +5300,6 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 
 -   Blade Threading: [Ferractine](Ferractine.md) - Landing Critical attacks applies metal rod and slow.
 
--   Fortify: [Frost Gauntlets](Frost_Gauntlets.md) - Slow down your movement in exchange for fortifying your defenses.
-    
-    -   Grants a Talent tool that grants the [Fortified](Status_Effects.md#fortified) status effect, granting damage reduction at the cost of reducing your movement speed.
-
 -   Hex Bullet: [Duskshot](Duskshot.md) - Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity.
 
 -   Monster Slayer: [Darksteel Cleaver](Darksteel_Cleaver.md) - Deal 25% more damage to giant enemies.
@@ -5314,8 +5319,6 @@ Not to be confused with Talents that have a weapon requirement, these Talents wi
 -   Shatter: [Icepick](Icepick.md) - Landing a critical shatters your opponent, ridding them of their speed debuffs for 5 frost damage per debuff.
     
     -   Landing a critical attack removes all speed debuffs your opponent has, dealing 5 Frostdraw damage per debuff.
-
--   Subzero: [Winter Rifle](Winter_Rifle.md) - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well.
 
 ### Equipment Talents
 

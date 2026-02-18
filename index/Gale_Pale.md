@@ -1,6 +1,6 @@
 ---
 title: Gale Pale
-revid: 192769
+revid: 197275
 source: https://deepwoken.fandom.com/wiki/Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greathammers, Heavy Weapons]

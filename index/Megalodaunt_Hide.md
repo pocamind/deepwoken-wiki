@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt Hide
-revid: 190657
+revid: 197330
 source: https://deepwoken.fandom.com/wiki/Megalodaunt_Hide
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]
@@ -25,7 +25,7 @@ categories: [Items, Drops, Ingredients]
 
 **Megalodaunt Hide** is a common drop from Normal, Alpha, Mecha, or Crimson [Megalodaunts](Megalodaunt.md). They can be found in [Erisia](Erisia.md), [The Depths](The_Depths.md), [The Diluvian Mechanism](The_Diluvian_Mechanism.md), and [The Aratel Sea](The_Aratel_Sea.md).
 
-## Uses
+## Common Uses
 
 -   Crafting a [Sharkscale Glider](Gliders.md).
 -   Crafting the [Hive Drone](Hive_Drone.md) outfit.

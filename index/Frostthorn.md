@@ -1,9 +1,9 @@
 ---
 title: Frostthorn
-revid: 196983
+revid: 197278
 source: https://deepwoken.fandom.com/wiki/Frostthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, "Dual-wielded Weapons"]
+categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Light Weapons, Weapons with Unique Animations, Daggers, "Dual-wielded Weapons"]
 ---
 
 # Frostthorn
@@ -32,6 +32,10 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Ligh
 | pass down | No |
 | obtainment | Kyrsgarde Champion |
 | description | ... |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

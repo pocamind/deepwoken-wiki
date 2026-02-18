@@ -1,6 +1,6 @@
 ---
 title: Lightborn
-revid: 196071
+revid: 197328
 source: https://deepwoken.fandom.com/wiki/Lightborn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Aspects, Exclusive Aspects, Developer Spec, The Heavens]
@@ -30,13 +30,6 @@ Hybrids of Humans and [Celestials](Celestial.md), some of them once inhabited th
 
 <table>
 <tbody>
-<tr>
-  <td></td>
-  <td><b>Ad Astra</b><p>"Return Home"</p>
-  <ul>
-    <li>Teleports you to <a href="The_Floating_Keep.md">The Floating Keep</a>, using it while inside of the Floating Keep will instead take you back to where you used it.</li>
-  </ul></td>
-</tr>
 <tr>
   <td><center><font>+2</font></center></td>
   <td><b>Attribute Boosts</b>
@@ -110,18 +103,14 @@ Lightborn has 6 halo colors and 3 three halo variants
 
 ## Trivia
 
--   Lightborn are known to possess **three distinct halo variants**:
-    1.  Above the Head
-    2.  Around the Neck
-    3.  Around the Arms
 -   The placement of the halo carries specific lore implications, reflecting unique aspects of the Lightborn’s origin and purpose.
     -   According to Nanoprodigy, the placement of said halo is fluid throughout a Lightborn's lifespan based on their social standing and strength.
     -   The strongest Lightborn have their halos around their fists, while normal ones have one around their head. Inferiors/servants have their halo placed around their neck.
 -   Lightborn and Capra were the first aspects to receive a cosmetic item in the **UGC Avatar Shop**.
 -   The halo is listed under the **[Deepwoken UGC group](https://www.roblox.com/communities/16769317/Deepwoken-UGC#!/about)**.
 -   According to Melonbeard, Sariel Moros, the only known Lightborn without the surname _Spellhardt,_ is said to be an exiled Lightborn who collaborated, or attempted to collaborate, with the Drowned Gods. It’s unclear how much of this is canon and is most likely just the developers’ edgier interpretation of the Lightborn aspect.
--   The runes inscribed on the halo roughly translate to:
-    -   “Be the mysterious light the few who were chosen.”
--   As of 12/13/2025, it is possible to obtain Lightborn when starting the Vow of Iron mode, albeit at a very low chance.
+-   The runes inscribed on the halo roughly translate to: "Be the mysterious light the few who were chosen."
+-   Lightborn used to have a Talent tool called "Ad Astra". On use, this would allow you to travel to and from [the Floating Keep](The_Floating_Keep.md). If a Lightborn entered a server, [the Floating Keep](The_Floating_Keep.md) would spawn in permanently.
+    -   Strangely, this tool did not have a Talent card tied to it, allowing players to obtain it in [Pathfinder](Pathfinder.md) if they had Lightborn as their aspect on their [Vow of Iron](Vow_of_Iron.md) counterpart. This also caused the Floating Keep to spawn in Pathfinder.
 
 1.  [↑](#cite-ref-1) There is another surname, Moros, it is however only held by one rogue Lightborn.

@@ -1,6 +1,6 @@
 ---
 title: Battle Royale
-revid: 196510
+revid: 197296
 source: https://deepwoken.fandom.com/wiki/Battle_Royale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [StubPages, World Event]
@@ -96,7 +96,7 @@ Green orbs floating above small pedestals can be found around the map, interacti
 
 ### Weapons
 
-All of the game's [Weapons](Weapons.md) can be found scattered around the map, interacting with one will give you a confirmation prompt to equip it. The only Weapons that cannot be found are those added after April 8th 2025.
+All of the game's [Weapons](Weapons.md) can be found scattered around the map, interacting with one will give you a confirmation prompt to equip it.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Coldpoint
-revid: 197214
+revid: 197226
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Talents, Rapie
 | bankable | No |
 | droppable | No |
 | enchantable | No |
-| pass down | ? |
+| pass down | No |
 | obtainment | Kyrsgarde Champion |
 | description | Harvested from the upper crust of the Second Layer, this long icicle is kept forever frozen by a vow. and bears a Kyrsan ice brand on its hilt. Before Ethiron's arrival, such weapons were made as light training blades for Kyrsans -though in our hands, we need not show such restraint. |
 

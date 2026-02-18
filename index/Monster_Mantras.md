@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 197200
+revid: 197326
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -262,7 +262,7 @@ Slash
 
 **Effect:** _The user grows a [Terrapod](Terrapod.md) claw from their left arm and begins to spin forward after a short windup._
 
--   Deals ~6 damage per hit with bleed damage and a total of 6 hits, totalling to 36+10 bleed damage.
+-   Deals ~6 damage per hit with bleed damage and a total of 6 hits, totalling to 36+5.4 bleed damage.
 -   Deals heavy posture damage. (taken from [Carrion](Carrion,_Father_of_Evolution.md)'s page, may not be true)
 -   Cancels if parried.
 -   Can be modified with Aeon and Eternal Logstones to increase the number of times it hits

@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 197099
+revid: 197286
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -19,11 +19,11 @@ categories: [Pages with broken file links]
 | desc | This doesn't feel safe to hold... |
 | obtainment | Scion Of Ethiron's Chest |
 
+File:Newcraftsorsmthblah.png
+
+Crafts that use Ethereal Bone Dust
+
 ## **Description**
-
-File:Unknowncraftsforetherealbonedust.png
-
-Crafts that use Ethereal Bone Dust (Unsure what the 3rd item is for each)
 
 Ethereal Bone Dust is used to craft the Ethereal Osseous Plate using a dread serpent tooth as the third item in the first crafting recipe, as well as something else. Seems to be a rare drop from [Scion Of Ethiron](Scion_of_Ethiron.md). Apparently requires a Gale Essence as well for crafting.
 
