@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 176590
+revid: 197363
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, World Event, Head, Hats]
@@ -33,4 +33,4 @@ The [Cap Artist](Talents.md#cap-artist) Talent allows you to press, while crouch
 ## Trivia
 
 -   Worn by [Tillian](Tillian.md).
--   Until 12/29/2024, the item cannot be sold due to a bug that made Unique rarity items unsellable.
+-   Until 12/29/2024, the item could not be sold due to a bug that made Unique rarity items unsellable.

@@ -1,11 +1,9 @@
 ---
 title: "Shogun of the Prophet's Guard"
-revid: 190809
+revid: 197368
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Vow of Iron Exclusive, Enemies]
 ---
 
 # Shogun of the Prophet's Guard

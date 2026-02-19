@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 196542
+revid: 197431
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -368,63 +368,75 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
   <td><b>Echo Multiplier</b></td>
 </tr>
 <tr>
-  <td><b>Fragile Heart</b></td>
+  <td><b>Fragile Heart</b><br>
+  </td>
   <td>All incoming mob damage is doubled.</td>
   <td><b>+50%</b></td>
 </tr>
 <tr>
-  <td><b>Crestfallen</b></td>
+  <td><b>Crestfallen</b><br>
+  </td>
   <td>Your armor is permanently broken.</td>
   <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><b>Deep Champion</b></td>
+  <td><b>Deep Champion</b><br>
+  </td>
   <td>Your <a href="Cathedral_of_the_Interstice.md">Depths trial</a> is always corrupted.</td>
   <td><b>+20%</b></td>
 </tr>
 <tr>
-  <td><b>Dissonant</b></td>
+  <td><b>Dissonant</b><br>
+  </td>
   <td>You are unable to draw forth your <a href="Resonance.md">Resonance</a>.<br>
   <small>(You can still obtain one, but you cannot use it.)</small></td>
   <td><b>+30%</b></td>
 </tr>
 <tr>
-  <td><b>Hollow</b></td>
+  <td><b>Hollow</b><br>
+  </td>
   <td>All overworld deaths send you to the <a href="First_Layer.md">Depths</a>.</td>
   <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><b>Slowburn</b></td>
+  <td><b>Slowburn</b><br>
+  </td>
   <td>All incoming healing is heavily reduced.</td>
   <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><b>Dealbreaker</b></td>
+  <td><b>Dealbreaker</b><br>
+  </td>
   <td>You sell items for 25% less.</td>
   <td><b>+5%</b></td>
 </tr>
 <tr>
-  <td><b>Loose Change</b></td>
+  <td><b>Loose Change</b><br>
+  </td>
   <td>All damage received makes you lose notes on hit.</td>
   <td><b>+20%</b></td>
 </tr>
 <tr>
-  <td><b>High Velocity</b></td>
+  <td><b>High Velocity</b><br>
+  </td>
   <td>All fall damage is heavily amplified, allowing you to die from falls much easier.</td>
   <td><b>+10%</b></td>
 </tr>
 <tr>
-  <td><b>One Bit</b></td>
+  <td><b>One Bit</b><br>
+  </td>
   <td>You don't know how to swim.</td>
   <td><b>+20%</b></td>
 </tr>
 <tr>
-  <td><b>Destined</b></td>
+  <td><b>Destined</b><br>
+  </td>
   <td>You don't get to choose what you get when your Power increase, Fate picks for you.</td>
   <td><b>+20%</b></td>
 </tr>
 <tr>
-  <td><b>Glass Bones</b></td>
+  <td><b>Glass Bones</b><br>
+  </td>
   <td>Taking any damage will immediately knock you. Only pick this if you wish to embark on an unforgiving challenge.</td>
   <td><b>+0%</b></td>
 </tr>

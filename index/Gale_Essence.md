@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 197322
+revid: 197456
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -31,4 +31,16 @@ It is currently **unbankable** and **undroppable.**
 
 [Suffocated Enchant Stone](Enchant_Stone.md) = [Windswept Enchant Stone](Windswept.md) + 2 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
 
-{add new recipes}
+??? = [Bluster Enchant Stone](Bluster.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
+
+??? = [Windswept Enchant Stone](Windswept.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
+
+??? = [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 1 **Gale Essence** + ???
+
+??? = 1 **Gale Essence** + 5 [Gale Stone](Gale_Stone.md) + ???
+
+??? = 1 **Gale Essence** + ???
+
+??? = 2 **Gale Essence** + ???
+
+[Gale Bullets](Bullet_Casings.md) (50) = 50 [Bullets](Bullet_Casings.md) + 1 **Gale Essence**

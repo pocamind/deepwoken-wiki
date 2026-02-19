@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 171702
+revid: 197352
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -116,7 +116,12 @@ These recipes are exclusive to [The Cold Forge](The_Cold_Forge.md).
 -   **[Sanguine Transfuser](Sanguine_Transfuser.md)**
     1.  1 [Dormant Splinter](Dormant_Splinter.md) + 1 [Hemobloom](Hemobloom.md) + 1 [Ancient Dagger Remains](Ancient_Dagger_Remains.md).
 -   **[Umbrite Witherblade](Umbrite_Witherblade.md)**
-    1.  1 [Dormant Splinter](Dormant_Splinter.md) + 3 [Umbrite](Ores.md#umbrite) + 1 [Razor Cutlass](Razor_Cutlass.md).
+
+1 [Dormant Splinter](Dormant_Splinter.md) + 3 [Umbrite](Ores.md#umbrite) + 1 [Razor Cutlass](Razor_Cutlass.md).
+
+## Lost Forge Recipes
+
+These recipes are exclusive to [The Lost Forge](Lost_Forge_of_Leiuna.md).
 
 ## Food Recipes
 

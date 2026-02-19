@@ -1,6 +1,6 @@
 ---
 title: Lost Forge
-revid: 197317
+revid: 197454
 source: https://deepwoken.fandom.com/wiki/Lost_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -8,3 +8,5 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 # Lost Forge
 
 A forge that is lost to time.
+
+May be allowed to access by killing parasol and accessing it in the new dungeon.

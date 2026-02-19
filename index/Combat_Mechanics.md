@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 197229
+revid: 197358
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -453,7 +453,7 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 Red
 
- |  | 
+ | File:Redtelegraph.png | 
 
   
 Attacks with this indicator must be dodged. They will guardbreak if blocked.
@@ -528,6 +528,10 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
  |
 | All attacks that have this attribute:
 
+**Player Attacks**
+
+-   [Light's Final Toll](<Light's_Final_Toll.md>) (all variants) stage IV critical
+
 **Monster Attacks**
 
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Quad Slash
@@ -554,10 +558,6 @@ Attacks with this indicator cannot be dodged. They must be parried, or with high
 
  |
 | All attacks that have this attribute:
-
-**Player Attacks**
-
--   [Light's Final Toll](<Light's_Final_Toll.md>) stage IV critical
 
 **Boss Attacks**
 

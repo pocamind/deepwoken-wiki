@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 195792
+revid: 197346
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -34,7 +34,7 @@ Also located in [Temple of Hearts](../Temple_of_Hearts.md), being the first larg
 
 For 10, average your stats (up to a limit\*). This can only be done once per character.
 
-**You need Power 8+ and no [Oath](../Oaths.md) to perform this deal. Having [Oathless](../Oath%253A_Oathless.md) and Power 8+ will still allow you to use this shrine.** If you took an Oath beforehand, you may break the Oath to order yourself. This has [consequences](../Oaths.md#oathbreaker---oath-removal) of its own, however.
+**You need Power 8+ and no [Oath](../Oaths.md) (excluding [Oathless](../Oath%253A_Oathless.md)) to perform this deal.** If you took an Oath beforehand, you may break the Oath to order yourself. This has [consequences](../Oaths.md#oathbreaker---oath-removal) of its own, however.
 
 ### Details
 
@@ -45,7 +45,7 @@ For 10, average your stats (up to a limit\*). This can only be done once per cha
 -   Any points that cannot be evenly distributed during the averaging process will be returned to you as free points.
 -   Adept/Expert/Master Attunement and Attunement Unbound Talents disappear after the attribute goes below their requirements.
 -   Mantras' upgrade levels will be downgraded to the appropriate level if the requirements for their current levels are no longer met.
--   **If you Shrine of Order with an offhand / weapon equip and fall below the weapon's requirements, the weapon will automatically be unequip.**
+-   **If you fall below an Equipment or Weapon's attribute requirements through Shrine of Order, that item will be automatically unequipped.**
 -   If you no longer meet the requirements of your [Outfit](../Outfits.md) after using Shrine of Order, it will stay equipped and you will be able to unequip/reequip it at any time as Outfit stat requirements are only enforced when crafting them.
 -   Does not progress towards the [Contractor Oath](../Oath%253A_Contractor.md) obtainment.
 -   If needed, there are a few ways to get around Shrine of Order's Power 8 requirement.

@@ -1,9 +1,9 @@
 ---
 title: Withered Death Knell
-revid: 197332
+revid: 197354
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Withered Weapons]
+categories: [In progress with reason, InProgressPages, Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons]
 notices:
   - This page is currently being worked on. Missing critical attack gifs.
 ---

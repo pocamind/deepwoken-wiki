@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 193703
+revid: 197394
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -29,6 +29,11 @@ categories: [Equipment, Arms, Plates]
 ## Description
 
 The Enforcer Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Enforcer Set.
+
+## Crafting
+
+-   [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)
+    1.  1 Enforcer Plate + 1 [Enmity’s Armour Piece](<Enmity's_Armor_Piece.md>) + 1 [Ethereal Bone Dust](Ethereal_Bone_Dust.md)
 
 ## Trivia
 

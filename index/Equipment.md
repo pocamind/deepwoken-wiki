@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 197119
+revid: 197379
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -1397,7 +1397,7 @@ _+5% Ironsing Armor_
 +1 Rare Pip  
 +2 Legendary Pips  
 _+Talent: Defiant until the End_  
-**Requires Power 13, Fortitude 15**
+**Requires Power 13**
 
  | N/A |
 | File:Faded Justicar Coat.png | Justicar Defender  

@@ -1,6 +1,6 @@
 ---
 title: Ms Stick
-revid: 197161
+revid: 197344
 source: https://deepwoken.fandom.com/wiki/Ms_Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors]
@@ -55,3 +55,4 @@ Ms Stick can be found standing behind Lance Leshi inside of Lance's Food at [Etr
 -   Ms Stick was added in the February 16th, 2026 update, which removed [Mystics](Mystic.md) due to their functions being obsolete with the new foretelling mechanic. This NPC is meant to poke fun at how Mystics now need to seek other forms of employment.
 -   Her name is also a reference to her former job as "Ms Stick" is pronounced like "Mystic."
 -   Her position as a cook may also be a nod to the term "flipping burgers" which means resorting to entry level jobs due to unemployment.
+-   Ms Stick is not based on any of the previous 8 Mystics.

@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 197325
+revid: 197380
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -8,11 +8,11 @@ categories: [Pathfinder Exclusive]
 
 # Kyrsgarde Champion, Kyrsa's Star
 
-| Kyrsgarde Champion | |
+| Kyrsgarde Champion, Kyrsa's Star | |
 |---|---|
 | health | 40,000 (Unknown if scales) |
 | attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Dissect the Fringewalker., Detonating the Frost., Opening the Maw., Freezing the Heavens., Splintered Thrust, Crossrend Cryocleave, I... sshahsaelth ppuuerge..!!, Chahhmppionne of tthuee Ppurprges...! |
-| drops | Gale Essence, Frost Essence, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring,, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring |
+| drops | Gale Essence, Frost Essence, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring |
 | locations | New Kyrsa, The Sleeping City |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

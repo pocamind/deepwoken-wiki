@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde
-revid: 180980
+revid: 197357
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Sapient species]
@@ -45,6 +45,7 @@ Friendly Kyrsans are found in [The Ethironal Shrine](Second_Layer/The_Ethironal_
     -   [Kyrsgarde Crawler](Kyrsgarde_Crawler.md)
     -   [Kyrsgarde Lancer](Kyrsgarde_Lancer.md)
     -   [Kyrsgarde Sniper](Kyrsgarde_Sniper.md)
+    -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)
 
 ## Trivia
 

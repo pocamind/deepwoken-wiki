@@ -1,6 +1,6 @@
 ---
 title: Prophet Pariah
-revid: 194231
+revid: 197387
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deceased characters]
@@ -25,4 +25,4 @@ They lived a short life. In their own beliefs, they believed that in the voidsea
 
 ## Trivia
 
--   The heavens could be potentially the [Moonseye](Moonseye.md) and not Constellia due to the name 'Moonseye Tome', them being a Prophet of [The Moonlit Faith](The_Moonlit_Faith.md) and the Moonseye in the cover within it.
+-   Pariah likely believed the heavens to be the [Moonseye](Moonseye.md) and not Constellia due to the name 'Moonseye Tome', them being a Prophet of [The Moonlit Faith](The_Moonlit_Faith.md) and the Moonseye in the cover within it.

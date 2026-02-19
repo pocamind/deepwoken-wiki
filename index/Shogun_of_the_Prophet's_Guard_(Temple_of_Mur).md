@@ -1,11 +1,9 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 195929
+revid: 197386
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
 ---
 
 # Shogun of the Prophet's Guard (Temple of Mur)
