@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 197469
+revid: 197595
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Ingredients]
@@ -12,6 +12,7 @@ categories: [Pages with broken file links, Items, Ingredients]
 |---|---|
 | value | N/A |
 | weight | 0 |
+| stack | x1 |
 | type | Ingredient |
 | bankable | Yes |
 | droppable | Yes |
@@ -36,6 +37,6 @@ It is unbankable and undroppable.
 ## Crafting
 
 -   [Ethereal Osseus Plate](Ethereal_Osseous_Plate.md)
-    1.  1 [Dread Serpent’s Tooth](<Dread_Serpent's_Tooth.md>) + 1 Ethereal Bone Dust + 1 [Giant Femur](Giant_Femur.md)
+    1.  1 [Dread Serpent’s Tooth](<Dread_Serpent's_Tooth.md>) + 1 Ethereal Bone Dust + 1 [Giant Femur](Giant_Femur.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md)
 -   Hardened Enforcer Plate
-    1.  1 [Enforcer Plate](Enforcer_Plate.md) + 1 [Enmity’s Armour Piece](<Enmity's_Armor_Piece.md>) + 1 Ethereal Bone Dust
+    1.  1 [Enforcer Plate](Enforcer_Plate.md) + 1 [Enmity’s Armour Piece](<Enmity's_Armor_Piece.md>) + 1 Ethereal Bone Dust at the Lost Forge

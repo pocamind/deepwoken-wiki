@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 197472
+revid: 197626
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -515,6 +515,27 @@ Heroism [Enchant Stone](Enchant_Stone.md):
 -   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
 -   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
     
+
+  
+
+ |
+| 
+
+**[Kyrsan Chill](Kyrsan_Chill.md)**
+
+[View main page](Kyrsan_Chill.md)
+
+File:Kyrsan Chill.gif
+
+_On critical hits, apply a slow that increases with each crit. At 5 stacks fully encase your opponent in ice._
+
+ | 
+
+**Effect:**
+
+**Obtainment:**
+
+Metal can be obtained from its [Enchant Stone](Enchant_Stone.md), dropped from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
   
 

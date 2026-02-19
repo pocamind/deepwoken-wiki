@@ -1,6 +1,6 @@
 ---
 title: Cindergarb
-revid: 196842
+revid: 197621
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits]
@@ -39,3 +39,7 @@ This Outfit requires the player to be at least [Power](Power.md) 15 to be crafte
 This Outfit has 3000 durability and grants +35% Physical resistance, +50% Fire resistance, +15% Metal resistance, and +20% Ether Regen. Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) Talent.
 
 The [Warding Radiance](Talents.md#warding-radiance) Talent gives you a halo after you land 3 Flamecharm Mantras. While you have this halo, you will slide further, and landing a Flamecharm Mantra will call down a spear, dealing extra damage. The spear has a short cooldown.
+
+## Trivia
+
+-   Currently, despite being obtainable in Pathfinder through the Carnival of Hearts World Event, if you attempt to learn this schematic, it does not let you, voiding the schematic.

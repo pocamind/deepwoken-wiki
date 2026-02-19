@@ -1,9 +1,9 @@
 ---
 title: Ethereal Osseous Plate
-revid: 197572
+revid: 197583
 source: https://deepwoken.fandom.com/wiki/Ethereal_Osseous_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages using duplicate arguments in template calls, In progress without reason, InProgressPages, Craftable, Ingredients, Items]
+categories: [In progress without reason, InProgressPages, Craftable, Ingredients, Items]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -21,7 +21,7 @@ notices:
 | droppable | ? |
 | pass down | No |
 | desc | A combination of different hardened bone, resisting even the toughest of forces. |
-| obtainment | Crafting:, Lost Forge + 1x Dread Serpent's Tooth + 1x Ethereal Bone Dust +1x Giant Femur |
+| obtainment | Crafting:, 1x Dread Serpent's Tooth + 1x Ethereal Bone Dust + 1x Giant Femur at the Lost Forge |
 
 ## Description
 
@@ -31,11 +31,17 @@ The **Ethereal Osseous Plate** is an item made with a [Dread Serpent's Tooth](<D
 
 The Ethereal Osseous Plate can be used to craft into other items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
--   [Equipment](Equipment.md):
+[Equipment](Equipment.md):
 
-1.  [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + 1x Ethereal Osseous Plate + 1x [Necrotic Membrane](Necrotic_Membrane.md)
-2.  [Transfusion Ring](Transfusion_Ring.md): [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Ethereal Osseous Plate + 1x [Trickster Dust](Trickster_Dust.md)
-3.  ???: [Blacksteel Helm](Blacksteel_Helm.md) + 1x Ethereal Osseous Plate + ???
-4.  ???: [Simple Pauldrons](Simple_Pauldrons.md) + 1x Ethereal Osseous Plate + ???
-5.  [Ossified Blood Earrings](Ossified_Blood_Earrings.md): [Old Blood Earrings](Old_Blood_Earrings.md) + 1x Ethereal Osseous Plate
-6.  ???: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) + 1x [Shiva's Codex](<Shiva's_Codex.md>) + 1x Ethereal Osseous Plate
+-   [The No-Life King's Crown](<The_No-Life_King's_Crown.md>)
+    1.  [Bloodforged Crown](Bloodforged_Crown.md) + 1x Ethereal Osseous Plate + 1x [Necrotic Membrane](Necrotic_Membrane.md)
+-   [Transfusion Ring](Transfusion_Ring.md)
+    1.  [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Ethereal Osseous Plate + 1x [Trickster Dust](Trickster_Dust.md)
+-   ???
+    1.  [Blacksteel Helm](Blacksteel_Helm.md) + 1x Ethereal Osseous Plate + ???
+-   ???
+    1.  [Simple Pauldrons](Simple_Pauldrons.md) + 1x Ethereal Osseous Plate + ???
+-   [Ossified Blood Earrings](Ossified_Blood_Earrings.md)
+    1.  [Old Blood Earrings](Old_Blood_Earrings.md) + 1x Ethereal Osseous Plate
+-   ???
+    1.  [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) + 1x [Shiva's Codex](<Shiva's_Codex.md>) + 1x Ethereal Osseous Plate

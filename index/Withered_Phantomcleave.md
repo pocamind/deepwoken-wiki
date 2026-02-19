@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 197355
+revid: 197627
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents, Reforged Weapons]
@@ -40,10 +40,6 @@ Variants: [Alloyed Katana](Katana.md)
 ## Description
 
 The Withered Phantomcleave is a Medium Weapon obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Katana](Katana.md) equipped.
-
-Its damage is increased by 5% when wearing the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), or [Royal Etrean Guard](Royal_Etrean_Guard.md) [outfits](Outfits.md), due to their innate Talent: _[Paired Soul](Talents.md#paired-soul)_.
-
-When paired with the [Poser's Ring](<Poser's_Ring.md>), the damage of its M1s and critical attacks will be suspended until it is sheathed, at which point all of that damage is inflicted at once. This damage cannot exceed 70% of a player's maximum health.
 
 ## Talent: Phantom
 

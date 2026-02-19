@@ -1,6 +1,6 @@
 ---
 title: Moon Ring
-revid: 180380
+revid: 197586
 source: https://deepwoken.fandom.com/wiki/Moon_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Aelita, The Ferryman, Duke Ishamon Erisia, First Layer, The Doom of Caeranthil, Second Layer, Scion of Ethiron, Interluminary Parasol, Ancient Rotlands, Moon's Eyrie, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Dread Serpent, Starswept Valley |
+| obtainment | Aelita, The Ferryman, Duke Ishamon Erisia, First Layer, The Doom of Caeranthil, Second Layer, Scion of Ethiron, Interluminary Parasol, Ancient Rotlands, Moon's Eyrie, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Maestro Evengarde Rest, Dread Serpent, Starswept Valley, Saramaed Hollow |
 | description | A deceptive ring that conceals one's true age. Greatly sought after by vain misers. |
 
 ## Description

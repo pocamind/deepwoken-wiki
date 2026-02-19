@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 196513
+revid: 197610
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -84,7 +84,7 @@ Curb Stomp
 
 _Uses Telegraph_
 
-[ParryTelegraph](Combat_Mechanics.md#cyan)
+[ParryTelegraph](Combat_Mechanics.md#green)
 
 Parry
 
@@ -110,6 +110,12 @@ Owl Dash
 
 -   Can end early without hitting you if it "collides" with something due to its large size.
 -   It will step back and gain distance before using this attack.
+
+_Uses Telegraph_
+
+[DuckTelegraph](Combat_Mechanics.md#yellow)
+
+Duck
 
  | 
 

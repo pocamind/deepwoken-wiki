@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 196564
+revid: 197622
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -355,6 +355,10 @@ Applied by being hit by weapon attacks from weapons that have the [Parasol's Bli
 ### Void
 
 Applied from being hit by a player with the [Curse of Void](Curse_of_Void.md) enchant, gain 40% anti-heal for 30 seconds. Additionally, if you were to perish while affected by void, you will be sent to [the Depths](The_Depths.md) no matter how many lives you had previously. The user of this enchantment also has a permanently stained healthbar, however. Void is signified by a grey fog on your character.
+
+### Kyrsan Chill
+
+Applied from being hit by a player with the [Kyrsan Chill](Kyrsan_Chill.md) enchant, gain slowness when being hit. Each stack makes you 20% slower. At 5 stacks, you'll be fully encased in ice. This can also be procced through [Kyrsan Gem](Kyrsan_Gem.md) and [Coldpoint](Coldpoint.md). [Kyrsan Chill](Kyrsan_Chill.md) is signified by a pink-ish glow on your torso.
 
 ## Mantra Applied
 

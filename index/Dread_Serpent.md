@@ -1,6 +1,6 @@
 ---
 title: Dread Serpent
-revid: 192576
+revid: 197604
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, Enemies]
@@ -12,7 +12,7 @@ categories: [Monsters, Bosses, Enemies]
 |---|---|
 | health | 50,000 |
 | attacks | Dread Breath, Claw Swipe, Tail Swipe |
-| drops | Large Chest, Murmur: Ardour, Ardour Manifestation, Dread Serpent's Tooth (direct drop), Dread Flesh (direct drop), Enchant Stone, Petra's Anchor, Anklets of Alsin, Wyrmtooth, and rarely a Dormant Splinter, Gumshoe Longcoat, Brilliant Cape, Crystal Pendant Earrings, Misc. (See Lootpool) |
+| drops | Large Chest, Murmur: Ardour, Ardour Manifestation, Dread Serpent's Tooth (direct drop), Dread Serpent's Mane (direct drop), Dread Flesh (direct drop), Enchant Stone, Petra's Anchor, Anklets of Alsin, Wyrmtooth, and rarely a Dormant Splinter, Gumshoe Longcoat, Brilliant Cape, Crystal Pendant Earrings, Misc. (See Lootpool) |
 | locations | Voidsea |
 | challenges | -- Dread Serpent --, The Mortal Edenkite - Slay 10.Reward: +15% DMG; +7.5% RES |
 

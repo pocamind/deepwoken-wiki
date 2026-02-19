@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Ring
-revid: 197477
+revid: 197594
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -25,6 +25,6 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **Gale Enhanced Ring** is a Ring [Equipment](Equipment.md) piece that grants its user the ability to proc [Suffocation](Status_Effects.md) when you flourish an opponent. This ring has no innate pips on it.
 
-The Suffocation status effects lasts for ? seconds.
+The Suffocation status effects lasts for 4.5 seconds. with specter path it sends a phantom that winds for 5 seconds
 
 Wearing the ring gives you a gale visual effect on your hand.

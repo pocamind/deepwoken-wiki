@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 197114
+revid: 197696
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -117,9 +117,7 @@ Exhaustive Loot Table
 
 ## Tips
 
--   Ship cannons are the most effective cheese method for the boss, due to their respectable damage and long range, however dealing damage on land with a party of players will prove to be a much faster way to take out the boss.
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
--   It follows a set path, starting behind the [Ancient Rotlands](Ancient_Rotlands.md) as it slowly makes its behind [Greathive Aratel](Greathive_Aratel.md).
 -   Having a wall to protect you is almost entirely necessary, as it allows you to deal significant damage without getting hit.
 
   

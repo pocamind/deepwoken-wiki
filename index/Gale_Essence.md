@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 197470
+revid: 197698
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -10,8 +10,11 @@ categories: [Items, Ingredients]
 
 | Gale Essence | |
 |---|---|
+| value | N/A |
+| weight | 0 |
 | stack | x99 |
 | type | Relic |
+| usage | Crafting |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
@@ -22,7 +25,7 @@ categories: [Items, Ingredients]
 
 The **Gale Essence** is a relic ingredient item obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>). You can find the item in his chest.
 
-Unknown drop rate.
+This relic is used as an **ingredient.**
 
 It is currently **unbankable** and **undroppable.**
 
@@ -32,9 +35,9 @@ It is currently **unbankable** and **undroppable.**
 
 [Suffocated Enchant Stone](Enchant_Stone.md) = [Windswept Enchant Stone](Windswept.md) + 2 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
 
-??? = [Bluster Enchant Stone](Bluster.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
+Gale Monastery Cowl = [Bluster Enchant Stone](Bluster.md) + 1 **Gale Essence** + 1 [Monastery Cowl](Monastery_Cowl.md) at [Lost Forge](Lost_Forge_of_Leiuna.md)
 
-??? = [Windswept Enchant Stone](Windswept.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
+[Gale Enhanced Beads](Gale_Enhanced_Beads.md) = [Windswept Enchant Stone](Windswept.md) + 1 **Gale Essence** + [Monastery Beads](Monastery_Beads.md) at [Lost Forge](Lost_Forge_of_Leiuna.md)
 
 ??? = [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 1 **Gale Essence** + ???
 
@@ -44,4 +47,4 @@ It is currently **unbankable** and **undroppable.**
 
 ??? = 2 **Gale Essence** + ???
 
-[Gale Bullets](Bullet_Casings.md) (50) = 50 [Bullets](Bullet_Casings.md) + 1 **Gale Essence**
+[Gale Bullets](Bullet_Casings.md#gale) (50) = 50 [Bullets](Bullet_Casings.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)

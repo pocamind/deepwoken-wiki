@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 197324
+revid: 197680
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -718,7 +718,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 -   Malevolent Sapper \[Common Talent, Dual Attunement, Bloodrend, Shadowcast\] - The more blood poisoning your opponent has, the more ether your shadow mantras steal from your opponent.
     -   Prerequisite: 40 Bloodrend, 40 Shadowcast
 
--   Scorchblood \[Common Talent, Dual Attunement, Bloodrend, Flamecharm\] - Guardbreaking you opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.
+-   Scorchblood \[Common Talent, Dual Attunement, Bloodrend, Flamecharm\] - Guardbreaking your opponent using a bloodrend mantra causes a blood explosion, setting your opponent on fire and poisoning their blood.
     -   Deals 16.5 damage in an AoE on proc.
     -   Applies burn before Scorched Peak does a check to see if your opponent is burning, meaning Scorched Peak will be instantly procced if you guardbreak with a Bloodrend Mantra.
     -   Prerequisite: 40 Bloodrend, 40 Flamecharm
@@ -1118,7 +1118,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
 
 -   Energy Siphon \[Common Talent, Shadowcast\] - Your singularity now pulls ether from the extra players affected.
-    -   Takes about ~15 ether from the affected opponent on proc.
+    -   Takes around 15 Ether from the affected opponent on proc.
     -   Prerequisites: Singularity, 60 Shadowcast
 
 ### Deepbound Contract

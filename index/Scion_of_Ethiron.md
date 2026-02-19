@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 197536
+revid: 197609
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -95,6 +95,12 @@ File:Ethi laser.gif
  | The Scion pulls its arm back, then swings at the player.
 
 -   The arm will remain for ~2 seconds after hitting the player, regardless of if it hit or not, leaving the Scion vulnerable for a few hits on parry.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#green)
+
+Parry
 
  | 
 

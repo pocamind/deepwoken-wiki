@@ -1,6 +1,6 @@
 ---
 title: Shadebolt
-revid: 197522
+revid: 197620
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]
@@ -28,7 +28,7 @@ categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Doom of Caeranthil, Interluminary Parasol, The Depths, Layer 2 |
+| obtainment | The Doom of Caeranthil, Interluminary Parasol, The Depths, The Diluvian Mechanism, Layer 2 |
 | description | Bow of an ancient deep dwelling Ganymede Nomad. Through taboo rites, Umbrite was bent to their will, shaped into tools that seemed almost alive. Some named the figure Shaman, others never learned a name at all. |
 
 ## Description

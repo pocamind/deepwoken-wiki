@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 197358
+revid: 197613
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -520,7 +520,7 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 Green
 
- | File:Parry Only.png | 
+ | File:Greentelegraph.png | 
 
   
 Attacks with this indicator must be parried. They will guardbreak if blocked.
@@ -541,28 +541,12 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Graceful Slicer, Mortal Draw: Sakura Dance
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Pylons of Frost
+-   [Parliament](Parliament.md): Curb Stomp
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 
 **Miscellaneous**
 
 -   [Carnival of Hearts](Carnival_of_Hearts.md): Beam Blitz Ice Beam
-
- |
-| 
-
-Cyan
-
- |  | Most attacks with this indicator deal high posture damage.
-
-  
-Attacks with this indicator cannot be dodged. They must be parried, or with high enough posture, blocked.
-
- |
-| All attacks that have this attribute:
-
-**Boss Attacks**
-
--   [Parliament](Parliament.md): Curb Stomp
--   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
 
  |
 | 
