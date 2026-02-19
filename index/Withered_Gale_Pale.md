@@ -1,6 +1,6 @@
 ---
 title: Withered Gale Pale
-revid: 197353
+revid: 197486
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Reforged Weapons]
@@ -53,4 +53,4 @@ Withered Gale Pale uses the default Greathammer critical, an overhead swing. It 
 
 ## Trivia
 
--   This weapon, along with the character it drops from, is a nod to Agamatsu's Galebreathe heavy build in Verse 1.
+-   This weapon is a nod to Agamatsu's Galebreathe heavy build in Verse 1.

@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 197380
+revid: 197511
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -10,8 +10,8 @@ categories: [Pathfinder Exclusive]
 
 | Kyrsgarde Champion, Kyrsa's Star | |
 |---|---|
-| health | 40,000 (Unknown if scales) |
-| attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Dissect the Fringewalker., Detonating the Frost., Opening the Maw., Freezing the Heavens., Splintered Thrust, Crossrend Cryocleave, I... sshahsaelth ppuuerge..!!, Chahhmppionne of tthuee Ppurprges...! |
+| health | 40,000 |
+| attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Altitude Swipes, Frostgrave, Champion’s Quake, Rime-Rise, Splintered Thrust, Crossrend Cryocleave, Shatterline, Blizzard’s Sanction |
 | drops | Gale Essence, Frost Essence, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring |
 | locations | New Kyrsa, The Sleeping City |
 
@@ -76,8 +76,8 @@ Duck
  |  |
 | 
 
-**Dissect the Fringewalker.**  
-(★☆☆)
+**Altitude Swipes**  
+(★★☆)
 
  | The Kyrsgarde Champion performs a quick jumpable sweep, followed by another that must be crouched.
 
@@ -90,7 +90,7 @@ Jump
  |  |
 | 
 
-**Detonating the Frost.**  
+**Frostgrave**  
 (★☆☆)
 
  | The Kyrsgarde Champion raises its glaive, before detonating ice below the player's feet.
@@ -104,8 +104,8 @@ Dodge
  |  |
 | 
 
-**Opening the Maw.**  
-(★★☆)
+**Champion’s Quake**  
+(★★★)
 
  | The Kyrsgarde Champion crouches slightly before crashing into the ground.
 
@@ -118,7 +118,7 @@ Jump
  |  |
 | 
 
-**Freezing the Heavens.**  
+**Rime-Rise**  
 (★★☆)
 
  | With a horizontal slash, the Kyrsgarde Champion creates a line of ice spikes in the direction of the nearest target.
@@ -160,7 +160,7 @@ Dodge
  |  |
 | 
 
-**I... sshahsaelth ppuuerge..!!  
+**Shatterline  
 (★★★)**
 
  | Enraged, the Champion raises its glaive and summons two ice spikes, rushing forth and delivering two slices.
@@ -168,7 +168,7 @@ Dodge
  |  |
 | 
 
-**Chahhmppionne of tthuee Ppurprges...!**  
+**Blizzard’s Sanction**  
 (★★★)
 
  | The Kyrsgarde Champion briefly winds up before unleashing four cleaves, followed by **Splintered Thrust**.
@@ -186,4 +186,8 @@ Parry
 ## Passives
 
 -   **Kyrsan Chill** **\-** Being hit by the Kyrsgarde Champion's attack slows you down, increasing with each hit.
--   **Temporal Immunity -** The Kyrsgarde Champion is immune to the Space-time collapse.
+-   **Temporal Immunity -** The Kyrsgarde Champion is immune to the Space-time collapse vortexes.
+
+## Trivia
+
+-   This boss can be very difficult as you must deal with both his deadly moveset, and the spacetime collapse vortexes.

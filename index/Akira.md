@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 195737
+revid: 197463
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 Akira is a young Etrean with widely scuffled hair, a frown, and sharp eyes. He wears the Black Diver outfit, and a pair of Dewdrop Earrings.
 
-He has a Katana behind his back and a [Corrupted Bell](Resonance.md#corrupted-resonances) resting at his hip.
+He has a Katana behind his back and a [Corrupted Bell](Resonance.md#corrupted-resonances) resting at his hip. He additionally wears a pitch black [Kyrsan Necklace](Kyrsan_Necklace.md).
 
 His [Bell](Resonance.md) (Corrupted Top-Pop) allows him to instantaneously grip any entity he wishes at the cost of his lifespan and power. However, the stronger the target is, the more power and lifespan he will have to sacrifice to kill them.
 
@@ -208,7 +208,6 @@ After this you are able to talk to Akira, in which he has two different conversa
 -   Whenever you try to spook him with a Hallowtide Mask, he doesn't get spooked and instead just says, "I've seen worse."
 -   Akira's bell is officially called "Top-pop."
 -   Akira's bell flashes purple when he kills the Ignition Union officers.
--   Akira has an unobtainable necklace, it's hard to see with the current image of him.
 -   Akira Colors: #f7eae3 Skin | #E6D4D4 Hair | #8c0f82 Pupils | #cbd2ff Sclera | #686296 Resonance | #111111 Necklace
 -   For some reason, the Ignition Union research platoon members are still interactable during Akira's event, functioning as normal Ignition Union Guards. They can also be moved around by sliding underneath them, although this will not change the outcome of the event.
     -   Like [Kennith](Kennith.md) after he gets dismembered, the prompt to interact with the guards will remain after their heads explode, but they will all have no dialogue as a likely result of being dead.

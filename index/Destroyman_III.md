@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 192075
+revid: 197480
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -66,6 +66,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   HINT: The sorcerer has harmed me once more.
 -   HINT: The strength of the Megurger comes from the concept, not the physical object.
 -   HINT: This game is awful. The developers really suck.
+-   HINT: Use code '!redeem AGAMATSU' right now to receive a free prize!
 -   Hey, do you mind if I dig around in your inventory a bit? I'm hungry.
 -   I can tell you've never churned butter before. Look at you. Churnless, pathetic.
 -   I could end you in one hit if I really wanted to. Watch your back.

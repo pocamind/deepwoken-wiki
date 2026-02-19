@@ -1,6 +1,6 @@
 ---
 title: Traan Zakshun
-revid: 194574
+revid: 197465
 source: https://deepwoken.fandom.com/wiki/Traan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Pathfinder Exclusive, Vendors, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant]
@@ -199,6 +199,7 @@ Traan's item descriptions will change randomly each time he sells goods from his
 -   _Seems like a great deal, huh? But I'm NOT done yet!_
 -   _Seen this one before, you say? No no, in the business, we call that a 'remaster'!_
 -   _That's \*gotta\* be one of a kind, right? And it could be yours!_
+-   _That's in good condition for its age!_
 -   _The Legendary Boot?.. Pff, good joke pal, I don't sell trash._
 -   _The price is too steep, you say? Nonsense! I'm just wearing my Sunday Shirt of Selling. It increases my mercantile skill._
 -   _These are perrr~fectly reasonable prices, stop giving me a hard time._

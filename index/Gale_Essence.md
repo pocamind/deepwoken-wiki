@@ -1,8 +1,9 @@
 ---
 title: Gale Essence
-revid: 197456
+revid: 197470
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Items, Ingredients]
 ---
 
 # Gale Essence

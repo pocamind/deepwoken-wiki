@@ -1,6 +1,6 @@
 ---
 title: Shadebolt
-revid: 197176
+revid: 197522
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]

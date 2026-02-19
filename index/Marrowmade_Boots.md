@@ -1,6 +1,6 @@
 ---
 title: Marrowmade Boots
-revid: 197129
+revid: 197512
 source: https://deepwoken.fandom.com/wiki/Marrowmade_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Legs, Boots]
@@ -33,6 +33,10 @@ The **Marrowmade Boots** are an **unenchantable**[\[1\]](#cite-note-unenchantabl
 The [Surestep](Talents.md#surestep) Talent makes you immune to the ragdoll and flinging effect of the winds of the Second Layer. You are still affected by the harsh winds' movement debuffs.
 
 The [Osseous Surge](Talents.md#osseous-surge) Talent make it so when flourishing an enemy enhances the boots for 10 seconds. During this time, the wearer can right-click to release a wave of bones forward, damaging or pressuring enemies in front of them. (The boot's Osseous Surge talent deals 30 PvP damage and 180 PvE Damage)
+
+## Trivia/Notes
+
+-   The damage increases by 50% going from 30 to 45 with Bone Ring(no bone wave AoE or speed increases with ring)
 
 ## Navigation
 

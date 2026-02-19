@@ -1,6 +1,6 @@
 ---
 title: "Freestyler's Band"
-revid: 193511
+revid: 197515
 source: https://deepwoken.fandom.com/wiki/Freestyler's_Band
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -25,3 +25,8 @@ categories: [Equipment, Rings]
 ## Description
 
 Freestyler's Band is a Ring [Equipment](Equipment.md) piece that reduces the hunger and thirst loss while swimming. Also changes the Swim animation to look more "human".
+
+## Trivia
+
+-   The name in the description "Mikhael Felps" is a reference to the legendary swimmer and former Olympic athlete [Michael Phelps](https://en.wikipedia.org/wiki/Michael_Phelps), who holds several world records in both Olympic gold medals and swimming
+    -   The old description used to literally read "Michael Phelps." The developers likely changed this for immersion

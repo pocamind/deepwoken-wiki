@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 196796
+revid: 197472
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -686,7 +686,7 @@ Obfuscation [Enchant Stone](Enchant_Stone.md):
 
 [View main page](<Parasol's_Blight.md>)
 
-[Placeholder](<Parasol's_Blight.md>)
+File:Parasol's Blight.gif
 
 _Hitting a player infects their body with Parasol's Blight. If a player who is infected is killed, their corpse is turned into one of the Parasol's Minions._
 

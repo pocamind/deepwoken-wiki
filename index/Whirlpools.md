@@ -1,6 +1,6 @@
 ---
 title: Whirlpools
-revid: 192852
+revid: 197487
 source: https://deepwoken.fandom.com/wiki/Whirlpools
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,8 @@ Allows the player to access and escape The Depths, Unstaining them without addin
 
 ### Etrean Luminant
 
--   At the corner of the Sea Highway near the [Isle of Vigils](Isle_of_Vigils.md).
+-   From Etris dock, far left from the shipwright.
+-   Next to dukes manor.
 
 ### Eastern Luminant
 

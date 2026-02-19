@@ -1,6 +1,6 @@
 ---
 title: Forge Needle
-revid: 192662
+revid: 197519
 source: https://deepwoken.fandom.com/wiki/Forge_Needle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics]
@@ -23,11 +23,11 @@ categories: [Relics]
 
 ## Description
 
-The **Forge Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It is an advanced version of the [Armorer's Needle](<Armorer's_Needle.md>). Instead of rolling a pip on an armor, the Forge Needle upgrades one of your equipment by one star. It basically does the same thing as the [Smith's Alloy](<Smith's_Alloy.md>), except for [Equipment](Equipment.md) rather than weapons.
+The **Forge Needle** is a [Relic](Relics.md) used for [Equipment](Equipment.md). It is an advanced version of the [Armorer's Needle](<Armorer's_Needle.md>), instead of rolling a pip on an equipment piece, the Forge Needle upgrades one of your equipment by one star. Essentially, it does the same thing as the [Smith's Alloy](<Smith's_Alloy.md>), except for [Equipment](Equipment.md) rather than weapons.
 
-This of course grants all of the benefits that come with having a higher star value, such as +1 Health to Arms, Head, and Legs equipment, and +1 Rare or Legendary Pip.
+This of course grants all of the benefits that come with having a higher star value, such as +1 Health to Arms, Head, and Legs equipment along with the Rare and/or Legendary Pip(s) that the stars give as a bonus.
 
-For rare equipment that are hard to find many 3 star versions of such as: [Simmerbloom Diadem](Simmerbloom_Diadem.md), [Bloodforged Crown](Bloodforged_Crown.md), [Pathfinder Elites](Pathfinder_Elite.md), [Grand Fisher Set](Grand_Fisher_Plate.md), etc, Forge Needles can be very useful.
+Somewhat unjustifiable for easily obtainable equipment, as grinding out a three-star version of the desired item would usually take much less time than the relics required to craft Forge needles. For rarer equipment pieces that are hard to find, however, such as the [Simmerbloom Diadem](Simmerbloom_Diadem.md), [Bloodforged Crown](Bloodforged_Crown.md), [Pathfinder Elites](Pathfinder_Elite.md), [Grand Fisher Set](Grand_Fisher_Plate.md), etc, they can be very useful.
 
 ## Obtainment
 
@@ -35,10 +35,9 @@ Crafted using 1 [Armorer's Needle](<Armorer's_Needle.md>) and 3 [Smith's Alloys]
 
 ## Trivia
 
--   This item was added on August 2, 2024, along with the [Grand Fisher Set](Grand_Fisher_Plate.md).
--   Considered somewhat useless, as grinding out a three star version of most items usually takes much less time then getting three [Smith's Alloys](<Smith's_Alloy.md>).
--   Like the Armorer's and Gilded needles, the item itself appears to resemble the shape of a Treble Clef, used in sheet music notation.
--   The concept of the item was suggested by YouTuber Agamatsu, who conceptually named it "Blacksmith Alloy". The concept encompassed both the Forge Needle and the Smith's Alloy.[\[1\]](#cite-note-1)
+-   This item was added on August 2, 2024 in the same update as the [Grand Fisher Set](Grand_Fisher_Plate.md).
+-   Like the Armorer's and Gilded needles, the item itself appears to resemble the shape of a Treble Clef, used in sheet music notation, which goes in hand with tons of other musical motifs and references within the game.
+-   Like many other relics, the concept of the item was suggested by YouTuber Agamatsu, who gave it the moniker "Blacksmith Alloy". The concept encompassed both the Forge Needle and the Smith's Alloy.[\[1\]](#cite-note-1)
 
 ## References
 
