@@ -1,6 +1,6 @@
 ---
 title: True Heart of Enmity
-revid: 196386
+revid: 197577
 source: https://deepwoken.fandom.com/wiki/True_Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters]
@@ -188,8 +188,8 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <td><b><a href="Outfits.md">Outfit Schematics</a></b></td>
   <td>
   <ul>
-    <li><b>Adept Outfit:</b> <a href="Shadow_Hunter.md">Shadow Hunter</a></li>
-    <li><b>Unique Outfit:</b> <a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a>, <a href="Shock_Corps_Light.md"><font>Shock Corps Light</font></a>, <a href="Vigil_Sentinel.md"><font>Vigil Sentinel</font></a>,</li>
+    <li><b>Unique Outfit:</b> <a href="Ferryman's_Coat.md"><font>Ferryman's Coat</font></a>, <a href="Shock_Corps_Light.md"><font>Shock Corps Light</font></a>, <a href="Vigil_Sentinel.md"><font>Vigil Sentinel</font></a></li>
+    <li><b>Adept Outfit:</b> <a href="Shadow_Hunter.md">Shadow Hunter</a>, <a href="11th_Legion_Plate.md">11th Legion Plate</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -199,7 +199,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
     <li>Two <a href="Crowns.md">Crowns</a></li>
     <li>Four <a href="Knowledge.md">Knowledge</a></li>
     <li><a href="Items.md">Items</a>: <a href="Sanguine_Candle.md">Sanguine Candle</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Baneful_Syrinx.md">Baneful Syrinx</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, non-exclusive <a href="Enchant_Grease.md">Enchant Grease</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Warped_Blue_Gem.md">Warped Blue Gem</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Baneful_Syrinx.md">Baneful Syrinx</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, non-exclusive <a href="Enchant_Grease.md">Enchant Grease</a>, non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Warped_Blue_Gem.md">Warped Blue Gem</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Big_Brother.md">Big Brother</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Gilded_Knife.md">Gilded Knife</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a></li>
     <li><b>Medium Weapons</b>: <a href="Champion's_Sword.md">Champion's Sword</a>, <a href="Crescendo.md">Crescendo</a>, <a href="Death's_Reverie.md">Death's Reverie</a>, <a href="Forgotten_Gladius.md">Forgotten Gladius</a>, <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Kindred_Edict.md">Kindred Edict</a>, <a href="Pernach.md">Pernach</a>, <a href="Purple_Cloud.md">Purple Cloud</a>, <a href="Rite_of_Authority.md">Rite of Authority</a>, <a href="Rosen's_Peacemaker.md">Rosen's Peacemaker</a>, <a href="Scimitar.md">Scimitar</a>, <a href="Scoundrel's_Saber.md">Scoundrel's Saber</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Vigil_Longsword.md">Vigil Longsword</a>, <a href="Warden_Ceremonial_Sword.md">Warden Ceremonial Sword</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Duskguard_Axe.md">Duskguard Axe</a>, <a href="Enforcer's_Axe.md">Enforcer's Axe</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>, <a href="First_Light.md">First Light</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Halberd.md">Halberd</a>, <a href="Pale_Briar.md">Pale Briar</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a>, <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Duskguard_Axe.md">Duskguard Axe</a>, <a href="Enforcer's_Axe.md">Enforcer's Axe</a>, <a href="Evanspear_Greataxe.md">Evanspear Greataxe</a>, <a href="First_Light.md">First Light</a>, <a href="Kyrscleave.md">Kyrscleave</a>, <a href="Smouldering_Hallow.md">Smouldering Hallow</a>, <a href="Halberd.md">Halberd</a>, <a href="Pale_Briar.md">Pale Briar</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="Putrid_Edenstaff.md">Putrid Edenstaff</a>, <a href="Wretched_Mawblades.md">Wretched Mawblades</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="Kyrstear.md">Kyrstear</a>, <a href="The_Path's_Defender.md">The Path's Defender</a></li>
   </ul></td>
@@ -225,7 +225,7 @@ After True Heart of Enmity is defeated, everyone who participated gets items tra
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:
   <ol>
-    <li><b>Unique Head</b>: <font>Infused Bloodforged Crown</font>, <font>Sorcerer's Brim</font></li>
+    <li><b>Unique Head</b>: <font>Infused Bloodforged Crown</font>, <font>Sorcerer's Brim</font>, <font>Trickster's Beret</font></li>
     <li><b>Generic Head</b>: <a href="Blackleaf_Helm.md">Blackleaf Helm</a>, <a href="Blacksteel_Helm.md">Blacksteel Helm</a>, <a href="Celtor_Commander_Helm.md">Celtor Commander Helm</a>, <a href="Dark_Cowl.md">Dark Cowl</a>, <a href="Dark_Owl_Chapeau.md">Dark Owl Chapeau</a>, <a href="Deepwoken_Hood.md">Deepwoken Hood</a>, <a href="Enforcer_Helm.md">Enforcer Helm</a>, <a href="Goldleaf_Helm.md">Goldleaf Helm</a>, <a href="Guard's_Kabuto.md">Guard's Kabuto</a>, <a href="Hardened_Barrel_Helm.md">Hardened Barrel Helm</a>, <a href="Investigator's_Hat.md">Investigator's Hat</a>, <a href="Mercenary's_Hood.md">Mercenary's Hood</a>, <a href="Phalanx_Helmet.md">Phalanx Helmet</a>, <a href="Silver_Knight's_Helm.md">Silver Knight's Helm</a>, <a href="Smith's_Bandana.md">Smith's Bandana</a>, <a href="Strapped_Hat.md">Strapped Hat</a> (Black), <a href="Vigil_Hood.md">Vigil Hood</a></li>
   </ol></li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>:

@@ -1,9 +1,9 @@
 ---
 title: Necrotic Demon Horns
-revid: 197425
+revid: 197561
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Head]
+categories: [In progress without reason, InProgressPages, Equipment, Head, Horns]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

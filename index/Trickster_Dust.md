@@ -1,6 +1,6 @@
 ---
 title: Trickster Dust
-revid: 197366
+revid: 197573
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -23,14 +23,16 @@ categories: [Relics, Items]
 
 ## Description
 
-The Trickster Dust is a [Relic](Relics.md) that resembles emanating confetti particles.
+The **Trickster Dust** is a [Relic](Relics.md) that resembles emanating confetti particles.
 
 ## Crafting
 
-This Relic can also be used to craft an unknown equipment item.
+The Trickster Dust can be used at the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
--   [Equipment](Equipment.md): Lost Forge + 1x Trickster Dust + ???
--   [Jester's Beret](<Trickster's_Beret.md>): Lost Forge + 1x [Tillian's Beret](<Tillian's_Beret.md>) + 1x Trickster Dust + Shiva's Codex
--   [Transfusion Ring](Transfusion_Ring.md): Lost Forge + 1x [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Trickster Dust + [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
--   Necrotic Membrane: Lost Forge + 1x Trickster Dust + Parasol Membrane + [Weathered Timepiece](Weathered_Timepiece.md)
--   Necrotic Membrane: Lost Forge + 1x Trickster Dust + Parasol Membrane + [Temporal Crux](Temporal_Crux.md)
+-   [Equipment](Equipment.md):
+
+1.  [Jester's Beret](<Jester's_Beret.md>): 1x [Tillian's Beret](<Tillian's_Beret.md>) + 1x Trickster Dust + 1x [Shiva's Codex](<Shiva's_Codex.md>)
+2.  [Transfusion Ring](Transfusion_Ring.md): 1x [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Trickster Dust + 1x [Necrotic Membrane](Necrotic_Membrane.md)
+3.  [Transfusion Ring](Transfusion_Ring.md): 1x [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Trickster Dust + 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
+4.  [Necrotic Membrane](Necrotic_Membrane.md): 1x Trickster Dust + 1x [Parasol Membrane](Parasol_Membrane.md) + 1x [Weathered Timepiece](Weathered_Timepiece.md)
+5.  [Necrotic Membrane](Necrotic_Membrane.md): 1x Trickster Dust + 1x [Parasol Membrane](Parasol_Membrane.md) + 1x [Temporal Crux](Temporal_Crux.md)

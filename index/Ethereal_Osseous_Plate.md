@@ -1,9 +1,9 @@
 ---
 title: Ethereal Osseous Plate
-revid: 197427
+revid: 197572
 source: https://deepwoken.fandom.com/wiki/Ethereal_Osseous_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Craftable, Ingredients, Items]
+categories: [Pages using duplicate arguments in template calls, In progress without reason, InProgressPages, Craftable, Ingredients, Items]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -12,13 +12,30 @@ notices:
 
 | Ethereal Osseous Plate | |
 |---|---|
+| value | ? |
+| weight | ? |
+| stack | x? |
 | type | Ingredient |
-| bankable | Yes |
-| droppable | Yes |
+| rarity | ? |
+| bankable | ? |
+| droppable | ? |
 | pass down | No |
 | desc | A combination of different hardened bone, resisting even the toughest of forces. |
 | obtainment | Crafting:, Lost Forge + 1x Dread Serpent's Tooth + 1x Ethereal Bone Dust +1x Giant Femur |
 
 ## Description
 
-The Ethereal Osseous Plate is an item made with a [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Ethereal Bone Dust](Ethereal_Bone_Dust.md) and a [Giant Femur](Giant_Femur.md) inside of the [Lost Forge](Lost_Forge_of_Leiuna.md).
+The **Ethereal Osseous Plate** is an item made with a [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>), [Ethereal Bone Dust](Ethereal_Bone_Dust.md) and a [Giant Femur](Giant_Femur.md) inside of the [Lost Forge](Lost_Forge_of_Leiuna.md).
+
+## Crafting
+
+The Ethereal Osseous Plate can be used to craft into other items with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
+
+-   [Equipment](Equipment.md):
+
+1.  [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + 1x Ethereal Osseous Plate + 1x [Necrotic Membrane](Necrotic_Membrane.md)
+2.  [Transfusion Ring](Transfusion_Ring.md): [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Ethereal Osseous Plate + 1x [Trickster Dust](Trickster_Dust.md)
+3.  ???: [Blacksteel Helm](Blacksteel_Helm.md) + 1x Ethereal Osseous Plate + ???
+4.  ???: [Simple Pauldrons](Simple_Pauldrons.md) + 1x Ethereal Osseous Plate + ???
+5.  [Ossified Blood Earrings](Ossified_Blood_Earrings.md): [Old Blood Earrings](Old_Blood_Earrings.md) + 1x Ethereal Osseous Plate
+6.  ???: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) + 1x [Shiva's Codex](<Shiva's_Codex.md>) + 1x Ethereal Osseous Plate

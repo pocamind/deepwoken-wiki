@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 197511
+revid: 197578
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -21,7 +21,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Kyrsgarde Champion is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.md). It is a muscular coil-white Kyrsan donning uniquely colored armor, alongside a black cape that ends with a purple gradient. An immensely powerful and skilled Kyrsgarde, it wields a large, pale glaive that bears [Moonseye](Moonseye.md) motifs, which is highly capable of utilizing frost.
+The Kyrsgarde Champion is a boss located in [New Kyrsa](Second_Layer/New_Kyrsa.md). It is a muscular white-coil Kyrsan donning uniquely colored armor, alongside a black cape that ends with a purple gradient. An immensely powerful and skilled Kyrsgarde, it wields a large, pale glaive that bears [Moonseye](Moonseye.md) motifs, which is highly capable of utilizing frost.
 
 It can be encountered after achieving the following requirements:
 
@@ -107,7 +107,9 @@ Dodge
 **Champion’s Quake**  
 (★★★)
 
- | The Kyrsgarde Champion crouches slightly before crashing into the ground.
+ | The Kyrsgarde Champion crouches slightly before jumping up and crashing into the ground.
+
+-   This attack deals damage as soon as The Champion's feet touch the ground.
 
 _Uses Telegraph_
 
@@ -122,6 +124,8 @@ Jump
 (★★☆)
 
  | With a horizontal slash, the Kyrsgarde Champion creates a line of ice spikes in the direction of the nearest target.
+
+-   This attack is capable of dealing very high damage due to each "ice spike" The Champion sends dealing one instance of damage.
 
 _Uses Telegraph_
 
@@ -171,7 +175,7 @@ Dodge
 **Blizzard’s Sanction**  
 (★★★)
 
- | The Kyrsgarde Champion briefly winds up before unleashing four cleaves, followed by **Splintered Thrust**.
+ | The Kyrsgarde Champion briefly winds up before unleashing four cleaves, followed by a delayed **Splintered Thrust**.
 
 -   All four slashes follow the green telegraph.
 
@@ -190,4 +194,4 @@ Parry
 
 ## Trivia
 
--   This boss can be very difficult as you must deal with both his deadly moveset, and the spacetime collapse vortexes.
+-   This boss can be very difficult as you must deal with both his deadly moveset, and the space-time collapse vortexes.

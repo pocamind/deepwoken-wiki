@@ -1,0 +1,52 @@
+---
+title: Black Death
+revid: 197575
+source: https://deepwoken.fandom.com/wiki/Black_Death
+license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
+---
+
+# Black Death
+
+| Black Death | |
+|---|---|
+| type | Spear |
+| damage type | Slash |
+| requirements | 30 MED, 50 MND, 70 SDW, LVL 12 |
+| damage | 16.5 + 2.4 BLD |
+| scaling | 3 MED, 4.5 SDW, 3 MND |
+| posture damage | 6 |
+| range | 9.5 Lunge |
+| swing speed | 0.92x |
+| attack duration | 0.7s |
+| penetration | 25% |
+| m.equip | No |
+| m.extract | No |
+| stances | 2 Handed, 1 Handed |
+| rarity | Mythical |
+| selling price | 100 |
+| weight | 2 |
+| bankable | No |
+| droppable | No |
+| enchantable | No |
+| pass down | No |
+| obtainment | Interacting with the Lost Forge with Red Death |
+| description | Tool of the Ministry. Unlike its counterpart this pike cares not for the mess it intends to leave behind. |
+
+Variants: [Red Death](Red_Death.md)
+
+## Description
+
+The **Black Death** is the sister of its [red counterpart](Red_Death.md), a tool of the Ministry which does not care about the mess it leaves behind.
+
+## Critical
+
+The Black Death has two criticals.
+
+For the standing critical, the user raises the spear, summoning three stakes of shadow wherever the user is facing. These stakes solely inflict Shadow.
+
+For the running critical, the user rapidly thrusts the spear while slowly moving forward, ending with a final blow that inflicts Shadow. The user then raises their hand, summoning three stakes that also inflict Shadow.
+
+Both criticals have a cooldown of **8 seconds.**
+
+These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.

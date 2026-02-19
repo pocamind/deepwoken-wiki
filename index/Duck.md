@@ -1,6 +1,6 @@
 ---
 title: Duck
-revid: 197475
+revid: 197553
 source: https://deepwoken.fandom.com/wiki/Duck
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

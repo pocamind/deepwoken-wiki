@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 197494
+revid: 197580
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -33,4 +33,4 @@ This Gem is currently **unbankable** and **undroppable.**
 
 On hit, slow your opponents for around 6 seconds. This effect is stackable and it has a 1s CD.
 
-Currently, this Gem is bugged and it has a 0s CD instead of the 1s CD.
+Currently, this Gem's CD is bugged, having a 0s CD instead of the 1s CD.
