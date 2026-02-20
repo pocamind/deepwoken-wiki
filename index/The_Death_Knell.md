@@ -1,6 +1,6 @@
 ---
 title: The Death Knell
-revid: 197249
+revid: 197746
 source: https://deepwoken.fandom.com/wiki/The_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -43,8 +43,6 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 ## Description
 
 The Death Knell is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist.
-
-Works with _[Untrained Fist](Untrained_Fist.md)_, _[Way of Navae](Way_of_Navae.md)_, _[Fang and Coil](Fang_and_Coil.md)_, _[Imperium Kata](Imperium_Kata.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**The Death Knell is not compatible with [Jus Karita](Jus_Karita.md).**_
 
 ## Critical
 

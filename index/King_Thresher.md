@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 192035
+revid: 197706
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -132,7 +132,6 @@ Block
 ## Trivia
 
 -   Despite having flame visuals, **Royal Breath** is not flame and has never been flame.
--   The **King Thresher**, alongside the [Thresher](Thresher.md) and the [Deep Owl](Deep_Owl.md) were one of the 3 [Pathfinder](Pathfinder.md) gamemode [Monsters](Monsters.md) that received the new Highlight telegraphs and mechanics from the [Vow of Iron](Vow_of_Iron.md) gamemode in the December 13th, 2025 "Ironsworn" update.
 
 ## Navigation
 

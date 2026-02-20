@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 197651
+revid: 197732
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -13,6 +13,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | weight | 0 |
 | stack | x25 |
 | type | Deep Gem |
+| rarity | Legendary |
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |

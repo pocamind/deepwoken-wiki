@@ -1,6 +1,6 @@
 ---
 title: Rimebreakers
-revid: 197215
+revid: 197712
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
@@ -41,3 +41,7 @@ This content is not accessible outside of this gamemode.
 Equipping the Rimebreakers grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 **Fortify** grants a Talent tool that applies a heavy slow debuff to yourself in exchange for high damage reduction. This effect lasts 30 seconds.
+
+## Trivia
+
+The weapon [talent](Talents.md), **Fortify**, is shared with the [Frost Gauntlets](Frost_Gauntlets.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode.

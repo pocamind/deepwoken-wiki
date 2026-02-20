@@ -1,6 +1,6 @@
 ---
 title: Coldpoint
-revid: 197226
+revid: 197724
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
@@ -38,4 +38,8 @@ The Coldpoint is an ice rapier obtained by defeating the [Kyrsgarde Champion](<K
 
 ## Talent: True Shatter
 
-Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage scaling off of how slow they were
+Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage, scaling off of how much the target was slowed.
+
+## Trivia
+
+The [weapon talent](Talents.md#weapon-talents), True Shatter, is shared between the Coldpoint and the [Icepick](Icepick.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode.

@@ -1,6 +1,6 @@
 ---
 title: Deep Owl
-revid: 196445
+revid: 197708
 source: https://deepwoken.fandom.com/wiki/Deep_Owl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -186,7 +186,6 @@ The Owls' special attacks are affected by shadow armour.
 -   Despite having lower health than a [Lionfish](Lionfish.md), they are foes to be reckoned with since they can quickly deal large amounts of damage if not defended against properly.
 -   Occasionally when hit by the Deep Owl's **Overhead Grab**, it will bug out and be flung/teleported out of its detection range, though this doesn't happen too often.
 -   For a very long time after release until its eventual shadow-patch, there was a typo in one of its dialogue response lines that said "Ah. Carry on then, little mouse. I'm sure you have places to be be." Notice the difference at the very end.
--   The **Deep Owl**, alongside the [Thresher](Thresher.md) and the [King Thresher](King_Thresher.md) were one of the 3 [Pathfinder](Pathfinder.md) gamemode [Monsters](Monsters.md) that received the new Highlight telegraphs and mechanics from the [Vow of Iron](Vow_of_Iron.md) gamemode in the December 13th, 2025 "Ironsworn" update.
 
 ## References
 

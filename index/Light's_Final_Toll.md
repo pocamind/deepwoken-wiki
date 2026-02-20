@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 197242
+revid: 197750
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -35,18 +35,7 @@ categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, 
 
 ## Description
 
-Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. It can be obtained from both floors of [Layer 2](Second_Layer.md), and it is currently the only weapon to scale off of [Willpower](Attributes.md#wll).
-
-Works with _[Untrained Fist](Untrained_Fist.md)_, _[Way of Navae](Way_of_Navae.md)_, _[Fang and Coil](Fang_and_Coil.md)_, _[Imperium Kata](Imperium_Kata.md)_ and _[Legion Kata](Legion_Kata.md)_ fighting styles. _**Light's Final Toll is not compatible with [Jus Karita](Jus_Karita.md).**_
-
-The lantern comes with a passive ability:
-
--   **All Songs Must Come To An End** - The Light's Final Toll criticals change stages after it is landed. There are a total of three different stages and four total criticals, with the color of the lantern signifying the stage it is in:
-    -   White: Default (#1)
-    -   Blue: 1st Leap (#2)
-    -   Red: 2nd Leap (#2)
-    -   Purple: Final (#3)
-    -   The critical progresses in this order: 1 > 2 > 2 > 3 (The 2nd critical must be landed twice.)
+Light's Final Toll is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist.
 
 ## Critical
 

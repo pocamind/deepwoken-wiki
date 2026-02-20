@@ -1,6 +1,6 @@
 ---
 title: Harrowing
-revid: 196531
+revid: 197726
 source: https://deepwoken.fandom.com/wiki/Harrowing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -13,7 +13,7 @@ categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that pr
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Obscures your opponent's health, posture, and armor bars. |
+| desc | Obscures your opponent's health, posture, and armor bars. Also causes PvE to get Confusion on successful hits. |
 | obtainment | Harrowing Enchant Stone:, Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [10 Knowledge], Goodie Bag |
 
 ## Description
@@ -24,11 +24,12 @@ Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive, debuffing enchantment tha
 
 On M1, Harrowing inflicts the [Harrowing](Status_Effects.md#harrowing) status effect for 12 seconds, obscuring your opponent's Health, Posture, and Armor meters with a nearly opaque yellow and purple pattern.
 
-In PvE, your M1s apply [Confusion](Status_Effects.md#confusion), making your opponent have a chance to hit themselves instead whenever they attack you.
+In PvE, Harrowing inflicts the [Confusion](Status_Effects.md#confusion) for 12 seconds, making your opponent have a 5% chance to hit themselves instead whenever they attack you. This applies a brief stun.
 
 ### Notes
 
--   Landing another M1 while Harrowing is active will refresh the debuff's duration.
+-   Landing another M1 while Harrowing is active will refresh the debuff's duration. This also applies to Confusion.
+-   Confused enemies hitting themselves can proc [Blood Hemorrhaging](Bloodrend.md).
 -   Hovering over your health, posture, and armor bars while Harrowing is active will **not** display their percentages.
 -   If your opponent has the "Stat Bar Behavior" [setting](Settings.md) on "Always," then their health, posture, and armor percentages will be disabled until they rejoin, die, or toggle the setting off and back on again.
 -   Harrowing's effects can be procced on weapon criticals if they have the M1 tag.

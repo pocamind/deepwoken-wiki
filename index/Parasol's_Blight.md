@@ -1,6 +1,6 @@
 ---
 title: "Parasol's Blight"
-revid: 197474
+revid: 197772
 source: https://deepwoken.fandom.com/wiki/Parasol's_Blight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, The Vat Exclusive]
@@ -26,11 +26,11 @@ This enchantment changes your weapon's color to a light purple and applies a sto
 
 When hitting a player with a weapon attack, Parasol's Blight applies the [Parasol's Blight](Status_Effects.md#parasols-blight) status effect for 60 seconds. Landing subsequent attacks on affected targets will refresh the debuff duration. If an affected player dies, an allied [Monster](Monsters.md) will spawn over their corpse.
 
-Monsters you kill have a small chance of proccing Parasol's Blight and summoning allied monsters (possibly disabled when in PvP combat).
+Monsters you kill have a small (3%~) chance of proccing Parasol's Blight and summoning allied monsters.
 
 Parasol's Blight can summon any of the following Monsters: [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Nautilodaunt](Nautilodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), or [Void Thresher](Thresher.md). These monsters can spawn [Corrupted](Monsters.md#scyphozia) if this enchantment is used in [The Depths](The_Depths.md).
 
-This effect can be buffed by equipping the [Cryptwaker's Ring](<Cryptwaker's_Ring.md>), increasing the health of your monsters and allowing you to occasionally spawn [Bonekeepers](Bone_Keeper.md) on proc.
+This effect can be buffed by equipping the [Cryptwaker's Ring](<Cryptwaker's_Ring.md>), slightly increasing the health of your monsters and allowing you to occasionally spawn [Bonekeepers](Bone_Keeper.md) on proc.
 
 ### Notes
 
@@ -40,3 +40,4 @@ This effect can be buffed by equipping the [Cryptwaker's Ring](<Cryptwaker's_Rin
 -   There is no cooldown on the monsters spawning. You can proc this effect multiple times at once.
 -   The players do not need to be killed through manually gripping them, nor do they need to be killed by you specifically for this enchant to proc.
 -   You cannot apply the Parasol's Blight status effect to already Unconscious players.
+-   Because summoned monsters are the same as their natural-spawning variants, it is possible to proc Parasol's Blight on a summoned monster, although this would be extremely rare.

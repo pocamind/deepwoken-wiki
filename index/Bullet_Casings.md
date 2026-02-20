@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 197600
+revid: 197755
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -35,8 +35,6 @@ The Bullet will apply a 50% anti-heal on hit for 12 seconds, however at a downsi
 **Irithine:**
 
 The Bullet will apply increased shaky block on hit similar to [Authority Ensign](Authority_Ensign.md) inquisitor's Hidden Blade, however at a downside of the damage being reduced by 20%.
-
--   The bullet itself does 0 damage and the damage is fully transferred to the poison.
 
 **Gale:**
 

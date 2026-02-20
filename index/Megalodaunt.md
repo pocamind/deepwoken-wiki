@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 196206
+revid: 197733
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -52,7 +52,7 @@ In addition to be found wandering around various places or loitering around in s
 **Slash**  
 (★☆☆)
 
- | A short range swipe using their arms. Can slash once or twice, and if once can be paired with **Kick**.
+ | A short range swipe using their arms. Can slash once or twice, and if once can be paired with **Kick**, which counts as its own move.
 
 -   Heavy posture damage. Will commonly block break after two hits.
 -   If the Megalodaunt slashes twice, it will take longer to attack again.
@@ -142,8 +142,8 @@ High posture
 ## Tips
 
 -   Most likely the first non-humanoid enemy you will encounter as a new player. They may appear menacing but they are easily learnable.
--   A Megalodaunt can never use any move twice in a row, a swipe/kick combo will not be used back to back, and they will not use a raw kick multiple times in a row, by using this to your advantage you can accurately predict the enemies attacks. Do note that Swipe/Kick does not count as a Kick usage, and is why they are infamously regarded to kick "multiple times in a row."
--   Their thousand needles (either variant) can be parried by simply tapping F once due to Autoparry frames, and allows you to get as many hits in as a Kick would.
+-   Though it may seem like they do, a Megalodaunt is not and will never use any move twice in a row; the three variants of **Slash** (single swipe, double swipe, and swipe + kick) along with **Kick** all count as their own moves, even if they are all quite visually similar. By using this to your advantage you can accurately predict the Megalodaunt's attacks.
+-   Their **Thousand Needles** can be completely parried by simply tapping F once due to auto-parry frames, and it allows you to get as many hits in as a **Kick** would.
 
 ## Trivia
 
@@ -154,8 +154,8 @@ High posture
 -   Megalodaunts in general are a reference to the [Shark Giant from _Bloodborne_](References_and_Easter_Eggs.md#enemiesbosses), as they share many physical and behavioral similarities.
     -   Megalodaunts are most likely named after the "_Otodus Megalodon,"_ a large prehistoric shark that went extinct about 3.6 million years ago.
 -   Megalodaunts have 120 teeth, 30 on the upper front, 30 on the lower front, 30 on the lower back, and 30 on the upper back of their mouth.
--   In the Winter of 1291, an event transpired that was later officially dubbed the Sharko Rumbling. This was caused by the addition of [Megalodaunt Bait](Monster_Bait.md). This was uncapped, allowing players to flood servers with tens if not hundreds of Megalodaunts, which proceeded to kill an extreme amount of players and cause heavy lag. Since then, the item has been tweaked.
+-   In the Winter of 1291, an event transpired that was later officially dubbed the Sharko Rumbling. This was caused by the addition of [Megalodaunt Bait](Monster_Bait.md). This was uncapped, allowing players to flood servers with tens if not hundreds of Megalodaunts, which proceeded to kill an extreme amount of players and cause heavy lag. Since then, the item has been changed to prevent this.
 -   From April 1st-3rd 2023, Megalodaunts were capable of spreading [Coral Fever](Destroyman_III.md) by taking damage from their **Slash** or **Thousand Needles**.
--   participated in the 2024 April fools event under the name of Red Daunts and won.
+-   Megalodaunts participated in the April 1st, 2024 event under the name of Red Daunts and won.
 -   [Destroyman III](Destroyman_III.md) is a small, chibi Megalodaunt that can talk.
 -   According to [Mortus](Mortus.md), the flesh of a Megalodaunt is edible. That being said, the [Megurger](Megurger.md) is said to be made out of Megalodaunt's flesh and is described to be rather foul food.

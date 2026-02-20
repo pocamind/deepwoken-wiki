@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 196204
+revid: 197727
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -38,7 +38,7 @@ The Heart of Enmity possesses 65% oath damage resistance, 90% elemental resistan
 
 All moves instantly grip the opponent if they are knocked. Enmity Servants are also capable of executing downed players.
 
-| **Name** | **Description** | **Visual Demo** |
+| **Name** | **Description** | **Media** |
 | --- | --- | --- |
 | 
 **Enmity's Call**  
@@ -52,7 +52,9 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   They don't have the Enforcer Pull or Whirlwind attacks.
 -   [Carnivore](Talents.md#apex-predator) is disabled against the Servants of Enmity.
 
- |  |
+ | 
+
+ |
 | 
 
 **Homerun Bat**[\[1\]](#cite-note-homerun-1)  
@@ -63,7 +65,9 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   This attack rarely can also be used to attack other outlier players trying to heal, when he bats them the victim can be batted towards another person and collide with them which can end up killing them or the other.
 -   It is best advised to try blocking this attack instead of parrying/dodging as he will punish you for both, you need good posture + the [Ardour](Murmur%253A_Ardour.md) Murmur however.
 
- |  |
+ | 
+
+ |
 | 
 
 **Sadistic Fury**  
@@ -71,7 +75,9 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
  | The Heart of Enmity kneels down on one leg and swings his axe twice, dealing significant damage.
 
- |  |
+ | 
+
+ |
 | 
 
 **The Brutalizer**  
@@ -81,7 +87,9 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   The stomp may also be cancelled into Condemnation's Fall, and Sadist's Fury.
 
- |  |
+ | 
+
+ |
 | 
 
 **Condemnation's Fall**  
@@ -92,7 +100,9 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 -   He uses this attack when someone is far from him.
 -   Heart of Enmity doesn't jump into the sky despite the belief, its just a bug.
 
- |  |
+ | 
+
+ |
 | 
 
 **Event Horizon**  
@@ -102,7 +112,9 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 -   During this charge up, Enmity is free to be hit.
 
- |  |
+ | 
+
+ |
 
 ## Passives
 

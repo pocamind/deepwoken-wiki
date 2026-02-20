@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 195613
+revid: 197734
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, Voiced Characters]
@@ -40,8 +40,8 @@ Despite being a humanoid boss and his status as a Black Diver, he doesn't perfor
 
 _For a visual guide, consider watching [this video](https://www.youtube.com/watch?v=_m4IQHs8p_Y)._
 
-| Name/Danger | Description |
-| --- | --- |
+| Name/Danger | Description | Media |
+| --- | --- | --- |
 | 
 **Triple Blood Appendage**  
 (★☆☆)
@@ -49,6 +49,8 @@ _For a visual guide, consider watching [this video](https://www.youtube.com/watc
  | Chaser shoots three long appendages out, they latch onto a player/surface before returning.
 
 -   Blocking all three hits will cause a lot of posture damage, so attempt to parry it.
+
+ | 
 
  |
 | 
@@ -66,6 +68,8 @@ _Uses Telegraph_
 
 High posture
 
+ | 
+
  |
 | 
 
@@ -78,6 +82,8 @@ High posture
 -   The aforementioned casting sound:  
     
 
+ | 
+
  |
 | 
 
@@ -87,6 +93,8 @@ High posture
  | Three waves of blood mist spread out under Chaser, covering the whole area.
 
 -   Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit.
+
+ | 
 
  |
 | 
@@ -98,6 +106,8 @@ High posture
 
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the remainder of the fight. He may attempt to use it again, but it will fail.
 
+ | 
+
  |
 | 
 
@@ -107,6 +117,8 @@ High posture
  | Chaser uses blood to imitate a vent, launching away all players near him and causing them to ragdoll. Happens a few seconds after he is down.
 
 -   The first instance of this does the most damage.
+
+ | 
 
  |
 | 
@@ -118,6 +130,8 @@ High posture
 -   Chaser will use this move everytime after he leaves his vulnerable state.
 -   He cannot use this move after all blood jars have been broken.
 
+ | 
+
  |
 | 
 
@@ -127,6 +141,8 @@ High posture
  | Chaser unleashes around 25 localized attacks on the player(s) while utilizing all of his moves in a frenzy.
 
 -   You must stay in the circle just below him to avoid this attack.
+
+ | 
 
  |
 | 
@@ -139,6 +155,8 @@ High posture
 -   This pushes away anyone trying to stand inside of the circle to avoid the constant damage inflicted by Last Resort.
 -   The slams do a moderate amount of damage as well.
 
+ | 
+
  |
 | 
 
@@ -150,6 +168,8 @@ High posture
 -   Chaser will be highlighted in red while this attack is in use.
 -   This attack is only available once there are no (or only a few) jars left.
 -   This attack also drains him for 250 health.
+
+ | 
 
  |
 

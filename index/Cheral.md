@@ -1,6 +1,6 @@
 ---
 title: Cheral
-revid: 197116
+revid: 197704
 source: https://deepwoken.fandom.com/wiki/Cheral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, The Children of Navae, Individuals with unspecified pronouns]
@@ -25,7 +25,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Cheral is a [Gremor](Gremor.md) NPC. Speaking to Cheral with a [Navaen Hostage](Navaen_Hostage.md) will grant the player the [Way of Navae](Fists.md) fighting style.
+Cheral is a [Gremor](Gremor.md) NPC. They are the camp master of [the Children of Navae](The_Children_of_Navae.md) camp in the [Etrean Wilds](Etrean_Wilds.md).
+
+Speaking to Cheral with a [Navaen Hostage](Navaen_Hostage.md) will grant the player the [Way of Navae](Fists.md) fighting style.
 
 ## Location
 

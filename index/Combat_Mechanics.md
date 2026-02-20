@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 197613
+revid: 197737
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -334,7 +334,13 @@ _On paper, this looks like a lot to memorize, but do not worry. These things wil
 
 ## Telegraphed Attacks
 
-_Some attacks will be accompanied with an audiovisual cue, that being a colored glyph which is sometimes paired up with an identically colored outline and a sharp distinct sound effect. These attacks mostly require specific action to avoid and are usually associated with a certain level of threat._ _Note that the glyph of a telegraph may vary depending on its source, though its color will not._
+_Some attacks will be accompanied with an audiovisual cue, that being a colored glyph which is sometimes paired up with an identically colored outline and a sharp distinct sound effect. These attacks mostly require specific action to avoid and are usually associated with a certain level of threat._
+
+_However, do note that:_
+
+-   _The telegraph shown on an attack is usually the most optimal way to avoid it, and if not, the only way that it can be avoided._
+-   _The glyph of a telegraph may vary depending on its source, though its color will not._
+-   _If the "Simple Telegraphs" setting is on, glyphs will not show up and only colored outlines will._
 
 | 
 Color
@@ -486,7 +492,7 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash, Commander's Whirlthrow
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Severing Flourish, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Detonating the Frost, Splintered Thrust
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
 
  |
 | 
@@ -513,7 +519,7 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
 **Boss Attacks**
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Freezing the Heavens.
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
 
  |
 | 
@@ -540,9 +546,9 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldshattering Smackdown, Commander's Rage
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Graceful Slicer, Mortal Draw: Sakura Dance
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Pylons of Frost
 -   [Parliament](Parliament.md): Curb Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
 
 **Miscellaneous**
 
@@ -553,7 +559,7 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 
 Yellow
 
- |  | Attacks with this indicator can be crouched under.
+ | File:Yellowtelegraph.png | Attacks with this indicator can be crouched under.
 
   
 Most attacks with this indicator deal high posture damage.
@@ -561,15 +567,11 @@ Most attacks with this indicator deal high posture damage.
  |
 | All attacks that have this attribute:
 
-**Monster Attacks**
-
--   [Deep Owl](Deep_Owl.md): Owl Dash
-
 **Boss Attacks**
 
 -   [Parliament](Parliament.md): Owl Dash
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Low Cleave
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Decapitating Sweep, Dissect the Fringewalker.
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
 
  |
 | 
@@ -584,15 +586,10 @@ Attacks with this indicator can be jumped over.
  |
 | All attacks that have this attribute:
 
-**Monster Attacks**
-
--   [Thresher](Thresher.md): Tail Swipe
--   [King Thresher](King_Thresher.md): Body Slam
-
 **Boss Attacks**
 
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Shogun's Brutality
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Dissect the Fringewalker, Opening the Maw, Crossrend Cryocleave
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
 
  |
 | 
@@ -631,7 +628,7 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Dissect the Fringewalker, Opening the Maw.
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
 
  |
 

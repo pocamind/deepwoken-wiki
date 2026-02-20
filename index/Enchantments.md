@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 197626
+revid: 197766
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -441,7 +441,7 @@ Grim [Enchant Stone](Enchant_Stone.md):
 
 [Enchant Harrowing](Harrowing.md)
 
-_Obscures your opponent's health, posture, and armor bars._
+_Obscures your opponent's health, posture, and armor bars. Also causes PvE to get [Confusion](Status_Effects.md#confusion) on successful hits._
 
  | 
 
@@ -449,9 +449,9 @@ _Obscures your opponent's health, posture, and armor bars._
 
 Inflicts [Harrowing](Status_Effects.md#harrowing) on M1, which coats the enemy's posture, health, and armor bar in a nearly opaque purple and orange pattern, hiding how full or empty each bar is. While Harrowing is in effect, hovering over your bars will not display their percentages.
 
-This effect lasts for 12 seconds and is refreshed upon landing another hit.
+In PvE, your M1s apply [Confusion](Status_Effects.md#confusion), making your opponent have a 5% chance to hit themselves instead whenever they attack you, applying a brief stun to the enemy and dealing their damage back to themselves in full.
 
-In PvE, your M1s apply [Confusion](Status_Effects.md#confusion), making your opponent have a chance to hit themselves instead whenever they attack you.
+These effects last for 12 seconds and are refreshed upon landing another hit.
 
 Harrowing also procs on criticals with the M1 tag.
 
@@ -533,9 +533,11 @@ _On critical hits, apply a slow that increases with each crit. At 5 stacks fully
 
 **Effect:**
 
+On critical hits, apply a slow that increases with each crit. At 5 stacks fully encase your opponent in ice.
+
 **Obtainment:**
 
-Metal can be obtained from its [Enchant Stone](Enchant_Stone.md), dropped from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
+Kyrsan Chill can be obtained from its [Enchant Stone](Enchant_Stone.md), dropped from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
   
 

@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 196338
+revid: 197707
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -105,4 +105,3 @@ High posture
 -   You can use [Thresher Bait](Monster_Bait.md) to spawn Threshers near water, just like Megalodaunt Bait.
 -   Prior to October 1st, 2023, the [Thresher Spine](Thresher_Spine.md) had no description, making it the only [Monster](Monsters.md) drop not to have one.
 -   Originally, no Thresher could swim. If they ended up in the sea they would sink and despawn.
--   The **Thresher**, alongside the [King Thresher](King_Thresher.md) and the [Deep Owl](Deep_Owl.md) were one of the 3 [Pathfinder](Pathfinder.md) gamemode [Monsters](Monsters.md) that received the new Highlight telegraphs and mechanics from the [Vow of Iron](Vow_of_Iron.md) gamemode in the December 13th, 2025 "Ironsworn" update.

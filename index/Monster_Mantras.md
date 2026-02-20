@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 197508
+revid: 197791
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -87,6 +87,48 @@ Typeless
 -   Has a windup of 0.9 seconds
 -   This Mantra has two hits. The first one scans for if it touches the opponent and the second deals the damage.
 -   The wave tracks and follows the opponent. Because there is a slight delay, if your opponent is running from you, Abyssal Ridge may miss.
+
+ |
+| 
+
+**Abyssal Tendrils** (★★☆)
+
+_Create tentacles and pierce multiple opponents at once._
+
+ | 
+
+## Abyssal Tendrils (★★☆)
+
+  
+_Create tentacles and pierce multiple opponents at once._
+
+ |
+| 
+
+50 Ether
+
+ | 
+
+Typeless
+
+ | 
+
+[Charged Parasol Part](Charged_Parasol_Part.md)
+
+ |
+| 
+
+**Effect:** _4 large tentacles protrude outward from the user and quickly stab the nearest opponents within a **large area**. Based on the [Interluminary Parasol](Interluminary_Parasol.md)'s '**Pierce'** attack._
+
+-   Deals ~16 typeless damage and ~3 posture per tentacle, bypassing armor resistances. Damage decreases the further away the opponent is.
+-   Targets up to 4 people. If there are less than 4 people, the tendrils will allocate randomly. If there are no targets in range, the Mantra doesn't work.
+-   Does not target allies, making it useful in ganks.
+-   Auto-targets opponents and is not manually aimed, and can target opponents behind the player.
+-   Up close, tendrils will hold the opponent in place for 0.5s.
+-   Further away, tendrils will knock the opponent away in a random direction and apply Dazed.
+-   Has no windup and is able to be feinted instantly.
+-   You're able to move and attack during the Mantra.
+-   Consecutive hits have no "auto-dodge" frames, allowing it to hit you out of abilities like [Risky Moves](Talents.md#risky-moves).
 
  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 197680
+revid: 197752
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1681,7 +1681,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
             -   Galebreathe: Your bullets after cut and apply winded briefly
             -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
             -   Ironsing: Your bullets apply metal rods
-            -   Bloodrend: Your bullets drain blood
+            -   Bloodrend: Your bullets apply blood poisoning
         -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
     -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
     -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.

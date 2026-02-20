@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 197575
+revid: 197786
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -20,6 +20,7 @@ categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
 | swing speed | 0.92x |
 | attack duration | 0.7s |
 | penetration | 25% |
+| talent | Corporeal Dissolution - Any attacks that drain ether now withers them based on the amount of drain as well. |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed, 1 Handed |
@@ -38,6 +39,12 @@ Variants: [Red Death](Red_Death.md)
 ## Description
 
 The **Black Death** is the sister of its [red counterpart](Red_Death.md), a tool of the Ministry which does not care about the mess it leaves behind.
+
+## Talent: Corporeal Dissolution
+
+Equipping the Black Death grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
+
+**Corporeal Dissolution** applies [Wither](Status_Effects.md#wither) on any attack that drains Ether, and scales on the amount of Ether drain.
 
 ## Critical
 
