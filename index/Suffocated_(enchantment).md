@@ -1,6 +1,6 @@
 ---
 title: Suffocated (enchantment)
-revid: 197860
+revid: 197921
 source: https://deepwoken.fandom.com/wiki/Suffocated_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -17,8 +17,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-placeholder
+Placeholder
 
 ## Effect
 
-placeholder
+Placeholder

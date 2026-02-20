@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 197812
+revid: 197917
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -448,7 +448,7 @@ Typeless(or blunt)
 -   Deals 15 typeless(or blunt) damage on proc, bypassing armor resistances.
 -   Alternatively procs on all uppercut Mantras.
 -   Ragdolls the target on hit.
--   3 charges unmodded(5 with Bone Ring)
+-   3 charges unmodded(5 with [Bone Ring](Bone_Ring.md))
 -   5 second cooldown(no cd with Bone Ring)
 
  |

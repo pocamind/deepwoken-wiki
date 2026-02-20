@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 197752
+revid: 197918
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2258,7 +2258,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 ### Leaf in the Wind
 
 -   _Observation_ \[Rare Talent, Agility\] - Dodge frames are larger if you cancel your roll immediately. (+1 Passive Agility)
-    -   Cancelling your roll quickly will grant dodge frames equals to the length of a regular roll. Basically giving extra 0.1s dodge frames.
+    -   Cancelling your roll quickly will grant dodge frames equal to the length of a regular roll. Basically giving extra 0.1s dodge frames.
     -   Prerequisite: 20 Agility
     -   Mutual Exclusive: Risky Moves
 
@@ -4590,7 +4590,7 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 
 -   Sunset Ricochet: [Summer Dragoon](Summer_Dragoon.md) - Makes your bullets ricochet to a nearby enemy when hitting an opponent.
 
--   Surestep: [Delver Boots](Delver_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
+-   Surestep: [Delver Boots](Delver_Boots.md) & [Marrowmade Boots](Marrowmade_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
 
 -   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.

@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 197891
+revid: 197919
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
