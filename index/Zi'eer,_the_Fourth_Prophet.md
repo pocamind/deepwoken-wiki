@@ -1,6 +1,6 @@
 ---
 title: "Zi'eer, the Fourth Prophet"
-revid: 195749
+revid: 197906
 source: https://deepwoken.fandom.com/wiki/Zi'eer%2C_the_Fourth_Prophet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, SpoilerPages, Bosses, Voiced Characters, Enemies]
@@ -24,7 +24,7 @@ Variants: [The Lord Regent](The_Lord_Regent.md)
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
-“ \*Zi'eer chuckles.\* So it seems honour comes to reclaim its lost child. You fools simply misunderstand - I have found a power far greater than your impotent little Vow. ”
+“ So it seems honour comes to reclaim its lost child. You fools simply misunderstand - I have found a power far greater than your impotent little Vow. ”
 
 ― Zi'eer, the Fourth Prophet
 

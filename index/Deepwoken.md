@@ -1,47 +1,41 @@
 ---
 title: Deepwoken
-revid: 194087
+revid: 197885
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Pages requiring a cleanup]
-notices:
-  - "This page, by declaration of the Inquisition, is of insufficient quality and requires a cleanup to better meet the Wiki's quality standards. Help improve this article by improving formatting, spelling and the general layout. Within this dark a blazing light!"
+categories: [Pages with broken file links]
 ---
 
 # Deepwoken
 
 _Not to be confused with the name of the game, [Deepwoken](<Deepwoken_(game).md>)._
 
+_See also the in-game glossary entry for [Deepwoken](Glossary.md#deepwoken)._
+
 ## Description
 
-**Deepwoken** is a term used to refer to the individuals who have consumed pieces of Drowned Gods,[\[1\]](#cite-note-0-1) causing them to "wake to the secrets of the deep". When a person consumes a fragment of a Drowned God, they attain immortality and supernatural powers related to the entity from which the fragment came from. As a consequence of becoming a Deepwoken the individual undergoes physical changes, though the nature and magnitude of these transformations are unknown.
+The **Deepwoken** are the individuals who have consumed and merged with a piece of a Drowned God,[\[1\]](#cite-note-0-1) causing them to "wake to the secrets of the deep" and develop a beyond advanced understanding of the Song, becoming immortal and attaining supernatural powers related to the Drowned God they merged with. As a consequence of becoming a Deepwoken, the individual undergoes physical changes, though the nature and magnitude of these transformations aren't known to a great extent. Being a Deepwoken is described as not being enviable, as they bring chaos where they go.
 
-### Known Deepwoken
+## Known Deepwoken
 
-There are three known Deepwoken. They are all likely well over a thousand years old.
+There are three known Deepwoken, all likely well over a thousand years old.
 
 -   [Amorus Pleeksty](Amorus_Pleeksty.md)
     -   Pleeksty ate a part of [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) in the form of a meteor flower. He received pyrokinetic powers, leading to the invention of the [Flamecharm](Flamecharm.md) Attunement.
 -   [The First Prophet](https://deepwoken.fandom.com/wiki/Lore#The_First_Prophet) of [The Ministry](The_Ministry.md)
-    -   The Drowned God from which the First Prophet consumed a piece of is currently unnamed. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2)
+    -   We don't know what Drowned God he merged with to become a Deepwoken, but we know that he isn't human anymore due to the physical changes of becoming one. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2) Theorized to have brought Shadowcast upon the world, similar to Pleeksty and/or control water magic[\[3\]](#cite-note-3) due to his inhumanity
 -   [Drallis Ehr](Drallis_Ehr.md) of [The Central Authority](The_Central_Authority.md)
-    -   Both the details of The Drowned God they ate and Drallis' powers are unknown.[\[3\]](#cite-note-3)
-
-The [Talent](Talents.md) tree, "[Deepwoken](Talents.md#deepwoken)" possibly hints at the player character having the potential to become a Deepwoken. Though the primary purpose of the character is a means for users to interact with the world of Deepwoken, a few implications have been made about its true origins.
-
--   According to the description of [Erisor's Church](<Erisor's_Church.md>), the player is familiar with the name "Erisor".
-    -   The canonicity of this is unclear, as the lore related to Erisor's Church has been "de-emphasised".[\[4\]](#cite-note-4)
--   The descriptions of the aforementioned Talents (except for Spell Shout) suggest that the player has a unique relationship with [The Depths](The_Depths.md).
+    -   Both the details of The Drowned God they ate and Drallis' powers are unknown.[\[4\]](#cite-note-4)
 
 ## Trivia
 
 -   It is unknown whether or not Deepwoken is an Oath, a state of being, or simply a title; developer Ragoozer has likened it to becoming a [Starkindred](Oath%253A_Starkindred.md)[\[1\]](#cite-note-0-1)—instead of eating a piece of a Drowned God, you eat a piece of a [Celestial](Celestial.md).
--   Although Deepwokens are incredibly powerful, it is still possible for some to (temporarily) reach their level of power. For instance, [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) is said to be on the same level as [Amorus Pleeksty](Amorus_Pleeksty.md), if he can activate his Tempest Eye[\[5\]](#cite-note-5)
+-   Although the Deepwoken are incredibly powerful, it is still possible for some to (temporarily) reach their level of power. For instance, [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md) is said to be on the same level as [Amorus Pleeksty](Amorus_Pleeksty.md), if he can activate his Tempest Eye[\[5\]](#cite-note-5)
 
 ## References
 
 1.  ↑ [1.0](#cite-ref-0-1-0) [1.1](#cite-ref-0-1-1)
 2.  [↑](#cite-ref-2) File:Ragoozer comparing Pleeksty and the First Prophet.png
-3.  [↑](#cite-ref-3) File:DRALLIS EHR DEEPWOKEN.png
-4.  [↑](#cite-ref-4)
+3.  [↑](#cite-ref-3)
+4.  [↑](#cite-ref-4) File:DRALLIS EHR DEEPWOKEN.png
 5.  [↑](#cite-ref-5) [Developer Ragoozer](Lore.md#maestro-evengarde-rest)

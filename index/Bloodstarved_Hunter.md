@@ -1,6 +1,6 @@
 ---
 title: Bloodstarved Hunter
-revid: 197873
+revid: 197876
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Vow of Iron Exclusive]
@@ -26,7 +26,7 @@ This content is not accessible outside of this gamemode.
 
 The Bloodstarved Hunter is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md).
 
-The Bloodstarved Hunter is a [Ganymede](Ganymede.md), wearing a [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) (dyed black), [Hivelord Mask](Hivelord_Mask.md), and the sleeves of a [Diver's Light Plate](<Diver's_Light_Plate.md>).
+The Bloodstarved Hunter is a [Ganymede](Ganymede.md), wearing a [Big Herbalist's Hat](<Big_Herbalist's_Hat.md>), [Hivelord Mask](Hivelord_Mask.md) (dyed black), and the sleeves of a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 
 ## Moveset
 

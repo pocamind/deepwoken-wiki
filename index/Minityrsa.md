@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 194357
+revid: 197880
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, The Ministry, Locations in the Etrean Luminant]
@@ -87,13 +87,11 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 ## Trivia
 
 -   The music for this area is [A Waltz Of Snow And Knights](Deepwoken_OST.md#a-waltz-of-snow-and-knights) by Naktigonis
--   Minityrsa is also called "Mini", "Tundra", "Minnesota" or "Winter Isle" by other players.
+-   Minityrsa is also called "Mini" by other players.
 -   During the Winter, the entirety of Minityrsa is covered in snow. The mix of both sheets of white and permanent snowfall makes the island tedious to traverse.
 -   Enemy NPCs here cannot be assassinated, much like the Songseekers in the [Songseeker Wilds](Songseeker_Wilds.md).
--   Since it is constantly snowing in Minityrsa, it is best to place [Campfires](Campfire_Pit.md) beneath shelter.
--   To travel to Minityrsa, the easiest way to know where to go is to start from [Etris](Etris.md).
-    -   Go through the gates that reveals the 4 statues, then sail right to where the right statue is pointing until you see the "ice spikes" and when you travel farther and see an Island with trees and land, that is Minityrsa.
+-   Since it is constantly snowing in Minityrsa, it is best to place [Campfires](Campfire_Pit.md) beneath shelter or use one of the set spawn campfires.
 -   Wiping for the first time unlocks the ability to spawn here as an origin ([Trial of One](Trial_of_One.md))
--   After beating the trial of one/above power 1, you can slam yourself into the trial door and it will bounce you back and ragdoll. When bouncing yourself back, you will gain exp for Fortitude. Use this to your advantage. Make a wall with Frostdraw and bounce yourself into the door and repeat until max fortitude.
--   Many players pronounce it as 'Mini-tear-risa' instead of it's intended pronounciation 'Mini-tear-sa.'
+-   If you are ineligible to start the Trial of One, (either you've already attempted it, aren't power one, or are [Deepbound](Deepbound.md)), you can slam yourself into the trial door and it will bounce you back and ragdoll. When bouncing yourself back, you will gain exp for Fortitude. Use this to your advantage. Make a wall with Frostdraw and bounce yourself into the door and repeat until max fortitude.
+-   Many players struggle with the pronouciation, calling it names such as "Ministrya" or "Minitrysia," but the actual pronounciation is "Mini-tear-sa."
 -   Strangely, despite the fact that there are many ministry scouts and necromancers here, Minityrsa is not considered to be territory of the Ministry in-game, as it doesn't say "TERRITORY OF THE MINISTRY" under it's name, however this DOES apply to [Outpost Antumbra](Outpost_Antumbra.md), which is located in Minityrsa.

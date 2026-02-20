@@ -1,6 +1,6 @@
 ---
 title: Hemobloom
-revid: 195238
+revid: 197903
 source: https://deepwoken.fandom.com/wiki/Hemobloom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]
@@ -27,6 +27,6 @@ It can be utilized to craft the [Sanguine Transfuser](Sanguine_Transfuser.md), n
 
 It is the only alchemic ingredient so far to have the revitalizing effect, and thus the only way to get the debilitating effect by using antithetic salts.
 
-## Tip(s)
+## Obtainment
 
 -   It is recommended to farm for these with the Harvester talent, as it will give you a chance at collecting 2 per harvest.
