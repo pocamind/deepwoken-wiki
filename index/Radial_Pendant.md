@@ -1,6 +1,6 @@
 ---
 title: Radial Pendant
-revid: 190003
+revid: 197847
 source: https://deepwoken.fandom.com/wiki/Radial_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
@@ -22,6 +22,8 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
 | pass down | No |
 | obtainment | TBA |
 | description | ... |
+
+Variants: [Wheel Pendant](Wheel_Pendant.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 197555
+revid: 197816
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -35,7 +35,7 @@ Variants: [Curved Blade of Winds](Curved_Blade_of_Winds.md)
 
 ## Description
 
-The Eyes of Ethiron is a twisted version of the Curved Blade of Winds. Now infused with [Shadowcast](Shadowcast.md), it combines the power of [Galebreathe](Galebreathe.md) to unleash a torrent of dark, malevolent wind.
+The **Eyes of Ethiron** is a twisted version of the [Curved Blade of Winds](Curved_Blade_of_Winds.md). Now infused with [Shadowcast](Shadowcast.md), it combines the power of [Galebreathe](Galebreathe.md) to unleash a torrent of dark, malevolent wind.
 
 ## Critical
 
@@ -49,4 +49,4 @@ Both criticals have a cooldown of **10 seconds**.
 
 ## Trivia
 
--   The weapon and its name does not directly connect to [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>) himself.\[citation needed\]
+-   Although [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s attacks don't have to do with Shadowcast, this weapon shares the purple gale aesthetically

@@ -1,6 +1,6 @@
 ---
 title: Sap
-revid: 190644
+revid: 197824
 source: https://deepwoken.fandom.com/wiki/Sap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Consumables, Ingredients, Harvestables, Alchemy]
@@ -21,7 +21,7 @@ categories: [Consumables, Ingredients, Harvestables, Alchemy]
 
 ## Description
 
-**Sap** is an [Ingredient](Ingredients.md) in Deepwoken. It can be found on all trees (except for palm trees), and looks like a small, yellow liquid coming out of the tree. It is used frequently in recipes, specifically food items that require sweetness. It also gives the strongest negative speed buff and the strongest positive Ether regen buff.
+**Sap** is an [Ingredient](Ingredients.md) in Deepwoken. It can be found on all types of trees (except for palm trees) in several locations such as [Greathive Aratel](Greathive_Aratel.md), around [Etris](Etris.md), in [Miner's Landing](<Miner's_Landing.md>), and lots of other locations and looks like a small, yellow liquid coming out of the tree. It is used frequently in recipes, specifically food items that require sweetness. It also gives the strongest negative speed buff and the strongest positive Ether regen buff.
 
 For more information, read [Alchemy](Alchemy.md) and [Ingredients](Ingredients.md).
 
@@ -36,6 +36,5 @@ For more information, you can read [Food](Food.md).
 
 ## Trivia
 
--   Sap cannot be found during the Winter.
+-   Sap cannot be found during the Winter, except in Greathive Aratel.
 -   The model when you are holding sap is just a translucent, orange block.
--   Sap can be harvested on the main tree in [Greathive Aratel](Greathive_Aratel.md), trees around [Etris](Etris.md), trees in [Miner's Landing](<Miner's_Landing.md>), and many other areas. Basically, any area with trees has a chance for sap to spawn.

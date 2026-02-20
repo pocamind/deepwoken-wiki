@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Cowl
-revid: 197649
+revid: 197850
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

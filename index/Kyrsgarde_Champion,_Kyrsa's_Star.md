@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 197770
+revid: 197851
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive]
 |---|---|
 | health | 40,000 |
 | attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Altitude Swipes, Frostgrave, Champion’s Quake, Rime-Rise, Splintered Thrust, Crossrend Cryocleave, Shatterline, Blizzard’s Sanction |
-| drops | Gale Essence, Frost Essencee]], Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring |
+| drops | Gale Essence, Frost Essence, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring |
 | locations | New Kyrsa, The Sleeping City |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -226,6 +226,8 @@ Parry
 
 ## Drops
 
+In addition to his drops, he gives 1 on-kill
+
 <table>
 <tbody>
 <tr>
@@ -234,15 +236,19 @@ Parry
 </tr>
 <tr>
   <td><b>Miscellaneous</b></td>
-  <td></td>
+  <td>
+  <ul>
+    <li><a href="Items.md">Items</a>: <a href="Kyrsan_Gem.md">Kyrsan Gem</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Frost_Essence.md">Frost Essence</a>, <a href="Gale_Essence.md">Gale Essence</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Windswept.md">Windswept Enchant Stone</a>, <a href="Kyrsan_Chill.md">Kyrsan Chill Enchant Stone</a></li>
+  </ul></td>
 </tr>
 <tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
-  <td></td>
+  <td><a href="Frostthorn.md">Frost-thorn</a>, <a href="Coldpoint.md">Coldpoint</a>, <a href="Rimebreakers.md">Rimebreakers</a></td>
 </tr>
 <tr>
   <td><b><a href="Equipment.md">Equipment</a></b></td>
-  <td></td>
+  <td><a href="Marrowmade_Boots.md">Marrowmade Boots</a>, <a href="Kyrsan_Necklace.md">Kyrsan Necklace</a></td>
 </tr>
 </tbody>
 </table>

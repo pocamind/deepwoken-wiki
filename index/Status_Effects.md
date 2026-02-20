@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 197622
+revid: 197852
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -42,7 +42,7 @@ Speed boosts are distinctly different from mobility buffs, as the former allows 
 
 ### Mobility Buff
 
-Mobility buffs are very similar to speed boosts, being a movement speed increase, with the effectiveness and duration depending on the source, though they are distinctly different from speed boosts, as they cannot proc speed boost-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#flame-within), [Lightweight](Talents.md#lightweight), other Status Effects, etc.
+Mobility buffs are very similar to speed boosts, being a movement speed increase, with the effectiveness and duration depending on the source, though they are distinctly different from speed boosts, as they cannot proc speed boost-reliant Talents. Mobility buffs do not have a visual indicator, and are applied from a multitude of sources such as: [Flame Within](Talents.md#flame-within), [Lightweight](Talents.md#lightweight), [Stratos' Cloak](<Stratos'_Cloak.md>), other Status Effects, etc.
 
 ### Ragdoll
 
@@ -221,7 +221,7 @@ Have a crystal stacked on you. Upon guard breaking or applying five crystals and
 
 ### Shock
 
-Applies a 1 second stun that interrupts hyperarmor, this does not affect your ability to parry. Additionally applies a 25% slow (40% if you consider hitsun) and disables passive posture regeneration for 1 second on proc. Due to base hitstun being 0.9s, Shock can be seen as only adding 0.1s of additional hitstun to your attacks. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
+Applies a 1 second stun that interrupts hyperarmor, this does not affect your ability to parry. Additionally applies a 25% slow (40% if you consider hitstun) and disables passive posture regeneration for 1 second on proc. Due to base hitstun being 0.9s, Shock can be seen as only adding 0.1s of additional hitstun to your attacks. Applied primarily through [Thundercall](Thundercall.md) Mantras. Signified by lightning particles on your character.
 
 ### Sapped
 

@@ -1,11 +1,11 @@
 ---
 title: Bloodstarved Hunter
-revid: 190448
+revid: 197873
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
+categories: [Stub pages without reason, StubPages, Vow of Iron Exclusive]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Bloodstarved Hunter
@@ -16,6 +16,7 @@ notices:
 | drops | The Death Knell |
 | weapon | The Death Knell |
 | moves | Revenge, Judgement |
+| affiliation | The Ministry |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
@@ -23,7 +24,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Bloodstarved Hunter is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md)
+The Bloodstarved Hunter is a Mini Boss exclusive to [Vow of Iron](Vow_of_Iron.md). They have a chance to appear when igniting a [Sanguine Candle](Sanguine_Candle.md).
+
+The Bloodstarved Hunter is a [Ganymede](Ganymede.md), wearing a [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>) (dyed black), [Hivelord Mask](Hivelord_Mask.md), and the sleeves of a [Diver's Light Plate](<Diver's_Light_Plate.md>).
 
 ## Moveset
 
