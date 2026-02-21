@@ -1,6 +1,6 @@
 ---
 title: "Cryptwaker's Ring"
-revid: 197950
+revid: 197971
 source: https://deepwoken.fandom.com/wiki/Cryptwaker's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Rings, Equipment]
@@ -25,3 +25,9 @@ categories: [Rings, Equipment]
 ## Description
 
 The **Cryptwaker's Ring** enhances your [Parasol's Blight](<Parasol's_Blight.md>) summons, increasing their health and granting a chance for an allied [Bonekeeper](Bone_Keeper.md) to spawn when the enchantment procs.
+
+## Obtainment
+
+Obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)'s chest after defeating him.
+
+Unknown droprate.

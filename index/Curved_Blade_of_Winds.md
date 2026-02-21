@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 197532
+revid: 198005
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -70,3 +70,4 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   The original model was a Wardens Blade with wind particles put onto the blade.
 -   When one-handing this weapon, you have two blades, meaning the two-hand stance only has one.
     -   This often leads people to mistake the single sword stance as the faster stance.
+-   The runes on the blade read "GALEBREATHE" (top side) and gibberish (bottom side).

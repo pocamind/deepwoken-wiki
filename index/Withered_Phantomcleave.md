@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 197627
+revid: 197990
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents, Reforged Weapons]
@@ -39,7 +39,7 @@ Variants: [Alloyed Katana](Katana.md)
 
 ## Description
 
-The Withered Phantomcleave is a Medium Weapon obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Katana](Katana.md) equipped.
+The Withered Phantomcleave is a Medium Weapon obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Alloyed Katana](Katana.md) equipped.
 
 ## Talent: Phantom
 

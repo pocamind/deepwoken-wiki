@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 195635
+revid: 197991
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -94,7 +94,7 @@ For this stage, just mash F once you see the first orb come towards you.
 **Weakened Alpha Megalodaunt + Parry Checks:**
 
   
-**"You stand before the ultimate trial. Push forward, lone warrior."** Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but however if you mess up, you will be taking more dangerous amounts of damage. Also note its use of Tacet (invisibility) in addition to the typical moveset. The orbs deal no posture damage in this trial.
+**"You stand before the ultimate trial. Push forward, lone warrior."** Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but if you mess up, you will be taking more dangerous amounts of damage. Also note its use of Tacet (invisibility) in addition to the typical moveset. The orbs deal no posture damage in this trial.
 
 300 HP.
 

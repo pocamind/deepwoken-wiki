@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 196832
+revid: 198004
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -16,7 +16,25 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 
 -   The player's max Health Points. Starting value is 210 (+4 at Power 1).
     -   Current HP is tracked on the health bar in %, from 100 to 0. When it reach 0%, caused by taking damage, the player is knocked.
--   How to increase: [Power](Power.md) (4 Per power), [Equipment](Equipment.md), [Fortitude](Attributes.md#ftd) (.5 Per investment (this is halved to 0.25 per investment past 50 Fortitude)), [Talents](Talents.md), [Vitality](Traits.md#vitality) (10 per)
+-   How to increase: [Power](Power.md) (+4 Per power), [Equipment](Equipment.md), [Fortitude](Attributes.md#ftd) (+0.5 Per investment (this is halved to +0.25 per investment past 50 Fortitude)), [Talents](Talents.md), [Oaths](Oaths.md), [Vitality](Traits.md#vitality) (+10 per point; max +60 at 6 Vitality)
+    -   Current Talents which give health are:
+        -   Under The Radar (+1)
+        -   Pocket Bombs (+1)
+        -   Termite (+3)
+        -   Master Craftsman (+5)
+        -   Master Attunement \[e.g Bloodrender, Galebreather\](+5)
+        -   Fishman (+5)
+        -   Exoskeleton (+5)
+        -   To The Finish (+5)
+        -   Brick Wall (+5)
+        -   Stratos Step \[[Jetstriker](Oath%253A_Jetstriker.md) Exclusive\](+5)
+        -   Old Habits Die Hard (+5)
+        -   Breathing Exercise (+5)
+        -   Bloodiron Spirit (+5)
+        -   [Oath: Starkindred](Oath%253A_Starkindred.md) \[Oath Exclusive\](+8)
+        -   Attunement Unbounded (+10)
+        -   [Oath: Oathless](Oath%253A_Oathless.md) \[Oath Exclusive\](+10)
+        -   [Oath: Silentheart](Oath%253A_Silentheart.md) \[Oath Exclusive\](+10)
 
 ### Posture
 

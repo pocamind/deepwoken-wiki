@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 197235
+revid: 197999
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents, Craftable]
@@ -42,7 +42,7 @@ The Winter Rifle is a [Medium Weapon](Weapons.md#rifles), part of the rifle cate
 
 Equipping the Winter Rifle grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Subzero** applies the [Deep Freeze](Status_Effects.md#deep-freeze) status effect when you land a running attack. Landing M1s on your opponent after this effect ends will briefly slow them.
+**Subzero** applies the [Frozen](Status_Effects.md#frozen) status effect when you land a running attack. Landing M1s on your opponent after this effect ends will briefly slow them.
 
 ## Critical
 

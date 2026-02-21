@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 197750
+revid: 197980
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -55,7 +55,6 @@ All criticals have a cooldown of **5 seconds**.
     -   When the March 23rd, 2024 update came, the weapon requirements were updated to make it share a req. (65 WLL → 60 WLL, 35 LHT)
 -   This comes from SudoMesh's concept entry (Light's Final Toll) from the Discord's art contest to have their weapon concept added into the game.
     -   As the winner of the contest, he was also given the exclusive [Aberrant Capra](Aberrant_Capra.md) subrace.
--   One of the few weapons that can gain scaling past 100, as with +2/3 WLL races, you can get to a "weapon stat" of 102/103.
 -   The fourth critical previously had a blue eye, having the same functionality of being undodgeable and unblockable.
 -   With its abnormally low base damage of 12, [Akira's Ring](<Akira's_Ring.md>) will only provide an extra 1.1 damage at 100 WLL.
 -   Before October 20th, 2023, the weapon used the base critical for the active fist style.
