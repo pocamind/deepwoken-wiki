@@ -1,6 +1,6 @@
 ---
 title: "Factions & Groups"
-revid: 194233
+revid: 197948
 source: https://deepwoken.fandom.com/wiki/Factions_%26_Groups
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions]
@@ -23,7 +23,7 @@ The primary and reputable factions in _Deepwoken_ include:
 | Faction | Description |
 | --- | --- |
 | [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) | Also known as the Kingdom of Etrea, it occupies half of [the Eastern Luminant](Luminants.md#etrean-and-eastern-luminants) with its territory being in [Etris](Etris.md) and the [Isle of Vigils](Isle_of_Vigils.md). It is temporarily ruled by [the Lord Regent](The_Lord_Regent.md). |
-| [Etrean Royalists](Etrean_Royalists.md) | Serving under the Kingdom of Etrea before they suffered under consisting of four great clans. These clans are known as Ganba, Mofisu, Kobura, and Anako. **They only appear in the [Vow of Iron](Vow_of_Iron.md) Gamemode.** |
+| [Etrean Royalists](Etrean_Royalists.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md) | Serving under the Kingdom of Etrea before they suffered under consisting of four great clans. These clans are known as Ganba, Mofisu, Kobura, and Anako. **They only appear in the [Vow of Iron](Vow_of_Iron.md) Gamemode.** |
 | [The Central Authority](The_Central_Authority.md) [Authorityiconfaction](The_Central_Authority.md) | A predominant military and political force run by [Sovereign Drallis Ehr.](Drallis_Ehr.md) The Authority's goal is to unite all of Lumen in order to stand against [the Depths](The_Depths.md). In [the Eastern Luminant](Luminants.md#etrean-and-eastern-luminants), they are at war with Etrea and the Hundred Legions. |
 | [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md) | A division of [The Citadel of Markor](The_Citadel_of_Markor.md) that conducts expeditions into [the Depths](The_Depths.md) to study its nature and gather materials. |
 | [The Hive](The_Hive.md) [Hiveiconfaction](The_Hive.md) | Operating on four Greathives of Lumen, they seek to rise above the Tides through their use of [Lifeweave](Lifeweave.md). |

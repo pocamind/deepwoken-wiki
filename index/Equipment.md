@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 197379
+revid: 197926
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -2838,7 +2838,7 @@ Innate Effects
 
  |
 |  | [Armorer's Ring](<Armorer's_Ring.md>)  
-(**Legendary**) | Grants a 10% reduction to incoming armor damage. Additionally affects armor damage from the [Metal](Metal.md) Enchant, but does not affect anything from [Ironsing](Ironsing.md).
+(**Legendary**) | Grants a 25% reduction to incoming armor damage. Additionally affects armor damage from the [Metal](Metal.md) Enchant, but does not affect anything from [Ironsing](Ironsing.md).
 
   
 +1 Uncommon Pip

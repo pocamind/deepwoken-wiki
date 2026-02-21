@@ -1,6 +1,6 @@
 ---
 title: Erebus
-revid: 197073
+revid: 197954
 source: https://deepwoken.fandom.com/wiki/Erebus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Exclusive]
@@ -25,3 +25,7 @@ Erebus is an **unobtainable** debuffing enchantment that puts one of your oppone
 ## Effect
 
 Erebus procs on critical attack, applying a 1 minute cooldown to one of your opponent's Mantras. The Mantra that gets put on cooldown is entirely random. This effect has a 2 second cooldown.
+
+## Trivia
+
+After the Operation: DeepHealing update, all copies of **Erebus** and [JOE's](<JOE's.md>) were converted to [Heroism](Heroism.md).

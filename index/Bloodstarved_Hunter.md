@@ -1,6 +1,6 @@
 ---
 title: Bloodstarved Hunter
-revid: 197876
+revid: 197932
 source: https://deepwoken.fandom.com/wiki/Bloodstarved_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Vow of Iron Exclusive]
@@ -21,6 +21,10 @@ notices:
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
+
+“ I will return... That place can't hold me... ”
+
+― The Bloodstarved Hunter upon being executed.
 
 ## Description
 

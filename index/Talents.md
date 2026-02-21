@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 197918
+revid: 197939
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -270,6 +270,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _Placebo Effect_ \[Rare Talent, Intelligence\] - Drinking potions near allies will share the potion's effect with them.
     -   Also procs potion sickness, causing allies to throw up upon usage if they've ingested a potion recently.
+    -   Its effective range is exactly 30 studs.
     -   Prerequisites: 60 Intelligence, interact with a [Cauldron](Cauldron.md)
 
 -   _Potion Quaffer_ \[Rare Talent, Fortitude // Willpower, Intelligence\] - You're accustomed to drinking toxic fluids quickly. You'll get along famously with the other patrons at the tavern. Drinking potions slows less and grants superior regenerative effects to you.

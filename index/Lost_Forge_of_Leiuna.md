@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 197864
+revid: 197937
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -25,7 +25,7 @@ To access the Lost Forge, the [Interluminary Parasol](Interluminary_Parasol.md) 
 
 ## Convertible Weapons
 
-In order to reforge a weapon, you must have it held or equipped.
+In order to reforge a weapon, you must have it held or equipped. It has to be alloyed katana for the wither phantom cleave.
 
 Locked to **ONE** weapon per character.
 

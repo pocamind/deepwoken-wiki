@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 194509
+revid: 197938
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -878,7 +878,7 @@ Wind + Slash
 
 _A servant of wind.  
 Reduces fall damage by 20%.  
-With Specter Path, restores your Spectral Gauge.  
+With Specter Path, gives you bonus spectral gauge when landing mantras.  
 With Haunted Gale, increases the duration of your Phantoms by 3s._
 
  | 
@@ -888,7 +888,7 @@ With Haunted Gale, increases the duration of your Phantoms by 3s._
   
 _A servant of wind.  
 Reduces fall damage by 20%.  
-With Specter Path, restores your Spectral Gauge.  
+With Specter Path, gives you bonus spectral gauge when landing mantras.  
 With Haunted Gale, increases the duration of your Phantoms by 3s._
 
  |

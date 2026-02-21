@@ -1,6 +1,6 @@
 ---
 title: Bone Ring
-revid: 197514
+revid: 197961
 source: https://deepwoken.fandom.com/wiki/Bone_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Rings, Equipment]
@@ -26,8 +26,8 @@ categories: [Rings, Equipment]
 
 The **Bone Ring** is a Ring [Equipment](Equipment.md). It enhances all bone-related attacks you do.
 
-\-increases Marrowmade Boots **Osseus surge** damage from 30 to 45
+\-increases Marrowmade Boots **Osseus surge** damage from 30 to 45.
 
-\-increases Brachial Spears damage from 72 direct hit 90 direct hit & 130 AoE to 165 AoE
+\-increases Brachial Spears damage by 25%.
 
-\-removes bone Wisps Bone launch cooldown & increases base charges from 3 to 5
+\-removes bone Wisps Bone launch cooldown & increases base charges from 3 to 5.

@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 197786
+revid: 197951
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -17,9 +17,9 @@ categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
 | scaling | 3 MED, 4.5 SDW, 3 MND |
 | posture damage | 6 |
 | range | 9.5 Lunge |
-| swing speed | 0.92x |
+| swing speed | 0.93x |
 | attack duration | 0.7s |
-| penetration | 25% |
+| penetration | 15% |
 | talent | Corporeal Dissolution - Any attacks that drain ether now withers them based on the amount of drain as well. |
 | m.equip | No |
 | m.extract | No |

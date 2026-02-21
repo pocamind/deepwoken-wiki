@@ -1,6 +1,6 @@
 ---
 title: Phantom Hunter
-revid: 190335
+revid: 197933
 source: https://deepwoken.fandom.com/wiki/Phantom_Hunter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -20,9 +20,9 @@ categories: [Vow of Iron Exclusive]
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
-“ A summoning? you fool! ”
+“ A summoning? You fool! ”
 
-― Every ministry hunter ever
+― The Ministry Hunters upon being summoned.
 
 ## Description
 

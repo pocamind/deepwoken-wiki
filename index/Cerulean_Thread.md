@@ -1,6 +1,6 @@
 ---
 title: Cerulean Thread
-revid: 196627
+revid: 197952
 source: https://deepwoken.fandom.com/wiki/Cerulean_Thread
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Weapons with Unique Criticals, Light Weapons, Weapons with multiple Criticals]
@@ -43,7 +43,7 @@ The critical of the weapon is divided into two parts.
 
 For the initial critical, the user winds up before thrusting their weapon forward, marking an opponent hit by this attack with a light blue thread. The thread will be broken after ~15 seconds have passed or if the affected opponent vents.
 
-For the follow-up critical, the user performs the normal critical, extending with an upwards strike and ending with a ragdolling backstab. This will not sever the thread upon use.
+For the follow-up critical, the user performs the normal critical, rushing forward before extending with an upwards strike and ending with a ragdolling backstab. This will not sever the thread upon use.
 
 The critical has a cooldown of **3 seconds**, but increases to **5 seconds** on the follow-up.
 

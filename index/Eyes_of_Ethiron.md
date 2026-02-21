@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 197908
+revid: 197959
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -49,4 +49,8 @@ Both criticals have a cooldown of **10 seconds**.
 
 ## Trivia
 
--   Although [Ethiron](<Ethiron,_The_Maelstrom's_Eye.md>)'s attacks don't have to do with Shadowcast, this weapon shares the purple gale aesthetically
+-   This weapon is merely invoking the name of [Ethiron, The Maelstrom's Eye](<Ethiron,_The_Maelstrom's_Eye.md>), and has no further connection to him.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

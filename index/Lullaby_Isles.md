@@ -1,6 +1,6 @@
 ---
 title: Lullaby Isles
-revid: 193723
+revid: 197944
 source: https://deepwoken.fandom.com/wiki/Lullaby_Isles
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations in the Central Luminant, Locations, The Moonlit Faith]
@@ -12,7 +12,7 @@ categories: [Locations in the Central Luminant, Locations, The Moonlit Faith]
 
 **The Lullaby Isles** are a tropical archipelago in the [Central Luminant](Luminants.md#central-luminant) and the homeland of [Chrysids](Chrysid.md) with multiple settlements dotted across the region. The archipelago is circulated by a dense mountain range, known as [the Stoneseye](Lore.md#the-stoneseye-range).[\[1\]](#cite-note-distant-light-1)
 
-The Lullaby Isles are the territory of [The Moonlit Faith](The_Moonlit_Faith.md), which means that they are controlled by the [Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md), which is given orders and overseen by [The Lady Confessor](The_Lady_Confessor.md). If someone's leave isn't sanctioned by [The Moonlit Faith](The_Moonlit_Faith.md) - they aren't allowed back in, as they are seen as traitors and will most likely be sacrificed by burning alive.[\[2\]](#cite-note-marro-2)[\[3\]](#cite-note-pardoner-3)
+The Lullaby Isles are the territory of [The Moonlit Faith](The_Moonlit_Faith.md), which means that they are controlled by the [Council of the Moonlit Faith](Council_of_the_Moonlit_Faith.md), which is given orders and overseen by [The Lady Confessor](The_Lady_Confessor.md). If someone's leave isn't sanctioned by [The Moonlit Faith](The_Moonlit_Faith.md), they aren't allowed back in — they are seen as traitors and are most likely sacrificed by burning alive.[\[2\]](#cite-note-marro-2)[\[3\]](#cite-note-pardoner-3)
 
 [The Central Authority](The_Central_Authority.md) would have conquered the Isles, but finds it a difficult target due to it's geographical location. As [the Stoneseye Range](Lore.md#the-stoneseye-range) is incredibly insurmountable to scale, the archipelago has the high-ground advantage, with the caverns being the only way to bypass the mountain range, which are most likely reinforced as well.[\[1\]](#cite-note-distant-light-1)
 

@@ -1,6 +1,6 @@
 ---
 title: "JOE's"
-revid: 197075
+revid: 197953
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Exclusive, Critical Attack Enchantments]
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-JOE's is an **unobtainable** stunning enchantment that can stop time briefly.
+JOE's was an **unobtainable** stunning enchantment that can stop time briefly.
 
 ## Effect
 
@@ -31,3 +31,7 @@ The duration and AoE of the Stasis Sphere is based on the amount of M1 attacks y
 The creation of the Stasis Sphere is parryable, granting yourself immunity to the effects. While it can also be dodged and blocked, doing so will not benefit you much, as you will still be stuck in stasis. This critical can also be interrupted by hitting the user during the animation.
 
 Upon being blockbroken, a unique visual effect will play and the guardbreak stun will be negated.
+
+## Trivia
+
+After the Operation: DeepHealing update, all copies of **JOE's** and [Erebus](Erebus.md) were converted to [Heroism](Heroism.md).

@@ -1,6 +1,6 @@
 ---
 title: Coldpoint
-revid: 197724
+revid: 197964
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]

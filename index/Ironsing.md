@@ -1,6 +1,6 @@
 ---
 title: Ironsing
-revid: 193547
+revid: 197955
 source: https://deepwoken.fandom.com/wiki/Ironsing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -20,7 +20,7 @@ Ironsing Icon
 
 ## Obtainment
 
-The [Attunement Trainer](Attunement_Trainers.md), [Adar](Adar,_Master_of_Metal.md), can be found inside a tower on the left side of the end of the bridge at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. **If you have obtained Ironsing before, obtaining a [Pluripotent Alloy](Pluripotent_Alloy.md) and talking to the blacksmith is not required.** Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
+The [Attunement Trainer](Attunement_Trainers.md), [Adar](Adar,_Master_of_Metal.md), can be found inside a tower on the left side of the end of [Saramaed Crossing](Saramaed_Crossing.md) at [Miner's Landing](<Miner's_Landing.md>), on the path to the [Starfield Veldt](Starfield_Veldt.md). This bridge always spawns two [Brainsuckers](Brainsucker.md). To unlock Ironsing, you must first have a [Pluripotent Alloy](Pluripotent_Alloy.md). Then, talk to the blacksmith at [Miner's Landing](<Miner's_Landing.md>). He will say that a friend of his is looking for a Pluripotent Alloy. **If you have obtained Ironsing before, obtaining a [Pluripotent Alloy](Pluripotent_Alloy.md) and talking to the blacksmith is not required.** Go to the trainer and he will tell you that he is looking for 6 [ores](Ores.md).
 
 **The ores you need are:**
 
@@ -35,7 +35,7 @@ After you give him these ores, he will give you an Alloyed Elixir. Drink the Eli
 
 **DO NOT LEAVE THE TEXT BOX BEFORE RECEIVING THE ELIXIR.** Doing so will cause the trainer to consume your ores without giving you the potion.
 
-The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md#mineskipper), which can drop all the ores necessary or alternatively you can obtain them from the [Saramaed Hollow](Saramaed_Hollow.md) fairly easily.
+The easiest way to obtain all of the required ores without visiting [The Depths](The_Depths.md) is to obtain them from chest and [Mechalodaunt](Mechalodaunt.md) drops in [Saramaed Hollow](Saramaed_Hollow.md) along with mining ores in [Saramaed Summit](Saramaed_Summit.md). Alternatively, you may visit the cave in [Songseeker Wilds](Songseeker_Wilds.md) and kill [Mineskippers](Mudskipper.md#mineskipper), which can drop all the ores necessary.
 
 ## Training
 
