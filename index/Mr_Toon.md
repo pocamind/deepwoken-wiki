@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 194700
+revid: 198037
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -34,11 +34,14 @@ notices:
 
 The Outfit has 2600 durability, grants +30% Physical Armor, +30% Elemental Armor, +20 Lightning Armor, +20% Shadow Armor, 16 Sanity, and +100% Ether Regeneration.
 
--   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44% Lightning Armor, 55% Shadow Armor, and 30% Elemental.
+-   Due to resistances being combined multiplicatively instead of additively, the total resistances are: 30% Physical, 44% Lightning Armor, 44% Shadow Armor, and 30% Elemental.
 
 Additionally, it provides the [Vow of Mastery](Vow_of_Mastery.md) Talent. Allowing it's user to control and command subjects under its effects.
 
 ## Trivia
 
 -   This armor is worn by Nuttoons.
+
 -   The stats and name of this armor were leaked.
+
+-   Has the same resistances as Black Diver (slightly better due to the ether regen and vow of mastery)

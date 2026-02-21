@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 198007
+revid: 198046
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -59,3 +59,7 @@ For the running critical, the user rapidly thrusts the spear while slowly moving
 Both criticals have a cooldown of **8 seconds.**
 
 These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Talents.md) effects.
+
+## Trivia
+
+-   Unlike the **Red Death** which is refered to as a spear, the **Black Death** is refered to as a pike.

@@ -1,9 +1,11 @@
 ---
 title: Eres
-revid: 191418
+revid: 198055
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Eastern Luminant]
+categories: [Etrean NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Eastern Luminant]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Eres
@@ -26,7 +28,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Found in the settlement on [Meteor Isle](Meteor_Isle.md), Eres was part of an [Etrean Navy](Etrean_Soldier.md) unit that was captured by [The Central Authority](The_Central_Authority.md) in [Aratel](The_Aratel_Sea.md) and imprisoned at [Fort Merit](Fort_Merit.md). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war. He also talks about his relationship with [Sekh](Sekh.md), a [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) who also resides on Meteor Isle.
+Eres is an [Etrean](Etrean.md) NPC. Eres was part of an [Etrean Navy](Etrean_Soldier.md) unit that was captured by [The Central Authority](The_Central_Authority.md) in [Aratel](The_Aratel_Sea.md) and imprisoned at [Fort Merit](Fort_Merit.md). He alludes to being rescued by the settlers on Meteor Isle and has dedicated the remainder of his life to helping others escape the horrors of the war.
+
+He also talks about his relationship with [Sekh](Sekh.md), a [Vesperian](Vesperian.md) [Hive Scout](Hive_Scout.md) who also resides on Meteor Isle.
+
+## Location
+
+Eres can be at [Meteor Isle](Meteor_Isle.md), sitting against a fence.
 
 ## Dialogue
 
@@ -57,7 +65,7 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 <tr>
   <td colspan="6">Uh... no, not exactly... I'm a rescue from the prison at Fort Merit. Initially, I came to Aratel with an Etrean Navy unit, but...</td>
   <td colspan="3">Oh, that... Just a prayer I learned at home. It's... meant to act as a ward. To protect you, from the evils of the world. <i>*Eres glances bitterly at the trinket in his palms.*</i> Little good that has done for me... Though, I suppose I'm still alive. There's that. And it reminds me who I am. It reminds me of home, and keeps me grounded.</td>
-  <td colspan="2">[See first instance.]</td>
+  <td colspan="2">[See first instance]</td>
   <td>--<b>protect us all from clouded sight aspersions cast away with light as crash the tides and winds yet blow as is above thus is below</b>--</td>
 </tr>
 <tr>
@@ -68,9 +76,9 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 </tr>
 <tr>
   <td colspan="6">Our troop was caught unaware and out of position, and we were captured by Central Authority forces. Then they rounded us up like cattle, and took us to Fort Merit... <i>*The young Etrean shudders at the recollection.*</i></td>
-  <td colspan="3">[See first instance.]</td>
+  <td colspan="3">[See first instance]</td>
   <td colspan="2"></td>
-  <td>[See first instance.]</td>
+  <td>[See first instance]</td>
 </tr>
 <tr>
   <td>I'm sorry to hear that.</td>
@@ -112,7 +120,7 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
   <td>What will you do now that you are free? Will you return home to Etrea?</td>
 </tr>
 <tr>
-  <td>[See first instance].</td>
+  <td>[See first instance]</td>
   <td colspan="2">Oh, uhm... You know. Stuff? The weather, the daily going-ons of Meteor Isle, current happenings elsewhere in Aratel... He's a great talker, and a great listener. Witty, too. Talking to him makes my situation much more bearable. Yet, we are still on two opposing sides of war. <i>*He lowers his gaze sheepishly, smiling a little sadly with his eyes.*</i> Maybe one day... things will be different.</td>
   <td><i>*He muses for a moment.*</i> I'm not sure yet... but I think I might stay. Seeking vengeance for myself - or for my fallen friends - is pointless. But helping the people here... We few cannot change the world to make it better for everyone. But if we can make it better for at least some... I feel like that's a cause worth living and dying for. Wouldn't you agree?</td>
 </tr>
@@ -123,12 +131,11 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 </tr>
 <tr>
   <td></td>
-  <td colspan="2">[See first instance.]</td>
+  <td colspan="2">[See first instance]</td>
   <td>You mean Etrea? There is little there for me now. Most of my friends were in our captured unit, and I left no family behind - the Authority raids saw to that. My home is here now. <i>*He looks wistfully into the distance, his glance lingering around one point.*</i> The people I care for are now here.</td>
 </tr>
 <tr>
-  <td></td>
-  <td colspan="2"></td>
+  <td colspan="3"></td>
   <td>[End Dialogue]</td>
 </tr>
 </tbody>
@@ -161,8 +168,7 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 <tr>
   <td colspan="2"><i>-Protect us from clouded sight, Aspersions cast away with light; As crash the tides, and winds yet blow, As is above, thus is below-</i></td>
   <td colspan="2">[See first instance]</td>
-  <td colspan="2">[See "First Encounter"]</td>
-  <td colspan="2">[See "First Encounter"]</td>
+  <td colspan="4">[See "First Encounter"]</td>
 </tr>
 <tr>
   <td colspan="2">Hey. Sorry to interrupt your prayer again. Do you mind if we talk?</td>
@@ -175,7 +181,7 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 
 **Unlockable Dialogue:**
 
-**The player had spoken to Sekh:**
+**Sekh:**
 
 <table>
 <tbody>
@@ -244,24 +250,21 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 <tr>
   <td></td>
   <td>[See "First Encounter"]</td>
-  <td colspan="2">*The young Etrean unwittingly tightens his grasp on the trinket he is holding.* He has? *He pauses, considering his words.* And... what has he told you about me?</td>
+  <td colspan="2"><i>*The young Etrean unwittingly tightens his grasp on the trinket he is holding.* He has? *He pauses, considering his words.*</i> And... what has he told you about me?</td>
   <td>[See "First Encounter"]</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
+  <td colspan="2"></td>
   <td>He said you make his idle hours here more eventful.</td>
   <td>Oh, not much, he just mentioned you two spoke.</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
+  <td colspan="2"></td>
   <td><i>*His pale face turns a light plumfruit shade. He remains quiet for a moment. Then, he speaks up.*</i> That's very nice of him... I appreciate you telling me that. If you talk to him again, let him know I feel the same way. About our talks, I mean... <i>*His mouth crests into a furtive, secret smile that only you can see.*</i></td>
   <td><i>*He slowly purses his lips into a weary frown, looking down at his trinket.*</i> ...I see. It would make sense. We <i>are</i> at war...</td>
 </tr>
 <tr>
-  <td></td>
-  <td></td>
+  <td colspan="2"></td>
   <td>[End Dialogue]</td>
   <td>[End Dialogue]</td>
 </tr>
@@ -273,32 +276,34 @@ Eres is an [Etrean](Etrean.md) NPC. His racial variant appears to be Mamba. Foun
 <table>
 <tbody>
 <tr>
-  <td colspan="14">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="14">*The young Etrean, although seemingly deep in prayer, appears to sense your nearby presence. In response, he furrows his brow and coldly ignores you.*</td>
+  <td><i>*The young Etrean, although seemingly deep in prayer, appears to sense your nearby presence. In response, he furrows his brow and coldly ignores you.*</i></td>
 </tr>
 <tr>
-  <td colspan="14">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
+-   His racial variant appears to be Mamba.
 -   Based on Eres' story, some of the [Etrean prisoners](Etrean_Guardsman_Hostage.md) in Fort Merit that the player can rescue may be his friends.
     -   However, it is equally likely that - as Eres fears - his friends have already been executed and the Etreans in Fort Merit are from a different unit.
--   Eres' prayer [references](Lore.md) a "king", who could be the Fifth King of Etrea - Eres asks for help resisting the "ocean's call", and it is said that the Fifth King could cut through the waves themselves. Finally, the prayer references "clouded sight", which could be [The Lord Regent](The_Lord_Regent.md)'s mental veil.
+-   Eres' prayer references a "king", who could be the Fifth King of Etrea - Eres asks for help resisting the "ocean's call", and it is said that the Fifth King could cut through the waves themselves.[\[1\]](#cite-note-1) Finally, the prayer references "clouded sight", which could be [The Lord Regent](The_Lord_Regent.md)'s mental veil.
     -   However, it would be bizarre for the latter to be the case, as it would imply a prayer about resisting their current leader somehow became common among the people, despite the Lord Regent controlling the flow of information.
     -   It is likely that despite his distance from Etrea, Eres is still under the influence of the Lord Regent's veil, as the only recorded case of this veil being broken resulted in the veiled one's brutal death.
         -   Given Inquisitor Lotus' description of Authority Mind Veils, and Zi'eer's being a more powerful variant, this is most likely the case, unless the Lord Regent traded the range of the Veil in exchange for it's ability to affect multiple people.
     -   The "ocean's call" may also simply refer to the power of the Drowned Gods and the Tides.
 -   Eres' opening dialogue in subsequent conversations says that he sitting "against a wall", although there are no walls near him; only benches.
--   [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis), the game's sound and music producer, wrote the dialogue for Eres.[\[1\]](#cite-note-1)
--   Eres and Sekh are stated to both be gay[\[2\]](#cite-note-2), but appear to be stuck in the talking phase.
--   Eres' dialogue is one of the longest conversations you can have with an NPC in game.
+-   Developer [Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis) wrote the dialogue for Eres.[\[2\]](#cite-note-2)
+-   Eres and Sekh are stated to both be gay[\[3\]](#cite-note-3), but appear to be stuck in the talking phase.
 
 ## References
 
-1.  [↑](#cite-ref-1)
+1.  [↑](#cite-ref-1) NPC dialogue: [Theadre](Theadre.md)  
+    _It is said that his Ardour could cut the seas themselves... But where are you now, oh King?..._
 2.  [↑](#cite-ref-2)
+3.  [↑](#cite-ref-3)

@@ -1,6 +1,6 @@
 ---
 title: The Hive
-revid: 195006
+revid: 198053
 source: https://deepwoken.fandom.com/wiki/The_Hive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, In progress with reason, InProgressPages, Factions, The Hive]
@@ -35,7 +35,7 @@ They frequently get into battles with [The Kingdom of Etrea](Etrea.md), who atte
 
 As with all other groups in the game, having too low of a reputation with the Hive will have multiple adverse effects. The [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md) and all Store NPCs will refuse to trade with you if the Hive considers you an enemy. As per any other guard, [Hive Guards](Hive_Guard.md) will attack you on sight below a certain Reputation. In addition to that, Hive Adjudicators and [Constructs](Hive_Construct.md) will also spawn and attack you if your reputation with the Hive proceeds to worsen.
 
-To restore your reputation with the Hive, head to [The Lordsgrove](The_Lordsgrove.md) behind the huge gate in [Starswept Valley](The_Starswept_Valley.md). You can only get through the gate by washing your face in the [Lightkeeper Temple](Lightkeeper_Temple.md). After that, you can get through the door to The Lordsgrove, as you traverse through The Lordsgrove, you encounter a Ganymede named "[Zirik](Reputation.md)", who is standing outside a small ruin. Talking to this NPC whilst your Reputation with the Hive is favourable will not result in anything. However, if you speak to him whilst you are considered an Enemy of the Hive, he informs you that "your name has spread quickly among the trees". After that, he also mentions your name being a "good name" before implying that he could help.
+To restore your reputation with the Hive, head to [The Lordsgrove](The_Lordsgrove.md) behind the huge gate in [Starswept Valley](The_Starswept_Valley.md). To unlock access you must wash your face at a fountain on a cliffside far right of Aratel island. After that, you can get through the door to The Lordsgrove, as you traverse through The Lordsgrove, you encounter a Ganymede named [Zirik](Zirik.md), who is standing outside a small ruin. Talking to this NPC whilst your Reputation with the Hive is favourable will not result in anything. However, if you speak to him whilst you are considered an Enemy of the Hive, he informs you that "your name has spread quickly among the trees". After that, he also mentions your name being a "good name" before implying that he could help.
 
 In addition, helping Hive Guards in the following events will allow you to increase your reputation with the Hive:
 
@@ -70,8 +70,6 @@ Neutral-Bad Reputation:
 Gift of Life: A Lifeweave construct created by Zithori, and imbued with a part of his soul. They are the 8th Greatlord of The Hive, and currently lead the faction. They are a separate person from Zithori, despite possessing a piece of his soul[\[2\]](#cite-note-2)
 
 [Zithori Vhemm Miziri Diri](Developer_Specs.md): Greatlord Zithori Vhemm Miziri Diri was the 7th Greatlord and former leader of The Hive. He was replaced by the Gift of Life after his death.
-
-[Ximac Diri](Ximac_Diri.md): Hivelord Ximec Diri of the Second was the Hivelord of one of the Hives Greathives. He was replaced following an incident that lead to numerous deaths.
 
 [Laplace Diri](Laplace.md): A Ganymede who is a member of the Diri Family, thus being related to Miziri and Ximac Diri, he is capable of changing the enchantment of a weapon by wrapping the three enchants together in Linen (Flax Plant fibers turned to Textile) and using an unspecified technique derived from Miziri Diri.
 
