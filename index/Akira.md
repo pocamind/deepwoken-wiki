@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 197463
+revid: 198022
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
@@ -25,15 +25,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Akira is a young Etrean with widely scuffled hair, a frown, and sharp eyes. He wears the Black Diver outfit, and a pair of Dewdrop Earrings.
+Akira is a young [Etrean](Etrean.md) with widely scuffled hair, a frown, and sharp eyes. He wears the [Black Diver](Black_Diver.md) outfit, and a pair of [Dewdrop Earrings](Dew_Drop_Earrings.md).
 
-He has a Katana behind his back and a [Corrupted Bell](Resonance.md#corrupted-resonances) resting at his hip. He additionally wears a pitch black [Kyrsan Necklace](Kyrsan_Necklace.md).
+He has a [Katana](Katana.md) behind his back and a [Corrupted Bell](Resonance.md#corrupted-resonances) resting at his hip. He additionally wears a pitch black [Kyrsan Necklace](Kyrsan_Necklace.md).
 
 His [Bell](Resonance.md) (Corrupted Top-Pop) allows him to instantaneously grip any entity he wishes at the cost of his lifespan and power. However, the stronger the target is, the more power and lifespan he will have to sacrifice to kill them.
 
 Players who have 75 Charisma can intimidate him into retreating. Akira's perception of you being an extremely intimidating and strong threat probably leads him to the reasonable conclusion that he's not going to get away with using his Bell on you without experiencing large repercussions, and thus retreats to another area.
 
-Despite him lacking in the experience department due to his young age, he's one of the strongest Black Divers, surpassing Klaris, Chaser and the strongest players.[\[1\]](#cite-note-1)
+Despite him lacking in the experience department due to his young age, he's one of the strongest Black Divers, surpassing [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) and the strongest players.[\[1\]](#cite-note-1)
 
 ## Location
 

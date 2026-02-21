@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 197760
+revid: 198027
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -10,39 +10,30 @@ categories: [Items, Attributes, Attunement, Training Gear]
 
 ## Description
 
-**Training Gears** are tools that increase the player's [Attributes](Attributes.md), with each one improving one specific stat.
+**Training Gears** are a variety of tools that increase the player's [Attributes](Attributes.md) and [Attunements](Attunements.md) accordingly. More information regarding [Attributes](Attributes.md) and [Attunements](Attunements.md) can be found on their respective pages.
 
-For more general information on [Attributes](Attributes.md), like what each attributes do, how to upgrade them without training gears, and what they offer, please visit its respective page. This page is just to showcase how training gears are used, where they are available, and what the training gears look like.
+They can be found in different [Gear Cabinets](Training_Gear.md) around Lumen, each one costing 25 and selling for 3. Fresh spawns will start with three Training Gears, one correlating with their highest attribute, one correlating with their highest attunement, and a [Weapon Manual](Weapon_Manual.md). In the case of a player not having any attunement investment, they will spawn with a Training Gear correlating with their second highest attribtue instead.
 
-## Training Messages
+## Usage
 
-Attempting to train an attribute may display a certain message, hinting at something that needs to be done before you're able to train.
+Most of the attribute training gears are self explanatory, though some training gears have their own quirks to bear in mind.
 
-If you get the message "I've learnt what I can from training right now, I should put it into practice..." or "Repeat training will do no good without proper experience" when using a training gear it means that you need more XP for you to start investing points.
-
-Training an attribute or attunement to 75 will prevent you from training it further and the message "I've hit a wall in my training... Maybe there's some way to break it?" will appear when attempting to. This is a hint towards [unbounding the attribute](Attributes_Unbound.md), which allows more points to be invested past 75.
-
-The message that appears when training an attunement, "The elements are not in alignment..." is a hint relating to obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md) and will persist unless you meet the attunement stat requirements for it, which, unless you go out of your way to meet them with the intent to obtain Saintsworn, you most likely won't.
-
-## [Attribute](Attributes.md) Training Gears
-
-Each [Attribute](Attributes.md) has a Training Gear correlated to it. Using these Training Gears will allow you to automatically increase the Attribute connected to it.
-
-### Training/Notes
-
-Most of the attribute training gears are self explanatory, though some training gears have their own quirks and things to bear in mind.
-
--   **Boulder** is a convenient way to upgrade your [Fortitude](Attributes.md#ftd). You can keep using it while having no [experience](Leveling.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.** It also trains strength alongside this.
+-   **Boulder** is a convenient way to upgrade your [Fortitude](Attributes.md#ftd). You can keep using it while having no [experience](Leveling.md) as well, as long as you have enough health. **Though beware: You can die if you use it while having no health.** It also trains [Strength](Attributes.md#str) alongside this.
 -   **Training Vest**, after equipping it, will only work if someone hits you. Boulder is recommended over Training Vest because of this reason.
 -   **[How to Make Friends](How_to_Make_Friends.md)** can be trained by clicking the words around the screen. You don't necessarily have to type to use this.
 -   **Encyclopedia** is useful for those who are too lazy to do the minigames of [How to Make Friends](How_to_Make_Friends.md) or Math Textbook. Although the downside of this is that it takes a long time to use it once, making it slower to use. You train both Intelligence and Charisma with this.
--   **Weapon Manual**: You can switch which weapon attribute you're training depending on the current weapon that you are using.
+-   **[Weapon Manual](Weapon_Manual.md)**: You can switch which weapon attribute you are training depending on the type of the weapon that you are using.
 
-**If you are struggling trying to upgrade your Attributes, visit the [Attributes](Attributes.md) page.** It details what you need to do for each basic attributes and it has lot of other useful information that might be worth knowing.
+### Training Messages
 
-### Cost
+Attempting to train an attribute may display a certain message, hinting at something that needs to be done before you're able to train.
 
-All of the training gears cost 25 and sell for 3. Use of the item will not affect the sell cost.
+| Message | Meaning |
+| --- | --- |
+| I've learnt what I can from training right now, I should put it into practice... | You require more experience before you use that training gear. Experience can be gained from killing enemies, and other miscellaneous activities. |
+| Repeat training will do no good without proper experience. |
+| I've hit a wall in my training... Maybe there's some way to break it? | You've reached the max value for an attribute, and need to [unbound your attribute](Attributes_Unbound.md) to progress further. |
+| The elements are not in alignment... | A hint towards obtaining the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md). The exact requirements for Saintsworn can be found on its respective page. |
 
 ## List of Training Gears
 
@@ -241,9 +232,6 @@ A held hearthgem
 
 ## Trivia
 
--   Upon creating a character, you will always spawn with a Weapon Manual.
--   Upon creating a character with an Attunement, you will spawn with 2 Training Gears; One correlating to your highest core attribute stat, and the other being your highest attunement stat. (For example, if your highest stat is Fortitude, and you have 5 Flamecharm & 6 Shadowcast, you will spawn with a Training Vest & Pure Heart). However, if you spawn with only 1 invested point into attunement stats, you will spawn with a different training gear instead.
-    -   Upon creating a character with No Attunement, you will spawn with 2 Training Gears correlated with your highest core attributes (For example, if your highest stats are Strength & Agility, you will spawn with a Dumbbell & Ankle Weights).
 -   You can't spawn with a Boulder when creating a character, as it will instead allocate a Training Vest.
 -   Ankle Weights slightly reduce your movement speed upon being worn.
 -   All Attributes can be trained by just obtaining general EXP.

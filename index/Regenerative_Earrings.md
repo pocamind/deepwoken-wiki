@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 197919
+revid: 198031
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -20,10 +20,10 @@ notices:
 | innate stats | +5 Ether1 Legendary Pip |
 | innate talent | Blood Convergence |
 | set talent | Critical Heal |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Crafted at the Lost Forge with Old Blood Earrings, 5x Vampirism Enchant Stones, and 1x Parasol Membrane |
 | description | Wearing these fills you with a newfound sense of vitality. |
 

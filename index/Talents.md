@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 197939
+revid: 198035
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3175,7 +3175,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This Talent was merged with the old Black Out Talent.
     -   Mutual Exclusive: Singularity
 
--   Singularity \[Common Talent, Shadowcast\] - Enemies will briefly hang in place when hit by a shadow move.
+-   Singularity \[Common Talent, Shadowcast\] - Enemies will briefly hang in place when hit by a shadow move. Also procs Shaky Block.
     -   Prerequisite: 40 Shadowcast
     -   Mutual Exclusive: Sightless Still
 

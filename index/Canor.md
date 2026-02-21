@@ -1,6 +1,6 @@
 ---
 title: Canor
-revid: 185034
+revid: 198023
 source: https://deepwoken.fandom.com/wiki/Canor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -23,7 +23,7 @@ Chance of obtaining aspect: **13%**
 
 ## Description
 
-Canor is an uncommon [aspect](Aspects.md) considered to have the characteristics of a canine but the attributes and features of a lion and dog. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, most of their original ones having died out, but their loyalty and dedication often results in them being high ranking members among the whole Lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Their blind loyalty is such that they receive marginal preferential treatment from the otherwise prejudiced Central Authority. Canor have three distinct facial markings to choose from.
+Canor is an uncommon [aspect](Aspects.md) considered to have the characteristics of a canine but the attributes and features of a lion. Canor appear with a mane and varying facial markings around their eyes. They benefit from a Strength and Charisma bonus upon selection as well as reduced damage to and from guildmates. Canor don't strongly side with any particular faction, most of their original ones having died out, but their loyalty and dedication often results in them being high ranking members among the whole Lumen, such as [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) of The Divers, [Morredh](Vice_Warden_Morredh.md) of The Authority, and [Alpha](Alpha.md) of the Ignition Union. Their blind loyalty is such that they receive marginal preferential treatment from the otherwise prejudiced Central Authority. Canor have three distinct facial markings to choose from.
 
 ## Traits
 
@@ -154,5 +154,6 @@ Canor has optional face markings that vary in appearance on each variant. These 
 -   The design of the Canor is partially inspired by Mereleona from black clover confirmed by arch\_mage.
 -   The Lord Regent, seemingly, does not like Canor for an unknown reason.
 -   During the 4/1/2022 April Fools update ([Mudwoken](Mudwoken.md)), Canor's aspect name was changed to Muttskipper.
--   Arch\_Mage has confirmed Canor to be based on both Lions and dogs.
+-   Arch\_Mage has confirmed Canor to be based on lions and dogs.
     -   This made them related to the once hated aspect known as the [Felinor](Felinor.md) due to the fact that Lions and Cats are part of the Felidae family.
+    -   The name Canor is notably similar to canid, or canine, a term used for dogs. They also possess the unique Lone Wolf passive in Vow of Iron, further supporting their canine nature.

@@ -1,6 +1,6 @@
 ---
 title: Charged Bonecharm
-revid: 197922
+revid: 198030
 source: https://deepwoken.fandom.com/wiki/Charged_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Monster Mantra Ingredients]
@@ -25,4 +25,4 @@ The **Charged Bonecharm** is a [Relic](Relics.md) item used to gain the "[Bone W
 
 This item is obtained from trading the [Kyrsan Necklace](Kyrsan_Necklace.md) with [the Gaunt Man](The_Gaunt_Man.md) after completing his experiments.
 
-Every 2 m1's, the wisp shoots out a bone projectile dealing (???) damage towards your enemy
+Every 2 m1's, the wisp shoots out a bone projectile dealing 16 typelss damage towards your enemy

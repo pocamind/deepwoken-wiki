@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 192931
+revid: 198036
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -44,7 +44,7 @@ If you have Imperium Kata and other [Fist Styles](Fists.md) (except for [Jus Kar
 
 The user performs two swift side kicks and is slowed by 60% for the duration of the critical. Despite slowing you, the critical gives you a 12.5% speed boost for 2.5 seconds, allowing you to benefit from Talents such as [Speed Demon](Talents.md#speed-demon) even after the critical ends.
 
-Imperium Kata's critical gains 5 Thundercall Scaling if you have [Static Withdraw](Talents.md#static-withdraw) active.
+Imperium Kata's critical gains 5 Thundercall Scaling if you have [Electrify](Talents.md#electrify) active.
 
 The first hit deals 1.2x your weapon's base damage, the second hit deals 2x your weapon's base damage. This critical isn't affected by your weapon's weight stat or weight stars, dealing 6.8 posture damage on the first hit and 10.2 on the second regardless of weapon choice.
 

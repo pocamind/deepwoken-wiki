@@ -1,6 +1,6 @@
 ---
 title: Character Stats
-revid: 198004
+revid: 198018
 source: https://deepwoken.fandom.com/wiki/Character_Stats
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -15,31 +15,13 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 ### Health
 
 -   The player's max Health Points. Starting value is 210 (+4 at Power 1).
-    -   Current HP is tracked on the health bar in %, from 100 to 0. When it reach 0%, caused by taking damage, the player is knocked.
+    -   Current HP is tracked on the health bar in %, from 100 to 0. When it reaches 0%, caused by taking damage, the player is knocked.
 -   How to increase: [Power](Power.md) (+4 Per power), [Equipment](Equipment.md), [Fortitude](Attributes.md#ftd) (+0.5 Per investment (this is halved to +0.25 per investment past 50 Fortitude)), [Talents](Talents.md), [Oaths](Oaths.md), [Vitality](Traits.md#vitality) (+10 per point; max +60 at 6 Vitality)
-    -   Current Talents which give health are:
-        -   Under The Radar (+1)
-        -   Pocket Bombs (+1)
-        -   Termite (+3)
-        -   Master Craftsman (+5)
-        -   Master Attunement \[e.g Bloodrender, Galebreather\](+5)
-        -   Fishman (+5)
-        -   Exoskeleton (+5)
-        -   To The Finish (+5)
-        -   Brick Wall (+5)
-        -   Stratos Step \[[Jetstriker](Oath%253A_Jetstriker.md) Exclusive\](+5)
-        -   Old Habits Die Hard (+5)
-        -   Breathing Exercise (+5)
-        -   Bloodiron Spirit (+5)
-        -   [Oath: Starkindred](Oath%253A_Starkindred.md) \[Oath Exclusive\](+8)
-        -   Attunement Unbounded (+10)
-        -   [Oath: Oathless](Oath%253A_Oathless.md) \[Oath Exclusive\](+10)
-        -   [Oath: Silentheart](Oath%253A_Silentheart.md) \[Oath Exclusive\](+10)
 
 ### Posture
 
 -   The player's max Posture. Starting value is 20.
-    -   Current Posture is tracked on the posture bar in %, from 0 to 100. When it reach 100%, reached by blocking too many hits, the player is guard broken: they are stunned and their posture is cleared.
+    -   Current Posture is tracked on the posture bar in %, from 0 to 100. When it reaches 100%, reached by blocking too many hits, the player is guard broken: they are stunned and their posture is cleared.
 -   Max Posture can be greatly increased by using a [Shield](Shields.md).
 -   How to increase: [Shields](Shields.md), [Equipment](Equipment.md), [Talents](Talents.md)
 
@@ -52,13 +34,13 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 ### Sanity
 
 -   The player's max Sanity. Starting value is 80.
-    -   Insanity is tracked with Sanity as its max value. When your sanity % goes below 70/30/10%, detrimental effects will be applied. At 70% Sanity or Tier 1 [Insanity](Insanity.md), the player will periodically shiver, slowing their movements. At 30% Sanity or Tier 2 [Insanity](Insanity.md), the player will periodically scratch themselves instead of shivering, dealing self damage. At 10% Sanity or Tier 3 [Insanity](Insanity.md), the player will gouge at their eyes followed by scratching, dealing self damage and stunning themselves in an animation. If you are knocked at Tier 3 Insanity, you will instantly be gripped.
+    -   Insanity is tracked with Sanity as its max value. When your sanity % goes below 70/30/10%, detrimental effects will be applied. At 70% Sanity or Tier 1 [Insanity](Insanity.md), the player will periodically shiver, slowing their movements. At 30% Sanity or Tier 2 [Insanity](Insanity.md), the player will periodically scratch themselves instead of shivering, dealing self-damage. At 10% Sanity or Tier 3 [Insanity](Insanity.md), the player will gouge at their eyes followed by scratching, dealing self-damage and stunning themselves in an animation. If you are knocked at Tier 3 Insanity, you will instantly be gripped.
 -   How to increase: [Willpower](Attributes.md#wll), [Equipment](Equipment.md), [Talents](Talents.md)
 
 ### Stealth
 
 -   The player's max Stealth. Starting value is 0%.
-    -   Stealth can only be tracked in the campfire UI. Player becomes more stealthy, lowering the detection range of mobs.
+    -   Stealth can only be tracked in the campfire UI. Player becomes stealthier, lowering the detection range of mobs.
 -   How to increase: [Agility](Attributes.md#agl), [Equipment](Equipment.md), [Talents](Talents.md) (check the [Stealth](Stealth.md) page for more info)
 
 ### Carry Load
@@ -69,7 +51,7 @@ _Each player gets 330 investment points per slot, from Level 1-20, including inv
 
 ### Mantra Slots
 
--   The amount of Mantras of a given type the player can own. Starts at 3 Combat, 1 Mobility, 1 Support and 1 Wildcard.
+-   The number of Mantras of a given type of the player can own. Starts at 3 Combat, 1 Mobility, 1 Support and 1 Wildcard.
     -   If the player is out of room, additional Mantras can be obtained, but the player is required to replace a Mantra of the same category. Otherwise, it is placed in the inventory.
 -   How to increase: [Oaths](Oaths.md), [Talents](Talents.md)
 
@@ -93,7 +75,7 @@ Check out this website to better understand the calculation and try it out inter
 
 #### Damage Reduction Calculation
 
-Equipment resistances are additive to eachother while everything else is combined multiplicatively, leading to the following formula:
+Equipment resistances are additive to each other while everything else is combined multiplicatively, leading to the following formula:
 
 Total damage reduction = (1 - ((1 - 0.Outfit General resist) \* (1 - 0.Outfit Specific resist) \* (1 - (0.Equipment resist + 0.Equipment resist + 0.Equipment resist + ...)) \* (1 - 0.other resists) \* (1 - 0.other resists) \* ...)) \* 100
 

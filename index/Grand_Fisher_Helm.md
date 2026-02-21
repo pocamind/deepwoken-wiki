@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Helm
-revid: 195441
+revid: 198025
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, The Divers]
@@ -20,7 +20,7 @@ categories: [Equipment, Head, Helmets, The Divers]
 | set | Grand Fisher Helm, Grand Fisher Plate |
 | set talent | N/A |
 | bankable | Yes |
-| droppable | Yes |
+| droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
 | obtainment | Diver's Faction Job "The Fisherman" Guaranteed Drop |

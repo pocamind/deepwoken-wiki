@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Order
-revid: 197346
+revid: 198029
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Order
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -34,7 +34,7 @@ Also located in [Temple of Hearts](../Temple_of_Hearts.md), being the first larg
 
 For 10, average your stats (up to a limit\*). This can only be done once per character.
 
-**You need Power 8+ and no [Oath](../Oaths.md) (excluding [Oathless](../Oath%253A_Oathless.md)) to perform this deal.** If you took an Oath beforehand, you may break the Oath to order yourself. This has [consequences](../Oaths.md#oathbreaker---oath-removal) of its own, however.
+**You need Power 8+ and no [Oath](../Oaths.md) (having [Oathless](../Oath%253A_Oathless.md) will still allow you) to perform this deal.** If you took an Oath beforehand, you may break the Oath to order yourself. This has [consequences](../Oaths.md#oathbreaker---oath-removal) of its own, however.
 
 ### Details
 
