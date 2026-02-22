@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 193957
+revid: 198126
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -48,6 +48,12 @@ Despite all of the above, they behave like regular Megalodaunts. Master its atta
 (★★☆)
 
  | Four short range swipes using their arms.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#green)
+
+Green
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 185016
+revid: 198120
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -30,11 +30,12 @@ It has some basic functions but merely acts as a safe place for moderators to wo
 
 ### Yum-Yum Machine
 
--   A machine with a big button that says "HUNGRY". Interacting with it gives a a [YUM YUM BAR](YUM_YUM_BAR.md), with a cooldown of 10 minutes. The item restores 50 hunger and 50 thirst. Its food type is Plant / Meat / Yum. It is not droppable however. "A bar of what appears to be cement, wrapped in flimsy paper, I'm told that it's food, though my colleagues seem to be shaking their heads at me and mouthing 'no'."
+A machine with a big button that says "HUNGRY". Interacting with it gives a a [YUM YUM BAR](YUM_YUM_BAR.md), with a cooldown of 10 minutes.
 
 ### Gallery
 
--   A gallery containing portraits of Moderators are hung across the walls.
+A gallery containing portraits of Moderators are hung across the walls.
+
 -   At the end of the hall, there is a sword in a stone.
 -   Other than being a gallery, this also serves as an arena for Moderators to fight.
 
@@ -42,60 +43,47 @@ It has some basic functions but merely acts as a safe place for moderators to wo
 
 A place of where the moderators learn..
 
-Do tickets or go to detention
+### The Cat's Bed
 
-A supposed moderator in detention
+A run-down basement in the office, housing many shelves and a [certain Creature](<The_Cat's_Bed.md>).
 
-Overview of the Kindergarden
+-   At the very end is a small desk covered in talismans and canned YUM YUM serviced by the Creature that acts as an [Antiquarian](Antiquarian.md). It will constantly look at the player depending on their position.
+-   One of the shelves contains books titled:
+    -   The Ingenius Gentleman Duke Ishamon of Erisia
+    -   Book of a Mod Office Fixer
+    -   Tasting New Kyrsa - Recipes from the Second Layer
+-   Some posters are seen scattered across the room.
 
-A drawing of HorrorTM on the wall with a speechbubble.
-
-### Fishing
+### Fishing Pit
 
 An area where the moderators can [fish](Fishing.md), however if you fall down into the pit, you get sent down to the [Depths](First_Layer.md) spawning directly in front of [Castle Light](Castle_Light.md).
 
 ### Kitchen
 
--   An ordinary kitchen you would find in an office.
--   A fridge manufactured by "Horror Corp." The top door has a magnet of the Transgender flag.
+An ordinary kitchen decorated with motivational posters.
 
--   Motivational posters are hung, all of these reading:
-
-SELF-WORTH  
-MY HEAD MAY BE SKINNY AND TALL BUT AT LEAST I'M NOT A FELINOR
-
-DETERMINATION  
-DESIRE IS THE KEY TO MOTITVATION, BUT IT'S DETERMINATION AND COMMITMENT TO AN UNRELATING PURSUIT OF YOUR GOAL
-
-SURVIVAL  
-SURVIVAL DEPENDS ON WHAT YOU THINK, NOT WHAT YOU DO
-
-**Mindfulness..**  
-or something
-
--   There is also a "Coffee Machine", which is actually bags of blood connecting to a jar.
--   A microwave acting as an interactable campfire.
+-   Contain a fridge manufactured by "Horror Corp." The top door has a magnet of the Transgender flag.
+-   There is a "coffee" machine that can be used to dispense "coffee" for a moderator to drink, which is actually a
+-   Additionally, there is a microwave that can be used as a campfire.
 
 ### Cosmetics Room
 
--   A room populated by [Fadetrimmer](Oath%253A_Fadetrimmer.md) entities.
+A room populated by [Fadetrimmer](Oath%253A_Fadetrimmer.md) entities.
+
 -   [Glumbo](<Barber_(Glumbo).md>) - A Reskinned dark humanoid barber.
 -   Contains a machine that dispenses Dye Packets.
 
-### Office Creature
-
--   Jeffery the Office Creature is a flying cat that ragdolls anyone hit by him.
--   He releases a "Meow" sound effect whenever he hits someone or a surface.
-
 ### Shrine Room
 
--   A room with interactable plaques of [Deep Shrines](Deep_Shrines.md) across the wall, labelled accordingly.
+A room with interactable plaques of [Deep Shrines](Deep_Shrines.md) across the wall, labelled accordingly.
+
 -   Consumes knowledge as any normal shrine would.
--   Contains a [Mystic](Mystic.md).
 
-### HorribleTM
+### Office Creature
 
--   An entity resembling head moderator HorrorTM.
+Jeffery the Office Creature is a flying cat that ragdolls anyone hit by him.
+
+-   He releases a "Meow" sound effect whenever he hits someone or a surface.
 
 ## Maps
 
@@ -105,12 +93,12 @@ A map can be found at [Maps#The Hall of Shattered Wills](Maps.md#the-hall-of-sha
 
 -   The music for this area is [Of Labours, Veiled](Deepwoken_OST.md#of-labours-veiled) by Naktigonis
 -   The sword is from one of Nuttoon's previous projects.[\[1\]](#cite-note-1)
--   The room is located at the coordinates X 40000, Y 40000, Z 40000.
--   The computer screens depict the Discord interface.
--   The cooldown and nutritional values of the YUM YUM BAR are made in such a way that it is impossible to sustain oneself with just YUM YUM BAR. Mods often accidentally starve to death while performing moderation work.
+-   This location is located at the coordinates X 40000, Y 40000, Z 40000.
+-   The books The Ingenius Gentleman Duke Ishamon of Erisia and Book of a Mod Office Fixer reference the Spanish novel _[Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)_ and the general naming scheme of books in _Library of Ruina_ respectively.
+-   Most of the computer screens depict the Discord interface.
 -   The "Kindergarten" area is a reference to the Indie Mascot-Horror series "Garten of Banban", including the name itself.
 -   The block above the ropes holding the "Fish" sign is the same model as the microwave in the kitchen.
--   Moderator can use the points they gain through moderation actions to:
+-   Moderators can use points they gain through moderation actions to:
     -   Funnel points into renovations/upgrades to the mod office.
         -   Top contributors get their own desk.
     -   Buy a picture frames for a drawing of their character to be displayed in the office.

@@ -1,6 +1,6 @@
 ---
 title: Etrean Royalists
-revid: 196393
+revid: 198128
 source: https://deepwoken.fandom.com/wiki/Etrean_Royalists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages]
@@ -57,6 +57,9 @@ The Royalists have a Reputation reset NPC, [Yen](Yen.md), near the front of the 
 -   [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md)
 -   [Sachan Choji Mofisu](Sachan_Choji_Mofisu.md)
 -   [Yen](Yen.md)
+-   [Kazue](Kazue.md)
+-   [Ferenc](Ferenc.md)
+-   [Seon](Seon.md)
 -   [Mofisu Clan Informant](Mofisu_Clan_Informant.md)
 
 ## Trivia

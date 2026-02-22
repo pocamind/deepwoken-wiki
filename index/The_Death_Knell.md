@@ -1,6 +1,6 @@
 ---
 title: The Death Knell
-revid: 197746
+revid: 198096
 source: https://deepwoken.fandom.com/wiki/The_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -55,3 +55,7 @@ For the second and third critical, the user jumps into the air and slams the lan
 For the final critical, the user raises into the air with a [cyan telegraph](Combat_Mechanics.md#cyan), unleashing a heavy smack with the lantern and knocking and ragdolling the opponent. If missed, the critical will reset to its first phase.
 
 All criticals have a cooldown of **5 seconds**.
+
+## Trivia
+
+-   The name "Death Knell" is most likely inspired by the hit novel ''Lord of the Mysteries'', where Death Knell is a long-barreled pistol used by the protagonist, Klein Moretti.

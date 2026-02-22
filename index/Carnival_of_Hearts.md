@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 197318
+revid: 198127
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -45,12 +45,10 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 ## Rewards
 
--   Eliminated players have a chance of spawning chests where they were standing. Additionally, when all three games are over, a chest spawns in the center of the Carnival for each remaining player. Chests will spawn inside the circus that contain mixed loot. [(Sometimes it is bugged and the loot spawns on top of the carnival)](https://www.youtube.com/watch?v=rwZ_5dDwGSE)
+-   Eliminated players have a chance of spawning chests where they were standing. Additionally, when all three games are over, a chest spawns in the center of the Carnival for each remaining player. Chests will spawn inside the circus that contain mixed loot.
 -   Chests can drop the outfits [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), [Cindergarb](Cindergarb.md), and the [Icebringer's Vestments](<Icebringer's_Vestments.md>)
-    -   [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Sanguine Finery](Sanguine_Finery.md), [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), and [Icebringer's Vestments](<Icebringer's_Vestments.md>) are exclusively obtainable in the Carnival of Hearts.
-    -   The chests may also contain [Tillian's Beret](<Tillian's_Beret.md>).
-    -   Not yet known if all of these outfits are guaranteed drops.
-    -   The chests may also contain Pre-dyed Vigil Hood (needs further testing)
+    -   [Trickster's Habit](<Trickster's_Habit.md>), [Jester's Garb](<Jester's_Garb.md>), [Cindergarb](Cindergarb.md), [Sanguine Finery](Sanguine_Finery.md), [Stormchanter's Raiments](<Stormchanter's_Raiments.md>), [Tempestmaker's Threads](<Tempestmaker's_Threads.md>), and [Icebringer's Vestments](<Icebringer's_Vestments.md>) are exclusively obtainable in the Carnival of Hearts.
+-   The chests may also contain [Tillian's Beret](<Tillian's_Beret.md>).
 -   The chests can drop [Relics](Relics.md) including [Moonseye Tomes](Moonseye_Tome.md), [Sinner's Ashes](<Sinner's_Ash.md>), [Armorer's Needles](<Armorer's_Needle.md>), [Gilded Needles](Gilded_Needle.md), [Smith's Alloys](<Smith's_Alloy.md>), [Dye Packets](Dye_Packet.md), [Rain Spires](Rain_Spire.md), [Void Spires](Void_Spire.md), and possibly more.
 -   The chests can contain large amounts of items, [as seen in this video](https://www.youtube.com/watch?v=rwZ_5dDwGSE), where the chests drop 44 iron bombs and 16 cakes.
 -   The Carnival also gives XP based on the number of eliminated players.
@@ -64,3 +62,8 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.
 -   Aelita and Tillian will occasionally shoot an extra beam at the last person standing during the Beam Blitz game, so be careful.
 -   You have two chances to join the event: once at XX:00 and another at XX:05.
+-   Sometimes the reward chest is bugged and the loot spawns on top of the carnival.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1) [https://www.youtube.com/watch?v=rwZ\_5dDwGSE](https://www.youtube.com/watch?v=rwZ_5dDwGSE)

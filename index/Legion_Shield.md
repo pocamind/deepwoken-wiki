@@ -1,6 +1,6 @@
 ---
 title: Legion Shield
-revid: 196591
+revid: 198137
 source: https://deepwoken.fandom.com/wiki/Legion_Shield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, The Hundred Legions, Offhand]
@@ -8,7 +8,7 @@ categories: [Weapons, Shields, The Hundred Legions, Offhand]
 
 # Legion Shield
 
-| Khan Shield | |
+| Legion Shield | |
 |---|---|
 | type | Shield |
 | requirements | 60 FTD |
@@ -31,4 +31,6 @@ The Legion Shield is a [side weapon](Weapons.md) in the Shield category, providi
 
 ## Trivia
 
--   The practions of decorating Khan Shields with face may reference the [aegis](https://en.wikipedia.org/wiki/aegis), a weapon wielded by [Athena](https://en.wikipedia.org/wiki/Athena) and is usually depicted as a shield, often with the head of [Gorgons](https://en.wikipedia.org/wiki/Gorgons).
+-   The practions of decorating Legion Shields with face may reference the [aegis](https://en.wikipedia.org/wiki/aegis), a weapon wielded by [Athena](https://en.wikipedia.org/wiki/Athena) and is usually depicted as a shield, often with the head of [Gorgons](https://en.wikipedia.org/wiki/Gorgons).
+-   Prior to Verse 2, the Legion Shield was the best shield in the game. This title was later replaced by [The Path's Defender](<The_Path's_Defender.md>) following the update.
+-   In the update on 2/16/26, the name of this shield was changed from the Khan Shield to the Legion Shield.

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 196543
+revid: 198133
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -130,7 +130,7 @@ An umbrella term that includes all weapon stats is Weapon, abbreviated as "WEP",
 
 ### Heavy Weapon (HVY)
 
--   Uncreases your character's proficiency with [heavy weapons](Weapons.md)—this increases the extra damage dealt by your weapon's scaling.
+-   Increases your character's proficiency with [heavy weapons](Weapons.md)—this increases the extra damage dealt by your weapon's scaling.
     -   Equipping better weapons of this class will require a higher point investment.
     -   Unlocks heavy weapon related [Talents](Talents.md) and [Mantras](Attunement-less.md#heavy-weapon-mantras).
         -   Some weapon Talents are locked to certain weapon types. For example, Greataxe Talents differ from Greatsword Talents, and cannot be used interchangeably unless states otherwise in the Talent card description.
