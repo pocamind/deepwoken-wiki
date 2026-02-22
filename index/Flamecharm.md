@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 196251
+revid: 198163
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Attunement]
@@ -1225,7 +1225,7 @@ Eruption damage scales on Flamecharm investment. Eruptions have a 3 second coold
 |  | Empowered Eruption  
 (50 Flamecharm, Eruption Path: Lava Serpent) | Your next Eruption after landing a critical is empowered with +50% increased range and damage. 10s cooldown. | N/A |
 |  | Flash Point  
-(45 Flamecharm, Eruption Path: Lava Serpent) | Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block-breaking an enemy with a fire Mantra applies Burning. | Increases your next Eruption's damage and AoE by 50%. |
+(55 Flamecharm, Eruption Path: Lava Serpent) | Posture breaking an opponent causes your Eruptions to be Empowered for the next 10s. 45s CD. Block-breaking an enemy with a fire Mantra applies Burning. | Increases your next Eruption's damage and AoE by 50%. |
 |  | The Floor Is Lava  
 (100 Flamecharm, Eruption Path: Lava Serpent) | Your eruptions leave lethal pools of lava beneath them. | On Eruption, leave a pool of lava that deals Flamecharm damage over time. Damage dealt and duration scales on your Flamecharm investment. |
 

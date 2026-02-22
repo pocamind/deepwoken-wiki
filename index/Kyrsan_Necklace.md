@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Necklace
-revid: 197462
+revid: 198164
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Necklace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Torso, Equipment, Necklaces]
@@ -13,10 +13,10 @@ categories: [Drops, Torso, Equipment, Necklaces]
 | type | Torso |
 | selling price | 100 |
 | weight | 0.5 |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Kyrsgarde Champion |
 | description | Looking at the necklace you notice there is no possible chance a Kyrsgarde could wear this. Perhaps it belonged to someone else? |
 

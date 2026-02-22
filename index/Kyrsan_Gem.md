@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Gem
-revid: 197977
+revid: 198173
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -32,6 +32,6 @@ This Gem is currently **unbankable** and **undroppable.**
 
 ## Effect
 
-On hit, apply [Kyrsan Chill](Kyrsan_Chill.md). Slow your opponents for around 6 seconds. This effect is stackable and it has a 1s CD.
+On hit, apply [Kyrsan Chill](Status_Effects.md#kyrsan-chill). Slow your opponents for around 6 seconds. This effect is stackable and it has a 1s CD.
 
 Currently, this Gem's CD is bugged, having a 0s CD instead of the 1s CD.

@@ -1,6 +1,6 @@
 ---
 title: Suffocated (enchantment)
-revid: 198080
+revid: 198184
 source: https://deepwoken.fandom.com/wiki/Suffocated_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Craftable]
@@ -25,3 +25,7 @@ This enchantment is craftable at the [Lost Forge](Lost_Forge_of_Leiuna.md) with 
 ## Effect
 
 Upon landing an uppercut, flourish, critical, or offhand attacks, Suffocated will apply [Suffocation](Status_Effects.md#suffocate) to your opponent.
+
+## Trivia
+
+-   This enchantment was originally going to be a Developer Spec before it was made publicly accessible during the February 16th, 2026 update, as a part of Operation Deep Healing.

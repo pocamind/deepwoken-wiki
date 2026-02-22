@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 197766
+revid: 198181
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -999,6 +999,31 @@ Stormbreaker [Enchant Stone](Enchant_Stone.md):
  |
 | 
 
+**[Suffocated (enchantment)](<Suffocated_(enchantment).md>)**
+
+[View main page](<Suffocated_(enchantment).md>)
+
+[Placeholder](<Suffocated_(enchantment).md>)
+
+_Landing a critical, uppercut, flourish, or offhand attack procs suffocation._
+
+ | 
+
+**Effect:**
+
+On critical hit, uppercut, flourish, or offhand shot, apply suffocation for a short duration.
+
+**Obtainment:**
+
+Suffocated is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
+
+Suffocated Enchant Stone can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with 1 [Windswept Enchant Stone](Enchant_Stone.md) and 2 [Gale Essence](Gale_Essence.md).
+
+  
+
+ |
+| 
+
 **[Tears of the Edenkite](Tears_of_the_Edenkite.md)**
 
 [View main page](Tears_of_the_Edenkite.md)
@@ -1213,6 +1238,37 @@ Windswept Enchant Stone can as a chest drop from [Titus Fulminus Destellus](Titu
 
  |
 | --- | --- |
+| 
+
+**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**
+
+[View main page](Curse_of_Captain_Greene.md)
+
+[Curse of Captain Greene](Curse_of_Captain_Greene.md)
+
+_Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
+
+ | 
+
+**Effect:**
+
+Your weapon's base damage is tied to your current [Notes](Notes.md).
+
+Your weapon's base damage is reduced by 15%. For every Note you have, your weapon's base damage will be increased by 0.002%, capping at +15% base damage with 15k Notes.
+
+Upon taking damage from a player, lose 100 Notes. Upon dealing damage to a player, steal 50 of their Notes. Both of these effects are signified by a coin splash sound effect.
+
+**This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
+
+**Obtainment:**
+
+Curse of Captain Greene is obtained exclusively from its [Enchant Stone](Enchant_Stone.md).
+
+Curse of Captain Greene Enchant Stone can be obtained by trading 1 [Exotic Hide](Exotic_Hide.md) to [The Gaunt Man](The_Gaunt_Man.md).
+
+  
+
+ |
 | 
 
 **[Curse of Repulsion](Curse_of_Repulsion.md)**
@@ -1974,35 +2030,6 @@ Landing additional hits while this is active will extend the duration.
 | --- | --- |
 | 
 
-**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**
-
-[View main page](Curse_of_Captain_Greene.md)
-
-[Curse of Captain Greene](Curse_of_Captain_Greene.md)
-
-_Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
-
- | 
-
-**Effect:**
-
-Your weapon's base damage is tied to your current [Notes](Notes.md).
-
-Your weapon's base damage is reduced by 15%. For every Note you have, your weapon's base damage will be increased by 0.002%, capping at +15% base damage with 15k Notes.
-
-Upon taking damage from a player, lose 100 Notes. Upon dealing damage to a player, steal 50 of their Notes. Both of these effects are signified by a coin splash sound effect.
-
-**Obtainment:**
-
-Curse of Captain Greene is obtained exclusively from its [Enchant Stone](Enchant_Stone.md).
-
-Curse of Captain Greene Enchant Stone can be a potential reward from winning an event hosted by Agamatsu.
-
-  
-
- |
-| 
-
 **[Erebus](Erebus.md)**
 
 [View main page](Erebus.md)
@@ -2050,9 +2077,9 @@ Upon being guardbroken, negate the guardbreak stun.
 
 **Obtainment:**
 
-JOE's is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
+Unobtainable.
 
-JOE's Enchant Stone can be a potential reward from winning an event hosted by Agamatsu.
+When JOE's was obtainable, it was a potential reward from events hosted by Agamatsu.
 
   
 

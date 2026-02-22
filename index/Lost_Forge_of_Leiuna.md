@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 197970
+revid: 198177
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -41,6 +41,9 @@ In order to reforge a weapon, you must have it held or equipped. Locked to **ONE
 | --- | --- |
 | [Gale Enhanced Ring](Gale_Enhanced_Ring.md) | 1x [Finisher's Ring](<Finisher's_Ring.md>)  
 1x [Gale Essence](Gale_Essence.md) |
+| [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md) | 1x [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)  
+1x [Gale Essence](Gale_Essence.md)  
+5x [Gale Stone](Gale_Stone.md) |
 | Gale Monastery Cowl | 1x [Monastery Cowl](Monastery_Cowl.md)  
 1x [Gale Essence](Gale_Essence.md)  
 1x [Bluster](Bluster.md) [Enchant Stone](Enchant_Stone.md) |
@@ -97,6 +100,14 @@ In order to reforge a weapon, you must have it held or equipped. Locked to **ONE
 1x [Parasol Membrane](Parasol_Membrane.md) |
 | [Necrotic Demon Horns](Necrotic_Demon_Horns.md) | 1x [Aazel's Horns](<Aazel's_Horns.md>)  
 1x [Necrotic Membrane](Necrotic_Membrane.md) |
+| [Necrotic Cowl](Necrotic_Cowl.md) | 1x [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
+1x [Necrotic Membrane](Necrotic_Membrane.md)  
+1x [Parasol Part](Parasol_Part.md) |
+| [Necrotic Mask](Necrotic_Mask.md) | 1x [Bloodfeather Mask](Bloodfeather_Mask.md)  
+1x [Necrotic Membrane](Necrotic_Membrane.md)  
+1x [Parasol Part](Parasol_Part.md) |
+
+  
 
 ## Trivia
 

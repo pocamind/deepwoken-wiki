@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 196991
+revid: 198183
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -37,4 +37,8 @@ Upon taking damage from a player, lose 100.
 -   **If you have not completed [The Gaunt Man](The_Gaunt_Man.md)'s trial on your character, this enchantment will not work and your weapon's damage will be voided.**
 -   While at 7,500, this Enchantment does not provide a damage buff nor debuff.
 -   This enchantment has a coin splash sound effect on hit and upon taking damage.
--   This enchantment's curse functions somewhat similarly to the [Loose Change](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier. (It also stacks)
+-   This enchantment's curse functions somewhat similarly to, and stacks with, the [Loose Change](Echoes.md#upgrades-unlocks-and-modifiers) Echo Modifier.
+
+## Trivia
+
+-   This enchantment was originally a Developer Spec before it was made publicly accessible during the February 16th, 2026 update, as a part of Operation Deep Healing.

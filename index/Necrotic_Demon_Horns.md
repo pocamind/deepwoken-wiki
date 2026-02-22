@@ -1,6 +1,6 @@
 ---
 title: Necrotic Demon Horns
-revid: 197561
+revid: 198186
 source: https://deepwoken.fandom.com/wiki/Necrotic_Demon_Horns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Head, Horns]
@@ -29,3 +29,9 @@ notices:
 ## Description
 
 The **Necrotic Demon Horns** is an [Equipment](Equipment.md) item under the "Head" category.
+
+  
+Its most likely it uses the mindspark talent since its the same thing as the one in iron vow
+
+  
+The [Mindspark](Talents.md#mindspark) Talent increases your [Burn](Status_Effects.md#burn) damage based on how low your [sanity](Insanity.md) is.

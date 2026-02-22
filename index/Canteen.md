@@ -1,6 +1,6 @@
 ---
 title: Canteen
-revid: 179695
+revid: 198185
 source: https://deepwoken.fandom.com/wiki/Canteen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Tools]
@@ -15,7 +15,7 @@ categories: [Items, Tools]
 
 ## Description
 
-Used to hold water on the go. You can spawn with a Canteen if you have Tier 3 "Advanced Tools" [Echo Upgrade](Echoes.md).
+Used to hold water on the go. You can spawn with a Canteen if you have its respective “Advanced Tools: Canteen” [Echo Upgrade](Echoes.md).
 
 ### Recipe
 
