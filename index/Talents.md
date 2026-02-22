@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 198035
+revid: 198153
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1593,6 +1593,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Inhaling grants a speed boost for 3 seconds.
     -   Inhaling grants the [Maestro's Blade](Status_Effects.md#maestros-blade) status effect. This effect allows your basic attacks to proc After Cut.
     -   The duration of Maestro's Blade is the inhaled Mantra's Ether cost (before [Blue Gem](Blue_Gem.md)) divided by 5. For example, a 50 Ether cost Mantra will apply Maestro's Blade for 10 seconds.
+    -   Can be procced through shadow mantras while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.
     -   Prerequisites: 60 Galebreathe
 
 ### Genius Intellect
@@ -1664,8 +1665,15 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
     -   This requires you to have [bullets](Bullets.md) in your inventory.
+    -   Currently does not work.
     -   5 second cooldown.
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using an Offhand Pistol
+    -   Mutual Exclusive: Execution
+
+-   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
+    -   Works with dual guns, adding 20 flat damage to every second shot.
+    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon
+    -   Mutual Exclusive: Hip Shooter
 
 -   Parting Gift \[Common Talent, Light Weapon\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.

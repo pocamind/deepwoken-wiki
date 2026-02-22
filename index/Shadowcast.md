@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 196792
+revid: 198152
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -534,6 +534,7 @@ Mult. Spark: Blunt (1st Hit), Shadow (2nd Hit)
 -   The axe kick does not proc [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does.
 -   The Multiplying Spark initial kick does pure Blunt damage, the main Eclipse Kick attack deals pure Shadowcast damage.
 -   Can also break certain tiles and fell trees.
+-   Unaffected by damage modifiers with the exception of inhale while using the [Eyes of Ethiron](Eyes_of_Ethiron.md) weapon.
 -   Eclipse Kick is unaffected by [Insignia Gem](Insignia_Gem.md).
 -   If a [Multiplying Spark](Mantra_Modifiers.md#sparks) is added, the kick will be replaced with a fast short ranged and low damage high kick that dazes on hit. If this move lands, you will be able to cast Eclipse Kick again to use the default Eclipse Kick. This version of the default Eclipse Kick deals less damage and Ether drain than the unmodified variant.
     -   The first kick has a base damage of 5/6/7/8/9 per level. The second kick has a base damage of 52/62/72/82/92 per level. Both hits have 2.75 Shadowcast scaling.
