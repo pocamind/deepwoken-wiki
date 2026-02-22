@@ -1,6 +1,6 @@
 ---
 title: Ilji
-revid: 195074
+revid: 198092
 source: https://deepwoken.fandom.com/wiki/Ilji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages requiring a cleanup, Quests]

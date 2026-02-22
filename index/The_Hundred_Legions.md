@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 190725
+revid: 198095
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -24,7 +24,7 @@ categories: [Factions, The Hundred Legions]
 
 A superpower native to the Western Luminant, the Hundred Legions are a powerful empire boasting, as the name implies, a hundred legions of soldiers. They once allied themselves with The Authority, but were betrayed. The 11th Scouting Legion were sent to the East to gather information of the conflicts going on there. Their ranks consist mainly of Khans, but they are open to recruiting other aspects. They are creators of the Legion Kata fighting style and masters of [Galebreathe](Galebreathe.md) as the only way to train your Galebreathe is through Gale Kata, described to be made by the Legion.
 
-The Legion has several war heroes that are depicted by either their ornaments or their weapons, an example being the [Khan Shield](Legion_Shield.md). Examples of war heroes are Akilles and Acheron. Akilles, who was in charge of the 11th Legion and brought them to the East when an imminent conflict was brewing, and Acheron who is the owner of the infamous [Acheron's Warspear](<Acheron's_Warspear.md>) who seemingly lost it to a [King Thresher](King_Thresher.md), but survived, and can be found in Aratel Island as part of the Legion Kata questline.
+The Legion has several war heroes that are depicted by either their ornaments or their weapons, an example being the [Legion Shield](Legion_Shield.md). Examples of war heroes are Akilles and Acheron. Akilles, who was in charge of the 11th Legion and brought them to the East when an imminent conflict was brewing, and Acheron who is the owner of the infamous [Acheron's Warspear](<Acheron's_Warspear.md>) who seemingly lost it to a [King Thresher](King_Thresher.md), but survived, and can be found in Aratel Island as part of the Legion Kata questline.
 
 ## Relationships
 
@@ -62,4 +62,4 @@ Though another way to gain reputation with The Hundred Legions is also through h
 -   While speaking to Gaius, you can learn that being stationed in the East isn't the best if you're looking to become the next Ruler of the Legion as he outright curses, presumably Akilles, who stationed him there.
 -   The Legion seems to have a high regard towards Honor and the individual soldier, as reporting to Atra, telling him that Lars has passed will prompt him to say, "Let my comrades know, we'll hold a ceremony in his honor."
 -   Considering that the Battle Royale map is of Legion territory, The Hundred Legions is the first faction to get its own exclusive game mode, and by extension, the only ones to have a server wholly dedicated to them.
--   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legion against the Starkindred church in the West, upon doing so he had acquired the [Pale Briar](Pale_Briar.md). This implies they once were in good standing with the Etreans. However, their intrusions in the east means the two are now prone to skirmishing.
+-   [Evengarde Rest](Evengarde_Rest.md) had fought alongside the Legion against the Starkindred Church in the West, upon doing so he had acquired the [Pale Briar](Pale_Briar.md). This implies they once were in good standing with the Etreans. However, their intrusions in the east means the two are now prone to skirmishing.

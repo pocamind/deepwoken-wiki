@@ -1,8 +1,9 @@
 ---
 title: Suffocated (enchantment)
-revid: 198034
+revid: 198080
 source: https://deepwoken.fandom.com/wiki/Suffocated_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Enchantments, Weapon Enchantments, Craftable]
 ---
 
 # Suffocated (enchantment)
@@ -12,13 +13,15 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | bankable | Yes |
 | droppable | Yes |
 | pass down | No |
-| desc | Placeholder |
-| obtainment | Crafting the enchant stone in the Lost Forge |
+| desc | Landing a critical, uppercut, flourish, or offhand attack procs suffocation. |
+| obtainment | Suffocated Enchant Stone:, Crafting the enchant stone in the Lost Forge |
 
 ## Description
 
-Placeholder
+Suffocated is a [craftable](Crafting_Recipes.md) debuffing enchantment that applies [Suffocation](Status_Effects.md#suffocate) on proc.
+
+This enchantment is craftable at the [Lost Forge](Lost_Forge_of_Leiuna.md) with 1 [Windswept](Windswept.md) enchant stone and 2 [Gale Essence](Gale_Essence.md)
 
 ## Effect
 
-Placeholder
+Upon landing an uppercut, flourish, critical, or offhand attacks, Suffocated will apply [Suffocation](Status_Effects.md#suffocate) to your opponent.

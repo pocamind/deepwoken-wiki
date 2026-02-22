@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 193170
+revid: 198090
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -8,9 +8,11 @@ categories: [Pathfinder Exclusive, NPCs, Mechanics]
 
 # Deep Shrines/Shrine of Solitude
 
-| Shrine of Solitude | |
+| Deep Shrines/Shrine of Solitude | |
 |---|---|
 | location | Temple of Hearts, Trial of One, The Diluvian Mechanism |
+
+**If your looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
 **[Pathfinder](../Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -19,8 +21,6 @@ This content is not accessible outside of this gamemode.
 “ Won't you share with me your thoughts? Solitude need not be prolonged. ”
 
 ― Shrine Of Solitude
-
-**If your looking for another shrine return to [Deep Shrines](../Deep_Shrines.md) or head to [Navigation](#navigation).**
 
 ## Description
 

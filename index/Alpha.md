@@ -1,6 +1,6 @@
 ---
 title: Alpha
-revid: 191308
+revid: 198068
 source: https://deepwoken.fandom.com/wiki/Alpha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Quests]
@@ -72,9 +72,9 @@ He will also task you to rescue [Epsi](Epsi.md), a young [Gremor](Gremor.md) boy
 
 **Unlockable Dialogue:**
 
-These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
-
 **Epsi is Rescued:**
+
+These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
 
 <table>
 <tbody>
@@ -91,6 +91,8 @@ These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
 </table>
 
 **Epsi is Dead:**
+
+These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
 
 <table>
 <tbody>
@@ -114,6 +116,30 @@ These dialogues are unlocked depending on the status of [Epsi](Epsi.md).
 </tr>
 <tr>
   <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Ignition Delver Origin:**
+
+This dialogue is unlocked if you talk to him with the [Ignition Delver](Ignition_Delver.md) Origin.
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Ah, you're the comrade Epsi mentioned. Good to place a face to a name. Great work getting that generator online, I owe you one.</td>
+</tr>
+<tr>
+  <td colspan="12">So, what was that about owing me one?</td>
+</tr>
+<tr>
+  <td colspan="12">I think Epsi had something to show you. Come back to me once you've checked in on him, or if you can't find him.</td>
+</tr>
+<tr>
+  <td colspan="12">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

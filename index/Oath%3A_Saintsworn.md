@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 192455
+revid: 198073
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
@@ -142,6 +142,7 @@ These Talents have modified effects based on your current Saint Stance. Due to t
             -   **[Inhale](Talents.md#inhale)**: You can inhale non-Galebreathe Mantras, however their modifiers/the inhale damage buff will not carry over to non-Galebreathe mantras.
             -   **[Shock Trooper Specialist](Talents.md#shock-trooper-specialist)**: Conjure a storm strike on your opponent by landing any attuned mantras.
             -   **[Possession](Talents.md#possession)**: After an apparition hits an enemy, receive 15% posture damage on all attuned mantras for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
+            -   **[Storm Link](Talents.md#storm-link)**: While you have a Static Link on someone, your mantras that hit them are imbued with flashes of Lightning.
         -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **[Dark Hours](Talents.md#dark-hours)**: Your attuned Mantras will gain a 15% damage buff during night or in the depths.
             -   **[Pressure Detonation](Talents.md#pressure-detonation)**: Block breaking with any attuned mantra will suffocate your opponent and steal their tempo.

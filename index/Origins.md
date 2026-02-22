@@ -1,6 +1,6 @@
 ---
 title: Origins
-revid: 185881
+revid: 198066
 source: https://deepwoken.fandom.com/wiki/Origins
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Character, Mechanics, Creation, Origins, Features absent in Vow of Iron]
@@ -74,7 +74,7 @@ This content is not accessible outside of this gamemode.
 
 -   Technically confirmed, but release timeframe is unknown.
 -   Stated to be an origin where you will progress by fighting [Authority](The_Central_Authority.md) and [Knives of Eylis](The_Knives_of_Eylis.md) soldiers.
--   You will most likely start with the [Vigil Initiate](Vigil_Initiate.md) Outfit, rising through getting the [Vigil Swordsman](Vigil_Swordsman.md) Outfit then, the [Cloak of Winds](Cloak_of_Winds.md), and finally, the [Vigil Sentinel](Vigil_Sentinel.md). Probably alongside a [Vigil Hood](Vigil_Hood.md).
+-   You will most likely start with the [Vigil Initiate](Vigil_Initiate.md) Outfit, rising through getting the [Vigil Swordsman](Vigil_Swordsman.md) Outfit, then the [Cloak of Winds](Cloak_of_Winds.md), and finally, the [Vigil Sentinel](Vigil_Sentinel.md). Probably alongside a [Vigil Hood](Vigil_Hood.md).
 
 ## Trivia
 
