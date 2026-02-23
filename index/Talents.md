@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 198295
+revid: 198298
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1672,6 +1672,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 
 -   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
     -   Works with dual guns, adding 20 flat damage to every second shot.
+    -   Does not work with Hardened Enforcer Boots.
     -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon
     -   Mutual Exclusive: Hip Shooter
 

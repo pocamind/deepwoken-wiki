@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198259
+revid: 198300
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -41,6 +41,8 @@ In order to reforge a weapon, you must have it held or equipped. Locked to **ONE
 
 ## Craftable Items
 
+Use **CTRL + F** to search for a specific item.
+
 | Item | Recipe |
 | --- | --- |
 | [Gale Enhanced Ring](Gale_Enhanced_Ring.md) | 1x [Finisher's Ring](<Finisher's_Ring.md>)  
@@ -68,6 +70,8 @@ In order to reforge a weapon, you must have it held or equipped. Locked to **ONE
 1x [Frost Essence](Frost_Essence.md) |
 | [Winter Rifle](Winter_Rifle.md) | 1x [Summer Rifle](Summer_Rifle.md)  
 1x [Frost Essence](Frost_Essence.md) |
+| ??? | 5x [Frigid Prism](Frigid_Prism.md)  
+1x [Frost Essence](Frost_Essence.md) |
 | [Frost Bullet](Bullet_Casings.md#frost) | 50x [Bullet](Bullets.md)  
 1x [Frost Essence](Frost_Essence.md) |
 | [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) | 1x [Giant Femur](Giant_Femur.md)  
@@ -85,11 +89,26 @@ In order to reforge a weapon, you must have it held or equipped. Locked to **ONE
 | [Transfusion Ring](Transfusion_Ring.md) | 1x [Ring of Pestilence](Ring_of_Pestilence.md)  
 1x [Necrotic Membrane](Necrotic_Membrane.md)/[Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
 1x [Trickster Dust](Trickster_Dust.md) |
+| [Ember Scorch Earrings](Ember_Scorch_Earrings.md) | 1x [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)  
+5x [Dying Embers](Dying_Embers.md)  
+1x [Blazing](Blazing.md) [Enchant Stone](Enchant_Stone.md) |
 | [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) | 1x [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)  
 1x [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
+| [Ossified Barrel Helm](Ossified_Barrel_Helm.md) | 1x [Barrel Helm](Barrel_Helm.md)  
+1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
+1x [Shiva's Codex](<Shiva's_Codex.md>) |
+| [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md) | 1x [Simple Pauldrons](Simple_Pauldrons.md)\]\]  
+1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
+1x [Shiva's Codex](<Shiva's_Codex.md>) |
+| [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md) | 1x [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)\]  
+1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
+1x [Shiva's Codex](<Shiva's_Codex.md>) |
 | [Ossified Blood Earrings](Ossified_Blood_Earrings.md) | 1x [Old Blood Earrings](Old_Blood_Earrings.md)  
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) |
+| Ossified Blacksteel Pauldrons | 1x [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)  
+1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
+1x ??? |
 | [Revitalizing Pendant](Revitalizing_Pendant.md) | 1x [Wheel Pendant](Wheel_Pendant.md)  
 5x [Solar](Solar.md) [Enchant Stone](Enchant_Stone.md)  
 1x [Parasol Membrane](Parasol_Membrane.md) |
@@ -110,6 +129,18 @@ In order to reforge a weapon, you must have it held or equipped. Locked to **ONE
 | [Necrotic Mask](Necrotic_Mask.md) | 1x [Bloodfeather Mask](Bloodfeather_Mask.md)  
 1x [Necrotic Membrane](Necrotic_Membrane.md)  
 1x [Parasol Part](Parasol_Part.md) |
+| ??? | 1x [Warlock's Brim](<Warlock's_Brim.md>)  
+1x [Ether Refined Hide](Ether_Refined_Hide.md)  
+1x [Shiva's Codex](<Shiva's_Codex.md>) |
+| ??? | 1x [Warlock's Mantle](<Warlock's_Mantle.md>)  
+1x [Ether Refined Hide](Ether_Refined_Hide.md)  
+1x [Shiva's Codex](<Shiva's_Codex.md>) |
+| [Ether Imbued Earrings](Ether_Imbued_Earrings.md) | 1x [Practicioner's Earrings](<Practicioner's_Earrings.md>)  
+1x [Ether Refined Hide](Ether_Refined_Hide.md) |
+| [Ether Empowered Earrings](Ether_Empowered_Earrings.md) | 1x [Pendant Earrings](Pendant_Earrings.md)  
+1x [Ether Refined Hide](Ether_Refined_Hide.md) |
+| ??? | 1x [Frost Ring](Frost_Ring.md)  
+1x [Gale Enhanced Ring](Gale_Enhanced_Ring.md) |
 
 ## Trivia
 

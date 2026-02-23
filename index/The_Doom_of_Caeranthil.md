@@ -1,6 +1,6 @@
 ---
 title: The Doom of Caeranthil
-revid: 196607
+revid: 198316
 source: https://deepwoken.fandom.com/wiki/The_Doom_of_Caeranthil
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Disaster, Monsters, Bosses]
@@ -153,7 +153,7 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: <a href="Eye_of_Malice.md"><font>Eye of Malice</font></a>, <a href="Lumensplitter.md"><font>Lumensplitter</font></a></li>
+    <li><b>Legendary Weapons</b>: <a href="Eye_of_Malice.md"><font>Eye of Malice</font></a>, <a href="Lumensplitter.md"><font>Lumensplitter</font></a>, <a href="Shadebolt.md"><font>Shadebolt</font></a></li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a>, <a href="Whaling_Knife.md">Alloyed Whaling Knife</a></li>
     <li><b>Generic Weapons</b>:
   <ol>

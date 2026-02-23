@@ -1,6 +1,6 @@
 ---
 title: Regalia
-revid: 198145
+revid: 198318
 source: https://deepwoken.fandom.com/wiki/Regalia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -92,7 +92,7 @@ This Regalia is **kept** upon wiping at or below Power 10.
 
 You are granted an additional [Talent](Talents.md) choice in each Talent hand.
 
-This Regalia is **kept** upon wiping at or below Power 6.
+This Regalia is **kept** upon wiping at or below Power 10.
 
 ### Hungerless[\[4\]](#cite-note-archnamedrop2-4)
 
