@@ -1,6 +1,6 @@
 ---
 title: Soulthorn
-revid: 195479
+revid: 198195
 source: https://deepwoken.fandom.com/wiki/Soulthorn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -36,7 +36,7 @@ categories: [Weapons, Swords, "Core-Attribute based weapons", Legendary Weapons,
 
 ## Description
 
-The Soulthorn is a Legendary Weapon that can be obtained from the chest dropped by the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance. It can also be obtained rarely from any sea event in the [Voidsea](Voidsea.md) and directly dropped from the [Semblance](Semblance.md) mob.
+The Soulthorn is a Mythical Weapon that can be obtained from the chest dropped by the [Moon Knight](Moon_Knight.md) in the core of the [Moon's Eyrie](<Moon's_Eyrie.md>), with a 1% drop chance. It can also be obtained rarely from any sea event in the [Voidsea](Voidsea.md) and directly dropped from the [Semblance](Semblance.md) mob.
 
 -   **Chaotic Wailing -** Each basic attack applies a Soul Mark to the target, which caps up to 3. The amount of Soul Marks affect the critical.
 

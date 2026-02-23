@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 198153
+revid: 198236
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1118,9 +1118,9 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
     -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
 
--   Energy Siphon \[Common Talent, Shadowcast\] - Your singularity now pulls ether from the extra players affected.
+-   Energy Siphon \[Common Talent, Shadowcast\] - Your singularity now pulls ether from extra players affected by Blackhole.
     -   Takes around 15 Ether from the affected opponent on proc.
-    -   Prerequisites: Singularity, 60 Shadowcast
+    -   Prerequisites: Blackhole, 60 Shadowcast, [Power](Power.md) 13
 
 ### Deepbound Contract
 
@@ -2497,6 +2497,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Echoing Lunatic \[Common Talent, Willpower\] - Your Ardour Scream now applies a bit of insanity.
     -   Prerequisites: 55 Willpower, Ardour Scream
+    -   Removes around 4% of your opponent's sanity. The drain is percent-based, so the effects will work regardless of their sanity.
+    -   The effects of this talent may be negated if the Ardour Scream is blocked, similarly to the roars of Megalodaunts/Primadon.
 
 -   _Lose Your Mind_ \[Rare Talent, Strength, Fortitude\] - Deal more damage the more insane you are. Grants +15% damage at maximum insanity. (+5 Sanity)
     -   The damage buff starts at 70% Sanity (Tier 1 [Insanity](Insanity.md)) and scales non-linearly with your sanity until it caps out at +15% damage with 0% Sanity (Tier 3 Insanity).

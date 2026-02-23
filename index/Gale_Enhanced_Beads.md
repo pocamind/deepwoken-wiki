@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Beads
-revid: 197650
+revid: 198191
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---

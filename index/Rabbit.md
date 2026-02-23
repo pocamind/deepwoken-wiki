@@ -1,6 +1,6 @@
 ---
 title: Rabbit
-revid: 197370
+revid: 198243
 source: https://deepwoken.fandom.com/wiki/Rabbit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: ["Non-sapient species"]
@@ -14,7 +14,7 @@ categories: ["Non-sapient species"]
 
 ## Description
 
-The rabbit is a species of animal.[\[1\]](#cite-note-bow-1)
+The rabbit is a species of animal. They are hunted by humans via bow, alongside [ducks](Duck.md).[\[1\]](#cite-note-bow-1)
 
 ## Trivia
 

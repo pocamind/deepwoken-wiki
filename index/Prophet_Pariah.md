@@ -1,6 +1,6 @@
 ---
 title: Prophet Pariah
-revid: 197387
+revid: 198227
 source: https://deepwoken.fandom.com/wiki/Prophet_Pariah
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deceased characters]
@@ -19,10 +19,11 @@ categories: [Deceased characters]
 
 ## Description
 
-A lunatic cult leader who originally wrote the [Moonseye Tome](Moonseye_Tome.md), they were called 'Prophet Pariah of the Lullaby Isles'.
+A lunatic cult leader who originally wrote the [Moonseye Tome](Moonseye_Tome.md). They were called 'Prophet Pariah of the Lullaby Isles'.
 
-They lived a short life. In their own beliefs, they believed that in the voidsea existed a so called stairway to [the heavens](The_Heavens.md), with that idea they navigated the voidsea until their presumed death.
+They lived a short life. In their own beliefs, they believed that there existed in the voidsea a so called stairway to [the heavens](The_Heavens.md). With that idea,they navigated the voidsea until their presumed death.
 
 ## Trivia
 
 -   Pariah likely believed the heavens to be the [Moonseye](Moonseye.md) and not Constellia due to the name 'Moonseye Tome', them being a Prophet of [The Moonlit Faith](The_Moonlit_Faith.md) and the Moonseye in the cover within it.
+-   Has a ring named after them called "[Pariah's Keepsake](<Pariah's_Keepsake.md>)"

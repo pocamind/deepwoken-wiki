@@ -1,6 +1,6 @@
 ---
 title: Update log
-revid: 141117
+revid: 198203
 source: https://deepwoken.fandom.com/wiki/Update_log
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Version History/2025](Version_History/2025.md)
+-   [Version History/2026](Version_History/2026.md)

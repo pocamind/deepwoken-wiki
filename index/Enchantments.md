@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 198181
+revid: 198240
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -2034,7 +2034,7 @@ Landing additional hits while this is active will extend the duration.
 
 [View main page](Erebus.md)
 
-[Erebusenchant](Erebus.md)
+File:Erebus1.gif
 
 _When landing a critical, make your opponent forget how to use a mantra for a minute._
 

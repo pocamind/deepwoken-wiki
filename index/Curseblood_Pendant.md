@@ -1,6 +1,6 @@
 ---
 title: Curseblood Pendant
-revid: 192909
+revid: 198247
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
@@ -27,3 +27,7 @@ categories: [Equipment, Torso, Necklaces]
 ## Description
 
 The Curseblood Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
+
+## Recipes
+
+-   [Regenerative Pendant](Regenerative_Pendant.md) - 1x Curseblood Pendant, 5x [Curse of the No Life King](Curse_of_the_No_Life_King.md) [Enchant Stones](Enchant_Stone.md), and 1x [Parasol Membrane](Parasol_Membrane.md) at the [The Lost Forge](Lost_Forge_of_Leiuna.md).

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 197737
+revid: 198202
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -492,7 +492,7 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash, Commander's Whirlthrow
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Severing Flourish, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Crossrend Cryocleave, Snowgrave, Splintering Thrust
 
  |
 | 
@@ -519,7 +519,7 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
 **Boss Attacks**
 
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Chorus Divide: Shattering Crescendo
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Rime-Rise
 
  |
 | 
@@ -548,7 +548,7 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Graceful Slicer, Mortal Draw: Sakura Dance
 -   [Parliament](Parliament.md): Curb Stomp
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Whiplash
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Blizzard's Sanction, Pylons of Frost
 
 **Miscellaneous**
 
@@ -571,7 +571,7 @@ Most attacks with this indicator deal high posture damage.
 
 -   [Parliament](Parliament.md): Owl Dash
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Low Cleave
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Decapitating Sweep
 
  |
 | 
@@ -628,7 +628,7 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 -   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md): Tempest Eye
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md): Sudden Ambush, Pressure Eruption
 -   [Heart of Enmity](Heart_of_Enmity.md): Event Horizon
--   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>):
+-   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Altitude Swipes, Champion's Quake
 
  |
 

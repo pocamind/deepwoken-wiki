@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt
-revid: 194945
+revid: 198198
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 | Nautilodaunt | |
 |---|---|
-| health | 1000, 2500 (Corrupted) |
+| health | 1000, 2500 (Corrupted), 900 (Interluminary Parasol) |
 | drops | Odd Tentacle, Pathfinder Elite (Very Rare), Martial Artist (Semi-Rare), Nautilodaunt Beak (Extremely Rare), Black Diver (Very Rare), Cala-Mariner (Very Rare) |
 | locations | First Layer, The City of the Drowned, The Diluvian Mechanism |
 

@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 181427
+revid: 198225
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Children of Navae]
@@ -25,7 +25,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 -   [Cestis](Cestis.md) - Tacet Obtainment.
 -   [Eres](Eres.md) - Etrea Lore.
 -   [Exter](Exter.md) - Random Gremor dude idk.
--   Mercille - Starswept Sack Rewards.
+-   [Mercille](Mercille.md) - Starswept Sack Rewards.
 -   [The Guy](The_Guy.md) - Summer Isle > Cannon Quest.
 -   [Sekh](Sekh.md) - Meteor Isle Lore.
 -   Crafting Table, Inn.

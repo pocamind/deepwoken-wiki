@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198177
+revid: 198235
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -50,7 +50,7 @@ In order to reforge a weapon, you must have it held or equipped. Locked to **ONE
 | [Gale Enhanced Beads](Gale_Enhanced_Beads.md) | 1x [Monastery Beads](Monastery_Beads.md)  
 1x [Gale Essence](Gale_Essence.md)  
 1x [Windswept](Windswept.md) [Enchant Stone](Enchant_Stone.md) |
-| Suffocated Enchant Stone | 2x [Gale Essence](Gale_Essence.md)  
+| [Suffocated](<Suffocated_(enchantment).md>) [Enchant Stone](Enchant_Stone.md) | 2x [Gale Essence](Gale_Essence.md)  
 1x [Windswept](Windswept.md) [Enchant Stone](Enchant_Stone.md) |
 | [Gale Bullet](Bullet_Casings.md#gale) | 50x [Bullet](Bullets.md)  
 1x [Gale Essence](Gale_Essence.md) |
@@ -106,8 +106,6 @@ In order to reforge a weapon, you must have it held or equipped. Locked to **ONE
 | [Necrotic Mask](Necrotic_Mask.md) | 1x [Bloodfeather Mask](Bloodfeather_Mask.md)  
 1x [Necrotic Membrane](Necrotic_Membrane.md)  
 1x [Parasol Part](Parasol_Part.md) |
-
-  
 
 ## Trivia
 

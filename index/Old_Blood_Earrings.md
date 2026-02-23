@@ -1,6 +1,6 @@
 ---
 title: Old Blood Earrings
-revid: 192911
+revid: 198246
 source: https://deepwoken.fandom.com/wiki/Old_Blood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -27,3 +27,7 @@ categories: [Equipment, Ears]
 ## Description
 
 **Old Blood Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
+
+## Recipes
+
+-   [Regenerative Earrings](Regenerative_Earrings.md) - 1x Old Blood Earrings, 5x [Vampirism](Vampirism.md) [Enchant Stones](Enchant_Stone.md), and 1x [Parasol Membrane](Parasol_Membrane.md) at the [The Lost Forge](Lost_Forge_of_Leiuna.md).

@@ -1,6 +1,6 @@
 ---
 title: Mystic
-revid: 196520
+revid: 198214
 source: https://deepwoken.fandom.com/wiki/Mystic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Cut Content]
@@ -22,7 +22,7 @@ notices:
 
 ## Overview
 
-Mystics were [Chrysid](Chrysid.md) NPCs that appears in multiple locations around the map. For 20, they used to prompt you with Mantra categories. Upon picking a prompt, the next time you obtain a [Whisper Draw](Whisper_Draw.md), you would be guaranteed to get at least 1 Mantra of that type. This interaction could have been repeated infinite number of times with sufficient number of Notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.
+Mystics were [Chrysid](Chrysid.md) NPCs that appeared in multiple locations around the map. For 20, they used to prompt you with [Talent](Talents.md) or [Mantra](Mantras.md) categories. Upon picking a prompt, the next time you obtain a Talent or [Whisper Draw](Whisper_Draw.md), you would be guaranteed to get at least 1 Talent or Mantra of that type. This interaction could have been repeated infinite number of times with sufficient number of Notes. Before powering up, the last prompt you choose will overwrite whatever other prompts you chose.
 
 Note: Mantras are generated as the cards are flipped, meaning Mystics can be used during a Power up and inbetween card choices to manipulate the cards you obtain on your next hand.
 

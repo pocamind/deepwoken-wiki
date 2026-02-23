@@ -1,6 +1,6 @@
 ---
 title: Charged Bonecharm
-revid: 198030
+revid: 198189
 source: https://deepwoken.fandom.com/wiki/Charged_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Monster Mantra Ingredients]
@@ -13,8 +13,8 @@ categories: [Relics, Monster Mantra Ingredients]
 | value | N/A |
 | stack | x1 |
 | type | Utility |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | A fleshbound Kyrsan effigy of Ethironal worship. As their minds and focuses were robbed, their precise artisanry was twisted into a feverish production of foul convolutions of the organic. Peering into the beady eyes of the bonecharm, you see an early Ethironal shrine; unfinished, misshapen taxidermies lining the walls like an abattoir. |
 | obtainment | Trading a Kyrsan Necklace to the Gaunt Man |
