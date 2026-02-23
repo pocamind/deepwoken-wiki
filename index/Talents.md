@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 198236
+revid: 198295
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2383,7 +2383,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Marksman
 
--   _Leg Shot_ \[Rare Talent, Medium Weapon\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enmies [Sluggish](Status_Effects.md#sluggish), and also disables any speed boosts they get for the next 10 seconds.
+-   _Leg Shot_ \[Rare Talent, Medium Weapon\] - \[Rifles\] Landing your critical slows your enemy for a bit while making PvE enemies [Sluggish](Status_Effects.md#sluggish), and also disables any speed boosts they get for the next 10 seconds.
     -   The Sluggish status effect applies a -15% damage debuff to affected targets.
     -   Prerequisites: 80 Medium Weapon, Rifle Equipped
 

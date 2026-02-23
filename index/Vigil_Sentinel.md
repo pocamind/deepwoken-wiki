@@ -1,6 +1,6 @@
 ---
 title: Vigil Sentinel
-revid: 194705
+revid: 198294
 source: https://deepwoken.fandom.com/wiki/Vigil_Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Etrea, World Event]
@@ -48,6 +48,5 @@ The [Vigil's Grace](Talents.md#vigils-grace) Talent grants +0.02x swingspeed whi
 
 ## Trivia
 
--   This is the only Master Outfit to have a Power requirement that's lower than 15.
 -   Due to how swing speed is calculated, the swingspeed buff is more impactful the slower your weapon is.
 -   [Lightning Cloak's](Thundercall.md#lightning-cloak) swingspeed multiplier is applied **after** Action Surge and Vigil's Grace, allowing for a very high swingspeed increase when combined.
