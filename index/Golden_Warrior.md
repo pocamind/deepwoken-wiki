@@ -1,6 +1,6 @@
 ---
 title: Golden Warrior
-revid: 193578
+revid: 198275
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Enemies, The Golden Rats]
@@ -17,9 +17,7 @@ categories: [NPCs, Enemies, The Golden Rats]
 
 ## Description
 
-The Golden Warrior is a rare random encountered enemy NPC that spawns leaning on random walls in [Erisia](Erisia.md). It is also interactable by pressing the E key which will also prompt you with this dialogue:
-
-> "Ah hello! Would you like to duel? You may take the first swing! Ha, I'll even give you 3."
+The Golden Warrior is a rare random encountered enemy NPC that spawns leaning on random walls in [Erisia](Erisia.md).
 
 They will start fighting back after being hit 3 times. The fight isn't too difficult as long you can parry well or pin them to a wall and spam mantras. A chest will appear will upon killing them.
 
@@ -100,7 +98,5 @@ A Golden Warrior executes the player after knocking them.
 ## Trivia
 
 -   It will drop a "Gold Plate" upon being killed, which, 5 of can be turned in to the Golden Rat Bouncer for mid-tier Erisia loot.
--   It is the less durable counterpart of the [Golden Rat Bouncer](Golden_Rat_Bouncer.md).
 -   This is a [random encounter](Random_Encounters.md), not to be mistaken with the [Rat Fighters](Rat_Fighter.md) in the [Rat's Den](<Rat's_Den.md>) at [Burning Stone Gardens](Burning_Stone_Gardens.md).
--   The Souwlrought Axe can only be obtained by the player having the [Crazy Slots](Crazy_Slots.md) Resonance.
 -   The [Golden Rat Bouncer](Golden_Rat_Bouncer.md) outside of the [Rat's Den](<Rat's_Den.md>) says he'll offer you something if you bring him 5 Gold Plates, being a small chest containing high-tier loot for Burning Stone Gardens.

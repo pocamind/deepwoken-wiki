@@ -1,6 +1,6 @@
 ---
 title: Duke Ishamon Erisia
-revid: 197725
+revid: 198278
 source: https://deepwoken.fandom.com/wiki/Duke_Ishamon_Erisia
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Voiced Characters, Members of the Erisia family]
@@ -128,6 +128,12 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
 
 -   Telegraphed by an audio cue while rising and quick cast compared to Binding Tempest.
 
+_Uses Telegraph_
+
+[GuardbreakTelegraph](Combat_Mechanics.md#circle)
+
+Guardbreak
+
  | 
 
  |
@@ -139,6 +145,12 @@ _For a visual guide consider watching [this video](https://www.youtube.com/watch
  | Duke Erisia stomps the ground, conjuring a wave of wind up from the ground towards his victim in his line of direction.
 
 -   Will daze targets if they hit a wall while ragdolled.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 
@@ -416,7 +428,7 @@ Exhaustive Loot Table
 <tr>
   <td colspan="6">You're right. I'm wasting valuable time on you. <a href="Glossary.md#lumen">Lumen's</a> salvation will not wait for the fools who would deny it.<br>
   </td>
-  <td colspan="6">You're right. There's no reasoning with a monster like you. For Lumen's salvation, I will be the one to slay you.<br>
+  <td colspan="6">You're right. There's no reasoning with a monster like you. For <a href="Glossary.md#lumen">Lumen's</a> salvation, I will be the one to slay you.<br>
   </td>
 </tr>
 <tr>

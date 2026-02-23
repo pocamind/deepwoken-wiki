@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 196883
+revid: 198285
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -50,7 +50,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 ― Titus, Fulminus Destellus
 
   
-Blightsurger draws most of its power from Sacred Lightning. It was invented by [Theros](Theros.md). [Titus](Titus_Fulminus_Destellus.md), is one of its users and trainer of the power, who used it alongside the 49th Legion - which he was the leader of - to conquer a majority of the Western Luminant in the name of The Empire.
+Blightsurger draws most of its power from Sacred Lightning. It was invented by [Theros](Theros.md). [Titus](Titus_Fulminus_Destellus.md) is one of its users and a trainer of the power, who used it alongside the 49th Legion - which he was the leader of - to conquer a majority of the Western Luminant in the name of The Empire.
 
 ## Obtainment
 
@@ -90,7 +90,7 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 ### Weapon
 
--   **Sovereign Bangle** - Cestus used by members of the Hundred Legions. Sovereign State does not automatically activate at 100% Blight Meter anymore
+-   **Sovereign Bangle** - Cestus used by members of the Hundred Legions. Sovereign State does not automatically activate at 100% Blight Meter anymore.
     -   This Fist Oath weapon is automatically granted upon entering Sovereign State and will automatically be dispelled upon exiting Sovereign State.
     -   The Sovereign Bangle has the following stats: 30 base damage, 5% PEN, 6 range, 8 weight, 0.98x Swingspeed, and a unique critical.
     -   The critical is a leaping slam attack, applying Blightshock and knockdown. This attack deals 35 Blunt damage with 3 Strength scaling.
@@ -104,8 +104,8 @@ You _**cannot**_ oath skip Blightsurger. Attempting to do will have Brutus beat 
 
 ### Talents
 
--   **Sovereign State** - Landing physical, lightning, and wind hits builds your Blight Meter. At full gauge, enter a Blight State that replaces your weapon with the Sovereign Bangle and empowers Blightsurge abilities.
-    -   Sovereign State does not automatically activate at 100% Blight Meter
+-   **Sovereign State** - Landing physical, lightning, and wind attacks build your Blight Meter. At full gauge, enter a Blight State that replaces your weapon with the Sovereign Bangle and empowers Blightsurge abilities.
+    -   Sovereign State does not automatically activate at 100% Blight Meter.
     -   The Blight Meter gain has no cooldown, and never decays. Landing Blightsurger Mantras grants 15% Blight Meter. Landing M1 attacks grants 10% Blight Meter. Landing weapon criticals, [Thundercall](Thundercall.md) Mantras, or [Galebreathe](Galebreathe.md) Mantras grants 5% Blight Meter per hit.
     -   There is a 10 second cooldown on activating Sovereign State, started once it ends.
     -   The Sovereign State lasts 23.5 seconds if activated at full Blight Meter.
@@ -163,7 +163,7 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 -   This is Dexerius' fourth Oath. His other works are [Saintsworn](Oath%253A_Saintsworn.md), [Arcwarder](Oath%253A_Arcwarder.md), and [Visionshaper](Oath%253A_Visionshaper.md).
 -   This Oath was accidentally released early in [Battle Royale](Battle_Royale.md), allowing players to play a very bare-bones version of the Oath.
 -   This Oath is used by [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
--   Blightsurger's requirements have changed three times since it's addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.
+-   Blightsurger's requirements have changed three times since its addition, and all three changes were done within the first week of the Oath being added. While the attunement requirement remained the same, the core attribute requirement has been changed multiple times.
 -   Blightsurger once had a game-breaking bug that happened whenever you used Skycrash, you would be launched into oblivion, killing you instantly. (similar to [AA-gun deaths](<Terminology_(game).md#aa-gunaa-gunned>))
 -   Blightsurger is currently the only [Oath](Oaths.md) to not have an unique icon for itself, instead using the generic fist [Talent](Talents.md) Card icon.
 

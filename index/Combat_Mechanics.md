@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 198202
+revid: 198277
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -421,7 +421,6 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Deepspindle](Deepspindle.md) standing critical multihits
 -   Default Greatcannon critical (Shockwave)
 -   Corrupted [Chorus Divide](Chorus_Divide.md)
--   [Emotion Wave](Thundercall.md#emotion-wave)
 -   [Fire Forge](Flamecharm.md#fire-forge) ([Tornado Spark](Mantra_Modifiers.md#sparks) variant)
 -   [Kyrsieger](Kyrsieger.md) critical
 -   [Kyrswynter](Kyrswynter.md) running critical
@@ -449,7 +448,6 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 **Boss Attacks**
 
--   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
 -   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Wrathful Stomp
@@ -476,6 +474,7 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 -   [Paralytic Dust](Paralytic_Dust.md) (Self-cast variant)
 -   [Stoneheart](Stoneheart.md) Critical
 -   [Soulwrought Longsword](Crazy_Slots.md#weapons) Special ability
+-   [Emotion Wave](Thundercall.md#emotion-wave)
 
 **Monster Attacks**
 
@@ -489,6 +488,7 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 
 **Boss Attacks**
 
+-   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash, Commander's Whirlthrow
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Severing Flourish, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance

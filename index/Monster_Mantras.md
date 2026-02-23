@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 197917
+revid: 198260
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -434,7 +434,7 @@ _A servant of bone, powered by the Eternal Gale._
 
  | 
 
-Typeless(or blunt)
+Typeless
 
  | 
 
@@ -445,7 +445,7 @@ Typeless(or blunt)
 
 **Effect:** _Summon a wisp that shoots an undodgeable bone every 4 consecutive hits or on uppercut or flourish. Based on the [Scion of Ethiron](Scion_of_Ethiron.md)'s '**Bonestaves of Eld'** attack._
 
--   Deals 15 typeless(or blunt) damage on proc, bypassing armor resistances.
+-   Deals 15 typeless damage on proc, bypassing armor resistances.
 -   Alternatively procs on all uppercut Mantras.
 -   Ragdolls the target on hit.
 -   3 charges unmodded(5 with [Bone Ring](Bone_Ring.md))

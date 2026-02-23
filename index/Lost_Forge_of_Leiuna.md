@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198235
+revid: 198259
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -17,13 +17,17 @@ Leiuna's pride, and the birthplace of the Imperators' armaments. Seeking ever-gr
 
   
 
-## Overview
+## Description
 
-The Lost Forge of Leiuna is a large volcanic island with small buildings surrounding it. It houses the Lost Forge, a special crafting station used to recreate powerful [Equipment](Equipment.md) and weapons similar to ones in [Vow of Iron](Vow_of_Iron.md)
+The Lost Forge of Leiuna is a large volcanic island that was once a town of smiths. It was home of the Lost Forge, a special crafting station used to recreate powerful [Equipment](Equipment.md) and weapons similar to ones in [Vow of Iron](Vow_of_Iron.md). It seems that it's destruction was by the [Interluminary Parasol](Interluminary_Parasol.md).
 
-To access the Lost Forge, the [Interluminary Parasol](Interluminary_Parasol.md) must destroy the door with one of its tentacles, after that the door will be destroyed and players will be allowed to enter it.
+  
 
-## Convertible Weapons
+## The Lost Forge
+
+To enter the Lost Forge, the player can either break the blocked entrance using mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door. The anvil can only be used one per charcter.
+
+### Convertible Weapons
 
 In order to reforge a weapon, you must have it held or equipped. Locked to **ONE** weapon per character.
 

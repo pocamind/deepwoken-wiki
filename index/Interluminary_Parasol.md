@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 198201
+revid: 198263
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -72,7 +72,7 @@ Exhaustive Loot Table
   <td>
   <ol>
     <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a> (direct drop), <a href="Parasol_Part.md">Parasol Part</a> (direct drop), <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a> (direct drop)</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
     <li>One or two <a href="Crowns.md">Crowns</a>, depending on how much damage you did to the Parasol</li>
   </ol></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 197938
+revid: 198272
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -203,7 +203,7 @@ Wind
 -   Both variants have a windup of 0.5 seconds.
 -   Projectile lasts about 3-5 seconds
 -   Modifying with a [Drift](Mantra_Modifiers.md#regular-modifiers)/[Rush Shards](Mantra_Modifiers.md#regular-modifiers) will increase projectile's speed significantly.
--   Casting Wind Blade while sliding will perform the "**Tempest Wind**" variant of the Mantra. This version deals increased damage at the cost of range.
+-   Casting Wind Blade while sliding will perform the "**Tempest Wind**" variant of the Mantra. This version deals increased damage at the cost of range, as well as proccing the [Suffocation](Status_Effects.md#suffocation) status effect innately.
     -   This variant can be increased further with the [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) Talent, increasing the damage of your Tempest Wind-Wind Blade by 20% and granting a 20% damage buff while midair after proccing it.
 
  |

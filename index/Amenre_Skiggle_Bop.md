@@ -1,6 +1,6 @@
 ---
 title: Amenre Skiggle Bop
-revid: 195869
+revid: 198280
 source: https://deepwoken.fandom.com/wiki/Amenre_Skiggle_Bop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -30,7 +30,7 @@ They wear a pair of headphones, listening to the Kyrsan Break. They have a disti
 
 ## Location
 
-Amenre Skiggle Bop is found above the [Kyrsan Wilds](Kyrsan_Wilds.md), right above the watch tower and residing within a cliff=.
+Amenre Skiggle Bop is found above the [Kyrsan Wilds](Kyrsan_Wilds.md), right above the watch tower and residing within a cliff.
 
 ## Dialogue
 

@@ -1,6 +1,6 @@
 ---
 title: Reclaimer of the Recollection
-revid: 195884
+revid: 198279
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire]
@@ -529,3 +529,7 @@ Recollection
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The Reclaimer is voiced by developer Naktigonis.

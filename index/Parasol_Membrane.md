@@ -1,6 +1,6 @@
 ---
 title: Parasol Membrane
-revid: 197584
+revid: 198252
 source: https://deepwoken.fandom.com/wiki/Parasol_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Ingredients]
@@ -24,7 +24,7 @@ notices:
 
 ## Description
 
-The **Parasol Membrane** is a direct drop from the [Interluminary Parasol](Interluminary_Parasol.md). It is a vital part of the Parasol used to bring horrors of [the Depths](The_Depths.md) into the overworld.
+The **Parasol Membrane** is a chest drop from the [Interluminary Parasol](Interluminary_Parasol.md). It is a vital part of the Parasol used to bring horrors of [the Depths](The_Depths.md) into the overworld.
 
 ## Crafting
 
@@ -32,16 +32,11 @@ The Parasol Membrane can be used to craft into other items with the [Lost Forge]
 
 [Equipment](Equipment.md)
 
--   [Regenerative Earrings](Regenerative_Earrings.md)
-    1.  [Old Blood Earrings](Old_Blood_Earrings.md) + 5x [Vampirism](Vampirism.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane
--   [Regenerative Pendant](Regenerative_Pendant.md)
-    1.  [Curseblood Pendant](Curseblood_Pendant.md) + 5x [Curse of the No Life King](Curse_of_the_No_Life_King.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane
--   [Revitalizing Pendant](Revitalizing_Pendant.md)
-    1.  [Wheel Pendant](Wheel_Pendant.md) + 5x [Solar](Solar.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane
+1.  [Regenerative Earrings](Regenerative_Earrings.md): [Old Blood Earrings](Old_Blood_Earrings.md) + 5x [Vampirism](Vampirism.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane
+2.  [Regenerative Pendant](Regenerative_Pendant.md): [Curseblood Pendant](Curseblood_Pendant.md) + 5x [Curse of the No Life King](Curse_of_the_No_Life_King.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane
+3.  [Revitalizing Pendant](Revitalizing_Pendant.md): [Wheel Pendant](Wheel_Pendant.md) + 5x [Solar](Solar.md) [Enchant Stones](Enchant_Stone.md) + 1x Parasol Membrane
 
 [Ingredients](Ingredients.md)
 
--   [Necrotic Membrane](Necrotic_Membrane.md)
-    1.  1x Parasol Membrane + 1x [Trickster Dust](Trickster_Dust.md) + 1x [Weathered Timepiece](Weathered_Timepiece.md)
--   [Necrotic Membrane](Necrotic_Membrane.md)
-    1.  1x Parasol Membrane + 1x [Trickster Dust](Trickster_Dust.md) + 1x [Temporal Crux](Temporal_Crux.md)
+1.  [Necrotic Membrane](Necrotic_Membrane.md): 1x Parasol Membrane + 1x [Trickster Dust](Trickster_Dust.md) + 1x [Weathered Timepiece](Weathered_Timepiece.md)
+2.  [Necrotic Membrane](Necrotic_Membrane.md): 1x Parasol Membrane + 1x [Trickster Dust](Trickster_Dust.md) + 1x [Temporal Crux](Temporal_Crux.md)

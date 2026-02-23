@@ -1,9 +1,11 @@
 ---
 title: "Carrion, Father of Evolution"
-revid: 195393
+revid: 198270
 source: https://deepwoken.fandom.com/wiki/Carrion%2C_Father_of_Evolution
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
+categories: [Ganymede NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, Layer 2, Floor 2, Floor 1, Black Divers]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Carrion, Father of Evolution
@@ -23,9 +25,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Carrion, the "Father of Evolution," is a Ganymede Black Diver and master alchemist. Initially found in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md), he later resides in the [Castle Light](Castle_Light.md) library (after proving you're unaffiliated with Klaris).
+Carrion, the "Father of Evolution," is a Ganymede Black Diver and master alchemist.
 
 He teaches monster mantras (given the right materials) and can untarnish the player's [Resonance](Resonance.md) for 1.
+
+## Location
+
+Carrion is initially found in the Grand Library of [New Kyrsa](Second_Layer/New_Kyrsa.md), he later resides in the [Castle Light](Castle_Light.md) library (after proving you're unaffiliated with Klaris).
 
 ## Dialogue
 
@@ -113,16 +119,16 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin Dialogue</td>
+  <td colspan="9">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="8"><i>*You can barely make out the sounds of laughter as you approach*.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh? Salutations! Klaris and I have been getting on just grand. I guess we're friends now!</td>
+  <td colspan="9"><i>*You can barely make out the sounds of laughter as you approach*.</i> [<i><a href="https://en.wikipedia.org/wiki/sic">sic</a></i>] Oh? Salutations! Klaris and I have been getting on just grand. I guess we're friends now!</td>
 </tr>
 <tr>
-  <td colspan="8">Think you can do something with the monster parts I've collected?</td>
+  <td colspan="9">Think you can do something with the monster parts I've collected?</td>
 </tr>
 <tr>
-  <td colspan="8">Oh wonderful, what do you have? I can only work with the ones I'm familiar with.</td>
+  <td colspan="9">Oh wonderful, what do you have? I can only work with the ones I'm familiar with.</td>
 </tr>
 <tr>
   <td>I have a <a href="Broken_Gatling_Gun.md"><font>broken gatling gun</font></a>...?</td>
@@ -133,9 +139,10 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
   <td>I managed to retrieve this <a href="Giant_Femur.md"><font>strange bone from a Bonekeeper</font></a>.</td>
   <td>I have the <a href="Thresher_Talon.md"><font>talon of a Thresher</font></a>.</td>
   <td>I found what appears to be an <a href="Enforcer_Eye.md"><font>Enforcer's eye</font></a>.</td>
+  <td>I have the <a href="Charged_Parasol_Part.md"><font>charged limb of a Parasol</font></a>.</td>
 </tr>
 <tr>
-  <td colspan="8"><i>*With surprising ferocity, they snatch the ingredient from your hand and begin crushing it into a fine dust. In the blink of an eye, they scatter it in your face, prompting you to cough.*</i> Heheh! Try that. Let me know if it works.</td>
+  <td colspan="9"><i>*With surprising ferocity, they snatch the ingredient from your hand and begin crushing it into a fine dust. In the blink of an eye, they scatter it in your face, prompting you to cough.*</i> Heheh! Try that. Let me know if it works.</td>
 </tr>
 <tr>
   <td>[Grants <a href="Monster_Mantras.md#mecha-gatling"><font><u>Mecha Gatling</u></font></a> Mantra]</td>
@@ -146,9 +153,10 @@ He teaches monster mantras (given the right materials) and can untarnish the pla
   <td>[Grants <a href="Monster_Mantras.md#brachial-spear"><font><u>Brachial Spear</u></font></a> Mantra]</td>
   <td>[Grants <a href="Monster_Mantras.md#beast-burrow"><font><u>Beast Burrow</u></font></a> Mantra]</td>
   <td>[Grants <a href="Monster_Mantras.md#enforcer-pull"><font><u>Enforcer Pull</u></font></a> Mantra]</td>
+  <td>[Grants <a href="Monster_Mantras.md#abyssal-tendrils"><font><u>Abyssal Tendrils</u></font></a> Mantra]</td>
 </tr>
 <tr>
-  <td colspan="8">[End Dialogue]</td>
+  <td colspan="9">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
