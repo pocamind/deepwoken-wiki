@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 198328
+revid: 198346
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -15,57 +15,6 @@ notices:
 **Quests** are a major part of _Deepwoken_. They are a significant means of progression, rewarding essential [Talents](Talents.md), EXP, or items upon completion. Most quests require killing enemies or obtaining certain items while some simply require talking to a NPC. Quests for [Murmurs](Murmur.md), [Oaths](Oaths.md), [Job Boards](Job_Boards.md) and [Attributes Unbounds](Attributes_Unbound.md) are on their own pages.
 
 Quests are divided into Curiosity, Bravery and Compassion quests. Completing a quest in a category for the first time will display the message "You have shown your \[Trait\] and grown from it" and an extra Talent hand will be awarded on [Power](Power.md) increase or by rejoining. If you are Power 20, the hand is given immediately. Any subsequent completions of quests in that category will not award a Talent hand, meaning you can get a maximum of 3 extra Talent hands from quests.
-
-## Echo Talent Quests
-
-These quests, when completed, give Talents that will be unlocked on every character at a certain power level. If done on later lives, they will only give a bit of EXP.
-
-### Bravery
-
-The following quests grant the _Bravery_ Talent hand on top of their other rewards. Keep in mind this cannot be stacked with other Bravery quests.
-
-#### Megalodaunt Slayer
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: <a href="The_Garden_Reservoir.md">The Garden Reservoir</a>, <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a><br>
-  <b>Guide</b>: Talk to the <a href="Etrean.md">Etrean</a> NPC <a href="Arthur.md">Arthur</a> outside of the entrance of The Garden Reservoir. He will ask you to avenge his friends by killing a <a href="Megalodaunt.md">Megalodaunt</a>. Kill one and return.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#engage">Engage</a> + <a href="Talents.md#critical-attack">Critical Attack</a>, EXP, Bravery, 3 Full Training points</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Arthur.md">Arthur</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
-#### Thresher Scales
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br>
-  <b>Guide</b>: Talk to the Ganymede NPC <a href="Jessamine.md">Jessamine</a> in <a href="The_Starswept_Valley.md">Starswept Valley</a>. He will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.<br>
-  <b>Reward(s)</b>: <a href="Talents.md#thresher-scales">Thresher Scales</a>, Bravery, 3 Full Training points</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Jessamine.md">Jessamine</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
-### Miscellaneous
-
-The following quests do not grant Bravery, Compassion, nor Curiosity, but often grant more tangible rewards, such as EXP, items, or Talents.
-
-#### Chain of Perfection
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: N/A<br>
-  <b>Guide</b>: Defeat any boss without taking any damage<br>
-  <b>Reward(s)</b>: <a href="Talents.md#chain-of-perfection">Chain of Perfection</a></p></div></td>
-  <td></td>
-</tr>
-</tbody>
-</table>
 
 ## Talent Quests
 
@@ -84,6 +33,82 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
   <b>Guide</b>: Talk to the NPC named Lucian outside the entrance of the <a href="Mudskipper.md#mineskipper">Mudskipper</a> mine (near the Voidzone entrance). They will ask you to kill 5 Mineskippers. Do so and return.<br>
   <b>Reward(s)</b>: <a href="Talents.md#family-recipe">Family Recipe</a>, Bravery, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Lucien.md">Lucien</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+#### Navae's Retribution
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="Fort_Merit.md">Fort Merit</a><br>
+  <b>Guide</b>: Talk to <a href="Beiruul.md">Beiruul</a> at <a href="Meteor_Isle.md">Meteor Isle</a>, then go to Fort Merit. Event occurs near the lift. Kill some <a href="Authority_Peacekeeper.md">Authority Peacekeepers</a> (~4-6), then return to Meteor Isle.<br>
+  <b>Reward(s)</b>: EXP, Bravery, 2 <a href="Knowledge.md">Knowledge</a>, <a href="Talents.md#beiruuls-vengeance">Beiruul's Vengeance</a>, 5 Full Training points</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Beiruul.md">Beiruul</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+### Compassion
+
+#### Vigil's Savior
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a><br>
+  <b>Guide</b>:</p>
+  <ul>
+    <li>Talk to Apprentice Kj in The Temple of the Blades, located at the left corridor room; sitting down sobbing.</li>
+    <li>He asks you to rescue, or find his sibling in <a href="Erisia.md">Erisia</a>.</li>
+    <li>His sibling is found in an Abandoned Wood Lodge in <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a>, near a cliff.</li>
+    <li>Obtain a <a href="Gale_Stone.md">Gale Stone</a> and give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.</li>
+    <li>Talking to Apprentice Kj after giving the Gale Stone finishes the quest.</li>
+    <li>Vigil Isaac can be found next to the Mantra Modification table at Vigils after completing the quest.</li>
+  </ul><p><b>Reward(s)</b>: EXP, Compassion, <a href="Talents.md#kjs-courage">Kj's Courage</a>, unlocks dialogue with <a href="Evengarde_Rest.md">Evengarde Rest</a>, 5 Full Training points</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Apprentice_Kj.md">Kj</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+#### Grave Tending
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="Greathive_Aratel.md">Greathive Aratel</a><br>
+  <b>Guide</b>: Talk to <a href="Suri.md">Suri</a> at <a href="Greathive_Aratel.md">Greathive Aratel</a>. He will ask you to place a flower on his brother's grave at <a href="Isle_of_Vigils.md">Isle of Vigils</a>. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.<br>
+  <b>Reward(s)</b>: <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gem</a>, Hive Reputation, Compassion, <a href="Talents.md#careful-handling">Careful Handling</a></p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Suri.md">Suri</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+#### Travelling Blade
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: Etris and Vigils<br>
+  <b>Guide</b>: Talk to <a href="Nanji.md">Nanji</a> at Etris near the bridge between Lance Leshi's and the barber, interact with a sword on the ground near the end of the zipline going away from the Fang and Coil trainer in Isle of Vigils, then talk to the Nanji again.<br>
+  <b>Reward(s)</b>: EXP, Compassion, <a href="Talents.md#nanjis-training">Nanji's Training</a>, 5 Full Training points</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Nanji.md">Nanji</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+### Curiosity
+
+#### Ghost Hunting
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Beloved_Zofia.md">Beloved Zofia</a><br>
+  <b>Guide</b>: Talk to <a href="Suyuan.md">Suyuan</a> in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost on the ship and return to Suyuan.<br>
+  <b>Reward(s)</b>: EXP, Curiosity, <a href="Talents.md#supernatural-sense">Supernatural Sense</a>, 5 Full Training points</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Suyuan.md">Suyuan</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -158,6 +183,19 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 </tbody>
 </table>
 
+#### Chain of Perfection
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: N/A<br>
+  <b>Guide</b>: Defeat any boss without taking any damage<br>
+  <b>Reward(s)</b>: <a href="Talents.md#chain-of-perfection">Chain of Perfection</a></p></div></td>
+  <td></td>
+</tr>
+</tbody>
+</table>
+
 #### Treefelling Blow
 
 <table>
@@ -193,15 +231,28 @@ These quests usually give EXP, Reputation and/or an item.
 
 The following quests grant the _Bravery_ Talent hand on top of their other rewards. Keep in mind this cannot be stacked with other Bravery quests.
 
-#### Navae's Retribution
+#### Megalodaunt Slayer
 
 <table>
 <tbody>
 <tr>
-  <td><div><p><b>Quest Location</b>: <a href="Fort_Merit.md">Fort Merit</a><br>
-  <b>Guide</b>: Talk to <a href="Beiruul.md">Beiruul</a> at <a href="Meteor_Isle.md">Meteor Isle</a>, then go to Fort Merit. Event occurs near the lift. Kill some <a href="Authority_Peacekeeper.md">Authority Peacekeepers</a> (~4-6), then return to Meteor Isle.<br>
-  <b>Reward(s)</b>: EXP, Bravery, 2 <a href="Knowledge.md">Knowledge</a>, <a href="Talents.md#beiruuls-vengeance">Beiruul's Vengeance</a>, 5 Full Training points</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Beiruul.md">Beiruul</a></div><p></p></figcaption></figure></td>
+  <td><div><p><b>Quest Location</b>: <a href="The_Garden_Reservoir.md">The Garden Reservoir</a>, <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a><br>
+  <b>Guide</b>: Talk to the <a href="Etrean.md">Etrean</a> NPC <a href="Arthur.md">Arthur</a> outside of the entrance of The Garden Reservoir. He will ask you to avenge his friends by killing a <a href="Megalodaunt.md">Megalodaunt</a>. Kill one and return.<br>
+  <b>Reward(s)</b>: EXP, Bravery, 3 Full Training points</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Arthur.md">Arthur</a></div><p></p></figcaption></figure></td>
+</tr>
+</tbody>
+</table>
+
+#### King Regicide
+
+<table>
+<tbody>
+<tr>
+  <td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br>
+  <b>Guide</b>: Talk to the Ganymede NPC <a href="Jessamine.md">Jessamine</a> in <a href="The_Starswept_Valley.md">Starswept Valley</a>. He will ask you to kill a King Thresher. They can be found in the Lightkeeper Temple nearby as a guaranteed spawn. Kill one and return.<br>
+  <b>Reward(s)</b>: Bravery, 3 Full Training points</p></div></td>
+  <td><figure><figcaption><p></p><div><a href="Jessamine.md">Jessamine</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -209,39 +260,6 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 ### Compassion
 
 The following quests grant the _Compassion_ Talent hand on top of their other rewards. Keep in mind this cannot be stacked with other Compassion quests.
-
-#### Vigil's Savior
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a><br>
-  <b>Guide</b>:</p>
-  <ul>
-    <li>Talk to Apprentice Kj in The Temple of the Blades, located at the left corridor room; sitting down sobbing.</li>
-    <li>He asks you to rescue, or find his sibling in <a href="Erisia.md">Erisia</a>.</li>
-    <li>His sibling is found in an Abandoned Wood Lodge in <a href="Burning_Stone_Gardens.md">Burning Stone Gardens</a>, near a cliff.</li>
-    <li>Obtain a <a href="Gale_Stone.md">Gale Stone</a> and give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.</li>
-    <li>Talking to Apprentice Kj after giving the Gale Stone finishes the quest.</li>
-    <li>Vigil Isaac can be found next to the Mantra Modification table at Vigils after completing the quest.</li>
-  </ul><p><b>Reward(s)</b>: EXP, Compassion, <a href="Talents.md#kjs-courage">Kj's Courage</a>, unlocks dialogue with <a href="Evengarde_Rest.md">Evengarde Rest</a>, 5 Full Training points</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Apprentice_Kj.md">Kj</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
-#### Grave Tending
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: <a href="Greathive_Aratel.md">Greathive Aratel</a><br>
-  <b>Guide</b>: Talk to <a href="Suri.md">Suri</a> at <a href="Greathive_Aratel.md">Greathive Aratel</a>. He will ask you to place a flower on his brother's grave at <a href="Isle_of_Vigils.md">Isle of Vigils</a>. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.<br>
-  <b>Reward(s)</b>: <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gem</a>, Hive Reputation, Compassion, <a href="Talents.md#careful-handling">Careful Handling</a></p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Suri.md">Suri</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
 
 #### Legion Scout
 
@@ -252,19 +270,6 @@ The following quests grant the _Compassion_ Talent hand on top of their other re
   <b>Guide</b>: Talk to <a href="Atra.md">Atra</a>, who will ask you to find a scout named Lars. Lars is found in the bluecap library accessed by unlocking the entrance with the Birdcage or through an entrance in <a href="The_Viper's_Jaw.md">The Viper's Jaw</a>.<br>
   <b>Reward(s)</b>: EXP, Compassion, 3 Full Training points</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Atra.md">Atra</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
-#### Travelling Blade
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: Etris and Vigils<br>
-  <b>Guide</b>: Talk to <a href="Nanji.md">Nanji</a> at Etris near the bridge between Lance Leshi's and the barber, interact with a sword on the ground near the end of the zipline going away from the Fang and Coil trainer in Isle of Vigils, then talk to the Nanji again.<br>
-  <b>Reward(s)</b>: EXP, Compassion, <a href="Talents.md#nanjis-training">Nanji's Training</a>, 5 Full Training points</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Nanji.md">Nanji</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -284,19 +289,6 @@ The following quests grant the _Curiosity_ Talent hand on top of their other rew
   <b>Reward(s)</b>: 2 <a href="Aces.md">Aces</a>, EXP, Curiosity<br>
   (Note: you can actually softlock this quest by donating this book to librarian in guild base)</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Elykris.md">Elykris</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
-#### Ghost Hunting
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: <a href="Isle_of_Vigils.md">Isle of Vigils</a>, <a href="Beloved_Zofia.md">Beloved Zofia</a><br>
-  <b>Guide</b>: Talk to <a href="Suyuan.md">Suyuan</a> in the library of the Isle of Vigils. Visit the Beloved Zofia, talk to the ghost on the ship and return to Suyuan.<br>
-  <b>Reward(s)</b>: EXP, Curiosity, <a href="Talents.md#supernatural-sense">Supernatural Sense</a>, 5 Full Training points</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Suyuan.md">Suyuan</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>
 </table>
@@ -337,7 +329,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 </tbody>
 </table>
 
-#### Food delivery
+#### Temple Delivery
 
 <table>
 <tbody>
@@ -430,7 +422,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 </tbody>
 </table>
 
-#### Weapon Manual
+#### Fraud Maestro
 
 <table>
 <tbody>
@@ -546,19 +538,6 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 </tbody>
 </table>
 
-#### Monster Hunting
-
-<table>
-<tbody>
-<tr>
-  <td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br>
-  <b>Guide</b>: Talk to the Vesperian NPC <a href="Calamus.md">Calamus</a> on the left side of the gate to the upper level of <a href="The_Lordsgrove.md">The Lordsgrove</a>. He will ask you to kill a monster in Aratel Island. Kill one and return.<br>
-  <b>Reward(s)</b>: EXP, Hive Reputation and a chest with loot</p></div></td>
-  <td><figure><figcaption><p></p><div><a href="Calamus.md">Calamus</a></div><p></p></figcaption></figure></td>
-</tr>
-</tbody>
-</table>
-
 #### Navae Hostage
 
 <table>
@@ -578,7 +557,7 @@ The following quests do not grant Bravery, Compassion, nor Curiosity, but often 
 <tbody>
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="The_Starswept_Valley.md">Starswept Valley</a><br>
-  <b>Guide</b>: Turn in the bags found around Starswept Valley to Mercille near the Guy at the outpost near Meteor Isle.<br>
+  <b>Guide</b>: Turn in the bags found around Starswept Valley to <a href="Mercille.md">Mercille</a> near the Guy at the outpost near Meteor Isle.<br>
   <b>Reward(s)</b>: Small Hive Chest</p></div></td>
   <td><figure><figcaption><p></p><div><a href="Mercille.md">Mercille</a></div><p></p></figcaption></figure></td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 198335
+revid: 198353
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -211,8 +211,8 @@ Parry
 
 ## Passives
 
--   **Kyrsan Chill -** Being hit by the Kyrsgarde Champion's applies a permanent slowing effect that stacks. All active slow stacks are cleared when the Kyrsgarde Champion reach 50% HP, and again when defeated.
--   **Temporal Immunity -** The Kyrsgarde Champion is immune to the Space-time collapse vortexes.
+-   Kyrsan Chill - Being hit by the Kyrsgarde Champion's applies a permanent slowing effect that stacks. All active slow stacks are cleared when the Kyrsgarde Champion reach 50% HP, and again when defeated.
+-   Temporal Immunity - The Kyrsgarde Champion is immune to the Space-time collapse vortexes.
 
 ## Tips and Strategy
 
@@ -256,3 +256,4 @@ In addition to its drops, defeating it also awards you with 1.
 ## Trivia
 
 -   Kills against the Kyrsgarde Champion contribute towards the general Kyrsgarde bestiary entry, so the boosts from that entry should also apply against it.
+-   Climbing over the **Permafrost Colosseum** is possible if it is summoned near certain tall buildings in New Kyrsa.

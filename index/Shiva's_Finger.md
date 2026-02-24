@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Finger"
-revid: 198086
+revid: 198342
 source: https://deepwoken.fandom.com/wiki/Shiva's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

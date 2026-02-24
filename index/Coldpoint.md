@@ -1,9 +1,9 @@
 ---
 title: Coldpoint
-revid: 197964
+revid: 198426
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
+categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
 ---
 
 # Coldpoint
@@ -36,10 +36,22 @@ categories: [Weapons, Weapons with Unique Criticals, Weapons with Talents, Rapie
 
 The Coldpoint is an ice rapier obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
+This weapon comes with a singular passive ability:
+
+-   **Eternal Chill** - Every hit landed with this weapon applies [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) stacks.
+
 ## Talent: True Shatter
 
 Landing a critical shatters your opponent, ridding them of their speed debuffs and dealing true damage, scaling off of how much the target was slowed.
 
+## Critical
+
+The user reels their rapier back briefly, before piercing through the target in a short flash, applying [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) when hit.
+
+The critical has a cooldown of **10 seconds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
+
 ## Trivia
 
-The [weapon talent](Talents.md#weapon-talents), True Shatter, is shared between the Coldpoint and the [Icepick](Icepick.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode.
+-   The [weapon talent](Talents.md#weapon-talents), True Shatter, is shared between the Coldpoint and the [Icepick](Icepick.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode.

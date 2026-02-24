@@ -1,6 +1,6 @@
 ---
 title: Grand Pathfinder Cloak
-revid: 194672
+revid: 198408
 source: https://deepwoken.fandom.com/wiki/Grand_Pathfinder_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits]
@@ -41,10 +41,12 @@ This Outfit has 2000 durability and grants +20% Physical resistance, +20% Elemen
 
 The [Legendary](Talents.md#legendary) Talent grants Ether restoration when you land weapon attacks or parry attacks.
 
+(Tested on 450 Ether: +2.5% Ether on parry, +10% Ether on M1, +10% Ether on [Critical Attacks with M1 Tag](https://docs.google.com/document/d/e/2PACX-1vSPmulQoA5H3OTyzC8SVCCy2kx6o97dlqCvkif7uR0ihoIBOWQ9Mv2OAyb0eMB-EU4CzPW8u1asvaIE/pub))
+
 ## Trivia/Notes
 
 -   One of the most difficult and least used expert armors to craft due to the amount of materials needed to craft and that terrible stats it provides. Thus, it is recommended to use another Expert armor.
--   Regardless of the first statement, Legendary is one of the best armor talents in the game.
 -   A valid alternative to master tier armours, so long as you are sufficiently skilled to make use of the Legendary ether gain.
--   Theoretically, the "Legendary" talent should synergise particularly well with weapons that consume ether, such as the Rosen's Hellflame on critical, or the Guiding Star on M1.
+-   Works with all M1 tag attacks.
+-   Only procs on direct hit or guardbreak M1s.
 -   **Current** grandmaster pathfinder is an outfit created by **KAHAEL**.

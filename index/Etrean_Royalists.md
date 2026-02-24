@@ -1,11 +1,9 @@
 ---
 title: Etrean Royalists
-revid: 198128
+revid: 198416
 source: https://deepwoken.fandom.com/wiki/Etrean_Royalists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages]
-notices:
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Vow of Iron Exclusive]
 ---
 
 # Etrean Royalists
@@ -34,7 +32,7 @@ The Royalists are made up of four distinct clans: Clan Anako, Clan Mofisu, Clan 
 
 They are the primary enemy of [The Lord Regent](<Zi'eer,_the_Fourth_Prophet.md>) and seek to free [Etrea](Etrea.md) from the mind veil he has imposed over its citizens. The Royalists during the Etrean Civil War used the [Temple of Mur](Temple_of_Mur.md) as a clandestine base of operations to plan their fight, however, it and the nearby [Viridian Sanctuary](Viridian_Sanctuary_Ruins.md) were attacked by [Shoguns](<Shogun_of_the_Prophet's_Guard.md>) sent by the Lord Regent effectively causing the Mofisu Clan to go into exile.
 
-Following a heated arguement between each of the Sachans at [The Golden Rat](The_Golden_Rat.md), the Old Guard was effectively disbanded leaving each clan alone to their own plans. Clan Ganba wished to make contact with the [Isle of Vigils](Isle_of_Vigils.md) and use it as a base of operations against the Lord Regent, and if not possible, make their way westward and attempt to join with [The Hundred Legions](The_Hundred_Legions.md). They also wished to retake the Monastary of Mur and the Viridian Sanctuary to which Clan Mofisu and Clan Anako were 'adamant' about.
+Following a heated argument between each of the Sachans at [The Golden Rat](The_Golden_Rat.md), the Old Guard was effectively disbanded leaving each clan alone to their own plans. Clan Ganba wished to make contact with the [Isle of Vigils](Isle_of_Vigils.md) and use it as a base of operations against the Lord Regent, and if not possible, make their way westward and attempt to join with [The Hundred Legions](The_Hundred_Legions.md). They also wished to retake the Monastery of Mur and the Viridian Sanctuary to which Clan Mofisu and Clan Anako were 'adamant' about.
 
 On the other hand, Clan Kobura wanted to join forces with [The Central Authority](The_Central_Authority.md) claiming they needed 'powerful allies against the Regent' or even join the Regent's forces if no other solution presented themselves.
 
@@ -66,7 +64,7 @@ The Royalists have a Reputation reset NPC, [Yen](Yen.md), near the front of the 
 
 -   During the very early start of Vow of Iron's release, the Royalists were always hostile against the players, making obtaining all [Etris Flasks](Etris_Flask.md) harder.
 -   The Royalists seemingly are the only Etreans still capable of making the previously mentioned Etris Flasks seeing as they are only obtainable in their estates. This likely means their dissolution are what makes them not appear in [Pathfinder](Pathfinder.md).
--   Each clan in the Royalists dons their own colored armor, banners and emblems which are visible below.
+-   Each clan in the Royalists dons their own-colored armor, banners and emblems which are visible below.
 
 ## References
 

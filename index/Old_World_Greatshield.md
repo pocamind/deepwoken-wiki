@@ -1,6 +1,6 @@
 ---
 title: Old World Greatshield
-revid: 189465
+revid: 198389
 source: https://deepwoken.fandom.com/wiki/Old_World_Greatshield
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Shields, Offhand]
@@ -22,7 +22,7 @@ categories: [Weapons, Shields, Offhand]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Miner's Landing, Chime of Conflict, Crypt of the Unbroken, Fishing, Bounty Chests, Pure Astruline Chest |
+| obtainment | Miner's Landing, Chime of Conflict, Crypt of the Unbroken, Fishing, Saramaed Hollow, Bounty Chests, Pure Astruline Chest |
 | description | A shield designed intricately, most likely from a pre-Canticlym era. Its intricate design suggests previous use in royalty, although it cannot be said for sure. |
 
 ## Description

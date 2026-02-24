@@ -1,6 +1,6 @@
 ---
 title: Clan Ganba
-revid: 198282
+revid: 198413
 source: https://deepwoken.fandom.com/wiki/Clan_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -15,6 +15,8 @@ categories: [Vow of Iron Exclusive]
 | goals | Preserve the history of Etrea, Go west and attempt to join with The Hundred Legions |
 | founded | 1219 CE[1][2] |
 | dissolved | 1233 CE |
+
+Variants: [Clan Anako](Clan_Anako.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

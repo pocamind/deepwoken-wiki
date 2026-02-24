@@ -1,6 +1,6 @@
 ---
 title: Novice Boots
-revid: 176511
+revid: 198380
 source: https://deepwoken.fandom.com/wiki/Novice_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from;, Summer Isle, Fort Merit, First Layer, Lodestar, Maestro Evengarde Rest, Dread Serpent, War Mode |
+| obtainment | Chests from;, Summer Isle, Fort Merit, First Layer, Lodestar, Maestro Evengarde Rest, Dread Serpent, War Mode, Saramaed Hollow |
 | description | ... |
 
 ## Description

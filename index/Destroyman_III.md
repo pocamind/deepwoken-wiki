@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 197480
+revid: 198352
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -29,7 +29,7 @@ Symptoms of Coral Fever includes:
 
 With the original strand of Coral Fever contained, Destroyman III was set to disappear. However, he lives on within the Great Sharko Rumbling monument at Etris Docks. Simply emoting near the monument will grant you a benign version of the Coral Fever, which only includes Destroyman III. If you ever feel the need to be left alone, simply emoting near the monument again will DESTROY Destroyman III. (How dare you)
 
-You could buy an official Sharko Plush made by Makeship [here](https://www.makeship.com/products/sharko-plush), but they are sadly sold out.
+You can buy an official Sharko Plush made by Makeship [here](https://www.makeship.com/products/sharko-plush).
 
 ## Quotes
 
@@ -231,7 +231,7 @@ You could buy an official Sharko Plush made by Makeship [here](https://www.makes
 -   The line "A Felinor can have a little bit of salami. As a treat." is a reference to the meme "Cats can have a little salami. As a treat."
 -   The line "Journey before destination." is the same as the, now removed, [Jetstriker](Oath%253A_Jetstriker.md) [Mystic](Mystic.md) dialogue.
 -   ~The description of the Sharko Plush implies that Destroyman III isn't even barely as strong as a regular Sharko, being that one of the actions that you can do with him is freely punt him with no repercussion. All of his threats are empty. Do not let him intimidate you with the fact he's free of your monitor.~ No
--   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they sold out.
+-   Developer ragoozer, despite being one of the owners of the game, was actually unable to buy a [Sharko Plush](https://www.makeship.com/products/sharko-plush) before they originally sold out.
 -   The line "IT'S JUST ONE OF THOSE DAYS." is a reference to the song _[Break Stuff](https://www.youtube.com/watch?v=ZpUYjpKg9KY)_ by Limp Bizkit.
 -   Destroyman III was ~turned into a plush~ granted a physical form through the 'Crowdfunded Murchendice Campaign' played out by the Drowned God Murchendice.
     -   As seen by the poll in the Deepwoken Discord server, Murchendice let the community vote on who would become the next victim of their schemes to grant Deepwoken characters physical form. The one that won out in the end was Duke Erisia, and since the vote's results came through, has gone entirely missing.

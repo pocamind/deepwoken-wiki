@@ -1,6 +1,6 @@
 ---
 title: Gladiator Helm
-revid: 193214
+revid: 198372
 source: https://deepwoken.fandom.com/wiki/Gladiator_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -23,7 +23,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Aratel Island, Voidwalker Bounties, Duke Erisia, Etris: Siege, Deep Widow, Starswept Valley, First Layer |
+| obtainment | Chests from:, Aratel Island, Voidwalker Bounties, Duke Erisia, Etris: Siege, Deep Widow, Starswept Valley, First Layer, Saramaed Hollow |
 | description | The visage of a gladiator who has seen many battles. |
 
 ## Description

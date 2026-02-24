@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 198260
+revid: 198351
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -446,7 +446,7 @@ Typeless
 **Effect:** _Summon a wisp that shoots an undodgeable bone every 4 consecutive hits or on uppercut or flourish. Based on the [Scion of Ethiron](Scion_of_Ethiron.md)'s '**Bonestaves of Eld'** attack._
 
 -   Deals 15 typeless damage on proc, bypassing armor resistances.
--   Alternatively procs on all uppercut Mantras.
+-   Alternatively procs on all uppercut Mantras, such as Skyshatter Kick and Celestial Assault.
 -   Ragdolls the target on hit.
 -   3 charges unmodded(5 with [Bone Ring](Bone_Ring.md))
 -   5 second cooldown(no cd with Bone Ring)

@@ -1,9 +1,9 @@
 ---
 title: Transfusion Ring
-revid: 189909
+revid: 198356
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, Equipment, Rings]
+categories: [Equipment, Rings]
 ---
 
 # Transfusion Ring
@@ -20,12 +20,8 @@ categories: [Vow of Iron Exclusive, Equipment, Rings]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Sitting on an island near the "South" direction on the map compass. |
+| obtainment | Sitting on an island near the "South" direction on the map compass. (Vow of Iron)Lost Forge (Pathfinder) |
 | description | Gain extra vitality at the cost of your ability to heal (receive 50% less healing). |
-
-**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
 
 ## Description
 
@@ -33,5 +29,5 @@ This content is not accessible outside of this gamemode.
 
 ## Trivia
 
--   Ring location on the map
--   This ring intermittently emits gold colored particles
+-   Ring location in the [Vow of Iron](Vow_of_Iron.md) map
+-   This ring intermittently emits gold-colored particles
