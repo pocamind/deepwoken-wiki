@@ -1,6 +1,6 @@
 ---
 title: Stratos
-revid: 196388
+revid: 198445
 source: https://deepwoken.fandom.com/wiki/Stratos
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, Quests, Etrea, NPCs located in the Etrean Luminant, NPCs]
@@ -27,18 +27,108 @@ Stratos is the second-in-command of the Blade Temple, residing on the [Isle of V
 
 To complete the quest, you must have the following requirements fulfilled:
 
--   Have a minimum of 20 points invested into [Galebreathe](Galebreathe.md)
--   Have "Friend" reputation with Etrea (~75).
+-   Have 15 points in [Galebreathe](Galebreathe.md) **(NOT HAVING 15 OR MORE WILL SOFTLOCK YOU FROM GETTING THE TALENT AND BUG THE QUESTLINE)**
+-   Have "Friend" reputation with Etrea (~75). This is equal to spawning as an Etrean, killing the bandits, and doing the Delivery quest.
 
 ### The Reward
 
-After reaching 20 Galebreath and around ~75 reputation with Etrea, return to Stratos and you will receive the "Windwaker" Talent. Similarly to "[Produce Spark](Talents.md#flamecharmer)", "[Flame Within](Talents.md#amoran-seeker)" and "[Discovery of Fire](Talents.md#thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown (~55 sec).
+When meeting the requirements, talk to Stratos to receive the "[Windwaker](Talents.md)" Talent. Similarly to "[Produce Spark](Talents.md#flamecharmer)", "[Flame Within](Talents.md#amoran-seeker)" and "[Discovery of Fire](Talents.md#thundercaller)", you can activate the Talent by equipping it or clicking on it within your inventory. Windwaker will grant your boat a temporary speed boost (similar to going through Sea Highways) before going on a long cooldown (~55 sec).
 
 File:Arch proof.png
 
 ## Dialogue
 
-Food Delivery quest
+Updated according to 2/24/26
+
+**Reputation Not Met:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*You feel a sudden rush as if walking into a tornado. The feeling subsides as you take a step back, choosing not to disturb the man before you.*</i></td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Reputation Met:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">*The wind that once held you back now urges you forward* Don't be shy, what is it you need?</td>
+</tr>
+<tr>
+  <td colspan="6">Who are you?</td>
+</tr>
+<tr>
+  <td colspan="6">I am stratos, Keeper for the Scholars of the Clouds.</td>
+</tr>
+<tr>
+  <td colspan="6">What are the Scholars of the Clouds?</td>
+</tr>
+<tr>
+  <td colspan="6">We record the history and knowledge of the Vigil. I also act as Second in Command next to the Maestro. Those who come to this temple to learn of Wind learn under me and my instructors.</td>
+</tr>
+<tr>
+  <td colspan="6">Is there anything you can teach me?</td>
+</tr>
+<tr>
+  <td colspan="6">Once you feel the essence of the wind, I will teach you.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Quest:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">Ah, it seems you have it... You understand the winds in ways imperceptible to others.</td>
+</tr>
+<tr>
+  <td colspan="6">So you'll teach me?</td>
+</tr>
+<tr>
+  <td colspan="6">(Placeholder)</td>
+  <td colspan="6">(Galebreathe not unlocked) Hm... You understand the wind but you do not make use of it... Perhaps return once you learn the way of a Galebreather.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue], Quest completed</td>
+  <td colspan="6">[End Dialogue], Return to Stratos with Galebreathe unlocked</td>
+</tr>
+</tbody>
+</table>
+
+**Quest Completed:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6">The Scholars have held these halls for many years, my student... But something dark festers in the palace across the way, and I fear even the Maestro is not powerful enough to hold it at bay...</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
 
 **Food Delivery:**
 
@@ -91,7 +181,7 @@ Food Delivery quest
   <td colspan="6">Uh? No, I don't believe so. @#$%&amp; was the name their mother gave me. Extraordinary cook she was. And a keen blade too. <i>*Okay, no luck. This guy clearly doesn't know his name either.*</i></td>
 </tr>
 <tr>
-  <td colspan="6">[End Dialogue] (Given 25 Notes)</td>
+  <td colspan="6">[End Dialogue], Given 25</td>
 </tr>
 </tbody>
 </table>

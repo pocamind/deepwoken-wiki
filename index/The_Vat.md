@@ -1,6 +1,6 @@
 ---
 title: The Vat
-revid: 188784
+revid: 198432
 source: https://deepwoken.fandom.com/wiki/The_Vat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Dungeons, The Depths]
@@ -40,6 +40,8 @@ Upon completing all three trials, you'll be reunited with [The Gaunt Man](The_Ga
     -   [Parasol Part](Parasol_Part.md)
 -   [Aegis Gem](Aegis_Gem.md)
     -   [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>)
+-   [Charged Bonecharm](Charged_Bonecharm.md) ([Bone Wisp](Monster_Mantras.md#bone-wisp-))
+    -   [Kyrsan Necklace](Kyrsan_Necklace.md)
 
 ## Trivia
 

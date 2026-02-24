@@ -1,6 +1,6 @@
 ---
 title: The Death Knell
-revid: 198096
+revid: 198430
 source: https://deepwoken.fandom.com/wiki/The_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -58,4 +58,4 @@ All criticals have a cooldown of **5 seconds**.
 
 ## Trivia
 
--   The name "Death Knell" is most likely inspired by the hit novel ''Lord of the Mysteries'', where Death Knell is a long-barreled pistol used by the protagonist, Klein Moretti.
+-   A death knell is the ringing of a church bell to announce the death of a person.

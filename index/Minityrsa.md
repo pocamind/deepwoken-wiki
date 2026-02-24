@@ -1,6 +1,6 @@
 ---
 title: Minityrsa
-revid: 197880
+revid: 198439
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, The Ministry, Locations in the Etrean Luminant]
@@ -70,7 +70,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>:</li>
     <li><a href="Equipment.md#arms"><b>Arms Equipment</b></a>: <a href="Flameguard_Pauldrons.md">Flameguard Pauldrons</a>, <a href="Glassdancer_Wraps.md">Glassdancer Wraps</a></li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Legion_Boots.md">Khan Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Legion_Boots.md">Legion Boots</a>, <a href="Brilliant_Boots.md">Brilliant Boots</a>, <a href="Ranger's_Boots.md">Ranger's Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: Capes, <a href="Grand_Pathfinder's_Backpack.md">Grand Pathfinder's Backpack</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Blindfold.md">Blindfold</a>,<a href="Ten-Gallon_Bandana.md">Ten-Gallon Bandana</a>, <a href="Eyeglasses.md">Eyeglasses</a></li>
     <li><a href="Equipment.md#ears"><b>Ear Equipment</b></a>:</li>
