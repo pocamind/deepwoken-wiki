@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 195622
+revid: 198337
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Deepwoken]
@@ -48,13 +48,16 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 14 | [The Sun, Gleaming](https://soundcloud.com/naktigonis/the-sun-gleaming) | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md) and [The Lordsgrove](The_Lordsgrove.md) |  |
 | 15 | [Thrill Of The Hunt](https://soundcloud.com/naktigonis/thrill-of-the-hunt) | 2:08 | [Songseeker Wilds](Songseeker_Wilds.md) (Combat) |  |
 | 16 | [Of Smoke And Steel](https://soundcloud.com/naktigonis/of-smoke-and-steel) | 2:16 | [Summer Isle](Summer_Isle.md) |  |
-| 17 | [One For All, All For Gun](https://soundcloud.com/naktigonis/one-for-all-all-for-gun) | 2:17 | [Summer Isle](Summer_Isle.md) (Combat) |  |
+| 17 | [One For All, All For Gun](https://soundcloud.com/naktigonis/one-for-all-all-for-gun) | 2:17 | [Summer Isle](Summer_Isle.md) (Combat) [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) |  |
 | 18 | [A Waltz Of Snow And Knights](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights) | 3:12 | [Minityrsa](Minityrsa.md) |  |
 | 19 | [Cry 'Havoc!'](https://soundcloud.com/naktigonis/cry-havoc) | 2:10 | [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md) (Combat) |  |
 | 20 | [In Starstruck Sands](https://soundcloud.com/naktigonis/in-starstruck-sands) | 2:38 | [The Starswept Valley](The_Starswept_Valley.md) |  |
 | 21 | [Pyres Of Glass](https://soundcloud.com/naktigonis/pyres-of-glass) | 2:32 | [The Starswept Valley](The_Starswept_Valley.md) (Combat) |  |
 | 22 | [Of Chitin, Kith And Kin](https://soundcloud.com/naktigonis/of-chitin-kith-and-kin) | 2:25 | [Greathive Aratel](Greathive_Aratel.md) |  |
-| 23 | [A Symphony Of Strife](https://soundcloud.com/naktigonis/a-symphony-of-strife) | 2:21 | [Greathive Approach](Greathive_Approach.md) and [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<The_Monkey's_Paw.md>) |  |
+| 23 | [A Symphony Of Strife](https://soundcloud.com/naktigonis/a-symphony-of-strife) | 2:21 | [Greathive Approach](Greathive_Approach.md) and [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<The_Monkey's_Paw.md>)
+[Ruins of Leiuna](Ruins_of_Leiuna.md)
+
+ |  |
 | 24 | [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray) | 2:30 | [Voidsea](Voidsea.md) |  |
 | 25 | [A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder) | 2:08 | [The Ferryman](The_Ferryman.md) (Phase 1) |  |
 | 26 | [Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can) | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) |  |

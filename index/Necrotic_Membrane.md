@@ -1,6 +1,6 @@
 ---
 title: Necrotic Membrane
-revid: 197946
+revid: 198340
 source: https://deepwoken.fandom.com/wiki/Necrotic_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Ingredients]
