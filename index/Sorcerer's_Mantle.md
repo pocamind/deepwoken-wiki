@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Mantle"
-revid: 192920
+revid: 198455
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Arms, Equipment, Equipment with Set Bonuses]
@@ -38,7 +38,7 @@ Variants: [Sorcerer's Brim](<Sorcerer's_Brim.md>)
 
 ## Description
 
-The Sorcerer's Brim is a Unique tier [Equipment](Equipment.md) item under the "Arms" category.
+The Sorcerer's Mantle is a Unique tier [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Sorcerer's Surge](Talents.md#sorcerers-surge) Talent reduces the cooldown of your [Vent](Combat_Mechanics.md#tempo) by 2.5 seconds, down to 7.5 seconds. The [Overflowing Dam](Talents.md#overflowing-dam) Talent grants a 10% damage buff to your M1s while your Ether bar is full. Overflowing Dam's damage buff scales on your Intelligence investment, losing 0.125% per point of Intelligence below 40. At 5 Intelligence, you will only gain a 5.625% damage buff.
 

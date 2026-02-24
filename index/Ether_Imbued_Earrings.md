@@ -1,6 +1,6 @@
 ---
 title: Ether Imbued Earrings
-revid: 198306
+revid: 198453
 source: https://deepwoken.fandom.com/wiki/Ether_Imbued_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -15,7 +15,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | requirements | ??? |
 | weight | 0.1 |
 | innate stats | +2 Rare Pips |
-| innate talent | ??? |
+| innate talent | Ether Tension |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
@@ -25,8 +25,10 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 ## Description
 
-TBA
+**Ether Imbued Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-## Talent: ???
+This item is similar to [Expert Practitioner's Earrings](<Expert_Practitioner's_Earrings.md>) from [Vow of Iron](Vow_of_Iron.md).
 
-TBA
+## Talent: Ether Tension
+
+The [Ether Tension](Talents.md#ether-tension) Talent adds 20 true damage to your mantra guardbreak.

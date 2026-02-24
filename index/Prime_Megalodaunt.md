@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 198126
+revid: 198454
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -186,3 +186,4 @@ This variant will test your reaction and knowledge skills to the fullest, it is 
 ## Trivia
 
 -   First featured in Agamatsu's "Depths Games" event.
+-   Also referred to as "Divine megalodaunt" or "Divine sharko"

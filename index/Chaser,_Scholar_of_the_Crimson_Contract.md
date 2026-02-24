@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 197734
+revid: 198449
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, Voiced Characters]
@@ -242,7 +242,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><b>Unique Weapons</b>: <a href="Bloodfouler.md"><font>Bloodfouler</font></a>.</li>
-    <li><b>Legendary Weapons</b>: <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>.</li>
+    <li><b>Legendary Weapons</b>: <a href="Flareblood_Kamas.md"><font>Flareblood Kamas</font></a>, <a href="Rosen's_Hellflame.md"><font>Rosen's Hellflame</font></a>, <a href="Shadebolt.md"><font>Shadebolt</font></a>.</li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Inquisitor's_Thorn.md">Inquisitor's Thorn</a>, <a href="Kyrstreza.md">Kyrstreza</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>.</li>

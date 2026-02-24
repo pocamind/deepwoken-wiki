@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198300
+revid: 198461
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -98,10 +98,10 @@ Use **CTRL + F** to search for a specific item.
 | [Ossified Barrel Helm](Ossified_Barrel_Helm.md) | 1x [Barrel Helm](Barrel_Helm.md)  
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
-| [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md) | 1x [Simple Pauldrons](Simple_Pauldrons.md)\]\]  
+| [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md) | 1x [Simple Pauldrons](Simple_Pauldrons.md)  
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
-| [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md) | 1x [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)\]  
+| [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md) | 1x [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)  
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
 | [Ossified Blood Earrings](Ossified_Blood_Earrings.md) | 1x [Old Blood Earrings](Old_Blood_Earrings.md)  
@@ -129,10 +129,10 @@ Use **CTRL + F** to search for a specific item.
 | [Necrotic Mask](Necrotic_Mask.md) | 1x [Bloodfeather Mask](Bloodfeather_Mask.md)  
 1x [Necrotic Membrane](Necrotic_Membrane.md)  
 1x [Parasol Part](Parasol_Part.md) |
-| ??? | 1x [Warlock's Brim](<Warlock's_Brim.md>)  
+| [Ether Refined Brim](Ether_Refined_Brim.md) | 1x Sky Warlock's Brim  
 1x [Ether Refined Hide](Ether_Refined_Hide.md)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
-| ??? | 1x [Warlock's Mantle](<Warlock's_Mantle.md>)  
+| [Ether Refined Mantle](Ether_Refined_Mantle.md) | 1x Sky Warlock's Mantle  
 1x [Ether Refined Hide](Ether_Refined_Hide.md)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
 | [Ether Imbued Earrings](Ether_Imbued_Earrings.md) | 1x [Practicioner's Earrings](<Practicioner's_Earrings.md>)  
