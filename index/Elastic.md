@@ -1,6 +1,6 @@
 ---
 title: Elastic
-revid: 196551
+revid: 198554
 source: https://deepwoken.fandom.com/wiki/Elastic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -30,4 +30,5 @@ Tethered PvE enemies deal reduced damage to you, scaling on how far away they ar
 
 -   Elastic cannot proc on [Bullets](Bullets.md).
 -   Elastic's effects can be procced on weapon criticals if they have the M1 tag.
--   Elastic has a range limit of 92.5 studs.
+-   Elastic's damage reduction in PvE is based on how far the center of the enemy is away from you. This means large enemies like [Primadon](Primadon,_Titan_of_the_East.md) will deal heavily reduced damage to you.
+-   Elastic's pulling effect has a range limit of 92.5 studs.
