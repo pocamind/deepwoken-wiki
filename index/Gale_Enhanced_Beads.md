@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Beads
-revid: 198191
+revid: 198534
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -24,6 +24,8 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | pass down | No |
 | obtainment | Crafting Monastery Beads + 1 Gale Essence + 1 Windswept Enchant Stone at Lost Forge |
 | description | ... |
+
+Variants: [Monastery Beads](Monastery_Beads.md)
 
 ## Description
 

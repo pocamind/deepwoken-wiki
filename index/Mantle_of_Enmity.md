@@ -1,6 +1,6 @@
 ---
 title: Mantle of Enmity
-revid: 191871
+revid: 198467
 source: https://deepwoken.fandom.com/wiki/Mantle_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Relics, Equipment Relics]
@@ -41,4 +41,4 @@ This move is similar to the [Death from Above Starkindred](Oath%253A_Starkindred
 -   Because the Mantle of Enmity can proc "on critical" Talents, it can also proc [Critical Engine](Talents.md#critical-engine), allowing it to proc and benefit from [Deep Gems](Deep_Gems.md).
     -   [Blessed Gem](Blessed_Gem.md) on Mantle of Enmity halves your weapon's critical cooldown instead of the Mantle's cooldown. This is very useful for weapons with non traditional criticals that don't have hit registry (e.g. [The Weaving Web](The_Weaving_Web.md) or [Vortex Echo](Vortex_Echo.md)).
 -   Due to a bug or oversight, the Mantle of Enmity was obtainable from [Lysander Spellhardt](Lysander_Spellhardt.md)'s 100 Joy for 1 [Relic](Relics.md) trade for a short period of time during 2025's [Hallowtide](Hallowtide.md) event.
--   You can [pass down](Hippocampal_Pool.md) this item in order to use it on new slots. Interestingly enough, this does not cost [Echoes](Echoes.md).
+-   Previously, the Mantle of Enmity could be [passed down](Hippocampal_Pool.md) however, on the February 17th, 2026 update this was patched.

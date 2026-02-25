@@ -1,6 +1,6 @@
 ---
 title: Equipment
-revid: 197926
+revid: 198476
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Equipment]
@@ -2501,6 +2501,12 @@ _+20 Carry Load_
  | N/A |
 | File:Old World Sun Pendant.png | [Wheel Pendant](Wheel_Pendant.md) | +1 Rare Pip  
 +1 Legendary Pip | N/A |
+| File:Old World Sun Pendant.png | [Revitalizing Pendant](Revitalizing_Pendant.md) | +1 Rare Pip  
++1 Legendary Pip  
+
+_+Talent: Praise The Sun_
+
+ | N/A |
 | File:Wormwarder Lantern.png | [Wormwarder Lantern](Wormwarder_Lantern.md) | _+10 Sanity_  
 _+10 Carry Load_
 

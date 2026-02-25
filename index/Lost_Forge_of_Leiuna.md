@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198461
+revid: 198511
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -25,7 +25,7 @@ The Lost Forge of Leiuna is a large volcanic island that was once a town of smit
 
 ## The Lost Forge
 
-To enter the Lost Forge, the player can either break the blocked entrance using mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door. The anvil can only be used one per charcter.
+To enter the Lost Forge, the player can either break the blocked entrance using mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door. The anvil can only be used one per character.
 
 ### Convertible Weapons
 

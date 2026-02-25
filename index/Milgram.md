@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 197545
+revid: 198500
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -21,7 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Milgram is a [Adret](Adret.md) NPC. He is a part of the Eastern garrison's Inquisitor division, led by [High Inquisitor Merey](High_Inquisitor_Merey.md), having the rank of Handler. He wears a [Navy Inquisitor's Duster](<Inquisitor's_Duster.md>), [Black Headband](Headband.md), and [Leather Boots](Leather_Boots.md). His [Outfit](Outfits.md) is [Inquisition Light](Inquisition_Light.md).
+Milgram is a [Adret](Adret.md) NPC. He is a part of the Eastern garrison's Inquisitor division, led by [High Inquisitor Merey](High_Inquisitor_Merey.md), having the rank of Handler.
+
+He wears a [Navy Inquisitor's Duster](<Inquisitor's_Duster.md>), [Black Headband](Headband.md), and [Leather Boots](Leather_Boots.md). His [Outfit](Outfits.md) is [Inquisition Light](Inquisition_Light.md).
 
 ## Location
 

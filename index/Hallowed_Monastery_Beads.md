@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Beads
-revid: 190453
+revid: 198533
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso]

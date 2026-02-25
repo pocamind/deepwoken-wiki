@@ -1,11 +1,9 @@
 ---
 title: Beatra
-revid: 191337
+revid: 198535
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Pages with broken file links, Pathfinder Exclusive, In progress with reason, InProgressPages, Attunement Trainers, NPCs]
-notices:
-  - This page is currently being worked on. Missing all dialogue
+categories: [Tiran NPCs, Pathfinder Exclusive, Attunement Trainers, NPCs]
 ---
 
 # Beatra
@@ -26,12 +24,66 @@ Beatra is an NPC who acts as a [Shadowcast](Shadowcast.md) trainer for those who
 
 In order to obtain [Shadowcast](Shadowcast.md), you must find [Nostor, Master of Shadow](Nostor,_Master_of_Shadow.md). Beatra will not teach you it.
 
+## Dialogue
+
+**Non-Shadowcaster:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ooh 'ello dearie, I do hope your travels are going alright. I wouldn't half worry meself to death if you were to run into any mortal trouble!</td>
+</tr>
+<tr>
+  <td>Uh, thanks?</td>
+</tr>
+<tr>
+  <td>Don't you stay out in the dark too long, alright? Wouldn't do you no good, child of light.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Shadowcaster:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ooh dearie, I can see the darkness within your heart. But it simply won't do until you draw it out.</td>
+</tr>
+<tr>
+  <td>(The Mantra leveling UI appears)</td>
+</tr>
+</tbody>
+</table>
+
+**Silentheart:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Don't you give me that look, dearie. You know these old bones are too frail to put up a fight...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+  
+
 ## Trivia
 
--   If you have obtained the [Silentheart](Oaths.md) Oath, she will refuse to fight and say "Don't you give that look, dearie. You know these old bones are too frail to put up a fight..."[\[1\]](#cite-note-1) Meaning you must go to the Depths to kill [Nostor](Nostor,_Master_of_Shadow.md).
--   She also mentions that she can see the darkness in your heart, but that it wont do anything until you decide to draw it out.
+-   If you have obtained the [Silentheart](Oaths.md) Oath, she will refuse to fight, meaning you have to go to the Depths to kill [Nostor](Nostor,_Master_of_Shadow.md) in order to continue your Silentheart progression.
+-   She mentions that she can see the darkness in your heart, but that it wont do anything until you decide to draw it out.
 -   Her eyes are black to represent her attunement, Shadowcast. This is a visual quirk present in most of the other attunement trainers, but not in the other Shadowcast Trainer, [Nostor](Nostor,_Master_of_Shadow.md), due to them being a Ganymede.
-
-## References
-
-1.  [↑](#cite-ref-1) File:SilentheartDialogue.png
