@@ -1,6 +1,6 @@
 ---
 title: Hemobloom
-revid: 197903
+revid: 198543
 source: https://deepwoken.fandom.com/wiki/Hemobloom
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients, Harvestables]

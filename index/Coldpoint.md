@@ -1,6 +1,6 @@
 ---
 title: Coldpoint
-revid: 198426
+revid: 198547
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
@@ -34,7 +34,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 
 ## Description
 
-The Coldpoint is an ice rapier obtained by defeating the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
+The Coldpoint is a Legendary Rapier; A long icicle kept forever frozen by a Vow, they were used as training weapons by the [Kyrsgarde](Kyrsgarde.md). It is obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 
 This weapon comes with a singular passive ability:
 

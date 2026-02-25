@@ -1,6 +1,6 @@
 ---
 title: Alpha Megalodaunt
-revid: 198190
+revid: 198542
 source: https://deepwoken.fandom.com/wiki/Alpha_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -10,7 +10,7 @@ categories: [Monsters]
 
 | Alpha Megalodaunt | |
 |---|---|
-| health | 1200, 300 (Trial of One), 3000(Corrupted) |
+| health | 1200, 200 (Trial of One), 3000(Corrupted) |
 | attacks | Slash, Kick, Jump, Roar, Thousand Needles, Tacet Hug, Tacet Drop Kick, Finisher: Curb Stomp |
 | drops | Megalodaunt Hide, Mantra Modifiers, Umbral Obsidian, Megalodaunt Coral, Megalodaunt Coat |
 | locations | Starfield Tundra, Crypt of the Unbroken, The Depths, Trial of One, Aratel Island, Saramaed Hollow, The Diluvian Mechanism |

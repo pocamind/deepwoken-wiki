@@ -1,6 +1,6 @@
 ---
 title: Ether Empowered Earrings
-revid: 198308
+revid: 198540
 source: https://deepwoken.fandom.com/wiki/Ether_Empowered_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -27,7 +27,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 **Ether Empowered Earrings** are a Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-This item is similar to [Caster Earrings](Caster_Earrings.md) from [Vow of Iron](Vow_of_Iron.md)
+This item is similar to [Caster Earrings](Caster_Earrings.md) from [Vow of Iron](Vow_of_Iron.md).
 
 ## Talent: Ether Adeptness
 
