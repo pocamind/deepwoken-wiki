@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 195013
+revid: 198568
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -82,7 +82,7 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 
 -   Talk to Apprentice Kj in The Temple of the Blades, located at the left corridor room; sitting down sobbing.
 -   He asks you to rescue, or find his sibling in [Erisia](Erisia.md).
--   His sibling is found in an Abandoned Wood Lodge in [Burning Stone Gardens](Burning_Stone_Gardens.md), near a cliff where the Glowing Trees are.
+-   His sibling is found in an Abandoned Wood Lodge in the [Burning Stone Gardens](Burning_Stone_Gardens.md), near the shore to the North East of Duke's Manor.
 -   Obtain a [Gale Stone](Gale_Stone.md) and give it to the sibling. He'll heal his wounds and ask you to head back to Isle of Vigils and talk to Kj about his status.
 -   Talking to Apprentice Kj after giving the Gale Stone finishes the quest.
 -   This quest will allow you to obtain [Weaponry Unbound](Attributes_Unbound.md).

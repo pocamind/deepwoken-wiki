@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 196521
+revid: 198562
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -308,9 +308,6 @@ This page is about content that has either been removed or changed drastically i
     -   In the September 13th, 2024 update, Mani Katti was removed with the Silentheart "Unparalleled Vengeance" rework.
 -   This was later reinvented into [Silent Cascade](Talents.md#silent-cascade), which instead now requires physical attacks rather than Dread stacks.
 
--   **Mark of the Lone Warrior** \[Common Talent\] - Your ability to overcome true adversity manifests. You progress much more quickly.
-    -   In the December 23rd, 2022 update, Mark of the Lone Warrior was removed.
-
 -   **Mercy Kill** \[Common Talent\] - When you flourish an enemy much weaker than you, you kill them instantly. Enemies that are greatly weaker than you die instantly from a single hit.
     -   In the October 5th, 2025 update, Mercy Kill was made innate.
 
@@ -525,8 +522,8 @@ Charisma
 
 ## Other
 
--   **Lockers -** These were removed on the February 16th, 2025 update due to their use no longer being needed at areas they were placed in.
--   **[False Memory](False_Memory.md) -** This weapon was removed on the Feburary 16th, 2026 update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
+-   **Lockers -** These were pseudo campfires that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
+-   **[False Memory](False_Memory.md) -** This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the Feburary 16th, 2026 update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
 -   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
     
     One of the brains found in the Ancient Rotlands

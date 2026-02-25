@@ -1,6 +1,6 @@
 ---
 title: Withered Death Knell
-revid: 197957
+revid: 198564
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons]
@@ -38,7 +38,7 @@ Variants: [Light's Final Toll](<Light's_Final_Toll.md>)
 
 ## Description
 
-Withered Death Knell is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. This weapon is obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Light's Final Toll](<Light's_Final_Toll.md>) equipped.
+Withered Death Knell is a [Legendary](Weapons.md) spirit lantern that floats beside the player. The player also wears a string of prayer beads around their wrist. This weapon is obtained by interacting with the [Lost Forge](Lost_Forge_of_Leiuna.md) with a [Light's Final Toll](<Light's_Final_Toll.md>) equipped or by holding the weapon out.
 
 ## Critical
 

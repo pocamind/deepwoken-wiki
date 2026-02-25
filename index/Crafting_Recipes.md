@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 197352
+revid: 198556
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ These are recipes that are not used to produce food or potions.
 -   [Cloth](Cloth.md) - _3 [Fiber](Fiber.md)_
 -   [Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Rock](Ores.md#rock)_
 -   [Umbral Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
--   [Bullets](Bullets.md) (20x) - _1 [Iron](Ores.md#iron)_
+-   [Bullets](Bullets.md) (50x) - _1 [Iron](Ores.md#iron)_
 -   [Fishing Rod](Fishing_Rod.md) - _2 [Stick](Stick.md), 1 [Fiber](Fiber.md)_.
 -   [Chum](Chum.md) - _2 [Fish Meat](Fish_Meat.md) / 2 [Crustacean Meat](Crustacean_Meat.md) / 1 [Pufferfish](Fishing.md)_
 -   [Monster Bait](Monster_Bait.md) - (Can be obtained from [Mortus](Mortus.md)) 2/3 _[Chum](Chum.md)_
