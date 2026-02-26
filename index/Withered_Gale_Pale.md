@@ -1,6 +1,6 @@
 ---
 title: Withered Gale Pale
-revid: 197486
+revid: 198741
 source: https://deepwoken.fandom.com/wiki/Withered_Gale_Pale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", Weapons with Talents, Reforged Weapons]
@@ -26,10 +26,10 @@ categories: [Weapons, Greathammers, Heavy Weapons, "Attunement-based Weapons", W
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | No |
+| bankable | Yes |
 | droppable | No |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Pale Morning |
 | description | An artisinal reuse of an old faithful greathammer. Coated in silver, this Pale Morning can glide through the winds current like nothing to maul it's opponents. |
 
@@ -45,7 +45,7 @@ Equipping the Withered Gale Pale grants its unique [weapon Talent](Talents.md#we
 
 **Soar** allows you to retain your full momentum during your weapon's critical attack. This Talent is extremely good when paired with speed boosts, slides, or Gale/Phantom Step dashes.
 
-Equipping Motifs onto Withered Gale Pale will **disable** its weapon Talent.
+Equipping [Motifs](Motifs.md) onto Withered Gale Pale will **disable** its weapon Talent.
 
 ## Critical
 

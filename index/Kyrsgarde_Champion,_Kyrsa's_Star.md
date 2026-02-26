@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 198353
+revid: 198737
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -10,7 +10,7 @@ categories: [Pathfinder Exclusive]
 
 | Kyrsgarde Champion, Kyrsa's Star | |
 |---|---|
-| health | 40,000 |
+| health | 40,000 (+15k per player) |
 | attacks | Permafrost Colosseum, Pylons of Frost, Decapitating Sweep, Altitude Swipes, Frostgrave, Champion’s Quake, Rime-Rise, Splintered Thrust, Crossrend Cryocleave, Shatterline, Blizzard’s Sanction |
 | drops | Whistling Periapt, Gale Essence, Frost Essence, Frostthorn, Kyrsan Necklace, Kyrsan Chill Enchant Stone, Cryptwaker's Ring, Rimebreakers, Marrowmade Boots, Coldpoint, Bone Ring, Kyrsan Gem |
 | locations | New Kyrsa, The Sleeping City |
@@ -27,7 +27,7 @@ It can be encountered after achieving the following requirements:
 
 1.  Speaking to [Misérables](Misérables.md) and choosing the "**I seek power in my upcoming battles.**" dialogue option.
 2.  Interacting with the [Purge Shrine](Purge_Shrine.md) in the area [Kaide](Kaide,_the_Drowned_Light.md) is imprisoned, which is to the left of where he is facing; above the terrain.
-3.  Defeating a somewhat more difficult and enhanced version of the [Scion of Ethiron](Scion_of_Ethiron.md) (It will not spawn any [Kyrsgarde Snipers](Kyrsgarde_Sniper.md) meaning you cannot use them to restore your health, on top of it doing more damage than the normal boss).
+3.  Defeating a somewhat more difficult and enhanced version of the [Scion of Ethiron](Scion_of_Ethiron.md) (It will not spawn any [Kyrsgarde Snipers](Kyrsgarde_Sniper.md) meaning you cannot use them to restore your health, on top of it doing more damage than the normal boss and summon more bones and shooting out his Vehemens Ventus Attack faster).
 
 After these conditions have been fulfilled, entering the main city will spawn the Kyrsgarde Champion instead of a horde of [Kyrsgarde Lancers](Kyrsgarde_Lancer.md). During the fight, the remaining time to escape the Layer is increased from three minutes to seven.
 

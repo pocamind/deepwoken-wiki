@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 198298
+revid: 198746
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2636,7 +2636,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Oathless
 
--   [**Oath: Oathless**](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+3 Wildcard Mantra Slots, +10 Health, +20% Oath Armor)
+-   [**Oath: Oathless**](Oath%253A_Oathless.md) - You vow to never be bound to any Oath; to live your life free of restraint. If free will is an illusion, why not make it a convincing one? (+3 Wildcard Mantra Slots, +10 Health, +20% Oath Armor, +20% Monster Armor)
     -   Prerequisites: Talk to [Cerulean](Cerulean.md) in the cave near [Miner's Landing](<Miner's_Landing.md>) docks, 10 minutes of playtime
 
 ### Omniscient

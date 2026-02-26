@@ -1,6 +1,6 @@
 ---
 title: "Familiar Assassin's Armor"
-revid: 185787
+revid: 198732
 source: https://deepwoken.fandom.com/wiki/Familiar_Assassin's_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits, Hallowtide]
@@ -12,7 +12,7 @@ categories: [Outfits, Unique Outfits, Hallowtide]
 |---|---|
 | caption | Discard your identity. |
 | tier | Unique |
-| crafting_req | x5 Cloth, x5 Fiber, x1 Emerald |
+| crafting_req | x5 Cloth, x5 Fiber |
 | price | 15,000 |
 | stat_req | Power 15 |
 | bankable | Yes |
@@ -31,7 +31,7 @@ categories: [Outfits, Unique Outfits, Hallowtide]
 
 ### _Requirements_
 
-This Outfit costs 15,000 and requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Emerald](Treasures.md) to craft.
+This Outfit costs 15,000 and requires five (5) [Cloth](Cloth.md), and five (5) [Fiber](Fiber.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
@@ -48,5 +48,5 @@ The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, gr
 -   This outfit is based on Rogue Lineage's [Faceless One](https://rogue-lineage.fandom.com/wiki/Faceless_One) armor, the Night Lord's outfit.
 -   The Bane talent is based on the Bane ability from the [Assassin](https://rogue-lineage.fandom.com/wiki/Assassin) class in Rogue Lineage. Unlike its Deepwoken counterpart, this ability only works on daggers.
     -   It also feature the Agility skill sound effect at first, which boosted movement speed and attack speed. The Agility + Bane combo was often used.
--   The emerald requirement to craft this outfit is a reference to the Faceless One class obtainment in Rogue Lineage, where players had to give Shadow, the Faceless Trainer an emerald as a prerequisite to obtain the class.
+-   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the Feburary 25th, 2026 update. The emerald requirement was a reference to the Faceless One class obtainment in Rogue Lineage, where players had to give Shadow, the Faceless Trainer an emerald as a prerequisite to obtain the class.
 -   Initially on release, this outfit had a staggering 5000% stealth, however it was quickly toned down to 50%.

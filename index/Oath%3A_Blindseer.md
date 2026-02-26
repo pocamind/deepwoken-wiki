@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 195075
+revid: 198754
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -98,12 +98,11 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
     -   Doesn't have a ritual unlike the gif shown below
 -   Obtainment: 1 Pathfinder helped in the Depths Trial (must be alive)
 
--   **Tranquil Circle** - All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor.
+-   **Tranquil Circle** - All within the ring cannot cast Mantras. Those who stand within the ring gain 10% Monster Armor and 10% Damage vs Monsters.
     -   This affects everybody, including the caster and their allies, making even yourself unable to cast Mantras.
     -   Bosses are immune to the silencing aspect.
     -   While inside the circle, gain total immunity to Mantra damage.
-    -   This is one of the few sources of Monster Armor, making it very useful for M1 PvE builds.
-    -   About the size of a medium Sacred field roll.
+    -   This is one of the few sources of Monster Armor and Damage vs Monsters, making it exceptionally useful for M1 PvE builds.
     -   Can be modified with a [Magnet Spark](Mantra_Modifiers.md#sparks). This makes the circle much smaller but makes it follow the user.
 -   Obtainment: 3 Pathfinders helped in the Depths Trial (must be alive)
 

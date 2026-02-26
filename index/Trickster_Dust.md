@@ -1,6 +1,6 @@
 ---
 title: Trickster Dust
-revid: 198028
+revid: 198730
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items]
@@ -15,7 +15,7 @@ categories: [Relics, Items]
 | type | Treasure |
 | rarity | Relic |
 | usage | Crafting |
-| bankable | No |
+| bankable | Yes |
 | droppable | No |
 | pass down | No |
 | desc | The traces of powerful Visionshaper magic and trickery. It almost looks as if it rejects sources of ether around it, almost inverting it. |
@@ -24,6 +24,8 @@ categories: [Relics, Items]
 ## Description
 
 The **Trickster Dust** is a [Relic](Relics.md) that resembles emanating confetti particles.
+
+This item is **bankable**.
 
 ## Crafting
 

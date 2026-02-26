@@ -1,6 +1,6 @@
 ---
 title: "Oath: Oathless"
-revid: 192974
+revid: 198755
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Oathless
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -11,7 +11,7 @@ categories: [Oaths]
 | Oath: Oathless | |
 |---|---|
 | oath_req | 10 minutes of playtime |
-| effects | +10 Health, +20% Oath Armor, +3 Wildcard Mantra Slots |
+| effects | +10 Health, +20% Oath Armor, +20% Monster Armor, +3 Wildcard Mantra Slots |
 
 “ Those eyes.. you wish to walk alone too. ”
 
@@ -48,18 +48,21 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 ## Effects
 
-This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health and 20% Oath armor. Oath Armor decreases the damage received from the Oath damage type[\[1\]](#cite-note-1).
+This Oath grants the player three extra [Wildcard Mantra](Mantras.md) slots, 10 Health, 20% Monster Armor and 20% Oath armor. Oath Armor decreases the damage received from the Oath damage type[\[1\]](#cite-note-1).
 
 As for its appearance, **nothing** is added to your outfit, making it impossible to tell if a person has Oathless or not, which makes sense because Oathless makes you unbound to an Oath.
 
 ## Abilities
 
-### Passive
+### Passives
 
 -   **Oath Armor** - Oathless grants 20% Oath armor.
     -   This does not work on every Oath ability, as not all of them deal Oath damage in general.
     -   Due to this being "**armor**" instead of "**resistance**", PEN will affect it and it will be tied to your armor value, being deactivated if your armor is broken.
     -   Oath attacks with multiple damage types will effectively bypass your Oath armor because the game will take your highest applicable armor resistance and apply that for damage calculation. For example, if you have over 20% Physical resistance, you'll resist [Bladeharper](Oath%253A_Bladeharper.md) attacks based on your Physical resistance rather than your Oath resistance.
+
+-   **Monster Armor** - Oathless grants 20% Monster Armor.
+    -   This is one of very few sources of Monster Armor.
 
 ## Talents
 

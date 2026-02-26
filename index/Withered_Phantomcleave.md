@@ -1,6 +1,6 @@
 ---
 title: Withered Phantomcleave
-revid: 198496
+revid: 198739
 source: https://deepwoken.fandom.com/wiki/Withered_Phantomcleave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, Medium Weapons, Weapons with Talents, Reforged Weapons]
@@ -28,10 +28,10 @@ categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Uniqu
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | No |
+| bankable | Yes |
 | droppable | No |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Interact with the Lost Forge at the Lost Forge of Leiuna while wielding the Alloyed Katana |
 | description | A simple katana of fine glass, once carried by an esteemed vigil swordsman. Accounts from their crew claim that after an accidental detour into the Voidsea, both swordsman and blade were caught in a strange vortex. Whether the story is true remains unclear. Only the weapon, embedded in the cracked hull, and a handful of dehydrated survivors were recovered, later found washed ashore at the feet of Etris, with no sign of its former master. |
 

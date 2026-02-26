@@ -1,6 +1,6 @@
 ---
 title: Volu
-revid: 195991
+revid: 198757
 source: https://deepwoken.fandom.com/wiki/Volu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, The Ministry]
@@ -32,7 +32,7 @@ Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that 
 
 ## Dialogue
 
-**Initial Dialogue:**
+**First Encounter:**
 
 <table>
 <tbody>
@@ -55,7 +55,7 @@ Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that 
   <td colspan="2">Take... what?</td>
 </tr>
 <tr>
-  <td colspan="2">Oh, it's not that I don't want it—it's just so much more... fitting for you! <i>*Volu chuckles, eyes twinkling mischievously with a tinge of sorrow.*<i></i></i></td>
+  <td colspan="2">Oh, it's not that I don't want it—it's just so much more... fitting for you! <i>*Volu chuckles, eyes twinkling mischievously with a tinge of sorrow.*</i></td>
   <td colspan="2">This beauty! A curious old tome, just begging to be opened! By you, of course! <i>*Volu winks playfully.*</i></td>
 </tr>
 <tr>
@@ -65,13 +65,11 @@ Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that 
 </tr>
 <tr>
   <td>This beauty! A curious old tome, just begging to be opened! By you, of course! <i>*Volu winks playfully.*</i></td>
-  <td>[See first instance]</td>
-  <td colspan="2">[See first instance]</td>
+  <td colspan="3">[See first instance]</td>
 </tr>
 <tr>
   <td>Fine, I'll take it</td>
-  <td>[End Dialogue], gives you the tome</td>
-  <td colspan="2">[End Dialogue], gives you the tome</td>
+  <td colspan="3">[End Dialogue], gives you the tome</td>
 </tr>
 <tr>
   <td>Marvelous! Simply marvelous! <i>*Volu claps his hands together, beaming as he hands over the tome. it feels unnaturally smooth in your grasp.*</i></td>
@@ -82,12 +80,12 @@ Volu is located in [Outpost Antumbra](Outpost_Antumbra.md) in the basement that 
 </tbody>
 </table>
 
-**After getting the tome:**
+**Subsequent Encounters:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="8">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
   <td>On your way you go! No need to linger! <i>*Volu waves you off with a knowing grin.*</i></td>

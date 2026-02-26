@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198717
+revid: 198745
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -25,11 +25,11 @@ The Lost Forge of Leiuna is a large volcanic island that was once a town of smit
 
 ## The Lost Forge
 
-To enter the Lost Forge, the player can either break the blocked entrance using mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door. The anvil can only be used once per character.
+To enter the Lost Forge, the player can either break the blocked entrance using mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door. The anvil can only be used once per Parasol event.
 
 ### Convertible Weapons
 
-In order to reforge a weapon, you must have it held or equipped. Locked to **ONE** weapon per character.
+In order to reforge a weapon, you must have it held or equipped.
 
 | Weapon Input | Weapon Output |
 | --- | --- |
@@ -139,8 +139,11 @@ Use **CTRL + F** to search for a specific item.
 1x [Ether Refined Hide](Ether_Refined_Hide.md) |
 | [Ether Empowered Earrings](Ether_Empowered_Earrings.md) | 1x [Pendant Earrings](Pendant_Earrings.md)  
 1x [Ether Refined Hide](Ether_Refined_Hide.md) |
-| ??? | 1x [Frost Ring](Frost_Ring.md)  
-1x [Gale Enhanced Ring](Gale_Enhanced_Ring.md) |
+| [Blizzard Ring](Blizzard_Ring.md) | 1x [Frost Ring](Frost_Ring.md)  
+1x [Gale Enhanced Ring](Gale_Enhanced_Ring.md)
+1x [Shiva's Codex](<Shiva's_Codex.md>)
+
+ |
 | [Blindseer's Ring](<Blindseer's_Ring.md>) | 1x [Transfusion Ring](Transfusion_Ring.md)  
 1x [Trickster Dust](Trickster_Dust.md) |
 

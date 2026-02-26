@@ -1,6 +1,6 @@
 ---
 title: Cindergarb
-revid: 197621
+revid: 198760
 source: https://deepwoken.fandom.com/wiki/Cindergarb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Unique Outfits]
@@ -12,11 +12,13 @@ categories: [Outfits, Unique Outfits]
 |---|---|
 | caption | Forged from fabric tempered in flame. Cindergard gathers shed embers enhancing your flamecharm ability. |
 | tier | Unique |
-| stat_req | Power 15 |
+| crafting_req | x2 Blessed Gems, x5 Cloth, x5 Dying Embers, x5 Fiber |
+| price | 1,000 |
+| stat_req | Power 1545 Flamecharm |
 | bankable | Yes |
 | droppable | No |
 | durability | 3000 |
-| resistances | +35% Physical Armor, +15% Ironsing Armor, +50% Fire Armor |
+| resistances | +15% Ironsing Armor, +20% Fire Armor, +25% Physical Armor, +30% Elemental Armor |
 | buffs | +20% Ether Regen |
 | talents | Warding Radiance |
 | obtainment | Carnival of HeartsVow of Iron:, Solborn Memento |
@@ -30,16 +32,12 @@ categories: [Outfits, Unique Outfits]
 
 ### _Requirements_
 
-This Outfit has no material crafting requirements.
+This Outfit costs 1,000 and requires two (2) [Blessed Gems](Blessed_Gem.md), five (5) [Cloth](Cloth.md), five (5) [Dying Embers](Dying_Embers.md), and five (5) [Fiber](Fiber.md) to craft.
 
-This Outfit requires the player to be at least [Power](Power.md) 15 to be crafted.
+This Outfit additionally requires the player to be at least [Power](Power.md) 15 and have at least 45 [Flamecharm](Flamecharm.md) to be crafted.
 
 ### _Armor Stats_
 
-This Outfit has 3000 durability and grants +35% Physical resistance, +50% Fire resistance, +15% Metal resistance, and +20% Ether Regen. Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) Talent.
+This Outfit has 3000 durability and grants +25% Physical resistance, +30% Elemental resistance, +50% Fire resistance, +15% Metal resistance, +20% Fire Resistance, and +20% Ether Regen. Additionally, it provides the [Warding Radiance](Talents.md#warding-radiance) Talent.
 
 The [Warding Radiance](Talents.md#warding-radiance) Talent gives you a halo after you land 3 Flamecharm Mantras. While you have this halo, you will slide further, and landing a Flamecharm Mantra will call down a spear, dealing extra damage. The spear has a short cooldown.
-
-## Trivia
-
--   Currently, despite being obtainable in Pathfinder through the Carnival of Hearts World Event, if you attempt to learn this schematic, it does not let you, voiding the schematic.
