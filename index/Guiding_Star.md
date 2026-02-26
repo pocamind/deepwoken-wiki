@@ -1,6 +1,6 @@
 ---
 title: Guiding Star
-revid: 198597
+revid: 198784
 source: https://deepwoken.fandom.com/wiki/Guiding_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Legendary Weapons, "Core-Attribute based weapons", "Weapons with Multi-Hit Criticals", The Children of Navae, Bows]
@@ -56,4 +56,4 @@ The critical has a cooldown of **7 seconds**.
     -   Both bows featured the same model & appearance. The string and arrow are also visible in its held state, which can only be viewed when using Basic Attacks.
     -   The name "Aranea" is a reference to the genus Araneus, a group of orb-weaving spiders. This explains why the bow has a web motif.
 -   The description on the Guiding Star claims that previous users of the weapon had 'talked', and were guided through their trail, with the bow, hinting at it potentially having some power with soul 'magic'.
--   The Guiding Star was the first Bow weapon added to Deepwoken.
+-   The Guiding Star was the first Bow weapon added to _[Deepwoken](<Deepwoken_(game).md>)_.

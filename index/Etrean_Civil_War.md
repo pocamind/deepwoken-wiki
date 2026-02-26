@@ -1,6 +1,6 @@
 ---
 title: Etrean Civil War
-revid: 187980
+revid: 198777
 source: https://deepwoken.fandom.com/wiki/Etrean_Civil_War
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, SpoilerPages]
@@ -28,7 +28,7 @@ The **Etrean Civil War** was a civil conflict that took place between the [Minis
 
 ## Prelude
 
-During the coup against, [Lord Guardian](Lord_Guardian.md) [Ji'ang](<Ji'ang.md>), Zi'eer and his most loyal guards, whom he had transformed into Shoguns, stormed [Etris Palace](Etris_Palace.md) and rained bloodshed within. Ultimately, this led to Ji'ang's and the Etrean resistance's murders—allowing Zi'eer to usurp the throne in the palace.
+During the coup against [Lord Guardian](Lord_Guardian.md) [Ji'ang](<Ji'ang.md>), Zi'eer and his most loyal guards, whom he had transformed into Shoguns, stormed [Etris Palace](Etris_Palace.md) and rained bloodshed within. Ultimately, this led to Ji'ang's and the Etrean resistance's murders—allowing Zi'eer to usurp the throne in the palace.
 
 From there, he would shield the palace with an impenetrable barrier to ensure that he could not be taken down.
 
@@ -44,7 +44,8 @@ Sachan Mofisu insisted he would take back his destroyed territory and the temple
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-junsui-1-0) [1.01](#cite-ref-junsui-1-1) [1.02](#cite-ref-junsui-1-2) [1.03](#cite-ref-junsui-1-3) [1.04](#cite-ref-junsui-1-4) [1.05](#cite-ref-junsui-1-5) [1.06](#cite-ref-junsui-1-6) [1.07](#cite-ref-junsui-1-7) [1.08](#cite-ref-junsui-1-8) [1.09](#cite-ref-junsui-1-9) [1.10](#cite-ref-junsui-1-10) [1.11](#cite-ref-junsui-1-11) [1.12](#cite-ref-junsui-1-12) [1.13](#cite-ref-junsui-1-13) [High Monk Junsui](High_Monk_Junsui.md)
+1.  ↑ [1.00](#cite-ref-junsui-1-0) [1.01](#cite-ref-junsui-1-1) [1.02](#cite-ref-junsui-1-2) [1.03](#cite-ref-junsui-1-3) [1.04](#cite-ref-junsui-1-4) [1.05](#cite-ref-junsui-1-5) [1.06](#cite-ref-junsui-1-6) [1.07](#cite-ref-junsui-1-7) [1.08](#cite-ref-junsui-1-8) [1.09](#cite-ref-junsui-1-9) [1.10](#cite-ref-junsui-1-10) [1.11](#cite-ref-junsui-1-11) [1.12](#cite-ref-junsui-1-12) [1.13](#cite-ref-junsui-1-13) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
+    
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE. As the Civil War began 14 years before the events of the gamemode, it can be assumed to have taken place in 1219 CE.
 3.  [↑](#cite-ref-legato-3-0) [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md)
 4.  [↑](#cite-ref-kobura-4-0) [Sachan Shisui Kobura](Sachan_Shisui_Kobura.md)

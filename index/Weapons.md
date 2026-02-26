@@ -1,6 +1,6 @@
 ---
 title: Weapons
-revid: 197870
+revid: 198819
 source: https://deepwoken.fandom.com/wiki/Weapons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Character, Mechanics]
@@ -13408,6 +13408,8 @@ Daggers are one-handed weapons. They are fast and agile, with high attack speed 
 
 Fists make use of various gauntlets to wear, that are made with leather strips and sometimes filled with iron plates or fitted with blades or spikes. They feature a slower swing speed than daggers but fashion with better damage. When equipping fists when you had another weapon equipped beforehand, you'll throw your weapon to the ground.
 
+-   In PvE content, every owned Fist Tallent grants +2.5% Blunt DMG, and +5% Wep DMG.
+
 <table><caption>Light Weapons</caption>
 <tbody>
 <tr>
@@ -13939,6 +13941,8 @@ Pistols are a ranged weapon class designed to shoot projectiles. They can be use
 **Rapiers:**
 
 Rapiers are Light Weapons that bridge the gap between the Medium and Light playstyles. It has the rapid strikes of a Light Weapon combined with the extended range of a Medium Weapon.
+
+-   In PvE content after Parrying an attack, striking an enemy will follow-up with a second, reduced DMG, strike.
 
 <table><caption>Light Weapons</caption>
 <tbody>

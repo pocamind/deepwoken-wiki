@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 198746
+revid: 198782
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1663,6 +1663,16 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   This Talent simply removes/reduces armor damage taken, it has no effect on PEN.
     -   Prerequisites: 20 Medium Weapon OR 20 Light Weapon OR 20 Fortitude, completed the [Trig quest](Summer_Isle.md#trig-quest) (helping Asius)
 
+-   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
+    -   Works with dual guns, adding 5 flat damage to every second shot.
+    -   Does not work with Hardened Enforcer Boots.
+    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon, Using a Pistol
+    -   Mutual Exclusive: Hip Shooter
+
+-   Gunpowder Blast \[Common Talent, Light Weapon\] - Pistol shots without bullets deal 2 extra posture. \[Dual Gun\]
+    -   Increases the posture damage of your blast shots by 2 if you do not have physical [bullets](Bullets.md) in your inventory.
+    -   Prerequisites: 45 Light Weapon, Using a Pistol
+
 -   _Hip Shooter_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - When wielded with a Medium/Heavy weapon, your side gun can now fire a bullet projectile.
     -   This requires you to have [bullets](Bullets.md) in your inventory.
     -   Currently does not work.
@@ -1670,17 +1680,22 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 25 Light Weapon, 50 Medium Weapon // 50 Heavy Weapon, Using an Offhand Pistol
     -   Mutual Exclusive: Execution
 
--   _Execution_ \[Rare Talent, Light Weapon, Medium Weapon // Heavy Weapon\] - Your offhand gun attacks now count as flourishes and do a flat 20 extra damage when used with no bullets.
-    -   Works with dual guns, adding 20 flat damage to every second shot.
-    -   Does not work with Hardened Enforcer Boots.
-    -   Prerequisites: 90 Light Weapon, 90 Medium Weapon // 90 Heavy Weapon
-    -   Mutual Exclusive: Hip Shooter
-
 -   Parting Gift \[Common Talent, Light Weapon\] - After you land a flourish, gain the ability to shoot bullets for 5 seconds. \[Dual Gun\]
     -   On proc, all dual gun M1s within the next 5 seconds have projectiles.
     -   Procs even if your flourish is parried or blocked.
     -   The projectile M1s from this Talent can proc True Ether Bullets.
     -   Prerequisites: 75 Light Weapon, Using a Pistol
+
+-   Quick Draw \[Common Talent, Light Weapon\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
+    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
+    -   Prerequisites: 55 Light Weapon, Using a Pistol
+
+-   Quick Swap \[Common Talent, Light Weapon\] - Massively reduce your bullet swap cooldown. \[Dual Gun\]
+    -   Prerequisites: 40 Light Weapon, Using a Pistol
+
+-   Taste The Rainbow \[Common Talent, Light Weapon\] - Every time you shoot, switch your ammo type. \[Dual Guns\]
+    -   Every M1 switches your [Bullet type](Bullet_Casings.md).
+    -   Prerequisites: 50 Light Weapon, Using a Pistol
 
 -   _True Ether Bullets_ \[Rare Talent, Light Weapon // Medium Weapon // Heavy Weapon, Intelligence\] - Using Ether Bullets applies elemental damage of your highest investment.
     -   Landing 2 shots will make the 3rd shot deal elemental damage.
@@ -1692,7 +1707,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
             -   Shadowcast: Your bullets drain ether/apply burn (Twisted Puppets)
             -   Ironsing: Your bullets apply metal rods
             -   Bloodrend: Your bullets apply blood poisoning
-        -   If the user has multiple attunement at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
+        -   If the user has multiple attunements at the same level, it will use the first attunement in the priority list: Thundercall > Shadowcast > Flamecharm > Galebreathe > Frostdraw
     -   **If the user has no attunement, this Talent has NO EFFECT. It is recommended to put one point into an attunement if using this Talent on an attunement-less build.**
     -   This Talent does not make guns scale off your attunement attributes, it just converts your Physical Damage to Elemental Damage.
     -   Despite the fact that you can obtain this from Greatcannons, this Talent does **nothing** on them.
@@ -1702,10 +1717,6 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   True Ether Bullets now procs in 2 hits instead of 3.
     -   Adds 1.2 Intelligence scaling to your Pistols. Stacks with the [Rosen's Ring](<Rosen's_Ring.md>).
     -   Prerequisites: 90 Light Weapon, 60 Intelligence, True Ether Bullets, Using a Pistol
-
--   Quick Draw \[Common Talent, Light Weapon\] - Allows you to fire your offhand gun right after swinging. \[Not necessary on dual guns\]
-    -   Allows the user to instantly start attacking with their offhand gun after attacking with their main weapon
-    -   Prerequisites: 55 Light Weapon, Using a Pistol
 
 ### Hammer Rage
 

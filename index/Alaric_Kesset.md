@@ -1,6 +1,6 @@
 ---
 title: Alaric Kesset
-revid: 178309
+revid: 198794
 source: https://deepwoken.fandom.com/wiki/Alaric_Kesset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Naval personnel of The Central Authority, Characters mentioned in books]
@@ -22,4 +22,4 @@ Kesset was assigned to [Operation 'Distant Light'](<Operation_'Distant_Light'.md
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-opdlr-1-0) [1.1](#cite-ref-opdlr-1-1) [1.2](#cite-ref-opdlr-1-2) [1.3](#cite-ref-opdlr-1-3) [1.4](#cite-ref-opdlr-1-4) [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>)
+1.  ↑ [1.0](#cite-ref-opdlr-1-0) [1.1](#cite-ref-opdlr-1-1) [1.2](#cite-ref-opdlr-1-2) [1.3](#cite-ref-opdlr-1-3) [1.4](#cite-ref-opdlr-1-4) [Book](Books.md): [Operation 'Distant Light' Report](<Operation_'Distant_Light'_Report.md>)

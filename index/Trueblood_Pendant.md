@@ -1,6 +1,6 @@
 ---
 title: Trueblood Pendant
-revid: 192908
+revid: 198826
 source: https://deepwoken.fandom.com/wiki/Trueblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces, Equipment with Set Bonuses]

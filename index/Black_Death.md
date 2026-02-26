@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 198734
+revid: 198821
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -44,7 +44,7 @@ The **Black Death** is the sister of its [red counterpart](Red_Death.md), a tool
 
 Equipping the Black Death grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
-**Corporeal Dissolution** applies [Wither](Status_Effects.md#wither) on any attack that drains Ether, and scales on the amount of Ether drain.
+**Corporeal Dissolution** applies [Wither](Status_Effects.md#wither) on any attack that drains Ether, and scales on the amount of Ether drain. This is capped at 30 Wither per proc.
 
 -   This effect does not work on Ether drain from Ether-draining [potions](Alchemy.md).
 
@@ -63,3 +63,4 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 ## Trivia
 
 -   Unlike the **Red Death** which is refered to as a spear, the **Black Death** is refered to as a pike.
+-   Before the 30 Wither cap per proc, stacking enough ether drain effect could result in large amount of Wither being applied in one hit, sometime outright one shotting players by turning their entire health bar into Wither.

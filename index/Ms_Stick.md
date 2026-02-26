@@ -1,6 +1,6 @@
 ---
 title: Ms Stick
-revid: 198216
+revid: 198775
 source: https://deepwoken.fandom.com/wiki/Ms_Stick
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Chrysid NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors]
@@ -53,7 +53,7 @@ Ms Stick can be found standing behind [Lance](Lance.md) inside of Lance's Food a
 -   Ms Stick was added in the February 16th, 2026 update, which removed [Mystics](Mystic.md) due to their functions being obsolete with the new foretelling mechanic. This NPC is meant to poke fun at how Mystics are now "forced to seek legitimate employment."[\[1\]](#cite-note-1)
 -   Her name is also a reference to her former job as "Ms Stick" is pronounced like "Mystic."
 -   Her position as a cook may also be a nod to the term "flipping burgers" or "putting the fries in the bag," which means resorting to entry level, minimum wage jobs due to unemployment.
--   Aside from her [Aspect](Aspects.md), Ms Stick is not based on any of the previous 8 Mystics.
+-   Aside from her [Aspect](Aspects.md), Ms Stick is not based on any of the previous eight Mystics.
 
 ## References
 

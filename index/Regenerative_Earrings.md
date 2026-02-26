@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 198623
+revid: 198828
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -31,6 +31,8 @@ Variants: [Old Blood Earrings](Old_Blood_Earrings.md)
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
+Regenerative Set
+
 ## Description
 
 The Regenerative Earrings are a pair of craftable earrings similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops. It is one of two pieces in the "Trueblood" set, alongside the [Regenerative Pendant](Regenerative_Pendant.md). The earrings alone grant the user the talent [Blood Convergence](Talents.md#blood-convergence), which allows you to receive 10% more healing from all healing sources when you have temp health.
@@ -48,4 +50,4 @@ The full Trueblood set talent provides the talent [Critical Heal](Talents.md#cri
 
 ## Crafting
 
-The Regenerative Earrings can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) (found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md)) with [Old Blood Earrings](Old_Blood_Earrings.md), 5x [Vampirism](Vampirism.md) [Enchant Stones](Enchant_Stone.md), and 1x Parasol Membrane.
+The Regenerative Earrings can be crafted at the [Lost Forge](Lost_Forge_of_Leiuna.md) with 1x [Old Blood Earrings](Old_Blood_Earrings.md), 5x [Vampirism](Vampirism.md) [Enchant Stones](Enchant_Stone.md), and 1x [Parasol Membrane](Parasol_Membrane.md).
