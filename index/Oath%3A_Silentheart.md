@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 195832
+revid: 198579
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -169,7 +169,7 @@ _Silentheart **cannot** be reobtained if you [Oathbreak](Oaths.md#oathbreaker---
 -   For the talent progression you first get; -Silentheart( includes +25 points in every weapon) alongside Merciless Blade -Dread Fighter (First Kill) -Unmatched Dexterity (Second Kill) -Ankle Cutter and True Vantage (Third Kill) -Relentless Hunt and Flow State (Fourth Kill) -Rising Star (Fifth Kill) -Mayhem (Sixth Kill) -Silent Cascade (Seventh Kill) **(ALL OF THESE ARE UNCONFIRMED)**
 -   While all Mantras are voided and the Mantra tab becomes unavailable, the character will still have them within their character data. Consult the [Shrine of Division](Deep_Shrines/Shrine_of_Division.md) to convert them into 2 random Talents.
     -   You're also still able to be given a [Whisper Draw](Whisper_Draw.md) on level up.
--   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown.
+-   [Wyrmtooth](Wyrmtooth.md) can utilize both the Medium and Heavy Silentheart abilities, using Heavy if the Medium ones are on cooldown. Though,having Wyrmtooth equipped reduces oath's abilities' damage by 50%.
 -   The Attunement-less trainer, Regek, cannot be killed for progression despite Physical Mantras also using the song. This may be due to the fact they do not "misuse" the song like the other attunement trainers, and therefore it isn't counted as "song abuse" by The Dreadstar.
 -   [Beatra](Beatra.md) cannot be killed for progression due to her old age.
 -   Silentheart's vow rejects the Words of the Song (Mantra chants). Resonances and Murmurs are not words and thus, are not affected by this Oath.

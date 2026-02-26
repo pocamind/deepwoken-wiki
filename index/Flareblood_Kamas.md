@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 196562
+revid: 198570
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -39,6 +39,8 @@ categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weap
 The **Flareblood Kamas** are a pair of Legendary [Light Weapon](Weapons.md) Kamas that scale with Light Weapon, Bloodrend, and Intelligence.
 
 The Kamas are exclusively obtainable from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), and occasionally the [Weird Trader](Weird_Trader.md).
+
+Can proc a [small blood explosion](https://medal.tv/pl/games/roblox/clips/mbVqkpUzAbd45NmNW?invite=cr-MSxQUXksMjE4OTk4OTI2&v=7) on the opponent with a relatively low chance (likely 5% or less) that deals a high amount of damage, scaling off your weapon.
 
 ## Critical
 

@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198539
+revid: 198585
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -141,6 +141,8 @@ Use **CTRL + F** to search for a specific item.
 1x [Ether Refined Hide](Ether_Refined_Hide.md) |
 | ??? | 1x [Frost Ring](Frost_Ring.md)  
 1x [Gale Enhanced Ring](Gale_Enhanced_Ring.md) |
+| [Blindseer's Ring](<Blindseer's_Ring.md>) | 1x [Transfusion Ring](Transfusion_Ring.md)  
+1x [Trickster Dust](Trickster_Dust.md) |
 
 ## Trivia
 

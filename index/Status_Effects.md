@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 197852
+revid: 198577
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -319,6 +319,10 @@ Applied from the [Entanglement](Entanglement.md) Enchantment; gain 10% damage re
 ### Harrowing
 
 This is applied by being hit by the [Harrowing](Harrowing.md) Enchant, hiding your Health, Posture, and Armor values. Signified by purple mist dissipating from your character and the aforementioned bars being covered by a mix of purple and yellow.
+
+#### Confusion
+
+When proccing [Harrowing](Harrowing.md) on a PvE enemy, apply Confusion to them for 12 seconds. Confused enemies have a 5% chance to hit themselves instead when landing attacks, nullifying their attack, stunning them, and dealing their damage back to themselves. The Confusion effect is signified by yellow quesion marks around the enemy's head. The attack redirection is signified by a yellow circle on the attack's target.
 
 ### Deferred
 
