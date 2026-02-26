@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Mantle"
-revid: 198455
+revid: 198642
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Mantle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Arms, Equipment, Equipment with Set Bonuses]

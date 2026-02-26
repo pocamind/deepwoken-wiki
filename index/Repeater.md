@@ -1,6 +1,6 @@
 ---
 title: Repeater
-revid: 196664
+revid: 198704
 source: https://deepwoken.fandom.com/wiki/Repeater
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
@@ -18,8 +18,8 @@ categories: [Weapons, Offhand, Pistols, The Summer Company, Light Weapons]
 | posture damage | 3 |
 | range | 12 Sweep |
 | swing speed | 1.25x |
-| m.equip | Yes |
-| m.extract | Yes |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | offhand | Yes |
 | rarity | Uncommon |

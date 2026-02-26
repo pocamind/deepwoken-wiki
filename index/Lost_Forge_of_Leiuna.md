@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198585
+revid: 198717
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -58,7 +58,7 @@ Use **CTRL + F** to search for a specific item.
 1x [Windswept](Windswept.md) [Enchant Stone](Enchant_Stone.md) |
 | [Suffocated](<Suffocated_(enchantment).md>) [Enchant Stone](Enchant_Stone.md) | 2x [Gale Essence](Gale_Essence.md)  
 1x [Windswept](Windswept.md) [Enchant Stone](Enchant_Stone.md) |
-| [Gale Bullet](Bullet_Casings.md#gale) | 50x [Bullet](Bullets.md)  
+| 999x [Gale Bullet](Bullet_Casings.md#gale) | 1x [Bullet](Bullets.md)  
 1x [Gale Essence](Gale_Essence.md) |
 | [Frost Ring](Frost_Ring.md) | 1x [Heavy Hands Ring](Heavy_Hands_Ring.md)  
 1x [Frost Essence](Frost_Essence.md) |
@@ -72,7 +72,7 @@ Use **CTRL + F** to search for a specific item.
 1x [Frost Essence](Frost_Essence.md) |
 | ??? | 5x [Frigid Prism](Frigid_Prism.md)  
 1x [Frost Essence](Frost_Essence.md) |
-| [Frost Bullet](Bullet_Casings.md#frost) | 50x [Bullet](Bullets.md)  
+| 999x [Frost Bullet](Bullet_Casings.md#frost) | 1x [Bullet](Bullets.md)  
 1x [Frost Essence](Frost_Essence.md) |
 | [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) | 1x [Giant Femur](Giant_Femur.md)  
 1x [Dread Serpent's Tooth](<Dread_Serpent's_Tooth.md>)  

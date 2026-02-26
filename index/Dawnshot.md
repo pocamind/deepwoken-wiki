@@ -1,6 +1,6 @@
 ---
 title: Dawnshot
-revid: 198404
+revid: 198706
 source: https://deepwoken.fandom.com/wiki/Dawnshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
@@ -21,8 +21,8 @@ categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
 | swing speed | 1.17x |
 | penetration | 5% |
 | chip damage | 10% |
-| m.equip | Yes |
-| m.extract | Yes |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | offhand | Yes |
 | rarity | Rare |
@@ -32,7 +32,7 @@ categories: [Weapons, Pistols, Alloyed Weapons, Offhand, Light Weapons]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Scion of Ethiron, Songseeker Wilds, Lodestar, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War Mode, Saramaed HollowAlloyed:, Alloying a Dawnshot, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, Sea Events |
+| obtainment | First Layer, Minityrsa, Summer Isle, Moon's Eyrie, Scion of Ethiron, Songseeker Wilds, Lodestar, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Duke Ishamon Erisia, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, War Mode, Saramaed HollowAlloyed:, Alloying a Dawnshot, Duke Ishamon Erisia, Lodestar, Maestro Evengarde Rest, Heart of Enmity, The Doom of Caeranthil, Interluminary Parasol, Dread Serpent, Sea Events |
 | description | With an almost flawless silver sheen that prevents corrosion from saltwater, the Dawnshot was purpose-built by Rosen for his lengthy travels at sea. Its short range is compensated for by the almost wrist-snapping kickback of four barrels. Although, with the Summer Company Cannon making most naval investments in their territories obsolete, this weapon has fallen out of production. |
 
 ## Description

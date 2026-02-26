@@ -1,11 +1,9 @@
 ---
 title: Regenerative Earrings
-revid: 198324
+revid: 198623
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Pathfinder Exclusive]
 ---
 
 # Regenerative Earrings
@@ -26,6 +24,12 @@ notices:
 | pass down | No |
 | obtainment | Crafted at the Lost Forge with Old Blood Earrings, 5x Vampirism Enchant Stones, and 1x Parasol Membrane |
 | description | Wearing these fills you with a newfound sense of vitality. |
+
+Variants: [Old Blood Earrings](Old_Blood_Earrings.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

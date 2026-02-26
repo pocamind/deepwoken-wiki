@@ -1,8 +1,9 @@
 ---
 title: Necrotic Mask
-revid: 198179
+revid: 198631
 source: https://deepwoken.fandom.com/wiki/Necrotic_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive]
 ---
 
 # Necrotic Mask
@@ -25,6 +26,16 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | obtainment | Crafting 1 Bloodfeather Cowl + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge |
 | description | ... |
 
+Variants: [Bloodfeather Mask](Bloodfeather_Mask.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+Necrotic Set
+
+Variants: [Necrotic Cowl](Necrotic_Cowl.md)
+
 ## Description
 
 The **Necrotic Mask** is an [Equipment](Equipment.md) item under the "Face" category. The Necrotic Mask is a mask that resembles the masks of the Plague Doctors from around the 16th and 17th centuries. Due to the beak-like shape this is probably where the feather part of the name comes from.
@@ -37,4 +48,4 @@ This item is similar to the [Bloodcurdle Mask](Bloodcurdle_Mask.md) from [Vow of
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) everytime you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).
+Set Talent: [Bloodless Overdrive](Talents.md#bloodless-overdrive) - Gain bonus [temp health](Status_Effects.md#temporary-health) every time you land a mantra with a [Bloodless Gem](Bloodless_Gem.md).

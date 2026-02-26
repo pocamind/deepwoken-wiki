@@ -1,6 +1,6 @@
 ---
 title: Rimebreakers
-revid: 198016
+revid: 198672
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
@@ -12,7 +12,7 @@ categories: [Pathfinder Exclusive, Weapons, Fists, "Weapons with Multi-Attunemen
 |---|---|
 | type | Fist \| Light \| Blunt |
 | requirements | 50 ICE; 50 LHT, 50 WND |
-| damage | 14 |
+| damage | 16.5 |
 | scaling | 3.5 WND; 5 LHT; 3.5 ICE |
 | range | 6 Sweep |
 | swing speed | 1.1x |

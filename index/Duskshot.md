@@ -1,6 +1,6 @@
 ---
 title: Duskshot
-revid: 195116
+revid: 198701
 source: https://deepwoken.fandom.com/wiki/Duskshot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offhand, Light Weapons]
@@ -21,8 +21,8 @@ categories: [Vow of Iron Exclusive, Weapons, Pistols, Weapons with Talents, Offh
 | penetration | 5% |
 | chip damage | 10% |
 | talent | Hex Bullet - Bullets that hit your opponents block shatter into dust on impact, unleashing a maddening smoke that increases your opponent's sanity. |
-| m.equip | Yes |
-| m.extract | Yes |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | offhand | Yes |
 | rarity | Rare |

@@ -1,6 +1,6 @@
 ---
 title: Silversix
-revid: 196614
+revid: 198708
 source: https://deepwoken.fandom.com/wiki/Silversix
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Echoes]
@@ -18,8 +18,8 @@ categories: [Pathfinder Exclusive, Weapons, Pistols, Offhand, Light Weapons, Ech
 | posture damage | 1 |
 | range | 10 Sweep |
 | swing speed | 1.17x |
-| m.equip | Yes |
-| m.extract | Yes |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | offhand | Yes |
 | rarity | Common |

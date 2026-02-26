@@ -1,6 +1,6 @@
 ---
 title: Summer Rifle
-revid: 197238
+revid: 198700
 source: https://deepwoken.fandom.com/wiki/Summer_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
@@ -18,8 +18,8 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons]
 | posture damage | 4 |
 | range | 8 Sweep |
 | swing speed | 1x |
-| m.equip | Yes |
-| m.extract | Yes |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed |
 | rarity | Uncommon |
 | selling price | 14 |

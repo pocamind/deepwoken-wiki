@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Roscoe"
-revid: 196621
+revid: 198702
 source: https://deepwoken.fandom.com/wiki/Rosen's_Roscoe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
@@ -19,8 +19,8 @@ categories: [Weapons, Pistols, The Summer Company, Offhand, Light Weapons]
 | range | 11 Sweep |
 | swing speed | 1.2x |
 | chip damage | 20% |
-| m.equip | Yes |
-| m.extract | Yes |
+| m.equip | No |
+| m.extract | No |
 | stances | 1 Handed |
 | offhand | Yes |
 | rarity | Rare |

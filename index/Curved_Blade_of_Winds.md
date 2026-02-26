@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 198005
+revid: 198660
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -39,17 +39,13 @@ categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons",
 
 The **Curved Blade of Winds** is a Legendary medium [Sword](Weapons.md) that can cut through both air and guards with breeze. The blade curves like the start of a spiral, and within its blade is Galebreathe energy showing in swirling eddies and dotted swirls. It scales with both Medium Weapon and [Galebreathe](Galebreathe.md).
 
-This weapon comes with two passive abilities:
+This weapon comes with a passive ability:
 
 -   **Gale After Cut** - M1 attacks now apply After Cut, dealing 5% of the initial damage of the attack.
 
--   **Gale Affinity** - Your critical attack now applies Suffocate. If the user has Haunted Path: Specter, critical attacks will fill up the Specter gauge and summon Apparitions.
-
-When using the weapon one-handed, it becomes two swords, changing its swing speed, criticals, and animations.
-
 ## Critical
 
-The Curved Blade of Winds has two critical attacks, with it reflecting on the user's weapon stance. Both criticals apply [Suffocation](Status_Effects.md#suffocate) if they land.
+The Curved Blade of Winds has two critical attacks, with it reflecting on the user's weapon stance. Both criticals apply [Suffocation](Status_Effects.md#suffocate) or spawn Apparitions when landed.
 
 For the One-Handed Critical, the user propels in a whirlwind of air, gravitating towards their cursor. This has a scaled damage modifier of 0.25x per hit. Deals 2.5 posture damage per hit if blocked.
 

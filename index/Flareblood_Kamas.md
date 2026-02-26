@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 198570
+revid: 198650
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -40,13 +40,13 @@ The **Flareblood Kamas** are a pair of Legendary [Light Weapon](Weapons.md) Kama
 
 The Kamas are exclusively obtainable from [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md), and occasionally the [Weird Trader](Weird_Trader.md).
 
-Can proc a [small blood explosion](https://medal.tv/pl/games/roblox/clips/mbVqkpUzAbd45NmNW?invite=cr-MSxQUXksMjE4OTk4OTI2&v=7) on the opponent with a relatively low chance (likely 5% or less) that deals a high amount of damage, scaling off your weapon.
+Has a small (likely 5% or less) chance to [lacerate](https://medal.tv/pl/games/roblox/clips/mbVqkpUzAbd45NmNW?invite=cr-MSxQUXksMjE4OTk4OTI2&v=7) opponents on attacks/bleed procs, doubling that instance of damage and draining some of your opponent's blood. Although this can apply on critical attacks or M1s, it is much more common on bleed ticks due to their damage being applied thrice rather than once.
 
 ## Critical
 
-The critical unleashes an explosion of blood at your cursor, launching the target into the air and ragdolling them for a short duration. Applies [Blood Poisoning](Status_Effects.md#blood-poisoning) on successful hit.
+The critical unleashes an explosion of blood at your cursor, dealing **1.5x scaled damage** and launching the target into the air while ragdolling them for a short duration. Applies [Blood Poisoning](Status_Effects.md#blood-poisoning) on successful hit.
 
-The critical has a cooldown of 8 seconds.
+The critical has a cooldown of 8 seconds, not starting until the critical animation is finished.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
 

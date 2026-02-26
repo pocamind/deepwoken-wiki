@@ -1,8 +1,9 @@
 ---
 title: Gale Enhanced Cowl
-revid: 197850
+revid: 198608
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive]
 ---
 
 # Gale Enhanced Cowl
@@ -24,6 +25,12 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | pass down | No |
 | obtainment | Crafting 1 Monastery Cowl + 1 Gale Essence + 1 Bluster Enchant Stone at Lost Forge |
 | description | ... |
+
+Variants: [Monastery Cowl](Monastery_Cowl.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

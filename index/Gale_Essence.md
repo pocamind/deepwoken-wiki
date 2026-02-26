@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 198170
+revid: 198720
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -45,4 +45,4 @@ Gale Monastery Cowl = [Bluster Enchant Stone](Bluster.md) + 1 **Gale Essence** +
 
 ??? = 2 **Gale Essence** + ???
 
-[Gale Bullets](Bullet_Casings.md#gale) (50) = 50 [Bullets](Bullet_Casings.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
+999x [Gale Bullets](Bullet_Casings.md#gale) = 1 [Bullet](Bullet_Casings.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)

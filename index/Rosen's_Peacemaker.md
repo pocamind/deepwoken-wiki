@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Peacemaker"
-revid: 198409
+revid: 198698
 source: https://deepwoken.fandom.com/wiki/Rosen's_Peacemaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents]
@@ -19,8 +19,8 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with T
 | range | 8 Sweep |
 | swing speed | 1x |
 | talent | Rosen's Technique - If you use Tactical Reload, Rosen's Peacemaker has 45 seconds less off its cooldown. |
-| m.equip | Yes |
-| m.extract | Yes |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed |
 | rarity | Rare |
 | selling price | 30 |

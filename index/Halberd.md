@@ -1,6 +1,6 @@
 ---
 title: Halberd
-revid: 196669
+revid: 198593
 source: https://deepwoken.fandom.com/wiki/Halberd
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Authority Faction Item, Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons, Weapons with Talents]
@@ -36,7 +36,7 @@ categories: [Pages with broken file links, Authority Faction Item, Weapons, Crit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict, Dread Serpent, Lodestar, Duke Ishamon Erisia, Fort Merit Armory for 60 (Authority Ensign exclusive)Alloyed:, Alloying a Halberd, Fort Merit Armory for 180 (Authority Ensign exclusive) |
+| obtainment | Erisia, The Depths, Blacksteel Pirate, Chime of Conflict, Dread Serpent, Lodestar, Duke Ishamon Erisia, Saramaed Hollow, Fort Merit Armory for 60 (Authority Ensign exclusive)Alloyed:, Alloying a Halberd, Fort Merit Armory for 180 (Authority Ensign exclusive) |
 | description | A standard issue halberd of the Authority, often seen in larger skirmishes. |
 
 ## Description

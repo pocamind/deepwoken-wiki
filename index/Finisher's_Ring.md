@@ -1,6 +1,6 @@
 ---
 title: "Finisher's Ring"
-revid: 192861
+revid: 198598
 source: https://deepwoken.fandom.com/wiki/Finisher's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -19,7 +19,7 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Interluminary Parasol, Pure Ore Turn-ins, Aelita (Extremely Rare), Duke Ishamon Erisia (Very Rare), Second Layer, Scion of Ethiron, The Doom of Caeranthil, Ancient Rotlands, Maestro Evengarde Rest, War Mode |
+| obtainment | Chests from:, Ferryman, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Interluminary Parasol, Pure Ore Turn-ins, Aelita (Extremely Rare), Duke Ishamon Erisia (Very Rare), Second Layer, Scion of Ethiron, The Doom of Caeranthil, Ancient Rotlands, Maestro Evengarde Rest, War Mode, Saramaed Hollow |
 | description | Extra PEN on your attacks that flourish opponents. |
 
 ## Description

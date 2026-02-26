@@ -1,8 +1,9 @@
 ---
 title: Necrotic Cowl
-revid: 198178
+revid: 198628
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive]
 ---
 
 # Necrotic Cowl
@@ -22,6 +23,14 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | pass down | No |
 | obtainment | Crafting 1 Bloodfeather Mask + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge |
 | description | ... |
+
+Variants: [Bloodfeather Cowl](Bloodfeather_Cowl.md)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+Necrotic Set
 
 ## Description
 

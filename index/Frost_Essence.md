@@ -1,6 +1,6 @@
 ---
 title: Frost Essence
-revid: 197690
+revid: 198719
 source: https://deepwoken.fandom.com/wiki/Frost_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Relics, Items, Ingredients]
@@ -36,5 +36,5 @@ The Frost Essence can craft into a few items with the [Lost Forge](Lost_Forge_of
 3.  ???: ??? + 5x [Frigid Prisms](Frigid_Prism.md) + 1x Frost Essence
 4.  [Frost Ring](Frost_Ring.md): [Heavy Hands Ring](Heavy_Hands_Ring.md) + 1x Frost Essence
 5.  ???: 1x Frost Essence + ???
-6.  [Frost Bullet](Bullet_Casings.md#frost): 50x [Bullet](Bullets.md) + 1x Frost Essence
+6.  999x [Frost Bullet](Bullet_Casings.md#frost): 1x [Bullet](Bullets.md) + 1x Frost Essence
 7.  [Winter Rifle](Winter_Rifle.md): [Summer Rifle](Summer_Rifle.md) + 1x Frost Essence

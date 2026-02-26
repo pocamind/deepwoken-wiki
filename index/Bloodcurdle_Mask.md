@@ -1,6 +1,6 @@
 ---
 title: Bloodcurdle Mask
-revid: 198523
+revid: 198634
 source: https://deepwoken.fandom.com/wiki/Bloodcurdle_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Face, Masks]

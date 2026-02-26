@@ -1,6 +1,6 @@
 ---
 title: Winter Rifle
-revid: 197999
+revid: 198699
 source: https://deepwoken.fandom.com/wiki/Winter_Rifle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with Talents, Craftable]
@@ -19,8 +19,8 @@ categories: [Weapons, Rifles, The Summer Company, Medium Weapons, Weapons with T
 | range | 8 |
 | swing speed | 1x |
 | talent | Subzero - Landing a running attack inflicts your opponent with a deep freeze. Additional light hits after the opponent thaws out will briefly slow them as well. |
-| m.equip | Yes |
-| m.extract | Yes |
+| m.equip | No |
+| m.extract | No |
 | stances | 2 Handed |
 | rarity | Uncommon |
 | selling price | 14 |

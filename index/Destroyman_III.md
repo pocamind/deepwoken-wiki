@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 198352
+revid: 198626
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -86,6 +86,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   Mudwoken? What are you talking about? That's so 91 years ago. Get with the times.
 -   Never go to afterparties. Just go home.
 -   Please join my fireteam. We're running a raid and need one more.
+-   Posture check! You better not be sitting like a shrimp right now — trust me, your back will not thank you for it in your late twenties.
 -   Seriously? You're wearing those boots with that hat? Yikes.
 -   So... come here often?
 -   Sometimes I like to stare at the ocean and imagine terrifying eyes rising from the deep beyond. It gives me the best nightmares.

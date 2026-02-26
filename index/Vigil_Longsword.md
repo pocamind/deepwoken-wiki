@@ -1,6 +1,6 @@
 ---
 title: Vigil Longsword
-revid: 196686
+revid: 198591
 source: https://deepwoken.fandom.com/wiki/Vigil_Longsword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Swords, Etrea, Alloyed Weapons, Weapons with Unique Criticals, Medium Weapons]
@@ -36,7 +36,7 @@ categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Sword
 
 ## Description
 
-The Vigil Longsword is a [medium](Weapons.md#medium-weapons) longsword, used by the Vigils of Etrea. Along with typical medium weapon range and is balanced across all attributes, becoming a very effective mid-tier weapon.
+The Vigil Longsword is a [Medium](Weapons.md#medium-weapons) longsword, used by the [Vigils of Etrea](The_Vigils.md). With typical Medium Weapon range, along with being balanced across all attributes, the Vigil Longsword becomes a very effective mid-tier weapon.
 
 With the use of a [Pluripotent Alloy](Pluripotent_Alloy.md), Alloyed Vigil Longswords are equal to, if not better than the [Shattered Katana](Shattered_Katana.md) making it an easy endgame weapon to acquire if you have a [Pluripotent Alloy](Pluripotent_Alloy.md). Alloying a Vigil Longsword improves its stats and gives the blade a slight purple hue.
 
@@ -50,6 +50,6 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   When alloyed, it's basically a [Shattered Katana](Shattered_Katana.md) but it has more dmg in exchange for less pen. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
+-   When Alloyed, it's basically a [Shattered Katana](Shattered_Katana.md), but it does more DMG in exchange for less PEN. The Alloyed Vigil Longsword, Weight, Swing Speed, and Range remain the same as the regular non-alloyed Vigil Longsword.
 -   Due to an inconsistency with the model and the weapons range, it was changed to increase the length of the blade.
 -   The Vigil Longsword was given a unique critical attack on the January 25, 2025 update.

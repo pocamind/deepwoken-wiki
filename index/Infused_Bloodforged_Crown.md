@@ -1,6 +1,6 @@
 ---
 title: Infused Bloodforged Crown
-revid: 191044
+revid: 198599
 source: https://deepwoken.fandom.com/wiki/Infused_Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Ornaments]

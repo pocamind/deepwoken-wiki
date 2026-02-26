@@ -1,6 +1,6 @@
 ---
 title: Curseblood Pendant
-revid: 198405
+revid: 198619
 source: https://deepwoken.fandom.com/wiki/Curseblood_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces]
