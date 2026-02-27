@@ -1,6 +1,6 @@
 ---
 title: Golden Rat Bouncer
-revid: 191452
+revid: 198958
 source: https://deepwoken.fandom.com/wiki/Golden_Rat_Bouncer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Golden Rats, NPCs]
@@ -21,7 +21,7 @@ The Golden Rat Bouncer is a [Golden Warrior](Golden_Warrior.md) standing outside
 
 As they don't grip you, they can act as a stronger and much tankier version of the [Blade Instructor](Blade_Instructor.md). However, it is risky to fight them, due to the location.
 
-They wear a [Goldleaf Helm](Goldleaf_Helm.md), Warden Pauldrons, a recolored Etrean Guard outfit and a pair of Flameguard Boots.
+They wear a [Goldleaf Helm](Goldleaf_Helm.md), [Warden Pauldrons](Warden_Pauldrons.md), a recolored [Steel Plate](Steel_Plate.md) outfit and a pair of [Flameguard Boots](Flameguard_Boots.md).
 
 ## Moveset
 

@@ -1,9 +1,11 @@
 ---
 title: Treasures
-revid: 196131
+revid: 198960
 source: https://deepwoken.fandom.com/wiki/Treasures
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Treasures]
+categories: [Cut Content, Treasures]
+notices:
+  - This page contains Cut Content Treasures were replaced by Trinkets.
 ---
 
 # Treasures

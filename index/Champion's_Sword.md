@@ -1,9 +1,9 @@
 ---
 title: "Champion's Sword"
-revid: 198406
+revid: 198950
 source: https://deepwoken.fandom.com/wiki/Champion's_Sword
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons]
+categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons of The Golden Rats]
 ---
 
 # Champion's Sword

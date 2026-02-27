@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 196462
+revid: 198952
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -72,9 +72,10 @@ Wishing to escape the Depths can only be done once per method, per character. Fo
 
 The void is an ever-present hazard in the First Layer, being large sections of the map that have been cut away to reveal an endless pit. Falling into the Void will mean **instant death**, and your character **wiping**, unless your current health is above the 'Void Threshold'. The Void Threshold is a percentage of your maximum health, showcased as a corroded section on your healthbar. As long as your current health is above this threshold, then jumping into the Void will send you to the [Second Layer](Second_Layer.md) instead of wiping you. The Void Threshold is affected by many variables:
 
-1.  If you are not in combat, are in PvE combat, or are in PvP combat while being **below** Power 16, your Void Threshold will be 50% of your maximum health
-2.  If you are in PvP combat while being Power 16 or higher, your Void Threshold will be increased, scaling on your level. This caps at a maximum of 75% of your maximum health at Power 20.
-3.  Your Void Threshold will be reduced by 5% for every player Combat Tag you have, capping at a minimum threshold of 40% of your maximum health.
+1.  If you are below Power 3, your Void Threshold will be 0% of your maximum health. This means you will be sent to Layer 2 at any health. This is not affected by PvP or PvE combat.
+2.  If you are not in combat, are in PvE combat, or are in PvP combat while being **below** Power 16, your Void Threshold will be 50% of your maximum health
+3.  If you are in PvP combat while being Power 16 or higher, your Void Threshold will be increased, scaling on your level. This caps at a maximum of 75% of your maximum health at Power 20.
+4.  Your Void Threshold will be reduced by 5% for every player Combat Tag you have, capping at a minimum threshold of 40% of your maximum health.
 
 ## Farming in First Layer
 

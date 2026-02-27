@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 195852
+revid: 198956
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -142,7 +142,7 @@ _"Another one...? You've got to be kidding me." - Akira_
 _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus_Pleeksty.md) books._
 
 -   An immortal who brought the concept of Flamecharm to the world by devouring a chunk of Korilfiend, in the form of a meteor flower found in the Third Layer, allowing him to communicate with and 'charm' fire, making him the only true Pyrokinetic Flamecharmer.[\[1\]](#cite-note-rag-1)
--   He and the First Prophet are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
+-   He, the First Prophet, and Drallis Ehr are the only known Deepwoken.[\[1\]](#cite-note-rag-1)
 -   "Would beat Akira up and down the eastern lum."[\[1\]](#cite-note-rag-1)
 -   Is far stronger than Lord Regent with the throne buff and be able to put some decent fight to the First Prophet due to both of them being Deepwoken.
 -   Was a very prestigious Black Diver, having the respect of most of [the Divers](The_Divers.md), however his actual relation to the Divers is unknown.
