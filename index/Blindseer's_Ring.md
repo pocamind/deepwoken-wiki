@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 198584
+revid: 198856
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -21,11 +21,11 @@ categories: [Equipment, Rings]
 | enchantable | No |
 | pass down | No |
 | obtainment | Pathfinder: Crafting 1 Transfusion Ring + 1 Trickster Dust in the Lost ForgeVow of Iron: Sitting on top of the Eastern Interstitial Lighthouse |
-| description | Increase all healing you recieve by 33%. Reduce all damage you deal by 15%. |
+| description | Increase all healing you receive by 20-33%. Reduce all damage you deal by 15%. |
 
 ## Description
 
-The **Blindseer's Ring** is a ring [Equipment](Equipment.md) item that reduces your outgoing damage by 15%, but increases all incoming healing you receive by 33%.
+The **Blindseer's Ring** is a ring [Equipment](Equipment.md) item that reduces your outgoing damage by 15%, but increases all incoming healing you receive by 20-33%.
 
 ## Trivia
 

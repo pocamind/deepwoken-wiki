@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 198693
+revid: 198864
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -26,7 +26,7 @@ Motifs can be unequipped at any time by right clicking your equipped weapon; the
 
 Motifs can only be applied to weapons that can be extracted for their Motif or weapons that can have their unique criticals overwritten. This means, most weapons with unique criticals **cannot** cannot equip a Motif. For example, You can apply a Motif to [The Flippers of Fate](The_Flippers_of_Fate.md) or [Crescent Cleaver](Crescent_Cleaver.md), but you cannot apply a Motif to [Katana](Katana.md). Motifs cannot be applied to [Soulwrought Weapons](Crazy_Slots.md#weapons).
 
-Any weapon with a default critical (excluding Fist, Pistol, Rifle, and Greatcannon weapons) can be used to obtain a Motif. Base critical Motifs can **only** be equipped onto other weapons within that weapon class with two exceptions being the 'Sword' and 'Gun' Motifs.
+Any weapon with a default critical (excluding Fist, Pistol, Rifle, and Greatcannon weapons) can be used to obtain a Motif. Base critical Motifs can **only** be equipped onto other weapons within that weapon class with the only exception being the 'Sword' Motif.
 
 ### Overridable Weapons
 
@@ -44,15 +44,15 @@ Full list of Motif-able weapons
 | --- | --- | --- |
 | [Krulian Knife](Krulian_Knife.md) | [Krulian Knife](Krulian_Knife.md) | Daggers |
 | [Nemit's Sickle](<Nemit's_Sickle.md>) | [Nemit's Sickle](<Nemit's_Sickle.md>) | Daggers |
-| [Whaling Knife](Whaling_Knife.md) / [Alloyed Whaling Knife](Whaling_Knife.md#alloyed) | [Whaling Knife](Whaling_Knife.md) | Daggers |
+| [Whaling Knife](Whaling_Knife.md) / [Alloyed Whaling Knife](Whaling_Knife.md) | [Whaling Knife](Whaling_Knife.md) | Daggers |
 | [The Flippers of Fate](The_Flippers_of_Fate.md) / [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | [Warden Ceremonial Sword](Warden_Ceremonial_Sword.md) | Swords, Clubs, Twinblades, Spears, Bows |
 | [Serpent's Edge](<Serpent's_Edge.md>) | [Serpent's Edge](<Serpent's_Edge.md>) | Swords, Spears |
-| [Cavalry Saber](Cavalry_Saber.md) / [Alloyed Cavalry Saber](Cavalry_Saber.md#alloyed) / [Officer Saber](Officer_Saber.md) / [Alloyed Officer Saber](Officer_Saber.md#alloyed) | [Officer Saber](Officer_Saber.md) | Swords |
-| [Shotel](Shotel.md) / [Alloyed Shotel](Shotel.md#alloyed) | [Shotel](Shotel.md) | Swords, Clubs, Twinblades, Spears, Bows |
-| [Trident Spear](Trident_Spear.md) / [Alloyed Trident Spear](Trident_Spear.md#alloyed) / [Golden Swordfish](Golden_Swordfish.md) | [Trident Spear](Trident_Spear.md) | Spears |
-| [Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / [Alloyed Crescent Cleaver](Crescent_Cleaver.md#alloyed) / [The Long Tong of the Law](The_Long_Tong_of_The_Law.md) | [Crescent Cleaver](Crescent_Cleaver.md) | Greatswords |
+| [Cavalry Saber](Cavalry_Saber.md) / [Alloyed Cavalry Saber](Cavalry_Saber.md) / [Officer Saber](Officer_Saber.md) / [Alloyed Officer Saber](Officer_Saber.md) | [Officer Saber](Officer_Saber.md) | Swords |
+| [Shotel](Shotel.md) / [Alloyed Shotel](Shotel.md) | [Shotel](Shotel.md) | Swords, Clubs, Twinblades, Spears, Bows |
+| [Trident Spear](Trident_Spear.md) / [Alloyed Trident Spear](Trident_Spear.md) / [Golden Swordfish](Golden_Swordfish.md) | [Trident Spear](Trident_Spear.md) | Spears |
+| [Kyrscleave](Kyrscleave.md) / [Crescent Cleaver](Crescent_Cleaver.md) / [Alloyed Crescent Cleaver](Crescent_Cleaver.md) / [The Long Tong of The Law](The_Long_Tong_of_The_Law.md) | [Crescent Cleaver](Crescent_Cleaver.md) | Greatswords |
 | [Kanabo](Kanabo.md) | [Kanabo](Kanabo.md) | Greathammers |
-| [Halberd](Halberd.md) / [Alloyed Halberd](Halberd.md#alloyed) | [Halberd](Halberd.md) | Greataxes, Spears |
+| [Halberd](Halberd.md) / [Alloyed Halberd](Halberd.md) | [Halberd](Halberd.md) | Greataxes, Spears |
 | Any weapon in the respective weapon class with a default critical attack  
   
 Excludes Fists, Pistols, Rifles, and Greatcannons | **Light Weapons**:  

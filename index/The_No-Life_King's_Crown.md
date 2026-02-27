@@ -1,6 +1,6 @@
 ---
 title: "The No-Life King's Crown"
-revid: 198588
+revid: 198869
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Equipment, Head, Ornaments]
@@ -19,10 +19,10 @@ notices:
 | weight | 1 |
 | innate stats | +5 Health, +1 Legendary Pip, +1 Rare Pip |
 | innate talent | Blood Necrosis, Cauterized Wounds, No Limits |
-| bankable | ? |
+| bankable | Yes |
 | droppable | ? |
-| enchantable | ? |
-| pass down | Yes |
+| enchantable | Yes |
+| pass down | ? |
 | obtainment | Crafted at the Lost Forge using a Bloodforged Crown, 1x Ethereal Osseous Plate, and 1x Necrotic Membrane |
 | description | ... |
 

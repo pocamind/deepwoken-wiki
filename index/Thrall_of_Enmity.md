@@ -1,6 +1,6 @@
 ---
 title: Thrall of Enmity
-revid: 192260
+revid: 198861
 source: https://deepwoken.fandom.com/wiki/Thrall_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -23,7 +23,7 @@ categories: [Equipment, Face, Masks]
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Heart of Enmity |
+| obtainment | Heart of Enmity, Elder Primadon, The Titan Warlord |
 | description | The mask of the fabled Angels of Enmity, infamous for barring the unworthy from the trial, instills dread in the hearts of the drowned. |
 
 ## Description
