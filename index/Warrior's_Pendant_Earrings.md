@@ -1,6 +1,6 @@
 ---
 title: "Warrior's Pendant Earrings"
-revid: 189921
+revid: 198892
 source: https://deepwoken.fandom.com/wiki/Warrior's_Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -23,6 +23,8 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | pass down | No |
 | obtainment | TBA |
 | description | Donning these fills you with strength and fury. |
+
+Variants: [Amethyst Pendant Earrings](Amethyst_Pendant_Earrings.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

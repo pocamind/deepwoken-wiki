@@ -1,6 +1,6 @@
 ---
 title: Ossified Phalanx Boots
-revid: 198709
+revid: 198898
 source: https://deepwoken.fandom.com/wiki/Ossified_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -24,6 +24,8 @@ categories: [Pathfinder Exclusive]
 | pass down | No |
 | obtainment | Crafting 1 Phalanx Heavy Boots +1 Ethereal Osseous Plate + 1 Shiva's Codex in the Lost Forge |
 | description | ... |
+
+Variants: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

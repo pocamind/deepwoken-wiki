@@ -1,6 +1,6 @@
 ---
 title: Revitalizing Pendant
-revid: 198473
+revid: 198887
 source: https://deepwoken.fandom.com/wiki/Revitalizing_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -33,8 +33,3 @@ This content is not accessible outside of this gamemode.
 Revitalizing Pendant is an [Equipment](Equipment.md) item under the "Torso" category.
 
 The [Praise The Sun](Talents.md#praise-the-sun) Talent grants increased health regeneration and hastens the decay of Anti-Heal status effects if you are under direct sunlight.
-
-## Trivia
-
--   This item cannot be deposited in bank.
--   It has an identical model to the [Wheel Pendant](Wheel_Pendant.md)

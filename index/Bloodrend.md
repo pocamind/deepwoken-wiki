@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 198870
+revid: 198906
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -180,13 +180,13 @@ Blood
  |
 | 
 
-**Scarlet Cyclone** (★★☆)
+**Scarlet Cyclone** (☆☆☆)
 
 _Create a cyclone of blood._
 
  | 
 
-## Scarlet Cyclone (★★☆)
+## Scarlet Cyclone (☆☆☆)
 
   
 _Create a cyclone of blood._

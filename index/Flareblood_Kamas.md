@@ -1,6 +1,6 @@
 ---
 title: Flareblood Kamas
-revid: 198871
+revid: 198935
 source: https://deepwoken.fandom.com/wiki/Flareblood_Kamas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, "Dual-wielded Weapons"]
@@ -42,7 +42,7 @@ The Kamas are exclusively obtainable from [Chaser, Scholar of the Crimson Contra
 
 ## Critical
 
-The critical unleashes an explosion of blood at your cursor, dealing **1.5x scaled damage** and launching the target into the air while ragdolling them for a short duration. Applies [Blood Poisoning](Status_Effects.md#blood-poisoning) on successful hit.
+The user raises both kamas, unleashing a fountain of blood at their cursor, launching the target into the air while ragdolling them for a short duration. The critical deals **1.5x scaled damage,** applies [Blood Poisoning](Status_Effects.md#blood-poisoning), and restores a portion of the user's blood on successful hit.
 
 The critical has a cooldown of 8 seconds, not starting until the critical animation is finished.
 

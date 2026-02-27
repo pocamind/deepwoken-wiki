@@ -1,6 +1,6 @@
 ---
 title: Chef Odiolavoro
-revid: 193176
+revid: 198905
 source: https://deepwoken.fandom.com/wiki/Chef_Odiolavoro
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -95,7 +95,7 @@ File:Mushroom omlette.jpg
 
 File:UllaGlazedFish.png
 
- | Glazed Fish | 1x Fish Meat, 1x Sap | ◯ |
+ | Glazed Fish | 1x Fish Meat + 1x Sap | ◯ |
 | 
 
 File:UllaOmelette.png
@@ -111,10 +111,19 @@ File:UllaOmelette.png
 
 File:UllaFriedEgg.png
 
- | Cooked Egg | 1 Egg | ◯ |
+ | Cooked Egg | 1x Egg | ◯ |
 | 
 
- | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
+ | Seafood Boil | 1x Squid + 1x Fish Meat + 1x Crustacean Meat | ◯ |
+| 
+
+ | Crab Stuffed Browncaps | 3x Browncaps + 2x Crustacean Meat + 1x Cheese | ◯ |
+| 
+
+ | Seafood Surprise | 1x Squid + 1x Fish Meat + 1x Urchin/1x Crustacean Meat | ◯ |
+| 
+
+ | Scholar's Brew | 1x Any Mantra Modifier + 1x Any Mushroom | ◯ |
 
 ## Dialogue
 

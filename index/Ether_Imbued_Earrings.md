@@ -1,8 +1,9 @@
 ---
 title: Ether Imbued Earrings
-revid: 198453
+revid: 198896
 source: https://deepwoken.fandom.com/wiki/Ether_Imbued_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Pathfinder Exclusive, Equipment, Ears]
 ---
 
 # Ether Imbued Earrings
@@ -22,6 +23,12 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 | pass down | No |
 | obtainment | Crafting 1 Practicioner's Earrings + 1 Ether Refined Hide in the Lost Forge |
 | description | ... |
+
+Variants: [Practicioner's Earrings](<Practicioner's_Earrings.md>)
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

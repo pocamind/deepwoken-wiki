@@ -1,6 +1,6 @@
 ---
 title: "Hero's Blade of Lightning"
-revid: 198716
+revid: 198885
 source: https://deepwoken.fandom.com/wiki/Hero's_Blade_of_Lightning
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Swords, Legendary Weapons, "Attunement-based Weapons", Medium Weapons, "Weapons with Multi-Hit Criticals", Hero Blades]
@@ -52,6 +52,7 @@ The critical has a cooldown of **10 seconds**.
 -   The Hero of Thunder is an [Adret](Adret.md) named [Tessa](Tessa.md). Identified by their facial markings.
     -   Tessa tells the player that Thundercall isn't easily controllable as it appears to be, as said in their [Saintsworn Obelisk](Saintsworn_Obelisks.md).
     -   The Hero of Thunder was revealed in a Twitter post that teased the [Saintsworn](Oath%253A_Saintsworn.md) [Oath](Oaths.md).[\[1\]](#cite-note-1)
+-   The runes on the blade once deciphered say "I TESSA ONE PIECE OF A FIVE POINTED STAR GIVE MY FIERCEST STORMS TO THIS BLADE FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL".
 
 ## References
 
