@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 198782
+revid: 198944
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3073,7 +3073,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 -   Windwaker \[Common Talent, Galebreathe\] - Call upon a gust of wind to propel your boat even faster.
     -   The ability can be used as long as the player is standing on a boat, even if not in control.
     -   Сannot be used in combat.
-    -   Prerequisites: 20 Galebreathe, [Stratos](Stratos.md)' quest.
+    -   Prerequisites: 15 Galebreathe, [Stratos](Stratos.md)' quest.
 
 ### Scoundrel
 

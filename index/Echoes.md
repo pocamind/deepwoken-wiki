@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 198480
+revid: 198945
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -166,7 +166,7 @@ Most alloyed weapons have a 75 weapon requirement. |
 | 
 
  | 10 | Complete [Layer 2](Second_Layer.md) floor 1 without a [Light Hook](Light_Hook.md).  
-You will need to leave through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)'s escape portal for this to count. |
+You will need to leave through [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md)'s or the [Scion of Ethiron](Scion_of_Ethiron.md)'s escape portals for this to count. |
 | 
 
  | 15 | [Power](Power.md) up.  
