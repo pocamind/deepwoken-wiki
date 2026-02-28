@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 196693
+revid: 199040
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -33,7 +33,7 @@ categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons wit
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Voidwalker Bounties, Primadon, Fishing, Starswept Valley, Merchant Ships, Maestro Evengarde Rest, Saramaed Hollow |
+| obtainment | Chests from:, Voidwalker Chests, Primadon, Fishing, Starswept Valley, Merchant Ships, Maestro Evengarde Rest, Saramaed Hollow |
 | description | Found at the hip of horseback officers during the Canticlysm. For many of the post-tidal years it was but a curio for petty nobles to fawn over. Despite its moniker, it was made fashionable by young naval officers of the Authority who saw value in the trinkets they'd inherited, dragging the blade out from obscurity. |
 
 ## Description

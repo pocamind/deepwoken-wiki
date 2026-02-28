@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 198225
+revid: 199027
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Children of Navae]
@@ -16,13 +16,13 @@ Remnants of the stars themselves rain down upon this rocky spire.
 
   
 
-**Meteor Isle** is a location in _Deepwoken_. It is an island that can be found in the [Aratel Sea](The_Aratel_Sea.md). It can be easily found by going to Fort Merit; where the Etrean Rescuer is.
+**Meteor Isle** is a location in _Deepwoken_. It is an island that can be found in the [Aratel Sea](The_Aratel_Sea.md). It can be easily found by going to Fort Merit, where the Etrean Rescuer is.
 
 ## Points of Interest
 
 -   [Ata](Ata.md) - Mantra Spark Vendor.
 -   [Beiruul](Beiruul.md) - Quest Giver.
--   [Cestis](Cestis.md) - Tacet Obtainment.
+-   [Cestis](Cestis.md) - [Tacet](Murmur%253A_Tacet.md) Obtainment.
 -   [Eres](Eres.md) - Etrea Lore.
 -   [Exter](Exter.md) - Random Gremor dude idk.
 -   [Mercille](Mercille.md) - Starswept Sack Rewards.
@@ -32,7 +32,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 -   Blacksmith.
 -   Well.
 -   Cauldron.
--   [Saffron](Saffron.md) - Oathless quest requirement.
+-   [Saffron](Saffron.md) - [Oathless](Oath%253A_Oathless.md) quest requirement.
 
 ## Events
 
@@ -42,8 +42,8 @@ Remnants of the stars themselves rain down upon this rocky spire.
 ## Trivia
 
 -   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md#the-sun-gleaming) by Naktigonis.
--   The combat music for this area is Thrill of the Hunt by Naktigonis.
--   This island was previously cut from the game before initial release, but was since added back in the Verse 2 update.
+-   The combat music for this area is [Thrill of the Hunt](https://www.youtube.com/watch?v=jEufEiXyuxU&list=RDjEufEiXyuxU&start_radio=1) by Naktigonis.
+-   This island was previously cut from the game before initial release but was since added back in the Verse 2 update.
     -   It is well known for featuring prominently in the first ever [Deepwoken Direct](https://www.youtube.com/watch?v=dGBOkpheY70).
         -   This is referenced by Exter, who notes how familiar the area where the direct took place is.
 -   During early testing, the isle was Territory of [Etrea](Etrea.md).

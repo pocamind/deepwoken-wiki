@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Chill
-revid: 198174
+revid: 199022
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Chill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -26,4 +26,4 @@ Upon landing a critical attack, Kyrsan Chill applies slowing effect. This slow s
 
 ### Notes
 
--   This enchant **only works** if you've encountered the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>). You don't have to fight the boss.
+-   This enchant **only works** if you've beaten the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).

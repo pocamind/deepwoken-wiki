@@ -1,6 +1,6 @@
 ---
 title: "Fool's Tankard"
-revid: 196493
+revid: 199024
 source: https://deepwoken.fandom.com/wiki/Fool's_Tankard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -38,7 +38,7 @@ Essentially just an empty tankard, the **Fool's Tankard** is a blunt Dagger Weap
 
 ## Critical
 
-Wind up your tankard and strike your target, applying [Daze](Status_Effects.md#dazed) and dealing very high posture damage.
+Wind up your tankard and strike your target, applying [Daze](Status_Effects.md#dazed) and dealing 22 posture damage if blocked.
 
 This attack has a scaled damage multiplier of 1.25x.
 

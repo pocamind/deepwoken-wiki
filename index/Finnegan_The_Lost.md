@@ -1,6 +1,6 @@
 ---
 title: Finnegan The Lost
-revid: 196488
+revid: 199035
 source: https://deepwoken.fandom.com/wiki/Finnegan_The_Lost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, The Depths, Random Encounters, Deepdelvers]
@@ -89,7 +89,7 @@ Finnegan retains his ability to speak and usually says phrases when he spawns su
 -   "Just a bit further, Finn. Just a bit further."
 -   "I´ll find it. I´ll find it. I´ll find it."
 -   "JUST.. LEAVE ME ALONE!"
--   "NGAHHH! YOU WON'T TAKE HER!
+-   "NGAHHH! YOU WON'T TAKE HER!"
 -   "GET OUT OF MY HEAD.."
 
 ## Finisher

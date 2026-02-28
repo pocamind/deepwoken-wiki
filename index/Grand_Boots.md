@@ -1,6 +1,6 @@
 ---
 title: Grand Boots
-revid: 190419
+revid: 199034
 source: https://deepwoken.fandom.com/wiki/Grand_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -22,13 +22,13 @@ categories: [Equipment, Legs, Boots]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Erisia, First Layer, Fishing, Deep Widow |
+| obtainment | Chests from:, Duke Erisia, First Layer, Fishing, Deep Widow, Saramaed Hollow |
 | description | ... |
 
 ## Description
 
-The Grand Boots are [Equipment](Equipment.md) items under the "Legs" category, and is a part of the Grand Set
+The Grand Boots are [Equipment](Equipment.md) items under the "Legs" category, and is a part of the Grand Set.
 
 ## Trivia
 
--   Worn by [The Meat Lord](The_Meat_Lord.md) along with the rest of the Grand set.
+-   Worn by [The Meat Lord](The_Meat_Lord.md), along with the rest of the Grand set.

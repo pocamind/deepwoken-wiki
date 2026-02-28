@@ -1,6 +1,6 @@
 ---
 title: Beatra
-revid: 198535
+revid: 199030
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pathfinder Exclusive, Attunement Trainers, NPCs]
@@ -85,5 +85,4 @@ In order to obtain [Shadowcast](Shadowcast.md), you must find [Nostor, Master of
 ## Trivia
 
 -   If you have obtained the [Silentheart](Oaths.md) Oath, she will refuse to fight, meaning you have to go to the Depths to kill [Nostor](Nostor,_Master_of_Shadow.md) in order to continue your Silentheart progression.
--   She mentions that she can see the darkness in your heart, but that it wont do anything until you decide to draw it out.
 -   Her eyes are black to represent her attunement, Shadowcast. This is a visual quirk present in most of the other attunement trainers, but not in the other Shadowcast Trainer, [Nostor](Nostor,_Master_of_Shadow.md), due to them being a Ganymede.

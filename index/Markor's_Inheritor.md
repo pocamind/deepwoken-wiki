@@ -1,6 +1,6 @@
 ---
 title: "Markor's Inheritor"
-revid: 198483
+revid: 199039
 source: https://deepwoken.fandom.com/wiki/Markor's_Inheritor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Weapons of The Central Authority, Alloyed Weapons, Heavy Weapons]
@@ -34,7 +34,7 @@ categories: [Authority Faction Item, Weapons, Criticals with M1 tag, Greatswords
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | The Depths, Ministry Agent, Starswept Valley, Bounty (Chests), Lodestar, Deep Widow, Merchant Ships, Lost Diver (direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive)Alloyed:, Alloying a Markor's Inheritor, Dread Serpent, Lodestar |
+| obtainment | The Depths, Ministry Agent, Starswept Valley, Voidwalker Bounties, Lodestar, Deep Widow, Merchant Ships, Lost Diver (Direct drop), Chime of Conflict, Fort Merit Armory for 70 (Authority Ensign exclusive), Saramaed HollowAlloyed:, Alloying a Markor's Inheritor, Dread Serpent, Lodestar |
 | description | The Blade Scholars of Markor, said to catalog the world itself, travel from land to land collecting information by force of their blades. Mastering the styles of combat from various stretches of the sea, they practice their art through the blade itself. |
 
 ## Description

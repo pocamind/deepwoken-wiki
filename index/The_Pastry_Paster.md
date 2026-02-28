@@ -1,6 +1,6 @@
 ---
 title: The Pastry Paster
-revid: 196754
+revid: 199023
 source: https://deepwoken.fandom.com/wiki/The_Pastry_Paster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Clubs, Medium Weapons, "Core-Attribute based weapons"]
@@ -40,7 +40,7 @@ The Pastry Paster can be upgraded with the [Chef's Toque](<Chef's_Toque.md>) equ
 
 ## Critical
 
-Wind up your rolling pin and strike your target, applying [Daze](Status_Effects.md#dazed) and dealing very high posture damage.
+Wind up your rolling pin and strike your target, applying [Daze](Status_Effects.md#dazed) and dealing 22 posture damage if blocked.
 
 This attack has a scaled damage multiplier of 1.25x.
 

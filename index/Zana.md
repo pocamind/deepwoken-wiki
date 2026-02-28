@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 196474
+revid: 199026
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -176,7 +176,7 @@ Zana will challenge you in 3 different locations; 2 in the Etrean Luminant and 1
 
 #### Location 1
 
-The Navaen Nomad Encampment in [Etrean Wilds](Etrean_Wilds.md) on [Etris](Etris.md). They spawn to the right of facing the Encampment. The Nomads will also immediately attack Zana when they spawn, get rid of all the Nomads or find a server where they are killed in order to actually fight them.
+Behind the Navaen Nomad Encampment in [Etrean Wilds](Etrean_Wilds.md) on [Etris](Etris.md). They spawn to the right of facing the Encampment.
 
 #### Location 2
 
