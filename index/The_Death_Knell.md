@@ -1,6 +1,6 @@
 ---
 title: The Death Knell
-revid: 198430
+revid: 199049
 source: https://deepwoken.fandom.com/wiki/The_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Fists, Legendary Weapons, "Core-Attribute based weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]

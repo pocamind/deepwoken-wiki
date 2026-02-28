@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 197727
+revid: 199051
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
