@@ -1,6 +1,6 @@
 ---
 title: Trinkets
-revid: 198963
+revid: 198976
 source: https://deepwoken.fandom.com/wiki/Trinkets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Currency, Mechanics]
@@ -21,15 +21,15 @@ notices:
 
 ## Overview
 
-Trinkets are a currency added as a replacement for [Treasures](Treasures.md), just like their predecessor they can be easily obtained at any level throught the game.
+Trinkets are a currency added as a replacement for [Treasures](Treasures.md). Just like their predecessor, they can be easily obtained at any level throughout the game.
 
-The Trinkets for [events](Random_Encounters.md) are automatically split between the participants of the event.
+The Trinkets you gain from [events](Random_Encounters.md) are automatically split between the participants of the event.
 
 On death, all trinkets are stolen by your killer.
 
 ## Functions
 
-Speaking with an [Antiquarian](Antiquarian.md), converts all your Trinkets to [Notes](Notes.md) 1:1. Sales multiplier passives are applied on exchange, which makes them more effective than [Treasures](Treasures.md).
+Upon speaking to an [Antiquarian](Antiquarian.md), it will convert all your Trinkets to [Notes](Notes.md) 1:1 automatically. Sales multiplier passives are applied on exchange, which makes them more effective than [Treasures](Treasures.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Withered Death Knell
-revid: 198936
+revid: 199016
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons]
@@ -13,7 +13,7 @@ categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weap
 | type | Fist |
 | damage type | Blunt |
 | requirements | 70 LHT, 40 BLD |
-| damage | 15 + 2.25 BLD[1] |
+| damage | 15 |
 | scaling | LHT: 5, BLD: 5 |
 | posture damage | 5.5 |
 | range | 6.5 Sweep |
@@ -52,8 +52,4 @@ For the final critical, the user raises into the air with a [green telegraph](Co
 
 All criticals have a cooldown of **5 seconds**.
 
-All of these critical drain the opponent's blood and apply [Blood Poison](Status_Effects.md#blood-poisoning) on hit.
-
-## Navigation
-
-1.  [↑](#cite-ref-1) While not shown in the tooltip in-game, each attack deals Bleed damage.
+All of these critical drain the target's blood while restoring the user's, and applies [Blood Poison](Status_Effects.md#blood-poisoning) on hit.

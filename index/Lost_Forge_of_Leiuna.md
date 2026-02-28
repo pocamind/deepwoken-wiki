@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 198907
+revid: 199015
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -72,7 +72,8 @@ Use **CTRL + F** to search for a specific item.
 1x [Frost Essence](Frost_Essence.md) |
 | [Winter Rifle](Winter_Rifle.md) | 1x [Summer Rifle](Summer_Rifle.md)  
 1x [Frost Essence](Frost_Essence.md) |
-| ??? | 5x [Frigid Prism](Frigid_Prism.md)  
+| [Vaporfrost Earrings](Vaporfrost_Earrings.md) | 1x Dewdrop Earrings  
+5x [Frigid Prism](Frigid_Prism.md)  
 1x [Frost Essence](Frost_Essence.md) |
 | 999x [Frost Bullet](Bullet_Casings.md#frost) | 1x [Bullet](Bullets.md)  
 1x [Frost Essence](Frost_Essence.md) |
@@ -111,6 +112,9 @@ Use **CTRL + F** to search for a specific item.
 | Ossified Blacksteel Pauldrons | 1x [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)  
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
 1x ??? |
+| Ossified Blacksteel Helm | 1x [Blacksteel Helm](Blacksteel_Helm.md)  
+1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
+1x [Shiva's Codex](<Shiva's_Codex.md>) |
 | [Revitalizing Pendant](Revitalizing_Pendant.md) | 1x [Wheel Pendant](Wheel_Pendant.md)  
 5x [Solar](Solar.md) [Enchant Stone](Enchant_Stone.md)  
 1x [Parasol Membrane](Parasol_Membrane.md) |

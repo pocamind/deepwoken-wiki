@@ -1,6 +1,6 @@
 ---
 title: "Cap'n Orlandeau"
-revid: 195395
+revid: 199001
 source: https://deepwoken.fandom.com/wiki/Cap'n_Orlandeau
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, "NPCs located in The Scoundrel's Bounty", Members of the Rotten Lot]
@@ -27,7 +27,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Captain Orlandeau** (more stylized as **Cap'n Orlandeau**) is a Panther [Felinor](Felinor.md) and the captain of [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>). He initially first appears in the [tutorial](Tutorial.md) for the game, which can be repeated by talking to him (in the form of a fragment from your own memory) in the [Fragments of Self](Fragments_of_Self.md) while being a [Castaway](Castaway.md).
+Captain Orlandeau (more stylized as Cap'n Orlandeau) is a [Felinor](Felinor.md) NPC. He is the captain of [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>).
+
+He initially first appears in the [tutorial](Tutorial.md) for the game, which can be repeated by talking to him (in the form of a fragment from your own memory) in the [Fragments of Self](Fragments_of_Self.md) while being a [Castaway](Castaway.md).
 
 After the events of the tutorial, he navigated The Depths, finding his way to [Castle Light](Castle_Light.md), leaving him as the sole survivor among the crew of the Scoundrel's Bounty. After having an argument with [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md), she damned him to the [City of New Kyrsa](Second_Layer/New_Kyrsa.md) in the [Second Layer](Second_Layer.md). Believing this may be his final plunder, he explores the sleeping city in search of wealth, fame, and power.
 

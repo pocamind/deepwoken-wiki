@@ -1,9 +1,9 @@
 ---
 title: Khan (NPC)
-revid: 191794
+revid: 199000
 source: https://deepwoken.fandom.com/wiki/Khan_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
 ---
 
 # Khan (NPC)
@@ -23,7 +23,7 @@ _This page is about the NPC part of the [Lost Books](Quests.md) quest. For the A
 
 ## Description
 
-Khan is an [Etrean](Etrean.md) NPC. He is apart of the "Lost Books" quest given by [Kelsius](Kelsius.md).
+Khan is an [Etrean](Etrean.md) NPC. They are a mysterious individual who borrowed books from [Kelsius](Kelsius.md).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: Rotten Lot
-revid: 198796
+revid: 198967
 source: https://deepwoken.fandom.com/wiki/Rotten_Lot
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Pages requiring a cleanup]
@@ -38,7 +38,6 @@ Some other crew members include:
 -   Their boat is where the game’s tutorial takes place.
     -   This means that if you are a [Castaway](Castaway.md), you were on the boat as part of the crew, and the reason you’re a Castaway is due to the Authority’s attack, being the sole survivor.
 -   Despite being hinted at that she is short, Serendi is physically the same height as the rest of the crew.
--   Captain Orlandeau is supposedly quite tall, as said in Serendi’s dialogue.[\[5\]](#cite-note-5)
 -   A ‘Halfmaster’ is not a real role on a ship. It is likely that Mr. Quarters’ role is equivalent to a quartermaster, given his name.
 
 ## References
@@ -47,4 +46,3 @@ Some other crew members include:
 2.  [↑](#cite-ref-2) Said in the caption in The Scoundrel’s Bounty location banner; [The Scoundrel's Bounty](<The_Scoundrel's_Bounty.md>)
 3.  [↑](#cite-ref-3) Said in Kelsius’ dialogue if his quest has been completed and the player is a Castaway; [Kelsius](Kelsius.md)
 4.  [↑](#cite-ref-4) [Flabbernaster Filingree, the First Mate](Flabbernaster_Filingree,_the_First_Mate.md)
-5.  [↑](#cite-ref-5) [Serendi](Serendi.md)

@@ -1,6 +1,6 @@
 ---
 title: The Five Heroes
-revid: 190824
+revid: 198970
 source: https://deepwoken.fandom.com/wiki/The_Five_Heroes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, The Five Heroes, Dissolved organizations]
@@ -14,6 +14,10 @@ notices:
 |---|---|
 | territory | Saintsworn Obelisks |
 | goals | Saving Lumen., Sealing their souls in obelisks to immortalize themselves. |
+
+“ FIVE WE PLEDGE OUR SOUL LET WIELDER BLADE HEED OUR CALL BEAR THIS TORCH BEYOND OUR FALL ”
+
+― Runes inscribed upon Hero Blades
 
 ## Description
 

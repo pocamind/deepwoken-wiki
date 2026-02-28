@@ -1,6 +1,6 @@
 ---
 title: Motifs
-revid: 198864
+revid: 199011
 source: https://deepwoken.fandom.com/wiki/Motifs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -18,7 +18,7 @@ Having a Motif on a weapon will make your weapon will go translucent on critical
 
 To obtain a Motif, use a [Smith's Alloy](<Smith's_Alloy.md>) on a compatible weapon and choose the _Extract Motif_ option. Doing so will **destroy your weapon**, replacing it with a [Formless Shard](Formless_Shard.md) that will grant you the weapon's Motif as a item.
 
-Use the Motif item from your inventory to equiop it ojto your weapon. This will **replace your critical attack** with the critical attack of the weapon your Motif came from. For example, if you have a Crescent Cleaver Motif on your [Zweihander](Zweihander.md), it will have [Crescent Cleaver](Crescent_Cleaver.md)'s critical instead of the base Greatsword one. There are limitations and not every weapon can equip Motifs. See below for more information.
+Use the Motif item from your inventory to equip it onto your weapon. This will **replace your critical attack** with the critical attack of the weapon your Motif came from. For example, if you have a Crescent Cleaver Motif on your [Zweihander](Zweihander.md), it will have [Crescent Cleaver](Crescent_Cleaver.md)'s critical instead of the base Greatsword one. There are limitations and not every weapon can equip Motifs. See below for more information.
 
 Motifs can be unequipped at any time by right clicking your equipped weapon; the Motif will return to your inventory on unequip.
 

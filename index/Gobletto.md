@@ -1,6 +1,6 @@
 ---
 title: Gobletto
-revid: 190966
+revid: 198999
 source: https://deepwoken.fandom.com/wiki/Gobletto
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
@@ -25,7 +25,7 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 
 ## Description
 
-A consumable mushroom that that is white and has a tube-like stalk. It can commonly be found at [Etris](Etris.md),[Vigils](Isle_of_Vigils.md), [Songseeker Wilds](Songseeker_Wilds.md), [Erisia](Erisia.md), and [Greathive Aratel](Greathive_Aratel.md), in groups of ~3.
+A consumable mushroom that that is white and has a goblet-shaped stalk, hence its name. It can commonly be found at [Etris](Etris.md),[Vigils](Isle_of_Vigils.md), [Songseeker Wilds](Songseeker_Wilds.md), [Erisia](Erisia.md), and [Greathive Aratel](Greathive_Aratel.md), in groups of ~3.
 
 It is recommended not to eat Goblettos, because they cause the consumer to vomit and lose almost all of their thirst and hunger. Given them being likened to an old boot, they likely do not taste very good either.
 

@@ -1,6 +1,6 @@
 ---
 title: Sentinel
-revid: 191992
+revid: 199002
 source: https://deepwoken.fandom.com/wiki/Sentinel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Individuals with unspecified pronouns]
@@ -19,7 +19,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Sentinel is an [Etrean](Etrean.md) NPC. They appear to be guarding the house where [Khan](<Khan_(NPC).md>) is in. He is of the "Lost Books" quest given by [Kelsius](Kelsius.md).
+Sentinel is an [Etrean](Etrean.md) NPC. They appear to be guarding the house where [Khan](<Khan_(NPC).md>) is in.
 
 ## Location
 

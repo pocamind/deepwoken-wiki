@@ -1,6 +1,6 @@
 ---
 title: Deepfire Ring
-revid: 198254
+revid: 198982
 source: https://deepwoken.fandom.com/wiki/Deepfire_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -19,8 +19,8 @@ categories: [Equipment, Rings]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Chests from:, Ferryman, Aelita (Extremely Rare), Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Duke Ishamon Erisia, Second Layer, Scion of Ethiron, The Doom of Caeranthil, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Interluminary Parasol, Ancient Rotlands |
-| description | Ring of Korlifiend. Burn status burns faster. |
+| obtainment | Chests from:, Ferryman, Aelita (Extremely Rare), Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Duke Ishamon Erisia, Second Layer, Scion of Ethiron, The Doom of Caeranthil, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Interluminary Parasol, Ancient Rotlands, Saramaed Hollow |
+| description | Ring of Korlifiend. Burn status burns faster, and lava eruptions have a reduced delay. |
 
 ## Description
 
