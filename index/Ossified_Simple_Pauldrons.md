@@ -1,6 +1,6 @@
 ---
 title: Ossified Simple Pauldrons
-revid: 198625
+revid: 199103
 source: https://deepwoken.fandom.com/wiki/Ossified_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive]
 | innate talent | Simple Buff |
 | bankable | No |
 | droppable | No |
-| enchantable | ??? |
+| enchantable | No |
 | pass down | No |
 | obtainment | Crafting 1 Simple Pauldrons + 1 Ethereal Osseous Plate +1 Shiva's Codex in the Lost Forge |
 | description | Either they're of low complexity or someone's in need of a punch. |
@@ -38,4 +38,6 @@ This item is similar to [Super Simple Pauldrons](Super_Simple_Pauldrons.md) from
 
 ## Talent: Simple Buff
 
-The [Simple Buff](Talents.md#simple-buff) Talent grants a 15% damage buff to M1s.
+The [Simple Buff](Talents.md#simple-buff) Talent grants a 7.5%/15% damage buff to M1s.
+
+Currently bugged and only gives a 7.5% damage buff to M1s.

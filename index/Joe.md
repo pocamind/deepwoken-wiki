@@ -1,11 +1,9 @@
 ---
 title: Joe
-revid: 191489
+revid: 199100
 source: https://deepwoken.fandom.com/wiki/Joe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Individuals with unspecified pronouns]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Canor NPCs, Vow of Iron Exclusive, NPCs, Individuals with unspecified pronouns]
 ---
 
 # Joe
@@ -96,7 +94,7 @@ Joe is located inside of the library at the [Temple of the Blade](Temple_of_the_
   <td>Don't try to fool me. You don't have 2 Dying Embers yet.</td>
 </tr>
 <tr>
-  <td>[End Dialogue], Curiosity Talent Hand obtained</td>
+  <td>[End Dialogue], quest complete</td>
   <td>[End Dialogue]</td>
 </tr>
 </tbody>

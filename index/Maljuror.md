@@ -1,6 +1,6 @@
 ---
 title: Maljuror
-revid: 195422
+revid: 199067
 source: https://deepwoken.fandom.com/wiki/Maljuror
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Random Encounters, The Starkindred Church]
@@ -86,12 +86,10 @@ Killing them rewards you with a [chest](Chests_&_Sacks.md) with regular [Songsee
 -   **PRAY TELL, IS MY SENTENCE FINALLY OVER...?**
 -   **GRANT ME A DEATH WORTHY OF THE STARS...**
 -   **OH, PLEASE... GRANT ME HONOUR...**
--   TBA
 
 ### Gripping Dialogue
 
 -   **THANK YOU...**
--   TBA
 
 ## Trivia
 

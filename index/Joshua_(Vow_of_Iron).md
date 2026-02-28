@@ -1,11 +1,9 @@
 ---
 title: Joshua (Vow of Iron)
-revid: 191491
+revid: 199097
 source: https://deepwoken.fandom.com/wiki/Joshua_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs]
 ---
 
 # Joshua (Vow of Iron)
@@ -77,8 +75,7 @@ Joshua can be found sitting in front of a campfire, at a neighboring island near
 </tr>
 <tr>
   <td>I may not be up to date with the news, but... I've not seen it first hand - it started after I left Etrea, - but I hear an expeditionary force from the <a href="Glossary.md#the-central-authority">Central Authority</a> sailed into this <a href="Glossary.md#the-luminants">Luminant</a>, and laid siege to Fortress Cascabel, Etrea's best-fortified prison. After a brutal siege, they claimed the fortress as a forward operating base. <i>*He shakes his head.*</i> Such grotesque acts of violence... I try not to think about them. Though, given how my homeland struggles so... I can't help but feel a little guilty for leaving it to travel the world.</td>
-  <td>[See<br>
-  <font>Could you tell me more about this 'rebellion'?</font>]</td>
+  <td>[See <font>Could you tell me more about this 'rebellion'?</font>]</td>
 </tr>
 <tr>
   <td colspan="2">I see... Well, I best get going. Thanks for the hospitality.</td>

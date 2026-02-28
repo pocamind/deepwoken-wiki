@@ -1,6 +1,6 @@
 ---
 title: Dark Owl Cloak
-revid: 176394
+revid: 199093
 source: https://deepwoken.fandom.com/wiki/Dark_Owl_Cloak
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Cloaks]
@@ -35,3 +35,4 @@ The [Disbelief](Talents.md#disbelief) Talent halves the duration of any [Charm](
 ## Trivia
 
 -   You are unable to dye this equipment.
+-   Looks like it got vaulted.

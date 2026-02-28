@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 196456
+revid: 199069
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -52,12 +52,13 @@ Certain Monsters have unique visual effects when attuned.
 
 -   Thunderstruck [Gigamed](Gigamed.md) (Lightning is blue as opposed to yellow.)
     -   Thunderstruck Gigameds have almost full immunity to [Thundercall](Thundercall.md) Mantras
-
-[Corrupted](Monsters.md#scyphozia) and Attuned Monsters are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
+-   [Corrupted](Monsters.md#scyphozia) and Attuned Monsters are fairly common (and in later waves, almost guaranteed) in [The Diluvian Mechanism](The_Diluvian_Mechanism.md).
 
 ## Humanoid Monsters
 
 **Exclusive to the [Etrean Luminant](Luminants.md) & [Scyphozia](First_Layer.md)**
+
+**Exclusive to [Eastern Luminant](Luminants.md)**
 
 **Exclusive to [Trial of One](Trial_of_One.md) and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
 
@@ -65,9 +66,11 @@ Certain Monsters have unique visual effects when attuned.
 
 **Exclusive to [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md), [Scyphozia](First_Layer.md), and [Diluvian Mechanism](The_Diluvian_Mechanism.md)**
 
-**Exclusive to [Eastern Luminant](Luminants.md)**
+  
 
-**Exclusive to [The Voidsea](Voidsea.md)**
+**Exclusive to [Etrean Luminant](Luminants.md), [Eastern Luminant](Luminants.md), and [Scyphozia](First_Layer.md)**
+
+**Exclusive to [Voidsea](Voidsea.md)**
 
 **Exclusive to [The Eternal Gale](Second_Layer.md)**
 

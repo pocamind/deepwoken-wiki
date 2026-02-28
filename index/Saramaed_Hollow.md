@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 198084
+revid: 199079
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -95,7 +95,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: Every <a href="Ores.md">Ore</a> except Rock and Iron, <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, Non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a> (only after 1.2km), <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a></li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, Non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a> (only after 1.2km), <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Void_Spire.md">Ouroboral Husk</a> (Could someone add a link to the wiki page for Ouroboral Husk)</li>
   </ul></td>
 </tr>
 <tr>

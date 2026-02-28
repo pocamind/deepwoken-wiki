@@ -1,6 +1,6 @@
 ---
 title: The Starkindred Church
-revid: 190605
+revid: 199075
 source: https://deepwoken.fandom.com/wiki/The_Starkindred_Church
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Starkindred Church, Religious groups]

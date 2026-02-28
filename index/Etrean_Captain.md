@@ -1,6 +1,6 @@
 ---
 title: Etrean Captain
-revid: 198140
+revid: 199072
 source: https://deepwoken.fandom.com/wiki/Etrean_Captain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Etrea Enemies]
@@ -12,7 +12,7 @@ categories: [Enemies, Etrea Enemies]
 |---|---|
 | health | 1200 |
 | drops | Gale Stone |
-| weapon | Vigil Longsword |
+| weapon | Alloyed Vigil Longsword |
 | moves | Assault, Critical, Gale Lunge, Wind Blade, Wind Blade, Astral Wind, Wind Passage, Flashdraw Strike |
 | affiliation | Etrea |
 

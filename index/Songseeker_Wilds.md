@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 198438
+revid: 199077
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -14,50 +14,75 @@ LocationL Songseeker Wilds LocationR
   
 
   
-**Songseeker Wilds** is a Location in _Deepwoken._ It is a group of islands that can be found in [the Aratel Sea](The_Aratel_Sea.md).
+**Songseeker Wilds** is a Location in _Deepwoken._ It is a group of islands that can be found in [The Aratel Sea](The_Aratel_Sea.md).
 
 ## Overview
 
 Songseeker Wilds is a set of islands located in [the Aratel Sea](The_Aratel_Sea.md). It is home to [Ancient Rotlands](Ancient_Rotlands.md), provides a passage to [Minityrsa](Minityrsa.md), and is south-east of [Summer Isle](Summer_Isle.md).
 
-It consists of 2 land masses, a smaller and larger one, separated by a stream that can be crossed by [boats](Ships_&_Sailing.md).
-
-## Contents
-
-### Small Island
-
--   A mineshaft containing several nodes of [Rock](Ores.md#rock), [Coal](Ores.md#coal), [Iron](Ores.md#iron) and [Gold](Ores.md#gold).
--   There are a lot of trees bearing fruits, ranging from [Redd](Redd.md), [Plumfruit](Plumfruit.md), [Ongo](Ongo.md), and [Pomar](Pomar.md).
--   A small campsite on top of a hill.
--   A small tower with a quest NPC named Ezra who tells you to clear out Songseekers at [Derelict Highchurch](Derelict_Highchurch.md).
--   A temple with a single songseeker inside.
-
-### Large Island
-
-Mineskipper Mineshaft Location
-
-Shrine of Order path
-
--   There are a lot of trees bearing [Fruit](Ingredients.md#fruits), ranging from Redd, Plumfruit, and Pomar.
--   A mineshaft that is sealed off by debris, using terrain destroying mantras like Strong Left can open it up, containing several nodes of Rock, Coal, Iron and Gold.
-    -   There are also [Mineskippers](Mudskipper.md#mineskipper) within the mineshaft.
-    -   Going up the mineshaft will also lead to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
-    -   Along with that, you will find some nodes of [Astruline](Ores.md#astruline).
--   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [Voidzone](Voidzones.md) that was once home to a Celestial.
--   There are two structures:
-    1.  A windmill, by climbing up the window there is a small room. (3 chest spawns and a bookshelf inside)
-    2.  A small hut. (2 chest spawns inside)
-
-#### Ravine Entrance
-
--   An entrance to a staircase that leads to the [Songseeker Temple](Songseeker_Temple.md), inside is [Amashi, Master of Flame](Amashi,_Master_of_Flame.md).
-    -   Success in killing all three of these enemies will reward a chest. See loot table below.
+It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 
 ## Points of Interest
 
 -   [Ancient Rotlands](Ancient_Rotlands.md)
 -   [Derelict Highchurch](Derelict_Highchurch.md)
 -   [Songkeeper Temple](Songseeker_Temple.md)
+
+## Contents
+
+### Small Island
+
+-   Many unknown structures resembling jellyfish like construction can be found on this island.
+-   A mineshaft containing several nodes of [Gold](Ores.md#gold), [Rock](Ores.md#rock), [Iron](Ores.md#iron), and [Coal](Ores.md#coal)
+-   Inside the mineshaft, the [Mime](Mime.md) plays a trick on the player by disguising [Mineskippers](Mudskipper.md#mineskipper) as [Barrels](Barrel.md).
+-   There are a lot of trees bearing fruits, ranging from [Redd](Redd.md), [Plumfruit](Plumfruit.md), [Ongo](Ongo.md), and [Pomar](Pomar.md).
+-   A small campsite on top of a hill with [Jeandae](Loot_Bag_Gacha.md#jeandae).
+-   Near the hill, one of the small structures with a quest NPC named [Ezra](Ezra.md), who ask you to clear out Songseekers at [Derelict Highchurch](Derelict_Highchurch.md).
+-   A ginormous structure with a single Songseeker inside.
+
+### Large Island
+
+#### Mineshaft
+
+Shrine of Order path
+
+-   There are a lot of trees bearing [Fruit](Ingredients.md#fruits), ranging from [Redds](Redd.md), [Plumfruits](Plumfruit.md), and [Pomars](Pomar.md).
+-   A larger mineshaft with [Mineskippers](Mudskipper.md#mineskipper) littering the cave.
+    -   Going up the mineshaft will also lead to the [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
+    -   Along with that, you will find some nodes of [Astruline](Ores.md#astruline) deeper within.
+-   Outside of the mineshaft, [Lucien](Lucien.md) asks the player to clear out the Mineskippers for the [Pocket Bombs](Talents.md#pocket-bombs) Talent and a Bravery Talent hand.
+-   A gateway that leads to the [Ancient Rotlands](Ancient_Rotlands.md), a [Voidzone](Voidzones.md) that was once home to a Celestial.
+-   There are two structures:
+    1.  A windmall with a [Guild Banner](Guild_Banners.md) in front of it. Inside of the windmill is a [Mantra Table](Mantra_Lectern.md) and some small chests.
+    2.  A small hut with some chests inside.
+
+#### Ravine Entrance
+
+-   Taking a right will lead to three Songseekers worshipping one of the unknown structures.
+-   Following the right side of the path from the staircase leads to the [Songseeker Temple](Songseeker_Temple.md). Inside is [Amashi](Amashi,_Master_of_Flame.md), the [Flamecharm](Flamecharm.md) trainer.
+-   Outside of the temple, a strange Capra named [Yamaketzal](Yamaketzal.md) who can grant
+-   Following the left side of the path leads to a [Guild Banner](Guild_Banners.md) across from a broken bridge thats connects to the [Derelict Highchurch](Derelict_Highchurch.md).
+
+## NPCs
+
+### Generic NPCs
+
+-   [Shipwright](Shipwright.md)
+
+### Unique NPCs
+
+-   [Amashi](Amashi,_Master_of_Flame.md)
+-   [Beatra](Beatra.md)
+-   [Shrine of Order](Deep_Shrines/Shrine_of_Order.md)
+-   [Ezra](Ezra.md)
+-   [Jeandae](Loot_Bag_Gacha.md#jeandae)
+-   [Lake](Lake.md)
+-   [Lucien](Lucien.md)
+-   [Marro](Marro.md)
+-   [Mime](Mime.md)
+-   [Samael](Samael.md)
+-   [Sky Statue](Sky_Statue.md)
+-   [Yamaketzal](Yamaketzal.md)
 
 ## Loot Table
 
@@ -103,9 +128,4 @@ Below is a list of potential items that can spawn in chests in Songseeker Wilds.
 ## Trivia
 
 -   The music for this area is [The Sun, Gleaming](Deepwoken_OST.md#the-sun-gleaming) by Naktigonis
--   The combat music for this area is [Thrill of the Hunt](https://www.youtube.com/watch?v=jEufEiXyuxU) by Naktigonis
--   Generally, Songseeker loot is better than [Erisia](Erisia.md) loot, but worse than [Aratel](Aratel_Island.md) loot. Roughly equivalent to [Minityrsa](Minityrsa.md)'s lootpool.
--   Songseeker Wilds appears to be a rainforest area, judging by the sounds of birds chirping, the large variety of fruit, and thick woods.
--   There are many gankers in Songseeker. Better to farm in [Minityrsa](Minityrsa.md) instead.
-    -   This is mainly because [Emel](Emel.md)'s quest requires you to kill someone here or because of the [Guild Banner](Guild_Banners.md).
--   The temple with the single songseeker emits a very subtle hum. (Needs to be looked into for possible lore correlation.)
+-   The combat music for this area is [Thrill Of The Hunt](Deepwoken_OST.md#thrill-of-the-hunt) by Naktigonis

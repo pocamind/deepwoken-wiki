@@ -1,9 +1,9 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 196158
+revid: 199090
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
+categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
 ---
 
 # Second Layer/New Kyrsa
@@ -17,8 +17,6 @@ LocationL New Kyrsa, The Sleeping City LocationR
 Far below the Gale, a city of gleaming lights was rekindled by the flames of religious fervour into a grand temple.
 
   
-
-File:Final.png
 
 New Kyrsa is a location added in _Deepwoken's Verse Two_ update. It is located in the **Second Floor** of the [Eternal Gale](../Second_Layer.md).
 

@@ -1,9 +1,9 @@
 ---
 title: Random Encounters
-revid: 198872
+revid: 199074
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [OutdatedPages, Stub pages without reason, StubPages, Pages with broken file links, Mechanics]
+categories: [OutdatedPages, Stub pages without reason, StubPages, Mechanics]
 notices:
   - This page may contain incorrect information. Please wait for an updated version to release.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
@@ -142,11 +142,9 @@ Groups of NPCs from different factions will spawn in Eastern Luminant and attack
 
 In the [Songseeker Wilds](Songseeker_Wilds.md), a Songseeker may spawn anywhere on the island. They can be seen meditating, but will aggro onto you if you enter their line of sight or you attack them. They will be using one of four elements, which will be [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md) or [Galebreathe](Songseeker_Galebreather.md). They cannot be assassinated. Defeating them will reward you with a good chunk of XP and a chest.
 
-File:Rotted Pathfinder.png
-
 #### Maljuror
 
-In the [Ancient Rotlands](Ancient_Rotlands.md), [an enemy](Maljuror.md) may spawn, that utilises the [Flamecharm](Flamecharm.md) [attunement](Attunements.md) and wields the [Kindred Edict](Kindred_Edict.md) weapon. [Maljuror](Maljuror.md) may spawn handcuffed, or unhandcuffed, but the drops remains the same. Killing him grants the player a [chest](Chests_&_Sacks.md) with [Songseeker Wilds](Songseeker_Wilds.md) loot and either a [spark](Mantra_Modifiers.md) or with a small chance his [signature weapon](Kindred_Edict.md).
+In the [Ancient Rotlands](Ancient_Rotlands.md), [Maljurors](Maljuror.md) may spawn. They utilize the [Flamecharm](Flamecharm.md) [Attunement](Attunements.md) and wield the [Kindred Edict](Kindred_Edict.md) weapon. [Maljuror](Maljuror.md) may spawn handcuffed, or unhandcuffed, but the drops remains the same. Killing them grants the player a [chest](Chests_&_Sacks.md) with [Songseeker Wilds](Songseeker_Wilds.md) loot and either a [Spark](Mantra_Modifiers.md#sparks) or with a small chance the [Kindred Edict](Kindred_Edict.md).
 
 -   See [Maljuror](Maljuror.md)
 

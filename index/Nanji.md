@@ -1,9 +1,9 @@
 ---
 title: Nanji
-revid: 193362
+revid: 199054
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Pathfinder Exclusive, Pages with broken file links, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
+categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
 ---
 
 # Nanji
@@ -28,10 +28,6 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 Nanji is an [Etrean](Etrean.md) NPC. Upon speaking to them, they task the player with finding the whereabouts of [Ilji](Ilji.md), their brother through the "Wandering Blade" [Quest](Quests.md).
 
 ## Quest details
-
-File:Image 2022-04-18 224253146.png
-
-An Etrean interacting with the sword
 
 Completing their sidequest will reward you with EXP, positive [Etrea](Etrea.md) reputation, Compassion, and the [Nanji's Training](Talents.md#nanjis-training) Talent, granting +1 Posture.
 
@@ -65,7 +61,7 @@ Nanji is located at the bridge heading towards the [Barber](Barber.md) and [Neri
   <td colspan="6">We can play catch with a Gobletto?</td>
 </tr>
 <tr>
-  <td colspan="6">I haven't seem my little brother for days. I've asked everyone, looked everywhere. I can't find a single trace of him.</td>
+  <td colspan="6">I haven't seen my little brother for days. I've asked everyone, looked everywhere. I can't find a single trace of him.</td>
   <td colspan="6">Uh... Yeah, no.</td>
 </tr>
 <tr>

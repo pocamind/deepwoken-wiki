@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 196203
+revid: 199092
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -10,7 +10,7 @@ categories: [Monsters, The Depths]
 
 | Enforcer | |
 |---|---|
-| health | 3,700 (Sword), 4,000 (Axe), 4,100 (Hammer), 10,250 (Corrupted), 8,000 (Servant of Enmity), 20,000 (Corrupted Servants of Enmity)800 (Trial of One) |
+| health | 3,700 (Sword), 4,000 (Axe), 4,100 (Hammer), 10,250 (Corrupted), 8,000 (Servant of Enmity), 20,000 (Servant of Enmity Corrupted), 800 (Trial of One) |
 | attacks | High Swing, Low Swing, Kick, Whirlwind, Space Pull, Feint |
 | drops | Enforcer's Axe, Enforcer's Blade, Enforcer's Hammer, Enforcer Plate, Enforcer Boots, Enforcer Eye, Mantra Modifiers |
 | locations | The Depths Trial, Hell Mode, The Diluvian Mechanism, Trial of One, Summoned by the Heart of Enmity |

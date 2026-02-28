@@ -1,6 +1,6 @@
 ---
 title: Ancient Rotlands
-revid: 193888
+revid: 199076
 source: https://deepwoken.fandom.com/wiki/Ancient_Rotlands
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, Locations, Voidzones]
@@ -42,9 +42,7 @@ The Ancient Rotlands is a **[Voidzone](Voidzones.md)**, meaning you will be sent
 
 ## Trivia
 
-One of the "Brains" found pulsating throughout the Rotlands.
-
--   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to lose [sanity](Insanity.md) when within their radius. Running out of sanity while near one would cause the player's head to explode. They were removed due to its nonsensical placement and function lorewise[\[1\]](#cite-note-1).
+-   Previously, there were two large, pulsating, fleshy masses dubbed "brains" by the community in the Rotlands that caused the player to rapidly gain [Insanity](Insanity.md) when within their radius. Running out of sanity while near one would cause the player's head to explode. They were removed due to its nonsensical placement and function lorewise[\[1\]](#cite-note-1).
 
 ## References
 
