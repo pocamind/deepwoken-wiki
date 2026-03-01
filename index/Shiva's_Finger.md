@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Finger"
-revid: 198764
+revid: 199179
 source: https://deepwoken.fandom.com/wiki/Shiva's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -13,14 +13,14 @@ categories: [Equipment, Rings]
 | type | Ring |
 | rarity | ? |
 | selling price | 25 |
-| requirements | ? |
+| requirements | 10 LVL |
 | weight | 0.1 |
 | bankable | No |
-| droppable | ? |
+| droppable | No |
 | enchantable | No |
 | pass down | ? |
 | obtainment | Battle Royale (25+ Players) |
-| description | Gain 3% damage for each player and 1% damage for each mob that has combat-tagged you, and at 5 stacks you may Vent to consume all stacks to reset your cooldowns, after which this effect enters cooldown. With each BR victory, this item grows in power capping out at 10 fingers. |
+| description | Gain 3% damage for each player and 1% damage for each mob that has combat-tagged you, and at 5 stacks you may Vent to consume all stacks to reset your cooldowns, after which this effect enters cooldown. With each BR victory, this item grows in power capping out at 10 fingers. Activates at 3 or more combat tags. |
 
 ## Description
 

@@ -1,6 +1,6 @@
 ---
 title: Demon Mask
-revid: 189781
+revid: 199213
 source: https://deepwoken.fandom.com/wiki/Demon_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Masks]
@@ -21,7 +21,7 @@ categories: [Equipment, Face, Masks]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | First Layer, Chaser, Maestro Evengarde Rest, Dread Serpent, Lodestar |
+| obtainment | First Layer, Chaser, Maestro Evengarde Rest, Dread Serpent, Lodestar, Sea Events |
 | description | ... |
 
 ## Description

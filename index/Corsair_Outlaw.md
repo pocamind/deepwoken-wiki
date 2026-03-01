@@ -1,6 +1,6 @@
 ---
 title: Corsair Outlaw
-revid: 196432
+revid: 199223
 source: https://deepwoken.fandom.com/wiki/Corsair_Outlaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Starter Outfits, Bandits]
@@ -17,7 +17,7 @@ categories: [Outfits, Starter Outfits, Bandits]
 | durability | 1200 |
 | resistances | +15% Physical Armor, +10% Elemental Armor |
 | talents | Lightweight |
-| obtainment | Direct Drop, BanditChests from:, Lower Erisia |
+| obtainment | Direct Drop, BanditChests from:, Lower Erisia, Sea Events |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

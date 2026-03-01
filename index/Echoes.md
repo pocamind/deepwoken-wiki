@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 198945
+revid: 199254
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -28,7 +28,7 @@ This content is not accessible outside of this gamemode.
 -   **Echo Upgrades** are account-wide, so purchasing an upgrade on one slot will affect the rest.
 -   **Echo Unlocks** are account-wide, so purchasing an unlock on one slot will often affect the rest. Unlocks that pertain to new slots (like Starter Weapons or Tools) will not impact pre-existing slots however.
 
-The maximum amount of **Echoes** that a character can get (excluding rebargaining with Yun'Shul) is 140. (441 with all Echoes Modifier)
+The maximum amount of **Echoes** that a character can get is 140 (or 427 with all Echo Modifiers).
 
 ### Ranks
 
@@ -49,7 +49,7 @@ Ranks by themselves do nothing, beside rank W, S and A that give a badge and, in
 | --- | --- | --- |
 | 
 
- | W | 140 (441 w/ all Echoes Modifiers except Glass Bones) |
+ | W | 140 (427 w/ all Echoes Modifiers except Glass Bones) |
 | 
 
  | S | 140 (Must do all Echoes tasks) |
@@ -492,4 +492,4 @@ Echo Talents or Items, once acquired for the first time, can be obtained in late
     -   While Vow of Thorns was "removed", it was really re-purposed to handle certain mechanics in Vow of Iron; meaning that if you had a slot with Vow of thorns before it was removed, that slot and any future instances of it will have the "IronVow" echo modifier instead, making them drown from every surface death
         -   This can be fixed by pressing the "enable all/disable all" button in the echo-modifier section of character-creation.
 -   Chain of Perfection was initially made to not gain stacks on mantra hits. But due to _massive_ community uproar the change was reverted but made multihits give you less stacks.
--   Visually, combining all Echo Modifiers grants 3.1x Echoes, but, dividing 441/3.1 will give you 137.8125. Instead, Dividing by 441/3.15 will give you 140, the maximum amount of Echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true.
+-   Visually, combining all Echo Modifiers grants 3.1x Echoes, but, dividing 427/3.1 will give you 137.8125. Instead, Dividing by 427/3.15 will give you 140, the maximum amount of Echoes. This is due to the game always rounding to the nearest tenth, even if the value is not true.

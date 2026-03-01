@@ -1,6 +1,6 @@
 ---
 title: Feathertop Helm
-revid: 189873
+revid: 199227
 source: https://deepwoken.fandom.com/wiki/Feathertop_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Equipment, Head, Helmets]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Duke Ishamon Erisia, First Layer, Maestro Evengarde Rest, Dread Serpent, Lodestar, Interluminary Parasol, War ModeFound from:, Artifact Turn-ins |
+| obtainment | Chests from:, Duke Ishamon Erisia, First Layer, Maestro Evengarde Rest, Dread Serpent, Lodestar, Interluminary Parasol, War Mode, Sea EventsFound from:, Artifact Turn-ins |
 | description | ... |
 
 ## Description

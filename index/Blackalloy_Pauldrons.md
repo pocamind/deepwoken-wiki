@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Pauldrons
-revid: 199165
+revid: 199234
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]

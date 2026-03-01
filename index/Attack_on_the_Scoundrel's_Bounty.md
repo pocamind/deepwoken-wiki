@@ -1,6 +1,6 @@
 ---
 title: "Attack on the Scoundrel's Bounty"
-revid: 199012
+revid: 199173
 source: https://deepwoken.fandom.com/wiki/Attack_on_the_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, Battles]
@@ -42,7 +42,7 @@ Eventually, the Authority vessel approached 'The Scoundrel's Bounty', announcing
 
 Among the Rotten Lot, only the Pathfinder survived, and they were taken in by residents of Etrea, returning to full health a week after the attack.[\[2\]](#cite-note-trenti-2)
 
-Meanwhile, Cap'n Orlandeau woke up in the [Depths](The_Depths.md) and located a [Diver stronghold](Castle_Light.md) shortly after. He encountered [Klaris](Klaris_Llfiend,_Mother_of_Lights.md), running into an argument with her as their ideals did not align. Ultimately, he was brought down to [New Kyrsa](Second_Layer/New_Kyrsa.md) as punishment.
+The crew's deaths saw them sent to [The Depths](The_Depths.md). Only Orlandeau was accounted for and he navigated to a [Diver stronghold](Castle_Light.md) shortly after. He was later sent to [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 
 ## References
 

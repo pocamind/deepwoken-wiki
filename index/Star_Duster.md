@@ -1,6 +1,6 @@
 ---
 title: Star Duster
-revid: 176579
+revid: 199225
 source: https://deepwoken.fandom.com/wiki/Star_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Dusters]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, The Depths (First Layer), Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Starswept Valley, Fishing, War Mode |
+| obtainment | Chests from:, First Layer, Primadon, Titan of the East, Elder Primadon, The Titan Warlord, Starswept Valley, Fishing, War Mode, Sea Events |
 | description | ... |
 
 ## Description

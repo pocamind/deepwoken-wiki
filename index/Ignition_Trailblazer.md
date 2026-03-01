@@ -1,6 +1,6 @@
 ---
 title: Ignition Trailblazer
-revid: 194677
+revid: 199215
 source: https://deepwoken.fandom.com/wiki/Ignition_Trailblazer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Expert Outfits, The Ignition Union]
@@ -20,7 +20,7 @@ categories: [Outfits, Expert Outfits, The Ignition Union]
 | durability | 1000 |
 | resistances | +25% Physical Armor, +25% Elemental Armor, +5% Blunt Armor, +5% Fire Armor |
 | talents | Perseverance, Strong Stern |
-| obtainment | Sold by Nyanna for, Sold in Traan Zakshun's regular shop for 200 Chests from:, Starswept Valley, Saramaed Hollow, Summer Isle, Rogue Construct, The Depths, Moon's Eyrie, PrimadonVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
+| obtainment | Sold by Nyanna for, Sold in Traan Zakshun's regular shop for 200 Chests from:, Starswept Valley, Saramaed Hollow, Summer Isle, Rogue Construct, The Depths, Moon's Eyrie, Primadon, Sea EventsVow of Iron:, Sold in Naan Zakshun's regular shop for 200 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

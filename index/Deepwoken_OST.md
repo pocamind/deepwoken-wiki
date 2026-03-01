@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 199025
+revid: 199224
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Deepwoken]
@@ -48,7 +48,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 14 | [The Sun, Gleaming](https://soundcloud.com/naktigonis/the-sun-gleaming) | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md), [The Lordsgrove](The_Lordsgrove.md), [The Monkey's Paw](<The_Monkey's_Paw.md>), [Meteor Isle](Meteor_Isle.md), and [Merits Reach](<Merit's_Reach.md>) (Combat) |  |
 | 15 | [Thrill Of The Hunt](https://soundcloud.com/naktigonis/thrill-of-the-hunt) | 2:08 | [Songseeker Wilds](Songseeker_Wilds.md), [The Lordsgrove](The_Lordsgrove.md), [The Monkey's Paw](<The_Monkey's_Paw.md>), [Meteor Isle](Meteor_Isle.md), and [Merits Reach](<Merit's_Reach.md>) (Combat) |  |
 | 16 | [Of Smoke And Steel](https://soundcloud.com/naktigonis/of-smoke-and-steel) | 2:16 | [Summer Isle](Summer_Isle.md) |  |
-| 17 | [One For All, All For Gun](https://soundcloud.com/naktigonis/one-for-all-all-for-gun) | 2:17 | [Summer Isle](Summer_Isle.md) and [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) (Combat) |  |
+| 17 | [One For All, All For Gun](https://soundcloud.com/naktigonis/one-for-all-all-for-gun) | 2:17 | [Summer Isle](Summer_Isle.md), [Saramaed Summit](Saramaed_Summit.md) (Combat) and [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) (Combat) |  |
 | 18 | [A Waltz Of Snow And Knights](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights) | 3:12 | [Minityrsa](Minityrsa.md) |  |
 | 19 | [Cry 'Havoc!'](https://soundcloud.com/naktigonis/cry-havoc) | 2:10 | [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md) (Combat) |  |
 | 20 | [In Starstruck Sands](https://soundcloud.com/naktigonis/in-starstruck-sands) | 2:38 | [The Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) |  |

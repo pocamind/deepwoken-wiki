@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 199166
+revid: 199233
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -17,7 +17,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Se
 | weight | 2 |
 | innate stats | +3 Health, +1 Posture, +1 Rare Pip |
 | innate talent | Laminated Armor |
-| set | Ossified Blacksteel Helm, Ossified Blacksteel Pauldrons |
+| set | Ossified Black Helm, Ossified Black Pauldrons |
 | set talent | Captain's Call |
 | bankable | No |
 | droppable | No |
@@ -32,11 +32,13 @@ Variants: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Ossified Set
+Ossified Black Set
+
+Variants: [Ossified Black Helm](Ossified_Black_Helm.md)
 
 ## Description
 
-Ossified Blacksteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
+Ossified Black Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
 The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. Notably, this is applied after other resistances. Additionally, this Talent can't reduce a damage value below 0.
 

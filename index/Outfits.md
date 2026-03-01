@@ -1,6 +1,6 @@
 ---
 title: Outfits
-revid: 196873
+revid: 199174
 source: https://deepwoken.fandom.com/wiki/Outfits
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits]
@@ -8,21 +8,21 @@ categories: [Outfits]
 
 # Outfits
 
-**Outfits** are craftable forms of defense that typically reduce incoming damage by a certain percentage, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in most larger settlements. They can also be repaired passively with the [Thresher Scales](Talents.md) Talent. The player has a handful of basic Outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some Outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to re-obtain their Outfit.
+**Outfits** are craftable forms of defense that typically reduce incoming damage by a certain percentage, based on what type of damage it is. Outfits have limited durability that can be lost through most forms of damage, including physical, elemental, and environmental damage. They can be purchased and repaired at a [Blacksmith](Blacksmith.md), which can be found in most larger settlements. They can also be repaired passively by resting at a [Campfire](Campfire_Pit.md). The player has a handful of basic Outfits available to them upon a fresh start, but other outfits require the player to find a corresponding Schematic and bring it to a Blacksmith to be unlocked. Some Outfits grant users [Talents](Talents.md) or other unique buffs while worn. Outfits come in several tiers, typically denoting their rarity and effectiveness: Starter, Adept, Expert, Master, and Unique. Outfits are lost when a player wipes, meaning they must find Schematics again in order to re-obtain their Outfit.
 
 ## Transmogging
 
 _Main page: [Transmogrification](Transmogrification.md)_
 
-You may also keep the stats of an Outfit you are currently wearing while choosing the look of another Outfit you already crafted. To do this, you must "Transmog" to a crafted Outfit you want to have the appearance of instead of swapping to it. This way you can mislead players with the appearance of your Outfit and max out your fashion stat, or be funny by wearing something like [Black Diver](Black_Diver.md) for stats while wearing the [Diver Apprentice](Diver_Apprentice_Robes.md) Outfit to make people think you're a diver freshie.
+You may also keep the stats of an Outfit you are currently wearing while choosing the look of another Outfit you already crafted. To do this, you must "Transmog" to a crafted Outfit you want to have the appearance of instead of swapping to it; this way you can mislead players with the appearance of your Outfit and max out your fashion stat.
 
 ## Outfit Stats
 
--   **Durability:** The "health" of the outfit. Depletes by the amount of damage resisted. At 0% durability, the outfit will no longer grant its defensive values. However, other stats like ether regen, stealth and the associated Talents will still be active.
--   **Physical Armor:** Reduce damage taken from weapons and physical mantras. Stacks multiplicatively with the following:
-    -   **Slash/Blunt Armor:** Reduce damage taken from bladed weapons such as swords, daggers or axes/from blunt weapons such as maces, fists, guns or hammers.
+-   **Durability:** The "health" of the Outfit. Depletes by the amount of scaled damage taken, assuming your Outfit can resist the attack. At 0% durability, the Outfit will no longer grant its defensive values. However, other stats like ether regen, stealth and the associated Talents will still be active.
+-   **Physical Armor:** Reduce damage taken from physical attacks. Stacks multiplicatively with the following:
+    -   **Slash / Blunt Armor:** Reduce damage taken from Slash or Blunt attacks respectively.
 -   **Elemental Armor:** Reduce damage taken from elemental attacks. Stacks multiplicatively with the following:
-    -   **Fire / Ice / Lightning / Wind / Shadow / Ironsing/Blood Armor:** Reduce damage taken from the element mentioned.
+    -   **Fire / Ice / Lightning / Wind / Shadow / Ironsing / Blood Armor:** Reduce damage taken from the respective [Attunement](Attunements.md).
         -   **Note:** Against mantras with double typing (IE: Wind + Slash), the highest resistance is used to reduce its damage.
 -   **Ether Regen:** Increase Ether regeneration.
 -   **Sanity:** Gives bonus sanity to the Wearer.
@@ -33,43 +33,27 @@ You may also keep the stats of an Outfit you are currently wearing while choosin
     -   Currently only the [Union Initiate](Union_Initiate.md) Outfit has this stat.
 -   **Talent:** A passive ability linked to the outfit.
 
-## Repairing your Outfit
+## Armor Durability
 
-The Outfit is the only piece of Armor that loses durability, which can be found on the bar below your Health. When your Outfit reaches zero durability, it will not be destroyed but it will no longer grant its defensive bonus until it is repaired. The most common and effective way to repair an outfit is at a [Blacksmith](Blacksmith.md). However, Armor can also be repaired through the Talents Bloodiron Spirit and Thresher Scales, the Bloodiron Ring, or with the Metal [enchantment](Enchantments.md). Armor can also be repaired through the use of Repair Kits. Repair Kits can be crafted at any crafting table using 3 Wood and 5 Iron and can be placed down and used anywhere. They give back about 2000 of an armor's durability.
+As your Outfit resists damage, you will lose Armor Durability, indicated with the white bar below your health bar. When your Outfit reaches zero durability, it, and your [Equipment](Equipment.md), will no longer provide their resistances until your Armor Durability is repaired. Your Outfit and Equipment will continue to provide its full resistances until the durability is fully depleted; there are no adverse effects of having low Armor Durability, unless it's empty. Additionally, all Outfit or Equipment granted [Talents](Talents.md) and non-resistance stats will remain active even if your Armor Durability drops to 0.
+
+The most common and effective ways to repair your Armor Durability is at a [Blacksmith](Blacksmith.md) or resting at a [Campfire](Campfire_Pit.md). However, Armor Durability can also be repaired through the [Bloodiron Spirit](Talents.md#bloodiron-spirit) Talent, [Bloodiron Ring](Bloodiron_Ring.md), [Metal](Metal.md) enchantment, or [Repair Kits](Repair_Kit.md). Repair Kits can be crafted at any crafting table using 3 Wood and 5 Iron and can be placed down and used anywhere. They give back about 2000 of an armor's durability.
 
 ## Outfits
 
-### Starter
-
-_Deepwoken_ currently has 11 Starter Outfits that have been discovered.
-
-### Adept
-
-_Deepwoken_ currently has 18 Adept Outfits that have been discovered.
-
-### Expert
-
-_Deepwoken_ currently has 19 Expert Outfits that have been discovered.
-
-### Master
-
-_Deepwoken_ currently has 15 Master Outfits that have been discovered.
-
 ### Unique
 
-_Deepwoken_ currently has 20 Unique Outfits that have been discovered.
+#### [Vow of Iron](Vow_of_Iron.md) Exclusive Outfits
 
-### [Vow of Iron](Vow_of_Iron.md) Exclusive Outfits
-
-_Deepwoken_ currently has 6 Vow of Iron exclusive Outfits that have been discovered. All of these Outfits are exclusively obtained as the starting armor of specific [Mementos](Mementos.md), and are Unique tier.
+All of these Outfits are exclusively obtained as the starting armor of specific [Mementos](Mementos.md), and are Unique tier.
 
 ### Spec/Mod
 
-_Deepwoken_ currently has 11 Confirmed spec/mod armor that have been discovered. Outfits that are classified as spec/mod outfits in Pathfinder, but are obtainable in Vow of Iron will not be listed here.
+These Outfits are exclusive to Deepwoken Developers or Moderators.
 
 ### Unavailable
 
-_Deepwoken_ currently has 2 Unavailable Outfits that have been discovered.
+These Outfits are completely unobtainable.
 
 ## Faction Outfits
 

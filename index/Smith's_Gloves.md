@@ -1,6 +1,6 @@
 ---
 title: "Smith's Gloves"
-revid: 176571
+revid: 199217
 source: https://deepwoken.fandom.com/wiki/Smith's_Gloves
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Gloves]
@@ -23,7 +23,7 @@ categories: [Equipment, Arms, Gloves]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Summer Isle, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Lodestar, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity |
+| obtainment | Chests from:, Summer Isle, Duke Ishamon Erisia, Primadon, Titan of the East, First Layer, Chaser, Scholar of the Crimson Contract, Maestro Evengarde Rest, Lodestar, Dread Serpent, Saramaed Hollow, The Doom of Caeranthil, Heart of Enmity, Sea Events |
 | description | ... |
 
 ## Description
