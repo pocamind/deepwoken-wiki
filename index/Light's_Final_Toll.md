@@ -1,6 +1,6 @@
 ---
 title: "Light's Final Toll"
-revid: 199048
+revid: 199154
 source: https://deepwoken.fandom.com/wiki/Light's_Final_Toll
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Core-Attribute based weapons", Legendary Weapons, Weapons with Unique Criticals, Weapons with Unique Animations, Light Weapons, Weapons with multiple Criticals]
@@ -45,7 +45,7 @@ For the first critical, the user smacks the opponent with the lantern ([Way of N
 
 For the second and third critical, the user jumps into the air and slams the lantern down into the ground. This must be landed twice to advance to the final phase.
 
-For the final critical, the user raises into the air with a [cyan telegraph](Combat_Mechanics.md#cyan), unleashing a heavy smack with the lantern and knocking and ragdolling the opponent. If missed, the critical will reset to its first phase.
+For the final critical, the user raises into the air with a [green telegraph](Combat_Mechanics.md#green), unleashing a heavy smack with the lantern and knocking and ragdolling the opponent. If missed, the critical will reset to its first phase. This critical acts as a counter, absorbing the damage from attacks you get hit by during its windup.
 
 All criticals have a cooldown of **5 seconds**.
 

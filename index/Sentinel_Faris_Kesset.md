@@ -1,11 +1,9 @@
 ---
 title: Sentinel Faris Kesset
-revid: 191984
+revid: 199110
 source: https://deepwoken.fandom.com/wiki/Sentinel_Faris_Kesset
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Tiran NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Individuals with She/her pronouns, NPCs, Military personnel of The Central Authority, Deceased characters]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Tiran NPCs, Vow of Iron Exclusive, Individuals with She/her pronouns, NPCs, Military personnel of The Central Authority, Deceased characters]
 ---
 
 # Sentinel Faris Kesset

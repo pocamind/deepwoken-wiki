@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 198317
+revid: 199166
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -38,9 +38,9 @@ Ossified Set
 
 Ossified Blacksteel Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 3, applied after damage modifiers. Notably, this is applied after other resistances. It is possible to take negative damage through this Talent, causing you to heal instead.
+The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. Notably, this is applied after other resistances. Additionally, this Talent can't reduce a damage value below 0.
 
-Though not mentioned in the Talent description, Laminated Armor's effect goes both ways, reducing your **outwards** damage by 3 as well. This can cause certain low damage/hit Mantras to heal your opponent.
+Though not mentioned in the Talent description, Laminated Armor's effect goes both ways, reducing your **outwards** damage by 2 (or 3) as well. This can cause certain low damage/hit Mantras to heal your opponent.
 
 ## Crafting
 

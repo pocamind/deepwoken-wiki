@@ -1,6 +1,6 @@
 ---
 title: Ishmael
-revid: 191480
+revid: 199129
 source: https://deepwoken.fandom.com/wiki/Ishmael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
@@ -27,6 +27,10 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 Ishmael is a [Celtor](Celtor.md) NPC.
 
   
+
+## Location
+
+Ishmael is located in a fishing hut, on a rocky island in the ocean near the [Isle of Vigils](Isle_of_Vigils.md).
 
 ## Dialogue
 

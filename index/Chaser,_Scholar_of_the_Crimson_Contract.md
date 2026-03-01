@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 198449
+revid: 199167
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, Voiced Characters]
@@ -20,7 +20,7 @@ categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, 
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-“ Mm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the [City.](Second_Layer/New_Kyrsa.md) ”
+“ Hmm, yes. It's always such a shame when the greed of foolish men overcomes their survival instincts. I suppose they just weren't meant to reach the [City.](Second_Layer/New_Kyrsa.md) ”
 
 ― Chaser
 

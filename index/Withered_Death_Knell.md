@@ -1,6 +1,6 @@
 ---
 title: Withered Death Knell
-revid: 199047
+revid: 199153
 source: https://deepwoken.fandom.com/wiki/Withered_Death_Knell
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Animations, Light Weapons, Reforged Weapons]
@@ -48,7 +48,7 @@ For the first critical, the user smacks the target with the lantern ([Way of Nav
 
 For the second and third critical, the user leaps into the air and unleashes three blood-red strikes before stomping on the ground. This must be landed twice to advance to the final phase.
 
-For the final critical, the user raises into the air with a [green telegraph](Combat_Mechanics.md#green), unleashing a heavy smack with the lantern and flinging the opponent back. If missed, the critical will reset to its first phase.
+For the final critical, the user raises into the air with a [green telegraph](Combat_Mechanics.md#green), unleashing a heavy smack with the lantern and flinging the opponent back. If missed, the critical will reset to its first phase. This critical acts as a counter, absorbing the damage from attacks you get hit by during its windup.
 
 All criticals have a cooldown of **5 seconds**.
 

@@ -1,11 +1,9 @@
 ---
 title: Estrella
-revid: 191420
+revid: 199123
 source: https://deepwoken.fandom.com/wiki/Estrella
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Individuals with unspecified pronouns]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Etrean NPCs, Vow of Iron Exclusive, Vendors, NPCs, Individuals with unspecified pronouns]
 ---
 
 # Estrella

@@ -1,11 +1,9 @@
 ---
 title: Cirrus
-revid: 191369
+revid: 199122
 source: https://deepwoken.fandom.com/wiki/Cirrus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs]
 ---
 
 # Cirrus
@@ -26,7 +24,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 ## Description
 
-Cirrus is an [Etrean](Etrean.md) NPC.
+Cirrus is an [Etrean](Etrean.md) NPC. He was the second hand to [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) before [Evengarde Rest](Evengarde_Rest.md).
 
 ## Location
 

@@ -1,6 +1,6 @@
 ---
 title: The Golden Rat
-revid: 198411
+revid: 199106
 source: https://deepwoken.fandom.com/wiki/The_Golden_Rat
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Locations, The Golden Rats]
@@ -43,8 +43,6 @@ This is the area where you must fight [Dravik, The Rat King](Dravik,_The_Rat_Kin
 -   [Valikor (Vow of Iron)](<Valikor_(Vow_of_Iron).md>)
 -   [The Beard](The_Beard.md)
 
-## Trivia/Notes
+## Trivia
 
-FOR THE LOVE OF GOD DONT EAT THE PLAIN BOILED AGED FERMENTED HOTDOG
-
-It is unknown what happened to this Golden Rats Tavern, but it can be inferred that [The Lord Regents](The_Lord_Regent.md) forces destroyed it after their [King](Dravik,_The_Rat_King.md) died leaving them vulnerable.
+-   It is unknown what happened to this Golden Rats Tavern, but it can be inferred that [The Lord Regents](The_Lord_Regent.md) forces destroyed it after their [King](Dravik,_The_Rat_King.md) died leaving them vulnerable.

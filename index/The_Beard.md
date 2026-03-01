@@ -1,11 +1,9 @@
 ---
 title: The Beard
-revid: 191657
+revid: 199107
 source: https://deepwoken.fandom.com/wiki/The_Beard
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Canor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs]
 ---
 
 # The Beard

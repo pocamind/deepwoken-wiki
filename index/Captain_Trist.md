@@ -1,11 +1,9 @@
 ---
 title: Captain Trist
-revid: 194389
+revid: 199117
 source: https://deepwoken.fandom.com/wiki/Captain_Trist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Adret NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Eastern Luminant, Military personnel of The Central Authority]
 ---
 
 # Captain Trist

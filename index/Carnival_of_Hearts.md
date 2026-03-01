@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 198127
+revid: 199152
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -28,7 +28,7 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 ### Hot Pomato
 
--   A random player gets a flaming Pomar in their hands, and has 30 seconds to pass it before it explodes.
+-   A random participant gets a Flaming Pomar in their hands, and has 30 seconds to pass it before it explodes.
 -   When the 30 seconds is over, the person holding the Pomar explodes and is eliminated.
 
 ### Bomb Ball
@@ -38,10 +38,19 @@ The minigames happen in a random order. Once all minigames are completed, all re
 
 ### Beam Blitz
 
--   [Aelita](Aelita.md) and [Tillian](Tillian.md) spawn into the arena and fire large beams at the participants.
--   They will both spawn highlighted purple and stand still, wait a few seconds, then spawn again and fire their beams before moving to a different location and repeating.
--   Getting hit a single time will instantly eliminate you.
--   Lasts 100 seconds, they do one more beam when the timer ends.
+-   Numerous laser cannons will spawn around the arena, which fire large, white beams at random intervals.
+    -   These laser cannons can change the direction that they are firing.
+-   Getting hit by a beam will deal massive amounts of damage, but can be blocked.
+-   The duration scales with the amount of participants.
+
+### Ingredient Hunt
+
+-   Participants will have to search for a specific ingredient type.
+-   The ingredients are shown as followed:
+    -   [Alestrian Coral](Alestrian_Coral.md)
+    -   [Scallop](Scallop.md)
+    -   [Thresher Egg](Thresher_Egg.md)
+    -   [Urchin](Urchin.md)
 
 ## Rewards
 

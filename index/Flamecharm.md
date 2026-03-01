@@ -1,9 +1,9 @@
 ---
 title: Flamecharm
-revid: 198163
+revid: 199139
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Attunement]
+categories: [Attunement]
 ---
 
 # Flamecharm
@@ -1128,7 +1128,7 @@ _**"I seek out Amorus Pleeksty."**_
 
 | Media | Talent | Card Description | Effect |
 | --- | --- | --- | --- |
-| File:Flame Within.gif | Flame Within  
+|  | Flame Within  
 (25 Flamecharm) | An application of Pleeksty's concept of the inner flame, also known as the soul of man. Set yourself ablaze to gain more move speed and 10% extra damage. | Grants the utility tool "Flame Within". Using Flame Within sets the caster ablaze for a maximum of 30 seconds, increasing strength and movement speed but dealing burn damage to the user. Can be freely cancelled by using it again while it's active. 7s cooldown that starts when the tool is first activated, effectively removing the cooldown if you let it burn long enough. Can be used while you're knocked to incinerate yourself. Costs 25 Ether to activate. |
 
 **Duelist Flame:**

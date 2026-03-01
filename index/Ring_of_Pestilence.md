@@ -1,6 +1,6 @@
 ---
 title: Ring of Pestilence
-revid: 198394
+revid: 199168
 source: https://deepwoken.fandom.com/wiki/Ring_of_Pestilence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -32,6 +32,6 @@ If you have the [All the Dead Gods](Talents.md#all-the-dead-gods) Talent, your A
 
 ## Trivia
 
--   The effect of this ring does not stack with other sources of anti-heal such as [All the Dead Gods](Talents.md#all-the-dead-gods).
-    -   Hitting an opponent multiple times during it's duration will not stack its time or anti-heal.
+-   The effect of this ring does not stack with other sources of anti-heal such as Saint Jay.
+    -   Hitting an opponent multiple times during it's duration will not stack its time or anti-heals.
 -   The status that this ring applies is referred to as [Pestilence](Status_Effects.md#pestilence).
