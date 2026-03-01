@@ -1,6 +1,6 @@
 ---
 title: Parasol Part
-revid: 190627
+revid: 199265
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Drops, Ingredients]

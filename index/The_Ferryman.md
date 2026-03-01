@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 194771
+revid: 199261
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -10,7 +10,7 @@ categories: [Enemies, NPCs, Bosses, Voiced Characters]
 
 | The Ferryman | |
 |---|---|
-| health | 30,000 (30k per player) |
+| health | 30,000 (+22.5k per player) |
 | attacks | Lightning Clones, Lightning Strike, Lightning Assault, Grand Volley |
 | drops | 3 Chests (see loot table), 2/1 Knowledge, Ferryman's Coat Cloth, (Spring only):, 1 Knowledge(Summer Only):, Chest(Autumn Only):, Chest(Winter Only):, Aelita chest |
 | locations | Boatman's Watch |
