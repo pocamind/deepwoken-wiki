@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 198277
+revid: 199321
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -384,6 +384,7 @@ Not all unblockable attacks have this indicator.
 **Boss Attacks**
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Serpent-Slaying Sweep
 
  |
 | 
@@ -432,7 +433,6 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 **Monster Attacks**
 
 -   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (and all other variants with this attack): Tacet Hug, Tacet Drop Kick
--   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
 -   [Deep Owl](Deep_Owl.md): Overhead Grab
 -   [Deep Widow](Deep_Widow.md): Venomous Bite
@@ -443,7 +443,6 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Lumbering Thrust
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
 -   [Rock Golem](Rock_Golem.md): Uppercut
--   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
 -   [Thresher](Thresher.md) (all variants): Burrow
 
 **Boss Attacks**
@@ -478,10 +477,12 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 
 **Monster Attacks**
 
+-   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   [Deep Widow](Deep_Widow.md): Deep Webbing
 -   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
+-   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
 -   [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>): Severing Flourish

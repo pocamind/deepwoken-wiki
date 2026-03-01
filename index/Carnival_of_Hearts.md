@@ -1,6 +1,6 @@
 ---
 title: Carnival of Hearts
-revid: 199152
+revid: 199278
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, World Event, Dungeons]
@@ -69,6 +69,8 @@ The minigames happen in a random order. Once all minigames are completed, all re
 -   There was a bug on release where players could use their weapons and mantras during the minigames, and kill all the other players. This bug has been fixed.
 -   Players can use the [Dimensional Travel](Dimensional_Travel.md) resonance during the event to go on top of the tent and avoid all challenges.
 -   Players can roll-clip onto the stands after the minigame has started, avoiding the minigames and other players.
+-   If killed by Aelita, she will use the “A Fearsome Enemy” tag.
+-   When put in danger by Aelita, her tag is .aelita4693.
 -   Aelita and Tillian will occasionally shoot an extra beam at the last person standing during the Beam Blitz game, so be careful.
 -   You have two chances to join the event: once at XX:00 and another at XX:05.
 -   Sometimes the reward chest is bugged and the loot spawns on top of the carnival.[\[1\]](#cite-note-1)

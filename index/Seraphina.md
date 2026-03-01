@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 191625
+revid: 199290
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -24,48 +24,9 @@ This content is not accessible outside of this gamemode.
 
 Seraphina is a [Capra](Capra.md) NPC. They are a vendor who sells starter equipment aimed towards new and early game players. They function identically to [Bari](Bari.md).
 
-They will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned. Before the Etris Siege, they will have unique dialogue. "the Authority's offensives have completely stopped today, do you think they are planning something?"
-
-She is wearing the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
-
 ## Location
 
 Seraphina is located at the [Etris Docks](Etris_Docks.md), leaning against a pillar.
-
-## Dialogue
-
-**Base Dialogue:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!<br>
-  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Etris Siege:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Something doesn't feel right today. The air is still. I have a bad feeling about this.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
 
 ## Shop
 
@@ -99,3 +60,43 @@ Seraphina's Serendipitous Wares
 </tr>
 </tbody>
 </table>
+
+## Dialogue
+
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Howdy, I'm stockin' some essentials for headin' out onto these waters. Take your fancy!<br>
+  [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Cinders of Etris:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Something doesn't feel right today. The air is still. I have a bad feeling about this.</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+## Trivia
+
+-   Seraphina wears the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
+-   Seraphina will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned. Before the raid, they will have unique dialogue. "the Authority's offensives have completely stopped today, do you think they are planning something?"

@@ -1,6 +1,6 @@
 ---
 title: Bone Keeper
-revid: 195464
+revid: 199320
 source: https://deepwoken.fandom.com/wiki/Bone_Keeper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, Floor 1, The Depths]
@@ -43,9 +43,9 @@ If you would prefer a visual guide, consider watching _[this video](https://www.
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 | 

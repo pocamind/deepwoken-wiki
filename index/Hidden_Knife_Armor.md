@@ -1,6 +1,6 @@
 ---
 title: Hidden Knife Armor
-revid: 194626
+revid: 199275
 source: https://deepwoken.fandom.com/wiki/Hidden_Knife_Armor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -12,7 +12,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 |---|---|
 | caption | Discard your identity. |
 | tier | Unique |
-| crafting_req | x5 Cloth, x5 Fiber, x1 Emerald |
+| crafting_req | x5 Cloth, x5 Fiber |
 | stat_req | Power 15 |
 | bankable | Yes |
 | droppable | No |
@@ -35,7 +35,7 @@ This content is not accessible outside of this gamemode.
 
 ### _Requirements_
 
-This Outfit requires five (5) [Cloth](Cloth.md), five (5) [Fiber](Fiber.md), and one (1) [Emerald](Treasures.md) to craft.
+This Outfit requires five (5) [Cloth](Cloth.md) and five (5) [Fiber](Fiber.md) to craft.
 
 This Outfit additionally requires the player to be at least [Power](Power.md) 15 to be crafted.
 
@@ -48,3 +48,4 @@ The [Bane](Talents.md#bane) Talent grants a Talent tool that upon activation, gr
 ## Trivia
 
 -   This outfit is a much darker version of [Kaide](Kaide,_the_Drowned_Light.md)'s outfit.
+-   This outfit used to additionally require an [Emerald](Treasures.md) in its crafting recipe, but this was removed with the addition of [Trinkets](Trinkets.md) in the Feburary 25th, 2026 update.

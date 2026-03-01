@@ -1,6 +1,6 @@
 ---
 title: "Oath: Dawnwalker"
-revid: 195065
+revid: 199274
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Dawnwalker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Divers]
@@ -56,9 +56,9 @@ This Oath grants 3 Combat Mantra Slots. As for appearance, it changes the eye co
 
 -   **Luminous Flash** - After dealing a certain amount of damage while in "Absolute Radiance", gain a chance to empower your strikes with pure light.
     -   On proc, a basic attack will: Hit the maximum hard cap of damage (1.5x), dazes the target, and grants +45 tempo
-    -   CD of ~30–50 seconds.
+    -   CD of ~30–50 seconds. The cooldown has a chance to not proc, allowing you to chain another Luminous Flash.
     -   Has a small aura on proc.
-    -   Despite having a definitive cooldown it is possible to activate multiple times in a row resulting in a massive burst of damage. Example: [Killing The Ferryman due to three in a short burst.](https://medal.tv/games/roblox/clips/2dLtDCFCRFPGAd/d1337IECORiz?invite=cr-MSxkbXQsMjA4MzQxMDcs)
+    -   Despite having a definitive cooldown it is possible to chain multiple times in a row or over a short period of time resulting in a massive burst of damage. Example: [Killing The Ferryman due to three in a short burst.](https://medal.tv/games/roblox/clips/2dLtDCFCRFPGAd/d1337IECORiz?invite=cr-MSxkbXQsMjA4MzQxMDcs)
     -   Proccing luminous flash will proc it on all entities hit by that hit.
 
 -   **Protagonist Syndrome** - The grasp of shadow is meaningless in the face of your blinding light. Your Dawnwalker mantras are empowered after being hit by Shadowcast.

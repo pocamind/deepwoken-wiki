@@ -1,6 +1,6 @@
 ---
 title: Ossified Simple Pauldrons
-revid: 199103
+revid: 199325
 source: https://deepwoken.fandom.com/wiki/Ossified_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -40,4 +40,6 @@ This item is similar to [Super Simple Pauldrons](Super_Simple_Pauldrons.md) from
 
 The [Simple Buff](Talents.md#simple-buff) Talent grants a 7.5%/15% damage buff to M1s.
 
-Currently bugged and only gives a 7.5% damage buff to M1s.
+Gives a 7.5% damage buff in Pathfinder.
+
+Gives a 15% damage buff in VOI.

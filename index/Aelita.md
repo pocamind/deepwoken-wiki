@@ -1,6 +1,6 @@
 ---
 title: Aelita
-revid: 195766
+revid: 199276
 source: https://deepwoken.fandom.com/wiki/Aelita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, NPCs, NPCs located in the Etrean Luminant]
@@ -46,13 +46,6 @@ She is the twin sister of [Tillian](Tillian.md). The two go by the name of the S
 <table>
 <tbody>
 <tr>
-  <td><b>Miscellaneous</b></td>
-  <td>
-  <ul>
-    <li><a href="Items.md">Items</a>: <a href="Treasures.md">Diamonds</a>, <a href="Treasures.md">Platinum Bars</a>.</li>
-  </ul></td>
-</tr>
-<tr>
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
@@ -85,22 +78,17 @@ She is the twin sister of [Tillian](Tillian.md). The two go by the name of the S
 
 ## Trivia
 
--   When talking to Aelita, the song [Catwhisker](Deepwoken_OST.md#catwhisker) by Naktigonis starts playing
+-   When talking to Aelita, the song [Catwhisker](Deepwoken_OST.md#catwhisker) by Naktigonis starts playing.
 -   She was once speculated to be [Krulian](Krulian.md), but this was proved wrong when Arch\_Mage announced that Krulians do not take [Oaths](Oaths.md), as well as the theory overall lacking any real evidence for it.\[citation needed\]
--   Aelita is stated to be probably bisexual.[\[1\]](#cite-note-1) by Arch\_Mage, the owner of Deepwoken.
--   Aelita is a [Visionshaper](Oath%253A_Visionshaper.md), she doesn't have the Oath particle for optimization purposes.
+-   Aelita is stated to be probably bisexual.[\[1\]](#cite-note-1) by developer Arch\_Mage.
+-   Although Aelita is a [Visionshaper](Oath%253A_Visionshaper.md), she doesn't have the Oath particle for optimization purposes.
 -   Albeit risky, you can purposefully fail her encounter to "fast travel" at random or escape from a player.
-    
-    Aelita sitting in the fetal position on a rock
-    
 -   Aelita only says "See? That was fun right? You can have a lot more fun if you come back during the winter." to trick you into going back to Valley of Heroes, where instead of her event happening, the meteors of Blizzard Knights will spawn.
 -   If going straight through the [Valley of Heroes](The_Valley_of_Heroes.md), even sticking to the walls, you'll most likely trigger Aelita's event. Make sure that you are prepared for her event so that you don't get caught off guard. If you stick to the leftmost walls of the Valley, you may narrowly avoid the spawn trigger for Aelita, although the area seems to be rather precise.
 -   [Silentheart](Oath%253A_Silentheart.md)'s can beat the game by using a move from one of their talents in place of a mantra.
 -   Aelita's hair can be found here: [https://www.roblox.com/catalog/6536255505/Long-Black-Hair](https://www.roblox.com/catalog/6536255505/Long-Black-Hair) Aelita's hair ID: 6536255505
 -   Aelita Colors: #2d2d32 Skin | #212126 Hair | #aa55ff Pupils | #2d2d32 Cat Ears
 -   There is a glitch with this event that allows you to skip it and instantly spawns a chest allowing to beat this event even if you lack Mantras. Glitching Aelita will not make the event music stop.
--   If killed by her during the [Carnival of Hearts](Carnival_of_Hearts.md), she will use the “A Fearsome Enemy” tag.
--   When she puts you in danger during the [Carnival of Hearts](Carnival_of_Hearts.md), her tag is .aelita4693.
 -   Before wearing the [Jester's Garb](<Jester's_Garb.md>), she previously wore an old version of the [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md). This was later changed due to the misconduct of the clothing uploader.
 
 ## References

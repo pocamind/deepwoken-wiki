@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 199074
+revid: 199359
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Mechanics]
@@ -363,7 +363,7 @@ A group of three [villager](Forgotten_Villager.md) NPCs spawn around a campfire 
 
 #### Cinders of Etris
 
-The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
+The [Authority](The_Central_Authority.md)'s invasion of [Etris](Etris.md) is a rare disaster event. The event is foretold by a chat bubble from some NPCs around Etris before the event actually begins. **More information can be found [here](Cinders_of_Etris.md).**
 
 The raid can be identified by the presence of Authority NPCs, specifically the Authority Soldiers, Officers, Peacekeepers and the Authority Warden within Etris, as well as the town being set on fire and covered by a large grey cloud of smoke. In this event, Authority NPC will fight Etrean Guards, Royal Guards and Polis, the latter being a very strong NPC. If left alone, the Authority is capable of winning due to their superior mantras and larger numbers.
 

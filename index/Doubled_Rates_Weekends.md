@@ -1,6 +1,6 @@
 ---
 title: Doubled Rates Weekends
-revid: 191105
+revid: 199303
 source: https://deepwoken.fandom.com/wiki/Doubled_Rates_Weekends
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken, Mechanics]
@@ -17,12 +17,12 @@ Every real life weekend, certain changes to Deepwoken's quality of life will occ
 
 ## Changes
 
--   [Battle Royale](Battle_Royale.md) is open to be played via the Chime of Conflict, always opening on Friday and ending by Monday.
-    -   The times at which Battle Royale is unlocked are actually independent of 2x weekends, but coincides for much of the latter's duration.
 -   [Guild Points](Guilds.md) are doubled, so defeating a [Boss](Bosses.md) such as [The Ferryman](The_Ferryman.md) will grant 6 PVE Score instead of 3, and killing a player of your level will grant 30 PVP Score instead of 15.
 
 ## Removed Changes
 
+-   [Battle Royale](Battle_Royale.md) being exclusive to the weekend was open to be played via the Chime of Conflict. It would start on Friday and end on Monday.
+    -   The times at which Battle Royale is unlocked are actually independent of 2x weekends, but coincides for much of the latter's duration.
 -   All [Chest](Chests_&_Sacks.md) sizes are visually doubled in size and grant twice the number of items, in turn yielding higher rates for high demand [Relics](Relics.md), [Legendary Weapons](Weapons.md) and starred equipment.
     -   Chest sizes may remain doubled for extended periods.
         -   It is unknown why doubled chests were removed.
@@ -33,6 +33,6 @@ Every real life weekend, certain changes to Deepwoken's quality of life will occ
 
 ## Trivia
 
--   The first double chest weekend was launched on the 5/17/24 update that brought a revamp to fishing, with a sidenote stating "the fish have devised a last-ditch effort to avoid their impending eradication".
+-   The first double chest weekend was launched on the May 17th, 2024 update, that brought a revamp to fishing, with a sidenote stating "the fish have devised a last-ditch effort to avoid their impending eradication".
     -   Due to their exceedingly positive reception from the community, 2x weekends were made into a regular addition to the weekly Deepwoken update cycle.
--   Doubled rates weekends used to last for an actual weekend, but were extended to Monday starting 6/7/24.
+-   Doubled rates weekends used to last for an actual weekend, but were extended to Monday starting June 7th, 2024.

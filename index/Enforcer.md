@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 199092
+revid: 199339
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -20,9 +20,9 @@ categories: [Monsters, The Depths]
 
 ― Enforcer's Axe description
 
-## **Description**
+## Description
 
-**The Enforcer** is a Depths [Mini-Boss](Bosses.md) that acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for anyone that is unfamiliar with it. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths," but its origins are more complicated; according to the flavor text of [the](<Enforcer's_Blade.md>) [Enforcer's](<Enforcer's_Axe.md>) [weapons](<Enforcer's_Hammer.md>), Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md) and were morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
+**The Enforcer** is a Depths [Mini-Boss](Bosses.md) that acts as the second to last trial of [The Depths](The_Depths.md) Trials, being a difficult trial for anyone that is unfamiliar with it. The Enforcer is said to be simply nothing more than "a destructive construct, made to kill those who tried to escape The Depths," but its origins are more complicated; according to the flavor text of the Enforcer's weapons, Enforcers are the souls of people who failed their own [Depths Trial](First_Layer.md) and were morphed (assumedly by the Voices of the Cathedral) to be used as an obstacle for the player's own trial.
 
 The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and Enforcer's Blade variant. The only significant differences between these are minor changes in size, health, damage, and posture damage. Besides these, they act identically to normal Enforcers.
 
@@ -119,7 +119,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 -   **Resilient -** Monsters damage buffs are half as effective against them.
 -   **Monster Resistance** - Physical attacks deal ?% less damage to Enforcers.
 
-## **Combat**
+## Combat
 
 The Enforcer is definitely a shake-up to the game's formula. Up to the point at which you encounter it, the game has been throwing progressively _stronger and stronger_ mobs at you. Big, slow, tanky. Standing still, parrying and dodging usually does the trick.
 

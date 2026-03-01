@@ -1,11 +1,9 @@
 ---
 title: Breaker
-revid: 191958
+revid: 199318
 source: https://deepwoken.fandom.com/wiki/Breaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Mementos]
-notices:
-  - This page is currently being worked on. Missing True Heart of Enmity drop(s)
+categories: [Vow of Iron Exclusive, Mementos]
 ---
 
 # Breaker
@@ -605,3 +603,15 @@ Blunt
 -   Shattering Left \[Memento Talent\] - Your [Strong Left](Attunement-less.md#strong-left) and [Wind-up](Wind-Up.md) punches will always guard break mobs.
     
     -   Turns your Strong Left and Wind-Up enhanced attacks into guaranteed guardbreaks against blocking NPCs.
+
+### True Heart of Enmity
+
+-   _Exoskeleton_ \[Rare Talent, Fortitude\] - You have a layer of fortified Natural Armor that replenishes when you rest. Your Natural Armor will resist 10% Physical Damage when active. (+5 Health)
+    -   Exoskeleton's resistance will be less effective if you do not meet its Fortitude requirement, losing 0.125% resistance for every point under 40 Fortitude, capping at 6.875% resistance with 15 Fortitude.
+    -   Exoskeleton has 315 durability at power 1, scaling up to 600 durability at power 20.
+    -   [Vesperian](Vesperian.md)'s Chitin damage reduction stacks multiplicatively with Exoskeleton.
+    -   Having both Exoskeleton and Chitin will cause Exoskeleton's durability to take priority, with +200 flat durability added on top, leading to 800 total durability at power 20.
+    -   Natural Armor regenerates while resting at a campfire at a rate of 2.2% per 0.2s, aka 11% per second.
+    -   Natural Armors are affected by PEN, but its effectiveness is reduced by 75%. (i.e. if someone has 100% PEN, your Natural Armor will resist 7.5% of their damage instead of nothing.)
+    -   Natural Armor will lose durability if you get hit by any attack, even if it doesn't resist it.
+    -   Natural Armor loss is based on scaled damage received and cannot normally be increased nor decreased by anything, with the exception being damage reductions, like [Reinforce](Attunement-less.md#reinforce), which will reduce the Natural Armor loss.

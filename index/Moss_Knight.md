@@ -1,6 +1,6 @@
 ---
 title: Moss Knight
-revid: 194469
+revid: 199300
 source: https://deepwoken.fandom.com/wiki/Moss_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Stub pages without reason, StubPages, Monsters, Knights]
@@ -50,9 +50,9 @@ Moss Knights a type of [Stone Knight](Stone_Knight.md) that is similar to [Deser
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 | 
@@ -76,9 +76,9 @@ High posture
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: "Attack on the Scoundrel's Bounty"
-revid: 199173
+revid: 199297
 source: https://deepwoken.fandom.com/wiki/Attack_on_the_Scoundrel's_Bounty
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, Battles]
@@ -42,14 +42,14 @@ Eventually, the Authority vessel approached 'The Scoundrel's Bounty', announcing
 
 Among the Rotten Lot, only the Pathfinder survived, and they were taken in by residents of Etrea, returning to full health a week after the attack.[\[2\]](#cite-note-trenti-2)
 
-The crew's deaths saw them sent to [The Depths](The_Depths.md). Only Orlandeau was accounted for and he navigated to a [Diver stronghold](Castle_Light.md) shortly after. He was later sent to [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
+The crew's deaths saw them sent to [The Depths](The_Depths.md). Only Orlandeau was accounted for and he navigated to a [Diver stronghold](Castle_Light.md) shortly after. He was later sent to [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) after offending [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md).[\[3\]](#cite-note-orlandeau-3)
 
 ## References
 
 1.  ↑ [1.0](#cite-ref-year-1-0) [1.1](#cite-ref-year-1-1) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 1 will be assumed to occur during the year 1271 CE, due to being the in-game year when the game released.
 2.  ↑ [2.0](#cite-ref-trenti-2-0) [2.1](#cite-ref-trenti-2-1) [2.2](#cite-ref-trenti-2-2) NPC dialogue: [Trenti](Trenti.md)  
     _I brought you back here and you've been sleeping off some bad drowner sickness for about a week._
-3.  ↑ [3.0](#cite-ref-orlandeau-3-0) [3.1](#cite-ref-orlandeau-3-1) [3.2](#cite-ref-orlandeau-3-2) [3.3](#cite-ref-orlandeau-3-3) [3.4](#cite-ref-orlandeau-3-4) [3.5](#cite-ref-orlandeau-3-5) [3.6](#cite-ref-orlandeau-3-6) NPC dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)  
+3.  ↑ [3.0](#cite-ref-orlandeau-3-0) [3.1](#cite-ref-orlandeau-3-1) [3.2](#cite-ref-orlandeau-3-2) [3.3](#cite-ref-orlandeau-3-3) [3.4](#cite-ref-orlandeau-3-4) [3.5](#cite-ref-orlandeau-3-5) [3.6](#cite-ref-orlandeau-3-6) [3.7](#cite-ref-orlandeau-3-7) NPC dialogue: [Cap'n Orlandeau](<Cap'n_Orlandeau.md>)  
     
 4.  ↑ [4.0](#cite-ref-serendi-4-0) [4.1](#cite-ref-serendi-4-1) NPC dialogue: [Serendi](Serendi.md)  
     

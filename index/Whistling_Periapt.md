@@ -1,6 +1,6 @@
 ---
 title: Whistling Periapt
-revid: 195098
+revid: 199307
 source: https://deepwoken.fandom.com/wiki/Whistling_Periapt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
@@ -21,7 +21,7 @@ categories: [Necklaces, Torso, Equipment, Relics, Equipment Relics]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Duke Erisia, Scion of Ethiron, Sold in Traan Zakshun's black market for 250 |
+| obtainment | Duke Erisia, Scion of Ethiron, Kyrsgarde Champion, Sold in Traan Zakshun's black market for 250 |
 | description | The favor of the winds is yours; landing three hits (five for light weapons) on an opponent without taking damage envelops you in a shield of wind |
 
 ## Description

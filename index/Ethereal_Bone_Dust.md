@@ -1,6 +1,6 @@
 ---
 title: Ethereal Bone Dust
-revid: 197595
+revid: 199306
 source: https://deepwoken.fandom.com/wiki/Ethereal_Bone_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Items, Ingredients]
@@ -30,7 +30,9 @@ Probably Ethereal Osseus Plate with Hardened Enforcer Plate and creates some sor
 
 ## **Description**
 
-Ethereal Bone Dust is a crafting ingredient dropped by the [Scion of Ethiron](Scion_of_Ethiron.md). Unsure of rarity, but after a bit of testing it seems to be a more common drop.
+Ethereal Bone Dust is a crafting ingredient dropped by the [Scion of Ethiron](Scion_of_Ethiron.md).
+
+Usually drops every 1/20 ethirons
 
 It is unbankable and undroppable.
 

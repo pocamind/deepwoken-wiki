@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 199201
+revid: 199335
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -73,15 +73,17 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 
 File:Astral.gif
 
-_Grants +20% weapon damage in PvE. Call down stars alongside your critical attacks, and after parrying thrice._
+_Grants +20% weapon damage in PvE (can be increased to 25% with [Celestial Boots](Celestial_Boots.md)). Call down stars alongside your critical attacks, and after parrying thrice._
 
  | 
 
 **Effect:**
 
-Gain a +20% damage buff to your M1s in PvE. This bypasses both the soft and hard damage modifier caps.
+Gain a +20% damage buff to your M1s in PvE (25% with [Celestial Boots](Celestial_Boots.md)). This bypasses both the soft and hard damage modifier caps.
 
 Upon landing your critical attack or parrying 3 times in a row, a star will rain down and explode, dealing 4% health damage in PvP or 100 PvE damage in a small AoE.
+
+([Celestial Boots](Celestial_Boots.md) do not buff the stars damage).
 
 **Obtainment:**
 
@@ -1742,7 +1744,7 @@ Displacement [Enchant Grease](Enchant_Grease.md):
 
 [Enchant Drowned](Drowned.md)
 
-_Bolster the stats of your equipment, adding an additional +10 Health, +10 Ether, +5% Damage Vs. Monsters, and +5% Monster Armor._
+_Bolster the stats of your equipment, adding an additional +10 Health, +10 Ether, +5% Damage Vs. Monsters, and +5% Monster Armor. \***Only one drowned item can be equipped.**\*_
 
  | 
 

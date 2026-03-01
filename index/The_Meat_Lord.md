@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 191664
+revid: 199280
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -40,6 +40,8 @@ The Meat Lord can be found at the following places:
 -   [Viper's Jaw](<The_Viper's_Jaw.md>)
 
 ## Dialogue
+
+**Base Dialogue:**
 
 **First Encounter:**
 
@@ -117,13 +119,12 @@ The Meat Lord can be found at the following places:
 </tr>
 <tr>
   <td colspan="6"></td>
-  <td>[See previous instances.]</td>
-  <td>[See previous instances.]</td>
+  <td colspan="2">[See previous instances]</td>
 </tr>
 </tbody>
 </table>
 
-**Disrespected The Meat Lord.:**
+**Disrespected The Meat Lord:**
 
 <table>
 <tbody>
@@ -156,6 +157,51 @@ The Meat Lord can be found at the following places:
 </tr>
 <tr>
   <td colspan="2">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**The Metal Lord:**
+
+This dialogue was only available during the [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
+
+<table>
+<tbody>
+<tr>
+  <td colspan="6">Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="6"><i>*The Meat Lord stands in silence, awaiting those who would purchase from his bounty of meat and potions.*</i> What are you looking for, fellow warrior?</td>
+</tr>
+<tr>
+  <td colspan="3">I'll have a drink. [10 Notes]</td>
+  <td colspan="2">I'll have some meat. [10 Notes]</td>
+  <td>Are you the meat lord?</td>
+</tr>
+<tr>
+  <td colspan="2">[Sufficient Notes]</td>
+  <td>[Insufficient Notes]</td>
+  <td>[Sufficient Notes]</td>
+  <td>[Insufficient Notes]</td>
+  <td>Of course. <i>*The Lord looks away, not elaborating further.*</i></td>
+</tr>
+<tr>
+  <td>[No Potion in Inventory]</td>
+  <td>[Already have a Potion]</td>
+  <td><i>*The Lord eyes you intensely.*</i> Return with coin before you speak to me again.</td>
+  <td><i>*The man summons the meat from seemingly no where.*</i> Go forth and enjoy the finest meal I have ever crafted.</td>
+  <td>[See first instance]</td>
+  <td>[End Dialogue]</td>
+</tr>
+<tr>
+  <td><i>*The drink flows into the flask from seemingly no where.*</i> Go forth and enjoy the fine music and cold potions.</td>
+  <td><i>*The Lord eyes you intensely.*</i> There will be plenty of drink, finish yours first.</td>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], random meat food obtained</td>
+</tr>
+<tr>
+  <td>[End Dialogue], Hastening Brew obtained</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

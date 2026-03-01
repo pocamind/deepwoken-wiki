@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 199250
+revid: 199272
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -17,7 +17,7 @@ categories: [Pathfinder Exclusive]
 | weight | 1 |
 | innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | Sloped Plate |
-| set | Ossified Barrel Helm, Ossified Blacksteel Pauldrons |
+| set | Ossified Barrel Helm, Ossified Black Pauldrons |
 | set talent | Captain's Call |
 | bankable | No |
 | droppable | No |
@@ -32,7 +32,7 @@ Variants: [Blacksteel Helm](Blacksteel_Helm.md)
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Ossified Set
+Ossified Black Set
 
 ## Description
 

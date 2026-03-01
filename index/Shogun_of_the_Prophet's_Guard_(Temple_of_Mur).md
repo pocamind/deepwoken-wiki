@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 197386
+revid: 199311
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -83,6 +83,12 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 
  | The Shogun highlights Red, spinning around into two devastating slashes that cannot be parried. The first slash is very delayed, and a roll cancel must be employed to avoid the attack completely.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  | 
 
  |
@@ -93,6 +99,12 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 (★☆☆)
 
  | The Shogun performs a simple slash with his blade. Visually distinct from **High Cleave** by the Blue highlight, indicating that you must either crouch, uppercut or block the attack.
+
+_Uses Telegraph_
+
+[BlockTelegraph](Combat_Mechanics.md#blue)
+
+Block
 
  | 
 
@@ -105,6 +117,12 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 
  | The Shogun highlights **White**, indicating the attack must be jumped over, performing a brisk stomp, before then quickly following it up with two strikingly fast slashes that can be parried, before spinning around into a **White**\-highlighted leg slash that must be jumped over.
 
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#white)
+
+Jump
+
  | 
 
  |
@@ -115,6 +133,12 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 (★★★)
 
  | The Shogun crouches low and performs a slash to the left, before following up with a Red-highlighted slash, and then two more extremely brisk spinning slashes that can both be parried. There is an extremely small delay between the third and fourth slash. This attack can be differentiated from **High Cleave** by the Shogun's crouching motion and differing slash direction.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 
