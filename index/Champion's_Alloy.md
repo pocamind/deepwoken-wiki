@@ -1,6 +1,6 @@
 ---
 title: "Champion's Alloy"
-revid: 199188
+revid: 199547
 source: https://deepwoken.fandom.com/wiki/Champion's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]

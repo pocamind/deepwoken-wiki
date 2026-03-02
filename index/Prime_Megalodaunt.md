@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 199530
+revid: 199531
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]
@@ -24,7 +24,7 @@ The Prime Megalodaunt is a powerful [Megalodaunt](Megalodaunt.md) variant, spawn
 
 Primes are the strongest variant, with them hitting harder, having a much higher HP pool, and being noticeably faster at attacking compared to its normal counterparts.
 
-Despite all of the above, they behave like regular Megalodraunts. Master its attack pattern and this is basically just a Megalodaunt that can fire a laser beam and has more health.
+Despite all of the above, they behave like regular Megalodaunts. Master its attack pattern and this is basically just a Megalodaunt that can fire a laser beam and has more health.
 
 ## Attacks
 

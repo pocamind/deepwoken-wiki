@@ -1,6 +1,6 @@
 ---
 title: Suri
-revid: 196479
+revid: 199545
 source: https://deepwoken.fandom.com/wiki/Suri
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, The Hive, NPCs located in the Eastern Luminant]
@@ -23,7 +23,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Suri is an NPC belonging to the Hive faction. Talking to him will start the Grave Tending [quest](Quests.md) where he asks you to bring a flower to his [brother's grave](Well-kept_Gravestone.md).
+Suri is a [Vesperian](Vesperian.md) NPC belonging to the Hive faction. Talking to him will start the Grave Tending [quest](Quests.md) where he asks you to bring a flower to his [brother's grave](Well-kept_Gravestone.md).
 
 ## Location
 
@@ -137,5 +137,5 @@ Suri's brother's grave is located near the barber at [Isle of Vigils](Isle_of_Vi
 
 ## Trivia
 
--   The flower seems to bug when changing luminant and can't be broken when taking damage
+-   When damaging a flower and receiving a new one, or when changing luminants with the flower, the new flower will NOT be destroyed by any sources of damage. These interactions can be abused to get a durable flower when doing the quest.
 -   His quest is likely a reference to Hollow Knight, which has a similar quest in which you are tasked to deliver a flower to a grave and lose it if you take damage.
