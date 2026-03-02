@@ -1,6 +1,6 @@
 ---
 title: Private Simas
-revid: 196273
+revid: 199508
 source: https://deepwoken.fandom.com/wiki/Private_Simas
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
@@ -30,7 +30,7 @@ Private Simas is located inside The Three Cheers, sitting at a table across from
 
 ## Dialogue
 
-**Good/Neutral Reputation:**
+**Neutral Reputation:**
 
 <table>
 <tbody>

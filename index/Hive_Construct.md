@@ -1,6 +1,6 @@
 ---
 title: Hive Construct
-revid: 198560
+revid: 199519
 source: https://deepwoken.fandom.com/wiki/Hive_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Hive, Hive Enemies, Ambush Enemies]
@@ -49,6 +49,12 @@ Hive Constructs can spawn in [Starswept Valley](The_Starswept_Valley.md) and [Bl
  | The Construct uncoils its arms and swings them upwards.
 
 -   Flings and ragdolls player.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 

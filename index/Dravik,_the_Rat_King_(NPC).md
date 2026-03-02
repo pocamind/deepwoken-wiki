@@ -1,11 +1,9 @@
 ---
 title: "Dravik, the Rat King (NPC)"
-revid: 194474
+revid: 199503
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_the_Rat_King_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Deceased characters, The Golden Rats]
 ---
 
 # Dravik, the Rat King (NPC)
@@ -27,7 +25,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-A phantom of [the Inheritor](The_Inheritor.md)'s victory - the late Dravik, the Rat King is located at [The Cerebral Spire](The_Cerebral_Spire.md) next to the Boundary portal. He was a former Etrean instructor, who sparred with [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), and possibly the Mentor of [Evengarde Rest](Evengarde_Rest.md), who at the time of the Vow of Iron gamemode is in the [West](Luminants.md) training with the [Hundred Legions](The_Hundred_Legions.md). Additionally he believes that only he could have a chance against [The Lord Regent](The_Lord_Regent.md), even if the Inheritor tries possibilities out to take him out. In his phantom dialog, he elaborates as to why he left the [Blade Temple](Temple_of_the_Blade.md) for the Golden Rats, mainly critiquing the place being "a shadow of it's former self".
+A phantom of [the Inheritor](The_Inheritor.md)'s victory - the late Dravik, the Rat King is located at [The Cerebral Spire](The_Cerebral_Spire.md) next to the Boundary portal. He was a former Etrean instructor, who sparred with [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md), and possibly the Mentor of [Evengarde Rest](Evengarde_Rest.md), who at the time of the Vow of Iron gamemode is in the [West](Luminants.md) training with [The Hundred Legions](The_Hundred_Legions.md). Additionally he believes that only he could have a chance against [The Lord Regent](The_Lord_Regent.md), even if the Inheritor tries possibilities out to take him out. In his phantom dialog, he elaborates as to why he left the [Blade Temple](Temple_of_the_Blade.md) for the Golden Rats, mainly critiquing the place being "a shadow of it's former self".
 
 ## Dialogue
 

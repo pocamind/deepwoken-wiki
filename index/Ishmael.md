@@ -1,11 +1,9 @@
 ---
 title: Ishmael
-revid: 199129
+revid: 199524
 source: https://deepwoken.fandom.com/wiki/Ishmael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Celtor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Vendors]
 ---
 
 # Ishmael
@@ -14,6 +12,7 @@ notices:
 |---|---|
 | name | Ishmael |
 | aspect | Celtor |
+| pronouns | He/him |
 | location | Etrean Sea |
 
 Variants: [Mortus](Mortus.md)
@@ -22,11 +21,19 @@ Variants: [Mortus](Mortus.md)
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
+“ I can give you the knowhow y'need to catch the **big ones**... Now, some might not even consider 'em _fish_, but I know better I does. ”
+
+― Ishmael
+
 ## Description
 
 Ishmael is a [Celtor](Celtor.md) NPC.
 
-  
+Ishmael is capable of crafting [Monster Bait](Monster_Bait.md), and giving out the recipes for it to the player. The bait requires two of the respective drops from the monsters. These monsters are:
+
+-   [Megalodaunt](Megalodaunt.md): [Megalodaunt Hides](Megalodaunt_Hide.md)
+-   [Thresher](Thresher.md): [Thresher Spines](Thresher_Spine.md)
+-   [Terrapod](Terrapod.md): [Strange Claws](Strange_Claw.md)
 
 ## Location
 
@@ -42,7 +49,7 @@ Ishmael is located in a fishing hut, on a rocky island in the ocean near the [Is
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12"><i>*The dishevelled man sniffs at you.*</i> What's this? Need somethin'?</td>
+  <td colspan="12">*The dishevelled man sniffs at you.* What's this? Need something'?</td>
 </tr>
 <tr>
   <td colspan="12">What do you have?</td>
@@ -72,7 +79,7 @@ Ishmael is located in a fishing hut, on a rocky island in the ocean near the [Is
 <tr>
   <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>toughest hides</b> and it might jog me memory...</td>
   <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>gorey spines</b> and it might jog me memory...</td>
-  <td colspan="4">Ah... 2 of their <b>weirdly claws</b> might jog me memory...</td>
+  <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>weirdly claws</b> and it might jog me memory...</td>
 </tr>
 <tr>
   <td colspan="12">Here they are.</td>
@@ -113,7 +120,7 @@ Ishmael is located in a fishing hut, on a rocky island in the ocean near the [Is
   <td>Fish got 'er. Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. We don't fish for them octopuses no more.</td>
 </tr>
 <tr>
-  <td>[See first instance on First Encounter]</td>
+  <td>[See first instance]</td>
   <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>
@@ -123,4 +130,3 @@ Ishmael is located in a fishing hut, on a rocky island in the ocean near the [Is
 
 -   The "octopus" that Ishmael mentions is most likely a [Nautilodaunt](Nautilodaunt.md), already known for their absurd intelligence and power in combat compared to other monsters.
 -   Behind his hut you will find a tiny doorway where you can find a Fishing Spot.
--   Acts as the [Vow of Iron](Vow_of_Iron.md) equivalent of [Mortus](Mortus.md).

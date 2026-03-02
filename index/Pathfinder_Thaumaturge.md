@@ -1,6 +1,6 @@
 ---
 title: Pathfinder Thaumaturge
-revid: 195854
+revid: 199493
 source: https://deepwoken.fandom.com/wiki/Pathfinder_Thaumaturge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Adept Outfits]
@@ -19,7 +19,7 @@ categories: [Outfits, Adept Outfits]
 | durability | 1000 |
 | resistances | +15% Elemental Armor+10% Physical Armor |
 | talents | Lowstride |
-| obtainment | Sold by Nyanna and Traan Zakshun for 200 , Chests from:, Erisia/General Sea Event Loot, The Depths, Moon's Eyrie, Primadon |
+| obtainment | Sold by Nyanna for 200 , Sold in Traan Zakshun's regular shop for 200 , Chests from:, Erisia/General Sea Event Loot, The Depths, Moon's Eyrie, Primadon, Vow of Iron:, Sold in Naan Zakshun's black market for4,000 |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

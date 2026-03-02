@@ -1,6 +1,6 @@
 ---
 title: Etrean Wilds
-revid: 199427
+revid: 199529
 source: https://deepwoken.fandom.com/wiki/Etrean_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant]
@@ -25,16 +25,16 @@ Between the Etris Docks and Etris, there is a small forest, being the Etrean Wil
 ### Navaen Nomad Camp
 
 -   A small camp populated by [Navaen Nomads](Navaen_Hostage.md) found before entering Etris.
--   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) schematics and the [Hunting Bow](Hunting_Bow.md) can be purchased here.
--   You can earn the [Way of Navae](Way_of_Navae.md) fist style by turning in a Navaen hostage here.
--   An incredibly popular spot for sparring and ganks
+-   You can earn the [Way of Navae](Way_of_Navae.md) fist style by turning in a Navaen hostage here. (currently seems to be bugged)
 -   This is the location of the first part of the [Zana](Zana.md) [quest](<Poser's_Ring.md>)
-    
+-   You can buy the following here:
+    -   [Navaen Nomad Robes](Navaen_Nomad_Robes.md) for 45
+    -   [Lumber Axe](Lumber_Axe.md) for 3
+    -   [Flint](Flint.md) for 3
 
 ### Ruined House
 
 -   A small ruined house found below Etris that has importance with the [Kelsius](Kelsius.md) Book quest.
-    
 
 ## Maps
 

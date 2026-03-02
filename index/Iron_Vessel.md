@@ -1,6 +1,6 @@
 ---
 title: Iron Vessel
-revid: 196211
+revid: 199505
 source: https://deepwoken.fandom.com/wiki/Iron_Vessel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -734,6 +734,9 @@ Metal + Slash + [Bleed](Status_Effects.md#bleed)
     -   5 second cooldown per enemy. The cooldown indicator may suggest the cooldown is per enemy type, but it isn't.
     -   The second slash has no PEN.
     -   Can proc from some [physical](Attunement-less.md) Mantras and criticals with the M1 tag.
+
+-   Defensive Reprisal \[Common Talent\] - Being flourished grants you 10% posture resistance for 20s.
+    -   Defensive Reprisal's duration will be reduced by 0.177s for every point in Fortitude below its requirements, having a minimum duration of 15.55s duration with 40 Fortitude.
 
 ### Dravik, The Rat King
 

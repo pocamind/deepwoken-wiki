@@ -1,9 +1,11 @@
 ---
 title: Cerulean
-revid: 195610
+revid: 199487
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
+categories: [Celtor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns, Oath Trainer]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Cerulean
@@ -14,15 +16,21 @@ categories: [Celtor NPCs, NPCs, NPCs located in the Eastern Luminant, Oath Train
 | aspect | Celtor |
 | location | Miner's Landing |
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
 “ May your travels be everlasting. ”
 
 ― Cerulean
 
 ## Description
 
-**Cerulean** is a Marten(?) [Celtor](Celtor.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He starts you on the Oathless quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
+Cerulean is a [Celtor](Celtor.md) NPC. They are the trainer for [Oathless](Oath%253A_Oathless.md).
 
-Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic](Mystic.md), head right until you see a log tunnel. Inside the log hides a passageway into a dimly lit cave. He is located there.
+## Location
+
+Cerulean can be found inside of a small cave entered through a log at [Miner's Landing](<Miner's_Landing.md>).
 
 ## Dialogue
 
@@ -185,7 +193,8 @@ Cerulean is located in [Miner's Landing](<Miner's_Landing.md>). From the [Mystic
 
 ## Trivia
 
--   His [Celtor](Celtor.md) aspect variant is Marten(?).
--   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Cerulean City_](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).
-    -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Saffron](Saffron.md), [Celadon](Celadon.md), and [Viridian](Viridian.md).
+-   Cerulean wears the [Verdant Sniper](Verdant_Sniper.md) Outfit.
+-   Their aspect variant is Marten.
+-   Cerulean is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Cerulean City_](https://bulbapedia.bulbagarden.net/wiki/Cerulean_City).
+    -   This follows the same pattern with their Oathless disciples: [Saffron](Saffron.md), [Celadon](Celadon.md), and [Viridian](Viridian.md).
 -   Cerulean usually means the shade of the color blue.

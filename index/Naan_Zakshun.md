@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 194885
+revid: 199492
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, Circle of Honour members]
@@ -192,6 +192,7 @@ Naan's item descriptions will change randomly each time they hit their hourly ro
 -   _Naan Zakshun has wares if you have coin- I mean... notes... yeah._
 -   _No it's not naan like the bread._
 -   _Oh, ignore the bite marks~ my grandson's teething._
+-   _OH NO!!! IF YOU DON'T BUY IT IT'LL EXPLODE!!! NOOOOOOOOO!!!... Alright, whatever man._
 -   _Oooohohohohhoooooooooohoooohohohooooooohohooohoohoo!!!!~_
 -   _People keep asking for these to be purple? Do you know why?_
 -   _They say dust is the finish of time yknow, and it's well known that time erm... means money so dust means money too... by proxy._
@@ -226,7 +227,7 @@ Sold Items
     <li><b>For 200 </b>:
   <ul>
     <li><b>Starter</b>: <a href="Pathfinder_Sorcerer.md">Pathfinder Sorcerer</a>, <a href="Scholar.md">Scholar</a></li>
-    <li><b>Adept</b>: <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a>, <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a></li>
+    <li><b>Adept</b>: <a href="Navaen_Nomad_Robes.md">Navaen Nomad Robes</a>, <a href="Pathfinder_Cloak.md">Pathfinder Cloak</a>, <a href="Pathfinder_Thaumaturge.md">Pathfinder Thaumaturge</a>, <a href="Summer_Company_Uniform.md">Summer Company Uniform</a>, <a href="Troublemaker's_Overcoat.md">Troublemaker's Overcoat</a></li>
     <li><b>Expert</b>: <a href="Authority_Captain_Uniform.md">Authority Captain Uniform</a>, <a href="Ignition_Trailblazer.md">Ignition Trailblazer</a>, <a href="Varicosan_Finery.md">Varicosan Finery</a></li>
     <li><b>Master</b>: <a href="Prophet's_Cloak.md">Prophet's Cloak</a></li>
   </ul></li>

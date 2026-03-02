@@ -1,6 +1,6 @@
 ---
 title: Corporal Austin
-revid: 196272
+revid: 199509
 source: https://deepwoken.fandom.com/wiki/Corporal_Austin
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Military personnel of The Central Authority]
@@ -30,7 +30,7 @@ Corporal Austin is located inside The Three Cheers, sitting at a table across [P
 
 ## Dialogue
 
-**Good/Neutral Reputation:**
+**Neutral Reputation:**
 
 <table>
 <tbody>

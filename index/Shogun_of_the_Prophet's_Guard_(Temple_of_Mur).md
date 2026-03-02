@@ -1,6 +1,6 @@
 ---
 title: "Shogun of the Prophet's Guard (Temple of Mur)"
-revid: 199311
+revid: 199488
 source: https://deepwoken.fandom.com/wiki/Shogun_of_the_Prophet's_Guard_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Individuals with He/him pronouns, Enemies, Etrea Enemies]
@@ -71,6 +71,12 @@ His attire consists of a [Blackleaf Helm](Blackleaf_Helm.md) that is combined wi
 (★☆☆)
 
  | The Shogun highlights Green, leaping backwards a fair distance before slashing twice in opposing directions, moving them towards the player.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#green)
+
+Parry
 
  | 
 

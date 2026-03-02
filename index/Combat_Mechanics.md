@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 199417
+revid: 199520
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -379,12 +379,13 @@ Not all unblockable attacks have this indicator.
 
 **Monster Attacks**
 
+-   [Nautilodaunt Officiate](Nautilodaunt_Officiate.md): High Drop-Kick (White)
 -   [Stonespark](Stonespark.md): Heavy Punch (White)
 
 **Boss Attacks**
 
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Aero Spear (White)
--   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Serpent-Slaying Sweep
+-   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Serpent-Slaying Sweep (White)
 
  |
 | 
@@ -479,11 +480,13 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 -   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   [Deep Widow](Deep_Widow.md): Deep Webbing
 -   [Golem Prime](Golem_Prime.md): Laser Barrage
+-   [Hive Construct](Hive_Construct.md) (all variants): Swing
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
 -   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
 -   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite, Tacet Hug
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
+-   [Fury Nautilodaunt](Fury_Nautilodaunt.md) (all variants): Electro Stomp
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
 -   [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>): Severing Flourish
 
@@ -516,6 +519,7 @@ Some Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Bonekeeper](Bone_Keeper.md): Leap, Bone Spikes
 -   [Bounder](Bounder.md): Leap
 -   [King Thresher](King_Thresher.md): Body Slam
+-   [Nautilodaunt](Nautilodaunt.md) (all variants): Drop-Kick
 
 **Boss Attacks**
 
@@ -541,6 +545,7 @@ Attacks with this indicator must be parried. They will guardbreak if blocked.
 
 **Monster Attacks**
 
+-   [Nautilodaunt Officiate](Nautilodaunt_Officiate.md): Combo Slam
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Quad Slash
 
 **Boss Attacks**
@@ -623,6 +628,10 @@ Some of these attacks have unique mechanics regarding how/if they can be avoided
 **Player Attacks**
 
 -   [Judgement](Oath%253A_Contractor.md#judgement) suspended hit
+
+**Monster Attacks**
+
+-   [Nautilodaunt Officiate](Nautilodaunt_Officiate.md): Furious Stomp
 
 **Boss Attacks**
 

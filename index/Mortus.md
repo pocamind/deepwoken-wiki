@@ -1,9 +1,11 @@
 ---
 title: Mortus
-revid: 192248
+revid: 199502
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns]
+categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Mortus
@@ -27,19 +29,15 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Mortus is a [Capra](Capra.md) NPC.
 
-He has gray hair and wears the [Corsair Outlaw](Corsair_Outlaw.md) Outfit.
+Mortus is capable of crafting [Monster Bait](Monster_Bait.md), and giving out the recipes for it to the player. The bait requires two of the respective drops from the monsters. These monsters are:
 
-Mortus is capable of crafting [Monster Bait](Monster_Bait.md), and giving out the recipes for it to the player. These monsters are:
-
--   [Megalodaunt](Megalodaunt.md)
--   [Thresher](Thresher.md)
--   [Terrapod](Terrapod.md)
-
-To obtain the recipes for the bait, you must bring two (2) [Megalodaunt Hides](Megalodaunt_Hide.md)/[Thresher Spines](Thresher_Spine.md) or three (3) [Strange Claws](Strange_Claw.md).
+-   [Megalodaunt](Megalodaunt.md): [Megalodaunt Hides](Megalodaunt_Hide.md)
+-   [Thresher](Thresher.md): [Thresher Spines](Thresher_Spine.md)
+-   [Terrapod](Terrapod.md): [Strange Claws](Strange_Claw.md)
 
 ## Location
 
-He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Erisia.md).
+Mortus is located in a fishing hut, on a rocky island in the ocean near [Lower Erisia](Lower_Erisia.md).
 
 ## Dialogue
 
@@ -81,7 +79,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
 <tr>
   <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>toughest hides</b> and it might jog me memory...</td>
   <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>gorey spines</b> and it might jog me memory...</td>
-  <td colspan="4">Ah... 2 of their <b>weirdly claws</b> might jog me memory...</td>
+  <td colspan="4">Mm... Having trouble rememberin', I am. Bring me 2 of their <b>weirdly claws</b> and it might jog me memory...</td>
 </tr>
 <tr>
   <td colspan="12">Here they are.</td>
@@ -122,7 +120,7 @@ He is located in a fishing hut, on a rocky island near [Lower Erisia](Lower_Eris
   <td>Fish got 'er. Were like one of them octopuses or summin'. We was tryin' to lure it to land to catch it. Caught us instead. We don't fish for them octopuses no more.</td>
 </tr>
 <tr>
-  <td>[See first instance on First Encounter]</td>
+  <td>[See first instance]</td>
   <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 ---
 title: Rogue Construct
-revid: 191604
+revid: 199518
 source: https://deepwoken.fandom.com/wiki/Rogue_Construct
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -47,6 +47,12 @@ Rogue Constructs can only spawn on the ice lake on top of [Minityrsa](Minityrsa.
  | The Construct uncoils its arms and swings them upwards.
 
 -   Flings and ragdolls player.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 

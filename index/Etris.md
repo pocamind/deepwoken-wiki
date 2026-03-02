@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 199398
+revid: 199528
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -75,6 +75,7 @@ Etris is the capital of the Kingdom of [Etrea](Etrea.md), being on top of a tall
     -   [Skeptic Pioneer](Skeptic_Pioneer.md) for 45.
     -   [Shadow Hunter](Shadow_Hunter.md) for 50.
     -   [Experienced Adventurer](Experienced_Adventurer.md) for 80.
+    -   [Pathfinder Arch-Sorcerer](Pathfinder_Arch-Sorcerer.md) for 45.
 
 ### Odiolavoro's Food
 

@@ -1,11 +1,9 @@
 ---
 title: Vesna
-revid: 195901
+revid: 199526
 source: https://deepwoken.fandom.com/wiki/Vesna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, Vendors, NPCs]
 ---
 
 # Vesna
@@ -53,32 +51,37 @@ Vesna's Wares
 <table>
 <tbody>
 <tr>
-  <td colspan="4">Begin Dialogue</td>
+  <td colspan="6">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="4">hey... no offence, but. you look like you could use a makeover...... if you give me a few notes, i could help you get... fancy. elegant gothic, like me......<br>
+  <td colspan="6">hey... no offence, but. you look like you could use a makeover...... if you give me a few notes, i could help you get... fancy. elegant gothic, like me......<br>
   [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
   <td colspan="2">[Purchased Something]</td>
+  <td colspan="2">[Player has dyed equipment]</td>
   <td colspan="2">Your fashion sense is...</td>
 </tr>
 <tr>
   <td colspan="2">very good...... now you can be fancy... elegant gothic, like me......</td>
+  <td colspan="2">restoring your outfit to original colours?..... heh...... planning to sell?.. i might be buying, if the brands are original......</td>
   <td colspan="2">?..... <i>*Their mask, doused heavily in eye shadow and mascara, glimmers in the light reflected from their conspicuously luminous crown. They hang onto your every word, swaying like a leaf in Ardfall - as though the slightest gust of wind could blow them away.*</i></td>
 </tr>
 <tr>
   <td colspan="2">Your fashion sense is...</td>
+  <td colspan="2">[Player selects an equipment]</td>
   <td>Marvellous. Brilliant. Elegant, like a shadow in the moonlight.</td>
   <td>Terrible. Over the top. Like a frumpy lace monster.</td>
 </tr>
 <tr>
   <td colspan="2">[See first instance]</td>
+  <td colspan="2">not quite as elegant gothic anymore...... but that's okay. i guess...</td>
   <td><i>*It's hard to tell, but you're certain they smile under their mask. Blush, even? Their voice trembles slightly.*</i> ,,,,,,,,,i am. elegant,,, thank you,,,,,, no discounts thought. these dyes are an original brand......</td>
   <td>I've killed for less than that, poser.</td>
 </tr>
 <tr>
   <td colspan="2"></td>
+  <td colspan="2">[End Dialogue], equipment dye is removed</td>
   <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>

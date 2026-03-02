@@ -1,6 +1,6 @@
 ---
 title: Nautilodaunt Officiate
-revid: 196384
+revid: 199489
 source: https://deepwoken.fandom.com/wiki/Nautilodaunt_Officiate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with reason, InProgressPages, Monsters, The Depths]
@@ -74,6 +74,12 @@ They have the body shape and fighting style of a [Nautilodaunt](Nautilodaunt.md)
 
  | Starts similarly to **Flip Kick**, but is instead done in place and the Nautilodaunt Officiate jumps much higher, as well as being only dodgeable.
 
+_Uses Telegraph_
+
+[GuardbreakTelegraph](Combat_Mechanics.md#circle)
+
+Guardbreak
+
  | 
 
  |
@@ -121,6 +127,12 @@ Dodge
 
 -   This attack can be avoided by rolling to the side as it cannot change directions when using this attack.
 
+_Uses Telegraph_
+
+[JumpTelegraph](Combat_Mechanics.md#white)
+
+Jump
+
  | 
 
  |
@@ -133,7 +145,13 @@ Dodge
 
 -   The two punches before the slam come out relatively fast, but do not do too much damage, most of the damage comes from the following slam.
 -   It can move while using this move, often causing it to miss the slam entirely as it keeps walking past you.
--   It will gain its **White** highlight on the second punch.
+-   It will gain its green indicator on the last attack of the sequence.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#green)
+
+Parry
 
  | 
 
