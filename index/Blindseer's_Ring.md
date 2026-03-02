@@ -1,9 +1,9 @@
 ---
 title: "Blindseer's Ring"
-revid: 198856
+revid: 199479
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings]
+categories: [Vow of Iron Exclusive, Equipment, Rings]
 ---
 
 # Blindseer's Ring
@@ -23,12 +23,14 @@ categories: [Equipment, Rings]
 | obtainment | Pathfinder: Crafting 1 Transfusion Ring + 1 Trickster Dust in the Lost ForgeVow of Iron: Sitting on top of the Eastern Interstitial Lighthouse |
 | description | Increase all healing you receive by 20-33%. Reduce all damage you deal by 15%. |
 
+**[Vow of Iron](Vow_of_Iron.md) Exclusive**  
+This page describes content that is exclusive to the **Vow of Iron** gamemode.  
+This content is not accessible outside of this gamemode.
+
 ## Description
 
 The **Blindseer's Ring** is a ring [Equipment](Equipment.md) item that reduces your outgoing damage by 15%, but increases all incoming healing you receive by 20-33%.
 
 ## Trivia
-
-**Vow of Iron exclusive:**
 
 -   Ring location on the map alongside a closeup

@@ -1,6 +1,6 @@
 ---
 title: Gale Essence
-revid: 198720
+revid: 199484
 source: https://deepwoken.fandom.com/wiki/Gale_Essence
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Ingredients]
@@ -40,9 +40,5 @@ Gale Monastery Cowl = [Bluster Enchant Stone](Bluster.md) + 1 **Gale Essence** +
 [Gale Enhanced Beads](Gale_Enhanced_Beads.md) = [Windswept Enchant Stone](Windswept.md) + 1 **Gale Essence** + [Monastery Beads](Monastery_Beads.md) at [Lost Forge](Lost_Forge_of_Leiuna.md)
 
 [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)\= [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) + 1 **Gale Essence** + 5 [Gale Stone](Gale_Stone.md)
-
-??? = 1 **Gale Essence** + ???
-
-??? = 2 **Gale Essence** + ???
 
 999x [Gale Bullets](Bullet_Casings.md#gale) = 1 [Bullet](Bullet_Casings.md) + 1 **Gale Essence** at [Lost Forge](Lost_Forge_of_Leiuna.md)
