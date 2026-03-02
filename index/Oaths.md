@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 194452
+revid: 199426
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -246,7 +246,6 @@ Proof of Time Magic's existence and it being an "Oath"
     -   This was confirmed on March 21st, 2025 when Deepwoken Content Creator Always\_Afk released his Oathbreaker Abridged video.
 -   There is a common misconception that being a Pathfinder and having an Oath are mutually exclusive. This is not true. A Pathfinder is merely treated as being without an Oath for gameplay purposes, as _[Oathless](Oath%253A_Oathless.md)_ cannot be used as a term given it is an actual Oath.
     -   Probably because "Person without an Oath" would be too long to fit onto a Wanted Poster.
--   All Oaths have a [Talent](Talents.md) category, and thus all have a line associated with the [Mystics](Mystic.md), even if this cannot be used, much like Rare and Innate Talents.
 -   All Oaths (except for [Contractor](Oath%253A_Contractor.md)) are compound words. (ex. Silent/Heart)
 -   Almost all Oath Mantras can be modified with [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers).
     -   However, no Oath Mantras can be leveled up beyond level 1.

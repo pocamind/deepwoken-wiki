@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 199261
+revid: 199461
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -33,7 +33,7 @@ According to [Yamaketzal](Yamaketzal.md), he is an amalgamation of souls dredged
 1.  Find the [Boatman's Watch](<Boatman's_Watch.md>), and within the middle, find the ritual circle.
 2.  Make sure there is a white ring at the middle of the inner circle, indicating that he is spawnable. There is a 15 second cooldown between summons.
 3.  Place a campfire on each circle outside the center, (up to a total of **4** campfires).
-4.  Light 1-4 of the campfires. These campfires must be freshly placed; any campfires previously used by others to spawn The Ferryman will not work for a second ritual. **You can dispose of any said previously used campfires by hitting them once.**
+4.  Light 1-4 of the campfires. Campfires already placed can be relit to initiate the ritual.
 5.  A ring akin to [Teleportation Resonance](Teleportation.md) will appear, teleporting any players within to an instanced version of [Boatman's Watch](<Boatman's_Watch.md>) after a short delay.
     -   Being combat tagged will prevent you from being teleported.
 6.  The Ferryman will spawn in the middle. Talk with him and initiate the wager by completing his dialogue, if at any point you wish to back-out before fighting him, you may.

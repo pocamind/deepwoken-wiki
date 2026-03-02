@@ -1,6 +1,6 @@
 ---
 title: Bloodless Gem
-revid: 199209
+revid: 199464
 source: https://deepwoken.fandom.com/wiki/Bloodless_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems]
@@ -33,19 +33,24 @@ This has a healing cap of 15 health. Reaching this cap will put Bloodless Gem on
 
 ### Notes
 
--   This Gem is best used on high damage Mantras, especially those that hit multiple times.
+-   This Gem is best used on high damage Mantras, especially those that hit multiple times or can hit multiple opponents at once.
+-   The formula for Bloodless Gem's healing is as follows:  
+    S c a l e d D a m a g e × 0.3 {\\displaystyle ScaledDamage\\times 0.3} {\\displaystyle ScaledDamage\\times 0.3}
+    -   Notably, the healing formula is based on your damage **before** Bloodless Gem's reduced damage effect is applied.
+    -   Although the description states "unscaled damage," it actually means damage before modifiers and resistances are applied, **not** base damage.
+-   The heal cap of 15 will be reached once you deal 50 scaled damage.
+-   While Bloodless Gems are on cooldown, your Mantra's damage will be restored to normal and the healing will be disabled.
 -   If you have the Brain [Food Buff](Status_Effects.md#food-buff) from the [Grilled Parasol Brain](Grilled_Parasol_Brain.md), Bloodless Gem's healing cap will be increased from 15 to 20.
--   Although the description states "unscaled damage," it really just means damage before damage modifiers are applied.
--   The heal cap will be hit once you deal 50 scaled damage.
-    -   The heal cap with the Brain [Food Buff](Status_Effects.md#food-buff) will be hit once you reach 66.7 scaled damage.
--   The healing is based on scaled damage dealt **before** Bloodless Gem's reduced damage comes into effect.
--   When Bloodless Gem is on cooldown, your Mantra's damage will return to normal as well as the healing being disabled.
--   Bloodless Gem's healing cap can be increased to 30 if you are using [The No-Life King's Crown](<The_No-Life_King's_Crown.md>), but this also reduces rhe amount of healing you get from Bloodless Gems by 33%.
-    -   With this equipment you will need a scaled damage of 75 or higher to heal for more than 15 health, and a scaled damage of 150 to heal 30 health.
+    -   You will need to deal at least 66.7 scaled damage to hit this heal cap.
+-   [The No-Life King's Crown](<The_No-Life_King's_Crown.md>) increases the healing cap of Bloodless Gems to 30, at the cost of reducing the healing received from Bloodless Gems by 33%.
+    -   This changes the Bloodless Gem healing formula to:  
+        S c a l e d D a m a g e × 0.67 × 0.3 {\\displaystyle ScaledDamage\\times 0.67\\times 0.3} {\\displaystyle ScaledDamage\\times 0.67\\times 0.3}
+    -   With this equipment, you will need to have a scaled damage of 76 or higher to heal more than 15 heath, and a scaled damage of 150 to reach the 30 heal cap.
+    -   When paired with the Brain Food Buff, you will need to have a scaled damage of 175 to heal 35 health from Bloodless Gems.
 -   The Bloodless Gem effect can be enhanced with the Bloodcurdle Equipment Set, granting [Temporary Health](Status_Effects.md#temporary-health) when you proc the Gem.
 
 ## Crafting
 
-This Gem can also be used to craft a variety of items.
+This Gem can also be used as a crafting component for various items.
 
 -   [Outfits](Outfits.md): [Arachnid's Weave](<Arachnid's_Weave.md>), [Celtorian Tideknight](Celtorian_Tideknight.md), [Familiar Occultist's Armor](<Familiar_Occultist's_Armor.md>), [Prophet's Cloak](<Prophet's_Cloak.md>), [Sanguine Finery](Sanguine_Finery.md), [Summer Dragoon](Summer_Dragoon.md), and [Titanslayer's Adornment](<Titanslayer's_Adornment.md>).

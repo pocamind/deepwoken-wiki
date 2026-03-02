@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 199224
+revid: 199470
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Deepwoken]
@@ -63,7 +63,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 29 | [The Final Seal (Interlude)](https://soundcloud.com/naktigonis/the-final-seal-interlude) | 1:36 | N/A (A sequence depicting an escape from Scyphozia) |  |
 | 30 | [Lacrimosa Dies Illa](https://soundcloud.com/naktigonis/lacrimosa-dies-illa) | 2:08 | [The Depths](The_Depths.md) (Combat) |  |
 | 31 | [Ascension (Interlude)](https://soundcloud.com/naktigonis/ascension-interlude) | 0:16 | [Cathedral of the Interstice](Cathedral_of_the_Interstice.md) (Trial Completion) |  |
-| 32 | [The End.](https://soundcloud.com/naktigonis/the-end) | 3:12 | [Fragments of Self](Fragments_of_Self.md) |  |
+| 32 | [The End.](https://soundcloud.com/naktigonis/the-end) | 3:12 | [Fragments of Self](Fragments_of_Self.md) and inside a [Void Spire](Void_Spire.md) |  |
 | 33 | [On The Shoulder Of Giants](https://soundcloud.com/naktigonis/on-the-shoulders-of-giants) | 5:24 | N/A (Celebrating Deepwoken's public release) |  |
 | 34 | [A Memory of Tides (Bonus Track)](https://soundcloud.com/naktigonis/a-memory-of-tides) | 1:13 | [Greathive Aratel](Greathive_Aratel.md) (Hidden Phonograph) |  |
 | 35 | [Masters of the House](https://soundcloud.com/naktigonis/masters-of-the-house) | 2:06 | N/A (Cut track for [Corvus Manor](Corvus_Manor.md)) |  |

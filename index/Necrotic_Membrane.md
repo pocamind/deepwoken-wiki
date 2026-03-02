@@ -1,6 +1,6 @@
 ---
 title: Necrotic Membrane
-revid: 198340
+revid: 199466
 source: https://deepwoken.fandom.com/wiki/Necrotic_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Items, Ingredients]
@@ -30,5 +30,6 @@ The **Necrotic Membrane** is a twisted version of the [Parasol Membrane](Parasol
 
 The Necrotic Membrane can be crafted into an item with the [Lost Forge](Lost_Forge_of_Leiuna.md) found at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
 
-1.  [Necrotic Demon Horns](Necrotic_Demon_Horns.md): [Aazel's Horns](<Aazel's_Horns.md>) + 1x Necrotic Membrane
-2.  [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + 1x Necrotic Membrane
+1.  [Necrotic Demon Horns](Necrotic_Demon_Horns.md): [Aazel's Horns](<Aazel's_Horns.md>) + Necrotic Membrane
+2.  [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + Necrotic Membrane
+3.  [Transfusion Ring](Transfusion_Ring.md): Necrotic Membrane + [Ring of Pestilence](Ring_of_Pestilence.md) + [Trickster Dust](Trickster_Dust.md)

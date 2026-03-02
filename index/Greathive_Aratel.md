@@ -1,6 +1,6 @@
 ---
 title: Greathive Aratel
-revid: 194361
+revid: 199430
 source: https://deepwoken.fandom.com/wiki/Greathive_Aratel
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Hive]
@@ -70,7 +70,6 @@ Fountain in the Hidden Village
 
 -   [Gear Cabinet](Training_Gear.md) to buy training equipment.
 -   There is a [Mantra Table](Mantra_Lectern.md) near the entrance.
--   The [Mystic](Mystic.md) is here, going left past the training gears will take you there.
 
 ### Root Plaza
 
@@ -82,7 +81,7 @@ Fountain in the Hidden Village
 
 #### Archive
 
--   Physical Mantra Trainer [Regek](Regek.md).
+-   Attunementless Mantra Trainer [Regek](Regek.md).
 -   A [Barber](Barber.md) at the balcony.
 
 #### Antiquarian

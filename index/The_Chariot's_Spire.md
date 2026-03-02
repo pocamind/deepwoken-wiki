@@ -1,6 +1,6 @@
 ---
 title: "The Chariot's Spire"
-revid: 195217
+revid: 199440
 source: https://deepwoken.fandom.com/wiki/The_Chariot's_Spire
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Territory of The Ignition Union, Lawless Territory]
@@ -29,7 +29,6 @@ The entrance to The Chariot's Spire contains a large gate, with a barrier simila
 ### Vendors and Notable NPCs
 
 -   [Antiquarian](Antiquarian.md) below Gamma's office
--   [Mystic](Mystic.md) next to the bridge to the Deepdriller.
 -   [Banker](Banker.md) in Gamma's Office
 -   [Deepdelver Gamma](Deepdelver_Gamma.md)
 -   [Deepdelver Myra](Deepdelver_Myra.md)

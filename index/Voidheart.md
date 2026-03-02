@@ -1,6 +1,6 @@
 ---
 title: Voidheart
-revid: 194354
+revid: 199428
 source: https://deepwoken.fandom.com/wiki/Voidheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Lawless Territory, The Knives of Eylis]
@@ -30,7 +30,6 @@ Only players who have selected the [Voidwalker](Voidwalker.md) Origin can access
     -   It is usually always full (especially on larger servers) as very few players have positive / neutral [reputation](Reputation.md) with every required faction.
     -   Players don't show up on the bounty board if they are neutral or allied to all the following factions: [Etrea](Etrea.md), [The Hive](The_Hive.md), [The Ignition Union](The_Ignition_Union.md), [The Summer Company](The_Summer_Company.md), [The Central Authority](The_Central_Authority.md), [The Divers](The_Divers.md), and most importantly [The Knives of Eylis](The_Knives_of_Eylis.md).
 -   [Raen](Raen.md), who guides the player through their first step as a voidwalker.
--   [Dusklit Garden](Dusklit_Garden.md)
 -   A [Chessboard](Chessboard.md)
     
     Voidheart chessboard
@@ -42,8 +41,8 @@ Only players who have selected the [Voidwalker](Voidwalker.md) Origin can access
 -   [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md)
     -   Leader of the Knives of Eylis, she explains the role the voidwalkers, her relationship with the Voidmother and lets the player join the Knives of Eylis guild.
 -   [Antiquarian](Antiquarian.md), as well as General/Mantra Shop items
--   [Mystic](Mystic.md)
 -   A Table, which acts as a campfire.
+-   [Rook Rethige](Rook_Rethige.md), who can sell [Whaling Knifes](Whaling_Knife.md).
 -   A [Banker](Banker.md)
 
 ## Maps
@@ -61,4 +60,4 @@ A map can be found at [Maps#Voidheart (Dreamspace)](Maps.md#voidheart-dreamspace
     -   The chess board is 100% accurate to real [chess](Chessboard.md), it's just that the pieces have been replaced by Deepwoken monsters.
 -   It is very common to get attacked in the Voidheart, even though it is seen as dishonorable to do so.
     -   There used to be guards within the Voidheart that would teleport in when a player was attacked. They were very buggy however, causing a memory leak/server crash that resulted in them getting removed.
--   There used to be an area past the little shopping district Voidheart has that contained the [Dusklit Garden](Dusklit_Garden.md), however it has since been removed.
+-   There used to be an area dislocated from the rest of the Voidheart called the \[Dusklit Garden\]\]. It used to be where the Blacksmith resides but it has now since been removed.

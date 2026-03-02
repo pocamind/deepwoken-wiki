@@ -1,6 +1,6 @@
 ---
 title: The Weaving Web
-revid: 183844
+revid: 199473
 source: https://deepwoken.fandom.com/wiki/The_Weaving_Web
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Spears, Weapons with Unique Criticals, Weapons with Unique Animations, "Core-Attribute based weapons", Event Item, Hallowtide, Medium Weapons]
@@ -42,7 +42,7 @@ Like all other Hallowtide exclusive weapons, it cannot be dropped to other playe
 
 The user firmly smacks the staff to the ground, summoning a spiderling that assists them in the fight for about 20 seconds. The spiderling can use all of the [Deep Widow](Deep_Widow.md)'s attacks asides from Deep Webbing. The swipe deals 35 damage and the bite deals 40 damage. The spiderling has 1000 HP and ~40% physical resistance.
 
-The critical has a cooldown of **45 seconds**.
+The critical has a cooldown of **60 seconds**.
 
 ### Notes
 

@@ -1,6 +1,6 @@
 ---
 title: Water Well
-revid: 167561
+revid: 199453
 source: https://deepwoken.fandom.com/wiki/Water_Well
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -28,7 +28,7 @@ The water wells in [Etris](Etris.md) is located next to Guild house, between [Et
 
 **Voidheart:**
 
-The water well in the [Voidheart](Voidheart.md) is located next to the [Mystic](Mystic.md) and [Blacksmith](Blacksmith.md).
+The water well in the [Voidheart](Voidheart.md) is located next to the [Blacksmith](Blacksmith.md).
 
 -   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Voidwalker.md).
 

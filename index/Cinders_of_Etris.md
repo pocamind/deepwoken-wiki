@@ -1,6 +1,6 @@
 ---
 title: Cinders of Etris
-revid: 198774
+revid: 199444
 source: https://deepwoken.fandom.com/wiki/Cinders_of_Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Etrea, Disaster]

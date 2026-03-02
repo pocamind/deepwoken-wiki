@@ -1,6 +1,6 @@
 ---
 title: Cauldron
-revid: 198965
+revid: 199450
 source: https://deepwoken.fandom.com/wiki/Cauldron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Utilities]
@@ -35,45 +35,25 @@ The cauldron in [Guild Bases](Guild_Bases.md) can be found in the purchasable La
 
 **Voidheart:**
 
-The cauldron in the [Voidheart](Voidheart.md) is located next to the [Mystic](Mystic.md).
+The cauldron in the [Voidheart](Voidheart.md) is located near the [Antiquarian](Antiquarian.md).
 
 -   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Voidwalker.md).
 
 **Eastern Luminant:**
 
-**Summer Isle:**
+**Summer Isle:** The cauldron on [Summer Isle](Summer_Isle.md) is located on the second floor of the castle, in [Funke](Funke,_Master_of_Thunder.md)'s room.
 
-The cauldron on [Summer Isle](Summer_Isle.md) is located on the second floor of the castle, in [Funke](Funke,_Master_of_Thunder.md)'s room.
+**Miner's Landing:** There are two cauldrons at [Miner's Landing](<Miner's_Landing.md>), one can be found in [Adar](Adar,_Master_of_Metal.md)'s laboratory, within the bridge tower, and the other can be found near the peak of the mountain, inside the small building by the [Mantra Collector](Mantra_Collector.md)
 
-**Miner's Landing:**
+**Meteor Isle:** The cauldron on [Meteor Isle](Meteor_Isle.md) can be found in the house directly behind Sekh.
 
-There are two cauldrons at [Miner's Landing](<Miner's_Landing.md>), one can be found in [Adar](Adar,_Master_of_Metal.md)'s laboratory, within the bridge tower, and the other can be found near the peak of the mountain, inside the small building by the [Mantra Collector](Mantra_Collector.md)
+**Fort Merit:** The cauldron at [Fort Merit](Fort_Merit.md) can be found in a house at the top of the stairs that begin at the prison entrance.
 
-**Meteor Isle:**
+**Greathive Aratel:** The cauldron at [Greathive Aratel](Greathive_Aratel.md) is located in the Archives room of Root Plaza, next to [Regek](Attunement_Trainers.md).
 
-The cauldron on [Meteor Isle](Meteor_Isle.md) can be found in the house directly behind Sekh.
+**Lightkeeper Temple:** The cauldron at the [Lightkeeper Temple](Lightkeeper_Temple.md) can be found in the second room on the left when entering the King Thresher's room.
 
-**Fort Merit:**
-
-The cauldron at [Fort Merit](Fort_Merit.md) can be found in a house at the top of the stairs that begin at the prison entrance.
-
-**Greathive Aratel:**
-
-The cauldron at [Greathive Aratel](Greathive_Aratel.md) is located in the Archives room of Root Plaza, next to [Regek](Attunement_Trainers.md).
-
-**Lightkeeper Temple:**
-
-The cauldron at the [Lightkeeper Temple](Lightkeeper_Temple.md) can be found in the second room on the left when entering the King Thresher's room.
-
-**Boatman's Watch:**
-
-The cauldron at [Boatman's Watch](<Boatman's_Watch.md>) is located in the hidden library, behind a thin wall in a derelict tower.
-
-**Voidheart:**
-
-The cauldron in the [Voidheart](Voidheart.md) is located next to the [Mystic](Mystic.md).
-
--   The Voidheart can be accessed from both the Etrean and Eastern Luminants by [Voidwalkers](Voidwalker.md).
+**Boatman's Watch:** The cauldron at [Boatman's Watch](<Boatman's_Watch.md>) is located in the hidden library, behind a thin wall in a derelict tower. 
 
 **First Layer:**
 

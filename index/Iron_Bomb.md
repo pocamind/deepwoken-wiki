@@ -1,6 +1,6 @@
 ---
 title: Iron Bomb
-revid: 192766
+revid: 199439
 source: https://deepwoken.fandom.com/wiki/Iron_Bomb
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -76,7 +76,6 @@ You are able to get up to high obstacles by propelling yourself using your bombs
 
 ## Tips
 
--   Getting Family Recipe early on in your progression and using the [Mystic](Mystic.md) will help immensely, as these Talents often have very low weighting.
 -   Just like any other burn source, you can increase the effectiveness of your bomb-applied burn with Talents such as [Azure Flames](Talents.md#azure-flames) or [Corpse Explosion](Talents.md#corpse-explosion).
     -   Your Incendiary Formula bombs will apply Puppet Burn, spawning puppets if you have [Twisted Puppets](Talents.md#wraith-path-twisted-puppets) or create [Eruptions](Talents.md#lava-serpent) if you have Eruption Path.
 -   The [Excavator](Talents.md#excavator) Talent will greatly help with gathering materials for bombs, as it has a chance to double your mining output.

@@ -1,6 +1,6 @@
 ---
 title: Teleportation
-revid: 199345
+revid: 199438
 source: https://deepwoken.fandom.com/wiki/Teleportation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -62,15 +62,15 @@ In the Etrean Luminant, you are given permanent preset waypoints at the followin
 In the Eastern Luminant, you are given permanent preset waypoints at the following locations:
 
 -   [Songseeker Wilds](Songseeker_Wilds.md), near [Yamaketzal](Yamaketzal.md)
--   [Summer Isle](Summer_Isle.md), near the [Mystic](Mystic.md)
+-   [Summer Isle](Summer_Isle.md), near the Docks.
 -   [Miner's Landing](<Miner's_Landing.md>), near the Docks.
--   [Greathive Approach](Greathive_Aratel.md#entrance)
+-   [Greathive Approach](Greathive_Approach.md), the same spot as using the fountain in [The Lordsgrove](The_Lordsgrove.md).
 -   [Fort Merit](Fort_Merit.md), near the [Blacksmith](Blacksmith.md)
--   [Boatman's Watch](<Boatman's_Watch.md>), at the front shore
--   [The Monkey's Paw](<The_Monkey's_Paw.md>), next to the bonfire
--   [The Aratel Sea](The_Aratel_Sea.md), On a rock near Boatman's watch
--   [Port Merit](Port_Merit.md), Next to the shipwright
--   [Saramaed Summit](Saramaed_Summit.md), On a platform above the lava.
+-   [Boatman's Watch](<Boatman's_Watch.md>), at the front shore.
+-   [The Monkey's Paw](<The_Monkey's_Paw.md>), next to the bonfire.
+-   [The Aratel Sea](The_Aratel_Sea.md), on a rock near Boatman's watch.
+-   [Port Merit](Port_Merit.md), next to the shipwright.
+-   [Saramaed Summit](Saramaed_Summit.md), on a platform above the lava.
 
 ### Resonance Points
 

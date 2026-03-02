@@ -1,6 +1,6 @@
 ---
 title: Murmur
-revid: 163551
+revid: 199431
 source: https://deepwoken.fandom.com/wiki/Murmur
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Talents, Character, Mechanics, Murmurs]
@@ -45,4 +45,3 @@ There are currently three Murmurs:
 -   Rhythm used to be obtainable by defeating [The Ferryman](The_Ferryman.md) during spring. This was scrapped in Verse 2.
 -   Murmurs were likely introduced to the world of Deepwoken through the being [Mur of Light](Mur_Of_Light.md).
 -   Tacet is the only murmur to have a corresponding Mantra.
--   Murmur Talent cards can be obtained using the [Mystic](Mystic.md) and selecting "_My soul is an instrument with its own frequency."_

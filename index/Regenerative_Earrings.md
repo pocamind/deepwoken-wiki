@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 198828
+revid: 199407
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -47,6 +47,7 @@ The full Trueblood set talent provides the talent [Critical Heal](Talents.md#cri
 
 -   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
 -   Instant Health potion (any potency, however you have to spam a lot of them as the proc chance is low)
+-   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
 
 ## Crafting
 

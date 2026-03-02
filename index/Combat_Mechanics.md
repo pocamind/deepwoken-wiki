@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 199321
+revid: 199417
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -432,14 +432,12 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 
 **Monster Attacks**
 
--   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (and all other variants with this attack): Tacet Hug, Tacet Drop Kick
 -   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
 -   [Deep Owl](Deep_Owl.md): Overhead Grab
 -   [Deep Widow](Deep_Widow.md): Venomous Bite
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
 -   [Kyrsgarde Brute](Kyrsgarde_Brute.md): Clenching Assault, Slam
--   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite
 -   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Lumbering Thrust
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
 -   [Rock Golem](Rock_Golem.md): Uppercut
@@ -477,12 +475,14 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 
 **Monster Attacks**
 
+-   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (and all other variants with this attack): Tacet Hug, Tacet Drop Kick
 -   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   [Deep Widow](Deep_Widow.md): Deep Webbing
 -   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
 -   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
+-   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite, Tacet Hug
 -   [Nautilodaunt](Nautilodaunt.md) (all variants): Grand Stomp
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
 -   [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>): Severing Flourish

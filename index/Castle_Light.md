@@ -1,6 +1,6 @@
 ---
 title: Castle Light
-revid: 188628
+revid: 199432
 source: https://deepwoken.fandom.com/wiki/Castle_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Divers]
@@ -44,7 +44,7 @@ Main Entrance
 ### The Library
 
 -   Contains a [cauldron](Cauldron.md)
--   The players can find the [Antiquarian](Antiquarian.md), [Mystic](Mystic.md), [Banker](Banker.md) and [Dr. Carrion](Monster_Mantras.md) here.
+-   The players can find the [Antiquarian](Antiquarian.md), [Banker](Banker.md), and [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md) here.
 -   Only [Deepbound](Origins.md) players are able to interact with the Antiquarian and Banker.
 
 An image showcasing the library.
@@ -52,7 +52,6 @@ An image showcasing the library.
 ### The Armory
 
 -   Players can find the Blacksmith here
--   Contains a locker that functions as a campfire without the healing
 
 The Armory.
 
@@ -65,7 +64,6 @@ The Armory.
 -   [Dust](Dust.md)
 -   [Graha](Graha.md)
 -   [Mark Adaset](Mark_Adaset.md)
--   [Mystic](Mystic.md)
 -   [Nyanna](Nyanna.md)
 -   [Akira](Akira.md) (if met in the random encounter)
 -   [Klaris Llfiend, Mother of the Lights](Klaris_Llfiend,_Mother_of_Lights.md)

@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 197557
+revid: 199415
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -50,6 +50,12 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
 -   Commonly avoided by walking or running sideways, as the hitbox has little width.
 -   Animation changes to a "Bite" attack if the Megalodaunt is swimming but still functions the same as a normal kick.
 -   Creates the longest duration in which this beast doesn't attack, letting you freely hit it more than the other attacks allow.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  | 
 

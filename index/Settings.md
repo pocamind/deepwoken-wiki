@@ -1,6 +1,6 @@
 ---
 title: Settings
-revid: 193284
+revid: 199451
 source: https://deepwoken.fandom.com/wiki/Settings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -25,7 +25,7 @@ By clicking the cogwheel icon on the top left of the screen, you can change your
 -   **Crafting Slots On/Off** - "Displays 3 slots for Crafting above your Backpack."
     -   Drag items and materials into the 3 slots to craft from your inventory without Journal recipes.
 -   **Points of Interest On/Off** - "Enables markers in towns for points of interest."
-    -   Displays markers for [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Blacksmith](Blacksmith.md), [Gear Cabinets](Training_Gear.md), Guildhall, [Inn](Inn.md), [Job Boards](Job_Boards.md), [Mystic](Mystic.md), and [Shipwright](Shipwright.md).
+    -   Displays markers for [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Blacksmith](Blacksmith.md), [Gear Cabinets](Training_Gear.md), Guildhall, [Inn](Inn.md), [Job Boards](Job_Boards.md), and [Shipwright](Shipwright.md).
     -   Displays on [Maps](Maps.md) regardless if setting is on or off.
 -   **3D Icon Behavior Always/Hover/Off** - "Sets 3D icon behavior."
     -   Displays items with their 3D models inside of the inventory and hotbar.

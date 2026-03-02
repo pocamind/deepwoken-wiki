@@ -1,6 +1,6 @@
 ---
 title: Fort Merit
-revid: 196198
+revid: 199429
 source: https://deepwoken.fandom.com/wiki/Fort_Merit
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, Territory of The Central Authority]
@@ -81,7 +81,7 @@ Lawless area off the peak of the main territory.
 
 A functional port acting as the town for the island.
 
--   Basic necessities such as the [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Mystic](Mystic.md), [Innkeep](Innkeep.md), and [Shipwright](Ships_&_Sailing.md) can be found here.
+-   Basic necessities such as the [Antiquarian](Antiquarian.md), [Banker](Banker.md), [Innkeep](Innkeep.md), and [Shipwright](Ships_&_Sailing.md) can be found here.
 -   Guarded by [Authority Peacekeepers](Authority_Peacekeeper.md) and an [Authority Lieutenant](Authority_Lieutenant.md).
 
 ### Prison Tower
@@ -123,7 +123,7 @@ Below is a list of NPCs and their uses (that are known) that you can find thorou
 -   [Brutus](Brutus.md)
 -   [Chud Steel](Chud_Steel.md)
 -   [Drill Sergeant Kernel](Drill_Sergeant_Kernel.md)
--   [Guild Clerk](Guilds.md)
+-   [Guild Clerk](Guild_Clerk.md)
 -   [Santen](Santen.md)
 -   [Sentinel Augustus](Sentinel_Augustus.md)
 -   [Viridian](Viridian.md)

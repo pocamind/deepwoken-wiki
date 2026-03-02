@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 198829
+revid: 199408
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -50,6 +50,7 @@ The full Trueblood set talent provides the talent [Critical Heal](Talents.md#cri
 
 -   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
 -   Instant Health potion (any potency, however you have to spam a lot of them as the proc chance is low)
+-   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
 
 ## Crafting
 

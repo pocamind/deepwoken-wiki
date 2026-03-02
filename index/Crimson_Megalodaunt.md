@@ -1,6 +1,6 @@
 ---
 title: Crimson Megalodaunt
-revid: 192049
+revid: 199418
 source: https://deepwoken.fandom.com/wiki/Crimson_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Monsters]
@@ -56,9 +56,9 @@ File:12380435ffcad9ab148cc4efc0d2431d.gif
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  | 
 
@@ -104,9 +104,9 @@ File:B55204dfa9965dc0a031810bc2fd80e9.gif
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  | 
 
@@ -124,9 +124,9 @@ File:45ff19cd1d3ec14a54164a391764943e.gif
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  | 
 

@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 197991
+revid: 199437
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -34,21 +34,21 @@ After the completion of each challenge you gain some experience, but you can onl
 
 ## Challenges
 
-**1st Parry Check:**
+**Parry Check:**
 
   
 **"Under the threat of death are you able to defend yourself?"**
 
 Do not spam F, parry the first stage of orbs like you would any other attack (parrying one parries them all). After getting shot at five times, the next stage of orbs will initiate. When the orbs speed up, speed up how much you're pressing f; when the orbs come nonstop, that is when you can spam F.
 
-**Weakened Megalodaunt:**
+**Megalodaunt:**
 
   
 **"When faced against a terrifying foe, do you cower or rise to face it?"** Fight as if it were a regular [Megalodaunt](Megalodaunt.md), albeit with caution. It has less health, but you are still only level 1.
 
 350 HP. (22 sword hits)
 
-**Weakened Rock Golem:**
+**Rock Golem:**
 
   
 **"Now, an enemy fashioned by the hand of man..."** Fight as if it were a normal [Rock Golem](Rock_Golem.md), albeit with caution. Also note that it WILL use its scream as the Trial is indoors, potentially leading to heavy damage if you get unlucky. Compared to what you've already faced, this is easy. However, do not underestimate this fight, as it is still a challenge, nonetheless.
@@ -62,7 +62,7 @@ Do not spam F, parry the first stage of orbs like you would any other attack (pa
 
 500 HP.
 
-**2 Sworn Angels:**
+**Sworn Angels:**
 
   
 **"You're halfway there. Keep going, lone warrior."** Apply regular humanoid fighting tactics, parry trade and go for Criticals when possible, this can hopefully blockbreak and guarantee a second hit. This also makes it less risky, and a bit safer and more repeatable. If you're able to knock one of the Angels try gripping/repeatedly hitting it since killing one of them will automatically kill the other. Also keep in mind that at least one of the Sworn Angels will always spawn with an Enchanted weapon, which can make this part more daunting if they use something like Deferred or Blazing.
@@ -77,21 +77,21 @@ Do not spam F, parry the first stage of orbs like you would any other attack (pa
 
 Easily the hardest part of the trial. If you can beat this, the rest should be easy.
 
-**Weakened Desert Knight:**
+**Stone Knight:**
 
   
 **"Few have made it this far... Are you what we have been searching for?"** Always roll on the first attack after the previous attack pattern, this is the safest option and can defend against every single attack if you know what you're doing. In the case of the Slash + Slash attack, roll then parry. Avoid the Pillar attack at all costs (via dodging, not too early) as being hit will guarantee an EXTRA hit or a kick. When knocked away by a punt or column punch, if the golem is about to attack you with a slash, **ALWAYS** try to parry upon getup. The golem will hit you twice due to it simultaneously firing a wind blade with its slash, but both are parryable and can be parried in the same frame.
 
 700 HP. Due to their slash resistance, expect to hit them about 40 times with a sword or battle axe, or 80 times with a stilleto. (45 - 50 hits with sword)
 
-**2nd Parry Check:**
+**Parry Check:**
 
   
 **"On your toes, lone warrior."** See the first parry check. Note that the orbs will start at the same speed as the third "stage" or "Spam Parry" stage of the first parry check.
 
 For this stage, just mash F once you see the first orb come towards you.
 
-**Weakened Alpha Megalodaunt + Parry Checks:**
+**Alpha Megalodaunt + Parry Check:**
 
   
 **"You stand before the ultimate trial. Push forward, lone warrior."** Play with your concentration focused on both the orb turrets and the monster's leg, The Megalodaunt will take less hits to kill than its normal variant due to some balancing but if you mess up, you will be taking more dangerous amounts of damage. Also note its use of Tacet (invisibility) in addition to the typical moveset. The orbs deal no posture damage in this trial.
@@ -104,10 +104,10 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 
 ### Rewards
 
--   Finishing the Trial of One as any Origin, other than [Lone Warrior](Lone_Warrior.md), will grant 15 full training points, which is enough to level you up to Power 2.
+-   Finishing the Trial of One as any Origin awards you 30 Full Investment points. The only exception is, if you happen to be power 8 inside the trial before its completion. In that case, the trial will refuse to give you the points. This is possible by using Books to uncap EXP during the Investment point phase between Sharko and Golem, then manually powering up with Training Gear.
 -   Finishing the Trial of One as [Lone Warrior](Lone_Warrior.md) grants you the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent.
 -   The [Lone Warrior](Lone_Warrior.md) Origin after defeating the Thresher OR alternatively, wiping once.
--   Finishing the Trial of One in Vow of Iron awards nothing, unless it is a designated Side Task, in that case the player will earn 5000 Notes
+-   Finishing the Trial of One in Vow of Iron awards nothing, unless it is a designated Side Task, in that case the player will earn 5000-10000 Notes (Needs testing)
 
 ### Death
 
@@ -121,7 +121,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   All monsters fought in the trials will have their HP greatly reduced so that they can be defeated in a decent amount of time at Power 1.
 -   Any mob can spawn Attuned. This can catch even the best of players off-guard and they might die to an unexpected [Thunderstruck](Monsters.md#attuned-monsters) or [Flamewreathed](Monsters.md#attuned-monsters) Enforcer.
     -   If you are playing [attunement-less](Attunement-less.md) and encounter a [Shadowmeld](Monsters.md#attuned-monsters) version of any monster, play it safe, as they will effectively have double health, due to their 50% Physical Resistance.
--   If you are using the [Lone Warrior](Lone_Warrior.md) Origin, you may use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) inside the Trial. The Shrine of Solitude acts as a free [Mystic](Mystic.md), allowing you to heavily influence the chances of you getting the Mantra cards you want.
+-   If you are using the [Lone Warrior](Lone_Warrior.md) Origin, you may use the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md) inside the Trial.
 -   It is best to prepare yourself, as you will have to do all mobs in one sitting (except for the initial parry challenge and the Megalodaunt)
 -   Once one of the [Sworn Angels](Sworn_Angel.md) dies, the other will die shortly after. It is highly recommended to attack the knocked body of one Angel while defending yourself against the other to execute the knocked Angel and clear this challenge faster.
 -   Two [Training Gear Cabinets](Training_Gear.md) can be found in the Trial of One [Dungeon](Dungeons.md), with one next to the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md), and the other in the corridor of the arena entrance. Training Gear can be purchased and used either pre or post-Trial to speed up the transition to conventional progression.

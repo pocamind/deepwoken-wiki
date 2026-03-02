@@ -1,6 +1,6 @@
 ---
 title: Nightmare Thresher
-revid: 196289
+revid: 199409
 source: https://deepwoken.fandom.com/wiki/Nightmare_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -55,9 +55,9 @@ Nightmare Threshers are a special variant of [Thresher](Thresher.md) that spawn 
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 | 

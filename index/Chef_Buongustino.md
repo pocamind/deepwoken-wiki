@@ -1,6 +1,6 @@
 ---
 title: Chef Buongustino
-revid: 191361
+revid: 199465
 source: https://deepwoken.fandom.com/wiki/Chef_Buongustino
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, Pages with broken file links, NPCs, Vendors, Quests]
@@ -30,11 +30,7 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 Chef Buongustino is a [Felinor](Felinor.md) NPC. He is one of the most brilliant culinary minds in the Eastern Luminant. Buongustino requests help from the player to be their sous-chef, by making orders and providing the recipes to cook the [Food](Food.md). After obtaining the requested food and showing it to Buongustino, he'll take it in exchange for some [Notes](Notes.md) and a small chest. After making an order, there is a small period of downtime until a new order comes in.
 
-## Location
-
-Chef Buongustino is located near the docks of the [Isle of Vigils](Isle_of_Vigils.md). His stand near the stairs approaching the temple.
-
-## Possible Orders
+The orders are as follows:
 
 | Visual | Recipe | Ingredients | Campfire Required? |
 | --- | --- | --- | --- |
@@ -103,7 +99,7 @@ File:Mushroom omlette.jpg
 
 File:UllaGlazedFish.png
 
- | Glazed Fish | 1x Fish Meat, 1x Sap | ◯ |
+ | Glazed Fish | 1x Fish Meat + 1x Sap | ◯ |
 | 
 
 File:UllaOmelette.png
@@ -119,29 +115,23 @@ File:UllaOmelette.png
 
 File:UllaFriedEgg.png
 
- | Cooked Egg | 1 Egg | ◯ |
+ | Cooked Egg | 1x Egg | ◯ |
 | 
 
- | Seafood Boil | 1 Squid, 1 Fish Meat, 1 Crustacean Meat | ◯ |
+ | Seafood Boil | 1x Squid + 1x Fish Meat + 1x Crustacean Meat | ◯ |
 | 
 
- | Kyrsdog | 1x Bread + 1x Frozen Membrane + 1x Ongo | ✗ |
+ | Crab Stuffed Browncaps | 3x Browncaps + 2x Crustacean Meat + 1x Cheese | ◯ |
 | 
 
- | Primal Cutlet | 1x Primal Slab | ◯ |
+ | Seafood Surprise | 1x Squid + 1x Fish Meat + 1x Urchin/1x Crustacean Meat | ◯ |
 | 
 
-File:Dread Fillet Witherald.png
+ | Scholar's Brew | 1x Any Mantra Modifier + 1x Any Mushroom | ◯ |
 
- | Dread Fillet | 1x Dread Flesh | ◯ |
-| 
+## Location
 
- | Heavy Steak | 1x Raw Heavy Meat | ◯ |
-| 
-
-File:Grilled Parasol Brain Witherald.png
-
- | Grilled Parasol Brain | 1x Raw Parasol Brain | ◯ |
+Chef Buongustino is located near the docks of the [Isle of Vigils](Isle_of_Vigils.md). His stand near the stairs approaching the temple.
 
 ## Dialogue
 

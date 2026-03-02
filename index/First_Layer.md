@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 198952
+revid: 199435
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -32,12 +32,12 @@ The **First Layer** of [The Depths](The_Depths.md), also known as **Scyphozia,**
 -   [Castle Light](Castle_Light.md)
     -   [Light's Causeway](<Light's_Causeway.md>)
     -   Important NPCs:
-        -   Various town-NPCs [Banker](Banker.md), [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md), [Mystic](Mystic.md), etc. accessible only to [Deepbounds](Deepbound.md)
+        -   Various town-NPCs [Banker](Banker.md), [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md), etc. accessible only to [Deepbounds](Deepbound.md)
         -   [Klaris Llfiend, Mother of Lights](Klaris_Llfiend,_Mother_of_Lights.md)
 
 -   [The Chariot's Spire](<The_Chariot's_Spire.md>)
     -   Important NPCs:
-        -   Various town-NPCs [Banker](Banker.md), [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md), [Mystic](Mystic.md), etc. accessible only to [Ignition Delvers](Ignition_Delver.md)
+        -   Various town-NPCs [Banker](Banker.md), [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md), etc. accessible only to [Ignition Delvers](Ignition_Delver.md)
         -   [Hollow Forge](Hollow_Forge.md), accessible only to [Ignition Delvers](Ignition_Delver.md)
 
 -   [Marauder's Entrance](<Marauder's_Entrance.md>)
@@ -94,7 +94,7 @@ Scyphozia, being a naturally hostile location, is intentionally difficult to sur
 Information to keep in mind.
 
 -   _**[Insanity](Insanity.md)**_ will be your artificial timer for how long you can stay in Layer One. You start with 80 max sanity, and every point allows 30 more seconds before losing it. You can last approximately 40 minutes before your character gains maximum insanity. Although impossible to die to natural insanity in the depths, insanity can severely affect your combat abilities and having max insanity will make you **die instantly when downed or below 10% health.** Willpower, Talents, and equipment grant extra sanity.
-    -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The Talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity. Do note that Lockers in the [Diver's Camp](<Diver's_Camp.md>) and [Castle Light](Castle_Light.md) do not restore sanity.
+    -   Consider utilizing Flamecharm to cast Graceful Flame with Undying Flame. The Talent removes any risk of going insane in the First Layer as sitting by a campfire restores sanity.
     -   [Blindseer](Oath%253A_Blindseer.md) doubles or even triples the time you can stay in the Depths.
     -   [Deepbound](Deepbound.md) players can rest in [Castle Light](Castle_Light.md) at the campfire to restore sanity and craft food. Do note that only Deepbound players can use the campfire.
     -   [Ignition Delvers](Ignition_Delver.md) may use the campfire in [The Chariot's Spire](<The_Chariot's_Spire.md>), much like Deepbound.
@@ -114,18 +114,11 @@ Information to keep in mind.
 -   An NPC named Raphael asks to find someone on the surface world named "Morning" and tell them that the preparations are almost complete. When questioned more about how to find "Morning", he replies with "How is a 150–200-year-old dead person supposed to remember what someone alive looks like?".
     -   (As of now the quest is not done, which was started by Arch\_Mage. Morning doesn't exist in-game at the moment and will stay so until the quest is finished by developers.)
 
-### Joining The Divers
-
--   [Akira](Akira.md), a Black Diver, can be found as an Encounter outside [The City of the Drowned](The_City_of_the_Drowned.md). He sits down with a Frostdraw Wisp, reading a book- against a group of [Ignition Union Fighters](Ignition_Union_Fighter.md).
-    -   You can confront [Akira](Akira.md) after he kills the [Ignition Union Fighters](Ignition_Union_Fighter.md), proposing 2 dialogue options.
-        -   1\. _"Wait, I'm not with them."_ - This option leads to further dialogue with no consequence. Finishing the dialogue makes Akira appear at [Castle Light](Castle_Light.md), allowing you to join the [Divers](The_Divers.md) and unlock the origin [Deepbound](Deepbound.md).
-        -   2\. _"Don't mess with the Ignition Union, snake-eyed bookworm trash," -_ Charisma check (75). Failing this check leads to the same fate as the [The Ignition Union](The_Ignition_Union.md) group. Success causes him to leave, although this has no result other than that.
-
 ### [Oath: Visionshaper](Oath%253A_Visionshaper.md)
 
 Deep southeast in the Depths, you can find a secret room located near the [Deep Widow](Deep_Widow.md). Here, there is a 'man' named [Surge](Surge.md) who can teach you illusion magic (the Visionshaper Oath) in exchange for Void Feathers.
 
-Once you have spoken with [Surge](Surge.md), the [Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the [Deep Owl](Deep_Owl.md) and the Depths.
+Once you have spoken with [Surge](Surge.md), [The Nestmind](The_Nestmind.md) - a being that exists within a deeper layer of The Depths - will open their realm to you. It offers scraps of knowledge on about the [Deep Owl](Deep_Owl.md) and the Depths.
 
 -   Void Feathers drop from corrupted [Deep Owls](Deep_Owl.md) in The Depths, although they can also rarely drop from the normal variants as well.
 -   This quest is **very** tedious and dangerous, so it is recommended you come with a group or to otherwise be prepared.
@@ -200,7 +193,6 @@ _The first layer of the depths, where most souls go to die, holding more reliabl
 -   Angels are very easily avoidable through scaling buildings and fleeing on high ground. Hiding in the top of buildings until your combat tag goes away can be very easy to do in most situations. Fighting is not a bad alternative however, as they do not have any game breaking moves to destroy you with. Simply trade parries with them and follow your normal combat procedure until they are knocked, and try guard-breaking them every once in a while, as their posture is not remarkably big.
 -   Having a sense of direction and environmental awareness is **vital** for your survivability and safety. Maximize the usage of your map (keybind 'M') if your new to the depths. Falling into the void while your above 60% Health (only applies for characters power 3+, as lower power leveled characters **will get wiped**) will send you to the Ethironal Shrine Outskirts in Layer 2, Floor one. In order to escape the floor unprepared, (Light Hook is not available) you will have to activate the Deepdriller or kill [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md).
 -   Ringing [the bells](The_City_of_the_Drowned.md#city-bells) (not corrupted bells) in the [The City of the Drowned](The_City_of_the_Drowned.md) will restore some HP and sanity, equivalent to that of knocking an NPC or monster around your power.
--   Diver camps have lockers that act as "campfires", although you can't heal nor use them to make food. there is a heater, however, which can heal you and can be used to make food. Do note the heater is only usable by those with the [Deepbound](Deepbound.md) origin (in [Castle Light](Castle_Light.md)) or the [Ignition Delver origin](Ignition_Delver.md) (in [Chariot's Spire](<The_Chariot's_Spire.md>)).
 -   If you find yourself in the Depths with very little health, there are some options for you. These options include using the _Warrior's Respite_ Talent, killing a low-level mob (i.e a Jellyfish or a Mudskipper) for healthpack, or a friend that can place a Graceful Flame for you.
 -   [Castle Light](Castle_Light.md) contains a blacksmith in which you can repair your outfit if you have good or neutral reputation with the Divers.
 -   Bringing high mobility mantras such as [Strong Leap](Attunement-less.md#strong-leap), [Flame Leap](Flamecharm.md#flame-leap), or [Adrenaline Surge](Attunement-less.md#adrenaline-surge) will be helpful in fleeing any unwanted fights and navigate the treacherous terrain.
@@ -209,7 +201,7 @@ _The first layer of the depths, where most souls go to die, holding more reliabl
 -   Avoid any monsters you have little to no experience with, especially [Deep Owls](Deep_Owl.md), [King Threshers](King_Thresher.md) and [Nautilodaunts](Nautilodaunt.md), which have comparatively high mobility and intelligence. Additionally, don't take fights you're uncertain you can win. If you are not prepared to wipe, this **is not the place to learn**. For many mobs, you can fight them somewhere else with less risk (Except for the Nautilodaunts since they spawn in the Depths, but [the Diluvian Mechanism](The_Diluvian_Mechanism.md) is a very unorthodox but available way to train).
 -   If you see your character is becoming insane, such as shivering or scratching, it is best to leave the Depths as quickly as possible. If you use a Glider at this stage of insanity, you **will** fall off the Glider.
 -   If you are experiencing severe lag on a particular server, consider switching to another one. A single lag spike can result in a wipe if not careful.
--   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with Graceful Flame. Thresher Scales does not work with the Diver lockers.
+-   It is advised to carry a [Repair Kit](Repair_Kit.md) in case your armor bar is gone. Thresher Scales cannot be used without a campfire, but can be used with Graceful Flame.
 -   If within the vicinity of [Castle Light](Castle_Light.md), it's not a bad idea to bring a mob that you're fighting to them. The Diver NPCS are rather competent and tanky, shifting the monster's aggro towards them, effectively protecting you.
 -   If you plan on using [Flame Ballista](Flamecharm.md#flame-ballista) in the trial to get a hit, start conjuring it right when the voice of Odium says "Their" in "Just be quick about it will you? **Their** stench is already nauseating." Make sure to point at the right spot, as it will most likely not auto-target. Do know where the monster will spawn.
 -   If [Finnegan The Lost](Finnegan_The_Lost.md) or [The Fisherman](The_Fisherman.md) randomly spawn upon you, and you are not powerful enough to defeat them, run. It is not worth risking it against an enemy that has too much HP for you to properly deal with, and they dont have a good arsenal of player-catching mantras with them - just try not to get stuck with the Fisherman's chains, or get caught by Finnegan's Metal Ball.
@@ -233,5 +225,5 @@ _The first layer of the depths, where most souls go to die, holding more reliabl
 -   The Depths Collapse Event can spawn most monsters including 2 [Threshers](Thresher.md), a [Megalodaunt](Megalodaunt.md), an [Alpha Megalodaunt](Alpha_Megalodaunt.md), a [King Thresher](King_Thresher.md), and a [Nautilodaunt](Nautilodaunt.md). Killing all of the Depths monsters it has spawned will reward you with multiple [Hell Mode](Hell_Mode.md) chests filled with highly valuable loot. The more meteors that fall, the more chests with more valuable loot there will be depending on how many meteors spawned, but there will be more monsters to fight. (About 2-4 boulders = 2-4 chests)
 -   If you go into the Depths Trial arena solo, but your Difficulty Score is low enough for your trial to be Nothing, then the Voice of Enmity and Voice of Odium have special dialogue, and the Voice of Authority doesn't talk.
 -   Previously, 4 bells located throughout the city were required to be rung in order to escape the Depths.
-    -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods.
+    -   This was adjusted, likely because of how much time it took and how risky it was, causing players to use unintended but easier methods such as barrel stacking over the walls.
     -   In the same update, one of the elevator entrances were replaced with the sub-elevator, with a risky approach.

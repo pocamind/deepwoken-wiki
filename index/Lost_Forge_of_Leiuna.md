@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 199131
+revid: 199469
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -32,6 +32,8 @@ To enter the Lost Forge, the player can either break the blocked entrance using 
 In order to reforge a weapon, you must have it held or equipped.
 
 These weapons **are bankable**.
+
+Please note that only one forge weapon can be crafted per slot.
 
 | Weapon Input | Weapon Output |
 | --- | --- |

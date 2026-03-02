@@ -1,9 +1,9 @@
 ---
 title: "Miner's Landing"
-revid: 196478
+revid: 199442
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Pages with broken file links, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
+categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
 ---
 
 # Miner's Landing
@@ -39,12 +39,6 @@ Past the gate, [Tolkat](Tolkat.md), the NPC who unbounds the player's [Strength]
 To the right of the Docks, the NPC for the [Oathless](Oath%253A_Oathless.md) [Oath](Oaths.md) quest is in a cave.
 
 Miner's Landing's Docks.
-
-Additionally, [Mystic](Mystic.md) is located atop a fallen pillar up and to the right of the docks.
-
-File:Image 2023-01-12 223944902.png
-
-Mystic in Miner's Landing
 
 ### Town
 

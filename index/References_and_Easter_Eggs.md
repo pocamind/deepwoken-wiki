@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 195738
+revid: 199436
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -193,7 +193,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The name of **Dragon's Song**—and by extension, the uppercut game mechanic—is derived from the [Shoryuken](https://streetfighter.fandom.com/wiki/Shoryuken) from the _Street Fighter_ series, wherein it is colloquially referred to as the "dragon punch"; the Shoryuken is an uppercut that is typically used to counter an opponent's aerial attack.
 -   **Action Surge** is similar in effect to the Rogue Lineage skill of the same name, albeit much less potent. It may also be a reference to the Dungeons and Dragons Fighter class feature of the same name.
 -   **Blood and Iron** is a reference to the [Roblox game](https://roblox-blood-iron.fandom.com/wiki/) of the same name.
--   The [Mystic](Mystic.md) quote for the Talent category **Quack Doctor** is "[My cure is most effective](https://scp-wiki.wikidot.com/scp-049)."
+-   The now removed [Mystic](Mystic.md) quote for the Talent category **Quack Doctor** was "[My cure is most effective](https://scp-wiki.wikidot.com/scp-049)."
 -   **Mythic Stability** is a reference to the [Sigil Knight Commander](https://rogue-lineage.fandom.com/wiki/Sigil_Knight_Commander) class from Rogue Lineage, which has a similarly named passive that also prevent executions.
 -   **Buster Call**, an [Authority Ensign](Authority_Ensign.md) [origin](Origins.md) exclusive talent, is most likely a reference to an ultimate military attack used by [the Marines](https://onepiece.fandom.com/wiki/Marines) in [One Piece](https://onepiece.fandom.com/wiki/One_Piece_Wiki), the [Buster Call](https://onepiece.fandom.com/wiki/Buster_Call), which calls forth a fleet consisting of 10 battleships led by 5 Vice Admirals.
 

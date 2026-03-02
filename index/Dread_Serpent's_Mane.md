@@ -1,6 +1,6 @@
 ---
 title: "Dread Serpent's Mane"
-revid: 197428
+revid: 199449
 source: https://deepwoken.fandom.com/wiki/Dread_Serpent's_Mane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -19,3 +19,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ## Description
 
 Seems to be a rare drop from Dread Serpent and is used to craft an armour piece. This item is unbankable.
+
+## Trivia
+
+Can be used to craft [Ether Refined Hide](Ether_Refined_Hide.md).

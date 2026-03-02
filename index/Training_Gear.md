@@ -1,6 +1,6 @@
 ---
 title: Training Gear
-revid: 198027
+revid: 199425
 source: https://deepwoken.fandom.com/wiki/Training_Gear
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Attributes, Attunement, Training Gear]
@@ -206,7 +206,7 @@ A held hearthgem
     -   [Miner's Landing](<Miner's_Landing.md>): In the house with the [Antiquarian](Antiquarian.md).
 
 -   Both Luminants
-    -   [Voidheart](Voidheart.md): In between the [Blacksmith](Blacksmith.md) and [Mystic](Mystic.md).
+    -   [Voidheart](Voidheart.md): Near the [Blacksmith](Blacksmith.md)
     -   [Guild Base](Guild_Bases.md): One in each of the following rooms: Song Room, Training Hall, and Library.
     -   [The Floating Keep](The_Floating_Keep.md): 2 total - **This is only possible during the [Hallowtide](Hallowtide.md) Event**.
         1.  One inside the Castle, on the first floor, in the room with the [Blacksmith](Blacksmith.md).
@@ -218,13 +218,13 @@ A held hearthgem
         2.  In the mess hall, turn right as soon as you enter the room.
     -   [Chariot's Spire](<The_Chariot's_Spire.md>): 2 total
         1.  One at the top of the Spire's entrance ladder.
-        2.  One on the bridge, next to the [Mystic](Mystic.md) (opposite side of [Merryweather](Merryweather.md)).
+        2.  One on the bridge (opposite side of [Merryweather](Merryweather.md)).
     -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md): 2 total, both are outside of Diluvian, in the general area around the start of the entrance hallway.
         1.  One to the left of Diluvian's entrance hallway.
         2.  One to the right of Diluvian's entrance hallway. This one is slightly obscured by the terrain, but it should be easy to spot.
 
 -   Dungeon locations
-    -   [Saramaed Hollow](Saramaed_Hollow.md): 2 total - both are in the main lobby area, and are located near the [Antiquarian](Antiquarian.md) and [Mystic](Mystic.md).
+    -   [Saramaed Hollow](Saramaed_Hollow.md): 2 total - both are in the main lobby area, and are located near the [Antiquarian](Antiquarian.md).
     -   [Tutorial](Tutorial.md): In the room with the [Antiquarian](Antiquarian.md).
     -   [Trial of One](Trial_of_One.md): 2 total
         1.  One in the hallway leading up to the trial.

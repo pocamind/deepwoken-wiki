@@ -1,6 +1,6 @@
 ---
 title: Megalodaunt
-revid: 198261
+revid: 199411
 source: https://deepwoken.fandom.com/wiki/Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -73,9 +73,9 @@ In addition to be found wandering around various places or loitering around in s
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  | 
 

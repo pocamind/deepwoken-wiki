@@ -1,9 +1,11 @@
 ---
 title: Liviu
-revid: 191521
+revid: 199454
 source: https://deepwoken.fandom.com/wiki/Liviu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, The Hive]
+categories: [Chrysid NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, The Hive]
+notices:
+  - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Liviu
@@ -21,11 +23,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Liviu is a [Chrysid](Chrysid.md) next to the [Mystic](Mystic.md). Seeming to be involved with world around them as they talk a lot about the "[Acolyte](<Thal'assis_Linnaes.md>)" and how they're watched to at least "seem busy."
+Liviu is a [Chrysid](Chrysid.md) NPC. Seeming to be involved with world around them as they talk a lot about the "[Acolyte](<Thal'assis_Linnaes.md>)" and how they're watched to at least "seem busy."
 
 ## Location
 
-Liviu is located at [Greathive Aratel](Greathive_Aratel.md) beside the library
+Liviu is located at [Greathive Aratel](Greathive_Aratel.md), inside of the library.
 
 ## Dialogue
 

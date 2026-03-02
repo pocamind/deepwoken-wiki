@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 198956
+revid: 199433
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -37,7 +37,7 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 -   Many locals believe that Lord Regent is stricken with some illness because he never leaves his palace even while remaining the ruler of Etrea.
 -   His strength and power come directly from [the Depths](The_Depths.md), almost equivalent to the [Krulians](Krulian.md), though at the cost of movement.
     -   The Lord Regent is not a Krulian.
-    -   In the book "[Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>)_,_" we learn that after shattering an Etrean guard's mental veil, an [The Authority](The_Central_Authority.md) inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
+    -   In the book [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), we learn that after shattering an Etrean guard's mental veil, an [The Authority](The_Central_Authority.md) inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
     -   Lord Regent's power is increased incredibly by sitting on his throne. He can go from barely defeating [Akira](Akira.md) to easily defeating Akira with "low difficulty." It also allows him to surpass [The Ferryman](The_Ferryman.md) when at full strength.[\[1\]](#cite-note-rag-1)
     -   The Lord Regent's age is somewhere in his 40s, given that he has Tier 1 Wrinkles, but this may not indicate his actual age, as he is likely immortal.
 -   Based on [Jericho's](Warden_Jericho.md) journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).
@@ -1082,7 +1082,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   **Attunments:** _[Flamecharm](Flamecharm.md)_
 -   **Alliances:** _[Amorus Pleeksty](Amorus_Pleeksty.md)(?)_
 -   **Enemies:** _The Depths(?)_
--   **Lore Sources:** _Ploom, [Worshipper's Shield](<Worshipper's_Shield.md>), [Flamecharmer Worshipper Outfit](Flame_Worshipper_Armor.md), ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards), [Mystic](Mystic.md)._
+-   **Lore Sources:** _Ploom, [Worshipper's Shield](<Worshipper's_Shield.md>), [Flamecharmer Worshipper Outfit](Flame_Worshipper_Armor.md), ragoozer (Discord), Talent cards (Amoran Seeker Talent cards, Falling Star Guard Talent cards)._
 
 -   A group of Flamecharmers who follow the teachings of the Black Diver and Deepwoken, Amorus Pleeksty.
 -   One of the few faiths from the [Canticlysm](The_Canticlysm.md) that survived the Tides and its still spreading today. (Book: Vows by the sea: Inheritance)
@@ -1092,7 +1092,6 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   Their main goal is to save humanity from the Depths, depicting humanity as the "Eternal flame" and the ultimate enemy as the Depths itself.
 -   Their rank system is unknown, but they are commonly known as "Flamepriest" or "Flameworshippers".
 -   Their relations with the main factions of Lumen is unknown, but they seem to be neutral with every faction of Lumen due to no one mentioning them.
--   When talking to the Mystic to have the Talent card from the tree of "Falling Star Guard", you can see that the dialogue is: "_I believe in the people who followed Pleeksty before"_, meaning that some of the Talents of Flamecharm were created by the Covenant of Flame.
 
 ### The Circle of Honor
 
