@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 199555
+revid: 199581
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -113,10 +113,10 @@ Use **CTRL + F** to search for a specific item.
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
 | [Ossified Blood Earrings](Ossified_Blood_Earrings.md) | 1x [Old Blood Earrings](Old_Blood_Earrings.md)  
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) |
-| Ossified Blacksteel Pauldrons | 1x [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)  
+| [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md) | 1x [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)  
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
-1x ??? |
-| Ossified Blacksteel Helm | 1x [Blacksteel Helm](Blacksteel_Helm.md)  
+1x [Shiva's Codex](<Shiva's_Codex.md>) |
+| [Ossified Black Helm](Ossified_Black_Helm.md) | 1x [Blacksteel Helm](Blacksteel_Helm.md)  
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
 1x [Shiva's Codex](<Shiva's_Codex.md>) |
 | [Revitalizing Pendant](Revitalizing_Pendant.md) | 1x [Wheel Pendant](Wheel_Pendant.md)  

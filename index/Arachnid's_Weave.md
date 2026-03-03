@@ -1,6 +1,6 @@
 ---
 title: "Arachnid's Weave"
-revid: 198824
+revid: 199558
 source: https://deepwoken.fandom.com/wiki/Arachnid's_Weave
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]
@@ -15,7 +15,7 @@ categories: [Outfits, Master Outfits]
 | crafting_req | x10 Cloth, x2 Fiber, x5 Spider Eggs, x1 Bloodless Gem, x2 Dark Feathers, x5 Vibrant Gems |
 | price | 1000 |
 | stat_req | Power 15 |
-| bankable | yes |
+| bankable | Yes |
 | droppable | Yes |
 | durability | 2100 |
 | resistances | +20% Physical Armor, +35% Elemental Armor, +15% Blood Armor, +15% Iron Armor, +10% Lightning Armor |

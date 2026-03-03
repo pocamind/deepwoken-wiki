@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 197755
+revid: 199582
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -44,7 +44,7 @@ Currently bugged, the bullets don't apply suffocate.
 
 **Frost:**
 
-placeholder
+After landing 7 hits, apply [Frozen](Status_Effects.md#frozen) to the target or alternatively detonate their [Crystals](Talents.md#glassdancer). 5 second cooldown. Your bullets will deal 5% less damage.
 
 ## Trivia
 

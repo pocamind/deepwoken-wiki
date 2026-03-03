@@ -1,6 +1,6 @@
 ---
 title: "Beginner's Boots"
-revid: 190117
+revid: 199563
 source: https://deepwoken.fandom.com/wiki/Beginner's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses, Boots]
@@ -24,6 +24,8 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Equipment with Set Bonuses,
 | pass down | No |
 | obtainment | TBA |
 | description | They've just been broken in. |
+
+Variants: [Novice Boots](Novice_Boots.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  

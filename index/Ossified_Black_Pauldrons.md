@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 199233
+revid: 199584
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Se
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Crafting recipe not yet discovered |
+| obtainment | Crafting 1 Blacksteel Pauldrons + 1 Shiva's Codex + 1 Ethereal Osseous Plate in the Lost Forge |
 | description | ... |
 
 Variants: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
@@ -43,10 +43,6 @@ Ossified Black Pauldrons are an [Equipment](Equipment.md) item under the "Arms" 
 The [Laminated Armor](Talents.md#laminated-armor) Talent reduces all damage taken by 2 (3 in Vow of Iron), applied after damage modifiers. Notably, this is applied after other resistances. Additionally, this Talent can't reduce a damage value below 0.
 
 Though not mentioned in the Talent description, Laminated Armor's effect goes both ways, reducing your **outwards** damage by 2 (or 3) as well. This can cause certain low damage/hit Mantras to heal your opponent.
-
-## Crafting
-
-TBA
 
 ## Set Bonus
 

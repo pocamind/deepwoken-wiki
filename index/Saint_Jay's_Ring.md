@@ -1,9 +1,9 @@
 ---
 title: "Saint Jay's Ring"
-revid: 199541
+revid: 199562
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings]
+categories: [Equipment, Rings, Craftable]
 ---
 
 # Saint Jay's Ring
@@ -12,16 +12,16 @@ categories: [Equipment, Rings]
 |---|---|
 | type | Ring |
 | rarity | Legendary |
-| selling price | 25 |
+| selling price | 50 |
 | requirements | None |
 | weight | 0.1 |
-| innate stats | None |
+| innate stats | +1 Rare Pip |
 | innate talent | None |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafted:, Dazed Band + 1x Frost Essence + 1x Frost Ring |
+| obtainment | Crafted:, Dazed Band + 1x Frost Essence + 1x Frost Ring at the Lost Forge |
 | description | Uppercuts inflict chill. |
 
 ## Description
