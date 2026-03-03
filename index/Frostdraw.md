@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 197924
+revid: 199601
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -571,6 +571,7 @@ Ice
 -   Does not inflict Chill.
 -   Ends instantly if parried.
 -   Spawns an ice patch on use. [Vibrant Gems](Mantra_Modifiers.md#regular-modifiers) can be used to increase the size of the ice patch. However, it barely increases the size (~1%).
+-   The maximum size of Ice Carve is 6.
 -   Can be modified with [Cloud](Mantra_Modifiers.md#regular-modifiers) and [Stratus Stones](Mantra_Modifiers.md#regular-modifiers) to increase the Mantra size.
 -   Can be modified with a Round Spark to cause the user to spin the projectile of the Mantra around them.
 -   Can be modified with a Spring Spark to cause the user to throw the projectile forward before recalling it back. You are able to attack and parry during the time it is out.

@@ -1,6 +1,6 @@
 ---
 title: Soothsayer
-revid: 198602
+revid: 199603
 source: https://deepwoken.fandom.com/wiki/Soothsayer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, Reputation, NPCs, NPCs located in the Etrean Luminant, The Ministry, Individuals with unspecified pronouns]
@@ -31,6 +31,8 @@ The Soothsayer is a [Celtor](Celtor.md) NPC. They let you exchange [Knowledge](K
 ## Location
 
 The Soothsayer can be found sitting in a corner on the way up to the [Starfield Tundra](Starfield_Tundra.md).
+
+Exact location of Soothsayer on the map:
 
 ## Dialogue
 

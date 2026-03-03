@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 199593
+revid: 199608
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -154,7 +154,7 @@ Even if you aren't in a Squad, other players may be assigned to the same Mission
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a> (Both Variants), <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (Both Variants), <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, Overcoats (Black)</li>
+    <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a> (Both Variants), <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (Both Variants), <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, Overcoats (Black and White)</li>
     <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (Both Variants), <a href="Imperial_Boots.md">Imperial Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a> (Blue)</li>

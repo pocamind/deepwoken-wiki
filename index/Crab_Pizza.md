@@ -1,9 +1,9 @@
 ---
 title: Crab Pizza
-revid: 161296
+revid: 199605
 source: https://deepwoken.fandom.com/wiki/Crab_Pizza
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food]
+categories: [Items, Food]
 ---
 
 # Crab Pizza
@@ -36,7 +36,3 @@ When consumed, it replenishes 40% Stomach and 2% Water.
 ### Recipe
 
 -   1 [Bread](Bread.md), 1 [Cheese](Cheese.md), and 1 [Crustacean Meat](Crustacean_Meat.md), no [Campfire](Campfire_Pit.md) required.
-
-## Navigation
-
-\[\[Category:Items\]
