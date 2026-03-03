@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 192847
+revid: 199591
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -65,10 +65,10 @@ Vow of Iron feature many differences from Pathfinder, aimed at providing a new, 
 -   Vow of Iron has no passive health regeneration whatsoever. Most damage you take is semi permanent, unless you have access to some of the rare sources of healing available.
     -   [Etris Flasks](Etris_Flask.md) can be quickly drank to restore 50% HP (60% with [Etrean](Etrean.md)). However, this is a limited resource that will only be refilled by returning to [The Cerebral Spire](The_Cerebral_Spire.md), entering [The Depths](<The_Depths_(Vow_of_Iron).md>), or by escaping The Depths. Upon creating your character, you will only have 1 Etris Flask charge, but more charges can be bought across the Luminant.
     -   [Campfires](Campfire_Pit.md) can still be used to restore your health.
-    -   Health Packs only grants 5% HP. Enemies in The Depth provide no Health Packs.
+    -   Health Packs only grants 5% HP. Enemies in The Depths provide no Health Packs.
     -   Entering a Boundary will heal you to full however.
 -   Vow of Iron characters have a permanently stained health bar. Any death will send them to The Depths.
--   Vow of Iron characters face a unique Depth Trial that features [Bone Keeper](Bone_Keeper.md), [Parliament](Parliament.md), [Prime Megalodaunt](Prime_Megalodaunt.md) and [Nautilodaunt Officiate](Nautilodaunt_Officiate.md).
+-   Vow of Iron characters face a unique Depths Trial that features [Bone Keeper](Bone_Keeper.md), [Parliament](Parliament.md), [Prime Megalodaunt](Prime_Megalodaunt.md) and [Nautilodaunt Officiate](Nautilodaunt_Officiate.md).
 -   Auto Parry is completely removed, requiring you to manually parry continuous attacks.
     -   There is still an extremely brief window where following attacks will not hit, but it is much smaller, and doesnt trigger auto parry.
 -   Monsters are now able to be guardbroken much like players, even from a parry.

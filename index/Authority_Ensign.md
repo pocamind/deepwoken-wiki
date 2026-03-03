@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 196227
+revid: 199593
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -28,7 +28,7 @@ Members of the Authority Ensign spawn at [Port Merit](Port_Merit.md) with the [A
 
 ## Effects
 
-Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or get Exiled from the Authority. Your guild being changed is somewhat only a visual change; while you won't be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md), if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md).
+Your guild will be automatically set to The Central Authority on that character, allying you with all members of the same Origin. Your guild will reset back to normal if you wipe or get Exiled from the Authority. Your guild being changed is somewhat only a visual change; while you won't be able to use the [Chime of Dwelling](Chime_of_Dwelling.md) or [Dwelling Charm](Dwelling_Charm.md), if you claim a [Guild Banner](Guild_Banners.md), it will still be under your Guild. You can also still interact with all of your Guild Base NPCs and respawn at your [Guild Base](Guild_Bases.md). Until you are [exiled](#exile), you cannot gain [Reputation](Reputation.md) with [Etrea](Etrea.md) or [The Children of Navae](The_Children_of_Navae.md).
 
 After ranking up once, you gain the ability to jail players. If you manually grip a player, they will be imprisoned at [Fort Merit](Fort_Merit.md). This does not kill them (no life lost and no loot dropped), however, they'll be scheduled for execution in 10 minutes, drowning them and sending them to [The Depths](The_Depths.md) if they did not manage to escape.
 
@@ -46,11 +46,13 @@ Being in a Squad allows you to take on the Missions as a group and proc certain 
 
 ## Exile
 
-Upon being exiled from [the Central Authority](The_Central_Authority.md), your Authority reputation will be immediately set to '**_, and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. Upon being exiled, there is no way to return to the Authority's ranks. There are two ways to be exiled:_**
+Upon being exiled from [the Central Authority](The_Central_Authority.md), your Authority reputation will be immediately set to '**_, though you can still raise your Authority reputation afterwards, and you will be kicked out of the Central Authority guild, removing your ability to gain future promotions. All Origin-exclusive Talents and Equipment you've obtained prior to being exiled will be kept. Getting exiled will remove the restriction of not being able to raise your [Reputation](Reputation.md) with [Etrea](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md)._**
+
+Upon being exiled, there is no way to return to the Authority's ranks. There are two ways to be exiled:
 
 ### Deserter
 
-If you leave Authority controlled territory, a **fifteen minute** AWOL countdown will be displayed at the top of your screen. If this countdown reaches 0, you will be marked as a Deserter, exiling you from the Central Authority.
+If you leave Authority controlled territory, a **fifteen minute** AWOL (absent without leave) countdown will be displayed at the top of your screen. If this countdown reaches 0, you will be marked as a Deserter, exiling you from the Central Authority.
 
 The AWOL timer will reset if you leave the game, restarting from 15 minutes once you rejoin. Additionally, the timer will not appear if you are on a mission, have joined a Division, are in a squad in which the leader is in the Command Division, are in a [Dungeon](Dungeons.md), or are in [the Depths](The_Depths.md).
 
@@ -170,7 +172,9 @@ Even if you aren't in a Squad, other players may be assigned to the same Mission
 
 Through completing enough Missions, you will be promoted. Each promotion comes with benefits of their own benefits and rewards, being Faction Talent hands and potentially new dialogue with NPCs. Promotion points are reset upon being promoted. The message "**YOU HAVE BEEN PROMOTED TO \[RANK\]. OORAH!**" will appear when you reach enough points to rank up.
 
-Faction Talents cannot be exchanged for other Faction Talents, so choose wisely as you will not be able to change them later.
+Faction Talents cannot be exchanged for other Faction Talents, so choose wisely, as you will not be able to change them later. Every Faction Talent available to you will appear upon every promotion, which means you will not be locked out of a talent due to a limit of talents appearing like a [normal talent hand](Whisper_Draw.md). You gain a Faction Talent hand upon every promotion, which means you get 1 talent from going from **Private** to **Corporal**, and **Corporal** to **Lance Corporal**, totalling to two talents. You do not gain a Faction Talent hand upon entering a division.
+
+In practice, this means that you are forced to pick 2 generic enlistment talents before you can start picking division-exclusive talents. How many division-exclusive (or more generic enlistment) talents you can pick depend on your chosen division. As you do not gain a talent hand upon entering a [division](#divisions), how many ranks there are after your first division rank is how many talents you get. The amount is 3 for the [Command Division](#command-division), and 2 for both the [Inquisition Division](#inquisition-division) and the [Shock Corps Division](#shock-corps-division).
 
 Enlistment Ranks
 
@@ -595,7 +599,7 @@ Your starting faction [reputation](Reputation.md) is:
 -   ' **_by [Etrea](Etrea.md) [Etreaiconfaction](Etrea.md) and [The Children of Navae](The_Children_of_Navae.md) [Navaeiconfaction](The_Children_of_Navae.md)_**
 -   **Neutral** with all other factions [Knives of Eylis](The_Knives_of_Eylis.md) [Summericonfaction](The_Summer_Company.md) [Hiveiconfaction](The_Hive.md) [Etrean Royalistsiconfaction](Etrean_Royalists.md)
 -   _Note: Your chosen [Aspect](Aspects.md) may affect your starting reputation._
--   You cannot gain [Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be Exiled.
+-   You ' **_[Etrea](Etrea.md) or [Children of Navae](The_Children_of_Navae.md) reputation. This restriction will be removed, should you be Exiled._**
 
 If you have the [Fugitive](Boons_and_Flaws.md#flaws) Flaw:
 

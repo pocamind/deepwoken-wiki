@@ -1,6 +1,6 @@
 ---
 title: Rashet
-revid: 195862
+revid: 199587
 source: https://deepwoken.fandom.com/wiki/Rashet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Reputation, Military personnel of The Central Authority, Individuals with unspecified pronouns]
@@ -111,7 +111,3 @@ Rashet is located at [Merit's Reach](<Merit's_Reach.md>), leaning against a larg
 </tr>
 </tbody>
 </table>
-
-## Trivia
-
--   Being an [Authority Ensign](Authority_Ensign.md) and exiled still allows the player talk to Rashet, but paying their fee does not raise any reputation with the Central Authority.

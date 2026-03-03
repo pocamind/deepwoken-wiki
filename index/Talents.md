@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 198944
+revid: 199590
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -4616,8 +4616,8 @@ Certain Talents are given when a specific equipment or outfit is worn. Most of t
 -   Surestep: [Delver Boots](Delver_Boots.md) & [Marrowmade Boots](Marrowmade_Boots.md) - Your boots secure your footing in all forms of terrain by digging into the ground with metal spikes.
     -   Makes you immune to the ragdoll and movement speed debuff of the Wind from the [Second Layer](Second_Layer.md) and [Moon's Eyrie](<Moon's_Eyrie.md>).
 
--   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - If you land a Tempest Wind, you deal 20% more damage in the air for a few seconds. Your Tempest Wind is also naturally stronger.
-    -   Grants a 20% damage bonus to your Tempest Wind [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
+-   Tempest Evolution: [Tempestmaker's Threads](<Tempestmaker's_Threads.md>) - Your slide-jumped [Wind Blades](Galebreathe.md#wind-blade) are naturally stronger and if landed grant +20% damage in the air for a few seconds.
+    -   Grants a 20% damage buff to your slide-jump [Wind Blade](Galebreathe.md#wind-blade). Also increases its range.
 
 -   Temple Guard: [Monastery Champion Robes](Monastery_Champion_Robes.md) - For the first 0.3s of your Critical Attack's windup, you take 90% less damage from any attacks that cancel your windup.
 
