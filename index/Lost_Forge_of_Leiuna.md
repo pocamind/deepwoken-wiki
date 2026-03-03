@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 199469
+revid: 199555
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -34,6 +34,8 @@ In order to reforge a weapon, you must have it held or equipped.
 These weapons **are bankable**.
 
 Please note that only one forge weapon can be crafted per slot.
+
+Please also note you do not need to kill parasol to use the anvil. you only need parasol to break open the door.
 
 | Weapon Input | Weapon Output |
 | --- | --- |

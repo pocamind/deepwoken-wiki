@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 199407
+revid: 199554
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -35,7 +35,9 @@ Regenerative Set
 
 ## Description
 
-The Regenerative Earrings are a pair of craftable earrings similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops. It is one of two pieces in the "Trueblood" set, alongside the [Regenerative Pendant](Regenerative_Pendant.md). The earrings alone grant the user the talent [Blood Convergence](Talents.md#blood-convergence), which allows you to receive 10% more healing from all healing sources when you have temp health.
+The Regenerative Earrings are a pair of craftable earrings similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops. It is one of two pieces in the "Trueblood" set, alongside the [Regenerative Pendant](Regenerative_Pendant.md).
+
+The earrings alone grant the user the talent [Blood Convergence](Talents.md#blood-convergence), which allows you to receive 10% more healing from all healing sources when you have temp health.
 
 The full Trueblood set talent provides the talent [Critical Heal](Talents.md#critical-heal), which provides a chance to heal you for 30 flat HP on every heal (5 second cooldown). See below for what can proc Critical Heal.
 
