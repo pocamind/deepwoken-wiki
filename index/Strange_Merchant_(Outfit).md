@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant (Outfit)
-revid: 194630
+revid: 199684
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant_(Outfit)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
@@ -16,7 +16,7 @@ categories: [Vow of Iron Exclusive, Outfits, Unique Outfits]
 | droppable | No |
 | durability | 9999 |
 | resistances | +10% Physical Armor, +10% Elemental Armor |
-| obtainment | Strange Merchant Memento |
+| obtainment | Strange Merchant MementoMod Shop |
 | selling_price | N/A |
 | weight | 1 |
 | shirt | Shirt • Pants |

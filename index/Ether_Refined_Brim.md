@@ -1,6 +1,6 @@
 ---
 title: Ether Refined Brim
-revid: 198696
+revid: 199694
 source: https://deepwoken.fandom.com/wiki/Ether_Refined_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -40,7 +40,7 @@ Variants: [Ether Refined Mantle](Ether_Refined_Mantle.md)
 
 The **Ether Refined Brim** is a Unique tier [Equipment](Equipment.md) item under the "Head" category.
 
-The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent decreases the [Tempo](Combat_Mechanics.md#tempo) cost of [Venting](Combat_Mechanics.md#tempo) by 5.
+The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent decreases the [Tempo](Combat_Mechanics.md#tempo) cost of [Venting](Combat_Mechanics.md#tempo) by 5 (about 22%).
 
 This item is similar to [Sorcerer's Brim](<Sorcerer's_Brim.md>) from [Vow of Iron](Vow_of_Iron.md).
 

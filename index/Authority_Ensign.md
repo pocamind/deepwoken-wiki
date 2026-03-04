@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 199655
+revid: 199680
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -366,11 +366,11 @@ Complete 10 missions solo, then speak to [High Inquisitor Merey](High_Inquisitor
 
 -   **Stature Break** - Landing a backstab of any kind disables posture for 8 seconds.
 
--   **Tacet Minimization** - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
-    -   Prerequisites: [Murmur: Tacet](Murmur%253A_Tacet.md)
-    -   You must obtain Tacet through [Cestis](Cestis.md) or [Quiet Stranger](Quiet_Stranger.md) in order to get Tacet Minimization. The Soulbreaker Oath variant will not allow you to obtain Tacet Minimization.
-    -   Active for 10s; 60s cooldown.
+-   **Tacet Minimization** - Focus your [Tacet](Murmur%253A_Tacet.md) even further, allowing the radius at which you get spotted to become smaller temporarily.
+    -   Decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
     -   Requires 100% [Ether](Ether.md) to be activated, even though it does not cost any Ether.
+    -   Prerequisite: [Murmur: Tacet](Murmur%253A_Tacet.md)
+        -   You must obtain Tacet through [Cestis](Cestis.md) or [Quiet Stranger](Quiet_Stranger.md) in order to get Tacet Minimization. The Soulbreaker Oath variant will not allow you to obtain Tacet Minimization.
 
   
 

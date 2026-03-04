@@ -1,6 +1,6 @@
 ---
 title: Felinor
-revid: 189714
+revid: 199685
 source: https://deepwoken.fandom.com/wiki/Felinor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Aspects]
@@ -38,7 +38,10 @@ One of the most distinct aspects in Lumen for their infamous cat ears, Felinor g
     <li>"<i>Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.</i>"
   <ul>
     <li>1.25x agility when climbing, 1.5x agility when climbing wooden surfaces.</li>
-    <li>Starts with 20% <a href="Stealth.md">Stealth</a> and has a 1.2x Stealth gain multiplier from all sources.</li>
+    <li>Starts with 20% <a href="Stealth.md">Stealth</a> and has a 1.2x Stealth gain multiplier.
+  <ul>
+    <li>This Stealth gain multiplier <b>does not</b> apply to Stealth gained from Crouching, <a href="Talents.md#lowstride">Lowstride</a>, <a href="Murmur%253A_Tacet.md">Tacet</a>, or <a href="Talents.md#tacet-minimization">Tacet Minimization</a>.</li>
+  </ul></li>
   </ul></li>
   </ul></td>
 </tr>

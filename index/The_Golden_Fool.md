@@ -1,6 +1,6 @@
 ---
 title: The Golden Fool
-revid: 196494
+revid: 199690
 source: https://deepwoken.fandom.com/wiki/The_Golden_Fool
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Criticals with M1 tag, Daggers, Light Weapons]
@@ -43,7 +43,7 @@ Essentially just an empty tankard, **The Golden Fool** is a blunt Dagger Weapon 
 
 ## Critical
 
-Wind up your tankard and strike your target, applying [Daze](Status_Effects.md#dazed) and dealing very high posture damage.
+Wind up your tankard and strike your target, applying [Daze](Status_Effects.md#dazed) and dealing 22 posture damage.
 
 This attack has a scaled damage multiplier of 1.25x.
 

@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blightsurger"
-revid: 198285
+revid: 199688
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blightsurger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Oaths, The Hundred Legions]
@@ -39,7 +39,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 
 “ _A withering storm gathers._ **Lightning must strike the eye of the tempest.** _”_
 
-― [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md)
+― Titus Fulminus Destellus
 
 ## Description
 
@@ -50,7 +50,7 @@ categories: [Weapons, Oaths, The Hundred Legions]
 ― Titus, Fulminus Destellus
 
   
-Blightsurger draws most of its power from Sacred Lightning. It was invented by [Theros](Theros.md). [Titus](Titus_Fulminus_Destellus.md) is one of its users and a trainer of the power, who used it alongside the 49th Legion - which he was the leader of - to conquer a majority of the Western Luminant in the name of The Empire.
+Blightsurger draws most of its power from Sacred Lightning. It was invented by [Theros](Theros.md), who passed it onto their disciples. [Titus](Titus_Fulminus_Destellus.md) is one of its users and a trainer of the power, who used it alongside the 49th Legion - which he was the leader of - to conquer a majority of the Western Luminant in the name of The Empire.
 
 ## Obtainment
 

@@ -1,6 +1,6 @@
 ---
 title: "Mercenary's Hood"
-revid: 189959
+revid: 199693
 source: https://deepwoken.fandom.com/wiki/Mercenary's_Hood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Hoods]
@@ -15,7 +15,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Hoods]
 | selling price | 14 |
 | requirements | None |
 | weight | 1 |
-| innate stats | +4% Stealth+1 Posture |
+| innate stats | +10% Stealth+1 Posture |
 | innate talent | Merc Blade |
 | bankable | No |
 | droppable | No |

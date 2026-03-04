@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 199636
+revid: 199692
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -106,7 +106,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   Has a cooldown of 5 seconds.
 
 -   **Shaper Mimicry** - The servants you have conjured will imitate your actions when you Swing/Block/Parry/Jump.
-    -   Your clones will repeat your basic actions like jumping, M1'ing, blocking, venting, and parrying.
+    -   Your clones will repeat your basic actions like jumping, M1'ing, blocking, venting, and parrying. They cannot imitate feints.
     -   By jumping, you allow your clones to use the aerial variant of attacks with Reality Shift.
     -   Despite block/parry/dodge sfx/vfx appearing, vents will still delete clones that successfully defend them. (Outranging vents however, works)
 
@@ -124,6 +124,7 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
     -   Clones cannot copy enchantments/talents.
     -   If the targeted player has the Disbelief Talent, clone duration is halved.
     -   The damage of the clones its 50% of the unscaled and unleveled damage of your basic attack, crit, or mantra.
+    -   Clones will delay their running attacks until yours is finished, allowing for free pressure. Clone running attacks also deal 100% of your unscaled damage, rather than 50%.
     -   Can be modified with Aeon Logstones and Eternal Logstones, which increase the duration and cooldown proportionately. It's generally better to leave this mantra unmodified for a shorter cooldown.
     -   Cooldown scales with modifiers.
 

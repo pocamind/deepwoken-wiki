@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 199665
+revid: 199686
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1989,7 +1989,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   _Nightchild_ \[Race Talent, [Felinor](Felinor.md) Exclusive\] - Relying on your instincts, you are naturally more stealthy. You are more nimble on wooden surfaces.
     -   Start with 20% more stealth and gain a 1.2x stealth gain multiplier.
-        -   This Stealth multiplier also affects the [Obvious](Boons_and_Flaws.md#obvious) Flaw, reducing your Stealth by 24%. With the innate Stealth Felinor has, this will result in a net -4% Stealth on spawn.
+        -   This Stealth gain multiplier **does not** apply to Stealth gained from Crouching, [Lowstride](#lowstride), [Tacet](Murmur%253A_Tacet.md), or [Tacet Minimization](#tacet-minimization).
+        -   This Stealth multiplier affects the [Obvious](Boons_and_Flaws.md#obvious) Flaw, reducing your Stealth by 24%. With the innate Stealth Felinor has, this will result in a net -4% Stealth on spawn.
     -   Gain bonus agility when climbing on all kind of surfaces, not only wooden ones.
 
 -   _Seaborne_ \[Race Talent, [Celtor](Celtor.md) Exclusive\] - You have a keen understanding of ships and their maintenance.
@@ -2054,7 +2055,10 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division
 
 -   **Tacet Minimization** \[Faction Talent, [Authority Ensign](Authority_Ensign.md) Exclusive\] - Focus your Tacet even further, allowing the radius at which you get spotted to become smaller temporarily.
+    -   Decreases your Tacet bubble size to the minimum possible and grants 400% flat [Stealth](Stealth.md) for 10 seconds. 1 minute cooldown.
+    -   Requires maximum Ether to use, even though it does not consume Ether.
     -   Prerequisites: Promotion reward from the [Authority Ensign](Authority_Ensign.md) Origin, Inquisition Division, [Murmur: Tacet](Murmur%253A_Tacet.md)
+        -   Tacet gained by obtaining [Soulbreaker](Oath%253A_Soulbreaker.md) does not count for this Talent's obtainment.
 
 ### Ironsing Master
 
@@ -2572,7 +2576,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Tacet's activation keybind can be configured in settings.
     -   On use, a sphere around your character will be created. This sphere is commonly referred to as the 'Tacet bubble'. To everyone outside of the bubble, you are invisible.
     -   Tacet bubble size scales inversely on your level and your [stealth](Stealth.md) stat, becoming smaller the higher your level and the more stealth you have.
-    -   In PvE you become effectively invisible at almost any range, sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
+    -   Being in Tacet grants 400 Stealth, making you effectively invisible to PvE enemies; sometimes even physically touching the NPC directly will not cause them to aggro. However, the unaggro range is still fairly large, even in Tacet, so you may need to run away before reactivating Tacet.
     -   Tacet will be **disabled** during [Hell Mode](Hell_Mode.md), [Diluvian](The_Diluvian_Mechanism.md), and [Depths Trials](Cathedral_of_the_Interstice.md).
     -   After 3 seconds of not crouching, Tacet will deactivate. After 1.5s of sprinting, Tacet will deactivate. Attacking, being hit, or using [Soulbreaker's](Oath%253A_Soulbreaker.md) Formless will instantly deactivate Tacet.
     -   Prerequisites: 10 Charisma and 5 [Cestis Bounties](Cestis.md) or 5 [Bounty Hunting Contracts](Bounty_Hunting.md) OR Obtain [Soulbreaker](Oath%253A_Soulbreaker.md)
