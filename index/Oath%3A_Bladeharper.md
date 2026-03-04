@@ -1,6 +1,6 @@
 ---
 title: "Oath: Bladeharper"
-revid: 198541
+revid: 199613
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Bladeharper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -148,6 +148,7 @@ Finally the most important piece of advice, stay calm, as you would with any and
 -   The slashing effects closely resemble the "Cleave" and "Dismantle" abilities of Ryomen Sukuna from _Jujutsu Kaisen_.
 -   Originally, Decimate could not be used on Fist weapons of any kind. This was theorized to be due to Melonbeard's disliking to the Fist weapon class, which he is very open about.
     -   When asked about this, Melonbeard said "No Sukuna build"
+        -   Ironically, in Jujutsu Kaisen, Sukuna used to wield a trident spear during the Heian Era, meaning a Sukuna build would've still been possible even with this restriction
     -   As a carryover from this, you still cannot enter the [Blade Within](The_Blade_Within.md) while wielding a fist weapon. With that being said, the Oath and all of its abilities function like normal with this weapon type.
 -   Strangely, the mirror self can use [Tacet Drop Kick](Attunement-less.md#tacet-drop-kick) even if you don't have the Mantra or the Murmur, but they won't use weapon Mantras.
 -   The mirror self's moveset doesn't change if you die and go back to fight it again. Additionally it seems to reuse the AI from [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).

@@ -1,6 +1,6 @@
 ---
 title: The Citadel of Markor
-revid: 195736
+revid: 199612
 source: https://deepwoken.fandom.com/wiki/The_Citadel_of_Markor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Departments and divisions of The Central Authority, The Citadel of Markor, Locations in the Central Luminant]
@@ -37,6 +37,8 @@ In 108 CE, a fire broke out in the Citadel's archives, destroying some of their 
 **[The Citadel Divers](The_Divers.md)**: Currently known as [the Divers](The_Divers.md). The unit, specifically designated to explore [the Depths](The_Depths.md) and set up bases there.
 
 **[Memorial Masons](Memorial_Masons.md)**: A subdivision of [the Divers](The_Divers.md) consisting of the Stonemasons. Their job is to carve the names of retired or, more likely, deceased [Divers](The_Divers.md) into stone monuments.
+
+**The Blade Scholars**: A division of the Citadel who explore the entirety of Lumen in search of information. They also learn and master the martial arts of the world.
 
 ## Trivia
 

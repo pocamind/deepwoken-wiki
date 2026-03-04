@@ -1,6 +1,6 @@
 ---
 title: The Vigils
-revid: 195734
+revid: 199610
 source: https://deepwoken.fandom.com/wiki/The_Vigils
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, Etrea]
@@ -23,7 +23,7 @@ categories: [Factions, Etrea]
 
 Not much is confirmed about their ranking system since most Vigils maintain a position of silence towards outsiders, but the descriptions of various pieces of equipment reveal some details about how they function. Their leader is known as a "Maestro", and they operate an autobiographical recordkeeping branch known as the Scholars of the Cloud. What is notable, however, is their impartiality regarding races; much unlike [The Central Authority](The_Central_Authority.md) and Etrea itself, Vigil guardsmen are of varied backgrounds and their histories often have no bearing on their treatment. Vigils are very closely-knit, showing a level of distrust to anyone other than themselves—even if the person is highly regarded by Etrea. It is only when an individual performs massive favours, such as [saving one of their lives](Isle_of_Vigils.md#lost-sibling), that Vigils become more hospitable to them.
 
--   The lowest rank of Vigils are initiates, who don brown robes and do not participate in real fights.
+-   The lowest rank of Vigils are initiates, who don [brown robes](Vigil_Initiate.md) and do not participate in real fights.
 -   Their qualified swordsmen are known as [Blade Temple Guards](Blade_Temple_Guard.md), who wear the [Cloak of Winds](Cloak_of_Winds.md) alongside the [Glassdancer Wraps](Glassdancer_Wraps.md), with a [Vigil Hood](Vigil_Hood.md) to keep their identities secret. They are posted across the Isle, fighting [Bandits](Bandit.md) and criminal players.
 -   Certain non-apprentice Vigils are granted the Deepwoken Cloak in place of their Glassdancer Wraps.
     -   There exists apprentices who are granted the [Deepwoken Cloak](Deepwoken_Cloak.md). Their name implies they are in training to become a fully fledged swordsman.

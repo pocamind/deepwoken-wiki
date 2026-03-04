@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 198852
+revid: 199616
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -35,17 +35,56 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 **Pierce**  
 (★☆☆)
 
- | When close enough, the Parasol starts rapidly stabbing random targets with its arms, sometimes inflicting poison.
+ | When close enough, the Parasol starts rapidly stabbing random targets with its tendrils, injecting poison when hit.
 
 -   Autogrips players if they are knocked.
+-   If the player is guardbroken through this attack, they will not be poisoned.
 
  |
 | 
 
-**Spawn of the Abyss**  
+**Abyssal Hive**  
 (★☆☆)
 
- | The Parasol throws a boulder that deals damage on impact, summoning a Depths mob varied to a [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md).
+ | The Parasol spits out a random Monster, varied to a [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Brute](Mudskipper_Brute.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md). It can only spawn one type of creature at a time, and can sometimes spawn two.
+
+ |
+| 
+
+**Parasol Planting**  
+(★★☆)
+
+ | The Parasol shrieks before planting all four tendrils into the ground. It will be able to
+
+-   For the duration of this attack, it will not use **Pierce** or **Abyssal Hive**.
+
+ |
+| 
+
+**Abyssal Storm**  
+(★★☆)
+
+ | At random intervals, the Parasol creates a small stormcloud, striking random targets.
+
+ |
+| 
+
+**Overcurrent**  
+(★★☆)
+
+ | The Parasol sends a current of electricity across its tendrils, shocking targets that are within the area of a tendril.
+
+-   This move is only used when it has Parasol Planting.
+
+ |
+| 
+
+**Greater Overcurrent**  
+(★★★)
+
+ | The Parasol starts to convulse, charging up a large static pulse that sends nearby targets flying.
+
+-   This move is only used when it has Parasol Planting.
 
  |
 
