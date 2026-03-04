@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 198754
+revid: 199637
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -121,7 +121,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 ## Trivia
 
 -   When taking the [Greathive Aratel](Greathive_Aratel.md) fountain into [Summer Isle](Summer_Isle.md), there is a glyph on the wall, using the same decal as the one you interact with to obtain the Oath. Upon inspecting this glyph with the Oath, it notably mentions not-so-subtly that the duty of your Oath is to "Free the lost souls from their shackles, help them escape into the light." This, of course, references the fact you have to help Pathfinders in the Depths trial to progress the Oath.
-    -   The glyph on the wall also can be found the room with the [King Thresher](King_Thresher.md) in [Lightkeeper Temple](Lightkeeper_Temple.md), the glyph also stating about how to progress the Blindseer Oath.
+    -   The glyph on the wall also can be found in one of the prison cells in the [Lightkeeper Temple](Lightkeeper_Temple.md), the glyph also stating about how to progress the Blindseer Oath.
     -   Interestingly, other glyphs don't say this, therefore this is the only way of figuring out how to progress Blindseer if it isn't through sheer luck from trying different things.
 -   [Vesperians](Vesperian.md) with this Oath do not have a glowing Blindseer eye, and instead have blue three dimensional markings on the outside of their mask, with an eye-like shape formed at the top. However, they used to be seen with a gold and black mask similiar to the mask on the statue in [The Lordsgrove](The_Lordsgrove.md).
 -   If you do not have the [Blind](Boons_and_Flaws.md#flaws) Flaw and you unequip your face accessory while having Blindseer, you'll be _visually_ given a dark yellow-ish blindfold that cannot be dyed nor unequipped. This blindfold has no stats nor Talents and cannot have its visual toggled.
@@ -129,7 +129,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 -   Going in first person counts as yourself being invisible for All-Seeing Eye, as your character is not rendered in. If you look downwards while in first person, you will see the All-Seeing Eye vfx, and it will project light onto the surfaces around you.
 -   As stated in an interview with the owner of the game, Raguza, he got the inspiration for Blindseer when he was cosplaying Lee Sin stating 'I could suddenly see the truths of the world' upon wearing his blindfold.
 -   If you use the equipment forger at [Summer Isle](Summer_Isle.md) or in the Trophy Room of the guild base, you can have a face item different in appearance with the same effects as a blindfold.
--   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Blindseer had the Mystic line "I will protect this world."
+-   Back when Talent categories had unique lines, the category line for Blindseer was "I will protect this world."
 -   **Be extremely careful** with who you let into your trial, as you have no idea if the Pathfinder you're helping has an [Echo Modifier](Echoes.md) such as Vow of Thorns or Deep Champion, or if they have activated the [Shrine of Courage](Shrine_of_Courage.md). It's recommended to bring Pathfinder friends to help you progress Blindseer.
 -   The mask of a statue in [The Lordsgrove](The_Lordsgrove.md) (across from the one of a Hivelord, to the left when you enter) features the old [Vesperian](Vesperian.md) variation of Blindseer.
 -   A red Blindseer eye was used as the visual warning for unparryable attacks before being replaced with the dynamic Telegraphing system which shows a variety of glyphs instead. (Changed in the May 24, 2025 update)

@@ -1,6 +1,6 @@
 ---
 title: The Cold Forge
-revid: 199211
+revid: 199629
 source: https://deepwoken.fandom.com/wiki/The_Cold_Forge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer]
@@ -16,7 +16,7 @@ Coldheart Fortinbras' fabled lab hums at a precise chill, the perfect temperatur
 
 ## Overview
 
-The Cold Forge is a laboratory hidden within [Scyphozia](The_Depths.md). It is linked to the [Dormant Splinter](Dormant_Splinter.md).
+The Cold Forge is a laboratory hidden within [Scyphozia](The_Depths.md), inside of a frozen cavern known as the [Brinepool Passage](Brinepool_Passage.md). It is linked to the [Dormant Splinter](Dormant_Splinter.md).
 
 A Laboratory used by [Coldheart Fortinbras](Coldheart_Fortinbras.md). This location seems to be a somewhat small laboratory partially covered in ice due to the freezing temperature, housing an assortment of bookshelves, pipes and glass tubes. In the center of the room is a pit full of a black, foggy unknown substance. This room also has lights similar to what can be found in [Castle Light](Castle_Light.md), but instead of glowing yellow, these glow blue. Two sets of lockers can be found at the entrance.
 

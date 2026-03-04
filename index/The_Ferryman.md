@@ -1,6 +1,6 @@
 ---
 title: The Ferryman
-revid: 199461
+revid: 199654
 source: https://deepwoken.fandom.com/wiki/The_Ferryman
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, NPCs, Bosses, Voiced Characters]
@@ -286,60 +286,72 @@ Exhaustive Loot Table
 
 ## Dialogue
 
-**Introduction:**
+**Base Dialogue:**
 
-This is Ferryman's dialogue when he's neutral, before you fight him.
+**Initiating Fight:**
+
+**First Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="6">[The First time meeting The Ferryman on that character]</td>
-  <td colspan="6">Returning to The Ferryman after having already fought him once</td>
-</tr>
-<tr>
-  <td colspan="6">*<i>He yawns deeply.*</i> Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br>
-  </td>
-  <td colspan="6">Oh, back again? Heh, how about another wager?<br>
+  <td><i>*He yawns deeply.*</i> Oh, it seems like one of you land dwellers has finally decided to wake me up. Well squirt, what do you want?<br>
   </td>
 </tr>
 <tr>
-  <td colspan="6">Who are you?</td>
-  <td colspan="6">Deal.</td>
+  <td>Who are you?</td>
 </tr>
 <tr>
-  <td colspan="6">Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.<br>
-  </td>
-  <td colspan="6">[End Dialogue], Fight Begins</td>
-</tr>
-<tr>
-  <td colspan="6">[Tell him your name]</td>
-</tr>
-<tr>
-  <td colspan="6">Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?<br>
+  <td>Well, that's quite rude isn't it? Asking my name without even giving your own. Hmf. Typical land dwellers. No manners, I swear.<br>
   </td>
 </tr>
 <tr>
-  <td colspan="6">A wager?</td>
+  <td>[Tell him your name]</td>
 </tr>
 <tr>
-  <td colspan="6">Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?<br>
+  <td>Oh come on [player name], I'm just pulling your leg. Anywho! I don't think I'll be telling you my name but how's about a little wager?<br>
   </td>
 </tr>
 <tr>
-  <td colspan="6">Deal.</td>
+  <td>A wager?</td>
 </tr>
 <tr>
-  <td colspan="6">[End Dialogue], Fight Begins</td>
+  <td>Yes a wager! You mortals love wagers. From what I've seen anyway. You bet your life, and I bet a relic you might be interested in. How's that sound?<br>
+  </td>
+</tr>
+<tr>
+  <td>Deal.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], Fight Begins</td>
 </tr>
 </tbody>
 </table>
 
-**After Fight Finishes:**
+**Subsequent Encounters:**
 
-This is Ferryman's dialogue when he's defeated, after you fight him. There is no dubbing for this in game.
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Oh, back again? Heh, how about another wager?<br>
+  </td>
+</tr>
+<tr>
+  <td>Deal.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], Fight Begins</td>
+</tr>
+</tbody>
+</table>
+
+**Fight End:**
 
 <table>
 <tbody>
@@ -347,16 +359,14 @@ This is Ferryman's dialogue when he's defeated, after you fight him. There is no
   <td colspan="12">Begin Dialogue</td>
 </tr>
 <tr>
+  <td colspan="12">Well done, well done!</td>
+</tr>
+<tr>
+  <td colspan="12">Who are you?</td>
+</tr>
+<tr>
   <td colspan="6">[Post-fight, after defeating The Ferryman multiple times, and the season is <font>Spring</font> or <font>Summer</font>]</td>
   <td colspan="6">[Post-fight, after defeating The Ferryman for the first time, and the season is <font>Spring</font> or <font>Summer</font>. Or any defeats in <font>Autumn</font> or <font>Winter</font>]</td>
-</tr>
-<tr>
-  <td colspan="6">Well done, well done!</td>
-  <td colspan="6">Well done, well done!</td>
-</tr>
-<tr>
-  <td colspan="6">Who are you?</td>
-  <td colspan="6">Who are you?</td>
 </tr>
 <tr>
   <td colspan="6">Oh, you really are quite persistent with these questions... Fine fine fine. Though, a better question is perhaps not <i>who</i> I am, but <i>what</i>.</td>
@@ -368,6 +378,24 @@ This is Ferryman's dialogue when he's defeated, after you fight him. There is no
 </tr>
 <tr>
   <td colspan="6">I am a <a href="Glossary.md#krulians">Krulian</a>, and one of the few known to you surface-folk. We are the closest bridge between the Gods below and your kind. The next step in the evolutionary chain you could say... But I really must be off, it was a pleasure dancing with you as always.</td>
+</tr>
+<tr>
+  <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Exclusive Dialogue:**
+
+This dialogue was only available during the [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ah, yes, I see the appeal here... The music, the lights, the show! It is spectacular. Unfortunately I must be going.</td>
 </tr>
 <tr>
   <td colspan="6">[End Dialogue]</td>

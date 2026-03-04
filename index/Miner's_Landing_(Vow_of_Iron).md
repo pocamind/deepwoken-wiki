@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing (Vow of Iron)"
-revid: 195205
+revid: 199643
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
@@ -36,7 +36,7 @@ It contains the static spawn of [Prototype Railblade](Prototype_Railblade.md).
 
 ### Docks
 
-The docks of Miner's Landing are identical to the ones of the [Pathfinder](Pathfinder.md) version of the game, with the removal of the [guard](Ignition_Union_Guard.md), [Tolkat](Tolkat.md) and the [Mystic](Mystic.md).
+The docks of Miner's Landing are identical to the ones of the [Pathfinder](Pathfinder.md) version of the game, with the removal of the [guard](Ignition_Union_Guard.md) and [Tolkat](Tolkat.md).
 
 ### Town
 

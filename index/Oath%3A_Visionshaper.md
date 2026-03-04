@@ -1,6 +1,6 @@
 ---
 title: "Oath: Visionshaper"
-revid: 193945
+revid: 199636
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Visionshaper
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -87,12 +87,12 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
         -   Has 3 second cooldown, as it cannot be re-activated during its duration.
     -   _**Upon being hit below 50% health:**_
         -   The user will clear hitstun, shortly turn invisible, get pushed back, and spawn in a clone. (In that order)
-            -   The clone lasts 15 seconds, and cannot be [modified](Mantra_Modifiers.md). (6.5 seconds on targets with disbelief)
+            -   The clone lasts 15 seconds, and cannot be modified. (6.5 seconds on targets with disbelief)
             -   The invisibility lasts 0.5 seconds, does not grant I-frames, and also doesn't hide any wisps or any lighting VFX.
-            -   Will forcibly push the user backwards from the direction they're facing, removing user directional input and ignoring all [slow effects](Status_Effects.md).
+            -   Will forcibly push the user backwards from the direction they're facing, removing user directional input and ignoring all slow effects.
                 -   This will also cause the player to move upwards if they are somehow facing downwards.
         -   Immediately after getting hit the user clears hitstun and is instantly allowed to block/dodge freely.
-            -   However this will only activate on the very first tick of damage, causing [grabs](https://deepwoken.fandom.com/wiki/List_of_Grab_Mantras)/multihits to ignore this.
+            -   However this will only activate on the very first tick of damage, causing [grabs](List_of_Grab_Mantras.md)/multihits to ignore this.
         -   Can be repeatedly activated by the user as long as they're hit below 50% health so long it's off cooldown. (No need to get back above 50% to reactivate)
         -   Has 50 second cooldown.
 
@@ -149,13 +149,13 @@ This Oath grants 1 Support Mantra slot and 2 Combat Mantra slots. Appearance-wis
 
 ## Trivia
 
--   The Mental Fortress [Talent](Talents.md), [Disbelief](Talents.md#mental-fortress), only affects Illusory Servants, reducing the amount of time they last by half.
+-   The Mental Fortress [Talent](Talents.md), [Disbelief](Talents.md#disbelief), only affects Illusory Servants, reducing the amount of time they last by half.
 -   [Sudaruska's Fury](Gran_Sudaruska.md) counts as a non-Oath mantra, and can be used by your Shaper Clone, under the name "IceStorm".
 -   If you use Mirror Illusion on an enemy using a [Worn Songbook](Instruments.md#worn-songbook), the clone will imitate it and use the same instrument and song.
 -   Using Illusory Counter with its Reversal Spark can allow for some interesting interactions in PvE, as it's the only way to clone non-humanoid mobs and bosses.
     -   When cloning non-humanoid mobs, they'll T-pose and won't be able to move or attack. It's more of a funny interaction rather than something you can actively use in combat, especially when someone clones the [Heart of Enmity](Heart_of_Enmity.md) or some other very large mob.
     -   When cloning humanoid [bosses](Bosses.md), it allows you to see the internal name for the ability they used last. For example, [Duke Erisia's](Duke_Ishamon_Erisia.md) Aero Spear ability is named DukeBlast and his Strong Left-like attack is named DukePunch. You can of course use Reality Shift to make the boss clones use their copied boss abilities.
--   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Visionshaper had the Mystic line "I speak to the Owls."
+-   Back when Talent categories had unique lines, the category line for Visionshaper was "I speak to the Owls."
 -   This Oath was created by Dexerius, along with [Arcwarder](Oath%253A_Arcwarder.md), [Blightsurger](Oath%253A_Blightsurger.md), and [Saintsworn](Oath%253A_Saintsworn.md).[\[1\]](#cite-note-1)
     -   Dexerius was thought to have taken inspiration from Naruto for Visionshaper, notably the Shadow Clone Jutsu and Genjutsu from the series, but this was proven false.
 

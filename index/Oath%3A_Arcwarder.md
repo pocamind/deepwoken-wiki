@@ -1,6 +1,6 @@
 ---
 title: "Oath: Arcwarder"
-revid: 196571
+revid: 199641
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Arcwarder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ignition Union]
@@ -25,7 +25,7 @@ categories: [Oaths, The Ignition Union]
 
 ― The Hammer's Call
 
-The Arc Suit is a defence orientated piece of semi-sentient armour that [the Union](The_Ignition_Union.md) bestows upon their most trusted. It fuses with the soul of those who swear the oath, allowing them to manifest it around them at will. Arcwarders are sworn to become a conduit of protection to their fellow Union mates and do whatever it takes to defend them. Notably, Arcwarders are the only people known to utilize Plasma in their attacks, likely from a result of the [Flamecharm](Flamecharm.md) and [Thundercall](Thundercall.md) being combined within the suit.
+The Arc Suit is a defence orientated piece of semi-sentient armour that [The Ignition Union](The_Ignition_Union.md) bestows upon their most trusted. It fuses with the soul of those who swear the oath, allowing them to manifest it around them at will. Arcwarders are sworn to become a conduit of protection to their fellow Union mates and do whatever it takes to defend them. Notably, Arcwarders are the only people known to utilize Plasma in their attacks, likely from a result of the [Flamecharm](Flamecharm.md) and [Thundercall](Thundercall.md) being combined within the suit.
 
 ## Obtainment
 
@@ -138,7 +138,7 @@ Note: Attacks with multiple damage typings will be resisted by whatever resistan
 -   This is one of Dexerius' Oaths, along with [Blightsurger](Oath%253A_Blightsurger.md), [Saintsworn](Oath%253A_Saintsworn.md), and [Visionshaper](Oath%253A_Visionshaper.md).[\[1\]](#cite-note-1)
 -   The Arcwarder suit originally looked far different but was changed due to it 'not fitting Deepwoken's artstyle.' The original suit was reused for the [Immortal Guardians](Immortal_Guardian.md).
     -   The Arcwarder suit is inspired by Bondrewd's suit from the anime and manga series _Made in Abyss_. The Immortal Guardians wear an exact copy of the aforementioned suit, while the Arcwarder suit has been slightly redesigned.
--   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Arcwarder had the Mystic line "The Union is absolute."
+-   Back when Talent categories had unique lines, the category line for Arcwarder was "The Union is absolute."
 -   Arcwarder was originally named _Arcshifter_.[\[2\]](#cite-note-2)
 -   The Arcwarder suit is compatible with [Equipment Dye](Dye_Packet.md), being the only Mantra in the game that can be directly dyed.
 -   Prior to the May 1st, 2024 update, the Arc Suit's main color could not be [dyed](Dye_Packet.md), instead it had a very specific set of colors it would choose from randomly when you obtained the Oath. The Arc Suit's light was also made dyable in this same update, and prior to that update, it would always be yellow.

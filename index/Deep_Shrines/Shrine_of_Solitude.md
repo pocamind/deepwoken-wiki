@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Solitude
-revid: 198090
+revid: 199642
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Solitude
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -28,7 +28,7 @@ Located in [Trial of One](../Trial_of_One.md), [Temple of Hearts](../Temple_of_H
 
 ## Usage and Effect
 
-This shrine acts like a [Mystic](../Mystic.md), allowing you to affect and influence your odds for Talent Card draws. **Can NOT be used if you're not using the Lone Warrior Origin or Dilluvian Mechanism or** **to progress towards the [Soulbreaker](../Oath%253A_Soulbreaker.md) Oath.** Unlike other Shrines, it does not cost any [Knowledge](../Knowledge.md).
+The Shrine of Solitude allows you to affect and influence your odds for Talent Card draws. **Can NOT be used if you're not using the Lone Warrior Origin or Diluvian Mechanism or** **to progress towards the [Soulbreaker](../Oath%253A_Soulbreaker.md) Oath.** Unlike other Shrines, it does not cost any [Knowledge](../Knowledge.md).
 
 ## Dialogue
 
@@ -77,6 +77,10 @@ If the player is in [Trial of One](../Trial_of_One.md) and is not [Lone Warrior]
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   The Shrine of Solitude functions identically to removed [Mystics](../Mystic.md).
 
 ## Navigation
 

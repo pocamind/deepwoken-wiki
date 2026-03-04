@@ -1,6 +1,6 @@
 ---
 title: "Oath: Jetstriker"
-revid: 193533
+revid: 199639
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Jetstriker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -182,7 +182,7 @@ On obtainment Jetstriker grants +1 Wildcard Mantra slot, +1 Mobility Mantra slot
 
 -   Jetstream Pursuit was derived from the old [Legendary Talent](Cut_Content.md#legendary-talents) 'Vanishing Follow-Up', which was removed once Layer 2 was released over combat reworks.
 -   The old [Vigil's Grace](Oath%253A_Jetstriker/Old_Jetstriker.md#abilities) Talent previously had 0 downtime with [Command: Run](Vow_of_Mastery.md#commands), allowing players to infinitely true combo other players with knockdown, leading to the creation of knockdown immunity.
--   When [Mystic](Mystic.md) previously had unique dialogue for every Talent category, Jetstriker had the Mystic line "Journey before destination."
+-   Back when Talent categories had unique lines, the category line for Jetstriker was "Journey before destination."
+-   The old name "Windrunner" and Talent category line for Jetstriker are both references to _The Stormlight Archive_.
 -   Vigil's Grace card had another Oath name instead of Jetstriker, being "Oath: Windrunner"
--   The old name "Windrunner" and Mystic quote for Jetstriker are both references to _The Stormlight Archive_.
 -   Rush of Ancients does actually have a miniscule 0.07 second cooldown, this is only viewable if the user clicked roll the frame after using Rush of Ancients.

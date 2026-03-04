@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 199280
+revid: 199650
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -161,7 +161,7 @@ The Meat Lord can be found at the following places:
 </tbody>
 </table>
 
-**The Metal Lord:**
+**Exclusive Dialogue:**
 
 This dialogue was only available during the [Metallica x Deepwoken '72 Seasons' Listening Party](<Metallica_x_Deepwoken_'72_Seasons'_Listening_Party.md>).
 

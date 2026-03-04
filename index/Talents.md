@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 199590
+revid: 199665
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -427,10 +427,12 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisite: 55 Agility
 
 -   Lowstride \[Common Talent, Agility\] - When crouching, your stealth and roll distance are increased. The speed penalty you receive from crouching is much smaller. You now draw and sheathe your weapon silently. (+1 Passive Agility)
-    -   Similar to fist, removes the SFX from equipping your weapon, however draw/sheathe speed are unaffected.
+    -   Doubles the [Stealth](Stealth.md) gain bonuses from crouching.
+        -   Crouching normally increases your Stealth by 50% and adds a flat 50 Stealth afterwards, but having Lowstride makes crouching increase your Stealth by 100% and add a flat 100 Stealth instead.
+        -   Stealth × 1.5 + 50 -> Stealth × 2 + 100.
+    -   Removes the SFX from sheathing and unsheathing your weapon.
     -   Speeds up crouching to be fast as walking.
-    -   Immediately increases roll distance by 15% when crouching.
-    -   Physically adds to the users stealth stat while crouching.
+    -   Increases roll distance by 15% when crouching.
     -   Very strong synergy with "Murmur: Tacet", as it requires the user to crouch.
     -   Prerequisite: 20 Agility
     -   The following Outfits and equipment items have this Talent: [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), [Steel Plate](Steel_Plate.md), [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants), and [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md).

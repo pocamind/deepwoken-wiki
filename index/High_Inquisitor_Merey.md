@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 191464
+revid: 199644
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -40,7 +40,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 
 **No division:**
 
-**Private:**
+**Private / Corporal:**
 
 <table>
 <tbody>
@@ -48,23 +48,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Private - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Corporal:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> Corporal - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
+  <td><i>*With her visor covering her eyes, she remains inscrutably impassive, though you are sure that she is tracking every movement you make.*</i> [Rank] - it seems you've strayed a little too far from your post. It'd be more appropriate for an ensign like yourself to return to your Drill Sergeant, rather than waste time poking around where you oughtn't be.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

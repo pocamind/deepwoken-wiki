@@ -1,6 +1,6 @@
 ---
 title: First Layer
-revid: 199435
+revid: 199628
 source: https://deepwoken.fandom.com/wiki/First_Layer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the First Layer, The Depths, Layer 1]
@@ -39,12 +39,13 @@ The **First Layer** of [The Depths](The_Depths.md), also known as **Scyphozia,**
     -   Important NPCs:
         -   Various town-NPCs [Banker](Banker.md), [Antiquarian](Antiquarian.md), [Blacksmith](Blacksmith.md), etc. accessible only to [Ignition Delvers](Ignition_Delver.md)
         -   [Hollow Forge](Hollow_Forge.md), accessible only to [Ignition Delvers](Ignition_Delver.md)
-
--   [Marauder's Entrance](<Marauder's_Entrance.md>)
-    -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [The Forest of Lights](The_Forest_of_Lights.md)
+    -   [Marauder's Entrance](<Marauder's_Entrance.md>)
+        -   [The Diluvian Mechanism](The_Diluvian_Mechanism.md)
 
 -   [Celtor Wastes](Celtor_Wastes.md)
-    -   [The Cold Forge](The_Cold_Forge.md)
+    -   [Brinepool Passage](Brinepool_Passage.md)
+        -   [The Cold Forge](The_Cold_Forge.md)
     -   Important NPCs:
         -   [The Gaunt Man](The_Gaunt_Man.md)
 

@@ -1,11 +1,12 @@
 ---
 title: Reclaimer of the Recollection
-revid: 198279
+revid: 199653
 source: https://deepwoken.fandom.com/wiki/Reclaimer_of_the_Recollection
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Gremor NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire]
+categories: [Gremor NPCs, Vow of Iron Exclusive, SpoilerPages, In progress with reason, InProgressPages, Vendors, NPCs, Voiced Characters, Circle of Honour members, NPCs located in the Cerebral Spire]
 notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
+  - "This page is currently being worked on. Voicelines for True Heart of Enmity and Zi'eer"
 ---
 
 # Reclaimer of the Recollection
@@ -139,7 +140,7 @@ Recollection
   <td>Tell me about the memory of the commander.</td>
 </tr>
 <tr>
-  <td>I see glimpses of a Legion Commander... Perhaps you are familiar with him? I caution you that he'll be closer to his prime in these days. The events of this memory will have already transpired once you surpass <b>Power 9</b>, so if you seek this memory you must find it before then.</td>
+  <td>I see glimpses of a Legion Commander... Perhaps you are familiar with him? I caution you that he'll be closer to his prime in these days. The events of this memory will have already transpired once you surpass <b>Power [X]</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -169,7 +170,7 @@ Recollection
   <td>Tell me about the memory of the fragmented island.</td>
 </tr>
 <tr>
-  <td>They seem to have visited the Moon's Eyrie, out in the Void... And had quite a run-in with its guardians. The events of this memory will have already transpired once you surpass <b>Power 5</b>, so if you seek this memory you must find it before then.</td>
+  <td>They seem to have visited the Moon's Eyrie, out in the Void... And had quite a run-in with its guardians. The events of this memory will have already transpired once you surpass <b>Power [X]</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -199,7 +200,7 @@ Recollection
   <td>Tell me about the memory of the simian terror.</td>
 </tr>
 <tr>
-  <td>If you can believe it, in this time there were rumours of a Primadon who devoured a hoard of treasure... Perhaps this memory will bring proof to the legend? The events of this memory will have already transpired once you surpass <b>Power 8</b>, so if you seek this memory you must find it before then.</td>
+  <td>If you can believe it, in this time there were rumours of a Primadon who devoured a hoard of treasure... Perhaps this memory will bring proof to the legend? The events of this memory will have already transpired once you surpass <b>Power [X]</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -229,7 +230,7 @@ Recollection
   <td>Tell me about the memory of the dancer.</td>
 </tr>
 <tr>
-  <td>They seem to have challenged the Ferryman at Boatman's Watch. Strange, I can only imagine why a member of the Circle thought to seek out a <a href="Glossary.md#krulians">Krulian's</a> aid... The events of this memory will have already transpired once you surpass <b>Power 5</b>, so if you seek this memory you must find it before then.</td>
+  <td>They seem to have challenged the Ferryman at Boatman's Watch. Strange, I can only imagine why a member of the Circle thought to seek out a <a href="Glossary.md#krulians">Krulian's</a> aid... The events of this memory will have already transpired once you surpass <b>Power [X]</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -259,7 +260,7 @@ Recollection
   <td>Tell me about the memory of the trial.</td>
 </tr>
 <tr>
-  <td>Deep below Minityrsa lays a shrine used to test the mettle of would-be-heroes. Though, it would appear that it may have been somewhat worn down in our time. A great challenge awaits in memory. The events of this memory will have already transpired once you surpass <b>Power 9</b>, so if you seek this memory you must find it before then.</td>
+  <td>Deep below Minityrsa lays a shrine used to test the mettle of would-be-heroes. Though, it would appear that it may have been somewhat worn down in our time. A great challenge awaits in memory. The events of this memory will have already transpired once you surpass <b>Power [X]</b>, so if you seek this memory you must find it before then.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

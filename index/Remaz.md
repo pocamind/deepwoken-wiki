@@ -1,12 +1,11 @@
 ---
 title: Remaz
-revid: 188196
+revid: 199651
 source: https://deepwoken.fandom.com/wiki/Remaz
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with He/him pronouns, Cut Content, SpoilerPages, Characters mentioned in books, The Hive]
+categories: [Individuals with He/him pronouns, Cut Content, Characters mentioned in books, The Hive]
 notices:
   - This page contains Cut Content This page contains information regarding content that has been removed from the game and is no longer present or was scrapped during development and never made it to the final product.
-  - "This page contains spoilers This page contains significant information on the game's story and lore, you are still in time to turn back."
 ---
 
 # Remaz

@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 196540
+revid: 199674
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,12 +22,16 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 
 **Stealth** can be improved in several ways.
 
--   Crouching.
+-   Crouching. This increases your Stealth by 50% and adds a flat +50 Stealth afterwards.  
+    C r o u c h i n g S t e a l t h \= S t e a l t h × 1.5 + 50 {\\displaystyle CrouchingStealth=Stealth\\times 1.5+50} {\\displaystyle CrouchingStealth=Stealth\\times 1.5+50}
 -   Improving your [Agility](Attributes.md#agl) will improve your Stealth.
     -   Every point of [Agility](Attributes.md#agl) grants +0.2% Stealth.
     -   Passive Agility does **not** grant Stealth.
 -   The [Felinor](Felinor.md) aspect starts with 20% Stealth and has a 1.2x multiplier on Stealth gain.
--   The [Lowstride](Talents.md#lowstride) Talent improves Stealth while crouched.
+    -   The Stealth gain multiplier does not apply to Stealth gained from crouching or [Lowstride](Talents.md#lowstride).
+-   The [Lowstride](Talents.md#lowstride) Talent doubles the Stealth bonuses from crouching; granting +100% Stealth and +100 flat Stealth while crouching.  
+    L o w s t r i d e S t e a l t h \= S t e a l t h × 2 + 100 {\\displaystyle LowstrideStealth=Stealth\\times 2+100} {\\displaystyle LowstrideStealth=Stealth\\times 2+100}
+-   Being in [Tacet](Murmur%253A_Tacet.md) provides 400 flat Stealth. Tacet's Stealth cannot receive Stealth gain multipliers.
 -   Equipping specific Outfits:
     -   [Darkened Bastion](Darkened_Bastion.md), [Familiar Assassin's Armor](<Familiar_Assassin's_Armor.md>), [Inquisition Light](Inquisition_Light.md), [Navaen Nomad Robes](Navaen_Nomad_Robes.md), [Navaen War Chief](Navaen_War_Chief.md), and [Whaler Coat](Whaler_Coat.md) all grant +50% Stealth.
     -   [Grand Pathfinder Cloak](Grand_Pathfinder_Cloak.md) grants +40% Stealth.
@@ -47,12 +51,12 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
 
 On the other hand, the [Obvious](Boons_and_Flaws.md#obvious) Flaw grants you -20% base Stealth, but has no effect on Stealth _gain_.
 
-The current maximum Stealth possible, not counting crouching/Lowstride, is:
+The current maximum Stealth possible:
 
--   [Felinor](Felinor.md) - **140%**.
--   Any other Aspect - **100%**.
-
-This includes the best equipment with 100 Agility. If you have [Obvious](Boons_and_Flaws.md#obvious), subtract 20 from the above scores or 24 if [Felinor](Felinor.md).
+-   [Felinor](Felinor.md) - **140%** base, **260%** when crouching, and **380%** with [Lowstride](Talents.md#lowstride).
+-   Any other Aspect - **100%** base, **200%** when crouching, and **300%** with [Lowstride](Talents.md#lowstride).
+-   If you have [Obvious](Boons_and_Flaws.md#obvious), subtract 20 from the base scores, or 24 if [Felinor](Felinor.md).
+-   If you are in [Tacet](Murmur%253A_Tacet.md), add 400 to the final scores.
 
 ## Usage
 

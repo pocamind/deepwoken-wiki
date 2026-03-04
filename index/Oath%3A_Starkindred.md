@@ -1,6 +1,6 @@
 ---
 title: "Oath: Starkindred"
-revid: 196266
+revid: 199640
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Starkindred
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Starkindred Church]
@@ -31,10 +31,10 @@ The Starkindred Church is a malevolent cult that worships [Celestials](Celestial
 
 1.  Have 40 Strength and grip any player. ([Chime of Conflict](Chime_of_Conflict.md) does not count)
 2.  Talk to [Samael](Samael.md), located in the [Derelict Highchurch](Derelict_Highchurch.md) above the Voidzone in the [Ancient Rotlands](Ancient_Rotlands.md).
-    1.  Walk up to the stairs to the [Songseeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church. Or, if you have [Union Hook](Talent_Quests.md#union-hook), there are two hooks on the backside of the Church that lead directly to it.
+    1.  Walk up to the stairs to the [Songseeker Temple](Songseeker_Temple.md) and take a left, you'll see a broken bridge. Jump over the bridge to get to the church. Or, if you have [Union Hook](Talents.md#union-hook), there are two hooks on the backside of the Church that lead directly to it.
     2.  When inside, there is a trapdoor behind the podium. Go down the ladder and walk around the library interacting with a red book on a bookshelf; one of them will open a room.
 3.  Kill **[Iblis, The Fallen Angel](Iblis,_The_Fallen_Angel.md)**, located above the [Starfield Grove](Starfield_Grove.md) Voidzone in Starswept Valley. The angel will only be here if you have the quest active.
-    1.  If you lack the [Union Hook](Talent_Quests.md#union-hook), careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it. There is also a long, sloped rock that you can go up from the left of [The Lordsgrove](The_Lordsgrove.md) that leads you directly to the Voidzone.
+    1.  If you lack the [Union Hook](Talents.md#union-hook), careful parkour on the right of the Starfield Grove (outside of it) can allow you to reach the higher parts of it. There is also a long, sloped rock that you can go up from the left of [The Lordsgrove](The_Lordsgrove.md) that leads you directly to the Voidzone.
 4.  Return to Samael to get the Oath.
 
 _For a more in-depth walkthrough, consider watching [this video](https://youtu.be/uqNfFsZ7yhw)._
@@ -125,7 +125,7 @@ This Oath grants 2 Combat Mantra slots, 1 Wildcard Mantra slot, and 8 Health. Ad
 
 ## Trivia
 
--   Back when [Mystics](Mystic.md) had unique dialogue for every Talent category, Starkindred had the Mystic line "I speak for my masters above."
+-   Back when Talent categories had unique lines, the category line for Starkindred was "I speak for my masters above."
 -   According to an NPC named Ezra in Songseeker Wilds, Starkindreds claim to worship the [Celestials](Celestial.md), yet they scavenge and desecrate their artifacts for their own gain; they also have a long history of bloodshed in the name of their faith.
     -   This "history of bloodshed" is elaborated on by the existence of the [Pale Briar](Pale_Briar.md).
 -   Despite your grip being replaced with imprisoning the person on [Authority Ensign](Authority_Ensign.md), it will still count as a grip for Starkindred's requirements.

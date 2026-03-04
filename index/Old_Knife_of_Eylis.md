@@ -1,6 +1,6 @@
 ---
 title: Old Knife of Eylis
-revid: 195061
+revid: 199672
 source: https://deepwoken.fandom.com/wiki/Old_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies that can wield Enchantments, Enemies, Ambush Enemies, Knives of Eylis Enemies]
@@ -42,7 +42,7 @@ An Old Knife of Eylis' appearance consists of their [uniform](Whaler_Coat.md), a
  |
 | 
 
-**Time-Slowing Orb**  
+**Adagio**  
 (★☆☆)
 
  | Conjures a growing orb that slows down the movement of everyone except their own members.

@@ -1,6 +1,6 @@
 ---
 title: Subtle Knife of Eylis
-revid: 195068
+revid: 199667
 source: https://deepwoken.fandom.com/wiki/Subtle_Knife_of_Eylis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Enemies that can wield Enchantments, Enemies with Oaths, Knives of Eylis Enemies]
@@ -49,7 +49,7 @@ A Subtle Knife of Eylis is equipped with a Whaling Knife that has a chance to be
  |
 | 
 
-**Time-Slowing Orb**  
+**Adagio**  
 (★★☆)
 
  | Conjures a growing orb that slows down the movement of everyone except Knives of Eylis members.
@@ -118,8 +118,8 @@ A Subtle Knife of Eylis executes it's opponent after knocking them:
 
 -   Use ranged mantras to hit these guys when they activate their time bubbles, hitting them cancels their time bubble completely.
 -   If you don't have any ranged mantras, you'll have to get up close to them since a single hit from any attack will cancel their time bubble.
--   As they won't stop producing a Time-Slowing Orb until hit, making them use the move and then baiting the rest away can help reduce pressure in fights.
--   They'll use the Time-Slowing Orb much more frequently if fighting a player who has negative reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) instead of an npc, so it's recommended to stay their enemy if you're trying to obtain the **Voidwalker** origin.
+-   Since they won't stop producing the Adagio orb until they are hit, making them use the move and then baiting the rest away can help reduce pressure in fights.
+-   They'll use Adagio much more frequently if fighting a player who has negative reputation with [The Knives of Eylis](The_Knives_of_Eylis.md) instead of an npc, so it's recommended to stay their enemy if you're trying to obtain the **Voidwalker** origin.
 
 ## Trivia
 

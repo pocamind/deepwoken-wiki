@@ -1,6 +1,6 @@
 ---
 title: Authority Ensign
-revid: 199608
+revid: 199655
 source: https://deepwoken.fandom.com/wiki/Authority_Ensign
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, The Central Authority, Character, Origins, Faction Origins]
@@ -70,7 +70,7 @@ Your current Mission objective and the Mission's location will be displayed on t
 
 Upon completing a Mission, you will have to report back to Captain Trist. This will also be timed. Upon reporting back, you will gain 45 points towards your promotion, EXP, a small chest, and 3-5 **full** training points. The amount of full training points depends on your rank.
 
-If you fail a Mission by running out of time, failing the objective, or dying, you will lose 25 promotion points instead. The mission will also be considered failed if any of the previous things happen while you are on your way back to Captain Trist after a successful mission. Leaving the game will forfeit your Mission and may result in your promotion points being **voided**. It is not advised to leave the game during an active mission.
+If you fail a Mission by running out of time, failing the objective, or dying (which includes resetting your character with Esc + R + Enter to teleport), you will lose 25 promotion points instead. The mission will also be considered failed if any of the previous things happen while you are on your way back to Captain Trist after a successful mission. Leaving the game will forfeit your Mission and may result in your promotion points being **voided**. It is not advised to leave the game during an active mission.
 
 Even if you aren't in a Squad, other players may be assigned to the same Mission as you. For some Missions, like Armanent Sabotage, if the Mission is completed, it will be completed for both parties. Dying during a mission only counts as a Mission fail for the person who died.
 
@@ -155,7 +155,7 @@ Even if you aren't in a Squad, other players may be assigned to the same Mission
   <td>
   <ul>
     <li><a href="Equipment.md#head"><b>Head Equipment</b></a>: <a href="Bluesteel_Pauldrons.md">Bluesteel Pauldrons</a>, <a href="Deepwoken_Cloak.md">Deepwoken Cloak</a> (Both Variants), <a href="Fur_Pauldrons.md">Fur Pauldrons</a> (Both Variants), <a href="Imperial_Pauldrons.md">Imperial Pauldrons</a>, Overcoats (Black and White)</li>
-    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (Both Variants), <a href="Imperial_Boots.md">Imperial Boots</a></li>
+    <li><a href="Equipment.md#legs"><b>Leg Equipment</b></a>: <a href="Bluesteel_Boots.md">Bluesteel Boots</a>, <a href="Fur_Boots.md">Fur Boots</a> (Both Variants), <a href="Grand_Boots.md">Grand Boots</a>, <a href="Imperial_Boots.md">Imperial Boots</a></li>
     <li><a href="Equipment.md#torso"><b>Torso Equipment</b></a>: <a href="Warmaster's_Medallion.md">Warmaster's Medallion</a></li>
     <li><a href="Equipment.md#face"><b>Face Equipment</b></a>: <a href="Headband.md">Headband</a> (Blue)</li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>:
