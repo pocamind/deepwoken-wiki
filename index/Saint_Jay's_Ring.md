@@ -1,6 +1,6 @@
 ---
 title: "Saint Jay's Ring"
-revid: 199562
+revid: 199627
 source: https://deepwoken.fandom.com/wiki/Saint_Jay's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings, Craftable]

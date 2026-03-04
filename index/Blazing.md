@@ -1,6 +1,6 @@
 ---
 title: Blazing
-revid: 199618
+revid: 199626
 source: https://deepwoken.fandom.com/wiki/Blazing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -30,7 +30,7 @@ The hit count required to proc this enchantment varies based on your weapon type
 
 ### Notes
 
--   If you have [Talents#Lava Serpent](Talents.md#lava-serpent), this enchantment will proc Eruptions instead of applying burn. Eruptions have a 3 second cooldown.
+-   If you have [Lava Serpent](Talents.md#lava-serpent), this enchantment will proc Eruptions instead of applying burn. Eruptions have a 3 second cooldown.
 -   If you have [Twisted Puppets](Talents.md#twisted-puppets), this enchantment will apply 'Puppet Burn,' spawning Puppets every 4 seconds and draining Ether.
 -   Like all other sources of [burn](Status_Effects.md#burn), Blazing's burn scales on your [Flamecharm](Flamecharm.md) investment and is affected by all of your burn Talents.
     -   Base burn has a DPS of 8 at 0 Flamecharm, scaling up to 12 DPS at 100 Flamecharm. More information how Talents and other effects affect your burn damage can be found on the [Flamecharm](Flamecharm.md#trivia) page.

@@ -1,6 +1,6 @@
 ---
 title: Ethereal Osseous Plate
-revid: 198933
+revid: 199620
 source: https://deepwoken.fandom.com/wiki/Ethereal_Osseous_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Craftable, Ingredients, Items]
@@ -39,8 +39,8 @@ The Ethereal Osseous Plate can be used to craft into other items with the [Lost 
     1.  [Ring of Pestilence](Ring_of_Pestilence.md) + 1x Ethereal Osseous Plate + 1x [Trickster Dust](Trickster_Dust.md)
 -   ???
     1.  [Blacksteel Helm](Blacksteel_Helm.md) + 1x Ethereal Osseous Plate + ???
--   ???
-    1.  [Simple Pauldrons](Simple_Pauldrons.md) + 1x Ethereal Osseous Plate + ???
+-   [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md)
+    1.  [Simple Pauldrons](Simple_Pauldrons.md) + 1x Ethereal Osseous Plate + [Shiva's Codex](<Shiva's_Codex.md>)
 -   [Ossified Blood Earrings](Ossified_Blood_Earrings.md)
     1.  [Old Blood Earrings](Old_Blood_Earrings.md) + 1x Ethereal Osseous Plate
 -   ???
