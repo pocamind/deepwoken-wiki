@@ -1,6 +1,6 @@
 ---
 title: Black Diver
-revid: 194684
+revid: 199710
 source: https://deepwoken.fandom.com/wiki/Black_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Divers]
@@ -14,7 +14,7 @@ categories: [Outfits, Master Outfits, The Divers]
 | tier | Master |
 | crafting_req | x5 Cloth, x5 Fiber, x1 Blessed Gem, x5 Vibrant Gem, x1 Megalodaunt Hide, x1 Odd Tentacle, x1 Thresher Spine |
 | price | 1,000 |
-| stat_req | Power Level 15, 10 Willpower |
+| stat_req | Power 15, 10 Willpower |
 | bankable | Yes |
 | droppable | Yes |
 | durability | 2600 |

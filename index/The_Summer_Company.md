@@ -1,6 +1,6 @@
 ---
 title: The Summer Company
-revid: 174673
+revid: 199715
 source: https://deepwoken.fandom.com/wiki/The_Summer_Company
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Summer Company]
@@ -10,8 +10,9 @@ categories: [Factions, The Summer Company]
 
 | The Summer Company | |
 |---|---|
+| leader | Gunsmith Rosen |
 | territory | Summer Isle |
-| goals | Profit, no matter who's the customer., Aggresively compete with the Ignition Union. |
+| goals | Profit, no matter who's the customer, Aggresively compete with the Ignition Union |
 
 “ If you're not here to buy something, then leave. ”
 

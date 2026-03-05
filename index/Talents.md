@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 199686
+revid: 199713
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2823,7 +2823,6 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 70 Strength
 
 -   _**Piercing Blow**_ \[Advanced Talent, Strength\] - Attacks that break an opponent's block ignore their Armor resistances.
-    -   This Talent is currently bugged and does not work if you have less than 100 Strength.
     -   Prerequisite: 100 Strength
 
 ### Rampaging Brute
