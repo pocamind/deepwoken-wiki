@@ -1,9 +1,9 @@
 ---
 title: Ether Empowered Earrings
-revid: 198893
+revid: 199702
 source: https://deepwoken.fandom.com/wiki/Ether_Empowered_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Ears]
+categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]
 ---
 
 # Ether Empowered Earrings
@@ -13,7 +13,6 @@ categories: [Pathfinder Exclusive, Equipment, Ears]
 | type | Ears |
 | rarity | Rare |
 | selling price | ??? |
-| requirements | ??? |
 | weight | 0.1 |
 | innate stats | +2 Rare Pips |
 | innate talent | Ether Adeptness |
@@ -32,10 +31,8 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Ether Empowered Earrings** are a Rare [Equipment](Equipment.md) items under the "Ears" category.
+**Ether Empowered Earrings** are a craftable [Equipment](Equipment.md) items under the "Ears" category.
 
 This item is similar to [Caster Earrings](Caster_Earrings.md) from [Vow of Iron](Vow_of_Iron.md).
 
-## Talent: Ether Adeptness
-
-The [Ether Adeptness](Talents.md#ether-adeptness) Talent grants 40% Chip to all of your [Mantras](Mantras.md).
+The [Ether Adeptness](Talents.md#ether-adeptness) Talent grants Chip damage to all of your [Mantras](Mantras.md).

@@ -1,6 +1,6 @@
 ---
 title: Stealth
-revid: 199681
+revid: 199696
 source: https://deepwoken.fandom.com/wiki/Stealth
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -40,26 +40,40 @@ NPCs and monsters alike have a cone of vision in which they can spot the player,
     -   Some Outfits have the [Lowstride](Talents.md#lowstride) Talent:
         -   [Authority Peacekeeper Armor](Authority_Peacekeeper_Armor.md), [Diver Journeyman Robes](Diver_Journeyman_Robes.md), [Hive Adjudicator](Hive_Adjudicator.md), [Hive Drone](Hive_Drone.md), [Pathfinder Sorcerer](Pathfinder_Sorcerer.md), [Pathfinder Thaumaturge](Pathfinder_Thaumaturge.md), [Shadow Hunter](Shadow_Hunter.md), and [Steel Plate](Steel_Plate.md)
 -   Wearing the following Equipment:
-    -   Head: [Dark Owl Chapeau](Dark_Owl_Chapeau.md) (10%), [Bloodfeather Cowl](Bloodfeather_Cowl.md) (6%), [Bloodcurdle Cowl](Bloodcurdle_Cowl.md) (6%), [Assassin's Hood](<Assassin's_Hood.md>) (all variants) (5%), [Rogue Assassin's Hood](<Rogue_Assassin's_Hood.md>) (5%), [Monastery Cowl](Monastery_Cowl.md) (5%), [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) (5%), [Dark Cowl](Dark_Cowl.md) (4%), Black Hood (4%), Brown Hood (2%)
-    -   Arms: [Dark Owl Cloak](Dark_Owl_Cloak.md) (6%), [Mercenary's Garb](<Mercenary's_Garb.md>) (6%), [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>) (6%), [Ministry Operative Cloak](Ministry_Operative_Cloak.md) (6%), [Sandrunner Wraps](Sandrunner_Wraps.md) (4%), [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants) (3%)
+    -   Head:
+        -   [Dark Owl Chapeau](Dark_Owl_Chapeau.md) and [Mercenary's Hood](<Mercenary's_Hood.md>) grant 10% Stealth.
+        -   [Bloodfeather Cowl](Bloodfeather_Cowl.md), [Bloodcurdle Cowl](Bloodcurdle_Cowl.md), and [Necrotic Cowl](Necrotic_Cowl.md) grant 6% Stealth.
+        -   [Assassin's Hood](<Assassin's_Hood.md>) (all variants), [Rogue Assassin's Hood](<Rogue_Assassin's_Hood.md>), [Monastery Cowl](Monastery_Cowl.md), [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md), and [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md) grant 5% Stealth.
+        -   [Dark Cowl](Dark_Cowl.md) and Black Hood grant 4% Stealth.
+        -   Brown Hood grants 2% Stealth.
+    -   Arms:
+        -   [Dark Owl Cloak](Dark_Owl_Cloak.md), [Mercenary's Garb](<Mercenary's_Garb.md>), [Bounty Hunter's Garb](<Bounty_Hunter's_Garb.md>), [Ministry Operative Cloak](Ministry_Operative_Cloak.md), and [Prophet's Operative Cloak](<Prophet's_Operative_Cloak.md>) grant 6% Stealth.
+        -   [Sandrunner Wraps](Sandrunner_Wraps.md) grants 4% Stealth.
+        -   [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants) grant 3% Stealth.
     -   Legs: N/A
-    -   Torso: Shrouded Capes (all variants) (5%), [Dark Owl Cape](Dark_Owl_Cape.md) (2%)
-    -   Face: Duelist's Mask (6%), Corrupted Duelist's Mask (6%)
-    -   Earrings: [Master Thief Earrings](Master_Thief_Earrings.md) (3%), [Assassin's Earrings](<Assassin's_Earrings.md>) (3%)
+    -   Torso:
+        -   Shrouded Capes (all variants) grant 5% Stealth.
+        -   [Dark Owl Cape](Dark_Owl_Cape.md) grants 2% Stealth.
+    -   Face:
+        -   Duelist's Mask, Corrupted Duelist's Mask grant 6% Stealth.
+    -   Earrings:
+        -   [Master Thief Earrings](Master_Thief_Earrings.md), [Assassin's Earrings](<Assassin's_Earrings.md>), and [Ossified Blood Earrings](Ossified_Blood_Earrings.md) grant 3% Stealth.
     -   Rings: N/A
     -   Some Equipment items have the [Lowstride](Talents.md#lowstride) Talent:
         -   [Assassin's Cloak](<Assassin's_Cloak.md>) (all variants), [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md)
+-   The [Obvious](Boons_and_Flaws.md#obvious) Flaw grants -20% Stealth.
 
-On the other hand, the [Obvious](Boons_and_Flaws.md#obvious) Flaw grants you -20% base Stealth, but has no effect on Stealth _gain_.
+### Maximum Stealth
 
-The current maximum Stealth possible is 1,100% or 1,180%, depending on your Aspect;
+The current maximum Stealth possible is **1,100%** or **1,180%**, depending on your Aspect;
 
--   [Felinor](Felinor.md) - **140%** maximum base Stealth, **260%** when crouching, and **380%** with [Lowstride](Talents.md#lowstride).
--   Any other Aspect - **100%** maximum base Stealth, **200%** when crouching, and **300%** with [Lowstride](Talents.md#lowstride).
--   If you have [Obvious](Boons_and_Flaws.md#obvious), your base Stealth is reduced by 20, or 24 if [Felinor](Felinor.md);
-    -   An Obvious Felinor - **112** maximum base Stealth, **218** when crouching, and **324%** with Lowstride.
-    -   Any other Aspect with Obvious - **80%** maximum base Stealth, **170%** when crouching, and **260%** with Lowstride.
--   If you are in [Tacet](Murmur%253A_Tacet.md), add 400 to the final scores, and an additional 400 if you are using [Tacet Minimization](Talents.md#tacet-minimization).
+-   [Felinor](Felinor.md) - 140% maximum base Stealth, 260% when crouching, and 380% with [Lowstride](Talents.md#lowstride).
+-   Any other Aspect - 100% maximum base Stealth, 200% when crouching, and 300% with [Lowstride](Talents.md#lowstride).
+-   If you have [Obvious](Boons_and_Flaws.md#obvious), your base Stealth is reduced by 20, or 24 if [Felinor](Felinor.md). This reduces the maximum Stealth to **1,060%** or **1,124%** depending on your Aspect;
+    -   An Obvious Felinor - 112% maximum base Stealth, 218% when crouching, and 324% with [Lowstride](Talents.md#lowstride).
+    -   Any other Aspect with Obvious - 80% maximum base Stealth, 170% when crouching, and 260% with [Lowstride](Talents.md#lowstride).
+-   [Tacet](Murmur%253A_Tacet.md) provides 400% flat Stealth, and an additional 400% if you are using [Tacet Minimization](Talents.md#tacet-minimization).
+-   In the [Vow of Iron](Vow_of_Iron.md) gamemode, the [Rogue Assassin](Rogue_Assassin.md) Memento can reach a maximum Stealth value of **1,120** or **1,204%**, depending on the Ironsworn's Aspect. This Memento has 150 Agility when Power 20 alongside having access to Lowstride, Tacet, and Tacet Minimization.
 
 ## Usage
 
@@ -67,7 +81,10 @@ The current maximum Stealth possible is 1,100% or 1,180%, depending on your Aspe
 
 Against NPCs, Stealth affects the range where they can detect you. The higher your Stealth, the closer you have to be for them to detect you and vice versa.
 
-Against players, Stealth is suboptimal if your opponent has a functional monitor. However, if you have the [Fatal Stealth](Talents.md#fatal-stealth) Talent, you will gain increased damage when hitting your opponent's back based on the amount of Stealth you have, though this is restricted to Stealth gained from **equipment sources** only.
+Against players, Stealth outside of Tacet is suboptimal if your opponent has a functional monitor. However, there are two Talents that allow Stealth to provide benefits in PvP;
+
+-   [Fatal Stealth](Talents.md#fatal-stealth) from the [Authority Ensign](Authority_Ensign.md) Origin grants a 0.2% damage buff for every 1% Stealth gained from **equipment** or **outfit** sources. This buff only applies to attacks that hit your opponent's back, however. Due to equipment limitations, this damage buff (currently) caps out at +16% damage.
+-   [Merc Blade](Talents.md#merc-blade) from the [Mercenary's Hood](<Mercenary's_Hood.md>) equipment grants +1 flat damage on all attacks for every 10% Stealth you have. It is unknown if Stealth gained from unconventional sources (crouching, Lowstride, Tacet, or Tacet Minimization) affect this Talent. This item, and its Talent, are exclusive to the [Vow of Iron](Vow_of_Iron.md) gamemode.
 
 ### Crouching
 

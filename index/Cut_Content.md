@@ -1,6 +1,6 @@
 ---
 title: Cut Content
-revid: 198562
+revid: 199704
 source: https://deepwoken.fandom.com/wiki/Cut_Content
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content]
@@ -522,7 +522,7 @@ Charisma
 
 ## Other
 
--   **Lockers -** These were pseudo campfires that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
+-   **Lockers -** These were pseudo [campfires](Campfire_Pit.md) that let you access your [Mantras](Mantras.md) and [Talents](Talents.md), while not actually healing you. They were mostly placed exclusively in [The Depths](First_Layer.md), and were removed on the February 16th, 2026 update due to their use no longer being needed.
 -   **[False Memory](False_Memory.md) -** This weapon was obtained through the [Hippocampal Pool](Hippocampal_Pool.md) to let players replace their equipped weapon with another to unequip it and pass it down. It was removed on the Feburary 16th, 2026 update due to players gaining the ability to remove their weapon and swap to fists from the Journal.
 -   **[Ancient Rotlands](Ancient_Rotlands.md) Brains -**
     
@@ -535,8 +535,8 @@ Charisma
     
     -   Being set in an alternative reality, deaths in the arena were less impactful on the soul. Players were granted lives in the form of Skulls. They could hold 3 skulls at once. Dying shattered 1 skull. If the player had 3 or 2 skulls when this happened, they were not penalized. Shattering the last skull would make the player drop items and sent them to [The Depths](The_Depths.md). You could see how many skulls you had by using the Chime Of Conflict but not choosing a game mode. The skull count would appear at the little UI in the middle of your screen. Players recovered one skull in case of a victory. They also recovered all their skulls every season change (every real life day, at midnight GMT+0). If they were sent to [The Depths](The_Depths.md) by the PvP Arena, they were granted 1 skull which they could use after escaping.
 -   **Damage vs Monsters and Monster Armor pips -** These [equipment](Equipment.md) pips granted increased damage to [monsters](Monsters.md) and resistance against monsters respectively, additionally the Monster Armor pips granted +1% Physical and Elemental Resistance. These pip types were removed to allow PvE players to have a better chance in PvP situations with pips more geared towards universally useful stats like health and other resistance types. All equipment that previously had DvM or Monster Armor pips had them transferred into health/sanity and physical resistance respectively upon equip. These pip types were removed in the June 24th, 2025 update, being replaced with the [Bestiary](Bestiary.md) system.
+-   **Stomach Grumbles -** Periodically while at 0 stomach your character's stomach would audibly grumble, alerting all nearby NPCs of your location, and aggroing them if they were hostile. This mechanic temporarily found a strong use case after the Detainment Core update, where players would abuse the alertion to cause [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) to aggro onto them and start the fight almost immediately after entering the dungeon. Because of this, this mechanic was removed in a shadow hotfix not long after.
 -   **Elemental Intensity (as a Talent stat) -** Some Talents would grant a stat called "Elemental Intensity." This stat was largely placebo and didn't do anything, so it was removed in the September 7th, 2024 update.
--   **Ether Adept (the Talent category) -** With the removal of two of the Ether Adept Talents, all Talents within the Ether Adept Talent category were moved to Ether Conduit or Elemental Rebound instead. This was done on the August 4th, 2025 update.
 -   **[Ivory](Ivory.md) -** A quest giver NPC at [Pathfinder's Respite](<Pathfinder's_Respite.md>), she was removed along with the quest and the Talent the quest granted when it was made base behavior.
 -   **Lightning Strike Event -** An event which would occur while sailing, and would strike you, and your boat with lightning a few times. It was removed because it served no purpose other than being annoying.
 -   **Locked Chest -** Chests dropped from the monsters used to be locked and had to be carried to Bankers and other NPC's to be unlocked to reap the rewards. Two NPCs, the researcher at the Diver Camp and [Castle Light](Castle_Light.md)'s leader used to mention this mechanic in their dialogue post-release.

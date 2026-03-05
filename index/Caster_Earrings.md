@@ -1,6 +1,6 @@
 ---
 title: Caster Earrings
-revid: 198646
+revid: 199703
 source: https://deepwoken.fandom.com/wiki/Caster_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -33,4 +33,4 @@ This content is not accessible outside of this gamemode.
 
 **Caster Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Ether Adeptness](Talents.md#ether-adeptness) Talent grants 40% Chip to all of your [Mantras](Mantras.md).
+The [Ether Adeptness](Talents.md#ether-adeptness) Talent grants Chip damage to all of your [Mantras](Mantras.md).
