@@ -1,6 +1,6 @@
 ---
 title: Weird Trader
-revid: 194883
+revid: 199737
 source: https://deepwoken.fandom.com/wiki/Weird_Trader
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, NPCs, Vendors, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -77,7 +77,7 @@ A random item from the following list:
   <td><b>Items</b></td>
   <td>
   <ul>
-    <li><a href="Relics.md">Relics</a>: <a href="Enchant_Stone.md">Astral Enchant Stone</a>, (1) <a href="Dye_Packet.md">Dye Packet</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Astral.md">Astral Enchant Stone</a>, (1) <a href="Dye_Packet.md">Dye Packet</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>.</li>
   </ul></td>
 </tr>
 <tr>

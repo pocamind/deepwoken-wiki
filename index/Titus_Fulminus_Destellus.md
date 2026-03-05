@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 196457
+revid: 199736
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -425,7 +425,7 @@ This dialogue is unlocked if the player has the [Legion Intelligence](Legion_Int
   <td colspan="8">How'd you lose to me then?</td>
 </tr>
 <tr>
-  <td colspan="8">You got <i>lucky</i>. Every dog has its day. But enjoy your breath while it lasts. In the [End Dialogue], <i>everything</i> crumbles... even <i><b>you</b></i>.</td>
+  <td colspan="8">You got <i>lucky</i>. Every dog has its day. But enjoy your breath while it lasts. In the end, <i>everything</i> crumbles... even <i><b>you</b></i>.</td>
 </tr>
 <tr>
   <td colspan="4">How did you earn your name?</td>

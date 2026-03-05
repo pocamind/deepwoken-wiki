@@ -1,6 +1,6 @@
 ---
 title: Shogun Specialist
-revid: 196223
+revid: 199735
 source: https://deepwoken.fandom.com/wiki/Shogun_Specialist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Enemies, Etrea Enemies]
@@ -34,6 +34,16 @@ The Shogun Specialist is an enemy NPC that can be found in [Etris](<Etris_(Vow_o
 (★☆☆)**
 
  | Shogun Specialist raises his blade, performing a quick diagonal strike downwards, followed by another upwards, spinning around, holding his stance for a second and delivering a final upwards swing afterwards which does increased damage.
+
+ |
+| 
+
+**Mortal Draw: Maestro's Flourish  
+(★☆☆)**
+
+ | Swings his blade in a spinning motion, performing two gale-infused slashes.
+
+-   Extremely difficult to react to, having an extremely fast windup.
 
  |
 | 

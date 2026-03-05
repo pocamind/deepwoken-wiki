@@ -1,6 +1,6 @@
 ---
 title: Monsters
-revid: 199069
+revid: 199731
 source: https://deepwoken.fandom.com/wiki/Monsters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Mechanics]
@@ -16,9 +16,9 @@ _This page is for Monster enemies. For humanoid enemies, see **[Enemies](Enemies
 
 One of Deepwoken's finest, and arguably primary focuses, are the Monsters. Monsters consist of a wide array of threats, ranging from beasts, zombies, cyborgs, constructs, aliens, inter-dimensional entities, and even worse. They are embedded to the game as a multi-purpose tool, being a roadblock to better gear, armor, [Mantra Modifiers](Mantra_Modifiers.md), new areas, but most importantly: being a fundamentals check. They can tear players apart if they're unprepared, unlucky, or unskilled, and cannot be beaten without proper skill and technique. In addition, they serve as a way for a player to gauge their skills; if a player can't even beat an NPC Monster, what makes them think they can beat a boss or an entire dungeon?
 
-While each Monster has unique attacks, behaviors, traits, and patterns, they all share one thing in common; **They can be overcome.** Every monster, even the strongest ones such as the Dread Serpent can be beaten with enough memorization, skill technique. (However, do note certain monsters have unique traits such as a Time Limit or Health Regeneration which actually does make them impossible without enough damage.)
+While each Monster has unique attacks, behaviors, traits, and patterns, they all share one thing in common; **They can be overcome.** Every monster, even the strongest ones such as the Dread Serpent can be beaten with enough memorization and skill. (However, do note certain monsters have unique traits such as a Time Limit or Health Regeneration which actually does make them impossible without enough damage.)
 
-The vast majority non-humanoid monsters encountered in-game have hyper armor, meaning most, if not all of their attacks cannot be interrupted from being hit by a player.
+The vast majority of non-humanoid monsters encountered in-game have hyper armor, meaning most, if not all of their attacks cannot be interrupted from being hit by a player.
 
 ### Scyphozia
 
@@ -28,7 +28,7 @@ In **Scyphozia**, monsters have differences from their Overworld counterparts, r
 -   Benefiting from the lower gravity of The Depths, being able to **jump much higher** to pursue players. **[Megalodaunts](Megalodaunt.md)** especially benefit from this, as their jump is already high to begin with.
 -   Being **much more aware**, noticing players from further away, or even behind them in **certain** cases.
 -   Gaining **new behaviors/abilities**, such as Lionfish Cero.
--   Becoming **much more persistent in chasing,** almost never stopping their pursuit until the death of themselves or their target. Depending on your position in the depths, you might have an easier chance of escaping, or a life or death situation.
+-   Becoming **much more persistent in chasing,** almost never stopping their pursuit until the death of themselves or their target. Depending on your position in the depths, you might have an easier chance of escaping a life or death situation.
 
 Additionally, [Corrupted](Monsters.md#scyphozia) Monsters are able to spawn. They are virtually identical to their normal counterparts behavior-wise, however visually they have a large, persistent purple smoke aura around them, along with dealing roughly 50% more damage and having two and a half times the health compared to their normal counterparts. It's easier to see the aura on high graphics. On very low graphics, some monsters such as [King Gigamed](King_Gigamed.md) can be mistaken as not being corrupted. Ringing one of the 'Corrupted Bells' (black colored bells) in the Scyphozia increases the chance of monsters being corrupted by a heavy margin.
 

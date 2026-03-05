@@ -1,6 +1,6 @@
 ---
 title: Commander Morredh
-revid: 196269
+revid: 199729
 source: https://deepwoken.fandom.com/wiki/Commander_Morredh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, Military personnel of The Central Authority]
@@ -43,7 +43,7 @@ Commander Morredh is located in the dining room near the entrance of the [Fort M
   <td colspan="2"><i>*The Canor officer that stands before you appears disgrunteld with something.*</i> Another civilian? <i>Bah</i>. I bet you're here to see the Warden, like the rest of them. Well, he's <b>not in the dungeon</b>. Get out of my sight.</td>
 </tr>
 <tr>
-  <td>'The rest of them?'? What do you mean?</td>
+  <td>'The rest of them'? What do you mean?</td>
   <td>You have a problem with the Warden?</td>
 </tr>
 <tr>

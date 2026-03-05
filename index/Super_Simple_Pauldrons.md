@@ -1,6 +1,6 @@
 ---
 title: Super Simple Pauldrons
-revid: 189998
+revid: 199730
 source: https://deepwoken.fandom.com/wiki/Super_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
