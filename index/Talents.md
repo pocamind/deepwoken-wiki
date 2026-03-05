@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 199713
+revid: 199723
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1117,7 +1117,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Death Speaker
 
 -   Blackhole \[Common Talent, Shadowcast\] - Your singularity pulls everyone nearby in.
-    -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF?invite=cr-MSxiWFgsMjE4OTk4OTI2))
+    -   Pulls anyone nearby in a medium sized aoe to the closest opponent you hit with a shadow mantra. (AoE range can be seen here: [https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF](https://medal.tv/pl/games/roblox/clips/kaEeJDfoPtIlVOVBF))
     -   Prerequisites: Singularity, 60 Shadowcast, [Power](Power.md) 13
 
 -   Energy Siphon \[Common Talent, Shadowcast\] - Your singularity now pulls ether from extra players affected by Blackhole.
