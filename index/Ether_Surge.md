@@ -1,6 +1,6 @@
 ---
 title: Ether Surge
-revid: 195639
+revid: 199757
 source: https://deepwoken.fandom.com/wiki/Ether_Surge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Enchantments, Weapon Enchantments]
@@ -22,7 +22,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Ether Surge is a sustain enchantment that gives the user infinite ether on proc.
+Ether Surge is a sustain [enchantment](Enchantments.md) that gives the user infinite ether on proc.
 
 ## Effect
 

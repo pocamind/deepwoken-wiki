@@ -1,6 +1,6 @@
 ---
 title: Gluttony
-revid: 195549
+revid: 199760
 source: https://deepwoken.fandom.com/wiki/Gluttony
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,13 +18,13 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Gluttony is a sustain enchantment that steals your opponent's saturation on hit.
+Gluttony is a sustain [enchantment](Enchantments.md) that steals your opponent's saturation on hit.
 
 ## Effect
 
 On weapon hit Gluttony steals stomach and water from your opponent and gives it to yourself. The amount of water and stomach stolen scales on your weapon's scaled damage.
 
-Gluttony's sustenance steal is **not** affected by the [Glutton](Boons_and_Flaws.md#glutton) Flaw nor damage modifiers, but it **is** affected by damage resistances. With that being said, Gluttony's sustenance steal has the following formula: 0.15 × S c a l e d D a m a g e × ( 1 − R e s i s t a n c e s 100 ) + 2 {\\displaystyle 0.15\\times ScaledDamage\\times (1-{\\frac {Resistances}{100}})+2} {\\displaystyle 0.15\\times ScaledDamage\\times (1-{\\frac {Resistances}{100}})+2}.
+Gluttony's sustenance steal is **not** affected by the [Glutton](Boons_and_Flaws.md#glutton) Flaw nor damage modifiers, but it **is** affected by damage resistances. With that being said, Gluttony's sustenance steal has the following formula: 0.15 × S c a l e d D a m a g e × ( 1 − R e s i s t a n c e s 100 ) + 2 {\\displaystyle 0.15\\times ScaledDamage\\times (1-{\\frac {Resistances}{100}})+2} {\\displaystyle 0.15\\times ScaledDamage\\times (1-{\\frac {Resistances}{100}})+2}
 
 ### Notes
 

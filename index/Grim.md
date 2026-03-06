@@ -1,6 +1,6 @@
 ---
 title: Grim
-revid: 195550
+revid: 199761
 source: https://deepwoken.fandom.com/wiki/Grim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Grim is a debuffing enchantment that increases your opponent's incoming damage and posture damage.
+Grim is a debuffing [enchantment](Enchantments.md) that increases your opponent's incoming damage and posture damage.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Curse of Repulsion
-revid: 195568
+revid: 199793
 source: https://deepwoken.fandom.com/wiki/Curse_of_Repulsion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of Repulsion is a buffing curse enchantment that pushes away your opponent on blocks.
+Curse of Repulsion is a buffing curse [enchantment](Enchantments.md) that pushes away your opponent when you block their attacks.
 
 ## Effect
 

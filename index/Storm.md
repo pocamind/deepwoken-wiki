@@ -1,6 +1,6 @@
 ---
 title: Storm
-revid: 195539
+revid: 199782
 source: https://deepwoken.fandom.com/wiki/Storm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Storm is a damage dealing enchantment that applies [Shock](Status_Effects.md#shock) to your opponent.
+Storm is a damage dealing [enchantment](Enchantments.md) that applies [Shock](Status_Effects.md#shock) to your opponent.
 
 ## Effect
 

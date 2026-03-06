@@ -1,6 +1,6 @@
 ---
 title: Stormbreaker
-revid: 195559
+revid: 199783
 source: https://deepwoken.fandom.com/wiki/Stormbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 
 ## Description
 
-Stormbreaker is a damage dealing enchantment that applies [Shock](Status_Effects.md#shock) to your opponent and replaces your critical attack.
+Stormbreaker is a damage dealing [enchantment](Enchantments.md) that applies [Shock](Status_Effects.md#shock) to your opponent and replaces your critical attack.
 
 ## Effect
 

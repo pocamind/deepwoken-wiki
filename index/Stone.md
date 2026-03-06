@@ -1,6 +1,6 @@
 ---
 title: Stone
-revid: 195540
+revid: 199781
 source: https://deepwoken.fandom.com/wiki/Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Stone is a damage dealing enchantment that adds damage to your weapon attacks that guardbreak.
+Stone is a damage dealing [enchantment](Enchantments.md) that adds damage to your weapon attacks that guardbreak.
 
 ## Effect
 

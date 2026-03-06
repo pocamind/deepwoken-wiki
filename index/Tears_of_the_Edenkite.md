@@ -1,6 +1,6 @@
 ---
 title: Tears of the Edenkite
-revid: 195560
+revid: 199786
 source: https://deepwoken.fandom.com/wiki/Tears_of_the_Edenkite
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Tears of the Edenkite is a damage dealing enchantment that strikes your opponent with bubbles on critical attack and flourish.
+Tears of the Edenkite is a damage dealing [enchantment](Enchantments.md) that strikes your opponent with bubbles on critical attack and flourish.
 
 ## Effect
 

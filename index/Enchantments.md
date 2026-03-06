@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 199335
+revid: 199785
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -2227,6 +2227,7 @@ Unobtainable
 -   **July 15, 2025** - The weapon enchant [Void](Curse_of_Void.md) was renamed to [Curse of Void](Curse_of_Void.md).
 -   **July 25, 2025** - The weapon enchants [Windswept](Windswept.md), [Curse of the Authoritative](Curse_of_the_Authoritative.md), and [Bluster](Bluster.md) were added
 -   **August 4, 2025** - [Curse of Rhaemen's Ember](<Curse_of_Ysley's_Ember.md>) was renamed to [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)
+-   **Febuary 16, 2026** - The weapon enchants [Kyrsan Chill](Kyrsan_Chill.md) and [Suffocation](<Suffocated_(enchantment).md>) were added, [Curse of Captain Greene](Curse_of_Captain_Greene.md) was made publically obtainable also.
 
 ## Tips/Trivia
 

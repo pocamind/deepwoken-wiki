@@ -1,6 +1,6 @@
 ---
 title: Umbral Knight
-revid: 195561
+revid: 199787
 source: https://deepwoken.fandom.com/wiki/Umbral_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Umbral Knight is a damage dealing enchantment that strikes your opponent after a delay.
+Umbral Knight is a damage dealing [enchantment](Enchantments.md) that strikes your opponent after a delay.
 
 ## Effect
 

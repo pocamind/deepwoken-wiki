@@ -1,6 +1,6 @@
 ---
 title: Nemesis
-revid: 195554
+revid: 199767
 source: https://deepwoken.fandom.com/wiki/Nemesis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Critical Attack Enchantments]
 
 ## Description
 
-Nemesis is a damage dealing enchantment that replaces your critical with a teleporting slash.
+Nemesis is a damage dealing [enchantment](Enchantments.md) that replaces your critical with a teleporting slash.
 
 ## Effect
 

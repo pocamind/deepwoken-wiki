@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Chill
-revid: 199022
+revid: 199769
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Chill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Kyrsan Chill is a [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)\-exclusive debuffing enchantment that applies a stacking slow on critical hit.
+Kyrsan Chill is a [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)\-exclusive debuffing [enchantment](Enchantments.md) that applies a stacking slow on critical hit.
 
 ## Effect
 
@@ -26,4 +26,4 @@ Upon landing a critical attack, Kyrsan Chill applies slowing effect. This slow s
 
 ### Notes
 
--   This enchant **only works** if you've beaten the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
+-   **If you have not defeated the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) on your character, this enchantment will not work and your weapon's damage will be voided.**

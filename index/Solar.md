@@ -1,6 +1,6 @@
 ---
 title: Solar
-revid: 197356
+revid: 199780
 source: https://deepwoken.fandom.com/wiki/Solar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Solar is a debuffing enchantment that reduces Ether regeneration, Tempo gain, and steals Tempo on [Vent](Combat_Mechanics.md#tempo).
+Solar is a debuffing [enchantment](Enchantments.md) that reduces Ether regeneration, Tempo gain, and steals Tempo on [Vent](Combat_Mechanics.md#tempo).
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Chilling
-revid: 196555
+revid: 199753
 source: https://deepwoken.fandom.com/wiki/Chilling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Chilling is a damage dealing enchantment that applies chill and Bottom Freeze to your opponent.
+Chilling is a damage dealing [enchantment](Enchantments.md) that applies chill and Bottom Freeze to your opponent.
 
 Chilling's colors change depending on your [Frostdraw](Frostdraw.md) color, turning pink if you have [Glass Path: Crystallization](Talents.md#glass-path-crystallization).
 

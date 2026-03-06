@@ -1,6 +1,6 @@
 ---
 title: Harrowing
-revid: 197726
+revid: 199762
 source: https://deepwoken.fandom.com/wiki/Harrowing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -18,7 +18,7 @@ categories: [Hallowtide, Enchantments, Weapon Enchantments, Enchantments that pr
 
 ## Description
 
-Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive, debuffing enchantment that obscures your opponent's UI.
+Harrowing is a [Hallowtide](Hallowtide.md)\-exclusive debuffing [enchantment](Enchantments.md) that obscures your opponent's UI or causes Confusion in PvE.
 
 ## Effect
 

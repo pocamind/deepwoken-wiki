@@ -1,6 +1,6 @@
 ---
 title: Bluster
-revid: 195544
+revid: 199752
 source: https://deepwoken.fandom.com/wiki/Bluster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Bluster is a damage dealing enchantment that explodes your opponent after enough time has passed.
+Bluster is a damage dealing [enchantment](Enchantments.md) that explodes your opponent after enough time has passed.
 
 ## Effect
 

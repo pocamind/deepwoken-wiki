@@ -1,6 +1,6 @@
 ---
 title: Vampirism
-revid: 195562
+revid: 199788
 source: https://deepwoken.fandom.com/wiki/Vampirism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Vampirism is a sustain enchantment that grants [Temporary Health](Status_Effects.md#temporary-health) to the user on hit.
+Vampirism is a sustain [enchantment](Enchantments.md) that grants [Temporary Health](Status_Effects.md#temporary-health) to the user on hit.
 
 ## Effect
 

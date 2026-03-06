@@ -1,6 +1,6 @@
 ---
 title: Curse of Captain Greene
-revid: 198183
+revid: 199791
 source: https://deepwoken.fandom.com/wiki/Curse_of_Captain_Greene
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 
 ## Description
 
-Curse of Captain Greene is a damage buffing enchantment that increases your weapon's damage based on how many Notes you have.
+Curse of Captain Greene is a damage buffing [enchantment](Enchantments.md) that increases your weapon's damage based on how many [Notes](Notes.md) you have.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Heroism
-revid: 195552
+revid: 199764
 source: https://deepwoken.fandom.com/wiki/Heroism
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Heroism is a buffing enchantment that grants the user damage buffs if their health is within a certain range.
+Heroism is a buffing [enchantment](Enchantments.md) that grants the user damage buffs if their health is within a certain range.
 
 ## Effect
 
@@ -37,4 +37,4 @@ Being under certain negative status effects will apply them to your opponent whe
 
 ## Trivia
 
--   Heroism was once known as the "Blessing of the Hero" Enchant, and it used to do 3x your scaled weapon damage on proc as seen from [infernasus video](https://youtu.be/SOdkNcZATtA?si=ERCaXcVMek6acKTk).
+-   Heroism was once known as the "Blessing of the Hero" Enchant, and it used to deal 3x your scaled weapon damage on proc as seen from [infernasus video](https://youtu.be/SOdkNcZATtA).

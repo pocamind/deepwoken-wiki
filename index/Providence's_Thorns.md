@@ -1,6 +1,6 @@
 ---
 title: "Providence's Thorns"
-revid: 199199
+revid: 199777
 source: https://deepwoken.fandom.com/wiki/Providence's_Thorns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Providence's Thorns is a damage dealing enchantment that attacks your enemies when you parry them.
+Providence's Thorns is a damage dealing [enchantment](Enchantments.md) that attacks your enemies when you parry them.
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Elastic
-revid: 198554
+revid: 199756
 source: https://deepwoken.fandom.com/wiki/Elastic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Criticals with the M1 tag]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Enchantments that proc on Critic
 
 ## Description
 
-Elastic is a debuffing enchantment that tethers your opponent on hit.
+Elastic is a debuffing [enchantment](Enchantments.md) that tethers your opponent on hit.
 
 ## Effect
 

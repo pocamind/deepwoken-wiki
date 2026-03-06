@@ -1,6 +1,6 @@
 ---
 title: Astral
-revid: 195542
+revid: 199750
 source: https://deepwoken.fandom.com/wiki/Astral
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Astral is a PvE-based enchantment that increases your damage against NPCs.
+Astral is a PvE-based buffing [enchantment](Enchantments.md) that increases your damage against NPCs.
 
 ## Effect
 

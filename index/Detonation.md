@@ -1,6 +1,6 @@
 ---
 title: Detonation
-revid: 195547
+revid: 199755
 source: https://deepwoken.fandom.com/wiki/Detonation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments]
 
 ## Description
 
-Detonation is a damage dealing enchantment that causes an explosion on proc.
+Detonation is a damage dealing [enchantment](Enchantments.md) that causes an explosion on proc.
 
 ## Effect
 
