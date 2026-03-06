@@ -1,6 +1,6 @@
 ---
 title: Clan Mofisu
-revid: 198415
+revid: 199742
 source: https://deepwoken.fandom.com/wiki/Clan_Mofisu
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]

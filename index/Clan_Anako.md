@@ -1,6 +1,6 @@
 ---
 title: Clan Anako
-revid: 198412
+revid: 199741
 source: https://deepwoken.fandom.com/wiki/Clan_Anako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]

@@ -1,6 +1,6 @@
 ---
 title: Clan Kobura
-revid: 198414
+revid: 199743
 source: https://deepwoken.fandom.com/wiki/Clan_Kobura
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]

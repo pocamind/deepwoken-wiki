@@ -1,6 +1,6 @@
 ---
 title: Clan Ganba
-revid: 198413
+revid: 199744
 source: https://deepwoken.fandom.com/wiki/Clan_Ganba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]

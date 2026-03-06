@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 199616
+revid: 199740
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -46,7 +46,7 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 **Abyssal Hive**  
 (★☆☆)
 
- | The Parasol spits out a random Monster, varied to a [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Brute](Mudskipper_Brute.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md). It can only spawn one type of creature at a time, and can sometimes spawn two.
+ | The Parasol spits out a random Monster, varied to a [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Brute](Mudskipper_Brute.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md). It can only spawn one type of creature at a time, and can sometimes spawn two of them.
 
  |
 | 
