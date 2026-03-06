@@ -1,6 +1,6 @@
 ---
 title: Carry Load
-revid: 197166
+revid: 199800
 source: https://deepwoken.fandom.com/wiki/Carry_Load
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character]
@@ -47,13 +47,13 @@ In order of carry load given:
 -   The [Packmule](Boons_and_Flaws.md#packmule) Boon gives 50 carry load.
 -   [Strength](Attributes.md#str) increases your carry load by 0.5 for every point of Strength you get. Caps at +50 carry load at 100 Strength.
 -   [Fortitude](Attributes.md#ftd) increases your carry load by 0.5 for every point of fortitude you get. Caps at +50 carry load at 100 Fortitude.
--   The [base character](Character_Stats.md#carry-load) starts off with 130 carry load.
+-   The [base character](Character_Stats.md#carry-load) starts off with 100 carry load.
 
-All of these miscellaneous sources combined would theoretically provide 390 carry load.
+All of these miscellaneous sources combined would theoretically provide 360 carry load.
 
 ## Total Carry Load
 
-Combining both Talents and other sources, the total amounts to **420**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **504**. A build which obtains this carry load is quite simple to create, and can be found [here](https://deepwoken.co/builder?id=Db429pN6).
+Combining both Talents and other sources, the total amounts to **390**. However, your character can carry 20% more than your carry load would normally allow, with the drawback of gradually reducing your movement speed. Accounting for this, the real maximum theoretical carry load is **468**. A build which obtains this carry load is quite simple to create, and can be found [here](https://deepwoken.co/builder?id=Db429pN6).
 
 ## Trivia
 
@@ -68,5 +68,4 @@ Combining both Talents and other sources, the total amounts to **420**. However,
     -   A few Talents had their innate carry load changed: Gourmand 2 -> 5, Steady Footing 9 -> 5, Strong Stern 9 -> 5, Pack Mule 1 -> 10
     -   25 Talents and 4 Quest Talents had their innate carry load removed. This resulted in the theoretical maximum carry load build losing 110 carry load. Mileage may vary on pre-existing bank slots.
     -   The innate carry load gained from Strength investment was reduced from 1 per point to 0.5 per point, but Fortitude was changed to give 0.5 carry load per investment point as a tradeoff.
-    -   The character's base carry load was increased from 100 to the current 130.
     -   The weight of equipment items were changed, with it being based on equipment type rather than it being a flat 2 per item.
