@@ -1,6 +1,6 @@
 ---
 title: Adhesive
-revid: 195573
+revid: 199808
 source: https://deepwoken.fandom.com/wiki/Adhesive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Adhesive is an equipment enchantment that pulls your attacker towards you on proc.
+Adhesive is an equipment [enchantment](Enchantments.md) that pulls your attacker towards you on proc.
 
 ## Effect
 

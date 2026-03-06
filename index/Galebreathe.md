@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 198272
+revid: 199811
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -601,6 +601,7 @@ Wind + Blunt
 -   Gives I-Frames to yourself and your opponent throughout the duration of the Mantra.
 -   Can vent during the mantra, however, this does not cancel it.
 -   Can proc **Meteor Impact**.
+-   Can be modified with [Perfect](Mantra_Modifiers.md#regular-modifiers)/[Crystal Lenses](Mantra_Modifiers.md#regular-modifiers) to do a quick dash before the inital uppercut, with the length of this dash increasing with the amount of modifiers.
 
  |
 | 

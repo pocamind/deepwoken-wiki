@@ -1,6 +1,6 @@
 ---
 title: Curse of the No Life King
-revid: 195569
+revid: 199803
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_No_Life_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of the No Life King is a buffing curse enchantment that grants the user passive health regeneration and sanity drain on hit.
+Curse of the No Life King is a buffing curse [enchantment](Enchantments.md) that grants the user passive health regeneration and sanity drain on hit.
 
 ## Effect
 

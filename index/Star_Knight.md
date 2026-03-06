@@ -1,6 +1,6 @@
 ---
 title: Star Knight
-revid: 199599
+revid: 199815
 source: https://deepwoken.fandom.com/wiki/Star_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Monsters, Knights]
@@ -49,9 +49,9 @@ Star Knights are a stronger and very rare variant of [Stone Knights](Stone_Knigh
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 | 
@@ -73,9 +73,9 @@ High posture
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 | 

@@ -1,6 +1,6 @@
 ---
 title: Tainted Sorrow
-revid: 195588
+revid: 199810
 source: https://deepwoken.fandom.com/wiki/Tainted_Sorrow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Enchantments, Weapon Enchantments, Critical Attack Enchantments]
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Tainted Sorrow is an **unobtainable** weapon critical-replacing enchantment that flings your opponent on use.
+Tainted Sorrow is an **unobtainable** weapon critical-replacing [enchantment](Enchantments.md) that flings your opponent on use.
 
 ## Effect
 

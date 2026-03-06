@@ -1,6 +1,6 @@
 ---
 title: Curse of the Authoritative
-revid: 195571
+revid: 199801
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Authoritative
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of the Authoritative is a debuffing curse enchantment that applies negative posture resistance to your opponent.
+Curse of the Authoritative is a debuffing curse [enchantment](Enchantments.md) that applies negative posture resistance to your opponent.
 
 ## Effect
 

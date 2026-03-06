@@ -1,6 +1,6 @@
 ---
 title: Stone Knight
-revid: 199598
+revid: 199814
 source: https://deepwoken.fandom.com/wiki/Stone_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -55,9 +55,9 @@ Moss Knights are similar to Desert Knights, spawning in singles in [Bluster Rift
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 | 
@@ -81,9 +81,9 @@ High posture
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 

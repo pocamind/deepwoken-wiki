@@ -1,6 +1,6 @@
 ---
 title: "Curse of Yun'Shul"
-revid: 195572
+revid: 199807
 source: https://deepwoken.fandom.com/wiki/Curse_of_Yun'Shul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of Yun'Shul is an RNG-based curse enchantment that deals health-based damage.
+Curse of Yun'Shul is an RNG-based curse [enchantment](Enchantments.md) that deals health-based damage.
 
 ## Effect
 

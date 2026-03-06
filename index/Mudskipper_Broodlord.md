@@ -1,6 +1,6 @@
 ---
 title: Mudskipper Broodlord
-revid: 195628
+revid: 199877
 source: https://deepwoken.fandom.com/wiki/Mudskipper_Broodlord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -84,7 +84,7 @@ High posture
 
  |
 
-### **Passives**
+### Passives
 
 -   **Broodlord Rot** - When the Mudskipper Broodlord lands an attack on a target, **80% anti-heal is applied** for a few seconds. It also applies Bear Trap.
     -   Natural health regeneration is unaffected. Artificial health regeneration is, however.
@@ -101,22 +101,20 @@ High posture
 -   Be mindful of Broodrot Smash. This move allows the Broodlord to cover quite long distances with ease and catch up to you. Additionally, this move also allows them to easily board boats, especially larger ones.
 -   Being one of the most tanky and difficult mobs to fight in the game, they should be approached with extreme caution. Additionally, they can swim faster than you, so try to fight them on land where you have a speed advantage.
     -   Cannons on [boats](Ships_&_Sailing.md) are a good way to kill them when encountered at sea.
--   You _can_ use [Force Your Way](Talents.md#equipment-talents) from [Ignition Deepdelver](Ignition_Deepdelver.md) or the [Ignition Gauntlets](Ignition_Gauntlets.md) to parry Broodrot Slam and/or Broodrot Thrust, but be advised that it is incredibly risky and requires noticeably precise timing to parry either attack.
+-   You _can_ use [Force Your Way](Talents.md#force-your-way) from [Ignition Deepdelver](Ignition_Deepdelver.md) or the [Ignition Gauntlets](Ignition_Gauntlets.md) to parry Broodrot Slam and/or Broodrot Thrust, but be advised that it is incredibly risky and requires noticeably precise timing to parry either attack.
 -   The Broodlord is deceptively fast, even without using Broodrot Smash, typically able to catch up to the average player, especially on low health. If you're being chased, try to get to higher ground, as Mudskipper Broodlords are, for the most part, incapable of getting to higher elevations. Although, be incredibly mindful of their ability to phase through walls and ceilings with Broodrot Smash.
 -   When escaping from a Mudskipper Broodlord, pay close attention to it's attack audio. Broodrot Smash will knock you down, stunning you, allowing it to potentially get another hit in, dealing high damage. Dodge immediately if you hear it charging up its slam.
 -   Be mindful of their ability to parry mantras, as this can make them harder to deal with from long range
 
 ## Trivia
 
--   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on 5/3/24
+-   They were once able to spawn in the Etrean Luminant. Due to community backlash—a result of players being hunted down by Broodlords while being low level—their overworld spawns were made exclusive to The Eastern Luminant on May 3rd, 2024.
 -   They're based on the [Clickers](https://thelastofus.fandom.com/wiki/Clicker) from _The Last of Us_ series.
     -   Prior to the October 11th 2024 update, Mudskipper Broodlords could see through walls, as well as behind themselves. Clickers are known for their hearing.
 -   They can accidentally hit their own Mudskippers and kill them using their Broodrot Smash move.
--   They used to deal more damage and used Broodrot Smash and Rotten Mudtoss more frequently being one of the, if not the hardest mob ever, they were nerfed at an unknown point during Late 2024/Early 2025 reducing the damage of its punch and left hook and only using Broodrot Smash to grip and stopped using Rotten Mudtoss.
+-   They used to deal more damage and used Broodrot Smash and Rotten Mudtoss more frequently being one of the, if not the hardest mob ever, they were nerfed at an unknown point during late 2024 to early 2025 reducing the damage of its punch and left hook and only using Broodrot Smash to grip and stopped using Rotten Mudtoss.
 -   In the caves of [Saramaed Hollow](Saramaed_Hollow.md), Mudskipper Broodlords will start to fight their spawned Mudskippers and vice versa if they get hit by them too many times. Outside of being funny, this allows the player openings to escape without being chased.
 
 ## References
 
 1.  [↑](#cite-ref-1)
-    
-    Keelerbot (Restoration Moderator) denies a restoration after Corrupted Payback's healing is nullified by Broodlord's Rot. Confirms that Broodlord's Rot is 100% in the Diluvian.

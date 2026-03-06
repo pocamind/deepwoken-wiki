@@ -1,6 +1,6 @@
 ---
 title: Curse of Void
-revid: 197473
+revid: 199805
 source: https://deepwoken.fandom.com/wiki/Curse_of_Void
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Exclusive]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, The Vat Excl
 
 ## Description
 
-Curse of Void is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive debuffing curse enchantment applies anti-heal on hit.
+Curse of Void is a [Gaunt Man](The_Gaunt_Man.md)\-exclusive debuffing curse [enchantment](Enchantments.md) applies anti-heal on hit.
 
 ## Effect
 

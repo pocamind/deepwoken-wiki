@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 199740
+revid: 199874
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Monsters, Bosses]
@@ -159,8 +159,6 @@ Exhaustive Loot Table
 -   AOE moves are very useful in this boss fight, as they can hit 2-4 tentacles at once.
 -   Having a wall to protect you is almost entirely necessary, as it allows you to deal significant damage without getting hit.
 -   The chests may sometimes spawn in a different location than where the boss was defeated.
-
-  
 
 ## Trivia
 

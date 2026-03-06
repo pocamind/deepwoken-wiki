@@ -1,6 +1,6 @@
 ---
 title: "Curse of Ysley's Ember"
-revid: 195720
+revid: 199806
 source: https://deepwoken.fandom.com/wiki/Curse_of_Ysley's_Ember
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments]
 
 ## Description
 
-Curse of Ysley's Ember is an RNG-based curse enchantment that applies burn on proc.
+Curse of Ysley's Ember is an RNG-based curse [enchantment](Enchantments.md) that applies burn on proc.
 
 ## Effect
 

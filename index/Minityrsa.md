@@ -1,12 +1,11 @@
 ---
 title: Minityrsa
-revid: 198439
+revid: 199864
 source: https://deepwoken.fandom.com/wiki/Minityrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Stub pages without reason, StubPages, Locations, The Ministry, Locations in the Etrean Luminant]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Locations, The Ministry, Locations in the Etrean Luminant]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
 
 # Minityrsa
@@ -23,13 +22,11 @@ Ocean water freezes against the stone, as if trying to climb onto the shore.
 
 **Minityrsa** is a location in _Deepwoken_. It is an island found in the Etrean Luminant.
 
-## Overview
+## Descrption
 
 Minityrsa is a mostly uninhabited island perpetually blanketed in snow. It can be found to the right of the Luminant Gates. Despite being mostly uninhabited, there are remains of buildings and structures scattered around.
 
 ## Points of Interest
-
-### Named
 
 -   [Valley of Heroes](The_Valley_of_Heroes.md)
 -   [Trial of One](Trial_of_One.md)
@@ -82,7 +79,7 @@ Below is a list of potential items that can spawn in chests in Minityrsa.
 
 ## Maps
 
-A map can be found at [Maps#Surface](Maps.md#surface)
+A map can be found at [Maps#Surface](Maps.md#surface).
 
 ## Trivia
 

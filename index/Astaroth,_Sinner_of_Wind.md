@@ -1,9 +1,9 @@
 ---
 title: "Astaroth, Sinner of Wind"
-revid: 192830
+revid: 199875
 source: https://deepwoken.fandom.com/wiki/Astaroth%2C_Sinner_of_Wind
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Starkindred Church, Individuals with unspecified pronouns]
+categories: [Enemies, Enemies with Oaths, The Starkindred Church, Individuals with unspecified pronouns]
 ---
 
 # Astaroth, Sinner of Wind
@@ -18,8 +18,6 @@ categories: [Pages with broken file links, Enemies, Enemies with Oaths, The Star
 ## Description
 
 Astaroth, Sinner of Wind, is a powerful [Starkindred](Oath%253A_Starkindred.md) apostate located in [Songseeker Wilds](Songseeker_Wilds.md). They must be defeated for [Starkindred](Oath%253A_Starkindred.md) progression.
-
-  
 
 ## Moveset
 
@@ -98,10 +96,6 @@ Asraroth's arsenal consists of a True Seraph's Spear along with the [Galebreathe
  | Delivers an upward slash that makes both parties airborne before delivering another sideway slash that sends the target away.
 
  |
-
-File:Astaroth location from above.png
-
-Astaroth spawn location from above
 
 ## Trivia
 

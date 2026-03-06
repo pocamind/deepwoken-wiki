@@ -1,11 +1,9 @@
 ---
 title: Iris
-revid: 199543
+revid: 199829
 source: https://deepwoken.fandom.com/wiki/Iris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, In progress with reason, InProgressPages, NPCs, Quests]
-notices:
-  - This page still needs more information. Image of grave missing
+categories: [Vesperian NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs, Quests]
 ---
 
 # Iris
@@ -27,6 +25,10 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 ## Description
 
 Iris is a [Vesperian](Vesperian.md) NPC. Talking to them will start the Grave Tending [quest](Quests.md) where they ask you to bring a flower to their brother's grave.
+
+## Location
+
+Iris is located in [The Lordsgrove](The_Lordsgrove.md), following the path that trails left.
 
 ## Dialogue
 

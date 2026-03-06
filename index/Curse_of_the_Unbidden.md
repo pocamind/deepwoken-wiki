@@ -1,6 +1,6 @@
 ---
 title: Curse of the Unbidden
-revid: 195567
+revid: 199804
 source: https://deepwoken.fandom.com/wiki/Curse_of_the_Unbidden
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Attack Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Weapon Enchantments, Curse Enchantments, Critical Att
 
 ## Description
 
-Curse of the Unbidden is a debuffing curse enchantment that drains your opponent's Ether on hit and replaces your weapon critical with a counter.
+Curse of the Unbidden is a debuffing curse [enchantment](Enchantments.md) that drains your opponent's Ether on hit and replaces your weapon critical with a counter.
 
 ## Effect
 

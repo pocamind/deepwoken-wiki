@@ -1,6 +1,6 @@
 ---
 title: Bullet Casings
-revid: 199582
+revid: 199827
 source: https://deepwoken.fandom.com/wiki/Bullet_Casings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Items]
@@ -18,27 +18,27 @@ The maximum amount of cased bullets you can have in your inventory is capped at 
 
 **Iron:**
 
-These bullets give a 10% PEN bonus, because they are considered normal bullets, they do not have any disadvantages.
+Iron bullets give a 10% PEN bonus. Because they are considered normal bullets, they do not have any disadvantages.
 
 **Gold:**
 
-The Bullet will slow down the target on hit, however at a downside of dealing 10% less damage (Still applies) and the speed of the bullet being reduced (Possibly bugged).
+Gold bullets will slow down the target on hit at a downside of dealing 10% less damage and the speed of the bullet being reduced (speed is possibly bugged).
 
 **Umbrite:**
 
-The Bullet will have 10% increased damage on hit and apply wither, but has the downside of the firing speed of the gun being reduced by 25%.
+Umbrite bullets will have 10% increased damage on hit and apply wither, but has the downside of the firing speed of the gun being reduced by 25%.
 
 **Erisore:**
 
-The Bullet will apply a 50% anti-heal on hit for 12 seconds, however at a downside of the damage being reduced by 20%.
+Erisore bullets will apply a 50% anti-heal on hit for 12 seconds at a downside of the damage being reduced by 20%.
 
 **Irithine:**
 
-The Bullet will apply increased shaky block on hit similar to [Authority Ensign](Authority_Ensign.md) inquisitor's Hidden Blade, however at a downside of the damage being reduced by 20%.
+Irithine bullets will apply increased shaky block on hit similar to [Authority Ensign](Authority_Ensign.md) inquisitor's Hidden Blade, at a downside of the damage being reduced by 20%.
 
 **Gale:**
 
-Deal reduced damage, but deal 25% more damage and suffocate your opponents when landing shots in the air.
+Gale bullets deal reduced damage, but deal 25% more damage and suffocate your opponents when landing shots in the air.
 
 Currently bugged, the bullets don't apply suffocate.
 

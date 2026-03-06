@@ -1,6 +1,6 @@
 ---
 title: Songseeker Frostdrawer
-revid: 194226
+revid: 199867
 source: https://deepwoken.fandom.com/wiki/Songseeker_Frostdrawer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enemies, Songseekers]
@@ -12,10 +12,8 @@ categories: [Enemies, Songseekers]
 |---|---|
 | health | 1000 |
 | drops | Frigid Prism, Blue Royal Guard |
-| weapon | FIsts |
+| weapon | Fists |
 | moves | Assault, Critical, Ice Spikes, Ice Daggers, Ice Blade, Ice Eruption, Ice Smash |
-
-**Songseeker Frostdrawers** are a [humanoid enemy](Enemies.md) in _Deepwoken_.
 
 ## Description
 
@@ -93,7 +91,7 @@ A Songseeker Frostdrawer's arsenal consists of [Fists](Fists.md) **(Way of Navae
 
  |
 
-### Boons
+### Passives
 
 -   Third Eye - A Songseeker Frostdrawer cannot be assassinated.
 -   Emergency Extinguisher - Songseeker Frostdrawer is unable to be killed via burning to death, and will instead get up as normal and have their flames extinguished.
@@ -126,7 +124,4 @@ A Songseeker Frostdrawer executes it's opponents after knocking them:
 
 ## Trivia
 
--   They are considered one of the most dangerous and tedious to fight humanoid NPCs, **especially** at a low power.
--   **Songseekers** use the following outfits made by **SirAndrove2**:
--   [https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) - Shirt
--   [https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods) - Pants
+-   Songseekers use the following outfits made by **SirAndrove2**: [Shirt](https://www.roblox.com/catalog/6842791234/Aldritch-Devourer-of-Gods) and [Pants](https://www.roblox.com/catalog/6842793449/Aldritch-Devourer-of-Gods)

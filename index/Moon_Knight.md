@@ -1,6 +1,6 @@
 ---
 title: Moon Knight
-revid: 195477
+revid: 199816
 source: https://deepwoken.fandom.com/wiki/Moon_Knight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Knights]
@@ -44,6 +44,12 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
 -   Deals extra damage and dazes if the player is slammed against a wall.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  |
 | 
 
@@ -60,7 +66,13 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
 
  | Punches the ground, causing a pillar to erupt below the player.
 
--   The next attack from the stone-knight is usually guaranteed if this lands.
+-   The next attack from the Moon Knight is usually guaranteed if this lands.
+
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
 
  |
 | 
@@ -71,7 +83,7 @@ Some Moon Knights may spawn clipped inside of a rock near the center of the isla
  | Causes a rain of white flaming javelins from the sky, similar to the critical attack of the [First Light](First_Light.md).
 
 -   Strangely enough, these deal wind damage.
--   Moon Knight does NOT attack while this attack is active
+-   Moon Knights will not do any additional attack while this one is active.
 
  |
 
