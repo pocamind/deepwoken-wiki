@@ -1,6 +1,6 @@
 ---
 title: "Auto-Repair"
-revid: 195590
+revid: 200028
 source: https://deepwoken.fandom.com/wiki/Auto-Repair
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Equipment Enchantments]
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Auto-Repair is a cut content equipment enchantment that had an unknown effect.
+Auto-Repair is a [Cut Content](Cut_Content.md) equipment [enchantment](Enchantments.md) that had an unknown effect.
 
 ## Effect
 

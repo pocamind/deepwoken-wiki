@@ -1,6 +1,6 @@
 ---
 title: Sarkale
-revid: 191616
+revid: 200026
 source: https://deepwoken.fandom.com/wiki/Sarkale
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Khan NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Layer 2, Floor 1, NPCs located in the First Floor of the Second Layer]
@@ -54,7 +54,7 @@ A [Khan](Khan.md) found leaning against a mesh gate at the mouth of [Firfire Cav
   <td>How did you get out then?</td>
 </tr>
 <tr>
-  <td>I turned around, and ran! <i>*He laughs loudly, as if it were obvious.*</i> Ah, but you're an adventurer, how could I forget! Since you'll be on different levels of the cavern, you'll want to run, hm... much deeper in that hell. In your case, perhaps running toward your destination would server you better rather then running toward whence you came. Follow the lights, little lamb...</td>
+  <td>I turned around, and ran! <i>*He laughs loudly, as if it were obvious.*</i> Ah, but you're an adventurer, how could I forget! Since you'll be on different levels of the cavern, you'll want to run, hm... much deeper in that hell. In your case, perhaps running toward your destination would servr you better rather then running toward whence you came. Follow the lights, little lamb...</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

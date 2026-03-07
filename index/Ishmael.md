@@ -1,6 +1,6 @@
 ---
 title: Ishmael
-revid: 199524
+revid: 200035
 source: https://deepwoken.fandom.com/wiki/Ishmael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Vendors]

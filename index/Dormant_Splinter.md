@@ -1,6 +1,6 @@
 ---
 title: Dormant Splinter
-revid: 196667
+revid: 200064
 source: https://deepwoken.fandom.com/wiki/Dormant_Splinter
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, Craftable, Medium Weapons, Relics, Relic Weapon]
@@ -46,7 +46,7 @@ The main use for the **Dormant Splinter** is to be crafted into other weapons, t
 | Weapon | Recipe |
 | --- | --- |
 | [Fondant Splitter](Fondant_Splitter.md) | Dormant Splinter + [Cake](Cake.md) + [Sword](<Sword_(weapon).md>)/[Scimitar](Scimitar.md)/[Messer](Messer.md)/[Katana](Katana.md) (3 Cakes are required if Scimitar) |
-| [Umbrite Witherblade](Umbrite_Witherblade.md) | Dormant Splinter + 3x [Umbrite](Ores.md#umbrite) + [Razor Cutlass](Razor_Cutlass.md) |
+| [Umbrite Witherblade](Umbrite_Witherblade.md) | Dormant Splinter + [Pure Umbrite](Ores.md#umbrite)/3x [Umbrite](https://deepwoken.fandom.com/wiki/Ores#Umbrite) + [Razor Cutlass](Razor_Cutlass.md) |
 | [Sanguine Transfuser](Sanguine_Transfuser.md) | Dormant Splinter + 1x [Hemobloom](Hemobloom.md) + [Ancient Dagger Remains](Ancient_Dagger_Remains.md) |
 
 ## Critical
