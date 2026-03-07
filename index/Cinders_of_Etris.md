@@ -1,12 +1,16 @@
 ---
 title: Cinders of Etris
-revid: 199444
+revid: 199894
 source: https://deepwoken.fandom.com/wiki/Cinders_of_Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Random Encounters, Etrea, Disaster]
+categories: [Pathfinder Exclusive, Random Encounters, Etrea, Disaster]
 ---
 
 # Cinders of Etris
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Cinders of Etris LocationR
 

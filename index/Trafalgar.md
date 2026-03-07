@@ -1,11 +1,9 @@
 ---
 title: Trafalgar
-revid: 195926
+revid: 199940
 source: https://deepwoken.fandom.com/wiki/Trafalgar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Felinor NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs, NPCs located in the First Layer, Reputation]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Felinor NPCs, Individuals with They/them pronouns, Vow of Iron Exclusive, NPCs, NPCs located in the First Layer, Reputation]
 ---
 
 # Trafalgar

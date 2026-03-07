@@ -1,11 +1,9 @@
 ---
 title: Mortus
-revid: 199502
+revid: 199964
 source: https://deepwoken.fandom.com/wiki/Mortus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Capra NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Vendors, Individuals with unspecified pronouns]
 ---
 
 # Mortus
@@ -14,7 +12,7 @@ notices:
 |---|---|
 | name | Mortus |
 | aspect | Capra |
-| location | Etrean Sea |
+| location | The Etrean Sea |
 | family | Mortus' wife (wife) |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  

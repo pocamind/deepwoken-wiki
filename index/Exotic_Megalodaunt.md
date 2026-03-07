@@ -1,6 +1,6 @@
 ---
 title: Exotic Megalodaunt
-revid: 199415
+revid: 199962
 source: https://deepwoken.fandom.com/wiki/Exotic_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -33,6 +33,22 @@ The Exotic Megalodaunt (also referred to as Money Sharko) is a giant humanoid sh
  | A short range **Slash** using their forearms, often used four or more times in a row or paired with a kick.
 
 -   Heavy posture damage. Will commonly block break after two hits.
+
+ | 
+
+ |
+| 
+
+**Quad Slash**  
+(★★☆)
+
+ | Four short range swipes using their arms.
+
+_Uses Telegraph_
+
+[ParryTelegraph](Combat_Mechanics.md#green)
+
+Green
 
  | 
 

@@ -1,11 +1,9 @@
 ---
 title: Saffron
-revid: 199456
+revid: 199926
 source: https://deepwoken.fandom.com/wiki/Saffron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Khan NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Khan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
 ---
 
 # Saffron
@@ -33,18 +31,38 @@ Saffron is located inside of the second story of a house at [Meteor Isle](Meteor
 
 ## Dialogue
 
+**Base Dialogue:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>...</td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+These dialogues are unlocked if the player is obtaining [Oathless](Oath%253A_Oathless.md) for the first time.
+
 **First Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Those eyes... You wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td>
+  <td>Those eyes... You wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -54,13 +72,13 @@ Saffron is located inside of the second story of a house at [Meteor Isle](Meteor
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td>
+  <td>Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

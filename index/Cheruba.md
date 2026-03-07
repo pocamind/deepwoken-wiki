@@ -1,6 +1,6 @@
 ---
 title: Cheruba
-revid: 199120
+revid: 199959
 source: https://deepwoken.fandom.com/wiki/Cheruba
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Vow of Iron Exclusive, Vendors, NPCs, Individuals with unspecified pronouns]
@@ -14,9 +14,13 @@ categories: [Capra NPCs, Vow of Iron Exclusive, Vendors, NPCs, Individuals with 
 | aspect | Capra |
 | location | Bluster Rapids |
 
+Variants: [Seraphina](Seraphina.md)
+
+}}
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 

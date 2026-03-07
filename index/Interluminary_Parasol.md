@@ -1,9 +1,9 @@
 ---
 title: Interluminary Parasol
-revid: 199874
+revid: 199966
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [World Event, Monsters, Bosses]
+categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
 ---
 
 # Interluminary Parasol
@@ -11,9 +11,13 @@ categories: [World Event, Monsters, Bosses]
 | Interluminary Parasol | |
 |---|---|
 | health | 153,000, 225,000 (Corrupted) |
-| drops | Chest, Parasol Planter, Parasol Part (direct drop), Raw Parasol Brain (direct drop), Summer Scarf, Threadwork Summer Scarf, Cerulean Gown, Vigil Sentinel, Seamstress's Attire, Troublemaker's Overcoat, Etc. (Check loot table for more info) |
+| drops | Chest, Parasol Planter, Parasol Part (direct drop), Raw Parasol Brain (direct drop), Parasol Membrane, Summer Scarf, Threadwork Summer Scarf, Vigil Sentinel, Jade Vigil's Weave, Etc. (Check loot table for more info) |
 | locations | Leiuna |
 | challenges | -- Interluminary Parasol --, Blot Out The Sun - Slay 10.Reward: +15% DMG; +7.5% RES |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ The sight of a Parasol is more than enough to make many lose their lunch. It's thought that they act as a form of cross-pollinator for various creatures that make their way from the Depths to Lumen, exchanging the traits and properties between them and dismantling ecosystems by injecting them into a competing niche. ”
 
@@ -110,7 +114,7 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ol>
-    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a> (direct drop), <a href="Parasol_Part.md">Parasol Part</a> (direct drop), <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a> (direct drop)</li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a> (direct drop), <a href="Parasol_Part.md">Parasol Part</a> (direct drop), <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a> (direct drop), <a href="Parasol_Membrane.md">Parasol Membrane</a> (chest drop)</li>
     <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
     <li>One or two <a href="Crowns.md">Crowns</a>, depending on how much damage you did to the Parasol</li>
   </ol></td>

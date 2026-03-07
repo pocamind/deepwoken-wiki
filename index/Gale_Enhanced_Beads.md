@@ -1,8 +1,9 @@
 ---
 title: Gale Enhanced Beads
-revid: 198534
+revid: 199979
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Craftable, Torso, Necklaces]
 ---
 
 # Gale Enhanced Beads

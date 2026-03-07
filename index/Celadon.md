@@ -1,9 +1,9 @@
 ---
 title: Celadon
-revid: 191355
+revid: 199928
 source: https://deepwoken.fandom.com/wiki/Celadon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Pathfinder Exclusive, NPCs]
+categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Oath Trainer]
 ---
 
 # Celadon
@@ -24,11 +24,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Celadon** is a Boulder [Adret](Adret.md) that wears the [Verdant Sniper](Verdant_Sniper.md) outfit. He is one of the disciples required for the Oathless Quest. For more information, see [Oath: Oathless](Oath%253A_Oathless.md).
+Celadon is an [Adret](Adret.md) NPC. They are one of the disciples required for the [Oathless](Oath%253A_Oathless.md) Quest.
 
 ## Location
 
-Celadon is located in [Summer Isle](Summer_Isle.md). Inside the Guildhall/Inn, go up the stairs to the second floor and look to your right, and you will meet Celadon.
+Celadon is located in [Summer Isle](Summer_Isle.md), up the ladder where the bedding is at.
 
 ## Dialogue
 
@@ -37,33 +37,33 @@ Celadon is located in [Summer Isle](Summer_Isle.md). Inside the Guildhall/Inn, g
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">...</td>
+  <td>...</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 **Unlockable Dialogue:**
 
-This dialogue is unlocked if the player has asked [Cerulean](Cerulean.md) **"Where can I find the disciples?"**.
+These dialogues are unlocked if the player is obtaining [Oathless](Oath%253A_Oathless.md) for the first time.
 
 **First Encounter:**
 
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Those eyes.. you wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td>
+  <td>Those eyes... You wish to walk alone too. I am a disciple of Cerulean, an Oathless wanderer. It seems this is sufficient to Cerulean's guidance; do return to him once you've spoken to all three of us.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
@@ -73,23 +73,22 @@ This dialogue is unlocked if the player has asked [Cerulean](Cerulean.md) **"Whe
 <table>
 <tbody>
 <tr>
-  <td colspan="12">Begin Dialogue</td>
+  <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="12">Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td>
+  <td>Walk free, Oathless disciple. You've already met Cerulean's conditions with me.</td>
 </tr>
 <tr>
-  <td colspan="12">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   If you already have an Oath, or not on the Oathless quest line, he will only say "..."
--   His [Adret](Adret.md) aspect variant is Boulder.
+-   Celadon's aspect variant is Boulder.
 -   He is named after a city in the Kanto region from the [_Pokémon_](https://en.wikipedia.org/wiki/Pok%C3%A9mon) franchise. Namely, [_Celadon City_](https://bulbapedia.bulbagarden.net/wiki/Celadon_City).
     -   This follows the same pattern with the other Oathless npcs. For more information you can look at [Cerulean](Cerulean.md), [Saffron](Saffron.md), and [Viridian](Viridian.md).
 -   Celadon usually means the shade of the color green.
 -   Weirdly enough, [Saffron](Saffron.md) has a unique dialogue compared to the other disciples, being "Those eyes... You wish to" and continue. While the others, [Viridian](Viridian.md) and Celadon, saying "Those eyes.. you wish to" and continue.
-    -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"\]
+    -   The only difference these have is that, Saffron has 3 dots and a capitalized Y in "You", while the others have 2 dots and a lower case Y in "you"

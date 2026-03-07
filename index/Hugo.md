@@ -1,6 +1,6 @@
 ---
 title: Hugo
-revid: 192585
+revid: 199993
 source: https://deepwoken.fandom.com/wiki/Hugo
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Vow of Iron Exclusive, Vendors, NPCs]

@@ -1,6 +1,6 @@
 ---
 title: Blindfold
-revid: 196323
+revid: 199986
 source: https://deepwoken.fandom.com/wiki/Blindfold
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Face, Blindfolds]
@@ -34,7 +34,7 @@ Standard blindfolds are the most difficult to obtain, however they are all still
 | --- | --- | --- |
 | Blindfold | No innate Pips | [Erisia](Erisia.md), [First Layer](First_Layer.md), [Sea Event Brown Chests](Random_Encounters.md) |
 | Black Blindfold | +1 Common | [Pure Ore Turn-ins](Random_Encounters.md), [Chime of Conflict](Chime_of_Conflict.md), [Fishing](Fishing.md), [Meteor Isle](Meteor_Isle.md), [Low-tier Voidwalker Bounties](Voidwalker.md), [First Layer](First_Layer.md), [Island Sea Events](Random_Encounters.md), [The Depths](The_Depths.md) |
-| Crimson Blindfold | +1 Common | [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [First Layer](First_Layer.md), [Low-tier Voidwalker Bounties](Voidwalker.md), [Ancient Rotlands](Ancient_Rotlands.md) |
+| Crimson Blindfold | +1 Common | [Minityrsa](Minityrsa.md), [Songseeker Wilds](Songseeker_Wilds.md), [First Layer](First_Layer.md), [Low-tier Voidwalker Bounties](Voidwalker.md), [Ancient Rotlands](Ancient_Rotlands.md), [Sea Events](Random_Encounters.md) |
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Nanji
-revid: 199329
+revid: 200010
 source: https://deepwoken.fandom.com/wiki/Nanji
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests, Etrea]
@@ -140,6 +140,10 @@ Nanji is located at the bridge heading towards the [Barber](Barber.md) and [Neri
 </tr>
 </tbody>
 </table>
+
+## Gallery
+
+Nanji's training card ( obtained after completing the quest )
 
 ## Trivia
 

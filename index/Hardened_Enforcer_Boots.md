@@ -1,8 +1,9 @@
 ---
 title: Hardened Enforcer Boots
-revid: 197988
+revid: 199981
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Craftable, Boots, Legs]
 ---
 
 # Hardened Enforcer Boots

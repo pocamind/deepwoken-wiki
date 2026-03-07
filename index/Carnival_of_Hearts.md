@@ -1,12 +1,16 @@
 ---
 title: Carnival of Hearts
-revid: 199585
+revid: 199916
 source: https://deepwoken.fandom.com/wiki/Carnival_of_Hearts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, World Event, Dungeons]
+categories: [Pathfinder Exclusive, Pages with broken file links, World Event, Dungeons]
 ---
 
 # Carnival of Hearts
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Carnival of Hearts LocationR
 

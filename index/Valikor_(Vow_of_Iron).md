@@ -1,11 +1,9 @@
 ---
 title: Valikor (Vow of Iron)
-revid: 191682
+revid: 199946
 source: https://deepwoken.fandom.com/wiki/Valikor_(Vow_of_Iron)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, NPCs]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
+categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs]
 ---
 
 # Valikor (Vow of Iron)
@@ -15,6 +13,7 @@ notices:
 | name | Valikor |
 | aspect | Etrean |
 | location | The Golden Rat |
+| affiliation | The Golden Rats |
 
 Variants: [Valikor](Valikor.md)
 

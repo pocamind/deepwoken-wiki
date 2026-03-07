@@ -1,6 +1,6 @@
 ---
 title: King Thresher
-revid: 197706
+revid: 199913
 source: https://deepwoken.fandom.com/wiki/King_Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -67,9 +67,9 @@ A King Thresher is required to be killed to complete [Jessamine](Jessamine.md)'s
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 | 

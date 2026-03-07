@@ -1,6 +1,6 @@
 ---
 title: The Hall of Shattered Wills
-revid: 198120
+revid: 199985
 source: https://deepwoken.fandom.com/wiki/The_Hall_of_Shattered_Wills
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Locations]
@@ -84,6 +84,10 @@ A room with interactable plaques of [Deep Shrines](Deep_Shrines.md) across the w
 Jeffery the Office Creature is a flying cat that ragdolls anyone hit by him.
 
 -   He releases a "Meow" sound effect whenever he hits someone or a surface.
+
+### HorribleTM
+
+An entity resembling head moderator HorrorTM.
 
 ## Maps
 

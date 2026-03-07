@@ -1,6 +1,6 @@
 ---
 title: "Oath: Blindseer"
-revid: 199637
+revid: 199919
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Blindseer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -28,7 +28,7 @@ Blindseer glyphs at Temple of the Forgotten Flame
 -   Meet the following requirements:
     -   Have 40 Willpower
     -   Have the 3 Talents from the [Mental Fortress](https://deepwoken.fandom.com/wiki/Talents#Mental_Fortress) set: **Breathing Exercise**, **Conquer your Fears** and **Disbelief** from Talent rolls, not equipment. (You can reroll these into different talents at the [Shrine of Chance](Deep_Shrines/Shrine_of_Chance.md) once you obtain the oath)
-    -   Be blind, either through the **Blinded** Talent from Blindfolds or the [Blind](Boons_and_Flaws.md#flaws) Flaw.
+    -   Be blind through the **Blinded** Talent from Blindfolds. (The [Blind](Boons_and_Flaws.md#flaws) Flaw method currently does not work)
 -   Head to Lower Erisia and make your way to the bandit village past the camp in the ruins.
 -   Above Path's Respite lies the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md). Climb up the wall bordering the village to reach it.
 -   Climb above the temple doors or go through them if they are open and proceed inside the temple.
@@ -109,7 +109,7 @@ With the stat requirements, the Talents, the blinded Talent and the Oath Talent 
 ## Notes
 
 -   **Blindseer Mantras don't scale with Willpower at all.**
--   Having the [Blind](Boons_and_Flaws.md#flaws) Flaw removes the Blindfold requirement, and is essentially a free boon point with this oath
+-   Having the [Blind](Boons_and_Flaws.md#flaws) Flaw used to remove the Blindfold requirement, and would essentially be a free boon point with this oath
 -   While you don't need to keep the Blindfold equipped after obtaining the Oath, having the _Blinded_ Talent grants immunity to abilities like [Gaze](Attunement-less.md#gaze) and [Flame Blind](Flamecharm.md#flame-blind). The [Blind](Boons_and_Flaws.md#flaws) flaw also grants this effect.
 -   Well-suited Oath for PvE.
 -   Pairs well with Lose Your Mind, a Talent that makes you deal more damage the more insane you are.

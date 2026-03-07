@@ -1,11 +1,9 @@
 ---
 title: Eres
-revid: 198055
+revid: 199934
 source: https://deepwoken.fandom.com/wiki/Eres
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, In progress without reason, InProgressPages, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Eastern Luminant]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Etrea, NPCs located in the Eastern Luminant]
 ---
 
 # Eres

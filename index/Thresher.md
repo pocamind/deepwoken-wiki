@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 197707
+revid: 199912
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -71,9 +71,9 @@ They are not all hostile though, as [Sordino](Sordino.md), a man found at the St
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |  |
 

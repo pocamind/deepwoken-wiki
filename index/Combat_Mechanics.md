@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 199520
+revid: 199914
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -442,7 +442,6 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Lumbering Thrust
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
 -   [Rock Golem](Rock_Golem.md): Uppercut
--   [Thresher](Thresher.md) (all variants): Burrow
 
 **Boss Attacks**
 
@@ -489,6 +488,7 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 -   [Fury Nautilodaunt](Fury_Nautilodaunt.md) (all variants): Electro Stomp
 -   [Rock Golem](Rock_Golem.md) (all variants): Scream, Laser
 -   [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>): Severing Flourish
+-   [Thresher](Thresher.md) (all variants): Burrow
 
 **Boss Attacks**
 

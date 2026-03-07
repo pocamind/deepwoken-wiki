@@ -1,6 +1,6 @@
 ---
 title: Sev
-revid: 199557
+revid: 199920
 source: https://deepwoken.fandom.com/wiki/Sev
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Eastern Luminant]
@@ -21,7 +21,7 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 ## Description
 
-Sev is a [Ganymede](Ganymede.md) NPC. They are used to exchange [Crowns](Crowns.md) for dyes.
+Sev is a [Ganymede](Ganymede.md) NPC. They can exchange [Crowns](Crowns.md) for [Dye Packets](Dye_Packet.md).
 
 Sev can be given 25 [Crowns](Crowns.md) to permanently unlock "Manycolored Equipment" letting you edit your equipment's color freely on any character without needing to spend [Dye Packets](Dye_Packet.md). To use Manycolored Equipment, right click the equipped item you want to dye in your journal UI, then click dye.
 
@@ -64,26 +64,35 @@ Sev's Boutique
   [<font>Opens</font> <a href="#shop"><u><font>Shop UI</font></u></a>]</td>
 </tr>
 <tr>
-  <td colspan="6">[Purchased Something]</td>
+  <td colspan="3">[Purchased Something]</td>
+  <td colspan="3">[Player has dyed equipment]</td>
   <td colspan="6">Your fashion sense is...</td>
 </tr>
 <tr>
-  <td colspan="6">Gwoh! A fantastic deal, I'm sure you'll agree! Go forth! Bedazzle! Enjewel!</td>
+  <td colspan="3">Gwoh! A fantastic deal, I'm sure you'll agree! Go forth! Bedazzle! Enjewel!</td>
+  <td colspan="3">Could you remove some of my dyes?</td>
   <td colspan="6">Gwoh?! *<i>Their eyes light up in anticipation, hanging on your every word. It's possible they could die if you don't finish your sentence soon, like a pet hamster starved of attention.</i>*</td>
 </tr>
 <tr>
-  <td colspan="6">Your fashion sense is...</td>
+  <td colspan="3">Your fashion sense is...</td>
+  <td colspan="3">Gwoh hoh hoh, hanging in the towel on your fashion career already? Can't say I blame you...</td>
   <td colspan="3">Stunning. Eyecatching. A visual delight.</td>
   <td colspan="3">Awful. Garbage. It insists upon itself.</td>
 </tr>
 <tr>
-  <td colspan="6">[See first instance]</td>
+  <td colspan="3">[See first instance]</td>
+  <td colspan="3">[Player selects a dyed item]</td>
   <td colspan="3"><i>*They beam with pride, you think you see a tear well up in their eye.*</i> Gwoh! <b>GWOH!</b> You. Are. A. <b>RIOT!</b> <i>Not enough of a riot to make me drop my prices or offer any form of discount</i>, but a riot all the same! GWOH!</td>
   <td colspan="3">Drop dead, boor.</td>
 </tr>
 <tr>
-  <td colspan="6"></td>
+  <td colspan="3"></td>
+  <td colspan="3">Gwoh! Back to boring!</td>
   <td colspan="6">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="3"></td>
+  <td colspan="3">[End Dialogue], equipment dye is removed</td>
 </tr>
 </tbody>
 </table>
@@ -102,20 +111,19 @@ Sev's Boutique
 </tr>
 <tr>
   <td colspan="4">[Dialogue is the same as First Encounter]</td>
-  <td colspan="4">Gwoh! Oh I just *love* the look today. Very avant-garde, yes? Broke-chic is very in right now, you know? Gwoh hoh!</td>
+  <td colspan="4">Gwoh! Oh I just <i>love</i> the look today. Very avant-garde, yes? Broke-chic is very in right now, you know? Gwoh hoh!</td>
   <td colspan="4">Gwoh! What a mess! Basic! Simply basic! Come to receive enlightenment, gwhmmmm?</td>
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="8">[Purchased Something]</td>
+  <td colspan="2">[Purchased Something]</td>
+  <td colspan="2">[Player has dyed equipment]</td>
+  <td colspan="2">[Purchased Something]</td>
+  <td colspan="2">[Player has dyed equipment]</td>
 </tr>
 <tr>
   <td colspan="4"></td>
-  <td colspan="8">Gwoh! A fantastic deal, I'm sure you'll agree! Go forth! Bedazzle! Enjewel!</td>
-</tr>
-<tr>
-  <td colspan="4"></td>
-  <td colspan="8">[End Dialogue]</td>
+  <td colspan="8">[See first instance]</td>
 </tr>
 </tbody>
 </table>

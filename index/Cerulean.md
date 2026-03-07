@@ -1,11 +1,9 @@
 ---
 title: Cerulean
-revid: 199487
+revid: 199937
 source: https://deepwoken.fandom.com/wiki/Cerulean
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Celtor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns, Oath Trainer]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns, Oath Trainer]
 ---
 
 # Cerulean

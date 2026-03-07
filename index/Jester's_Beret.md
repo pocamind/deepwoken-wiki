@@ -1,8 +1,9 @@
 ---
 title: "Jester's Beret"
-revid: 197459
+revid: 199970
 source: https://deepwoken.fandom.com/wiki/Jester's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Equipment, Head, Hats]
 ---
 
 # Jester's Beret

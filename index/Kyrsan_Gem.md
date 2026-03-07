@@ -1,8 +1,9 @@
 ---
 title: Kyrsan Gem
-revid: 198173
+revid: 199969
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Deep Gems, Mantras, Treasures]
 ---
 
 # Kyrsan Gem

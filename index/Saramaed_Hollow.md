@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 199851
+revid: 199882
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]

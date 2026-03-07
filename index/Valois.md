@@ -1,11 +1,9 @@
 ---
 title: Valois
-revid: 195908
+revid: 199949
 source: https://deepwoken.fandom.com/wiki/Valois
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Chrysid NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress without reason, InProgressPages, NPCs, The Summer Company, Reputation]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Chrysid NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, The Summer Company, Reputation]
 ---
 
 # Valois

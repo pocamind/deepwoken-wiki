@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 199723
+revid: 199911
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -501,7 +501,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Prerequisites: 30 Fortitude, 30 Willpower
     -   The [Ignition Trailblazer](Ignition_Trailblazer.md) Outfit has this Talent.
 
--   _**Reinforced Armor**_ \[Advanced Talent, Willpower\] - Incoming PEN is reduced by 30%.
+-   _**Reinforced Armor**_ \[Advanced Talent, Fortitude\] - Incoming PEN is reduced by 30%.
     -   The effects of Reinforced Armor are lessened if you do not meet the Talent's requirements, losing 0.8% PEN resistance per point below 90 Fortitude, capping at 10% PEN resistance at 65 Fortitude.
         -   Alternatively, this can be stated as 10 + 0.8 \* (Fortitude - 65) = RA effectiveness, though this cannot go below 10%.
     -   PEN calculation: incoming PEN \* (1 - 0.Reinforced Armor effectiveness) = reduced incoming PEN.
