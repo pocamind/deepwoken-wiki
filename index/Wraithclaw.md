@@ -1,6 +1,6 @@
 ---
 title: Wraithclaw
-revid: 196642
+revid: 200067
 source: https://deepwoken.fandom.com/wiki/Wraithclaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Legendary Weapons, "Attunement-based Weapons", Fists, Light Weapons, Weapons with multiple Criticals]
@@ -53,6 +53,8 @@ The Wraithclaw can be obtained from the unique NPC named "[Grudge](Grudge.md)" w
 -   [First Layer](First_Layer.md)
 -   [Starswept Valley](The_Starswept_Valley.md)
 -   [Songseeker Wilds](Songseeker_Wilds.md)
+-   [Bluster Rift](Bluster_Rift.md)
+-   [The Viper's Jaw](<The_Viper's_Jaw.md>)
 -   [Bluster Rift](Bluster_Rift.md)
 
 ## Critical
