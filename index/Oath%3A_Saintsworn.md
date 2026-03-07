@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 198073
+revid: 200088
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
@@ -219,7 +219,7 @@ See [Saintsworn Obelisks](Saintsworn_Obelisks.md#dialogue).
 -   Saint's Overload's duration running out is signified by the flying blade that it changes color to white.
 -   The 5 blades on your back will vanish one by one after Hero's Assist is triggered.
 -   Your Attunement Path will affect the color of your Saintsblade in the corresponding stance.
--   The color of the current Saint Stance will apply to: [Ysley's Pyre Keeper's](<Ysley's_Pyre_Keeper.md>) neon sections, [Ignition Deepcrusher's](Ignition_Deepcrusher.md) blade/hammer head, [Hailbreaker's](Hailbreaker.md) blade, [Soulwrought Axe's](Crazy_Slots.md#weapons) head, and [Soulwrought Dagger's](Crazy_Slots.md#weapons) blade. For some of these, the coloration change may not be visually apparent, especially if the natural color for these parts are darker colors like black.
+-   The color of the current Saint Stance will apply to: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)'s neon sections, [Ignition Deepcrusher](Ignition_Deepcrusher.md)'s blade/hammer head, [Hailbreaker](Hailbreaker.md)'s blade, [Soulwrought Axe](Crazy_Slots.md#weapons)'s head, and [Soulwrought Dagger](Crazy_Slots.md#weapons)'s blade. For some of these, the coloration change may not be visually apparent, especially if the natural color for these parts are darker colors like black.
     
     Pyre Keeper's color changing when using its Critical with Saintsworn
     

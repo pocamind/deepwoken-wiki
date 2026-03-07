@@ -1,6 +1,6 @@
 ---
 title: Prince of the Moon
-revid: 189584
+revid: 200130
 source: https://deepwoken.fandom.com/wiki/Prince_of_the_Moon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -583,3 +583,11 @@ Defeat [True Heart of Enmity](True_Heart_of_Enmity.md)
 -   Each pulse is parryable, but they do not have autoparry frames.
 
  |
+
+## Trivia
+
+-   The memento is based off of developer melonbeards spec character.[\[1\]](#cite-note-1)
+
+## References
+
+1.  [↑](#cite-ref-1)

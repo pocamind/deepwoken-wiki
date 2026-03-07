@@ -1,6 +1,6 @@
 ---
 title: High Monk Junsui
-revid: 191466
+revid: 200085
 source: https://deepwoken.fandom.com/wiki/High_Monk_Junsui
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Deceased characters, Circle of Honour members]

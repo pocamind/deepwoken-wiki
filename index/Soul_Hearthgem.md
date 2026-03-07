@@ -1,6 +1,6 @@
 ---
 title: Soul Hearthgem
-revid: 194778
+revid: 200083
 source: https://deepwoken.fandom.com/wiki/Soul_Hearthgem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Quest Item]

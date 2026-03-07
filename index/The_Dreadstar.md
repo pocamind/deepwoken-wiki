@@ -1,6 +1,6 @@
 ---
 title: The Dreadstar
-revid: 194832
+revid: 200087
 source: https://deepwoken.fandom.com/wiki/The_Dreadstar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Oath Trainer]
@@ -25,6 +25,10 @@ This content is not accessible outside of this gamemode.
 The Dreadstar is a Shrine NPC. It grants the player the [Oath: Silentheart](Oath%253A_Silentheart.md) [Oath](Oaths.md).
 
 The Dreadstar displays deeply rooted hatred towards the Song and those who wield it, driving Pathfinders toward the Vow of Silent in pursuit of revenge. Its origins in the Beloved Zofia are unknown. It may be a collective of spirits, as suggested by its use of “we,” or an entity akin to Yun’Shul.
+
+## Location
+
+The Dreadstar is located in the back hull of the [Beloved Zofia](Beloved_Zofia.md). Found far behind [Minityrsa](Minityrsa.md) in the [Voidsea](Voidsea.md).
 
 ## Dialogue
 

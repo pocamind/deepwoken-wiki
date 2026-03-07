@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 197609
+revid: 200122
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -137,9 +137,9 @@ File:Bone Toss.gif
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  | 
 

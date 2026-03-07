@@ -1,12 +1,9 @@
 ---
 title: Monk Kasan
-revid: 192181
+revid: 200104
 source: https://deepwoken.fandom.com/wiki/Monk_Kasan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, In progress with VOI reason, InProgressPages, Stub pages without reason, StubPages, NPCs, Circle of Honour members]
-notices:
-  - "This page is currently being worked on. New Vow of Iron Content, please be patient as new information is added."
-  - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
+categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Circle of Honour members]
 ---
 
 # Monk Kasan
@@ -24,11 +21,17 @@ notices:
 This page describes content that is exclusive to the **Vow of Iron** gamemode.  
 This content is not accessible outside of this gamemode.
 
+## Description
+
+Monk Kasan is an [Etrean](Etrean.md) NPC. He is apart of the [Circle of Honour](Circle_of_Honour.md) and assumed to be a disciple of [High Monk Junsui](High_Monk_Junsui.md).
+
 ## Location
 
 Monk Kasan can be found sitting inside of [The Golden Rat](The_Golden_Rat.md) beside [High Monk Junsui](High_Monk_Junsui.md).
 
 ## Dialogue
+
+**Base Dialogue:**
 
 <table>
 <tbody>
@@ -37,6 +40,24 @@ Monk Kasan can be found sitting inside of [The Golden Rat](The_Golden_Rat.md) be
 </tr>
 <tr>
   <td><i>*The monk does not bother gracing you with even a glance in your direction. His eyes, with their grim and wearied expression, seem dead-set on the group of Etrean nobles before him... If looks could kill, you reckon they'd all be dead.*</i></td>
+</tr>
+<tr>
+  <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Unlockable Dialogue:**
+
+This dialogue is unlocked once the player has spoken with [High Monk Junsui](High_Monk_Junsui.md).
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td><i>*Monk Kasan's eyes remain locked on the sachans.*</i> Fourteen years of war. Our very survival is at stake, and they bicker like little children... <i>*He finally turns his head, now facing you.*</i> I hope you believe in miracles, friend. I hate to say it... But we might just need one. May <a href="Glossary.md#mur-of-light">Mur's</a> light shine upon you.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

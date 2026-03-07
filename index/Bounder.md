@@ -1,6 +1,6 @@
 ---
 title: Bounder
-revid: 195612
+revid: 200117
 source: https://deepwoken.fandom.com/wiki/Bounder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Layer 2, The Depths]
@@ -63,9 +63,9 @@ Block
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |
 

@@ -1,6 +1,6 @@
 ---
 title: Saintsworn Obelisks
-revid: 191611
+revid: 200086
 source: https://deepwoken.fandom.com/wiki/Saintsworn_Obelisks
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, NPCs located in the Etrean Luminant, NPCs located in the Eastern Luminant, Oath Trainer]
@@ -44,4 +44,4 @@ See the [Saintsworn page](Oath%253A_Saintsworn.md#obtainment) for guides on how 
 
 ## Trivia
 
--   There are symbols marked on all 4 sides of the base of each obelisk. Curiously, two of these symbols match the emblem of [The Central Authority](The_Central_Authority.md).
+-   There is a symbol marked on all 4 sides of the base of each obelisk. Curiously, two of these symbols match the emblem of [The Central Authority](The_Central_Authority.md).

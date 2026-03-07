@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 199914
+revid: 200123
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -438,7 +438,6 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Deep Widow](Deep_Widow.md): Venomous Bite
 -   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
--   [Kyrsgarde Brute](Kyrsgarde_Brute.md): Clenching Assault, Slam
 -   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Lumbering Thrust
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
 -   [Rock Golem](Rock_Golem.md): Uppercut
@@ -446,7 +445,6 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 **Boss Attacks**
 
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Kick, Rock Throw
--   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Worldpiercing Deluge, Wrathful Stomp
 
  |
@@ -477,10 +475,12 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 
 -   [Alpha Megalodaunt](Alpha_Megalodaunt.md) (and all other variants with this attack): Tacet Hug, Tacet Drop Kick
 -   [Bonekeeper](Bone_Keeper.md): Crushing Grab
+-   [Bounder](Bounder.md): Charge
 -   [Deep Widow](Deep_Widow.md): Deep Webbing
 -   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [Hive Construct](Hive_Construct.md) (all variants): Swing
 -   [King Thresher](King_Thresher.md): Royal Breath
+-   [Kyrsgarde Brute](Kyrsgarde_Brute.md): Clenching Assault, Slam
 -   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind
 -   [Stone Knight](Stone_Knight.md) (all variants): Kick, Terra Eruption
 -   [Megalodaunt](Megalodaunt.md) (all variants): Kick, Bite, Tacet Hug
@@ -492,9 +492,11 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 
 **Boss Attacks**
 
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md): Powerful Blood Appendage
 -   [Duke Ishamon Erisia](Duke_Ishamon_Erisia.md): Gale Stomp
 -   [Primadon, Titan of the East](Primadon,_Titan_of_the_East.md): Grab
 -   [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md): Splitting Ascension, Sovereign Drive, Skycrash, Commander's Whirlthrow
+-   [Scion of Ethiron](Scion_of_Ethiron.md): Bonegrow
 -   [Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>): Severing Flourish, Serpent-Slaying Sweep, Mortal Draw: Sakura Dance
 -   [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>): Crossrend Cryocleave, Snowgrave, Splintering Thrust
 

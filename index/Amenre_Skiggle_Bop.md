@@ -1,6 +1,6 @@
 ---
 title: Amenre Skiggle Bop
-revid: 198280
+revid: 200115
 source: https://deepwoken.fandom.com/wiki/Amenre_Skiggle_Bop
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Kyrsan NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Individuals with unspecified pronouns]
@@ -37,26 +37,32 @@ Amenre Skiggle Bop is found above the [Kyrsan Wilds](Kyrsan_Wilds.md), right abo
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td colspan="4">Begin Dialogue</td>
 </tr>
 <tr>
-  <td colspan="2">Gods below, the Kyrsan Break...</td>
+  <td colspan="4">Gods below, the <a href="Glossary.md#kyrsan--kyrsgarde">Kyrsan</a> Break...</td>
 </tr>
 <tr>
-  <td>What?...</td>
-  <td>...</td>
+  <td colspan="2">What?</td>
+  <td colspan="2">...</td>
 </tr>
 <tr>
-  <td>Yoooo set tjhe brethren free n' dat yeh, ninefold uh... blessi- blessin ppsstch ts cckkhrrtt ts c c hrrkktt t s t s</td>
-  <td>ppssccth tttss kkrrtccht ppsst ts kkrrt ts pprrckkt ts kkrrt ts ooohohooo bars.</td>
+  <td colspan="2">Yoooo set the brethren free n' dat yeh, ninefold uh... blessi- blessin ppsstch ts cckkhrrtt ts cchrrkkttts ts</td>
+  <td colspan="2">ppssccth tttss kkrrtccht ppsst ts kkrrt ts pprrckkt ts kkrrt ts ooohohooo bars.</td>
 </tr>
 <tr>
+  <td>Sounds great.</td>
+  <td>...?</td>
   <td colspan="2">Sounds great.</td>
 </tr>
 <tr>
-  <td colspan="2">pttsstch pttschh kkrrttt thanks fringefella' kkrtct ppsstt krrttt ts ts ts chhrtt ts</td>
+  <td>pttsstch pttschh kkrrttt thanks fringefella' kkrtct ppsstt krrttt ts ts ts chhrrtt ts</td>
+  <td>[Bugged Dialogue]</td>
+  <td colspan="2">pttsstch pttschh kkrrttt thanks fringefella' kkrtct ppsstt krrttt ts ts ts chhrrtt ts</td>
 </tr>
 <tr>
+  <td>[End Dialogue]</td>
+  <td></td>
   <td colspan="2">[End Dialogue]</td>
 </tr>
 </tbody>

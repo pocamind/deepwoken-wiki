@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 200045
+revid: 200126
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -19,13 +19,13 @@ Leiuna's pride, and the birthplace of the Imperators' armaments. Seeking ever-gr
 
 ## Description
 
-The Lost Forge of Leiuna is a large volcanic island that was once a town of smiths. It is home to the Lost Forge, a special crafting station used to recreate powerful [Equipment](Equipment.md) and weapons similar to ones in [Vow of Iron](Vow_of_Iron.md). It seems that it's destruction was by the [Interluminary Parasol](Interluminary_Parasol.md).
+The Lost Forge of Leiuna is a large volcanic island that was once a town of smiths. It is home to the Lost Forge, a special crafting station used to recreate powerful [Equipment](Equipment.md) and weapons similar to ones in [Vow of Iron](Vow_of_Iron.md). It seems that its destruction was by the [Interluminary Parasol](Interluminary_Parasol.md).
 
 ## The Lost Forge
 
 To enter the Lost Forge, the player can either break the blocked entrance using Mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door. The anvil can only be used once per Parasol event.
 
-After 20 minutes, the door leading to the lost forge will regenerate. This can allow players to access its unique crafting if broken by another player.
+After 20 minutes, the door leading to the Lost Forge will regenerate. This can allow players to access its unique crafting if broken by another player.
 
 ### Convertible Weapons
 
@@ -35,7 +35,7 @@ These weapons **are bankable**.
 
 Please note that only one forge weapon can be crafted per slot.
 
-Please also note you do not need to kill parasol to use the anvil. you only need parasol to break open the door.
+Please also note you do not need to kill the Parasol to use the anvil, you only need the Parasol to break open the door.
 
 | Weapon Input | Weapon Output |
 | --- | --- |

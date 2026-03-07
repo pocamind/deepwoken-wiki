@@ -1,6 +1,6 @@
 ---
 title: Kyrsgarde Brute
-revid: 195616
+revid: 200118
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Monsters, Floor 2]
@@ -36,9 +36,9 @@ An unusual deviation from the typical Kyrsgarde, the Kyrsgarde Brute is a blunt 
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |
 | 
@@ -52,9 +52,9 @@ High posture
 
 _Uses Telegraph_
 
-[HighPostureTelegraph](Combat_Mechanics.md#purple)
+[DodgeTelegraph](Combat_Mechanics.md#red)
 
-High posture
+Dodge
 
  |
 
