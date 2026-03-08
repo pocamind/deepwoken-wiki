@@ -1,9 +1,9 @@
 ---
 title: Parasol Part
-revid: 200131
+revid: 200207
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Parasol Part
@@ -19,6 +19,10 @@ categories: [Items, Drops, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | Pathfinders who wish to study the Parasol would gawk at the sight of a piece of the Parasol. Some believe it could be an important tool to understanding the reasons as to why creatures of the Depths even exist. Others simply wish to use the parts for stronger armor. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

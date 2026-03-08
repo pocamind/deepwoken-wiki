@@ -1,6 +1,6 @@
 ---
 title: Monk Kasan
-revid: 200104
+revid: 200219
 source: https://deepwoken.fandom.com/wiki/Monk_Kasan
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Circle of Honour members]
@@ -23,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Monk Kasan is an [Etrean](Etrean.md) NPC. He is apart of the [Circle of Honour](Circle_of_Honour.md) and assumed to be a disciple of [High Monk Junsui](High_Monk_Junsui.md).
+Monk Kasan is an [Etrean](Etrean.md) NPC. He is a monk of the Monastery of Mur and a member of the [Circle of Honour](Circle_of_Honour.md).
 
 ## Location
 

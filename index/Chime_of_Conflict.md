@@ -1,12 +1,16 @@
 ---
 title: Chime of Conflict
-revid: 196509
+revid: 200163
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Game Modes]
+categories: [Pathfinder Exclusive, Items, Game Modes]
 ---
 
 # Chime of Conflict
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Bloodshed awaits those who ring the bell... ”
 

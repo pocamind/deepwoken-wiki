@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 199470
+revid: 200157
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Deepwoken]
@@ -39,23 +39,23 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 5 | [Nascence](https://soundcloud.com/naktigonis/nascence) | 2:59 | [Character Creation](Character_Creation.md) |  |
 | 6 | [Solivagant](https://soundcloud.com/naktigonis/solivagant) | 2:20 | [Etrean Wilds](Etrean_Wilds.md) |  |
 | 7 | [Peregrine](https://soundcloud.com/naktigonis/peregrine) | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) and [Miner's Landing](<Miner's_Landing.md>) |  |
-| 8 | [In Shade, Hollow](https://soundcloud.com/naktigonis/in-shade-hollow) | 2:08 | [Kyrsan Shrine of Arrival](Kyrsan_Shrine_of_Arrival.md), [The Garden Reservoir](The_Garden_Reservoir.md), [The Sunken Railways](The_Sunken_Railways.md), and [Anicent Rotlands](Ancient_Rotlands.md) |  |
+| 8 | [In Shade, Hollow](https://soundcloud.com/naktigonis/in-shade-hollow) | 2:08 | [Ancient Rotlands](Ancient_Rotlands.md), [Kyrsan Shrine of Arrival](Kyrsan_Shrine_of_Arrival.md), [The Garden Reservoir](The_Garden_Reservoir.md), and [The Sunken Railways](The_Sunken_Railways.md) |  |
 | 9 | [Dancing Steps Of War](https://soundcloud.com/naktigonis/dancing-steps-of-war) | 2:09 | [Temple of the Blade](Temple_of_the_Blade.md) |  |
 | 10 | [To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine) | 2:26 | Default Combat Music |  |
-| 11 | [To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant) | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [The Aratel Sea](The_Aratel_Sea.md), [The Etrean Sea](The_Etrean_Sea.md) and [Starfield Veldt](Starfield_Veldt.md) |  |
+| 11 | [To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant) | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [Starfield Veldt](Starfield_Veldt.md), [The Aratel Sea](The_Aratel_Sea.md), and [The Etrean Sea](The_Etrean_Sea.md) |  |
 | 12 | [The Trappings Of A Lord](https://soundcloud.com/naktigonis/the-trappings-of-a-lord) | 2:30 | [Erisia](Erisia.md) |  |
-| 13 | [Of Labours, Veiled](https://soundcloud.com/naktigonis/of-labours-veiled) | 2:20 | [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [The Entropy Catalyst](The_Entropy_Catalyst.md), [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md) and [Voidheart](Voidheart.md) |  |
-| 14 | [The Sun, Gleaming](https://soundcloud.com/naktigonis/the-sun-gleaming) | 2:10 | [Songseeker Wilds](Songseeker_Wilds.md), [The Lordsgrove](The_Lordsgrove.md), [The Monkey's Paw](<The_Monkey's_Paw.md>), [Meteor Isle](Meteor_Isle.md), and [Merits Reach](<Merit's_Reach.md>) (Combat) |  |
-| 15 | [Thrill Of The Hunt](https://soundcloud.com/naktigonis/thrill-of-the-hunt) | 2:08 | [Songseeker Wilds](Songseeker_Wilds.md), [The Lordsgrove](The_Lordsgrove.md), [The Monkey's Paw](<The_Monkey's_Paw.md>), [Meteor Isle](Meteor_Isle.md), and [Merits Reach](<Merit's_Reach.md>) (Combat) |  |
+| 13 | [Of Labours, Veiled](https://soundcloud.com/naktigonis/of-labours-veiled) | 2:20 | [Beloved Zofia](Beloved_Zofia.md), [Crypt of the Unbroken](Crypt_of_the_Unbroken.md), [Derelict Highchurch](Derelict_Highchurch.md), [Duke Erisia's Laboratory](<Duke_Erisia's_Laboratory.md>), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>), [The Entropy Catalyst](The_Entropy_Catalyst.md), [The Hall of Shattered Wills](The_Hall_of_Shattered_Wills.md), and [Voidheart](Voidheart.md) |  |
+| 14 | [The Sun, Gleaming](https://soundcloud.com/naktigonis/the-sun-gleaming) | 2:10 | [Merit's Reach](<Merit's_Reach.md>) (Combat), [Meteor Isle](Meteor_Isle.md), [Songseeker Wilds](Songseeker_Wilds.md), [The Lordsgrove](The_Lordsgrove.md), and [The Monkey's Paw](<The_Monkey's_Paw.md>) |  |
+| 15 | [Thrill Of The Hunt](https://soundcloud.com/naktigonis/thrill-of-the-hunt) | 2:08 | [Merit's Reach](<Merit's_Reach.md>) (Combat), [Meteor Isle](Meteor_Isle.md) (Combat), [Songseeker Wilds](Songseeker_Wilds.md) (Combat), [The Lordsgrove](The_Lordsgrove.md) (Combat), and [The Monkey's Paw](<The_Monkey's_Paw.md>) |  |
 | 16 | [Of Smoke And Steel](https://soundcloud.com/naktigonis/of-smoke-and-steel) | 2:16 | [Summer Isle](Summer_Isle.md) |  |
-| 17 | [One For All, All For Gun](https://soundcloud.com/naktigonis/one-for-all-all-for-gun) | 2:17 | [Summer Isle](Summer_Isle.md), [Saramaed Summit](Saramaed_Summit.md) (Combat) and [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) (Combat) |  |
+| 17 | [One For All, All For Gun](https://soundcloud.com/naktigonis/one-for-all-all-for-gun) | 2:17 | [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) (Combat), [Summer Isle](Summer_Isle.md) (Combat), [Saramaed Summit](Saramaed_Summit.md) (Combat), |  |
 | 18 | [A Waltz Of Snow And Knights](https://soundcloud.com/naktigonis/a-waltz-of-snow-and-knights) | 3:12 | [Minityrsa](Minityrsa.md) |  |
 | 19 | [Cry 'Havoc!'](https://soundcloud.com/naktigonis/cry-havoc) | 2:10 | [Erisia](Erisia.md) and [Minityrsa](Minityrsa.md) (Combat) |  |
 | 20 | [In Starstruck Sands](https://soundcloud.com/naktigonis/in-starstruck-sands) | 2:38 | [The Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) |  |
 | 21 | [Pyres Of Glass](https://soundcloud.com/naktigonis/pyres-of-glass) | 2:32 | [The Starswept Valley](The_Starswept_Valley.md) and [Bluster Rift](Bluster_Rift.md) (Combat) |  |
 | 22 | [Of Chitin, Kith And Kin](https://soundcloud.com/naktigonis/of-chitin-kith-and-kin) | 2:25 | [Greathive Aratel](Greathive_Aratel.md) |  |
-| 23 | [A Symphony Of Strife](https://soundcloud.com/naktigonis/a-symphony-of-strife) | 2:21 | [Greathive Approach](Greathive_Approach.md) and [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<The_Monkey's_Paw.md>), and[Ruins of Leiuna](Ruins_of_Leiuna.md) |  |
-| 24 | [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray) | 2:30 | [Voidsea](Voidsea.md) |  |
+| 23 | [A Symphony Of Strife](https://soundcloud.com/naktigonis/a-symphony-of-strife) | 2:21 | [Greathive Approach](Greathive_Approach.md) (Combat), [Greathive Aratel](Greathive_Aratel.md) (Combat), [Primadon's Hunting Grounds](<The_Monkey's_Paw.md>), and [Ruins of Leiuna](Ruins_of_Leiuna.md) |  |
+| 24 | [What Mends Shall Fray](https://soundcloud.com/naktigonis/what-mends-shall-fray) | 2:30 | [Trial of One](Trial_of_One.md) and [Voidsea](Voidsea.md) |  |
 | 25 | [A Sarabande Of Thunder](https://soundcloud.com/naktigonis/a-sarabande-of-thunder) | 2:08 | [The Ferryman](The_Ferryman.md) (Phase 1) |  |
 | 26 | [Dance, If You Can!](https://soundcloud.com/naktigonis/dance-if-you-can) | 2:03 | [The Ferryman](The_Ferryman.md) (Phase 2) |  |
 | 27 | [Pelagic Slumber](https://soundcloud.com/naktigonis/pelagic-slumber) | 2:08 | [The Depths](The_Depths.md) (Ambience) |  |
@@ -103,11 +103,11 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 28 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) (Escape sequence) |  |
 | 29 | [The Better Part Of Valour](https://soundcloud.com/naktigonis/the-better-part-of-valour) | 3:33 | [Merit Detainment Core](Merit_Detainment_Core.md) |  |
 | 30 | [Chainbreaker](https://soundcloud.com/naktigonis/chainbreaker) | 2:21 | [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) |  |
-| 31 | [Wardens Of The Valiant Dead](https://soundcloud.com/naktigonis/wardens-of-the-valiant-dead) | 4:52 | [Fort Merit](Fort_Merit.md), [Port Merit](Port_Merit.md) |  |
-| TBA | Hymn Of Iron (Contour 1) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md), [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
-| TBA | Hymn Of Iron (Contour 2) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md), [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
-| TBA | Hymn Of Iron (Contour 3) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md), [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
-| TBA | Hymn Of Iron (Contour 4) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md), [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
+| 31 | [Wardens Of The Valiant Dead](https://soundcloud.com/naktigonis/wardens-of-the-valiant-dead) | 4:52 | [Fort Merit](Fort_Merit.md) and [Port Merit](Port_Merit.md) |  |
+| TBA | Hymn Of Iron (Contour 1) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
+| TBA | Hymn Of Iron (Contour 2) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
+| TBA | Hymn Of Iron (Contour 3) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
+| TBA | Hymn Of Iron (Contour 4) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
 | TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Death sequence) | TBA |
 | TBA | Bread And Roses[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
 | TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) (Combat) | TBA |

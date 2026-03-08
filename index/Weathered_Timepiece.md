@@ -1,9 +1,9 @@
 ---
 title: Weathered Timepiece
-revid: 192644
+revid: 200213
 source: https://deepwoken.fandom.com/wiki/Weathered_Timepiece
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Drops, Ingredients]
+categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
 ---
 
 # Weathered Timepiece
@@ -17,6 +17,10 @@ categories: [Items, Drops, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | The chassis is in ruin, but the internal components might be of some use. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

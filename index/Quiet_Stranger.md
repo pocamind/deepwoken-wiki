@@ -1,9 +1,9 @@
 ---
 title: Quiet Stranger
-revid: 192791
+revid: 200167
 source: https://deepwoken.fandom.com/wiki/Quiet_Stranger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
+categories: [Pathfinder Exclusive, NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, Enemies with Oaths]
 ---
 
 # Quiet Stranger
@@ -13,6 +13,10 @@ categories: [NPCs, The Ministry, NPCs located in the Etrean Luminant, Enemies, E
 | health | ? |
 | weapon | Krulian Knife |
 | moves | Assault, Critical, Judgement, Tacet Drop Kick |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ It seems I have been spotted by a local.. ”
 

@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 200123
+revid: 200145
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -392,7 +392,7 @@ Not all unblockable attacks have this indicator.
 
 Crosshair\*
 
- |  | This indicator is most prevalent on attacks that make use of homing projectiles.  
+ | File:Crosshairtelegraph.png | This indicator is most prevalent on attacks that make use of homing projectiles.  
 
 The animation and duration of this indicator changes depending on the time it will take to said projectiles to hit their target.  
 The color of this indicator changes depending on the attack used.  

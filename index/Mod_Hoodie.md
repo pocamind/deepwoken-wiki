@@ -1,6 +1,6 @@
 ---
 title: Mod Hoodie
-revid: 192816
+revid: 200141
 source: https://deepwoken.fandom.com/wiki/Mod_Hoodie
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Outfits, Exclusive Outfits]
@@ -24,6 +24,10 @@ notices:
 | weight | 1 |
 
 **Mod Hoodie** is a Unique (Spec/Mod) [Outfit](Outfits.md) in _Deepwoken_.
+
+## Statistics
+
+Unknown
 
 ## Requirements
 

@@ -1,6 +1,6 @@
 ---
 title: Hardened Enforcer Plate
-revid: 198065
+revid: 200137
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Plates]
@@ -53,4 +53,4 @@ Set Talent: [Enforcer's Pull](Talents.md#enforcers-pull) - Your [Enforcer's Pull
 ## Trivia
 
 -   The Berserker Talent no longer functions due to it being renamed.
--   This equipment is a copy of the Reinforced Enforcer Plate from the Vow of Iron gamemode
+-   This equipment is a copy of the [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) from the Vow of Iron gamemode

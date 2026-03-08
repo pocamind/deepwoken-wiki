@@ -1,6 +1,6 @@
 ---
 title: Bestiary
-revid: 184811
+revid: 200142
 source: https://deepwoken.fandom.com/wiki/Bestiary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Monsters, Bosses]
@@ -65,7 +65,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <td rowspan="2"><a href="Brainsucker.md">Brainsucker</a></td>
   <td>Beakbuster, Cephalorin Champion, Chiropterous Conqueror
   <ul>
-    <li>Slay 10, 25, and 100 <a href="Brainsucker.md">Brainsuckers</a></li>
+    <li>Slay 10, 25, and 100 <a href="Brainsucker.md">Brainsuckers</a> or <a href="Lavasucker.md">Lavasucker</a><abbr></abbr>s</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -221,7 +221,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <td><a href="Nautilodaunt.md">Nautilodaunt</a></td>
   <td>Nautilodaunt Slayer I, Nautilodaunt Slayer II, Nautilodaunt Slayer III
   <ul>
-    <li>Slay 10, 25, and 100 <a href="Nautilodaunt.md">Nautilodaunts</a> or <a href="Fury_Nautilodaunt.md">Fury Nautilodaunts</a></li>
+    <li>Slay 10, 25, and 100 Nautilodaunts ofany variant (<a href="Nautilodaunt.md">Nautilodaunt</a>, <a href="Fury_Nautilodaunt.md">Fury Nautilodaunt</a>, <a href="Nautilodaunt_Officiate.md">Nautilodaunt Officiate</a><abbr></abbr>)</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -232,7 +232,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <td><a href="Stone_Knight.md">Stone Knight</a></td>
   <td>Granite Gallantry, Sword In The Stone, We Will Rock You
   <ul>
-    <li>Slay 10, 25, and 100 Stone Knights of any variant (<a href="Stone_Knight.md">Stone Knight</a>, <a href="Stone_Knight.md#blizzard-knight">Blizzard Knight</a>, <a href="Star_Knight.md">Star Knight</a>, <a href="Moon_Knight.md">Moon Knight</a>)</li>
+    <li>Slay 10, 25, and 100 Stone Knights of any variant (<a href="Stone_Knight.md">Stone Knight</a>, <a href="Stone_Knight.md#blizzard-knight">Blizzard Knight</a>, <a href="Star_Knight.md">Star Knight</a>, <a href="Moon_Knight.md">Moon Knight</a>, <a href="Moss_Knight.md">Moss Knight</a><abbr></abbr>)</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>
@@ -243,7 +243,7 @@ Upon defeating eligible [Monsters](Monsters.md) or [Bosses](Bosses.md), they wil
   <td><a href="Rock_Golem.md">Stonelife Golem</a></td>
   <td>Pebbleslayer, Boulderslayer, Mountainslayer
   <ul>
-    <li>Slay 10, 25, and 100 <a href="Rock_Golem.md">Rock Golems</a>, <a href="Golem_Prime.md">Golem Primes</a>, or <a href="Stonespark.md">Stonesparks</a></li>
+    <li>Slay 10, 25, and 100 Rock Golems of any variant (<a href="Rock_Golem.md">Rock Golem</a>, <a href="Golem_Prime.md">Golem Prime</a>, <a href="Stonespark.md">Stonespark</a>, <a href="Golem_Magma.md">Golem Magma</a><abbr></abbr>)</li>
   </ul></td>
   <td>+10% damage and +5% resistance for each task
   <ul>

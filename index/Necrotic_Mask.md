@@ -1,6 +1,6 @@
 ---
 title: Necrotic Mask
-revid: 198631
+revid: 200153
 source: https://deepwoken.fandom.com/wiki/Necrotic_Mask
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Crafting 1 Bloodfeather Cowl + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge |
+| obtainment | Crafting 1 Bloodfeather Mask + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge |
 | description | ... |
 
 Variants: [Bloodfeather Mask](Bloodfeather_Mask.md)

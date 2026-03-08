@@ -1,9 +1,9 @@
 ---
 title: Temple Sparring Hall (Temple of Mur)
-revid: 200065
+revid: 200132
 source: https://deepwoken.fandom.com/wiki/Temple_Sparring_Hall_(Temple_of_Mur)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vow of Iron Exclusive, Locations, Locations in the Easten Luminant, Dungeons]
+categories: [In progress without reason, InProgressPages, Stub pages without reason, StubPages, Vow of Iron Exclusive, Locations, Dungeons]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."

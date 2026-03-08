@@ -1,15 +1,19 @@
 ---
 title: Lost Forge of Leiuna
-revid: 200126
+revid: 200205
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
+categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
   - This page is currently being worked on. Some things may be incomplete.
 ---
 
 # Lost Forge of Leiuna
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 LocationL Lost Forge of Leiuna LocationR
 
@@ -23,7 +27,7 @@ The Lost Forge of Leiuna is a large volcanic island that was once a town of smit
 
 ## The Lost Forge
 
-To enter the Lost Forge, the player can either break the blocked entrance using Mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door. The anvil can only be used once per Parasol event.
+To enter the Lost Forge, the player can either break the blocked entrance using Mantras or by taking advantage of the [Interluminary Parasol](Interluminary_Parasol.md). However, to be able to actually use the anvil, the Parasol must break open the door.
 
 After 20 minutes, the door leading to the Lost Forge will regenerate. This can allow players to access its unique crafting if broken by another player.
 
@@ -31,7 +35,7 @@ After 20 minutes, the door leading to the Lost Forge will regenerate. This can a
 
 In order to reforge a weapon, you must have it held or equipped.
 
-These weapons **are bankable**.
+These weapons **are bankable**, but are unable to be passed down.
 
 Please note that only one forge weapon can be crafted per slot.
 

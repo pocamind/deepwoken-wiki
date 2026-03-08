@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 199433
+revid: 200187
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -523,7 +523,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 #### Markor
 
 -   A savannah region that has been conquered and assimilated into The Central Authority.
--   The origin of Scimitars and similar blades, as well as Felinor.[\[4\]](#cite-note-arch-4)
+-   The origin of Scimitars and similar blades, as well as Felinors.[\[4\]](#cite-note-arch-4)
 -   The Felinor Fieldfolk once lived here.
 
 #### Markor Citadel
@@ -815,7 +815,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   Several individuals recruit adventurers to kill other sentient beings, for which they will reward them and increase their standing in the Ministry's eyes.
 -   The Ministry's fourth prophet, Zi'eer, is the Lord Regent of Etris.
 -   "[A Waltz of Snow and Knights](Deepwoken_OST.md)," the theme of Minityrsa, shares the same motif as "[A Sarabande of Thunder](Deepwoken_OST.md)" and "[Dance, if You Can!](Deepwoken_OST.md)" Both of these are themes of [The Ferryman](The_Ferryman.md), which shares the same knife as the Ministry operatives found throughout Minityrsa.
--   There is a high chance that they are **part** responsible for the events in the Second Layer, especially the [Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) being one of their operatives, possibly seeking power with in New Kyrsa as Chaser was looking to enter the city.
+-   There is a high chance that they are **part** responsible for the events in the Second Layer, especially the [Ethironal Shrine](Second_Layer/The_Ethironal_Shrine.md) due to [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) being one of their operatives, possibly seeking power within New Kyrsa as Chaser was looking to enter the city.
 
 A Dark Mage, located in Minityrsa.
 

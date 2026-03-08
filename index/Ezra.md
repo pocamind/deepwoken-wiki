@@ -1,6 +1,6 @@
 ---
 title: Ezra
-revid: 192901
+revid: 200162
 source: https://deepwoken.fandom.com/wiki/Ezra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests]
@@ -28,7 +28,7 @@ The quest and Talent hand is unavailable if you are a Starkindred.
 
 ## Location
 
-Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountain near in front of a tower.
+Ezra is located at [Songseeker Wilds](Songseeker_Wilds.md), sitting on a mountain in front of a structure.
 
 ## Dialogue
 

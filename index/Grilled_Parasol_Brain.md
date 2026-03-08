@@ -1,9 +1,9 @@
 ---
 title: Grilled Parasol Brain
-revid: 175640
+revid: 200210
 source: https://deepwoken.fandom.com/wiki/Grilled_Parasol_Brain
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food]
+categories: [Pathfinder Exclusive, Food]
 ---
 
 # Grilled Parasol Brain
@@ -22,6 +22,10 @@ categories: [Food]
 | droppable | Yes |
 | pass down | No |
 | desc | I hope this doesn't taste too strange... |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

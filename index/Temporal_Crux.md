@@ -1,9 +1,9 @@
 ---
 title: Temporal Crux
-revid: 147214
+revid: 200212
 source: https://deepwoken.fandom.com/wiki/Temporal_Crux
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Drops]
+categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
 ---
 
 # Temporal Crux
@@ -17,6 +17,10 @@ categories: [Items, Ingredients, Drops]
 | droppable | Yes |
 | pass down | No |
 | desc | This doesn't feel safe to hold... |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

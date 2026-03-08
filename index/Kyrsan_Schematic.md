@@ -1,9 +1,9 @@
 ---
 title: Kyrsan Schematic
-revid: 190665
+revid: 200211
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Schematic
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Ingredients, Drops]
+categories: [Pathfinder Exclusive, Items, Ingredients, Drops]
 ---
 
 # Kyrsan Schematic
@@ -19,6 +19,10 @@ categories: [Items, Ingredients, Drops]
 | droppable | Yes |
 | pass down | No |
 | desc | It's hard to make out, but the language eclipses you, yet it seems to resemble some sort of timekeeping device... It appears as though the schematic is detailing the proper finetuning of a power source to fit the time piece. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

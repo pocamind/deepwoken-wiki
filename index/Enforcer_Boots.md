@@ -1,6 +1,6 @@
 ---
 title: Enforcer Boots
-revid: 196893
+revid: 200136
 source: https://deepwoken.fandom.com/wiki/Enforcer_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -28,4 +28,4 @@ categories: [Equipment, Legs, Boots]
 
 ## Description
 
-The Enforcer Boots is an [Equipment](Equipment.md) item under the "Legs" category, and is a part of the Enforcer Set.
+The Enforcer Boots is an [Equipment](Equipment.md) item under the "Legs" category and is a part of the Enforcer Set.

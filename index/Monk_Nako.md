@@ -1,9 +1,9 @@
 ---
 title: Monk Nako
-revid: 200119
+revid: 200218
 source: https://deepwoken.fandom.com/wiki/Monk_Nako
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Circle of Honour members, Individuals with unspecified pronouns]
+categories: [Etrean NPCs, Individuals with She/her pronouns, Vow of Iron Exclusive, NPCs, Circle of Honour members, Individuals with unspecified pronouns]
 ---
 
 # Monk Nako
@@ -13,6 +13,7 @@ categories: [Etrean NPCs, Vow of Iron Exclusive, NPCs, Circle of Honour members,
 | name | Nako |
 | alias | Monk |
 | aspect | Etrean |
+| pronouns | She/her |
 | location | The Golden Rat |
 | affiliation | Circle of Honour[1] |
 
@@ -22,7 +23,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Monk Nako is an [Etrean](Etrean.md) NPC. They are a part of the [Circle of Honour](Circle_of_Honour.md) and assumed to be a disciple of [High Monk Junsui](High_Monk_Junsui.md).
+Monk Nako is an [Etrean](Etrean.md) NPC. She is a monk of the Monastery of Mur and a member of the [Circle of Honour](Circle_of_Honour.md).
 
 ## Location
 

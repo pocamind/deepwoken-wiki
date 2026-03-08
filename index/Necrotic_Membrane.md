@@ -1,9 +1,9 @@
 ---
 title: Necrotic Membrane
-revid: 199466
+revid: 200215
 source: https://deepwoken.fandom.com/wiki/Necrotic_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Items, Ingredients]
+categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Items, Ingredients]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---
@@ -21,6 +21,10 @@ notices:
 | pass down | No |
 | desc | It smells of rotten flesh. |
 | obtainment | Crafting:, Lost Forge + 1x Parasol Membrane + 1x Trickster Dust + 1x Weathered Timepiece, Lost Forge + 1x Parasol Membrane + 1x Trickster Dust + 1x Temporal Crux |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

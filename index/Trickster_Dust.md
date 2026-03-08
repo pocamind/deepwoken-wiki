@@ -1,9 +1,9 @@
 ---
 title: Trickster Dust
-revid: 198730
+revid: 200214
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items]
+categories: [Pathfinder Exclusive, Relics, Items]
 ---
 
 # Trickster Dust
@@ -20,6 +20,10 @@ categories: [Relics, Items]
 | pass down | No |
 | desc | The traces of powerful Visionshaper magic and trickery. It almost looks as if it rejects sources of ether around it, almost inverting it. |
 | obtainment | Carnival of Hearts |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

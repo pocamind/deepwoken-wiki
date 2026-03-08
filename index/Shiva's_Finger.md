@@ -1,9 +1,9 @@
 ---
 title: "Shiva's Finger"
-revid: 200018
+revid: 200164
 source: https://deepwoken.fandom.com/wiki/Shiva's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Rings]
+categories: [Pathfinder Exclusive, Equipment, Rings]
 ---
 
 # Shiva's Finger
@@ -21,6 +21,10 @@ categories: [Equipment, Rings]
 | pass down | No |
 | obtainment | Battle Royale (25+ Players) |
 | description | Gain 3% damage for each player and 1% damage for each mob that has combat-tagged you, and at 5 stacks you may Vent to consume all stacks to reset your cooldowns, after which this effect enters cooldown. With each BR victory, this item grows in power capping out at 10 fingers. Activates at 3 or more combat tags. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

@@ -1,9 +1,9 @@
 ---
 title: Strange Tomes
-revid: 179320
+revid: 200217
 source: https://deepwoken.fandom.com/wiki/Strange_Tomes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Items, Quest Item]
+categories: [Pathfinder Exclusive, Items, Quest Item]
 ---
 
 # Strange Tomes
@@ -15,6 +15,10 @@ categories: [Items, Quest Item]
 | pass down | No |
 | desc | An odd book with a nigh impenetrable bolt; perhaps what's in here is best left unread. |
 | obtainment | Outpost Antumbra, The Understrand, via fighting the Ministry Agent, Chaser, Scholar of the Crimson Contract, Sold in Traan Zakshun's black market for 1 |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

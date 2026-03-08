@@ -1,6 +1,6 @@
 ---
 title: "Ji'ang"
-revid: 198875
+revid: 200147
 source: https://deepwoken.fandom.com/wiki/Ji'ang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -11,7 +11,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 |---|---|
 | name | Ji'ang |
 | aspect | Etrean (Presumably) |
-| affiliation | Kingdom of Etrea |
+| affiliation | Etrea |
 | deathdate | Prior to 1219 CE (Presumably) |
 
 ## Description
@@ -20,4 +20,4 @@ Lord Guardian Ji'ang was the final legitimate [Lord Guardian](Lord_Guardian.md) 
 
 ## Trivia
 
-The name Jiang is primarily a gender-neutral name of Chinese origin that means _River_.
+-   The name Jiang is primarily a gender-neutral name of Chinese origin that means _River_.

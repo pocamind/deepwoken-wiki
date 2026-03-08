@@ -1,6 +1,6 @@
 ---
 title: Enforcer Plate
-revid: 197394
+revid: 200135
 source: https://deepwoken.fandom.com/wiki/Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates]
@@ -28,7 +28,7 @@ categories: [Equipment, Arms, Plates]
 
 ## Description
 
-The Enforcer Plate is an [Equipment](Equipment.md) item under the "Arms" category, and is a part of the Enforcer Set.
+The Enforcer Plate is an [Equipment](Equipment.md) item under the "Arms" category and is a part of the Enforcer Set.
 
 ## Crafting
 
