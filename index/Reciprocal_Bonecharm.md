@@ -1,9 +1,9 @@
 ---
 title: Reciprocal Bonecharm
-revid: 194920
+revid: 200226
 source: https://deepwoken.fandom.com/wiki/Reciprocal_Bonecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items, Effigies]
+categories: [Pathfinder Exclusive, Relics, Items, Effigies]
 ---
 
 # Reciprocal Bonecharm
@@ -20,6 +20,10 @@ categories: [Relics, Items, Effigies]
 | pass down | No |
 | desc | A fleshbound Kyrsan effigy of Ethironal worship. As their minds and focuses were robbed, their precise artisanry was twisted into a feverish production of foul convolutions of the organic. Peering into the beady eyes of the bonecharm, you see an early Ethironal shrine; unfinished, misshapen taxidermies lining the walls like an abattoir. |
 | obtainment | Scion of Ethiron, Lysander Spellhardt |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

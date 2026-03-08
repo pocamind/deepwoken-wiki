@@ -1,6 +1,6 @@
 ---
 title: Ferocity
-revid: 195592
+revid: 200263
 source: https://deepwoken.fandom.com/wiki/Ferocity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Ferocity is an equipment enchantment that grants buffs to the user, with the effectiveness of the buffs scaling on their current [Tempo](Combat_Mechanics.md#tempo).
+Ferocity is a self-buffing equipment [enchantment](Enchantments.md) that grants buffs to the user, with the effectiveness of the buffs scaling on the user's current [Tempo](Combat_Mechanics.md#tempo).
 
 ## Effect
 

@@ -1,6 +1,6 @@
 ---
 title: Loading Screen
-revid: 195418
+revid: 200241
 source: https://deepwoken.fandom.com/wiki/Loading_Screen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages]
@@ -36,6 +36,7 @@ During the loading processes, the resources are rendered in so the player can in
 
 #### Posture
 
+-   Landing a Critical Attack will clear 30% of your Posture so long as it isn't parried or dodged.
 -   Your Posture Bar will flash red when you attempt to block while your block is 'Fragile'. You should try to parry, dodge, or vent while in this state!
 -   Your Posture Bar will flash white when your Parry comes off cooldown. Timing is everything!
 

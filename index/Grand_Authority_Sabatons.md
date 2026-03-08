@@ -1,6 +1,6 @@
 ---
 title: Grand Authority Sabatons
-revid: 195438
+revid: 200244
 source: https://deepwoken.fandom.com/wiki/Grand_Authority_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons]
@@ -12,7 +12,7 @@ categories: [Equipment, Legs, Sabatons]
 |---|---|
 | type | Legs |
 | rarity | Rare |
-| selling price | ? |
+| selling price | 25 |
 | requirements | PWR 6 |
 | weight | 1 |
 | innate stats | +4 Health, +2 Rare Pips |

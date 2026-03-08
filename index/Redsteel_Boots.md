@@ -1,6 +1,6 @@
 ---
 title: Redsteel Boots
-revid: 186473
+revid: 200243
 source: https://deepwoken.fandom.com/wiki/Redsteel_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots]
@@ -12,7 +12,7 @@ categories: [Equipment, Legs, Boots]
 |---|---|
 | type | Legs |
 | rarity | Rare |
-| selling price | ? |
+| selling price | 25 |
 | requirements | PWR 6 |
 | weight | 1 |
 | innate stats | +3 Health |
@@ -32,4 +32,4 @@ Redsteel Boots are an [Equipment](Equipment.md) item under the "Legs" category. 
 
 ## Trivia
 
--   The **Red** counterpart to [Bluesteel Boots](Bluesteel_Boots.md).
+-   The red counterpart to [Bluesteel Boots](Bluesteel_Boots.md).

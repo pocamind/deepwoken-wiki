@@ -1,6 +1,6 @@
 ---
 title: Lance
-revid: 198217
+revid: 200246
 source: https://deepwoken.fandom.com/wiki/Lance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, Individuals with He/him pronouns, NPCs, NPCs located in the Etrean Luminant, Vendors]
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 Lance Leshi is an [Etrean](Etrean.md) NPC. He is a renowned chef who runs Lance's Food.
 
-Lance sells [Mushroom Bisques](Mushroom_Bisque.md) for 20, [Megurgers](Megurger.md) for 15, and [Mushroom Omelettes](Mushroom_Omelette.md) for 15
+Lance sells [Mushroom Bisques](Mushroom_Bisque.md) for 20, [Megurgers](Megurger.md) for 15, and [Mushroom Omelettes](Mushroom_Omelette.md) for 15.
 
 ## Location
 

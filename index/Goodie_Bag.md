@@ -1,9 +1,9 @@
 ---
 title: Goodie Bag
-revid: 199084
+revid: 200221
 source: https://deepwoken.fandom.com/wiki/Goodie_Bag
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Relics, Items, Hallowtide]
+categories: [Pathfinder Exclusive, Event Only Content, Relics, Items, Hallowtide]
 notices:
   - "This page contains Event Exclusive Content Once Hallowtide ends, this item will be unobtainable from most sources. Additionally, once Kyrsmas starts, this item will not be able to be used."
 ---
@@ -21,6 +21,10 @@ notices:
 | pass down | No |
 | desc | A gift of festive curiosities, thrown down from The Floating Keep. Joyous Hallowtide! |
 | obtainment | Any chest during the Hallowtide event (more common from World Boss chests), Sold by Traan Zakshun for 15,000 or 2 , Lysander Spellhardt |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

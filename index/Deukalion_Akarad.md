@@ -1,6 +1,6 @@
 ---
 title: Deukalion Akarad
-revid: 194086
+revid: 200237
 source: https://deepwoken.fandom.com/wiki/Deukalion_Akarad
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Black Divers, Deceased characters]

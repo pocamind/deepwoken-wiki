@@ -1,6 +1,6 @@
 ---
 title: "JOE's"
-revid: 199746
+revid: 200256
 source: https://deepwoken.fandom.com/wiki/JOE's
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Exclusive, Critical Attack Enchantments]
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-JOE's was an **unobtainable** stunning enchantment that can stop time briefly.
+JOE's was an **unobtainable** stunning [enchantment](Enchantments.md) that can stop time briefly.
 
 ## Effect
 

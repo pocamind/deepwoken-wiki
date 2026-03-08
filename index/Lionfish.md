@@ -1,6 +1,6 @@
 ---
 title: Lionfish
-revid: 192022
+revid: 200252
 source: https://deepwoken.fandom.com/wiki/Lionfish
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, Monsters]
@@ -133,6 +133,7 @@ ing the formula for fighting this mob may allow you to solo it at a low level, i
 -   If you use a sea highway, even a dinghy can outrun them.
 -   The reworked Lionfish mouths were inspired by the Whales from the Dishonored franchise.[\[1\]](#cite-note-1)
 -   Arch\_Mage has confirmed that they will be getting a model re-work and possibly a combat re-work as well.\[citation needed\]
+-   Prior to their current colors, Lionfish used to be yellow and gold.
 
 ## References
 

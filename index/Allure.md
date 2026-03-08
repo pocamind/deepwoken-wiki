@@ -1,6 +1,6 @@
 ---
 title: Allure
-revid: 195574
+revid: 200257
 source: https://deepwoken.fandom.com/wiki/Allure
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Allure is an equipment enchantment that [charms](Status_Effects.md#charm) your opponent on proc.
+Allure is a debuffing equipment [enchantment](Enchantments.md) that [charms](Status_Effects.md#charm) your opponent on proc.
 
 ## Effect
 

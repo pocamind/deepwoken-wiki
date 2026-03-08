@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 200172
+revid: 200238
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -170,6 +170,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
 
 -   This move is most commonly used when the player is far away from him, especially if he landed moves like Commander's Whirlthrow or Worldshattering Smackdown.
 -   This move may be used twice or more, and is more dangerous as the player will be constantly ragdolled and Dazed.
+-   This move is technically dodgeable, however, it is only possible at the very last moments of the attack. It's advised to block the attack instead.
 
  | 
 

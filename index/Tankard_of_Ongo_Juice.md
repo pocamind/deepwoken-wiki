@@ -1,9 +1,9 @@
 ---
 title: Tankard of Ongo Juice
-revid: 175662
+revid: 200235
 source: https://deepwoken.fandom.com/wiki/Tankard_of_Ongo_Juice
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Food]
+categories: [Pathfinder Exclusive, Food]
 ---
 
 # Tankard of Ongo Juice
@@ -21,6 +21,10 @@ categories: [Food]
 | pass down | No |
 | desc | Comforter, philosopher, and lifelong mate! |
 | obtainment | Fabantou (20 ) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

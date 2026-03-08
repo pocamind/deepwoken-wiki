@@ -1,6 +1,6 @@
 ---
 title: Displacement
-revid: 195576
+revid: 200259
 source: https://deepwoken.fandom.com/wiki/Displacement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Displacement is an equipment enchantment that grants a speed boost on proc.
+Displacement is a self-buffing equipment [enchantment](Enchantments.md) that grants a speed boost on proc.
 
 ## Effect
 

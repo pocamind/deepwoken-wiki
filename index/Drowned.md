@@ -1,6 +1,6 @@
 ---
 title: Drowned
-revid: 195577
+revid: 200265
 source: https://deepwoken.fandom.com/wiki/Drowned
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Drowned is an equipment enchantment that bolsters your equipment's stats.
+Drowned is a stat-buffing equipment [enchantment](Enchantments.md) that bolsters your equipment's stats.
 
 ## Effect
 
@@ -26,4 +26,4 @@ Drowned grants raw stats to your equipment piece. Drowned gives: +10 Health, +10
 
 ### Notes
 
--   This is one of very few ways to obtain the Damage vs Monsters stat and the only way to gain the Monster Armor stat.
+-   This is one of very few ways to obtain the Damage vs Monsters and Monster Armor stats, making the enchantment a must-have for PvE.

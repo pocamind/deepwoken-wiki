@@ -1,6 +1,6 @@
 ---
 title: Mr Toon
-revid: 198037
+revid: 200254
 source: https://deepwoken.fandom.com/wiki/Mr_Toon
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Exclusive, Exclusive Outfits, Outfits, Developer Spec]
@@ -41,7 +41,6 @@ Additionally, it provides the [Vow of Mastery](Vow_of_Mastery.md) Talent. Allowi
 ## Trivia
 
 -   This armor is worn by Nuttoons.
-
+    -   Nuttoons can call upon the armor by saying the phrase "Shazam", instantly equipping it.
 -   The stats and name of this armor were leaked.
-
--   Has the same resistances as Black Diver (slightly better due to the ether regen and vow of mastery)
+-   Has the same resistances as Black Diver.

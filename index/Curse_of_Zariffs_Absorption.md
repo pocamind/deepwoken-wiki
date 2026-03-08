@@ -1,6 +1,6 @@
 ---
 title: Curse of Zariffs Absorption
-revid: 195591
+revid: 200255
 source: https://deepwoken.fandom.com/wiki/Curse_of_Zariffs_Absorption
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Cut Content, Enchantments, Weapon Enchantments, Curse Enchantments]
@@ -20,7 +20,7 @@ notices:
 
 ## Description
 
-Curse of Zariffs Absorption is a cut content enchantment that stole your opponent's enchantment on hit.
+Curse of Zariffs Absorption is a cut content [enchantment](Enchantments.md) that stole your opponent's enchantment on hit.
 
 ## Effect
 

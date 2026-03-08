@@ -1,9 +1,9 @@
 ---
 title: "Sinner's Ash"
-revid: 192661
+revid: 200232
 source: https://deepwoken.fandom.com/wiki/Sinner's_Ash
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items]
+categories: [Pathfinder Exclusive, Relics, Items]
 ---
 
 # Sinner's Ash
@@ -20,6 +20,10 @@ categories: [Relics, Items]
 | pass down | No |
 | desc | Remnants of the Forge of Sin that warp and stain what they touch. Said to hold a fragment of the Forge's ability to shape souls, though with unpredictable outcomes. |
 | obtainment | Duke Erisia, Chaser, First Layer, The Diluvian Mechanism, Maestro Evengarde Rest, Elder Primadon, The Titan Warlord, Weird Trader, Moon's Eyrie, War Mode, Sea Events, Saramaed Hollow, Lysander Spellhardt, Hell Mode, Heart of Enmity, Goodie Bag, Sold in Traan Zakshun's black market for 7 |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

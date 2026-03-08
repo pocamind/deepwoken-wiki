@@ -1,6 +1,6 @@
 ---
 title: Enforcer
-revid: 199339
+revid: 200271
 source: https://deepwoken.fandom.com/wiki/Enforcer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Depths]
@@ -117,7 +117,7 @@ The Axe Enforcer is the main type, but there is also an Enforcer's Hammer and En
 ## Passives
 
 -   **Resilient -** Monsters damage buffs are half as effective against them.
--   **Monster Resistance** - Physical attacks deal ?% less damage to Enforcers.
+-   **Monster Resistance** - Physical attacks deal around 30-40% less damage to Enforcers.
 
 ## Combat
 

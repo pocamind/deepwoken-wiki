@@ -1,6 +1,6 @@
 ---
 title: "Oath: Saintsworn"
-revid: 200088
+revid: 200269
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Saintsworn
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, The Five Heroes, Oaths, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Legendary Weapons, "Attunement-based Weapons", Hero Blades]
@@ -144,7 +144,6 @@ These Talents have modified effects based on your current Saint Stance. Due to t
             -   **[Possession](Talents.md#possession)**: After an apparition hits an enemy, receive 15% posture damage on all attuned mantras for 6 seconds. If the apparition hits while you have Phantom Step activated, receive a 15% chip damage buff as well for the same duration.
             -   **[Storm Link](Talents.md#storm-link)**: While you have a Static Link on someone, your mantras that hit them are imbued with flashes of Lightning.
         -   **Ether Proselyte: Shadowcast Stance**: In the **Shadowcast** Saint Stance, all attuned Mantras are able to proc the following Talents:
-            -   **[Dark Hours](Talents.md#dark-hours)**: Your attuned Mantras will gain a 15% damage buff during night or in the depths.
             -   **[Pressure Detonation](Talents.md#pressure-detonation)**: Block breaking with any attuned mantra will suffocate your opponent and steal their tempo.
         -   **Ether Proselyte: Frostdraw Stance**: In the **Frostdraw** Saint Stance, all attuned Mantras are able to proc the following Talents:
             -   **[Cryonis](Talents.md#cryonis)**: Your attuned Mantras will have a reduced Ether cost while standing on ice.

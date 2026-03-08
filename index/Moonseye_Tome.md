@@ -1,9 +1,9 @@
 ---
 title: Moonseye Tome
-revid: 192645
+revid: 200231
 source: https://deepwoken.fandom.com/wiki/Moonseye_Tome
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items]
+categories: [Pathfinder Exclusive, Relics, Items]
 ---
 
 # Moonseye Tome
@@ -20,6 +20,10 @@ categories: [Relics, Items]
 | pass down | No |
 | desc | A scrawled and raving account of the prophetic dream received by the Prophet Pariah of the Lullaby Isles, the short-lived leader of a Lunar Cult who voyaged into the Voidsea in the hopes of finding a stairway to the heavens. Though indecipherable, the tome seems to contain more pages than allowed by its size. All copies of the original volume were burnt, but even hundreds of years after its author's demise, new volumes spotaneously appear in libraries and chapels across the Central Luminant. They are swiftly burnt and all records expunged. |
 | obtainment | Chaser, Crypt of the Unbroken, First Layer, Diluvian Mechanism, Moon's Eyrie, Lysander Spellhardt, Primadon, Fishing, Hell Mode, Weird Trader, Heart of Enmity, Titus Fulminus Destellus, Sold in Traan Zakshun's black market for 4 , Goodie Bag |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

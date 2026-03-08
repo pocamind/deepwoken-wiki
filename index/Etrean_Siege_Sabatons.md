@@ -1,6 +1,6 @@
 ---
 title: Etrean Siege Sabatons
-revid: 195430
+revid: 200242
 source: https://deepwoken.fandom.com/wiki/Etrean_Siege_Sabatons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Sabatons, Etrea]
@@ -12,7 +12,7 @@ categories: [Equipment, Legs, Sabatons, Etrea]
 |---|---|
 | type | Legs |
 | rarity | Rare |
-| selling price | ? |
+| selling price | 25 |
 | requirements | PWR 6 |
 | weight | 1 |
 | innate stats | +4 Health |

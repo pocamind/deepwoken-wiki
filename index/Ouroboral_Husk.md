@@ -1,9 +1,9 @@
 ---
 title: Ouroboral Husk
-revid: 194918
+revid: 200225
 source: https://deepwoken.fandom.com/wiki/Ouroboral_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items, Effigies]
+categories: [Pathfinder Exclusive, Relics, Items, Effigies]
 ---
 
 # Ouroboral Husk
@@ -20,6 +20,10 @@ categories: [Relics, Items, Effigies]
 | pass down | No |
 | desc | Effigial remnant of a Ventworm, manyspawn of Korilfiend. Heat seeps from the joints of its carapace, charring and defacing all that it brushes against. In hand, the husk's cradlememories are your own, a homeward call that would sear the very flesh off your bones. |
 | obtainment | Saramaed Summit, Saramaed Hollow |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

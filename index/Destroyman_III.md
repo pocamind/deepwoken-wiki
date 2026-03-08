@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 198626
+revid: 200220
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -111,6 +111,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 -   TIP: Sesame oil is great in stir fries. Remember that.
 -   TIP: Soy sauce contains over 900mg of sodium in only one serving. I'm not the food police, though.
 -   TIP: Support your favorite artists, buy their albums. Streaming services pay .4 cents a play. A cup of coffee costs around 1,000 streams.
+-   TIP: There are over 300 types of pasta, and around 1,300 names for pasta shapes. Eating all of those would make me pasta away!
 -   TIP: We're only a few years away from the Meatlord having his perception of meat blurred to the point where we're all in mortal peril. Food for thought.
 -   TIP: When was the last time you picked up a book? No, weapon manuals don't count.
 -   TIP: Why are you still playing this game? Go outside.
@@ -132,6 +133,7 @@ You can buy an official Sharko Plush made by Makeship [here](https://www.makeshi
 
 -   Don't forget me.
 -   Erm. Developer?
+-   Hey, wait, I'm just a lil' guy!
 -   I don't feel so good..
 -   I regret to announce this is the end! I am going now.
 -   I'll be back.

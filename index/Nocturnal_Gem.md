@@ -1,9 +1,9 @@
 ---
 title: Nocturnal Gem
-revid: 190626
+revid: 200224
 source: https://deepwoken.fandom.com/wiki/Nocturnal_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Event Only Content, Treasures, Mantras, Deep Gems, Event Item, Hallowtide, Relics]
+categories: [Pathfinder Exclusive, Event Only Content, Treasures, Mantras, Deep Gems, Event Item, Hallowtide, Relics]
 notices:
   - This page contains Event Exclusive Content This item is exclusive to Goodie Bags.
 ---
@@ -22,6 +22,10 @@ notices:
 | pass down | No |
 | desc | A strange gem you aren't sure is even from this world. As you listen closely, you hear faint squeaking noises.On hit, summons bats on your enemies, dealing damage to your opponents. (25s CD) |
 | obtainment | Goodie Bag |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

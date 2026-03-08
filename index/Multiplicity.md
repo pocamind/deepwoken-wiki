@@ -1,6 +1,6 @@
 ---
 title: Multiplicity
-revid: 195580
+revid: 200264
 source: https://deepwoken.fandom.com/wiki/Multiplicity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Multiplicity is an equipment enchantment that buffs the user on proc.
+Multiplicity is an RNG-based equipment [enchantment](Enchantments.md) that grants the user one of three buffs on proc.
 
 ## Effect
 

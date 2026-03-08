@@ -1,9 +1,9 @@
 ---
 title: Baneful Syrinx
-revid: 194919
+revid: 200227
 source: https://deepwoken.fandom.com/wiki/Baneful_Syrinx
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Relics, Items, Effigies]
+categories: [Pathfinder Exclusive, Relics, Items, Effigies]
 ---
 
 # Baneful Syrinx
@@ -20,6 +20,10 @@ categories: [Relics, Items, Effigies]
 | pass down | No |
 | desc | A vile effigy fashioned in reverence of Yun'Shul. In its sockets you see glimpses of Scyphozia, where Servants and Voices of the Keeper are numerous. All that is lost makes its way through nets cast by their many fingers. |
 | obtainment | The Diluvian Mechanism, Hell Mode, Heart of Enmity, Lysander Spellhardt |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

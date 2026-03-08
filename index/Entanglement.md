@@ -1,6 +1,6 @@
 ---
 title: Entanglement
-revid: 195578
+revid: 200262
 source: https://deepwoken.fandom.com/wiki/Entanglement
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Entanglement is an equipment enchantment that pulls your attacker towards you on proc.
+Entanglement is a damage reduction equipment [enchantment](Enchantments.md) that grants damage reduction on proc, at the cost of slowing yurself.
 
 ## Effect
 
