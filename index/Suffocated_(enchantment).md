@@ -1,6 +1,6 @@
 ---
 title: Suffocated (enchantment)
-revid: 199772
+revid: 200283
 source: https://deepwoken.fandom.com/wiki/Suffocated_(enchantment)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments, Craftable]
@@ -8,7 +8,7 @@ categories: [Enchantments, Weapon Enchantments, Craftable]
 
 # Suffocated (enchantment)
 
-| Suffocated (enchantment) | |
+| Suffocated | |
 |---|---|
 | bankable | Yes |
 | droppable | Yes |

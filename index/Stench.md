@@ -1,6 +1,6 @@
 ---
 title: Stench
-revid: 200270
+revid: 200278
 source: https://deepwoken.fandom.com/wiki/Stench
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Equipment Enchantments]
@@ -18,7 +18,7 @@ categories: [Enchantments, Equipment Enchantments]
 
 ## Description
 
-Stench is an equipment [enchantment](Enchantments.md) that creates a damaging area on proc.
+Stench is a damage-dealing equipment [enchantment](Enchantments.md) that creates a lingering damage cloud on proc.
 
 ## Effect
 

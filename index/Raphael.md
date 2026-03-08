@@ -1,6 +1,6 @@
 ---
 title: Raphael
-revid: 200251
+revid: 200285
 source: https://deepwoken.fandom.com/wiki/Raphael
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, NPCs located in the First Layer, Quests]
@@ -14,6 +14,7 @@ categories: [Celtor NPCs, Individuals with He/him pronouns, Pathfinder Exclusive
 | aspect | Celtor |
 | pronouns | He/him |
 | location | Varicosa District |
+| affiliation | The Ministry |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

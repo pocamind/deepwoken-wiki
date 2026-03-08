@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 199785
+revid: 200284
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1005,7 +1005,7 @@ Stormbreaker [Enchant Stone](Enchant_Stone.md):
 
 [View main page](<Suffocated_(enchantment).md>)
 
-[Placeholder](<Suffocated_(enchantment).md>)
+File:Suffocated.gif
 
 _Landing a critical, uppercut, flourish, or offhand attack procs suffocation._
 
