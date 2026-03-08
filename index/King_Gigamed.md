@@ -1,6 +1,6 @@
 ---
 title: King Gigamed
-revid: 192037
+revid: 200313
 source: https://deepwoken.fandom.com/wiki/King_Gigamed
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -35,6 +35,12 @@ Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
 -   Deals ~30 damage.
 -   After they use this attack, they will back away if a player is close to them, and come closer if a player isn't close to them.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  |
 | 
 
@@ -45,10 +51,16 @@ Commonly referred to as **Mama/Mother Jellyfish & King Jellyfish**.
 
 -   Be cautious when fighting them near cliffs.
 
+_Uses Telegraph_
+
+[DodgeTelegraph](Combat_Mechanics.md#red)
+
+Dodge
+
  |
 | 
 
-**Summon Gigameds**  
+**Gigamed Erupt**  
 (★★☆)
 
  | The King screeches and summons 3 Gigameds that are launched towards your position.

@@ -1,6 +1,6 @@
 ---
 title: Charged Parasol Part
-revid: 200222
+revid: 200311
 source: https://deepwoken.fandom.com/wiki/Charged_Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]

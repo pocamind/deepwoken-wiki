@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Chill
-revid: 199769
+revid: 200292
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Chill
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -23,6 +23,8 @@ Kyrsan Chill is a [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)\-e
 ## Effect
 
 Upon landing a critical attack, Kyrsan Chill applies slowing effect. This slow stacks on subsequent procs, applying a full freeze at 5 stacks.
+
+  
 
 ### Notes
 

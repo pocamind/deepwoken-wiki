@@ -1,6 +1,6 @@
 ---
 title: The Meat Lord
-revid: 199650
+revid: 200298
 source: https://deepwoken.fandom.com/wiki/The_Meat_Lord
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Individuals with He/him pronouns, Vendors, Random Encounters, NPCs, NPCs located in the Eastern Luminant, NPCs located in the Etrean Luminant]
@@ -145,18 +145,22 @@ The Meat Lord can be found at the following places:
 <table>
 <tbody>
 <tr>
-  <td colspan="2">Begin Dialogue</td>
+  <td colspan="3">Begin Dialogue</td>
 </tr>
 <tr>
-  <td>When accessing the Shop</td>
-  <td>After purchasing something</td>
+  <td>[When accessing the Shop]</td>
+  <td>[After purchasing something]</td>
+  <td>[Attempting to purchase meat with no available carryload]</td>
 </tr>
 <tr>
   <td>Very well.</td>
   <td>Here's your meat.</td>
+  <td><i>*The Meat Lord scowls at you.*</i> You would carry my goods when overburdened and risk spoiling the meats? Lighten your load of lesser goods and then return.</td>
 </tr>
 <tr>
-  <td colspan="2">[End Dialogue]</td>
+  <td>[End Dialogue]</td>
+  <td>[End Dialogue], meat obtained</td>
+  <td>[End Dialogue]</td>
 </tr>
 </tbody>
 </table>

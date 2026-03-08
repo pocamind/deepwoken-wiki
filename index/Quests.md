@@ -1,6 +1,6 @@
 ---
 title: Quests
-revid: 198346
+revid: 200309
 source: https://deepwoken.fandom.com/wiki/Quests
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [SpoilerPages, Quests, NPCs, Mechanics]
@@ -79,7 +79,7 @@ The following quests grant the _Bravery_ Talent hand on top of their other rewar
 <tr>
   <td><div><p><b>Quest Location</b>: <a href="Greathive_Aratel.md">Greathive Aratel</a><br>
   <b>Guide</b>: Talk to <a href="Suri.md">Suri</a> at <a href="Greathive_Aratel.md">Greathive Aratel</a>. He will ask you to place a flower on his brother's grave at <a href="Isle_of_Vigils.md">Isle of Vigils</a>. Taking 3%+ damage while the flower is in your inventory will turn it into a Ruined Flower, forcing you to return to Suri for a new flower.<br>
-  <b>Reward(s)</b>: <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gem</a>, Hive Reputation, Compassion, <a href="Talents.md#careful-handling">Careful Handling</a></p></div></td>
+  <b>Reward(s)</b>: <a href="Mantra_Modifiers.md#regular-modifiers">Vibrant Gem</a>, Hive Reputation, Compassion, 5 Full Training points, <a href="Talents.md#careful-handling">Careful Handling</a></p></div></td>
   <td><figure><figcaption><p></p><div><a href="Suri.md">Suri</a></div><p></p></figcaption></figure></td>
 </tr>
 </tbody>

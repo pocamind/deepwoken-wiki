@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 199911
+revid: 200293
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1742,16 +1742,12 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
 ### Heretic
 
 -   _All the Dead Gods_ \[Rare Talent, Intelligence, Willpower\] - Your Basic Attacks now apply anti-heal and 5% [Heal Boost](Status_Effects.md#heal-boost) against PvE for 8s. (+7 Sanity)
-    -   Whenever you land a Basic Attack, the target has most healing forms reduced/disabled for 8 seconds.
-        -   Anti-heal amount for any non-passive source of healing scales on your combined Willpower and Intelligence investment. Scales up to 100% with 105 points combined in both stats. (Ex. Still has 100% antiheal at 80 Willpower + 25 Intelligence OR 55 Willpower + 50 Intelligence). Relevant for [Shrine of Order](Deep_Shrines/Shrine_of_Order.md).
-        -   Anti-heal percentage can be calculated by combining your INT and WLP invest, dividing by 105, then multiplying by 100. (Ex. 35 INT + 45 WLP = 80) > (80/105 = 0.762) > (0.762 \* 100 = 76.2% Anti-heal)
-    -   The anti-heal will not stack with any other source of anti-heal, as the higher potency anti-heal will take priority over all other sources.
-    -   The scaling from investment only affects spit healing, [Bloodless Gem](Bloodless_Gem.md) and [Blood Scourge](Blood_Scourge.md).
-    -   Passive health regeneration and campfire regeneration are FULLY blocked even if the full requirements are not met. (Ex. 30 INT + 60 WLP will still negate campfire & health regen entirely even though every other health source will only be reduced by 85.7%.)
-    -   The anti-heal effect is signified by a purple "fog" particle effect on the victim.
-    -   Does not work on allies.
-    -   Does not affect healthpacks.
-    -   Also procs on criticals with the M1 tag.
+    -   Whenever you land an M1 or critical with the M1 tag, apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds.
+    -   All the Dead Gods' anti-heal effectiveness for sources of active healing scales on your combined Willpower and Intelligence investment. This has a minimum value of 70% at 55 combined points of Intelligence and Willpower, and a maximum value of 100% at 105 combined points.
+        -   All the Dead Gods loses 0.6% anti-heal for every **combined** point of Intelligence and Willpower below 105. For example, 80 combined points will have 85% anti-heal.
+    -   All the Dead Gids' anti-heal effectiveness for sources of passive healing is always 100% regardless of your combined investment. Sources of passive healing include: [campfires](Campfire_Pit.md), Conditioned Runner, [Curse of the No Life King](Curse_of_the_No_Life_King.md), Chorus of Souls, and natural health regeneration.
+    -   Wearing a [Ring of Pestilence](Ring_of_Pestilence.md) increases All the Dead Gods' anti-heal duration by 4 seconds; from 8 to 12.
+    -   The anti-heal cannot be procced on allies, and it does not affect healthpacks.
     -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.
     -   The maximum amount of Heal Boost you can have have is 45%, by having the following Talents: All Above, Gods Below (+15%), All the Dead Gods (+5%), Frostbite (+5%), Saint Jay (+10%), and Sin Stacker (+10%).
     -   Prerequisites: 65 Willpower, 40 Intelligence
