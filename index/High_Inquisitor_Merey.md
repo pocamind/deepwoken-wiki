@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 199644
+revid: 200389
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -101,7 +101,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 
 **Command Division:**
 
-**Warrant Officer:**
+**Warrant Officer / Captain / Commander:**
 
 <table>
 <tbody>
@@ -109,75 +109,7 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
   <td>Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*You gracefully salute the High Inquisitor. She salutes you back, stern as ever. Though, even through her steeled demeanour, you can tell your presence draws her attention.*</i> Welcome, Warrant Officer. I'm currently preoccupied with something, so if you bring any messages from Warden Jericho, please leave them on the table. If the Warden asks, you may tell him that the plans regarding our latest agent networks are proceeding apace.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Captain:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Commander:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>WIP</td>
+  <td><i>*You gracefully salute the High Inquisitor. She salutes you back, stern as ever. Though, even through her steeled demeanour, you can tell your presence draws her attention.*</i> Welcome, [Rank]. I'm currently preoccupied with something, so if you bring any messages from Warden Jericho, please leave them on the table. If the Warden asks, you may tell him that the plans regarding our latest agent networks are proceeding apace.</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
@@ -186,24 +118,6 @@ High Inquisitor Merey is located inside of the fortress at [Fort Merit](Fort_Mer
 </table>
 
 **Seneschal:**
-
-**First Encounter:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>WIP</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
-**Subsequent Encounters:**
 
 <table>
 <tbody>

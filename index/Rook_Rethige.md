@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 200373
+revid: 200384
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Voidheart, The Knives of Eylis, Vendors]
@@ -152,10 +152,10 @@ This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) 
   <td colspan="4">I have a feeling that you don't belong here.</td>
 </tr>
 <tr>
-  <td colspan="4">TBA</td>
+  <td colspan="4">Aye, neither do you... Truth is that I used to- no, <i>tried</i> to be helpful in other places before. Though, neither the <a href="Glossary.md#the-divers">Divers</a> nor the Union were fond of me, to name a few. However, each of them left something behind for me, namely their tricks and gadgets.</td>
 </tr>
 <tr>
-  <td colspan="4">TBA</td>
+  <td colspan="4">Which means..?</td>
 </tr>
 <tr>
   <td colspan="4">Which means that you can have them! They're useless! Why would anyone run with an annoying buzzer in their backpack or <b>Gods above</b> willingly wish to delve into the Depths?</td>
@@ -174,9 +174,9 @@ This dialogue is unlocked if the player has the Two Faced [Regalia](Regalia.md) 
   <td>Horn of Authority</td>
 </tr>
 <tr>
-  <td>[End Dialogue], Player obtains Call of the Deep</td>
-  <td>[End Dialogue], Player obtains Union Pager</td>
-  <td>[End Dialogue], Player obtains Horn of Authority</td>
+  <td>[End Dialogue], Player obtains <a href="Deepbound.md">Call of the Deep</a></td>
+  <td>[End Dialogue], Player obtains <a href="Ignition_Delver.md">Union Pager</a></td>
+  <td>[End Dialogue], Player obtains <a href="Authority_Ensign.md#horn-of-authority">Horn of Authority</a></td>
 </tr>
 </tbody>
 </table>

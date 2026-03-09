@@ -1,6 +1,6 @@
 ---
 title: Deep Shrines/Shrine of Temptation
-revid: 191390
+revid: 200392
 source: https://deepwoken.fandom.com/wiki/Deep_Shrines/Shrine_of_Temptation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, Mechanics]
@@ -36,7 +36,7 @@ Trade a Mantra of your choice and 5 to gain a Whisper Draw.
 
 -   Lets you get whisper draws after max level.
 -   Make sure your mantra is active and not sitting in your inventory like a modifier.
--   Don't forget to use a Mystic to help you get a specific mantra of your choice.
+-   Don't forget to use the Mantra Deck to help you get a specific mantra of your choice.
 -   **Be careful when trading your mantras, make sure you are not removing a mantra you actually want to keep.**
 -   [Monster Mantras](../Monster_Mantras.md) cannot be traded.
 

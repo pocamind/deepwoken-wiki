@@ -1,6 +1,6 @@
 ---
 title: Lord Guardian
-revid: 198874
+revid: 200390
 source: https://deepwoken.fandom.com/wiki/Lord_Guardian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -20,7 +20,7 @@ The Lord Guardians are a line of temporary rulers that govern the kingdom of Etr
 
 ## Notable Members
 
--   [Ji'ang](<Ji'ang.md>): The final Lord Guardian before the [The Lord Regent](The_Lord_Regent.md) took the throne.
+-   [Ji'ang](<Ji'ang.md>): The final Lord Guardian before [The Lord Regent](The_Lord_Regent.md) took the throne.
 -   [The Lord Regent](The_Lord_Regent.md): The current Regent over the kingdom of [Etera](Etrea.md).
 
 ## References
