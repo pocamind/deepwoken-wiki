@@ -1,6 +1,6 @@
 ---
 title: Knowledge
-revid: 195695
+revid: 200375
 source: https://deepwoken.fandom.com/wiki/Knowledge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Mechanics, Currency]
@@ -64,7 +64,7 @@ Achieving milestones and completing certain quests will award the player with Kn
 -   Killing the Attunement Trainers for [Silentheart](Oath%253A_Silentheart.md), awarding 1 Knowledge each for a total of 6 Knowledge.
 -   Killing Iblis and the Sinners ([Abaddon](Abaddon,_Sinner_of_Ice.md), [Astaroth](Astaroth,_Sinner_of_Wind.md), [Iblis](Iblis,_The_Fallen_Angel.md), and [Minos](Minos,_Sinner_of_Flame.md)) for [Starkindred](Oath%253A_Starkindred.md), awarding 1 Knowledge each for a total of 4 Knowledge.
 -   Killing the following Monsters for the first time while dealing at least 50% of the damage, awarding 1 Knowledge each:
-    -   [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Megalodaunt](Megalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md)/[Hive Construct](Hive_Construct.md), [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), and any [Corrupted](Monsters.md#scyphozia) [Monster](Monsters.md).
+    -   [Crimson Megalodaunt](Crimson_Megalodaunt.md), [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mechalodaunt](Mechalodaunt.md), [Megalodaunt](Megalodaunt.md), [Prime Megalodaunt](Prime_Megalodaunt.md), [Blizzard Knight](Stone_Knight.md#blizzard-knight), [Deep Owl](Deep_Owl.md), [King Thresher](King_Thresher.md), [Deep Widow](Deep_Widow.md), [Nautilodaunt](Nautilodaunt.md) (not the [Fury version](Fury_Nautilodaunt.md)), [The Enforcer](Enforcer.md), [Bounder](Bounder.md), [Stone Knight](Stone_Knight.md), [Rogue Construct](Rogue_Construct.md)/[Hive Construct](Hive_Construct.md), [Rock Golem](Rock_Golem.md), [Golem Prime](Golem_Prime.md), [Bone Keeper](Bone_Keeper.md), and any [Corrupted](Monsters.md#scyphozia) [Monster](Monsters.md).
 -   Using the [Moonseye Tome](Moonseye_Tome.md) relic, which grants 100 Knowledge the first time, then 50 Knowledge for each subsequent uses.
 -   Completing waves in [The Diluvian Mechanism](The_Diluvian_Mechanism.md), which gives around 20 Knowledge in total when completing through wave 50.
 -   Completing [Hell Mode](Hell_Mode.md), which gives 15 Knowledge to each player who rang the bell when finished.

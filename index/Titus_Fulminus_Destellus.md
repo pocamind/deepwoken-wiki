@@ -1,6 +1,6 @@
 ---
 title: Titus Fulminus Destellus
-revid: 200238
+revid: 200380
 source: https://deepwoken.fandom.com/wiki/Titus_Fulminus_Destellus
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, NPCs, Bosses, Enemies with Oaths, The Hundred Legions Enemies, The Hundred Legions]
@@ -183,6 +183,7 @@ Upon his capture, he intentionally let his guard down to get captured by [Sentin
  | Titus summons three orbs of white lightning that lock onto the nearest opponent. If they are struck by this, they will be held in the air for a short time.
 
 -   Titus will only use this move in his second phase.
+-   This move is easy to avoid if you run back or dash back.
 
  | 
 
