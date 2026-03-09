@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 198821
+revid: 200352
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -27,7 +27,7 @@ categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |
-| bankable | Yea |
+| bankable | Yes |
 | droppable | No |
 | enchantable | No |
 | pass down | Yes |

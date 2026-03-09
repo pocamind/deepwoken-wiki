@@ -1,11 +1,12 @@
 ---
 title: Deepwoken OST
-revid: 200157
+revid: 200355
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Upcoming content, Deepwoken]
+categories: [Upcoming content, In progress with reason, InProgressPages, Deepwoken]
 notices:
   - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
+  - "This page is currently being worked on. New soundtracks are constantly added!"
 ---
 
 # Deepwoken OST
@@ -103,24 +104,31 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 28 | [11:59](https://soundcloud.com/naktigonis/1159a) | 3:20 | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) (Escape sequence) |  |
 | 29 | [The Better Part Of Valour](https://soundcloud.com/naktigonis/the-better-part-of-valour) | 3:33 | [Merit Detainment Core](Merit_Detainment_Core.md) |  |
 | 30 | [Chainbreaker](https://soundcloud.com/naktigonis/chainbreaker) | 2:21 | [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) |  |
-| 31 | [Wardens Of The Valiant Dead](https://soundcloud.com/naktigonis/wardens-of-the-valiant-dead) | 4:52 | [Fort Merit](Fort_Merit.md) and [Port Merit](Port_Merit.md) |  |
-| TBA | Hymn Of Iron (Contour 1) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
-| TBA | Hymn Of Iron (Contour 2) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
-| TBA | Hymn Of Iron (Contour 3) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
-| TBA | Hymn Of Iron (Contour 4) | TBA | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen | TBA |
-| TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage2-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Death sequence) | TBA |
-| TBA | Bread And Roses[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
-| TBA | Class Struggle[\[1\]](#cite-note-naktimessage2-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) (Combat) | TBA |
-| TBA | The Hammer's Call[\[2\]](#cite-note-naktimessage-2) | TBA | TBA | TBA |
-| TBA | _Katabasis_[\[2\]](#cite-note-naktimessage-2) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) (Combat) | TBA |
-| TBA | The Prince Peripatetic[\[2\]](#cite-note-naktimessage-2)[\[1\]](#cite-note-naktimessage2-1) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
+
+### Deepwoken: Original Soundtrack (Vol. III)
+
+| **No.** | **Title** | **Length** | **Location** | **File** |
+| --- | --- | --- | --- | --- |
+| 1 | [Wardens Of The Valiant Dead](https://soundcloud.com/naktigonis/wardens-of-the-valiant-dead) | 4:52 | [Fort Merit](Fort_Merit.md) and [Port Merit](Port_Merit.md) |  |
+| 2 | [Hymn Of Iron (Contour 1)](https://soundcloud.com/naktigonis/hymn-of-iron-1) | 2:11 | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen |  |
+| 3 | [Hymn Of Iron (Contour 2)](https://soundcloud.com/naktigonis/hymn-of-iron-2) | 2:11 | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen ([Shogun of the Prophet's Guard (Temple of Mur)](<Shogun_of_the_Prophet's_Guard_(Temple_of_Mur).md>) defeated) |  |
+| 4 | [Hymn Of Iron (Contour 3)](https://soundcloud.com/naktigonis/hymn-of-iron-3) | 2:11 | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen ([Dravik, The Rat King](Dravik,_The_Rat_King.md) defeated) |  |
+| 5 | [Hymn Of Iron (Contour 4)](https://soundcloud.com/naktigonis/hymn-of-iron-4) | 2:24 | [The Cerebral Spire](The_Cerebral_Spire.md) and [Vow of Iron](Vow_of_Iron.md) Title Screen ([True Heart of Enmity](True_Heart_of_Enmity.md) defeated) |  |
+| 6 | [Hymn Of The Worthy](https://soundcloud.com/naktigonis/hymn-of-the-worthy) | 2:27 | [Shrine of the Worthy](Shrine_of_the_Worthy.md) |  |
+| TBA | Synthetic Deicide[\[1\]](#cite-note-naktimessage-1) | TBA | [Chaser, Scholar of the Burning Blood](Chaser,_Scholar_of_the_Crimson_Contract.md) (Death sequence) | TBA |
+| TBA | Bread And Roses[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [Miner's Landing](<Miner's_Landing.md>) | TBA |
+| TBA | Class Struggle[\[1\]](#cite-note-naktimessage-1) | TBA | [Miner's Landing](<Miner's_Landing.md>) (Combat) | TBA |
+| TBA | The Hammer's Call[\[2\]](#cite-note-naktimessage2-2) | TBA | TBA | TBA |
+| TBA | _Katabasis_[\[2\]](#cite-note-naktimessage2-2) | TBA | [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md) (Combat) | TBA |
+| TBA | The Prince Peripatetic[\[1\]](#cite-note-naktimessage-1)[\[2\]](#cite-note-naktimessage2-2) | TBA | [The Sunken Railways](The_Sunken_Railways.md)
 [The Great Library of New Kyrsa](Second_Layer/New_Kyrsa.md)
 
  | TBA |
-| TBA | _Untitled Conquest Lobby Theme[\[1\]](#cite-note-naktimessage2-1)_ | TBA | TBA | TBA |
+| TBA | _Untitled Conquest Lobby Theme[\[1\]](#cite-note-naktimessage-1)_ | TBA | TBA | TBA |
 | TBA | Our Fortress (Of Smoke And Steel) | TBA | TBA | TBA |
 | TBA | The Ferryman's Lullaby | TBA | TBA | TBA |
 | TBA | ? | TBA | [Heart of Enmity](Heart_of_Enmity.md) | TBA |
+| TBA | ? | TBA | [Dravik, The Rat King](Dravik,_The_Rat_King.md) | TBA |
 | TBA | ? | TBA | [Zi'eer, the Fourth Prophet](<Zi'eer,_the_Fourth_Prophet.md>) | TBA |
 
 ### Additional Songs
@@ -141,10 +149,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 3 | [No Time For Paws](https://soundcloud.com/naktigonis/no-time-for-paws) | 1:26 | Felinor Theme |  |
 | 4 | [Visions](https://soundcloud.com/naktigonis/visions) | 2:12 | Deepwoken Direct Theme |  |
 | 5 | [Drownedabout](https://soundcloud.com/naktigonis/drownedabout) | 0:25 | "Roundabout" by Yes - Cover Sketch |  |
-| 6 | [Blood in the Shallows](https://soundcloud.com/naktigonis/blood-in-the-shallows) | 1:36 | Kiztatziki[\[3\]](#cite-note-3)
-Boss Theme
-
- |  |
+| 6 | [Blood in the Shallows](https://soundcloud.com/naktigonis/blood-in-the-shallows) | 1:36 | Kiztatziki[\[3\]](#cite-note-3) Boss Theme |  |
 
 ### Additional Songs
 
@@ -155,6 +160,6 @@ Boss Theme
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-naktimessage2-1-0) [1.1](#cite-ref-naktimessage2-1-1) [1.2](#cite-ref-naktimessage2-1-2) [1.3](#cite-ref-naktimessage2-1-3) [1.4](#cite-ref-naktimessage2-1-4) Mentioned in a roadmap for Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1191508430956007606)
-2.  ↑ [2.0](#cite-ref-naktimessage-2-0) [2.1](#cite-ref-naktimessage-2-1) [2.2](#cite-ref-naktimessage-2-2) [2.3](#cite-ref-naktimessage-2-3) Mentioned in an update from Naktigonis about Volume II's release: [Message Link](https://discord.com/channels/920707638034067486/934645423572910080/1141038881790242867)
-3.  [↑](#cite-ref-3) Entity doesn't exist in Deepwoken. It has been invented as a joke by Naktigonis and released as accidental "leak".
+1.  ↑ [1.0](#cite-ref-naktimessage-1-0) [1.1](#cite-ref-naktimessage-1-1) [1.2](#cite-ref-naktimessage-1-2) [1.3](#cite-ref-naktimessage-1-3) [1.4](#cite-ref-naktimessage-1-4)
+2.  ↑ [2.0](#cite-ref-naktimessage2-2-0) [2.1](#cite-ref-naktimessage2-2-1) [2.2](#cite-ref-naktimessage2-2-2) [2.3](#cite-ref-naktimessage2-2-3)
+3.  [↑](#cite-ref-3)

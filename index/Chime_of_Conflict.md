@@ -1,6 +1,6 @@
 ---
 title: Chime of Conflict
-revid: 200163
+revid: 200363
 source: https://deepwoken.fandom.com/wiki/Chime_of_Conflict
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Game Modes]
@@ -101,9 +101,9 @@ Ranked **(Top 1000-251)**
 
 -   Bronze Usernames
 
-## Trivia/Notes
+## Trivia
 
--   The music for the queue area is The Games of War by Naktigonis.
+-   The music for the queue area is [The Games Of War](Deepwoken_OST.md#the-games-of-war) by Naktigonis.
 -   The "Godseeker" title refers to those who [seek out the Drowned Gods](Mendacia.md#dialogue)
     -   This is, in-itself, a reference to the [Hollow Knight games](https://en.wikipedia.org/wiki/Hollow_Knight)
 -   The lowest Elo possible is 500.

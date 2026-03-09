@@ -1,6 +1,6 @@
 ---
 title: Naan Zakshun
-revid: 199492
+revid: 200359
 source: https://deepwoken.fandom.com/wiki/Naan_Zakshun
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Vow of Iron Exclusive, Vendors, NPCs, Circle of Honour members]
@@ -244,8 +244,16 @@ Sold Items
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>For 300 </b>: <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
-    <li><b>For 650 </b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
+    <li><b>For 300 </b>:
+  <ul>
+    <li><b>Medium Weapons</b>: <a href="Vigil_Longsword.md">Vigil Longsword</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Adretian_Axe.md">Adretian Axe</a></li>
+  </ul></li>
+    <li><b>For 650 </b>:
+  <ul>
+    <li><b>Medium Weapons</b>: <a href="Falchion.md">Alloyed Falchion</a>, <a href="Scalesplitter.md">Alloyed Scalesplitter</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
+  </ul></li>
     <li><b>For 1,000 </b>: <a href="Night_Axe.md">Night Axe</a></li>
     <li><b>For 4,500 </b>: <a href="Hero's_Blade_of_Lightning.md">Hero's Blade of Lightning</a>, <a href="Hero's_Blade_of_Shadow.md">Hero's Blade of Shadow</a></li>
   </ul></td>

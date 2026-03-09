@@ -1,6 +1,6 @@
 ---
 title: Emberseal Pendant
-revid: 183628
+revid: 200358
 source: https://deepwoken.fandom.com/wiki/Emberseal_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso, Necklaces]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Depths loot bags |
+| obtainment | Depths loot bagsSolborn Memento |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

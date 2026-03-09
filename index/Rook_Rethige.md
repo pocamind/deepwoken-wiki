@@ -1,6 +1,6 @@
 ---
 title: Rook Rethige
-revid: 192339
+revid: 200373
 source: https://deepwoken.fandom.com/wiki/Rook_Rethige
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Felinor NPCs, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Voidheart, The Knives of Eylis, Vendors]
@@ -59,6 +59,8 @@ If the player has the [Two Faced Regalia](Regalia.md#two-faced), Rook will sell 
 </tbody>
 </table>
 
+**Unlockable Dialogues:**
+
 **Whaling Knives:**
 
 This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can you help me with affording equipment?"**.
@@ -90,8 +92,8 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
   <td colspan="2">You really are a lost cause.</td>
 </tr>
 <tr>
-  <td>Player has enough notes</td>
-  <td>Player does not have enough notes</td>
+  <td>[Sufficient Notes]</td>
+  <td>[Insufficient Notes]</td>
   <td colspan="2">Hey. If you don't watch it, you're gonna get it. I'm not sure what 'it' is yet, but it probably isn't nice.</td>
 </tr>
 <tr>
@@ -120,8 +122,8 @@ This dialogue is unlocked if the player has asked [Raen](Raen.md) **"I see. Can 
   <td colspan="2">Sure.</td>
 </tr>
 <tr>
-  <td>Player has enough notes</td>
-  <td>Player does not have enough notes</td>
+  <td>[Sufficient Notes]</td>
+  <td>[Insufficient Notes]</td>
 </tr>
 <tr>
   <td>Thanks, this will help me repair my Sloop!</td>
