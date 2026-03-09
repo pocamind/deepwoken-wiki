@@ -1,6 +1,6 @@
 ---
 title: Chum
-revid: 192825
+revid: 200321
 source: https://deepwoken.fandom.com/wiki/Chum
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Fishing, Alchemy]
@@ -17,7 +17,7 @@ categories: [Items, Fishing, Alchemy]
 | droppable | Yes |
 | pass down | No |
 | desc | Gross! Good for bait. |
-| obtainment | Buyable, Crafting with Fishmeat. |
+| obtainment | Sold in fishing huts, Crafting with Fishmeat. |
 
 ## Description
 

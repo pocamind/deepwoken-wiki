@@ -1,6 +1,6 @@
 ---
 title: "Oath: Contractor"
-revid: 199260
+revid: 200339
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Contractor
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, The Ministry]
@@ -121,7 +121,7 @@ _Upon obtaining this Oath, four black-and-red marionette-esque strings will embe
 -   Changes dialogue with Duke Erisia.
 -   Note that after coming back to him after doing the duke quest without a [Resonance](Resonance.md) he will auto grip you. (May be a bug since it wasn’t like this before).
 -   Completing the Contractor quest with an Oath will cause Lord Regent to say, "Then you are truly a fool." and kill you, instead of obtaining Contractor.
--   Because of how the steps to getting the Oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, talk to Yun'Shul with a resonance, then obtainment. The finale wiill always be talking to Yun'Shul, then obtainment through Regent, meaning you can do all the steps in whatever order.
+-   Because of how the steps to getting the Oath are lenient, some of the steps can be done out of shown order. This means you can hypothetically make 4 deals with different shrines at Power 1, get Ministry and Etrea reputation, talk to Yun'Shul with a resonance, then obtainment. The finale will always be talking to Yun'Shul, then obtainment through Regent, meaning you can do all the steps in whatever order.
 -   Lord's Slice is heavily reminiscent of Owl Slash, a move used by the [Shinobi](https://rogue-lineage.fandom.com/wiki/Shinobi) class in Studio Monad's older game, [Rogue Lineage](https://rogue-lineage.fandom.com/wiki/Rogue_Lineage_Wiki).
 -   Dialogue with the Etrean Royal Guard changes to "Ah, the benevolent Lord Regent's associate has returned. Has he granted you a new task?"
 -   May be considered as one of the more iconic oaths, with Judgement being featured in the randomizer games Allusions and Item Asylum.

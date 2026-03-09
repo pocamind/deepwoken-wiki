@@ -1,6 +1,6 @@
 ---
 title: Viqh
-revid: 191688
+revid: 200335
 source: https://deepwoken.fandom.com/wiki/Viqh
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightkeepers]

@@ -1,6 +1,6 @@
 ---
 title: World Events
-revid: 196933
+revid: 200333
 source: https://deepwoken.fandom.com/wiki/World_Events
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [World Event, Bosses]
@@ -10,7 +10,7 @@ categories: [World Event, Bosses]
 
 ## Description
 
-World events are game-wide events that occur in every server once every real life hour (exactly at XX:00). Each [Luminant](Luminants.md) will have their own world events and every server of that Luminant will have the same event.
+World events are game-wide events that occur in every server once every real life 30 minutes (exactly at XX:30). Each [Luminant](Luminants.md) will have their own world events and every server of that Luminant will have the same event.
 
 World events are focused on uniting the players towards accomplishing a single goal and awarding them individually. However, you should note that ganking is not disabled and may result in players attempting to kill you so you can't get the loot.
 

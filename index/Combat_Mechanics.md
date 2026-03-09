@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 200145
+revid: 200342
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -436,8 +436,6 @@ Most Monster attacks with this indicator are parryable with [Force Your Way](Ign
 -   [Crustaceous Rex](Crustaceous_Rex.md): Crab Crab, Ground Smash
 -   [Deep Owl](Deep_Owl.md): Overhead Grab
 -   [Deep Widow](Deep_Widow.md): Venomous Bite
--   [Gigamed](Gigamed.md): Electric Stun Pulse
--   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
 -   [Mudskipper Brute](Mudskipper_Brute.md) (all variants): Lumbering Thrust
 -   [Prime Megalodaunt](Prime_Megalodaunt.md): Cero
 -   [Rock Golem](Rock_Golem.md): Uppercut
@@ -477,8 +475,10 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 -   [Bonekeeper](Bone_Keeper.md): Crushing Grab
 -   [Bounder](Bounder.md): Charge
 -   [Deep Widow](Deep_Widow.md): Deep Webbing
+-   [Gigamed](Gigamed.md): Electric Stun Pulse
 -   [Golem Prime](Golem_Prime.md): Laser Barrage
 -   [Hive Construct](Hive_Construct.md) (all variants): Swing
+-   [King Gigamed](King_Gigamed.md): Static Discharge, Greater Stun Pulse
 -   [King Thresher](King_Thresher.md): Royal Breath
 -   [Kyrsgarde Brute](Kyrsgarde_Brute.md): Clenching Assault, Slam
 -   [Lionfish](Lionfish.md) (all variants): Cero, No Trace Left Behind

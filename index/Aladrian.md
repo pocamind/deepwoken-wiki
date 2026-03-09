@@ -1,6 +1,6 @@
 ---
 title: Aladrian
-revid: 180413
+revid: 200320
 source: https://deepwoken.fandom.com/wiki/Aladrian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages, In progress without reason, InProgressPages, Wardens of The Central Authority]
@@ -16,6 +16,10 @@ notices:
 | name | Aladrian[1] |
 | affiliation | The Central Authority[1] |
 | family | Warden Jericho (son)[1] |
+
+## Description
+
+Aladrian was one of [Warden Jericho](Warden_Jericho.md)'s fathers and the previous Warden of the East before he retired. His time as a Warden is described as an era of peace and trade.
 
 ## References
 

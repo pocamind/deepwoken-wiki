@@ -1,6 +1,6 @@
 ---
 title: Oaths
-revid: 199426
+revid: 200337
 source: https://deepwoken.fandom.com/wiki/Oaths
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths, Character, Talents, Mechanics]
@@ -155,6 +155,9 @@ Upon breaking an Oath, unique effects will occur:
 
 -   [Bladeharper](Oath%253A_Bladeharper.md): The Blade Within - "Was this not the future we sought? Perhaps not."
     -   Bladeharper **can** be reobtained if broken.
+
+-   [Blightsurger](Oath%253A_Blightsurger.md): \[No Available Dialogue\]
+    -   Blighsurger **can** be reobtained if broken.
 
 -   [Blindseer](Oath%253A_Blindseer.md): ??? - "The world grows darker once more. The night rolls in, and so do its terrors."
     -   Blindseer **can** be reobtained if broken.
