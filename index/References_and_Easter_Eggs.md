@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 199436
+revid: 200453
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -66,7 +66,6 @@ This is a page dedicated to all of the easter eggs and references to other works
 ### Galebreathe
 
 -   The **Aerogliding** Talent is a reference to Jett, from _Valorant_, whose passive ability which allows her to glide instead of falling.
--   **Wind Blade** could be a reference to the [Moonlight Greatsword](https://darksouls.fandom.com/wiki/Moonlight_Greatsword) from the _Souls_ games.
 -   **Wind Forge** modified with a Multiplying Spark is a reference to [Gilgamesh's Noble Phantasm "Gate of Babylon"](https://typemoon.fandom.com/wiki/Gilgamesh%23Noble_Phantasms) from the _Fate_ series.
 
 ### Shadowcast
@@ -88,7 +87,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ### Bloodrend
 
--   **Veinbreaker** may be a reference to Slayer's [Super Mappa Hunch](https://youtu.be/WvZLibhVVDQ?si=yv3OijWFrJ8-lJHC) from _Guilty Gear -STRIVE-_
+-   **Veinbreaker** may be a reference to Slayer's [Super Mappa Hunch](https://youtu.be/WvZLibhVVDQ) from _Guilty Gear -STRIVE-_
 -   **Scarlet Cannon** is a reference to [Choso's](https://jujutsu-kaisen.fandom.com/wiki/Choso#Abilities_and_Powers) Piercing Blood from Jujutsu Kaisen.
 
 ### Attunementless
@@ -315,8 +314,7 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Ganymedes** are a likely reference to the [Snail Shamans](https://hollowknight.wiki/w/Snail_Shamans) from _Hollow Knight._
     -   **Ganymedes** are also named after [a moon of Jupiter.](<https://en.wikipedia.org/wiki/Ganymede_(moon)>)
     -   **Ganymedes** origins stems from _Arch\_Mage's previous game, [Yggdrasil](https://www.roblox.com/games/361122402/Yggdrasil)._ Where it serves as the player's race.
--   Although this was likely unintentional, Tiran's Jay variant resembles Niko from _OneShot_.
-    -   Their Cardinal variant also heavily resembles [Makima](https://chainsaw-man.fandom.com/wiki/Makima) from _Chainsaw Man_ due to their eyes and hair color.
+-   **Tiran** hair feathers, and the Jay variant are a reference to Alula from _OneShot_.
 
 ### Misc
 

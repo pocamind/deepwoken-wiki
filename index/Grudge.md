@@ -1,6 +1,6 @@
 ---
 title: Grudge
-revid: 200279
+revid: 200451
 source: https://deepwoken.fandom.com/wiki/Grudge
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Random Encounters, Enemies]
@@ -16,7 +16,7 @@ categories: [Random Encounters, Enemies]
 
 ## Description
 
-The Grudge is a manifestation of spirits that has a low chance to be randomly encountered as an event in specific locations. They can be found at [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md), [Ancient Rotlands](Ancient_Rotlands.md), [The Depths (Scyphozia)](First_Layer.md), [Upper Erisia](Upper_Erisia.md), [Meteor Isle](Meteor_Isle.md), the [Towerstruck Lands](Towerstruck_Lands.md), and [The Viper's Jaw](<The_Viper's_Jaw.md>).
+The Grudge is a manifestation of spirits that has a low chance to be randomly encountered as an event in specific locations. They can be found at [Minityrsa](Minityrsa.md), [Starswept Valley](The_Starswept_Valley.md), [Songseeker Wilds](Songseeker_Wilds.md), [Ancient Rotlands](Ancient_Rotlands.md), [The Depths (Scyphozia)](First_Layer.md), [Upper Erisia](Upper_Erisia.md), [Meteor Isle](Meteor_Isle.md), the [Towerstruck Lands](Towerstruck_Lands.md), the [Aratel Sea](The_Aratel_Sea.md) and [The Viper's Jaw](<The_Viper's_Jaw.md>).
 
 It appears as a green, ghostlike figure wearing a [Bloodfeather Cowl](Bloodfeather_Cowl.md) and a [Dark Owl Cloak](Dark_Owl_Cloak.md). It wields the [Wraithclaw](Wraithclaw.md) and utilizes the [Galebreathe](Galebreathe.md) Specter Path.
 

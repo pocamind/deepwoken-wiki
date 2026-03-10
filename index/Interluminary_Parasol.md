@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 199966
+revid: 200456
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -114,8 +114,8 @@ Exhaustive Loot Table
   <td><b>Miscellaneous</b></td>
   <td>
   <ol>
-    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a> (direct drop), <a href="Parasol_Part.md">Parasol Part</a> (direct drop), <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a> (direct drop), <a href="Parasol_Membrane.md">Parasol Membrane</a> (chest drop)</li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
+    <li><a href="Items.md">Items</a>: <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a> (direct drop), <a href="Parasol_Part.md">Parasol Part</a> (direct drop), <a href="Raw_Parasol_Brain.md">Raw Parasol Brain</a> (direct drop), <a href="Parasol_Membrane.md">Parasol Membrane</a> (chest drop), <a href="Charged_Parasol_Part.md">Charged Parasol Part</a> (direct drop)</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, <a href="Idol_of_Yun'Shul.md">Idol of Yun'Shul</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Smith's_Alloy.md">Pluripotent Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Moonseye_Tome.md">Moonseye Tome</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a></li>
     <li>One or two <a href="Crowns.md">Crowns</a>, depending on how much damage you did to the Parasol</li>
   </ol></td>
 </tr>
@@ -123,13 +123,13 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li><b>Legendary Weapons</b>: N/A</li>
+    <li><b>Legendary Weapons</b>: <a href="Shadebolt.md"><font>Shadebolt</font></a></li>
     <li><b>Alloyed Weapons</b>: <a href="Adretian_Axe.md">Alloyed Adretian Axe</a>, <a href="Dawnshot.md">Alloyed Dawnshot</a>, <a href="Darksteel_Greatsword.md">Darkalloy Greatsword</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
     <li><b>Light Weapons</b>: <a href="Anklets_of_Alsin.md">Anklets of Alsin</a>, <a href="Champion's_Dagger.md">Champion's Dagger</a>, <a href="Dawnshot.md">Dawnshot</a>, <a href="Rosen's_Roscoe.md">Rosen's Roscoe</a>, <a href="Whaling_Knife.md">Whaling Knife</a></li>
     <li><b>Medium Weapons</b>: <a href="Iron_Blunderbuss.md">Iron Blunderbuss</a>, <a href="Pernach.md">Pernach</a>, <a href="Serpent's_Edge.md">Serpent's Edge</a>, <a href="Shattered_Katana.md">Shattered Katana</a>, <a href="Wyrmtooth.md">Wyrmtooth</a></li>
-    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="The_Barrel.md">The Barrel</a>, <a href="Wyrmtooth.md">Wyrmtooth</a></li>
+    <li><b>Heavy Weapons</b>: <a href="Darksteel_Greatsword.md">Darksteel Greatsword</a>, <a href="Kanabo.md">Kanabo</a>, <a href="Pale_Morning.md">Pale Morning</a>, <a href="The_Barrel.md">The Barrel</a>, <a href="Wyrmtooth.md">Wyrmtooth</a>, <a href="Summer_Hullwrecker.md">Summer Hullwrecker</a></li>
   </ol></li>
     <li><b>Offhand Weapons</b>: <a href="The_Path's_Defender.md">The Path's Defender</a></li>
   </ul></td>

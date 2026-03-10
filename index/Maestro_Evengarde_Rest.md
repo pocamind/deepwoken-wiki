@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 200437
+revid: 200454
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -294,6 +294,7 @@ Exhaustive Loot Table
     <li><a href="Pale_Briar.md">Pale Briar</a> (Heavy)</li>
   </ol></li>
     <li><b>Legendary Weapons</b>: <a href="Imperial_Staff.md"><font>Imperial Staff</font></a>, <a href="Curved_Blade_of_Winds.md"><font>Curved Blade of Winds</font></a></li>
+    <li><b>Hybrid Weapons</b>: <a href="Wyrmtooth.md">Wyrmtooth</a></li>
     <li><b>Alloyed Weapons</b>: <a href="Katana.md">Alloyed Katana</a></li>
     <li><b>Generic Weapons</b>:
   <ol>
