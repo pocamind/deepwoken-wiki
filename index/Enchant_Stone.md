@@ -1,6 +1,6 @@
 ---
 title: Enchant Stone
-revid: 200367
+revid: 200425
 source: https://deepwoken.fandom.com/wiki/Enchant_Stone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Relics, Enchantments, Weapon Enchantments]
@@ -46,15 +46,17 @@ Most of the game's Enchant Stones have non-exclusive obtainment locations, meani
 These Enchant Stones can only be obtained through certain methods. These are: Astral, Bluster, Curse of Ysley's Ember, Curse of The Authoritative, Curse of Void, Harrowing, Nightbringer, Parasol's Blight, and Windswept.
 
 -   _**[Astral](Astral.md)**_ can only be obtained from the [Weird Trader](Weird_Trader.md), in the chest at [Moon's Eyrie](<Moon's_Eyrie.md>), or as a drop from [Star Knights](Star_Knight.md) and [Moon Knights](Moon_Knight.md). Astral can also be sold for 15 in [Traan Zakshun's](Traan_Zakshun.md) black market.
--   _**[Curse of the Authoritative](Curse_of_the_Authoritative.md)**_ can only be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
--   _**[Windswept](Windswept.md)**_ can only be obtained from [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 -   _**[Bluster](Bluster.md)**_ can be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) or bought from [Traan Zakshun](Traan_Zakshun.md) in his black market for 5.
+-   _**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Exotic Hide](Exotic_Hide.md).
+-   _**[Curse of the Authoritative](Curse_of_the_Authoritative.md)**_ can only be obtained from [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 -   _**[Curse of Void](Curse_of_Void.md)**_ can exclusively be bought from [The Gaunt Man](The_Gaunt_Man.md) for 25 [Void Spires](Void_Spire.md) and 10.
--   _**[Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, as a drop from the chests after defeating [Primadon](Primadon,_Titan_of_the_East.md) or [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md), or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Ysley's Ember can also be sold for 8 in [Traan Zakshun's](Traan_Zakshun.md) black market.
+-   _**[Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>)**_ Enchant Stone can be obtained by defeating [Hive Constructs](Hive_Construct.md) or [Rogue Constructs](Rogue_Construct.md) as a direct drop, turning in an [Aratel Artifact](Artifacts.md) to a Banker, rarely from [Fishing](Fishing.md) chests, [Primadon](Primadon,_Titan_of_the_East.md) and [Elder Primadon](Elder_Primadon,_The_Titan_Warlord.md) chests, or in any [Starswept Valley](The_Starswept_Valley.md) chest (rarely). Ysley's Ember can also be sold for 8 in [Traan Zakshun's](Traan_Zakshun.md) black market.
 -   _**[Harrowing](Harrowing.md)**_ can be purchased from any [Blacksmith](Blacksmith.md) for 10 if you have the 2023 [Hallowtide Medallion](Seasonal_Medals.md), bought from [Glaive Spellhardt](Glaive_Spellhardt.md) during the [Hallowtide](Hallowtide.md) event for 150 Joy, or found in the [Goodie Bag](Goodie_Bag.md).
+-   _**[Kyrsan Chill](Kyrsan_Chill.md)**_ can only be obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).
 -   _**[Nightbringer](Nightbringer.md)**_ drops directly from [Parliament](Parliament.md) and [Prime Megalodaunts](Prime_Megalodaunt.md). It is guaranteed to drop from Parliament.
 -   _**[Parasol's Blight](<Parasol's_Blight.md>)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Parasol Part](Parasol_Part.md).
--   _**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**_ can be exclusively bought from [The Gaunt Man](The_Gaunt_Man.md) for 1 [Exotic Hide](Exotic_Hide.md).
+-   _**[Suffocated](<Suffocated_(enchantment).md>)**_ is exclusively obtained by [crafting](Crafting_Recipes.md) 1 [Windswept](Windswept.md) Enchant Stone and 2 [Gale Essence](Gale_Essence.md) at the [Lost Forge](Lost_Forge_of_Leiuna.md).
+-   _**[Windswept](Windswept.md)**_ can only be obtained from [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>) and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
 
 ### [Vow of Iron](Vow_of_Iron.md) Enchantments
 

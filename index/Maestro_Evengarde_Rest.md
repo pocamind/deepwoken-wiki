@@ -1,6 +1,6 @@
 ---
 title: Maestro Evengarde Rest
-revid: 197729
+revid: 200437
 source: https://deepwoken.fandom.com/wiki/Maestro_Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs, Bosses, Etrea]
@@ -286,7 +286,8 @@ Exhaustive Loot Table
   <td><b><a href="Weapons.md">Weapons</a></b></td>
   <td>
   <ul>
-    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>.)
+    <li>Exclusive weapons dropped only from <b>Maestro Evengarde Rest</b>: (Guaranteed on first kill if you are using its respective weapon type and have <a href="Attributes_Unbound.md#weapon-proficiency-unbound">Weapon Unbound</a> or <a href="Oath%253A_Silentheart.md">Silentheart</a>. However, their drop chances significantly decrease after the first kill.)</li>
+    <li>[Note: You can receive any of the exclusive weapons, they just have a very low drop rate after the first kill]
   <ol>
     <li><a href="Cerulean_Thread.md">Cerulean Thread</a> (Light)</li>
     <li><a href="Purple_Cloud.md">Purple Cloud</a> (Medium)</li>

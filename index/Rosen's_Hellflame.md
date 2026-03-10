@@ -1,6 +1,6 @@
 ---
 title: "Rosen's Hellflame"
-revid: 195115
+revid: 200446
 source: https://deepwoken.fandom.com/wiki/Rosen's_Hellflame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -34,19 +34,19 @@ categories: [Weapons, Rifles, "Attunement-based Weapons", Legendary Weapons, Wea
 
 ## Description
 
-**Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing ether, it can propel fire from out of the barrel in spectacular display or sometimes a spiral way. This weapon scales off Medium and Flamecharm.
+**Rosen's Hellflame** is a Legendary Rifle: the product of the highly intelligent Gunsmith Rosen. In exterior design, it is akin to the [Rosen's Peacemaker](<Rosen's_Peacemaker.md>), with its shape similar and mechanisms gilded, though it bears a much more lavish design, and boasts a sheen of scarlet metal. Utilizing Ether, it can propel flames in a spectacular display.
 
 This weapon comes with a singular passive ability:
 
--   **Rosen's Spectacular Spark -** "Shot" attacks (the 2nd and 4th Basic Attack as well as Aerial Attacks) will apply [Burn](Status_Effects.md#burn) or Eruption if the user has the corresponding path.
+-   **Spark of Genius** - "Shot" attacks (the 2nd and 4th Basic Attack, including Aerial Attacks) will apply [Burn](Status_Effects.md#burn) or Eruption if the user has the corresponding path.
 
 ## Critical
 
-The Rosen's Hellflame has two critical attacks.
+Rosen's Hellflame has two critical attacks.
 
-For the standing critical, the user aims at the target and fires a constant torrent of flames from its barrel, dealing a burst of damage at the start before spraying weaker flames afterwards. The critical consumes Ether to spray flames and will end if the user runs out or if 5 seconds pass. It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2.
+For the **standing critical**, the user aims at the target and fires a constant torrent of flames from its barrel, dealing a burst of damage at the start before spraying weaker flames afterwards. The critical consumes Ether to spray flames and will end if the user runs out or if 5 seconds pass. It is not cancelled on being parried or blocked. This critical can be canceled by pressing M2.
 
-For the aerial critical, the user performs a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a burn-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
+For the **aerial critical**, the user performs a side flip, slamming the muzzle on the opponent and coming down with an explosive shot. This leaves a burn-inflicting patch of fire on the ground which sets any foes on fire if they come in contact with it.
 
 Both critical attacks share a cooldown of **10 seconds**.
 

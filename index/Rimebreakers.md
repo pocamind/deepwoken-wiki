@@ -1,6 +1,6 @@
 ---
 title: Rimebreakers
-revid: 200408
+revid: 200444
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
@@ -44,9 +44,9 @@ Equipping the Rimebreakers grants its unique [weapon Talent](Talents.md#weapon-t
 
 ## Critical
 
-The user performs an uppercut, leaving frozen squall that surrounds them, applying Chill and Winded to those hit.
+The user performs an uppercut, imbued with a frozen breeze that applies Chill and Winded to those hit.
 
-This critical has a cooldown of **7 sceonds**.
+This critical has a cooldown of **7 seconds**.
 
 This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
 

@@ -1,6 +1,6 @@
 ---
 title: Crazy Slots
-revid: 190289
+revid: 200448
 source: https://deepwoken.fandom.com/wiki/Crazy_Slots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances]
@@ -150,39 +150,39 @@ The special abilities deal physical damage and do not have any scaling.
 
 ### Soulwrought Dagger
 
-Rush forward with flurry of Soulwrought slashes. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
+The user winds up before teleporting to the target with a flurry of Soulwrought slashes. Functions similarly to the "[Rapid Slashes](Attunement-less.md#rapid-slashes)" Mantra.
 
 -   Deals 22.5 damage on the initial slash followed by 2.7 damage over a flurry of slashes.
 -   Despite the bleed effects, it does not apply [Bleed](Status_Effects.md#bleed).
 
 ### Soulwrought Gun
 
-Flip upside down and rapidly shoot your target six times, finishing with a ranged shot that propels you backwards.
+The user flips upside down and rapidly shoots at the target six times, finishing with a ranged shot that propels you backwards.
 
 -   Deals 15 damage per shot.
 
 ### Soulwrought Longsword
 
-Strike forward with your elbow, followed by a red telegraph leading into three Soulwrought slashes, the final slash ragdolling. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
+The user strikes forward with their elbow, followed by a [red telegraph](Combat_Mechanics.md#red) leading into three Soulwrought slashes, the final slash ragdolling. Functions similarly to the "[Dark Blade](Shadowcast.md#dark-blade)" Mantra.
 
 -   Deals 37.5 damage per hit.
 
 ### Soulwrought Spear
 
-Jump up and fire three Soulwrought spears. Also used by [Sworn Angels](Sworn_Angel.md), shooting up to a total of five spears.
+The user rises into the air and fires three Soulwrought spears. Also used by [Sworn Angels](Sworn_Angel.md), shooting up to a total of five spears.
 
 -   Deals 42 **typeless damage** per hit.
 
 ### Soulwrought Greataxe
 
-Jump into the air and plummet towards your cursor.
+The user rises into the air and plummet towards their cursor.
 
 -   Deals 75 damage.
 -   Can sometimes deal no damage.
 
 ### Soulwrought Greatsword
 
-Gain a speed boost before leaping into the air and crashing down at your cursor
+The user gains a brief speed boost before leaping into the air and crashing down at theircursor.
 
 -   Deals 37.5 damage.
 

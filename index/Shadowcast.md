@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 198152
+revid: 200430
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -530,6 +530,8 @@ Mult. Spark: Blunt (1st Hit), Shadow (2nd Hit)
 -   Drains 33.25/38.98/44.7/50.425/56.15 Ether per level with 2.75 Shadowcast scaling.
 -   Has a 1 second windup with hyperarmor and a 12 second cooldown.
 -   Eclipse Kick deals 25% of its damage to targets who dodge it.
+    -   This is dealt as a separate instance of damage, meaning people with [Risky Moves](Talents.md#risky-moves), [Ghost](Talents.md#ghost), or [Dark Rift](Talents.md#dark-rift) can dodge it without taking any damage. Additionally, [An Ironsinger's Instinct](Talents.md#an-ironsingers-instinct) will grant its damage reduction to it.
+-   If Eclipse Kick gets parried, the user will be forced into a [knockdown](Status_Effects.md#knockdown) state, giving their opponent an opportunity to attack. This also applies if the spark variant of the Mantra is parried.
 -   Has 9.18x PvE scaling (multiply damage dealt by 9.18 to get PvE damage).
 -   The axe kick does not proc [Deep Gems](Deep_Gems.md), the Multiplying Spark's high kick does.
 -   The Multiplying Spark initial kick does pure Blunt damage, the main Eclipse Kick attack deals pure Shadowcast damage.

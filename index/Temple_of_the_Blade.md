@@ -1,6 +1,6 @@
 ---
 title: Temple of the Blade
-revid: 198568
+revid: 200432
 source: https://deepwoken.fandom.com/wiki/Temple_of_the_Blade
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -75,8 +75,8 @@ The Temple of the Blade is a large temple found in the [Isle of Vigils](Isle_of_
 ### Etrean Swordsman Quest
 
 -   To start this quest, talk to Avian in the Sparring Arena, located next to Das.
--   If asked about his attitude, he wants to be better, so he may show up a rival, but lacks the proper knowledge in the sword. He then asks you to give him a [Weapon Manual](Training_Gear.md#attribute-training-gears) - doing so consumes 1 use on the manual, and completes the quest.
--   This quest gives EXP, it is unknown how much or what else it gives.
+-   If asked about his attitude, he wants to be better, so he may show up a rival, but lacks the proper knowledge in the sword. He then asks you to give him a [Weapon Manual](Weapon_Manual.md) - doing so consumes the manual, and completes the quest.
+-   This quest gives EXP.
 
 ### A Lost Sibling Quest
 

@@ -1,6 +1,6 @@
 ---
 title: Aegis Gem
-revid: 190625
+revid: 200423
 source: https://deepwoken.fandom.com/wiki/Aegis_Gem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Treasures, Mantras, Deep Gems, The Vat Exclusive]
@@ -27,7 +27,7 @@ Aegis Gem is a light purple diamond-shaped [Deep Gem](Deep_Gems.md).
 
 ## Effect
 
-Upon landing a Mantra with an Aegis Gem equipped, gain a pink shield around your character that grants 10% damage reduction. This lasts 10 seconds with a 10 second cooldown.
+Upon landing a Mantra with an Aegis Gem equipped, gain a pink shield around your character that grants 10% damage reduction. This lasts 10 seconds with a 15 second cooldown.
 
 ### Notes
 

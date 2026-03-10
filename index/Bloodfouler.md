@@ -1,6 +1,6 @@
 ---
 title: Bloodfouler
-revid: 196654
+revid: 200445
 source: https://deepwoken.fandom.com/wiki/Bloodfouler
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, Weapons with Unique Animations, Legendary Weapons, The Ministry, Heavy Weapons]
@@ -53,7 +53,7 @@ It can also be obtained as a direct drop from [Chaser](Chaser,_Scholar_of_the_Cr
 
 For the **standing** critical, the user moves forward in the direction they are facing doing a 360° sweep, striking the opponent and applying Blood Poisoning and briefly ragdolling them. The standing critical has the following stats: 1.4x scaled damage multiplier, inflicts 10% Blood Poisoning, and has a 1 second windup.
 
-For the running critical, the user rushes forward and performs a much quicker sweep before striking the opponent, applying Blood Poisoning. The running critical has the following stats: 1.15x scaled damage multiplier, inflicts 10% Blood Poisoning, has a 0.75 second windup, and deals 35+ posture.
+For the **running** critical, the user rushes forward and performs a much quicker sweep before striking the opponent, applying Blood Poisoning. The running critical has the following stats: 1.15x scaled damage multiplier, inflicts 10% Blood Poisoning, has a 0.75 second windup, and deals 35+ posture.
 
 The cooldown for both criticals is **10 seconds**.
 

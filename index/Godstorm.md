@@ -1,6 +1,6 @@
 ---
 title: Godstorm
-revid: 200170
+revid: 200439
 source: https://deepwoken.fandom.com/wiki/Godstorm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages without reason, StubPages]
@@ -12,9 +12,9 @@ notices:
 
 ## Description
 
-The Godstorm was a catastrophic disaster that struck the [Adretian Empire](Adretian_Empire.md) during the Resurgence. The event devastated the empire and resulted in the death of the royal family. [\[1\]](#cite-note-0-1)
+The Godstorm was a catastrophic disaster that struck the [Adretian Empire](Adretian_Empire.md) during the Resurgence. The event devastated the empire and resulted in the fall of the [Adretian Empire](Adretian_Empire.md). [\[1\]](#cite-note-0-1)
 
-The Godstorm is most commonly associated with the rise of [Drallis Ehr](Drallis_Ehr.md), who dispelled the Godstorm and restoring peace to the empire. Following the disaster and the death of the Adretian emperor and the royal family, Drallis assumed leadership and later organized the nation that eventually formed [The Central Authority](The_Central_Authority.md) in 65 BCE.[\[1\]](#cite-note-0-1)
+The Godstorm is most commonly associated with the rise of [Drallis Ehr](Drallis_Ehr.md), who dispelled the Godstorm and restoring peace to the empire. Following the disaster and the death of the Adretian emperor, Drallis assumed leadership and later organized the nation that eventually formed [The Central Authority](The_Central_Authority.md) in 65 BCE.[\[1\]](#cite-note-0-1)
 
 ## References
 

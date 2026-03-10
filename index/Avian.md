@@ -1,6 +1,6 @@
 ---
 title: Avian
-revid: 195404
+revid: 200433
 source: https://deepwoken.fandom.com/wiki/Avian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, Quests, NPCs located in the Etrean Luminant]
@@ -90,7 +90,7 @@ Avian is located in the [Temple of the Blade](Temple_of_the_Blade.md) at [Isle o
   <td colspan="4">[End Dialogue]</td>
 </tr>
 <tr>
-  <td colspan="2">[End Dialogue], small amount of XP gained, deducts one usage from Weapon Manual</td>
+  <td colspan="2">[End Dialogue], small amount of XP gained, deletes your Weapon Manual</td>
 </tr>
 </tbody>
 </table>

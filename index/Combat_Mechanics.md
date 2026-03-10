@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 200342
+revid: 200422
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -468,6 +468,7 @@ Attacks with this indicator must be dodged. They will guardbreak if blocked.
 -   [Stoneheart](Stoneheart.md) Critical
 -   [Soulwrought Longsword](Crazy_Slots.md#weapons) Special ability
 -   [Emotion Wave](Thundercall.md#emotion-wave)
+-   [Veinbreaker](Bloodrend.md#veinbreaker)
 
 **Monster Attacks**
 
