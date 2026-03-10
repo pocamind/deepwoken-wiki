@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 200187
+revid: 200406
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -13,7 +13,7 @@ notices:
 
 “ So weep for ash, and weep for ruin -  
 for embers fade, and swells the sea.  
-hold on to hope, and in so doing  
+Hold on to hope, and in so doing  
 beware - the Tide comes too for thee. ”
 
 ― To Sleep, Dreaming (Contour 4) Description
@@ -289,14 +289,14 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   Located in the [Beloved Zofia](Beloved_Zofia.md).
 -   Its appearance is similar to the shrine of [Yun'Shul](<Shrine_of_Yun'Shul,_Keeper_of_Hearts.md>), only the eye colours are inverted, but there is no indication of it being related to the Drowned God.
--   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards Misuse of the Song (but not the Song as a whole).
+-   It has the power to make Oaths with the players that meet certain requirements and that shares a hate towards the Misuse of the Song (but not the Song as a whole).
 -   The Oath in question makes the Dreadstar to do a huge change in your ether and heart, making Mantras in you suppressed.
 -   Despite cutting all relations with the Song, a [Silentheart](Oath%253A_Silentheart.md) is still able to obtain both a Murmur and Resonance due to the fact that it doesn't completely cut off your connection to The Song.
 -   Believed to be a "Voidsea Spirit" due to the lost ship description of being haunted by these spirits.
--   Has a deep hatred against Misuse of the Song and to the seven Attunement trainers (not counting the Attunement-less trainer)
+-   Has a deep hatred towards the Misuse of the Song and to the seven Attunement trainers (not counting the Attunement-less trainer)
 -   This is possibly because the Dreadstar is the combination of the souls of the people who died because of Misuse of the Song by Attunement users or by other means, but this is just a speculation.
--   Apparently when you complete the Dreadstar revenge on the Attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful.
--   "Misuse of the Song" refers to anything that abuses the song, most prominently, Mantras.
+-   Apparently, when you complete the Dreadstar's revenge on the Attunement trainers, he says his revenge is complete and will become one with the Oath user. This can possibly mean that the Silentheart user in some way fuses his being or soul with the Dreadstar, making them more powerful.
+-   "Misuse of the Song" refers to anything that abuses the song. Most prominently, Mantras.
 
 ### Kaide, the Drowned Light
 
@@ -309,10 +309,10 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 ### Mother Ku
 
--   A religious figure worshipped by some [Capra](Capra.md).
+-   A religious figure worshipped by some [Capras](Capra.md).
 -   Perhaps granted the ability to the Capra who worshipped her to aid people in their wounds. (Capra aspect ability for Ku variant)
 -   The Derelict Highchurch was a church where Ku was worshipped, but eventually both the Songseekers and Starkindred took over the church kicking out Ezra, the pastor in charge of the church, and forcing him to flee to a small tower nearby.
--   It is unknown if they are related to Jurik and Nemit, the other beings that are worshipped by the Capra.
+-   It is unknown if they are related to Jurik and Nemit, the other beings that are worshipped by the Capras.
 
 ### Alsin
 
@@ -329,7 +329,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 -   Exists on an island moving through the world, independent of the [Voidsea](Voidsea.md).
 -   She was rescued by a nomad who nursed her back to health after descending from Constellia, making a Hereditary Vow with her which resulted in the nomads offspring receiving Navae's guidance.
 
-### Yun'shul, Keeper of hearts
+### Yun'shul, Keeper of Hearts
 
 _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 
@@ -340,7 +340,7 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 -   "We are legally obliged not to tell you whether Yun'shul or [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss) would win in a fight." - Developer ragoozer.[\[1\]](#cite-note-rag-1)
 -   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in the East, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
 -   They are not a former Ministry Prophet.[\[4\]](#cite-note-arch-4)
--   Knows about the existence of the Ministry calling them "Godseekers" and "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
+-   Knows about the existence of [the Ministry](The_Ministry.md), calling them "Godseekers" and "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
 
 Yun'shul's Shrine
 
@@ -355,7 +355,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.[\[4\]](#cite-note-arch-4)
     -   The Scion acts as a guardian of sorts.
     -   Probably formed by a very small piece of Ethiron himself, due to being able to use some of the drowned god's powers.
-    -   The Scion was created by Ethiron for the purpose of waking him, if fully grown, it would be able to descend and wake him up, but luckily it is not yet grown, as it was sealed (presumably by the Kyrsans who remained free)before the Kyrsans, enslaved under its will, finished it.
+    -   The Scion was created by Ethiron for the purpose of waking him. If fully grown, it would be able to descend and wake him up, but luckily it is not yet grown, as it was sealed (presumably by the Kyrsans who remained free) before the Kyrsans, enslaved under its will, finished it.
     -   The Scion has the power to manipulate the effects of Drowned Gods, presumably given by Ethiron as intentional design so that it could awaken him, this becomes apparent in how it stabilizes Ethiron’s time bending, causing Kyrsa’s time loop to end until it is defeated, and once it is the instability it fought off returns.
     -   The Scion of Ethiron has the power to create the Mist Presence, which it can use to enslave the minds of mortal beings to Ethiron’s will.
 -   Coming closer to the body of Ethiron causes a time dilation.
@@ -372,7 +372,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
     -   His existence created Korilfiend's garden, which is seen as his 'essence.'
     -   This garden contains meteor flowers, which are seen as a part of him.
     -   He takes the form of a large fiery serpent.
--   One of the meteor flowers was eaten by Amorus Pleeksty, some time before the Divers were established.
+-   One of the meteor flowers was eaten by [Amorus Pleeksty](Amorus_Pleeksty.md), some time before the Divers were established.
 -   Confirmed to be male.
 
 ### Drowned Gods
@@ -487,7 +487,7 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 
 #### Erisia (Etrean Luminant)
 
--   An island that drifted into the Voidsea due to Duke Erisia's actions and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
+-   An island that drifted into the Voidsea and came back to the Etrean Luminant with what's left of itself. Locals who witnessed the Island's arrival said that it came and drifted in from the [Voidsea](Voidsea.md) months before Year 1271.
 -   Erisia Island has experienced the same time stasis the other Driftlands have been affected by.
 -   It has been ravaged by creatures of the Deep, but apparently even before this, it was a 'backwater.'
 -   The Hive at one point settled here, but left.
@@ -511,13 +511,13 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 
 _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless sands." - [Starswept Valley](The_Starswept_Valley.md) Flavor Text_
 
--   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one of another.
+-   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one and another.
 -   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
     -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knight.md) crash down from Constellia into the Valley as an encounter, emerging out of the rubble upon landing.[\[4\]](#cite-note-arch-4)
 
 ### Central Luminant
 
--   The home of The Authority and the Knives of Eylis.[\[4\]](#cite-note-arch-4)
+-   The home of [the Authority](The_Central_Authority.md) and [the Knives of Eylis](The_Knives_of_Eylis.md).[\[4\]](#cite-note-arch-4)
 -   Said to be the biggest out of all luminants.
 
 #### Markor
@@ -529,7 +529,7 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 #### Markor Citadel
 
 -   A towering building located in Markor, where texts of the Old World are studied.
--   The Divers are a branch of the Markor Citadel.
+-   [The Divers](The_Divers.md) are a branch of the Markor Citadel.
     -   The Citadel holds a wing for all of the Divers who pass away. Black Divers who pass will gain gilded memorials, and those who possess a considerable amount of honor will have additional mottos and sub-headings.
 -   The [Barbers](Barber.md) learned plastic surgery here.
 -   The Citadel bears similar appearances to the sunken city of Celtor.

@@ -1,9 +1,9 @@
 ---
 title: Rimebreakers
-revid: 199739
+revid: 200408
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Weapons, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
+categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
 ---
 
 # Rimebreakers
@@ -41,6 +41,14 @@ This content is not accessible outside of this gamemode.
 Equipping the Rimebreakers grants its unique [weapon Talent](Talents.md#weapon-talents)(s). Weapon Talents will be lost upon equipping any other weapon, including ability-bound weapons, like from the [Crazy Slots](Crazy_Slots.md) Resonance.
 
 **Fortify** grants a Talent tool that applies a heavy slow debuff (36%) to yourself in exchange for a 15% damage reduction. This effect lasts 30 seconds.
+
+## Critical
+
+The user performs an uppercut, leaving frozen squall that surrounds them, applying Chill and Winded to those hit.
+
+This critical has a cooldown of **7 sceonds**.
+
+This critical has the M1 tag, allowing it to proc M1-exclusive [Talent](Talents.md) effects.
 
 ## Trivia
 

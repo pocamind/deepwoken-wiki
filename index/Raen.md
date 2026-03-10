@@ -1,6 +1,6 @@
 ---
 title: Raen
-revid: 200385
+revid: 200398
 source: https://deepwoken.fandom.com/wiki/Raen
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Voidheart, The Knives of Eylis]
@@ -21,7 +21,9 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Raen is a [Adret](Adret.md) NPC in the [Voidheart](Voidheart.md). He gives lore and a few pointers to new [Voidwalkers](Voidwalker.md) on what to do for progression.
+Raen is a [Adret](Adret.md) NPC. He is a [Knife of Eylis](Knife_of_Eylis.md) residing within the [Voidheart](Voidheart.md).
+
+He gives a few pointers to new [Voidwalkers](Voidwalker.md) on what to do for progression.
 
 If the player chooses the dialogue option "I see. Can you help me with affording equipment?" a new dialogue choice will appear for [Rook Rethige](Rook_Rethige.md).
 

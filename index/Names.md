@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 198795
+revid: 200396
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -1829,6 +1829,67 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   Werligi
 -   Whelkegi
 -   Zeneki
+
+## Kyrsan Names
+
+Kyrsan names are the custom names that are given by [Erosius Amaltus Urivortus Alistus Casius Walistoshus](Erosius_Amaltus_Urivortus_Alistus_Casius_Walistoshus.md) after collecting the spear at the bottom of [Firfire Caverns](Firfire_Caverns.md). These names are randomly generated and are accountwide instead of per slot. They can also have different names depending on your dialogue choices with [Aeroaseluniris Oricalum Forentus](Aeroaseluniris_Oricalum_Forentus.md) if you didnt call him the right name. The amount of words you get in your kyrsan name seems to be based upon how old the slot was when it retrieved the spear.
+
+(This list is highly incomplete so please add any information if you have any)
+
+-   Amogu
+-   Casius
+-   Craic
+-   Twilight
+-   Ifan
+-   Busko
+-   Booyah
+-   Brabzon
+-   Brumbpus
+-   Bungus
+-   Swallyhoo
+-   Scrimble
+-   Solid
+-   Steve
+-   Fiddlesticks
+-   Holy
+-   Costeau
+-   Humbus
+-   Mulvortus
+-   Morph
+-   Biggs
+-   Eagle
+-   Mud
+-   Burmpo
+-   Ekuvarius
+-   Vexadodecahedron
+-   Dirt
+-   Dedue
+-   Dizco
+-   Drats
+-   Chordles
+-   Quesotericus
+-   Tungus
+-   Boxer
+-   Jubilee
+-   Relarius
+-   Mustadio
+-   Mustard
+-   Mingus
+-   Real
+-   Sunset
+-   Tschwibb
+-   Tsktsk
+-   Tumbus
+-   Tungus
+-   U'Don
+-   Ultra
+-   Twinkletoes
+-   Yr'dum
+
+[Aero](Aeroaseluniris_Oricalum_Forentus.md) Names
+
+-   Squibby
+-   Bigcheese
 
 ## Trivia
 
