@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 200462
+revid: 200500
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -51,17 +51,17 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   **Grand Javelin** is inspired by the Lightning Spear spells: [Lightning Spear](https://darksouls.fandom.com/wiki/Lightning_Spear), [Great Lightning Spear](https://darksouls.fandom.com/wiki/Great_Lightning_Spear), and [Sunlight Spear](https://darksouls.fandom.com/wiki/Sunlight_Spear) in _Dark Souls_.
 -   **Bolt Piercer** is a reference to Ishida Uryu's [Licht Regen](https://bleach.fandom.com/wiki/Licht_Regen%23Variations) from _[Bleach](<https://en.wikipedia.org/wiki/Dark_Souls_(video_game)>)_. This becomes more apparent with the Surge path.
 -   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma%23Techniques) from _Demon Slayer._
-    -   It also bears striking resemblance to the spell [Shock Assault](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _Wizard Of Legend,_ having a similar name and similar effects.
+    -   It also bears striking resemblance to the spell [Shock Assault](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _[Wizard Of Legend](https://en.wikipedia.org/wiki/Wizard_Of_Legend)_, having a similar name and similar effects.
 -   **Spark Swap** is a reference to the snap version of [Celeritas](https://rogue-lineage.fandom.com/wiki/Celeritas) from _Rogue Lineage_. Both abilities share the same utility, and both have a similar sound effects and lightning visuals on usage.
--   Contrary to popular belief, **Rising Thunder** was not based on [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _Naruto: Ultimate Ninja Storm_.[\[1\]](#cite-note-1)
+-   Contrary to popular belief, **Rising Thunder** was not based on [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s Thunderclap and Flash Sixfold, but rather [Kakashi's](https://naruto.fandom.com/wiki/Kakashi_Hatake) [Raikiri: Sōraishin](https://naruto.fandom.com/wiki/Lightning_Cutter:_Double_Lightning_Quake) from the videogame _[Naruto: Ultimate Ninja Storm](https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm)_.[\[1\]](#cite-note-1)
 
 ### Frostdraw
 
--   The **Ice Skate** Mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _The Incredibles_, along with freezing ability being used to skate around.
+-   The **Ice Skate** Mantra is a reference to [Frozone](https://disney.fandom.com/wiki/Frozone) from _[The Incredibles](https://en.wikipedia.org/wiki/The_Incredibles)_, along with freezing ability being used to skate around.
     -   Previously, there was an advanced/legendary Talent with the same name, allowing the user of **Ice Skates** to skate on solid ground.
--   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh%23Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _Fate_ series.
--   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _Devil May Cry_ series.
--   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _Overwatch._
+-   The **Ice Chains** mantra looks similar to [Gilgamesh's](https://typemoon.fandom.com/wiki/Gilgamesh%23Primary) [Chains of Heaven](<https://typemoon.fandom.com/wiki/Enkidu_(Noble_Phantasm)>) from the _[Fate](https://en.wikipedia.org/wiki/Fate/stay_night)_ series.
+-   **Warden's Blades** is a reference to [Vergil's](https://devilmaycry.fandom.com/wiki/Vergil) [Summoned Swords](https://devilmaycry.fandom.com/wiki/Summoned_Swords) from the _[Devil May Cry](https://en.wikipedia.org/wiki/Devil_May_Cry)_ series.
+-   **Iceberg** is a reference to [Mei's Cryo-Freeze](https://overwatch.fandom.com/wiki/Mei) ability from _[Overwatch](<https://en.wikipedia.org/wiki/Overwatch_(video_game)>)_.
 
 ### Galebreathe
 

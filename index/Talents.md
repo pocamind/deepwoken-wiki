@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 200493
+revid: 200499
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2001,7 +2001,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   This works for both [Equipment](Equipment.md) and [Weapon](Weapons.md) requirements.
     -   Versatile lowers all requirements on things with more than one, so a 72 Galebreathe 37 Medium Weapon [Curved Blade of Winds](Curved_Blade_of_Winds.md) would be possible on a Khan for example. Additionally, Versatile stacks with [Silentheart's](Oath%253A_Silentheart.md) Weapon stat requirement reduction.
 
-### Intellisense
+### Intelligence
 
 -   Critical Engine \[Common Talent, Intelligence, Weapon\] - You gain the ability to use Deep Gems on your critical attack. Hold out the Deep Gem you wish to apply to your crit then use the tool to enhance your critical.
     -   Equipping a Deep Gem to your critical will not consume the Deep Gem.

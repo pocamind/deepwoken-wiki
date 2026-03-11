@@ -1,6 +1,6 @@
 ---
 title: Ossified Barrel Helm
-revid: 198572
+revid: 200498
 source: https://deepwoken.fandom.com/wiki/Ossified_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -23,7 +23,7 @@ categories: [Pathfinder Exclusive]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Crafting at the Lost Forge |
 | description | An imposing helmet made from blackened steel. |
 
 Variants: [Blacksteel Helm](Blacksteel_Helm.md)

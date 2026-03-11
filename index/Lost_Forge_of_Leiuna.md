@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 200332
+revid: 200505
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -104,7 +104,7 @@ Use **CTRL + F** to search for a specific item.
 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
 1x [Necrotic Membrane](Necrotic_Membrane.md) |
 | [Transfusion Ring](Transfusion_Ring.md) | 1x [Ring of Pestilence](Ring_of_Pestilence.md)  
-1x [Necrotic Membrane](Necrotic_Membrane.md)/[Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)  
+1x [Necrotic Membrane](Necrotic_Membrane.md)  
 1x [Trickster Dust](Trickster_Dust.md) |
 | [Ember Scorch Earrings](Ember_Scorch_Earrings.md) | 1x [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md)  
 5x [Dying Embers](Dying_Embers.md)  
