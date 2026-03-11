@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 200293
+revid: 200493
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1243,8 +1243,8 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
         -   Also procs if the aforementioned status effects are self-applied, like using Flame Within or Agitating Spark to self apply burn.
     -   Prerequisites: 20 Willpower, 15 Strength
 
--   Nullifying Clarity \[Common Talent, Strength, Intelligence\] - Deal 10% more damage to enemies with status effects on them with your Basic Attacks, but the effect is removed on impact. (Works only with elemental status effects)
-    -   Procs on Burn, Chill, Shock, Fear (from the Fear the Dark Talent), Winded, and Suffocation.
+-   Nullifying Clarity \[Common Talent, Strength, Intelligence\] - Deal 10% more damage to enemies with elemental status effects, but remove the status on hit.
+    -   Procs if you land an M1 on a target who is affected by any of the following status effects: Burn, Chill, Shock, Winded, Suffocation, and Fear (from Fear the Dark and Night Tetror).
     -   Does not work with Critical Attacks.
     -   Prerequisites: 15 Strength, 5 Intelligence
 

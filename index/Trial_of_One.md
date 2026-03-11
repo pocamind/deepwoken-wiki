@@ -1,6 +1,6 @@
 ---
 title: Trial of One
-revid: 199437
+revid: 200494
 source: https://deepwoken.fandom.com/wiki/Trial_of_One
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Dungeons, Locations in the Etrean Luminant, Locations]
@@ -107,7 +107,7 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   Finishing the Trial of One as any Origin awards you 30 Full Investment points. The only exception is, if you happen to be power 8 inside the trial before its completion. In that case, the trial will refuse to give you the points. This is possible by using Books to uncap EXP during the Investment point phase between Sharko and Golem, then manually powering up with Training Gear.
 -   Finishing the Trial of One as [Lone Warrior](Lone_Warrior.md) grants you the [Mark of the Lone Warrior](Talents.md#mark-of-the-lone-warrior) Talent.
 -   The [Lone Warrior](Lone_Warrior.md) Origin after defeating the Thresher OR alternatively, wiping once.
--   Finishing the Trial of One in Vow of Iron awards nothing, unless it is a designated Side Task, in that case the player will earn 5000-10000 Notes (Needs testing)
+-   Finishing the Trial of One in Vow of Iron awards **nothing**, unless it is a designated Side Task, in that case the player will earn 5000 Notes like usual
 
 ### Death
 
@@ -125,12 +125,14 @@ _For a video walkthrough, consider watching [this video](https://www.youtube.com
 -   It is best to prepare yourself, as you will have to do all mobs in one sitting (except for the initial parry challenge and the Megalodaunt)
 -   Once one of the [Sworn Angels](Sworn_Angel.md) dies, the other will die shortly after. It is highly recommended to attack the knocked body of one Angel while defending yourself against the other to execute the knocked Angel and clear this challenge faster.
 -   Two [Training Gear Cabinets](Training_Gear.md) can be found in the Trial of One [Dungeon](Dungeons.md), with one next to the [Shrine of Solitude](Deep_Shrines/Shrine_of_Solitude.md), and the other in the corridor of the arena entrance. Training Gear can be purchased and used either pre or post-Trial to speed up the transition to conventional progression.
+-   In the Vow of Iron Trial, it is recommended to put down a Campfire and heal between enemy spawns, as they are delayed similar to the old trial, letting you heal anywhere between 10-50% Health for free ontop of enemy healthpacks.
 
 ## Trivia
 
 -   Sworn Angels use _[Crazy Slots](Crazy_Slots.md)'s_ Soulwrought Spears, which differentiate them from [Hollow Angels](Hollow_Angel.md).
 -   You can go through the Light gate behind you to return to Minityrsa.
 -   If you go into the Trial of One, leave the game, then rejoin, you will be spawned back at the entrance of the challenge at Minityrsa, regardless of your progress in it.
+-   Entering the trial with full points from not investing in the character creation menu will force you to waste them when receiving the 1 full point from killing a Sharko, until you reach 6 full points.
 -   [Deepbounds](Deepbound.md) that somehow make it out of The Depths at Power 1 are not able to enter the Trial of One.
 -   You can have enchanted weapons during the Trial via passing down or the Bank. (If you can't beat the Trial, enchanting a starter weapon [Providence's Thorns](<Providence's_Thorns.md>) Enchantment may help, as the Trial of One is centered around parrying.)
 -   For a short duration, after the addition of the [Mudskipper Brute](Mudskipper_Brute.md), the [Megalodaunt](Megalodaunt.md) trial was replaced with a [Mudskipper Brute](Mudskipper_Brute.md). However, this was subsequently changed in the next update and they re-added the Megalodaunt.

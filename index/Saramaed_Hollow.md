@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 200487
+revid: 200496
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -95,7 +95,7 @@ Exhaustive Loot Table
   <td>
   <ul>
     <li><a href="Items.md">Items</a>: Every <a href="Ores.md">Ore</a> except Rock and Iron, <a href="Deep_Gems.md">Deep Gems</a>, <a href="Mantra_Modifiers.md">Mantra Modifiers</a></li>
-    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, Non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a> (only after 1.2km), <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Ouroboral_Husk.md">Ouroboral Husk</a> (Could someone add a link to the wiki page for Ouroboral Husk)</li>
+    <li><a href="Relics.md">Relics</a>: <a href="Armorer's_Needle.md">Armorer's Needle</a>, Non-exclusive <a href="Enchant_Stone.md">Enchant Stones</a>, <a href="Pluripotent_Alloy.md">Pluripotent Alloy</a>, <a href="Rain_Spire.md">Rain Spire</a>, <a href="Sinner's_Ash.md">Sinner's Ash</a> (only after 1.2km), <a href="Smith's_Alloy.md">Smith's Alloy</a>, <a href="Void_Spire.md">Void Spire</a>, <a href="Ouroboral_Husk.md">Ouroboral Husk</a></li>
   </ul></td>
 </tr>
 <tr>
@@ -153,6 +153,7 @@ Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Th
 
 ## Tips
 
+-   The [Excavator talent](Talent_Quests.md) is highly recommended for faster Saramed runs. It can be obtained from wearing a [Miner's Hardhat](<Miner's_Hardhat.md>) or completing the [Excavator quest](Talent_Quests.md).
 -   The Saramaed Hollow is a fairly low-risk, high-reward dungeon as you have the chance of getting most relics, enchant stones, and godroll gear just from killing medium level mobs like Megalodaunts and Threshers.
     -   But due to the difficulty spikes early on, deep delves into this dungeon are not recommended for low level players. It may be more convenient to seek experience elsewhere.
 -   If you are at low health and about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
@@ -168,6 +169,7 @@ Good luck, and happy deepdelving!
 ## Trivia
 
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
+-   Saramed allegedly awards you [Resonance progression](Resonance.md) but **this is not confirmed** and needs testing
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m.
 -   The more people you have, the more fuel you need to continue to progress.
     -   1 person: 5 fuel ores
