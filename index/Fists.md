@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 200372
+revid: 200484
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -12,7 +12,7 @@ categories: [Weapons, Fists, Light Weapons]
 |---|---|
 | type | Light Weapon |
 | damage type | Blunt |
-| requirements | 0 LHT (WN/LK/IK), 20 LHT (Needed to obtain FC, not needed if chosen in character creation), 40 LHT (Needed to obtain JK, not needed if chosen in character creation) |
+| requirements | 0 LHT (WN/LK/IK/UF), 20 LHT (Needed to obtain FC, not needed if chosen in character creation), 40 LHT (Needed to obtain JK, not needed if chosen in character creation) |
 | damage | 12 (Ces) / 14 (JK) |
 | scaling | LHT: 7 (Ces) / LHT: 9 (JK) |
 | posture damage | 3 |

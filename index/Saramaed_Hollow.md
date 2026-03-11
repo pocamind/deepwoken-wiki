@@ -1,6 +1,6 @@
 ---
 title: Saramaed Hollow
-revid: 199882
+revid: 200487
 source: https://deepwoken.fandom.com/wiki/Saramaed_Hollow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Dungeons, Locations, Locations in the Eastern Luminant]
@@ -151,19 +151,17 @@ More loot will appear if bringing more players, but naturally, this will also re
 
 Floors at 1.50km or higher have a higher chance at rarer loot, only when 1-3 [Threshers](Thresher.md) Spawn.
 
-## **Tips**
+## Tips
 
 -   The Saramaed Hollow is a fairly low-risk, high-reward dungeon as you have the chance of getting most relics, enchant stones, and godroll gear just from killing medium level mobs like Megalodaunts and Threshers.
--   Additionally, if you are low and about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
-    -   Do note that if you are doing it with one or more friends, you need to wait for all of them to be near / inside the Deepdrill before you can use the radio to call you up.
--   The Saramaed Hollow is also a good grinding fodder for if you're NOT low-level, having weak mobs like Mudskippers and Megalodaunts to boost early game progression. However, Brutes spawn earlier than Megalodaunts despite being much harder to handle. Threshers and Desert Knights help you progress midgame, and Broodlords and Megalodaunt variants to give you that final push to max level.
--   It is recommended to stockpile the ores to get to skip a floor that is a hustle dealing with.
--   Try and crouch down; this will reduce the monsters detection rate and prevent you from getting attacked by other monsters.
--   Despite all these upsides, it is very time consuming and the drops are very RNG based, meaning you can either get REALLY lucky and hit the jackpot, or, more than likely, go back up to the surface practically empty-handed.
--   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above, leading to over a thousand notes per floor.
--   The [Thresher Mount](Mounts.md) can be used while carrying ores.
--   When making a build with the express purpose of farming this dungeon, look into mobility options (akin to a Layer 2 Build) and ways to survive a swarm (akin to a Dilluvian Build)
-    -   In regard to equipments, as monsters start ignoring DVM and Armor alltogether, primarly invest in HP.
+    -   But due to the difficulty spikes early on, deep delves into this dungeon are not recommended for low level players. It may be more convenient to seek experience elsewhere.
+-   If you are at low health and about to die, you can easily escape by running back to the Deepdrill and interacting with the radio inside to pull you up. This can be used even if you are in danger, to quickly help you escape. Do note that if you do successfully escape, you will be sent back up to 0m and will have to restart the delving all over again.
+    -   Do note that if you are doing it with one or more friends, you will need to wait for all of them to be near / inside the Deepdrill before you can use the radio to call you up.
+-   A valid strategy is to stockpile fuel in the Deepdrill and take it with you to other floors. Then, if you reach a floor that is a hassle to deal with, you can instantly fully fuel the Drill and skip the floor.
+-   Despite all the upsides, Saramaed Hollow is very time-consuming, and the drops are very RNG dependant; you can either get REALLY lucky and hit the jackpot, or, more than likely, go back up to the surface practically empty-handed.
+-   The Saramaed Hollow can be used to very easily farm notes, since the first layers are relatively easy and give large chests that give a ton of equipment. The equipment can then be sold to the antiquarian above. You can expect to get over a thousand Notes per floor.
+-   The [Thresher Mount](Mounts.md) can be used while carrying ores. The mounts can also stand on lava without you being dismounted.
+-   To farm this dungeon efficiently, it is recommended to build for mobility options. Additionally, due to Magma Flow, it is heavily recommended to primarily build for HP, over resistance stats, on your equipment.
 
 Good luck, and happy deepdelving!
 
@@ -171,16 +169,14 @@ Good luck, and happy deepdelving!
 
 -   This is the first source of [Pluripotent Alloy](Pluripotent_Alloy.md) outside of bosses.
 -   There is a rare chance for the drill to bring you to 666m, this is visual, as the layer will still act as your first delve, being 800m.
--   The more people you have, the more ores you need to continue to progress.
-    -   1 Person, 5 Ores
-    -   2 People, 7 Ores
-    -   3 People, 9 Ores
--   [Phoenix Flames](Talents.md) may resurrect you in case you get knocked by fire hazards or lava, which can help if you fall in.
--   Rarely, there may be a floor that usually comes after or at 1.5km that requires you to kill just one thresher in turn for amazing loot.
-    -   Uncommonly, there may also be a floor that requires you to kill just two threshers in exchange for amazing loot.
+-   The more people you have, the more fuel you need to continue to progress.
+    -   1 person: 5 fuel ores
+    -   2 people: 7 fuel ores
+    -   3 or more people: 9 fuel ores
+-   Rarely, there may be a floor that usually comes after or at 1.5km that requires you to kill just one to three [Threshers](Thresher.md) in turn for amazing loot.
+    -   The belief among the community is that the dungeon is attempting to spawns monsters that it cannot (presumably [King Threshers](King_Thresher.md)), leading to only a few Threshers spawning.
 -   The cave paintings show that civilization has once been here long before the Union have.
     -   The cave painting on the first image depicts a humanoid being encountering a large, unknown beast, possibly a Megalodaunt.
     -   The cave painting on the second image depicts what seems to be three Gremors (identified by their large horns) near a larger, humanoid figure, which seems to be speaking.
--   Well known Deepwoken Youtuber Agamatsu has a meme regarding on how boring this dungeon is on all of his livestream thumbnails.
--   When you try to leave the dungeon by calling for the cable crew to haul you back up and your teammate isn't nearby, a message "Leave no delver behind" will be displayed. This is a reference to "Leave no dwarf behind" from another game, Deep Rock Galactic.
+-   When you try to leave the dungeon by calling for the cable crew to haul you back up and your teammate isn't nearby, a message "Leave no delver behind" will be displayed. This is a reference to "Leave no dwarf behind" from _Deep Rock Galactic_.
 -   Previously, you were not able to slide or dash while holding Fuel ore. However, as of the Vow of Iron update, this has been changed and are now able to, making movement much easier.

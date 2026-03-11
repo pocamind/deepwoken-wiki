@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 198768
+revid: 200475
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -163,7 +163,8 @@ Blunt
 
 **Effect:** _The user digs into the ground, pulling out a comically large bone, and throwing it for hefty damage. This move has a large startup and is based on the [Bone Keeper's](Bone_Keeper.md) '**Femur Throw'** attack._
 
--   Deals HEAVY posture damage.
+-   Deals about 100 damage.
+-   Applies HEAVY posture damage, almost always guardbreaking.
 -   Grants hyperarmor during startup.
 -   Ragdolls the opponent very far.
 
@@ -486,7 +487,7 @@ N/A
 
 -   Missing still takes Ether and does not put this mantra on cooldown.
 -   The set Talent "**Enforcer's Pull**" from [Reinforced Enforcer Plate](Reinforced_Enforcer_Plate.md) and [Reinforced Enforcer Boots](Reinforced_Enforcer_Boots.md) all-but removes the windup of the pull after landing a flourish.
--   Can be modified with Crystal and Perfect lens to increase range
+-   Can be modified with Crystal and Perfect lens to slighty increase range.
 
  |
 

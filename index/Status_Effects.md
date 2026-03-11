@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 198577
+revid: 200471
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -69,7 +69,7 @@ It has a few sub-variants:
     -   Puppet Burn: Derived from any non-Shadowcast burn applicator, this burn type deals 87.5% less damage than base burn. Uniquely, this burn type will spawn Puppets with a 4 second cooldown.
     -   Shadow Burn: Derived from Shadowcast sources, this burn type deals 75% less damage than base burn.
 -   Lifelord's Blaze: [Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>) and [Curse of Ysley's Ember](<Curse_of_Ysley's_Ember.md>) exclusive, completely cosmetic and functions the same as base burn.
--   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21. White Flames has a higher DPS than base burn, especially as it benefits from all of your Flamecharm Talents. The [Deepfire Ring](Deepfire_Ring.md) has no effect with this burn type, as it has the same effect of reducing the base damage of burn for a tick rate increase.
+-   **White Flames**: [Corrupt Shard Bow](Shard_Bow.md#corrupt) and [Edenbrand Hellcoil](Edenbrand_Hellcoil.md) exclusive, white flames that tick 25% faster (3 ticks per second) but have a lower base damage of 3.21, scaling with Intelligence. White Flames has a higher DPS than base burn, especially as it benefits from all of your Flamecharm Talents. The [Deepfire Ring](Deepfire_Ring.md) has no effect with this burn type, as it has the same effect of reducing the base damage of burn for a tick rate increase.
 -   [Flamewreathed](Monsters.md#attuned-monsters): [Attuned Monster](Monsters.md#attuned-monsters) exclusive, this burn is harder to remove; requiring 2 roll cancels or 1 full roll to be extinguished. It is applied on every attack (even if it doesn't deal damage) from any Flamewreathed Monster. This burn is a light orange.
 -   Self Immolation: [Flame Within](Talents.md#flame-within) exclusive, grants a 10% damage buff and a movement speed bonus. Cannot be removed from self via rolling or sliding, instead needing you to use the tool again to deactivate it. This effect is visually indistinguishable from normal burn, being based off your current Flamecharm color.
 

@@ -1,6 +1,6 @@
 ---
 title: "Providence's Thorns"
-revid: 199777
+revid: 200482
 source: https://deepwoken.fandom.com/wiki/Providence's_Thorns
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Enchantments, Weapon Enchantments]
@@ -30,4 +30,4 @@ Providence's Thorns is a damage dealing [enchantment](Enchantments.md) that atta
 
 -   Providence's Thorns hit can be parried and countered, but it does not grant autoparry frames.
 -   Providence's Thorns does not proc on autoparry frames.
--   Some [Bosses](Bosses.md) are **entirely immune** to Providence's Thorns. These are: [Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Parliament](Parliament.md), and [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md).
+-   Some [Bosses](Bosses.md) are **entirely immune** to Providence's Thorns. These are: [Heart of Enmity](Heart_of_Enmity.md), [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md), [Parliament](Parliament.md), [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md) and [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>).

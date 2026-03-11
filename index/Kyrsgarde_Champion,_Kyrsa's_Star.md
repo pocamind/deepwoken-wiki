@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 199550
+revid: 200483
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -213,6 +213,7 @@ Parry
 
 -   Kyrsan Chill - Being hit by the Kyrsgarde Champion's applies a permanent slowing effect that stacks. All active slow stacks are cleared when the Kyrsgarde Champion reach 50% HP, and again when defeated.
 -   Temporal Immunity - The Kyrsgarde Champion is immune to the Space-time collapse vortexes.
+-   Thorn Guard - The Kyrsgarde Champion is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>).
 
 ## Tips and Strategy
 

@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 200456
+revid: 200470
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -31,7 +31,7 @@ According to the item description of its exclusive drop, the Parasol emerges fro
 
 ## Moveset
 
-This giant foe's moveset is relatively simple and is easy to avoid; however they deal a massive amount of damage if caught off guard.
+This giant foe's moveset is relatively simple and is easy to avoid; however it deals a massive amount of damage if caught off guard.
 
 | Name/Danger | Description |
 | --- | --- |
@@ -52,15 +52,17 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 
  | The Parasol spits out a random Monster, varied to a [Alpha Megalodaunt](Alpha_Megalodaunt.md), [Mudskipper Brute](Mudskipper_Brute.md), [Mudskipper Broodlord](Mudskipper_Broodlord.md), [Void Thresher](Thresher.md), and [Nautilodaunt](Nautilodaunt.md). It can only spawn one type of creature at a time, and can sometimes spawn two of them.
 
+-   Parasol mostly uses this after getting a hit with any of its moves. Therefore, the less hits you take, the less additional enemies you have to deal with.
+
  |
 | 
 
 **Parasol Planting**  
 (★★☆)
 
- | The Parasol shrieks before planting all four tendrils into the ground. It will be able to
+ | The Parasol shrieks before planting all four tendrils into the ground and charging itself with electricity.
 
--   For the duration of this attack, it will not use **Pierce** or **Abyssal Hive**.
+-   For the duration of this attack, it will not use **Pierce.**
 
  |
 | 
@@ -87,8 +89,6 @@ This giant foe's moveset is relatively simple and is easy to avoid; however they
 (★★★)
 
  | The Parasol starts to convulse, charging up a large static pulse that sends nearby targets flying.
-
--   This move is only used when it has Parasol Planting.
 
  |
 
@@ -166,5 +166,5 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   Probably inspired in Metroids by Metroid series.
+-   Probably inspired by Metroids in Metroid series.
 -   Ragoozer accidentally leaked the existence of the parasol shortly after the release of Verse 2. A few months after, it was confirmed by Arch\_mage that the boss was a work-in-progress at the time. Ironically enough, the boss was released almost 2 years after Ragoozer first leaked it.

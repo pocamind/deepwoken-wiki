@@ -1,6 +1,6 @@
 ---
 title: Thresher
-revid: 199912
+revid: 200466
 source: https://deepwoken.fandom.com/wiki/Thresher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -29,7 +29,7 @@ When found in the [Voidsea](Voidsea.md), Threshers become Void Threshers, having
 
 Appearing as a blind crocodilian with large teeth and green scales, they have an incredible sense of smell as well as possessing an arsenal of sharp claws that can easily hunt and kill their prey respectively. They are evidently social creatures as they tend to live in nests, though the density and size of their nests affect the behavior of male Threshers. This leads into a competition between the males, emerging a [King](King_Thresher.md) in their stead that leads the pack.
 
-They are not all hostile though, as [Sordino](Sordino.md), a man found at the Starswept Valley, has managed to tame some of these Threshers in which you can ride as a mount - provided you have the [Crowns](Crowns.md) to buy such an elusive beast.
+They are not all hostile though, as [Sordino](Sordino.md), a man found at the [Starswept Valley](The_Starswept_Valley.md), that has managed to tame some of these Threshers in which you can ride as a [mount](Mounts.md) - provided you have the [Crowns](Crowns.md) to buy such an elusive beast.
 
 ## Attacks
 

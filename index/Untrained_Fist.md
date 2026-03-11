@@ -1,6 +1,6 @@
 ---
 title: Untrained Fist
-revid: 196801
+revid: 200485
 source: https://deepwoken.fandom.com/wiki/Untrained_Fist
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons, Fighting Styles]
@@ -27,14 +27,12 @@ categories: [Weapons, Fists, Light Weapons, Fighting Styles]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Equip any Cestus or Markor's Inheritor while not having a Fist style Talent. |
+| obtainment | Equip any Cestus, Markor's Inheritor, or unequip your weapon while not having a Fist style Talent. |
 | description | Your bare fists. Worth a shot, right? |
 
 ## Description
 
-Untrained Fist is a fist style that is obtained when you attempt to equip a Cestus without having a [Fist style](Fists.md). This style, as the name would suggest, consists of unrefined attacks and general theatrics.
-
-Because Untrained Fist isn't a traditional fist style with a bare hands variant, the stats of Untrained Fist be entirely dependent on your equipped Cestus.
+Untrained Fist is a fist style that is obtained when you attempt to equip a Cestus or unequip your weapon without having a learned [Fist style](Fists.md). This style, as the name would suggest, consists of unrefined attacks and general theatrics.
 
 ## Critical
 
@@ -49,4 +47,3 @@ This critical has a **5 second** cooldown.
 ## Trivia
 
 -   [Markor's Inheritor](<Markor's_Inheritor.md>) will use Untrained Fists' critical if you do not have a fist style unlocked.
--   Untrained Fist's 15 base damage does not matter in most cases because your Cestus will override Untrained Fist's base stats. However, [Markor's Inheritor](<Markor's_Inheritor.md>) utilizes this number for its damage calculations.
