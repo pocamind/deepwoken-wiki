@@ -1,6 +1,6 @@
 ---
 title: Eyes of Ethiron
-revid: 200443
+revid: 200463
 source: https://deepwoken.fandom.com/wiki/Eyes_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scaling", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals, Medium Weapons, Swords, Reforged Weapons, "Dual-wielded Weapons", "Attunement-based Weapons"]
@@ -28,7 +28,7 @@ categories: [Weapons, Weapons with Talents, "Weapons with Multi-Attunement Scali
 | bankable | Yes |
 | droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Interacting with the Lost Forge with Curved Blade of Winds |
 
 Variants: [Curved Blade of Winds](Curved_Blade_of_Winds.md)

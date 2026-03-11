@@ -1,6 +1,6 @@
 ---
 title: Bloodforged Crown
-revid: 198590
+revid: 200460
 source: https://deepwoken.fandom.com/wiki/Bloodforged_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Ornaments]
@@ -11,7 +11,7 @@ categories: [Equipment, Head, Ornaments]
 | Bloodforged Crown | |
 |---|---|
 | type | Head |
-| rarity | Mythic |
+| rarity | Mythical |
 | selling price | 50 |
 | requirements | LVL 10 |
 | weight | 1 |

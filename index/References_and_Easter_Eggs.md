@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 200453
+revid: 200462
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -26,9 +26,9 @@ This is a page dedicated to all of the easter eggs and references to other works
 -   The Flameguard Pauldrons may be a reference to the armor the Fire Nation wears in _[Avatar: The Last Airbender](https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender)_.
 -   The Wheel Pendant is a reference to [Azura's Star](https://skyrim.fandom.com/wiki/Azura%27s_Star) from _[The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim)_.
 -   The Outfit Veteran Adventurer is a reference to [Sol Badguy's](https://guiltygear.fandom.com/wiki/Sol_Badguy) outfit from _[Guilty Gear Strive](https://en.wikipedia.org/wiki/Guilty_Gear_Strive)_.
--   Every Familiar Helmet from the Hallowtide event are helmets taken from _Rogue Lineage_.
+-   Every Familiar Helmet from the Hallowtide event are helmets taken from _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/)_.
     -   Church Knight's helmet is the **Familiar Priest Helmet,** the Wraith Knight helmet is the **Familiar Heretic Helmet,** and the Sigil Helmet is the **Familiar Knight Helmet**, respectively.
--   Every [Mushroom Costume](Mushroom_Costume.md) is a direct reference to the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from _[Rogue Lineage](https://rogue-lineage.fandom.com/wiki/)_.
+-   Every [Mushroom Costume](Mushroom_Costume.md) is a direct reference to the [Scroom](https://rogue-lineage.fandom.com/wiki/Scroom) race from _Rogue Lineage_.
 
 ## Attunements
 
@@ -47,9 +47,9 @@ This is a page dedicated to all of the easter eggs and references to other works
 ### Thundercall
 
 -   **Lightning Cloak** is a possible reference to [Killua](https://hunterxhunter.fandom.com/wiki/Killua_Zoldyck)'s Godspeed ability from _Hunter × Hunter_ as it used to be blue, making it almost identical.
-    -   The name also matches up and works nearly the same as the ["Lightning Release Chakra Mode" Jutsu](https://naruto.fandom.com/wiki/Lightning_Release_Chakra_Mode) from _Naruto_, often called "Cloak of Lightning".
+    -   The name also matches up and works nearly the same as the ["Lightning Release Chakra Mode" Jutsu](https://naruto.fandom.com/wiki/Lightning_Release_Chakra_Mode) from _[Naruto](https://en.wikipedia.org/wiki/Naruto)_, often called "Cloak of Lightning".
 -   **Grand Javelin** is inspired by the Lightning Spear spells: [Lightning Spear](https://darksouls.fandom.com/wiki/Lightning_Spear), [Great Lightning Spear](https://darksouls.fandom.com/wiki/Great_Lightning_Spear), and [Sunlight Spear](https://darksouls.fandom.com/wiki/Sunlight_Spear) in _Dark Souls_.
--   **Bolt Piercer** is a reference to Ishida Uryu's [Licht Regen](https://bleach.fandom.com/wiki/Licht_Regen%23Variations) from _Bleach_. This becomes more apparent with the Surge path.
+-   **Bolt Piercer** is a reference to Ishida Uryu's [Licht Regen](https://bleach.fandom.com/wiki/Licht_Regen%23Variations) from _[Bleach](<https://en.wikipedia.org/wiki/Dark_Souls_(video_game)>)_. This becomes more apparent with the Surge path.
 -   **Lightning Assault** might be a possible reference to [Zenitsu](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma)'s [Thunder Breathing, First Form: Thunderclap and Flash](https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma%23Techniques) from _Demon Slayer._
     -   It also bears striking resemblance to the spell [Shock Assault](https://wizardoflegend.fandom.com/wiki/Shock_Assault) from _Wizard Of Legend,_ having a similar name and similar effects.
 -   **Spark Swap** is a reference to the snap version of [Celeritas](https://rogue-lineage.fandom.com/wiki/Celeritas) from _Rogue Lineage_. Both abilities share the same utility, and both have a similar sound effects and lightning visuals on usage.

@@ -1,6 +1,6 @@
 ---
 title: Frostdraw
-revid: 199795
+revid: 200459
 source: https://deepwoken.fandom.com/wiki/Frostdraw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -440,6 +440,7 @@ Ice
 -   Apparently applies Chill although VERY shortly.[\[1\]](#cite-note-1)
 -   Freezes opponent, allowing for a free hit or combo.
     -   You can Vent while frozen to escape early, but you cannot block dodge or parry while frozen.
+-   Shares a cooldown with [Permafrost Prison](Hybrid_Abilities.md#permafrost-prison).
 -   Can be modified with a [Round Spark](Mantra_Modifiers.md#sparks) to cause the eruption to form a wall around the user instead of it erupting forward. These walls are destructible.
     -   The walls can deal damage if they spawn very close to your opponent.
 
