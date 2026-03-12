@@ -1,6 +1,6 @@
 ---
 title: Prime Megalodaunt
-revid: 200468
+revid: 200540
 source: https://deepwoken.fandom.com/wiki/Prime_Megalodaunt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, The Vat Exclusive]

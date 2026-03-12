@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 200500
+revid: 200535
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -74,21 +74,21 @@ This is a page dedicated to all of the easter eggs and references to other works
     -   A **Shadow Gun** modified with a Blast Spark resembles the [Cero Metralleta](https://bleach.fandom.com/wiki/Cero_Metralleta) used by [Coyote Stark](https://bleach.fandom.com/wiki/Coyote_Starrk), especially when coupled with guns.
     -   It is also possibly a reference to Duelist Dash from _Rogue Lineage_, a move used by the [Duelist](https://rogue-lineage.fandom.com/wiki/Duelist), better known as Uber Spy, Class.
 -   **Eclipse Kick** resembles the Axe Kick, an attack from _Rogue Lineage_ used by the [Oni](https://rogue-lineage.fandom.com/wiki/Oni) class.
-    -   Oni itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _Street Fighter_.
+    -   Oni itself is a reference to [Akuma](https://streetfighter.fandom.com/wiki/Akuma), one of the characters from _[Street Fighter](https://en.wikipedia.org/wiki/Street_Fighter)_.
 -   **Shadow Assault** resembles Akuma's [Ashura Senku](https://streetfighter.fandom.com/wiki/Ashura_Senku) technique.
     -   Its Blast Spark modification is a spin on the famed [Shun Goku Satsu](https://streetfighter.fandom.com/wiki/Shun_Goku_Satsu).
--   **Shadow Travel** may be a reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper#Abilities) **Shadow Step** from Overwatch.
+-   **Shadow Travel** may be a reference to [Reaper's](https://overwatch.fandom.com/wiki/Reaper%23Abilities) **Shadow Step** from _Overwatch_.
 -   **Rising Shadow** is a reference to [Shadow Tendrils](https://youtu.be/EcQP0UcvLtE?t=203), one of Lannis' abilities from _Rogue Lineage_.
 
 ### Ironsing
 
 -   Needle Barrage is near identical to Autumn Rain from _Rogue Lineage_, a move used by the [Shura](https://rogue-lineage.fandom.com/wiki/Shura), better known as Uber Shinobi, class.
--   Being able to consume ores for buffs could be a reference to Allomancy from _Mistborn._
+-   Being able to consume ores for buffs could be a reference to Allomancy from _[Mistborn](https://en.wikipedia.org/wiki/Mistborn)_.
 
 ### Bloodrend
 
--   **Veinbreaker** may be a reference to Slayer's [Super Mappa Hunch](https://youtu.be/WvZLibhVVDQ) from _Guilty Gear -STRIVE-_
--   **Scarlet Cannon** is a reference to [Choso's](https://jujutsu-kaisen.fandom.com/wiki/Choso#Abilities_and_Powers) Piercing Blood from Jujutsu Kaisen.
+-   **Veinbreaker** may be a reference to Slayer's [Super Mappa Hunch](https://youtu.be/WvZLibhVVDQ) from _Guilty Gear Strive_.
+-   **Scarlet Cannon** is a reference to [Choso's](https://jujutsu-kaisen.fandom.com/wiki/Choso%23Abilities_and_Powers) Piercing Blood from _Jujutsu Kaisen_.
 
 ### Attunementless
 
