@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 200499
+revid: 200513
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -1745,7 +1745,7 @@ Certain Talents are weighted by RNG upon Powering up, either being more or less 
     -   Whenever you land an M1 or critical with the M1 tag, apply [Anti-Heal](Status_Effects.md#anti-heal) for 8 seconds.
     -   All the Dead Gods' anti-heal effectiveness for sources of active healing scales on your combined Willpower and Intelligence investment. This has a minimum value of 70% at 55 combined points of Intelligence and Willpower, and a maximum value of 100% at 105 combined points.
         -   All the Dead Gods loses 0.6% anti-heal for every **combined** point of Intelligence and Willpower below 105. For example, 80 combined points will have 85% anti-heal.
-    -   All the Dead Gids' anti-heal effectiveness for sources of passive healing is always 100% regardless of your combined investment. Sources of passive healing include: [campfires](Campfire_Pit.md), Conditioned Runner, [Curse of the No Life King](Curse_of_the_No_Life_King.md), Chorus of Souls, and natural health regeneration.
+    -   All the Dead Gods' anti-heal effectiveness for sources of passive healing is always 100% regardless of your combined investment. Sources of passive healing include: [campfires](Campfire_Pit.md), Conditioned Runner, [Curse of the No Life King](Curse_of_the_No_Life_King.md), Chorus of Souls, and natural health regeneration.
     -   Wearing a [Ring of Pestilence](Ring_of_Pestilence.md) increases All the Dead Gods' anti-heal duration by 4 seconds; from 8 to 12.
     -   The anti-heal cannot be procced on allies, and it does not affect healthpacks.
     -   The heal boost status effect increases all non-passive healing gained from enemies who are currently affected by your anti-heal. This Talent grants +5% Heal Boost.

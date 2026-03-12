@@ -1,6 +1,6 @@
 ---
 title: Parsnip
-revid: 200509
+revid: 200520
 source: https://deepwoken.fandom.com/wiki/Parsnip
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Celtor NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Individuals with unspecified pronouns]
@@ -27,7 +27,7 @@ This content is not accessible outside of this gamemode.
 
 Parsnip is a [Celtor](Celtor.md) NPC. They work for the [Ignition Union](The_Ignition_Union.md).
 
-He is wearing the [Duelist's Attire](<Duelist's_Attire.md>) outfit.
+He is wearing the [Ignition Welder](Ignition_Welder.md) outfit.
 
 ## Dialogue
 

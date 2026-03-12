@@ -1,6 +1,6 @@
 ---
 title: Falchion
-revid: 196673
+revid: 200510
 source: https://deepwoken.fandom.com/wiki/Falchion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Alloyed Weapons, Weapons with Unique Criticals, Swords, Medium Weapons]
@@ -50,5 +50,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   This weapon, along with the [Darksteel Greatsword](Darksteel_Greatsword.md), is used by the Ignition Union during their fights with the Summer Company.
--   It used to use the [Trident Spear](Trident_Spear.md) description, but this was later updated.
+-   It used to have the same description as the [Trident Spear](Trident_Spear.md), but this was later updated.

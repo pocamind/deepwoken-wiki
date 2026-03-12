@@ -1,6 +1,6 @@
 ---
 title: Curved Blade of Winds
-revid: 199725
+revid: 200512
 source: https://deepwoken.fandom.com/wiki/Curved_Blade_of_Winds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Medium Weapons, "Dual-wielded Weapons", "Weapons with Multi-Hit Criticals", Weapons with multiple Criticals]
@@ -67,3 +67,4 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talent](Tal
 -   When one-handing this weapon, you have two blades, meaning the two-hand stance only has one.
     -   This often leads people to mistake the single sword stance as the faster stance.
 -   The runes on the blade read "GALEBREATHE" (top side) and gibberish (bottom side).
+-   The Old Model for the Curved Blade of Winds resembles a 2018 Roblox Gear, called ["Immortal Sword: Celtic Blade"](https://roblox.fandom.com/wiki/Catalog:Immortal_Sword:_Celtic_Blade)
