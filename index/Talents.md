@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 200513
+revid: 200530
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2484,14 +2484,15 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 ### Metamancer
 
--   _Chain of Perfection_ \[Echo Talent, Quest Talent\] - You gain stacks of 'Perfection' on hitting mobs with close-range attacks. Perfection increases your damage towards mobs the more stacks you have. All stacks are lost on taking damage.
-    -   Gain a 5% damage buff against PVE enemies for every hit against at close range.
-    -   Can stack up to 20 times, for a 100% damage buff. This ignores the damage modifier cap.
+-   _Chain of Perfection_ \[Echo Talent, Quest Talent\] - You gain stacks of [Perfection](Status_Effects.md#perfection) on hitting mobs with Weapon Attacks or Mantras. Mantras are only worth half a stack.
+    -   Gain a 5% damage buff against PVE enemies for every stack of Perfection above 5, capping at +100% damage at 25 stacks.
+    -   Upon taking damage from any non-self damage source, you will lose all stacks of Perfection. Fall damage also removes all stacks.
+    -   Perfection acts as a final damage multiplier that bypasses the damage modifier caps.
     -   Damage sources that cannot receive damage modifiers (e.g. [Burn](Status_Effects.md#burn)) do not benefit from Chain of Perfection stacks.
     -   You cannot gain more than 3 stacks per attack.
     -   Upon taking damage from any non-self damage source (excluding fall damage), all stacks will be lost.
-    -   Prerequisites: Defeat any [Bosses](Bosses.md) solo without taking any damage.
-        -   Once you have obtained this Talent on any character, you will receive this Talent automatically on character creation.
+    -   Prerequisites: Defeat any [boss](Bosses.md) solo without taking any damage.
+        -   Once you have obtained this Talent on any character, you will receive this Talent automatically on all subsequent characters.
 
 ### Ministry Prophet
 

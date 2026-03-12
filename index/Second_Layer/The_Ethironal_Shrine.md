@@ -1,6 +1,6 @@
 ---
 title: Second Layer/The Ethironal Shrine
-revid: 198858
+revid: 200526
 source: https://deepwoken.fandom.com/wiki/Second_Layer/The_Ethironal_Shrine
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Layer 2, Floor 1, Dungeons]
@@ -54,7 +54,7 @@ While navigating the First Floor, there is a clear-set quest-line, which will pr
 
 ### **Puzzle Route (Skip)**
 
-To do this repeat the same steps as the Main method up to 3
+To do this repeat the same steps as the Main method up to 4
 
 1.  Instead of obtaining the blue spear in the firfire caverns keep going and then make a U turn to the left, keep walking forward and eventually after seeing a fence on the wall there will be a floor collapse, you will then go the opposite way you were going until you see openings to the left which you will go to the deepest one, by then you should see pits of parasites hidden by fog, make a right turn and then keep going until you see rocks which allow you to climb over a layer of fog, you will then find the entrance to the puzzle room
 2.  to complete the puzzle you must enter the right symbols in the 4 slots before the spikes reach you **(The spikes wipe you instantly)** the code is fairly simple, from the entrance it goes 2 1 3 4, if you are confused on which side you came from if you follow from the gray door the order will be 4 3 1 2.

@@ -1,8 +1,9 @@
 ---
 title: "Ji'ang"
-revid: 200147
+revid: 200525
 source: https://deepwoken.fandom.com/wiki/Ji'ang
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Etrea, Heads of government and state]
 ---
 
 # Ji'ang

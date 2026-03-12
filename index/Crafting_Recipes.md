@@ -1,6 +1,6 @@
 ---
 title: Crafting Recipes
-revid: 198556
+revid: 200528
 source: https://deepwoken.fandom.com/wiki/Crafting_Recipes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -22,7 +22,7 @@ These are recipes that are not used to produce food or potions.
 -   [Ore](Ores.md) (3x) - 1x Pure [Ore](Ores.md)
 -   [Sticks](Stick.md) (3x) - _1 [Wood](Wood.md)_
 -   [Campfire](Campfire_Pit.md) - _3 [Sticks](Stick.md) or 1 [Wood](Wood.md)_
--   [Fiber](Fiber.md) - _2 [Bamboo](Bamboo_Bundle.md) or 1 [Spider Egg](Spider_Egg.md)_
+-   [Fiber](Fiber.md) - _2 [Bamboo](Bamboo_Bundle.md) or 1 [Spider Egg](Spider_Egg.md) or 3 [Marram Grass](Marram_Grass.md)_
 -   [Cloth](Cloth.md) - _3 [Fiber](Fiber.md)_
 -   [Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Rock](Ores.md#rock)_
 -   [Umbral Flint](Flint.md) - _1 [Coal](Ores.md#coal), 1 [Umbral Obsidian](Umbral_Obsidian.md)_
