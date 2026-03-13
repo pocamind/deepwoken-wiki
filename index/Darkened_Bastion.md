@@ -1,6 +1,6 @@
 ---
 title: Darkened Bastion
-revid: 194692
+revid: 200543
 source: https://deepwoken.fandom.com/wiki/Darkened_Bastion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits]

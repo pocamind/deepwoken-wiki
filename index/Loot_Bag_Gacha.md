@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 192274
+revid: 200580
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
@@ -65,6 +65,7 @@ Jeandae
 -   [Flameguard Pauldrons](Flameguard_Pauldrons.md)
 -   [Glassdancer Wraps](Glassdancer_Wraps.md)
 -   [Royal Duelist](Royal_Duelist.md)
+-   [The Barrel](The_Barrel.md)
 
 ## Malisae
 

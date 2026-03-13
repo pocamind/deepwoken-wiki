@@ -1,8 +1,9 @@
 ---
 title: Deepdelver
-revid: 196484
+revid: 200565
 source: https://deepwoken.fandom.com/wiki/Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Deepdelvers]
 ---
 
 # Deepdelver

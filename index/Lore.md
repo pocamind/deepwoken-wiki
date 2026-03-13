@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 200406
+revid: 200558
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -805,7 +805,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - D
 -   They were responsible for the sinking of [Celtor](Celtor.md), using it as an offering to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). The [Blindseer](Oath%253A_Blindseer.md) Glyphs hint at them having used a Contractor to do it.
     -   This Contractor wasn't [Zi'eer](The_Lord_Regent.md).[\[4\]](#cite-note-arch-4)
 -   They are lead by prophets. There is no limit to how many there can be,[\[1\]](#cite-note-rag-1) but as of Year 1363 there are nine. They are ranked by strength.[\[1\]](#cite-note-rag-1)
--   The leader of the Ministry is the First Prophet, currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
+-   The leader of the Ministry is the First Prophet. Currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
 -   [The Ministry](The_Ministry.md) has some sort of hostility against the [Children of Navae](The_Children_of_Navae.md), which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
     -   Possibly due to their connection with and worship of [Navae](#navae), and ministry connections and obsession with drowned gods like [Yun'shul](#yunshul-keeper-of-hearts) and the great drowning.
 -   Essentially enemies with every major faction in the game until proven otherwise.
@@ -869,7 +869,7 @@ An ignition union guard, located at miners landing.
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
 -   **Attunements:** _[Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md), [Frostdraw](Frostdraw.md)_
 -   **Alliances:** _The Divers (Business relation) [Diversiconfaction](The_Divers.md), The Summer Company (Business relations) [Summericonfaction](The_Summer_Company.md), The Ignition Union (Business relations)_, _The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)_
--   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae (Captives) [Navaeiconfaction](The_Children_of_Navae.md), The Hundred Legions_,
+-   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae (Captives) [Navaeiconfaction](The_Children_of_Navae.md), The Hundred Legions_, _The Ministry_ [Ministryiconfaction](The_Ministry.md)
 -   **Lore Sources:** _Authority Interrogator Talents, [Kelsius](Kelsius.md), Weapon Descriptions, [Scope](Scope.md), Random Encounters_
 
 -   The Authority is an Empire and a faction of "Peacekeepers."

@@ -1,6 +1,6 @@
 ---
 title: Chime of Dwelling
-revid: 190051
+revid: 200556
 source: https://deepwoken.fandom.com/wiki/Chime_of_Dwelling
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Guilds, Items, Tools]
@@ -24,15 +24,15 @@ The Chime of DweIIing does not work in or under the following:
 
 -   Inside of a [Guild Base](Guild_Bases.md)
 -   [Depths](First_Layer.md) and its [Layers](The_Depths.md)
--   [Voidheart](Voidheart.md), [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) or any hostile locations such as [Voidzones](Voidzones.md)
+-   [Voidzones](Voidzones.md)
 -   Dungeons or Missions ([Duke](Duke_Ishamon_Erisia.md) Fight, [Ferryman](The_Ferryman.md) Fight, [Maestro](Maestro_Evengarde_Rest.md) Fight, [Trial of One](Trial_of_One.md))
 -   Occupied Locations by Factions that see you as a Hostile
 -   Being in-combat
--   [Boatman's Watch](<Boatman's_Watch.md>) and other [Voidsea](Voidsea.md) areas
--   [The Monkey's Paw](<The_Monkey's_Paw.md>)
--   The Interstice ([Dimensional Travel](Dimensional_Travel.md))
--   When under the effects of Grasp of Eylis as a void walker (actively hunting a player)
+-   [The Monkey's Paw](<The_Monkey's_Paw.md>) and [Duke Erisia's Manor](<Duke_Erisia's_Manor.md>) (as they are boss arenas)
+-   [Voidheart](Voidheart.md) and The Interstice ([Dimensional Travel](Dimensional_Travel.md)) (as they are in another realm from us)
+-   When under the effects of Grasp of Eylis as a [Voidwalker](Voidwalker.md) (actively hunting a player)
 -   Character created from the [Authority Ensign](Authority_Ensign.md) origin.
+-   [The Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) and [Derelict Highchurch](Derelict_Highchurch.md) (as both areas have a sinister presence?)
 
 The Guild Base Layout
 
@@ -48,6 +48,7 @@ Chime of Dwelling Item.
 -   If a base is present and the Chime is used again somewhere else, the current base will be moved to the new location, given that no one is present inside of the base.
 -   Similar to the [Chime of Conflict](Chime_of_Conflict.md), this item is undroppable, and resides in your inventory at all times.
 -   If you are looking for a detailed page about the guilds inside, read [Guild Base](Guild_Bases.md) or [Guilds](Guilds.md).
+-   Despite not being able to use the Chime in the The Temple of The Forgotten Flame itself, you can use it in its [courtyard](Temple_Courtyard.md)
 
 ## Updates
 

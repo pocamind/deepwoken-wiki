@@ -1,6 +1,6 @@
 ---
 title: "Assassin's Earrings"
-revid: 198529
+revid: 200569
 source: https://deepwoken.fandom.com/wiki/Assassin's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]

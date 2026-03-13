@@ -1,6 +1,6 @@
 ---
 title: Vow of Iron
-revid: 199591
+revid: 200546
 source: https://deepwoken.fandom.com/wiki/Vow_of_Iron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Game Modes, Paths, Character]
@@ -115,9 +115,8 @@ Items marked with are exclusive to this gamemode
 -   The Etrean and Eastern Luminant are combined into a singular map. The map is much more compact, with islands being much closer to one another.
 -   Ziplines are heavily dotted around the map, allowing quick traversal.
 -   The Depths have also changed, you can see the VOI Depths [here](<The_Depths_(Vow_of_Iron).md>).
--   World Events now only include bosses such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) and the [Interluminary Parasol](Interluminary_Parasol.md).
+-   Events now only include bosses such as [The Doom of Caeranthil](The_Doom_of_Caeranthil.md)
     -   At times where either Doom of Caeranthil or Interluminary Parasol would appear in Pathfinder, Caeranthil only appears instead.
-    -   At times where Carnival of Hearts would appear in Pathfinder, Interluminary Parasol only appears instead.
 -   [Boundaries](Boundary.md) can be found in set, static locations. Boundaries act as a fast travel point to enter and leave [The Cerebral Spire](The_Cerebral_Spire.md). The locations of these Boundaries can be found on the [Boundary](Boundary.md) page.
     
     -   Boundaries save between characters made on that same slot.

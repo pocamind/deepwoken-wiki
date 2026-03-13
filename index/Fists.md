@@ -1,6 +1,6 @@
 ---
 title: Fists
-revid: 200484
+revid: 200548
 source: https://deepwoken.fandom.com/wiki/Fists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Light Weapons]
@@ -45,7 +45,7 @@ There are 5 different fist styles and 4 of them share the ability to be switched
 -   **UF** - Untrained Fists
 -   **JK** - Jus Karita
 
-Switching to fist stance while having a weapon is purely visual and does not remove it from the inventory.
+\* Switching to fist stance while having a weapon is purely visual and does not remove it from the inventory.
 
 ## Styles
 
