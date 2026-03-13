@@ -1,6 +1,6 @@
 ---
 title: Polis
-revid: 193221
+revid: 200614
 source: https://deepwoken.fandom.com/wiki/Polis
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etrean Luminant, Quests, Enemies, Etrea Enemies]
@@ -13,8 +13,8 @@ categories: [Pathfinder Exclusive, Vesperian NPCs, NPCs, NPCs located in the Etr
 | health | 5000 |
 | drops | Anklets of Alsin |
 | weapon | Darksteel Greatsword |
-| moves | Assault, Critical , Gale Lunge , Rising Wind , Strong Left , Rapid Punches |
-| affiliation | The JusticarEtrea |
+| moves | Assault, Critical, Gale Lunge, Rising Wind, Strong Left, Rapid Punches |
+| affiliation | The Justicar, Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -156,8 +156,6 @@ Polis is a [Vesperian](Vesperian.md) NPC found sitting below the white tree in t
 </tbody>
 </table>
 
-  
-
 ## Moveset
 
 Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), his [fists](Fists.md) (**[Jus Karita](Jus_Karita.md)**) along with the [Galebreathe](Galebreathe.md) attunement:
@@ -230,7 +228,7 @@ Polis' arsenal consists of a [Darksteel Greatsword](Darksteel_Greatsword.md), hi
 
  |
 
-#### Talents
+### Talents
 
 -   Collapsed Lung - When Polis block breaks someone, they are unable to vent for 3 seconds.
 -   Bulldozer - When Polis flourishes an enemy into a wall, they are guard broken and have a chance of breaking the wall.

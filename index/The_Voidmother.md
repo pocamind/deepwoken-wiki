@@ -1,6 +1,6 @@
 ---
 title: The Voidmother
-revid: 200395
+revid: 200611
 source: https://deepwoken.fandom.com/wiki/The_Voidmother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, NPCs, The Knives of Eylis, NPCs located in the Voidheart]

@@ -1,6 +1,6 @@
 ---
 title: Scope
-revid: 191618
+revid: 200608
 source: https://deepwoken.fandom.com/wiki/Scope
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Quests, The Summer Company, Individuals with unspecified pronouns]
@@ -59,7 +59,7 @@ Scope is located at [Summer Isle](Summer_Isle.md) inside a tower with a staircas
 </tbody>
 </table>
 
-|-+Explosive Crate Turn-In=
+**Explosive Crate Turn-In:**
 
 <table>
 <tbody>

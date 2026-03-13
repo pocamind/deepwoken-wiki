@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 200389
+revid: 200625
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -225,20 +225,112 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
 <table>
 <tbody>
 <tr>
-  <td>Begin Dialogue</td>
+  <td colspan="20">Begin Dialogue</td>
 </tr>
 <tr>
-  <td><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. But perhaps this tool will provide you with what you need.<br>
+  <td colspan="20"><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. But perhaps this tool will provide you with what you need.<br>
   <font>[Player obtains <a href="Big_Brother.md">Big Brother</a>]</font></td>
 </tr>
 <tr>
-  <td>May I ask you something, ma'am?</td>
+  <td colspan="10">[Starting Dialogue]</td>
+  <td colspan="10">[During Dialogue]</td>
 </tr>
 <tr>
-  <td>WIP</td>
+  <td colspan="10">May I ask you something, ma'am?</td>
+  <td colspan="10">May I ask you something else, ma'am?</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td colspan="10">*<i>She nods politely, a half-smile forming on her lips.</i>* Of course. Inquisitors should share information where it is pertinent - be it as friends, or colleagues. What would you like to know?</td>
+  <td colspan="10">*<i>She nods, patiently.</i>* Of course. What else would you like to know?</td>
+</tr>
+<tr>
+  <td colspan="18">[Options are presented as normal]</td>
+  <td colspan="2">[This option also appears, but only outside of Starting Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="14">Could you tell me a bit about yourself, ma'am?</td>
+  <td colspan="2">What can you tell me about Warden Jericho?</td>
+  <td colspan="2">If I may speak freely, ma'am... You don't seem to have the highest opinion of Sentinel Augustus?..</td>
+  <td colspan="2">I think that's all for now, ma'am. Thank you.</td>
+</tr>
+<tr>
+  <td colspan="14">*<i>A smile dares to tug at the sides of her mouth.</i>* I'm not all that interesting, [Last Name], I can assure you. I studied linguistics at the <a href="Glossary.md#the-citadel-of-markor">Citadel</a> of Markor for a little while... But, trust me when I say that it's all rather dead-end there. You study there, you work in some dusty institution, and you die there. Career prospects and job satisfaction seemed quite dire. Soldiering about with the <a href="Glossary.md#the-central-authority">Central Authority</a> wasn't too alluring either, but at least there's some achievement to it.</td>
+  <td colspan="2">Mmm... He's a good colleague and leader - though I can't say I know him very personally. He holds most people at an arm's length. I can't say that's too different to his battlefield tactics, though. Yet, also... *<i>She pauses thoughtfully for a moment.</i>* It's not my place to question the Warden's choices, mind you... but I feel as if little to no <i>actual</i> progress is being made on this side of <a href="Glossary.md#lumen">Lumen</a> these days.</td>
+  <td colspan="2">*<i>The High Inquisitor pauses, exhaling lightly.</i>* He's certain got the mettle of a great soldier, and his achievements undeniably reflect that. And, I do respect his ability to fixate himself on a task and get it done, though at the expense of a little... tact. Like an enraged, blinkered thresher. He suits his role the way I do mine. But I would argue he does not make for a particularly captivating conversation partner.</td>
+  <td colspan="2">*<i>The High Inquisitor nods.</i>* Very well, [Last Name]. If there's anything else you'd like to talk about, don't be stranger, yes? I wish you luck on your upcoming missions. Make the Inquisition <b>proud</b>. *<i>You once again exchange stern salutes with the High Inquisitor.</i>*</td>
+</tr>
+<tr>
+  <td colspan="4">What led you to enlist with the Authority?</td>
+  <td colspan="4">Why did you end up joining the Inquisition?</td>
+  <td colspan="4">What was it like, studying in the Citadel?</td>
+  <td>May I ask you something else, ma'am?</td>
+  <td>I think that's all for now, ma'am. Thank you.</td>
+  <td colspan="2">What makes you say that, ma'am?</td>
+  <td colspan="2">Why not, ma'am?</td>
+  <td colspan="2">[End Dialogue]</td>
+</tr>
+<tr>
+  <td colspan="4">*<i>A brief, listless moment of recollection seems to cross her mind.</i>* To put it simply, [Last Name], once I finished my studies, I came to realise that academia was not the environment where I wanted to ply my trade. The <a href="Glossary.md#the-citadel-of-markor">Citadel</a> taught me... ambition. To pursue perfection. To strive for excellence. Driven relentlessly by that desire in my younger days, I joined the one place I could think of where I could find satisfaction in my work, and apply the skills I had learned.</td>
+  <td colspan="4">*<i>The High Inquisitor's expression betrays a spark of ambition in her eyes.</i>* When I joined the <a href="Glossary.md#the-central-authority">Authority</a>, it made the most sense for me to join the Inquisition. I never quite had the tactical skills needed for the Command division, and the Shock Corps didn't seem all that appealing. I enjoyed the tasks sent my way. The field work was quite demanding, but I was persistent. Though, I excelled at investigative work. It's like putting together a puzzle each time, piece by piece...</td>
+  <td colspan="4">*<i>She wanders insouciantly in her memories.</i>* It was wonderful and challenging at the same time, [Last Name]. All the books you could ever want, and on any topic. You're taught and tutored by the best minds in <a href="Glossary.md#lumen">Lumen</a>. There's lively discussion and debate of all kind... But the academic standards were sky-high. The scholars expect nothing but excellence from their pupils... It does foster a healthy sense of ambition within the students, though - and prepares the next generation of <a href="Glossary.md#lumen">Lumen's</a> finest.</td>
+  <td colspan="2">[See first instance]</td>
+  <td colspan="2">*<i>She shakes her heads, straightening her visor meticulously.</i>* He expects a lot of his subordinates, and thus, I do my part in giving him all the information he needs to survey the dynamics of the region. But it never seems to amount to anything further than surveying. Probing and pushing. Small scuffles on long-contested territory which inevitably ammounts to little. To be frank, things have ground to a screeching halt compared to my early days as the High Inquisitor, [Last Name].</td>
+  <td colspan="2">*<i>You can tell Merey rolls her eyes underneath her visor.</i>* The Sentinel, if I am to speak freely, has all the subtlety of a wall of bricks. He also has no grasp of metaphors, or figures of speech. Though, I admit - it's almost endearing to see him try to pick up idioms and phrases from me... I just wish he didn't have his natural talent for immediately turning them into metaphors. I guess you can't teach an old Canor new tricks, eh, [Last Name]? *<i>She chuckles.</i>*</td>
+</tr>
+<tr>
+  <td>Why did you end up joining the Inquisition?</td>
+  <td>What was it like, studying in the Citadel?</td>
+  <td>May I ask you something else, ma'am?</td>
+  <td>I think that's all for now, ma'am. Thank you.</td>
+  <td colspan="4">How did you end up becoming the High Inquisitor?</td>
+  <td>What led you to enlist with the Authority?</td>
+  <td>Why did you end up joining the Inquisition?</td>
+  <td>May I ask you something else, ma'am?</td>
+  <td>I think that's all for now, ma'am. Thank you.</td>
+  <td colspan="2"></td>
+  <td colspan="2">Were things different before?</td>
+  <td colspan="2">May I ask you something else, ma'am?</td>
+</tr>
+<tr>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="4">I inherited the mantle from the first High Inquisitor of Fort Merit, Mordred Hirculi. I was designated as his successor long before he passed. He appreciated my ambition, and helped temper it into a useful tool. He was a great mentor... *<i>Merey lowers her head pensively.</i>* Uncharacteristically to many in the <a href="Glossary.md#the-central-authority">Authority</a> military, he passed peacefully in his sleep. The High Inquisitor was already an old man when he came to Fort Merit. I can only hope that my current work would make him proud.</td>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="2"></td>
+  <td colspan="2">*<i>She nods solemnly.</i>* When I first assumed my current position, we were making tremendous strides. We built up a vast network of agents within each of the major regional players. But once we ramped up our efforts of infiltrating the Etrean ranks, things suddenly changed. We began losing Inquisitors in droves during field missions. It's... hard to explain, [Last Name]. The events of those days are quite complex. But ever since then, Warden Jericho has been hesitant to act.</td>
+  <td colspan="2">[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">What do you think about the current state of the Inquisition, ma'am?</td>
+  <td colspan="4"></td>
+  <td colspan="2"></td>
+  <td>Hesitant how?</td>
+  <td>May I ask you something else, ma'am?</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">*<i>She runs a hand through her dark, lightly silvered hair.</i>* Well, if I were to do a fair reckoning... Improvements could be made. For example... Some of the newer Inquisitors lack restraint, and enact violence for the sake of violence. I understand that the current stalemates make them antsy... But restraint and conscientiousness are the most important values an Inquisitor can have. The purpose of an interrogation is to extract information, not to prolong suffering. It is a necessary evil.</td>
+  <td colspan="4"></td>
+  <td colspan="2"></td>
+  <td>*<i>Her brow furrows slightly.</i>* We pace about in circles. Outside of... certain operations, which I am strictly not allowed to discuss with personnel without the appropriate clearance, we've been interrogating mostly the same kinds of people, and getting mostly the same information. I can only hope the Warden's current planned endeavours lead somewhere...</td>
+  <td>[See first instance]</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td>What led you to enlist with the Authority?</td>
+  <td>What was it like, studying in the Citadel?</td>
+  <td>May I ask you something else, ma'am?</td>
+  <td>I think that's all for now, ma'am. Thank you.</td>
+  <td colspan="4"></td>
+  <td colspan="2"></td>
+  <td>May I ask you something else, ma'am?</td>
+</tr>
+<tr>
+  <td colspan="4"></td>
+  <td colspan="4">[See first instance]</td>
+  <td colspan="4"></td>
+  <td colspan="2"></td>
+  <td>[See first instance]</td>
 </tr>
 </tbody>
 </table>
@@ -254,7 +346,10 @@ This dialogue is unlocked after speaking with [Milgram](Milgram.md).
   <td><i>*Upon your approach, she exhales, her previous tension released. She only permits a small, taut smile, but certainly relaxes in your presence, as you exchange easy salutes.*</i> [Last Name], it's good to see you again. And you seem to be doing well. I do hope you aren't too burdened with how antsy the interrogators have gotten - I'm deeply sorry that I don't really have the spare time to help you. Is there something you'd like to talk about?</td>
 </tr>
 <tr>
-  <td>I</td>
+  <td>May I ask you something, ma'am?</td>
+</tr>
+<tr>
+  <td>[See first instance]</td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>

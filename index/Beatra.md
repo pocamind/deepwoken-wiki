@@ -1,6 +1,6 @@
 ---
 title: Beatra
-revid: 199030
+revid: 200609
 source: https://deepwoken.fandom.com/wiki/Beatra
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Tiran NPCs, Pathfinder Exclusive, Attunement Trainers, NPCs]
@@ -79,8 +79,6 @@ In order to obtain [Shadowcast](Shadowcast.md), you must find [Nostor, Master of
 </tr>
 </tbody>
 </table>
-
-  
 
 ## Trivia
 
