@@ -1,6 +1,6 @@
 ---
 title: Loot Bag Gacha
-revid: 200580
+revid: 200592
 source: https://deepwoken.fandom.com/wiki/Loot_Bag_Gacha
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Articles with conjectural titles, Pathfinder Exclusive, NPCs, Mechanics, Quests, Vendors]
@@ -14,7 +14,7 @@ notices:
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-In various locations throughout both seas, certain NPCs can be spotted holding large bags. These NPCs offer random, low-tier loot correlating with their location, for a fee of 350. This is often considered a bad deal, since the loot always sells for less than ,350 and can be obtained from any chest in that area.
+In various locations throughout both seas, certain NPCs can be spotted holding large bags. These NPCs offer random, low-tier loot correlating with their location, for a fee of 350. This is often considered a bad deal, since the loot always sells for less than,350 and can be obtained from any chest in that area.
 
 Judging by their outfits and dialogue, these are [Bandit Leaders](Bandit_Leader.md) who figured out an easy method of making money - by scamming poor souls.
 
@@ -31,6 +31,8 @@ Erisae.
 -   [Gilded Knife](Gilded_Knife.md)
 -   [Iron Pauldrons](Iron_Pauldrons.md)
 -   [Falchion](Falchion.md)
+
+  
 
 ## Kujae
 
@@ -66,24 +68,6 @@ Jeandae
 -   [Glassdancer Wraps](Glassdancer_Wraps.md)
 -   [Royal Duelist](Royal_Duelist.md)
 -   [The Barrel](The_Barrel.md)
-
-## Malisae
-
-An NPC located at [Miner's Landing](<Miner's_Landing.md>).
-
-Malisae
-
-### Lootpool
-
--   [Darksteel Greatsword](Darksteel_Greatsword.md)
--   [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)
--   [Mercenary's Boots](<Mercenary's_Boots.md>)
--   [Mercenary's Garb](<Mercenary's_Garb.md>)
--   [Nemit's Sickle](<Nemit's_Sickle.md>)
--   [Nomad Pendant](Nomad_Pendant.md)
--   [Old World Greatshield](Old_World_Greatshield.md)
--   [Vigil Longsword](Vigil_Longsword.md)
--   Duelists Mask
 
 ## Marae
 
@@ -142,12 +126,12 @@ Marae
   <td colspan="6">Simple! I wait for sorry souls like you to drop dead around here, and take anything cool looking off the corpse. Clever, right?</td>
 </tr>
 <tr>
-  <td>[End Dialogue]</td>
+  <td colspan="6">[End Dialogue]</td>
 </tr>
 </tbody>
 </table>
 
 ## Trivia
 
--   [Jeremiah](Jeremiah.md), located in the City of the Drowned in the [First Layer](First_Layer.md), serves a similar purpose, instead taking [Gems](Treasures.md).
+-   [Jeremiah](Jeremiah.md), located in the [City of the Drowned](The_City_of_the_Drowned.md) in the [First Layer](First_Layer.md), serves a similar purpose, instead taking [Gems](Treasures.md).
 -   Often seen as a rip-off, as the price of 350 Notes may be rather steep considering the usually lackluster loot that can more easily be obtained by grinding

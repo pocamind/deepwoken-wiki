@@ -1,6 +1,6 @@
 ---
 title: Songseeker Wilds
-revid: 199872
+revid: 200602
 source: https://deepwoken.fandom.com/wiki/Songseeker_Wilds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant]
@@ -43,8 +43,6 @@ It consists of 2 land masses, a smaller and larger one, separated by the ocean.
 ### Large Island
 
 #### Mineshaft
-
-Shrine of Order path
 
 -   There are a lot of trees bearing [Fruit](Ingredients.md#fruits), ranging from [Redds](Redd.md), [Plumfruits](Plumfruit.md), and [Pomars](Pomar.md).
 -   A larger mineshaft with [Mineskippers](Mudskipper.md#mineskipper) littering the cave.

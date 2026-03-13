@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 200530
+revid: 200606
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -3860,6 +3860,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Twisted Puppets has two different burn types. They both look identical and they **both** scale on your Flamecharm investment, deal Flamecharm damage, and _drain_ 6.25 Ether per tick from affected players.
         -   Shadow damage from any source applies **Shadow Burn**. Shadow Burn does 75% less damage than base Flamecharm burn. This burn type cannot be applied to knocked targets.
         -   Anything that would normally apply burn applies **Puppet Burn**. Puppet Burn does 87.5% less damage than base Flamecharm burn. Puppet Burn allows you to spawn Puppets.
+        -   Both these damage multipliers are applied after other damage boosters such as Ash Ember thus working extremely poorly with it.
     -   Puppets deal 20 **typeless** damage with **no** innate investment scaling. Because Puppets deal typeless damage, they **bypass** armor resistances and Everchanging Aegis. They do **NOT** do True Damage however, as general resistances still work on them.
     -   Puppet damage can be increased with damage modifiers. Additionally, Puppet damage is reduced when it's raining unless you have the Unyielding Inferno Talent.
     -   Puppets deal 10 posture damage.

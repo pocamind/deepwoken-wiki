@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 199139
+revid: 200604
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1287,7 +1287,10 @@ These Talents are found in the _Withered Flame_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Ash Flame  
-(90 Flamecharm, 90 Weapon) | The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals. | N/A |
+(90 Flamecharm, 90 Weapon) | The more [wither](Status_Effects.md#wither) your opponent has, the more damage your burn deals.
+Applies after modifiers so works extremely poorly with twisted puppets but well with Azure Flame.
+
+ | N/A |
 |  | Scorching Decay  
 (100 Flamecharm, 100 Weapon, Emperor Flame) | The [wither](Status_Effects.md#wither) dealt from your Emperor's Flame is massively increased. |
 
@@ -1298,8 +1301,8 @@ These Talents are found in the _Twisted Puppets_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Wraith Path: Twisted Puppets  
-(40 Flamecharm, 40 Shadowcast) | Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. | Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** 6.25 Ether from affected targets per tick.
-Puppets deal 20 _typeless_ damage with no innate investment scaling and 10 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
+(40 Flamecharm, 40 Shadowcast) | Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. | Shadowcast damage from any source applies Shadow Burn doing 75% less damage than base burn, anything that would normally apply burn applies Puppet Burn doing 87.5% less damage than base burn. These damage modifiers on the flame is applied after flame increases so it works extremely poorly with Ash Ember.
+Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** 6.25 Ether from affected targets per tick. Puppets deal 20 _typeless_ damage with no innate investment scaling and 10 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
 
  |
 |  | Burning Puppets  

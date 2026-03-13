@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 200531
+revid: 200581
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -247,8 +247,8 @@ Applied when you get hit by a [Bloodrend](Bloodrend.md) Mantra. Signified by a t
 
 -   At 20% Blood Poisoning, [Vasculitis](Talents.md#vasculitis) Talent is activatable, disabling your opponent's ability to proc [Deep Gems](Deep_Gems.md) after you hit them. In PvE this also gives you [Gem Enhancement](#gem-enhancement) for a short duration.
 -   At 25% Blood Poisoning, [Hemolysis](Talents.md#hemolysis) Talent is activatable, granting you a 20% critical damage bonus when hitting someone at or above 25% BP.
--   At 40% Blood Poisoning, Enemies are under an Anti-Heal effect.
--   At 50% Blood Poisoning, Enemies have their damage reduced.
+-   At 40% Blood Poisoning, Enemies receive 25% less healing.
+-   At 50% Blood Poisoning, Enemies have their damage reduced by 12.5%.
 -   At 60% Blood Poisoning, [Bloodwarden's Sense](Talents.md#bloodwardens-sense) Talent is activatable, highlighting enemies when you hit them.
 -   At 70% Blood Poisoning, [_**Gruesome Harvest**_](Talents.md#gruesome-harvest) Talent is activatable, granting you 15 Temporary Health when hitting people at or above 70% BP with Bloodrend Mantras.
 

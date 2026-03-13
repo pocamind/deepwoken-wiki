@@ -1,6 +1,6 @@
 ---
 title: Shadowcast
-revid: 200430
+revid: 200605
 source: https://deepwoken.fandom.com/wiki/Shadowcast
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -1025,7 +1025,7 @@ These Talents are found in the _Twisted Puppets_ category.
 | Media | Talent | Card Description | Effects |
 | --- | --- | --- | --- |
 |  | Wraith Path: Twisted Puppets  
-(40 Flamecharm, 40 Shadowcast) | Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. | Shadowcast damage from any source applies Shadow Burn, anything that would normally apply burn applies Puppet Burn. Puppet burn spawns Puppets, both deal Flamecharm damage, and both **drain** 6.25 Ether from affected targets per tick.
+(40 Flamecharm, 40 Shadowcast) | Your Flamecharm mantras summon puppets of shadow and flame. Your flames are now black. | Shadowcast damage from any source applies Shadow Burn doing 75% less damage than base burn, anything that would normally apply burn applies Puppet Burn doing 87.5% less damage than base burn. These damage modifiers on the flame is applied after flame increases so it works extremely poorly with Ash Ember.
 Puppets deal 20 _typeless_ damage with no innate investment scaling and 10 posture damage. Puppet spawning has a 4 second cooldown. Your Flamecharm Mantras, Burn, Flamecharm Legendary [Weapons](Weapons.md#elemental) turn black.
 
  |

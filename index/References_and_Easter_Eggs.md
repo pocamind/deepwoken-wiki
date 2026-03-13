@@ -1,6 +1,6 @@
 ---
 title: References and Easter Eggs
-revid: 200535
+revid: 200582
 source: https://deepwoken.fandom.com/wiki/References_and_Easter_Eggs
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -198,29 +198,30 @@ This is a page dedicated to all of the easter eggs and references to other works
 
 ## Weapons
 
--   The old model of **Divine Spear's** model resembles the [Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear) from _Genshin Impact._
--   The model of **Divine Longsword** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
--   **Rifle Spear** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
+-   The old model of **[Divine Spear](Crazy_Slots.md)'s** model resembles the [Primordial Jade Winged-Spear](https://genshin-impact.fandom.com/wiki/Primordial_Jade_Winged-Spear) from _Genshin Impact._
+-   The model of **[Divine Longsword](Crazy_Slots.md)** resembles the unsealed version of [Excalibur Proto](https://typemoon.fandom.com/wiki/Excalibur_Proto), a weapon from the _Fate_ series.
+-   **[Rifle Spear](Rifle_Spear.md)** is a reference to the [weapon with the same name](https://bloodborne.wiki.fextralife.com/Rifle+Spear) from _Bloodborne_.
     -   The original model was a direct copy of it.
--   The **Obfuscation** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
--   **Petra's Anchor** is a reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
+-   The **[Obfuscation](Obfuscation.md)** enchant is a possible reference to [Saber's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Invisible Air](https://typemoon.fandom.com/wiki/Invisible_Air) from the _Fate_ series.
+-   **[Petra's Anchor](<Petra's_Anchor.md>)** is a reference to [May](https://www.dustloop.com/wiki/index.php?title=GGST/May) from _Guilty Gear_.
     -   Its critical attack lunge the user forward, which makes it more in line with May's Mr. Dolphin attack, more commonly known as "TOTSUGEKI!".
--   The [Railblade](Railblade.md)'s critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
+-   The [Railblade](Railblade.md)**[Railblade](Railblade.md)'**s critical attacks, both ground and mid-air, are based on moves from [Kyojuro Rengoku](https://animebattlearenaaba.fandom.com/wiki/Kyojuro_Rengoku?so=search) from [Anime Battle Arena](https://animebattlearenaaba.fandom.com/f).
 -   The **[Krulian Knife](Krulian_Knife.md)** has the exact same design as [Chrollo's](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer) [knife](https://hunterxhunter.fandom.com/wiki/Chrollo_Lucilfer#Equipment) in _Hunter × Hunter._
 -   The **[Shattered Katana](Shattered_Katana.md)** is a reference to [the black mortal blade](https://sekiroshadowsdietwice.wiki.fextralife.com/Black+Mortal+Blade) that was used by [Genichiro](https://sekiroshadowsdietwice.wiki.fextralife.com/Genichiro+Ashina) from _Sekiro._
 -   The older model of **Curved Blade of Winds** along with its aftercut effect may be a possible reference to [Windshear](https://elderscrolls.fandom.com/wiki/Windshear), a scimitar from _The Elder Scrolls V: Skyrim._
     -   The current model was inspired by the [Seedler](https://terraria.fandom.com/wiki/Seedler) from _Terraria_.[\[2\]](#cite-note-2)
--   The critical attack for the **Gremorian Longspear** may be a reference to Chain Pull, a move used by Deep Knights in Rogue Lineage.
+-   The critical attack for the **[Gremorian Longspear](Gremorian_Longspear.md)** may be a reference to Chain Pull, a move used by Deep Knights in [Rogue Lineage](https://rogue-lineage.fandom.com/f).
 -   The **[Stormseye](Stormseye.md)** is inspired by the [Touch of Malice](https://destiny.fandom.com/wiki/Touch_of_Malice) from Destiny and the [Wunderwaffe DG-2](https://callofduty.fandom.com/wiki/Wunderwaffe_DG-2) from Call of Duty.
 -   **[Ysley's Pyre Keeper](<Ysley's_Pyre_Keeper.md>)** is a reference to the [Farron Greatsword](https://darksouls.fandom.com/wiki/Farron_Greatsword) from _Dark Souls III_ and it's fire infused state used by the [Abyss Watchers](https://darksouls.fandom.com/wiki/Abyss_Watchers) during their second phase.
 -   The **[Imperial Staff](Imperial_Staff.md)** is inspired by Sun Wukong's 'Ruyi Jingu Bang', including the little effects around the head the staff gives you imitating the controlling crown _Sun Wukong_ wore.
 -   The **[Death's Reverie](<Death's_Reverie.md>)'s** description reads "Have the lambs stopped screaming?" which is a line from the film _[The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs)_.
+-   The **[Drakemaw Gauntlets](Drakemaw_Gauntlets.md)** is inspired by Gaster Blasters in the fight with Sans from [Undertale](https://undertale.wiki/).
 
 ## Enchantments
 
--   **Stormbreaker** is a reference to the weapon used by Thor of the same name from _Marvel Comics_.
--   **Elastic** is a reference to [Hisoka's](https://hunterxhunter.fandom.com/wiki/Hisoka_Morow) Bungee Gum from _Hunter × Hunter_.
--   **Obfuscation** and **Heroism** are references to [Artoria Pendragon's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Excalibur](https://typemoon.fandom.com/wiki/Excalibur?so=search) from the _Fate_ franchise.
+-   **[Stormbreaker](Stormbreaker.md)** is a reference to the weapon used by Thor of the same name from _Marvel Comics_.
+-   **[Elastic](Elastic.md)** is a reference to [Hisoka's](https://hunterxhunter.fandom.com/wiki/Hisoka_Morow) Bungee Gum from _Hunter × Hunter_.
+-   **[Obfuscation](Obfuscation.md)** and **[Heroism](Heroism.md)** are references to [Artoria Pendragon's](<https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)>) [Excalibur](https://typemoon.fandom.com/wiki/Excalibur?so=search) from the _Fate_ franchise.
 -   [Multiple enchants are taken directly](https://pixeldungeon.fandom.com/wiki/Enchantment) from _Pixel Dungeon. A list of these are..._
     -   Blazing.
     -   Grim.
