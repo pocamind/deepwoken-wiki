@@ -1,6 +1,6 @@
 ---
 title: Antiquarian
-revid: 191314
+revid: 200744
 source: https://deepwoken.fandom.com/wiki/Antiquarian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Vendors]
@@ -13,7 +13,7 @@ categories: [NPCs, Vendors]
 | npcname | Antiquarian |
 | location | Etris, Isle of Vigilis, Greathive Aratel, Summer Isle, Miner's Landing, Fort Merit, Castle Light, Voidheart, The Floating Keep, Player Guild Base |
 
-**Antiquarians** are NPCs that will purchase various items and they can be found in settlements.
+**Antiquarians** are NPCs that will purchase various items, and they can be found in settlements.
 
 ## Overview
 
@@ -33,6 +33,7 @@ They can be found in:
 -   [Voidheart](Voidheart.md) (next to the spawn, opposite side of the [bounty board](Bounty_Hunting.md)).
 -   [The Floating Keep](The_Floating_Keep.md)
 -   [Player Guild Base](Guild_Bases.md) (right next to the stairs at the entrance, however only if your guild base has a total of 9 rooms - this can be checked by counting them or, more easily, clicking your guild’s icon on the leaderboard.)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
 
 ## Prices
 

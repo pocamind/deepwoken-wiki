@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 200284
+revid: 200746
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -73,17 +73,15 @@ _For a showcase of all enchants in action, view [this video.](https://youtu.be/Y
 
 File:Astral.gif
 
-_Grants +20% weapon damage in PvE (can be increased to 25% with [Celestial Boots](Celestial_Boots.md)). Call down stars alongside your critical attacks, and after parrying thrice._
+_Grants +20% weapon damage in PvE. Call down stars alongside your critical attacks, and after parrying thrice._
 
  | 
 
 **Effect:**
 
-Gain a +20% damage buff to your M1s in PvE (25% with [Celestial Boots](Celestial_Boots.md)). This bypasses both the soft and hard damage modifier caps.
+Gain a +20% damage buff to your M1s in PvE. This bypasses both the soft and hard damage modifier caps.
 
 Upon landing your critical attack or parrying 3 times in a row, a star will rain down and explode, dealing 4% health damage in PvP or 100 PvE damage in a small AoE.
-
-([Celestial Boots](Celestial_Boots.md) do not buff the stars damage).
 
 **Obtainment:**
 
@@ -713,7 +711,7 @@ Obfuscation [Enchant Stone](Enchant_Stone.md):
 
 File:Parasol's Blight.gif
 
-_Hitting a player infects their body with Parasol's Blight. If a player who is infected is killed, their corpse is turned into one of the Parasol's Minions._
+_Hitting a player infects their body with Parasol's Blight. If a player who is infected is killed, their corpse is turned into one of the Parasol's Minions. This also has a chance of proccing on PvE enemies you kill._
 
  | 
 
@@ -1258,7 +1256,7 @@ Your weapon's base damage is tied to your current [Notes](Notes.md).
 
 Your weapon's base damage is reduced by 15%. For every Note you have, your weapon's base damage will be increased by 0.002%, capping at +15% base damage with 15k Notes.
 
-Upon taking damage from a player, lose 100 Notes. Upon dealing damage to a player, steal 50 of their Notes. Both of these effects are signified by a coin splash sound effect.
+Upon taking damage from a player, lose 100 Notes, signified by a coin splash sound effect.
 
 **This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
 
@@ -1484,7 +1482,7 @@ Curse of the Unbidden [Enchant Stone](Enchant_Stone.md):
 
 File:Curse of Void Battleaxe.gif
 
-_Every enemy you slay while equipping this weapon will always be Drowned. Enemies hit will also experience reduced healing._
+_Every enemy you slay while equipping this weapon will always be Drowned. Enemies hit will also experience reduced healing. It also applies 10 seconds of [Ether Sunder](Status_Effects.md#ether-sunder) to PvE enemies._
 
  | 
 

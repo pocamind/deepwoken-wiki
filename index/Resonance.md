@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 197279
+revid: 200738
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -281,6 +281,7 @@ In accordance with the old pre-[Verse 2](Verse_2.md) rule of wishes, players wil
 -   Sometimes if you go **Boss Path**, the path can change into depths, the cause of this is unknown.
 -   Bosses are the most efficient way to gain bell progression.
 -   Being a deepbound and having depths path is usually enough to get your **resonance** just by reaching lvl 20.
+-   Within the [Second Layer of the Depths](Second_Layer.md) exists a set of three Resonance doors under [Firfire](Firfire.md), which have a unique orange-coloration; the significance of this is unknown, but it is theorized that they were created by the _[unique Flamecharmer](Aska.md) behind the doors, who awaits the arrival of their [lord](Amorus_Pleeksty.md)_
 
 ## References
 

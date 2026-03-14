@@ -1,6 +1,6 @@
 ---
 title: Hunting Bow
-revid: 198766
+revid: 200755
 source: https://deepwoken.fandom.com/wiki/Hunting_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Medium Weapons, Bows]
@@ -19,7 +19,8 @@ categories: [Weapons, Medium Weapons, Bows]
 | range | 12 Lunge |
 | swing speed | 1x |
 | attack duration | 0.6s |
-| m.equip | No |
+| penetration | 5% |
+| m.equip | Yes |
 | m.extract | No |
 | stances | 2 Handed |
 | rarity | Common |

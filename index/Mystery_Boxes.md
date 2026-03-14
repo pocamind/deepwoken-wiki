@@ -1,9 +1,9 @@
 ---
 title: Mystery Boxes
-revid: 200700
+revid: 200763
 source: https://deepwoken.fandom.com/wiki/Mystery_Boxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
+categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mechanics]
 notices:
   - This page is currently being worked on. Some things may be incomplete.
 ---

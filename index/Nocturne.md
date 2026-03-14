@@ -1,6 +1,6 @@
 ---
 title: Nocturne
-revid: 200693
+revid: 200762
 source: https://deepwoken.fandom.com/wiki/Nocturne
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, Weapons with Unique Criticals, "Dual-wielded Weapons", Medium Weapons]
@@ -45,6 +45,7 @@ The user stabs the opponent in a short range after a very slow wind-up and appli
 
 -   Nocturne originates from the game [Kill Simulator](https://www.roblox.com/games/13997333541/Kill-Simulator) by Toons Incorporated.[\[1\]](#cite-note-1)
 -   Prior to the October 26th, 2024 update, enchantments put on Nocturne applied to only one of the blades instead of both.
+-   The Nocturne was used in the Lightborne Tournament by Agamatsu's Father, Feras. When he won he stated "All this and I'm still 600 elo..."
 -   Nocturne was created on July 6th, 2023 which can be fact checked by viewing the date the mesh was created.[\[2\]](#cite-note-2)
     -   At the same time the Nocturne was published, a sheath model was also made.
     -   The sheathe is visible when the [Obfuscation](Obfuscation.md) or [Curse of Yun'Shul](<Curse_of_Yun'Shul.md>) enchants are applied on this weapon.

@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 198133
+revid: 200760
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -216,7 +216,7 @@ _**NOTE:** The message that appears when training an attunement, "The elements a
 
 -   Increases damage scaling of [Bloodrend](Bloodrend.md) mantras.
     -   Unlocks [Bloodrend Talents](Bloodrend.md#talents).
-    -   No currently known side effects.
+    -   The ability to trigger Hemorrhaging in PvE, and increase the damage of Hemorrhaging
 -   Gain Bloodrend EXP by dealing damage to enemies with Bloodrend mantras, using the [Tourniquet](Training_Gear.md#attunement-training-gears), or eating [Heartstars](Heartstar.md) (Not recommended, since they're extremely difficult to obtain).
 
 ## Tips

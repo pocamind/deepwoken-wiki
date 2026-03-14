@@ -1,6 +1,6 @@
 ---
 title: Coldpoint
-revid: 198684
+revid: 200754
 source: https://deepwoken.fandom.com/wiki/Coldpoint
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weapons with Talents, Rapiers, Light Weapons]
@@ -11,7 +11,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | Coldpoint | |
 |---|---|
 | type | Rapier |
-| damage type | Rapier \| Light \| Slash |
+| damage type | Slash |
 | requirements | 25 ICE; 70 LHT |
 | damage | 15 |
 | scaling | 4 ICE; 7 LHT |
@@ -30,7 +30,7 @@ categories: [Weapons, Criticals with M1 tag, Weapons with Unique Criticals, Weap
 | enchantable | No |
 | pass down | No |
 | obtainment | Kyrsgarde Champion |
-| description | Harvested from the upper crust of the Second Layer, this long icicle is kept forever frozen by a vow. and bears a Kyrsan ice brand on its hilt. Before Ethiron's arrival, such weapons were made as light training blades for Kyrsans -though in our hands, we need not show such restraint. |
+| description | Harvested from the upper crust of the Second Layer, this long icicle is kept forever frozen by a vow, and bears a Kyrsan ice brand on its hilt. Before Ethiron's arrival, such weapons were made as light training blades for Kyrsans -though in our hands, we need not show such restraint. |
 
 ## Description
 

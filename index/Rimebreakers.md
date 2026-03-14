@@ -1,6 +1,6 @@
 ---
 title: Rimebreakers
-revid: 200444
+revid: 200753
 source: https://deepwoken.fandom.com/wiki/Rimebreakers
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Fists, "Weapons with Multi-Attunement Scaling", Weapons with Talents, Weapons with Unique Criticals]
@@ -10,14 +10,18 @@ categories: [Pathfinder Exclusive, Weapons, Criticals with M1 tag, Fists, "Weapo
 
 | Rimebreakers | |
 |---|---|
-| type | Fist \| Light \| Blunt |
+| type | Fist |
+| damage type | Blunt |
 | requirements | 50 ICE; 50 LHT, 50 WND |
 | damage | 16.5 |
 | scaling | 3.5 WND; 5 LHT; 3.5 ICE |
+| posture damage | 5 |
 | range | 6 Sweep |
 | swing speed | 1.1x |
+| attack duration | 0.5s |
 | penetration | 5% |
 | talent | Fortify |
+| stances | 1 Handed |
 | rarity | Legendary |
 | selling price | 50 |
 | weight | 2 |

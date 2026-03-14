@@ -1,6 +1,6 @@
 ---
 title: Terminology (game)
-revid: 184120
+revid: 200759
 source: https://deepwoken.fandom.com/wiki/Terminology_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Deepwoken]
@@ -575,7 +575,7 @@ _noun_
 
 1.  Refers to [Primadon](Primadon,_Titan_of_the_East.md).
 
-### Prim
+### Prima
 
 _noun_
 
@@ -705,7 +705,7 @@ _noun, verb_
 
 _noun_
 
-1.  A type of build, usually using the [Jetstriker](Oath%253A_Jetstriker.md) Oath, that specializes in movement speed, either to run away from opponents in PvP or to make traversal across the game faster.
+1.  A type of build, usually using the [Jetstriker](Oath%253A_Jetstriker.md) Oath, that specializes in movement speed, most commonly used to prevent teammates from being gripped and to get both players out of danger.
     1.  Ex. "I hate trackstar builds, they're so annoying!!!"
 
 ### Vantablack
@@ -904,7 +904,7 @@ _noun_
 _noun_
 
 1.  Short form for [Reinforced Armor](https://deepwoken.fandom.com/wiki/Talents#:~:text=Reinforced%20Armor), a Talent that reduces all incoming PEN by 30%.
-    1.  Ex. "If you take RA preshrine I'm going to wipe you"
+    1.  Ex. "Do not forget to get RA before using Shrine of Order."
 
 ### Run a 1/Run \[the\] 1's
 

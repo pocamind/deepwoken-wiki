@@ -1,9 +1,9 @@
 ---
 title: Simmerbloom Diadem
-revid: 198041
+revid: 200736
 source: https://deepwoken.fandom.com/wiki/Simmerbloom_Diadem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Ornaments]
+categories: [Equipment, Head, Ornaments, The Covenant of Flame]
 ---
 
 # Simmerbloom Diadem
@@ -30,7 +30,7 @@ The **Simmerbloom Diadem** is an [Equipment](Equipment.md) item under the "Head"
 
 [Simmerbloom](Talents.md#simmerbloom) augments your [Pleeksty's Inferno](<Pleeksty's_Inferno.md>), allowing your M1s to apply burn or proc Eruptions on hit.
 
-This inflicts burn on downed people, making it a good option to keep up pressure in multiplayer fights, especially in tandem with the [Deepfire Ring](Deepfire_Ring.md) item and [Corpse Explosion](Talents.md#corpse-explosion) Talent.
+This includes inflicting burn on downed people, making it a good option to keep up pressure in multiplayer fights, especially in tandem with the [Deepfire Ring](Deepfire_Ring.md) item and [Corpse Explosion](Talents.md#corpse-explosion) Talent.
 
 ## Trivia
 
