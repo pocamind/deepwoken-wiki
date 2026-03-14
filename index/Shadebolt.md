@@ -1,6 +1,6 @@
 ---
 title: Shadebolt
-revid: 198450
+revid: 200770
 source: https://deepwoken.fandom.com/wiki/Shadebolt
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement-based Weapons", Bows]
@@ -20,6 +20,8 @@ categories: [Weapons, Weapons with Unique Criticals, Medium Weapons, "Attunement
 | swing speed | 1x |
 | attack duration | 0.6 |
 | penetration | 10% |
+| m.equip | Yes |
+| m.extract | No |
 | stances | 2 Handed |
 | rarity | Mythical |
 | selling price | 100 |

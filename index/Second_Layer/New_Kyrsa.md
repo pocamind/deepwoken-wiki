@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 200682
+revid: 200784
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -141,7 +141,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 
 ### Medallion Chest
 
--   5-9 [Kyrsan Medallions](../Kyrsan_Medallions.md)
+-   15-18 [Kyrsan Medallions](../Kyrsan_Medallions.md)
 
 ### From Scion of Ethiron only
 

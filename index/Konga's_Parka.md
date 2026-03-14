@@ -1,6 +1,6 @@
 ---
 title: "Konga's Parka"
-revid: 200694
+revid: 200792
 source: https://deepwoken.fandom.com/wiki/Konga's_Parka
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Parkas]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 3,000 , Exchanging treasure sacks with a Chest Master |
+| obtainment | Sold in Naan Zakshun's black market for 3,000 , Exchanging treasure sacks with a Chest Master, Mystery Boxes |
 | description | An essential winter coat to protect you against the cold. |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

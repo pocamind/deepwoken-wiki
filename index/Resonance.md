@@ -1,6 +1,6 @@
 ---
 title: Resonance
-revid: 200738
+revid: 200778
 source: https://deepwoken.fandom.com/wiki/Resonance
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Resonances, Mechanics]
@@ -59,6 +59,7 @@ These Resonances are exclusive to NPCs, bosses, or developers and cannot be acqu
 -   Unnamed Resonance- [Reclaimer of the Recollection](Reclaimer_of_the_Recollection.md)
 -   Unnamed Resonance- [High Monk Junsui](High_Monk_Junsui.md)
 -   Unnamed Resonance- [Sentinel Faris Kesset](Sentinel_Faris_Kesset.md)
+-   Unnamed Resonance- [High Inquisitor Mordred Hirculi](High_Inquisitor_Mordred_Hirculi.md)
 
 ## Overview
 

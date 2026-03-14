@@ -1,6 +1,6 @@
 ---
 title: Black Death
-revid: 200352
+revid: 200773
 source: https://deepwoken.fandom.com/wiki/Black_Death
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
@@ -30,7 +30,7 @@ categories: [Weapons, Criticals with M1 tag, Reforged Weapons]
 | bankable | Yes |
 | droppable | No |
 | enchantable | No |
-| pass down | Yes |
+| pass down | No |
 | obtainment | Interacting with the Lost Forge with Red Death |
 | description | Tool of the Ministry. Unlike its counterpart this pike cares not for the mess it intends to leave behind. |
 

@@ -1,6 +1,6 @@
 ---
 title: Hunting Bow
-revid: 200755
+revid: 200769
 source: https://deepwoken.fandom.com/wiki/Hunting_Bow
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Medium Weapons, Bows]
@@ -39,7 +39,7 @@ The Hunting Bow is a medium [Bow](https://deepwoken.fandom.com/wiki/Weapons#Bows
 
 ## Critical
 
-The Hunting Bow uses the default Bow critical, pulling back the bow before firing a ranged shot. It has a scaled damage modifier of **1.25x** and a cooldown of **7 seconds.**
+Hunting Bow uses the default Bow critical, pulling back the bow before firing a ranged shot. It has a scaled damage modifier of **1.25x** and a cooldown of **7 seconds**.
 
 ## Trivia
 
