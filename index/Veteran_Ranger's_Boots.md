@@ -1,6 +1,6 @@
 ---
 title: "Veteran Ranger's Boots"
-revid: 190113
+revid: 200666
 source: https://deepwoken.fandom.com/wiki/Veteran_Ranger's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
@@ -23,7 +23,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 3,000 |
+| obtainment | Sold in Naan Zakshun's black market for 3,000 , Mystery Boxes |
 | description | ... |
 
 Variants: [Ranger's Boots](<Ranger's_Boots.md>)

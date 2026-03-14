@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 199090
+revid: 200682
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer, Dungeons]

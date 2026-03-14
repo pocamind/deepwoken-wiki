@@ -1,6 +1,6 @@
 ---
 title: Deepwoken
-revid: 197885
+revid: 200651
 source: https://deepwoken.fandom.com/wiki/Deepwoken
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links]
@@ -23,8 +23,9 @@ There are three known Deepwoken, all likely well over a thousand years old.
 -   [Amorus Pleeksty](Amorus_Pleeksty.md)
     -   Pleeksty ate a part of [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>) in the form of a meteor flower. He received pyrokinetic powers, leading to the invention of the [Flamecharm](Flamecharm.md) Attunement.
 -   [The First Prophet](https://deepwoken.fandom.com/wiki/Lore#The_First_Prophet) of [The Ministry](The_Ministry.md)
-    -   We don't know what Drowned God he merged with to become a Deepwoken, but we know that he isn't human anymore due to the physical changes of becoming one. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2) Theorized to have brought Shadowcast upon the world, similar to Pleeksty and/or control water magic[\[3\]](#cite-note-3) due to his inhumanity
+    -   We don't know what Drowned God he merged with to become a Deepwoken, but we know that he isn't human anymore due to the physical changes of becoming one. His powers are unknown, but he would be able to defeat Pleeksty.[\[2\]](#cite-note-2) Theorized to have brought [Shadowcast](Shadowcast.md) upon the world, similar to Pleeksty and/or control water magic[\[3\]](#cite-note-3) due to his inhumanity
 -   [Drallis Ehr](Drallis_Ehr.md) of [The Central Authority](The_Central_Authority.md)
+    -   The presumed Deepwoken of [Thundercall](Thundercall.md)
     -   Both the details of The Drowned God they ate and Drallis' powers are unknown.[\[4\]](#cite-note-4)
 
 ## Trivia

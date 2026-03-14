@@ -1,6 +1,6 @@
 ---
 title: "Heretic's Moonseye Gauntlets"
-revid: 189977
+revid: 200640
 source: https://deepwoken.fandom.com/wiki/Heretic's_Moonseye_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Exchanging treasure sacks with a Chest Master |
 | description | Gauntlets fashioned with a Moonseye motif. The watchful eye of gloamdark sky, the Moonseye has long been associated with life, death, and rebirth. In the Southern Luminant, the Moonseye was thought of as a lens through which one's dearly departed ancestors might view them from the afterlife. Moonseye charms were often woven into clothing to remember the fallen. Some organised gangs in the City of Celtor would refrain from committing crimes in the view of the Moonseye, on the premise that their ancestors were watching. Of course, dark alleyways and warehouses are often free from its gaze. |
 
 Variants: [Moonseye Gauntlets](Moonseye_Gauntlets.md)

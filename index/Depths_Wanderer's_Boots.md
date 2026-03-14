@@ -1,6 +1,6 @@
 ---
 title: "Depths Wanderer's Boots"
-revid: 189992
+revid: 200668
 source: https://deepwoken.fandom.com/wiki/Depths_Wanderer's_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Legs, Boots]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Sold in Naan Zakshun's black market for 2,300 |
+| obtainment | Sold in Naan Zakshun's black market for 2,300 , Mystery Boxes |
 | description | ... |
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  

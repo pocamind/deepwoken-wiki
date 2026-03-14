@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 200558
+revid: 200687
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -791,7 +791,7 @@ A Summer Company Member.
 
 ### The Ministry [Ministryiconfaction](The_Ministry.md)
 
-_"Celtor will repeat itself here... The world will fall under The Depths..." - Dark Mage Cultist_
+_"Celtor will repeat itself here... The world will fall under The Depths..." - Ministry Scout/Necromancer_
 
 -   **Territory:** _Minityrsa_
 -   **Encountered In**: _[Minityrsa](Minityrsa.md), [Summer Isle](Summer_Isle.md)_

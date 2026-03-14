@@ -1,6 +1,6 @@
 ---
 title: Hybrid Abilities
-revid: 200458
+revid: 200650
 source: https://deepwoken.fandom.com/wiki/Hybrid_Abilities
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras, Character, Attunement, Mechanics]
@@ -740,6 +740,13 @@ Very few [Oaths](Oaths.md) require the combination of several Attunements to be 
   40 Frostdraw</td>
   <td>Landing a critical with a Static Link on your opponent applies Chilled.</td>
   <td>Chilled lasts for 7 seconds, additionally it can proc Bottom Freeze. No synergy with Crystallization Path.</td>
+</tr>
+<tr>
+  <td>Golden Age<br>
+  <sup>[Crystalline Gold]</sup></td>
+  <td>Gilded Path: Scrapsinger, Glass Path: Crystallization, Surge Path: Unstable Capacitor</td>
+  <td>Your Iron Pull now detonates Crystals and overloads Surges.</td>
+  <td>Your Iron Pull now causes a Crystal Detonation and Surge Overload.</td>
 </tr>
 </tbody>
 </table>

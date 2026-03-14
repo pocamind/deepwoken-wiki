@@ -1,6 +1,6 @@
 ---
 title: Pale Briar
-revid: 199341
+revid: 200659
 source: https://deepwoken.fandom.com/wiki/Pale_Briar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Criticals, Heavy Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Animations]
@@ -32,7 +32,7 @@ categories: [Weapons, Criticals with M1 tag, Greataxes, Weapons with Unique Crit
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Beating Maestro Evengarde Rest with a heavy weapon and Silentheart or Heavy Weapon Unbound, Chest from Maestro Evengarde Rest |
+| obtainment | Beating Maestro Evengarde Rest with a heavy weapon and Silentheart or Heavy Weapon Unbound, Chest from Maestro Evengarde RestVow of Iron:, Mystery Boxes |
 | description | Staff of a Cardinal of the Starkindred Church, said to be coated in Celestial Ichor to grant it the investment of the Stars. This particular iteration fell into the hands of the Maestro during his training with the Legions in an excursion against the Starkindred Church. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Royal Commander Helm
-revid: 195359
+revid: 200648
 source: https://deepwoken.fandom.com/wiki/Royal_Commander_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Exchanging treasure sacks with a Chest Master |
 | description | ... |
 
 Variants: [Celtor Commander Helm](Celtor_Commander_Helm.md)

@@ -1,6 +1,6 @@
 ---
 title: "Well-tended Gravestone"
-revid: 199825
+revid: 200685
 source: https://deepwoken.fandom.com/wiki/Well-tended_Gravestone
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Vow of Iron Exclusive, NPCs, NPCs located in the Etrean Luminant, Quests]
@@ -43,7 +43,7 @@ Well-tended Gravestone is located in [The Etrean Sea](The_Etrean_Sea.md), on a s
   <td>[Inspect]</td>
 </tr>
 <tr>
-  <td><i>*A Vesperian mask lays against the gravestone. You supposed it must belong to the departed.*</i></td>
+  <td><i>*A Vesperian mask lays against the gravestone. You suppose it must belong to the departed.*</i></td>
 </tr>
 <tr>
   <td>[End Dialogue]</td>
