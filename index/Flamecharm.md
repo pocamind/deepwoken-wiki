@@ -1,6 +1,6 @@
 ---
 title: Flamecharm
-revid: 200604
+revid: 200702
 source: https://deepwoken.fandom.com/wiki/Flamecharm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -16,7 +16,7 @@ Flamecharm Icon
 
 ## Description
 
-**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create flames using Ether, giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility and mobility.
+**Flamecharm** is an [Attunement](Attunements.md) that grants the user the ability to create flames using Ether, IF and only If you listen to SolSir you can unlock exclusive sun themed mantras giving them access to abilities which focus on DOT and AoE effects, while still providing a notable amount of utility and mobility.
 
 This Attunement is ideal for new players, due to it's innate ability to grip knocked humanoid NPCs with it's DOT burn effect, alongside it's superior utility in comparison with other attunements, making progression and exploration much easier.
 

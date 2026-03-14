@@ -1,6 +1,6 @@
 ---
 title: Strange Merchant
-revid: 194652
+revid: 200701
 source: https://deepwoken.fandom.com/wiki/Strange_Merchant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mementos]
@@ -26,28 +26,11 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Strange Merchant** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento forces your race to be [Levit](Levit.md). This Memento's core ability is the Magic Coffin; a loot box that costs Notes to use.
+**Strange Merchant** is a playable [Memento](Mementos.md) in the [Vow of Iron](Vow_of_Iron.md) gamemode. This Memento forces your race to be [Levit](Levit.md). This Memento's core ability is the Magic Coffin; a [Mystery Box](Mystery_Boxes.md) that costs Notes to use.
 
 Strange Merchant can ignore all requirements (stat and otherwise) on equipment, weapons and outfits (with a few exceptions).
 
-Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#enrage) talent on [Pathfinder](Pathfinder.md)
-
-## Mystery Box Locations
-
-To obtain the Strange Merchant Memento, you need to spend 31,500 Notes on mystery boxes.
-
--   **The locations of the mystery boxes that have been found so far are:**
-    -   One inside of the [Derelict Highchurch](Derelict_Highchurch.md), where the [Shogun of the Prophet's Guard](<Shogun_of_the_Prophet's_Guard.md>) spawns
-    -   Two near the [Temple of Mur](Temple_of_Mur.md)
-    -   One underneath the stairs near the Group of Etrean Nobles inside of [The Golden Rat](The_Golden_Rat.md)
-    -   One inside of [The Entropy Catalyst](The_Entropy_Catalyst.md)
-    -   One an island to the northeast of [Meteor Isle](Meteor_Isle.md)
-    -   One inside of a cell in the Fort Merit prison tower
-    -   One on top of the [Songseeker Temple](Songseeker_Temple.md)
-    -   One on an island west of [Etris](<Etris_(Vow_of_Iron).md>)
-    -   One in Etris Palace, right above Lord Regent
-    -   One on the second floor of the main building in Summer Isle
-    -   One inside of the caves below Saramaed Summut
+Wiping as a Strange Merchant unlocks the [Enrage](Talents.md#enrage) talent on [Pathfinder](Pathfinder.md).
 
 ## Starting Abilities
 

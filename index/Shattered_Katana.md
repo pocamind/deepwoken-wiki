@@ -1,6 +1,6 @@
 ---
 title: Shattered Katana
-revid: 196710
+revid: 200692
 source: https://deepwoken.fandom.com/wiki/Shattered_Katana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Katanas, Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Medium Weapons, Weapons with multiple Criticals]
@@ -41,7 +41,7 @@ The [Paired Soul](Talents.md#paired-soul) Talent from the [Vigil Initiate](Vigil
 
 ## Critical
 
-While one handed it uses the default [Katana](Katana.md) crit, but gains a unique crit while two handed. For the two handed crit, the user does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
+While one handed it uses the default [Katana](Katana.md) crit but gains a unique crit while two handed. For the two-handed crit, the user does a quick vertical and horizontal slash, which are followed with two additional delayed aftercuts.
 
 The critical has a cooldown of **6 seconds**.
 
@@ -56,4 +56,4 @@ These criticals have the M1 tag, allowing them to proc M1-exclusive [Talents](Ta
     -   Despite its blade being much longer than the Katana, both weapons have the same range of 8.
 -   The Talent "Paired Soul" (granted by the [Vigil Initiate](Vigil_Initiate.md), [Cloak of Winds](Cloak_of_Winds.md), and [Royal Etrean Guard](Royal_Etrean_Guard.md) outfits) buffs the Shattered Katana's damage by 5% instead of the Katana's 25%.
     -   Both weapons deal very similar damage at equivalent attribute levels. Their main differences become the PEN.
--   On release, the Shattered Katana had 50% PEN and 0.75x swing speed (Which is 1x swing speed of now). It also received the full 25% damage buff from Paired Soul which was later nerfed to it's current 5%.
+-   On release, the Shattered Katana had 50% PEN and 0.75x swing speed (Which is 1x swing speed of now). It also received the full 25% damage buff from Paired Soul which was later nerfed to its current 5%.

@@ -1,6 +1,6 @@
 ---
 title: Mystery Boxes
-revid: 200686
+revid: 200700
 source: https://deepwoken.fandom.com/wiki/Mystery_Boxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages]
@@ -65,7 +65,7 @@ Obtainable Items
   <td>
   <ul>
     <li><a href="Equipment.md#head"><b>Head</b></a>: <a href="Potion_Master's_Hat.md">Potion Master's Hat</a>, <a href="Sorcerer's_Brim.md">Sorcerer's Brim</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms</b></a><b>: TBA</b></li>
+    <li><a href="Equipment.md#arms"><b>Arms</b></a>: <a href="Heretic's_Moonseye_Gauntlets.md">Heretic's Moonseye Gauntlets</a></li>
     <li><a href="Equipment.md#torso"><b>Torso</b></a>: <a href="Hallowed_Monastery_Beads.md">Hallowed Monastery Beads</a>, Solar Pendant</li>
     <li><a href="Equipment.md#legs"><b>Legs</b></a>: <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a>, <a href="Reinforced_Enforcer_Boots.md">Reinforced Enforcer Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a></li>
     <li><a href="Equipment.md#face"><b>Face</b></a>: TBA</li>
@@ -80,5 +80,5 @@ Obtainable Items
 
 ## Trivia
 
--   The Mystery Box you get with [Strange Merchant](Strange_Merchant.md) has a different loot pool.
+-   The Mystery Box you get with [Strange Merchant](Strange_Merchant.md) [Memento](Mementos.md) has a different loot pool.
 -   Each time you purchase from a Mystery Box, the price will increase by 2x.

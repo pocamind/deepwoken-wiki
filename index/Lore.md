@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 200687
+revid: 200688
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -867,7 +867,7 @@ An ignition union guard, located at miners landing.
 
 -   **Territory:** _[Fort Merit](Fort_Merit.md), [Central Luminant](Luminants.md), [Markor](Markor.md)_
 -   **Encountered In:** _Erisia Island, Aratel Island, Fort Merit_
--   **Attunements:** _[Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md), [Frostdraw](Frostdraw.md)_
+-   **Attunements:** _[Flamecharm](Flamecharm.md), [Thundercall](Thundercall.md), [Frostdraw](Frostdraw.md), [Galebreathe](Galebreathe.md)_
 -   **Alliances:** _The Divers (Business relation) [Diversiconfaction](The_Divers.md), The Summer Company (Business relations) [Summericonfaction](The_Summer_Company.md), The Ignition Union (Business relations)_, _The Knives of Eylis [Knives of Eylis](The_Knives_of_Eylis.md)_
 -   **Enemies:** _The Kingdom of Etrea [Etreaiconfaction](Etrea.md), The Children of Navae (Captives) [Navaeiconfaction](The_Children_of_Navae.md), The Hundred Legions_, _The Ministry_ [Ministryiconfaction](The_Ministry.md)
 -   **Lore Sources:** _Authority Interrogator Talents, [Kelsius](Kelsius.md), Weapon Descriptions, [Scope](Scope.md), Random Encounters_
@@ -894,10 +894,12 @@ An ignition union guard, located at miners landing.
     -   The Ignition Union kill creatures from the Deep.[\[4\]](#cite-note-arch-4)
     -   However, all these factions, except the Knives, despise each other and often find themselves skirmishing, resulting in loss of life and resources.[\[4\]](#cite-note-arch-4)
         -   As they all work for them, the Authority refuses to send aid to any of the factions, causing a level of disenfranchisement.
--   The forces of the Central Authority in the East use three attunements, and each has their own role.
-    -   The Central Authority's [Flamecharmers](Flamecharm.md) are used by soldiers, guards, lieutenants and commanders alike.
-    -   The Central Authority's [Thundercallers](Thundercall.md) are officers; but they are notoriously known for torturing their prisoners with electricity. Also utilized in breaking up protests; according to [Kelsius](Kelsius.md), this division is called the "Shock Corps"
-    -   The Central Authority's [Frostdrawers](Frostdraw.md) are high ranking commanding officers.
+-   The forces of the Central Authority seem use all the 4 main attunements, although there are some more rare than others.
+    -   [Flamecharm](Flamecharm.md) is used by soldiers, guards, lieutenants and commanders alike.
+    -   [Thundercall](Thundercall.md) is very often used by those who are high in the ranks of a division ; Inquisitors use Thundercall for their torture methods, the Shock Corps have special talents that use Thundercall, and Seneschals are given the [Rite of Authority](Rite_of_Authority.md), a sword that's capable of channelling electricity through it's blade very efficiently.
+    -   [Frostdraw](Frostdraw.md) is used by [Lieutenants](Authority_Lieutenant.md) and [Chainwardens](Authority_Chainwarden.md) of the Authority, and it's likely often used by those in the command division.
+    -   There's an instance of a [Vice-Warden](Vice-Warden.md) wielding [Galebreathe](Galebreathe.md).
+
 -   Their Inquisitors use a mental veil to protect them from attacks against the mind, each of whom has a designated handler.
 -   One of their known conquered territories is the savannah of Markor.
 -   The Authority we see in the East is a very small fraction of the full fighting force of the Authority, but due to the [Lightkeeper](Lightkeepers.md) of the Eastern Interstital Lighthouse, [Viqh](Viqh.md), refusing to keep the Lighthouse open, they cannot advance in their war against Etrea. If not, the war would have already been won.

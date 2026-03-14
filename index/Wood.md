@@ -1,6 +1,6 @@
 ---
 title: Wood
-revid: 190645
+revid: 200731
 source: https://deepwoken.fandom.com/wiki/Wood
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -27,8 +27,7 @@ categories: [Items, Craftable, Ingredients]
 
 Wood can be can be obtained in a few ways:
 
--   Chopping trees with an [Lumber Axe](Lumber_Axe.md).
--   Obliterating trees with Strong Left. (With the [Treefelling Blow](Talents.md#treefelling-blow) Talent.)
+-   Destroying trees.
 -   Bought for 2 or 5 depending on the vendor.
 -   Crafting together three (3) Sticks.
 
@@ -40,6 +39,7 @@ Wood can be used for the following:
 -   Crafting a [Lumber Axe](Lumber_Axe.md) or [Pickaxe](Pickaxe.md).
 -   Crafting a [Repair Kit](Repair_Kit.md).
 -   Crafting into three (3) [Sticks](Stick.md).
+-   Crafting into [Ashes](Ashes.md) at a [Campfire](Campfire_Pit.md).
 -   Turning it in to [Korin](Korin.md) or [Drefa](Drefa.md) for [Etris](Etris.md) [Reputation](Reputation.md).
 -   Repairing Boats.
 
