@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 200422
+revid: 200861
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -587,7 +587,7 @@ Most attacks with this indicator deal high posture damage.
 
 White
 
- | File:Jump only.png | 
+ | File:Whitetelegraph.png | 
 
   
 Attacks with this indicator can be jumped over.
@@ -621,7 +621,7 @@ Orange
 
 Skull
 
- | File:Whitetelegraph.png | You need to physically move out of the way of these attacks to dodge them.
+ | File:Skulltelegraph.png | You need to physically move out of the way of these attacks to dodge them.
 
 Some of these attacks have unique mechanics regarding how/if they can be avoided. Please check the enemy pages for more info.  
 

@@ -1,6 +1,6 @@
 ---
 title: Mystery Boxes
-revid: 200827
+revid: 200836
 source: https://deepwoken.fandom.com/wiki/Mystery_Boxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -62,10 +62,10 @@ Obtainable Items
   <td><b><a href="Equipment.md">Equipment</a></b></td>
   <td>
   <ul>
-    <li><a href="Equipment.md#head"><b>Head</b></a>: <a href="Potion_Master's_Hat.md">Potion Master's Hat</a>, <a href="Sorcerer's_Brim.md">Sorcerer's Brim</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms</b></a>: <a href="Heretic's_Moonseye_Gauntlets.md">Heretic's Moonseye Gauntlets</a>, <a href="Konga's_Parka.md">Konga's Parka</a>, <a href="Reforged_Gauntlets.md">Reforged Gauntlets</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso</b></a>: <a href="Hallowed_Monastery_Beads.md">Hallowed Monastery Beads</a>, Solar Pendant, <a href="Sorcerer's_Mantle.md">Sorcerer's Mantle</a></li>
-    <li><a href="Equipment.md#legs"><b>Legs</b></a>: <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a>, <a href="Reinforced_Enforcer_Boots.md">Reinforced Enforcer Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a>, <a href="Caster_Fur_Boots.md">Caster Fur Boots</a>, <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a></li>
+    <li><a href="Equipment.md#head"><b>Head</b></a>: <a href="Potion_Master's_Hat.md">Potion Master's Hat</a>, <a href="Sorcerer's_Brim.md">Sorcerer's Brim</a>, <a href="Flame_Demon_Horns.md">Flame Demon Horns</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms</b></a>: <a href="Heretic's_Moonseye_Gauntlets.md">Heretic's Moonseye Gauntlets</a>, <a href="Konga's_Parka.md">Konga's Parka</a>, <a href="Reforged_Gauntlets.md">Reforged Gauntlets</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a>, <a href="Blackalloy_Pauldrons.md">Blackalloy Pauldrons</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso</b></a>: <a href="Hallowed_Monastery_Beads.md">Hallowed Monastery Beads</a>, Solar Pendant, <a href="Sorcerer's_Mantle.md">Sorcerer's Mantle</a>, <a href="Trueblood_Pendant.md">Trueblood Pendant</a></li>
+    <li><a href="Equipment.md#legs"><b>Legs</b></a>: <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a>, <a href="Reinforced_Enforcer_Boots.md">Reinforced Enforcer Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a>, <a href="Caster_Fur_Boots.md">Caster Fur Boots</a>, <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a>, <a href="Gale_Boots.md">Gale Boots</a></li>
     <li><a href="Equipment.md#face"><b>Face</b></a>: <a href="Armored_Sensor_Mask.md">Armored Sensor Mask</a></li>
     <li><a href="Equipment.md#ears"><b>Ears</b></a>: <a href="Ruby_Scorch_Earrings.md">Ruby Scorch Earrings</a>, <a href="Warrior's_Pendant_Earrings.md">Warrior's Pendant Earrings</a>, <a href="Expert_Practitioner's_Earrings.md">Expert Practitioner's Earrings</a>, <a href="Gale_Master's_Earrings.md">Gale Master's Earrings</a>, <a href="Vapordrop_Earrings.md">Vapordrop Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>: TBA</li>

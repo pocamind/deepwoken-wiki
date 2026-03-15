@@ -1,6 +1,6 @@
 ---
 title: "Champion's Cape"
-revid: 197853
+revid: 200840
 source: https://deepwoken.fandom.com/wiki/Champion's_Cape
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Capes, Craftable]
@@ -17,10 +17,10 @@ categories: [Equipment, Arms, Capes, Craftable]
 | weight | 2 |
 | innate stats | +10% Lightning Armor, +2 Rare Pips, +1 Legendary Pip |
 | innate talent | No Interruptions |
-| bankable | No |
+| bankable | Yes |
 | droppable | No |
 | enchantable | No |
-| pass down | No |
+| pass down | Yes |
 | obtainment | Crafting in the Merit Detainment CoreVow of Iron:, True Heart of Enmity direct drop |
 | description | Time to write your own legends. |
 

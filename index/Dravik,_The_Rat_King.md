@@ -1,6 +1,6 @@
 ---
 title: "Dravik, The Rat King"
-revid: 198538
+revid: 200847
 source: https://deepwoken.fandom.com/wiki/Dravik%2C_The_Rat_King
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Bosses, Voiced Characters, The Golden Rats, Enemies]
@@ -73,8 +73,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★★☆)
 
-  
-
  | Dravik winds his axe behind him and swings it upwards, letting out a moderate scream before performing four quick spinning slashes.
 
 -   There is a noticeable delay between the first swing and the follow-up spins.
@@ -121,8 +119,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★☆☆)
 
-  
-
  | Dravik winds up his left arm and throws out three strong lefts.
 
 -   This move is only performed after feinting **Aureate Flourish.**
@@ -139,8 +135,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★★☆)
 
-  
-
  | Dravik winds back his axe then slashes upwards from the player's left side, then downwards. After a brief moment, he performs two quick slashes of light, then one delayed final swing.
 
 -   This move can be feinted into **Ruler's Rush** after any of the slashes.
@@ -154,8 +148,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **Ruler's Rush**
 
 (★☆☆)
-
-  
 
  | Dravik stomps the ground then rushes towards the player with gold effects.
 
@@ -171,8 +163,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★☆☆)
 
-  
-
  | Dravik performs three swings at a consistent interval: first from the player's right side, then left side and finishing with an overhead swing.
 
 -   This move is always followed by **Pasmarkinti**.
@@ -185,8 +175,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **Pasmarkinti**
 
 (★★☆)
-
-  
 
  | Dravik teleports to you and does three consecutive slashes
 
@@ -202,8 +190,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★★☆)
 
-  
-
  | Dravik teleports behind the player and performs two quick slashes
 
 -   This move is rarely ever used, mostly when the player is at a distance and facing away from Dravik.
@@ -217,8 +203,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **Rodent Pounce**
 
 (★☆☆)
-
-  
 
  | Dravik leaps backwards, then jumps forward and slices at the player.
 
@@ -234,8 +218,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 
 (★☆☆)
 
-  
-
  | Dravik summons two golden battleaxes to circle around you and at random, they strike.
 
 -   This can be overlapped with Dravik's other attacks, causing you to be overwhelmed if not careful.
@@ -249,8 +231,6 @@ He is an elderly [Etrean](Etrean.md) man with pale, weathered skin and a thick w
 **King's Might: Glistening Crush**
 
 (★★★)
-
-  
 
  | Dravik enters a very long windup animation, after which he smashes the ground with a massive slash that covers half of the arena
 

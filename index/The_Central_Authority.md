@@ -1,6 +1,6 @@
 ---
 title: The Central Authority
-revid: 195967
+revid: 200833
 source: https://deepwoken.fandom.com/wiki/The_Central_Authority
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Central Authority]
@@ -15,6 +15,8 @@ categories: [Factions, The Central Authority]
 | territory | Central Luminant, Fort Merit, Port Merit, Merit's Reach |
 | goals | Conquest of all Luminants, Unify the world against The Depths |
 | founded | 65 BCE[1] |
+
+_This may not be the page you are looking for. For the Central Authority [Origin](Origins.md), see [Authority Ensign](Authority_Ensign.md)._
 
 “ Three cheers for the cause! ”
 

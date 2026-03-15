@@ -1,6 +1,6 @@
 ---
 title: Interluminary Parasol
-revid: 200470
+revid: 200857
 source: https://deepwoken.fandom.com/wiki/Interluminary_Parasol
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, World Event, Monsters, Bosses]
@@ -166,5 +166,4 @@ Exhaustive Loot Table
 
 ## Trivia
 
--   Probably inspired by Metroids in Metroid series.
 -   Ragoozer accidentally leaked the existence of the parasol shortly after the release of Verse 2. A few months after, it was confirmed by Arch\_mage that the boss was a work-in-progress at the time. Ironically enough, the boss was released almost 2 years after Ragoozer first leaked it.

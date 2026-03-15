@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 200606
+revid: 200864
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2782,7 +2782,7 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
     -   Prerequisite: 20 Bloodrend
 
 -   _Blood Transfusion_ \[Rare Talent, Bloodrend\] - Successfully landing a critical attack while under a negative status effect will transfer the effect plus recover a small portion of your blood bar.
-    -   20 second dcooldown.
+    -   20 second cooldown.
     -   Prerequisite: 60 Bloodrend
 
 -   Just a Taste \[Common Talent, Bloodrend\] - First Bloodrend mantra you hit in combat has increased blood drain.
