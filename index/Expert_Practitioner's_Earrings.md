@@ -1,6 +1,6 @@
 ---
 title: "Expert Practitioner's Earrings"
-revid: 198895
+revid: 200800
 source: https://deepwoken.fandom.com/wiki/Expert_Practitioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | Mystery Boxes |
 | description | Traditionally worn by erudite masters of the song. |
 
 Variants: [Practicioner's Earrings](<Practicioner's_Earrings.md>)

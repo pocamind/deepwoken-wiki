@@ -1,6 +1,6 @@
 ---
 title: Reputation
-revid: 194716
+revid: 200820
 source: https://deepwoken.fandom.com/wiki/Reputation
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Stub pages with reason, StubPages, Reputation, Mechanics]
@@ -81,6 +81,8 @@ Players can bribe specific NPCs up to ~1200 notes (depending on how much reputat
 
 NOTE: Only 8 of the 12 factions have an NPC that offer this service.
 
+### Pathfinder
+
 | Image | Faction | Name | Location |
 | --- | --- | --- | --- |
 | 
@@ -131,6 +133,38 @@ NOTE: Only 8 of the 12 factions have an NPC that offer this service.
 [The Ministry](The_Ministry.md)
 
  | [Soothsayer](Soothsayer.md) | Sitting in a corner on the way to [Starfield Tundra](Starfield_Tundra.md). |
+
+### Vow of Iron
+
+| Image | Faction | Name | Location |
+| --- | --- | --- | --- |
+| 
+ | 
+
+[The Summer Company](The_Summer_Company.md)
+
+ | [Valois](Valois.md) | Valois is located on the bridge heading towards the Inn at [Summer Isle](Summer_Isle.md). |
+| 
+
+ | 
+
+[The Hive](The_Hive.md)
+
+ | [Isul](Isul.md) | Isul is located in front of some ruins at [The Lordsgrove](The_Lordsgrove.md). |
+| 
+
+ | 
+
+[The Central Authority](The_Central_Authority.md)
+
+ | [Rohan](Rohan.md) | Standing by a pillar at the [Merit's Reach](<Merit's_Reach.md>) from across the river. |
+| 
+
+ | 
+
+[The Divers](The_Divers.md)
+
+ | [Gudrin](Gudrin.md) | Trafalgar is located at a pillar near the [Hell Mode](Hell_Mode.md) Bell south of [Castle Light](Castle_Light.md). |
 | 
 
  | 

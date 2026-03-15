@@ -1,6 +1,6 @@
 ---
 title: "Gale Master's Earrings"
-revid: 198902
+revid: 200799
 source: https://deepwoken.fandom.com/wiki/Gale_Master's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -21,7 +21,7 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Any Chest in Vow of Iron |
+| obtainment | Any Chest in Vow of Iron, Mystery Boxes |
 | description | Putting these on, you feel as if you are light as a cloud. |
 
 Variants: [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)

@@ -1,6 +1,6 @@
 ---
 title: Reforged Gauntlets
-revid: 194411
+revid: 200796
 source: https://deepwoken.fandom.com/wiki/Reforged_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, The Ignition Union]
@@ -21,14 +21,15 @@ categories: [Vow of Iron Exclusive, Equipment, Arms, Gloves, The Ignition Union]
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | Any Chest |
-| description | ... |
+| obtainment | Any Chest, Mystery Boxes |
 
 Variants: [Ignition Gauntlets](Ignition_Gauntlets.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
+
+|description=...}}
 
 ## Description
 

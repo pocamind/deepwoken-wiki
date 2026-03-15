@@ -1,6 +1,6 @@
 ---
 title: Weapon Manual
-revid: 200149
+revid: 200817
 source: https://deepwoken.fandom.com/wiki/Weapon_Manual
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items]
@@ -45,5 +45,5 @@ Do this five (5) times and you will receive a message on the top center of your 
 ## Trivia
 
 -   It seems that you can only see the words for the prompts in dungeons, or at least the [Temple Sparring Hall (Dungeon)](<Temple_Sparring_Hall_(Dungeon).md>) and [Saramaed Hollow](Saramaed_Hollow.md).
--   The results can vary even if you performed well, sometimes a block doesn't get recognized.
+-   The results can vary even if you performed well, parries do not get recognized.
 -   The Weapon Manual has the same model as [How to Make Friends](How_to_Make_Friends.md).

@@ -1,8 +1,9 @@
 ---
 title: Emiya Konga
-revid: 194542
+revid: 200803
 source: https://deepwoken.fandom.com/wiki/Emiya_Konga
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Individuals with They/them pronouns]
 ---
 
 # Emiya Konga
@@ -15,7 +16,7 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Emiya Konga was an infamous thief.[\[1\]](#cite-note-k-1)
 
-They possessed [a ring](<Konga's_Clutch_Ring.md>) but eventually lost it.[\[1\]](#cite-note-k-1)
+They possessed both [a ring](<Konga's_Clutch_Ring.md>) and [parka](<Konga's_Parka.md>) but eventually lost it.[\[1\]](#cite-note-k-1)
 
 ## References
 

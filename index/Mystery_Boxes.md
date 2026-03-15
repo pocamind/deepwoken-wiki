@@ -1,11 +1,9 @@
 ---
 title: Mystery Boxes
-revid: 200788
+revid: 200827
 source: https://deepwoken.fandom.com/wiki/Mystery_Boxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive, In progress without reason, InProgressPages, Mechanics]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Vow of Iron Exclusive, Mechanics]
 ---
 
 # Mystery Boxes
@@ -28,7 +26,7 @@ Every known location goes as follows:
 -   One inside of [The Entropy Catalyst](The_Entropy_Catalyst.md)
 -   One on an island to the northeast of [Meteor Isle](Meteor_Isle.md)
 -   One inside of a cell in the [Fort Merit](Fort_Merit.md) prison tower
--   One on top of the [Songseeker Temple](Songseeker_Temple.md)
+-   One inside of the [Songseeker Temple](Songseeker_Temple.md)
 -   One on an island west of [Etris](<Etris_(Vow_of_Iron).md>)
 -   One in [Etris Palace](Etris_Palace.md) right above Lord Regent
 -   One on the second floor of the main building in [Summer Isle](Summer_Isle.md)
@@ -65,11 +63,11 @@ Obtainable Items
   <td>
   <ul>
     <li><a href="Equipment.md#head"><b>Head</b></a>: <a href="Potion_Master's_Hat.md">Potion Master's Hat</a>, <a href="Sorcerer's_Brim.md">Sorcerer's Brim</a></li>
-    <li><a href="Equipment.md#arms"><b>Arms</b></a>: <a href="Heretic's_Moonseye_Gauntlets.md">Heretic's Moonseye Gauntlets</a>, <a href="Konga's_Parka.md">Konga's Parka</a></li>
-    <li><a href="Equipment.md#torso"><b>Torso</b></a>: <a href="Hallowed_Monastery_Beads.md">Hallowed Monastery Beads</a>, Solar Pendant</li>
-    <li><a href="Equipment.md#legs"><b>Legs</b></a>: <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a>, <a href="Reinforced_Enforcer_Boots.md">Reinforced Enforcer Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a>, <a href="Caster_Fur_Boots.md">Caster Fur Boots</a></li>
+    <li><a href="Equipment.md#arms"><b>Arms</b></a>: <a href="Heretic's_Moonseye_Gauntlets.md">Heretic's Moonseye Gauntlets</a>, <a href="Konga's_Parka.md">Konga's Parka</a>, <a href="Reforged_Gauntlets.md">Reforged Gauntlets</a>, <a href="Ministry_Operative_Cloak.md">Ministry Operative Cloak</a></li>
+    <li><a href="Equipment.md#torso"><b>Torso</b></a>: <a href="Hallowed_Monastery_Beads.md">Hallowed Monastery Beads</a>, Solar Pendant, <a href="Sorcerer's_Mantle.md">Sorcerer's Mantle</a></li>
+    <li><a href="Equipment.md#legs"><b>Legs</b></a>: <a href="Veteran_Ranger's_Boots.md">Veteran Ranger's Boots</a>, <a href="Reinforced_Enforcer_Boots.md">Reinforced Enforcer Boots</a>, <a href="Depths_Wanderer's_Boots.md">Depths Wanderer's Boots</a>, <a href="Caster_Fur_Boots.md">Caster Fur Boots</a>, <a href="Bounty_Hunter's_Boots.md">Bounty Hunter's Boots</a></li>
     <li><a href="Equipment.md#face"><b>Face</b></a>: <a href="Armored_Sensor_Mask.md">Armored Sensor Mask</a></li>
-    <li><a href="Equipment.md#ears"><b>Ears</b></a>: <a href="Ruby_Scorch_Earrings.md">Ruby Scorch Earrings</a>, <a href="Warrior's_Pendant_Earrings.md">Warrior's Pendant Earrings</a></li>
+    <li><a href="Equipment.md#ears"><b>Ears</b></a>: <a href="Ruby_Scorch_Earrings.md">Ruby Scorch Earrings</a>, <a href="Warrior's_Pendant_Earrings.md">Warrior's Pendant Earrings</a>, <a href="Expert_Practitioner's_Earrings.md">Expert Practitioner's Earrings</a>, <a href="Gale_Master's_Earrings.md">Gale Master's Earrings</a>, <a href="Vapordrop_Earrings.md">Vapordrop Earrings</a></li>
     <li><a href="Equipment.md#rings"><b>Rings</b></a>: TBA</li>
   </ul></td>
 </tr>
@@ -84,5 +82,5 @@ Obtainable Items
 
 ## Trivia
 
--   The Mystery Box you get with [Strange Merchant](Strange_Merchant.md) [Memento](Mementos.md) has a different loot pool.
+-   The Mystery Box you get with the [Strange Merchant](Strange_Merchant.md) [Memento](Mementos.md) has a seperate loot pool from the boxes scattered across the map.
 -   Each time you purchase from a Mystery Box, the price will increase by 2x.
