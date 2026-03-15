@@ -1,6 +1,6 @@
 ---
 title: Leather Boots
-revid: 190478
+revid: 200875
 source: https://deepwoken.fandom.com/wiki/Leather_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Legs, Boots, Fishing Loot]
@@ -23,7 +23,7 @@ categories: [Equipment, Legs, Boots, Fishing Loot]
 | droppable | Yes |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Chests from:, Fishing, Erisia, Brainsucker, First Layer, Other sources:, Starter Equipment Echo Unlock |
+| obtainment | Chests from:, Fishing, Erisia, Brainsucker, First Layer, Other sources:, Starter Equipment Echo Unlock, Purchased from:, Bari or Seraphina for 15 , Tone or Cheruba in Vow of Iron for 15 |
 | description | A pair of worn leather boots. And they're your size! |
 
 ## Description

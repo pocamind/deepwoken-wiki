@@ -1,6 +1,6 @@
 ---
 title: Locations
-revid: 176219
+revid: 200881
 source: https://deepwoken.fandom.com/wiki/Locations
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Locations]
@@ -92,6 +92,7 @@ Please add miscellaneous islands or named landmarks here
     -   [Starfield Grove](Starfield_Grove.md)
 -   [Fort Merit](Fort_Merit.md)
     -   [Merit's Reach](<Merit's_Reach.md>)
+    -   [Port Merit](Port_Merit.md)
 -   [Bluster Rift](Bluster_Rift.md)
 -   [The Lordsgrove](The_Lordsgrove.md)
 -   [Meteor Isle](Meteor_Isle.md)
@@ -181,8 +182,7 @@ Please add miscellaneous islands or named landmarks here
 -   [Boatman's Watch](<Boatman's_Watch.md>)
 -   [Moon's Eyrie](<Moon's_Eyrie.md>)
 -   [Voidheart](Voidheart.md)
-    -   [Dusklit Garden](Dusklit_Garden.md)
-        
+    
 
 **Dungeons:**
 

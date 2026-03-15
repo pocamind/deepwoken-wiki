@@ -1,6 +1,6 @@
 ---
 title: "Kyrsgarde Champion, Kyrsa's Star"
-revid: 200483
+revid: 200878
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Champion%2C_Kyrsa's_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -39,7 +39,7 @@ After these conditions have been fulfilled, entering the main city will spawn th
 **Permafrost Colosseum**  
 (☆☆☆)
 
- | The Kyrsgarde Champion summons a large ring of ice pillars, simmilar to Ice Eruption's round spark variant.
+ | The Kyrsgarde Champion summons a large ring of ice pillars, similar to Ice Eruption's round spark variant.
 
 -   This move is only used when you deal damage to it.
 

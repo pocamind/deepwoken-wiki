@@ -1,6 +1,6 @@
 ---
 title: Echoes
-revid: 199254
+revid: 200882
 source: https://deepwoken.fandom.com/wiki/Echoes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Echoes, Character, Mechanics, Creation, Features absent in Vow of Iron]
@@ -304,22 +304,22 @@ There are 11 upgrades and 15 unlocks to purchase. Each upgrade can be purchased 
 </tr>
 <tr>
   <td><b>Starter Weapon: Rapier</b></td>
-  <td>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a starting weapon.</td>
+  <td>Allows you to select the <a href="Quickfang.md">Quickfang</a> as a Starting Weapon.</td>
   <td>25 Echoes</td>
 </tr>
 <tr>
   <td><b>Starter Weapon: Pistol</b></td>
-  <td>Allows you to select the <a href="Silversix.md">Silversix</a> as a starting weapon.</td>
+  <td>Allows you to select the <a href="Silversix.md">Silversix</a> as a Starting Weapon.</td>
   <td>25 Echoes</td>
 </tr>
 <tr>
   <td><b>Starter Weapon: Spear</b></td>
-  <td>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a starting weapon.</td>
+  <td>Allows you to select the <a href="Irontusk.md">Irontusk</a> as a Starting Weapon.</td>
   <td>25 Echoes</td>
 </tr>
 <tr>
   <td><b>Starter Weapon: Greatsword</b></td>
-  <td>Allows you to select the <a href="Avenger.md">Avenger</a> as a starting weapon.</td>
+  <td>Allows you to select the <a href="Avenger.md">Avenger</a> as a Starting Weapon.</td>
   <td>25 Echoes</td>
 </tr>
 <tr>

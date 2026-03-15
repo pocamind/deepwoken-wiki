@@ -1,6 +1,6 @@
 ---
 title: Etris
-revid: 199528
+revid: 200868
 source: https://deepwoken.fandom.com/wiki/Etris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant, Territory of Etrea]
@@ -262,6 +262,7 @@ After all Authority Guards are defeated, peace is restored and all participating
 -   [Astra](Astra.md)
 -   [Caragan](Caragan.md)
 -   [Chef Odiolavoro](Chef_Odiolavoro.md)
+-   [Cheral](Cheral.md)
 -   [Etrean Royal Guard](<Etrean_Royal_Guard_(NPC).md>)
 -   [Joshua](Joshua.md)
 -   [Karliah](Karliah.md)
@@ -274,6 +275,7 @@ After all Authority Guards are defeated, peace is restored and all participating
 -   [Polis](Polis.md)
 -   [Ploom](Ploom.md)
 -   [Pori](Pori.md)
+-   [Seraphina](Seraphina.md)
 -   [The Lord Regent](The_Lord_Regent.md)
 -   [Theadre](Theadre.md)
 -   [Trenti](Trenti.md)
