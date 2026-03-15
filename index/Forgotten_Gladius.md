@@ -1,6 +1,6 @@
 ---
 title: Forgotten Gladius
-revid: 200831
+revid: 200886
 source: https://deepwoken.fandom.com/wiki/Forgotten_Gladius
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Swords, Medium Weapons, Weapons with Talents]
@@ -54,4 +54,4 @@ This critical has the M1 tag, allowing it to proc M1-exclusive [Talents](Talents
 
 ## Trivia
 
--   According to external lore, this weapon was passed down to Indra Kikoshi to wield and fight against the notorious Void Walkers. He solemnly swore that he'd kill whoever crossed his path.
+-   The Forgotten Gladius was passed down to Indra Kikoshi by two Voidwalkers who were later slain by their own kind. In their memory, he solemnly swore upon the blade to hunt down every Voidwalker that stood in his path. To fulfill this oath, Indra Kikoshi became a Voidwalker himself, walking among them so their vengeance could one day be fulfilled.

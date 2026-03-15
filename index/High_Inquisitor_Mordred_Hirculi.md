@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Mordred Hirculi
-revid: 200883
+revid: 200897
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Mordred_Hirculi
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclusive, NPCs, Inquisitors of The Central Authority, Deceased characters]
@@ -15,7 +15,7 @@ categories: [Vesperian NPCs, Individuals with He/him pronouns, Vow of Iron Exclu
 | aspect | Vesperian |
 | pronouns | He/him |
 | location | Fort Merit |
-| affiliation | The Central Authority |
+| affiliation | The Central Authority, The Inquisition, Circle of Honour |
 | death | Died in his sleep[1] |
 | deathdate | Between 1233 CE[2] and 1272 CE[3] |
 
@@ -26,6 +26,8 @@ This content is not accessible outside of this gamemode.
 ## Description
 
 High Inquisitor Mordred Hirculi is a [Vesperian](Vesperian.md) NPC. He was the lead of the Inquisitor division for [The Central Authority](The_Central_Authority.md) garrison positioned in the Eastern Luminant, the first to possess this rank.[\[1\]](#cite-note-merey-1)
+
+Mordred also possessed unknown ties to the [Circle of Honour](Circle_of_Honour.md), and was aware of [Warden Jericho](Warden_Jericho.md)'s allegiance to the information.
 
 Mordred was an elderly man and eventually died in his sleep. He was succeeded by [High Inquisitor Merey](High_Inquisitor_Merey.md), who had been assigned as his successor prior to his passing, as the two had a good relationship during his career.[\[1\]](#cite-note-merey-1)
 
@@ -68,6 +70,10 @@ High Inquisitor Mordred Hirculi is located inside the war room of the fortress a
 </tr>
 </tbody>
 </table>
+
+## Trivia
+
+-   [Mordred](https://en.wikipedia.org/wiki/Mordred) is a figure in Arthurian legend. Details vary greatly, but Mordred is generally characterized in popular culture as a villainous relative of [King Arthur](https://en.wikipedia.org/wiki/King_Arthur)'s who serves as a member of his [Knights of the Round Table](https://en.wikipedia.org/wiki/Knights_of_the_Round_Table), before he eventually betrays and kills Arthur for the throne.
 
 ## References
 

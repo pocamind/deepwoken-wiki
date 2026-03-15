@@ -1,6 +1,6 @@
 ---
 title: Bloodrend
-revid: 199706
+revid: 200944
 source: https://deepwoken.fandom.com/wiki/Bloodrend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -176,44 +176,6 @@ Blood
 -   has 9.18x PVE scaling
 -   Ragdolls.
 -   It doesn't work well outside of Shift-Lock currently.
-
- |
-| 
-
-**Scarlet Cyclone** (☆☆☆)
-
-_Create a cyclone of blood._
-
- | 
-
-## Scarlet Cyclone (☆☆☆)
-
-  
-_Create a cyclone of blood._
-
- |
-| 
-
-30 Ether
-
- | 
-
-Blood
-
- | 
-
-1 Bloodrend
-
- |
-| 
-
-**Effect:** _Perform a quick gesture before conjuring and sending a cyclone of blood that goes through enemies and towards wherever the character is facing before dissipating when hitting an object or exceeding its range._
-
--   Deals 7/8.5/10/11.5/13 base damage per level, hits 10 times, 1 posture per hit, 17.5s CD, 0.5s windup.
--   Has 3.5x PVE Scaling
--   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial. (Reducing damage per hit to 2.8/3.4/4/4.6/5.2 per level, hits 10 times, 0.33 posture per hit, 0.5s windup.
--   Can be modified with a Reversal Spark, making the projectile travel half of the distance of the original before returning to the user.
-    -   Both sparks can be paired together.
 
  |
 | 
@@ -437,6 +399,44 @@ Blood
 -   Deals 15+7.5/20+10/25+12.5/30+15/35+17.5 damage per level, 1 posture, 0.5s windup has 10s CD at 5 lvl
 -   Has 9.18x PVE scaling
 -   If first hit is blocked then entire move is stopped and goes on CD.
+
+ |
+| 
+
+**Scarlet Cyclone** (★★☆)
+
+_Create a cyclone of blood._
+
+ | 
+
+## Scarlet Cyclone (★★☆)
+
+  
+_Create a cyclone of blood._
+
+ |
+| 
+
+30 Ether
+
+ | 
+
+Blood
+
+ | 
+
+30 Bloodrend
+
+ |
+| 
+
+**Effect:** _Perform a quick gesture before conjuring and sending a cyclone of blood that goes through enemies and towards wherever the character is facing before dissipating when hitting an object or exceeding its range._
+
+-   Deals 7/8.5/10/11.5/13 base damage per level, hits 10 times, 1 posture per hit, 17.5s CD, 0.5s windup.
+-   Has 3.5x PVE Scaling
+-   Can be modified with a Multiplying Spark, conjuring 2 more projectiles adjacent of the initial. (Reducing damage per hit to 2.8/3.4/4/4.6/5.2 per level, hits 10 times, 0.33 posture per hit, 0.5s windup.
+-   Can be modified with a Reversal Spark, making the projectile travel half of the distance of the original before returning to the user.
+    -   Both sparks can be paired together.
 
  |
 | 

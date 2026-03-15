@@ -1,6 +1,6 @@
 ---
 title: Milgram
-revid: 198582
+revid: 200901
 source: https://deepwoken.fandom.com/wiki/Milgram
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -13,7 +13,7 @@ categories: [Adret NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Eastern
 | name | Milgram |
 | aspect | Adret |
 | location | Fort Merit |
-| affiliation | The Central Authority |
+| affiliation | The Central Authority, The Inquisition |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

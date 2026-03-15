@@ -1,6 +1,6 @@
 ---
 title: High Inquisitor Merey
-revid: 200707
+revid: 200903
 source: https://deepwoken.fandom.com/wiki/High_Inquisitor_Merey
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with She/her pronouns, Pathfinder Exclusive, In progress without reason, InProgressPages, NPCs, NPCs located in the Eastern Luminant, Inquisitors of The Central Authority]
@@ -16,7 +16,7 @@ notices:
 | aspect | Canor |
 | pronouns | She/her |
 | location | Fort Merit |
-| affiliation | The Central Authority |
+| affiliation | The Central Authority, The Inquisition |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  

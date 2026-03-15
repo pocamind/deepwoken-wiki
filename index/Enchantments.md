@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 200746
+revid: 200947
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -999,7 +999,7 @@ Stormbreaker [Enchant Stone](Enchant_Stone.md):
  |
 | 
 
-**[Suffocated (enchantment)](<Suffocated_(enchantment).md>)**
+**[Suffocated](<Suffocated_(enchantment).md>)**
 
 [View main page](<Suffocated_(enchantment).md>)
 

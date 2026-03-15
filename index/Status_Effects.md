@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 200581
+revid: 200949
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -322,7 +322,7 @@ This is applied by being hit by the [Harrowing](Harrowing.md) Enchant, hiding yo
 
 #### Confusion
 
-When proccing [Harrowing](Harrowing.md) on a PvE enemy, apply Confusion to them for 12 seconds. Confused enemies have a 5% chance to hit themselves instead when landing attacks, nullifying their attack, stunning them, and dealing their damage back to themselves. The Confusion effect is signified by yellow quesion marks around the enemy's head. The attack redirection is signified by a yellow circle on the attack's target.
+When proccing [Harrowing](Harrowing.md) on a PvE enemy, apply Confusion to them for 12 seconds. Confused enemies have a 5% chance to hit themselves instead when landing attacks, nullifying their attack, stunning them, and dealing their damage back to themselves. The Confusion effect is signified by yellow question marks around the enemy's head. The attack redirection is signified by a yellow circle on the attack's target.
 
 ### Deferred
 
@@ -890,7 +890,7 @@ The effects of this status effect depends on which [Attunement](Attunements.md) 
 
 ### [Corrupted](Monsters.md#scyphozia)
 
-Monsters within [The Depths](The_Depths.md) have a chance to spawn Corrupt, boasting a much higher health pool and increased damage. This chance is made guaranteed during [Hell Mode](Hell_Mode.md) and during your [Depths Trial](Cathedral_of_the_Interstice.md) if you have the Vow of Thorns or Deep Champion [Echo Modifiers](Echoes.md). Additionally, ringing the black bells within the [First Layer](First_Layer.md) will increase the odds of surrounding Monsters spawning corrupt. Signified by a dark purple aura on the Monster.
+Monsters within [The Depths](The_Depths.md) have a chance to spawn Corrupt, boasting a much higher health pool and increased damage. This chance is made guaranteed during [Hell Mode](Hell_Mode.md) and during your [Depths Trial](Cathedral_of_the_Interstice.md) if you have the Deep Champion [Echo Modifier](Echoes.md#upgrades-unlocks-and-modifiers). Additionally, ringing the black bells within the [First Layer](First_Layer.md) will increase the odds of surrounding Monsters spawning corrupt. Signified by a dark purple aura on the Monster.
 
 ## Other
 

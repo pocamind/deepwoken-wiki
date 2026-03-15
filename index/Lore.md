@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 200688
+revid: 200905
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -53,12 +53,9 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 -   Grand Sovereign of [The Central Authority](The_Central_Authority.md).[\[1\]](#cite-note-rag-1)
 -   Often called "Lumen's Savior."
 -   Presumably an [Adret](Adret.md), given the biases of the Authority.
--   Stated by developer ragoozer to be a [Deepwoken](Deepwoken.md), although it is unknown which Drowned God is the one whose piece of he consumed.[\[1\]](#cite-note-rag-1)
--   Gained this position after withstanding something known as the Godstorm.[\[1\]](#cite-note-rag-1)
 -   The description of the Authority's helmet mentions that no one has seen the Sovereign's true face.
 -   Possibly the individual referred to in the [Teacher's](Teacher.md) dialogue for a story of Fortitude.
     -   When asked, developer ragoozer simply stated that it is up to the interpretation of the reader.
--   Both the [Etrean Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=EtreanLuminant.png) and [Eastern Luminant](https://deepwoken.fandom.com/wiki/Maps?so=search&file=DWmapEast.png) maps were commissioned under his name.
 
 ### The First Prophet
 
@@ -106,7 +103,6 @@ _"The ruins of that city will **never** cage me. And with what's at stake... I c
 -   The Mindless Servants which guard his mansion are _vacant_ and his Golems, unlike other creatures, possess human souls which can fuel the [Jar of Souls](Jar_of_Souls.md) [Resonance](Resonance.md), leading to the theory that the Forge of Sin has been used to transfer Erisia's inhabitants souls to power his stone servants.
     -   This may explain why The Hive has similar relics, but in a green, swampy color, drawing on the power of nature rather than human life for their constructs.
     -   The Golems were largely docile for a good period of Erisia's history, due to their lack of numbers, or possibly not even being present at the Erisia mansion while he was having them guard his Celtor estate. The use of human souls via the Forge allowed actual full-scale production of them, as it gave the Golems a power source that wasn't reliant on the limits of Duke Erisia's bell.
--   The Duke goes through the same process of escaping the Depths every time he's killed in his manor, hinted by one of the lines of dialogue when facing him for the second time.[\[4\]](#cite-note-arch-4)
 
   
 
@@ -152,7 +148,7 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 -   Apparently, he also writes books, with the only known one being "Flame and the failure of man", which [Ploom](Ploom.md) was reading.
 -   Has maintained his sanity despite living in the Third Layer for so long.[\[1\]](#cite-note-rag-1)
     -   A 'chill guy.'[\[1\]](#cite-note-rag-1)
--   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is [Venn Kaelhand](Venn_Kaelhand.md), the original user of the First Light.[\[5\]](#cite-note-firstlight-5)
+-   Apparently he has disciples and apprentices. What he teaches to his disciples is unknown, but probably he teaches them topics about the philosophy of the covenant of flame, the best use of Flamecharm and topics about the Third Layer and Korilfiend. The amount of disciples he has is unknown, but one notorious disciple of Pleeksty is [Venn Kaelhand](Venn_Kaelhand.md), the original user of the First Light.[\[4\]](#cite-note-firstlight-4)
 -   Since he brought Flamecharm to the world, it is believed he was alive since the Old World, where all the Attunements except Shadowcast were discovered.
 -   He is referenced in many mantras and items, [Flame Within](Talents.md#flame-within) is an example.
 
@@ -161,8 +157,8 @@ _"The Eternal Flame, and the failure of man..." -One of [Amorus Pleeksty](Amorus
 _"Oh, a human? Far from home are we?" -Chaser._
 
 -   [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md) was a Black Diver sent down into the Eternal Gale by the Divers in their first expedition to the Second Layer. He was secretly an operative working for The [Ministry](The_Ministry.md), under the orders of the Second Prophet.
--   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[6\]](#cite-note-doc-6)
--   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[6\]](#cite-note-doc-6)
+-   For unknown reasons, he joined The Divers, receiving education from Markor Citadel.[\[5\]](#cite-note-doc-5)
+-   He graduated from the Markor Citadel as one of their best students, only outclassed by Klaris and Akira.[\[5\]](#cite-note-doc-5)
 -   He later betrayed them and joined [The Ministry](The_Ministry.md) following his graduation.[\[1\]](#cite-note-rag-1)
 -   He made a deal with the [Kyrsgarde](Kyrsgarde.md). The nature of this deal is unknown.
 -   He volunteered for the mission himself so he could lead it, but by the time they reached the Ethironal Sanctuary he slaughtered the fraction of his team that remained with him and didn't escape. He decided to make his team out of mainly Diver Apprentices so they couldn't cause any trouble for him.
@@ -177,28 +173,14 @@ _"Oh, a human? Far from home are we?" -Chaser._
 -   Currently trapped in the Ethironal Shrine of the Second Layer due to the time dilation, damned to cause his own death in a desperate bid to reach New Kyrsa over and over for the rest of eternity. The time dilation affects him because he is literally standing on top of [New Kyrsa, The Sleeping City](Second_Layer/New_Kyrsa.md).
 -   Despite not using them in the fight against him, he uses a pair of [Flareblood Kamas](Flareblood_Kamas.md) designed and created by him during his time as an apprentice under the Second Prophet.[\[2\]](#cite-note-kamas-2)
 
-### Venn Kaelhand
-
--   Deceased disciple of [Amorus Pleeksty](Amorus_Pleeksty.md).[\[5\]](#cite-note-firstlight-5)
--   Most probably a user of [Flamecharm](Flamecharm.md) who was able to mix [Flamecharm](Flamecharm.md) with this weapon.[\[5\]](#cite-note-firstlight-5)
--   Original user of the [First Light](First_Light.md).[\[5\]](#cite-note-firstlight-5)
--   Dedicated himself to the study of beasts altered by Korilfiend's influence, becoming so deeply immersed that it lead to his death.[\[5\]](#cite-note-firstlight-5)
--   Probably not very strong despite being a disciple of [Amorus Pleeksty](Amorus_Pleeksty.md), due to him meeting his end at the hands of a Crimson Megalodaunt, a relatively weak creature.[\[5\]](#cite-note-firstlight-5)
-    -   However, it's entirely possible that it either caught him off guard or was more powerful than the average Crimson Megalodaunt due to being in closer proximity to Korilfiend.[\[5\]](#cite-note-firstlight-5)
+  
 
 ### Dr. Carrion, Father of Evolution
 
 _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. Carrion](Carrion,_Father_of_Evolution.md)_
 
--   One of the founding Divers.
--   Seeks to transcend people through the use of a potion named the Moonseye Vigour. (This “Transcendence” is most likely a desire to ascend his soul to the Moonseye)
--   Drinking a prototype of the potion lead to him going insane and his eyes turning green.
--   Sometimes threatens people with being turned into potions. Whether this is some kind of ability, him just using their corpses as ingredients or more mad rambling is unclear.
 -   Can convert the body parts of monsters into a form that lets people use their abilities.
 -   He is known to the Divers by the name of Dr. Diver.
--   Despite his constant insanity he is a genius in terms of knowledge of the Depths and in Alchemy.
--   His strength is unknown but is supposed to be somewhat powerful, being able to enter New Kyrsa and escape it without problems, and also being seemingly immune to [Ethiron's](<Ethiron,_The_Maelstrom's_Eye.md>) mist that brainwashed the [Kyrsgarde](Kyrsgarde.md), as well as [New Kyrsa's](Second_Layer/New_Kyrsa.md) time dilation.
--   He uses a unique weapon called the "Moonseye Scalpel."
 
 ### Deukalion Akarad, the First Black Diver
 
@@ -221,11 +203,11 @@ _"You should hurry little diver.... Ethiron's wake is soon to commence." -[Dr. C
 
 _"Ugh... I don't have time to train you apprentices... SCRAM!" -[Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md)._
 
--   Black Diver of the Canor aspect.[\[4\]](#cite-note-arch-4) The creator of light hooks.
+-   Black Diver of the Canor aspect.[\[6\]](#cite-note-arch-6) The creator of light hooks.
 -   Former student of [Viqh](Viqh.md), Lightkeeper of the Eastern Interstital Lighthouse, stating that "She learned a lot from her gift."
 -   One of the few people along Nimea to have known Viqh.
 -   In charge of expeditions into the [Second Layer](Second_Layer.md).
--   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[5\]](#cite-note-firstlight-5)
+-   Name bears an eerie resemblance to [Korilfiend](<Korilfiend,_the_Inferno's_Provenance.md>), Drowned God of Fire,[\[1\]](#cite-note-rag-1) though she herself is not linked to the serpent.[\[4\]](#cite-note-firstlight-4)
 -   Slightly stronger than a Power 20 Player. Weaker than Akira.[\[1\]](#cite-note-rag-1)
 -   Rude, cruel and antisocial. Mistreats those she thinks can't benefit her, including her own colleagues, referring to Mark as a 'bubble-chugging waste of space,' despite his important role as Castle Light's maintainer. She also damned [Cap'n Orlandeau](<Cap'n_Orlandeau.md>) to [New Kyrsa](Second_Layer/New_Kyrsa.md) over a disagreement, with [Orlandeau](<Cap'n_Orlandeau.md>) noting that she would continue to hound him across the world if he escaped.
 -   Known for the discovery of a Verse of the Song that allows her to recreate light in a similar manner to the way Lightkeepers produce light.
@@ -273,9 +255,9 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
     -   Rosen did not invent the guns which he and his company produce, rather travelling into the past in deep layers of the depths and recovering pre tidal technology which he used to reverse engineer into his signature firearms.
 -   His identity, age and affiliation are unknown, as Rosen was only mentioned through Weapon Descriptions.
     -   [Yamaketzal](Yamaketzal.md) mentioned his name during his drunkard talks. Gunsmith Rosen is a man who has a burning passion to pursuit his goals; his objectives- whatever the cost.
--   He is a [Vesperian](Vesperian.md).[\[4\]](#cite-note-arch-4)
+-   He is a [Vesperian](Vesperian.md).[\[6\]](#cite-note-arch-6)
 -   His former prodigy, [Gunsmith Hierka](Gunsmith_Hierka.md), used the Summer Company's secrets in order to create the Rifle Spear for [The Authority](The_Central_Authority.md).
-    -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do whatever they please to them, most likely to ensure they can keep their contract.[\[4\]](#cite-note-arch-4)
+    -   Although not exactly 'Betrayed', Rosen and the rest of Summer Company let The Authority do whatever they please to them, most likely to ensure they can keep their contract.[\[6\]](#cite-note-arch-6)
 -   He once wore a ring but it was 'discarded once he turned to other methods of inspiration.'
 
 ### Lord Guardian Ji'ang
@@ -325,7 +307,7 @@ _"Me? Gunsmith Rosen... That one who made all those fancy weapons... Funny thing
 
 -   Religious figure and Celestial.
 -   Worshipped by the [Navaen Nomads](The_Children_of_Navae.md).
--   Possibly a more eldritch being.[\[4\]](#cite-note-arch-4)
+-   Possibly a more eldritch being.[\[6\]](#cite-note-arch-6)
 -   Exists on an island moving through the world, independent of the [Voidsea](Voidsea.md).
 -   She was rescued by a nomad who nursed her back to health after descending from Constellia, making a Hereditary Vow with her which resulted in the nomads offspring receiving Navae's guidance.
 
@@ -339,7 +321,7 @@ _"TELL ME, OH CHILD OF WANT, WHAT IT IS YOUR DESIRE? -Yun'Shul_
 -   Their title, Keeper of Hearts, is a reference to his ability to manipulate and warp the passage ones soul outputs while resonating. This is why they are the only creature who may have governance over your resonance.
 -   "We are legally obliged not to tell you whether Yun'shul or [Big Hoss](https://rogue-lineage.fandom.com/wiki/Big_Hoss) would win in a fight." - Developer ragoozer.[\[1\]](#cite-note-rag-1)
 -   It is known that where his main shrine resides there are multiple shrines with similar appearances and different functions while having even more shrines that do the same function in the East, suggesting that these shrines are made and controlled by Yun'shul, exchanging the knowledge of people who they call "Puppets" for specific deals.
--   They are not a former Ministry Prophet.[\[4\]](#cite-note-arch-4)
+-   They are not a former Ministry Prophet.[\[6\]](#cite-note-arch-6)
 -   Knows about the existence of [the Ministry](The_Ministry.md), calling them "Godseekers" and "Prophets in Black" and even accepting the sacrifice of the city of Celtor. However it is stated by Yun'shul that the sacrifice the Ministry did on Celtor as if it was "Fresh Meat" was actually a not so liked offering, however they state that "It is more that your kind used to do", stating that they still accepted the sacrifice of the Ministry.
 
 Yun'shul's Shrine
@@ -352,7 +334,7 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 -   Ethiron is the Drowned God of the Wind, Force, Air, Sky and Pressure.[\[1\]](#cite-note-rag-1) In smaller words, he is referred as the "Eye of Calamity" or the "Drowned God of the Eternal Gale"
 -   The residents of the Eternal Gale worship Ethiron, with a majority of the First Floor being a shrine to them.
 -   A being known as the [Scion of Ethiron](Scion_of_Ethiron.md) exists sealed in New Kyrsa.
-    -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.[\[4\]](#cite-note-arch-4)
+    -   The meaning of scion in this context refers to a young shoot or twig of a plant, especially one cut for grafting or rooting.[\[6\]](#cite-note-arch-6)
     -   The Scion acts as a guardian of sorts.
     -   Probably formed by a very small piece of Ethiron himself, due to being able to use some of the drowned god's powers.
     -   The Scion was created by Ethiron for the purpose of waking him. If fully grown, it would be able to descend and wake him up, but luckily it is not yet grown, as it was sealed (presumably by the Kyrsans who remained free) before the Kyrsans, enslaved under its will, finished it.
@@ -380,13 +362,13 @@ _"YOU HAVE DONE US A GREAT SERVICE, LITTLE GODSEEKER" - Voice of Ethiron._
 **Lore Sources:** Kaide_, Yun'Shul, Klaris, Arch\_Mage (Discord), ragoozer (Discord)_
 
 -   As the name applies, godlike beings who originated from The Depths. One notorious Drowned God is [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>).
--   They are not fighters, but more so natural disasters waiting to happen.[\[4\]](#cite-note-arch-4)
+-   They are not fighters, but more so natural disasters waiting to happen.[\[6\]](#cite-note-arch-6)
 -   The drowned gods are sleeping, though they stir in their slumber, causing great changes in the world.
--   If the drowned gods were to fully gain consciousness, existence as we know it would end.[\[4\]](#cite-note-arch-4)
+-   If the drowned gods were to fully gain consciousness, existence as we know it would end.[\[6\]](#cite-note-arch-6)
 -   Becoming one is the ultimate goal of the Ministry.[\[1\]](#cite-note-rag-1)
 -   Most likely they were "ancient" enemies of the Celestials and the Lightborn, as Kaide has stated that they were in a war against the Drowned Gods that the Celestials and Lightborn's lost when the Celestials fled.
 -   It is most likely that they have a great relation with Krulian's, similar to how Celestials are to Lightborns.
--   There is not a Drowned God for each attunement.[\[4\]](#cite-note-arch-4)
+-   There is not a Drowned God for each attunement.[\[6\]](#cite-note-arch-6)
 -   The game's name was originally meant to be drowned gods, but later changed to [deepwoken](#deepwoken) as we know of it today.
 
 **Voices of the Trials**
@@ -438,12 +420,12 @@ _"O fleeting dream, I call upon thy name..." - Haske Vantage using his Resonance
 **Lore Sources:** _Arch\_Mage_
 
 -   A Primal Vesperian, and Arch\_Mage's lore character in-game.
--   Has a Resonance that allows him to make the 'immaterial' material.[\[4\]](#cite-note-arch-4)
-    -   This seems to include souls and mantras, though might extend to more things. He uses this ability to steal these concepts from others, and to make deals.[\[4\]](#cite-note-arch-4)
--   Can fuse Mantras using his Resonance to a higher tier.[\[4\]](#cite-note-arch-4)
--   Is said to have committed sins so heinous "the world will never forgive \[him\]."[\[4\]](#cite-note-arch-4)
--   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes were different to the wielders of the hero blades.[\[4\]](#cite-note-arch-4)
--   It is said that before he was sealed, he was capable of drowning entire islands in his prime, possibly being the sins that the world will never forgive.[\[4\]](#cite-note-arch-4)
+-   Has a Resonance that allows him to make the 'immaterial' material.[\[6\]](#cite-note-arch-6)
+    -   This seems to include souls and mantras, though might extend to more things. He uses this ability to steal these concepts from others, and to make deals.[\[6\]](#cite-note-arch-6)
+-   Can fuse Mantras using his Resonance to a higher tier.[\[6\]](#cite-note-arch-6)
+-   Is said to have committed sins so heinous "the world will never forgive \[him\]."[\[6\]](#cite-note-arch-6)
+-   Was sealed by 'four legendary heroes' centuries ago, resulting in the chains that adorn his body. These heroes were different to the wielders of the hero blades.[\[6\]](#cite-note-arch-6)
+-   It is said that before he was sealed, he was capable of drowning entire islands in his prime, possibly being the sins that the world will never forgive.[\[6\]](#cite-note-arch-6)
 
 ### Songmaster Tzaraan
 
@@ -513,17 +495,17 @@ _"Glimmers of starlight mingle with the pungent rot that afflicts these lifeless
 
 -   A desert land that occupies most of [Aratel Island](Aratel_Island.md); consisting of desert sands, canyons and ruins. Threshers are encountered in Starswept Valley, along with the conflict of Factions between one and another.
 -   Blue stars of light rain down upon the Valley, thus getting the title of [Starswept](The_Starswept_Valley.md).
-    -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knight.md) crash down from Constellia into the Valley as an encounter, emerging out of the rubble upon landing.[\[4\]](#cite-note-arch-4)
+    -   Along with blue fragmented stars, Blue Meteorites containing [Meteor Knights](Stone_Knight.md) crash down from Constellia into the Valley as an encounter, emerging out of the rubble upon landing.[\[6\]](#cite-note-arch-6)
 
 ### Central Luminant
 
--   The home of [the Authority](The_Central_Authority.md) and [the Knives of Eylis](The_Knives_of_Eylis.md).[\[4\]](#cite-note-arch-4)
+-   The home of [the Authority](The_Central_Authority.md) and [the Knives of Eylis](The_Knives_of_Eylis.md).[\[6\]](#cite-note-arch-6)
 -   Said to be the biggest out of all luminants.
 
 #### Markor
 
 -   A savannah region that has been conquered and assimilated into The Central Authority.
--   The origin of Scimitars and similar blades, as well as Felinors.[\[4\]](#cite-note-arch-4)
+-   The origin of Scimitars and similar blades, as well as Felinors.[\[6\]](#cite-note-arch-6)
 -   The Felinor Fieldfolk once lived here.
 
 #### Markor Citadel
@@ -558,7 +540,7 @@ The Citadel
 -   The home of the self-proclaimed "Prophet of the Southern Luminant" and his followers.
 -   [The Doom of Caeranthil](The_Doom_of_Caeranthil.md) was named after a region of the Southern Luminant it dragged beneath the waves.
 -   The "Submergence of the Southern Luminant" was not caused solely the Great Drowning of Celtor but rather by many countless smaller tragedies that were overshadowed by the event.
--   The Great Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[4\]](#cite-note-arch-4)
+-   The Great Drowning has permanently scarred the ecosystem, causing the Luminant to decay and become new sections of Voidsea.[\[6\]](#cite-note-arch-6)
 
 ### Northern Luminant
 
@@ -639,7 +621,7 @@ The cathedral of interstice
 -   Though the denizens of the City are aware of the Trial, many feel they are too weak to attempt it.
     -   Ironically, if the Voices of the Deep deem you too weak, they would let you go free.
 -   It's unknown why the City of the Drowned is a main hub of The Depths, but many believe that the Voices of the Deep, who are encountered on top of the Tower, are the reason why it's here.
-    -   While many places throughout the world have sunk into The Depths, the city of Celtor is one of the largest and most notable.[\[4\]](#cite-note-arch-4)
+    -   While many places throughout the world have sunk into The Depths, the city of Celtor is one of the largest and most notable.[\[6\]](#cite-note-arch-6)
     -   The Ministry were responsible for the Drowning, and used the city as an offering to Yun'Shul.
 -   The Depths became the place souls went to after death after the Great Drowning, when the City of Celtor was sunk by the Celtorian Horror.
 
@@ -778,14 +760,14 @@ _"Aye, thanks for the help. The Authority better start sending some help before 
     -   Some assume that the dialogue given by the SC Guards to "Make Rosen proud." indicates he's still alive and retained as the Leader of Summer Company, though it may just mean spiritually.
     -   The recent creation of the Stormseye with Kyrsan Medallions seemingly confirms that Rosen is alive and still creating new types of guns.[\[8\]](#cite-note-stormseye-8)
 -   [The Summer Company](The_Summer_Company.md) has ties with [The Authority](The_Central_Authority.md). They contract the Company for firearms in exchange for goods and the liking.
-    -   Despite the fact that the Rifle Spear's description say that [The Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[4\]](#cite-note-arch-4)
-        -   The [The Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[4\]](#cite-note-arch-4)
+    -   Despite the fact that the Rifle Spear's description say that [The Summer Company](The_Summer_Company.md) secrets are being stolen by [The Authority](The_Central_Authority.md) they are still in business with them.[\[6\]](#cite-note-arch-6)
+        -   The [The Summer Company](The_Summer_Company.md) overlooked the actions [The Authority](The_Central_Authority.md) took under their noses and ignored them; presumably to avoid ruining their business relationship with them.[\[6\]](#cite-note-arch-6)
         -   Their relationship is likely what led to their conflict with [The Ignition Union](The_Ignition_Union.md), meeting thanks to both being hired by the same group. This has not been going well for them.
         -   It will be a matter of time until Summer Company is no use for The Authority, eventually terminating their contract between them, just like with the Legions.
 -   Although guns are sold in the Luminants, they are also obtainable from The Depths due to the fact that the original guns were Pre-Tidal.
 -   Apparently they have possession of some Kyrsan Medallions that they stole from the Ignition Union, creating the Stormseye.[\[8\]](#cite-note-stormseye-8)
 -   They are "business rivals" with the Ignition Union, stealing their cargo from ships while also attacking their base in the Eastern Luminant, [Miners Landing](<Miner's_Landing.md>).
-    -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so they attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[4\]](#cite-note-arch-4)
+    -   The conflict was started by the Ignition Union, who ironically viewed the Company as morally inferior, so they attacked them, raiding their gunpowder stores and murdering many of their employees, leading to the Company's retaliation.[\[6\]](#cite-note-arch-6)
 
 A Summer Company Member.
 
@@ -803,7 +785,7 @@ _"Celtor will repeat itself here... The world will fall under The Depths..." - M
 -   A group of mysterious [Shadowcasters](Shadowcast.md) known for their cult like appearance and ability to fade into the background of the world stage.
 -   Their goal is to cause the sinking of the Overworld into [The Depths](The_Depths.md) which will lead them to becoming Drowned Gods. Somehow.[\[1\]](#cite-note-rag-1)
 -   They were responsible for the sinking of [Celtor](Celtor.md), using it as an offering to [Yun'Shul](<Yun'Shul,_Keeper_of_Hearts.md>). The [Blindseer](Oath%253A_Blindseer.md) Glyphs hint at them having used a Contractor to do it.
-    -   This Contractor wasn't [Zi'eer](The_Lord_Regent.md).[\[4\]](#cite-note-arch-4)
+    -   This Contractor wasn't [Zi'eer](The_Lord_Regent.md).[\[6\]](#cite-note-arch-6)
 -   They are lead by prophets. There is no limit to how many there can be,[\[1\]](#cite-note-rag-1) but as of Year 1363 there are nine. They are ranked by strength.[\[1\]](#cite-note-rag-1)
 -   The leader of the Ministry is the First Prophet. Currently his whereabouts are unknown, but he is a Deepwoken and one of the most, if not the, most powerful 'human being', depending on your definition of the word.[\[1\]](#cite-note-rag-1)
 -   [The Ministry](The_Ministry.md) has some sort of hostility against the [Children of Navae](The_Children_of_Navae.md), which can be seen in skirmishes between two of each group at [Summer Isle](Summer_Isle.md).
@@ -829,10 +811,10 @@ A Dark Mage, located in Minityrsa.
 -   **Lore Sources:** _Whaling Knife (Description), Whaler Armor (Description), Eylis, The Punished Dreamer (NPC)._
 
 -   [The Knives of Eylis](The_Knives_of_Eylis.md) are an organization of ruthless, randomly hired mercenaries that work under [Eylis, the Punished Dreamer](Eylis,_the_Punished_Dreamer.md).
--   They live in the sewers of the [Central Luminant](Luminants.md).[\[4\]](#cite-note-arch-4)
+-   They live in the sewers of the [Central Luminant](Luminants.md).[\[6\]](#cite-note-arch-6)
 -   Their base is found in the [Voidheart](Voidheart.md), a mysterious location in another dimension.
 -   They possess a special Oath that lets them slow time around them (Source: Arch\_Mage).
--   [The Knives of Eylis](The_Knives_of_Eylis.md) are hired by [The Central Authority](The_Central_Authority.md) to cause havoc on Etrean ships in the East.[\[4\]](#cite-note-arch-4)
+-   [The Knives of Eylis](The_Knives_of_Eylis.md) are hired by [The Central Authority](The_Central_Authority.md) to cause havoc on Etrean ships in the East.[\[6\]](#cite-note-arch-6)
     -   The Knives of Eylis also kidnaps and take [Children of Navae](The_Children_of_Navae.md) hostage either on their own accord or to deliver them to Authority's hands in [Fort Merit](Fort_Merit.md).
 -   Given their name and the existence of [Megalodaunt](Megalodaunt.md) traps, they may be referred to Whalers as they hunt Megolaudants, though this is just speculation.
     -   Given we have seen no evidence of actual whales, or any mammals for that matter, left in the Deepwoken world, it's unknown how they earned this nickname.
@@ -858,7 +840,7 @@ A Knives of Eylis whaler assassin.
 -   Deepdelver is a special rank in the Ignition Union for those who delve deep into the depths, and have proved their merit by helping others. Comparable to the Black Divers. However unlike Black Divers that are recognised by their strength, Deepdelvers are granted the rank if proven that they will give their life to help others.
 -   Likely a socialist organization, as shown by their group being a _union_ and [Arcwarder's](Oath%253A_Arcwarder.md) description referencing Karl Marx's quote "From each according to their ability, to each according to their needs."
     -   This is furthered by [Deepdelver Gamma](Deepdelver_Gamma.md) describing them in a sense that can be interpreted as classless.
--   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[12\]](#cite-note-alpha-12) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[4\]](#cite-note-arch-4)
+-   They seem keen on being morally superior to their rivals, but this often fails and just results in them coming off as hypocritical, such as them being critical of The Divers for working for the Central Authority,[\[12\]](#cite-note-alpha-12) despite also being on their payroll, and when their simple disdain of the Summer Company gave way to outright murder.[\[6\]](#cite-note-arch-6)
     -   Furthermore, the Union is shown to employ at least one child soldier in [Epsi](Epsi.md), something not even the Authority stoops low enough to do.
 
 An ignition union guard, located at miners landing.
@@ -875,24 +857,24 @@ An ignition union guard, located at miners landing.
 -   The Authority is an Empire and a faction of "Peacekeepers."
 -   They are led by their [Grand Sovereign, Drallis Ehr](Drallis_Ehr.md).[\[1\]](#cite-note-rag-1) Several Wardens are in charge of operations across the globe, such as [Warden Jericho](Warden_Jericho.md), who oversees the war in the East. These Wardens then have Inquisitors that work under them.
     -   The Wardens are not mere pencil pushers, they are some of the fiercest warriors in their arsenal.
-    -   Many of the Inquisitors are named after flowers, such as [Inquisitor Lotus](Inquisitor_Lotus.md).[\[4\]](#cite-note-arch-4)
+    -   Many of the Inquisitors are named after flowers, such as [Inquisitor Lotus](Inquisitor_Lotus.md).[\[6\]](#cite-note-arch-6)
 -   The Central Authority has a FOB in The Eastern Luminant, named Fort Merit which is also referred to as Fortification Peak.
 -   The only faction aware of The Lord Regent of Etrea's true nature and what the Ministry is planning.
 -   The Officers which use [Thundercall](Thundercall.md) wear a red coat over their armour. The footsoldiers that use [Flamecharm](Flamecharm.md), ironically, lack the red coat.
 -   Consists mostly of [Adrets](Adret.md), but can vary with other aspects too.
-    -   [Canors](Canor.md) were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part. Despite this, they still receive minor preferentially treatment, but Adret still remain the most privileged members of their society.[\[4\]](#cite-note-arch-4)
+    -   [Canors](Canor.md) were once a major part of their military, but appear to have been phased out of the higher ranking positions for the most part. Despite this, they still receive minor preferentially treatment, but Adret still remain the most privileged members of their society.[\[6\]](#cite-note-arch-6)
     -   The soldiers that use [Flamecharm](Flamecharm.md) are comprised of other aspects.
         -   These just happen to be the lower-ranking, more poorly equipped, poorly trained and more expendable part of their army, often sent on suicide missions for seemingly no reason.
 -   They are rather _Authoritarian_, and are willing to use violence against peaceful protests against their rule.
 -   Currently at war with the Kingdom of Etrea.
 -   Their war against Etrea was initially an attempt for the Authority to maintain control in the East Luminant, but shifted gears once they learned the current [Lord Regent](The_Lord_Regent.md) of the nation was a high ranking member of the Ministry.
 -   [The Hive](The_Hive.md) are _not_ at war with the Authority, though tensions are very high between the two, as seen with the frequent skirmishes between [Hive Constructs](Hive_Construct.md) and Authority Captains.
--   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.[\[4\]](#cite-note-arch-4)
-    -   The Knives sow chaos anywhere for a price.[\[4\]](#cite-note-arch-4)
-    -   They purchase firearms from The Summer Company.[\[4\]](#cite-note-arch-4)
-    -   The Divers help with exploring and researching the Depths.[\[4\]](#cite-note-arch-4)
-    -   The Ignition Union kill creatures from the Deep.[\[4\]](#cite-note-arch-4)
-    -   However, all these factions, except the Knives, despise each other and often find themselves skirmishing, resulting in loss of life and resources.[\[4\]](#cite-note-arch-4)
+-   The Knives of Eylis, Divers, Summer Company and Ignition Union all work for them.[\[6\]](#cite-note-arch-6)
+    -   The Knives sow chaos anywhere for a price.[\[6\]](#cite-note-arch-6)
+    -   They purchase firearms from The Summer Company.[\[6\]](#cite-note-arch-6)
+    -   The Divers help with exploring and researching the Depths.[\[6\]](#cite-note-arch-6)
+    -   The Ignition Union kill creatures from the Deep.[\[6\]](#cite-note-arch-6)
+    -   However, all these factions, except the Knives, despise each other and often find themselves skirmishing, resulting in loss of life and resources.[\[6\]](#cite-note-arch-6)
         -   As they all work for them, the Authority refuses to send aid to any of the factions, causing a level of disenfranchisement.
 -   The forces of the Central Authority seem use all the 4 main attunements, although there are some more rare than others.
     -   [Flamecharm](Flamecharm.md) is used by soldiers, guards, lieutenants and commanders alike.
@@ -944,7 +926,7 @@ A hivekin wielding a ritual spear with heroism.
 -   **Lore Sources:** _[Karliah](Karliah.md) (Dialogue), [Akira](Akira.md) (Dialogue), The Authority (NPC Dialogue), Arch\_Mage (Discord), [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (Dialogue). [Dr. Carrion](Carrion,_Father_of_Evolution.md) (Dialogue), Divers Outfit Schematics (Description)_
 
 -   An organization that specializes in traversing and researching in The Depths. Their FOB is located in [The Depths](The_Depths.md), named "Castle Light". However this is just a FOB, not the headquarters, which are located in the Markor Citadel.
--   They were founded shortly after the Tides.[\[4\]](#cite-note-arch-4)
+-   They were founded shortly after the Tides.[\[6\]](#cite-note-arch-6)
 -   The Divers requires the individual to have a strong steady mind, as traversing in The Depths will take a toll against their sanity. Examples of lacking the Willpower is [Karliah](Karliah.md), in [Etris](Etris.md), who could easily go insane and kill someone close to her.
 -   (The Authority) The Divers are outsourced by [The Central Authority](The_Central_Authority.md) (Receives funds from The Authority) in return of their findings within The Depths.
 -   (The Authority) The Divers have a mixed relationship with The Authority, such as giving them the "cold shoulder". Despite this, people like the Ignition Union call the Divers "Authority Dogs".
@@ -953,7 +935,7 @@ A hivekin wielding a ritual spear with heroism.
 -   (Karliah) To enlist into becoming a Diver, the individual must complete a variety of trials, called "The Citadel Trials".
     -   It is likely that Karliah obtained the Citadel Trials in the Markor Citadel, located in the Central Luminant.
     -   It's possible that as a Deepbound you are in Scyphozia to complete your Markor Citadel trials as proving your worth surviving in the 1st layer. The other possibility is that you already completed them and your first mission is getting a post in Castle Light, in the 1st layer.
--   The Divers can travel between the boundaries of the Luminants and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition Union has a drill to get to the Second Layer, using it like a elevator.[\[4\]](#cite-note-arch-4)
+-   The Divers can travel between the boundaries of the Luminants and The Depths by using caverns that are deep enough to travel to The Depths, or use elevators constructed by them. Similar to how the Ignition Union has a drill to get to the Second Layer, using it like a elevator.[\[6\]](#cite-note-arch-6)
 -   Black Divers consist of a variety of individuals, from those who have created or provided a special service, such as Doctor Carrion for his development of Monster Mantras, or for their sheer power, like Chaser, Klaris, and Akira. Black Divers named in [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>) are:
     -   Desdemona Dusselden (Deceased)
     -   Aspen Hira (Deceased)
@@ -1072,7 +1054,7 @@ Golden Warrior Bouncer, located outside of Rat's Den.
 -   A label applicable to anyone who adventures for their own personal goals, including but not limited to historians, treasure hunters, warriors, etc. The title of Pathfinder varies dependent the individual; either focused more on combat or exploration.
     -   (Neero) The Pathfinders consist of Historians, Scavengers, Bounty Hunters, and Explorers.
     -   (Neero) A Pathfinder's goal is to explore "Driftlands", Islands that drifted from the [Voidsea](Voidsea.md), time to time.
--   The Pathfinders are similar to The Old Stewards, though not exactly the same. Pathfinders as a whole are more of a profession, unlike the Old Stewards that consists mostly of Historians.[\[4\]](#cite-note-arch-4)
+-   The Pathfinders are similar to The Old Stewards, though not exactly the same. Pathfinders as a whole are more of a profession, unlike the Old Stewards that consists mostly of Historians.[\[6\]](#cite-note-arch-6)
 -   (Bookworm Andros) Pathfinders can share tales of stories to others, such as the inspiration of a warrior who slayed a great beast.
 -   (Neero) [Erisia Island](Erisia.md) was a main priority to The Pathfinders, explained by Neero; that they were looking for an artifact named "The Forge of Sin". Unfortunately, someone got to the artifact first using brute force, leaving without a trace, likely [The Duke](Duke_Ishamon_Erisia.md).
 -   The player is referred to as one.
@@ -1156,9 +1138,9 @@ For people who wish to see the aspects, head [here](Aspects.md).
 
 -   This aspect shares traits with mostly comprised of similarities to racoons and possibly ferrets, but more generally shares the traits of many mustelids (animals like ferrets and otters) and prokaryotes (mainly raccoons).
 -   A prideful and greedy aspect that used to live in a great city - known by many for their legendary bankers and overall wealth - that was eventually swept by the Tides, and dragged to the bottom of the ocean and into [The Depths](The_Depths.md) where it stands today.
--   Celtors often gamble at docks and shipyards they stop at.[\[4\]](#cite-note-arch-4)
+-   Celtors often gamble at docks and shipyards they stop at.[\[6\]](#cite-note-arch-6)
 -   The common last names of the Celtor people bear similarities to Russian surnames.
--   Celtor is pronounced like "keltor," rather than "seltor."[\[4\]](#cite-note-arch-4)
+-   Celtor is pronounced like "keltor," rather than "seltor."[\[6\]](#cite-note-arch-6)
 
 ### Adret
 
@@ -1168,7 +1150,7 @@ _"Tattooed when they come of age, their tattoo represents the path of life they 
 -   Their tattoos represent their future and path of life they wish to seek. Although others may interpret their markings differently, it is up to the Adret on what their markings represent and mean.
 -   According to an [NPC](Ishan.md) in [Summer Isle](Summer_Isle.md), the Adrets are "different" and not from the "Old World". This is due to their origin as a once solitary folk living far in the past on the peaks of great mountain ranges now long since drowned, as with the waves the Adrets were forced to come to the little land remaining and join greater society, giving the appearance that they came with the waves themselves.
 -   The Adret aspect come from the Central Luminant, a realm with technology and military far beyond what the Etrean Luminant offers.
--   They are **NOT** fish.[\[4\]](#cite-note-arch-4)
+-   They are **NOT** fish.[\[6\]](#cite-note-arch-6)
 -   It is theorized they may be humans, as they invest purely into technology over spiritualism, create empires and wage the largest scale wars the world has seen, and once shared a close bond with Canor, the dog aspect.
 
 ### Canor
@@ -1189,7 +1171,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   An aspect of deer folks that consider themselves free from authority and subjugation and seek simple lives away from the conflicts.
 -   The Gremors are renowned for following Navae; that guides all Gremors forwards, acting as a compass.
-    -   Navae in reality is not a star, a direction or a Celestial Body; but a source that guides all Gremors by pointing towards herself.[\[4\]](#cite-note-arch-4)
+    -   Navae in reality is not a star, a direction or a Celestial Body; but a source that guides all Gremors by pointing towards herself.[\[6\]](#cite-note-arch-6)
 
 ### Khan
 
@@ -1197,7 +1179,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 
 -   A prideful aspect that shares traits with monkeys, known well for the crowns they wear as well as being steadfast warriors and mercenaries.
 -   They are a big part of the Hundred Legions.
--   Khans have a culture of betting on fights.[\[4\]](#cite-note-arch-4)
+-   Khans have a culture of betting on fights.[\[6\]](#cite-note-arch-6)
 -   Generally found in the Western Luminant.
 
 ### Felinor
@@ -1205,7 +1187,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 "_Akin to their feline features, the Felinor are carefree and whimsical. Seen to be thieves and outlaws, but merely seek a life of freedom."_
 
 -   An aspect that shares traits with felines who defined themselves as carefree and whimsical, seeking a life full of freedom and free will.
--   They had a kingdom in Markor that became assimilated into The Central Luminant, though they are still prevalent in the Central Luminant.[\[4\]](#cite-note-arch-4)
+-   They had a kingdom in Markor that became assimilated into The Central Luminant, though they are still prevalent in the Central Luminant.[\[6\]](#cite-note-arch-6)
 
 ### Vesperian
 
@@ -1215,7 +1197,7 @@ _"Deer-horned pariahs who lived a peaceful life as nomads before the tides came.
 -   Related to the Ganymedes as they all share the same ancestor.
 -   Their ancestors aren't the Primal Vesperians, they are just some of the earliest known beings that identified as a Vesperian.
 -   Their natural armor comes from the fact that most beetles have exoskeletons to protect them, which Vesperians are based on.
-    -   Vesperians grow their masks.[\[4\]](#cite-note-arch-4)
+    -   Vesperians grow their masks.[\[6\]](#cite-note-arch-6)
         -   This would imply they are organic in some way, thus the masks are most likely chitin.
         -   They can still remove them to eat or drink, however.
 
@@ -1275,7 +1257,7 @@ _"Solitary folk seldom seen below the clouds. Sharp and independent, though stro
 
 -   Krulians are shapeshifters, created from amalgamations of souls, and are servants of The Deep. They are the next step in the evolutionary chain and are the closest link between the people of Deepwoken and the Drowned Gods.
 -   [The Ferryman](The_Ferryman.md) identified himself as a Krulian in Boatman's Watch.
--   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color. They can customise their current one as they see fit, selecting any color of their choice, the Ferryman taking a liking to purple.[\[4\]](#cite-note-arch-4)
+-   They can use any attunement, but some prefer some more than others. The attunement they use is likened to a favorite color. They can customise their current one as they see fit, selecting any color of their choice, the Ferryman taking a liking to purple.[\[6\]](#cite-note-arch-6)
 -   They are far weaker when on the surface than in The Depths.
 -   There are higher Krulians and lesser Krulians.
     -   Higher Krulians are more powerful than even Zi'eer or Pleeksty.[\[1\]](#cite-note-rag-1)
@@ -1351,7 +1333,7 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 **Lore Sources:**
 
 -   Frostdraw freezes the surrounding air and molecules around it; creating ice.
-    -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization. In a sense, it's the ability to manipulate temperature, rather than manipulate a substance.[\[4\]](#cite-note-arch-4)
+    -   Frostdraw is not affiliated with water nor uses it; as it decreases the temperature of all things- to the point of freezing or crystalization. In a sense, it's the ability to manipulate temperature, rather than manipulate a substance.[\[6\]](#cite-note-arch-6)
 -   Saint Jay was a major figure to Frostdrawers, as a Talent is named after him that is a part of the Frostdraw Talent tree.
     -   It is presumed that similar to Pleeksty, Saint Jay was a cultivator of magic who taught his ways to others.
     -   He did not invent it, neither did Navae.
@@ -1402,8 +1384,8 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 -   Also known as Ironsong by other folk, Ironsing is the utilization of the Song to manipulate Metals and Steel.
     -   (Hive Tactician)There is no further evidence of Ironsing's origins or Lore, except for the [Hive Tactician Armor](Hive_Tactician_Armor.md). It's most likely that Ironsing was developed by The Hive.
--   The Hive held a monopoly on the Attunement, prior to the birth of [Adar](Adar,_Master_of_Metal.md), who spread it to the wider world.[\[4\]](#cite-note-arch-4)
-    -   Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.[\[4\]](#cite-note-arch-4)
+-   The Hive held a monopoly on the Attunement, prior to the birth of [Adar](Adar,_Master_of_Metal.md), who spread it to the wider world.[\[6\]](#cite-note-arch-6)
+    -   Unfortunately, Ironsing did not create the Ironclad. The Ironclad was constructed by shipwrights, shipped from The Central Luminant.[\[6\]](#cite-note-arch-6)
 
 ### Bloodrend
 
@@ -1418,8 +1400,8 @@ _"Pleeksty, whom taught us his concept of the Inner Flame— Deep within our sou
 
 **Lore Sources:** _Arch\_Mage (Discord Posts)_
 
--   Although 'Water Magic' is not exactly an Attunement, it is exclusive to The Depths.[\[4\]](#cite-note-arch-4)
-    -   Water Magic is the manifestation of the Song's wrath, with the capability of re-enacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. Those who wield this profound power have already discarded their humanity entirely.[\[4\]](#cite-note-arch-4)
+-   Although 'Water Magic' is not exactly an Attunement, it is exclusive to The Depths.[\[6\]](#cite-note-arch-6)
+    -   Water Magic is the manifestation of the Song's wrath, with the capability of re-enacting Horrors upon island and cities, and the ability to sway and direct the Tide of the sea as seen fit. Those who wield this profound power have already discarded their humanity entirely.[\[6\]](#cite-note-arch-6)
         -   It's the complete inverse of the Flames that keep Humanity alive - the various forges and artifacts scattered throughout the Luminants, which possess immense power to whichever faction is able to wield them. The Lifeweaving Forges possessed by the Hive are able to power teleportation beacons, manufacture the terrifyingly strong Hive Golems, and fuel various contraptions, such as the Gate to the entrance to Greathive Aratel and the boats modified by Lifeweaver technology.
 
 ## Oath Lore
@@ -1497,7 +1479,7 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   Dawnwalkers are people who swore an Oath with the Black Diver Klaris Llfiend, learning the arts of the Radiant Tones by way of binding themselves to her ways, and using the powers of the Oath to defeat the encroaching darkness of the world.
 -   Despite being an Oath, the progression of this Oath seems to be purely transactional as the player can only progress their Oath by exchanging Kyrsan Medallions to Klaris.
     -   It is fair to say that since you've already bound yourself to Klaris' cause, it is only natural that getting stronger is your only concern in order to banish darkness from the world.
--   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[4\]](#cite-note-arch-4)[\[13\]](#cite-note-yaya-13)
+-   The Oath, despite what is stated by flavor text, doesn't actually operate at Lightspeed.[\[6\]](#cite-note-arch-6)[\[13\]](#cite-note-yaya-13)
 
 ### Silentheart
 
@@ -1543,9 +1525,9 @@ Breaking an Oath is only possible through the assistance of Yun'Shul's communion
 -   There are three known Deepwoken, Amorus Pleeksty, Drallis Ehr and The First Prophet of the Ministry [Ministryiconfaction](The_Ministry.md) .[\[1\]](#cite-note-rag-1)
 -   Known to grant the user incredible power from the Drowned God they consumed a piece of.[\[1\]](#cite-note-rag-1)
     -   For example, Amorus Pleeksty became incredibly in tune with fire to the point of being able to communicate with it after consuming a piece of Korilfiend due to being the Drowned God of Fire.[\[1\]](#cite-note-rag-1)
--   Becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[4\]](#cite-note-arch-4)
--   The consequences of becoming a Deepwoken aren't yet known, but the drawbacks are.[\[4\]](#cite-note-arch-4)
-    -   It results in unknown physical changes.[\[4\]](#cite-note-arch-4)
+-   Becoming a Deepwoken grants you Immortality; the known Deepwoken, Pleeksty and the First Prophet, are over 1000 years old, living since the Tides or even the Old World.[\[1\]](#cite-note-rag-1)[\[6\]](#cite-note-arch-6)
+-   The consequences of becoming a Deepwoken aren't yet known, but the drawbacks are.[\[6\]](#cite-note-arch-6)
+    -   It results in unknown physical changes.[\[6\]](#cite-note-arch-6)
 -   It is worth noting that the Player Character, while not explicitly stated, is hinted to have potential to becoming a Deepwoken, thanks to certain Talent cards being directly under the tree "Deepwoken".
 
 ### Voidwalker/Void Oath
@@ -1657,7 +1639,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 **Lore Sources:** _Blindseer Stone, The Ministry (Mentioned), Warden Jericho's Journal (Mentioned), Celtorian Guard Dialouge (Year is stated)._
 
--   A new king rose to power and seemingly through the machinations of the Ministry, the Celtorian Horror - a colossal sea monster[\[4\]](#cite-note-arch-4) - dragged the city beneath the waves.
+-   A new king rose to power and seemingly through the machinations of the Ministry, the Celtorian Horror - a colossal sea monster[\[6\]](#cite-note-arch-6) - dragged the city beneath the waves.
 -   The City of Celtor is now located in [Scyphozia, The first Layer of The Depths](First_Layer.md).
 -   Drowning took place well after the Canticlysm ended in 904.
 
@@ -1667,7 +1649,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 -   The Underworld of Deepwoken, where souls who perished or became victims of the Voidsea go.
 -   The Depths surround the world on all sides.
-    -   The world of Deepwoken exists inside of a strange shape that can be simplified as being similar to that of a sphere. The 'walls' and 'sky' of said shape are the sea- beyond which lie The Depths.[\[4\]](#cite-note-arch-4)
+    -   The world of Deepwoken exists inside of a strange shape that can be simplified as being similar to that of a sphere. The 'walls' and 'sky' of said shape are the sea- beyond which lie The Depths.[\[6\]](#cite-note-arch-6)
 -   The Depths are made up of different 'layers,' strange, alien planes, each drastically different from the last.
     -   While it is believed that the layers are ordered top to bottom, there is no actual order to them. The first layer, Schyphozia, directly borders the world, encompassing it like a bubble. However, the second layer, The Eternal Gale, does not, and there is not any information on it's location within reality.
         -   There are three known Layers contained within The Depths, but there may well be more.
@@ -1677,7 +1659,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
             -   The third Layer is where the physical body of Korilfiend is found, and where [Amorus Pleeksty](Amorus_Pleeksty.md) is currently.
 -   It seems that the effects of aging are somewhat mitigated in The Depths, as there are some denizens of it that appear to have fallen centuries ago.
     -   Examples of such thing is Gild; an old Celtor who was alive before the city drowned.
--   When you return to the surface after the Depths Trial, your soul comes back to your body, healed courtesy of the Voices. Should your body be _compromised_ such as scattered on the winds, turned to ash or currently within a Thresher's digestive system, the Voices will instead build an entirely new one and place it at either the original site of death or a place you would consider home, or at the very least, safe, such as a recent inn.[\[4\]](#cite-note-arch-4)
+-   When you return to the surface after the Depths Trial, your soul comes back to your body, healed courtesy of the Voices. Should your body be _compromised_ such as scattered on the winds, turned to ash or currently within a Thresher's digestive system, the Voices will instead build an entirely new one and place it at either the original site of death or a place you would consider home, or at the very least, safe, such as a recent inn.[\[6\]](#cite-note-arch-6)
     -   In _Munet Journal XIV_, it is described that when someone returns from The Depths, it is accompanied by "a flash of light," with all wounds healed, and all limbs returned to their body.
 
 ### Ancestors of Ganymedes & Vesperians
@@ -1709,13 +1691,13 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 **Lore Sources:** _The Depths, Arch\_Mage (Discord), Yamaketzal (Tarnished Removal), Sibex (Resonance Check)_
 
--   Resonances are a result of a subconscious effort to prevent death, swearing a Vow to survive.[\[4\]](#cite-note-arch-4)
+-   Resonances are a result of a subconscious effort to prevent death, swearing a Vow to survive.[\[6\]](#cite-note-arch-6)
 -   Handheld Bells that allow the wielder to perform things that are impossible for the common people. An example of a Resonance Bell is The Duke's Bell, which allows him to create Golems.
     -   For one to obtain such power, they must be put into fights worthy to them; from purifying the corruption of the Deep or by defeating powerful foes. Once they are worthy, if they ever fall peril to the Depths' grasp, the chimes of bells will answer to their fate.
 -   Yun'Shul appears to have some sort of connections to bells as he permits special favors to owners of them.
--   Resonances are "Unique passages of the Song being brought out and wielded."[\[4\]](#cite-note-arch-4)
+-   Resonances are "Unique passages of the Song being brought out and wielded."[\[6\]](#cite-note-arch-6)
     -   In the game, you can only obtain your Resonance Bell in The Depths, as well as Sibex noting they are particularly good for drawing them out. Perhaps the The Depths is the sweet spot of this 'Unique Passage', risking your life to gain your Resonance through the Song.
--   Resonances can consist of any instrument, not just Bells.[\[4\]](#cite-note-arch-4)
+-   Resonances can consist of any instrument, not just Bells.[\[6\]](#cite-note-arch-6)
 -   Resonances seem to have a connection to the 'heart' or soul, as the player feels a sharp pull in their chest when Yamaketzal fixes their resonance,[\[7\]](#cite-note-yama-7) or how Yun'Shul's title is "Keeper of Hearts", and they have the power to grant you a new resonance. Although, every Drowned God within the lore have the ability to grant resonance anew or wishes to their seekers.
     -   (Sibex) Talking to Sibex about checking your resonance explains to you that whether or not your Soul is resonating.
     -   Corrupted resonance downsides are a misuse of the Song, according to Arch\_Mage and have deadly costs on the user. Each resonance is dangerous to the state of the current Deepwoken world, as the Tides are created by the further misuse of the Song. These resonances have a heavy toll not only on the user, but on the Song. Therefore creating the corrupted effect.
@@ -1725,7 +1707,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 -   Brought on by the Tides.
 -   A layer of fixed cloud that rotates around the world in a cycle.
 -   Bends and distorts light.
--   Has similar properties to the Voidsea,[\[4\]](#cite-note-arch-4) though whether or not it's actually as dangerous, given the absence of Lionfish and Dread Serpent, remains to be seen.
+-   Has similar properties to the Voidsea,[\[6\]](#cite-note-arch-6) though whether or not it's actually as dangerous, given the absence of Lionfish and Dread Serpent, remains to be seen.
 
 ### Timeline
 
@@ -1765,7 +1747,7 @@ This category lists all the Lore of Deepwoken, taking events after the Tides, up
 
 ## Deepwoken: 1271-1363
 
-This category lists new lore that has been added into Deepwoken through updates during Verse 1 or posthumously during Verse 2. This will cover what lore has been dropped, and the date it has been found or released. Do note that the dates listed in the game are not indicative of the time that has actually passed in the game.[\[4\]](#cite-note-arch-4)
+This category lists new lore that has been added into Deepwoken through updates during Verse 1 or posthumously during Verse 2. This will cover what lore has been dropped, and the date it has been found or released. Do note that the dates listed in the game are not indicative of the time that has actually passed in the game.[\[6\]](#cite-note-arch-6)
 
 ### Year 1272
 
@@ -1813,7 +1795,7 @@ This category lists new lore that has been added into Deepwoken through updates 
 
 ## Deepwoken: 1363
 
-This category lists new lore that has been added into Deepwoken through updates during Verse 2. This will cover what lore has been dropped, and the date it has been found or released. Do note that the dates listed in the game are not indicative of the time that has actually passed in the game.[\[4\]](#cite-note-arch-4)
+This category lists new lore that has been added into Deepwoken through updates during Verse 2. This will cover what lore has been dropped, and the date it has been found or released. Do note that the dates listed in the game are not indicative of the time that has actually passed in the game.[\[6\]](#cite-note-arch-6)
 
 ### Year 1363
 
@@ -1850,9 +1832,9 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   Some gain special abilities from being in the Depths, and all of them can become corrupted, enhanced monsters signified by the purple smoke they emit.
 -   A select few "monsters" are artificial, namely the Rock Golems, Enforcers and Hive Constructs.
 -   Monsters have a variety different origins:
-    -   Some simply evolved like normal animals, trying to survive in the broken world.[\[4\]](#cite-note-arch-4)
-    -   Some are native to The Depths and found their way to the surface.[\[4\]](#cite-note-arch-4)
-    -   Some were normal animals, but The Depths' influence altered them.[\[4\]](#cite-note-arch-4)
+    -   Some simply evolved like normal animals, trying to survive in the broken world.[\[6\]](#cite-note-arch-6)
+    -   Some are native to The Depths and found their way to the surface.[\[6\]](#cite-note-arch-6)
+    -   Some were normal animals, but The Depths' influence altered them.[\[6\]](#cite-note-arch-6)
 
 ### Megalodaunts
 
@@ -1899,7 +1881,7 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 ### Brainsuckers
 
 -   Large animals that resemble bats, but with some features that resemble insects as well.
--   They originated in The Depths, but found their way to the surface and have begun reproducing there as well.[\[4\]](#cite-note-arch-4)
+-   They originated in The Depths, but found their way to the surface and have begun reproducing there as well.[\[6\]](#cite-note-arch-6)
     -   They particularly favour regions in The Aratel Sea.
     -   Though their natural habitat is The Depths, none are actually found down there.
         -   This could be because, being bats, they prefer environments with fewer transients passing through, and thus inhabit deeper Layers.
@@ -1946,8 +1928,8 @@ The various fauna of the Deepwoken world, the bizarre environment shaping even s
 -   Humanoid squid-like monsters found digging in [The City of the Drowned](The_City_of_the_Drowned.md).
 -   Though one is only seen at a time, there are multiple of them.
     -   They may be very territorial, thus not letting others in to their digging spot.
--   They utilise a parasite to turn their victims into [Mudskippers](Mudskipper.md).[\[4\]](#cite-note-arch-4) using their [Odd Tentical](Odd_Tentacle.md)
--   They are highly intelligent, posses a wide range of emotions, and have high level combat prowess.[\[4\]](#cite-note-arch-4)
+-   They utilise a parasite to turn their victims into [Mudskippers](Mudskipper.md).[\[6\]](#cite-note-arch-6) using their [Odd Tentical](Odd_Tentacle.md)
+-   They are highly intelligent, posses a wide range of emotions, and have high level combat prowess.[\[6\]](#cite-note-arch-6)
 -   While they are predatory in nature, they dislike the taste of human flesh. according to the [Nautilodaunt Beak](Nautilodaunt_Beak.md)'s description
 
 ## Player Lore
@@ -1995,7 +1977,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
 -   Your health bar depicts your soul's wellbeing. One death in the Luminant coils your soul a step closer to the depths, leaving a tainted stain onto your health. One more death in the Luminant and your soul drowns to The Depths, waking up in the Celtor Wastes.
     -   Increasing your power while your health is tainted bolsters your soul, escaping the grasps of The Depths and reverting your health bar back to normal.
 -   In the Depths, your health bar is a cobalt blue; indicating that your soul- and your life, is sealed within The Depths. Dying in The Depths sends you to the Fragments of Self, a purgatory made of what's left of your collective consciousness before it all drowns.
--   The Hippocampal Pool and Echoes are purely there for gameplay purposes, with the destruction of the ego in the Fragments of Self being the end for the character and their legacy.[\[4\]](#cite-note-arch-4)
+-   The Hippocampal Pool and Echoes are purely there for gameplay purposes, with the destruction of the ego in the Fragments of Self being the end for the character and their legacy.[\[6\]](#cite-note-arch-6)
 -   If your health bar is stained, that means your character is injured. Drowning (dying with a stained health bar) sends the player's soul to the Depths, whereas your body stays on the surface. This is why you need to enter the Depths through a whirlpool to enter Castle Light, as you bring your body with you there. When a player escapes the Depths, their soul is returned to their body and heals it fully.
 
 ## Miscellaneous
@@ -2007,7 +1989,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
 -   Individuals born with the Gift; a Regalia that grants them the ability to radiate 'Light' within their very own soul by altering their Murmur. Lightkeepers are responsible of maintaining the Lighthouses for travel between Luminants, at the cost of their own wellbeing and ability to use Attunements.
     -   Lightkeep draws from a verse of the Song called the Radiant Tones.
     -   The price of the Lightkeeper's own wellbeing is that they constantly draw upon their Gift to project Light, using their own soul for the safety and benefit of others. It is unknown what their expected lifespan is during their role as a Lightkeeper.
--   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving the latter complete control over movement between Luminants.[\[4\]](#cite-note-arch-4)
+-   Many of the Lightkeepers are under the jurisdiction of the Central Authority, giving the latter complete control over movement between Luminants.[\[6\]](#cite-note-arch-6)
 -   Based on what [Nimea](The_Hidden_Village.md) said, _"Light is to Void as Paint is to a Canvas- it draws out substance."_, Lightkeeping can be utilized to illuminate objects long lost to the Tides.
 -   The only Lightkeeper that we know of is the one mentioned by Nimea and Klaris, Viqh, the Lightkeeper of the Eastern Lighthouse.
 -   Apparently Lightkeepers can't leave their lighthouse at any cost, as told by Klaris, showing that they are of great value and can't be put to any risk.
@@ -2025,7 +2007,7 @@ Though technically a blank slate of varying aspects and abilities, even the play
 #### Metals
 
 -   Erisore is a rare material that was very common in Erisia.
--   Irithine has naturally corrosive properties,[\[4\]](#cite-note-arch-4) being most commonly found in a cave filled with acid.
+-   Irithine has naturally corrosive properties,[\[6\]](#cite-note-arch-6) being most commonly found in a cave filled with acid.
 -   Astruline is formed from deposits in asteroids.
 
 ### Lightkeeper Temple Glyphs
@@ -2043,7 +2025,7 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 
 ### Animals
 
--   The Deepwoken World is home to many non-monster animals, though there is little evidence of their existence in many cases.[\[4\]](#cite-note-arch-4)
+-   The Deepwoken World is home to many non-monster animals, though there is little evidence of their existence in many cases.[\[6\]](#cite-note-arch-6)
     -   Many animals share traits with the aspects seen in the game.
         -   Steward Heidegard theorized in the 'Gremor Hypothesis' that the reason for this was due to the progenitors of each aspect creating Vows with other aspects.
     -   While there is major proof of birds existing, such as nests, eggs and the sound of their chirping, they cannot actually be seen.
@@ -2076,13 +2058,13 @@ _"It details a City of long gone, sunken Celtor - A horrible drowning swallowed 
 -   An ability that installs a wall in the mind.
 -   These can either be used to protect the user from mental attacks, or can be used the opposite way, supressing memories and creating false truths in the users mind.
 -   The protective kind used by Authority Inquisitors are administered by a single handler and require intense concentration to keep active. Meanwhile the one the Lord Regent used on the Etreans was used on the entire city, which was noted to be impossible.
--   The Lord Regent's veil has a few glaring weaknesses, such as if someone affected by it is asked information about the Lord Regent, then forgets their answer, such as through being administered an amnesiac, and is asked again, their answer will be different, as well as the strong minded having a level of resistence towards it.[\[4\]](#cite-note-arch-4)
+-   The Lord Regent's veil has a few glaring weaknesses, such as if someone affected by it is asked information about the Lord Regent, then forgets their answer, such as through being administered an amnesiac, and is asked again, their answer will be different, as well as the strong minded having a level of resistence towards it.[\[6\]](#cite-note-arch-6)
 -   Administering enough Thundercall to the mind of someone who has one can break them.
     -   In the case of 'Operation Puppet\_Master,' the individual who had their mental veil broken died due to their eyes exploding, though this may only be due to the nature of the Lord Regent's veil specifically.
 
 ### Language
 
--   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.[\[4\]](#cite-note-arch-4)
+-   There were used to be a variety of Languages back in the Old World Era, but were lost due to the occurrence of The Tides.[\[6\]](#cite-note-arch-6)
 -   The language seen throughout the game is simply called 'Common.'
 -   There is a language used by the Kyrsgarde, similar to common.
 
@@ -2170,12 +2152,12 @@ _\----- WHEN THE DEPTHS OF SEA COME ALIVE IN A MOTION, STRONGLY SHAKES THE LAND 
 
 ## References
 
-1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) [1.69](#cite-ref-rag-1-69) [1.70](#cite-ref-rag-1-70) Developer ragoozer
+1.  ↑ [1.00](#cite-ref-rag-1-0) [1.01](#cite-ref-rag-1-1) [1.02](#cite-ref-rag-1-2) [1.03](#cite-ref-rag-1-3) [1.04](#cite-ref-rag-1-4) [1.05](#cite-ref-rag-1-5) [1.06](#cite-ref-rag-1-6) [1.07](#cite-ref-rag-1-7) [1.08](#cite-ref-rag-1-8) [1.09](#cite-ref-rag-1-9) [1.10](#cite-ref-rag-1-10) [1.11](#cite-ref-rag-1-11) [1.12](#cite-ref-rag-1-12) [1.13](#cite-ref-rag-1-13) [1.14](#cite-ref-rag-1-14) [1.15](#cite-ref-rag-1-15) [1.16](#cite-ref-rag-1-16) [1.17](#cite-ref-rag-1-17) [1.18](#cite-ref-rag-1-18) [1.19](#cite-ref-rag-1-19) [1.20](#cite-ref-rag-1-20) [1.21](#cite-ref-rag-1-21) [1.22](#cite-ref-rag-1-22) [1.23](#cite-ref-rag-1-23) [1.24](#cite-ref-rag-1-24) [1.25](#cite-ref-rag-1-25) [1.26](#cite-ref-rag-1-26) [1.27](#cite-ref-rag-1-27) [1.28](#cite-ref-rag-1-28) [1.29](#cite-ref-rag-1-29) [1.30](#cite-ref-rag-1-30) [1.31](#cite-ref-rag-1-31) [1.32](#cite-ref-rag-1-32) [1.33](#cite-ref-rag-1-33) [1.34](#cite-ref-rag-1-34) [1.35](#cite-ref-rag-1-35) [1.36](#cite-ref-rag-1-36) [1.37](#cite-ref-rag-1-37) [1.38](#cite-ref-rag-1-38) [1.39](#cite-ref-rag-1-39) [1.40](#cite-ref-rag-1-40) [1.41](#cite-ref-rag-1-41) [1.42](#cite-ref-rag-1-42) [1.43](#cite-ref-rag-1-43) [1.44](#cite-ref-rag-1-44) [1.45](#cite-ref-rag-1-45) [1.46](#cite-ref-rag-1-46) [1.47](#cite-ref-rag-1-47) [1.48](#cite-ref-rag-1-48) [1.49](#cite-ref-rag-1-49) [1.50](#cite-ref-rag-1-50) [1.51](#cite-ref-rag-1-51) [1.52](#cite-ref-rag-1-52) [1.53](#cite-ref-rag-1-53) [1.54](#cite-ref-rag-1-54) [1.55](#cite-ref-rag-1-55) [1.56](#cite-ref-rag-1-56) [1.57](#cite-ref-rag-1-57) [1.58](#cite-ref-rag-1-58) [1.59](#cite-ref-rag-1-59) [1.60](#cite-ref-rag-1-60) [1.61](#cite-ref-rag-1-61) [1.62](#cite-ref-rag-1-62) [1.63](#cite-ref-rag-1-63) [1.64](#cite-ref-rag-1-64) [1.65](#cite-ref-rag-1-65) [1.66](#cite-ref-rag-1-66) [1.67](#cite-ref-rag-1-67) [1.68](#cite-ref-rag-1-68) Developer ragoozer
 2.  ↑ [2.0](#cite-ref-kamas-2-0) [2.1](#cite-ref-kamas-2-1) [2.2](#cite-ref-kamas-2-2) [2.3](#cite-ref-kamas-2-3) [Flareblood Kamas](Flareblood_Kamas.md) description
 3.  ↑ [3.0](#cite-ref-vy-3-0) [3.1](#cite-ref-vy-3-1) [3.2](#cite-ref-vy-3-2) [3.3](#cite-ref-vy-3-3) [3.4](#cite-ref-vy-3-4) [3.5](#cite-ref-vy-3-5) [Vyrelda](Vyrelda,_Master_of_Blood.md)
-4.  ↑ [4.00](#cite-ref-arch-4-0) [4.01](#cite-ref-arch-4-1) [4.02](#cite-ref-arch-4-2) [4.03](#cite-ref-arch-4-3) [4.04](#cite-ref-arch-4-4) [4.05](#cite-ref-arch-4-5) [4.06](#cite-ref-arch-4-6) [4.07](#cite-ref-arch-4-7) [4.08](#cite-ref-arch-4-8) [4.09](#cite-ref-arch-4-9) [4.10](#cite-ref-arch-4-10) [4.11](#cite-ref-arch-4-11) [4.12](#cite-ref-arch-4-12) [4.13](#cite-ref-arch-4-13) [4.14](#cite-ref-arch-4-14) [4.15](#cite-ref-arch-4-15) [4.16](#cite-ref-arch-4-16) [4.17](#cite-ref-arch-4-17) [4.18](#cite-ref-arch-4-18) [4.19](#cite-ref-arch-4-19) [4.20](#cite-ref-arch-4-20) [4.21](#cite-ref-arch-4-21) [4.22](#cite-ref-arch-4-22) [4.23](#cite-ref-arch-4-23) [4.24](#cite-ref-arch-4-24) [4.25](#cite-ref-arch-4-25) [4.26](#cite-ref-arch-4-26) [4.27](#cite-ref-arch-4-27) [4.28](#cite-ref-arch-4-28) [4.29](#cite-ref-arch-4-29) [4.30](#cite-ref-arch-4-30) [4.31](#cite-ref-arch-4-31) [4.32](#cite-ref-arch-4-32) [4.33](#cite-ref-arch-4-33) [4.34](#cite-ref-arch-4-34) [4.35](#cite-ref-arch-4-35) [4.36](#cite-ref-arch-4-36) [4.37](#cite-ref-arch-4-37) [4.38](#cite-ref-arch-4-38) [4.39](#cite-ref-arch-4-39) [4.40](#cite-ref-arch-4-40) [4.41](#cite-ref-arch-4-41) [4.42](#cite-ref-arch-4-42) [4.43](#cite-ref-arch-4-43) [4.44](#cite-ref-arch-4-44) [4.45](#cite-ref-arch-4-45) [4.46](#cite-ref-arch-4-46) [4.47](#cite-ref-arch-4-47) [4.48](#cite-ref-arch-4-48) [4.49](#cite-ref-arch-4-49) [4.50](#cite-ref-arch-4-50) [4.51](#cite-ref-arch-4-51) [4.52](#cite-ref-arch-4-52) [4.53](#cite-ref-arch-4-53) [4.54](#cite-ref-arch-4-54) [4.55](#cite-ref-arch-4-55) [4.56](#cite-ref-arch-4-56) [4.57](#cite-ref-arch-4-57) [4.58](#cite-ref-arch-4-58) [4.59](#cite-ref-arch-4-59) [4.60](#cite-ref-arch-4-60) [4.61](#cite-ref-arch-4-61) [4.62](#cite-ref-arch-4-62) [4.63](#cite-ref-arch-4-63) [4.64](#cite-ref-arch-4-64) [4.65](#cite-ref-arch-4-65) [4.66](#cite-ref-arch-4-66) [4.67](#cite-ref-arch-4-67) [4.68](#cite-ref-arch-4-68) [4.69](#cite-ref-arch-4-69) [4.70](#cite-ref-arch-4-70) [4.71](#cite-ref-arch-4-71) [4.72](#cite-ref-arch-4-72) [4.73](#cite-ref-arch-4-73) [4.74](#cite-ref-arch-4-74) [4.75](#cite-ref-arch-4-75) [4.76](#cite-ref-arch-4-76) Developer Arch\_Mage
-5.  ↑ [5.0](#cite-ref-firstlight-5-0) [5.1](#cite-ref-firstlight-5-1) [5.2](#cite-ref-firstlight-5-2) [5.3](#cite-ref-firstlight-5-3) [5.4](#cite-ref-firstlight-5-4) [5.5](#cite-ref-firstlight-5-5) [5.6](#cite-ref-firstlight-5-6) [5.7](#cite-ref-firstlight-5-7) [First Light](First_Light.md) description
-6.  ↑ [6.0](#cite-ref-doc-6-0) [6.1](#cite-ref-doc-6-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+4.  ↑ [4.0](#cite-ref-firstlight-4-0) [4.1](#cite-ref-firstlight-4-1) [First Light](First_Light.md) description
+5.  ↑ [5.0](#cite-ref-doc-5-0) [5.1](#cite-ref-doc-5-1) [Carrion, Father of Evolution](Carrion,_Father_of_Evolution.md)
+6.  ↑ [6.00](#cite-ref-arch-6-0) [6.01](#cite-ref-arch-6-1) [6.02](#cite-ref-arch-6-2) [6.03](#cite-ref-arch-6-3) [6.04](#cite-ref-arch-6-4) [6.05](#cite-ref-arch-6-5) [6.06](#cite-ref-arch-6-6) [6.07](#cite-ref-arch-6-7) [6.08](#cite-ref-arch-6-8) [6.09](#cite-ref-arch-6-9) [6.10](#cite-ref-arch-6-10) [6.11](#cite-ref-arch-6-11) [6.12](#cite-ref-arch-6-12) [6.13](#cite-ref-arch-6-13) [6.14](#cite-ref-arch-6-14) [6.15](#cite-ref-arch-6-15) [6.16](#cite-ref-arch-6-16) [6.17](#cite-ref-arch-6-17) [6.18](#cite-ref-arch-6-18) [6.19](#cite-ref-arch-6-19) [6.20](#cite-ref-arch-6-20) [6.21](#cite-ref-arch-6-21) [6.22](#cite-ref-arch-6-22) [6.23](#cite-ref-arch-6-23) [6.24](#cite-ref-arch-6-24) [6.25](#cite-ref-arch-6-25) [6.26](#cite-ref-arch-6-26) [6.27](#cite-ref-arch-6-27) [6.28](#cite-ref-arch-6-28) [6.29](#cite-ref-arch-6-29) [6.30](#cite-ref-arch-6-30) [6.31](#cite-ref-arch-6-31) [6.32](#cite-ref-arch-6-32) [6.33](#cite-ref-arch-6-33) [6.34](#cite-ref-arch-6-34) [6.35](#cite-ref-arch-6-35) [6.36](#cite-ref-arch-6-36) [6.37](#cite-ref-arch-6-37) [6.38](#cite-ref-arch-6-38) [6.39](#cite-ref-arch-6-39) [6.40](#cite-ref-arch-6-40) [6.41](#cite-ref-arch-6-41) [6.42](#cite-ref-arch-6-42) [6.43](#cite-ref-arch-6-43) [6.44](#cite-ref-arch-6-44) [6.45](#cite-ref-arch-6-45) [6.46](#cite-ref-arch-6-46) [6.47](#cite-ref-arch-6-47) [6.48](#cite-ref-arch-6-48) [6.49](#cite-ref-arch-6-49) [6.50](#cite-ref-arch-6-50) [6.51](#cite-ref-arch-6-51) [6.52](#cite-ref-arch-6-52) [6.53](#cite-ref-arch-6-53) [6.54](#cite-ref-arch-6-54) [6.55](#cite-ref-arch-6-55) [6.56](#cite-ref-arch-6-56) [6.57](#cite-ref-arch-6-57) [6.58](#cite-ref-arch-6-58) [6.59](#cite-ref-arch-6-59) [6.60](#cite-ref-arch-6-60) [6.61](#cite-ref-arch-6-61) [6.62](#cite-ref-arch-6-62) [6.63](#cite-ref-arch-6-63) [6.64](#cite-ref-arch-6-64) [6.65](#cite-ref-arch-6-65) [6.66](#cite-ref-arch-6-66) [6.67](#cite-ref-arch-6-67) [6.68](#cite-ref-arch-6-68) [6.69](#cite-ref-arch-6-69) [6.70](#cite-ref-arch-6-70) [6.71](#cite-ref-arch-6-71) [6.72](#cite-ref-arch-6-72) [6.73](#cite-ref-arch-6-73) [6.74](#cite-ref-arch-6-74) [6.75](#cite-ref-arch-6-75) Cite error: Invalid `<ref>` tag; no text was provided for refs named `arch`
 7.  ↑ [7.0](#cite-ref-yama-7-0) [7.1](#cite-ref-yama-7-1) [7.2](#cite-ref-yama-7-2) [7.3](#cite-ref-yama-7-3) [7.4](#cite-ref-yama-7-4) [Yamaketzal](Yamaketzal.md)
 8.  ↑ [8.0](#cite-ref-stormseye-8-0) [8.1](#cite-ref-stormseye-8-1) Cite error: Invalid `<ref>` tag; no text was provided for refs named `stormseye`
 9.  [↑](#cite-ref-gran-9-0) Cite error: Invalid `<ref>` tag; no text was provided for refs named `gran`

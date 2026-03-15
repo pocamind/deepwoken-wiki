@@ -1,6 +1,6 @@
 ---
 title: "Chaser, Scholar of the Crimson Contract"
-revid: 200120
+revid: 200890
 source: https://deepwoken.fandom.com/wiki/Chaser%2C_Scholar_of_the_Crimson_Contract
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, Bosses, The Ministry, Black Divers, Voiced Characters]
@@ -93,6 +93,7 @@ Dodge
  | Three waves of blood mist spread out under Chaser, covering the whole area.
 
 -   Getting hit stuns you and additionally prevents jumping, guaranteeing the other rings hit.
+-   Currently bugged and is purely visual.
 
  | 
 
@@ -102,7 +103,7 @@ Dodge
 **Stalactite Fall**  
 (★☆☆)
 
- | Chaser drops many stalactites from the ceiling. Does low posture damage.
+ | Chaser drops many stalactites from the ceiling. Does no posture damage.
 
 -   During the second phase of the fight, Chaser will collapse the ceiling, triggering this attack for the last time for the remainder of the fight. He may attempt to use it again, but it will fail.
 
