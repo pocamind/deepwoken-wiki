@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 200917
+revid: 201031
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -46,17 +46,18 @@ The full Trueblood set talent provides the talent [Critical Heal](Talents.md#cri
 
 **Cannot** proc Critical Heal:
 
--   [Bloodless Gems](Bloodless_Gem.md)
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md) Healing Hair Spray
 
 **Can** proc Critical Heal:
 
 -   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
--   Instant Health potion (any potency, however you have to spam a lot of them as the proc chance is low)
+-   Instant Health potion (any potency, however, you have to spam a lot of them as the proc chance is low)
 -   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
 -   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md)
 -   [Multiplicity](Multiplicity.md) Enchant Grease
 -   [Flame Wisp](Flamecharm.md) Healing
+-   [Bloodless Gems](Bloodless_Gem.md)
+-   Critical Heal (Critical Heal counts as a source of healing, which means a Critical Heal can theoretically proc on itself an unlimited amount of times)
 
 ## Crafting
 

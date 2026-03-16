@@ -1,6 +1,6 @@
 ---
 title: Merit Detainment Core
-revid: 195314
+revid: 201039
 source: https://deepwoken.fandom.com/wiki/Merit_Detainment_Core
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Central Authority, Dungeons]
@@ -35,7 +35,7 @@ To speak with [Titus Fulminus Destellus](Titus_Fulminus_Destellus.md), you must 
 ### Cell Block
 
 -   A large cell block filled with Authority guards is the first room the player will encounter.
--   These cells hold [Prisoners](Prisoner.md), including [Titus](Titus_Fulminus_Destellus.md), who is contained in a larger cell than the rest.
+-   These cells hold [Prisoners](Prisoner.md) and a [Friendly Prisoner](Friendly_Prisoner.md), including [Titus](Titus_Fulminus_Destellus.md), who is contained in a larger cell than the rest.
 -   A ventilation shaft is located on the top floor of the cell block, which can be broken to enter the library.
 
 ### Library

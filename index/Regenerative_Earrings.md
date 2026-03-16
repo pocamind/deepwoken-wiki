@@ -1,6 +1,6 @@
 ---
 title: Regenerative Earrings
-revid: 200918
+revid: 201030
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -43,7 +43,6 @@ The full Trueblood set talent provides the talent [Critical Heal](Talents.md#cri
 
 **Cannot** proc Critical Heal:
 
--   [Bloodless Gems](Bloodless_Gem.md)
 -   [Fadetrimmer](Oath%253A_Fadetrimmer.md) Healing Hair Spray
 
 **Can** proc Critical Heal:
@@ -54,6 +53,8 @@ The full Trueblood set talent provides the talent [Critical Heal](Talents.md#cri
 -   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md)
 -   [Multiplicity](Multiplicity.md) Enchant Grease
 -   [Flame Wisp](Flamecharm.md) Healing
+-   [Bloodless Gems](Bloodless_Gem.md)
+-   Critical Heal (Critical Heal counts as a source of healing, which means a Critical Heal can theoretically proc on itself an unlimited amount of times)
 
 ## Crafting
 

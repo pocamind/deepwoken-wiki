@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 200971
+revid: 201047
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -27,7 +27,10 @@ categories: [Equipment, Rings]
 
 **Transfusion Ring** is a Ring [Equipment](Equipment.md) piece that increases your Health by 20 at the cost of halving all incoming healing.
 
+## Location
+
+Ring location in the [Vow of Iron](Vow_of_Iron.md) map:
+
 ## Trivia
 
--   Ring location in the [Vow of Iron](Vow_of_Iron.md) map
--   This ring intermittently emits gold-colored particles
+-   This ring intermittently emits gold-colored particles.
