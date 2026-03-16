@@ -1,6 +1,6 @@
 ---
 title: "Funke, Master of Thunder"
-revid: 191442
+revid: 201006
 source: https://deepwoken.fandom.com/wiki/Funke%2C_Master_of_Thunder
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Canor NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Divers, Diver Enemies, NPCs located in the Eastern Luminant]
@@ -188,6 +188,19 @@ Funke executes his opponent after knocking them:
 <tr>
   <td colspan="6">[End Dialogue]</td>
   <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Silentheart:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td colspan="12">Your Ether... Just what have you done?</td>
 </tr>
 </tbody>
 </table>

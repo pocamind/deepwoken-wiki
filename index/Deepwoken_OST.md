@@ -1,6 +1,6 @@
 ---
 title: Deepwoken OST
-revid: 200355
+revid: 201000
 source: https://deepwoken.fandom.com/wiki/Deepwoken_OST
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Upcoming content, In progress with reason, InProgressPages, Deepwoken]
@@ -40,7 +40,7 @@ Please support _[Naktigonis](https://deepwoken.fandom.com/wiki/User:Naktigonis)_
 | 5 | [Nascence](https://soundcloud.com/naktigonis/nascence) | 2:59 | [Character Creation](Character_Creation.md) |  |
 | 6 | [Solivagant](https://soundcloud.com/naktigonis/solivagant) | 2:20 | [Etrean Wilds](Etrean_Wilds.md) |  |
 | 7 | [Peregrine](https://soundcloud.com/naktigonis/peregrine) | 2:09 | [Isle of Vigils](Isle_of_Vigils.md) and [Miner's Landing](<Miner's_Landing.md>) |  |
-| 8 | [In Shade, Hollow](https://soundcloud.com/naktigonis/in-shade-hollow) | 2:08 | [Ancient Rotlands](Ancient_Rotlands.md), [Kyrsan Shrine of Arrival](Kyrsan_Shrine_of_Arrival.md), [The Garden Reservoir](The_Garden_Reservoir.md), and [The Sunken Railways](The_Sunken_Railways.md) |  |
+| 8 | [In Shade, Hollow](https://soundcloud.com/naktigonis/in-shade-hollow) | 2:08 | [Ancient Rotlands](Ancient_Rotlands.md), [Kyrsan Shrine of Arrival](Kyrsan_Shrine_of_Arrival.md), [The Garden Reservoir](The_Garden_Reservoir.md),[The Sunken Railways](The_Sunken_Railways.md), and [Firfire Caverns](Firfire_Caverns.md) |  |
 | 9 | [Dancing Steps Of War](https://soundcloud.com/naktigonis/dancing-steps-of-war) | 2:09 | [Temple of the Blade](Temple_of_the_Blade.md) |  |
 | 10 | [To Fight, Sanguine](https://soundcloud.com/naktigonis/to-fight-sanguine) | 2:26 | Default Combat Music |  |
 | 11 | [To Shores, Distant](https://soundcloud.com/naktigonis/to-shores-distant) | 2:08 | [Boatman's Watch](<Boatman's_Watch.md>), [Starfield Veldt](Starfield_Veldt.md), [The Aratel Sea](The_Aratel_Sea.md), and [The Etrean Sea](The_Etrean_Sea.md) |  |

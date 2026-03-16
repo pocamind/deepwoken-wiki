@@ -1,6 +1,6 @@
 ---
 title: Watcher
-revid: 199722
+revid: 201005
 source: https://deepwoken.fandom.com/wiki/Watcher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters]
@@ -162,4 +162,3 @@ This dialogue will be activated if you take off your Angel Mask while the Watche
 -   The Watcher by the Temple of the Forgotten Flame was, according to it, brought along with Erisia once it drifted out of the Voidsea.
 -   The Watcher’s appearance is a possible reference to the Demogorgon from Stranger Things.
 -   Each Watcher has a shared cooldown of 2 Minutes before they are able to spot the same entity again.
--   The Watcher at the [Temple of the Forgotten Flame](The_Temple_of_the_Forgotten_Flame.md) can be damaged by [Bloodcurdle](Bloodrend.md#bloodcurdle), but after sustaining enough damage, it will disable any Mantras cast in its range. This can cause certain Mantras to go on an indefinite cooldown.

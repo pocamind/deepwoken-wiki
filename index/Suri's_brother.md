@@ -1,8 +1,9 @@
 ---
 title: "Suri's brother"
-revid: 196480
+revid: 200983
 source: https://deepwoken.fandom.com/wiki/Suri's_brother
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
+categories: [Individuals with He/him pronouns, The Hive]
 ---
 
 # Suri's brother

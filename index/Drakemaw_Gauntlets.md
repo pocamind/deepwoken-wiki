@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 196644
+revid: 201003
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]
@@ -40,13 +40,12 @@ The Drakemaw Gauntlets are a Light Weapon in the Fists category.
 
 ## Critical
 
-The user performs a fast forward thrust that ragdolls the opponent and pushes them away _slightly_. Deals high posture damage.
+The user performs a quick thrust forward that ragdolls the opponent and pushes them away _slightly_. Deals high posture damage.
 
 The critical has a cooldown of **5 seconds**.
 
 ## Trivia
 
--   The weapon's critical has potential for M1/Mantra follow-up, especially if your enemy doesn't know how to ragdoll cancel.
 -   It was the only weapon created for Hallowtide 2023 that was not teased by the announcement revealing the release date, with the [Mushroom Costume](Mushroom_Costume.md) being teased instead.
 -   It is the only weapon in the Fists category that deals Bleed damage.
 -   This weapon comes with a light source. The light source is still visible when using Curse of Yun'Shul.

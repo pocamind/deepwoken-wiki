@@ -1,6 +1,6 @@
 ---
 title: "Amashi, Master of Flame"
-revid: 191311
+revid: 201007
 source: https://deepwoken.fandom.com/wiki/Amashi%2C_Master_of_Flame
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Individuals with They/them pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, NPCs located in the Eastern Luminant]
@@ -250,6 +250,19 @@ Amashi executes his opponent after knocking them:
 </tr>
 <tr>
   <td>[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Silentheart:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Your Ether... Just what have you done?</td>
 </tr>
 </tbody>
 </table>

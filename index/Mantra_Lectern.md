@@ -1,6 +1,6 @@
 ---
 title: Mantra Lectern
-revid: 162983
+revid: 200985
 source: https://deepwoken.fandom.com/wiki/Mantra_Lectern
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Mechanics, Mantras]
@@ -31,9 +31,15 @@ Upon modifying the desired Mantra, the player can choose the available modifiers
 -   Above the table totals the amount of modifications done to the Mantra, such as Size, Intensity, Range, Ether Cost, and Spark used.
     -   Upon composing the ingredients together, the Mantra's modified stats will be placed on top of its base stats.
 
-Mantras can be renamed by clicking on their original name on the interface above. Inappropriate names will be replaced with the original mantra's name. The edited name will also be used for the Spell Shout Talent which you get from [Valikor](Valikor.md) in [Isle of Vigils](Isle_of_Vigils.md).
+Mantras can be renamed by clicking on their original name on the interface above. The edited name will also be used for the Spell Shout Talent which you get from [Valikor](Valikor.md) in [Isle of Vigils](Isle_of_Vigils.md).
 
-  
+### Naming Notes
+
+-   Mantra names that are deemed inappropriate will be replaced with the original name.
+-   A total of three words can be put into a Mantra's name, with a character limit of 23.
+-   Renaming a Mantra of the same name will prompt the user with an error message.
+    -   In past versions, name additions would be applied if a Mantra had the same name. These names were: Alter, Contra, Doppel, Replica, Beyond, Exel, Minor, Spur, Further, Mirror, Near.
+-   Mantra names that involve prepositions/definite articles in between nouns or verbs will automatically follow grammatical rules. e.g. "Blade of Fire", "Spada di Fuoco".
 
 ## Trivia
 
