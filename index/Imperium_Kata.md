@@ -1,6 +1,6 @@
 ---
 title: Imperium Kata
-revid: 198036
+revid: 200960
 source: https://deepwoken.fandom.com/wiki/Imperium_Kata
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals", Light Weapons]
@@ -28,7 +28,7 @@ categories: [Weapons, Fists, Fighting Styles, "Weapons with Multi-Hit Criticals"
 | enchantable | No |
 | pass down | No |
 | obtainment | Defeat Titus Fulminus Destellus and speak to him, Speak to Caitus |
-| description | Wield an advanced form of the Legion's martial arts. |
+| description | the legendary martial arts style of the legion. emphasizing the sweeping motions of the wind. |
 
 ## Description
 

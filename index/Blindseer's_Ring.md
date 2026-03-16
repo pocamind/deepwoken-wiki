@@ -1,6 +1,6 @@
 ---
 title: "Blindseer's Ring"
-revid: 199910
+revid: 200966
 source: https://deepwoken.fandom.com/wiki/Blindseer's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]
@@ -20,7 +20,7 @@ categories: [Equipment, Rings]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
-| obtainment | Pathfinder: Crafting 1 Transfusion Ring + 1 Trickster Dust in the Lost ForgeVow of Iron: Sitting on top of the Eastern Interstitial Lighthouse |
+| obtainment | Crafting 1 Transfusion Ring + 1 Trickster Dust in the Lost ForgeVow of Iron:, Sitting on top of the Eastern Interstitial Lighthouse |
 | description | Increase all healing you receive by 20-33%. Reduce all damage you deal by 15%. |
 
 ## Description

@@ -1,6 +1,6 @@
 ---
 title: Darksteel Cleaver
-revid: 195270
+revid: 200968
 source: https://deepwoken.fandom.com/wiki/Darksteel_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Criticals, Weapons with Talents, Heavy Weapons]
@@ -32,7 +32,7 @@ categories: [Vow of Iron Exclusive, Weapons, Greatswords, Weapons with Unique Cr
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
-| obtainment | TBA |
+| obtainment | The Chariot's Spire |
 | description | When faced with insurmountable odds, sometimes all you need is a Big Sword. |
 
 Variants: [Darksteel Greatsword](Darksteel_Greatsword.md)

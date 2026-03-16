@@ -1,11 +1,9 @@
 ---
 title: "The No-Life King's Crown"
-revid: 199207
+revid: 200957
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Equipment, Head, Ornaments]
-notices:
-  - This page is currently being worked on. Some things may be incomplete.
+categories: [Equipment, Head, Ornaments]
 ---
 
 # The No-Life King's Crown
@@ -38,7 +36,3 @@ Variants: [Bloodforged Crown](Bloodforged_Crown.md)
 -   [No Limits](Talents.md#no-limits): Increase the cap on [Bloodless Gem](Bloodless_Gem.md) healing.
     -   This doubles the healing cap on Bloodless Gems from 15 to 30.
     -   With the decreased healing gained from Bloodless Gems, you'll need to have a scaled damage of 150 to reach this heal cap.
-
-## Crafting
-
-The crown is crafted at the [Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md) using a [Bloodforged Crown](Bloodforged_Crown.md), 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md), and 1x [Necrotic Membrane](Necrotic_Membrane.md).

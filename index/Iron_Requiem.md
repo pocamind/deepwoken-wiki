@@ -1,6 +1,6 @@
 ---
 title: Iron Requiem
-revid: 196649
+revid: 200969
 source: https://deepwoken.fandom.com/wiki/Iron_Requiem
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, "Attunement-based Weapons", Weapons with Unique Criticals, "Weapons with Multi-Hit Criticals", Light Weapons, The Ignition Union, Weapons with multiple Criticals]
@@ -29,7 +29,7 @@ categories: [Weapons, Pages with broken file links, Pistols, Legendary Weapons, 
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Saramaed Hollow, Finnegan The Lost (Very Rare) |
+| obtainment | Saramaed Hollow, Finnegan The Lost (Very Rare)Vow of Iron:, Above the blacksmith in Summer Isle |
 | description | Reverse-engineered from stolen Summer Company weapons shipments, in recent times Ironsingers have found a lucrative profession in the creation of weaponry and equipment. Being the birthplace of the art's revival, the Ignition Union have funneled this wealth into the production of weapons imbued with active Ironsing components. |
 
 ## Description

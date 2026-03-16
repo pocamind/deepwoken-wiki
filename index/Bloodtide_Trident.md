@@ -1,6 +1,6 @@
 ---
 title: Bloodtide Trident
-revid: 199326
+revid: 200967
 source: https://deepwoken.fandom.com/wiki/Bloodtide_Trident
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Criticals, Event Item, "Weapons with Multi-Hit Criticals", Hallowtide, Medium Weapons]
@@ -31,7 +31,7 @@ categories: [Weapons, Criticals with M1 tag, Spears, Weapons with Unique Critica
 | droppable | No |
 | enchantable | Yes |
 | pass down | Yes |
-| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie Bag |
+| obtainment | Glaive Spellhardt [100 Joy], Any Blacksmith if you have the '23 Hallowtide Medal [7 Knowledge], Trial of The Gourdskipper, Goodie BagVow of Iron:, Near the Hell Bell |
 | description | ... |
 
 ## Description
