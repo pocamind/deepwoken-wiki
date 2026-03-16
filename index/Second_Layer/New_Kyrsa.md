@@ -1,6 +1,6 @@
 ---
 title: Second Layer/New Kyrsa
-revid: 200784
+revid: 201014
 source: https://deepwoken.fandom.com/wiki/Second_Layer/New_Kyrsa
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Second Floor of the Second Layer, Dungeons]
@@ -117,6 +117,7 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 
 -   [Dr. Carrion](../Carrion,_Father_of_Evolution.md) - **Grants Monster Mantras.**
 -   [Naerotiv](../Naerotiv.md) and [Frosviernr Joraelnaero](../Frosviernr_Joraelnaero.md) - **Obtaining the [Kyrswynter](../Kyrswynter.md).**
+-   [Mendacia](../Mendacia.md) - **Gives 2 knowledge**
 
 ## NPCs
 
@@ -130,6 +131,9 @@ During the **Escape Sequence**, 5-8 additional Medallion chests spawn around the
 -   [F'leche](<../F'leche.md>)
 -   [Okumay](../Okumay.md)
 -   [C'lantaa](<../C'lantaa.md>)
+-   [Plath](../Plath.md)
+-   [Amenre Skiggle Bop](../Amenre_Skiggle_Bop.md)
+-   [Mendacia](../Mendacia.md)
 
 ## Loot Table
 

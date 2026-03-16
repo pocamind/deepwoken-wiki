@@ -1,6 +1,6 @@
 ---
 title: Hardened Barrel Helm
-revid: 189943
+revid: 201021
 source: https://deepwoken.fandom.com/wiki/Hardened_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Helmets]

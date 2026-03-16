@@ -1,25 +1,26 @@
 ---
 title: Necrotic Cowl
-revid: 200152
+revid: 201017
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive]
+categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head Equipment]
 ---
 
 # Necrotic Cowl
 
 | Necrotic Cowl | |
 |---|---|
-| type | Helmet |
-| rarity | ? |
-| selling price | ? |
+| type | Head |
+| rarity | Rare |
+| selling price | 25 |
+| weight | 1 |
 | innate stats | +5% Shadow Armor, +6% Stealth, +2 Rare Pips |
 | innate talent | Blood Siphon |
 | set | Necrotic Cowl, Necrotic Mask |
 | set talent | Bloodless Overdrive |
 | bankable | No |
 | droppable | No |
-| enchantable | ? |
+| enchantable | No |
 | pass down | No |
 | obtainment | Crafting 1 Bloodfeather Cowl + 1 Necrotic Membrane + 1 Parasol Part in the Lost Forge |
 | description | ... |

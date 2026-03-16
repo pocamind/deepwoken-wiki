@@ -1,6 +1,6 @@
 ---
 title: "Kaide, the Drowned Light"
-revid: 194866
+revid: 201028
 source: https://deepwoken.fandom.com/wiki/Kaide%2C_the_Drowned_Light
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Lightborn NPCs, Pages with broken file links, Pathfinder Exclusive, NPCs, NPCs located in the Second Floor of the Second Layer, Layer 2, Floor 2]
@@ -286,8 +286,9 @@ This dialogue is unlocked if the player has a [Vortex Echo](Vortex_Echo.md) equi
     -   When speaking to Kaide with a [Kyrsieger](Kyrsieger.md) equipped, he judges the Pathfinder as the Kyrsieger was used in an assault on Constellia, the city Kaide ruled over.
     -   When speaking to Kaide with a [Soulthorn](Soulthorn.md) equipped, he reminisces Zhatarn, a Celestial that was exiled from the Heavens who once wielded the Soulthorn.
     -   When speaking to him while having [Oath: Starkindred](Oath%253A_Starkindred.md), he recognizes the scent of Celestials, calling the Pathfinder "Depraved" as they used to be. Even though he scorns Celestials because of betrayal, he "had hoped better, not sure himself why" when felt their scent from the Pathfinder.
--   Kaide's clothing IDs are the following: [Shirt](https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman) / [Pants](https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman)
 -   Lightborns, due to being immortal, do not often show signs of aging. Despite this, Kaide has noticeable under-eye wrinkles consistent with stage 2 of the aging process. According to [Mikhail Spellhardt](Mikhail_Spellhardt.md), a Lightborn will change appearance over time if something is weighing on their mind and soul, so Kaide's wrinkles may be a result of him "feeling old" or having many responsibilities that weigh upon his mind constantly.[\[1\]](#cite-note-1)
+-   Kaide's clothing IDs are the following: [Shirt](https://www.roblox.com/catalog/81399248825021/God-Kings-Swordsman) / [Pants](https://www.roblox.com/catalog/124979649911501/God-Kings-Swordsman)
+-   Kaide's hair IDs are [87549044824881](https://www.roblox.com/catalog/87549044824881/Long-Black-Straight-Hair) / [135749891781739](https://www.roblox.com/catalog/135749891781739/Black-Anime-Male-Long-Hair)
 
 ## References
 

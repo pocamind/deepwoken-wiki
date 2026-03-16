@@ -1,9 +1,11 @@
 ---
 title: Ossified Barrel Helm
-revid: 200498
+revid: 201020
 source: https://deepwoken.fandom.com/wiki/Ossified_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive]
+categories: [In progress with reason, InProgressPages, Pathfinder Exclusive, Head, Equipment, Helmets, Craftable]
+notices:
+  - "This page is currently being worked on. This item has not been crafted yet, and as such, all of its qualities are unknown"
 ---
 
 # Ossified Barrel Helm
@@ -11,37 +13,19 @@ categories: [Pathfinder Exclusive]
 | Ossified Barrel Helm | |
 |---|---|
 | type | Head |
-| rarity | Rare |
-| selling price | 25 |
-| requirements | FTD 10 |
 | weight | 1 |
-| innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
-| innate talent | Sloped Plate |
-| set | Ossified Barrel Helm, Ossified Blacksteel Pauldrons |
-| set talent | Captain's Call |
 | bankable | No |
 | droppable | No |
 | enchantable | Yes |
 | pass down | No |
 | obtainment | Crafting at the Lost Forge |
-| description | An imposing helmet made from blackened steel. |
 
-Variants: [Blacksteel Helm](Blacksteel_Helm.md)
+Variants: [Barrel Helm](Barrel_Helm.md)
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Ossified Set
-
 ## Description
 
 The Ossified Barrel Helm is an [Equipment](Equipment.md) item under the "Head" category.
-
-The [Sloped Plate](Talents.md#sloped-plate) Talent reduces the amount of damage you take from attacks that guard break you by a flat 10.
-
-## Set Bonus
-
-When wearing the full equipment set, you will gain the Set Talent.
-
-Set Talent [Captain's Call](Talents.md#captains-call) - Call up two [Blacksteel Pirates](Blacksteel_Pirate.md) to aid you in battle \[5 minute CD\].

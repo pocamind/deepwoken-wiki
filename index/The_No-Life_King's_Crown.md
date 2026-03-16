@@ -1,9 +1,9 @@
 ---
 title: "The No-Life King's Crown"
-revid: 200957
+revid: 201023
 source: https://deepwoken.fandom.com/wiki/The_No-Life_King's_Crown
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Head, Ornaments]
+categories: [Equipment, Head, Ornaments, Craftable]
 ---
 
 # The No-Life King's Crown

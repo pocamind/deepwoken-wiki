@@ -1,6 +1,6 @@
 ---
 title: Kyrsan Necklace
-revid: 198164
+revid: 201009
 source: https://deepwoken.fandom.com/wiki/Kyrsan_Necklace
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Drops, Torso, Equipment, Necklaces]
@@ -11,6 +11,7 @@ categories: [Drops, Torso, Equipment, Necklaces]
 | Kyrsan Necklace | |
 |---|---|
 | type | Torso |
+| rarity | Unique |
 | selling price | 100 |
 | weight | 0.5 |
 | bankable | No |

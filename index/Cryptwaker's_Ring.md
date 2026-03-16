@@ -1,6 +1,6 @@
 ---
 title: "Cryptwaker's Ring"
-revid: 197971
+revid: 201013
 source: https://deepwoken.fandom.com/wiki/Cryptwaker's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Rings, Equipment]
@@ -15,6 +15,7 @@ categories: [Rings, Equipment]
 | selling price | 50 |
 | requirements | LVL 15 |
 | weight | 0.1 |
+| innate stats | +1 Uncommon Pip |
 | bankable | No |
 | droppable | No |
 | enchantable | No |

@@ -1,9 +1,9 @@
 ---
 title: Blizzard Ring
-revid: 198752
+revid: 201024
 source: https://deepwoken.fandom.com/wiki/Blizzard_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive]
+categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, Craftable]
 ---
 
 # Blizzard Ring
@@ -19,7 +19,7 @@ categories: [Pathfinder Exclusive]
 | bankable | No |
 | droppable | No |
 | enchantable | No |
-| pass down | Unknown |
+| pass down | No |
 | obtainment | Crafted at the Lost Forge using a Gale Enhanced Ring, Frost Ring, and Shiva's Codex |
 | description | Apply a very light slow on your opponent when landing a light attack and suffocate opponents when flourishing them. Gain extra ether when landing Galebreath or Frostdraw attacks. |
 
@@ -29,7 +29,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The Blizzard Ring is a craftable ring that provides a buff to the user by slowing all enemies hit by light attacks/M1s and suffocates those you flourish. You also gain extra ether when you land Galebreath or Frostdraw attacks. Its effects are the combined powers of both the [Frost Ring](Frost_Ring.md) and the [Gale Enhanced Ring](Gale_Enhanced_Ring.md).
+The Blizzard Ring is a craftable [Relic](Relics.md) Ring that provides a buff to the user by slowing all enemies hit by light attacks/M1s and suffocates those you flourish. You also gain extra ether when you land Galebreath or Frostdraw attacks. Its effects are the combined powers of both the [Frost Ring](Frost_Ring.md) and the [Gale Enhanced Ring](Gale_Enhanced_Ring.md).
 
 ## Crafting
 

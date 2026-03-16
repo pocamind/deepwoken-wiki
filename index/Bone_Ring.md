@@ -1,9 +1,9 @@
 ---
 title: Bone Ring
-revid: 197961
+revid: 201012
 source: https://deepwoken.fandom.com/wiki/Bone_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Rings, Equipment]
+categories: [Rings, Relics, Equipment Relics, Equipment]
 ---
 
 # Bone Ring
@@ -11,10 +11,11 @@ categories: [Rings, Equipment]
 | Bone Ring | |
 |---|---|
 | type | Ring |
-| rarity | Legendary |
+| rarity | Relic |
 | selling price | 100 |
 | requirements | LVL 15 |
 | weight | 0.1 |
+| innate stats | +1 Uncommon Pip |
 | bankable | No |
 | droppable | No |
 | enchantable | No |
@@ -24,10 +25,8 @@ categories: [Rings, Equipment]
 
 ## Description
 
-The **Bone Ring** is a Ring [Equipment](Equipment.md). It enhances all bone-related attacks you do.
+The **Bone Ring** is a Ring [Relic](Relics.md) [Equipment](Equipment.md). It enhances all bone-related attacks you do.
 
-\-increases Marrowmade Boots **Osseus surge** damage from 30 to 45.
-
-\-increases Brachial Spears damage by 25%.
-
-\-removes bone Wisps Bone launch cooldown & increases base charges from 3 to 5.
+-   [Osseous Surge](Talents.md#osseous-surge) from [Marrowmade Boots](Marrowmade_Boots.md) gains a 50% damage buff.
+-   [Brachial Spear](Monster_Mantras.md#brachial-spear) gains a 30 damage increase.
+-   [Bone Wisp](Monster_Mantras.md#bone-wisp) proc cooldown is removed, and its charges is increased from 3 to 5.
