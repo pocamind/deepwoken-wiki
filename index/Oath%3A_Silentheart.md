@@ -1,6 +1,6 @@
 ---
 title: "Oath: Silentheart"
-revid: 200066
+revid: 201156
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Silentheart
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -55,7 +55,7 @@ _For a more in-depth walkthrough, consider watching [this video](https://youtu.b
 
 This Oath is progressed via the killing of [Attunement Trainers](Attunement_Trainers.md) (excluding [Regek](Regek.md), and [Beatra](Beatra.md) ).
 
-This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their locations. [Vyrelda](Vyrelda,_Master_of_Blood.md) can only spawn if you've unlocked [Bloodrend](Bloodrend.md), but can also be spawned by another player who has Bloodrend unlocked.
+This can be done in any order; however, the recommended order is [Nell](Nell,_Master_of_Frost.md), [Friid](Friid,_Master_of_Gale.md), [Amashi](Amashi,_Master_of_Flame.md), [Vyrelda](Vyrelda,_Master_of_Blood.md), [Funke](Funke,_Master_of_Thunder.md), [Adar](Adar,_Master_of_Metal.md), and [Nostor](Nostor,_Master_of_Shadow.md) due to their locations.
 
 Note that killing the Spelltrainers **will make you lose Reputation** with some factions :
 

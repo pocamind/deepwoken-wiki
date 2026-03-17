@@ -1,6 +1,6 @@
 ---
 title: "Delver's Duster"
-revid: 176404
+revid: 201155
 source: https://deepwoken.fandom.com/wiki/Delver's_Duster
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Dusters, The Ignition Union]
@@ -11,7 +11,7 @@ categories: [Equipment, Arms, Dusters, The Ignition Union]
 | Delver's Duster | |
 |---|---|
 | type | Arms |
-| rarity | Mythic |
+| rarity | Mythical |
 | selling price | 100 |
 | requirements | Power 10 |
 | weight | 2 |

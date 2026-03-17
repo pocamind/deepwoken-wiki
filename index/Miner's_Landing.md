@@ -1,6 +1,6 @@
 ---
 title: "Miner's Landing"
-revid: 199442
+revid: 201150
 source: https://deepwoken.fandom.com/wiki/Miner's_Landing
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Eastern Luminant, Territory of The Ignition Union]
@@ -42,21 +42,21 @@ Miner's Landing's Docks.
 
 ### Town
 
-The town is one of the main parts of Miner's Landing. Buildings throughout the town are the Pub, Antiquarian, Inn, and an unnamed building containing a Celtor named Parsnip. A blacksmith and a well are found in the town. No monsters or enemy factions spawn in the town. There's a bank where you can turn in [artifacts](Artifacts.md) and buy the [Ignition Union Uniform](Ignition_Union_Uniform.md) for 50 notes.
+The town is one of the main parts of Miner's Landing. Buildings throughout the town are the Pub, [Antiquarian](Antiquarian.md), [Inn](Inn.md), and an unnamed building containing a Celtor named [Parsnip](Parsnip.md). A blacksmith and a well are found in the town. No monsters or enemy factions spawn in the town. There's a bank where you can turn in [artifacts](Artifacts.md) and buy the [Ignition Union Uniform](Ignition_Union_Uniform.md) for 50 notes.
 
-Behind the water wheel there is a room that contains a few NPCs that give quests, and Delta who gives the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md). Taking an elevator up, you can find Calypso. The area ahead of this part is the Upper Landing.
+Behind the water wheel there is a room that contains a few NPCs that give quests, and [Delta](Delta.md) who gives the [Arcwarder](Oath%253A_Arcwarder.md) [Oath](Oaths.md). Taking an elevator up, you can find [Calypso](Calypso.md). The area ahead of this part is the Upper Landing.
 
-In the same room as Delta, there is a NPC next to a large drill called Deepdelver Tau who allows you to enter [Saramaed Hollow](Saramaed_Hollow.md), a floor-based dungeon that takes place deep under the [Saramaed Summit](Saramaed_Summit.md) (See Saramaed Hollow for more).
+In the same room as [Delta](Delta.md), there is an NPC next to a large drill called [Deepdelver Tau](Deepdelver_Tau.md) who allows you to enter [Saramaed Hollow](Saramaed_Hollow.md), a floor-based dungeon that takes place deep under the [Saramaed Summit](Saramaed_Summit.md) (See [Saramaed Hollow](Saramaed_Hollow.md) for more).
 
-You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy Cloth, Fiber, an Axe, and Pickaxe.
+You are able to buy all necessary training gears from Miner's Landing. Along with that, you can buy [Cloth](Cloth.md), [Fiber](Fiber.md), an [Axe](Lumber_Axe.md), and [Pickaxe](Pickaxe.md).
 
 ### Upper Landing
 
-High above the Town of Miner's Landing is the upper areas. Here, the entrance to the Boiler Room can be found. Past the Boiler Room's entrance, there is a long mountainous bridge that eventually leads to [Starfield Veldt](Starfield_Veldt.md). This mountainous bridge is littered with [Brainsuckers](Brainsucker.md) and one Mechalodaunt.
+High above the Town of Miner's Landing is the upper areas. Here, the entrance to the Boiler Room can be found. Past the Boiler Room's entrance, there is a long mountainous bridge that eventually leads to [Starfield Veldt](Starfield_Veldt.md). This mountainous bridge is littered with [Brainsuckers](Brainsucker.md) and one [Mechalodaunt](Mechalodaunt.md).
 
 ### Boiler Room
 
-The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting. There are two Mechalodaunts, one located to the right of the entrance, and the other located to the behind vault door, to the left and up the right slope.
+The Boiler Room is an area where [Summer Company Guards](Summer_Company_Guard.md) and [Ignition Union Fighters](Ignition_Union_Fighter.md) are constantly fighting. There are two [Mechalodaunts](Mechalodaunt.md), one located to the right of the entrance, and the other located to the behind vault door, to the left and up the right slope.
 
 The Boiler Room contains two entrances into [Saramaed Summit](Saramaed_Summit.md), one of which is located to the right behind the vault door. The other entrance is located down the left hallway, up the left slope and in a room with an NPC.
 
@@ -85,7 +85,7 @@ The Chests are in the following Locations:
 
 -   Speak to [Orion](Orion.md), a Celtorian Ignition Union Member. Located in the next room behind the waterwheel, or next to [Delta](Oath%253A_Arcwarder.md).
 -   [Orion](Orion.md) offers you to help handle the conflict (Getting rid of a few [Summer goons](Summer_Goon.md)) in the upper level's reactor room; next to (but not inside) the [Saramaed Summit](Saramaed_Summit.md) Voidzone.
--   Neutralize the conflict and return to [Orion](Orion.md) for the reward, which is both Ignition Union Reputation, unlocking Ignition Union origin and an alternative access to Saramaed Summit (Iron Door connecting between the Voidzone to outside).
+-   Neutralize the conflict and return to [Orion](Orion.md) for the reward, which is both Ignition Union Reputation, unlocking [Ignition Union origin](Origins.md) and an alternative access to [Saramaed Summit](Saramaed_Summit.md) (Iron Door connecting between the Voidzone to outside).
 -   Note: this quest is repeatable.
 
 #### Alpha's Quest
@@ -150,8 +150,7 @@ A map can be found at [Maps#Surface](Maps.md#surface)
 
 -   The music for this area is [Peregrine](Deepwoken_OST.md#peregrine) by Naktigonis so far. Its own theme song has been confirmed to be released.
 -   Miner's Landing has many chests containing loot in various, unexpected areas.
--   Miner's Landing has a more industrial focus than the other bases such as Etris and Greathive Aratel.
+-   Miner's Landing has a more industrial focus than the other bases such as [Etris](Etris.md) and [Greathive Aratel](Greathive_Aratel.md).
 -   The business buildings are more spread out than normal, with the Bank only accessible by climbing a waterfall.
 -   There are also hooks that can be used to travel between those places quickly.
--   A great place to farm for loot alongside Fort Merit.
 -   People with the [Ignition Delver](Ignition_Delver.md) origin spawn here.

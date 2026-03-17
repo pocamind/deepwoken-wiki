@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 201126
+revid: 201143
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -52,17 +52,17 @@ This weapon comes with the following passives:
 
 The Hailbreaker has three different criticals. When a critical is landed, it will advance to the next stage.
 
-For the first critical, the user slowly winds up before performing a heavy slash of ice. This will move the weapon to its next stage, removing the carbon coating.
+For the **Stage I** critical, the user slowly winds up before performing a heavy ice-infused slash. This will advance the weapon to its next stage, removing the carbon coating.
 
-For the second critical, the user performs a heavier slash of ice, freezing the target in place. This will moves the weapon to its final stage, coating it in ice.
+For the **Stage II** critical, the user performs a heavier ice-infused slash, freezing the target in place. This will advance the weapon to its final stage, coating it in ice.
 
-For the final critical, the user dashes forward before performing a large upslash of ice, freezing the target in place. This will revert the weapon to its first stage, inserting the carbon coating once more.
+For the **Stage III** critical, the user dashes forward before performing a large upward ice-infused slash, freezing the target in place. This will revert the weapon to its first stage, gaining the carbon coating once more.
 
-At the end of each critical, the slashes are followed up by a small explosion of ice that grows in size depending on the current stage.
+At the end of each critical, the slashes are followed up by explosions of ice around the user that grow in size with each stage. They deal the same damage as each tick of the critical as pure Frostdraw damage. The positions of these explosions are random, but they are telegraphed with a blue swirl effect before they explode.
 
 All criticals have a cooldown of **10 seconds**.
 
-Pressing M2 during the windup of the critical will perform a feint that resets stages and has a cooldown of 2 seconds. This does not change depending on the stage.
+Pressing M2 during the windup of the critical will perform a feint that resets stages and has a cooldown of 2 seconds. All stages have this ability.
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Artifacts
-revid: 195241
+revid: 201154
 source: https://deepwoken.fandom.com/wiki/Artifacts
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Interactible Objects, Mechanics]
@@ -20,7 +20,7 @@ _Not to be confused with [Relics](Relics.md)._
 
 Artifacts in _Deepwoken_ are valuable objects that can be given to [Bankers](Banker.md) for moderate rewards such as rare armor, [Mantra Modifiers](Mantra_Modifiers.md), [Weapons](Weapons.md), [Outfit](Outfits.md) Schematics, and a handful of XP. There are two variants of Artifacts found in the game.
 
-Artifact that have not been interacted with will emit a loud noise while creating pulsating rings around it. When it is picked up by a player, it will play a sound before releasing more particles. In the [Etrean Luminant](Luminants.md), Artifacts are generally found around [Upper Erisia](Upper_Erisia.md) but can also be found within [The Etrean Sea](The_Etrean_Sea.md). In the [Eastern Luminant](Luminants.md), Artifacts take on a different appearance and can be found in [Songseeker Wilds](Songseeker_Wilds.md) and [The Starswept Valley](The_Starswept_Valley.md).
+Artifact that have not been interacted with will emit a loud noise while creating pulsating rings around it. When it is picked up by a player, it will play a sound before releasing more particles. In the [Etrean Luminant](Luminants.md), Artifacts are generally found around [Upper Erisia](Upper_Erisia.md) but can also be found within [The Etrean Sea](The_Etrean_Sea.md). In the [Eastern Luminant](Luminants.md), Artifacts take on a different appearance and can be found in [Songseeker Wilds](Songseeker_Wilds.md) and [The Starswept Valley](The_Starswept_Valley.md). Spawn every 15 minutes
 
 An Artifact is also necessary to activate the [Deep Crucible](Deep_Crucible.md).
 
