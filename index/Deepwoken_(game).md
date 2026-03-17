@@ -1,6 +1,6 @@
 ---
 title: Deepwoken (game)
-revid: 190160
+revid: 201103
 source: https://deepwoken.fandom.com/wiki/Deepwoken_(game)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Deepwoken]
@@ -10,7 +10,7 @@ notices:
 
 # Deepwoken (game)
 
-_[Deepwoken](https://www.roblox.com/games/4111023553)_ is an open world, roguelike, soulslike, action RPG developed and published by [Deepwoken Staff](https://www.roblox.com/communities/5212858) (formerly Vows by the Sea), a subdivision of Monad Studios, on the _Roblox_ platform. The game serves as a spiritual antithesis to their previous project, _[Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage)_. Unlike most games on the platform, _Deepwoken_ is not free-to-play and costs 400 [Robux](https://roblox.fandom.com/wiki/Robux) to purchase.
+_[Deepwoken](https://www.roblox.com/games/4111023553)_ is an open world, roguelike, soulslike, action RPG developed and published by [Monad Studios East](https://www.roblox.com/communities/5212858) (formerly known as Vows by the Sea amd Deepwoken Staff), a subdivision of Monad Studios, on the _Roblox_ platform. The game serves as a spiritual antithesis to their previous project, _[Rogue Lineage](https://www.roblox.com/games/3016661674/Rogue-Lineage)_. Unlike most games on the platform, _Deepwoken_ is not free-to-play and costs 400 [Robux](https://roblox.fandom.com/wiki/Robux) to purchase.
 
 ## Gameplay
 

@@ -1,11 +1,11 @@
 ---
 title: Verse 3
-revid: 196962
+revid: 201104
 source: https://deepwoken.fandom.com/wiki/Verse_3
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress without reason, InProgressPages, Upcoming content, Pages with broken file links, Updates]
+categories: [Stub pages with reason, StubPages, Upcoming content, Pages with broken file links, Updates]
 notices:
-  - This page is currently being worked on. Some things may be incomplete.
+  - "This page is a stub. It requires further information, or has little to no information. Ironsworn section needs a short overview of Vow of Iron."
   - "This page contains upcoming content. This page contains information that was revealed by official sources, such as the Deepwoken Twitter. Information may be subject to change and is not representative of the final product. Information sourced from datamines and leaked game versions are strictly banned on the Wiki. Prohibited content will be deleted and will result in a block."
 ---
 

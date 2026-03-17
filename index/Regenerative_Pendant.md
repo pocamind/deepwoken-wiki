@@ -1,6 +1,6 @@
 ---
 title: Regenerative Pendant
-revid: 201031
+revid: 201110
 source: https://deepwoken.fandom.com/wiki/Regenerative_Pendant
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive]
@@ -57,7 +57,9 @@ The full Trueblood set talent provides the talent [Critical Heal](Talents.md#cri
 -   [Multiplicity](Multiplicity.md) Enchant Grease
 -   [Flame Wisp](Flamecharm.md) Healing
 -   [Bloodless Gems](Bloodless_Gem.md)
+-   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
 -   Critical Heal (Critical Heal counts as a source of healing, which means a Critical Heal can theoretically proc on itself an unlimited amount of times)
+-   [Corrupted Payback](Payback.md) healing
 
 ## Crafting
 

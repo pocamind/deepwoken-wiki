@@ -1,6 +1,6 @@
 ---
 title: Parliament
-revid: 201048
+revid: 201112
 source: https://deepwoken.fandom.com/wiki/Parliament
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Monsters, Bosses, The Vat Exclusive]
@@ -149,3 +149,4 @@ Flock of Feathers
 ### Passives
 
 -   Shadowmeld Shade - All of the Parliament's attacks steal Ether on hit.
+-   Thorn Guard - The Parliament is immune to the effects of [Providence's Thorns](<Providence's_Thorns.md>)

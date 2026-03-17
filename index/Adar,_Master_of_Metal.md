@@ -1,6 +1,6 @@
 ---
 title: "Adar, Master of Metal"
-revid: 196486
+revid: 201049
 source: https://deepwoken.fandom.com/wiki/Adar%2C_Master_of_Metal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Enemies, Attunement Trainers, NPCs, The Ignition Union, NPCs located in the Eastern Luminant, Ignition Union Enemies]
@@ -347,6 +347,19 @@ Adar uses a [Darksteel Greatsword](Darksteel_Greatsword.md) alongside the [Irons
 </tr>
 <tr>
   <td colspan="6">[End Dialogue]</td>
+</tr>
+</tbody>
+</table>
+
+**Silentheart:**
+
+<table>
+<tbody>
+<tr>
+  <td colspan="12">Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Huh? What're you giving me that look for?</td>
 </tr>
 </tbody>
 </table>

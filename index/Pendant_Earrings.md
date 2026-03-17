@@ -1,6 +1,6 @@
 ---
 title: Pendant Earrings
-revid: 200779
+revid: 201098
 source: https://deepwoken.fandom.com/wiki/Pendant_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Ears]
@@ -20,7 +20,7 @@ categories: [Equipment, Ears]
 | droppable | Yes |
 | enchantable | No |
 | pass down | Yes |
-| obtainment | Maestro Evengarde RestSaramaed Hollow |
+| obtainment | Chests from:, Maestro Evengarde Rest, Saramaed Hollow, Duke Ishamon Erisia |
 | description | ... |
 
 ## Description

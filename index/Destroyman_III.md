@@ -1,6 +1,6 @@
 ---
 title: Destroyman III
-revid: 200220
+revid: 201052
 source: https://deepwoken.fandom.com/wiki/Destroyman_III
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs]
@@ -11,9 +11,11 @@ categories: [NPCs]
 | Destroyman III | |
 |---|---|
 
-“ Mudwoken? What are you talking about? That's so 91 years ago. Get with the times. ”
+“ Coral Fever has breached containment. All security protocols have failed. The Central Authority are now issuing a Class 4 Emergency Mandate, enforcing a mandatory curfew. Lance's Restaurant is now under martial law. The Megurger is now classified a Class 4 Biohazard. Meatlord's whereabouts are unknown.
 
-― Destroyman III
+Gods rest our souls. ”
+
+― Update log
 
   
 

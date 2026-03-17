@@ -1,6 +1,6 @@
 ---
 title: Gran Sudaruska
-revid: 199738
+revid: 201125
 source: https://deepwoken.fandom.com/wiki/Gran_Sudaruska
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, "Weapons with Multi-Hit Criticals", Weapons with Unique Criticals, Heavy Weapons]
@@ -21,7 +21,7 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 | attack duration | 0.9s |
 | endlag | 0.1s |
 | penetration | 5% |
-| special effect | Rain down Ice Shards after 3 M1 hits, Talks when killing Ministry NPC's, Contractors or users of Prophet's Cloak, Critical uppercuts and freezes the enemy or plants crystals if the player has Glass Path: Crystallization |
+| special effect | Rain down Ice Shards after 3 M1 hits, Talks when killing Ministry NPCs, Contractors or users of Prophet's Cloak |
 | m.equip | No |
 | m.extract | No |
 | stances | 2 Handed |
@@ -41,19 +41,18 @@ categories: [Weapons, Greataxes, "Attunement-based Weapons", Legendary Weapons, 
 
 **Gran Sudaruska** comes with two passive abilities:
 
--   **Sudaruska's Fury** - Landing three M1 attacks on an enemy makes 12 ice crystals rain from the sky, each crystal dealing 20 PvP damage or 259.2 PvE damage. The area that an ice crystal lands on will have ice applied on the floor. 15 second cooldown.
+-   **Sudaruska's Fury** - Landing three basic attacks on an enemy makes 12 ice crystals rain from the sky, each crystal dealing 20 PvP damage or 259.2 PvE damage. The area that an ice crystal lands on will have ice applied on the floor. 15 second cooldown.
 
 -   **Vengeful Soul** - After gripping a player with the [Contractor](Oath%253A_Contractor.md) Oath, [Prophet's Cloak](<Prophet's_Cloak.md>) outfit or any [Ministry](The_Ministry.md) affiliated NPC, Sudaruska will talk and insult them. Additionally, killing a [Rogue Construct](Rogue_Construct.md) will make Gran Sudaruska talk aswell.
+-   **Unbroken** - Every hit landed with this weapon applies [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) stacks if the user has the corresponding path.
 
 ## Critical
 
-The critical makes the user spin the axe in the air, raining down ice shards and uppercutting anyone hit by it, with added physical damage to mobs with elemental resistance.
-
-The critical attack is an instant guard break, hits 5 times in total and has a cooldown of **10 seconds.**
+The user rapidly spins the greataxe, raining down smalls shards of ice and guardbreaking targets as they helicopter upwards. The critical freezes the opponent on successful hit, with Glass Path: Crystallization, apply 5 crystals instead.
 
 Everyone hit by the critical will get teleported in front of the user. The critical is able to proc [Meteor Impact](https://deepwoken.fandom.com/wiki/Talents#:~:text=Falling%20Star%20Guard-,Meteor%20Impact,-%5BCommon%20Talent%2C%20Flamecharm).
 
-The critical freezes the opponent on successful hit, with Glass Path: Crystallization, apply 5 crystals instead.
+The critical has a cooldown of **10 seconds.**
 
 ## Trivia
 

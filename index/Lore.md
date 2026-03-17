@@ -1,6 +1,6 @@
 ---
 title: Lore
-revid: 200905
+revid: 201111
 source: https://deepwoken.fandom.com/wiki/Lore
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with reference errors, OutdatedPages, SpoilerPages, Deepwoken]
@@ -37,7 +37,7 @@ The lore of Deepwoken is vast and scattered across the sea. Pieces of lore can b
 -   Many locals believe that Lord Regent is stricken with some illness because he never leaves his palace even while remaining the ruler of Etrea.
 -   His strength and power come directly from [the Depths](The_Depths.md), almost equivalent to the [Krulians](Krulian.md), though at the cost of movement.
     -   The Lord Regent is not a Krulian.
-    -   In the book [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), we learn that after shattering an Etrean guard's mental veil, an [The Authority](The_Central_Authority.md) inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
+    -   In the book [Operation 'Puppet Master' Report](<Operation_'Puppet_Master'_Report.md>), we learn that after shattering an Etrean guard's mental veil, an [Authority](The_Central_Authority.md) Inquisitor saw what he believed to be the Lord Regent's true form: _"a horrible creature staring at me, its black tendrils flowing down its body like ribbons and its multiple emerald shaped eyes drilling straight into my consciousness."_ Breaking this veil also caused the guard's eyes to explode.
     -   Lord Regent's power is increased incredibly by sitting on his throne. He can go from barely defeating [Akira](Akira.md) to easily defeating Akira with "low difficulty." It also allows him to surpass [The Ferryman](The_Ferryman.md) when at full strength.[\[1\]](#cite-note-rag-1)
     -   The Lord Regent's age is somewhere in his 40s, given that he has Tier 1 Wrinkles, but this may not indicate his actual age, as he is likely immortal.
 -   Based on [Jericho's](Warden_Jericho.md) journal, the Kingdom of Etrea's current rulings may cause a great war; eventually leading to another [Great Drowning](The_City_of_the_Drowned.md).

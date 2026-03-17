@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Finger"
-revid: 201029
+revid: 201089
 source: https://deepwoken.fandom.com/wiki/Shiva's_Finger
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Rings]
@@ -30,7 +30,7 @@ This content is not accessible outside of this gamemode.
 
 **Shiva's Finger** is a Ring [Equipment](Equipment.md) that gains more damage by being combat-tagged by mobs and players. Once at 5 stacks, using [Vent](Combat_Mechanics.md#tempo) will consume all stacks and reset all cooldowns.
 
-With each Battle Royale win the player will cosmetically gain more Shiva's Fingers on their left hand. The maximum number of fingers is 10.
+With each Battle Royale win the player will cosmetically gain more Shiva's Fingers on their hands. The maximum number of fingers is 10.
 
 ## Trivia
 

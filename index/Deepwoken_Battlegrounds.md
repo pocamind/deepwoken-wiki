@@ -1,6 +1,6 @@
 ---
 title: Deepwoken Battlegrounds
-revid: 189815
+revid: 201066
 source: https://deepwoken.fandom.com/wiki/Deepwoken_Battlegrounds
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Event Only Content, Stub pages without reason, StubPages, "April Fools' Day events", Events]
@@ -33,5 +33,5 @@ On the Battle Royale map, players could find excessive amounts of [Deep Totems](
     -   This made the only safe way to get down to the Battle Royale map was to use mantras that prevented fall damage such as Wind Passage or Neural Pathway, as otherwise you would instantly die from the fall.
 -   In Battlegrounds, upon taking an Oath, the only way to change it afterwards was to log from the server.
     -   Despite this, when you killed someone, it would often say you gained their Oath talents, despite not being able to use them.
--   For some reason, you could not get most recently released Oaths ([Saintsworn](Oath%253A_Saintsworn.md), [Bladeharper](Oath%253A_Bladeharper.md), and [Soulbreaker](Oath%253A_Soulbreaker.md). As well as [Linkstrider](Oath%253A_Linkstrider.md) for some reason) from Oath Shards on top of [Silentheart](Oath%253A_Silentheart.md) and [Saltchemist](Oath%253A_Saltchemist.md) being intentionally unobtainable.
--   After a few hours after Deepwoken Battlegrounds released, there was a popular suggestion announced, made by Dark\_Mage to make spawns random to 'prevent spawnkilling'.
+-   For unknown reasons, certain Oaths were unobtainable from Oath Shards. This includes some of the more recently released Oaths at the time, being [Saintsworn](Oath%253A_Saintsworn.md), [Soulbreaker](Oath%253A_Soulbreaker.md), and [Bladeharper](Oath%253A_Bladeharper.md), as well as [Linkstrider](Oath%253A_Linkstrider.md), [Silentheart](Oath%253A_Silentheart.md), and [Saltchemist](Oath%253A_Saltchemist.md). Silentheart and Saltchemist were made unobtainable intentionally.
+-   As early as a few hours after the update, players would clamor for the spawn locations in each map to be randomized as to prevent spawnkilling, because they weren't before.

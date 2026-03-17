@@ -1,6 +1,6 @@
 ---
 title: Power
-revid: 198783
+revid: 201080
 source: https://deepwoken.fandom.com/wiki/Power
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Character, Creation]

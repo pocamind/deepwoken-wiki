@@ -1,9 +1,9 @@
 ---
 title: Scattered Possessions
-revid: 196139
+revid: 201086
 source: https://deepwoken.fandom.com/wiki/Scattered_Possessions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Vow of Iron Exclusive]
+categories: [Vow of Iron Exclusive, Clan Mofisu]
 ---
 
 # Scattered Possessions
@@ -20,7 +20,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The [Of Kith and kin](Samnang.md) is a [Quest](Quests.md) item found at the [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md). It belonged to [Samnang](Samnang.md)'s Brother [Sophon](Sophon.md), but he seems to have departed with the equipment as it is in a bad and bloody condition, as well as Sophon himself being nowhere to be found.
+The **Scattered Possessions** is a [Quest](Quests.md) item found at the [Viridian Sanctuary Ruins](Viridian_Sanctuary_Ruins.md). It belonged to [Samnang](Samnang.md)'s Brother [Sophon](Sophon.md), but he seems to have departed with the equipment as it is in a bad and bloody condition, as well as Sophon himself being nowhere to be found.
 
 ## Dialogue
 
