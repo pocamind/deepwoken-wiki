@@ -1,6 +1,6 @@
 ---
 title: Trueblood Earrings
-revid: 198622
+revid: 201235
 source: https://deepwoken.fandom.com/wiki/Trueblood_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears, Equipment with Set Bonuses]

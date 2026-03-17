@@ -1,6 +1,6 @@
 ---
 title: Ministry Necromancer
-revid: 193474
+revid: 201260
 source: https://deepwoken.fandom.com/wiki/Ministry_Necromancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Ganymede NPCs, Enemies, The Ministry, Ministry Enemies]
@@ -19,9 +19,9 @@ categories: [Ganymede NPCs, Enemies, The Ministry, Ministry Enemies]
 
 ## Description
 
-Ministry Necromancers are NPCs that are frequently found around [Minityrsa](Minityrsa.md) sitting on the ground.
+Ministry Necromancers are NPCs frequently found sitting on the ground in [Minityrsa](Minityrsa.md).
 
-Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always have the same hair style, the hair being purely white.
+Their appearance consists of a [Prophet's Cloak](<Prophet's_Cloak.md>) and always the same hair style, the hair being purely white.
 
 ## Moves
 
@@ -94,4 +94,4 @@ Their arsenal consists of a [Krulian Knife](Krulian_Knife.md) and the [Shadowcas
 
 ## Trivia
 
--   Necromancer hair id - 4735347390
+-   Necromancer Hair ID - 4735347390

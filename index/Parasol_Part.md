@@ -1,6 +1,6 @@
 ---
 title: Parasol Part
-revid: 200207
+revid: 201224
 source: https://deepwoken.fandom.com/wiki/Parasol_Part
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Items, Drops, Ingredients]
@@ -26,13 +26,13 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-**Parasol Part** is a direct drop from [Interluminary Parasol](Interluminary_Parasol.md). This a rare drop, making this item highly sought after.
+**Parasol Part** is a direct drop from [Interluminary Parasol](Interluminary_Parasol.md). This is an uncommon drop, making this item highly sought after.
 
 ## Uses
 
 -   Trading with [The Gaunt Man](The_Gaunt_Man.md) for a [Parasol's Blight](<Parasol's_Blight.md>) [Enchant Stone](Enchant_Stone.md).
+-   Crafting [Necrotic Mask](Necrotic_Mask.md) and [Necrotic Cowl](Necrotic_Cowl.md)
 
 ## Trivia
 
--   The item's description hints at being used for making armor, however there currently aren't any known [Outfits](Outfits.md) or [Equipment](Equipment.md) that utilize this item in their crafting recipe.
 -   This item's model is identical to the [Strange Claw](Strange_Claw.md).

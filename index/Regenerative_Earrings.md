@@ -1,9 +1,9 @@
 ---
 title: Regenerative Earrings
-revid: 201106
+revid: 201239
 source: https://deepwoken.fandom.com/wiki/Regenerative_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive]
+categories: [Pathfinder Exclusive, Equipment, Ears, Craftable, Equipment with Set Bonuses]
 ---
 
 # Regenerative Earrings
@@ -15,8 +15,9 @@ categories: [Pathfinder Exclusive]
 | selling price | 25 |
 | requirements | PWR 8 |
 | weight | 0.1 |
-| innate stats | +5 Ether1 Legendary Pip |
+| innate stats | +5 Ether+1 Legendary Pip |
 | innate talent | Blood Convergence |
+| set | Regenerative Pendant, Regenerative Earrings |
 | set talent | Critical Heal |
 | bankable | No |
 | droppable | No |
@@ -33,29 +34,40 @@ This content is not accessible outside of this gamemode.
 
 Regenerative Set
 
+Variants: [Regenerative Pendant](Regenerative_Pendant.md)
+
 ## Description
 
-The Regenerative Earrings are a pair of craftable earrings similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops. It is one of two pieces in the "Trueblood" set, alongside the [Regenerative Pendant](Regenerative_Pendant.md).
+The Regenerative Earrings are a pair of craftable earrings similar to the [Trueblood Earrings](Trueblood_Earrings.md) from the [Vow of Iron](Vow_of_Iron.md) gamemode, but made from common [Pathfinder](Pathfinder.md) mode drops.
 
-The earrings alone grant the user the talent [Blood Convergence](Talents.md#blood-convergence), which allows you to receive 10% more healing from all healing sources when you have temp health.
+The [Blood Convergence](Talents.md#blood-convergence) Talent grants 10% more healing from all healing sources when you have temp health.
 
-The full Trueblood set talent provides the talent [Critical Heal](Talents.md#critical-heal), which provides a chance to heal you for 30 flat HP on every heal (5 second cooldown). See below for what can proc Critical Heal.
+## Set Talent
 
-**Cannot** proc Critical Heal:
+When wearing the full equipment set, you will gain the Set Talent.
 
--   [Fadetrimmer](Oath%253A_Fadetrimmer.md) Healing Hair Spray
+Set Talent: [Critical Heal](Talents.md#critical-heal) - Every time you heal, you have a 5% chance to proc a Critical Heal, healing you 30 health. \[5 second CD\]
 
-**Can** proc Critical Heal:
+The following sources of healing **cannot** proc Critical Heal:
+
+-   Any source of 'passive' healing (unexhaustie list below)
+    -   Passive health regeneration
+    -   [Curse of the No Life King](Curse_of_the_No_Life_King.md)
+    -   [Chorus of Souls](Talents.md#chorus-of-souls)
+    -   [Conditioned Runner](Talents.md#conditioned-runner)
+    -   [Campfire Pits](Campfire_Pit.md)
+-   [Fadetrimmer](Oath%253A_Fadetrimmer.md) Revitalizing [Hair Spray](Oath%253A_Fadetrimmer.md#hair-spray)
+
+The following sources of healing **can** proc Critical Heal:
 
 -   [Grand Feast](Talents.md#grand-feast) / [Replenishing Knockout](Talents.md#replenishing-knockout) / Health received on mob kill
--   Instant Health potion (any potency, however, you have to spam a lot of them as the proc chance is low)
+-   Instant Health [potions](Alchemy.md)
 -   Ticks of healing from [Blood Scourge](Blood_Scourge.md)
--   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md)
--   [Multiplicity](Multiplicity.md) Enchant Grease
--   [Flame Wisp](Flamecharm.md) Healing
+-   Ticks of healing from [Linkstrider's](Oath%253A_Linkstrider.md) [Parasitic Leech](Oath%253A_Linkstrider.md#parasitic-leech)
+-   [Multiplicity](Multiplicity.md) Enchantment
+-   [Flame Wisp](Flamecharm.md#flame-wisp) Healing
 -   [Bloodless Gems](Bloodless_Gem.md)
 -   [Sanguine Transfuser](Sanguine_Transfuser.md)'s critical attack
--   Critical Heal (Critical Heal counts as a source of healing, which means a Critical Heal can theoretically proc on itself an unlimited amount of times)
 -   [Corrupted Payback](Payback.md) healing
 
 ## Crafting

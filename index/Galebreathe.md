@@ -1,6 +1,6 @@
 ---
 title: Galebreathe
-revid: 199811
+revid: 201243
 source: https://deepwoken.fandom.com/wiki/Galebreathe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -882,6 +882,10 @@ Reduces fall damage by 20%.
 With Specter Path, gives you bonus spectral gauge when landing mantras.  
 With Haunted Gale, increases the duration of your Phantoms by 3s._
 
+  
+
+**As of 17 feb 2026: Gale Wisp with specter path no longer gives passive Spectral Gauge and instead gives you bonus Spectral Gauge when landing mantras**
+
  | 
 
 ## Gale Wisp (★★☆)
@@ -891,6 +895,10 @@ _A servant of wind.
 Reduces fall damage by 20%.  
 With Specter Path, gives you bonus spectral gauge when landing mantras.  
 With Haunted Gale, increases the duration of your Phantoms by 3s._
+
+  
+
+**As of 17 feb 2026: Gale Wisp with specter path no longer gives passive Spectral Gauge and instead gives you bonus Spectral Gauge when landing mantras**
 
  |
 | 

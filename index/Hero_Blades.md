@@ -1,6 +1,6 @@
 ---
 title: Hero Blades
-revid: 201095
+revid: 201251
 source: https://deepwoken.fandom.com/wiki/Hero_Blades
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Weapons with Unique Criticals, Hero Blades]
@@ -35,7 +35,7 @@ categories: [Weapons, Swords, "Attunement-based Weapons", Legendary Weapons, Wea
 
 ## Description
 
-The Hero Blades are a series of legendary blades enhanced and enruned with the Song. Each blade is connected to a respective Hero who bound their soul and Attunement into the weapon. The Hero Blades and the Heroes themselves are connected to the [Saintsworn Oath](Oath%253A_Saintsworn.md).
+The Hero Blades, or Hero's Blades, are a series of legendary blades enhanced and enruned with the Song. Each blade is connected to a respective Hero who bound their soul and Attunement into the weapon. The Hero Blades and the Heroes themselves are connected to the [Saintsworn Oath](Oath%253A_Saintsworn.md).
 
 Although they purely scale off of the player's element, Hero Blades deal physical slash damage and additionally scales off of the Proficiency [trait](Traits.md). Each of the Hero Blades possess a unique critical attack, summoning the fallen heroes to aid dealing elemental damage of their respective type.
 

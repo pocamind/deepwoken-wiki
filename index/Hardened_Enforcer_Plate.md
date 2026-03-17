@@ -1,9 +1,9 @@
 ---
 title: Hardened Enforcer Plate
-revid: 200137
+revid: 201219
 source: https://deepwoken.fandom.com/wiki/Hardened_Enforcer_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Arms, Plates]
+categories: [Pathfinder Exclusive, Equipment, Arms, Plates, Craftable]
 ---
 
 # Hardened Enforcer Plate
@@ -11,18 +11,19 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Plates]
 | Hardened Enforcer Plate | |
 |---|---|
 | type | Arms |
-| rarity | N/A |
+| rarity | Uncommon |
+| selling price | 14 |
 | requirements | LVL 8 |
 | weight | 2 |
 | innate stats | +1 Posture |
-| innate talent | Talent: BerserkerTalent: Enforcer's Strength |
+| innate talent | BerserkerEnforcer's Strength |
 | set | Hardened Enforcer Plate, Hardened Enforcer Boots |
 | set talent | Enforcer's Pull |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | enchantable | No |
-| pass down | Yes |
-| obtainment | 1 Enforcer Plate + 1 Enmity’s Armour Piece + 1 Ethereal Bone Dust at the Lost Forge of Leiuna |
+| pass down | No |
+| obtainment | 1 Enforcer Plate + 1 Enmity's Armor Piece + 1 Ethereal Bone Dust at the Lost Forge of Leiuna |
 | description | ... |
 
 Variants: [Enforcer Plate](Enforcer_Plate.md)

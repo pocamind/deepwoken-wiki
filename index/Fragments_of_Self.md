@@ -1,12 +1,16 @@
 ---
 title: Fragments of Self
-revid: 195512
+revid: 201247
 source: https://deepwoken.fandom.com/wiki/Fragments_of_Self
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Locations, Locations in the First Layer, Death, The Depths]
+categories: [Pathfinder Exclusive, Locations, Locations in the First Layer, Death, The Depths]
 ---
 
 # Fragments of Self
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 LocationL Fragments of Self LocationR
 

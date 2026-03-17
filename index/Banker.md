@@ -1,6 +1,6 @@
 ---
 title: Banker
-revid: 192379
+revid: 201244
 source: https://deepwoken.fandom.com/wiki/Banker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, NPCs]
@@ -18,16 +18,16 @@ Bankers are NPCs that a player can utilize to store items across slots. You can 
 They can be found in:
 
 -   [Isle of Vigils](Isle_of_Vigils.md) (near the entrance to the temple on the shipwright side)
--   [Etris](Etris.md) (across from the lance quest)
--   [Greathive Aratel](Greathive_Aratel.md)
--   [Summer Isle](Summer_Isle.md)
--   [Miner's Landing](<Miner's_Landing.md>)
--   [Castle Light](Castle_Light.md) (only those of the [Deepbound](Deepbound.md) Origin can interact with them)
--   [Chariot's Spire](<The_Chariot's_Spire.md>) (only those of the [Ignition Delver](Ignition_Delver.md) Origin can interact with them)
--   [Fort Merit](Fort_Merit.md)
--   [The Floating Keep](The_Floating_Keep.md)
--   [Guild Bases](Guild_Bases.md)
--   [Voidheart](Voidheart.md)
+-   [Etris](Etris.md), across from [Chef Odiolavoro](Chef_Odiolavoro.md)
+-   [Greathive Aratel](Greathive_Aratel.md), in the Root Plaza
+-   [Summer Isle](Summer_Isle.md), inside of the castle
+-   [Miner's Landing](<Miner's_Landing.md>), near the waterfall
+-   [Castle Light](Castle_Light.md), in the library (only those of the [Deepbound](Deepbound.md) Origin can interact with them)
+-   [Chariot's Spire](<The_Chariot's_Spire.md>), in the headquarters room (only those of the [Ignition Delver](Ignition_Delver.md) Origin can interact with them)
+-   [Fort Merit](Fort_Merit.md), next to the [Inn](Inn.md)
+-   [The Floating Keep](The_Floating_Keep.md),
+-   [Guild Bases](Guild_Bases.md), in the Trophy Room
+-   [Voidheart](Voidheart.md), behind the [Antiquarian](Antiquarian.md)
 
 ### Safe Deposit Boxes
 
@@ -100,3 +100,22 @@ Accessing your account will allow you to bank your notes, up to the max of 100,0
 Players can also give [artifacts](Artifacts.md) to banker NPCs, and in return the player will receive 200 notes and other moderate items, as rare armor, mantra ingredients, weapons, armor schematics, and some XP (the equipment that given can be rarely enchanted).
 
 **Note: Artifacts can only be turned in via normal bankers, not the ones in your Guild Base.**
+
+## Dialogue
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Welcome, esteemed customer, to the Luminary Bank! How can I help you?</td>
+</tr>
+<tr>
+  <td>Can I access my account?</td>
+</tr>
+<tr>
+  <td>[End Dialogue], opens Luminary Banking Co. UI</td>
+</tr>
+</tbody>
+</table>

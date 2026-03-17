@@ -1,6 +1,6 @@
 ---
 title: Jus Karita
-revid: 191835
+revid: 201236
 source: https://deepwoken.fandom.com/wiki/Jus_Karita
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Fighting Styles, Light Weapons]
@@ -47,7 +47,7 @@ Completing this will grant you the Jus Karita Talent which enables you to use th
 
 ## Critical
 
-Dash forward while performing a kick.
+Dash forward while performing a kick. This critical deals **1.3x scaled damage.**
 
 ## Mantras
 
