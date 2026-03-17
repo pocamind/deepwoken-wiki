@@ -1,9 +1,9 @@
 ---
 title: Ossified Simple Pauldrons
-revid: 199596
+revid: 201198
 source: https://deepwoken.fandom.com/wiki/Ossified_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive]
+categories: [Pathfinder Exclusive, Equipment, Arms, Craftable, Pauldrons]
 ---
 
 # Ossified Simple Pauldrons
@@ -34,12 +34,6 @@ This content is not accessible outside of this gamemode.
 
 The Ossified Simple Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
-This item is similar to [Super Simple Pauldrons](Super_Simple_Pauldrons.md) from [Vow of Iron](Vow_of_Iron.md).
+The [Simple Buff](Talents.md#simple-buff) Talent grants a 7.5% damage buff to M1s (15% in Vow of Iron).
 
-## Talent: Simple Buff
-
-The [Simple Buff](Talents.md#simple-buff) Talent grants a 7.5%/15% damage buff to M1s.
-
-Gives a 7.5% damage buff in Pathfinder.
-
-Gives a 15% damage buff in VOI.
+This item is the [Pathfinder](Pathfinder.md) equivalent of the [Super Simple Pauldrons](Super_Simple_Pauldrons.md)

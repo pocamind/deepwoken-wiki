@@ -1,6 +1,6 @@
 ---
 title: Ignition Deepdelver
-revid: 194691
+revid: 201159
 source: https://deepwoken.fandom.com/wiki/Ignition_Deepdelver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Outfits, Master Outfits, The Ignition Union]
@@ -21,7 +21,7 @@ categories: [Outfits, Master Outfits, The Ignition Union]
 | resistances | +15% Ironsing Armor, +15% Ice Armor, +35% Elemental Armor, +30% Physical Armor |
 | buffs | +20% Ether Regen |
 | talents | Force Your Way |
-| obtainment | Layer 2, Scion of Ethiron, The Diluvian Mechanism, Glaive Spellhardt |
+| obtainment | Layer 2, Scion of Ethiron, The Diluvian Mechanism, Glaive SpellhardtVow of Iron:, Mystery Boxes |
 | selling_price | 10 |
 | weight | 1 |
 | shirt | Shirt • Pants |

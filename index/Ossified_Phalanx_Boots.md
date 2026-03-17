@@ -1,9 +1,9 @@
 ---
 title: Ossified Phalanx Boots
-revid: 198898
+revid: 201202
 source: https://deepwoken.fandom.com/wiki/Ossified_Phalanx_Boots
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive]
+categories: [Pathfinder Exclusive, Equipment, Legs, Boots, Craftable]
 ---
 
 # Ossified Phalanx Boots
@@ -17,10 +17,9 @@ categories: [Pathfinder Exclusive]
 | weight | 1 |
 | innate stats | +2 Rare Pips, +1 Legendary Pip |
 | innate talent | Alloyed Soles |
-| set talent | N/A |
 | bankable | No |
 | droppable | No |
-| enchantable | ? |
+| enchantable | No |
 | pass down | No |
 | obtainment | Crafting 1 Phalanx Heavy Boots +1 Ethereal Osseous Plate + 1 Shiva's Codex in the Lost Forge |
 | description | ... |
@@ -35,8 +34,6 @@ This content is not accessible outside of this gamemode.
 
 Alloyed Phalanx Boots are an [Equipment](Equipment.md) item under the "**Legs**" category.
 
-This item is similar to [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md) from [Vow of Iron](Vow_of_Iron.md).
-
-## Talent: Alloyed Soles
-
 The [Alloyed Soles](Talents.md#alloyed-soles) Talent reduces the duration of knockdown applied to you.
+
+This item is the [Pathfinder](Pathfinder.md) equivalent of the [Alloyed Phalanx Boots](Alloyed_Phalanx_Boots.md).

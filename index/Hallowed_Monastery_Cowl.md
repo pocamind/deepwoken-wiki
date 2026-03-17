@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Cowl
-revid: 198606
+revid: 201187
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Head, Cowls]

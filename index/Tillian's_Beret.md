@@ -1,6 +1,6 @@
 ---
 title: "Tillian's Beret"
-revid: 200552
+revid: 201194
 source: https://deepwoken.fandom.com/wiki/Tillian's_Beret
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, World Event, Head, Hats]

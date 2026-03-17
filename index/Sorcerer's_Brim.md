@@ -1,6 +1,6 @@
 ---
 title: "Sorcerer's Brim"
-revid: 200663
+revid: 201169
 source: https://deepwoken.fandom.com/wiki/Sorcerer's_Brim
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Hats, Equipment, Head, Equipment with Set Bonuses]
@@ -43,4 +43,6 @@ The [Sorcerer's Skill](Talents.md#sorcerers-skill) Talent decreases the [Tempo](
 
 When wearing the full equipment set, you will gain the Set Talent.
 
-Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 30.
+Set Talent: [Sorcerer's Supply](Talents.md#sorcerers-supply) - Increase the amount of [Tempo](Combat_Mechanics.md#tempo) you have by 10/30.
+
+This increases your [Tempo](Combat_Mechanics.md#tempo) by 10 in [Pathfinder](Pathfinder.md) and 30 in [Vow of Iron](Vow_of_Iron.md).

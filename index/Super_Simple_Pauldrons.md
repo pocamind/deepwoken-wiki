@@ -1,6 +1,6 @@
 ---
 title: Super Simple Pauldrons
-revid: 199730
+revid: 201200
 source: https://deepwoken.fandom.com/wiki/Super_Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Pauldrons]
@@ -34,4 +34,4 @@ For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above n
 
 The Super Simple Pauldrons are an [Equipment](Equipment.md) item under the "Arms" category.
 
-The [Simple Buff](Talents.md#simple-buff) Talent grants a 15% damage buff to M1s.
+The [Simple Buff](Talents.md#simple-buff) Talent grants a 15% damage buff to M1s (7.5% in [Pathfinder](Pathfinder.md)).

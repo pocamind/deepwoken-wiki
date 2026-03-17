@@ -1,6 +1,6 @@
 ---
 title: Blacksteel Helm
-revid: 191076
+revid: 201217
 source: https://deepwoken.fandom.com/wiki/Blacksteel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -38,5 +38,3 @@ The Blacksteel Helm is an [Equipment](Equipment.md) item under the "Head" catego
 
 -   Considered one of the Best Head [Equipment](Equipment.md) pieces, due to being one of the 5 helmets that are able to reach 30 HP. The other 4 being: [Silver Knight's Helm](<Silver_Knight's_Helm.md>), [Familiar Heretic's Helm](<Familiar_Heretic's_Helm.md>), [Familiar Knight's Helm](<Familiar_Knight's_Helm.md>), and [Familiar Priest's Helm](<Familiar_Priest's_Helm.md>).
 -   If you're looking for alternate options for Head [Equipment](Equipment.md), [Deepwoken Hood](Deepwoken_Hood.md) & [Vigil Hood](Vigil_Hood.md) both offer the best pips required to reach the highest amount of Phys Armor/Elem Armor, but sacrifices any innate stats.
--   Part of the "Blacksteel" set, alongside the [Blacksteel Pauldrons](Blacksteel_Pauldrons.md).
--   Rare drop from [Blacksteel Pirates](Blacksteel_Pirate.md).

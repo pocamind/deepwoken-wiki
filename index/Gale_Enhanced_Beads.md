@@ -1,9 +1,9 @@
 ---
 title: Gale Enhanced Beads
-revid: 199979
+revid: 201190
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Equipment, Craftable, Torso, Necklaces]
+categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces]
 ---
 
 # Gale Enhanced Beads
@@ -15,9 +15,9 @@ categories: [Equipment, Craftable, Torso, Necklaces]
 | selling price | 50 |
 | requirements | LVL 5 |
 | weight | 0.5 |
-| innate stats | +3% Elemental Armor1 Legendary Pip |
+| innate stats | +3% Elemental Armor+1 Legendary Pip |
 | innate talent | Focused Strikes |
-| set | Gale Monastery Cowl, Gale Enhanced Beads |
+| set | Gale Enhanced Cowl, Gale Enhanced Beads, Gale Enhanced Earrings, Gale Enhanced Ring |
 | set talent | N/A |
 | bankable | No |
 | droppable | No |
@@ -28,13 +28,17 @@ categories: [Equipment, Craftable, Torso, Necklaces]
 
 Variants: [Monastery Beads](Monastery_Beads.md)
 
+**[Pathfinder](Pathfinder.md) Exclusive**  
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
+
 ## Description
 
 **Gale Enhanced Beads** are an [Equipment](Equipment.md) item under the "Torso" category.
 
 The [Focused Strikes](Talents.md#focused-strikes) Talent increases the posture damage of your critical attacks by 15%.
 
-This item is similar to [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md), a [Vow of Iron](Vow_of_Iron.md) exclusive equipment.
+This item is the Pathfinder equivalent of the [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md).
 
 ## Trivia
 

@@ -1,6 +1,6 @@
 ---
 title: Simple Pauldrons
-revid: 198615
+revid: 201199
 source: https://deepwoken.fandom.com/wiki/Simple_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]

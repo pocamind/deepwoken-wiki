@@ -1,6 +1,6 @@
 ---
 title: Alloyed Phalanx Plate
-revid: 189985
+revid: 201205
 source: https://deepwoken.fandom.com/wiki/Alloyed_Phalanx_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Arms, Plates]
@@ -31,8 +31,6 @@ Variants: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
 For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
-
-Alloyed Phalanx Set
 
 ## Description
 
