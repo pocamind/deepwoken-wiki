@@ -1,6 +1,6 @@
 ---
 title: Akira
-revid: 198022
+revid: 201372
 source: https://deepwoken.fandom.com/wiki/Akira
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, The Divers, NPCs located in the First Layer, Black Divers]
@@ -84,25 +84,25 @@ After this you are able to talk to Akira, in which he has two different conversa
   <td colspan="2">Research platoon?</td>
 </tr>
 <tr>
-  <td colspan="2">Is there something surprising about that or are you just uneducated..? We're currently in the Depths, we Divers blow boatloads of Authority funding on expeditions down here.</td>
+  <td colspan="2">Is there something surprising about that or are you just uneducated..? We're currently in the <a href="Glossary.md#the-depths">Depths</a>, we <a href="Glossary.md#the-divers">Divers</a> blow boatloads of <a href="Glossary.md#the-central-authority">Authority</a> funding on expeditions down here.</td>
 </tr>
 <tr>
   <td colspan="2">I just thought the Divers didn't kill people as you did.</td>
 </tr>
 <tr>
-  <td colspan="2">Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the Depths for all I care. My judgment is absolute.</td>
+  <td colspan="2">Oh you mean those mudskippers from the Ignition Union just now? Calling them 'people' is somewhat of a stretch. Anyone who crosses me is an ally of the <a href="Glossary.md#the-depths">Depths</a> for all I care. My judgment is absolute.</td>
 </tr>
 <tr>
   <td colspan="2">Who are you?</td>
 </tr>
 <tr>
-  <td colspan="2">If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank <i>Black Diver</i>, in charge of research site pre-clearing and new recruit field training.</td>
+  <td colspan="2">If it means you'll leave me to my reading, I'll tell you. I'm Akira, rank <i><a href="Glossary.md#black-divers">Black Diver</a></i>, in charge of research site pre-clearing and new recruit field training.</td>
 </tr>
 <tr>
   <td colspan="2">I want to join the Divers.</td>
 </tr>
 <tr>
-  <td colspan="2">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to Castle Light in one piece and we'll see about your recruitment there.</td>
+  <td colspan="2">As I said, I'm quite busy right now, and would love to continue reading this book. Make it to <a href="Glossary.md#castle-light">Castle Light</a> in one piece and we'll see about your recruitment there.</td>
 </tr>
 <tr>
   <td colspan="2">[End Dialogue], Akira returns to Castle Light</td>

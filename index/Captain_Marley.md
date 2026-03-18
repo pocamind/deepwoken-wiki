@@ -1,9 +1,9 @@
 ---
 title: Captain Marley
-revid: 179820
+revid: 201348
 source: https://deepwoken.fandom.com/wiki/Captain_Marley
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Central Authority Enemies]
+categories: [Pathfinder Exclusive, Enemies, Central Authority Enemies]
 ---
 
 # Captain Marley
@@ -14,6 +14,10 @@ categories: [Enemies, Central Authority Enemies]
 | drops | Master Key, Release Key, Override Key, Armorer's Needle |
 | weapon | Central Dirk |
 | moves | Assault, Critical, Ice Daggers, Ice Cubes, Ice Lance, Crystal Impale |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

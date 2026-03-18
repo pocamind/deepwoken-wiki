@@ -1,6 +1,6 @@
 ---
 title: Das
-revid: 191378
+revid: 201371
 source: https://deepwoken.fandom.com/wiki/Das
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -12,7 +12,7 @@ categories: [Vesperian NPCs, Pathfinder Exclusive, NPCs, NPCs located in the Etr
 |---|---|
 | name | Das |
 | aspect | Vesperian |
-| location | Isle of Vigils |
+| location | Temple Sparring Hall |
 | affiliation | Etrea |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
@@ -21,15 +21,15 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Das is a [Vesperian](Vesperian.md) NPC who wears a [Vigil Initiate](Vigil_Initiate.md) outfit.
-
-Interacting with them sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) and initiates [Training Mode](Training_Mode.md). They are the Etrean Luminant counterpart of [Regarde](Regarde.md), the instructor at [Greathive Aratel](Greathive_Aratel.md).
+Das is a [Vesperian](Vesperian.md) NPC. Interacting with them sends you to the [Temple Sparring Hall](<Temple_Sparring_Hall_(Dungeon).md>) and initiates [Training Mode](Training_Mode.md). They are the Etrean Luminant counterpart of [Regarde](Regarde.md), the instructor at [Greathive Aratel](Greathive_Aratel.md).
 
 ## Location
 
 Das is located in [Isle of Vigils](Isle_of_Vigils.md) inside the [Temple of the Blade](Temple_of_the_Blade.md), standing on the opposite side of [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md).
 
 ## Dialogue
+
+**First Encounter:**
 
 <table>
 <tbody>
@@ -53,3 +53,26 @@ Das is located in [Isle of Vigils](Isle_of_Vigils.md) inside the [Temple of the 
 </tr>
 </tbody>
 </table>
+
+**Subsequent Encounters:**
+
+<table>
+<tbody>
+<tr>
+  <td>Begin Dialogue</td>
+</tr>
+<tr>
+  <td>Ah you're back! Here to test your mettle?</td>
+</tr>
+<tr>
+  <td>I want to spar with an instructor.</td>
+</tr>
+<tr>
+  <td>[End Dialogue], teleports you to the Temple Sparring Hall</td>
+</tr>
+</tbody>
+</table>
+
+## Trivia
+
+-   Das wears the [Vigil Initiate](Vigil_Initiate.md) outfit.

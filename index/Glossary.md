@@ -1,6 +1,6 @@
 ---
 title: Glossary
-revid: 200116
+revid: 201373
 source: https://deepwoken.fandom.com/wiki/Glossary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -32,7 +32,7 @@ Dialogue: Interacting with a Lightkeep entry after activating the [Lightkeeper's
 -   The highest-ranking field personnel of the [Divers](#the-divers), granted oversight and authority second only to the Administrators of Operating Bases.
 -   Black Divers have all descended beyond the [First Layer](#scyphozia-the-first-layer) on solo expeditions and have lived to tell the tale. As such, every Black Diver stands as a formidable individual, with many of their rank consisting of the most brilliant (and twisted) minds of the era.
 
-Dialogue: [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries:
+Dialogue: [Akira](Akira.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.md) | Books: [A Deathscribe's Journal](<A_Deathscribe's_Journal.md>), [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries:
 
 ### The Celestials
 
@@ -541,7 +541,7 @@ Dialogue: [Alpha](Alpha.md), [Klaris Llfiend](Klaris_Llfiend,_Mother_of_Lights.m
 -   The closest [Diver](#the-divers) expedition base to [Drowned Celtor](#the-drowned-city-of-celtor).
 -   Klaris Llfiend presides over the base and supervises expeditions into the [Second Layer](#the-eternal-gale-the-second-layer).
 
-Dialogue: [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthook](#lighthook)
+Dialogue: [Akira](Akira.md), [Deepdelver Gamma](Deepdelver_Gamma.md) | Books: [The Song of Fathoms / Oscillation](The_Song_of_Fathoms_/_Oscillation.md) | Glossary Entries: [Lighthook](#lighthook)
 
 ### The Central Luminant
 

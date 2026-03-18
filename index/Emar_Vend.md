@@ -1,9 +1,9 @@
 ---
 title: Emar Vend
-revid: 192787
+revid: 201351
 source: https://deepwoken.fandom.com/wiki/Emar_Vend
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies with Oaths, Central Authority defectors]
+categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths, Central Authority defectors]
 ---
 
 # Emar Vend
@@ -14,6 +14,10 @@ categories: [Enemies, Enemies with Oaths, Central Authority defectors]
 | drops | None |
 | weapon | Darksteel Greatsword |
 | moves | Assault, Critical, Restrain, Caltrops, Vent |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 Emar Vend is a rogue Authority [Chainwarden](Oath%253A_Chainwarden.md) who is the captor of an [Authority Soldier](Authority_Soldier.md). He is part of the obtainment of [Oath: Chainwarden](Oath%253A_Chainwarden.md).
 

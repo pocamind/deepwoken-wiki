@@ -1,9 +1,9 @@
 ---
 title: Kyrsgarde Brute
-revid: 200118
+revid: 201344
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Brute
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Layer 2, Monsters, Floor 2]
+categories: [Pathfinder Exclusive, Layer 2, Monsters, Floor 2]
 ---
 
 # Kyrsgarde Brute
@@ -17,6 +17,10 @@ categories: [Layer 2, Monsters, Floor 2]
 | challenges | -- Kyrsgarde --, Guardians of Kyrsa - Slay 10.Reward: +5% DMG; +2.5% RES, Mortal Coil - Slay 25.Reward: +5% DMG; +2.5% RES, Eternal Rest - Slay 100.Reward: +5% DMG; +2.5% RES |
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

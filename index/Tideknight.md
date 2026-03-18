@@ -1,9 +1,9 @@
 ---
 title: Tideknight
-revid: 194985
+revid: 201345
 source: https://deepwoken.fandom.com/wiki/Tideknight
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Celtor Enemies]
+categories: [Pathfinder Exclusive, Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Celtor Enemies]
 ---
 
 # Tideknight
@@ -16,6 +16,10 @@ categories: [Enemies, Enemies that can wield Enchantments, Lost Celtor, Lost Cel
 | moves | Dependent on Oath, weapon, and Mantras |
 
 _This is the enemy NPC found within the Diluvian Mechanism. For the Master Outfit, see [Celtorian Tideknight](Celtorian_Tideknight.md)._
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

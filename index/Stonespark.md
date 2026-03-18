@@ -1,9 +1,9 @@
 ---
 title: Stonespark
-revid: 195189
+revid: 201340
 source: https://deepwoken.fandom.com/wiki/Stonespark
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters]
+categories: [Pathfinder Exclusive, Monsters]
 ---
 
 # Stonespark
@@ -14,6 +14,10 @@ categories: [Monsters]
 | attacks | Punch, Heavy Punch, Finisher: Laser Detonate |
 | locations | Lower Erisia |
 | challenges | -- Stonelife Golem --, Pebbleslayer - Slay 10.Reward: +10% DMG; +5% RES, Boulderslayer - Slay 25.Reward: +10% DMG; +5% RES, Mountainslayer - Slay 100.Reward: +10% DMG; +5% RES |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

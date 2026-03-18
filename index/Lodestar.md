@@ -1,9 +1,9 @@
 ---
 title: Lodestar
-revid: 176734
+revid: 201356
 source: https://deepwoken.fandom.com/wiki/Lodestar
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Enemies with Oaths]
+categories: [Pathfinder Exclusive, Enemies, Enemies with Oaths]
 ---
 
 # Lodestar
@@ -14,6 +14,10 @@ categories: [Enemies, Enemies with Oaths]
 | drops | Medium sized chest (see loot table), Navaen War Chief , Guiding Star |
 | weapon | Guiding Star |
 | moves | Assault, Critical, Warden's Blades, Ice Daggers, Crystal Impale, Sightless Beam, Wind Forge |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

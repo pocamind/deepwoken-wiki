@@ -1,9 +1,9 @@
 ---
 title: Galebreathe Obelisk
-revid: 191445
+revid: 201346
 source: https://deepwoken.fandom.com/wiki/Galebreathe_Obelisk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, NPCs located in the Etrean Luminant, Oath Trainer]
+categories: [Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Oath Trainer]
 ---
 
 # Galebreathe Obelisk
@@ -12,6 +12,10 @@ categories: [NPCs, NPCs located in the Etrean Luminant, Oath Trainer]
 |---|---|
 | name | Trinity Galenwarde |
 | location | Burning Stone Gardens |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

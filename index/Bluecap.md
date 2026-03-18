@@ -1,9 +1,9 @@
 ---
 title: Bluecap
-revid: 199266
+revid: 201361
 source: https://deepwoken.fandom.com/wiki/Bluecap
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
+categories: [Pathfinder Exclusive, Ingredients, Harvestables, Alchemy, Mushrooms]
 ---
 
 # Bluecap
@@ -19,6 +19,10 @@ categories: [Ingredients, Harvestables, Alchemy, Mushrooms]
 | droppable | Yes |
 | pass down | No |
 | desc | A strange mushroom with the ability to grant incredible knowledge. |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

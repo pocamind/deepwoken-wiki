@@ -1,6 +1,6 @@
 ---
 title: Viscous Descent
-revid: 135922
+revid: 201337
 source: https://deepwoken.fandom.com/wiki/Viscous_Descent
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 ---
@@ -9,4 +9,4 @@ license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 
 Redirect to:
 
--   [Bloodrend#Viscous Descent](Bloodrend.md#viscous-descent)
+-   [Bloodrend#Vicious Descent](Bloodrend.md#vicious-descent)

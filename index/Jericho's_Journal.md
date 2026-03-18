@@ -1,12 +1,16 @@
 ---
 title: "Jericho's Journal"
-revid: 177421
+revid: 201357
 source: https://deepwoken.fandom.com/wiki/Jericho's_Journal
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Books]
+categories: [Pathfinder Exclusive, Books]
 ---
 
 # Jericho's Journal
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

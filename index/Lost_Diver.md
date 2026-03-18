@@ -1,9 +1,9 @@
 ---
 title: Lost Diver
-revid: 176698
+revid: 201355
 source: https://deepwoken.fandom.com/wiki/Lost_Diver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, The Divers]
+categories: [Pathfinder Exclusive, Enemies, The Divers]
 ---
 
 # Lost Diver
@@ -14,6 +14,10 @@ categories: [Enemies, The Divers]
 | drops | Markor's Inheritor |
 | weapon | Markor's Inheritor |
 | moves | Assault, Critical, Gale Lunge, Prominence Draw |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ The Drowned shall never know peace. ”
 

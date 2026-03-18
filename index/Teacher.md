@@ -1,9 +1,9 @@
 ---
 title: Teacher
-revid: 191655
+revid: 201339
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, NPCs]
+categories: [Pathfinder Exclusive, Enemies, NPCs]
 ---
 
 # Teacher
@@ -14,6 +14,10 @@ categories: [Enemies, NPCs]
 | drops | N/A |
 | weapon | Fists (Way of Navae) |
 | moves | Ice Eruption |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

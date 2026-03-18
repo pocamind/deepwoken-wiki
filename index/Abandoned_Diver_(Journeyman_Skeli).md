@@ -1,6 +1,6 @@
 ---
 title: Abandoned Diver (Journeyman Skeli)
-revid: 201263
+revid: 201365
 source: https://deepwoken.fandom.com/wiki/Abandoned_Diver_(Journeyman_Skeli)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Pathfinder Exclusive, NPCs, NPCs located in the First Floor of the Second Layer, Members of Diver expeditions to the Second Layer, Deceased characters]
@@ -24,7 +24,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-Skeli was an [Etrean](Etrean.md) [Diver](The_Divers.md) who eventually attained the rank of Journeyman. Skeli had past encounters with the [Black Diver](Black_Divers_division.md) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and witnessed him volunteer to lead an expedition to the [Second Layer](Second_Layer.md). Skeli considered Chaser's eagerness out of character.
+Skeli was an [Etrean](Etrean.md) [Diver](The_Divers.md) who eventually attained the rank of Journeyman. Skeli had past encounters with the [Black Diver](Black_Divers_division.md) [Chaser](Chaser,_Scholar_of_the_Crimson_Contract.md), and witnessed him volunteer to lead an expedition to the [Second Layer](Second_Layer.md). Skeli considered Chaser's eagerness out of character.[\[1\]](#cite-note-journal-ii-1)
 
 Skeli was later assigned to the third expedition to the [Second Layer](Second_Layer.md). Their team was sent by [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) to rendezvous with Chaser, the sole survivor of the previous two expedition teams.[\[1\]](#cite-note-journal-ii-1)
 
@@ -67,6 +67,7 @@ Eventually, Skeli died and their lifeless corpse was left to freeze in the waste
 
 ## References
 
-1.  ↑ [1.0](#cite-ref-journal-ii-1-0) [1.1](#cite-ref-journal-ii-1-1) [1.2](#cite-ref-journal-ii-1-2) [1.3](#cite-ref-journal-ii-1-3) [1.4](#cite-ref-journal-ii-1-4) [1.5](#cite-ref-journal-ii-1-5) [Diver Journal, II](Diver_Journal,_II.md)
+1.  ↑ [1.0](#cite-ref-journal-ii-1-0) [1.1](#cite-ref-journal-ii-1-1) [1.2](#cite-ref-journal-ii-1-2) [1.3](#cite-ref-journal-ii-1-3) [1.4](#cite-ref-journal-ii-1-4) [1.5](#cite-ref-journal-ii-1-5) [1.6](#cite-ref-journal-ii-1-6) [Book](Books.md): [Diver Journal, II](Diver_Journal,_II.md)  
+    
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). As such, events taking place during the events of the game in Verse 2 will be assumed to occur during the year 1272 CE, due to [The Hammer's Call](<The_Hammer's_Call.md>), which was released in Verse 2, containing an event occurring within 1272.
-3.  [↑](#cite-ref-journal-iii-3-0) [Diver Journal, III](Diver_Journal,_III.md)
+3.  [↑](#cite-ref-journal-iii-3-0) [Book](Books.md): [Diver Journal, III](Diver_Journal,_III.md)

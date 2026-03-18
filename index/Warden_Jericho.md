@@ -1,9 +1,9 @@
 ---
 title: Warden Jericho
-revid: 194401
+revid: 201358
 source: https://deepwoken.fandom.com/wiki/Warden_Jericho
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Adret NPCs, Individuals with He/him pronouns, Wardens of The Central Authority, NPCs located in the Eastern Luminant, Circle of Honour members]
+categories: [Adret NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, Wardens of The Central Authority, NPCs located in the Eastern Luminant, Circle of Honour members]
 ---
 
 # Warden Jericho
@@ -16,6 +16,10 @@ categories: [Adret NPCs, Individuals with He/him pronouns, Wardens of The Centra
 | location | Fort Merit |
 | affiliation | The Central Authority, Circle of Honour[1] |
 | family | Aladrian (father), Octavius (father) |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ May you become the light that guides the blinded in the dark, may you burn bright as the Authority's undying flame, and may triumphant vanquish you the foes of humankind. ”
 

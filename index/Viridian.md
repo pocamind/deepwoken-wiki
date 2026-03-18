@@ -1,9 +1,9 @@
 ---
 title: Viridian
-revid: 200297
+revid: 201359
 source: https://deepwoken.fandom.com/wiki/Viridian
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Ganymede NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
+categories: [Ganymede NPCs, Pathfinder Exclusive, NPCs, Oath Trainer, NPCs located in the Eastern Luminant]
 ---
 
 # Viridian
@@ -13,6 +13,10 @@ categories: [Ganymede NPCs, NPCs, Oath Trainer, NPCs located in the Eastern Lumi
 | name | Viridian |
 | aspect | Ganymede |
 | location | Fort Merit |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Walk free, Oathless disciple. ”
 

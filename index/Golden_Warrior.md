@@ -1,9 +1,9 @@
 ---
 title: Golden Warrior
-revid: 198275
+revid: 201362
 source: https://deepwoken.fandom.com/wiki/Golden_Warrior
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [NPCs, Enemies, The Golden Rats]
+categories: [Pathfinder Exclusive, NPCs, Enemies, The Golden Rats]
 ---
 
 # Golden Warrior
@@ -14,6 +14,10 @@ categories: [NPCs, Enemies, The Golden Rats]
 | drops | Gold Plate |
 | weapon | Soulwrought Axe |
 | moves | Assault, Critical, Gale Lunge, Heavenly Wind, Astral Wind |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

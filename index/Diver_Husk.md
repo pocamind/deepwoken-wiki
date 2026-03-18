@@ -1,9 +1,9 @@
 ---
 title: Diver Husk
-revid: 178697
+revid: 201350
 source: https://deepwoken.fandom.com/wiki/Diver_Husk
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies, Layer 2]
+categories: [Pathfinder Exclusive, Enemies, Layer 2]
 ---
 
 # Diver Husk
@@ -14,6 +14,10 @@ categories: [Enemies, Layer 2]
 | drops | None |
 | weapon | Crucible Rapier, Zweihander, Katana, Halberd |
 | moves | Critical, Strong Left |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Overview
 

@@ -1,9 +1,9 @@
 ---
 title: Kyrsgarde Lancer
-revid: 197085
+revid: 201342
 source: https://deepwoken.fandom.com/wiki/Kyrsgarde_Lancer
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Monsters, Floor 2, Layer 2]
+categories: [Pathfinder Exclusive, Monsters, Floor 2, Layer 2]
 ---
 
 # Kyrsgarde Lancer
@@ -17,6 +17,10 @@ categories: [Monsters, Floor 2, Layer 2]
 | challenges | -- Kyrsgarde --, Guardians of Kyrsa - Slay 10.Reward: +5% DMG; +2.5% RES, Mortal Coil - Slay 25.Reward: +5% DMG; +2.5% RES, Eternal Rest - Slay 100.Reward: +5% DMG; +2.5% RES |
 
 _This might have not been the page you were looking for, if you were looking for a different page, view the [disambiguation](<Kyrsgarde_(disambiguation).md>)._
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ It began with a sound. Ah in the ways of the Song... A Tone. And then the Gale came. Gods above, it deafened us all. And when our hearing returned... They're puppets now, just like him. Eternally bound to guard his shrine... and to allow his arrival. ”
 

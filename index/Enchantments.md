@@ -1,6 +1,6 @@
 ---
 title: Enchantments
-revid: 200947
+revid: 201338
 source: https://deepwoken.fandom.com/wiki/Enchantments
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics, Weapons, Equipment]
@@ -1240,79 +1240,6 @@ Windswept Enchant Stone can as a chest drop from [Titus Fulminus Destellus](Titu
 | --- | --- |
 | 
 
-**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**
-
-[View main page](Curse_of_Captain_Greene.md)
-
-[Curse of Captain Greene](Curse_of_Captain_Greene.md)
-
-_Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
-
- | 
-
-**Effect:**
-
-Your weapon's base damage is tied to your current [Notes](Notes.md).
-
-Your weapon's base damage is reduced by 15%. For every Note you have, your weapon's base damage will be increased by 0.002%, capping at +15% base damage with 15k Notes.
-
-Upon taking damage from a player, lose 100 Notes, signified by a coin splash sound effect.
-
-**This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
-
-**Obtainment:**
-
-Curse of Captain Greene is obtained exclusively from its [Enchant Stone](Enchant_Stone.md).
-
-Curse of Captain Greene Enchant Stone can be obtained by trading 1 [Exotic Hide](Exotic_Hide.md) to [The Gaunt Man](The_Gaunt_Man.md).
-
-  
-
- |
-| 
-
-**[Curse of Repulsion](Curse_of_Repulsion.md)**
-
-[View main page](Curse_of_Repulsion.md)
-
-File:Curse.gif
-
-_When you block attacks, you knock your attacker backwards. You receive +30% chip damage._
-
- | 
-
-**Effect:**
-
-Upon blocking an attack, push the attacker backwards. Additionally, you take 30% chip damage from the attack that procced this enchant.
-
-Curse of Repulsion has a 2.5 second cooldown. There is no range limit for this effect.
-
-**Obtainment:**
-
-Curse of Repulsion is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
-
-Curse of Repulsion [Enchant Stone](Enchant_Stone.md):
-
--   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
--   [War Mode](War_Mode.md)
--   [Hell Mode](Hell_Mode.md)
--   [Scion of Ethiron](Scion_of_Ethiron.md)
--   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
--   [Dread Serpent](Dread_Serpent.md)
--   [Heart of Enmity](Heart_of_Enmity.md)
--   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
--   [Saramaed Hollow](Saramaed_Hollow.md)
--   [Second Layer](Second_Layer.md)
--   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
--   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
--   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
-    
-
-  
-
- |
-| 
-
 **[Curse of the Authoritative](Curse_of_the_Authoritative.md)**
 
 [View main page](Curse_of_the_Authoritative.md)
@@ -1384,6 +1311,37 @@ Curse of the Bloodthirsty [Enchant Stone](Enchant_Stone.md):
  |
 | 
 
+**[Curse of Captain Greene](Curse_of_Captain_Greene.md)**
+
+[View main page](Curse_of_Captain_Greene.md)
+
+[Curse of Captain Greene](Curse_of_Captain_Greene.md)
+
+_Known throughout the Summer Company, many heard of the famous treasurer Captain Greene. You inherit his strange ability to summon notes when hitting a player, with you gaining damage the more rich you are. However since you aren't Captain Greene himself, you lose notes whenever you get hit. A strange curse indeed..._
+
+ | 
+
+**Effect:**
+
+Your weapon's base damage is tied to your current [Notes](Notes.md).
+
+Your weapon's base damage is reduced by 15%. For every Note you have, your weapon's base damage will be increased by 0.002%, capping at +15% base damage with 15k Notes.
+
+Upon taking damage from a player, lose 100 Notes, signified by a coin splash sound effect.
+
+**This enchantment will do nothing if you have not completed [The Gaunt Man's](The_Gaunt_Man.md) trial on your character.**
+
+**Obtainment:**
+
+Curse of Captain Greene is obtained exclusively from its [Enchant Stone](Enchant_Stone.md).
+
+Curse of Captain Greene Enchant Stone can be obtained by trading 1 [Exotic Hide](Exotic_Hide.md) to [The Gaunt Man](The_Gaunt_Man.md).
+
+  
+
+ |
+| 
+
 **[Curse of the No Life King](Curse_of_the_No_Life_King.md)**
 
 [View main page](Curse_of_the_No_Life_King.md)
@@ -1411,6 +1369,48 @@ This enchantment does not work in the [Chime of Conflict](Chime_of_Conflict.md).
 Curse of the No Life King can be obtained from its [Enchant Stone](Enchant_Stone.md), trading with [Laplace](Laplace.md), or by obtaining a Curse of the No Life King enchanted weapon from a chest.
 
 Curse of the No Life King [Enchant Stone](Enchant_Stone.md):
+
+-   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
+-   [War Mode](War_Mode.md)
+-   [Hell Mode](Hell_Mode.md)
+-   [Scion of Ethiron](Scion_of_Ethiron.md)
+-   [Maestro Evengarde Rest](Maestro_Evengarde_Rest.md)
+-   [Dread Serpent](Dread_Serpent.md)
+-   [Heart of Enmity](Heart_of_Enmity.md)
+-   [Chaser, Scholar of the Crimson Contract](Chaser,_Scholar_of_the_Crimson_Contract.md)
+-   [Saramaed Hollow](Saramaed_Hollow.md)
+-   [Second Layer](Second_Layer.md)
+-   [Diluvian Mechanism](The_Diluvian_Mechanism.md)
+-   [Galewax](Galewax.md) Room in the [Second Layer](Second_Layer.md)
+-   [Crafting](Crafting_Recipes.md) [CraftingEmpty](Crafting_Recipes.md):
+    
+
+  
+
+ |
+| 
+
+**[Curse of Repulsion](Curse_of_Repulsion.md)**
+
+[View main page](Curse_of_Repulsion.md)
+
+File:Curse.gif
+
+_When you block attacks, you knock your attacker backwards. You receive +30% chip damage._
+
+ | 
+
+**Effect:**
+
+Upon blocking an attack, push the attacker backwards. Additionally, you take 30% chip damage from the attack that procced this enchant.
+
+Curse of Repulsion has a 2.5 second cooldown. There is no range limit for this effect.
+
+**Obtainment:**
+
+Curse of Repulsion is exclusively obtained from its [Enchant Stone](Enchant_Stone.md).
+
+Curse of Repulsion [Enchant Stone](Enchant_Stone.md):
 
 -   Exchanging 5 to [Klaris](Klaris_Llfiend,_Mother_of_Lights.md) (grants a random non-exclusive Enchant Stone)
 -   [War Mode](War_Mode.md)

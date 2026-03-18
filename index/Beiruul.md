@@ -1,9 +1,9 @@
 ---
 title: Beiruul
-revid: 194998
+revid: 201347
 source: https://deepwoken.fandom.com/wiki/Beiruul
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Individuals with She/her pronouns, NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
+categories: [Individuals with She/her pronouns, Pathfinder Exclusive, NPCs, Enemies, Children of Navae Enemies, The Children of Navae, NPCs located in the Eastern Luminant, Quests]
 ---
 
 # Beiruul
@@ -16,6 +16,10 @@ categories: [Individuals with She/her pronouns, NPCs, Enemies, Children of Navae
 | moves | Assault, Critical , Strong Left , Rapid Punches , Ice Smash , Ice Blade , Ice Lance |
 | pronouns | She/her |
 | affiliation | The Children of Navae |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 “ Change will come. No matter the cost. ”
 

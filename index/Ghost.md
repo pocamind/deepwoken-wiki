@@ -1,9 +1,9 @@
 ---
 title: Ghost
-revid: 191448
+revid: 201352
 source: https://deepwoken.fandom.com/wiki/Ghost
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Pathfinder Exclusive, Enemies]
 ---
 
 # Ghost
@@ -16,6 +16,10 @@ categories: [Enemies]
 | moves | Assault, Critical |
 
 _This page is about the mob named Ghost. If you're looking for a Talent of the same name, check the [Talents](https://deepwoken.fandom.com/wiki/Talents#Butterfly) page._
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 

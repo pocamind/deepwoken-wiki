@@ -1,9 +1,9 @@
 ---
 title: Diluvian Mechanism (NPC)
-revid: 191401
+revid: 201341
 source: https://deepwoken.fandom.com/wiki/Diluvian_Mechanism_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Stub pages without reason, StubPages, Floor 1, NPCs]
+categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, NPCs, NPCs located in the First Layer]
 notices:
   - "This page is a stub. It requires further information, or has little to no information. Please wait for an updated version to release, or help improve the page."
 ---
@@ -13,7 +13,15 @@ notices:
 | Diluvian Mechanism | |
 |---|---|
 | name | Diluvian Mechanism |
-| location | Marauder's Entrance Diluvian Mechanism |
+| location | Marauder's Entrance, The Diluvian Mechanism |
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
+
+“ The mechanism beckons those who would dare to risk their very soul in the pursuit of strength. ”
+
+― Diluvian Mechanism
 
 ## Description
 
@@ -21,9 +29,7 @@ The Diluvian Mechanism is located in two places, one in the [Marauder's Entrance
 
 ### Within Marauder's Entrance
 
-Conversing to the one in the Marauder's Entrance will bring up the dialogue;
-
-**\*The mechanism beckons those who would dare to risk their very soul in the pursuit of strength\***
+Conversing to the one in the Marauder's Entrance will bring up the dialogue; **\*The mechanism beckons those who would dare to risk their very soul in the pursuit of strength\***
 
 1.  Enter with others.
     -   This makes a small circle with a radius around the mechanism. Anybody within the circle will be taken inside the Diluvian Mechanism.

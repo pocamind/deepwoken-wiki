@@ -1,6 +1,6 @@
 ---
 title: Necrotic Membrane
-revid: 200215
+revid: 201374
 source: https://deepwoken.fandom.com/wiki/Necrotic_Membrane
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, In progress without reason, InProgressPages, Items, Ingredients]
@@ -14,10 +14,11 @@ notices:
 |---|---|
 | value | N/A |
 | weight | N/A |
+| stack | x? |
 | type | Ingredient |
 | rarity | Common |
-| bankable | Yes |
-| droppable | Yes |
+| bankable | No |
+| droppable | No |
 | pass down | No |
 | desc | It smells of rotten flesh. |
 | obtainment | Crafting:, Lost Forge + 1x Parasol Membrane + 1x Trickster Dust + 1x Weathered Timepiece, Lost Forge + 1x Parasol Membrane + 1x Trickster Dust + 1x Temporal Crux |
@@ -36,4 +37,6 @@ The Necrotic Membrane can be crafted into an item with the [Lost Forge](Lost_For
 
 1.  [Necrotic Demon Horns](Necrotic_Demon_Horns.md): [Aazel's Horns](<Aazel's_Horns.md>) + Necrotic Membrane
 2.  [The No-Life King's Crown](<The_No-Life_King's_Crown.md>): [Bloodforged Crown](Bloodforged_Crown.md) + [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md) + Necrotic Membrane
-3.  [Transfusion Ring](Transfusion_Ring.md): Necrotic Membrane + [Ring of Pestilence](Ring_of_Pestilence.md) + [Trickster Dust](Trickster_Dust.md)
+3.  [Transfusion Ring](Transfusion_Ring.md): [Ring of Pestilence](Ring_of_Pestilence.md) + [Trickster Dust](Trickster_Dust.md) + Necrotic Membrane
+4.  [Necrotic Mask](Necrotic_Mask.md): [Bloodfeather Mask](Bloodfeather_Mask.md) + [Parasol Part](Parasol_Part.md) + Necrotic Membrane
+5.  [Necrotic Cowl](Necrotic_Cowl.md): [Bloodfeather Cowl](Bloodfeather_Cowl.md) + [Parasol Part](Parasol_Part.md) + Necrotic Membrane
