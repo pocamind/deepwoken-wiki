@@ -1,6 +1,6 @@
 ---
 title: "Expert Practitioner's Earrings"
-revid: 200800
+revid: 201266
 source: https://deepwoken.fandom.com/wiki/Expert_Practitioner's_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -34,4 +34,4 @@ This content is not accessible outside of this gamemode.
 
 **Expert Practitioner's Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Ether Tension](Talents.md#ether-tension) Talent adds 20 **true** damage to your Mantra guardbreaks.
+The [Ether Tension](Talents.md#ether-tension) Talent adds 10 **true** damage to your Mantra guardbreaks.

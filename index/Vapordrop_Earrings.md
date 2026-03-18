@@ -1,6 +1,6 @@
 ---
 title: Vapordrop Earrings
-revid: 190016
+revid: 201281
 source: https://deepwoken.fandom.com/wiki/Vapordrop_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -24,12 +24,14 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | obtainment | Nautilodaunt Officiate, Chests |
 | description | ... |
 
+Variants: [Vaporfrost Earrings](Vaporfrost_Earrings.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 
 **Vapor Drop Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Drop Dead](Talents.md#drop-dead) Talent grants 50% damage reduction while [crouching](Combat_Mechanics.md).
+The [Drop Dead](Talents.md#drop-dead) Talent grants damage reduction while [crouching](Combat_Mechanics.md).

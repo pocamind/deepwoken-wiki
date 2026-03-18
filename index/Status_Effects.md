@@ -1,6 +1,6 @@
 ---
 title: Status Effects
-revid: 200949
+revid: 201267
 source: https://deepwoken.fandom.com/wiki/Status_Effects
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -87,7 +87,7 @@ Have your dodge frames lowered and be unable to sprint for a brief period. This 
 
 #### True Daze
 
-Be completely unable to dodge or move for a short duration. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
+Makes you completely unable to dodge or move for a short duration. This effect can be cleared early by [Venting](Combat_Mechanics.md#tempo). Applied primarily through wallbangs. This effect is visually indistinguishable from normal daze, being the same yellow stars.
 
 ### Bleed
 

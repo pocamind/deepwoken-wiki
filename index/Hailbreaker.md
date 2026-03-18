@@ -1,6 +1,6 @@
 ---
 title: Hailbreaker
-revid: 201143
+revid: 201285
 source: https://deepwoken.fandom.com/wiki/Hailbreaker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Legendary Weapons, Weapons with Unique Criticals, Greatswords, "Attunement-based Weapons", "Weapons with Multi-Hit Criticals", Heavy Weapons, Weapons with multiple Criticals]
@@ -45,8 +45,8 @@ The **Hailbreaker** is a [Greatsword](Weapons.md#greatswords) that scales with F
 
 This weapon comes with the following passives:
 
--   **Ingenious Invention** - The Hailbreaker changes forms and criticals depending on the stage. There are three stages total, which also affects how the critical is executed.
--   **Coldhearted Core** - Every hit landed with this weapon applies [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) stacks if the user has the corresponding path.
+-   **Ingenious Invention** - The Hailbreaker changes forms upon use of its critical. There are three stages in total, which each affect how the critical is performed.
+-   **Cold-hearted Core** - Every hit landed with this weapon applies [Chill](Status_Effects.md#chill) or [Crystal](Status_Effects.md#crystal) stacks if the user has the corresponding path.
 
 ## Critical
 
@@ -66,4 +66,4 @@ Pressing M2 during the windup of the critical will perform a feint that resets s
 
 ## Trivia
 
--   Strangely with [Glass Path: Crystallization](Frostdraw.md), the particles used with its critical change to crystals color but the actual model of the weapon does not.
+-   Strangely, when the user has [Glass Path: Crystallization](Talents.md#glass-path-crystallization), the particles of its critical change to match the alternate path's color, but the actual model of the weapon does not.

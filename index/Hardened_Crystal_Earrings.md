@@ -1,6 +1,6 @@
 ---
 title: Hardened Crystal Earrings
-revid: 192275
+revid: 201269
 source: https://deepwoken.fandom.com/wiki/Hardened_Crystal_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Ears]
@@ -24,12 +24,14 @@ categories: [Vow of Iron Exclusive, Equipment, Ears]
 | obtainment | Power 15 Jobs |
 | description | Though the setting and clasp have been dulled by wear and tear, the crystal remains completely untarnished. |
 
+Variants: [Frost Crystal Earrings](Frost_Crystal_Earrings.md)
+
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
-This page describes content that is exclusive to the **Vow of Iron** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  
+For its gameplay counterpart in **[Pathfinder](Pathfinder.md)**, use the above navigation.
 
 ## Description
 
 **Crystal Pendant Earrings** are Rare [Equipment](Equipment.md) items under the "Ears" category.
 
-The [Instant Nucleation](Talents.md#instant-nucleation) Talent grants 15% damage reduction for a few seconds after being guardbroken.
+The [Instant Nucleation](Talents.md#instant-nucleation) Talent grants damage reduction for a few seconds after being guardbroken.

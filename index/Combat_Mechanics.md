@@ -1,6 +1,6 @@
 ---
 title: Combat Mechanics
-revid: 200861
+revid: 201301
 source: https://deepwoken.fandom.com/wiki/Combat_Mechanics
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Mechanics]
@@ -454,6 +454,8 @@ Red
 
   
 Attacks with this indicator must be dodged. They will guardbreak if blocked.
+
+In some cases, Monster attacks with this indicator are parryable with [Force Your Way](Ignition_Deepdelver.md).
 
  |
 | All attacks that have this attribute:
