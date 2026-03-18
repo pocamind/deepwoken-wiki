@@ -1,6 +1,6 @@
 ---
 title: "Champion's Alloy"
-revid: 200280
+revid: 201312
 source: https://deepwoken.fandom.com/wiki/Champion's_Alloy
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Items, Craftable, Ingredients]
@@ -17,20 +17,11 @@ categories: [Items, Craftable, Ingredients]
 | droppable | Yes |
 | pass down | No |
 | desc | Merged and melded inseparably, the cold forge has turned your trophies into an alloy fit for a champion. |
+| obtainment | Crafted w/ 1x Enmity's Armor Piece, 1x Titus' Armor Piece, 1x The Doom of Caeranthil at the Lost Forge of Leiuna |
 
 ## Description
 
 **Champion's Alloy** is a craftable item that is used to craft the [Champion's Cape](<Champion's_Cape.md>). In appearance, it is a wide golden slab, not too dissimilar to the old [Gold](Ores.md#gold) model.
-
-## Crafting
-
-### Recipe
-
--   1 [Enmity's Armor Piece](<Enmity's_Armor_Piece.md>), 1 [Titus' Armor Piece](<Titus'_Armor_Piece.md>), 1 [Doom of Caeranthil's Scale](<Doom_of_Caeranthil's_Scale.md>) at [The Lost Forge of Leiuna](Lost_Forge_of_Leiuna.md).
-
-### Used in
-
--   **[Champion's Cape](<Champion's_Cape.md>)** - 1 Champion's Alloy, 1 [Titus's Cape](<Titus's_Cape.md>) at [Merit Detainment Core](Merit_Detainment_Core.md).
 
 ## Trivia
 

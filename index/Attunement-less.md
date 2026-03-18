@@ -1,6 +1,6 @@
 ---
 title: "Attunement-less"
-revid: 199614
+revid: 201310
 source: https://deepwoken.fandom.com/wiki/Attunement-less
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attunement]
@@ -361,7 +361,7 @@ _Grab and throw your enemies._
  |
 | 
 
-40 Ether
+100 Ether
 
  | 
 

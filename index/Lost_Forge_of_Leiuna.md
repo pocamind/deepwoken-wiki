@@ -1,6 +1,6 @@
 ---
 title: Lost Forge of Leiuna
-revid: 200505
+revid: 201315
 source: https://deepwoken.fandom.com/wiki/Lost_Forge_of_Leiuna
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Stub pages without reason, StubPages, In progress without reason, InProgressPages, Locations]
@@ -66,7 +66,7 @@ Use **CTRL + F** to search for a specific item.
 | [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md) | 1x [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md)  
 1x [Gale Essence](Gale_Essence.md)  
 5x [Gale Stone](Gale_Stone.md) |
-| Gale Monastery Cowl | 1x [Monastery Cowl](Monastery_Cowl.md)  
+| [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md) | 1x [Monastery Cowl](Monastery_Cowl.md)  
 1x [Gale Essence](Gale_Essence.md)  
 1x [Bluster](Bluster.md) [Enchant Stone](Enchant_Stone.md) |
 | [Gale Enhanced Beads](Gale_Enhanced_Beads.md) | 1x [Monastery Beads](Monastery_Beads.md)  

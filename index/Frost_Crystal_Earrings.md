@@ -1,6 +1,6 @@
 ---
 title: Frost Crystal Earrings
-revid: 201271
+revid: 201314
 source: https://deepwoken.fandom.com/wiki/Frost_Crystal_Earrings
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]
@@ -21,6 +21,7 @@ categories: [Pathfinder Exclusive, Equipment, Ears, Craftable]
 | droppable | No |
 | enchantable | No |
 | pass down | No |
+| obtainment | Crafted w/ 1x Crystal Pendant Earrings, 1x Chilling Enchant Stones, 1x Frost Essence at Lost Forge of Leiuna |
 | description | Though the setting and clasp have been dulled by wear and tear, the frost crystal remains completely untarnished. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
