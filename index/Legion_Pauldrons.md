@@ -1,6 +1,6 @@
 ---
 title: Legion Pauldrons
-revid: 196583
+revid: 201450
 source: https://deepwoken.fandom.com/wiki/Legion_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Pauldrons]
@@ -17,7 +17,7 @@ categories: [Equipment, Arms, Pauldrons]
 | weight | 2 |
 | innate stats | +3 Health, +2 Rare Pips |
 | innate talent | Polite Awakening |
-| set | Khan Helmet, Khan Pauldrons, Khan Boots |
+| set | Legion Helmet, Legion Pauldrons, Legion Boots |
 | set talent | N/A |
 | bankable | Yes |
 | droppable | Yes |

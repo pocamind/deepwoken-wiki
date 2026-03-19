@@ -1,6 +1,6 @@
 ---
 title: Grand Fisher Plate
-revid: 196533
+revid: 201455
 source: https://deepwoken.fandom.com/wiki/Grand_Fisher_Plate
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Arms, Plates, The Divers]
@@ -13,7 +13,7 @@ categories: [Equipment, Arms, Plates, The Divers]
 | type | Arms |
 | rarity | Mythical |
 | selling price | 100 |
-| requirements | LVL 13, 5 FTD |
+| requirements | LVL 13 |
 | weight | 2 |
 | innate stats | +10 Health, +1 Posture, +3 Legendary Pips |
 | innate talent | Diver's Resilience |

@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 201328
+revid: 201426
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -48,13 +48,13 @@ The maximum amount of Talents that you can have, Talent Hands giving you **47**,
 
 Most Talents are locked with a prerequisite. Depending on the prerequisite, you can unlock them for your next hand if you completed the following requirements. The most common prerequisites a Talent would need are:
 
--   A high enough [Core Attribute](Attributes.md), whether it be Strength, Fortitude, Agility, Intelligence, Willpower, or Charisma.
+-   High enough [Attribute](Attributes.md) investment, whether it be a Core Attribute, an Attunement Attribute, or a Weapon Atteibute.
     -   E.g.: Overflowing Dam requires 40 INT as a prerequisite.
 -   A certain Talent in a certain category.
     -   E.g.: Picking a Mental Fortress Talent will make you more likely to pull another Mental Fortress Talent in your next set of Talents.
 -   Doing certain actions that may influence your rolls, such as [Alchemy](Alchemy.md).
-    -   E.g.: Drinking at least one potion is a prerequisite for potion Talents.
--   Having a certain weapon equipped.
+    -   E.g.: Interacting with a [Cauldron](Cauldron.md) is a prerequisite for potion Talents.
+-   Having a certain weapon or weapon type equipped.
     -   E.g.: Having a Greataxe equipped is required to roll Greataxe Talents.
 -   A high enough Power.
     -   E.g.: Thresher Claws requires [Power](Power.md) 13 as a prerequisite.

@@ -1,6 +1,6 @@
 ---
 title: Monster Mantras
-revid: 201292
+revid: 201458
 source: https://deepwoken.fandom.com/wiki/Monster_Mantras
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mantras]
@@ -439,7 +439,7 @@ Typeless
 
  | 
 
-[Kyrsan Necklace](Kyrsan_Necklace.md)
+[Charged Bonecharm](Charged_Bonecharm.md)
 
  |
 | 

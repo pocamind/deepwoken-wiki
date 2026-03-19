@@ -1,6 +1,6 @@
 ---
 title: Boundary
-revid: 200080
+revid: 201425
 source: https://deepwoken.fandom.com/wiki/Boundary
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]
@@ -169,6 +169,8 @@ Boundaries are the way for the player to teleport in and out of [the Cerebral Sp
 
  | Merit Keep  
 ([Fort Merit](Fort_Merit.md)) | 
+
+ | 
 
  |
 | 

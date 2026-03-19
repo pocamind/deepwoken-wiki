@@ -1,6 +1,6 @@
 ---
 title: Blackalloy Helm
-revid: 192273
+revid: 201439
 source: https://deepwoken.fandom.com/wiki/Blackalloy_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets, Equipment with Set Bonuses]

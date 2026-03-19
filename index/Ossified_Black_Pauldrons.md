@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 201214
+revid: 201436
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Se
 | type | Arms |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | None |
+| requirements | PWR 8 |
 | weight | 2 |
 | innate stats | +3 Health, +1 Posture, +1 Rare Pip |
 | innate talent | Laminated Armor |
@@ -26,11 +26,9 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Se
 | obtainment | Crafting 1 Blacksteel Pauldrons + 1 Shiva's Codex + 1 Ethereal Osseous Plate in the Lost Forge |
 | description | ... |
 
-Variants: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Ossified Black Set
 

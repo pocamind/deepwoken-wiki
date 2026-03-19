@@ -1,6 +1,6 @@
 ---
 title: Shock Trooper Helmet
-revid: 176561
+revid: 201452
 source: https://deepwoken.fandom.com/wiki/Shock_Trooper_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | N/A |
-| requirements | PWR 10, 20 FTD |
+| requirements | PWR 10 |
 | weight | 1 |
 | innate stats | +8 Health, +1 Rare Pip |
 | set | Shock Trooper Helmet, Shock Trooper Plate, Shock Trooper Boots |

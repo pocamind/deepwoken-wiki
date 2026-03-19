@@ -1,6 +1,6 @@
 ---
 title: Seraphina
-revid: 200877
+revid: 201413
 source: https://deepwoken.fandom.com/wiki/Seraphina
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Capra NPCs, Pathfinder Exclusive, Vendors, NPCs, NPCs located in the Etrean Luminant, Individuals with unspecified pronouns]
@@ -61,8 +61,6 @@ Seraphina's Serendipitous Wares
 
 ## Dialogue
 
-**Base Dialogue:**
-
 <table>
 <tbody>
 <tr>
@@ -78,23 +76,6 @@ Seraphina's Serendipitous Wares
 </tbody>
 </table>
 
-**Cinders of Etris:**
-
-<table>
-<tbody>
-<tr>
-  <td>Begin Dialogue</td>
-</tr>
-<tr>
-  <td>Something doesn't feel right today. The air is still. I have a bad feeling about this.</td>
-</tr>
-<tr>
-  <td>[End Dialogue]</td>
-</tr>
-</tbody>
-</table>
-
 ## Trivia
 
 -   Seraphina wears the [Skeptic Pioneer](Skeptic_Pioneer.md) outfit.
--   Seraphina will also explain about the Authority 'ceasing their operations' for [something more bloody](Cinders_of_Etris.md) they have planned. Before the raid, they will have unique dialogue. "the Authority's offensives have completely stopped today, do you think they are planning something?"

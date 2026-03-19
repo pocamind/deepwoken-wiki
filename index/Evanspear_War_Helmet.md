@@ -1,6 +1,6 @@
 ---
 title: Evanspear War Helmet
-revid: 176418
+revid: 201442
 source: https://deepwoken.fandom.com/wiki/Evanspear_War_Helmet
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,7 +13,7 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Common |
 | selling price | N/A |
-| requirements | PWR 10, 25 STR |
+| requirements | PWR 10 |
 | weight | 1 |
 | innate stats | +4 Health, +1 Posture, +1 Legendary Pip |
 | innate talent | N/A |

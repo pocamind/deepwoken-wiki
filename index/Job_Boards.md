@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 199799
+revid: 201451
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, Mechanics]
@@ -59,7 +59,7 @@ _Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_
     -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
 
 -   **Songseeker Fanatics** : _Members of the Songseeker Cult have been ambushing trading vessels. A reward is offered to those that can teach them a lesson._
-    -   Tasks the player with defeating a Songseeker Mon. The Monk can use [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md), or [Galebreathe](Songseeker_Galebreather.md).
+    -   Tasks the player with defeating a Songseeker Monk. The Monk can use [Flamecharm](Songseeker_Flamecharmer.md), [Frostdraw](Songseeker_Frostdrawer.md), [Thundercall](Songseeker_Thundercaller.md), or [Galebreathe](Songseeker_Galebreather.md).
 
 ### Summer Isle
 

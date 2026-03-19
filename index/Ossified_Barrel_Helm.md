@@ -1,11 +1,9 @@
 ---
 title: Ossified Barrel Helm
-revid: 201042
+revid: 201432
 source: https://deepwoken.fandom.com/wiki/Ossified_Barrel_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [In progress with reason, InProgressPages, Pathfinder Exclusive, Head, Equipment, Helmets, Craftable]
-notices:
-  - "This page is currently being worked on. This item has not been crafted yet, and as such, all of its qualities are unknown"
+categories: [Pathfinder Exclusive, Head, Equipment, Helmets, Craftable]
 ---
 
 # Ossified Barrel Helm
@@ -13,19 +11,24 @@ notices:
 | Ossified Barrel Helm | |
 |---|---|
 | type | Head |
+| rarity | Uncommon |
+| selling price | 14 |
 | weight | 1 |
+| innate stats | +5 Health, +1 Uncommon Pip |
+| innate talent | Tenacity |
 | bankable | No |
 | droppable | No |
-| enchantable | Yes |
+| enchantable | No |
 | pass down | No |
-| obtainment | Crafting at the Lost Forge |
-
-Variants: [Barrel Helm](Barrel_Helm.md)
+| obtainment | Crafting Barrel Helm + 1x Shiva's Codex + 1x Ethereal Osseous Plate Lost Forge |
+| description | A sturdy helmet shaped like a barrel. |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 ## Description
 
 The Ossified Barrel Helm is an [Equipment](Equipment.md) item under the "Head" category.
+
+The [Tenacity](Talents.md#tenacity) Talent heavily reduces guardbreak stun duration.

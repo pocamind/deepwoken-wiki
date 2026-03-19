@@ -1,6 +1,6 @@
 ---
 title: "Oath: Linkstrider"
-revid: 199638
+revid: 201460
 source: https://deepwoken.fandom.com/wiki/Oath%3A_Linkstrider
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Oaths]
@@ -80,7 +80,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 
 -   **Symbiotic Link** - Activate by pressing X while hovering over an ally or enemy. The Links are destroyed when you receive damage from a non-ally, you stray too far or you activate it again. Only one cord of each type may exist at once, links give a 3 second warning in break range, in the warning phase, they can't be broken.
     -   Blue Cords (Allies) gain a speed boost, 20% dmg resistance, and a 5% damage increase.
-    -   Red Cords (Enemies) gain a minor speed debuff.
+    -   Red Cords (Enemies) gain a minor speed debuff, swing speed debuff, and a 10% damage decrease.
     -   Allows you to passively see the health bar of allies, even when not active.
 -   Obtained upon killing 2 players with [Oaths](Oaths.md).
 
@@ -89,8 +89,8 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
 #### Support Mantras
 
 -   **Symbiotic Sustain** - Activate when linked to an ally to sacrifice your own health to them.
-    -   If linked to an ally (signified by blue cord), sacrifice 7% (5% if equipped with [Deepscorn Casque](Deepscorn_Casque.md)) of your HP to be turned into wither to restore 15% of the target's HP.
-    -   It has a 17.5 second cooldown.
+    -   If linked to an ally (signified by blue cord), sacrifice 6% (4.8% if equipped with [Deepscorn Casque](Deepscorn_Casque.md)) of your HP to be turned into wither to restore 15% of the target's HP overtime. This ability can be interrupted.
+    -   It has a 22.5 second cooldown.
     -   Does **not** work with any deep gem besides Blue.
     -   Obtained upon killing 3 players with [Oaths](Oaths.md).
 
@@ -99,7 +99,7 @@ This Oath grants two Support Mantra slots and one Wildcard Mantra slot. Appearan
         -   Leeches 7% of an enemy's HP and gives you the flat amount of HP stolen back.
         -   For example, [Duke](Duke_Ishamon_Erisia.md) grants more HP than a [Mindless Servant](Mindless_Servant.md), since he has a significantly higher Health Pool.
     -   Parryable. A successful parry on the first tick will cause Parasitic Leech to fail, not initiating its cooldown.
-    -   Blockable. While blocking may stop the damage, it will not stop the caster's healing. Counts as damage towards weak block, making the target unable to block.
+    -   Blockable. While blocking may stop the damage, it will not stop the caster's healing.
     -   Especially effective against targets who cannot parry, such as Ferryman, healing as much as a bar and a half at once.
     -   Can be used with Bloodless to heal more health.
     -   Can be used with a Wind Gem to make it easier to avoid being hit while leeching.

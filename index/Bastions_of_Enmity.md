@@ -1,6 +1,6 @@
 ---
 title: Bastions of Enmity
-revid: 197617
+revid: 201444
 source: https://deepwoken.fandom.com/wiki/Bastions_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Arms, Equipment]
@@ -13,7 +13,7 @@ categories: [Arms, Equipment]
 | type | Arms |
 | rarity | Unique |
 | selling price | 100 |
-| requirements | PWR 13 , 10 FTD |
+| requirements | PWR 13 |
 | weight | 2 |
 | innate stats | +10 Health, +2 Posture, +3 Legendary Pips |
 | innate talent | N/A |

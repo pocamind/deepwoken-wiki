@@ -1,9 +1,9 @@
 ---
 title: Canorian Axe
-revid: 198379
+revid: 201417
 source: https://deepwoken.fandom.com/wiki/Canorian_Axe
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
+categories: [Weapons, Greataxes, Alloyed Weapons, Heavy Weapons]
 ---
 
 # Canorian Axe

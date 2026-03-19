@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 201215
+revid: 201440
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | FTD 10 |
+| requirements | PWR 8 |
 | weight | 1 |
 | innate stats | +10 Health, +1 Uncommon Pip, +1 Rare Pip |
 | innate talent | Sloped Plate |
@@ -26,11 +26,9 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head]
 | obtainment | Crafting 1 Blacksteel Helm + 1 Shiva's Codex + 1 Ethereal Osseous Plate in the Lost Forge |
 | description | An imposing helmet made from blackened steel. |
 
-Variants: [Blacksteel Helm](Blacksteel_Helm.md)
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
-This page describes content that is exclusive to the **Pathfinder** gamemode.  
-This content is not accessible outside of this gamemode.
+You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
+For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
 Ossified Black Set
 

@@ -1,6 +1,6 @@
 ---
 title: "Shiva's Codex"
-revid: 198731
+revid: 201459
 source: https://deepwoken.fandom.com/wiki/Shiva's_Codex
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Relics, Items, Ingredients]
@@ -36,3 +36,4 @@ The Shiva's Codex can craft into a few items with the [Lost Forge](Lost_Forge_of
 4.  [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md): [Simple Pauldrons](Simple_Pauldrons.md) + 1x Shiva's Codex + 1x [Ethereal Osseous Plate](Ethereal_Osseous_Plate.md)
 5.  [Ether Refined Mantle](Ether_Refined_Mantle.md): Sky Warlock's Mantle + 1x Shiva's Codex + 1x [Ether Refined Hide](Ether_Refined_Hide.md)
 6.  [Ether Refined Brim](Ether_Refined_Brim.md): Sky Warlock's Brim + 1x Shiva's Codex + 1x [Ether Refined Hide](Ether_Refined_Hide.md)
+7.  [Blizzard Ring](Blizzard_Ring.md): 1x [Frost Ring](Frost_Ring.md) + 1x [Gale Enhanced Ring](Gale_Enhanced_Ring.md) + 1x Shiva's Codex.

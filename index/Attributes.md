@@ -1,6 +1,6 @@
 ---
 title: Attributes
-revid: 200760
+revid: 201457
 source: https://deepwoken.fandom.com/wiki/Attributes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Attributes, Character, Mechanics]
@@ -64,10 +64,8 @@ Body **(BDY)** and Mind **(MND)** are categories for the Core Attributes. Talent
     -   Every point in Fortitude increases your chances to resist food poisoning when eating raw materials.
     -   At 50 Fortitude, can eat most raw materials without vomiting.
     -   Adds 0.5 HP to your character for every Fortitude point up until you reach 50 Fortitude. At 50 Fortitude, this bonus will be halved, with each additional point only adding 0.25 HP.
-    -   100 Fortitude will grant you 37.5 HP.
-    -   Does **not** add damage resistance.
-    -   Some types of equipment, such as shields, some helmets or the [Imperator’s Edge](<Imperator's_Edge.md>) have a fortitude requirement to wield.
-        -   _These helmets tend to have better stats than those without a fortitude requirement._
+        -   100 Fortitude will grant you 37.5 HP.
+    -   Some [Equipment](Equipment.md) items and some weapons, most notably [Shields](Shields.md), require Fortitude to be equipped.
 -   Unlocks Fortitude-related [Talents](Talents.md) and [Mantras](Attunement-less.md#fortitude-mantras).
 -   Gain Fortitude EXP via taking damage with the Training Vest, throwing up from consuming raw materials, and using the Boulder (this will train your Strength at the same time, while giving you 2x the fortitude training).
 -   _**[Unbounded](Attributes_Unbound.md#fortitude-unbound) by talking to [Brutus](Brutus.md) in one of the cells at [Fort Merit](Fort_Merit.md).**_
