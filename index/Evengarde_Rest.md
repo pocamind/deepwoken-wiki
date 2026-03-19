@@ -1,6 +1,6 @@
 ---
 title: Evengarde Rest
-revid: 194494
+revid: 201492
 source: https://deepwoken.fandom.com/wiki/Evengarde_Rest
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Etrean NPCs, Individuals with He/him pronouns, Pathfinder Exclusive, NPCs, Quests, Etrea, Bosses, NPCs located in the Etrean Luminant, Maestros of the Vigils]
@@ -25,11 +25,11 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 
 Evengarde Rest is the current Maestro of the Vigils, having succeeded [Maestro Alkhurst Legato](Maestro_Alkhurst_Legato.md) and is highly respected by all of them. He resides within the [Isle of Vigils](Isle_of_Vigils.md) and is found in their dojo, watching people train. An intimidating air lingers around him, and it prevents people from introducing themselves to him until they get permission. [The Pathfinder](The_Pathfinder.md) can speak to rest if they save a Vigil swordsman named [Isaac](Vigil_Isaac.md). A master of combat arts, Rest is able to teach them how to overcome the limits of their weapon proficiencies.
 
-As a youth during the [Etrean Civil War](Etrean_Civil_War.md), Evengarde was known for being a prodigy and departed for the Western Luminant to train with [The Hundred Legions](The_Hundred_Legions.md).[\[1\]](#cite-note-1)
+As a youth during the [Etrean Civil War](Etrean_Civil_War.md), Evengarde was a known prodigy and departed for the Western Luminant to train with [The Hundred Legions](The_Hundred_Legions.md). [Dravik](<Dravik,_the_Rat_King_(NPC).md>) believed that Evengarde was fully capable of defeating [Etrea](Etrea.md)'s [Lord Regent](The_Lord_Regent.md) at the time.[\[1\]](#cite-note-1)
 
 Rest is respectful towards those who save his Vigils and even feels in their debt, but also values strength, stating that he'll only teach those who "display some level of competence." If you lack 75 points in your weapon type's attribute, he will not uncap it
 
-After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals his devotion to the kingdom and his aspirations of felling [the evil that controls it](The_Ministry.md). However, he expresses dissatisfaction at his inability to deter [The Central Authority](The_Central_Authority.md) should [The Lord Regent](The_Lord_Regent.md) be eliminated, which would almost certainly result in them staging a final assault with everything they have. Seeing the assimilation of cultures into the Authority's soulless war machine as a fate worse than even the one the Ministry has in store for them, he can only watch as his people are puppeteered by forces beyond their knowledge and control to their deaths.
+After you commit various deeds for the good of [Etrea](Etrea.md), Rest reveals his devotion to the kingdom and his aspirations of felling [the evil that controls it](The_Ministry.md). However, he expresses dissatisfaction at his inability to deter [The Central Authority](The_Central_Authority.md) should Zi'eer be eliminated, which would almost certainly result in them staging a final assault with everything they have. Seeing the assimilation of cultures into the Authority's soulless war machine as a fate worse than even the one [the Ministry](The_Ministry.md) has in store for them, he can only watch as his people are puppeteered by forces beyond their knowledge and control to their deaths.
 
 ## Dialogue
 
@@ -191,4 +191,5 @@ This dialogue is unlocked once the player has defeated [Duke Ishamon Erisia](Duk
 
 ## References
 
-1.  [↑](#cite-ref-1) [Dravik, the Rat King](<Dravik,_the_Rat_King_(NPC).md>)
+1.  [↑](#cite-ref-1) NPC dialogue: [Dravik, the Rat King](<Dravik,_the_Rat_King_(NPC).md>)  
+    _All of this for Zi'eer, eh? Well, if I'm being honest, he might be a bit out of your league, kid. The only person I know who might be capable of taking on him was a young prodigy from the Blade Temple. He's off training in the West with the Hundred Legions now... I don't really blame him - the Blade Temple is a shadow of it's former self._

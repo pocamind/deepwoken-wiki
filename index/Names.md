@@ -1,6 +1,6 @@
 ---
 title: Names
-revid: 200396
+revid: 201502
 source: https://deepwoken.fandom.com/wiki/Names
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Character, Creation, Mechanics]
@@ -959,7 +959,7 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   July
 -   June
 -   Jupiter
--   kai
+-   Kai
 -   Kamina
 -   Kamren
 -   Kareem
@@ -1447,8 +1447,6 @@ Flairs are cosmetic name colours obtained by surpassing the most difficult chall
 -   Zephon
 -   Zero
 -   Zora
-
-  
 
 ## Last Names
 

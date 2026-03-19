@@ -1,6 +1,6 @@
 ---
 title: Etrean Royalists
-revid: 198416
+revid: 201497
 source: https://deepwoken.fandom.com/wiki/Etrean_Royalists
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive]
@@ -68,5 +68,6 @@ The Royalists have a Reputation reset NPC, [Yen](Yen.md), near the front of the 
 
 ## References
 
-1.  [↑](#cite-ref-junsui-1-0) [High Monk Junsui](High_Monk_Junsui.md)
+1.  [↑](#cite-ref-junsui-1-0) NPC dialogue: [High Monk Junsui](High_Monk_Junsui.md)  
+    
 2.  [↑](#cite-ref-2) According to numerous statements from Arch\_Mage, the dates observed on the in-game calendar are considered non-canon. Furthermore, references to the current year are typically either explicit meta-jokes, as seen with [The Guy](The_Guy.md), or are [hand-waves](https://en.wikipedia.org/wiki/Hand-waving#In_literary_criticism), as seen with [Hallowtide](Hallowtide.md). However, events taking place within the [Vow of Iron](Vow_of_Iron.md) gamemode are explicitly during the year 1233 CE. As the Civil War began 14 years before the events of the gamemode, it can be assumed to have taken place in 1219 CE.
