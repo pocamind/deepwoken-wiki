@@ -1,6 +1,6 @@
 ---
 title: Mystery Boxes
-revid: 201158
+revid: 201470
 source: https://deepwoken.fandom.com/wiki/Mystery_Boxes
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Mechanics]

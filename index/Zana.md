@@ -1,6 +1,6 @@
 ---
 title: Zana
-revid: 200428
+revid: 201471
 source: https://deepwoken.fandom.com/wiki/Zana
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Individuals with They/them pronouns, Pathfinder Exclusive, NPCs, NPCs located in the Etrean Luminant, Enemies, Quests]
@@ -176,15 +176,21 @@ Zana will challenge you in 3 different locations; 2 in the Etrean Luminant and 1
 
 #### Location 1
 
+_**"First, on the island of Etris, the most optimal island for all adventurers who fear me!"**_
+
 Behind the Navaen Nomad Encampment in [Etrean Wilds](Etrean_Wilds.md) on [Etris](Etris.md). Zana spawns behind the fence, jumping over it will spawn him.
 
 #### Location 2
+
+_**"My second favourite hotspot... The shores of Erisia."**_
 
 Right side of the [Lower Erisia](Lower_Erisia.md) beach, near the tree by the ruined pillars
 
 #### Location 3
 
-The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), they spawn after the narrow channel with the falling leaves.
+_**"**_
+
+The entrance of [The Monkey's Paw](<The_Monkey's_Paw.md>), they spawn after the narrow channel_**"**_ with the falling leaves.
 
 Zana acts as an encounter in the places you're suppose to challenge them; so it'll take time for them to spawn in. You must deal 100% of the damage dealt to Zana in order for the quest to progress. Once Zana is defeated, they'll drop a chest after roughly 20 seconds with Songseeker related loot.
 
