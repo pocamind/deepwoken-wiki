@@ -1,6 +1,6 @@
 ---
 title: Night Star
-revid: 194208
+revid: 201635
 source: https://deepwoken.fandom.com/wiki/Night_Star
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Weapons with Talents, Clubs, Medium Weapons]
@@ -43,7 +43,7 @@ This content is not accessible outside of this gamemode.
 
 ## Description
 
-The **Night Star** is a blunt club type medium weapon.
+The **Night Star** is a blunt [Club](Clubs.md) type medium weapon.
 
 ## Talent: Night Night
 

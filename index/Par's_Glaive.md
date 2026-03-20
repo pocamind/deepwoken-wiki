@@ -1,6 +1,6 @@
 ---
 title: "Par's Glaive"
-revid: 195342
+revid: 201639
 source: https://deepwoken.fandom.com/wiki/Par's_Glaive
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Weapons, Greataxes, "Core-Attribute based weapons", Developer Spec]
