@@ -1,6 +1,6 @@
 ---
 title: The Hundred Legions
-revid: 198095
+revid: 201566
 source: https://deepwoken.fandom.com/wiki/The_Hundred_Legions
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Factions, The Hundred Legions]
@@ -31,7 +31,7 @@ The Legion has several war heroes that are depicted by either their ornaments or
 -   Enemies with [The Hive](The_Hive.md)
 -   Enemies with [The Authority](The_Central_Authority.md)
 -   Enemies with [The Kingdom of Etrea](Etrea.md)
--   Enemies with The Starkindred Church
+-   Enemies with [The Starkindred Church](The_Starkindred_Church.md)
 
 ## Reputation
 
@@ -39,7 +39,7 @@ By default, every single [Origin](Origins.md) starts with an enemy [reputation](
 
 There is no reputation reset NPC for The Hundred Legions and have a singular [Bounty Board](Bounty_Hunting.md) by their camp in [Lower Erisia](Lower_Erisia.md).
 
-Doing the [Lars quest](Quests.md#lars) nets you enough reputation to become neutral with The Hundred Legions if you're not a Khan and haven't done anything else.
+Doing the [Lars quest](Quests.md#lars) nets you enough reputation to become neutral with The Hundred Legions if you're not a [Khan](Khan.md) and haven't done anything else.
 
 And the best way to increase the reputation with The Hundred Legions is through doing jobs on the [Job Boards](Job_Boards.md). Specifically, the Job Boards in [Starswept Valley](The_Starswept_Valley.md) or [Lower Erisia](Lower_Erisia.md).
 

@@ -1,9 +1,11 @@
 ---
 title: Equipment
-revid: 199483
+revid: 201586
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Equipment]
+categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
+notices:
+  - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron-exclusive equipments and the newly-added craftable equipments in the Lost Forge of Leiuna. Please help us improve the page through editing, or wait for an updated version of the page to release."
 ---
 
 # Equipment

@@ -1,6 +1,6 @@
 ---
 title: Scion of Ethiron
-revid: 200122
+revid: 201561
 source: https://deepwoken.fandom.com/wiki/Scion_of_Ethiron
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Pages with broken file links, Monsters, Bosses, Layer 2, Floor 2, The Depths]
@@ -109,7 +109,7 @@ File:Big fist.gif
  |
 | 
 
-**Bonestaves of Eld**  
+**Bonestaves of Eid**  
 (★★☆)
 
  | The Scion launches three bones per player in a set order.

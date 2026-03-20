@@ -1,6 +1,6 @@
 ---
 title: Goldleaf Helm
-revid: 191869
+revid: 201560
 source: https://deepwoken.fandom.com/wiki/Goldleaf_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -13,7 +13,6 @@ categories: [Equipment, Head, Helmets]
 | type | Head |
 | rarity | Rare |
 | selling price | 25 |
-| requirements | 10 Fortitude |
 | weight | 1 |
 | innate stats | +5 Health, +1 Rare Pip |
 | innate talent | N/A |
@@ -23,8 +22,6 @@ categories: [Equipment, Head, Helmets]
 | pass down | Yes |
 | obtainment | Chests from:, Duke Ishamon Erisia, Aratel Island, First Layer, Starswept Valley, Second Layer, Maestro Evengarde Rest, Dread Serpent, Heart of Enmity, Chaser, Scholar of the Crimson ContractDrops from:, Golden WarriorFound From:, Artifact Turn-ins |
 | description | ... |
-
-_If you wish to see useful information on all Equipment, Go to [**Equipment**](Equipment.md)_
 
 ## Description
 

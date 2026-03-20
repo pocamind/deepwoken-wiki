@@ -1,6 +1,6 @@
 ---
 title: Hallowed Monastery Beads
-revid: 201186
+revid: 201582
 source: https://deepwoken.fandom.com/wiki/Hallowed_Monastery_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Vow of Iron Exclusive, Equipment, Torso]
@@ -26,7 +26,7 @@ categories: [Vow of Iron Exclusive, Equipment, Torso]
 | obtainment | Opening sacks in Vow of Iron, Mystery Boxes |
 | description | ... |
 
-Variants: [Monastery Beads](Monastery_Beads.md)
+Variants: [Gale Enhanced Beads](Gale_Enhanced_Beads.md)
 
 **[Vow of Iron](Vow_of_Iron.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Vow of Iron](Vow_of_Iron.md)** gamemode.  

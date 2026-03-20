@@ -1,6 +1,6 @@
 ---
 title: Deepscorn Casque
-revid: 201555
+revid: 201567
 source: https://deepwoken.fandom.com/wiki/Deepscorn_Casque
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Head, Helmets]
@@ -38,4 +38,4 @@ This Talent also reduces the self damage/Wither application from the Poison (HP 
 
 -   Its previous description, "Because ten billion years' time is so fragile, so ephemeral... It arouses such a bittersweet, almost heartbreaking fondness," is a quote derived from the opening line in the anime _[Now and Then, Here and There](https://en.wikipedia.org/wiki/Now_and_Then,_Here_and_There)._
 -   Due to the description it can be assumed that Darksteel is a powerful recurring substance in Deepwoken with other items having it's mention being the [Darksteel Greatsword](Darksteel_Greatsword.md) and the [Darksteel Plate](Darksteel_Plate.md).
--   The emblem on the top of the helmet is a stylized version of [Lost Celtor](Lost_Celtor.md).
+-   The emblem on the top of the helmet is a stylized version of [Lost Celtor](Lost_Celtor.md)'s emblem.

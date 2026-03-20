@@ -1,9 +1,9 @@
 ---
 title: Gale Enhanced Beads
-revid: 201190
+revid: 201583
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Beads
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces]
+categories: [Pathfinder Exclusive, Equipment, Craftable, Torso]
 ---
 
 # Gale Enhanced Beads
@@ -26,8 +26,6 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Torso, Necklaces]
 | obtainment | Crafting Monastery Beads + 1 Gale Essence + 1 Windswept Enchant Stone at Lost Forge |
 | description | ... |
 
-Variants: [Monastery Beads](Monastery_Beads.md)
-
 **[Pathfinder](Pathfinder.md) Exclusive**  
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
@@ -37,8 +35,6 @@ For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above
 **Gale Enhanced Beads** are an [Equipment](Equipment.md) item under the "Torso" category.
 
 The [Focused Strikes](Talents.md#focused-strikes) Talent increases the posture damage of your critical attacks by 15%.
-
-This item is the Pathfinder equivalent of the [Hallowed Monastery Beads](Hallowed_Monastery_Beads.md).
 
 ## Trivia
 

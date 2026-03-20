@@ -1,6 +1,6 @@
 ---
 title: Heart of Enmity
-revid: 201557
+revid: 201596
 source: https://deepwoken.fandom.com/wiki/Heart_of_Enmity
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Bosses, Voiced Characters]
@@ -118,9 +118,10 @@ All moves instantly grip the opponent if they are knocked. Enmity Servants are a
 
 ## Passives
 
--   Enchant Immunity - Heart of Enmity is immune to all [Enchantments](Enchantments.md).
--   Potion Immunity - Heart of Enmity is immune to all [Potion](Alchemy.md) effects.
--   Condemnation - When a player dies a unknown number of Corrupted Servants of Enmity will spawn possessing 20,000 hp.
+-   Enchantment Immunity - The Heart of Enmity is immune to all [Enchantments](Enchantments.md).
+-   Potion Immunity - The Heart of Enmity is immune to all [Potion](Alchemy.md) effects.
+-   **Enmity's Rot - The Heart of Enmity applies a powerful anti-heal on attacks that last for 30 seconds.**
+-   **Last Rite - Anytime a player dies a unknown number of Corrupted Servants of Enmity will spawn possessing 20,000 hp.**
 
 ## Loot Table/Rewards
 
