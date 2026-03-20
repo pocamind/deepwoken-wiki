@@ -1,6 +1,6 @@
 ---
 title: "Hivelord's Hubris"
-revid: 200274
+revid: 201535
 source: https://deepwoken.fandom.com/wiki/Hivelord's_Hubris
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Greathammers, Heavy Weapons]
@@ -36,7 +36,7 @@ categories: [Weapons, Greathammers, Heavy Weapons]
 | obtainment | Rare drop from Hive Construct, Rare drop from Rogue Construct |
 | description | ...This isn't very efficient. |
 
-## SDescription
+## Description
 
 The Hivelord's Hubris is a Greathammer [Heavy Weapon](Weapons.md) which is the brutally torn off arm of a [Hive Construct](Hive_Construct.md), ending in its spiked shoulder. It is presumably absurdly heavy, given its slow swing speed and 100 HVY requirement.
 

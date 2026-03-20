@@ -1,6 +1,6 @@
 ---
 title: Shipwright
-revid: 201482
+revid: 201558
 source: https://deepwoken.fandom.com/wiki/Shipwright
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [NPCs, Mechanics]
@@ -10,6 +10,7 @@ categories: [NPCs, Mechanics]
 
 | Shipwright | |
 |---|---|
+| name | Greathive Aratel: Kaab |
 | aspect | Etrean (Etris, Isle of Vigils), Celtor (Summer Isle), Gremor (Meteor Isle, Miner's Landing), Khan (Minitrysa), Felinor (Port Merit), Vesperian (Greathive Aratel) |
 | location | Etris, Isle of Vigils, Minityrsa, Greathive Aratel, Miner's Landing, Meteor Isle, Port Merit, Summer Isle |
 

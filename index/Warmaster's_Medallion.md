@@ -1,6 +1,6 @@
 ---
 title: "Warmaster's Medallion"
-revid: 192810
+revid: 201523
 source: https://deepwoken.fandom.com/wiki/Warmaster's_Medallion
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Torso, Necklaces, Relics, Equipment Relics]

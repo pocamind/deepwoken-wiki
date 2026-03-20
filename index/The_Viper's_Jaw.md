@@ -1,6 +1,6 @@
 ---
 title: "The Viper's Jaw"
-revid: 200069
+revid: 201548
 source: https://deepwoken.fandom.com/wiki/The_Viper's_Jaw
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Locations, Locations in the Etrean Luminant]
@@ -24,7 +24,7 @@ When Erisia was whole, these caverns were used by smugglers to sneak past the wa
 
 The Viper's Jaw is the general name of the [Lower Erisia](Lower_Erisia.md) cave system.
 
-It is divided into three parts. One entrance is behind the bandit village, where two guaranteed [Megalodaunt](Megalodaunt.md) spawns are located; the second entrance is on the side of the bandit village. An opening leads to Upper Erisia's broken bridge. A library plays an important role in [intelligence unbound](Attributes_Unbound.md). A Legion camp is also settled here, which allows for the player to learn [Legion Kata](Legion_Kata.md) by giving a Legion Captain’s Recommendation to the NPC named [Amara](Amara.md); The third entrance is located behind the mudskipper cave to the right of the beach gate.
+It is divided into three parts. One entrance is behind the bandit village, where two guaranteed [Megalodaunt](Megalodaunt.md) spawns are located; the second entrance is on the side of the bandit village. An opening leads to Upper Erisia's broken bridge. A library plays an important role in [intelligence unbound](Attributes_Unbound.md). A Legion camp is also settled here, which allows for the player to learn both [Legion Kata](Legion_Kata.md) by giving a Legion Captain’s Recommendation to [Amara](Amara.md), and [Imperium Kata](Imperium_Kata.md) by completing [Caitus](Caitus.md)' quest of giving the [Legion Intelligence](Legion_Intelligence.md) to [Titus](Titus_Fulminus_Destellus.md) and then coming back to him.
 
 Note that none of these areas are directly connected to each other.
 

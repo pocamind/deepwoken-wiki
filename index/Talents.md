@@ -1,6 +1,6 @@
 ---
 title: Talents
-revid: 201426
+revid: 201550
 source: https://deepwoken.fandom.com/wiki/Talents
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics, Outfits, Skills, Talents]
@@ -2627,6 +2627,8 @@ Talents granted from your [Aspect](Aspects.md). If you are playing the [Vow of I
 
 -   Frenzied Dance \[Common Talent, Light Weapon\] - Rapier The more posture you currently have, the more chip and posture damage you deal.
     -   Prerequisites: Using Rapier, 50 Light Weapon
+    -   Frenzied Dance activates when your posture is 70% or higher.
+    -   When your posture is 70% or higher, your posture damage is increased by 33%, and chip damage by 20%.
 
 -   Pressure Skewer \[Common Talent, Light Weapon\] - Rapier Flourishing an enemy causes your M1's to deal additional chip damage, blood loss and makes your hits deal 3 extra true damage until you take damage.
     -   Increase blood bar damage by 50%.
