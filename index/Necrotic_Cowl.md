@@ -1,6 +1,6 @@
 ---
 title: Necrotic Cowl
-revid: 201017
+revid: 201716
 source: https://deepwoken.fandom.com/wiki/Necrotic_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Craftable, Equipment, Equipment with Set Bonuses, Head Equipment]
@@ -31,7 +31,7 @@ Variants: [Bloodfeather Cowl](Bloodfeather_Cowl.md)
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
 This content is not accessible outside of this gamemode.
 
-Necrotic Set
+Bloodcurdle Set
 
 ## Description
 

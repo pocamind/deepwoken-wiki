@@ -1,6 +1,6 @@
 ---
 title: Drakemaw Gauntlets
-revid: 201003
+revid: 201733
 source: https://deepwoken.fandom.com/wiki/Drakemaw_Gauntlets
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, Fists, Weapons with Unique Criticals, Event Item, Hallowtide, Light Weapons]

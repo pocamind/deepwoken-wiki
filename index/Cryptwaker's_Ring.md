@@ -1,6 +1,6 @@
 ---
 title: "Cryptwaker's Ring"
-revid: 201013
+revid: 201739
 source: https://deepwoken.fandom.com/wiki/Cryptwaker's_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Rings, Equipment]
@@ -29,6 +29,4 @@ The **Cryptwaker's Ring** enhances your [Parasol's Blight](<Parasol's_Blight.md>
 
 ## Obtainment
 
-Obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)'s chest after defeating him.
-
-Unknown droprate.
+Obtained from the [Kyrsgarde Champion](<Kyrsgarde_Champion,_Kyrsa's_Star.md>)'s chest after defeating it.

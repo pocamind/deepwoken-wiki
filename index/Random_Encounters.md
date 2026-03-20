@@ -1,6 +1,6 @@
 ---
 title: Random Encounters
-revid: 199359
+revid: 201747
 source: https://deepwoken.fandom.com/wiki/Random_Encounters
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [OutdatedPages, Stub pages without reason, StubPages, Mechanics]
@@ -94,7 +94,7 @@ A Pathfinder
 
 #### Pathfinder Gathering
 
-Rarely, the player may find 2 [Pathfinders](Pathfinder.md) sitting around a campfire with a [teacher](Teacher.md). Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to the teacher will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. This will use one of your investment points. Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in Erisia. Curiously, they hate all factions and vice versa.
+Rarely, the player may find 2 [Pathfinders](<Pathfinder_(NPC).md>) sitting around a campfire with a [Teacher](Teacher.md). Most people mistake them for bandits and regret it when they see them using Frostdraw mantras. Talking to the teacher will grant the player the ability to upgrade one of their main attributes (Strength, Fortitude, Agility, Intelligence, Willpower, and Charisma) with no cost. This will use one of your investment points. Killing them may reward you with Frigid Prisms. Finishing the dialogue will not reward you with a chest, nor will killing them. Occurs in Erisia. Curiously, they hate all factions and vice versa.
 
 #### Erisia Merchant
 

@@ -1,11 +1,11 @@
 ---
 title: Equipment
-revid: 201586
+revid: 201742
 source: https://deepwoken.fandom.com/wiki/Equipment
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pages with broken file links, Stub pages with reason, StubPages, Equipment, In progress with VOI reason]
 notices:
-  - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron-exclusive equipments and the newly-added craftable equipments in the Lost Forge of Leiuna. Please help us improve the page through editing, or wait for an updated version of the page to release."
+  - "This page is a stub. It requires further information, or has little to no information. There is little information about Vow of Iron-exclusive equipments. Please help us improve the page through editing, or wait for an updated version of the page to release."
 ---
 
 # Equipment
@@ -190,7 +190,8 @@ _+8% Fire Armor_
 
 +1 Rare Pip
 
- | N/A |
+ | Variants:  
+Aazel's & Necrotic |
 | File:Aegis of Enmity2.png | [Aegis of Enmity](Aegis_of_Enmity.md)  
 (**Set**)  
 (**Unique**) | _+5 Health_  
@@ -262,7 +263,8 @@ _+Talent: Strong Hold_
 +1 Uncommon Pip  
 **Requires Fortitude 10**
 
- | N/A |
+ | Variants:  
+Barrel & Ossified |
 | File:AlchemistHat.png | [Big Alchemist's Hat](<Big_Alchemist's_Hat.md>)  
 (**Series**) | +1 Rare Pip
 
@@ -305,9 +307,15 @@ File:Blacksteel Helm(Better Lighting).png
 +1 Rare Pip  
 **Requires Power 8, Fortitude 10**
 
- | Set: Blacksteel  
+ | Variants:  
+Blacksteel & Ossified
+
+  
+Set: Blacksteel  
 Head: [Blacksteel Helm](Blacksteel_Helm.md)  
-Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) |
+Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+
+ |
 | File:Black Strapped Hat.png | [Black Strapped Hat](Strapped_Hat.md)  
 (**Series**) | _+3 Health_
 
@@ -324,9 +332,15 @@ _+6% Stealth_
 +2 Rare Pips  
 **Requires Power 8**
 
- | Set: Bloodfeather  
+ | Variants:  
+Bloodfeather & Necrotic
+
+  
+Set: Bloodfeather  
 Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
-Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
+Face: [Bloodfeather Mask](Bloodfeather_Mask.md)
+
+ |
 |  | [Bloodforged Crown](Bloodforged_Crown.md)  
 (**Mythical**) | _+5 Health_  
 
@@ -335,7 +349,8 @@ Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
 _+Talent: Cauterized Wounds_  
 **Requires Power 10**
 
- | N/A |
+ | Variants:  
+Bloodforged & The No Life King's |
 | File:Static-assets-upload12843990363310254802.png | [Brigand's Bicorn](<Brigand's_Bicorn.md>)  
 (**Set**) | _+3 Health_  
 
@@ -434,6 +449,24 @@ _+Talent: The Exterminator_
 
  | Variants:  
 Black & Double |
+| File:Sky Warlock Brim.png | [Ether Refined Brim](Ether_Refined_Brim.md)  
+(**Set**)  
+(**Unique**) | _+5 Health_
+
++2 Legendary Pips  
+_+Talent: Sorcerer's Skill_  
+_+Set Talent: Sorcerer's Supply_  
+**Requires: Power 16**
+
+ | Variants:  
+Warlock & Ether Refined
+
+  
+Set: Ether Refined  
+Head: [Ether Refined Brim](Ether_Refined_Brim.md)  
+Arms: [Ether Refined Mantle](Ether_Refined_Mantle.md)
+
+ |
 |  | [Evanspear War Helmet](Evanspear_War_Helmet.md)  
 (**Series**)  
 (**Set**) | _+4 Health_  
@@ -484,6 +517,26 @@ Legs: [Evanspear War Boots](Evanspear_War_Boots.md)
 +1 Uncommon Pip
 
  | N/A |
+| File:Monastery Champion Cowl NEW.png | [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)  
+(**Set**)  
+(**Legendary**) | _+5% Stealth_
+
++2 Rare Pips  
+_+Talent: Blade Dancer_  
+_+Talent: Footwork Mastery_  
+**Requires Power 6**
+
+ | Variants:  
+Monastery Champion & Gale Enhanced
+
+  
+Set: Gale Enhanced  
+Head: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)  
+Torso: [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
+Ears: [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)  
+Rings: [Gale Enhanced Ring](Gale_Enhanced_Ring.md)
+
+ |
 |  | [Gladiator Helm](Gladiator_Helm.md)
 
 (**Set**)
@@ -575,6 +628,18 @@ _+Talent: Give and Take_
 **Requires Power 6**
 
  | N/A |
+|  | [Jester's Beret](<Jester's_Beret.md>)  
+(**Unique**) | _+3 Health_  
+_+10 Ether_
+
++2 Rare Pips  
++1 Legendary Pip  
+_+Talent: Cap Artist_  
+_+Talent: Jester's Ruse_  
+**Requires Power 10**
+
+ | Variants:  
+Tillian's & Jester's |
 |  | [Kyrsmas Hat](Kyrsmas_Hat.md)  
 (**Limited Time Event**)  
 (**Unique**) | _+10 Health_  
@@ -621,14 +686,76 @@ File:Monastery Champion Cowl NEW.png
 +2 Rare Pips  
 _+Talent: Blade Dancer_
 
- | Set: Monastery Champion  
+ | Variants:  
+Monastery Champion & Gale Enhanced
+
+  
+Set: Monastery Champion  
 Head: [Monastery Cowl](Monastery_Cowl.md)  
 Arms: [Monastery Champion Robes](Monastery_Champion_Robes.md)  
-Torso: [Monastery Beads](Monastery_Beads.md) |
+Torso: [Monastery Beads](Monastery_Beads.md)
+
+ |
 |  | [Mushroom Costume](Mushroom_Costume.md)  
 (**Series**)  
 (**Hallowtide**)  
-(**Legendary**) | N/A | Mushroom, Glowshroom, Metalshroom, Charmshroom, & Zapshroom |
+(**Legendary**) | N/A | Variants:  
+Mushroom, Glowshroom, Metalshroom, Charmshroom, & Zapshroom |
+|  | [Necrotic Cowl](Necrotic_Cowl.md)  
+(**Set**) | _+5% Shadow Armor_  
+_+6% Stealth_
+
++2 Rare Pips  
+_+Talent: Blood Siphon_  
+_+Set Talent: Bloodless Overdrive_
+
+ | Variants:  
+Bloodfeather & Necrotic
+
+  
+Set: Bloodcurdle  
+Head: [Necrotic Cowl](Necrotic_Cowl.md)  
+Face: [Necrotic Mask](Necrotic_Mask.md)
+
+ |
+|  | [Necrotic Demon Horns](Necrotic_Demon_Horns.md)  
+(**Legendary**) | _+1 Posture_  
+_+8% Fire Armor_
+
++1 Rare Pip  
+_+Talent: Mindspark_
+
+ | Variants:  
+Aazel's & Necrotic |
+| File:Barrel Helmet.png | [Ossified Barrel Helm](Ossified_Barrel_Helm.md) | _+5 Health_
+
++1 Uncommon Pip  
+_+Talent: Tenacity_
+
+ | Variants:  
+Barrel & Ossified |
+| 
+
+File:Blacksteel Helm(Better Lighting).png
+
+ | [Ossified Black Helm](Ossified_Black_Helm.md)  
+(**Set**) | _+10 Health_
+
++1 Uncommon Pip  
++1 Rare Pip  
+_+Talent: Sloped Plate_  
+_+Set Talent: Captain's Call_  
+**Requires Power 8**
+
+ | Variants:  
+Blacksteel & Ossified
+
+  
+Set: Blackalloy  
+Head: [Ossified Black Helm](Ossified_Black_Helm.md)  
+Arms: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
+
+ |
 |  | [Party Hat](Party_Hat.md)  
 (**Limited Time Event**) | N/A | N/A |
 |  | [Phalanx Helmet](Phalanx_Helmet.md)  
@@ -762,6 +889,17 @@ Legs: [Specialist Boots](Specialist_Boots.md)
  | Set: Ten-Gallon  
 Head: [Ten-Gallon Hat](Ten-Gallon_Hat.md)  
 Face: [Ten-Gallon Bandana](Ten-Gallon_Bandana.md) |
+|  | [The No-Life King's Crown](<The_No-Life_King's_Crown.md>)  
+(**Unique**) | _+5 Health_  
+
++1 Rare Pip  
++1 Legendary Pip  
+_+Talent: Blood Necrosis_  
+_+Talent: Cauterized Wounds_  
+_+Talent: No Limits_  
+**Requires Power 10**
+
+ | N/A |
 |  | [Tillian's Beret](<Tillian's_Beret.md>)  
 (**Unique**) | _+3 Health_  
 _+10 Ether_
@@ -771,7 +909,8 @@ _+10 Ether_
 _+Talent: Cap Artist_  
 **Requires Power 10**
 
- | N/A |
+ | Variants:  
+Tillian's & Jester's |
 | File:Slate Tophat.png | [Tophat](Tophat.md)  
 (**Series**)  
 (**Set**) | _+4 Health_
@@ -810,7 +949,7 @@ Face: [Aristocrat Eyeglasses](Aristocrat_Eyeglasses.md)
 **Requires Power 16**
 
  | Variants:  
-Lilac, Navy, Sky, Verdant
+Lilac, Navy, Sky, Verdant, Ether Refined
 
   
 Set: Warlock  
@@ -1047,9 +1186,15 @@ _+1 Posture_
 +2 Rare Pips  
 **Requires Power 8**
 
- | Set: Blacksteel  
+ | Variants:  
+Blacksteel & Ossified
+
+  
+Set: Blacksteel  
 Head: [Blacksteel Helm](Blacksteel_Helm.md)  
-Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md) |
+Arms: [Blacksteel Pauldrons](Blacksteel_Pauldrons.md)
+
+ |
 | 
 
  | [Bluesteel Pauldrons](Bluesteel_Pauldrons.md)  
@@ -1207,6 +1352,26 @@ _+Talent: Berserker_
 **Requires Power 8**
 
  | N/A |
+| File:Sky Warlock Mantle.png | [Ether Refined Mantle](Ether_Refined_Mantle.md)  
+(**Set**)  
+(**Unique**) | _+7 Health_
+
++1 Rare Pip  
++2 Legendary Pips  
+_+Talent: Overflowing Dam_  
+_+Talent: Sorcerer's Surge_  
+_+Set Talent: Sorcerer's Supply_  
+**Requires: Power 13, Intelligence 5**
+
+ | Variants:  
+Warlock & Ether Refined
+
+  
+Set: Ether Refined  
+Head: [Ether Refined Brim](Ether_Refined_Brim.md)  
+Arms: [Ether Refined Mantle](Ether_Refined_Mantle.md)
+
+ |
 | File:Etrean Siege Cuirass.png | [Etrean Siege Cuirass](Etrean_Siege_Cuirass.md)  
 (**Set**) | _+8 Health_
 
@@ -1343,6 +1508,23 @@ Dark, Ochre, Grey & White
 Set: Gumshoe  
 Head: [Gumshoe Hat](Gumshoe_Hat.md)  
 Arms: [Gumshoe Longcoat](Gumshoe_Longcoat.md)
+
+ |
+|  | [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)  
+(**Set**) | _+1 Posture_
+
+_+Talent: Berserker_  
+_+Talent: Enforcer's Strength_  
+_+Set Talent: Enforcer's Pull_  
+**Requires: Power 8**
+
+ | Variants:  
+Enforcer & Hardened
+
+  
+Set: Hardened Enforcer  
+Arms: [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)  
+Legs: [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md)
 
  |
 |  | [Hive Scourge Cuirass](Hive_Scourge_Cuirass.md) | _+5 Health_  
@@ -1523,6 +1705,36 @@ _+1 Posture_
  | Set: Novice  
 Arms: [Novice Brace](Novice_Brace.md)  
 Legs: [Novice Boots](Novice_Boots.md) |
+| 
+
+File:Blacksteel Pauldron.png
+
+ | [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)  
+(**Set**) | _+3 Health_  
+_+1 Posture_
+
++1 Rare Pip  
+_+Talent: Laminated Armor_  
+_+Set Talent: Captain's Call_  
+**Requires Power 8**
+
+ | Variants:  
+Blacksteel & Ossified
+
+  
+Set: Blackalloy  
+Head: [Ossified Black Helm](Ossified_Black_Helm.md)  
+Arms: [Ossified Black Pauldrons](Ossified_Black_Pauldrons.md)
+
+ |
+| File:Simple Pauldrons.png | [Ossified Simple Pauldrons](Ossified_Simple_Pauldrons.md) | _+2 Health_  
+_+1 Posture_
+
++1 Uncommon Pip  
+_+Talent: Simple Buff_  
+
+ | Variants:  
+Simple & Ossified |
 | File:Crimson elite pathfinder.png | [Pathfinder Elite](Pathfinder_Elite.md)  
 (**Series**)  
 (**Animated**)  
@@ -1658,7 +1870,8 @@ _+1 Posture_
 
 +1 Common Pip
 
- | N/A |
+ | Variants:  
+Simple & Ossified |
 | File:Smithgloves.png | [Smith's Gloves](<Smith's_Gloves.md>)  
 (**Set**) | _+5 Health_
 
@@ -1769,7 +1982,7 @@ _+Talent: Overflowing Dam_
 **Requires Power 13, Intelligence 5**
 
  | Variants:  
-Lilac, Navy, Sky, Verdant
+Lilac, Navy, Sky, Verdant, Ether Refined
 
   
 Set: Warlock  
@@ -1994,9 +2207,15 @@ _+Talent: Surestep_
 
 **Requires Power 4**
 
- | Set: Enforcer  
+ | Variants:  
+Enforcer & Hardened
+
+  
+Set: Enforcer  
 Arms: [Enforcer Plate](Enforcer_Plate.md)  
-Legs: [Enforcer Boots](Enforcer_Boots.md) |
+Legs: [Enforcer Boots](Enforcer_Boots.md)
+
+ |
 | File:Etrean Siege Sabatons.png | [Etrean Siege Sabatons](Etrean_Siege_Sabatons.md)  
 (**Set**) | _+4 Health_
 
@@ -2065,6 +2284,21 @@ Legs: [Grand Authority Sabatons](Grand_Authority_Sabatons.md) |
  | Set: Grand  
 Arms: [Grand Pauldrons](Grand_Pauldrons.md)  
 Legs: [Grand Boots](Grand_Boots.md) |
+|  | [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md)  
+(**Set**) | +2 Rare Pips  
+
+_+Talent: Enforcer's Technique_  
+_+Set Talent: Enforcer's Pull_  
+
+ | Variants:  
+Enforcer & Hardened
+
+  
+Set: Hardened Enforcer  
+Arms: [Hardened Enforcer Plate](Hardened_Enforcer_Plate.md)  
+Legs: [Hardened Enforcer Boots](Hardened_Enforcer_Boots.md)
+
+ |
 | File:Imperial Boots.png | [Imperial Boots](Imperial_Boots.md)  
 (**Set**) | _+5 Health_
 
@@ -2097,6 +2331,15 @@ Legs: [Leather Boots](Leather_Boots.md) |
 Head: [Legion Helmet](Legion_Helmet.md)  
 Arms: [Legion Pauldrons](Legion_Pauldrons.md)  
 Legs: [Legion Boots](Legion_Boots.md) |
+|  | [Marrowmade Boots](Marrowmade_Boots.md)  
+(**Legendary**) | _+3 Health_
+
++2 Rare Pips  
+_+Talent: Osseous Surge_  
+_+Talent: Surestep_  
+**Requires Power 15**
+
+ | N/A |
 |  | [Mercenary's Boots](<Mercenary's_Boots.md>)  
 (**Set**) | _+2 Health_
 
@@ -2116,16 +2359,31 @@ Legs: [Mercenary's Boots](<Mercenary's_Boots.md>) |
  | Set: Novice  
 Arms: [Novice Brace](Novice_Brace.md)  
 Legs: [Novice Boots](Novice_Boots.md) |
+|  | [Ossified Phalanx Boots](Ossified_Phalanx_Boots.md)  
+ | +2 Rare Pips  
++1 Legendary Pip
+
+_+Talent: Alloyed Soles_  
+**Requires Power 8**
+
+ | Variants:  
+Phalanx & Ossified |
 |  | [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)  
 (**Set**) | +2 Rare Pips  
 +1 Legendary Pip
 
 **Requires Power 8**
 
- | Set: Legion Phalanx  
+ | Variants:  
+Phalanx & Ossified
+
+  
+Set: Legion Phalanx  
 Head: [Phalanx Helmet](Phalanx_Helmet.md)  
 Arms: [Legion Phalanx Plate](Legion_Phalanx_Plate.md)  
-Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md) |
+Legs: [Phalanx Heavy Boots](Phalanx_Heavy_Boots.md)
+
+ |
 | File:Ranger Boots.png | [Ranger's Boots](<Ranger's_Boots.md>)  
 (**Set**) | +1 Rare Pip | Set: Ranger  
 Arms: [Ranger's Brace](<Ranger's_Brace.md>)  
@@ -2346,7 +2604,8 @@ Torso: [Brilliant Cape](Brilliant_Cape.md) |
 +1 Legendary Pip  
 **Requires Power 5**
 
- | N/A |
+ | Variants:  
+Curseblood & Regenerative |
 |  | [Dark Owl Cape](Dark_Owl_Cape.md)  
 (**Set**) | _+2% Elemental Armor_  
 _+5% Shadow Armor_  
@@ -2382,6 +2641,25 @@ Torso: [Fauld of Enmity](Fauld_of_Enmity.md)/[Mantle of Enmity](Mantle_of_Enmity
 
  | Variants:  
 Emerald, Rose, Scarlet, Shade, Silver & Onyx |
+| File:Monastery Champion Beads NEW.png | [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
+(**Set**)  
+(**Legendary**) | _+3% Elemental Armor_
+
++1 Legendary Pip  
+_+Talent: Focused Strikes_  
+**Requires Power 5**
+
+ | Variants:  
+Monastery Champion & Gale Enhanced
+
+  
+Set: Gale Enhanced  
+Head: [Gale Enhanced Cowl](Gale_Enhanced_Cowl.md)  
+Torso: [Gale Enhanced Beads](Gale_Enhanced_Beads.md)  
+Ears: [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md)  
+Rings: [Gale Enhanced Ring](Gale_Enhanced_Ring.md)
+
+ |
 | File:Golden Cape.png | Golden Cape  
 (**Series**) | _+3% Physical Armor_
 
@@ -2402,6 +2680,8 @@ _+Talent: Robber Baron_
 **Requires Power 8**
 
  | N/A |
+|  | [Kyrsan Necklace](Kyrsan_Necklace.md)  
+(**Unique**) | N/A | N/A |
 | 
 
 File:Monastery Champion Beads NEW.png
@@ -2448,6 +2728,29 @@ _+Talent: Robber Baron_
 **Requires Power 5**
 
  | N/A |
+|  | [Regenerative Pendant](Regenerative_Pendant.md) | _+3% Elemental Armor_
+
++1 Legendary Pip  
+_+Talent: Blood Pact_  
+_+Set Talent: Critical Heal'  
+_**Requires Power 5**
+
+ | Variants:  
+Curseblood & Regenerative
+
+  
+Set: Regenerative  
+Torso: [Regenerative Pendant](Regenerative_Pendant.md)  
+Ears: [Regenerative Earrings](Regenerative_Earrings.md)
+
+ |
+| File:Old World Sun Pendant.png | [Revitalizing Pendant](Revitalizing_Pendant.md) | +1 Rare Pip  
++1 Legendary Pip
+
+_+Talent: Praise The Sun_
+
+ | Variants:  
+Wheel & Revitalizing |
 |  | [Sandrunner Scarf](Sandrunner_Scarf.md) | _+3% Fire Armor_
 
 +1 Rare Pip  
@@ -2502,13 +2805,8 @@ _+20 Carry Load_
 
  | N/A |
 | File:Old World Sun Pendant.png | [Wheel Pendant](Wheel_Pendant.md) | +1 Rare Pip  
-+1 Legendary Pip | N/A |
-| File:Old World Sun Pendant.png | [Revitalizing Pendant](Revitalizing_Pendant.md) | +1 Rare Pip  
-+1 Legendary Pip  
-
-_+Talent: Praise The Sun_
-
- | N/A |
++1 Legendary Pip | Variants:  
+Wheel & Revitalizing |
 | File:Wormwarder Lantern.png | [Wormwarder Lantern](Wormwarder_Lantern.md) | _+10 Sanity_  
 _+10 Carry Load_
 
@@ -2636,9 +2934,15 @@ Black & Crimson |
 
 +1 Rare Pip
 
- | Set: Bloodfeather  
+ | Variants:  
+Bloodfeather & Necrotic
+
+  
+Set: Bloodfeather  
 Head: [Bloodfeather Cowl](Bloodfeather_Cowl.md)  
-Face: [Bloodfeather Mask](Bloodfeather_Mask.md) |
+Face: [Bloodfeather Mask](Bloodfeather_Mask.md)
+
+ |
 |  | [Brow Stud](Brow_Stud.md) | _+1 Health_ | N/A |
 |  | [Citadel Frames](Citadel_Frames.md)  
 (**Series**) | +5 Health  
@@ -2696,6 +3000,22 @@ Brow, Dermal, Lip & Septum |
 |  | [Moon Septum Ring](Moon_Septum_Ring.md)  
 (**Series**) | _+1 Health_ | Variants:  
 Brow, Dermal, Lip & Septum |
+|  | [Necrotic Mask](Necrotic_Mask.md)  
+(**Set**) | _+5% Shadow Armor_
+
++1 Rare Pip  
+_+Talent: Blood Plague_  
+_+Set Talent: Bloodless Overdrive_
+
+ | Variants:  
+Bloodfeather & Necrotic
+
+  
+Set: Bloodcurdle  
+Head: [Necrotic Cowl](Necrotic_Cowl.md)  
+Face: [Necrotic Mask](Necrotic_Mask.md)
+
+ |
 |  | [Nose Stud](Nose_Stud.md) | _+1 Health_ | N/A |
 |  | [Nauticals](Summer_Nauticals.md)  
 (**Series**) | +1 Rare Pip | Variants:  
@@ -2777,9 +3097,38 @@ Innate Effects
 +1 Rare Pip
 
  |
+|  | [Ember Scorch Earrings](Ember_Scorch_Earrings.md) | +1 Common Pip
+
++1 Rare Pip  
+_+Talent: Smoldering Touch_
+
+ |
 |  | [Emerald Tusk Earrings](Emerald_Tusk_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
+
+ |
+|  | [Ether Empowered Earrings](Ether_Empowered_Earrings.md) | +2 Rare Pips  
+
+_+Talent: Ether Adeptness_
+
+ |
+|  | [Ether Imbued Earrings](Ether_Imbued_Earrings.md) | +2 Rare Pips  
+
+_+Talent: Ether Tension_
+
+ |
+|  | [Frost Crystal Earrings](Frost_Crystal_Earrings.md) | +2 Rare Pips  
+
+_+Talent: Instant Nucleation_  
+**Requires Power 5**
+
+ |
+|  | [Gale Enhanced Earrings](Gale_Enhanced_Earrings.md) | +1 Common Pip
+
++1 Rare Pip  
+_+Talent: Way of the Wind_  
+**Requires Power 5**
 
  |
 | File:MasterThief.png | [Master Thief Earrings](Master_Thief_Earrings.md) | _+3% Stealth_
@@ -2799,8 +3148,21 @@ Innate Effects
 **Requires Power 5**
 
  |
+| File:MasterThief.png | [Ossified Blood Earrings](Ossified_Blood_Earrings.md) | _+3% Stealth_
+
++2 Rare Pips  
+_+Talent: Sharpened Dagger_
+
+ |
 |  | [Pendant Earrings](Pendant_Earrings.md) | +2 Rare Pips |
 |  | [Practicioner's Earrings](<Practicioner's_Earrings.md>) | +2 Rare Pips |
+|  | [Regenerative Earrings](Regenerative_Earrings.md) | _+5 Ether_
+
++1 Legendary Pip  
+_+Talent: Blood Convergence_  
+_+Set Talent: Critical Heal_
+
+ |
 |  | [Ruby Drop Earrings](Ruby_Drop_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
@@ -2809,6 +3171,18 @@ Innate Effects
 |  | [Ruby Pendant Earrings](Ruby_Pendant_Earrings.md) | +1 Common Pip
 
 +1 Rare Pip
+
+ |
+| File:Shiva's Pendant Earrings.png | [Shiva's Pendant Earrings](<Shiva's_Pendant_Earrings.md>) | +1 Common Pip
+
++1 Rare Pip  
+_+Talent: Skillful Recovery_
+
+ |
+|  | [Vapordrop Earrings](Vapordrop_Earrings.md) | +1 Common Pip
+
++1 Rare Pip  
+_+Talent: Drop Dead_
 
  |
 |  | [Dark Pearls](Dark_Pearls.md)  
@@ -2852,6 +3226,12 @@ Innate Effects
 +1 Uncommon Pip
 
  |
+|  | [Blindseer's Ring](<Blindseer's_Ring.md>) | Increase all healing you receive by 20-33%. Reduce all damage you deal by 15%.
+
+  
+_+10 Sanity_ +1 Uncommon Pip
+
+ |
 |  | [Bloodiron Ring](Bloodiron_Ring.md) | Restores a percentage of your Armor and Natural Armor durability when you kill opponents. (Stacks with [Bloodiron Spirit](Talents.md#bloodiron-spirit))
 
   
@@ -2868,6 +3248,14 @@ _+2% Physical Armor_
  |
 |  | [Charged Ring](Charged_Ring.md)  
 (**Legendary**) | Reduces the charges required to proc Crystal Explosions and Surge Overloads from 6 to 5. |
+|  | [Cryptwaker's Ring](<Cryptwaker's_Ring.md>)  
+(**Legendary**) | Infuse your Parasol's Blight with the essence of bone. Buff the health of any mobs you spawn with Parasol's Blight. Bonekeepers also potentially spawn from your Parasol's Blight proc.
+
+  
++1 Uncommon Pip  
+**Requires Power 15**
+
+ |
 |  | [Dawnfist's Ring](<Dawnfist's_Ring.md>)  
 (**Legendary**) | Gives every weapon 1.2 strength scaling when equipped.
 
@@ -2915,6 +3303,13 @@ If using Eruption Path: Lava Serpent, Eruption delay is reduced.
 
   
 +1 Legendary Pip
+
+ |
+|  | [Gale Enhanced Ring](Gale_Enhanced_Ring.md)  
+(**Legendary**) | Suffocate enemies you flourish for a few seconds.
+
+  
+**Requires Power 10**
 
  |
 |  | [Gold Ring](Gold_Ring.md) |   
@@ -3015,8 +3410,21 @@ Stuns the opponent upon a successful damaging sheathe.
 **Requires Power 6**
 
  |
+|  | [Saint Jay's Ring](<Saint_Jay's_Ring.md>)  
+(**Legendary**) | Uppercuts inflict chill.
+
+  
++1 Rare Pip
+
+ |
 |  | [Silver Ring](Silver_Ring.md) |   
 +1 Common Pip |
+|  | [Transfusion Ring](Transfusion_Ring.md) | Gain extra vitality at the cost of your ability to heal (receive 50% less healing).
+
+_+20 Health_  
++1 Uncommon Pip
+
+ |
 |  | [Waning Ring](Waning_Ring.md)  
 (**Legendary**) | Conceal your youth, appearing as if you were older than 40.
 
@@ -3032,6 +3440,23 @@ _+2% Ice Armor_
 _+2% Wind Armor_  
 +1 Uncommon Pip  
 **Requires Power 3**
+
+ |
+|  | [Blizzard Ring](Blizzard_Ring.md)  
+(**Relic**) | Apply a very light slow on your opponent when landing a light attack and suffocate opponents when flourishing them. Gain extra ether when landing Galebreath or Frostdraw attacks.
+
+  
+**Requires Power 5**
+
+ |
+|  | [Frost Ring](Frost_Ring.md)  
+(**Relic**) | Apply a very light slow on your opponent when landing a light attack. This effect stacks. |
+|  | [Bone Ring](Bone_Ring.md)  
+(**Relic**) | A ring made purely of dense bone. Improve all bone related attacks you do.
+
+  
++1 Uncommon Pip  
+**Requires Power 15**
 
  |
 

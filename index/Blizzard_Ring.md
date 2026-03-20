@@ -1,6 +1,6 @@
 ---
 title: Blizzard Ring
-revid: 201024
+revid: 201681
 source: https://deepwoken.fandom.com/wiki/Blizzard_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Relics, Rings, Equipment Relics, Craftable]

@@ -1,21 +1,25 @@
 ---
 title: Pathfinder (NPC)
-revid: 178280
+revid: 201749
 source: https://deepwoken.fandom.com/wiki/Pathfinder_(NPC)
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Enemies]
+categories: [Pathfinder Exclusive, Enemies]
 ---
 
 # Pathfinder (NPC)
 
 | Pathfinder | |
 |---|---|
-| health | 350 (speculation) |
+| health | 350 |
 | drops | N/A |
-| weapon | Battleaxe |
-| moves | Ice Eruption |
+| weapon | Battleaxe, Sword |
+| moves | Assault, Critical, Ice Eruption |
 
 _Not to be confused with [Pathfinder](Pathfinder.md), a gamemode, or [Pathfinder](Glossary.md#pathfinders), a label given to those who explore and scavenge Lumen._
+
+**[Pathfinder](Pathfinder.md) Exclusive**  
+This page describes content that is exclusive to the **Pathfinder** gamemode.  
+This content is not accessible outside of this gamemode.
 
 ## Description
 
@@ -25,7 +29,7 @@ A Pathfinder wears a [Pathfinder Cloak](Pathfinder_Cloak.md) with their [aspect]
 
 ## Moveset
 
-A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md):
+A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md) or [Sword](<Sword_(weapon).md>):
 
 | Name/Danger | Description |
 | --- | --- |
@@ -44,6 +48,14 @@ A Pathfinder's arsenal consists of a [Battleaxe](Battleaxe.md):
  | Raises weapon before firmly slamming it down into the ground.
 
  |
+| 
+
+**Ice Eruption**  
+(★★☆)
+
+ | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze.
+
+ |
 
 ## Finisher
 
@@ -51,9 +63,11 @@ A Pathfinder executes the player after knocking them:
 
 | Name | Description |
 | --- | --- |
-| Execute | Pins down opponent while raising weapon before firmly bashing the opponent's face. |
+| Execute | \[[Battleaxe](Battleaxe.md)\] Pins down the opponent before splitting their skull with their blade.
+\[[Sword](<Sword_(weapon).md>)\] Pins down the opponent before slicing their throat with their blade.
+
+ |
 
 ## Trivia
 
 -   The Pathfinders are hostile towards Etrean and Authority forces.
--   Their idle dialogue discusses a [Megalodaunt](Megalodaunt.md), with one of them choosing to refer to it by the community nickname 'sharko,' much to the others exasperation.

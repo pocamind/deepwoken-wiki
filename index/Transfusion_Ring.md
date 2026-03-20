@@ -1,6 +1,6 @@
 ---
 title: Transfusion Ring
-revid: 201047
+revid: 201691
 source: https://deepwoken.fandom.com/wiki/Transfusion_Ring
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Equipment, Rings]

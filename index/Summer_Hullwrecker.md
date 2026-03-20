@@ -1,6 +1,6 @@
 ---
 title: Summer Hullwrecker
-revid: 190705
+revid: 201671
 source: https://deepwoken.fandom.com/wiki/Summer_Hullwrecker
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons, Greatcannons]

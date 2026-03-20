@@ -1,9 +1,9 @@
 ---
 title: Crescent Cleaver
-revid: 196743
+revid: 201725
 source: https://deepwoken.fandom.com/wiki/Crescent_Cleaver
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
-categories: [Pages with broken file links, Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
+categories: [Weapons, Criticals with M1 tag, Greatswords, Weapons with Unique Criticals, Alloyed Weapons, "Weapons with Multi-Hit Criticals", Heavy Weapons]
 ---
 
 # Crescent Cleaver

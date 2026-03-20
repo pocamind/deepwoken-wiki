@@ -1,6 +1,6 @@
 ---
 title: Teacher
-revid: 201339
+revid: 201752
 source: https://deepwoken.fandom.com/wiki/Teacher
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Enemies, NPCs]
@@ -13,7 +13,7 @@ categories: [Pathfinder Exclusive, Enemies, NPCs]
 | health | 350 (speculation) |
 | drops | N/A |
 | weapon | Fists (Way of Navae) |
-| moves | Ice Eruption |
+| moves | Assault, Critical, Ice Eruption |
 
 **[Pathfinder](Pathfinder.md) Exclusive**  
 This page describes content that is exclusive to the **Pathfinder** gamemode.  
@@ -33,6 +33,44 @@ The Teacher is a Pathfinder NPC that spawns during the [Pathfinder Gathering](Ra
 After a story has been told, you will have to wait until another event spawn to listen to another story.
 
 The Teacher spawns along with two more NPCs sitting next to a campfire with set races and features (one being an Adret, the other Etrean), two of which wield powerful modified [Frostdraw](Frostdraw.md) Mantras. They seem to be hostile on-sight towards the Authority and Etrean forces.
+
+## Moveset
+
+A Teacher's arsenal consists of their [Fists](Fists.md):
+
+| Name/Danger | Description |
+| --- | --- |
+| 
+**Assault**  
+(★☆☆)
+
+ | Performs 3 basic attacks before sending the opponent away with a flourish.
+
+ |
+| 
+
+**Critical**  
+(★★☆)
+
+ | Raises weapon before firmly slamming it down into the ground.
+
+ |
+| 
+
+**Ice Eruption**  
+(★★☆)
+
+ | An eruption of ice spikes in front of user. Deals moderate damage and applies freeze.
+
+ |
+
+### Finisher
+
+Beiruul executes her opponent after knocking them:
+
+| Name | Description |
+| --- | --- |
+| **Execute** | Pins down opponent before firmly bashing their face. |
 
 ## Dialogue
 
@@ -90,9 +128,12 @@ The Teacher spawns along with two more NPCs sitting next to a campfire with set 
 </tbody>
 </table>
 
+  
+
 ## Trivia
 
--   The "great leadership" story makes the player wonder if the Teacher is talking about the past King of Etrea.
--   The "survival" story may refer to [Drallis Ehr](Drallis_Ehr.md).
--   If you decide to kill them and their camp, they will not drop anything.
--   Having the Fugitive flaw will make them ageressive towards you, despite them (supposedly) not belonging to any faction.
+-   The stories spoken by the teacher can/may be referencing notable figures:
+    -   The story of survival may be referring to [Drallis Ehr](Drallis_Ehr.md), notably stopping [The Godstorm](Godstorm.md).
+    -   The story of speed may be referring to [Emiya Konga](Emiya_Konga.md), a notable thief mentioned in the [Konga's Clutch Ring](<Konga's_Clutch_Ring.md>).
+    -   The story of great leadership is referring to the King of Etrea, [Rolen Vashtir](Rolen_Vashtir.md).
+-   Having the Fugitive [Flaw](Boons_and_Flaws.md) will make the Teacher aggressive towards you, despite them (supposedly) not belonging to any faction.

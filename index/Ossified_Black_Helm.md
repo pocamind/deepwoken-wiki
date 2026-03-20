@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Helm
-revid: 201440
+revid: 201723
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Helm
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head]
@@ -30,7 +30,7 @@ categories: [Pathfinder Exclusive, Equipment, Craftable, Helmets, Head]
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
-Ossified Black Set
+Blackalloy Set
 
 ## Description
 

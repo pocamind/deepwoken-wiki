@@ -1,6 +1,6 @@
 ---
 title: Ossified Black Pauldrons
-revid: 201436
+revid: 201722
 source: https://deepwoken.fandom.com/wiki/Ossified_Black_Pauldrons
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Set Bonuses]
@@ -30,7 +30,7 @@ categories: [Pathfinder Exclusive, Equipment, Arms, Pauldrons, Equipment with Se
 You are currently viewing the version of this content that only applies to the **[Pathfinder](Pathfinder.md)** gamemode.  
 For its gameplay counterpart in **[Vow of Iron](Vow_of_Iron.md)**, use the above navigation.
 
-Ossified Black Set
+Blackalloy Set
 
 Variants: [Ossified Black Helm](Ossified_Black_Helm.md)
 

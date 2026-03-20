@@ -1,6 +1,6 @@
 ---
 title: Gale Enhanced Cowl
-revid: 201189
+revid: 201658
 source: https://deepwoken.fandom.com/wiki/Gale_Enhanced_Cowl
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Head, Craftable, Equipment, Hoods]
@@ -38,8 +38,4 @@ The **Gale Enhanced Cowl** is an [Equipment](Equipment.md) item under the "Head"
 
 The [Blade Dancer](Talents.md#blade-dancer) Talent removes your roll cooldown upon landing an M1. The [Footwork Mastery](Talents.md#footwork-mastery) Talent grants a speed boost for 15 seconds upon landing a critical attack. Footwork Mastery has a 45 second cooldown.
 
-This the [Pathfinder](Pathfinder.md) equivalent of the [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md).
-
-## Trivia
-
--   The original Monastery Champion set was designed by J3STTR, being the winning entry of the "Vigils Equipment Art Concept Contest", leading to its addition.
+This is the [Pathfinder](Pathfinder.md) equivalent of the [Hallowed Monastery Cowl](Hallowed_Monastery_Cowl.md).
