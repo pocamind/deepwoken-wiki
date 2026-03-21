@@ -1,6 +1,6 @@
 ---
 title: Job Boards
-revid: 201451
+revid: 201758
 source: https://deepwoken.fandom.com/wiki/Job_Boards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [In progress without reason, InProgressPages, Quests, Mechanics]
@@ -65,10 +65,10 @@ _Jobs relating to the Songseeker Wilds can be given by [The Ignition Union](The_
 
 _Jobs relating to Summer Isle can be given by [The Summer Company](The_Summer_Company.md) [Summericonfaction](The_Summer_Company.md) ._
 
--   **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
+-   (From [Summericonfaction](The_Summer_Company.md) ) **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
     -   Tasks the player with defeating the [Lodestar](Lodestar.md).
 
--   **Security Detail**
+-   (From [Summericonfaction](The_Summer_Company.md) ) **Security Detail**
     -   Tasks the player with defeating two [Bandits](Bandit.md) and a [Bandit Leader](Bandit_Leader.md).
 
 ### The Starswept Valley
@@ -78,19 +78,22 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 -   **Aratel's Blood**
     -   Tasks the player with defeating three enemy soldiers, either three [Hive Scouts](Hive_Scout.md) or three [Vigil Swordsmans](Vigil_Swordsman.md).
 
--   **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
+-   (From [Navaeiconfaction](The_Children_of_Navae.md) ) [Authorityiconfaction](The_Central_Authority.md) **Authority Patrol** : _Authority scouts have been spotted in the region. A reward has been promised to whoever can send them packing._
+    -   Tasks the player with defeating two [Authority Officers](Authority_Officer.md) and two [Authority Soldiers](Authority_Soldier.md).
+
+-   (From [Authorityiconfaction](The_Central_Authority.md) ) [Authorityiconfaction](The_Central_Authority.md) **Clash Of Empires** : _Tensions between the Hundred Legions and the Central Authority have come to a head. A dispute between soldiers of the rival empires has exploded into a bloodbath. Put a stop to this._
     -   Tasks the player with defeating two enemy soldiers, either two [Legion Soldiers](Legion_Soldier.md) or two [Authority Officers](Authority_Officer.md).
 
 -   **Lodestar Bounty** : _A mysterious figure wielding a bow and wandering around aimlessly has been causing a surprising amount of trouble. A reward is offered to whoever can put a stop to this madness._
     -   Tasks the player with defeating [Lodestar](Lodestar.md).
 
--   **Restricted Technology**
+-   (From [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) ) [Authorityiconfaction](The_Central_Authority.md) [Hiveiconfaction](The_Hive.md) **Restricted Technology**
     -   Tasks the player with defeating either a [Authority Captain](Authority_Captain.md) or [Golem Construct](Hive_Construct.md).
 
--   **Thresher Infestation** : _A price has been put on the head of a Thresher that displays the potential to become a greater threat._
+-   (From [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Hiveiconfaction](The_Hive.md) ) **Thresher Infestation** : _A price has been put on the head of a Thresher that displays the potential to become a greater threat._
     -   Tasks the player with slaying a [Thresher](Thresher.md).
 
--   **Thresher Regicide** : _A king has emerged from the fierce competition between Threshers. Slay it at all costs._
+-   (From [Authorityiconfaction](The_Central_Authority.md) [Navaeiconfaction](The_Children_of_Navae.md) [Hiveiconfaction](The_Hive.md) ) **Thresher Regicide** : _A king has emerged from the fierce competition between Threshers. Slay it at all costs._
     -   Tasks the player with slaying a [Thresher](Thresher.md) and [King Thresher](King_Thresher.md).
 
   
@@ -101,34 +104,34 @@ _Jobs relating to the Starswept Valley can be given by [The Central Authority](T
 
 _Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Diversiconfaction](The_Divers.md) and [The Ignition Union](The_Ignition_Union.md) ._
 
--   **A Daunting Task** : _A Megalodaunt has been spotted in the region. With due caution, a price has been placed upon its head._
+-   (From [Diversiconfaction](The_Divers.md) ) **A Daunting Task** : _A Megalodaunt has been spotted in the region. With due caution, a price has been placed upon its head._
     -   Tasks the player with slaying a [Megalodaunt](Megalodaunt.md).
 
--   **Alpha Rescue**
+-   (From [Diversiconfaction](The_Divers.md) ) **Alpha Rescue**
     -   Tasks the player with slaying a [Alpha Megalodaunt](Alpha_Megalodaunt.md). Three [Divers](Diver.md) will spawn to assist the player.
 
--   **Broodlord Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Broodlord Extermination**
     -   Tasks the player with slaying a [Mudskipper Broodlord](Mudskipper_Broodlord.md).
 
--   **Brute Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Brute Extermination**
     -   Tasks the player with slaying a [Mudskipper Brute](Mudskipper_Brute.md).
 
--   **Coldheart Fortinbras**
+-   (From [Diversiconfaction](The_Divers.md) ) **Coldheart Fortinbras**
     -   Tasks the player with defeating [Coldheart Fortinbras](Coldheart_Fortinbras.md).
 
--   **Crustaceous Regicide**
+-   (From [Diversiconfaction](The_Divers.md) ) **Crustaceous Regicide**
     -   Tasks the player with slaying a [Crustaceous Rex](Crustaceous_Rex.md).
 
--   **Deep Owl Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Deep Owl Extermination**
     -   Tasks the player with slaying a [Deep Owl](Deep_Owl.md).
 
--   **Drowned Delver**
+-   (From ) **Drowned Delver**
     -   Tasks the player with defeating [Finnegan The Lost](Finnegan_The_Lost.md).
 
--   **Gigamed Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Gigamed Extermination**
     -   Tasks the player with slaying a pack of three [Gigameds](Gigamed.md).
 
--   **Lionfish Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Lionfish Extermination**
     -   Tasks the player with slaying a [Lionfish](Lionfish.md).
 
 -   **Megalodaunt Extermination**
@@ -140,13 +143,13 @@ _Jobs relating to The Depths can be given by [The Divers](The_Divers.md) [Divers
 -   **The Fisherman**
     -   Tasks the player with defeating [The Fisherman](The_Fisherman.md).
 
--   **Thresher Extermination**
+-   (From [Diversiconfaction](The_Divers.md) ) **Thresher Extermination**
     -   Tasks the player with slaying two [Threshers](Thresher.md).
 
 -   **Thresher Regicide**
     -   Tasks the player with slaying a [King Thresher](King_Thresher.md).
 
--   **Thresher Rescue**
+-   (From [Diversiconfaction](The_Divers.md) ) **Thresher Rescue**
     -   Tasks the player with slaying a [King Thresher](King_Thresher.md). Three [Divers](Diver.md) will spawn to assist the player.
         
 

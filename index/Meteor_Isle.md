@@ -1,6 +1,6 @@
 ---
 title: Meteor Isle
-revid: 199027
+revid: 201775
 source: https://deepwoken.fandom.com/wiki/Meteor_Isle
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Locations, Locations in the Eastern Luminant, The Children of Navae]
@@ -33,6 +33,7 @@ Remnants of the stars themselves rain down upon this rocky spire.
 -   Well.
 -   Cauldron.
 -   [Saffron](Saffron.md) - [Oathless](Oath%253A_Oathless.md) quest requirement.
+-   [Sev](Sev.md) - Dye Packets & Manycolored Equipment in exchange for [Crowns](Crowns.md).
 
 ## Events
 

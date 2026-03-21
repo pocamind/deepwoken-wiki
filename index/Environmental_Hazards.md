@@ -1,6 +1,6 @@
 ---
 title: Environmental Hazards
-revid: 180117
+revid: 201773
 source: https://deepwoken.fandom.com/wiki/Environmental_Hazards
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Mechanics]
@@ -34,7 +34,7 @@ categories: [Mechanics]
 <tr>
   <td>Acid Rain</td>
   <td><a href="Upper_Erisia.md">Upper Erisia</a>, summoned via <a href="Rain_Spire.md">Rain Spire</a> and <a href="Rain_(enchantment).md">Rain</a> enchantment.</td>
-  <td>Passively damages the player and drains their armor. Damage and armor damage taken can be negated by using the <a href="Boons_and_Flaws.md#survivalist">Survivalist</a> Boon. <a href="Etrean.md">Etreans</a> take less damage from Acid Rain.</td>
+  <td>Passively damages the player by about ~1,3%/second and drains their armor. Damage and armor damage taken can be negated by using the <a href="Boons_and_Flaws.md#survivalist">Survivalist</a> Boon. <a href="Etrean.md">Etreans</a> take less damage from Acid Rain.</td>
 </tr>
 <tr>
   <td>Sandstorm</td>

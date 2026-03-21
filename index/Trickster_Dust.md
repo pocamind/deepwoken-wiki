@@ -1,6 +1,6 @@
 ---
 title: Trickster Dust
-revid: 200214
+revid: 201774
 source: https://deepwoken.fandom.com/wiki/Trickster_Dust
 license: CC BY-SA 3.0 (content derived from the Deepwoken Wiki)
 categories: [Pathfinder Exclusive, Relics, Items]
@@ -11,7 +11,7 @@ categories: [Pathfinder Exclusive, Relics, Items]
 | Trickster Dust | |
 |---|---|
 | value | 0 |
-| stack | x? |
+| stack | x5 |
 | type | Treasure |
 | rarity | Relic |
 | usage | Crafting |
